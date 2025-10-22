@@ -1,0 +1,56 @@
+{{SkyEvent
+| image = Days-of-Sky-2021-promo-image.jpg
+| previousevent = [[Sky Anniversary/2020|2020]]
+| nextevent = [[Sky Anniversary/2022|2022]]
+| date = July 12 to July 25, 2021
+| years = {{#lst:Sky Anniversary|Anniversary Years}}
+}}
+The Sky Second Anniversary celebration began '''July 12, 2021 at 00:00 PDT (UTC-7)''' and concluded '''July 25, 2021 at 23:59 PDT (UTC-7)''', lasting '''14''' days.
+<gallery widths="200" spacing="small">
+Days of Sky Anniversary Guide.jpg|thumb|Anniversary Staff
+2nd anniversary.png
+</gallery>
+
+===2021 New Cosmetics and Props===
+
+====2nd Birthday Hat====
+The 2nd Birthday Hat is a light blue beret with two ribbon tails. This [[Hair Accessory]] was introduced in 2021 for {{Cost|3 H}} from the Anniversary Guide. It was only available during Sky's 2021 Anniversary.
+{{#tag:gallery
+|{{Icon Name|2nd Birthday Hat|icon}} {{!}} {{Icon Name|2nd Birthday Hat|name}} icon
+{{Icon Name|2nd Birthday Hat|real}} {{!}} {{Icon Name|2nd Birthday Hat|name}} front
+2nd_anniversary_hat_back.png {{!}} {{Icon Name|2nd Birthday Hat|name}} back
+BirthdayHat2 FrontBack.jpg {{!}} {{Icon Name|2nd Birthday Hat|name}} front and back
+|widths=125|spacing=small|captionalign=center
+}}
+
+==== Anniversary Birthday Flag====
+The Anniversary Birthday Flag (also known as  Sky Anniversary Pennants) is a set of colorful flags strung between two poles. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality.  This Prop was introduced in 2021 for {{Cost|20 C}} from the Anniversary Guide. It appears as a smaller version of the flags placed down on its owner's back when carried.
+{{#tag:gallery
+|{{Icon Name|Anniversary Birthday Flag|icon}} {{!}} {{Icon Name|Anniversary Birthday Flag|name}} icon
+{{Icon Name|Anniversary Birthday Flag|real}} {{!}} {{Icon Name|Anniversary Birthday Flag|name}}
+Days of sky 2021 pennants on back.png {{!}} {{Icon Name|Anniversary Birthday Flag|name}} on your back
+Anniversary flag pennant string.jpg {{!}} {{Icon Name|Anniversary Birthday Flag|name}}
+BirthdayFlag.png {{!}} {{Icon Name|Anniversary Birthday Flag|name}}
+|widths=125|spacing=small|captionalign=center
+}}
+
+===2021 New Spells===
+====Birthday Cake Spells<span id="Birthday Cake Spells"></span><span id="Small Birthday Cake Spell"></span><span id="Medium Birthday Cake Spell"></span><span id="Large Birthday Cake Spell"></span>====
+For the occasion, multiple Small, Medium, and Large Birthday Cake Spells were available to purchase. The Small Birthday Cake Spells cost {{Cost|2 C}} each, and the Medium Birthday Cake Spells cost {{Cost|4 C}} each.
+<gallery widths="125" spacing="small" captionalign="center">
+Days of Sky - Small cake.png|Small Cake Spell icon
+Days of Sky - Medium cake.png|Medium Cake Spell icon
+Days of Sky - Large cake.png|Large Cake Spell icon
+AllCakes.jpg|All Cake Spells together
+AnniversaryCakeParty.png|Large Cake Spell
+</gallery>
+
+==References==
+'''More information about Sky Anniversary 2021 can be found on [https://www.thatskygame.com/news/happy-2nd-anniversary-sky ThatSkyGame's Website].'''
+<references />
+
+{{#lst:Sky Anniversary|Anniversary Navbox}}
+
+[[ja:Skyアニバーサリー/2021]]
+[[pt-br:Aniversário do Sky/2021]]
+[[ru:Годовщина Sky/2021]]

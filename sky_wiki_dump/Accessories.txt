@@ -1,0 +1,12 @@
+{{Disambiguation}}
+There are four [[Cosmetics|cosmetic]] categories that are commonly called '''Accessories''':
+* {{Spirit Item| Chill Sunbather | facepiece | table | label=Face Accessories | link=Face Accessories }} [[Face Accessories]]: extra items worn on the face.
+* {{Spirit Item| Comfort of Kindness | neckpiece | table | label=Necklaces | link=Necklaces }} [[Necklaces|Neck Accessories]]: also known as '''Necklaces''', all items worn around the neck, including [[Seasonal Events|Seasonal]] pendants.
+* {{Days Item| Summer Hat | icon | table | label=Hair Accessories | link=Hair Accessories }} [[Hair Accessories]]: extra items worn on top of hair.
+* {{Spirit Item| Bearhug Hermit | headpiece | table | label=Head Accessories | link=Head Accessories }} [[Head Accessories]]: extra items worn on the head.
+
+[[ja:アクセサリー]]
+[[de:Schmuck]]
+[[pt-br:Acessórios]]
+
+[[Category:Cosmetics]]

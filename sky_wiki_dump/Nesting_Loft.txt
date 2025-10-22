@@ -1,0 +1,96 @@
+{{Spirit Infobox
+|type      = Non
+|emote_type= None
+|image     = Nesting-Loft-Shop.png
+|cosmetics = {{Spirit Item|Nesting Loft|Cape|infobox}}
+|props	   = {{Spirit Item|Nesting Loft|prop_b|link=Nesting Loft#Bed|infobox}}{{Spirit Item|Nesting Loft|prop_c|link=Nesting Loft#Chair|infobox}}{{Spirit Item|Nesting Loft|prop_p|link=Nesting Loft#Paintings|infobox}}
+|season    = Nesting
+|realm     = Aviary Village
+|location  = [[Nesting Workshop]]
+|ts        = None
+}}
+<section begin="Summary" />The '''Nesting Loft''' is a [[Ancestors#Seasonal Entities|Seasonal Shop]] from the [[Season of Nesting]]. The Nesting Loft was found within the [[Nesting Workshop]] in [[Aviary Village]], marked outside by a sign with Nesting's emblem. Unlike typical [[Seasonal Spirits]], there is no need to first relive a [[Spirit Memories|spirit memory]] to access this Shop and it does not offer an [[Expression]]. The collectibles offered by this Shop are a {{Spirit Item|Nesting Loft|Cape|inline_text}}, a {{Spirit Item|Nesting Loft|prop_b|inline_text|link=Nesting Loft#Bed|label=Bed Prop}}, a {{Spirit Item|Nesting Loft|prop_c|inline_text|link=Nesting Loft#Chair|label=Chair Prop}}, and a {{Spirit Item|Nesting Loft|prop_p|inline_text|link=Nesting Loft#Paintings|label=Paintings Prop}}.<section end="Summary" />
+
+==Cosmetics==
+===Cape===
+The [[Cape]] offered by this Shop is an angular blue cloak that only covers the player's back, with a pale blue trim and orange interior, somewhat reminiscent of a blueprint or pattern. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's third node ({{Cost|60 SC|season=Nesting}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Loft|Cape|icon}} {{!}} The Cape icon
+{{Icon Name|Nesting Loft|cape|front}} {{!}} The Cape front
+{{Icon Name|Nesting Loft|cape|interior}} {{!}} The Cape interior
+{{Icon Name|Nesting Loft|cape|real}} {{!}} The Cape back
+{{Icon Name|Nesting Loft|cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Prop">Props</span>===
+This Seasonal Shop offers a total of three [[Props]]: a [[#Bed|Bed]], a [[#Chair|Chair]], and [[#Paintings|Paintings]].
+
+====Bed====
+The [[Prop]] offered by this Shop is a bed made with a pale wood frame, featuring a curved headboard and yellow bedsheets and pillows. It is a placeable Prop that can be used to decorate [[Shared Spaces]] and seats a single player. When carried on its owner's back, it appears in its original form. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's first node ({{Cost|12 SC|season=Nesting}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Loft|prop_b|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Loft|prop_b|real}} {{!}} The Prop
+Nesting-Loft-Single-Bed-Prop-Using.png {{!}} The Prop in use
+{{Icon Name|Nesting Loft|prop_b|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Chair====
+The [[Prop]] offered by this Shop is a rounded chair made with pale wood and a yellow pillow on its seat. It is a placeable Prop that can be used to decorate [[Shared Spaces]] and seats a single player. When carried on its owner's back, it appears in its original form. It was offered to all players for {{Cost|20 SC|season=Nesting}} during the Season, from the Friendship Tree's second node ({{Cost|32 SC|season=Nesting}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Loft|prop_c|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Loft|prop_c|real}} {{!}} The Prop
+Nesting-Loft-Chair-Prop-Using.png {{!}} The Prop in use
+{{Icon Name|Nesting Loft|prop_c|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Paintings====
+The [[Prop]] offered by this Shop is a set of three small paintings with pale wood frames that depict a grassy dome, a [[Manta]], and clouds (reminiscent of the scenery in [[Daylight Prairie]]). It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, it appears in its original form. It was offered to all players for {{Cost|36 SC|season=Nesting}} during the Season, from the Friendship Tree's fourth node ({{Cost|96 SC|season=Nesting}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Loft|prop_p|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Loft|prop_p|real}} {{!}} The Prop
+{{Icon Name|Nesting Loft|prop_p|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Season Friendship Tree ==
+{{Friendship Tree Info | season| season=Nesting}}<section begin="Season Friendship Tree" />
+{{Friendship Tree
+|spirit = Nesting Loft
+|image  = Nesting-Loft-Shop.png
+|type   = season
+|season = Nesting
+
+|nodeC5 = season_heart 3 SC SP
+
+|nodeL4 = spellx SP
+|nodeC4 = prop_p 36 SC
+|  linkC4 = Nesting Loft#Paintings
+
+|nodeL3 = cape SP
+|nodeC3 = spellx 28 SC
+
+|nodeL2 = spellx SP
+|nodeC2 = prop_c 20 SC
+|  linkC2 = Nesting Loft#Chair
+
+|nodeL1 = prop_b SP
+|  linkL1 = Nesting Loft#Bed
+|nodeC1 = spellx 12 SC
+}}<section end="Season Friendship Tree" />
+
+==References==
+<references />
+
+[[fr:Loft de la Nidification]]
+[[pt-br:Loft do Ninho]]
+[[ja:巣づくりのロフト]]
+[[de:Nistboden]]
+
+[[Category:Season of Nesting]]

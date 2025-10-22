@@ -1,0 +1,110 @@
+{{Spirit Infobox
+|type      = Non
+|emote_type= None
+|image     = The-Pianists-Flourishing-Shop.png
+|cosmetics = <!--
+-->{{Spirit Item|The Pianist's Flourishing|Outfit|infobox}}<!--
+-->{{Spirit Item|The Pianist's Flourishing|Shoes|infobox}}
+|props	   = {{Spirit Item|The Pianist's Flourishing|Prop|infobox}}
+|season    = Duets
+|realm     = Aviary Village
+|location  = Concert Hall
+|related   = <!--
+-->{{Spirit|Compassionate Cellist|infobox}}<!--
+-->{{Spirit|The Cellist's Beginnings|infobox}}<!--
+-->{{Spirit|The Cellist's Flourishing|infobox}}<!--
+-->{{Spirit|The Musicians' Legacy|infobox}}<!--
+-->{{Spirit|The Pianist's Beginnings|infobox}}<!--
+-->{{Spirit|Duets Guide|infobox}}
+|ts        = None
+}}
+<section begin="Summary" />'''The Pianist's Flourishing''' is a [[Ancestors#Seasonal Entities|Seasonal Shop]] from the [[Season of Duets]]. The Pianist's Flourishing is found in the [[Concert Hall]] in [[Aviary Village]], within the curtained hallway behind the stage after completing the [[Season of Duets#Quest #1|first Seasonal Quest]]. Unlike typical [[Seasonal Spirits]], there is no need to first relive a [[Spirit Memories|spirit memory]] to access this Shop and it does not offer an [[Expression]]. The collectibles offered by this Shop are an {{Spirit Item|The Pianist's Flourishing|Outfit|inline_text}}, {{Spirit Item|The Pianist's Flourishing|Shoes|inline_text}}, and a {{Spirit Item|The Pianist's Flourishing|Prop|inline_text|label=Piano Wall Poster Prop}}.<section end="Summary" />
+
+==Cosmetics==
+===<span id="Outfit">Outfit</span>===
+The [[Outfit]] offered by this Shop is a sleeveless dark blue tailcoat with gold hems and a pair of wide, dark blue pants with a light blue geometric pattern wrapping around the hem. When worn, light blue tattoos appear on the player's bare arms. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's third node ({{Cost|60 SC|season=Duets}} total)<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|The Pianist's Flourishing|outfit|icon}} {{!}} The Outfit icon
+{{Icon Name|The Pianist's Flourishing|outfit|real}} {{!}} The Outfit front
+{{Icon Name|The Pianist's Flourishing|outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Shoes">Shoes</span>===
+The [[Shoes]] offered by this Shop is a pair of light gray boots with both the heels and toes exposed. It was offered to all players for {{Cost|22 SC|season=Duets}} during the Season, from the Friendship Tree's second node ({{Cost|34 SC|season=Duets}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|The Pianist's Flourishing|shoes|icon}} {{!}} The Shoes icon
+{{Icon Name|The Pianist's Flourishing|shoes|real}} {{!}} The Shoes
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines
+}}
+
+===<span id="Prop">Prop</span>===
+The [[Prop]] offered by this Shop is a light and dark blue rectangular poster with a piano keyboard design. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, it appears as a blue bag with a yellow drawstring. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's first node ({{Cost|12 SC|season=Duets}} total)<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|The Pianist's Flourishing|prop|icon}} {{!}} The Prop icon
+{{Icon Name|The Pianist's Flourishing|prop|real}} {{!}} The Prop
+{{Icon Name|The Pianist's Flourishing|prop|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+<!--   ONLY APPLICABLE ONCE SPIRIT HAS BECOME A TRAVELING SPIRIT 
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling
+|ts_dates=*MONTH DAY, YEAR (#NUMBER)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = The Pianist's Flourishing
+|image  = The-Pianists-Flourishing-Shop.png
+|season = Duets
+
+|nodeC6 = Outfit 60 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Mask 30 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+The hints given before The Pianist's Flourishing's first appearance were: 
+{{Collapse
+|label=First Visit Hints
+|content=<div>
+*  [ hints can be on the official Sky Discord which are posted a few days before the traveling spirit by staff of thatgamecompany. ]
+</div>
+}}-->
+
+==Season Friendship Tree ==
+{{Friendship Tree Info | season| season=Duets}} <section begin="Season Friendship Tree" />
+{{Friendship Tree
+|spirit = The Pianist's Flourishing
+|image  = The-Pianists-Flourishing-Shop.png
+|type   = season
+|season = Duets
+
+|nodeC4 = season_heart 3 SC SP
+
+|nodeL3 = outfit SP
+|nodeC3 = spellx 26 SC
+
+|nodeL2 = spellx SP
+|nodeC2 = shoes 22 SC
+
+|nodeL1 = prop SP
+|nodeC1 = spellx 12 SC
+}}<section end="Season Friendship Tree" />
+
+==References==
+<references />
+
+[[fr:L'éclosion du Pianiste]]
+[[ja:栄光のピアニスト]]
+[[pt-br:O Desabrochar do Pianista]]
+
+{{DEFAULTSORT:Pianist's Flourishing, The}}

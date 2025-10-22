@@ -1,0 +1,207 @@
+{{Spirit Infobox
+|type     = Seasonal
+|emote_type= Emote
+|image    = <gallery>
+Sanctuary-Spirit-Chill-Sunbather.png|Standard
+Sanctuary-Spirit-Chill-Sunbather-Gold.png|Ascended
+</gallery>
+|emote    = {{Emote||infobox}}
+|cosmetics= {{Spirit Item||Facepiece|infobox}}{{Spirit Item||Hairpiece|infobox}}{{Spirit Item||Cape|infobox}}
+|props    = {{Spirit Item||Prop|infobox}}
+|season   = Sanctuary
+|realm     = Daylight Prairie
+|location = Sanctuary Islands
+|ts       = January 4, 2024 (#104)<br>August 19, 2021 (#42)
+}}
+<section begin="Summary" />The '''Chill Sunbather''' is a [[Seasonal Spirit]] from the [[Season of Sanctuary]] who offers the {{Emote|Chill Sunbather|inline_text}} Expression.  The Chill Sunbather is found in [[Sanctuary Islands]], next to a [[Darkness|Darkness Plant]] outside a cave on the front right side of the main island. The collectibles [[Chill Sunbather#Friendship Tree|offered]] by this Spirit are a {{Spirit Item|Chill Sunbather|Facepiece|inline_text}}, a {{Spirit Item|Chill Sunbather|Hairpiece|inline_text}}, a {{Spirit Item|Chill Sunbather|Cape|inline_text}}, and a {{Spirit Item|Chill Sunbather|Prop|label=Beach Recliner Prop|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Chill-Sunbather-promo-image.jpg|thumb|320px|none|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|197tor-WWVo||inline|Video Guide}}
+
+The Chill Sunbather can be found in [[Sanctuary Islands]], next to a [[Darkness|Darkness Plant]] outside a cave on the front right side of the main island. This Spirit has a [[Carry Spirit Memory|carry Spirit memory]] with 10 memory fragments and a 15-minute overall [[Timed Memory|time limit]].
+
+During the memory, the Spirit must be carried through the depths of the cave, up a winding path leading to a [[Children_of_Light#Sanctuary_Islands_(8)|Child of Light]], and then back out again. This cave is home to many [[Dark Crabs]] so repeated [[Deep Call|Deep Calls]] are recommended to prevent them from knocking players out of the Spirit's circle.
+
+As their memory unfolds, the Chill Sunbather can be seen exploring the cave at a leisurely pace alongside the [[Sanctuary Guide]], seeming unconcerned about the danger presented by the Dark Crabs. As the Spirit makes their way up the spiraling path towards its end, a mischievous pair of Crabs scuttle away with the Chill Sunbather's hat and sunglasses, prompting an alarmed Sanctuary Guide to chase after them to retrieve the stolen items. Unbothered by the theft, the Chill Sunbather continues traveling, eventually making their way back outside of the cave's entrance.
+
+At the end of the memory, the Chill Sunbather stands within the cave at the bottom of the winding path, relaxed and idly scratching their belly despite missing both their cape along with their hat and sunglasses. The Sanctuary Guide jogs up to the Spirit to hand over the recovered items, which the Chill Sunbather accepts with little fanfare. Dressed once again in their tropical attire, the Spirit returns to idly scratching their belly as the Sanctuary Guide shakes their head with exasperation.<br>
+<br>
+[[File:01 DP Seasonal Spirit - Chill Sunbather.png|200px|thumb|none|Relive the Chill Sunbather's memory]]
+</div>
+{{Clear}}
+
+==Expression==
+This Spirit offers the {{Emote||inline_text}} (also called '''Chill''') [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Chill-Sunbather-belly-scratch-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Chill-Sunbather-belly-scratch-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Chill-Sunbather-belly-scratch-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Chill-Sunbather-belly-scratch-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar lean back, head tilted to periodically look around, and scratch their belly with their right hand while a low squeaky sound effect plays with every scratch. This action is continued for as long as you don't move your character. Exiting this Expression will make your avatar heartily pat their belly with a nod while a drum sound effect plays. 
+*Level 2 makes the same motion as Level 1 with sparkles appearing from the avatar's scratching hand, and a glowing blue halo surrounding the same hand during the final pat gesture.
+*Level 3 will make your avatar lean back exaggeratedly, head tilted to periodically look around, and pat their belly with both hands while a hollow drum sound effect plays with every pat. This action is continued for as long as you don't move your character.
+*Level 4 makes the same motion as Level 3 with sparkles appearing from the avatar's hands.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+==Cosmetics==
+===<span id="Mask">Face Accessory</span>===
+The [[Face Accessory]]<ref name="Mask recategorized">This item was recategorized from a [[Mask]] to a [[Face Accessory]] as a result of the [[Outfit Shrine|Closet]] category expansion in Patch {{v|0.22.0}}.</ref> offered by this Spirit is a large pair of sunglasses with opaque orange lenses and white frames, costing {{Cost|66 C}}<ref name="Sunglasses price change">The Chill Sunbather's Face Accessory price increased from {{Cost|50 C}} to {{Cost|66 C}} during their second visit as a Traveling Spirit, presumably due to the new lens effect added to the item in Patch {{v|0.21.0}}.</ref> from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|16 SC|season=Sanctuary}} total). In the {{v|0.21.0}} Patch, a toggle was added to apply an orange/yellow tint to the game.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||facepiece|icon}} {{!}} The Face Accessory icon
+{{Icon Name||facepiece|real}} {{!}} The Face Accessory
+Chill-Sunbather-Glasses-Tint.png {{!}} Example of the yellow/orange tint
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Hair">Hair Accessory</span>===
+The [[Hair Accessory]]<ref name="Hair recategorized">This item was recategorized from a [[Hair]] to a [[Hair Accessory]] as a result of the [[Outfit Shrine|Closet]] category expansion in Patch {{v|0.22.0}}.</ref> offered by this Spirit is a frayed and floppy tan sunhat adorned with a small golden [[Dark Crabs|Crab]] on the right side, costing {{Cost|44 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fourth node ({{Cost|54 SC|season=sanctuary}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||hairpiece|icon}} {{!}} The Hair Accessory icon
+{{Icon Name||hairpiece|real}} {{!}} The Hair Accessory front
+{{Icon Name||hairpiece|side}} {{!}} Golden Crab on the Hair Accessory
+{{Icon Name||hairpiece|back}} {{!}} The Hair Accessory back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Cape===
+The [[Cape]] offered by this Spirit uses the [[Capes#Base_Cape|Base Cape]] shape and is dark orange with a lighter orange floral pattern and interior, costing {{Cost|70 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fifth node ({{Cost|76 SC|season=Sanctuary}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||cape|interior}} {{!}} The Cape interior
+{{Icon Name||Cape|real}} {{!}} The Cape back
+{{Icon Name||Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Prop===
+The [[Prop]] offered by this Spirit is a gray reclining beach lounge, costing {{Cost|20 C}} from the Traveling Spirit. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. Unlike most other chairs, this item does not offer the ability to [[Chat]] with other players - it is purely cosmetic and does not offer any functionality. It appears as a miniature recliner on its owner's back when carried.
+
+This item was not available during the [[Season of Sanctuary]]. Instead, it was added to the Chill Sunbather's Friendship Tree during their first visit as a Traveling Spirit on August 19, 2021, in conjunction with [[Days of Summer]]. During this event, a 30-minute preview Spell of the Prop ({{Icon|Days_of_summer_long_chair_spell.png|link=|label=Beach Recliner Prop Spell}}) was also available for free.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||prop}} {{!}} The Prop icon
+{{Icon Name||prop|real}} {{!}} The Prop
+{{Icon Name||prop|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Traveling Spirit==
+[[File:Traveling Spirit Price Chart - Chill sunbather.png|200px|right|thumb]]
+{{Friendship Tree Info|traveling
+|ts_dates=*January 4, 2024 (#104)
+*August 19, 2021 (With a new [[#Prop|Prop]]) (#42)
+}}<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Chill Sunbather
+|image  = Sanctuary-Spirit-Chill-Sunbather.png
+|season = Sanctuary
+
+|nodeC6 = Cape 70 C
+|nodeC5 = spell5
+
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeR4 = Hairpiece 44 C
+
+|nodeC3 = wing
+
+|nodeL2 = facepiece 66 C
+|  noteL2 = <ref name="Sunglasses price change">The Chill Sunbather's Face Accessory price increased from {{Cost|50 C}} to {{Cost|66 C}} during their second visit as a Traveling Spirit, presumably due to the new lens effect added to the item in Patch {{v|0.21.0}}.</ref> 
+|nodeC2 = spell5
+|nodeR2 = heart
+
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+|nodeR1 = Prop 20 C
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+The hints given before the [[Chill Sunbather]]'s first appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=First Visit Hint
+|content=<div>
+* Likes to share fashion tips with friends
+* Their favorite flavors are tangerine and cherry
+* Would be someone who'd like Cheetos in milk
+* Likes Romcom movies
+* Dislikes hot tea. Except the gossip kind
+* Likes soap operas
+* DOESN'T betray their friends
+* Is a really fast swimmer
+* Is allergic to bug bites
+* Once broke their arm climbing trees
+* Is now afraid of heights
+* Dislikes salty snacks, but loves sweets
+* Loves to stop and smell flowers
+* Likes being warm over being cold
+* Likes listening to lofi music
+* Doesn't like mystery books
+* Sometimes forgets to floss
+* Loves boba tea
+* Likes to braid other spirit's hair
+* Likes art and crafts
+* Would probably be a Leo, if zodiacs existed in Sky
+* Likes to be the life of the party
+* Will not be selling snacks
+* Tells great puns
+* Likes to eat decorated cakes
+* Likes to pose for art portraits
+</div>}}
+
+== Season Friendship Tree==
+{{Friendship Tree Info|season|season=Sanctuary}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Chill Sunbather
+|image  = Sanctuary-Spirit-Chill-Sunbather.png
+|type   = season
+|season = Sanctuary
+
+|nodeC6 = season_heart 3 SC AP
+|nodeL5 = spell5 AP
+|nodeC5 = Cape 22 SC
+
+|nodeL4 = spell5 AP
+|nodeC4 = Hairpiece 20 SC
+
+|nodeL3 = emote4 AP
+|nodeC3 = emote3 18 SC
+|nodeL2 = facepiece AP
+
+|nodeC2 = spell5 16 SC
+|nodeL1 = emote2 AP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Trivia==
+*The Chill Sunbather is the first [[Traveling Spirit]] to have a video teaser instead of the usual silhouette image before it arrived.
+*The Chill Sunbather sold the event In-App Purchases during [[Days of Nature]]. During [[Additional_Light_Sources#Sunset_Sanctuary_Turtle|Sunset]] in [[Sanctuary Islands]], they could be found roaming the island that hosted the event; interacting with them in this time period allowed items to be purchased.
+**A bug at the end of Days of Nature 2022 caused the Chill Sunbather to still roam the island during Sunset once the event ended. An interaction icon still appeared over the Spirit's head, and clicking on it displayed a message saying you've bought everything the Spirits has to offer. This was shown regardless of whether you ever purchased any of the event cosmetics. The bug has since been fixed.
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Bellyscratch expression.jpg
+Sanctuary Images recap-chill how to.jpg
+Sanctuary Images recap-chill group.jpg
+Chill sunbather map.png
+</gallery>
+
+==References==
+<references />
+
+[[de:Gechillter Sonnenbader]]
+[[pt-br:Banhista Relaxado]]
+[[ru:Расслабленный пляжник]]
+[[fr:Bain de soleil relaxant]]

@@ -1,0 +1,66 @@
+{{Stub}}
+{{Location
+|image = SoDuets-Concert-Hall-promo-image.png <!-- PLACEHOLDER; see the images used for other subareas as examples -->
+|realm = Aviary Village
+|access = [[Aviary Village]]
+|season = Duets
+|seasonal_spirits = None
+|children_of_light = 0
+|pieces_of_light = 0
+|map =
+|mapcaption =
+}}
+
+<section begin="Summary" />The '''Concert Hall''' is a Seasonal Area introduced along with the [[Season of Duets]] in Patch [[Update:Live_0.26.0_(272243_Android,_Huawei,_iOS,_PlayStation,_Steam)_(272595_Switch)|0.26.0]]. All the [[Season of Duets#Spirit Memory Quests|Quests]], [[Spirits]], and activities can be found in the area. To enter the Concert Hall, head to [[Aviary Village]] and ride the boat through a passageway in the water to the right of the [[Aviary Village#Spell Shop|Spell Shop]]. In this area you, too, may discover ways that music brings meaningful moments to life!<section end="Summary" />
+==Overview==
+The Concert Hall is a large, circular cave with a stage and interior canal. To enter the Hall, players ride a boat through a tunnel. The main room contains the stage, and is decorated with wall hangings, chat tables for concert-goers, a large skylight, and shining spotlights. Backstage, players can find ''non-interactable'' versions of the Seasonal Entities [[The Pianist's Beginnings]], [[The Cellist's Beginnings]], [[The Musicians' Legacy]], [[The Cellist's Flourishing]], and [[The Pianist's Flourishing]]. Further backstage is the dressing room, with the [[Compassionate Cellist]] and [[Duets Guide]], an [[Cosmetics#Outfit_Shrines|Outfit Shrine]], and an alternate entrance between the Concert Hall and Aviary Village (by the Realm Portals).
+
+
+==Activities==
+===Duets Quests===
+<div style="float:right">{{Mobile Tabber|textonly=1
+|tab1 = 1
+|c1   = <div> {{#ev:youtube|UrMBVmXywAw|300|right}} </div>
+|tab2 = 2
+|c2   = <div> {{#ev:youtube|m2YRUVuwqik|300|right}} </div>
+|tab3 = 3
+|c3   = <div> {{#ev:youtube|4MlPAoxl90Q|300|right}} </div>
+|tab4 = 4
+|c4   = <div> {{#ev:youtube|79QrQf5PH5I|300|right}} </div>
+|tab5 = 5
+|c5   = <div> {{#ev:youtube|2g660HfdDjo|300|right}} </div>
+}}</div>
+In the Concert Hall, players are able to do Seasonal Quests from [[Season of Duets]], a series of tasks challenging the player to restore the stage and follow the story of two musicians who once connected through their music.
+{{Clear}}
+
+===Spotlight Tech===
+Introduced in Patch {{v|0.28.5}}, Spotlight Tech allows players to share their music with each other on the [[Concert Hall]]'s grand piano. The area can hold up to 300 players through the [[Festival Tech]] feature.
+
+To perform on stage, the player may select the {{Icon|Perform-on-stage-icon.png}} music note icon (found beside the {{Icon|Festival-tech-emote-Ray.png}} Festival Tech Emote icon) to join the queue. To remove themselves from the queue, players may select the {{Icon|Hourglass-icon.png}} hourglass icon. When it is a player's turn to perform, they will be teleported to the piano. Performing uses the standard music interface, where players can can access [[Music Sheets]]. The performer will have approximately 1 minute and 30 seconds, but can end their performance earlier by selecting the square-shaped stop icon. At the end, a pop-up will appear with the number of other players who listened to the performer's music!<br><small>Spotlight Tech is available to all players who have completed the [[Season_of_Duets#Quest_#2|Quest #2]] from the Season of Duets.</small>
+
+<!--
+==Trivia==
+* Trivia 1
+* Trivia 2 
+-->
+
+==Gallery==
+<gallery widths="225" spacing="small" captionalign="center" hideaddbutton="true" mode="nolines">
+SoDuets-boat-promo-image.png
+SoDuets-backstage-promo-image.png
+SoDuets-Concert-Hall-promo-image.png
+</gallery>
+<!--
+==References==
+<references /> -->
+
+{{GameLevelsNav}}
+
+[[fr:Hall de Concert]]
+[[de:Konzerthalle]]
+[[pt-br:Sala de Concertos]]
+[[ja:コンサートホール]]
+
+[[Category:Aviary Village]]
+[[Category:Locations]]
+[[Category:Music]]

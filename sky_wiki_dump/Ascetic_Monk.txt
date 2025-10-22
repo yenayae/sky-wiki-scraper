@@ -1,0 +1,145 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = Moments-Spirit-Ascetic-Monk.png
+|cosmetics = {{Spirit Item||Outfit|infobox}}{{Spirit Item||Mask|infobox}}{{Spirit Item||Hair|infobox}}
+|props	   = 
+|music     = 
+|season    = Moments
+|realm     = Daylight Prairie
+|location  = Prairie Peaks
+|ts        = None
+}}
+<section begin="Summary" />The '''Ascetic Monk''' is a [[Seasonal Spirit]] from the [[Season of Moments]] who offers the {{Emote|Ascetic Monk|inline_text}} Expression. The Ascetic Monk is found in the [[Prairie Peaks]], on the snowy mountain top to the left about halfway through the area. The collectibles [[#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Ascetic Monk|Outfit|inline_text}}, a {{Spirit Item|Ascetic Monk|Mask|inline_text}}, and a {{Spirit Item|Ascetic Monk|Hair|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Ascetic Monk Promo art.png|thumb|320px|none|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|v8ecSqd3NOA|thumb|inline|Video Guide}}
+
+The Ascetic Monk can be found in the [[Prairie Peaks]], on the snowy mountain top to the left about halfway through the area. Climb the side of the mountain via a natural path that will take you directly to the Spirit. A few flowers strewn across your path can help you gain back your wing power if you don't have enough to go all the way. This Spirit has a [[Standard Memory|standard memory]] with 8 memory fragments and a 15-minute overall [[Timed Memory|time limit]]. 
+
+As their memory unfolds, the Ascetic Monk can be seen building three structures resembling [[wikipedia:Cairn|cairns]], carefully pilling stones on top of each other to form a triangle. Once completed, they strike a meditative pose at the center and concentrate to balance the rocks - but a strong wind knocks the Spirit off their feet, causing the structures to collapse on themselves. Undeterred, they start over and build the structures back up, once again attempting to achieve balance. 
+
+At the end of the memory, the Ascetic Monk is in harmony with the wind, keeping all three monuments in balance at the same time. However, their concentration soon breaks, and the three monuments fall yet again. Discouraged by the situation, the Ascetic Monk slumps in defeat and lets their arms fall.
+</div>
+
+==<span id="Expression">Expression</span>==
+{{Distinguish|type=emote|Telekinesis|Float|Float Spin}}
+This Spirit offers the {{Emote|Ascetic Monk|inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name|Ascetic Monk|emote}}|x170px]]
+<gallery heights="125" captionalign="center">
+Ascetic-Monk-Blindfold-Balance-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Ascetic-Monk-Blindfold-Balance-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Ascetic-Monk-Blindfold-Balance-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Ascetic-Monk-Blindfold-Balance-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar lift one foot off the ground and place it inwards on the other thigh, while aso raising both hands into the air, then bring one hand in front of their chest with their palm facing inward and the other on top of their head, palm facing inward as well, while their Cape blows back in the wind. This action is continued for as long as you don't move your avatar. Upon doing so, your avatar will first join both hand above their head, before slowly bringing them both down to their sides by keeping their arms straight, as well as bring down their leg. 
+*Level 2 makes the same motion as Level 1, with a trail of evenly spaced out glowing white orbs following the motion of your avatar's hands in the beginning and end of the Expression, as well as a multi-layered golden glowing halo appearing around their head as they stay in position.
+*Level 3 will make your avatar bend down slightly and slowly move their arms in a rounded shape as if gathering momentum while lifting off the ground, levitating, a knee bent, arms at their sides with their palms facing down, and their Cape flapping with the wind. This action is continued for as long as you don't move your avatar.
+*Level 4 makes the same motion as Level 3, with bursts of small, white glowing sparkles bursting outwards in a circle shape from your avatar's hands as they ascend and descend, and big, orange glowing sparkles spiraling around their body as they stay floating.
+
+<!--As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+-->
+
+==Cosmetics==
+===<span id="Outfit">Outfit</span>===
+The [[Outfit]] offered by this Spirit is a long gray robe with dull blue ornaments, long sleeves, and a beige sash with yellow ornaments wrapped from shoulder to hip. It was available to all players during the Season from the Friendship Tree's fifth node ({{Cost|82 SC|season=Moments}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Outfit|icon}} {{!}} The Outfit icon
+{{Icon Name||Outfit|real}} {{!}} The Outfit front
+{{Icon Name||Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Mask">Mask</span>===
+The [[Mask]] offered by this Spirit is a beige bandana marked with a yellow triangle, that wraps around the player's eyes and is tied in the back with a knot. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|6 SC|season=Moments}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Hair">Hair</span>===
+The [[Hair]] offered by this Spirit is a yellow sun-shaped tattoo printed on a shaved head. It was available to all players during the Season from the Friendship Tree's third node ({{Cost|24 SC|season=Moments}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair back
+{{Icon Name||Hair|side}} {{!}} The Hair side
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling }} <!--   ONLY APPLICABLE ONCE SPIRIT HAS BECOME A TRAVELING SPIRIT 
+|ts_dates=
+}}<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Ascetic Monk
+|image = Moments-Spirit-Ascetic-Monk.png
+|season = season
+
+|nodeC6 = Outfit ? C
+|nodeR5 = Hair ? C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Mask ? C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+The hints given before the [[Ascetic Monk]]'s first appearance were: 
+{{Collapse
+|label=First Visit Hints
+|content=<div>
+*  [ hints can be on the official Sky Discord which are posted a few days before the traveling spirit by staff of thatgamecompany. ]
+</div>
+}} -->
+
+==Season Friendship Tree ==
+{{Friendship Tree Info | season| season=Moments}} <section begin="Season Friendship Tree" />
+{{Friendship Tree
+|spirit = Ascetic Monk
+|image  = Moments-Spirit-Ascetic-Monk.png
+|type   = season
+|season = Moments
+
+|nodeC6 = season_heart 3 SC SP
+
+|nodeL5 = spellx SP
+|nodeC5 = outfit 32 SC
+|nodeL4 = emote4 SP
+|nodeC4 = emote3 26 SC
+|nodeL3 = spellx SP
+|nodeC3 = hair 18 SC
+|nodeL2 = mask SP
+|nodeC2 = spellx 6 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote Free
+}}<section end="Season Friendship Tree" />
+
+==Unique Daily Quests==
+{{#section-h:Quests/Daily Quest Spirits|{{PAGENAME}}}}
+
+==Personality==
+On July 15, 2023, TGC officially announced and introduced the Ascetic Monk with the following personality traits:
+
+*📆 Visits Prairie Peaks at least 4 times a year 
+*⚡ Loves thunderstorms
+*🪡 Finds sewing clothes very relaxing
+*🧘 Good luck trying to startle them
+
+==References==
+<references />
+
+[[pt-br:Monge Asceta]]
+[[fr:Moine ascétique]]
+[[de:Asketen-Mönch]]

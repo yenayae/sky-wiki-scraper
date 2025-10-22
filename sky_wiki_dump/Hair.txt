@@ -1,0 +1,1416 @@
+[[File:Sky-Closet-Hairstyles-Morybel-0146.png|thumb|left|x200px|Icon used for the Hair Outfit Shrine]]
+'''Hair''' (also called '''Hairstyles''') are [[Cosmetics]] that cover the player's head. It is the single largest category of cosmetics in the game, featuring a wide variety of styles and designs to choose from. The current Hair is selected in the middle [[Outfit Shrine]], where they are listed in the first tab (the Base Hair {{Icon| Icon_hair_default.png | label=}} icon). The second tab in the Hair Closet (the hat {{Icon| Icon hair summer hat headpiece.png | label= }} icon) lists the available [[Hair Accessories]] and the third tab in the Hair Closet (the horns {{Icon| Icon hair dreams hermit horns.png | label= }} icon) lists the available [[Head Accessories]]. Players can wear one Hair, one Hair Accessory, and one Head Accessory simultaneously.
+
+While the vast majority of Hairs represent the player's hair (or lack of hair), some hats are listed within the Hair category and ''not'' the Hair Accessory category, completely replacing the player's previous Hair. This makes the distinction between a Hair and a Hair Accessory somewhat fluid - and allows players to wear two hats at the same time. Note that almost all of the actual hairs in the game are solid white, with only a few featuring streaks or tint of color.
+
+== <span id="Base Hairstyle">Base Hair</span> ==
+This is the Hair worn by the player at the start of the game. It is a short, angular bob with a cowlick at the crown and a longer lock of hair on the right side adorned by a silver and blue band.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Default|hair}} {{!}} The Hair icon
+{{Icon Name|Default|hair_real}} {{!}} The Hair front
+Hair-Base-1-side.png {{!}} The Hair side
+Hair-Base-1-back.png {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+{{clear}}
+
+Two more base game Hairs were added with Patch {{v|0.23.4}} in November 2023 to supplement the basic styles available to new players. The first is a short, simple cut with tight curls. The second features bangs and a pair of low pigtails that drape over the player's back, tied with a silver and blue band.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Default|hair_b}} {{!}} The Hair icon
+{{Icon Name|Default|hair_b_real}} {{!}} The Hair
+{{Icon Name|Default|hair_c}} {{!}} The Hair icon
+{{Icon Name|Default|hair_c_real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+{{clear}}
+
+== Display ==
+<section begin="Display" />{{#invoke:Cosmetics Tabber|tabber
+| {{Spirit Item| Default | hair | tab | link= }}
+| {{Spirit Item| Default | hair_real | closet_display | link=Hair#Base Hairstyle}}
+| {{Spirit Item| Default | hair_b | tab | link= }}
+| {{Spirit Item| Default | hair_b_real | closet_display | link=Hair#Base Hairstyle}}
+| {{Spirit Item| Default | hair_c | tab | link= }}
+| {{Spirit Item| Default | hair_c_real | closet_display | link=Hair#Base Hairstyle}}
+| {{Spirit Item| Ushering Stargazer | hair | tab | link= }} 
+| {{Spirit Item| Ushering Stargazer | hair_real | closet_display }}
+| {{Spirit Item| Bird Whisperer | hair | tab | link= }} 
+| {{Spirit Item| Bird Whisperer | hair_real | closet_display }}
+| {{Spirit Item| Applauding Bellmaker | hair | tab | link= }} 
+| {{Spirit Item| Applauding Bellmaker | hair_real | closet_display }}
+| {{Spirit Item| Apologetic Lumberjack | hair | tab | link= }} 
+| {{Spirit Item| Apologetic Lumberjack | hair_real | closet_display }}
+| {{Spirit Item| Dismayed Hunter | hair | tab | link= }} 
+| {{Spirit Item| Dismayed Hunter | hair_real | closet_display }}
+| {{Spirit Item| Waving Bellmaker | hair | tab | link= }} 
+| {{Spirit Item| Waving Bellmaker | hair_real | closet_display }}
+| {{Spirit Item| Saluting Captain | hair | tab | link= }} 
+| {{Spirit Item| Saluting Captain | hair_real | closet_display }}
+| {{Spirit Item| Pointing Candlemaker | hair | tab | link= }} 
+| {{Spirit Item| Pointing Candlemaker | hair_real | closet_display }}
+| {{Spirit Item| Slumbering Shipwright | hair | tab | link= }} 
+| {{Spirit Item| Slumbering Shipwright | hair_real | closet_display }}
+| {{Spirit Item| Tearful Light Miner | hair | tab | link= }} 
+| {{Spirit Item| Tearful Light Miner | hair_real | closet_display }}
+| {{Spirit Item| Blushing Prospector | hair | tab | link= }} 
+| {{Spirit Item| Blushing Prospector | hair_real | closet_display }}
+| {{Spirit Item| Confident Sightseer | hair | tab | link= }} 
+| {{Spirit Item| Confident Sightseer | hair_real | closet_display }}
+| {{Spirit Item| Hide'n'Seek Pioneer | hair | tab | link= }} 
+| {{Spirit Item| Hide'n'Seek Pioneer | hair_real | closet_display }}
+| {{Spirit Item| Shivering Trailblazer | hair | tab | link= }} 
+| {{Spirit Item| Shivering Trailblazer | hair_real | closet_display }}
+| {{Spirit Item| Courageous Soldier | hair | tab | link= }} 
+| {{Spirit Item| Courageous Soldier | hair_real | closet_display }}
+| {{Spirit Item| Rejecting Voyager | hair | tab | link= }} 
+| {{Spirit Item| Rejecting Voyager | hair_real | closet_display }}
+| {{Spirit Item| Pouty Porter | hair | tab | link= }} 
+| {{Spirit Item| Pouty Porter | hair_real | closet_display }}
+| {{Spirit Item| Fainting Warrior | hair | tab | link= }} 
+| {{Spirit Item| Fainting Warrior | hair_real | closet_display }}
+| {{Spirit Item| Stealthy Survivor | hair | tab | link= }} 
+| {{Spirit Item| Stealthy Survivor | hair_real | closet_display }}
+| {{Spirit Item| Levitating Adept | hair | tab | link= }} 
+| {{Spirit Item| Levitating Adept | hair_real | closet_display }}
+| {{Spirit Item| Meditating Monastic | hair | tab | link= }} 
+| {{Spirit Item| Meditating Monastic | hair_real | closet_display }}
+| {{Spirit Item| Praying Acolyte | hair | tab | link= }} 
+| {{Spirit Item| Praying Acolyte | hair_real | closet_display }}
+| {{Spirit Item| Bowing Medalist | hair | tab | link= }} 
+| {{Spirit Item| Bowing Medalist | hair_real | closet_display }}
+| {{Spirit Item| Backflipping Champion | hair | tab | link= }} 
+| {{Spirit Item| Backflipping Champion | hair_real | closet_display }}
+| {{Spirit Item| Cheerful Spectator | hair | tab | link= }} 
+| {{Spirit Item| Cheerful Spectator | hair_real | closet_display }}
+| {{Spirit Item| Frightened Refugee | hair | tab | link= }} 
+| {{Spirit Item| Frightened Refugee | hair_real | closet_display }}
+| {{Spirit Item| Laughing Light Catcher | hair | tab | link= }} 
+| {{Spirit Item| Laughing Light Catcher | hair_real | closet_display }}
+| {{Spirit Item| Isle Elder | hair | tab | link= }} 
+| {{Spirit Item| Isle Elder | hair_real | closet_display }}
+| {{Spirit Item| Prairie Elder | hair | tab | link= }} 
+| {{Spirit Item| Prairie Elder | hair_real | closet_display }}
+| {{Spirit Item| Forest Elder | hair | tab | link= }} 
+| {{Spirit Item| Forest Elder | hair_real | closet_display }}
+| {{Spirit Item| Valley Elder | hair | tab | link= }} 
+| {{Spirit Item| Valley Elder | hair_real | closet_display }}
+| {{Spirit Item| Valley Elder | hair_b | tab | link= | label=Valley Elder Hair 2 }} 
+| {{Spirit Item| Valley Elder | hair_b_real | closet_display | label=Valley Elder Hair 2 }}
+| {{Spirit Item| Wasteland Elder | hair | tab | link= }} 
+| {{Spirit Item| Wasteland Elder | hair_real | closet_display }}
+| {{Spirit Item| Vault Elder | hair | tab | link= }} 
+| {{Spirit Item| Vault Elder | hair_real | closet_display }}
+| {{Spirit Item| Sassy Drifter | Hair | tab | link= }} 
+| {{Spirit Item| Sassy Drifter | hair_real | closet_display }}
+| {{Spirit Item| Provoking Performer | Hair | tab | link= }} 
+| {{Spirit Item| Provoking Performer | hair_real | closet_display }}
+| {{Spirit Item| Stretching Guru | Hair | tab | link= }} 
+| {{Spirit Item| Stretching Guru | hair_real | closet_display }}
+| {{Spirit Item| Crab Whisperer | Hair | tab | link= }} 
+| {{Spirit Item| Crab Whisperer | hair_real | closet_display }}
+| {{Spirit Item| Twirling Champion | Hair | tab | link= }} 
+| {{Spirit Item| Twirling Champion | hair_real | closet_display }}
+| {{Spirit Item| Piggyback Lightseeker | Hair | tab | link= }} 
+| {{Spirit Item| Piggyback Lightseeker | hair_real | closet_display }}
+| {{Spirit Item| Laidback Pioneer | Hair | tab | link= }} 
+| {{Spirit Item| Laidback Pioneer | hair_real | closet_display }}
+| {{Spirit Item| Doublefive Light Catcher | Hair | tab | link= }} 
+| {{Spirit Item| Doublefive Light Catcher | hair_real | closet_display }}
+| {{Spirit Item| Confetti Cousin | Hair | tab | link= }} 
+| {{Spirit Item| Confetti Cousin | hair_real | closet_display }}
+| {{Spirit Item| Sparkler Parent | Hair | tab | link= }} 
+| {{Spirit Item| Sparkler Parent | hair_real | closet_display }}
+| {{Spirit Item| Festival Spin Dancer | Hair | tab | link= }} 
+| {{Spirit Item| Festival Spin Dancer | hair_real | closet_display }}
+| {{Spirit Item| Troupe Juggler | Hair | tab | link= }} 
+| {{Spirit Item| Troupe Juggler | hair_real | closet_display }}
+| {{Spirit Item| Respectful Pianist | Hair | tab | link= }} 
+| {{Spirit Item| Respectful Pianist | hair_real | closet_display }}
+| {{Spirit Item| Rhythm | hair_u | tab | link= }} 
+| {{Spirit Item| Rhythm | hair_u_real | closet_display | link=Rhythm_Guide#Rhythm_Ultimate_Hair }}
+| {{Spirit Item| Nodding Muralist | Hair | tab | link= }} 
+| {{Spirit Item| Nodding Muralist | hair_real | closet_display }}
+| {{Spirit Item| Scarecrow Farmer | Hair | tab | link= }} 
+| {{Spirit Item| Scarecrow Farmer | hair_real | closet_display }}
+| {{Spirit Item| Snoozing Carpenter | Hair | tab | link= }} 
+| {{Spirit Item| Snoozing Carpenter | hair_real | closet_display }}
+| {{Spirit Item| Crab Walker | Hair | tab | link= }} 
+| {{Spirit Item| Crab Walker | hair_real | closet_display }}
+| {{Spirit Item| Indifferent Alchemist | Hair | tab | link= }} 
+| {{Spirit Item| Indifferent Alchemist | hair_real | closet_display }}
+| {{Spirit Item| Playfighting Herbalist | Hair | tab | link= }} 
+| {{Spirit Item| Playfighting Herbalist | hair_real | closet_display }}
+| {{Spirit Item| Enchantment Guide | hair_u | tab | link= }} 
+| {{Spirit Item| Enchantment Guide | hair_u_real | closet_display | link=Enchantment_Guide#Enchantment_Ultimate_Hair }}
+| {{Spirit Item| Jelly Whisperer | Hair | tab | link= }} 
+| {{Spirit Item| Jelly Whisperer | hair_real | closet_display }}
+| {{Spirit Item| Timid Bookworm | hair | tab | link= }} 
+| {{Spirit Item| Timid Bookworm | hair_real | closet_display }}
+| {{Spirit Item| Rallying Thrillseeker | Hair | tab | link= }} 
+| {{Spirit Item| Rallying Thrillseeker | hair_real | closet_display }}
+| {{Spirit Item| Hiking Grouch | Hair | tab | link= }} 
+| {{Spirit Item| Hiking Grouch | hair_real | closet_display }}
+| {{Spirit Item| Grateful Shell Collector | Hair | tab | link= }} 
+| {{Spirit Item| Grateful Shell Collector | hair_real | closet_display }}
+| {{Spirit Item| Prophet of Water | Hair | tab | link= }} 
+| {{Spirit Item| Prophet of Water | hair_real | closet_display }}
+| {{Spirit Item| Prophet of Earth | Hair | tab | link= }} 
+| {{Spirit Item| Prophet of Earth | hair_real | closet_display }}
+| {{Spirit Item| Prophet of Air | Hair | tab | link= }} 
+| {{Spirit Item| Prophet of Air | hair_real | closet_display }}
+| {{Spirit Item| Prophet of Fire | Hair | tab | link= }} 
+| {{Spirit Item| Prophet of Fire | hair_real | closet_display }}
+| {{Spirit Item| Bearhug Hermit | Hair | tab | link= }} 
+| {{Spirit Item| Bearhug Hermit | hair_real | closet_display }}
+| {{Spirit Item| Dancing Performer | Hair | tab | link= }} 
+| {{Spirit Item| Dancing Performer | hair_real | closet_display }}
+| {{Spirit Item| Spinning Mentor | Hair | tab | link= }} 
+| {{Spirit Item| Spinning Mentor | hair_real | closet_display }}
+| {{Spirit Item| Assembly Guide | hair_u | tab | link= }} 
+| {{Spirit Item| Assembly Guide | hair_u_real | closet_display | link=Assembly_Guide#Assembly_Ultimate_Hair }}
+| {{Spirit Item| Daydream Forester | Hair | tab | link= }} 
+| {{Spirit Item| Daydream Forester | hair_real | closet_display }}
+| {{Spirit Item| Marching Adventurer | Hair | tab | link= }} 
+| {{Spirit Item| Marching Adventurer | hair_real | closet_display }}
+| {{Spirit Item| Baffled Botanist | Hair | tab | link= }} 
+| {{Spirit Item| Baffled Botanist | hair_real | closet_display }}
+| {{Spirit Item| Scolding Student | Hair | tab | link= }} 
+| {{Spirit Item| Scolding Student | hair_real | closet_display }}
+| {{Spirit Item| Scaredy Cadet | Hair | tab | link= }} 
+| {{Spirit Item| Scaredy Cadet | hair_real | closet_display }}
+| {{Spirit Item| Slouching Soldier | Hair | tab | link= }} 
+| {{Spirit Item| Slouching Soldier | hair_real | closet_display }}
+| {{Spirit Item| Gloating Narcissist | Hair | tab | link= }} 
+| {{Spirit Item| Gloating Narcissist | hair_real | closet_display }}
+| {{Spirit Item| Stretching Lamplighter | Hair | tab | link= }} 
+| {{Spirit Item| Stretching Lamplighter | hair_real | closet_display }}
+| {{Spirit Item| Beckoning Ruler | Hair | tab | link= }} 
+| {{Spirit Item| Beckoning Ruler | hair_real | closet_display }}
+| {{Spirit Item| Sneezing Geographer | Hair | tab | link= }} 
+| {{Spirit Item| Sneezing Geographer | hair_real | closet_display }}
+| {{Spirit Item| The Rose | hair_u | tab | link= }} 
+| {{Spirit Item| The Rose | hair_u_real | closet_display | link=The_Rose#Little_Prince_Ultimate_Hair }}
+| {{Spirit Item| Talented Builder | Hair | tab | link= }} 
+| {{Spirit Item| Talented Builder | hair_real | closet_display }}
+| {{Spirit Item| Tinkering Chimesmith | Hair | tab | link= }} 
+| {{Spirit Item| Tinkering Chimesmith | hair_real | closet_display }}
+| {{Spirit Item| Light Whisperer | Hair | tab | link= }} 
+| {{Spirit Item| Light Whisperer | hair_real | closet_display }}
+| {{Spirit Item| Lively Navigator | Hair | tab | link= }} 
+| {{Spirit Item| Lively Navigator | hair_real | closet_display }}
+| {{Spirit Item| Cackling Cannoneer | Hair | tab | link= }} 
+| {{Spirit Item| Cackling Cannoneer | hair_real | closet_display }}
+| {{Spirit Item| Ceasing Commodore | Hair | tab | link= }} 
+| {{Spirit Item| Ceasing Commodore | hair_real | closet_display }}
+| {{Spirit Item| Anxious Angler | Hair | tab | link= }} 
+| {{Spirit Item| Anxious Angler | hair_real | closet_display }}
+| {{Spirit Item| Performance Guide | hair_u | tab | link= }} 
+| {{Spirit Item| Performance Guide | hair_u_real | closet_display | link=Performance_Guide#Performance_Ultimate_Hair }}
+| {{Spirit Item| Modest Dancer | Hair | tab | link= }} 
+| {{Spirit Item| Modest Dancer | hair_real | closet_display }}
+| {{Spirit Item| Frantic Stagehand | Hair | tab | link= }} 
+| {{Spirit Item| Frantic Stagehand | hair_real | closet_display }}
+| {{Spirit Item| Forgetful Storyteller | Hair | tab | link= }} 
+| {{Spirit Item| Forgetful Storyteller | hair_real | closet_display }}
+| {{Spirit Item| Mellow Musician | Hair | tab | link= }} 
+| {{Spirit Item| Mellow Musician | hair_real | closet_display }}
+| {{Spirit Item| Ancient Darkness | hair | tab | link= }} 
+| {{Spirit Item| Ancient Darkness | hair_real | closet_display }}
+| {{Spirit Item| Ancient Light | hair_m | tab | link= | label=Ancient Light (Manta) }} 
+| {{Spirit Item| Ancient Light | hair_m_real | closet_display | label=Ancient Light (Manta) }}
+| {{Spirit Item| Ancient Light | hair_j | tab | link= | label=Ancient Light (Jellyfish) }} 
+| {{Spirit Item| Ancient Light | hair_j_real | closet_display | label=Ancient Light (Jellyfish) }}
+| {{Spirit Item| Seed of Hope | hair | tab | link= }} 
+| {{Spirit Item| Seed of Hope | hair_real | closet_display }}
+| {{Spirit Item| Running Wayfarer | hair | tab | link= }} 
+| {{Spirit Item| Running Wayfarer | hair_real | closet_display }}
+| {{Spirit Item| Warrior of Love | hair | tab | link= }} 
+| {{Spirit Item| Warrior of Love | hair_real | closet_display }}
+| {{Spirit Item| Mindful Miner | hair | tab | link= }} 
+| {{Spirit Item| Mindful Miner | hair_real | closet_display }}
+| {{Spirit Item| AURORA Guide | hair_i | tab | link= | label=AURORA Runaway Hairstyle }} 
+| {{Spirit Item| AURORA Guide | hair_i_real | closet_display | label=AURORA Runaway Hairstyle | link=Season of AURORA#Runaway Hair }}
+| {{Spirit Item| AURORA Guide | hair_u | tab | link= }} 
+| {{Spirit Item| AURORA Guide | hair_u_real | closet_display | link=AURORA_Guide#AURORA_Ultimate_Hair }}
+| {{Spirit Item| Pleading Child | hair | tab | link= }} 
+| {{Spirit Item| Pleading Child | hair_real | closet_display }}
+| {{Spirit Item| Bereft Veteran | hair | tab | link= }} 
+| {{Spirit Item| Bereft Veteran | hair_real | closet_display }}
+| {{Spirit Item| Tiptoeing Tea-Brewer | hair | tab | link= }} 
+| {{Spirit Item| Tiptoeing Tea-Brewer | hair_real | closet_display }}
+| {{Spirit Item| Tumbling Troublemaker | hair | tab | link= }} 
+| {{Spirit Item| Tumbling Troublemaker | hair_real | closet_display }}
+| {{Spirit Item| Melancholy Mope | hair | tab | link= }} 
+| {{Spirit Item| Melancholy Mope | hair_real | closet_display }}
+| {{Spirit Item| Overactive Overachiever | hair | tab | link= }} 
+| {{Spirit Item| Overactive Overachiever | hair_real | closet_display }}
+| {{Spirit Item| Oddball Outcast | hair | tab | link= }} 
+| {{Spirit Item| Oddball Outcast | hair_real | closet_display }}
+| {{Spirit Item| Nightbird Whisperer | hair | tab | link= }} 
+| {{Spirit Item| Nightbird Whisperer | hair_real | closet_display }}
+| {{Spirit Item| Ascetic Monk | hair | tab | link= }} 
+| {{Spirit Item| Ascetic Monk | hair_real | closet_display }}
+| {{Spirit Item| Jolly Geologist | hair | tab | link= }} 
+| {{Spirit Item| Jolly Geologist | hair_real | closet_display }}
+| {{Spirit Item| Vestige of a Deserted Oasis | hair | tab | link= }} 
+| {{Spirit Item| Vestige of a Deserted Oasis | hair_real | closet_display }}
+| {{Spirit Item| Memory of a Lost Village | hair | tab | link= }} 
+| {{Spirit Item| Memory of a Lost Village | hair_real | closet_display }}
+| {{Spirit Item| Hopeful Steward | hair_u | tab | link= }} 
+| {{Spirit Item| Hopeful Steward | hair_u_real | closet_display | link=Hopeful_Steward#Revival_Ultimate_Hair }}
+| {{Spirit Item| Hopeful Steward | hair | tab | link= }} 
+| {{Spirit Item| Hopeful Steward | hair_real | closet_display }}
+| {{Spirit Item| Spirit of Mural | hair_u | tab | link= | label=Nine-Colored Deer Ultimate Hair }}
+| {{Spirit Item| Spirit of Mural | hair_u_real | closet_display | link=Spirit_of_Mural#Nine-Colored_Deer_Ultimate_Hair | label=Nine-Colored Deer Ultimate Hair }}
+| {{Spirit Item| Herb Gatherer | hair | tab | link= }}
+| {{Spirit Item| Herb Gatherer | hair_real | closet_display }}
+| {{Spirit Item| Princess | hair | tab | link= }}
+| {{Spirit Item| Princess | hair_real | closet_display }}
+| {{Spirit Item| Hunter | hair | tab | link= }}
+| {{Spirit Item| Hunter | hair_real | closet_display }}
+| {{Spirit Item| Nesting Atrium | hair | tab | link= }}
+| {{Spirit Item| Nesting Atrium | hair_real | closet_display }}
+| {{Spirit Item| The Pianist's Beginnings | hair | tab | link= }}
+| {{Spirit Item| The Pianist's Beginnings | hair_real | closet_display }}
+| {{Spirit Item| The Cellist's Beginnings | hair | tab | link= }}
+| {{Spirit Item| The Cellist's Beginnings | hair_real | closet_display }}
+| {{Spirit Item| Comfort of Kindness | hair | tab | link= }}
+| {{Spirit Item| Comfort of Kindness | hair_real | closet_display }}
+| {{Spirit Item| Spirit of Adventure | hair | tab | link= }}
+| {{Spirit Item| Spirit of Adventure | hair_real | closet_display }}
+| {{Spirit Item| Radiance Greeting Shaman | hair | tab | link= }}
+| {{Spirit Item| Radiance Greeting Shaman | hair_real | closet_display }}
+| {{Spirit Item| Radiance Leaping Dancer | hair | tab | link= }}
+| {{Spirit Item| Radiance Leaping Dancer | hair_real | closet_display }}
+| {{Spirit Item| Costumed Confetti Cousin | hair | tab | link= }} 
+| {{Spirit Item| Costumed Confetti Cousin | hair_real | closet_display }}
+| {{Spirit Item| Scarred Sentry | hair_p | tab | link= }} 
+| {{Spirit Item| Scarred Sentry | hair_p_real | closet_display }}
+| {{Spirit Item| Scarred Sentry | hair_c | tab | link= }} 
+| {{Spirit Item| Scarred Sentry | hair_c_real | closet_display }}
+| {{Spirit Item| Tender Toymaker | hair | tab | link= }} 
+| {{Spirit Item| Tender Toymaker | hair_real | closet_display }}
+| {{Spirit Item| Stern Shepherd | hair | tab | link= }} 
+| {{Spirit Item| Stern Shepherd | hair_real | closet_display }}
+| {{Days Item| Days of Fortune Bun Hair | icon | tab | link= }} 
+| {{Days Item| Days of Fortune Bun Hair | real | closet_display }}
+| {{Days Item| Days of Fortune Wool Hat | icon | tab | link= }} 
+| {{Days Item| Days of Fortune Wool Hat | real | closet_display }}
+| {{Days Item| Days of Fortune Lion Headdress | icon | tab | link= }} 
+| {{Days Item| Days of Fortune Lion Headdress | real | closet_display }}
+| {{Days Item| Days of Fortune Fish Hood | icon | tab | link= }} 
+| {{Days Item| Days of Fortune Fish Hood | real | closet_display }}
+| {{Days Item| Days of Bloom Hair | icon | tab | link= }} 
+| {{Days Item| Days of Bloom Hair | real | closet_display }}
+| {{Days Item| Bloom Arum Petal Hair | icon | tab | link= }} 
+| {{Days Item| Bloom Arum Petal Hair | real | closet_display }}
+| {{Days Item| Bloom Spiky Sprig Hair | icon | tab | link= }} 
+| {{Days Item| Bloom Spiky Sprig Hair | real | closet_display }}
+| {{Days Item| Bloom Rose Braided Hair | icon | tab | link= }} 
+| {{Days Item| Bloom Rose Braided Hair | real | closet_display }}
+| {{Days Item| Nature Wave-Touched Hair | icon | tab | link= }} 
+| {{Days Item| Nature Wave-Touched Hair | real | closet_display }}
+| {{Days Item| Ocean Manta Hair | icon | tab | link= }} 
+| {{Days Item| Ocean Manta Hair | real | closet_display }}
+| {{Days Item| Rainbow Hat | icon | tab | link= }} 
+| {{Days Item| Rainbow Hat | real | closet_display | link=Days_of_Color/2021#Rainbow_Hat }}
+| {{Days Item| Color Glam Cut | icon | tab | link= }} 
+| {{Days Item| Color Glam Cut | real | closet_display | link=Days_of_Color/2024#Color_Glam_Cut }}
+| {{Days Item| Rainbow Head Wrap | icon | tab | link= }} 
+| {{Days Item| Rainbow Head Wrap | real | closet_display | link=Days_of_Color/2025#Rainbow_Head_Wrap }}
+| {{Days Item| Marching Band Hat | icon | tab | link= }}
+| {{Days Item| Marching Band Hat | real | closet_display }}
+| {{Days Item| Tournament Curls | icon | tab | link= }}
+| {{Days Item| Tournament Curls | real | closet_display }}
+| {{Days Item| Moonlight Updo | icon | tab | link= }}
+| {{Days Item| Moonlight Updo | real | closet_display | link=Days_of_Moonlight#Moonlight_Frock_and_Updo }}
+| {{Days Item| Hungry Pumpkin Hat | icon | tab | link= }} 
+| {{Days Item| Hungry Pumpkin Hat | real | closet_display }}
+| {{Days Item| Mischief Witch Hat | icon | tab | link= }} 
+| {{Days Item| Mischief Witch Hat | real | closet_display }}
+| {{Days Item| Mischief Tufted Hair | icon | tab | link= }} 
+| {{Days Item| Mischief Tufted Hair | real | closet_display }}
+| {{Days Item| Mischief Witch Hair | icon | tab | link= }} 
+| {{Days Item| Mischief Witch Hair | real | closet_display }}
+| {{Days Item| Mischief Spider Quiff | icon | tab | link= }} 
+| {{Days Item| Mischief Spider Quiff | real | closet_display }}
+| {{Days Item| Mischief Spider Bun | icon | tab | link= }} 
+| {{Days Item| Mischief Spider Bun | real | closet_display }}
+| {{Days Item| Feast Hat | icon | tab | link= }} 
+| {{Days Item| Feast Hat | real | closet_display }}
+| {{Days Item| Winter Feast Hat | icon | tab | link= }} 
+| {{Days Item| Winter Feast Hat | real | closet_display }}
+| {{Days Item| Wonderland Frantic Hair | icon | tab | link= }} 
+| {{Days Item| Wonderland Frantic Hair | real | closet_display }}
+| {{Days Item| Amethyst-Tipped Tails | icon | tab | link= }} 
+| {{Days Item| Amethyst-Tipped Tails | real | closet_display }}
+| {{Days Item| Love Braids | icon | tab | link= }} 
+| {{Days Item| Love Braids | real | closet_display }}
+| {{Days Item| Wonderland Hare Hairstyle | icon | tab | link= }} 
+| {{Days Item| Wonderland Hare Hairstyle | real | closet_display }}
+| {{Days Item| Swirled Hairstyle | icon | tab | link= }} 
+| {{Days Item| Swirled Hairstyle | real | closet_display | link=Sky_×_Cinnamoroll_Pop-Up_Cafe#Cinnamoroll_Pop-Up_Cafe_Combo }}
+| {{Days Item| Kizuna Ai Hair | icon | tab | link= }} 
+| {{Days Item| Kizuna Ai Hair | real | closet_display | link=Kizuna_AI#Kizuna_AI_Pack }}
+| {{Icon| Icon_hair_Nintendo_elf.png | tab | link= | label=Nintendo Elf Hair }} 
+| {{Icon| Nintendo_elf_hair_v2.png | closet_display | link=Sky_for_Nintendo_Switch#Nintendo_Pack | label=Nintendo Elf Hair }}
+| {{Icon| Journey-Pack-Hairstyle-icon-Morybel-0146.png | tab | link= | label=Journey Hair }} 
+| {{Icon| JourneyPack-Hair-Nastymold.png | closet_display | link=Journey Pack | label=Journey Hair }}
+| {{Icon| Transcendent-Journey-Pack-Hair-icon.png | tab | label=Transcendent Journey Hair | link= }}
+| {{Icon| Transcendent-Journey-Pack-Hair-front.png | closet_display | label=Transcendent Journey Hair | link=Sky for Playstation#Transcendent Journey Pack }}
+| {{Spirit Item| Polite Scholar | hair | tab | link= }} 
+| {{Spirit Item| Polite Scholar | hair_real | closet_display }}
+| {{Days Item| Days of Fortune Snake Coif | icon | tab | link= }} 
+| {{Days Item| Days of Fortune Snake Coif | real | closet_display | link=Days_of_Fortune#Fortune_Snake_Coif_and_Cloak }}
+}}<section end="Display" />
+
+== Available Hairstyles ==
+This table lists all the Hairs that have ever been available in Sky; only a small subset of them are [[#Availability Legend|available]] for purchase at any given time. The default order is icon order, as used in the in-game [[Outfit Shrine]]. The table sort order can be changed by clicking on the header of any column.
+
+There is a separate article specifically for [[Hair Accessories]]; none of those items are listed here.
+
+{| class="article-table sortable"
+! class="unsortable" | Image
+! Icon
+! [[#Availability Legend|Avail.]]
+! Source
+! Cost
+! [[Dyes|Dye]]
+|- id="Base"
+| style="text-align: center;"| {{Spirit Item| Default | hair_real | table | link=Hair#Base Hairstyle }}
+| {{Spirit Item| Default | hair | table | sort=0 | link=Hair#Base Hairstyle}}
+| {{Avail Summary | permanent | source=Base }}
+| {{Cost | free }}
+| Yes
+|- id="Base 2"
+| style="text-align: center;"| {{Spirit Item| Default | hair_b_real | table | link=Hair#Base Hairstyle }}
+| {{Spirit Item| Default | hair_b | table | sort=1 | link=Hair#Base Hairstyle}}
+| {{Avail Summary | permanent | source=Base }}
+| {{Cost | free }}
+| No
+|- id="Base 3"
+| style="text-align: center;"| {{Spirit Item| Default | hair_c_real | table | link=Hair#Base Hairstyle }}
+| {{Spirit Item| Default | hair_c | table | sort=1 | link=Hair#Base Hairstyle}}
+| {{Avail Summary | permanent | source=Base }}
+| {{Cost | free }}
+| No
+|- id="Ushering Stargazer"
+| style="text-align: center;"| {{Spirit Item| Ushering Stargazer | hair_real | table }}
+| {{Spirit Item | Ushering Stargazer | hair | table | sort=7}}
+| {{Avail Summary | regular | spirit=Ushering Stargazer}}
+| {{Cost | free }}
+| No
+|- id="Bird Whisperer"
+| style="text-align: center;"| {{Spirit Item| Bird Whisperer | hair_real | table }}
+| {{Spirit Item | Bird Whisperer | hair | table | sort=9}}
+| {{Avail Summary | regular | spirit=Bird Whisperer}}
+| {{Cost | 5 H }}
+| No
+|- id="Applauding Bellmaker"
+| style="text-align: center;"| {{Spirit Item| Applauding Bellmaker | hair_real | table }}
+| {{Spirit Item | Applauding Bellmaker | hair | table | sort=8}}
+| {{Avail Summary | regular | spirit=Applauding Bellmaker }}
+| {{Cost | 3 H }}
+| No
+|- id="Apologetic Lumberjack"
+| style="text-align: center;"| {{Spirit Item| Apologetic Lumberjack | hair_real | table }}
+| {{Spirit Item | Apologetic Lumberjack | hair | table | sort=18}}
+| {{Avail Summary | regular | spirit=Apologetic Lumberjack }}
+| {{Cost | 3 H }}
+| No
+|- id="Dismayed Hunter"
+| style="text-align: center;"| {{Spirit Item| Dismayed Hunter | hair_real | table }}
+| {{Spirit Item | Dismayed Hunter | hair | table | sort=17}}
+| {{Avail Summary | regular | spirit=Dismayed Hunter }}
+| {{Cost | 5 H }}
+| No
+|- id="Waving Bellmaker"
+| style="text-align: center;"| {{Spirit Item| Waving Bellmaker | hair_real | table }}
+| {{Spirit Item | Waving Bellmaker | hair | table | sort=12}}
+| {{Avail Summary | regular | spirit=Waving Bellmaker }}
+| {{Cost | 2 H }}
+| No
+|- id="Saluting Captain"
+| style="text-align: center;"| {{Spirit Item| Saluting Captain | hair_real | table }}
+| {{Spirit Item | Saluting Captain | hair | table | sort=28}}
+| {{Avail Summary | regular | spirit=Saluting Captain }}
+| {{Cost | 5 H }}
+| No
+|- id="Pointing Candlemaker"
+| style="text-align: center;"| {{Spirit Item| Pointing Candlemaker | hair_real | table }}
+| {{Spirit Item| Pointing Candlemaker | hair | table | sort=5}}
+| {{Avail Summary | regular | spirit=Pointing Candlemaker }}
+| {{Cost | free }}
+| No
+|- id="Slumbering Shipwright"
+| style="text-align: center;"| {{Spirit Item| Slumbering Shipwright | hair_real | table }}
+| {{Spirit Item| Slumbering Shipwright | hair | table | sort=11}}
+| {{Avail Summary | regular | spirit=Slumbering Shipwright }}
+| {{Cost | 3 H }}
+| No
+|- id="Tearful Light Miner"
+| style="text-align: center;"| {{Spirit Item| Tearful Light Miner | hair_real | table }}
+| {{Spirit Item| Tearful Light Miner | hair | table | sort=19}}
+| {{Avail Summary | regular | spirit=Tearful Light Miner }}
+| {{Cost | 3 H }}
+| No
+|- id="Blushing Prospector"
+| style="text-align: center;"| {{Spirit Item| Blushing Prospector | hair_real | table }}
+| {{Spirit Item| Blushing Prospector | hair | table | sort=14}}
+| {{Avail Summary | regular | spirit=Blushing Prospector }}
+| {{Cost | 3 H }}
+| No
+|- id="Confident Sightseer"
+| style="text-align: center;"| {{Spirit Item| Confident Sightseer | hair_real | table }}
+| {{Spirit Item| Confident Sightseer | hair | table | sort=20}}
+| {{Avail Summary | regular | spirit=Confident Sightseer }}
+| {{Cost | 2 H }}
+| No
+|- id="Hide'n'Seek Pioneer"
+| style="text-align: center;"| {{Spirit Item| Hide'n'Seek Pioneer | hair_real | table }}
+| {{Spirit Item| Hide'n'Seek Pioneer | hair | table | sort=15}}
+| {{Avail Summary | regular | spirit=Hide'n'Seek Pioneer }}
+| {{Cost | 2 H }}
+| No
+|- id="Shivering Trailblazer"
+| style="text-align: center;"| {{Spirit Item| Shivering Trailblazer | hair_real | table }}
+| {{Spirit Item| Shivering Trailblazer | hair | table | sort=13}}
+| {{Avail Summary | regular | spirit=Shivering Trailblazer }}
+| {{Cost | 5 H }}
+| No
+|- id="Courageous Soldier"
+| style="text-align: center;"| {{Spirit Item| Courageous Soldier | hair_real | table }}
+| {{Spirit Item| Courageous Soldier | hair | table | sort=26}}
+| {{Avail Summary | regular | spirit=Courageous Soldier }}
+| {{Cost | 4 H }}
+| No
+|- id="Rejecting Voyager"
+| style="text-align: center;"| {{Spirit Item| Rejecting Voyager | hair_real | table }}
+| {{Spirit Item| Rejecting Voyager | hair | table | sort=6}}
+| {{Avail Summary | regular | spirit=Rejecting Voyager }}
+| {{Cost | 1 H }}
+| No
+|- id="Pouty Porter"
+| style="text-align: center;"| {{Spirit Item| Pouty Porter | hair_real | table }}
+| {{Spirit Item| Pouty Porter | hair | table | sort=16}}
+| {{Avail Summary | regular | spirit=Pouty Porter }}
+| {{Cost | 3 H }}
+| No
+|- id="Fainting Warrior"
+| style="text-align: center;"| {{Spirit Item| Fainting Warrior | hair_real | table }}
+| {{Spirit Item| Fainting Warrior | hair | table | sort=25}}
+| {{Avail Summary | regular | spirit=Fainting Warrior }}
+| {{Cost | 5 H }}
+| No
+|- id="Stealthy Survivor"
+| style="text-align: center;"| {{Spirit Item| Stealthy Survivor | hair_real | table }}
+| {{Spirit Item| Stealthy Survivor | hair | table | sort=27}}
+| {{Avail Summary | regular | spirit=Stealthy Survivor }}
+| {{Cost | 5 H }}
+| No
+|- id="Levitating Adept"
+| style="text-align: center;"| {{Spirit Item| Levitating Adept | hair_real | table }}
+| {{Spirit Item| Levitating Adept | hair | table | sort=30}}
+| {{Avail Summary | regular | spirit=Levitating Adept }}
+| {{Cost | 5 H }}
+| No
+|- id="Meditating Monastic"
+| style="text-align: center;"| {{Spirit Item| Meditating Monastic | hair_real | table }}
+| {{Spirit Item| Meditating Monastic | hair | table | sort=31}}
+| {{Avail Summary | regular | spirit=Meditating Monastic }}
+| {{Cost | 10 H }}
+| No
+|- id="Praying Acolyte"
+| style="text-align: center;"| {{Spirit Item| Praying Acolyte | hair_real | table }}
+| {{Spirit Item| Praying Acolyte | hair | table | sort=29}}
+| {{Avail Summary | regular | spirit=Praying Acolyte }}
+| {{Cost | 5 H }}
+| No
+|- id="Bowing Medalist"
+| style="text-align: center;"| {{Spirit Item| Bowing Medalist | hair_real | table }}
+| {{Spirit Item| Bowing Medalist | hair | table | sort=23}}
+| {{Avail Summary | regular | spirit=Bowing Medalist }}
+| {{Cost | 5 H }}
+| No
+|- id="Backflipping Champion"
+| style="text-align: center;"| {{Spirit Item| Backflipping Champion | hair_real | table }}
+| {{Spirit Item| Backflipping Champion | hair | table | sort=21}}
+| {{Avail Summary | regular | spirit=Backflipping Champion }}
+| {{Cost | 5 H }}
+| No
+|- id="Cheerful Spectator"
+| style="text-align: center;"| {{Spirit Item| Cheerful Spectator | hair_real | table }}
+| {{Spirit Item| Cheerful Spectator | hair | table | sort=22}}
+| {{Avail Summary | regular | spirit=Cheerful Spectator }}
+| {{Cost | 5 H }}
+| No
+|- id="Frightened Refugee"
+| style="text-align: center;"| {{Spirit Item| Frightened Refugee | hair_real | table }}
+| {{Spirit Item| Frightened Refugee | hair | table | sort=24}}
+| {{Avail Summary | regular | spirit=Frightened Refugee }}
+| {{Cost | 3 H }}
+| No
+|- id="Laughing Light Catcher"
+| style="text-align: center;"| {{Spirit Item| Laughing Light Catcher | hair_real | table }}
+| {{Spirit Item| Laughing Light Catcher | hair | table | sort=10}}
+| {{Avail Summary | regular | spirit=Laughing Light Catcher }}
+| {{Cost | 5 H }}
+| No
+|- id="Isle Elder Hair"
+| style="text-align: center;"| {{Spirit Item| Isle Elder | hair_real | table }}
+| {{Spirit Item| Isle Elder | hair | table | sort=32 }}
+| {{Avail Summary | elder | elder=Isle Elder }}
+| {{Cost| 4 AC }}
+| No
+|- id="Prairie Elder Hair"
+| style="text-align: center;"| {{Spirit Item| Prairie Elder | hair_real | table }}
+| {{Spirit Item| Prairie Elder | hair | table | sort=33 }}
+| {{Avail Summary | elder | elder=Prairie Elder }}
+| {{Cost| 3 AC }}
+| No
+|- id="Forest Elder Hair"
+| style="text-align: center;"| {{Spirit Item| Forest Elder | hair_real | table }}
+| {{Spirit Item| Forest Elder | hair | table | sort=34 }}
+| {{Avail Summary | elder | elder=Forest Elder }}
+| {{Cost| 6 AC }}
+| No
+|- id="Valley Elder Hair"
+| style="text-align: center;"| {{Spirit Item| Valley Elder | hair_real | table }}
+| {{Spirit Item| Valley Elder | hair | table | sort=35 }}
+| {{Avail Summary | elder | elder=Valley Elder }}
+| {{Cost| 6 AC }}
+| No
+|- id="Valley Elder Hair 2"
+| style="text-align: center;"| {{Spirit Item| Valley Elder | hair_b_real | table }}
+| {{Spirit Item| Valley Elder | hair_b | table | sort=36 }}
+| {{Avail Summary | elder | elder=Valley Elder }}
+| {{Cost| 5 AC }}
+| No
+|- id="Wasteland Elder Hair"
+| style="text-align: center;"| {{Spirit Item| Wasteland Elder | hair_real | table }}
+| {{Spirit Item| Wasteland Elder | hair | table | sort=37 }}
+| {{Avail Summary | elder | elder=Wasteland Elder }}
+| {{Cost| 6 AC }}
+| No
+|- id="Vault Elder Hair"
+| style="text-align: center;"| {{Spirit Item| Vault Elder | hair_real | table }}
+| {{Spirit Item| Vault Elder | hair | table | sort=38 }}
+| {{Avail Summary | elder | elder=Vault Elder }}
+| {{Cost| 5 AC }}
+| No
+|- id="Sassy Drifter"
+| style="text-align: center;"| {{Spirit Item| Sassy Drifter | hair_real | table }}
+| {{Spirit Item| Sassy Drifter | Hair | table | sort=40 }}
+| {{Avail Summary | season | spirit=Sassy Drifter | season=Gratitude }}
+| {{Cost | 26 C }}
+| Yes
+|- id="Provoking Performer"
+| style="text-align: center;"| {{Spirit Item| Provoking Performer | hair_real | table }}
+| {{Spirit Item| Provoking Performer | Hair | table | sort=42 }}
+| {{Avail Summary | season | spirit=Provoking Performer | season=Gratitude }}
+| {{Cost | 34 C }}
+| Yes
+|- id="Stretching Guru"
+| style="text-align: center;"| {{Spirit Item| Stretching Guru | hair_real | table }}
+| {{Spirit Item| Stretching Guru | Hair | table | sort=41 }}
+| {{Avail Summary | season | spirit=Stretching Guru | season=Gratitude }}
+| {{Cost | 26 C }}
+| Yes
+|- id="Crab Whisperer"
+| style="text-align: center;"| {{Spirit Item| Crab Whisperer | hair_real | table }}
+| {{Spirit Item| Crab Whisperer | Hair | table | sort=47 }}
+| {{Avail Summary | season | spirit=Crab Whisperer | season=Lightseekers }}
+| {{Cost | 42 C }}
+| Yes
+|- id="Twirling Champion"
+| style="text-align: center;"| {{Spirit Item| Twirling Champion | hair_real | table }}
+| {{Spirit Item| Twirling Champion | Hair | table | sort=46 }}
+| {{Avail Summary | season | spirit=Twirling Champion | season=Lightseekers }}
+| {{Cost | 34 C }}
+| No
+|- id="Piggyback Lightseeker"
+| style="text-align: center;"| {{Spirit Item| Piggyback Lightseeker | hair_real | table }}
+| {{Spirit Item| Piggyback Lightseeker | Hair | table | sort=43 }}
+| {{Avail Summary | season | spirit=Piggyback Lightseeker | season=Lightseekers }}
+| {{Cost | 26 C }}
+| Yes
+|- id="Laidback Pioneer"
+| style="text-align: center;"| {{Spirit Item| Laidback Pioneer | hair_real | table }}
+| {{Spirit Item| Laidback Pioneer | Hair | table | sort=45 }}
+| {{Avail Summary | season | spirit=Laidback Pioneer | season=Lightseekers }}
+| {{Cost | 18 C }}
+| No
+|- id="Doublefive Light Catcher"
+| style="text-align: center;"| {{Spirit Item| Doublefive Light Catcher | hair_real | table }}
+| {{Spirit Item| Doublefive Light Catcher | Hair | table | sort=44 }}
+| {{Avail Summary | season | spirit=Doublefive Light Catcher | season=Lightseekers }}
+| {{Cost | 34 C }}
+| Yes
+|- id="Confetti Cousin"
+| style="text-align: center;"| {{Spirit Item| Confetti Cousin | hair_real | table }}
+| {{Spirit Item| Confetti Cousin | Hair | table | sort=48 }}
+| {{Avail Summary | season | spirit=Confetti Cousin | season=Belonging }}
+| {{Cost | 42 C }}
+| Yes
+|- id="Sparkler Parent"
+| style="text-align: center;"| {{Spirit Item| Sparkler Parent | hair_real | table }}
+| {{Spirit Item| Sparkler Parent | Hair | table | sort=49 }}
+| {{Avail Summary | season | spirit=Sparkler Parent | season=Belonging }}
+| {{Cost | 34 C }}
+| Yes
+|- id="Festival Spin Dancer"
+| style="text-align: center;"| {{Spirit Item| Festival Spin Dancer | hair_real | table }}
+| {{Spirit Item| Festival Spin Dancer | Hair | table | sort=50 }}
+| {{Avail Summary | season | spirit=Festival Spin Dancer | season=Rhythm }}
+| {{Cost | 34 C }}
+| No
+|- id="Troupe Juggler"
+| style="text-align: center;"| {{Spirit Item| Troupe Juggler | hair_real | table }}
+| {{Spirit Item| Troupe Juggler | Hair | table | sort=51 }}
+| {{Avail Summary | season | spirit=Troupe Juggler | season=Rhythm }}
+| {{Cost | 42 C }}
+| No
+|- id="Respectful Pianist"
+| style="text-align: center;"| {{Spirit Item| Respectful Pianist | hair_real | table }}
+| {{Spirit Item| Respectful Pianist | Hair | table | sort=52 }}
+| {{Avail Summary | season | spirit=Respectful Pianist | season=Rhythm }}
+| {{Cost | 26 C }}
+| No
+|- id="Rhythm Ultimate Hair"
+| style="text-align: center;"| {{Spirit Item| Rhythm | hair_u_real | link=Rhythm_Guide#Rhythm_Ultimate_Hair | table }}
+| {{Spirit Item| Rhythm | hair_u | link=Rhythm_Guide#Rhythm_Ultimate_Hair | table | sort=53 }}
+| {{Avail Summary | ultimate | season=Rhythm }}
+| {{Cost | N/A }}
+| No
+|- id="Nodding Muralist"
+| style="text-align: center;"| {{Spirit Item| Nodding Muralist | hair_real | table }}
+| {{Spirit Item| Nodding Muralist | Hair | table | sort=54 }}
+| {{Avail Summary | season | spirit=Nodding Muralist | season=Enchantment }}
+| {{Cost | 34 C }}
+| No
+|- id="Scarecrow Farmer"
+| style="text-align: center;"| {{Spirit Item| Scarecrow Farmer | hair_real | table }}
+| {{Spirit Item| Scarecrow Farmer | Hair | table | sort=57 }}
+| {{Avail Summary | season | spirit=Scarecrow Farmer | season=Enchantment }}
+| {{Cost | 34 C }}
+| No
+|- id="Snoozing Carpenter"
+| style="text-align: center;"| {{Spirit Item| Snoozing Carpenter | hair_real | table }}
+| {{Spirit Item| Snoozing Carpenter | Hair | table | sort=58 }}
+| {{Avail Summary | season | spirit=Snoozing Carpenter | season=Enchantment }}
+| {{Cost | 34 C }}
+| No
+|- id="Crab Walker"
+| style="text-align: center;"| {{Spirit Item| Crab Walker | hair_real | table }}
+| {{Spirit Item| Crab Walker | Hair | table | sort=56 }}
+| {{Avail Summary | season | spirit=Crab Walker | season=Enchantment }}
+| {{Cost | 42 C }}
+| No
+|- id="Indifferent Alchemist"
+| style="text-align: center;"| {{Spirit Item| Indifferent Alchemist | hair_real | table }}
+| {{Spirit Item| Indifferent Alchemist | Hair | table | sort=55 }}
+| {{Avail Summary | season | spirit=Indifferent Alchemist | season=Enchantment }}
+| {{Cost | 42 C }}
+| No
+|- id="Playfighting Herbalist"
+| style="text-align: center;"| {{Spirit Item| Playfighting Herbalist | hair_real | table }}
+| {{Spirit Item| Playfighting Herbalist | Hair | table | sort=59 }}
+| {{Avail Summary | season | spirit=Playfighting Herbalist | season=Enchantment }}
+| {{Cost | 42 C }}
+| No
+|- id="Enchantment Ultimate Hair"
+| style="text-align: center;"| {{Spirit Item| Enchantment Guide | hair_u_real | link=Enchantment_Guide#Enchantment_Ultimate_Hair | table }}
+| {{Spirit Item| Enchantment Guide | hair_u | link=Enchantment_Guide#Enchantment_Ultimate_Hair | table | sort=60 }}
+| {{Avail Summary | ultimate | season=Enchantment }}
+| {{Cost | N/A }}
+| No
+|- id="Jelly Whisperer"
+| style="text-align: center;"| {{Spirit Item| Jelly Whisperer | hair_real | table }}
+| {{Spirit Item| Jelly Whisperer | Hair | table | sort=61 }}
+| {{Avail Summary | season | spirit=Jelly Whisperer | season=Sanctuary }}
+| {{Cost | 42 C }}
+| No
+|- id="Timid Bookworm"
+| style="text-align: center;"| {{Spirit Item| Timid Bookworm | hair_real | table }}
+| {{Spirit Item| Timid Bookworm | hair | table | sort=62 }}
+| {{Avail Summary | season | spirit=Timid Bookworm | season=Sanctuary }}
+| {{Cost | 42 C }}
+| No
+|- id="Rallying Thrillseeker"
+| style="text-align: center;"| {{Spirit Item| Rallying Thrillseeker | hair_real | table }}
+| {{Spirit Item| Rallying Thrillseeker | Hair | table | sort=63 }}
+| {{Avail Summary | season | spirit=Rallying Thrillseeker | season=Sanctuary }}
+| {{Cost | 42 C }}
+| No
+|- id="Hiking Grouch"
+| style="text-align: center;"| {{Spirit Item| Hiking Grouch | hair_real | table }}
+| {{Spirit Item| Hiking Grouch | Hair | table | sort=64 }}
+| {{Avail Summary | season | spirit=Hiking Grouch | season=Sanctuary }}
+| {{Cost | 42 C }}
+| No
+|- id="Grateful Shell Collector"
+| style="text-align: center;"| {{Spirit Item| Grateful Shell Collector | hair_real | table }}
+| {{Spirit Item| Grateful Shell Collector | Hair | table | sort=65 }}
+| {{Avail Summary | season | spirit=Grateful Shell Collector | season=Sanctuary }}
+| {{Cost | 34 C }}
+| No
+|- id="Prophet of Water"
+| style="text-align: center;"| {{Spirit Item| Prophet of Water | hair_real | table }}
+| {{Spirit Item| Prophet of Water | Hair | table | sort=66 }}
+| {{Avail Summary | season | spirit=Prophet of Water | season=Prophecy }}
+| {{Cost | 44 C }}
+| No
+|- id="Prophet of Earth"
+| style="text-align: center;"| {{Spirit Item| Prophet of Earth | hair_real | table }}
+| {{Spirit Item| Prophet of Earth | Hair | table | sort=67 }}
+| {{Avail Summary | season | spirit=Prophet of Earth | season=Prophecy }}
+| {{Cost | 44 C }}
+| No
+|- id="Prophet of Air"
+| style="text-align: center;"| {{Spirit Item| Prophet of Air | hair_real | table }}
+| {{Spirit Item| Prophet of Air | Hair | table | sort=68 }}
+| {{Avail Summary | season | spirit=Prophet of Air | season=Prophecy }}
+| {{Cost | 44 C }}
+| No
+|- id="Prophet of Fire"
+| style="text-align: center;"| {{Spirit Item| Prophet of Fire | hair_real | table }}
+| {{Spirit Item| Prophet of Fire | Hair | table | sort=69 }}
+| {{Avail Summary | season | spirit=Prophet of Fire | season=Prophecy }}
+| {{Cost | 44 C }}
+| No
+|- id="Bearhug Hermit"
+| style="text-align: center;"| {{Spirit Item| Bearhug Hermit | hair_real | table }}
+| {{Spirit Item| Bearhug Hermit | Hair | table | sort=72 }}
+| {{Avail Summary | season | spirit=Bearhug Hermit | season=Dreams }}
+| {{Cost | 50 C }}
+| Yes
+|- id="Dancing Performer"
+| style="text-align: center;"| {{Spirit Item|  Dancing Performer | hair_real | table }}
+| {{Spirit Item| Dancing Performer | Hair | table | sort=71 }}
+| {{Avail Summary | season | spirit=Dancing Performer | season=Dreams }}
+| {{Cost | 45 C }}
+| Yes
+|- id="Spinning Mentor"
+| style="text-align: center;"| {{Spirit Item| Spinning Mentor | hair_real | table }}
+| {{Spirit Item| Spinning Mentor | Hair | table | sort=70 }}
+| {{Avail Summary | season | spirit=Spinning Mentor | season=Dreams }}
+| {{Cost | 44 C }}
+| Yes
+|- id="Assembly Ultimate Hair"
+| style="text-align: center;"| {{Spirit Item| Assembly Guide | hair_u_real | link=Assembly_Guide#Assembly_Ultimate_Hair | table }}
+| {{Spirit Item| Assembly Guide | hair_u | link=Assembly_Guide#Assembly_Ultimate_Hair | table | sort=78 }}
+| {{Avail Summary | ultimate | season=Assembly }}
+| {{Cost | N/A }}
+| Yes
+|- id="Daydream Forester"
+| style="text-align: center;"| {{Spirit Item| Daydream Forester | hair_real | table }}
+| {{Spirit Item| Daydream Forester | Hair | table | sort=77 }}
+| {{Avail Summary | season | spirit=Daydream Forester | season=Assembly }}
+| {{Cost | 44 C }}
+| Yes
+|- id="Marching Adventurer"
+| style="text-align: center;"| {{Spirit Item| Marching Adventurer | hair_real | table }}
+| {{Spirit Item| Marching Adventurer | Hair | table | sort=76 }}
+| {{Avail Summary | season | spirit=Marching Adventurer | season=Assembly }}
+| {{Cost |45 C }}
+| Yes
+|- id="Baffled Botanist"
+| style="text-align: center;"| {{Spirit Item| Baffled Botanist | hair_real | table }}
+| {{Spirit Item| Baffled Botanist | Hair | table | sort=73 }}
+| {{Avail Summary | season | spirit=Baffled Botanist | season=Assembly }}
+| {{Cost |45 C }}
+| No
+|- id="Scolding Student"
+| style="text-align: center;"| {{Spirit Item|  Scolding Student | hair_real | table }}
+| {{Spirit Item| Scolding Student | Hair | table | sort=74 }}
+| {{Avail Summary | season | spirit=Scolding Student | season=Assembly }}
+| {{Cost |50 C }}
+| Yes
+|- id="Scaredy Cadet"
+| style="text-align: center;"| {{Spirit Item| Scaredy Cadet | hair_real | table }}
+| {{Spirit Item| Scaredy Cadet | Hair | table | sort=75 }}
+| {{Avail Summary | season | spirit=Scaredy Cadet | season=Assembly }}
+| {{Cost |45 C }}
+| Yes
+|- id="Slouching Soldier"
+| style="text-align: center;"| {{Spirit Item| Slouching Soldier | hair_real | table }}
+| {{Spirit Item| Slouching Soldier | Hair | table | sort=79 }}
+| {{Avail Summary | season | spirit=Slouching Soldier | season=The Little Prince }}
+| {{Cost |42 C }}
+| No
+|- id="Gloating Narcissist"
+| style="text-align: center;"| {{Spirit Item| Gloating Narcissist | hair_real | table }}
+| {{Spirit Item| Gloating Narcissist | Hair | table | sort=80 }}
+| {{Avail Summary | season | spirit=Gloating Narcissist | season=The Little Prince }}
+| {{Cost | 46 C }}
+| No
+|- id="Stretching Lamplighter"
+| style="text-align: center;"| {{Spirit Item| Stretching Lamplighter | hair_real | table }}
+| {{Spirit Item| Stretching Lamplighter | Hair | table | sort=81 }}
+| {{Avail Summary | season | spirit=Stretching Lamplighter | season=The Little Prince }}
+| {{Cost | 44 C }}
+| No
+|- id="Beckoning Ruler"
+| style="text-align: center;"| {{Spirit Item| Beckoning Ruler | hair_real | table }}
+| {{Spirit Item| Beckoning Ruler | Hair | table | sort=82 }}
+| {{Avail Summary | season | spirit=Beckoning Ruler | season=The Little Prince }}
+| {{Cost |48 C }}
+| No
+|- id="Sneezing Geographer"
+| style="text-align: center;"| {{Spirit Item| Sneezing Geographer | hair_real | table }}
+| {{Spirit Item| Sneezing Geographer | Hair | table | sort=83 }}
+| {{Avail Summary | season | spirit=Sneezing Geographer | season=The Little Prince }}
+| {{Cost |40 C }}
+| No
+|- id="The Little Prince Ultimate Hair"
+| style="text-align: center;"| {{Spirit Item| The Rose | hair_u_real | link=The_Rose#Little_Prince_Ultimate_Hair | table }}
+| {{Spirit Item| The Rose | hair_u | link=The_Rose#Little_Prince_Ultimate_Hair | table | sort=84 }}
+| {{Avail Summary | ultimate | season=The Little Prince }}
+| {{Cost | N/A }}
+| No
+|- id="Talented Builder"
+| style="text-align: center;"| {{Spirit Item| Talented Builder | hair_real | table }}
+| {{Spirit Item| Talented Builder | Hair | table | sort=88 }}
+| {{Avail Summary | season | spirit=Talented Builder | season=Flight }}
+| {{Cost | 45 C }}
+| Yes
+|- id="Tinkering Chimesmith"
+| style="text-align: center;"| {{Spirit Item| Tinkering Chimesmith | hair_real | table }}
+| {{Spirit Item| Tinkering Chimesmith | Hair | table | sort=87 }}
+| {{Avail Summary | season | spirit=Tinkering Chimesmith | season=Flight }}
+| {{Cost |45 C }}
+| Yes
+|- id="Light Whisperer"
+| style="text-align: center;"| {{Spirit Item| Light Whisperer | hair_real | table }}
+| {{Spirit Item| Light Whisperer | Hair | table | sort=86 }}
+| {{Avail Summary | season | spirit=Light Whisperer | season=Flight }}
+| {{Cost | 50 C }}
+| Yes
+|- id="Lively Navigator"
+| style="text-align: center;"| {{Spirit Item| Lively Navigator | hair_real | table }}
+| {{Spirit Item| Lively Navigator | Hair | table | sort=85 }}
+| {{Avail Summary | season | spirit=Lively Navigator | season=Flight }}
+| {{Cost | 55 C }}
+| Yes
+|- id="Cackling Cannoneer"
+| style="text-align: center;"| {{Spirit Item| Cackling Cannoneer | hair_real | table }}
+| {{Spirit Item| Cackling Cannoneer | Hair | table | sort=91 }}
+| {{Avail Summary | season | spirit=Cackling Cannoneer | season=Abyss }}
+| {{Cost | 50 C }}
+| No
+|- id="Ceasing Commodore"
+| style="text-align: center;"| {{Spirit Item| Ceasing Commodore | hair_real | table }}
+| {{Spirit Item| Ceasing Commodore | Hair | table | sort=90 }}
+| {{Avail Summary | season | spirit=Ceasing Commodore | season=Abyss }}
+| {{Cost | 45 C }}
+| No
+|- id="Anxious Angler"
+| style="text-align: center;"| {{Spirit Item| Anxious Angler | hair_real | table }}
+| {{Spirit Item| Anxious Angler | Hair | table | sort=89 }}
+| {{Avail Summary | season | spirit=Anxious Angler | season=Abyss }}
+| {{Cost | 45 C }}
+| Yes
+|- id="Performance Ultimate Hair"
+| style="text-align: center;"| {{Spirit Item| Performance Guide | hair_u_real | link=Performance_Guide#Performance_Ultimate_Hair | table }}
+| {{Spirit Item| Performance Guide | hair_u | link=Performance_Guide#Performance_Ultimate_Hair | table | sort=96 }}
+| {{Avail Summary | ultimate | season=Performance }}
+| {{Cost | N/A }}
+| No
+|- id="Modest Dancer"
+| style="text-align: center;"| {{Spirit Item| Modest Dancer | hair_real | table }}
+| {{Spirit Item| Modest Dancer | Hair | table | sort=95 }}
+| {{Avail Summary | season | spirit=Modest Dancer | season=Performance }}
+| {{Cost | 40 C}}
+| Yes
+|- id="Frantic Stagehand"
+| style="text-align: center;"| {{Spirit Item| Frantic Stagehand | hair_real | table }}
+| {{Spirit Item| Frantic Stagehand | Hair | table | sort=92 }}
+| {{Avail Summary | season | spirit=Frantic Stagehand | season=Performance }}
+| {{Cost | 48 C }}
+| Yes
+|- id="Forgetful Storyteller"
+| style="text-align: center;"| {{Spirit Item| Forgetful Storyteller | hair_real | table }}
+| {{Spirit Item| Forgetful Storyteller | Hair | table | sort=93 }}
+| {{Avail Summary | season | spirit=Forgetful Storyteller | season=Performance }}
+| {{Cost | 44 C }}
+| Yes
+|- id="Mellow Musician"
+| style="text-align: center;"| {{Spirit Item| Mellow Musician | hair_real | table }}
+| {{Spirit Item| Mellow Musician | Hair | table | sort=94 }}
+| {{Avail Summary | season | spirit=Mellow Musician | season=Performance }}
+| {{Cost | 42 C }}
+| Yes
+|- id="Ancient Darkness"
+| style="text-align: center;"| {{Spirit Item| Ancient Darkness | hair_real | table }}
+| {{Spirit Item| Ancient Darkness | hair | table | sort=99 }}
+| {{Avail Summary | season | spirit=Ancient Darkness | season=Shattering }}
+| {{Cost | 70 C }}
+| No
+|- id="Ancient Light (Manta)"
+| style="text-align: center;"| {{Spirit Item| Ancient Light | hair_m_real | table }}
+| {{Spirit Item| Ancient Light | hair_m | table | sort=98 }}
+| {{Avail Summary | season | spirit=Ancient Light | season=Shattering }}
+| {{Cost | 50 C }}
+| No
+|- id="Ancient Light (Jellyfish)"
+| style="text-align: center;"| {{Spirit Item| Ancient Light | hair_j_real | table }}
+| {{Spirit Item| Ancient Light | hair_j | table | sort=97 }}
+| {{Avail Summary | season | spirit=Ancient Light | season=Shattering }}
+| {{Cost | 45 C }}
+| No
+|- id="Seed of Hope"
+| style="text-align: center;"| {{Spirit Item| Seed of Hope | hair_real | table }}
+| {{Spirit Item| Seed of Hope | hair | table | sort=103 }}
+| {{Avail Summary | season | spirit=Seed of Hope | season=AURORA }}
+| {{Cost | 40 C }}
+| No
+|- id="Running Wayfarer"
+| style="text-align: center;"| {{Spirit Item| Running Wayfarer | hair_real | table }}
+| {{Spirit Item| Running Wayfarer | hair | table | sort=100 }}
+| {{Avail Summary | season | spirit=Running Wayfarer | season=AURORA }}
+| {{Cost | 40 C }}
+| No
+|- id="Warrior of Love"
+| style="text-align: center;"| {{Spirit Item| Warrior of Love | hair_real | table }}
+| {{Spirit Item| Warrior of Love | hair | table | sort=102 }}
+| {{Avail Summary | season | spirit=Warrior of Love | season=AURORA }}
+| {{Cost | 40 C }}
+| No
+|- id="Mindful Miner"
+| style="text-align: center;"| {{Spirit Item| Mindful Miner | hair_real | table }}
+| {{Spirit Item| Mindful Miner | hair | table | sort=101 }}
+| {{Avail Summary | season | spirit=Mindful Miner | season=AURORA }}
+| {{Cost | 40 C }}
+| No
+|- id="AURORA Runaway Hairstyle"
+| style="text-align: center;"| {{Spirit Item| AURORA Guide | hair_i_real | link=Season_of_AURORA#Runaway_Hair | table }}
+| {{Spirit Item| AURORA Guide | hair_i | link=Season_of_AURORA#Runaway_Hair | table | sort=105 }}
+| {{Avail Summary | limited | season=AURORA }}
+| {{Cost | $2.99 }}
+| No
+|- id="AURORA Ultimate Hair"
+| style="text-align: center;"| {{Spirit Item| AURORA Guide | hair_u_real | link=AURORA_Guide#AURORA_Ultimate_Hair | table }}
+| {{Spirit Item| AURORA Guide | hair_u | link=AURORA_Guide#AURORA_Ultimate_Hair | table | sort=104 }}
+| {{Avail Summary | ultimate | spirit=AURORA Guide | season=AURORA }}
+| {{Cost | N/A }}
+| No
+|- id="Pleading Child"
+| style="text-align: center;"| {{Spirit Item| Pleading Child | hair_real | table }}
+| {{Spirit Item| Pleading Child | hair | table | sort=107 }}
+| {{Avail Summary | season | spirit=Pleading Child | season=Remembrance }}
+| {{Cost | 60 C}}
+| Yes
+|- id="Bereft Veteran"
+| style="text-align: center;"| {{Spirit Item| Bereft Veteran | hair_real | table }}
+| {{Spirit Item| Bereft Veteran | hair | table | sort=106 }}
+| {{Avail Summary | season | spirit=Bereft Veteran | season=Remembrance }}
+| {{Cost | 60 C }}
+| No
+|- id="Tiptoeing Tea-Brewer"
+| style="text-align: center;"| {{Spirit Item| Tiptoeing Tea-Brewer | hair_real | table }}
+| {{Spirit Item| Tiptoeing Tea-Brewer | hair | table | sort=108 }}
+| {{Avail Summary | season | spirit=Tiptoeing Tea-Brewer | season=Remembrance }}
+| {{Cost | 40 C }}
+| Yes
+|- id="Tumbling Troublemaker"
+| style="text-align: center;"| {{Spirit Item| Tumbling Troublemaker | hair_real | table }}
+| {{Spirit Item| Tumbling Troublemaker | hair | table | sort=110 }}
+| {{Avail Summary | season | spirit=Tumbling Troublemaker | season=Passage }}
+| {{Cost | 40 C }}
+| Yes
+|- id="Melancholy Mope"
+| style="text-align: center;"| {{Spirit Item| Melancholy Mope | hair_real | table }}
+| {{Spirit Item| Melancholy Mope | hair | table | sort=111 }}
+| {{Avail Summary | season | spirit=Melancholy Mope | season=Passage }}
+| {{Cost | unknown }}
+| No
+|- id="Overactive Overachiever"
+| style="text-align: center;"| {{Spirit Item| Overactive Overachiever | hair_real | table }}
+| {{Spirit Item| Overactive Overachiever | hair | table | sort=112 }}
+| {{Avail Summary | season | spirit=Overactive Overachiever | season=Passage }}
+| {{Cost | unknown }}
+| Yes
+|- id="Oddball Outcast"
+| style="text-align: center;"| {{Spirit Item| Oddball Outcast | hair_real | table }}
+| {{Spirit Item| Oddball Outcast | hair | table | sort=109 }}
+| {{Avail Summary | season | spirit=Oddball Outcast | season=Passage }}
+| {{Cost | 40 C}}
+| No
+|- id="Nightbird Whisperer"
+| style="text-align: center;"| {{Spirit Item| Nightbird Whisperer | hair_real | table }}
+| {{Spirit Item| Nightbird Whisperer | hair | table | sort=113 }}
+| {{Avail Summary | season | spirit=Nightbird Whisperer | season=Moments }}
+| {{Cost | ? }}
+| No
+|- id="Ascetic Monk"
+| style="text-align: center;"| {{Spirit Item| Ascetic Monk | hair_real | table }}
+| {{Spirit Item|  Ascetic Monk | hair | table | sort=114 }}
+| {{Avail Summary | season | spirit= Ascetic Monk | season=Moments }}
+| {{Cost | ? }}
+| Yes
+|- id="Jolly Geologist"
+| style="text-align: center;"| {{Spirit Item| Jolly Geologist | hair_real | table }}
+| {{Spirit Item| Jolly Geologist | hair | table | sort=115 }}
+| {{Avail Summary | season | spirit=Jolly Geologist | season=Moments }}
+| {{Cost | 48 C }}
+| Yes
+|- id="Vestige of a Deserted Oasis"
+| style="text-align: center;"| {{Spirit Item| Vestige of a Deserted Oasis | hair_real | table }}
+| {{Spirit Item | Vestige of a Deserted Oasis | hair | table | sort=116}}
+| {{Avail Summary | season | spirit=Vestige of a Deserted Oasis | season=Revival}}
+| {{Cost | ? }}
+| No
+|- id="Memory of a Lost Village"
+| style="text-align: center;"| {{Spirit Item| Memory of a Lost Village | hair_real | table }}
+| {{Spirit Item | Memory of a Lost Village | hair | table | sort=117}}
+| {{Avail Summary | season | spirit=Memory of a Lost Village | season=Revival}}
+| {{Cost | ? }}
+| No
+|- id="Hopeful Steward"
+| style="text-align: center;"| {{Spirit Item| Hopeful Steward | hair_u_real | link=Hopeful_Steward#Revival_Ultimate_Hair | table }}
+| {{Spirit Item | Hopeful Steward | hair_u | link=Hopeful_Steward#Revival_Ultimate_Hair | table | sort=118}}
+| {{Avail Summary | ultimate | spirit=Hopeful Steward | season=Revival}}
+| {{Cost | N/A }}
+| No
+|- id="Hopeful Steward Hair"
+| style="text-align: center;"| {{Spirit Item| Hopeful Steward | hair_real | table }}
+| {{Spirit Item | Hopeful Steward | hair | table | sort=119}}
+| {{Avail Summary | guide | spirit=Hopeful Steward | season=Revival}}
+| {{Cost | 46 C | season=Revival}}
+| No
+|- id="Nine-Colored Deer Ultimate Hair"
+| style="text-align: center;"| {{Spirit Item| Spirit of Mural | hair_u_real | link=Spirit_of_Mural#Nine-Colored_Deer_Ultimate_Hair | table | label=Nine-Colored Deer Ultimate Hair }}
+| {{Spirit Item | Spirit of Mural | hair_u | link=Spirit_of_Mural#Nine-Colored_Deer_Ultimate_Hair | table | sort=120 | label=Nine-Colored Deer Ultimate Hair }}
+| {{Avail Summary | ultimate | season=Nine-Colored Deer}}
+| {{Cost | N/A }}
+| No
+|- id="Herb Gatherer"
+| style="text-align: center;"| {{Spirit Item| Herb Gatherer | hair_real | table }}
+| {{Spirit Item | Herb Gatherer | hair | table | sort=121 }}
+| {{Avail Summary | season | spirit=Herb Gatherer | season=Nine-Colored Deer}}
+| {{Cost | ? }}
+| No
+|- id="Princess"
+| style="text-align: center;"| {{Spirit Item| Princess | hair_real | table }}
+| {{Spirit Item | Princess | hair | table | sort=122 }}
+| {{Avail Summary | season | spirit=Princess | season=Nine-Colored Deer}}
+| {{Cost | ? }}
+| No
+|- id="Hunter"
+| style="text-align: center;"| {{Spirit Item| Hunter | hair_real | table }}
+| {{Spirit Item | Hunter | hair | table | sort=123 }}
+| {{Avail Summary | season | spirit=Hunter | season=Nine-Colored Deer}}
+| {{Cost | ? }}
+| No
+|- id="Nesting Atrium"
+| style="text-align: center;"| {{Spirit Item| Nesting Atrium | hair_real | table }}
+| {{Spirit Item | Nesting Atrium | hair | table | sort=124 }}
+| {{Avail Summary | season | spirit=Nesting Atrium | season=Nesting}}
+| {{Cost | ? }}
+| No
+|- id="The Pianist's Beginnings"
+| style="text-align: center;"| {{Spirit Item| The Pianist's Beginnings | hair_real | table }}
+| {{Spirit Item | The Pianist's Beginnings | hair | table | sort=125 }}
+| {{Avail Summary | season | spirit=The Pianist's Beginnings | season=Duets }}
+| {{Cost | unknown }}
+| No
+|- id="The Cellist's Beginnings"
+| style="text-align: center;"| {{Spirit Item| The Cellist's Beginnings | hair_real | table }}
+| {{Spirit Item | The Cellist's Beginnings | hair | table | sort=126 }}
+| {{Avail Summary | season | spirit=The Cellist's Beginnings | season=Duets }}
+| {{Cost | unknown }}
+| No
+|- id="Comfort of Kindness"
+| style="text-align: center;"| {{Spirit Item| Comfort of Kindness | hair_real | table }}
+| {{Spirit Item | Comfort of Kindness | hair | table | sort=127 }}
+| {{Avail Summary | season | spirit=Comfort of Kindness | season=Moomin }}
+| {{Cost | ? }}
+| No
+|- id="Spirit of Adventure"
+| style="text-align: center;"| {{Spirit Item| Spirit of Adventure | hair_real | table }}
+| {{Spirit Item | Spirit of Adventure | hair | table | sort=128 }}
+| {{Avail Summary | season | spirit=Spirit of Adventure | season=Moomin }}
+| {{Cost | ? }}
+| No
+|- id="Radiance Greeting Shaman"
+| style="text-align: center;"| {{Spirit Item| Radiance Greeting Shaman | hair_real | table }}
+| {{Spirit Item | Radiance Greeting Shaman | hair | table | sort=130 }}
+| {{Avail Summary | season | spirit=Radiance Greeting Shaman | season=Radiance }}
+| {{Cost | ? }}
+| Yes
+|- id="Radiance Leaping Dancer"
+| style="text-align: center;"| {{Spirit Item| Radiance Leaping Dancer | hair_real | table }}
+| {{Spirit Item | Radiance Leaping Dancer | hair | table | sort=129 }}
+| {{Avail Summary | season | spirit=Radiance Leaping Dancer | season=Radiance }}
+| {{Cost | ? }}
+| No
+|- id="Costumed confetti Cousin"
+| style="text-align: center;"| {{Spirit Item| Costumed confetti Cousin | hair_real | table }}
+| {{Spirit Item | Costumed confetti Cousin | hair | table | sort=129 }}
+| {{Avail Summary | season | spirit=Costumed confetti Cousin | season=Blue Bird }}
+| {{Cost | ? | season=Blue Bird }}
+| Yes
+|- id="Scarred Sentry P"
+| style="text-align: center;"| {{Spirit Item| Scarred Sentry | hair_p_real | table }}
+| {{Spirit Item | Scarred Sentry | hair_p | table | sort=129 }}
+| {{Avail Summary | season | spirit=Scarred Sentry | season=Two Embers - Part 1 }}
+| {{Cost | ? }}
+| No
+|- id="Scarred Sentry C"
+| style="text-align: center;"| {{Spirit Item| Scarred Sentry | hair_c_real | table }}
+| {{Spirit Item | Scarred Sentry | hair_c | table | sort=129 }}
+| {{Avail Summary | season | spirit=Scarred Sentry | season=Two Embers - Part 1 }}
+| {{Cost | ? }}
+| No
+|- id="Tender Toymaker"
+| style="text-align: center;"| {{Spirit Item| Tender Toymaker | hair_real | table }}
+| {{Spirit Item | Tender Toymaker | hair | table | sort=129 }}
+| {{Avail Summary | season | spirit=Tender Toymaker | season=Two Embers - Part 1 }}
+| {{Cost | ? }}
+| Yes
+|- id="Stern Shepherd"
+| style="text-align: center;"| {{Spirit Item| Stern Shepherd | hair_real | table }}
+| {{Spirit Item | Stern Shepherd | hair | table | sort=129 }}
+| {{Avail Summary | season | spirit=Stern Shepherd | season=Two Embers - Part 1 }}
+| {{Cost | ? }}
+| No
+|- id="Days of Fortune Pack"
+| style="text-align: center;"| {{Days Item| Days of Fortune Bun Hair| real | table }}
+| {{Days Item| Days of Fortune Bun Hair | icon | table }}
+| {{Avail Summary | days | days=Fortune }}
+| {{Cost| 24.99 USD }}<ref name="fortune_pack">The $24.99 cost of the Days of Fortune Pack includes 3 cosmetics (a Cape, a Hairstyle, and a Mask).</ref>
+| No
+|- id="Days of Fortune Wool Hat"
+| style="text-align: center;"| {{Days Item| Days of Fortune Wool Hat | real | table }}
+| {{Days Item| Days of Fortune Wool Hat | icon | table }}
+| {{Avail Summary | days | days=Fortune }}
+| {{Cost| 9.99 USD }}
+| Yes
+|- id="Days of Fortune Lion Headdress"
+| style="text-align: center;"| {{Days Item| Days of Fortune Lion Headdress | real | table }}
+| {{Days Item| Days of Fortune Lion Headdress | icon | table }}
+| {{Avail Summary | days | days=Fortune }}
+| {{Cost| 66 C }}
+| No
+|- id="Days of Fortune Fish Pack"
+| style="text-align: center;"| {{Days Item| Fortune Fish Hood | real | table }}
+| {{Days Item| Fortune Fish Hood | icon | table }}
+| {{Avail Summary | days | days=Fortune }}
+| {{Cost| 19.99 USD }}<ref name="fortune_fish_pack">The $19.99 cost of the Days of Fortune Fish Pack includes 2 cosmetics (a Cape and a Hood).</ref>
+| Yes
+|- id="Days of Bloom Hair"
+| style="text-align: center;"| {{Days Item| Days of Bloom Hair | real | table }}
+| {{Days Item| Days of Bloom Hair | icon | table }}
+| {{Avail Summary | days | days=Bloom }}
+| {{Cost| 20 H }}
+| No
+|- id="Bloom Arum Petal Hair"
+| style="text-align: center;"| {{Days Item| Bloom Arum Petal Hair | real | table }}
+| {{Days Item| Bloom Arum Petal Hair | icon | table }}
+| {{Avail Summary | days | days=Bloom }}
+| {{Cost|25 H}}
+| No
+|- id="Bloom Spiky Sprig Hair"
+| style="text-align: center;"| {{Days Item| Bloom Spiky Sprig Hair | real | table }}
+| {{Days Item| Bloom Spiky Sprig Hair | icon | table }}
+| {{Avail Summary | days | days=Bloom }}
+| {{Cost|24 C}}
+| No
+|- id="Bloom Rose Braided Hair"
+| style="text-align: center;"| {{Days Item| Bloom Rose Braided Hair | real | table }}
+| {{Days Item| Bloom Rose Braid | icon | table }}
+| {{Avail Summary | days | days=Bloom }}
+| {{Cost|?}}
+| Yes
+|- id="Nature Wave-Touched Hair"
+| style="text-align: center;"| {{Days Item| Nature Wave-Touched Hair | real | table }}
+| {{Days Item| Nature Wave-Touched Hair | icon | table }}
+| {{Avail Summary | days | days=Nature }}
+| {{Cost| 6.99 USD}}
+| No
+|- id="Ocean Manta Hair"
+| style="text-align: center;"| {{Days Item| Ocean Manta Hair | real | table }}
+| {{Days Item| Ocean Manta Hair | icon | table }}
+| {{Avail Summary | days | days=Nature }}
+| {{Cost| ?}}
+| No
+|- id="Rainbow Hat"
+| style="text-align: center;"| {{Days Item| Rainbow Hat | real | table | link=Days_of_Color/2021#Rainbow_Hat }}
+| {{Days Item| Rainbow Hat | icon | table | link=Days_of_Color/2021#Rainbow_Hat }}
+| {{Avail Summary | days | days=Rainbow }}
+| {{Cost| 9.99 USD }}
+| No
+|- id="Color Glam Cut"
+| style="text-align: center;"| {{Days Item| Color Glam Cut | real | table | link=Days_of_Color/2024#Color_Glam_Cut }}
+| {{Days Item| Color Glam Cut | icon | table | link=Days_of_Color/2024#Color_Glam_Cut }}
+| {{Avail Summary | days | days=Color }}
+| {{Cost| 38 C }}
+| No
+|- id="Rainbow Head Wrap"
+| style="text-align: center;"| {{Days Item| Rainbow Head Wrap | real | table | link=Days_of_Color/2025#Rainbow_Head_Wrap }}
+| {{Days Item| Rainbow Head Wrap | icon | table | link=Days_of_Color/2025#Rainbow_Head_Wrap }}
+| {{Avail Summary | days | days=Color }}
+| {{Cost| ? }}
+| Yes
+|- id="Harmony Hall Marching Band Hat"
+| style="text-align: center;"| {{Days Item| Harmony Hall Marching Band Hat | real | table }}
+| {{Days Item| Harmony Hall Marching Band Hat | icon | table }}
+| {{Avail Summary | days | days=Music }}
+| {{Cost| 55 C}}
+| Yes
+|- id="Tournament Curls"
+| style="text-align: center;"| {{Days Item| Tournament Curls | real | table }}
+| {{Days Item| Tournament Curls | icon | table }}
+| {{Avail Summary | days | days=Tournament }}
+| {{Cost| ?}}
+| No
+|- id="Moonlight Updo"
+| style="text-align: center;"| {{Days Item| Moonlight Updo | real | table | link=Days_of_Moonlight#Moonlight_Frock_and_Updo }}
+| {{Days Item| Moonlight Updo | icon | table | link=Days_of_Moonlight#Moonlight_Frock_and_Updo }}
+| {{Avail Summary | days | days=Moonlight }}
+| {{Cost| 14.99 USD }}<ref name="moonlight_frock_and_updo">The $14.99 cost of the Moonlight Frock and Updo includes 2 cosmetics (an Outfit and Hair).</ref>
+| No
+|- id="Hungry Pumpkin Hat"
+| style="text-align: center;"| {{Days Item| Hungry Pumpkin Hat | real | table }}
+| {{Days Item| Hungry Pumpkin Hat | icon | table }}
+| {{Avail Summary | days | days=Mischief }}
+| {{Cost| 11.99 USD }}
+| No
+|- id="Mischief Witch Hat"
+| style="text-align: center;"| {{Days Item| Mischief Witch Hat | real | table }}
+| {{Days Item| Mischief Witch Hat | icon | table }}
+| {{Avail Summary | days | days=Mischief }}
+| {{Cost| 9.99 USD }}
+| No
+|- id="Mischief Tufted Hair"
+| style="text-align: center;"| {{Days Item| Mischief Tufted Hair | real | table }}
+| {{Days Item| Mischief Tufted Hair | icon | table }}
+| {{Avail Summary | days | days=Mischief }}
+| {{Cost| 44 C }}
+| No
+|- id="Mischief Witch Hair"
+| style="text-align: center;"| {{Days Item| Mischief Witch Hair | real | table }}
+| {{Days Item| Mischief Witch Hair | icon | table }}
+| {{Avail Summary | days | days=Mischief }}
+| {{Cost| 66 C }}
+| No
+|- id="Mischief Spider Quiff"
+| style="text-align: center;"| {{Days Item| Mischief Spider Quiff | real | table }}
+| {{Days Item| Mischief Spider Quiff | icon | table }}
+| {{Avail Summary | days | days=Mischief }}
+| {{Cost| 4.99 USD }}
+| No
+|- id="Mischief Spider Bun"
+| style="text-align: center;"| {{Days Item| Mischief Spider Bun | real | table }}
+| {{Days Item| Mischief Spider Bun | icon | table }}
+| {{Avail Summary | days | days=Mischief }}
+| {{Cost| ? }}
+| No
+|- id="Feast Hat"
+| style="text-align: center;"| {{Days Item| Feast Hat | real | table }}
+| {{Days Item| Feast Hat | icon | table }}
+| {{Avail Summary | days | days=Feast }}
+| {{Cost| 6.99 USD }}
+| Yes
+|- id="Winter Feast Hat"
+| style="text-align: center;"| {{Days Item| Winter Feast Hat | real | table }}
+| {{Days Item| Winter Feast Hat | icon | table }}
+| {{Avail Summary | days | days=Feast }}
+| {{Cost| 20 H }}
+| Yes
+|- id="Wonderland Frantic Hair"
+| style="text-align: center;"| {{Days Item| Wonderland Frantic Hair | real | table }}
+| {{Days Item| Wonderland Frantic Hair | icon | table }}
+| {{Avail Summary | l | days=Feast }}
+| {{Cost| N/A}}
+| No
+|- id="Amethyst-Tipped Tails"
+| style="text-align: center;"| {{Days Item| Amethyst-Tipped Tails | real | table }}
+| {{Days Item| Amethyst-Tipped Tails | icon | table }}
+| {{Avail Summary | days | days=Love }}
+| {{Cost| 6.99 USD}}
+| No
+|- id="Love Braids"
+| style="text-align: center;"| {{Days Item| Love Braids | real | table }}
+| {{Days Item| Love Braids | icon | table }}
+| {{Avail Summary | days | days=Love }}
+| {{Cost| ?}}
+| No
+|- id="Wonderland Hare Hairstyle"
+| style="text-align: center;"| {{Days Item| Wonderland Hare Hairstyle | real | table }}
+| {{Days Item| Wonderland Hare Hairstyle | icon | table }}
+| {{Avail Summary | permanent | days=Feast }}
+| {{Cost| 150 C }}
+| No
+|- id="Cinnamoroll Swirled Hair"
+| style="text-align: center;"| {{Days Item| Swirled Hairstyle | real | table | link=Sky_×_Cinnamoroll_Pop-Up_Cafe#Cinnamoroll_Pop-Up_Cafe_Combo }}
+| {{Days Item| Swirled Hairstyle | icon | table | link=Sky_×_Cinnamoroll_Pop-Up_Cafe#Cinnamoroll_Pop-Up_Cafe_Combo }}
+| {{Avail Summary | limited | days=Cinnamoroll }}
+| {{Cost| 14.99 USD }}<ref name="Cinnamoroll Cafe Combo">The $14.99 cost of the Cinnamoroll Pop-Up Cafe Combo includes 2 cosmetics (a Hair and a Hair Accessory).</ref>
+| No
+|- id="Kizuna AI Pack"
+| style="text-align: center;"| {{Days Item| Kizuna AI Hair | real | table | link=Kizuna_AI#Kizuna_AI_Pack }}
+| {{Days Item| Kizuna AI Hair | icon | table | link=Kizuna_AI#Kizuna_AI_Pack }}
+| {{Avail Summary | limited | limited=Kizuna AI | source={{Icon|Kizuna-AI-Hair-Accessory-Icon.png|table|label=Kizuna AI Pack}} }}
+| {{Cost| 19.99 USD }}<ref name="kizuna_ai">The $19.99 cost of the Kizuna AI Pack includes 3 cosmetics (a Cape, a Hairstyle, and a Hair Accessory).</ref>
+| No
+|- id="Nintendo Elf Hair"
+| style="text-align: center;"| {{Icon| Nintendo_elf_hair_v2.png | link=Sky_for_Nintendo_Switch#Nintendo_Pack | label=Nintendo Elf Hair | table }}
+| {{Icon| Icon_hair_Nintendo_elf.png | table | sort=710 | link=Sky_for_Nintendo_Switch#Nintendo_Pack | label=Nintendo Elf Hair }}
+| {{Avail Summary | conditional | source={{Icon|Switch_Icon.png|table|label=Nintendo Pack|link=Sky_for_Nintendo_Switch#Nintendo_Pack}} }}
+| {{Cost | 29.99 USD }}<ref name="Nintendo Pack">The $29.99 cost of the Nintendo Starter Pack includes 4 cosmetics (two Capes, a Hairstyle, and an Instrument), plus 75 Candles.</ref>
+| No
+|- id="Journey Hair"
+| style="text-align: center;"| {{Icon| JourneyPack-Hair-Nastymold.png | link=Journey Pack | label=Journey Hair | table }}
+| {{Icon| Journey-Pack-Hairstyle-icon-Morybel-0146.png | table | sort=712 | link=Journey Pack | label=Journey Hair }}
+| {{Avail Summary | permanent | source={{Icon|PlayStation_Logo.png|table|label=Journey Pack|link=Journey Pack}} }}
+| {{Cost | 24.99 USD }}<ref name="Journey Pack">The $24.99 cost of the Journey Pack includes 3 cosmetics (a Cape, a Hood, and a Mask).</ref>
+| No
+|- id="Transcendent Journey Hair"
+| style="text-align: center;"| {{Icon| Transcendent-Journey-Pack-Hair-front.png | link=Sky for Playstation#Transcendent Journey Pack | label=Transcendent Journey Hair | table }}
+| {{Icon| Transcendent-Journey-Pack-Hair-icon.png | table | sort=712 | link=Sky for Playstation#Transcendent Journey Pack | label=Transcendent Journey Hair }}
+| {{Avail Summary | permanent | source={{Icon|PlayStation_Logo.png|table|label=Transcendent Journey Pack|link=Sky for Playstation#Transcendent Journey Pack}} }}
+| {{Cost | 24.99 USD }}<ref name="Transcendent Journey Pack">The $24.99 cost of the Transcendent Journey Pack includes 3 cosmetics (a Cape, a Hood, and a Mask).</ref>
+| No
+|- id="Polite Scholar"
+| style="text-align: center;"| {{Spirit Item| Polite Scholar | hair_real | table}}
+| {{Spirit Item| Polite Scholar | hair | table | sort=30 }}
+| {{Avail Summary | regular | spirit=Polite Scholar }}
+| {{Cost | 15 H }}
+| No
+|- id="Days of Fortune Snake Coif"
+| style="text-align: center;"| {{Days Item| Fortune Snake Coif | real | link=Days_of_Fortune#Fortune_Snake_Coif_and_Cloak | table }}
+| {{Days Item| Fortune Snake Coif | icon | link=Days_of_Fortune#Fortune_Snake_Coif_and_Cloak | table }}
+| {{Avail Summary | days | days=Fortune }}
+| {{Cost| 19.99 USD }}<ref name="Fortune_Snake_Coif_and_Cloak">The $19.99 cost of the Fortune Snake Coif and Cloak includes 2 cosmetics (a Cape and a Hair).</ref>
+| Yes
+|}
+{{Avail Legend
+| regular
+| permanent
+| guide
+| elder
+| s+
+| u+
+| t*
+| r*
+| d*
+| l*
+| days
+| season
+| ultimate
+| limited
+| conditional
+}}
+
+==References==
+<references/>
+
+[[pt-br:Cabelos]]
+[[ja:ヘアスタイル]]
+[[fr:Cheveux]]
+[[ru:Причёски]]
+
+[[Category:Cosmetics]]

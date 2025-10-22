@@ -1,0 +1,166 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Little-Prince-Spirit-Beckoning-Ruler.png|Standard
+Little-Prince-Spirit-Beckoning-Ruler-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Mask|infobox}}{{Spirit Item||Hair|infobox}}
+|season    = The Little Prince
+|realm     = Vault of Knowledge
+|location  = Starlight Desert
+|ts        = April 7, 2025 (SV#8)<br>July 4, 2024 (#117)<br>September 29, 2022 (#71)
+}}
+<section begin="Summary" />The '''Beckoning Ruler''' is a [[Seasonal Spirit]] from the [[Season of The Little Prince]] who offers the {{Emote|Beckoning Ruler|inline_text}} Expression. The Beckoning Ruler is found towards the back of [[Starlight Desert]], left of the throne on the floating Crown Island between the Rose Garden and the giant pile of books. The collectibles [[Beckoning Ruler#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Beckoning Ruler|Mask|inline_text}} and a {{Spirit Item|Beckoning Ruler|Hair|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:TLP Screen 2.png|thumb|none|320px|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|k-gGWR9dhvw||inline|Video Guide}}
+
+The Beckoning Ruler can be found towards the back of [[Starlight Desert]], left of the throne on the floating Crown Island between the Rose Garden and the giant pile of books. This Spirit has a [[Standard Memory|standard memory]] with 6 memory fragments and a 15-minute overall [[Timed Memory|time limit]]. 
+
+As their memory unfolds, the Beckoning Ruler can be seen attempting to boss around some [[Birds]] which have gathered in different spots on their Crown Island. Some Birds pay the Spirit no mind, while others fly away as they approach. The Beckoning Ruler then strides over to a row of stone statues depicting soldiers holding their swords high in the air, and motion them to move several times.
+
+At the end of the memory, the Beckoning Ruler sits on their throne and looks to their left at one of the statues. They stand up to beckon to the statue, but after no response from it, the Spirit walks over and demandingly points at the statue and then towards the ground, motioning them to move once again.
+
+The Little Prince enters the scene and asks, "You know they can't move, right?"
+
+"I am entitled to command their obedience! My orders are reasonable," the Spirit replies before turning back towards the statue. "From now on, stay where you are."
+
+Raising a hand to his chin, the Little Prince contemplates aloud, "Grown-ups are so strange."<br>
+<br>
+[[File:05 VK Seasonal Spirit - Beckoning Ruler.jpg|200px|thumb|none|Relive the Beckoning Ruler's memory]]
+</div>
+{{Clear}}
+
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.<br>
+<br>
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Beckoning-Ruler-beckon-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Beckoning-Ruler-beckon-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Beckoning-Ruler-beckon-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Beckoning-Ruler-beckon-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+* Level 1 will make your avatar tilt to the right, prop up their right arm on their hip, and extend their left arm to wave a hand towards themselves, while a quick, high-pitched squeaky sound effect plays.
+* Level 2 makes the same motion as Level 1, with a trail of small, glowing, golden sparkles following the motion of your avatar's extended hand, before slowly falling down.
+* Level 3 will make your avatar lean slightly forward and extend their right arm to firmly point straight forward, then point down to the ground they stand on, and finally loosely wave both hands towards themselves once, while high-pitched squeaky sound effects play with each motion.
+* Level 4 makes the same motion as Level 3, with a white trail of light following the motion of your avatar's pointing arm, and a yellow ball of light bouncing at their feet after they point down, trailed by small white sparkles.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+== Cosmetics==
+=== Mask ===
+The [[Mask]] offered by this Spirit is dark gray and resembles the face of a frog with the player's face visible inside its opened mouth, a thin mustache, and a straight beard with the ends styled into four wide rolls, costing {{Cost|42 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fourth node ({{Cost|60 SC|season=The Little Prince}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask front
+{{Icon Name||Mask|side}} {{!}} The Mask side
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Hair===
+The [[Hair]] offered by this Spirit is a dark gray crown with spikes of varying height (closely resembling the shape of the Crown Island in [[Starlight Desert]]) that sits on top of straight, mid-length hair with the ends styled into two wide rolls, costing {{Cost|48 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|14 SC|season=The Little Prince}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair front
+{{Icon Name||Hair|side}} {{!}} The Hair side
+{{Icon Name||Hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Traveling Spirit==
+[[File:Traveling-Spirit-117-Beckoning-Ruler.png|200px|right|thumb]]
+{{Friendship Tree Info | traveling
+|ts_dates=*July 4, 2024 (#117)
+*September 29, 2022 (#71)
+|rs_dates=*April 7, 2025 (SV#8)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Beckoning Ruler
+|image  = Little-Prince-Spirit-Beckoning-Ruler.png
+
+|nodeC6 = Hair 48 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing 2 AC
+|nodeL2 = Mask 42 C
+|nodeC2 = spell5 
+|nodeR1 = heart 3 C
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints ===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+The hints given before the [[Beckoning Ruler]]'s first appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=First Visit Hints
+|content=<div>
+* Sleeps in a nightgown and a nightcap
+* Is afraid of large fish
+* Would fall for "is your refrigerator running?" joke
+* Would never think about taking a vacation from the job they love
+* Hates having neighbors
+* Likes to smell nice
+* Has never pondered their love life
+* Tends to loudly clear their throat for attention
+* Has a great baritone singing voice
+* Enjoys Sparkler Parent's (terrible) muffins
+* Doesn't like being told what to do
+* Collects trinkets, but keeps them organized
+* Never learned how to cook and doesn't want to start learning now
+* Would make a poor teacher
+* Their favorite color is dark purple
+* Is allergic to bananas
+</div>
+}}
+
+==Season Friendship Tree==
+{{Friendship Tree Info | season | season=The Little Prince}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Beckoning Ruler
+|image  = Beckoning Ruler Sprite.png
+|type   = season
+|season = The Little Prince
+
+|nodeC5 = season_heart 3 SC SP
+|nodeL4 = spell5 SP
+|nodeC4 = Mask 26 SC
+|nodeL3 = emote4 SP
+|nodeC3 = emote3 20 SC
+|nodeL2 = Hair SP
+|nodeC2 = spell5 14 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Trivia==
+* The Beckoning Ruler is inspired by the King in ''[[wp:The_Little_Prince|Le Petit Prince]]'' written by Antoine de Saint-Exupéry.
+* The Beckoning Ruler was the first ever Spirit from the [[Season of The Little Prince]] to return as a Traveling Spirit.
+
+==Image Gallery==
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape">
+SOTLP photos beckoning emote.jpeg
+SOTLP photos group beckoning.png
+</gallery>
+
+==Video Gallery==
+{{#ev:youtube|Q4PqW21W6_o|175|inline|Video Guide by Tara}}
+
+==References==
+<references />
+
+[[de:Winkender Herrscher]]
+[[fr:Seigneur qui appelle]]
+[[pt-br:Rei Acenando]]
+[[ru:Подзывающий правитель]]
+[[ja:手招く支配者]]

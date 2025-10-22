@@ -1,0 +1,172 @@
+{{Spirit Infobox
+|type      = Non
+|image     = Shattering-Ancient_Darkness.png
+|emote_type= None
+|cosmetics = {{Spirit Item||Mask|infobox}}{{Spirit Item||Neckpiece|infobox}}{{Spirit Item||Hair|infobox}}{{Spirit Item||Hairpiece|infobox}}{{Spirit Item||Cape|infobox}}
+|props = {{Spirit Item||Prop|infobox}}
+|music     = {{Music Sheet|30|infobox}}
+|season    = Shattering
+|location  = The Void of Shattering
+|ts        = September 16, 2024 (SV#6)
+}}
+<section begin="overview" />The '''[[Ancient Darkness]]''' (or '''Ancient Memories of Darkness''') is a [[Ancestors#Seasonal Entities|Seasonal Entity]] from the [[Season of Shattering]]. The Ancient Darkness was accessed through the Dark Dragon and Darkness Plant structure in the [[Void of Shattering]] which was available exclusively during the Season of Shattering. Unlike typical [[Seasonal Spirits]], there is no need to first relive a [[Spirit Memories|spirit memory]] to access this Entity and it does not offer an [[Expression]]. The collectibles [[Ancient Darkness#Friendship Trees|offered]] by this entity are a {{Spirit Item|Ancient Darkness|Mask|inline_text}}, a {{Spirit Item|Ancient Darkness|Neckpiece|inline_text}}, a {{Spirit Item|Ancient Darkness|Hair|inline_text}}, a {{Spirit Item|Ancient Darkness|Hairpiece|inline_text}}, a {{Spirit Item|Ancient Darkness|Cape|inline_text}}, a {{Spirit Item|Ancient Darkness|prop|label=Dark Horn Prop|inline_text}}, and {{Music Sheet|30|inline_text}}.<section end="overview" /><br>
+<br>
+[[File:SOShattering-void-dark.jpg|none|thumb|320px|The Ancient Darkness structure]]
+
+==Cosmetics==
+===Mask===
+The [[Mask]] offered by this entity is dark grey and round, with a crescent-shaped hole for an eye on the left side, and a complete crack going from the top right to the bottom left, sprouting Darkness Plant on the right eye, costing {{Cost|50 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Darkness Plant Friendship Tree's second node ({{Cost|43 SC|season=shattering}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Neck Accessory <span id="Necklace"></span>===
+The [[Neck Accessory]] offered by this entity is a small gray [[Dark Crab]] that rests on the player's left shoulder, costing {{Cost|70 C}} from the Traveling Spirit. It was available to all players during the Season from the Dragon Friendship Tree's first node ({{Cost|27 SC|season=shattering}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Neckpiece|icon}} {{!}} The Neck Accessory icon
+{{Icon Name||Neckpiece|real}} {{!}} The Neck Accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Hair===
+The [[Hair]] offered by this entity is inspired by a [[Dark Dragon]], with a long spiky section of hair in the back resembling a Dark Dragon's tail, two strands of hair in the front resembling the front legs, and a black hair accessory with a red dot in the middle attached to the forehead resembling a Dark Dragon's head, costing {{Cost|70 C}} from the Traveling Spirit. It was available to all players during the Season from the Dragon Friendship Tree's third node ({{Cost|93 SC|season=shattering}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair front
+{{Icon Name||Hair|side}} {{!}} The Hair side
+{{Icon Name||Hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Hairpiece">Hair Accessory</span> ===
+The [[Hair Accessory]] offered by this entity is a small simplified [[Flora, Minerals and Elements of Sky#Darkness|Darkness Plant]] that rests to the top left side of the player's head, costing {{Cost|45 C}} from the Traveling Spirit. It was available to all players during the Season from the Darkness Plant Friendship Tree's first node ({{Cost|27 SC|season=shattering}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hairpiece|icon}} {{!}} The Hair Accessory icon
+{{Icon Name||Hairpiece|real}} {{!}} The Hair Accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Cape===
+The [[Cape]] offered by this entity is inspired by [[Flora, Minerals and Elements of Sky#Darkness|Darkness Plants]], colored black and teal, with a waved edge, a collar shaped like a Darkness Plant, and small glowing orb ornaments around the trim, costing {{Cost|80 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Darkness Plant Friendship Tree's fourth node ({{Cost|97 SC|season=shattering}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||Cape|interior}} {{!}} The Cape interior
+{{Icon Name||Cape|back}} {{!}} The Cape back
+{{Icon Name||Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Prop===
+The [[Prop]] offered by this entity (also called '''Dark Horn''' or '''Krill Horn''') is gray and horn-shaped, with a similar texture to dead wood, costing {{Cost|50 C}} from the Traveling Spirit. It is a held Prop that can be used to make a deep call. It is not considered an [[Instrument]] since [[Music Sheets]] cannot be played with it, and it cannot be used to practice in the [[Harmony Hall#Rehearsal Room|Harmony Hall's Rehearsal Room]]. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Dragon Friendship Tree's second node ({{Cost|51 SC|season=Shattering}} total). <br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Prop|icon}} {{!}} The Prop icon
+{{Icon Name||Prop|real}} {{!}} The Prop
+{{Icon Name||Prop|held}} {{!}} Playing the Prop
+{{Icon Name||Prop|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+{{#ev:youtube|oJPsw3bdhKY||inline|Item Showcase}}
+
+== Music Sheet ==
+The Ancient Darkness offers {{Music Sheet|30}} [[Music Sheet]] #30, costing {{Cost|15 C}} from the Traveling Spirit. It was available to all players during the Season from the Darkness Plant Friendship Tree's third node ({{Cost|35 SC|season=shattering}} total). It is a song in the key of A major.<br>
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guide
+|content=
+{{#ev:youtube|PpGqOexiw8U||inline|Music Sheet Video Guide by Ikejiji}}
+}}
+
+==Traveling Spirit==
+During the [[Season of Shattering]], there were two separate Friendship Trees for the Ancient Darkness' [[collectibles]]. In front of the Ancient Darkness structure, the '''Dragon Tree''' could be found, offering items mostly themed around [[Dark Dragons]], hence the informal name. Behind it was the '''Darkness Plant Tree''', offering items themed mostly around [[Flora, Minerals and Elements of Sky#Darkness|Darkness Plants]]. Despite differing from Seasonal Spirits, the Shattering entities are confirmed to return in the future <ref>In the  [https://www.reddit.com/r/SkyGame/comments/x85xze/comment/innethr/ Season of Shattering TGC Designer Q&A on Reddit], TGC_Atlas answered the question "How will the 'Spirits' for this season work when it comes to Travelling Spirits? Will they ever return?" with "They will return. It will be a while though. We have a few ideas currently and are still considering what is the best way to re-introduce them in the future."</ref>.
+
+{{Friendship Tree Info | traveling
+|rs_dates=*September 16, 2024 (SV#6)
+}}
+<section begin='TS Friendship Tree' /><section begin="Darkness Plant TS Tree" />{{Friendship Tree
+|spirit = Ancient Darkness
+|label  = [[Ancient Darkness|Darkness Plant Tree]]
+|image  = Shattering-Ancient_Darkness.png
+|season = Shattering
+|float  = left
+
+|nodeC5 = cape 80 C
+|nodeL4 = mask 50 C
+|nodeC4 = spellx 5 C
+|nodeC3 = wing
+|nodeL2 = Hairpiece 45 C
+|nodeC2 = spellx 5 C
+|nodeR1 = Heart 3 C
+|nodeL1 = music30 15 C
+|nodeC1 = spellx 5 C
+}}<section end="Darkness Plant TS Tree" />
+<section begin="Dragon TS Tree" />{{Friendship Tree
+|spirit = Ancient Darkness
+|label  = [[Ancient Darkness|Dragon Tree]]
+|image  = Shattering-Ancient_Darkness.png
+|season = Shattering
+|float  = left
+
+|nodeC5 = prop 50 C
+|nodeL4 = hair 70 C
+|nodeC4 = spellx 5 C
+|nodeC3 = wing
+|nodeC2 = spellx 5 C
+|nodeR1 = Heart 3 C
+|nodeL1 = Neckpiece 70 C
+|nodeC1 = spellx 5 C
+}}<section end="Dragon TS Tree" /><section end='TS Friendship Tree' />
+{{Clear}}
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Shattering}}
+<section begin="Darkness Plant Tree" />{{Friendship Tree
+|spirit = Ancient Darkness
+|label  = [[Ancient Darkness|Darkness Plant Tree]]
+|image  = Shattering-Ancient_Darkness.png
+|season = Shattering
+|float  = left
+
+|nodeC5 = season_heart 3 SC AP
+|nodeL4 = cape AP
+|nodeC4 = spellX 16 SC
+|nodeL3 = spellX AP
+|nodeC3 = music30 35 SC
+|nodeL2 = mask AP
+|nodeC2 = spellX 16 SC
+|nodeL1 = spellX AP
+|nodeC1 = Hairpiece 27 SC
+}}<section end="Darkness Plant Tree" />
+<section begin="Dragon Tree" />{{Friendship Tree
+|spirit = Ancient Darkness
+|label  = [[Ancient Darkness|Dragon Tree]]
+|image  = Shattering-Ancient_Darkness.png
+|season = Shattering
+|float  = left
+
+|nodeC4 = season_heart 3 SC AP
+|nodeL3 = spellX AP
+|nodeC3 = hair 42 SC
+|nodeL2 = prop AP
+|nodeC2 = spellX 16 SC
+|nodeL1 = spellX AP
+|nodeC1 = Neckpiece 35 SC
+}}<section end="Dragon Tree" />
+{{clear}}
+
+==References==
+<references />
+
+[[de:Uralte Finsternis]]
+[[fr:Ténèbres anciennes]]
+[[pt-br:Escuridão Antiga]]
+[[ja:万古の闇]]

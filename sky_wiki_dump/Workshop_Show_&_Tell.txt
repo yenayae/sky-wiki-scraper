@@ -1,0 +1,143 @@
+{{WIP}}
+__FORCETOC__
+{{SkyEvent
+|image= Workshop-Show-and-Tell-Promo-image.jpg
+|date= June 23 to July 6, 2025
+}}
+<section begin="Summary" />From '''Monday, June 23, 2025 at 00:00 PDT (UTC-7)''' through '''Sunday, July 6, 2025 at 23:59 PDT (UTC-7)''', lasting '''14''' days. Players were invited to slow down to relish the act of creating during Sky’s newest event. For the duration of the event, the [[Nesting Guide]] stood at [[Home]] and [[Aviary Village]], offering to teleport players to the [[Nesting Workshop]].
+
+Inside the Nesting Workshop, a new glass display containing a [[Currency#Hearts|Heart]] appeared, interacting with it would play a cutscene. The cutscene encouraged players to create a [[Shared Memories|Shared Memory]] by using the free [[Blessings (Spells)|Spell]] offered at the front counter. After publishing a Shared Memory, the glass display would open, allowing for the Heart to be collected. Watching others Shared Memories inside the Workshop rewarded [[Pieces of Light]].
+
+Seven new [[Props]] debuted during this event, and were available at the [[Nesting Workshop|Nesting Workshop's front counter]] for in-game currency.
+
+==New Props==
+
+{| class="article-table"
+!Name
+!Icon
+!Cost
+|-
+| Dressing Table
+| {{Icon|Dressing-Table-Prop-icon.png}}
+| {{Cost|9 H}}
+|-
+| Blue Stool
+| {{Icon|Blue-Stool-Prop-icon.png}}
+| {{Cost|10 AC}}
+|-
+| Floor Curtain
+| {{Icon|Floor-Curtain-Prop-icon.png}}
+| {{Cost|20 C}}
+|-
+| Flower Vase
+| {{Icon|Small-Flower-Vase-Prop-icon.png}}
+| {{Cost|10 C}}
+|-
+| Left Curtain
+| {{Icon|Left-Curtain-Prop-icon.png}}
+| {{Cost|3 H}}
+|-
+| Small C Rug
+| {{Icon|Small-C-Shape-Rug-Prop-icon.png}}
+| {{Cost|15 C}}
+|-
+| Decorative Stick Jar
+| {{Icon|Stick-Holder-Cup-Prop-icon.png}}
+| {{Cost|1 H}}
+|}
+
+===Dressing Table===
+The Dressing Table is a stone table that is only rounded at the front, with two floating mirrors, and vertical string lights on the sides of the mirrors. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, the Prop appears in its original form. 
+<br>
+This [[Prop]] was introduced in 2025 and was available for {{Cost|9 H}} from the [[Nesting Workshop|Nesting Workshop's front counter]] for the duration of the event. <!--Three additional copies of this Prop can be purchased for a total cost of {{Cost|24 C}}.<ref name="prop_copies" />--><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Dressing Table|icon}} {{!}} The Prop icon
+{{Icon Name|Dressing Table|real}} {{!}} The Prop
+<!--{{Icon Name|Dressing Table|back}} {{!}} The Prop on a player's back-->
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Blue Stool===
+The Blue Stool is a short stone stool with a blue cushion, featuring the design of a white diamond inside of a hollow larger diamond. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]] and seats a single player. Note that this item does '''not''' offer the ability to [[Chat]] with other players. When carried on its owner's back, the Prop appears in its original form. 
+<br>
+This [[Prop]] was introduced in 2025 and was available for {{Cost|10 AC}} from the [[Nesting Workshop|Nesting Workshop's front counter]] for the duration of the event. <!--Three additional copies of this Prop can be purchased for a total cost of {{Cost|24 C}}.<ref name="prop_copies" />--><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Blue Stool|icon}} {{!}} The Prop icon
+{{Icon Name|Blue Stool|real}} {{!}} The Prop
+<!--{{Icon Name|Dressing Table|back}} {{!}} The Prop on a player's back-->
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Floor Curtain===
+The Floor Curtain is a light blue floor-length curtain over a pole, which is supported by a pole on each side. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, it appears as a blue backpack.
+<br>
+This [[Prop]] was introduced in 2025 and was available for {{Cost|20 C}} from the [[Nesting Workshop|Nesting Workshop's front counter]] for the duration of the event. <!--Three additional copies of this Prop can be purchased for a total cost of {{Cost|24 C}}.<ref name="prop_copies" />--><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Floor Curtain|icon}} {{!}} The Prop icon
+{{Icon Name|Floor Curtain|real}} {{!}} The Prop
+{{Icon Name|Prophet of Air|Prop|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Flower Vase===
+The Flower Vase is a small white vase holding pink flowers. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, the Prop appears in its original form. 
+<br>
+This [[Prop]] was introduced in 2025 and was available for {{Cost|10 C}} from the [[Nesting Workshop|Nesting Workshop's front counter]] for the duration of the event. <!--Three additional copies of this Prop can be purchased for a total cost of {{Cost|24 C}}.<ref name="prop_copies" />--><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Flower Vase|icon}} {{!}} The Prop icon
+{{Icon Name|Flower Vase|real}} {{!}} The Prop
+<!--{{Icon Name|Dressing Table|back}} {{!}} The Prop on a player's back-->
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Left Curtain===
+The Left Curtain is a hanging blue curtain over a yellow rod. The curtain is tied near the middle, and pulled to the side. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, it appears as a blue backpack.
+<br>
+This [[Prop]] was introduced in 2025 and was available for {{Cost|3 H}} from the [[Nesting Workshop|Nesting Workshop's front counter]] for the duration of the event. <!--Three additional copies of this Prop can be purchased for a total cost of {{Cost|24 C}}.<ref name="prop_copies" />--><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Left Curtain|icon}} {{!}} The Prop icon
+{{Icon Name|Left Curtain|real}} {{!}} The Prop
+{{Icon Name|Prophet of Air|Prop|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Small C Rug===
+The Small C Rug is a gray C-shaped rug with a light gray geometric pattern on both ends. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, it appears as a blue backpack.
+<br>
+This [[Prop]] was introduced in 2025 and was available for {{Cost|15 C}} from the [[Nesting Workshop|Nesting Workshop's front counter]] for the duration of the event. <!--Three additional copies of this Prop can be purchased for a total cost of {{Cost|24 C}}.<ref name="prop_copies" />--><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|C Rug|icon}} {{!}} The Prop icon
+{{Icon Name|C Rug|real}} {{!}} The Prop
+{{Icon Name|Prophet of Air|Prop|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Decorative Stick Jar===
+The Decorative Stick Jar is a white square jar holding two blue sticks. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, the Prop appears in its original form.
+<br>
+This [[Prop]] was introduced in 2025 and was available for {{Cost|1 H}} from the [[Nesting Workshop|Nesting Workshop's front counter]] for the duration of the event. <!--Three additional copies of this Prop can be purchased for a total cost of {{Cost|24 C}}.<ref name="prop_copies" />--><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Stick Jar|icon}} {{!}} The Prop icon
+{{Icon Name|Stick Jar|real}} {{!}} The Prop
+<!--{{Icon Name|Dressing Table|back}} {{!}} The Prop on a player's back-->
+|widths=125|captionalign=center|spacing=small
+}}
+
+
+==References==
+'''More information Workshop Show & Tell can be found on [https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/faq/1398-patch-notes---may-29-2025---0-29-5-325756-android-huawei-ios-playstation-steam-switch/ ThatSkyGame's Patch Notes].'''
+<references />
+
+[[pt-br:Oficina Mostre e Conte]]
+[[ja:巣づくり工房発表会]]
+[[fr:Atelier Quoi de Neuf]]
+
+[[Category:Events]]
+[[Category:Non-Recurring Events]]

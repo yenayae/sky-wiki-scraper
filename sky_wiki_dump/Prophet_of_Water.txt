@@ -1,0 +1,212 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Prophecy-Spirit-Prophet-of-Water.png|Standard
+Prophecy-Spirit-Prophet-of-Water-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Mask|infobox}}{{Spirit Item||Hair|infobox}}{{Spirit Item||Cape|infobox}}
+|props     = {{Spirit Item||Prop|infobox}}
+|season    = Prophecy
+|realm     = Isle of Dawn
+|location  = Cave of Prophecies
+|ts        = December 19, 2024 (#129)<br>May 15, 2023 (SV#2)<br>November 10, 2022 (#74)<br>August 5, 2021 (#41)
+}}
+<section begin="Summary" />The '''Prophet of Water''' is a [[Seasonal Spirit]] from the [[Season of Prophecy]] who offers the {{Emote|Prophet of Water|inline_text}} Expression. The Prophet of Water is found in the [[Cave of Prophecies]], near the entrance to the [[Season_of_Prophecy#The_Trial_of_Water|Trial of Water]]. The collectibles [[#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Prophet of Water|Mask|inline_text}}, a {{Spirit Item|Prophet of Water|Hair|inline_text}}, a {{Spirit Item|Prophet of Water|Cape|inline_text}}, and a {{Spirit Item|Prophet of Water|Prop|label=Water Sticker Prop|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Prophet-of-water-promo-image.jpg|thumb|320px|none|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|6t-gksA_AjE||inline|Video Guide}}
+
+The Prophet of Water can be found in the [[Cave of Prophecies]], near the entrance to the [[Season_of_Prophecy#The_Trial_of_Water|Trial of Water]]. This Spirit has a [[Standard Memory|standard memory]] with 8 memory fragments and a 5-minute overall [[Timed Memory|time limit]].  
+
+As their memory unfolds, the Prophet of Water can be seen educating a pair of younger Spirits about the history of the Cave. The Prophet of Water first greets the young Spirits before directing them to a seating area at the center of the Cave of Prophecies. Together, they sit with a larger group of Spirits listening intently to the lessons being provided by all four of the [[Season_of_Prophecy#All_Prophecy_Friendship_Trees|Prophets]]. The group then splits up as the Prophet of Water takes their two students aside, leading them towards the entrance of the [[Season_of_Prophecy#The_Trial_of_Water|Trial of Water]] to continue the lesson. One of the younger Spirits slips and falls into a nearby pool of water during the teaching and the exasperated Prophet of Water helps them get back on their feet.
+
+At the end of the memory, the Prophet of Water teaches the younger Spirits about patience by demonstrating how to breathe deeply and relax.<br>
+<br>
+[[File:00 ID Seasonal Spirit - Prophet of Water.png|200px|thumb|none|Relive the Prophet of Water's memory]]
+</div>
+{{Clear}}
+
+==Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Prophet-of-Water-deep-breath-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Prophet-of-Water-deep-breath-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Prophet-of-Water-deep-breath-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Prophet-of-Water-deep-breath-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar lift up their hands to chest level and pat the air two times before taking a deep breath accented by lifting up their right hand with the breath, while a light metal wind chime sound effect plays; first in reverse on the inhale and then normally on the exhale.
+*Level 2 makes the same motion as Level 1, with a faintly glowing light around your avatar's head as they inhale.
+*Level 3 will make your avatar assume a wide stance and take a very deep breath, accentuating their motion by slowly holding up their hands together over their head and then bringing them back down as they exhale, while a wooden wind chime sound effect plays; first in reverse on the inhale and then normally on the exhale.
+*Level 4 makes the same motion as Level 3, with a triple-layered golden glowing ring appearing around your avatar's head as they inhale, and a simple glowing blue circle as they exhale.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+==Cosmetics==
+===Mask===
+The [[Mask]] offered by this Spirit is a stone sea turtle mask with blue markings and a chunk of hair hanging from the chin, costing {{Cost|54 C}}<ref name="price change"></ref> from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fifth node ({{Cost|76 SC|season=Prophecy}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+{{Icon Name||Mask|side}} {{!}} The Mask side
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Hair===
+The [[Hair]] offered by this Spirit is combed in a side part and has a high ponytail with a very broad light blue hair tie that makes the ponytail stick up, as well as two strands of hair hanging down before the ears, costing {{Cost|44 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|12 SC|season=Prophecy}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair
+{{Icon Name||Hair|front}} {{!}} The Hair front
+{{Icon Name||Hair|side}} {{!}} The Hair side
+{{Icon Name||Hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Cape===
+The [[Cape]] offered by this Spirit is blue and shaped like a sea turtle, with stone-like decorations near the neck and dark blue rounded markings near the bottom front, as well as a section of white fur hanging down at the back, costing {{Cost|75 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|49 SC|season=Prophecy}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||Cape|interior}} {{!}} The Cape interior
+{{Icon Name||Cape|back}} {{!}} The Cape back
+{{Icon Name||Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Prop ===
+The [[Prop]] offered by this Spirit is a blue glowing wall painting of the water element symbol, i.e., a small decoration that appears on the targeted surface, costing {{Cost|15 C}} from the Traveling Spirit. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. The Prop appears as a backpack on its owner's back when carried.
+
+This item was not available during the [[Season of Prophecy]]. Instead, it was first introduced during the Prophet of Water's second visit as a [[#Traveling_Spirit|Traveling Spirit]] on November 10, 2022.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Prop|icon}} {{!}} The Prop icon
+{{Icon Name||Prop|real}} {{!}} The Prop
+{{Icon Name||Prop|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Traveling Spirit==
+[[File:Traveling Spirit Prophecy Water.png|200px|right|thumb]]
+{{Friendship Tree Info | traveling
+|ts_dates=*December 19, 2024 (#129)
+*November 10, 2022 (With a new [[#Prop|Prop]]) (#74)<ref name="price change">The [[#Mask|Mask]]'s price decreased from {{Cost|55 C}} to {{Cost|54 C}} during the Prophet of Water's second visit as a Traveling Spirit.</ref>
+*August 5, 2021 (#41)
+|rs_dates=*May 15, 2023 (SV#2)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Prophet of Water
+|season = Prophecy
+|image  = Prophecy-Spirit-Prophet-of-Water.png
+
+|nodeC6 = Cape 75 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeR4 = Mask 54 C
+|nodeC3 = wing
+|nodeL2 = Hair 44 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+|nodeR1 = prop 15 C
+|specialR1 = NEW
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+The hints given before the [[Prophet of Water]]'s first appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=First Visit Hints
+|content=<div>
+* Likes the sound of silence
+* Gets headaches often
+* Enjoys making sculptures
+* Finds it hard to connect with strangers
+* Likes sparkling water
+* Had a pet, it would probably be fish
+* Enjoys reading non-fiction
+* Likes tiny versions of foods
+* Their favorite color is purple
+* Keeps their room spotlessly clean!
+* Often does juice cleanses
+* Also really loves spicy foods!
+* Collects crystals 
+* Is very confident in themselves!
+* Enjoys instrumental music best, no lyrics
+* Doesn't like parties
+* Would use Fig Jam on their toasted bread
+* Doesn't like heights
+* Likes helping others! 
+* Is pretty no-nonsense
+* Prefers tea over coffee
+* Doesn't like sweet foods
+* Has an odd ability to sweat metal
+* [ktjn] Is already sweating bullets
+</div>
+}}
+
+The hints given before the [[Prophet of Water]]'s second appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Second Visit Hints
+|content=<div>
+* Their favorite flavor of tea is mint!
+</div>
+}}
+
+==Season Friendship Tree==
+{{Friendship Tree Info | season | season=Prophecy}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Prophet of Water
+|type   = season
+|season = Prophecy
+|image  = Prophecy-Spirit-Prophet-of-Water.png
+
+|nodeC6 = season_heart 3 SC AP
+|nodeL5 = spell5 AP
+|nodeC5 = Mask 27 SC
+|nodeL4 = Cape AP
+|nodeC4 = spell5 21 SC
+|nodeL3 = emote4 AP
+|nodeC3 = emote3 16 SC
+|nodeL2 = Hair AP
+|nodeC2 = spell5 12 SC
+|nodeL1 = emote2 AP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Trivia==
+* Each [[Season_of_Prophecy#All_Prophecy_Friendship_Trees|Prophet]] is inspired by an animal and represented by an element of nature. The Prophet of Water is inspired by a sea turtle, wearing a sea turtle Cape and Mask. The "Deep Breath" Expression may also be based on sea turtles rising to the surface to take deep breaths when they run out of oxygen underwater.
+
+==Image Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Prophet of Water promo image (mid Season).png
+Water breathe.png
+Season of prophecy breathe emote 1.png
+Season of prophecy group breathe emote 1.png
+Prophecy-Prophet of Water.png
+</gallery>
+
+==Video Gallery==
+{{#ev:youtube|hg9dpzSS3ms|175|inline|Video Guide by Tara}}
+
+==References==
+<references />
+
+[[de:Prophet des Wassers]]
+[[fr:Prophète de l'eau]]
+[[pt-br:Profeta da Água]]
+[[ru:Пророк воды]]
+[[ja:水の預言者]]

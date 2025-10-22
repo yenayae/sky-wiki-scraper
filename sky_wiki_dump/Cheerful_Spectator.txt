@@ -1,0 +1,103 @@
+{{Spirit Infobox
+|type      = Regular
+|emote_type= Emote
+|image     = <gallery>
+Valley-Spirit-Cheerful-Spectator.png|Standard
+Valley-Spirit-Cheerful-Spectator-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Hair|infobox}}
+|instruments = {{Spirit Item||Instrument|infobox}}
+|realm     = Valley of Triumph
+|location  = Coliseum
+}}
+<section begin="Summary" />The '''Cheerful Spectator''' is a [[Regular Spirit]] in the [[Valley of Triumph]] who offers the {{Emote|Cheerful Spectator|inline_text}} Expression. The Cheerful Spectator is found in the [[Coliseum]], halfway up the seats and above the entrance from the [[Valley of Triumph#Sliding Race|Races]]. The collectibles [[Cheerful Spectator#Friendship Tree|offered]] by this Spirit are a {{Spirit Item|Cheerful Spectator|Hair|inline_text}} and a {{Spirit Item|Cheerful Spectator|Instrument|inline_text}} Instrument.<section end="Summary" /><br>
+<br>
+[[File:Cheerful-Spectator-Guide-777-Ed.png|320x320px|thumb|none|Image Guide by 777.Ed]]
+
+== Memory ==
+<div>{{#ev:youtube|https://www.youtube.com/watch?v=-sVP-uZXkaI|||Video Guide by Tara||start=1487&end=1557&loop=1}}
+<br>
+The Cheerful Spectator can be found in the [[Coliseum]], halfway up the seats and above the entrance from the [[Coliseum#Sliding Race|Races]]. This Spirit is a [[Standard Memory|standard memory]] quest with 1 memory fragment and an unlimited overall [[Timed Memory|time limit]].
+
+As their memory unfolds, the Cheerful Spectator stands on their seat with their arms raised to cheer enthusiastically alongside four other Spirits.
+
+At the end of the memory, the Cheerful Spectator hops in place and punches their fists into the air to express their excitement.<br>
+<br>
+[[File:03 VT Spirit - Cheerful Spectator.png|200px|thumb|none|Relive the Cheerful Spectator's memory]]
+</div>
+{{Clear}}
+
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.<br>
+<br>
+[[File:{{Icon Name||Emote}}|170px|left]]
+<gallery heights="125" captionalign="center">
+Cheerful-Spectator-cheer-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Cheerful-Spectator-cheer-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Cheerful-Spectator-cheer-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Cheerful-Spectator-cheer-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar wind back their arm and then jump up, punching the air with their right fist.
+*Level 2 makes the same motion as Level 1 with sparkles following the punching hand.
+*Level 3 will make your avatar hunch forward, wiggling with excitement, and then burst into a high jump up, punching the air with their left fist.
+*Level 4 makes the same motion as Level 3 with sparkles and a ray of light following the punching hand.
+
+The prices of the three Expression upgrades are {{Cost|3 C}}, {{Cost|4 C}}, and {{Cost|4 C}}. Levels 3 and 4 are only available after unlocking the Spirit's [[Wing Buff]].
+
+== Cosmetics ==
+=== Hair ===
+The [[Hair]] offered by this Spirit is a large afro with a small curl poking out above the forehead, costing {{Cost|5 H}}. It is permanently available to all players after unlocking the Friendship Tree's second node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair front
+{{Icon Name||Hair|side}} {{!}} The Hair side
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Instrument ===
+The [[Instrument]] offered by this Spirit is a gray piano keyboard marked with the {{Season Icon|Belonging|inline_text}} symbol (despite not being a [[Seasonal Spirit]]), costing {{Heart|10}}. It has 12 white keys and 8 black keys but only plays 15 notes, and is played while kneeling. It is permanently available to all players after unlocking the Spirit's [[Wing Buff]] and the Friendship Tree's fifth node. 
+
+The Piano plays the [[Music Sheet Parts|melody part]] on Music Sheets. Its [[Instrument Pitch|pitch]] is in the middle range of the game's melody instruments; in C Major, it covers C<sub>4</sub> to C<sub>6</sub>.
+
+In [[Harmony Hall]], the Piano can be found on the back wall, to the left of the large decorative panel. It is mounted high on the wall, above the {{Instrument|Winter Piano|inline_text}}.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Instrument}} {{!}} The Instrument icon
+{{Icon Name||Instrument|real}} {{!}} The Instrument
+{{Icon Name||Instrument|back}} {{!}} The Instrument on a player's back
+{{Icon Name||Instrument|held}} {{!}} Playing the Instrument
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Friendship Tree ==
+{{Friendship Tree Info | regular}}
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Cheerful Spectator
+|image  = Valley-Spirit-Cheerful-Spectator.png
+
+|nodeC6 = instrument 10 H
+|nodeC5 = spell5
+|nodeL4 = emote4 4 C
+|nodeC4 = emote3 4 C
+|nodeC3 = wing 2 AC
+|nodeL2 = hair 5 H
+|nodeC2 = spell1
+|nodeR2 = heart
+|nodeL1 = emote2 3 C
+|nodeC1 = emote
+}}<section end="Friendship Tree" />
+
+==Trivia==
+*Next to the three Spirits ([[Whale Whisperer]], [[Ceremonial Worshiper]], and [[Memory Whisperer]]) that do not have a tradition memory, and therefore no memory fragments to collect, the Cheerful Spectator has the shortest memory relive sequence of all Regular and Seasonal Spirits, with only a single fragment to collect.
+*The Cheerful Spectator is featured in a piece of merch from thatskyshop, in the form of the [[That Sky Shop/Wave 11#Valley Spectator Coin Pouch|Valley Spectator Coin Pouch]].
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Emote Loc-Cheer.png
+</gallery>
+
+[[de:Fröhlicher Zuschauer]]
+[[pt-br:Espectador Vibrante]]
+[[fr:Spectateur enthousiaste]]

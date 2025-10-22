@@ -1,0 +1,148 @@
+{{Spirit Infobox
+|type      = Seasonal
+|image     = Tender-Toymaker-Spirit-cutout.png
+|emote_type= none
+|cosmetics =<!--
+-->{{Spirit Item|Tender Toymaker|outfit|infobox}}<!--
+-->{{Spirit Item|Tender Toymaker|hair|infobox}}
+|props     = <!--
+-->{{Spirit Item|Tender Toymaker|prop_c|infobox}}<!--
+-->{{Spirit Item|Tender Toymaker|prop_m|infobox}}
+|season    = The Two Embers - Part 1
+|realm     = Golden Wasteland
+|location  = [[The Last City]]
+|ts        = None
+}}
+<section begin="Summary" />The Tender Toymaker is a [[Seasonal Spirit]] from the [[Season of The Two Embers - Part 1]]. The Tender Toymaker is found at the Marketplace in [[The Last City]], between some stalls on the left side. The collectibles [[#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Tender Toymaker|outfit|inline_text}}, a {{Spirit Item|Tender Toymaker|hair|inline_text}}, a {{Spirit Item|Tender Toymaker|prop_c|label=Crab Figurine Prop|inline_text}}, and a {{Spirit Item|Tender Toymaker|prop_m|label=Manatee Toy Prop|inline_text}}.<section end="Summary" />
+<br><br>
+[[File:Tender-Toymaker-Promo-art.jpg|none|thumb|320px|TGC's Promo image]]
+
+== Memory ==
+<!--{{#ev:youtube|YoutubeID|200px|inline|Video Guide}}
+-->
+The [[Tender Toymaker]] can be found at the Marketplace in [[The Last City]], between some stalls on the left side (after completing [[Season of The Two Embers - Part 1#Quest #1|Quest #1]]). Before that, they can be found resting under a tent, across from the player's starting point in the area, though they cannot be interacted with. 
+
+Unlike other Spirits, the Tender Toymaker has no memory that can be relived, but rather a Seasonal Quest dedicated to them. Showcasing the life of the weary Spirit, struggling to make a day as a Toymaker merchant, this Quest gives players a series of tasks, helping the Spirit get back into the active Marketplace as a merchant.  
+
+Players can interact with the Tender Toymaker upon completion of the [[Season of The Two Embers - Part 1#Quest #1|First Quest]].
+
+==Cosmetics==
+===<span id="Outfit">Outfit</span>===
+The [[Outfit]] offered by this Spirit consists of four layers: a green, long-sleeved dress, an outer dark green dress covered with a green shoulder mantle, and a beige apron tied around the waist. The apron holds a paintbrush pouch and the bottoms of the mantle and dress sleeves are decorated with triangle patterns. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's third node ({{Cost|44 SC|season=Two Embers - Part 1}} total).<br><br>
+{{Dye_Details
+|area1=the mantle and sleeves
+|cost1=2
+|area2=the mantle's triangles
+|cost2=1
+}}<br><br>
+{{#tag:gallery
+|{{Icon Name|Tender Toymaker|Outfit|icon}} {{!}} The Outfit icon
+{{Icon Name|Tender Toymaker|Outfit|real}} {{!}} The Outfit front
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Hair">Hair</span>===
+The [[Hair]] offered by this Spirit is a beige scarf wrapped around the head and neck, decorated with pale triangles around the face hem. It was available to all players during the Season from the Friendship Tree's fourth node ({{Cost|72 SC|season=Two Embers - Part 1}} total).<br><br>
+{{Dye_Details
+|area1=a gradient strongest around the face and the top of the neck-wrapped section
+|cost1=3
+|area2=the hems of the neck & face parts, and the triangles
+|cost2=1
+}}<br><br>
+{{#tag:gallery
+|{{Icon Name|Tender Toymaker|Hair|icon}} {{!}} The Hair icon
+{{Icon Name|Tender Toymaker|Hair|real}} {{!}} The Hair 
+{{Icon Name|Tender Toymaker|Hair|side}} {{!}} The Hair side
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Prop">Props</span>===
+This Spirit offers a total of two Props: a [[#Crab Figurine|Crab Figurine]] and a [[#Manatee Toy|Manatee Toy]].
+
+====Crab Figurine====
+The [[Prop]] offered by this Spirit is a wooden carved [[Dark Crabs|Crab]] toy, partially colored yellow with white accents. It has four stick legs, large, moon-shaped claws, and a star ornament on the forehead. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, it appears in its original form. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's first node ({{Cost|8 SC|season=Two Embers - Part 1}} total).<br><br>
+{{#tag:gallery
+|{{Icon Name|Tender Toymaker|prop_c|icon}} {{!}} The Prop icon
+{{Icon Name|Tender Toymaker|prop_c|real}} {{!}} The Prop
+{{Icon Name|Tender Toymaker|prop_c|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Manatee Toy====
+The [[Prop]] offered by this Spirit is a wooden carved [[Manatee]] toy, painted with white and yellow. Its tail and fins are tied to the body with string. When equipped, the toy can be interacted with by clicking its {{Spirit Item|Tender Toymaker|prop_m|icon}} icon at the bottom of the screen—the avatar will hold it up in front of them, move it in a wave motion and shake its tail, which triggers the fins to be moved as well. It cannot be placed and therefore cannot be used in [[Shared Spaces]]. When carried on its owner's back, it appears in its original form. It was available to all players during the Season from the Friendship Tree's second node ({{Cost|22 SC|season=Two Embers - Part 1}} total).<br><br>
+{{#tag:gallery
+|{{Icon Name|Tender Toymaker|prop_m|icon}} {{!}} The Prop icon
+{{Icon Name|Tender Toymaker|prop_m|real}} {{!}} The Prop
+{{Icon Name|Tender Toymaker|prop_m|held}} {{!}} Using the Prop
+{{Icon Name|Tender Toymaker|prop_m|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+<!--   ONLY APPLICABLE ONCE SPIRIT HAS BECOME A TRAVELING SPIRIT 
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling
+|ts_dates=*June 19, 2019 (#01)
+*June 19, 2020 (#02)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = SPIRITNNAME
+|image = 
+|season = season
+
+|nodeC6 = Outfit 60 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Mask 30 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+The hints given before the Tender Toymaker's first appearance were: 
+{{Collapse
+|label=First Visit Hints
+|content=<div>
+*  [ hints can be on the official Sky Discord which are posted a few days before the traveling spirit by staff of thatgamecompany. ]
+</div>
+}}
+-->
+==Season Friendship Tree ==
+{{Friendship Tree Info | season| season=Two Embers Part 1}} <section begin="Season Friendship Tree" />
+{{Friendship Tree
+|spirit = Tender Toymaker
+|image  = Tender-Toymaker-Spirit-cutout.png
+|type   = season
+|season = Two Embers Part 1
+
+|nodeC5 = season_heart 3 SC SP
+
+|nodeL4 = Random-dye-icon.png SP
+|nodeC4 = hair 28 SC
+
+|nodeL3 = outfit SP
+|nodeC3 = Green-dye-container-icon.png 22 SC
+
+|nodeL2 = Random-dye-icon.png SP
+|nodeC2 = prop_m 14 SC
+
+|nodeL1 = prop_c SP
+|nodeC1 = spellx 8 SC
+}}<section end="Season Friendship Tree" />
+
+==Personality==
+On July 22, 2025, TGC officially announced and introduced the Tender Toymaker with the following personality traits<ref>[https://archive.ph/ZEcKZ https://x.com/thatskygame/status/1947808949056557338]</ref>:
+*🏠 Not originally from the city, but now calls it home
+*❤️‍🩹 Wears a strong face even when feeling weak
+*✨ Their best works are inspired by the ones they love
+*🤲 When able, loves giving trinkets to children in the market for free
+
+==References==
+<references />
+
+[[ja:心優しき玩具職人]]
+[[pt-br:Brinquedeiro Carinhoso]]
+[[fr:Fabricant de jouets fraternel]]

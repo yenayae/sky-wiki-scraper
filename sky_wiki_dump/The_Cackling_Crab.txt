@@ -1,0 +1,484 @@
+{{Location
+|image      = The-Cackling-Crab-Cauldron-and-light.jpg
+|realm      = Vault of Knowledge
+|access     = [[Secret Area]]
+|pieces_of_light = 179+ {{Cost|L}}
+}}
+{{Quote|<br>'''''Sweets and secrets in spooky places.'''''|The Cackling Crab opening}}
+<section begin="Summary" />The '''Cackling Crab''' is a notable location for Halloween lovers, buried underneath the [[Secret Area]]. During the annual [[Days of Mischief]] event (around mid-end October and lasting until the beginning of November), the Cackling Crab is accessible, and the Secret Area is open to everyone through a friendly NPC at the gate.<section end="Summary" />
+__TOC__
+{{Clear}}
+==Accessing the Area==
+During [[Days of Mischief]], players will find the [[#Samantha|Herald of Mischief]] perched atop a broom. In [[Aviary Village]], they say "Okay, come on in." before gliding into the Event Shop, where they can be found alongside [[#Skidmore|Skidmore]] and [[#Yoshi|Yoshi]]. In the event shop is a meditation circle with the prompt "Investigate the cacophony in the Cackling Crab?" Upon meditating, the player joins the three in using the {{Emote|Cackling Cannoneer|inline_text}} Expression Level 1.
+
+The meditation circle is also found in [[Home]] with the Herald circling it, humming "La...la...lalaala!" and "Mmm...mm...".
+
+In the [[Secret Area]] in the [[Vault of Knowledge]], the Herald can be found inside the building, asking "Investigate the cacophony in the Cackling Crab?". Follow them past pumpkin-shaped [[Flora, Minerals and Elements of Sky#Darkness|Darkness Plants]] into the restrooms. Taking the hand of the black vortex hidden there warps players to the Cackling Crab.
+{{Collapse
+|label=Dialogue from 2023
+|content= During [[Days of Mischief]], players will find a distressed [[#Samantha|Herald of Mischief]] at [[Home]] with a tiny [[Dark Crabs|Crab]] sitting on their head. During Week 1, they say "Legend speaks of—aahh! My brain has been so foggy lately... Something's not quite right. Let's investigate!" However, during Week 2, the Herald is silent. Lastly, during Week 3, a patch of burnable pumpkin-shaped [[Darkness]] are in front of the Herald, and the tiny Crab that had been perched on their head is now crawling around in the grass. You can either speak with the Herald to be teleported directly to the area or go through the [[Secret Area]] inside [[Vault of Knowledge]].<br><br>
+
+In the Secret Area building, the Herald of Mischief will sluggishly walk around the kitchen table, enter the bathrooms, and point to the black vortex that warps players to the Cackling Crab.
+}}<br>
+{{Collapse
+|label=Dialogue from 2022
+|content= During [[Days of Mischief]], players will find a patch of burnable pumpkin-shaped [[Darkness]] at [[Home]]. Once cleared away, the [[#Samantha|Herald of Mischief]] will jump out to scare you and say, "Legend speaks of a blood moon rising...", pointing to the [[Vault of Knowledge]] portal. 
+
+Inside the Secret Area building, you can find the Herald again. Talking to them starts their monologue: 
+* "Hello there!"
+* "What am I doing here? well, you see...after the ruckus we caused last year."
+* "I've been banished to cleanup crew."
+* "Don't tell management. I'm actually Clone 13."
+* "By the way, have you seen Atlas's cat?"
+* "I startled them the other day and haven't seen them since."
+* "I'm starting to get worried...."
+
+The Herald then leads you to the second bathroom, where a black vortex can be found. You can access the Cackling Crab by clicking the hand icon to be teleported.
+}}
+{{Clear}}
+
+==The Entrance==
+[[File:Cackling_Crab_Landing_2024_w3.JPG|right|thumb|250x250px|The Cackling Crab landing]]
+Once teleported from the Secret Area or the meditation circle, players find themself alongside the NPCs beside a campfire at the edge of a circular valley. The barren landscape features scattered contraptions and stone stairs, and is surrounded by clouds. Above, the crescent moon glows in a blood-red sky and a huge [[Dark_Shadows|Dark Shadow]] stares down. Three smaller dark shadows circle the area.
+
+The entrance from Days of Mischief 2023 can be found past a passageway through the clouds.
+{{Clear}}
+{{Collapse
+|label=Info from 2023
+|content=<br>
+[[File:The-Cackling-Crab-Main-entrance.jpg|right|thumb|250x250px|The Cackling Crab landing]]
+Once teleported from the Secret Area or the Herald of Mischief, players find themself in a barren landscape surrounded by clouds, standing at the mouth of a deep pit. Above, the crescent moon glows in a blood-red sky and a huge [[Krill|Dark Dragon]] swoops down at you, passing just above your head.
+}}
+{{Clear}}
+
+==The Cackling Crab==
+There were three quest-like activities available at the spawn location, each with a cutscene featuring all the NPCs.
+* Week 1:
+** '''Samantha''': Curious what happened?
+** (Fade to black). Skidmore emerges from below the lip of the hill, spinning wildly on a witch's broomstick. Samantha and Nat laugh at the scene.
+** '''Skidmore''': Hey, is everyone else spinning?
+** '''Austin''': Skidmore! I told you it’s not ready yet!
+** '''Skidmore''': Just a couple more spins… (Skidmore's broom lurches up and down.) The situation is under control!
+** (Fade to black.) The cauldron looms large, bubbling ominously. Nat is speaking to it. Yoshi is there also, carrying an event currency candy.
+** '''Nat''': You’ve been with us this whole time. This year is yours! It’s time!
+** In a burst of smoke, a raven emerges from the mouth of the cauldron.
+** '''Nat''': YES!!!
+** '''Yoshi''': Great job Nat! But…careful…watch out!
+** From the mouth of the cavern, Skidmore careens in on their broom.
+** '''Skidmore''': Yoshi! Look out!!
+** Skidmore barrels into both Nat and Yoshi, knocking them over. The candy falls into the cauldron, burning up and releasing a dark shadow.
+** '''Yoshi''': Oh no! The Raven!
+** The dark shadow envelops the raven, escaping out of the exit stairway and into the sky, releasing three smaller shadows.
+** '''Yoshi''': Dark orb swallowed our Raven…and candy…
+** '''Austin''': That’s players’ Event Currency…
+** '''Skidmore''': Was it supposed to do that?
+** '''Yoshi''': Let’s use the cannon to hit the monsters!
+** '''Samantha''': Yeah! We need to get back our stolen candies!
+** Skidmore and Yoshi run to the closest cannon.
+** '''Samantha''': We need to figure out how we can save our trapped Raven…
+** '''Skidmore''': Ready? Yoshi?!
+** '''Yoshi''': Hit it!
+** '''Skidmore''': Oops…I don’t have candles.
+** '''Yoshi''': Skykiiids!
+** '''Skidmore''': I’m sure Skykids will help us.
+** ''The player is prompted to use the cannon.''
+** '''Yoshi''': I see two more cannons!
+[[File:Week2-activity-broom-mischief-2024.jpg|right|thumb|330px|The "Spiced Up" Broom]]
+* Week 2: The area shakes ominously as Austin levitates a broom over the campfire.
+** '''Austin''': Hey skykids! Please try out the practice broom with Nat. I spiced it up with some spells that will help you stay in the air longer! You will need to stop the spread of darkness from the Monsters! I know you guys can do it Skykids!
+** '''Samantha''': Nat! You’re up!
+** '''Nat''': Ready to practice?
+** ''The player is prompted to grab a shining broom from atop an anvil.''
+** '''Nat''': Hop on the broom! Let’s go! I will see you up there!
+** As the player collects light fragments from the air:
+*** Gather all the pieces!
+*** Do not worry! We will save our Raven!
+*** Wow!?
+*** You’re doing great!
+*** Dark orb is angry?
+*** You’re stopping the plague! Keep going!
+*** Great job!!!
+*** Time to get the candies back!
+* Week 3: Samantha ducks, as lightning flashes and crows caw dramatically.
+** '''Samantha''': Oh no…now our home… Cackling Crab is losing its balance. Raven… Our Raven is still there, I can feel it! (Samantha uses {{Emote|Herb Gatherer|inline_text}} Level 4.) EMERGENCY MEETING EVERYONE!
+** The others spawn gathered around the campfire, chatting ambiently. ''Upon approaching, a meditation circle appears with the prompt "Do you want to go save the Raven?"''
+** '''Samantha''': Skykids! We need to go save our Raven!!! We need a crowd of Sky Witches! Witch time!!! Let’s go!!! Austin added his spicy spells to the broom for those who can join.
+** ''Upon meditating, the player joins a lobby for the activity.''
+** '''Samantha''': LET’S GOOOOOO!!!
+** The group cackles, then salutes. ''Players are prompted to "Group up near the monsters!". Upon completing the first phase:''
+** '''Skidmore''': Now we’re talking!
+** '''Austin''': We need to dunk the dark orb down closer!
+** The five mount their brooms and zip up into the sky.
+** '''Nat''': Hit it!
+** '''Skidmore''': LET’S GOOOOOO!!!
+** (Fade to black.) The NPCs hover in a loose circle, facing down the giant dark shadow.
+** '''Samantha''':  Okay, on the count of three…
+** '''Austin''': LET’S GOOOOOO!!!
+** '''Samantha''': Oh…okay…
+** They push the dark orb lower, into the valley. ''Players are prompted to "Group up near the orb!" Upon completing the second phase:''
+** The creature of shadow burns into event currency wax, revealing the raven within. The NPCs cheer.
+** '''Samantha''': Great job!!!
+** The NPCs {{Emote|Jolly Geologist|inline_text}} around the campfire.
+
+{{Clear}}
+{{Collapse
+|label=Dialogue from 2023
+|content=As players descend down the main entrance pit, a cutscene featuring [[#Samantha|Samantha]] starts to play. 
+* Week 1: A sleeping Samantha is seen on the floor in front of the cauldron as group of Crabs kidnap [[#Skidmore|Skidmore]] and carry them down into a hole. Samantha then wakes up, startled and hunched over.
+** "What a nightmare! I saw Skidmore get kidnapped by crabs!"
+** "Too real."
+** "I can't—I can't think straight..."
+** "Wait. Where IS Skidmore?!? You must find him!"
+** ''(The camera pans to the hole that leads to an underground lair.)''
+* Week 2: 
+** ''(Samantha waves, doing the {{Emote|Sparkler Parent}} Sparkler Expression.)'' "[[#Jenova|Jenova]]! Hey, Jenova!"
+** "I heard you rescued Skidmore, but are [[#Nat|Nat]] and [[#Yoshi|Yoshi]], okay too?"
+** "Jenova?"
+** ''(Samantha shakes their head)'' "Oh no. Oh no no no no no...."
+** "Great, he's gone too." ''(Samantha facepalms.)'' 
+** "What is happening around here?"
+** "Do you think Jenova went to look for the others?"
+* Week 3:
+** "Hmmm. Where did our little friend come from?"
+** "What do you mean it came from my head?!"
+** "Nevermind them. Yoshi and Nat are okay?! Great job!"
+** "Jenova's voice is ringing in my ears, can you hear that?"
+** "Keep your wits about you!"
+** "I sense the Krill Cat is behind everything...again."
+** "Look for clues in the Krill Cat's den. Hurry!"
+
+Interacting with the green orb sitting at the base of the large cauldron will activate a series of animations showing fire coming out of the pipes in the walls, while the cauldron gets hot and the green liquid inside starts to boil.
+}}
+<br>
+{{Collapse
+|label=Dialogue from 2022
+|content=As players descend down the main entrance pit, a cutscene featuring a cat starts to play. [[Creatures#Mimi|Mimi]] flies in on a broomstick, spinning wildly out of control and falling into the large cauldron in the middle of the Cackling Crab. Out jumps a hissing black cat covered in sooty darkness. [[#Samantha|Samantha]] and [[#Skidmore|Skidmore]] then appear in front of the cauldron and have the following conversation:
+[[File:The Cackling Crab NPCs.jpg|none|thumb|330x330px|Samantha and Skidmore at the Cackling Crab]]
+* '''Samantha:''' "Skidmore..." "What's that sound?!"
+* '''Skidmore:''' "Oh no, Samantha! Not again...." "Management's really not going to like this...."
+* '''Samantha:''' "Whatever that was is gonna cause problems on purpose"
+* '''Skidmore:''' "We just can't have nice things, can we?"
+* '''Samantha:''' "What do we do now?"
+* ''(Skidmore and Samantha turn to look and you, who honks)''
+* '''Skidmore:''' "We need reinforcements!! Go find [[#Nat|Nat]] and [[#Yoshi|Yoshi]]!"
+* '''Samantha:''' "Speaking of, where's [[#Jenova|Jenova]]?"
+* '''Skidmore:''' "I could've swore I saw him down here...." 
+* '''Samantha:''' "Maybe you can find them!" 
+* ''(Skidmore and Samantha point at us)''
+* '''Samantha:''' "Before you go, help us get the cauldron up and running?"
+* ''(The camera pans to focus on a green activation handle)''
+
+Interacting with the green orb sitting at the base of the large cauldron will activate a series of animations showing fire coming out of the pipes in the walls, while the cauldron gets hot and the green liquid inside starts to boil.
+
+Samantha and Skidmore then proceed to move around the cauldron, using Emotes and making comments. (See the [[#NPC Shopkeepers|NPC Shopkeepers]] section for further dialogue.)
+}}
+<br>
+{{Collapse
+|label=Dialogue from 2021
+|content=<br>
+* '''Samantha:''' "Skidmore..." "Did...did you hear that?"  
+* '''Skidmore:''' "Oh no, Samantha! Management's not going to like this..."
+* '''Samantha:''' "How'd they get in here?!"
+* ''(Skidmore and Samantha turn to look and you, who honks)''
+* '''Skidmore:''' "See, this is why we can't have nice things..."  
+* '''Samantha:''' "What do we do now that they found us?"
+* '''Skidmore:''' "Put them to work! Hit that switch! Get that cauldron fired up!"
+* ''(The camera pans to focus on a green activation handle)''
+* '''Samantha:''' "Weren't [[#Yoshi|Yoshi]] and [[#Nat|Nat]] supposed to do that?" "I could have sworn I saw them down here..."
+* '''Skidmore:''' "Those rascals! Where'd they run off to?"
+* '''Samantha:''' "Maybe you can find them!"
+* ''(Skidmore and Samantha point at the player and laugh)''
+
+Interacting with the green orb sitting at the base of the large cauldron will activate a series of animations showing fire coming out of the pipes in the walls, while the cauldron gets hot and the green liquid inside starts to boil.
+
+Samantha and Skidmore then proceed to move around the cauldron, using Emotes and making comments. (See the [[#NPC Shopkeepers|NPC Shopkeepers]] section for further dialogue.)
+}}
+{{Clear}}
+
+===The Cauldron===
+[[File:The-Cackling-Crab-Cauldron-and-light.jpg|right|thumb|330x330px|The Cauldron]]
+In the main underground area, a large bubbling cauldron periodically provides green [[Pieces of Light]] and spikey black balls, like those seen at the [[Additional_Light_Sources#Polluted_Geyser|Polluted Geyser]]. Burning these spikey balls will place a variety of temporary height and cosmetic [[Spells]] on the player, transforming [[Creatures|Sky Kids]] into mischievous figures of mayhem. 
+
+The Mischief cauldron produces green Lights about every 8 minutes, with a maximum of 1,000 Pieces of Light per day.
+{{Clear}}
+
+=== Mimi the Krill Cat ===
+[[File:The-Cackling-Crab-Mimi-the-Cat.jpg|right|thumb|330x330px|Mimi the Krill Cat]]
+During Days of Mischief 2022, a Krill Cat circling around the cauldron will give you the [[Days_of_Mischief#Krill_Cat's_Curse_Spell|Krill Cat's Curse Spell]] when you attempt to pet them, changing your appearance into a dusty figure with spiky hair. Using the {{Emote|Scarecrow Farmer|inline_text}} Expression next to another player will cause the curse to spread to them as well. 
+
+The effects of the curse can be cancelled at any time by double tapping the Spell icon, found in the bottom left corner of the screen or by viewing the top of the [[Expression Menu]].
+{{Clear}}
+
+=== Sewer Pipe Spell Crabs ===
+[[File:Days-of-Mischief-Sewer-pipe-spell-crabs.jpg|right|thumb|330x330px|Sewer Pipe Spell Crabs]]
+In the main underground area, an opening on the left contains a small room with a sewer pipe. Rescuing a [[Dark Crabs|Crab]] trapped inside the pipe by opening the heavy gated cover will release more Crabs from the trap above. The Crab carrying a present box found here offers several [[Spells]] for players to collect, including the [[Days_of_Mischief#Candle_Trick_Spell|Candle Trick Spell]], the [[Days_of_Mischief#Dark_Dragon_Repellent_Spell|Dark Dragon Repellent Spell]], and the [[Days_of_Mischief#Crab_Rock_Trick_Spell|Crab Rock Trick Spell]].   
+{{Clear}}
+
+=== The Rideable Broomstick===
+[[File:The-Cackling-Crab-Broomstick.jpg|right|thumb|330x330px|The Rideable Broomstick]]
+Two broomsticks fly throughout the skies of the Cackling Crab, circling above the cauldron and alongside the [[Dark Dragons]] outside. Players can ride around on either of these broomsticks by interacting with the {{Emote|Sit|inline_text|link=Sit}} prompt, similar to the broomstick that appears on certain days in the [[Secret Area]].
+{{Clear}}
+
+===The Crab Cell and Krill Cat Shrine===
+[[File:Crab-with-Party-Hat.png|right|thumb|Birthday Hat Crab]]
+In the main underground area, to the right of the chat benches, an opening beneath a tree root contains a wooden door that opens to a spiral staircase. At the top of the staircase is a small cell room where a crab in a birthday hat, presumably Jenova in disguise, sits in front of a barred window. Interacting with the crab curses the player with the [[Days_of_Mischief#Crab_Curse_Spell|Crab Curse Spell]].
+
+[[File:Krill-cat-shrine-mischief-2024.jpg|right|thumb|330px|The Krill Cat Shrine Room]]
+The narrow corridor at the other end of the cell leads to a room full of candles. At the top of the slope is a small shrine where the [[#Mimi the Krill Cat|Krill Cat]] spins slowly atop a broom. Players who get too close will be cursed with the [[Days_of_Mischief#Krill_Cat's_Curse_Spell|Krill Cat's Curse Spell]].
+
+* During [[Days of Mischief#October 2023|Days of Mischief 2023]], [[#Jenova|Jenova]] could be found in place of the birthday crab, mumbling to himself. During Week 2, Jenova was no longer within this room and could instead be found in the underground lair, disguised as a [[Dark Crabs|Crab]] wearing a birthday hat. Interacting with this Crab transformed him back into Jenova, who sneezed on the player to curse them with the [[Days_of_Mischief#Crab_Curse_Spell|Crab Curse Spell]] and then laughed before turning back into a Crab. During Week 3, Jenova returned to the cell, sprawled out on the floor in front of the barred window, mumbling to himself once again. (See the [[#NPC Shopkeepers|NPC Shopkeepers]] section for dialogue.)
+* During [[Days of Mischief#October 2023|Days of Mischief 2023]], Mimi the Krill Cat would docilely lick its paw, meow, and purr at approaching players. During Week 3, however, the Krill Cat hissed and arched its back at any nearby players, applying the Crab Curse Spell on them. <gallery>
+File:The-Cackling-Crab-cat-hideout-1.jpg
+File:The-Cackling-Crab-cat-hideout-2.jpg
+</gallery>
+* During [[Days of Mischief#October 2022|Days of Mischief 2022]], the entrance to Jenova's room required players to be [[Blessings_(Spells)#Tiny_Spell|Tiny]] to enter. (''Players will have to be cursed from the Krill Cat roaming around the cauldron until they acquire a Tiny Spell.'') Getting too close to the Krill Cat at the shrine would kick you out of the room and into the large spider web in the main area.
+* During [[Days of Mischief#October 2021|Days of Mischief 2021]], the room beyond the staircase was home to [[#Nat|Nat]] and featured a room full of white candles that gave no [[Pieces of Light|Light]].
+
+===Behind the Large Spider Web (Hidden Area)===
+[[File:Flooded-shrinestones-cave-mischief.jpg|The Flooded Cave|right|330x330px|thumb]]
+Behind the large spider web there is a spiral staircase that will lead you to a flooded area with lots of shrine stones. Flying up this area, you will find a small cluster of candles.
+
+* Prior to 2024, the area contained a [[Treasure Candle]].
+* In [[Days of Mischief#October 2022|Days of Mischief 2022]], a clone of Samantha called Clone 42 stood next to the stones and on the ledge above, you would find Nat and Yoshi who offer In-App purchases from previous Days of Mischief years. (See below for Dialogue).
+* In [[Days of Mischief#October 2021|Days of Mischief 2021]], this door was home to Yoshi but no staircase was present.
+
+===The Exit Staircase===
+Players can exit the main area by going up the entrance but also by a large stone staircase. Going up the staircase will trigger two large Wasteland spears that will startle you and make you go down a few steps back if you are not cautious. The exit will lead you to the portal, back to [[Secret Area]].
+
+===The Blood Moon Sky===
+Outside, three large [[Dark Shadows]], many black crows, and a few rideable witch's brooms circle in the sky. If hit by a shadow creature, a random cosmetics spell is applied to the player and they are flung in a random direction. Upon completing the Week 3 activity, the raven also flies around the area, applying a temporary spell for the new [[Days of Mischief#Mischief Raven-Feathered Cloak|Raven-Feathered Cloak]] and [[Days of Mischief#Mischief Spider Bun|Spider Bun Hair]].
+{{Clear}}
+{{Collapse
+|label=Info from 2023
+|content=Outside, three large Dark Dragons, many black crows, the rideable witch's broom, and the rideable flying cat circle above you. None of the Dark Dragons will attack you so it may be the only place in Sky where you can find friendly krills. One of them circle outside and inside and will give you a ride.
+
+The rideable krill was introduced in 2022.
+}}
+{{Clear}}
+
+===The Cannons===
+[[File:Cackling Crab Cannon 2024.JPG|right|thumb|330x330px|Cannon and Dark Shadow]]
+[[File:Days-of-Mischief-Cannon-Blast-Dark-Shadow.gif|right|thumb|330x330px|Firing the Cannon]]
+There are three cannons scattered across the hilltops, each facing inward. By interacting with the front, the player can load rocks into it, which will be shot out when the back of the cannon is lit with a candle.<br>If a dark shadow is hit, the creature turns green and retreats to a holding pattern in the center of the area, trailing event currency wax. If the shot misses, the player receives the prompt "Refill and wait for the right timing!" and must try again.<br>A light atop the back of the cannon flashes to indicate when a dark shadow is close enough to be hit.
+
+Each cannon corresponds to a specific dark shadow; the others are out of range. Green creatures no longer apply spells to players.
+
+The cannons were introduced in 2024.
+{{Clear}}
+
+===The Broom Launcher===
+[[File:Broom-launcher-mischief-2024.png|right|thumb|330px|The Broom Launcher]]
+Starting from Week 2, Skidmore and Yoshi stand beside a contraption atop a tall hill. By sitting atop the broom loaded into the circular tube, the broom ratchets slowly back. Skidmore says "Hit it!", Yoshi pulls a lever, and the player is launched off the broom into the center of the area.
+{{Clear}}
+
+===Underground Lair===
+[[File:Underground-lair-mischief-2024.jpg|right|thumb|330x330px|The Lair, With Pumpkins]]
+[[File:Lair-broom-workshop-mischief-2024.jpg|right|thumb|330x330px|Broom Workshop Alcove]]
+The underground lair is a large webbed cave illuminated by floating flames. In the center of the cave is a campfire ringed by shallow water. Fire geysers throw players and pumpkin crabs into the air; players can use this boost to fly out through holes in the cave ceiling. A giant crab of stone overlooks one of two exits, alongside a patch of pumpkins that grant [[Pieces of Light]] when picked up. An alcove with a broom strung from the ceiling, alongside racks of tools, can be found tucked along the cave wall.
+This area was introduced in 2023.
+{{Clear}}
+{{Collapse
+|label=Info from 2023
+|content=The underground lair is a large cave illuminate with floating green fire. During Week 1, Yoshi and Nat are mindlessly walking around a pond with a bonfire in the middle. During Week 2, Yoshi is walking back and forth, into and out of the alcove underneath the Giant Crab, while Nat stands on top of a root, serving as the [[Premium Candle Shop]].
+
+A Giant Crab is embedded in the far wall with glowing red spotlight eye beams. Getting caught by the Giant Crab summons an horde of crabs. Crabs and crows populate the lair. The pond occasionally expels fire and small pumpkins that contain [[pieces of Light]].
+
+During Week 1, Skidmore is trapped behind bars. Lighting the candle in front of the prison launches you up and out, landing you at the mouth of another tunnel. Upon entering this tunnel, a large crab boulder falls down behind you and begins to roll down towards you. At the dead end, a trap door opens and drops you back to the Sewer Pipe Crab alcove.
+
+During Week 2, approaching the prison opens up the gate and releases Skidmore. Skidmore celebrates and offers to hug the player. Upon walking out Skidmore exclaims, "Nat! Yoshi! So this is where you went! We gotta get you two out of here...."
+* Skidmore: "Samanthaaaa!!!"
+* Samantha: "Skidmore?! ..Is that you?"
+* Skidmore: "Samanthaaaa!!!"
+* Samantha: "I swear I just heard him..."
+* Skidmore continues to yell, "Samanthaaaa!!!"
+* Samantha: "Here! Down this little hole. Oof. This sure is steep..."
+
+After a few minutes, Samantha runs down into the underground lair, "My noodle legs can't take much more of this... There you are!" Samantha and Skidmore celebrate their reunion. Samantha walks over to Nat, "Nat? Are you feeling okay?" and to Yoshi, "Yoshi? Hang in there, bud..." Samantha asks, "What happened to you three? Very strange indeed..." Samantha turns towards the birthday-hat-wearing crab, "What's that over there? What's this crab doing with Jenova's hat?" If the player interacts with the crab, Samantha reacts during the cutscene of the crab transforming into Jenova.
+}}
+{{Clear}}
+
+===Tunnel of Tricks===
+[[File:Flood-trap-mischief-2024.jpg|right|thumb|330px|Flooding Tunnel Entrance]]
+[[File:Trapped-grate-trick-mischief-2024.jpg|right|thumb|330px|Trapdoor Grate]]
+The tunnel maze can be entered through the Krill Cat Shrine room or through the tunnel past the Giant Crab in the underground lair. The maze has two tricks. First, a section of the tunnel closes off both ends and begins to flood. Players must swim up through a hole to escape, where they find a [[Treasure Candles|Treasure Candle]]. Past that, the tunnel contains a grate trapdoor with a launcher on the ceiling. Stepping on the grate will launch the player down into the underground lair area, unless they avoid the trap by walking around the stone ledge.
+{{Clear}}
+
+=== Other Features ===
+Underneath a big tree root, players can chat, sitting on a bench while looking at a large fireplace.  
+
+Many cannon pipes are present on the walls of the caves. Lighting any of those cannons will trigger an explosion ejecting you across the area.
+
+==NPC Shopkeepers ==
+The NPCs feature in the event's activities. Prior to 2024, all of the NPCs functioned as shopkeepers and were scattered around the Cackling Crab.
+===Samantha===
+[[File:Days of Mischief - Samantha.png|Samantha's Skykid|right|thumbnail]]
+Samantha (also known as the Herald of Mischief) can be seen wearing the [[Days of Mischief#Witch Jumper Jumper|Mischief Witch Jumper]], the [[Days of Mischief#Mischief_Spider_Quiff|Mischief Spider Quiff]], the [[Days of Mischief#Mischief_Withered_Antlers|Mischief Withered Antlers]], and the [[Days of Mischief#Mischief_Pumpkin_Prop|Mischief Pumpkin Prop]]. In addition to these Mischief items, Samantha can also be seen wearing [[Sassy_Drifter#Mask|Sassy Drifter's Mask]].
+
+{{Collapse
+|label=Samantha's Dialogue from 2022
+|content=Samantha was found roaming in the main underground area. This NPC provided [[Spells]] for all the cosmetics available for real currencies ([[Premium Candle Shop|IAP]]).
+
+*"Have you seen [[#Yoshi|Yoshi]]'s crab? They just scuttled past with a box on their head!"
+*"What's that grinding sound coming from upstairs?"
+*"Did a broom just fly past?"
+*"I bet Yoshi tried to face the [[Krill|Dark Dragon]] and lost. Someone should check on him..."
+*"Pspspspsps..."
+}}
+
+{{Collapse
+|label=Samantha's Dialogue from 2021
+|content=<br>
+*"I swear I saw [[#Nat|Nat]] running off with a pile of Reika's clothes..."
+*"Have you seen [[#Yoshi|Yoshi]]'s crab? They just scuttled past with a box on their head!"
+*"Did a broom just fly past?"
+*"I bet Yoshi tried to face the [[Krill|Dark Dragon]] and lost. Someone should check on him..."
+*"Bubble Bubble..."
+*"Hats on crab...what'll they think of next...Krill?"
+}}
+{{Clear}}
+
+===Skidmore===
+[[File:Days of Mischief - Skidmore.png|Skidmore's Skykid|right|thumbnail]]
+Skidmore can be seen wearing the [[Days of Mischief#Mischief Withered Cape|Mischief Withered Cape]] and [[Days of Mischief#Mischief Witch Hair|Mischief Witch Hair]]. In addition to these Mischief items, Skidmore can also be seen wearing [[Prophet_of_Earth#Mask|Prophet of Earth's Mask]].
+
+{{Collapse
+|label=Dialogue from 2023
+|content=<br>
+*"Where's everyone disappearing to? What's happening out there?"
+*"Pranks. Pranks everywhere...."
+*"I gotta get out of here!"
+*"There's an opening over here, does it go through all the way?"
+}}
+
+{{Collapse
+|label=Dialogue from 2022
+|content=Skidmore was found roaming in the main underground area. This NPC provided in-game currency cosmetics and [[Props]].
+
+*"[[#Yoshi|Yoshi]] mentioned something about needing a snack. See if you can help him out."
+*"Did you hear crying just now?"
+*"The party's officially sanctioned this year. We promise!"
+*"Are you afraid of the dark? I am!"
+*"Did that skykid just shrink before my eyes?!"
+*"Hats on crabs...what'll they think of next...A Krill Coaster?"
+}}
+
+{{Collapse
+|label=Dialogue from 2021
+|content=<br>
+*"[[#Yoshi|Yoshi]] mentioned something about needing a snack. See if you can help him out."
+*"Did you hear crying just now?"
+*"Don't tell management we're throwing our own party!"
+*"Are you afraid of the dark? I am!"
+*"Did that skykid just shrink before my eyes?!"
+}}
+{{Clear}}
+
+===Yoshi===
+[[File:Days of Mischief - Yoshi.png|Yoshi's Skykid|right|thumbnail]]
+Yoshi can be seen wearing the [[Days of Mischief#Spooky Bat Cape|Spooky Bat Cape]] and the [[Days of Mischief#Hungry Pumpkin Hat|Hungry Pumpkin Hat]]. In addition to these Mischief items, Yoshi can also be seen wearing the [[Indifferent_Alchemist#Mask|Indifferent Alchemist Mask]] and [[Chuckling_Scout#Outfit|Chuckling Scout Outfit and Shoes]].
+{{Collapse
+|label=Yoshi's Dialogue from 2022
+|content=Yoshi was found in a hidden area behind the large spider web that opens to a graveyard. This NPC provided players with the [[Days of Mischief#Mischief Catch Up Pack|Mischief Catch Up Pack IAP]], the [[Days of Mischief#Spooky Bat Cape|Spooky Bat Cape]] and the [[Days of Mischief#Hungry Pumpkin Hat|Hungry Pumpkin Hat]].
+
+*"Thank goodness you and Nat found me!"
+*"It's been 84 years..."
+*"Feels like I'm turning into a fossil. Just like this old costume."
+*"Still so hungry...."
+*"This pumpkin tastes terrible. Much better as a hat, don't you think?"
+}}
+
+{{Collapse
+|label=Yoshi's Dialogue from 2021
+|content=<br>
+*"Thank goodness you found me!"
+*"It's been 84 years..."
+*"I feel like I'm turning into a fossil."
+*"So hungry..."
+*"I considered eating this pumpkin hat...but maybe you want it instead?"
+}}
+{{Clear}}
+
+===Nat===
+[[File:Days of Mischief - Nat.png|Nat's Skykid|right|thumbnail]]
+Nat can be seen wearing the [[Days of Mischief#Mischief Web Cape|Mischief Web Cape]] and the [[Days of Mischief#Mischief Witch Hat|Mischief Witch Hat]]. In addition to these Mischief items, Nat can also be seen wearing the [[Marching_Adventurer#Mask|Marching Adventurer Mask]], [[Festival_Spin_Dancer#Outfit|Festival Spin Dancer Outfit]], and [[Days_of_Color#Rainbow_Braid_Accessory|Days of Color Braid Accessory]].
+
+{{Collapse
+|label=Nat's Dialogue from 2022
+|content=This NPC provided the [[Days of Mischief#Mischief Witch Hat|Mischief Witch Hat]] IAP and the [[Days of Mischief#Mischief Web Cape|Michief Web Cape]] IAP.
+
+*"You found me!"
+*"I brought cake, but Yoshi was starving"
+*"I hope you don't mind?"
+*"I admire your patience"
+*"Is this what you're waiting for?"
+*"Too contemporary? I bet Yoshi can help...in exchange for snacks"
+}}
+
+{{Collapse
+|label=Nat's Dialogue from 2021
+|content=<br>
+*"You found me!"
+*"How's my outfit? I "borrowed" it from Reika while she's on vacation."
+*"I made something new this year, but Samantha ran off with it, mumbling something about "aesthetic"."
+*"Waiting for something?"
+*''(Long pause and then Nat laughs)''
+*"Okay. Here you go!"
+}}
+{{Clear}}
+
+===Austin===
+[[File:Austin_mischief_cutout.png|Austin's Skykid|right|thumbnail]]
+Austin does not wear Days of Mischief-specific cosmetics. Instead, Austin can be seen wearing the [[Tumbling_Troublemaker#Hair|Tumbling Troublemaker Hair]], [[Anxious_Angler#Outfit|Anxious Angler Outfit]], [[Ceasing_Commodore#Cape|Ceasing Commodore Cape]], [[Lazy_Days#Seashell_Hairpin|Lazy Days Seashell Hairpin]], and [[Abyss_Guide#Abyss_Ultimate_Face_Accessory|Abyss Guide Ultimate Braid Accessory]].
+
+Austin's first appearance was actually in 2023 as the unnamed NPC at the entrance of the Cackling Crab that would curse nearby players with the [[Days_of_Mischief#Krill Cat's Curse Spell|Krill Cat's Curse Spell]].
+{{Clear}}
+
+===Clone 42===
+Clone 42 was a clone of [[#Samantha|Samantha]], and therefore identical in appearance.
+{{Collapse
+|label=Clone 42's Dialogue from 2022
+|content=<br>
+*"h..hello, is this thing on? clone 42 reporting for duty! Welcome to the pool of scrapped ideas."
+*"These were really terrible, best leave them here"
+*"I suppose you're looking for last year's get-up?"
+*"Not retro enough? Perhaps Nat can help!"
+*''(Points up)''
+}}
+
+===Jenova===
+*Week 1:
+**"Who is in charge of my chat? This better be updated before Live!"
+**"Production said I'd be released by this cell by now!"
+** "I don't want to sit things out again...."
+**"My chat needs to be updated...."
+**"LOCALIZE ME? Not again...."
+**"Not like this...."
+**"Hmm...."
+**"Anyone?"
+*Week 3:
+** "I have no memory of escaping my cell..."
+**"Did I really turn you into a crab?"
+**"crabs.. crabs... crabs...."
+**"The Krill Cat is up to no good again."
+**"Where was I? Oh. Right."
+**"So tired...."
+**"cough... cough..."
+{{Collapse
+|label=Jenova's Dialogue from 2022
+|content=<br>
+*"Please~~I need to go back to work!"
+*"Is the party over? Someone let me out? Anyone?"
+*"Whose krill cat is this?"
+*"Where can I find a shrink spell?"
+*"I can't believe these designers are abusing the system."
+*"Cats should be banned from this point up!"
+}}
+
+==Trivia==
+*During the beta development, the first Cackling Crab edition was accessible through a flickering purple screen in the conference room.
+*The Days of Mischief Staff NPCs are based on TGC employees: Skidmore (Adam Skidmore), Samantha (Samantha Cruse), Yoshi (Yoshi Saito), Nat (Natalie Nichols), Austin (Austin Stead).
+{{RealmsNav}}
+
+[[fr:Le Crabe Caquetant]]
+[[pt-br:O Caranguejo Cacarejante]]
+[[ja:カチカチ蟹穴]]

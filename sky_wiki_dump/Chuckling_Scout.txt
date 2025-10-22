@@ -1,0 +1,165 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Assembly-Spirit-Chuckling-Scout.png|Standard
+Assembly-Spirit-Chuckling-Scout-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Outfit|infobox}}{{Spirit Item||Footwear|infobox}}{{Spirit Item||Mask|infobox}}
+|props     = {{Spirit Item||Prop|infobox}}
+|season    = Assembly
+|realm     = Hidden Forest
+|location  = Boneyard
+|ts        = March 13, 2025 (#135)<br>March 6, 2023 (SV#1)
+}}
+<section begin="Summary" />The '''Chuckling Scout''' is a [[Seasonal Spirit]] from the [[Season of Assembly]] who offers the {{Emote|Chuckling Scout|inline_text}} Expression. The Chuckling Scout is found in the [[Forest Boneyard]], on a platform outside the Boneyard's treehouse. The collectibles [[#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Chuckling Scout|Outfit|inline_text}}, {{Spirit Item|Chuckling Scout|Footwear|inline_text}}, a {{Spirit Item||Mask|inline_text}}, and a {{Spirit Item|Chuckling Scout|Prop|label=Hoop Prop|inline_text}}.<section end="Summary" />
+
+== Memory ==
+<div>{{#ev:youtube|pzaNKgM5m88||inline|Video Guide}}
+
+The Chuckling Scout can be found in the [[Hidden Forest#Boneyard|Boneyard]], positioned around the perimeter of a small treehouse on the player's immediate right if entering from the [[Forest's Brook]]. The [[Daydream Forester]] is also located on the outside of this treehouse; the Chuckling Scout and the [[Daydream Forester]] can be found on opposite sides of the structure. This Spirit has a [[Standard Memory|standard memory]] with 6 memory fragments and a 15-minute overall [[Timed Memory|time limit]].
+
+Be wary while reliving this memory because the Spirit can be damaged by the [[Spirit Health|polluted rain]]. Be quick to collect the fragments and make sure to bring a friend to recharge.
+
+As their memory unfolds, the Chuckling Scout and the [[Daydream Forester]] can be seen walking around the perimeter of the treehouse, on the far side of the small stream. The two appear to be gathering sticks before [[Daydream Forester]] is distracted from the task and wanders off. The Chuckling Scout follows their friend, sneaking along behind their fellow, preoccupied, Spirit. The [[Daydream Forester]] does not seem to notice the Chuckling Scout following along behind them, striking funny poses.
+
+At the end of the memory, the Chuckling Scout silently stands behind the Daydream Forester, waiting for the other Spirit to finally notice them. Not realizing that the Chuckling Scout had been following behind them the entire time, the Forester turns around and jumps in alarm. After their sneaky surprise, the Chuckling Scout lets out a small chuckle, shaking their head in amusement.<br>
+<br>
+[[File:02 HF Seasonal Spirit - Chuckling Scout.png|200px|left|thumb|Relive the Chuckling Scout's memory]]
+</div>
+{{Clear}}
+
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Chuckling-Scout-chuckle-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Chuckling-Scout-chuckle-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Chuckling-Scout-chuckle-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Chuckling-Scout-chuckle-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar lift their left hand to their lower half of the face as if muffling a chuckle, their shoulders shaking as they laugh, finishing their act off with a slight shake of the head, while whistling sound effects, accompanied by chimes, that together sound like chuckling sounds, play.
+*Level 2 makes the same motion as Level 1, with white starburst particles popping up in front of your avatar's face.
+*Level 3 will make your avatar lean back and hold both hands to their stomach as they heartily laugh, before stopping to look around and cover their mouth first with one hand, then the other, as if they've realized they have been caught laughing, while whistling sound effects, accompanied by chimes, that together sound like chuckling sounds, play.
+*Level 4 makes the same motion as Level 3, with many pink starburst particles popping up in front of your avatar's face.
+
+As a Returning Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+== Cosmetics==
+=== Outfit ===
+The [[Outfit]] offered by this Spirit includes a light-beige overall and a short-sleeved top underneath, costing {{Cost|46 C}} from the Traveling Spirit<ref name="Price change #135"></ref>. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|43 SC|season=Assembly}} total).<br>{{Dye_Details
+|area1=the undershirt
+|cost1=2
+|area2=the triangles on the overalls' strap
+|cost2=1
+}}
+
+
+{{#tag:gallery
+|{{Icon Name||Outfit|icon}} {{!}} The Outfit icon
+{{Icon Name||Outfit|real}} {{!}} The Outfit front
+{{Icon Name||Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Shoes ===
+The [[Shoes]] offered by this Spirit are beige boots with brown shoelaces, crossed twice, costing {{Cost|32 C}} from the Traveling Spirit<ref name="Price change #135"></ref>.
+
+The boots were separated from the outfit in the {{v|0.22.0}} Patch, becoming a separate cosmetic.<br>
+<br>
+
+{{#tag:gallery
+|{{Icon Name||Footwear|icon}} {{!}} The Shoes icon
+{{Icon Name||Footwear|real}} {{!}} The Shoes
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Mask ===
+The [[Mask]] offered by this Spirit is a round dark-grey mask with a thick yellow line under the eyes and a stick tied to each side of the Mask, costing {{Cost|36 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's second node ({{Cost|12 SC|season=Assembly}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Prop ===
+The [[Prop]] offered by this Spirit is an aerial floating hoop, costing {{Cost|45 C}} from the Traveling Spirit. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. It appears as a hoop on its owner's back when carried. It was available to all players during the Season from the Friendship Tree's fifth node ({{Cost|20 SC|season=Assembly}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Prop|icon}} {{!}} The Prop icon
+{{Icon Name||Prop|real}} {{!}} The Prop
+{{Icon Name||Prop|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Traveling Spirit ==
+{{Friendship Tree Info
+| traveling
+| ts_dates=*March 13, 2025 (#135) <ref name="Price change #135">The outfit's price decreased from {{Cost|65 C}} to {{Cost|46 C}} due to the footwear becoming a separate cosmetic for {{Cost|32 C}}. Overall, this increased the cost of the friendship tree by {{Cost|13 C}}.</ref>
+|rs_dates=*March 6, 2023 (SV#1)}}
+<section begin='TS Friendship Tree' />{{Friendship Tree
+|spirit = Chuckling Scout
+|image  = Assembly-Spirit-Chuckling-Scout.png
+|season = Assembly
+
+|nodeC6 = Prop 45 C
+|nodeL5 = footwear 32 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeR4 = Outfit 46 C
+|nodeC3 = wing
+|nodeL2 = Mask 36 C
+|nodeC2 = spell5
+|nodeR2 = Heart 3 C
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end='TS Friendship Tree' />
+<!--
+===Hints===
+The hints given before the {{PAGENAME}}'s appearance were: 
+-->
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Assembly}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Chuckling Scout
+|image  = Chuckling Scout Sprite.png
+|type   = season
+|season = Assembly
+
+|nodeC6 = season_heart 3 SC AP
+|nodeL5 = spell5 AP
+|nodeC5 = Prop 20 SC
+|nodeL4 = Outfit AP
+|nodeC4 = spell5 17 SC
+|nodeL3 = emote4 AP
+|nodeC3 = emote3 14 SC
+|nodeL2 = spell5 AP
+|nodeC2 = Mask 12 SC
+|nodeL1 = emote2 AP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Trivia==
+* The Chuckling Scout could be seen sitting by a campfire during the [[Spring Camping]] Event in 2024.
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+season of assembly shoot chuckle expression.png
+season of assembly shoot group chuckle.png
+</gallery>
+
+==Video Gallery==
+{{#ev:youtube|W5gAsEBSNas||inline|Video Guide by Tara}}
+
+==References==
+<references/>
+
+[[de:Kichernder Pfadfinder]]
+[[pt-br:Batedor Risonho]]
+[[fr:Scout ricanant]]
+[[ja:含み笑いのスカウト]]

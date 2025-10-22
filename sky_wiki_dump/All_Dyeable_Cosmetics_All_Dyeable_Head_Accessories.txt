@@ -1,0 +1,92 @@
+<section begin="Table" />
+{| class="article-table sortable"
+! class="unsortable" |Image
+! class="unsortable" |Icon
+![[#Availability Legend|Avail.]]
+!Source
+!Price
+!# of<br>Sections
+!Dye Cost
+|- id="Hairtousle Teen"
+| style="text-align; center;"| {{Spirit Item| Hairtousle Teen | headpiece_real | table }}
+| {{Spirit Item| Hairtousle Teen | headpiece | table | sort=14 }}
+| {{Avail Summary | season | spirit=Hairtousle Teen | season=Belonging }}
+| {{Cost | 50 C }}
+| 1
+| 2 or 4 {{Cost | D}}
+|- id="Enchantment Ultimate Head Accessory"
+| style="text-align: center;"| {{Spirit Item| Enchantment Guide | headpiece_u_real | table | link=Enchantment Guide#Enchantment Ultimate Head Accessory }}
+| {{Spirit Item| Enchantment Guide | headpiece_u | table | link=Enchantment Guide#Enchantment Ultimate Head Accessory | sort=15 }}
+| {{Avail Summary | ultimate | season=Enchantment }}
+| {{Cost | N/A }}
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Bearhug Hermit"
+| style="text-align; center;"| {{Spirit Item| Bearhug Hermit | headpiece_real | table }}
+| {{Spirit Item| Bearhug Hermit | headpiece | table | sort=17 }}
+| {{Avail Summary | season | spirit=Bearhug Hermit | season=Dreams }}
+| {{Cost | 42 C }}
+| 1
+| 2 or 4 {{Cost | D}}
+|- id="Tumbling Troublemaker"
+| style="text-align; center;"| {{Spirit Item| Tumbling Troublemaker | headpiece_real | table }}
+| {{Spirit Item| Tumbling Troublemaker | headpiece | table | sort=21 }}
+| {{Avail Summary | season | spirit=Tumbling Troublemaker | season=Passage }}
+| {{Cost | 55 C }}
+| 2
+| 1 or 2 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="Radiance Provoking Performer"
+| style="text-align: center;"| {{Spirit Item| Radiance Provoking Performer | headpiece_real | table }}
+| {{Spirit Item | Radiance Provoking Performer | headpiece | table | sort=130 }}
+| {{Avail Summary | season | spirit=Radiance Provoking Performer | season=Radiance }}
+| {{Cost | ? }}
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Royal Hairtousle Teen"
+| style="text-align: center;"| {{Spirit Item| Royal Hairtousle Teen | headpiece_real | table }}
+| {{Spirit Item | Royal Hairtousle Teen | headpiece | table | sort=130 }}
+| {{Avail Summary | season | spirit=Royal Hairtousle Teen | season=Blue Bird }}
+| {{Cost | ? }}
+| 1
+| 2 or 4 {{Cost | D}}
+|- id="Dragon Bangles"
+| style="text-align; center;"| {{Days Item| Dragon Bangles | real | table }}
+| {{Days Item| Dragon Bangles | icon | table | sort=26 }}
+| {{Avail Summary | days | days=Fortune }}
+| {{Cost| $1.99 }}
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Days of Feast Horns"
+| style="text-align; center;"| {{Days Item| Days of Feast Horns | real | table }}
+| {{Days Item| Days of Feast Horns | icon | table }}
+| {{Avail Summary | days | days=Feast }}
+| {{Cost| $14.99 }}
+| 1
+| 3 or 6 {{Cost | D}}
+|- id="Festival Earrings"
+| style="text-align: center;"| {{Days Item| Festival Earrings | real | table }}
+| {{Days Item| Festival Earrings | icon | table }}
+| {{Avail Summary | days | days=fireworks }}
+| {{Cost| ? }}
+| 1
+| 1 or 2 {{Cost | D}}
+|}
+<section end="Table" />
+{{Avail Legend
+| regular 
+| permanent 
+| s+ 
+| u+ 
+| t* 
+| r*
+| d*
+| l*
+| days 
+| season 
+| ultimate 
+| limited 
+| conditional 
+}}
+
+[[fr:Tous les Cosmétiques Teintables/Tous les Accessoires de Tête Teintables]]
+[[ja:染色価格表/ヘッドアクセサリー染料価格表]]

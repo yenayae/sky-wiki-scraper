@@ -1,0 +1,68 @@
+__NOINDEX__
+{{Help|beta}}
+
+Hiding this for now because Season of Nesting is over and we don't know if they will appear in Live -  Morybel
+----
+
+=Nesting Workshop Props=
+==Stone Kitchen==
+===Stone Kitchen Oven===
+The [[Prop]] offered by this Shop is a .... . It is offered to all players for {{Cost|0 C}}{{Cost|0 H}}{{Cost|0 AC}}
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Kitchen|prop_o|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Kitchen|prop_o|real}} {{!}} The Prop
+{{Icon Name|Nesting Stone Kitchen|prop_o|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+===Stone Kitchen Sink===
+The [[Prop]] offered by this Shop is a .... . It is offered to all players for {{Cost|0 C}}{{Cost|0 H}}{{Cost|0 AC}}
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Kitchen|prop_s|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Kitchen|prop_s|real}} {{!}} The Prop
+{{Icon Name|Nesting Stone Kitchen|prop_s|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Stone Rooms==
+===Stone Dresser===
+The [[Prop]] offered by this Shop is a .... . It is offered to all players for {{Cost|0 C}}{{Cost|0 H}}{{Cost|0 AC}}
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Room|prop_d|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Room|prop_d|real}} {{!}} The Prop
+{{Icon Name|Nesting Stone Room|prop_d|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Stone Sink===
+The [[Prop]] offered by this Shop is a .... . It is offered to all players for {{Cost|0 C}}{{Cost|0 H}}{{Cost|0 AC}}
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Room|prop_k|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Room|prop_k|real}} {{!}} The Prop
+{{Icon Name|Nesting Stone Room|prop_k|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+==Stone Furnitures==
+===Stone Small Cube===
+The [[Prop]] offered by this Shop is a .... . It is offered to all players for {{Cost|0 C}}{{Cost|0 H}}{{Cost|0 AC}}
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Furniture|prop_b|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Furniture|prop_b|real}} {{!}} The Prop
+{{Icon Name|Nesting Stone Furniture|prop_b|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Stone Candle Holder===
+The [[Prop]] offered by this Shop is a .... . It is offered to all players for {{Cost|0 C}}{{Cost|0 H}}{{Cost|0 AC}}
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Furniture|prop_h|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Furniture|prop_h|real}} {{!}} The Prop
+{{Icon Name|Nesting Stone Furniture|prop_h|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+[[Category:Sky Beta]]

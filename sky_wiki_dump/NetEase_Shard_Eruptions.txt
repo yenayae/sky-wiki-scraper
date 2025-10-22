@@ -1,0 +1,41 @@
+Similar to ''Sky'', ''Light-yu'' added Shard Eruptions from the Season of Shattering. However, the Shard Eruption Schedule after the Season of Shattering ended is different in ''Light-yu''.
+
+The Shard Schedule in ''Light-yu'' can be viewed in the Agent, the in-game page that shows information about events.
+
+== Schedule ==
+[[File:Netease Shard Schedule No Shard.jpg|thumb|310x310px|The Shard Schedule in ''Light-yu'' showing No Shards]]
+[[File:Netease Shard Schedule Shard.jpg|thumb|310x310px|The Shard Schedule in Light-yu showing a Shard]]
+The Shard Eruption Schedule in ''Light-yu'' is different from that in ''Sky'', as the schedule is determined by which half of the month it is.
+
+For the first half of the month (1st - 15th): 
+* No Shards on Monday, Wednesday, Thursday, and Friday
+* Black Shards on Tuesday
+* Red Shards on Saturday and Sunday
+
+For the second half of the month (16th - 31st): 
+* No Shards on Monday, Tuesday, Thursday, and Saturday
+* Black Shards on Wednesday
+* Red Shards on Friday and Sunday
+
+In ''Sky'', while there is always a Shard every week on Friday, it can either be a Black or Red Shard. In ''Light-yu'', there's always a Shard every week on Sunday and it predetermined to always be a Red Shard with {{Cost|3.5 AC}}.
+
+Shards in ''Light-yu'' occur 3 times a day just like in ''Sky'', but their duration is only 1 hour each, as opposed to ''Sky'''s 4 hours.
+
+The Shard Schedule in ''Light-yu'' resets on the 1st of every month in Wasteland, as opposed to Prairie for ''Sky'', but the specific location in Wasteland is different depending on the day of the week the 1st is. But sometimes the 1st can fall on days when there is typically No Shard, so it moves to the next available Shard Day in the next Realm:
+* Monday - No Shard in Wasteland, next Shard would be Tuesday in Starlight Desert
+* Tuesday - Broken Temple
+* Wednesday - No Shard in Wasteland, next Shard would be Saturday in Forest End
+* Thursday - No Shard in Wasteland, next Shard would be Saturday in Prairie Caves
+* Friday - No Shard in Wasteland, next Shard would be Saturday in Jellyfish Cove
+* Saturday - Graveyard
+* Sunday - Forgotten Ark
+
+== Shard Memories ==
+{{#ev:youtube|b_Z6cA9fVJI|200px|right|Shard Memories in Light-yu}}
+The Shard Memories in ''Light-yu'' can also be visited after clearing a Red Shard, but any Shard Memory can be visited from the Red Shard by interacting with the Void of Shattering while inside the Memory. Therefore, it is easier for players to get Winged Light from Shard Memories in ''Light-yu''.
+
+On October 8 2024 during a Shattering Group Visit, speaking to the Shattering Guide at Home or the Event Shop in Aviary Village would bring you to the Shattering Seasonal Area, where the Ancient Light and Ancient Darkness cosmetics could be obtained. You could also visit the Shard Memories from the Shattering Seasonal Area too by speaking to the Void of Shattering while in the area.
+
+== Shard Eruption Restrictions ==
+Players who are under the age of 18 have restrictions on when and how they can play ''Light-yu'', and this can affect them from taking part in certain Shard Eruptions. Minors can only play for one hour from Friday - Sunday, this means that minors cannot take part in Black Shard Eruptions, as they fall on Tuesdays and Wednesdays.
+[[Category:NetEase]]

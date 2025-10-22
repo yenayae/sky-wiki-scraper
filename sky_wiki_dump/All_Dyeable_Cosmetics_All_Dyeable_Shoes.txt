@@ -1,0 +1,44 @@
+==Dyeable Shoes==
+<section begin="Table" />
+{| class="article-table sortable"
+! class="unsortable" | Image
+! Icon
+! [[#Availability Legend|Avail.]]
+! Source
+! Price
+! # of<br>Sections
+! Dye Cost
+|-
+|- id="Radiance Provoking Performer"
+| style="text-align: center;"| {{Spirit Item| Radiance Provoking Performer | shoes_real | table }}
+| {{Spirit Item| Radiance Provoking Performer | shoes | table | sort=10 }} 
+| {{Avail Summary | season | spirit=Radiance Provoking Performer | season=Radiance }}
+| {{Cost | ? }}
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Radiance Leaping Dancer"
+| style="text-align: center;"| {{Spirit Item| Radiance Leaping Dancer | shoes_real | table }}
+| {{Spirit Item| Radiance Leaping Dancer | shoes | table | sort=11 }} 
+| {{Avail Summary | season | spirit=Radiance Leaping Dancer | season=Radiance }}
+| {{Cost | ? }}
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Woodcutting Pleaful Parent"
+| style="text-align: center;"| {{Spirit Item| Woodcutting Pleaful Parent | shoes_real | table }}
+| {{Spirit Item| Woodcutting Pleaful Parent | shoes | table | sort=12 }} 
+| {{Avail Summary | season | spirit=Woodcutting Pleaful Parent | season=Blue Bird }}
+| {{Cost | ? }}
+| 1
+| 2 or 4 {{Cost | D}}
+|- id="Treasure Cavalier Boots"
+| style="text-align: center;"| {{Days Item| Treasure Cavalier Boots | real | table }}
+| {{Days Item| Treasure Cavalier Boots | icon | table | sort=560 }}
+| {{Avail Summary | days | days=Treasure }}
+| {{Cost | ? }}
+| 1
+| 1 or 2 {{Cost | D}}
+|}
+<section end="Table" />
+
+[[fr:Tous les Cosmétiques Teintables/Toutes les Chaussures Teintables]]
+[[ja:染色価格表/シューズ染料価格表]]

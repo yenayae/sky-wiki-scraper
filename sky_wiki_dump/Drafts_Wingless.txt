@@ -1,0 +1,180 @@
+{{WIP}}
+*when page done: create "Wingless"/"Capeless" redirect and possibly others
+----
+{{Spoilers}}
+{{Creature Infobox
+|title = Wingless Skykid
+|type  = light
+|image = Capeless-cutout.png}}
+
+<section begin="Summary" />The terms '''Wingless''' or '''Capeless''' refer to a player who has not collected any [[Winged Light]], further referred to as WL, or is temporarily without wings and therefore doesn't have a visible cape and can't fly on their own.
+
+While temporarily capeless players do not have their own term, permanently Wingless players are also known as Ants (new to Wingless) and Spiders (experienced Wingless) within the community of Wingless players. Note that Wingless gameplay is '''possible without hacking'''.<section end="Summary" />
+
+<!--{{mbox
+|header     = Disclaimer
+|text       = This method of gameplay is acknowledged and allowed by the developers, but is not officially supported. Capabilities and accessibility is subject to change until further notice from the developers.
+|type       = minor
+|id         = outofuniverse
+}}
+
+Test, as Mbox can make pages cluttered or may not work on mobile
+-->This method of gameplay is acknowledged and allowed by the developers, but is not officially supported. Capabilities and accessibility may change until further notice from thatgamecompany. It is generally recommended to confirm if the methods explained here are up to date before trying them yourself.
+
+==Appearance==
+Wingless Sky Children look just like regular [[Sky Children]] but without a cape. Capes they own can be equipped at an [[Outfit Shrine]] and are visible to friends in the [[Friendship Constellation]] but they do not show up when meeting them in person. If they have the [[Aviary_Village#Cape_Workshop|Cape Workshop]] in [[Aviary Village]] unlocked, they can try on capes they do not own.
+
+When using a Cape [[Spells|Spell]], an unlit Wingless player still looks capeless. Upon lighting them, the spell cape appears with zero wing level icons on the back. Cape spells grant no additional properties such as obtaining a wing, making flight possible, or extended glide time. They are purely cosmetic.
+
+Any special abilities like teleportation to an event area, access to the Nintendo area, or simply colorful flying effects do not work with owned and equipped capes, but with spell capes they work as intended.
+
+==Abilities==
+{{mbox
+|header     = Disclaimer
+|text       = Some of the following abilities are an unintended side effect and it should be noted that this is not the gameplay experience intended by the developers.
+|type       = minor
+|id         = outofuniverse
+}}
+
+===Flying and Gliding===
+Due to the lack of wing power, Wingless players cannot fly on their own. They can only walk, jump, and glide. Jumping and gliding is different from doing so on a winged account as Wingless tend to have difficulty jumping as high as winged sky kids and cannot glide as far. However this can sometimes work to their advantage as falling faster can create more speed in certain cases.
+
+To reach high places they can either use the updraft of clouds and butterflies, parcour over existing landscape, or climb on props by placing down the back prop they have equipped or several props inside a [[Shared Space]] draft, or using anti-gravity spells as an extra boost. Some places can only be reached with the help of a winged player e.g. by holding hands and being led by them or by using the follow feature.
+
+===Losing Light===
+Wingless are different from Winged in the sense that they have no immediate need to avoid things that would cause a regular sky kid to lose Winged Light. Since Wingless have no WL to begin with, they are effectively immortal in exchange for the main mechanic of flight. Drowning in clean water is completely safe for Wingless players as that will do absolutely nothing to them while winged players need to keep an eye on their oxygen level. Examples of other things that do not put Wingless players in immediate danger are:
+* Polluted Rain
+* Polluted Water
+* Dark [[Creatures]]
+* Getting hit by rock rain
+* Red Dark Stones
+
+For more information, see the [[Flora, Minerals and Elements of Sky]] and [[Creatures]] pages. It is important to note that this immunity does not apply to certain seasonal additions like the Prophecy Trials or the quests of the Season of Passage, as these work exactly the same for Wingless and Winged.
+
+When a Wingless player is hit by polluted rain, swims in polluted water, or gets too close to red dark stones, they will slowly lose all their light and become extinguished. It looks as if they are dying and turning dark, taking on a similar appearance as unlit strangers. In this drained state, they can still walk around and do most things as usual, but have no access to the prop they are wearing on their back as that gets disabled when being drained, and are not able to use their flame until they are lit by a light source. Being attacked by Dark Creatures such as [[Dark Dragons]] or [[Dark Crabs]] will additionally make blue crystals appear on their legs reducing their agility, like being forced to crawl or moving slower. As with any other player, this effect will wear off after a few minutes, only the unlit state remains.
+
+<gallery spacing="small" captionalign="center">
+File:Standing vs kneeling.png|Drained and Charged/Lit Skykid
+File:Spider crystals.png|Dark Crystals on Wingless
+</gallery>
+
+Despite not being in danger while being drained, it can be inconvenient in case the Wingless player needs to light something up or needs access to their back prop. In that case, a light source is needed to replenish the light, for example:
+*Nearby lit candles
+*Wax from burnt darkness
+*Clouds
+*Light creatures
+*Shared Memories
+*Instant Recharge Potions
+*Calling out to other players for help with red or white candle
+
+'''Please be considerate to other players.''' If you as a Wingless player appear to be dying, nearby players will see a red circular icon with breaking Winged Light on their screen indicating that there's a player in danger in their server. They may wish to help without realizing that you might not need their help. In some cases, they may even risk their own hard-earned WL to help you. Please take this into consideration when playing, so that other players do not unnecessarily lose progress. If a nearby player has lost WL, it can be helpful to pick it up for them. Saving the fallen WL of another player does not put Wingless at risk of gaining a wing.
+
+==Reasons to be Wingless==
+There are as many reasons to try playing Wingless as there are Wingless players. Some common reasons include:
+* A more challenging gameplay
+* Having no visible cape
+* Being immortal to a winged sky kid's fears
+
+==Becoming Wingless==
+There are two separate states of being capeless, namely ''temporary'' and ''permanent''. Temporarily Wingless means an originally are a winged player who has no wings for a limited amount of time while permanently Wingless players never owned wings in the first place and are Wingless in all areas of ''Sky''.
+
+===Temporary===
+Winged players can experience temporary effects of being Wingless by using a glitch or inside specific areas of the game. All players appear Wingless in following places, regardless of their current wing level:
+* Inside all 4 Prophecy [[Season of Prophecy#The Trials|Trials]]
+* First part of the [[AURORA Concert]]
+* Inside Quests #2 to #5 of the [[Season of Passage]]
+* Inside all 6 [[Moominvalley#Storybook Quests|Storybook Quests]] of the Season of Moomin
+* Inside Quest #5 of the [[Season of the Blue Bird]]
+* In the area of The Last City in [[Season of The Two Embers - Part 1]]<!-- 
+* certain quests introduced with the Season of ... -->
+* After dying in [[Eye of Eden]] before proceeding to Ascension
+* In Orbit after receiving Ascended Candles and before picking up bought wing buffs
+
+'''There is currently no way to turn existing winged accounts into permanent Wingless accounts''' outside of these areas, even when you try to lose all wings you currently own by exposing yourself to danger. Upon losing all wings outside of the [[Eye_of_Eden#Section_3:_Statues_and_Winged_Light|point of no return (PNR)]] in Eden, you will be put into the place commonly known as Pity Room or Dark Room<!-- [[Pity Room]] when that page is ready --> where you are forced to pick up one Winged Light. Escaping that room without picking up the Winged Light as intended will make you temporarily Wingless but every time you close and reopen the game or enter [[Home]] or [[Aviary Village]], you will be put back inside the Pity Room to pick up the WL again.
+
+Similiar to having places in the game, where any player is Wingless, there are also places where all players appear winged, regardless of their actual wing level:
+* In the prologue of the game, the player has 14 wedges. After that, the player then starts as a wingless moth and can decide to collect wings to be able to fly or not to stay Wingless
+* In constellation, every friend has a cape with 1 wedge
+* In orbit sections 1 to 3, every player has 7 wedges
+* Inside [[Tournament of Triumph]] minigames, all players have a cape with either 1 wedge (Crab Race, Wingsuiting), 3 wedges (Void Gather, Rain Race, Speedskate ), or 6 wedges (Cloud Collect).
+* In the last Season of the Blue Bird quest, players will temporarily wear the season ult cape.
+* When being in another [[Festival Tech]] server group
+
+===Permanent===
+In order to become permanently Wingless, a player must start from the beginning with a new ''Sky' account and must never collect any wings. This includes manually collecting any [[Children of Light]] as well as Spirit [[Wing Buffs]].
+
+The tutorial part of ''Sky' tries to teach new players how to collect Winged Light. When a player goes close enough to the Child of Light behind the Spirit Gate in Isle of Dawn, their character cannot move until the WL is collected. This can be fixed by restarting the game and using the Return Shrine to resume the game at the last savepoint. To avoid the Isle ramp WL, either of the following methods can be used:
+* Walk past the ramp towards the cloud wall on the right side. Jump into the clouds to fly up the cliff.
+* At the edge where the cliff and the cloud wall meet, walk oob and swim a bit to the left until the clouds lift you up.
+* Walk up the ramp but do not go near the WL. There is a slim ledge on the left side, jump off that ledge and glide forward towards the cliff.
+* Ask a winged friend to fly you up.
+
+==Staying Wingless==
+Upon collecting [[Winged Light]] or a [[Wing Buff]], a player can no longer be permanently Wingless. Remembering the locations of some specific Children of Light is a good measure to stay capeless, and if a WL ever gets accidentally collected, the game needs be to immediately exited to prevent the WL from registering as collected.
+
+===Auto-collect Winged Light===
+[[File:AWL locations.jpg|alt=A visual summary of all Auto-collect Winged Light locations.|thumb|300px|Visual summary of all AWL locations, credit to augarrah_kilgust on Discord.]]
+
+Auto-collection Winged Light (AWL) or Auto-Wings are [[Children of Light]] that a player automatically picks up when getting close enough. In order to avoid accidentally collecting AWL, it is important for Wingless to always be aware when following or holding hands with another player in case they are approaching AWL that are in certain areas of the [[Valley of Triumph]] or in [[The Wind Paths]].
+
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+SOF-Winglight-1.png|Forest WL 20 
+SOF-Winglight-2.png|Forest WL 20 
+StarValley1.jpg|Valley WL 1 
+StarValley01.jpg|Valley WL 1 
+</gallery>
+
+*'''Forest WL 20''': This Child of Light is located in a tunnel just to the left of the Seasonal Guide in [[The Wind Paths]]. Strong winds prevent players from getting near the exit, however keep a safe distance from the entrance tunnel on the farthest right, located under the main island, since you will be pulled into the tunnel as you approach it.
+*'''Valley WL 1''': At the beginning of the slope leading to the [[Valley of Triumph#Ice_Rink_Slope|Ice Rink]] in Valley of Triumph, this Child of Light is located in the roofed area on the left. You can collect the wax at the left side and still avoid the WL, but staying away is safer.
+
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+StarValley9.jpeg|Valley WL 4 
+StarValley09.jpg|Valley WL 4 
+StarValley5.jpeg|Valley WL 6 
+StarValley05.jpeg|Valley WL 6 
+</gallery>
+
+*'''Valley WL 4''': Some time into the [[Sliding Race]], you slide between two buildings with bridges high above you. The Child of Light is standing in the center on a snowy ramp, so try to keep to the right wall. Slowing down before this part may be helpful to prevent bouncing off too hard from a wall or ramp.
+*'''Valley WL 6''': This Child of Light in [[Citadel]] is standing in one of the lower alcoves in the wall facing away from the golden rings but facing towards the Flying Race. It is high enough for Wingless not to worry about normally, but if you have relived the memory of the [[Handstanding Thrillseeker]], or somehow find yourself near the [[Message Shrines#Valley_of_Triumph|Message Shrine (high above the Citadel)]] or the highest towers, be aware of it when jumping down.
+
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+StarValley6.jpeg|Valley WL 7 
+StarValley06.jpg|Valley WL 7 
+StarValley07.jpeg|Valley WL 8 
+StarValley7.jpeg|Valley WL 8 
+</gallery>
+
+* '''Valley WL 7''': In the [[Flying Race]], after flying through or past a cloud tunnel, you fly between buildings connected by bridges. By the second one do not fly through the right hand gallery of the building.
+* '''Valley WL 8''': Later on in the race you come to an area with lots of floating rocks. Keep to the far left or downwards, as the Child of Light is standing on top of a golden spire on a floating temple at the right. The rocks can catapult your avatar in unintended directions, which is why caution is especially recommended.
+
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+StarValley8.jpeg|Valley WL 9 
+StarValley08.jpg|Valley WL 9 
+Chat-Orbit.jpg|Placeholder; add better image of "right before the credits"
+</gallery>
+
+* '''Valley WL 9''': Just before you enter the entrance area to the [[Coliseum]] after both Races, the Child of Light is standing in the middle of the path. Keep to either side of the slope to avoid it.<!--
+
+[[File:Chat-Orbit.jpg|thumb|left|Placeholder; add better image of "right before the credits"]]
+-->
+* '''Orbit''': This additional Winged Light in Orbit technically counts as an AWL, but it is invisible to players and is automatically acquired when going through the gateway to rebirth. Once the credits show up and the skip button appears, it is already too late and the WL is counted.
+
+===Spirit Wing Buffs===
+[[File:Spirit Tree Wing Buff.jpg|alt=A Spirit's cosmetic tree with a circle around the wing buff. The wing buff itself looks like a lock with wings.|thumb|300px|Spirit wing buff, credit to augarrah_kilgust on Discord]]
+
+One drawback of playing as a permanent Wingless are the [[Wing Buffs]] tied to spirit ascension. A Wingless Player must avoid purchasing Wing Buffs from both [[Regular Spirits]] and [[Traveling Spirits]]. Although they are not given to the player immediately but need to be picked up in orbit, after buying a Wing Buff Wingless are sent to the Pity Room the next time they enter Home or Aviary Village or restart the game. This means that Wingless players '''cannot buy cosmetics above wing buffs'''. Restarting the game does not bring the player out of the Pity Room, and glitching out of the room once does not help as the player is sent back there every time after restarting the game.
+
+However, all items from the ''currently active'' [[Seasonal Events]] and [[Special Events]] are acquirable without any problems since these spirits do not have a wing buff. Also, unlocking higher friendship levels with other players (spending Ascended Candles to unlock wing buff-like friendship nodes) does not grant Wing Buffs and can be done without putting a Wingless account into danger.
+{{Clear}}
+
+==Trivia==
+*possible trivia points that won't be covered in the main sections
+*In the [[Days of Color]] cape puzzle, Wingless players can help at all 8 colored stations/diamonds, similar to winged players wearing a rainbow cape.
+*Jenova Chen acknowledged and approved the existence of Wingless during a meet a greet event with netease ''SKY'' players in China where he called Wingless players his disabled children and also announced some changes to ''Sky'' to make the game better playable for them in more or less distant future.
+*Wingless can go through Eden but will immediately die upon entering PNR due to having no wings to give away. They're then at risk of loosing their wingless status because the credit wl can be difficult to avoid and needs certain techniques or the use of glitches (for more info, refer to [[Drafts/Wingless/Gameplay Tips]])
+{{Clear}}
+
+==References==
+<references />
+
+<!-- any other categories next to the automatic ones? -->

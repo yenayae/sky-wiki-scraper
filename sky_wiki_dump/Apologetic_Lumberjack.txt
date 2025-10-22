@@ -1,0 +1,99 @@
+{{Spirit Infobox
+|type      = Regular
+|emote_type= Emote
+|image     = <gallery>
+Forest-Spirit-Apologetic-Lumberjack.png|Standard
+Forest-Spirit-Apologetic-Lumberjack-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Facepiece|infobox}}{{Spirit Item||Hair|infobox}}
+|realm     = Hidden Forest
+|location  = Tree Tunnels
+}}
+<section begin="Summary" />The '''Apologetic Lumberjack''' is a [[Regular Spirit]] in [[Hidden Forest]] who offers the {{Emote|Apologetic Lumberjack|inline_text}} Expression. The Apologetic Lumberjack is found in [[Boneyard]], next to a large tree stump to the left after entering the area from [[Forest's Brook]]. (Early [[Sky Beta|Beta]] testers know this area as [[Tree Tunnels|"Tree Tunnels."]]) The collectibles [[Apologetic Lumberjack#Friendship Tree|offered]] by this Spirit are a {{Spirit Item|Apologetic Lumberjack|Facepiece|inline_text}} and a {{Spirit Item|Apologetic Lumberjack|Hair|inline_text}}.<section end="Summary" /><br>
+<Br>
+[[File:Apologetic-Lumberjack-Guide-777-Ed.png|320x320px|thumb|none|Image Guide by 777.Ed]]
+
+==Memory==
+<div>{{#ev:youtube|https://www.youtube.com/watch?v=5DNs9K-zeeI|||Video Guide by Tara||start=936&end=1024&loop=1}}
+<br>
+The Apologetic Lumberjack can be found in [[Boneyard]] next to a large tree stump to the left after entering the area from [[Forest's Brook]]. (Early [[Sky Beta|Beta]] testers know this area as [[Tree Tunnels|"Tree Tunnels."]]) This Spirit is a [[Standard Memory|standard memory]] quest with 5 memory fragments and an unlimited overall [[Timed Memory|time limit]]. All of the memory fragments are [[Spirit Health|sheltered]] from the [[Flora,_Minerals_and_Elements_of_Sky#Rain|rain]].
+
+As their memory unfolds, the Apologetic Lumberjack is seen using an axe to chop down a large tree. Once they've made enough swings to the felling notch, the humongous tree comes crashing down - and nearly crushes another nearby Spirit.
+
+At the end of the memory, the Apologetic Lumberjack profusely apologizes to the Spirit they nearly squashed, dropping to their hands and knees in a deep bow to demonstrate their sincerity.<br>
+<br>
+[[File:02 HF Spirit - Apologetic Lumberjack.png|200px|thumb|none|Relive the Apologetic Lumberjack's memory]]
+</div>
+{{Clear}}
+
+==Expression==
+This Spirit offers the {{Emote|Apologetic Lumberjack|inline_text}} (or '''Deep Bow''') [[Expression]], which has 4 Levels.<br>
+<br>
+[[File:{{Icon Name||Emote}}|170px|left]]
+<gallery heights="125" captionalign="center">
+Apologetic-Lumberjack-apologize-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Apologetic-Lumberjack-apologize-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Apologetic-Lumberjack-apologize-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Apologetic-Lumberjack-apologize-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+* Level 1 will make your avatar kneel down to sit, place both hands on their knees, and bend forward with their forehead touching the ground. This action is continued for as long as you don't move your character.
+* Level 2 makes the same motion as Level 1 with a golden glow around your avatar's head.
+* Level 3 will make your avatar kneel down, place both hands on the ground in front of them with their elbows facing out, and then bend forward with their forehead touching the ground. This action is continued for as long as you don't move your character.
+* Level 4 makes the same motion as Level 3 with a pulsing ring of light surrounding your avatar's bowed form.
+
+The prices of the three Expression upgrades are {{Cost|3 C}}, {{Cost|3 C}}, and {{Cost|3 C}}. Levels 3 and 4 are only available after unlocking the Spirit's [[Wing Buff]].
+
+==Cosmetics==
+===<span id="Mask">Face Accessory</span>===
+The [[Face Accessory]]<ref name="Mask recategorized">This item was recategorized from a [[Mask]] to a [[Face Accessory]] as a result of the [[Outfit Shrine|Closet]] category expansion in Patch {{v|0.22.0}}.</ref> offered by this Spirit is a silver head guard in the shape of a diamond (closely resembling the [[Elder of the Forest]]'s Face Accessory), costing {{Cost|5 H}}. It is permanently available to all players after unlocking the Spirit's [[Wing Buff]] and the Friendship Tree's fifth node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||facepiece}} {{!}} The Face Accessory icon
+{{Icon Name||facepiece|real}} {{!}} The Face Accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Hair===
+The [[Hair]] offered by this Spirit is a pair of small, high pigtails tied with silver and blue bands and short bangs, costing {{Heart|3}}. It is permanently available to all players after unlocking the Friendship Tree's second node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair front
+{{Icon Name||Hair|side}} {{!}} The Hair side
+{{Icon Name||Hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Friendship Tree==
+{{Friendship Tree Info | regular}}
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Apologetic Lumberjack
+|image  = Forest-Spirit-Apologetic-Lumberjack.png
+
+|nodeC6 = facepiece 5 H
+|nodeC5 = spell5
+|nodeL4 = emote4 3 C
+|nodeC4 = emote3 3 C
+|nodeC3 = wing 1 AC
+|nodeL2 = hair 3 H
+|nodeC2 = spell1
+|nodeR2 = heart
+|nodeL1 = emote2 3 C
+|nodeC1 = emote
+}}<section end="Friendship Tree" />
+
+==Unique Daily Quests==
+{{#section-h:Quests/Daily Quest Spirits|{{PAGENAME}}}}
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Emote Loc-Deep bow.png
+</gallery>
+
+==References==
+<references />
+
+[[de:Sich entschuldigender Baumfäller]]
+[[pt-br:Lenhador Apologético]]
+[[fr:Bûcheron désolé]]

@@ -1,0 +1,75 @@
+''Sky: Children of the Light'' has a rich '''music''' component. In addition to an [[Original Sound Track]] that provides a variety of realm-dependent background music, players are able to perform music themselves.  Players can perform solo or in groups.  Even those who don't want to (or haven't been able to) get an instrument can enjoy listening to other skykids' performances.
+
+== Overview ==
+Dozens of different musical [[instruments]] are available to play. A simplified interface allows people to start playing without any music training. With [[Music Sheets]] and the [[Harmony Hall#Music Challenge|Music Challenge]], playing instruments can act as a rhythm mini-game. However, players can also choose to play whatever they want freeform.
+
+Separate articles focus on the different elements of playing music.
+
+=== Instruments ===
+* '''[[Instruments]]''': A list of all the [[Collectibles|collectible]] instruments in the game, where to obtain them, the pitch range of each instrument, and general information about how to play them.
+
+=== Music Sheets ===
+* '''[[Music Sheets]]''': A list of all the collectible music sheets, where to obtain them, and information on the cues used by music sheets to show the song's notes.
+
+=== Music Key ===
+* '''[[Music Key]]''': How your instrument's key is determined, and where to go in Sky to change the key.
+
+==External links==
+These are short summaries of some fan-created tools to aid with playing music in Sky.
+
+(Please keep it to short summaries; the wiki is not an advertising page.) The app/website must also follow thatgamecompany's [https://thatgamecompany.helpshift.com/a/sky-children-of-the-light/?s=legal&f=can-i-create-a-supplemental-app-or-service-for-sky&l=en Terms of Service for supplemental apps and services], which includes not being sold or having sold items or services.
+
+<section begin="Music-Tools" />
+===Sky Music Nightly===
+[[File:SkyMusicNightly.png|260px|thumb|Sky Music Nightly by Specy]]
+[https://sky-music.specy.app sky-music.specy.app] — Created by Specy of [https://discord.gg/NFFRTed Sky Music Discord]
+
+'''Sky Music Nightly''' is a fan-made website that allows users to compose, record, play, and practice songs. It's the new version of [[#Sky Music|Sky Music]], and includes useful features, such as all the original Sky [[Instruments]], a composer with 52 layers, tempo changers, automatic MIDI conversion (auto compose from MIDI), and tools to make creating a song easier. The site is compatible with Sky Music and [[#Sky Studio|Sky Studio]], and it can record audio and export it as MIDI. It also has a fully customizable theme and can be connected to a MIDI device.
+{{Clear}}
+
+===Sky Music===
+[[File:Updated_skyMusic_UI.jpg|260px|thumb|Sky Music by Specy]]
+{{Icon|Sky-music-app-icon.png|link=https://sky-music.herokuapp.com/}} [https://sky-music.herokuapp.com/ sky-music.herokuapp.com] — Created by Specy of [https://discord.gg/NFFRTed Sky Music Discord]
+
+'''Sky Music''' is a fan-made website that allows the user to play, record, practice, compose and share songs. It's an old version of [[#Sky Music Nightly|Sky Music Nightly]], and it includes several options, such as a variety of [[Instruments]], [[Music Key|key]] and cave mode (reverb). The site also allows users to create an account with which they can save songs for use in multiple devices and share them by link, use a [https://sky-music.herokuapp.com/songComposer.html songwriter], and a MIDI conversion tool to compose songs automatically. Sky Music is available in 11 languages.
+{{Clear}}
+
+===Sky Instrument Practice===
+[[File:B0A03657-4B77-4A21-9920-098B38BCFE3A.jpeg|260px|thumb|Sky Instrument Practice by McbeEringi]]
+{{Icon|Sky-instrument-practice-site-icon.png|link=https://mcbeeringi.github.io/sky/instr.html}} [https://mcbeeringi.github.io/sky/instr.html mcbeeringi.github.io] — Created by [https://mobile.twitter.com/McbeEringi McbeEringi]
+
+'''Sky Instrument Practice''' is a fan-made website that allows the user to practice with multiple different [[Instruments]]. The Instrument catalog includes: [[Harp]], [[Drum]], [[Contrabass]], [[Piano]], [[Flute]], [[Panflute]], [[Guitar]], [[Ukulele]], [[Winter Piano]], [[Xylophone]], [[Small Bell]], and [[Large Bell]]. The website includes options to change the pitch and reverb of the Instruments. It also includes a tool that provides information about each day's [[Currency#Candles|Candles]].
+{{Clear}}
+
+===Sky Studio===
+[[File:Compose.png|260px|thumb|Sky Studio by Maple]]
+{{Icon|Sky-studio-app-icon.png}} Sky Studio ({{Icon|Google Play Store icon.png|link=https://play.google.com/store/apps/details?id=com.Maple.SkyStudio}} [https://play.google.com/store/apps/details?id=com.Maple.SkyStudio Google Play Store app link]; {{Icon|Apple App Store.png|link=https://apps.apple.com/us/app/id1522241329}} [https://apps.apple.com/us/app/id1522241329 Apple App Store app link]) — Created by [https://www.youtube.com/channel/UCDckPUJKSo9UeVtlY31p3Ag/about Maple]
+
+'''Sky Studio''' is a fan-made app that allows users to compose and listen to simple [[Music Sheets]], practice using Music Sheets files, and play freely using the instrument pad. It includes options for changing [[Instruments]], pitch control, and cave mode (reverb), as well as being compatible with Music Sheets files used for [[#Sky Music|Sky Music]] and [[#Sky Music Nightly|Sky Music Nightly]].
+{{Clear}}<section end="Music-Tools" />
+
+===Communities===
+====Forums and websites====
+*[https://thatgamecompanyfan.boards.net/thread/39/sky-harp-piano-music thatgamecompany fan forum] — Several fan abc-notation music sheets posted there.
+*[https://sky-music.github.io Sky Music Sheets] — a fan-managed site with visual Sky music sheets.
+*[https://github.com/Marianbc/Sky-Music-PS4 Sky Sheet Music PS4 Converter] - A fan extension to convert Sky Music Sheets to PS4 controller layout.
+
+====Discord====
+*[https://discord.gg/thatskygame Official Sky Discord server] — There is a music channel in the official Sky Discord server.
+*[https://discord.gg/A7bwvc #music channel on fan Sky: Friends of the Light Discord] — Invite link to join the fan Sky: Friends of the Light Discord server. There is discussion about music in the #music channel.
+
+===Other===
+*"[https://fmod.com/blog/sky-children-of-the-light-interview Using sound design to tell a story]" — interview with thatgamecompany's sound designers about the music and instruments in Sky
+
+{{Navigation Box}}
+
+
+
+[[fr:Guide Musical de Sky]]
+[[de:Musik Anleitung in Sky]]
+[[ja:Sky 音楽]]
+[[ko:음악에_대한_모든_것]]
+[[pt-br:Guia de Música do Sky]]
+[[ru:Музыкальное руководство]]
+[[Category:Advanced Guides]]
+[[Category:Music]]

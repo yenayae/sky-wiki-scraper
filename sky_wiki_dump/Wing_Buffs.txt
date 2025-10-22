@@ -1,0 +1,34 @@
+[[File:Spirit-tips-4-Ascend-your-friendship.jpg|thumb|right|300px]]
+[[File:A-locked-spirit-shop.png|thumb|A Spirit's locked Friendship Tree]]
+<section begin="Definition" />'''Wing Buffs''' are additional [[Winged Light]] that is acquired by ascending friendships with [[Spirits]] using {{Cost|AC}} Ascended Candles. They are one of the hardest [[Collectibles|collectible]] items to obtain in Sky.<section end="Definition" />
+__TOC__
+
+== Overview ==
+[[File:Winglight.png|thumb|left|100px|An unlocked Wing Buff]]
+Wing Buffs are found in [[Friendship Tree (Regular)|Friendship Trees]], appearing as a wing-like symbol with a lock in the center. A Wing Buff unlocks the next part of a Spirit's Friendship Tree and also grants the player '''one (1) Winged Light per Wing Buff'''. They can only be purchased after obtaining all main items below it in the Tree's trunk. Purchasing a Wing Buff clears the cloud obscuring the higher-level items up in the Friendship Tree, thus making them available for purchase—typically these are the higher-cost [[Cosmetics]].
+
+Every [[Regular Spirits|Regular Spirit]] has at least one Wing Buff available in their Friendship Tree. '''{{Game Stat|wings_buff_reg}} Wing Buffs''' in total can be obtained from Regular Spirits (as of {{Game Stat|wings_update}}). 37 of these are standard Tier 1 Wing Buffs. The remaining {{#expr: {{Game Stat|wings_buff_reg}}-37}} are Tier 2 Wing Buffs, that are more expensive and unlock bonus content, such as [[Tier 2 Cape]]s. '''The Tier 2 Wing Buffs (and any items unlocked by them) do not need to be purchased to complete the Realm's [[Constellation]].'''
+
+In addition, when [[Seasonal Spirits]] return as [[Traveling Spirits]], they also always offer one Wing Buff in their [[Friendship Tree (Traveling)|Friendship Tree]], always costing {{Cost|2 AC}}.<ref name="ts_history">Traveling Spirits and their Wing Buffs first became available in February 2020, during the [[Season of Rhythm]]. To date, the cost of the Traveling Spirit Wing Buff has always been {{Cost|2 AC}}.</ref> '''{{Game Stat|wings_buff_ts}} Wing Buffs''' total have become available from Traveling Spirits (as of {{Game Stat|wings_update}}). These Wing Buffs are new items that were ''not'' available from the Seasonal Spirits during their original Season. However, each Spirit's Wing Buff can only be purchased once, even if they return multiple times as a Traveling Spirit.
+
+New players can reliably obtain one Wing Buff every two weeks from a Traveling Spirit. There is no way for new players to retroactively obtain Wing Buffs from all the past Traveling Spirits, other than to wait for each Spirit's next return. Therefore, the maximum number of Wing Buffs available to new players will always be lower than the maximum number available to older players.
+
+== Details ==
+{{Spoilers}}
+{{Eden}}
+Superficially, Wing Buffs look similar to all the other collectibles available from Friendship Trees. However, acquiring Wing Buffs and using them are both integrally connected to the [[Eye of Eden]], requiring players to travel through Orbit at the end.
+
+The Ascended Candles necessary to purchase Wing Buffs are available by traveling through Eden or completing [[Shard Eruptions#Strong Eruptions|Strong Shard Eruptions]]. At maximum, 15.75 Ascended Candles can be obtained from Eden per week. Furthermore, any newly purchased Wing Buffs only increase the player's [[Winged Light]] '''after''' their next trip through Eden; Winged Light '''is not immediately gained after the purchase'''. When the player walks through the end of Orbit, just before they are reborn, all the Spirits that the player has ascended are waiting for them, ready to give the Winged Light they've unlocked as they pass.
+
+The player's earned Ascended Candles are immediately obtained before they reach the [[Constellation Table]] in Orbit. Therefore, it is advisable to spend most of those Candles at the Table before being reborn, as the purchased Winged Light can then be immediately collected when passing the Spirits. Additionally, it is a good idea to always reserve {{Cost|2 AC}} for the next Traveling Spirit.
+
+If the player [[Winged Light#Losing Winged Light|loses Winged Light]] (e.g. because of [[Dark Dragons]], etc.), they will first lose the Winged Light given by [[Children of Light]], meaning it can normally be recovered without going through Eden again. However, if the player has lost all the Wings from Children of Light, they will begin to lose those from Wing Buffs. To regain those Wing Buffs, the player will have to return to Eden and be reborn again.
+
+==References==
+<references/>
+{{Navigation Box}}
+
+[[de:Flügel-Verstärker]]
+[[fr:Quartiers d'ailes]]
+[[pt-br:Luzes Aladas Permanentes]]
+[[Category:Advanced Guides]]

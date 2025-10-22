@@ -1,0 +1,277 @@
+{{Season
+| title = Season of Moments
+| image = SoMoments-Promo-image-wide.png
+| start = July 17, 2023
+| end = October 1, 2023
+| spirits = 4
+| previousSeason = [[Season of Passage]]
+| nextSeason = [[Season of Revival]]
+| constellation = SoMoments-Spirit-Constellation-Credit-Morybel.png
+| symbol = Season-of-Moments-icon.png
+}}
+The '''Season of Moments''' is the eighteenth Seasonal Event in the Live version of Sky since the global release, following [[Season of Passage]]. It began '''Monday, July 17, 2023 at 00:00 PDT (UTC-7)''' and ended '''Sunday, October 1, 2023 at 23:59 PDT (UTC-7)''', lasting '''77''' days. 
+
+Follow in the Spirits' footsteps to experience the same vast beauty as they did—through exploration.<br>
+<br>
+{{#ev:youtube|x9KwmscfiTc||inline|Season of Moments Trailer}}
+
+==Welcome==
+<center class="title-text-welcome">[https://www.thatskygame.com/news/capture-wonders-around-you-in-season-of-moments Welcome to the Season of Moments!]</center>
+{{Quote|<br>'''''Every moment spent together is a chance to make memories'''''}}
+
+Long ago, a group of Spirits explored beyond the edge of Daylight Prairie and found a breathtaking landscape unlike any in the kingdom. As Season of Moments approaches, follow in their footsteps to experience the same vast beauty as they did—through exploration, and through the lens of a brand-new camera feature!
+
+A new area called Prairie Peaks opens itself to Sky children in this latest Season. Snow-capped mountains tower over a lush, green valley home to scores of light creatures. Rivers beckon explorers onward to mountain crests and hillside caves.
+
+The Moments Guide and four Seasonal Spirits came to appreciate the beauty of this region, and now they’re ready to share their lessons with Sky children. Relive the Spirits’ memories and set out on Seasonal Quests to capture all the splendors of the Season, from majestic natural monuments to small and secretive light creatures.
+
+<small>Note that Season of Moments can be enjoyed by all players who have progressed through at least Hidden Forest.</small>
+
+==Prairie Peaks==
+{{Main|Prairie Peaks}}
+[[File:Prairie PrairiePeaks3.jpg|thumb|right|300px|Daytime of Prairie Peaks]]
+{{Quote|<br>'''''A pristine landscape'''''|Prairie Peaks opening}}
+{{#lst:Prairie Peaks|Summary}}
+
+==New Camera Features==
+This Season offered a new in-game camera enhancement with the {{Spirit Item|Moments Guide|prop|inline_text}} [[Prop]]. While using this item, Photo Mode allows players to manipulate the in-game camera to capture stunning screenshots or create artistic compositions while freely moving the camera around to find the perfect angle for their shots. It offers a range of tools and options to control various aspects of the camera, such as depth of field, zoom, exposure, luminosity, and focus. It adds a whole new dimension to the gaming experience, encouraging players to explore the game world from a different perspective and appreciate its visual aesthetics in greater detail.
+
+New [[#Spirit Memory Quests|Quests]] were introduced that require players to take specific photographs using the Camera Prop within the new [[Prairie Peaks]] area. These Quests incorporate the Photo Mode feature and encourage players to search for specific subjects to complete the objectives. 
+
+The Camera Prop remained available in the game even after the Season ended, offered by the [[Moments Guide]].
+
+==Daily Quests & Seasonal Candles==
+===Daily Quests===
+Collect Seasonal Candles throughout the Season to trade with the new Spirits for their cosmetics. A total of 6 Seasonal Candles were available to gather, as follows:
+*Each day the location of the [[Daily Quests]] changed, indicated through the cutscene played when checking in with the Return Shrine Statue at [[Home]] - where the camera would pan out from the day's chosen Realm portal. Players could earn one Seasonal Candle per Quest completed. Complete your Quests and claim your reward at the Return Shrine Statue at Home. (4 Candles)
+*Players could also collect an extra Candle by collecting the 4 Seasonal bunches <small>(more information on the "Seasonal bunches locations" below).</small> (1 Candle)
+*Players who had the [[Season Pass]] could claim a Seasonal Candle from the Return Shrine Statue at Home as a free daily bonus. (1 Candle)
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape">
+File:Season-of-Moments-Seasonal-candles.jpg|Moments Seasonal Candles
+File:Moments-Season-Pass-1.png|Season Pass - page 1
+File:Moments-Season-Pass-2.png|Season Pass - page 2
+File:Moments-Season-Pass-3.png|Season Pass - page 3
+</gallery>
+===Seasonal Candle Bunches Locations===
+The Seasonal Candle bunches were found towards the beginning of each Realm, one Realm a day according to the Daily Quests' location.
+
+<gallery spacing="small" captionalign="center">
+Daylight-Prairie-Seasonal-Candles-locations-Pattern-B.png|Prairie Rotation 1 & 2
+Hidden-Forest-Seasonal-Candles-locations-Pattern-B.png|Forest Rotation 1 & 2
+Valley-of-Triump-Seasonal-Candles-locations-Pattern-B.png|Valley Rotation 1 & 2
+Golden-Wasteland-Seasonal-candles-Locations-Pattern-B.png|Wasteland Rotation 1 & 2
+Vault-of-knowledge-Seasonal-candles-Locations-Pattern-B.png|Vault Rotation 1 & 2
+</gallery>
+
+==Child of Light Locations<span id="Winged Light Locations"></span>==
+Three (3) [[Children of Light]] have been added to the new Prairie Peaks area. 
+
+<gallery>
+File:Prairie-Peaks-WL1.jpg|Winged Light at the crystal cave
+File:Prairie-Peaks-WL3.jpg|Winged Light on top of the highest peak
+File:Prairie-Peaks-WL2.jpg|Winged Light at the bird-filled hollow cave
+</gallery>
+
+* '''Prairie WL 22''': Located in [[Jolly Geologist]]’s cave (on the right side of Prairie Peaks), next to the large crystal structure.  
+* '''Prairie WL 23''': Located at the peak of the highest mountain, at the far end of Prairie Peaks.
+* '''Prairie WL 24''': Located in the sub-area with the [[Nightbird Whisperer]] (on the left side of Prairie Peaks), at the very top of the bird-filled hollow cave.
+{{Clear}}
+
+==Spirit Memory Quests==
+The Season of Moments featured a new Quest format using the [[Moments_Guide#Camera_Prop|Camera Prop]] provided by the [[Moments Guide]]. These Quests will introduce you to the basics of the Camera, tasking the player to take photographs of various subjects and locations found within Prairie Peaks.
+
+===Quest #1<span id="Quest 1"></span>===
+In the first Quest, the [[Reassuring Ranger]] is introduced as a Spirit that enjoys admiring the landmarks during their hikes through Prairie Peaks. Photograph their favorite landmarks using the [[Moments_Guide#Camera_Prop|Camera Prop]]. A meditation circle is activated nearby, and you are invited by the [[Moments Guide]] to sit to receive your tasks:
+
+*Take out your new camera to take a picture of the Rock Monolith.
+*Photograph the [[Birds|Bird]] and the Rock Monolith in a single picture. 
+*Take a picture of the Entrance Cliffs and the Rock Monolith in the same frame.
+*Photograph the biggest waterfall in Prairie Peaks.
+*Photograph the tallest mountain peak while the sun is shining.
+*Photograph a big flock of Birds at night.
+
+Each time you complete a task, return to the Moments Guide to receive the next prompt. Note that photographs can be taken with or without your character in frame. 
+
+The first Quest is completed once all six requested shots are completed. Speak to the Moments Guide to continue your photographic journey.<br>
+<br>
+{{#ev:youtube|MBEFPWhOTDY|300px||Quest 1 by Nastymold}}
+
+===Quest #2<span id="Quest 2"></span>===
+In the second Quest, the [[Nightbird Whisperer]] is introduced as a Spirit determined to learn more about [[Light Creatures]]. Photograph their favorite Light Creature using the [[Moments_Guide#Camera_Prop|Camera Prop]]. A meditation circle is activated to the left of the path leading to the Nightbird Whisperer's Spirit.  However, because the Light Creature only comes out at night, you have to [[Prairie_Peaks#Overview|wait until nightfall]] to start the Quest.
+
+Once the area turns into nightfall, you are invited by the [[Moments Guide]] to sit to receive your first task; "Use your camera's {{Icon|Camera-zoom-Ray.png}} zoom slider to photograph the Light Creature from a distance."
+
+Once completed, you are prompted with the next task; "Follow the Light Creature carefully and take pictures of it. Remember to keep your distance."
+
+Following the Light Creature will take you through the path to the hollow cave filled with Birds. Should you lose sight of it, the Creature will respond to your honks to help you locate its position. Keep following the Light Creature to take pictures and walk slowly to avoid startling it.
+
+The second Quest is completed once all six shots of the Light Creature are completed. Speak to the Moments Guide to continue your photographic journey.<br>
+<br>
+{{#ev:youtube|2hKXqqHz9uY|300px||Quest 2 by Nastymold}}
+
+===Quest #3<span id="Quest 3"></span>===
+In the third Quest, the [[Jolly Geologist]] is introduced as a Spirit studying crystals that glow and sparkle when your light is nearby. Photograph their curious glowing crystals using the [[Moments_Guide#Camera_Prop|Camera Prop]]. A meditation circle is activated at the entrance of the cave containing the Jolly Geologist's Spirit and you are invited by the [[Moments Guide]] to sit to receive your first task; "Get close to the crystal to take a picture while it's glowing brightly."
+
+While taking your image, use your camera's {{Icon|Camera-blur-Ray.png}} blur slider to make your close-up picture look better. Once completed, you are prompted with the next task; "Find four more crystals. Get very close to take a picture while they glow and sparkle!"
+
+Crystals are scattered all over Prairie Peaks and are not only found in the cave where the Quest begins. You can find more crystals near the waterfalls, tucked away in the mountains, and inside the bird-filled cave. Any of them will complete the task.  
+
+The third Quest is completed once all five shots of the crystals are taken. Speak to the Moments Guide to continue your photographic journey.<br>
+<br>
+{{#ev:youtube|y2IHN1jZNjg|300px||Quest 3 by Nastymold}}
+
+===Quest #4<span id="Quest 4"></span>===
+In the fourth Quest, the [[Ascetic Monk]] is introduced as a Spirit embarking on a pilgrimage up the mountain. Photograph their meditation journey using the [[Moments_Guide#Camera_Prop|Camera Prop]]. A meditation circle is activated to the left of the river that cuts through the center of Prairie Peaks, near the base of the snowy mountain. You are invited by the [[Moments Guide]] to sit to receive your first task; "It started raining! Join the Moments Guide and find some shelter."
+
+[[Flora,_Minerals_and_Elements_of_Sky#Rain|Rain]] will begin to constantly fall all throughout Prairie Peaks for the duration of the Quest - take care to avoid losing your light by taking advantage of any nearby [[Flora,_Minerals_and_Elements_of_Sky#Light_Bloom|Light Blooms]] or [[Light Creatures]]. Once completed, the Moments Guide will point you towards the Ascetic Monk where you are prompted to use {{Emote|Prophet of Water|inline_text}} to receive the next task; "Learn to appreciate the beauty of the storm by photographing what the Ascetic Monk is admiring."
+
+While taking your images, use your camera's {{Icon|Camera-brightness-Ray.png}} exposure slider to make your landscape pictures look better. Following the Ascetic Monk will take you along a winding path up the mountain. Should you lose sight of the Spirit, honking will reveal a blue star that indicates their location.
+
+At the end of the pilgrimage, the Moments Guide will appear to provide your final task; "The Ascetic Monk is in a deep state of meditation. Use your {{Icon|Camera-zoom-Ray.png}} zoom to capture the Ascetic Monk without disturbing them."
+
+The fourth Quest is completed once all four shots of the pilgrimage are taken. Speak to the Moments Guide to continue your photographic journey.<br>
+<br>
+{{#ev:youtube|fSmyTLzqs3A|300px||Quest 4 by Nastymold}}
+
+=== Quest #5<span id="Quest 5"></span> ===
+In the fifth and final Quest, the [[Moments Guide]] seeks all 4 Season of Moments Spirits ([[Reassuring Ranger]], [[Nightbird Whisperer]], [[Jolly Geologist]], and [[Ascetic Monk]]). Flowers have bloomed all throughout Prairie Peaks after the rain from [[#Quest 4|Quest #4]], and the Guide wishes to enjoy the moment together. A meditation circle is activated nearby, and you are invited by the Moments Guide to sit to receive your task; "Find all four Spirits and bring them to the Moments Guide."
+
+Each of the Spirits can be found scattered throughout the area, near where their individual Spirit memory sequences take place. Should you need help finding them, honking will reveal a blue star that indicates their locations. The Spirits can be collected in any order.
+
+Once a Spirit has been found, greet them using {{Emote|Waving Bellmaker|inline_text}} to receive a prompt to take a picture with the posing Spirit using the [[Moments_Guide#Camera_Prop|Camera Prop]]. The Spirit will then take your hand to continue the search together.
+
+The fifth Quest is completed once all four have been gathered and brought to the Moments Guide as a group. Speak to the Moments Guide once again to take one last commemorative photo together.<br>
+<br>
+{{#ev:youtube|FBNLtziSP_o|300px||Quest 5 by Nastymold}}
+
+==Spirits & Cosmetics==
+All of the ''Season of Moments'' Spirits can be found in [[Prairie Peaks]]. There were 4 new Expressions to gather - 1 Call, 2 Emotes, and 1 Friendship Action - 4 Spirits overall. 
+{{#tag:gallery
+|{{Icon Name|Reassuring Ranger|emote}} {{!}} {{Icon Name|Reassuring Ranger|emote_name}}
+{{Icon Name|Jolly Geologist|emote}} {{!}} {{Icon Name|Jolly Geologist|emote_name}}
+{{Icon Name|Ascetic Monk|emote}} {{!}} {{Icon Name|Ascetic Monk|emote_name}}
+{{Icon Name|Nightbird Whisperer|emote}} {{!}} {{Icon Name|Nightbird Whisperer|emote_name}}
+|widths=100|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+===All Moments Friendship Trees===
+{{Mobile Tabber
+|tab1 = {{Season Icon|Moments|tab}}
+|c1   = {{#lst:Moments Guide|Friendship Tree}}
+|tab2 = {{Icon|Quest-icon.png|link=Quests|tab}}
+|c2   = {{#lst:Moments Guide|Quest Tree}}
+|tab3 = {{Emote|Reassuring Ranger|tab}}
+|c3   = {{#lst:Reassuring Ranger|Season Friendship Tree}}
+|tab4 = {{Emote|Jolly Geologist|tab}}
+|c4   = {{#lst:Jolly Geologist|Season Friendship Tree}}
+|tab5 = {{Emote|Ascetic Monk|tab}}
+|c5   = {{#lst:Ascetic Monk|Season Friendship Tree}}
+|tab6 = {{Emote|Nightbird Whisperer|tab}}
+|c6   = {{#lst:Nightbird Whisperer|Season Friendship Tree}}
+}}
+===[[Reassuring Ranger]]===
+{{#lst:Reassuring Ranger|Summary}}
+{{#tag:gallery
+|{{Icon Name|Reassuring Ranger|mask|real}} {{!}} The Mask
+{{Icon Name|Reassuring Ranger|hairpiece|real}} {{!}} The Hair Accessory
+{{Icon Name|Reassuring Ranger|facepiece|real}} {{!}} The Face Accessory
+{{Icon Name|Reassuring Ranger|cape|real}} {{!}} The Cape
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===[[Jolly Geologist]]===
+{{#lst:Jolly Geologist|Summary}}
+{{#tag:gallery
+|{{Icon Name|Jolly Geologist|hair|real}} {{!}} The Hair
+{{Icon Name|Jolly Geologist|facepiece|real}} {{!}} The Face Accessory
+{{Icon Name|Jolly Geologist|prop|real}} {{!}} The Prop
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===[[Ascetic Monk]]===
+{{#lst:Ascetic Monk|Summary}}
+{{#tag:gallery
+|{{Icon Name|Ascetic Monk|mask|real}} {{!}} The Mask
+{{Icon Name|Ascetic Monk|hair|real}} {{!}} The Hair
+{{Icon Name|Ascetic Monk|outfit|real}} {{!}} The Outfit
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===[[Nightbird Whisperer]]===
+{{#lst:Nightbird Whisperer|Summary}}
+{{#tag:gallery
+|{{Icon Name|Nightbird Whisperer|hair|real}} {{!}} The Hair
+{{Icon Name|Nightbird Whisperer|Hairpiece|real}} {{!}} The Hair Accessory
+{{Icon Name|Nightbird Whisperer|outfit|real}} {{!}} The Outfit
+{{Icon Name|Nightbird Whisperer|footwear|real}} {{!}} The Shoes
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===[[Moments Guide]]===
+{{#lst:Moments Guide|Summary}}
+{{#tag:gallery
+|{{Icon Name|Moments Guide|necklace_u|real}} {{!}} Moments Ultimate Pendant
+{{Icon Name|Moments Guide|facepiece_u|real}} {{!}} Moments Ultimate Face Accessory
+{{Icon Name|Moments Guide|prop_u|real}} {{!}} {{Icon Name|Moments Guide|prop_u_name}}
+{{Icon Name|Moments Guide|hairpiece_u|real}} {{!}} Moments Ultimate Hair Accessory
+{{Icon Name|Moments Guide|prop|real}} {{!}} The {{Icon Name|Moments Guide|prop_name}}
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+{{Clear}}
+
+==Price Charts==
+Use the [[Seasonal Events/Calculator|Event Calculator]] to verify the status of your Candle count.
+{| class="article-table"
+! Spirits
+! colspan="6" | Candle Cost
+! Total Seasonal Candles
+|-
+|Reassuring Ranger
+|{{#vardefineecho:A1|16}}
+|{{#vardefineecho:A2|26}}
+|{{#vardefineecho:A3|30}}
+|{{#vardefineecho:A4|36}}
+|{{#vardefineecho:A5| }}
+|3*
+|{{Cost| {{#vardefineecho:Asum| {{#expr: {{#var:A1}} + {{#var:A2}} + {{#var:A3}} + {{#var:A4}} + {{#var:A5}} + 3 }} }} SC|season=Moments}}
+|-
+|Jolly-Geologist
+|{{#vardefineecho:B1| 8}}
+|{{#vardefineecho:B2| 20}}
+|{{#vardefineecho:B3| 28}}
+|{{#vardefineecho:B4| 34}}
+|{{#vardefineecho:B5| }}
+|3*
+|{{Cost| {{#vardefineecho:Bsum| {{#expr: {{#var:B1}} + {{#var:B2}} + {{#var:B3}} + {{#var:B4}} + {{#var:B5}} + 3 }} }} SC|season=Moments}}
+|-
+|Ascetic-Monk
+|{{#vardefineecho:C1| 6}}
+|{{#vardefineecho:C2| 18}}
+|{{#vardefineecho:C3| 26}}
+|{{#vardefineecho:C4| 32}}
+|{{#vardefineecho:C5| }}
+|3*
+|{{Cost| {{#vardefineecho:Csum| {{#expr: {{#var:C1}} + {{#var:C2}} + {{#var:C3}} + {{#var:C4}} + {{#var:C5}} + 3 }} }} SC|season=Moments}}
+|-
+|Nightbird-Whisperer
+|{{#vardefineecho:D1| 12}}
+|{{#vardefineecho:D2| 24}}
+|{{#vardefineecho:D3| 28}}
+|{{#vardefineecho:D4| 36}}
+|{{#vardefineecho:D5| }}
+|3*
+|{{Cost| {{#vardefineecho:Dsum| {{#expr: {{#var:D1}} + {{#var:D2}} + {{#var:D3}} + {{#var:D4}} + {{#var:D5}} + 3 }} }} SC|season=Moments}}
+|-
+! colspan="7" | Total for Season
+! {{Cost| {{#expr: {{#var:Asum}} + {{#var:Bsum}} + {{#var:Csum}} + {{#var:Dsum}} }} SC|season=Moments}}
+|}<small>''* Only available with [[Season Pass]] (Seasonal Hearts) (subtract when calculating without)''</small>
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+SoMoments-sidehug-promo-image.png
+SoMoments-birds-promo-image.png
+SoMoments-landscape-promo-image.png
+SoMoments-start-promo-image.png
+</gallery>
+==References==
+<references />
+{{Seasonal Navbox}}
+
+[[pt-br:Temporada dos Momentos]]
+[[fr:Saison des Instants]]
+[[ja:瞬きの季節]]
+
+{{DEFAULTSORT:Moments, Season of}}

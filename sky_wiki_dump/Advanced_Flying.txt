@@ -1,0 +1,83 @@
+Aside from basic flight controls, several flying tricks can be used in order to improve the overall flying experience of the player. These include spins, flips, dives and exploiting Air Walls/Wind Walls to gain altitude and speed. However, new techniques are always discovered that broaden the scope of what is possible in Sky.
+
+''(Note: See [[Menus and Controls]] to learn the basics of flying controls before advancing to this page. Its content describes techniques that can only be used after mastering the rudimentary controls.) ''
+
+==Flying Higher Using Air walls/Wind walls==
+Numerous boundaries of areas are blocked by [[Barriers]], with [[Barriers#Wind Walls|Wind Walls]] being the most prevalent. Wind Walls are borders of strong winds preventing players from exiting the designated course, thus restricting the places reachable with traditional flying methods.  
+
+If used correctly, almost all Wind Walls can prove helpful in gaining altitude without spending all of the player's cape energy. To perform this, follow the steps below:
+#Toggle glide mode or open-wing mode, on the right-hand side of the screen.
+#Try to locate the Wind Walls. They are usually found at the ends of areas, above landscapes with no particular characteristics such as the sandy, deserted edges of the Ark. A distinctive element of Wind Walls is the currents that they produce, represented by white lines leading to the opposite direction.
+# Another parameter is the angle at which the player approaches the Wind Wall, preferably leading upwards. ''(Note: Facing downward or forward will instead make the player lose control of their avatar.)'' Thus, the character will easily be propelled higher and continue the ascent. This can be achieved by rapidly swiping upwards on the left side of the screen.
+To repeat this multiple times, spiral up using some wing energy and repeat the previously mentioned steps, or twirl quickly in order to return to the Wind Wall. If a friend accompanies you, make sure to have Warp unlocked, since it is difficult to hold hands after getting separated in mid-air.
+
+'''''(Note: Practicing this in large areas like the Citadel and Golden Wasteland will be quite complicated. Try practicing at [[Home]] or other small areas, and with the help of a friend to recharge.)'''''
+
+==Spins and Flips==
+To perform this, ensure [[Menus and Controls#Flight Control|Two-Handed Mode]] and glide mode/open wing mode are set.
+
+Performing this using a controller does not require any changes to the player’s control settings.
+
+Spins and Flips followed by or prior to flapping your cape will add momentum, increasing the effectiveness of your maneuvers such as faster spins, sharper turns, quickly gaining altitude and initiating a quick downward descent for a dive with front & back flip. 
+
+Please note: Soft, feather-like directional movement will also increase the effectiveness of Spins and Flips even further, as well as other maneuvers. (Remember Sky Kids, Light-as-a-Feather.)  
+
+===Spins===
+This requires rapid flicks/swipes on the left of the screen, depending on which direction the player intends to turn to. When swiping left or right, the avatar will twirl sideways, causing it to descend in a spiraling movement. To use this technique for rapid and sharp turns or accelerating to a certain direction, swipe sideways ''<u>only once</u>'''. '''''Long-Calling while in Open-Wing Mode will also cause the avatar to spin but only on the left side. This technique is very useful for when you want to make a sharp and precise turn or dodge dark dragons (also known as krill).  
+
+To do a spin using a controller requires you to hold R and use the left joystick to turn left or right, depending on where the player wants to go. You do not have to constantly flick the joystick as you would flick your finger on a iOS or Android Device. This method also works on a Nintendo Switch.  
+[[File:Spins in Slowmo.gif|alt=A player alternating left and right spins in Isle of Dawn|none|frame|A player alternating left and right spins in Isle of Dawn (slowed down)]]
+
+===Flips===
+To flip, simply follow the same method as the spin, but upwards or downwards. For this technique to prove efficient, the player needs to flick at a high speed, or else the avatar will temporarily face upwards, and return to a straight route again. This is commonly utilized to maintain a particular altitude, and prevent the character from descending when no wing energy is left, but hasn't been tested against dark dragons.
+
+This can also be achieved by constantly swiping up and down, but at a much smaller extent, so that the character follows a "zig-zag" route. For a proper guide, refer to the gif below.
+
+To do a flip using a controller requires the same process as spinning, but instead of left or right, the player must hold up or down. To achieve maximum height, do not hold R for long. Instead, hold R and up for a short duration, let go of R, and repeat. If your character starts to descend, let go of the joystick, glide for a while, and continue the flip method. Flicking is also not required to do this.
+[[File:Flips in Slowmo.gif|alt=A player doing flips backwards in Isle of Dawn|none|frame|A player doing flips frontwards in Isle of Dawn (slowed down)]]
+==Dives and Fastfalling ==
+To dive, simply drag down on the left side of the screen. Both open-wing and closed-wing mode are needed for diving. To accelerate quickly, go in open-wing mode. Then, for a precise landing, go in closed-wing mode. 
+
+To fall faster, a "static" emote (such as Point) is needed and closed wing mode is required. While falling, use a "static emote;" thus allowing you to fall faster. To compound this, press the home button and start going home. You do not need to go home; simply move to cancel the request. When all of these factors are combined, you can fall at extremely high speeds, although you will not be able to control the landing.
+
+'''''(Note: The Handstand emote is a great option since it allows the Player to quickly recover from the dive. Continued usage of this emote while diving will speed up the Player's descent.)'''''
+
+==Auto Landing/Air jump ==
+When flying near a ledge, tap once on the right-hand side of the screen to jump directly onto the ledge, automatically canceling flight. This is especially useful in areas where you may wish to land but are unable to enter Closed Wing mode due to clouds (such as the Coliseum in Valley of Triumph). This can be performed near (above or below) the ledge, so it may be useful when you have run out of cape energy. This can be done in the air in any state making it very useful for precise landing on a nearby ledge, acting similar to a ground jump but in the air.
+
+==Slide start==
+Before flying, it's recommended that you start sliding for any amount of time. To start sliding on level ground, starting moving in your desired direction while jumping. Once you gain enough speed, stop jumping; if you're successful, you'll start sliding. If you successfully complete a Slide Start, your open-wing flying will be greatly improved, as the sliding momentum carries into the air. The largest benefit is that you'll gain much more height when flying in open-wing mode. 
+
+==Parallel Wind Walls/ Wind Wall Speed Boost==
+
+[[File:Youtube-video-gif (3).gif|thumb|Carrot0319's speedrun of Isle of Dawn. Here, you can see them flying parallel at the wind wall, right at the edge.|360x360px]]
+This works best in places with large wind walls, such as the right side of the Isle of Dawn. First, fly parallel to the edge of the wind wall. Then, slowly turn to the right, causing the wind wall to attempt to push you back, causing a rapid acceleration if done properly. This will provide a similar effect as the wind wall height boost, but horizontally. It is highly recommended, if not mandatory, to stabilize yourself. This can be done by using wing energy to boost yourself, then turning yourself to the left and then immediately back to the right.
+
+==Video Guides==
+[[File:“How to play” Sky tips N.4- The flips —(by Jojo)—Sky- children of the light|left|thumb|200x200px|Video about flips/spins by [https://www.youtube.com/channel/UCQu7I0PV30bZ5gPwcu7nUyg Jojo The Brutal Flyer] on YouTube.]]
+[[File:How to Spin in Air 🌀 and Fly Like a Pro 💨 - NOOB GUIDE (Sky- Children of the Light) - Thy Sky Guy|center|thumb|200x200px|Video about flips/spins by [https://www.youtube.com/channel/UCdQIxv2gx1WgLjR5mflpfmQ Thy Sky Guy] on YouTube.]]
+
+Consult these video guides for a visual example.
+
+==Suggested Flying Areas for Practicing==
+*The [[Citadel]] in [[Valley]]
+*[[Secret Area|The Office Roof (Spoiler Alert!)]]
+*[[Forgotten Ark]] in [[Wasteland]]
+*[[Bird Nest]] in [[Prairie]]
+*[[Butterfly Fields]] in [[Prairie]]
+*[[Prairie Caves]]
+*[[Sanctuary Islands]]
+*[[Out of Bounds]]: Any OOB Area with Flying Spaces
+*Cloudy Area in transition area from [[Hidden Forest]] to [[Valley of Triumph]]
+*Cloudy Area at the end of [[Isle]]
+*[[Home]]
+*[[Cave of Prophecies]] (The air around there can be used to practice flying after completing the trial of air)
+*[[Wind Paths]]
+*[[Aviary Village]]
+
+{{Navigation Box}}
+
+[[fr:Techniques de vol avancées]]
+[[de:Fortgeschrittenes Fliegen]]
+[[pt-br:Voo Avançado]]
+[[Category:Advanced Guides]]

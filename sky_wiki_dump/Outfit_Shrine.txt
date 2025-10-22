@@ -1,0 +1,61 @@
+This page contains all the [[Cosmetics]] in the order that they appear in the Outfit Shrines and categorized as: [[Outfits]], [[Shoes]], [[Masks]], [[Face Accessories]], [[Necklaces]], [[Hair]], [[Hair Accessories]], [[Head Accessories]], [[Capes]], and [[Props]].  
+
+'''To know more about Cosmetics and the Outfit Shrines, please visit the [[Cosmetics]] page.  '''
+
+If you are looking for an online tool to keep track of all your Sky game cosmetics, check out [https://sky-planner.com/ Sky Planner made by Silverfeelin].
+[[File:Sky-planner-by-Silverfeelin.png|none|thumb|300x300px|[https://sky-planner.com/ Sky Planner by Silverfeelin]]]
+
+
+{{#invoke:Mobile Tabber|tabber|
+<!-- OUTFITS -->
+|tab1    = {{Icon| Icon_pants_default.png | tab | label=Outfits }}
+|c1      = <br>{{#lst:Outfits|Display}}
+<!-- SHOES -->
+|tab2    = {{Icon| Chuckling-Scout-shoes-icon-Credit-Morybel.png | tab | label=Shoes }}
+|c2      = <br>{{#lst:Shoes|Display}}
+<!-- MASKS -->
+|tab3    = {{Icon| Icon_mask_default.png | tab | label=Masks }}
+|c3      = <br>{{#lst:Masks|Display}}
+<!-- FACE ACCESSORY -->
+|tab4    = {{Icon| Mimi-4117 07 chill sunbather mask.png | tab | label=Face Accessories }}
+|c4      = <br>{{#lst:Face Accessories|Display}}
+<!-- NECKLACE -->
+|tab5    = {{Icon| Comfort-of-Kindness-Neck-Accessory-icon.png | tab | label=Necklaces }}
+|c5      = <br>{{#lst:Necklaces|Display}}
+<!-- HAIR -->
+|tab6    = {{Icon| Icon_hair_default.png | tab | label=Hair }}
+|c6      = <br>{{#lst:Hair|Display}}
+<!-- HAIR ACCESSORY -->
+|tab7    = {{Icon| Icon hair summer hat headpiece.png | tab | label=Hair Accessories | link=Hair Accessories }}
+|c7      = <br>{{#lst:Hair Accessories|Display}}
+<!-- HEAD ACCESSORY -->
+|tab8    = {{Spirit Item| Bearhug Hermit | Headpiece | tab | label=Head Accessories | link=Head Accessories }}
+|c8      = <br>{{#lst:Head Accessories|Display}}
+
+|tab9    = {{Icon | Scroll-Right.png | tab | label=See more | link=Outfit Shrine/More }}
+|c9      = <br>[[Outfit Shrine/More|Continue here]] to see [[Capes]] and [[Props]].<br><br><br><br><br><br><br><br><br><br>
+}}
+==Printable==
+Printable version of all cosmetics (as of September 17, 2023 - with Days of Sunlight) and a graphic from Laila#3759 representing all Cosmetics:
+<gallery>
+Outfit-Shrine-printable-page-1.jpg|Outfit Shrine page 1
+Outfit-Shrine-printable-page-2.jpg|Outfit Shrine page 2
+Outfit-Shrine-printable-page-3.jpg|Outfit Shrine page 3
+Seasonal-Cosmetics-printable-page-1.jpg|Seasonal Cosmetics page 1
+Seasonal-Cosmetics-printable-page-2.jpg|Seasonal Cosmetics page 2
+Seasonal-Cosmetics-printable-page-3.jpg|Seasonal Cosmetics page 3
+Printable-Cosmetics-from-Events.jpg|Special Events Cosmetics
+Expressions-Stances-Calls-Printable-chart.jpg|Expressions Printable chart
+File:Outfit-request-Discord-Laila-3759.png
+</gallery>
+==References==
+<references />
+
+[[fr:Sanctuaire des Tenues]]
+[[de:Outfit-Schrein]]
+[[pt-br:Altar de Trajes]]
+[[ru:Гардероб]]
+[[ja:ドレスアップの祠]]
+
+[[Category:Cosmetics]]
+[[Category:Menus]]

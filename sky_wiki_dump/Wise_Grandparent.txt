@@ -1,0 +1,213 @@
+{{Distinguish|Divining Wise Grandparent}}
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Stance
+|image     = <gallery>
+Belonging-Spirit-Wise-Grandpa.png|Standard
+Belonging-Spirit-Wise-Grandparent-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Mask|infobox}}{{Spirit Item||Cape|infobox}}
+|props     = {{Spirit Item||Prop|infobox}}
+|music     = {{Music Sheet|11}}
+|season    = Belonging
+|realm     = Vault of Knowledge
+|location  = Vault Archives
+|ts        = November 9, 2023 (#100)<br>November 11, 2021 (#48)<br>August 6, 2020 (#15)
+}}
+<section begin="Summary" />The '''Wise Grandparent''' is a [[Seasonal Spirit]] from the [[Season of Belonging]] who offers the {{Emote|Wise Grandparent|inline_text}}. The Wise Grandparent is found on a square platform at the start of the [[The Archives]] in Vault of Knowledge.  The collectibles [[#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Wise Grandparent|Mask|inline_text}}, a {{Spirit Item|Wise Grandparent|Cape|inline_text}}, a {{Spirit Item|Wise Grandparent|Prop|label=Memory Lantern Prop|inline_text}}, and the {{Music Sheet|11|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Wise-Grandparent-promo-image.jpg|thumb|320px|none|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|clZJGuOCgYc||inline|Video Guide by Tara}}
+
+The Wise Grandparent can be found on a square platform at the start of the [[The Archives|Archives]] in Vault of Knowledge, in the large room before the maze. This Spirit has a [[Standard Memory|standard memory]] with 9 memory fragments and a 15-minute overall [[Timed Memory|time limit]].
+
+[[Deep Call|Deep Calling]] is recommended to stunt the many [[Dark Crabs]] inhabiting the hallways of the Archives, to prevent them from attacking the player during the memory.
+
+As their memory unfolds, the Wise Grandparent can be seen ponderously exploring the maze-like Archives until they reach its end.
+
+At the end of the memory, the Wise Grandparent stands thoughtfully with their hands clasped behind their back. The player then grabs a bell from underneath their Cape and rings it, catching the attention of the Spirit. They bring their hand to their chin and think for a short while, before they raise up their arm in epiphany, with a glowing exclamation mark blinking above their head.<br>
+<br>
+[[File:05 VK Seasonal Spirit - Wise Grandparent.jpg|200px|thumb|none|Relive the Wise Grandparent's memory]]
+</div>
+{{Clear}}
+
+== <span id="Expression">Stance</span> ==
+This Spirit offers the {{Emote||inline_text}}. The Stance affects your avatar's position when standing, kneeling, sitting, or lying down. 
+
+{{#tag:gallery
+|{{Icon Name||emote}}
+Wise-Grandparent-wise-stance-emote.gif {{!}} {{Icon Name||emote_name}}
+Wise-Grandparent-Stance-Standing.png {{!}} {{Icon Name||emote_name}} (Standing)
+Wise-Grandparent-Stance-Kneeling.png {{!}} {{Icon Name||emote_name}} (Kneeling)
+Wise-Grandparent-Stance-Sitting.png {{!}} {{Icon Name||emote_name}} (Sitting)
+Wise-Grandparent-Stance-Lying-Down.png {{!}} {{Icon Name||emote_name}} (Lying down)
+|heights=170px|captionalign=center|spacing=small
+}}
+
+* Standing will make your avatar fold their hands behind their lower back.
+* Kneeling will make your avatar go down on one knee, chin resting on their left hand which is propped up on their left knee, while their right hand rests on said knee.
+* Sitting will make your avatar sit with crossed legs and slightly hunch forward, with their head supoorted on the right hand, which is propped up on the right knee.
+* Lying down will make your avatar lay on their right side, with their head propped up on their right arm, their eyes closed, their left hand laying on level with their head on the ground, palm facing down, and their left leg bent up.
+
+== Cosmetics==
+=== Mask ===
+The [[Mask]] offered by this Spirit is decorated with golden forehead ornaments and a thick voluminous beard, costing {{Cost|48 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fourth node ({{Cost|36 SC|season=Belonging}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Cape ===
+The [[Cape]] offered by this Spirit is white with faint diamond markings near the collar and a yellow fringe at the bottom, costing {{Cost|70 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fifth node ({{Cost|52 SC|season=Belonging}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||Cape|interior}} {{!}} The Cape interior
+{{Icon Name||Cape|real}} {{!}} The Cape back
+<!--{{Icon Name||Cape|exterior}} {{!}} The Cape exterior-->
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Prop ===
+The [[Prop]] offered by this Spirit is a small gray lantern in the shape of an elongated hexagon with a light-blue diamond shape on one side, costing {{Cost|10 C}} from the Traveling Spirit. It is a placeable Prop that can be used in [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality, and cannot be lit despite its resemblance to the lanterns seen in the [[Vault of Knowledge]].
+
+This item was not available during the [[Season of Belonging]]. Instead, it was added to the Wise Grandparent's Friendship Tree during their second visit as a Traveling Spirit on November 11, 2021.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Prop}} {{!}} The Prop icon
+{{Icon Name||Prop|real}} {{!}} The Prop
+{{Icon Name||Prop|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Music Sheet ==
+The Wise Grandparent offers the {{Music Sheet|11}} [[Music Sheet]] #11, costing {{Cost|15 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|SC 10|season=Belonging}} total). It is a song in the key of B♭ Major.<br>
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guides
+|content=
+{{#ev:youtube|1zL3o83RgPA||left|Music Sheet Video Guide by thatskyfox (Fox Band}}
+{{#ev:youtube|hsOalc_dVos||inline|Music Sheet Video Guide by CactusFlowerSky}}
+}}
+
+== Traveling Spirit ==
+[[File:Traveling belonging wise.png|200px|right|thumb]]
+{{Friendship Tree Info | traveling
+|ts_dates=*November 9, 2023 (#100)
+*November 11, 2021 (With a new [[#Prop|Prop]]) (#48)
+*August 6, 2020 (#15)
+}}<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Wise Grandparent
+|season = Belonging
+|image  = Belonging-Spirit-Wise-Grandpa.png
+
+|nodeC5 = Mask 48 C
+|nodeL4 = Cape 70 C
+|nodeC4 = spell5
+|nodeR4 = Prop 10 C NEW
+|nodeC3 = wing
+|nodeC2 = spell5
+|nodeL1 = music11 15 C
+|nodeC1 = emote
+|nodeR1 = heart
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+No hints were given from the [[Wise Grandparent]]'s first appearance.
+
+The hints given before the [[Wise Grandparent]]'s second appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Second Visit Hints
+|content=<div>
+* Does not eat banana peels
+* Is afraid of butterflies
+* Is the Krabby Patty formula of course
+* Takes care of their hair
+* Is coming to alexdolly's birthday party (ITS TODAY!)
+* Is somewhat shy
+* Forgets breakfast
+* Is a night owl
+* Is more acrobatic than they look
+* Enjoys mysteries
+* Would rather hug than high five
+* Takes their daily vitamins
+* Doesn't get enough sleep
+* Would lecture you if you got into trouble
+* Has never been to a theater play
+* Likes to make lists
+* Is a Capricorn sun, Gemini moon
+* [ikô] Is most likely a Sagittarius
+</div>
+}}
+
+The hints given before the [[Wise Grandparent]]'s third appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Second Visit Hints
+|content=<div>
+* Dislikes having fruit for break fast
+* Doesn't like appearing messy
+* Is always prepared with a solution to any problem 
+* Is more athletic than they appear
+* Adores playing puzzle games
+* Is convinced everything has a secret behind it
+* Tends to ramble 
+* Likes the sound of their own voice
+* Is surprised when they're wrong about something
+</div>
+}}
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Belonging}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Wise Grandparent
+|type   = season
+|season = Belonging
+|image  = Belonging-Spirit-Wise-Grandpa.png
+
+|nodeC6 = season_heart 3 SC AP
+|nodeL5 = Cape AP
+|nodeC5 = spell5 16 SC
+|nodeL4 = spell5 AP
+|nodeC4 = Mask 14 SC
+|nodeL3 = spell5 AP
+|nodeC3 = spell5 12 SC
+|nodeL2 = music11 AP
+|nodeC2 = spell1 10 SC
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+== Other Appearances ==
+Wise Grandparent also appeared in the [[Season of the Blue Bird]] as the [[Divining Wise Grandparent]].
+
+==Trivia==
+* All the hints for the [[Wise Grandparent]]'s third appearance were handed out by Skybot, as Ash was on vacation at the time.
+* The Wise Grandparent Cape is featured in a piece of merch from thatskyshop, in the form of the [[That Sky Shop/Wave 4#Belonging White Cape Pin (Cancelled)|Belonging White Cape Pin]]. It has a STAR feature which allows you and the friends holding your hand to wear the Cape for a limited duration.
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Wise-Grandparent-third-visit-promo-image.jpg
+Wise-Grandparent-promo-image(first visit).png
+Belonging_NightSpirit.jpg
+Vault Emote Outfit.jpg
+Group Emote Stance.jpg
+Belonging Vault Map Preview.png
+</gallery>
+
+==References==
+<references/>
+
+[[de:Weise Großoma]]
+[[fr:Grand-parent sage]]
+[[pt-br:Avô Sábio]]
+[[ru:Мудрый дедушка]]
+[[ja:祖たる賢者]]

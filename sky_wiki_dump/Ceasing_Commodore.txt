@@ -1,0 +1,150 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Abyss-Spirit-Ceasing-Commodore.png|Standard
+Abyss-Spirit-Ceasing-Commodore-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Mask|infobox}}{{Spirit Item||Hair|infobox}}{{Spirit Item||Cape|infobox}}
+|location  = Treasure Reef
+|season    = Abyss
+|ts        = March 4, 2024 (SV#5)<br>
+}}
+<section begin="Summary" />The '''Ceasing Commodore''' is a [[Seasonal Spirit]] from the [[Season of Abyss]] who offers the {{Emote|Ceasing Commodore|inline_text}} Expression. The Ceasing Commodore is found in the [[Treasure Reef]] on the back side of the little island where the player first lands, near the Abyss Guide's ship. The collectibles [[#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Ceasing Commodore|Mask|inline_text}}, a {{Spirit Item|Ceasing Commodore|Hair|inline_text}}, and a {{Spirit Item|Ceasing Commodore|Cape|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:CeasingCommodore_spiritreveal.png|thumb|320px|none|TGC's Promo image]]
+
+== Memory ==
+<div>
+{{#ev:youtube|Gnq2NahwTLU||inline|Video Guide}}
+<div>
+The Ceasing Commodore can be found by flying over the back end of the hill where you first arrive, behind the Abyss Guide's ship. This Spirit has a [[Standard Memory|standard memory]] with 8 memory fragments and an unlimited overall [[Timed Memory|time limit]]. <br>
+<br>
+As their memory unfolds, the Ceasing Commodore and the [[Abyss Guide]] can be seen going on a search for black crystals. On their search through the island, they spot two crystals at different places, and assemble them in a bucket the Abyss Guide carries, while the Commodore looks for new findings. A bit further on their way, the two adventurers spot another crystal at the top of a tower. The Abyss Guide immediately tries to climb up the wall, but the Ceasing Commodore calmly stops them, volunteering to scale the tower instead.
+
+The remaining memory fragments may be a little difficult to gather if you don’t have enough Cape Power, as they are placed high up on the tower wall. Use a [[Deep Call]] to summon the nearby butterflies, and let yourself be carried up the tower, where a [[Flora, Minerals and Elements of Sky#Light Bloom|Light Bloom]] on the wall can be used to recharge your Wings and help you stay there.
+
+At the end of the memory, the Ceasing Commodore calms the Abyss Guide's determination to climb the tower. Executing what the Abyss Guide had intended to do, the Ceasing Commodore later hangs from the top ledge of the tower, triumphantly holding the large crystal above their head, while the Abyss Guide, watching from below, jumps up delight.<br>
+<br>
+[[File:04 GW Seasonal Spirit - Ceasing Commodore.png|200px|thumb|none|Relive the Ceasing Commodore's memory]]
+{{Clear}}
+
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Ceasing-Commodore-calm-down-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Ceasing-Commodore-calm-down-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Ceasing-Commodore-calm-down-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Ceasing-Commodore-calm-down-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar take a small step forward and slightly tilt their head to the side, before extending their arms loosely to the front, palms facing forward, and gently moving them up and down twice, while calm sound effects play.
+*Level 2 makes the same motion as Level 1, but with one invisible circle, surrounded by a white glow, surrounding each of your avatar's hands, as well as trails of while sparkles following their motion.
+*Level 3 will make your avatar loosely extend their arms, palms facing foreard, and calmly turn to one side, then the other, and at last assume a centered position, with their arms spread apart infront of them, looking from side to side, while calm sound effects play.
+*Level 4 makes the same motion as Level 3, but with two big invisible circles, surrounded by a white glow, appearing on the avatar's hands with each turn, as well as trails of white sparkles following their motion.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+== Cosmetics ==
+=== Mask ===
+The [[Mask]] offered by this Spirit features a tattered, dark-gray version of the [[Masks#Base Mask|Base Mask]], with a light scar across the face and a turquoise crystal on the forehead, and a long beard that is divided into two braids, tied with a grey hairband, costing {{Cost|40 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's third node ({{Cost|14 SC|season=Abyss}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Hair ===
+The [[Hair]] offered by this Spirit consists of several thick braids along the scalp, adorned with brown hair accessories and shaved sides with manta tattoos along the side hairline, costing {{Cost|45 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|6 SC|season=Abyss}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Cape ===
+The [[Cape]] offered by this Spirit is a fluffy brown cloak with a black and beige trim, and a beige interior, costing {{Cost|70 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fifth node ({{Cost|50 SC|season=Abyss}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||Cape|interior}} {{!}} The Cape interior
+{{Icon Name||Cape|back}} {{!}} The Cape back
+{{Icon Name||Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling
+|rs_dates=*March 4, 2024 (SV#5)
+}}
+<section begin='TS Friendship Tree' />{{Friendship Tree
+|spirit = Ceasing Commodore
+|image  = SOAbyss-Ceasing-Commodore-Spirit.png
+|season = Abyss
+
+|nodeC6 = Cape 70 C
+|nodeL5 = Mask 40 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Hair 45 C
+|nodeC2 = spellx 5 C
+|nodeR2 = Heart 3 C
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end='TS Friendship Tree' />
+<!--
+===Hints===
+The hints given before the {{PAGENAME}}'s appearance were: 
+-->
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Abyss}}
+<section begin='Season Friendship Tree' />{{Friendship Tree
+|spirit = Ceasing Commodore
+|image  = SOAbyss-Ceasing-Commodore-Spirit.png
+|type   = season
+|season = Abyss
+
+|nodeC6 = season_heart 3 SC SP
+|nodeL5 = spellx SP
+|nodeC5 = Cape 20 SC
+|nodeL4 = emote4 SP
+|nodeC4 = emote3 16 SC
+|nodeL3 = spell5 SP
+|nodeC3 = Mask 8 SC
+|nodeL2 = Hair SP
+|nodeC2 = spellx 6 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end='Season Friendship Tree' />
+
+==Unique Daily Quests==
+{{#section-h:Quests/Daily Quest Spirits|{{PAGENAME}}}}
+
+== Personality ==
+On February 3 2022, TGC officially announced <ref name="Personality Tweet">https://twitter.com/thatskygame/status/1489403365243109377</ref> and introduced {{PAGENAME}} with the following personality traits: 
+*⚓ Captain of the crew
+*⭐ Has high expectations for others
+*✅ Is set in their decisions once they’ve made them
+*👀 No one is sure if their puns are intentional
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Season of abyss ceasing commodore emote.jpg
+</gallery>
+
+==References==
+<references />
+
+[[de:Kommando-Kapitän]]
+[[pt-br:Comodoro Abandonado]]
+[[ru:Командор-начальник]]
+[[ja:動じない提督]]
+[[fr:Commodore Commandant]]

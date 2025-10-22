@@ -1,0 +1,449 @@
+{{Season
+| title = Season of The Two Embers - Part 1
+| image = SoTwo-Embers-Promo-image.jpg
+| start = July 21, 2025
+| end = October 5, 2025
+| spirits = 4
+| previousSeason = [[Season of the Blue Bird]]
+| nextSeason = [[Season of Migration]]
+| constellation = <gallery>
+Season-of-Two-Embers-Part-1-Constellation.png|Vector
+Two_Embers_Part_1_Constellation.png|Screenshot
+</gallery>
+| symbol = Season-of-the-Two-Embers-icon.png
+}}
+The '''Season of The Two Embers - Part 1''' was the twenty-sixth Seasonal Event in the Live version of ''Sky'' since the global release, following [[Season of the Blue Bird]]. It began on  '''July 21, 2025 at 00:00 PDT (UTC -7)''' and ended on '''October 5, 2025 at 23:59 PDT (UTC -7)''', lasting '''77''' days. It was the fifth collaborative Seasonal Event in the world of Sky, in collaboration with TGC's animated series [[Sky: The Two Embers]]. It was announced during [[SkyFest]] by Jenova Chen as a [https://www.youtube.com/live/7aPeMBKtv3Y?si=QOXspkYkQYJAu-EP&t=1786 secret announcement].<br>
+<br>
+{{#ev:youtube|hB71XYm0_os||inline|Season of The Two Embers - Part 1 Trailer}}
+
+==Welcome==
+<center class="title-text-welcome">[https://www.thatskygame.com/news/experience-sky-s-origin-story-with-season-of-the-two-embers-part-1 Welcome to the Season of The Two Embers - Part 1!]</center>{{Quote|<br>'''''Prepare to venture into the heart and history of Sky. 🕯'''''}}
+
+This Season unfolds alongside part one of the animated series ''[[Sky: The Two Embers]]'', which follows the tale of an orphan chasing hope as darkness closes in on the world around them. This animated origin story reveals the events that set Sky’s world on its path to ruin, in TGC's most immersive storytelling format yet.
+
+Through a one-of-a-kind experience, [[#Spirit Memory Quests|Seasonal Quests]] are paired with each chapter of ''Sky: The Two Embers - Part 1''. Dive deeper into the adventure of ''The Two Embers'' with each Quest, walking, creating, and standing strong alongside the people who lived in the final years of the kingdom. As the story progresses, players will have the chance to build a unique relationship with one of the Season’s most memorable characters. The gentle, expressive [[Manatee]] responds to the player's actions and stands by their side throughout the journey. 
+
+This Season’s setting is one of Sky’s most dynamic and expansive environments to date. The bustling market village in the new area, [[#The Last City|The Last City]], is alive with Spirits, vibrant with activity, and full of hidden moments to discover. The Season’s cosmetics also reflect this rich narrative, drawing inspiration directly from the people and cultures—[[Outfits]], [[Hair|Hairstyles]], [[Props]], and more! Two Ultimate Gifts can be unlocked by [[Season Pass]] holders from the Season's Guide, the [[Vault Elder's Lantern]].
+
+==The Last City==
+{{Main|The Last City}}
+[[File:The-Last-City-Area-Overview.png|thumb|right|300px|The Last City]]
+{{#lst:The Last City|Summary}}
+{{Clear}}
+
+==Daily Quests & Seasonal Candles==
+===Daily Quests===
+Collect Seasonal Candles throughout the Season to trade with the new Spirits for their cosmetics. A total of 6 Seasonal Candles were available to gather, as follows:
+*Each day the location of the [[Daily Quests]] changed, indicated through the cutscene played when checking in with the Return Shrine Statue at [[Home]] or [[Aviary Village]] - where the camera will pan out from the day's chosen Realm portal. Players could earn one Seasonal Candle per Quest completed. Complete their Quests and claim their reward at the Return Shrine Statue. (4 Candles)
+*Players could also collect an extra Candle by collecting the 4 Seasonal bunches <small>(more information on the "Seasonal bunches locations" below).</small> (1 Candle)
+*Players who had the [[Season Pass]] could claim a Seasonal Candle from the Return Shrine Statue at [[Home]] or the [[Aviary Village#Friendship Constellation Statue|Friendship Constellation Statue]] at Aviary Village as a free daily bonus. (1 Candle)
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" >
+File:Two-Embers-P1-Seasonal-candles.JPG|Season of The Two Embers - Part 1 Seasonal Candles
+File:Two-Embers-P1-Season-Pass-1.png|Season Pass - page 1
+File:Two-Embers-P1-Season-Pass-2.png|Season Pass - page 2
+File:Two-Embers-P1-Season-Pass-3.png|Season Pass - page 3
+</gallery>
+
+===Seasonal Candle Bunches Locations===
+The Seasonal Candle bunches were found towards the beginning of each [[Realm]], one Realm a day according to the [[Daily Quests]]' location.
+<!-- '''Today's ({{Game Stat|today|format=F j}} in Sky Time) Seasonal Candle rotation is
+{{#switch:{{#expr:{{Game Stat|datediff|from=2023-01-16 PST}} mod 10}}
+|0=Rotation 2 in Valley of Triumph.
+|1=Rotation 2 in Golden Wasteland.
+|2=Rotation 2 in Vault of Knowledge.
+|3=Rotation 1 in Daylight Prairie.
+|4=Rotation 2 in Hidden Forest.
+|5=Rotation 1 in Valley of Triumph.
+|6=Rotation 1 in Golden Wasteland.
+|7=Rotation 1 in Vault of Knowledge.
+|8=Rotation 2 in Daylight Prairie.
+|9=Rotation 1 in Hidden Forest.
+}} <!-- TESTING BY RAY: This is possibly necessary to keep the datediff accurate ''' {{Purge}} <div id="disable-caching" style="display:none;"><choose uncached><option></option></choose></div> -->
+
+<!-- Specify Pattern-A or Pattern-B -->
+<gallery spacing="small" captionalign="center">
+Daylight-Prairie-Seasonal-Candles-locations-Pattern-A.png|Prairie Rotation 1 & 2
+Hidden-Forest-Seasonal-Candles-locations-Pattern-A.png|Forest Rotation 1 & 2
+Valley-of-Triump-Seasonal-Candles-locations-Pattern-A.png|Valley Rotation 1 & 2
+Golden-Wasteland-Seasonal-candles-Locations-Pattern-A.png|Wasteland Rotation 1 & 2
+Vault-of-knowledge-Seasonal-candles-Locations-Pattern-A.png|Vault Rotation 1 & 2
+</gallery>
+
+<!-- ''NOTE: This section is automatic generated. If the rotation pattern changed and the info above is outdated, please either contact an [[Help:Admins and Moderators|admin]] or use the Source Editor to apply the appropriate changes. Thank you!'' -->
+
+==Child of Light Locations<span id="Winged Light Locations"></span>==
+No [[Children of Light]] were added to the Season of The Two Embers - Part 1.
+
+==Spirit Memory Quests==
+The Quests from this Season take the player deeper into the world shown in ''[[Sky: The Two Embers]]''. The series of Quests to unveil the Spirits in this Season differ from others, as each Spirit journey involves multiple tasks, making them longer than usual. Through a one-of-a-kind experience, Seasonal Quests are paired with each chapter of ''Sky: The Two Embers - Part 1''. Dive deeper into the adventure of The Two Embers with each quest, walking, creating, and standing strong alongside the people who lived in the final years of the kingdom. 
+
+===<span id="Quest 1">Quest #1</span>===
+In the first Quest, the [[Tender Toymaker]] requires the player's assistance with setting up their toy stall. This journey begins with the ill Spirit resting under a tent as they glance discouragingly at their large baggage. The player is prompted to {{Icon|Grab-Ray.png}} carry the bags for them. After helping the Toymaker to their feet, the player must guide them to the [[The Last City#Marketplace|Marketplace]], which can be found further down the path, on the right side. The Spirit stops midway and coughs, which the player can ease by helping them {{Emote|Prophet of Water|label=Breathe|inline_text}}.<br><br>
+
+[[File:Two-Embers-1-Quests-Token.png|thumb|75px|right|A token]]
+As the pair enters the village, the camera pans across to an empty spot, marked by glowing stars in a circle, reserved just for the Tender Toymaker's stall. The Spirit must be escorted to this spot and help them {{Icon|Meditating-Monastic-3.png}} set up the stall. The Toymaker still appears weak, so a token must be retrieved from the bag and brought to the food stall located directly across the way. After giving the token to the merchant at the stall, they will be prepare some tea. Once ready, a teapot and two cups appear, which can be brought back to the ill Spirit to {{Icon|Drink-tea-icon.png}} drink some tea.
+
+With the Toymaker now feeling better, it’s time to display their toys. The player is promted to retrieve three toys from the bag and place them on the mat in their designated spots, marked by blue silhouettes. Soon, a villager arrives, waving and offering to trade a conch for ones of the toys. The player can suggest toys to the villager, though their desired one is the {{Spirit Item|Tender Toymaker|prop_c|inline_text}}.
+
+Not long after, the [[Stern Shepherd]] walks by, followed by a group of Manatees. One of them, a small, curious creature with purple markings on one arm, stops and comes to the Toymaker's stall to inspect the {{Spirit Item|Caring Companion|prop|inline_text}} laying there. Quickly, it snatches it away and flies off to the Marketplace's entrance—the player must chase the Manatee to retrieve the toy and return it to the Toymaker. The Manatee can be caught by calling out to see their position and pressing the {{Icon|Grab-Ray.png}} hand icon once they're close to it. Grateful for their toy retrieved, the Toymaker offers a treat to the Manatee, who happily accepts it.
+
+In the final scene, the Stern Shepherd comes to pick up the small Manatee and joins the rest of the herd, seeming displeased by the small one's earlier mischief. The group returns to the holding pens, where another small Manatee has been isolated in a stall. The Shepherd opens the enclosure and the two Manatees can reunite for a moment of affection. However, they are soon separated again, with one returning to confinement while the other rejoins the group. The lone Manatee lies down with sorrowful eyes, marking the conclusion of this Quest.
+<br><br>
+{{#ev:youtube|DX08LwrjjQc|300px||Quest 1 Video Guide}}
+
+===<span id="Quest 2">Quest #2</span>===
+In the second Quest, the [[Resourceful Recluse]] requires the player's assistance in buildung up their home. At the edge of the bustling [[The Last City#Marketplace|Marketplace]], in a quiet, broken corner, the Spirit sits unnoticed under their ruined stall. With their inventory gone, rack destroyed, and debris scattered across the floor, they are in need of help.
+
+Firstly, the debris needs to be cleared away, by tapping the {{Icon|Grab-Ray.png}} hand icon near the piles. The Recluse expresses their gratitude and pleads the player to help rebuild their broken rack. A token on the floor can be used to trade for a hammer at the tool stall. After repairing the rack, another coin on the bench can be traded for furniture items from the decoration stall, opposite of the tool stall. Out of nine items available, any five can be chosen to revive the Recluse's home again.
+{{Collapse
+|state=closed
+|label= decorations
+|content= <br>
+From right to left, the nine items are as follows: {{Spirit Item|Remembrance Guide|prop_k|inline_text}}, {{Spirit Item|Performance Guide|prop|inline_text}}, {{Spirit Item|Herb Gatherer|prop|inline_text}}, {{Spirit Item|Assembly Guide|prop_j|inline_text}}, {{Spirit Item|Assembly Guide|prop_p|inline_text}}, {{Icon|Shared-Spaces-Round-Jar-prop-icon-Morybel-0146.png|label=Round Jar|link=Shared Spaces|inline_text}}, {{Spirit Item|Nesting Atrium|prop_f|inline_text}}, {{Spirit Item|Assembly Guide|prop_l|inline_text}}, and {{Spirit Item|Prophet of Fire|prop|inline_text}}.
+}}<br><br>
+
+[[File:Two-Embers-1-Quest-Seed.png|thumb|75px|right|A seed]]
+Back at the Recluse's home, a Shared Space Shrine appears, where players must decorate their Shared Space to fulfill the request. As the area transforms, the Spirit reveals a trapdoor leading to a hidden [[The Last City#Underground Refuge|underground refuge]]. Inside, sunlight filters through cracks, illuminating alcoves full of books and pots, and a central shrine in another room where vines and moss grow naturally in abundance. There, players must collect six seeds to help the Spirit cultivate a living home. Using the {{Emote|Lively Navigator|inline_text}} Expression, players can swing on vines to make the seeds fall, which can then be picked up. Higher vines can be reached by lighting the white candles in the other room and making some [[Butterflies]] appear, which can lift the player up by [[Deep Call|Deep Calling]]. Once completed, the area can be exited by returning through the pipe.
+
+As the seeds are brought back to the Recluse, time fast-forwards and days turn to night and back again, as creeping plants flourish and reclaim the space. Villagers begin to notice, sitting nearby in awe. The once-forgotten stall becomes a vibrant, admired part of the Marketplace and business is blooming again. 
+
+At the end, the little Manatee peeks out of the underround tunnel, wearing a harness to cover the purple markings on its arm. The Resourceful Recluse gently pats its head, marking the conclusion of this Quest.
+<br><br>
+{{#ev:youtube|ZkSc8PN5Tw0|300px||Quest 2 Video Guide}}
+
+===<span id="Quest 3">Quest #3</span>===
+In the third Quest, the player must make their way through the [[The Last City#Temple|Temple]]'s gates as the city is in overtaken by darkness. A powerful quake rattles the city as the tower lights flicker out, plunging the town into darkness. Out on the streets, tension rises as guards ready their shields and spears against [[Dark Dragons|Dark Creatures]]. A sinister creaking echoes as a Dark Dragon slithers out from the unknown. Guards form ranks, but fear seeps in. The Dragon attacks without mercy, forcing the guards to their knees as its roars shake the skies. 
+
+Hidden beneath a canopy between two buildings, near the player's starting point, the [[Stern Shepherd]] waits for rescue.''' Players must guide them to safety''', towards the [[The Last City#Marketplace|Marketplace]], navigating through narrow alleys and crates to avoid detection. If spotted by a Dark Dragon, players will be sent back to the starting point.
+
+Flames dip the sky in a red light as a Dark Dragon comes up close behind the player and Shepherd, by the Market's entrance. Before it can attack, the towers' lights briefly return, making the Dragons retreat, though the city is not as before. The kindled hope is diminished, as guards trap [[Caring Companion|a small Manatee]], the one that has been isolated before, behind iron bars. The overwhelmed Shepherd runs into the Market and the player's journey continues alone.
+
+'''Players must now rescue the Light Creature and head to safety''' in the Marketplace. The cage next to the Manatee pens can be {{Icon|Grab-Ray.png}} unlocked, before calling the Manatee to follow the player. The way back to the Marketplace is blocked by soldiers, which must not spot the player together with the Manatee. Sneaking through behind crates, tents, and stones will hide the two from the eyes of the patrolling guards—if spotted, the player will be returned to the Manatee's cage. Using the {{Emote|Ceasing Commodore|inline_text}} Expression will make the Manatee wait at a spot so the player can go forward before calling it to them with the {{Emote|Herb Gatherer|inline_text}} Emote.
+
+Inside the Marketplace, villagers watch as more towers come to light and soldiers beckon them inside the now-open Temple gates. The player and Manatee must remain unseen by the guards whilst making their way through the stalls and to the gates. If spotted, the player will be returned to the Marketplace's entrance. Past the stalls, bodies of villagers and Manatees lie in the wake of the Dark Dragons. In the alley where the [[Resourceful Recluse]] houses, the Manatee with the purple markings and harness (from the previous Quest) lies unmoving. As the player nears the gates, the Stern Shepherd bravely steps in to distract the guards so the two can slip inside.
+
+Within the Temple lie dozens of wounded villagers, hiding and waiting for help. Red lightning strikes outside, shaking the ground heavily. Now in safety, the Stern Shepherd reunites with the Manatee and the player, bringing the Quest to an emotional and tragic end. The meditation circle by the [[Vault Elder's Lantern]] can be used to return to the [[Sky Cinema]].
+<br><br>
+{{#ev:youtube|RUWN8J5-gQ0|300px||Quest 3 Video Guide}}
+
+===<span id="Quest 4">Quest #4</span>===
+In the fourth Quest, the player helps managing the situation inside the [[The Last City#Temple|Temple]] after citizens fled inside.
+The Guards enter the Temple after ensuring all the villagers have taken shelter inside. Standing firmly at the entrance, they prepare to face the looming threat. From within the safety of the Temple, the distant rumble of thunder echoes alongside the screeches of [[Dark Dragons]] as their invasion of the [[The Last City|Last City]] continues.
+
+Among the Guards, the [[Scarred Sentry]] is frozen with fear. In a haunting black-and-white memory, they relive the horrors that just unfolded before their eyes. Overwhelmed, they collapse in a corner, curling into themself and unable to move.
+
+Players are then tasked with '''{{Icon|Grab-Ray.png}} retrieving supplies from the bag''' beside the Scarred Sentry to aid the villagers. Calling out will identify those in need by a blue star, which the player must deliver the items to. After a few rounds of assistance, the player is able to {{Emote|Ushering Stargazer}} encourage the Scarred Sentry to get back up and help gather supplies for others.
+
+Suddenly, [[Dark Crabs]] burst through a barricaded crack in the Temple's wall, flooding the area. The player tries to push a massive boulder to block the breach, but it is too heavy. Upon asking the Scarred Sentry for their assistance, they initially refuse, but with some {{Emote|Prophet of Water}} encouragement, they agree.
+
+Chaos erupts as the Crabs chase fleeing villagers. Once again, the Scarred Sentry hesitates, unable to act. As players rush to help, the [[Manatee]] gets cornered by the swarm. While the player tries to save the creature, a Dark Crab knocks the player down. The Scarred Sentry watches helplessly, until something shifts. In a sudden surge of resolve, they call out, urging players to '''throw them their shield.''' Catching it mid-air, the Sentry charges forward and strikes down the Crabs with a powerful blow.
+
+But the danger isn’t over, as villagers remain under attack. Working together, the player and the Scarred Sentry press on. As they approach those in peril, the Sentry’s shield radiates a protective force, knocking the Dark Crabs back and shielding the villagers. Together, they must '''find all villagers in peril''' until all Crabs have been knocked out.
+
+After the final wave has been defeated, the Manatee shares a quiet moment of connection with the Scarred Sentry, which carefully kneels down to the creature. Then, the Temple’s main gates creak open, revealing a huge [[Dark Dragon]] slowly nearing above people's heads. Guards and villagers rally together, joined by the Scarred Sentry, prepared to face what lies ahead. Behind them, the Manatee and the player remain, collapsing from exhaustion in the face of the inevitable.
+
+As the Quest concludes, players awaken inside the present-day [[Golden Wasteland#Temple|Golden Wasteland Temple]]; its walls silent witness to the echoes of the past.
+<br><br>
+{{#ev:youtube|PLok6Kd6QrA|300px||Quest 4 Video Guide}}
+
+===<span id="Quest 5">Quest #5</span>===
+In the fifth and final Quest, the [[Vault Elder]] takes the player on a journey through Spirits' memories, reliving all the previous events of the Season. Standing at the top of a staircase in [[Vault of Knowledge]], the Vault Elder awaits the player. Upon meeting, they express a greeting in a praying motion and take the player to the right, in front of a tall shelf, full of memory lanterns. Again, they initiate the praying motion, which summons a particular lantern off the shelf and down to the Elder: the [[Vault Elder's Lantern]]. Gently, the Elder places a benevolent hand upon the player’s forehead, transferring a distant memory from the Lantern.
+
+A faimilar vision unfolds through four memory fragments, reenacting the events of the [[#Quest #1|first Quest]].
+A young Spirit is seen carrying bags for the [[Tender Toymaker]], assisting in selling their merchandise, witnessing the joyful reunion of two [[Manatees]], and calming the [[Caring Companion]] with a reassuring hand.
+
+The scene shifts to the next vision, recalling the [[#Quest #2|second Quest]] through three memory fragments.
+Here, the young spirit helps the [[Resourceful Recluse]] flourish their stall by retrieving seeds from a hidden [[The Last City#Underground Refuge|Underground Refuge]]. The final fragment shows the Manatee with the harness at the Recluse’s side.
+
+The third vision unfolds the events of the [[#Quest #3|third Quest]], through four memory fragments. Together with the young Spirit, the Stern Shepherd flees from an imminent [[Dark Dragon]] attack. In the final moment, the young Spirit frees a captive Manatee from a locked cage, while the Shepherd distracts the guards to ensure their escape.
+
+The final vision takes shape through four fragments depcting the [[#Quest #4|fourth Quest]]. The young Spirit stands beside the [[Scarred Sentry]], helping them regain their courage to defend the villagers and the Manatee from a swarm of [[Dark Crabs]]. The last scene reveals the villagers and guards united in solidarity as a Dark Dragon attempts to breach the Temple.
+
+The truth becomes clear at this point, that these were not mere visions, but the very footsteps of the Orphan. With each fragment, players have been reliving the Orphan’s own acts of kindness, courage, and resolve, walking their path as if it were their own.
+
+The Vault Elder stands before four gravestones, as the player walks up from behind. Initiated by a prayer, a staircase is summoned, inviting the player to place the Lantern back on the shelf to its place among the many others, preserving its memories. As it takes its place upon the shelf, the player stands in silence, surrounded by the memories of the four Spirits—artisans who once shaped the Realms into what they are today. 
+
+With the completion of this Quest, the player may use the Vault Elder's Lantern to bring them back to [[The Last City]], where the [[Caring Companion#Memory|Caring Companion's memory]] can be relived. The Last City can now permanently be accessed through the new staircase on the Vault's [[Vault of Knowledge#First Floor|First Floor]], and the {{Spirit Item|Elder's Lantern|prop_a|label=Two Embers Poster|inline_text}} is now permanently available for purchase from the [[Vault Elder's Lantern]]'s Quest Tree.
+<br><br>
+{{#ev:youtube|h7UwL-ArUI8|300px||Quest 5 Video Guide}}
+
+==Spirits & Cosmetics==
+All of the ''Season of the Two Embers'' Spirits can be found in The Last City area in Vault. There are 1 new Stance and 1 new Call to gather - 5 Spirits overall.
+{{#tag:gallery
+|{{Icon Name|Scarred Sentry}} {{!}} {{Icon Name|Scarred Sentry|emote_name}}
+{{Icon Name|Stern Shepherd}} {{!}} {{Icon Name|Stern Shepherd|emote_name}}
+|widths=100|spacing=small|captionalign=center|mode=nolines}}
+
+===All Season of the Two Embers Part 1 Friendship Trees===
+{{Mobile Tabber
+|tab1 = {{Season Icon|Season of the Two Embers Part 1|tab}}
+|c1   = {{#lst:Vault Elder's Lantern|Friendship Tree}}
+|tab2 = {{Icon|Quest-icon.png|link=Quests|tab}}
+|c2   = {{#lst:Vault Elder's Lantern|Quest Tree}}
+|tab3 = {{Emote|Tender Toymaker|tab}}
+|c3   = {{#lst:Tender Toymaker|Season Friendship Tree}}
+|tab4 = {{Emote|Resourceful Recluse|tab}}
+|c4   = {{#lst:Resourceful Recluse|Season Friendship Tree}}
+|tab5 = {{Emote|Stern Shepherd|tab}}
+|c5   = {{#lst:Stern Shepherd|Season Friendship Tree}}
+|tab6 = {{Emote|Scarred Sentry|tab}}
+|c6   = {{#lst:Scarred Sentry|Season Friendship Tree}}
+|tab7 = {{Emote|Caring Companion|tab}}
+|c7   = {{#lst:Caring Companion|Season Friendship Tree}}
+}}
+
+===[[Tender Toymaker]]===
+{{#lst:Tender Toymaker|Summary}}
+{{#tag:gallery
+|{{Icon Name|Tender Toymaker|hair|real}} {{!}} The Hair
+{{Icon Name|Tender Toymaker|outfit|real}} {{!}} The Outfit
+{{Icon Name|Tender Toymaker|prop_c|real}} {{!}} {{Icon Name|Tender Toymaker|prop_c_name}} Prop
+{{Icon Name|Tender Toymaker|prop_m|real}} {{!}} {{Icon Name|Tender Toymaker|prop_m_name}} Prop
+|widths=125|spacing=small|captionalign=center|mode=nolines}}
+
+===[[Resourceful Recluse]]===
+{{#lst:Resourceful Recluse|Summary}}
+{{#tag:gallery
+|{{Icon Name|Resourceful Recluse|mask|real}} {{!}} The Mask
+{{Icon Name|Resourceful Recluse|outfit|real}} {{!}} The Outfit
+{{Icon Name|Resourceful Recluse|prop_t|real}} {{!}} {{Icon Name|Resourceful Recluse|prop_t_name}} Prop
+{{Icon Name|Resourceful Recluse|prop_p|real}} {{!}} {{Icon Name|Resourceful Recluse|prop_p_name}} Prop
+|widths=125|spacing=small|captionalign=center|mode=nolines}}
+
+===[[Stern Shepherd]]===
+{{#lst:Stern Shepherd|Summary}}
+{{#tag:gallery
+|{{Icon Name|Stern Shepherd|hair|real}} {{!}} The Hair
+{{Icon Name|Stern Shepherd|mask|real}} {{!}} The Mask
+{{Icon Name|Stern Shepherd|outfit|real}} {{!}} The Outfit
+{{Icon Name|Stern Shepherd|prop|real}} {{!}} {{Icon Name|Stern Shepherd|prop_name}} Prop
+|widths=125|spacing=small|captionalign=center|mode=nolines}}
+
+===[[Scarred Sentry]]===
+{{#lst:Scarred Sentry|Summary}}
+{{#tag:gallery
+|{{Icon Name|Scarred Sentry|cape|real}} {{!}} The Cape
+{{Icon Name|Scarred Sentry|hair_c|real}} {{!}} The Hair 
+{{Icon Name|Scarred Sentry|hair_p|real}} {{!}} The Hair 
+{{Icon Name|Scarred Sentry|outfit|real}} {{!}} The Outfit
+{{Icon Name|Scarred Sentry|shoes|real}} {{!}} The Shoes
+{{Icon Name|Scarred Sentry|prop_c|real}} {{!}} {{Icon Name|Scarred Sentry|prop_c_name}} Prop
+{{Icon Name|Scarred Sentry|prop_s|real}} {{!}} {{Icon Name|Scarred Sentry|prop_s_name}} Prop
+|widths=125|spacing=small|captionalign=center|mode=nolines}}
+
+===[[Caring Companion]]===
+{{#lst:Caring Companion|Summary}} 
+{{#tag:gallery
+|{{Icon Name|Caring Companion|prop|real}} {{!}} {{Icon Name|Caring Companion|prop_name}} Prop
+|widths=125|spacing=small|captionalign=center|mode=nolines}}
+
+===[[Vault Elder's Lantern|Vault Elder's Lantern Ultimate Guide]]===
+{{#lst:Vault Elder's Lantern|Summary}}
+{{#tag:gallery
+|{{Icon Name|Vault Elder's Lantern|necklace_u|real}} {{!}} Vault Elder's Lantern Ultimate Guide Necklace
+{{Icon Name|Vault Elder's Lantern|hairpiece_u|real}} {{!}} Vault Elder's Lantern Ultimate Guide Hair Accessory
+{{Icon Name|Vault Elder's Lantern|cape_u|real}} {{!}} Vault Elder's Lantern Ultimate Guide Cape
+|widths=125|spacing=small|captionalign=center|mode=nolines}}
+
+====Additional Cosmetics====
+Upon completing the [[#Quest#5|fifth Quest]] from the Season of The Two Embers - Part 1, one additional collectible is available to be collected for {{Cost|27 C}} [[Currency#Candles|regular Candles]] through the Vault Elder's Lantern's [[Vault Elder's Lantern#Quest Tree|Quest Tree]]. No [[Season Pass]] or other [[IAP]] purchase are necessary for this collaboration item. 
+{{#tag:gallery
+|{{Icon Name|Elder's Lantern|prop_a|real}} {{!}} {{Icon Name|Elder's Lantern|prop_a_name}} 
+|widths=125|spacing=small|captionalign=center|mode=nolines}}
+
+==Premium Packs (In-App Purchases)==
+Some themed items were available outside of the Seasonal Spirit Constellations, from three mannequins at the Sky Cinema for the duration of the Season. They were released at different times throughout the Season. All Seasonal IAPs offered for the Two Embers collaboration were available until the Season ended on '''October 5, 2025 at 23:59 PDT (UTC -7).'''
+
+Please note that since all these items are part of a limited collaboration, they will not be available once the Season is over and are not scheduled to return in future years. <small>(Prices below are in USD, with actual costs varying depending on region/currency.)</small>
+
+Spells of each IAP item could be found for free, at the Popcorn Machine in the [[Sky Anniversary#Sky Cinema|Sky Cinema]].
+
+===Butterfly Blossom Memento===
+::'''''"An echo is all that remains of this sweet memory."'''''
+The Butterfly Blossom Memento is a glowing blue accessory consisting of a butterfly perched atop a flower with small glowing dots float around it. This [[Hair Accessory]] was introduced as a '''limited-time offer''' in 2025 and became available with the arrival of the Season of The Two Embers - Part 1 on '''Jul 21, 2025''' for {{USD|2.99|refnote}} from the dark mannequin to the right of the closet at the [[Sky Anniversary#Sky Cinema|Sky Cinema]] for the duration of the Season. <small>(Since this item is part of a limited collaboration, it is not scheduled to return in future years.)</small><br><br>
+{{#tag:gallery
+|Butterfly-Blossom-Memento-IAP.png {{!}} {{Icon Name|Elder's Lantern|hairpiece_b_name}} IAP
+{{Icon Name|Elder's Lantern|hairpiece_b}} {{!}} {{Icon Name|Elder's Lantern|hairpiece_b_name}} icon
+{{Icon Name|Elder's Lantern|hairpiece_b|real}} {{!}} {{Icon Name|Elder's Lantern|hairpiece_b_name}} 
+{{Icon Name|Elder's Lantern|hairpiece_b|side}} {{!}} {{Icon Name|Elder's Lantern|hairpiece_b_name}} side
+Butterfly-Blossom-Memento-Hairpiece-spell.png {{!}} {{Icon Name|Elder's Lantern|hairpiece_b_name}} Spell
+|widths=125|spacing=small|captionalign=center|mode=nolines}}
+
+===Mini Manatee Accessory===
+::'''''"A tiny companion, perched and ready to face all that lies before you."'''''
+The Mini Manatee Accessory is a small [[Manatee]] figure resting atop the player's head. This [[Hair Accessory]] was introduced as a '''limited-time offer''' in 2025 and became available with the arrival of the Season of The Two Embers - Part 1 on '''Jul 21, 2025''' for {{USD|3.99|refnote}} from the dark mannequin to the right of the closet at the [[Sky Anniversary#Sky Cinema|Sky Cinema]] for the duration of the Season. <small>(Since this item is part of a limited collaboration, it is not scheduled to return in future years.)</small><br><br>
+{{#tag:gallery
+|Mini-Manatee-Accessory-IAP.png {{!}} {{Icon Name|Elder's Lantern|hairpiece_m_name}} IAP
+{{Icon Name|Elder's Lantern|hairpiece_m}} {{!}} {{Icon Name|Elder's Lantern|hairpiece_m_name}} icon
+{{Icon Name|Elder's Lantern|hairpiece_m|real}} {{!}} {{Icon Name|Elder's Lantern|hairpiece_m_name}} 
+Mini-Manatee-Hairpiece-spell.png {{!}} {{Icon Name|Elder's Lantern|hairpiece_m_name}} Spell
+|widths=125|spacing=small|captionalign=center|mode=nolines}}
+
+===Cloak of Darkness===
+::'''''"As the Darkness draws near, it envelopes the Light within.."'''''
+The Cloak of Darkness is black and ragged, the bottom is wispy and torn with a dark blue gradient, and the interior fades from black to red and deep blue. This [[Cape]] was introduced as a '''limited-time offer''' in 2025 and became available with the arrival of the Season of The Two Embers - Part 1 on '''Jul 21, 2025''' for {{USD|14.99|refnote}} from the dark mannequin to the right of the closet at the [[Sky Anniversary#Sky Cinema|Sky Cinema]] for the duration of the Season. <small>(Since this item is part of a limited collaboration, it is not scheduled to return in future years.)</small><br><br>
+{{#tag:gallery
+|Cloak-of-Darkness-IAP.png {{!}} {{Icon Name|Elder's Lantern|cape_d_name}} IAP
+{{Icon Name|Elder's Lantern|cape_d}} {{!}} {{Icon Name|Elder's Lantern|cape_d_name}} icon
+{{Icon Name|Elder's Lantern|cape_d|front}} {{!}} {{Icon Name|Elder's Lantern|cape_d_name}} front
+{{Icon Name|Elder's Lantern|cape_d|interior}} {{!}} {{Icon Name|Elder's Lantern|cape_d_name}} interior
+{{Icon Name|Elder's Lantern|cape_d|back}} {{!}} {{Icon Name|Elder's Lantern|cape_d_name}} back
+{{Icon Name|Elder's Lantern|cape_d|exterior}} {{!}} {{Icon Name|Elder's Lantern|cape_d_name}} exterior
+Cloak-of-Darkness-Cape-spell.png {{!}} {{Icon Name|Elder's Lantern|cape_d_name}} Spell
+|widths=125|spacing=small|captionalign=center|mode=nolines}}
+
+===Manatee Plush===
+::'''''"A cuddly companion for all the adventures ahead."'''''
+This item is a plush shaped like a [[Manatee]]. It is a placable Prop that can be used to decorate [[Shared Spaces]]. After placing the Prop, it can be picked up, held, and hugged by any player, which produces a squeaking sound; additionally, it can be thrown into the air by [[Deep Call|Deep Calling]] <ref> On May 31, 2023, an update was released that let players interact with plushies in form of hugs and more. (See under section "More Updates") [https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/faq/1117-patch-notes---may-31-2023---0-21-5-220352-android-huawei-ios-220790-playstation-220045-switch/]</ref>. If another player is holding the Prop, it can still be placed back on the owner's back by selecting its icon in the [[Menus and Controls#Expression Menu|Wing Menu]]. When carried on its owner's back, the Prop appears in its original form.<!-- Description by Oz--><br><br>
+This [[Prop]] was introduced as a '''limited-time offer''' in 2025 and became available with the arrival of the [[#Quest #2|second Quest]] on '''Jul 28, 2025''' for {{USD|6.99|refnote}} from the Manatee mannequin to the left of the closet at the [[Sky Anniversary#Sky Cinema|Sky Cinema]] for the duration of the Season. <small>(Since this item is part of a limited collaboration, it is not scheduled to return in future years.)</small><br><br>
+{{#tag:gallery
+|Manatee-Plush-Prop-IAP.png {{!}} {{Icon Name|Elder's Lantern|prop_p_name}} IAP
+{{Icon Name|Elder's Lantern|prop_p}} {{!}} {{Icon Name|Elder's Lantern|prop_p_name}} icon
+{{Icon Name|Elder's Lantern|prop_p|real}} {{!}} {{Icon Name|Elder's Lantern|prop_p_name}}
+{{Icon Name|Elder's Lantern|prop_p|held}} {{!}} Using the {{Icon Name|Elder's Lantern|prop_p_name}}
+{{Icon Name|Elder's Lantern|prop_p|back}} {{!}} {{Icon Name|Elder's Lantern|prop_p_name}} on a player's back
+Manatee-Plush-Prop-spell.png {{!}} {{Icon Name|Elder's Lantern|prop_p_name}} Spell
+|widths=125|spacing=small|captionalign=center|mode=nolines}}
+
+===Spirited Manatee Ensemble===
+::'''''"Embody a manatee's playful charm with this tail and accessory set"'''''
+The Spirited Manatee Ensemble contains two items: the Spirited Manatee Ears and the Spirited Manatee Tail. The Spirited Manatee Ears are a [[Head Accessory]] that consist of a pair of protruding, droopy ears, themed after a [[Manatee]], white with yellow tips. The Spirited Manatee Tail is a [[Neck Accessory]]—a short tail shaped like a Manatee's. <!-- Description by Oz-->
+
+This ensemble was introduced as a '''limited-time offer''' in 2025 and became available with the arrival of the [[#Quest #2|second Quest]] on '''Jul 28, 2025''' for {{USD|9.99|refnote}} from the Manatee mannequin to the left of the closet at the [[Sky Anniversary#Sky Cinema|Sky Cinema]] for the duration of the Season. <small>(Since these are part of a limited collaboration, they are not scheduled to return in future years.)</small><br><br> 
+{{#tag:gallery
+|Spirited-Manatee-Ensemble-IAP.png {{!}} Spirited Manatee Ensemble IAP
+{{Icon Name|Elder's Lantern|headpiece_s}} {{!}} {{Icon Name|Elder's Lantern|headpiece_s_name}} icon
+{{Icon Name|Elder's Lantern|headpiece_s|real}} {{!}} {{Icon Name|Elder's Lantern|headpiece_s_name}}
+Spirited-Manatee-Head-accessory-spell.png {{!}} {{Icon Name|Elder's Lantern|headpiece_s_name}} Spell
+{{Icon Name|Elder's Lantern|neckpiece_s}} {{!}} {{Icon Name|Elder's Lantern|neckpiece_s_name}} icon
+{{Icon Name|Elder's Lantern|neckpiece_s|real}} {{!}} {{Icon Name|Elder's Lantern|neckpiece_s_name}} 
+Spirited-Manatee-Tail-spell.png {{!}} {{Icon Name|Elder's Lantern|neckpiece_s_name}} Spell
+|widths=125|spacing=small|captionalign=center|mode=nolines}}
+
+===Vestige of Dark Dragons===
+::'''''"Your menacing appearance compels others to flee your gaze."'''''
+The Vestige of Dark Dragons contains two items: the Vestige of Dark Dragons Horns and the Vestige of Dark Dragons Tail. The Vestige of Dark Dragons Horns are a [[Head Accessory]] that consist of a pair of black [[Dark Dragon]]-themed horns. They are have black scales and curve from the top of the head towards the player's face. The Vestige of Dark Dragons Tail is shaped like a Dark Dragon's tail—black with scale-like layers and curved away from the legs. <!-- Description by Oz -->
+
+This pack was introduced as a '''limited-time offer''' in 2025 and became available with the arrival of the [[#Quest #3|third Quest]] on '''Aug 4, 2025''' for {{USD|11.99|refnote}} from the Dark Dragon mannequin opposite of the closet at the [[Sky Anniversary#Sky Cinema|Sky Cinema]] for the duration of the Season. <small>(Since these are part of a limited collaboration, they are not scheduled to return in future years.)</small><br><br> 
+{{#tag:gallery
+|{{Icon Name|Vault Elder's Lantern|headpiece_v_iap}} {{!}} {{Icon Name|Vault Elder's Lantern|headpiece_v_name}} IAP
+{{Icon Name|Vault Elder's Lantern|headpiece_v}} {{!}} {{Icon Name|Vault Elder's Lantern|headpiece_v_name}} icon
+{{Icon Name|Vault Elder's Lantern|headpiece_v|real}} {{!}} {{Icon Name|Vault Elder's Lantern|headpiece_v_name}} front
+{{Icon Name|Vault Elder's Lantern|headpiece_v|side}} {{!}} {{Icon Name|Vault Elder's Lantern|headpiece_v_name}} side
+{{Icon Name|Vault Elder's Lantern|headpiece_v_spell}} {{!}} {{Icon Name|Vault Elder's Lantern|headpiece_v_name}} Spell
+{{Icon Name|Vault Elder's Lantern|neckpiece_v}} {{!}} {{Icon Name|Vault Elder's Lantern|neckpiece_v_name}} icon
+{{Icon Name|Vault Elder's Lantern|neckpiece_v|real}} {{!}} {{Icon Name|Vault Elder's Lantern|neckpiece_v_name}}
+{{Icon Name|Vault Elder's Lantern|neckpiece_v_spell}} {{!}} {{Icon Name|Vault Elder's Lantern|neckpiece_v_name}} Spell
+|widths=125|spacing=small|captionalign=center|mode=nolines}}
+
+===Projector of Memories===
+::'''''"Relive the heartfelt journey of an  orphaned child navigating a world unraveling under Darkness - from any Shared Space"'''''
+The Projector of Memories Prop is a cluster of floating white stars, consisting of little stars orbiting a large star. It allows the owner and any nearby player to watch chapters from [[Two Embers|Sky: The Two Embers - Part 1]], plus a creator commentary and concept art showcase, anywhere in the Realms.  
+The Projector video plays on a scheduled loop that repeats every 80 minutes, starting at 00:00 PDT (UTC-7).
+
+The Projector can be used by placing it on any solid surface, just like most other Props. Once the player stands close to it, the play button will show up. Selecting the button projects a wide screen into the sky, and the chosen animation begins. When carried by its owner, it appears as a large four-pointed star floating in front of the avatar, with sparkles swirling around their body.
+
+This [[Prop]] was introduced on '''Sept 6, 2025''' and is '''permanently''' available for {{USD|24.99|refnote}} from the mannequin wearing it, opposite of the closet at the [[Sky Cinema]].
+
+<small>Note: The Projector video is not visible while playing on Switch, Harmony OS on Huawei, and Android 8 devices.  </small><br><br>
+{{#tag:gallery
+|{{Icon Name|Vault Elder's Lantern|prop_m_iap}}{{!}} {{Icon Name|Vault Elder's Lantern|prop_m_name}} IAP
+{{Icon Name|Vault Elder's Lantern|prop_m}} {{!}} {{Icon Name|Vault Elder's Lantern|prop_m_name}} icon
+{{Icon Name|Vault Elder's Lantern|prop_m_real}} {{!}} {{Icon Name|Vault Elder's Lantern|prop_m_name}}
+{{Icon Name|Vault Elder's Lantern|prop_m_using}} {{!}} Using the {{Icon Name|Vault Elder's Lantern|prop_m_name}}
+{{Icon Name|Vault Elder's Lantern|prop_m_back}} {{!}} {{Icon Name|Vault Elder's Lantern|prop_m_name}} on a player
+{{Icon Name|Vault Elder's Lantern|prop_m_spell}} {{!}} {{Icon Name|Vault Elder's Lantern|prop_m_name}} Spell
+|widths=125|spacing=small|captionalign=center|mode=nolines}}
+
+==Price Charts==
+Use the [[Seasonal Events/Calculator|Event Calculator]] to verify the status of your Candle count.
+{| class="article-table"
+! Spirits
+! colspan="6" | Candle Cost
+! Total Seasonal Candles
+|-
+|Tender Toymaker
+|{{#vardefineecho:A1| 8 }}
+|{{#vardefineecho:A2| 14 }}
+|{{#vardefineecho:A3| 22 }}
+|{{#vardefineecho:A4| 28 }}
+|{{#vardefineecho:A5|  }}
+|3*
+|{{Cost| {{#vardefineecho:Asum| {{#expr: {{#var:A1}} + {{#var:A2}} + {{#var:A3}} + {{#var:A4}} + {{#var:A5}} + 3 }} }} SC|season=The Two Embers - Part 1}}
+|-
+|Resourceful Recluse
+|{{#vardefineecho:B1| 12 }}
+|{{#vardefineecho:B2| 18 }}
+|{{#vardefineecho:B3| 24 }}
+|{{#vardefineecho:B4| 30 }}
+|{{#vardefineecho:B5|  }}
+|3*
+|{{Cost| {{#vardefineecho:Bsum| {{#expr: {{#var:B1}} + {{#var:B2}} + {{#var:B3}} + {{#var:B4}} + {{#var:B5}} + 3 }} }} SC|season=The Two Embers - Part 1}}
+|-
+|Stern Shepard
+|{{#vardefineecho:C1| 12 }}
+|{{#vardefineecho:C2| 18 }}
+|{{#vardefineecho:C3| 24 }}
+|{{#vardefineecho:C4| 30 }}
+|{{#vardefineecho:C5|  }}
+|3*
+|{{Cost| {{#vardefineecho:Csum| {{#expr: {{#var:C1}} + {{#var:C2}} + {{#var:C3}} + {{#var:C4}} + {{#var:C5}} + 3 }} }} SC|season=The Two Embers - Part 1}}
+|-
+|Scarred Sentry
+|{{#vardefineecho:D1| 10 }}
+|{{#vardefineecho:D2| 16 }}
+|{{#vardefineecho:D3| 22 }}
+|{{#vardefineecho:D4| 28 }}
+|{{#vardefineecho:D5| 34 }}
+|3*
+|{{Cost| {{#vardefineecho:Dsum| {{#expr: {{#var:D1}} + {{#var:D2}} + {{#var:D3}} + {{#var:D4}} + {{#var:D5}} + 3 }} }} SC|season=The Two Embers - Part 1}}
+<!--
+|-
+|Caring Companion
+|{{#vardefineecho:E1|  }}
+|{{#vardefineecho:E2|  }}
+|{{#vardefineecho:E3|  }}
+|{{#vardefineecho:E4|  }}
+|{{#vardefineecho:E5|  }}
+|3*
+|{{Cost| {{#vardefineecho:Esum| {{#expr: {{#var:E1}} + {{#var:E2}} + {{#var:E3}} + {{#var:E4}} + {{#var:E5}} + 3 }} }} SC|season=The Two Embers - Part 1}}
+-->
+|-
+! colspan="7" | Total for Season
+! {{Cost| {{#expr: {{#var:Asum}} + {{#var:Bsum}} + {{#var:Csum}} + {{#var:Dsum}} <!--+ {{#var:Esum}}-->}} SC|season=The Two Embers - Part 1}}
+|}<small>''* Only available with [[Season Pass]] (Seasonal Hearts) (subtract when calculating without)''</small>
+
+==Video Gallery==
+{{#ev:youtube|OT-YPhrGXzs|300|inline|Season of The Two Embers - Part 1 Teaser}}
+
+==Image Gallery==
+<gallery widths="175" spacing="small" captionalign="center">
+SoTwo-Embers-Teaser-image.png
+Two-Embers-1-Promo-Image-1.png
+Two-Embers-1-Promo-Image-2.png
+Two-Embers-1-Promo-Image-3.png
+Two-Embers-1-Promo-Image-4.png
+Two-Embers-1-Promo-Image-5.png
+Two-Embers-1-Promo-Image-6.png
+SoTwo-Embers-Concept-Art-1.jpg|Promo Art
+SoTwo-Embers-Concept-Art-2.jpg|Promo Art
+SoTwo-Embers-Concept-Art-3.jpg|Promo Art
+SoTwo-Embers-Concept-Art-4.png|Promo Art
+</gallery>
+
+==References==
+https://www.thatskygame.com/news/experience-sky-s-origin-story-with-season-of-the-two-embers-part-1<br>
+<references />
+
+==Credits==
+Special thanks to {{Userlinks|Ozotronic}} for the cosmetic descriptions and {{Userlinks|ことえり}} for some item screenshots. Credits are mentioned on their respective images.<br><br>
+
+{{Seasonal Navbox}}
+
+[[pt-br:Temporada das Duas Fagulhas - Parte 1]]
+[[ja:ふたつの灯火の季節 −前篇−]]
+[[zh:雙星季: 暮星篇]]
+[[fr:Saison des Deux Braises - Partie 1]]
+
+[[Category:Seasons]]
+[[Category:Collaborations]]

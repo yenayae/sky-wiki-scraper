@@ -1,0 +1,176 @@
+{{Spirit Infobox
+|type      = Non
+|image     = Shattering-Ancient_Light.png
+|emote_type= None
+|cosmetics = {{Spirit Item||Outfit|infobox}}{{Spirit Item||Hair_j|infobox}}{{Spirit Item||Hair_m|infobox}}{{Spirit Item||Hairpiece|infobox}}{{Spirit Item||Cape_j|infobox}}{{Spirit Item||Cape_m|infobox}}
+|music     = {{Music Sheet|31|infobox}}
+|season    = Shattering
+|location  = The Void of Shattering
+|ts        = September 16, 2024 (SV#6)
+}}
+<section begin="overview" />
+The '''[[Ancient Light]]''' (or '''Ancient Memories of Light''') is a [[Ancestors#Seasonal Entities|Seasonal Entity]] from the [[Season of Shattering]]. The Ancient Light was accessed through the Jellyfish, Manta, and Butterfly structure in the [[Void of Shattering]] which was available exclusively during the Season of Shattering. Unlike typical [[Seasonal Spirits]], there is no need to first relive a [[Spirit Memories|spirit memory]] to access this Entity and it does not offer an [[Expression]]. The collectibles [[Ancient Light#Friendship Trees|offered]] by this entity are an {{Spirit Item|Ancient Light|outfit|inline_text}}, two [[Ancient Light#Hairstyles|Hairstyles]] (a {{Spirit Item|Ancient Light|hair_j|label=Jellyfish Hair|inline_text}} and a {{Spirit Item|Ancient Light|hair_m|label=Manta Hair|inline_text}}), a {{Spirit Item|Ancient Light|Hairpiece|inline_text}}, two [[Ancient Light#Capes|Capes]] (a {{Spirit Item|Ancient Light|cape_j|label=Jellyfish Cape|inline_text}} and a {{Spirit Item|Ancient Light|cape_m|label=Manta Cape|inline_text}}), and {{Music Sheet|31|inline_text}}.<section end="overview" /><br>
+<br>
+[[File:SOShattering-void-light.jpg|none|thumb|320px|The Ancient Light structure]]
+
+== Cosmetics ==
+=== Outfit ===
+The [[Outfit]] offered by this entity includes a straight-cut, knee-length white underdress with yellow triangle accents around the bottom, and a long-sleeved white robe with a trim shaped like Manta wings, dipped in yellow around the edges, costing {{Cost|75 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Manta Friendship Tree's fourth node ({{Cost|97 SC|season=Shattering}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Outfit|icon}} {{!}} The Outfit icon
+{{Icon Name||Outfit|real}} {{!}} The Outfit front
+{{Icon Name||Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Hair">Hairstyles</span>===
+The first [[Hair]] offered by this entity glows and is shaped like a [[Jellyfish#Large/Royal Jellyfish|Royal Jellyfish]], with a big white blob sitting on top of the head as the body, attached to it are four white tentacles with a yellow tip, and a yellow crown that sits on top of the body, costing {{Cost|45 C}} from the Traveling Spirit. It was available to all players during the Season from the Jellyfish Friendship Tree's first node ({{Cost|35 SC|season=Shattering}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair_j|icon}} {{!}} The Hair icon
+{{Icon Name||Hair_j|real}} {{!}} The Hair front
+{{Icon Name||Hair_j|side}} {{!}} The Hair side
+{{Icon Name||Hair_j|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+The second [[Hair]] offered by this entity is shaped like a [[Manta]], with two wing-like hair sections tipped with yellow at the end, a golden piece with a white dot resembling the snout of a Manta, as well as a big braid in the back tipped with yellow at the end, resembling a Manta's tail, costing {{Cost|50 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Manta Friendship Tree's second node ({{Cost|43 SC|season=Shattering}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair_m|icon}} {{!}} The Hair icon
+{{Icon Name||Hair_m|real}} {{!}} The Hair
+{{Icon Name||Hair_m|side}} {{!}} The Hair side
+{{Icon Name||Hair_m|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== <span id="Hairpiece">Hair Accessory</span> ===
+The [[Hair Accessory]] offered by this entity is a pale yellow butterfly that rests towards the top side of the player's head, costing {{Cost|50 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Jellyfish Friendship Tree's second node ({{Cost|51 SC|season=shattering}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hairpiece|icon}} {{!}} The Hair Accessory icon
+{{Icon Name||Hairpiece|real}} {{!}} The Hair Accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Cape">Capes</span>===
+
+==== Jellyfish Cape ====
+The first [[Cape]] offered by this entity is shaped like a [[Jellyfish]], poofy and white with a yellow, zig-zag crown-like pattern around the neckline and several short tentacles tipped with yellow, costing {{Cost|80 C}} from the Traveling Spirit. It was available to all players during the Season from the Jellyfish Friendship Tree's third node ({{Cost|93 SC|season=shattering}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape_j|icon}} {{!}} The Cape icon
+{{Icon Name||Cape_j|front}} {{!}} The Cape front
+{{Icon Name||Cape_j|interior}} {{!}} The Cape interior
+{{Icon Name||Cape_j|back}} {{!}} The Cape back
+{{Icon Name||Cape_j|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+==== Manta Cape ====
+The second [[Cape]] offered by this entity is shaped like a [[Mantas#Gallery|Small Manta]], resembling the ones found near the large bells monument at [[Sanctuary Islands]], short and white with the tail end barely tipped yellow, costing {{Cost|80 C}} from the Traveling Spirit. It was available to all players during the Season, from the Manta Friendship Tree's third node ({{Cost|78 SC|season=Shattering}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape_m|icon}} {{!}} The Cape icon
+{{Icon Name||Cape_m|front}} {{!}} The Cape front
+{{Icon Name||Cape_m|interior}} {{!}} The Cape interior
+{{Icon Name||Cape_m|back}} {{!}} The Cape back
+{{Icon Name||Cape_m|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Music Sheet ==
+The Ancient Light offers {{Music Sheet|31}} [[Music Sheet]] #31, costing {{Cost|15 C}} from the Traveling Spirit. It was available to all players during the Season from the Manta Friendship Tree's first node ({{Cost|27 SC|season=shattering}} total). It is a song in the key of C major.<br>
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guide
+|content=
+{{#ev:youtube|KqaTXwjs3nU||inline|Music Sheet Video Guide by Ikejiji}}
+}}
+
+==Traveling Spirit==
+During the [[Season of Shattering]], there were two separate Friendship Trees for the Ancient Light's [[collectibles]]. At the base of the Ancient Light structure, the '''Jellyfish Tree''' could be found, offering items mostly themed around [[Jellyfish]], hence the informal name. Above was the '''Manta Tree''', offering items themed mostly around [[Mantas]]. Despite differing from Seasonal Spirits, the Shattering entities are confirmed to return in the future <ref>In the  [https://www.reddit.com/r/SkyGame/comments/x85xze/comment/innethr/ Season of Shattering TGC Designer Q&A on Reddit], TGC_Atlas answered the question "How will the 'Spirits' for this season work when it comes to Travelling Spirits? Will they ever return?" with "They will return. It will be a while though. We have a few ideas currently and are still considering what is the best way to re-introduce them in the future."</ref>.
+
+{{Friendship Tree Info | traveling
+|rs_dates=*September 16, 2024 (SV#6)
+}}
+<section begin='TS Friendship Tree' /><section begin='Jellyfish TS Tree' />{{Friendship Tree
+|spirit = Ancient Light
+|label  = [[Ancient Light|Jellyfish Tree]]
+|image  = Shattering-Ancient_Light.png
+|season = Shattering
+|float  = left
+
+|nodeC5 = cape_j 80 C
+|nodeL4 = Hairpiece 50 C
+|nodeC4 = spellx 5 C
+|nodeC3 = wing
+|nodeC2 = spellx 5 C
+|nodeR1 = Heart 3 C
+|nodeL1 = Hair_j 45 C
+|nodeC1 = spellx 5 C
+}}<section end='Jellyfish TS Tree' />
+<section begin="Manta TS Tree" />{{Friendship Tree
+|spirit = Ancient Light
+|label  = [[Ancient Light|Manta Tree]]
+|image  = Shattering-Ancient_Light.png
+|season = Shattering
+|float  = left
+
+|nodeC5 = cape_m 80 C
+|nodeL4 = outfit 75 C
+|nodeC4 = spellx 5 C
+|nodeC3 = wing
+|nodeL2 = hair_m 50 C
+|nodeC2 = spellx 5 C
+|nodeR1 = Heart 3 C
+|nodeL1 = music31 15 C
+|nodeC1 = spellx 5 C
+}}<section end="Manta TS Tree" /><section end='TS Friendship Tree' />
+{{Clear}}
+
+==Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Shattering}}
+<section begin="Jellyfish Tree" />{{Friendship Tree
+|spirit = Ancient Light
+|label  = [[Ancient Light|Jellyfish Tree]]
+|image  = Shattering-Ancient_Light.png
+|season = Shattering
+|float  = left
+
+|nodeC4 = season_heart 3 SC AP
+|nodeL3 = spellX AP
+|nodeC3 = cape_j 42 SC
+|nodeL2 = Hairpiece AP
+|nodeC2 = spellX 16 SC
+|nodeL1 = spellX AP
+|nodeC1 = hair_j 35 SC
+}}<section end="Jellyfish Tree" />
+<section begin="Manta Tree" />{{Friendship Tree
+|spirit = Ancient Light
+|label  = [[Ancient Light|Manta Tree]]
+|image  = Shattering-Ancient_Light.png
+|season = Shattering
+|float  = left
+
+|nodeC5 = season_heart 3 SC AP
+|nodeL4 = outfit AP
+|nodeC4 = spellX 16 SC
+|nodeL3 = spellX AP
+|nodeC3 = cape_m 35 SC
+|nodeL2 = hair_m AP
+|nodeC2 = spellX 16 SC
+|nodeL1 = spellX AP
+|nodeC1 = music31 27 SC
+}}<section end="Manta Tree" />
+{{clear}}
+
+==References==
+<references />
+
+[[de:Uraltes Licht]]
+[[fr:Lumière ancienne]]
+[[pt-br:Luz Antiga]]
+[[ja:万古の光]]

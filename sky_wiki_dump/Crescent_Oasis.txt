@@ -1,0 +1,81 @@
+{{Location
+|image      = Crescent Oasis Main.png
+|realm      = Vault of Knowledge
+|access     = [[Vault of Knowledge#Collaboration Room|Collaboration Room]]
+|season     = Nine-Colored Deer
+|seasonal_spirits  = {{Spirit Group|Nine-Colored Deer|format=infobox}}
+|children_of_light = 3 {{Icon|Map-Shrine-flashing-Star-WL-indicator.png|link=Children of Light#{{{title|{{PAGENAME}}}}}}}
+|pieces_of_light   = 52 {{Cost|L}}
+|map        = Crescent Oasis.jpg
+|mapcaption = Crescent Oasis Map by @sky_solsuga
+}}
+<section begin="Quote" />{{Quote|<br>'''Home of the Nine-Colored Deer.'''|Crescent Oasis Opening}}<section end="Quote" />
+<section begin="Summary" />The '''Crescent Oasis''' is a Seasonal area added to [[Vault of Knowledge]], introduced with the [[Season of the Nine-Colored Deer]] in Update {{v|0.24.0}}. All the Quests, Spirits, and activities can be found in the area. To enter the Crescent Oasis, head to the [[Vault of Knowledge#Collaboration Room|Collaboration Room]] in the Vault of Knowledge - left from where the player spawns once heading into the Vault portal. The doorway is blocked by a Spirit Gate requiring '''one (1)''' [[Regular Spirit]] from Vault to enter. Once inside, sit at the meditation circle in front of a mural of the {{Season Icon|Nine Colored Deer|inline_text|label=Nine-Colored Deer}}. The Crescent Oasis unfolds like a hidden gem amidst the vast, golden expanse of the desert.<section end="Summary" />
+
+==Overview==
+The Crescent Oasis is a picturesque landscape situated within the Painted World. The [[Spirit of Mural]] stands on the edge of the titular Oasis, in front of the [[Murals|Mural]] wall that depicts the story of the [[Season of the Nine-Colored Deer]]. Scattered across the basin are 4 [[Seasonal Spirits]] which upon reliving, will give players their unique [[Expressions]]. The Crescent Oasis is comprised up of five different sections; the Valley which is home to a [[Dark Dragon]] and is infested with [[Darkness]], the Crescent Oasis itself, the Town, the Royal Palace of the [[Feudal Lord]], and the Hidden Glade which is the home of the Nine-Colored Deer. Additionally, there is a [[Map Shrines|Map Shrine]] to be found near some withered trees on the opposite side of the Oasis. 
+
+===Child of Light Locations===
+Three (3) [[Children of Light]] have been added to the [[Crescent Oasis]] area.<br>
+{{#lst:Children of Light|Crescent Oasis Children}}
+
+===Spirits in the Crescent Oasis===
+The Crescent Oasis holds 4 [[Seasonal Spirits]] ({{Spirit|Herb Gatherer|Inline_text}}, {{Spirit|Hunter|Inline_text}}, {{Spirit|Feudal Lord|Inline_text}}, {{Spirit|Princess|Inline_text}}).
+<section begin="SpiritTabber" />{{Mobile Tabber 
+|tab1 = {{Emote|Herb Gatherer|tab}}
+|c1   = <div> {{#ev:youtube|giM6BNMD3_o|400|right}} {{#lst:Herb Gatherer|Summary}} {{#if: {{#lst:Herb Gatherer|TS Friendship Tree}} | {{#lst:Herb Gatherer|TS Friendship Tree}} | {{#lst:Herb Gatherer|Season Friendship Tree}} }} </div>
+|type1= seasonal
+
+|tab2 = {{Emote|Hunter|tab}}
+|c2   = <div> {{#ev:youtube|BxsqFIA5pYs|400|right}} {{#lst:Hunter|Summary}} {{#if: {{#lst:Hunter|TS Friendship Tree}} | {{#lst:Hunter|TS Friendship Tree}} | {{#lst:Hunter|Season Friendship Tree}} }} </div>
+|type2= seasonal
+
+|tab3 = {{Emote|Feudal Lord|tab}}
+|c3   = <div> {{#ev:youtube|94yqho_p9dQ|400|right}} {{#lst:Feudal Lord|Summary}} {{#if: {{#lst:Feudal Lord|TS Friendship Tree}} | {{#lst:Feudal Lord|TS Friendship Tree}} | {{#lst:Feudal Lord|Season Friendship Tree}} }} </div>
+|type3= seasonal
+
+|tab4 = {{Emote|Princess|tab}}
+|c4   = <div> {{#ev:youtube|AUaxZNv_Cec|400|right}} {{#lst:Princess|Summary}} {{#if: {{#lst:Princess|TS Friendship Tree}} | {{#lst:Princess|TS Friendship Tree}} | {{#lst:Princess|Season Friendship Tree}} }} </div>
+|type4= seasonal
+}}<section end="SpiritTabber" />
+<!--
+Potential to add sections for the main areas that make up the Crescent Oasis with descriptions and images, like those seen on the Starlight Desert page. -->
+
+==The Royal Palace==
+[[File:Wax-Crescent-Oasis-City-Mural-Outside.png|thumb|300px|Outside The Royal Palace]]
+{{Quote|<br>'''Heart of the Kingdom.'''|Royal Palace Opening}}
+The Royal Palace is a sub-area located in Crescent Oasis and within the Town. It is comprised of the Outer Wall, the main entrance (with an elevator), the throne room, and a subterranean cavern located behind the throne room. 
+{{clear}}
+
+==Hidden Glade==
+[[File:Chat-Crescent-Oasis-Hidden-Glade.jpg|thumb|300px|Looking towards the Golden Tree inside the Hidden Glade]]The Hidden Glade is hidden among the clouds located behind the Mural wall in the Crescent Oasis. However, the entrance only becomes accessible once players complete the [[Season of the Nine-Colored Deer#Quest #5|fifth Seasonal Quest]] from the [[Season of the Nine-Colored Deer]]. The Hidden Glade is a tranquil little marsh that the Nine-Colored Deer calls home. (The Nine-Colored Deer can only be seen by those who fall into the memory of the [[Season of the Nine-Colored Deer#Radiance of the Nine-Colored Deer|Radiance of the Nine-Colored Deer]] cape). In the center lies the crown jewel of the glade, a magnificent Golden Tree which houses a [[Winged Light]] underneath its boughs. 
+{{Clear}}
+
+==Activities==
+===Nine-Colored Deer Quests===
+<div style="float:right">{{Mobile Tabber|textonly=1
+|tab1 = 1
+|c1   = <div> {{#ev:youtube|abJoDCeUTVs|300|right}} </div>
+<!--|tab2 = 2
+|c2   = <div> {{#ev:youtube||300|right}} </div>
+|tab3 = 3
+|c3   = <div> {{#ev:youtube||300|right}} </div>
+|tab4 = 4
+|c4   = <div> {{#ev:youtube||300|right}} </div>
+|tab5 = 5
+|c5   = <div> {{#ev:youtube||300|right}} </div>-->
+}}</div>
+In the Crescent Oasis, players are able to do Seasonal Quests from [[Season of the Nine-Colored Deer]]. Follow the story of the Nine-Colored Deer and confront the chaos unleashed by a traitor in the Realms and undo the harm they caused.
+{{Clear}}
+
+==Trivia==
+While it was a suspected bug, from Patch {{v|0.24.0}} to Patch {{v|0.24.2}}, the red candle hidden in the underwater tunnel in the Oasis rewarded 200 pieces of light, but after a rebalance patch, it was lowered to 10 pieces of light.
+
+==References==
+<references />
+
+{{RealmsNav}}
+
+[[fr:Oasis du Croissant]]
+[[pt-br:Oásis Crescente]]
+[[de:Sicheloase]]

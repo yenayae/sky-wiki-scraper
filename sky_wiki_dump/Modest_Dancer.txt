@@ -1,0 +1,162 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Action
+|image     = <gallery>
+Performance-Spirit-Modest-Dancer.png|Standard
+Performance-Spirit-Modest-Dancer-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Outfit|infobox}}{{Spirit Item||Mask|infobox}}{{Spirit Item||Hair|infobox}}
+|music     = {{Music Sheet|28}}
+|season    = Performance
+|realm     = Valley of Triumph
+|location  = Village Theater
+|ts        = January 13, 2025 (SV#7)
+}}
+<section begin="Summary" />The '''Modest Dancer''' is a [[Seasonal Spirit]] from the [[Season of Performance]] who offers the {{Emote|Modest Dancer|inline_text}}. The Modest Dancer is found in the [[Village Theater]], behind the second building from the player's immediate right when entering from [[Village of Dreams]]. The collectibles [[#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Modest Dancer|Outfit|inline_text}}, a {{Spirit Item|Modest Dancer|Mask|inline_text}}, a {{Spirit Item|Modest Dancer|Hair|inline_text}}, and the {{Music Sheet|28|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:SOPerformance-Modest-Dancer - spirit reveal.jpg|thumb|320px|none|TGC's Promo image]]
+
+== Memory ==
+<div>
+{{#ev:youtube|rHWtoe56b2g||inline|Video Guide}}
+</div>
+The Modest Dancer can be found in the [[Village Theater]], behind the second building from the player's immediate right when entering from [[Village of Dreams]]. This Spirit has a [[Standard Memory|standard memory]] with 9 memory fragments and a 15-minute overall [[Timed Memory|time limit]]. 
+
+As their memory unfolds, the Modest Dancer can be seen sneaking behind a row of buildings towards a small clearing. They make sure no one is following them, and once they are alone, they are seen performing different dance moves. Suddenly, the [[Forgetful Storyteller]] finds the Modest Dancer and approaches the Dancer to say hello. Startled, the Dancer rushes out of the clearing. The Storyteller follows the Dancer, and takes them by the sleeve to encourage the shy Dancer to continue their routine behind the row of buildings. The two walk back to the clearing, Dancer seeming more reluctant than the Storyteller. The Forgetful Storyteller attempts to get the Dancer to open up, and the two continue the dance routine together.
+
+At the end of the memory, the Modest Dancer puts their hands over each other on their lap and shyly sways from left to right in response to Storyteller's request to dance, and the two Spirits dance as a duet.
+{{Clear}}
+
+== <span id="Expression">Friend Action</span> ==
+''Note: While this Spirit can be found in the Village Theater, the upgrade to the "Duet Dance Action" Friend Action will not be available for those who missed the Season or those who did not purchase the [[Season Pass]] until the Spirit returns as a Traveling Spirit.''
+
+This Spirit offers the {{Emote||inline_text}}, which has 2 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Modest-Dancer-duet-dance-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Modest-Dancer-duet-dance-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+</gallery>
+
+*Level 1 will make your avatar step forward with their right foot and open both arms in front of your friend. When your friend accepts your offer to dance, you will both step from side to side, crossing one foot in front of the other as you do so. Your arms will drift and wave in the direction opposite to where you step, all in time to rhythmic background music.
+*Level 2 will make your avatar step forward with their left foot, lean back slightly, and open both arms in front of your friend. When your friend accepts your offer to dance, you will both step forward with your left foot and kick back with your right foot opposite from one another. When you kick back with your left foot, your friend will step forward with their right, and vice versa. With each step, you will swing your arms from one side to the other. Rhythmic background music also plays during this Level, but has a quicker tempo than the music heard in Level 1.
+
+Like any [[Friendship Menu#Extended Two-Player Abilities|Extended Two-Player Abilities]], this ability can be upgraded by opening your friend's Friendship Menu. To reach the 13th node before the ability, it will cost you {{Cost|57 C}} and {{Cost|16 AC}}. (See [[Friendship Menu]] to view the entire Friendship Tree). Unlocking the Level 1 ability will cost you {{Cost|20 C}}. After unlocking Level 1, it will cost you {{Cost|22 C}} more to upgrade to Level 2.
+
+As a Traveling Spirit, the prices of the Friend Action upgrade was {{Cost|8 H}}. During the Season, Level 1 was free, but Level 2 was only available to [[Season Pass]] holders.
+
+== Cosmetics ==
+=== Outfit ===
+The [[Outfit]] offered by this Spirit includes a red wrap-dress with mid-length sleeves and a multicolored piece of fabric tied around the waist, navy-blue pants, and golden sandals, costing {{Cost|70 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fifth node ({{Cost|78 SC|season=Performance}} total).<br>{{Dye_Details
+|area1=the waist wrap
+|cost1=3
+|area2=the bottom edges of the belt and dress, and the trim along the upper-chest wrap section
+|cost2=1
+}}
+<br>
+{{#tag:gallery
+|{{Icon Name||Outfit|icon}} {{!}} The Outfit icon
+{{Icon Name||Outfit|real}} {{!}} The Outfit front
+{{Icon Name||Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Mask ===
+The [[Mask]] offered by this Spirit is round and light blue with a pointed nose, wide eyes, and a big, decorative, dark blue marking over the top half of the face, costing {{Cost|30 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's third node ({{Cost|22 SC|season=Performance}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+{{Icon Name||Mask|side}} {{!}} The Mask side
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Hair ===
+The [[Hair]] offered by this Spirit is a fitted red hood with an orange border and yellow stitching around it, costing {{Cost|40 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fifth node ({{Cost|78 SC|season=Performance}} total). Note that this item is considered a Hair, not a [[Hair Accessory]], and as such it can not be worn over other Hairstyles.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair front
+{{Icon Name||Hair|side}} {{!}} The Hair side
+{{Icon Name||Hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Music Sheet ==
+The Modest Dancer offers the {{Music Sheet|28}} [[Music Sheet]] #28, costing {{Cost|15 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|8 SC|season=Performance}} total). It is a song in the key of D Major.<br>
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guide
+|content=
+{{#ev:youtube|YMYZnde1Qa4||inline|Music Sheet Video Guide by Ikejiji}}
+}}
+
+== Traveling Spirit ==
+{{Friendship Tree Info
+| traveling
+| rs_dates= *January 13, 2025 (SV#7)
+}}
+<section begin='TS Friendship Tree' />{{Friendship Tree
+|spirit = Modest Dancer
+|image  = SOPerformance-Modest-Dancer.png
+|season = Performance
+
+|nodeC5 = Outfit 70 C
+|nodeL4 = emote2 8 H
+|nodeC4 = spellx 5 C
+|nodeR4 = Hair 40 C
+|nodeC3 = wing
+|nodeR2 = Heart 3 C
+|nodeL2 = Mask 30 C
+|nodeC2 = spellx 5 C
+|nodeL1 = music28 15 C
+|nodeC1 = emote
+}}<section end='TS Friendship Tree' />
+
+<!--
+===Hints===
+The hints given before the {{PAGENAME}}'s appearance were: 
+-->
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Performance}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Modest Dancer
+|image  = SOPerformance-Modest-Dancer.png
+|type   = season
+|season = Performance
+
+|nodeC6 = season_heart 3 SC SP
+|nodeL5 = Hair SP
+|nodeC5 = Outfit 30 SC
+|nodeL4 = emote2 SP
+|nodeC4 = spellx 26 SC
+|nodeL3 = spellx SP
+|nodeC3 = Mask 14 SC
+|nodeL2 = music28 SP
+|nodeC2 = spellx 8 SC
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Unique Daily Quests==
+{{#section-h:Quests/Daily Quest Spirits|{{PAGENAME}}}}
+
+== Personality ==
+On April 6 2022, TGC officially announced <ref name="Personality Tweet">https://twitter.com/thatskygame/status/1511856308051488770</ref> and introduced {{PAGENAME}} with the following personality traits: 
+* '''{{PAGENAME}}, always calm before an audience (if the audience is snowmen).'''
+* Favorite move: manta leap
+* Tries to forget the solo they bungled 5 years ago
+* Can watch a step once, then teach it to others
+* Plans new routines when listening to the Musician rehearse
+
+On February 27, 2023, after being asked "If Performance gang went on tour in an RV, who's driving?", Ash mentioned, "I would only entrust Modest Dancer or Performance Guide to be behind the wheel, I feel like Dancer would be the safest driver but would maybe be a bit anxious about driving a big RV :SkyLOL: So maybe Performance Guide"<ref>[https://discord.com/channels/575762611111592007/575827782144098304/1079837161249067130 Ash's Discord message about Modest Dancer]</ref>.
+
+==References==
+<references />
+
+[[de:Bescheidene Tänzerin]]
+[[pt-br:Dançarina Modesta]]
+[[fr:Danseuse modeste]]
+[[ja:慎み深い踊り手]]
+[[ru:Скромная танцовщица]]

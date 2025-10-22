@@ -1,0 +1,82 @@
+{{Spirit Infobox
+|type      = Non
+|image     = Echo-of-an-Abandoned-Refuge-Shop.png
+|emote_type= None
+|cosmetics = {{Spirit Item|Echo of an Abandoned Refuge|Shoes|infobox}}{{Spirit Item|Echo of an Abandoned Refuge|Hairpiece|infobox}}{{Spirit Item|Echo of an Abandoned Refuge|Cape|infobox}}
+|music     = {{Music Sheet|38}}
+|season    = Revival
+|location  = Aviary Village
+|ts        = None
+}}
+<section begin="Summary" />The '''Echo of an Abandoned Refuge''' is a [[Ancestors#Seasonal Entities|Seasonal Shop]] from the [[Season of Revival]]. The Shop is found within the left-most building in [[Aviary Village]], marked outside by a sign with Revival's emblem. The collectibles offered by this Shop are {{Spirit Item|Echo of an Abandoned Refuge|Shoes|inline_text}}, a {{Spirit Item|Echo of an Abandoned Refuge|Hairpiece|inline_text}}, a {{Spirit Item|Echo of an Abandoned Refuge|Cape|inline_text}}, and the {{Music Sheet|38|inline_text}}.<section end="Summary" />
+
+==Cosmetics==
+===<span id="Shoes">Shoes</span>===
+The [[Shoes]] offered at this Shop are a pair of beige sandals with knee-high cross straps.<!-- costing {{Cost|? C}} from the Traveling Spirit (?).--> It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's first node ({{Cost|18 SC|season=Revival}} total).
+{{#tag:gallery
+|{{Icon Name|Abandoned Refuge|shoes}} {{!}} The Shoes icon
+{{Icon Name|Abandoned Refuge|shoes|real}} {{!}} The Shoes
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Hair Accessory">Hair Accessory</span>===
+The [[Hair Accessory]] offered at this Shop is an orange paper boat, closely resembling [[Blessings_(Spells)#Message_Boat_Spell|Message Boats]], that sits on top your head.<!-- costing {{Cost|? C}} from the Traveling Spirit (?).--> It was available to all players during the Season from the Friendship Tree's fourth node ({{Cost|116 SC|season=Revival}} total).
+{{#tag:gallery
+|{{Icon Name|Abandoned Refuge|Hairpiece}} {{!}} The Hair Accessory icon
+{{Icon Name|Abandoned Refuge|Hairpiece|real}} {{!}} The Hair Accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Cape">Cape</span>===
+The [[Cape]] offered at this Shop has a blocky orange gradient with a yellow trim, a fluffy white collar, and four red tassels hanging from the neck.<!-- costing {{Cost|? C}} from the Traveling Spirit (?).--> It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's third node ({{Cost|74 SC|season=Revival}} total).
+{{#tag:gallery
+|{{Icon Name|Abandoned Refuge|Cape}} {{!}} The Cape icon
+{{Icon Name|Abandoned Refuge|Cape|front}} {{!}} The Cape front
+{{Icon Name|Abandoned Refuge|Cape|interior}} {{!}} The Cape interior
+{{Icon Name|Abandoned Refuge|Cape|real}} {{!}} The Cape back
+{{Icon Name|Abandoned Refuge|Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+==<span id="Music">Music Sheet</span>==
+The Echo of an Abandoned Refuge Shop offers the {{Music Sheet|38}} [[Music Sheet]] #38.<!-- costing {{Cost|? C}} from the Traveling Spirit (?).--> It was available to all players during the Season from the Friendship Tree's second node ({{Cost|42 SC|season=Revival}} total). It is a song in the key of C Major.<br>
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guide
+|content=
+{{#ev:youtube|kMgrH50UzWk||inline|Music Sheet Video Guide by Ikejiji}}
+}}
+
+==Season Friendship Tree==
+This [[Friendship Tree (Seasonal)|Friendship Tree]] provides the [[collectibles]] sold by this [[Season of Revival#Shops_&_Cosmetics|Shop]] during the [[Season of Revival]]. This Tree can no longer be accessed. However, the items listed here will be available for purchase when the Shop returns as a [[Traveling Spirit]] - or in some other form.
+
+It is currently unknown how these items will return after the Season of Revival has ended. Because the Echo of an Abandoned Refuge was not a Seasonal Spirit, either the Traveling Spirit system would have to be modified to allow for non-Spirits, or else thatgamecompany will have to introduce another mechanism for obtaining past-Season cosmetics.
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Echo of an Abandoned Refuge
+|image  = Echo-of-an-Abandoned-Refuge-Shop.png
+|type   = season
+|season = Revival
+
+|nodeC5 = season_heart 3 SC SP
+
+|nodeL4 = spellx SP
+|nodeC4 = Hairpiece 42 SC
+
+|nodeL3 = cape SP
+|nodeC3 = spellx 32 SC
+
+|nodeL2 = spellx SP
+|nodeC2 = music38 24 SC
+
+|nodeL1 = shoes SP
+|nodeC1 = spellx 18 SC
+}}<section end="Season Friendship Tree" />
+
+==References==
+<references />
+
+[[pt-br:Eco de um Refúgio Abandonado]]
+[[fr:Écho d'un refuge abandonné]]
+
+[[Category:Season of Revival]]

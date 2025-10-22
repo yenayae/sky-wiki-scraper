@@ -1,0 +1,163 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Performance-Spirit-Forgetful-Storyteller.png|Standard
+Performance-Spirit-Forgetful-Storyteller-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Outfit|infobox}}{{Spirit Item||Mask|infobox}}{{Spirit Item||Hair|infobox}}{{Spirit Item||Cape|infobox}}
+|season    = Performance
+|realm     = Valley of Triumph
+|location  = Village Theater
+|ts        = January 30, 2025 (#132)
+}}
+<section begin="Summary" />The '''Forgetful Storyteller''' is a [[Seasonal Spirit]] from the [[Season of Performance]] who offers the {{Emote|Forgetful Storyteller|inline_text}} Expression. The Forgetful Storyteller is found on the right side of the [[Village Theater]] when entering the area through the main entrance. The collectibles [[#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Forgetful Storyteller|Outfit|inline_text}}, a {{Spirit Item|Forgetful Storyteller|Mask|inline_text}}, a {{Spirit Item|Forgetful Storyteller|Hair|inline_text}}, and a {{Spirit Item|Forgetful Storyteller|Cape|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:SoPerformance - Forgetful Storyteller- spirit reveal.jpg|thumb|320px|none|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|lCphLOCgLWA||inline|Video Guide}}
+
+The Forgetful Storyteller can be found in the [[Village Theater]], on the ledge just above the right entrance to the backstage area if facing the stage from within the audience. This Spirit has a [[Standard Memory|standard memory]] with 10 memory fragments and a 15-minute overall [[Timed Memory|time limit]]. 
+
+As their memory unfolds, the Forgetful Storyteller can be seen meeting with the [[Modest Dancer]] on a nearby bench. The two talk together on the bench, and a mask and a book are propped up against the bench next to the Storyteller. The Storyteller soon has to say goodbye, and begins to walk away before the Modest Dancer calls them over since they had forgotten the extra mask they brought. The Forgetful Storyteller thanks them and continues towards the stage. Modest Dancer then realizes that Storyteller forgot their book as well, and is seen chasing after the Storyteller to return it to them. The Forgetful Storyteller turns to the Dancer as they present the forgotten book, thankful for the Dancer's help.
+
+At the end of the memory, the Dancer returns the book with a flourish, and the Forgetful Storyteller presses their palms agains their cheek in an adoring "Awww" expression.
+</div>
+{{Clear}}
+
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Forgetful-Storyteller-awww-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Forgetful-Storyteller-awww-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Forgetful-Storyteller-awww-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Forgetful-Storyteller-awww-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar press both palms together and place their clasped hands on their left cheek, rocking from side to side as if admiring something, while a slow xylophone riff sound effect plays.
+*Level 2 makes the same motion as Level 1, with a bunch of red hearts quickly flying up behind your avatar.
+*Level 3 will make your avatar lean forward to rest their head in their hands, gently shaking their head, while a quick xylophone riff sound effect plays. At the end of the Expression, your avatar will put their hands on their knees and tilt their head to the left as the xylophone riff comes to a close.
+*Level 4 makes the same motion as Level 3, with a trail of small pink hearts following the movement of your avatar's hands, as well as a bunch of red hearts flying up during the first half of the Expression, and a big pink heart flickering above their head during the second half.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+== Cosmetics ==
+=== Outfit ===
+The [[Outfit]] offered by this Spirit includes a long-sleeved top that is divided in the middle, one side a light pink and the other red, as well as poofy red pants and dark-blue shoes with pointed tips, topped with white pom-poms, costing {{Cost|70 C}} from the Traveling Spirit. The top has a cream-colored pointed collar, yellow stitching around the waist, and is cut in a zig-zag pattern at the bottom. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fifth node ({{Cost|74 SC|season=Performance}} total).<br>{{Dye_Details
+|area1=the pink half of the top, and the opposite half of the pants
+|cost1=3
+|area2=the collar and insides of the sleeves
+|cost2=2
+}}
+<br>
+{{#tag:gallery
+|{{Icon Name||Outfit|icon}} {{!}} The Outfit icon
+{{Icon Name||Outfit|real}} {{!}} The Outfit front
+{{Icon Name||Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Mask ===
+The [[Mask]] offered by this Spirit is round and dark blue, with a light blue circle printed on the lower half, a pointy nose, and droopy eyes, costing {{Cost|34 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|12 SC|season=Performance}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Hair ===
+The [[Hair]] offered by this Spirit is a red hat resembling that of a joker, with an orange border, yellow stitching around the face hem, and a white tassel hanging from each hat tip, with short, choppy hair peaking out from under the hat, costing {{Cost|44 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's third node ({{Cost|28 SC|season=Performance}} total). Note that this item is considered a Hair, not a [[Hair Accessory]], and as such it can not be worn over other Hairstyles.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Cape ===
+The [[Cape]] offered by this Spirit is made of a flat rectangle that is colored red on the left side, with yellow, rhombus-shaped markings, and dyed yellow on the right side, with red, rhombus-shaped markings, tied together by the top corners in front of the player's throat with a yellow bow, costing {{Cost|70 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's sixth node ({{Cost|108 SC|season=Performance}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||Cape|interior}} {{!}} The Cape interior
+{{Icon Name||Cape|back}} {{!}} The Cape back
+{{Icon Name||Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling
+|ts_dates=*January 30, 2025 (#132)
+}}
+<section begin='TS Friendship Tree' />{{Friendship Tree
+|spirit = Forgetful Storyteller
+|image  = SoPerformance - Forgetful Storyteller.png
+|season = Performance
+
+|nodeC6 = Cape 70 C
+|nodeL5 = Outfit 70 C
+|nodeC5 = spellx 5 C
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeR4 = Hair 44 C
+|nodeC3 = wing
+|nodeL2 = Mask 34 C
+|nodeC2 = spellx 5 C
+|nodeR2 = Heart 3 C
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end='TS Friendship Tree' />
+<!--
+===Hints===
+The hints given before the {{PAGENAME}}'s appearance were: 
+-->
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Performance}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Forgetful Storyteller
+|image  = SoPerformance - Forgetful Storyteller.png
+|type   = season
+|season = Performance
+
+|nodeC7 = season_heart 3 SC SP
+|nodeL6 = spellx SP
+|nodeC6 = Cape 34 SC
+|nodeL5 = Outfit SP
+|nodeC5 = spellx 26 SC
+|nodeL4 = emote4 SP
+|nodeC4 = emote3 20 SC
+|nodeL3 = spellx SP
+|nodeC3 = Hair 16 SC
+|nodeL2 = Mask SP
+|nodeC2 = spellx 12 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Unique Daily Quests==
+{{#section-h:Quests/Daily Quest Spirits|{{PAGENAME}}}}
+
+== Personality ==
+On April 5 2022, TGC officially announced <ref name="Personality Tweet">https://twitter.com/thatskygame/status/1511509012940005378</ref> and introduced the {{PAGENAME}} with the following personality traits: 
+* Has a knack for imitating accents
+* Always tears up at sad stories
+* Unsure what to do with their hands onstage
+* First ever role on stage was a jellyfish
+
+On February 27, 2023, after being asked "If Performance gang went on tour in an RV, who's driving?", Ash mentioned that "If Forgetful Storyteller is driving we would be taking the <s>lost</s> long scenic route"<ref>[https://discord.com/channels/575762611111592007/575827782144098304/1079837161249067130 Ash's Discord message about Forgetful Storyteller]</ref>.
+
+==References==
+<references />
+
+[[de:Vergessliche Geschichtenerzählerin]]
+[[pt-br:Contadora de Histórias Esquecidiça]]
+[[ja:忘れっぽい劇作家]]
+[[zh:健忘說書人]]
+[[fr:Conteuse distraite]]
+[[ru:Рассеянная рассказчица]]

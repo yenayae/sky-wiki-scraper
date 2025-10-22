@@ -1,0 +1,810 @@
+The '''Out of Bounds''', also known as OOB, are locations outside the intended boundaries of the game. Oftentimes, [[Barriers#Wind Walls|Wind Walls]] or other forms of barriers will block players from going OOB. These may be accessed in a variety of ways and provide some of the most beautiful views available in the game. This page aims to assist both newer and older players in their OOB journeys while giving a comprehensive summary of the most well-known locations. 
+
+Interested in exploring areas that are lesser-known? Befriend OOBers (players who go OOB) and explore the rest of the sky community! Most tricks and locations cycle with every patch to the game, so keeping in touch with others is the best way to learn new locations and advanced techniques. 
+
+An important distinction to make is the line between acceptable and unacceptable forms of getting out of bounds, and the moral code that goes along with being in places you aren't supposed to be. '''All locations on this wiki are accessible without hacking or catastrophic exploits.''' Unacceptable actions include but are not limited to:  
+
+* Modified client-side game files(hacking)
+* Network overload buffer
+* Deserialization(modified save files)
+* Memory corruption
+* Arbitrary Code Execution(ACE)
+
+==How to get Out of Bounds==
+As stated above, there are several—sometimes widely different—ways of accessing Out of Bounds locations. Below is a short summary. Some of these techniques will be elaborated on:
+
+<big>'''<u>Geometrical clipping</u>'''</big>
+
+* Traveling through gaps in geometry
+* Lunge clipping
+* Leg dragging
+* Ground-magnet clipping
+
+<u>'''<big>Chibi mask tricks</big>'''</u>
+
+*Utilizing size difference to get through gaps
+*Short lunge clipping
+*Chibi falling
+
+<u>'''<big>Partner tricks</big>'''</u>
+
+*Piggyback Faint
+*Using a "Piggyback Rocket"
+*Hand-holding
+
+<u><big>'''Prop tricks'''</big></u>
+
+*Using a chat object
+*Using a furniture object
+*Using a shared space
+*Camera clipping
+
+<u><big>'''Other Tricks'''</big></u>
+
+* Manta clipping
+* Environment rockets
+* Cloud-water border pushing
+* Simply flying over obstacles
+* Shared memory/space warping
+* Death Barrier voiding(patched?)
+
+===Using map geometry ===
+If you're just starting out travelling out of bounds, the best way to begin is by practicing your geometrical clipping. Leg dragging, lunge clipping, and ground-magnet clipping are all important skills for an aspiring out of bounds-er to learn.
+
+<u>'''Gaps in geometry'''</u>
+[[File:Geogap.gif|alt=A skykid slides through a gap in geometry|thumb|A gap in geometry leading to the isle underbelly]]
+The simplest place to start looking out of bounds is looking for gaps in geometry. Sky is optimized for mobile devices, and thus, has a lot of little gaps you can wriggle your Sky kid through. When looking for gaps, keep your eyes peeled for areas where the ground meets the clouds, particularly where flat horizontal ground meets a curved cloud, or where curved vertical ground starts travelling behind a flatter cloud. These locations take advantage of the shape of the cloud to push you either down into the ground, or sideways into the sloped wall respectively. Although, they can be almost anywhere, even miles away from the nearest cloud. Once you have an eye for where they may be, you can predict where they are fairly consistently.
+
+<u>'''Lunge clipping'''</u>
+
+Lunge clipping is a simple technique that uses the base ability of all sky kids to jump-start their running by jumping as they begin(lunging). Lunge-clipping can be used to go through spots with lips(two objects meeting), or short and jagged geometry, using slightly different "styles" of lunge clipping: V-Lunging and lip lunging.
+[[File:Vlunge.gif|alt=A Skykid v-lunges into a strangely shaped wall|thumb|A V-lunge can be used here to do an underfly of prairie social space(sub-optimal)]]
+'''V-lunging(or L-lunging)''' involves approaching a short nook in the landscape- typically a strangely shaped wall or a ceiling that starts to slope down- and(on mobile) swiping in a "V" or "L" shape. First you aim your camera towards where you want to clip, then you quickly swipe once in a direction, facing the wall, where you would like to lunge, and then several times in the direction of the place you would like to clip, changing directions mid-lunge. It is important to note that the place where you initially lunge, the player head must clip through the ceiling in order for the clip to work, and that the ceiling in which your head clips must be connected to the wall you would like to go through. This setup will work, and is the only way to get into some places without a chat object, but it is incredibly inconsistent, and will likely take several tries to succeed, and hundreds of successes to master.
+
+[[File:Lipclip.gif|alt=A sky kid lip clips into a place where 2 walls meet|thumb|The infamous Eden clip is a great example of a lip clip]]
+'''Lip lunging(or lip clipping)''' is the easier of the two variations. In order to lip lunge, you must find a surface that has either an incredibly short ceiling and a large angle between two objects, or an incredibly small lip between two objects with a high ceiling. The lower the ceiling, the less restrictive of an angle is required. Face the corner, and lunge. If it doesn't work, you can reposition and continue lunging even several times per second. This is an incredibly easy trick, and can be used to access some beautiful locations. Although easy, lip lunging, as opposed to V-lunging, is consistent, but almost completely outside of your control. It all depends on what is outside of the walls. If there is a path which the game decides is a valid place for your sky kid to lunge, it will work, and if there isn't, it will fail. The player gets no feedback as to whether or not this is a valid location for a lip lunge
+
+Note: Lip lunging is still referred to as such, but along with several more advanced techniques, it can be used to clip into some walls that are simply bent.
+
+<u>'''Ground-magnet clipping'''</u>
+
+Ground-magnet clipping sounds very complicated, but in reality, is an extremely simple technique that is possible due to incredibly complex things happening behind the scene. In simple terms, while in closed-wing flight(standing straight up), or even just grounded-airborne(you are in the air, but haven't gotten the prompt to change flight forms yet), your sky kid is perpetually looking for ground to land on, and will vacuum onto said ground if they find a valid location. This allows you to glide into a wall, ''almost'' where you want to be, and have your sky kid do a little jump and land on top of where you want to be.
+[[File:Gmagnet.gif|alt=A skykid flies into a door and ground-magnet clips cleanly|thumb|This door in Forest's Temple is quite easy to clip into once you know how]]
+As the player, you can abuse this mechanic. Many doors in the game have lips on the top where there is a short gap between the top of the door and the doorway, to prevent clipping during the opening scene. By flying up to the top of the door and positioning yourself, camera facing the door, as close as possible to the place you'd like to clip, by boosting and swiping forward(on mobile) the game fails to account for the fact that there is a ceiling blocking your boost path, and will attempt to obey the ground-magnet. Your sky kid will then jump up gracefully onto the doorway, with most of their collision box being out of bounds.
+
+In this way, doors are the most common examples of ground-magnet clipping, but other forms of it exist, albeit rarely.
+
+<u>'''Leg dragging'''</u>
+[[File:Legdrag.gif|alt=A messy performance of a leg drag, but a decent one nonetheless|thumb|This spot in Valley is impossible to clip out of bounds without a leg drag]]
+Leg dragging is a form of alignment used to execute Lip and V-lunging. When you drag your leg forward, the collision box on your player moves forward and down. This can allow you to cancel the moving of the leg back with a hop forward when you release, and enter into a space shorter than the head of your character. This can be used to execute lunges that would have otherwise been impossible. However, it is both rarely used, and an advanced technique. You will probably be able to find traditional lunge clips or geometry gaps that lead to the place that you would like to access, and thus, it's not really worth mastering.
+
+Note: this is similar to a chibi fall, but is not used to get out of bounds directly. Unlike the chibi fall, it is almost useless. Do not confuse the two.
+
+===Chibi Mask Tricks===
+The Chibi mask is a [[Cosmetics|Cosmetic]] item that gives the player avatar the shortest height possible. This change in height opens up new Out of Bounds possibilities, as it not only allows players to squeeze into already existing small holes in the ground/walls but also to pass through the ground entirely.
+
+<u>'''Chibi Falling'''</u>
+
+Equipping the Chibi mask makes it possible to utilize the so-called "leg-pull" or "chibi fall" technique. When standing on a steep enough slope, long-pressing on the player avatar (or using the 'glide' button on consoles), dragging your leg inside the surface, and swiping forward with the other hand (or releasing the button on the console) will allow you to fall through the floor. The easiest way to learn is using Sneak Stance, though other stances also work. Note, however, that different stances may require slightly different methods. This technique can be tricky to master but will make Out of Bounds possibilities endless.
+
+the leg downwards when standing on a steeper slope—it works best with some foothold beneath to drag the leg onto
+
+'''Note:''' As of Patch {{v|0.9.5}}, the Chibi fall technique is slightly harder to achieve. Players will now need to place a finger on the left side of the screen and swipe gently forwards while simultaneously letting go of the leg-pull. This is due to the updated mechanics of touch-input. However, it does still work as normal otherwise. Another consistent method used after this patch is to use two-handed mode, drag your leg towards the slope, and then use the movement control to gently pull opposite the direction you're facing. 
+
+The leg-pull technique can also be combined with a Chat Object to sink into 90-degree-cliffs, where the ground is completely flat. The player will first need to place a Chat Object on the vertical surface below the edge, so that one of the Object's surfaces are slightly below it. Standing close to the edge of the cliff, stretching the player's leg onto the Chat Object and swiping will cause players to fall through the cliff-side. This technique is very tricky, and the player should be relatively comfortable with the regular leg-pull technique before trying. 
+
+Note: It is also possible to [[Sky for Nintendo Switch#Chibi Falling on Switch|Chibi fall on Nintendo Switch]].
+
+===Using a Chat Object ===
+One of the most common ways to go Out of Bounds is to glitch through a wall/structure. This was traditionally done by placing either a Chat table, a Bonfire, or a Swing (harder) so that one of the seats is halfway inside the surface the player wishes to pass through. When approached, the seat would still be usable if placed correctly, and players could rise on the other side of the wall. However, in a 2023 patch, props are no longer able to have direct collision with walls and objects. Extra effort is required to time swinging or force an avatar to clip through a ceiling or floor.
+
+The most precise tool to clip through walls is the stone stool. Because of its small size and simple geometry, it is simple to adjust, easy to tweak quickly, and simple to learn alignments.
+
+Another way to pass through a wall by use of a Chat Object requires a partner. First place down one of the Chat objects, and allow a friend to use one of the seats. The friend must then offer another player a hand – which is not to be accepted. When the Chat object is moved (pressing and holding the chat table icon in the Expression Menu while placed), the friend will move with it. This only happens if that friend is continuously offering their hand to another player. Thus, it is possible to move the friend through the wall/surface in question. For both of you to pass through without Warp unlocked, the friend will need to offer a hand once on the other side. Be wary of reset barriers and area transition points - you can easily misplace your friend if you are not careful.
+
+===Partner Tricks===
+The Piggyback/Carry Friend Action is a useful tool for accessing areas either high up, behind a wall, or below the ground. However, this does require you to explore with a partner. See the [[Friendship Menu]] page for information on how to unlock Piggyback with someone. There are three different ways to go Out of Bounds using this Friend Action.
+
+'''Be careful that ANY trick in the piggyback rocket family will cause a full game crash upon contact with water.''' This likely occurs because of the diving mechanic overriding many partner interaction startups, which is what initiated these mobility tools in the first place.
+
+<u>'''Piggyback Falling/Piggyback fainting'''</u>
+
+The player can combine the Piggyback and Fall down/Faint actions to go through thin walls. To use this technique, the player needs to carry a friend, walk up to a wall, turn left 90 degrees (so the wall is on the right hand side), and use the Faint emote. The player being carried should end up on the other side of the wall and can stay there by letting go of the Piggyback action. To get both players through the wall, the inside player can offer the outside player a hand. However, simply having Warp unlocked between the two may be easier. 
+
+<u>'''Piggyback Rocket'''</u>
+
+A "Piggyback rocket" will allow players to reach areas high above their starting location without the use of Cape Energy. This technique also allows players to pass through ceilings with ease. Two friends must both initiate the Piggyback action in the Friend Menu, and press the "accept" button at the same time. Without comms, coordination is important, coordinate which player will initiate the rocket, and which player will offer then immediately accept the other's piggyback. The game will continuously try to make each of the players jump onto the other's back - which will lead to a rocket-esque ascent. To assume control by either player, simply attempt to steer in some direction. A "let go" button will appear which when toggled causes the player to resume a normal flight while still carrying the friend on their back. This trick does not work while Piggybacking or holding hands with others. 
+
+When either player resumes control, the position of both players converge to the player in control. This means that if the carried player cancels the Piggyback action, the carrying player (and other attached players) fly to the carried player's position and hold hands with the carried player. However, the position inconsistencies between each player may result in them experiencing different events. For example, one player may enter reset zones or Realm portals while the other doesn't.
+
+<u>'''Piggyback Pilot'''</u>
+
+A Piggyback Pilot, or asking for Piggyback at the same time as accepting someone's piggyback, allows for players to control their timing for when they want to ascend - this allows for groups to be able to finish collecting candle light from a section/area and conveniently choosing their timing to ascend through to another area. To use this technique, wait for the person who will fly to ask for piggyback - you will be able to see the accept icon on their head - then press the piggyback option in their friendship menu ''and'' the accept button at the same time. This will make it so that your piggyback accept button hovers on them as they move/fly around, which allows them to click on it whenever they want to and thus ascend as they normally would. To assume control again, use the method described above under the "Piggyback rocket" section. 
+
+===Miscellaneous Tricks ===
+
+This is the never-ending list of niche tricks, clips, and techniques that can be used in specific conditions to access the out of bounds. This list is VERY subject to change, as people discover new things about mobility, and every time a fundamental change is made to the game.
+
+<u>'''Environmental Rockets'''</u>
+
+An extremely complicated segment of the game, and very easily could have their own page on the wiki. To some, anything that is triggered by the environment can be argued to be an environmental rocket, although distinction is important in topics of precision.
+
+Environmental rockets can be equated to "TP triggers" that just move your character at an obscene speed, rather than actually warp them. They are similar, in a way, to piggyback rockets, hence the name, however, they use aspects of the environment and mechanics of the game to move you, instead of another player.
+
+Environmental rockets can further be divided into three groups, with an arguable fourth category:
+
+They can be intentionally placed by developers
+
+They can be induced/encouraged by the player
+
+They can be induced by crazy jank- chaos theory at it's finest, with the smallest change creating the biggest discrepancies.
+
+And arguably, they can be intentionally triggered/stored/neutralized at will, albeit slower than others. However, these environmental rockets should not be referred to as such, because they act fundamentally differently than the others on this list, and thus, they will not be explained under this segement(cloud-water borders, mantaclips, old home warping).
+[[File:Envirocket isle passtone.gif|thumb|Example of an intentional environmental rocket]]
+
+
+Intentionally placed environmental rockets are essentially controlled push triggers:
+Player enters box -->move player (0, +50, 0) ↺ repeat until player position≥(current_posx, [desired_y_position], current_posz)-->move player (0, -1, 0)↺ repeat until player position=(current_posx, [desired_y_position], current_posz)
+
+In a way, they act very similarly to wind barriers, except that instead of adding acceleration, they add velocity, which is easier to control by developers.
+
+[[File:Envirocket back to creds.gif|alt=A skykid gets kicked back to the intro cutscene|thumb|Example of an induced environmental rocket]]
+
+
+Induced environmental rockets are the border between jank and player control. You can encourage these sorts of rockets, but you cannot guarantee them, and hence, there is no REAL explanation, as there can be tens of causes, however, some things are more likely to encourage them than others: Boosting into clouds while unable to move upwards, moving quickly through a wind barrier, impacting strange surfaces with extremely high velocity(ie, from a dark dragon attack). These are some of the best methods to attempt to encourage environmental rockets in their own specific places.
+[[File:Envirocket lost city.gif|alt=A skykid is pushed at high speeds into the last city area|thumb|Example of a jank environmental rocket]]
+
+
+Jank is jank. You'll never control it, but you can harness it. The embodiment of chaos theory, jank environmental rockets are rocket of which you need to throw yourself at multiple times in order to get them to do what you want. They can often be explained with the same triggers as induced rockets, however, they are consistent and uncontrollable. So, high-velocity impacts, buildup of acceleration through lack of movement, and wind barrier shenanigans are the most common forms of jank environmental rockets.
+
+Although their inconsistency may seem to be useless, they hold an invaluable key to future exploration in the world of Sky. Certain environmental rockets(intentional ones, many induced ones, and probably a lot of jank ones) are possibly the only method of transport that can break the speed cap. This means that, solo, you have the potential to fly through death planes/reset planes without triggering them, warp locations without moving areas, and maybe more. Their full capabilities are as of yet unknown.
+
+<u>'''Cloud-water border pushing'''</u>
+
+Cloud-water border pushing is an extremely niche interaction between clouds and water. In any place in which clouds and water meet, there exists a cloud-water border. If there exists a limit to how deeply the player can dive, and that limit is higher than the bottom of the cloud, you may initiate a cloud-water border push by timing underwater boosts with the cloud's natural pulsing, on a heavily sloped section of the cloud. This will allow you to bypass the diving limit.
+
+Alternatively, you can just boost into the cloud over and over again until it pushes you under the diving limit. Whatever works.
+
+<u>'''Flying over obstacles/Overflying'''</u>
+
+Most commonly done with a piggyback rocket, Overflying is the simple task of getting over the typical map geometry. This can allow you to fly over wind barriers, reset barriers, death planes, realm triggers, clouds, and even lighting boxes. When done solo, you tend to need a good eye for detail, and plenty of clouds around, in order to refresh your cape.
+
+<u>'''Displacement based on camera positioning'''</u>
+
+Displacement of your skykid can be modified slightly by where your camera is positioned, allowing you to phase through walls in points in which you otherwise would not have been able to. Full applications are currently under testing.
+
+==Isle of Dawn==
+Other than the Elder cut-scene (see below under Elders), there are several notable Out of Bounds locations which make for excellent field trips.
+
+===Rainbow Bridge===
+This interesting location was briefly removed during the first part of 2020 but later reinstated in a patch due to player feedback. It is one of the most visited in the game, and rather easy to get to for OOB beginners. Located high up in the clouds on the right-hand side of the Temple is an invisible bridge with an irregular but colorful pattern – thus the name rainbow bridge. When touched, the bridge will become visible. To find it, fly high up into the clouds on the right side of the temple and look for the change in lighting. The bridge is located on a type of  "platform" in the clouds, where they extend further out than those higher up. See the image below, where the Clouds are thinner higher up on the right side. 
+<gallery widths="185" spacing="small">
+Rainbow bridge 3.JPG|Cloud "platform" from afar
+Rainbow bridge stream 1.jpg|On top of rainbow road
+Rainbow bridge stream 2.jpg|Both pictures from a livestream on Tara's Sky Journey
+</gallery>​​​​​​
+
+===Mount Fuji ===
+[[File:Fuji.jpg|thumb|300px|Mt. Fuji]]
+This is another scenic location—the view of Eden all the way on top of Isle's clouds. Mount Fuji doesn't have an official name but is often referred to as such. To properly see this sight it is recommended to bring a Chat Table/Bonfire/Swing so as to pause in midair. Just as with Rainbow Bridge, this location requires a bit of flying. To ascend all the way to the top of Isle, use the clouds to recharge as you fly in a spiral pattern upwards. The follow feature (if going with friends) can be very useful in case anyone falls off the table. Using a Piggyback Rocket to ascend quickly is also an option.
+{{Clear}}
+
+===Cliffs of Prophecy===
+[[File:Cliffs of prophecy.frontview.jpg|alt=A Sky kid lounging in front of a steep drop off, with a ravine splitting the dark landscape in two|thumb|307x307px|Cliffs of Prophecy]]
+The Cliffs of Prophecy are an out of bounds view of the path to the Cave of Prophecy. An invisible ceiling covers the ravine, blocking you from reaching this location without breaking out of bounds.                                                                                                           To access the Cliffs of Prophecy, fly right, as soon as you enter the subarea leading into the Cave. Fly into the mountain-cloud border about halfway up, seeking a jagged border between cloud and mountain, and boost into the cloud, so it bounces you out of a gap in geometry. Fly around the clouds back behind the entrance and then fly over the top, avoiding the invisible ceiling. The cliffs are directly ahead. For better explanation, watch a [https://www.youtube.com/watch?v=SQpiwSsLYeM Video Tutorial]. 
+
+The Cliffs area is huge, and further exploration will lead you to clipping into the Cave itself, or outside of it, accessing a Wind Paths tunnel, and even accessing the Sea of Prophecy(listed below) using a more consistent and faster method, which can be used immediately upon entry of the cave, and requires very little wing buffs.
+<gallery spacing="small" hideaddbutton="true">
+File:Cliffs of Prophecy start.webp|<small>The start area, where you first clip OOB(not OOB)</small>
+File:Skies near the Cliffs, posted by HeyaaXD.webp|<small>HeyaaXD flies over the skies before approaching the cliffs</small>
+File:Cloud border by the cliffs.webp|<small>A Sky kid approaches the cliffs, diving down.</small>
+File:Cliffs of prophecy.topview.jpg|<small>The top view of the cliffs, perched on the invisible ceiling</small>
+File:Above the cave.jpg|<small>An image just outside of the Cave, accessed via the Cliffs.</small>
+</gallery>
+{{Clear}}
+
+===Sea of Prophecy===
+This is a location with a very cool view of the outside of Cave of Prophecy and invisible water. In order to enter this place, you must go to the small area above Cave of Prophecy by flying from the floating rocks into a tunnel in the ceiling which leads to a grassy area surrounded by clouds. After entering this area run up alongside the circle of clouds until you fall through the map and then fly out of the map. Once you are out of the map, you will fall down into a area of invisible water surrounded by pretty blue colors, and you will be able to see the outside of the Cave of Prophecy map above you. If you go to the edges of the Sea area, your surroundings will turn completely black until you go back. 
+<gallery widths="185" spacing="small" hideaddbutton="true">
+Area above Cave of Prophecy.jpg|Area Above Cave of Prophecy (Not OOB)
+OOB Outside of Cave of Prophecy .jpg|View from OOB
+OOB Outside of Cave of Prophecy 3.jpg|Sea under Caves of Prophecy
+OOB Outside of Cave of Prophecy 2.jpg
+Floating rocks .jpg|Floating rocks 
+</gallery>
+{{Clear}}
+
+===Isle Backrooms===
+
+The '''Isle Backrooms''' are a convoluted set of strange geometrical boxes found underneath [[File:Backrooms.mainroom.jpg|alt=A skykid stands far away, at the edge of a mysterious cavern|thumb|307x307px|A view of the Backrooms' central, grounding room]]the Isle of Dawn Temple. Although they seem simple on the surface, they are fairly easy to get lost in until you ground yourself in the main room. The Isle Backrooms are a great pick for both advanced, veteran out of bounds-ers, and aspiring escape artists, as the accessibility of the area itself is simple, but going deeper into the area without getting lost or stuck requires more finesse. 
+
+To access the Isle Backrooms, simply fly over the temple as you would to get to Rainbow Bridge, and then fly downwards past the ledge you would typically fly off of to access Daylight Prairie. Flying between the clouds and the lower windows on the right side of the temple will push you into the Backrooms. If you're having a hard time following along, click here for a [https://www.youtube.com/watch?v=MI7nFVrQ4X4 Video Tutorial].
+
+[[File:OobIsleTemple.webp|alt=A skykid sets the camera up outside of the temple border|thumb|307x307px|Here, the camera is set outside the border in the temple]]
+
+
+Simple enough to visit when travelling through Isle of Dawn, and easy to get into and out of, as the exit strategy is just the reverse of the  entrance. But at the same time, further exploration can lead you to new rooms, new discoveries, and even inaccessible places [https://www.youtube.com/watch?v=3_yxX13qrK0 INSIDE the temple].
+
+
+<gallery spacing="small" hideaddbutton="true">
+File:IsleBackroomsEntrance.webp|The entrance to the isle backrooms (not OOB)
+File:IsleBackroomsEdge.jpg|A small room near the edge of the Isle Backrooms
+File:IsleBackroomsBox.jpg|A room near the beginning of the Isle Backrooms
+</gallery>
+{{Clear}}
+
+===Endless Dawn===
+The Isle of Dawn has a few very easy clips leading to an underfly of the region, however, as you don't ''fly'', but rather, swim through the region, it is often referred to as the Isle Underbelly, or, in combination with the breakouts associated with it, Endless Dawn.
+[[File:Mural cave.night .jpg|alt=A skykid views the mural cave from OOB|thumb|307x307px|A view of the mural cave from out of bounds]]
+The easiest way to access the Underbelly/Endless Dawn is to fly to the far northeast side of the isle, along the cloudline. Look for the small hill along said cloudline, face west, and get a running start, sliding along and into the clouds next to the hill. The clouds should push you under the map, or you should fall through a gap in geometry. If you start walking, do NOT jump, this will remove your downforce. Simply keep moving forward. Once you fall out of the map, you have reached the Underbelly. From here, the world is your oyster. Explore whatever you'd like to explore, but beware of Environmental Rockets that will send you flying back to the surface.
+[[File:Meditation cave.gif|alt=A skykid meditates in past the entrance to Cave of Prophecies|thumb|A skykid meditates past the entrance to Cave of Prophecies]]
+Some interesting POIs include the [https://www.youtube.com/watch?v=0MVg-gcgCb0 Cave of Prophecies entrance], and the [https://www.youtube.com/watch?v=Nb92lmxJRcE Mural Cave](video tutorials are linked).
+
+Veteran out of bounds-ers will be able to utilize Endless Dawn, which has many interesting qualities, but newer players shouldn't be afraid of visiting interesting "advanced" locations too. Accessing Endless Dawn is a little less simple. Swim to the cavern containing the entrance to the [[Cave of Prophecies|Cave of Prophecy]], and continue swimming along the right hand cloud wall. Once you hit the sandbar, begin diving down, and boosting into the clouds diagonally, timing each boost along with the natural retractions of the cloud, or simply brute-forcing it, initiating a cloud-water push. Eventually the cloud will push you underneath the diving limit, and hitting the outside of the cave wall will place you in true Endless Dawn.
+
+Endless Dawn has several interesting qualities to it, with the first being that it places you INSIDE  of a cloud. However, the properties of endless dawn mean you maintain control of your character. Boosting up into the clouds can store momentum, initiating environmental rockets. Wind can affect you in Endless Dawn. This is a new addition. Moving up through the clouds with environmental rockets is possible. this can possibly lead to oob locations in the prairie transition area. Wrongwarps were initially possible in endless dawn by hitting the prairie trigger underneath the world, which would teleport you underneath prairie, where the game would attempt to have the player hit both a death plane and the entrance to Isle of Dawn at the same time, warping you to [[Home]]. As of now, this is no longer possible. Endless Dawn also no longer places you in a unique state of "airborne-grounded"
+
+Further exploration of Endless Dawn is necessary. Many of its properties are simple to test for other locations, as it has many comparable ones, and at the same time, has led to interesting game reactions in the past and very well may do so again.
+<gallery spacing="small" hideaddbutton="true">
+File:Meditation cave image.jpg|Meditation Cave
+File:Mural cave.mainview.jpg|The Mural Cave in the day
+File:Envirocket back to creds.gif|An Environmental Rocket in Endless Dawn
+File:Strangecamera endlessdawn.gif|A strange bug with the camera occurring in Endless Dawn
+File:Flybug enlessdawn.gif|The strange flying that often happens in Endless Dawn
+</gallery>
+{{Clear}}
+
+===Isle of Dawn OOBs at Night ===
+Using the Passage Stone, the Isle OOBs drastically change. Although there is a zone around the Isle temple that transitions the time of day to morning, simply flying above it can be used to experience the Daylight Prairie transition area in night. This is usually one of the most isolated spots, making it a perfect place for relaxation.
+
+"Mount Fuji" can also be viewed at night, though it is significantly different, as the Eye of Eden is now a glowing rectangle. 
+
+The Rainbow Bridge can also be accessed at night, with a much lighter, glowing color. It can be more easily spotted, due to the Skykids usually sitting on it.
+<gallery spacing="small" hideaddbutton="true">
+File:Isle-Prairie transition area at night.jpg|Isle-Prairie transition area at night.
+File:Mount Fuji At Night.jpg|"Mount Fuji" at night. It is now a small glowing object in the distance.
+File:RB AT NIGHT.jpg|The Rainbow Bridge at night.
+</gallery>
+
+==Daylight Prairie==
+Daylight Prairie offers several special memory-filled Out of Bounds attractions. Both the Cave area—which used to house the "SpookyBoogeyman"—and the Invisible Boat in Villages offer nostalgia to older players. The Boat is a remnant from the game's older days and functions much like the flying boat found inside the [[Secret Area]].
+
+===The Caves===
+The Prairie Caves offers two widely different OOB spots - one underground, the other high above. Both are reachable just with a bit of flying. As of the 0.9.2 patch, the Spirit husk statue found just below the Exhausted Dock Worker Spirit (the SpookyBoogeyman) was removed. Thus, the Out of Bounds area above the Caves is more often visited. To reach the highest point in Prairie, fly up to the left side of the Cave entrance when coming from Butterfly Fields. It's also possible to fly up through one of the holes above the underground river. This is a bit safer, as there is less space between the roof and the ground. However, when you enter, the area will look bright aqua/turquoise. Move a bit further into the OOB and it will look normal. There are invisible barriers blocking the way up, so players will need to squeeze through the barriers to get to the top of the caves. If the player somehow is unable to squeeze through, they may use a table to pass through the invisible barriers there using a Chat Object. Alternatively, you can also use the Chibi Mask Glitch to phase through the ground, fly to a nearby cloud, and pop up on the roof. This bypasses any invisible barriers, and you don't need a chat object. The OOB above the Caves is a good place to practice music and talk to friends, however, there is not much to do. 
+<gallery widths="185" spacing="small" hideaddbutton="true">
+Prairie caves 2.jpg|Above the Caves
+Prairie caves 1.jpg
+Spookeyboogeyman.JPG|SpookeyBoogeyman (rip)
+File:Pink version of the underwater temple .jpg|Floating pillars
+File:Wind tunnel .jpg|Wind tunnel *note it's impossible to get inside it
+</gallery>
+
+===The Invisible Boat===
+As mentioned above, the Invisible Boat is a leftover resource from the pre-launch version of the game. To find it players will need either a Chat object or knowledge of the Chibi fall technique. Head to the cave inside the 2-player door on the leftmost island in Villages which houses a Child of Light and the Applauding Bellmaker Spirit. By using a Chat Object to glitch through the wall/ceiling, players will find themselves at the Boat. It may be a bit difficult to land directly on top of the boat, as the surrounding clouds may trigger open-winged-flight – sending players flying out through the hill again. To set the boat in motion, light the two invisible buttons near the front. It should be noted if you attempt this by yourself, it is recommended to bring a bonfire or another object that can be lit on fire. This will allow you to light the candles simultaneously and activate the boat. There are occasions though where the boat will glitch and light itself. The Candles on the benches do not affect motion. Once active, the boat will gradually start to circle in the clouds of Villages. Lighting the invisible buttons again will cause the boat to speed up. However, you can only do this with another player and not by yourself, as the object with fire will not move along with the boat.
+<gallery spacing="small" hideaddbutton="true">
+Daylight Prairie-Invisible Boat (Start).jpg|The Invisible Boat (starting point)
+Invisible boat 3.JPG|Flying around in Villages
+Daylight Prairie-Invisible Boat.jpg
+</gallery>
+
+===The Underwater Temple===
+Nothing about it, just a mysterious temple that appears sometime and sometimes not.
+[[File:Underwater Temple.png|thumb|The underwater temple|alt=|none]]
+
+===Hidden underwater mantas===
+There are 4 hidden mantas swimming underwater near one of the small islands on Sanctuary Island.   Put on your chibi mask and follow this video instruction made from Tedi Bare to get there.  
+[[File:Underwater-hidden-mantas.png|302x302px|link=https://www.youtube.com/watch?v=9zXJYb0svHo|alt=|none|Video by Tedi Bare|thumb]]
+{{Clear}}
+
+==Hidden Forest==
+Other than the Elder cut-scene (see under Elders), Forest offers a view of the treetops above the clouds and an outside look at the Underground Caverns. The most iconic of these is the space above Sunny Forest - which is recognized by its pink clouds. However, through its Out of Bounds locations Forest also offers one of the only ways to see a Whale up close.
+
+=== Forest Space Cave===
+An underfly of the forest social space, the forest space cave is a small cave underneath the exit from daylight prairie with an okay view.  
+
+[[File:Social space cave prairie.jpg|alt=A skykid stands in the forest space cave|thumb|307x307px|The Forest Space Cave under the social space]] 
+To access the underfly, simply turn around after jumping off of the path to forest clearing, and fly underneath the social space. The spacing is very forgiving. 
+
+Accessing the cave itself requires you to fly lower, under an invisible wall that vanishes after you pass it. After flying low, aim back up towards where you first entered the social space from, and you will see a small cave. That is your destination. 
+{{Clear}}
+
+=== Nightwatch Perch===
+Nightwatch Perch is an overfly of the Forest Clearing area, however the perch itself is simply a tree stump.
+
+Nightwatch Perch is named such because of the lighting of the surrounding area, and Eden blending in with the darker light, almost invisible, as well as the watchful act of the main attraction of relaxing with company on the perch.
+
+Accessing Nightwatch Perch is relatively simple: Upon flying into Forest Clearing, fly forward and to the right, towards the clouds. Find the two trees closest together and fly into the hole located between them- as soon as you hit wind, fly straight up and into the clouds behind you to enter the overfly. Nightwatch Perch itself is the tall tree stump that has the best view of Eden.
+[[File:Manual shimmer.png|alt=A manual eden shimmer using a spotlight on Nightwatch Perch|thumb|307x307px|A manual spotlight shimmer]]
+The main attraction of the perch itself is to watch for rare occurrences of "shimmers" that cross behind Eden, lighting it up and giving gorgeous contrast from the background sky.
+
+These shimmers can be triggered artificially by using the spotlight prop.
+<gallery spacing="small" hideaddbutton="true">
+File:Natural shimmer.jpg|A natural Eden shimmer from a slightly obscured location
+File:Framing trees.jpg|The trees framing the hole used to enter Nightwatch Perch
+</gallery>
+{{Clear}}
+
+=== Above Sunny Forest===
+[[File:Sunny forest perch.jpg|alt=A view from the large tree in sunny forest|thumb|307x307px|A view from the large tree in sunny forest]]
+To reach the topmost area above Sunny Forest's clouds, players will need to do a bit of flying. Going with a friend is helpful, though the clouds may be used to recharge. You can also do the Piggyback Rocket trick to get through the wind, which is an alternative. If you are a solo player, pick a tree that ascends past the clouds and fly up on the side of it - make sure you are using the Closed Cape flight mode and are thus flying vertically. Keep climbing up against the trees until an invisible ceiling is reached (above the holes in the clouds). To go through the ceiling, head for the dip/hallway in the clouds while coasting along on them. When in this hallway players may ascend to the treetops. This hallway is also the only way down into the area below – since the ceiling goes both ways.
+<gallery spacing="small" hideaddbutton="true">
+Above sunny forest 1.jpg|Above Sunny Forest
+Above sunny forest 2.jpg
+</gallery>
+{{Clear}}
+
+===Sunny Forest Underfly===
+Certainly less beautiful than the Sunny Forest overfly with the tree perch, this is an area underneath Sunny Forest, with technical advantages but little beauty. The main technical advantages being that you can farm grandma's dinner from an advantageous spot, you can break into the caverns solo, and because of the distance you can fly downwards, you can bypass triggers for certain game responses(warps, teleports, rain stopping/starting). You can also get into the jellyfish nook in the secret cave, if you're a big fan of drowning.
+
+NOTE: It's recommended to rescue the baby jellyfish before entering OOB areas in sunny forest, as by timing your boosts upwards, you can maintain infinite flight.
+
+
+[[File:Sunny forest underfly entrance.gif|alt=a skykid bashes his head into a tree until he clips through the ground|307x307px|thumb|The lunge clip and tree required to clip into the underfly]]
+To enter the underfly, upon entering from the Forest Brook area, turn to the closest tree on your right. There should be a small crevice "path" that leads to a triangular piece of geometry jank. Angle yourself on the geometry at the corner of the crevice below, until your character stops moving when you release. Then quickly lunge forward and right, nearly jumping out of the crevice, but still into the tree. Your character will pass through the tree, after which you will need to ensure you do not fall beneath the world geometry, and that you pass between the clouds and the ground. There is no death plane in Sunny Forest.
+
+''Tip: Practice this clip! Believe it or not, this lunge clip is classified as an L-lunge. The first part of the lunge is done at the same time as the second part of the lunge. You jump into a valid location, clipping your head out of bounds, and then finish the lunge by proceeding through the valid location and entering the out of bounds in the same lunge. Thank you momentum storage! This means it's a perfect place to practice your L-lunging, as you get immediate feedback on whether your first lunge was accurate or not, or even close to accurate. Happy exploring!''
+<gallery spacing="small" hideaddbutton="true">
+File:Weird geometry sunnyforest under.png|strange edge geometry
+File:Solo entrance to caverns sunnyforest under.png|The caverns can be accessed solo with this trick.(suboptimal)
+File:Shattered bridge sunnyforest under.png|The shattered bridge is stored under the map. You can land on it.
+File:Lost their marble sunnyforest under.png|A marble left under the map. Possibly for grandma's dinner?
+File:Jellyfish nook Sunnyforest under.png|You can go here if you hate your cape
+File:Drowning inthe jellyfish nook.gif|You are unable to escape the jellyfish nook once you enter
+</gallery>
+
+===Crab Above Forest===
+Here's another Easter egg found by TediBare using Memory candles (a patched technique).  The video is in Beta, but the crab can be found in the live through other means of clipping underground.  [[File:Teddi-Bare-Oob-Crab-easter-egg.png|302x302px|link=https://www.youtube.com/watch?v=svUJcWm3iWI&t=51s&ab_channel=TediBare|alt=|none|Crab below Sunny Forest Video by TediBare|thumb]]
+{{Clear}}
+
+===Message Caves===
+[[File:Message Cave.jpg|alt=A skykid sits in a small cave with message boats surrounding him|307x307px|thumb|A view of the biggest message cave]]
+The Message Caves are a fairly easy-to-access and popular out of bounds location- They feature a small cave system along the edge of the Forest Brook area, containing shallow water perfect for message boats. And that's often exactly what you'll find, a collection of shared spaces, memories and message boats in a density almost like a social space, with the amount of message boats only adding to the scenery of the location.
+
+Accessing the Message Caves will take you through the Forest Brook underfly- From the Forest Brook entrance, look northwest and fly up and over the small hill, aiming for the tall part of the hill above the small cave with the [[Children of Light|child of light]] within(Forest WL5). Take a break at the small gazebo or inside the child of light cave if need be(9 wedges required for no break). Moving towards the closest obscured paper tree in the clouds, you will fall down the cliffs before the wind barriers. No fancy tricks required. Fly through the gap in the hill to enter the Brook underfly. Watch for the death plane located just beneath the two clouds in the center of the map. Hug the left side until you see a small outcropping of visible terrain underneath the map, next to a spot where the water ends. These are the Message Caves.
+<gallery spacing="small" hideaddbutton="true">
+File:The Man.jpg|The man in the Message Caves
+</gallery>
+{{Clear}}
+
+===The Underground Caverns===
+As mentioned, this Out of Bounds area offers players a chance to see a Whale up close—which is quite rare. There are several ways to access this location, though only one will be described in detail here. First, travel to the peak (almost exit) of the Underground Caverns. Instead of flying up to the exit, head towards the trees on the other side of it. By forcing your way up the slope—which is easiest on the right-hand side—you have successfully reached Out of Bounds. This area is very windy and has a distinctly green tint to it. By traveling to the edges of the plains—at which point the wind is reduced—players may jump down and fly on the outside of the cube that contains the Caverns. The plains provide a nice secluded space to practice music if players travel far enough to reduce the wind.
+
+Underneath the cube structure is a layer of clouds. Hidden deep inside the clouds and only peeking out at times is the Whale used in the opening cut-scene of the area. By ascending through these clouds, players may once again enter the bottom of the Caverns.  
+<gallery spacing="small" hideaddbutton="true">
+Underground_caverns_2.jpg|The plains above the Caverns
+Underground_caverns_1.jpg|View of Caverns from OOB
+Underground_caverns_3.JPG|Whale below the Caverns
+</gallery>
+{{Clear}}
+
+===Boneyard Lake===
+[[File:Under the temple Boneyard Lake.JPG|alt=A beautiful view of boneyard from out of bounds|310x310px|thumb|A view from under the temple in Boneyard Lake]]
+The Boneyard Lake is simply the underfly of Forest Boneyard, referred as a collective. The area doesn't consist of any major highlights, but rather consists of a large area to explore, with several interesting points of interest, some including the Venus Moth Trap, under the Forest Temple, a gorgeous view of the whale bones, several small caves, and behind the entrance to Boneyard. The more you explore, the more you'll find.
+
+To access the Boneyard Lake, go to the second hollow log from the entrance, and find a little outcrop of grass sticking out on the outside left side of the log(leaving the entrance). On this outcrop, there is a small lip projecting outwards. Facing the log lengthwise, head to the right side of this invisible lip and lip clip through. If your skykid goes partway through the terrain, do not lunge a second time, you will likely end up on the inside of the log. Simply let them fall either out of the map or out of the clip and try again.
+
+[[File:Venus Moth Trap.jpg|alt=A small outcropping of rock that looks quite enticing to land on|300x300px|thumb|The Venus Moth Trap]]
+
+
+Your primary destination after this should be straight ahead from where you clip out, northeast from the entrance. Two fungal pads entice you to climb. Do so. They will recharge your wing before you trek out into the rest of the lake. There is a small outcropping of rock underground here. You will want to land on top of it. Do not. This is the Venus Moth Trap.
+
+Diving under the water will reveal layers to the water system(3). Each layer has their own unique aspects, but most of them lie on the 2nd and 3rd layers(where you start and below). Be careful of shallow ground as you explore. There is a reset plane under Boneyard Lake, but this shouldn't impact your exploration, and should just save you if you happen to run out of wing gliding under the water boxes.
+<gallery spacing="small" hideaddbutton="true">
+File:Fungal pads in Boneyard Lake.JPG|The fungal pads you will use often to recharge your wing in Boneyard Lake
+File:Water world Boneyard Lake.JPG|A neat shot between layer 2 and 3 of Boneyard Lake
+File:Dark cave in Boneyard Lake.jpg|A dark cave near the west side of the map
+File:Light cave Boneyard Lake.JPG|a light cave at the north side of the map
+File:Behind boneyard entrance.jpg|Behind the entrance to Boneyard
+</gallery>
+{{Clear}}
+
+===Forest Temple Secret Room===
+[[File:Temple secret room.jpg|alt=a small room with two decorative lamps and two beds on either side of the entrance|310x310px|thumb|Forest Temple's secret room]]
+The temple's secret room is a ''fairly'' well known out of bounds area, however it's much simpler than many people think it is. No shared space nonsense, no 90 degree chibi fall tediousness, and no furniture inconsistency is required. Just 2-3 wing and some determination to get better. The secret room consists of 2 beds or benches, with a small amount of water at the floor, and an elevated platform on the far side. There is decorative lighting. It resembles a small bedroom or maybe a sauna.
+
+To access the secret room, head into the first little structure on your right as you enter the temple. Stand at the edge of the square leading up to the door and fly into either top corner, performing a ground-magnet clip. If you performed it correctly and confidently, you will pass straight through the door. The same motion can be done at the top of the door to exit the area, this is SLIGHTLY more difficult.
+
+''Tip: Practice this clip! This is both the easiest ground-magnet clip in the entire game AND a textbook ground-magnet clip. Being able to enter and exit consistently will lead you to be able to break through many more walls using ground-magnets. Don't hide the shared spaces that will undoubtably be in the room. They will help you recharge when you inevitably fail while practicing. Good luck!''
+<gallery spacing="small" hideaddbutton="true">
+File:Gmagnet.gif|The entrance to Forest Temple's secret room
+File:Temple secret sleep.jpg|A skykid takes a nap inside the forest temple secret room
+</gallery>{{Clear}}
+
+===Outer Temple/Forest End underfly===
+The more advanced version of the previous out of bounds area, accessing the Outer Temple requires first clipping into the secret room, which is where amateur hour ends. Consistency is key. You can now access the Outer Temple in many ways, but this method is the most consistent, almost the fastest, and requires the least unlocks. I will refer to the bed on the right side after you enter the room as the "right bed," and left bed as the same.
+
+In a wide arc, sprint jump off of the left bed and enter a slide as you enter the water. This will increase your downforce and allow you to slide underneath the right bed. If it pushes you out at all from the edge, you can attempt, but you may need to restart. After successfully sliding into the right bed's corner closest to the door, perform a camera clip facing the left bed. This will shimmy you out of the back wall.
+
+It is possible to accomplish without the camera, but the consistency is awful, and it requires you to both slide into the corner and perform a lunge clip in perfect sequence, otherwise you have to reset. It is possible to do the reverse on the left bed, however it is slightly more difficult, and has less room for error once you clip out of bounds.
+[[File:Outertemple Panorama.gif|alt=The camera pans around a fairly serene-looking location underneath the Forest Temple|300x200px|thumb|A panorama of a nice view from the Outer Temple]]
+After you clip out of the back wall, you can swim around the back, to the right and outside the wall of the temple to reach the aptly named Outer Temple, or you can dive and glide forward to access the Forest End underfly. The Outer Temple has many simpler views, with some being nice combinations of Forest End and Forest Temple, some being bugged rooms, and some being places blocked by wind walls, like the windows on the sides of the temple hallway.
+
+The underfly is the most appealing of the two, as it has several mechanical purposes. The underfly allows you to skip the lengthy Forest Temple cutscene, so unless you really like the forest elder, I'd recommend skipping this at every opportunity. It also houses two locations located under reset barriers. One of these being the elder cutscene area, and the other being a mystery to me. Maybe a secondary cutscene area. If a way to bypass reset barriers solo is discovered, it will be possible to clip into this one completely solo. In the past, this was able to be accessed using a variety of methods, even solo.
+{{Clear}}
+
+===Temple Roof/Firewatch Perch===
+[[File:View of the temple roof.jpg|alt=View of the temple's roof from above Forest End|307x307px|thumb|View of the temple's roof from above Forest End]]
+The temple roof and Firewatch Perch are one and the same area, both located in the Forest End overfly, boasting a beautiful view of the Valley transition area, a calm spot to chill, and a unique view of the Forest Temple.
+
+Accessing the overfly requires you to fly up the clouds around the sides of Forest End, closer to the Valley transition area. Continue flying upwards towards the hole in the clouds just before the Valley tunnel starts. Flying over the clouds to the south and over the "cloud cliff," for lack of a better term, will lead you to Firewatch Perch, with a pretty view of the Valley Transition area, and the temple roof, which you can see inside of, and even land on in certain locations.
+
+<gallery spacing="small" hideaddbutton="true">
+File:Above Forest End.jpg|Firewatch Perch
+File:Above Forest End2.jpg|Firewatch Perch
+File:Above Forest End3.jpg|Firewatch Perch
+File:Firewatch perch.jpg|Firewatch Perch from afar
+File:View of the temple from the top.jpg|View of the temple from the top (middle)
+File:View of the temple from the top2.jpg|View of the temple from the top (right)
+</gallery>
+{{Clear}}
+
+==Valley of Triumph==
+Valley houses some of the most well-known and beautiful Out of Bounds locations in the game –  which have great opportunities for exploration.
+
+=== Glitch palace ===
+[[File:Sky OOBs.png|thumb|Some floating buildings]]
+This area of castle ruins can be reached by using the same method used to get to the Coliseum OOB. Only one thing. Instead of using your flying skills, when you jump out the window, let the player slide down the stone cliff the Temple is planted on until they reach the sea underneath the Realm. The player can see some building parts floating around and the coliseum can be seen floating. The temple's steep slope will look like an enormous crystal growing out of the ocean.
+<gallery spacing="small" hideaddbutton="true">
+OOB .png|thumb|Flying up to the coliseum
+Sky OOB.png|thumb|Falling under the valley
+</gallery>
+{{Clear}}
+
+=== Starfield Memorial/Coliseum===
+The Valley Coliseum (known to many as Starfield Memorial) is undoubtedly the most visited Out of Bounds area, and also relatively easy to reach given enough flight power. Newer players may also reach this location easily by bringing a friend to recharge with. Furthermore, there are two different versions of the Coliseum which players may explore.
+
+To find the Coliseum, start in the Valley Temple. Very high up on the right hand side of the building there are windows to let light inside. The one nearest the Temple entrance - the rightmost one when facing the right wall - has a gap in its invisible barrier. Thus, it is possible to pass through into the Out of Bounds. The other windows cannot be crossed. When bringing a friend, you may recharge on the window's ledge. When jumping off the ledge: head to the left – towards the Wasteland entrance. Instead of going through the clouds fly up above them as if aiming for the Temple structures. You can either explore these or head for the Coliseum itself, which is floating ahead of the cloud layer.
+
+Upon arriving at the OOB, there will be a night-time setting, and there will be a clear view of Eden in the sky.
+
+When players visit the Coliseum before watching the Temple cut-scene the Coliseum will have night-time lighting as you get closer. Inside the Coliseum, the Valley Elders will be floating in the air. Watching the cut-scene before arriving to the OOB will make moving birds appear in the sky and will also bring the Elders to the ground for a short period. After this short period of time, the Elders will go back to floating in the air and the birds will disappear. A large fire will take place underneath the elders, in which players can recharge with. 
+
+''Note: Previously the Coliseum had a night/day setting, however this has now been changed after a recent update.''  
+<gallery widths="185" hideaddbutton="true">
+Stadium Night 3.jpg|Coliseum before landing and triggering a lighting change
+Stadium night 1.jpg|Inside an alcove
+Stadium night 2.jpg|Overview
+Stadium Night 4 .jpg|Temple, viewed from the Coliseum
+Stadium day 6.jpg|View from afar (Daytime)
+Stadium day 1.jpg|Coliseum (Daytime)
+Stadium day 4.jpg|Temple, viewed from the Coliseum (Daytime)
+Stadium day 3.jpg|Lighting change at other structures
+Stadium wBirds.JPG|The Coliseum with Birds (after cut-scene)
+Stadium fire.JPG|The large fire at the bottom (after cut-scene)
+</gallery>
+
+===Above the Flying Race/Cloud City===
+This iconic Out of Bounds area can be accessible with friends or solo-player. While it can be done solo, it is significantly easier to bring friends.     
+
+#'''With a friend''' you can do a Piggyback-rocket inside the starting building for the Flying Race; players will be skyrocketed upwards through the roof – soaring to the Temple-structures high above.
+#'''With a friend''', access one the high windows and drop dead (faint emote) with your friend on your shoulder (piggyback emote). Once your friend is outside, they can let go your hand and you can Warp to them or grab their hand.
+#'''In solo player''', go to the right door when opened and lean against the exit as tight as possible (place your avatar in the corner) and start flying upward until your head hit the top door frame, then slightly fly towards the back of the temple thus avoiding being caught in the race. It appears to be easier on the right side as the wind are weaker.
+
+This gives an excellent birds-eye view of the Race's start and the surrounding structures. A ways beyond the stone buildings lies a patch of Clouds which are often referred to as "Cloud City".
+<gallery spacing="small" hideaddbutton="true">
+Valley race 3.jpg|Piggyrocket view
+Valley race 1.jpg|Above the Flying Race
+Starting-point-for-solo-player-oob-valley.jpg|Solo players: Fly upward from this corner then glide to the back.
+Valley race 2.jpg|Above the Flying Race
+Valley race 4.JPG|Heading for Cloud City
+Cloud city 1.jpg|Cloud City from afar
+Cloud city 2.jpg|Cloud City
+4F0D821C-848D-4E0A-804D-A50CE27A03DC.jpeg|View of Eden above Sliding Race
+4376C819-7540-48C8-8137-F8B6DE6F9A66.jpeg|Solo Manta at opposite end of race
+File:Mantas Above The Race.jpeg|Mantas flying above the race
+</gallery>
+
+===Underneath the Village of Dreams===
+There is a Hog-like structure located underneath the Village of Dreams, often referred to as "The King Crab" or the "Stone Crab". Players may use the Chibi fall trick or any other techniques available for them to fall underneath the map. Once the player does this, they will fall into some invisible water, and with some exploration, they should eventually find the crab/hog. The small white light next to it will replenish your wing energy.
+<gallery widths="185" spacing="small" hideaddbutton="true">
+ED3BB4C0-4876-449C-BE70-118E25ED7E35.jpeg
+80E0CFBA-F7F8-4246-B1FE-D13DB92D385C.png
+</gallery>
+
+===The Dark Sky above the Coliseum===
+This view is accessible by flying to the top of the "false" Coliseum in the Village of Dreams area. For this OOB, a solid platform tool (table, bonfire ,etc.) is needed and it is recommended you have a companion to recharge your cape. It isn't possible to fly up from the ski-lift to the Valley Coliseum and it is easier to fly in from the top of the mountain near the ski lift that enters Hermit Valley. Fly near the clouds to recharge cape energy and go alongside the wind wall towards the bridge without flying into the wind wall on the left, and without getting pushed down by the winds on the right of the bridge. Fly up to the top of the Coliseum and place a solid item to land on. Do not fall down through the "false" Coliseum too far or you will be teleported to the racing Coliseum. If you have flown high enough, the sky will turn dark and the valley will have a purple tint. Originally, players were able to stand on the Coliseum, but it has been changed to be non-solid.
+<gallery spacing="small" hideaddbutton="true">
+Dark village of dream .jpg|Dark village of dream as seen by the false coliseum
+Dark village of dreams 2.jpg|Dark village of dream races as seen by the false coliseum
+</gallery>
+
+===Above boats towards hermit village===
+This can be reached a few ways: the first through boat riding glitch (this happens randomly), the second by flying up and above the clouds next to the “station” of the boats, and the third through piggyback rocket glitching with a friend. This gives good views of the coliseum and the sun behind it.
+
+[[File:Above_hermit_boats.jpg|frameless]]
+{{Clear}}
+
+==Golden Wasteland ==
+The Wasteland offers two spectacular views of the Moon – hanging way above the cloud coverage. This view is accessible either in Crab Fields or in Forgotten Ark.
+
+===Moon above Crab Fields/Ark ===
+This view requires players to use the area's wind walls to their advantage. The target are the holes in the clouds high above the exit into the Battlefield. If possible, bring a friend to recharge. To reach the holes, players must first ascend to the tower on either side of the exit. Flying upwards in a circling manner and using the powerful wind coming from the Battlefield direction to propel yourself upwards is the key to ascending higher and higher. Flying directly towards Battlefield will cause players to be blown back - and trigger Closed Cape flight - which results in lost altitude. Instead, fly with the wind by turning around at the right time. Eventually, the cloud cover is reached. Well above the clouds players must place a Chat Table or other Chat object in midair to enjoy the view. For an easier time, it may be better to try a Piggyback rocket - though players will run the risk of hitting a reset wall.
+
+The process is much the same in the Forgotten Ark – players must use the wind walls on the borders of the map to ascend higher and higher. Eventually, the altitude will reach the cloud cover. However, the reset walls in the Ark are very strict; don't fly too far away from the hole in the clouds. Doing so will cause you to be sent back down to the Quest-giver at the ground. Rather than propelling yourself with Cape Energy, coast along the clouds.
+<gallery widths="185" spacing="small" hideaddbutton="true">
+Above shipwreck 1.jpg|Holes in the clouds of Shipwreck
+Above shipwreck 2.jpg|Moon above Shipwreck
+Above shipwreck 3.JPG
+Above ark.jpg|Moon above Forgotten Ark
+Above ark 2.jpeg
+Above ark 3.jpg
+</gallery>
+
+===The "Ice Cream Mountain" ===
+[[File:Eden_above_wasteland_1_.jpg|thumb|300px|The Ice Cream Mountain]]Another relatively popular Out of Bounds area in Wasteland lies above the Social Space – it depicts a view of Eden. Due to its appearance, some players call this the "Ice Cream/Cotton Candy Mountain" or "Disney World." To see this view, players will need a partner, and knowledge of Piggyback rocket or a version of the Piggyback Spiral. Perform a rocket in the Social Space, and then continue upwards toward Eden's mountain for about 10 minutes. There are powerful wind walls, though a relatively straight trajectory upwards and placing a table every so often to stand on should cause the player(s) no problems.
+{{Clear}}
+==Vault of Knowledge==
+Vault offers some of the most peaceful Out of Bounds areas – the area with floating platforms, which is outside the tower structure, along with the Saucer above the Summit area hosting a Spirit/Cosmic Whale. Both of these are great for practicing music after the background music has died down. 
+
+===Floating Platforms===
+[[File:Vault_platforms_1.jpg|thumb|300px|The Third Floor Gazebo inside the OOB area]]
+This area is frequently used as a way to speed-run past the Second and Third Floors of Vault, and is actually a glitched version of the Third Floor. Players may collect the Candle wax, and visit both the Child of Light and the Spirit while in the area. To access it, use a Piggyback rocket on the Second Floor. Be cautious to let go of the rocket almost immediately after activating it, as you will end up either on the Fourth Floor or in limbo. When the Piggyback rocket is deactivated, players may fly outside the walls of the Vault tower, and see an area full of floating platforms.
+
+You can fly around in the circular room outside the area and find the platforms belonging to the Third Floor – with the corresponding Spirit, wax, etc. To reach the Fourth Floor from here, head to the gazebo with the Child of Light on top. If you use 8-10 Wedges to continuously ascend upwards from the roof the Fourth Floor will load. This process also works when in the non-glitched version of the Third Floor.
+{{Clear}}
+===Spirit/Cosmic Whale===
+To see a ghostly Spirit Whale (as the one who appears on the Fifth Floor), players must first ascend all the way to Vault's Summit. This cannot be done with a Piggyback rocket from the Fourth Floor - even if it is the fastest way - since the Spirit Whale will not appear unless players have meditated at the Fifth Floor. Well at the Summit, use a Rocket to get above the "Saucer" high up in the air. This will leave players high in the air above a platform below – above which the Spirit Whale will be visible. However, there are invisible walls which must be bypassed to get close and actually land on the platform. To get inside, use a Piggyback Spiral. It may take a few tries, but the rotation of it should bring you inside the invisible walls eventually. Unfortunately the Spirit Whale cannot be touched or landed on – it is purely a visual thing. However, you can bring a Chat Object to land on for a good view. 
+<gallery widths="200" spacing="small" hideaddbutton="true">
+Vault_spirit_whale_1.jpg|View right after rocket
+Vault_spirit_whale_5.jpg|Spirit Whale
+Vault_spirit_whale_4.jpg
+</gallery>
+
+===The deep dark hole ===
+This deep and dark hole is located in archives, under the maze. To get there, you need to go to the big room and land on the starry floor. Use the Butterfly Charmer expression continuously until you land on the invisible floor, then use a chat table placed upside down under a structure and sit to glitch under (you may have to try at a very low point.) Once you arrived at the bottom, you can find a big hole. The hole is very deep, and light effect doesn't work properly at the bottom of the hole so it's very dark. It is impossible to fly back up. Sometimes, the whole screen turns black at the bottom of the hole which forces you to teleport home, and the players may also turn invisible. '''Currently, this OOB is blocked by [https://sky-children-of-the-light.fandom.com/wiki/Barriers?so=search#Invisible_Thick_Walls invisible thick wall.]'''
+<gallery spacing="small" hideaddbutton="true">
+Vault of Knowledge-Deep Dark Hole.jpg
+File:KakaoTalk 20211113 210718175 05.jpg|falling into the hole
+File:KakaoTalk 20211113 210718175.jpg|looking up while falling
+File:KakaoTalk 20211113 210718175 03.jpg
+</gallery>
+
+===Sewer Pipe in The Cackling crab===
+The [[The Cackling Crab#Sewer Pipe Spell Crabs|Sewer Pipe Spell Crabs]] are located in [[The Cackling Crab]], found in the [[Secret Area]] during [[Days of Mischief]]. To preform this glitch, you must pet [[The Cackling Crab#Mimi the Krill Cat|Mimi the Krill Cat]] to gain the Krill Cat's Curse Spell, along with the Shrink Spell and Tiny Spell. Then, make your way towards the sewer pipe and walk against the upper left corner. Once completed, you should be inside the wall. The floor ends at a certain point, being a hazard for falling.
+
+=== Scrap of eden door ===
+After watching the elder cutscene, you will be transported to a room with a portal to Eden and another portal leading to Home. Do not go through these portals; instead, Chibi Fall on the little sand dunes/rock lumps to get into the void. Fly under the cube-like object to see a featureless model of the Eden gates, similar to the ones in Home and Aviary. Note that the gate isn't known to be a useable or official route to Eden. 
+[[File:Under eden door scrap.png|thumb|Under the scrap]]
+
+===Top View of the Archives ===
+This Easter egg is a good place to go solo. No Chibi glitch, no Piggyback Rocket, no Chat Table, no emote! Just a little flying. Start at the big room where the entrance to the archives is located. The stone platforms going up to the entrance are helpful. There are Candles on a few of them to recharge your Cape. Once you reach the last platform with a Candle, try leaping up now to save the stars on your Cape from being used up. Fly up when you land at the entrance until you reach a place to land. When you look back one way, you'll see a platform in the back. That's the “ceiling“ of the archives! When you look the other way, you'll see the entire view of the entrance room.
+<gallery spacing="small" hideaddbutton="true">
+Platform at the back .png|thumb|Looking back at the ceiling
+Archives adventure OOB.png|thumb|Looking down at the entrance room
+</gallery>
+{{Clear}}
+
+==Eye of Eden==
+{{Eden}}
+Eden is perhaps the most dangerous, but also one of the most beautiful, places to access the Out of Bounds. Players are advised to be cautious, and to bring a friend for support. Two of the locations listed here will require completion of the area past the point of no return.
+=== Inside The Pipe===
+Players can glitch inside of the large pipe in the second area of Eden, bringing them to a few small areas that cannot be exited normally and must be glitched out of. It is the area below the top floor of the pipe, which can be reached by normal means.
+
+Inside there are a number of red crystals similar to the ones outside and the shards from Season Of Shattering, but they do not deplete cape energy, with the exception of the large one in the first room known as the "Heart" or "Apple" of Eden.
+<gallery spacing="small" hideaddbutton="true">
+Outside_Of_The_Pipe.png| Note that the red crystal at the 'entrance' may harm the player before it vanishes.
+The_First_Room_Of_The_Pipe.png | The red crystal inside the first room.
+Inside_Eden_Pipe.jpeg|
+Second_Floor_Inside_Eden_Pipe.jpeg|
+Third_Floor_Inside_Eden_Pipe.jpeg| Just below the Rock Crab room.
+</gallery>
+
+=== Storm clouds===
+Eden is blanketed by a thick cover of dark clouds that obscures any view of the outside area. Players may use a Piggyback rocket from various starting positions to pass through the clouds and glide along the tops of them. There are two possible places where players may end up: an area with black clouds, and an area with lighter ones – centered around a column of light. The first one is reachable via a Piggyback rocket while in the first section of Eden; the other via a rocket after passing through the door into the second section.
+
+The area with black clouds does not allow for much exploration due to wind walls. Rocketing here may also cause server splits – meaning you may lose track of friends. In contrast, the other cloudy area can be explored to a certain extent. Though, the main attraction lies in diving back down through a hole in the clouds. Doing this will allow players to explore Eden's tower and the surrounding areas, which are detailed below. It is also possible to use this as a shortcut – arriving directly at the hallway leading to the point of no return. However, beware the last Dark Dragon and the stream of rocks. 
+<gallery spacing="small" hideaddbutton="true">
+Eden_stormclouds.JPG|Storm Clouds (first area)
+Eden_stormclouds_3.jpg|Storm Clouds (first area)
+Eden_stormclouds_2.JPG|Storm Clouds (second area)
+</gallery>
+
+===Eden Tower ===
+Exploring the surrounding castles and the main tower in Eden is also possible, though dangerous. The first way to access this area entails using a Piggyback rocket after entering the second section of Eden – where you end up in the second version of the storm clouds above. When diving back down below the clouds, aim for the waterfall/beam of light. Another, perhaps easier, way to visit this OOB is to utilize a hole in the wall of the building at the very start of the second area. After passing through the transition from the first area, open the door and walk forward to trigger both of the cutscenes which could otherwise interfere later. Head back down inside the building and look for a crevice in the wall near the entrance from the first area. Jumping and forcing yourself forward in this crevice will cause players to end up Out of Bounds – able to fly up unhindered outside the intended path up the mountain. There are plenty of clouds to recharge with. In fact, this is the route most Eden speedrunners will take. If looking for a space to land, head for the column of light – preferably after gaining a little altitude.
+
+Here, players may land and explore the area outside the main ascent to the hallway. Ideally, let a friend with Warp unlocked stand in a safe spot while you fly out looking for a new place to land. Previously, players could land at the very highest point in of the Eden tower. This has now been patched out. Instead, placing and landing on a Chat Object is necessary to get a high enough view. Players can also dive down to the non-OOB area below and enter the hallway as normal. 
+<gallery spacing="small" hideaddbutton="true">
+File:Eden tower 1.JPG|Eden Tower from the ground
+File:Eden tower 2.JPG|Eden Tower
+File:Eden tower 3.JPG|View from above
+File:Lipclip.gif|Eden Clip, the best way to access everything out of bounds in Eden
+</gallery>
+
+===Colorless Realm===
+Yet another interesting Out of Bounds location in Eden is the so-called "Colorless Realm", where visiting skykids are shrouded in fog and dust – only silhouettes against the backdrop. To get here, it is necessary to bring a friend, and a Chat Object to move through walls. Starting from the hallway leading to the point of no return, try to glitch through the left hand wall. There will be multiple layers of wall to get through. Get a friend past the first section using a Chat Object, and let them offer you a hand – so that you are also inside the first section. You may then get them past the second wall. From here on players will be able to explore the "colorless" version of the second Storm Clouds area mentioned above. Diving down to the very bottom will intensify the colorless effect, but players may also land on the long outstretched ledges around the clouds. The easiest way to move around the area is to use Piggyback Rockets. Diving down through the hole in the middle of the Storm Clouds will land players at Eden Tower or the area in front of the hallway. 
+<gallery spacing="small" hideaddbutton="true">
+Eden_colorless_1.JPG
+Eden_colorless_2.JPG|Ledges to land on
+Eden_colorless_3.JPG|Down at the bottom
+Eden_colorless_4.JPG
+Eden_colorless_5.JPG
+Eden_colorless_6.JPG|Far view of the Storm Clouds
+</gallery>
+
+=== Lost Area ===
+[[File:SOeden-lost-area.PlantLady68.png|thumb|Lost Area]]
+The Lost Area is located outside the blanket of storm clouds. There are small holes you can fly through in the clouds: no Piggyback Rocket needed. Be warned: if you fly too low in the Lost Area, you will be submerged in an invisible giant pond of polluted water. The Lost Area is a red void with small rocks that will take you a long time to hit the water pond. The only way to escape the pond before you lose your light is to return home and if desired, resume your journey inside the clouds via the Return Shrine. Since there is the polluted water pond, it's recommended to bring a friend.
+<gallery spacing="small" hideaddbutton="true">
+SOeden-lost-area-sky-moth.PlantLady68.png|Lost Area
+SOeden-storm-clouds-shiny.PlantLady68 .png|Shiny clouds just before Lost Area
+</gallery>
+{{Clear}}
+
+=== Eden Ascension Castle===
+Past Eden's last area, on the ascent to Orbit, players can also visit an Out of Bounds location through just the usage of flight. This location does not have a definite name it is known by, sometimes called "Disney Castle" or "Harry Potter Castle."
+
+To get to this location, players will need to fly though one of the large holes in the clouds above the Jellyfish area. When arriving to this section of the ascent, pause on top of the first Jellyfish and turn the player avatar around. The largest of the holes will have a wind barrier in place. Thus, fly up through the hole on the left hand side when looking up from on top of the Jellyfish. Once the area above the clouds is reached, take a left through the large buildings. Going too far the right will get you sent back into the Orbit ascent. It's possible to land on the castle-like buildings seen in the pictures below. However, the flying mechanics make it difficult; you are constantly being pulled upwards. Flying too high will get players locked into the Orbit Ascent.
+<gallery hideaddbutton="true">
+paper_castles_2.JPG|Paper Castles
+paper_castles_1.JPG|Paper Castles
+paper_castles_3.JPG|Just after being locked into the ascent
+</gallery>
+
+===Rebirth Gate===
+There's also a very unique Out of Bounds location to see in Orbit proper – the insides of the Rebirth Gate. This location will require a way to get past a barrier; bring a friend with Piggyback unlocked, or a friend and a Chat Object. It's also possible to go solo, but a lot easier with company. Head for a spot in the barrier on the left hand side of the Rebirth Gate where the wind isn't too strong. Glitch through and slowly walk around the back of it. You should see the Rebirth Gate as a large white block. Going inside (from the short side) will give both a very beautiful and unique view depending on the camera direction. Be careful to not walk too far inside. It's safest to backtrack when leaving – as to ensure every player gets to collect the Winged Light there. 
+<gallery widths="185" spacing="small" hideaddbutton="true">
+Orbit gate 1.JPG|Inside the Rebirth Gate
+Orbit gate 2.JPG|When camera is turned around
+Orbit gate 3.JPG
+</gallery>
+
+===Cave of Eden===
+A less exciting OOB, the Cave of Eden is a small underground area located near the temple in the first part of Eden. In order to enter this cave two players must use the table to glitch through a wall on the left side facing toward you (from the entrance) and then once outside (picture below) turn right and squeeze through several different cracks to enter the small cave. Unlike some of the other Out of Bounds Areas there is no apparent glitching in the walls once you are in. The cave has a small crack near the center of the cave that is easy to fall into and is hard to get out of, so be careful. The cave is very small, has several ledges along the side, and has a pretty wide bottom with a hole near the middle. The cave is not very interesting, but is a neat place to have some fun with friends or explore with lanterns.
+
+<gallery spacing="small" hideaddbutton="true">
+File:Wall to enter Eden’s Cave.jpg|Wall/Floor to Glitch Through 
+File:Cave of Eden area outside of cave.jpg|Outside of the Temple
+File:Cave of Eden inside.jpg|Inside the Cave
+File:Inside of the Eden cave 2.jpg
+File:Inside the cave 3.jpg
+</gallery>
+
+== Aviary Village ==
+There are multiple out-of-bounds zones in [[Aviary Village]].
+
+====Liminal Aviary====
+Liminal aviary can be accessed by clipping out of bounds in any way within the cape or hair store. The area used to look different during versions 0.23.4 and 0.23.0, during which you could access it by flying through the under construction area in the hat shop or by hugging the exit wall inside the [[Season of Revival#Shops & Cosmetics|seasonal cosmetic shop]] for [[Season of Revival]]. These two access points were later patched out of the game and blocked by a [[Glossary of Terms#Transition Screens|transition barrier]]. In these previous versions, Liminal Aviary used to be bathed in sunlight.
+<gallery spacing="small" hideaddbutton="true">
+File:Liminal aivary town square.jpg|A view of liminal aviaries town square
+File:Liminal aivary windows.jpg|There are windows instead of the door to the spell shop
+File:Liminal aivary cave to portals.jpg|Instead of the tunnel leading to portals, it leads to an empty cave
+File:Liminal aivary baseplate.jpg|A picture of liminal aviary's baseplate with the temple in the background
+File:Aviaryoobpart3.jpg|The belltower in Liminal Aviary in 0.23.0
+File:Aviaryoobpart4.jpg|Unfinished Cape Shop inside Liminal Aviary
+</gallery>
+
+==== Aviary Temple ====
+The aviary temple is a sub-zone of liminal aviary. It can be accessed by flying over the main buildings of Liminal Aviary. There is a tunnel on the side of it which leads to the [[Season of Revival#Shops & Cosmetics|seasonal cosmetic shop]] for [[Season of Revival]]. This sub-zone also used to look different during versions 0.23.4 and 0.23.0.
+<gallery spacing="small" hideaddbutton="true">
+File:Liminal aivary temple.jpg|A view from atop the aviary temple
+File:Aviaryoobpart2.png|A view from the top of Aviary Temple in 0.23.0
+File:Liminal aivary temple tunnel.jpg|A view from the tunnel in aviary temple
+File:Liminal void.jpeg|A view from below liminal aviary before landing in aviary void
+</gallery>
+
+=== Midnight Aviary ===
+Midnight aviary is accessed by chibi falling inside Aviary's Spell shop. Once inside the OOB, there are two different lighting ambience: Glowing Aviary and Midnight Aviary. The ambience that is seen depends on where you standing in this OOB. If you are farther away from the town square you'll most likely experience Glowing Aviary while Midnight Aviary can be seen when standing closer to town square. Additionally, off to the right of the town square (while facing the belltower), there are three pink pigs floating above the Aviary Void. <gallery spacing="small" hideaddbutton="true">
+File:Midnight-Aivary-1.jpg|town square in midnight aviary
+File:Midnight-Aivary-2.jpg|The two building in midnight aviary
+File:Midnight-Aivary-3.jpg|The waterfall in midnight aviary
+File:Evening-Midnight-Aivary.jpg|Town square at glow point
+File:Evening-midnight-aivary-2.jpg|The two building at glow point
+File:Aivary void midnight.jpg|A view from below midnight aviary before landing in aviary void
+File:Aivary void midnight 2.jpg|Aviary void in the midnight aviary area
+</gallery>
+
+==Elder Cutscenes ==
+These Out of Bounds locations require their own separate section of the page, as the technique used to visit them differs markedly. There are also several ways to visit some of the Elders – and thus several versions of them to see. Each one, barring the Vault Elder, will have a "dark" and "lit" version. Players who have seen the cutscene will see the Elder in their "lit" version, as this is when they change appearance. See the ''Video Gallery'' section below for some fantastic guides on the topic. 
+
+Getting to these places depends on the device used and the version of the game. Valley and Vault can be visited solo with a variety of simple tricks, while Isle lays beyond a wind wall and Prairie, Forest, and Wasteland are blocked with reset barriers.
+
+Players with elder pins from [[That Sky Shop]] can use the Star Effect to teleport to corresponding elder OOB areas instantly with friends.
+
+===Isle of Dawn===
+In Isle, the Elder cutscene is accessible via a carefully directed horizontal rocket or other techniques. In addition to the Elder himself, a glowing impression of Mount Fuji (see Isle of Dawn section above) is also visible on the right hand side and brightly colored water is visible below. Players can join friends with the Warp ability. This OOB is surrounded by wind walls.
+<gallery hideaddbutton="true">
+Isle_elder_1.jpg|Isle Elder (dark)
+Isle elder 4.jpg|Isle Elder (lit)
+Isle elder 3.jpg|Mount Fuji inside the Elder room
+</gallery>
+
+===Daylight Prairie===
+This OOB is surrounded by reset barriers. You can only visit without a STAR pin if you are able to disable the reset with a glitch - of which the easiest methods have been patched. 
+<gallery hideaddbutton="true">
+Prairie_elder_3.jpg|Prairie Elder (dark)
+Prairie_elder_4.jpg|Prairie Elder (dark)
+Prairie_elder_1.jpg|Prairie Elder (lit)
+</gallery>
+
+===Hidden Forest===
+This OOB is surrounded by reset barriers. You can only visit without a STAR pin if you are able to disable the reset with a glitch - of which the easiest methods have been patched. Depending on whether players watched the cutscene the lighting will shift significantly. Those who are sent in without sitting for the cutscene will not only see the Elder in a different position (sitting down), but the lighting will also be night-esque – similar to the lighting during the actual cutscene. Players who view the cutscene and Warp to friends inside the Elder's room will have a peachy sky instead. This is also the lighting players who leave the area, re-join and warp to the player who saw the cutscene will have. If the player waits long enough in the room with the "lit" version, the Elder will assume a sitting pose here as well. 
+<gallery hideaddbutton="true">
+Forest_elder_3.jpg|Forest Elder (dark)
+Forest_elder_4.jpg|Forest Elder (dark)
+85561185-A27B-4E25-915E-C009A24CD4AD.jpeg|Elder (lit) before lighting change
+Forest elder 1.jpg|Forest Elder (lit)
+Forest Elder 4.jpg|Forest Elder (lit)
+Forest Elder 2.jpg|After sitting down
+</gallery>
+
+=== Valley of Triumph===
+The Valley Elders are different from those of the previous Realms because they can be found in the above mentioned Out of Bounds Coliseum in Valley. When visiting before watching the cutscene, the Elder pair will be floating in the air above the bottom of the Coliseum. Actually standing near them would require players to place a Chat Object and land on it in midair. Thus, it's easier to get a closer look when visiting the Coliseum after watching the cutscene. The Elders will appear on the floor for a short time before disappearing up into the air again. Read more on how to get to the Coliseum under Valley of Triumph above.
+<gallery widths="185" hideaddbutton="true">
+Valley Elders 2.png|Valley Elders in Coliseum (daytime)
+Valley Elders 3.jpg|After returning to the sky
+Valley Elders 4.jpg
+ValleyElderS 03.jpg|Both Valley Elders, in sunset/day form
+Valle elders night 1.JPG|Valley Elders in Coliseum (nighttime)
+Valley elders night 2.JPG|Valley Elders in Coliseum (nighttime)
+Stadium elders.JPG|Valley Elders in Coliseum both on the ground (after cut-scene)
+</gallery>
+
+=== Golden Wasteland===
+The Wasteland Elder is often the trickiest of all to visit. There are currently '''two''' known methods, though each will reward players with different versions of the Elder. These are referred to either as the "hard" or "ultra hard" method. The normal Chat Object method will not work without taking certain precautions, as players will run into reset walls and be sent back to the start of the Temple.
+
+One view entails seeing the "dark" version of the Elder high up in the air in the tower above the gatehouse. To reach him, another player must move their friends inside this tower. Well inside it, the Elder is hanging high above the ground and may be hard to spot. Placing a Chat Object in midair is required to get close.
+<gallery hideaddbutton="true">
+wasteland_elder_1.JPG|Wasteland Elder (dark)
+wasteland_elder_3.JPG
+wasteland_elder_4.JPG
+</gallery>Seeing another version of the Elder is also possible. This time, the Elder will first appear down by the gatehouse, with a lit up appearance. The Elder will, after a time, "poof" and disappear up into the tower where the gallery pictures of the above view were taken. 
+
+This OOB is surrounded by reset barriers. You can only visit without a STAR pin if you are able to disable the reset with a glitch - of which the easiest methods have been patched.
+<gallery hideaddbutton="true">
+Wasteland elder 7.JPG|Elder (lit) down by the gatehouse
+Wasteland elder 4-0.JPG|Elder high up in the air
+Wasteland elder 6.JPG|Elder high up in the air
+</gallery>
+
+===Vault of Knowledge===
+The Vault Elder can also be reached through several methods, which are all initiated inside the transition area between Vault and Eden. Players will need either a Chibi mask, a Chat Object or a partner to use a Piggyback rocket with. 
+
+*Chibi mask: Use one of the small slopes of sand to sink through the floor using the leg-pull method discussed under ''Chibi tricks''. The goal is to fly down to the large cube below, but players will need to keep flying high until the edge of it is near; there is a reset zone directly below the transition room
+*Chat Object: Glitch through one of the walls in this area and drop down to the large cube below – be careful of the reset zone
+*Piggyback rocket: Start a Piggyback rocket inside the transition area and use it to escape the room. Resume control and fly down to the large cube below
+
+All of these methods will leave players at a large stone cube. Following the edge of this cube will lead players to the Vault Elder's Island, which is floating in the air a distance away from the cube. The lighting in this area will always be dark unless the player keeps the camera zoomed out to an eagle eye's view.
+<gallery hideaddbutton="true">
+Vault_elder_1.jpg|The Elder's Island
+Vault_elder_2.jpg|Vault Elder
+</gallery>
+
+===All Elders===
+The last cutscene before players have successfully completed every Realm before Eye of Eden is the all-Elder cutscene – viewed in conjunction with the Vault Elder cutscene. To visit it, players will first need to arrive at the large cube below the transition area between Vault and Eden. See the methods for doing this under the Vault Elder. The cutscene is inside this cube. To enter it, player will need to use either a Piggyback Spiral or a Chat Object to Chibi-glitch into a 90-degree cliff. Both of these methods are discussed in the ''How to get Out of Bounds'' section of the page. Players can also land on a model of the Eden portal floating below the cube and Piggyback Rocket from there.
+<gallery hideaddbutton="true">
+All elders 1.jpg|View from above
+All elders 2.jpg|All the Elders
+All elders 3.JPG|All the Elders
+</gallery>
+
+==Video Gallery ==
+Elder Videos by Jojo. Click on the image in the gallery below to be redirected to the corresponding video. Jojo's YouTube channel is found [https://www.youtube.com/channel/UCQu7I0PV30bZ5gPwcu7nUyg here.]
+<gallery navigation="true" hideaddbutton="true">
+Intro and prairie elder vid.jpg|INTRO + Prairie Elder|link=https://youtu.be/HXhFKga3xsQ
+Isle elder vid.jpg|Isle Elder|link=https://youtu.be/hWFbIHkw5Tg
+Forest elder vid.jpg|Forest Elder|link=https://youtu.be/ybud0qb60XM
+Valley elder vid.jpg|Valley Elders|link=https://youtu.be/unoSP4ygdzY
+Wasteland elder vid hard.jpg|Wasteland Elder (Hard, Patched)|link=https://youtu.be/ETHz8sdvsTo
+Wasteland elder vid ultra hard.jpg|Wasteland Elder (Ultra Hard, Patched)|link=https://youtu.be/5BIO1hF7SX0
+</gallery>
+Elder Videos by Jane Sky. Click on the image in the gallery below to be redirected to the corresponding video. Jane's YouTube channel is found [https://www.youtube.com/channel/UCEecnsmIjUNFsIwlhI4jJHw here.]
+<gallery navigation="true" hideaddbutton="true">
+Jane sky thumb vault elder.jpeg|Going alone to the Vault Elder cutscene|link=https://youtu.be/3motyMToJjk
+Jane sky thumb all elders.jpeg|Going alone to the All Elder cut-scene|link=https://youtu.be/2BeTW-nXxKI
+</gallery>
+
+Possible videos to add, permission is needed for all:  
+
+*<nowiki>#oobexplorer Eden colorless realm</nowiki>
+* <nowiki>#oobexplorer underground caverns no table</nowiki>
+*Thy Sky guy: Visiting Harry Potter/cardboard castles in Eden
+*Thy Sky guy: Hidden Forest Pink Clouds
+*Glitchedsocks: The Liminal Aviary
+*Glitchedsocks: The Sleepy Aviary
+
+[[ru:Затекстурье Sky]]
+[[fr:Hors Limites]]
+[[de:Außerhalb der Grenzen]]
+[[pt-br:Fora dos Limites (OOB)]]
+
+[[Category:Advanced Guides]]

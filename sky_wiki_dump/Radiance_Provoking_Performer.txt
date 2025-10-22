@@ -1,0 +1,214 @@
+{{Distinguish|Provoking Performer}}
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Radiance-Provoking-Performer-spirit-cutout-undyed.png|Original
+Radiance-Provoking-Performer-spirit-cutout.png|Dyed
+</gallery>
+|cosmetics = {{Spirit Item|Radiance Provoking Performer|Outfit|infobox}}{{Spirit Item|Radiance Provoking Performer|Shoes|infobox}}{{Spirit Item|Radiance Provoking Performer|Headpiece|infobox}}{{Spirit Item|Radiance Provoking Performer|Cape|infobox}}
+|instruments = {{Spirit Item|Radiance Provoking Performer|Instrument|infobox}}
+|season    = Radiance
+|realm     = Aviary Village
+|location  = [[Aviary_Village#Dye_Workshop|Dye Workshop]]
+|ts        = None
+}}
+
+<section begin="Summary" />The Radiance Provoking Performer is a [[Seasonal Spirit]] from the [[Season of Radiance]] who offers the {{Emote|Radiance Provoking Performer|inline_text}} Expression. The Radiance Provoking Performer was found in the [[Aviary Village]], to the left of the Village Plaza's [[Constellation Table]]. The collectibles [[#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Radiance Provoking Performer|Outfit|inline_text}}, {{Spirit Item|Radiance Provoking Performer|Shoes|inline_text}}, a {{Spirit Item|Radiance Provoking Performer|headpiece|inline_text}}, a {{Spirit Item|Radiance Provoking Performer|Cape|inline_text}}, and the {{Spirit Item|Radiance Provoking Performer|Instrument|label=Cymbals Instrument|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Radiance-Provoking-Performer-Introduction-image.png|none|thumb|300x300px|TGC's Promo image]]
+<!--
+==Memory==
+
+{{WIP
+|pagetype = memory
+|placedby =
+|comment  =
+}}
+The {{PAGENAME}} can be found <describe location>. This Spirit is a [[Standard Memory|standard memory]] quest with <number> memory fragments OR a [[Carry Spirit Memory|carry-Spirit memory]], with a <number>-minute overall [[Timed Memory|time limit]]. 
+
+As their memory unfolds, the Spirit(s) is/are seen <describe other spirits in memory>.
+
+At the end of the memory, <describe how spirit uses the emote>.
+
+{{Clear}}
+-->
+==<span id="Expression">Expression</span>==
+This Spirit offers the {{Emote|Radiance Provoking Performer|inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Radiance-Provoking-Performer-Dance-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Radiance-Provoking-Performer-Dance-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Radiance-Provoking-Performer-Dance-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Radiance-Provoking-Performer-Dance-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+Radiance-Provoking-Performer-Dance-emote-level-3-side.gif|{{Icon Name||emote_name}} Level 3 side
+</gallery>
+*Level 1 will make your avatar raise their hands in front of their chest, palms loosely facing down, and rhythmically circle them counter clockwise while rocking their body along to the synth beat playing during the Expression. This action is continued for as long as you don't move your avatar. Upon canceling the Expression, your avatar will position their arms parallel to each other, palms facing inwards, before slightly shaking their arms in place.
+*Level 2 makes the same motion as Level 1, with a glowing blue circle flickering on each wrist as the dance is performed.
+*Level 3 will make your avatar shortly start rocking their body before energetically walking in place with rhythmic steps, rocking their body from side to side and pumping their hands back and forth, all in rhythm with a synth beat playing during the Expression. This action is continued for as long as you don't move your avatar. Upon canceling the Expression, your avatar will come to a halt, tilt their body sideways and cross their arms.
+*Level 4 makes the same motion as Level 3, with white starbursts appearing at the hands, white trails following the feet and tiny white sparkles bursting at the ground as the feet touch it. Upon canceling the Expression, all effects disappear and two vertical lines of golden particles appear in front of the legs, before they slowly rise up and fade.
+
+<!--As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Heart|4}}, {{Heart|3}}, and {{Heart|6}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.-->
+
+==Cosmetics==
+===<span id="Outfit">Outfit</span>===
+The [[Outfit]] offered by this Spirit is a white sleeveless top with ballooning skirt-like pants. The beige pants have two paler stripes on the front of each pleat. Two thick sashes are tied at the belt and drape around each side of the waist. It was offered to all players for {{Cost|24 SC|season=Radiance}} during the Season, from the Friendship Tree's fifth node ({{Cost|66 SC|season=Radiance}} total).<br>
+<br>
+{{Dye Details
+|area1=the pants
+|cost1=3
+|area2=the belt, and sashs' upper section
+|cost2=2
+}}<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Radiance Provoking Performer|Outfit}} {{!}} The Outfit icon
+{{Icon Name|Radiance Provoking Performer|Outfit|real}} {{!}} The Outfit front
+{{Icon Name|Radiance Provoking Performer|Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Shoes">Shoes</span>===
+The [[Shoes]] offered by this Spirit is a short pair of boots with cuffs decorated with triangular patterns. A rectangular shape covers the shoe's instep/tongue. The uncolored version of this cosmetic is off-white and with darker tan decorations. It was offered to all players for {{Cost|38 SC|season=Radiance}} during the Season, from the Friendship Tree's seventh node ({{Cost|136 SC|season=Radiance}} total).<br>
+<br>
+{{Dye Details
+|area1=the cuff (the triangle pattern will be colored over) and the rectangle shape
+|cost1=1
+}}<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Radiance Provoking Performer|Shoes|icon}} {{!}} The Shoes icon
+{{Icon Name|Radiance Provoking Performer|Shoes|real}} {{!}} The Shoes
+|widths=125|spacing=small|captionalign=center|mode=nolines
+}}
+
+===<span id="Head accessory">Head Accessory</span>===
+The [[Head Accessory]] offered by this Spirit is a design of angular, wave-like lines and triangles on the left temple. The base coloration for this cosmetic is a golden-yellow. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|10 SC|season=Radiance}} total).<br>
+<br>
+''This cosmetic is dyeable as one section, costing {{Cost|1 D}}.''<br>
+<small>These dye costs are the base rates, multiply by 2 if mixing colors. For further details, see [[Dyes]].</small><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Radiance Provoking Performer|headpiece|icon}} {{!}} The Head Accessory icon
+{{Icon Name|Radiance Provoking Performer|headpiece|real}} {{!}} The Head Accessory
+{{Icon Name|Radiance Provoking Performer|headpiece|side}} {{!}} The Head Accessory front angle
+|widths=125|spacing=small|captionalign=center
+}}
+
+===<span id="Cape">Cape</span>===
+The [[Cape]] offered by this Spirit consists of a thin, X-shaped piece of fabric, whose upper parts are draped over the shoulders and cross in front of the chest. The rest of the main piece hangs down the back; between the X's intersection, another stripe of fabric runs down below it. The Cape is decorated with contrasting zig-zag patterns and angular shapes. The uncolored version of this Cape is beige, with darker and lighter shades of tan for the decorative shapes. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's sixth node ({{Cost|98 SC|season=Radiance}} total).<br>
+<br>
+{{Dye Details
+|area1=on the central part of the Cape
+|area2=on its outer edges
+|cost1=3
+|cost2=3
+}}<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Radiance Provoking Performer|Cape|icon}} {{!}} The Cape icon
+{{Icon Name|Radiance Provoking Performer|Cape|front}} {{!}} The Cape front
+{{Icon Name|Radiance Provoking Performer|Cape|interior}} {{!}} The Cape interior
+{{Icon Name|Radiance Provoking Performer|Cape|real}} {{!}} The Cape back
+{{Icon Name|Radiance Provoking Performer|Cape|exterior}} {{!}} The Cape exterior
+|widths=125|spacing=small|captionalign=center|mode=nolines
+}}
+
+===<span id="Instrument">Instrument</span>===
+The [[Instrument]] offered by this Spirit a pair of golden cymbals. The handles feature flat orange tassels with yellow tips. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's third node ({{Cost|24 SC|season=Radiance}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Radiance Provoking Performer|instrument|icon}} {{!}} The Instrument icon
+{{Icon Name|Radiance Provoking Performer|instrument|real}} {{!}} The Instrument
+{{Icon Name|Radiance Provoking Performer|instrument|held}} {{!}} Playing the Instrument
+{{Icon Name|Radiance Provoking Performer|instrument|back}} {{!}} The Instrument on a player's back
+|widths=125|spacing=small|captionalign=center|mode=nolines
+}}
+{{#ev:youtube|W-CAdOtwmOA||inline|Item Showcase}}
+
+<!--   ONLY APPLICABLE ONCE SPIRIT HAS BECOME A TRAVELING SPIRIT 
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling
+|ts_dates=*June 19, 2019 (#01)
+*June 19, 2020 (#02)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = SPIRITNNAME
+|image = 
+|season = season
+
+|nodeC6 = Outfit 60 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Mask 30 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+The hints given before the Radiance Provoking Performer's first appearance were: 
+{{Collapse
+|label=First Visit Hints
+|content=<div>
+*  [ hints can be on the official Sky Discord which are posted a few days before the traveling spirit by staff of thatgamecompany. ]
+</div>
+}}-->
+==Season Friendship Tree==
+{{Friendship Tree Info | season| season=Radiance}} <section begin="Season Friendship Tree" />
+{{Friendship Tree
+|spirit = Radiance Provoking Performer
+|image  = Radiance-Provoking-Performer-spirit-cutout-undyed.png
+|type   = season
+|season = Radiance
+
+|nodeC8 = season_heart 3 SC SP
+
+|nodeL7 = White-dye-container-icon.png SP
+|nodeC7 = shoes 38 SC
+|nodeR7 = 
+
+|nodeL6 = cape SP
+|nodeC6 = Yellow-dye-container-icon.png 32 SC
+|nodeR6 = 
+
+|nodeL5 = Yellow-dye-container-icon.png SP
+|nodeC5 = outfit 24 SC
+|nodeR5 =
+
+|nodeL4 = emote4 SP
+|nodeC4 = emote3 18 SC
+|nodeR4 =
+
+|nodeL3 = instrument SP
+|nodeC3 = Green-dye-container-icon.png 14 SC
+|nodeR3 =
+
+|nodeL2 = Headpiece SP
+|nodeC2 = Green-dye-container-icon.png 10 SC
+|nodeR2 =
+
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+|nodeR1 =
+}}<section end="Season Friendship Tree" />
+
+==Personality==
+On February 13, 2025, TGC officially announced and introduced the Radiance Provoking Performer with the following personality traits<ref>[https://archive.md/CIWl0 https://x.com/thatskygame/status/1890204448590627135]</ref>:
+
+*🎭Considers a good story to be the highest form of entertainment
+*🌧️Returns to Hidden Forest when they need to clear their mind again
+*🧐At this point, they don’t even realize when they’re being dramatic
+*💨Usually wins at hide and seek
+
+==References==
+<references />
+
+[[fr:Interprète provocateur de l'Éclat]]
+[[ja:光に染まる挑戦的な表現者]]
+[[pt-br:Artista Provocante do Resplendor]]
+[[zh:彩染挑釁藝伎]]

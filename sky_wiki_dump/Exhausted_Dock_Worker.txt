@@ -1,0 +1,86 @@
+{{Spirit Infobox
+|type      = Regular
+|emote_type= Emote
+|image     = <gallery>
+Prairie-Spirit-Exhausted-Dock-Worker.png|Standard
+Prairie-Spirit-Exhausted-Dock-Worker-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||facepiece|infobox}}
+|realm     = Daylight Prairie
+|location  = Prairie Caves
+}}
+<section begin="Summary" />The '''Exhausted Dock Worker''' is a [[Regular Spirit]] in [[Daylight Prairie]] who offers the {{Emote|Exhausted Dock Worker|inline_text}} Expression (not to be confused with Prairie's other weary worker, the {{Spirit|Slumbering Shipwright|inline_text}}). The Exhausted Dock Worker is found in a tunnel on the left-hand side of [[Prairie Caves]], behind a [[Spirit Gate]] requiring one Spirit from [[Hidden Forest]]. The only collectible [[Exhausted Dock Worker#Friendship Tree|offered]] by this Spirit is a {{Spirit Item|Exhausted Dock Worker|facepiece|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Exhausted-Dock-Worker-Guide-777-Ed.png|320x320px|thumb|none|Image Guide by 777.Ed]]
+
+== Memory ==
+<div>{{#ev:youtube|https://www.youtube.com/watch?v=QyxnF3E58Xg|||Video Guide by Tara||start=1706&end=1923&loop=1}}
+<br>
+The Exhausted Dock Worker can be found in a tunnel on the left-hand side of [[Prairie Caves]], behind a [[Spirit Gate]] requiring one Spirit from [[Hidden Forest]]. There are two possible entrances to this tunnel: one in the central cave itself, and one closer to the [[Prairie Villages]] exit. This Spirit is a [[Standard Memory|standard memory]] quest with 5 memory fragments and an unlimited overall [[Timed Memory|time limit]].
+
+As their memory unfolds, the Exhausted Dock Worker is seen strolling down through the tunnel, steadily making their way to the boat dock and into the nearby chamber containing a warehouse. 
+
+At the end of the memory, another Spirit pulls a large, heavy jar off the shelves of the warehouse and tosses it to the Exhausted Dock Worker. They catch it, stumbling backwards with the weight of the jar, and hastily sets it down on the step behind them with a huge thud. The Exhausted Dock Worker wipes their brow, and the other worker shakes their head at the unimpressive display.<br>
+<br>
+[[File:01 DP Spirit - Exhausted Dock Worker.png|200px|thumb|none|Relive the Exhausted Dock Worker's memory]]
+</div>
+{{Clear}}
+
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.<br>
+<br>
+[[File:{{Icon Name||emote}}|170px|left]]
+<gallery heights="125" captionalign="center">
+Exhausted-Dock-Worker-wipe-brow-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Exhausted-Dock-Worker-wipe-brow-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Exhausted-Dock-Worker-wipe-brow-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Exhausted-Dock-Worker-wipe-brow-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar raise your right arm to swipe it across their forehead, as if to wipe away sweat.
+*Level 2 makes the same motion as Level 1 with light particles, representing sweat, appearing from the wiping gesture.
+*Level 3 will make your avatar raise both arms to swipe them across their forehead more emphatically, as if to wipe away sweat.
+*Level 4 makes the same motion as Level 3 with light particles, representing sweat, appearing from the wiping gesture.
+
+The prices of the three Expression upgrades are {{Cost|1 C}}, {{Cost|5 C}}, and {{Cost|5 C}}. Levels 3 and 4 are only available after unlocking the Spirit's [[Wing Buff]].
+
+== Cosmetics==
+=== <span id="Mask">Face Accessory</span> ===
+The [[Face Accessory]]<ref name="Mask recategorized">This item was recategorized from a [[Mask]] to a [[Face Accessory]] as a result of the [[Outfit Shrine|Closet]] category expansion in Patch {{v|0.22.0}}.</ref> offered by this Spirit is a silver head guard in the shape of an upside-down "U" (closely resembling the [[Elder of the Prairie]]'s Face Accessory), costing {{Cost|3 H}}. It is permanently available to all players after unlocking the Spirit's [[Wing Buff]] and the Friendship Tree's fifth node.<ref name="Facepiece relocated">The Exhausted Dock Worker's [[Exhausted Dock Worker#Friendship Tree|Friendship Tree]] was modified with Patch {{v|0.10.2}} in August 2020. The Face Accessory was previously available from the Tree's fourth node (i.e., you did not need to purchase the {{Candle|5}} [[Blessing]] first).</ref><br>
+<br>
+{{#tag:gallery
+|{{Icon Name||facepiece}} {{!}} The Face Accessory icon
+{{Icon Name||facepiece_real}} {{!}} The Face Accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Friendship Tree ==
+{{Friendship Tree Info | regular}}
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Exhausted Dock Worker
+|image  = Prairie-Spirit-Exhausted-Dock-Worker.png
+
+|nodeC6 = facepiece 3 H
+| noteC6 = <ref name="Facepiece relocated">The Exhausted Dock Worker's [[Exhausted Dock Worker#Friendship Tree|Friendship Tree]] was modified with Patch {{v|0.10.2}} in August 2020. The Face Accessory was previously available from the Tree's fourth node (i.e., you did not need to purchase the {{Candle|5}} [[Blessing]] first).</ref>
+|nodeC5 = spell5
+|nodeL4 = emote4 5 C
+|nodeC4 = emote3 5 C
+|nodeC3 = wing 1 AC
+|nodeL2 = heart
+|nodeC2 = spell1
+|nodeL1 = emote2 1 C
+|nodeC1 = emote
+}}<section end="Friendship Tree" />
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Emote Loc-Wipe Brow.png
+</gallery>
+
+== References ==
+<references />
+<!-- These details were pieced together after the fact. The 0.10.2 patch notes only state "Fixed issue with Exhausted Dock Worker’s friendship tree". The fact that the Mask (now Face Accessory) was relocated is inferred from [[File:Emote Loc-Wipe Brow.png]] which presumably shows the Tree from May 2020. Feel free to remove this comment if you can confirm the note is correct.-->
+
+[[de:Erschöpfter Dockarbeiter]]
+[[pt-br:Estivador Cansado]]
+[[fr:Travailleur de quai épuisé]]

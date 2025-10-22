@@ -1,0 +1,87 @@
+{{Spirit Infobox
+|type      = Regular
+|emote_type= Emote
+|image     = <gallery>
+Prairie-Spirit-Slumbering-Shipwright.png|Standard
+Prairie-Spirit-Slumbering-Shipwright-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Hair|infobox}}
+|realm     = Daylight Prairie
+|location  = Prairie Villages
+}}
+<section begin="Summary" />The '''Slumbering Shipwright''' is a [[Regular Spirit]] in [[Daylight Prairie]] who offers the {{Emote|Slumbering Shipwright|inline_text}} Expression (not to be confused with Prairie's other weary worker, the {{Spirit|Exhausted Dock Worker|inline_text}}). The Slumbering Shipwright is found in [[Prairie Villages]] on the larger middle island, behind a two-player door. The only collectible [[#Friendship Tree|offered]] by this Spirit is a {{Spirit Item|Slumbering Shipwright|Hair|inline_text}}. <section end="Summary" /><br>
+<br>
+[[File:Slumbering-Shipwright-Guide-777-Ed.png|320x320px|thumb|none|Image Guide by 777.Ed]]
+
+== Memory ==
+<div>
+{{#ev:youtube|TndluWxF7tw||inline|Video Guide}}
+<br>
+The Slumbering Shipwright can be found in [[Prairie Villages]] on the larger middle island, behind a two-player door. This Spirit is a [[Standard Memory|standard memory]] quest with 4 memory fragments and an unlimited overall [[Timed Memory|time limit]].
+
+As their memory unfolds, the Slumbering Shipwright is seen moving throughout their workstation with a hammer in hand, dutifully repairing the broken boat half that sits at the center of the room.
+
+At the end of the memory, the Spirit hammers away at the boat while starting to nod off, missing a few strikes as they nearly fall asleep standing up. A [[Butterflies|Butterfly]] perched on top of the boat flutters off, catching the Slumbering Shipwright's attention as it moves towards the nearby bed. The Spirit sleepily stumbles after it, stretching with a huge yawn before flopping down on their back to settle in for a rest.<br>
+<br>
+[[File:01 DP Spirit- Slumbering Shipwright.png|200px|thumb|none|Relive the Slumbering Shipwright's memory]]
+</div>
+{{Clear}}
+
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.<br>
+<br>
+[[File:{{Icon Name||emote}}|170px|left]]
+<gallery heights="125" captionalign="center">
+Slumbering-Shipwright-yawn-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Slumbering-Shipwright-yawn-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Slumbering-Shipwright-yawn-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Slumbering-Shipwright-yawn-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar lean back as they stretch their arms to the side, lifting their right hand to cover their mouth, palm facing outwards, as if to hide a yawn.
+*Level 2 makes the same motion as Level 1 with a pale white "Z" flashing near their head.
+*Level 3 will make your avatar lean back as they stretch their arms to the side, lifting their right hand to cover their mouth with a patting motion, palm facing outwards, before stretching both arms forward with their wrists crossed.
+*Level 4 makes the same motion as Level 3 with light particles following your avatar's right hand and a pale white "Z" flashing near their head.
+
+The prices of the three Expression upgrades are {{Cost|1 C}}, {{Cost|2 C}}, and {{Cost|2 C}}. Levels 3 and 4 are only available after unlocking the Spirit's [[Wing Buff]].
+
+== Cosmetics==
+=== Hair ===
+The [[Hair]] offered by this Spirit is a fluffy mohawk, costing {{Cost|3 H}}. It is permanently available to all players after unlocking the Friendship Tree's second node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair}} {{!}} The Hair icon
+Slumbering-Shipwright-Hair-front.png {{!}} The Hair front
+{{Icon Name||Hair_real}} {{!}} The Hair side
+{{Icon Name||Hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Friendship Tree ==
+{{Friendship Tree Info | regular}}
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Slumbering Shipwright
+|image  = Prairie-Spirit-Slumbering-Shipwright.png
+
+|nodeC5 = spell5
+|nodeL4 = emote4 2 C
+|nodeC4 = emote3 2 C
+|nodeC3 = wing 1 AC
+|nodeL2 = hair 3 H
+|nodeC2 = spell1
+|nodeR2 = heart
+|nodeL1 = emote2 1 C
+|nodeC1 = emote
+}}<section end="Friendship Tree" />
+
+==Trivia==
+*The sound effect during {{Emote||inline_text}} and four other particular Expressions ({{Emote|Laughing Light Catcher|inline_text}}, {{Emote|Chuckling Scout|inline_text}}, {{Emote|Sneezing Geographer|inline_text}}, and {{Emote|Cackling Cannoneer|inline_text}}) are different when heard from unlit (gray) and extinguished players. This difference extends to all Levels of the Expression.
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Emote Loc-Yawn.png
+</gallery>
+
+[[de:Müder Bootsbauer]]
+[[pt-br:Fabricador de Barcos Sonolento]]
+[[fr:Fabricant de bateaux somnolent]]

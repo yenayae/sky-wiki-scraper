@@ -1,0 +1,105 @@
+{{Spirit Infobox
+|type      = Regular
+|emote_type= Emote
+|image     = <gallery>
+Forest-Spirit-Tearful-Light-Miner.png|Standard
+Forest-Spirit-Tearful-Light-Miner-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Hair|infobox}}
+|realm     = Hidden Forest
+|location  = Boneyard
+}}
+<section begin="Summary" />The '''Tearful Light Miner''' is a [[Regular Spirit]] in [[Hidden Forest]] who offers the {{Emote|Tearful Light Miner|inline_text}} Expression. The Tearful Light Miner is found in a cave near the end of [[Boneyard]], to the right of the broken bridges leading to the Temple. The only collectible [[Tearful Light Miner#Friendship Tree|offered]] by this Spirit is a {{Spirit Item|Tearful Light Miner|Hair|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Tearful-Light-Miner-Guide-777-Ed.png|320x320px|thumb|none|Image Guide by 777.Ed]]
+
+== Memory ==
+<div>{{#ev:youtube|-qlPyROfiew||inline|Video Guide by Tara}}
+<br>
+The Tearful Light Miner can be found in a cave near the end of [[Boneyard]], to the right of the broken bridges leading to the Temple. There are four openings in the roof of the cave, in addition to the two ground-level entrances that are blocked by [[Darkness|Darkness Plants]]. This Spirit is a [[Standard Memory|standard memory]] quest with 5 memory fragments and an unlimited overall [[Timed Memory|time limit]]. All of the memory fragments are [[Spirit Health|sheltered]] from the [[Flora,_Minerals_and_Elements_of_Sky#Rain|rain]].
+
+As their memory unfolds, the Tearful Light Miner and three other Spirits are seen trapped within the cave by the Darkness Plants covering the entrances. Several large boulders then collapse and pin down two of the unfortunate Spirits, and the Tearful Light Miner and remaining Spirit desperately attempt to free them from the rubble - to no avail.
+
+Some time later, a pair of grave markers made of small stones are stacked in the center of the cave in honor of their memory. The desolate Tearful Light Miner rests with the other surviving Spirit, who has since been engulfed by a Darkness Plant that the player must burn. They do not survive, and the Tearful Light Miner is once again left behind with another addition to the grave markers.
+
+At the end of the memory, the Tearful Light Miner remains the sole survivor of the tragedy. Filled with grief over their fallen companions, they cover their face with their hands and weep.<br>
+<br>
+[[File:02 HF Spirit - Tearful Light Miner.png|200px|thumb|none|Relive the Tearful Light Miner's memory]]
+</div>
+{{Clear}}
+
+==Expression==
+This Spirit offers the {{Emote|Tearful Light Miner|inline_text}} [[Expression]], which has 6 Levels. It is one of only two Expressions to have 6 Levels instead of the usual 4 (the other being {{Emote|Waving Bellmaker|inline_text}}).
+
+Levels 5 and 6 (and the second [[Wing Buff]] that unlocks them) are not needed to complete Hidden Forest's [[Constellation]].<br>
+<br>
+[[File:{{Icon Name||Emote}}|170px|left]]
+<gallery heights="125" captionalign="center">
+Tearful-Light-Miner-crying-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Tearful-Light-Miner-crying-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Tearful-Light-Miner-crying-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Tearful-Light-Miner-crying-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+Tearful-Light-Miner-crying-emote-level-5.gif|{{Icon Name||emote_name}} Level 5
+Tearful-Light-Miner-crying-emote-level-6.gif|{{Icon Name||emote_name}} Level 6
+</gallery>
+
+* Level 1 will make your avatar hunch forward and tilt their head down, with both hands raised to cover their face as they cry.
+* Level 2 makes the same motion as Level 1 with light particles representing tears falling from their eyes.
+* Level 3 will make your avatar fall to their knees and slump forward, with their hands raised to cover their face as they cry.
+* Level 4 makes the same motion as Level 3 with light particles representing tears falling from their eyes.
+* Level 5 will make your avatar slump and fall onto their back to flail all four limbs in a tantrum, and then splay out with a huff.
+* Level 6 makes the same motion as Level 5 with light particles representing tears falling from their eyes.
+
+The prices of the five Expression upgrades are {{Cost|3 C}}, {{Cost|4 C}}, {{Cost|4 C}}, {{Cost|5 C}}, and {{Cost|5 C}}. Levels 3 and 4 are only available after unlocking the Spirit's first [[Wing Buff]], with Levels 5 and 6 only available after unlocking the second.
+
+==Cosmetics==
+===Hair===
+The [[Hair]] offered by this Spirit is a simple long, straight hairstyle that reaches the player's shoulders, costing {{Cost|3 H}}. Note that this style is similar, but considerably ''shorter'' in length than the hair offered by the [[Levitating Adept]]. It is permanently available to all players after unlocking the Friendship Tree's second node.
+
+<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair front
+{{Icon Name||Hair|side}} {{!}} The Hair side
+{{Icon Name||Hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Friendship Tree==
+{{Friendship Tree Info | regular}}
+
+This Spirit's Friendship Tree contains two [[Wing Buffs]] to unlock. The second Wing Buff unlocks the ability to upgrade the [[#Expression|Expression]] two more times, for a total of five upgrades. Only the Tearful Light Miner and the {{Spirit|Waving Bellmaker|inline_text}} have two Wing Buffs and five Expression upgrades.
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Tearful Light Miner
+|image  = Forest-Spirit-Tearful-Light-Miner.png
+
+|nodeC8 = emote6 5 C BONUS
+|nodeC7 = emote5 5 C BONUS
+|nodeC6 = wing 3 AC BONUS
+|nodeC5 = spell5
+|nodeL4 = emote4 4 C
+|nodeC4 = emote3 4 C
+|nodeC3 = wing 1 AC
+|nodeL2 = hair 3 H
+|nodeC2 = spell1
+|nodeR2 = heart
+|nodeL1 = emote2 3 C
+|nodeC1 = emote
+}}<section end="Friendship Tree" />
+
+==Trivia==
+*A bug was introduced in Patch {{v|0.21.5}} that blocked progression of the Tearful Light Miner's memory, as the 2nd memory fragment was placed out of reach. The Spirit's memory could still be completed by using [[OOB]] tricks to access the misplaced fragment. This bug was later fixed in Patch {{v|0.22.0}}.
+*[[Darkness|Darkness Plants]] covering the two ground entrances to the [[Tearful Light Miner]]'s cave, Darkness Plants on the [[Whale Whisperer]] covering the skeleton of the [[Boneyard]], and in the Rejecting Voyager's cave Darkness Plants in [[Isle of Dawn]] are Darknesses that cannot be burned by players with not enough [[Winged Lights]]. If a player try to burn Darkness Plants with less than 3 wedges for Whale Whisperer, less than 2 for Rejecting Voyager, and less than 1 for Tearful Light Miner, will receive a message that says, "You need more {{Icon|Four-point-star-Ray.png|link=}} to melt this."
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Emote Loc-Cry.png
+</gallery>
+
+==References==
+<references />
+
+[[de:Weinerliche Lichtabbauerin]]
+[[fr:Mineuse de lumière en larme]]
+[[pt-br:Mineradora de Luz Triste]]

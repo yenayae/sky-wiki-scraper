@@ -1,0 +1,74 @@
+{{Guide Infobox
+|image     = Rhythm-Guide-Spirit.png
+|ultimates = {{Spirit Item||mask_u|link=#Rhythm Ultimate Mask|infobox}}{{Spirit Item||hair_u|link=#Rhythm Ultimate Hair|infobox}}
+|season    = Rhythm
+|location  = Home
+}}
+<section begin="Summary" />The '''Rhythm Guide''' is a Seasonal Guide from the [[Season of Rhythm]] who offered [[Rhythm Guide#Ultimate Gifts|cosmetics]] and no Quests. The Rhythm Guide was only found at [[Home]] during the Season. The Ultimate Guide offered a {{Spirit Item||necklace_u|link=Rhythm Guide#Rhythm Ultimate Pendant|inline_text}}, a {{Spirit Item||mask_u|link=Rhythm Guide#Rhythm Ultimate Mask|inline_text}}, and a {{Spirit Item||hair_u|link=Rhythm Guide#Rhythm Ultimate Hair|inline_text}} for [[Season Pass]] holders.<section end="Summary" />
+
+==<span id="Ultimate Pendant"><span id="Rhythm Ultimate Pendant">Seasonal Pendant</span></span>==
+The Rhythm Seasonal [[Neck Accessory|Pendant]] is the usual gold pendant featuring the Season's emblem attached to a necklace. It was a [[Season Pass]] exclusive item during the Season, available for free from the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||necklace_u}} {{!}} Rhythm Seasonal Pendant icon
+{{Icon Name||necklace_u_real}} {{!}} Rhythm Seasonal Pendant
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Ultimate Gifts==
+The Season of Rhythm Guide offered 2 Ultimate Gifts, available to be purchased by [[Season Pass]] holders with [[Currency#Season Hearts|Seasonal Hearts]] during the Season of Rhythm only.
+
+===<span id="Ultimate Mask">Rhythm Ultimate Mask</span>===
+The Rhythm Ultimate [[Mask]] is round and dark gray, with a metallic, golden triangle placed under each eye. It was a [[Season Pass]] exclusive item during the Season, available for {{Cost|2 SH|season=Rhythm}} after unlocking the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||mask_u}} {{!}} Rhythm Ultimate Mask icon
+{{Icon Name||mask_u_real}} {{!}} Rhythm Ultimate Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Ultimate Hair">Rhythm Ultimate Hair</span>===
+(''Not to be confused with the [[Performance Guide]]'s Hair.'')<br>
+<br>
+The Rhythm Ultimate [[Hair]] is a ponytail with chin-length sections of hair framing each side of the face, triangle-shaped bangs, and two feather-like strands on top that stick up and back. It was a [[Season Pass]] exclusive item during the Season, available for {{Cost|4 SH|season=Rhythm}} after unlocking the Friendship Tree's second node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||hair_u}} {{!}} Rhythm Ultimate Hair icon
+{{Icon Name||hair_u_real}} {{!}} Rhythm Ultimate Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Friendship Tree==
+The Rhythm Guide Friendship Tree was available from the Rhythm Guide Tree during the [[Season of Rhythm]] only. '''Now that the Season is over, those cosmetics are no longer available.'''
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Rhythm Guide
+|season = Rhythm
+|image  = Rhythm-Guide-Spirit.png
+
+|nodeC3 = hair_u 4 SH AP
+|linkC3 = Rhythm Guide#Rhythm Ultimate Hair
+|nodeC2 = mask_u 2 SH AP
+|linkC2 = Rhythm Guide#Rhythm Ultimate Mask
+|nodeC1 = necklace_u AP
+|linkC1 = Rhythm Guide#Rhythm Ultimate Pendant
+}}<section end="Friendship Tree" />
+
+==Quest Tree==
+Unlike later Ultimate Guides, the Rhythm Guide did not have a Quest Tree since there were no Seasonal Quests. Instead, the [[Season of Rhythm#Spirits and Cosmetics|Seasonal Spirits]] were individually released over the course of the Season, with one added each week.
+
+==Image Gallery==
+<gallery widths="200" spacing="small" captionalign="center" mode="nolines">
+Season-of-Rhythm-Goodbye-Promo-Art.png|Promo Art
+</gallery>
+
+==Trivia==
+* The Rhythm Guide made a short appearance in the finale of the [[Season of Performance]] as the twin sibling of the [[Performance Guide|Performance Guide]]. 
+* The Rhythm Guide can be found in Aviary Village's [[Aviary Village#Hair Salon|Hair Salon]] but cannot be interacted with.
+
+==References==
+<references/>
+
+[[de:Rhythmus-Helfer]]
+[[fr:Guide du Rythme]]
+[[pt-br:Guia do Ritmo]]
+[[ja:リズムの案内人]]

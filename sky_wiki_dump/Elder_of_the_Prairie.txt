@@ -1,0 +1,81 @@
+{{WIP
+|pagetype = elder
+|placedby =
+|comment  =
+}}
+{{Spirit Infobox
+|type       = Elder
+|image      = Elder-Spirit-Prairie.png
+|emote_type = none
+|cosmetics  = {{Spirit Item||facepiece|infobox|label=Prairie Elder Face Accessory}}{{Spirit Item||Hair|infobox|label=Prairie Elder Hair}}
+|realm      = Daylight Prairie
+|location   = Prairie Temple
+|related    = {{Spirit Group|elder|infobox|exclude={{PAGENAME}}}}
+}}
+
+The '''Elder of the Prairie''' (also known as '''Prairie Elder''') can be found at the [[Prairie Temple|Temple]] at the top of the [[Prairie Villages|Villages]] in [[Daylight Prairie]]. Relive the Elder's memory to activate all the Spirits that you previously found in the [[Daylight Prairie]] and open the way to [[Hidden Forest]].
+
+==Memory==
+<div>
+{{#ev:youtube|op_MqYFHYTk||inline|Prairie Elder Cutscene}}
+The camera pans down to show an Elder who appears to be sleeping soundly with a large jar under one arm. Suddenly, the Elder wakes up, gets up, and stretches their arms, extending them to show their full wingspan. They turn around and gasp at the sight of the candles on the altar. The Elder picks up the candle flame and brings it up to their chest, which causes their robe to illuminate. 
+
+Re-energized, the Elder molds a butterfly with the flame between their hands. The glowing butterfly flies away making a circle around the little child (you), but comes back to rest on the Elder's shoulder. 
+
+The Elder offers the big jar to the butterfly and it flies inside. They place the jar squarely on the altar.
+
+Back at the temple, all the jars in the room suddenly explode with sparkles of light and fill the room with butterflies.
+</div>
+{{Clear}}
+
+==Cosmetics==
+===<span id="Face Accessory">Ultimate Shield Face Accessory</span>===
+The Ultimate Shield Face Accessory<ref name="Mask recategorized">This item was recategorized from a [[Mask]] to a [[Face Accessory]] as a result of the [[Outfit Shrine|Closet]] category expansion in Patch {{v|0.22.0}}.</ref> costs {{Cost|75 AC}} and is only available once you have acquired the above Elder's Ultimate Hair.
+
+<gallery widths="125px">
+Elder-Mask-Icon-Prairie-Morybel-0146.png|Face Accessory icon
+Elder-of-the-Prairie-Face-Accessory.png|Face Accessory in its original state
+Elder-of-the-Prairie-Face-Accessory-Shattered.png|Face Accessory in its shattered state
+</gallery>
+
+This Face Accessory is an extended version of the [[Exhausted Dock Worker]]'s Face Accessory from the Daylight Prairie.<br>  
+<br>
+[[File:Elder Mask-Prairie breaking animation.gif|250px|thumb]]
+Unlike other Face Accessories, the Elder Face Accessory is paired with almond shaped eyes. Each Elder Face Accessory comes with a shield function that will protect you from damage from Crabs, Dark Dragons, or rocks. The Face Accessory will not protect you from rain or wastewater. The protection lasts for only one hit or until it's shattered, and then it will need to be recharged. While undergoing your first hit, a blue spherical barrier will appear around you to protect you from losing your [[Winged Light]].
+
+Once you get hit, the Face Accessory appears "shattered", turning it transparent, brown, and no longer luminous. A cracked shield icon will also appear in the Closet next to the used Face Accessory, showing you which one needs to be recharged.
+
+To recharge the Face Accessory, visit the Elder of Prairie and relive the ancient memory animation or open the Prairie Elder in the Orbit Constellation.   
+
+===<span id="Hair">Ultimate Hair</span>===
+The Ultimate Hair costs {{Cost|3 AC}} and is only available once you have completed the Daylight Prairie [[Constellation]]. It consists of a chunk of hair sticking out on each side of the head, pointing slightly upwards.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||hair|icon}} {{!}} Ultimate Hair icon
+{{Icon Name||hair|real}} {{!}} Ultimate Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Friendship Tree==
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Prairie Elder
+<!--|image = Prairie elder asc.png-->
+
+|nodeC2 = facepiece 75 AC
+|nodeC1 = hair 3 AC
+}}<section end="Friendship Tree" />
+
+==Trivia==
+*The Elder of the Prairie is featured in a piece of merch from thatskyshop, in the form of the [[That Sky Shop/Wave 1#Elder of the Prairie Pin|Elder of the Prairie Pin]]. It has a STAR feature which allows you and the friends that you're holding hands with to teleport to the Elder Temple in the Daylight Prairie.
+
+==Gallery==
+<gallery widths="200">
+Prairie elder asc.png
+</gallery>
+
+==References==
+<references />
+
+[[fr:Ancien de la Prairie]]
+[[pt-br:Anciã da Campina]]
+[[de:Ältester der Prärie]]

@@ -1,0 +1,158 @@
+{{Distinguish|Radiance Leaping Dancer}}
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Gratitude-Spirit-Leaping-Dancer.png|Standard
+Gratitude-Spirit-Leaping-Dancer-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Mask|infobox}}
+|instruments = {{Spirit Item||Instrument|infobox}}
+|season    = Gratitude
+|realm     = Valley of Triumph
+|location  = Ice Rink
+|ts        = June 6, 2024 (#115)<br/>July 3, 2023 (SV#3)<br>March 18, 2021 (#31)<br/>June 25, 2020 (#12)
+}}
+<section begin="Summary" />The '''Leaping Dancer''' is a [[Seasonal Spirit]] from the [[Season of Gratitude]] who offers the {{Emote|Leaping Dancer|inline_text}} Expression. The Leaping Dancer is found behind a two-player door on the right side of the [[Valley of Triumph]]'s [[Ice Rink]]. The collectibles [[Leaping Dancer#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Leaping Dancer|Mask|inline_text}} and the {{Spirit Item|Leaping Dancer|Instrument|inline_text|label=Small Bell Instrument}}.<section end="Summary" /><br>
+<br>
+[[File:Leaping-Dancer-promo-image.jpg|thumb|none|320px|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|yIloStW50hE|200px|inline|Video Guide}}
+
+The Leaping Dancer can be found in the small room behind the two-player door in the [[Valley of Triumph]]'s [[Ice Rink]]. This door is at the bottom of a slope, to the right of the tunnel with the [[Troupe Juggler]]. This Spirit has a [[Collection Memory|collection memory]] with 21 memory fragments and a 1 minute and 50 seconds overall [[Timed Memory|time limit]].
+
+Unlike other collection memory Spirits, the Leaping Dancer does not have any memory fragments featuring some sort of story. During their memory, the player must quickly skate around the center ice rink to gather the star-shaped fragments before the time runs out. The player must then open the two-player door once again to return to the Spirit's statue.
+
+At the end of the memory, the Leaping Dancer joyfully springs up into the air, landing on both feet with their arms stretched out.<br>
+<br>
+[[File:03 VT Seasonal Spirit - Leaping Dancer.jpg|200px|thumb|none|Relive the Leaping Dancer's memory]]
+</div>
+{{Clear}}
+
+==Expression==
+This Spirit offers the {{Emote||inline_text}} [[Expression]] (officially called '''Joy'''), which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Leaping-Dancer-leap-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Leaping-Dancer-leap-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Leaping-Dancer-leap-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Leaping-Dancer-leap-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar turn to the side while quickly jumping high up in the air with their arms outstretched and their legs spread vertically and wide apart, before landing on both feet, in a similar pose to the one they struck in the air, while a high-pitched whistling sound effect plays.
+*Level 2 makes the same motion as Level 1, with a trail of white light particles following the movement of your avatar's feet.
+*Level 3 will make your avatar jump up, complete a somersault mid-air, and land on the ground in the same pose as seen in Level 1. A similar whistling sound effect plays, but an extra riff is added during the somersault.
+*Level 4 makes the same motion as Level 3, with a trail of white light particles following the movement of your avatar's feet.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+==Cosmetics==
+===Mask===
+The [[Mask]] offered by this Spirit is red with yellow accents and resembles the face of a fox, with tall, upward pointing ears, a protruding snout, and slanted eyes, costing {{Cost|54 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|40 SC|season=Gratitude}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask front
+{{Icon Name||Mask|side}} {{!}} The Mask side
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Instrument ===
+The [[Instrument]] offered by this Spirit is the '''Small Bell''', costing {{Cost|40 C}} from the Traveling Spirit. It has a metallic body, golden top, interior, and accents, and an orange handle at the top. It was available to all players during the Season from the Friendship Tree's second node ({{Cost|10 SC|season=Gratitude}}total). Most of its characteristics are similar to the {{Instrument|Large Bell|inline_text}}. The player stands up while playing and clanging on the bell with large arm movements.
+<section begin="bell_notes" /><!-- NOTE: This chunk of text is exactly duplicated for the Large Bell -->
+The Bell plays the percussion [[Music Sheet Parts|part]] on Music Sheets. As with all percussion Instruments, it only has 8 notes. These notes are a subset (CDGA in C major) of one octave: i.e., the first row notes are C<sub>4</sub>, D<sub>4</sub>, G<sub>4</sub>, and A<sub>4</sub> (from left to right); the second row notes have the same pitches (C<sub>4</sub>, D<sub>4</sub>, G<sub>4</sub>, and A<sub>4</sub>) but a different timbre. These are a subset of the {{Spirit Item|Cheerful Spectator|Instrument|inline_text}}'s lower octave.  The notes shift based upon the current key, as with all Instruments, so more generally the Bell's notes correspond to notes 8, 9, 12, and 13 of the Piano. However, to add one extra complication, keys G, A♭, A, B♭ or B are shifted down by one octave -- i.e., in those keys the Bell's notes are notes 1, 2, 5, and 6 in the Piano's lower octave.
+
+Note that when playing with other Instruments, other players' notes (the purple notes) are shown based on location, not pitch. So in C major, if a Piano plays G<sub>4</sub> (its 5th note), the note that turns purple for the Bell is its 5th note, which is C<sub>4</sub> instead of G<sub>4</sub>.<section end="bell_notes" />
+
+In [[Harmony Hall]], the Small Bell can be found in the left-hand room, in a corner with the other percussion Instruments.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Instrument|icon}} {{!}} The Instrument icon
+{{Icon Name||Instrument|real}} {{!}} The Instrument
+{{Icon Name||Instrument|held}} {{!}} Playing the Instrument
+{{Icon Name||Instrument|back}} {{!}} The Instrument on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Traveling Spirit==
+[[File:SoG valley TS.PNG|200px|right|thumb]]
+{{Friendship Tree Info | traveling
+|ts_dates=*June 6, 2024 (#115)
+*March 18, 2021 (#31)
+*June 25, 2020 (#12)
+|rs_dates=*July 3, 2023 (SV#3)
+}}<section begin="TS Friendship Tree" />
+{{Friendship Tree
+|spirit = Leaping Dancer
+|season = Gratitude
+|image  = Gratitude-Spirit-Leaping-Dancer.png
+
+|nodeC6 = Mask 54 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Instrument 40 C
+|nodeC2 = spell5
+|nodeR2 = heart 3 C
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+=== Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+No hints were given before the [[Leaping Dancer]]'s first appearance.
+
+The hints given before the [[Leaping Dancer]]'s second appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Second Visit Hints
+|content=<div>
+* Is wishing you a happy bday!
+* Is a fan of cheese and crackers
+* [ktjn] Cannot wait to meet you/see you again
+</div>}}
+
+==Season Friendship Tree==
+{{Friendship Tree Info | season | season=Gratitude}}<section begin="Season Friendship Tree" />
+{{Friendship Tree
+|spirit = Leaping Dancer
+|type   = season
+|season = Gratitude
+|image  = Gratitude-Spirit-Leaping-Dancer.png
+
+|nodeC5 = Mask 5 H AP
+|nodeC4 = spell5 16 SC
+|nodeL3 = emote4 AP
+|nodeC3 = emote3 14 SC
+|nodeL2 = spell5 AP
+|nodeC2 = Instrument 10 SC
+|nodeL1 = emote2 AP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Trivia==
+*It is possible to use the {{Emote||inline_text}} Expression to leap over a [[Dark Crab]] while it is charging at the player, as the avatar's hitbox will move along with their Expression movement.
+*The Leaping Dancer's [[#Mask|Mask]] is featured in a piece of merch from thatskyshop, in the form of the [[That Sky Shop/Wave 3#Gratitude Fox Mask Pin|Gratitude Fox Mask Pin]]. It has a [[STAR]] feature which allows you to wear the Leaping Dancer's Mask with the friends that you're holding hands with for a limited duration.
+
+==Image Gallery==
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape">
+Leaping-Dancer-first-visit-promo-image.png
+Gratitude Valley Emote 2.jpg
+SoG Valley Map2.png
+</gallery>
+
+==Video Gallery==
+{{#ev:youtube|VTh2Qi8BQOM|175|inline|Video Guide by Tara}}
+
+==References==
+<references />
+
+[[de:Springtänzer]]
+[[fr:Danseur bondissant]]
+[[pt-br:Dançarino Saltitante]]
+[[ru:Скачущий танцор]]
+[[ja:飛び跳ねる舞踏家]]

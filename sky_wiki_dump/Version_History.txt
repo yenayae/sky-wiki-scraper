@@ -1,0 +1,457 @@
+This page details the '''Version History''' of [[Sky: Children of the Light]], with the official release information for updates and patches. Any changes to known glitches after these patches have been implemented will also be added to the [[Known Issues]] page.
+
+This page contains full patch notes posted by thatgamecompany on the [https://thatgamecompany.helpshift.com/a/sky-children-of-the-light/?p=all&s=patch-notes official Sky: Children of the Light Helpshift] for archival purposes.
+
+{{VersionHistoryNav}}
+{{Tocright}}
+
+<!-- HOW TO ADD A NEW PATCH:
+1. Copy the following and paste it over the last header: 
+
+==<span id="NEWPATCH">NEWPATCH - Month DD, YYYY</span>==
+Add patch description here. This was a hotfix addressing.../This update brings..., and various other fixes and improvements. {{v|NEWPATCH|Read the full patch notes here.}}
+
+2. Search and find "NEWPATCH" and replace with the new patch numbers only (e.g. 0.29.7)
+3. Fill in the patch's release date.
+4. Add a description for the new patch.
+-->
+==<span id="0.30.9">0.30.9 - October 7, 2025</span>==
+This was a hotfix addressing the issue with gifting the returning Days of Moonlight in-app purchase items. {{v|0.30.9|Read the full patch notes here.}}
+
+==<span id="0.30.8">0.30.8 -  September 16, 2025</span>==
+This was a hotfix addressing the missing Sunlight Bonnet Bundle in the in-game shop. {{v|0.30.8|Read the full patch notes here.}}
+
+==<span id="0.30.7">0.30.7 -  September 11, 2025</span>==
+This was a hotfix addressing issues with Qualcomm GPUs, changes at the Cinema it make it easier for players to restore it, bug with the tents at the seasonal area, Daily Quest localizations for Switch, and a fix for account deletion on Switch. {{v|0.30.7|Read the full patch notes here.}}
+
+==<span id="0.30.6">0.30.6 - September 5, 2025</span>==
+This was a hotfix addressing localization for some Daily Quests, a bug with the speech-to-chat icon, a bug with deleting a sky account, an issue with Facebook login on iOS devices, as well the release date for the [[Season_of_The_Two_Embers_-_Part_1#Projector_of_Memories | Projector of Memories]]. {{v|0.30.6|Read the full patch notes here.}}
+
+==<span id="0.30.5">0.30.5 - August 28, 2025</span>==
+This update brings the last [[Season of The Two Embers - Part 1]] quest, [[Days of Sunlight]], [[Days of Moonlight]], Radiance Event, and various other fixes and improvements. {{v|0.30.5|Read the full patch notes here.}}
+
+==<span id="0.30.1">0.30.1- July 31, 2025</span>==
+This was a hotfix addressing issues with the Cinema UI, bugs and errors with [[Season of The Two Embers - Part 1]] quests and the seasonal area, and various other fixes and improvements. {{v|0.30.1|Read the full patch notes here.}}
+
+==<span id="0.30.0">0.30.0 - July 18, 2025</span>==
+This update brings [[Season of The Two Embers - Part 1]], [[Sky Anniversary]] Part 2, new features such as Speech to Chat, and various other fixes and improvements. {{v|0.30.0|Read the full patch notes here.}}
+
+==<span id="0.29.7">0.29.7 - June 26, 2025</span>==
+This was a hotfix addressing an issue preventing devices on iOS 15 or above from logging in via Steam accounts. {{v|0.29.7|Read the full patch notes here.}}
+
+==<span id="0.29.6">0.29.6 - June 10, 2025</span>==
+This was a hotfix addressing a bug that could result in a player being softlocked before claiming an emote after a Spirit’s memory quest, and various other fixes and improvements. {{v|0.29.6|Read the full patch notes here.}}
+
+==<span id="0.29.5">0.29.5 - May 29, 2025</span>==
+This update brings the remaining [[Season of the Blue Bird]] Quests, [[AURORA: Homecoming]], a group of [[Returning Spirits]], [[Workshop Show & Tell]], [[Sky Anniversary]] and various other fixes and improvements.{{v|0.29.5|Read the full patch notes here.}}
+
+==<span id="0.29.2">0.29.2 - May 7, 2025</span>==
+This was a hotfix addressing an icon update for App Store downloads in Vietnam. {{v|0.29.2|Read the full patch notes here.}}
+
+==<span id="0.29.1">0.29.1 - May 1, 2025</span>==
+This was a hotfix addressing the missing texts when reliving certain Spirits, and various other fixes and improvements. {{v|0.29.1|Read the full patch notes here.}}
+
+==<span id="0.29.0">0.29.0 - April 17, 2025</span>==
+This update brings [[Season of the Blue Bird]], [[Days of Nature]], [[Days of Color]] and adds the option to upgrade your [[Nests|Nest's]] Capacity. {{v|0.29.0|Read the full patch notes here.}}
+
+==<span id="0.28.6">0.28.6 - March 11, 2025</span>==
+This was a hotfix addressing the lighting in places like Sanctuary Islands or the Valley's Coliseum, and various other fixes and improvements. {{v|0.28.6|Read the full patch notes here.}}
+
+==<span id="0.28.5">0.28.5 - February 27, 2025</span>==
+This update brings the remaining [[Season of Radiance]] Quests, Dye-related updates, [[Days of Bloom]]: Sky x Le Petit Prince Encore, a new [[Days of Treasure]] event, a new Spotlight Tech feature, a group of [[Returning Spirits]], and various other additions and improvements. {{v|0.28.5|Read the full patch notes here.}}
+
+==<span id="0.28.1">0.28.1 - January 30, 2025</span>==
+This was a hotfix addressing the issue with odd Radiance Provoking Performer animations, coloring inconsistencies with the tier 2 Capes, players’ Nests appearing empty when starting their game in there, and players losing access to the “edit” crystal in their Nests after disabling visitors. {{v|0.28.1|Read the full patch notes here.}}
+
+==<span id="0.28.0">0.28.0 - January 16, 2025</span>==
+This update brings [[Season of Radiance]], the new cosmetics Dyeing feature, [[Days of Fortune]], [[Days of Love]], the event announcement board in Aviary Village, improved categorizing for [[Outfits]], and various other additions and improvements. {{v|0.28.0|Read the full patch notes here.}}
+
+==<span id="0.27.5">0.27.5 - November 21, 2024</span>==
+This update brings the remaining [[Season of Moomin]] Quests, [[Days of Music]], [[Days of Giving]], Sky × Alice’s Wonderland Cafe collaboration event, a group  of [[Returning Spirits]], New Year’s Fireworks, and various other updates to in-game News, Nests, Aviary Village, [[Daily Quests]], and more. {{v|0.27.5|Read the full patch notes here.}}
+
+==<span id="0.27.1">0.27.1 - October 24, 2024</span>==
+This was a hotfix addressing the issue with Arabic text not displaying correctly in chat messages, animation improvements for the Mischief Withered Broom, unblocking the blocked off cave in Treasure Reef, and various other fixes and improvements. {{v|0.27.1|Read the full patch notes here.}}
+
+==<span id="0.27.0">0.27.0 - October 10, 2024</span>==
+This update brings [[Season of Moomin]], [[Days of Mischief]], updates to the [[Nesting Workshop]], new [[Daily Quests]], and various other additions and improvements. {{v|0.27.0|Read the full patch notes here.}}
+
+==<span id="0.26.6">0.26.6 - September 12, 2024</span>==
+This was a hotfix addressing the issue of White Candles being unusable during a carry interaction, players unable to walk in a straight line during a carry interaction, a glitched walking animation with the Sunlight Beach Shorts, and various other fixes and improvements. {{v|0.26.6|Read the full patch notes here.}}
+
+==<span id="0.26.5">0.26.5 - August 21, 2024</span>==
+This update brings the remaining [[Season of Duets]] Quests, [[Days of Sunlight]], a new [[Days of Moonlight]] event, [[Days of Style]], updates to [[Daily Quests]], a new favoriting emotes feature, and various other additions and improvements. {{v|0.26.5|Read the full patch notes here.}}
+
+==<span id="0.26.3">0.26.3 - August 8, 2024</span>==
+This was a hotfix addressing a partial resolution for the flying Light treats at the [[Additional_Light_Sources#Grandma's_Dinner_Event|Ancestor's Table]], crashes in [[Season of Duets]] and [[Tournament of Triumph]], and screen flashing at the [[Eight Player Puzzle]]. {{v|0.26.3|Read the full patch notes here.}}
+
+==<span id="0.26.2">0.26.2 - August 1, 2024</span>==
+This was a hotfix addressing an issue that caused antivirus software to flag the game. {{v|0.26.2|Read the full patch notes here.}}
+
+==<span id="0.26.1">0.26.1 - July 11, 2024</span>==
+This was a hotfix addressing the issue with teleportation to the regular Coliseum when attending an AURORA concert, and includes fixes and improvements for [[SkyFest]], [[Season of Duets]], and [[Tournament of Triumph]]. {{v|0.26.1|Read the full patch notes here.}}
+
+==<span id="0.26.0">0.26.0 - July 2, 2024</span>==
+This update brings [[Season of Duets]], ''Sky''’s 5th anniversary with [[SkyFest]], a new [[Tournament of Triumph]] event, and various other fixes and improvements. {{v|0.26.0|Read the full patch notes here.}}
+
+==<span id="0.25.6">0.25.6 - June 5, 2024</span>==
+This was a hotfix addressing an issue that could cause unresponsiveness upon launching the game for some Android devices. {{v|0.25.6|Read the full patch notes here.}}
+
+==<span id="0.25.5">0.25.5 - May 23, 2024</span>==
+This updated brings the remaining [[Season of Nesting]] Quests, [[Days of Nature]], [[Days of Color]], and various other fixes and improvements. {{v|0.25.5|Read the full patch notes here.}}
+
+==<span id="0.25.1.1"><span id="0.25.2">0.25.1 / 0.25.2 - April 25, 2024</span></span>==
+This was a hotfix addressing the issue of players friended through an invite code not appearing properly in the Friendship Constellation, startup crashes on Playstation, and various other fixes and improvements. {{v|0.25.2|Read the full patch notes here.}}
+
+==<span id="0.25.1.0">0.25.1 - April 19, 2024</span>==
+This was a hotfix addressing an issue preventing some Android players from making in-app purchases and a reveal of plans for an upcoming five-day Double Seasonal Light event. {{v|0.25.1.0|Read the full patch notes here.}}
+
+==<span id="0.25.0">0.25.0 - April 10, 2024</span>==
+This update brings [[Season of Nesting]], a Sky x Cinnamoroll collaboration event, marks the [[Sky for Steam|official Early Access release of ''Sky'' on PC]], and various other improvements. {{v|0.25.0|Read the full patch notes here.}}
+
+==<span id="0.24.8">0.24.8 - March 22, 2024</span>==
+This was a hotfix addressing Days of Bloom event currency appearing off-schedule and issues adding friends on Android via QR code or friend code input. {{v|0.24.8|Read the full patch notes here.}}
+
+==<span id="0.24.7">0.24.7 - March 10, 2024</span>==
+This was a hotfix addressing the continued crashing issue on Android devices after Patch {{v|0.24.6}}. {{v|0.24.7|Read the full patch notes here.}}
+
+==<span id="0.24.6">0.24.6 - March 7, 2024</span>==
+This was a hotfix addressing crashes on mobile devices, the ability to get stunlocked in the [[Eye of Eden]], broken meditation circles; those most notably being the Shard Eruptions, and the bugged Inbox notification icon. {{v|0.24.6|Read the full patch notes here.}}
+
+==<span id="0.24.5">0.24.5 - February 22, 2024</span>==
+This update brings the remaining [[Season of the Nine-Colored Deer]] Quests, [[Days of Bloom]], some quality of life changes for [[Eye of Eden#February 2024 Changes|Eye of Eden]], and various other improvements. {{v|0.24.5|Read the full patch notes here.}}
+
+==<span id="0.24.4">0.24.4 - February 11, 2024</span>==
+This was a hotfix addressing crashes on Android devices that emerged from the previous hotfix and an extension to [[Days of Fortune]]. {{v|0.24.4|Read the full patch notes here.}}
+
+==<span id="0.24.3">0.24.3 - February 8, 2024</span>==
+This was a hotfix addressing crashes on Android devices with languages set to Arabic, Farsi, or Malay. {{v|0.24.3|Read the full patch notes here.}}
+
+==<span id="0.24.2">0.24.2 - January 30, 2024</span>==
+This was a hotfix addressing crashes that occur when unlocking Seasonal items, the amount of damage the Red Darkness Plants deal during the first Seasonal Quest for [[Season of the Nine-Colored Deer]], and ended the Eden A/B Beta testing group. {{v|0.24.2|Read the full patch notes here.}}
+
+==<span id="0.24.1">0.24.1 - January 18, 2024</span>==
+This was a hotfix addressing startup crashes on Android. {{v|0.24.1|Read the full patch notes here.}}
+
+==<span id="0.24.0">0.24.0 - January 11, 2024</span>==
+This update brings [[Season of the Nine-Colored Deer]], [[Days of Fortune]], [[Days of Love]], updates to [[Home]] & [[Aviary Village]], and various other improvements. {{v|0.24.0|Read the full patch notes here.}}
+
+==<span id="0.23.6">0.23.6 - December 15, 2023</span>==
+This was a hotfix addressing [[Quests|Daily Quests]] in [[Home]] and [[Aviary Village]], missing Seasonal items for capeless players, and year-end fireworks at Home. {{v|0.23.6|Read the full patch notes here.}}
+
+==<span id="0.23.5">0.23.5 - December 11, 2023</span>==
+This update brings the finale of [[Aviary’s Fireworks Festival]], [[Days of Feast]], updates to [[Aviary Village]], changes to new players' introduction to [[Traveling Spirits]], introduced an A/B Beta testing group, an update for returning past IAPs from [[Days of Mischief]], and various other improvements. {{v|0.23.5|Read the full patch notes here.}}
+
+==<span id="0.23.4">0.23.4 - November 9, 2023</span>==
+This update brings the remaining [[Season of Revival]] Quests, the [[Aviary’s Fireworks Festival]], updates to [[Player Creations]], [[Days of Giving]], and various other improvements. {{v|0.23.4|Read the full patch notes here.}}
+
+==<span id="0.23.1">0.23.1 - October 26, 2023</span>==
+This was a hotfix addressing the Days of Mischief softlock and the Daily Quests unlocking and completion issues. {{v|0.23.1|Read the full patch notes here.}}
+
+==<span id="0.23.0">0.23.0 - October 12, 2023</span>==
+This update brings [[Season of Revival]], an update for returning IAP and IGC Event items, [[Days of Mischief]], [[Days of Giving]], and updates to all Player Creations. {{v|0.23.0|Read the full patch notes here.}}
+
+==<span id="0.22.6.1">0.22.6 - August 30, 2023</span>==
+This was a hotfix addressing STAR NFC crashes on the Switch. {{v|0.22.6.1|Read the full patch notes here.}}
+
+==<span id="0.22.7">0.22.7 - August 24, 2023</span>==
+This was a hotfix addressing screenshot issues. {{v|0.22.7|Read the full patch notes here.}}
+
+==<span id="0.22.6.0">0.22.6 - August 22, 2023</span>==
+This was a hotfix addressing concert mini games, QR Codes, and Nintendo login issues. {{v|0.22.6.0|Read the full patch notes here.}}
+
+==<span id="0.22.5">0.22.5 - August 17, 2023</span>==
+This update brings [[AURORA Encore Concerts]], [[Days of Sunlight]], and [[Days of Style]]. More Updates for viewing [[Shared Spaces]], [[Shared Memories]], and [[Message Shrines|Messages]] and various updates. {{v|0.22.5|Read the full patch notes here.}}
+
+==<span id="0.22.1">0.22.1 - July 31, 2023</span>==
+This was a hotfix addressing Android and iOS crashes. {{v|0.22.1|Read the full patch notes here.}}
+
+==<span id="0.22.0">0.22.0 - July 13, 2023</span>==
+This update brings [[Season of Moments]], [[Sky Anniversary]], a new group of [[Returning Spirits]], various updates to the UI, and updates to the [[Outfit Shrine]]. {{v|0.22.0|Read the full patch notes here.}}
+
+==<span id="0.21.6">0.21.6 - June 26, 2023</span>==
+This was a hotfix addressing the iOS crashes and the [[Dreams Guide]]. {{v|0.21.6|Read the full patch notes here.}}
+
+==<span id="0.21.5">0.21.5 - May 31, 2023</span>==
+This update brings the remaining [[Season of Passage]] Quests, [[Days of Color]], and [[Days of Music]]. It also introduces a new [[Currency#Event Currency|Event Currency]] to make it easier to get new in-game currency items during events, a new way to create music, and another round of bug fixes. {{v|0.21.5|Read the full patch notes here.}}
+
+==<span id="0.21.1">0.21.1 - April 20, 2023</span>==
+This was a hotfix addressing the visual clutter of the Seasonal activities in [[Isle of Dawn]]. {{v|0.21.1|Read the full patch notes here.}}
+
+==<span id="0.21.0">0.21.0 - April 13, 2023</span>==
+This update brings [[Season of Passage]], [[Days of Nature]], and a slew of bug fixes and other changes. {{v|0.21.0|Read the full patch notes here.}}
+
+==<span id="0.20.6.1">0.20.6 - March 1, 2023</span>==
+This was a hotfix addressing the chat bug on the Switch. {{v|0.20.6.1|Read the full patch notes here.}}
+
+==<span id="0.20.6.0">0.20.6 - February 24, 2023</span>==
+This was a hotfix addressing the chat bug on PlayStation. {{v|0.20.6.0|Read the full patch notes here.}}
+
+==<span id="0.20.5">0.20.5 - February 23, 2023</span>==
+This update contains a number of additions for [[Season of Remembrance]], updates to [[Shared Spaces]] and [[Days of Bloom]], and a long list of fixes and improvements. {{v|0.20.5|Read the full patch notes here.}}
+
+==<span id="0.20.1">0.20.1 - January 30, 2023</span>==
+This was a hotfix addressing bugs with [[Shared Spaces]] and more. {{v|0.20.1|Read the full patch notes here.}}
+
+==<span id="0.20.0">0.20.0 - January 10, 2023</span>==
+This update brings [[Season of Remembrance]], [[Days of Fortune]], [[Days of Love]], and improvements to [[Shared Spaces]]. {{v|0.20.0|Read the full patch notes here.}}
+
+==<span id="0.19.6">0.19.6 - December 6, 2022</span>==
+This patch introduces [[Sky for PlayStation]]! It also addresses the flashing light issue from Deep Call spam. {{v|0.19.6|Read the full patch notes here.}}
+
+==<span id="0.19.5">0.19.5 - November 28, 2022</span>==
+This update contains a number of additions for [[Season of AURORA]]; new IAP and the Concert. It also included preparations for [[Days of Feast]] and a few Improvement and bug fixes. An update has been made to the Dark Crabs over the Graveyard bonfire in [[Golden Wasteland]]. {{v|0.19.5|Read the full patch notes here.}}
+
+==<span id="0.19.1">0.19.1 - October 24, 2022</span>==
+This was a hotfix for mobile users that improves stability issues. {{v|0.19.1|Read the full patch notes here.}}
+
+==<span id="0.19.0">0.19.0 - October 13, 2022</span>==
+This update brings [[Season of AURORA]], [[Days of Mischief]], plus a feature that might help players navigate the world of ''Sky'' (Map Shrines). {{v|0.19.0|Read the full patch notes here.}}
+
+==<span id="0.18.6.1">0.18.6 - August 31, 2022</span>==
+This was a hotfix for Android that improves stability issues. {{v|0.18.6.1|Read the full patch notes here.}}
+
+==<span id="0.18.6.0">0.18.6 - August 25, 2022</span>==
+This was a hotfix addressing some crashes caused by equipping certain items. {{v|0.18.6.0|Read the full patch notes here.}}
+
+==<span id="0.18.5">0.18.5 - August 17, 2022</span>==
+This update contains a number of additions for [[Season of Shattering]], an all-new event arriving in ''Sky'', and an eruption’s worth of bug fixes and updates. {{v|0.18.5|Read the full patch notes here.}}
+
+==<span id="0.18.1">0.18.1 - July 18, 2022</span>==
+This was a hotfix addressing some of the Season of Shattering issues. {{v|0.18.1|Read the full patch notes here.}}
+
+==<span id="0.18.0">0.18.0 - June 28, 2022</span>==
+This update contains celebrations for everyone to enjoy during [[Days of Rainbow]] and [[Sky Anniversary|''Sky'''s 3rd Anniversary]] event—and also plenty of new experiences as [[Season of Shattering]] brings a different type of Season to ''Sky'' —not to mention a number of bug fixes! {{v|0.18.0|Read the full patch notes here.}}
+
+==<span id="0.17.6">0.17.6 - May 27, 2022</span>==
+This was a hotfix addressing issues with M1 devices. {{v|0.17.6|Read the full patch notes here.}}
+
+==<span id="0.17.5.1">0.17.5 - May 19, 2022</span>==
+This was a hotfix addressing issues Android optimizations. {{v|0.17.5.1|Read the full patch notes here.}}
+
+==<span id="0.17.5.0">0.17.5 - May 17, 2022</span>==
+Our latest update brings the last two quests for [[Season of Performance]], numerous updates for instruments and music sheets, in-game chat translation options, and a brand new spot to create and celebrate music in ''Sky''—not to mention a number of bug fixes! {{v|0.17.5.0|Read the full patch notes here.}}
+
+==<span id="0.17.1.2">0.17.1 - April 15, 2022</span>==
+This was a hotfix addressing issues with languages. {{v|0.17.1.2|Read the full patch notes here.}}
+
+==<span id="0.17.1.1">0.17.1 - April 10, 2022</span>==
+This was a hotfix addressing issues for Huawei devices. {{v|0.17.1.1|Read the full patch notes here.}}
+
+==<span id="0.17.1.0">0.17.1 - April 8, 2022</span>==
+This was a hotfix addressing issues with logins. {{v|0.17.1.0|Read the full patch notes here.}}
+
+==<span id="0.17.0">0.17.0 - April 5, 2022</span>==
+Join a team of Spirits and help them build their greatest creation yet when [[Season of Performance]] begins on April 11, 2022. Meanwhile, this patch introduced new features, improved familiar ones, and prepared for the return of a popular event: [[Days of Nature]]. {{v|0.17.0|Read the full patch notes here.}}
+
+==<span id="0.16.5.2">0.16.5 - March 15, 2022</span>==
+This hotfix address issue with Android login from Patch 0.16.5. {{v|0.16.5.2|Read the full patch notes here.}}
+
+==<span id="0.16.5.1">0.16.5 - March 4, 2022</span>==
+This hotfix address issue with Android login from Patch 0.16.5. {{v|0.16.5.1|Read the full patch notes here.}}
+
+==<span id="0.16.5.0">0.16.5 - February 24, 2022</span>==
+This patch brings a number of updates, improvements, and fixes, the final quest for [[Season of Abyss]] a flurry of color during [[Days of Bloom]] updates to Message Candles and Message Boats, changes for Shared Spaces, and more! {{v|0.16.5.0|Read the full patch notes here.}}
+
+==<span id="0.16.1">0.16.1 - January 26, 2022</span>==
+This hotfix improves translations and [[Creatures#Dark Creatures|Dark Creatures]]. {{v|0.16.1|Read the full patch notes here.}}
+
+==<span id="0.16.0">0.16.0 - January 13, 2022</span>==
+Discover the mysteries and surprises that await in the sapphire depths of [[Season of Abyss]] beginning on January 24 2022. Guests (who players may recognize!) arrive in Home to reconnect and celebrate this year’s [[Days of Fortune]] on February 6, 2022, following by [[Days of Love]] on February 7, 2022. {{v|0.16.0|Read the full patch notes here.}}
+
+==<span id="0.15.5">0.15.5 - November 18, 2021</span>==
+In the midst of the [[Season of Flight]] several events are approaching; the [[Double Currency Events|Days of Giving]] and the [[Days of Feast]] return to the Kingdom of ''Sky'' in festive mood. Introduction of a new feature that allows a player to directly purchase and gift IAP to their friends and four new permanent locations for Social Light. Discontinuation of the Adventure Pass preorder. {{v|0.15.5|Read the full patch notes here.}}
+
+==<span id="0.15.1">0.15.1 - October 7, 2021</span>==
+This was a hotfix addressing issues that arose from the 0.15.0 patch update. {{v|0.15.1|Read the full patch notes here.}} 
+
+==<span id="0.15.0">0.15.0 - September 28, 2021</span>==
+''"Distant clouds beckon, and the skies are calling."'' On October 4, the [[Season of Flight]] will arrive in the Kingdom of ''Sky'', bringing with it both a new Seasonal area and Seasonal Quests for players to complete. {{v|0.15.0|Read the full patch notes here.}}
+
+==<span id="0.14.5">0.14.5 - August 10, 2021</span>==
+Halfway through the [[Season of the Little Prince]] both a wholly new, and a returning, event is approaching - the [[Days of Summer]] and the [[Days of Summer Lights]]! Traveling Spirits will now introduce props in their spirit trees. Two new Shared Spaces, one in the Butterfly Fields of Daylight Prairie and another in the secret area. Starting from this patch, the minimum iOS for players on iPhone or iPad is iOS 12. {{v|0.14.5|Read the full patch notes here.}}
+
+==<span id="0.14.0">0.14.0 - June 29, 2021</span>==
+This patch introduces [[Sky for Nintendo Switch]]! Pre-orders available for [[Season of the Little Prince]]. Past Seasonal Spirits will now exist in the world so that all players can enjoy more of the expressions and lore the game has to offer! {{v|0.14.0|Read the full patch notes here.}}
+
+==<span id="0.13.5">0.13.5 - June 4, 2021</span>==
+This hotfix addresses some issues remaining from previous patches. {{v|0.13.5|Read the full patch notes here.}}
+
+==<span id="0.13.4">0.13.4 - May 27, 2021</span>==
+The [[Season of Assembly]] is coming to an end. This patch introduces a whole new Prop-related mechanic - Shared Spaces, while the [[Days of Rainbow]] event returns to the Kingdom of ''Sky''. Players can now choose their account when they log in with the new Sign In Method. {{v|0.13.4|Read the full patch notes here.}}
+
+==<span id="0.13.3">0.13.3 - April 15, 2021</span>==
+The [[Days of Nature]] return to the Kingdom of ''Sky'' with a new theme: protecting and cherishing the oceans of the world! Celebrate Spring in Sky with twice the Seasonal Light nodes in the daily realm. Introduction of the all-new Pinwheel spell. {{v|0.13.3|Read the full patch notes here.}}
+
+==<span id="0.13.2">0.13.2 - April 1, 2021</span>==
+This patch marks the arrival of the [[Season of Assembly]]! Added a new body item to the Hide'n'Seek Pioneer's friendship tree. {{v|0.13.2|Read the full patch notes here.}}
+
+==<span id="0.13.0">0.13.0 - March 16, 2021</span>==
+This update introduces a new event, the [[Days of Bloom]], and pre-orders for the upcoming [[Season of Assembly]]. Introduction of the Daily Light system and messages via Inbox. Players can now use expressions while chatting, sitting, lying down, or flying. {{v|0.13.0|Read the full patch notes here.}}
+
+==<span id="0.12.3">0.12.3 - February 6, 2021</span>==
+This update brings with it two new [[Holidays and Special Events|Holiday Events]], as well as several bug fixes. The [[Days of Fortune]] (starting February 8th) and the [[Days of Love]] (starting February 12th) bring color and festivities to the Kingdom of ''Sky''. {{v|0.12.3|Read the full patch notes here.}}
+
+==<span id="0.12.2">0.12.2 - January 19, 2021</span>==
+This was a hotfix introducing both quality of life changes and bug fixes. {{v|0.12.2|Read the full patch notes here.}}
+
+==<span id="0.12.1">0.12.1 - December 21, 2020</span>==
+This was a hotfix update to address issues following 0.12.0. {{v|0.12.1|Read the full patch notes here.}}
+
+==<span id="0.12.0">0.12.0 - December 15, 2020</span>==
+This update introduced Pre-orders for the upcoming [[Season of Dreams]] adding two new areas in Valley of Triumph. Addition of Yellow, red and Teal 2 tier heart cape as well as numerous bug fixes and improvements. Days of Feast beginning on December 21st {{v|0.12.0|Read the full patch notes here.}}
+
+==<span id="0.11.4">0.11.4 - November 24, 2020</span>==
+This update included revamps to Isle Spirits, preparations for [[Days of Giving]] and [[Days of Feast]], 11th start cape pattern revealed, addition of Facebook player finder and numerous bug fixes and improvements. {{v|0.11.4|Read the full patch notes here.}}
+
+==<span id="0.11.2">0.11.2 - November 2, 2020</span>==
+This update includes an update to the Flight System, preparations to a new Currency Event and numerous bug fixes. {{v|0.11.2|Read the full patch notes here.}}
+
+==<span id="0.11.1">0.11.1 - October 9, 2020</span>==
+This hotfix addresses a number of issues introduced in Patch 0.11.0 as well as additional bug fixes and quality of life improvements. {{v|0.11.1|Read the full patch notes here.}}
+
+==<span id="0.11.0">0.11.0 - October 2, 2020</span>==
+Welcome to the [[Season of Prophecy]]! This update includes preparations for the Season of Prophecy and the upcoming [[Days of Mischief]], Quality of Life improvements and numerous bug fixes. {{v|0.11.0|Read the full patch notes here.}}
+
+==<span id="0.10.5">0.10.5 - September 7, 2020</span>==
+The [[Season of Sanctuary]] will soon be coming to a close as the spirits prepare to return to their daily lives. This Patch includes finishing touches for the Season’s conclusion, quality of life improvements, numerous bug fixes, and preparation for a new holiday event! {{v|0.10.5|Read the full patch notes here.}}
+
+==<span id="0.10.4">0.10.4 - August 26, 2020</span>==
+This hotfix should resolve the graphics-related crashing issues introduced in Patch 0.10.3. {{v|0.10.4|Read the full patch notes here.}}
+
+==<span id="0.10.3">0.10.3 - August 18, 2020</span>==
+This hotfix addresses a number of issues introduced in Patch 0.10.2 as well as additional bug fixes and quality of life improvements. {{v|0.10.3|Read the full patch notes here.}}
+
+==<span id="0.10.2">0.10.2 - August 3, 2020</span>==
+The [[Season of Sanctuary]] is under way! This update includes a number of bug fixes and polish for Sanctuary Islands and upcoming Treasure quests. A new double Treasure Candles event has been announced. {{v|0.10.2|Read the full patch notes here.}}
+
+==<span id="0.10.1">0.10.1 - July 10, 2020</span>==
+A hotfix to address issues originating in Patch 0.10.0. {{v|0.10.1|Read the full patch notes here.}}
+
+==<span id="0.10.0">0.10.0 - July 6, 2020</span>==
+This patch includes many quality of life improvements, bug fixes, and other updates to prepare for the upcoming Season of Sanctuary and [[Sky Anniversary|''Sky'''s one-year anniversary]] events. {{v|0.10.0|Read the full patch notes here.}}
+
+==<span id="0.9.7">0.9.7 - June 18, 2020</span>==
+This hotfix addresses one issue involving the Gift Passes. {{v|0.9.7|Read the full patch notes here.}}
+
+==<span id="0.9.6">0.9.6 - June 15, 2020</span>==
+This hotfix accounts for things left out of Patch 0.9.5. {{v|0.9.6|Read the full patch notes here.}}
+
+==<span id="0.9.5">0.9.5 (0.4.95) - June 8, 2020</span>==
+Sixth and final quest to [[Season of Enchantment]], beginning of [[Days of Rainbow]], double seasonal light and disabling of the Chat Table prop collision. Bug fixes, improvement and other changes. ''Sky: Light Awaits'' officially sunsets with this update. {{v|0.9.5|Read the full patch notes here.}}
+
+==<span id="0.9.4.1">0.9.4 Android - May 19, 2020</span>==
+Hotfix to address bugs introduced with Patch {{v|0.9.4.0}}. {{v|0.9.4.1|Read the full patch notes here.}}
+
+==<span id="0.9.4.0">0.9.4 (0.4.94) - May 19, 2020</span>==
+Hotfix to address bugs introduced with Patches 0.9.2 and 0.9.3. {{v|0.9.4.0|Read the full patch notes here.}}
+
+==<span id="0.9.3">0.9.3 (0.4.93) - May 15, 2020</span>==
+This is a small hotfix update. App store patch notes are unchanged. {{v|0.9.3|Read the full patch notes here.}}
+
+==<span id="0.9.2">0.9.2 (0.4.92) - May 14, 2020</span>==
+New quests for [[Season of Enchantment]] every Monday, Upcoming [[Days of Healing]] - COVID Relief Pack and Double Heart Event. Many change and bug fixes. {{v|0.9.2|Read the full patch notes here.}}
+
+==Live April 20, 2020 ==
+Beginning of the [[Season of Enchantment]], the fifth season of ''Sky''. This patch brings many new items to collect, new seasonal spirits to befriend, and a breathtaking new area in Golden Wasteland to explore. Introduction to Days of Nature. [[Update:Live April 20 2020|Read the full patch notes here.]] 
+
+==<span id="0.9.1">0.9.1 (0.4.91) - April 13, 2020</span>==
+This update includes bug fixes and updates in preparation for the upcoming [[Season of Enchantment]] and end of Days of Spring. {{v|0.9.1|Read the full patch notes here.}}
+
+==<span id="0.9.0">0.9.0 (0.4.90) - April 6, 2020</span>==
+This update includes bug fixes and preparations for the upcoming Season. Pre-order the [[Season of Enchantment]] Adventure Pass and upcoming of the double candle event Days of Spring and the [[Days of Nature]]. {{v|0.9.0|Read the full patch notes here.}}
+
+==<span id="0.8.5">0.8.5 (0.4.85) - March 27, 2020</span>==
+The [[Season of Rhythm]] is ending on Sunday April 5 at 23:59 PDT. This hotfix addresses various fixes and improvements. {{v|0.8.5|Read the full patch notes here.}}
+
+==<span id="0.8.4">0.8.4 (0.4.84) - March 9, 2020</span>==
+The [[Season of Rhythm]] marches on. This Patch includes various fixes and changes. Gratitude Fur Cape Pack will be retiring when the season concludes. {{v|0.8.4|Read the full patch notes here.}}
+
+==<span id="0.8.3">0.8.3 (0.4.83) - February 13, 2020</span>==
+This hotfix is primarily focused on addressing issues with the in-game Shop that were introduced in the previous patch. {{v|0.8.3|Read the full patch notes here.}}
+
+==<span id="0.8.2">0.8.2 (0.4.82) - February 10, 2020</span>==
+The [[Season of Rhythm]] continues, and we have a new update with special content to celebrate our [[Days of Love]] event. This patch introduce various fixes and improvements. {{v|0.8.2|Read the full patch notes here.}}
+
+==<span id="0.8.1">0.8.1 (0.4.81) - January 30, 2020</span>==
+This hotfix introduce correction to various bugs and issues. Reverted a previously patched out-of-bounds area in Isle of Dawn that was a fan favorite. Rainbow bridge has been added again after being fixed in a previous patch update. Players can once again venture out-of-bounds from the Valley of Triumph temple. {{v|0.8.1|Read the full patch notes here.}}
+
+==<span id="0.8.0">0.8.0 (0.4.80) - January 22, 2020</span>==
+Welcome to the [[Season of Rhythm]]! Winter is here and so is a troupe of performing Spirits featuring new attire, Expressions, and Instruments to unlock. This patch update comes many new and highly-anticipated items to collect, Spirits to find, and additional fixes and polish. Celebrating the Lunar New Year with a Fireworks show on Friday January 24 and a Double Heart event. Beginning Friday January 31 at 12:00 PST (UTC-8) and every other weekend thereafter (biweekly) Traveling Spirits from a previous Season will appear in Home for a short time. Changes to Adventure pass gifting. {{v|0.8.0|Read the full patch notes here.}}
+
+==<span id="0.7.6">0.7.6 (0.4.76) - December 21, 2019</span>==
+The [[Season of Belonging]] continues! This update includes the following fixes and improvements for both iOS and Android. {{v|0.7.6|Read the full patch notes here.}}
+
+==<span id="0.7.5">0.7.5 (0.4.75) - December 12, 2019</span>==
+The [[Season of Belonging]] continues! This update includes Winter Holidays, a Double Candle Event and some general updates and bug fixes. {{v|0.7.5|Read the full patch notes here.}}
+
+==<span id="0.7.1">0.7.1 (0.4.71) - November 22, 2019</span>==
+[[Sky for Android]] entered Limited Live in Singapore for Android 9 and 10 and includes bug fixes. {{v|0.7.1|Read the full patch notes here.}}
+
+==<span id="0.7.0">0.7.0 (0.4.70) - November 16, 2019</span>==
+Welcome to the [[Season of Belonging]]! A family is scattered across the world and needs your help to reunite them with each other. This update also includes bugs and fixes. {{v|0.7.0|Read the full patch notes here.}}
+
+==<span id="0.6.5">0.6.5 (0.4.65) - October 27, 2019</span>==
+This update includes many bug fixes and quality of life improvements. {{v|0.6.5|Read the full patch notes here.}}
+
+==<span id="0.6.1">0.6.1 (0.4.61) - September 27, 2019</span>==
+This update includes many bug fixes and quality of life improvements. {{v|0.6.1|Read the full patch notes here.}}
+
+==<span id="0.6.0">0.6.0 (0.4.60) - September 22, 2019</span>==
+The [[Season of Lightseekers]] is about to begin! Lighting a friend’s star in the Constellation now sends a partial Heart instead of Candle and a secret new area to discover with others over time. Contain also many bugs and fix in preparation for the Season of Lightseekers. {{v|0.6.0|Read the full patch notes here.}}
+
+==<span id="0.5.8">0.5.8 (0.4.18) - August 29, 2019</span>==
+This patch include interim bug fix patch in preparation of the incoming new Seasonal event. {{v|0.5.8|Read the full patch notes here.}}
+
+==<span id="0.5.7">0.5.7 (0.4.17) - August 2, 2019</span>==
+This includes bug fixes and performance improvements to name a few things.  {{v|0.5.7|Read the full patch notes here.}}
+
+==<span id="0.5.6">0.5.6 (0.4.16) - July 18, 2019</span>==
+This update is primarily focused on bug fixes and quality of life improvements reported by our loyal players! This was the first major patch update after ''Sky: Children of the Light'' was released on iOS. {{v|0.5.6|Read the full patch notes here.}}
+
+==<span id="0.5.5">0.5.5 (0.4.15) - July 16, 2019</span>==
+
+*Welcome to ''Sky''!
+
+*''Sky: Light Awaits'' fully merges with ''Sky: Children of the Light''
+
+===Additional Notes===
+This update was when ''Sky: Children of the Light'' became available to download on iOS.
+
+==<span id="0.5.4">0.5.4 (0.4.14) - July 4, 2019</span>== 
+
+*Updated screenshots and preview
+
+==<span id="0.5.3">0.5.3 (0.4.13) - July 2, 2019</span>==
+
+*Updated localizations
+
+==<span id="0.5.2">0.5.2 (0.4.12) - June 20, 2019</span>==
+
+*Updated to latest stable version
+
+*Updated localizations to latest versions
+
+==<span id="0.5.1">0.5.1 (0.4.11) - June 11, 2019</span>==  
+
+*Updated screenshots and preview
+
+==<span id="0.5.0">0.5.0 - June 9, 2019</span>== 
+*Transition of ''Sky: Light Awaits'' to ''Sky: Children of the Light'' begins<ref>Patch numbers in parenthesis represent the corresponding patch for ''Sky: Light Awaits''. The two games don't fully merge until the release of ''Sky: Children of the Light'' and with ''Sky: Light Awaits'' sunsetting with Patch 0.7.6. [[Version History/Limited|View ''Sky: Light Awaits'''s version history here.]]</ref>
+
+==External Links== 
+
+*[https://apps.apple.com/gb/app/sky-children-of-the-light/id1462117269 Sky: Children of the Light in the app store]
+*[https://thatgamecompany.helpshift.com/a/sky-children-of-the-light/?s=patch-notes Full detailed patch notes at thatgamecompany.com]
+
+Remember: TGC always welcomes feedback on the latest updates and patches on their [https://discord.gg/thatskygame official Discord].
+
+==References==
+<references />
+
+{{PatchNav}}
+
+[[pt-br:Histórico de Versões]]
+[[fr:Historique des Versions]]
+
+[[Category:Patch Notes]]
+[[Category:Archive]]

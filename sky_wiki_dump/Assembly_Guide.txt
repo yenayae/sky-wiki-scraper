@@ -1,0 +1,284 @@
+{{Guide Infobox
+|image     = Assembly-Guide-Spirit.png
+|ultimates = {{Spirit Item||mask_u|link=#Assembly Ultimate Mask|infobox}}{{Spirit Item||hair_u|link=#Assembly Ultimate Hair|infobox}}{{Spirit Item||cape_u|link=#Assembly Ultimate Cape|infobox}}{{Spirit Item||prop_u|link=#Assembly Ultimate Instrument|infobox}}
+|cosmetics = 
+|props     = {{Spirit Item||prop_p|link=#Pillow Prop|infobox}}{{Spirit Item||prop_j|link=#Jar Prop|infobox}}{{Spirit Item||prop_l|link=#Brazier Prop|infobox}}{{Spirit Item||prop_b|link=#Bookcase Prop|infobox}}{{Spirit Item||prop_t|link=#Tent Prop|infobox}}
+|season    = Assembly
+|realm     = Hidden Forest
+|location  = The Treehouse
+}}
+<section begin="Summary" />The '''{{PAGENAME}}''' is a Seasonal Guide (also known as Quest Giver) from the [[Season of Assembly]] who offers quests and [[Assembly Guide#Ultimate Gifts|cosmetics]]. The Assembly Guide is found on the ledge of an opening on the main [[Treehouse]]. The Ultimate Guide offered an {{Spirit Item|Assembly Guide|necklace_u|link=#Assembly Ultimate Pendant|inline_text}}, an {{Spirit Item|Assembly Guide|mask_u|link=#Assembly Ultimate Mask|inline_text}}, an {{Spirit Item|Assembly Guide|hair_u|link=#Assembly Ultimate Hair|inline_text}}, an {{Spirit Item|Assembly Guide|cape_u|link=#Assembly Ultimate Cape|label=Assembly Ultimate Cape|inline_text}}, and an {{Spirit Item|Assembly Guide|prop_u|link=#Assembly Ultimate Instrument|label=Assembly Ultimate Instrument|inline_text}} for [[Season Pass]] holders.
+
+The Assembly Guide also provided props in the [[#Quest Tree|Quest Tree]], permanently available to all players: a {{Spirit Item|Assembly Guide|prop_p|link=#Pillow Prop|inline_text}}, a {{Spirit Item|Assembly Guide|prop_j|link=#Jar Prop|inline_text}}, a {{Spirit Item|Assembly Guide|prop_l|link=#Brazier Prop|inline_text}}, a {{Spirit Item|Assembly Guide|prop_b|link=#Bookcase Prop|inline_text}}, and a {{Spirit Item|Assembly Guide|prop_t|link=#Tent Prop|inline_text}}.<section end="Summary" />
+
+==<span id="Ultimate Pendant"><span id="Assembly Ultimate Pendant">Seasonal Pendant</span></span>==
+The Assembly Ultimate [[Necklace|Pendant]] is a yellow scarf (or neckerchief), instead of the usual golden necklace. It is embellished with a green button that has the Assembly Emblem, colored in yellow, on it. It was a [[Season Pass]] exclusive item during the Season, available for free from the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||necklace_u}} {{!}} Assembly Ultimate Pendant icon
+assembly pendant v2.png {{!}} Assembly Ultimate Pendant
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Ultimate Gifts==
+The Season of Assembly Guide offered 4 Ultimate Gifts, available to be purchased by [[Season Pass]] holders with [[Currency#Season Hearts|Seasonal Hearts]] during the Season of Assembly only.
+
+=== Assembly Ultimate Mask===
+The Assembly Ultimate [[Mask]] is a grey, round mask with the Season of Assembly Symbol, colored in yellow, spread over the forehead and under the eyes. It was a [[Season Pass]] exclusive item during the Season, available to be purchased for {{Cost|1 SH|season=Assembly}} after unlocking the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||mask_u}} {{!}} Assembly Ultimate Mask icon
+assembly mask ultimate v2.png {{!}} Assembly Ultimate Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Assembly Ultimate Hair===
+The Assembly Ultimate [[Hair]] is a dark-grey pot that sits crookedly over half the player's head, tilted to the left. It has two yellow handles and light-blue accented shapes near the pot's edge. Under the pot is a protective, orange headscarf. It was a [[Season Pass]] exclusive item during the Season, available to be purchased for {{Cost|1 SH|season=Assembly}} after unlocking the Friendship Tree's second node. Note that this item is considered a Hair, not a [[Hair Accessory]], and as such it can not be worn over other Hairstyles.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||hair_u}} {{!}} Assembly Ultimate Hair icon
+assembly hair ultimate v2.png {{!}} Assembly Ultimate Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Assembly Ultimate Cape===
+The Assembly Ultimate [[Cape]] is a bright, yellow cape that's covering the player's shoulders unevenly, sliding back a bit more on the right side. It also has a hood and the Assembly Symbol, on the left side of the cape, colored in a dark yellow shade. It was a [[Season Pass]] exclusive item during the Season, available to be purchased for {{Cost|2 SH|season=Assembly}} after unlocking the Friendship Tree's fourth node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||cape_u|icon}} {{!}} Assembly Ultimate Cape icon
+{{Icon Name||cape_u_front}} {{!}} Assembly Ultimate Cape front
+{{Icon Name||cape_u_interior}} {{!}} Assembly Ultimate Cape interior
+{{Icon Name||cape_u_real}} {{!}} Assembly Ultimate Cape back
+{{Icon Name||cape_u_exterior}} {{!}} Assembly Ultimate Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Assembly Ultimate Instrument===
+The Assembly Ultimate [[Instrument]] is a bronzed Bugle (or Scout Horn) with yellow details at the bell and a piece of fabric tied around a part of the instrument. When playing the Instrument, the player is standing. It was a [[Season Pass]] exclusive item during the Season, available to be purchased for {{Cost|2 SH|season=Assembly}} after unlocking the Friendship Tree's third node.
+
+The Bugle plays the wind [[Music Sheet Parts|part]] on music sheets. Its [[Instrument Pitch|pitch]] is the same as the standard [[Piano]] (in C major, it covers C<sub>4</sub> to C<sub>6</sub>), meaning it is two octaves higher in pitch than the other brass instrument, the [[Horn]].
+
+A variant of the Bugle can be seen in the [[Harmony Hall]] on the decorative wall panel behind the front counter, but it can not be played.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||instrument_u}} {{!}} Assembly Ultimate Instrument icon
+Assembly-ultimate-Buggle.png {{!}} Assembly Ultimate Instrument
+assembly ultimate instrument on back v2.png {{!}} Assembly Ultimate Instrument on player's back
+assembly ultimate instrument playing v2.png {{!}} Assembly Ultimate Instrument while being played
+|widths=125|captionalign=center|spacing=small
+}}
+
+==<span id="Prop"></span>Additional Props==
+This Season introduced a new line of [[props]] to collect from the Assembly Guide after finishing quests. These can be redeemed by spending {{Candle}} [[Currency#Candles|regular candles]] or {{Heart}} [[Currency#Hearts|hearts]] through the Assembly Guide's [[#Quest Tree|Spirit Tree]]. All of these props are placeable and can be used in [[Shared Spaces]].<br>'''All items remained in the Season Guide tree after the Season ended.'''
+
+===Pillow Prop===
+The Pillow [[Prop]] is a simple, gray floor pillow. It is decorative and non-functional. When carried on the player's back, the Prop appears in its original form. Is it available for {{Cost|5 C}} after completing the [[Season of Assembly#Quest #2|second Quest]].<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||prop_p}} {{!}} Pillow Prop icon
+Prop forest treehouse pillow.png {{!}} Pillow Prop
+Prop forest treehouse pillow on back.png {{!}} Pillow Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Jar Prop===
+The Jar [[Prop]] is a simple, grey, cubic jar that can be stacked one on top of the other in [[Shared Spaces]]. It is is decorative and non-functional. When carried on the player's back, the prop appears in its original form. The Jar Prop is available for {{Cost|8 C}} after completing the [[Season of Assembly#Quest #4|fourth Quest]].<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||prop_j}} {{!}} Jar Prop icon
+assembly_prop_pot_down.png {{!}} Jar Prop
+Assembly prop pot on back.png {{!}} Jar Prop on player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Brazier Prop===
+The Brazier [[Prop]] is a small, grey lamp with a cubic shape and square opening on top. It can be lit and its flame will reacharge the player's [[Winged Light|wings]]. When carried on the player's back, the prop appears in its original form. The Brazier Prop is available for {{Cost|12 H}} after completing the [[Season of Assembly#Quest #5|fifth Quest]].<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||prop_l}} {{!}} Brazier Prop icon
+prop_forest_treehouse_brazier.png {{!}} Brazier Prop
+Prop forest treehouse brazier on back.png {{!}} Brazier Prop on player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Bookcase Prop===
+The Bookcase [[Prop]] is an empty, grey, three-leveled bookcase with a simple cartouche on top, painted with a light-blue square in the middle. It is decorate and non-functional. When carried on the player's back, the prop appears in its original form, but smaller. Some small items, like the [[Season of The Little Prince#Little Prince Fox Prop|Little Prince Fox]], the [[The Rose#Little Prince Ultimate Prop|Rose music box]], or the [[Days of Feast#Winter Feast Snowglobe|Snowglobe]] can be placed on the bookcase inside [[Shared Spaces]]. It is available for {{Cost|30 C}} after completing the [[Season of Assembly#Quest #6|sixth Quest]].<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||prop_b}} {{!}} Bookcase Prop icon
+assembly_prop_bookcase_2.png {{!}} Bookcase Prop
+Assembly prop bookcase on back.png {{!}} Bookcase Prop on player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Tent Prop===
+The Tent [[Prop]] is a canopy tent with wooden, white sticks and blue fabric on top. When placed in the [[Hidden Forest]], it will protect the player from the polluted rain. When carried on the player's back, the prop appears as a small pile of long, wooden sticks, tied together by a wide band of blue fabric. It is available for {{Cost|24 H}} after completing the [[Season of Assembly#Quest #6|sixth Quest]].<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||prop_t}} {{!}} Tent Prop icon
+prop_forest_treehouse_tent.png {{!}} Tent Prop 
+Prop forest treehouse tent on back.png {{!}} Tent Prop on player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Friendship Tree==
+The {{PAGENAME}} Friendship Tree was available on the right of the Quest Tree during the Season of Assembly only. Now that the Season is over, these cosmetics are no longer available.  
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Assembly Guide
+|season = Assembly
+|image  = Assembly-Guide-Spirit.png
+
+|nodeC5 = cape_u 2 SH AP
+|  linkC5 = Assembly Guide#Assembly Ultimate Cape
+
+|nodeC4 = instrument_u 2 SH AP
+|  linkC4 = Assembly Guide#Assembly Ultimate Instrument
+
+|nodeC3 = hair_u 1 SH AP
+|  linkC3 = Assembly Guide#Assembly Ultimate Hair
+
+|nodeC2 = mask_u 1 SH AP
+|  linkC2 = Assembly Guide#Assembly Ultimate Mask
+
+|nodeC1 = necklace_u AP
+| linkC1 = Assembly Guide#Assembly Ultimate Pendant
+}}<section end="Friendship Tree" />
+
+==Quest Tree ==
+The {{PAGENAME}} Quest Tree is available for all players to complete Quests from the Season of Assembly. During the Season, the hearts awarded for completing each quest were free. Since the end of the Season, players completing the Quests for the first time have to pay {{Candle|3}} to obtain these hearts. 
+<section begin="Quest Tree" />{{Mobile Tabber
+|tab1 = Post-season
+|c1   = {{Friendship Tree
+|spirit = Assembly Guide
+|image  = Assembly-Guide-Spirit.png
+
+|nodeC11 = prop_t 24 H
+|  linkC11 = Assembly Guide#Tent Prop
+
+|nodeL10 = heart
+|  noteL10 = <ref name="quest_heart"/>
+|nodeC10 = quest
+|  linkC10 = Season of Assembly#Quest 6
+|  labelC10 = Quest 6
+
+|nodeR10 = prop_b 30 C
+|  linkR10 = Assembly Guide#Bookcase Prop
+
+|nodeC9 = Mimi-4117_03_doublefive_light_catcher_emote.png
+|  linkC9 = Double-Five Action
+
+|nodeL8 = prop_l 12 H
+|  linkL8 = Assembly Guide#Brazier Prop
+
+|nodeC8 = quest
+|  linkC8 = Season of Assembly#Quest 5
+|  labelC8 = Quest 5
+
+|nodeL7 = prop_j 8 C
+|  linkL7 = Assembly Guide#Jar Prop
+
+|nodeC7 = quest
+|  linkC7 = Season of Assembly#Quest 4
+|  labelC7 = Quest 4
+
+|nodeC6 = Icon_hug.png
+|  linkC6 = Hug Action
+
+|nodeL5 = heart
+|  noteL5 = <ref name="quest_heart"/>
+|nodeC5 = quest
+|  linkC5 = Season of Assembly#Quest 3
+|  labelC5 = Quest 3
+
+|nodeL4 = prop_p 5 C
+|  linkL4 = Assembly Guide#Pillow Prop
+
+|nodeC4 = quest
+|  linkC4 = Season of Assembly#Quest 2
+|  labelC4 = Quest 2
+
+|nodeC3 = Icon_high_five.png
+|  linkC3 = High Five Action
+
+|nodeL2 = heart
+|  noteL2 = <ref name="quest_heart">During the Season of Assembly, the hearts available from the Assembly Guide after completing each quest were free.</ref>
+|nodeC2 = quest
+|  linkC2 = Season of Assembly#Quest 1
+|  labelC2 = Quest 1
+
+|nodeC1 = Shared-Space-Icon-Credit-Ed.PNG 
+|  linkC1 = Shared Spaces
+|  noteC1 = <ref name="new_free_spell">This was added during the Season of Remembrance.</ref>
+}}
+
+|tab2 = Mid-season
+|c2   = {{Friendship Tree
+|spirit = Assembly Guide
+|type   = season
+|season = Assembly
+|image  = Assembly-Guide-Spirit.png
+
+|nodeC10 = prop_t 24 H
+|  linkC10 = Assembly Guide#Tent Prop
+
+|nodeL9 = heart free
+|nodeC9 = quest
+|  linkC9 = Season of Assembly#Quest 6
+|  labelC9 = Quest 6
+
+|nodeR9 = prop_b 30 C
+|  linkR9 = Assembly Guide#Bookcase Prop
+
+|nodeC8 = Mimi-4117_03_doublefive_light_catcher_emote.png
+|  linkC8 = Double-Five Action
+
+|nodeL7 = prop_l 12 H
+|  linkL7 = Assembly Guide#Brazier Prop
+
+|nodeC7 = quest
+|  linkC7 = Season of Assembly#Quest 5
+|  labelC7 = Quest 5
+
+|nodeL6 = prop_j 8 C
+|  linkL6 = Assembly Guide#Jar Prop
+
+|nodeC6 = quest
+|  linkC6 = Season of Assembly#Quest 4
+|  labelC6 = Quest 4
+
+|nodeC5 = Icon_hug.png
+|  linkC5 = Hug Action
+
+|nodeL4 = heart free
+|nodeC4 = quest
+|  linkC4 = Season of Assembly#Quest 3
+|  labelC4 = Quest 3
+
+|nodeL3 = prop_p 5 C
+|  linkL3 = Assembly Guide#Pillow Prop
+
+|nodeC3 = quest
+|  linkC3 = Season of Assembly#Quest 2
+|  labelC3 = Quest 2
+
+|nodeC2 = Icon_high_five.png
+|  linkC2 = High Five Action
+
+|nodeL1 = heart free
+|nodeC1 = quest
+|  linkC1 = Season of Assembly#Quest 1
+|  labelC1 = Quest 1
+}}
+}}<section end="Quest Tree" />
+
+==Trivia==
+* The appearance of the [[#Seasonal Pendant|Assembly Seasonal Pendant]] is based off of the scouts, an organization for children all around the world that also focuses on outdoor activities and crafts much like the Spirits of this Season.
+* The Assembly Guide was the first Guide to permanently offer cosmetics even after the Season ended.
+
+==References==
+<references />
+
+[[de:Zusammenbau-Helfer]]
+[[pt-br:Guia da União]]
+[[ja:大樹の案内人]]
+[[fr:Guide du Rassemblement]]

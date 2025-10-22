@@ -1,0 +1,1684 @@
+[[File:Sky-Closet-Capes-Morybel-0146.png|thumb|left|x200px|Icon used for Capes Shrine]]
+'''Capes''' are [[Cosmetics]] that represent a Sky Kid's ability to fly, and are the most visible piece of clothing worn by the player. The current Cape is selected in the second [[Outfit Shrine]] from the right. The Cape you wear does not affect your flying ability.
+
+Click on the button below to show all types of {{Icon|Four-point-star-Ray.png}} Cape Stars and the number of [[Winged Light]] required for each Level.
+
+{{Collapse
+|id=CapeStarTypes
+|label=Cape Star Types
+|content=
+<section begin="Icon List" />
+{{Icon List
+|caption=Cape stars and number of Winged Light required for each Level
+| '''Capes'''
+| '''<small>(1-34)</small>'''
+| '''<small>(35-149)</small>'''
+| '''<small>(150+*)</small>'''
+| {{Spirit Item| Base | cape_real | table | in_page=1 | label=Base }}
+| {{Icon| Standard-Cape-Stars-Pattern-level-1.png| table | in_page=1 | label=Level 1 Star}}
+| {{Icon| Standard-Cape-Stars-Pattern-level-2.png| table | in_page=1 | label=Level 2 Star}}
+| {{Icon| Standard-Cape-Stars-Pattern-Level-3.png| table | in_page=1 | label=Level 3 Star}}
+| {{Spirit Item| Little Prince | cape_s_real | table | in_page=1 }} {{Spirit Item| Little Prince | cape_a_real | table | in_page=1 }}
+| {{Icon| Little-Prince-Cape-Stars-Pattern-Level-1.png| table | in_page=1 | label=Level 1 Star}}
+| {{Icon| Little-Prince-Cape-Stars-Pattern-Level-2.png| table | in_page=1 | label=Level 2 Star}}
+| {{Icon| Little-Prince-Cape-Stars-Pattern-Level-3.png| table | in_page=1 | label=Level 3 Star}}
+| {{Spirit Item| Abyss | cape_u_real | table | in_page=1 }}
+| {{Icon| Abyss-Cape-Stars-Pattern-Level-1.png| table | in_page=1 | label=Level 1 Star}}
+| {{Icon| Abyss-Cape-Stars-Pattern-Level-2.png| table | in_page=1 | label=Level 2 Star}}
+| {{Icon| Abyss-Cape-Stars-Pattern-Level-3.png| table | in_page=1 | label=Level 3 Star}}
+| {{Spirit Item| Revival | cape_u_real | table | in_page=1 }}
+| {{Icon| Revival-Cape-Stars-Pattern-Level-1.png| table | in_page=1 | label=Level 1 Star}}
+| {{Icon| Revival-Cape-Stars-Pattern-Level-2.png| table | in_page=1 | label=Level 2 Star}}
+| {{Icon| Revival-Cape-Stars-Pattern-Level-3.png| table | in_page=1 | label=Level 3 Star}}
+| {{Spirit Item| The Nine-Colored Deer | cape_r_real | table | in_page=1 }}
+| {{Icon| Deer-Cape-Stars-Pattern-Level-1.png| table | in_page=1 | label=Level 1 Star}}
+| {{Icon| Deer-Cape-Stars-Pattern-Level-2.png| table | in_page=1 | label=Level 2 Star}}
+| {{Icon| Deer-Cape-Stars-Pattern-Level-3.png| table | in_page=1 | label=Level 3 Star}}<ref>Unlike other Capes, each of the Radiance of the Nine-Colored Deer Cape stars has a unique color. See image in [[#Trivia|Trivia]] section.</ref>
+| {{Spirit Item| Duets | cape_u_real | table | in_page=1 }} {{Spirit Item| The Cellist's Flourishing | cape_real | table | in_page=1 }}
+| {{Icon| Duets-Cape-Stars-Pattern-Level-1.png| table | in_page=1 | label=Level 1 Star}}
+| {{Icon| Duets-Cape-Stars-Pattern-Level-2.png| table | in_page=1 | label=Level 2 Star}}
+| {{Icon| Duets-Cape-Stars-Pattern-Level-3.png| table | in_page=1 | label=Level 3 Star}}
+| {{Spirit Item| Moomin Guide | cape_n_real | table | in_page=1 }}
+| {{Icon| Moominmama's-Masterpiece-Cape-Stars-Pattern-Level-1.png| table | in_page=1 | label=Level 1 Star}}
+| {{Icon| Moominmama's-Masterpiece-Cape-Stars-Pattern-Level-2.png| table | in_page=1 | label=Level 2 Star}}
+| {{Icon| Moominmama's-Masterpiece-Cape-Stars-Pattern-Level-3.png| table | in_page=1 | label=Level 3 Star}}
+| {{Spirit Item| Radiance Guide | cape_a_real | table | in_page=1 }}
+| {{Icon| Radiance-IGC-Cape-Stars-Pattern-Level-1.png| table | in_page=1 | label=Level 1 Star}}
+| {{Icon| Radiance-IGC-Cape-Stars-Pattern-Level-2.png| table | in_page=1 | label=Level 2 Star}}
+| {{Icon| Radiance-IGC-Cape-Stars-Pattern-Level-3.png| table | in_page=1 | label=Level 3 Star}}
+| {{Spirit Item| Radiance Guide | cape_u_real | table | in_page=1 }}
+| {{Icon| Radiance-Ult-Cape-Stars-Pattern-Level-1.png| table | in_page=1 | label=Level 1 Star}}
+| {{Icon| Radiance-Ult-Cape-Stars-Pattern-Level-2.png| table | in_page=1 | label=Level 2 Star}}
+| {{Icon| Radiance-Ult-Cape-Stars-Pattern-Level-3.png| table | in_page=1 | label=Level 3 Star}}
+| {{Days Item| Feast Cape | real | table | in_page=1 }}
+| {{Icon| Belonging-Diamond-Cape-Stars-Pattern-Level-1.png| table | in_page=1 | label=Level 1 Star}}
+| {{Icon| Belonging-Diamond-Cape-Stars-Pattern-Level-2.png| table | in_page=1 | label=Level 2 Star}}
+| {{Icon| Belonging-Diamond-Cape-Stars-Pattern-Level-3.png| table | in_page=1 | label=Level 3 Star}}
+| {{Days Item| Feast Snowflake Cape | real | table | in_page=1 }}
+| {{Icon| Feast-Cape-Stars-Pattern-Level-1.png| table | in_page=1 | label=Level 1 Star}}
+| {{Icon| Feast-Cape-Stars-Pattern-Level-2.png| table | in_page=1 | label=Level 2 Star}}
+| {{Icon| Feast-Cape-Stars-Pattern-Level-3.png| table | in_page=1 | label=Level 3 Star}}
+| {{Days Item| Fortune Cape | real | table | in_page=1 }}
+| {{Icon| Fortune-Cape-Stars-Pattern-Level-1.png| table | in_page=1 | label=Level 1 Star}}
+| {{Icon| Fortune-Cape-Stars-Pattern-Level-2.png| table | in_page=1 | label=Level 2 Star}}
+| {{Icon| Fortune-Cape-Stars-Pattern-Level-3.png| table | in_page=1 | label=Level 3 Star}}
+| {{Days Item| Fortune Dragon Stole | real | table | in_page=1 }}
+| {{Icon| Fortune-Dragon-Cape-Stars-Pattern-Level-1.png| table | in_page=1 | label=Level 1 Star}}
+| {{Icon| Fortune-Dragon-Cape-Stars-Pattern-Level-2.png| table | in_page=1 | label=Level 2 Star}}
+| {{Icon| Fortune-Dragon-Cape-Stars-Pattern-Level-3.png| table | in_page=1 | label=Level 3 Star}}
+| {{Days Item| Earth Cape | real | table | in_page=1 }}
+| {{Icon| Earth-Cape-Stars-Pattern-Level-1.png| table | in_page=1 | label=Level 1 Star}}
+| {{Icon| Earth-Cape-Stars-Pattern-Level-2.png| table | in_page=1 | label=Level 2 Star}}
+| {{Icon| Earth-Cape-Stars-Pattern-Level-3.png| table | in_page=1 | label=Level 3 Star}}
+| {{Days Item| Bloom Rose Cape | real | table | in_page=1 }}
+| {{Icon| Bloom-Rose-Embroidered-Cape-Stars-Pattern-Level-1.png| table | in_page=1 | label=Level 1 Star}}
+| {{Icon| Bloom-Rose-Embroidered-Cape-Stars-Pattern-Level-2.png| table | in_page=1 | label=Level 2 Star}}
+| {{Icon| Bloom-Rose-Embroidered-Cape-Stars-Pattern-Level-3.png| table | in_page=1 | label=Level 3 Star}}
+| {{Days Item| Ocean Cape | real | table | in_page=1 }} {{Days Item| Nature Wave Cape | real | table | in_page=1 }}
+| {{Icon| Ocean-Cape-Stars-Pattern-Level-1.png| table | in_page=1 | label=Level 1 Star}}
+| {{Icon| Ocean-Cape-Stars-Pattern-Level-2.png| table | in_page=1 | label=Level 2 Star}}
+| {{Icon| Ocean-Cape-Stars-Pattern-Level-3.png| table | in_page=1 | label=Level 3 Star}}
+| {{Days Item| Rainbow Cape | real | table | in_page=1 }} {{Days Item| Dark Rainbow Cape | real | table | in_page=1 }}
+| {{Icon| Rainbow-Cape-Stars-Pattern-Level-1.png| table | in_page=1 | label=Level 1 Star}}
+| {{Icon| Rainbow-Cape-Stars-Pattern-Level-2.png| table | in_page=1 | label=Level 2 Star}}
+| {{Icon| Rainbow-Cape-Stars-Pattern-Level-3.png| table | in_page=1 | label=Level 3 Star}}
+| {{Days Item| Spooky Bat Cape | real | table | in_page=1 }}
+| {{Icon| Mischief-Cape-Stars-Pattern-Level-1.png| table | in_page=1 | label=Level 1 Star}}
+| {{Icon| Mischief-Cape-Stars-Pattern-Level-2.png| table | in_page=1 | label=Level 2 Star}}
+| {{Icon| Mischief-Cape-Stars-Pattern-Level-3.png| table | in_page=1 | label=Level 3 Star}}
+| {{Days Item| Mischief Web Cape | real | table | in_page=1 }} {{Days Item| Mischief Gossamer Cape | real | table | in_page=1 }}
+| {{Icon| Spider-Cape-Stars-Pattern-Level-1.png| table | in_page=1 | label=Level 1 Star}}
+| {{Icon| Spider-Cape-Stars-Pattern-Level-2.png| table | in_page=1 | label=Level 2 Star}} 
+| {{Icon| Spider-Cape-Stars-Pattern-Level-3.png| table | in_page=1 | label=Level 3 Star}}
+| {{Days Item| Mischief Withered Cape | real | table | in_page=1 }}
+| {{Icon| Mischief-Leaf-Cape-Stars-Pattern-Level-1.png| table | in_page=1 | label=Level 1 Star}}
+| {{Icon| Mischief-Leaf-Cape-Stars-Pattern-Level-2.png| table | in_page=1 | label=Level 2 Star}}
+| {{Icon| Mischief-Leaf-Cape-Stars-Pattern-Level-3.png| table | in_page=1 | label=Level 3 Star}}
+| {{Days Item| Mischief Cat Cape | real | table | in_page=1 }}
+| {{Icon| Mischief-Cat-Cape-Stars-Pattern-Level-1.png| table | in_page=1 | label=Level 1 Star}}
+| {{Icon| Mischief-Cat-Cape-Stars-Pattern-Level-2.png| table | in_page=1 | label=Level 2 Star}}
+| {{Icon| Mischief-Cat-Cape-Stars-Pattern-Level-3.png| table | in_page=1 | label=Level 3 Star}}
+| {{Days Item| Mischief Crabula Cloak | real | table | in_page=1 }}
+| {{Icon| Mischief-Crabula-Cape-Stars-Pattern-Level-1.png| table | in_page=1 | label=Level 1 Star}}
+| {{Icon| Mischief-Crabula-Cape-Stars-Pattern-Level-2.png| table | in_page=1 | label=Level 2 Star}}
+| {{Icon| Mischief-Crabula-Cape-Stars-Pattern-Level-3.png| table | in_page=1 | label=Level 3 Star}}
+| {{Days Item| Raven Cloak | real | table | in_page=1 }}
+| {{Icon| Mischief-Raven-Cape-Stars-Pattern-Level-1.png| table | in_page=1 | label=Level 1 Star}}
+| {{Icon| Mischief-Raven-Cape-Stars-Pattern-Level-2.png| table | in_page=1 | label=Level 2 Star}}
+| {{Icon| Mischief-Raven-Cape-Stars-Pattern-Level-3.png| table | in_page=1 | label=Level 3 Star}}
+| {{Days Item | Kizuna AI Cape | real | table | in_page=1 }}
+| {{Icon| Kizuna-Cape-Stars-Pattern-Level-1.png| table | in_page=1 | label=Level 1 Star}}
+| {{Icon| Kizuna-Cape-Stars-Pattern-Level-2.png| table | in_page=1 | label=Level 2 Star}}
+| {{Icon| Kizuna-Cape-Stars-Pattern-Level-3.png| table | in_page=1 | label=Level 3 Star}}
+| {{Icon| Cape nintendo red back.png | table | in_page=1 | label=Nintendo Red Cape }}
+| {{Icon| Nintendo-Plus-Cape-Stars-Pattern-Level-1.png| table | in_page=1 | label=Level 1 Star}}
+| {{Icon| Nintendo-Plus-Cape-Stars-Pattern-Level-2.png| table | in_page=1 | label=Level 2 Star}}
+| {{Icon| Nintendo-Plus-Cape-Stars-Pattern-Level-3.png| table | in_page=1 | label=Level 3 Star}}
+| {{Icon| Cape nintendo blue back.png | table | in_page=1 | label=Nintendo Blue Cape }}
+| {{Icon| Nintendo-Minus-Cape-Stars-Pattern-Level-1.png| table | in_page=1 | label=Level 1 Star}}
+| {{Icon| Nintendo-Minus-Cape-Stars-Pattern-Level-2.png| table | in_page=1 | label=Level 2 Star}}
+| {{Icon| Nintendo-Minus-Cape-Stars-Pattern-Level-3.png| table | in_page=1 | label=Level 3 Star}}
+| {{Icon| JourneyPack-Cape-back-Nastymold.png | table | in_page=1 | label=Journey Cape }} {{Icon| Transcendent-Journey-Pack-Cape-back.png | table | in_page=1 | label=Transcendent Journey Cape }}
+| {{Icon| Journey-Cape-Stars-Pattern-Level-1.png| table | in_page=1 | label=Level 1 Star}}
+| {{Icon| Journey-Cape-Stars-Pattern-Level-2.png| table | in_page=1 | label=Level 2 Star}}
+| {{Icon| Journey-Cape-Stars-Pattern-Level-3.png| table | in_page=1 | label=Level 3 Star}}
+| }}<section end="Icon List" />
+}}
+
+== Cape Energy ==
+[[File:Cape_Star_Pattern.png|frameless|400px|thumb|center|Cape Star Pattern]]
+The back of the player's Cape has a line of symbols showing their current Cape energy. In addition, any time the player is recharging, the entire Cape undergoes a color-change animation. This allows players to see each other energy levels, for example to know when a friend needs to be recharged.  The Cape symbols are not, however, a direct indication of a player's experience because there are ways to lose Cape wedges.
+
+On most Capes, the symbols are stars/diamonds, but specialty Capes may have season-specific or event-specific symbols.  The number of symbols (including the outlines/frames) matches the player's total number of wedges.  In other words, the 6th-10th Cape wedges are each represented by an outline around the 1st-5th diamond.  The 11th and 12th wedges (the current maximum) are a second outline around the top two symbols. These symbols glow white if the corresponding Cape wedge is charged.  They are dark if you have used up your energy.
+{{clear|left}}
+
+==Cape Color Guide==
+The colors of the Capes change slightly depending on the current brightness. The below photos were captured at [[Home]] during a sunset. All of the colors lighten a bit in bright daylight. The colors also change when the Cape is draining (e.g., if you stand in the rain in [[Hidden Forest|Forest]]). You can check the effects of different lightings on the Capes in the chart below.
+
+Guides by: [[User:Thatskymirian|thatskymirian]], Maya#0218, [[User:SupremeAcorn|SupremeAcorn]], blueberry.m1lk#8505
+<gallery widths="125" spacing="small" captionalign="center" hideaddbutton="true" mode="nolines">
+ColorCapeGuide.jpg|(Check the original image for better quality.) Normal and Season of Gratitude, Color Cape Guide
+Lightseekers capes.png|Season of Lightseekers, Color Cape Guide
+Belonging capes.png|Season of Belonging, Color Cape Guide
+Rhythmcapes (2).png|Season of Rhythm, Color Cape Guide
+Enchantment.png|Season of Enchantment, Color Cape Guide
+Στιγμιότυπο_οθόνης_(81).png|Season of Sanctuary, Color Cape Guide
+</gallery>
+
+== Base Cape ==
+This Cape is worn by the player at the start of the game after collecting their first [[Winged Light]].<br>
+<br>
+{{#tag:gallery
+|Icon_cape_brown-Morybel-0146.png {{!}} Base Cape icon
+Cape-Brown Default.png {{!}} Base Cape front
+Cape brown 3.png {{!}} Base Cape interior
+Cape brown 2.png {{!}}  Base Cape back
+Base-Cape-Exterior.png {{!}} Base Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+==<span id="Orange Cape">Starter Pack</span>==
+The mobile Starter Pack is an [[Premium Candle Shop|in-app purchase]] for {{USD|4.99}} that is available to mobile (iOS and Android),  PlayStation and Steam players. (There is a separate [[Nintendo Pack|Nintendo Starter Pack]]<ref name="Nintendo Pack"/> as well.) The mobile Starter Pack contains an orange Cape and {{Candle|20}} regular candles.<br>
+<br>
+{{#tag:gallery
+|Starter Pack IAP.png {{!}} The Starter Pack contains an Orange Cape and 20 Candles for $4.99.
+Icon_cape_orange-Morybel-0146.png {{!}} Starter Pack Orange Cape icon
+Cape-Orange.png {{!}} Starter Pack Orange Cape front
+cape_orange_3.png {{!}} Starter Pack Orange Cape interior
+cape_orange_2.png {{!}} Starter Pack Orange Cape back
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Tier 2 Capes ==
+All [[Regular Spirit]] Capes have two levels (Tiers) of Cape. The Tier 2 Capes are the same overall color as the corresponding Tier 1 versions, but have a secondary accent color. They always cost three times as much as the Tier 1 Capes.
+<gallery widths="125px">
+CourageousSoldier-3-Morybel-0146.png|Green Tier 1 Cape icon
+Cape green2.png|Green Tier 1 Cape
+CourageousSoldier-4.png|Green Tier 2 Cape icon
+Cape green tier 2 back.png|Green Tier 2 Cape
+</gallery>
+
+The Tier 2 Capes are intended to be bonus content for long-time players.  They are always unlocked by a second [[Wing Buff]] that requires a large number of [[Ascended Candle]]s.  Neither the second Wing Buff nor the Tier 2 Cape need to be purchased as part of completing a Realm's [[Constellation]].
+
+== Special Capes ==
+In general, the only effect of changing your Cape is changing the visual appearance of your Cape. However, there are some Capes with special functions.
+* The [[Secret Area#Beta Cape|Beta Cape]] and [[Secret Area#Founder's Pack|Founder's Cape]] gives players access to the [[Secret Area]]. 
+* The [[Sky for Nintendo Switch#Nintendo Pack|Nintendo Blue and Red Capes]] gives players access to the [[Golden Wasteland#Nintendo Switch Area|Nintendo Area]].
+* The [[Season of The Little Prince#Little Prince Asteroid Jacket|Little Prince Asteroid Jacket]] gives players access to the [[Season of The Little Prince#Dreams of A Little Friend|Dreams of A Little Friend]] area.
+* The [[AURORA Concert#Wings of AURORA|Wings of AURORA]] gives players access to the [[AURORA Concert|Aurora Concert]].
+* The [[Hopeful Steward#Revival Ultimate Cape|Revival Ultimate Cape]] creates a rainbow light effect when flying through the air.
+* The [[Season of the Nine-Colored Deer#Radiance of the Nine-Colored Deer|Radiance of the Nine-Colored Deer]] gives the wearer and the friends they hold hands with a special ability to directly transport to a tranquil location and enjoy the company of that Season’s legendary creature when it periodically enters the space.
+* The [[Sky Anniversary/2024#SkyFest Wireframe Cape|SkyFest Wireframe Cape]] and [[Sky Anniversary#TGC Wireframe Cape|TGC Wireframe Cape]] gives the wearer and the friends who holding hands with them the ability to go to the [[Sky Anniversary]] version of [[Aviary Village]] and play the activities, and revisit the art and history of Sky museums.
+* The [[Season_of_Moomin#Moominmamma's_Masterpiece|Moominmamma's Masterpiece Cape]] gives the wearer, and the friends who holding hands with them, the ability to go inside the Moominhouse. 
+* The [[Blue Bird Guide#Blue Bird Ultimate Cape|Blue Bird Ultimate Cape]] creates a blue light effect when flying, and produces the illusion of blue feathers falling from the cape every time the player spends light to fly. 
+* The [[Vault Elder's Lantern#Two Embers Part 1 Ultimate Cape|Two Embers Part 1 Ultimate Cape]] offers the wearer and friends they hold hand with the special ability to fly in the seasonal area, as well an entrance into a safe, peaceful place within the area.
+{{clear}}
+== Display ==
+<section begin="Display" />{{#invoke:Cosmetics Tabber|tabber
+| {{Icon| Icon_cape_brown-Morybel-0146.png | tab | label=Base Cape | link= }}
+| {{Icon| Cape_brown_2.png | closet_display | label=Base Cape | link=Capes#Base Cape }}
+| {{Icon| Beta-cape-Morybel-0146.png | tab | label=Beta Cape | link= }}
+| {{Icon| Beta_cape_back_v2.png | closet_display | link=Beta Cape }}<ref name="beta\_vs\_founders">The Beta Cape and the Founder's Cape look identical when seen from the back, but they have different interior colors. See the [[Secret Area]] for a comparison.</ref>
+| {{Icon| Icon_cape_tgc_b-Morybel-0146.png | tab | label=Founder's Pack | link= }}
+| {{Icon| Founders_cape_back_v2.png | closet_display | link=Founder's Pack }}<ref name="beta\_vs\_founders" />
+| {{Icon| Icon_cape_orange-Morybel-0146.png | tab | label=Starter Pack | link= }}
+| {{Icon| Cape_orange_2.png | closet_display | link=Starter Pack }}
+| {{Spirit Item| Butterfly Charmer | Cape | tab | link= }}
+| {{Spirit Item| Butterfly Charmer | cape_real | closet_display }}
+| {{Spirit Item| Proud Victor | cape | tab | link= }}
+| {{Spirit Item| Proud Victor | cape_real | closet_display }}
+| {{Spirit Item| Courageous Soldier | cape | tab | link= }}
+| {{Spirit Item| Courageous Soldier | cape_real | closet_display }}
+| {{Spirit Item| Pouty Porter | cape | tab | link= }}
+| {{Spirit Item| Pouty Porter | cape_real | closet_display }}
+| {{Spirit Item| Praying Acolyte | cape | tab | link= }}
+| {{Spirit Item| Praying Acolyte | cape_real | closet_display }}
+| {{Spirit Item| Dismayed Hunter | cape | tab | link= }}
+| {{Spirit Item| Dismayed Hunter | cape_real | closet_display }}
+| {{Spirit Item| Handstanding Thrillseeker | cape | tab | link= }}
+| {{Spirit Item| Handstanding Thrillseeker | cape_real | closet_display }}
+| {{Spirit Item| Stealthy Survivor | cape | tab | link= }}
+| {{Spirit Item| Stealthy Survivor | cape_real | closet_display }}
+| {{Spirit Item| Memory Whisperer | cape | tab | link= }}
+| {{Spirit Item| Memory Whisperer | cape_real | closet_display }}
+| {{Spirit Item| Butterfly Charmer | cape_2 | tab | link= }}
+| {{Spirit Item| Butterfly Charmer | cape_2_real | closet_display }}
+| {{Spirit Item| Proud Victor | cape_2 | tab | link= }}
+| {{Spirit Item| Proud Victor | cape_2_real | closet_display }}
+| {{Spirit Item| Courageous Soldier | cape_2 | tab | link= }}
+| {{Spirit Item| Courageous Soldier | cape_2_real | closet_display }}
+| {{Spirit Item| Pouty Porter | cape_2 | tab | link= }}
+| {{Spirit Item| Pouty Porter | cape_2_real | closet_display }}
+| {{Spirit Item| Praying Acolyte | cape_2 | tab | link= }}
+| {{Spirit Item| Praying Acolyte | cape_2_real | closet_display }}
+| {{Spirit Item| Dismayed Hunter | cape_2 | tab | link= }}
+| {{Spirit Item| Dismayed Hunter | cape_2_real | closet_display }}
+| {{Spirit Item| Handstanding Thrillseeker | cape_2 | tab | link= }}
+| {{Spirit Item| Handstanding Thrillseeker | cape_2_real | closet_display }}
+| {{Spirit Item| Stealthy Survivor | cape_2 | tab | link= }}
+| {{Spirit Item| Stealthy Survivor | cape_2_real | closet_display }}
+| {{Spirit Item| Memory Whisperer | cape_2 | tab | link= }}
+| {{Spirit Item| Memory Whisperer | cape_2_real | closet_display }}
+| {{Spirit Item| Radiance Guide | cape_a | tab | link= }}
+| {{Spirit Item| Radiance Guide | cape_a_real | closet_display }}
+| {{Spirit Item| Saluting Protector | Cape | tab | link= }}
+| {{Spirit Item| Saluting Protector | cape_real | closet_display }}
+| {{Spirit Item| Stretching Guru | Cape | tab | link= }}
+| {{Spirit Item| Stretching Guru | cape_real | closet_display }}
+| {{Spirit Item| Crab Whisperer | Cape | tab | link= }}
+| {{Spirit Item| Crab Whisperer | Cape_real | closet_display }}
+| {{Spirit Item| Piggyback Lightseeker | Cape | tab | link= }}
+| {{Spirit Item| Piggyback Lightseeker | Cape_real | closet_display }}
+| {{Spirit Item| Shushing Light Scholar | Cape | tab | link= }}
+| {{Spirit Item| Shushing Light Scholar | Cape_real | closet_display }}
+| {{Spirit Item| Confetti Cousin | Cape | tab | link= }}
+| {{Spirit Item| Confetti Cousin | Cape_real | closet_display }}
+| {{Spirit Item| Pleaful Parent | Cape | tab | link= }}
+| {{Spirit Item| Pleaful Parent | Cape_real | closet_display }}
+| {{Spirit Item| Wise Grandparent | Cape | tab | link= }}
+| {{Spirit Item| Wise Grandparent | Cape_real | closet_display }}
+| {{Spirit Item| Troupe Juggler | Cape | tab | link= }}
+| {{Spirit Item| Troupe Juggler | cape_real | closet_display }}
+| {{Spirit Item| Thoughtful Director | Cape | tab | link= }}
+| {{Spirit Item| Thoughtful Director | cape_real | closet_display }}
+| {{Spirit Item| Crab Walker | Cape | tab | link= }}
+| {{Spirit Item| Crab Walker | Cape_real | closet_display }}
+| {{Spirit Item| Snoozing Carpenter | Cape | tab | link= }}
+| {{Spirit Item| Snoozing Carpenter | Cape_real | closet_display }}
+| {{Spirit Item| Indifferent Alchemist | Cape | tab | link= }}
+| {{Spirit Item| Indifferent Alchemist | Cape_real | closet_display }}
+| {{Spirit Item| Playfighting Herbalist | Cape | tab | link= }}
+| {{Spirit Item| Playfighting Herbalist | Cape_real | closet_display }}
+| {{Spirit Item| Timid Bookworm | cape | tab | link= }}
+| {{Spirit Item| Timid Bookworm | cape_real | closet_display }}
+| {{Spirit Item| Sanctuary Guide | cape_u | tab | link= }}
+| {{Spirit Item| Sanctuary Guide | cape_u_real | closet_display | link=Sanctuary_Guide#Sanctuary_Ultimate_Cape }}
+| {{Spirit Item| Grateful Shell Collector | Cape | tab | link= }}
+| {{Spirit Item| Grateful Shell Collector | Cape_real | closet_display }}
+| {{Spirit Item| Chill Sunbather | Cape | tab | link= }}
+| {{Spirit Item| Chill Sunbather | Cape_real | closet_display }}
+| {{Spirit Item| Prophet of Air | Cape | tab | link= }}
+| {{Spirit Item| Prophet of Air | Cape_real | closet_display }}
+| {{Spirit Item| Prophet of Water | Cape | tab | link= }}
+| {{Spirit Item| Prophet of Water | Cape_real | closet_display }}
+| {{Spirit Item| Prophet of Earth | Cape | tab | link= }}
+| {{Spirit Item| Prophet of Earth | Cape_real | closet_display }}
+| {{Spirit Item| Peeking Postman | Cape | tab | link= }}
+| {{Spirit Item| Peeking Postman | Cape_real | closet_display }}
+| {{Spirit Item| Dancing Performer | Cape | tab | link= }}
+| {{Spirit Item| Dancing Performer | cape_real | closet_display }}
+| {{Spirit Item| Spinning Mentor | Cape | tab | link= }}
+| {{Spirit Item| Spinning Mentor | cape_real | closet_display }}
+| {{Spirit Item| Dreams Guide | cape_u | tab | link= }}
+| {{Spirit Item| Dreams Guide | cape_u_real | closet_display | link=Dreams_Guide#Dreams_Ultimate_Cape }}
+| {{Spirit Item| Assembly Guide | cape_u | tab | link= }}
+| {{Spirit Item| Assembly Guide | cape_u_real | closet_display | link=Assembly_Guide#Assembly_Ultimate_Cape }}
+| {{Spirit Item| Scolding Student | Cape | tab | link= }}
+| {{Spirit Item| Scolding Student | cape_real | closet_display }}
+| {{Spirit Item| Star Collector | Cape | tab | link= }}
+| {{Spirit Item| Star Collector | cape_real | closet_display }}
+| {{Spirit Item| Slouching Soldier | Cape | tab | link= }}
+| {{Spirit Item| Slouching Soldier | cape_real | closet_display }}
+| {{Spirit Item| Stretching Lamplighter | Cape | tab | link= }}
+| {{Spirit Item| Stretching Lamplighter | cape_real | closet_display }}
+| {{Spirit Item| Sneezing Geographer | Cape | tab | link= }}
+| {{Spirit Item| Sneezing Geographer | cape_real | closet_display }}
+| {{Spirit Item| Little Prince | cape_s | tab | link= | label=Little Prince Scarf Cape }}
+| {{Spirit Item| Little Prince | cape_s_real | closet_display | link=Season of The Little Prince#Little Prince Scarf Cape | label=Little Prince Scarf Cape }}
+| {{Spirit Item| Little Prince | cape_a | tab | link= | label=Little Prince Asteroid Jacket }}
+| {{Spirit Item| Little Prince | cape_a_real | closet_display | link=Season of The Little Prince#Little Prince Asteroid Jacket | label=Little Prince Asteroid Jacket }}
+| {{Spirit Item| Light Whisperer | Cape | tab | link= }}
+| {{Spirit Item| Light Whisperer | Cape_real | closet_display }}
+| {{Spirit Item| Lively Navigator | Cape | tab | link= }}
+| {{Spirit Item| Lively Navigator | Cape_real | closet_display }}
+| {{Spirit Item| Ceasing Commodore | Cape | tab | link= }}
+| {{Spirit Item| Ceasing Commodore | Cape_real | closet_display }}
+| {{Spirit Item| Cackling Cannoneer | Cape | tab | link= }}
+| {{Spirit Item| Cackling Cannoneer | Cape_real | closet_display }}
+| {{Spirit Item| Anxious Angler | Cape | tab | link= }}
+| {{Spirit Item| Anxious Angler | Cape_real | closet_display }}
+| {{Spirit Item| Bumbling Boatswain | Cape | tab | link= }}
+| {{Spirit Item| Bumbling Boatswain | Cape_real | closet_display }}
+| {{Spirit Item| Abyss Guide | cape_u | tab | link= }}
+| {{Spirit Item| Abyss Guide | cape_u_real | closet_display | link=Abyss_Guide#Abyss_Ultimate_Cape }}
+| {{Spirit Item| Performance Guide | cape_u | tab | link= }}
+| {{Spirit Item| Performance Guide | cape_u_real | closet_display | link=Performance_Guide#Performance_Ultimate_Cape }}
+| {{Spirit Item| Forgetful Storyteller | Cape | tab | link= }}
+| {{Spirit Item| Forgetful Storyteller | Cape_real | closet_display }}
+| {{Spirit Item| Mellow Musician | Cape | tab | link= }}
+| {{Spirit Item| Mellow Musician | Cape_real | closet_display }}
+| {{Spirit Item| Ancient Darkness | Cape | tab | link= }}
+| {{Spirit Item| Ancient Darkness | Cape_real | closet_display }}
+| {{Spirit Item| Shattering Guide | Cape_k | tab | label=Krill Ultimate Cape | link= }}
+| {{Spirit Item| Shattering Guide | Cape_k_real | closet_display | label=Krill Ultimate Cape | link=The_Void_of_Shattering#Shattering_Ultimate_Krill_Cape }}
+| {{Spirit Item| Ancient Light | Cape_j | tab | label=Ancient Light (Jellyfish) | link= }}
+| {{Spirit Item| Ancient Light | Cape_j_real | closet_display | label=Ancient Light (Jellyfish) }}
+| {{Spirit Item| Ancient Light | Cape_m | tab | label=Ancient Light (Manta) | link= }}
+| {{Spirit Item| Ancient Light | Cape_m_real | closet_display | label=Ancient Light (Manta) }}
+| {{Spirit Item| Shattering Guide | Cape_m | tab | label=Manta Ultimate Cape | link= }}
+| {{Spirit Item| Shattering Guide | Cape_m_real | closet_display | label=Manta Ultimate Cape | link=The_Void_of_Shattering#Shattering_Ultimate_Manta_Cape }}
+| {{Spirit Item| Seed of Hope | cape | tab | link= }}
+| {{Spirit Item| Seed of Hope | cape_real | closet_display }}
+| {{Spirit Item| Running Wayfarer | cape | tab | link= }}
+| {{Spirit Item| Running Wayfarer | cape_real | closet_display }}
+| {{Spirit Item| Warrior of Love | cape | tab | link= }}
+| {{Spirit Item| Warrior of Love | cape_real | closet_display }}
+| {{Spirit Item| Mindful Miner | cape | tab | link= }}
+| {{Spirit Item| Mindful Miner | cape_real | closet_display }}
+| {{Spirit Item| AURORA | cape_w | tab | link= | label=Wings of AURORA }}
+| {{Spirit Item| AURORA | cape_w_real | closet_display | link=AURORA_Concert#Wings of AURORA | label=Wings of AURORA }}
+| {{Spirit Item| AURORA Guide | cape_u | tab | link= }}
+| {{Spirit Item| AURORA Guide | cape_u_real | closet_display | link=AURORA_Guide#AURORA_Ultimate_Cape }}
+| {{Spirit Item| AURORA | cape_g | tab | link= | label=Giving In Cape }}
+| {{Spirit Item| AURORA | cape_g_real | closet_display | link=AURORA_Concert#Giving In Cape | label=Giving In Cape }}
+| {{Spirit Item| Bereft Veteran | cape | tab | link= }}
+| {{Spirit Item| Bereft Veteran | cape_real | closet_display }}
+| {{Spirit Item| Wounded Warrior | cape | tab | link= }}
+| {{Spirit Item| Wounded Warrior | cape_real | closet_display }}
+| {{Spirit Item| Tiptoeing Tea-Brewer | cape | tab | link= }}
+| {{Spirit Item| Tiptoeing Tea-Brewer | cape_real | closet_display }}
+| {{Spirit Item| Tumbling Troublemaker | cape | tab | link= }}
+| {{Spirit Item| Tumbling Troublemaker | cape_real | closet_display }}
+| {{Spirit Item| Overactive Overachiever | cape | tab | link= }}
+| {{Spirit Item| Overactive Overachiever | cape_real | closet_display }}
+| {{Spirit Item| Passage Guide | cape_u | tab | link= }}
+| {{Spirit Item| Passage Guide | cape_u_real | closet_display | link=Passage_Guide#Passage_Ultimate_Cape }}
+| {{Spirit Item| Reassuring Ranger | cape | tab | link= }}
+| {{Spirit Item| Reassuring Ranger | cape_real | closet_display }}
+| {{Spirit Item| Vestige of a Deserted Oasis | cape | tab | link= }}
+| {{Spirit Item| Vestige of a Deserted Oasis | cape_real | closet_display }}
+| {{Spirit Item| Echo of an Abandoned Refuge | cape | tab | link= }}
+| {{Spirit Item| Echo of an Abandoned Refuge | cape_real | closet_display }}
+| {{Spirit Item| Remnant of a Forgotten Haven | cape | tab | link= }}
+| {{Spirit Item| Remnant of a Forgotten Haven | cape_real | closet_display }}
+| {{Spirit Item| Memory of a Lost Village | cape | tab | link= }}
+| {{Spirit Item| Memory of a Lost Village | cape_real | closet_display }}
+| {{Spirit Item| Hopeful Steward | cape_u | tab | link= }}
+| {{Spirit Item| Hopeful Steward | cape_u_real | closet_display | link=Hopeful_Steward#Revival_Ultimate_Cape }}
+| {{Spirit Item| Spirit of Mural | cape_u | tab | label=Nine-Colored Deer Ultimate Cape | link= }}
+| {{Spirit Item| Spirit of Mural | cape_u_real | closet_display | link=Spirit_of_Mural#Nine-Colored_Deer_Ultimate_Cape | label=Nine-Colored Deer Ultimate Cape }}
+| {{Spirit Item| Princess | cape | tab | link= }}
+| {{Spirit Item| Princess | cape_real | closet_display }}
+| {{Spirit Item| Hunter | cape | tab | link= }}
+| {{Spirit Item| Hunter | cape_real | closet_display }}
+| {{Spirit Item| Feudal Lord | cape | tab | link= }}
+| {{Spirit Item| Feudal Lord | cape_real | closet_display }}
+| {{Spirit Item| Spirit of Mural | cape_r | tab | label=Radiance of the Nine-Colored Deer | link= }}
+| {{Spirit Item| Spirit of Mural | cape_r_real | closet_display | label=Radiance of the Nine-Colored Deer | link=Season of the Nine-Colored Deer#Radiance of the Nine-Colored Deer }}
+| {{Spirit Item| Nesting Loft | cape | tab | link= }}
+| {{Spirit Item| Nesting Loft | cape_real | closet_display }}
+| {{Spirit Item| Duets Guide | cape_u | tab | link= }}
+| {{Spirit Item| Duets Guide | cape_u_real | closet_display | link=Duets_Guide#Duets_Ultimate_Cape }}
+| {{Spirit Item| The Cellist's Flourishing | cape | tab | link= }}
+| {{Spirit Item| The Cellist's Flourishing | cape_real | closet_display }}
+| {{Spirit Item| Moomin Guide | cape_n | tab | label=Moominmamma's Masterpiece | link= }}
+| {{Spirit Item| Moomin Guide | cape_n_real | closet_display | label=Moominmamma's Masterpiece | link=Season of Moomin#Moominmamma's Masterpiece }}
+| {{Spirit Item| Spirit of Adventure | cape | tab | link= }}
+| {{Spirit Item| Spirit of Adventure | cape_real | closet_display }}
+| {{Spirit Item| Comfort of Kindness | cape | tab | link= }}
+| {{Spirit Item| Comfort of Kindness | cape_real | closet_display }}
+| {{Spirit Item| Radiance Provoking Performer | cape | tab | link= }}
+| {{Spirit Item| Radiance Provoking Performer | cape_real | closet_display }}
+| {{Spirit Item| Radiance Leaping Dancer | cape | tab | link= }}
+| {{Spirit Item| Radiance Leaping Dancer | cape_real | closet_display }}
+| {{Spirit Item| Radiance Guide | cape_u | tab | link= }}
+| {{Spirit Item| Radiance Guide | cape_u_real | closet_display | link=Radiance_Guide#Radiance_Ultimate_Cape }}
+| {{Spirit Item| Royal Hairtousle Teen | cape | tab | link= }}
+| {{Spirit Item| Royal Hairtousle Teen | cape_real | closet_display }}
+| {{Spirit Item| Nostalgic Sparkler Parent | cape | tab | link= }}
+| {{Spirit Item| Nostalgic Sparkler Parent | cape_real | closet_display }}
+| {{Spirit Item| Divining Wise grandparent | cape | tab | link= }}
+| {{Spirit Item| Divining Wise grandparent | cape_real | closet_display }}
+| {{Spirit Item| Blue Bird Guide | cape_u | tab | link= }}
+| {{Spirit Item| Blue Bird Guide | cape_u_real | closet_display | link=Blue_Bird_Guide#Blue_Bird_Ultimate_Cape }}
+| {{Spirit Item| Scarred Sentry | cape | tab | link= }}
+| {{Spirit Item| Scarred Sentry | cape_real | closet_display }}
+| {{Spirit Item| Vault Elder's Lantern | cape_d | tab | link= }}
+| {{Spirit Item| Vault Elder's Lantern | cape_d_real | closet_display | link=Season_of_The_Two_Embers_-_Part_1#Cloak_of_Darkness }}
+| {{Spirit Item| Vault Elder's Lantern | cape_u | tab | link= }}
+| {{Spirit Item| Vault Elder's Lantern | cape_u_real | closet_display | link=Vault_Elder%27s_Lantern#Two_Embers_Part_1_Ultimate_Cape }}
+| {{Days Item| Days of Fortune Cape | icon | tab | link= }}
+| {{Days Item| Days of Fortune Cape | real | closet_display }}
+| {{Days Item| Fortune Fish Cape | icon | tab | link= }}
+| {{Days Item| Fortune Fish Cape | real | closet_display }}
+| {{Days Item| Dragon Cape | icon | tab | link= }}
+| {{Days Item| Dragon Cape | real | closet_display }}
+| {{Days Item| Pink Bloom Cape | icon | tab | link= }}
+| {{Days Item| Pink Bloom Cape | real | closet_display }}
+| {{Days Item| Purple Bloom Cape | icon | tab | link= }}
+| {{Days Item| Purple Bloom Cape | real | closet_display }}
+| {{Days Item| Red Bloom Cape | icon | tab | link= }}
+| {{Days Item| Red Bloom Cape | real | closet_display }}
+| {{Days Item| Bloom Arum Petal Cape | icon | tab | link= }}
+| {{Days Item| Bloom Arum Petal Cape | real | closet_display }}
+| {{Days Item| Bloom Rose-Embroidered Cape | icon | tab | link= }}
+| {{Days Item| Bloom Rose-Embroidered Cape | real | closet_display }}
+| {{Days Item| Earth Cape | icon | tab | link= }}
+| {{Days Item| Earth Cape | real | closet_display }}
+| {{Days Item| Ocean Cape | icon | tab | link= }}
+| {{Days Item| Ocean Cape | real | closet_display }}
+| {{Days Item| Nature Turtle Cape | icon | tab | link= }}
+| {{Days Item| Nature Turtle Cape | real | closet_display }}
+| {{Days Item| Ocean Sea Foam Cape | icon | tab | link= }}
+| {{Days Item| Ocean Sea Foam Cape | real | closet_display }}
+| {{Days Item| Nature School Cape | icon | tab | link= }}
+| {{Days Item| Nature School Cape | real | closet_display }}
+| {{Days Item| Nature Wave Cape | icon | tab | link= }}
+| {{Days Item| Nature Wave Cape | real | closet_display }}
+| {{Days Item| Rainbow Cape | icon | tab | link= }}
+| {{Days Item| Rainbow Cape | real | closet_display | link=Days_of_Color/2021#Rainbow_Cape }}
+| {{Days Item| Dark Rainbow Cape | icon | tab | link= }}
+| {{Days Item| Dark Rainbow Cape | real | closet_display | link=Days_of_Color/2023#Dark_Rainbow_Cape }}
+| {{Days Item| Rainbow Ribbon Shawl | icon | tab | link= }}
+| {{Days Item| Rainbow Ribbon Shawl | real | closet_display | link=Days_of_Color/2025#Rainbow_Ribbon_Shawl }}
+| {{Days Item| SkyFest Wireframe Cape | icon | tab | link= }}
+| {{Days Item| SkyFest Wireframe Cape | real | closet_display | link=Sky_Anniversary/2024#SkyFest_Wireframe_Cape }}
+| {{Days Item| TGC Wireframe Cape | icon | tab | link= }}
+| {{Days Item| TGC Wireframe Cape | real | closet_display }}
+| {{Days Item| Sunlight Blue Towel Cape | icon | tab | link= }}
+| {{Days Item| Sunlight Blue Towel Cape | real | closet_display }}
+| {{Days Item| Sunlight Pink Towel Cape | icon | tab | link= }}
+| {{Days Item| Sunlight Pink Towel Cape | real | closet_display }}
+| {{Days Item| Sunlight Orange Towel Cape | icon | tab | link= }}
+| {{Days Item| Sunlight Orange Towel Cape | real | closet_display }}
+| {{Days Item| Sunlight Shawl Cape | icon | tab | link= }}
+| {{Days Item| Sunlight Shawl Cape | real | closet_display }}
+| {{Days Item| Sunlight Woven Wrap | icon | tab | link= }}
+| {{Days Item| Sunlight Woven Wrap | real | closet_display }}
+| {{Days Item| Moonlight Garland Cape | icon | tab | link= }}
+| {{Days Item| Moonlight Garland Cape | real | closet_display }}
+| {{Days Item| Spooky Bat Cape | icon | tab | link= }}
+| {{Days Item| Spooky Bat Cape | real | closet_display }}
+| {{Days Item| Mischief Web Cape | icon | tab | link= }}
+| {{Days Item| Mischief Web Cape | real | closet_display }}
+| {{Days Item| Withered Cape | icon | tab | link= }}
+| {{Days Item| Withered Cape | real | closet_display }}
+| {{Days Item| Cat Cape | icon | tab | link= }}
+| {{Days Item| Cat Cape | real | closet_display }}
+| {{Days Item| Gossamer Cape | icon | tab | link= }}
+| {{Days Item| Gossamer Cape | real | closet_display}}
+| {{Days Item| Crabula Cloak | icon | tab | link= }}
+| {{Days Item| Crabula Cloak | real | closet_display }}
+| {{Days Item| Raven Cloak | icon | tab | link= }}
+| {{Days Item| Raven Cloak | real | closet_display }}
+| {{Days Item| Santa Cape | icon | tab | link= }}
+| {{Days Item| Santa Cape | real | closet_display }}
+| {{Days Item| Snowflake Cape | icon | tab | link= }}
+| {{Days Item| Snowflake Cape | real | closet_display }}
+| {{Days Item| Winter Ancestor Cape | icon | tab | link= }}
+| {{Days Item| Winter Ancestor Cape | real | closet_display }}
+| {{Days Item| Cozy Hermit Cape | icon | tab | link= }}
+| {{Days Item| Cozy Hermit Cape | real | closet_display }}
+| {{Days Item| Winter Quilted Cape | icon | tab | link= }}
+| {{Days Item| Winter Quilted Cape | real | closet_display }}
+| {{Days Item| Meteor Mantle | icon | tab | link= }}
+| {{Days Item| Meteor Mantle | real | closet_display }}
+| {{Days Item| Cinnamoroll Cloud Cape | icon | tab | link= }}
+| {{Days Item| Cinnamoroll Cloud Cape | real | closet_display }}
+| {{Days Item| Marching Band Cape | icon | tab | link= }}
+| {{Days Item| Marching Band Cape | real | closet_display }}
+| {{Days Item| Anniversary Tuxedo Cape | icon | tab | link= }}
+| {{Days Item| Anniversary Tuxedo Cape | real | closet_display }}
+| {{Days Item| Sparrow Cape | icon | tab | link= }}
+| {{Days Item| Sparrow Cape | real | closet_display }}
+| {{Days Item| Moth Cape | icon | tab | link= }}
+| {{Days Item| Moth Cape | real | closet_display }}
+| {{Days Item| Kizuna AI Cape | icon | tab | link= }}
+| {{Days Item| Kizuna AI Cape | real | closet_display | link=Kizuna_AI#Kizuna_AI_Pack }}
+| {{Icon| Icon_cape_nintendo_red-Morybel-0146.png | tab | link= | label=Red Switch Cape }}
+| {{Icon| Cape_nintendo_red_back.png | closet_display | link=Nintendo Pack | label=Red Switch Cape }}
+| {{Icon| Icon_cape_nintendo_blue-Morybel-0146.png | tab | link= | label=Blue Switch Cape }}
+| {{Icon| Cape_nintendo_blue_back.png | closet_display | link=Nintendo Pack | label=Blue Switch Cape }}
+| {{Icon| Journey-Pack-Cape-Icon-Morybel-0146.png | tab | link= | label=Journey Cape }}
+| {{Icon| JourneyPack-Cape-back-Nastymold.png | closet_display | link=Journey Pack | label=Journey Cape }}
+| {{Icon| Transcendent-Journey-Pack-Cape-icon.png | tab | label=Transcendent Journey Cape | link= }}
+| {{Icon| Transcendent-Journey-Pack-Cape-back.png | closet_display | label=Transcendent Journey Cape | link=Sky for Playstation#Transcendent Journey Pack }}
+| {{Days Item| Days of Fortune Snake Cloak | icon | tab | link= }}
+| {{Days Item| Days of Fortune Snake Cloak | real | closet_display | link=Days_of_Fortune#Fortune_Snake_Coif_and_Cloak }}
+}}<section end="Display" />
+
+
+== Available Capes ==
+This table lists all the Capes that have ever been available in Sky; only a small subset of them are [[#Availability Legend|available]] for purchase at any given time.  The default order is icon order, as used in the in-game [[Outfit Shrine]]. The table sort order can be changed by clicking on the header of any column. The color column lists the dominant color of each Cape to make it easier to find Capes based on their color. These colors are '''not the same''' as the ones used for the [[Days of Color]] event puzzle: to find out the in-game categorization for Cape colors, please visit the [[Days of Color#Cape Color Categorization|Days of Color]] page. The Dye column lists whether the Cape can be dyed or not.
+
+{| class="article-table sortable"
+! class="unsortable" |Image
+! class="unsortable" |Icon
+![[#Availability Legend|Avail.]]
+!Source
+!Cost
+!Color
+![[Dyes|Dye]]
+|- id="Base"
+| style="text-align: center;" | {{Icon| Cape_brown_2.png | table | label=Base Cape | link=Capes#Base Cape }}
+|{{Icon| Icon_cape_brown-Morybel-0146.png | table | label=Base Cape | link=Capes#Base Cape }}
+| {{Avail Summary | permanent | source=Base }}
+|{{Cost | free }}
+|Brown (Orange)
+|Yes
+|- id="Beta Cape"
+| style="text-align: center;" |{{Icon| Beta_cape_back_v2.png | link=Beta Cape | table }}<ref name="beta_vs_founders">The Beta Cape and the Founder's Cape look identical when seen from the back, but they have different interior colors. See the [[Secret Area]] for a comparison.</ref>
+|{{Icon| Beta-cape-Morybel-0146.png | table | link=Beta Cape }}
+| {{Avail Summary | limited | limited=Beta Cape | source={{Icon|Icon_shop.png|table|link=Beta Cape}} }}
+|{{Cost | N/A }}
+|Blue
+| No
+|- id="Founder's Pack"
+| style="text-align: center;" |{{Icon| Founders_cape_back_v2.png | link=Founder's Pack | table }}<ref name="beta_vs_founders" />
+|{{Icon| Icon_cape_tgc_b-Morybel-0146.png | table | link=Founder's Pack }}
+| {{Avail Summary | permanent | source={{Icon|Icon_shop.png|table|link=Founder's Pack}} }}
+|{{Cost | 29.99 USD }}
+|Blue
+| No
+|- id="Starter Pack"
+| style="text-align: center;" |{{Icon| Cape_orange_2.png | link=Starter Pack | table }}
+|{{Icon| Icon_cape_orange-Morybel-0146.png | table | link=Starter Pack }}
+| {{Avail Summary | conditional | source={{Icon|Apple-Logo.png|table|link=Starter Pack}} }}
+|{{Cost| 4.99 USD }}
+|Orange
+| Yes
+|- id="Butterfly Charmer"
+| style="text-align: center;" |{{Spirit Item| Butterfly Charmer | cape_real | table }}
+|{{Spirit Item| Butterfly Charmer | Cape | table }}
+| {{Avail Summary | regular | spirit=Butterfly Charmer | realm=Daylight Prairie }}
+|{{Cost | 3 H }}
+|Yellow
+| Yes
+|- id="Proud Victor"
+| style="text-align: center;" |{{Spirit Item| Proud Victor | cape_real | table }}
+|{{Spirit Item| Proud Victor | cape | table }}
+| {{Avail Summary | regular | spirit=Proud Victor | realm=Valley of Triumph }}
+|{{Cost | 10 H }}
+|Red
+| Yes
+|- id="Courageous Soldier"
+| style="text-align: center;" |{{Spirit Item| Courageous Soldier | cape_real | table }}
+|{{Spirit Item| Courageous Soldier | cape | table }}
+| {{Avail Summary | regular | spirit=Courageous Soldier | realm=Golden Wasteland }}
+|{{Cost | 15 H }}
+| Green
+| Yes
+|- id="Pouty Porter"
+| style="text-align: center;" |{{Spirit Item| Pouty Porter | cape_real | table }}
+|{{Spirit Item| Pouty Porter | cape | table }}
+| {{Avail Summary | regular | spirit=Pouty Porter | realm=Hidden Forest }}
+|{{Cost | 20 H }}
+|Teal
+| Yes
+|- id="Praying Acolyte"
+| style="text-align: center;" |{{Spirit Item| Praying Acolyte | cape_real | table }}
+|{{Spirit Item| Praying Acolyte | cape | table }}
+| {{Avail Summary | regular | spirit=Praying Acolyte | realm=Vault of Knowledge }}
+|{{Cost | 25 H }}
+|Blue
+| Yes
+|- id="Dismayed Hunter"
+| style="text-align: center;" |{{Spirit Item| Dismayed Hunter | cape_real | table }}
+|{{Spirit Item| Dismayed Hunter | cape | table }}
+| {{Avail Summary | regular | spirit=Dismayed Hunter | realm=Hidden Forest }}
+|{{Cost | 30 H }}
+|Purple
+| Yes
+|- id="Handstanding Thrillseeker"
+| style="text-align: center;" |{{Spirit Item| Handstanding Thrillseeker | cape_real | table }}
+|{{Spirit Item| Handstanding Thrillseeker | cape | table }}
+| {{Avail Summary | regular | spirit=Handstanding Thrillseeker | realm=Valley of Triumph }}
+|{{Cost | 40 H }}
+| Pink
+| Yes
+|- id="Stealthy Survivor"
+| style="text-align: center;" |{{Spirit Item| Stealthy Survivor | cape_real | table }}
+|{{Spirit Item| Stealthy Survivor | cape | table }}
+| {{Avail Summary | regular | spirit=Stealthy Survivor | realm=Golden Wasteland }}
+|{{Cost | 50 H }}
+|Black
+| Yes
+|- id="Memory Whisperer"
+| style="text-align: center;" |{{Spirit Item| Memory Whisperer | cape_real | table }}
+|{{Spirit Item| Memory Whisperer | cape | table }}
+| {{Avail Summary | regular | spirit=Memory Whisperer | realm=Vault of Knowledge }}
+|{{Cost | 50 H }}
+|White
+| Yes
+|- id="Butterfly Charmer"
+| style="text-align: center;" |{{Spirit Item| Butterfly Charmer | cape_2_real | table  }}
+|{{Spirit Item| Butterfly Charmer | cape_2 | table }}
+| {{Avail Summary | regular | spirit=Butterfly Charmer | realm=Daylight Prairie }}
+|{{Cost | 9 H }}
+|Yellow
+| Yes
+|- id="Proud Victor Tier 2"
+| style="text-align: center;" |{{Spirit Item| Proud Victor | cape_2_real | table }}
+|{{Spirit Item| Proud Victor | cape_2 | table }}
+| {{Avail Summary | regular | spirit=Proud Victor | realm=Valley of Triumph }}
+|{{Cost | 30 H }}
+|Red
+| Yes
+|- id="Courageous Soldier Tier 2"
+| style="text-align: center;" |{{Spirit Item| Courageous Soldier | cape_2_real | table }}
+|{{Spirit Item| Courageous Soldier | cape_2 | table }}
+| {{Avail Summary | regular | spirit=Courageous Soldier | realm=Golden Wasteland }}
+|{{Cost | 45 H }}
+| Green
+| Yes
+|- id="Pouty Porter Tier 2"
+| style="text-align: center;" |{{Spirit Item| Pouty Porter | cape_2_real | table }}
+|{{Spirit Item| Pouty Porter | cape_2 | table  }}
+| {{Avail Summary | regular | spirit=Pouty Porter | realm=Hidden Forest }}
+|{{Cost | 60 H }}
+| Teal
+| Yes
+|- id="Praying Acolyte Tier 2"
+| style="text-align: center;" | {{Spirit Item| Praying Acolyte | cape_2_real | table  }}
+|{{Spirit Item| Praying Acolyte | cape_2 | table }}
+| {{Avail Summary | regular | spirit=Praying Acolyte | realm=Vault of Knowledge }}
+|{{Cost | 75 H }}
+| Blue
+| Yes
+|- id="Dismayed Hunter Tier 2"
+| style="text-align: center;" |{{Spirit Item| Dismayed Hunter | cape_2_real | table }}
+|{{Spirit Item| Dismayed Hunter | cape_2 | table }}
+| {{Avail Summary | regular | spirit=Dismayed Hunter | realm=Hidden Forest }}
+|{{Cost | 90 H }}
+| Purple
+| Yes
+|- id="Handstanding Thrillseeker Tier 2"
+| style="text-align: center;" | {{Spirit Item| Handstanding Thrillseeker | cape_2_real | table }}
+|{{Spirit Item| Handstanding Thrillseeker | cape_2 | table }}
+| {{Avail Summary | regular | spirit=Handstanding Thrillseeker | realm=Valley of Triumph }}
+|{{Cost | 120 H }}
+|Pink
+| Yes
+|- id="Stealthy Survivor Tier 2"
+| style="text-align: center;" |{{Spirit Item| Stealthy Survivor | cape_2_real | table }}
+|{{Spirit Item| Stealthy Survivor | cape_2 | table }}
+| {{Avail Summary | regular | spirit=Stealthy Survivor | realm=Golden Wasterland }}
+|{{Cost | 150 H }}
+|Black
+| Yes
+|- id="Memory Whisperer Tier 2"
+| style="text-align: center;" |{{Spirit Item| Memory Whisperer | cape_2_real | table }}
+| {{Spirit Item| Memory Whisperer | cape_2 | table }}
+| {{Avail Summary | regular | spirit=Memory Whisperer | realm=Vault of Knowledge }}
+| {{Cost | 150 H }}
+|White
+| Yes
+|- id="Radiance Guide"
+| style="text-align: center;" |{{Spirit Item| Radiance Guide | cape_a_real | table }}
+|{{Spirit Item| Radiance Guide | cape_a | table }}
+| {{Avail Summary | permanent | spirit=Radiance Guide | season=Radiance }}
+| {{Cost | 12 H }}
+| Orange
+| Yes
+|- id="Saluting Protector"
+| style="text-align: center;" |{{Spirit Item| Saluting Protector | cape_real | table }}
+|{{Spirit Item| Saluting Protector | Cape | table }}
+| {{Avail Summary | season | spirit=Saluting Protector | season=Gratitude }}
+|{{Cost | 75 C }}
+|White
+| Yes
+|- id="Stretching Guru"
+| style="text-align: center;" |{{Spirit Item| Stretching Guru | cape_real | table }}
+| {{Spirit Item| Stretching Guru | Cape | table }}
+| {{Avail Summary | season | spirit=Stretching Guru | season=Gratitude }}
+|{{Cost | 65 C }}
+|Orange
+| Yes
+|- id="Crab Whisperer"
+| style="text-align: center;" |{{Spirit Item| Crab Whisperer | Cape_real | table }}
+|{{Spirit Item| Crab Whisperer | Cape | table }}
+| {{Avail Summary | season | spirit=Crab Whisperer | season=Lightseekers }}
+|{{Cost | 70 C }}
+|Blue
+| Yes
+|- id="Piggyback Lightseeker"
+| style="text-align: center;" |{{Spirit Item| Piggyback Lightseeker | Cape_real | table }}
+|{{Spirit Item| Piggyback Lightseeker | Cape | table }}
+| {{Avail Summary | season | spirit=Piggyback Lightseeker | season=Lightseekers }}
+|{{Cost | 60 C }}
+|Blue
+| Yes
+|- id="Shushing Light Scholar"
+| style="text-align: center;" |{{Spirit Item| Shushing Light Scholar | Cape_real | table }}
+|{{Spirit Item| Shushing Light Scholar | Cape | table }}
+| {{Avail Summary | season | spirit=Shushing Light Scholar | season=Lightseekers }}
+|{{Cost | 65 C }}
+|Blue
+| Yes
+|- id="Confetti Cousin"
+| style="text-align: center;" |{{Spirit Item| Confetti Cousin | Cape_real | table }}
+| {{Spirit Item| Confetti Cousin | Cape | table }}
+| {{Avail Summary | season | spirit=Confetti Cousin | season=Belonging }}
+|{{Cost | 60 C }}
+|Red
+| Yes
+|- id="Pleaful Parent"
+| style="text-align: center;" |{{Spirit Item| Pleaful Parent | Cape_real | table }}
+|{{Spirit Item| Pleaful Parent | Cape | table }}
+| {{Avail Summary | season | spirit=Pleaful Parent | season=Belonging }}
+|{{Cost | 65 C }}
+|Blue
+| Yes
+|- id="Wise Grandparent"
+| style="text-align: center;" |{{Spirit Item| Wise Grandparent | Cape_real | table }}
+|{{Spirit Item| Wise Grandparent | Cape | table }}
+| {{Avail Summary | season | spirit=Wise Grandparent | season=Belonging }}
+|{{Cost | 70 C }}
+|White
+| Yes
+|- id="Troupe Juggler"
+| style="text-align: center;" |{{Spirit Item| Troupe Juggler | cape_real | table }}
+| {{Spirit Item| Troupe Juggler | Cape | table }}
+| {{Avail Summary | season | spirit=Troupe Juggler | season=Rhythm }}
+| {{Cost | 75 C }}
+|Purple
+| Yes
+|- id="Thoughtful Director"
+| style="text-align: center;" |{{Spirit Item| Thoughtful Director | cape_real | table }}
+|{{Spirit Item| Thoughtful Director | Cape | table }}
+| {{Avail Summary | season | spirit=Thoughtful Director | season=Rhythm }}
+|{{Cost | 75 C }}
+|Blue
+| No
+|- id="Crab Walker"
+| style="text-align: center;" |{{Spirit Item| Crab Walker | Cape_real | table }}
+|{{Spirit Item| Crab Walker | Cape | table }}
+| {{Avail Summary | season | spirit=Crab Walker | season=Enchantment }}
+|{{Cost | 60 C }}
+|Pink
+| Yes
+|- id="Snoozing Carpenter"
+| style="text-align: center;" |{{Spirit Item| Snoozing Carpenter | Cape_real | table }}
+|{{Spirit Item| Snoozing Carpenter | Cape | table }}
+| {{Avail Summary | season | spirit=Snoozing Carpenter | season=Enchantment }}
+|{{Cost | 65 C }}
+|Orange (Yellow)
+| Yes
+|- id="Indifferent Alchemist"
+| style="text-align: center;" |{{Spirit Item| Indifferent Alchemist | Cape_real | table}}
+|{{Spirit Item| Indifferent Alchemist | Cape | table }}
+| {{Avail Summary | season | spirit=Indifferent Alchemist | season=Enchantment }}
+|{{Cost | 70 C }}
+|Purple
+| Yes
+|- id="Playfighting Herbalist"
+| style="text-align: center;" |{{Spirit Item| Playfighting Herbalist | Cape_real | table }}
+|{{Spirit Item| Playfighting Herbalist | Cape | table }}
+| {{Avail Summary | season | spirit=Playfighting Herbalist | season=Enchantment }}
+|{{Cost | 70 C }}
+| Purple & Yellow
+| Yes
+|- id="Timid Bookworm"
+| style="text-align: center;" |{{Spirit Item| Timid Bookworm | cape_real | table }}
+|{{Spirit Item| Timid Bookworm | cape | table }}
+| {{Avail Summary | season | spirit=Timid Bookworm | season=Sanctuary }}
+| {{Cost | 70 C }}
+|Yellow
+| Yes
+|- id="Sanctuary Ultimate Cape"
+| style="text-align: center;" |{{Spirit Item| Sanctuary Guide | cape_u_real | link=Sanctuary_Guide#Sanctuary_Ultimate_Cape | table }}
+|{{Spirit Item| Sanctuary Guide | cape_u | link=Sanctuary_Guide#Sanctuary_Ultimate_Cape | table }}
+| {{Avail Summary | ultimate | season=Sanctuary }}
+|{{Cost | N/A }}
+|White
+| No
+|- id="Grateful Shell Collector"
+| style="text-align: center;" | {{Spirit Item| Grateful Shell Collector | Cape_real | table }}
+|{{Spirit Item| Grateful Shell Collector | Cape | table }}
+| {{Avail Summary | season | spirit=Grateful Shell Collector | season=Sanctuary }}
+|{{Cost | 70 C }}
+|Pink
+| Yes
+|- id="Chill Sunbather"
+| style="text-align: center;" |{{Spirit Item| Chill Sunbather | Cape_real | table }}
+| {{Spirit Item| Chill Sunbather | Cape | table }}
+| {{Avail Summary | season | spirit=Chill Sunbather | season=Sanctuary }}
+|{{Cost | 70 C }}
+|Orange
+| Yes
+|- id="Prophet of Air"
+| style="text-align: center;" |{{Spirit Item| Prophet of Air | Cape_real | table }}
+|{{Spirit Item| Prophet of Air | Cape | table }}
+| {{Avail Summary | season | spirit=Prophet of Air | season=Prophecy }}
+|{{Cost | 75 C }}
+| Purple
+| Yes
+|- id="Prophet of Water"
+| style="text-align: center;" |{{Spirit Item| Prophet of Water | Cape_real | table }}
+|{{Spirit Item| Prophet of Water | Cape | table }}
+| {{Avail Summary | season | spirit=Prophet of Water | season=Prophecy }}
+|{{Cost | 75 C }}
+|Blue
+| Yes
+|- id="Prophet of Earth"
+| style="text-align: center;" |{{Spirit Item| Prophet of Earth | Cape_real | table }}
+|{{Spirit Item| Prophet of Earth | Cape | table }}
+| {{Avail Summary | season | spirit=Prophet of Earth | season=Prophecy }}
+|{{Cost | 75 C }}
+|Purple
+| Yes
+|- id="Peeking Postman"
+| style="text-align: center;" |{{Spirit Item| Peeking Postman | Cape_real | table }}
+|{{Spirit Item| Peeking Postman | Cape | table }}
+| {{Avail Summary | season | spirit=Peeking Postman | season=Dreams }}
+|{{Cost | 65 C }}
+|Red
+| Yes
+|- id="Dancing Performer"
+| style="text-align: center;" |{{Spirit Item| Dancing Performer | cape_real | table }}
+|{{Spirit Item| Dancing Performer | Cape | table }}
+| {{Avail Summary | season | spirit=Dancing Performer | season=Dreams }}
+|{{Cost | 75 C }}
+|Yellow
+| Yes
+|- id="Spinning Mentor"
+| style="text-align: center;" |{{Spirit Item| Spinning Mentor | cape_real | table }}
+|{{Spirit Item| Spinning Mentor | Cape | table }}
+| {{Avail Summary | season | spirit=Spinning Mentor | season=Dreams }}
+|{{Cost | 70 C }}
+|Red
+| Yes
+|- id="Dreams Ultimate Cape"
+| style="text-align: center;" |{{Spirit Item| Dreams Guide | cape_u_real | link=Dreams_Guide#Dreams_Ultimate_Cape | table }}
+|{{Spirit Item| Dreams Guide | cape_u | link=Dreams_Guide#Dreams_Ultimate_Cape | table }}
+| {{Avail Summary | ultimate | season=Dreams }}
+|{{Cost | N/A }}
+|Red
+| Yes
+|- id="Assembly Ultimate Cape"
+| style="text-align: center;" |{{Spirit Item| Assembly Guide | cape_u_real | link=Assembly_Guide#Assembly_Ultimate_Cape | table }}
+| {{Spirit Item| Assembly Guide | cape_u | link=Assembly_Guide#Assembly_Ultimate_Cape | table }}
+| {{Avail Summary | ultimate | season=Assembly }}
+|{{Cost | N/A }}
+| Yellow
+| Yes
+|- id="Scolding Student"
+| style="text-align: center;" |{{Spirit Item| Scolding Student | cape_real | table }}
+|{{Spirit Item| Scolding Student | Cape | table }}
+| {{Avail Summary | season | spirit=Scolding Student | season=Assembly }}
+|{{Cost | 70 C }}
+|Green
+| Yes
+|- id="Star Collector"
+| style="text-align: center;" |{{Spirit Item| Star Collector | cape_real | table }}
+|{{Spirit Item| Star Collector | Cape | table }}
+| {{Avail Summary | season | spirit=Star Collector | season=The Little Prince }}
+|{{Cost | 75 C }}
+|Black
+| No
+|- id="Slouching Soldier"
+| style="text-align: center;" |{{Spirit Item| Slouching Soldier | cape_real | table }}
+|{{Spirit Item| Slouching Soldier | Cape | table }}
+| {{Avail Summary | season | spirit=Slouching Soldier | season=The Little Prince }}
+|{{Cost | 70 C }}
+| Black
+| No
+|- id="Stretching Lamplighter"
+| style="text-align: center;" |{{Spirit Item| Stretching Lamplighter | cape_real | table }}
+|{{Spirit Item| Stretching Lamplighter | Cape | table }}
+| {{Avail Summary | season | spirit=Stretching Lamplighter | season=The Little Prince }}
+|{{Cost | 70 C }}
+| Black
+| No
+|- id="Sneezing Geographer"
+| style="text-align: center;" |{{Spirit Item| Sneezing Geographer | cape_real | table }}
+|{{Spirit Item| Sneezing Geographer | Cape | table }}
+| {{Avail Summary | season | spirit=Sneezing Geographer | season=The Little Prince }}
+|{{Cost |70 C}}
+|Black
+| No
+|- id="Little Prince Scarf Cape"
+| style="text-align: center;" |{{Spirit Item| Little Prince | cape_s_real | table | link=Season of The Little Prince#Little Prince Scarf Cape | label=Little Prince Scarf Cape }}
+|{{Spirit Item| Little Prince | cape_s | table | link=Season of The Little Prince#Little Prince Scarf Cape | label=Little Prince Scarf Cape }}
+| {{Avail Summary | limited | season=The Little Prince | limited=Season of the Little Prince | source={{Season Icon|The Little Prince|table}} }}
+|{{Cost | 14.99 USD }}
+|Yellow
+| No
+|- id="Little Prince Asteroid Jacket"
+| style="text-align: center;" |{{Spirit Item| Little Prince | cape_a_real | table | link=Season of The Little Prince#Little Prince Asteroid Jacket | label=Little Prince Asteroid Jacket }}
+|{{Spirit Item| Little Prince | cape_a | table | link=Season of The Little Prince#Little Prince Asteroid Jacket | label=Little Prince Asteroid Jacket }}
+| {{Avail Summary | limited | season=The Little Prince | limited=Season of the Little Prince | source={{Season Icon|The Little Prince|table}} }}
+|{{Cost | 24.99 USD }}
+|Green
+| No
+|- id="Light Whisperer"
+| style="text-align: center;" |{{Spirit Item| Light Whisperer | Cape_real | table }}
+|{{Spirit Item| Light Whisperer | Cape | table }}
+| {{Avail Summary | season | spirit=Light Whisperer | season=Flight }}
+|{{Cost | 70 C }}
+|Blue
+| Yes
+|- id="Lively Navigator"
+| style="text-align: center;" |{{Spirit Item| Lively Navigator | Cape_real | table }}
+|{{Spirit Item| Lively Navigator | Cape | table }}
+| {{Avail Summary | season | spirit=Lively Navigator | season=Flight }}
+|{{Cost | 70 C }}
+|Cyan, Yellow, White
+| Yes
+|- id="Ceasing Commodore"
+| style="text-align: center;" |{{Spirit Item| Ceasing Commodore | Cape_real | table }}
+| {{Spirit Item| Ceasing Commodore | Cape | table }}
+| {{Avail Summary | season | spirit=Ceasing Commodore | season=Abyss }}
+|{{Cost | 70 C }}
+|Brown (Orange)
+| Yes
+|- id="Cackling Cannoneer"
+| style="text-align: center;" |{{Spirit Item| Cackling Cannoneer | Cape_real | table }}
+|{{Spirit Item| Cackling Cannoneer | Cape | table }}
+| {{Avail Summary | season | spirit=Cackling Cannoneer | season=Abyss }}
+|{{Cost | 70 C }}
+|Green
+| Yes
+|- id="Anxious Angler"
+| style="text-align: center;" |{{Spirit Item| Anxious Angler | Cape_real | table }}
+|{{Spirit Item| Anxious Angler | Cape | table }}
+| {{Avail Summary | season | spirit=Anxious Angler | season=Abyss }}
+|{{Cost | 70 C }}
+|Black
+| Yes
+|- id="Bumbling Boatswain"
+| style="text-align: center;" |{{Spirit Item| Bumbling Boatswain | Cape_real | table }}
+|{{Spirit Item| Bumbling Boatswain | Cape | table }}
+| {{Avail Summary | season | spirit=Bumbling Boatswain | season=Abyss }}
+|{{Cost | 70 C }}
+|Blue
+| Yes
+|- id="Abyss Ultimate Cape"
+| style="text-align: center;" |{{Spirit Item| Abyss Guide | cape_u_real | link=Abyss_Guide#Abyss_Ultimate_Cape | table }}
+|{{Spirit Item| Abyss Guide | cape_u | link=Abyss_Guide#Abyss_Ultimate_Cape | table }}
+| {{Avail Summary | ultimate | season=Abyss }}
+| {{Cost | N/A }}
+|Red
+| Yes
+|- id="Performance Ultimate Cape"
+| style="text-align: center;" |{{Spirit Item| Performance Guide | cape_u_real | link=Performance_Guide#Performance_Ultimate_Cape | table }}
+|{{Spirit Item| Performance Guide | cape_u | link=Performance_Guide#Performance_Ultimate_Cape | table }}
+| {{Avail Summary | ultimate | season=Performance }}
+|{{Cost | N/A }}
+|Blue
+| Yes
+|- id="Forgetful Storyteller"
+| style="text-align: center;" |{{Spirit Item| Forgetful Storyteller | Cape_real | table }}
+|{{Spirit Item| Forgetful Storyteller | Cape | table }}
+| {{Avail Summary | season | spirit=Forgetful Storyteller | season=Performance }}
+|{{Cost | 70 C }}
+|Orange
+| Yes
+|- id="Mellow Musician"
+| style="text-align: center;" |{{Spirit Item| Mellow Musician | Cape_real | table }}
+|{{Spirit Item| Mellow Musician | Cape | table }}
+| {{Avail Summary | season | spirit=Mellow Musician | season=Performance }}
+|{{Cost | 70 C }}
+|Red
+| Yes
+|- id="Ancient Darkness"
+| style="text-align: center;" |{{Spirit Item| Ancient Darkness | Cape_real | table }}
+|{{Spirit Item| Ancient Darkness | Cape | table }}
+| {{Avail Summary | season | spirit=Ancient Darkness | season=Shattering }}
+|{{Cost | 80 C }}
+| Blue
+| No
+|- id="Krill Ultimate Cape"
+| style="text-align: center;" |{{Spirit Item| Shattering Guide | Cape_k_real | table | label=Krill Ultimate Cape | link=The_Void_of_Shattering#Shattering_Ultimate_Krill_Cape }}
+|{{Spirit Item| Shattering Guide | Cape_k | table | label=Krill Ultimate Cape | link=The_Void_of_Shattering#Shattering_Ultimate_Krill_Cape }}
+| {{Avail Summary | ultimate | season=Shattering }}
+| {{Cost | N/A }}
+|Black
+| No
+|- id="Ancient Light (Jellyfish)"
+| style="text-align: center;" |{{Spirit Item| Ancient Light | Cape_j_real | table | label=Ancient Light (Jellyfish) Cape }}
+|{{Spirit Item| Ancient Light | Cape_j | table | label=Ancient Light (Jellyfish) Cape }}
+| {{Avail Summary | season | spirit=Ancient Light | season=Shattering }}
+|{{Cost | 80 C }}
+|Blue
+| No
+|- id="Ancient Light (Manta)"
+| style="text-align: center;" | {{Spirit Item| Ancient Light | Cape_m_real | table | label=Ancient Light (Manta) Cape }}
+|{{Spirit Item| Ancient Light | Cape_m | table | label=Ancient Light (Manta) Cape }}
+| {{Avail Summary | season | spirit=Ancient Light | season=Shattering }}
+|{{Cost | 80 C }}
+|White
+| No
+|- id="Manta Ultimate Cape"
+| style="text-align: center;" |{{Spirit Item| Shattering Guide | Cape_m_real | table | label=Manta Ultimate Cape | link=The_Void_of_Shattering#Shattering_Ultimate_Manta_Cape }}
+|{{Spirit Item| Shattering Guide | Cape_m | table | label=Manta Ultimate Cape | link=The_Void_of_Shattering#Shattering_Ultimate_Manta_Cape }}
+| {{Avail Summary | ultimate | season=Shattering }}
+|{{Cost | N/A }}
+| White
+| No
+|- id="Seed of Hope"
+| style="text-align: center;" |{{Spirit Item| Seed of Hope | cape_real | table }}
+|{{Spirit Item| Seed of Hope | cape | table }}
+| {{Avail Summary | season | spirit=Seed of Hope | season=AURORA }}
+|{{Cost | 75 C }}
+| Yellow
+| No
+|- id="Running Wayfarer"
+| style="text-align: center;" |{{Spirit Item| Running Wayfarer | cape_real | table }}
+|{{Spirit Item| Running Wayfarer | cape | table }}
+| {{Avail Summary | season | spirit=Running Wayfarer | season=AURORA }}
+|{{Cost | 75 C }}
+|Blue
+| No
+|- id="Warrior of Love"
+| style="text-align: center;" |{{Spirit Item| Warrior of Love | cape_real | table }}
+|{{Spirit Item| Warrior of Love | cape | table }}
+| {{Avail Summary | season | spirit=Warrior of Love | season=AURORA }}
+| {{Cost | 75 C }}
+|Blue
+| No
+|- id="Mindful Miner"
+| style="text-align: center;" |{{Spirit Item| Mindful Miner | cape_real | table }}
+|{{Spirit Item| Mindful Miner | cape | table }}
+| {{Avail Summary | season | spirit=Mindful Miner | season=AURORA }}
+|{{Cost | 75 C }}
+|Green
+| No
+|- id="Wings of AURORA"
+| style="text-align: center;" | {{Spirit Item| AURORA | cape_w_real | table | link=AURORA_Concert#Wings of AURORA | label=Wings of AURORA }}
+|{{Spirit Item| AURORA | cape_w | table | link=AURORA_Concert#Wings of AURORA | label=Wings of AURORA }}
+| {{Avail Summary | limited | season=AURORA }}
+|{{Cost | 24.99 USD }}
+|Yellow
+| No
+|- id="AURORA Ultimate Cape"
+| style="text-align: center;" |{{Spirit Item| AURORA Guide | cape_u_real | link=AURORA_Guide#AURORA_Ultimate_Cape | table | label=AURORA Ultimate Cape }}
+|{{Spirit Item| AURORA Guide | cape_u | link=AURORA_Guide#AURORA_Ultimate_Cape | table | label=AURORA Ultimate Cape }}
+| {{Avail Summary | ultimate | season=AURORA }}
+|{{Cost | N/A }}
+|Blue
+| No
+|- id="Giving In Cape"
+| style="text-align: center;" |{{Spirit Item| AURORA | cape_g_real | table | link=AURORA_Concert#Giving In Cape | label=Giving In Cape }}
+| {{Spirit Item| AURORA | cape_g | table | link=AURORA_Concert#Giving In Cape | label=Giving In Cape }}
+| {{Avail Summary | limited | season=AURORA }}
+|{{Cost | 14.99 USD }}
+|Red
+| No
+|- id="Bereft Veteran"
+| style="text-align: center;" |{{Spirit Item| Bereft Veteran | cape_real | table }}
+| {{Spirit Item| Bereft Veteran | cape | table }}
+| {{Avail Summary | season | spirit=Bereft Veteran | season=Remembrance }}
+| {{Cost | 80 C }}
+|Green
+| Yes
+|- id="Wounded Warrior"
+| style="text-align: center;" |{{Spirit Item| Wounded Warrior | cape_real | table }}
+|{{Spirit Item| Wounded Warrior | cape | table }}
+| {{Avail Summary | season | spirit=Wounded Warrior | season=Remembrance }}
+| {{Cost | 80 C }}
+|Black
+| Yes
+|- id="Tiptoeing Tea-Brewer"
+| style="text-align: center;" |{{Spirit Item| Tiptoeing Tea-Brewer | cape_real | table }}
+|{{Spirit Item| Tiptoeing Tea-Brewer | cape | table }}
+| {{Avail Summary | season | spirit=Tiptoeing Tea-Brewer | season=Remembrance }}
+|{{Cost | 65 C }}
+|Yellow
+| Yes
+|- id="Tumbling Troublemaker"
+| style="text-align: center;" |{{Spirit Item| Tumbling Troublemaker | cape_real | table }}
+|{{Spirit Item| Tumbling Troublemaker | cape | table }}
+| {{Avail Summary | season | spirit=Tumbling Troublemaker | season=Passage }}
+|{{Cost | 80 C }}
+| Brown
+| Yes
+|- id="Overactive Overachiever"
+| style="text-align: center;" |{{Spirit Item| Overactive Overachiever | cape_real | table }}
+|{{Spirit Item| Overactive Overachiever | cape | table }}
+| {{Avail Summary | season | spirit=Overactive Overachiever | season=Passage }}
+|{{Cost | ? }}
+|Black
+| Yes
+|- id="Passage Ultimate Cape"
+| style="text-align: center;" |{{Spirit Item| Passage Guide | cape_u_real | link=Passage_Guide#Passage_Ultimate_Cape | table }}
+|{{Spirit Item| Passage Guide | cape_u | link=Passage_Guide#Passage_Ultimate_Cape | table }}
+| {{Avail Summary | ultimate | season=Passage }}
+|{{Cost | N/A}}
+|Red
+| No
+|- id="Reassuring Ranger"
+| style="text-align: center;" |{{Spirit Item| Reassuring Ranger | cape_real | table }}
+|{{Spirit Item| Reassuring Ranger | cape | table }}
+| {{Avail Summary | season | spirit=Reassuring Ranger | season=Moments }}
+|{{Cost | ? }}
+|Yellow
+| Yes
+|- id="Vestige of a Deserted Oasis"
+| style="text-align: center;" | {{Spirit Item| Vestige of a Deserted Oasis | cape_real | table }}
+| {{Spirit Item| Vestige of a Deserted Oasis | cape | table }}
+| {{Avail Summary | season | spirit=Vestige of a Deserted Oasis | season=Revival }}
+|{{Cost | ? }}
+|Purple
+| Yes
+|- id="Echo of an Abandoned Refuge"
+| style="text-align: center;" | {{Spirit Item| Echo of an Abandoned Refuge | cape_real | table }}
+|{{Spirit Item| Echo of an Abandoned Refuge | cape | table }}
+| {{Avail Summary | season | spirit=Echo of an Abandoned Refuge | season=Revival }}
+|{{Cost | ? }}
+|Orange
+| Yes
+|- id="Remnant of a Forgotten Haven"
+| style="text-align: center;" | {{Spirit Item| Remnant of a Forgotten Haven | cape_real | table }}
+|{{Spirit Item| Remnant of a Forgotten Haven | cape | table }}
+| {{Avail Summary | season | spirit=Remnant of a Forgotten Haven | season=Revival }}
+|{{Cost | ? }}
+|Purple
+| Yes
+|- id="Memory of a Lost Village"
+| style="text-align: center;" | {{Spirit Item| Memory of a Lost Village | cape_real | table }}
+| {{Spirit Item| Memory of a Lost Village | cape | table }}
+| {{Avail Summary | season | spirit= Memory of a Lost Village | season=Revival }}
+|{{Cost | ? }}
+|Blue
+| Yes
+|- id="Hopeful Steward"
+| style="text-align: center;" |{{Spirit Item| Hopeful Steward | cape_u_real | link=Hopeful_Steward#Revival_Ultimate_Cape | table }}
+|{{Spirit Item | Hopeful Steward | cape_u | link=Hopeful_Steward#Revival_Ultimate_Cape | table}}
+| {{Avail Summary | ultimate | spirit=Hopeful Steward | season=Revival}}
+|{{Cost | N/A }}
+|Multicolor
+| No
+|- id="Nine-Colored Deer Ultimate Cape"
+| style="text-align: center;" |{{Spirit Item| Spirit of Mural | cape_u_real | link=Spirit_of_Mural#Nine-Colored_Deer_Ultimate_Cape | table | label=Nine-Colored Deer Ultimate Cape }}
+|{{Spirit Item | Spirit of Mural | cape_u | link=Spirit_of_Mural#Nine-Colored_Deer_Ultimate_Cape | table | label=Nine-Colored Deer Ultimate Cape }}
+| {{Avail Summary | ultimate | spirit=Spirit of Mural | season=Nine-Colored Deer}}
+| {{Cost | N/A }}
+|Blue and Yellow
+| No
+|- id="Princess"
+| style="text-align: center;" | {{Spirit Item| Princess | cape_real | table }}
+|{{Spirit Item| Princess | cape | table }}
+| {{Avail Summary | season | spirit=Princess | season=Nine-Colored Deer }}
+|{{Cost | ? }}
+|Yellow
+| No
+|- id="Hunter"
+| style="text-align: center;" |{{Spirit Item| Hunter | cape_real | table }}
+|{{Spirit Item| Hunter | cape | table }}
+| {{Avail Summary | season | spirit=Hunter | season=Nine-Colored Deer }}
+|{{Cost | ? }}
+|Yellow
+| No
+|- id="Feudal Lord"
+| style="text-align: center;" |{{Spirit Item| Feudal Lord | cape_real | table }}
+| {{Spirit Item| Feudal Lord | cape | table }}
+| {{Avail Summary | season | spirit=Feudal Lord | season=Nine-Colored Deer }}
+|{{Cost | ? }}
+|Red
+| No
+|- id="Radiance of the Nine-Colored Deer"
+| style="text-align: center;" |{{Spirit Item| Spirit of Mural | cape_r_real | table | label=Radiance of the Nine-Colored Deer | link=Season of the Nine-Colored Deer#Radiance of the Nine-Colored Deer }}
+|{{Spirit Item | Spirit of Mural | cape_r | table | label=Radiance of the Nine-Colored Deer | link=Season of the Nine-Colored Deer#Radiance of the Nine-Colored Deer }}
+| {{Avail Summary | limited | season=Nine-Colored Deer}}
+|{{Cost | 19.99 USD }}
+|Blue
+| No
+|- id="Nesting Loft"
+| style="text-align: center;" |{{Spirit Item| Nesting Loft | cape_real | table }}
+|{{Spirit Item| Nesting Loft | cape | table }}
+| {{Avail Summary | season | spirit=Nesting Loft | season=Nesting }}
+|{{Cost | ? }}
+|Blue
+| Yes
+|- id="Duets Ultimate Cape"
+| style="text-align: center;" |{{Spirit Item| Duets Guide | cape_u_real | link=Duets_Guide#Duets_Ultimate_Cape | table }}
+|{{Spirit Item| Duets Guide | cape_u | link=Duets_Guide#Duets_Ultimate_Cape | table }}
+| {{Avail Summary | ultimate | spirit=Duets Guide | season=Duets }}
+|{{Cost | N/A }}
+|Blue
+| Yes
+|- id="The Cellist's Flourishing"
+| style="text-align: center;" |{{Spirit Item| The Cellist's Flourishing | cape_real | table }}
+|{{Spirit Item| The Cellist's Flourishing | cape | table }}
+| {{Avail Summary | season | spirit=The Cellist's Flourishing | season=Duets }}
+|{{Cost | unknown }}
+|Purple
+| Yes
+|- id="Moominmamma's Masterpiece"
+| style="text-align: center;" |{{Spirit Item| Moomin Guide | cape_n_real | table | label=Moominmamma's Masterpiece | link=Season of Moomin#Moominmamma's Masterpiece}}
+|{{Spirit Item| Moomin Guide | cape_n | table | label=Moominmamma's Masterpiece | link=Season of Moomin#Moominmamma's Masterpiece}}
+| {{Avail Summary | limited | season=Moomin }}
+|{{Cost | 24.99 USD | season=Moomin }}
+| Orange
+| No
+|- id="Spirit of Adventure"
+| style="text-align: center;" |{{Spirit Item| Spirit of Adventure | cape_real | table }}
+|{{Spirit Item| Spirit of Adventure | cape | table }}
+| {{Avail Summary | season | spirit=Spirit of Adventure | season=Moomin }}
+|{{Cost | ? | season=Moomin }}
+| Green
+| No
+|- id="Comfort of Kindness"
+| style="text-align: center;" |{{Spirit Item| Comfort of Kindness | cape_real | table }}
+|{{Spirit Item| Comfort of Kindness | cape | table }}
+| {{Avail Summary | season | spirit=Comfort of Kindness | season=Moomin }}
+|{{Cost | ? }}
+| White
+| No
+|- id="Radiance Provoking Performer"
+| style="text-align: center;" |{{Spirit Item| Radiance Provoking Performer | cape_real | table }}
+|{{Spirit Item| Radiance Provoking Performer | cape | table }}
+| {{Avail Summary | season | spirit=Radiance Provoking Performer | season=Radiance }}
+|{{Cost | ? }}
+|Beige
+| Yes
+|- id="Radiance Leaping Dancer"
+| style="text-align: center;" |{{Spirit Item| Radiance Leaping Dancer | cape_real | table }}
+|{{Spirit Item| Radiance Leaping Dancer | cape | table }}
+| {{Avail Summary | season | spirit=Radiance Leaping Dancer | season=Radiance }}
+|{{Cost | ? | season=Radiance}}
+|Beige
+| Yes
+|- id="Radiance Guide"
+| style="text-align: center;" |{{Spirit Item| Radiance Guide | cape_u_real | link=Radiance_Guide#Radiance_Ultimate_Cape | table }}
+|{{Spirit Item| Radiance Guide | cape_u | link=Radiance_Guide#Radiance_Ultimate_Cape | table }}
+| {{Avail Summary | ultimate | spirit=Radiance Guide | season=Radiance }}
+|{{Cost | N/A | season=Radiance}}
+|Beige
+| Yes
+|- id="Royal Hairtousle Teen"
+| style="text-align: center;" |{{Spirit Item| Royal Hairtousle Teen | cape_real | table }}
+|{{Spirit Item| Royal Hairtousle Teen | cape | table }}
+| {{Avail Summary | season | spirit=Royal Hairtousle Teen | season=Blue Bird }}
+|{{Cost | ? }}
+|Red
+| Yes
+|- id="Nostalgic Sparkler Parent"
+| style="text-align: center;" |{{Spirit Item| Nostalgic Sparkler Parent | cape_real | table }}
+|{{Spirit Item| Nostalgic Sparkler Parent | cape | table }}
+| {{Avail Summary | season | spirit=Nostalgic Sparkler Parent | season=Blue Bird }}
+|{{Cost | ? | season=Blue Bird}}
+|Black
+| Yes
+|- id="Divining Wise grandparent"
+| style="text-align: center;" |{{Spirit Item| Divining Wise grandparent | cape_real | table }}
+|{{Spirit Item| Divining Wise grandparent | cape | table }}
+| {{Avail Summary | season | spirit=Divining Wise grandparent | season=Blue Bird }}
+|{{Cost | ?}}
+|Blue
+| Yes
+|- id="Blue Bird Guide"
+| style="text-align: center;" |{{Spirit Item| Blue Bird Guide | cape_u_real | link=Blue_Bird_Guide#Blue_Bird_Ultimate_Cape | table }}
+|{{Spirit Item| Blue Bird Guide | cape_u | link=Blue_Bird_Guide#Blue_Bird_Ultimate_Cape | table }}
+| {{Avail Summary | ultimate | spirit=Blue Bird Guide | season=Blue Bird }}
+|{{Cost | N/A}}
+|White
+| Yes
+|- id="Scarred Sentry"
+| style="text-align: center;" |{{Spirit Item| Scarred Sentry | cape_real | table }}
+|{{Spirit Item| Scarred Sentry | cape | table }}
+| {{Avail Summary | season | spirit=Scarred Sentry | season=Two Embers - Part 1 }}
+|{{Cost | ? }}
+|Maroon
+| Yes
+|- id="Cloak of Darkness"
+| style="text-align: center;" |{{Spirit Item| Vault Elder's Lantern | cape_d_real | link=Season_of_The_Two_Embers_-_Part_1#Cloak_of_Darkness | table }}
+|{{Spirit Item| Vault Elder's Lantern | cape_d | link=Season_of_The_Two_Embers_-_Part_1#Cloak_of_Darkness | table }}
+| {{Avail Summary | limited | season=Two Embers - part 1 }}
+| {{Cost | 14.99 USD }}
+| Black
+| No
+|- id="Vault Elder's Lantern"
+| style="text-align: center;" |{{Spirit Item| Vault Elder's Lantern | cape_u_real | link=Vault_Elder%27s_Lantern#Two_Embers_Part_1_Ultimate_Cape | table }}
+|{{Spirit Item| Vault Elder's Lantern | cape_u | link=Vault_Elder%27s_Lantern#Two_Embers_Part_1_Ultimate_Cape | table }}
+| {{Avail Summary | ultimate | spirit=Blue Bird Guide | season=Two Embers - Part 1 }}
+|{{Cost | N/A }}
+|White and purple
+| Yes
+|- id="Days of Fortune Cape"
+| style="text-align: center;" |{{Days Item| Days of Fortune Cape | real | table }}
+|{{Days Item| Days of Fortune Cape | icon | table }}
+| {{Avail Summary | days | days=Fortune }}
+|{{Cost| 24.99 USD }}<ref name="fortune_pack">The $24.99 cost of the Days of Fortune Pack includes 3 cosmetics (a Cape, a Hairstyle, and a Mask).</ref>
+|Red
+| No
+|- id="Fortune Fish Cape"
+| style="text-align: center;" | {{Days Item| Fortune Fish Cape | real | table }}
+|{{Days Item| Fortune Fish Cape | icon | table }}
+| {{Avail Summary | days | days=Fortune }}
+| {{Cost| 19.99 USD }}<ref name="fortune_fish_pack">The $19.99 cost of the Days of Fortune Fish Pack includes 2 cosmetics (a Cape and a Hood).</ref>
+| Orange
+| No
+|- id="Dragon Cape"
+| style="text-align: center;" |{{Days Item| Dragon Cape | real | table }}
+| {{Days Item| Dragon Cape | icon | table }}
+| {{Avail Summary | days | days=Fortune }}
+| {{Cost| 14.99 USD }}
+|Black
+| Yes
+|- id="Pink Bloom Cape"
+| style="text-align: center;" |{{Days Item| Pink Bloom Cape | real | table }}
+|{{Days Item| Pink Bloom Cape | icon | table }}
+| {{Avail Summary | days | days=Bloom }}
+| {{Cost| 70 C }}
+| Pink
+| No
+|- id="Purple Bloom Cape"
+| style="text-align: center;" | {{Days Item| Purple Bloom Cape | real | table }}
+|{{Days Item| Purple Bloom Cape | icon | table }}
+| {{Avail Summary | days | days=Bloom }}
+|{{Cost| 105 C }}
+|Purple
+| No
+|- id="Red Bloom Cape"
+| style="text-align: center;" |{{Days Item| Red Bloom Cape | real | table }}
+|{{Days Item| Red Bloom Cape | icon | table }}
+| {{Avail Summary | days | days=Bloom }}
+|{{Cost| 110 C }}
+|Orange
+| No
+|- id="Bloom Arum Petal Cape"
+| style="text-align: center;" |{{Days Item| Bloom Arum Petal Cape | real | table }}
+|{{Days Item| Bloom Arum Petal Cape | icon | table }}
+| {{Avail Summary | days | days=Bloom }}
+|{{Cost| 118 C }}
+|White and Green
+| No
+|- id="Bloom Rose-Embroidered Cape"
+| style="text-align: center;" |{{Days Item| Bloom Rose-Embroidered Cape | real | table }}
+|{{Days Item| Bloom Rose-Embroidered Cape | icon | table }}
+| {{Avail Summary | days | days=Bloom }}
+|{{Cost| 14.99 USD }}
+|White
+| Yes
+|- id="Earth Cape"
+| style="text-align: center;" |{{Days Item| Earth Cape | real | table }}
+|{{Days Item| Earth Cape | icon | table }}
+| {{Avail Summary | days | days=Nature }}
+|{{Cost| 4.99 USD }}
+|Green
+| No
+|- id="Ocean Cape"
+| style="text-align: center;" |{{Days Item| Ocean Cape | real | table }}
+|{{Days Item| Ocean Cape | icon | table }}
+| {{Avail Summary | days | days=Nature }}
+| {{Cost| 14.99 USD }}
+|Blue
+| Yes
+|- id="Nature Turtle Cape"
+| style="text-align: center;" | {{Days Item| Nature Turtle Cape | real | table }}
+|{{Days Item| Nature Turtle Cape | icon | table }}
+| {{Avail Summary | days | days=Nature }}
+|{{Cost| 14.99 USD }}
+|Green
+| No
+|- id="Ocean Sea Foam Cape"
+| style="text-align: center;" | {{Days Item| Ocean Sea Foam Cape | real | table }}
+|{{Days Item| Ocean Sea Foam Cape | icon | table }}
+| {{Avail Summary | days | days=Nature }}
+|{{Cost| 24.99 USD }}<ref name="Ocean_Sea_Foam_Set">The $24.99 cost of the Ocean Sea Foam Set includes 2 cosmetics (Shoes and a Cape).</ref>
+|Teal
+| No
+|- id="Nature School Cape"
+| style="text-align: center;" | {{Days Item| Nature School Cape | real | table }}
+|{{Days Item| Nature School Cape | icon | table }}
+| {{Avail Summary | days | days=Nature }}
+|{{Cost| 180 C }}
+|Blue
+| No
+|- id="Nature Wave Cape"
+| style="text-align: center;" |{{Days Item| Nature Wave Cape | real | table }}
+|{{Days Item| Nature Wave Cape | icon | table }}
+| {{Avail Summary | days | days=Nature }}
+|{{Cost| 19.99 USD }}
+|Blue
+| No
+|- id="Rainbow Cape"
+| style="text-align: center;" |{{Days Item| Rainbow Cape | real | table | link=Days_of_Color/2021#Rainbow_Cape }}
+|{{Days Item| Rainbow Cape | icon | table | link=Days_of_Color/2021#Rainbow_Cape }}
+| {{Avail Summary | days | days=Rainbow }}
+|{{Cost| 175 C }}
+|Rainbow
+| No
+|- id="Dark Rainbow Cape"
+| style="text-align: center;" | {{Days Item| Dark Rainbow Cape | real | table | link=Days_of_Color/2023#Dark_Rainbow_Cape }}
+|{{Days Item| Dark Rainbow Cape | icon | table | link=Days_of_Color/2023#Dark_Rainbow_Cape }}
+| {{Avail Summary | days | days=Rainbow }}
+| {{Cost| 177 C }}
+|Black and Rainbow
+| Yes
+|- id="Rainbow Ribbon Shawl"
+| style="text-align: center;" |{{Days Item| Rainbow Ribbon Shawl | real | table | link=Days_of_Color/2025#Rainbow_Ribbon_Shawl }}
+|{{Days Item| Rainbow Ribbon Shawl | icon | table | link=Days_of_Color/2025#Rainbow_Ribbon_Shawl }}
+| {{Avail Summary | days | days=Color }}
+|{{Cost| 14.99 USD }}
+|Gray
+| Yes
+|- id="SkyFest Wireframe Cape"
+| style="text-align: center;" | {{Days Item| SkyFest Wireframe Cape | real | table | link=Sky_Anniversary/2024#SkyFest_Wireframe_Cape }}
+|{{Days Item| SkyFest Wireframe Cape | icon | table | link=Sky_Anniversary/2024#SkyFest_Wireframe_Cape }}
+|{{Avail Summary | limited | days=Sky | limited=Sky Anniversary 2024 }}
+|{{Cost| 19.99 USD }}
+|Blue
+| No
+|- id="TGC Wireframe Cape"
+| style="text-align: center;" | {{Days Item| TGC Wireframe Cape | real | table }}
+|{{Days Item| TGC Wireframe Cape | icon | table }}
+|{{Avail Summary | permanent | days=Sky }}
+|{{Cost| 19.99 USD }}
+|Blue
+| No
+|- id="Sunlight Blue Towel Cape"
+| style="text-align: center;" |{{Days Item| Sunlight Blue Towel Cape | real | table }}
+|{{Days Item| Sunlight Blue Towel Cape | icon | table }}
+| {{Avail Summary | days | days=Sunlight }}
+| {{Cost| 140 C}}
+|Blue
+| No
+|- id="Sunlight Pink Towel Cape"
+| style="text-align: center;" |{{Days Item| Sunlight Pink Towel Cape | real | table }}
+|{{Days Item| Sunlight Pink Towel Cape | icon | table }}
+| {{Avail Summary | days | days=Sunlight }}
+|{{Cost| 30 H}}
+| Pink
+| No
+|- id="Sunlight Orange Towel Cape"
+| style="text-align: center;" | {{Days Item| Sunlight Orange Towel Cape | real | table }}
+|{{Days Item| Sunlight Orange Towel Cape | icon | table }}
+| {{Avail Summary | days | days=Sunlight }}
+|{{Cost| 110 C}}
+|Yellow
+| No
+|- id="Sunlight Shawl Cape"
+| style="text-align: center;" | {{Days Item| Sunlight Shawl Cape | real | table }}
+|{{Days Item| Sunlight Shawl Cape | icon | table }}
+| {{Avail Summary | days | days=Sunlight }}
+|{{Cost| ?}}
+|Yellow
+| Yes
+|- id="Sunlight Woven Wrap"
+| style="text-align: center;" |{{Days Item| Sunlight Woven Wrap | real | table }}
+| {{Days Item| Sunlight Woven Wrap | icon | table }}
+| {{Avail Summary | days | days=Sunlight }}
+|{{Cost| 14.99 USD }}
+| Yellow and Blue
+| Yes
+|- id="Moonlight Garland Cape"
+| style="text-align: center;" |{{Days Item| Moonlight Garland Cape | real | table }}
+| {{Days Item| Moonlight Garland Cape | icon | table }}
+| {{Avail Summary | days | days=Moonlight }}
+|{{Cost| 14.99 USD }}
+| White
+| No
+|- id="Spooky Bat Cape"
+| style="text-align: center;" |{{Days Item| Spooky Bat Cape | real | table }}
+|{{Days Item| Spooky Bat Cape | icon | table }}
+| {{Avail Summary | days | days=Mischief }}
+|{{Cost| 17.99 USD }}
+|Black
+| Yes
+|- id="Mischief Web Cape"
+| style="text-align: center;" | {{Days Item| Mischief Web Cape | real | table }}
+|{{Days Item| Mischief Web Cape | icon | table }}
+| {{Avail Summary | days | days=Mischief }}
+|{{Cost| 14.99 USD }}
+|Black
+| Yes
+|- id="Withered Cape"
+| style="text-align: center;" |{{Days Item| Withered Cape | real | table }}
+|{{Days Item| Withered Cape | icon | table }}
+| {{Avail Summary | days | days=Mischief }}
+|{{Cost| 99 C }}
+|Orange
+| No
+|- id="Cat Cape"
+| style="text-align: center;" |{{Days Item| Cat Cape | real | table }}
+|{{Days Item| Cat Cape | icon | table }}
+| {{Avail Summary | days | days=Mischief }}
+|{{Cost| $19.99 }}
+|Black
+| Yes
+|- id="Mischief Gossamer Cape"
+| style="text-align: center;" |{{Days Item| Gossamer Cape | real | table }}
+|{{Days Item| Gossamer Cape | icon | table }}
+| {{Avail Summary | days | days=Mischief }}
+| {{Cost| 14.99 USD }}
+|White
+| No
+|- id="Mischief Crabula Cloak"
+| style="text-align: center;" |{{Days Item| Crabula Cloak | real | table }}
+|{{Days Item| Crabula Cloak | icon | table }}
+| {{Avail Summary | days | days=Mischief }}
+|{{Cost| 14.99 USD }}
+|Black
+| Yes
+|- id="Mischief Raven-Feathered Cloak"
+| style="text-align: center;" |{{Days Item| Raven Cloak | real | table }}
+|{{Days Item| Raven Cloak | icon | table }}
+| {{Avail Summary | days | days=Mischief }}
+|{{Cost| 17.99 USD }}
+|Black
+| No
+|- id="Santa Cape"
+| style="text-align: center;" |{{Days Item| Santa Cape | real | table }}
+|{{Days Item| Santa Cape | icon | table }}
+| {{Avail Summary | days | days=Feast }}
+|{{Cost| 65 C }}
+|Red
+| Yes
+|- id="Snowflake Cape"
+| style="text-align: center;" |{{Days Item| Snowflake Cape | real | table }}
+| {{Days Item| Snowflake Cape | icon | table }}
+| {{Avail Summary | days | days=Feast }}
+|{{Cost| 14.99 USD }}
+|Blue
+| Yes
+|- id="Winter Ancestor Cape"
+| style="text-align: center;" |{{Days Item| Winter Ancestor Cape | real | table }}
+|{{Days Item| Winter Ancestor Cape | icon | table }}
+| {{Avail Summary | days | days=Feast }}
+|{{Cost| 9.99 USD }}
+|White
+| Yes
+|- id="Cozy Hermit Cape"
+| style="text-align: center;" |{{Days Item| Cozy Hermit Cape | real | table }}
+|{{Days Item| Cozy Hermit Cape | icon | table }}
+| {{Avail Summary | days | days=Feast }}
+|{{Cost| 14.99 USD }}
+|White
+| Yes
+|- id="Winter Quilted Cape"
+| style="text-align: center;" |{{Days Item| Winter Quilted Cape | real | table }}
+|{{Days Item| Winter Quilted Cape | icon | table }}
+| {{Avail Summary | days | days=Feast }}
+|{{Cost| 14.99 USD }}
+|White and Red
+| Yes
+|- id="Days of Love Meteor Mantle"
+| style="text-align: center;" |{{Days Item| Meteor Mantle | real | table }}
+| {{Days Item| Meteor Mantle | icon | table }}
+| {{Avail Summary | days | days=Love }}
+|{{Cost| 17.99 USD }}
+|Purple
+| No
+|- id="Cinnamoroll Pop-Up Cafe Cloud Cape"
+| style="text-align: center;" | {{Days Item| Cinnamoroll Cloud Cape | real | table }}
+| {{Days Item| Cinnamoroll Cloud Cape | icon | table }}
+| {{Avail Summary | limited | days=Cinnamoroll }}
+|{{Cost| 14.99 USD }}<ref name="Bowtie and Cloud Cape Pack">The $14.99 cost of the Cinnamoroll Pop-Up Cafe Bowtie and Cloud Cape Pack includes 2 cosmetics (a Cape and a Neck Accessory).</ref>
+|White
+| No
+|- id="Days of Music Marching Band Cape"
+| style="text-align: center;" |{{Days Item| Marching Band Cape | real | table }}
+| {{Days Item| Marching Band Cape | icon | table }}
+| {{Avail Summary | days | days=Music }}
+|{{Cost| ? }}
+|Red
+| Yes
+|- id="Anniversary Tuxedo Cape"
+| style="text-align: center;" |{{Days Item| Anniversary Tuxedo Cape | real | table }}
+| {{Days Item| Anniversary Tuxedo Cape | icon | table }}
+| {{Avail Summary | days | days=Sky }}
+|{{Cost| 14.99 USD }}
+|Yellow
+| Yes
+|- id="Sparrow Cape"
+| style="text-align: center;" | {{Days Item| Sparrow Cape | real | table }}
+| {{Days Item| Sparrow Cape | icon | table }}
+| {{Avail Summary | permanent | days=fireworks }}
+|{{Cost| 9.99 USD }}<ref name="Sparrow Pack">The $9.99 cost of the Sparrow Pack includes 2 cosmetics (a Cape and a Mask).</ref>
+|Brown
+| No
+|- id="Moth Cape"
+| style="text-align: center;" |{{Days Item| Moth Cape | real | table }}
+|{{Days Item| Moth Cape | icon | table }}
+| {{Avail Summary | permanent | days=fireworks }}
+|{{Cost| 9.99 USD }}<ref name="Moth Pack">The $9.99 cost of the Moth Pack includes 2 cosmetics (a Cape and a Head Accessory).</ref>
+|Brown
+| No
+|- id="Kizuna AI Cape"
+| style="text-align: center;" |{{Days Item| Kizuna AI Cape | real | table | link=Kizuna_AI#Kizuna_AI_Pack }}
+|{{Days Item| Kizuna AI Cape | icon | table | link=Kizuna_AI#Kizuna_AI_Pack}}
+| {{Avail Summary | limited | limited=Kizuna AI| source={{Icon|Kizuna-AI-Hair-Accessory-Icon.png|table|label=Kizuna AI Pack}} }}
+|{{Cost| 19.99 USD }}<ref name="kizuna\_ai">The $19.99 cost of the Kizuna AI Pack includes 3 cosmetics (a Cape, a Hairstyle, and a Hair Accessory).</ref>
+|White
+| No
+|- id="Red Switch Cape"
+| style="text-align: center;" |{{Icon| Cape_nintendo_red_back.png | link=Nintendo_Pack | label=Red Switch Cape | table }}
+|{{Icon| Icon_cape_nintendo_red-Morybel-0146.png | table | link=Nintendo_Pack | label=Red Switch Cape }}
+| {{Avail Summary | conditional | source={{Icon|Switch_Icon.png|table|link=Nintendo_Pack}} }}
+|{{Cost | 29.99 USD }}<ref name="Nintendo Pack">The [[Nintendo Pack|Nintendo Starter Pack]] is an [[Premium Candle Shop|in-app purchase]] that can only be purchased within the Nintendo Switch version of Sky. It costs {{USD|29.99}} and gives you four Nintendo-exclusive cosmetics (two Capes, a Hairstyle, and an Instrument), plus 75 candles.</ref>
+|Red
+| No
+|- id="Blue Switch Cape"
+| style="text-align: center;" |{{Icon| Cape_nintendo_blue_back.png | link=Nintendo_Pack | label=Blue Switch Cape | table }}
+|{{Icon| Icon_cape_nintendo_blue-Morybel-0146.png | table | link=Nintendo_Pack | label=Blue Switch Cape }}
+| {{Avail Summary | conditional | source={{Icon|Switch_Icon.png|table|link=Nintendo_Pack}} }}
+|{{Cost | 29.99 USD }}<ref name="Nintendo Pack" />
+|Blue
+| No
+|- id="Journey Cape"
+| style="text-align: center;" |{{Icon| JourneyPack-Cape-back-Nastymold.png | link=Journey Pack | label=Journey Cape | table }}
+| {{Icon| Journey-Pack-Cape-Icon-Morybel-0146.png | table | link=Journey Pack | label=Journey Cape }}
+| {{Avail Summary | permanent | source={{Icon|PlayStation Logo.png|table|link=Journey Pack}} }}
+|{{Cost | 24.99 USD }}<ref name="Journey Pack">The $24.99 cost of the [[Journey Pack]] includes three Journey-inspired cosmetics (a Cape, a Hood, and a Mask).</ref>
+|Red
+| No
+|- id="Transcendent Journey Cape"
+| style="text-align: center;"| {{Icon| Transcendent-Journey-Pack-Cape-back.png | link=Sky for Playstation#Transcendent Journey Pack | label=Transcendent Journey Cape | table }}
+| {{Icon| Transcendent-Journey-Pack-Cape-icon.png | table | link=Sky for Playstation#Transcendent Journey Pack | label=Transcendent Journey Cape }}
+| {{Avail Summary | permanent | source={{Icon|PlayStation_Logo.png|table|label=Transcendent Journey Pack|link=Sky for Playstation#Transcendent Journey Pack}} }}
+| {{Cost | 24.99 USD }}<ref name="Transcendent Journey Pack">The $24.99 cost of the Transcendent Journey Pack includes 3 cosmetics (a Cape, a Hood, and a Mask).</ref>
+|White
+| No
+|- id="Days of Fortune Snake Cloak"
+| style="text-align: center;" |{{Days Item| Fortune Snake Cloak | real | link=Days_of_Fortune#Fortune_Snake_Coif_and_Cloak | table }}
+| {{Days Item| Fortune Snake Cloak | icon | link=Days_of_Fortune#Fortune_Snake_Coif_and_Cloak | table }}
+| {{Avail Summary | days | days=Fortune }}
+| {{Cost| 19.99 USD }}<ref name="Fortune\_Snake\_Coif\_and\_Cloak">The $19.99 cost of the Fortune Snake Coif and Cloak includes 2 cosmetics (a Cape and a Hair).</ref>
+|White
+| Yes
+|}
+{{Avail Legend
+| regular 
+| permanent 
+| s+ 
+| u+ 
+| t* 
+| r*
+| d*
+| l*
+| days 
+| season 
+| ultimate 
+| limited 
+| conditional 
+}}
+
+== Trivia==
+[[File:Deer-Cape-Stars-Colors.png|thumb|200px|The Radiance of the Nine-Colored Deer Cape stars with colors (top to bottom): blue, yellow, orange, red, and purple.]]
+*In [[Sky: Light Awaits]], the Capes were much more detailed. However, they were simplified due to performance issues.<ref>[https://discord.com/channels/575762611111592007/583370574449999880/786762853113397279 Posting by Ktjn] on the official Discord server.</ref>
+*The Base Cape is featured in a piece of merch from thatskyshop, in the form of a [[That Sky Shop/Wave 4#Cape Mug (Partially Cancelled)|Cape Mug]].
+*The Starter Pack Cape is featured in a piece of merch from thatskyshop, in the form of a [[That Sky Shop/Wave 6#thatskykid|thatskykid]]. It has a STAR feature which allows you to meet thatskykid for a limited duration.
+*Unlike other capes, each of the Radiance of the Nine-Colored Deer Cape stars has a unique color.
+{{Clear}}
+==References==
+<references />
+
+[[pt-br:Capas]]
+[[ja:ケープ]]
+[[de:Umhänge]]
+[[fr:Capes]]
+
+[[Category:Cosmetics]]

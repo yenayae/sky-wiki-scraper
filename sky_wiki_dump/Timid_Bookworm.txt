@@ -1,0 +1,195 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Stance
+|image     = <gallery>
+Sanctuary-Spirit-Timid-Bookworm.png|Standard
+Sanctuary-Spirit-Timid-Bookworm-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Hair|infobox}}{{Spirit Item||Cape|infobox}}
+|music     = {{Music Sheet|15}}
+|season    = Sanctuary
+|realm     = Daylight Prairie
+|location  = Sanctuary Islands
+|ts        = May 9, 2024 (#113)<br>July 7, 2022 (#65)<br>June 10, 2021 (#37)
+}}
+<section begin="Summary" />The '''Timid Bookworm''' is a [[Seasonal Spirit]] from the [[Season of Sanctuary]] who offers the {{Emote|Timid Bookworm|inline_text}}. The Timid Bookworm is found on the first floating island when entering [[Sanctuary Islands]] from the [[Bird Nest]]. The collectibles [[Timid Bookworm#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Timid Bookworm|Hair|inline_text}}, a {{Spirit Item|Timid Bookworm|Cape|inline_text}}, and the {{Music Sheet|15|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Timid-Bookworm-promo-image.jpg|thumb|320px|none|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|fBs1TfQLRPM||inline|Video Guide}}
+
+The Timid Bookworm can be found in the [[Sanctuary Islands]], on the underside and on the back of the first floating island when entering the area from the Bird Nest. This Spirit has a [[Standard Memory|standard memory]] with 9 memory fragments and a 15-minute [[Timed Memory|time limit]].
+
+As their memory unfolds, the Timid Bookworm can be seen sitting on the ground with a book before they spot the [[Sanctuary Guide]] a few steps away, which is holding out their hand in the air. They approach the Guide carefully and observe how a butterfly sits on their outstretched hand. The two Spirits then make their way up the floating island, stopping at a floating Jellyfish once, before arriving at the very top, where a big swarm of butterflies flocks around the Sanctuary Guide, while the Timid Bookworm watches in awe a few steps away.
+
+At the end of the memory, the Timid Bookworm sits quietly near the Sanctuary Guide, reading a book. The Sanctuary Guide holds out their left palm to allow a butterfly to land, which makes the Timid Bookworm look up from their book and stand up, shyly holding their right arm. The butterfly then flutters away from the Guide and the Timid Bookworm reaches up with both arms to try and catch it, but the little creature has already flown out of their reach. A little embarrassed, the Timid Bookworm shyly holds their right arm.<br>
+<br>
+[[File:01 DP Spirit - Timid Bookworm.png|200px|thumb|none|Relive the Timid Bookworm's memory]]
+</div>
+{{Clear}}
+
+== <span id="Expression">Stance</span> ==
+This Spirit offers the {{Emote||inline_text}}. The Stance affects your avatar's position when standing, kneeling, sitting, or lying down. <br>
+<br>
+{{#tag:gallery
+|{{Icon Name||emote}}
+Timid-Bookworm-timid-stance-emote.gif {{!}} {{Icon Name||emote_name}}
+Timid-Bookworm-Stance-Standing.png {{!}} Standing
+Timid-Bookworm-Stance-Kneeling.png {{!}} Kneeling
+Timid-Bookworm-Stance-Sitting.png {{!}} Sitting
+Timid-Bookworm-Stance-Lying-Down.png {{!}} Lying down
+|heights=170px|captionalign=center|spacing=small
+}}
+*Standing up will make your avatar hold one of their arms and point their feet a bit inwards.
+*Kneeling will make your avatar squat down while hugging their legs and laying their head on their knees.
+*Sitting will make your avatar sit while holding their thighs close to their chest, hugging them and laying their head on the knees, to the side.
+*Laying down will make your avatar lay down while crossing one arm to the opposite shoulder, the other propped on the knee while lifting their head.
+
+== Cosmetics==
+=== Hair ===
+The [[Hair]] offered by this Spirit is made of a big three-strand braid in the back, two smaller braids in the front, tied with small yellow bands, as well as short choppy bangs, costing {{Cost|42 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's third node ({{Cost|18 SC|season=Sanctuary}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|front}} {{!}} The Hair front
+{{Icon Name||Hair|real}} {{!}} The Hair side
+{{Icon Name||Hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Cape ===
+The [[Cape]] offered by this Spirit is orange and shaped like a butterfly, with a white edge and interior, as well as little tails on the hind wings, costing {{Cost|70 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|30 SC|season=Sanctuary}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||Cape|interior}} {{!}} The Cape interior
+{{Icon Name||Cape|back}} {{!}} The Cape back
+{{Icon Name||Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Music Sheet ==
+The Timid Bookworm offers the {{Music Sheet|15}} [[Music Sheet]] #15, costing {{Cost|15 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|8 SC|season=sanctuary}} total). It is a song in the key of C Major.<br>
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guide
+|content=
+{{#ev:youtube|VT1ZqO4_GFo||inline|Music Sheet Video Guide by Ikejiji}}
+}}
+{{Clear}}
+
+== Traveling Spirit ==
+[[File:Daylight Prairie - Timid Bookworm.png|200px|right|thumb]]
+{{Friendship Tree Info | traveling
+|ts_dates=*May 9, 2024 (#113)
+*July 7, 2022 (#65)
+*June 10, 2021 (#37)<ref name="free_wing_buff">At the time of Timid Bookworm's first Traveling Spirit Visit, there was an ongoing bug preventing some players from collecting Ascended Candles. As a result, the [[Wing Buff]]'s Price was temporarily changed to zero Ascended Candles (and players who had purchased the Wing Buff were refunded).</ref>
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Timid Bookworm
+|season = Sanctuary
+|image = Sanctuary-Spirit-Timid-Bookworm.png
+
+|nodeC5 = cape 70 C
+|nodeC4 = spell5
+|nodeC3 = wing
+|nodeL2 = hair 42 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = music15 15 C
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+=== Hints ===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+The hints given before the [[Timid Bookworm]]'s first appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=First Visit Hints
+|content=<div>
+* Would probably like tea and cookie
+* Draws their own comic series
+* Has the biggest sweet tooth of everyone
+* Likes silly puns
+* Writes fiction stories
+* Is not very good at poetry
+* Favorite color is green! 
+* Has no fear of heights
+* Is secretly a bit of a daredevil
+* Is a bit of a night owl
+* Often forgets peoples names
+* Really likes fishing
+* Likes to cloud watch
+* Prefers pie over cake
+* Likes making flower arrangements
+* Likes to travel
+* Really likes spicy food!
+* Is....a Spirit
+* Is breaking genchat
+* Loves fruit salads
+* Gets overwhelmed around chatty people
+* Likes assorted nuts
+* Favorite cookie is double double triple choco chip
+* Hopes to win an award someday
+* Is excited to see you all!
+* Is reminding you guys to hydrate and take a deep breath
+* Is a goofy goober
+* [ktjn] Likes cakey brownies with frosting
+* [ktjn] Enjoys baking vegan treats for their friends
+* [ktjn] Likes asparagus more than you
+</div>}}
+
+The hints given before the [[Timid Bookworm]]'s second appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Second Visit Hints
+|content=<div>
+* Thinks fruit is best with tajín on it
+* Is learning how to draw hands
+* Easily gets lost in thought
+* Likes to collect old maps
+</div>}}
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Sanctuary}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Timid Bookworm
+|type   = season
+|season = Sanctuary
+|image  = Sanctuary-Spirit-Timid-Bookworm.png
+
+|nodeC5 = season_heart 3 SC AP
+|nodeL4 = Cape AP
+|nodeC4 = spell5 12 SC
+|nodeL3 = spell5 AP
+|nodeC3 = Hair 10 SC
+|nodeL2 = music15 AP
+|nodeC2 = spell5 8 SC
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Image Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+IMG 5235.jpg
+IMG 5236.jpg
+IMG 5237.jpg
+IMG 5238.jpg
+Sanctuary Images recap-timid how to.png
+Sanctuary Images recap-timid group.png
+AP Sanctuary 8.png
+Timid bookworm map.png
+</gallery>
+
+==Video Gallery==
+{{#ev:youtube|GTnvyuwFNE0|175|inline|Video Guide by Tara}}
+
+==References==
+<references/>
+[[fr:Lectrice timide]]
+[[pt-br:Bibliófilo Tímido]]
+[[ja:引っ込み思案な読書家]]
+[[ru:Робкий любитель книг]]

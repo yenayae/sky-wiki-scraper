@@ -1,0 +1,114 @@
+{{Spirit Infobox
+|type      = Regular
+|emote_type= Emote
+|image     = <gallery>
+Prairie-Spirit-Butterfly-Charmer.png|Standard
+Prairie-Spirit-Butterfly-Charmer-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Outfit|infobox}}{{Spirit Item||Cape|infobox}}{{Spirit Item||Tier 2 Cape|infobox}}
+|realm     = Daylight Prairie
+|location  = Butterfly Fields
+}}
+<section begin="Summary" />The '''Butterfly Charmer''' is a [[Regular Spirit]] in [[Daylight Prairie]] who offers the {{Emote|Butterfly Charmer|inline_text}} Expression. The Butterfly Charmer is found to the left of [[Butterfly Fields]], at the entrance of a large hollow rock dome. The collectibles [[Butterfly Charmer#Friendship Tree|offered]] by this Spirit are an {{Spirit Item|Butterfly Charmer|Outfit|inline_text}} and two tiers ({{Spirit Item|Butterfly Charmer|Cape}} {{Spirit Item|Butterfly Charmer|Tier 2 Cape}}) of a [[#Cape|Cape]].<section end="Summary" /><br>
+<br>
+[[File:Butterfly-Charmer-Guide-777-Ed.png|320x320px|thumb|none|Image Guide by 777.Ed]]
+
+== Memory ==
+<div>
+{{#ev:youtube|ZvplZUDwr9U||inline|Video Guide}}
+<br>
+The Butterfly Charmer can be found to the left of [[Butterfly Fields]], at the entrance of a large hollow rock dome. This Spirit is a [[Standard Memory|standard memory]] quest with 3 memory fragments<ref>Memory fragment count provided by {{Userlinks|FeatheredFlight}}.</ref> and an unlimited overall [[Timed Memory|time limit]].
+
+As their memory unfolds, the Butterfly Charmer is seen darting around the inside of the hollow dome structure, peeking into several holes within the rock walls.
+
+At the end of the memory, the Spirit stands at the center of the dome, admiring the numerous [[Butterflies]] fluttering throughout the air. The Butterfly Charmer then raises a hand to allow a Butterfly to briefly land on it before flying away.<br>
+<br>
+[[File:01 DP Spirit - Butterfly Charmer.png|200px|thumb|none|Relive the Butterfly Charmer's memory]]
+</div>
+{{Clear}}
+
+==Expression==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels. When any Level is used in an area where [[Butterflies]] are present, one will land on your outstretched hand and slowly flap its wings, steadily recharging your Cape Energy.<br>
+<br>
+[[File:{{Icon Name||emote}}|170px|left]]
+<gallery heights="125" captionalign="center">
+Butterfly-Charmer-butterfly-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Butterfly-Charmer-butterfly-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Butterfly-Charmer-butterfly-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Butterfly-Charmer-butterfly-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar raise their left arm to the side with their palm facing up and turn their head to look at it. This action is continued for as long as you don't move your character.
+*Level 2 makes the same motion as Level 1 with a white glow coming from the raised hand.
+*Level 3 will make your avatar complete a full 360° spin on their left leg and raise their left arm forward with their palm facing up and head tilted to look at it. This action is continued for as long as you don't move your character.
+*Level 4 makes the same motion as Level 3 with light sparkles flying around your avatar during the spin and a purple glow coming from their raised hand.
+
+The prices of the three Expression upgrades are {{Cost|1 C}}, {{Cost|2 C}}, and {{Cost|2 C}}. Levels 3 and 4 are only available after unlocking the Spirit's first [[Wing Buff]].
+
+== Cosmetics==
+=== Outfit ===
+The [[Outfit]] offered by this Spirit is a beige half-sleeve top with matching loose, knee-length pants, costing {{Cost|4 H}}. It is permanently available to all players after unlocking the Spirit's first [[Wing Buff]] and the Friendship Tree's fourth node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Outfit}} {{!}} The Outfit icon
+{{Icon Name||Outfit|Real}} {{!}} The Outfit front
+{{Icon Name||Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Cape ===
+The Butterfly Charmer offers two standard-style yellow [[Capes]]; a Tier 1 and a [[Tier 2 Cape|Tier 2]] version, costing {{Cost|3 H}} and {{Cost|9 H}} respectively. Both are permanently available to all players after unlocking the Friendship Tree's second node and second [[Wing Buff]] respectively. 
+
+The Tier 2 Cape (and the second Wing Buff that unlocks it) are not needed to complete the Daylight Prairie [[Constellation]]. These were both added to the Friendship Tree in Patch {{v|0.12.0}} on December 15, 2020.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape}} {{!}} The Tier 1 Cape icon
+{{Icon Name||Cape|front}} {{!}} The Tier 1 Cape front
+{{Icon Name||Cape|interior}} {{!}} The Tier 1 Cape interior
+{{Icon Name||Cape|Real}} {{!}} The Tier 1 Cape back
+{{Icon Name||Cape|exterior}} {{!}} The Tier 1 Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+{{#tag:gallery
+|{{Icon Name||Tier 2 Cape}} {{!}} The Tier 2 Cape icon
+{{Icon Name||Tier 2 Cape|front}} {{!}} The Tier 2 Cape front
+{{Icon Name||Tier 2 Cape|interior}} {{!}} The Tier 2 Cape interior
+{{Icon Name||Tier 2 Cape|Real}} {{!}} The Tier 2 Cape back
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Friendship Tree ==
+{{Friendship Tree Info | regular}}
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Butterfly Charmer
+|image  = Prairie-Spirit-Butterfly-Charmer.png
+
+|nodeC7 = Tier_2_Cape 9 H BONUS
+|nodeC6 = wing 3 AC BONUS
+|nodeC5 = spell5
+|nodeL4 = emote4 2 C
+|nodeC4 = emote3 2 C
+|nodeR4 = Outfit 4 H
+|nodeC3 = wing 1 AC
+|nodeL2 = Cape 3 H
+|nodeC2 = spell1
+|nodeR2 = heart
+|nodeL1 = emote2 1 C
+|nodeC1 = emote
+}}<section end="Friendship Tree" />
+
+==Trivia==
+*The Butterfly Charmer Cape is featured in a piece of merch from thatskyshop, in the form of a [[That Sky Shop/Wave 4#Cape Mug (Partially Cancelled)|Cape Mug]].
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+File:Emote Loc-Butterfly.png
+</gallery>
+
+==References==
+<references/>
+
+[[de:Schmetterlingszähmer]]
+[[pt-br:Encantador de Borboletas]]
+[[fr:Charmeur de papillon]]

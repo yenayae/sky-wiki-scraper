@@ -1,0 +1,445 @@
+{{Mbox 
+| image = Shrug_white_on_black.png
+| header = No Announcement for Days of Style 2025
+| text = At this time, TGC has not made an announcement whether or not [[Days of Style]] will be returning in 2025. Historically, [[Days of Style]] occurs before [[Days of Mischief]]. This page will be updated once more information is released. Thank you!
+}}
+{{SkyEvent
+| image = Days-of-Style-promo-image-2024.png
+| previousevent = [[Days of Moonlight]]
+| nextevent = [[Days of Mischief]]
+| date = September 30 to October 13, 2024
+}}
+'''Days of Style''' is an annual event celebrating self-expression and creativity through fashion that usually happens around the beginning of October and lasts until the middle of the month. It was first introduced in 2023, following after [[Days of Sunlight]].
+
+During the two-week event, fashion runways appear in different locations throughout the [[Realms]], bringing with them a special [[Cosmetics#Outfit Shrines|Closet Shrine]] that offers a rotating selection of cosmetics for players to temporarily borrow. Each of these runways offer a unique theme, and players are invited to create an ensemble interpreting that theme in whichever way they choose. A nearby [[Shared Memories Candles|Shared Memory Shrine]] can be used to show off your creativity and best runway walk for other Sky Kids to enjoy. So, grab your [[Cape]], perfect your pose, and get ready to shine!
+
+Fashion-themed [[IAP]]s are available from the in-game shop, and the Style Guide Spirit offers various cosmetics from their Friendship Tree. Free [[Spells]] to try all of these items can also be collected from the Style Gift Box at [[Home]] or the [[Aviary Village#Spell Shop|Spell Shop]] in Aviary Village.
+
+==September 2024<span id="2024"></span>==
+{{#ev:youtube|3wYryzXM6EQ||right|Days of Style 2024 Trailer}}
+Days of Style returned for a second year, bringing even more flair, fun, and opportunities to shine! The event began on '''September 30, 2024 at 00:00 PDT (UTC-7)''' and continued until '''October 13, 2024 at 23:59 PDT (UTC-7)''', lasting '''14''' days. For the duration of the event, the Style Guide appeared in [[Home]] and [[Aviary Village]], offering to take players directly to a fashion runway located in one of the [[Realms]]. Their locations rotated regularly, and this year included four new locations too!
+
+''Note: If the event area for the day was in a Realm that the player had never been to before, it was not possible to teleport from the meditation circle to the event area.''
+
+Design outfits that truly capture the essence of each theme—whether bold, whimsical, chaotic, or elegant—and don’t worry about missing the perfect accessory! Temporary closets will be nearby, packed with items to borrow so that you can create the ultimate look. Once your avatar is ready, use the runway's [[Shared Memories Candles|Shared Memory Shrine]] to strut your stuff and share your personalized interpretation with the entire ''Sky'' community (and earn some [[Pieces of Light|Light]] in the process). Whether you're going for dashing or dazzling, this event has everything you need to make your mark on the runway. So, grab your cape, perfect your pose, and get ready to shine.
+
+For this year’s event, TGC revamped how players earned [[Currency#Event Currency|Event Currency]] (also known as Tickets). Instead of picking up themed tokens, Event Currency was earned incrementally, similar to how currency like regular [[Currency#Candles|Candles]] and [[Currency#Season Candles|Seasonal Candles]] are typically gathered. Event Currency appeared as large, shining blue orbs of Light, scattered around the stage. As players gathered this dazzling Light, the Event Currency meter filled up. Once it was complete, players could forge a unit of Event Currency to unlock some truly [[Days of Style#2024 New Cosmetics and Props|special items]] that might just fuel their next creative ensemble! 
+{{Clear}}
+
+===Runway Locations and Themes===
+{| class="fandom-table"
+!Date!!Location!!Theme
+|-
+|September 30||[[Prairie Peaks]]||'''Trailblazer Chic''' - Design a picture perfect outfit for a hike in the hills.
+|-
+|October 1 - 2||[[Forest Clearing]]||'''Lost in the Hidden Forest''' - Choose a look that makes you feel at home among the trees.
+|-
+|October 3||[[Battlefield]] ||'''Light Creature or Dark Creature''' - Create an outfit that honors a Sky creature.
+|-
+|October 4||[[Crescent Oasis]]||'''Desert Dreams''' - Choose an outfit that reflects the desert dunes.
+|-
+|October 5||[[Bird Nest]]||'''Ancestor Appreciation''' - Let the fashion of your elders inspire you.
+|-
+|October 6||[[Elevated Clearing]]||'''Tea Time At Grandma's''' - You're invited! Dress up for a splendid afternoon.
+|-
+|October 7||[[Hermit Valley]]||'''Alpine Fireside''' - Design a cozy wintertime outfit.
+|-
+|October 8 - 9||[[Treasure Reef]]||'''Call of the Deep''' - Craft an exotic undersea look.
+|-
+|October 10 - 11||[[Sanctuary Islands]]||'''Seaside Serenity''' - Beat the heat in an outfit best suited for a sunny day.
+|-
+|October 12 - 13|| [[Vault of Knowledge#The Summit|Vault Summit]]||'''Evening Glamour''' - Sparkle and shine on the runway!
+|}
+
+===Ticket Locations===
+[[File:Days-of-Style-Event-Currency-Light.png|125px|thumb|Days of Style Event Currency Light]]
+For the duration of the event, '''all [[Currency#Event Currency|Event Currency]] was available as Event Currency Light'''. It appeared as blue orbs that are quite a bit larger than [[Pieces of Light|Light]] from Candles. It filled up the Event Currency meter the same way that regular Light fills the Candle meter, and players could forge a unit of Event Currency once the meter was full.
+
+A total of {{Cost|5 T|event=style}} Tickets could be collected each day:
+
+*{{Cost|4 T|event=style}} from collecting Event Currency Light around the runway stage area (see locations above)
+*{{Cost|1 T|event=style}} from watching another player's runway [[Shared Memories|Shared Memory]]
+
+Players could also buy additional Tickets (costing {{Cost|2 AC}} or {{Cost|6 C}} each) from the Style Gift Box at [[Aviary Village#Aviary Event Store|Aviary Village]].
+{{Friendship Tree
+|label = Style Guide
+|event = Style
+|image = Days-of-Style-Guide-2024.png
+
+|nodeC4 = {{Icon Name|Style Top Hat|icon}} 12 AC
+|  labelC4 = {{Icon Name|Style Top Hat|name}}
+|  linkC4  = Days of Style#{{Icon Name|Style Top Hat|name}}
+
+|nodeL3 = {{Icon Name|Style Star Sunglasses|icon}} 72 C
+|  labelL3 = {{Icon Name|Style Star Sunglasses|name}}
+|  linkL3  = Days of Style#Style Star {{Icon Name|Style Star Sunglasses|name}}
+|nodeC3 = spell5 
+|  labelC3 = Spell
+|  linkC3  = Spells
+
+|nodeR2 = {{Icon Name|Runway Makeup Mask|icon}} 30 C
+|  labelR2 = {{Icon Name|Runway Makeup Mask|name}}
+|  linkR2  = Days of Style#{{Icon Name|Runway Makeup Mask|name}}
+|nodeL2 = {{Icon Name|Style Silk Ballet Slippers|icon}} 13 H
+|  labelL2 = {{Icon Name|Style Silk Ballet Slippers|name}}
+|  linkL2  = Days of Style#{{Icon Name|Style Silk Ballet Slippers|name}}
+
+|nodeC2 = spell5 
+|  labelC2 = Spell
+|  linkC2  = Spells
+
+|nodeR1 = {{Icon Name|Style Fascinator|icon}} 15 T
+|  labelR1 = {{Icon Name|Style Fascinator|name}}
+|  linkR1  = Days of Style#{{Icon Name|Style Fascinator|name}}
+|nodeL1 = {{Icon Name|Style Dress|icon}} 34 T
+|  labelL1 = {{Icon Name|Style Dress|name}}
+|  linkL1  = Days of Style#{{Icon Name|Style Dress|name}}
+|nodeC1 = spell5 
+|  labelC1 = Spell
+|  linkC1  = Spells
+}}
+{{Clear}}
+
+===<big>All Available Collectibles</big>===
+{| class="article-table"
+!Name!!Icon!!Type !!Cost !!Location!!Spell!!Spell Cost & Locations
+|-
+! colspan="7" style="text-align:center;" |From Days of Style 2024
+|-
+| rowspan="3" |[[Days of Style#Style Dapper Trio|Style Dapper Trio]]
+| {{Days Item|Style Dapper Suit||table}}
+| [[Outfit]]
+| rowspan="3" |{{Cost|14.99 USD|refnote}}
+| rowspan="3" | <small>[[Premium Candle Shop]]</small>
+| {{Days Item|Style Dapper Suit|spell|table}}<small>x3</small>
+| rowspan="3" | <small>Style Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] for free</small>
+|-
+| {{Days Item|Style Dapper Monocle||table}}
+| [[Face Accessory]]
+| {{Days Item|Style Dapper Monocle|spell|table}}<small>x3</small>
+|-
+| {{Days Item|Style Dapper Necktie||table}}
+| [[Neck Accessory]]
+| {{Days Item|Style Dapper Necktie|spell|table}}<small>x3</small>
+|-
+| [[Days of Style#{{Icon Name|Style Dress|name}}|{{Icon Name|Style Dress|name}}]]
+| {{Days Item|Style Dress||table}}
+| [[Outfit]]
+| {{Cost|34 T|event=style}}
+| <small>Style Guide at [[Home]], [[Aviary Village#Aviary Event Store|Aviary]], and the fashion runway</small>
+| {{Days Item|Style Dress|spell|table}}<small>x3</small>
+| <small>Style Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] for free</small>
+|-
+| [[Days of Style#{{Icon Name|Style Fascinator|name}}|{{Icon Name|Style Fascinator|name}}]]
+| {{Days Item|Style Fascinator||table}}
+| [[Hair Accessory]]
+| {{Cost|15 T|event=style}}
+| <small>Style Guide at [[Home]], [[Aviary Village#Aviary Event Store|Aviary]], and the fashion runway</small>
+| {{Days Item|Style Fascinator|spell|table}}<small>x3</small>
+| <small>Style Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] for free</small>
+|-
+! colspan="7" style="text-align:center;" |From Days of Style 2023
+|-
+|[[Days of Style#{{Icon Name|Style Wide-Leg Jeans|name}}|{{Icon Name|Style Wide-Leg Jeans|name}}]] 
+|{{Days Item|Style Wide-Leg Jeans||table}}
+|[[Outfit]]
+|{{Cost|9.99 USD|refnote}}
+|<small>Style Assistant at [[Aviary Village#Aviary Event Store|Aviary]]</small>
+|{{Days Item|Style Wide-Leg Jeans|spell|table}}<small>x3</small>
+|<small>Style Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] for free</small>
+|-
+|[[Days of Style#{{Icon Name|Style Bunny Slippers|name}}|{{Icon Name|Style Bunny Slippers|name}}]]
+|{{Days Item|Style Bunny Slippers||table}}
+|[[Shoes]]
+|{{Cost|6.99 USD|refnote}}
+|<small>Style Assistant at [[Aviary Village#Aviary Event Store|Aviary]]</small>
+|{{Days Item|Style Bunny Slippers|spell|table}}<small>x3</small> 
+|<small>Style Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] for free</small>
+|-
+|[[Days of Style#{{Icon Name|Style Heart Sunglasses|name}}|{{Icon Name|Style Heart Sunglasses|name}}]]
+|{{Days Item|Style Heart Sunglasses||table}}
+|[[Face Accessory]]
+|{{Cost|4.99 USD|refnote}}
+|<small>Style Assistant at [[Aviary Village#Aviary Event Store|Aviary]]</small>
+|{{Days Item|Style Heart Sunglasses|spell|table}}<small>x3</small>  
+|<small>Style Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] for free</small>
+|-
+|[[Days of Style#{{Icon Name|Style Flame Sunglasses|name}}|{{Icon Name|Style Flame Sunglasses|name}}]]
+|{{Days Item|Style Flame Sunglasses||table}}
+|[[Face Accessory]]
+|{{Cost|2.99 USD|refnote}}
+|<small>Style Assistant at [[Aviary Village#Aviary Event Store|Aviary]]</small>
+|{{Days Item|Style Flame Sunglasses|spell|table}}<small>x3</small>
+|<small>Style Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] for free</small>
+|-
+|[[Days of Style#{{Icon Name|Style Star Sunglasses|name}}|{{Icon Name|Style Star Sunglasses|name}}]]
+|{{Days Item|Style Star Sunglasses||table}}
+|[[Face Accessory]]
+|{{Cost|72 C}}
+|<small>Style Guide at [[Home]], [[Aviary Village#Aviary Event Store|Aviary]], and the fashion runway</small>
+|{{Days Item|Style Star Sunglasses|spell|table}}<small>x3</small>
+|<small>Style Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] for free</small>
+|-
+|[[Days of Style#{{Icon Name|Style Silk Ballet Slippers|name}}|{{Icon Name|Style Silk Ballet Slippers|name}}]]
+|{{Days Item|Style Silk Ballet Slippers||table}}
+|[[Shoes]]
+|{{Cost|13 H}} 
+|<small>Style Guide at [[Home]], [[Aviary Village#Aviary Event Store|Aviary]], and the fashion runway</small>
+|{{Days Item|Style Silk Ballet Slippers|spell|table}}<small>x3</small>
+|<small>Style Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] for free</small>
+|-
+|[[Days of Style#{{Icon Name|Style Top Hat|name}}|{{Icon Name|Style Top Hat|name}}]]
+|{{Days Item|Style Top Hat||table}}
+|[[Hair Accessory]]
+|{{Cost|12 AC}}
+| <small>Style Guide at [[Home]], [[Aviary Village#Aviary Event Store|Aviary]], and the fashion runway</small>
+|{{Days Item|Style Top Hat|spell|table}}<small>x3</small>
+|<small>Style Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] for free</small>
+|-
+|[[Days of Style#{{Icon Name|Style Runway Makeup Mask|name}}|{{Icon Name|Style Runway Makeup Mask|name}}]]
+|{{Days Item|Style Runway Makeup Mask||table}}
+|[[Mask]]
+|{{Cost|30 C}}
+|<small>Style Guide at [[Home]], [[Aviary Village#Aviary Event Store|Aviary]], and the fashion runway</small>
+|{{Days Item|Style Runway Makeup Mask|spell|table}}<small>x3</small>
+|<small>Style Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] for free</small>
+|}
+
+===2024 New Cosmetics and Props===
+
+====Style Dapper Trio<span id="{{Icon Name|Style Dapper Suit|name}}"></span><span id="{{Icon Name|Style Dapper Monocle|name}}"></span><span id="{{Icon Name|Style Dapper Necktie|name}}"></span>====
+::'''''"Perfectly picked to pack a proper portion of panache."'''''
+The Style Dapper Trio contains three items: the Style Dapper Suit, the Style Dapper Monocle, and the Style Dapper Necktie. The Style Dapper Suit is a blue [[Outfit|dress shirt]] layered beneath a dark blue vest and a matching pair of dark blue slacks with small colorful gems dotted around the hem. The Style Dapper Monocle is a round [[Face Accessory|monocle]] with a silver frame that sits over the player's left eye and features a short silver wire attached to the outer edge by a four-pointed star. The Style Dapper Necktie is a jagged, dark blue [[Neck Accessory|necktie]] with a light blue gem on the tie's knot, loosely resembling the design of a [[Dark Dragon]], that wraps around the player's neck. This pack was introduced in 2024 and was available for {{Cost|14.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Style Dapper Suit|iap}} {{!}} Style Dapper Trio IAP
+{{Icon Name|Style Dapper Suit|icon}} {{!}} {{Icon Name|Style Dapper Suit|name}} icon
+{{Icon Name|Style Dapper Suit|real}} {{!}} {{Icon Name|Style Dapper Suit|name}} front
+{{Icon Name|Style Dapper Suit|back}} {{!}} {{Icon Name|Style Dapper Suit|name}} back
+{{Icon Name|Style Dapper Suit|spell}} {{!}} {{Icon Name|Style Dapper Suit|name}} Spell icon
+{{Icon Name|Style Dapper Monocle|icon}} {{!}} {{Icon Name|Style Dapper Monocle|name}} icon
+{{Icon Name|Style Dapper Monocle|real}} {{!}} {{Icon Name|Style Dapper Monocle|name}} front
+{{Icon Name|Style Dapper Monocle|spell}} {{!}} {{Icon Name|Style Dapper Monocle|name}} Spell icon
+{{Icon Name|Style Dapper Necktie|icon}} {{!}} {{Icon Name|Style Dapper Necktie|name}} icon
+{{Icon Name|Style Dapper Necktie|real}} {{!}} {{Icon Name|Style Dapper Necktie|name}}
+File:Style-Dapper-Necktie-visible-collar.png {{!}} {{Icon Name|Style Dapper Necktie|name}} with the collar visible
+{{Icon Name|Style Dapper Necktie|spell}} {{!}} {{Icon Name|Style Dapper Necktie|name}} Spell icon 
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Style Dazzling Dress====
+The Style Dazzling Dress is a sleeveless knee-length dress with a high collar and blue-indigo gradient, decorated by a pale four-pointed star symbol on the chest and small colorful gems dotted around the hem. This [[Outfit]] was introduced in 2024 and was available for {{Cost|34 T|event=Style}} from the Style Guide at [[Home]], [[Aviary Village#Aviary Event Store|Aviary]], and the fashion runway for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Style Dress|icon}} {{!}} {{Icon Name|Style Dress|name}} icon
+{{Icon Name|Style Dress|real}} {{!}} {{Icon Name|Style Dress|name}} front
+{{Icon Name|Style Dress|back}} {{!}} {{Icon Name|Style Dress|name}} back
+{{Icon Name|Style Dress|spell}} {{!}} {{Icon Name|Style Dress|name}} Spell icon 
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Style Darkness Fascinator====
+The Style Darkness Fascinator is a small ornamental [[Darkness Plant]] with blue-indigo netting that drapes over the player's forehead. This [[Hair Accessory]] was introduced in 2024 and was available for {{Cost|15 T|event=Style}} from the Style Guide at [[Home]], [[Aviary Village#Aviary Event Store|Aviary]], and the fashion runway for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Style Fascinator|icon}} {{!}} {{Icon Name|Style Fascinator|name}} icon
+{{Icon Name|Style Fascinator|real}} {{!}} {{Icon Name|Style Fascinator|name}}
+{{Icon Name|Style Fascinator|spell}} {{!}} {{Icon Name|Style Fascinator|name}} Spell icon 
+|widths=125|spacing=small|captionalign=center
+}}
+
+==October 2023<span id="2023"></span>==
+[[File:Days-of-Style-promo-image-2023.png|thumb|250px|right|Promotional Image - Days of Style 2023]]
+A brand-new event celebrating creativity made its debut! Days of Style began on '''October 2, 2023 at 00:00 PDT (UTC-7)''' and ended on '''October 15, 2023 at 23:59 PDT (UTC-7)''', lasting '''14''' days. For the duration of the event, the Style Guide appeared in [[Home]], offering to take players directly to a fashion runway placed in one of the [[Realms]].
+
+Show off your best runway walk and have a bit of fun trying out (and trying on!) something new - closets near each runway would temporarily lend you clothes and other cosmetics. Players were invited to create an ensemble to represent a unique theme and use a [[Shared Memories Candles|Shared Memory Shrine]] to share that interpretation with other players (and earn a bit of [[Pieces of Light|Light]] at the end of your performance). 
+
+{{#ev:youtube|2nnOFJVvxAw||inline|Days of Style 2023 Trailer}}
+
+During the event, fashion-themed [[Premium Candle Shop|IAPs]] were available from the in-game shop and the Style Guide offered various cosmetics from their Friendship Tree. Free [[Spells]] to try all of these items could also be collected from the [[Spell Shops#Sleepy Traveler's Boat|Sleepy Traveler's boat]].
+{{Clear}}
+
+===Runway Locations and Themes===
+{| class="fandom-table"
+!Date!!Location!!Theme
+|-
+|October 2 - 3||[[Hermit Valley]]||'''Alpine Fireside''' - Design a cozy wintertime outfit.
+|-
+|October 4 - 5||[[Battlefield]] ||'''Light Creature or Dark Creature''' - Create an outfit that honors a Sky creature.
+|-
+|October 6 - 7||[[Bird Nest]]||'''Ancestor Appreciation''' - Let the fashion of your elders inspire you. 
+|-
+|October 8 - 9||[[Forest Clearing]]||'''Lost in the Hidden Forest''' - Choose a look that makes you feel at home among trees.
+|-
+|October 10 - 11||[[Elevated Clearing]]||'''Tea Time At Grandma's''' - You're invited! Dress up for a splendid afternoon.
+|-
+|October 12 - 13|| [[Vault of Knowledge#The Summit|Vault Summit]]||'''Evening Glamour''' - Sparkle and shine on the runway!
+|-
+|October 14 - 15||[[Eye of Eden|Wind and Rocks]]||'''Chaotic Combinations''' - Bust out your wackiest outfit pairings!
+|}
+
+<gallery widths="200px">
+Days-of-Style-2023-Style-Guide-mimi4117-sam6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & mimi4117
+Days-of-Style-2023-Valley-Tickets-mimi4117-sam6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & mimi4117
+Days-of-Style-2023-Wasteland-Tickets-mimi4117-sam6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & mimi4117
+Days-of-Style-2023-Prairie-Tickets-mimi4117-sam6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & mimi4117
+Days-of-Style-2023-Forest-Clearing-Tickets-mimi4117-sam6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & mimi4117
+Days-of-Style-2023-Forest-Elevated-Clearing-Tickets-mimi4117-sam6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & mimi4117
+Days-of-Style-2023-Vault-Tickets-mimi4117-sam6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & mimi4117
+Days-of-Style-2023-Eden-Tickets-mimi4117-sam6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & mimi4117
+</gallery>
+
+===Ticket Locations===
+[[File:Days-of-Style-Tophat-Ticket.png|125px|thumb|A Days of Style top hat Ticket]]
+A total of {{Cost|5 T|event=style}} top hat-shaped Tickets were available each day:
+*{{Cost|4 T|event=style}} hidden within the vicinity of the runway
+*{{Cost|1 T|event=style}} from watching another player's runway Shared Memory
+
+Players could also buy additional Tickets (costing {{Cost|2 AC}} or {{Cost|6 C}} each) from the [[Spell Shops#Sleepy Traveler's Boat|Sleepy Traveler's boat]] at Home.
+{{Friendship Tree
+|label  = Style Guide
+|event = Style
+|image = Days of Style Guide 2023.png
+
+|nodeC3 = {{Icon Name|Style Silk Ballet Slippers|icon}} 18 T
+|  labelC3 = {{Icon Name|Style Silk Ballet Slippers|name}}
+|  linkC3  = Days of Style#{{Icon Name|Style Silk Ballet Slippers|name}}
+
+|nodeL2 = {{Icon Name|Style Star Sunglasses|icon}} 14 T
+|  labelL2 = {{Icon Name|Style Star Sunglasses|name}}
+|  linkL2 = Days of Style#Style Star {{Icon Name|Style Star Sunglasses|name}}
+|nodeC2 = spell5 
+|  labelC2 = Spell
+|  linkC2  = Spells
+
+|nodeR1 = {{Icon Name|Runway Makeup Mask|icon}} 8 T
+|  labelR1 = {{Icon Name|Runway Makeup Mask|name}}
+|  linkR1 = Days of Style#{{Icon Name|Runway Makeup Mask|name}}
+|nodeL1 = {{Icon Name|Style Top Hat|icon}} 10 T
+|  labelL1 = {{Icon Name|Style Top Hat|name}}
+|  linkL1 = Days of Style#{{Icon Name|Style Top Hat|name}}
+|nodeC1 = spell5 
+|  labelC1 = Spell
+|  linkC1 = Spells
+}}
+{{Clear}}
+
+===2023 New Cosmetics and Props===
+====Style Wide-Leg Jeans====
+::'''''"Stitched to accentuate your unique sense of expression."''''' 
+The Style Wide-Leg Jeans are a pair of baggy blue jeans and a layered pale top. This [[Outfit]] was introduced in 2023 for {{Cost|9.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.
+{{#tag:gallery
+|{{Icon Name|Style Wide-Leg Jeans|iap}} {{!}} {{Icon Name|Style Wide-Leg Jeans|name}} IAP
+{{Icon Name|Style Wide-Leg Jeans|icon}} {{!}} {{Icon Name|Style Wide-Leg Jeans|name}} icon
+{{Icon Name|Style Wide-Leg Jeans|real}} {{!}} {{Icon Name|Style Wide-Leg Jeans|name}} front
+{{Icon Name|Style Wide-Leg Jeans|back}} {{!}} {{Icon Name|Style Wide-Leg Jeans|name}} back
+{{Icon Name|Style Wide-Leg Jeans|spell}} {{!}} {{Icon Name|Style Wide-Leg Jeans|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Style Bunny Slippers====
+::'''''"Hop into cozy comfort."''''' 
+The Style Bunny Slippers are a pair of pink slippers with bunny ears and a fuzzy white tail on top.  These [[Shoes]] were introduced in 2023 for {{Cost|6.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.
+{{#tag:gallery
+|{{Icon Name|Style Bunny Slippers|iap}} {{!}} {{Icon Name|Style Bunny Slippers|name}} IAP
+{{Icon Name|Style Bunny Slippers|icon}} {{!}} {{Icon Name|Style Bunny Slippers|name}} icon
+{{Icon Name|Style Bunny Slippers|real}} {{!}} {{Icon Name|Style Bunny Slippers|name}}
+{{Icon Name|Style Bunny Slippers|spell}} {{!}} {{Icon Name|Style Bunny Slippers|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Style Heart Sunglasses====
+:: '''''"See the world with love through these purple-tinted lenses."'''''
+The Style Heart Sunglasses are a pair of heart-shaped sunglasses with transparent pink and blue gradient lenses. This [[Face Accessory]] was introduced in 2023 for {{Cost|4.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event. When activated, it applies a purple tint to the game.
+{{#tag:gallery
+|{{Icon Name|Style Heart Sunglasses|iap}} {{!}} {{Icon Name|Style Heart Sunglasses|name}} IAP
+{{Icon Name|Style Heart Sunglasses|icon}} {{!}} {{Icon Name|Style Heart Sunglasses|name}} icon
+{{Icon Name|Style Heart Sunglasses|real}} {{!}} {{Icon Name|Style Heart Sunglasses|name}}
+{{Icon Name|Style Heart Sunglasses|spell}} {{!}} {{Icon Name|Style Heart Sunglasses|name}} Spell icon
+Style-Heart-Glasses-Tint.png {{!}} Style Heart Sunglasses purple tint
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Style Flame Sunglasses====
+::'''''"Everything is lit peering through these orange-tinted lenses."'''''
+The Style Flame Sunglasses are a pair of flame-shaped sunglasses with opaque orange lenses. This [[Face Accessory]] was introduced in 2023 for {{Cost|2.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event. When activated, it applies an orange tint to the game.
+{{#tag:gallery
+|{{Icon Name|Style Flame Sunglasses|iap}} {{!}} {{Icon Name|Style Flame Sunglasses|name}} IAP
+{{Icon Name|Style Flame Sunglasses|icon}} {{!}} {{Icon Name|Style Flame Sunglasses|name}} icon
+{{Icon Name|Style Flame Sunglasses|real}} {{!}} {{Icon Name|Style Flame Sunglasses|name}}
+{{Icon Name|Style Flame Sunglasses|spell}} {{!}} {{Icon Name|Style Flame Sunglasses|name}} Spell icon
+Style-Flame-Glasses-Tint.png {{!}} Style Flame Sunglasses orange tint
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Style Star Sunglasses==== 
+The Style Star Sunglasses are a pair of star-shaped sunglasses with opaque blue lenses. This [[Face Accessory]] was introduced in 2023 for {{Cost|14 T|event=Style}} from the Style Guide for the duration of the event. When activated, it applies a blue tint to the game.
+{{#tag:gallery
+|{{Icon Name|Style Star Sunglasses|icon}} {{!}} {{Icon Name|Style Star Sunglasses|name}} icon
+{{Icon Name|Style Star Sunglasses|real}} {{!}} {{Icon Name|Style Star Sunglasses|name}}
+{{Icon Name|Style Star Sunglasses|spell}} {{!}} {{Icon Name|Style Star Sunglasses|name}} Spell icon
+Style-Star-Glasses-Tint.png {{!}} Style Star Sunglasses blue tint
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Style Silk Ballet Slippers====
+The Style Silk Ballet Slippers are a pair of white ballet slippers with ribbon laces. These [[Shoes]] were introduced in 2023 for {{Cost|18 T|event=Style}} from the Style Guide for the duration of the event.
+{{#tag:gallery
+|{{Icon Name|Style Silk Ballet Slippers|icon}} {{!}} {{Icon Name|Style Silk Ballet Slippers|name}} icon
+{{Icon Name|Style Silk Ballet Slippers|real}} {{!}} {{Icon Name|Style Silk Ballet Slippers|name}}
+{{Icon Name|Style Silk Ballet Slippers|spell}} {{!}} {{Icon Name|Style Silk Ballet Slippers|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Style Top Hat====
+The Style Top Hat is a plum colored top hat with a pink band. This [[Hair Accessory]] was introduced in 2023 for {{Cost|10 T|event=Style}} from the Style Guide for the duration of the event. 
+{{#tag:gallery
+|{{Icon Name|Style Top Hat|icon}} {{!}} {{Icon Name|Style Top Hat|name}} icon
+{{Icon Name|Style Top Hat|real}} {{!}} {{Icon Name|Style Top Hat|name}}
+{{Icon Name|Style Top Hat|spell}} {{!}} {{Icon Name|Style Top Hat|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Style Runway Makeup Mask ====
+The Style Runway Makeup Mask is a dark mask with colorful sparkle accents and winged eyeshadow. This [[Mask]] was introduced in 2023 for {{Cost|8 T|event=Style}} from the Style Guide for the duration of the event.
+{{#tag:gallery
+|{{Icon Name|Style Runway Makeup Mask|icon}} {{!}} {{Icon Name|Style Runway Makeup Mask|name}} icon
+{{Icon Name|Style Runway Makeup Mask|real}} {{!}} {{Icon Name|Style Runway Makeup Mask|name}}
+{{Icon Name|Style Runway Makeup Mask|spell}} {{!}} {{Icon Name|Style Runway Makeup Mask|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+{{Clear}}
+
+==Trivia==
+* In [[Sky Beta|Beta]], the [[#Style Silk Ballet Slippers|Style Silk Ballet Slippers]] were originally an [[IAP]] item. Their description in-game was: '''''"Lace up to take point on stage in these elegant ballet shoes"'''''.
+* In [[Sky Beta|Beta]], the [[#Style Star Sunglasses|Style Star Sunglasses]] were originally an [[IAP]] item. Their description in-game was: '''''"Gaze with starry-eyed wonder through these blue-tinted lenses."''''' 
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+DoStyle-2024-Suit-Trio-promo-image.png|2024 Promo image
+DoStyle-2024-Runway-promo-image.png|2024 Promo image
+DoStyle-2024-Ticket-Wax-promo-image.png|2024 Promo image
+DoStyle-2024-Skykids-promo-image.png|2024 Promo image
+DoStyle-2024-Closet-promo-image.png|2024 Promo image
+DoStyle-2023-Runway-promo-image.png|2023 Promo image
+DoStyle-2023-Ticket-promo-image.png|2023 Promo image
+DoStyle-2023-Cosmetics-promo-image.png|2023 Promo image
+</gallery>
+
+==References==
+'''More information about Days of Style 2024 can be found on [https://www.thatskygame.com/news/express-your-creativity-with-days-of-style-2024/ ThatSkyGame's Website].'''
+<br>'''More information about Days of Style 2023 can be found on [https://www.thatskygame.com/news/share-your-creative-side-with-days-of-style ThatSkyGame's Website].'''
+<references />
+
+{{Holiday Navbox}}
+
+[[fr:Jours du Style]]
+[[pt-br:Dias de Estilo]]
+[[ja:お洒落な日々]]
+[[de:Tage des Stils]]
+
+[[Category:Days of Style]]
+[[Category:Events]]
+[[Category:Recurring Events]]
+
+{{DEFAULTSORT:Style, Days of}}

@@ -1,0 +1,172 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Assembly-Spirit-Baffled-Botanist.png|Standard
+Assembly-Spirit-Baffled-Botanist-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Mask|infobox}}{{Spirit Item||Hair|infobox}}
+|props     = {{Spirit Item||Prop|infobox}}
+|season    = Assembly
+|realm     = Hidden Forest
+|location  = Forest Clearing
+|ts        = September 26, 2024 (#123)<br>March 6, 2023 (SV#1)<br>January 05, 2023 (#78)
+}}
+<section begin="Summary" />The '''Baffled Botanist''' is a [[Seasonal Spirit]] from the [[Season of Assembly]] who offers the {{Emote|Baffled Botanist|inline_text}} Expression. The Baffled Botanist is found in the [[Hidden Forest]], in the third area of the [[Forest Clearing]], behind the first treehouse on the player's left-handed side upon entering. The collectibles [[#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Baffled Botanist|Mask|inline_text}}, a {{Spirit Item|Baffled Botanist|Hair|inline_text}}, and a {{Spirit Item|Baffled Botanist|Prop|label=Spotlight Prop|inline_text}}.<section end="Summary" />
+
+== Memory ==
+<div>{{#ev:youtube|ESYM7mzrZv8||inline|Video Guide}}
+
+The Baffled Botanist can be found in the [[Hidden Forest]], in the third area of the [[Forest Clearing]], behind the first treehouse on the player's left-handed side upon entering. This Spirit has a [[Standard Memory|standard memory]] with 7 memory fragments and a 15-minute overall [[Timed Memory|time limit]].<br>
+<br>
+The second and fifth memory fragments are exposed to the [[Seasonal Spirits#Spirit Health|polluted rain]], so players should hurry with reliving them. 
+
+As their memory unfolds, the Baffled Botanist can be seen carrying a heavy lantern from the bottom of the treehouse, up the stairs, and onto a bookshelf located on the top platform. Once done, they go down again,  pick up another lantern, and bring it up the stairs. Unfortunately, they drop the lantern off the top platform. 
+
+At the end of the memory, the Baffled Botanist looks from the treehouse down to the [[Scolding Student]], which stands next to the broken lantern, which makes the Botanist slam their palm against their forehead and shake their head in dismay.<br>
+<br>
+[[File:02 HF Seasonal Spirit - Baffled Botanist.png|200px|thumb|none|Relive the Baffled Botanist's memory]]
+</div>
+{{Clear}}
+
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Baffled-Botanist-facepalm-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Baffled-Botanist-facepalm-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Baffled-Botanist-facepalm-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Baffled-Botanist-facepalm-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+* Level 1 will make your avatar look up slightly before slamming their right hand on their forehead and shaking their head while letting it gradually fall, the hand still on their forehead, while a single cymbal sound effect plays.
+* Level 2 makes the same motion as Level 1, with a blue trail of light following the motion of your avatar's hand as they slam it against their head, as well as a red symbol portraying a popped vein appearing near the head.
+* Level 3 will make your avatar slam both their hands to their forehead while letting their head fall behind, before letting their hands slide downwards over their face and quickly snapping their head back up, while a series of cymbal sound effects play.
+* Level 4 makes the same motion as Level 3, with white sparkles bursting from the impact of your avatar's hands on their face.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+== Cosmetics==
+=== Mask ===
+The [[Mask]] offered by this Spirit is round and stone-gray, with a single yellow teardrop shape placed under the right eye, costing {{Cost|24 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fourth node ({{Cost|36 SC|season=Assembly}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Hair ===
+The [[Hair]] offered by this Spirit is a short choppy hairstyle with bangs hanging into and over the face as if they've been swept in direction by the wind, costing {{Cost|45 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|10 SC|season=Assembly}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Prop ===
+The [[Prop]] offered by this Spirit is a grey spotlight with yellow accents, costing {{Cost|45 C}} from the Traveling Spirit. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. It produces a beam of light, illuminating whatever it points at. When carried on its owner's back, it appears in its original form. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fifth node ({{Cost|52 SC|season=Assembly}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Prop|icon}} {{!}} The Prop icon
+{{Icon Name||Prop|real}} {{!}} The Prop
+{{Icon Name||Prop|held}} {{!}} The Prop in use
+{{Icon Name||Prop|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Traveling Spirit ==
+{{Friendship Tree Info 
+| traveling 
+| ts_dates=*September 26, 2024 (#123)
+*January 05, 2023 (#78)
+| rs_dates=*March 6, 2023 (SV#1)}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Baffled Botanist
+|image  = Baffled Botanist Sprite.png
+|season = Assembly
+
+|nodeC6 = Prop 45 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeR4 = Hair 45 C
+|nodeC3 = wing 2 AC
+|nodeR2 = Heart 3 C
+|nodeL2 = Mask 24 C
+|nodeC2 = spell5
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+The hints given before the [[Baffled Botanist]]'s first appearance were: 
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=First Visit Hints
+|content=<div>
+* Wants to know how exactly the inner workings of objects function
+* Doesn't like it when their plan goes awry
+* Absolutely hates being pranked
+* Has their own system for organization
+*Likes to craft
+*Is awkward around new friends
+*Is fascinated by technology
+*Collects interesting shaped leaves they find
+*Enjoys sour foods
+*Cares about their appearance
+*Doesn't realize they're still a bit naive
+*Can't help but to correct you when you're wrong
+*Hates getting dirty
+*Is a very good cook!
+*Is afraid of Sky Crabs (They WILL scream)
+*Often trips over their own feet
+*Doesn't know how to do a perfect dive into the water
+*[wes] Knows where it is, because it knows where it isn't
+</div>
+}}
+{{Clear}}
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Assembly}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Baffled Botanist
+|image  = Baffled Botanist Sprite.png
+|type   = season
+|season = Assembly
+
+|nodeC6 = season_heart 3 SC SP
+|nodeL5 = Prop SP
+|nodeC5 = spell5 16 SC
+|nodeL4 = spell5 SP
+|nodeC4 = Mask 14 SC
+|nodeL3 = emote4 SP
+|nodeC3 = emote3 12 SC
+|nodeL2 = Hair SP
+|nodeC2 = spell5 10 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Image Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Faceplam.jpg
+season of assembly shoot baffled expression.png
+season of assembly shoot group baffled.png
+</gallery>
+
+==Video Gallery==
+{{#ev:youtube|dma3nf-wZcs|175|inline|Video Guide by Tara}}
+
+==References==
+<references />
+
+[[de:Überraschte Botanikerin]]
+[[fr:Botaniste perplexe]]
+[[pt-br:Botanista Boquiaberto]]
+[[ru:Растерянная травница]]
+[[ja:とまどう植物学者]]

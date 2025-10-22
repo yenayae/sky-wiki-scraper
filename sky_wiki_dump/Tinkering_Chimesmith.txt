@@ -1,0 +1,183 @@
+{{Spirit Infobox
+|type      = Seasonal
+|image     = <gallery>
+Flight-Spirit-Tinkering-Chimesmith.png|Standard
+Flight-Spirit-Tinkering-Chimesmith-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Outfit|infobox}}{{Spirit Item||Hair|infobox}}{{Spirit Item||Hairpiece|infobox}}
+|instruments = {{Spirit Item||Instrument|infobox}}
+|season    = Flight
+|realm     = Hidden Forest
+|location  = Wind Paths
+|ts        = Aug 14, 2025 (#146)<br>May 11, 2023 (#87)
+}}
+<section begin="Summary" />The '''Tinkering Chimesmith''' is a [[Seasonal Spirit]] from the [[Season of Flight]] who offers the {{Emote|Tinkering Chimesmith|inline_text}}. The Tinkering Chimesmith is found in the [[Wind Paths]], on a set of stone steps on the main island, next to the [[Flight Guide]]. The collectibles [[#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Tinkering Chimesmith|Outfit|inline_text}}, a {{Spirit Item|Tinkering Chimesmith|Hair|inline_text}}, a {{Spirit Item|Tinkering Chimesmith|Hairpiece|inline_text}}, and the {{Spirit Item|Tinkering Chimesmith|Instrument|label=Kalimba Instrument|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:AP12_Chimesmith-SpiritReveal.png|thumb|320px|none|TGC's Promo image]]
+
+==Memory==
+<div>{{#ev:youtube|ddTD2kkI5f8||inline|Video Guide}}
+
+The Tinkering Chimesmith can be found in the [[Wind Paths]], on a set of stone steps on the main island, next to the [[Flight Guide]]. When entering from the area's main entrance, let yourself be guided by the wind and fly straight until you arrive at the main island. Your landing point should be at or near the bottom of a set of stone steps near the Flight Guide, at the top of which the Tinkering Chimesmith can be found. This Spirit has a [[Standard Memory|standard memory]] with 10 memory fragments and a 15-minute overall [[Timed Memory|time limit]]. 
+
+As their memory unfolds, the Tinkering Chimesmith can be seen climbing up the stone steps, hanging chimes from each stone arch on their way up the mountain. On the second arch, they drop their hammer while hanging the wind chimes but they continue their work and travel on upwards, where they reach the top of the mountain, which holds a big stone arch. The Spirit pauses at the foot of the stone arch and uses their hands to measure where they want their bells to hang from. Once their work is finally - and successfully - done, the Chimesmith stores their tool on a [[Manta]]-driven boat and boards it, before taking off in direction of another, smaller island, not far away. This island, which is positioned at a higher altitude than the [[Talented Builder]]'s neighboring island, is home to their workshop, where they are seen pondering their work and curling up next to their worktable. After a little rest, the Spirit continues their work by tinkering with the chimes hanging from the pillars supporting their little abode and observing them from below.
+
+At the end of the memory, the Tinkering Chimesmith stands beneath the wind chimes hanging in their workshop, which clank and ring against one another, creating a beautiful melody. Lost in thought, the Spirit observes the chimes while enjoying the wonderful sounds.<br>
+<br>
+[[File:02 HF Seasonal Spirit - Tinkering Chimesmith.jpg|200px|thumb|none|Relive the Tinkering Chimesmith's memory]]
+</div>
+{{Clear}}
+
+==<span id="Expression">Stance</span>==
+The Tinkering Chimesmith offers the {{Emote||inline_text}}. The Stance will affect your avatar's position when standing, kneeling, sitting, and lying down. 
+
+{{#tag:gallery
+|{{Icon Name||emote}}
+Tinkering-Chimesmith-tinker-stance-emote.gif {{!}} {{Icon Name||emote_name}}
+season of flight tinkering chimesmith stance.png {{!}} {{Icon Name||emote_name}} (Standing)
+season of flight tinkering chimesmith sit 1.png {{!}} {{Icon Name||emote_name}} (Kneeling)
+season of flight tinkering chimesmith sit 2.png {{!}} {{Icon Name||emote_name}} (Sitting)
+season of flight tinkering chimesmith sit 3.png {{!}} {{Icon Name||emote_name}} (Lying Down)
+|heights=170px|captionalign=center|spacing=small
+}}
+
+*Standing will make your avatar raise their arms close to their chest, their hands loosely hanging downwards, and point their feet inwards.
+*Kneeling will make your avatar crouch down, supported by their toes, with their hands placed over their knees while leaning forward.
+*Sitting will make your avatar sit criss-cross, with their head bowed and legs folded over one another, and with their hands placed on their knees.
+*Lying down will make your avatar lay on their left side with their hands pressed together under their head and their legs bent, one of which is propped up slightly more than the other one laying on the ground.
+
+== Cosmetics ==
+=== Outfit ===
+The [[Outfit]] offered by this Spirit includes an orange top with mid-length sleeves and beige details, a yellow apron with orange details, tied with a blue string around the waist, yellow pants with an arrow-shaped blue line near the bottom, and simple orange boots with yellow cuffs, costing {{Cost|70 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|16 SC|season=Flight}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Outfit|icon}} {{!}} The Outfit icon
+{{Icon Name||Outfit|real}} {{!}} The Outfit front
+{{Icon Name||Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Hair ===
+The [[Hair]] offered by this Spirit consists of thick, fluffy hair that drapes down past the shoulders, with the top section of the hair tied back in a small ponytail with a broad blue band, and one ponytail in the front on each side, tied by broad blue hair bands, costing {{Cost|45 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's second node ({{Cost|12 SC|season=Flight}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== <span id="Hairpiece">Hair Accessory</span> ===
+The [[Hair Accessory]] offered by this Spirit is a set of two white-, blue-, and yellow-colored feathers of two different sizes, clipped together on the left side of the head, costing {{Cost|35 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's third node ({{Cost|38 SC|season=Flight}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hairpiece|icon}} {{!}} The Hair Accessory icon
+{{Icon Name||Hairpiece|real}} {{!}} The Hair Accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Instrument ===
+The [[Instrument]] offered by this Spirit is the '''Kalimba''', costing {{Cost|75 C}} from the Traveling Spirit. It is shaped like a chime or bell, with a white body, golden keys, and blue and gold accents. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|64 SC|season=Flight}} total). The player kneels while playing the Instrument, which plays 15 notes.
+
+The Kalimba plays the melody [[Music Sheet Parts|part]] on Music Sheets. Its [[Instrument Pitch|pitch]] is the same as the standard {{Spirit Item|Cheerful Spectator|Instrument|inline_text}} (in C major, it covers C<sub>4</sub> to C<sub>6</sub>).
+
+In [[Harmony Hall]], the Kalimba can be found on the back wall, behind and to the left of the front counter, next to the alcove containing the two pianos.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Instrument|icon}} {{!}} The Instrument icon
+{{Icon Name||Instrument|real}} {{!}} The Instrument
+{{Icon Name||Instrument|held}} {{!}} Playing the Instrument
+{{Icon Name||Instrument|back}} {{!}} The Instrument on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling|ts_dates= 
+*Aug 14, 2025 (#146)
+*May 11, 2023 (#87)}}
+<section begin='TS Friendship Tree' />{{Friendship Tree
+|spirit = Tinkering Chimesmith
+|image  =  Flight-Spirit-Tinkering-Chimesmith.png 
+|season = Flight
+
+|nodeC5 = Instrument 75 C
+|nodeL4 = Hairpiece 35 C
+|nodeC4 = spell5
+|nodeR4 = Outfit 70 C
+|nodeC3 = wing
+|nodeL2 = Hair 45 C
+|nodeC2 = spell5
+|nodeR2 = Heart 3 C
+|nodeC1 = emote
+}}<section end='TS Friendship Tree' />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+The hints given before the [[Tinkering Chimesmith]]'s first appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=First Visit Hints
+|content=<div>
+* Once went on an important journey
+* Their favorite snack is kinako mochi
+* Is a terrible liar
+* Often loses track of time
+* Likes to raise light insects 
+* Makes toys in their spare time
+* Has perfect pitch
+* Has their boaters license
+* Dreams of having a garden of rare wildflowers
+* [emily] Is [redacted, sorry T_T]!!
+* [emily] Is [insert totally random trivia here]
+* [wes] Is Emily (2D/UI Artist)
+* [wes] Keeps their desk clean at all times
+* [tio] Is still a secret 
+* [tio] Will be announced in 25 minutes... Or 30... I'm convincible though.
+* [emily] Is coming soon so hold on tight
+</div>
+}}
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Flight}}<section begin="Season Friendship Tree" />
+{{Friendship Tree
+|spirit = Tinkering Chimesmith
+|image  =  Flight-Spirit-Tinkering-Chimesmith.png 
+|type   = season
+|season = Flight
+
+|nodeC6 = season_heart 3 SC SP
+|nodeL5 = trail_spell SP
+|nodeC5 = Hair 28 SC
+|nodeL4 = Instrument SP
+|nodeC4 = trail_spell 26 SC
+|nodeL3 = spell5 SP
+|nodeC3 = Hairpiece 22 SC
+|nodeL2 = Outfit SP
+|nodeC2 = spell5 16 SC
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Unique Daily Quests==
+{{#section-h:Quests/Daily Quest Spirits|{{PAGENAME}}}}
+
+== Personality ==
+On September 29 2021, TGC officially announced <ref name="Personality Tweet">https://twitter.com/thatskygame/status/1443372521349390339</ref> and introduced {{PAGENAME}} with the following personality traits:
+* Draws in Light creatures
+*☁️ In tune with creature migration
+*⚒️ They work in tandem with the Talented Builder
+*🎐 Chimes require dexterity to craft—creatures only respond to specific tones!
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Season_of_flight_tinkering_chimesmith_plays_kalimba.png
+season of flight spirit map tinkering chimesmith.png
+</gallery>
+
+==References==
+<references />
+
+[[fr:Carillonneuse bricoleuse]]
+[[de:Glockenspielschmiedin]]
+[[pt-br:Forjadora de Sinos]]
+[[ru:Мастерица колокольных дел]]
+[[ja:工夫好きの風鈴職人]]

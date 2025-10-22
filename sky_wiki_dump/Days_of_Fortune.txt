@@ -1,0 +1,1068 @@
+{{SkyEvent
+| image = Days-of-Fortune-promo-image-2025.png
+| previousevent = [[Days of Feast]]
+| nextevent = [[Days of Love]]
+| date = January 27 to February 9, 2025
+}}
+'''Days of Fortune''' is an annual event celebrating the traditions of the Lunar New Year festival that happens around the end of January and spans over the following 14 days.
+
+During the two-week event, a brightly lit pier appears at the edge of the water in [[Home]] with Spirits from a past [[Seasonal Events|Season]] offering {{Icon|Icon_high_five.png|inline_text|label=High Fives|link=Friendship Menu#High Five}} and other Friend Actions to passing players. In addition to a number of firework shows, a special stone Dragon that drops [[Pieces of Light|Light]] to appears in Home for 8 minutes starting at the beginning of every even hour PST (UTC-8). The [[Secret Area]] is also open to everybody during this event, allowing players to enjoy its skating rink on the building's rooftop.
+
+Lunar New Year-themed [[Premium Candle Shop|IAPs]] are available from the in-game shop, and the Auspicious Visitor and Days of Fortune Event Staff offer various cosmetics from their Friendship Trees. Free [[Spells]] to try all of these items can also be collected from the [[Spell Shops#Sleepy_Traveler's_Boat|Sleepy Traveler's boat]] and the present box on the roof of the Secret Area.
+
+''For the occasion, a special gifting node shaped like an envelope {{Icon|Gift-5-hearts.png|link=|label=Fortune Gift Envelope}} also appears in the [[Friendship Menu]] of friends with whom a player has the {{Emote|Piggyback Lightseeker|inline_text}} unlocked, allowing you to gift them 5 [[Currency#Hearts|Hearts]] for {{Cost|14 C}} by meeting up in-game. The Fortune Gift Envelope can be given once a day per person, like regular Heart gifts and can be given in addition to regular Heart gifts, meaning players can send a maximum of 6 Hearts per day per friend.''
+
+==January 2025<span id="2025"></span>==
+{{#ev:youtube|vdd3SaRlodk||right|Days of Fortune 2025 Trailer}}
+Days of Fortune was back for a sixth year! The event began on '''Monday, January 27, 2025 at 00:00 PST (UTC-8)''' and ended on '''Sunday, February 9, 2025 at 23:59 PST (UTC-8)''', lasting '''14''' days. For the duration of the event, the Auspicious Visitor arrived at [[Home]] and in the [[Aviary Village]], offering to teleport players to the center of this year's action in the [[Valley of Triumph#Ice Rink Slope|Valley of Triumph's Ice Rink]].
+
+Spirits from the [[Season of Prophecy]] returned to celebrate, and brought a new minigame with them! Meditating at the middle of the Ice Rink activated the Snake Game, launching players into the sky above. Collecting the floating yellow lanterns granted Event Ticket Light, and after collecting 5 Tickets worth of lanterns, players would be given a red [[Spells#Trail Spells|Trail Spell]]. After starting the Snake Game, night fell across the Ice Rink. A mysterious snake head also appeared. It circled around the event area, leaving a trail of colorful [[Pieces of Light]] behind, until disappearing after some time.
+
+Alongside the familiar Spirits, the felicitous dragon friend returned to share Light, and they were floating in the air regardless of what time players visited them. Players could also transform into a dragon chain with fellow Sky kids once again. And the [[Secret Area]] accessible from the ground floor of [[Vault of Knowledge]] was also open to all.<br>
+
+For players wanting to gift something special to their friends, the Fortune Gift Envelope was made available during the event. This special gifting node shaped like an envelope {{Icon|Gift-5-hearts.png|link=|label=Fortune Gift Envelope}} appeared in the [[Friendship Menu]] of friends with whom a player had the {{Emote|Piggyback Lightseeker|inline_text}} unlocked, allowing them to gift their friends 5 [[Currency#Hearts|Hearts]] for {{Cost|14 C}} by meeting up in-game. The Fortune Gift Envelope could be given once a day per person, like regular Heart gifts, and could also be given in addition to regular Heart gifts, meaning that players could send a maximum of 6 Hearts per day per friend.
+
+===Ticket Locations===
+[[File:Days-of-Fortune-Coin-Ticket.png|125px|thumb|A Days of Fortune coin Ticket]]
+A total of {{Cost|5 T|event=fortune}} Event Tickets could be forged by participating in the Snake Game each day.
+
+In addition, bonus {{Cost|15 T|event=fortune}} one-time Event Tickets shaped like golden coins were hidden throughout the [[Valley_of_Triumph#Ice_Rink_Slope|Ice Rink]]. They could be collected at any time during the event. 
+
+<gallery widths="300px" captionalign="center" position="left">
+File:Days-of-Fortune-2024-Ticket-Locations .png|Ticket locations by Kion_Anzu
+</gallery>
+
+
+Players could also buy additional Tickets (costing {{Cost|2 AC}} or {{Cost|6 C}} each) from the mini Spell Shop on the platform in the middle of the Ice Rink.
+{{Friendship Tree
+|label  = Auspicious Visitor
+|event = Fortune
+|image = Gratitude-Guide-Spirit.png
+
+|nodeC6 = Red-dye-container-icon.png 10 T
+|  labelC6  = Red Dye
+|  linkC6  = Dyes
+|  noteC6 = ×3
+
+|nodeL5 = {{Icon Name|Lion Headdress|icon}} 66 C
+|  labelL5 = {{Icon Name|Lion Headdress|name}}
+|  linkL5 = Days of Fortune#{{Icon Name|Lion Headdress|name}}
+|nodeC5 = spell5
+|  labelC5 = Spell
+|  linkC5 = Spells
+
+|nodeL4 = {{Icon Name|Tiger Mask|icon}} 58 C
+|  labelL4 = {{Icon Name|Tiger Mask|name}}
+|  linkL4 = Days of Fortune#{{Icon Name|Tiger Mask|name}}
+|nodeR4 = {{Icon Name|Bull Mask|icon}} 56 C
+|  labelR4 = {{Icon Name|Bull Mask|name}}
+|  linkR4 = Days of Fortune#{{Icon Name|Bull Mask|name}}
+|nodeC4 = spell5
+|  labelC4 = Spell
+|  linkC4 = Spells
+
+|nodeL3 = {{Icon Name|Fortune Drum|icon}} 36 H
+|  labelL3 = {{Icon Name|Fortune Drum|name}}
+|  linkL3  = Days of Fortune#{{Icon Name|Fortune Drum|name}}
+|nodeR3= {{Icon Name|Rabbit Mask|icon}} 62 C
+|  labelR3 = {{Icon Name|Rabbit Mask|name}}
+|  linkR3 = Days of Fortune#{{Icon Name|Rabbit Mask|name}}
+|nodeC3 = spell5
+|  labelC3 = Spell
+|  linkC3 = Spells
+
+|nodeR2 = {{Icon Name|Dragon Mask|icon}} 57 C
+|  labelR2 = {{Icon Name|Dragon Mask|name}}
+|  linkR2  = Days of Fortune#{{Icon Name|Dragon Mask|name}}
+|nodeL2 = {{Icon Name|Fortune Snake Pants|icon}} 36 T
+|  labelL2 = {{Icon Name|Fortune Snake Pants|name}}
+|  linkL2  = Days of Fortune#{{Icon Name|Fortune Snake Pants|name}}
+|nodeC2 = spell5
+|  labelC2 = Spell
+|  linkC2 = Spells
+
+|nodeL1 = {{Icon Name|Fortune Snake Mask|icon}} 14 T
+|  labelL1 = {{Icon Name|Fortune Snake Mask|name}}
+|  linkL1  = Days of Fortune#{{Icon Name|Fortune Snake Mask|name}}
+|nodeR1 = music 8 T
+|  labelR1  = Dragon Dance Music Sheet
+|  linkR1  = Days of Fortune#Dragon Dance Music Sheet
+|nodeC1 = Question-mark-Ray.png
+|  labelC1 = Opening Cutscene
+|  linkC1  = 
+}}{{Clear}}
+
+===<big>All Available Collectibles in 2025</big>===
+{| class="article-table"
+!Name
+!Icon
+!Type
+!Cost
+!Location
+!Spell
+!Spell Cost & Locations
+|-
+! colspan="7" style="text-align:center;" |From Days of Fortune 2025
+|-
+|-
+| rowspan="2" |[[Days of Fortune#Fortune Snake Coif and Cloak|Fortune Snake Coif and Cloak]]
+|{{Days Item|Fortune Snake Coif||table}}
+|[[Hair]]
+| rowspan="2" |{{Cost|19.99 USD|ref}}
+| rowspan="2" |<small>[[Premium Candle Shop]]</small>
+|{{Days Item|Fortune Snake Coif|spell|table}}<small>x3</small>
+| rowspan="2" |<small>Mini Spell Shop next to Prophecy Guide at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]] for free</small>
+|-
+|{{Days Item|Fortune Snake Cloak||table}}
+|[[Cape]]
+|{{Days Item|Fortune Snake Cloak|spell|table}}<small>x3</small>
+|-
+|[[Days of Fortune#{{Icon Name|Hand Fan|name}}|{{Icon Name|Hand Fan|name}}]]
+|{{Days Item|Hand Fan||table}}
+|[[Prop]]
+|{{Cost| 4.99 USD|ref}}
+|<small>[[Premium Candle Shop]]</small>
+|{{Days Item|Hand Fan|spell|table}}<small>x3</small>
+|<small>Mini Spell Shop next to Prophecy Guide at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]] for free</small>
+|-
+|[[Days of Fortune#{{Icon Name|Snake Pants|name}}|{{Icon Name|Snake Pants|name}}]]
+|{{Days Item|Snake Pants||table}}
+|[[Outfit]]
+|{{Cost|36 T|event=Fortune}}
+|<small>Auspicious Visitor at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]]</small>
+|{{Days Item|Snake Pants|spell|table}}<small>x3</small>
+|<small>Mini Spell Shop next to Prophecy Guide at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]] for free</small>
+|-
+|[[Days of Fortune#{{Icon Name|Snake Mask|name}}|{{Icon Name|Snake Mask|name}}]]
+|{{Days Item|Snake Mask||table}}
+|[[Mask]]
+|{{Cost|14 T|event=Fortune}}
+|<small>Auspicious Visitor at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]]</small>
+|{{Days Item|Snake Mask|spell|table}}<small>x3</small>
+|<small>Mini Spell Shop next to Prophecy Guide at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]] for free</small>
+|-
+|[[Days of Fortune#{{Icon Name|Fortune Vertical Poster|name}}|{{Icon Name|Fortune Vertical Poster|name}}]]
+|{{Days Item|Fortune Vertical Poster||table}}
+|[[Prop]]
+|{{Cost|5 C}}
+|<small>Mini Spell Shop next to Prophecy Guide at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]]</small>
+|
+|
+|-
+|[[Days of Fortune#{{Icon Name|Candle Flags|name}}|{{Icon Name|Candle Flags|name}}]]
+|{{Days Item|Candle Flags||table}}
+|[[Prop]]
+|{{Cost|10 C}}
+|<small>Mini Spell Shop next to Prophecy Guide at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]]</small>
+|
+|
+|-
+|[[Days of Fortune#{{Icon Name|Fortune Plant Prop|name}}|{{Icon Name|Fortune Plant Prop|name}}]]
+|{{Days Item|Fortune Plant Prop||table}}
+|[[Prop]]
+|{{Cost|20 C}}
+|<small>Mini Spell Shop next to Prophecy Guide at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]]</small>
+|
+|
+|-
+|[[Days of Fortune#Dragon Dance Music Sheet|Music Sheet - Dragon Dance Music Sheet]]
+|{{Music Sheet|E4|label=Music Sheet - Dragon Dance Music Sheet}}
+|[[Music Sheets|Music]]
+|{{Cost|8 T|event=Fortune}}
+|<small>Auspicious Visitor at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]]</small>
+|
+|
+|-
+|[[Blessings_(Spells)#Specific_Color_Dye_Blessing|Red Dye Blessing]] x3
+|{{Icon|Red-dye-container-icon-spell.png|table|label=Red Dye Blessing|in_page=1}}
+|[[Dyes]]
+|{{Cost|10 T|event=Fortune}}
+|<small>Auspicious Visitor at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]]</small>
+|
+|
+|-
+! colspan="7" style="text-align:center;" |From Days of Fortune 2024
+|-
+|-
+|[[Days of Fortune#{{Icon Name|Dragon Vestment|name}}|{{Icon Name|Dragon Vestment|name}}]]
+|{{Days Item|Dragon Vestment||table}}
+|[[Outfit]]
+|{{Cost| 9.99 USD|ref}}
+|<small>Mini IAP shop next to Prophecy Guide at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]]</small>
+|{{Days Item|Dragon Vestment|spell|table}}<small>x3</small>
+|<small>Mini Spell Shop next to Prophecy Guide at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]] for free</small>
+|-
+|[[Days of Fortune#{{Icon Name|Dragon Scarf|name}}|{{Icon Name|Dragon Scarf|name}}]]
+|{{Days Item|Dragon Scarf||table}}
+|[[Cape]]
+|{{Cost| 14.99 USD|ref}}
+|<small>Mini IAP shop next to Prophecy Guide at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]]</small>
+|{{Days Item|Dragon Scarf|spell|table}}<small>x3</small>
+|<small>Mini Spell Shop next to Prophecy Guide at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]] for free</small>
+|-
+|[[Days of Fortune#{{Icon Name|Dragon Bangles|name}}|{{Icon Name|Dragon Bangles|name}}]]
+|{{Days Item|Dragon Bangles||table}}
+|[[Head Accessory]]
+|{{Cost| 1.99 USD|ref}}
+|<small>Mini IAP shop next to Prophecy Guide at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]]</small>
+|{{Days Item|Dragon Bangles|spell|table}}<small>x3</small>
+|<small>Mini Spell Shop next to Prophecy Guide at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]] for free</small>
+|-
+|[[Days of Fortune#{{Icon Name|Dragon Mask|name}}|{{Icon Name|Dragon Mask|name}}]]
+|{{Days Item|Dragon Mask||table}}
+|[[Mask]]
+|{{Cost|57 C}}
+|<small>Auspicious Visitor at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]]</small>
+|{{Days Item|Dragon Mask|spell|table}}<small>x3</small>
+|<small>Mini Spell Shop next to Prophecy Guide at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]] for free</small>
+|-
+|[[Days of Fortune#{{Icon Name|Fortune Drum|name}}|{{Icon Name|Fortune Drum|name}}]]
+|{{Days Item|Fortune Drum||table}}
+|[[Instrument]]
+|{{Cost|36 H}}
+|<small>Auspicious Visitor at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]]</small>
+|{{Days Item|Fortune Drum|spell|table}}<small>x3</small>
+|<small>Mini Spell Shop next to Prophecy Guide at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]] for free</small>
+|-
+|[[Days of Fortune#Dragon Train Costume Spell|Dragon Train Costume Spell]]
+|
+|[[Spell]]
+|
+|
+|{{Icon|Fortune-Dragon-Train-Spell-icon.png|table|label=Fortune Dragon Train Spell|in_page=1}}
+|<small>Not collectible; only available at the platform in Valley's Ice Rink</small>
+|-
+! colspan="7" style="text-align:center;" |From Days of Fortune 2023
+|-
+|[[Days of Fortune#{{Icon Name|Enchanted Umbrella|name}}|{{Icon Name|Enchanted Umbrella|name}}]]
+|{{Days Item|Fortune Enchanted Umbrella||table}}
+|[[Prop]]
+|{{Cost|14.99 USD|ref}}
+|<small>Mini IAP shop next to Prophecy Guide at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]]</small>
+|{{Days Item|Fortune Enchanted Umbrella|spell|table}}<small>x3</small>
+|<small>Mini Spell Shop next to Prophecy Guide at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]] for free</small>
+|-
+|[[Days of Fortune#{{Icon Name|Smock|name}}|{{Icon Name|Smock|name}}]]
+|{{Days Item|Smock||table}}
+|[[Outfit]]
+|{{Cost|9.99 USD|ref}}
+|<small>Mini IAP shop next to Prophecy Guide at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]]</small>
+|{{Days Item|Smock|spell|table}}<small>x3</small>
+|<small>Mini Spell Shop next to Prophecy Guide at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]] for free</small>
+|-
+|[[Days of Fortune#{{Icon Name|Rabbit Mask|name}}|{{Icon Name|Rabbit Mask|name}}]]
+|{{Days Item|Rabbit Mask||table}}
+|[[Mask]]
+|{{Cost|62 C}}
+|<small>Auspicious Visitor at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]]</small>
+|{{Days Item|Rabbit Mask|spell|table}}<small>x3</small>
+|<small>Mini Spell Shop next to Prophecy Guide at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]] for free</small>
+|-
+|[[Days of Fortune#Days of Fortune Crab Fireworks Spell|Days of Fortune Crab Fireworks Spell]]
+|
+|[[Spell]]
+|
+|
+|{{Icon|Days-of-Fortune-Crab-Spell-Morybel-0146.png|table|label=Days of Fortune Crab Fireworks Spell|in_page=1}}<small>x5</small>
+|<small>Mini Spell Shop next to Prophecy Guide at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]] for {{Cost|5 C}}</small>
+|-
+|[[Days of Fortune#Days of Fortune Jellyfish Fireworks Spell|Days of Fortune Jellyfish Fireworks Spell]]
+|
+|[[Spell]]
+|
+|
+|{{Icon|Days-of-Fortune-Jellyfish-Spell-Morybel-0146.png|table|label=Days of Fortune Jellyfish Fireworks Spell|in_page=1}}<small>x5</small>
+|<small>Mini Spell Shop next to Prophecy Guide at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]] for {{Cost|5 C}}</small>
+|-
+|[[Days of Fortune#Days of Fortune Manta Fireworks Spell|Days of Fortune Manta Fireworks Spell]]
+|
+|[[Spell]]
+|
+|
+|{{Icon|Days-of-Fortune-Manta-Spell-Morybel-0146.png|table|label=Days of Fortune Manta Fireworks Spell|in_page=1}}<small>x5</small>
+|<small>Mini Spell Shop next to Prophecy Guide at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]] for {{Cost|5 C}}</small>
+|-
+! colspan="7" style="text-align:center;" |From Days of Fortune 2022
+|-
+| rowspan="2" |[[Days of Fortune#Days of Fortune Fish Pack|Days of Fortune Fish Pack]]
+|{{Days Item|Fish Cape||table}}
+|[[Cape]]
+| rowspan="2" |{{Cost|19.99 USD|ref}}
+| rowspan="2" |<small>Mini IAP shop next to Prophecy Guide at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]]</small>
+|{{Days Item|Fish Cape|spell|table}}<small>x3</small>
+| rowspan="2" |<small>Mini Spell Shop next to Prophecy Guide at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]] for free</small>
+|-
+|{{Days Item|Fish Hood||table}}
+|[[Hair]]
+|{{Days Item|Fish Hood|spell|table}}<small>x3</small>
+|-
+|[[Days of Fortune#{{Icon Name|Fortune Fish|name}}|{{Icon Name|Fortune Fish|name}}]]
+|{{Days Item|Fortune Fish||table}}
+|[[Hair Accessory]]
+|{{Cost|1.99 USD|ref}}
+|<small>Mini IAP shop next to Prophecy Guide at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]]</small>
+|{{Days Item|Fortune Fish|spell|table}}<small>x3</small>
+|<small>Mini Spell Shop next to Prophecy Guide at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]] for free</small>
+|-
+|[[Days of Fortune#{{Icon Name|Tiger Mask|name}}|{{Icon Name|Tiger Mask|name}}]]
+|{{Days Item|Tiger Mask||table}}
+|[[Mask]]
+|{{Cost|58 C}}
+|<small>Auspicious Visitor at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]]</small>
+|{{Days Item|Tiger Mask|spell|table}}<small>x3</small>
+|<small>Mini Spell Shop next to Prophecy Guide at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]] for free</small>
+|-
+! colspan="7" style="text-align:center;" |From Days of Fortune 2021
+|-
+| rowspan="3" |[[Days of Fortune#Days of Fortune Pack|Days of Fortune Pack]]
+|{{Days Item|Fortune Cape||table}}
+|[[Cape]]
+| rowspan="3" |{{Cost|24.99 USD|ref}}
+| rowspan="3" |<small>Mini IAP shop next to Prophecy Guide at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]]</small>
+|{{Days Item|Fortune Cape|spell|table}}<small>x3</small>
+|<small>Mini Spell Shop next to Prophecy Guide at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]] for free</small>
+|-
+|{{Days Item|Fortune Bun Hair||table}}
+|[[Hair]]
+|{{Days Item|Fortune Bun Hair|spell|table}}<small>x3</small>
+|<small>Mini Spell Shop next to Prophecy Guide at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]] for free</small>
+|-
+|{{Days Item|Fortune Blush Mask||table}}
+|[[Mask]]
+|{{Days Item|Fortune Blush Mask|spell|table}}<small>x3</small>
+|<small>Mini Spell Shop next to Prophecy Guide at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]] for free</small>
+|-
+|[[Days of Fortune#{{Icon Name|Fortune Wool Hat|name}}|{{Icon Name|Fortune Wool Hat|name}}]]
+|{{Days Item|Fortune Wool Hat||table}}
+|[[Hair]]
+|{{Cost|9.99 USD|ref}} 
+|<small>Mini IAP shop next to Prophecy Guide at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]]</small>
+|{{Days Item|Fortune Wool Hat|spell|table}}<small>x3</small>
+|<small>Mini Spell Shop next to Prophecy Guide at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]] for free</small>
+|-
+|[[Days of Fortune#{{Icon Name|Orange|name}}|{{Icon Name|Orange|name}}]]
+|{{Days Item|Orange||table}}
+|[[Hair Accessory]]
+|{{Cost|0.99 USD|ref}}
+|<small>Mini IAP shop next to Prophecy Guide at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]]</small>
+|{{Days Item|Orange|spell|table}}<small>x3</small>
+|<small>Mini Spell Shop next to Prophecy Guide at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]] for free</small>
+|-
+|[[Days of Fortune#{{Icon Name|Lion Headdress|name}}|{{Icon Name|Lion Headdress|name}}]]
+|{{Days Item|Lion Headdress||table}}
+|[[Hair]]
+|{{Cost|66 C}}
+|<small>Auspicious Visitor at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]]</small>
+|{{Days Item|Lion Headdress|spell|table}}<small>x3</small>
+|<small>Mini Spell Shop next to Prophecy Guide at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]] for free</small>
+|-
+|[[Days of Fortune#{{Icon Name|Bull Mask|name}}|{{Icon Name|Bull Mask|name}}]]
+|{{Days Item|Bull Mask||table}}
+|[[Mask]]
+|{{Cost|56 C}}
+|<small>Auspicious Visitor at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]]</small>
+|{{Days Item|Bull Mask|spell|table}}<small>x3</small>
+|<small>Mini Spell Shop next to Prophecy Guide at [[Valley_of_Triumph#Ice_Rink_Slope|Valley]] for free</small>
+|}
+
+===2025 New Cosmetics and Props===
+====Fortune Snake Coif and Cloak====
+::'''''"A white cape and hairstyle of lavish serpentine elegance."'''''
+The Fortune Snake Coif and Cloak contains two items: the Snake Coif and the Snake Cloak. The Snake Coif is a medium-length hairstyle of thick locks pulled back into a high ponytail, secured with a red piece of string. Each lock is tipped with a golden ring which each holds a red gem. A coin is fastened over the forehead with the same red cord, and two strands of wavy hair frame the face.<br>
+The Snake Cloak is a white mantle with a high collar and golden interior. It hangs off one shoulder and is fastened with a thick golden cord and clover-shaped knot and tassel with a gemstone. A line of golden triangles winds down one side of the Cape. 
+
+This [[Hair]] and [[Cape]] were introduced in 2025 and were available for {{Cost|19.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{Dye_Details
+|area1=the Cape interior
+|cost1=3
+|area2=the gemstone on the golden tassel
+|cost2=1
+}}<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Fortune Snake Cloak|iap}} {{!}} {{Icon Name|Fortune Snake Cloak|name}} IAP
+{{Icon Name|Fortune Snake Coif|icon}} {{!}} {{Icon Name|Fortune Snake Coif|name}} Hair icon
+{{Icon Name|Fortune Snake Coif|real}} {{!}} {{Icon Name|Fortune Snake Coif|name}} Hair front
+{{Icon Name|Fortune Snake Coif|side}} {{!}} {{Icon Name|Fortune Snake Coif|name}} Hair side
+{{Icon Name|Fortune Snake Coif|back}} {{!}} {{Icon Name|Fortune Snake Coif|name}} Hair back
+{{Icon Name|Fortune Snake Coif|spell}} {{!}} {{Icon Name|Fortune Snake Coif|name}} Hair Spell
+{{Icon Name|Fortune Snake Cloak|icon}} {{!}} {{Icon Name|Fortune Snake Cloak|name}} Cape icon
+{{Icon Name|Fortune Snake Cloak|front}} {{!}} {{Icon Name|Fortune Snake Cloak|name}} Cape front
+{{Icon Name|Fortune Snake Cloak|interior}} {{!}} {{Icon Name|Fortune Snake Cloak|name}} Cape interior
+{{Icon Name|Fortune Snake Cloak|real}} {{!}} {{Icon Name|Fortune Snake Cloak|name}} Cape back
+{{Icon Name|Fortune Snake Cloak|exterior}} {{!}} {{Icon Name|Fortune Snake Cloak|name}} Cape exterior
+{{Icon Name|Fortune Snake Cloak|spell}} {{!}} {{Icon Name|Fortune Snake Cloak|name}} Cape spell
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Fortune Hand Fan====
+::'''''"A classic crimson accessory to complement any outfit."'''''
+The Fortune Hand Fan is an orange folding fan, with a swirling gold design around the edge. The wooden handle is decorated with a golden gem and a red tassel. When equipped, the closed fan is held by the player with two hands. It can be used by selecting the {{Days Item|Fortune Hand Fan|icon}} fan icon, which will make the player's avatar hold one arm behind their back while lightly swaying the opened fan in front of their chest. When carried on its owner's back, the Prop appears in its closed state. 
+
+This [[Prop]] was introduced in 2025 and was available for {{Cost|4.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Fortune Hand Fan|iap}} {{!}} {{Icon Name|Fortune Hand Fan|name}} IAP
+{{Icon Name|Fortune Hand Fan|icon}} {{!}} {{Icon Name|Fortune Hand Fan|name}} icon
+{{Icon Name|Fortune Hand Fan|real}} {{!}} {{Icon Name|Fortune Hand Fan|name}} Prop
+{{Icon Name|Fortune Hand Fan|using}} {{!}} Using the {{Icon Name|Fortune Hand Fan|name}}
+{{Icon Name|Fortune Hand Fan|back}} {{!}} {{Icon Name|Fortune Hand Fan|name}} on a player's back
+{{Icon Name|Fortune Hand Fan|spell}} {{!}} {{Icon Name|Fortune Hand Fan|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Fortune Candle Flags Prop====
+The Fortune Candle Flags make up a garland of five crimson banners strung up with two golden stars. Each banner has a golden embossed candle with a heart in the center. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, it appears as a red bag, decorated with yellow string fastened with a coin. 
+
+This [[Prop]] was introduced in 2025 and was available for {{Cost|10 C}} from the mini Spell Shop next to Prophecy Guide at the [[Valley of Triumph#Ice Rink Slope|Valley's Ice Rink]] for the duration of the event.
+<small>This item will remain permanently available in the game after the event ends.<ref name="permanent-props">The [https://thatgamecompany.helpshift.com/hc/faq/1374-patch-notes---january-16-2025---0-28-0-308028-android-huawei-ios-playstation-steam-switch/#days-of-fortune Patch Notes for 2025] read: "Plus, three red and gold themed props can be unlocked for regular Candles, and once the event ends, those props will be added to the Nesting Workshop rotation to unlock later in the year."</ref></small><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Fortune Candle Flags|icon}} {{!}} {{Icon Name|Fortune Candle Flags|name}} icon
+{{Icon Name|Fortune Candle Flags|real}} {{!}} {{Icon Name|Fortune Candle Flags|name}} Prop
+{{Icon Name|Fortune Candle Flags|back}} {{!}} {{Icon Name|Fortune Candle Flags|name}} on a player's back
+<!--{{Icon Name|Fortune Candle Flags|spell}} {{!}} {{Icon Name|Fortune Candle Flags|name}} Spell icon-->
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Fortune Plant Prop====
+The Fortune Plant Prop is a potted glowing miniature tree blooming with coins. The golden coins are octagonal, with a diamond hole in the center; they float around the tree's stem and partially fade as others appear in different places. The tree is similar to representations of the mythical "money tree" <ref>https://en.wikipedia.org/wiki/Money_tree_(myth)</ref>. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, it appears as a red bag, decorated with yellow string fastened with a coin. 
+
+This [[Prop]] was introduced in 2025 and was available for {{Cost|20 C}} from the mini Spell Shop next to Prophecy Guide at the [[Valley of Triumph#Ice Rink Slope|Valley's Ice Rink]] for the duration of the event.
+<small>This item will remain permanently available in the game after the event ends.<ref name="permanent-props"></ref></small><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Fortune Plant Prop|icon}} {{!}} {{Icon Name|Fortune Plant Prop|name}} icon
+{{Icon Name|Fortune Plant Prop|real}} {{!}} {{Icon Name|Fortune Plant Prop|name}} Prop
+{{Icon Name|Fortune Plant Prop|back}} {{!}} {{Icon Name|Fortune Plant Prop|name}} on a player's back
+<!--{{Icon Name|Fortune Plant Prop|spell}} {{!}} {{Icon Name|Fortune Plant Prop|name}} Spell icon-->
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Fortune Vertical Poster Prop====
+The Fortune Vertical Poster Prop is a long rectangular red banner, decorated with five golden coin-shaped ornaments along its length. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, it appears as a red bag, decorated with yellow string fastened with a coin. 
+
+This [[Prop]] was introduced in 2025 and was available for {{Cost|5 C}} from the mini Spell Shop next to Prophecy Guide at the [[Valley of Triumph#Ice Rink Slope|Valley's Ice Rink]] for the duration of the event. 
+<small>This item will remain permanently available in the game after the event ends.<ref name="permanent-props"></ref></small><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Fortune Vertical Poster|icon}} {{!}} {{Icon Name|Fortune Vertical Poster|name}} icon
+{{Icon Name|Fortune Vertical Poster|real}} {{!}} {{Icon Name|Fortune Vertical Poster|name}} Prop
+{{Icon Name|Fortune Vertical Poster|back}} {{!}} {{Icon Name|Fortune Vertical Poster|name}} on a player's back
+<!--{{Icon Name|Fortune Vertical Poster|spell}} {{!}} {{Icon Name|Fortune Vertical Poster|name}} Spell icon-->
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Fortune Snake Outfit====
+The Fortune Snake Outfit consists of a pair of baggy white pants and a sleeveless vest. The pants are decorated with golden fringe bands snaking down the sides. The vest is cropped short the sleeves and closure are trimmed in gold. The pants have a cord in front tied in a bow, and the vest has two horizontal closures, both red. This [[Outfit]] was introduced in 2025 and was available for {{Cost|36 T|event=fortune}} from the Auspicious Visitor at the [[Valley of Triumph#Ice Rink Slope|Valley's Ice Rink]] for the duration of the event.<br>
+<br>
+{{Dye_Details
+|area1=the fringes, tips of pants bow, and vest trim and closure edges
+|cost1=3
+|area2=the bow and vest closures
+|cost2=1
+}}<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Fortune Snake Pants|icon}} {{!}} {{Icon Name|Fortune Snake Pants|name}} icon
+{{Icon Name|Fortune Snake Pants|real}} {{!}} {{Icon Name|Fortune Snake Pants|name}} front
+{{Icon Name|Fortune Snake Pants|back}} {{!}} {{Icon Name|Fortune Snake Pants|name}} back
+{{Icon Name|Fortune Snake Pants|spell}} {{!}} {{Icon Name|Fortune Snake Pants|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Fortune Snake Mask====
+The Fortune Snake Mask is white and orange with gold accents and resembles the head of a snake. It features gold lining around the eyes, forehead segment, and mouth. The mouth is open, revealing a portion of the player's face, golden fangs, and an orange forked tongue. The sides of the mask feature silver scale-like decorations. This [[Mask]] was introduced in 2025 and was available for {{Cost|14 T|event=fortune}} from the Auspicious Visitor at the [[Valley of Triumph#Ice Rink Slope|Valley's Ice Rink]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Fortune Snake Mask|icon}} {{!}} {{Icon Name|Fortune Snake Mask|name}} icon
+{{Icon Name|Fortune Snake Mask|real}} {{!}} {{Icon Name|Fortune Snake Mask|name}} Mask front
+{{Icon Name|Fortune Snake Mask|side}} {{!}} {{Icon Name|Fortune Snake Mask|name}} Mask side
+{{Icon Name|Fortune Snake Mask|spell}} {{!}} {{Icon Name|Fortune Snake Mask|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Dragon Dance Music Sheet====
+The {{Music Sheet|E4}} [[Music Sheet]] E4 was introduced in 2025 and was available for {{Cost|8 T|event=Fortune}} from the Auspicious Visitor at the [[Valley of Triumph#Ice Rink Slope|Valley's Ice Rink]] for the duration of the event. It is a song in the key of B Major.<br>
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guide
+|content=
+{{#ev:youtube|4miWfPZCZOM||inline|Music Sheet Video Guide by Ikejiji}}
+}}
+
+==January 2024<span id="2024"></span>==
+{{#ev:youtube|aUWxUuI-v9k||right|Days of Fortune 2024 Trailer}}
+Days of Fortune returned for a fifth year! The event began on '''Monday, January 29, 2024 at 00:00 PST (UTC-8)'''  (11 days before LNY's Eve) and ended on '''Wednesday, February 14, 2024 at 23:59 PST (UTC-8)'''  (4 days after LNY)<ref name="fortune-2024-extended">Days of Fortune 2024 has been extended from February 11 to February 14, a response to the frequent crashing that Android players experienced in Patch {{v|0.24.3}}.</ref>, lasting '''17''' days. For the duration of the event, the Auspicious Visitor appeared in [[Aviary Village]], offering to take players directly to the [[Valley of Triumph]]'s Social Space. In addition, the [[Secret Area]] was open to everyone through a friendly NPC at the gate. 
+
+For the Year of the Dragon, the center of festivities took place at the [[Valley_of_Triumph#Social_Space|Valley's Social Space]], where players could pick up a bit of [[Social Light]] and meet a group of [[Season of Performance|Performance]] Spirits who were back to say hello during the event. Another familiar presence would show up at the '''start of every hour''', too: the felicitous flying dragon appeared, bringing the best beats in Sky, some pyrotechnic Light, and a friendly race for Spirits and Sky Kids. At the countdown, players joined from across game servers with [[Festival Tech]] to race towards the [[Ice Rink]] alongside the felicitous dragon. Night also fell across the area for 10 minutes—the perfect backdrop for the party’s worth of fireworks and Light that the dragon would share.
+<!---
+TBA: Pictures of Valley at night during the race, the race end, and of the dragon costume spell platform -->
+
+For players who longed for some more of that dragon energy in between those hourly appearances, there was a [[Spell]] for that! Back in the [[Valley of Triumph#Social Space|Valley's Social Space]], a platform next to the Auspicious Visitor offered free Spells that gave players a [[#Dragon Train Costume Spell|dragon costume]] for a limited time. Finding Sky Kids wearing this dragon costume allowed you to form a train of up to eight players.
+
+And for players wanting to gift something special to their friends, the Fortune Gift Envelope was made available during the event. This special gifting node shaped like an envelope {{Icon|Gift-5-hearts.png|link=|label=Fortune Gift Envelope}} appeared in the [[Friendship Menu]] of friends with whom a player had the {{Emote|Piggyback Lightseeker|inline_text}} unlocked, allowing them to gift their friends 5 [[Currency#Hearts|Hearts]] for {{Cost|14 C}} by meeting up in-game. The Fortune Gift Envelope could be given once a day per person, like regular Heart gifts, and could also be given in addition to regular Heart gifts, meaning that players could send a maximum of 6 Hearts per day per friend. ''Please note that these gifts were not eligible to be doubled during the [[Double Currency Events#Days of Love - February 2024|Double Heart event]] that occurred for Days of Love 2024.''
+
+<small>Days of Fortune content was available to all players who had at least progressed to [[Valley of Triumph]] '''and''' started the [[Season of Revival#Quest #4|4th Quest]] from the [[Hopeful Steward]] in [[Aviary Village]].</small><br>
+<br>
+<gallery widths="200px" captionalign="center" position="center">
+Days-of-Fortune-2024-Auspicious-Visitor-mimi4117-sam6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & mimi4117
+Days-of-Fortune-2024-Tickets-mimi4117-sam6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & mimi4117
+Days-of-Fortune-2024-Old-IAP-mimi4117-sam6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & mimi4117
+Days-of-Fortune-2024-Event-Staff-mimi4117-sam6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & mimi4117
+</gallery>
+{{Clear}}
+===Ticket Locations===
+[[File:Days-of-Fortune-Coin-Ticket.png|125px|thumb|A Days of Fortune coin Ticket]]
+A total of {{Cost|5 T|event=fortune}} coin-shaped Tickets were available each day:
+
+*{{Cost|4 T|event=fortune}} hidden throughout the [[Valley of Triumph#Social Space|Valley's Social Space]] (see locations below)
+*{{Cost|1 T|event=fortune}} from interacting with a [[Season of Performance]] Spirit in the event area
+
+{{Collapse
+|float= left
+|label= All Exact Ticket Locations
+|content=<u>'''Locations:'''</u>
+* '''1''' - [[Cosmetics#Outfit_Shrine_Locations|Closets]]
+** A) {{Cost|1 T|event=fortune}}To the left of the [[Cosmetics#Outfit_Shrine_Locations|Closets]], on the middle ledge
+** B) {{Cost|1 T|event=fortune}}To the right of the [[Cosmetics#Outfit_Shrine_Locations|Closets]], on the middle ledge
+** C) {{Cost|1 T|event=fortune}}To the left of the [[Cosmetics#Outfit_Shrine_Locations|Closets]], near the bottom ledge
+** D) {{Cost|1 T|event=fortune}}To the right of the [[Cosmetics#Outfit_Shrine_Locations|Closets]], near the bottom ledge
+** E) {{Cost|1 T|event=fortune}}At the back of the area closest to the [[Cosmetics#Outfit_Shrine_Locations|Closets]], near the clouds
+
+* '''2''' - Broken tower
+** A) {{Cost|1 T|event=fortune}}On top of the broken tower, on the lip of the roof facing the Village of Dreams entrance
+** B) {{Cost|1 T|event=fortune}}At the back of the broken tower, near the edge of the widest remaining wall
+** C) {{Cost|1 T|event=fortune}}On top of the broken tower, in the middle of the roof facing the [[Cosmetics#Outfit_Shrine_Locations|Closets]]
+** D) {{Cost|1 T|event=fortune}}On top of the hill behind the broken tower, to the left of the [[Days_of_Bloom#Saplings|Sapling]]
+** E) {{Cost|1 T|event=fortune}}Inside the broken tower, to the right of the bonfire
+** F) {{Cost|1 T|event=fortune}}On a ledge of the hill behind the broken tower, to the far left of the [[Days_of_Bloom#Saplings|Sapling]]
+** G) {{Cost|1 T|event=fortune}}To the right of the broken tower, next to the [[Map Shrines#Valley_of_Triumph|Map Shrine]]
+** H) {{Cost|1 T|event=fortune}}At the top of the broken tower, on top of the roof facing the Closets
+
+* '''3''' - Entrance to the [[Village of Dreams]]
+** A) {{Cost|1 T|event=fortune}}To the right of the tunnel entrance to the [[Village of Dreams]], on a raised ledge
+** B) {{Cost|1 T|event=fortune}}To the right of the tunnel entrance to the [[Village of Dreams]], on the hill by the clouds
+** C) {{Cost|1 T|event=fortune}}In front and to the right of the tunnel entrance to the [[Village of Dreams]]
+** D) {{Cost|1 T|event=fortune}}In front and to the right of the tunnel entrance to the [[Village of Dreams]], at the beginning of the clouds
+}}
+<br>
+Players could also buy additional Tickets (costing {{Cost|2 AC}} or {{Cost|6 C}} each) from the [[Spell Shops#Sleepy Traveler's Boat|Sleepy Traveler's boat]] at [[Home]].
+
+{| class="article-table mw-collapsible mw-collapsed" style="float:right; text-align:center;"
+! style="text-align:center" colspan="3" | '''Ticket Locations'''
+|-
+! '''Date'''
+! '''Locations'''
+! '''Daily Total'''
+|-
+| January 29, 2024
+| 1A, 2A, 2B, 3A
+| {{Cost|{{#vardefineecho:D1|5}} T|event=fortune}}
+|-
+| January 30, 2024
+| 1B, 2C, 2D, 3B
+| {{Cost|{{#vardefineecho:D2|5}} T|event=fortune}}
+|-
+| January 31, 2024
+| 1E, 2E, 2F, 3C
+| {{Cost|{{#vardefineecho:D3|5}} T|event=fortune}}
+|-
+| February 1, 2024
+| 1C, 2G, 2H, 3D
+| {{Cost|{{#vardefineecho:D4|5}} T|event=fortune}}
+|-
+| February 2, 2024
+| 1A, 2B, 2H, 3A
+| {{Cost|{{#vardefineecho:D5|5}} T|event=fortune}}
+|-
+| February 3, 2024
+| 1D, 2A, 2D, 3B
+| {{Cost|{{#vardefineecho:D6|5}} T|event=fortune}}
+|-
+| February 4, 2024
+| 1D, 2C, 2F, 3C
+| {{Cost|{{#vardefineecho:D7|5}} T|event=fortune}}
+|-
+| February 5, 2024
+| 1E, 2G, 2E, 3D
+| {{Cost|{{#vardefineecho:D8|5}} T|event=fortune}}
+|-
+| February 6, 2024
+| 1C, 2G, 2H, 3D
+| {{Cost|{{#vardefineecho:D9|5}} T|event=fortune}}
+|-
+| February 7, 2024
+| 1A, 2A, 2B, 3A
+| {{Cost|{{#vardefineecho:D10|5}} T|event=fortune}}
+|-
+| February 8, 2024
+| 1D, 2C, 2D, 3B
+| {{Cost|{{#vardefineecho:D11|5}} T|event=fortune}}
+|-
+| February 9, 2024
+| 1E, 2E, 2F, 3C
+| {{Cost|{{#vardefineecho:D12|5}} T|event=fortune}}
+|-
+| February 10, 2024
+| 1C, 2E, 2G, 3D
+| {{Cost|{{#vardefineecho:D13|5}} T|event=fortune}}
+|-
+| February 11, 2024
+| 1C, 2B, 2H, 3A
+| {{Cost|{{#vardefineecho:D14|5}} T|event=fortune}}
+|-
+| February 12, 2024<ref name="fortune-2024-extended"></ref>
+| 1A, 2A, 2D, 3B
+| {{Cost|{{#vardefineecho:D15|5}} T|event=fortune}}
+|-
+| February 13, 2024<ref name="fortune-2024-extended"></ref>
+| 1D, 2C, 2D, 3B
+| {{Cost|{{#vardefineecho:D16|5}} T|event=fortune}}
+|-
+| February 14, 2024<ref name="fortune-2024-extended"></ref>
+| 1E, 2E, 2F, 3C
+| {{Cost|{{#vardefineecho:D17|5}} T|event=fortune}}
+|-
+! colspan="2" style="text-align:center;" | '''Total so far'''
+! style="text-align:center;" | '''{{Cost|{{#expr: ({{#var:D1}} + {{#var:D2}} + {{#var:D3}} + {{#var:D4}} + {{#var:D5}} + {{#var:D6}} + {{#var:D7}} + {{#var:D8}} + {{#var:D9}} + {{#var:D10}} + {{#var:D11}} + {{#var:D12}} + {{#var:D13}} + {{#var:D14}} + {{#var:D15}} + {{#var:D16}} + {{#var:D17}}) }} T|event=fortune}}'''
+|}
+
+{{Friendship Tree
+|label  = Auspicious Visitor
+|event = Fortune
+|image = Gratitude-Guide-Spirit.png
+
+|nodeC4 = {{Icon Name|Lion Headdress|icon}} 66 C
+|  labelC4 = {{Icon Name|Lion Headdress|name}}
+|  linkC4 = Days of Fortune#{{Icon Name|Lion Headdress|name}}
+
+|nodeL3 = {{Icon Name|Bull Mask|icon}} 56 C
+|  labelL3 = {{Icon Name|Bull Mask|name}}
+|  linkL3 = Days of Fortune#{{Icon Name|Bull Mask|name}}
+|nodeC3 = spell5
+|  labelC3 = Spell
+|  linkC3 = Spells
+
+|nodeR2 = {{Icon Name|Tiger Mask|icon}} 58 C
+|  labelR2 = {{Icon Name|Tiger Mask|name}}
+|  linkR2 = Days of Fortune#{{Icon Name|Tiger Mask|name}}
+|nodeL2 = {{Icon Name|Rabbit Mask|icon}} 62 C
+|  labelL2 = {{Icon Name|Rabbit Mask|name}}
+|  linkL2 = Days of Fortune#{{Icon Name|Rabbit Mask|name}}
+|nodeC2 = spell5
+|  labelC2 = Spell
+|  linkC2 = Spells
+
+|nodeR1 = {{Icon Name|Fortune Drum|icon}} 34 T
+|  labelR1 = {{Icon Name|Fortune Drum|name}}
+|  linkR1  = Days of Fortune#{{Icon Name|Fortune Drum|name}}
+|nodeL1 = {{Icon Name|Dragon Mask|icon}} 14 T
+|  labelL1 = {{Icon Name|Dragon Mask|name}}
+|  linkL1  = Days of Fortune#{{Icon Name|Dragon Mask|name}}
+|nodeC1 = Icon_warp.png
+|  labelC1 = Teleport to Valley's Social Space
+|  linkC1 = Valley of Triumph#Social Space
+}}{{Clear}}
+
+===2024 New Cosmetics and Props===
+====Days of Fortune Dragon Vestment====
+::'''''"Dance with an air of noble stature in this scale-accented robe."'''''
+The Days of Fortune Dragon Vestment is half black and red with gold accents, featuring a sash around the waist with a few scales near the hem. This [[Outfit]] was introduced in 2024 and was available for {{Cost| 9.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Dragon Vestment|iap}} {{!}} {{Icon Name|Dragon Vestment|name}} IAP
+{{Icon Name|Dragon Vestment|icon}} {{!}} {{Icon Name|Dragon Vestment|name}} icon
+{{Icon Name|Dragon Vestment|real}} {{!}} {{Icon Name|Dragon Vestment|name}} front
+{{Icon Name|Dragon Vestment|back}} {{!}} {{Icon Name|Dragon Vestment|name}}back
+{{Icon Name|Dragon Vestment|spell}} {{!}} {{Icon Name|Dragon Vestment|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Days of Fortune Dragon Stole====
+::'''''"Many layers enshroud its wearer in enigmatic mystery."'''''
+The Days of Fortune Dragon Stole is a chunky black scarf that drapes over the player's back, with a golden trim and spikes along one edge that resemble a dragon's spines. This [[Cape]] was introduced in 2024 and was available for {{Cost| 14.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Dragon Scarf|iap}} {{!}} {{Icon Name|Dragon Scarf|name}} IAP
+{{Icon Name|Dragon Scarf|icon}} {{!}} {{Icon Name|Dragon Scarf|name}} icon
+{{Icon Name|Dragon Scarf|front}} {{!}} {{Icon Name|Dragon Scarf|name}} front
+{{Icon Name|Dragon Scarf|interior}} {{!}} {{Icon Name|Dragon Scarf|name}} interior
+{{Icon Name|Dragon Scarf|real}} {{!}} {{Icon Name|Dragon Scarf|name}} back
+{{Icon Name|Dragon Scarf|exterior}} {{!}} {{Icon Name|Dragon Scarf|name}} exterior
+{{Icon Name|Dragon Scarf|spell}} {{!}} {{Icon Name|Dragon Scarf|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Days of Fortune Dragon Bangles====
+::'''''"Scales carved from a stone dragon."'''''
+The Days of Fortune Dragon Bangles are a pair of gold and red earrings, each with a small white crystal hanging below. This [[Head Accessory]] was introduced in 2024 and was available for {{Cost| 1.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Dragon Bangles|iap}} {{!}} {{Icon Name|Dragon Bangles|name}} IAP
+{{Icon Name|Dragon Bangles|icon}} {{!}} {{Icon Name|Dragon Bangles|name}} icon
+{{Icon Name|Dragon Bangles|real}} {{!}} {{Icon Name|Dragon Bangles|name}}
+{{Icon Name|Dragon Bangles|spell}} {{!}} {{Icon Name|Dragon Bangles|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Fortune Dragon Mask====
+The Fortune Dragon Mask is white and orange with gold accents and resembles the face of a dragon, with a pair of jagged horns, whiskers, spiked frill, and a snout. This [[Mask]] was introduced in 2024 and was available for {{Cost|14 T|event=Fortune}} from the Auspicious Visitor at [[Valley_of_Triumph#Social_Space|Valley's Social Space]] or [[Aviary Village#Aviary Event Store|Aviary Village]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Dragon Mask}} {{!}} {{Icon Name|Dragon Mask|name}} icon
+{{Icon Name|Dragon Mask|real}} {{!}} {{Icon Name|Dragon Mask|name}}
+{{Icon Name|Dragon Mask|spell}} {{!}} {{Icon Name|Dragon Mask|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Fortune Drum====
+The Fortune Drum is red with a beige top and a large round body that sits on top of four brown legs. This [[Instrument]] was introduced in 2024 and was available for {{Cost|34 T|event=Fortune}} from the Auspicious Visitor at [[Valley_of_Triumph#Social_Space|Valley's Social Space]] or [[Aviary Village#Aviary Event Store|Aviary Village]] for the duration of the event.
+
+The Fortune Drum plays the [[Music Sheet Parts|percussion part]] on Music Sheets. Unlike all other percussion Instruments, it offers only 4 sounds instead of the usual 8, all of which are unpitched sounds that do not correspond to different musical notes. Two sounds are for the actual drum noises; the other two are for secondary sounds made by hitting the sides of the drum or the drum sticks together.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Fortune Drum}} {{!}} {{Icon Name|Fortune Drum|name}} icon
+{{Icon Name|Fortune Drum|real}} {{!}} {{Icon Name|Fortune Drum|name}}
+Days-of-Fortune-Drum-playing.png {{!}} Playing the {{Icon Name|Fortune Drum|name}}
+Days-of-Fortune-Drum-on-back.png {{!}} {{Icon Name|Fortune Drum|name}} on a player's back
+{{Icon Name|Fortune Drum|spell}} {{!}} {{Icon Name|Fortune Drum|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+===2024 New Spells===
+====Dragon Train Costume Spell====
+The Dragon Train Costume Spell temporarily replaces the player's [[Cape]] with a costume of a dragon train section (colored either white or black) for 5 hours. This [[Spell]] was introduced in 2024 and is not collectible; it was only available from the platform next to the Auspicious Visitor in the [[Valley of Triumph#Social Space|Valley's Social Space]] during the event.
+
+When a player approaches a Sky Kid that has this Spell equipped, they will have the option to join the end of the train, in a setup similar to [[Friendship Menu#Holding_Hands|hand-holding]]. Up to 8 players can join a train. This Spell will remain active until it wears off or is cancelled, even if you leave the area.<br>
+<br>
+{{#tag:gallery
+|Fortune-Dragon-Train-Spell-icon.png {{!}} Dragon Train Costume Spell icon
+Dragon-Train-Costume-Spell-white.png {{!}} White Dragon Train Costume Spell
+Dragon-Train-Costume-Spell-black.png {{!}} Black Dragon Train Costume Spell
+|widths=125|spacing=small|captionalign=center
+}}
+{{Clear}}
+
+==January 2023<span id="2023"></span>==
+[[File:Days-of-Fortune-2023-TGC-Promo-image.png|250px|thumb|Promotional image - Days of Fortune 2023]]
+Days of Fortune returned for a fourth year! The event began on '''Friday, January 20, 2023 at 00:00 PST (UTC-8)''' (1 day before LNY's Eve) and ended on '''Thursday, February 2, 2023 at 23:59 PST (UTC-8)''' (11 days after LNY), lasting '''14''' days. For the duration of the event, the Auspicious Visitor appeared at the end of the pier in [[Home]], alongside a group of Spirits from [[Season of Enchantment]] that arrived one by one during the first week. In addition, the [[Secret Area]] was open to everyone through a friendly NPC at the gate.
+
+For the Year of the Rabbit, [[Home]] was the center of the party. Players joined the friendly faces on the pier to watch a special fireworks show that displayed every hour - and once each show ended, a familiar felicitous figure appeared for players to ignite fireworks that emitted up to a certain amount of [[Pieces of Light|Light]] to collect each day while the [[Nodding Muralist]] danced on its head! While the Spirits had to gradually leave during the second week, the felicitous figure kept the party going until the event ends.
+
+For players wanting to gift something special to friends, there was the Fortune Gift Envelope! This special gifting node shaped like an envelope {{Icon|Gift-5-hearts.png|link=|label=Fortune Gift Envelope}} appeared in the [[Friendship Menu]] of friends with whom a player had the {{Emote|Piggyback Lightseeker|inline_text}} unlocked, allowing you to gift them 5 [[Currency#Hearts|Hearts]] for {{Cost|14 C}} by meeting up in-game. The Fortune Gift Envelope could be given once a day per person, like regular Heart gifts, and could be given in addition to regular Heart gifts, meaning players could send a maximum of 6 Hearts per day per friend. 
+
+Several new Spells were added to the usual assortment, including special themed fireworks in the shape of three different Sky [[Creatures]]— players could find these on the [[Sleepy Traveling Merchant|Sleepy Traveler]]'s boat. New this year as well, Spirits in all of Sky's [[Realms]] took part in the event, too: relive a Spirit's memory, and they would give you a gift of Light in return!
+
+{| class="article-table mw-collapsible mw-collapsed" style="float:left"
+! colspan=5| Spirits with Bonus Light Gifts during Days of Fortune
+|-
+| rowspan=14| {{Cost|50 L}} each per day
+| rowspan=2 | Prairie
+| [[Waving Bellmaker]]
+|-
+| [[Doublefive Light Catcher]]
+|-
+| rowspan=3 | Forest
+| [[Scaredy Cadet]]
+|-
+| [[Apologetic Lumberjack]]
+|-
+| [[Admiring Actor]]
+|-
+| rowspan=3 | Valley
+| [[Troupe Juggler]]
+|-
+| [[Twirling Champion]]
+|-
+| [[Sparkler Parent]]
+|-
+| rowspan=3 | Wasteland
+| [[Saluting Captain]]
+|-
+| [[Scarecrow Farmer]]
+|-
+| [[Lookout Scout]]
+|-
+| rowspan=3 | Vault
+| [[Wise Grandparent]]
+|-
+| [[Polite Scholar]]
+|-
+| [[Shushing Light Scholar]]
+|}
+{| class="article-table mw-collapsible mw-collapsed" style="float:left"
+! colspan=2| Spirits with Bonus Candles during Days of Fortune
+|-
+| rowspan=5 | {{Cost|1 C}} once per event
+| [[Bird Whisperer]]
+|-
+| [[Backflipping Champion]]
+|-
+| [[Proud Victor]]
+|-
+| [[Bowing Medalist]]
+|-
+| and possibly more...
+|}{{Clear}}
+
+<gallery widths="200px" captionalign="center" position="center">
+Days-of-Fortune-Home-2023-by-Mimi4117-and- Sam 6917.png|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & Mimi#4117
+Days-of-Fortune-Office-2023-by-Mimi4117-and- Sam 6917.png|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & Mimi#4117
+</gallery>
+
+=== Home Display ===
+Every hour (Every even hour PST on and after January 27), there was a sequence of events happening. Starting from xx:00:00 (the first chime of the hourly Home clock), Pieces of Light fell from the sky onto the pier in Home. During the fireworks show, a "sit" button appeared when you approached the end of the pier, where you could sit down and watch the fireworks. However, unlike a chat bench, this pier did not allow a player to chat with strangers or friends that did not have the chat feature unlocked. Then, after four minutes, starting xx:04:00, a Dragon appeared in the main area of Home, with a Spirit dancing on the head of the Dragon. Players could jump or fly onto the dragon and light the eyes of the dragon, but this did not have any functional effects. The music "Dragon Dance" by Vincent Diamante was played during the entire Dragon Dance session. 
+
+Every minute on the minute from xx:05:00 to xx:11:00 (or every minute since the time you entered Home, if you entered or returned to Home in the middle of the event), the Dragon dropped down several large or small (random) firework rockets. The Dragon disappeared at xx:12:00. However it could drop another round of firework rockets just before its disappearance. You or another player needed to ignite and launch them before they disappeared (≈20 seconds). Then, the fireworks exploded in a random direction and Pieces of Light will fell from the fireworks. The Pieces of Light disappeared after 30 seconds, regardless of whether it had already landed on the ground/water, or was still floating in the air. 
+
+During a single Dragon Dance session, a player could collect about 350 Pieces of Light. There seemed to be a daily limit of ≈1000 Pieces of Light that can be collected this way. After reaching the limit, the firework rockets would not generate any more "Wax" or orbs of light for you (other players were still be able to see and collect Pieces of Light). Thus, according to the Daily Light System, you could acquire 9 candles* just from Home each day (including the 23 Pieces of Light from the red candles in Home), if you did not collect any other pieces of Light from other sources since last reset.
+
+<nowiki>*</nowiki>It takes 1026 Pieces of Light for the first 9 Candles in a day. Dragon Dance and Home red candles gave 1000+23=1023 Waxes, only 3 short for nine candles, which was easily achieved by collecting Light from the pier during the fireworks show just preceding the Dragon Dance. 
+
+==== Update ====
+Since January 27, the schedule for the display in Home has changed. The changes are as following:
+
+# The schedule of event has changed to every other hour (on the even numbered hours in PST and UTC), instead of every hour. As a result, the frequency of the displays has decreased.
+# The 4-minute fireworks show at the pier has been discontinued. 
+# As a result of the removal of the fireworks show, the dragon dance now runs from xx:00~xx:08 instead of xx:04~xx:12.
+# The net result is the amount of Wax available is reduced. However, if you participate the event until no more Wax is dropped from the fireworks (reach the limit), the amount of Wax you can acquire each day will stay approximately the same. The amount of Wax during the fireworks show is very small compared to the Dragon Dance. 
+
+===2023 New Cosmetics and Props ===
+====Days of Fortune Rabbit Mask<span id="{{Icon Name|Rabbit Mask|name}}"></span>====
+The Days of Fortune Rabbit Mask is white and orange with gold accents and resembles the face of a rabbit, with a pair of tall ears and slim snout (closely resembling the shape of the [[Peeking Postman#Mask|Peeking Postman's]] Mask). This [[Mask]] was introduced in 2023 and was available for {{Cost|62 C}} from the Auspicious Visitor in [[Home]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Rabbit Mask}} {{!}} {{Icon Name|Rabbit Mask|name}} icon
+{{Icon Name|Rabbit Mask|real}} {{!}} {{Icon Name|Rabbit Mask|name}}
+{{Icon Name|Rabbit Mask|spell}} {{!}} {{Icon Name|Rabbit Mask|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Days of Fortune Enchanted Umbrella<span id="{{Icon Name|Enchanted Umbrella|name}}"></span>====
+::'''''"A purple parasol that really packs a punch!"'''''
+The Days of Fortune Enchanted Umbrella has a maroon canopy with a swirling gold design around the edge and a gold tassel at the end of the handle. When equipped, this umbrella is held by the player and provides protection from the [[Flora, Minerals and Elements of Sky#Rain|rain]]. It cannot be placed and therefore cannot be used in [[Shared Spaces]]. This [[Prop]] was introduced in 2023 and was available for {{Cost|14.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Enchanted Umbrella|iap}} {{!}} {{Icon Name|Enchanted Umbrella|name}} IAP
+{{Icon Name|Enchanted Umbrella}} {{!}} {{Icon Name|Enchanted Umbrella|name}} icon
+{{Icon Name|Enchanted Umbrella|real}} {{!}} {{Icon Name|Enchanted Umbrella|name}}
+{{Icon Name|Enchanted Umbrella|held}} {{!}} Holding the {{Icon Name|Enchanted Umbrella|name}}
+{{Icon Name|Enchanted Umbrella|back}} {{!}} {{Icon Name|Enchanted Umbrella|name}} on a player's back
+{{Icon Name|Enchanted Umbrella|spell}} {{!}} {{Icon Name|Enchanted Umbrella|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Days of Fortune Muralist's Smock<span id="{{Icon Name|Smock|name}}"></span>====
+::'''''"Even the most discerning critic will nod in approval."'''''
+The Days of Fortune Muralist's Smock is a plum and white top with a swirling gold design along the bottom hem and long sleeves, along with a pair of thick black pants. It also features a white pom-pom on the toe of both boots and one on the back of the top like a rabbit's tail. This [[Outfit]] was introduced in 2023 and was available for {{Cost|9.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Smock|iap}} {{!}} {{Icon Name|Smock|name}} IAP
+{{Icon Name|Smock}} {{!}} {{Icon Name|Smock|name}} icon
+{{Icon Name|Smock|real}}{{!}} {{Icon Name|Smock|name}} front
+Muralist-Smock-back.png {{!}} {{Icon Name|Smock|name}} back
+{{Icon Name|Smock|spell}} {{!}} {{Icon Name|Smock|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+===2023 New Spells===
+====Days of Fortune Manta Fireworks Spell====
+[[File:Days-of-Fortune-Manta-Spell-Morybel-0146.png|left|frameless|80x80px]]
+The Days of Fortune Manta Fireworks Spell grants the player the one-time ability to shoot off ten bursts of yellow fireworks in the shape of a [[Manta]]. After five shots, there is a 10 second cooldown before it can be activated again. This [[Spell]] was introduced in 2023 and was available in packs of 5 for {{Cost|5 C}} from the [[Sleepy Traveling Merchant|Sleepy Traveler's boat]] for the duration of the event.
+{{Clear}}
+
+====Days of Fortune Jellyfish Fireworks Spell====
+[[File:Days-of-Fortune-Jellyfish-Spell-Morybel-0146.png|left|frameless|80x80px]]
+The Days of Fortune Jellyfish Fireworks Spell grants the player the one-time ability to shoot off ten bursts of multicolored fireworks in the shape of a [[Jellyfish]]. After five shots, there is a 10 second cooldown before it can be activated again. This [[Spell]] was introduced in 2023 and was available in packs of 5 for {{Cost|5 C}} from the [[Sleepy Traveling Merchant|Sleepy Traveler's boat]] for the duration of the event.
+{{Clear}}
+
+====Days of Fortune Crab Fireworks Spell====
+[[File:Days-of-Fortune-Crab-Spell-Morybel-0146.png|left|frameless|80x80px]]
+The Days of Fortune Crab Fireworks Spell grants the player the one-time ability to shoot off ten bursts of red fireworks in the shape of a [[Crabs|Crab]]. After five shots, there is a 10 second cooldown before it can be activated again. This [[Spell]] was introduced in 2023 and was available in packs of 5 for {{Cost|5 C}} from the [[Sleepy Traveling Merchant|Sleepy Traveler's boat]] for the duration of the event.
+{{Clear}}
+
+==January 2022<span id="2022"></span>==
+[[File:Days_of_fortune_-_promo_image_2022.jpg|250px|thumb|Promotional image - Days of Fortune 2022]]
+Days of Fortune was back for a third year! The event began on '''Monday, January 24, 2022 at 00:00 PST (UTC-8)''' (7 days before LNY's Eve) and ended on '''Sunday, February 6, 2022 at 23:59 PST (UTC-8)''' (6 days after LNY), lasting '''14''' days. For the duration of the event, the Auspicious Visitor appeared at the end of a brightly lit pier in [[Home]], alongside a group of Spirits from [[Season of Gratitude]] that arrived one by one during the first week. In addition, the [[Secret Area]] was open to everyone through a friendly NPC at the gate.
+
+For the Year of the Tiger, [[Home]] was the center of this merry gathering. The fireworks show displayed every hour during the second week provided a vivid backdrop for games with friends and dance parties for Spirits and Sky Children alike. Last year’s felicitous figure also returned, periodically appearing (every '''two hours''' for the first week and '''every hour''' for the second) to gift items for players to ignite that emitted up to a certain amount of [[Pieces of Light|Light]] to collect each day, and [[Spells#Message Boat Spell|Message Boats]] were be temporarily transformed into [[Spells#Message Lantern Spell|lanterns]].<br>
+<br>
+<gallery spacing="small" captionalign="center" position="center">
+File:Days-of-fortune-2022-dragon.jpg|Dragon at Home
+File:Days-of-fortune-2022-dragon-fireworks.jpg|Fireworks
+File:Days-of-fortune-2022-Gratitude-spirits.jpg|The Gratitude pier at sunset
+File:Days-of-fortune-2022-Gratitude-spirits-1.jpg|The Gratitude pier during the Spirits' dance and fireworks
+</gallery>
+
+For players wanting to gift something special to friends, there was the Fortune Gift Envelope! This special gifting node shaped like an envelope {{Icon|Gift-5-hearts.png|link=|label=Fortune Gift Envelope}} appeared in the [[Friendship Menu]] of friends with whom a player had the {{Emote|Piggyback Lightseeker|inline_text}} unlocked, allowing you to gift them 5 [[Currency#Hearts|Hearts]] for {{Cost|14 C}} by meeting up in-game. The Fortune Gift Envelope could be given once a day per person, like regular Heart gifts, and could be given in addition to regular Heart gifts, meaning players could send a maximum of 6 Hearts per day per friend. 
+
+(''Note: During Days of Fortune, the fireworks show visible from the pier at Home appeared to emit Light for players to collect, but this Light did not add to a player's Candle meter. To offset this bug and ensure the full amount of Light intended for the event was available to players, the felicitous figure that appeared periodically in Home provided an amount of Light equivalent to the combined total of Light originally planned from both sources.)''<br>
+
+<small>Days of Fortune content was available to all players who had at least progressed to [[Valley of Triumph]].</small><br>
+<br>
+<gallery spacing="small" captionalign="center">
+File:Days of fortune returning IAP 2022.png|Returning IAP items from previous years
+File:Days of fortune staff 2021.png|Returning Days of Fortune Staff
+</gallery>
+
+===2022 New Cosmetics and Props===
+====Days of Fortune Fish Pack<span id="{{Icon Name|Fish Cape|name}}"></span><span id="{{Icon Name|Fish Hood|name}}"></span>====
+::'''''"Dive into the spirit of Fortune when you don these mighty Fish Cape and Hood!"'''''
+The Days of Fortune Fish Pack contains two items: the Days of Fortune Fish Cape and the Days of Fortune Fish Hood. The Days of Fortune Fish Cape is a dark orange [[Cape]] with gold accents that resembles the body and tail of a fish attached to a curved collar piece. The Days of Fortune Fish Hood is a [[Hair]] that features an orange hood shaped like a fish's head, with the player's face peeking out from its mouth. This pack was introduced in 2022 for {{Cost|19.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Fish Cape|iap}} {{!}} Days of Fortune Fish Pack IAP
+{{Icon Name|Fish Cape}} {{!}} {{Icon Name|Fish Cape|name}} icon
+{{Icon Name|Fish Cape|front}} {{!}} {{Icon Name|Fish Cape|name}} front
+{{Icon Name|Fish Cape|interior}} {{!}} {{Icon Name|Fish Cape|name}} interior
+{{Icon Name|Fish Cape|real}} {{!}} {{Icon Name|Fish Cape|name}} back
+{{Icon Name|Fish Cape|exterior}} {{!}} {{Icon Name|Fish Cape|name}} exterior
+{{Icon Name|Fish Cape|spell}} {{!}} {{Icon Name|Fish Cape|name}} Spell icon
+{{Icon Name|Fish Hood}} {{!}} {{Icon Name|Fish Hood|name}} icon
+{{Icon Name|Fish Hood|real}} {{!}} {{Icon Name|Fish Hood|name}}
+{{Icon Name|Fish Hood|spell}} {{!}} {{Icon Name|Fish Hood|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Days of Fortune Fish Accessory<span id="{{Icon Name|Fortune Fish|name}}"></span>====
+::'''''"Carry the spirit of Fortune wherever you go when you sport this Fish Accessory!"'''''
+The Days of Fortune Fish Accessory is a small orange and gold fish that sits on top of the player's head with its tail raised over its back. This [[Hair Accessory]] was introduced in 2022 and was available for {{Cost|1.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Fortune Fish|iap}} {{!}} {{Icon Name|Fortune Fish|name}} IAP
+{{Icon Name|Fortune Fish}} {{!}} {{Icon Name|Fortune Fish|name}} icon
+{{Icon Name|Fortune Fish|real}} {{!}} {{Icon Name|Fortune Fish|name}} 
+{{Icon Name|Fortune Fish|spell}} {{!}} {{Icon Name|Fortune Fish|name}} Spell
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Days of Fortune Tiger Mask<span id="{{Icon Name|Tiger Mask|name}}"></span>====
+The Days of Fortune Tiger Mask is white and orange with gold accents and resembles the face of a tiger, with an open mouth showing off sharp teeth, furry cheeks, and round ears. This [[Mask]] was introduced in 2022 and was available for {{Cost|58 C}} from the Auspicious Visitor at [[Home]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Tiger Mask}} {{!}} {{Icon Name|Tiger Mask|name}} icon
+{{Icon Name|Tiger Mask|real}} {{!}} {{Icon Name|Tiger Mask|name}} 
+{{Icon Name|Tiger Mask|spell}} {{!}} {{Icon Name|Tiger Mask|name}} Spell
+|widths=125|captionalign=center|spacing=small
+}}
+
+==February 2021<span id="2021"></span>==
+[[File:DoFortune-2021-Dragon-promo-image.png|250px|thumb|Promotional image - Days of Fortune 2021]]
+In celebration of the Lunar New Year, Days of Fortune began on '''Monday, February 8, 2021 at 12:00 PST (UTC-8)''' (3 days before LNY's Eve) and ended '''Monday, March 1, 2021 at 12:00 PST (UTC-8)''' (17 days after LNY), lasting '''22''' days, overlapping with [[Days of Love]] 2021 for a little over a week. For the duration of the event, the [[Secret Area]] was open to everyone through a friendly NPC at the gate.
+
+For the Year of the Ox, an auspicious visitor in the shape of a stone dragon periodically appeared in [[Home]] for 10 minutes every three hours to fly overhead and drop [[Pieces of Light|Light]] for players to collect. Beginning on '''February 11, 12, and 28 at 00:00 PST (UTC-8)''' the visitor appeared more frequently to mark the Lunar New Year and the event nearing its conclusion. Additionally, starting '''February 21 at 12:00 PST (UTC-8)''', [[Blessings (Spells)#Message Lantern Spell|Message Boats]] appeared as floating [[Spells#Message Lantern Spell|lanterns]] for the remainder of the holiday event.
+
+For players wanting to gift something special to friends, there was the Fortune Gift Envelope! This special gifting node shaped like an envelope {{Icon|Gift-5-hearts.png|link=|label=Fortune Gift Envelope}} appeared be in the [[Friendship Menu]] of friends with whom a player had the {{Emote|Doublefive Light Catcher|inline_text}} unlocked, allowing you to gift them 5 [[Currency#Hearts|Hearts]] for {{Cost|14 C}} by meeting up in-game. The Fortune Gift Envelope could be given once a day per person, like regular Heart gifts, and could be given in addition to regular Heart gifts, meaning players can send a maximum of 6 Hearts per day per friend. ''Please note that these gifts were not eligible to be doubled during the [[Double Currency Events#Days of Love - February 2021|Double Heart event]] that occurs for Days of Love.''
+
+===2021 New Cosmetics and Props===
+====Days of Fortune Pack<span id="{{Icon Name|Fortune Cape|name}}"></span><span id="{{Icon Name|Blush Mask|name}}"></span><span id="{{Icon Name|Bun Hair|name}}"></span>====
+::'''''"Celebrate Days of Fortune with this vibrant Fortune Cape, Blushing Mask, and charming Bun Hair."'''''
+The Days of Fortune Pack contains three items: the Days of Fortune Cape, the Days of Fortune Blushing Mask, and the Days of Fortune Bun Hair. The Days of Fortune Cape is a red [[Cape]] with a high collar, gold trim, and a tassel attached to a coin hanging from the back bottom edge. The Days of Fortune Blushing Mask is a tan [[Mask]] with a large red circle on each cheek, resembling a blushing face. The Days of Fortune Bun Hair is a [[Hair]] with bangs and a pair of high buns, each with a loose lock of hair, tied with a red band. This pack was introduced in 2021 and was available for {{Cost|24.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Fortune Cape|iap}} {{!}} Days of Fortune Pack IAP
+{{Icon Name|Fortune Cape}} {{!}} {{Icon Name|Fortune Cape|name}} icon
+{{Icon Name|Fortune Cape|front}} {{!}} {{Icon Name|Fortune Cape|name}} front
+{{Icon Name|Fortune Cape|interior}} {{!}} {{Icon Name|Fortune Cape|name}} interior
+{{Icon Name|Fortune Cape|real}} {{!}} {{Icon Name|Fortune Cape|name}} back
+{{Icon Name|Fortune Cape|exterior}} {{!}} {{Icon Name|Fortune Cape|name}} exterior
+{{Icon Name|Fortune Cape|spell}} {{!}} {{Icon Name|Fortune Cape|name}} Spell icon
+{{Icon Name|Blush Mask}} {{!}} {{Icon Name|Blush Mask|name}} icon
+{{Icon Name|Blush Mask|real}} {{!}} {{Icon Name|Blush Mask|name}}
+{{Icon Name|Blush Mask|spell}} {{!}} {{Icon Name|Blush Mask|name}} Spell icon
+{{Icon Name|Bun Hair}} {{!}} {{Icon Name|Bun Hair|name}} icon
+{{Icon Name|Bun Hair|real}} {{!}} {{Icon Name|Bun Hair|name}}
+{{Icon Name|Bun Hair|spell}} {{!}} {{Icon Name|Bun Hair|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Days of Fortune Wool Hat<span id="{{Icon Name|Fortune Wool Hat|name}}"></span>====
+::'''''"Stay cozy in this fluffy Woolen Hat."'''''
+The Days of Fortune Wool Hat is red with a white fur trim and wide headband, plus a white pom-pom on top and one hanging from each earflap. This [[Hair]] was introduced in 2021 and was available for {{Cost|9.99 USD|refnote}} starting '''February 21, 2021 at 12:00 PST (UTC-8)''' from the [[Premium Candle Shop]] for the duration of the event. Note that this item is considered a Hair, not a [[Hair Accessory]], and as such it cannot be worn over other Hairstyles.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Fortune Wool Hat|iap}} {{!}} {{Icon Name|Fortune Wool Hat|name}} IAP
+{{Icon Name|Fortune Wool Hat}} {{!}} {{Icon Name|Fortune Wool Hat|name}} icon
+{{Icon Name|Fortune Wool Hat|real}} {{!}} {{Icon Name|Fortune Wool Hat|name}} 
+{{Icon Name|Fortune Wool Hat|spell}} {{!}} {{Icon Name|Fortune Wool Hat|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Days of Fortune Orange<span id="{{Icon Name|Orange|name}}"></span>====
+::'''''"Bring a little zest of good fortune wherever the year takes you."'''''
+The Days of Fortune Orange is a small, round orange with a green leaf on its stem that sits on top of the player's head. This [[Hair Accessory]] was introduced in 2021 and was available for {{Cost|0.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Orange|iap}} {{!}} {{Icon Name|Orange|name}} IAP
+{{Icon Name|Orange}} {{!}} {{Icon Name|Orange|name}} icon
+{{Icon Name|Orange|real}} {{!}} {{Icon Name|Orange|name}} 
+{{Icon Name|Orange|spell}} {{!}} {{Icon Name|Orange|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Days of Fortune Lion Headdress<span id="{{Icon Name|Lion Headdress|name}}"></span>====
+The Days of Fortune Lion Headdress is red with gold accents and white fur and resembles the lion costumes worn for Lunar New Year [[wikipedia:Lion dance|lion dances]], with round ears, a small horn, wide mouth, and large eyebrows. This [[Hair]] was introduced in 2021 and was available for {{Cost|66 C}} from the Days of Fortune Staff on the rooftop of the [[Secret Area]] for the duration of the event. Note that this item is considered a Hair, not a [[Hair Accessory]], and as such it cannot be worn over other Hairstyles.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Lion Headdress}} {{!}} {{Icon Name|Lion Headdress|name}} icon
+{{Icon Name|Lion Headdress|real}} {{!}} {{Icon Name|Lion Headdress|name}} 
+{{Icon Name|Lion Headdress|spell}} {{!}} {{Icon Name|Lion Headdress|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Days of Fortune Bull Mask<span id="{{Icon Name|Bull Mask|name}}"></span>====
+The Days of Fortune Bull Mask is white with gold accents and resembles the face of a bull, with a pair of wide, curving horns, floppy ears, and a snout. This [[Mask]] was introduced in 2021 and was available for {{Cost|56 C}}<ref name="Bull Mask price change">The Days of Fortune Bull Mask price increased from {{Cost|54 C}} to {{Cost|56 C}} during [https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/faq/1096-patch-notes---january-10-2023---0-20-0-209628-android-huawei-ios-209693-playstation-209642-switch/ Days of Fortune 2023].</ref> from the Days of Fortune Staff on the rooftop of the [[Secret Area]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Bull Mask}} {{!}} {{Icon Name|Bull Mask|name}} icon
+{{Icon Name|Bull Mask|real}} {{!}} {{Icon Name|Bull Mask|name}} 
+{{Icon Name|Bull Mask|spell}} {{!}} {{Icon Name|Bull Mask|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+==January 2020<span id="2020"></span>==
+[[File:IMG 0495.jpg|thumb|250px|Promotional image - Lunar New Year 2020]]
+To celebrate the ushering out of the old year and to bring forth luck and prosperity for the new one, a new Lunar New Year-inspired event was introduced to Sky. This event began on '''Friday, January 24, 2020 at 00:00 PST (UTC-8)''' (LNY's Eve) and ended on '''Monday, January 27, 2020 at 23:59 PST (UTC-8)''' (two days after LNY), lasting '''4''' days. No new cosmetics were offered for the event.
+
+For the Year of the Rat, a [[Double Currency Events#Double Heart Event - January 2020|Double Currency event]] took place, doubling both the Hearts and the Gifts of Light players sent to each other. To welcome in the Lunar New Year as it arrived across the globe, a fireworks show also appeared in [[Home]] at the start of every hour for five minutes on January 24, similar to the New Year's celebration during [[Days of Feast]].
+{{Clear}}
+
+==Trivia==
+* Several of Days of Fortune's items are depicted in merch items from [[That Sky Shop]]. To know more about That Sky Shop products, visit their website: https://thatskyshop.com
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Days-of-Fortune-promo-image-2024.png|2024 Promo image
+DoFortune-2024-Flying-Skids-promo-image.png|2024 Promo image
+DoFortune-2024-Ticket-promo-image.png|2024 Promo image
+DoFortune-2024-Flexing-promo-image.png|2024 Promo image
+DoFortune-2024-Drum-promo-image.png|2024 Promo image
+Days of fortune 2021.jpg|2021 Promo image
+Fortune-2020-Promo-Artwork.png|2020 Promo Art
+New-Year-2019-promo-art.png|2019 Promo Art
+</gallery>
+
+==References==
+'''More information about Days of Fortune 2025 can be found on [https://www.thatskygame.com/news/days-of-fortune-2025-games-friends-and-fireworks- ThatSkyGame's Website].'''
+<br>'''More information about Days of Fortune 2024 can be found on [https://www.thatskygame.com/news/felicitous-friends-and-more-for-days-of-fortune-2024/ ThatSkyGame's Website].'''
+<br>'''More information about Days of Fortune 2023 can be found on [https://www.thatskygame.com/news/kicking-off-days-of-fortune-2023 ThatSkyGame's Website].'''
+<br>'''More information about Days of Fortune 2022 can be found on [https://www.thatskygame.com/news/gather-for-days-of-fortune-2022 ThatSkyGame's Website].'''
+<br>'''More information about Days of Fortune 2021 can be found on [https://www.thatskygame.com/news/launch-update-days-of-fortune-days-of-love ThatSkyGame's Website].'''
+<references />
+
+{{Holiday Navbox}}
+
+[[es:Días de la Fortuna]]
+[[fr:Jours de Chance]]
+[[de:Tage des Glücks]]
+[[pt-br:Dias de Felicidade]]
+[[ru:Дни удачи]]
+[[ja:来福の日々]]
+[[zh:幸運節]]
+
+{{DEFAULTSORT:Fortune, Days of}}
+[[Category:Events]]
+[[Category:Recurring Events]]

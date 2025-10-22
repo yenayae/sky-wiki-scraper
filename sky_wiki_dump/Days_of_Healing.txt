@@ -1,0 +1,41 @@
+{{SkyEvent
+| image = CovidFlower_Closeupsq.jpg
+| date = May 18 to June 22, 2020
+}}
+<section begin="Summary" />The '''Days of Healing''' was a one time charity fundraising event held from '''May 18 to noon PDT (UTC-7) June 22 2020.'''<ref name="healing_patch_notes">See {{v|0.9.2|0.9.2 patch notes}}.</ref> In continuation of TGC's integration of real-world relief efforts in Sky, TGC partnered with [https://www.doctorswithoutborders.org/covid19 Doctors Without Borders] and the #PlayApartTogether initiative to support the fight against COVID-19.<section end="Summary" />
+
+==Healing Pack<span id="{{Icon Name| Healing Flower Hair Accessory | name }}"></span>==
+<section begin="IAP" />The Healing Pack was offered as an IAP for {{USD|19.99|refnote}} from the [[Premium Candle Shop]] and included a flower [[Hair Accessories|hair accessory]] and {{Cost|75 C}}.<section end="IAP" />
+<gallery widths="125" spacing="small" captionalign="center">
+Healing Pack IAP.png|Healing Pack IAP
+Icon_hair_event_healing_poppy.png|Healing Flower Hair Accessory icon
+Days_of_heeling_poppy_headpiece_v2.png|Healing Flower Hair Accessory
+</gallery>
+
+== Benefit ==
+100% of the proceeds (net receipts) from the Healing Pack benefited global relief efforts of COVID-19. ([https://www.doctorswithoutborders.org/covid19 Doctors Without Borders]).
+
+==Double Heart Event==
+The Days of Healing also brought a [[Double Currency Events|Double Heart event]] to Sky, which lasted between '''May 18 and May 25 2020''' for a total of one week. Every Heart and Gift of Light exchanged between players were doubled during this time.<ref name="double_heart_extend">Due to a delayed start (and many Hearts which were not doubled) the Days of Healing Double Heart event was extended 24 hours, and actually finished at noon PDT on Tuesday, May 26 2020 instead of May 25.</ref>
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Sky-Double-Heart-Event-2020.png
+Sky-PlayApartTogether-Promo-Image.jpg
+</gallery>
+
+== References ==
+'''More information can be found on [https://thatgamecompany.com/sky-days-of-healing-event/ ThatSkyGame's Website].'''
+
+<references />
+
+[[fr:Jours de guérison]]
+[[de:Tage der Heilung]]
+[[pt-br:Dias de Cura]]
+[[ja:癒しの日々]]
+
+{{DEFAULTSORT:Healing, Days of}}
+[[Category:Events]]
+[[Category:Non-Recurring Events]]
+[[Category:Collaborations]]
+[[Category:Double Currency]]

@@ -1,0 +1,187 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Flight-Spirit-Lively-Navigator.png|Standard
+Flight-Spirit-Lively-Navigator-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Hair|infobox}}{{Spirit Item||Hairpiece|infobox}}{{Spirit Item||Cape|infobox}}
+|music     = {{Music Sheet|24}}
+|season    = Flight
+|realm     = Hidden Forest
+|location  = Wind Paths
+|ts        = May 8, 2025 (#139)<br>August 17, 2023 (#94)
+
+}}
+<section begin="Summary" />The '''Lively Navigator''' is a [[Seasonal Spirit]] from the [[Season of Flight]] who offers the {{Emote|Lively Navigator|inline_text}} Expression. The Lively Navigator is found in the [[Wind Paths]], on the higher of two floating islands to the left of the largest main island when coming from the area's main entrance. The collectibles [[#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Lively Navigator|Hair|inline_text}}, a {{Spirit Item|Lively Navigator|Hairpiece|inline_text}}, a {{Spirit Item|Lively Navigator|Cape|inline_text}}, and the {{Music Sheet|24|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Ap12 navigator-spiritreveal.png|thumb|320px|none|TGC's Promo image]]
+
+==Memory==
+<div>{{#ev:youtube|LU0TuA35_l4||inline|Video Guide}}
+
+The Lively Navigator can be found in the [[Wind Paths]], on the higher of two of floating islands to the left of the largest main island when coming from the area's main entrance. This Spirit has a [[Standard Memory|standard memory]] with 8 memory fragments and a 15-minute overall [[Timed Memory|time limit]].
+
+As their memory unfolds, the Lively Navigator can be seen boarding a flying boat pulled by a single [[Mantas|Manta]]. They arrive shortly afterwards at the main island and dock the boat to begin walking, following a path that winds around to the other side. The Lively Navigator then grabs a pair of hand-held flags that are laying nearby and begins to work, using marshaling signals with the flags to direct the flow of traffic in the Wind Paths. Sometime later, a flying boat carrying the [[Talented Builder]] arrives, with a large flock of Mantas headed directly towards them. Alarmed by the potential collision, the Lively Navigator scrambles to direct the other Spirit out of danger.
+
+At the end of the memory, the Talented Builder waves with gratitude towards the Lively Navigator from the boat as they continue on their way without incident. Pleased by the job well done, the Lively Navigator nods back in affirmation.<br>
+<br>
+[[File:02 HF Seasonal Spirit - Lively Navigator.jpg|200px|thumb|none|Relive the Lively Navigator's memory]]
+</div>
+{{Clear}}
+
+==Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Lively-Navigator-navigate-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Lively-Navigator-navigate-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Lively-Navigator-navigate-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Lively-Navigator-navigate-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar raise both arms straight ahead at chest level, palms facing inwards, before stretching their right arm straight up as a cymbal and chime sound effect plays. This action is continued for as long as you don't move your avatar.
+*Level 2 makes the same motion as Level 1, with trails of small golden sparkles following your avatar's hands as they raise them, and a glowing, green, vertical light periodically shooting up from the hand pointing towards the sky, beginning when they've stopped moving, and a trail of sparkles like in the beginning of the Expression following your avatar's raised hand as it is dropped down again when the avatar has been moved.
+*Level 3 will make your avatar take a big step forward on one foot and raise both arms straight ahead at chest level, palms touching, before then straightening to wave both hands together in a wide circle, before pointing them straight up, torso facing the side as they raise a bent leg, periodically glancing up and to the side, as a drum and more elaborate chime sound effect plays. This action is continued for as long as you don't move your avatar. Upon doing so, your avatar will drop their arms and turn back to the front with a little hop.
+*Level 4 makes the same motion as Level 3, with trails of small, golden sparkles following your avatar's hands as they move, and as they exit the Expression, it will have small, gray dust clouds following the foot that is being dragged in the middle of the Expression.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+==Cosmetics==
+===Hair===
+The [[Hair]] offered by this Spirit consists of short, spiky, fluffy hair partially tied in a small, low ponytail with a blue band in the back, and a pair of brown retro aviator goggles at the hairline with blue accents, costing {{Cost|55 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|12 SC|season=Flight}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Hairpiece">Hair Accessory</span>===
+The [[Hair Accessory]] offered by this Spirit is a pair of single white, blue, and yellow feathers, one on each side of the head, costing {{Cost|45 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's third node ({{Cost|28 SC|season=Flight}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hairpiece|icon}} {{!}} The Hair Accessory icon
+{{Icon Name||Hairpiece|real}} {{!}} The Hair Accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Cape===
+The [[Cape]] offered by this Spirit is inspired by a bird's plumage, with long feather-like fabric sections tied off with brown bands in the front of the Cape, a fluffy white collar, a blue half on the left of the Cape, and an orange half on the right side, divided down the center by fluffy white feathers, with each Cape half accented by a darker, flower-like shape coming from the collar, costing {{Cost|70 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fifth node ({{Cost|70 SC|season=Flight}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||Cape|interior}} {{!}} The Cape interior
+{{Icon Name||Cape|real}} {{!}} The Cape back
+<!--{{Icon Name||Cape|exterior}} {{!}} The Cape exterior-->
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Music Sheet==
+The Lively Navigator offers the {{Music Sheet|24}} [[Music Sheet]] #24, costing {{Cost|15 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's sixth node ({{Cost|98 SC|season=Flight}} total). It is a song in the key of C Major.<br>
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guide
+|content=
+{{#ev:youtube|vOyCqSk5qhU||inline|Music Sheet Video Guide by Ikejiji}}
+}}
+{{Clear}}
+
+==Traveling Spirit==
+{{Friendship Tree Info | traveling
+|ts_dates=* May 8, 2025 (#139)
+* August 17, 2023 (#94)
+}}
+<section begin='TS Friendship Tree' />{{Friendship Tree
+|spirit = Lively Navigator
+|image  = Lively Navigator.png
+|season = Flight
+
+|nodeC6 = Cape 70 C
+|nodeL5 = Hair 55 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeR4 = music24 15 C
+|nodeC3 = wing
+|nodeL2 = Hairpiece 45 C
+|nodeC2 = spell5
+|nodeR2 = Heart 3 C
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end='TS Friendship Tree' />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+The hints given before the [[Lively Navigator]]'s first appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=First Visit Hints
+|content=<div>
+* Is excellent at doing mental math
+* Doesn't understand why others think crabs are cute
+* Came up with a new kickflip trick, and then named it after themselves
+* Doesn't get cold easily
+* Can recognize mantas they know just from how they fly in the air
+* Prefers to count in even numbers
+* Thinks fish are a bit strange
+** "They don't ''hate'' fish, they just think they're a bit odd"
+* "One more question... Do they like plushies?"
+** "I think they would prefer figurines more"
+* Has a laidback attitude
+* Really enjoys helping others!
+* Prefers to spend their time outdoors
+</div>
+}}
+
+==Season Friendship Tree==
+{{Friendship Tree Info | season | season=Flight}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Lively Navigator
+|image  = Lively Navigator.png
+|type   = season
+|season = Flight
+
+|nodeC7 = season_heart 3 SC SP
+|nodeL6 = trail_spell SP
+|nodeC6 = music24 28 SC
+|nodeL5 = Cape SP
+|nodeC5 = trail_spell 24 SC
+|nodeL4 = emote4 SP
+|nodeC4 = emote3 18 SC
+|nodeL3 = spell5 SP
+|nodeC3 = Hairpiece 16 SC
+|nodeL2 = Hair SP
+|nodeC2 = spell5 12 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Unique Daily Quests==
+{{#section-h:Quests/Daily Quest Spirits|{{PAGENAME}}}}
+
+==Personality==
+On September 30 2021, TGC officially announced <ref name="Personality Tweet">https://twitter.com/thatskygame/status/1443734909240152064</ref> and introduced {{PAGENAME}} with the following personality traits:
+*☁️ Keeps others safe by guiding them in the skies⁣
+*🧭 Has an eye for spotting the safest airways due to history as a sailor⁣
+*🙌 Keen problem-solver⁣
+*🏎️ Enjoys participating in races as a hobby
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Lively Navigator Promo image (first visit).png
+season of flight spirit map1 lively navigator.png
+</gallery>
+
+==References==
+<references />
+
+[[fr:Navigateur dynamique]]
+[[de:Lebhafter Navigator]]
+[[pt-br:Navegante Vigoroso]]
+[[ru:Резвый штурман]]
+[[ja:快活な誘導手]]

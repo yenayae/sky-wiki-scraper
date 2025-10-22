@@ -1,0 +1,655 @@
+[[File:Icon-STAR.png|thumb|STAR menu icon]]
+
+<section begin="Summary" />STAR is an NFC (Near Field Communication) technology that is embedded into some of Sky [https://thatskyshop.com/collections/all-products merchandise] — in the shape of a star! STAR gives you the ability to make real-life connections and experiences both inside and outside of Sky. Each STAR comes with a unique feature based on the item’s design allowing you to scan it with compatible devices to activate fun in-game features.<section end="Summary" />
+
+Take a look at the [[That Sky Shop]] page to see all items compatible with the STAR feature.  
+
+<gallery spacing="small" widths="80" bordercolor="transparent" hideaddbutton="true" mode="nolines">
+File:Earth_Day_Cape_Pin.png
+File:Lightseeker_Cape_Pin.png
+File:Weasel_Mask_Pin.png
+File:Manta_Pin.png
+File:Chibi_Mask_Pin.png
+File:Dreams_Bearhug_Pin.png
+File:Gratitude_Fox_Mask_Pin.png
+File:TGC_Pin.png
+</gallery>
+
+== Functionality ==
+In summary, some STAR features can include:
+
+*Allowing you, and friends with whom you’re holding hands, to wear a certain cosmetic (such as a cape or mask)
+*Teleporting you to a certain area in the game (such as Elder Temples)
+*Enabling a certain friendship ability, without needing to have previously unlocked the friendship ability in game (such as warp, piggyback)
+*Interacting with creatures in game (such as crabs and mantas)
+
+See the wiki page on [[That Sky Shop]] for the full list.
+
+== STAR Feature Cooldowns and Duration ==
+Expand the following table to see a list of all items with STAR features, their duration and cooldown.
+
+This information was gathered with the help of {{Userlinks|99rene}}, {{Userlinks|Raiiiiiiiiiiiin}}, {{Userlinks|Ray808080}}, SolarTravelingTime and Bubba on Discord, and helpful players on Reddit.
+
+{|class="sortable mw-collapsible mw-collapsed article-table"
+! Wave
+! class="unsortable" | Pin Name
+! Duration
+! Cooldown
+! class="unsortable" | Notes
+|-
+|
+| TGC pin
+| 5 min
+| 720 min
+| 
+|-
+| 1
+| [[That Sky Shop/Wave 1#Earth Day Friendship Pin|Earth Day Friendship Pin]]
+| 5 min
+| 20 min
+|
+|-
+| 1
+| [[That Sky Shop/Wave 1#Earth Day Cape Pin|Earth Day Cape Pin]]
+| 10 min
+| 15 min
+|
+|-
+| 1
+| [[That Sky Shop/Wave 1#Healer Crabs Pin|Healer Crabs Pin]]
+| 5 min
+| 20 min
+|
+|-
+| 1
+| [[That Sky Shop/Wave 1#Weasel Mask Pin|Weasel Mask Pin]]
+| 10 min
+| 15 min
+|
+|-
+| 1
+| [[That Sky Shop/Wave 1#Lightseeker Cape Pin|Lightseeker Cape Pin]]
+| 10 min
+| 15 min
+|
+|-
+| 1
+| [[That Sky Shop/Wave 1#Manta Pin|Manta Pin]]
+| n/a
+| 1 min
+|
+|-
+| 1
+| [[That Sky Shop/Wave 1#Harmony Harp Pin|Harmony Harp Pin]]
+| 10 min
+| 15 min
+|
+|-
+| 1
+| [[That Sky Shop/Wave 1#You and I Pins (PAIR)|You and I Pins]]
+| n/a
+| n/a
+|
+|-
+| 1
+| [[That Sky Shop/Wave 1#Flipped Crab Pin|Flipped Crab Pin]]
+| n/a
+| 1 min
+|
+|-
+| 1
+| [[That Sky Shop/Wave 1#Elder of the Isle Pin|Elder of the Isle Pin]]
+| n/a
+| 20 min
+|
+|-
+| 1
+| [[That Sky Shop/Wave 1#Elder of the Prairie Pin|Elder of the Prairie Pin]]
+| n/a
+| 20 min
+|
+|-
+| 2
+| [[That Sky Shop/Wave 2#Lightseeker Umbrella|Lightseeker Umbrella]]
+| 10 min
+| 15 min
+|
+|-
+| 2
+| [[That Sky Shop/Wave 2#Soulmates in Sky Pins|Soulmates in Sky Pins]]
+| 20 min
+| none
+|
+|-
+| 2
+|[[That Sky Shop/Wave 2#Elder of the Forest Pin|Elder of the Forest Pin]]
+| n/a
+| 20 min
+|
+|-
+| 2
+|[[That Sky Shop/Wave 2#Hidden Portal of the Forest Pin|Hidden Portal of the Forest Pin]]
+| n/a
+| 20 min
+|
+|-
+| 2
+|[[That Sky Shop/Wave 2#Rhythm Director Cape Pin|Rhythm Director Cape Pin]]
+| 10 min
+| 15 min
+|
+|-
+| 2
+|[[That Sky Shop/Wave 2#Petal Cape Pin|Petal Cape Pin]]
+| 10 min
+| 15 min
+|
+|-
+| 2
+|[[That Sky Shop/Wave 2#Chibi Mask Pin|Chibi Mask Pin]]
+| 10 min
+| 15 min
+|
+|-
+| 2
+|[[That Sky Shop/Wave 2#Rhythm Actor Mask Pin|Rhythm Actor Mask Pin]]
+| 10 min
+| 15 min
+|
+|-
+| 3
+|[[That Sky Shop/Wave 3#Dreams Bearhug Pin|Dreams Bearhug Pin]]
+| 5 min
+| none
+|
+|-
+| 3
+|[[That Sky Shop/Wave 3#Bloom Tea Set Pin|Bloom Tea Set Pin]]
+| 30 min
+| 15 min
+|
+|-
+| 3
+|[[That Sky Shop/Wave 3#Bloom Cape Pin|Bloom Cape Pin]]
+| 30 min
+| 15 min
+|
+|-
+| 3
+|[[That Sky Shop/Wave 3#Gratitude Fox Mask Pin|Gratitude Fox Mask Pin]]
+| 10 min
+| 15 min
+|
+|-
+| 3
+|[[That Sky Shop/Wave 3#Dreams Postman Cape Pin|Dreams Postman Cape Pin]]
+| 10 min
+| 15 min
+|
+|-
+| 3
+|[[That Sky Shop/Wave 3#Hermit Valley Pin|Hermit Valley Pin]]
+| n/a
+| 20 min
+|
+|-
+| 3
+|[[That Sky Shop/Wave 3#Elder of the Valley Pin|Elder of the Valley Pin]]
+| n/a
+| 20 min
+|
+|-
+| 4
+|[[That Sky Shop/Wave 4#Ocean Cape Pin|Ocean Cape Pin]]
+| 30 min
+| 15 min
+|
+|-
+| 4
+|[[That Sky Shop/Wave 4#2nd Anniversary Crab Keychain|2nd Anniversary Crab Keychain]]
+| n/a
+| n/a
+| The player will be teleported to the [[Secret Area]] once scanned and the spell will last until the game is closed.
+|-
+| 4
+|[[That Sky Shop/Wave 4#AI Love Sky Keychain|AI Love Sky Keychain]]
+| 3 min
+| 3 min
+| Cooldown starts with spell activation
+|-
+| 4
+|[[That Sky Shop/Wave 4#Belonging White Cape Pin (Cancelled)|Belonging White Cape Pin (Cancelled)]]
+| 10 min
+| 15 min
+|
+|-
+| 4
+|[[That Sky Shop/Wave 4#Secret of the Prairie Pin|Secret of the Prairie Pin]]
+| n/a
+| n/a
+|
+|-
+| 4
+|[[That Sky Shop/Wave 4#Rhythm Piano Pin|Rhythm Piano Pin]]
+| 10 min
+| 15 min
+|
+|-
+| 5
+|[[That Sky Shop/Wave 5#Enchantment Play Fight Pins|Enchantment Play Fight Pins]]
+| 5 min
+| none
+|
+|-
+| 5
+|[[That Sky Shop/Wave 5#Dark Dragon Pin|Dark Dragon Pin]]
+| n/a
+| none
+|
+|-
+| 5
+|[[That Sky Shop/Wave 5#New Year Fireworks Pin|New Year Fireworks Pin]]
+| n/a
+| none
+| The show is about 5 minutes long.
+|-
+| 5
+|[[That Sky Shop/Wave 5#Fortune Fireworks Pin|Fortune Fireworks Pin]]
+| n/a
+| none
+| The show is about 5 minutes long.
+|-
+| 5
+|[[That Sky Shop/Wave 5#Forgotten Ark Pin|Forgotten Ark Pin]]
+| n/a
+| 20 min
+|
+|-
+| 5
+|[[That Sky Shop/Wave 5#Elder of the Wasteland Pin|Elder of the Wasteland Pin]]
+| n/a
+| 20 min
+|
+|-
+| 5
+|[[That Sky Shop/Wave 5#Enchantment Alchemist Cape Pin|Enchantment Alchemist Cape Pin]]
+| 10 min
+| 15 min
+|
+|-
+| 5
+|[[That Sky Shop/Wave 5#Scout Horn Pin|Scout Horn Pin]]
+| 10 min
+| 15 min
+|
+|-
+| 6
+|[[That Sky Shop/Wave 6#3rd Anniversary Dark Dragon Keychain|3rd Anniversary Dark Dragon Keychain]]
+| n/a
+| 1 min
+|
+|-
+| 6
+|[[That Sky Shop/Wave 6#Rainbow Spell Pin|Rainbow Spell Pin]]
+| n/a
+| 15 min
+|
+|-
+| 6
+|[[That Sky Shop/Wave 6#thatskykid (2022 Special Edition)|thatskykid (2022 Special Edition)]]
+| n/a
+| none
+| The player will be teleported to the [[Secret Area]] once scanned and the spell will last while in office or until the player says goodbye.
+|-
+| 6
+|[[That Sky Shop/Wave 6#thatskykid|thatskykid]]
+| 5 min
+| 10 min
+|
+|-
+| 6
+|[[That Sky Shop/Wave 6#Day & Night Pin|Day & Night Pin]]
+| n/a
+| n/a
+|
+|-
+| 6
+|[[That Sky Shop/Wave 6#Love Seesaw Pin|Love Seesaw Pin]]
+| 10 min
+| 15 min
+|
+|-
+| 6
+|[[That Sky Shop/Wave 6#Nature Turtle Pin|Nature Turtle Pin]]
+| n/a
+| n/a
+| The player will be teleported to [[Sanctuary Islands]] once scanned and the spell will last until the game is closed.
+|-
+| 7
+| [[That Sky Shop/Wave 7#Sky x AURORA Doll Plush Set|Sky x AURORA Doll Plush Set]]
+| 10 min
+| 15 min
+|
+|-
+| 7
+| [[That Sky Shop/Wave 7#Sky x AURORA Doll Plush Set|Sky x AURORA Doll Mini instrument]]
+| 10 min
+| 15 min
+|
+|-
+| 8
+| [[That Sky Shop/Wave 8#Winter Feast Scarf|Winter Feast Scarf]]
+| 10 min
+| 15 min
+|
+|-
+| 8
+| [[That Sky Shop/Wave 8#Bunny Plush Pin Keychain|Bunny Plush Pin Keychain]]
+| 10 min
+| 15 min
+|
+|-
+| 8
+| [[That Sky Shop/Wave 8#Crab Plush Pin Keychain|Crab Plush Pin Keychain-Classic]]
+| 10 min
+| 15 min
+|
+|-
+| 8
+| [[That Sky Shop/Wave 8#Crab Plush Pin Keychain|Crab Plush Pin Keychain-Special Edition I]]
+| 10 min
+| 15 min
+|
+|-
+| 9
+| [[That Sky Shop/Wave 9#Bloom Pin|Bloom Pin]]
+| n/a
+| none
+|
+|-
+| 10
+| [[That Sky Shop/Wave 10#4th Anniversary Box - Sky x Le Petit Prince|Sky x Le Petit Prince Figurine I]]
+| 
+| 
+|
+|-
+| 10
+| [[That Sky Shop/Wave 10#4th Anniversary Box - Sky x Le Petit Prince|Sky Kid Figurine]]
+| 
+| 
+|
+|-
+| 10
+| [[That Sky Shop/Wave 10#Manta Plush (38")|Manta Plush (38")]]
+| 10 min
+| 15 min 
+|
+|-
+| 10
+| [[That Sky Shop/Wave 10#Starlight Desert Pin|Starlight Desert Pin]]
+| n/a
+| 20 min 
+|
+|-
+| 10
+| [[That Sky Shop/Wave 10#Elder of the Vault Pin|Elder of the Vault Pin]]
+| n/a
+| 20 min 
+|
+|-
+| 11
+| [[That Sky Shop/Wave 11#Feast Snowflake Cape Pin|Feast Snowflake Cape Pin]]
+| unknown
+| unknown
+|
+|-
+| 11
+| [[That Sky Shop/Wave 11#Lantern Pin|Lantern Pin]]
+| unknown
+| unknown
+|
+|-
+| 11
+| [[That Sky Shop/Wave 11#Fortune Tiger Mask Pin|Fortune Tiger Mask Pin]]
+| unknown
+| unknown
+|
+|-
+| 11
+| [[That Sky Shop/Wave 11#The Art of Sky|The Art of Sky]]
+| 20 min
+| 5 min 
+|
+|-
+| 11
+| [[That Sky Shop/Wave 11#Feast Snowflake Cape Pin|Feast Snowflake Cape Pin]]
+| unknown
+| unknown
+|
+|-
+| 11
+| [[That Sky Shop/Wave 11#Lantern Pin|Lantern Pin]]
+| unknown
+| unknown
+|
+|-
+| 11
+| [[That Sky Shop/Wave 11#Fortune Tiger Mask Pin|Fortune Tiger Mask Pin]]
+| unknown
+| unknown
+|
+|-
+| 11
+| [[That Sky Shop/Wave 11#Cave of Prophecies Pin|Cave of Prophecies Pin]]
+| n/a
+| none
+|
+|-
+| 12
+| [[That Sky Shop/Wave 12#Little Oreo Plush|Little Oreo Plush]]
+| unknown
+| unknown
+|
+|-
+| 12
+| [[That Sky Shop/Wave 12#Sky Deer Plush|Sky Deer Plush]]
+| n/a
+| none
+|
+|-
+| 12
+| [[That Sky Shop/Wave 12#Sanctuary Sunglasses Pin|Sanctuary Sunglasses Pin]]
+| unknown
+| unknown
+|
+|-
+| 12
+| [[That Sky Shop/Wave 12#Sanctuary Islands Pin|Sanctuary Islands Pin]]
+| n/a
+| 20 min
+|
+|-
+| 12
+| [[That Sky Shop/Wave 12#Moments Side Hug Keychain|Moments Side Hug Keychain]]
+| unknown
+| unknown
+|
+|-
+| 12
+| [[That Sky Shop/Wave 12#Healer Crab Plush Keychain|Healer Crab Plush Keychain]]
+| 10 min
+| unknown
+|
+|-
+| 12
+| [[That Sky Shop/Wave 12#5th Anniversary Box|Cradle Carry Pin]]
+| 5 min
+| 5 sec
+|
+|-
+| 13
+| [[That Sky Shop/Wave 13#Mischief Bat Cape Pin|Mischief Bat Cape Pin]]
+| unknown
+| unknown
+|
+|-
+| 13
+| [[That Sky Shop/Wave 13#Dark Dragon Fireworks Pin|Dark Dragon Fireworks Pin]]
+| 3 min
+| 1 min
+|
+|-
+| 13
+| [[That Sky Shop/Wave 13#Wiseria Bloom Pin|Wiseria Bloom Pin]]
+| unknown
+| unknown
+|
+|-
+| 14
+| [[That Sky Shop/Wave 14#Bearhug Hermit Spirit Plush|Bearhug Hermit Spirit Plush]]
+| unknown
+| unknown
+|
+|-
+| 14
+| [[That Sky Shop/Wave 14#Fish Hood Plush Keychain|Fish Hood Plush Keychain]]
+| unknown
+| unknown
+|
+|-
+| 14
+| [[That Sky Shop/Wave 14#Huge and Tiny Spell Pin|Huge and Tiny Spell Pin]]
+| unknown
+| unknown
+|
+|-
+| 14
+| [[That Sky Shop/Wave 14#Grow Spell Pin|Grow Spell Pin]]
+| unknown
+| unknown
+|
+|-
+| 14
+| [[That Sky Shop/Wave 14#New Year Mask Pin|New Year Mask Pin]]
+| unknown
+| unknown
+|
+|-
+| 15
+| [[That Sky Shop/Wave 15#Bloom Arum Lily Pin|Bloom Arum Lily Pin]]
+| unknown
+| unknown
+|
+|-
+| 16
+| [[That Sky Shop/Wave 16#Rose Petal Pin|Rose Petal Pin]]
+| unknown
+| unknown
+|
+|-
+| 16
+| [[That Sky Shop/Wave 16#Meteor Shower Keychain Charm|Meteor Shower Keychain Charm]]
+| unknown
+| unknown
+|
+|-
+| 16
+| [[That Sky Shop/Wave 16#Sky x Moomin Plush Keychain Charm|Sky x Moomin Plush Keychain Charm]]
+| 10 min
+| 15 min
+|
+|-
+| 16
+| [[That Sky Shop/Wave 16#Sky x Le Petit Prince Plush Pin Keychain Charm - The Fox|Sky x Le Petit Prince Plush Pin Keychain Charm - The Fox]]
+| 10 min
+| 15 min
+|
+|-
+| 16
+| [[That Sky Shop/Wave 16#Manatee Plush|Manatee Plush]]
+| unknown
+| unknown
+|
+|-
+| 16
+| [[That Sky Shop/Wave 16#Manatee Plush Keychain Charm|Manatee Plush Keychain Charm]]
+| 3 min
+| 3 min
+|
+|}
+
+==Compatibility==
+STAR features are compatible with: 
+
+'''<big>iOS;</big>'''
+
+*iPhone 7 or later (iPhone 8 and later is most optimal)
+*Require iOS 13 or higher
+
+<big>'''iPadOS;'''</big>
+
+*'''Currently''', there are no iPads that support NFC technology
+
+'''<big>Android;</big>'''
+
+*Android NFC enabled devices
+
+<big>'''Nintendo Switch;'''</big>
+
+*All Nintendo Switch Models (Regular and Switch Lite) can scan STAR/NFC; some pins may have difficultly scanning due to the design and shape of the pin's back paired with the Switch's NFC reader being behind the right control stick. Please be careful while scanning as you may scratch the Switch's screen.
+*While the Nintendo Switch Pro Controller has the ability to scan NFC, the design and shape of the STAR pin's backs doesn't allow them to be close enough to the reader to scan.
+
+<big>'''PlayStation;'''</big> 
+
+*'''Currently''', PlayStation does not support NFC technology
+
+
+<small>'''We recommend testing the usability of your device’s NFC before buying NFC embedded products.'''</small>
+
+==How to scan STAR==
+Depending on your device, you will first have to open the in-game settings, then go into the '''STAR''' option. Most devices can scan the STAR on the back of the phone. It may take a few tries to scan it due to the high proportion of brass in most items, requiring the scanner to have higher sensitivity and a closer contact. Therefore more recent NFC-enabled devices will be most optimal and recommended.<br /><sub>If the Device has NFC always enabled, you will not have to open the in-game menu each time. You can simply scan it anytime anywhere (when NFC is enabled)</sub>
+
+===iOS/iPhone===
+You can scan a STAR Item on an iPhone by placing the STAR on the back of the head of the phone. You will have to open the in-game STAR option every time you want to scan one. 
+[[File:How_to_scan_STAR_pins_on_iPhone_7%3F|none|thumb|300x300px]]
+
+===Android===
+'''Make sure your device supports NFC Technology; you can usually check by searching <nowiki>''</nowiki>does [DEVICE] have NFC<nowiki>''</nowiki>''' '''online'''
+
+Firstly, you must have NFC enabled on your device. On most devices, you can enable it by entering your Notification Center (swipe down from the top of the screen), and enabling NFC from the Tool Bar (You may have to look through multiple pages to find it). You can also enter Settings and then search for NFC. Most, ''but not all,'' devices will let you be able to scan STAR anytime anywhere, although requiring NFC to be enabled during it. Some devices will need to open the STAR option everytime.
+
+Most Android devices can scan the STAR Item on the back of the phone. Different models may have varying locations, you can check where to scan with your specific device by searching it up online.
+[[File:How_to_scan_STAR_pins_on_Samsung_Galaxy_S10?|none|thumb|300x300px]]
+
+=== Nintendo Switch===
+[[File:Secret of the Prairie Pin Switch.jpg|alt=Depicted is a Secret of the Prairie pin placed on the right joycon controller. The pin is pushed slightly under the joycon from the right side, with the Star tag rotated as closely towards the joycon as possible.|thumb|300x300px|Placement for the Secret of the Prairie on the Switch.]]
+You can scan the STAR Item by putting the STAR under the joystick of the Right Joy-Con. You will have to open the in-game STAR option every time you want to scan one. 
+[[File:How_to_scan_your_STAR_pins_on_nintendo_switch|none|thumb|300x300px]]
+
+===Other Devices===
+You can find other videos and explanations for scanning STAR in [https://www.youtube.com/channel/UCdprnFhVJA3TBxsBYQt0-ZA/videos thatskyshop's YouTube Channel.]
+
+==Trying a STAR Item for the first time==
+When scanning a STAR item for the first time, Sky should ask the player if they’d like to bind the item to their account. This action '''can not''' be undone and is meant to be permanent. Each item can only be bound to a single Sky account.
+
+==STAR Serendipity==
+[[File:STAR-serendipity.png|thumb|STAR Serendipity icon]]
+The Serendipity matchmaking feature allows players with linked STAR items to match with other players also with linked STAR items who are online and not already their friend. This feature can also happen with (already known) Facebook Friends, find out more here.
+
+To utilize the Serendipity matchmaking system, follow these steps: 
+
+#Open the "Favorite" Friends constellation in Home
+#If you have a match, a Pin Icon with a red notification dot will appear, outside the main constellation
+#Tap the star to cause the matched player’s character to appear, in the form of a stranger (darkened character)
+#Above the character will appear the Warp Icon, tapping it will teleport you to them like any other friend.
+
+The matched player will have a tag (Pin Icon similar to the one you tapped before) over their head so you can recognize them. You can tap on your character to reveal the tag if they are too far away, but it will appear automatically if you are close to them.
+== Troubleshooting and FAQ==
+For troubleshooting any problem you may encounter, please refer to the [https://www.thatskyshop.com/pages/faqs FAQ section on ThatSkyShop.]
+
+
+[[de:STAR]]
+[[fr:STAR]]
+[[pt-br:STAR]]
+[[Category:Menus]]
+[[Category:thatskyshop]]

@@ -1,0 +1,199 @@
+{{Guide Infobox
+|title     = Spirit of Mural
+|image     = Nine-Colored-Deer-Guide-Spirit.png
+|type      = Seasonal
+|ultimates = {{Spirit Item||outfit_u|link=#Nine-Colored Deer Ultimate Outfit|label=Nine-Colored Deer Ultimate Outfit|infobox}}{{Spirit Item||hair_u|link=#Nine-Colored Deer Ultimate Hair|label=Nine-Colored Deer Ultimate Hair|infobox}}{{Spirit Item||cape_u|link=#Nine-Colored Deer Ultimate Cape|label=Nine-Colored Deer Ultimate Cape|infobox}}
+|cosmetics = {{Spirit Item||mask|link=#Mask|label=Spirit of Mural Mask|infobox}}{{Spirit Item||hairpiece|link=#Hair Accessory|label=Spirit of Mural Hair Accessory|infobox}}
+|props     = 
+|season    = Nine-Colored Deer
+|realm     = Vault of Knowledge
+|location  = Crescent Oasis
+}}
+<section begin="Summary" />The '''Spirit of Mural''' is a Seasonal Guide (also known as Quest Giver) from the [[Season of the Nine-Colored Deer]] who offers Quests and [[Spirit of Mural#Ultimate Gifts|cosmetics]]. The Spirit of Mural is found at the [[Crescent Oasis]], in front of the [[Murals|Mural]] by the pool of water. The Ultimate Guide offered a {{Spirit Item|Spirit of Mural|necklace_u|link=Spirit of Mural#Nine-Colored Deer Ultimate Pendant|label=Nine-Colored Deer Ultimate Pendant|inline_text}}, a {{Spirit Item|Spirit of Mural|outfit_u|link=Spirit of Mural#Nine-Colored Deer Ultimate Outfit|label=Nine-Colored Deer Ultimate Outfit|inline_text}}, a {{Spirit Item|Spirit of Mural|hair_u|link=Spirit of Mural#Nine-Colored Deer Ultimate Hair|label=Nine-Colored Deer Ultimate Hair|inline_text}}, and a {{Spirit Item|Spirit of Mural|cape_u|link=Spirit of Mural#Nine-Colored Deer Ultimate Cape|label=Nine-Colored Deer Ultimate Cape|inline_text}} for [[Season Pass]] holders. This Ultimate Guide also provides new cosmetics in the Quest Tree, available to all players: a {{Spirit Item|Spirit of Mural|mask|link=Spirit of Mural#Mask|inline_text}} and a {{Spirit Item|Spirit of Mural|hairpiece|link=Spirit of Mural#Hair Accessory|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Nine-Colored Deer Guide Promo art.png|none|thumb|300x300px|TGC's Promo image]]
+
+==<span id="Ultimate Pendant"><span id="Nine-Colored Deer Ultimate Pendant">Seasonal Pendant</span></span>==
+The Nine-Colored Deer Ultimate [[Necklaces|Pendant]] is the usual pendant featuring the Season's emblem attached to a necklace, but colored silver instead of gold. It was a [[Season Pass]] exclusive item during the Season, available for free from the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||necklace_u|icon}} {{!}} Nine-Colored Deer Ultimate Pendant icon
+{{Icon Name||necklace_u|real}} {{!}} Nine-Colored Deer Ultimate Pendant
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Ultimate Gifts==
+The Spirit of Mural offered 3 Ultimate Gifts, available to be purchased by [[Season Pass]] holders with [[Currency#Season_Hearts|Seasonal Hearts]] during the Season of the Nine-Colored Deer only.
+
+===<span id="Ultimate Outfit">Nine-Colored Deer Ultimate Outfit</span>===
+The Nine-Colored Deer Ultimate [[Outfit]] is a pair of red, wide-legged pants with a jagged teal and beige pattern at the cuffs, a pair of teal loops hanging from the waist, and a white, short-sleeved top tucked into the waistband. It was a [[Season Pass]] exclusive item during the Season, available for {{Cost|1 SH|season=Nine-Colored Deer}} after unlocking the Friendship Tree's second node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||outfit_u|icon}} {{!}} Nine-Colored Deer Ultimate Outfit icon
+{{Icon Name||outfit_u_real}} {{!}} Nine-Colored Deer Ultimate Outfit
+{{Icon Name||outfit_u_back}} {{!}} Nine-Colored Deer Ultimate Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Ultimate Hair">Nine-Colored Deer Ultimate Hair</span>===
+The Nine-Colored Deer Ultimate [[Hair]] is a loosely pulled back bun that resembles the shape of rabbit ears, tied with a thin red ribbon and decorated with a small, tasseled blue gem in the front. It was a [[Season Pass]] exclusive item during the Season, available for {{Cost|1 SH|season=Nine-Colored Deer}} after unlocking the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||hair_u|icon}} {{!}} Nine-Colored Deer Ultimate Hair icon
+{{Icon Name||hair_u_real}} {{!}} Nine-Colored Deer Ultimate Hair front
+{{Icon Name||hair_u_side}} {{!}} Nine-Colored Deer Ultimate Hair side
+{{Icon Name||hair_u_back}} {{!}} Nine-Colored Deer Ultimate Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Ultimate Cape">Nine-Colored Deer Ultimate Cape</span>===
+The Nine-Colored Deer Ultimate [[Cape]] is a transparent sparkly blue sash that floats over the player's shoulders, accompanied by a short transparent sparkly yellow shawl with rings that connect the two in the front. It was a [[Season Pass]] exclusive item during the Season, available for {{Cost|2 SH|season=Nine-Colored Deer}} after unlocking the Friendship Tree's third node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||cape_u|icon}} {{!}} Nine-Colored Deer Ultimate Cape icon
+{{Icon Name||cape_u_front}} {{!}} Nine-Colored Deer Ultimate Cape front
+{{Icon Name||cape_u_interior}} {{!}} Nine-Colored Deer Ultimate Cape interior
+{{Icon Name||cape_u_real}} {{!}} Nine-Colored Deer Ultimate Cape back
+{{Icon Name||cape_u_exterior}} {{!}} Nine-Colored Deer Ultimate Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Additional Cosmetics==
+Upon completing the [[Season of the Nine-Colored Deer#Quest #3|third]] and [[Season of the Nine-Colored Deer#Quest #5|fifth Quests]] of the Season of the Nine-Colored Deer, two additional cosmetics were available to collect for regular Candles through the Spirit of Mural's Friendship Tree. No [[Season Pass]] or other IAP purchase were necessary for these collaboration items. The themed Mask offered for the Nine-Colored Deer collaboration was available until the Season ended on '''Sunday, March 31, 2024 at 23:59 PDT (UTC -7)''', while the themed Hair Accessory is '''permanently available''' from the Season Guide.
+
+Please note that since it is part of a limited collaboration, the Mask will not be available once the Season is over and is not scheduled to return in future years.
+
+===<span id="Mask">Mask</span>===
+<section begin="Deer Mask" />
+The [[Mask]] offered by the Spirit of Mural is white with a protruding snout and multi-colored markings around the eyes that resemble those of the Nine-Colored Deer, costing {{Cost|120 C}}. It was available to all players after completing [[Season of the Nine-Colored Deer#Quest 5|Quest #5]] of the Season of the Nine-Colored Deer, from the Quest Tree's seventh node. <small>(Since these are part of a limited collaboration, they are not scheduled to return in future years.)</small><br>
+<br>
+{{#tag:gallery
+|{{Icon Name||mask|icon}} {{!}} The Mask icon
+{{Icon Name||mask_real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}<section end="Deer Mask" />
+
+===<span id="Hair Accessory">Hair Accessory</span>===
+<section begin="Petal Accessory" />
+The [[Hair Accessory]] offered by the Spirit of Mural is a pale blue flower with three petals that sits on the side of the player's head, costing {{Cost|50 C}}. It is permanently available to all players after completing [[Season of the Nine-Colored Deer#Quest 3|Quest #3]] of the Season of the Nine-Colored Deer, from the Quest Tree's fourth node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||hairpiece|icon}} {{!}} The Hair Accessory icon
+{{Icon Name||hairpiece_real}} {{!}} The Hair Accessory
+|widths=125|captionalign=center|spacing=small
+}}<section end="Petal Accessory" />
+
+==Friendship Tree==
+The Spirit of Mural's Friendship Tree was available to the right of the Quest Tree during the Season of the Nine-Colored Deer only. '''Now that the Season is over, these cosmetics are no longer available.'''
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Spirit of Mural
+|image  = Nine-Colored-Deer-Guide-Spirit.png
+|type   = season
+|season= Nine-Colored Deer
+
+|nodeC4 = cape_u 2 SH AP
+|  linkC4 = Spirit of Mural#Nine-Colored Deer Ultimate Cape
+|  labelC4 = Nine-Colored Deer Ultimate Cape
+
+|nodeC3 = outfit_u 1 SH AP
+|  linkC3 = Spirit of Mural#Nine-Colored Deer Ultimate Outfit
+|  labelC3 = Nine-Colored Deer Ultimate Outfit
+
+|nodeC2 = hair_u 1 SH AP
+|  linkC2 = Spirit of Mural#Nine-Colored Deer Ultimate Hair
+|  labelC2 = Nine-Colored Deer Ultimate Hair
+
+|nodeC1 = necklace AP
+|  linkC1 = Spirit of Mural#Nine-Colored Deer Ultimate Pendant
+|  labelC1 = Nine-Colored Deer Ultimate Pendant
+}}<section end="Friendship Tree" />
+
+==Quest Tree==
+The Spirit of Mural Quest Tree is available for all players to complete Quests from the [[Season of the Nine-Colored Deer]]. Once you complete a Quest, a [[Currency#Hearts|Heart]] is available to be collected for free. 
+
+<section begin="Quest Tree" />{{Mobile Tabber
+|tab1 = Post-season
+|c1   ={{Friendship Tree
+|spirit = Spirit of Mural
+|image  = Nine-Colored-Deer-Guide-Spirit.png
+|type   = season
+|season= Nine-Colored Deer
+
+|nodeC5 = quest
+|  linkC5 = Season of the Nine-Colored Deer#Quest #5
+|  labelC5 = Quest 5
+
+|nodeL4 = Heart free 
+|nodeC4 = quest
+|  linkC4 = Season of the Nine-Colored Deer#Quest #4
+|  labelC4 = Quest 4
+
+|nodeL3 = hairpiece 50 C
+|  linkL3 = Spirit of Mural#Hair Accessory
+|  labelL3 = Spirit of Mural Hair Accessory
+|nodeC3 = quest
+|  linkC3 = Season of the Nine-Colored Deer#Quest #3
+|  labelC3 = Quest 3
+
+|nodeL2 = Heart free
+|nodeC2 = quest
+|  linkC2 = Season of the Nine-Colored Deer#Quest #2
+|  labelC2 = Quest 2
+
+|nodeL1 = Heart free
+|nodeC1 = quest
+|  linkC1 = Season of the Nine-Colored Deer#Quest #1
+|  labelC1 = Quest 1
+}}
+
+|tab2 = Mid-season
+|c2   ={{Friendship Tree
+|spirit = Spirit of Mural
+|image  = Nine-Colored-Deer-Guide-Spirit.png
+|type   = season
+|season= Nine-Colored Deer
+
+|nodeC6 = mask 120 C
+|  linkC6 = Spirit of Mural#Mask
+|  labelC6 = Spirit of Mural Mask
+
+|nodeC5 = quest
+|  linkC5 = Season of the Nine-Colored Deer#Quest #5
+|  labelC5 = Quest 5
+
+|nodeL4 = Heart free 
+|nodeC4 = quest
+|  linkC4 = Season of the Nine-Colored Deer#Quest #4
+|  labelC4 = Quest 4
+
+|nodeL3 = hairpiece 50 C
+|  linkL3 = Spirit of Mural#Hair Accessory
+|  labelL3 = Spirit of Mural Hair Accessory
+|nodeC3 = quest
+|  linkC3 = Season of the Nine-Colored Deer#Quest #3
+|  labelC3 = Quest 3
+
+|nodeL2 = Heart free
+|nodeC2 = quest
+|  linkC2 = Season of the Nine-Colored Deer#Quest #2
+|  labelC2 = Quest 2
+
+|nodeL1 = Heart free
+|nodeC1 = quest
+|  linkC1 = Season of the Nine-Colored Deer#Quest #1
+|  labelC1 = Quest 1
+}}
+}}<section end="Quest Tree" />
+==Personality==
+On January 12, 2024, TGC officially announced and introduced the Spirit of Mural with the following personality traits:
+
+* 🔸 Often entrusted as a confidante
+* 🔸 Observes at least as much as they speak
+* 🔸 Has a sharp memory for details
+* 🔸 Knows by heart which creatures arrive at the oasis when
+
+==References==
+<references/>
+
+[[fr:Esprit de la Fresque]]
+[[pt-br:Espírito do Mural]]

@@ -1,0 +1,127 @@
+<section begin="Table" />
+{| class="article-table sortable"
+! class="unsortable" |Image
+! class="unsortable" |Icon
+![[#Availability Legend|Avail.]]
+!Source
+!Price
+!# of<br>Sections
+!Dye Cost
+|- id="Chill Sunbather"
+| style="text-align: center;" |{{Spirit Item| Chill Sunbather | hairpiece_real | table | sort=1 }}
+| {{Spirit Item| Chill Sunbather | hairpiece | table | sort=1  }}
+| {{Avail Summary | season | spirit=Chill Sunbather | season=Sanctuary }}
+| {{Cost | 44 c }}
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Tinkering Chimesmith"
+| style="text-align: center;" |{{Spirit Item| Tinkering Chimesmith | hairpiece_real | table | sort=3 }}
+| {{Spirit Item| Tinkering Chimesmith | hairpiece | table | sort=3 }}
+| {{Avail Summary | season | spirit=Tinkering Chimesmith | season=Flight }}
+| {{Cost| 35 C }}
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Lively Navigator"
+| style="text-align: center;" |{{Spirit Item| Lively Navigator | hairpiece_real | table | sort=4 }}
+| {{Spirit Item| Lively Navigator | hairpiece | table | sort=4 }}
+| {{Avail Summary | season | spirit=Lively Navigator | season=Flight }}
+| {{Cost | 45 C }}
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Flight Ultimate Headpiece"
+| style="text-align: center;" |{{Spirit Item| Flight Guide | hairpiece_u_real | table | link=Flight Guide#Flight Ultimate Hair Accessory | sort=5 }}
+| {{Spirit Item| Flight Guide | hairpiece_u | table | link=Flight Guide#Flight Ultimate Hair Accessory | sort=5 }}
+| {{Avail Summary | ultimate | season=Flight }}
+| {{Cost | N/A }}
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Reassuring Ranger"
+| style="text-align: center;" |{{Spirit Item| Reassuring Ranger | hairpiece_real | table | sort=9 }}
+| {{Spirit Item| Reassuring Ranger | Hairpiece | table | sort=9 }}
+| {{Avail Summary | season | spirit=Reassuring Ranger | season=Moments }}
+| {{Cost | ? }}
+| 2
+| 1 or 2 {{Cost | D}} <hr>1 or 2 {{Cost | D}}
+|- id="Moments Ultimate Hair Accessory"
+| style="text-align: center;" |{{Spirit Item| Moments Guide | hairpiece_u_real | table | link=Moments Guide#Moments Ultimate Hair Accessory | sort=11 }}
+| {{Spirit Item| Moments Guide | hairpiece_u | table | link=Moments Guide#Moments Ultimate Hair Accessory | sort=11 }}
+| {{Avail Summary | ultimate | season=Moments }}
+| {{Cost | N/A }}
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Remnant of a Forgotten Haven"
+| style="text-align: center;"| {{Spirit Item| Remnant of a Forgotten Haven | hairpiece_real | table }}
+| {{Spirit Item| Remnant of a Forgotten Haven | hairpiece | table | sort=13 }} 
+| {{Avail Summary | season | spirit=Remnant of a Forgotten Haven | season=Revival }}
+| {{Cost | ? }}
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Nesting Nook"
+| style="text-align: center;" |{{Spirit Item| Nesting Nook | hairpiece_real | table | sort=16 }}
+| {{Spirit Item| Nesting Nook | hairpiece | table | sort=16  }}
+| {{Avail Summary | season | spirit=Nesting Nook | season=Nesting }}
+| {{Cost | ? }}
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Radiance Greeting Shaman"
+| style="text-align: center;" |{{Spirit Item| Radiance Greeting Shaman | Hairpiece_real | table | sort=21 }}
+| {{Spirit Item| Radiance Greeting Shaman | Hairpiece | table | sort=21  }}
+| {{Avail Summary | season | spirit=Radiance Greeting Shaman | season=Radiance }}
+| {{Cost | ? }}
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Days of Fortune Fish Accessory"
+| style="text-align: center;" |{{Days Item| Fortune Fish | real | table | sort=202 }}
+| {{Days Item| Fortune Fish | icon | table | sort=202 }}
+| {{Avail Summary | days | days=Fortune }}
+| {{Cost| 1.99 USD }}
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Days of Love Flower Crown"
+| style="text-align: center;" |{{Days Item| Love Flower Crown | real | table | sort=210 }}
+| {{Days Item| Love Flower Crown | icon | table | sort=210 | link=Days of Love#Days of Love Flower Crown | label=Days of Love Flower Crown}}
+| {{Avail Summary | days | days=Love }}
+| {{Cost| 15 H }}
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Style Top Hat"
+| style="text-align: center;"| {{Days Item| Style Top Hat | real | table | sort=280 }}
+| {{Days Item| Style Top Hat | icon | table | sort=280 }}
+| {{Avail Summary | days | days=Style }}
+| {{Cost| 12 AC }}
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Style Darkness Fascinator"
+| style="text-align: center;" |{{Days Item | Style Fascinator | real | table | sort=281 }}
+| {{Days Item | Style Fascinator | icon | table | sort=281 }}
+| {{Avail Summary | days | days=Style }}
+| {{Cost| ? }}
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Days of Summer Hat"
+| style="text-align: center;" |{{Days Item| Summer Hat | real | table | sort=270 }}
+| {{Days Item| Summer Hat | icon | table | sort=270 }}
+| {{Avail Summary | days | days=Sunlight }}
+| {{Cost| 44 C }}
+| 1
+| 2 or 4 {{Cost | D}}
+|}
+<section end="Table" />
+{{Avail Legend
+| regular 
+| permanent 
+| s+ 
+| u+ 
+| t* 
+| r*
+| d*
+| l*
+| days 
+| season 
+| ultimate 
+| limited 
+| conditional 
+}}
+
+[[fr:Tous les Cosmétiques Teintables/Tous les Accessoires de Cheveux Teintables]]
+[[ja:染色価格表/ヘッドアクセサリー染料価格表]]

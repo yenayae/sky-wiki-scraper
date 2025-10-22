@@ -1,0 +1,155 @@
+{{WIP|pagetype = spirit}}
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Action
+|image     = Migrating-Manta-Whisperer-Spirit-cutout.png
+|cosmetics = {{Spirit Item|Migrating Manta Whisperer|Outfit|infobox}}<!--
+-->{{Spirit Item|Migrating Manta Whisperer|Hair|infobox}}<!--
+-->{{Spirit Item|Migrating Manta Whisperer|Cape|infobox}}
+|season    = Season of Migration
+|realm     = Forest
+|location  = Wind Paths
+|ts        = None
+}}
+<section begin="Summary" />The Migrating Manta Whisperer is a [[Seasonal Spirit]] from the [[Season of Migration]] who offers the {{Emote|Migrating Manta Whisperer|inline_text}} Expression. The Migrating Manta Whisperer is found in the [[Wind Paths]], on top of a high mountain at the right and back of the area, near the [[Talented Builder]]. The collectibles [[#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Migrating Manta Whisperer|Outfit|inline_text}}, a {{Spirit Item|Migrating Manta Whisperer|Hair|inline_text}}, and a {{Spirit Item|Migrating Manta Whisperer|Cape|inline_text}}.<section end="Summary" /><br>
+<br><!--
+[[File:Migrating-Manta-Whisperer-Promo-art.png|none|thumb|320px|TGC's Promo image]]-->
+
+== Memory ==
+<div>{{#ev:youtube|3Pmg7hAMKwQ|200px|inline|Video Guide}}
+
+The Migrating Manta Whisperer can be found in the [[Wind Paths]], on top of a high mountain at the right and back of the area, near the [[Talented Builder]], by a gate above the chime workshop. This Spirit has a [[Standard Memory|standard memory]] with 8 memory fragments and a 15-minute overall [[Timed Memory|time limit]].
+
+As their memory unfolds, the Migrating Manta Whisperer can be seen conducting a [[Manta]] race, with the [[Backflipping Champion]] and [[Proud Victor]] as contestants, each kneeling on one of the Light Creatures. The Whisperer raises two hand-held flags to signal the Spirits to get ready, but they accidentally fly off early. After panicking a bit, the Whisperer manages to catch up to the Spirits, and continues to signal them to "set", and finally, "go!". During the race, the Spirits are accompanied by more Mantas that fly alongside them. While the Migrating Manta Whisperer continues to navigate the contestants and Manta herd around the area, the Backflipping Champion leads the race the entire time. But then, shortly before the end, the Proud Victor catches up and flies through the goal post as victor of the race. 
+
+At the end of the memory, the Migrating Manta Whisperer strikes a pose while navigating the Spirits with the flags. Shortly after, they applaude the Backflipping Champion and Proud Victor, which bow in return. Then, they turns around to see a swarm of Mantas fly across the area, quietly stunning the Spirits with their presence.
+</div>
+{{Clear}}
+
+==<span id="Expression">Expression</span>==
+This Spirit offers the {{Emote|Migrating Manta Whisperer|inline_text}} [[Expression]], which has 4 Levels. Level 1 is free and Level 3 is offered for {{Cost|24 SC|season=Season of Migration}} to all players. Level 2 and 4 are available for [[Season Pass]] holders exclusively.
+
+[[File:{{Icon Name||emote}}|x170px|left]]<!--
+<gallery heights="125" captionalign="center">
+Migrating-Manta-Whisperer-emote-level-1.gif|{{Icon Name|Migrating Manta Whisperer|emote_name}} Level 1
+Migrating-Manta-Whisperer-emote-level-2.gif|{{Icon Name|Migrating Manta Whisperer|emote_name}} Level 2
+Migrating-Manta-Whisperer-emote-level-3.gif|{{Icon Name|Migrating Manta Whisperer|emote_name}} Level 3
+Migrating-Manta-Whisperer-emote-level-4.gif|{{Icon Name|Migrating Manta Whisperer|emote_name}} Level 4
+</gallery>-->
+*Level 1 will make your avatar hold two red, hand-held flags into the air, then widen the V-shape of their arms, look around, and finally jump and wave the flags behind them, after which they are leaned close to the ground and peek up. With each motion, a whistle sound effect plays.
+*Level 2 makes the same motion as Level 1 with golden sparkles following the avatar's hands, as well as a circle appearing above their head, differently-colored with each motion; first red, then yellow, and lastly green.
+*Level 3 will make your avatar strike flag signaling poses in different directions according to which buttons you press on a pop-up menu. This pop-up menu is identical to the menu used by the player to hit specific notes when playing an [[Instrument]].
+*Level 4 makes the same motion as Level 3 with white glowing halos appearing around the avatar's hands with each pose.
+<!--As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Heart|4}}, {{Heart|3}}, and {{Heart|6}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.-->
+
+==Cosmetics==
+===<span id="Outfit">Outfit</span>===
+The [[Outfit]] offered by this Spirit is a white and gold sleeveless top and knee-high boots. A shoulder sash tucks loosely into the slim-fitting pants. Decorative bands wrap around the upper arm, and manta-shaped ornaments hang from a belt chain. <!--Description by Ozotronic-->It is a [[Season Pass]] exclusive item during the Season.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Migrating Manta Whisperer|Outfit|icon}} {{!}} The Outfit icon
+{{Icon Name|Migrating Manta Whisperer|Outfit|real}} {{!}} The Outfit front
+{{Icon Name|Migrating Manta Whisperer|Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Hair">Hair</span>===
+The [[Hair]] offered by this Spirit is a tall mohawk with a braided tail. The braid is wrapped in an orange cord and the end is shaped like a manatee's tail. Manta-shaped tattoos adorn one of the shaved sides. <!--description by Ozotronic-->It is offered to all players for {{Cost|23 SC|season=Season of Migration}} during the Season.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Migrating Manta Whisperer|Hair|icon}} {{!}} The Hair icon
+{{Icon Name|Migrating Manta Whisperer|Hair|real}} {{!}} The Hair 
+{{Icon Name|Migrating Manta Whisperer|Hair|side}} {{!}} The Hair side
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Cape">Cape</span>===
+The [[Cape]] offered by this spirit is a flared shoulder armor with two prominent tails. Each tail consists of one white strip, trimmed in gold, underneath a shorter red strip. <!--description by Ozotronic-->It is a [[Season Pass]] exclusive item during the Season.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Migrating Manta Whisperer|Cape|icon}} {{!}} The Cape icon
+{{Icon Name|Migrating Manta Whisperer|Cape|front}} {{!}} The Cape front
+{{Icon Name|Migrating Manta Whisperer|Cape|interior}} {{!}} The Cape interior
+{{Icon Name|Migrating Manta Whisperer|Cape|back}} {{!}} The Cape back
+{{Icon Name|Migrating Manta Whisperer|Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+<!--   ONLY APPLICABLE ONCE SPIRIT HAS BECOME A TRAVELING SPIRIT 
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling
+|ts_dates=*June 19, 2019 (#01)
+*June 19, 2020 (#02)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Migrating Manta Whisperer
+|image = 
+|season = Migration
+
+|nodeC6 = Outfit 60 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Mask 30 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+The hints given before the Migrating Manta Whisperer's first appearance were: 
+{{Collapse
+|label=First Visit Hints
+|content=<div>
+*  [ hints can be on the official Sky Discord which are posted a few days before the traveling spirit by staff of thatgamecompany. ]
+</div>
+}}
+
+-->
+<!--   USE VARIABLES TO CONSTRUCT FRIENDSHIP TREE
+Cosmetics: Outfit Cape Hair Hairpiece Headpiece Facepiece Mask Necklace Outfit Shoes Instrument Prop 
+Expressions; emote emote1 emote2 emote3 emote4 
+Cost: SP for Season Pass, SC for Season Candles, C for Candle, H for Heart, free for Free
+Other: spell5 spellx heart season_heart #Quest #1 
+-->
+==Season Friendship Tree ==
+{{Friendship Tree Info | season| season=Season of Migration}}<br><br>
+{{Mbox
+|type=moderate
+|header=New Friendship Tree System
+|image=Reassuring-Ranger-Action-icon-Credit-Morybel.png
+|text=With the Season of Migration, TGC introduced a [https://www.thatskygame.com/news/the-season-of-migration-is-upon-us new Friendship Tree system]; instead of unlocking items through a single linear path, players can now spend time with Spirits to build Friendship. '''A template to display this new system on the Spirit pages is in the works and will be added soon.''' Thank you for your patience!
+}}
+
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Migrating Manta Whisperer
+|image  = Migrating-Manta-Whisperer-Spirit-cutout.png
+|type   = season
+|season = Season of Migration
+|friendship_update = 1
+
+|nodeR6 = season_heart 3 SC SP
+
+|nodeR5 = outfit SP
+
+|nodeL4 = white_dye 12 SC
+|nodeC4 = relationship
+|nodeR4 = emote4 SP
+
+|nodeL3 = emote3 24 SC
+|nodeC3 = spellx 6 SC
+|nodeR3 = cape SP
+
+|nodeL2 = hair 23 SC
+|nodeC2 = spellx 4 SC
+|nodeR2 = emote2 SP
+
+|nodeL1 = emote 
+|nodeC1 = spellx 2 SC
+|nodeR1 = follow
+}}<section end="Season Friendship Tree" />
+
+==References==
+<references />

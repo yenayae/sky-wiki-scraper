@@ -1,0 +1,133 @@
+{{Spirit Infobox
+|type      = Non
+|emote_type= None
+|image     = The-Pianists-Beginnings-Shop.png
+|cosmetics = <!--
+-->{{Spirit Item|The Pianist's Beginnings|Hair|infobox}}<!--
+-->{{Spirit Item|The Pianist's Beginnings|Outfit|infobox}}
+|props	   = <!--
+-->{{Spirit Item|The Pianist's Beginnings|Prop_r|infobox}}<!--
+-->{{Spirit Item|The Pianist's Beginnings|Prop_p|infobox}}
+|season    = Duets
+|realm     = Aviary Village
+|location  = Concert Hall
+|related   = <!--
+-->{{Spirit|Compassionate Cellist|infobox}}<!--
+-->{{Spirit|The Cellist's Beginnings|infobox}}<!--
+-->{{Spirit|The Cellist's Flourishing|infobox}}<!--
+-->{{Spirit|The Musicians' Legacy|infobox}}<!--
+-->{{Spirit|The Pianist's Flourishing|infobox}}<!--
+-->{{Spirit|Duets Guide|infobox}}
+|ts        = None
+}}
+<section begin="Summary" />'''The Pianist's Beginnings''' is a [[Ancestors#Seasonal Entities|Seasonal Shop]] from the [[Season of Duets]]. The Pianist's Beginnings is found in the [[Concert Hall]] in [[Aviary Village]], within the curtained hallway behind the stage after completing the [[Season of Duets#Quest #1|first Seasonal Quest]]. Unlike typical [[Seasonal Spirits]], there is no need to first relive a [[Spirit Memories|spirit memory]] to access this Shop and it does not offer an [[Expression]]. The collectibles offered by this Shop are an {{Spirit Item|The Pianist's Beginnings|Outfit|inline_text}}, a {{Spirit Item|The Pianist's Beginnings|Hair|inline_text}}, a {{Spirit Item|The Pianist's Beginnings|Prop_r|inline_text|label=Small Blue Rug Prop}}, and a {{Spirit Item|The Pianist's Beginnings|Prop_p|inline_text|label=Piano Keys Wall Poster Prop}}.<section end="Summary" />
+
+==Cosmetics==
+===<span id="Outfit">Outfit</span>===
+The [[Outfit]] offered by this Shop is dark gray with a sleeveless top and baggy pants with a blue geometric pattern wrapping around the knees, paired with a light gray waist wrap secured by a maroon belt. When worn, light yellow tattoos appear on the player's bare wrists. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's third node ({{Cost|58 SC|season=Duets}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|The Pianist's Beginnings|outfit|icon}} {{!}} The Outfit icon
+{{Icon Name|The Pianist's Beginnings|outfit|real}} {{!}} The Outfit front
+{{Icon Name|The Pianist's Beginnings|outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Hair">Hair</span>===
+The [[Hair]] offered by this Shop is a short and spikey slicked-back half ponytail, tied with a blue hairband. It was offered to all players for {{Cost|20 SC|season=Duets}} during the Season, from the Friendship Tree's second node ({{Cost|34 SC|season=Duets}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|The Pianist's Beginnings|hair|icon}} {{!}} The Hair icon
+{{Icon Name|The Pianist's Beginnings|hair|real}} {{!}} The Hair front
+{{Icon Name|The Pianist's Beginnings|hair|side}} {{!}} The Hair side
+{{Icon Name|The Pianist's Beginnings|hair|back}} {{!}} The Hair back
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines
+}}
+
+===<span id="Prop">Props</span>===
+This Seasonal Shop offers a total of two [[Props]]: a [[#Small Blue Rug|Small Blue Rug]] and a [[#Piano Keys Wall Poster|Piano Keys Wall Poster]].
+
+====<span id="Rug Prop">Small Blue Rug</span>====
+The [[Prop]] offered by this Shop is a small and blue rectangular rug with a yellow border. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, it appears as a beige bag with a blue drawstring, containing two blue, rolled up pieces of fabric. It was offered to all players for {{Cost|30 SC|season=Duets}} during the Season, from the Friendship Tree's fourth node ({{Cost|88 SC|season=Duets}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|The Pianist's Beginnings|prop_r|icon}} {{!}} The Prop icon
+{{Icon Name|The Pianist's Beginnings|prop_r|real}} {{!}} The Prop real
+{{Icon Name|The Pianist's Beginnings|prop_r|back}} {{!}} The Prop on a player's back
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines
+}}
+
+====<span id="Poster Prop">Piano Keys Wall Poster</span>====
+The [[Prop]] offered by this Shop is a long, blue and purple rectangular poster with a piano keys design. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, it appears as a blue bag with a yellow drawstring. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's first node ({{Cost|14 SC|season=Duets}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|The Pianist's Beginnings|prop_p|icon}} {{!}} The Prop icon
+{{Icon Name|The Pianist's Beginnings|prop_p|real}} {{!}} The Prop
+{{Icon Name|The Pianist's Beginnings|prop_p|back}} {{!}} The Prop on a player's back
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines
+}}
+<!--   ONLY APPLICABLE ONCE SPIRIT HAS BECOME A TRAVELING SPIRIT 
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling
+|ts_dates=*MONTH DAY, YEAR (#NUMBER)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = The Pianist's Beginnings
+|image = The-Pianists-Beginnings-Shop.png
+|season = Duets
+
+|nodeC6 = Outfit 60 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Mask 30 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+The hints given before The Pianist's Beginnings' first appearance were: 
+{{Collapse
+|label=First Visit Hints
+|content=<div>
+*  [ hints can be on the official Sky Discord which are posted a few days before the traveling spirit by staff of thatgamecompany. ]
+</div>
+}}-->
+
+==Season Friendship Tree==
+{{Friendship Tree Info | season| season=Duets}} <section begin="Season Friendship Tree" />
+{{Friendship Tree
+|spirit = The Pianist's Beginnings
+|image  = The-Pianists-Beginnings-Shop.png
+|type   = season
+|season = Duets
+
+|nodeC5 = season_heart 3 SC SP
+
+|nodeL4 = spellx SP
+|nodeC4 = prop_r 30 SC
+|linkC4 = The Pianist's Beginnings#Rug Prop
+
+|nodeL3 = Outfit SP
+|nodeC3 = spellx 24 SC
+
+|nodeL2 = spellx SP
+|nodeC2 = Hair 20 SC
+
+|nodeL1 = prop_p SP
+|linkL1 = The Pianist's Beginnings#Poster Prop
+|nodeC1 = spellx 14 SC
+
+}}<section end="Season Friendship Tree" />
+
+==References==
+<references />
+
+[[fr:Les débuts du Pianiste]]
+[[pt-br:Os Primórdios do Pianista]]
+[[ja:駆けだしのピアニスト]]
+
+{{DEFAULTSORT:Pianist's Beginnings, The}}

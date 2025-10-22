@@ -1,0 +1,263 @@
+'''Seasonal Spirits''' are [[Spirits]] added to the game by [[Seasonal Events]]. At the end of the Season, the new Spirits remain present in the game, but they are effectively treated as bonus content relative to the base game content provided by [[Regular Spirits]]. They share many characteristics with Regular Spirits: they are [[#Finding Seasonal Spirits|found]] scattered throughout the game's [[Realms]], you relive their [[#Spirit Memories|memories]] to learn [[Expressions]], and they [[#Friendship Trees|offer]] various [[Cosmetics]]. However, access to Seasonal Spirits and their collectibles is more restricted and new features are possible.
+
+The list of all Seasonal Spirit Friendship Trees (when they return as [[Traveling Spirits]]) can be found on the [[Seasonal Spirits/Friendship Trees]] subpage. 
+
+{| class="article-table"
+!'''Season'''
+!'''Number of<br>Seasonal Spirits'''
+|-
+|{{Season Icon|Season of Gratitude|Inline_text}}     || {{#vardefineecho:S01|6}}
+|-
+|{{Season Icon|Season of Lightseekers|Inline_text}}   || {{#vardefineecho:S02|6}}
+|-
+|{{Season Icon|Season of Belonging|Inline_text}}     || {{#vardefineecho:S03|6}}
+|-
+|{{Season Icon|Season of Rhythm|Inline_text}}      || {{#vardefineecho:S04|6}}
+|-
+|{{Season Icon|Season of Enchantment|Inline_text}}    || {{#vardefineecho:S05|6}}
+|-
+|{{Season Icon|Season of Sanctuary|Inline_text}}     || {{#vardefineecho:S06|6}}
+|-
+|{{Season Icon|Season of Prophecy|Inline_text}}     || {{#vardefineecho:S07|4}}
+|-
+|{{Season Icon|Season of Dreams|Inline_text}}      || {{#vardefineecho:S08|4}}
+|-
+|{{Season Icon|Season of Assembly|Inline_text}}     || {{#vardefineecho:S09|6}}
+|-
+|{{Season Icon|Season of the Little Prince|Inline_text}} || {{#vardefineecho:S10|6}}
+|-
+|{{Season Icon|Season of Flight|Inline_text}}      || {{#vardefineecho:S11|4}}
+|-
+|{{Season Icon|Season of Abyss|Inline_text}}       || {{#vardefineecho:S12|4}}
+|-
+|{{Season Icon|Season of Performance|Inline_text}}    || {{#vardefineecho:S13|4}}
+|-
+|{{Season Icon|Season of Shattering|Inline_text}}    || {{#vardefineecho:S14|2}}*
+|-
+|{{Season Icon|Season of AURORA|Inline_text}}      || {{#vardefineecho:S15|4}}
+|-
+|{{Season Icon|Season of Remembrance|Inline_text}}    || {{#vardefineecho:S16|4}}
+|-
+|{{Season Icon|Season of Passage|Inline_text}}    || {{#vardefineecho:S17|4}}
+|-
+|{{Season Icon|Season of Moments|Inline_text}}    || {{#vardefineecho:S18|4}}
+|-
+|{{Season Icon|Season of Revival|Inline_text}}    || {{#vardefineecho:S19|4}}*
+|-
+|{{Season Icon|Season of the Nine-Colored Deer|Inline_text}}   || {{#vardefineecho:S20|4}}
+|-
+|{{Season Icon|Season of Nesting|Inline_text}}    || {{#vardefineecho:S21|4}}*
+|-
+|{{Season Icon|Season of Duets|Inline_text}}    || {{#vardefineecho:S22|5}}*
+|-
+|{{Season Icon|Season of Moomin|Inline_text}}    || {{#vardefineecho:S23|4}}*
+|-
+|{{Season Icon|Season of Radiance|Inline_text}}    || {{#vardefineecho:S24|3}}
+|-
+|{{Season Icon|Season of the Blue Bird|Inline_text}}    || {{#vardefineecho:S25|5}}
+|-
+|{{Season Icon|Season of the Two Embers - part 1|Inline_text}}    || {{#vardefineecho:S26|4}}
+|-
+!'''Total Seasonal Spirits''' ||'''{{#expr: {{#var:S01}}+{{#var:S02}}+{{#var:S03}}+{{#var:S04}}+{{#var:S05}}+{{#var:S06}}+{{#var:S07}}+{{#var:S08}}+{{#var:S09}}+{{#var:S10}}+{{#var:S11}}+{{#var:S12}}+{{#var:S13}}+{{#var:S14}}+{{#var:S15}}+{{#var:S16}}+{{#var:S17}}+{{#var:S18}}+{{#var:S19}}+{{#var:S20}}+{{#var:S21}}+{{#var:S22}}+{{#var:S23}}+{{#var:S24}}+{{#var:S25}}+{{#var:S26}} }}'''
+|}
+<small>*''These Seasonal Entities are not the typical Seasonal Spirits since they do not have spirit memories that can be relived, but they do offer friendship trees and can return as Traveling Spirits as typical Seasonal Spirits do.''</small>
+
+==Finding Seasonal Spirits==
+Finding a Seasonal Spirit allows players to relive its [[#Spirit Memories|Spirit Memory]] and be rewarded with the Level 1 (base) version of the Spirit's [[Expression]], just as with Regular Spirits. Afterwards, the Spirit spark flies off towards the Realm's Temple, but the Spirit is not actually considered to be part of the Realm. Seasonal Spirits do ''not'' count towards any [[Constellation Gate]]s; they do not appear in the Realm Temple, the Realm Constellations, or the Realm's gravestones. Perhaps most importantly, it is generally not possible to see the [[#Friendship Tree|Friendship Tree]], and therefore you cannot easily obtain the Spirit's collectibles or Expression upgrades.
+
+One other difference with Seasonal Spirits is that new Spirits are highlighted using different colors. Unlike the blue camera flare effect used on Regular Spirits, Seasonal Spirits use one of two colors:
+*Spirits from the current Season have an orange camera flare
+*Spirits from past Seasons have a purple camera flare (''unless'' they are the current Traveling/Returning Spirit or required for today's [[Daily Quest]], in which case the camera flare is orange)
+
+Seasonal Spirits are not typically visible to new players. They are intended to be bonus content that is unlocked only after players have traveled through all of the game's Realms at least once.<ref name="post_eden">Specifically, this means that players need to have completed the [[Eye of Eden]] at least once before they will start discovering Seasonal Spirits.</ref> They reward players for re-exploring previously visited Realms.
+
+There are several ways, however, that players can encounter Seasonal Spirits earlier:
+*All Spirits for the current Season are available as soon as the player unlocks the Season's content, which typically means traveling to the end of most but not all of the Season's Realms at least once. Exact requirements for the current Season are provided on its page.
+*If the Daily Quests include the task of reliving a specific Spirit's memories, the player will be able to see the Spirit for the entire duration of that day.
+*Any Spirit memory activated by another player is visible to all other players in the area. Any new players who trigger a memory fragment are then able to relive the memory and learn the Expression. This commonly happens when players use the [[Request Guide]] feature.
+
+In all of these cases, new players gain the ability to use the Seasonal Spirit's Level 1 Expression. However, any Spirit from a past Season will disappear until the new player travels through all the game Realms.
+
+==Spirit Memories==
+As with [[Regular Spirits]], the flame icon on a Seasonal Spirit allows you to relive its '''Spirit Memories'''. Once you have relived all the memory fragments, you can light up the final husk (statue), releasing the Spirit's spark to fly into the sky. As a reward for saving the Spirit, you learn the Spirit's [[Expression]]. The basic mechanics are the same as described in more detail for [[Regular Spirits#Spirit Memories|regular Spirit memories]]. However, Seasonal Spirit memories are generally harder than Regular Spirits, and they also introduce several variations/complications.
+
+Memories are color-coded based on the type of Spirit and whether or not you have previously seen the Spirit's memory. These colors are first evident in the camera flare around the Spirit. However, they also control the color of the Spirit's spark, the color used to fill the memory progress icon, and the color of any [[#Carry Spirit Memories|Carry Spirit]] glowing circle. Possible colors include: 
+*Orange is used for new Spirits in the current [[Seasonal Event]].
+**Orange is also used for the current [[Traveling Spirit]], and for any Spirit that is part of a [[Daily Quest]]; in these cases, the orange color takes precedence over any other color.
+*Purple is used for new past-Season Seasonal Spirits.
+*Blue is used for new Regular Spirits.
+*White is used in all other cases (i.e., any previously discovered Spirit who is not part of a special event).
+
+There are three main types of Spirit memories: [[#Standard Memories|standard]], [[#Carry Spirit Memories|Carry Spirit]], and [[#Collection Memories|collection]]. A [[#Timed Memories|timer]] can be added to any of these types, plus various risks may endanger the [[#Spirit Health|Spirit's health]].
+
+===Standard Memories===
+'''Standard Spirit memories''' are the most common format. Memory fragments are revealed one at a time, and the Spirit's spark automatically flies to the next memory fragment. The player must touch each fragment as they appear to complete the memory. It is the format used for nearly all Regular Spirits but is only used for some Seasonal Spirits.
+
+===Carry Spirit Memories===
+For '''Carry Spirit memories''', the memory fragments are revealed one at a time, and the Spirit's spark must be guided by the player to each fragment as they appear to complete the memory. The spark, surrounded by a glowing circle, will appear in the player's hands after the memory is activated. Both the Spirit spark and the glowing circle are [[#Spirit Memories|color-coded]] (which means different players may see different colors, even when working together on the same memory). The glowing circle is always centered on the Spirit's spark.
+
+Note that while carrying the Spirit and moving forward, the player's walking speed will be slower than normal.
+
+*You cannot rush while carrying the spark. Running, flying, or jumping can make you move too quickly for the spark; if you leave the circle, you leave the spark behind.
+*If no players are near the spark, the Spirit starts taking damage and [[#Spirit Health|its health]] steadily decreases. If the blue and red health monitor turns completely red, the spark is lost, and you have to restart. The Spirit's health regenerates if someone picks the spark back up. (Unless there are other [[#Spirit Health|threats]] to the spark - see below.)
+*Multiple people can cooperate -- anyone within the Spirit circle will automatically start carrying it.
+
+The difficulty of these Carry Spirit memories varies widely. Some are straightforward, but others are the most challenging tasks in the game. One common challenge on Carry Spirit quests is needing to move vertically. Flying with the spark is far more difficult than walking. It is generally safest to move straight up or down (i.e., stay in closed-wing mode) as much as possible; you can then make a small horizontal hop as necessary to land on the target surface.
+
+===Collection Memories===
+In the case of '''Collection memories''', all the memory fragments appear simultaneously. All the locations are visible as small glowing stars. As you approach each star, the memory fragment becomes visible and is then added to your progress. A player needs to visit each fragment, but the order in which they are visited does not matter. Players can work together, with different players collecting different memories; this is sometimes the only way to complete the memory if there is a [[#Timed Memories|timer]].
+
+===Timed Memories===
+An overall '''timer''' can be added to any type of Spirit memory. This is a limit on the total elapsed time, starting when you first activate the Spirit and ending when you complete the last memory fragment. How much time is available depends upon the specific memory.
+
+If there is an overall timer, it is indicated by the circle outside the quest progress icon (the circle with the Spirit's [[Expression]]) on the left side of the screen. On memories with no time limit, a solid bright white circle surrounds the icon. If there is a timer, however, a red section appears at the top of the circle and gradually moves around the circle, "burning" the bright white border. If the bright white border is completely removed, then time is up and the memory aborts with the message, "The light has faded. Let's try again."
+
+===Spirit Health===
+A '''Spirit's health''' can potentially be damaged during any type of memory (including Regular Spirit memories). Any time the Spirit is damaged, a blue and red health monitor appears on top of the Spirit's spark. If the monitor turns completely red, the memory aborts with the message, "The light has faded. Let's try again." It typically takes 20 seconds of damage for the Spirit's health to reach 0. Spirits will automatically regenerate their health once they are safe; the health monitor vanishes once the Spirit returns to 100% health.
+
+Spirit health is particularly prominent during [[#Carry Spirit Memories|Carry Spirit memories]], because the Spirit takes damage whenever it is dropped (whenever no players are near it). Other sources of damage include:
+*[[Flora, Minerals and Elements of Sky#Rain|Rain]]. The [[Laidback Pioneer]]'s memory highlights rain's impact, but virtually every Spirit memory in [[Hidden Forest]] has rain damage at some point.
+*[[Flora, Minerals and Elements of Sky#Polluted Water|Polluted water]].
+*[[Dark Dragon]] attacks.
+*Dark Creatures, and in particular, [[Dark Crabs]]. This is in addition to the risk during Carry Spirit quests when Crabs knock you away from the Spirit. Just having a Dark Crab too close to any Spirit will damage it; this is particularly noticeable on the [[Wise Grandparent]]'s memory.
+
+If the health monitor appears during the quest:
+*Make sure you are near the spark, especially on a Carry Spirit memory.
+*When targeted by [[Dark Dragons]], hide behind any nearby objects to break its line of sight and wait until the red spotlight turns blue before continuing.
+*In [[Hidden Forest]], move out of the rain. Go inside a tree trunk, move under a ledge or fungus bracket, move into a pavilion, etc.
+*In [[Golden Wasteland]], make sure you are not standing in Polluted Water.
+*Do a [[Deep Call]] to flip any [[Dark Crabs]] and/or move away from any Crabs. In areas that are particularly Crab-infested, it helps to have extra players who go out ahead of the spark to flip/remove Crabs. Or when playing solo, you may want to clear the path before even starting the memory.
+
+Make sure to let the Spirit's health fully recover before moving forward again.
+
+==Friendship Trees==
+Seasonal Spirits have two very different versions of their '''Friendship Tree''' (a.k.a., '''Spirit Tree''' or '''Spirit Shop'''): the [[#Seasonal Spirit Trees|Seasonal version]] (available during the Season when the Spirit is first introduced), and the [[#Traveling Spirit Trees|Traveling Spirit]] (available during rare return visits). Outside of these two limited opportunities, it is impossible to access the Friendship Tree, meaning that there is no way to upgrade the Spirit's Expression or purchase any of the Spirit's Cosmetics.
+
+===Seasonal Spirit Trees===
+As long as a Spirit's Season is active, their Friendship Tree can be accessed using the [[Constellation Table]] at [[Home]] or [[Aviary Village]]. The current Season's Constellation appears in the middle of the other Realms (between [[Hidden Forest]] and [[Valley of Triumph]]), when you are facing towards the Return Shrine. This Constellation and all of the Spirit Friendship Trees '''vanish as soon as the Season ends'''. It will be many (9+) months before you have another opportunity to purchase any of the items -- and all items will be more expensive.
+
+<div style="float:right">{{Friendship Tree
+|label=Generic Seasonal Spirit
+
+|nodeC5 = season_heart
+
+|nodeL4 = spellX AP
+|nodeC4 = Question-mark-Ray.png ? SC
+| labelC4 = Cosmetics
+
+|nodeL3 = Icon_flame.png AP
+| noteL3 = Lv4
+| labelL3 = Lv4 Emote
+|nodeC3 = Icon_flame.png ? SC
+| noteC3 = Lv3
+| labelC3 = Lv3 Emote
+
+|nodeL2 = Question-mark-Ray.png AP
+| labelL2 = Cosmetics
+|nodeC2 = spellX ? SC
+
+|nodeL1 = Icon_flame.png AP
+| noteL1 = Lv2
+| labelL1 = Lv2 Emote
+|nodeC1 = Icon_flame.png
+| labelC1 = Lv1 Emote
+
+|total=
+}}</div>
+<br>
+The Seasonal Spirit Friendship Tree's structure is very different from that used by Regular Spirits (or Traveling/Returning Spirits). The generic Seasonal Spirit shown to the right is simplified (fewer vertical nodes) but illustrates the typical features. 
+*[[Season Candle]]s are the only currency used to unlock nodes; each progressive node moving up the Tree costs more Candles than the previous one.
+*Only items in the central trunk of the Tree have costs (unlike Regular Spirits, where the most expensive items are found in the side nodes).
+*For each item purchased in the central trunk, a second item becomes available, exclusively to [[Season Pass]] holders. 
+**If you buy a Season Pass after completing some Season content, you are able to retroactively collect the SP-exclusive items for all previously unlocked nodes.
+**Levels 2 and 4 of the Spirit's [[Expression]] (represented in this demonstration by the {{Icon|Icon_flame.png}} Flame icon) are always SP exclusive.
+*The nodes offer a mix of [[Cosmetics]]/[[Music Sheets]] (represented by the {{Icon|Question-mark-Ray.png|link=}} icon) and [[Blessings]].
+**Blessings become a random Spell/Potion. Any of the Spells from a Regular Spirits' [[5 Candle Blessing]] are possible; recent Seasons have even added other special Spells. New Spells that are introduced in one Season are typically added into the available Spells for the subsequent Season.
+*The top item in the Tree is always a [[Season Heart]], which is SP-exclusive and costs 3 Season Candles. This Season Heart is used to obtain Ultimate Gifts from the [[Ancestors#Guides|Season Guide]]. 
+**The total number of available Season Hearts always exactly matches the total cost of all the Ultimate Gifts.
+** A Spirit's Season Heart is just a different representation of the single Heart that can be purchased from this Spirit. Which means that when this Spirit returns as a Traveling/Returning Spirit, the Traveling/Returning Spirit's Heart will appear as an already-purchased item to anyone who obtained their Season Heart.
+*No [[Wing Buff]]s are ever available from Seasonal Spirits.
+
+The prices of individual nodes in Seasonal Spirit Trees can vary widely. However, the total price for all of a Season's cosmetics seems to always be is always set to be a price that is possible without a Season Pass, as long as players are willing to play every day throughout the entire Season.
+
+Players who do not a buy a [[Season Pass]] do not permanently lose out on the ability to obtain the Spirits' SP-exclusive items: those items will become available to all players eventually, when the Spirit returns as a [[#Traveling Spirit Trees|Traveling Spirit]]. On the other hand, no past Season's Ultimate Gifts (the items purchased from the Season Guide using Season Hearts) have ever become available for purchase post-Season.
+
+===Traveling Spirit Trees===
+Once every two weeks, one [[Traveling Spirit]] appears in [[Home]], on the island in the middle of the little koi pond, or in [[Aviary Village]], on the island with the maypole in the Village Square. The Spirit is present for a total of four days, from Thursday to Sunday. This visit is the '''only opportunity''' to access the Friendship Tree of past Seasonal Spirits; it is the only way to purchase their Expression upgrades or any of their cosmetics.
+
+There is no way to predict when a specific Spirit will return as a Traveling Spirit. Past visits and patterns are detailed on the [[Traveling Spirits]] article. The only certainties are:
+*All Seasonal Spirits are expected to return at some point in the future (even those who have previously returned).
+*It will be many months between visits for any given Spirit (including between a Season end and a Spirit's first visit). Currently the wait period is '''9+ months'''. But with only 26 opportunities per year and 80 total Seasonal Spirits (through Season of Passage), the wait period will have to increase to over two years (unless the visit schedule is modified).
+
+During a visit, the Traveling Spirit's Tree is available by clicking on the Spirit standing at [[Home]] or [[Aviary Village]]. If you have not yet relived the Spirit's memory you will be told, "Before they leave find the Traveling Spirit's lost memories and become their friend!" For the duration of their visit, the in-Realm (kneeling) version of the Spirit is highlighted in orange and is visible to all players who have completed [[Valley of Triumph]] (even those players who would not normally be able to see Seasonal Spirits).
+
+<section begin="TS Tree Info" />When a Spirit first returns as a Traveling/Returning Spirit they always offer all the same items as they did during the Season. Any previously [[Season Pass]] exclusive items become available to all players. Relative to the [[Friendship Tree (Seasonal)|in-Season Tree]], the items are completely reorganized, and their costs are all changed (into more expensive non-Seasonal currencies). In addition, a few new items are added -- a [[Wing Buff]] (costing {{Ascended Candle|2}}) is always added, but new cosmetics may also appear (new placeable [[Props]] are particularly likely). Anything bought from a Traveling Spirit shop will also reflect on what's sold on a Returning Spirit's shop.<section end="TS Tree Info" />
+
+On repeat visits as a Traveling/Returning Spirit, prices are occasionally increased relative to the previous visit. And sometimes a new cosmetics item (e.g., placeable Prop) is added.
+
+<div style="float:right">{{Friendship Tree
+|label=Generic Traveling Spirit
+
+|nodeC6 = Question-mark-Ray.png ? C
+| labelC6 = Cosmetics
+|nodeC5 = spell5
+
+|nodeL4 = Icon_flame.png 6 H
+| noteL4 = Lv4
+| labelL4 = Lv4 Emote
+|nodeC4 = Icon_flame.png 3 H
+| noteC4 = Lv3
+| labelC4 = Lv3 Emote
+|nodeR4 = Question-mark-Ray.png ? C
+| labelR4 = Cosmetics
+
+|nodeC3 = wing
+
+|nodeL2 = Question-mark-Ray.png ? C
+| labelL2 = Cosmetics
+|nodeC2 = spell5
+|nodeR2 = heart
+
+|nodeL1 = Icon_flame.png 4 H
+| noteL1 = Lv2
+| labelL1 = Lv2 Emote
+|nodeC1 = Icon_flame.png
+| labelC1 = Lv1 Emote
+|nodeR1 = Question-mark-Ray.png ? C
+| labelR1 = Cosmetics
+
+|total=
+}}</div>
+<br>
+The Generic Traveling Spirit Tree to the right demonstrates the standard structure shared by all Traveling Spirits. The general structure is very similar to a Regular Spirit Tree, except that the currencies are effectively reversed: Expression upgrades cost Hearts (instead of Candles) while cosmetics cost Candles (instead of Hearts).
+
+*{{Icon|Icon_flame.png|link=}} is used in this demonstration to represent the Spirit's '''[[Expression]]''' and its upgrades. The upgrade nodes do not appear on Spirits without any Expression upgrades.
+**Traveling Spirit Expression upgrades are always purchased with '''Hearts'''.
+**For typical 4-Level Expressions, the default total upgrade cost is {{Heart|13}} ({{Heart|4}}+{{Heart|3}}+{{Heart|6}}). There have only been two exceptions to date ([[Festival Spin Dancer]] at {{Heart|19}} and [[Prophet of Air]] at {{Heart|12}}).
+**For 2-Level [[Friend Action]]s, there is no fixed cost for the upgrade. Values have ranged from {{Heart|7}} to {{Heart|10}}.<ref name="action_upgrade_changes">The cost of some Friend Action upgrades was lower the first time the Traveling/Returning Spirit returned (e.g., [[Hairtousle Teen]] was {{Heart|4}}). However, this may have been a mistake, and the default cost for a Friend Action seems to now be 7-10 Hearts.</ref>
+**For [[Stance]]s and [[Call]]s, there are no upgrades.
+*{{Icon|Question-mark-Ray.png|link=}} represents '''Cosmetics or Music Sheets''' sold by the Spirit, and where they are typically found in the Tree. 
+**All Cosmetics and Music Sheets from the Spirit's original [[Friendship Tree (Seasonal)|Seasonal Tree]] are purchased with '''Regular Candles'''.
+**To date, the only Cosmetics purchased with Hearts have been newly added [[Props]], and even then, Hearts are less likely than Candles. (Of the 12 Spirits to add Props as Traveling Spirits, only four used Hearts).
+**Unlike most other Cosmetics in the game, there is no way to try these on before purchasing them, neither in a [[Outfit Shrine]] nor with temporary Spells.
+*{{Heart}} Every Spirit in the game sells '''one [[Heart]] at a cost of {{Candle|3}},''' always. For Traveling/Returning Spirits, the Heart is always at the Tree's second level and is unlocked by a 5-Candle Blessing (the only difference from Regular Spirits is the cost of the Blessing).
+**This Heart ''never'' resets. If you purchased the [[Season Heart]] from this Spirit, you have already obtained this Spirit's Heart. If you purchased the Heart during a previous visit of this Traveling/Returning Spirit, you cannot purchase it again.
+*{{Icon|5CandlesSpell.png|link=5 Candle Blessing}} are '''two [[Blessings]] costing {{Candle|5}}''' each. Purchasing a Blessing randomly grants you one of nine possible Spells and Potions.
+*{{Icon|Winglight.png|link=Wing Buff}} is '''one [[Wing Buff]] costing {{Ascended Candle|2}},''' always. All Traveling/Returning Spirits offer one Wing Buff (even though in-Season they do not). 
+**All Tree details above the Wing Buff are obscured by a stylized cloud until the Wing Buff is purchased.
+**Wing Buffs ''never'' reset, so if a Traveling/Returning Spirit returns for a second time you will not be able to get a new Wing Buff.
+**Traveling/Returning Spirits with a purchased Wing Buff will appear in a yellowish-orange form, instead of the regular blueish-gray form.
+**The Friendship Trees between Traveling and Returning Spirits are shared - If an item is bought on a Traveling Spirit, it's also bought on the Returning Spirit version and vice versa.
+
+==References==
+<references />
+
+
+[[Category:Seasonal Spirits]]
+
+
+
+
+[[fr:Esprits Saisonniers]]
+[[de:Saisongeister]]
+[[pt-br:Espíritos Sazonais]]

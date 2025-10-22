@@ -1,0 +1,96 @@
+{{Spirit Infobox
+|type      = Regular
+|emote_type= Call
+|image     = <gallery>
+Vault-Spirit-Memory-Whisperer.png|Standard
+Vault-Spirit-Memory-Whisperer-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Outfit|infobox}}{{Spirit Item||Cape|infobox}}{{Spirit Item||Tier 2 Cape|infobox}}
+|realm     = Vault of Knowledge
+|location  = Fourth Floor Vault
+}}
+<section begin="Summary" />The '''Memory Whisperer''' is a [[Regular Spirit]] in the [[Vault of Knowledge]] who offers the {{Emote|Memory Whisperer|inline_text}}. The Memory Whisperer is found on a floating island on the [[Fourth Floor Vault|Fourth Floor of Vault]], at the small [[Mantas|Manta]] skeleton surrounded by Red Candles. The collectibles [[Memory Whisperer#Friendship Tree|offered]] by this Spirit are an {{Spirit Item|Memory Whisperer|Outfit|inline_text}} and two tiers ({{Spirit Item|Memory Whisperer|Cape}} {{Spirit Item|Memory Whisperer|Tier 2 Cape}}) of a [[Memory Whisperer#Cape|Cape]].<section end="Summary" /><br>
+<br>
+[[File:Memory-Whisperer-Guide-777-Ed.png|320x320px|thumb|none|Image Guide by 777.Ed]]
+
+== Memory ==
+<div>{{#ev:youtube|https://www.youtube.com/watch?v=dIgC51kuNKM|||Video Guide by Tara||start=916&end=951&loop=1}}
+<br>
+The Memory Whisperer can be found on a floating island on the [[Fourth Floor Vault|Fourth Floor of Vault]], at the small [[Mantas|Manta]] skeleton surrounded by Red Candles. This Spirit does not have a conventional memory quest; there is no kneeling figure that needs to be lit up.
+
+Instead, the Spirit is triggered once the circle of Red Candles are lit. Players who have previously unlocked the {{Emote|Manta Call|inline_text}} can then interact with the icon that appears to summon a baby Cosmic Manta and be granted the [[#Call|Cosmic Manta Call]].<br>
+<br>
+[[File:05 VK Spirit - Memory Whisperer.jpg|200px|thumb|none|Relive the Memory Whisperer's memory]]
+</div>
+{{Clear}}
+
+== <span id="Expression">Call</span> ==
+The Memory Whisperer does not offer an [[Expression]], but instead offers a [[Call]]. The {{Emote||inline_text}} modifies the player's voice to a mellow honk.
+
+''Unlocking the {{Emote|Manta Call|inline_text}} from [[Manta Whisperer]] is a prerequisite to learning this Call.''<br>
+<br>
+[[File:{{Icon Name||emote}}|x170px|left]]
+[[File:Memory-Whisperer-cosmic-manta-call-emote.mp4|300px]]
+{{Clear}}
+
+== Cosmetics ==
+=== Outfit ===
+The [[Outfit]] offered by this Spirit is a beige half-sleeve top with matching knee-length pants, costing {{Heart|3}}. It is permanently available to all players after unlocking the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Outfit}} {{!}} The Outfit icon
+{{Icon Name||Outfit|real}} {{!}} The Outfit front
+{{Icon Name||Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Cape ===
+The Memory Whisperer offers two standard-style white [[Capes]]; a Tier 1 and a [[Tier 2 Cape|Tier 2]] version, costing {{Heart|50}} and {{Heart|150}} respectively. Both are permanently available to all players after unlocking the Friendship Tree's fourth node and second [[Wing Buff]] respectively.
+
+The Tier 2 Cape (and the second Wing Buff that unlocks it) are not needed to complete the Vault [[Constellation]]. These were both added to the Friendship Tree in Patch {{v|0.17.0}} on April 5, 2022.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape}} {{!}} The Tier 1 Cape icon
+{{Icon Name||Cape|front}} {{!}} The Tier 1 Cape front
+{{Icon Name||Cape|interior}} {{!}} The Tier 1 Cape interior
+{{Icon Name||Cape|back}} {{!}} The Tier 1 Cape back
+{{Icon Name||Cape|exterior}} {{!}} The Tier 1 Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+{{#tag:gallery
+|{{Icon Name||Tier 2 Cape}} {{!}} The Tier 2 Cape icon
+{{Icon Name||Tier 2 Cape|front}} {{!}} The Tier 2 Cape front
+{{Icon Name||Tier 2 Cape|interior}} {{!}} The Tier 2 Cape interior
+{{Icon Name||Tier 2 Cape|real}} {{!}} The Tier 2 Cape back
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Friendship Tree ==
+{{Friendship Tree Info | regular}}
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Memory Whisperer
+|image  = Vault-Spirit-Memory-Whisperer.png
+
+|nodeC7 = tier_2_cape 150 H BONUS
+|nodeC6 = wing 12 AC BONUS
+|nodeC5 = cape 50 H
+|nodeC4 = spell5
+|nodeC3 = wing 4 AC
+|nodeL2 = heart
+|nodeC2 = spell1
+|nodeL1 = outfit 3 H
+|nodeC1 = emote
+}}<section end="Friendship Tree" />
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+File:Emote Loc-Cosmic Manta Call.png
+</gallery>
+
+==References==
+<references />
+
+[[de:Geistersprecher]]
+[[pt-br:Comunicador de Espíritos]]
+[[fr:Orateur spirituel]]

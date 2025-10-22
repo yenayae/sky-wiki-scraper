@@ -1,0 +1,45 @@
+{{WIP
+|pagetype = creature
+|placedby =
+|comment  =
+}}
+{{Creature Infobox
+|title    = Butterflies
+|type     = light
+|image    = Butterfly.png
+}}<section begin="Summary" />Butterflies are light creatures for their ability to restore a Sky Kid's light. They are first encountered by the player in the [[Isle of Dawn]], after discovering the first Child of Light. They are also sometimes released by burning [[Flora, Minerals and Elements of Sky|Darkness Plants]] or seals on pots. <section end="Summary" />
+
+==Locations==
+Butterflies can be found in almost every area in the game, though they are particularly abundant in the [[Butterfly Fields]], where the [[Butterfly Charmer]] Expression can be acquired. The [https://sky-children-of-the-light.fandom.com/wiki/Isle_of_Dawn#Butterfly_Cave Butterfly Cave] to the right of the Isle of Dawn's temple also contains numerous butterflies. 
+
+Burning [[Flora, Minerals and Elements of Sky|darkness plants]] also releases butterflies. Many butterflies can also be found trapped in sealed pots (especially in the Underground Caverns area of the Hidden Forest) - simply use your candle to melt the seal, and the butterflies will be freed. 
+
+They also feature in the last parts of the [[Eye of Eden|Eye of Eden (page contains spoilers)]], and the player can be transformed into one during certain stages of the [[AURORA Concert]] and [[Days of Bloom]]. 
+
+After [[Season of Radiance]], colored butterflies containing colored light can be released by burning colored Darkness Plants. 
+
+==Appearance==
+They are yellow/white, glows and have little to no body except for their two wings. The [[Butterfly Charmer]] expression, if used near them, attracts one of the Creatures, which then sits upon the character's hand and adopts a pink hue. Blue butterflies used to be present in the races and the Coliseum in the Valley of Triumph but have been removed.  
+
+==Size==
+Butterflies are the smallest living entities in the world of Sky and do not vary in size.  
+
+==Abilities==
+As with most light creatures, they recharge the player's Cape Energy when approached. Butterflies also react when the player releases a [[Deep Call]], swarming around them and lifting them upwards. This can be used to reach higher ground, though be careful deep calling around butterflies if you are not ready to be lifted. There are many locations in-game where butterflies are needed to lift a player to certain areas. 
+
+''Pay attention when flying near them. There have been several cases in which if you glide near butterflies, no matter the amount of Cape Energy you have, these Creatures will circle you and prevent you from touching the ground. Simply toggle your flight mode again and the butterflies will stop. Alternatively, this can be used to the player's advantage if one wishes to achieve a longer, unbroken flight.''
+
+If the player is transformed into a butterfly (as in the [[AURORA Concert]] or certain phases of [[Days of Bloom]]), they will fly much slower than usual, but can still expend wing energy to give their flight a boost. Losing winged light while in butterfly form does not seem to affect the appearance or abilities of the player's butterfly.
+==Gallery==
+<gallery widths="220" spacing="small" captionalign="center">
+Butterflies.jpg|The Butterfly Charmer's cave, filled with butterflies
+Butterfly call.jpg|A player is lifted by butterflies in the Daylight Prairie
+File:ButterfliesInAviary.jpg|Butterflies in the Aviary Village
+File:Butterflies-released-dark-plant.jpg|Butterflies released from burning a darkness plant in the Hidden Forest
+File:ButterflyGlitch.jpg|A glitch affecting butterflies in the Butterfly Cave area in the Isle of Dawn, transforming butterflies into wax orbs that act like the light creature
+</gallery>
+
+[[fr:Papillons]]
+[[de:Schmetterlinge]]
+[[pt-br:Borboletas]]
+[[ja:光の蝶々]]

@@ -1,0 +1,191 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Little-Prince-Spirit-Slouching-Soldier.png|Standard
+Little-Prince-Spirit-Slouching-Soldier-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Hair|infobox}}{{Spirit Item||Cape|infobox}}
+|music     = {{Music Sheet|23}}
+|season    = The Little Prince
+|realm     = Vault of Knowledge
+|location  = Starlight Desert
+|ts        = April 7, 2025 (SV#8)<br>February 16, 2023 (#81)
+}}
+<section begin="Summary" />The '''Slouching Soldier''' is a [[Seasonal Spirit]] from the [[Season of The Little Prince]] who offers the {{Emote|Slouching Soldier|inline_text}} Expression. The Slouching Soldier is found to the player's immediate right in the [[Starlight Desert]]'s giant jar, that is found to the right of the entrance from the [[Vault of Knowledge]]. The collectibles [[#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Slouching Soldier|Hair|inline_text}}, a {{Spirit Item|Slouching Soldier|Cape|inline_text}}, and the {{Music Sheet|23|inline_text}}.<section end="Summary" />
+
+== Memory ==
+<div>{{#ev:youtube|_1qdnIb1y94||inline|Video Guide}}
+
+The Slouching Soldier can be found to the player's immediate right in the [[Starlight Desert]]'s giant jar, that is found to the right of the entrance from the [[Vault of Knowledge]]. This Spirit has a [[Carry Spirit Memory|carry spirit memory]] with 8 memory fragments and a 15-minute overall [[Timed Memory|time limit]]. 
+
+As their memory unfolds, the Slouching Soldier recalls several events in their life that lead them to drink dark water in a jar to cope. 
+
+First, the Slouching Soldier stumbles with their left hand outstretched in front of a group of other Spirits standing on a hill: the [[Saluting Captain]], [[Backflipping Champion]], and [[Fainting Warrior]]. The Soldier then stands on that same hill, holding a jar. They walk back down the hill and hunch over their dropped jar.
+
+Over on the next hill, the Slouching Soldier runs over to a few Star Lamps as offered by the [[Star Collector]]. The Spirit sits where those Star Lamps once were, burying their face into their arm. They stumble along with a jar in hand.
+
+Once again, the Soldier flounders towards a scene at the top of the largest hill. At the top, a parental Spirit stands with two scared Spirit children, one in each arm. The Soldier carries another jar. 
+
+At the end of the memory, the Slouching Soldier flings the empty jar to the ground and drops to their knees and hands.
+
+The Little Prince enters the scene and asks, "Why are you drinking the dark water?"
+
+"So that I may forget," the Soldier replies, without looking up.
+
+"Forget what?"
+
+"Forget that I am ashamed."
+
+"Ashamed of what?"
+
+The Slouching Soldier stands up, covers their face, and runs off shouting, "Ashamed of drinking the dark water!" 
+
+The Little Prince watches on as the Soldier grabs another jar and contemplates aloud, "Grown-ups are certainly very, very odd." The jar is tossed aside and the Soldier slouches in despair.<br>
+<br>
+[[File:05 VK Seasonal Spirit - Slouching Soldier.jpg|200px|thumb|none|Relive the Slouching Soldier's memory]]
+</div>
+{{Clear}}
+
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Slouching-Soldier-slouch-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Slouching-Soldier-slouch-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Slouching-Soldier-slouch-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Slouching-Soldier-slouch-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar slouch by hanging their head and dangling their arms, before looking up to the left once, and going back to slouching again, while melancholy accordion sound effects play. Your avatar will stay in this slouching position until they are moved.
+*Level 2 makes the same motion as Level 1, with a brightly glowing, translucent blue circle appearing around your avatar's head.
+*Level 3 will make your avatar slouch to the side with their head hanging and arms swaying, sway back and forward once, and finally let themsleves fall forward with their face down, while more elongated melancholy accordion sound effects play. Your avatar will stay in this lying position until they are moved; upon doing so, they will fully push themselves up with their hands, still swaying a little once they stand.
+*Level 4 makes the same motion as Level 3, with a few small, white sparkles spiraling around your avatar's head, as well as a trail of small, white sparkles following the motion of their head while they are falling and standing up again.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+== Cosmetics==
+=== Hair ===
+The [[Hair]] offered by this Spirit is short and messy in zig-zag waves that only cover the right side of the head, with completely shaved sides and back, costing {{Cost|42 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|10 SC|season=The Little Prince}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair front
+{{Icon Name||Hair|side}} {{!}} The Hair side
+{{Icon Name||Hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Cape ===
+The [[Cape]] offered by this Spirit is dark-gray and tattered, with a round black collar resembling shoulder pads, costing {{Cost|70 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fifth node ({{Cost|64 SC|season=The Little Prince}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+<!--{{Icon Name||Cape|interior}} {{!}} The Cape interior-->
+{{Icon Name||Cape|back}} {{!}} The Cape back
+<!--{{Icon Name||Cape|exterior}} {{!}} The Cape exterior-->
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Music Sheet ==
+The Slouching Soldier offers the {{Music Sheet|23}} [[Music Sheet]] #23, costing {{Cost|15 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|42 SC|season=The Little Prince}} total). It is a song in the key of C Major.<br>
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guide
+|content=
+{{#ev:youtube|NTm5cX010wA||inline|Music Sheet Video Guide by Ikejiji}}
+}}
+
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling
+|ts_dates=*February 16, 2023 (#81)
+|rs_dates=*April 7, 2025 (SV#8)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Slouching Soldier
+|image  = Little-Prince-Spirit-Slouching-Soldier.png
+
+|nodeC6 = Cape 70 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing 2 AC
+|nodeR2 = Hair 42 C
+|nodeL2 = music23 15 C
+|nodeC2 = spell5
+|nodeR1 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+The hints given before the [[Slouching Soldier]]'s first appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=First Visit Hints
+|content=<div>
+* Tends to get wistfully nostalgic
+* Needs more sleep
+* Loses items frequently
+* Has thought about taking up poetry
+* Trips often
+* Is searching for a goal
+* Could use a friend
+* Sometimes forgets to eat
+* Once was an extrovert
+* Sneezes if they look directly at the sun (Fun fact: apparently only 10-35% of the population does this, it's a genetic thing)
+* Holds onto mementos
+* Can never say no to a loaf of bread 
+* Is perhaps a virgo sun and cancer moon, but a disclaimer: I haven't thought about this ahead of time
+* [wes] S̴̍̏e̴͛̕d̶̛̔ ̶͆́u̷͛͋t̴̛̍ ̸̛́p̴͑͌è̸͂r̶̀̚s̴͆͗p̶͆͘ĭ̸͒c̶̀̑í̴̀a̶͆̎t̶̆͌î̶͝s̶̒͝ ̷͋̂u̵̽̏n̸̝̎d̶̝̉e̷͋̊ ̷̋̎o̸̓̅m̷̹̄n̵̽͌i̵̧̾s̷̬̆ ̷͚̈́i̸̐͊s̸̎͊t̴́͠e̷̩͋ ̶̉̓n̷̑̚á̵̏t̸̓͝u̷̿̃s̴̀̽ ̸́͆e̸͂͝r̵̊̃ṙ̵́o̴͍̎ṙ̴̝ ̸̼̒s̴͛̎ì̴t voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo
+</div>
+}}
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=The Little Prince}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Slouching Soldier
+|image  = Little-Prince-Spirit-Slouching-Soldier.png
+|type   = season
+|season = The Little Prince
+
+|nodeC6 = season_heart 3 SC SP
+|nodeL5 = spell5 SP
+|nodeC5 = Cape 22 SC
+|nodeL4 = music23 SP
+|nodeC4 = spell5 18 SC
+|nodeL3 = emote4 SP
+|nodeC3 = emote3 14 SC
+|nodeL2 = Hair SP
+|nodeC2 = spell5 10 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+== Trivia ==
+* The Slouching Solder is inspired by the Ashamed Man in ''[[wp:The_Little_Prince|Le Petit Prince]]'' written by Antoine de Saint-Exupéry.
+* The last hint in the first visit translates to, if interpreted correctly and through the strange text, is “But in order for you to see clearly whence all this mistaken idea was born, which gives rise to accusation, pain, and praise of punishment, I will lay open the whole matter and explain the very things which were said by that inventor of truth and, as it were, architect of a blessed life.” in Latin. This text is a variation on the famous ''[[wp:Lorem ipsum|Lorem ipsum]]'', which is a placeholder text used in publishing and graphic design.
+
+==Image Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+SOTLP photos slouching emote.png
+SOTLP photos group slouching.jpeg
+</gallery>
+
+==Video Gallery==
+{{#ev:youtube|eq_mR60PDuo|175|inline|Video Guide by Tara}}
+{{Clear}}
+
+==References==
+<references />
+
+[[de:Buckliger Soldat]]
+[[fr:Soldat avachi]]
+[[pt-br:Soldado Relaxado]]
+[[ru:Скучающий солдат]]
+[[ja:うなだれる戦士]]

@@ -1,0 +1,7 @@
+This page is a collection of non-beta draft pages for the wiki, including planned new pages, rewrites of existing pages, etc.
+
+To create a draft, create a new page and name it <code>Drafts/[choose a name for your draft]</code>.
+
+{{Special:PrefixIndex|prefix=Drafts/}}
+
+[[Category:About Sky Wiki]]

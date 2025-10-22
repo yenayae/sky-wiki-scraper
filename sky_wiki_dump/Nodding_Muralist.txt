@@ -1,0 +1,174 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Enchantment-Spirit-Nodding-Muralist.png|Standard
+Enchantment-Spirit-Nodding-Muralist-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Mask|infobox}}{{Spirit Item||Hair|infobox}}
+|season    = Enchantment
+|location  = Forgotten Ark
+|ts        = March 4, 2024 (SV#5)<br>October 27, 2022 (#73)<br>January 7, 2021 (#26)
+}}
+<section begin="Summary" />The '''Nodding Muralist''' is a [[Seasonal Spirit]] from the [[Season of Enchantment]] who offers the {{Emote|Nodding Muralist|inline_text}} Expression. The Nodding Muralist is found on the left end of the [[Forgotten Ark]] in [[Golden Wasteland]] when facing its front. The collectibles [[Nodding Muralist#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Nodding Muralist|Mask|inline_text}} and a {{Spirit Item|Nodding Muralist|Hair|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Nodding-Muralist-promo-image.jpg|none|thumb|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|PLP7r3UoIwo||inline|Video Guide}}
+
+The Nodding Muralist can be found on the left end of the [[Forgotten Ark]] in [[Golden Wasteland]] when facing its front. This Spirit has a [[Carry Spirit Memory|carry spirit memory]] with 5 memory fragments and a 15-minute overall [[Timed Memory|time limit]].
+
+As their memory unfolds, the Nodding Muralist can be seen painting murals on different sections of the Forgotten Ark, even using a ladder in certain areas.
+
+At the end of the memory, the [[Snoozing Carpenter]] approaches the Nodding Muralist who stands in front of a freshly completed mural. They start applauding the Muralist, which comes to step besides them. Satisfied with their work, the Muralist nods in agreement.<br>
+<br>
+[[File:04 GW Seasonal Spirit - Nodding Muralist.jpg|200px|thumb|none|Relive the Nodding Muralist's memory]]
+</div>
+{{Clear}}
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Nodding-Muralist-nod-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Nodding-Muralist-nod-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Nodding-Muralist-nod-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Nodding-Muralist-nod-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+* Level 1 will make your avatar simply nod their head once, while a guitar strum sound effect plays.
+* Level 2 makes the same motion as Level 1, with a cyan glowing ring and a small burst of white sparkles appearing around your avatar's head.
+* Level 3 will make your avatar hop forwards and put their hands on their hips as they land, before nodding several times while gradually moving their head from one side to another, finishing off by leaning forward a bit and putting emphasis on their last nod, while guitar strum sound effects play with the rhythm of every nod.
+* Level 4 makes the same motion as Level 3, with a glowing white ring and a small burst of white sparkles appearing around your avatar's head as they nod, finished off with a burst of glowing big blue sparkles flying from the motion of the last nod.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+== Cosmetics==
+=== Mask ===
+The [[Mask]] offered by this Spirit includes a version of the [[Masks#Base Mask|Base Mask]] with a shiny golden square replacing the glowing hole on the forehead, as well as a purple mouth veil with a yellow fringe at the bottom, costing {{Cost|30 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's second node ({{Cost|6 SC|season=Enchantment}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Hair ===
+The [[Hair]] offered by this Spirit includes a cone-shaped purple hat with yellow embroidery around the bottom and poofy, wavy hair that goes past the shoulders, costing {{Cost|34 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|24 SC|season=Enchantment}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Traveling Spirit ==
+[[File:SoE nod TS info.PNG|200px|right|thumb]]
+{{Friendship Tree Info | traveling
+|ts_dates= *October 27, 2022 (#73)<br>
+*January 7, 2021 (#26)
+|rs_dates=*March 4, 2024 (SV#5)
+}}<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Nodding Muralist
+|season = Enchantment
+|image  = Enchantment-Spirit-Nodding-Muralist.png
+
+|nodeC6 = Hair 34 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Mask 30 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+The hints given before the [[Nodding Muralist]]'s first appearance were: 
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=First Visit Hints
+|content=<div>
+* Makes a mean pot pie
+* Gets creative in their cooking...sometimes with unfortunate results
+* Does not like classical music
+* Is reminding you to hydrate
+* Loves decorative pastries
+* Comes from a galaxy far far away...
+* Hates bananas
+* Is chronically late to appointments
+* Has...wait for it.....two hands
+* Likes bad knock knock jokes
+* Can't stand cold weather
+* Is probably not skybot
+* Doesn't have a favorite color...because they like ALL the colors!
+* Is 5 crabs stacked in a trench coat
+* Is asking all you skykids to be patient
+* Has........2 eyes 
+* Won't be put down by Seraph
+* Hates beans
+* Has a secret friend tree with their homemade pot pie that you can buy
+</div>}}
+
+The hints given before the [[Nodding Muralist]]'s second appearance were: 
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Second Visit Hints
+|content=<div>
+* Is the best at cheering people up
+* Likes to work with the krill cat in their lap
+* Has learned to read an ancient language
+* Always gives their full attention
+* Always wins at playing 20 questions game
+* Is trying out embroidery
+* Always loves seeing rainbows
+* Enjoys cozy clothing
+* Always carries around their tools
+* Tends to misplace things 
+* Is a great partner in group projects
+* WILL pet every krill cat
+* Likes to stop and observe the clouds
+* (Small elaboration onto the last hint... it's not that there are clouds where they're from, but the action that they are doing part of that hint which is more important)
+* Does like candy corn, but their favorite Mischief sweet is nougat
+</div>}}
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Enchantment}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Nodding Muralist
+|type   = season
+|season = Enchantment
+|image  = Enchantment-Spirit-Nodding-Muralist.png
+
+|nodeC5 = season_heart 3 SC SP
+|nodeL4 = Hair SP
+|nodeC4 = spell5 10 SC
+|nodeL3 = emote4 SP
+|nodeC3 = emote3 8 SC
+|nodeL2 = spell5 SP
+|nodeC2 = Mask 6 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Nod expression .jpg
+Head nod spirit.png
+enchantment watching nod spirit - marie.jpg
+enchantment group nod spirit - ase.jpeg
+enchantment group head nod - marie.jpg
+Head nod spirit map.png
+</gallery>
+
+==References==
+<references/>
+[[de:Nickender Wandbemaler]]
+[[pt-br:Muralista Concordante]]
+[[ru:Кивающий стенописец]]
+[[fr:Muraliste acquiesçant]]

@@ -1,0 +1,39 @@
+{{Spoilers}}'''Barriers''' are used to prevent Players from reaching certain locations permanently (such as Wind Walls preventing OOB access) or until they meet a certain requirement (such as Spirit Gates). There are many different forms of barriers and there is at least one present in every zone. 
+
+== Spirit Gates ==
+[[Glossary of Terms#Spirit Gate|Spirit Gates]] are the most common form of barriers players will encounter throughout their journey. To get past these, players will have to have relived a certain number of [[Regular Spirits|Spirits]] from a specific realm. Once done, the player can hold their flame to the barrier to get past it.
+
+== Wind Walls ==
+Wind Walls, also known as "Air Walls," are borders of strong winds preventing players from exiting the zone. If players walk too close to the edge of the playable map, the sand/grass around them (if included) will seem to ripple in the wind. The more the player walks into them, the stronger they will get. At a certain point, the uplifting power will make the wind so hard the player will be knocked over onto their back. They will appear to be in a lie-down position when knocked down.
+
+These are used so players stay in the boundaries and are present in every zone. 
+
+== Cosmetics Barriers ==
+To enter a special area, a Cosmetics Barrier requires the player to either wear a specific cosmetic item, or hold a friend's hand who does so.
+There are currently three known barriers to have this feature: 
+* The [[Secret Area]], requiring the {{Icon|Beta-cape-Morybel-0146.png}} [[Secret Area#Beta Cape|Beta Cape]] or {{Icon|Icon cape tgc b-Morybel-0146.png}} [[Secret Area#Founder's Pack|Founder's Cape]]
+* The [[Golden Wasteland#Nintendo Switch Area|Nintendo Area]], requiring the {{Icon|Icon cape nintendo blue-Morybel-0146.png}}{{Icon|Icon cape nintendo red-Morybel-0146.png}} [[Sky for Nintendo Switch#Nintendo Pack|Nintendo Blue or Red Cape]]
+* The [[The Last City#Cloister|Cloister]], requiring the {{Spirit Item|Elder's Lantern|cape_u|icon}} [[Vault Elder's Lantern#Two Embers Part 1 Ultimate Cape|Two Embers Part 1 Ultimate Cape]]
+
+A sign on the barriers will show the required Cape's Icon. If the player is not wearing the appropriate cosmetic, the sign will flicker in red and a note will say: ''Earn the trust by dressing properly or coming with a friend who does so.'' If the player is dressed properly, the barrier can be passed by selecting the {{Icon|Icon flame.png|link=Flame}} flame icon. Sometimes, on special occasions, players who do not own the special cosmetics are able to enter these blocked areas as well. For example, during the [[Sky Anniversary]], where an NPC wearing the Beta Cape will lend a hand to get past it into the Secret Area.
+
+== Winged Light Barriers ==
+A Winged Light Barrier requires players to have a certain amount of [[Winged Light]]. The only known barrier to have this feature is the barrier blocking the entrance to the [[Eye of Eden]]. To get past this barrier, players must have at least 20 Winged Light to progress through and enter the Eye of Eden. 
+
+== Invisible Walls ==
+In addition to Wind Walls, Invisible Walls can be present around the borders of the playable map. Players are able to touch them, but it is impossible to get through them. 
+
+These are used so players stay in the boundaries.
+
+Note: In the [[Prairie Caves]], it is possible to walk through these barriers with [[Chibi Fall]] or by continuously jumping.
+
+== Reset Barriers ==
+Reset Barriers, also known as "Kill Walls," are specially placed barriers that will trigger a [[Glossary of Terms#Transition Screens|transition screen]] if players come into contact with them. Typically, the barrier will teleport you back to a location within the same zone but there are a few exceptions. One example is the reset barrier above the [[Daylight Prairie#Eight Player Puzzle|Eight Player Puzzle]] in the Daylight Prairie. This barrier separates the Eight Player Puzzle from the floating islands introduced in [[Days of Color#June 2023|Days of Color]]. If players come into contact with this barrier, they will be teleported [[Home]] instead of back to the Eight Player Puzzle. 
+
+These are used so players stay in the boundaries or to prevent access to exclusive locations.
+
+[[pt-br:Barreiras]]
+[[de:Barrieren]]
+[[ja:バリア]]
+
+[[Category:Basic Guides]]

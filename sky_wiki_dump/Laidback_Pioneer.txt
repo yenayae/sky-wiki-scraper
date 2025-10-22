@@ -1,0 +1,210 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Stance
+|image     = <gallery>
+Lightseekers-Spirit-Laidback-Pioneer.png|Standard
+Lightseekers-Spirit-Laidback-Pioneer-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Mask|infobox}}{{Spirit Item||Hair|infobox}}
+|props     = {{Spirit Item||Prop|infobox}}
+|music     = {{Music Sheet|9}}
+|season    = Lightseekers
+|realm     = Hidden Forest
+|location  = Forest's Brook
+|ts        = June 5, 2025 (#141)<br>October 13, 2022 (#72)<br>November 26, 2020 (#23)<br/>February 27, 2020 (#3)
+}}
+<section begin="Summary" />The '''Laidback Pioneer''' is a [[Seasonal Spirit]] from the [[Season of Lightseekers]] who offers the {{Emote|Laidback Pioneer|inline_text}}. The Laidback Pioneer is found on the right side of [[Forest's Brook]], inside a hollow tree downhill from the bonfire. The collectibles [[#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Laidback Pioneer|Mask|inline_text}}, a {{Spirit Item|Laidback Pioneer|Hair|inline_text}}, a {{Spirit Item|Laidback Pioneer|Prop|label=Blue Umbrella Prop|inline_text}}, and the {{Music Sheet|9|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Laidback-Pioneer-promo-image.jpg|none|thumb|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|rlMGDjpznZo|200px|inline|Video Guide}}
+
+The Laidback Pioneer can be found on the right side of [[Forest's Brook]], inside a hollow tree downhill from the bonfire. This Spirit has a [[Carry Spirit Memory|carry spirit memory]] with 4 memory fragments and a 10-minute overall [[Timed Memory|time limit]]. 
+
+In order to successfully carry the light to each fragment through the polluted rain, players can use trees as cover, letting the light recharge in safety before advancing further.
+
+As their memory unfolds, the Laidback Pioneer can be seen taking a hike through the rain with their umbrella to the campfire on the higher elevation. After each collected fragment, a big flower spawns in its place.
+
+At the end of the memory, the Laidback Pioneer sits down to relax by the campfire, while two other spirits are standing at the side, chatting.<br>
+<br>
+[[File:02 HF Seasonal Spirit - Laidback Pioneer.png|200px|thumb|left|Relive the Laidback Pioneer's memory]]
+</div>
+{{Clear}}
+
+== <span id="Expression">Stance</span> ==
+This Spirit offers the {{Emote||inline_text}} (officially called '''Lazycool'''). The Stance affects your avatar's position when standing, kneeling, sitting, or lying down.
+
+{{#tag:gallery
+|{{Icon Name||emote}}
+Laidback-Pioneer-laidback-stance-emote.gif {{!}} {{Icon Name||emote_name}}
+Laidback-Pioneer-Stance-Standing.png {{!}} {{Icon Name||emote_name}} (Standing)
+Laidback-Pioneer-Stance-Kneeling.png {{!}} {{Icon Name||emote_name}} (Kneeling)
+Laidback-Pioneer-Stance-Sitting.png {{!}} {{Icon Name||emote_name}} (Sitting)
+Laidback-Pioneer-Stance-Lying-Down.png {{!}} {{Icon Name||emote_name}} (Lying Down)
+|heights=170px|captionalign=center|spacing=small
+}}
+
+*Standing will make your avatar slightly lean to the left, with their right arm loosely propped up on their hip.
+*Kneeling will make your avatar squat down, put their left hand on the left knee, and prop themselves up on the knee with their right arm.
+*Sitting will make your avatar sit with their feet touching the ground, their left arm, bent inwards, loosely laying on their left knee, and their right arm propped up on the right knee, head leaned against the palm.
+*Lying Down will make your avatar lie forward with their butt up in the air, their face turned to the side, and their arms, pointing backwards and aligned with the legs, laying on the ground.
+
+== Cosmetics==
+=== Mask ===
+The [[Mask]] offered by this Spirit is round and beige, with a tilted line going through the left eye, and a small blue teardrop beneath it, costing {{Cost|30 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's second node ({{Cost|6 SC|season=Lightseekers}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Hair ===
+The [[Hair]] offered by this Spirit consists out of brushed back hair that is loosely french braided in the back tied in a low bun, costing {{Cost|18 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fourth node ({{Cost|24 SC|season=Lightseekers}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Prop ===
+The [[Prop]] offered by this Spirit is a blue umbrella with light-blue details and a straight white grip, costing {{Cost|75 C}} from the Traveling Spirit. When equipped, this umbrella is carried by the player and provides protection from [[Flora, Minerals and Elements of Sky#Rain|polluted rain]]. It cannot be placed and therefore cannot be used in [[Shared Spaces]] (unlike the {{Spirit Item|Jelly Whisperer|prop|inline_text|label=Umbrella Prop}} offered by the {{Spirit|Jelly Whisperer|inline_text}}). When carried on its owners back, the Prop appears in its closed form, with the handle pointing up and to the right. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fifth node ({{Cost|44 SC|season=Lightseekers}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Prop|icon}} {{!}} The Prop icon
+{{Icon Name||Prop|real}} {{!}} The Prop
+{{Icon Name||Prop|held}} {{!}} A player holding the Prop
+{{Icon Name||Prop|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Music Sheet ==
+The Laidback Pioneer offers the {{Music Sheet|9}} [[Music Sheet]] #9, costing {{Cost|15 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's third node ({{Cost|14 SC|season=Lightseekers}} total). It is a song in the key of C Major.<br>
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guide
+|content=
+{{#ev:youtube|kvaDkFi35OE||inline|Music Sheet Video Guide by Ikejiji}}
+}}
+{{Clear}}
+
+== Traveling Spirit ==
+[[File:Traveling Spirit 072-by-Clement.png|200px|thumb|TS price Chart by Clement]]
+{{Friendship Tree Info
+|traveling
+|ts_dates=*June 5, 2025 (#141)
+*October 13, 2022 (#72)
+*November 26, 2020 (#23)
+*February 27, 2020 (#3)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Laidback Pioneer
+|season = Lightseekers
+|image  = Lightseekers-Spirit-Laidback-Pioneer.png
+
+|nodeC5 = Prop 75 C
+|nodeL4 = music9 15 C
+|nodeC4 = spell5
+|nodeR4 = Hair 18 C
+|nodeC3 = wing
+|nodeL2 = Mask 30 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+No hints were given before the [[Laidback Pioneer]]'s first appearance.
+
+The hints given before the [[Laidback Pioneer]]'s second appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Second Visit Hints
+|content=<div>
+* Will have 2 eyes to see all you Skykids with
+* Has good posture
+* Is allergic to peanuts
+* Enjoys sharing tea with other spirits
+* Is DEFINITELY NOT a krill
+* Has a favorite comedy show
+* Is afraid of tables
+* Doesn't want you to know, but they're a great singer
+* Has seasonal allergies
+* Loves pickle sandwiches with mustard and mayo
+* Has two hands
+* (Is Bread)
+* Collects bugs as a hobby
+* Makes the best pumpkin pie
+* Has gone to the great beyond
+* Has gone to the underworld and returned
+* Loves sour candy
+* You've all been asleep this whole time and none of this is real, not even this chat
+* Can see dead people
+* Is skybot
+* Has two legs
+* Is a Libra
+</div>
+}}
+
+The hints given before the [[Laidback Pioneer]]'s third appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Third Visit Hints
+|content=<div>
+* Appreciates the beautiful things in life
+* Is that one friend you find yourself trying to impress
+* Dislikes traveling to deserts
+* Likes to go on walks with others
+* Is passionate about rare flowers
+* Always keeps an eye on the time
+* Has a tradition of eating a sandwich before events for "good luck"
+* Enjoys the humidity
+* Believes in superstitions
+* Acts disinterested but in reality they're listening closely
+* Likes getting attention, but pretends like they don't care about it
+* Appreciates having company
+* Loves to go fishing
+* Dislikes their clothes getting muddy
+* Knows how to start a fire
+* Is in #news right now!!
+</div>
+}}
+
+==Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Lightseekers }}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Laidback Pioneer
+|type   = season
+|season = Lightseekers
+|image  = Lightseekers-Spirit-Laidback-Pioneer.png
+
+|nodeC6 = Prop SP
+|nodeC5 = spell5 20 SC
+|nodeL4 = spell5 SP
+|nodeC4 = Hair 10 SC
+|nodeL3 = music9 SP
+|nodeC3 = spell5 8 SC
+|nodeL2 = spell5 SP
+|nodeC2 = Mask 6 SC
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+lightseekers-forest FULL.png
+Laidback-Pioneer-TS-promo-image.png
+</gallery>
+
+==References==
+<references />
+
+[[de:Zurückgelehnter Pionier]]
+[[pt-br:Pioneiro Descontraído]]
+[[ru:Расслабленный первопроходец]]
+[[fr:Pionnier Décontracté]]
+[[ja:くつろぐ開拓者]]

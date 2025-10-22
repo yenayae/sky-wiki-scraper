@@ -1,0 +1,30 @@
+{{SkyEvent
+| image = Days-of-Sky-2020-promo-image.jpg
+| nextevent = [[Sky Anniversary/2021|2021]]
+| date = July 13 to July 19, 2020
+| years = {{#lst:Sky Anniversary|Anniversary Years}}
+}}
+[[File:Sky Anniversary Quest and Celebration - Sky- Children of the Light|thumb]]
+The first Sky Anniversary celebration started on '''July 13, 2020 at 00:00 PDT (UTC-7)''' (coinciding with the start of [[Season of Sanctuary]]) and ended on '''July 19, 2020 at 23:59 PDT (UTC-7)''', lasting '''7''' days. A [[Double_Currency_Events#Anniversary Candle Event - July 2020|Double Currency Event]] also took place. A meditation [[Quests|quest]] for the Meditation Shrine near the [[Secret Area|Office]] door was added.
+
+===2020 New Cosmetics and Props===
+
+====1 Year Anniversary Hat====
+The 1 Year Anniversary Hat is a light blue cone party hat. This [[Hair Accessory]] was introduced in 2020 for {{Cost|3 H}} from the Anniversary  Guide. It was only available during Sky's 2020 Anniversary.
+{{#tag:gallery
+|{{Icon Name|1 Year Anniversary Hat|icon}} {{!}} {{Icon Name|1 Year Anniversary Hat|name}} icon
+{{Icon Name|1 Year Anniversary Hat|real}} {{!}} {{Icon Name|1 Year Anniversary Hat|name}}
+Sky anniversary hat.jpg {{!}} {{Icon Name|1 Year Anniversary Hat|name}} (previous design)
+BirthdayHat1 FrontBack.jpg {{!}} {{Icon Name|1 Year Anniversary Hat|name}}  front and back
+|widths=125|spacing=small|captionalign=center
+}}
+
+==References==
+'''More information about Sky Anniversary 2020 can be found on [https://www.thatskygame.com/news/sky-hits-20-million-downloads-ahead-of-first-anniversary ThatSkyGame's Website].'''
+<references />
+
+{{#lst:Sky Anniversary|Anniversary Navbox}}
+
+[[ja:Skyアニバーサリー/2020]]
+[[pt-br:Aniversário do Sky/2020]]
+[[ru:Годовщина Sky/2020]]

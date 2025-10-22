@@ -1,0 +1,48 @@
+{{SkyEvent
+| image = Kizuna-ai-collab-promo.png
+| date = February 25 to March 11, 2022
+}}
+<section begin="Summary" />The Virtual YouTuber Kizuna AI began her "indefinite hiatus" on February 26, 2022 JST (UTC+9), and to help her fans in Sky mark the occasion, a bundle of items was offered for those wishing for something to remember her by.<section end="Summary" /> Kizuna AI aimed to connect with players and everyone in the world, and TGC hoped this was an opportunity for her fans in Sky to celebrate those bonds of friendship no matter where they may be.
+
+Additionally, parallelly to this event, the [[Double_Currency_Events#Double_Treasure_Candle_and_Seasonal_Candle_Event_-_February_2022|Treasure Candles and Seasonal Candles were doubled]], meaning players were able to find 4 additional Treasure Candles and forged an extra Season Candle per day.
+
+'''More information can be found on [https://www.thatskygame.com/news/a-sneak-peek-at-our-0-16-5-update ThatSkyGame's Website].'''
+
+__TOC__
+
+== Kizuna AI Pack ==
+::'''''"Kizuna AI Cape + Kizuna AI Hairstyle + Kizuna AI Hair Accessory"'''''
+<section begin="IAP" />
+The Kizuna AI Pack contains three items: the Kizuna AI Hairstyle, the Kizuna AI Hair Accessory, and the Kizuna AI Cape. The [[Hair]] is a long, straight hairstyle with pink streaks throughout, and stringy, side-swept bangs. The [[Hair Accessory]] is a pink hairband with the characteristic Kizuna AI bow on top. The [[Cape]] has the same silhouette as the Base Capes—it is white on the outside and deep pink on the inside. The Cape Star Patterns on the back are shaped like hearts. Two Spells of the Hair Accessory were available for free from the Sleepy Traveler's Boat at [[Home]].
+
+This pack was introduced in 2022 '''as a limited-time offer''' and was available for {{USD|19.99|refnote}} from the Kizuna AI NPC in the [[Secret Area]] sitting next to the [[Secret Area#Contents of the Office|Office NPC]], for the duration of the event only. <small>(Since these are part of a limited collaboration, they are not scheduled to return in future years.)</small><section end="IAP" /><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Kizuna AI Hair|iap}} {{!}} Kizuna AI Pack IAP
+{{Icon Name|Kizuna AI Hair}} {{!}} {{Icon Name|Kizuna AI Hair|name}} icon
+{{Icon Name|Kizuna AI Hair|real}} {{!}} {{Icon Name|Kizuna AI Hair|name}}
+{{Icon Name|Kizuna AI Bow}} {{!}} {{Icon Name|Kizuna AI Bow|name}} icon
+{{Icon Name|Kizuna AI Bow|real}} {{!}} {{Icon Name|Kizuna AI Bow|name}}
+{{Icon Name|Kizuna AI Bow|spell}} {{!}} {{Icon Name|Kizuna AI Bow|name}} Spell
+{{Icon Name|Kizuna AI Cape}} {{!}} {{Icon Name|Kizuna AI Cape|name}} icon
+{{Icon Name|Kizuna AI Cape|front}} {{!}} {{Icon Name|Kizuna AI Cape|name}} front
+{{Icon Name|Kizuna AI Cape|real}} {{!}} {{Icon Name|Kizuna AI Cape|name}} interior
+{{Icon Name|Kizuna AI Cape|interior}} {{!}} {{Icon Name|Kizuna AI Cape|name}} back
+Kizuna-AI-cape-back-butterfly.png {{!}} {{Icon Name|Kizuna AI Cape|name}} exterior
+|widths=125|spacing=small|captionalign=center
+}}
+
+== AI Love Sky Keychain ==
+For the occasion, a keychain was released in [[That Sky Shop]]. 
+{{#lst:That Sky Shop/Wave 4|Kizuna AI Keychain}}
+
+==References==
+<references />
+
+[[pt-br:Kizuna AI]]
+[[fr:Kizuna AI]]
+[[ja:キズナアイ]]
+
+[[Category:Events]]
+[[Category:Collaborations]]
+[[Category:Non-Recurring Events]]

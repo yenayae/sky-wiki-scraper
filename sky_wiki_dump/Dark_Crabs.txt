@@ -1,0 +1,85 @@
+{{Creature Infobox
+|title    = Dark Crab
+|type     = dark
+|image    = Dark-Crab.png
+}}
+<section begin="Summary" />'''Dark Crabs''' are first discovered by the player in the [[Sanctuary Islands]] in Daylight Prairie, though they are most prominently found in [[Golden Wasteland]]. They are also found in [[Hidden Forest]]. They are commonly abundant in areas of water. 
+<section end="Summary" />
+==Appearance==
+Dark Crabs are the smallest Dark Creatures in Sky.  They are mostly gray and green but some alternatives can be white, brown, gold, and red. They are found mainly in shallow water and the land around it.  
+<gallery width="125">
+Dark-Crab.png|A green crab in Wasteland
+Gray-Dark-Crabs.png|A gray crab in most Realms
+</gallery>
+
+==Abilities==
+If approached, Crabs will charge at the player, knocking the avatar down and depleting Cape Energy. Crabs give you a couple of seconds to run away as they "prepare to charge at you". Harmful crabs tend to glow a little bit red when doing so. When a player is hit repeatedly, it is also possible to lose Winged Light and thus Cape Wedges. Pressing and holding on the player avatar to release a Deep Call will cause them to flip over, making them harmless for a while and allowing players to ''carry them around''. When you carry them and hold them over a fire, they turn red as if they are being roasted. If you release a Call while in the air, they will be stunned without attacking. Other crabs will help flipped crabs back up. 
+
+A flipped crab will make screeching sounds followed by a faint “eeep! eeep!” in between . 
+[[File:Sound-of-flipped-crab.mp3|none|thumb|The sound of a flipped Crab]]
+<gallery spacing="small" widths="200">
+Dark-Crab-charging.png|A Crab about to charge
+A-flipped-crab.png|A flipped Crab
+Dark-Crabs-Player-Carrying-Dark-Crab.png|A player carrying a Dark Crab
+</gallery>
+<gallery spacing="small" widths="200">
+A-flipped-crab-in-motion.gif|A flipped Crab gif
+</gallery>
+
+Another way to avoid getting hit by these creatures is to dodge them using calculated jumps and turns since they will charge you in straight line.
+
+When a player loses Winged Lights from any reason (not only Crabs but Dark Dragons, polluted water, etc), the Crabs will also “eat” the scattered Winged Lights fallen from the player. If you lose Winged Lights in an area with Dark Crabs, you should recover your Winged Lights before they are eaten by Dark Crabs.
+==Location==
+In addition, crabs are found in [[Sanctuary Islands]], the cave in [[Forest's Brook]], along with the Forest Temple; the [[Valley of Triumph#Maze|Maze]] area of the Valley Temple; the [[Forgotten Ark]] in Wasteland (in the caves and ship-like structures); the [[Vault Archives]], and the [[Secret Area]] in Vault. Lastly, Crabs play a small part in [[Eye of Eden|Eye of Eden (page contains spoilers)]].
+
+==Variants==
+===Uncorrupted Crabs===
+A special variant of uncorrupted crab can be found in the [[Secret Area|secret area]], a remote archipelago in [[Sanctuary Islands]], the [[Social Light#Crab Barbecue|Crab Barbecue]] in the Wasteland's Graveyard, and the [[AURORA Concert]]. They are harmless and simply roam around. A select number from the [[AURORA Concert]] are rideable, while others are a smaller variety. These crabs do not have dark dust falling off of them.<br><br>
+<gallery widths="200" spacing="small" captionalign="center">
+File:Uncorrugated-Dark-Crab.png|Uncorrupted Crab
+File:Sanctuary crab.jpg|Friendly Crab in the Sanctuary Islands
+File:Concert Hall Crabs.jpeg|Crabs in the Concert Hall (after scaring them away during the second Season Of Duets quest); note that they cannot be flipped over.
+</gallery>
+
+===White Crabs===
+You can find variants of White Dark Crabs in the [[Sanctuary Islands]]. When transported to a bright place, it turns black.
+[[File:White-Dark-Crab.png|none|thumb|200x200px|A White Dark Crab in Sanctuary Island]]
+
+===Red Shattering Crabs===
+<section begin="Shattering Crabs" />Red Shattering Dark Crabs are only found during [[Shard Eruptions]]. They differ in appearance from standard Crabs because they have red (non-radiant) shards on the their back. They drain cape energy not only by charging, but also by just being near them. The most important difference from regular Dark Crabs is that Deep Calls (a.k.a. honking) does not flip shattering crabs upside down but instead will causes all the nearby crabs to target you. <section end="Shattering Crabs" />
+[[File:SOShattering-Crab.png|none|thumb|243x243px|A Red Shattered Dark Crab]]
+===In different Events===
+<gallery spacing="small" widths="200">
+Dark-Crab-with-glasses.png|200x200px|During Days of Summer
+Crabbit-cutout.png|200x200px|At the Sky vs Alice area
+Crab-with-first-Anniversary-hat.png|During the Anniversary event
+Pumpkin-Crab.png|A crab during Days of Mischief
+Crab-with-Giftbox.png|A crab during Days of Feast 
+Tournament-of-Triumph-Crab-of-Triumph.png|Tournament of Triumph crab with Trophee
+</gallery>
+===In That Sky Shop ===
+Crabs are depicted in several merch items from [[That Sky Shop]]. To know more about That Sky Shop products, visit their website: https://thatskyshop.com
+
+<gallery spacing="small" widths="200">
+Special-Edition-I-Crab-Plush.png
+Special-Edition-II-Crab-Plush.png
+</gallery>
+
+==Crabs in Daily Quests ==
+[[File:04 GW Quest - Knock over crabs.png|alt=Knock over 5 dark Creatures by Clement|thumb|300x300px|Knock over 5 dark Creatures by Clement]]
+::'''"Knock over 5 dark Creatures"'''
+The "Knock over 5 dark creatures" quest is a daily quest typically give for the Hidden Forest realm and Golden Wasteland.  Dark creatures refer to "crabs" scattered throughout Sky. While the Quest is a common Hidden Forest Daily Quest, the quest itself can be completed by knocking over any crabs found in Sky (text from Clement's Infographic). 
+{{Clear}}
+===Early Beta Crabs===
+[[File:Darkrabs.png|thumb|300x300px|Left: modern-day crab. Right: Early [[Sky Beta|Beta]] crabs.|none]]
+
+== Trivia ==
+* Some crabs, like in [[Aviary Village]], are harmless and very small. 
+* During [[Days of Mischief]], there is a cavern inhabited by many crabs. 
+*
+
+[[Category:Creatures]]
+
+[[fr:Crabes des Ténèbres]]
+[[pt-br:Caranguejos da Escuridão]]
+[[de:Dunkelkrabben]]

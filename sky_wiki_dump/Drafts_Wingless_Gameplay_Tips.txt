@@ -1,0 +1,191 @@
+{{WIP|comment = }}
+{{Spoilers}}
+
+'''Notes:'''
+*idea: section about previous methods that don't work anymore (otherwise Trivia)
+*adding pics/videos for the Isle ramp?
+*section title Completing Game renamed to Eye of Eden, section content needs revision
+*order: eden, season, dailies OR dailies, seasons, eden?
+*sections Seasons and Daily Quests need to be worked out
+
+<section begin="Summary" />'''Wingless''' gameplay can be challenging at times. Here is a (not yet complete) list of any helpful tips how to play ''Sky'' Wingless.<section end="Summary" />
+
+=Parcouring=
+==Using the landscape==
+*Wingless players can reach most places by using the existing landscape to their advantage. This includes using the updraft of clouds e.g. in Aviary Village to reach the Nest roof or the first level of the Bell Tower, or in Forest Social Space to reach the Wind Path entry, or using the landscape to climb e.g. in Alice café climb over the mushrooms close to the entry door to reach the top of the counter.
+
+The Temple of Hidden Forest on their own without any props by parcouring over the jellyfish. This requires some patience to learn, especially for the jump from the third to the fourth jellyfish.
+[[File:Forest-Temple-Jellyfish-Parcour-by-christiankingfu.mov|thumb|Short example video how to reach the Forest Temple as Wingless via parcourng over the Jellyfish, credits to christiankingfu on Discord]] {{#ev:youtube|UcNZhHX2wHE|200px|inline|Crossing the Jellyfish Bridge in Boneyard Capeless by ChristianKingFu}}
+
+==Using Shared Space Drafts==
+
+At least one Shared Space spell in the spell menu is needed to use it as a tool. Shared Space spells can be obtained for free from the Assembly and Remembrance Guides or Nesting Workshop Board, after completing their quests. The player can place down the desired prop(s), enter preview mode, and climb up the props to the destination. The shared space can be exited without saving to not waste the spell and be able to use it again.
+
+==Useful Props==
+Here is a list of helpful items that other Wingless players recommend:
+{| class="wikitable"
+|+ Helpful Props for Wingless Players
+|-
+! Icon !! Prop name !! Source !! Advantages
+|-
+| [[File:Icon_prop_torch_lantern.png|50px]] || Troupe Juggler Prop || Season of Rhythm Spirit [[Troupe Juggler]] || good for climbing, fire source, recharges you
+|-
+| [[File:Blue-Bird-Guide-Additional-Prop-icon.png|50px]]  || Perch Tree || Season of the Blue Bird Season Guide || good for climbing, has a slight distance advantage due to its size and curve, chat prop, always available to unlock
+|-
+| [[File:Sky-Anniversary-Disco-Light-Prop-icon-Morybel-0146.png|50px]] || Sky Anniversary Party Lights || Annual Event [[Sky Anniversary]] || good for climbing, has the greatest height advantage due to its function
+|-
+| [[File:Inspiration-of-Inclusion-Clock-Prop-icon.png|50px]] || Inspiration Of Inclusion Clock || Season of Moomin Spirit [[Inspiration of Inclusion]] || good for climbing, has a slight distance advantage due to its size
+|-
+| [[File:Mischief-Cauldron-icon.png|50px]] || Mischief Cauldron || Annual Event [[Days of Mischief]] || good for climbing, fire source (does ''not'' recharge you), chat prop
+|}
+
+Aside from that, any furniture item can be used for climbing, and any umbrella to be protected from getting extinguished in Hidden Forest rain.
+
+=Spirit Memories=
+[[File:Smoke puff.gif|alt=A small puff of smoke on the ground next to a Wingless player.|thumb|Puff of smoke that appears in the place of Seasonal Spirits before ascending through the Eye of Eden. Credit to raycast_dragonslayer on Discord.]]
+
+In order to see the Spirits of past seasons to relive their memories, the player must have went through whole Eye of Eden at least once. A player who has not done so can see a small puff of smoke (as seen in the image) where the Seasonal Spirit is located, but cannot light the Spirit on their own. The memory can only be relived when another player lights it up.
+
+Spirits from past seasons can be part of daily quests or return as Travelling Spirit and then become visible for players who normally can't see them.
+
+Some Spirit Memories are difficult or even impossible to relive as a lone Wingless. For the more difficult ones, it helps to using props or things in the surrounding environment, such as clouds, butterflies, or geysers. Other memories may require the help of a Winged to relive.
+
+=Quests=
+
+== Daily Quests ==
+Most daily quest can be done easily for Wingless. Some require parcouring or the help of a caped friend.
+
+=== Catch The Light Quests ===
+ADD PICS, AND VIDEO FOR VAULT
+*Catch the Light in Daylight Prairie: walk towards the entrance of the spherical hill where Butterfly Charmer is at. Wait there until the light passes through.
+*Catch the Light in Hidden Forest: fly down to the white arc on the meadow before the first gate. Hop on the torch in the right side of that arc, then place a prop on the side of the arc to climb on top of the arc. Wait on the other side on the arc until the light passes you.
+*Catch the Light in Valley of Triumph: slide down to Ice Rink, walk to the highest point of the bridge next to the middle platform. Jump down before the light passes through below the bridge, or down the other side while the light is underneath.
+*Catch the Light in Golden Wasteland: jump down to Broken Temple and walk to the window behind the broken half-sunken pavillon. Wait close to the window frame until the light passes through.
+*Catch the Light in Vault of Knowlegde: activate the elevator and sit down to meditate when the light is in the hallway. When the elevator starts going up, jump down into the light passing the elevator. Alternatively, activate the elevator anytime, then jump down quickly while it goes up and glide towards the hallway. Inside the hallway you will sink down, and when walking towards the lift again, you will get flown up. Wait for the light to fly through the hallway towards the lift and go up or down at the right moment to catch it.
+
+=== Quests with hard-to-reach Places ===
+Most quests where you interact with spirits like the ones in Meditation Room or Forest Brook can be done Wingless easily. Some others take place at hard to reach places:
+*Play hide-and-seek in Hidden Forest: mostly, this quest can be done by foot or with little parcouring only, but in some cases like at the Boneyard WL pavillon it needs the help of a caped friend.
+*Help Mellow Musician retrieve their guitar in Village of Dreams: you can parcour on the hill behind the house to reach the roof where the guitar is
+*Shenanigans with Cackling Canoneer in Graveyard: to reach the cannon, you need to parcour over the right side of the cliff or request a caped player's help.
+
+Most quests where you need to find the candle cake at the end of a rainbow or admire the rainbow for a minute are easy for Wingless as well: Prairie Caves, Rainy Forest before the first gate, Valley Citadel, Hermit Valley, Wasteland Forgotten Ark and Treasure Reef.
+Others are in harder to reach places:
+*Sanctuary Islands: enter Sanctuary via Bird's Nest and get on the clouds to the right. Go as far as you can on them, then start flying over to the rainbow. Otherwise, if you walk there over the main island, it needs some parcouring at the pond with the waterfall and candle cake to climb on the cliff where the candle cake is.
+*Wind Paths: can be reached via clouds. 
+*Vault 4th floor: walk up the stairs to the lowest permanent Candle Cake, then parcour onto the ledge via Shared Space or the help of a caped friend.
+*Starlight Desert: Turn around after entering via Collab Room and walk into the clouds to reach a Stage. It might need a few tries to be able to reach the ledge and not drop down below the platform where the clouds won't lift you up high enough.
+
+=== Recharge Your Light Quests ===
+Since hotfix 0.30.1 it has become very difficult to complete certain daily quest where you need to recharge yourself via a light bloom or jelly fish.
+ADD DETAILS
+
+==Season Quests==
+While most tasks in ''Sky'' can be completed by Wingless players just fine, some quests of certain seasons can be difficult for Wingless to complete on their own.
+
+=== '''TODO:''' ===
+*add pics of the lights, check red light spots
+*fact check Sanc, TLP (2nd quest and Eden)
+*add Abyss, AURORA, Shattering, Remembrance, Passage, Moments, Revival, 9CD, BlueBirb
+
+===Season of Enchantment ===
+5 of the 6 season quests occasionally are part of daily quests.
+*Red: both red lights can be reached by foot comfortably. To catch the one at Crab Fields, stand ''here''. To catch the one in the back of Forgotten Ark, stand ''here''
+*Blue: to catch this light, go behind the middle platform of Ice Rink and break the ice surface. Wait on the slope below until the light passes you.
+*Cyan: this is the only light that is not part of any daily quest. To catch it for the season quest, enter Prairie, turn around and use either the clouds or a caped friend to catch it.
+*Green: enter Bird's Nest via Butterfly fields and jump into the left clouds. Fly over to the tunnel below the big middle island, call the butterflies there to lift you up. Then jump down to the left small island and wait at the spot where the birds drop the light.
+*Purple: enter the archives and look to the right. There is a tunnel in the wall but the light does not fly low enough there to catch it. Further to the right is a huge gap between the walls, the light will make a downward U-turn there. Wait in the gap until the light passes you.
+*Orange: after entering Boneyard from Brook, walk past the tree stump of Apologetic Lumberjack. Jump down into the water behind it and walk right until you reach a branch with some light blooms. Wait at one of the uppermost branch fork and watch the light. After it's flying past the wing light pavillon it will fly down below the branch. Jump down in time before it reaches the branch to catch it.
+
+=== Season of Sanctuary ===
+Some of the bells you need to collect for the quests are high up on hard to reach islands. For the one above turtle island, you can try using the geyser behind said island, and for the one high above in the waterfall in the clouds use the geyser in the middle of the main island to either catch a giant manta directly or reach the highest point of the main island to wait for the manta there. The manta will fly you over to the waterfall in the clouds.
+
+=== Season of Prophecy ===
+When you get to the end of one of the Trials, click the button to receive Winged Light and, '''immediately''' after the banner saying "''Complete''" appears, close the game without letting it continue to run in the background - remove it from app/task switcher or close it in console/pc menu. Wait up to a minute before restarting ''Sky'' again to make sure the WL does not register. Then walk back to the Prophecy cave to turn in the completed quest at the Season Guide.
+When doing a completed trial again e.g. for candle run or for fun, it is no longer necessary to click on the WL as the quests are finished already, you can simply teleport home then.
+
+=== Season of Dreams ===
+All quests of this season can easily be done wingless. All quests can also be part of daily quests occasionally.
+
+=== Season of Assembly ===
+*Quest #1: this quest in Rainy Forest might need help of fire props or even a caped player due to the Forest rain draining Wingless players and it requires being able to burn darkness plants in the rain. Some of the plants also need parcouring skills.
+*Quest #2: this is a two-player-quest in Brook and to reach some of the pieces, you either need to parcour or a caped friend for help.
+*Quest #3: this is three-player-quest in Boneyard. The rain can be deactivated before starting to collect the pieces. All of them can be reached by foot.
+*Quest #4: this is a four-player quest in Rainy Forest. All pieces can be reached by foot but you might get drained in the rain.
+*Quest #5: the season guide is now standing on a ledge in a window of the right side in the treehouse and you need to either parcour or ask a caped friend for help to reach the ledge. The quest is a two-player quest in Brook and the pieces are now very high up in the trees and require a caped friend's help.
+*Quest #6: the season guide is now standing on top of the treehouse and might need parcouring or a caped friend's help to reach there. The quest is a one-player-quest in Boneyard. To reach the meditation circle that starts the quest you need to parcour inside the treehouse on the shelves to the left. The quest itself requires a caped friend's help as you need to fly through a lot of hoops in the air. This quest can also be part of daily quests occasionally.
+After all quests are done, the season guide will then stand on a ledge in the right window again.
+
+=== Season of The Little Prince ===
+Most quests can be completed by foot. For the second quest, you need a caped friend's help via the follow-function as holding hands is not possible while you hold the Prince's hand. For the last quest, you need to go through eden. Please refer to eden section for additional hints.
+
+=== Season of Flight ===
+Some quest places are high up and need parcouring, clouds, or the help of a caped friend to reach. The 3rd quest to get the Wind Chimes will need flying through the auto-collect-WL tunnel and can't be completed by a Wingless who wants to stay Wingless, it needs the help of a caped player who takes on the task of flying through that tunnel for you.
+
+=== Season of Abyss ===
+?
+
+=== Season of Performance ===
+All quests of this season can be done Wingless. Occasionally, daily quests take place in the Theater with some of the Season Spirits.
+
+=== Season of Shattering ===
+doing shards, some fragments can't be caught, gaining ac
+
+=== Season of AURORA ===
+getting yeeted in quest 3 but that's difficult, might need caped help
+With each quest, the Coliseum gets changed slightly and in the end, the Temple entrance is lifted up on a platform. It now needs some parcouring to reach - ice skate along the tribune rinks to hop onto the leftmost or rightmost railing, then jump down onto the temple platform.
+
+=== Season of Remembrance ===
+parcour or caped help
+
+=== Season of Passage === 
+?
+
+=== Season of Moments ===
+?
+
+=== Season of Revival ===
+eden, refer to eden section
+
+=== Season of the Nine-Colored Deer === 
+krill quest
+
+=== Season of Nesting ===
+All quests of this season can be done Wingless.
+
+=== Season of Duets ===
+All quests of this season can be done Wingless.
+
+=== Season of Moomin ===
+All quests of this season can be done Wingless.
+
+=== Season of Radiance ===
+All quests of this season can be done Wingless.
+
+=== Season of the Blue Birb === 
+getting yeeted by following blue birb, but some quests still difficult
+
+=== Season of The Two Embers - Part 1 ===
+All quests of this season can be done Wingless. By default, every player is Wingless inside the season area since flying children of the light have not existed back then during the era the quests take place at.
+
+=Eye of Eden as Wingless=
+<!--{{Eden}}-->
+While there is a way for Wingless players to finish the game, they cannot earn [[Ascended Candle]]s from it. Rather, Ascended Candles can be earned by cleansing the Darkness (Red [[Shard Eruptions]]), which can then be used to ascend friendships and purchase certain spells and props. Although Wingless are able to complete Eden, the way of doing so is a bit tricky. <!-- move the red shards part somewhere else before this part -->
+
+Firstly, entering the [[Eye of Eden]] requires having a minimum of 20 Winged Light to get past the spirit gate. You can take the hand of a winged friend with enough Winged Light, or if you want to enter alone, you can use a [[Blessings_(Spells)#Shrink_Spell|Shrink Spell]] to perform a [[Chibi Fall]]. There are several other ways as well<!-- since the other options are longer, I suggest making multiple tabbers here (entering Eden, then dodging Orbit WL) -->. Climbing the mountain itself is relatively the same up to the [[Eye_of_Eden#Section_3:_Statues_and_Winged_Light|point of no return]]—only after passing this point to the summit, things differ. Once you have reached Eden's summit, your Wingless will instantly die, due to the fact that the wing count is at zero. This is nothing to worry about and is all a part of the intended way through.
+
+At this point you will have reached the [[Eye_of_Eden#Section_1:_Lost_and_Found|void dark room]] if you have decided to move forward when prompted. Here you will find a Child of Light in the distance waiting for you. In this special case, proceeding to interact with the child provides a temporary wing to the player that is always set to a specific number. So once again, fear not, this is all a part of the process.
+
+Now the ascension to Orbit is the same as usual. Once you have gotten past all the cutscenes and constellation platform, you will reach the gate of rebirth. Keep in mind, there is an Auto-Wing after entering it and this is where the challenge really begins. Similar to how you can pass through Trials in the Season of Prophecy quest, you can use this simple trick to finish Eden. 
+
+To start, simply walk through the gate and wait until you see the cutscene just before the credits begin. The second you see a ball of light with manta swirling around, you need to fully shut down the game. This will ensure you do not collect the winged light right before the moment it reaches you. This works for all winged light you pick up, be it on purpose or accidental. Note: Waiting at least 15 seconds or more is good insurance before logging back in just in case the game puts you in the same place when you return. Just as well, practicing this method is a good idea for beginners.
+
+Things to maybe add:
+*connection can be important 
+*rather close too soon than too late, storm lock will apply
+*escaping storm lock in case you wanna stop
+*TLP and revival quests - refer to quests below
+
+:In order to complete the game, a similar method is used. Except this time the player must close the game as soon as the credits start to avoid collecting the unseen Winged Light at the end. To be safe, wait a few minutes before relogging so the game does not register you in the same spot. This strategy has been tested thoroughly, however caution is advised as timing is important here. 
+
+:It is recommended to practice this strategy before trying it in a situation where the Wingless account is in danger of becoming Winged. One way of doing this is to play on a Winged account by taking note of how many Winged Light your avatar has. Then when you collect Winged Light, close the game before the WL reaches you. Finally, reopen the game and if your WL count has not changed, you have succeeded. Another way to practice that does not require another account is to simply try to close the game as quickly as possible.

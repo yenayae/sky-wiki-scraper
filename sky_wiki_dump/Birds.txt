@@ -1,0 +1,67 @@
+{{WIP
+|pagetype = creature
+|placedby =
+|comment  =
+}}
+{{Creature Infobox
+|title    = Birds
+|type     = light
+|image    = A-Bird-from-Prairie.png
+}}<section begin="Summary" />Birds are introduced in the [[Isle of Dawn]]. They are encountered in almost every realm, and they seem to emerge from various points in the clouds when traveling in flocks, signifying their relation to Light.<section end="Summary" />
+
+== Locations ==
+Birds can be found in all of the realms, including Eden and the Vault of Knowledge. One of the best places to find birds is the [[Nightbird Whisperer|Nightbird Whisperer's]] cave in the [[Prairie Peaks]], where they can be found in massive flocks.
+
+In the [[The Wind Paths|Wind Paths]] a special bird can be found, one that will follow the player around the area if interacted with.
+
+==Appearance==
+They appear mostly white or greyish-white in color. On some birds, a small dot on the head similar to those found on other light creatures can be seen.
+
+==Size==
+They consist of two different species/sizes<ref>According to TGC staff member [https://discord.com/channels/575762611111592007/632004389137154048/915449133152731146 Ash], it's a result of game limitations.</ref>: one that quite resembles a paper plane, usually seen in active flight, smaller in size, flying in one way and in a pack. The second one looks more similar to real life birds, seen in areas such as [[Daylight Prairie#Social Space|Daylight Prairie's Social Space]] and the [[Forgotten Ark]], flying in a more natural pattern. Players on the [[Sky for Steam|Steam]] platform cannot see the paper plane birds, they all appear as the regular bird models. 
+
+==Abilities==
+Flying near most birds recharges Cape Energy at a moderate speed; furthermore, if the player comes into contact with one, the Creature releases a distinctive call and energy is replenished very rapidly.  
+
+Players can collect the [[Bird Call]] from the [[Bird Nest]] area of Daylight Prairie, though this does not unlock any special abilities and merely mimics the creature. 
+
+During some stages of the [[AURORA Concert]], the player takes the form of a bird. In that form, their flight is slowed and more awkward, but as usual they can consume cape energy to give themselves a boost. 
+
+==Bird Variations==
+===Nightbird===
+[[File:Nightbird-Perched.png|thumb|Nightbird Perched on a rock]]
+The nightbird is a bird with a found in the [[Prairie Peaks]] with a yellow feathery head, dark band around the chest with a white body and yellow feather-tips. According to the [[Season of Moments#Quest #2|second]] quest from the [[Season of Moments]] which is centered around this bird, this Light Creature only comes out at night. Players can obtain its loud echoing [[Call]] from the [[Nightbird Whisperer]] spirit.
+{{Clear}}
+
+===Raven===
+[[File:Raven.png|thumb|Raven]]
+During [[Days of Mischief]], black, crow-like birds can be seen in the [[The Cackling Crab|Cackling Crab]] area of the game. Their calls are also reminiscent of real-life crows, as opposed to the usual bird call that Sky's birds use.
+{{Clear}}
+
+===Black Bird===
+[[File:Black-bird.png|thumb|Black Bird]]
+During [[Days of Mischief]], black birds similar to the white birds could be found in the [[The Cackling Crab|Cackling Crab]] area.
+A bug in Daylight Prairie's Social Space made the birds at the jump off point for Prairie turn dark but this has since been patched.
+{{Clear}}
+
+===Rhythm Bird===
+[[File:Rhythm Manta?1.png|alt=|right|frameless|110px110px]]
+<section begin="Rhythm Bird" />This mysterious bird-like creature was only seen in the [[Season of Rhythm]] cutscenes, the [[Season of Flight]] promotional art and a [[Quests/Daily Quest Spirits#Thoughtful Director|daily quest]]. For the Season of Rhythm, it's the ride of the Spirits and Guide. For Season of Flight, there is an artwork of the Light Whisperer Spirit in front of it. During the [[Quests/Daily Quest Spirits#Thoughtful Director|daily quest]], it was floating on the [[Vault of Knowledge#Second Floor|Second Floor]] of [[Vault of Knowledge]].<section end="Rhythm Bird" />
+{{Clear}}
+
+== Gallery ==
+<gallery widths="220" spacing="small" captionalign="center" hideaddbutton="true">
+Bird 2D.JPG|"Paper birds" flying in a flock
+Bird 3D.JPG|A 3D bird on the ground
+File:BirdsInAviary.jpg|3D birds found in the Aviary Village
+File:BirdsPrairiePeaks.jpg|Birds found in the Prairie Peaks
+File:BirdsInPeaksAgain.jpg
+File:Birds on PC Cavern.jpg|Birds as seen on the Steam platform
+File:Birds on PC Prairie Villages.jpg
+File:DaysOfMischiefCrows.png|The "crows" seen in Days of Mischief
+</gallery>
+[[Category:Creatures]]
+
+[[fr:Oiseaux]]
+[[pt-br:Pássaros]]
+[[de:Vögel]]

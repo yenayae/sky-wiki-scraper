@@ -1,0 +1,182 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Action
+|image     = <gallery>
+Dreams-Spirit-Bearhug-Hermit.png|Standard
+Dreams-Spirit-Bearhug-Hermit-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Outfit|infobox}}{{Spirit Item||headpiece|infobox}}{{Spirit Item||Hair|infobox}}
+|music     = {{Music Sheet|19}}
+|season    = Dreams
+|realm     = Valley of Triumph
+|location  = Village of Dreams
+|ts        = February 15, 2024 (#107)<br>November 24, 2022 (#75)
+}}
+<section begin="Summary" />The '''Bearhug Hermit''' (colloquially known as the '''Yeti''') is a [[Seasonal Spirit]] from the [[Season of Dreams]] who offers the {{Emote|Bearhug Hermit|inline_text}}. The Bearhug Hermit is found in the [[Village of Dreams]] behind a building near the steps leading to the boats. The collectibles [[Bearhug Hermit#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Bearhug Hermit|Outfit|inline_text}}, a {{Spirit Item|Bearhug Hermit|headpiece|inline_text}}, a {{Spirit Item|Bearhug Hermit|Hair|inline_text}}, and the {{Music Sheet|19|inline_text}}.<section end="Summary" />
+
+== Memory ==
+<div>{{#ev:youtube|98WLZSrH9fY||inline|Video Guide}}
+
+The Bearhug Hermit can be found in the [[Village of Dreams]] behind the building leading to the platform where boats can be activated to take players to the top of the slope in the Village. This Spirit has a [[Carry Spirit Memory|carry spirit memory]] with 7 fragments and an unlimited overall [[Timed Memory|time limit]].<br>
+<br>
+Along the way, steps will help the player carry the Spirit to the top but some controlled flying will be required for portion of the path without steps. As their memory unfolds, the Hermit can be seen following the [[Cheerful Spectator]] and [[Leaping Dancer]] from afar while hiding behind the buildings and on the mountain. Afterwards, the Hermit continues on their mountain path until they spot the little Skater hanging from a cliff.
+
+At the 4th memory, players will need to carry the light from inside the tunnel on your right to the top of the overhang with the little Skater. Let it drop below to activate the 5th memory of the Hermit diving to catch the falling little Skater.
+
+At the end of the memory, the little Skater is grateful that the Hermit saved them from falling. To comfort them, the Hermit gives the little Skater a big bearhug.<br>
+<br>
+[[File:03 VT Seasonal Spirit - Bearhug Hermit.jpg|200px|thumb|none|Relive the Bearhug Hermit's memory]]
+</div>
+{{Clear}}
+
+==<span id="Expression">Friend Action</span>==
+''Note: While this Spirit can be found in Village of Dreams, the upgrade to the "Bearhug" Friend Action will not be available for those who missed the Season or those who did not purchase the [[Season Pass]] until the Spirit returns as a Traveling Spirit.''
+
+This Spirit offers the {{Emote||inline_text}}, which has 2 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Bearhug-Hermit-bearhug-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Bearhug-Hermit-bearhug-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+</gallery>
+
+*Level 1 will make your avatar crouch in front of your friend with opened arms, before lifting them up in a hug and swaying from side to side, with your friend softly kicking their legs, while musical notes play.
+*Level 2 makes the same motion as Level 1 but instead of lightly swaying, your avatar will swiftly pick up and hug your friend tightly before swinging them around, while a few musical notes play, increasing in pitch with each swing.
+
+Like any [[Friendship Menu#Extended Two-Player Abilities|Extended Two-Player Abilities]], this ability can be upgraded by opening your friend's Friendship Menu. To reach the 10th node before the ability, it will cost you {{Cost|29 C}} and {{Cost|6 AC}}. (See [[Friendship Menu]] to view the entire Friendship Tree). Unlocking the Level 1 ability will cost you {{Cost|12 C}}. After unlocking Level 1, it will cost you {{Cost|14 C}} more to upgrade to the Level 2.
+
+As a Traveling Spirit, the prices of the Friend Action upgrade was {{Cost|8 H}}. During the Season, Level 1 was free, but Level 2 was only available to [[Season Pass]] holders.
+
+==Cosmetics==
+===Outfit ===
+The [[Outfit]] offered by this Spirit is overall white and fluffy, consisting of a short-sleeved top, arm warmers, a grey belt with a piece of black, red and yellow fabric hanging from it, long fluffy pants, and hoof-like shoes, costing {{Cost|70 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fifth node ({{Cost|83 SC|season=Dreams}} total).<br>{{Dye_Details
+|area1=the waist fabric's main pattern
+|cost1=2
+|area2=the bottom trim of the main fabric's pattern
+|cost2=1
+}}
+<br>
+{{#tag:gallery
+|{{Icon Name||Outfit|icon}} {{!}} The Outfit icon
+{{Icon Name||Outfit|real}} {{!}} The Outfit front
+{{Icon Name||Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Headpiece">Head Accessory</span> ===
+The [[Head Accessory]]<ref name="Head Accessory recategorized">This item was recategorized from a [[Hair Accessory]] to a [[Face Accessory]] as a result of the [[Outfit Shrine|Closet]] category expansion in Patch {{v|0.22.0}}. It became a [[Head Accessory]] after the split of the [[Face Accessory]] category in Patch {{v|0.27.0|0.27.0}}.</ref> offered by this Spirit is a pair of big red horns, each attached to one side of the head, one of which is partially cut off as if broken, costing {{Cost|42 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|13 SC|season=Dreams}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||headpiece|icon}} {{!}} The Head Accessory icon
+{{Icon Name||headpiece|real}} {{!}} The Head Accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Hair===
+The [[Hair]] offered by this Spirit is big and fluffy, seamlessly transitioning from the top hair to a beard, with a small, flat, black and red colored hat on top, and a small ponytail sticking out of it, costing {{Cost|50 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Free's fifth node ({{Cost|83 SC|season=Dreams}} total). Note that when worn with a mask, players will only see a small portion of the mask below, since the hair covers most of the face.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair front
+{{Icon Name||Hair|side}} {{!}} The Hair side
+{{Icon Name||Hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Music Sheet==
+The Bearhug Hermit offers the {{Music Sheet|19}} [[Music Sheet]] #19, costing {{Cost|15 C}} from the Traveling Spirit. It is a song in the key of C Major. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's third node ({{Cost|31 SC|season=Dreams}} total).<br>
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guide
+|content=
+{{#ev:youtube|2AYy4m-ZhdA||inline|Music Sheet Video Guide by Ikejiji}}
+}}
+
+== Traveling Spirit ==
+{{Friendship Tree Info|traveling|ts_dates=*February 15, 2024 (#107)
+*November 24, 2022 (#75)
+}}<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Bearhug Hermit
+|season = Dreams
+|image  = Dreams-Spirit-Bearhug-Hermit.png
+
+|nodeC5 = outfit 70 C
+|nodeL4 = emote2 8 H
+|nodeC4 = spell5
+|nodeR4 = hair 50 C
+|nodeC3 = wing
+|nodeL2 = headpiece 42 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = music19 15 C
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+The hints given before the [[Bearhug Hermit]]'s first appearance were: 
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=First Visit Hints
+|content=<div>
+*Learned how to weave cloth by themselves
+*Over-prepares for every situation
+*Stutters a little when speaking
+*Eats food so spicy it'd make normal people cry
+</div>}}
+
+The hints given before the [[Bearhug Hermit]]'s second appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Second Visit Hints
+|content=<div>
+*Speaks in a quiet voice
+*Prefers bartering for goods, instead of using currency
+*Is rather bashful about their skills
+*Is an adept cook
+*Is a mediocre poem writer
+</div>}}
+
+==Season Friendship Tree==
+{{Friendship Tree Info | season | season=Dreams}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Bearhug Hermit
+|type   = season
+|season = Dreams
+|image  = Dreams-Spirit-Bearhug-Hermit.png
+
+|nodeC6 = season_heart 3 SC SP
+|nodeL5 = Outfit SP
+|nodeC5 = Hair 29 SC
+|nodeL4 = emote2 SP
+|nodeC4 = spell5 23 SC
+|nodeL3 = music19 SP
+|nodeC3 = spell5 18 SC
+|nodeL2 = headpiece SP
+|nodeC2 = spell5 13 SC
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Trivia==
+[[File:Bearhug-Hermit-Outfit-Lashes.png|thumb|x125px|right|Player with white eyelashes]]
+* The Bearhug Hermit is featured in several merch items from [[That Sky Shop]]. To know more about That Sky Shop products, visit their website: https://thatskyshop.com
+* Players wearing [[Masks]] that show the avatar's bare face (such as those offered by the [[Proud Victor#Mask|Proud Victor]], [[Princess#Mask|Princess]], and [[Season of the Nine-Colored Deer#Gift of the Nine-Colored Deer|Gift of the Nine-Colored Deer Pack]]) will have white eyelashes when wearing Bearhug Hermit's [[#Outfit|Outfit]].
+{{Clear}}
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Season of dreams bearhug hermit emote.JPG
+season of dreams bearhug emote 1.png
+season of dreams bearhug emote twilight stadium.JPG
+Season of dreams bearhug hermit map.PNG
+</gallery>
+
+==References==
+<references />
+
+[[de:Großer Yeti]]
+[[pt-br:Iéti do Abraço de Urso]]
+[[ru:Отшельник-обниматель]]
+[[fr:Yéti du câlin]]

@@ -1,0 +1,158 @@
+{{Guide Infobox
+|image     = Enchantment-Guide-Spirit.png
+|ultimates = {{Spirit Item||headpiece_u|link=#Enchantment Ultimate Head Accessory|infobox}}{{Spirit Item||hair_u|link=#Enchantment Ultimate Hair|infobox}}
+|season    = Enchantment
+|location  = Forgotten Ark
+}}
+<section begin="Summary" />The '''Enchantment Guide''' is a Seasonal Guide (also known as Quest Giver) from the [[Season of Enchantment]] who offers Quests and [[Enchantment Guide#Ultimate Gifts|cosmetics]]. The Enchantment Guide is found at the [[Golden_Wasteland#Forgotten_Ark|Forgotten Ark]] in Golden Wasteland, in front of the sunken Ark. The Ultimate Guide offered an {{Spirit Item||necklace_u|link=Enchantment Guide#Enchantment Ultimate Pendant|inline_text}}, an {{Spirit Item||headpiece_u|link=Enchantment Guide#Enchantment Ultimate Head Accessory|inline_text}}, and an {{Spirit Item||hair_u|link=Enchantment Guide#Enchantment Ultimate Hair|inline_text}}.<section end="Summary" />
+
+==<span id="Ultimate Pendant"><span id="Enchantment Ultimate Pendant">Seasonal Pendant</span></span>==
+The Enchantment Seasonal [[Necklaces|Pendant]] is the usual gold pendant featuring the Season's emblem attached to a necklace. It was a [[Season Pass ]] exclusive item during the Season, available for free from the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||necklace_u}} {{!}} Enchantment Ultimate Pendant icon
+{{Icon Name||necklace_u_real}} {{!}} Enchantment Ultimate Pendant
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Ultimate Gifts==
+The Season of Enchantment Guide offered 2 Ultimate Gifts for [[Season Pass]] holders, available to be purchased with [[Currency#Season Hearts|Seasonal Hearts]] during the [[Season of Enchantment]] only.
+
+===<span id="Ultimate Headpiece">Enchantment Ultimate Head Accessory</span>===
+The Enchantment Ultimate [[Head Accessory]] is a pair of thick maroon hair tassels with golden accents, one attached to each side of the player's head. It was a [[Season Pass]] exclusive item during the Season, available for {{Cost|2 SH|season=Enchantment}} after unlocking the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||headpiece_u}} {{!}} Enchantment Ultimate Head Accessory icon
+{{Icon Name||headpiece_u_real}} {{!}} Enchantment Ultimate Head Accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Ultimate Hair">Enchantment Ultimate Hair</span>===
+The Enchantment Ultimate [[Hair]] is a dark purple turban with a golden tassel at the top front and a metallic golden [[Season of Enchantment]] emblem sitting on top. It was a [[Season Pass]] exclusive item during the Season, available for {{Cost|4 SH|season=Enchantment}} after unlocking the Friendship Tree's second node. Note that this item is considered a Hair, not a [[Hair Accessory]], and as such it can not be worn over other Hairstyles.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||hair_u}} {{!}} Enchantment Ultimate Hair icon
+{{Icon Name||hair_u_real}} {{!}} Enchantment Ultimate Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Friendship Tree==
+The Enchantment Guide Friendship Tree was available to the right of the [[#Quest tree|Quest Tree]] during the [[Season of Enchantment]] only. '''Now that the Season is over, these cosmetics are no longer available.'''
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Enchantment Guide
+|season = Enchantment
+|image  = Enchantment-Guide-Spirit.png
+
+|nodeC3 = hair_u 4 SH AP
+|  linkC3 = Enchantment Guide#Enchantment Ultimate Hair
+|  labelC3 = Enchantment Ultimate Hair
+
+|nodeC2 = headpiece_u 2 SH AP
+|  linkC2 = Enchantment Guide#Enchantment Ultimate Head Accessory
+|  labelC2 = Enchantment Ultimate Head Accessory
+
+|nodeC1 = necklace_u AP
+|  linkC1 = Enchantment Guide#Enchantment Ultimate Pendant
+|  labelC1 = Enchantment Ultimate Pendant
+}}<section end="Friendship Tree" />
+
+==Quest Tree==
+The Enchantment Guide Quest Tree is available for all players to complete Quests from the [[Season of Enchantment]]. Once you complete a Quest, a [[Currency#Hearts|Heart]] is available to be collected for free during the Season of Enchantment only. Since the end of the Season, players completing the Quests for the first time have to pay 3 {{Cost|c}} to obtain these Hearts.
+<section begin="Quest Tree" />{{Mobile Tabber
+|tab1 = Post-Season
+|c1   = {{Friendship Tree
+|spirit = Enchantment Guide
+|image  = Enchantment-Guide-Spirit.png
+
+|nodeC7 = Icon_hug.png
+|  linkC7 = Hug Action
+
+|nodeL6 = heart
+|  noteL6 = <ref name="quest_heart"/>
+|nodeC6 = quest
+|  linkC6 = Season_of_Enchantment#Quest_6
+|  label6 = Quest 6
+
+|nodeL5 = heart
+|  noteL5 = <ref name="quest_heart"/>
+|nodeC5 = quest
+|  linkC5 = Season_of_Enchantment#Quest_5
+|  label5 = Quest 5
+
+|nodeL4 = heart
+|  noteL4 = <ref name="quest_heart"/>
+|nodeC4 = quest
+|  linkC4 = Season_of_Enchantment#Quest_4
+|  label4 = Quest 4
+
+|nodeL3 = heart
+|  noteL3 = <ref name="quest_heart"/>
+|nodeC3 = quest
+|  linkC3 = Season_of_Enchantment#Quest_3
+|  label3 = Quest 3
+
+|nodeL2 = heart
+|  noteL2 = <ref name="quest_heart"/>
+|nodeC2 = quest
+|  linkC2 = Season_of_Enchantment#Quest_2
+|  label2 = Quest 2
+
+|nodeL1 = heart
+|  noteL1 = <ref name="quest_heart">During the Season of Enchantment, the Hearts available from the Enchantment Guide after completing each Quest were free.</ref>
+|nodeC1 = quest
+|  linkC1 = Season_of_Enchantment#Quest_1
+|  label1 = Quest 1
+}}
+
+|tab2 = Mid-Season
+|c2   = {{Friendship Tree
+|spirit = Enchantment Guide
+|type   = season
+|season = Enchantment
+|image  = Enchantment-Guide-Spirit.png
+
+|nodeC7 = heart free
+
+|nodeC6 = quest
+|  linkC6 = Season_of_Enchantment#Quest_6
+|  label6 = Quest 6
+
+|nodeL5 = heart free
+|nodeC5 = quest
+|  linkC5 = Season_of_Enchantment#Quest_5
+|  label5 = Quest 5
+
+|nodeL4 = heart free
+|nodeC4 = quest
+|  linkC4 = Season_of_Enchantment#Quest_4
+|  label4 = Quest 4
+
+|nodeL3 = heart free
+|nodeC3 = quest
+|  linkC3 = Season_of_Enchantment#Quest_3
+|  label3 = Quest 3
+
+|nodeL2 = heart free
+|nodeC2 = quest
+|  linkC2 = Season_of_Enchantment#Quest_2
+|  label2 = Quest 2
+
+|nodeL1 = heart free
+|nodeC1 = quest
+|  linkC1 = Season_of_Enchantment#Quest_1
+|  label1 = Quest 1
+}}
+}}<section end="Quest Tree" />
+
+==Trivia==
+* The Enchantment Guide can be found in Aviary Village's [[Aviary Village#Spell Shop|Spell Shop]] but cannot be interacted with.
+* The Enchantment Guide is the very first [[Ancestors#Guides|Seasonal Guide]] to offer Seasonal Quests for players to complete, and the first to remain present in the game after their Season ended.
+
+==References==
+<references />
+
+[[de:Verzauberungs-Helfer]]
+[[pt-br:Guia dos Encantos]]
+[[fr:Guide de l'Enchantement]]
+
+[[Category:Season of Enchantment]]

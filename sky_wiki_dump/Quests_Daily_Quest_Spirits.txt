@@ -1,0 +1,612 @@
+{{WIP|comment=We are likely to reshuffle the information in a more cohesive way.}}
+{{#section-h:Aviary Village|Aviary Village Archway Cafe Counter}}
+[[File:Daily-Quest-Spirits-Blue-Glow.png|thumb|x200px|Appearance of Daily Quest Text and Spirits that have not been relived]]
+<br>
+If a new player has not relived a Daily Quest Spirit, the spirit will appear stationary and blue. For the new [[#Unique Quests]], interacting with the Daily Quest Spirit will prompt the player to first relive their memories BEFORE they are given the true Daily Quest. '''Reliving the memory is NOT the Daily Quest.'''
+
+==Unique Quests==
+===Admiring Actor===
+{{Icon|Quest-icon.png}} Meet up with [[Admiring Actor]] in Bird Nest
+* Learn how to play the instrument with Admiring Actor
+<div style="text-align: center;">
+{{#ev:youtube|uC7dZDmQI_M|300|inline|{{Icon|Quest-icon.png}} [[Admiring Actor]]'s Flute Lesson}}
+</div>
+
+===Anxious Angler===
+{{Icon|Quest-star-icon.png}} [[Anxious Angler]] needs help with something in Treasure Reef
+* Play the Ukulele with Anxious Angler, [[Bumbling Boatswain]], and [[Cackling Cannoneer]]
+{{Icon|Quest-icon.png}} [[Anxious Angler]] needs help with something in Treasure Reef
+* Catch a fish for Anxious Angler by clicking the {{Icon|Grab-Ray.png}} hand symbol on the fishing rod next to them, as soon as they {{Emote|Point}} point at it.
+{{Icon|Quest-icon.png}} [[Anxious Angler]] needs help with something in Golden Wasteland
+* Catch a fish for Anxious Angler by clicking the {{Icon|Grab-Ray.png}} hand symbol on the fishing rod next to them, as soon as they {{Emote|Point}} point at it.
+{{Icon|Quest-icon.png}} Meet up with [[Anxious Angler]] in Crab Fields
+* Catch a fish for Anxious Angler by clicking the {{Icon|Grab-Ray.png}} hand symbol on the fishing rod next to them, as soon as they {{Emote|Point}} point at it.
+<div style="text-align: center;">
+{{#ev:youtube|mVMNFTdIoJs|300|inline|{{Icon|Quest-star-icon.png}} [[Anxious Angler]]'s Jam Session}}
+{{#ev:youtube|1rhXJRRYZbo|300|inline|{{Icon|Quest-icon.png}} [[Anxious Angler]]'s Reef Fishing}}
+{{#ev:youtube|xQMDXLjdQ4s|300|inline|{{Icon|Quest-icon.png}} [[Anxious Angler]]'s Wasteland Fishing}}
+{{#ev:youtube|IW5XPsvzEWU|300|inline|{{Icon|Quest-icon.png}} [[Anxious Angler]]'s Crab Fields Fishing}}
+</div>
+
+===Apologetic Lumberjack===
+{{Icon|Quest-icon.png}} Meet up with [[Apologetic Lumberjack]] in Boneyard
+* Help Apologetic Lumberjack push the tree
+<div style="text-align: center;">
+{{#ev:youtube|k-np1ABwD1U|300|inline|{{Icon|Quest-icon.png}} [[Apologetic Lumberjack]]'s Tree Move}}
+</div>
+
+===Applauding Bellmaker===
+{{Icon|Quest-icon.png}} Meet up with [[Applauding Bellmaker]] in Daylight Prairie
+* Admire Shared Spaces with Applauding Bellmaker
+<div style="text-align: center;">
+{{#ev:youtube|2yJS1Bh-XB0|300|inline|{{Icon|Quest-icon.png}} [[Applauding Bellmaker]]'s Shared Space Admiration}}
+</div>
+
+===Ascetic Monk===
+{{Icon|Quest-icon.png}} Meet up with [[Ascetic Monk]] in Sanctuary Islands
+* Join Ascetic Monk for a stretch
+{{Icon|Quest-icon.png}} Meet up with [[Ascetic Monk]] in Sanctuary Islands
+* Bring Ascetic Monk to the bells of a photo
+{{Icon|Quest-icon.png}} Meet up with [[Ascetic Monk]] in Prairie Village
+* Join Ascetic Monk for a stretch
+{{Icon|Quest-icon.png}} Meet up with [[Ascetic Monk]] in the Prairie Peaks
+* Join Ascetic Monk for a stretch
+{{Icon|Quest-icon.png}} Meet up with [[Ascetic Monk]] in Aviary Village
+* Join Ascetic Monk for a mindful walk
+<div style="text-align: center;">
+{{#ev:youtube|hgZbddyjC_Y|300|inline|{{Icon|Quest-icon.png}} [[Ascetic Monk]]'s Stretch in Sanctuary}}
+{{#ev:youtube|ih_2_fnhbHI|300|inline|{{Icon|Quest-icon.png}} [[Ascetic Monk]]'s Bells Photo}}
+{{#ev:youtube|EcClgoqvVC4|300|inline|{{Icon|Quest-icon.png}} [[Ascetic Monk]]'s Stretch in Village}}
+{{#ev:youtube|Ht3KMJuu2Uo|300|inline|{{Icon|Quest-icon.png}} [[Ascetic Monk]]'s Stretch in Prairie Peaks}}
+{{#ev:youtube|Bbstw92YuGU|300|inline|{{Icon|Quest-icon.png}} [[Ascetic Monk]]'s Mindful Walk}}
+</div>
+
+===Backflipping Champion===
+{{Icon|Quest-icon.png}} Meet up with [[Backflipping Champion]] in Valley of Triumph
+* Play a sport at the Coliseum in Valley of Triumph
+<div style="text-align: center;">
+{{#ev:youtube|JyO-mZ1Hk6Y|300|inline|{{Icon|Quest-icon.png}} [[Backflipping Champion]]'s Speedskate}}
+</div>
+
+===Blushing Prospector===
+{{Icon|Quest-icon.png}} Meet up with [[Blushing Prospector]] in Forest Brook
+* Bring Blushing Prospector to shelter
+{{Icon|Quest-icon.png}} Meet up with [[Blushing Prospector]] in Valley of Triumph
+* Play a sport at the Coliseum in Valley of Triumph<ref>All of the Tournament games have this quest description.</ref>
+<div style="text-align: center;">
+{{#ev:youtube|sEvbQ6U72RE|300|inline|{{Icon|Quest-icon.png}} [[Blushing Prospector]]'s Seek Shelter}}
+{{#ev:youtube|s9GAPInamTc|300|inline|{{Icon|Quest-icon.png}} [[Blushing Prospector]]'s Rain Race}}
+{{#ev:youtube|hyjA_VBq3dw|300|inline|{{Icon|Quest-icon.png}} [[Blushing Prospector]]'s Cloud Collect}}
+</div>
+
+===Bumbling Boatswain===
+{{Icon|Quest-icon.png}} Meet up with [[Bumbling Boatswain]] in Forgotten Ark
+* Photograph the ship's deck
+{{Icon|Quest-icon.png}} Meet up with [[Bumbling Boatswain]] in Treasure Reef
+* Clear the ship's hull of darkness<ref>There are two versions of this quest. The darkness is on the ship's hull above the water in the first one, and under the water in the second one.</ref>
+{{Icon|Quest-icon.png}} Meet up with [[Bumbling Boatswain]] in Treasure Reef
+* Collect seashells with Bumbling Boatswain
+<div style="text-align: center;">
+{{#ev:youtube|0JqxNGKZrOQ|300|inline|{{Icon|Quest-icon.png}} [[Bumbling Boatswain]]'s Ship Deck Photos}}
+{{#ev:youtube|eFVrQqZcLqc|300|inline|{{Icon|Quest-icon.png}} [[Bumbling Boatswain]]'s Ship Hull Darkness #1}}
+{{#ev:youtube|b_y2A7pT7vA|300|inline|{{Icon|Quest-icon.png}} [[Bumbling Boatswain]]'s Ship Hull Darkness #2}}
+{{#ev:youtube|vlzIrUL5yyA|300|inline|{{Icon|Quest-icon.png}} [[Bumbling Boatswain]]'s Seashells}}
+</div>
+
+===Cackling Cannoneer===
+{{Icon|Quest-icon.png}} [[Cackling Cannoneer]] needs help with something in Treasure Reef
+* Gather all the pieces of net.
+{{Icon|Quest-icon.png}} [[Cackling Cannoneer]] needs help with something in Graveyard
+* Launch Cackling Cannoneer.
+{{Icon|Quest-icon.png}} Meet up with [[Cackling Cannoneer]] in Graveyard
+* Get in launch position
+{{Icon|Quest-icon.png}} Meet up with [[Cackling Cannoneer]] in Graveyard
+* Play a prank on Ceasing Commodore
+{{Icon|Quest-icon.png}} Meet up with [[Cackling Cannoneer]] in Forgotten Ark
+* Explore and photograph the caves
+<div style="text-align: center;">
+{{#ev:youtube|WJovZEhUHAc |300|inline|{{Icon|Quest-icon.png}} [[Cackling Cannoneer]]'s Nets}}
+{{#ev:youtube|jl1S9BzHghM |300|inline|{{Icon|Quest-icon.png}} [[Cackling Cannoneer]]'s Launch}}
+{{#ev:youtube|5mhMEPL3UbM |300|inline|{{Icon|Quest-icon.png}} [[Cackling Cannoneer]]'s Player Launch}}
+{{#ev:youtube|WMhh8BeH8nw |300|inline|{{Icon|Quest-icon.png}} [[Cackling Cannoneer]]'s Ceasing Commodore Launch}}
+{{#ev:youtube|uWYf-fjSwP8 |300|inline|{{Icon|Quest-icon.png}} [[Cackling Cannoneer]]'s Cave Photos}}
+</div>
+
+===Ceasing Commodore===
+{{Icon|Quest-icon.png}} Meet up with [[Ceasing Commodore]] in Treasure Reef
+* Move closer to the tower, then take a photo of it
+{{Icon|Quest-icon.png}} Meet up with [[Ceasing Commodore]] in Treasure Reef
+* Take a photo inside the caves
+{{Icon|Quest-icon.png}} Meet up with [[Ceasing Commodore]] in Treasure Reef
+* Move closer to the island, then take a photo of it
+{{Icon|Quest-icon.png}} Meet up with [[Ceasing Commodore]] in Forgotten Ark
+* Bring Ceasing Commodore back to the Enchantment Guide
+<div style="text-align: center;">
+{{#ev:youtube|Mto1EgcOWNA|300|inline|{{Icon|Quest-icon.png}} [[Ceasing Commodore]]'s Tower Photo}}
+{{#ev:youtube|0F-5rFNs7uw|300|inline|{{Icon|Quest-icon.png}} [[Ceasing Commodore]]'s Caves Photo}}
+{{#ev:youtube|9dg3Ey_lzOc|300|inline|{{Icon|Quest-icon.png}} [[Ceasing Commodore]]'s Island Photo}}
+{{#ev:youtube|AUH9QU-dbfs|300|inline|{{Icon|Quest-icon.png}} [[Ceasing Commodore]]'s Way back to the Enchantment Guide}}
+</div>
+
+===Courageous Soldier===
+{{Icon|Quest-icon.png}} Meet up with [[Courageous Soldier]] in Valley of Triumph
+* Play a sport at the Coliseum in Valley of Triumph
+<div style="text-align: center;">
+{{#ev:youtube|qaQJyCmPghw|300|inline|{{Icon|Quest-icon.png}} [[Courageous Soldier]]'s Crab Race}}
+</div>
+
+===Dismayed Hunter===
+{{Icon|Quest-icon.png}} Meet up with [[Dismayed Hunter]] in Boneyard
+* Show Dismayed Hunter another wonder in Forest
+{{Icon|Quest-icon.png}} Meet up with [[Dismayed Hunter]] in Boneyard
+* Comfort Dismayed Hunter
+<div style="text-align: center;">
+{{#ev:youtube|MXXCpXoOK3c|300|inline|{{Icon|Quest-icon.png}} [[Dismayed Hunter]]'s Another Wonder}}
+{{#ev:youtube|VU-_RwznWng|300|inline|{{Icon|Quest-icon.png}} [[Dismayed Hunter]]'s Comfort}}
+</div>
+
+===Festival Spin Dancer===
+{{Icon|Quest-icon.png}} Meet up with [[Festival Spin Dancer]] in Forest Brook
+* Help Festival Spin Dancer dance with Blushing Prospector
+<div style="text-align: center;">
+{{#ev:youtube|3BZpltdum0c|300|inline|{{Icon|Quest-icon.png}} [[Festival Spin Dancer]]'s Dance}}
+</div>
+
+===Flight Guide===
+{{Icon|Quest-icon.png}} Meet up with [[Flight Guide]] in Prairie Village
+*Help bring Flight Guide up to the Temple entrance
+{{Icon|Quest-icon.png}} Meet up with [[Flight Guide]] in Prairie Village
+*Read a book together with Flight Guide
+{{Icon|Quest-icon.png}} Meet up with [[Flight Guide]] in Prairie Temple
+*Join Flight Guide and meditate to reminisce the Prairie Elder
+<div style="text-align: center;">
+{{#ev:youtube|DQ9o5MrpkOc|300|inline|{{Icon|Quest-icon.png}} [[Flight Guide]]'s Temple Journey}}
+{{#ev:youtube|40ov6MR-bI4|300|inline|{{Icon|Quest-icon.png}} [[Flight Guide]]'s Book}}
+{{#ev:youtube|DmnxNqqzhE4|300|inline|{{Icon|Quest-icon.png}} [[Flight Guide]]'s Meditiation}}
+</div>
+
+===Forgetful Storyteller===
+{{Icon|Quest-icon.png}} [[Forgetful Storyteller]] needs help with something in Villages of Dreams
+* Forgetful Storyteller lost their precious notebook somewhere in this village. Find the book by following the icy path that the Forgetful Storyteller is facing. Pick it up and return it.
+{{Icon|Quest-icon.png}} [[Forgetful Storyteller]] needs help with something in Villages of Dreams
+* Deliver a potted plant from Forgetful Storyteller, who is standing next to signpost in front steps to platform to Hermit Valley, to Modest Dancer, who is standing next to signpost in front of the entrance to Village Theater.
+{{Icon|Quest-icon.png}} [[Forgetful Storyteller]] needs help recalling a story in Village of Dreams.
+* Snap a photo of you and the skater statue.
+{{Icon|Quest-icon.png}} [[Forgetful Storyteller]] needs help recalling a story in Village of Dreams.
+* Snap a photo of you and a fallen gondola.
+{{Icon|Quest-icon.png}} [[Forgetful Storyteller]] needs help recalling a story in Village of Dreams.
+* Snap a photo of you on a passageway in the mountains.
+<div style="text-align: center;">
+{{#ev:youtube|A5xJtrT2GKY|300|inline|{{Icon|Quest-icon.png}} [[Forgetful Storyteller]]'s Missing Notebook}}
+{{#ev:youtube|L8D86EHaBH0|300|inline|{{Icon|Quest-icon.png}} [[Forgetful Storyteller]]'s Delivery}}
+{{#ev:youtube|B1j22PJR9UA|300|inline|{{Icon|Quest-icon.png}} [[Forgetful Storyteller]]'s Skater Statue Photo}}
+{{#ev:youtube|SBInROxwJhI|300|inline|{{Icon|Quest-icon.png}} [[Forgetful Storyteller]]'s Fallen Gondola Photo}}
+{{#ev:youtube|V9JTJe_pYYk|300|inline|{{Icon|Quest-icon.png}} [[Forgetful Storyteller]]'s Mountain Passageway Photo}}
+</div>
+
+===Frantic Stagehand===
+{{Icon|Quest-icon.png}} [[Frantic Stagehand]] needs help with something in Village Theater
+* Help Frantic Stagehand flip over a bench.
+{{Icon|Quest-icon.png}} [[Frantic Stagehand]] needs help with something in Village Theater
+* Help Frantic Stagehand find [[Mellow Musician]].
+{{Icon|Quest-icon.png}} [[Frantic Stagehand]] needs help with something in Village Theater / Meet up with [[Frantic Stagehand]] in Village Theater
+* Help Frantic Stagehand find [[Modest Dancer]].
+{{Icon|Quest-icon.png}} Meet up with [[Frantic Stagehand]] in Village Theater
+* Calm Frantic Stagehand.
+{{Icon|Quest-icon.png}} Meet up with [[Frantic Stagehand]] in Village Theater
+* Help Frantic Stagehand calm [[Modest Dancer]].
+<div style="text-align: center;">
+{{#ev:youtube|vnPwBwIPWvw|300|inline|{{Icon|Quest-icon.png}} [[Frantic Stagehand]]'s Bench}}
+{{#ev:youtube|JvgK2OF1wCI|300|inline|{{Icon|Quest-icon.png}} [[Frantic Stagehand]]'s Teamwork}}
+{{#ev:youtube|eIPqZBa8cnA|300|inline|{{Icon|Quest-icon.png}} [[Frantic Stagehand]]'s Missing Dancer}}
+{{#ev:youtube|pqE4aqCZd7Q|300|inline|{{Icon|Quest-icon.png}} [[Frantic Stagehand]]'s Calm}}
+{{#ev:youtube|Xd5nLHSQDjs|300|inline|{{Icon|Quest-icon.png}} [[Frantic Stagehand]]'s Calm Dancer}}
+</div>
+
+===Grateful Shell Collector===
+{{Icon|Quest-icon.png}} Meet up with [[Grateful Shell Collector]] in Aviary Village
+* Join Grateful Shell Collector for some tea
+<div style="text-align: center;">
+{{#ev:youtube|LVRzvly_TUY|300|inline|{{Icon|Quest-icon.png}} [[Grateful Shell Collector]]'s Tea Time}}
+</div>
+
+===Hide'n'Seek Pioneer===
+{{Icon|Quest-icon.png}} Meet up with [[Hide'n'Seek Pioneer]] in Boneyard<ref>There are multiple hiding spots for this quest.</ref>
+* Seek out [[Apologetic Lumberjack]].
+{{Icon|Quest-icon.png}} Meet up with [[Hide'n'Seek Pioneer]] in Elevated Clearing<ref>There are multiple hiding spots for this quest.</ref>
+* Seek out [[Tearful Light Miner]].
+{{Icon|Quest-icon.png}} Meet up with [[Hide'n'Seek Pioneer]] in Hidden Forest<ref>There are multiple hiding spots for this quest.</ref>
+* Seek out [[Dismayed Hunter]].
+<div style="text-align: center;">
+{{#ev:youtube|RBRlMFv967o|300|inline|{{Icon|Quest-icon.png}} [[Hide'n'Seek Pioneer]]'s Apologetic Lumberjack Hide and Seek Game #1}}
+{{#ev:youtube|2w0AokvL6BM|300|inline|{{Icon|Quest-icon.png}} [[Hide'n'Seek Pioneer]]'s Apologetic Lumberjack Hide and Seek Game #2}}
+{{#ev:youtube|JZ5XZOwAbv4|300|inline|{{Icon|Quest-icon.png}} [[Hide'n'Seek Pioneer]]'s Tearful Light Miner Hide and Seek Game}}
+{{#ev:youtube|hgpjawOPZWI|300|inline|{{Icon|Quest-icon.png}} [[Hide'n'Seek Pioneer]]'s Dismayed Hunter Hide and Seek Game #1}}
+{{#ev:youtube|oWH18DOvPLA|300|inline|{{Icon|Quest-icon.png}} [[Hide'n'Seek Pioneer]]'s Dismayed Hunter Hide and Seek Game #2}}
+</div>
+
+===Jolly Geologist===
+{{Icon|Quest-icon.png}} Meet up with [[Jolly Geologist]] in Prairie Peaks
+* Gather some rocks with Jolly Geologist
+{{Icon|Quest-icon.png}} Meet up with [[Jolly Geologist]] in Prairie Peaks
+* Help Jolly Geologist scrub the rocks clean
+{{Icon|Quest-icon.png}} Meet up with [[Jolly Geologist]] in Prairie Peaks
+* Take a photo of Jolly Geologist with their new rock collection
+{{Icon|Quest-icon.png}} Meet up with [[Jolly Geologist]] in Sanctuary Islands
+* Bring Jolly Geologist to the rocks for a photo
+<div style="text-align: center;">
+{{#ev:youtube|pen3vi6eKBw|300|inline|{{Icon|Quest-icon.png}} [[Jolly Geologist]]'s Rock Gathering}}
+{{#ev:youtube|RrvepWHPT0g|300|inline|{{Icon|Quest-icon.png}} [[Jolly Geologist]]'s Rock Scrubbing}}
+{{#ev:youtube|XB1IkM5Vvzs|300|inline|{{Icon|Quest-icon.png}} [[Jolly Geologist]]'s Rock Collection Photo}}
+{{#ev:youtube|jNW8U3J-IfQ|300|inline|{{Icon|Quest-icon.png}} [[Jolly Geologist]]'s Rocks Photo}}
+</div>
+
+===Laughing Light Catcher===
+{{Icon|Quest-icon.png}} Meet up with [[Laughing Light Catcher]] in Valley of Triumph
+* Play a sport at the Coliseum in Valley of Triumph
+<div style="text-align: center;">
+{{#ev:youtube|L3olgNl5uPw|300|inline|{{Icon|Quest-icon.png}} [[Laughing Light Catcher]]'s Wingsuiting Race}}
+</div>
+
+===Light Whisperer===
+{{Icon|Quest-icon.png}} Meet up with [[Light Whisperer]] in Bird Nest
+* Go on a floating boat ride around the Bird Nest with [[Lively Navigator]]
+<div style="text-align: center;">
+{{#ev:youtube|bcbaMKrH_yc|300|inline|{{Icon|Quest-icon.png}} [[Light Whisperer]]'s Floating Boat Ride}}
+</div>
+
+===Lively Navigator===
+{{Icon|Quest-icon.png}} Meet up with [[Lively Navigator]] in Bird Nest
+* Find and retrieve the flag
+{{Icon|Quest-icon.png}} Meet up with [[Lively Navigator]] in Bird Nest
+* Race in the Sky!
+<div style="text-align: center;">
+{{#ev:youtube|8t6F-8YJAzY|300|inline|{{Icon|Quest-icon.png}} [[Lively Navigator]]'s Flag Retrieval}}
+{{#ev:youtube|_cPXtXtkwXg|300|inline|{{Icon|Quest-icon.png}} [[Lively Navigator]]'s Sky Race}}
+</div>
+
+===Mellow Musician===
+{{Icon|Quest-icon.png}} [[Mellow Musician]] needs help with something in Village Theater
+* Help Mellow Musician flip over a bench quietly without waking up [[Frantic Stagehand]].
+{{Icon|Quest-icon.png}} [[Mellow Musician]] needs help with something in Village of Dreams
+* Help Mellow Musician get their guitar from the roof behind them.
+{{Icon|Quest-icon.png}} [[Mellow Musician]] needs help with something in Village of Dreams
+* Help Mellow Musician fish their guitar out.
+{{Icon|Quest-icon.png}} [[Mellow Musician]] needs help with something in Village of Dreams
+* Join a jam session with the Mellow Musician.
+<div style="text-align: center;">
+{{#ev:youtube|RvWiQaOQ_cs|300|inline|{{Icon|Quest-icon.png}} [[Mellow Musician]]'s Quiet Bench}}
+{{#ev:youtube|O4-NqYwLr6Q|300|inline|{{Icon|Quest-icon.png}} [[Mellow Musician]]'s Missing Guitar}}
+{{#ev:youtube|CFSEa7et-pE|300|inline|{{Icon|Quest-icon.png}} [[Mellow Musician]]'s Guitar Fishing}}
+{{#ev:youtube|84rBxHy_-zA|300|inline|{{Icon|Quest-icon.png}} [[Mellow Musician]]'s Jam Session}}
+</div>
+
+===Modest Dancer===
+{{Icon|Quest-icon.png}} [[Modest Dancer]] needs help with something in Villages of Dreams<ref>The video for this quest is missing.</ref>
+* Deliver a book from Modest Dancer, who is standing next to signpost in front of the entrance to Village Theater, to Forgetful Storyteller, who is standing next to signpost in front steps to platform to Hermit Valley.
+{{Icon|Quest-icon.png}} [[Modest Dancer]] needs help with something in Village of Dreams / Meet up with [[Modest Dancer]] in Village of Dreams
+* Snap a photo of Modest Dancer so they can improve their routine.<ref>There are two versions of this quest. The first routine has stationary poses while the second routine has the dancer moving around more.</ref>
+{{Icon|Quest-icon.png}} Meet up with [[Modest Dancer]] in Village of Dreams
+* Copy Modest Dancer's moves.
+<div style="text-align: center;">
+{{#ev:youtube|KQG4LXuOi_A|300|inline|{{Icon|Quest-icon.png}} [[Modest Dancer]]'s Routine Photo #1}}
+{{#ev:youtube|LN29F1H20YE|300|inline|{{Icon|Quest-icon.png}} [[Modest Dancer]]'s Routine Photo #2}}
+{{#ev:youtube|GdjJ0-i2ZAk|300|inline|{{Icon|Quest-icon.png}} [[Modest Dancer]]'s Copied Moves}}
+</div>
+
+===Nightbird Whisperer===
+{{Icon|Quest-icon.png}} Meet up with [[Nightbird Whisperer]] in Sanctuary Islands
+* Bring Nightbird Whisperer to the jellyfish for a photo
+{{Icon|Quest-icon.png}} Meet up with [[Nightbird Whisperer]] in Prairie Village
+* Deep call the butterflies with Nightbird Whisperer
+{{Icon|Quest-icon.png}} Meet up with [[Nightbird Whisperer]] in Prairie Village
+* Deep call the butterflies in the cave with Jolly Geologist
+{{Icon|Quest-icon.png}} Meet up with [[Nightbird Whisperer]] in Prairie Village
+* Bring Nightbird Whisperer to the manta 
+<div style="text-align: center;">
+{{#ev:youtube|1tW1D41kl2U|300|inline|{{Icon|Quest-icon.png}} [[Nightbird Whisperer]]'s Jelly Photo}}
+{{#ev:youtube|YIkLSnGfnvI|300|inline|{{Icon|Quest-icon.png}} [[Nightbird Whisperer]]'s Butterfly Deep Call}}
+{{#ev:youtube|eKxwUg3SdW4|300|inline|{{Icon|Quest-icon.png}} [[Nightbird Whisperer]]'s Friend's Deep Call}}
+{{#ev:youtube|u_Pln3p-1_o|300|inline|{{Icon|Quest-icon.png}} [[Nightbird Whisperer]]'s Manta Ride}}
+</div>
+
+===Pleading Child===
+{{Icon|Quest-icon.png}} Meet up with [[Pleading Child]] in Repository of Refuge
+* Help Pleading Child retrieve their lost memory lanterns
+{{Icon|Quest-icon.png}} Meet up with [[Pleading Child]] in Repository of Refuge
+* Help Pleading Child find their lost toy
+<div style="text-align: center;">
+{{#ev:youtube|lUFwz-GI6co|300|inline|{{Icon|Quest-icon.png}} [[Pleading Child]]'s Memory Lanterns}}
+{{#ev:youtube|hqFP522Tz3I|300|inline|{{Icon|Quest-icon.png}} [[Pleading Child]]'s Lost Toy}}
+</div>
+
+===Reassuring Ranger===
+{{Icon|Quest-icon.png}} Meet up with [[Reassuring Ranger]] in Prairie Peaks
+* Find a camping spot with Reassuring Ranger
+{{Icon|Quest-icon.png}} Meet up with [[Reassuring Ranger]] in Prairie Peaks
+* Play a song by the campfire
+<div style="text-align: center;">
+{{#ev:youtube|5sPtdhBhpds|300|inline|{{Icon|Quest-icon.png}} [[Reassuring Ranger]]'s Camp}}
+{{#ev:youtube|pPPTJHyYlL0|300|inline|{{Icon|Quest-icon.png}} [[Reassuring Ranger]]'s Campfire Song}}
+</div>
+
+===Shivering Trailblazer===
+{{Icon|Quest-icon.png}} Meet up with [[Shivering Trailblazer]] in Forest Brook
+* Bring Shivering Trailblazer to shelter
+{{Icon|Quest-icon.png}} Meet up with [[Shivering Trailblazer]] in Forest Brook
+* Share a moment with the spirits
+<div style="text-align: center;">
+{{#ev:youtube|3XuLTm3yb_4|300|inline|{{Icon|Quest-icon.png}} [[Shivering Trailblazer]]'s Seek Shelter}}
+{{#ev:youtube|LHNavbBlAs0|300|inline|{{Icon|Quest-icon.png}} [[Shivering Trailblazer]]'s A Moment}}
+</div>
+
+===Sparkler Parent===
+{{Icon|Quest-icon.png}} Meet up with [[Sparkler Parent]] in Aviary Village
+* Join Sparkler Parent to admire the koi
+<div style="text-align: center;">
+{{#ev:youtube|XZwy5gVsCPo|300|inline|{{Icon|Quest-icon.png}} [[Sparkler Parent]]'s Admire Koi}}
+</div>
+
+===Talented Builder===
+{{Icon|Quest-icon.png}} Meet up with [[Talented Builder]] in Bird Nest
+* Help Talented Builder deliver the Music Sheet to [[Tinkering Chimesmith]]
+<div style="text-align: center;">
+{{#ev:youtube|sVqFTVGjOeM|300|inline|{{Icon|Quest-icon.png}} [[Talented Builder]]'s Music Delivery}}
+</div>
+
+===Thoughtful Director===
+{{Icon|Quest-icon.png}} Meet up with [[Thoughtful Director]] in Vault of Knowledge
+* Meditate with Thoughtful Director
+{{Icon|Quest-icon.png}} Meet up with [[Thoughtful Director]] in Vault of Knowledge
+* Sneak with Thoughtful Director and surprise their friends
+{{Icon|Quest-icon.png}} Meet up with [[Thoughtful Director]] in Repository of Refuge
+* Join the session and play a song for Bereft Veteran
+<div style="text-align: center;">
+{{#ev:youtube|VnVFsSuXBV4|300|inline|{{Icon|Quest-icon.png}} [[Thoughtful Director]]'s Vault Meditation}}
+{{#ev:youtube|foOQFKdK-Ow|300|inline|{{Icon|Quest-icon.png}} [[Thoughtful Director]]'s Sneaky Surprise}}
+{{#ev:youtube|klhCYV3wQv4|300|inline|{{Icon|Quest-icon.png}} [[Thoughtful Director]]'s Song for Bereft Veteran}}
+</div>
+
+===Tinkering Chimesmith===
+{{Icon|Quest-icon.png}} Meet up with [[Tinkering Chimesmith]] in Bird Nest
+* Help pick up the Kalimba and gift to [[Talented Builder]]
+{{Icon|Quest-icon.png}} Meet up with [[Tinkering Chimesmith]] in Bird Nest
+* Play a song together
+<div style="text-align: center;">
+{{#ev:youtube|ss1gll45jPM|300|inline|{{Icon|Quest-icon.png}} [[Tinkering Chimesmith]]'s Dropped Kalimba}}
+{{#ev:youtube|u9GgBip6uqM|300|inline|{{Icon|Quest-icon.png}} [[Tinkering Chimesmith]]'s Kalimba Duet}}
+</div>
+
+===Troupe Juggler===
+{{Icon|Quest-icon.png}} Meet up with [[Troupe Juggler]] in Golden Wasteland
+* Help Troupe Juggler and Troupe Greeter save their friends
+<div style="text-align: center;">
+{{#ev:youtube|daAhQoj_VHU|300|inline|{{Icon|Quest-icon.png}} [[Troupe Juggler]]'s Friend Rescue}}
+</div>
+
+===Tumbling Troublemaker===
+{{Icon|Quest-icon.png}} Meet up with [[Tumbling Troublemaker]] in Prairie Cave
+* Join Tumbling Troublemaker making trouble
+<div style="text-align: center;">
+{{#ev:youtube|https://youtu.be/9PEhz5AmHC4|300|inline|{{Icon|Quest-icon.png}} [[Tumbling Troublemaker]]'s Merchant Costume Trouble}}
+</div>
+
+===Whale Whisperer===
+{{Icon|Quest-icon.png}} Meet up with [[Whale Whisperer]] in Boneyard
+* Show Dismayed Hunter the whale's resting place
+<div style="text-align: center;">
+{{#ev:youtube|A7MTBtgOe5A|300|inline|{{Icon|Quest-icon.png}} [[Whale Whisperer]]'s Whale Resting Place}}
+</div>
+
+===Days of Style===
+{{Icon|Quest-star-icon.png}} Change your hairstyle
+* Change your hairstyle at any Closet Shrine.
+{{Icon|Quest-star-icon.png}} Change your necklace
+* Change your necklace at any Closet Shrine.
+{{Icon|Quest-star-icon.png}} Change your prop
+* Change your prop at any Closet Shrine.
+{{Icon|Quest-star-icon.png}} Change your mask
+* Change your mask at any Closet Shrine.
+{{Icon|Quest-star-icon.png}} Change your pants
+* Change your pants at any Closet Shrine.
+{{Icon|Quest-player-icon.png}} View a Shared Memory at a style runway shrine
+* Teleport to the runway via the Style Guide and view a Shared Memory at the shrine
+{{Icon|Quest-icon.png}} Record a Shared Memory at a style runway shrine
+* Teleport to the runway via the Style Guide and record a Shared Memory at the shrine
+<div style="text-align: center;">
+{{#ev:youtube|JRqduT3PKoU|300|inline|{{Icon|Quest-star-icon.png}} Change your hairstyle}}
+{{#ev:youtube|MxjrtvSYbdY|300|inline|{{Icon|Quest-star-icon.png}} Change your necklace}}
+{{#ev:youtube|ritSJYOtNtg|300|inline|{{Icon|Quest-star-icon.png}} Change your prop}}
+{{#ev:youtube|jb1X2aLLMt4|300|inline|{{Icon|Quest-star-icon.png}} Change your mask}}
+{{#ev:youtube|CwhW-7eDE0E|300|inline|{{Icon|Quest-star-icon.png}} Change your pants}}
+{{#ev:youtube|HTkSXRWBIPE|300|inline|{{Icon|Quest-player-icon.png}} View a Shared Memory at a style runway shrine}}
+{{#ev:youtube|QzoyF79bvpc|300|inline|{{Icon|Quest-icon.png}} Record a Shared Memory at a style runway shrine}}
+</div>
+
+===Days of Sunlight===
+{{Icon|Camera-Ray.png}} Help the [[Praying Acolyte]] archive summer in the Archives<br><br>
+<div style="text-align: center;">
+{{#ev:youtube|1b76pXrXGWY|300|inline|{{Icon|Camera-Ray.png}} Candles Photos}}
+{{#ev:youtube|fY3o-N76IN8|300|inline|{{Icon|Camera-Ray.png}} Floaties Photos}}
+{{#ev:youtube|UFdyjUqUTOg|300|inline|{{Icon|Camera-Ray.png}} Goal Posts Photos}}
+{{#ev:youtube|sEeeIImdRqk|300|inline|{{Icon|Camera-Ray.png}} Boat Photos}}
+{{#ev:youtube|HsF_TqueEvk|300|inline|{{Icon|Camera-Ray.png}} Race Start Photos}}
+{{#ev:youtube|Kd_UV2-eAaM|300|inline|{{Icon|Camera-Ray.png}} Fishing Pole Photos}}
+{{#ev:youtube|d3XoSEV9cbk|300|inline|{{Icon|Camera-Ray.png}} Guitar Photos}}
+{{#ev:youtube|HnPrferTtys|300|inline|{{Icon|Camera-Ray.png}} Shared Space Shrine Photos}}
+{{#ev:youtube|GkUnvqey_uI|300|inline|{{Icon|Camera-Ray.png}} Sun Photos}}
+{{#ev:youtube|RnEuX-FRABw|300|inline|{{Icon|Camera-Ray.png}} Chat Bench Photos}}
+{{#ev:youtube|OH9ouB7Hal8|300|inline|{{Icon|Camera-Ray.png}} Bonfire Photos}}
+{{#ev:youtube|6oTdUjwMAOI|300|inline|{{Icon|Camera-Ray.png}} Dock Photos}}
+{{#ev:youtube|Ck3qkF_c9z4|300|inline|{{Icon|Camera-Ray.png}} Beach Chair Photos}}
+</div>
+
+== History ==
+{| class="article-table mw-collapsible mw-collapsed"
+! Date !! Daily Quest Spirits || Their Quests
+|-
+| rowspan=4 | Aug 22, 2024 
+| [[Marching Adventurer]] || {{Spirit|Marching Adventurer}} Relive Marching Adventurer's memory from Hidden Forest 
+|-
+| [[Chuckling Scout]] || {{Icon|Icon_prop_assembly_hoop.png}} Complete the hoop scavenger hunt
+|-
+| [[Crab Walker]] || {{Icon|Quest-star-icon.png}} Knock over 5 Dark Creature [[Dark Crabs|Crabs]]
+|-
+| [[Laidback Pioneer]] || {{Icon|Quest-player-icon.png}} Admire the sapling in [[Hidden Forest]] for a short while
+|-
+| rowspan=4 | Aug 23, 2024 
+| [[Modest Dancer]] || '''[NEW]''' {{Icon|Quest-icon.png}} [[Modest Dancer]] needs help with something in Villages of Dreams<br>
+Deliver a book from Modest Dancer, who is standing next to signpost in front of the entrance to Village Theater, to Forgetful Storyteller, who is standing next to signpost in front steps to platform to Hermit Valley.
+|-
+| [[Lookout Scout]] || {{Icon|Quest-star-icon.png}} Collect 30 [[Pieces_of_Light|pieces of light]]
+|-
+| [[Peeking Postman]] || {{Icon|Quest-player-icon.png}} Visit the [[Additional_Light_Sources#Hot_Spring|Hotspring]] in the Village of Dreams
+|-
+| [[Proud Victor]] || {{Icon|Quest-icon.png}} Find the candles at the end of the [[Days of Color|rainbow]] in the Valley of Triumph
+|-
+| rowspan=4 | Aug 24, 2024 
+| [[Courageous Soldier]] || {{Spirit|Courageous Soldier}} Relive Courageous Soldier's memory from Golden Wasteland
+|- 
+| [[Crab Whisperer]] || {{Icon|Quest-player-icon.png}} Admire the [[Days of Bloom|sapling]] in Golden Wasteland for a short while
+|-
+| [[Fainting Warrior]] || {{Icon|Quest-icon.png}} Find the candles at the end of the rainbow in the [[Golden Wasteland]] (Forgotten Ark)
+|-
+| [[Admiring Actor]] || {{Icon|Quest-player-icon.png}} Send a [[Currency#Gifts_from_Friends|gift]] to a friend
+|-
+| rowspan=4 | Aug 25, 2024 
+| [[Wise Grandparent]] || {{Icon|Quest-star-icon.png}} Light 20 [[Pieces_of_Light#Light_Sources|candles]]
+|-
+| rowspan=2 | [[Shushing Light Scholar]] || {{Icon|Icon flame.png}} Relive a Spirit's memories
+|-
+| {{Spirit|Shushing Light Scholar}} Relive Shushing Light Scholar's memory from Vault of Knowledge
+|-
+| [[Pointing Candlemaker]] || {{Icon|Quest-star-icon.png}} Forge a [[Currency#Candles|candle]]
+|- 
+| rowspan=4 | Aug 26, 2024
+| [[Butterfly Charmer]] || {{Spirit|Butterfly Charmer}} Relive Butterfly Charmer's memory from Daylight Prairie
+|-
+| [[Lookout Scout]] || {{Icon|Quest-star-icon.png}} Collect 30 [[Pieces_of_Light|pieces of light]]
+|-
+| [[Doublefive Light Catcher]] || {{Icon|Quest-player-icon.png}} Admire the sapling in [[Daylight Prairie]] for a short while
+|-
+| [[Laughing Light Catcher]] || {{Icon|Quest-player-icon.png}} Use an [[Expression]] near a friend
+|- 
+| rowspan=4 | Aug 27, 2024
+| [[Provoking Performer]] || {{Spirit|Provoking Performer}} Relive Provoking Performer's memory from Hidden Forest
+|-
+| [[Exhausted Dock Worker]] || {{Icon|Quest-star-icon.png}} Melt 10 [[Flora,_Minerals_and_Elements_of_Sky#Darkness|Darkness]]
+|-
+| [[Daydream Forester]] || {{Icon|Quest-icon.png}} Find the candles at the end of the [[Days of Color|rainbow]] in the Hidden Forest
+|-
+| [[Apologetic Lumberjack]] || {{Icon|Quest-icon.png}} Visit the [[Additional_Light_Sources#Grandma's_Dinner_Event|Ancestor's Table of Belonging]] in Forest's Elevated Clearing
+|- 
+| rowspan=4 | Aug 28, 2024
+| [[Forgetful Storyteller]] || '''[NEW]''' {{Icon|Quest-icon.png}} [[Forgetful Storyteller]] needs help with something in Villages of Dreams<br>
+Forgetful Storyteller lost their precious notebook somewhere in this village. Find the book by following the icy path that the Forgetful Storyteller is facing. Pick it up and return it.
+|-
+| [[Snoozing Carpenter]] || {{Icon|Quest-icon.png}} Collect {{Icon|Blue-light-icon.png}} [[Blue Light]]
+|-
+| [[Twirling Champion]] || {{Icon|Quest-icon.png}} Catch the light in Valley of Triumph
+|-
+| [[Lookout Scout]] || {{Icon|Quest-star-icon.png}} Collect 30 [[Pieces_of_Light|pieces of light]]
+|- 
+| rowspan=4 | Aug 29, 2024
+| [[Respectful Pianist]] || {{Spirit|Respectful Pianist}} Relive Respectful Pianist's memory from Golden Wasteland
+|-
+| [[Lookout Scout]] || {{Icon|Quest-icon.png}} Collect 30 [[Pieces of Light|pieces of light]]
+|-
+| [[Stealthy Survivor]] || {{Icon|Icon_flame.png}} Relive a Spirit's memories in Golden Wasteland
+|-
+| [[Exhausted Dock Worker]] || {{Icon|Quest-star-icon.png}} Melt 10 [[Flora, Minerals and Elements of Sky#Darkness|Darkness]]
+|- 
+| rowspan=4 | Aug 30, 2024
+| [[Meditating Monastic]] || {{Spirit|Meditating Monastic}} Relive Meditating Monastic's memory from Vault of Knowledge
+|-
+| [[Shushing Light Scholar]] || {{Icon|Quest-icon.png}} Catch the light in the Vault of Knowledge
+|-
+| [[Pointing Candlemaker]] || {{Icon|Quest-star-icon.png}} Forge a [[Currency#Candles|candle]]
+|-
+| [[Indifferent Alchemist]] || {{Icon|Quest-icon.png}} Collect {{Icon|Purple-light-icon.png}} [[Purple Light]]
+|- 
+| rowspan=4 | Aug 31, 2024
+| [[Confetti Cousin]] || {{Spirit|Confetti Cousin}} Relive Confetti Cousin's memory from Daylight Prairie
+|-
+| rowspan=2 | [[Doublefive Light Catcher]] || {{Icon|Quest-player-icon.png}} Admire the sapling in [[Daylight Prairie]] for a short while
+|-
+| {{Icon|Quest-icon.png}} Catch the light in Daylight Prairie
+|-
+| [[Light Whisperer]] || {{Icon|Quest-star-icon.png}} Ride a [[Mantas|manta]] in Daylight Prairie
+|- 
+| rowspan=4 | Sep 01, 2024
+| [[Baffled Botanist]] || {{Spirit|Baffled Botanist}} Relive Baffled Botanist's memory from Hidden Forest
+|-
+| [[Playfighting Herbalist]] || {{Icon|Quest-icon.png}} Collect {{Icon|Orange-light-icon.png}} [[Orange Light]]
+|-
+| [[Crab Walker]] || {{Icon|Quest-star-icon.png}} Knock over 5 Dark Creature [[Dark Crabs|Crabs]]
+|-
+| [[Laidback Pioneer]] || {{Icon|Quest-player-icon.png}} Admire the sapling in [[Hidden Forest]] for a short while
+|- 
+| rowspan=4 | Sep 02, 2024
+| [[Snoozing Carpenter]] || {{Icon|Quest-icon.png}} Collect {{Icon|Blue-light-icon.png}} [[Blue Light]]
+|-
+| [[Forgetful Storyteller]] || '''[NEW]''' {{Icon|Quest-icon.png}} [[Forgetful Storyteller]] needs help with something in Villages of Dreams<br>
+Deliver a potted plant from Forgetful Storyteller, who is standing next to signpost in front steps to platform to Hermit Valley, to Modest Dancer, who is standing next to signpost in front of the entrance to Village Theater.
+|-
+| [[Dancing Performer]] || {{Icon|Quest-star-icon.png}} Rehearse for a performance with the skater in the Coliseum
+|-
+| [[Wise Grandparent]] || {{Icon|Quest-star-icon.png}} Light 20 [[Pieces_of_Light#Light_Sources|candles]]
+|-
+| rowspan=4 | Sep 03, 2024
+| [[Wise Grandparent]] || {{Icon|Quest-star-icon.png}} Light 20 [[Pieces_of_Light#Light_Sources|candles]]
+|-
+| rowspan=2 | [[Stealthy Survivor]] || {{Icon|Icon flame.png}} Relive a Spirit's memories in Golden Wasteland
+|-
+| {{Icon|Quest-star-icon.png}} Face the [[Dark Dragons|Dark Dragon]]
+|-
+| [[Lookout Scout]] || {{Icon|Quest-star-icon.png}} Collect 30 [[Pieces_of_Light|pieces of light]]
+|-
+| rowspan=4 | Sep 04, 2024
+| [[Polite Scholar]] || {{Spirit|Polite Scholar}} Relive Polite Scholar's memory from Vault of Knowledge
+|-
+| [[Lookout Scout]] || {{Icon|Quest-star-icon.png}} Collect 30 [[Pieces_of_Light|pieces of light]]
+|-
+| [[Meditating Monastic]] || {{Icon|Quest-icon.png}} Find the candles at the end of the rainbow in the [[Vault of Knowledge]]
+|-
+| [[Pointing Candlemaker]] || {{Icon|Quest-star-icon.png}} Forge a [[Currency#Candles|candle]]
+|-
+| rowspan=4 | Sep 05, 2024
+| [[Bird Whisperer]] || {{Spirit|Bird Whisperer}} Relive Bird Whisperer's memory from Daylight Prairie
+|-
+| [[Scarecrow Farmer]] || {{Icon|Quest-icon.png}} Collect {{Icon|Green-light-icon.png}} [[Green Light]]
+|-
+| [[Laughing Light Catcher]] || {{Icon|Quest-player-icon.png}} Use an [[Expression]] near a friend
+|-
+| [[Jelly Whisperer]] || {{Icon|Quest-icon.png}} Recharge your light from a [[jellyfish]]
+|}
+
+==Gallery==
+<gallery>
+Daily-Quest-Spirits-2024-08-22.png|Daily Quest Spirits on Aug 22, 2024
+Daily-Quest-Spirits-2024-08-23.png|Daily Quest Spirits on Aug 23, 2024
+Daily-Quest-Spirits-2024-08-24.png|Daily Quest Spirits on Aug 24, 2024
+Daily-Quest-Spirits-2024-08-25.png|Daily Quest Spirits on Aug 25, 2024
+Daily-Quest-Spirits-2024-08-26.png|Daily Quest Spirits on Aug 26, 2024
+Daily-Quest-Spirits-2024-08-27.png|Daily Quest Spirits on Aug 27, 2024
+Daily-Quest-Spirits-2024-08-28.png|Daily Quest Spirits on Aug 28, 2024
+Daily-Quest-Spirits-2024-08-29.png|Daily Quest Spirits on Aug 29, 2024
+Daily-Quest-Spirits-2024-08-30.png|Daily Quest Spirits on Aug 30, 2024
+Daily-Quest-Spirits-2024-08-31.png|Daily Quest Spirits on Aug 31, 2024
+Daily-Quest-Spirits-2024-09-01.png|Daily Quest Spirits on Sep 01, 2024
+Daily-Quest-Spirits-2024-09-02.png|Daily Quest Spirits on Sep 02, 2024
+Daily-Quest-Spirits-2024-09-03.png|Daily Quest Spirits on Sep 03, 2024
+Daily-Quest-Spirits-2024-09-04.png|Daily Quest Spirits on Sep 04, 2024
+Daily-Quest-Spirits-2024-09-05.png|Daily Quest Spirits on Sep 05, 2024
+</gallery>
+
+==References==
+<references />
+[[Category:Daily Content]]
+
+[[pt-br:Missões/Espíritos das Missões Diárias]]
+[[ja:デイリークエスト/デイリークエストの精霊たち]]
+[[fr:Quêtes/Esprits de Quête Quotidienne]]

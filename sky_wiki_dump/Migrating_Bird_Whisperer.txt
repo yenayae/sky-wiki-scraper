@@ -1,0 +1,145 @@
+{{WIP|pagetype = spirit}}
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = Migrating-Bird-Whisperer-cutout.png
+|cosmetics = {{Spirit Item|Migrating Bird Whisperer|Outfit|infobox}}<!--
+-->{{Spirit Item|Migrating Bird Whisperer|Cape|infobox}} 
+|season    = Season of Migration
+|realm     = Forest
+|location  = Wind Paths
+|ts        = None
+}}
+<section begin="Summary" />The Migrating Bird Whisperer is a [[Seasonal Spirit]] from the [[Season of Migration]] who offers the {{Emote|Migrating Bird Whisperer|inline_text}} Expression. The Migrating Bird Whisperer is found in the [[Wind Paths]], at the top of a floating island, left of the main island. The collectibles [[#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Migrating Bird Whisperer|Outfit|inline_text}} and a {{Spirit Item|Migrating Bird Whisperer|Cape|inline_text}}.<section end="Summary" /><br>
+<br><!--
+[[File:Migrating-Bird-promo-image.png|none|thumb|320px|TGC's Promo image]]-->
+
+== Memory ==
+<div>{{#ev:youtube|7kk8VV1-g8A|200px|inline|Video Guide}}
+
+The Migrating Bird Whisperer can be found in the [[Wind Paths]], at the top of a floating island, left of the main island. This Spirit has a [[Standard Memory|standard memory]] with 7 memory fragments and a 12-minute overall [[Timed Memory|time limit]].
+
+As their memory unfolds, the Migrating Bird Whisperer can be seen sitting in the gras alongside the [[Light Whisperer]], watching [[Birds]] fly by. Suddenly, the Spirits jump to their feet as they spot an injured Bird, separated from the flock, just above their island. The Migrating Bird Whisperer quickly runs towards the Bird and gently catches it. They bring it to the base of the small island, inside the Light Whisperer's workshop, where they carefully placd the Bird on a pillow. After some rest, the Spirits bring the Bird outside and let it fly free, where it is welcomed by their flock. Uplifted by their good deed, the Bird Whisperer frolicks across the field, before they stop and watch the swarm fly away, touched by this wonderful moment.
+
+At the end of the memory, the Migrating Bird Whisperer happily runs across the grass before watching the huge swarm of Birds fly across the sky, completely in awe. Touched by this wonderful moment, they place their hands above their heart.
+</div>
+
+==<span id="Expression">Expression</span>==
+This Spirit offers the {{Emote|Migrating Bird Whisperer|inline_text}} [[Expression]], which has 4 Levels. Level 1 is free and Level 3 is offered for {{Cost|24 SC|season=Season of Migration}} to all players. Level 2 and 4 are available for [[Season Pass]] holders exclusively.
+
+[[File:{{Icon Name||emote}}|x170px|left]]<!--
+<gallery heights="125" captionalign="center">
+Migrating-Bird-Whisperer-emote-level-1.gif|{{Icon Name|Migrating Bird Whisperer|emote_name}} Level 1
+Migrating-Bird-Whisperer-emote-level-2.gif|{{Icon Name|Migrating Bird Whisperer|emote_name}} Level 2
+Migrating-Bird-Whisperer-emote-level-3.gif|{{Icon Name|Migrating Bird Whisperer|emote_name}} Level 3
+Migrating-Bird-Whisperer-emote-level-4.gif|{{Icon Name|Migrating Bird Whisperer|emote_name}} Level 4
+</gallery>-->
+*Level 1 will make your avatar hold out their arms straight to each side and relax their eyes. This Expression will temporarily replace your basic walk and can be canceled by jumping or flying up once. When moved, your avatar will run around while slightly swaying their arms up and down.
+*Level 2 makes the same motion as Level 1 with trails of small golden sparkles following the avatar's hands.
+*Level 3 makes the same motion as Level 1, except that the motion is slower and the avatar flaps their arms up and down, as if imitating a butterfly.
+*Level 4 makes the same motion as Level 3 with sparkles appearing at the hands during the initial motion and yellow glowing lights trailing them with each flap.
+<!--As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Heart|4}}, {{Heart|3}}, and {{Heart|6}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.-->
+
+==Cosmetics==
+===<span id="Outfit">Outfit</span>===
+The [[Outfit]] offered by this Spirit is a long teal dress with elbow-length sleeves. The front of the skirt features a wide scalloped notch at the bottom, revealing an underskirt. The scallop and sleeve-ends are outlined with triangle-shaped patterns. The dress has a v-necked high collar, and golden bands around one ankle. <!--description by Ozotronic--> It is offered to all players for {{Cost|30 SC|season=Season of Migration}} during the Season.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Migrating Bird Whisperer|Outfit|icon}} {{!}} The Outfit icon
+{{Icon Name|Migrating Bird Whisperer|Outfit|real}} {{!}} The Outfit front
+{{Icon Name|Migrating Bird Whisperer|Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Cape">Cape</span>===
+The [[Cape]] offered by this Spirit is asymmetrical, with a feathered edge and a decorative upper layer slung around the shoulders. The shoulder cloth is orange with a squared off zig-zag trim in yellow. <!--description by Ozotronic-->It is a [[Season Pass]] exclusive item during the Season.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Migrating Bird Whisperer|Cape|icon}} {{!}} The Cape icon
+{{Icon Name|Migrating Bird Whisperer|Cape|front}} {{!}} The Cape front
+{{Icon Name|Migrating Bird Whisperer|Cape|interior}} {{!}} The Cape interior
+{{Icon Name|Migrating Bird Whisperer|Cape|back}} {{!}} The Cape back
+{{Icon Name|Migrating Bird Whisperer|Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+<!--   ONLY APPLICABLE ONCE SPIRIT HAS BECOME A TRAVELING SPIRIT 
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling
+|ts_dates=*June 19, 2019 (#01)
+*June 19, 2020 (#02)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Migrating Bird Whisperer
+|image = 
+|season = Migration
+
+|nodeC6 = Outfit 60 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Mask 30 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+The hints given before the Migrating Bird Whisperer's first appearance were: 
+{{Collapse
+|label=First Visit Hints
+|content=<div>
+*  [ hints can be on the official Sky Discord which are posted a few days before the traveling spirit by staff of thatgamecompany. ]
+</div>
+}}
+
+-->
+<!--   USE VARIABLES TO CONSTRUCT FRIENDSHIP TREE
+Cosmetics: Outfit Cape Hair Hairpiece Headpiece Facepiece Mask Necklace Outfit Shoes Instrument Prop 
+Expressions; emote emote1 emote2 emote3 emote4 
+Cost: SP for Season Pass, SC for Season Candles, C for Candle, H for Heart, free for Free
+Other: spell5 spellx heart season_heart #Quest #1 
+-->
+==Season Friendship Tree ==
+{{Friendship Tree Info | season| season=Season of Migration}}<br><br>
+{{Mbox
+|type=moderate
+|header=New Friendship Tree System
+|image=Reassuring-Ranger-Action-icon-Credit-Morybel.png
+|text=With the Season of Migration, TGC introduced a [https://www.thatskygame.com/news/the-season-of-migration-is-upon-us new Friendship Tree system]; instead of unlocking items through a single linear path, players can now spend time with Spirits to build Friendship. '''A template to display this new system on the Spirit pages is in the works and will be added soon.''' Thank you for your patience!
+}}
+
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Migrating Bird Whisperer
+|image  = Migrating-Bird-Whisperer-cutout.png
+|type   = season
+|season = Season of Migration
+|friendship_update = 1
+
+|nodeR6 = season_heart 3 SC SP
+
+|nodeR5 = cape SP
+
+|nodeL4 = blue_dye 12 SC
+|nodeC4 = relationship
+|nodeR4 = emote4 SP
+
+|nodeL3 = emote3 24 SC
+|nodeC3 = outfit 30 SC
+|nodeR3 = spellx SP
+
+|nodeL2 = spellx 4 SC
+|nodeC2 = 
+|nodeR2 = emote2 SP
+
+|nodeL1 = emote 
+|nodeC1 = spellx 2 SC
+|nodeR1 = follow
+}}<section end="Season Friendship Tree" />
+
+==References==
+<references />
+
+[[pt-br:Comunicador de Aves Migratórias]]

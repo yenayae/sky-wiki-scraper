@@ -1,0 +1,53 @@
+Various '''collectible''' items are available in Sky.  All of these items are described in more detail on separate articles; this article provides an overview of the types of collectible items and how to obtain them.
+
+== Types of Collectible Items ==
+Most of the game's collectibles are optional items -- they are not necessary to advance in the game, but rather are used to customize your Sky kid and / or provide additional ways to interact with other players.  These collectibles include:
+* [[Expressions]] are animations that you can perform to signal other players or portray emotions, accessible from the [[Expression Menu]]. Expressions encompasses a few more specialized types of expressions:
+** [[Stances]] are your character's default pose when standing, kneeling, sitting, or lying down.
+** [[Calls]] (or Voices) control the sound made by your player when you [[Honk]] or [[Deep Call]]
+** [[Making Friends|Friend actions]] are interactions available specifically between you and a friend
+* [[Cosmetics]] is a general term for your character's outfit and items you wearing or carrying.  Cosmetics are selected using [[Outfit Shrine]].
+** [[Capes]] are your top layer of clothing, including a display of your cape energy.
+** [[Outfits]] are the clothing under your cape. Many outfits only change your pants, but others change your top as well as your pants.
+** [[Masks]] are items worn over your face.
+** [[Face Accessories]] are on a second tab within the Mask Closet. They include items that are worn on top of and in addition to any selected mask. 
+** [[Necklaces]] are on a third tab within the Mask Closet.  They include items that are worn around the neck (or on the shoulder).  Most are [[Seasonal Events|season]] pendants.
+** [[Hair]] are various hair styles, but also includes various hoods, accessories, and hats.
+** [[Hair Accessories]] are on a second tab within the Hair Closet. They include items that are worn on top of and in addition to any selected hair style. Mostly small decorative baubles, but does also include a couple hats.
+** [[Props]] are items that you carry on your back.  You can equip your current prop in the [[Expression Menu]]. Some props are musical [[instruments]], some are [[Shared Spaces|placeable]] items; some allow you to chat with other players.
+
+* [[Music Sheets]] are songs that you can play with a musical [[instrument]].
+
+* [[Blessings]] are various single-use spells, potions, and scrolls. Some permanently change your character, such as the Resize potions, but most are temporary.
+
+Other items in the game that can be considered to be collectible are:
+* [[Winged Light]] are upgrades to your cape energy that increase the number of wedges on your cape.
+* [[Pieces of Light]] (also known as Wax) are orbs of light produced by lighting candles, burning darkness plants, or various other actions in game.
+
+== Obtaining Collectibles ==
+Collectibles are typically purchased using the in-game [[Currency|Currencies]]:
+* {{Candle||inline_text}} (white candles) are the most common currency. Used mostly for [[Expressions|Expression Upgrades]] and [[Blessings (Spells)|Spells]] from spirit friendship trees.
+* {{Heart||inline_text}}. Used mostly for [[Cosmetics]] from [[Regular Spirits]]. 
+* {{Season Candle||inline_text}}. Used exclusively for [[Seasonal Events|Seasonal]] cosmetics.
+* {{Season Heart||inline_text}}. Used exclusively for seasonal Ultimate Gifts.
+* {{Ascended Candle||inline_text}}. Used mostly for [[Wing Buffs]].
+* {{Ticket||inline_text}}. Used for most event items released after Days of Color 2023.
+However, there are a small number of items that are [[Premium Candle Shop|in-app purchases]] (especially from [[Special Events]]).
+
+The sources of collectibles include:
+* [[Friendship Tree (Regular)|Friendship Tree]]s of [[Regular Spirits]].  The primary source of collectibles, especially for new players.
+* [[Friendship Tree (Seasonal)|Friendship Tree]]s of [[Seasonal Spirits]] during their seasons.
+** New [[Seasonal Events|Seasons]] are released a few times a year, each of which adds brand new, themed collectibles to the game.
+* [[Friendship Tree (Traveling)|Friendship Tree]]s of [[Traveling Spirits]] to collect collectibles from past seasons.
+* [[Special Events]]: "Days of" events are recurring celebrations that happen roughly once per year.  Each one has a few themed collectible items.
+
+{{Navigation Box}}
+
+[[de:Sammelgegenstände]]
+[[fr:Objets de collection]]
+[[es:Coleccionables]]
+[[ja:コレクション]]
+[[pt-br:Colecionáveis]]
+
+[[Category:Collectibles]]
+[[Category:Basic Guides]]

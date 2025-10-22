@@ -1,0 +1,196 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Sanctuary-Spirit-Grateful-Shell-Collector.png|Standard
+Sanctuary-Spirit-Grateful-Shell-Collector-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Hair|infobox}}{{Spirit Item||Cape|infobox}}
+|props = {{Spirit Item||Prop|infobox}}
+|season    = Sanctuary
+|realm     = Daylight Prairie
+|location  = Sanctuary Islands
+|ts        = May 25, 2023 (#88)<br>September 30, 2021 (#45)
+}}
+<section begin="Summary" />The '''Grateful Shell Collector''' is a [[Seasonal Spirit]] from the [[Season of Sanctuary]] who offers the {{Emote|Grateful Shell Collector|inline_text}} Expression. The Grateful Shell Collector is found in the [[Sanctuary Islands]], on the main island at the base of the waterfall where its river runs into the sea. The collectibles [[#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Grateful Shell Collector|Hair|inline_text}}, a {{Spirit Item|Grateful Shell Collector|Cape|inline_text}}, and a {{Spirit Item|Grateful Shell Collector|Prop|label=Wooden Deck Chairs Prop|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Grateful-Shell-Collector-promo-image.jpg|none|thumb|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|fMZdaF0WRC8||inline|Video Guide by Tara}}
+
+The Grateful Shell Collector can be found in the [[Sanctuary Islands]] at the entrance of a large cave, located at sea level and to the left side of the main island if entering from [[Bird Nest]]. This Spirit has a [[Standard Memory|standard memory]] with 7 memory fragments and a 15-minute overall [[Timed Memory|time limit]].
+
+As their memory unfolds, the Grateful Shell Collector can be seen making their way through the main island, looking for seashells to collect. The Spirit spots one shell at the bottom of the cave, then goes up to the higher opening in the cave, where they meet the waving [[Sanctuary Guide]], standing next to another shell. The two Spirits then venture into one of the long and winding tunnels above the cave mouth, making their way down the slide. After they exit the tunnel, the Sanctuary Guide offers a shell to the Grateful Shell Collector.
+
+At the end of the memory, the Grateful Shell Collector and the Sanctuary Guide stand in the shallow water of the beach, keeping an eye out for more seashells. The Sanctuary Guide then approaches the other Spirit with another discovered shell. The Grateful Shell Collector bows their head and shakes their clasped hands in thanks.<br>
+<br>
+[[File:01 DP Spirit - Grateful Shell Collector.png|200px|left|thumb|Relive the Grateful Shell Collector's memory]]
+</div>
+{{Clear}}
+
+==Expression==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Grateful-Shell-Collector-grateful-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Grateful-Shell-Collector-grateful-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Grateful-Shell-Collector-grateful-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Grateful-Shell-Collector-grateful-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar bring both hands up to press against their cheeks, before bowing their head and shake their clasped hands infront of them, while wooden xylophone sound effects play.
+*Level 2 makes the same motion as Level 1, with a pink heart appearing above the head during the first half of the Expression, and a shower of white light particles falling from the avatar's clasped hands during the second half of the Expression.
+*Level 3 will make your avatar sway a bit while holding their hands over their heart and pat one hand with the other, before bowing slightly with crossed legs and opening up their arms wide in a gesture of thanks, while higher wooden xylophone sound effects play.
+*Level 4 makes the same motion as Level 3, with multiple small red hearts flying up and surrounding the avatar, as well as white light particles following their hand movements.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+==Cosmetics==
+===Hair===
+The [[Hair]] offered by this Spirit is in a short bowl-cut that goes over half the eyes, costing {{Cost|34 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|14 SC|season=Sanctuary}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair front
+{{Icon Name||Hair|side}} {{!}} The Hair side
+{{Icon Name||Hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Cape===
+The [[Cape]] offered by this Spirit is of a coral color with a rounded edge and beige lines around it, resembling the shape of a seashell, costing {{Cost|70 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fourth node ({{Cost|48 SC|season=Sanctuary}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||Cape|interior}} {{!}} The Cape interior
+{{Icon Name||Cape|back}} {{!}} The Cape back
+<!--{{Icon Name||Cape|exterior}} {{!}} The Cape exterior-->
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Prop===
+The [[Prop]] offered by this Spirit is a pair of wooden deck chairs, costing {{Cost|45 C}} from the Traveling Spirit. It is a placeable Prop that can be used to decorate [[Shared Spaces]], and functions as a two-player [[Chat]] item. They appear as a pair of chairs on their owner's back when carried.
+
+This item was not available during the Season of Sanctuary.  It was first introduced in conjunction with the [[Days of Summer]], when the Grateful Shell Collector first returned as a Traveling Spirit on September 30th, 2021.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Prop|icon}} {{!}} The Prop icon
+{{Icon Name||Prop|real}} {{!}} The Prop
+{{Icon Name||Prop|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Traveling Spirit==
+[[File:Traveling Spirit 45 - Summary Chart.png|200px|right|thumb]]
+{{Friendship Tree Info | traveling
+|ts_dates=*May 25, 2023 (#88) 
+*September 30, 2021 (With a new [[#Prop|Prop]]) (#45) 
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Grateful Shell Collector
+|season = Sanctuary
+|image  = Sanctuary-Spirit-Grateful-Shell-Collector.png
+
+|nodeC6 = Cape 70 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Hair 34 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+|nodeR1 = Prop 45 C NEW
+}}
+<section end="TS Friendship Tree" />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+The hints given before the [[Grateful Shell Collector]]'s first appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=First Visit Hint
+|content=<div>
+* Makes the best daifuku mochi
+* Likes using photo filters
+* Is a natural crowd charmer
+* Does share a favorite color with skybot
+* Also makes the best smoothies
+* Doesn't have a green thumb
+* Keeps up with fashion trends
+* Gets headaches from metal music
+* .....CAN'T juggle
+* Doesn't eat meat
+* Is bad at following IKEA directions
+* Does crab-yoga
+* Doesn't understand sarcasm
+* Has never been stung by an insect
+* Only owns fake plants
+* Loves waterslides
+* Isn't clumsy
+* Hates jigsaw puzzles
+* Prefers relaxing over exercise
+* Is a pro freestyle swimmer
+* Was really the friends we made along the way
+</div>
+}}
+
+The hints given before the [[Grateful Shell Collector]]'s second appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Second Visit Hint
+|content=<div>
+* Gets sunburnt often
+* Secretly enjoys the limelight a little bit
+* Wears their heart on their sleeve
+* Has great balance
+* Enjoys the beauty in simple things 
+* Would love going on rollercoasters!
+* Would visit Lurelin Village in Hyrule first
+</div>
+}}
+
+==Season Friendship Tree==
+{{Friendship Tree Info | season | season=Sanctuary}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Grateful Shell Collector
+|type   = season
+|season = Sanctuary
+|image  = Sanctuary-Spirit-Grateful-Shell-Collector.png
+
+|nodeC5 = season_heart 3 SC SP
+|nodeL4 = spell5 SP
+|nodeC4 = Cape 18 SC
+|nodeL3 = emote4 SP
+|nodeC3 = emote3 16 SC
+|nodeL2 = Hair SP
+|nodeC2 = spell5 14 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}
+<section end="Season Friendship Tree" />
+
+==Unique Daily Quests==
+{{#section-h:Quests/Daily Quest Spirits|{{PAGENAME}}}}
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Grateful expression .jpg
+Sanctuary Images recap-grateful how to.jpg
+Sanctuary Images recap-grateful group.jpg
+AP Sanctuary 13.png
+Grateful shell collector map.png
+</gallery>
+
+==References==
+<references />
+
+[[de:Dankbarer Muschelsammler]]
+[[pt-br:Colecionadora de Conchas Agradecida]]
+[[ru:Благодарный собиратель раковин]]
+[[fr:Collectionneuse de coquillage reconnaissante]]

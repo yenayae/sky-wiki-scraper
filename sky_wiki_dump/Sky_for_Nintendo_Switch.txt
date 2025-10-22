@@ -1,0 +1,276 @@
+This page contains information gathered regarding Sky on the Nintendo Switch and Nintendo Switch 2 platform. Please use this page as a Switch-specific elaboration of the content already found on the Wiki. Check out the [[Getting Started]] page as well as other pages on this Wiki for the general gameplay of Sky. The gameplay is the same on all devices; some menu options and game save information are the only ones that are going to be different.
+
+Sky for Nintendo Switch released on June 29, 2021 with Version {{v|0.14.0}}. This would be the first console release for Sky. Gameplay experience did not differ on the Nintendo Switch with other platforms. However, if candle packs are bought under the Nintendo Switch, the candle count will be increased on only the Nintendo device. This is explained further below. Playing Sky '''does not''' require an online subscription service (Nintendo Online).
+
+{{DevicesNav}}
+
+==TGC-Allowed Download Stores==
+You can only download the app from Nintendo eShop. Any other source for download are not allowed as they are '''against the TOS.'''
+
+[https://www.nintendo.com/games/detail/sky-children-of-the-light-switch/ Sky: Children of the Light App on the Nintendo eShop Website]
+
+==Linking your Game==
+To protect your Sky account, it is important to link it to any account service provider listed below:
+*Game Center (Apple platform exclusive) • Permanently Bound
+*Google • Permanently Bound
+*Facebook
+*Apple ID (Apple platform exclusive)
+*Nintendo • Permanently Bound After Buying an [[IAP]] <ref name="Nintendo Linking Helpshift Article">https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/faq/811-how-do-i-link-my-mobile-sky-account-to-my-nintendo-switch-account/</ref>
+*Huawei ID
+*PlayStation® Network • Permanently Bound
+*Steam • Permanently Bound After Buying an [[IAP]]
+*Twitch
+
+'''On the Nintendo Switch, you will not be able to link to above accounts if it was not done before on a mobile device. Subsequently you can only link to the above from a mobile device such as [[Sky for iOS and macOS|iOS]] or [[Sky for Android|Android]]. '''
+
+Linking account will allow players to recover their accounts themselves upon re-installs or when switching devices. Keeping record of your Sky ID - Sky 'Settings -> 'Account' -> 'Account Info' - will also be a way to recover account progress. However, this requires the help of a TGC Support representative, which may take a certain number of business days. TGC will also ask players for their Sky ID if a giveaway is won. Keep in mind to keep your Sky ID safe from everybody, it acts as the key into your account. If you are contacted by TGC, ensure it is from official sources.
+
+You may link more than one account service to your Sky account at a same time. You may also link your account service to a Live Sky account and Beta Sky account at the same time, since Live account and Beta account are separated and run independently (progress is not carried). However, each account service can only be linked to one Live Sky account. For example, you may link your account to Google and Facebook account at the same time, but you cannot link another Sky account to the same Google account.
+
+<gallery hideaddbutton="true" widths="150" mode="nolines">
+File:Link providers.png|Account service providers
+File:Game center.png|Game Center
+File:Google.png|Google Account
+File:FacebookLinking.png|Facebook Account
+File:Apple id link.png|Apple ID
+File:Nintendo linking.png|Nintendo Account
+File:Huawei linking.jpg|HUAWEI ID
+File:Playstation linking.jpeg|PlayStation™ Network
+File:Steam Linking.png|Steam Account
+File:Twitch Linking.png|Twitch Account
+</gallery>
+
+==Linking Nintendo account to sky==
+<div>
+{{#ev:youtube|2zIkjULFBx4|400|right|Connecting Nintendo Account to Mobile Account||modestbranding=1}}
+</div>
+
+*Log into your Sky Account from an mobile device (iOS, Android)
+*Press the cog icon in the top right corner of the game screen to open the Utility Menu and go to the ‘Account’ tab, with the check/tick.
+[[File:Nintendo1.png|none|thumb]] 
+*In the Account Menu, scroll down until you see 'Nintendo Network' and go into 'Link'
+[[File:Nintendo2.png|Step 3|180x180px]] 
+*Sign in to your Nintendo Account  
+**'''Please use caution and make sure you're linking to the correct Nintendo Account.''' You can check which email is used for the desired account by following these steps while logged into desired user on the console: 'System Settings' (Gear icon on home screen) -> 'Users' -> Choose the desired user -> 'Check your Account Information' -> 'View e-mail address'
+**If you don't have a Nintendo account, but would like to create one so that you can link your current mobile Sky account, please [https://accounts.nintendo.com/register register here] or in the in-game menus. Make sure you log into your Nintendo Switch with the newly-registered account before starting Sky.
+
+Start up Sky with the desired user on the Switch console. You will be asked "Are you new to Sky?" with options of '''"No"''' and '''"Yes"'''. If you want to carry over your progress from Mobile, select '''"No"'''. If you haven't linked to Mobile beforehand, it will lead you to the "Create a New Sky Account?" menu, where it will ask if you want to use the current Nintendo Account you are using to create a new Sky Account, starting over from scratch/becoming a [[Glossary of Terms#Moths|"moth"]]
+
+=== Accidentally creating a new Sky Account===
+If you have accidentally created a new Sky Account on your Switch when you instead meant to continue playing on a progressed Sky Account, or you have accidentally linked the wrong Nintendo Account, see the following steps to fix this.
+* Log into the new Sky Account from the desired Nintendo Account User
+*Press the cog icon in the top right corner of the game screen to open the Utility Menu and go to the ‘Account’ tab, with the check/tick.
+*In the Account Menu, scroll down until you see 'Account Info' and go onto 'Delete Account'
+[[File:account_info.jpeg|none|thumb]] 
+*A confirmation screen will come up. Press 'Confirm'
+[[File:Confirm Deletion.jpeg|none|thumb]]
+*Wait 30 full days for the deletion request to be fulfilled 
+**Make sure you have requested to delete the correct account - This request will completely delete this account and all its progress and it will not be recoverable in any way.
+[[File:cancel deletion.jpeg|none|thumb]]   
+*Once the account has been deleted, follow the steps from the above section to correctly link the Nintendo account to a progressed account.
+
+<div>
+Another method, however requiring a throwaway account service:
+{{#ev:youtube|M0kNwFVkwGw|400||Unlinking a Nintendo Account in Sky||modestbranding=1}}
+</div>
+
+== Handling multiple accounts by a same player ==
+Multiple people can play Sky under different Sky accounts on the same Nintendo Switch device by utilizing the Nintendo Switch users feature. You can read further about this in [https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/faq/815-can-i-play-with-multiple-accounts-on-my-switch-with-my-family/ TGC's helpshift article]. Be aware that handling more than one account by yourself with the intentions of self gain is ''strongly discouraged'' by TGC because it is considered self-botting and against Sky TOS.
+
+"For the protection of your progress and data we encourage you not to do this. We do not advise the creation of multiple Sky accounts for use by a single person. Doing this can cause errors on each of the accounts that may be difficult or impossible to fix by yourself or the TGC team."
+
+== Requirements for downloading Sky==
+You will require approximately 2.5GB of free storage to download. <!-- Is there any hardware requirements for Switch? Since there is only 2 types of Switchs and they both have the same GPU and RAM and what not. -->
+
+==Online Friending==
+<div>
+{{#ev:youtube|5nJpQYGi8is|400|right|Adding Friends in Sky on Nintendo Switch||modestbranding=1}}
+You can friend people online while playing on the Nintendo Switch. Go to Settings or the Favorite Friends Constellation at Home, then select the ''One-time Friend Invite''. If you want to friend a person you have in your Switch's Friend List, press "Nintendo Friend" then invite the friend. If you want to friend a player on a different platform such as '''Mobile, Playstation or PC''', tap "Mobile Player" then create a nickname for them.  After confirming the nickname, there will be an option to share the invite.
+
+* If they are on Mobile, they can scan the generated QR code by using the Sky Codes {{Icon|QR-code-invite-Ray.png|link=}} option in their settings. If they are nearby, they can scan it directly from their Sky app, if not they can import a photo/screenshot of the QR Code.
+* If they are on PlayStation, PC or unable to scan the QR code on Mobile, share the unique 12-digit alphanumeric code with them. They can select the Sky Codes {{Icon|QR-code-invite-Ray.png|link=}} option in their settings and press on the Type option and manually enter the Sky Code. 
+</div>
+
+==Controls on Switch==
+<div style="float:right">{{Mobile Tabber
+|tab1 = Joy-Cons
+|c1   = [[File:Switch-sky-controls-menu.png|thumb|400px|In-game Controller Map for the Joy-Cons]]
+|tab2 = Pro Controller
+|c2   = [[File:Switch-pro-controller-menu-Ray.png|alt=|thumb|400px|Pro Controller chart made by [[User:Ray808080|Ray808080]]]]
+}}</div>
+Below are the controls and what each button does in normal gameplay. The only way to remap controls are via the System Settings, though this does not update the button prompts in game. (System Settings -> Controllers and Sensors -> Change Button Mapping -> [Controller Name] -> Change)
+
+===Left Joy-Con===
+*ZL Trigger:   
+** Opens controller menu
+*L : Show candle/heart counts, forge candles
+*(-) : Open chat keyboard
+*Left Joystick : Movement
+*D-pad:
+**up/down : Zoom in/out camera
+**left: Show Quests
+**right: Open/Close Chat Log
+
+===Right Joy-Con===
+*ZR Trigger : Triggers the Fireworks staff, the Summer Lantern, and chat QR code (in chat keyboard)
+*R Trigger : Flight Toggle (Hover/Glide), Skip Cutscenes 
+**While flying: hold continuously while moving left joystick in a direction to spin or flip
+**While on the ground : "Stepping" Mechanic (Stretched leg for chibi oob)
+**While swimming : Dive Toggle (Dive/Float)
+*(+) : Open Settings
+*Right Joystick : Move Camera/Menu Navigation 
+** Press Right Joystick (During Spirit/Friend Menus) : More Info
+*Y : On-screen buttons (Flame, Quest, Open Menus)
+*A : Chirp
+* B :  
+**Tap : Jump
+**Hold : Flight
+** While diving :  Speed Boost
+*X : Open expressions/items menu
+
+==STAR Pins==
+[[File:NS ScanSTar.gif|alt|300px|thumb|Scanning a STAR Pin- Video by Kai☆#1012]]
+The player can scan their STAR Pins from ThatSkyShop by putting the NFC tag underneath the right joystick. It may take a few seconds to take effect.
+{{clear}}
+==Video Recording==
+You will be able to record by holding the Screenshot Button on the Left Joystick, '''however''' it will only record the last 30 seconds. To record for longer, you will require a Capture Card and the Switch Dock.
+
+Currently, there is no way to record without showing UI.
+
+==In-App Purchases==
+The Shop on every platform have the same base prices. Independent of your OS, there will also be regional differences in pricing, though the base pricing set by TGC is, again, the same. Candle Packs bought on the Nintendo Switch device will not be the same count as other devices - For example, if the Sky account has 10 candles and you buy the 15x candle pack on the Switch, the Switch device will display 25 total candles, however on a mobile device the total will remain at 10 candles. This is applicable both ways - However any cosmetic packs will be shared among the linked devices - For example if the Nintendo Sky account has the Nintendo Blue Cape, so will the linked iPhone Sky account.
+
+===Nintendo Pack===
+Players on the Nintendo Switch have the option to purchase a new Starter Pack. This can only be purchased on the Switch Console. However, Switch players who have their progress transferred to a mobile device can  also wear these items while playing on iOS or Android. '''''Note that Candles purchased on Switch do not transfer to mobile devices. They must be used on the platform they were purchased on.'''''
+The pack can be gifted to other players (including non-Nintendo Switch) using the in-game gifting system within a players friendship tree.
+
+*Nintendo Pack (A Blue 'Joy-con' Cape + A Red 'Joy-Con' Cape + A [[#Vessel Flute|vessel flute]] Instrument + Elf Hair + 75 Candles - <small>$29.99 USD ('''Only available on Nintendo Switch''')</small>
+<gallery widths="125" spacing="small" captionalign="center">
+Nintendo_pack.png|Nintendo Pack IAP
+Icon cape nintendo blue-Morybel-0146.png|Nintendo Blue Cape icon
+cape nintendo blue back.png|Nintendo Blue Cape back
+cape nintendo blue front.png|Nintendo Blue Cape front
+cape nintendo blue inner.png|Nintendo Blue Cape interior
+Icon cape nintendo red-Morybel-0146.png|Nintendo Red Cape icon
+cape nintendo red back.png|Nintendo Red Cape back
+cape nintendo red front.png|Nintendo Red Cape front
+cape nintendo red inner.png|Nintendo Red Cape interior
+Icon hair Nintendo elf.png|Nintendo Elf Hairstyle icon
+nintendo elf hair v2.png|Nintendo Elf Hairstyle
+</gallery>
+
+====Vessel Flute====
+The Nintendo Pack includes one [[instrument]], the '''Vessel Flute''' (or '''[[wikipedia:Ocarina|Ocarina]]'''). It plays 15 notes. You are standing while playing.
+
+The Vessel Flute plays the wind [[Music Sheet Parts|part]] on music sheets. Its [[Instrument Pitch|pitch]] is the same as the standard [[Piano]] (in C major, it covers C<sub>4</sub> to C<sub>6</sub>).
+
+This item is exclusive to Nintendo Switch players. It is not even available as a demonstration instrument in [[Harmony Hall]].
+
+<gallery widths="125" spacing="small" captionalign="center">
+Icon instrument vessel flute.png|Vessel Flute icon
+Vessel-flute-Ocarina-Nintendo-IAP.png|Vessel Flute
+nintendo ocarina on back.png|Vessel Flute on back
+nintendo ocarina in use v2.png|Vessel Flute in use
+</gallery>
+
+==Chibi Falling on Switch==
+Chibi falling is a useful technique used by Sky players to clip through floors and walls to reach other places. The Chibi mask can be obtained by the [[Hide'n'Seek Pioneer]] found in the Hidden Forest. Below are the steps to successfully Chibi fall.
+
+#Wear the Chibi mask
+#Select the [[Stealthy Stance|Stealthy Stance]] (be sure to not hold a candle, as it will return the stance to the regular stance)
+# Get close to a slope or a step
+#Hold R
+#Drag the left joystick forward or towards the step/slope
+#When it looks like the Skykid has clipped through the slope a little, release R to drop down through the floor
+#From here, fly or walk (if there’s ground beneath the player) to wherever desired
+Please note that the chibi fall does '''not''' work on every slope/step throughout the game.
+
+==How-To and FAQ from Official Sky Discord==
+Below you will find useful questions and answers taken from the pins in the '''#switch-faq''' channel of the official Discord Server – sometimes supplemented by Wiki editors. The official server is one of the main ways to interact with the Sky community - as well as the staff of TGC. All of these questions were posted by '''Ktjn,''' who is a Community Manager and TGC developer.
+
+===Will a Nintendo Switch Online subscription be required to play this game?===
+No, you will '''not''' require Nintendo Switch Online to play with friends
+
+===Can I play with multiple accounts on my Switch with my family?===
+Multiple Sky Accounts can exist in one Switch Console. [https://www.nintendo.co.uk/Support/Nintendo-Switch/How-to-Add-a-New-User-Account-1462332.html Create separate users] on the switch to do so.
+
+===Can Switch players play alongside mobile users?===
+There is cross-play between Mobile and Switch players. Sky supports Cross Save as well.
+
+===Will there be an option to purchase a collector’s edition?===
+Switch does not get any exclusive features over Mobile apart from a special permanent Switch Starter Pack on the eShop and in-game shop (see below for In-App purchases).
+
+===How do Candles bought through In-App work between mobile and Nintendo Switch for Sky? ===
+Currency bought with In-App Purchases '''are not''' synced between Mobile and Switch 
+
+*If you bought 15 candles on your phone, those 15 candles will only stay on your phone, 15 candles will not appear on the Switch Console. Same with any other currency (Seasonal Candles, Regular Candles, Gift Passes)
+*Season Pass functions will be synced (Be able to buy Pass-only cosmetics, Ultimate Rewards, etc.)
+* Cosmetics bought from IAP will still be synced, but if the IAP contains currency, only the currency will not be synced.
+*Candles obtained normally (Candle Runs, Daily Quests) will be synced.
+*More information [https://thatgamecompany.helpshift.com/a/sky-children-of-the-light/?s=nintendo-switch&f=how-do-candles-work-between-mobile-and-nintendo-switch-for-sky&l=en&p=all can be found here]
+
+===Does Nintendo Switch version of Sky support STAR pins?===
+[[STAR|STAR Pins]] bought from ThatSkyShop still work on Switch Console. Place the tag  underneath the Right Joystick in the 'Ready to Scan STAR Tag' menu.  See above for a small video how to. 
+
+===Can I play Sky with all Nintendo Switch controller types?===
+Nearly all Nintendo Switch controllers and configurations can be played on Sky, with the exception of a single Joy-Con.
+
+===How do I link my mobile Sky account to my Nintendo Switch account?===
+You can transfer progress from Mobile to Switch. Follow the steps in the above section "Linking a Mobile Sky Account to a Nintendo Switch Account". 
+
+=== How do I use the Virtual Sky Keyboard?===
+The Virtual Sky Keyboard is a feature introduced in Patch {{v|0.15.5}}, where you can use the chat function from an external mobile device. To access this feature: 
+
+*Press the (-) button to display the chat window in the game
+*Press the ZR button to create and display a QR code on the screen
+*Scan the QR code on your mobile device. Most devices can natively scan the QR Code from the system Camera app, but some may require an external QR Scanning application to scan it. This will take you to the Sky Keyboard website (https://keyboard.sky.thatgame.co/) on your mobile browser. You will know you have successfully connected if you see a phone icon on the top right corner, with text '''Unlink (ZR)'.''
+*Use your mobile device to type your message as normal. You can use text and emoji, and a button at the bottom of the mobile screen allows you to choose between light and dark mode for the site.
+*To disconnect your mobile device from the current chat session, press the ZR button again while the in-game chat keyboard is open
+
+Keep in mind that the Virtual Sky Keyboard has the same character limit as regular in-game chat; 140 bytes. In addition, this limit also applies to message boats and message candles, which ordinarily have a limit of 256 bytes.
+
+<gallery widths="200" spacing="small" captionalign="center">
+Switch-sky-chat-virtual-keyboard-link-shortcut.png|Virtual Keyboard shortcut in the corner
+Switch-sky-virtual-keyboard-link-qr-code.png|QR Code prompt for Virtual Keyboard
+Switch-sky-virtual-keyboard-link-confirmation.png|Virtual Keyboard link confirmation
+Switch-sky-chat-virtual-keyboard-unlink-shortcut.png|Virtual Keyboard unlink shortcut in the corner
+Switch-sky-settings-menu.png|Alternative access to Virtual Keyboard in the Settings Menu
+Switch-sky-virtual-keyboard-unlink-prompt.png|Virtual Keyboard unlink prompt
+</gallery>
+
+<gallery widths="200" spacing="small" captionalign="center">
+sky-virtual-keyboard-linked.png|Virtual Keyboard website linked
+sky-virtual-keyboard-unlinked.png|Virtual Keyboard website unlinked
+sky-virtual-keyboard-error.png|Virtual Keyboard website error message
+</gallery>
+
+==Moments Camera Controls==
+[[File:Moments-Guide-Prop-Camera.png|75px|right|thumb|Moments Guide Prop Camera]]
+Two new [[Moments Guide|Camera Props]] were added during [[Season of Moments]] where players on all platforms can take in-game screenshots without game UI or labels.
+
+* Players can equip the camera from the Prop section of an [[Outfit Shrine]].
+* Open the expression menu and select the <span id="Camera Icon">{{Icon|Moments-Guide-Prop-Camera-icon-Credit-Morybel.png|link=}} camera icon.
+* Press ZR to <span id="Open">{{Icon|Camera-hold-Ray.png|link=}} open the camera.
+* Press R to switch between the different camera modes which are: handheld(default), selfie(flip camera) and tripod(use tripod).
+* Use the D-pad to adjust and switch between the different photo settings like <span id="Zoom">{{Icon|Camera-zoom-Ray.png|link=}} zoom, <span id="Blur">{{Icon|Camera-blur-Ray.png|link=}} blur and <span id="Brightness">{{Icon|Camera-brightness-Ray.png|link=}} light exposure. 
+* Press down on the Right Joystick to Pin Focus and give an object focus priority when moving the camera.
+* Press ZR to <span id="Camera">{{Icon|Camera-Ray.png|link=}} take a picture and take a screenshot of it using the Capture Button. Unlike mobile players, Nintendo Switch players will have to manually use the console screenshot capture to save the image to the console.
+* Press L to close the camera.
+[[File:Switch Camera UI.png|350px]]
+
+To share screenshots on Nintendo Switch consoles, please refer to this [https://www.nintendolife.com/guides/how-to-transfer-screenshots-and-videos-from-switch-to-a-smartphone-pc-or-mac guide].
+
+==Videos==
+<div>
+{{#ev:youtube|iUNQWu_GjUM|400|inline|Nintendo Switch Launch Trailer||modestbranding=1}}
+{{#ev:youtube|GO1il8fOPCE|400|inline|Launch Promo - Nintendo Switch||modestbranding=1}}
+{{#ev:youtube|okQC85M7qFM|400|inline|Nintendo Switch Announcement||modestbranding=1}}
+</div>
+{{Clear}}
+
+==External Links==
+[https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/section/136-nintendo-switch/ Official Support] - Collection of TGC Helpshift articles about Nintendo Switch platform
+
+[[fr:Sky pour Nintendo Switch]]
+[[de:Sky für Nintendo Switch]]
+[[pt-br:Sky para Nintendo Switch]]

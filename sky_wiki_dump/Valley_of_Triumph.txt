@@ -1,0 +1,376 @@
+{{Spoilers}} {{Quote|<br>'''''Race down the ridge, and the city gates will open to honor you.'''''|Valley of Triumph Opening}}
+{{Realm
+| image = Valley Thumbnail.png
+| previousRealm = [[Hidden Forest]]
+| nextRealm = [[Golden Wasteland]]
+| constellation = 04 Valley Constellation.png
+}}
+'''Valley of Triumph''', often shortened to ''Valley'', is a radiant snowscape adorned with towering structures, where the echoes of ancient victories resonate. It is the fourth realm the player visits, after the [[Hidden Forest]]. Valley of Triumph is separated into 9 areas<ref>not including the [[Hidden Forest#The Wind Paths|The Wind Paths]]</ref>, loading screens between them all. While the game does not explicitly mention the names of all the areas, it can be derived from landmarks and developer mentions.
+
+Valley holds 7 [[Regular Spirits]] and 16 [[Seasonal Spirits]]. Locations of all available Children of Light, who hold Winged Light, can be found of the [[Children_of_Light#Valley_of_Triumph|Children of Light]] page.
+
+==Social Space==
+[[File:Valley SocialSpace1.png|right|300px]]
+As with the other levels since [[Daylight Prairie]], the first area of the level is the Social Space where you will find a bonfire, [[Outfit Shrine]], and the [[Regular Spirits]] that you freed in the current Realm. Onwards is a slope leading down to the [[#Ice Rink Slope|Ice Rink]], while to the right of the bonfire is a tunnel entrance to the [[#Village of Dreams|Village of Dreams]] - blocked by a Spirit Gate requiring 1 Regular Spirit from [[Golden Wasteland]] to be relived. Additionally, there is a sapling above the tunnel to the [[#Village of Dream|Village of Dreams]] with a chat bench.
+{{Clear}}
+==Village of Dreams==
+{{Main|Village of Dreams}} [[File:Valley VillageOfDreams1.png|right|300px]] {{#lst:Village of Dreams|Quote}}
+{{#lst:Village of Dreams|Summary}} 
+
+*3 [[Children of Light#Village of Dreams|Children of Light]]
+*2 [[Map Shrine#Valley of Triumph|Map Shrine]]
+*4 [[Seasonal Spirits]] ({{Emote|Spinning Mentor}}[[Spinning Mentor]],{{Emote|Dancing Performer}}[[Dancing Performer]],{{Emote|Peeking Postman}}[[Peeking Postman]],{{Emote|Bearhug Hermit}}[[Bearhug Hermit]])
+
+{{#lst:Village of Dreams|SpiritTabber}}
+
+==Harmony Hall==
+{{Main|Harmony Hall}} [[File:Valley_HarmonyHall1.png|right|300px]] {{#lst:Harmony Hall|Quote}}
+{{#lst:Harmony Hall|Summary}} {{#lst:Harmony Hall|Summary 2}}
+
+==Hermit Valley==
+{{Main|Hermit Valley}} [[File:Valley_HermitValley1.png|right|300px]] {{#lst:Hermit Valley|Quote}}
+{{#lst:Hermit Valley|Summary}}
+
+In the Hermit Valley, players can find: 
+*2 [[Children of Light#Hermit Valley|Children of Light]]
+*1 [[Map Shrine#Valley of Triumph|Map Shrine]]
+
+==Village Theater==
+{{Main|Village Theater}} [[File:Valley VillageTheater1.png|right|300px]] {{#lst:Village Theater|Quote}}
+{{#lst:Village Theater|Summary}}
+
+In the Village Theater, players can find: 
+*1 [[Children of Light#Village Theater|Child of Light]]
+*1 [[Map Shrine#Valley of Triumph|Map Shrine]]
+*4 [[Seasonal Spirits]] ({{Spirit|Frantic Stagehand|Inline_text}},{{Spirit|Forgetful Storyteller|Inline_text}},{{Spirit|Mellow Musician|Inline_text}},{{Spirit|Modest Dancer|Inline_text}})
+
+{{#lst:Village Theater|SpiritTabber}}
+
+==<span id="Icerink Slope">Ice Rink Slope</span>==
+[[File:Valley IceRinkSlope1.png|right|300px]]
+From the [[#Social Space|Social Space]], the player can jump onto a slope which sliding down will lead to the Ice Rink. The Ice Rink is a serene area with a frozen lake, allowing players to skate and perform tricks. Overlooking the entire area is a cliff with a Regular Spirit and candles. There is also a winding tunnel leading to a Spirit near the [[#Sliding Race|Sliding Race]] entrance. Additionally, a hidden area beneath the ice that houses jellyfish and a [[Children of Light#Ice Rink|Child of Light]] can be found by breaking the ice of the lake at specific points.
+
+The path splits, allowing the player to either enter the [[#Citadel|Citadel]], blocked by a Spirit Gate requiring 2 Valley Regular Spirits to have been relived, or into the [[#Sliding Race|Sliding Race]]. Both in the end join back together in the [[#Coliseum|Coliseum]].
+
+In the Ice Rink Slope, players can find: 
+*3 [[Children of Light#Ice Rink Slope|Children of Light]]
+*1 [[Map Shrine#Valley of Triumph|Map Shrine]]
+*1 [[Regular Spirits|Regular Spirit]] ({{Spirit|Confident Sightseer|Inline_text}})
+*3 [[Seasonal Spirits]] ({{Spirit|Leaping Dancer|Inline_text}},{{Spirit|Twirling Champion|Inline_text}},{{Spirit|Troupe Juggler|Inline_text}})
+
+{{Mobile Tabber
+|tab1 = {{Emote|Confident Sightseer|tab}}
+|c1   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Confident Sightseer|Summary}} {{#lst:Confident Sightseer|Friendship Tree}}</div>
+|type1= regular
+
+|line2= true
+|tab2 = {{Emote|Leaping Dancer|tab}}
+|c2   = <div> {{#ev:youtube|yIloStW50hE|400|right}} {{#lst:Leaping Dancer|Summary}} {{#lst:Leaping Dancer|TS Friendship Tree}}</div>
+|type2= seasonal
+
+|tab3 = {{Emote|Twirling Champion|tab}}
+|c3   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Twirling Champion|Summary}} {{#lst:Twirling Champion|TS Friendship Tree}}</div>
+|type3= seasonal
+
+|tab4 = {{Emote|Troupe Juggler|tab}}
+|c4   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Troupe Juggler|Summary}} {{#lst:Troupe Juggler|TS Friendship Tree}}</div>
+|type4= seasonal
+}}
+
+==Sliding Race==
+[[File:Valley SlidingRace1.png|right|300px]]
+While this is still referred to as a "race", the racing element has long been removed from the game. Despite that, the Sliding Race is timed.
+
+The Sliding Race mainly is comprised of sliding down a slope with various obstacles and broken structures obstructing your path. Fragments of light are scattered around the course, along with light creatures.
+
+In the Sliding Race, players can find: 
+*2 [[Children of Light#Sliding Race|Children of Light]]<ref name="Sliding Flying WL">The [[#Sliding Race|Sliding]] and [[#Flying Race|Flying Races]] meet near the end with "2nd" Child of Light on the course, leading to the same [[#Coliseum|Coliseum]].</ref>
+*1 [[Map Shrine#Valley of Triumph|Map Shrine]]
+{{Clear}}
+
+==Citadel==
+[[File:Valley Citadel1.png|right|300px]]
+The Citadel, a stronghold of towering spires with an intricate orrery in the centre resting on the clouds and split mountains. A variety of [[Light Creatures]] roam around the area, aiding the player recharge their light wherever they fly. This area serves as the entrance to the [[#Flying Race|Flying Race]], and also as wide and large area to practice flying.
+
+In the Citadel, players can find: 
+*2 [[Children of Light#Citadel|Children of Light]]
+*1 [[Map Shrine#Valley of Triumph|Map Shrine]]
+*3 [[Regular Spirits]] ({{Spirit|Handstanding Thrillseeker|Inline_text}},{{Spirit|Manta Whisperer|Inline_text}},{{Spirit|Backflipping Champion|Inline_text}})
+
+{{Mobile Tabber
+|tab1 = {{Emote|Handstanding Thrillseeker|tab}}
+|c1   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Handstanding Thrillseeker|Summary}} {{#lst:Handstanding Thrillseeker|Friendship Tree}}</div>
+|type1= regular
+
+|tab2 = {{Emote|Manta Whisperer|tab}}
+|c2   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Manta Whisperer|Summary}} {{#lst:Manta Whisperer|Friendship Tree}}</div>
+|type2= regular
+
+|tab3 = {{Emote|Backflipping Champion|tab}}
+|c3   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Backflipping Champion|Summary}} {{#lst:Backflipping Champion|Friendship Tree}}</div>
+|type3= regular
+}}
+
+==Flying Race==
+[[File:Valley FlyingRace1.png|right|300px]]
+A building beyond the [[#Citadel|Citadel]] area brings players to the Flying Race. The building looks very similar to the [[#Sliding Race|Sliding Race]] building. In this Race, players may collect light fragments just like the Sliding Race.
+
+The Flying Race mainly compromises of flying, until near the end where the races' paths connect and slide into the [[#Coliseum|Coliseum]]. The course involves the player flying through hoops and structures with other players and light creatures to collect fragments of light.
+
+In the Flying Race, players can find: 
+*2 [[Children of Light#Flying Race|Children of Light]]<ref name="Sliding Flying WL" />
+*1 [[Map Shrine#Valley of Triumph|Map Shrine]]
+
+==Coliseum==
+[[File:Valley Coliseum1.png|right|300px]] [[File:Valley Coliseum2.png|right|300px]]
+A grand arena with the echos of triumph reverberating amidst towering spires and grand archways. The [[#Sliding Race|Sliding Race]] and [[#Flying Race|Flying Race]] end in the Coliseum. The Coliseum is split into two sides; blue tents and red tents. The Red Tents hold the [[Season of Dreams]]' events and structures along with access to the [[#Village of Dreams|Village of Dreams]] while the Blue Tents hold the [[Season of AURORA]]'s activities. Scattered around both sides are smaller orreies similar to the ones in the Citadel.
+
+In the Coliseum, players can find: 
+*1 [[Children of Light#Coliseum|Child of Light]]
+*1 [[Map Shrine#Valley of Triumph|Map Shrine]]
+*3 [[Regular Spirits]] ({{Spirit|Cheerful Spectator|Inline_text}},{{Spirit|Bowing Medalist|Inline_text}},{{Spirit|Proud Victor|Inline_text}})
+*4 [[Seasonal Spirits]] ({{Spirit|Running Wayfarer|Inline_text}},{{Spirit|Mindful Miner|Inline_text}},{{Spirit|Warrior of Love|Inline_text}},{{Spirit|Seed of Hope|Inline_text}})
+{{Clear}}
+{{Mobile Tabber
+|tab1 = {{Emote|Cheerful Spectator|tab}}
+|c1   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Cheerful Spectator|Summary}} {{#lst:Cheerful Spectator|Friendship Tree}} </div>
+|type1= regular
+
+|tab2 = {{Emote|Bowing Medalist|tab}}
+|c2   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Bowing Medalist|Summary}} {{#lst:Bowing Medalist|Friendship Tree}} </div>
+|type2= regular
+
+|tab3 = {{Emote|Proud Victor|tab}}
+|c3   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Proud Victor|Summary}} {{#lst:Proud Victor|Friendship Tree}} </div>
+|type3= regular
+
+|line4= true
+|tab4 = {{Emote|Running Wayfarer|tab}}
+|c4   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Running Wayfarer|Summary}} {{#if: {{#lst:Running Wayfarer|TS Friendship Tree}} | {{#lst:Running Wayfarer|TS Friendship Tree}} | {{#lst:Running Wayfarer|Season Friendship Tree}} }} </div>
+|type4= seasonal
+
+|tab5 = {{Emote|Mindful Miner|tab}}
+|c5   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Mindful Miner|Summary}} {{#if: {{#lst:Mindful Miner|TS Friendship Tree}} | {{#lst:Mindful Miner|TS Friendship Tree}} | {{#lst:Mindful Miner|Season Friendship Tree}} }} </div>
+|type5= seasonal
+
+|tab6 = {{Emote|Warrior of Love|tab}}
+|c6   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Warrior of Love|Summary}} {{#if: {{#lst:Warrior of Love|TS Friendship Tree}} | {{#lst:Warrior of Love|TS Friendship Tree}} | {{#lst:Warrior of Love|Season Friendship Tree}} }} </div>
+|type6= seasonal
+
+|tab7 = {{Emote|Seed of Hope|tab}}
+|c7   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Seed of Hope|Summary}} {{#if: {{#lst:Seed of Hope|TS Friendship Tree}} | {{#lst:Seed of Hope|TS Friendship Tree}} | {{#lst:Seed of Hope|Season Friendship Tree}} }} </div>
+|type7= seasonal
+}}
+
+==<span id="Temple">Valley Temple</span>==
+[[File:Valley Temple1.png|right|300px]]
+Beyond the [[#Coliseum|Coliseum]] lies the Valley Temple, a monument overlooking the entire arena surrounded by two colossal statues. Inside, the Elders' Altar awaits encircled by candles. 
+
+After lighting the altars's candles and meeting them in a cutscene, the doors ahead open and beckons the players to the next realm, [[Golden Wasteland]].
+
+===<span id="Temple Maze">Temple Maze</span>===
+[[File:Valley-Temple-Maze.png|thumb|300px|The Temple Maze in the Valley of Triumph]]
+<section begin="Temple Maze" />The [[Valley of Triumph#Temple Maze|Temple Maze]] is a Seasonal area added to the [[Valley of Triumph]], introduced with the [[Season of Belonging]] in Patch {{v|0.7.0}}. You can reach this area by going to the Valley Temple, and heading to a hole in the wall to the left of the altar. The hole in the wall was blocked by a Spirit Gate, where during the season it required '''two (2)''' Belonging [[Seasonal Spirits]], but now requires '''one (1)''' [[Regular Spirits|Regular Spirit]] from Wasteland - however the above entrance has no Spirit Gate. This maze is a multi-level, with an entrance gate on the left near the ground, and an exit up above, along the left-side wall as you enter. The [[Sparkler Parent]] is found here, where you follow their memories down the dark maze.<section end="Temple Maze" />
+
+In the Temple Maze, players can find:
+*1 [[Children of Light#Valley Temple|Child of Light]]
+*1 [[Seasonal Spirit]] ({{Spirit|Sparkler Parent|Inline_text}})
+
+{{Mobile Tabber
+|tab1 = {{Emote|Sparkler Parent|tab}}
+|c1   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Sparkler Parent|Summary}} {{#lst:Sparkler Parent|TS Friendship Tree}} </div>
+|type1= seasonal
+}}
+
+==Points of Interest ==
+===Social Light areas===
+<span id="Village Theater Bouquets"></span>
+<span id="Dream Skater"></span>
+<span id="Maze Campfire"></span>
+{{Mobile Tabber|textonly = 1
+|tab1 = Village Theater Bouquets
+|c1   = <div>
+{{#lst:Additional Light Sources|Theater Summary}}[[Additional_Light_Sources#Village Theater|For more information, see here]]. </div>
+|tab2 = Dreams Skater
+|c2   = <div>
+{{#lst:Additional Light Sources|Dreams Skater Summary}}[[Additional_Light_Sources#Dreams Skater|For more information, see here]]. </div>
+|tab3 = Maze Campfire
+|c3   = <div>
+{{#lst:Additional Light Sources|Maze Campfire Summary}}[[Additional_Light_Sources#Maze Campfire|For more information, see here]]. </div>}}
+
+===Activities===
+<span id="Shared Space Shrines"></span> <span id="Shared Space Shrines"></span>
+<span id="Shard Eruptions"></span>
+<span id="Yeti Race"></span>
+{{Mobile Tabber|textonly = 1
+|tab1 = Shared Space Shrines
+|c1   =
+<div> [[File:Shared-spaces-Valley-AURORA.jpg|thumb|250px]][[File:Shared-spaces-Valley-Dreams.jpg|thumb|250px]]
+In Valley of Triumph, there are two [[Shared Space Shrines]] one in the [[#Coliseum| Coliseum]], in the middle tier right of the massive statue and the other in [[#Hermit Valley|Hermit Valley]]. A way to play in private or public with friends using props. Shared Space Shrines are accessible to all players who have access to Daylight Prairie but must have at least two props to access edit mode. You can have up to 16 props available at a time on your Shared Space, but can be much less depending on the "load" of the props as determined by how much the top bar fills up. Within the Valley Shared Spaces, there is a featured prop given to the player to place regardless of if it is owned, being {{Icon|Shared-Spaces-Sparkler-prop-icon-0-aliferous-twiq-0.png|inline_text|link=Shared Spaces|label=Shared Spaces Sparkler}}. Once a prop is in use, it will stay where you left it as long as you don't move it or remove it. The items are sorted by how much "load” they use in a Shared Space, listed from left to right.</div>
+
+|tab2 = Shared Memory Shrines
+|c2   =
+<div> [[File:Shared-Memory-Shrine-Coliseum.png|thumb|250px]][[File:Shared-Memory-Shrine-Village-Theater.png|thumb|250px]]
+In Valley of Triumph, there are two [[Shared Memory Shrines]] one in the [[#Coliseum|Coliseum]], in the middle tier right of the massive statue and the other in [[#Village Theater|Village Theater]]. A way to allow players to show a glimpse of their past for others to see, Shared Memory Shrines are accessible to all players who have access to Valley of Triumph.</div>
+
+|tab3 = Shard Eruptions
+|c3   = <div>A mechanic implemented with the [[Season of Shattering]], shards periodically erupt from the mountain on the horizon, falling multiple times a day in one predetermined location, determined with the daily quest realm (the top of the realm's portal will also have shards embedded). See more in the [[Shard Eruptions]] page. Eruptions in Valley can occur in the following areas:
+* Regular Eruptions
+** Ice Rink, on the left side besides the hole into the underground part
+** Ice Rink, right side, nearby the path to Sliding Race transition
+** Ice Rink, on the icerink besides the ledge with the Confident Sightseer atop
+* Strong Eruptions
+** Village of Dreams, at the small-sized ice rink nearby the path to [[#Village Theater|Village Theater]] and path from [[#Social Space]]
+** Village of Dreams, besides the Dreams Guide
+** Hermit Valley, outside of the hideout</div>
+
+|tab4 = Yeti Race
+|c4   = <span> In the [[#Hermit Valley|Hermit Valley]], players are able to compete in a race found atop the Hermit's cave. Unlike the Sliding Race or Flying Race found in Valley, the amount of Wax earned at increases based on the amount of light fragments collected throughout the race. In order to begin the race, a minimum of two players are required to sit on top of the start posts on top the cave.
+In the first part of the race (from the Hermit Valley to the transition into the Village of Dreams) there is no time limit. However from the Village of Dreams and downwards a timer of 120 seconds begins. A minimum of 150 wax (only one fragment collected) and a maximum of 300 wax (every fragment collected) can be earned depending on the amount of fragments collected. The amount collected is shared between all participants so it is recommended to work together to collect every fragment to earn the maximum amount of wax. This race can only be done once per day.</span>}}
+
+===Easter Eggs===
+<span id="Hotspring"></span> <span id="Hot Spring"></span>
+<span id="Performance Penguin"></span>
+<span id="AURORA Third Quest"></span>
+{{Mobile Tabber|textonly=1
+|tab1 = Hotspring
+|c1   = <div> [[File:Valley-HotSpring1.png|thumb|300x300px]]
+The Hotspring, a once-social-light area, now is a secluded area holding one [[Treasure Candle]]. A sanctuary nestled amidst the snowy village, it can be found in the [[Valley of Triumph#Village of Dreams|Village of Dreams]], on the mountain near the [[Dreams Guide]]. From the transition from the [[#Social Space|Social Space]], fly forwards towards [[Children_of_Light#Village_of_Dreams_(3)|Valley's Wing Light #12]] and keep flying up. There will be a hidden spot within the mountain with steam, where the Hot Spring is. This location can occasionally be featured in a [[Quests#General_Quests_in_Valley|Daily Quest]]; {{Icon|Quest-icon.png}} Visit the Hotsprings in the Village of Dreams</div>
+
+|tab2 = Performance Penguin
+|c2   = <div> [[File:Valley_PenguinEasterEgg by AL.png|thumb|200px]]
+Within the [[#Village Theater|Village Theater]], there is a distant Penguin that the player can find with some glitching. It's wearable and stays on the avatar until they leave the area; they're able to fly, walk around and do everything normally. '''However''' this is only visible on the wearer's client. Nobody else can see you wearing the penguin suit. While reaching it can be done by only flying, it's recommended to have a table and a friend to act as a back-up incase you get lost. In the infographic, the path begins from above the [[Performance Guide]], on top the cliff.</div>
+
+|tab3 = AURORA Third Quest
+|c3 = <div> [[File:Valley-AURORA-Third-Quest-Easter-Egg.jpg|thumb|300px]]
+At the very beginning of the [[Season of AURORA#Quest #3|third Quest]] from the Season of AURORA, the text "U=Warrior!" with two firework symbols and a heart appears shortly at the very beginning of the song. This is based on AURORA's song "Warrior", which plays during the Quest, calling the player a warrior, with the "U" standing for "You". The location of the text can be found in the [[#Citadel|Citadel]] in Valley of Triumph, on a ledge behind the corridor with a few candles in it, north-west of the Quest starting point.</div>
+}}
+
+==Seasonal Spirits==
+In Valley of Triumph, [[Seasonal Spirits]] from Season of {{Season Icon|gratitude|inline_text|label=Gratitude}}, {{Season Icon|lightseekers|inline_text|label=Lightseekers}}, {{Season Icon|belonging|inline_text|label=Belonging}}, {{Season Icon|rhythm|inline_text|label=Rhythm}}, {{Season Icon|dreams|inline_text|label=Dreams}}, {{Season Icon|performance|inline_text|label=Performance}}, and {{Season Icon|aurora|inline_text|label=AURORA}} can be found scattered around the realm. Collecting the Seasonal Spirits do not count towards realm constellation Spirit Gates. You will be able to collect their base level emotes, but in order to collect the cosmetics or expression upgrades, you will have to wait for the Spirit to return as a [[Traveling Spirit]]. Anything bought from their Friendship Trees do not count towards Realm Constellation Progression.
+{{Spirit Group|valley|type=seasonal|format=gallery}}
+Additionally, Seasonal Quests from {{Season Icon|Dreams|inline_text}}, in the [[Village of Dreams]], and {{Season Icon|Performance|inline_text}}, in the [[Village Theater]], can be completed. Aswell {{Season Icon|Enchantment|inline_text}}'s [[Season_of_Enchantment#Quest_#2|Quest #2]], with the blue light, {{Season Icon|Little Prince|inline_text}}'s [[Season_of_The_Little_Prince#Quest_#5|Quest #5]], and {{Season Icon|Aurora|inline_text}}'s [[Season_of_AURORA#Quest_#3|Quest #3]] can be done.  All quests require activation from their respective Season Guide to play then. Only AURORA's and Dream's Quests can be replayed.
+
+==Constellation Summary==
+{{Constellation Summary}}
+{{#lst:Regular Spirits/Friendship Trees|Constellation Summary Header}}
+{{#lst:Regular Spirits/Friendship Trees|Valley Constellation Summary}}
+|} <!--These are needed to close the table from the LSTs above-->
+[[File:4-Valley-Printable.jpg|none|thumb|Printable chart]]
+
+==Video Walkthrough==
+<gallery>
+File:Sky- Children of the Light New Walkthrough Valley of Triumph- Spirits and Winged Light
+File:Sky Children of the Light Emotes and Emote Upgrades in Valley of Triumph
+</gallery>
+
+==Map==
+{{Mobile Tabber
+|tab1 = {{Icon|Location-map-icon-Ray.png|tab}}
+|c1   = {{Map:Valley of Triumph}}
+|tab2 = {{Icon|Map-Shrine-Realm-Temple-Indicator.png|tab}}
+|c2   = {{Map:Whole Shrine Map}}
+}}
+
+== Trivia==
+*In concept art, Valley of Triumph was often referred to as "Adulthood".
+*The Social Space and Ice Rink were used as the [[Days of Fortune#January 2024|Days of Fortune 2024]] event space, with the hourly Dragon event taking place as a race down the Ice Rink slope to the Ice Rink.
+
+===Change History===
+{{Scrollbox|height=400px|text=<div>
+Pre-2019
+* First called ''Sunset'', then later changed to ''Valley of Triumph'', then shortened to ''Valley'', then finally back to ''Valley of Triumph'' in June 2019.
+----
+{{v|0.6.0}}
+* With [[Season of Lightseekers]], [[Twirling Champion]] has been added to [[#Ice Rink Slope|Ice Rink Slope]] as a Seasonal Spirit
+----
+{{v|0.7.0}}
+* With [[Season of Belonging]], [[Sparkler Parent]] has been added to [[#Valley Temple|Temple]] as a Seasonal Spirit
+----
+{{v|0.8.0}}
+* With [[Season of Rhythm]], [[Troupe Juggler]] has been added to [[#Ice Rink Slope|Ice Rink Slope]] as a Seasonal Spirit, along with a winding tunnel
+* The portal to Home within the [[#Social Space|Social Space]] have been replaced by a Return Shrine.
+----
+{{v|0.9.0}}
+* With [[Season of Enchantment]], the [[Season_of_Enchantment#Quest_#2|Blue Light]] has been added into [[#Ice Rink Slope|Ice Rink Slope]]
+{{v|0.9.5}}
+* Changes to Ancestor Tombstones in Social Space, now showcasing Valley's Regular Spirits instead of [[Hidden Forest|Forest]]'s
+----
+{{v|0.12.0}}
+* With [[Season of Dreams]], the [[#Village of Dreams|Village of Dreams]] (and [[#Hermit Valley|Hermit Valley]] with 6 Seasonal Spirits introduced. In addition with an entrance in the [[#Social Space|Social Space]]
+----
+{{v|0.13.0}}
+* Addition of [[Treasure Candles]] throughout Valley with introduction of [[Daily Light]]
+----
+{{v|0.14.0}}
+* Past Seasonal spirits now [[Seasonal_Spirits#Finding_Seasonal_Spirits|permanently available to relive]]
+----
+{{v|0.15.0}}
+* A Wind Path from [[The Wind Paths]] area in [[Hidden Forest]] to [[#Hermit Valley|Hermit Valley]] added
+----
+{{v|0.17.0}}
+* With [[Season of Performance]], the [[#Village Theater|Village Theater]] with 4 Seasonal Spirits introduced. In addition with an entrance in the [[#Village of Dreams|Village of Dreams]]
+----
+{{v|0.18.0}}
+* With [[Season of Shattering]], some areas have been slightly adjusted for the periodically falling [[Shard Eruptions]]
+----
+{{v|0.19.0}}
+* With [[Season of AURORA]], the left side of the [[#Coliseum]] revamped to hold AURORA's activities and 4 Seasonal Spirits. Additionally [[Season_of_AURORA#Quest_#4|AURORA's Quest #4]]'s meditation ring added in [[#Citadel|Citadel]]
+* Addition of [[Map Shrines]] throughout Valley
+----
+{{v|0.21.0}}
+* Home Shrines, including any redundant Bird Statues, are removed.
+</div>}}
+
+==In Other Languages==
+{{Help|lang}} 
+{{Other Languages|title=Valley of Triumph
+|fr            = Vallée du triomphe
+|fr_meaning    = Triumphal Valley <!-- Machine Translated -->
+|ja            = 峡谷 (Kana: きょうこく)
+|ja_rom        = Kyokoku
+|ja_meaning    = Valley
+|id            = Lembah Kejayaan
+|id_meaning    = Valley of Glory <!-- Machine Translated -->
+|de            = Tal des Triumphs
+|de_meaning    = Valley of Triumph <!-- Machine Translated -->
+|vi            = Thung Lũng Vinh Quang (Hán Nôm: 舂隴榮光)
+|vi_meaning    = Valley of Glory <!-- Machine Translated -->
+|ko            = 승리의 계곡 (Hanja: 勝利의 溪谷)
+|ko_rom        = Seungliui Gyegog
+|ko_meaning    = Valley of Triumph <!-- Machine Translated -->
+|es            = Valle del Triunfo
+|es_meaning    = Valley of Triumph <!-- Machine Translated -->
+|it            = Valle del Trionfo
+|it_meaning    = Valley of Triumph <!-- Machine Translated -->
+|pt            = Vale do Triunfo
+|pt_meaning    = Valley of Triumph <!-- Machine Translated -->
+|ru            = Долина триумфа
+|ru_rom        = Dolina triumfa
+|ru_meaning    = Valley of Triumph <!-- Machine Translated -->
+|zh_cn         = 霞谷 
+|zh_cn_rom     = Mandarin: Xiá Gǔ / Cantonese: Haa4 Guk1
+|zh_cn_meaning = Valley of Crepuscular Clouds <!--Verified by Native Speaker @Fanlinger-->
+|zh_netease         = 霞谷 
+|zh_netease_rom     = Mandarin: Xiá Gǔ / Cantonese: Haa4 Guk1
+|zh_netease_meaning = Valley of Crepuscular Clouds <!--Verified by Native Speaker @Fanlinger-->
+|zh_tw         = 霞谷 
+|zh_tw_rom     = Mandarin: Xiá Gǔ / Cantonese: Haa4 Guk1
+|zh_tw_meaning = Valley of Crepuscular Clouds <!--Verified by Native Speaker @Fanlinger-->
+}}
+
+==References==
+<references />
+
+{{RealmsNav}} {{Navigation Box}}
+
+[[Category:Realms]] 
+ 
+
+
+[[ru:Долина триумфа]]
+[[fr:Vallée du triomphe]]
+[[es:Valle del Triunfo]]
+[[pt-br:Vale do Triunfo]]
+[[de:Tal des Triumphs]]
+[[Category:Valley of Triumph]]

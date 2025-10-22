@@ -1,0 +1,112 @@
+{{Spirit Infobox
+|type      = Regular
+|emote_type= Emote
+|image     = <gallery>
+Vault-Spirit-Praying-Acolyte.png|Standard
+Vault-Spirit-Praying-Acolyte-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Hair|infobox}}{{Spirit Item||Cape|infobox}}{{Spirit Item||Tier 2 Cape|infobox}}
+|realm     = Vault of Knowledge
+|location  = First Floor Vault
+}}
+<section begin="Summary" />The '''Praying Acolyte''' is a [[Regular Spirit]] in the [[Vault of Knowledge]] who offers the {{Emote|Praying Acolyte|inline_text}} Expression. The Praying Acolyte is found on the [[First Floor Vault|First Floor of Vault]], behind the four-player door that requires the {{Emote|Telekinesis|inline_text}} Expression to open. The collectibles [[Praying Acolyte#Friendship Tree|offered]] by this Spirit are a {{Spirit Item|Praying Acolyte|Hair|inline_text}} and two tiers ({{Spirit Item|Praying Acolyte|Cape}} {{Spirit Item|Praying Acolyte|Tier 2 Cape}}) of a [[Praying Acolyte#Cape|Cape]].<section end="Summary" /><br>
+<br>
+[[File:Praying-Acolyte-Guide-777-Ed.png|320x320px|thumb|none|Image Guide by 777.Ed]]
+
+== Memory ==
+<div>{{#ev:youtube|https://www.youtube.com/watch?v=dIgC51kuNKM|||Video Guide by Tara||start=65&end=213&loop=1}}
+<br>
+The Praying Acolyte can be found on the [[First Floor Vault|First Floor of Vault]], to the right of the lantern-powered elevator and behind the four-player door that requires the {{Emote|Telekinesis|inline_text}} Expression to open. This Spirit is a [[Standard Memory|standard memory]] quest with 5 memory fragments and an unlimited overall [[Timed Memory|time limit]].
+
+As their memory unfolds, the Praying Acolyte tends to various graves in the area, praying at some tombstones and placing candles at others. The Spirit's last stop is at the top of a ledge overlooking the field of graves.
+
+At the end of the memory, the Praying Acolyte looks down upon the small graveyard from atop the ledge. They appear to be also admiring the star-like particles hovering above and press their hands together in respectful prayer.<br>
+<br>
+[[File:05 VK Spirit - Praying Acolyte.jpg|200px|thumb|none|Relive the Praying Acolyte's memory]]
+</div>
+{{Clear}}
+
+==Expression ==
+This Spirit offers the {{Emote|Praying Acolyte|inline_text}} [[Expression]], which has 4 Levels.
+
+''Unlocking this Expression is a prerequisite to learning the {{Emote|Meditating Monastic|inline_text}} Expression from [[Meditating Monastic]].''<br>
+<br>
+[[File:{{Icon Name||Emote}}|125px|left]]
+<gallery heights="125" captionalign="center">
+Praying-Acolyte-pray-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Praying-Acolyte-pray-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Praying-Acolyte-pray-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Praying-Acolyte-pray-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar bow their head and press both hands together in front of their chest. This action is continued for as long as you don't move your character.
+*Level 2 will make the same motion as Level 1 with a white halo of light surrounding both hands.
+*Level 3 will make your avatar raise their arms above their head before bringing them down to press together in front of their chest, head bowed deeply, and their Cape spread out like wings behind them. This action is continued for as long as you don't move your character.
+*Level 4 will make the same motion as Level 3 with a yellow glow surrounding both hands and light particles following their movements.
+
+The prices of the three Expression upgrades are {{Cost|3 C}}, {{Cost|5 C}}, and {{Cost|7 C}}. Levels 3 and 4 are only available after unlocking the Spirit's [[Wing Buff]].
+
+==Cosmetics==
+===Hair===
+The [[Hair]] offered by this Spirit is a long straight cut with a small blue clip at the end of a lock of hair on the left side, costing {{Cost|5 H}}. It is permanently available to all players after unlocking the Friendship Tree's second node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||hair}} {{!}} The Hair icon
+{{Icon Name||hair|real}} {{!}} The Hair front
+{{Icon Name||hair|side}} {{!}} The Hair side
+{{Icon Name||hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Cape===
+The Praying Acolyte offers two standard-style blue [[Capes]]; a Tier 1 and a [[Tier 2 Cape|Tier 2]] version, costing {{Heart|25}} and {{Heart|75}} respectively. Both are permanently available to all players after unlocking the Friendship Tree's fifth node and second [[Wing Buff]] respectively.
+
+The Tier 2 Cape (and the second Wing Buff that unlocks it) are not needed to complete the Vault [[Constellation]]. These were both added to the Friendship Tree in Patch {{v|0.12.3}} on February 6, 2021.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape}} {{!}} The Tier 1 Cape icon
+{{Icon Name||Cape|front}} {{!}} The Tier 1 Cape front
+{{Icon Name||Cape|interior}} {{!}} The Tier 1 Cape interior
+{{Icon Name||Cape|back}} {{!}} The Tier 1 Cape back
+|widths=125|captionalign=center|spacing=small
+}}
+
+{{#tag:gallery
+|{{Icon Name||Tier 2 Cape}} {{!}} The Tier 2 Cape icon
+{{Icon Name||Tier 2 Cape|front}} {{!}} The Tier 2 Cape front
+{{Icon Name||Tier 2 Cape|interior}} {{!}} The Tier 2 Cape interior
+{{Icon Name||Tier 2 Cape|real}} {{!}} The Tier 2 Cape back
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Friendship Tree==
+{{Friendship Tree Info | regular}}
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Praying Acolyte
+|image  = Vault-Spirit-Praying-Acolyte.png
+
+|nodeC8 = tier_2_cape 75 H BONUS
+|nodeC7 = wing 9 AC BONUS
+|nodeC6 = cape 25 H
+|nodeC5 = spell5
+|nodeL4 = emote4 7 C
+|nodeC4 = emote3 5 C
+|nodeC3 = wing 3 AC
+|nodeL2 = hair 5 H
+|nodeC2 = spell1
+|nodeR2 = heart
+|nodeL1 = emote2 3 C
+|nodeC1 = emote
+}}<section end="Friendship Tree" />
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+File:Emote Loc-Pray.png
+</gallery>
+
+==References==
+<references />
+
+[[de:Betender Messdiener]]
+[[pt-br:Acólito que Reza]]
+[[fr:Acolyte priant]]

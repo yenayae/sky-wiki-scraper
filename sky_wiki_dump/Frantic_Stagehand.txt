@@ -1,0 +1,149 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Action
+|image     = <gallery>
+Performance-Spirit-Frantic-Stagehand.png|Standard
+Performance-Spirit-Frantic-Stagehand-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Outfit|infobox}}{{Spirit Item||Mask|infobox}}{{Spirit Item||Hair|infobox}}
+|music     = {{Music Sheet|29}}
+|season    = Performance
+|realm     = Valley of Triumph
+|location  = Village Theater
+|ts        = March 4, 2024 (SV#5)<br>
+}}
+<section begin="Summary" />The '''Frantic Stagehand''' is a [[Seasonal Spirit]] from the [[Season of Performance]] who offers the {{Emote|Frantic Stagehand|inline_text}}. The Frantic Stagehand is found in the [[Village Theater]] on the player's left when coming from the [[Village of Dreams]], between two buildings. The collectibles [[#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Frantic Stagehand|Outfit|inline_text}}, a {{Spirit Item|Frantic Stagehand|Mask|inline_text}}, a {{Spirit Item|Frantic Stagehand|Hair|inline_text}}, and the {{Music Sheet|29|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:SoPerformance - Frantic Stagehand- spirit reveal.jpg|thumb|320px|none|TGC's Promo image]]
+
+== Memory ==
+<div>
+{{#ev:youtube|Pt1r-tEemZY||inline|Video Guide}}
+</div>
+The Frantic Stagehand can be found in the [[Village Theater]], on the player's left when entering from [[Village of Dreams]], between two buildings that face the Theater's stage. This Spirit has a [[Standard Memory|standard memory]] with 8 memory fragments and a 15-minute overall [[Timed Memory|time limit]]. 
+
+As their memory unfolds, the Frantic Stagehand can be seen carrying a large pile of props over to the Village Theater's stage. The [[Mellow Musician]] is seen leaning against a nearby building, and watches as the Stagehand drops a small item. The Stagehand walks back to pick up the fallen item, and continues on their way. After this, they drop a much bigger prop, and Musician rushes over to help pick up the larger prop. The two Spirits both carry the props together, sharing the workload for the rest of the walk.
+
+At the end of the memory, the two Spirits pause for a moment after dropping off the props near the backstage entrance. The Musician wipes their forehead, and Stagehand dusts off their hands. The Frantic Stagehand then extends a hand to the Mellow Musician, and the two gently shake hands.
+{{Clear}}
+
+== <span id="Expression">Friend Action</span> ==
+''Note: While this Spirit can be found in the Village Theater, the upgrade to the "Handshake" Friend Action will not be available for those who missed the Season or those who did not purchase the [[Season Pass]] until the Spirit returns as a Traveling Spirit.
+
+This Spirit offers the {{Emote|Frantic Stagehand|inline_text}}, which has 2 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Frantic-Stagehand-handshake-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Frantic-Stagehand-handshake-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+</gallery>
+
+*Level 1 will make your avatar extend their right hand before your friend, allowing them to shake your hand. You will gently shake your hands up and down while a series of bongo and percussion sound effects play.
+*Level 2 will make your avatar extend their right hand just as in Level 1, but when your friend accepts and holds out their hand, you will complete the handshake with two hands instead of one. Your hands will clasp around your friend's hand, and you will shake your friend's hand much more quickly than in Level 1. During this second Level, similar bongo and percussion sound effects play at a more rapid tempo. 
+
+Like any [[Friendship Menu#Extended Two-Player Abilities|Extended Two-Player Ability]], this ability can be upgraded by opening your friend's Friendship Menu. To reach the 12th node before the ability, it will cost you {{Cost|41 C}} and {{Cost|16 AC}}. (See [[Friendship Menu]] to view the entire Friendship Tree). Unlocking the Level 1 ability will cost you {{Cost|16 C}}. After unlocking Level 1, it will cost you {{Cost|18 C}} more to upgrade to Level 2.
+
+As a Returning Spirit, the price of the Friend Action upgrade was {{Cost|8 H}}. During the Season, Level 1 was free, but Level 2 was only available to [[Season Pass]] holders.
+
+== Cosmetics ==
+=== Outfit ===
+The [[Outfit]] offered by this Spirit is a dark blue, long-sleeved dress with a lighter grey shoulder piece and a paint-stained cloth attached to the side, costing {{Cost|70 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fifth node ({{Cost|88 SC|season=Performance}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Outfit|icon}} {{!}} The Outfit icon
+{{Icon Name||Outfit|real}} {{!}} The Outfit
+{{Icon Name||Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Mask ===
+The [[Mask]] offered by this Spirit is a round, stone gray mask with a pointed nose and a long, bushy monobrow, costing {{Cost|34 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fifth node ({{Cost|88 SC|season=Performance}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Hair ===
+The [[Hair]] offered by this Spirit is a dark blue hood with cat ear shapes and yellow stitching around the face-framing hem, costing {{Cost|48 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|10 SC|season=Performance}} total). Note that this item is considered a Hair, not a [[Hair Accessory]], and as such it can not be worn over other Hairstyles.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Music Sheet ==
+The Frantic Stagehand offers the {{Music Sheet|29}} [[Music Sheet]] #29, costing {{Cost|22 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's third node ({{Cost|32 SC|season=Performance}} total). It is a song in the key of F Major.<br>
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guide
+|content=
+{{#ev:youtube|2Jrpq45SThE||inline|Music Sheet Video Guide by Ikejiji}}
+}}
+
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling
+|rs_dates=*March 4, 2024 (SV#5)}}
+<section begin='TS Friendship Tree' />{{Friendship Tree
+|spirit = Frantic Stagehand
+|image  = SoPerformance - Frantic Stagehand.png
+|season = Performance
+|nodeC5 = Mask 34 C
+|nodeL4 = emote2 8 H
+|nodeC4 = spellx 5 C
+|nodeR4 = Outfit 70 C
+|nodeC3 = wing
+|nodeL2 = Hair 48 C
+|nodeC2 = spellx 5 C
+|nodeR2 = Heart 3 C
+|nodeL1 = music29 22 C
+|nodeC1 = emote
+}}<section end='TS Friendship Tree' />
+<!--
+===Hints===
+The hints given before the {{PAGENAME}}'s appearance were: 
+-->
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Performance}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Frantic Stagehand
+|image  = SoPerformance - Frantic Stagehand.png
+|type   = season
+|season = Performance
+
+|nodeC6 = season_heart 3 SC SP
+|nodeL5 = Outfit SP
+|nodeC5 = Mask 30 SC
+|nodeL4 = emote2 SP
+|nodeC4 = spellx 26 SC
+|nodeL3 = spellx SP
+|nodeC3 = music29 22 SC
+|nodeL2 = Hair SP
+|nodeC2 = spellx 10 SC
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Unique Daily Quests==
+{{#section-h:Quests/Daily Quest Spirits|{{PAGENAME}}}}
+
+== Personality ==
+On April 7 2022, TGC officially announced <ref name="Personality Tweet">https://twitter.com/thatskygame/status/1512218700925087754</ref> and introduced {{PAGENAME}} with the following personality traits:
+* '''{{PAGENAME}}, ensuring all is in place for opening night!'''
+* Has anxiety dreams about missing props
+* Carries at least 5 lists at all times
+* Annoyed the others don't also get to practice 20 min. early
+* Finds riddles to share with the Storyteller
+
+On February 27, 2023, after being asked "If Performance gang went on tour in an RV, who's driving?", Ash mentioned that "Frantic would be an EXCELLENT navigator to the driver though I imagine! The best to give directions, outlining travel stops, and prepping snacks for the trip"<ref>[https://discord.com/channels/575762611111592007/575827782144098304/1079837699617345536 Ash's Discord message about Frantic]</ref>.
+
+==References==
+<references />
+
+[[fr:Machiniste débordé]]
+[[de:Hektischer Bühnenarbeiter]]
+[[pt-br:Assistente de Palco Frenético]]
+[[ru:Суматошный постановщик]]

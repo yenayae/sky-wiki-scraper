@@ -1,0 +1,414 @@
+{{Spoilers}} {{Quote|<br>'''''Protect your light and find the source of Ancient Power'''''|Hidden Forest opening}}
+{{Realm
+| image         = Forest Thumbnail.png
+| previousRealm = [[Daylight Prairie]]
+| nextRealm     = [[Valley of Triumph]]
+| constellation = 03 Forest Constellation.png
+}}
+'''Hidden Forest''', often shortened to '''Forest''', is a concealed woodland with meditative rainfall. It is the third [[Realm]] the player enters, introducing the main gimmick for Forest: rainfall. Rainfall begins after player passes the first gate in the [[#Forest Clearing|Forest Clearing]]. It passively drains the player's light whenever they are unsheltered, which can be recharged by standing near a light source or by interacting with a friend. Hidden Forest is separated into seven areas. While the game does not explicitly mention the names of all the areas, it can be derived from landmarks and developer mentions. For reading simplicity, this page will be sectioning the areas further in depth. Throughout the Realm are the Assembly treehouses, smaller branches of the main Treehouse which hold Quests for the [[Season of Assembly]].<br>
+<br>
+Hidden Forest holds 8 [[Regular Spirits]] and 14 [[Seasonal Spirits]]. Locations of all available Children of Light, who hold Winged Light, can be found of the [[Children of Light#Hidden Forest|Children of Light]] page.
+
+==Social Space==
+[[File:Forest SocialSpace1.png|right|300px]]
+This is the area that you glide into after the transition from [[Daylight Prairie]], as well as where you spawn if you go through the Forest Portal.
+
+There is a bonfire in the center, surrounded by two benches. To the left is the [[Closet Shrine]] and a Meditative Stone, where you can get a [[Heart]] after a prompt to rate and review Sky on the App Store. The rating and review prompt will not display if you have disabled “App Rating and Review” in App Store settings, or you have triggered this prompt for more than three times over the past 365 days. In this case, the Meditative Stone seems to be “stuck” indefinitely, and you will not get the Heart reward.
+Scattered around the space are Spirit Tombstones, displaying Forest's [[Regular Spirits]]. From the Social Space, you take off into a concealed forest and glide through the clouds to the [[#Forest Clearing|Forest Clearing]]. The [[#Wind Paths|Wind Paths]] can also be accessed by taking off and flying to the immediate right, where an opening in the clouds can be found.
+
+In the Social Space, players can find a single [[Map Shrine#Hidden Forest|Map Shrine]].
+
+==<span id="Wind Paths">The Wind Paths</span>==
+{{Main|The Wind Paths}} [[File:Forest WindPaths1.png|right|300px]] {{#lst:Wind Paths|Quote}}
+{{#lst:Wind Paths|Summary}}
+
+In The Wind Paths, players can find:
+* 1 [[Children_of_Light#The Wind Paths|Children of Light]]
+* 1 [[Map Shrine#Hidden Forest|Map Shrine]]
+* 4 [[Seasonal Spirits]] ({{Spirit|Lively Navigator|inline_text}},{{Spirit|Light Whisperer|inline_text}},{{Spirit|Tinkering Chimesmith|inline_text}},{{Spirit|Talented Builder|inline_text}})
+
+{{#lst:Wind Paths|SpiritTabber}}
+
+==Forest Clearing==
+[[File:Forest ForestClearing1.png|right|300px]] [[File:Forest ForestClearing2.png|right|300px]] [[File:Forest ForestClearing3.png|right|thumb|300px|First Assembly treehouse]]
+Forest Clearing is a large plain with intact structures scattered throughout it. Before the gate to the left is a Sapling and a bench. Passing the gate triggers a cutscene where it begins raining in the whole Realm. Rain passively drains the player's light whenever they are unsheltered, which can be recharged by standing near a light source or interacting with a friend. In the first enclosed area, to the right under the arch is a secret place with white candles, which upon lighting summons [[Murals]]. Within the second area to the left is an Assembly treehouse holding the [[Season_of_Assembly#Quest_#1|Assembly Quest #1]] and [[Season_of_Assembly#Quest_#4|Assembly Quest #4]].
+
+In the Forest Clearing, players can find:
+* 2 [[Children_of_Light#Forest Clearing|Children of Light]]
+* 1 [[Map Shrine#Hidden Forest|Map Shrine]]
+* 1 [[Regular Spirits|Regular Spirit]] ({{Spirit|Shivering Trailblazer|inline_text}})
+* 2 [[Seasonal Spirits]] ({{Spirit|Baffled Botanist|inline_text}},{{Spirit|Scolding Student|inline_text}})
+{{Clear}}
+{{Mobile Tabber
+|tab1 = {{Emote|Shivering Trailblazer|tab}}
+|c1   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Shivering Trailblazer|Summary}} {{#lst:Shivering Trailblazer|Friendship Tree}}</div>
+|type1= regular
+
+|line2= true
+|tab2 = {{Emote|Baffled Botanist|tab}}
+|c2   = <div> {{#ev:youtube|ESYM7mzrZv8|400|right}} {{#lst:Baffled Botanist|Summary}} {{#lst:Baffled Botanist|TS Friendship Tree}} </div>
+|type2= seasonal
+
+|tab3 = {{Emote|Scolding Student|tab}}
+|c3   = <div> {{#ev:youtube|PmGCb1-bD_E|400|right}} {{#lst:Scolding Student|Summary}} {{#lst:Scolding Student|TS Friendship Tree}} </div>
+|type3= seasonal
+}}
+
+==The Treehouse==
+{{Main|The Treehouse}} [[File:Forest_Treehouse1.png|right|300px]] {{#lst:The Treehouse|Quote}}
+{{#lst:The Treehouse|Summary}}
+
+In The Treehouse, players can find:
+* 2 [[Children_of_Light#The Treehouse|Children of Light]]
+* 1 [[Map Shrine#Hidden Forest|Map Shrine]]
+
+==<span id="Forest Brook">Forest's Brook</span>==
+[[File:Forest ForestsBrook1.png|right|300px]] [[File:Forest ForestsBrook2.png|right|thumb|300px|Second Assembly Treehouse]]
+A transition takes you to an open area that is bisected by a river. Trees, treehouses, [[Flora,_Minerals_and_Elements_of_Sky#Darkness|Darkness]], [[Dark Crabs]], and [[Light Bloom|Light Blooms]] are discovered here. Dark Crabs can charge towards you and drain your light, while Light Blooms can hold the player and recharge your light. To the immediate right upon transition is a passage to [[#Elevated Clearing|Elevated Clearing]], where there is a cave opening blocked by a Spirit Gate requiring all 8 [[Regular Spirits]] from Hidden Forest to have been relived. To the upper left there is Assembly's second treehouse, holding [[Season_of_Assembly#Quest_#2|Assembly Quest #2]] and [[Season_of_Assembly#Quest_#5|Assembly Quest #5]]. Additionally, a Passage Mask is found left of the brook by a tree with Light Blooms, near the transition from the [[#Forest's Clearing|Forest Clearing]]. It offers the chance to begin [[Season_of_Passage#Quest_#2|Passage Quest #2]].
+
+In the Forest's Brook, players can find:
+* 4 [[Children_of_Light#Forest Brook|Children of Light]]
+* 1 [[Map Shrine#Hidden Forest|Map Shrine]]
+* 3 [[Regular Spirits]] ({{Spirit|Blushing Prospector|inline_text}} ,{{Spirit|Hide'n'Seek Pioneer|inline_text}}, {{Spirit|Pouty Porter|inline_text}})
+* 4 [[Seasonal Spirits]] ({{Spirit|Provoking Performer|inline_text}}, {{Spirit|Laidback Pioneer|inline_text}}, {{Spirit|Scaredy Cadet|inline_text}}, {{Spirit|Marching Adventurer|inline_text}})
+{{Clear}}
+{{Mobile Tabber
+|tab1 = {{Emote|Blushing Prospector|tab}}
+|c1   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Blushing Prospector|Summary}} {{#lst:Blushing Prospector|Friendship Tree}}</div>
+|type1= regular
+
+|tab2 = {{Emote|Hide'n'Seek Pioneer|tab}}
+|c2   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Hide'n'Seek Pioneer|Summary}} {{#lst:Hide'n'Seek Pioneer|Friendship Tree}}</div>
+|type2= regular
+
+|tab3 = {{Emote|Pouty Porter|tab}}
+|c3   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Pouty Porter|Summary}} {{#lst:Pouty Porter|Friendship Tree}}</div>
+|type3= regular
+
+|line4= true
+
+|tab4 = {{Emote|Provoking Performer|tab}}
+|c4   = <div> {{#ev:youtube|Plpl2MGoZYo|400|right}} {{#lst:Provoking Performer|Summary}} {{#lst:Provoking Performer|TS Friendship Tree}} </div>
+|type4= seasonal
+
+|tab5 = {{Emote|Laidback Pioneer|tab}}
+|c5   = <div> {{#ev:youtube|rlMGDjpznZo|400|right}} {{#lst:Laidback Pioneer|Summary}} {{#lst:Laidback Pioneer|TS Friendship Tree}} </div>
+|type5= seasonal
+
+|tab6 = {{Emote|Scaredy Cadet|tab}}
+|c6   = <div> {{#ev:youtube|9xJWRdPM_t0|400|right}} {{#lst:Scaredy Cadet|Summary}} {{#lst:Scaredy Cadet|TS Friendship Tree}} </div>
+|type6= seasonal
+
+|tab7 = {{Emote|Marching Adventurer|tab}}
+|c7   = <div> {{#ev:youtube|CC2oKWB_gu8|400|right}} {{#lst:Marching Adventurer|Summary}} {{#lst:Marching Adventurer|TS Friendship Tree}} </div>
+|type7= seasonal
+}}
+
+==<span id="Sunny Forest">Elevated Clearing</span>==
+[[File:Forest ElevatedClearing1.png|right|300px]] <!-- [[File:Forest ElevatedClearing3.png|right|300px|Grandma]] --> 
+Elevated Clearing, often called ''Sunny Forest'' by the community, is an area connecting two areas - [[#Forest's Brook|Forest's Brook]] and [[#Boneyard|Boneyard]] - offering an alternative pathway through Hidden Forest. It can be accessed at either end, requiring bypassing a Spirit Gate needing 8 Forest Regular Spirits relived.
+
+Towering trees populate the area, with two hollow trees standing out. One houses a table that seats eight players and was part of the [[Season of Belonging]] story. It now holds the [[Additional_Light_Sources#Grandma's_Dinner_Event|Grandma's Dinner Social Light Event]]. The other, seen from the bridge as a hollow tree, has a two-person trap door that leads to the [[#Underground Cavern|Underground Cavern]].
+
+In the Elevated Clearing, players can find:
+* 2 [[Children_of_Light#Elevated Clearing|Children of Light]]
+* 1 [[Map Shrine#Hidden Forest|Map Shrine]]
+
+==Underground Caverns==
+{{Main|Underground Caverns}}
+
+[[File:Forest ElevatedClearing2.png|right|thumb|300px|Entrance to Underground Cavern]] [[File:Forest UndergroundCavern1.png|right|300px]]
+{{#lst:Underground Caverns|Summary}} {{Wind Pathway|1}}, immediately under the platform with a [[Children_of_Light#Underground_Cavern_(4)|Child of Light (#14)]] - next to a non-functional gated structure.
+
+As players fall from the Elevated Clearing entrance, they will see Light Blooms and waxed pots of [[Butterflies]] blocked by Darkness. To further proceed into the cavern ahead, players will have to burn the pots and release a [[Deep Call]] to fly up with the Butterflies, climb the scattered Light Blooms, or enter the caverns via the [[#The Wind Paths|Wind Paths]].
+
+In the Underground Caverns, players can find:  
+*4 [[Children_of_Light#Underground Caverns|Children of Light]]
+*1 [[Map Shrine#Hidden Forest|Map Shrine]]
+*1 [[Seasonal Spirits|Seasonal Spirit]] ({{Spirit|Hairtousle Teen|inline_text}})
+{{Clear}}
+{{Mobile Tabber
+|tab1 = {{Emote|Hairtousle Teen|tab}}
+|c1   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Hairtousle Teen|Summary}} {{#lst:Hairtousle Teen|TS Friendship Tree}}</div>
+|type1= seasonal
+}}
+
+==<span id="Broken Bridges"><span id="Tree Tunnels">Boneyard</span></span>==
+[[File:Forest Boneyard1.png|right|300px]] [[File:Forest Boneyard2.png|right|300px]] <!--[[File:Forest Boneyard3.png|right|thumb|300px|Third Assembly Treehouse]]-->
+
+The first part of this area consists mainly of hollow tree tunnels and the final treehouse from [[Season of Assembly]]. Scattered around are Light Blooms, along with Darkness. To the left is an expansive lake surrounded by trees. Straight ahead leads to the second half of the area. To the right is Assembly's third treehouse, holding the [[Season_of_Assembly#Quest_#3|Assembly Quest #3]] and the [[Season_of_Assembly#Quest_#6|Assembly Quest #6]]. There is also a Passage Mask near the transition from [[#Forest's Brook|Forest's Brook]], to the immediate left with the lamp, offering [[Season_of_Passage#Quest_#5|Passage Quest #5]].
+
+The second half is a flooded land with broken bridges, [[Whales|Whale]] bones, and ruined trees. To the right is a passage to [[#Elevated Clearing|Elevated Clearing]] blocked by a Spirit Gate requiring all 8 Forest Regular Spirits relived. From here the player has to reach the [[#Forest Temple|Forest Temple]] overlooking the entire area from above. To reach it, light all 3 bridge towers in order, or fly to the final tower and light all the white candles. Subsequently, swarms of [[Jellyfish]] will appear as the rain stops in the area, allowing the player to proceed towards the Temple - by flying to it directly or jumping from Jellyfish to Jellyfish. Alternatively, follow the flock of [[Birds]] flying to the Temple.
+
+In the Boneyard, players can find: 
+*3 [[Children_of_Light#Boneyard|Children of Light]]
+*1 [[Map Shrine#Hidden Forest|Map Shrine]]
+*4 [[Regular Spirits]] ({{Spirit|Dismayed Hunter|inline_text}},{{Spirit|Apologetic Lumberjack|inline_text}}, {{Spirit|Whale Whisperer|inline_text}}, {{Spirit|Tearful Light Miner|inline_text}})
+*3 [[Seasonal Spirits]] ({{Spirit|Admiring Actor|inline_text}},{{Spirit|Chuckling Scout|inline_text}},{{Spirit|Daydream Forester|inline_text}})
+
+{{Mobile Tabber
+|tab1 = {{Emote|Dismayed Hunter|tab}}
+|c1   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Dismayed Hunter|Summary}} {{#lst:Dismayed Hunter|Friendship Tree}}</div>
+|type1= regular
+
+|tab2 = {{Emote|Apologetic Lumberjack|tab}}
+|c2   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Apologetic Lumberjack|Summary}} {{#lst:Apologetic Lumberjack|Friendship Tree}}</div>
+|type2= regular
+
+|tab3 = {{Emote|Whale Whisperer|tab}}
+|c3   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Whale Whisperer|Summary}} {{#lst:Whale Whisperer|Friendship Tree}}</div>
+|type3= regular
+
+|tab4 = {{Emote|Tearful Light Miner|tab}}
+|c4   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Tearful Light Miner|Summary}} {{#lst:Tearful Light Miner|Friendship Tree}}</div>
+|type4= regular
+
+|line5= true
+|tab5 = {{Emote|Admiring Actor|tab}}
+|c5   = <div> {{#ev:youtube|udNx0801Js4|400|right}} {{#lst:Admiring Actor|Summary}} {{#lst:Admiring Actor|TS Friendship Tree}} </div>
+|type5= seasonal
+
+|tab6 = {{Emote|Chuckling Scout|tab}}
+|c6   = <div> {{#ev:youtube|pzaNKgM5m88|400|right}} {{#lst:Chuckling Scout|Summary}} {{#lst:Chuckling Scout|TS Friendship Tree}} </div>
+|type6= seasonal
+
+|tab7 = {{Emote|Daydream Forester|tab}}
+|c7   = <div> {{#ev:youtube|vu54MOz-zjY|400|right}} {{#lst:Daydream Forester|Summary}} {{#lst:Daydream Forester|TS Friendship Tree}} </div>
+|type7= seasonal
+}}
+
+== <span id="Temple">Forest Temple</span>==
+[[File:Forest Temple1.png|right|300px]]
+After ascending the Jellyfish to the top, the player reaches the Forest Temple. The Forest Temple is a large cathedral overlooking the entirety of the [[#Boneyard|Boneyard area]]. Entry is blocked by two buttons on the side of the door, which upon lighting open the door.
+
+The interior is factory-like, with elevators and buttons to be lit. There are a few patches of Darkness Plants here, but no Spirits. To the right of the central shrine is a grand Darkness Plant that rises several steps above the works. This plant has a couple of major branches to climb. While you're burning down one branch, the other will regrow, so it will take two players working together to completely burn it out. Once an entire branch is burned, one player may guard the bottom of the plant while another finishes the other side. There are also [[Dark Crabs|Crabs]] near the plant, so [[Deep Call|Deep Calling]] is recommended to knock out the Crabs, as well as recharge nearby players' light.
+
+Light the rotating panel in the center to raise the Elder's altar. Lighting up the three candles of the altar will bring up a meditating circle where you can sit to meet the [[Elder of the Forest]] in a cutscene and open the two large doors leading to the [[#Forest End|Forest End]].
+
+In the Forest Temple, players can find: 
+*1 [[Map Shrine#Hidden Forest|Map Shrine]]
+
+==Forest End==
+[[File:Forest ForestEnd1.png|right|300px]]
+While still technically part of the [[#Temple|Forest Temple]] area, the general scheme differs greatly from the Temple. This is a bright place with many light creatures, offering a space to relax and a few extra benches to converse with other players. Use the [[Jellyfish]] (or the [[Butterflies]] via [[Deep Call]]) and fly up and out through the cloud tunnel, completing Hidden Forest and flying up to the next Realm, the [[Valley of Triumph]].
+
+In the Forest End, players can find:  
+* 1 [[Children_of_Light#Forest End|Child of Light]]
+*1 [[Map Shrine#Hidden Forest|Map Shrine]]
+
+==Points of Interest==
+===Social Light Areas===
+<span id="Brook Campfire"></span>
+<span id="Cloud Tunnel"></span>
+<span id="Grandma's Dinner"></span>
+{{Mobile Tabber|textonly=1
+|tab1 = Brook Campfire
+|c1   = <div>
+{{#lst:Additional Light Sources|Brook Campfire Summary}} [[Additional_Light_Sources#Brook Campfire|For more information, see here]]. </div>
+
+|tab2 = Cloud Tunnel
+|c2   = <div>
+{{#lst:Additional Light Sources|Forest Windpath Tunnel Summary}} [[Additional_Light_Sources#Cloud Tunnel|For more information, see here]]. </div>
+
+|tab3 = Grandma's Dinner
+|c3   = <div>
+{{#lst:Additional Light Sources|Grandma's Dinner Summary}} [[Additional_Light_Sources#Grandma's Dinner Event|For more information, see here]].</div>
+}}
+{{Clear}}
+
+===Activities===
+<span id="Shared Space Shrines"></span> <span id="Shared Space Shrines"></span>
+<span id="Shard Eruptions"></span>
+{{Mobile Tabber|textonly=1
+|tab1 = Shared Space Shrines
+|c1   =
+<div> [[File:Shared-spaces-Forest-Assembly.jpg|thumb|250px]] [[File:Shared-spaces-Forest-Flight.jpg|thumb|250px]]
+In Hidden Forest, there are two [[Shared Space Shrines]], in [[#The Treehouse|The Treehouse]] and [[#The Wind Paths|The Wind Paths]], offering a way to play in private or public with friends using [[Props]]. Shared Space Shrines are accessible to all players who have progressed to Daylight Prairie. You can have up to 16 Props placed at a time in your Shared Space, but it can be much less depending on the "volume" of the Props as determined by how much the top bar fills up. Within the Forest Shared Spaces, there are [[Shared Spaces#Featured Props|featured Props]] given to the player to place regardless of if it is owned, being the {{Spirit Item|Scaredy Cadet|Prop|inline_text}}, {{Icon|Shared-Spaces-Standing-Lantern-prop-icon-Morybel-0146.png|inline_text|link=Shared Spaces#Shared Spaces Standing Lantern|label=Shared Spaces Standing Lantern}}, and {{Spirit Item|Assembly Guide|prop_t|inline_text|link=Assembly Guide#Tent Prop|label=Assembly Guide Tent}}. Once a Prop is in use, it will stay where you left it as long as you don't move it or remove it. The items are sorted by how much "volume” they use in a Shared Space, listed from left to right.</div>
+
+|tab2 = Shard Eruptions
+|c2   =
+<div> A mechanic implemented with the [[Season of Shattering]], Shards periodically erupt from the mountain on the horizon, falling multiple times a day in one predetermined location, determined with the Daily Quest Realm (the top of the Realm's portal will also have shards embedded). See more in the [[Shard Eruptions]] page. Eruptions in Forest can occur in the following areas:
+
+* Regular Eruptions
+** Forest Brook, on the right ledge with the gazebo, campsite, and [[#Rainbow|Rainbow]]
+** Forest Brook, nearby the pipe where the {{Spirit|Provoking Performer|inline_text}} Spirit is located
+** First half of Boneyard, next to the tower with [[Children_of_Light#Tree_Tunnels_and_Boneyard_(3)|Winged Light #8]]
+* Strong Eruptions
+** The Treehouse, at the path towards the treehouse itself
+** Elevated Clearing, towards the Boneyard transition
+** Forest End, on the far right side
+** Forest End, on the left side near the [[#Forest Temple|Forest Temple]]</div>
+}}
+{{Clear}}
+
+===Easter Eggs===
+<span id="Eagle Eggs"></span>
+<span id="Rainbow"></span>
+<span id="Ancient Cave Paintings"></span>
+<span id="Friendly Flight Bird"></span>
+<span id="Flight Airplane"></span>
+{{Mobile Tabber|textonly=1
+|tab1 = Eagle Eggs
+|c1   =
+<div>From the last tower of [[Boneyard]], instead of jumping on the Jellyfish leading towards the Forest Temple, fly to the right to a big tree stump that has glowing mushrooms growing on it; you will find 2 Easter eggs in a nest. Back in [[Sky: Light Awaits]], they were part of a Daily Quest; "Visit the Eagle's Nest in Forest".
+<gallery widths="300" spacing="small" mode="nolines">
+forest nest.png
+</gallery> </div>
+
+|tab2 = Rainbow
+|c2   =
+<div>A rainbow can be seen twice a day in Hidden Forest. It will appear at 5 a.m. and 5 p.m. (both) Pacific Time and remain for 30 minutes. You can find this rainbow above the entrance to [[#Elevated Clearing|Elevated Clearing]] in [[#Forest's Brook|Forest's Brook]]. If you walk past the large campfire, you can find a little clock that indicates the time of the event.
+<gallery widths="300" spacing="small" mode="nolines">
+Forest rainbow.png
+</gallery> </div>
+
+|tab3 = Ancient Cave Paintings
+|c3   =
+<div>The paintings that you can find in [[#Forest Clearing|Forest Clearing]] were part of a Daily Quest back in the pre-global launch [[Sky: Light Awaits]]: "View the ancient cave paintings in Forest" Daily Quest. The paintings are still available to see but have no purpose other than being a nice part of the ''Sky'' lore. You can find these paintings in a cave located after the first gate, to the right under the covered walkway. Light the candles to discover the [[Murals]].
+<gallery widths="100" spacing="small" mode="nolines">
+mural-forest-gate-hallway-01.png
+mural-forest-gate-hallway-02.png
+mural-forest-walled-area-tunnel-01.png
+mural-forest-walled-area-tunnel-02.png
+mural-forest-walled-area-tunnel-03.png
+mural-forest-walled-area-tunnel-04.png
+mural-forest-walled-area-tunnel-05.png
+</gallery> </div>
+
+|tab4 = Friendly Flight Bird
+|c4   = <div>[[File:SOF Friendly Easter egg allubys.png|thumb|200px]]
+In [[#The Wind Paths|The Wind Paths]] area, there is a [[Birds|Bird]] that follows you throughout the area. To trigger it, [[Season_of_Flight#Quest_#4|Flight's Quest #4]] must be completed. Once done, call on the second pole from the cave on the far right of the main island and a bird will fly to you from the distance. They continue following the player until they leave the area.</div>
+
+|tab5 = Flight Airplane
+|c5   = <div>[[File:SOF Airplane Easteregg lovecry.png|thumb|200px]]
+There is an airplane in the sky of the [[#The Wind Paths|The Wind Paths]]. To find it, enter the cloud tunnels area and fly to the very end, where there is an island with a bundle of candles. Looking up from here, there is a cloud opening. Fly towards it until the scene turns green. Keep flying up in hover mode until you reach the top. Finally, look around until you see a black airplane flying around that you can sit on.</div>
+}}
+{{Clear}}
+
+==Seasonal Content==
+In Hidden Forest, [[Seasonal Spirits]] from the Season of {{Season Icon|gratitude|inline_text|label=Gratitude}}, {{Season Icon|lightseekers|inline_text|label=Lightseekers}}, {{Season Icon|belonging|inline_text|label=Belonging}}, {{Season Icon|rhythm|inline_text|label=Rhythm}}, {{Season Icon|assembly|inline_text|label=Assembly}}, and {{Season Icon|flight|inline_text|label=Flight}} can be found scattered around the Realm. Collecting the Seasonal Spirits do not count towards unlocking Forest's Spirit Gates. You will be able to collect their base level Emotes, but in order to collect the Cosmetics or Expression upgrades, you will have to wait for the Spirit to return as a [[Traveling Spirit]]. Anything bought from their Friendship Trees do not count towards [[Constellations|Forest's Constellation]] progression.
+
+{{Spirit Group|forest|type=seasonal|format=gallery}}
+
+In addition, Seasonal Quests from {{Season Icon|assembly|inline_text}} can be completed to decorate [[The Treehouse]]. The {{Season Icon|enchantment|inline_text}}'s [[Season_of_Enchantment#Quest_#6|Quest #6, Orange Light]], {{Season Icon|little prince|inline_text}}'s [[Season_of_The_Little_Prince#Quest_#7|Quest #7]], {{Season Icon|AURORA|inline_text}}'s [[Season_of_AURORA#Quest_#2|Quest #2]], and {{Season Icon|passage|inline_text}}'s [[Season_of_Passage#Quest_#2|Quest #2]] & [[Season_of_Passage#Quest_#5|Quest #5]] are also found here. Seasonal Quests require activation from their respective Season Guide to start them. Only AURORA's and Passage's Quests are replayable at their respective locations.
+
+== Constellation Summary==
+{{Constellation Summary}}
+{{#lst:Regular Spirits/Friendship Trees|Constellation Summary Header}}
+{{#lst:Regular Spirits/Friendship Trees|Forest Constellation Summary}}
+|} <!--These are needed to close the table from the LSTs above-->
+[[File:3-Forest-Printable.jpg|none|thumb|Printable chart]]
+
+== Video Walkthrough==
+<gallery>
+File:Sky- Children of the Light- Stars (Winged Light) in Hidden Forest (updated)
+File:Sky- Children of the Light- NEW IN LIVE New Areas, New Stars Locations
+File:Sky Children of the Light New Walkthrough Hidden Forest Spirits and Winged Light|This video does not include the new Underground Caverns area of Hidden Forest.
+File:Sky- Children of the Light- Emotes, Emote Upgrades, and Cosmetics in Hidden Forest
+</gallery>
+
+==Map==
+{{Mobile Tabber
+|tab1 = {{Icon|Location-map-icon-Ray.png|tab}}
+|c1   = {{Map:Hidden Forest}}
+|tab2 = {{Icon|Map-Shrine-Realm-Temple-Indicator.png|tab}}
+|c2   = {{Map:Whole Shrine Map}}
+}}
+
+==Trivia==
+*The Underground Caverns are featured in a piece of merch from thatskyshop, in the form of the [[That Sky Shop/Wave 2#Hidden Portal of the Forest Pin|Hidden Portal of the Forest Pin]]. It has a [[STAR]] feature which allows you and the friends that you're holding hands with to teleport to the Underground Caverns in the Hidden Forest.
+
+===Change History===
+{{Scrollbox|height=400px|text=<div>
+Pre-2019
+* First called ''Rain'', then later changed to ''Weeping Forest'', then shortened to ''Forest'', then finally ''Hidden Forest'' in June 2019
+----
+{{v|0.6.0}}
+* With [[Season of Lightseekers]], [[Laidback Pioneer]] has been added to [[#Forest's Brook|Forest's Brook]] as a Seasonal Spirit.
+----
+{{v|0.7.0}}
+* With [[Season of Belonging]], [[Hairtousle Teen]] has been added into [[#Underground Caverns|Underground Caverns]] as a Seasonal Spirit.
+----
+{{v|0.8.0}}
+* With [[Season of Rhythm]], [[Admiring Actor]] has been added to [[#Boneyard|Boneyard]] as a Seasonal Spirit.
+* The portal to Home within the [[#Social Space|Social Space]] has been replaced by a Return Shrine.
+----
+{{v|0.9.5}}
+* Changes to Ancestor Tombstones in Social Space, now showcasing Forest's Regular Spirits instead of [[Daylight Prairie|Prairie]]'s
+----
+{{v|0.13.0}}
+* With [[Season of Assembly]], [[#The Treehouse|The Treehouse]] with 6 Seasonal Spirits is introduced, in addition to an entrance within the cloud tunnels, as well as the mini treehouses in [[#Forest Clearing|Forest Clearing]], [[#Forest's Brook|Forest's Brook]], and [[#Tree Tunnels|Tree Tunnels]].
+* Addition of [[Treasure Candles]] throughout Forest with introduction of [[Daily Light]]
+----
+{{v|0.14.0}}
+* Past Seasonal Spirits now [[Seasonal_Spirits#Finding_Seasonal_Spirits|permanently available to relive]]
+----
+{{v|0.15.0}}
+* With [[Season of Flight]], [[#The Wind Paths|The Wind Paths]] with 4 Seasonal Spirits is introduced, in addition to an entrance near the [[#Social Space|Social Space]].
+----
+{{v|0.18.0}}
+* With [[Season of Shattering]], some areas have been slightly adjusted for the periodically falling [[Shard Eruptions]].
+----
+{{v|0.19.0}}
+* With [[Season of AURORA]], [[Season_of_AURORA#Quest_#2|Quest #2]]'s meditation circle is added in [[#Underground Caverns|Underground Caverns]].
+* Addition of [[Map Shrines]] throughout Forest
+----
+{{v|0.21.0}}
+* With [[Season of Passage]], [[#Forest's Brook|Forest's Brook]] and the [[#Boneyard|Boneyard]] are adjusted to hold [[Season_of_Passage#Quest_#2|Quest #2]] and [[Season_of_Passage#Quest_#5|Quest #5]], respectively.
+* Home Shrines, including any redundant Bird Statues, are removed.
+----
+{{v|0.22.5}}
+* With [[Days of Sunlight]], the Elevated Clearing is changed to include a waterslide tree, a bridge of land, and two seats in the underwater cave that was supposed to include an Easter egg before being removed. Two runways are added temporarily for [[Days of Style]] in the Elevated Clearing and the Forest Clearing.
+</div>}}
+
+== In Other Languages==
+{{Help|lang}} 
+{{Other Languages|title=Hidden Forest
+|fr            = Forêt cachée
+|fr_meaning    = Hidden Forest <!-- Machine Translated -->
+|ja            = 雨林 (Kana: うりん)
+|ja_rom        = Urin
+|ja_meaning    = Rain Forest
+|id            = Hutan Tersembunyi
+|id_meaning    = Hidden Forest <!-- Machine Translated -->
+|de            = Verborgener Wald
+|de_meaning    = Hidden Forest <!-- Machine Translated -->
+|vi            = Rừng Mưa 
+|vi_meaning    = Rainforest <!-- Machine Translated -->
+|ko            = 비밀의 숲 (Hanja:秘密의 숲)
+|ko_rom        = Bimil-ui Sup
+|ko_meaning    = Secret Forest <!-- Machine Translated -->
+|es            = Bosque Escondido
+|es_meaning    = Hidden Forest <!-- Machine Translated -->
+|it            = Foresta Nascosta
+|it_meaning    = Hidden Forest <!-- Machine Translated -->
+|pt            = Floresta Oculta
+|pt_meaning    = Hidden Forest <!-- Machine Translated -->
+|ru            = Тайный лес
+|ru_rom        = Taynyy les
+|ru_meaning    = Secret Forest <!-- Machine Translated -->
+|zh_cn         = 雨林 
+|zh_cn_rom     = Mandarin: Yǔ Lín / Cantonese: Jyu5 Lam4
+|zh_cn_meaning = Rainforest <!-- Verified by Native Speaker @Fanlinger -->
+|zh_netease         = 雨林 
+|zh_netease_rom     = Mandarin: Yǔ Lín / Cantonese: Jyu5 Lam4
+|zh_netease_meaning = Rainforest <!-- Verified by Native Speaker @Fanlinger -->
+|zh_tw         = 雨林 
+|zh_tw_rom     = Mandarin: Yǔ Lín / Cantonese: Jyu5 Lam4
+|zh_tw_meaning = Rainforest <!-- Verified by Native Speaker @Fanlinger -->
+}}
+
+==References ==
+<references />
+
+{{RealmsNav}} {{Navigation Box}}
+
+[[ko:비밀의 숲]]
+[[pt-br:Floresta Oculta]]
+[[ru:Тайный лес]]
+[[fr:Forêt cachée]]
+[[es:Bosque Escondido]]
+[[de:Verborgener Wald]]
+
+[[Category:Realms]]
+[[Category:Hidden Forest]]

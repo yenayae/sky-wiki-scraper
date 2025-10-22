@@ -1,0 +1,144 @@
+{{WIP|pagetype = spirit}}
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Action
+|image     = Migrating-Butterfly-Charmer-cutout.png
+|cosmetics = {{Spirit Item|Migrating Butterfly Charmer|Facepiece|infobox}}<!--
+-->{{Spirit Item|Migrating Butterfly Charmer|Hair|infobox}}
+|season    = Season of Migration
+|realm     = Forest
+|location  = Wind Paths
+|ts        = None
+}}
+<section begin="Summary" />The Migrating Butterfly Charmer is a [[Seasonal Spirit]] from the [[Season of Migration]] who offers the {{Emote|Migrating Butterfly Charmer|inline_text}} Expression. The Migrating Butterfly Charmer is found in the [[Wind Paths]], on the main island, right of the [[Flight Guide]], on a ledge near a dock. The collectibles [[#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Migrating Butterfly Charmer|Facepiece|inline_text}} and a {{Spirit Item|Migrating Butterfly Charmer|Cape|inline_text}}.<section end="Summary" /><br>
+<br><!--
+[[File:Migrating-Butterfly-Charmer-Promo-art.png|none|thumb|320px|TGC's Promo image]]-->
+
+== Memory ==
+<div>{{#ev:youtube|Yy15It0L2mA|200px|inline|Video Guide}}
+
+The Migrating Butterfly Charmer can be found in the [[Wind Paths]], on the main island, right of the [[Flight Guide]], on a ledge near a flying-boat dock. This Spirit has a [[Standard Memory|standard memory]] with 8 memory fragments and a 13-minute overall [[Timed Memory|time limit]]. 
+
+As their memory unfolds, the Migrating Butterfly Charmer can be seen in the middle of a solo picnic, as a [[Butterfly]] flies onto their arm, startling the Spirit. The Butterfly flies off and the Spirit stumbles after them. After a bit of a chase, the Spirit comes across a big swarm of more Butterflies, joined by the one they just followed. Fascinated, the Migrating Butterfly Charmer follows the swarm down the hill, completely in focus. The Spirit attempts to reach the Butterflies by jumping up, but instead they stumble further down the hill, which they eventually tumble down. At the foot of the hill, the Spirit sits on the ground, dizzy from their turbulous journey, but happily surrounded by Butterflies.
+
+At the end of the memory, the Migrating Butterfly Charmer sits on the ground while their head turns from dizzyness. They shake it out and stand back up, to surprisingly see an even bigger swarm of Butterflies flying up into the sky near them. Happy about such a special moment, they raise up their arms and take in the scenery.
+</div>
+
+==<span id="Expression">Expression</span>==
+This Spirit offers the {{Emote|Migrating Butterfly Charmer|inline_text}} [[Expression]], which has 4 Levels. Level 1 is free and Level 3 is offered for {{Cost|24 SC|season=Season of Migration}} to all players. Level 2 and 4 are available for [[Season Pass]] holders exclusively.
+
+[[File:{{Icon Name||emote}}|x170px|left]]<!--
+<gallery heights="125" captionalign="center">
+Migrating-Butterfly-Charmer-emote-level-1.gif|{{Icon Name|Migrating Butterfly Charmer|emote_name}} Level 1
+Migrating-Butterfly-Charmer-emote-level-2.gif|{{Icon Name|Migrating Butterfly Charmer|emote_name}} Level 2
+Migrating-Butterfly-Charmer-emote-level-3.gif|{{Icon Name|Migrating Butterfly Charmer|emote_name}} Level 3
+Migrating-Butterfly-Charmer-emote-level-4.gif|{{Icon Name|Migrating Butterfly Charmer|emote_name}} Level 4
+</gallery>-->
+*Level 1 will make your avatar slowly circle their body while trying to balance themselves with their arms, as if they were dizzy, while high-pitched swaying sound effects play. This action is continued for as long as you don't move your avatar. Upon doing so, the avatar will stop swaying and only turn their head one last time.
+*Level 2 makes the same motion as Level 1 with a golden star and a sparkle trail replicating the avatar's circle motions above their head.
+*Level 3 will make your avatar strumble forward and backward, their head and arms swaying out of balance, before they fall to the ground and stay there as their head turns around in circles, while swaying whistle sound effects play. This action is continued for as long as you don't move your avatar. Upon doing so, the avatar will shake their head out and stand up, still a bit out of balance.
+*Level 4 makes the same motion as Level 3 with a yellow star and two colorful glowing trails replicating the circling motion above the player's head.
+<!--As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Heart|4}}, {{Heart|3}}, and {{Heart|6}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.-->
+
+==Cosmetics==
+===<span id="Face accessory">Face Accessory</span>===
+The [[Face Accessory]] offered by this Spirit is a pair of curled bug antennae with yellow, glowing tips. <!--description by Ozotronic-->It is a [[Season Pass]] exclusive item during the Season.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Migrating Butterfly Charmer|Facepiece|icon}} {{!}} The Face Accessory icon
+{{Icon Name|Migrating Butterfly Charmer|Facepiece|real}} {{!}} The Face Accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Cape">Cape</span>===
+The [[Cape]] offered by this Spirit is an orange cape with a scalloped edge and collar. The hem is patterned with yellow teardrops, and crescents that follow the edge. The collar is a deeper orange, and also scalloped. The interior has a scalloped gradient. <!--description by Ozotronic-->It is offered to all players for {{Cost|30 SC|season=Season of Migration}} during the Season.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Migrating Butterfly Charmer|Cape|icon}} {{!}} The Cape icon
+{{Icon Name|Migrating Butterfly Charmer|Cape|front}} {{!}} The Cape front
+{{Icon Name|Migrating Butterfly Charmer|Cape|interior}} {{!}} The Cape interior
+{{Icon Name|Migrating Butterfly Charmer|Cape|back}} {{!}} The Cape back
+{{Icon Name|Migrating Butterfly Charmer|Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+<!--   ONLY APPLICABLE ONCE SPIRIT HAS BECOME A TRAVELING SPIRIT 
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling
+|ts_dates=*June 19, 2019 (#01)
+*June 19, 2020 (#02)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Migrating Butterfly Charmer
+|image = 
+|season = season
+
+|nodeC6 = Outfit 60 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Mask 30 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+The hints given before the Migrating Butterfly Charmer's first appearance were: 
+{{Collapse
+|label=First Visit Hints
+|content=<div>
+*  [ hints can be on the official Sky Discord which are posted a few days before the traveling spirit by staff of thatgamecompany. ]
+</div>
+}}
+
+-->
+<!--   USE VARIABLES TO CONSTRUCT FRIENDSHIP TREE
+Cosmetics: Outfit Cape Hair Hairpiece Headpiece Facepiece Mask Necklace Outfit Shoes Instrument Prop 
+Expressions; emote emote1 emote2 emote3 emote4 
+Cost: SP for Season Pass, SC for Season Candles, C for Candle, H for Heart, free for Free
+Other: spell5 spellx heart season_heart #Quest #1 
+-->
+==Season Friendship Tree ==
+{{Friendship Tree Info | season| season=Season of Migration}}<br><br>
+{{Mbox
+|type=moderate
+|header=New Friendship Tree System
+|image=Reassuring-Ranger-Action-icon-Credit-Morybel.png
+|text=With the Season of Migration, TGC introduced a [https://www.thatskygame.com/news/the-season-of-migration-is-upon-us new Friendship Tree system]; instead of unlocking items through a single linear path, players can now spend time with Spirits to build Friendship. '''A template to display this new system on the Spirit pages is in the works and will be added soon.''' Thank you for your patience!
+}}
+
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Migrating Butterfly Charmer
+|image  = Migrating-Butterfly-Charmer-cutout.png
+|type   = season
+|season = Season of Migration
+|friendship_update = 1
+
+|nodeR6 = season_heart 3 SC SP
+
+|nodeR5 = hair SP
+
+|nodeL4 = spellx 8 SC
+|nodeC4 = relationship
+|nodeR4 = emote4 SP
+
+|nodeL3 = emote3 24 SC
+|nodeC3 = cape 30 SC
+|nodeR3 = spellx SP
+
+|nodeL2 = yellow_dye 6 SC
+|nodeC2 = 
+|nodeR2 = emote2 SP
+
+|nodeL1 = emote 
+|nodeC1 = spellx 2 SC
+|nodeR1 = follow
+}}<section end="Season Friendship Tree" />
+
+==References==
+<references />
+
+[[pt-br:Encantador de Borboletas Migratórias]]

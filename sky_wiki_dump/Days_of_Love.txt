@@ -1,0 +1,764 @@
+__FORCETOC__
+{{SkyEvent
+| image = Days-of-Love-promo-image-2025.png
+| previousevent = [[Days of Fortune]]
+| nextevent = [[Days of Treasure]]
+| date = February 10 to 23, 2025
+}}
+'''Days of Love''' is an annual event celebrating moments together with friends and loved ones for Valentine's Day that happens around the middle of February and lasting until the end of the month.
+
+During the two-week event, the Auspicious Visitor from [[Days of Fortune]] extends their stay as the event Spirit as soft and cheerful [[Pieces of Light|Light]] drops up to a certain amount of Social Light for players to gather each day. Head over to the redecorated pier with a new floral theme, to say hello and to check out Spells for the event from the diminutive boat-shaped container next to the Auspicious Visitor! The [[Secret Area]] is open for the duration of the event and free [[Spells]] for Message Boats are temporarily transformed into pink cranes.
+
+Valentine's-themed [[Premium Candle Shop|IAPs]] are available from the in-game shop, and the Auspicious Visitor and Days of Love Event Staff offer various cosmetics from their Friendship Trees. Free Spells to try all of these items can also be collected from the [[Spell Shops#Sleepy Traveler's Boat|Sleepy Traveler's boat]] and the boat-shaped Mini Spell Shop at the event area.
+
+==February 2025 <span id="2025"></span>==
+To celebrate all the different connections at the heart of Sky, and beyond—Days of Love returned for a sixth year! The event began on '''Monday, February 10, 2025 at 00:00 PST (UTC-8)''' and continued until '''Sunday, February 23, 2025 at 23:59 PST (UTC-8)'''. For the duration of the event, the Days of Love Guide; the [[Jolly Geologist]], appeared in the [[Aviary Village]] and [[Home]] to teleport players to where the event took place: the [[Jellyfish Cove]] in [[Starlight Desert]].
+
+An amethyst-colored meteorite fell from the starry skies and landed in the ocean far from the shores of the Jellyfish Cove. Up to 4 Tickets’ worth could be collected from the meteorite each day, by using [[Expressions]] next to the small crystals at its base. There were also 15 bow-shaped bonus Event Tickets located in the area to find throughout the event. The meteor showers, [[Spirits]], and floating [[Pieces of Light]] also returned from [[Days of Love#February 2024|last year's event]].
+
+Every Heart and partial Heart gift players giifted to friends through the Friendship Constellation or Friendship Tree during Days of Love were doubled.  (Note that if a gift was sent before Days of Love began but was then collected during the event, it would not be doubled.) 
+{{Clear}}
+
+===Activities and Spirits===
+{{#ev:youtubeplaylist|https://youtube.com/playlist?list=PL7-vagmE5UsSSJbhyXVK_ONOKy9keO8_F||right|All Days of Love Activities Playlist}}
+{| class="article-table mw-collapsible mw-collapsed"
+|-
+! style="text-align:center" colspan="4" | Activities and Spirits, Creatures
+|-
+! Date
+! Spirits
+! Creatures
+! Activity
+|-
+| February 10 - 11
+| [[Belonging Guide]] and [[Wise Grandparent]]
+| [[Butterflies]]
+| {{Emote|Blow Kiss|inline_text}}
+|-
+| February 12 - 13
+| [[Rhythm Guide]] and [[Performance Guide]]
+| [[Jellyfish]]
+| {{Emote|Hacky Sack|inline_text}}
+|-
+| February 14 - 15
+| [[Light Whisperer]]
+| [[Birds]]
+| {{Emote|Navigate|inline_text}}
+|-
+| February 16 - 17
+| [[Bearhug Hermit]] and [[Peeking Postman]]
+| [[Creatures#Light Creatures|Manatees]]
+| {{Emote|Bearhug Action|inline_text}}
+|-
+| February 18 - 19
+| [[Sparkler Parent]] and [[Confetti Cousin]]
+| [[Manta]]
+| {{Icon|Icon_hug.png|link=Hug Action|label=Hug|Inline_text}}
+|-
+| February 20 - 21
+| [[Pleaful Parent]] and [[Hairtousle Teen]]
+| -
+| Jam Session ({{Instrument|Guitar|inline_text}})
+|-
+| February 22 - 23
+| Random Spirits
+| -
+| Jam Session
+|}<br>
+<gallery widths="125" spacing="small" captionalign="center">
+Days-of-Love-2025-Activitie-Belonging-Guide-and-Wise-Grandparent.png
+Days-of-Love-2025-Activity-Rhythm-Guide-and-Performance-Guide.png
+Days-of-Love-2025-Activity-Light-Whisperer.png
+Days-of-Love-2025-Activity-Bearhug-Hermit-and-Peeking-Postman.png
+Days-of-Love-2025-Activity-Sparkler-Parent-and-Confetti-Cousin.png
+Days-of-Love-2025-Activity-Pleaful-Parent-and-Hairtousle-Teen.png
+Days-of-Love-2025-Activity-Jam-Session-1.png
+Days-of-Love-2025-Activity-Jam-Session-2.png
+Days-of-Love-2025-Activity-Jam-Session-3.png
+Days-of-Love-2025-Activity-Jam-Session-4.png
+Days-of-Love-2025-Activity-Jam-Session-5.png
+</gallery>
+{{Clear}}
+
+===Ticket Locations===
+[[File:Days-of-Love-Bow-Ticket.png|125px|thumb|A Days of Love bow Ticket]]
+{{#ev:youtube|L3rfWfIGvGY|400|right|Daily Ticket Guide}}
+{{Cost|4 T|event=love}} by using [[Expressions]] collected from [[Spirits]] of the designated [[Realms]] near the small clusters of crystals each day.
+* There were 3 section of crystals, each assigned to a different Realm.
+* A correct expression would cause the crystals to glow. When an expression from an incorrect Realm was used, the crystals turned dark blue. Alternatively, players could automatically activate an entire section by performing a [[Expressions#Friend Actions|friend action]].
+* Once all the small cluster of crystals were active in a section, the medium crystal rewarded players with light for {{Cost|1 T|event=love}}.
+* Once all 3 sections were illuminated, the large crystal in the center would glow, rewarding the final Ticket.
+
+In addition, bonus {{Cost|15 T|event=love}} one-time Event Tickets shaped like bows were hidden throughout the [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]]. They could be collected at any time during the event. 
+
+Players could also buy additional Tickets (costing {{Cost|2 AC}} or {{Cost|6 C}} each) from the Mini Spell Shops in the [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]].
+{{Friendship Tree
+|label  = Days of Love Guide
+|event = Love
+|image = Moments-Spirit-Jolly-Geologist.png
+
+|nodeC5 = Purple-dye-container-icon.png 10 T
+|  labelC5  = Purple Dye Blessing
+|  linkC5  = Dyes
+|  noteC5 = ×3
+
+|nodeR4 = {{Icon Name|Flowery Archway|icon}} 100 C
+|  labelR4 = {{Icon Name|Flowery Archway|name}}
+|  linkR4 = Days of Love#{{Icon Name|Flowery Archway|name}}
+|nodeL4 = {{Icon Name|Love Mask|icon}} 15 H
+|  labelL4 = {{Icon Name|Love Mask|name}}
+|  linkL4 = Days of Love#{{Icon Name|Love Mask|name}}
+|nodeC4 = spell5
+|  labelC4 = Spell
+|  linkC4 = Spells
+
+|nodeR3 = {{Icon Name|Love Flower Crown|icon}} 15 H
+|  labelR3 = {{Icon Name|Love Flower Crown|name}}
+|  linkR3 = Days of Love#{{Icon Name|Love Flower Crown|name}}
+|nodeL3 = musicE3 15 C
+|  labelL3 = Music Sheet E3 - Days of Love Music Sheet
+|nodeC3 = spell5
+|  labelC3 = Spell
+|  linkC3 = Spells
+
+|nodeR2 = {{Icon Name|Heart Beret|icon}} 45 C
+|  labelR2 = {{Icon Name|Heart Beret|name}}
+|  linkR2  = Days of Love#{{Icon Name|Heart Beret|name}}
+|nodeL2 = {{Icon Name|Heart Plushie|icon}} 12 H
+|  labelL2 = {{Icon Name|Heart Plushie|name}}
+|  linkL2  = Days of Love#{{Icon Name|Heart Plushie|name}}
+|nodeC2 = spell5
+|  labelC2 = Spell
+|  linkC2 = Spells
+
+|nodeR1 = {{Icon Name|Violet Crystal Prop|icon}} 14 T
+|  labelR1 = {{Icon Name|Violet Crystal Prop|name}}
+|  linkR1  = Days of Love#{{Icon Name|Violet Crystal Prop|name}}
+|nodeL1 = {{Icon Name|Days of Love Braids|icon}} 35 T
+|  labelL1 = {{Icon Name|Days of Love Braids|name}}
+|  linkL1  = Days of Love#{{Icon Name|Days of Love Braids|name}}
+
+|nodeC1 = Question-mark-Ray.png
+|  labelC1 = Opening Cutscene
+}}{{Clear}}
+
+===<big>All Available Collectibles in 2025</big>===
+{| class="article-table"
+!Name
+!Icon
+!Type
+!Cost
+!Collectable Location
+!Spell
+!Spell Cost & Locations
+|-
+! colspan="7" style="text-align:center;" |From Days of Love 2025 
+|-
+|[[Days of Love#{{Icon Name|Amethyst-Tipped Tails|name}}|{{Icon Name|Amethyst-Tipped Tails|name}}]]
+|{{Days Item|Amethyst-Tipped Tails||table}}
+|[[Hair]]
+|{{Cost|6.99 USD|refnote}} 
+|<small>[[Premium Candle Shop]]</small>
+|{{Days Item|Amethyst-Tipped Tails|spell|table}}<small>x3</small>
+|<small>Mini Spell Shops in [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]] for free</small>
+|-
+|[[Days of Love#{{Icon Name|Amethyst Accessory|name}}|{{Icon Name|Amethyst Accessory|name}}]]
+|{{Days Item|Amethyst Accessory||table}}
+|[[Head Accessories]]
+|{{Cost|2.99 USD|refnote}} 
+|<small>[[Premium Candle Shop]]</small>
+|{{Days Item|Amethyst Accessory|spell|table}}<small>x3</small>
+|<small>Mini Spell Shops in [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]] for free</small>
+|-
+|[[Days of Love#{{Icon Name|Days of Love Braids|name}}|{{Icon Name|Days of Love Braids|name}}]]
+|{{Days Item|Days of Love Braids||table}}
+|[[Hair Accessory]]
+|{{Cost|35 T|event=Love}}
+|<small>Days of Love Guide at [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]]</small>
+|{{Days Item|Days of Love Braids|spell|table}}<small>x3</small>
+|<small>Mini Spell Shops in [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]] for free</small>
+|-
+|[[Days of Love#{{Icon Name|Violet Crystal Prop|name}}|{{Icon Name|Violet Crystal Prop|name}}]]
+|{{Days Item|Violet Crystal Prop||table}}
+|[[Props]]
+|{{Cost|14 T|event=Love}}
+|<small>Days of Love Guide at [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]]</small>
+|{{Days Item|Violet Crystal Prop|spell|table}}<small>x3</small>
+|<small>Mini Spell Shops in [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]] for free</small>
+|-
+|[[Blessings (Spells)#Specific Color Dye Blessing|Purple Dye Blessing]]
+|
+|[[Dyes]]
+|{{Cost|10 T|event=Love}}
+|<small>Days of Love Guide at [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]]</small>
+|{{Icon|Purple-dye-container-icon-spell.png|table|label=Purple Dye Blessing|link=Blessings (Spells)#Specific Color Dye Blessing}} <small>x3</small>
+|
+|-
+! colspan="7" style="text-align:center;" |From Days of Love 2024 
+|-
+|[[Days of Love#{{Icon Name|Meteor Mantle|name}}|{{Icon Name|Meteor Mantle|name}}]]
+|{{Days Item|Meteor Mantle||table}}
+|[[Cape]]
+|{{Cost|17.99 USD|refnote}} 
+|<small>IAP Event Spirit at [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]]</small>
+|{{Days Item|Meteor Mantle|spell|table}}<small>x3</small>
+|<small>Mini Spell Shops in [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]] for free</small>
+|-
+|[[Days of Love#{{Icon Name|Heart Plush|name}}|{{Icon Name|Heart Plush|name}}]]
+|{{Days Item|Heart Plush||table}}
+|[[Prop]]
+|{{Cost|12 H|event=Love}}
+|<small>Days of Love Guide at [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]]</small>
+|{{Days Item|Heart Plush|spell|table}}<small>x3</small>
+|<small>Mini Spell Shops in [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]] for free</small>
+|-
+|[[Days of Love#{{Icon Name|Heart Beret|name}}|{{Icon Name|Heart Beret|name}}]]
+|{{Days Item|Heart Beret||table}}
+|[[Hair Accessory]]
+|{{Cost|45 C|event=Love}}
+|<small>Days of Love Guide at [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]]</small>
+|{{Days Item|Heart Beret|spell|table}}<small>x3</small>
+|<small>Mini Spell Shops in [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]] for free</small>
+|-
+|[[Days of Love#Music Sheet|Music Sheet E3 - Days of Love Music Sheet]]
+|{{Music Sheet|E3|label=Music Sheet E3 - Days of Love Music Sheet}}
+|[[Music Sheets|Music]]
+|{{Cost|15 C|event=Love}}
+|<small>Days of Love Guide at [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]]</small>
+|
+|
+|-
+|[[Days of Love#Message Gondola Spell|Message Gondola Spell]]
+|
+|[[Spell]]
+|2 for {{Cost|2 H}}
+|
+|{{Icon|Message-Gondola-Spell-icon.png|table|label=Message Gondola Spell|in_page=1}}<small>x3</small>
+|<small>Mini Spell Shops in [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]]</small>
+|-
+! colspan="7" style="text-align:center;" |From Days of Love 2023
+|-
+|[[Days of Love#{{Icon Name|Days of Love Classy Cravat|name}}|{{Icon Name|Days of Love Classy Cravat|name}}]]
+|{{Days Item|Days of Love Classy Cravat||table}}
+|[[Neck Accessory]]
+|{{Cost|4.99 USD|refnote}}
+|<small>IAP Event Spirit at [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]]</small>
+|{{Days Item|Days of Love Classy Cravat|spell|table}}<small>x3</small>
+|<small>Mini Spell Shops in [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]] for free</small>
+|-
+|[[Days of Love#Days of Love Serendipitous Scepter|Days of Love Serendipitous Scepter]]
+|{{Days Item|Days of Love Serendipitous Scepter||table}}
+|[[Prop]]
+|{{Cost|14.99 USD|refnote}}
+|<small>IAP Event Spirit at [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]]</small>
+|{{Days Item|Days of Love Serendipitous Scepter|spell|table}}<small>x3</small>
+|<small>Mini Spell Shops in [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]] for free</small>
+|-
+|[[Days of Love#Days of Love Flowery Archway|Days of Love Flowery Archway]]
+|{{Days Item|Days of Love Flowery Archway||table}}
+|[[Prop]]
+|{{Cost|100 C}}
+|<small>Days of Love Guide at [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]]</small>
+|{{Days Item|Days of Love Flowery Archway|spell|table}}<small>x3</small>
+|<small>Mini Spell Shops in [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]] for free</small>
+|-
+! colspan="7" style="text-align:center;" |From Days of Love 2022 
+|-
+|[[Days of Love#Days of Love Gondola Pack|Days of Love Gondola Pack]] + {{Cost|35 SC}}
+|{{Days Item|Days of Love Gondola||table}}
+|[[Prop]]
+|{{Cost|19.99 USD|refnote}}
+|<small>IAP Event Spirit at [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]]</small>
+|{{Days Item|Days of Love Gondola|spell|table}}<small>x3</small>
+|<small>Mini Spell Shops in [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]] for free AND for {{Cost|2 H}}</small>
+|-
+|[[Days of Love#Days of Love Flower Crown|Days of Love Flower Crown Hair Accessory]]
+|{{Days Item|Days of Love Flower Crown||table}}
+|[[Hair Accessory]]
+|{{Cost|15 H}}
+|<small>Days of Love Guide at [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]]</small>
+|{{Days Item|Days of Love Flower Crown|spell|table}}<small>x3</small>
+|<small>Mini Spell Shops in [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]] for free</small>
+|-
+! colspan="7" style="text-align:center;" |From Days of Love 2021
+|-
+|[[Days of Love#Days of Love Seesaw|Days of Love Seesaw]] + {{Cost|35 SC}}
+|{{Days Item|Days of Love Seesaw||table}}
+|[[Prop]] 
+|{{Cost|19.99 USD|refnote}}
+|<small>IAP Event Spirit at [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]]</small>
+|{{Days Item|Days of Love Seesaw|spell|table}}<small>x3</small>
+|<small>Mini Spell Shops in [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]] for free</small>
+|-
+| [[Days of Love#Days of Love Mask|Days of Love Mask]]
+|{{Days Item|Days of Love Mask||table}}
+|[[Mask]]
+|{{Cost|15 H}} 
+|<small>Days of Love Guide at [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]]</small>
+|{{Days Item|Days of Love Mask|spell|table}}<small>x3</small>
+|<small>Mini Spell Shops in [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]] for free</small>
+|-
+|[[Blessings (Spells)#Message Boat Spell|Message Boat Spell]]
+|
+|[[Spell]]
+|
+|
+|{{Icon|Days-of-Love-Message-Boat-Spell-Morybel-0146.png|table|label=Message Boat Spell|link=Spells#Message Boat Spell}}<small>x3</small>
+|<small>Mini Spell Shops in [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]] for free</small>
+|-
+! colspan="7" style="text-align:center;" |From Days of Love 2020
+|-
+|[[Days of Love#Days of Love Swing|Days of Love Swing]] + {{Cost|35 SC}}
+|{{Days Item|Days of Love Swing||table}}
+|[[Prop]]
+|{{Cost|19.99 USD|refnote}}
+|<small>IAP Event Spirit at [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]]</small>
+|{{Days Item|Days of Love Swing|spell|table}}<small>x3</small>
+|<small>Mini Spell Shops in [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]] for free</small>
+|}
+
+===2025 New Cosmetics and Props===
+====Days of Love Amethyst-Tipped Tails====
+::'''''"Two pigtails adorned with subtle hints of purple at the tips."'''''
+The Days of Love Amethyst-Tipped Tails are a pair of purple-tipped, tousled high ponytails that reach down to the shoulders, tied with purple bands; full bangs and face-framing strands of hair complete the look. This [[Hair]] was introduced in 2025 and was available for {{Cost|6.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Amethyst-Tipped Tails|iap}} {{!}} {{Icon Name|Amethyst-Tipped Tails|name}} IAP
+{{Icon Name|Amethyst-Tipped Tails|icon}} {{!}} {{Icon Name|Amethyst-Tipped Tails|name}} icon
+{{Icon Name|Amethyst-Tipped Tails|real}} {{!}} {{Icon Name|Amethyst-Tipped Tails|name}} front
+{{Icon Name|Amethyst-Tipped Tails|side}} {{!}} {{Icon Name|Amethyst-Tipped Tails|name}} side
+{{Icon Name|Amethyst-Tipped Tails|back}} {{!}} {{Icon Name|Amethyst-Tipped Tails|name}} back
+{{Icon Name|Amethyst-Tipped Tails|spell}} {{!}} {{Icon Name|Amethyst-Tipped Tails|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Days of Love Amethyst Accessory====
+::'''''"Adorn any hairstyle with twin dazzling hearts that glisten even brighter when expressing near friends."'''''
+The Days of Love Amethyst Accessory is a pair of small purple crystalline hearts that sit on each side of the player's head. It glows when other Sky kids are nearby, or when someone nearby uses a [[Friendship Menu#Friendship Tree|Friend Action]]. This [[Hair Accessory]] was introduced in 2025 and available for {{Cost|2.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Days of Love Amethyst Accessory|iap}} {{!}} {{Icon Name|Days of Love Amethyst Accessory|name}} IAP
+{{Icon Name|Days of Love Amethyst Accessory|icon}} {{!}} {{Icon Name|Days of Love Amethyst Accessory|name}} icon
+{{Icon Name|Amethyst Accessory|real}} {{!}} {{Icon Name|Amethyst Accessory|name}}
+{{Icon Name|Days of Love Amethyst Accessory|spell}} {{!}} {{Icon Name|Days of Love Amethyst Accessory|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Days of Love Violet Crystal Prop====
+The Days of Love Violet Crystal Prop is a vibrant, purple crystalline heart, embedded in a stone base, alongside a smaller gem. It is a placeable Prop that can used to decorate [[Shared Spaces]]. It glows when other Sky kids are nearby, or when someone nearby uses a [[Friendship Menu#Friendship Tree|Friend Action]].
+This [[Prop]] was introduced in 2025 and was available for {{Cost|14 T|event=love}} from the Days of Love Guide at the [[Jellyfish Cove]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Violet Crystal Prop|icon}} {{!}} {{Icon Name|Violet Crystal Prop|name}} icon
+{{Icon Name|Violet Crystal Prop|real}} {{!}} {{Icon Name|Violet Crystal Prop|name}} Prop
+{{Icon Name|Violet Crystal Prop|back}} {{!}} {{Icon Name|Violet Crystal Prop|name}} on a player's back
+{{Icon Name|Violet Crystal Prop|spell}} {{!}} {{Icon Name|Violet Crystal Prop|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+{{#ev:youtube|Ay5rWhZypL4||inline|Item Showcase}}
+
+====Days of Love Braids====
+The Days of Love Braids is a purple-streaked hairstyle separated into a bun and six low braids. A few wavy strands of hair hang down the front.
+This [[Hair]] was introduced in 2025 and was available for {{Cost|35 T|event=love}} from the Days of Love Guide at the [[Jellyfish Cove]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Days of Love Braids|icon}} {{!}} {{Icon Name|Days of Love Braids|name}} icon
+{{Icon Name|Days of Love Braids|real}} {{!}} {{Icon Name|Days of Love Braids|name}} front
+{{Icon Name|Days of Love Braids|side}} {{!}} {{Icon Name|Days of Love Braids|name}} side
+{{Icon Name|Days of Love Braids|back}} {{!}} {{Icon Name|Days of Love Braids|name}} back
+{{Icon Name|Days of Love Braids|spell}} {{!}} {{Icon Name|Days of Love Braids|name}} spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+== February 2024 <span id="2024"></span>==
+{{#ev:youtube|pIEcktFLnuU||right|Days of Love 2024 Trailer}}
+Days of Love returned for a fourth year with new updates and experiences to share! The event began on '''Monday, February 12, 2024 at 00:00 PST (UTC-8)''' and ended on '''Sunday, February 25, 2024 at 23:59 PST (UTC-8)''', lasting '''14''' days and overlapping with [[Days of Fortune]] for three days. For the duration of the event, the heart-shaped Unfettered Love appeared in the [[Aviary Village]], offering to take players directly to [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]] in Starlight Desert, which was revamped specially for the occasion. In addition, the [[Secret Area]] was open to everyone through a friendly NPC at the gate. 
+
+Under a tranquil starlit sky, a series of [[Spirits]] from past [[Seasons]] arrived to greet players every two days, each reflecting the different kinds of relationships that shape our lives—and even offered the chance to play music together as the end of the event approached! Nearby, a special flower granted players the ability to freely place down a new type of [[Days of Love#Message Gondola Spell|Message Boat]]. [[Social Light]] would also gently float down to the sands. Looking overhead, players could catch the sparkling glow of a meteor shower '''twice every hour''' for 10 minutes, from '''xx:05''' to '''xx:15''' and '''xx:35''' to '''xx:45'''.
+
+It was the perfect time for [[Double Currency Events|double Hearts]], so across the two weeks of the event, every Heart gift and partial Heart gift sent to friends were doubled! (Note that if a gift was sent before Days of Love began but was then collected during the event, it would not be doubled.) [[Home]] kept its snowy appearance before revealing a fresh cover of pink grass in the final days of the event, and the [[Secret Area]] accessible from the [[Vault of Knowledge]] featured snow and ice to enjoy winter-themed games and skating moves.
+
+<small>Days of Love content was available to all players who had at least started the [[Season of Revival#Quest #4|4th Quest]] from the [[Hopeful Steward]] in [[Aviary Village]].</small><br>
+<br>
+<gallery widths="200px" captionalign="center" position="center">
+Days-of-Love-2024-Unfettered-Love-mimi4117-sam6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & mimi4117
+Days-of-Love-2024-Tickets-mimi4117-sam6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & mimi4117
+Days-of-Love-Office-2023-by-Mimi4117-and- Sam 6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & mimi4117
+Days-of-Love-2023-by-Mimi4117-and- Sam 6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & mimi4117
+</gallery>
+
+===Ticket Locations===
+[[File:Days-of-Love-Bow-Ticket.png|125px|thumb|A Days of Love bow Ticket]]
+A total of {{Cost|5 T|event=love}} bow-shaped Tickets were available each day:
+*{{Cost|1 T|event=love}} from interacting with the Spirits in the event area
+*{{Cost|4 T|event=love}} hidden throughout Jellyfish Cove in Starlight Desert (which Call out to the player)
+{{Collapse
+|float= left
+|label= All Exact Ticket Locations
+|content=<u>'''Locations:'''</u>
+** {{Cost|1 T|event=love}} to the right of the [[Star Collector]]'s ship, at the edge of the pier
+** {{Cost|1 T|event=love}} on top of a [[Jellyfish]] above and to the left of the Star Collector's ship
+** {{Cost|1 T|event=love}} on top of a Jellyfish above the Star Collector's ship
+** {{Cost|1 T|event=love}} on top of a Jellyfish above and to the right of the Star Collector's ship
+}}
+<br>
+
+Players could also buy additional Tickets (costing {{Cost|2 AC}} or {{Cost|6 C}} each) from the [[Spell Shops#Sleepy Traveler's Boat|Sleepy Traveler's boat]] at Home.
+
+{| class="article-table mw-collapsible mw-collapsed" style="float:right; text-align:center;"
+! style="text-align:center" colspan="3" | '''Ticket Rotations'''
+|-
+! '''Date'''
+! style="text-align:center"|'''Spirits and Creatures/Activity'''
+! '''Daily Total'''
+|-
+| February 12, 2024
+| [[Belonging Guide]] and [[Wise Grandparent]];<br>Butterflies
+| {{Cost|{{#vardefineecho:D1|5}} T|event=love}}
+|-
+| February 13, 2024
+| [[Belonging Guide]] and [[Wise Grandparent]];<br>Butterflies
+| {{Cost|{{#vardefineecho:D2|5}} T|event=love}}
+|-
+| February 14, 2024
+| [[Rhythm Guide]] and [[Performance Guide]];<br>Jellyfish
+| {{Cost|{{#vardefineecho:D3|5}} T|event=love}}
+|-
+| February 15, 2024
+| [[Rhythm Guide]] and [[Performance Guide]];<br>Jellyfish
+| {{Cost|{{#vardefineecho:D4|5}} T|event=love}}
+|-
+| February 16, 2024
+| [[Light Whisperer]]; Birds
+| {{Cost|{{#vardefineecho:D5|5}} T|event=love}}
+|-
+| February 17, 2024
+| [[Light Whisperer]]; Birds
+| {{Cost|{{#vardefineecho:D6|5}} T|event=love}}
+|-
+| February 18, 2024
+| [[Bearhug Hermit]] and [[Peeking Postman]];<br>Manatees
+| {{Cost|{{#vardefineecho:D7|5}} T|event=love}}
+|-
+| February 19, 2024
+| [[Bearhug Hermit]] and [[Peeking Postman]];<br>Manatees
+| {{Cost|{{#vardefineecho:D8|5}} T|event=love}}
+|-
+| February 20, 2024
+| [[Sparkler Parent]] and [[Confetti Cousin]];<br>Mantas
+| {{Cost|{{#vardefineecho:D9|5}} T|event=love}}
+|-
+| February 21, 2024
+| [[Sparkler Parent]] and [[Confetti Cousin]];<br>Mantas
+| {{Cost|{{#vardefineecho:D10|5}} T|event=love}}
+|-
+| February 22, 2024
+| [[Pleaful Parent]] and [[Hairtousle Teen]];<br>Jam Session ({{Instrument|Guitar|inline_text}})
+| {{Cost|{{#vardefineecho:D11|5}} T|event=love}}
+|-
+| February 23, 2024
+| [[Pleaful Parent]] and [[Hairtousle Teen]];<br>Jam Session ({{Instrument|Guitar|inline_text}})
+| {{Cost|{{#vardefineecho:D12|5}} T|event=love}}
+|-
+| February 24, 2024
+| [[Confetti Cousin]], [[Hairtousle Teen]],<br>[[Pleaful Parent]], and [[Sparkler Parent]];<br>Jam Session ({{Instrument|Flute|inline_text}})
+| {{Cost|{{#vardefineecho:D13|5}} T|event=love}}
+|-
+| February 25, 2024
+| [[Confetti Cousin]], [[Hairtousle Teen]],<br>[[Pleaful Parent]], and [[Sparkler Parent]];<br>Jam Session ({{Instrument|Flute|inline_text}})
+| {{Cost|{{#vardefineecho:D14|5}} T|event=love}}
+|-
+! colspan="2" style="text-align:center;" | '''Total so far'''
+! style="text-align:center;" | '''{{Cost|{{#expr: ({{#var:D1}} + {{#var:D2}} + {{#var:D3}} + {{#var:D4}} + {{#var:D5}} + {{#var:D6}} + {{#var:D7}} + {{#var:D8}} + {{#var:D9}} + {{#var:D10}} + {{#var:D11}} + {{#var:D12}} + {{#var:D13}} + {{#var:D14}}) }} T|event=love}}'''
+|}
+
+{{Friendship Tree
+|label  = Unfettered Love
+|event = Love
+|image = Days-of-Love-Unfettered-Love.png
+
+|nodeC4 = {{Icon Name|Flowery Archway|icon}} 100 C
+|  labelC4 = {{Icon Name|Flowery Archway|name}}
+|  linkC4 = Days of Love#{{Icon Name|Flowery Archway|name}}
+
+|nodeL3 = {{Icon Name|Love Mask|icon}} 15 H
+|  labelL3 = {{Icon Name|Love Mask|name}}
+|  linkL3 = Days of Love#{{Icon Name|Love Mask|name}}
+|nodeC3 = spell5
+|  labelC3 = Spell
+|  linkC3 = Spells
+
+|nodeR2 = {{Icon Name|Love Flower Crown|icon}} 15 H
+|  labelR2 = {{Icon Name|Love Flower Crown|name}}
+|  linkR2 = Days of Love#{{Icon Name|Love Flower Crown|name}}
+|nodeL2 = musicE3 7 T
+|  labelL2 = Music Sheet E3 - Days of Love Music Sheet
+|nodeC2 = spell5
+|  labelC2 = Spell
+|  linkC2 = Spells
+
+|nodeR1 = {{Icon Name|Heart Beret|icon}} 27 T
+|  labelR1 = {{Icon Name|Heart Beret|name}}
+|  linkR1  = Days of Love#{{Icon Name|Heart Beret|name}}
+|nodeL1 = {{Icon Name|Heart Plushie|icon}} 14 T
+|  labelL1 = {{Icon Name|Heart Plushie|name}}
+|  linkL1  = Days of Love#{{Icon Name|Heart Plushie|name}}
+|nodeC1 = Icon_warp.png
+|  labelC1 = Teleport to Jellyfish Cove
+}}{{Clear}}
+
+===2024 New Cosmetics and Props===
+====Days of Love Meteor Mantle====
+::'''''"Like shooting stars in the night sky."'''''
+The Days of Love Meteor Mantle is transparent and purple with sparkly streaks that resemble shooting stars. This [[Cape]] was introduced in 2024 and was available for {{Cost|17.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Meteor Mantle|iap}} {{!}} {{Icon Name|Meteor Mantle|name}} IAP
+{{Icon Name|Meteor Mantle|icon}} {{!}} {{Icon Name|Meteor Mantle|name}} icon
+{{Icon Name|Meteor Mantle|front}} {{!}} {{Icon Name|Meteor Mantle|name}} front
+{{Icon Name|Meteor Mantle|interior}} {{!}} {{Icon Name|Meteor Mantle|name}} interior
+{{Icon Name|Meteor Mantle|real}} {{!}} {{Icon Name|Meteor Mantle|name}} back
+{{Icon Name|Meteor Mantle|exterior}} {{!}} {{Icon Name|Meteor Mantle|name}} exterior
+{{Icon Name|Meteor Mantle|spell}} {{!}} {{Icon Name|Meteor Mantle|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Love Heart Plushie====
+The Love Heart Plushie is a lopsided reddish-pink heart that you can hug and toss around for other players to squeeze as well. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]]. This Prop was introduced in 2024 and was available for {{Cost|14 T|event=Love}} from the Unfettered Love at [[Aviary Village#Aviary Event Store|Aviary Village]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Heart Plush|icon}} {{!}} {{Icon Name|Heart Plush|name}} icon
+{{Icon Name|Heart Plush|real}} {{!}} {{Icon Name|Heart Plush|name}}
+<!-- {{Icon Name|Heart Plush|using}} {{!}} A player hugging the {{Icon Name|Heart Plush|name}} -->
+Love-Heart-Plushie-in-hand.png {{!}} Holding the {{Icon Name|Heart Plush|name}}
+Love-Heart-Plushie-on-back.png {{!}} {{Icon Name|Heart Plush|name}} on a player's back
+{{Icon Name|Heart Plush|spell}} {{!}} {{Icon Name|Heart Plush|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Love Heart Beret====
+The Love Heart Beret is red and loosely shaped like a heart with a stem on top. This [[Hair Accessory]] was introduced in 2024 and was available for {{Cost|27 T|event=Love}} from the Unfettered Love at [[Aviary Village#Aviary Event Store|Aviary Village]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Heart Beret|icon}} {{!}} {{Icon Name|Heart Beret|name}} icon
+{{Icon Name|Heart Beret|real}} {{!}} {{Icon Name|Heart Beret|name}} front
+Love-Heart-Beret-side.png {{!}} {{Icon Name|Heart Beret|name}} side
+Love-Heart-Beret-back.png {{!}} {{Icon Name|Heart Beret|name}} back
+{{Icon Name|Heart Beret|spell}} {{!}} {{Icon Name|Heart Beret|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====<span id="Music Sheet"></span>Days of Love Music Sheet<span id="Music Sheet E3 - Days of Love Music Sheet"></span>====
+The {{Music Sheet|E3}} [[Music Sheet]] E3 was introduced in 2024 and was available for {{Cost|7 T|event=Love}} from the Unfettered Love at [[Aviary Village#Aviary Event Store|Aviary Village]] for the duration of the event. It is a song in the key of B Major.<br>
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guide
+|content=
+{{#ev:youtube|8KlmNDph6TU||inline|Music Sheet Video Guide by Ikejiji}}
+}}
+
+===2024 New Spells===
+====Message Gondola Spell====
+Just like the [[Spells#Message Boat Spell|Message Boat Spell]] and [[#Message Crane Spell|Message Crane Spell]], the Message Gondola Spell allows players to place tiny gondolas with custom messages floating peacefully on the water. Once placed, they remain for a total of two days (48 hours) before disappearing. This [[Spell]] was introduced in 2024 and was available in packs of 2 for {{Cost|2 H}} from the Mini Spell Shop in [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]] for the duration of the event.
+<br>
+{{#tag:gallery
+|Message-Gondola-Spell-icon.png {{!}} Message Gondola Spell icon
+Message-Gondola-Spell.png {{!}} Message Gondola Spell
+|widths=125|spacing=small|captionalign=center
+}}
+
+== February 2023 <span id="2023"></span>==
+[[File:Days-of-Love-2023-TGC-Promo-image.png|thumb|200px|right|Promotional image - Days of Love 2023]]
+Days of Love returned for a fourth year! The event began '''Monday, February 13, 2023 at 00:00 PST (UTC-8)''' and ended '''Sunday, February 26, 2023 at 23:59 PST (UTC-8)''', lasting '''14''' days. For the duration of the event, the Auspicious Visitor appeared in [[Home]] and the [[Secret Area]] was open to everyone through a friendly NPC at the gate.
+
+Now is the time to appreciate the relationships that connect us all through the game, in ways large and small. For starters, all Hearts and Light Gifts sent while the event was active were [[Double Currency Events#Days of Love - February 2023|doubled]] for the recipient. (Note that if a gift is sent before Days of Love begins but is then collected during the event, it will not be doubled.)
+
+Home took on a warm and inviting appearance, with pink grass and a freshly redecorated pier offering a welcoming place to gather. A soft mist added its ambience, offering up to a certain amount of [[Pieces of Light|Light]] each day, particularly during the first week of the event.
+
+<small>Days of Love content was available to all players who have progressed through at least [[Hidden Forest]].</small>
+
+<gallery widths="200px" captionalign="center" position="center">
+Days-of-Love-Home-2023-by-Mimi4117-and-_Sam_6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & Mimi#4117
+Days-of-Love-2023-by-Mimi4117-and-_Sam_6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & Mimi#4117
+Days-of-Love-Office-2023-by-Mimi4117-and-_Sam_6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & Mimi#4117
+</gallery>
+
+===2023 New Cosmetics and Props===
+====Days of Love Classy Cravat====
+::'''''"An elegant bow to dress up the smartest attire."'''''
+The Days of Love Classy Cravat is a large white bow that ties around the player's neck. This [[Neck Accessory]] was introduced in 2023 and was available for {{Cost|4.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Classy Cravat|iap}} {{!}} {{Icon Name|Classy Cravat|name}} IAP
+{{Icon Name|Classy Cravat|icon}} {{!}} {{Icon Name|Classy Cravat|name}} icon
+{{Icon Name|Classy Cravat|real}} {{!}} {{Icon Name|Classy Cravat|name}} 
+{{Icon Name|Classy Cravat|spell}} {{!}} {{Icon Name|Classy Cravat|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Days of Love Serendipitous Scepter====
+::'''''"Launch sparkling silhouettes into the sky."'''''
+The Days of Love Serendipitous Scepter is a short, white staff with a heart-shaped tip. It is a non-placeable [[Prop]] that cannot be used to decorate [[Shared Spaces]]. When activated, it shoots off a burst of pink, red, and purple heart-shaped fireworks with a bang, similar to the [[Saluting Captain#Prop|Fireworks Staff]] and [[Aviary’s Firework Festival#Festival Scepter|Festival Scepter]]. After 5 shots, there is a 10 second cooldown before it can be activated again. This Prop was introduced in 2023 and was available for {{Cost|14.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Serendipitous Scepter|iap}} {{!}} {{Icon Name|Serendipitous Scepter|name}} IAP
+{{Icon Name|Serendipitous Scepter|icon}} {{!}} {{Icon Name|Serendipitous Scepter|name}} icon
+{{Icon Name|Serendipitous Scepter|real}} {{!}} {{Icon Name|Serendipitous Scepter|name}}
+Days-of-Love-Scepter-item-on-back.png {{!}} {{Icon Name|Serendipitous Scepter|name}} on a player's back
+{{Icon Name|Serendipitous Scepter|spell}} {{!}} {{Icon Name|Serendipitous Scepter|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Days of Love Flowery Archway====
+The Days of Love Flowery Archway is a tall white arch decorated with pink flowers and a yellow heart engraved at the top. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. This Prop was introduced in 2023 and was available for {{Cost|100 C}} from the Auspicious Visitor at [[Home]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Flowery Archway|icon}} {{!}} {{Icon Name|Flowery Archway|name}} icon
+{{Icon Name|Flowery Archway|real}} {{!}} {{Icon Name|Flowery Archway|name}}
+Days-of-Love-Flowery-Archway-item-on-back.png {{!}} {{Icon Name|Flowery Archway|name}} on a player's back
+{{Icon Name|Flowery Archway|spell}} {{!}} {{Icon Name|Flowery Archway|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+==February 2022 <span id="2022"></span>==
+[[File:Days-of-love-2022.jpg|thumb|200px|right|Promotional image - Days of Love 2022]]
+Succeeding [[Days of Fortune]], Days of Love allowed players to appreciate friends new and old '''from 00:00 Monday, February 7 through 23:59 Tuesday, February 22 (all times PST, UTC-8)'''.{{Clear}}
+
+===2022 New Cosmetics and Props===
+====Days of Love Gondola Pack<span id="Days of Love Gondola"></span>====
+::'''''"Share a serene moment with a friend as you glide along the water."'''''
+The Days of Love Gondola Pack contains two items: the Days of Love Gondola and {{Cost|35 SC}}. The Days of Love Gondola is a long, narrow white boat with two seats facing each other and a lantern hanging from the front end. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]], and functions as a two-player [[Chat]] item. (''Note: it can only be placed in water.'') When a player takes a seat, the lantern will light up and the gondola will begin to move forward along the water. When two players sit together, hearts will start to appear above their heads and continue to grow in intensity over time. This pack was introduced in 2022 and was available for {{Cost|19.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Love Gondola|iap}} {{!}} {{Icon Name|Love Gondola|name}} IAP
+{{Icon Name|Love Gondola|icon}} {{!}} {{Icon Name|Love Gondola|name}} icon
+{{Icon Name|Love Gondola|real}} {{!}} Sitting on the {{Icon Name|Love Gondola|name}}
+{{Icon Name|Love Gondola|back}} {{!}} {{Icon Name|Love Gondola|name}} on a player's back
+{{Icon Name|Love Gondola|spell}} {{!}} {{Icon Name|Love Gondola|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Days of Love Flower Crown====
+The Days of Love Flower Crown is a wreath of pink flowers that sits on top of the player's head. This [[Hair Accessory]] was introduced in 2022 and was available for {{Cost|15 H}} from the Auspicious Visitor at [[Home]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Love Flower Crown|icon}} {{!}} {{Icon Name|Love Flower Crown|name}} icon
+{{Icon Name|Love Flower Crown|real}} {{!}} {{Icon Name|Love Flower Crown|name}}
+{{Icon Name|Love Flower Crown|spell}} {{!}} {{Icon Name|Love Flower Crown|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Days of Love Message Crane Spell<span id="Message Crane Spell"></span>====
+Just like the [[Spells#Message Boat Spell|Message Boat Spell]], the Message Crane Spell allows players to place pink paper cranes with custom messages floating peacefully on the water. Once placed, they remain for a total of two days (48 hours) before disappearing. This [[Spell]] was introduced in 2022 and was available in packs of 3 for {{Cost|6 C}} from the [[Sleepy Traveling Merchant|Sleepy Traveler's boat]] at [[Home]] for the duration of the event. All Message Boats were also temporarily transformed into Message Cranes throughout the event.<br>
+<br>
+{{#tag:gallery
+|Days-of-Love-Message-Crane-Spell-Morybel-0146.png {{!}} Days of Love Message Crane Spell icon
+Days of Love - Message Pink crane.png {{!}} Days of Love Message Crane Spell
+|widths=125|spacing=small|captionalign=center
+}}
+
+==February 2021<span id="2021"></span>==
+[[File:Days-of-love-2021.jpg|thumb|200px|right|Promotional image - Days of Love 2021]]
+Inspired by Valentine’s Day, Days of Love began on '''Friday, February 12 at 12:00, concluded on Sunday, February 21 at 12:00 (all times PST, UTC-8)''', and overlapped with [[Days of Fortune]] for a little over a week. Heart gifts sent to and received from friends during this event were doubled. 
+
+The Sleepy Traveling Merchant offered free spell versions of all of the event items on their boat.{{Clear}}
+
+===2021 New Cosmetics and Props===
+====Days of Love Seesaw Pack<span id="Days of Love Seesaw"></span>====
+::'''''"Share a wonderous time with a friend on this Seesaw."'''''
+The Days of Love Seesaw Pack contains two items: the Days of Love Seesaw and {{Cost|35 SC}}. The Days of Love Seesaw is white with gold accents and sits low to the ground, with a curved seat and handles at both ends. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]], and functions as a two-player [[Chat]] item. When two players sit together, they will begin to push the seesaw up and down and hearts will start to appear above their heads that continue to grow in intensity over time. This pack was introduced in 2021 and was available for {{Cost|19.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Love Seesaw|iap}} {{!}} {{Icon Name|Love Seesaw|name}} IAP
+{{Icon Name|Love Seesaw|icon}} {{!}} {{Icon Name|Love Seesaw|name}} icon
+{{Icon Name|Love Seesaw|real}} {{!}} {{Icon Name|Love Seesaw|name}}
+Days-of-Love-Seesaw-item-on-back.png {{!}} {{Icon Name|Love Seesaw|name}} on a player's back
+{{Icon Name|Love Seesaw|spell}} {{!}} {{Icon Name|Love Seesaw|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Days of Love Swing Pack<span id="Days of Love Swing"></span>====
+::'''''"Relive the joy of playground escapades with this Swing Set."'''''
+The Days of Swing Pack contains two items: the Days of Love Swing and {{Cost|35 SC}}. The Days of Love Swing has two seats with engraved hearts suspended from a pale blue metal frame. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]], and functions as a two-player [[Chat]] item. When a player takes a seat, they will begin to swing back and forth. When two players sit together, hearts will start to appear above their heads and continue to grow in intensity over time. This Prop was originally introduced in 2020 before returning as a pack for {{Cost|19.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Love Swing|iap}} {{!}} {{Icon Name|Love Swing|name}} Pack IAP
+{{Icon Name|Love Swing|icon}} {{!}} {{Icon Name|Love Swing|name}} icon
+{{Icon Name|Love Swing|real}} {{!}} {{Icon Name|Love Swing|name}}
+Days-of-Love-Swing-using.png {{!}} Sitting on the {{Icon Name|Love Swing|name}}
+Days-of-Love-Swing-item-on-back.png {{!}} {{Icon Name|Love Swing|name}} on a player's back
+{{Icon Name|Love Swing|spell}} {{!}} {{Icon Name|Love Swing|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Days of Love Mask====
+The Days of Love Mask is the [[Base Mask]] with a red rose held by the stem in the player's mouth. This [[Mask]] was introduced in 2021 and was available for {{Cost|15 H}} from the Days of Love Staff at the [[Secret Area]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Love Mask|icon}} {{!}} {{Icon Name|Love Mask|name}} icon
+{{Icon Name|Love Mask|real}} {{!}} {{Icon Name|Love Mask|name}}
+{{Icon Name|Love Mask|spell}} {{!}} {{Icon Name|Love Mask|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+== February 2020<span id="2020"></span>==
+[[File:Days of love.jpg|thumb|200px|right|Promotional image - Days of Love 2020]]
+Days of Love began on '''Wednesday, February 12 at 12:00 and concluded on Wednesday, February 19 at 12:00 (all times PST, UTC-8)'''. Players could speak to the Quest Giver in Home by tapping on the heart icon and received four (4) Days of Love Swing spells for free. {{Clear}}
+
+===2020 New Cosmetics and Props=== 
+==== Days of Love Pack====
+The Days of Love Pack contains two items: the Days of Love Swing and a [[Season Pass|Season Gift Pass]]. The Days of Love Swing has two seats with engraved hearts suspended from a pale blue metal frame. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]], and functions as a two-player [[Chat]] item. When a player takes a seat, they will begin to swing back and forth. When two players sit together, hearts will start to appear above their heads and continue to grow in intensity over time. This pack was introduced in 2020 for {{Cost|19.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event. <small>(This version of the IAP is no longer available - it has been replaced by the 2021 version of the [[Days of Love#Days of Love Swing Pack|Days of Love Swing Pack]].)</small>
+{{#tag:gallery
+|Days of Love Pack IAP.png {{!}} Days of Love Pack IAP
+{{Icon Name|Love Swing|icon}} {{!}} {{Icon Name|Love Swing|name}} icon
+{{Icon Name|Love Swing|real}} {{!}} {{Icon Name|Love Swing|name}}
+Days-of-Love-Swing-using.png {{!}} Sitting on the {{Icon Name|Love Swing|name}}
+Days-of-Love-Swing-item-on-back.png {{!}} {{Icon Name|Love Swing|name}} on a player's back
+{{Icon Name|Love Swing|spell}} {{!}} {{Icon Name|Love Swing|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+==Trivia==
+*The ongoing [[Days of Love]] event [https://twitter.com/whirthun/status/1758229071216152597 prevented] Strong [[Shard Eruptions]] from happening in [[Jellyfish Cove]], where the event was taking place, on both February 15 and February 25, 2024.
+*The Love Seesaw Prop is featured in a piece of merch from thatskyshop, in the form of the [[That Sky Shop/Wave 6#Love Seesaw Pin|Love Seesaw Pin]]. It has a STAR feature which allows you and the friends holding your hand to get a Love Seesaw for a limited duration.
+*The Love Gondola is featured in a piece of merch from thatskyshop, in the form of the [[That Sky Shop/Wave 11#Love Boat Pin|Love Boat Pin]]. It has a STAR feature which allows you and the friends holding your hand to get the Love Boat Prop for a limited duration.
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+DoLove-2025-amethyst-colored-meteorite-promo-image.png|2025 Promo image
+DoLove-2025-Double-Hearts-promo-image.png|2025 Promo image
+DoLove-2025-use-emotes-promo-image.png|2025 Promo image
+Days-of-Love-2024-TGC-Promo-image.png|2024 Promo image
+DoLove-2024-Skids-watching-meteor-shower-promo-image.png|2024 Promo image
+DoLove-2024-Skids-in-Event-Area-Ticket-promo-image.png|2024 Promo image
+DoLove-2024-Skids-Event-Guide-Aviary-Village-promo-image.png|2024 Promo image
+DoLove-2023-Classy-Cravat-promo-image.png|2023 Promo image
+DoLove-2023-Props-promo-image.png|2023 Promo image
+Days-of-love-2022.jpg|2022 Promo image
+DoLove-2021-Seesaw-promo-image.png|2021 Promo image
+DoLove-2020-Rhythm-Guide-promo-image.png|2020 Promo image
+DoLove-2020-Happy-Valentine-Promo-Art.jpg|2020 Promo art
+DoLove-2020-Krill-Valentine-Promo-Art.png|2020 Promo art
+DoLove-2020-Constellation-Promo-Art.png|2020 Promo art
+2019-Valentines-Day-promo-image.png|2019 Promo art
+</gallery>
+
+==References==
+'''More information about Days of Love 2024 can be found on [https://www.thatskygame.com/news/revel-in-shared-connections-days-of-love-2024 ThatSkyGame's Website].'''
+<br>'''More information about Days of Love 2023 can be found on [https://www.thatskygame.com/news/treasuring-time-with-friends-during-days-of-love-2023 ThatSkyGame's Website].'''
+<br>'''More information about Days of Love 2022 can be found on [https://www.thatskygame.com/news/announcing-days-of-love-2022 ThatSkyGame's Website].'''
+<br>'''More information about Days of Love 2021 can be found on [https://www.thatskygame.com/news/launch-update-days-of-fortune-days-of-love ThatSkyGame's Website].'''
+<references />
+
+{{Holiday Navbox}}
+
+[[fr:Jours de l'Amour]]
+[[es:Días de amor]]
+[[de:Tage der Liebe]]
+[[pt-br:Dias de Amor]]
+
+{{DEFAULTSORT:Love, Days of}}
+[[Category:Events]]
+[[Category:Double Currency]]
+[[Category:Recurring Events]]

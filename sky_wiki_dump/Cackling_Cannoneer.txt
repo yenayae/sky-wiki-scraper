@@ -1,0 +1,162 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Abyss-Spirit-Cackling-Cannoneer.png|Standard
+Abyss-Spirit-Cackling-Cannoneer-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Mask|infobox}}{{Spirit Item||Hair|infobox}}{{Spirit Item||Cape|infobox}}
+|music     = {{Music Sheet|26}}
+|season    = Abyss
+|location  = Treasure Reef
+|ts        = August 7, 2023 (SV#4)
+}}
+<section begin="Summary" />The '''Cackling Cannoneer''' is a [[Seasonal Spirit]] from the [[Season of Abyss]] who offers the {{Emote|Cackling Cannoneer|inline_text}} Expression. The Cackling Cannoneer is found in the [[Treasure Reef]], on the big island to the player's left, where the [[Abyss Guide]]'s ship is docked. The collectibles [[#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Cackling Cannoneer|Mask|inline_text}}, a {{Spirit Item|Cackling Cannoneer|Hair|inline_text}}, a {{Spirit Item|Cackling Cannoneer|Cape|inline_text}}, and the {{Music Sheet|26|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:SOAbyss-Cackling-Cannoneer-Spirit-reveal.jpg|thumb|320px|none|TGC's Promo image]]
+
+==Memory==
+<div>
+{{#ev:youtube|xUrOGGXcPNU||inline|Video Guide}}
+<div>
+The Cackling Cannoneer can be found in the [[Treasure Reef]], on the big island to the player's left-handed side where the [[Abyss Guide]]'s ship is docked, past the [[Bumbling Boatswain]] and near a broken, wooden boat. This Spirit has a [[Standard Memory|standard memory]] with 7 memory fragments and an unlimited overall [[Timed Memory|time limit]].
+
+As their memory unfolds, the Cackling Cannoneer can be seen carrying a harpoon gun and sauntering up the slope with the [[Abyss Guide]], who carries a rolled-up target sheet. They stop at a broken wall to prepare for what seems like target practice. The Cannoneer gestures the Abyss Guide to hurry ahead to nail the target sheet to a faraway wall before running back to take cover. Once the two Spirits are safely out of the way, the Cackling Cannoneer takes aim and shoots - hitting the bullseye dead-on. The two Spirits go and observe the target sheet, happy with the shot.  
+
+At the end of the memory, the Abyss Guide punches the air in delight while the Cackling Cannoneer throws their head back and arms halfway up while laughing heartily and gleefully, pleased by the incredibly successful shot.<br>
+<br>
+[[File:04 GW Seasonal Spirit - Cackling Cannoneer.png|200px|thumb|none|Relive the Cackling Cannoneer's memory]]
+{{Clear}}
+
+==Expression==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Cackling-Cannoneer-evil-laugh-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Cackling-Cannoneer-evil-laugh-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Cackling-Cannoneer-evil-laugh-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Cackling-Cannoneer-evil-laugh-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar throw back their head and lift up their clenched fists before laughing heartily, their whole body shaking with the motion, while dark bassoon sound effects play.
+*Level 2 makes the same motion as Level 1, with red flames igniting and quickly flaming up as your avatar lifts their hands, then burning in place from their hands. This level is also accompanied by a flame igniting sound effect at the beginning of the Expression.
+*Level 3 will make your avatar start to laugh slowly, with their head tilted down and their hands close to their body, before spreading their legs further apart, throwing their head back, and lifting up their arms with clenched fists away from their body while laughing manically, while rising bassoon sound effects play.
+*Level 4 makes the same motion as Level 3, with several high red flames igniting around your avatar on the ground as soon as they spread their legs further apart.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+==Cosmetics==
+===Mask===
+The [[Mask]] offered by this Spirit includes an incomplete, dark gray, diagonally-cracked mask with uneven holes for the eyes and a light crack near the chin that sits on the lower half of the face, and three gray, faded, triangle-shaped markings printed across the exposed forehead, costing {{Cost|40 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's third node ({{Cost|28 SC|season=Abyss}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Hair===
+This [[Hair]] offered by this Spirit includes a set of three long, fluffy braids on the right half on the head, two of which hang over the shoulder in the front. Each braid has small strands sticking out, and is tied with wide brown bands at the bottom. The left side of the Hair is shaved and decorated with three triangle-shaped, faded markings near the hairline. The Hair costs {{Cost|50 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's sixth node ({{Cost|108 SC|season=Abyss}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Cape===
+The [[Cape]] offered by this Spirit consists of two layers, tied together in the front with a square-shaped, golden brooch with a turquoise stone, and are shifted slightly to the side: a tattered, dark green cloak, and a shorter, also tattered, layer on top with dark purple scales, costing {{Cost|70 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fifth node ({{Cost|74 SC|season=Abyss}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||Cape|interior}} {{!}} The Cape interior
+{{Icon Name||Cape|back}} {{!}} The Cape back
+{{Icon Name||Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Music Sheet==
+The Cackling Cannoneer offers the {{Music Sheet|26}} [[Music Sheet]] #26, costing {{Cost|15 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|8 SC|season=Abyss}}). It is a song in the key of C Major.<br>
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guide
+|content=
+{{#ev:youtube|Bkc9PwJt0Cg||inline|Music Sheet Video Guide by Ikejiji}}
+}}
+
+==Traveling Spirit==
+{{Friendship Tree Info | traveling
+| rs_dates=*August 7, 2023 (SV#4)}}
+<section begin='TS Friendship Tree' />{{Friendship Tree
+|spirit = Cackling Cannoneer
+|image  = SOAbyss-Cackling-Cannoneer-Spirit.png
+|season = Abyss
+
+|nodeC6 = music26 15 C
+|nodeL5 = Cape 70 C
+|nodeC5 = spellx 5 C
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeR4 = Hair 50 C
+|nodeC3 = wing
+|nodeL2 = Mask 40 C
+|nodeC2 = spell5
+|nodeR2 = Heart 3 C
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end='TS Friendship Tree' />
+
+==Season Friendship Tree==
+{{Friendship Tree Info | season | season=Abyss}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Cackling Cannoneer
+|image  = SOAbyss-Cackling-Cannoneer-Spirit.png
+|type   = season
+|season = Abyss
+
+|nodeC7 = season_heart 3 SC SP
+|nodeL6 = Hair SP
+|nodeC6 = spellx 34 SC
+|nodeL5 = spellx SP
+|nodeC5 = Cape 26 SC
+|nodeL4 = emote4 SP
+|nodeC4 = emote3 20 SC
+|nodeL3 = spellx SP
+|nodeC3 = Mask 16 SC
+|nodeL2 = music26 SP
+|nodeC2 = spell5 12 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}
+<section end="Season Friendship Tree" />
+
+==Unique Daily Quests==
+{{#section-h:Quests/Daily Quest Spirits|{{PAGENAME}}}}
+
+==Personality==
+On March 10 2022, TGC officially announced <ref name="Personality Tweet">https://twitter.com/thatskygame/status/1501999575615352835</ref> and introduced {{PAGENAME}} with the following personality traits: 
+*Always on guard—and ready to unleash a memorable laugh
+*🔹 Joined their 1st expedition on a dare
+*🔹 Learned their favorite song from the Anxious Angler
+*🔹 Refuses to admit when they get sea sick
+*🔹 Prone to embellishing stories
+
+==Trivia==
+*The sound effect during {{Emote||inline_text}} and four other particular Expressions ({{Emote|Slumbering Shipwright|inline_text}}, {{Emote|Laughing Light Catcher|inline_text}}, {{Emote|Chuckling Scout|inline_text}}, and {{Emote|Sneezing Geographer|inline_text}}) are different when heard from unlit (gray) and extinguished players. This difference extends to all Levels of the Expression.
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Season of abyss crackling cannoneer emote.jpg
+</gallery>
+
+==References==
+<references />
+
+[[de:Kicher-Kanonierin]]
+[[pt-br:Canhoneira Sorridente]]
+[[ru:Хохотушка с пушкой]]
+[[ja:豪快に笑う砲手]]
+[[fr:Canonnière caquetante]]

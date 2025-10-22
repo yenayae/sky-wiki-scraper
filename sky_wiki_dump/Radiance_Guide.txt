@@ -1,0 +1,180 @@
+{{Guide Infobox
+|image     = <gallery>
+Radiance-Ultimate-Guide.png|Original
+Radiance-Guide-Spirit-Dyed.png|Dyed
+</gallery>
+|type      = Seasonal
+|ultimates = {{Spirit Item|Radiance Guide|cape_u|infobox|link=#Radiance_Ultimate_Cape}}{{Spirit Item|Radiance Guide|mask_u|infobox|link=#Radiance_Ultimate_Mask}}
+|cosmetics = {{Spirit_Item|Radiance Guide|cape_a|infobox|link=#Cape}}
+|props     = 
+|season    = Radiance
+|realm     = Aviary Village
+|location  = [[Aviary_Village#Dye_Workshop|Dye Workshop]]
+|pendant={{Spirit Item|Radiance Guide|necklace_u|infobox}}}}
+
+<section begin="Summary" />The '''Radiance Guide''' is a Seasonal Guide (also known as Quest Giver) from the [[Season of Radiance]] who offers Quests and [[Radiance Guide#Ultimate Gifts|cosmetics]]. The Radiance Guide is found in the Dye Workshop. The Ultimate Guide offers a {{Spirit Item|Radiance Guide|necklace_u|inline_text}}, a {{Spirit Item|Radiance Guide|cape_u|inline_text}}, and a {{Spirit Item|Radiance Guide|mask_u|inline_text}} for [[Season Pass]] holders.<br>
+<br>
+This Ultimate Guide also provides a new cosmetic in their Quest Tree, available to all players: a {{Spirit Item|Radiance Guide|cape_a|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Radiance-Guide-Introduction-image.png|none|thumb|300x300px|TGC's Promo image]]
+
+==<span id="Ultimate Pendant"><span id="Radiance Ultimate Pendant">Seasonal Pendant</span></span>==
+The Radiance Ultimate [[Necklaces|Pendant]] is the usual gold pendant featuring the Season's emblem attached to a necklace. It is a [[Season Pass]] exclusive item<!--(Post-Season:) during the Season-->, available from the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Radiance Guide|Necklace_u|icon}} {{!}} Radiance Ultimate Pendant icon
+{{Icon Name|Radiance Guide|Necklace_u|real}} {{!}} Radiance Ultimate Pendant
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Ultimate Gifts==
+The Season of Radiance Guide offered 2 Ultimate Gifts, available to be purchased by [[Season Pass]] holders with [[Currency#Season Hearts|Seasonal Hearts]] during the Season of Radiance only.
+
+===<span id="Ultimate Mask">Radiance Ultimate Mask</span>===
+The Radiance Ultimate [[Mask]] is an animal-inspired mask featuring a head with horns. A golden rim runs from the snout to the mask's flat semicircular ears, which feature dangling rectangular earrings. Thick markings outline the eyes. Attached to the head is a pair of long, golden curved horns which hold a moon-like sphere suspended between them. The base version of this Mask is dark brown, with a white forehead and a deep orange and yellow gradient on the eye marks and inner ears. It is a [[Season Pass]] exclusive item, costing {{Cost|2 SH|season=Radiance}} after unlocking the Friendship Tree's third node.<br><br>
+{{Dye Details
+|area1=the earrings and lower part of the mask
+|area2=around the eyes
+|cost1=2
+|cost2=1
+}}<br><br>
+{{#ev:youtube|9EfcrRSvWXE||right|Dye Showcase}}
+{{#tag:gallery
+|{{Icon Name|Radiance Guide|Mask_u|icon}} {{!}} Radiance Ultimate Mask icon
+{{Icon Name|Radiance Guide|Mask_u|real}} {{!}} Radiance Ultimate Mask front
+{{Icon Name|Radiance Guide|Mask_u|side}} {{!}} Radiance Ultimate Mask side
+|widths=125|captionalign=center|spacing=small
+}}
+{{Clear}}
+===<span id="Ultimate Cape">Radiance Ultimate Cape</span>===
+The Radiance Ultimate [[Cape]] is a long, off-white wrap-around neck scarf with golden accents at the hems and a golden star at the front. The scarf's ends feature wavy bands of orange, green, and light blue. It is a [[Season Pass]] exclusive item, costing {{Cost|1 SH|season=Radiance}} after unlocking the Friendship Tree's second node.<br><br>
+{{Dye Details
+|area1=the main body
+|area2=the ends
+|cost1=4
+|cost2=2
+}}<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Radiance Guide|Cape_u}} {{!}} Radiance Ultimate Cape icon
+{{Icon Name|Radiance Guide|Cape_u|front}} {{!}} Radiance Ultimate Cape front
+{{Icon Name|Radiance Guide|Cape_u|interior}} {{!}} Radiance Ultimate Cape interior
+{{Icon Name|Radiance Guide|Cape_u|back}} {{!}} Radiance Ultimate Cape back
+{{Icon Name|Radiance Guide|Cape_u|exterior}} {{!}} Radiance Ultimate Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Additional Cosmetics ==
+Upon completing Quests of the Season of Radiance, an additional item is available to be collected for {{Heart}} [[Currency#Hearts|Hearts]] through the Radiance Guide's [[#Quest Tree|Quest Tree]]. '''All items remain in the Ultimate Guide's Quest Tree after the Season ends.'''
+
+===Cape===
+The [[Cape]] offered by the Radiance Guide has a white interior and two star-shaped layers, available for {{Cost|12 H}}. It is permanently available to all players after completing the season's [[Season_of_Radiance#Quest_#5|final quest]]. 
+
+The top layer is orange with five points, and the bottom layer is yellow with four. The bottom layer's points poke out from between the top layer's. Both have a trim along the edge in the other layer's color.
+<br><br>
+{{Dye Details
+|area1=the top layer and bottom layer's trim
+|area2=the bottom layer and top layer's trim
+|cost1=3
+|cost2=2
+}}<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Radiance Guide|Cape_a}} {{!}} The Cape icon
+{{Icon Name|Radiance Guide|Cape_a|front}} {{!}} The Cape front
+{{Icon Name|Radiance Guide|Cape_a|interior}} {{!}} The Cape interior
+{{Icon Name|Radiance Guide|Cape_a|real}} {{!}} The Cape back
+{{Icon Name|Radiance Guide|Cape_a|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Friendship Tree==
+The Radiance Guide's Friendship Tree is available to the right of the Quest Tree during the Season of Radiance only. <!--(Post-Season:) Now that the Season is over, these cosmetics are no longer available.-->
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Radiance Guide
+|image  = Radiance-Ultimate-guide.png
+|type   = season
+|season = Radiance
+
+|nodeC3 = mask_u 2 SH AP
+|  linkC3 = Radiance Guide#Ultimate Mask
+
+|nodeC2 = cape_u 1 SH AP
+|  linkC2 = Radiance Guide#Ultimate Cape
+
+|nodeC1 = necklace AP
+|  linkC1 = Radiance Guide#Seasonal Pendant
+}}
+<section end="Friendship Tree" />
+==Quest Tree==
+The Radiance Guide's Quest Tree is available for all players to complete Quests from the [[Season of Radiance]]. Once you complete a Quest, a {{Cost|H}} [[Heart]] is available to be collected for free.<!-- during Season of Radiance.(Post-Season (if applies):) Since the end of the Season, players completing these Quests for the first time have to pay 3 {{Candle}} to obtain these Hearts. -->
+<section begin="Quest Tree" />{{Friendship Tree
+|spirit = Radiance Guide
+|image  = Radiance-Ultimate-guide.png
+|type   = season
+|season = Radiance
+
+|nodeC9 = cape_a 12 H
+|  linkC9 = Radiance Guide#Cape
+
+|nodeL8 = Heart free
+|nodeC8 = quest
+|  linkC8 = Season of Radiance#Quest #5
+|  labelC8 = Quest 5
+
+|nodeL7 = White-dye-container-icon.png
+|  noteL7 = ×3
+|nodeC7 = quest 
+|  linkC7 = Season of Radiance#Quest #4
+|  labelC7 = Quest 4
+|nodeR7 = Black-dye-container-icon.png
+|  noteR7 = ×3
+
+|nodeL6 = Purple-dye-container-icon.png
+|  noteL6 = ×3
+|nodeC6 = Blue-dye-container-icon.png
+|  noteC6 = ×3
+
+|nodeL5 = Heart free
+|nodeC5 = quest
+|  linkC5 = Season of Radiance#Quest #3
+|  labelC5 = Quest 3
+
+|nodeL4 = Cyan-dye-container-icon.png
+|  noteL4 = ×3
+|nodeC4 = Green-dye-container-icon.png
+|  noteC4 = ×3
+
+|nodeL3 = Heart free
+|nodeC3 = quest
+|  linkC3 = Season of Radiance#Quest #2
+|  labelC3 = Quest 2
+
+|nodeL2 = Yellow-dye-container-icon.png 
+|  noteL2 = ×3
+|nodeC2 = Red-dye-container-icon.png
+|  noteC2 = ×3
+
+|nodeL1 = Heart free
+|nodeC1 = quest
+|  linkC1 = Season of Radiance#Quest #1
+|  labelC1 = Quest 1
+}}
+
+<section end="Quest Tree" />
+
+==Personality==
+On February 13, 2025, TGC officially announced and introduced the Radiance Guide with the following personality traits<ref>[https://archive.md/yfzeS https://x.com/thatskygame/status/1890204441787396137]</ref>:
+
+*🦋Fascinated by Light Creatures, especially butterflies
+*🧘‍♀️Expert at designs but likes muted styles for their outfits
+*🤔Believes things are seldom only black & white
+*❗Is running out of room for their dye swatches
+
+==References==
+<references/>
+
+[[ja:光染めの案内人]]
+[[pt-br:Guia do Resplendor]]
+[[zh:彩染嚮導]]
+[[fr:Guide de l'Éclat]]

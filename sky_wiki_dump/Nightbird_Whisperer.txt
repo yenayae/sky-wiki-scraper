@@ -1,0 +1,140 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Call
+|image     = Moments-Spirit-Nightbird-Whisperer.png
+|cosmetics = {{Spirit Item||Outfit|infobox}}{{Spirit Item||Footwear|infobox}}{{Spirit Item||Hair|infobox}}{{Spirit Item||Hairpiece|infobox}}
+|season    = Moments
+|realm     = Daylight Prairie
+|location  = Prairie Peaks
+|ts        = None
+}}
+
+<section begin="Summary" />The '''Nightbird Whisperer''' is a [[Seasonal Spirit]] from the [[Season of Moments]] who offers the {{Emote|Nightbird Whisperer|inline_text}}. The Nightbird Whisperer is found in the [[Prairie Peaks]], in a bird-filled cave to the left of the entrance of the area. The collectibles [[#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Nightbird Whisperer|Outfit|inline_text}}, {{Spirit Item|Nightbird Whisperer|Footwear|inline_text}}, a {{Spirit Item|Nightbird Whisperer|Hair|inline_text}}, and a {{Spirit Item|Nightbird Whisperer|Hairpiece|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Nightbird-Whisperer-Promo-art.jpg|thumb|320px|none|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|C8otHgCYJ7U|thumb|inline|Video Guide}}
+
+The Nightbird Whisperer can be found in the [[Prairie Peaks]], in a bird-filled cave to the left of the entrance of the area, on the left side of the biggest monolith in the middle of the cave. This Spirit has a [[Standard Memory|standard memory]] with 11 memory fragments and a 15-minute overall [[Timed Memory|time limit]]. 
+
+As their memory unfolds, the Nightbird Whisperer can be seen birdwatching with a notebook in hand, chasing eagerly after their subjects. To better observe a bird landed on the ground, the Spirit hides behind one of the many nearby monoliths. At this point the [[Jolly Geologist]] arrives, walking joyfully through the area, and startles the bird into taking flight by coming too close. The Nightbird Whisperer comes out of hiding to invite the Jolly Geologist to join their birdwatching, guiding them towards an alcove to observe from together.  
+
+At the end of the memory, the Nightbird Whisperer lets out a loud bird's call that echoes through the cave and a bird responds, flying towards the Spirit duo.
+</div>
+
+== <span id="Expression">Call</span> ==
+This Spirit offers the {{Emote|Nightbird Whisperer|inline_text}}, which modifies the player's voice to a loud echoing bird's call.
+
+[[File:{{Icon Name|Nightbird Whisperer|emote}}|x170px|left]]
+[[File:Nightbird-Whisperer-nightbird-call-emote.mp4|300px]]
+{{Clear}}
+
+==Cosmetics==
+===<span id="Outfit">Outfit</span>===
+The [[Outfit]] offered by this Spirit is a pair of beige cargo shorts with an orange and blue cloth tied around the waist and a sleeveless top. It was available to all players during the Season from the Friendship Tree's fourth node ({{Cost|64 SC|season=Moments}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Outfit|icon}} {{!}} The Outfit icon
+{{Icon Name||Outfit|real}} {{!}} The Outfit front
+{{Icon Name||Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Footwear">Shoes</span>===
+The [[Shoes]] offered by this Spirit are a pair of brown hiking shoes with mismatched white socks - one with a blue horizontal stripe in the middle and the other with a yellow one. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fifth node ({{Cost|100 SC|season=Moments}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Footwear|icon}} {{!}} The Shoes icon
+{{Icon Name||Footwear|real}} {{!}} The Shoes
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Hair">Hair</span>===
+The [[Hair]] offered by this Spirit is a pair of lopsided pigtails with mismatched hair ties - one orange and the other blue. It was available to all players during the Season from the Friendship Tree's second node ({{Cost|12 SC|season=Moments}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair front
+{{Icon Name||Hair|side}} {{!}} The Hair side
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Hair Accessory">Hair Accessory</span>===
+The [[Hair Accessory]] offered by this Spirit is a green leaf cradling a dew drop that sits on top of the player's head. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's third node ({{Cost|36 SC|season=Moments}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hairpiece|icon}} {{!}} The Hair Accessory icon
+{{Icon Name||Hairpiece|real}} {{!}} The Hair Accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling }} <!-- ONLY APPLICABLE ONCE SPIRIT HAS BECOME A TRAVELING SPIRIT 
+|ts_dates=
+}}<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Nightbird Whisperer
+|image = Moments-Spirit-Nightbird-Whisperer.png
+|season = season
+
+|nodeC5 = Outfit ? C
+|nodeR4 = Footwear ? C
+|nodeL4 = Hairpiece ? C
+|nodeC4 = spell5
+|nodeC3 = wing
+|nodeR2 = heart
+|nodeC2 = spell5
+|nodeL2 = Hair ? C
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+The hints given before the Nightbird Whisperer's first appearance were: 
+{{Collapse
+|label=First Visit Hints
+|content=<div>
+*  [ hints can be on the official Sky Discord which are posted a few days before the Traveling Spirit by staff of thatgamecompany. ]
+</div>
+}}-->
+
+==Season Friendship Tree ==
+{{Friendship Tree Info |season|season=Moments}} <section begin="Season Friendship Tree" />
+{{Friendship Tree
+|spirit = Nightbird Whisperer
+|image  = Moments-Spirit-Nightbird-Whisperer.png
+|type   = season
+|season = Moments
+
+|nodeC6 = season_heart 3 SC SP
+
+|nodeL5 = footwear SP
+|nodeC5 = spellx 36 SC
+|nodeL4 = spellx SP
+|nodeC4 = outfit 28 SC
+|nodeL3 = Hairpiece SP
+|nodeC3 = spellx 24 SC
+|nodeL2 = spellx SP
+|nodeC2 = hair 12 SC
+|nodeC1 = emote free
+}}<section end="Season Friendship Tree" />
+
+==Unique Daily Quests==
+{{#section-h:Quests/Daily Quest Spirits|{{PAGENAME}}}}
+
+==Personality==
+On July 13, 2023, TGC officially announced and introduced the Nightbird Whisperer with the following personality traits:
+
+*📝 Has shelves upon shelves of field notes
+*💭 Can identify 39 types of creatures just from their call
+*❓ Adamant that there’s no such thing as a silly question
+*🧩 Loves solving mazes
+
+==References==
+<references />
+
+[[pt-br:Domadora de Aves Noturnas]]
+[[fr:Charmeuse d'oiseaux de nuit]]
+[[de:Nachtvogelflüsterin]]
+[[ja:夜鳥の語り部]]
+
+[[Category:Season of Moments]]

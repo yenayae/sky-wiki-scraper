@@ -1,0 +1,48 @@
+{{Guide Infobox
+|image     = Lightseekers-Guide-Spirit.png
+|ultimates = {{Spirit Item||prop_u|link=#Lightseekers Ultimate Prop|label=Lightseekers Ultimate Prop|infobox}}
+|season    = Lightseekers
+|location  = Home
+}}
+<section begin="Summary" />The '''Lightseeker Guide''' is a Seasonal Guide from the [[Season of Lightseekers]] who offered [[Lightseeker Guide#Ultimate Gifts|cosmetics]] and no Quests. The Lightseeker Guide was only found at [[Home]] during the Season and cannot be found today since they are no longer present in the game. The Ultimate Guide offered a {{Spirit Item|Lightseekers Guide|necklace_u|link=Lightseeker Guide#Lightseekers Ultimate Pendant|inline_text}} and a {{Spirit Item||prop_u|link=Lightseeker Guide#Lightseekers Ultimate Prop|label=Lightseekers Ultimate Prop|inline_text}} for [[Season Pass]] holders.<section end="Summary" />
+
+==<span id="Ultimate Pendant"><span id="Lightseekers Ultimate Pendant">Seasonal Pendant</span></span>==
+The Lightseekers Ultimate [[Necklaces|Pendant]] is the usual gold pendant featuring the Season's emblem attached to a necklace. It was a [[Season Pass]] exclusive item during the Season, available for free with the purchase of the Season Pass.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||necklace_u|icon}} {{!}} Lightseekers Ultimate Pendant
+{{Icon Name||necklace_u|real}} {{!}} Lightseekers Ultimate Pendant
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Ultimate Gifts==
+The Lightseeker Guide offered 1 Ultimate Gift, available for free by [[Season Pass]] holders after completing all [[Season of Lightseekers#Spirits and Cosmetics|Seasonal Spirits]] during the Season of Lightseekers only.
+
+===Lightseekers Ultimate Prop===
+The Lightseekers Ultimate [[Prop]] is a blue bioluminescent umbrella, decorated with a lighter blue spiral pattern on the canopy and little glowing light balls all around the umbrella's edges. When equipped, this umbrella is held by the player and provides protection from the [[Flora, Minerals and Elements of Sky#Rain|rain]]. It cannot be placed and therefore cannot be used in [[Shared Spaces]]. It was a [[Season Pass]] exclusive item during the Season, available for free from the Seasonal [[Constellation]] after completing all [[Season of Lightseekers#Spirits and Cosmetics|Seasonal Spirits]].<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||prop_u|icon}} {{!}} Lightseekers Ultimate Prop icon 
+{{Icon Name||prop_u|real}} {{!}} Lightseekers Ultimate Prop
+{{Icon Name||prop_u|held}} {{!}} Holding the Lightseekers Ultimate Prop
+{{Icon Name||prop_u|back}} {{!}} Lightseekers Ultimate Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Friendship Tree==
+Unlike later Ultimate Guides, the Lightseeker Guide did not have a Friendship Tree. Instead, the [[Lightseeker Guide#Ultimate Gifts|Ultimate Gift]] was obtained by clicking the flag in the middle of the Seasonal Constellation after completing all [[Season of Lightseekers#Spirits and Cosmetics|Seasonal Spirits]]. '''Now that the Season is over, their cosmetics are no longer available.'''
+
+==Quest Tree==
+Unlike later Ultimate Guides, the Lightseeker Guide did not have a Quest Tree since there were no Seasonal Quests.
+
+==Trivia==
+* The Mask worn by the Guide is '''not obtainable'''. But it was available on the [[NetEase/Cosmetics|Netease version]] of Sky for a limited time.
+* The Lightseeker Guide made an appearance during [[Days of Bloom]] in 2022, wearing the [[Days of Bloom#Bloom Cape|Bloom Cape]] and offering the [[Days of Bloom#Pink Bloom Teaset|Pink Bloom Teaset]] IAP. They later made another appearance during [[Sky Anniversary#SkyFest July 2024|SkyFest]] in 2024.
+* The Lightseekers Ultimate Prop is featured in a piece of merch from thatskyshop, in the form of the [[That Sky Shop/Wave 2#Lightseeker Umbrella|Lightseeker Umbrella]]. It has a STAR feature which allows you to hold the memory of the Lightseeker Umbrella with the friends that you're holding hands with for a limited duration.
+
+[[pt-br:Guia dos Caçadores de Luz]]
+[[de:Lichtsucher-Helfer]]
+[[ja:光の探求者の案内人]]
+[[fr:Guide des Chercheurs de lumière]]
+
+[[Category:Season of Lightseekers]]

@@ -1,0 +1,132 @@
+{{Guide Infobox
+|image     = Vault-Elder-Lantern-Ultimate-Guide-cutout.png
+|ultimates = {{Spirit Item|Vault Elder's Lantern|hairpiece_u|infobox|link=Vault Elder's Lantern#Ultimate Hairpiece}}{{Spirit Item|Vault Elder's Lantern|Cape_u|infobox|link=Vault Elder's Lantern#Ultimate Cape}}
+|season    = The Two Embers - Part 1
+|realm     = Golden Wasteland
+|location  = [[The Last City]], [[Sky Cinema]]
+}}
+<section begin="Summary" />The '''Vault Elder's Lantern''' is a Seasonal Guide (also known as Quest Giver) from the [[Season of The Two Embers - Part 1]] who offers Quests and [[Vault Elder's Lantern#Ultimate Gifts|cosmetics]]. The Vault Elder's Lantern is found in the Sky Cinema at [[Aviary Village]], in the room to the left of the shop spirits and opposite the wardrobe room. The Ultimate Guide offers a {{Spirit Item|Vault Elder's Lantern|necklace_u|inline_text|link=Vault Elder's Lantern#Seasonal Pendant}}, a {{Spirit Item|Vault Elder's Lantern|hairpiece_u|inline_text|link=Vault Elder's Lantern#Ultimate Hairpiece}}, and a {{Spirit Item|Vault Elder's Lantern|cape_u|inline_text|link=Vault Elder's Lantern#Ultimate Cape}} for [[Season Pass]] holders.
+
+This Ultimate Guide also provides a new cosmetic in their Quest Tree, permanently available to all players: a {{Spirit Item|Vault Elder's Lantern|prop_a|inline_text|link=Vault Elder's Lantern#Prop}}.<section end="Summary" /><br><br>
+<!--[[File:Two-Embers-Ultimate-Guide-promo-image.png|none|thumb|300x300px|TGC's Promo image]]-->
+
+==<span id="Ultimate Pendant"><span id="Two Embers Ultimate Pendant">Seasonal Pendant</span></span>==
+The Two Embers Ultimate [[Necklaces|Pendant]] is the usual pendant featuring the Season's emblem attached to a necklace, with two faces, one silver and one gold. It is a [[Season Pass]] exclusive item during the Season, available for free from the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Vault Elder's Lantern|Necklace_u|icon}} {{!}} Two Embers Ultimate Pendant icon
+{{Icon Name|Vault Elder's Lantern|Necklace_u|real}} {{!}} Two Embers Ultimate Pendant
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Ultimate Gifts==
+The Season of Two Embers offered 2 Ultimate Gifts, available to be purchased by [[Season Pass]] holders with [[Currency#Season Hearts|Seasonal Hearts]] during the Season of Two Embers - Part 1 only.
+
+===<span id="Ultimate Hairpiece">Two Embers Part 1 Ultimate Hair Accessory</span>===
+The Two Embers Ultimate [[Hair Accessory]] consists of glowing blue shapes and stars that portray the [[Vault of Knowledge]]'s [[Constellation]] and float behind the player's head. It was a [[Season Pass]] exclusive item, available for {{Cost|2 SH|season=Two Embers Part 1}} after unlocking the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hairpiece_u}} {{!}} Two Embers Ultimate Hairpiece icon
+{{Icon Name||Hairpiece_u|real}} {{!}} Two Embers Ultimate Hairpiece
+{{Icon Name||Hairpiece_u|back}} {{!}} Two Embers Ultimate Hairpiece back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Ultimate Cape">Two Embers Part 1 Ultimate Cape</span>===
+The Two Embers Ultimate [[Cape]] consists of a white overcoat and a purple stole. Both parts are decorated with ornaments, mostly consisting of golden triangle-shapes at the hems. The interior and the stole have stars sprinkled on them that sparkle brightly. It was a [[Season Pass]] exclusive item, available for {{Cost|2 SH|season=Two Embers Part 1}} after unlocking the Friendship Tree's second node.
+
+This item gives the wearer and the friends they hold hands with the special ability to fly in [[The Last City]], as well as grant access to the Season's special area within it, the [[The Last City#Cloister|Cloister]]. The entrance can be found near the back of the city, opposite of the Manatee pens. This ability was added in Patch {{v|0.30.5}}.
+<br><br>
+{{Dye_Details
+|area1 = the base background of the stole
+|area2 = a gradient at the shoulders of the stole and at the bottom of the interior
+|cost1 = 3 
+|cost2 = 3
+}}<br><br>
+{{#tag:gallery
+|{{Icon Name||Cape_u}} {{!}} Two Embers Ultimate Cape icon
+{{Icon Name||Cape_u|front}} {{!}} Two Embers Ultimate Cape front
+{{Icon Name||Cape_u|interior}} {{!}} Two Embers Ultimate Cape interior
+{{Icon Name||Cape_u|real}} {{!}} Two Embers Ultimate Cape back
+{{Icon Name||Cape_u|exterior}} {{!}} Two Embers Ultimate Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Additional Collectibles==
+Upon completing [[Season of The Two Embers - Part 1#Quest #5|Quest #5]] of the Season of The Two Embers - Part 1, one additional cosmetic is available to collect for {{Cost|C}} [[Currency#Candles|regular Candles]] through the Vault Elder Lantern's [[#Quest Tree|Quest Tree]]. No [[Season Pass]] or other [[IAP]] purchase is necessary for this collaboration item.
+
+===Prop===
+The [[Prop]] offered by the Vault Elder's Lantern is a poster of [[Two Embers]] series, like the ones seen in the hallway of the [[Sky Anniversary#Sky Cinema|Sky Cinema]], costing {{Cost|27 C}}. It depicts the main character of the series, holding the Manatee, with the Eden mountain in the background—the poster is surrounded by a stone frame. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, it appears as a blue bag with a yellow drawstring. 
+
+It is '''permanently available''' to all players after completing [[Season of The Two Embers - Part 1#Quest #5|Quest #5]] of the Season of The Two Embers - Part 1, after unlocking the Quest Tree's fifth node.
+<br>
+{{#tag:gallery
+|{{Icon Name|Elder's Lantern|prop_a|icon}} {{!}} The Prop icon
+{{Icon Name|Elder's Lantern|prop_a|real}} {{!}} The Prop
+{{Icon Name|Elder's Lantern|prop_a|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+
+==Friendship Tree==
+The Vault Elder's Lantern's Friendship Tree is available to the right of the Quest Tree during the Season of Two Embers only. 
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit  = Vault Elder's Lantern
+|image   = Vault-Elder-Lantern-Ultimate-Guide-cutout.png
+|type    = season
+|season  = Two Embers Part 1
+
+|nodeC3  = cape_u 2 SH AP
+| linkC3 = Vault Elder's Lantern#Ultimate Cape
+
+|nodeC2  = hairpiece_u 2 SH AP
+| linkC2 = Vault Elder's Lantern#Ultimate Hairpiece
+
+|nodeC1  = necklace AP
+| linkC1 = Vault Elder's Lantern#Seasonal Pendant
+}}<section end="Friendship Tree" />
+
+==Quest Tree==
+The Vault Elder's Lantern's Quest Tree is available for all players to complete Quests from the [[Season of The Two Embers - Part 1]]. Once you complete a Quest, a Heart is available to be collected for free during the Season of The Two Embers - Part 1.<!--(Post-Season (if applies):) Since the end of the Season, players completing these Quests for the first time have to pay 3 {{Candle}} to obtain these Hearts.-->
+<section begin="Quest Tree" />{{Friendship Tree
+|spirit = Vault Elder's Lantern
+|image  = Vault-Elder-Lantern-Ultimate-Guide-cutout.png
+
+|type   = season
+|season = Two Embers Part 1
+
+|nodeC6 = prop_a 27 C
+
+|nodeL5 = Heart free
+|nodeC5 = quest
+|  linkC5 = Season of The Two Embers - Part 1#Quest #5
+|  labelC5 = Quest 5
+
+|nodeL4 = Heart free
+|nodeC4 = quest
+|  linkC4 = Season of The Two Embers - Part 1#Quest #4
+|  labelC4 = Quest 4
+
+|nodeL3 = Heart free
+|nodeC3 = quest
+|  linkC3 = Season of The Two Embers - Part 1#Quest #3
+|  labelC3 = Quest 3
+
+|nodeL2 = Heart free
+|nodeC2 = quest
+|  linkC2 = Season of The Two Embers - Part 1#Quest #2
+|  labelC2 = Quest 2
+
+
+|nodeL1 = Heart free
+|nodeC1 = quest
+|  linkC1 = Season of The Two Embers - Part 1#Quest #1
+|  labelC1 = Quest 1
+}}<section end="Quest Tree" />
+
+==References==
+<references/>
+
+[[ja:大精霊の記憶の燈]]
+[[pt-br:Lanterna do Ancião do Relicário]]
+[[fr:Lanterne de l'Ancien de la chambre forte]]

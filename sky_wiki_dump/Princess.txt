@@ -1,0 +1,204 @@
+{{Spirit Infobox
+|title     = Princess
+|type      = Seasonal
+|emote_type= Emote
+|image     = Nine-Colored-Deer-Princess.png
+|cosmetics = {{Spirit Item||Outfit|infobox}}{{Spirit Item||Mask|infobox}}{{Spirit Item||Hair|infobox}}{{Spirit Item||Cape|infobox}}
+|props	   = 
+|music     =
+|season    = Nine-Colored Deer
+|realm     = Vault of Knowledge
+|location  = [[Crescent Oasis]]
+|ts        = None
+}}
+<section begin="Summary" />The '''Princess''' is a [[Seasonal Spirit]] from the [[Season of the Nine-Colored Deer]] who offers the {{Emote|Princess|inline_text}} Expression. The Princess is found in the [[Crescent Oasis]], in the round chamber hidden behind the throne room in the Royal Palace. The collectibles [[Princess#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Princess|Outfit|inline_text}}, a {{Spirit Item|Princess|Mask|inline_text}}, a {{Spirit Item|Princess|Hair|inline_text}}, and a {{Spirit Item|Princess|Cape|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Feudal Lord Princess Promo art.png|none|thumb|320px|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|AUaxZNv_Cec|200px|inline|Video Guide}}
+
+The Princess can be found in the [[Crescent Oasis]], in the round chamber hidden behind the throne room in the Royal Palace. This Spirit has a [[Standard Memory|standard memory]] with 8 memory fragments and a 10-minute overall [[Timed Memory|time limit]]. 
+
+As their memory unfolds, the Princess can be seen lounging on a mat at the center of the chamber while [[Mantas]] and [[Birds]] fly overhead. As the Spirit falls asleep, they begin to dream of the Nine-Colored Deer and of chasing after the spectral creature as it prances gracefully through the air. When the Princess eventually wakes, it's to the sight of the [[Feudal Lord]] approaching their resting place.
+
+At the end of the memory, the Princess rises from their mat and rushes to greet the Feudal Lord, eager to share the contents of their dream - and of a desire to make it become a reality.
+</div>
+{{Clear}}
+
+==<span id="Expression">Expression</span>==
+{{Distinguish|type=emote|Telekinesis|Float|Blindfold Balance Pose}}
+{{Distinguish|type=emote|Triple Axel|Twirl}}
+
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.<br>
+<br>
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Princess-float-spin-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Princess-float-spin-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Princess-float-spin-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Princess-float-spin-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar float off the ground and slowly spin in place, striking an elegant pose with one arm raised and the other behind their back, while a gentle harp sound effect plays.
+*Level 2 makes the same motion as Level 1, with sparkles trailing from your avatar's hands and a golden halo around their head.
+*Level 3 will make your avatar float off the ground and spin in place, striking an elegant pose, before tilting backwards to complete a circular swoop back upright, while a more elaborate harp sound effect plays.
+*Level 4 makes the same motion as Level 3, with sparkles trailing from your avatar's hands and pink flower petals appearing within the surrounding space.
+<!--
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.-->
+
+==Cosmetics==
+===<span id="Outfit">Outfit</span>===
+The [[Outfit]] offered by this Spirit is a red robe with long sleeves, a black belt, a blue collar and cuffs, and a golden band around the player's neck.<!--, costing {{Cost|?? C}} from the Traveling Spirit.--> It was available to all players during the Season from the Friendship Tree's fifth node ({{Cost|74 SC|season=Nine-Colored Deer}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Outfit|icon}} {{!}} The Outfit icon
+{{Icon Name||Outfit|real}} {{!}} The Outfit front
+{{Icon Name||Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Mask">Mask</span>===
+The [[Mask]] offered by this Spirit is the player's bare face with a blue, flower-shaped mark on the forehead and a red crescent mark beneath both eyes.<!--, costing {{Cost|?? C}} from the Traveling Spirit.--> It was available to all players during the Season from the Friendship Tree's second node ({{Cost|8 SC|season=Nine-Colored Deer}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Hair">Hair</span>===
+The [[Hair]] offered by this Spirit is a loosely pulled back bun tucked within a golden crown piece that is bracketed between a pair of horizontal hairpins with yellow tassels hanging from their ends.<!--, costing {{Cost|?? C}} from the Traveling Spirit.--> It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's third node ({{Cost|26 SC|season=Nine-Colored Deer}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair front
+{{Icon Name||Hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Cape">Cape</span>===
+The [[Cape]] offered by this Spirit is a short yellow shawl with blue accents and three tassels hanging from the back edge.<!--, costing {{Cost|?? C}} from the Traveling Spirit.--> It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's sixth node ({{Cost|106 SC|season=Nine-Colored Deer}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||Cape|interior}} {{!}} The Cape interior
+{{Icon Name||Cape|real}} {{!}} The Cape back
+{{Icon Name||Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling}}<!--
+|ts_dates=*DATE (# )
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Princess
+|image = Nine-Colored-Deer-Princess.png
+|season= Nine-Colored Deer
+
+|nodeR6 = Hair ? C
+|nodeL6 = Cape ? C
+|nodeC6 = Outfit ? C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Mask ? C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+The hints given before the Princess's first appearance were: 
+{{Collapse
+|label=First Visit Hints
+|content=<div>
+*  [ hints can be on the official Sky Discord which are posted a few days before the traveling spirit by staff of thatgamecompany. ]
+</div>
+}}-->
+
+==Season Friendship Tree ==
+{{Friendship Tree Info | season| season=the Nine-Colored Deer}} <section begin="Season Friendship Tree" />
+{{Friendship Tree
+|spirit = Princess
+|image  = Nine-Colored-Deer-Princess.png
+|type   = season
+|season = Nine-Colored Deer
+
+|nodeC7 = season_heart 3 SC SP
+
+|nodeL6 = cape SP
+|nodeC6 = spellx 32 SC
+
+|nodeL5 = spellx SP
+|nodeC5 = outfit 26 SC
+
+|nodeL4 = emote4 SP
+|nodeC4 = emote3 22 SC
+
+|nodeL3 = hair SP
+|nodeC3 = spellx 18 SC
+
+|nodeL2 = spellx SP
+|nodeC2 = mask 8 SC
+
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Personality==
+On January 12, 2024, TGC officially announced and introduced the Princess with the following personality traits:
+
+* 🏰 Enjoys thinking up new trends
+* 🏰 Avid collector of all sorts of things
+* 🏰 Dives deep into a hobby for a bit, then moves on entirely
+* 🏰 Loves taking naps
+
+==Trivia==
+* The Princess is one of only two Spirits or non-Spirit entities to have a one-word name, the other being the [[Hunter]], also from the [[Season of the Nine-Colored Deer]].
+
+==In Other Languages==
+{{Help|lang}}
+{{Other Languages|title=Princess
+|fr            = Princesse
+|fr_meaning    = Princess
+|ja            = 王女*
+|ja_rom        = Oujo
+|ja_meaning    = Princess
+|id            =
+|id_meaning    =
+|de            = Prinzessin
+|de_meaning    = Princess
+|vi            = Công chúa
+|vi_meaning    = Princess
+|ko            =
+|ko_meaning    =
+|es            =
+|es_meaning    =
+|it            =
+|it_meaning    =
+|pt            =
+|pt_meaning    = 
+|ru            = Принцесса
+|ru_rom        = Princessa
+|ru_meaning    = Princess
+|zh_cn         =
+|zh_cn_meaning =
+|zh_tw         =
+|zh_tw_meaning =
+}}
+<nowiki>*</nowiki> There are two Japanese words for "princess". 王女 ''oujo'' is used for princesses in Asia-based scenarios, while 姫 ''hime'' is used for more Western scenarios.
+
+==References==
+<references />
+
+[[pt-br:Princesa]]
+[[de:Prinzessin]]
+[[ja:王女]]
+[[fr:Princesse]]
+
+[[Category:Season of the Nine-Colored Deer]]

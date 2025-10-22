@@ -1,0 +1,702 @@
+__FORCETOC__
+{{SkyEvent
+|image= Tournament-of-Triumph-Promo-image.png
+|date= July 29 to August 18, 2024
+}}
+<section begin="Summary" />A brand-new event called the '''Tournament of Triumph''' opened in the [[Realms]] for the first time! From '''Monday, July 29, 2024 at 00:00 PDT (UTC-7)''' through '''Sunday, August 18, 2024 at 23:59 PDT (UTC-7)''', players could join a rotating series of [[#The Games|games]] that had them running, leaping, soaring, and even scampering through some of the best-known places in ''Sky''! For the duration of the event, the Crab of Triumph appeared in [[Home]] and [[Aviary Village]], offering to take players directly to a special version of the [[Valley of Triumph#Coliseum|Coliseum]].
+
+Each day until the day of the closing ceremony, players could take part in two different games to enjoy some lighthearted and friendly competition with fellow Sky Kids. Complete games to score points for your assigned team and earn event currency—along with some extra [[Pieces of Light|Light]] to reward your efforts. On the final day on August 18, fly to the closing ceremony in the Coliseum to celebrate the winning team under the thunderous roars of the crowds.<section end="Summary" />
+
+Tournament of Triumph is TGC's way of exploring how they can introduce healthy competition in team events while staying true to ''Sky''’s positive, cooperative nature. So wear your team colors proudly, do your best, and remember to celebrate each other throughout the games and the closing ceremony!
+
+<small>The Tournament of Triumph could be enjoyed by all players who have progressed through at least Isle of Dawn.</small><br>
+<br>
+{{#ev:youtube|v=_zVXsuXmysk||inline|Tournament of Triumph Trailer}}
+
+==Ticket Locations==
+[[File:Tournament-of-Triumph-Medal-Ticket.png|125px|thumb|A Tournament of Triumph medal Ticket]]
+A total of {{Cost|2 T|event=Tournament}} medal-shaped Tickets were available each day, with {{Cost|5 T|event=Tournament}} available exclusively on the last day of the event. Additionally, a total of {{Cost|25 T|event=Tournament}} could be earned in both the first and second half of the event by completing games:<br>
+<br>
+{{Collapse
+|float= left
+|label= All Exact Ticket Locations
+|content=<u>'''Locations:'''</u>
+*Every day:
+**{{Cost|2 T|event=Tournament}} near the scoreboard pillar in the [[Coliseum]], in front of the entrance to the [[Valley Temple]]
+
+*[[#The Games|Tournament games]]:
+**{{Cost|1 T|event=Tournament}} from completing a game, with a max total of {{Cost|25 T|event=Tournament}} available from July 29 to August 7
+**{{Cost|1 T|event=Tournament}} from completing a game, with a max total of {{Cost|25 T|event=Tournament}} available from August 8 to August 17
+
+*Final day (August 18):
+**{{Cost|5 T|event=Tournament}} near the scoreboard pillar in the [[Coliseum]], in front of the entrance to the [[Valley Temple]]}}
+
+Players could also buy additional Tickets (costing {{Cost|2 AC}} or {{Cost|6 C}} each) from the Tournament Gift Box at [[Home]], [[Aviary Village#Aviary Event Store|Aviary Village]], and the [[Coliseum]].
+
+{| class="article-table mw-collapsible mw-collapsed" style="float:right; text-align:center;"
+! colspan="4" style="text-align:center; | '''Ticket Rotations'''
+|-
+! '''Date'''
+! '''Tournament Games'''
+! '''Daily Total'''
+|-
+| 
+| 
+| {{Cost|{{#vardefineecho:D0|25}} T|event=Tournament}}<ref name="Event currency pool">Players could earn {{Cost|1 T|event=Tournament}} each time they complete a [[#The Games|Tournament game]], including after repeating a game, up to a total of {{Cost|25 T|event=Tournament}} in the first ten days of the event. Then, another {{Cost|25 T|event=Tournament}} became available when the second half of the Tournament began.</ref>
+|-
+| July 29, 2024
+| [[#Void Gather|Void Gather]] and [[#Rain Race|Rain Race]]
+| {{Cost|{{#vardefineecho:D1|2}} T|event=Tournament}}
+|-
+| July 30, 2024
+| [[#Cloud Collect|Cloud Collect]] and [[#Crab Race|Crab Race]]
+| {{Cost|{{#vardefineecho:D2|2}} T|event=Tournament}}
+|-
+| July 31, 2024
+| [[#Speedskate|Speedskate]] and [[#Wingsuiting|Wingsuiting]]
+| {{Cost|{{#vardefineecho:D3|2}} T|event=Tournament}}
+|-
+| August 1, 2024
+| [[#Void Gather|Void Gather]] and [[#Rain Race|Rain Race]]
+| {{Cost|{{#vardefineecho:D4|2}} T|event=Tournament}}
+|-
+| August 2, 2024
+| [[#Cloud Collect|Cloud Collect]] and [[#Crab Race|Crab Race]]
+| {{Cost|{{#vardefineecho:D5|2}} T|event=Tournament}}
+|-
+| August 3, 2024
+| [[#Speedskate|Speedskate]] and [[#Wingsuiting|Wingsuiting]]
+| {{Cost|{{#vardefineecho:D6|2}} T|event=Tournament}}
+|-
+| August 4, 2024
+| [[#Void Gather|Void Gather]] and [[#Rain Race|Rain Race]]
+| {{Cost|{{#vardefineecho:D7|2}} T|event=Tournament}}
+|-
+| August 5, 2024
+| [[#Cloud Collect|Cloud Collect]] and [[#Crab Race|Crab Race]]
+| {{Cost|{{#vardefineecho:D8|2}} T|event=Tournament}}
+|-
+| August 6, 2024
+| [[#Speedskate|Speedskate]] and [[#Wingsuiting|Wingsuiting]]
+| {{Cost|{{#vardefineecho:D9|2}} T|event=Tournament}}
+|-
+| August 7, 2024
+| [[#Void Gather|Void Gather]] and [[#Rain Race|Rain Race]]
+| {{Cost|{{#vardefineecho:D10|2}} T|event=Tournament}}
+|-
+| 
+|
+| {{Cost|{{#vardefineecho:D11|25}} T|event=Tournament}}<ref name="Event currency pool" />
+|-
+| August 8, 2024
+| [[#Cloud Collect|Cloud Collect]] and [[#Crab Race|Crab Race]]
+| {{Cost|{{#vardefineecho:D12|2}} T|event=Tournament}}
+|-
+| August 9, 2024
+| [[#Speedskate|Speedskate]] and [[#Wingsuiting|Wingsuiting]]
+| {{Cost|{{#vardefineecho:D13|2}} T|event=Tournament}}
+|-
+| August 10, 2024
+| [[#Void Gather|Void Gather]] and [[#Rain Race|Rain Race]]
+| {{Cost|{{#vardefineecho:D14|2}} T|event=Tournament}}
+|-
+| August 11, 2024
+| [[#Cloud Collect|Cloud Collect]] and [[#Crab Race|Crab Race]]
+| {{Cost|{{#vardefineecho:D15|2}} T|event=Tournament}}
+|-
+| August 12, 2024
+| [[#Speedskate|Speedskate]] and [[#Wingsuiting|Wingsuiting]]
+| {{Cost|{{#vardefineecho:D16|2}} T|event=Tournament}}
+|-
+| August 13, 2024
+| [[#Void Gather|Void Gather]] and [[#Rain Race|Rain Race]]
+| {{Cost|{{#vardefineecho:D17|2}} T|event=Tournament}}
+|-
+| August 14, 2024
+| [[#Cloud Collect|Cloud Collect]] and [[#Crab Race|Crab Race]]
+| {{Cost|{{#vardefineecho:D18|2}} T|event=Tournament}}
+|-
+| August 15, 2024
+| [[#Speedskate|Speedskate]] and [[#Wingsuiting|Wingsuiting]]
+| {{Cost|{{#vardefineecho:D19|2}} T|event=Tournament}}
+|-
+| August 16, 2024
+| [[#Void Gather|Void Gather]] and [[#Rain Race|Rain Race]]
+| {{Cost|{{#vardefineecho:D20|2}} T|event=Tournament}}
+|-
+| August 17, 2024
+| [[#Cloud Collect|Cloud Collect]] and [[#Crab Race|Crab Race]]
+| {{Cost|{{#vardefineecho:D21|2}} T|event=Tournament}}
+|-
+| August 18, 2024
+| None
+| {{Cost|{{#vardefineecho:D22|5}} T|event=Tournament}}
+|-
+! colspan="2" style="text-align:center;" | '''Total'''
+! style="text-align:center;" | '''{{Cost|{{#expr: ({{#var:D0}} + {{#var:D1}} + {{#var:D2}} + {{#var:D3}} + {{#var:D4}} + {{#var:D5}} + {{#var:D6}} + {{#var:D7}} + {{#var:D8}} + {{#var:D9}} + {{#var:D10}} + {{#var:D11}} + {{#var:D12}} + {{#var:D13}} + {{#var:D14}} + {{#var:D15}} + {{#var:D16}} + {{#var:D17}} + {{#var:D18}} + {{#var:D19}} + {{#var:D20}} + {{#var:D21}} + {{#var:D22}}) }} T|event=Tournament}}'''
+|}
+{{Friendship Tree
+|label = Crab of Triumph
+|event = Tournament
+|image = Tournament-of-Triumph-Crab-of-Triumph.png
+
+|nodeC2 = {{Icon Name|Tournament Torch|icon}} 37 T
+|  labelC2 = {{Icon Name|Tournament Torch|name}}
+|  linkC2  = Tournament of Triumph#{{Icon Name|Tournament Torch|name}}
+|nodeR2 = 
+|  labelR2 = 
+|  linkR2 = 
+
+|nodeL1 = {{Icon Name|Tournament Curls|icon}} 25 T
+|  labelL1 = {{Icon Name|Tournament Curls|name}}
+|  linkL1  = Tournament of Triumph#{{Icon Name|Tournament Curls|name}}
+|nodeC1 = Spellx 5 C
+|  labelC1 = Spell
+|  linkC1  = Spells
+}}
+{{Clear}}
+
+===<big>All Available Collectibles</big>===
+{| class="article-table"
+|+<big>Tournament of Triumph Collectibles</big>
+!Name
+!Icon
+!Type
+!Cost
+!Location
+!Spell
+!Spell Cost & Locations
+|-
+|[[#Tournament Golden Garland|Tournament Golden Garland]]
+|{{Days Item|Tournament Golden Garland||table}}
+|[[Hair Accessory]]
+|{{Cost|4.99 USD|refnote}}
+|<small>[[Premium Candle Shop]]</small>
+|{{Days Item|Tournament Golden Garland|spell|table}}<small>x2</small> 
+|<small>Tournament Gift Box at [[Home]], [[Aviary Village#Aviary Event Store|Aviary]], and the [[Coliseum]]</small>
+|-
+|[[#Tournament Tunic|Tournament Tunic]]
+|{{Days Item|Tournament Tunic||table}}
+|[[Outfit]]
+|{{Cost|9.99 USD|refnote}}
+|<small>[[Premium Candle Shop]]</small>
+|{{Days Item|Tournament Tunic|spell|table}}<small>x2</small> 
+|<small>Tournament Gift Box at [[Home]], [[Aviary Village#Aviary Event Store|Aviary]], and the [[Coliseum]]</small>
+|-
+|[[#Tournament Curls|Tournament Curls]]
+|{{Days Item|Tournament Curls||table}}
+|[[Hair]]
+|{{Cost|25 T|event=Tournament}}
+|<small>Crab of Triumph at [[Home]], [[Aviary Village#Aviary Event Store|Aviary]], and the [[Coliseum]]</small>
+|{{Days Item|Tournament Curls|spell|table}}<small>x2</small>
+|<small>Tournament Gift Box at [[Home]], [[Aviary Village#Aviary Event Store|Aviary]], and the [[Coliseum]]</small>
+|-
+|[[#Tournament Torch|Tournament Torch]]
+|{{Days Item|Tournament Torch||table}}
+|[[Prop]]
+|{{Cost|37 T|event=Tournament}}
+|<small>Crab of Triumph at [[Home]], [[Aviary Village#Aviary Event Store|Aviary]], and the [[Coliseum]]</small>
+|{{Days Item|Tournament Torch|spell|table}}<small>x2</small>
+|<small>Tournament Gift Box at [[Home]], [[Aviary Village#Aviary Event Store|Aviary]], and the [[Coliseum]]</small>
+|-
+|[[#Team Cape Spells|Team Prairie Cape Spell]]
+|
+|[[Spell]]
+|
+|
+|{{Icon|Team-Prairie-Cape-Spell.png|table|label=Team Prairie Cape Spell|link=#Team Cape Spells}}
+|<small>Not collectible; only available for '''players assigned to Team Prairie''' after teleporting to the event area from [[Home]] or [[Aviary Village#Aviary Event Store|Aviary]]</small>
+|-
+|[[#Team Cape Spells|Team Forest Cape Spell]]
+|
+|[[Spell]]
+|
+|
+|{{Icon|Team-Forest-Cape-Spell.png|table|label=Team Forest Cape Spell|link=#Team Cape Spells}}
+|<small>Not collectible; only available for '''players assigned to Team Forest''' after teleporting to the event area from [[Home]] or [[Aviary Village#Aviary Event Store|Aviary]]</small>
+|-
+|[[#Team Cape Spells|Team Valley Cape Spell]]
+|
+|[[Spell]]
+|
+|
+|{{Icon|Team-Valley-Cape-Spell.png|table|label=Team Valley Cape Spell|link=#Team Cape Spells}}
+|<small>Not collectible; only available for '''players assigned to Team Valley''' after teleporting to the event area from [[Home]] or [[Aviary Village#Aviary Event Store|Aviary]]</small>
+|-
+|[[#Team Cape Spells|Team Wasteland Cape Spell]]
+|
+|[[Spell]]
+|
+|
+|{{Icon|Team-Wasteland-Cape-Spell.png|table|label=Team Wasteland Cape Spell|link=#Team Cape Spells}}
+|<small>Not collectible; only available for '''players assigned to Team Wasteland''' after teleporting to the event area from [[Home]] or [[Aviary Village#Aviary Event Store|Aviary]]</small>
+|-
+|[[Days of Feast#Medal Neck Accessory Spell|Medal Neck Accessory Spell]]
+|
+|[[Spell]]
+|
+|
+|{{Icon|Course-Medal-Neck-Accessory-Spell-icon-777-Ed.png|table|label=Medal Neck Accessory Spell|link=Days of Feast#Medal Neck Accessory Spell}}
+|<small>Not collectible; only available for players after completing a [[#The Games|Tournament game]]</small>
+|}
+
+===New Cosmetics and Props===
+====Tournament Golden Garland====
+::'''''"Honor your team's triumphant collaboration with this glistening accessory."'''''
+The Tournament Golden Garland is a wreath crown made with gold leaves that sits on top of the player's head. This [[Hair Accessory]] was introduced in 2024 and was available for {{Cost|4.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Golden Garland|iap}} {{!}} {{Icon Name|Golden Garland|name}} IAP
+{{Icon Name|Golden Garland|icon}} {{!}} {{Icon Name|Golden Garland|name}} icon
+{{Icon Name|Golden Garland|real}} {{!}} {{Icon Name|Golden Garland|name}}
+{{Icon Name|Golden Garland|spell}} {{!}} {{Icon Name|Golden Garland|name}} Spell icon 
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Tournament Tunic====
+::'''''"Let your accomplishments take center stage in minimalist elegance."'''''
+The Tournament Tunic is a thigh-length white tunic resembling a toga that features a gold waistband with a four-pointed star and a pair of gold bands wrapped around the player's upper-right arm. This [[Outfit]] was introduced in 2024 and was available for {{Cost|9.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Tournament Tunic|iap}} {{!}} {{Icon Name|Tournament Tunic|name}} IAP
+{{Icon Name|Tournament Tunic|icon}} {{!}} {{Icon Name|Tournament Tunic|name}} icon
+{{Icon Name|Tournament Tunic|real}} {{!}} {{Icon Name|Tournament Tunic|name}} front
+{{Icon Name|Tournament Tunic|back}} {{!}} {{Icon Name|Tournament Tunic|name}} back
+{{Icon Name|Tournament Tunic|spell}} {{!}} {{Icon Name|Tournament Tunic|name}} Spell icon 
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Tournament Curls====
+The Tournament Curls is a short cut with sideswept bangs and the ends forming large curls. This [[Hair]] was introduced in 2024 and was available for {{Cost|25 T|event=Tournament}} from the Crab of Triumph in [[Home]], [[Aviary Village#Aviary Event Store|Aviary Village]], and the [[Coliseum]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Tournament Curls|icon}} {{!}} {{Icon Name|Tournament Curls|name}} icon
+{{Icon Name|Tournament Curls|real}} {{!}} {{Icon Name|Tournament Curls|name}} front
+{{Icon Name|Tournament Curls|side}} {{!}} {{Icon Name|Tournament Curls|name}} side
+{{Icon Name|Tournament Curls|back}} {{!}} {{Icon Name|Tournament Curls|name}} back
+{{Icon Name|Tournament Curls|spell}} {{!}} {{Icon Name|Tournament Curls|name}} Spell icon 
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Tournament Torch====
+The Tournament Torch is a stocky blue-gray torch with a flame. When equipped, the flame is automatically lit as the player holds it in their right hand, slightly brightening dark areas and slowly recharging the player's [[Capes#Cape Energy|Cape Energy]]. Unlike the [[Days of Summer Lights#Days of Summer Lights Pack|Lantern]], this item can be held while flying and can be used to light candles. It cannot be placed and therefore cannot be used in [[Shared Spaces]]. This [[Prop]] was introduced in 2024 and was available for {{Cost|37 T|event=Tournament}} from the Crab of Triumph in [[Home]], [[Aviary Village#Aviary Event Store|Aviary Village]], and the [[Coliseum]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Tournament Torch|icon}} {{!}} {{Icon Name|Tournament Torch|name}} icon
+{{Icon Name|Tournament Torch|real}} {{!}} {{Icon Name|Tournament Torch|name}} front
+{{Icon Name|Tournament Torch|back}} {{!}} {{Icon Name|Tournament Torch|name}} on a player's back
+{{Icon Name|Tournament Torch|held}} {{!}} Holding the {{Icon Name|Tournament Torch|name}}
+{{Icon Name|Tournament Torch|spell}} {{!}} {{Icon Name|Tournament Torch|name}} Spell icon 
+|widths=125|spacing=small|captionalign=center
+}}
+
+===New Spells===
+====Team Cape Spells====
+The Team Cape Spells temporarily gave players a [[Cape]] representing their assigned event team for 30 minutes. There were four different versions available, each featuring a different color and [[Constellations|Realm Constellation]] symbol: yellow with [[Daylight Prairie]]'s pot, blue with [[Hidden Forest]]'s hammer and anvil, red with [[Valley of Triumph]]'s ball and paddles, and green with [[Golden Wasteland]]'s shield and spear. These [[Spells]] were introduced in 2024 and are not collectible; they were only available upon teleporting to the event area from [[Home]] or [[Aviary Village#Aviary Event Store|Aviary Village]]. Additionally, players were unable to pick and choose which version of the Team Cape Spells they would like to obtain, as they could only access the one that represents their randomly assigned team. ''Note that these Capes were only available as a Spell.''<br>
+<br>
+{{#tag:gallery
+|Team-Prairie-Cape-Spell.png {{!}} Team Prairie Cape Spell icon
+Team-Prairie-Cape-front.png {{!}} Team Prairie Cape Spell front
+Team-Prairie-Cape-back.png {{!}} Team Prairie Cape Spell back
+Team-Forest-Cape-Spell.png {{!}} Team Forest Cape Spell icon
+Team-Forest-Cape-front.png {{!}} Team Forest Cape Spell front
+Team-Forest-Cape-back.png {{!}} Team Forest Cape Spell back
+Team-Valley-Cape-Spell.png {{!}} Team Valley Cape Spell icon
+Team-Valley-Cape-front.png {{!}} Team Valley Cape Spell front
+Team-Valley-Cape-back.png {{!}} Team Valley Cape Spell back
+Team-Wasteland-Cape-Spell.png {{!}} Team Wasteland Cape Spell icon
+Team-Wasteland-Cape-front.png {{!}} Team Wasteland Cape Spell front
+Team-Wasteland-Cape-back.png {{!}} Team Wasteland Cape Spell back
+|widths=125|spacing=small|captionalign=center
+}}
+
+===The Games===
+<div>{{#ev:youtubeplaylist|https://www.youtube.com/watch?v=f_CZ24gXpCk&list=PLl2dLrx-duQgedEYgPBHeLmbCV-ZooBo5||right|All Tournament Games Playlist}}
+Each day until the closing ceremony on August 18, players could take part in a rotating set of games that offered some lighthearted and friendly competition with fellow Sky Kids. These games tasked players with completing races and collecting fragments of light in various locations within the [[Realms]] while under unique conditions, such as having a limited amount of [[Winged Light#Leveling Up Capes|Cape Energy]] or a transformation into a [[Dark Crab]]. To begin a game, players visited the [[Coliseum]] and had to sit at either of the two available meditation circles near the scoreboard pillar in front of the entrance to the [[Valley Temple]]. 
+
+Players could score up to 3 points per game for their assigned team each day to boost their team's position on the scoreboard. The daily team points were determined by what place was earned for the game (1 point for bronze, 2 points for silver, and 3 points for gold). Players could replay the games to maximize the number of daily points earned for their team. By participating in these games, players could also earn [[#Ticket Locations|Tickets]] to exchange for themed IGC (in-game currency) items and a bit of extra [[Pieces of Light|Light]] as a reward for their efforts. 
+</div>
+
+====Void Gather====
+[[File:Tournament-Game-Void-Gather.png|thumb|250x250px|Void Gather in the Archives]]
+Void Gather took place in the [[Archives]] in the [[Vault of Knowledge]]. During this game, players competed to collect as many fragments of light as possible within a time limit of 1 minute and 20 seconds. As an added challenge, all players, regardless of their current number of [[Winged Light]], were temporarily given 3 wedges of [[Winged Light#Leveling Up Capes|Cape Energy]] for the duration of the game. Upon finishing, players were ranked on their performance and received a [[Days of Feast#Medal Neck Accessory Spell|Medal Neck Accessory Spell]] to celebrate their victory. Players could then leave the game and return to the [[Coliseum]] to collect their Ticket by exiting the sparkling bubble that surrounded the center platform.
+{{Clear}}
+
+====Rain Race====
+[[File:Tournament-Game-Rain-Race.png|thumb|250x250px|Rain Race in Forest's Brook]]
+Rain Race took place in [[Forest's Brook]] in [[Hidden Forest]]. During this game, players raced to reach the end flag with the fastest time and highest number of checkpoints collected. As an added challenge, all players, regardless of their current number of [[Winged Light]], were temporarily given 3 wedges of [[Winged Light#Leveling Up Capes|Cape Energy]] for the duration of the game and had to carefully manage their limited light under the damaging [[Flora,_Minerals_and_Elements_of_Sky#Rain|rain]]. Upon finishing, players were ranked on their performance and received a [[Days of Feast#Medal Neck Accessory Spell|Medal Neck Accessory Spell]] to celebrate their victory. Players could then leave the game and return to the [[Coliseum]] to collect their Ticket by exiting the sparkling bubble that surrounded the end flag.
+{{Clear}}
+
+====Cloud Collect====
+[[File:Tournament-Game-Cloud-Collect.png|thumb|250x250px|Cloud Collect in the Cave of Prophecies]]
+Cloud Collect took place in the [[Cave of Prophecies]] in the [[Isle of Dawn]]. During this game, players competed to collect as many fragments of light as possible within a time limit of 1 minute and 30 seconds. As an added challenge, all players, regardless of their current number of [[Winged Light]], were temporarily given 6 wedges of [[Winged Light#Leveling Up Capes|Cape Energy]] for the duration of the game. Upon finishing, players were ranked on their performance and received a [[Days of Feast#Medal Neck Accessory Spell|Medal Neck Accessory Spell]] to celebrate their victory. Players could then leave the game and return to the [[Coliseum]] to collect their Ticket by exiting the sparkling bubble that surrounded the cliff at the entrance.
+{{Clear}}
+
+====Crab Race====
+[[File:Tournament-Game-Crab-Race.png|thumb|250x250px|Crab Race in the Graveyard]]
+Crab Race took place in the [[Graveyard]] in [[Golden Wasteland]]. During this game, players transformed into [[Days of Mischief#Crab Curse Spell|Dark Crabs]] and raced to reach the end flag with the fastest time and highest number of checkpoints collected. As an added challenge, all players, regardless of their current number of [[Winged Light]], were temporarily given 1 wedge of [[Winged Light#Leveling Up Capes|Cape Energy]] for the duration of the game and had to avoid the patrolling [[Dark Dragons]] which could attack players and put them behind. Upon finishing, players were ranked on their performance and received a [[Days of Feast#Medal Neck Accessory Spell|Medal Neck Accessory Spell]] to celebrate their victory. Players could then leave the game and return to the [[Coliseum]] to collect their Ticket by exiting the sparkling bubble that surrounded the end flag.
+{{Clear}}
+
+====Speedskate====
+[[File:Tournament-Game-Speedskate.png|thumb|250x250px|Speedskate in the Ice Rink]]
+Speedskate took place in the [[Ice Rink]] in the [[Valley of Triumph]]. During this game, players competed to collect as many fragments of light as possible within a time limit of 1 minute and 30 seconds. As an added challenge, all players, regardless of their current number of [[Winged Light]], were temporarily given 3 wedges of [[Winged Light#Leveling Up Capes|Cape Energy]] for the duration of the game. Upon finishing, players were ranked on their performance and received a [[Days of Feast#Medal Neck Accessory Spell|Medal Neck Accessory Spell]] to celebrate their victory. Players could then leave the game and return to the [[Coliseum]] to collect their Ticket by exiting the sparkling bubble that surrounded the center of the rink.
+{{Clear}}
+
+====Wingsuiting====
+[[File:Tournament-Game-Wingsuiting.png|thumb|250x250px|Wingsuiting in Prairie Peaks]]
+Wingsuiting took place in [[Prairie Peaks]] in [[Daylight Prairie]]. During this game, players raced to reach the end flag with the fastest time and highest number of checkpoints collected. As an added challenge, all players, regardless of their current number of [[Winged Light]], were temporarily given 1 wedge of [[Winged Light#Leveling Up Capes|Cape Energy]] for the duration of the game and had to avoid touching the ground. Upon finishing, players were ranked on their performance and received a [[Days of Feast#Medal Neck Accessory Spell|Medal Neck Accessory Spell]] to celebrate their victory. Players could then leave the game and return to the [[Coliseum]] to collect their Ticket by exiting the sparkling bubble that surrounded the end flag.
+{{Clear}}
+
+===Results===
+{| class="fandom-table" style="text-align:center;"
+! 
+! style="text-align:center;" | Event
+! style="text-align:center;" | {{Icon|Team-Prairie-icon.png|table|link= |label=Team Prairie}}<br>Team Prairie
+! style="text-align:center;" | {{Icon|Team-Forest-icon.png|table|link= |label=Team Forest}}<br>Team Forest
+! style="text-align:center;" | {{Icon|Team-Valley-icon.png|table|link= |label=Team Valley}}<br>Team Valley
+! style="text-align:center;" | {{Icon|Team-Wasteland-icon.png|table|link= |label=Team Wasteland}}<br>Team Wasteland
+|-
+! rowspan="2"|Day 1
+| Void Gather 
+| 4th || {{Icon|Gold-Crab-Medal-icon.png|table|link= |label=1st}} || {{Icon|Silver-Crab-Medal-icon.png|table|link= |label=2nd}} || {{Icon|Bronze-Crab-Medal-icon.png|table|link= |label=3rd}}
+|-
+| Rain Race
+| {{Icon|Silver-Crab-Medal-icon.png|table|link= |label=2nd}} || {{Icon|Gold-Crab-Medal-icon.png|table|link= |label=1st}} || 4th || {{Icon|Bronze-Crab-Medal-icon.png|table|link= |label=3rd}}
+|-
+! rowspan="2"|Day 2
+| Cloud Collect
+| 4th || {{Icon|Gold-Crab-Medal-icon.png|table|link= |label=1st}} || {{Icon|Silver-Crab-Medal-icon.png|table|link= |label=2nd}} || {{Icon|Bronze-Crab-Medal-icon.png|table|link= |label=3rd}}
+|-
+| Crab Race 
+| {{Icon|Bronze-Crab-Medal-icon.png|table|link= |label=3rd}} || {{Icon|Gold-Crab-Medal-icon.png|table|link= |label=1st}} || 4th || {{Icon|Silver-Crab-Medal-icon.png|table|link= |label=2nd}}
+|-
+! rowspan="2"|Day 3
+| Speedskate
+| 4th || {{Icon|Gold-Crab-Medal-icon.png|table|link= |label=1st}} || {{Icon|Bronze-Crab-Medal-icon.png|table|link= |label=3rd}} || {{Icon|Silver-Crab-Medal-icon.png|table|link= |label=2nd}}
+|-
+| Wingsuiting
+| {{Icon|Bronze-Crab-Medal-icon.png|table|link= |label=3rd}} || {{Icon|Gold-Crab-Medal-icon.png|table|link= |label=1st}} || 4th || {{Icon|Silver-Crab-Medal-icon.png|table|link= |label=2nd}}
+|-
+! rowspan="2"|Day 4
+| Void Gather
+| 4th || {{Icon|Gold-Crab-Medal-icon.png|table|link= |label=1st}} || {{Icon|Bronze-Crab-Medal-icon.png|table|link= |label=3rd}} || {{Icon|Silver-Crab-Medal-icon.png|table|link= |label=2nd}}
+|-
+| Rain Race
+| {{Icon|Bronze-Crab-Medal-icon.png|table|link= |label=3rd}} || {{Icon|Gold-Crab-Medal-icon.png|table|link= |label=1st}} || 4th || {{Icon|Silver-Crab-Medal-icon.png|table|link= |label=2nd}}
+|-
+! rowspan="2"|Day 5
+| Cloud Collect
+| 4th || {{Icon|Gold-Crab-Medal-icon.png|table|link= |label=1st}} || {{Icon|Bronze-Crab-Medal-icon.png|table|link= |label=3rd}} || {{Icon|Silver-Crab-Medal-icon.png|table|link= |label=2nd}}
+|-
+| Crab Race
+| {{Icon|Bronze-Crab-Medal-icon.png|table|link= |label=3rd}} || {{Icon|Gold-Crab-Medal-icon.png|table|link= |label=1st}} || 4th || {{Icon|Silver-Crab-Medal-icon.png|table|link= |label=2nd}}
+|-
+! rowspan="2"|Day 6
+| Speedskate
+| 4th || {{Icon|Gold-Crab-Medal-icon.png|table|link= |label=1st}} || {{Icon|Bronze-Crab-Medal-icon.png|table|link= |label=3rd}} || {{Icon|Silver-Crab-Medal-icon.png|table|link= |label=2nd}}
+|-
+| Wingsuiting
+| {{Icon|Bronze-Crab-Medal-icon.png|table|link= |label=3rd}} || {{Icon|Gold-Crab-Medal-icon.png|table|link= |label=1st}} || 4th || {{Icon|Silver-Crab-Medal-icon.png|table|link= |label=2nd}}
+|-
+! rowspan="2"|Day 7
+| Void Gather
+| 4th || {{Icon|Gold-Crab-Medal-icon.png|table|link= |label=1st}} || {{Icon|Bronze-Crab-Medal-icon.png|table|link= |label=3rd}} || {{Icon|Silver-Crab-Medal-icon.png|table|link= |label=2nd}}
+|-
+| Rain Race
+| {{Icon|Bronze-Crab-Medal-icon.png|table|link= |label=3rd}} || {{Icon|Gold-Crab-Medal-icon.png|table|link= |label=1st}} || 4th || {{Icon|Silver-Crab-Medal-icon.png|table|link= |label=2nd}}
+|-
+! rowspan="2"|Day 8
+| Cloud Collect
+| 4th || {{Icon|Gold-Crab-Medal-icon.png|table|link= |label=1st}} || {{Icon|Bronze-Crab-Medal-icon.png|table|link= |label=3rd}} || {{Icon|Silver-Crab-Medal-icon.png|table|link= |label=2nd}}
+|-
+| Crab Race
+| {{Icon|Bronze-Crab-Medal-icon.png|table|link= |label=3rd}} || {{Icon|Gold-Crab-Medal-icon.png|table|link= |label=1st}} || 4th || {{Icon|Silver-Crab-Medal-icon.png|table|link= |label=2nd}}
+|-
+! rowspan="2"|Day 9
+| Speedskate
+| 4th || {{Icon|Silver-Crab-Medal-icon.png|table|link= |label=2nd}} || {{Icon|Bronze-Crab-Medal-icon.png|table|link= |label=3rd}} || {{Icon|Gold-Crab-Medal-icon.png|table|link= |label=1st}}
+|-
+| Wingsuiting
+| {{Icon|Bronze-Crab-Medal-icon.png|table|link= |label=3rd}} || {{Icon|Gold-Crab-Medal-icon.png|table|link= |label=1st}} || 4th || {{Icon|Silver-Crab-Medal-icon.png|table|link= |label=2nd}}
+|-
+! rowspan="2"|Day 10
+| Void Gather
+| 4th || {{Icon|Gold-Crab-Medal-icon.png|table|link= |label=1st}} || {{Icon|Bronze-Crab-Medal-icon.png|table|link= |label=3rd}} || {{Icon|Silver-Crab-Medal-icon.png|table|link= |label=2nd}}
+|-
+| Rain Race
+| {{Icon|Bronze-Crab-Medal-icon.png|table|link= |label=3rd}} || {{Icon|Gold-Crab-Medal-icon.png|table|link= |label=1st}} || 4th || {{Icon|Silver-Crab-Medal-icon.png|table|link= |label=2nd}}
+|-
+! rowspan="2"|Day 11
+| Cloud Collect
+| 4th || {{Icon|Gold-Crab-Medal-icon.png|table|link= |label=1st}} || {{Icon|Bronze-Crab-Medal-icon.png|table|link= |label=3rd}} || {{Icon|Silver-Crab-Medal-icon.png|table|link= |label=2nd}}
+|-
+| Crab Race
+| {{Icon|Bronze-Crab-Medal-icon.png|table|link= |label=3rd}} || {{Icon|Gold-Crab-Medal-icon.png|table|link= |label=1st}} || 4th || {{Icon|Silver-Crab-Medal-icon.png|table|link= |label=2nd}}
+|-
+! rowspan="2"|Day 12
+| Speedskate
+| 4th || {{Icon|Gold-Crab-Medal-icon.png|table|link= |label=1st}} || {{Icon|Bronze-Crab-Medal-icon.png|table|link= |label=3rd}} || {{Icon|Silver-Crab-Medal-icon.png|table|link= |label=2nd}}
+|-
+| Wingsuiting
+| {{Icon|Bronze-Crab-Medal-icon.png|table|link= |label=3rd}} || {{Icon|Gold-Crab-Medal-icon.png|table|link= |label=1st}} || 4th || {{Icon|Silver-Crab-Medal-icon.png|table|link= |label=2nd}}
+|-
+! rowspan="2"|Day 13
+| Void Gather
+| 4th || {{Icon|Gold-Crab-Medal-icon.png|table|link= |label=1st}} || {{Icon|Bronze-Crab-Medal-icon.png|table|link= |label=3rd}} || {{Icon|Silver-Crab-Medal-icon.png|table|link= |label=2nd}}
+|-
+| Rain Race
+| {{Icon|Bronze-Crab-Medal-icon.png|table|link= |label=3rd}} || {{Icon|Gold-Crab-Medal-icon.png|table|link= |label=1st}} || 4th || {{Icon|Silver-Crab-Medal-icon.png|table|link= |label=2nd}}
+|-
+! rowspan="2"|Day 14
+| Cloud Collect
+| 4th || {{Icon|Gold-Crab-Medal-icon.png|table|link= |label=1st}} || {{Icon|Bronze-Crab-Medal-icon.png|table|link= |label=3rd}} || {{Icon|Silver-Crab-Medal-icon.png|table|link= |label=2nd}}
+|-
+| Crab Race
+| {{Icon|Bronze-Crab-Medal-icon.png|table|link= |label=3rd}} || {{Icon|Gold-Crab-Medal-icon.png|table|link= |label=1st}} || 4th || {{Icon|Silver-Crab-Medal-icon.png|table|link= |label=2nd}}
+|-
+! rowspan="2"|Day 15
+| Speedskate
+| 4th || {{Icon|Gold-Crab-Medal-icon.png|table|link= |label=1st}} || {{Icon|Bronze-Crab-Medal-icon.png|table|link= |label=3rd}} || {{Icon|Silver-Crab-Medal-icon.png|table|link= |label=2nd}}
+|-
+| Wingsuiting
+| {{Icon|Bronze-Crab-Medal-icon.png|table|link= |label=3rd}} || {{Icon|Gold-Crab-Medal-icon.png|table|link= |label=1st}} || 4th || {{Icon|Silver-Crab-Medal-icon.png|table|link= |label=2nd}}
+|-
+! rowspan="2"|Day 16
+| Void Gather
+| 4th || {{Icon|Gold-Crab-Medal-icon.png|table|link= |label=1st}} || {{Icon|Bronze-Crab-Medal-icon.png|table|link= |label=3rd}} || {{Icon|Silver-Crab-Medal-icon.png|table|link= |label=2nd}}
+|-
+| Rain Race
+| {{Icon|Bronze-Crab-Medal-icon.png|table|link= |label=3rd}} || {{Icon|Gold-Crab-Medal-icon.png|table|link= |label=1st}} || 4th || {{Icon|Silver-Crab-Medal-icon.png|table|link= |label=2nd}}
+|-
+! rowspan="2"|Day 17
+| Cloud Collect
+| 4th || {{Icon|Gold-Crab-Medal-icon.png|table|link= |label=1st}} || {{Icon|Bronze-Crab-Medal-icon.png|table|link= |label=3rd}} || {{Icon|Silver-Crab-Medal-icon.png|table|link= |label=2nd}}
+|-
+| Crab Race
+| {{Icon|Bronze-Crab-Medal-icon.png|table|link= |label=3rd}} || {{Icon|Gold-Crab-Medal-icon.png|table|link= |label=1st}} || 4th || {{Icon|Silver-Crab-Medal-icon.png|table|link= |label=2nd}}
+|-
+! rowspan="2"|Day 18
+| Speedskate
+| 4th || {{Icon|Gold-Crab-Medal-icon.png|table|link= |label=1st}} || {{Icon|Bronze-Crab-Medal-icon.png|table|link= |label=3rd}} || {{Icon|Silver-Crab-Medal-icon.png|table|link= |label=2nd}}
+|-
+| Wingsuiting
+| {{Icon|Bronze-Crab-Medal-icon.png|table|link= |label=3rd}} || {{Icon|Gold-Crab-Medal-icon.png|table|link= |label=1st}} || 4th || {{Icon|Silver-Crab-Medal-icon.png|table|link= |label=2nd}}
+|-
+! rowspan="2"|Day 19
+| Void Gather
+| 4th || {{Icon|Gold-Crab-Medal-icon.png|table|link= |label=1st}} || {{Icon|Bronze-Crab-Medal-icon.png|table|link= |label=3rd}} || {{Icon|Silver-Crab-Medal-icon.png|table|link= |label=2nd}}
+|-
+| Rain Race
+| {{Icon|Bronze-Crab-Medal-icon.png|table|link= |label=3rd}} || {{Icon|Gold-Crab-Medal-icon.png|table|link= |label=1st}} || 4th || {{Icon|Silver-Crab-Medal-icon.png|table|link= |label=2nd}}
+|-
+! rowspan="2"|Day 20
+| Cloud Collect
+| 4th || {{Icon|Gold-Crab-Medal-icon.png|table|link= |label=1st}} || {{Icon|Bronze-Crab-Medal-icon.png|table|link= |label=3rd}} || {{Icon|Silver-Crab-Medal-icon.png|table|link= |label=2nd}}
+|-
+| Crab Race
+| {{Icon|Bronze-Crab-Medal-icon.png|table|link= |label=3rd}} || {{Icon|Gold-Crab-Medal-icon.png|table|link= |label=1st}} || 4th || {{Icon|Silver-Crab-Medal-icon.png|table|link= |label=2nd}}
+|-
+! {{Icon|Merch-Ray.png|table|link= |label=Total}}
+! Total Points *
+| 21 || 119 || 22 || 78
+|}
+<nowiki>*</nowiki> Points were given out as follows: 3 points for {{Icon|Gold-Crab-Medal-icon.png|link= |label=1st}} 1st place, 2 points for {{Icon|Silver-Crab-Medal-icon.png|link= |label=2nd}} 2nd place, and 1 point for {{Icon|Bronze-Crab-Medal-icon.png|link= |label=3rd}} 3rd place. No points were awarded for coming in 4th.
+<section begin="Point Standings"/>
+{| class="fandom-table mw-collapsible mw-collapsed" style="text-align:center;"
+! colspan="6"| Event Point Standings at 11:55 PM PDT<br>(Collected by _joshiwoshi_ on Discord, eye_0f_eden on Twitter, and ghostingskies)
+|-
+! 
+! style="text-align:center;" | Event
+! style="text-align:center;" | {{Icon|Team-Prairie-icon.png|table|link= |label=Team Prairie}}<br>Team Prairie
+! style="text-align:center;" | {{Icon|Team-Forest-icon.png|table|link= |label=Team Forest}}<br>Team Forest
+! style="text-align:center;" | {{Icon|Team-Valley-icon.png|table|link= |label=Team Valley}}<br>Team Valley
+! style="text-align:center;" | {{Icon|Team-Wasteland-icon.png|table|link= |label=Team Wasteland}}<br>Team Wasteland
+|-
+! rowspan="2"|Day 1
+| Void Gather 
+| 132,326 || 134,191 || 134,049 || 133,969
+|-
+| Rain Race
+| 154,526 || 155,376 || 152,820 || 153,843
+|-
+! rowspan="2"|Day 2
+| Cloud Collect
+| 118,297 || 121,186 || 120,234 || 119,510
+|-
+| Crab Race 
+| 128,303 || 130,954 || 127,182 || 129,054
+|-
+! rowspan="2"|Day 3
+| Speedskate
+| 112,062 || 116,416 || 114,894 || 115,046
+|-
+| Wingsuiting
+| 123,289 || 127,647 || 121,665 || 125,393
+|-
+! rowspan="2"|Day 4
+| Void Gather
+| 90,296 || 96,697 || 93,884 || 96,498
+|-
+| Rain Race
+| 113,386 || 118,003 || 111,019 || 115,639
+|-
+! rowspan="2"|Day 5
+| Cloud Collect
+| 88,730 || 95,798 || 92,546 || 95,310
+|-
+| Crab Race
+| 101,854 || 105,864 || 100,157 || 104,181
+|-
+! rowspan="2"|Day 6
+| Speedskate
+| 88,467 || 95,749 || 92,044 || 95,013
+|-
+| Wingsuiting
+| 99,427 || 104,975 || 97,811 || 102,963
+|-
+! rowspan="2"|Day 7
+| Void Gather
+| 72,845 || 80,162 || 76,557 || 79,980
+|-
+| Rain Race
+| 97,227 || 101,888 || 95,809 || 99,557
+|-
+! rowspan="2"|Day 8
+| Cloud Collect
+| 72,554 || 79,821 || 75,999 || 78,912
+|-
+| Crab Race
+| 88,364 || 92,206 || 86,006 || 90,576
+|-
+! rowspan="2"|Day 9
+| Speedskate
+| 75,389 || 82,449 || 79,262 || 82,534
+|-
+| Wingsuiting
+| 89,582 || 92,852 || 86,589 || 91,581
+|-
+! rowspan="2"|Day 10
+| Void Gather
+| 62,385 || 73,294 || 65,906 || 71,714
+|-
+| Rain Race
+| 89,969 || 94,430 || 86,677 || 92,823
+|-
+! rowspan="2"|Day 11
+| Cloud Collect
+| 73,313 || 81,694 || 76,491 || 80,534
+|-
+| Crab Race
+| 93,531 || 98,463 || 91,552 || 95,947
+|-
+! rowspan="2"|Day 12
+| Speedskate
+| 71,228 || 79,228 || 73,962 || 78,015
+|-
+| Wingsuiting
+| 89,433 || 94,556 || 87,661 || 91,631
+|-
+! rowspan="2"|Day 13
+| Void Gather
+| 58,358 || 66,165 || 61,366 || 65,860
+|-
+| Rain Race
+| 92,429 || 97,134 || 90,285 || 94,716
+|-
+! rowspan="2"|Day 14
+| Cloud Collect
+| 61,118 || 68,155 || 63,734 || 67,053
+|-
+| Crab Race
+| 81,622 || 85,525 || 79,134 || 83,656
+|-
+! rowspan="2"|Day 15
+| Speedskate
+| 61,646 || 68,735 || 64,875 || 68,140
+|-
+| Wingsuiting
+| 80,654 || 84,044 || 77,950 || 82,144
+|-
+! rowspan="2"|Day 16
+| Void Gather
+| 49,465 || 55,959 || 53,289 || 55,110
+|-
+| Rain Race
+| 85,197 || 88,105 || 82,106 || 85,760
+|-
+! rowspan="2"|Day 17
+| Cloud Collect
+| 53,215 || 59,521 || 56,066 || 58,847
+|-
+| Crab Race
+| 75,702 || 78,427 || 74,056 || 76,864
+|-
+! rowspan="2"|Day 18
+| Speedskate
+| 53,754 || 60,661 || 57,689 || 60,166
+|-
+| Wingsuiting
+| 75,765 || 78,281 || 73,228 || 76,737
+|-
+! rowspan="2"|Day 19
+| Void Gather
+| 43,913 || 50,591 || 48,141 || 50,264
+|-
+| Rain Race
+| 81,661 || 84,982 || 79,019 || 82,755
+|-
+! rowspan="2"|Day 20
+| Cloud Collect
+| 48,334 || 54,484 || 51,462 || 53,681
+|-
+| Crab Race
+| 73,457 || 77,195 || 71,564 || 74,973
+|}<section end="Point Standings"/><br>
+
+<gallery widths=300 spacing=small>
+Point-Standings-Graph.png|Graph of the daily point standings
+Player-Difference-Between-Standings-Graph.png|Graph of the player difference between the daily standings
+First-and-Fourth-Player-Gap-Graph.png|Graph of First and Fourth Place Player Gaps
+</gallery>
+
+==Trivia==
+*Capeless players did not get transformed into [[Days of Mischief#Crab Curse Spell|Dark Crabs]] during the [[#Crab Race|Crab Race]].
+*During [[Sky Beta|Beta]] testing, the Crab of Triumph NPC was initially called the "Crab of Competition" before being renamed.
+*During [[Sky Beta|Beta]] testing, participates received a stone crab trophy and the final winning team received a golden crab trophy. This was removed for Live as the trophies were not in line with what the devs had in mind for the event<ref>[https://discord.com/channels/575762611111592007/583370574449999880/1267885828022206597 Chaotic Raccoon said in a Discord message]: "The trophies were not really in line with what the team had in mind for the event so they were removed for live. That is why the communications are not mentioning them. Sometimes there are some BETA elements that don't make it to live. At least you got to have a nest crab for a bit!"</ref>.
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Tournament-of-Triumph-Rain-Race-Promo-image.png
+Tournament-of-Triumph-Ticket-Promo-image.png
+Tournament-of-Triumph-Skydive-Promo-image.png
+Tournament-2024-Coliseum-Overview.png
+Tournament-2024-Coliseum-Overview-Above.png
+Tournament-2024-Coliseum-Overview-Center.png
+Tournament-2024-Coliseum-Platform.png
+Tournament-2024-Coliseum-Temple-Front.png
+Tournament-2024-Coliseum-Temple-Angle.png
+Tournament-2024-Coliseum-Steps.png
+Tournament-2024-Coliseum-Left-Elder-Banners.png
+Tournament-2024-Coliseum-Right-Elder-Banners.png
+Tournament-2024-Coliseum-Prairie-Banner.png
+Tournament-2024-Coliseum-Prairie-Section.png
+Tournament-2024-Coliseum-Forest-Banner.png
+Tournament-2024-Coliseum-Forest-Section.png
+Tournament-2024-Coliseum-Valley-Banner.png
+Tournament-2024-Coliseum-Valley-Section.png
+Tournament-2024-Coliseum-Wasteland-Banner.png
+Tournament-2024-Coliseum-Wasteland-Section.png
+Tournament-2024-Coliseum-Birdseye.png
+</gallery>
+
+==References==
+'''More information about the Tournament of Triumph can be found on [https://www.thatskygame.com/news/ready-set-go-for-tournament-of-triumph ThatSkyGame's Website].'''
+<references />
+
+[[fr:Tournoi du Triomphe]]
+[[pt-br:Torneio do Triunfo]]
+[[ja:凱旋の大競技会]]
+[[zh:凱旋錦標賽]]
+
+[[Category:Events]]
+[[Category:Non-Recurring Events]]

@@ -1,0 +1,192 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Rhythm-Spirit-Troupe-Greeter.png|Standard
+Rhythm Spirit Troupe Greeter Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Outfit|infobox}}{{Spirit Item||Mask|infobox}}
+|music     = {{Music Sheet|4}}
+|season    = Rhythm
+|realm     = Isle of Dawn
+|location  = Isle of Dawn
+|ts        = January 2, 2025 (#130)<br>August 7, 2023 (SV#4)<br/>March 3, 2022 (#56)<br/>December 24, 2020 (#25)
+}}
+<section begin="Summary" />The '''Troupe Greeter''' is a [[Seasonal Spirit]] from the [[Season of Rhythm]] who offers the {{Emote|Troupe Greeter|inline_text}} Expression. The Troupe Greeter is found in the middle of [[Isle of Dawn]], to the right of the stone ramp farthest away from the Temple.<ref name="Location change">The Troupe Greeter was originally found directly next to [[Passage Stone]] at the center of Isle, but was moved a few feet away in Patch {{v|0.21.5}} to make room for the newly added bonfire and [[Passage Stone]] meditation circle.</ref> The collectibles [[Troupe Greeter#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Troupe Greeter|Outfit|inline_text}}, a {{Spirit Item|Troupe Greeter|Mask|inline_text}}, and the {{Music Sheet|4|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Troupe Greeter-promo-image.jpg|thumb|320px|none|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|9o1zaLM8s24||inline|Video Guide}}
+
+The Troupe Greeter can be found in the middle of [[Isle of Dawn]], to the right of the stone ramp farthest away from the Temple.<ref name="Location change">The Troupe Greeter was originally found directly next to [[Passage Stone]] at the center of Isle, but was moved a few feet away in Patch {{v|0.21.5}} to make room for the newly added bonfire and [[Passage Stone]] meditation circle.</ref> This Spirit has a [[Standard Memory|standard memory]] with 5 memory fragments and a 10-minute overall [[Timed Memory|time limit]].
+
+As their memory unfolds, the Troupe Greeter can be seen traveling across the sand dunes of the Isle, steadily heading towards the Temple. The Spirit eventually reaches the island in the clouds and steps inside the entrance hallway of the building, pleased to have reached their destination.
+
+At the end of the memory, the Troupe Greeter twirls a hand while sweeping their arm backwards,  gesturing towards the Temple doors as if to welcome the player inside.<br>
+<br>
+[[File:00 ID Seasonal Spirit - Troupe Greeter.jpg|200px|thumb|none|Relive the Troupe Greeter's memory]]
+</div>
+{{Clear}}
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Troupe-Greeter-welcome-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Troupe-Greeter-welcome-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Troupe-Greeter-welcome-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Troupe-Greeter-welcome-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar twirl their right hand as they sweep their arm backwards with their left arm tucked behind their back, twisting their body to face the same direction of the movement, while harp sound effects play.
+*Level 2 makes the same motion as Level 1 with a white trail of light following the gesturing hand.
+*Level 3 will make your avatar sweep both arms backwards in succession, twisting their body and taking a step to face the same direction of the movement, while harp sound effects play.
+*Level 4 makes the same motion as Level 3 with green trails of light following both hands, as well as a white trail of light towards the end.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+== Cosmetics ==
+=== Outfit ===
+The [[Outfit]] offered by this Spirit consists out of a light-blue wrap top with mid-lengthed sleeves and a purple belt, dark-grey balloon pants, and purple boots with a white fur-trim and golden ornaments, costing {{Cost|70 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|30 SC|season=Rhythm}} total).<br>{{Dye_Details
+|area1=the belt and boots
+|cost1=3
+|area2=the top
+|cost2=2
+}}
+<br>
+{{#tag:gallery
+|{{Icon Name||Outfit|icon}} {{!}} The Outfit icon
+{{Icon Name||Outfit|real}} {{!}} The Outfit front
+{{Icon Name||Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Mask ===
+The [[Mask]] offered by this Spirit resembles the head of a bird with a thick down-curved beak and yellow accents, costing {{Cost|48 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fourth node ({{Cost|30 SC|season=Rhythm}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask front
+{{Icon Name||Mask|side}} {{!}} The Mask side
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Music Sheet ==
+The Troupe Greeter offers the {{Music Sheet|4}} [[Music Sheet]] #4, costing {{Cost|15 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's second node ({{Cost|8 SC|season=Rhythm}} total). It is a song in the key of C Major.
+
+Prior to Patch [[Version History|0.15.5]], this was identified as Music Sheet #1. The pre-0.15.5 Music Sheet #4 is now labeled Music Sheet #2.<br>
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guide
+|content=
+{{#ev:youtube|ERD6KLp2TJg||inline|Music Sheet Video Guide by Ikejiji}}
+}}
+{{Clear}}
+
+== Traveling Spirit ==
+[[File:SoR Isle TS Placeholder.png|200px|right|thumb]]
+{{Friendship Tree Info | traveling
+|ts_dates=*January 2, 2025 (#130)
+*March 3, 2022 (#56)
+*December 24, 2020 (#25)
+|rs_dates=*August 7, 2023 (SV#4)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Troupe Greeter
+|season = Rhythm
+|image  = Rhythm-Spirit-Troupe-Greeter.png
+
+|nodeC6 = Mask 48 C
+|nodeL5 = Outfit 70 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = music4 15 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+No hints were given before the [[Troupe Greeter]]'s first appearance.
+
+The hints given before the [[Troupe Greeter]]'s second appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Second Visit Hints
+|content=<div>
+* Their favorite flavor is peppermint
+* Is a sky spirit
+* Wishes they had a pet of their very own
+* Likes to travel off the beaten path
+* Is excited to make new friends!
+* Drinks hot tea all the time
+* Thinks they can talk to animals
+* Is always willing to lend a hand
+* Likes to draw, but is still learning
+* Will message to make sure you're doing well
+* Enjoys reading fantasy adventures and love stories most
+* Is afraid of the dark
+* Often bakes cookies for their friends
+* Gets cold easily
+* Likes trying new things
+* Their favorite color is purple
+* Gets fictional crushes 
+* Likes to visit amazing sights
+* Is terrible at fishing
+* Has lost a bet
+* Favorite gift is a book
+* Tried sour candy once
+* Is coming to your location right now
+* Enjoys sitting down with a good book and tea
+* Loves hosting friends at their home
+* Comes from a past Sky:COTL season
+* Is a Pisces sun, Leo moon
+</div>
+}}
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Rhythm}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Troupe Greeter
+|type   = season
+|season = Rhythm
+|image  = Rhythm-Spirit-Troupe-Greeter.png
+
+|nodeC5 = season_heart 3 SC SP
+|nodeL4 = Outfit SP
+|nodeC4 = Mask 12 SC
+|nodeL3 = emote4 SP
+|nodeC3 = emote3 10 SC
+|nodeL2 = spell5 SP
+|nodeC2 = music4 8 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Image Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Troupe Greeter Promo image 2.png
+Troupe Greeter Promo image (mid Season).png
+Welcome (selfie).jpg
+Rhythm beta group welcome 2.jpeg
+Rhythm beta group welcome.jpeg
+Rhythm welcome map open.png
+</gallery>
+
+==Video Gallery==
+{{#ev:youtube|J35XuoEkp5w|175|inline|Video Guide by Tara}}
+
+==References==
+<references/>
+[[de:Zirkusbegrüßer]]
+[[fr:Hôte de troupe]]
+[[ru:Зазывала из труппы]]
+[[ja:一座の進行役]]
+[[pt-br:Trupe de Cumprimentadores]]

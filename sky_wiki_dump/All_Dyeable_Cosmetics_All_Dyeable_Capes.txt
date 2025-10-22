@@ -1,0 +1,708 @@
+<section begin="Table" />
+{| class="article-table sortable"
+! class="unsortable" |Image
+! class="unsortable" |Icon
+![[#Availability Legend|Avail.]]
+!Source
+!Price
+!# of<br>Sections
+!Dye Cost
+|- id="Base"
+| style="text-align: center;" | {{Icon| Cape_brown_2.png | table | label=Base Cape | link=Capes#Base Cape }}
+|{{Icon| Icon_cape_brown-Morybel-0146.png | table | label=Base Cape | link=Capes#Base Cape }}
+| {{Avail Summary | permanent | source=Base }}
+|{{Cost | free }}
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Starter Pack"
+| style="text-align: center;" |{{Icon| Cape_orange_2.png | link=Starter Pack | table }}
+|{{Icon| Icon_cape_orange-Morybel-0146.png | table | link=Starter Pack }}
+| {{Avail Summary | conditional | source={{Icon|Apple-Logo.png|table|link=Starter Pack}} }}
+|{{Cost| 4.99 USD }}
+| 1
+| 3 or 6 {{Cost | D}}
+|- id="Butterfly Charmer"
+| style="text-align: center;" |{{Spirit Item| Butterfly Charmer | cape_real | table }}
+|{{Spirit Item| Butterfly Charmer | Cape | table }}
+| {{Avail Summary | regular | spirit=Butterfly Charmer | realm=Daylight Prairie }}
+|{{Cost | 3 H }}
+| 1
+| 3 or 6 {{Cost | D}}
+|- id="Proud Victor"
+| style="text-align: center;" |{{Spirit Item| Proud Victor | cape_real | table }}
+|{{Spirit Item| Proud Victor | cape | table }}
+| {{Avail Summary | regular | spirit=Proud Victor | realm=Valley of Triumph }}
+|{{Cost | 10 H }}
+| 1
+| 3 or 6 {{Cost | D}}
+|- id="Courageous Soldier"
+| style="text-align: center;" |{{Spirit Item| Courageous Soldier | cape_real | table }}
+|{{Spirit Item| Courageous Soldier | cape | table }}
+| {{Avail Summary | regular | spirit=Courageous Soldier | realm=Golden Wasteland }}
+|{{Cost | 15 H }}
+| 1
+| 3 or 6 {{Cost | D}}
+|- id="Pouty Porter"
+| style="text-align: center;" |{{Spirit Item| Pouty Porter | cape_real | table }}
+|{{Spirit Item| Pouty Porter | cape | table }}
+| {{Avail Summary | regular | spirit=Pouty Porter | realm=Hidden Forest }}
+|{{Cost | 20 H }}
+| 1
+| 3 or 6 {{Cost | D}}
+|- id="Praying Acolyte"
+| style="text-align: center;" |{{Spirit Item| Praying Acolyte | cape_real | table }}
+|{{Spirit Item| Praying Acolyte | cape | table }}
+| {{Avail Summary | regular | spirit=Praying Acolyte | realm=Vault of Knowledge }}
+|{{Cost | 25 H }}
+| 1
+| 3 or 6 {{Cost | D}}
+|- id="Dismayed Hunter"
+| style="text-align: center;" |{{Spirit Item| Dismayed Hunter | cape_real | table }}
+|{{Spirit Item| Dismayed Hunter | cape | table }}
+| {{Avail Summary | regular | spirit=Dismayed Hunter | realm=Hidden Forest }}
+|{{Cost | 30 H }}
+| 1
+| 3 or 6 {{Cost | D}}
+|- id="Handstanding Thrillseeker"
+| style="text-align: center;" |{{Spirit Item| Handstanding Thrillseeker | cape_real | table }}
+|{{Spirit Item| Handstanding Thrillseeker | cape | table }}
+| {{Avail Summary | regular | spirit=Handstanding Thrillseeker | realm=Valley of Triumph }}
+|{{Cost | 40 H }}
+| 1
+| 3 or 6 {{Cost | D}}
+|- id="Stealthy Survivor"
+| style="text-align: center;" |{{Spirit Item| Stealthy Survivor | cape_real | table }}
+|{{Spirit Item| Stealthy Survivor | cape | table }}
+| {{Avail Summary | regular | spirit=Stealthy Survivor | realm=Golden Wasteland }}
+|{{Cost | 50 H }}
+| 1
+| 3 or 6 {{Cost | D}}
+|- id="Memory Whisperer"
+| style="text-align: center;" |{{Spirit Item| Memory Whisperer | cape_real | table }}
+|{{Spirit Item| Memory Whisperer | cape | table }}
+| {{Avail Summary | regular | spirit=Memory Whisperer | realm=Vault of Knowledge }}
+|{{Cost | 50 H }}
+| 1
+| 3 or 6 {{Cost | D}}
+|- id="Butterfly Charmer Tier 2"
+| style="text-align: center;" |{{Spirit Item| Butterfly Charmer | cape_2_real | table  }}
+|{{Spirit Item| Butterfly Charmer | cape_2 | table }}
+| {{Avail Summary | regular | spirit=Butterfly Charmer | realm=Daylight Prairie }}
+|{{Cost | 9 H }}
+| 1
+| 3 or 6 {{Cost | D}}
+|- id="Proud Victor Tier 2"
+| style="text-align: center;" |{{Spirit Item| Proud Victor | cape_2_real | table }}
+|{{Spirit Item| Proud Victor | cape_2 | table }}
+| {{Avail Summary | regular | spirit=Proud Victor | realm=Valley of Triumph }}
+|{{Cost | 30 H }}
+| 1
+| 3 or 6 {{Cost | D}}
+|- id="Courageous Soldier Tier 2"
+| style="text-align: center;" |{{Spirit Item| Courageous Soldier | cape_2_real | table }}
+|{{Spirit Item| Courageous Soldier | cape_2 | table }}
+| {{Avail Summary | regular | spirit=Courageous Soldier | realm=Golden Wasteland }}
+|{{Cost | 45 H }}
+| 1
+| 3 or 6 {{Cost | D}}
+|- id="Pouty Porter Tier 2"
+| style="text-align: center;" |{{Spirit Item| Pouty Porter | cape_2_real | table }}
+|{{Spirit Item| Pouty Porter | cape_2 | table  }}
+| {{Avail Summary | regular | spirit=Pouty Porter | realm=Hidden Forest }}
+|{{Cost | 60 H }}
+| 1
+| 3 or 6 {{Cost | D}}
+|- id="Praying Acolyte Tier 2"
+| style="text-align: center;" | {{Spirit Item| Praying Acolyte | cape_2_real | table  }}
+|{{Spirit Item| Praying Acolyte | cape_2 | table }}
+| {{Avail Summary | regular | spirit=Praying Acolyte | realm=Vault of Knowledge }}
+|{{Cost | 75 H }}
+| 1
+| 3 or 6 {{Cost | D}}
+|- id="Dismayed Hunter Tier 2"
+| style="text-align: center;" |{{Spirit Item| Dismayed Hunter | cape_2_real | table }}
+|{{Spirit Item| Dismayed Hunter | cape_2 | table }}
+| {{Avail Summary | regular | spirit=Dismayed Hunter | realm=Hidden Forest }}
+|{{Cost | 90 H }}
+| 1
+| 3 or 6 {{Cost | D}}
+|- id="Handstanding Thrillseeker Tier 2"
+| style="text-align: center;" | {{Spirit Item| Handstanding Thrillseeker | cape_2_real | table }}
+|{{Spirit Item| Handstanding Thrillseeker | cape_2 | table }}
+| {{Avail Summary | regular | spirit=Handstanding Thrillseeker | realm=Valley of Triumph }}
+|{{Cost | 120 H }}
+| 1
+| 3 or 6 {{Cost | D}}
+|- id="Stealthy Survivor Tier 2"
+| style="text-align: center;" |{{Spirit Item| Stealthy Survivor | cape_2_real | table }}
+|{{Spirit Item| Stealthy Survivor | cape_2 | table }}
+| {{Avail Summary | regular | spirit=Stealthy Survivor | realm=Golden Wasterland }}
+|{{Cost | 150 H }}
+| 1
+| 3 or 6 {{Cost | D}}
+|- id="Memory Whisperer Tier 2"
+| style="text-align: center;" |{{Spirit Item| Memory Whisperer | cape_2_real | table }}
+| {{Spirit Item| Memory Whisperer | cape_2 | table }}
+| {{Avail Summary | regular | spirit=Memory Whisperer | realm=Vault of Knowledge }}
+| {{Cost | 150 H }}
+| 1
+| 3 or 6 {{Cost | D}}
+|- id="Radiance Guide"
+| style="text-align: center;" |{{Spirit Item| Radiance Guide | cape_a_real | table }}
+|{{Spirit Item| Radiance Guide | cape_a | table }}
+| {{Avail Summary | permanent | spirit=Radiance Guide | season=Radiance }}
+|{{Cost | 12 H }}
+| 2
+| 2 or 4 {{Cost | D}}<hr>3 or 6 {{Cost | D}}
+|- id="Saluting Protector"
+| style="text-align: center;" |{{Spirit Item| Saluting Protector | cape_real | table }}
+|{{Spirit Item| Saluting Protector | Cape | table }}
+| {{Avail Summary | season | spirit=Saluting Protector | season=Gratitude }}
+|{{Cost | 75 C }}
+| 2
+| 2 or 4 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="Stretching Guru"
+| style="text-align: center;" |{{Spirit Item| Stretching Guru | cape_real | table }}
+| {{Spirit Item| Stretching Guru | Cape | table }}
+| {{Avail Summary | season | spirit=Stretching Guru | season=Gratitude }}
+|{{Cost | 65 C }}
+| 1
+| 2 or 4 {{Cost | D}}
+|- id="Crab Whisperer"
+| style="text-align: center;" |{{Spirit Item| Crab Whisperer | Cape_real | table }}
+|{{Spirit Item| Crab Whisperer | Cape | table }}
+| {{Avail Summary | season | spirit=Crab Whisperer | season=Lightseekers }}
+|{{Cost | 70 C }}
+| 1
+| 2 or 4 {{Cost | D}}
+|- id="Piggyback Lightseeker"
+| style="text-align: center;" |{{Spirit Item| Piggyback Lightseeker | Cape_real | table }}
+|{{Spirit Item| Piggyback Lightseeker | Cape | table }}
+| {{Avail Summary | season | spirit=Piggyback Lightseeker | season=Lightseekers }}
+|{{Cost | 60 C }}
+| 2
+| 2 or 4 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="Shushing Light Scholar"
+| style="text-align: center;" |{{Spirit Item| Shushing Light Scholar | Cape_real | table }}
+|{{Spirit Item| Shushing Light Scholar | Cape | table }}
+| {{Avail Summary | season | spirit=Shushing Light Scholar | season=Lightseekers }}
+|{{Cost | 65 C }}
+| 2
+| 2 or 4 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="Confetti Cousin"
+| style="text-align: center;" |{{Spirit Item| Confetti Cousin | Cape_real | table }}
+| {{Spirit Item| Confetti Cousin | Cape | table }}
+| {{Avail Summary | season | spirit=Confetti Cousin | season=Belonging }}
+|{{Cost | 60 C }}
+| 2
+| 3 or 6 {{Cost | D}}<hr>2 or 4 {{Cost | D}}
+|- id="Pleaful Parent"
+| style="text-align: center;" |{{Spirit Item| Pleaful Parent | Cape_real | table }}
+|{{Spirit Item| Pleaful Parent | Cape | table }}
+| {{Avail Summary | season | spirit=Pleaful Parent | season=Belonging }}
+|{{Cost | 65 C }}
+| 2
+| 3 or 6 {{Cost | D}}<hr>2 or 4 {{Cost | D}}
+|- id="Wise Grandparent"
+| style="text-align: center;" |{{Spirit Item| Wise Grandparent | Cape_real | table }}
+|{{Spirit Item| Wise Grandparent | Cape | table }}
+| {{Avail Summary | season | spirit=Wise Grandparent | season=Belonging }}
+|{{Cost | 70 C }}
+| 2
+| 3 or 6 {{Cost | D}}<hr>2 or 4 {{Cost | D}}
+|- id="Troupe Juggler"
+| style="text-align: center;" |{{Spirit Item| Troupe Juggler | cape_real | table }}
+| {{Spirit Item| Troupe Juggler | Cape | table }}
+| {{Avail Summary | season | spirit=Troupe Juggler | season=Rhythm }}
+| {{Cost | 75 C }}
+| 1
+| 4 or 8 {{Cost | D}}
+|- id="Crab Walker"
+| style="text-align: center;" |{{Spirit Item| Crab Walker | Cape_real | table }}
+|{{Spirit Item| Crab Walker | Cape | table }}
+| {{Avail Summary | season | spirit=Crab Walker | season=Enchantment }}
+|{{Cost | 60 C }}
+| 1
+| 3 or 6 {{Cost | D}}
+|- id="Snoozing Carpenter"
+| style="text-align: center;" |{{Spirit Item| Snoozing Carpenter | Cape_real | table }}
+|{{Spirit Item| Snoozing Carpenter | Cape | table }}
+| {{Avail Summary | season | spirit=Snoozing Carpenter | season=Enchantment }}
+|{{Cost | 65 C }}
+| 2
+| 3 or 6 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="Indifferent Alchemist"
+| style="text-align: center;" |{{Spirit Item| Indifferent Alchemist | Cape_real | table}}
+|{{Spirit Item| Indifferent Alchemist | Cape | table }}
+| {{Avail Summary | season | spirit=Indifferent Alchemist | season=Enchantment }}
+|{{Cost | 70 C }}
+| 2
+| 3 or 6 {{Cost | D}}<hr>3 or 6 {{Cost | D}}
+|- id="Playfighting Herbalist"
+| style="text-align: center;" |{{Spirit Item| Playfighting Herbalist | Cape_real | table }}
+|{{Spirit Item| Playfighting Herbalist | Cape | table }}
+| {{Avail Summary | season | spirit=Playfighting Herbalist | season=Enchantment }}
+|{{Cost | 70 C }}
+| 2
+| 3 or 6 {{Cost | D}}<hr>3 or 6 {{Cost | D}}
+|- id="Timid Bookworm"
+| style="text-align: center;" |{{Spirit Item| Timid Bookworm | cape_real | table }}
+|{{Spirit Item| Timid Bookworm | cape | table }}
+| {{Avail Summary | season | spirit=Timid Bookworm | season=Sanctuary }}
+| {{Cost | 70 C }}
+| 1
+| 4 or 8 {{Cost | D}}
+|- id="Grateful Shell Collector"
+| style="text-align: center;" | {{Spirit Item| Grateful Shell Collector | Cape_real | table }}
+|{{Spirit Item| Grateful Shell Collector | Cape | table }}
+| {{Avail Summary | season | spirit=Grateful Shell Collector | season=Sanctuary }}
+|{{Cost | 70 C }}
+| 2
+| 3 or 6 {{Cost | D}}<hr>2 or 4 {{Cost | D}}
+|- id="Chill Sunbather"
+| style="text-align: center;" |{{Spirit Item| Chill Sunbather | Cape_real | table }}
+| {{Spirit Item| Chill Sunbather | Cape | table }}
+| {{Avail Summary | season | spirit=Chill Sunbather | season=Sanctuary }}
+|{{Cost | 70 C }}
+| 1
+| 3 or 6 {{Cost | D}}
+|- id="Prophet of Air"
+| style="text-align: center;" |{{Spirit Item| Prophet of Air | Cape_real | table }}
+|{{Spirit Item| Prophet of Air | Cape | table }}
+| {{Avail Summary | season | spirit=Prophet of Air | season=Prophecy }}
+|{{Cost | 75 C }}
+| 2
+| 3 or 6 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="Prophet of Water"
+| style="text-align: center;" |{{Spirit Item| Prophet of Water | Cape_real | table }}
+|{{Spirit Item| Prophet of Water | Cape | table }}
+| {{Avail Summary | season | spirit=Prophet of Water | season=Prophecy }}
+|{{Cost | 75 C }}
+| 1
+| 2 or 4 {{Cost | D}}
+|- id="Prophet of Earth"
+| style="text-align: center;" |{{Spirit Item| Prophet of Earth | Cape_real | table }}
+|{{Spirit Item| Prophet of Earth | Cape | table }}
+| {{Avail Summary | season | spirit=Prophet of Earth | season=Prophecy }}
+|{{Cost | 75 C }}
+| 2
+| 3 or 6 {{Cost | D}}<hr>2 or 4 {{Cost | D}}
+|- id="Peeking Postman"
+| style="text-align: center;" |{{Spirit Item| Peeking Postman | Cape_real | table }}
+|{{Spirit Item| Peeking Postman | Cape | table }}
+| {{Avail Summary | season | spirit=Peeking Postman | season=Dreams }}
+|{{Cost | 65 C }}
+| 1
+| 2 or 4 {{Cost | D}}
+|- id="Dancing Performer"
+| style="text-align: center;" |{{Spirit Item| Dancing Performer | cape_real | table }}
+|{{Spirit Item| Dancing Performer | Cape | table }}
+| {{Avail Summary | season | spirit=Dancing Performer | season=Dreams }}
+|{{Cost | 75 C }}
+| 1
+| 2 or 4 {{Cost | D}}
+|- id="Spinning Mentor"
+| style="text-align: center;" |{{Spirit Item| Spinning Mentor | cape_real | table }}
+|{{Spirit Item| Spinning Mentor | Cape | table }}
+| {{Avail Summary | season | spirit=Spinning Mentor | season=Dreams }}
+|{{Cost | 70 C }}
+| 1
+| 3 or 6 {{Cost | D}}
+|- id="Dreams Ultimate Cape"
+| style="text-align: center;" |{{Spirit Item| Dreams Guide | cape_u_real | table }}
+|{{Spirit Item| Dreams Guide | cape_u | table }}
+| {{Avail Summary | ultimate | season=Dreams }}
+|{{Cost | N/A }}
+| 1
+| 2 or 4 {{Cost | D}}
+|- id="Assembly Ultimate Cape"
+| style="text-align: center;" |{{Spirit Item| Assembly Guide | cape_u_real | table }}
+| {{Spirit Item| Assembly Guide | cape_u | table }}
+| {{Avail Summary | ultimate | season=Assembly }}
+|{{Cost | N/A }}
+| 1
+| 2 or 4 {{Cost | D}}
+|- id="Scolding Student"
+| style="text-align: center;" |{{Spirit Item| Scolding Student | cape_real | table }}
+|{{Spirit Item| Scolding Student | Cape | table }}
+| {{Avail Summary | season | spirit=Scolding Student | season=Assembly }}
+|{{Cost | 70 C }}
+| 1
+| 3 or 6 {{Cost | D}}
+|- id="Light Whisperer"
+| style="text-align: center;" |{{Spirit Item| Light Whisperer | Cape_real | table }}
+|{{Spirit Item| Light Whisperer | Cape | table }}
+| {{Avail Summary | season | spirit=Light Whisperer | season=Flight }}
+|{{Cost | 70 C }}
+| 1
+| 4 or 8 {{Cost | D}}
+|- id="Lively Navigator"
+| style="text-align: center;" |{{Spirit Item| Lively Navigator | Cape_real | table }}
+|{{Spirit Item| Lively Navigator | Cape | table }}
+| {{Avail Summary | season | spirit=Lively Navigator | season=Flight }}
+|{{Cost | 70 C }}
+| 2
+| 3 or 6 {{Cost | D}}<hr>2 or 4 {{Cost | D}}
+|- id="Ceasing Commodore"
+| style="text-align: center;" |{{Spirit Item| Ceasing Commodore | Cape_real | table }}
+| {{Spirit Item| Ceasing Commodore | Cape | table }}
+| {{Avail Summary | season | spirit=Ceasing Commodore | season=Abyss }}
+|{{Cost | 70 C }}
+| 1
+| 4 or 8 {{Cost | D}}
+|- id="Cackling Cannoneer"
+| style="text-align: center;" |{{Spirit Item| Cackling Cannoneer | Cape_real | table }}
+|{{Spirit Item| Cackling Cannoneer | Cape | table }}
+| {{Avail Summary | season | spirit=Cackling Cannoneer | season=Abyss }}
+|{{Cost | 70 C }}
+| 2
+| 4 or 6 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="Anxious Angler"
+| style="text-align: center;" |{{Spirit Item| Anxious Angler | Cape_real | table }}
+|{{Spirit Item| Anxious Angler | Cape | table }}
+| {{Avail Summary | season | spirit=Anxious Angler | season=Abyss }}
+|{{Cost | 70 C }}
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Bumbling Boatswain"
+| style="text-align: center;" |{{Spirit Item| Bumbling Boatswain | Cape_real | table }}
+|{{Spirit Item| Bumbling Boatswain | Cape | table }}
+| {{Avail Summary | season | spirit=Bumbling Boatswain | season=Abyss }}
+|{{Cost | 70 C }}
+| 2
+| 4 or 6 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="Abyss Ultimate Cape"
+| style="text-align: center;" |{{Spirit Item| Abyss Guide | cape_u_real | table }}
+|{{Spirit Item| Abyss Guide | cape_u | table }}
+| {{Avail Summary | ultimate | season=Abyss }}
+| {{Cost | N/A }}
+| 2
+| 2 or 4 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="Performance Ultimate Cape"
+| style="text-align: center;" |{{Spirit Item| Performance Guide | cape_u_real | table }}
+|{{Spirit Item| Performance Guide | cape_u | table }}
+| {{Avail Summary | ultimate | season=Performance }}
+|{{Cost | N/A }}
+| 1
+| 3 or 6 {{Cost | D}}
+|- id="Forgetful Storyteller"
+| style="text-align: center;" |{{Spirit Item| Forgetful Storyteller | Cape_real | table }}
+|{{Spirit Item| Forgetful Storyteller | Cape | table }}
+| {{Avail Summary | season | spirit=Forgetful Storyteller | season=Performance }}
+|{{Cost | 70 C }}
+| 2
+| 4 or 6 {{Cost | D}}<hr>2 or 4 {{Cost | D}}
+|- id="Mellow Musician"
+| style="text-align: center;" |{{Spirit Item| Mellow Musician | Cape_real | table }}
+|{{Spirit Item| Mellow Musician | Cape | table }}
+| {{Avail Summary | season | spirit=Mellow Musician | season=Performance }}
+|{{Cost | 70 C }}
+| 1
+| 3 or 6 {{Cost | D}}
+|- id="Bereft Veteran"
+| style="text-align: center;" |{{Spirit Item| Bereft Veteran | cape_real | table }}
+| {{Spirit Item| Bereft Veteran | cape | table }}
+| {{Avail Summary | season | spirit=Bereft Veteran | season=Remembrance }}
+| {{Cost | 80 C }}
+| 2
+| 3 or 6 {{Cost | D}}<hr>2 or 4 {{Cost | D}}
+|- id="Wounded Warrior"
+| style="text-align: center;" |{{Spirit Item| Wounded Warrior | cape_real | table }}
+|{{Spirit Item| Wounded Warrior | cape | table }}
+| {{Avail Summary | season | spirit=Wounded Warrior | season=Remembrance }}
+| {{Cost | 80 C }}
+| 1
+| 3 or 6 {{Cost | D}}
+|- id="Tiptoeing Tea-Brewer"
+| style="text-align: center;" |{{Spirit Item| Tiptoeing Tea-Brewer | cape_real | table }}
+|{{Spirit Item| Tiptoeing Tea-Brewer | cape | table }}
+| {{Avail Summary | season | spirit=Tiptoeing Tea-Brewer | season=Remembrance }}
+|{{Cost | 65 C }}
+| 2
+| 3 or 6 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="Tumbling Troublemaker"
+| style="text-align: center;" |{{Spirit Item| Tumbling Troublemaker | cape_real | table }}
+|{{Spirit Item| Tumbling Troublemaker | cape | table }}
+| {{Avail Summary | season | spirit=Tumbling Troublemaker | season=Passage }}
+|{{Cost | 80 C }}
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Overactive Overachiever"
+| style="text-align: center;" |{{Spirit Item| Overactive Overachiever | cape_real | table }}
+|{{Spirit Item| Overactive Overachiever | cape | table }}
+| {{Avail Summary | season | spirit=Overactive Overachiever | season=Passage }}
+|{{Cost | ? }}
+| 2
+| 3 or 6 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="Reassuring Ranger"
+| style="text-align: center;" |{{Spirit Item| Reassuring Ranger | cape_real | table }}
+|{{Spirit Item| Reassuring Ranger | cape | table }}
+| {{Avail Summary | season | spirit=Reassuring Ranger | season=Moments }}
+|{{Cost | ? }}
+| 2
+| 3 or 6 {{Cost | D}}<hr>2 or 4 {{Cost | D}}
+|- id="Vestige of a Deserted Oasis"
+| style="text-align: center;" | {{Spirit Item| Vestige of a Deserted Oasis | cape_real | table }}
+| {{Spirit Item| Vestige of a Deserted Oasis | cape | table }}
+| {{Avail Summary | season | spirit=Vestige of a Deserted Oasis | season=Revival }}
+|{{Cost | ? }}
+| 2
+| 3 or 6 {{Cost | D}}<hr>2 or 4 {{Cost | D}}
+|- id="Echo of an Abandoned Refuge"
+| style="text-align: center;" | {{Spirit Item| Echo of an Abandoned Refuge | cape_real | table }}
+|{{Spirit Item| Echo of an Abandoned Refuge | cape | table }}
+| {{Avail Summary | season | spirit=Echo of an Abandoned Refuge | season=Revival }}
+|{{Cost | ? }}
+| 2
+| 4 or 6 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="Remnant of a Forgotten Haven"
+| style="text-align: center;" | {{Spirit Item| Remnant of a Forgotten Haven | cape_real | table }}
+|{{Spirit Item| Remnant of a Forgotten Haven | cape | table }}
+| {{Avail Summary | season | spirit=Remnant of a Forgotten Haven | season=Revival }}
+|{{Cost | ? }}
+| 1
+| 3 or 6 {{Cost | D}}
+|- id="Memory of a Lost Village"
+| style="text-align: center;" | {{Spirit Item| Memory of a Lost Village | cape_real | table }}
+| {{Spirit Item| Memory of a Lost Village | cape | table }}
+| {{Avail Summary | season | spirit= Memory of a Lost Village | season=Revival }}
+|{{Cost | ? }}
+| 1
+| 3 or 6 {{Cost | D}}
+|- id="Nesting Loft"
+| style="text-align: center;" |{{Spirit Item| Nesting Loft | cape_real | table }}
+|{{Spirit Item| Nesting Loft | cape | table }}
+| {{Avail Summary | season | spirit=Nesting Loft | season=Nesting }}
+|{{Cost | ? }}
+| 2
+| 2 or 4 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="Duets Ultimate Cape"
+| style="text-align: center;" |{{Spirit Item| Duets Guide | cape_u_real | table }}
+|{{Spirit Item| Duets Guide | cape_u | table }}
+| {{Avail Summary | ultimate | spirit=Duets Guide | season=Duets }}
+|{{Cost | N/A }}
+| 2
+| 3 or 6 {{Cost | D}}<hr>2 or 4 {{Cost | D}}
+|- id="The Cellist's Flourishing"
+| style="text-align: center;" |{{Spirit Item| The Cellist's Flourishing | cape_real | table }}
+|{{Spirit Item| The Cellist's Flourishing | cape | table }}
+| {{Avail Summary | season | spirit=The Cellist's Flourishing | season=Duets }}
+|{{Cost | unknown }}
+| 2
+| 2 or 4 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="Radiance Provoking Performer"
+| style="text-align: center;" |{{Spirit Item| Radiance Provoking Performer | cape_real | table }}
+|{{Spirit Item| Radiance Provoking Performer | cape | table }}
+| {{Avail Summary | season | spirit=Radiance Provoking Performer | season=Radiance }}
+|{{Cost | ? }}
+| 2
+| 3 or 6 {{Cost | D}}<hr>3 or 6 {{Cost | D}}
+|- id="Radiance Leaping Dancer"
+| style="text-align: center;" |{{Spirit Item| Radiance Leaping Dancer | cape_real | table }}
+|{{Spirit Item| Radiance Leaping Dancer | cape | table }}
+| {{Avail Summary | season | spirit=Radiance Leaping Dancer | season=Radiance }}
+|{{Cost | ?}}
+| 2
+| 4 or 8 {{Cost | D}}<hr>2 or 4 {{Cost | D}}
+|- id="Radiance Guide"
+| style="text-align: center;" |{{Spirit Item| Radiance Guide | cape_u_real | table }}
+|{{Spirit Item| Radiance Guide | cape_u | table }}
+| {{Avail Summary | ultimate | spirit=Radiance Guide | season=Radiance }}
+|{{Cost | N/A}}
+| 2
+| 4 or 8 {{Cost | D}}<hr>2 or 4 {{Cost | D}}
+|- id="Royal Hairtousle Teen"
+| style="text-align: center;" |{{Spirit Item| Royal Hairtousle Teen | cape_real | table }}
+|{{Spirit Item| Royal Hairtousle Teen | cape | table }}
+| {{Avail Summary | season | spirit=Royal Hairtousle Teen | season=Blue Bird }}
+|{{Cost | ?}}
+| 2
+| 1 or 2 {{Cost | D}}<hr>3 or 6 {{Cost | D}}
+|- id="Nostalgic Sparkler Parent"
+| style="text-align: center;" |{{Spirit Item| Nostalgic Sparkler Parent | cape_real | table }}
+|{{Spirit Item| Nostalgic Sparkler Parent | cape | table }}
+| {{Avail Summary | season | spirit=Nostalgic Sparkler Parent | season=Blue Bird }}
+|{{Cost | ? }}
+| 1
+| 3 or 6 {{Cost | D}}
+|- id="Divining Wise Grandparent"
+| style="text-align: center;" |{{Spirit Item| Divining Wise Grandparent | cape_real | table }}
+|{{Spirit Item| Divining Wise Grandparent | cape | table }}
+| {{Avail Summary | season | spirit=Divining Wise Grandparent | season=Blue Bird }}
+|{{Cost | ?}}
+| 1
+| 3 or 6 {{Cost | D}}
+|- id="Blue Bird Guide"
+| style="text-align: center;" |{{Spirit Item| Blue Bird Guide | cape_u_real | table }}
+|{{Spirit Item| Blue Bird Guide | cape_u | table }}
+| {{Avail Summary | ultimate | spirit=Blue Bird Guide | season=Blue Bird }}
+|{{Cost | N/A }}
+| 1
+| 3 or 6 {{Cost | D}}
+|- id="Scarred Sentry"
+| style="text-align: center;" |{{Spirit Item| Scarred Sentry | cape_real | table }}
+|{{Spirit Item| Scarred Sentry | cape | table }}
+| {{Avail Summary | season | spirit=Scarred Sentry | season=Blue Bird }}
+|{{Cost | SP}}
+| 1
+| 4 or 8 {{Cost | D}}
+|- id="Vault Elder's Lantern"
+| style="text-align: center;" |{{Spirit Item| Vault Elder's Lantern | cape_u_real | table }}
+|{{Spirit Item| Vault Elder's Lantern | cape_u | table }}
+| {{Avail Summary | ultimate | spirit=Vault Elder's Lantern | season=Blue Bird }}
+|{{Cost | 2 SH | season=Two Embers - Part 1 }}
+| 2
+| 3 or 6 {{Cost | D}}<hr>3 or 6 {{Cost | D}}
+|- id="Dragon Cape"
+| style="text-align: center;" |{{Days Item| Dragon Cape | real | table }}
+| {{Days Item| Dragon Cape | icon | table }}
+| {{Avail Summary | days | days=Fortune }}
+| {{Cost| 14.99 USD }}
+| 1
+| 3 or 6 {{Cost | D}}
+|- id="Bloom Rose Cape"
+| style="text-align: center;" |{{Days Item| Bloom Rose Cape | real | table }}
+|{{Days Item| Bloom Rose cape | icon | table }}
+| {{Avail Summary | days | days=Bloom }}
+| {{Cost| 14.99 USD }}
+| 2
+| 4 or 8 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="Ocean Cape"
+| style="text-align: center;" |{{Days Item| Ocean Cape | real | table }}
+|{{Days Item| Ocean Cape | icon | table }}
+| {{Avail Summary | days | days=Nature }}
+| {{Cost| 14.99 USD }}
+| 1
+| 2 or 4 {{Cost | D}}
+|- id="Dark Rainbow Cape"
+| style="text-align: center;" | {{Days Item| Dark Rainbow Cape | real | table }}
+|{{Days Item| Dark Rainbow Cape | icon | table }}
+| {{Avail Summary | days | days=Rainbow }}
+| {{Cost| 177 C }}
+| 2
+| 2 or 4 {{Cost | D}}<hr>2 or 4 {{Cost | D}}
+|- id="Rainbow Ribbon Shawl"
+| style="text-align: center;" | {{Days Item| Rainbow Ribbon Shawl | real | table }}
+|{{Days Item| Rainbow Ribbon Shawl | icon | table }}
+| {{Avail Summary | days | days=Color }}
+| {{Cost| 14.99 USD }}
+| 2
+| 1 or 2 {{Cost | D}}<hr>4 or 8 {{Cost | D}}
+|- id="Sunlight Shawl Cape"
+| style="text-align: center;" |{{Days Item| Sunlight Shawl Cape | real | table }}
+| {{Days Item| Sunlight Shawl Cape | icon | table }}
+| {{Avail Summary | days | days=Sunlight }}
+|{{Cost| 22 T | event=Sunlight }}
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Sunlight Woven Wrap"
+| style="text-align: center;" |{{Days Item| Sunlight Woven Wrap | real | table }}
+| {{Days Item| Sunlight Woven Wrap | icon | table }}
+| {{Avail Summary | days | days=Sunlight }}
+|{{Cost| 14.99 USD }}
+| 2
+| 4 or 6 {{Cost | D}}<hr>2 or 4 {{Cost | D}}
+|- id="Spooky Bat Cape"
+| style="text-align: center;" |{{Days Item| Spooky Bat Cape | real | table }}
+|{{Days Item| Spooky Bat Cape | icon | table }}
+| {{Avail Summary | days | days=Mischief }}
+|{{Cost| 17.99 USD }}
+| 1
+| 3 or 6 {{Cost | D}}
+|- id="Mischief Web Cape"
+| style="text-align: center;" | {{Days Item| Mischief Web Cape | real | table }}
+|{{Days Item| Mischief Web Cape | icon | table }}
+| {{Avail Summary | days | days=Mischief }}
+|{{Cost| 14.99 USD }}
+| 1
+| 3 or 6 {{Cost | D}}
+|- id="Cat Cape"
+| style="text-align: center;" |{{Days Item| Cat Cape | real | table }}
+|{{Days Item| Cat Cape | icon | table }}
+| {{Avail Summary | days | days=Mischief }}
+|{{Cost| $19.99 }}
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Mischief Crabula Cloak"
+| style="text-align: center;" |{{Days Item| Crabula Cloak | real | table }}
+|{{Days Item| Crabula Cloak | icon | table }}
+| {{Avail Summary | days | days=Mischief }}
+| {{Cost| 14.99 USD }}
+| 1
+| 3 or 6 {{Cost | D}}
+|- id="Santa Cape"
+| style="text-align: center;" |{{Days Item| Santa Cape | real | table }}
+|{{Days Item| Santa Cape | icon | table }}
+| {{Avail Summary | days | days=Feast }}
+|{{Cost| 65 C }}
+| 1
+| 4 or 8 {{Cost | D}}
+|- id="Snowflake Cape"
+| style="text-align: center;" |{{Days Item| Snowflake Cape | real | table }}
+| {{Days Item| Snowflake Cape | icon | table }}
+| {{Avail Summary | days | days=Feast }}
+|{{Cost| 14.99 USD }}
+| 1
+| 4 or 8 {{Cost | D}}
+|- id="Winter Ancestor Cape"
+| style="text-align: center;" |{{Days Item| Winter Ancestor Cape | real | table }}
+|{{Days Item| Winter Ancestor Cape | icon | table }}
+| {{Avail Summary | days | days=Feast }}
+|{{Cost| 9.99 USD }}
+| 2
+| 3 or 6 {{Cost | D}}<hr>2 or 4 {{Cost | D}}
+|- id="Cozy Hermit Cape"
+| style="text-align: center;" |{{Days Item| Cozy Hermit Cape | real | table }}
+|{{Days Item| Cozy Hermit Cape | icon | table }}
+| {{Avail Summary | days | days=Feast }}
+|{{Cost| 14.99 USD }}
+| 2
+| 2 or 4 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="Winter Quilted Cape"
+| style="text-align: center;" |{{Days Item| Winter Quilted Cape | real | table }}
+|{{Days Item| Winter Quilted Cape | icon | table }}
+| {{Avail Summary | days | days=Feast }}
+|{{Cost| 14.99 USD }}
+| 1
+| 4 or 8 {{Cost | D}}
+|- id="Days of Music Marching Band Cape"
+| style="text-align: center;" |{{Days Item| Marching Band Cape | real | table }}
+| {{Days Item| Marching Band Cape | icon | table }}
+| {{Avail Summary | days | days=Music }}
+|{{Cost| ? }}
+| 1
+| 3 or 6 {{Cost | D}}
+|- id="Anniversary Tuxedo Cape"
+| style="text-align: center;" |{{Days Item| Anniversary Tuxedo Cape | real | table }}
+| {{Days Item| Anniversary Tuxedo Cape | icon | table }}
+| {{Avail Summary | days | days=Sky }}
+| {{Cost| 14.99 USD }}
+| 2
+| 3 or 6 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="Days of Fortune Snake Cloak"
+| style="text-align: center;" |{{Days Item| Days of Fortune Snake Cloak | real | table }}
+| {{Days Item| Days of Fortune Snake Cloak | icon | table }}
+| {{Avail Summary | days | days=Fortune }}
+| {{Cost| 19.99 USD }}<ref name="Fortune Snake Coif and Cloak">The $19.99 cost of the Fortune Snake Coif and Cloak includes 2 cosmetics (a Cape and a Hair).</ref>
+| 2
+| 3 or 6 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|}
+<section end="Table" />
+{{Avail Legend
+| regular 
+| permanent 
+| s+ 
+| u+ 
+| t* 
+| r*
+| d*
+| l*
+| days 
+| season 
+| ultimate 
+| limited 
+| conditional 
+}}
+
+[[fr:Tous les Cosmétiques Teintables/Toutes les Capes Teintables]]
+[[ja:染色価格表/ケープ染料価格表]]

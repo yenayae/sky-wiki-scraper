@@ -1,0 +1,286 @@
+{{Spoilers}}
+<!-- NOTICE TO EDITORS:
+When editing this page, DO NOT edit the content of the Opening Quotes or try to correct any typo, spelling, grammar, punctuation, capitalisation, etc. unless the correction has been made by TGC in the actual Live version of the game. 
+This page, and its subpage for translations, aims to show the Opening Quotes EXACTLY as in game, preserving any errors or typos that the actual game may contain. If you see an Opening Quote is listed as “Where the past meets the present” without a punctuation at the end, it is without punctuation in the actual game — TGC developers may have simply forgotten the punctuation (the full stop) at the end of the opening quote, and that mistake is preserved accurately here.  -->
+
+This page contains all the English Opening Quotes for all areas. They are listed here exactly as they appear in the game, including punctuation and capitalization, as well as any typos and errors that are present in the game. New areas may be added and existing Opening Quotes may change at any time.
+
+The Opening Quote is the line of text displayed when the player enters a Realm or seasonal area. They usually outline the theme, the main task to be completed, or the challenge of the area in a short, abstract sentence, usually in the imperative mood (calling to some action). Their true meaning is left for players to ponder as they explore the Realm.
+
+Currently there are 40 visible Opening Quotes in 36 different areas, including the main 7 that introduce the Realms, the second part of the Eye of Eden, Aviary Village, and 27 Seasonal Areas (including a special area in Office only available during Days of Mischief). Four areas (The Treehouse, The Wind Paths, Forgotten Ark, and Aviary Village) show a different Opening Quote according to the player's progress in the area. In addition, there are 3 Opening Quotes currently invisible for Home, Aviary, and The Ascent. Counting all of them, there are 43 Opening Quotes in the game, and each one is translated and localized into the 14 languages currently supported by Sky, making a grand total of 602 possible versions of Opening Quotes. 
+{| class="fandom-table"
+|Category
+|Areas
+|Total Quotes
+|Remarks
+|-
+|Main Realms
+|7
+|7
+|
+|-
+|Eye of Eden
+|1
+|1
+|
+|-
+|Aviary Village
+|1
+|2
+|2nd quote after some progress
+|-
+|Seasonal Areas
+|27
+|30
+|2nd quote after some progress: 
+
+* The Treehouse
+* The Wind Paths
+* Forgotten Ark
+|-
+|Total Visible
+|36
+|40
+|
+|-
+|Invisible (Home, Aviary, The Ascent)
+|3
+|3
+|
+|-
+|Total
+|39
+|43
+|
+|}
+For the full list of translated Opening Quotes, see the sub-page [[Opening Quotes/Translations]].
+
+As a new player visiting each of the 7 Realms for the first time, as well as every visit to the trials in Cave of Prophecy, you will see the Opening Quotes in full screen, with the name of the Realm or trial and its Opening Quote centered on screen. This will block your movements and emotes just like a cutscene. In subsequent visits to each Realm and visits to any of the sub-Realms (excepting trials), the Opening Quote will be displayed less prominently in the lower left corner, and this will not block your movements or emotes. 
+
+Note: You may notice that some Opening Quotes may contain typos or other errors such as missing/inconsistent punctuation. These errors are accurately reflected in this page, exactly as displayed in the game. For example, if an Opening Quote in the game does not have a punctuation (full stop or exclamation mark) at the end of the sentence, it is shown here without the expected punctuation (such as all 8 quotes for the main Realms). The missing ending punctuations are probably mistakes made by TGC developers. This page aims to provide information with accuracy rather than linguistic/grammatical correctness. 
+
+==Realms (9+1)==
+Below is a list of all Opening Quotes for each of the 7 Realms (plus the second part of Eye of Eden and the Aviary Village). These are shown as of the {{v|0.23.0}} version. The Isle of Dawn had a recent update to its Opening Quote with the addition of a call to action to "free lost spirits". The previous version was "Follow the bell and find your way to the temple".
+
+{| class="article-table"
+!Realm
+! colspan="2" |Quote
+|-
+!Isle of Dawn
+| colspan="2" |Free lost spirits and follow the bell to the temple
+|-
+!Daylight Prairie
+| colspan="2" | Ring the bell towers and reveal your path
+|-
+!Hidden Forest
+| colspan="2" |Protect your light and find the source of Ancient Power 
+|-
+!Valley of Triumph
+| colspan="2" |Race down the ridge, and the city gates will open to honor you
+|-
+! Golden Wasteland 
+| colspan="2" |Beyond the barren wastes, the Vault of Knowledge awaits
+|-
+!Vault of Knowledge 
+| colspan="2" |Climb the Vault, its wisdom awaits
+|-
+! Eye of Eden
+| colspan="2" |Push into the darkness
+|-
+!Eye of Eden (Second Part)
+| colspan="2" |Return the light of the fallen 
+|-
+!Aviary Village
+|A hidden refuge, lost to time.
+|A hidden refuge.
+|}
+
+==Seasonal Areas (27+3)==
+These are Opening Quotes for all the Seasonal Areas and other hidden areas (often blocked by a Spirit Gate).
+
+===Isle of Dawn (6)===
+Cave of Prophecies was introduced in the Season of Prophecy (2020-10-05 to 2020-12-13). It has an Opening Quote upon entrance to the Cave. In addition, each of the four Trials have their own Opening Quotes at the beginning of each Trial. 
+
+The Passage Stone was introduced in the Season of Passage (2023-04-17 to 2023-06-25).
+{| class="article-table"
+!Area 
+!Quote
+|-
+!Cave of Prophecies
+|Beware The Ancient Trials
+|-
+! Trial of Water
+|Time divides each contender.
+|-
+!Trial of Earth
+|Tenacity reveals the way home.
+|-
+!Trial of Air
+|Master the harmony of heights.
+|-
+!Trial of Fire 
+|Only the brave will attain the light.
+|-
+!Passage Stone
+|A place of learning and cooperation.
+|}
+
+===Daylight Prairie (4)===
+The Daylight Prairie has two seasonal areas with an Opening Quote: Sanctuary Islands (Season of Sanctuary, 2020-07-13 to 2020-09-21) and Prairie Peaks (Season of Moments, 2023-07-17 to 2023-10-01). The Sanctuary Vortex within the Sanctuary Islands was introduced in Days of Nature 2023 (2023-04-20 to 2023-05-07) and has another Opening Quote.
+{| class="article-table"
+!Area
+! Quote
+|-
+! Sanctuary Islands
+|An escape from daily civilization
+|-
+!The Sanctuary Vortex
+|Darkness trapped in the middle of the ocean
+|-
+!Prairie Peaks
+|A pristine landscape
+|-
+!Garden of Tranquility
+|Unwind with soothing sounds.
+|}
+
+===Hidden Forest (2+2)===
+The Hidden Forest has two seasonal areas with an Opening Quote: The Treehouse (Season of Assembly, 2021-04-05 to 2021-06-13) and The Wind Paths (Season of Flight, 2021-10-04 to 2021-12-19). The Opening Quotes here change with the completion status of the Quests.
+{| class="article-table"
+!Area
+!Quote Before Completed Quests
+!Quotes After Completed Quests
+|-
+!The Treehouse
+|A secret hideaway in the making.
+|A home away from home.
+|-
+!The Wind Paths
+|Abandoned paths of the ancient kingdom.
+|Chimes guide creatures to clear passage through the realms.
+|}
+
+===Valley of Triumph (4)===
+The Valley of Triumph has four seasonal areas with an Opening Quote: Village of Dreams and Hermit Valley (both introduced in the Season of Dreams, 2021-01-04 to 2021-03-15), and Village Theater and Harmony Hall (both introduced in the Season of Performance, 2022-04-11 to 2022-06-26).
+{| class="article-table"
+!Area 
+!Quote
+|-
+!Village of Dreams
+|A new spark inspires a humble community
+|-
+!Hermit Valley
+|Home of the giant with a gentle heart
+|-
+!Village Theater
+| A place to play many parts.
+|-
+!Harmony Hall
+|Melodies in the making
+|}
+
+===Golden Wasteland (2+1)===
+The Golden Wasteland has two seasonal areas with an Opening Quote: Forgotten Ark (Season of Enchantment, 2020-04-20 to 2020-04-21) and the Treasure Reef (Season of Abyss, 2022-01-17 to 2022-03-27). The Opening Quote for the Forgotten Ark change with the completion status of the Quests.
+{| class="article-table"
+! Area
+!Quote Before Completed Quests
+!Quotes After Completed Quests
+|-
+! Forgotten Ark 
+| What was covered in the sand?
+|An enchanted pearl in the Golden Wasteland
+|-
+! Treasure Reef
+| colspan="2" |What lies beneath the water?
+|}
+
+===Vault of Knowledge (7)===
+The Vault of Knowledge has five areas with an Opening Quote: Starlight Desert, Dream of A Little Friend, and Land of Tears (all added in the Season of The Little Prince, 2021-07-06 to 2021-09-19), the Repository of Refuge (Season of Remembrance, 2023-01-16 to 2023-04-02), the Crescent Oasis, and the Royal Palace (both introduced in the Season of the Nine-Colored Deer, 2024-01-12 to 2024-3-31).   
+
+The Sky Memorial was added to the Starlight Desert in June 2023 after the passing of Don Heim, TGC IT Security Manager. 
+
+The Dream of A Little Friend seasonal area changed its name to Belt of Asteroids some time between 0.24.2 to 0.29.2. 
+{| class="article-table"
+!Area
+!Quote
+|-
+!Starlight Desert
+| Where dreamlike worlds collide.
+|-
+!Sky Memorial 
+|In loving memory of Don Heim and all the loved ones we've lost
+|-
+! Belt of Asteroids
+|For travelers, the stars are guides.
+|-
+!Land of Tears
+|The loveliest and saddest landscape in the world.
+|-
+!Repository of Refuge
+| Where the past meets the present
+|-
+!Crescent Oasis
+|Home of the Nine-Colored Deer
+|-
+!Royal Palace
+|Heart of the Kingdom
+|}
+
+===Secret Area (1) ===
+The Cackling Crab is a special area in the Secret Area (Office) that is accessible only during the Days of Mischief.
+{| class="article-table"
+!Area
+!Quote 
+|-
+!The Cackling Crab
+|Sweets and secrets in spooky places
+|}
+
+===Ancient Memory (1)===
+The Season of Shattering introduced a special void space, the Ancient Memory, which also has an Opening Quote. 
+{| class="article-table"
+!Area
+! Quote
+|-
+!Ancient Memory
+|A piece of frozen memory from Eye of Eden.
+|}
+
+==Not Currently Visible Opening Quotes (3)==
+These Opening Quotes are not currently visible, nor can they be triggered in any normal way, in the current version of Sky. Some of them have appeared in Sky: Light Awaits, or in some beta or non-Live versions. They may be re-introduced or completely removed in the future. 
+{| class="article-table"
+!Area
+!Quote
+|-
+!Home
+|Port to friends & kingdoms discovered
+|-
+!Aviary
+|Crossroads to the Clouds
+|-
+! The Ascent
+|The Light awaits
+|}
+
+==Location of the Opening Quotes== 
+*'''Isle of Dawn:''' The Isle of Dawn opening quote is displayed after passing the first ledge in the Sand Dunes area, after passing the first Map Shrine and Child of Light.
+*'''Daylight Prairie''': The Prairie opening quote is displayed '''only once''', before the flight into the Villages.
+*'''Hidden Forest''': The Forest opening quote is displayed in the Forest Clearing, when opening the second gate.
+*'''Valley of Triumph''': The opening quote is displayed after the cutscenes of the opening of the gates just before the start of the Sliding Race or the Flying Race.
+*'''Golden Wasteland''': The opening quote is displayed during the black cutscenes before you land lying flat in the Broken Temple area.
+*'''Vault of Knowledge''': The opening quote is displayed after you leave the Social Space and enter the First Floor of the Vault.
+*'''Eye of Eden:''' The first opening quote ("Push into the darkness") is displayed after passing through the first section (Wind and Rocks), when the gate to the second section (Dark Dragons) opens.
+*'''Eye of Eden''' (Second Part/After Storm Lock): The second opening quote ("Return the light of the fallen") is displayed immediately after the cutscenes of entry into the Statues section.
+
+== Trivia==  
+*The Opening Quote for Daylight Prairie is displayed only once for each Sky account, meaning that to view this Opening Quote again, you will need to create a new Sky account and play from the beginning.
+* The Valley of Triumph opening quote appears relatively late in the Realm, allowing players to explore the Sliding Track (after the Social Space), the Ice Rink, and the Citadel, before seeing the Opening Quote.
+*Players can take damage (and potentially lose Winged Lights) before seeing the opening quotes in Hidden Forest (from the rain) and Eye of Eden (from the flying rocks).
+* Some sub-areas within a Realm does not have an Opening Quote, such as the Sand Dune Cave in Isle of Dawn, the Cave in Prairie, the Underground Cavern in Forest, the Archives and Office in Vault of Knowledge, and the Orbit after Eye of Eden.
+*Some localization of the Opening Quote of Hermit Valley has a completely different meaning than the current English version. This may be a leftover from previous versions of this opening("A perilous place for the audacious artists").
+
+[[pt-br:Citações de Abertura]]
+[[ja:エリアサブタイトル]]
+
+[[Category:Realms]]
+[[Category:Menus]]

@@ -1,0 +1,112 @@
+{{Realm
+| image = Aviary-Village-Nests-Exterior.png
+| map = Aevryn_nest_floor_plan_map.png
+| mapcaption = Nest Floor Plan by @aevryn
+}}
+
+Nests are personal spaces that can be customized with [[Props]] and used as a starting point when loading into the game. This feature is unlocked during the [[Season of Nesting#Quest 2|second quest]] from the [[Season of Nesting]], and can be found in the building to the left of the [[Aviary_Village#Aviary_Event_Store|Aviary Event Store]].
+
+This cozy, apartment-like space features several windows that peer out into a cloudy landscape, allowing players to enjoy the same [[Aviary_Village#Day/Night_Cycle|atmospheric lighting]] seen in Aviary Village. The special [[Shared Spaces|Shared Space Shrine]] that's used to decorate the Nest also features unique privacy settings that allow players to welcome friends inside for a visit or enjoy a quiet break in private mode. A small balcony overlooks Aviary Village, allowing players a fast way out of the nest by flying down from it.<br>
+<br>
+
+==Nest Entrance Elevator==
+[[File:Aviary-Village-Nest-Entrance-Elevator.png|thumb|200px|The Nest's entrance elevator]]
+Starting the [[Season of Nesting#Quest #2|second quest]] from the [[Season of Nesting]] unlocks the Nest. The Nest Entrance Elevator has two levers: {{Icon|Nest-lever-icon.png}} takes players to their own Nest; {{Icon|Friends-Ray.png}} shows players a list of friends currently inside their nest (if they have Friends Can Visit enabled), select a nickname to join them in their Nest.
+*To disable friends being able to visit, see [[#Managing Friend Visit Access|Shared Shrine Menu: Friends Can Visit]].
+*To view friends' nests without visiting, see [[#View Other Nests|Shared Shrine Menu: View Other Nests]]. This works even if the friend is not online.
+Once inside the Nest, players can return to Aviary Village by using the {{Icon|Icon home.png}}right-side lever again, or by flying down from the balcony.
+<gallery widths=200px>
+Nesting_elevator_aviary_buttons.jpg|Elevator levers when in Aviary
+Nesting_elevator_nest_buttons.jpg|Elevator levers when inside Nest
+</gallery>
+{{Clear}}
+
+==Setting Nest As 'Home'==
+[[File:Aviary-Village-Nest-Inside-1.png|thumb|200px|Home Candle in Player Nest]]
+Upon completing the [[Season of Nesting#Quest #2|second quest]] from the [[Season of Nesting]], a home candle (special white candle) appears inside the entry area of the nest. Players can use this home candle to set their nest as their "starting point". When loading into the game the player's skykid will be sitting on a random prop placed inside the Nest, if available. However, when teleporting using the {{Icon|Icon_home.png|link=}} Realm Portals button, they will be sent to [[Aviary Village]]'s realm portals. Players can change their starting point back to either [[Home]] or Aviary Village by using the corresponding home candle in either location.
+{{Clear}}
+
+==Shared Space Shrine Menu==
+This menu helps manage a player's Nest, allowing them to: edit the decoration, manage friend access, and view friends' Nests.
+
+To access this menu, a [[Shared_Spaces#Shared_Space_Shrines|Shared Space Shrine]] can be found on the left wall inside the Nest — click the {{Icon|Nest-lever-icon.png}} nest key icon above the Shrine.
+<gallery widths=200px>
+Shared-Space-Shrine-Nest.png|Shared Space Shrine in Nest
+Nest_shrine_options_menu.jpg|The Shrine's Menu
+</gallery>
+
+{{Clear}}
+
+===Decorating the Nest===
+[[File:Nest_editing_menu.jpg|thumb|100px|Decorating Menu (expanded)]]
+In the Shrine's menu, select the option {{Icon|Decorate-nest-icon.png}}Decorate to enter editing mode.
+A selection of [[Shared Spaces#Featured Props|Featured Props]] are available by default, in addition to any Props the player already owns. The circular bar surrounding the {{Icon|Shared-space-hammer-Credit-Ray.png|link=}} hammer icon at the top of the screen indicates the decoration limit (approximately 64 props).
+
+A dropdown menu in the upper-left corner contains the buttons to:
+*{{Icon|Save-nest-icon.png}} Save (shows even when the menu is collapsed)
+*{{Icon|Clear-All-icon.png}} Clear all placed props
+*{{Icon|Edit_friend_name.png}} Toggle preview mode
+*{{Icon|Snap-to-Grid-icon.png}} Toggle snap-to-grid
+
+For more details on editing mode, see [[Shared_Spaces#Creating_a_Shared_Space|Creating a Shared Space]].
+
+{| class="article-table"
+! style="text-align:center;"| Featured Props in the Nest
+|-
+|{{Icon| Shared-Spaces-Stool-prop-icon-Morybel-0146.png | table | link=Nesting Workshop#Stone Stool| label=Stone Stool }} {{Spirit Item|Nesting Stone Table| prop_s| table | link=Nesting Workshop#Stone Small Table }} {{Spirit Item|Nesting Stone Furniture| prop_b| table | link=Nesting Workshop#Stone Small Cube }} {{Spirit Item|Nesting Stone Room|prop_d| table | link=Nests#Stone_Dresser }} {{Spirit Item| Assembly Guide | prop_l | table | link=Assembly Guide#Brazier Prop }} {{Spirit Item| Playfighting Herbalist | Prop | table }} {{Spirit Item|Nesting Stone Furniture| prop_h| table | link=Nesting Workshop#Stone Candle Holder }} {{Spirit Item|Nesting Decor Set|prop_i| table | link=Nesting Workshop#Small Solid Rug }} {{Spirit Item|Nesting Decor Set| prop_p| table | link=Nesting Workshop#Decor Pillow One Color }} {{Icon| Shared-Spaces-Brick-prop-icon-Morybel-0146.png| table | link=#Shared Spaces Brick | label=Shared Spaces Brick }}
+|}
+
+====Stone Dresser====
+The Stone Dresser is a Featured Prop, exclusive to the Nest and the [[Nesting Workshop]]'s [[Shared_Spaces#Shared_Space_Shrines|Shared Space Shrine]]. It acts as a small [[Cosmetics#Outfit_Shrines|Outfit Shrine]], allowing the player to access all the same cosmetics as the closets at both Home and Aviary Village. 
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Room|prop_d|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Room|prop_d|real}} {{!}} The Prop
+|widths=125|captionalign=center|spacing=small
+}}
+
+{{Clear}}
+
+===Managing Friend Visit Access===
+From the Shared Space Shrine inside your Nest, there is a toggle: {{Icon|Friends-can-visit-nest-icon.png}}Friends Can Visit.
+
+Friends Can Visit is enabled by default. Disabling the option will prevent friends from joining a player when they are in their nest.
+
+===View Other Nests===
+The third option from the Shrine menu is {{Icon|View-other-nests-icon.png}}View Other Nests.
+
+View Other Nests allows a player to view friends' Nest decorations by loading the props through Shared Spaces. Players can leave {{Icon|Thumbs-Up-Like.png}}likes, but not comments.
+*Friends CAN view the Nest of a friend who has disabled "Friends Can Visit".
+Exiting the Shared Space will reset the Nest back to the player's personal Nest decorations.
+
+===Increase Decoration Limit===
+The last option is {{Icon|Shared-space-hammer-Credit-Ray.png}}Increase Decoration Limit.
+
+Increase Decoration Limit allows players to increase the max number of props they can put in their Nest. There are three tiers, costing: {{Cost|25 C}}, {{Cost|30 H}}, and {{Cost|100 AC}}, respectively.
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape">
+Aviary-Village-Nest-Entrance-Elevator.png|The Nest's entrance elevator
+Aviary-Village-Nest-Inside-Elevator-Room.png|The Nest's interior elevator
+Aviary-Village-Nest-Inside-1.png|The Nest's interior entranceway
+Aviary-Village-Nest-Inside-2.png|The Nest's interior main room
+Aviary-Village-Nest-Inside-3.png|The Nest's interior main room
+Aviary-Village-Nest-Inside-4.png|The Nest's interior Shared Space
+Aevryn nest floor plan map.png|Nest Floor Plan by aevryn
+</gallery>
+
+==Trivia==
+
+==In Other Languages==
+{{Help|lang}} 
+{{Other Languages|title=Nest
+}}
+
+==References==
+<references />
+
+{{GameLevelsNav}}
+{{Navigation Box}}
+
+[[fr:Nids]]
+[[pt-br:Ninhos]]

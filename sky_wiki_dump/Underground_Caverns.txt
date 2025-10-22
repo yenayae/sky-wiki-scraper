@@ -1,0 +1,79 @@
+{{Location
+|image= Forest UndergroundCavern1.png
+|realm= Hidden Forest
+|access= [[Elevated Clearing]], [[The Wind Paths]]
+|season= Belonging
+|seasonal_spirits= {{Emote|Hairtousle Teen|format=infobox}}
+|children_of_light= 4 {{Icon|Map-Shrine-flashing-Star-WL-indicator.png|link=Children of Light#{{{title|{{PAGENAME}}}}}}}
+|pieces_of_light= 57 {{Cost|L}}
+|map= Hidden Forest Underground.png
+|mapcaption= Map of the Underground Caverns by {{Userlinks|PlagueDoctorJed}}
+}}
+
+<section begin="Summary" />The '''Underground Caverns''' is a Seasonal area added to the [[Hidden Forest]], introduced with the [[Season of Belonging]] in Update {{v|0.7.0}}. You can reach it through the [[Hidden Forest#Elevated_Clearing|Elevated Clearing]], where a hollowed tree to the left of the bridge can be seen. Two players will be required to do the {{Emote|Pouty Porter|Inline_text}} Expression from the [[Pouty Porter]], simultaneously opening a trapdoor down to the Caverns. The Underground Caverns is different from all the other locations players have seen, where they have to fall underground to enter the area. This area holds the [[Hairtousle Teen]], where you follow their memories around the whole area.<section end="Summary" />
+
+==Overview==
+The Underground Caverns consists of three major areas: the Entrance Cavern, the Main Cavern, and the Surface. The Entrance Cavern is the first thing players see when they enter the Underground Caverns from the Hollow Tree entrance in the Elevated Clearing. 
+
+Players can find multiple [[Butterfly]] Jars, the second Seasonal Quests from the [[Season of The Little Prince#Quest_#2|Season of Little Prince]] and [[Season of AURORA#Quest_#2|Season of AURORA]], as well as the {{Spirit|Hairtousle Teen|Inline_text}} [[Seasonal Spirits|Seasonal Spirit]] in the Entrance Cavern. 
+
+When players enter the Main Cavern from the Entrance Cavern, a Whale can be seen emerging from the clouds below while emitting a {{Emote|Whale Call|Inline_text}}. In the Main Cavern, a few gates can be found leading to smaller rooms within the cavern, an entrance to the Wind Paths<ref>Players will need to complete the [[Season of Flight#Quest #1|first Quest]] from [[Season of Flight]] to be able to use this entrance to the Wind Paths</ref>, the [[Season of Flight#Quest #2|second Quest]] from [[Season of Flight]], a large skylight cavern with two Butterfly Jars, and the central spire which leads to the Surface. 
+
+The exit of the Underground Caverns can be found at the Surface which leads back to the [[Hidden Forest#Elevated Clearing|Elevated Clearing]].  
+
+===Map Shrine Locations===
+In the Underground Caverns, there is 1 [[Map Shrines|Map Shrine]] to find.
+<gallery spacing="small">
+File:Forest-Underground-Cavern-Map-Shrine.jpg|Map Shrine sitting above Hairtousle Teen's gated area
+</gallery>
+
+===Child of Light Locations===
+Four (4) [[Children of Light]] have been added to the Underground Caverns area.
+{{#lst:Children of Light|UndergroundCaverns Children}}
+
+===Spirits in the Underground Caverns===
+In the Underground Caverns there is 1 [[Seasonal Spirits|Seasonal Spirit]] ({{Spirit|Hairtousle Teen|Inline_text}}).
+<section begin="SpiritTabber" />{{Mobile Tabber
+|tab1 = {{Emote|Hairtousle Teen|tab}}
+|c1   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Hairtousle Teen|Summary}} {{#lst:Hairtousle Teen|TS Friendship Tree}} </div>
+|type1=seasonal
+}}<section end="SpiritTabber" />
+
+== Activities==
+<div style="float:right">{{Mobile Tabber|textonly=1
+|tab1 = {{Season Icon|The Little Prince|tab}}
+|c1   = <div> {{#ev:youtube|Xp4vtmIxULU|300px}} </div>
+|tab2 = {{Season Icon|Flight|tab}}
+|c2   = <div> {{#ev:youtube|Y6RinkNMa70|300px}} </div>
+|tab3 = {{Season Icon|AURORA|tab}}
+|c3   = <div> {{#ev:youtube|RC6hi0kDQpU|300px||Video Guide by Nastymold}} </div>
+}}</div>
+
+While the Underground Caverns was introduced as a seasonal area for [[Season of Belonging]], the [[Season of The Little Prince#Quest #2|second Quest]] from [[Season of The Little Prince]], the [[Season of Flight#Quest #2|second Quest]] from [[Season of Flight]], and the [[Season of AURORA#Quest #2|second Quest]] from [[Season of AURORA]] also takes place here.
+{{clear}}
+
+==Gallery==
+<gallery widths="225" spacing="small" captionalign="center" hideaddbutton="true" mode="nolines">
+File:Forest ElevatedClearing2.png|Entrance to the Underground Caverns from the Elevated Clearing
+File:Undergroundentrance.JPG|Hollow Tree entrance
+File:Forest UndergroundCavern2.png|Initial area of the Underground Caverns when entering from the Elevated Clearing
+File:Forest UndergroundCavern1.png|Main area of the Underground Caverns
+File:Underground Cavern WL 15 (Far).jpg|Underground Caverns exit
+File:Underground-Caverns-Wind-Paths-Tunnel.png|The Wind Paths Tunnel inside the Underground Caverns
+</gallery>
+
+==Trivia==
+*The Underground Caverns along with [[The Archives]] were the first areas to be added to Sky during a season.
+*Seasonal Quests from three different Seasons take place in the Underground Caverns ([[Season of The Little Prince|The Little Prince]], [[Season of Flight|Flight]], & [[Season of AURORA|AURORA]]).
+
+==References==
+<references />
+
+{{RealmsNav}}
+
+[[fr:Cavernes Souterraines]]
+[[pt-br:Caverna Subterrânea]]
+[[ru:Подземная пещера]]
+[[ja:雨林の地下洞]]
+
+[[Category:Locations]]

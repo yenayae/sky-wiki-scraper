@@ -1,0 +1,782 @@
+{{Help|beta}}<br>
+[[File:Child of light.png|thumb|right|x200px|A Child of Light]]
+'''Children of Light''' are glowing characters scattered throught the [[Realms]], which grant the player [[Winged Light]] upon collection. They look like capeless Sky Kids, which are bright white with a golden glow, and are highlighted by a light halo, which makes them easy to see from afar. For each Child of Light, a [[Winged Light]] can be collected, by selecting their {{Icon|Hand-with-star-icon.png|link=|label=hand with a star|Inline_text}} icon when close to them. Although TGC has referred to them as "Imprints of the Children of Light,"<ref>TGC's [https://youtu.be/f0XBmzddf40?t=269 Welcome To Sky: A Traveler's Guide] video at 4:29</ref> they are most commonly just called "Children of Light".
+
+While a few Children of Light can be found easily, many are hard to spot. Some are visible, but in a location that the player initially cannot reach. More experienced players can help others collecting Children of Light, though players can return to collect the harder-to-find ones after progressing further in the game.
+
+Below are the locations of all Children of Light currently found in the game. 
+
+==Summary==
+[[File:Winged_Light_Distribution.jpg|thumb|x300px|Winged Light Distribution by Clement (outdated)]]
+This is a summary of all the Children of Light by Realm.
+
+{| class="article-table"
+! Realm
+! Number of Children
+! style="text-align:center;"| {{Spoiler Button|id=breakdown|label=Area Counts}}
+|-
+| Isle of Dawn
+| <section begin="Isle of Dawn Count" />{{#vardefineecho:isle|10}}<section end="Isle of Dawn Count" /><sup>*</sup>
+| {{Spoiler Button|id=breakdown|
+* Sand Dunes: {{#vardefineecho:sand_dunes|5}}
+* Butterfly Cave: {{#vardefineecho:butterfly_cave|1}}
+* Cave of Prophecies: <section begin="Cave of Prophecies Count" />{{#vardefineecho:cave_of_prophecies|4}}<sup>*</sup><section end="Cave of Prophecies Count" />}}
+|-
+| Daylight Prairie
+| <section begin="Daylight Prairie Count" />{{#vardefineecho:prairie|24}}<section end="Daylight Prairie Count" />
+| {{Spoiler Button|id=breakdown|
+* Butterfly Fields: {{#vardefineecho:butterfly_fields|3}}
+* Villages: {{#vardefineecho:villages|3}}
+* Eight-Player Puzzle Area: {{#vardefineecho:puzzle_area|1}}
+* Prairie Temple: {{#vardefineecho:prairie_temple|2}}
+* Caves: {{#vardefineecho:caves|2}}
+* Bird Nest: {{#vardefineecho:bird_nest|2}}
+* Sanctuary Islands: <section begin="Sanctuary Islands Count" />{{#vardefineecho:sanctuary_islands|8}}<section end="Sanctuary Islands Count" />
+* Prairie Peaks: <section begin="Prairie Peaks Count" />{{#vardefineecho:prairie_peaks|3}}<section end="Prairie Peaks Count" />}}
+|-
+| Hidden Forest
+| <section begin="Hidden Forest Count" />{{#vardefineecho:forest|21}}<section end="Hidden Forest Count" />
+| {{Spoiler Button|id=breakdown|
+* Clearing and Walled Areas: {{#vardefineecho:clearing|2}}
+* Brook: {{#vardefineecho:brook|4}}
+* Tree Tunnels and Boneyard: {{#vardefineecho:boneyard|3}}
+* Elevated Clearing: {{#vardefineecho:elevated_clearing|2}}
+* Blue Bird Theater: {{#vardefineecho:blue_bird_theater|1}}
+* Underground Cavern: {{#vardefineecho:underground_cavern|4}}
+* Forest End: {{#vardefineecho:forest_end|1}}
+* The Treehouse: <section begin="The Treehouse Count" />{{#vardefineecho:treehouse|2}}<section end="The Treehouse Count" />
+* The Wind Paths: <section begin="The Wind Paths Count" />{{#vardefineecho:wind_paths|2}}<section end="The Wind Paths Count" />}}
+|-
+| Valley of Triumph
+| <section begin="Valley of Triumph Count" />{{#vardefineecho:valley|17}}<section end="Valley of Triumph Count" />
+| {{Spoiler Button|id=breakdown|
+* Slope and Icerink: {{#vardefineecho:icerink|3}}
+* Sliding Race: {{#vardefineecho:sliding|1}}
+* Citadel: {{#vardefineecho:citadel|2}}
+* Flying Race: {{#vardefineecho:flying|2}}
+* Coliseum: {{#vardefineecho:coliseum|2}}
+* Valley Temple: {{#vardefineecho:valley_temple|1}}
+* Village of Dreams: <section begin="Village of Dreams Count" />{{#vardefineecho:village_of_dreams|3}}<section end="Village of Dreams Count" />
+* Hermit Valley: <section begin="Hermit Valley Count" />{{#vardefineecho:hermit_valley|2}}<section end="Hermit Valley Count" />
+* Village Theater: <section begin="Village Theater Count" />{{#vardefineecho:village_theater|1}}<section end="Village Theater Count" />}}
+|-
+| Golden Wasteland
+| <section begin="Golden Wasteland Count" />{{#vardefineecho:wasteland|18}}<section end="Golden Wasteland Count" />
+| {{Spoiler Button|id=breakdown|
+* Broken Temple: {{#vardefineecho:broken_temple|2}}
+* Graveyard: {{#vardefineecho:graveyard|6}}
+* Battlefield: {{#vardefineecho:battlefield|2}}
+* Crab Fields: {{#vardefineecho:crab_fields|3}}
+* Wasteland Temple: {{#vardefineecho:wasteland_temple|1}}
+* Forgotten Ark: <section begin="Forgotten Ark Count" />{{#vardefineecho:forgotten_ark|2}}<section end="Forgotten Ark Count" />
+* Treasure Reef: <section begin="Treasure Reef Count" />{{#vardefineecho:treasure_reef|2}}<section end="Treasure Reef Count" />}}
+|-
+| Vault of Knowledge
+| <section begin="Vault of Knowledge Count" />{{#vardefineecho:vault|16}}<section end="Vault of Knowledge Count" />
+| {{Spoiler Button|id=breakdown|
+* Social Space and First Floor: {{#vardefineecho:vault_first|1}}
+* Third Floor: {{#vardefineecho:vault_third|1}}
+* Fourth Floor: {{#vardefineecho:vault_fourth|2}}
+* Fifth Floor: {{#vardefineecho:vault_fifth|1}}
+* The Summit: {{#vardefineecho:summit|1}}
+* Archives: {{#vardefineecho:archives|2}}
+* Starlight Desert: <section begin="Starlight Desert Count" />{{#vardefineecho:starlight_desert|3}}<section end="Starlight Desert Count" />
+* Repository of Refuge: <section begin="Repository of Refuge Count" />{{#vardefineecho:repository|1}}<section end="Repository of Refuge Count" />
+* Crescent Oasis: <section begin="Crescent Oasis Count" />{{#vardefineecho:crescent_oasis|3}}<section end="Crescent Oasis Count" />
+* Moominvalley: <section begin="Moominvalley Count" />{{#vardefineecho:moominvalley|1}}<section end="Moominvalley Count" />}}
+|-
+| Eye of Eden
+| <section begin="Eye of Eden Count" />{{#vardefineecho:eden|10}}<section end="Eye of Eden Count" />
+|
+|-
+| Orbit
+| {{Game Stat|wings_orbit}}
+|
+|-
+| [[Season of Shattering|Shard Memories]]
+| 6
+|
+|-
+! Total in Realms
+! {{#expr:{{Game Stat|wings_std}}+{{Game Stat|wings_orbit}}}}
+!
+|}
+<small>''*Available at the end of the Trials in Cave of Prophecies, each Trial consists of one Winged Light.''</small>
+
+==All Winged Light Video Playlist==
+{{#ev:youtubeplaylist|https://www.youtube.com/playlist?list=PLKh97ggSLvdzqs13-xv_8IxdtkF_ngrUF||left|All Winged Light Playlist by Tara (outdated)}}
+{{Clear}}
+
+==[[Isle of Dawn]] ({{#var:isle}})<span id="Isle"><span id="Isle of Dawn"></span></span>==
+===Sand Dunes ({{#var:sand_dunes}})<span id="Isle Main Area"><span id="Sand Dunes"></span></span>===
+{{MessageBox
+| header = Bugged Winged Light Indicator!
+| text = The [[Map Shrines|Map Shrine]] is currently bugged and will display a {{Icon|Map-Shrine-flashing-Star-WL-indicator.png|link=}} despite collecting this Winged Light.
+| image = SOA-Anxious-Angler-emote.png
+| imagelink = 
+| imagewidth = 50px
+}}
+Isle of Dawn is the first Realm the player comes to.
+
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+IMG_5815.JPG|Isle WL 1 (Far)
+IMG_5816.JPG|Isle WL 1
+StarIsle1.jpg|Isle WL 2 (Far)
+StarIsle01.jpg|Isle WL 2
+StarIsle4.jpg|Isle WL 3 (Far)
+StarIsle04.jpg|Isle WL 3
+StarIsle3.jpg|Isle WL 4 (Far)
+StarIsle03.jpg|Isle WL 4
+Migration-WingedLight-in-Isle.png|Isle WL 10 (Far)
+</gallery>
+
+*'''Isle WL 1''': Enter the first cave and walk to the end. Fly or jump down to the stranded boat below. Go near the glowing child and click the {{Icon|Hand-with-star-icon.png|link=|label=hand with star|Inline_text}} icon to receive a Winged Light for your cape. ''(Note that first-time players will see this Child of Light at the jump-off point behind the Temple instead. After being collected and lost for the first time, it can be found at the usual location).''
+*'''Isle WL 2''': Go to the right of the first cave to climb above the mouth of the cave (or fly up the mountain behind from WL1 spot). Walk across the top of the hill to find the Child of Light at the other end.
+*'''Isle WL 3''': Go straight ahead to the ramp further away, in front of the temple. The Child of Light is at the top of the ramp. You will need to have found at least one Ancestor Spirit to enter the ramp or be able to fly to the top of it ''(It's less walking if you get Isle WL 4 before 3).''
+*'''Isle WL 4''': Go to the very right of the area, behind the big ramp to the right, there is a cave with butterflies above where The Child of Light can be found inside. You will need to have found at least one Ancestor Spirit to enter the cave.
+*'''Isle WL 10''': Towards the left, behind the big cave at the beginning, behind the Migration Camp.
+
+===Butterfly Cave ({{#var:butterfly_cave}})<span id="Butterfly Cave"></span>===
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+IMG_5817.JPG|Isle WL 5 - Through the cloud tunnel
+IMG_5447.JPG|Isle WL 5 - Tunnel entrance
+IMG_5445.JPG|Isle WL 5
+</gallery>
+
+*'''Isle WL 5''': Use the cloud tunnel on the right side of the Temple to reach the mountain structure. There is a two player door blocking the main entrance to the cave, either open the door and process to fly up the locked gate door that can be open by light up 2 lanterns nearby in the middle, or fly up to the upper level outside (Use clouds to keep you charged), and reach the Child of Light through the tunnel. It's in a little cave offshoot on the right. (To the right of the gated hole.)
+
+===Cave of Prophecies ({{#var:cave_of_prophecies}})<span id="Cave of Prophecies"></span>===
+Due to the addition of the Cave of Prophecies and the Trials during the [[Season of Prophecy]], players will receive one Winged Light for each trial they complete. As there are four Trials, there are four Winged Light.
+
+<section begin="CoProphecies Children" /><gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Cave of Prophecies Entry Area.jpg|The tunnel entrance to the Cave of Prophecies (Isle WL 6, 7, 8, and 9)
+Trial of water entrance.jpg|Entrance to the Trial of Water (Isle WL 6)
+Beginning of water trial.jpg|Trial of Water (Isle WL 6)
+WL water trial.jpg|Isle WL 6
+Entrance to the trial of earth.jpg|Entrance to the Trial of Earth (Isle WL 7)
+Inside the earth trial.jpg|Trial of Earth (Isle WL 7)
+Trial of Earth WL.jpg|Isle WL 7
+AIR TRIAL.JPG|Entrance to the Trial of Air (Isle WL 8)
+SoPtAir.jpg|Trial of Air (Isle WL 8)
+AIR WL.JPG|Isle WL 8
+Trial of Fire Entrance.jpg|Entrance to the Trial of Fire (Isle WL 9)
+Trial-of-Fire-Inside-WL.png|Trial of Fire (Isle WL 9)
+Trial-of-Fire-WL.png|Isle WL 9
+</gallery>
+
+*'''Isle WL 6''': You receive this Winged Light upon completing Trial of Water. The Child of Light stands on top of the glowing mountain at the end of the Trial.
+*'''Isle WL 7''': You receive this Winged Light upon completing Trial of Earth. Complete the maze-like puzzle and get to the shining tower in middle at the end of the Trial where The Child of Light stands in.
+*'''Isle WL 8''': You receive this Winged Light upon completing Trial of Air. Climb the towering islands to reach the main island at the top, where the Child of Light stands.
+*'''Isle WL 9''': You receive this Winged Light upon completing Trial of Fire. The Child of Light stands behind the final checkpoint, past all the [[Dark Shadows]].<section end="CoProphecies Children" />
+
+==[[Daylight Prairie]] ({{#var:prairie}})<span id="Prairie"><span id="Daylight Prairie"></span></span>==
+===Butterfly Fields ({{#var:butterfly_fields}})<span id="Butterfly Fields"></span>===
+Butterfly Fields is the first area you come to in Daylight Prairie after you leave the Social Space and fly through the cloud tunnel.
+
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+butterflyfieldsstar3far.jpg| Prairie WL 1
+StarPrairie1.jpg|Prairie WL 2 (Far)
+StarPrairie01.jpeg|Prairie WL 2
+StarPrairie2.jpg|Prairie WL 3 (Far)
+StarPrairie02.jpg|Prairie WL 3
+</gallery>
+
+The numbers here refer to the pictures above, as the numbers in the video are in a different order.
+
+*'''Prairie WL 1''': The Child of Light is standing at the stone archway near the jump off point in the Social Space, before the cloud tunnel that leads to Butterfly Fields proper. ''(Previously, this Child of Light stood by the entrance to Bird Nest before being moved near the entrance to Villages).''
+*'''Prairie WL 2''': The Child of Light is in the first cave to the left. You need to have found at least one Ancestor Spirit in Daylight Prairie to enter the cave. See the [[Daylight Prairie]] page on information where to find them or go towards to the big rock and find [[Butterfly Charmer]] at the small door.
+*'''Prairie WL 3''': The Child of Light is on top of the round cave rock. The easiest way to get there is to go inside the the cave and release a call (Long press yourself). Butterflies will gather around you and lift you up.
+
+===Villages ({{#var:villages}})<span id="Villages"></span>===
+Villages is the area with 4 islands with 3 bell towers after you leave Butterfly Fields going through the archway straight ahead.
+
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+StarPrairie6.jpg|Prairie WL 4 (Far)
+StarPrairie06.jpg|Prairie WL 4
+StarPrairie7.jpg|Prairie WL 5 (Door) - Requires 2 players
+StarPrairie07.jpg|Prairie WL 5 - Requires 2 players
+StarPrairie8.jpg|Prairie WL 6 (Far)
+StarPrairie08.jpg|Prairie WL 6
+</gallery>
+
+*'''Prairie WL 4''': A Child of Light stands in the center of the smaller front island in the middle.
+*'''Prairie WL 5''': Fly to the island to the left. Walk around to the right at the bottom of the hill to find a two player door. Both players need to hold a candle to the door to open it and reveal the Child of Light in the cave behind it. If there is no other player available, try leaving and entering the area to see if other players have appeared. If they are not near the door, release series of calls by tapping on yourself to call them over.
+*'''Prairie WL 6''': Fly to the middle of the three bigger islands and walk around the back of the hill to find a Child of Light.
+
+===Eight-Player Puzzle Area ({{#var:puzzle_area}})<span id="8-Player Puzzle Area"><span id="Puzzle Area"><span id="Eight-Player Puzzle Area"></span></span></span>===
+The 8-Player Puzzle area is accessed through a Spirit Gate inside the right island of the Villages area.
+
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+8playerpuzzlestarfar.jpg|Far view of the cave
+8playerpuzzlestar.JPG|Prairie WL 7
+</gallery>
+
+*'''Prairie WL 7''': First, you need to get into the 8-Player Puzzle area; see the [[Daylight Prairie]] page for details. The Child of Light here is in a windowed cave. Fly up to enter through the round window, or through a hole on the upper-back side. The Child of Light is standing on a raised tarp in the corner. (''This Child of Light was relocated after the area got a revamp for [[Days of Color]]. Previously, it was found inside a tree hollow.'')
+
+===Prairie Temple ({{#var:prairie_temple}})<span id="Prairie Temple"></span>===
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+StarPrairie11.jpg|Prairie WL 8 (Far)
+StarPrairie011.jpg|Prairie WL 8
+StarPrairie12.jpg|Prairie WL 9 (Far)
+StarPrairie012.jpg|Prairie WL 9
+</gallery>
+
+*'''Prairie WL 8''': When you have reached the main temple in the clouds (Flying or riding [[Mantas]]), fly onto the roof just above the door. The Child of Light is to the left.
+*'''Prairie WL 9''': From Prairie WL 8, fly higher up the roof. There is another Child of Light on the front dome (Use clouds to keep you charged.).
+
+===Caves ({{#var:caves}})<span id="Prairie Caves"><span id="Caves"></span></span>===
+There are two ways of reaching the Caves area, but both require the player to have found two Ancestor Spirits from [[Isle of Dawn]] and three from [[Daylight Prairie]] to enter. One entrance is high up on a ledge on the left side of Butterfly Fields, the other one is a cave entrance to the left side of the Villages area, just above the left hand island.
+
+To collect the Winged Light, it is best to enter from Butterfly Fields.
+
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+StarPrairie9.jpg|Prairie WL 10 (Far)
+StarPrairie09.jpg|Prairie WL 10
+StarPrairie10.jpg|Prairie WL 11 (Far)
+StarPrairie010.jpg|Prairie WL 11
+</gallery>
+
+*'''Prairie WL 10''': Coming from Butterfly Fields you first get to a cave with a split lake in the middle. On the left wall, there's a small cave high up. Go up the grassy stairs on the right until you come to a door to a room, look out from the door and you will find The Child of Light standing in the cave. Fly over, ideally holding a friend's hand or/and glide.
+*'''Prairie WL 11''': Opposite the entrance coming from Butterfly Fields, across the lake there is a narrower cave area high up from the ground on the right wall. The Child of Light stands in the small cave. Ideally use the previous spot to glide if not enough charge.
+
+===Bird Nest ({{#var:bird_nest}})<span id="Bird Nest"><span id="Bird's Nest"></span></span>===
+To enter the Bird Nest area you need to have found four Ancestor Spirits in Daylight Prairie. See the realm page [[Daylight Prairie]] on how to find them.
+
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Birds Nest WL 12 (Far).jpg|Prairie WL 12 (Far)
+StarPrairie4.jpg|Prairie WL 12
+Birds Nest WL 13 (Far).jpg|Prairie WL 13 (Far)
+StarPrairie5.jpg|Prairie WL 13
+</gallery>
+
+*'''Prairie WL 12''': The Child of Light is located on a higher island on the perimeter of the area, between the Villages gateway and the Sanctuary Islands entrance.
+*'''Prairie WL 13''': The Child of Light is on a small island directly below the gateway between Bird Nest and Villages.
+
+===Sanctuary Islands ({{#var:sanctuary_islands}})<span id="Sanctuary Islands"></span>===
+This area is accessed through the hole in the clouds in Bird Nest. Two Winged Light are located on floating islands (#14 & #16), two Winged Light are on the outside of the main island and easily visible (#17 & #18), the other four are located within the main island's cave structure.
+
+<section begin="SanctuaryIslands Children" /><gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Prairie sanctuary WL1.jpeg|Prairie WL 14
+Prairie sanctuary WL2.jpeg|Prairie WL 15
+Prairie sanctuary WL3.jpeg|Prairie WL 16
+Prairie sanctuary WL4.jpeg|Prairie WL 17
+Prairie sanctuary WL5.jpeg|Prairie WL 18
+Prairie sanctuary WL6.jpeg|Prairie WL 19
+Prairie sanctuary WL7.jpeg|Prairie WL 20
+Prairie sanctuary WL8.jpeg|Prairie WL 21
+</gallery>
+
+*'''Prairie WL 14''': The Child of Light is on the bottom shelf of the large floating island, underneath the small waterfall.
+*'''Prairie WL 15''': The Child of Light is at the bottom of the two-tiered waterfall at the island in middle of Sanctuary islands.
+*'''Prairie WL 16''': Fly towards the group of three floating islands furthest from the Bird Nest gateway. The Child of Light is on the floating island above a geyser.
+*'''Prairie WL 17''': The Child of Light is on a low ledge of the cliff between a big geyser on the beach, [[Season of Sanctuary]] Quests and the three whale tail statues.
+*'''Prairie WL 18''': The Child of Light is at the end of the tunnel at the top of the mountain.
+*'''Prairie WL 19''': Enter the cave system to the right of Prairie WL 15. Enter the room with the Darkness tree. The Child of Light is at the top of the spiral slope.
+*'''Prairie WL 20''': The Child of Light is inside the Jellyfish cave near the big geyser or by entering the right tunnel, to the left of the bottom of top waterfall. The cave has an opening along the beach near Prairie WL 17.
+*'''Prairie WL 21''': Enter the cave system to the left of Prairie WL 15. The Child of Light is up above on a high ledge, at the end of the second horizontal ladder.<section end="SanctuaryIslands Children" />
+
+===Prairie Peaks ({{#var:prairie_peaks}})<span id="Prairie Peaks"></span>===
+The Prairie Peaks is accessed via a boat in the Caves from the Butterfly Field side.
+
+<section begin="PrairiePeaks Children" /><gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Prairie-Peaks-WL1.jpg|Prairie WL 22
+Prairie-Peaks-WL3.jpg|Prairie WL 23
+Prairie-Peaks-WL2.jpg|Prairie WL 24
+</gallery>
+
+* '''Prairie WL 22''': The Child of Light is in [[Jolly Geologist]]'s cave (on the right side of Prairie Peaks), next to the large crystal structure.  
+* '''Prairie WL 23''': The Child of Light is at the peak of the highest mountain, at the far end of Prairie Peaks.
+* '''Prairie WL 24''': The Child of Light is in the sub-area with the [[Nightbird Whisperer]] (on the left side of Prairie Peaks), at the very top of the bird-filled hollow cave.<section end="PrairiePeaks Children" />
+
+==[[Hidden Forest]] ({{#var:forest}})<span id="Forest"><span id="Hidden Forest"></span></span>==
+===Clearing and Walled Areas ({{#var:clearing}})<span id="Clearing"><span id="Forest Clearing"><span id="Walled Areas"></span></span></span>===
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+StarForest1.jpg|Forest WL 1 (Far)
+StarForest01.jpg|Forest WL 1
+StarForest2.jpg|Forest WL 2 (Far)
+StarForest02.jpg|Forest WL 2
+</gallery>
+
+The numbers here refer to the pictures above, as the numbers in the video are in a different order.
+
+*'''Forest WL 1''': The Child of Light can be caught seeing when flying down into the Forest from the Social Space. It is on a platform in the trees on the right, above the stone gate (Use clouds to keep you charged, need some practice to land).
+*'''Forest WL 2''': The Child of Light is standing in front of the next gate at the end of Forest Clearing
+
+===Brook ({{#var:brook}})<span id="Forest Brook"><span id="Brook"></span></span>===
+This is the area with stone gazebos and a river through the middle.
+
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+StarForest3.jpg|Forest WL 3 (Far)
+StarForest03.jpeg|Forest WL 3
+StarForest4.jpeg|Forest WL 4 (Far)
+StarForest04.jpeg|Forest WL 4
+StarForest5.jpg|Forest WL 5 (Far)
+StarForest05.jpg|Forest WL 5
+StarForest6.jpeg|Forest WL 6 (Far)
+StarForest06.jpeg|Forest WL 6
+</gallery>
+
+*'''Forest WL 3''': Go to the first gazebo you can see ahead of you. The tree to the right of it has glowing fungi growing on it. Use them as a ladder to reach a treehouse platform with a Child of Light in it.
+*'''Forest WL 4''': From Forest WL3, fly towards the temple symbol (release a call to see) until you come to a bridge or go back to the first gazebo you came to in the area and follow the course of the river until you come to the bridge. When you are by the river just before the bridge, some fungi form a ladder up the bank on the left. The tree next to it also has fungi on it. Use them as a ladder to reach another treehouse platform with a Child of Light in it. ''(Note: It is easier to reach Forest WL 5 before Forest WL 4.)''
+*'''Forest WL 5''': From the first gazebo, to the left, go to the next gazebo got slightly blocked behind the hill of [[The Treehouse]] door, where [[Blushing Prospector]] can be found. There's a cave nearby on the wall in the hillside blocked by a plant at front, pointed by the ramp (Sightly longer than other with no path on it). Behind it you can find another Child of Light.
+*'''Forest WL 6''': Follow the course of the river until you come the end of Forest Brook, The Child of Light standing in a split of the rocks of it which leads to the next area.
+
+===Tree Tunnels and Boneyard ({{#var:boneyard}})<span id="Tree Tunnels"><span id="Boneyard"><span id="Broken Bridges"></span></span></span>===
+To reach the Tree Tunnels and Boneyard area, return to Forest Brook and follow the course of the river to a split in the rocks. This area has a large tunnel/pipe at the beginning and a large lake in the back.
+
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+StarForest10.jpg|Forest WL 7 - Big Tree Entrance
+StarForest0010.jpg|Forest WL 7 - Big Tree Entrance
+StarForest010.jpg|Forest WL 7
+StarForest9.jpg|Forest WL 8 (Far)
+StarForest09.jpg|Forest WL 8
+StarForest11.jpg|Forest WL 9 (Far)
+StarForest011.jpg|Forest WL 9
+</gallery>
+
+*'''Forest WL 7''': Fly on top of the first big pipe at the beginning of the area. From the middle of the pipe, look right. You will see a hollow tree with stairs leading to a Child of Light.
+*'''Forest WL 8''': Go to the stump on the left, other way of the first big pipe. There you can find a tall tower with two floors high up decent far away, The Child of Light is on the second floor. You'll need 4 Ancestor Spirits to enter, even though you can collect this Winged Light from outside the Spirit Gate.
+*'''Forest WL 9''': Continue the main course. At the stilted temples with golden spires standing in the water, you can light the buttons in each of these to raise the bridge or fly to the last one that will have The Child of Light in it.
+
+===Elevated Clearing ({{#var:elevated_clearing}})<span id="Elevated Clearing"></span>===
+To reach the Elevated Clearing, go to the right of the first gazebo you reach in the Forest Brook area. There is an entrance that requires the player to have found eight Ancestor Spirits in Hidden Forest.
+
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+StarForest7.jpg|Forest WL 10 (Far)
+StarForest07.jpg|Forest WL 10
+StarForest8.jpg|Forest WL 11 (Far)
+StarForest08.jpg|Forest WL 11
+</gallery>
+
+*'''Forest WL 10''': Go through the first gazebo, cross the lake and the Child of Light is on the hill in front of you. The player can ride a swam of butterflies inside the hollow tree next to it to reach the top of the hill.
+*'''Forest WL 11''': The hollow tree next to Forest WL 10 has a platform around it. Fly up, cross the rope bridge and find a Child of Light at the end of the platform.
+
+===Blue Bird Theater* ({{#var:blue_bird_theater}})<span id="Blue Bird Theater"></span>===
+<small>(*Placeholder Name)</small><br>A Seasonal Area for the [[Season of the Blue Bird]] accessible via a meditation circle located in the Elevated Clearing.
+
+<section begin="BlueBirdTheater Children" /><gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Blue-Bird-Winged-Light-Location.jpg|Forest WL 12
+</gallery>
+
+*'''Forest WL 12''': Found between the Map Shrine and Return Shrine across from the stage; turn around when you spawn into the area.<section end="BlueBirdTheater Children" />
+
+===Underground Cavern ({{#var:underground_cavern}})<span id="Underground Cavern"></span>===
+An area of Hidden Forest accessible from the Elevated Clearing. Needs two players to enter, but all Children of Light are then reachable solo.
+
+<section begin="UndergroundCaverns Children" /><gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Foreststar9far.JPG|Forest WL 13 (Far)
+Caverns star1.jpg|Forest WL 13
+Foreststar10far.JPG|Forest WL 14 (Far)
+Caverns star3.jpg|Forest WL 14
+Foreststar11far.jpg|Forest WL 15 (Far)
+Caverns star2.jpg|Forest WL 15
+Underground Cavern WL 15 (Far).jpg|Forest WL 16 (Far)
+Caverns star4.jpg|Forest WL 16
+</gallery>
+
+*'''Forest WL 13''': From the entrance, this is the second cave to the left, after the cave where Forest WL 14 is found. The first Child of Light is located high up in this cave above lots of butterfly jars. As with the entrance to the Caverns, players can release a deep call to reach the Child of Light. There is no need to expend flight energy at all.
+*'''Forest WL 14''': This Child of Light is located in a gated area to the bottom right of the entrance.
+*'''Forest WL 15''': To the left of the entrance, there is an area that can be recognized by the birds streaming from this area down into the caverns. At the very top there is a gated structure, which so far leads nowhere. There is a Child of Light standing on a pillar in front of it. For new players and those low on flight energy it can be quite hard to reach, though it may help to start from a glowing fungi across from the opening. Additionally, the birds streaming down will recharge your flight energy.
+*'''Forest WL 16''': The Child of Light stands by the cavern exit, which is accessible at the top of the large hollow structure.
+<section end="UndergroundCaverns Children" />
+
+===Forest End ({{#var:forest_end}})<span id="Forest End"><span id="End"></span></span>===
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+StarForest12.jpg|Forest WL 17
+StarForest012.jpg|Forest WL 17
+</gallery>
+
+*'''Forest WL 17''': After watching the cutscene in the Temple, you will reach Forest End, a dry and sunny area of the forest. Look to your left as you enter and you will find the Child of Light on a tree stump.
+
+===The Treehouse ({{#var:treehouse}})<span id="The Treehouse"><span id="Treehouse"></span></span>===
+<section begin="Treehouse Children" /><gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Treehouse WL 17 (Entrance).jpg|Entrance to Forest WL 18
+SOA-Winglight-2.jpg|Forest WL 18
+Treehouse WL 18 (Far).jpg|Forest WL 19 (Far)
+SOA-Winglight-1.jpg|Forest WL 19
+</gallery>
+
+*'''Forest WL 18''': This Child of Light is found in the basement of the Assembly Treehouse. It can be accessed from within the Assembly Treehouse's main floor through a dark tunnel to the right of the staircase.
+*'''Forest WL 19''': When entering the Assembly Treehouse area, go to the right and look up. The Child of Light will be high up in a hole in the trunk of a tree.<section end="Treehouse Children" />
+
+===The Wind Paths ({{#var:wind_paths}})<span id="The Wind Paths"><span id="Wind Paths"></span></span>===
+<section begin="WindPath Children" /><gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+SOF-Winglight-1.png|Forest WL 20 (Auto-collection)
+SOF-Winglight-2.png|Forest WL 20 (Auto-collection)
+Migration-WingedLight-in-Windpath.png|Forest WL 21 (Far)
+</gallery>
+
+*'''Forest WL 20''': This Child of Light is located in a tunnel just to the left of the Flight Guide in The Wind Paths. Strong winds prevent players from getting near and in order to capture it, players must enter the entrance tunnel on the farthest right, located under the main island. You will be pulled into the tunnel as you approach it.
+*'''Forest WL 21''': On the back side of the main island, on a ledge near the very top, under the gate.<section end="WindPath Children" />
+
+==[[Valley of Triumph]] ({{#var:valley}})<span id="Valley"><span id="Valley of Triumph"></span></span>==
+To collect every Winged Light, players need to play the level twice as there are two different ways to the bottom.
+
+Note: ''If you're just on a Winged Light run, you can slide down the Sliding Race until you collect the Winged Light, teleport Home, then meditate to return to Valley. Then you can back out of the Sliding Race room and return to the Ice Rink, and head to the Citadel and Flying Race.''
+
+===Slope and Icerink ({{#var:icerink}})<span id="First Slope"><span id="Icerink"></span></span>===
+As soon as you leave the Social Space, you start sliding down the hill. The slide ends at a frozen lake with a platform connected to a bridge in the middle. 
+
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+StarValley1.jpg|Valley WL 1 (Auto-collection)
+StarValley01.jpg|Valley WL 1 (Auto-collection)
+StarValley2.jpg|Valley WL 2
+StarValley02.jpg|Valley WL 2
+StarValley3.jpg|Valley WL 3 - Under ice
+StarValley03.jpg|Valley WL 3 - Under ice
+</gallery>
+
+*'''Valley WL 1''': As soon as the slide starts, aim for the roofed area on the left. The Child of Light is standing in the tunnel. Unlike Children of Light in other realms, this one will be collected automatically when you slide close to or through it.
+*'''Valley WL 2''': The Child of Light is standing on the platform in the middle of the ice rink.
+*'''Valley WL 3''': Slide into one of the frozen-over holes in the ice to get beneath the rink. The Child of Light is standing on a hill by a sunken boat, near where the light shines in from above.
+
+===Sliding Race ({{#var:sliding}})<span id="Sliding Race"></span>===
+When you get to the Ice Rink, take the exit with the red banners that doesn't have a bridge connected to it. This will lead you to the Sliding Race.
+
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+StarValley9.jpeg|Valley WL 4 (Auto-collection)
+StarValley09.jpg|Valley WL 4 (Auto-collection)
+</gallery>
+
+*'''Valley WL 4''': Some time into the race you slide between two buildings with bridges high above you. The Child of Light is standing in the center on a snowy ramp. Like the Child of Light during the slide from the Social Space, it is auto-collected as you slide near it.
+
+===Citadel ({{#var:citadel}})<span id="Citadel"></span>===
+The Citadel can be reached through the portal to the left of the Ice Rink that is connected to the platform by a bridge. The player is required to have found two Ancestor Spirits in Valley of Triumph to enter.
+
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+StarValley4.jpg|Valley WL 5
+StarValley04.jpg|Valley WL 5
+StarValley5.jpeg|Valley WL 6 (Auto-collection)
+StarValley05.jpeg|Valley WL 6 (Auto-collection)
+</gallery>
+
+*'''Valley WL 5''': Fly to the highest tower on the left, behind the golden rings. The Child of Light is standing in the leftmost tower (if you approach from the entrance).
+*'''Valley WL 6''': Now cross the bridge to the other high tower on the right. Jump out of the window facing away from the golden rings and slightly to the right. You will fly down past some alcoves, where the Child of Light is standing in one of the lower ones. Flying past will be enough to pick the Winged Light up.
+
+===Flying Race ({{#var:flying}})<span id="Flying Race"></span>===
+To get to the Flying Race, leave the Citadel through the building at the back of the area.
+
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+StarValley6.jpeg|Valley WL 7 (Auto-collection)
+StarValley06.jpg|Valley WL 7 (Auto-collection)
+StarValley07.jpeg|Valley WL 8 (Auto-collection)
+StarValley7.jpeg|Valley WL 8 (Auto-collection)
+</gallery>
+
+*'''Valley WL 7''': After flying through or past a cloud tunnel, you fly between buildings connected by bridges. By the second one fly through the right hand gallery of the building to automatically pick up a Winged Light if you fly close enough to the Child of Light. 
+*'''Valley WL 8''': Later on in the race you come to an area with lots of floating rocks. Keep to the right, the Child of Light is standing on top of a golden spire on a floating temple.
+
+===Coliseum ({{#var:coliseum}})<span id="Coliseum"></span>===
+Both the Sliding and the Flying race end in the same home stretch and Coliseum area.
+
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+StarValley8.jpeg|Valley WL 9 (Auto-collection)
+StarValley08.jpg|Valley WL 9 (Auto-collection)
+Screenshot 20201223-184359 Sky.jpg|Valley WL 10
+</gallery>
+
+*'''Valley WL 9''': Just before you enter the entrance area to the Coliseum, the Child of Light is standing in the middle of the path. This Winged Light is auto-collected as you slide near the Child of Light.
+*'''Valley WL 10''': In the Coliseum, fly to the top of the big golden statue's shoulder on the left side of the Temple entrance.
+
+===Valley Temple ({{#var:valley_temple}})<span id="Valley Temple"></span>===
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Entrance to WL 11 hidden room.jpg|Entrance to Valley WL 11
+Temple WL 11.jpg|Valley WL 11
+</gallery>
+
+*'''Valley WL 11''': When you enter the Temple, look up and to the left. You'll see the entrance in the wall, which leads to a storage room after a few turns. The Child of Light is standing at the base of a ladder on the left side of the room when you walk in.
+
+See the video linked at the top of this page for a video guide.
+
+===Village of Dreams ({{#var:village_of_dreams}})<span id="Village of Dreams"></span>===
+<section begin="VoDreams Children" /><gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+WL 12 Mountain.jpeg|Mountain to Valley WL 12
+Cave Leading to WL 12.jpg|Cave Leading to Valley WL 12
+SKY 20210105 115647 .jpg|Valley WL 12
+WL 13 from Below.jpg|Cave Leading to Valley WL 13
+Valley Wl 13.jpg|Valley WL 13
+WL 14.jpg|Valley WL 14
+</gallery>
+
+*'''Valley WL 12''': When sliding down the entrance to the village via the Valley Social Space, you will be facing a large mountain. Around the middle of the mountain, there is a Child of Light in a small cave.
+*'''Valley WL 13''': The Child of Light is in a small opening in the mountain near the village where the Bearhug Hermit's spirit quest travels. Look up the ski slope toward Valley WL 14. To the left of the main slope, head up the staircase in the rock, then fly to the left. The Child of Light is in a small cave.
+*'''Valley WL 14''': By going up the ski slopes that are closer to the Hermit's Valley, there is a Child of Light standing on the very top of a building.<section end="VoDreams Children" />
+
+===Hermit Valley ({{#var:hermit_valley}})<span id="Hermit Valley"></span>===
+<section begin="HermitValley Children" /><gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+WingLight4.jpg|Valley WL 15
+WingLight5.jpg|Cave Leading to Valley WL 16
+Hermit Valley WL 16.jpg|Valley WL 16
+</gallery>
+
+*'''Valley WL 15''': The Child of Light is located behind the Hermit's cave, on a window sill.
+*'''Valley WL 16''': Turn around and return to where you docked the ski lift ride. Looking down into the Valley, fly alongside the mountain on the right. The Child of Light is inside a cave in the side of the mountain.<section end="HermitValley Children" />
+
+===Village Theater ({{#var:village_theater}})<span id="Village Theater"></span>===
+<section begin="VillageTheater Children" /><gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Village Theater WL 17 (Entrance).jpg|Entrance to Valley WL 17
+Season of Performance - WingedLight.png|Valley WL 17
+</gallery>
+
+*'''Valley WL 17''': The Child of Light is in a cave beside the stage in the back area, hidden by some stacked boxes.<section end="VillageTheater Children" />
+
+==[[Golden Wasteland]] ({{#var:wasteland}})<span id="Wasteland"><span id="Golden Wasteland"></span></span>==
+===Broken Temple ({{#var:broken_temple}})<span id="Broken Temple"></span>===
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+StarWasteland1.jpg|Wasteland WL 1
+StarWasteland01.jpg|Wasteland WL 1
+StarWasteland2.jpg|Wasteland WL 2
+StarWasteland02.jpg|Wasteland WL 2
+</gallery> 
+
+*'''Wasteland WL 1''': The Child of Light is standing on a strip of land reaching into the lake in front of the fortress.
+*'''Wasteland WL 2''': Above the point where you entered the realm there are some broken columns connected by a stone slab. The Child of Light is standing on top of it. It is hard to reach when playing alone, though the surrounding terrain can be used to gain a higher starting point. For instance, the mound of sand to the direct left of the landing area can be used to access the stone monument to the left of the Child of Light. From there, the player needs approximately 1-2 flaps to reach the next monument (with the Child of Light). Use the sparkle left behind by Wasteland WL 1 to recharge your cape if needed.
+
+===Graveyard ({{#var:graveyard}})<span id="Upper Swamp"><span id="First Krill Area"></span></span>===
+Enter the Fortress. Be cautious when making your moves in these areas. There is one Dark Dragon in the First Krill area and four in the Graveyard that can cause you to lose Winged Light if you are spotted (see [[Creatures]] page for details). To get to the Graveyard, slide down the hill. Don't go into the pipe to the right, it leads to the Crab Fields area. You can do either the Graveyard or the Crab Fields first. Both will lead to the Battlefield area. 
+
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+StarWasteland3Right.jpg|Wasteland WL 3
+StarWasteland03.jpg|Wasteland WL 3
+StarWasteland4.jpg|Wasteland WL 4
+StarWasteland04.jpg|Wasteland WL 4
+StarWasteland05.jpg|Wasteland WL 5
+StarWasteland5.jpg|Wasteland WL 5
+StarWasteland6.jpeg|Wasteland WL 6
+StarWasteland06.jpg|Wasteland WL 6
+StarWasteland7.jpeg|Wasteland WL 7
+StarWasteland07.jpg|Wasteland WL 7
+StarWasteland8.jpg|Wasteland WL 8
+StarWasteland08.jpg|Wasteland WL 8
+</gallery>
+
+*'''Wasteland WL 3''': Inside, one Child of Light is standing on a little island in the lake to the right of the main building.
+*'''Wasteland WL 4''': When you are leaving the area on the other side of the lake, there is a Child of Light standing in an alcove to the right of the exit.
+*'''Wasteland WL 5''': In the Graveyard, one Child of Light is on top of a hill to the right of the big bones. It may be helpful to first fly up the side of the pipe leading into the Shipwreck and then jump down on the other side to reach the Child of Light.
+*'''Wasteland WL 6''': Enter the main hollow structure in the middle of the lake, the Child of Light is on the far side of it, high up on a ledge, best seen from the back of structure. One of the Dark Dragons will patrol this ledge and thus players should be cautious while recharging in the sparkle left behind.
+*'''Wasteland WL 7''': Another Child of Light is in a smaller pipe-like structure to the left of the main central structure.
+*'''Wasteland WL 8''': There is a Child of Light near the stairs leading into the exit (where white birds are flying) on the other side of the lake. A Dark Dragon will also patrol this spot.
+
+===Battlefield ({{#var:battlefield}})<span id="Battlefield"></span>===
+When entering from the Crab Fields, go towards the big bundle of pipes behind the wreck and climb over the top to reach the Battlefield. If you haven't done the Graveyard yet, after climbing the rocks go along the rock wall to the left until you find a cleft with birds coming out. This is the way to the Graveyard.
+
+The Battlefield does not have any Dark Dragons patrolling initially, but when you light the button in front of the main gate of the Temple (or get close enough when it has already been lit by someone else), several Dark Dragons will be released that will roam the area. Thus it is recommended not to go anywhere near the gate until you are finished exploring the area. 
+
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+StarWasteland12.jpg|Wasteland WL 9
+StarWasteland012.jpg|Wasteland WL 9
+StarWasteland13.jpg|Wasteland WL 10
+StarWasteland013.jpg|Wasteland WL 10
+</gallery> 
+
+*'''Wasteland WL 9''': There are two main buildings: the far away ending Temple that is still intact and a ruined fortress/temple surrounded by a moat. Climb the walls of the ruined fortress and the Child of Light is standing to the left (looking from the inside of the building) of the main tower. The easiest way up is to climb the right hand wall that forms steps.
+*'''Wasteland WL 10''': In front of the main Temple there are several towers. The Child of Light is behind the tower to the right of the main gate.
+
+===Crab Fields ({{#var:crab_fields}})<span id="Crab Fields"></span>===
+In this area, also known as shipwreck, there is a Dark Dragon circling above the ship that can harm you. See [[Creatures]] page.
+
+There are four ways to access the Crab Fields area, for two of them you will need to have found either one or two Spirits from the Golden Wasteland. 
+
+*First way: When you exit the First Krill area, go through the Spirit Gate in the pipe to the right as you slide down the hill. This Spirit Gate requires one Ancestor Spirit from Wasteland.
+*Second way: Above the previously mentioned Spirit Gate, there is another pipe which also leads into the Shipwreck area. However, this pipe may be slightly difficult to reach on your own.
+*Third way: In the Graveyard area proper, go right along the rocks past Wasteland WL 9 until you find an elevated platform made out of bricks, there should be a round pipe with a Spirit Gate on this platform. The gate needs one Ancestor Spirit from Wasteland.
+*Fourth way: In the Battlefield area, go to the right along the rocks/wall until you find some large pipes. It may help to first head towards the castle, and then take a sharp right. There you will find a Spirit Gate which requires two Ancestor Spirits from Wasteland.
+
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+StarWasteland9.jpeg|Wasteland WL 11
+StarWasteland09.jpeg|Wasteland WL 11
+StarWasteland10.jpeg|Wasteland WL 12
+StarWasteland010.jpg|Wasteland WL 12
+StarWasteland11.jpeg|Wasteland WL 13
+StarWasteland011.jpg|Wasteland WL 13
+</gallery>
+When coming from the First Krill area, find Wasteland WL 12, then 11 then 13. When coming from the Battlefield, find Wasteland WL 13, then 11 then 12.
+
+*'''Wasteland WL 11''': Find the place where there is a tear in the hull of the ship that is spilling lots of golden jars, the Child of Light is standing on top of them, inside the ship.
+*'''Wasteland WL 12''': Fly to the very far end of the area along the rock wall leading into the First Krill area, towards a tower. The Child of Light is standing opposite the tower high up in a cave in the cliff face. This Child of Light is not easy to reach without a friend (or lots of flight energy), but it might help to climb the tower and fly from there. Some players also choose to enter from the First Krill area's second entrance (without the Spirit Gate), as it provides higher starting ground.
+*'''Wasteland WL 13''': Go along the rock wall beyond the shipwreck in the direction of Battlefield. Thus, when entering from Battlefield, the player should head directly left. The Child of Light is standing beyond the utmost corner of the wall, by the sea and in the vicinity of some pipes. It may be difficult to spot far away, as it is slightly obscured by rocks/pipes.
+
+===Wasteland Temple ({{#var:wasteland_temple}})<span id="Wasteland Temple"></span>===
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+StarWasteland14.jpg|Wasteland WL 14
+StarWasteland014.jpg|Wasteland WL 14
+</gallery>
+'''Wasteland WL 14''': The Child of Light is in the center of the Temple to the right of the water.
+
+===Forgotten Ark ({{#var:forgotten_ark}})<span id="Forgotten Ark"></span>===
+<section begin="ForgottenArk Children" /><gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Forgotten ark star 1.jpg|Wasteland WL 15
+Forgotten ark star 2.jpg|Wasteland WL 16
+</gallery>
+
+*'''Wasteland WL 15''': The Child of Light on the right bow of the Ark.
+*'''Wasteland WL 16''': The Child of Light is inside a far back cave near where the Red Light can be found.<section end="ForgottenArk Children" />
+
+===Treasure Reef ({{#var:treasure_reef}})<span id="Treasure Reef"></span>===
+<section begin="TreasureReef Children" /><gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Season of Abyss - Winglight 1.jpg|Wasteland WL 17
+Season of Abyss - Winglight2.jpg|Wasteland WL 18
+</gallery>
+
+*'''Wasteland WL 17''': The Child of Light is located on top of the tallest tower on your left when entering Treasure Reef.
+*'''Wasteland WL 18''': The Child of Light is located by diving down the water where you can find the small hexagonal ruins near the middle of Treasure Reef. Dive and swim down the stairs. Descend further down until you reach the bubbles that can restore your air level. Then, open the small closed secret gate located behind the staircase. The Child of Light will be in a small room behind several big clams.<section end="TreasureReef Children" />
+
+==[[Vault of Knowledge]] ({{#var:vault}})<span id="Vault"><span id="Vault of Knowledge"></span></span>==
+===Social Space and First Floor ({{#var:vault_first}})<span id="Vault Social Space"><span id="First Floor"></span></span>===
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+StarVault1.jpg|Vault WL 1
+StarVault01.jpg|Vault WL 1
+</gallery>
+
+*'''Vault WL 1''': As soon as you enter Vault of Knowledge, go up the stairs and up the ladder to your left. The Child of Light located at the top.
+
+===Third Floor ({{#var:vault_third}})<span id="Third Floor"></span>===
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+StarVault2.jpg|Vault WL 2
+StarVault02.jpg|Vault WL 2
+</gallery>
+
+*'''Vault WL 2''': Look up to find a gazebo on a floating platform. The Child of Light is on the roof. If you run out of energy, use the orange star dust to fill up your cape.
+
+===Fourth Floor ({{#var:vault_fourth}})<span id="Fourth Floor"></span>===
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+StarVault3.jpg|Vault WL 3
+StarVault03.jpg|Vault WL 3
+Vaultnewstarfloor4.jpg|Vault WL 4
+vault star 6b.jpeg|Vault WL 4
+</gallery>
+
+*'''Vault WL 3''': Use the lift to the next floor with cosmic mantas flying around. Find the Child of Light in a round building with a stone roof floating high up on a platform. Use smaller platforms and steps to reach.
+*'''Vault WL 4''': It's positioned on the highest platform accessible on the fourth floor, directly above the bones which correspond to the Cosmic Manta Call Spirit. The platform is left over from the Season of Lightseekers. This Child of Light was added in Patch 0.9.2.
+
+===Fifth Floor ({{#var:vault_fifth}})<span id="Fifth Floor"></span>===
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+StarVault4.jpeg|Vault WL 5
+StarVault04.jpg|Vault WL 5
+</gallery>
+
+*'''Vault WL 5''': The Child of Light is hidden behind one of the top bones of the floating Cosmic Whale skeleton nearest the elevator.
+
+===The Summit ({{#var:summit}})<span id="Vault Summit"><span id="The Summit"><span id="Summit"></span></span></span>===
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+StarVault5.jpeg|Vault WL 6
+StarVault05.jpg|Vault WL 6
+</gallery> 
+
+*'''Vault WL 6''': Ride a cosmic manta to reach the summit. The Child of Light stands between the stairs to the shrine at the very top.
+
+===Archives ({{#var:archives}})<span id="Archives"></span>===
+<section begin="TheArchives Children" />
+The door is on the right side of the Social Space, and first takes two players to unlock, then a Spirit Gate beyond the door requires you to have collected at least one Ancestor Spirit from Vault.
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+vaultstar2.jpg|Vault WL 7
+vaultstar3far.jpg|Vault WL 8 (ladder)
+vaultstar3.jpg|Vault WL 8
+</gallery>
+
+*'''Vault WL 7''': After descending through two holes into an area filled with crabs, take a left at the first fork. The Child of Light is standing hidden behind two large jars. Be careful though, as the crabs will attack you.
+*'''Vault WL 8''': Continue towards the right in the above mentioned fork. In the room with a large ladder, there is a hole in the ceiling. Upon ascending through this hole, you will find the Child of Light waiting for you.<section end="TheArchives Children" />
+
+===Starlight Desert ({{#var:starlight_desert}})<span id="Starlight Desert"></span>===
+<section begin="StarlightDesert Children" />The entrance is a meditation circle inside the [[Collaboration Room]], that can accessed either on the left side of the Social Space (with a Spirit Gate requiring one Ancestor Spirit from Vault), or through the [[Sky Cinema]] in Aviary Village.
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+SOTLP-Winglight-1.jpg|Vault WL 9
+SOTLP-Winglight-2.jpg|Vault WL 10
+SOTLP-Winglight-3.jpg|Vault WL 11
+</gallery>
+
+*'''Vault WL 9''': On top of the giant jar to the right of the tunnel entrance towards the peak of Eye of Eden.
+*'''Vault WL 10''': On top of the giant lamp tower directly across from Vault WL 9 on the giant jar.
+*'''Vault WL 11''': Inside the lower chamber of the king's floating island throne.<section end="StarlightDesert Children" />
+
+===Repository of Refuge ({{#var:repository}})<span id="Repository of Refuge"></span>===
+<section begin="RepositoryRefuge Children" />The door is on the left side of the first floor and there is a Spirit Gate that requires one Ancestor Spirit from Vault.
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+SOR-Winglight-1.png|Vault WL 12
+SOR-Winglight-2.png|Vault WL 12
+</gallery>
+
+*'''Vault WL 12''': Visible on the far side from the entrance, but you will need to go outside the main building to access it. There is a set of broken bars above it which you can use to enter the room the Child of Light is in, but it's also possible to grab it from outside.<section end="RepositoryRefuge Children" />
+
+===Crescent Oasis ({{#var:crescent_oasis}})<span id="Crescent Oasis"></span>===
+<section begin="CrescentOasis Children" />The door is on the left side of the Social Space and there is a Spirit Gate that requires one Ancestor Spirit from Vault.
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Crescent-Oasis-WL1.jpg|Vault WL 13
+Crescent-Oasis-WL2.jpg|Vault WL 14
+Crescent-Oasis-WL3.jpg|Vault WL 15
+</gallery>
+
+*'''Vault WL 13''': Located behind the rock shelf with the Mural depicting the Season's story, near the Crescent Lake.
+*'''Vault WL 14''': Located within the village and on top of the [[Feudal Lord]]'s Royal Palace, behind its spiked peak.
+*'''Vault WL 15''': Located under the golden tree in the Hidden Glade, accessed through a tunnel in the clouds near where Vault WL 13 is found. ''Note that players must complete the [[Season of the Nine-Colored Deer#Quest #5|5th Quest]] to unlock access to this Child of Light.''<section end="CrescentOasis Children" />
+
+===Moominvalley ({{#var:moominvalley}})<span id="Moominvalley"></span>===
+<section begin="Moominvalley Children" />The door is on the left side of the Social Space and there is a Spirit Gate that requires one Ancestor Spirit from Vault.
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Season-of-Moomin-Winged-Light.jpg|Vault WL 16 (Far)
+Season-of-Moomin-Winged-Light-1.jpg|Vault WL 16
+</gallery>
+
+*'''Vault WL 16''': Located inside the distant gazebo, beyond the series of platforms behind the central forested area. ''Note that players must complete the [[Season of Moomin#Spirit Memory Quests|final Quest]] to unlock access to this Child of Light.''<section end="Moominvalley Children" />
+
+==[[Eye of Eden]] ({{#var:eden}})<span id="Eden"><span id="Eye of Eden"></span></span>==
+A number of Winged Light are present in the Eye of Eden, one in the first area, and the rest just before and inside the tunnel of lights. These will help the player recover from any Winged Light lost traversing through Eden. They are available to collect before the "point of no return" i.e. before players are locked into completing Eden. Unlike all other Children of Light in the Realms, the ones in Eye of Eden are sitting on the ground or looking at it.<br><br>
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+StarEden1.jpg|Eden WL 1 (Far)
+StarEden01.jpg|Eden WL 1
+StarEden2.jpg|Eden WL 2 (Far)
+StarEden02.jpg|Eden WL 2
+StarEden3.jpeg|Eden WL 3 (Far)
+StarEden3.jpg|Eden WL 3
+StarEden04.jpg|Eden WL 4 (Far)
+StarEden4.jpg|Eden WL 4
+StarEden5.jpg|Eden WL 5 (Far)
+StarEden05.jpg|Eden WL 5
+StarEden6.jpg|Eden WL 6 (Far)
+StarEden06.jpg|Eden WL 6
+StarEden7.jpg|Eden WL 7 (Far)
+StarEden07.jpg|Eden WL 7
+StarEden08.jpg|Eden WL 8 (Far)
+StarEden8.jpg|Eden WL 8
+StarEden9.jpg|Eden WL 9 (Far)
+StarEden09.jpg|Eden WL 9
+StarEden10.jpg|Eden WL 10 (Far)
+StarEden010.jpg|Eden WL 10
+</gallery>
+
+*'''Eden WL 1''': Inside the room before entering the second section of Eden. 
+*'''Eden WL 2''': Before the hallway's entrance, towards the left, behind a stone.
+*'''Eden WL 3''': Sitting at the entrance of the hallway before the "point of no return"
+*'''Eden WL 4-10''': Scattered throughout the hallway.
+
+==Orbit ({{Game Stat|wings_orbit}})<span id="Orbit"></span>==
+One additional Winged Light can be collected in Orbit. '''It is invisible to players''' and is acquired during the transition to the credits. To collect it, players must go through the gateway to rebirth and wait for the credits until the skip button appears.
+
+==Shard Memories (6)<span id="Shard Memories"></span>==
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+SoShattering-Winged-Light-Jellyfish-Void.jpg|Shard Memory WL 1 in Jellyfish Void
+SOShattering-Winged-light-crab-void.jpg|Shard Memory WL 2 in Crab Void
+SOShattering-Winged-light-Manta-void.jpg|Shard Memory WL 3 in Manta Void
+SOShattering-Winged-Light-in-Dark-Dragon-Void.jpg|Shard Memory WL 4 in Dark Dragon Void
+SOShattering-Winged-Light-whale-void.jpg|Shard Memory WL 5 in Whale Void
+SoShattering-Winged-Light-elders-void.jpg|Shard Memory WL 6 in Elders Void
+</gallery>
+
+*'''Shard Memory WL 1''': In the '''Jellyfish''' void after completing the [[Season of Shattering#Quest #1|first Quest]].
+*'''Shard Memory WL 2''': In the '''Crabs and flying Darkness''' void after completing the [[Season of Shattering#Quest #2|second Quest]].
+*'''Shard Memory WL 3''': In the '''Mantas''' void after completing the [[Season of Shattering#Quest #3|third Quest]].
+*'''Shard Memory WL 4''': In the '''Dark Dragon''' void after completing the [[Season of Shattering#Quest #4|fourth Quest]].
+*'''Shard Memory WL 5''': In the '''Whales''' void after completing the [[Season of Shattering#Quest #5|fifth Quest]].
+*'''Shard Memory WL 6''': In the '''Elders''' void after completing the [[Season of Shattering#Quest #6|sixth Quest]].
+
+==References==
+<references />
+
+[[pt-br:Filhos da Luz]]
+[[de:Kinder des Lichts]]
+[[fr:Enfants de la Lumière]]
+
+[[Category:Collectibles]]
+[[Category:Winged Light]]
+[[Category:Advanced Guides]]
+[[Category:Voids]]

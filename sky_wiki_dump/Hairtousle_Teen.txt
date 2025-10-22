@@ -1,0 +1,190 @@
+{{Distinguish|Royal Hairtousle Teen}}
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Action
+|image     = <gallery>
+Belonging-Spirit-Hairtousle-Teen.png|Standard
+Belonging-Spirit-Hairtousle-Teen-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||headpiece|infobox}}
+|instruments = {{Spirit Item||Instrument|infobox}}
+|music     = {{Music Sheet|12}}
+|season    = Belonging
+|realm     = Hidden Forest
+|location  = Underground Caverns
+|ts        = March 28, 2024 (#110)<br>June 9, 2022 (#63)<br/>June 11, 2020 (#11)
+}}
+<section begin="Summary" />The '''Hairtousle Teen''' is a [[Seasonal Spirit]] from the [[Season of Belonging]] who offers the {{Emote|Hairtousle Teen|inline_text}}. The Hairtousle Teen is found in the [[Underground Caverns]] in [[Hidden Forest]], at the entrance from the [[Elevated Clearing]], near the butterfly jars. The collectibles [[Hairtousle Teen#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Hairtousle Teen|headpiece|inline_text}}, the {{Spirit Item|Hairtousle Teen|Instrument|label=Ukulele Instrument|inline_text}}, and the {{Music Sheet|12|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Hairtousle-Teen-promo-image.jpg|thumb|320px|none|TGC's Promo image]]
+
+== Memory==
+<div>{{#ev:youtube|6TlBquksQa0||inline|Video Guide by Tara}}
+<br>
+The Hairtousle Teen is found in the [[Underground Caverns]] in Hidden Forest, at the entrance from the [[Elevated Clearing]], near the butterfly jars. This Spirit has a [[Standard Memory|standard memory]] with 6 memory fragments and a 20-minute overall [[Timed Memory|time limit]].
+
+At the beginning of the memory, players can burn the wax over the jars containing butterflies and perform a [[Deep Call]], which will make the butterflies gather around the player's avatar and lift them up the cliff to a few [[Flora, Minerals and Elements of Sky#Light Bloom|Light Blooms]], which can be used to ascend further.
+
+As their memory unfolds, the Hairtousle Teen can be seen playing guitar for the [[Pleaful Parent]], sitting besides them. Suddenly, the Hairtousle Teen walks away with their head and shoulders dropped, while the Pleaful Parent runs after them. The two Spirits makes their way to a room that is only accessible through a gate which the Pleaful Parent cannot get through, as it is closed. 
+
+The third fragment is located behind a closed gate, which can only be opened by a button from far away. While the gate does close quickly as soon as the player leaves the button, it is possible to pass through alone, by dashing or flying very quickly when the gate has opened all the way. It will be of most help to have a friend open the gate, before the player passes through and collects the fragment, which will keep the gate open for a bit longer so that the friend can also pass through and join the player.
+
+Inside, the Hairtousle Teen stands infront of a ukulele. They take the instrument with them and play it alone on a cliff behind the room, without the Pleaful Parent. Eventually, the Hairtousle Teen takes off alone and retreats to a spot high up on a mountain, opposite of their room.
+
+To collect the last fragment on top of a high mountain, Jellyfish and Light Blooms can be of help to ascend further and charge the player's wings.
+
+At the end of the memory, the Hairtousle Teen plays a melody on their ukulele, while the player grabs a bell from underneath their cape and rings it, causing the Pleaful Parent to appear infront of the Hairtousle Teen. They stand up and reunite with the Pleaful Parent by playfully tousling their hair. At last, the Pleaful Parent leaves through a tunnel.<br>
+<br>
+[[File:02 HF Seasonal Spirit - Hairtousle Teen.png|200px|thumb|none|Relive the Hairtousle Teen's memory]]
+</div>
+{{Clear}}
+
+==<span id="Expression">Friend Action</span>==
+''Note: While this Spirit can be found in the Underground Caverns, the upgrade to the "Hair Tousle" Friend Action will not be available for those who missed the Season or those who did not purchase the [[Season Pass]] until the Spirit returns as a Traveling Spirit.''
+
+This Spirit offers the {{Emote||inline_text}}, which has 2 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Hairtousle-Teen-hairtousle-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Hairtousle-Teen-hairtousle-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+</gallery>
+
+*Level 1 will make your avatar lower their head, look to the side, slightly bend their knees, and bring their hands up to their chest, before looking forward, stretching out their arm, and move their hand up and down in a patting motion, while your friend has taken on your avatar's position from the beginning, while high-pitched flute sound effects play.<ref>Originally, both levels had the initiating player get their hair tousled. The animation for the Level 1 expression was changed in Patch {{v|0.24.5}} so that the initiating player does the tousling.</ref>
+*Level 2 will make your avatar lower their head, look to the side, slightly bend their knees, and raise their arms to the sides, before looking forward, stretch out their arm, and tousle your friend's hair, who has their knees slightly bent, and their arms slightly raised at their sides, before bringing them up to their chest, while more high-pitched and echoing flute sound effects play.
+
+Like any [[Friendship Menu#Extended Two-Player Abilities|Extended Two-Player Abilities]], this ability can be upgraded by opening your friend's Friendship Menu. To reach the 6th node before the ability, it will cost you {{Cost|9 C}} and {{Cost|1 AC}}. (See [[Friendship Menu]] to view the entire Friendship Tree). Unlocking the Level 1 ability will cost you {{Cost|6 C}}. After unlocking Level 1, it will cost you {{Cost|8 C}} more to upgrade to the Level 2.
+
+As a Traveling Spirit, the prices of the Friend Action upgrade was {{Cost|9 H}} <ref name="emote_cost change">The Hairtousle Teen's Level 2 Action price increased from {{Cost|4 H}} to {{Cost|9 H}} during their second visit as a Traveling Spirit.</ref>. During the Season, Level 1 was free, but Level 2 was only available to [[Season Pass]] holders.
+
+==Cosmetics==
+===<span id="Headpiece">Head Accessory</span>===
+The [[Head Accessory]] <ref name="Hair Accessory recategorized">This item was recategorized from a [[Hair Accessory]] to a [[Face Accessory]] as a result of the [[Outfit Shrine|Closet]] category expansion in Patch {{v|0.22.0}}. It became a [[Head Accessory]] after the split of the [[Face Accessory]] category in Patch {{v|0.27.0|0.27.0}}.</ref> offered by this Spirit is a pair of round red earmuffs with a fluffy white interior, costing {{Cost|50 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|42 SC|season=Belonging}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||headpiece|icon}} {{!}} The Head Accessory icon
+{{Icon Name||headpiece|real}} {{!}} The Head Accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Instrument===
+The [[Instrument]] offered by this Spirit is the '''Ukulele''', costing {{Cost|70 C}} from the Traveling Spirit <ref name="instrument_cost change">The Hairtousle Teen's [[Hairtousle Teen#Instrument|Instrument]] price decreased from {{Cost|75 C}} to {{Cost|70 C}} during their second visit as a Traveling Spirit.</ref>. It is a reddish chestnut color with beige and black accents and three white strings. It was available to all players during the Season from the Friendship Tree's fifth node ({{Cost|60 SC|season=Belonging}} total). The player sits while playing the Instrument, which plays 15 notes.
+
+The Ukulele plays the melody [[Music Sheet Parts|part]] on Music Sheets. Its [[Instrument Pitch|pitch]] is the same as the {{Spirit Item|Pleaful Parent|Instrument|inline_text}} and one octave below the standard {{Spirit Item|Cheerful Spectator|Instrument|inline_text}}; in C major, it covers C<sub>3</sub> to C<sub>5</sub>.
+
+In [[Harmony Hall]], the Ukulele can be found in the left room with all the other stringed Instruments. It is the second Instrument from the left.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Instrument|icon}} {{!}} The Instrument icon
+{{Icon Name||Instrument|real}} {{!}} The Instrument
+{{Icon Name||Instrument|held}} {{!}} Playing the Instrument
+{{Icon Name||Instrument|back}} {{!}} The Instrument on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Music Sheet ==
+The Hairtousle Teen offers the {{Music Sheet|12}} [[Music Sheet]] #12, costing {{Cost|15 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's third node ({{Cost|26 SC|season=belonging}} total). It is a song in the key of E♭ Major.<br>
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guide
+|content=
+{{#ev:youtube|C6RQgXeKPfU||inline|Music Sheet Video Guide by thatskyfox (Fox Band)}}
+}}
+
+==Traveling Spirit==
+[[File:SoB Forest TS placeholder.PNG|200px|right|thumb]]
+{{Friendship Tree Info | traveling
+|ts_dates=*March 28, 2024 (#110)
+*June 9, 2022 (#63)<ref name="emote_cost change"></ref><ref name="instrument_cost change"></ref>
+*June 11, 2020 (#11)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Hairtousle Teen
+|image = Hairtousle-Teen-Sprite.png
+|season = Belonging
+
+|nodeC5 = headpiece 50 C
+|nodeL4 = emote2 9 H
+|nodeC4 = spell5
+|nodeR4 = instrument 70 C
+|nodeC3 = wing
+|nodeL2 = music12 15 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+No hints were given from the [[Hairtousle Teen]]'s first appearance.
+
+The hints given before the [[Hairtousle Teen]]'s second appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Second Visit Hints
+|content=<div>
+* Knows how to pick locks
+* Ignores you if they're not interested
+* Dislikes when you ruin their groove
+* Loves Taco Tuesdays
+* Chronically rolls their eyes
+* Is lucky!
+* Likes a band, but you've probably never heard of them
+* Stays up late to be petty
+* Dreamt of being a superstar
+* Enjoys activities outdoors
+* Never gets enough sleep
+* Is hiding in our midst! It could be any one of us!
+* Can be bossy
+* Secretly has a soft spot for romcoms
+* Hates seafood
+* Has written angsty poetry
+* Is really great with kids
+* Doesn't know how to properly talk on the phone
+* [ikô] Likes buying superhero graphic novels from the bookstore
+</div>}}
+
+==Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Belonging}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Hairtousle Teen
+|type   = season
+|season = Belonging
+|image = Hairtousle-Teen-Sprite.png
+
+|nodeC6 = season_heart 3 SC SP
+|nodeL5 = spell5 SP
+|nodeC5 = Instrument 18 SC
+|nodeL4 = headpiece SP
+|nodeC4 = spell5 16 SC
+|nodeL3 = emote2 SP
+|nodeC3 = music12 14 SC
+|nodeL2 = spell5 SP
+|nodeC2 = spell1 12 SC
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+
+== Other Appearances ==
+Hairtousle Teen also appeared in the [[Season of the Blue Bird]] as the [[Royal Hairtousle Teen]].
+
+==Trivia==
+*The Cape and Mask worn by the Hairtousle Teen are sold by the [[Confetti Cousin]].
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Belonging Forest emote.GIF
+forest emote outfit better.jpg
+Belonging forest spirit preview.png
+</gallery>
+
+==References==
+<references />
+
+[[ja:ぽんぽんする若者]]
+[[de:Haarwuschelnder Teenie]]
+[[pt-br:Adolescente Desgrenhado]]
+[[ru:Косматый подросток]]
+[[fr:Adolescent ébouriffé]]

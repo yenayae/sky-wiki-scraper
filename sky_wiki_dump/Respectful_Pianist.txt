@@ -1,0 +1,165 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Rhythm-Spirit-Respectful-Pianist.png|Standard
+Rhythm-Spirit-Respectful-Pianist-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Mask|infobox}}{{Spirit Item||Hair|infobox}}
+|instruments = {{Spirit Item||Instrument|infobox}}
+|season    = Rhythm
+|location  = Graveyard
+|ts        = July 3, 2023 (SV#3)<br>February 4, 2021 (#28)
+}}
+<section begin="Summary" />The '''Respectful Pianist''' is a [[Seasonal Spirit]] from the [[Season of Rhythm]] who offers the {{Emote|Respectful Pianist|inline_text}} Expression. The Respectful Pianist is found at the back of the Wasteland's [[Graveyard]], in a round hollow boulder between the large Darkness Tree and the passage to the [[Battlefield]]. The collectibles [[Respectful Pianist#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Respectful Pianist|Mask|inline_text}}, a {{Spirit Item|Respectful Pianist|Hair|inline_text}}, and the {{Spirit Item|Respectful Pianist|Instrument|label=Winter Piano Instrument|inline_text}}.<section end="Summary" />
+
+== Memory ==
+<div>{{#ev:youtube|A5rrM_cZWI0||inline|Video Guide by Tara}}
+
+The Respectful Pianist can be found the Wasteland's [[Graveyard]] in a round hollow boulder between the large Darkness Tree and the passage to the Battefield. This Spirit has a [[Carry Spirit Memory|carry spirit memory]] with 4 memory fragements and a 15-minute overall [[Timed Memory|time limit]]. 
+
+This Spirit memory can be difficult to complete, as several Dark Dragons roam the area. It is advisable to wait before a Dark Dragon has just passed before advancing to the next memory fragement. Bringing a friend as a precaution can also be of help  in case you are attacked by a Dark Dragon, or for luring them away. 
+
+Another thing to note is to preferably ''not'' burn the Dark Plants leading up to the cave containing butterflies, as they can act as a helpful staircase towards the last memory fragement. Alternatively, players can carefully and slowly fly alongside the outer wall, carrying the light with them.
+
+As their memory unfolds, the Respectful Pianist can be seen making their way across the Graveyard, ending on a high ledge above the tunnel filled with butterflies and a Darkness Plant in its center. 
+
+At the end of the memory, the Respectful Pianist puts a hand to their chest and bows their head towards the player in a solemn acknowledgment, as if respecting them for walking into danger to free them.<br>
+<br>
+[[File:04 GW Seasonal Spirit - Respectful Pianist.jpg|200px|thumb|none|Relive the Respectful Pianist's memory]]
+</div>
+{{Clear}}
+
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Respectful-Pianist-respect-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Respectful-Pianist-respect-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Respectful-Pianist-respect-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Respectful-Pianist-respect-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar bow their head and place their right hand over their chest, while a gong and trumpet fanfare sound effects play.
+*Level 2 makes the same motion as Level 1, with a ring of warm yellow light circling your avatar's hand when they place it on their heart.
+*Level 3 will make your avatar kneel down on their right knee, with their left elbow on their left knee, bow their head, and place their right hand over their chest, while a louder gong and trumpet fanfare sound effects play.
+*Level 4 makes the same motion as Level 3, with a ring of warm yellow light circling your avatar's hand when they place it on their heart.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+== Cosmetics==
+=== Mask ===
+The [[Mask]] offered by this Spirit is in the shape of a duck and in a white color, with a light-orange colored beak and accents, costing {{Cost|48 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fifth node ({{Cost|68 SC|season=Rhythm}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask front
+{{Icon Name||Mask|side}} {{!}} The Mask side
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Hair ===
+The [[Hair]] offered by this Spirit is styled with a section of hair at the top sticking up straight, and the rest of the hair evenly fanned outwards around their lower head, costing {{Cost|26 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's second node ({{Cost|14 SC|season=Rhythm}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Instrument ===
+The [[Instrument]] offered by this Spirit is the '''Winter Piano''', costing {{Cost|75 C}} from the Traveling Spirit. Its shape is similar to that of the {{Spirit Item|Cheerful Spectator|Instrument|label=Standard Piano|inline_text}}, with a piano wing attached to the top. It is colored white, with golden accents along the sides and the Rhythm Symbol in the middle of the wing. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|48 SC|season=Rhythm}} total). The player sits while playing the Instrument, which plays 15 notes.
+
+The Winter Piano plays the melody [[Music Sheet Parts|part]] on Music Sheets. Its [[Instrument Pitch|pitch]] is one octave above the standard {{Spirit Item|Cheerful Spectator|Instrument|inline_text}} (in C major, it covers C<sub>5</sub> to C<sub>7</sub>), making it the highest-pitched Instrument available in the game, along with the {{Spirit Item|Thoughtful Director|Instrument|inline_text}}. 
+
+In [[Harmony Hall]], the Winter Piano can be found on the back wall, behind and to the left of the front counter, in an alcove below the standard [[Piano]].<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Instrument|icon}} {{!}} The Instrument icon
+{{Icon Name||Instrument|real}} {{!}} The Instrument
+{{Icon Name||Instrument|held}} {{!}} Playing the Instrument
+{{Icon Name||Instrument|back}} {{!}} The Instrument on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Traveling Spirit ==
+[[File:SoR Wasteland TS placeholder.png|200px|right|thumb]]
+{{Friendship Tree Info | traveling
+|ts_dates=*February 4, 2021 (#28)
+|rs_dates=*July 3, 2023 (SV#3)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Respectful Pianist
+|season = Rhythm
+|image  = Rhythm-Spirit-Respectful-Pianist.png
+
+|nodeC6 = Mask 48 C
+|nodeL5 = Instrument 75 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Hair 26 C
+|nodeC2 = spell5
+|nodeR2 = heart 3 C
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+The hints given '''after''' the [[Respectful Pianist]]'s first appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=First Visit Hints
+|content=<div>
+* Makes the best bread in their seasonal group
+* Has the best bagels and baguettes
+* Usually eat most of them (bagels) before they share
+* Has bagels and banana bread are on their secret menu
+</div>
+}}
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Rhythm}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Respectful Pianist
+|type   = season
+|season = Rhythm
+|image  = Rhythm-Spirit-Respectful-Pianist.png
+
+|nodeC6 = season_heart 3 SC SP
+|nodeL5 = spell5 SP
+|nodeC5 = Mask 20 SC
+|nodeL4 = Instrument SP
+|nodeC4 = spell5 18 SC
+|nodeL3 = emote4 SP
+|nodeC3 = emote3 16 SC
+|nodeL2 = spell5 SP
+|nodeC2 = Hair 14 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Trivia==
+*The Respectful Pianist's Hair first appeared in the [[Winter 2018|Winter Pack]] of the limited-release game [[Sky: Light Awaits]].
+*The Winter Piano has its name because it first appeared in the [[Winter 2018|Winter Pack]] of the limited-release game [[Sky: Light Awaits]].
+*The Respectful Pianist Instrument is featured in a piece of merch from thatskyshop, in the form of the [[That Sky Shop/Wave 4#Rhythm Piano Pin|Rhythm Piano Pin]]. It has a STAR feature which allows you and the friends holding your hand to get a Rhythm Piano for a limited duration.
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Respect expression.jpg
+Rhythm beta group respect 2.jpeg
+Rhythm beta group respect.jpeg
+Rhythm spirit respect map.png
+</gallery>
+
+==References==
+<references/>
+[[de:Respektvoller Pianist]]
+[[fr:Pianiste respectueuse]]
+[[pt-br:Pianista Respeitosa]]
+[[ru:Почтительный пианист]]
+[[ja:敬意を表す楽師]]

@@ -1,0 +1,1081 @@
+__NOINDEX__
+{{Help|beta}}
+{{Infobox VG
+| image = Beta-spoiler-preview-image.png
+}}
+<big>'''Note for Beta-Testers:'''</big> Please do not use the below page draft for '''''any''''' help for the Season. TGC wants players to test active things with fresh eyes - to see what players are struggling against and what players are succeeding at; looking at a few Beta players having trouble may represent the hundreds of Live people that will also have the same problems.<br>
+<br>
+{{clear}}
+March 20th, 2025: Beta access is now closed to all testers.   TGC started a next phase of the beta program—one that meets the unique needs of Sky, supports more stages of development, and opens new avenues for hearing player's insights and feedback. 
+
+NDAs will be required of all testers. NDAs are legal agreements that protect certain types of information from being shared publicly. For the beta program, this means that no beta footage or content can be recorded or shared by testers outside of private beta channels on Discord designated by TGC, unless specified by TGC.  
+
+For that reason, we will no longer publish drafts in the Sky wiki outside the given "free to publish" period. You can contact an active admin or mod via our individual Walls or through the {{Sky Wiki Socials|Discord|format=inline}}.
+
+Thank you<br><br>
+
+{{Mbox
+|header      = We're looking for Editors, and Content Moderators!
+|text        = Wish the Sky Wiki was more up to date? Join the Sky Wiki editing team and help keep us updated with the Season of {{Game Stat|season}} and other content! {{Emote|Leap}}We don't expect you to know how to edit a wiki before! [[Special:Community#Editing|We can guide you through it]]. {{Emote|Come}}
+}}
+
+=Season of Migration DRAFT=
+{{Season
+| title = Season of Migration
+| image = Season-of-Migration-Teaser-image.png
+| start = October 20, 2025
+| end = January 4, 2026
+| spirits = 5
+| previousSeason = [[Season of The Two Embers - Part 1]]
+| nextSeason = TBA
+| constellation = 
+| symbol = Season-of-Migration-icon.png
+}}
+
+The '''Season of Migration''' is the twenty-seventh Seasonal Event in the Live version of ''Sky'' since the global release, following [[Season of The Two Embers - Part 1]]. It began on  '''October 20, 2025 at 00:00 PDT (UTC -7)''' and ends '''January 4, 2026 at 23:59 PST (UTC -8)''', lasting '''77''' days.
+
+In this Season, players work together with new friends to help the herd of mystical Light Creatures overcome challenges in their migratory journey and find their way home.<br>
+<br>
+{{#ev:youtube|p3dtNkdfNRM||inline|Season of Migration Trailer}}
+
+==Welcome==
+<center class="title-text-welcome">[https://www.thatskygame.com/news/LINK-TO-NEWS-RELEASE Welcome to the Season of Migration!]</center>{{Quote|<br>'''''Embark on a mystical journey of light and wonder as you help a herd of lost light creatures find their way home.'''''}}
+From the open fields to the shadowed forests and beyond, a stirring has begun. An ancient rhythm that calls the migrating creatures of light to rise, gather, and journey together. Guided by the [[Migration Guide]], you will help shepherd a lost herd of majestic creatures back onto their ancestral path. 
+
+Over the course of 10 [[Spirit Memory Quests|Seasonal Quests]], you will join in leading the herd across familiar Realms transformed: Daylight Prairie buffeted by strong winds, Hidden Forest overflowing with floodwaters, Golden Wasteland wrapped in heavy fog. Along the way, you will soar beside Jellyfish, Mantas, Birds, and other beloved creatures, seeing them in surprising new ways as the migration carries on through the skies.
+
+In the [[Wind Paths]], new Spirit memories are waiting to be discovered. Keep an eye out for hints near the migration camp in Isle of Dawn: they'll guide you to where those memories can be found. The Season's Spirits will teach you new Expressions and offer a variety of cosmetics: [[Outfits]], [[Capes]], a new [[Music Sheet]], and more! [[Season Pass]] holders will also have the chance to unlock three new Ultimate Gifts.
+
+This Season is one of triumph and wonder, of finding the way home, and of discovering how deeply connected we are—not just to each other, but to the luminous creatures who share our world.
+
+<small>Note that Season of Migration can be enjoyed by all players who have progressed through at least REALM.</small>
+
+==Daily Quests & Seasonal Candles==
+===Daily Quests===
+Collect Seasonal Candles throughout the Season to trade with the new Spirits for their cosmetics. A total of 6 Seasonal Candles are available to gather, as follows:
+*Each day the location of the [[Daily Quests]] change, indicated through the cutscene played when checking in with the Return Shrine Statue at [[Home]] or [[Aviary Village]] - where the camera will pan out from the day's chosen Realm portal. Players will earn one Seasonal Candle per Quest completed. Complete your Quests and claim your reward at the Return Shrine Statue. (4 Candles)
+*Players may also collect an extra Candle by collecting the 4 Seasonal bunches <small>(more information on the "Seasonal bunches locations" below).</small> (1 Candle)
+*Players who have the [[Season Pass]] can claim a Seasonal Candle from the Return Shrine Statue at [[Home]] or the [[Aviary Village#Friendship Constellation Statue|Friendship Constellation Statue]] at Aviary Village as a free daily bonus. (1 Candle)
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" >
+File:Season-of-Migration-Seasonal-candles.jpg|Migration Seasonal Candles
+File:Season-of-Migration-Season-Pass-1.png|Season Pass - page 1
+File:Season-of-Migration-Season-Pass-2.png|Season Pass - page 2
+File:Season-of-Migration-Season-Pass-3.png|Season Pass - page 3
+</gallery>
+
+===Seasonal Candle Bunches Locations===
+The Seasonal Candle bunches are found towards the beginning of each [[Realm]], one Realm a day according to the [[Daily Quests]]' location.
+
+'''Today's ({{Game Stat|today|format=F j}} in Sky Time) Seasonal Candle rotation is <!--
+-->{{#switch:{{#expr:{{Game Stat|datediff|from=2023-01-16 PST}} mod 10}}
+|0=Rotation 2 in Valley of Triumph.
+|1=Rotation 2 in Golden Wasteland.
+|2=Rotation 2 in Vault of Knowledge.
+|3=Rotation 1 in Daylight Prairie.
+|4=Rotation 2 in Hidden Forest.
+|5=Rotation 1 in Valley of Triumph.
+|6=Rotation 1 in Golden Wasteland.
+|7=Rotation 1 in Vault of Knowledge.
+|8=Rotation 2 in Daylight Prairie.
+|9=Rotation 1 in Hidden Forest.
+}} <!-- TESTING BY RAY: This is possibly necessary to keep the datediff accurate -->''' {{Purge}} <div id="disable-caching" style="display:none;"><choose uncached><option></option></choose></div>
+
+<!-- Specify Pattern-A or Pattern-B -->
+<gallery spacing="small" captionalign="center">
+Daylight-Prairie-Seasonal-Candles-locations-Pattern-B.png|Prairie Rotation 1 & 2
+Hidden-Forest-Seasonal-Candles-locations-Pattern-B.png|Forest Rotation 1 & 2
+Valley-of-Triump-Seasonal-Candles-locations-Pattern-B.png|Valley Rotation 1 & 2
+Golden-Wasteland-Seasonal-candles-Locations-Pattern-B.png|Wasteland Rotation 1 & 2
+Vault-of-knowledge-Seasonal-candles-Locations-Pattern-B.png|Vault Rotation 1 & 2
+</gallery>
+
+''NOTE: This section is automatic generated. If the rotation pattern changed and the info above is outdated, please either contact an [[Help:Admins and Moderators|admin]] or use the Source Editor to apply the appropriate changes. Thank you!''
+
+==Child of Light Locations==
+One (1) Child of Light has been added to the [[Wind Paths]].
+
+==Spirit Memory Quests==
+
+===<span id="Quest 1">Quest #1</span>===
+In the first Quest, [Quest summary]. The Migration Guide discovers an abandoned pair of antlers atop a hill in the Isle of Dawn desert and decides to wear them. Looking ahead, they notice a flock of sleeping antlered manatees. As they approach and wave to the creatures, the temple bell rings, awakening the flock, which begins to circle joyfully around the Guide.
+
+The Guide then turns to the Migrating Bellmaker, who reveals that their boat is broken.
+
+'''Part I – Repairing the Boat'''
+
+Sit on the meditation circle to be transported near the buried boat, where the Migrating Bellmaker awaits your help. Three beams of light mark the areas where the missing parts can be found.
+
+Collect six boat pieces from these marked zones. If you lose your way, honk to summon a blue guiding star that points toward your next objective. Meanwhile, the Migration Guide tends to the Light Creature flock in the background.
+
+Once all parts are gathered, return to the Migrating Bellmaker and tap the hammer icons to repair the boat. When the task is complete, the Whisperer readies it for the upcoming voyage.
+
+'''Part II – The Migration Bells'''
+
+Next, the Migration Guide entrusts you with a bell worn on your back to help prepare the Migration Bells. Follow the beams of light to each location and light the nearby candles to activate the bells.
+
+There are four bells in total. When all are lit, they chime together in harmony, summoning butterfly swarms that form glowing paths leading toward the temple. Return to the Migration Guide to continue.
+
+'''Part III – Leading the Voyage'''
+
+With the Light Creature flock gathered, the Migration Guide heads back to the repaired boat, ready to set off.
+
+Select the flying icon to lead the voyage. The Migrating Bellmaker and the Migration Guide join you aboard as you follow one of the butterfly paths toward the temple.
+
+As the journey concludes, the Migrating Bellmaker thanks you and begins preparations for the next expedition. The Migration Guide and the flock finally rest, marking the end of this stage of the journey.
+
+An antler remains on the right hill of the Prairie, hinting at the next quest to come.<!--<br>
+<br>
+{{#ev:youtube|VideoID|300px||Quest 1 Video Guide}}-->
+
+<!--
+===<span id="Quest 2">Quest #2</span>===
+In the second Quest, [Quest summary]. In the Prairie, the Migration Guide, the Migrating Bellmaker, and the Light Creature flock prepare to continue their journey. However, strong winds have startled the migrating birds, halting their progress.
+
+'''Part I – Restoring the Migration Bells'''
+To calm the winds and guide the birds, the Spirits enlist your help in repairing the Migration Bells.
+
+You are given a migration bell to assist with the task.
+
+There are four bells scattered across the area that must be restored. Follow the guiding lights to each location and repair the bells one by one.
+
+When all four are fixed, they ring together in harmony, creating waves of light that steady the winds and free the birds to resume their migration.
+
+Return to the Migration Guide once the bells have been activated.
+
+'''Part II – Leading the Flock'''
+
+With the bells restored and the boat ready, the Spirits prepare to set sail once more.
+
+Take the lead by selecting the flying icon, guiding the group along the birds’ migration paths.
+
+Fly above the temple, following the glowing trails of the Light Creatures. You may use flight power to accelerate at any time during the journey.
+
+'''Part III – Journey’s End'''
+
+Upon reaching the Prairie Village, the Migrating Bellmaker thanks you before returning to prepare for the next voyage.
+
+The Migration Guide and the Light Creature flock finally rest after completing their journey.
+
+An antler remains behind on the middle belltower island, marking the path forward for the next quest.<br>
+<br>
+{{#ev:youtube|VideoID|300px||Quest 2 Video Guide}}
+
+===<span id="Quest 3">Quest #3</span>===
+::'''Quest 3: Optional, if Quest is Named'''
+Description of the Quest is added here.<br>
+<br>
+{{#ev:youtube|VideoID|300px||Quest 3 Video Guide}}
+
+===<span id="Quest 4">Quest #4</span>===
+::'''Quest 4: Optional, if Quest is Named'''
+Description of the Quest is added here.<br>
+<br>
+{{#ev:youtube|VideoID|300px||Quest 4 Video Guide}}
+
+===<span id="Quest 5">Quest #5</span>===
+::'''Quest 5: Optional, if Quest is Named'''
+Description of the Quest is added here.<br>
+<br>
+{{#ev:youtube|VideoID|300px||Quest 5 Video Guide}}
+
+===<span id="Quest 6">Quest #6</span>===
+::'''Quest (: Optional, if Quest is Named'''
+Description of the Quest is added here.<br>
+<br>
+{{#ev:youtube|VideoID|300px||Quest 6 Video Guide}}
+
+===<span id="Quest 7">Quest #7</span>===
+::'''Quest 7: Optional, if Quest is Named'''
+Description of the Quest is added here.<br>
+<br>
+{{#ev:youtube|VideoID|300px||Quest 7 Video Guide}}
+
+===<span id="Quest 8">Quest #8</span>===
+::'''Quest 8: Optional, if Quest is Named'''
+Description of the Quest is added here.<br>
+<br>
+{{#ev:youtube|VideoID|300px||Quest 8 Video Guide}}
+
+===<span id="Quest 9">Quest #9</span>===
+::'''Quest 9: Optional, if Quest is Named'''
+Description of the Quest is added here.<br>
+<br>
+{{#ev:youtube|VideoID|300px||Quest 9 Video Guide}}
+
+===<span id="Quest 10">Quest #10</span>===
+::'''Quest 10: Optional, if Quest is Named'''
+Description of the Quest is added here.<br>
+<br>
+{{#ev:youtube|VideoID|300px||Quest 10 Video Guide}}
+-->
+
+==Spirits & Cosmetics==
+All of the ''Season of Migration'' Spirits can be found in the LOCATION. There are 4 new Expressions and 1 new Call to gather — 5 Spirits overall. <!-- X spirits, three are found in the [[Migration Guide|Ultimate Quest giver]] -->
+{{#tag:gallery
+|{{Icon Name|Migrating Bird Whisperer|emote}} {{!}} {{Icon Name|Migrating Bird Whisperer|emote_name}}
+{{Icon Name|Migrating Bellmaker|emote}} {{!}} {{Icon Name|Migrating Bellmaker|emote_name}}
+{{Icon Name|Migrating Manta Whisperer|emote}} {{!}} {{Icon Name|Migrating Manta Whisperer|emote_name}}
+{{Icon Name|Migrating Butterfly Charmer|emote}} {{!}} {{Icon Name|Migrating Butterfly Charmer|emote_name}}
+{{Icon Name|Migrating Jelly Whisperer|emote}} {{!}} {{Icon Name|Migrating Jelly Whisperer|emote_name}}
+|widths=100|spacing=small|captionalign=center|mode=nolines}}
+
+===All Migration Friendship Trees===
+{{Mobile Tabber
+|tab1 = {{Season Icon|Migration|tab}}
+|c1   = {{#lst:Migration Guide|Friendship Tree}}
+|tab2 = {{Icon|Quest-icon.png|link=Quests|tab}}
+|c2   = {{#lst:Migration Guide|Quest Tree}}
+|tab3 = {{Emote|Migrating Bird Whisperer|tab}}
+|c3   = {{#lst:Migrating Bird Whisperer|Season Friendship Tree}}
+|tab4 = {{Emote|Migrating Bellmaker|tab}}
+|c4   = {{#lst:Migrating Bellmaker|Season Friendship Tree}}
+|tab5 = {{Emote|Migrating Manta Whisperer|tab}}
+|c5   = {{#lst:Migrating Manta Whisperer|Season Friendship Tree}}
+|tab6 = {{Emote|Migrating Butterfly Charmer|tab}}
+|c6   = {{#lst:Migrating Butterfly Charmer|Season Friendship Tree}}
+|tab7 = {{Emote|Migrating Jelly Whisperer|tab}}
+|c7   = {{#lst:Migrating Jelly Whisperer|Season Friendship Tree}}
+}}
+===[[Migrating Bird Whisperer]]===
+{{#lst:Migrating Bird Whisperer|Summary}}
+{{#tag:gallery
+|{{Icon Name|Migrating Bird Whisperer|cape|real}} {{!}} The Cape
+{{Icon Name|Migrating Bird Whisperer|outfit|real}} {{!}} The Outfit
+|widths=125|spacing=small|captionalign=center|mode=nolines}}
+
+===[[Migrating Bellmaker]]===
+{{#lst:Migrating Bellmaker|Summary}}
+{{#tag:gallery
+|{{Icon Name|Migrating Bellmaker|cape|real}} {{!}} The Cape
+{{Icon Name|Migrating Bellmaker|hair|real}} {{!}} The Hair
+{{Icon Name|Migrating Bellmaker|headpiece|real}} {{!}} The Head Accessory
+|widths=125|spacing=small|captionalign=center|mode=nolines}}
+
+===[[Migrating Manta Whisperer]]===
+{{#lst:Migrating Manta Whisperer|Summary}}
+{{#tag:gallery
+|{{Icon Name|Migrating Manta Whisperer|cape|real}} {{!}} The Cape
+{{Icon Name|Migrating Manta Whisperer|hair|real}} {{!}} The Hair
+{{Icon Name|Migrating Manta Whisperer|outfit|real}} {{!}} The Outfit
+|widths=125|spacing=small|captionalign=center|mode=nolines}}
+
+===[[Migrating Butterfly Charmer]]===
+{{#lst:Migrating Butterfly Charmer|Summary}}
+{{#tag:gallery
+|{{Icon Name|Migrating Butterfly Charmer|cape|real}} {{!}} The Cape
+{{Icon Name|Migrating Butterfly Charmer|facepiece|real}} {{!}} The Face Accessory
+|widths=125|spacing=small|captionalign=center|mode=nolines}}
+
+===[[Migrating Jelly Whisperer]]===
+{{#lst:Migrating Jelly Whisperer|Summary}}
+{{#tag:gallery
+|{{Icon Name|Migrating Jelly Whisperer|hairpiece|real}} {{!}} The Head Accessory
+{{Icon Name|Migrating Jelly Whisperer|outfit|real}} {{!}} The Outfit
+|widths=125|spacing=small|captionalign=center|mode=nolines}}
+
+===[[Migration Guide|Migration Guide]]===
+{{#lst:Migration Guide|Summary}}
+{{#tag:gallery
+|{{Icon Name|Migration Guide|necklace_u|real}} {{!}} Ultimate Necklace
+{{Icon Name|Migration Guide|facepiece_u|real}} {{!}} Ultimate Hair Accessory
+{{Icon Name|Migration Guide|outfit_u|front}} {{!}} Ultimate Outfit
+{{Icon Name|Migration Guide|shoes_u|real}} {{!}}  Ultimate Shoes
+|widths=125|spacing=small|captionalign=center|mode=nolines}}
+
+==Price Charts==
+Use the [[Seasonal Events/Calculator|Event Calculator]] to verify the status of your Candle count.
+{| class="article-table"
+! Spirits
+! colspan="6" | Candle Cost
+! Total Seasonal Candles
+|-
+|Migrating Bird Whisperer
+|{{#vardefineecho:A1|  }}
+|{{#vardefineecho:A2|  }}
+|{{#vardefineecho:A3|  }}
+|{{#vardefineecho:A4|  }}
+|{{#vardefineecho:A5|  }}
+|3*
+|{{Cost| {{#vardefineecho:Asum| {{#expr: {{#var:A1}} + {{#var:A2}} + {{#var:A3}} + {{#var:A4}} + {{#var:A5}} + 3 }} }} SC|season=Migration}}
+|-
+|Migrating Bellmaker
+|{{#vardefineecho:B1|  }}
+|{{#vardefineecho:B2|  }}
+|{{#vardefineecho:B3|  }}
+|{{#vardefineecho:B4|  }}
+|{{#vardefineecho:B5|  }}
+|3*
+|{{Cost| {{#vardefineecho:Bsum| {{#expr: {{#var:B1}} + {{#var:B2}} + {{#var:B3}} + {{#var:B4}} + {{#var:B5}} + 3 }} }} SC|season=Migration}}
+|-
+|Migrating Manta Whisperer
+|{{#vardefineecho:C1|  }}
+|{{#vardefineecho:C2|  }}
+|{{#vardefineecho:C3|  }}
+|{{#vardefineecho:C4|  }}
+|{{#vardefineecho:C5|  }}
+|3*
+|{{Cost| {{#vardefineecho:Csum| {{#expr: {{#var:C1}} + {{#var:C2}} + {{#var:C3}} + {{#var:C4}} + {{#var:C5}} + 3 }} }} SC|season=Migration}}
+|-
+|Migrating Butterfly Charmer
+|{{#vardefineecho:D1|  }}
+|{{#vardefineecho:D2|  }}
+|{{#vardefineecho:D3|  }}
+|{{#vardefineecho:D4|  }}
+|{{#vardefineecho:D5|  }}
+|3*
+|{{Cost| {{#vardefineecho:Dsum| {{#expr: {{#var:D1}} + {{#var:D2}} + {{#var:D3}} + {{#var:D4}} + {{#var:D5}} + 3 }} }} SC|season=Migration}}
+|-
+|Migrating Jelly Whisperer
+|{{#vardefineecho:E1|  }}
+|{{#vardefineecho:E2|  }}
+|{{#vardefineecho:E3|  }}
+|{{#vardefineecho:E4|  }}
+|{{#vardefineecho:E5|  }}
+|3*
+|{{Cost| {{#vardefineecho:Dsum| {{#expr: {{#var:E1}} + {{#var:E2}} + {{#var:E3}} + {{#var:E4}} + {{#var:E5}} + 3 }} }} SC|season=Migration}}
+|-
+! colspan="7" | Total for Season
+! {{Cost| {{#expr: {{#var:Asum}} + {{#var:Bsum}} + {{#var:Csum}} + {{#var:Dsum}} }} + + {{#var:Esum}} }} SC|season=Migration}}
+|}<small>''* Only available with [[Season Pass]] (Seasonal Hearts) (subtract when calculating without)''</small>
+
+<!--
+==Trivia==
+*Trivia 1
+*Trivia 2
+*Trivia 3
+-->
+==Video Gallery==
+{{#ev:youtube|F-MIVbqeLTk|300|inline|Season of Migration Teaser}}
+
+==Image Gallery==
+<gallery widths="125" spacing="small" captionalign="center" >
+Season-of-Migration-Teaser-image.png
+Season-of-Migration-Promo-Image-1.png
+Season-of-Migration-Promo-Image-2.png
+Season-of-Migration-Promo-Image-3.png
+Season-of-Migration-Promo-Image-4.png
+Season-of-Migration-Promo-Image-5.png
+Season-of-Migration-Promo-Image-6.png
+</gallery>
+
+==References==
+<references />
+
+{{Seasonal Navbox}}
+
+{{DEFAULTSORT:Migration, Season of}}
+
+----
+=MIGRATING BIRD WHISPERER DRAFT=
+{{Beta}}
+{{WIP|pagetype = spirit}}
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = Migrating-Bird-Whisperer-cutout.png
+|cosmetics = {{Spirit Item|Migrating Bird Whisperer|Outfit|infobox}}<!--
+-->{{Spirit Item|Migrating Bird Whisperer|Cape|infobox}} 
+|season    = Season of Migration
+|realm     = Forest
+|location  = Wind Paths
+|ts        = None
+}}
+<section begin="Summary" />The Migrating Bird Whisperer is a [[Seasonal Spirit]] from the [[Season of Migration]] who offers the {{Emote|Migrating Bird Whisperer|inline_text}} Expression. The Migrating Bird Whisperer is found in the [[Wind Paths]], at the top of a floating island, left of the main island. The collectibles [[#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Migrating Bird Whisperer|Outfit|inline_text}} and a {{Spirit Item|Migrating Bird Whisperer|Cape|inline_text}}.<section end="Summary" /><br>
+<br><!--
+[[File:Migrating-Bird-promo-image.png|none|thumb|320px|TGC's Promo image]]-->
+
+== Memory ==
+<!--<div>{{#ev:youtube|YoutubeID|200px|inline|Video Guide}}
+
+-->The Migrating Bird Whisperer can be found in the [[Wind Paths]], at the top of a floating island, left of the main island. This Spirit has a [[Standard Memory|standard memory]] with 7 memory fragments.
+
+As their memory unfolds, the Migrating Bird Whisperer can be seen sitting in the gras alongside the [[Light Whisperer]], watching [[Birds]] fly by. Suddenly, the Spirits jump to their feet as they spot an injured Bird, separated from the flock, just above their island. The Migrating Bird Whisperer quickly runs towards the Bird and gently catches it. They bring it to the base of the small island, inside the Light Whisperer's workshop, where they carefully placd the Bird on a pillow. After some rest, the Spirits bring the Bird outside and let it fly free, where it is welcomed by their flock. Uplifted by their good deed, the Bird Whisperer frolicks across the field, before they stop and watch the swarm fly away, touched by this wonderful moment.
+
+At the end of the memory, the Migrating Bird Whisperer happily runs across the grass before watching the huge swarm of Birds fly across the sky, completely in awe. Touched by this wonderful moment, they place their hands above their heart.
+</div>
+{{Clear}}
+
+==<span id="Expression">Expression</span>==
+This Spirit offers the {{Emote|Migrating Bird Whisperer|inline_text}} [[Expression]], which has 4 Levels. Level 1 is free and Level 3 is offered for {{Cost|24 SC|season=Season of Migration}} to all players. Level 2 and 4 are available for [[Season Pass]] holders exclusively.
+
+[[File:{{Icon Name||emote}}|x170px|left]]<!--
+<gallery heights="125" captionalign="center">
+Migrating-Bird-Whisperer-emote-level-1.gif|{{Icon Name|Migrating Bird Whisperer|emote_name}} Level 1
+Migrating-Bird-Whisperer-emote-level-2.gif|{{Icon Name|Migrating Bird Whisperer|emote_name}} Level 2
+Migrating-Bird-Whisperer-emote-level-3.gif|{{Icon Name|Migrating Bird Whisperer|emote_name}} Level 3
+Migrating-Bird-Whisperer-emote-level-4.gif|{{Icon Name|Migrating Bird Whisperer|emote_name}} Level 4
+</gallery>-->
+*Level 1 will make your avatar hold out their arms straight to each side and relax their eyes. This Expression will temporarily replace your basic walk and can be canceled by jumping or flying up once. When moved, your avatar will run around while slightly swaying their arms up and down.
+*Level 2 makes the same motion as Level 1 with trails of small golden sparkles following the avatar's hands.
+*Level 3 makes the same motion as Level 1, except that the motion is slower and the avatar flaps their arms up and down, as if imitating a butterfly.
+*Level 4 makes the same motion as Level 3 with sparkles appearing at the hands during the initial motion and yellow glowing lights trailing them with each flap.
+<!--As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Heart|4}}, {{Heart|3}}, and {{Heart|6}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.-->
+
+==Cosmetics==
+===<span id="Outfit">Outfit</span>===
+The [[Outfit]] offered by this Spirit is a long teal dress with elbow-length sleeves. The front of the skirt features a wide scalloped notch at the bottom, revealing an underskirt. The scallop and sleeve-ends are outlined with triangle-shaped patterns. The dress has a v-necked high collar, and golden bands around one ankle. <!--description by Ozotronic--> It is offered to all players for {{Cost|30 SC|season=Season of Migration}} during the Season.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Migrating Bird Whisperer|Outfit|icon}} {{!}} The Outfit icon
+{{Icon Name|Migrating Bird Whisperer|Outfit|real}} {{!}} The Outfit front
+{{Icon Name|Migrating Bird Whisperer|Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Cape">Cape</span>===
+The [[Cape]] offered by this Spirit is asymmetrical, with a feathered edge and a decorative upper layer slung around the shoulders. The shoulder cloth is orange with a squared off zig-zag trim in yellow. <!--description by Ozotronic-->It is a [[Season Pass]] exclusive item during the Season.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Migrating Bird Whisperer|Cape|icon}} {{!}} The Cape icon
+{{Icon Name|Migrating Bird Whisperer|Cape|front}} {{!}} The Cape front
+{{Icon Name|Migrating Bird Whisperer|Cape|interior}} {{!}} The Cape interior
+{{Icon Name|Migrating Bird Whisperer|Cape|back}} {{!}} The Cape back
+{{Icon Name|Migrating Bird Whisperer|Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+<!--   ONLY APPLICABLE ONCE SPIRIT HAS BECOME A TRAVELING SPIRIT 
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling
+|ts_dates=*June 19, 2019 (#01)
+*June 19, 2020 (#02)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Migrating Bird Whisperer
+|image = 
+|season = Migration
+
+|nodeC6 = Outfit 60 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Mask 30 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+The hints given before the Migrating Bird Whisperer's first appearance were: 
+{{Collapse
+|label=First Visit Hints
+|content=<div>
+*  [ hints can be on the official Sky Discord which are posted a few days before the traveling spirit by staff of thatgamecompany. ]
+</div>
+}}
+
+-->
+<!--   USE VARIABLES TO CONSTRUCT FRIENDSHIP TREE
+Cosmetics: Outfit Cape Hair Hairpiece Headpiece Facepiece Mask Necklace Outfit Shoes Instrument Prop 
+Expressions; emote emote1 emote2 emote3 emote4 
+Cost: SP for Season Pass, SC for Season Candles, C for Candle, H for Heart, free for Free
+Other: spell5 spellx heart season_heart #Quest #1 
+-->
+==Season Friendship Tree ==
+{{Friendship Tree Info | season| season=Season of Migration}}<br><br>
+{{Mbox
+|type=moderate
+|header=New Friendship Tree System
+|image=Reassuring-Ranger-Action-icon-Credit-Morybel.png
+|text=With the Season of Migration, TGC introduced a [https://www.thatskygame.com/news/the-season-of-migration-is-upon-us new Friendship Tree system]; instead of unlocking items through a single linear path, players can now spend time with Spirits to build Friendship. '''A template to display this new system on the Spirit pages is in the works and will be added soon.''' Thank you for your patience!
+}}
+
+==References==
+<references />
+----
+=MIGRATING BELLMAKER PAGE DRAFT=
+{{Beta}}
+{{WIP|pagetype = spirit}}
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Call
+|image     = Migrating-Bellmaker-cutout.png
+|cosmetics = {{Spirit Item|Migrating Bellmaker|Hair|infobox}}<!--
+-->{{Spirit Item|Migrating Bellmaker|Cape|infobox}} 
+|music     = {{Music Sheet|#}}
+|season    = Season of Migration
+|realm     = Forest
+|location  = Wind Paths
+|ts        = None
+}}
+<section begin="Summary" />The Migrating Bellmaker is a [[Seasonal Spirit]] from the [[Season of Migration]] who offers the {{Call|Migrating Bellmaker|inline_text}} Expression. The Migrating Bellmaker is found in the Hidden Forest, (Describe where to find the spirit). The collectibles [[#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Migrating Bellmaker|Hair|inline_text}}, a {{Spirit Item|Migrating Bellmaker|Cape|inline_text}}, and the {{Music Sheet|#|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Migration-Ultimate-Guide-TGC-promo-image.png|none|thumb|320px|TGC's Promo image]]<!--
+
+== Memory ==
+<!--<div>{{#ev:youtube|YoutubeID|200px|inline|Video Guide}}-- >
+
+The Migrating Bellmaker can be found <describe location>. This Spirit is a [[Standard Memory|standard memory]] quest with <number> memory fragments. 
+
+As their memory unfolds, the Spirit(s) is/are seen <describe other spirits in memory>.
+
+At the end of the memory, <describe how spirit uses the emote>.
+</div>
+{{Clear}}
+-->
+== <span id="Expression">Call</span> ==
+This Spirit offers the {{Emote|Migrating Bellmaker|inline_text}}, which modifies the player's voice to a distorted, rippling voice.
+
+[[File:{{Icon Name|Migrating Bellmaker|emote}}|x170px|left]]
+<!--[[File:Migrating-Bellmaker-call-emote.mp4|300px]]-->
+{{Clear}}
+
+==Cosmetics==
+===<span id="Hair">Hair</span>===
+The [[Hair]] offered by this Spirit is a voluminous medium-length hair with a cloth headband and small side braid. The headband rests on the forehead and has a squared-off chevron pattern. <!--description by Ozotronic-->It is offered to all players for {{Cost|23 SC|season=Season of Migration}} during the Season.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Migrating Bellmaker|Hair|icon}} {{!}} The Hair icon
+{{Icon Name|Migrating Bellmaker|Hair|real}} {{!}} The Hair 
+{{Icon Name|Migrating Bellmaker|Hair|side}} {{!}} The Hair side
+{{Icon Name|Migrating Bellmaker|Hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Head accessory">Head Accessory</span>===
+The [[Head Accessory]] offered by this Spirit are a pair of round, brown glasses. The front of the arms have small diamond decorations. <!--description by Ozotronic-->It is a [[Season Pass]] exclusive item during the Season.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Migrating Bellmaker|Headpiece|icon}} {{!}} The Head accessory icon
+{{Icon Name|Migrating Bellmaker|Headpiece|real}} {{!}} The Head accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Cape">Cape</span>===
+The [[Cape]] offered by this Spirit is a thick fur-trimmed cape with multi-colored segments. The orange-red underlayer has a wavy shape that droops at the front, hemmed in a yellow squared-off zig zag. The blue upper layer draws down at the neck, and forms a thick tail at the back. The fluffy collar is tipped in golden, bell-shaped ornaments. <!--description by Ozotronic-->It is offered to all players for {{Cost|36 SC|season=Season of Migration}} during the Season.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Migrating Bellmaker|Cape|icon}} {{!}} The Cape icon
+{{Icon Name|Migrating Bellmaker|Cape|front}} {{!}} The Cape front
+{{Icon Name|Migrating Bellmaker|Cape|interior}} {{!}} The Cape interior
+{{Icon Name|Migrating Bellmaker|Cape|back}} {{!}} The Cape back
+{{Icon Name|Migrating Bellmaker|Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+==<span id="Music">Music Sheet</span>==
+The Migrating Bellmaker offers the {{Music Sheet|45}} [[Music Sheet]] #45. It is offered to all players for {{Cost|17 SC|season=Season of Migration}} during the Season.
+
+<!--   ONLY APPLICABLE ONCE SPIRIT HAS BECOME A TRAVELING SPIRIT 
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling
+|ts_dates=*June 19, 2019 (#01)
+*June 19, 2020 (#02)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Migrating Bellmaker
+|image = 
+|season = Migration
+
+|nodeC6 = Outfit 60 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Mask 30 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+The hints given before the Migrating Bellmaker's first appearance were: 
+{{Collapse
+|label=First Visit Hints
+|content=<div>
+*  [ hints can be on the official Sky Discord which are posted a few days before the traveling spirit by staff of thatgamecompany. ]
+</div>
+}}
+
+-->
+<!--   USE VARIABLES TO CONSTRUCT FRIENDSHIP TREE
+Cosmetics: Outfit Cape Hair Hairpiece Headpiece Facepiece Mask Necklace Outfit Shoes Instrument Prop 
+Expressions; emote emote1 emote2 emote3 emote4 
+Cost: SP for Season Pass, SC for Season Candles, C for Candle, H for Heart, free for Free
+Other: spell5 spellx heart season_heart #Quest #1 
+-->
+==Season Friendship Tree ==
+{{Friendship Tree Info | season| season=Season of Migration}}<br><br>
+{{Mbox
+|type=moderate
+|header=New Friendship Tree System
+|image=Reassuring-Ranger-Action-icon-Credit-Morybel.png
+|text=With the Season of Migration, TGC introduced a [https://www.thatskygame.com/news/the-season-of-migration-is-upon-us new Friendship Tree system]; instead of unlocking items through a single linear path, players can now spend time with Spirits to build Friendship. '''A template to display this new system on the Spirit pages is in the works and will be added soon.''' Thank you for your patience!
+}}
+
+==Personality==
+On October 19, 2025, TGC officially announced and introduced the Migration Guide with the following personality traits:
+
+*🌬️ Converses with the wind as if it’s an old friend
+*😶 Trusts silence more than speech
+*🎶 Loves to whistle while tending to the herd
+*🪨 Carves secret maps onto stones for fun
+
+==References==
+<references />
+----
+=MIGRATING MANTA WHISPERER PAGE DRAFT=
+{{WIP|pagetype = spirit}}
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Action
+|image     = Migrating-Manta-Whisperer-cutout.png
+|cosmetics = {{Spirit Item|Migrating Manta Whisperer|Outfit|infobox}}<!--
+-->{{Spirit Item|Migrating Manta Whisperer|Hair|infobox}}<!--
+-->{{Spirit Item|Migrating Manta Whisperer|Cape|infobox}}
+|season    = Season of Migration
+|realm     = Forest
+|location  = Wind Paths
+|ts        = None
+}}
+<section begin="Summary" />The Migrating Manta Whisperer is a [[Seasonal Spirit]] from the [[Season of Migration]] who offers the {{Emote|Migrating Manta Whisperer|inline_text}} Expression. The Migrating Manta Whisperer is found in the [[Wind Paths]], on top of a high mountain at the right and back of the area, near the [[Talented Builder]]. The collectibles [[#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Migrating Manta Whisperer|Outfit|inline_text}}, a {{Spirit Item|Migrating Manta Whisperer|Hair|inline_text}}, and a {{Spirit Item|Migrating Manta Whisperer|Cape|inline_text}}.<section end="Summary" /><br>
+<br><!--
+[[File:Migrating-Manta-Whisperer-Promo-art.png|none|thumb|320px|TGC's Promo image]]-->
+
+== Memory ==
+<!--<div>{{#ev:youtube|YoutubeID|200px|inline|Video Guide}}-->
+
+The Migrating Manta Whisperer can be found in the [[Wind Paths]], on top of a high mountain at the right and back of the area, near the [[Talented Builder]], by a gate above the chime workshop. This Spirit has a [[Standard Memory|standard memory]] with 8 memory fragments.
+
+{{WIP}}<!--As their memory unfolds, the Spirit(s) is/are seen <describe other spirits in memory>.-->
+
+At the end of the memory, the Migrating Manta Whisperer strikes a pose while navigating the Spirits with the flags. Shortly after, they applaude the Backflipping Champion and Proud Victor, which bow in return. Then, they turns around to see a swarm of Mantas fly across the area, quietly stunning the Spirits with their beautiful presence.
+</div>
+{{Clear}}
+
+==<span id="Expression">Expression</span>==
+This Spirit offers the {{Emote|Migrating Manta Whisperer|inline_text}} [[Expression]], which has 4 Levels. Level 1 is free and Level 3 is offered for {{Cost|24 SC|season=Season of Migration}} to all players. Level 2 and 4 are available for [[Season Pass]] holders exclusively.
+
+[[File:{{Icon Name||emote}}|x170px|left]]<!--
+<gallery heights="125" captionalign="center">
+Migrating-Manta-Whisperer-emote-level-1.gif|{{Icon Name|Migrating Manta Whisperer|emote_name}} Level 1
+Migrating-Manta-Whisperer-emote-level-2.gif|{{Icon Name|Migrating Manta Whisperer|emote_name}} Level 2
+Migrating-Manta-Whisperer-emote-level-3.gif|{{Icon Name|Migrating Manta Whisperer|emote_name}} Level 3
+Migrating-Manta-Whisperer-emote-level-4.gif|{{Icon Name|Migrating Manta Whisperer|emote_name}} Level 4
+</gallery>-->
+*Level 1 will make your avatar hold two red, hand-held flags into the air, then widen the V-shape of their arms, look around, and finally jump and wave the flags behind them, after which they are leaned close to the ground and peek up. With each motion, a whistle sound effect plays.
+*Level 2 makes the same motion as Level 1 with golden sparkles following the avatar's hands, as well as a circle appearing above their head, differently-colored with each motion; first red, then yellow, and lastly green.
+*Level 3 will make your avatar strike flag signaling poses in different directions according to which buttons you press on a pop-up menu. This pop-up menu is identical to the menu used by the player to hit specific notes when playing an [[Instrument]].
+*Level 4 makes the same motion as Level 3 with white glowing halos appearing around the avatar's hands with each pose.
+<!--As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Heart|4}}, {{Heart|3}}, and {{Heart|6}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.-->
+
+==Cosmetics==
+===<span id="Outfit">Outfit</span>===
+The [[Outfit]] offered by this Spirit is a white and gold sleeveless top and knee-high boots. A shoulder sash tucks loosely into the slim-fitting pants. Decorative bands wrap around the upper arm, and manta-shaped ornaments hang from a belt chain. <!--Description by Ozotronic-->It is a [[Season Pass]] exclusive item during the Season.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Migrating Manta Whisperer|Outfit|icon}} {{!}} The Outfit icon
+{{Icon Name|Migrating Manta Whisperer|Outfit|real}} {{!}} The Outfit front
+{{Icon Name|Migrating Manta Whisperer|Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Hair">Hair</span>===
+The [[Hair]] offered by this Spirit is a tall mohawk with a braided tail. The braid is wrapped in an orange cord and the end is shaped like a manatee's tail. Manta-shaped tattoos adorn one of the shaved sides. <!--description by Ozotronic-->It is offered to all players for {{Cost|23 SC|season=Season of Migration}} during the Season.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Migrating Manta Whisperer|Hair|icon}} {{!}} The Hair icon
+{{Icon Name|Migrating Manta Whisperer|Hair|real}} {{!}} The Hair 
+{{Icon Name|Migrating Manta Whisperer|Hair|side}} {{!}} The Hair side
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Cape">Cape</span>===
+The [[Cape]] offered by this spirit is a flared shoulder armor with two prominent tails. Each tail consists of one white strip, trimmed in gold, underneath a shorter red strip. <!--description by Ozotronic-->It is a [[Season Pass]] exclusive item during the Season.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Migrating Manta Whisperer|Cape|icon}} {{!}} The Cape icon
+{{Icon Name|Migrating Manta Whisperer|Cape|front}} {{!}} The Cape front
+{{Icon Name|Migrating Manta Whisperer|Cape|interior}} {{!}} The Cape interior
+{{Icon Name|Migrating Manta Whisperer|Cape|back}} {{!}} The Cape back
+{{Icon Name|Migrating Manta Whisperer|Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+<!--   ONLY APPLICABLE ONCE SPIRIT HAS BECOME A TRAVELING SPIRIT 
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling
+|ts_dates=*June 19, 2019 (#01)
+*June 19, 2020 (#02)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Migrating Manta Whisperer
+|image = 
+|season = Migration
+
+|nodeC6 = Outfit 60 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Mask 30 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+The hints given before the Migrating Manta Whisperer's first appearance were: 
+{{Collapse
+|label=First Visit Hints
+|content=<div>
+*  [ hints can be on the official Sky Discord which are posted a few days before the traveling spirit by staff of thatgamecompany. ]
+</div>
+}}
+
+-->
+<!--   USE VARIABLES TO CONSTRUCT FRIENDSHIP TREE
+Cosmetics: Outfit Cape Hair Hairpiece Headpiece Facepiece Mask Necklace Outfit Shoes Instrument Prop 
+Expressions; emote emote1 emote2 emote3 emote4 
+Cost: SP for Season Pass, SC for Season Candles, C for Candle, H for Heart, free for Free
+Other: spell5 spellx heart season_heart #Quest #1 
+-->
+==Season Friendship Tree ==
+{{Friendship Tree Info | season| season=Season of Migration}}<br><br>
+{{Mbox
+|type=moderate
+|header=New Friendship Tree System
+|image=Reassuring-Ranger-Action-icon-Credit-Morybel.png
+|text=With the Season of Migration, TGC introduced a [https://www.thatskygame.com/news/the-season-of-migration-is-upon-us new Friendship Tree system]; instead of unlocking items through a single linear path, players can now spend time with Spirits to build Friendship. '''A template to display this new system on the Spirit pages is in the works and will be added soon.''' Thank you for your patience!
+}}
+
+==References==
+<references />
+----
+=MIGRATING BUTTERFLY CHARMER PAGE DRAFT=
+{{WIP|pagetype = spirit}}
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Action
+|image     = Migrating-Butterfly-Charmer-cutout.png
+|cosmetics = {{Spirit Item|Migrating Butterfly Charmer|Facepiece|infobox}}<!--
+-->{{Spirit Item|Migrating Butterfly Charmer|Hair|infobox}}
+|season    = Season of Migration
+|realm     = Forest
+|location  = Wind Paths
+|ts        = None
+}}
+<section begin="Summary" />The Migrating Butterfly Charmer is a [[Seasonal Spirit]] from the [[Season of Migration]] who offers the {{Emote|Migrating Butterfly Charmer|inline_text}} Expression. The Migrating Butterfly Charmer is found in the [[Wind Paths]], on the main island, right of the [[Flight Guide]], on a ledge near a dock. The collectibles [[#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Migrating Butterfly Charmer|Facepiece|inline_text}} and a {{Spirit Item|Migrating Butterfly Charmer|Cape|inline_text}}.<section end="Summary" /><br>
+<br><!--
+[[File:Migrating-Butterfly-Charmer-Promo-art.png|none|thumb|320px|TGC's Promo image]]-->
+
+== Memory ==
+<!--<div>{{#ev:youtube|YoutubeID|200px|inline|Video Guide}}-->
+
+The Migrating Butterfly Charmer can be found in the [[Wind Paths]], on the main island, right of the [[Flight Guide]], on a ledge near a flying-boat dock. This Spirit has a [[Standard Memory|standard memory]] with 8 memory fragments. 
+
+As their memory unfolds, the Migrating Butterfly Charmer can be seen in the middle of a solo picnic, as a [[Butterfly]] flies onto their arm, startling the Spirit. The Butterfly flies off and the Spirit stumbles after them. After a bit of a chase, the Spirit comes across a big swarm of more Butterflies, joined by the one they just followed. Fascinated, the Migrating Butterfly Charmer follows the swarm down the hill, completely in focus. The Spirit attempts to reach the Butterflies by jumping up, but instead they stumble further down the hill, which they eventually tumble down. At the foot of the hill, the Spirit sits on the ground, dizzy from their turbulous journey, but happily surrounded by Butterflies.
+
+At the end of the memory, the Migrating Butterfly Charmer sits on the ground while their head turns from dizzyness. They shake it out and stand back up, to surprisingly see an even bigger swarm of Butterflies flying up into the sky near them. Happy about such a special moment, they raise up their arms and take in the scenery.
+</div>
+{{Clear}}
+
+==<span id="Expression">Expression</span>==
+This Spirit offers the {{Emote|Migrating Butterfly Charmer|inline_text}} [[Expression]], which has 4 Levels. Level 1 is free and Level 3 is offered for {{Cost|24 SC|season=Season of Migration}} to all players. Level 2 and 4 are available for [[Season Pass]] holders exclusively.
+
+[[File:{{Icon Name||emote}}|x170px|left]]<!--
+<gallery heights="125" captionalign="center">
+Migrating-Butterfly-Charmer-emote-level-1.gif|{{Icon Name|Migrating Butterfly Charmer|emote_name}} Level 1
+Migrating-Butterfly-Charmer-emote-level-2.gif|{{Icon Name|Migrating Butterfly Charmer|emote_name}} Level 2
+Migrating-Butterfly-Charmer-emote-level-3.gif|{{Icon Name|Migrating Butterfly Charmer|emote_name}} Level 3
+Migrating-Butterfly-Charmer-emote-level-4.gif|{{Icon Name|Migrating Butterfly Charmer|emote_name}} Level 4
+</gallery>-->
+*Level 1 will make your avatar slowly circle their body while trying to balance themselves with their arms, as if they were dizzy, while high-pitched swaying sound effects play. This action is continued for as long as you don't move your avatar. Upon doing so, the avatar will stop swaying and only turn their head one last time.
+*Level 2 makes the same motion as Level 1 with a golden star and a sparkle trail replicating the avatar's circle motions above their head.
+*Level 3 will make your avatar strumble forward and backward, their head and arms swaying out of balance, before they fall to the ground and stay there as their head turns around in circles, while swaying whistle sound effects play. This action is continued for as long as you don't move your avatar. Upon doing so, the avatar will shake their head out and stand up, still a bit out of balance.
+*Level 4 makes the same motion as Level 3 with a yellow star and two colorful glowing trails replicating the circling motion above the player's head.
+<!--As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Heart|4}}, {{Heart|3}}, and {{Heart|6}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.-->
+
+==Cosmetics==
+===<span id="Face accessory">Face Accessory</span>===
+The [[Face Accessory]] offered by this Spirit is a pair of curled bug antennae with yellow, glowing tips. <!--description by Ozotronic-->It is a [[Season Pass]] exclusive item during the Season.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Migrating Butterfly Charmer|Facepiece|icon}} {{!}} The Face Accessory icon
+{{Icon Name|Migrating Butterfly Charmer|Facepiece|real}} {{!}} The Face Accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Cape">Cape</span>===
+The [[Cape]] offered by this Spirit is an orange cape with a scalloped edge and collar. The hem is patterned with yellow teardrops, and crescents that follow the edge. The collar is a deeper orange, and also scalloped. The interior has a scalloped gradient. <!--description by Ozotronic-->It is offered to all players for {{Cost|30 SC|season=Season of Migration}} during the Season.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Migrating Butterfly Charmer|Cape|icon}} {{!}} The Cape icon
+{{Icon Name|Migrating Butterfly Charmer|Cape|front}} {{!}} The Cape front
+{{Icon Name|Migrating Butterfly Charmer|Cape|interior}} {{!}} The Cape interior
+{{Icon Name|Migrating Butterfly Charmer|Cape|back}} {{!}} The Cape back
+{{Icon Name|Migrating Butterfly Charmer|Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+<!--   ONLY APPLICABLE ONCE SPIRIT HAS BECOME A TRAVELING SPIRIT 
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling
+|ts_dates=*June 19, 2019 (#01)
+*June 19, 2020 (#02)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Migrating Butterfly Charmer
+|image = 
+|season = season
+
+|nodeC6 = Outfit 60 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Mask 30 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+The hints given before the Migrating Butterfly Charmer's first appearance were: 
+{{Collapse
+|label=First Visit Hints
+|content=<div>
+*  [ hints can be on the official Sky Discord which are posted a few days before the traveling spirit by staff of thatgamecompany. ]
+</div>
+}}
+
+-->
+<!--   USE VARIABLES TO CONSTRUCT FRIENDSHIP TREE
+Cosmetics: Outfit Cape Hair Hairpiece Headpiece Facepiece Mask Necklace Outfit Shoes Instrument Prop 
+Expressions; emote emote1 emote2 emote3 emote4 
+Cost: SP for Season Pass, SC for Season Candles, C for Candle, H for Heart, free for Free
+Other: spell5 spellx heart season_heart #Quest #1 
+-->
+==Season Friendship Tree ==
+{{Friendship Tree Info | season| season=Season of Migration}}<br><br>
+{{Mbox
+|type=moderate
+|header=New Friendship Tree System
+|image=Reassuring-Ranger-Action-icon-Credit-Morybel.png
+|text=With the Season of Migration, TGC introduced a [https://www.thatskygame.com/news/the-season-of-migration-is-upon-us new Friendship Tree system]; instead of unlocking items through a single linear path, players can now spend time with Spirits to build Friendship. '''A template to display this new system on the Spirit pages is in the works and will be added soon.''' Thank you for your patience!
+}}
+
+==References==
+<references />
+----
+=MIGRATING JELLY WHISPERER PAGE DRAFT=
+{{WIP|pagetype = spirit}}
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Action
+|image     = Migrating-Jelly-Whisperer-cutout.png
+|cosmetics = {{Spirit Item|Migrating Jelly Whisperer|Outfit|infobox}}<!--
+-->{{Spirit Item|Migrating Jelly Whisperer|Headpiece|infobox}} 
+|season    = Season of Migration
+|realm     = Forest
+|location  = Wind Paths
+|ts        = None
+}}
+<section begin="Summary" />The Migrating Jelly Whisperer is a [[Seasonal Spirit]] from the [[Season of Migration]] who offers the {{Emote|Migrating Jelly Whisperer|inline_text}} Expression. The Migrating Jelly Whisperer is found in the [[Wind Paths]], on the main island, to the left of the [[Flight Guide]], behind an opening in the ground. The collectibles [[#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Migrating Jelly Whisperer|Outfit|inline_text}} and a {{Spirit Item|Migrating Jelly Whisperer|Hairpiece|inline_text}}.<section end="Summary" /><br>
+<br><!--
+[[File:Migrating-Jelly-Whisperer-Promo-art.png|none|thumb|320px|TGC's Promo image]]-->
+
+== Memory ==
+<!--<div>{{#ev:youtube|YoutubeID|200px|inline|Video Guide}}-->
+
+The Migrating Jelly Whisperer can be found in the [[Wind Paths]], on the main island, to the left of the [[Flight Guide]], behind an opening in the ground. This Spirit has a [[Standard Memory|standard memory]] with 9 memory fragments.
+
+As their memory unfolds, the Migrating Jelly Whisperer can be seen sneaking up on some [[Jellyfish]]. Once they're close, they climb up a ledge and jump into the middle of the unsuspecting Jellyfish flock, which immeditately scurry away, though not very far. The Whisperer watches as the Jellyfish leave, before the trying their luck again as they carefully follow the creatures to their new spot. This time, the Jellyfish spot the Spirit earlier, but as they begin to fly away, the Whisperer reaches out after them. The flock stops and turns around, coming back to the Migrating Jelly Whisperer. At last, their wish is granted as the flock lifts them up in the air, where the Spirit floats and dances amongst their newly found friends.
+
+At the end of the memory, the Migrating Jelly Whisperer stands by the Jellyfish, jumping and performing pirouettes in the air. They stop their joyous dance to watch another group of small and big Jellyfish pass by and fly high up into the sky.
+</div>
+{{Clear}}
+
+==<span id="Expression">Expression</span>==
+This Spirit offers the {{Emote|Migrating Jelly Whisperer|inline_text}} [[Expression]], which has 4 Levels. Level 1 is free and Level 3 is offered for {{Cost|24 SC|season=Season of Migration}} to all players. Level 2 and 4 are available for [[Season Pass]] holders exclusively.
+
+[[File:{{Icon Name||emote}}|x170px|left]]<!--
+<gallery heights="125" captionalign="center">
+Migrating-Jelly-Whisperer-emote-level-1.gif|{{Icon Name|Migrating Jelly Whisperer|emote_name}} Level 1
+Migrating-Jelly-Whisperer-emote-level-2.gif|{{Icon Name|Migrating Jelly Whisperer|emote_name}} Level 2
+Migrating-Jelly-Whisperer-emote-level-3.gif|{{Icon Name|Migrating Jelly Whisperer|emote_name}} Level 3
+Migrating-Jelly-Whisperer-emote-level-4.gif|{{Icon Name|Migrating Jelly Whisperer|emote_name}} Level 4
+</gallery>-->
+*Level 1 will make your avatar imitate a Jellyfish by jumping up and down, their feet pointed and their arms moving gracefully with each motion, while high-pitched tinkling sound effects play. After every second jump, the avatar will quickly turn around themselves once, before continuing to jump again. This action is continued for as long as you don't move your avatar.
+*Level 2 makes the same motion as Level 1 with blue orbs flying up from the arms with each jump and turn, as well as a pink glowing lines trailing around the avatar's body on the latter.
+*Level 3 will make your avatar dance on the spot, by smoothly moving their arms and knees in a fast-paced, wave-like motion, while an upbeat, laid-back melody plays.
+*Level 4 makes the same motion as Level 3 with white bubbles rising from the spot where the avatar stands.
+<!--As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Heart|4}}, {{Heart|3}}, and {{Heart|6}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.-->
+
+==Cosmetics==
+===<span id="Outfit">Outfit</span>===
+The [[Outfit]] offered by this Spirit is a square-neck top and apron over cinched shorts. The cap-sleeved top has a zig-zag crop that reveals a yellow undershirt. The waist cloth is apron-like, colored orange with blue and yellow edges. One wrist has golden bands, and the ankles feature leg scrunches with ball-shaped decorations. <!--description by Ozotronic-->It is a [[Season Pass]] exclusive item during the Season.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Migrating Jelly Whisperer|Outfit|icon}} {{!}} The Outfit icon
+{{Icon Name|Migrating Jelly Whisperer|Outfit|real}} {{!}} The Outfit front
+{{Icon Name|Migrating Jelly Whisperer|Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Head accessory">Hair Accessory</span>===
+The [[Hair Accessory]] offered by this Spirit is a pair of golden, dome-shaped earmuffs. The earmuffs are not connected by a headband. Each muff is lined with fur and features a pair of red and blue pointed ribbons attached to the center. <!--description by Ozotronic-->It is offered to all players for {{Cost|36 SC|season=Season of Migration}} during the Season.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Migrating Jelly Whisperer|Hairpiece|}} {{!}} The Hair Accessory icon
+{{Icon Name|Migrating Jelly Whisperer|Hairpiece|real}} {{!}} The Hair Accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+<!--   ONLY APPLICABLE ONCE SPIRIT HAS BECOME A TRAVELING SPIRIT 
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling
+|ts_dates=*June 19, 2019 (#01)
+*June 19, 2020 (#02)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Migrating Jelly Whisperer
+|image = 
+|season = season
+
+|nodeC6 = Outfit 60 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Mask 30 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+The hints given before the Migrating Jelly Whisperer's first appearance were: 
+{{Collapse
+|label=First Visit Hints
+|content=<div>
+*  [ hints can be on the official Sky Discord which are posted a few days before the traveling spirit by staff of thatgamecompany. ]
+</div>
+}}
+
+-->
+<!--   USE VARIABLES TO CONSTRUCT FRIENDSHIP TREE
+Cosmetics: Outfit Cape Hair Hairpiece Headpiece Facepiece Mask Necklace Outfit Shoes Instrument Prop 
+Expressions; emote emote1 emote2 emote3 emote4 
+Cost: SP for Season Pass, SC for Season Candles, C for Candle, H for Heart, free for Free
+Other: spell5 spellx heart season_heart #Quest #1 
+-->
+==Season Friendship Tree ==
+{{Friendship Tree Info | season| season=Season of Migration}}<br><br>
+{{Mbox
+|type=moderate
+|header=New Friendship Tree System
+|image=Reassuring-Ranger-Action-icon-Credit-Morybel.png
+|text=With the Season of Migration, TGC introduced a [https://www.thatskygame.com/news/the-season-of-migration-is-upon-us new Friendship Tree system]; instead of unlocking items through a single linear path, players can now spend time with Spirits to build Friendship. '''A template to display this new system on the Spirit pages is in the works and will be added soon.''' Thank you for your patience!
+}}
+
+==References==
+<references />
+----
+=MIGRATION GUIDE PAGE DRAFT=
+{{WIP|pagetype = spirit}}
+{{Guide Infobox
+|image     = Migration-Ultimate-Guide.png
+|type      = Seasonal
+|ultimates = {{Spirit Item|Migration Guide|outfit_u|infobox}}<!--
+-->{{Spirit Item|Migration Guide|shoes_u|infobox}}<!--
+-->{{Spirit Item|Migration Guide|hairpiece_u|infobox}}
+<!--|props     = {{Spirit Item|Migration Guide|prop_u|infobox}}-->
+|season    = Migration
+|location  = Isle
+}}
+<section begin="Summary" />The '''Migration Guide''' is a Seasonal Guide (also known as Quest Giver) from the [[Season of Migration]] who offers Quests and [[Migration Guide#Ultimate Gifts|cosmetics]]. The Migration Guide is found on the left side of [[Isle of Dawn]], at the Migration camp after the large hill at the start of the Realm. The Ultimate Guide offers a {{Spirit Item|Migration Guide|necklace_u|inline_text}}, an {{Spirit Item|Migration Guide|outfit_u|inline_text}}, {{Spirit Item|Migration Guide|shoes_u|inline_text}}, and a {{Spirit Item|Migration Guide|hairpiece_u|inline_text}} for [[Season Pass]] holders. <!--This Ultimate Guide also provides a new Prop in their Quest Tree, available to all players: a {{Spirit Item|Migration Guide|prop_u|inline_text}}.--><section end="Summary" /><br>
+<br>
+[[File:Migration-Ultimate-Guide-TGC-promo-image.png|none|thumb|300x300px|TGC's Promo image]]
+
+==<span id="Ultimate Pendant"><span id="Migration Ultimate Pendant">Seasonal Pendant</span></span>==
+The Migration Ultimate [[Necklaces|Pendant]] is the usual gold pendant featuring the Season's emblem attached to a necklace. It is a [[Season Pass]] exclusive item during the Season, available for free from the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Migration Guide|Necklace_u|icon}} {{!}} Migration Ultimate Pendant icon
+{{Icon Name|Migration Guide|Necklace_u|real}} {{!}} Migration Ultimate Pendant
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Ultimate Gifts==
+The Season of Migration offers 3 Ultimate Gifts, available to be purchased by [[Season Pass]] holders with [[Currency#Season Hearts|Seasonal Hearts]] during the Season of Migration only.
+
+===<span id="Ultimate Outfit">Migration Ultimate Outfit</span>===
+The [[Outfit]] offered by this Spirit is a short-sleeved top with high, bulky collar, and a pair of shorts with leggings underneath. The top and shorts are teal and fur-lined. A blue, orange-red, and yellow cloth is tied around the waist, securing an additional fringed white piece. Golden bands decorate the lower legs. <!--description by Ozotronic-->It is a [[Season Pass]] exclusive item during the Season, available to be purchased with {{Cost|2 SH|season=Migration}}.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Migration Guide|Outfit_u}} {{!}} Migration Ultimate Outfit icon
+{{Icon Name|Migration Guide|Outfit_u|front}} {{!}} Migration Ultimate Outfit front
+{{Icon Name|Migration Guide|Outfit_u|back}} {{!}} Migration Ultimate Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Ultimate Shoes">Migration Ultimate Shoes</span>===
+The [[Shoes]] offered by this Spirit are thick fur-lined boots with a deep tongue. <!--description by Ozotronic-->It is a [[Season Pass]] exclusive item during the Season, available to be purchased with {{Cost|1 SH|season=Migration}}.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Migration Guide|shoes_u}} {{!}} Migration Ultimate Shoes icon
+{{Icon Name|Migration Guide|shoes_u|real}} {{!}} Migration Ultimate Shoes
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Ultimate Face accessory">Migration Ultimate Face Accessory</span>===
+The [[Face Accessory]] offered by this Spirit is a wooden headpiece shaped like the snout of the Antlered Manatee. Two large antlers are secured to this with colorful strips of fabric. From the sides of the accessory are two pointed ribbons, one blue and one orange, hung from golden diamonds. <!--description by Ozotronic-->It is a [[Season Pass]] exclusive item during the Season, available to be purchased with {{Cost|2 SH|season=Migration}}.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Migration Guide|Facepiece_u}} {{!}} Migration Ultimate Face Accessory icon
+{{Icon Name|Migration Guide|Facepiece_u|real}} {{!}} Migration Ultimate Face Accessory 
+{{Icon Name|Migration Guide|Facepiece_u|front}} {{!}} Migration Ultimate Face Accessory lit
+|widths=125|captionalign=center|spacing=small
+}}
+
+<!--
+==Additional Cosmetics==
+Upon completing quests of the Migration, additional cosmetics are available to be collected for {{Candle}} [[Currency#Candles|regular candles]]<!--or {{Heart}} [[Currency#Hearts|hearts]]--> <!--through the Migration Guide's [[#Quest Tree|Quest Tree]]. '''All items remain in the Ultimate Guide's Quest Tree after the Season ends.'''-->
+<!--
+===Additional item 1===-->
+<!--The '''Additional item 1''' is available to be purchased for {{Cost|x C}} after completing the x Quest<!--[[Season of Migration#Quest #x|x Quest]].--> <!--DESCRIBE THE ADDITIONAL ITEM.<br>
+
+<br>
+{{#tag:gallery
+|{{Icon Name|Migration Guide|type_icon}} {{!}} Additional Item 1 icon
+{{Icon Name|Migration Guide|type_real}} {{!}} Additional Item 1
+|widths=125|captionalign=center|spacing=small
+}}-->
+
+==Friendship Tree==
+The Migration Guide's Friendship Tree is available to the right of the Quest Tree during the Season of Migration only. <!--(Post-Season:) Now that the Season is over, these cosmetics are no longer available.--><br><br>
+{{Mbox
+|type=moderate
+|header=New Friendship Tree System
+|image=Reassuring-Ranger-Action-icon-Credit-Morybel.png
+|text=With the Season of Migration, TGC introduced a [https://www.thatskygame.com/news/the-season-of-migration-is-upon-us new Friendship Tree system]; instead of unlocking items through a single linear path, players can now spend time with Spirits to build Friendship. '''A template to display this new system on the Spirit pages is in the works and will be added soon.''' Thank you for your patience!
+}}
+
+==Quest Tree==
+The Migration Guide's Quest Tree is available for all players to complete quests from the [[Season of Migration]]. Once you complete a quest, a heart is available to be collected for free during the Season of Migration.<!--(Post-Season (if applies):) Since the end of the Season, players completing these Quests for the first time have to pay 3 {{Candle}} to obtain these Hearts.--><br><br>
+{{Mbox
+|type=moderate
+|header=New Friendship Tree System
+|image=Reassuring-Ranger-Action-icon-Credit-Morybel.png
+|text=With the Season of Migration, TGC introduced a [https://www.thatskygame.com/news/the-season-of-migration-is-upon-us new Friendship Tree system]; instead of unlocking items through a single linear path, players can now spend time with Spirits to build Friendship. '''A template to display this new system on the Spirit pages is in the works and will be added soon.''' Thank you for your patience!
+}}
+
+==Personality==
+On October 19, 2025, TGC officially announced and introduced the Migration Guide with the following personality traits:
+
+*🪢 Mastered tying complex knots to repair torn fences
+*🧵 Is a skilled tailor
+*🌄 Likes to end the day with a swim as the sun sets
+*🛶 Secretly took the Migrating Bellmaker’s boat for a joy ride
+----
+{{Beta Navbox}}
+{{Seasonal Navbox}}
+{{Navigation Box}}
+[[Category:Sky Beta]]

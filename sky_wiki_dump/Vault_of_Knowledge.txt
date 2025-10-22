@@ -1,0 +1,352 @@
+{{Spoilers}} {{Quote|<br>'''Climb the Vault, its wisdom awaits.'''|Vault of Knowledge Opening}}
+{{Realm
+| image = Vault Thumbnail.png
+| previousRealm = [[Golden Wasteland]]
+| nextRealm = [[Eye of Eden]]
+| constellation = File:06_Vault_Constellation.png
+}}
+
+The Vault of Knowledge, a cool-toned vertical realm with cosmic architecture and variety of puzzles. It is the sixth realm the player visits, set almost entirely indoors with its difficulty significantly lesser than of [[Golden Wasteland]]. The Vault has 8 separated areas<ref>not including [[Hidden Forest#The Wind Paths|The Wind Paths]]</ref>, however the realm has physical 7 floors (excluding the side areas) each representing the previous realms.
+
+Vault of Knowledge contains 5 [[Regular Spirits]] and 18 [[Seasonal Spirits]]. Locations of all available Children of Light, who hold Winged Light, can be found within the [[Children of Light#Vault of Knowledge|Children of Light]] page.
+
+:''Within this article, each floor has been separated for reader clarity and understanding, however in-game Floor 1, 2, 3 and Floor 4, 5, 6 are two large vertical areas separated by loading screens.''
+
+==Social Space==
+[[File:Vault SocialSpace1.png|right|300px]]
+Similar to [[Isle of Dawn]], Vault also misses the regular features of a Social Space; a bonfire and a closet. However it does still feature a bench to chat with other players as well as Spirit Tombstones presenting the Regular Spirits currently relived in the current realm. To the left of where the player spawns is the entrance to the [[#Collaboration Room|Collaboration Room]], blocked by a Spirit Gate requiring 1 [[Regular Spirit]] from Vault to have been relived. Additionally, the entrance to the [[#Secret Area]] can be found to the left side. To the right is the entrance to the [[#Archives]], blocked by a two-player door as well as a Spirit Gate requiring 1 Regular Spirit from Vault to have been relived again.
+
+In the Social Space, players can find:
+* 1 [[Children of Light#Archives|Children of Light]]
+* 1 [[Map Shrine#Vault of Knowledge|Map Shrine]]
+
+===<span id="Office"><span id="The Office">Secret Area</span></span>===
+[[File:Vault SecretArea1.png|right|300px]]
+{{Main|Secret Area}}
+{{#lst:Secret Area|Summary}} Find out more in the [[Secret Area]] page.
+
+==The Archives==
+{{Main|The Archives}}
+
+[[File:Vault Archives1.png|right|300px]]
+{{#lst:The Archives|Summary}}
+
+In The Archives, players can find:
+* 2 [[Children of Light#Archives|Children of Light]]
+* 1 [[Map Shrine#Vault of Knowledge|Map Shrine]]
+* 1 [[Seasonal Spirits]] ({{Spirit|Wise Grandparent|Inline_text}})
+
+{{Mobile Tabber
+|tab1 = {{Emote|Wise Grandparent|tab}}
+|c1   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Wise Grandparent|Summary}} {{#lst:Wise Grandparent|TS Friendship Tree}}</div>
+|type1= seasonal
+}}
+
+==<span id="Collab Room">Collaboration Room</span>==
+{{Main|Collaboration Room}}[[File:Directions to collaboration room.gif|alt|150px|thumb|How to reach the "Collaboration Room"]]{{#lst:Collaboration Room|Summary}}
+{{Clear}}
+==Crescent Oasis==
+{{Main|Crescent Oasis}} [[File:Vault CrescentOasis1.png|right|300px]] {{#lst:Crescent Oasis|Quote}}
+{{#lst:Crescent Oasis|Summary}} Find out more in [[Crescent Oasis|its page]].
+
+In the Crescent Oasis, players can find:
+*3 [[Children of Light#Crescent Oasis|Children of Light]]
+*1 [[Map Shrine#Vault of Knowledge|Map Shrine]]
+*4 [[Seasonal Spirits]] ({{Spirit|Herb Gatherer|Inline_text}}, {{Spirit|Hunter|Inline_text}}, {{Spirit|Feudal Lord|Inline_text}}, {{Spirit|Princess|Inline_text}})
+
+{{#lst:Crescent Oasis|SpiritTabber}}
+
+==Starlight Desert==
+{{Main|Starlight Desert}} [[File:Vault StarlightDesert1.png|right|300px]]{{#lst:Starlight Desert|Quote}}
+{{#lst:Starlight Desert|Summary}} Find out more in [[Starlight Desert|its page]].
+
+In the Starlight Desert, players can find:
+*3 [[Children of Light#Starlight Desert|Children of Light]]
+*1 [[Map Shrine#Vault of Knowledge|Map Shrine]]
+*6 [[Seasonal Spirits]] ({{Spirit|Beckoning Ruler|Inline_text}},{{Spirit|Gloating Narcissist|Inline_text}},{{Spirit|Stretching Lamplighter|Inline_text}},{{Spirit|Slouching Soldier|Inline_text}},{{Spirit|Sneezing Geographer|Inline_text}},{{Spirit|Star Collector|Inline_text}})
+
+{{#lst:Starlight Desert|SpiritTabber}}
+
+===Sky Memorial===
+[[File:Vault StarlightDesert2.png|right|300px]] {{#lst:Starlight Desert|Memorial Quote}}
+{{#lst:Starlight Desert|Memorial}}
+
+==Moominvalley==
+{{Main|Moominvalley}} [[File:Moominvalley-Main.png|right|300px]]<br>
+
+{{#lst:Moominvalley|Summary}} Find out more in [[Moominvalley|its page]].
+
+In Moominvalley, players can find:
+* 1 [[Children of Light#Moominvalley|Child of Light]]
+*1 [[Map Shrine#Vault of Knowledge|Map Shrine]]
+*4 [[Seasonal Entities]] ({{Spirit|Comfort of Kindness|Inline_text}}, {{Spirit|Sense of Self|Inline_text}}, {{Spirit|Spirit of Adventure|Inline_text}}, {{Spirit|Inspiration of Inclusion|Inline_text}})
+
+{{#lst:Moominvalley|SpiritTabber}}
+
+==<span id="Floor One">First Floor</span>==
+<gallery widths="300" spacing="small" captionalign="center">
+Vault FloorOne1.png
+Vault FloorOne2.png
+</gallery>
+The First Floor is just past the social space and represents [[Isle of Dawn]], seen by the scattered dunes of sand around the chamber. In the center is an elevator structure surrounded by four lanterns. To the right are four diamonds laying on the ground that prompt the player to use the {{Emote|telekinesis|inline_text}} Expression. If four players use the Expression on the diamonds at once, the wall ahead opens up to lead to a circular area holding two Spirits. To the left is a chat bench with a sapling, as well as the entrance to the [[#Repository of Refuge|Repository of Refuge]], requiring '''one (1)''' Regular Spirit from Vault.
+
+To continue upwards to the next floor, light the four lanterns in the center to summon a meditation circle on the elevator. Sitting on it will ascend the player upwards to Floor 2.
+
+On the First Floor, players can find:
+<!--No Map Shrine nor Child of light. Social Space covers it-->
+*1 [[Regular Spirit]] ({{Spirit|Praying Acolyte|Inline_text}})
+*1 [[Seasonal Spirit]] ({{Spirit|Thoughtful Director|Inline_text}})
+
+{{Mobile Tabber
+|tab1 = {{Emote|Praying Acolyte|tab}}
+|c1   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Praying Acolyte|Summary}} {{#lst:Praying Acolyte|Friendship Tree}}</div>
+|type1= regular
+
+|line2= true
+|tab2 = {{Emote|Thoughtful Director|tab}}
+|c2   = <div> {{#ev:youtube|MWZ5RH7i5zM|400|right}} {{#lst:Thoughtful Director|Summary}} {{#lst:Thoughtful Director|TS Friendship Tree}}</div>
+|type2= seasonal
+}}
+
+==Repository of Refuge==
+{{Main|Repository of Refuge}} [[File:Vault RepositoryOfRefuge1.png|right|300px]] {{#lst:Repository of Refuge|Quote}}
+{{#lst:Repository of Refuge|Summary}} Find out more in [[Repository of Refuge|its page]].
+
+In the Repository of Refuge, players can find: 
+*1 [[Children of Light#Repository of Refuge|Children of Light]]
+*1 [[Map Shrine#Vault of Knowledge|Map Shrine]]
+*4 [[Seasonal Spirits]] ({{Spirit|Bereft Veteran|Inline_text}},{{Spirit|Tiptoeing Tea-Brewer|Inline_text}},{{Spirit|Pleading Child|Inline_text}},{{Spirit|Wounded Warrior|Inline_text}})
+
+{{#lst:Repository of Refuge|SpiritTabber}}
+
+==<span id="Floor Two">Second Floor</span>==
+[[File:Vault FloorTwo1.png|right|300px]] [[File:Vault FloorTwo2.png|right|300px]]
+
+The Second Floor represents [[Daylight Prairie]], and where the player first encounters the starry floor. The starry floor allows the player to float, and not fall down to the previous floor, while also recharge the player's light. On this floor, there a chamber blocked by a 4 player gate, requiring four players to simultaneously lift the door open. The chamber holds a single Spirit, various candles scattered around, and a table allowing players to chat with another.
+
+The floor itself contains floating platforms allowing players to reach and light the four lanterns found around the area, which summon floating diamonds to light in order to power up the elevator again and lead the player to the next floor.
+
+On the Second Floor, players can find:
+*1 [[Regular Spirit]] ({{Spirit|Levitating Adept|Inline_text}})
+{{clear}}
+{{Mobile Tabber
+|tab1 = {{Emote|Levitating Adept|tab}}
+|c1   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Levitating Adept|Summary}} {{#lst:Levitating Adept|Friendship Tree}}</div>
+|type1= regular
+}}
+
+== <span id="Floor Three">Third Floor</span>==
+[[File:Vault FloorThree1.png|right|300px]]
+This floor represents the [[Hidden Forest]], seen with the few trees that can be made on far platforms. It transitions away from the constrictions of the vault walls, opening it to the infinite void. The realm features geyser-like platforms, lifting and recharging the player once lit. Like the previous floors, to continue onto the next floor light the four lanterns on the upper platforms to summon 12 diamonds. Once these 12 are lit, the player can sit on the elevator to ascend to the next floor.
+
+On the Third Floor, players can find:
+* 1 [[Children of Light#Third Floor|Children of Light]]
+*1 [[Map Shrine#Vault of Knowledge|Map Shrine]]
+*1 [[Regular Spirit]] ({{Spirit|Polite Scholar|Inline_text}})
+
+{{Mobile Tabber
+|tab1 = {{Emote|Polite Scholar|tab}}
+|c1   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Polite Scholar|Summary}} {{#lst:Polite Scholar|Friendship Tree}}</div>
+|type1= regular
+}}
+
+== <span id="Floor Four">Fourth Floor</span> ==
+[[File:Vault FloorFour1.png|right|300px]]
+The fourth floor represents the [[Valley of Triumph]]. The stone buildings and mini coliseum resemble those found in the races. This floor contains waterfalls of light, stone islands, and a variety of floating platforms. To progress onwards, light the four lanterns on the [[Spirit Mantas]] roaming the floor. This serves as the first encounter of Spirit Mantas by the player.
+
+On the Fourth Floor, players can find:
+*2 [[Children of Light#Fourth Floor|Children of Light]]
+*1 [[Map Shrine#Vault of Knowledge|Map Shrine]]
+*2 [[Regular Spirits]] ({{Spirit|Memory Whisperer|Inline_text}},{{Spirit|Meditating Monastic|Inline_text}})
+*2 [[Seasonal Spirits]] ({{Spirit|Greeting Shaman|Inline_text}},{{Spirit|Shushing Light Scholar|Inline_text}})
+
+{{Mobile Tabber
+|tab1 = {{Emote|Memory Whisperer|tab}}
+|c1   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Memory Whisperer|Summary}} {{#lst:Memory Whisperer|Friendship Tree}}</div>
+|type1= regular
+
+|tab2 = {{Emote|Meditating Monastic|tab}}
+|c2   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Meditating Monastic|Summary}} {{#lst:Meditating Monastic|Friendship Tree}}</div>
+|type2= regular
+
+|line3= true
+|tab3 = {{Emote|Greeting Shaman|tab}}
+|c3   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Greeting Shaman|Summary}} {{#lst:Greeting Shaman|TS Friendship Tree}}</div>
+|type3= seasonal
+
+|tab4 = {{Emote|Shushing Light Scholar|tab}}
+|c4   = <div> {{#ev:youtube|09QH7xH003Q|400|right}} {{#lst:Shushing Light Scholar|Summary}} {{#lst:Shushing Light Scholar|TS Friendship Tree}}</div>
+|type4= seasonal
+}}
+
+==<span id="Floor Five">Fifth Floor</span>==
+[[File:Vault FloorFive1.png|right|300px]]
+The fifth floor represents [[Golden Wasteland]], and has a few skeletons floating in the sky. To reach the next floor, players will need to fly to the [[Mantas#Elder_Spirit_Mantas|Elder Spirit Manta]] which will approach from the {{icon|Constellation-prairie-icon-Ray.png}} Prairie Constellation in the sky. On the back of the Spirit Manta players will find lanterns to light – these activate the elevator at the center.
+
+On the Fifth Floor, players can find:
+*1 [[Children of Light#Fifth Floor|Children of Light]]
+{{Clear}}
+==<span id="Sixth Floor"><span id="Floor Six">The Summit</span></span>==
+[[File:Vault Summit1.png|right|300px]]
+The Summit, being the Sixth Floor, is where the [[Elder of the Vault]]'s altar resides. The floor begins with Cosmic Mantas circulating the platform, which players can ride up to reach the Summit, or wait for the elevator to slowly rise up. Differing from all the previous floors, this floor is mostly natural, with a stone island with grass comprising the whole area. Surrounding the Elder's altar is the previous realm's altars: from [[Isle]] to [[Wasteland]]. After lighting the center altar's white candle and meditating to activate a cutscene, the player is transported to the [[#After-Shrine Area|After-Shrine Area]].
+
+At The Summit, players can find: 
+*1 [[Children of Light#The Summit|Children of Light]]
+*1 [[Map Shrine#Vault of Knowledge|Map Shrine]]
+{{Clear}}
+==After-Shrine Area==
+[[File:Vault AfterShrine1.png|right|300px]]
+The final area of Vault, however differing from every other area of the game. This area solely acts as a connection between Vault to the Eye of Eden, with portals leading either [[Home]]/[[Aviary Village]] or into the [[Eye of Eden|Eye of Eden (Spoiler Warning)]]. The Spirit Gate blocking the entry to Eden requires 20 Winged Light to pass through. However, it is recommended to acquire significantly more than this before entering Eden.
+{{Clear}}
+==Points of Interest==
+===Activities===
+<span id="Shared Space Shrines"></span> <span id="Shared Space Shrines"></span>
+<span id="Shard Eruptions"></span>
+
+{{Mobile Tabber|textonly = 1
+|tab1 = Shared Space Shrines
+|c1   = <div> [[File:Shared-Spaces-Repository-of-Refuge.jpg|thumb|250px]] {{Collapse|label=Secret Area image|content= [[File:Shared-spaces-Secret-Area-Office.jpg|thumb|250px]]}}<br/>
+In Vault of Knowledge, there is two [[Shared Space Shrines]] in [[#Repository of Refuge|Repository of Refuge]], unlocked after completing [[Season of Remembrance#Quest 1|Remembrance Quest #1]], and the [[#Secret Area|Secret Area]]. A way to play in private or public with friends using props. Shared Space Shrines are accessible to all players who have access to Daylight Prairie but must have at least two props to access edit mode. You can have up to 16 props available at a time on your Shared Space, but can be much less depending on the "load" of the props as determined by how much the top bar fills up. Within the Vault Shared Spaces, there are featured props given to the player to place regardless of if it is owned, being {{Icon|Shared-Spaces-Standing-Lantern-prop-icon-Morybel-0146.png|Inline_text|link=Shared Spaces|label=Shared Spaces Standing Lantern}}, {{Spirit Item|Baffled Botanist|Prop|Inline_text|label=Baffled Botanist Spotlight}}, and {{Spirit Item|Wise Grandparent|Prop|Inline_text|label=Wise Grandparent Lantern}}. Once a prop is in use, it will stay where you left it as long as you don't move it or remove it. The items are sorted by how much "load” they use in a Shared Space, listed from left to right.</div>
+
+|tab2 = Shard Eruptions
+|c2   = <div>A mechanic implemented with the [[Season of Shattering]], shards periodically erupt from the mountain on the horizon, falling multiple times a day in one predetermined location, determined with the daily quest realm (the top of the realm's portal will also have shards embedded). See more in the [[Shard Eruptions]] page. Eruptions in Vault can occur in the following areas:
+* Regular Eruptions
+** Starlight Desert, nearby to The Rose
+** Starlight Desert, nearby to the pathway to Jellyfish Cove
+** Starlight Desert, near the Garden Aviary
+* Strong Eruptions
+** Starlight Desert, Jellyfish Cove, nearby to the pathway to main area of [[#Starlight Desert|Starlight Desert]]
+** Starlight Desert, Jellyfish Cove, nearby to the deck</div>
+}}
+
+===Easter Eggs===
+<span id="Golden Pot"></span>
+{{Mobile Tabber|textonly = 1
+|tab1 = Golden Pot
+|c1   = <div>The Golden Pot is a leftover from [[Sky: Light Awaits]], the Limited Live and Pre-Global Release Beta version of Sky: Children of the Light. It 'used' to be featured in a [[Daily Quest]], being {{icon|quest-icon.png|inline}} Find the Golden Pot in Vault</div>
+}}
+
+== Seasonal Content ==
+In the Vault of Knowledge, [[Seasonal Spirits]] from Season of {{Season Icon|gratitude|inline_text|label=Gratitude}}, {{Season Icon|lightseekers|inline_text|label=Lightseekers}}, {{Season Icon|belonging|inline_text|label=Belonging}}, {{Season Icon|rhythm|inline_text|label=Rhythm}}, {{Season Icon|little prince|inline_text|label=The Little Prince}}, {{Season Icon|Remembrance|inline_text|label=Remembrance}}, and {{Season Icon|Nine-Colored Deer|inline_text|label=Nine-Colored Deer}} can be found scattered around the realm. Collecting the Seasonal Spirits do not count towards realm constellation Spirit Gates. You will be able to collect their base level emotes, but in order to collect the cosmetics or expression upgrades, you will have to wait for the Spirit to return as a [[Traveling Spirit]]. Anything bought from their Friendship Trees do not count towards Realm Constellation Progression.
+
+{{Spirit Group|vault|type=seasonal|format=gallery}}
+
+In addition, {{Season Icon|little prince|inline_text|label=Season of The Little Prince}}'s [[Season_of_The_Little_Prince#Quest_#1|Quest #1]] and [[Season_of_The_Little_Prince#Quest_#6|Quest #6]] can be played to follow the adventures of The Little Prince, {{Season Icon|remembrance|inline_text|label=Season of Remembrance}}'s Quests to satisfy the needs of the Repository's spirits, as well as {{Season Icon|little prince|inline_text|label=Season of The Nine-Colored Deer}}'s Quests to rediscover the legend of the Nine-Colored Deer. None of these quests are replayable post completion.
+
+==Constellation Summary==
+{{Constellation Summary}}
+{{#lst:Regular Spirits/Friendship Trees|Constellation Summary Header}}
+{{#lst:Regular Spirits/Friendship Trees|Vault Constellation Summary}}
+|} <!--These are needed to close the table from the LSTs above-->
+[[File:6-Vault-Printable.jpg|none|thumb|Printable chart]]
+
+== Video Walkthrough ==
+<gallery>
+Sky- Children of the Light New Walkthrough Vault of Knowledge- Spirits and Winged Light
+Sky- Children of the Light- Emotes, Upgrades, and Cosmetics in Vault of Knowledge.
+</gallery>
+
+==Map==
+{{Mobile Tabber
+|tab1 = {{Icon|Location-map-icon-Ray.png|tab}}
+|c1   = {{Map:Vault of Knowledge}}
+|tab2 = {{Icon|Map-Shrine-Realm-Temple-Indicator.png|tab}}
+|c2   = {{Map:Whole Shrine Map}}
+}}
+
+==Trivia==
+===Change History===
+{{Scrollbox|height=400px|text= <div>
+Pre-2019
+* First called ''Night'', then later changed to '''Vault of Knowledge''' in in June 2019
+----
+{{v|0.6.0}}
+* With [[Season of Lightseekers]], [[Shushing Light Scholar]] has been added to the [[#Fourth Floor|Fourth Floor]] as a Seasonal Spirit
+----
+{{v|0.7.0}}
+* With [[Season of Belonging]], [[Wise Grandparent]] has been added into [[#Archives|Archives]] area as a Seasonal Spirit
+----
+{{v|0.8.0}}
+* With [[Season of Rhythm]], [[Thoughtful Director]] has been added onto the [[#First Floor|First Floor]] as a Seasonal Spirit
+* The portal to Home within the [[#Social Space|Social Space]] have been replaced by a Return Shrine.
+----
+{{v|0.9.0}}
+* With [[Season of Enchantment]], the [[Season_of_Enchantment#Quest_#5|Purple Light]] has been added onto the [[#Archives|Archives]]
+{{v|0.9.5}}
+* Changes to Ancestor Tombstones in Social Space, now showcasing Vault's Regular Spirits instead of [[Golden Wasteland|Wasteland]]'s
+----
+{{v|0.13.0}}
+* Addition of [[Treasure Candles]] throughout X with introduction of [[Daily Light]]
+----
+{{v|0.14.0}}
+* With [[Season of The Little Prince]], the [[#Starlight Desert|Starlight Desert]] with 6 Seasonal Spirits introduced. In addition with an entrance on the [[#First Floor|First Floor]]
+* Past Seasonal spirits now [[Seasonal_Spirits#Finding_Seasonal_Spirits|permanently available to relive]]
+----
+{{v|0.15.0}}
+* A Wind Path from [[The Wind Paths]] area in [[Hidden Forest]] to [[#Starlight Desert|Starlight Desert]] added
+----
+{{v|0.19.0}}
+* Addition of [[Map Shrines]] throughout Vault
+----
+{{v|0.20.0}}
+* With [[Season of Remembrance]], the [[#Repository of Refuge|Repository of Refuge]] with 4 Seasonal Spirits introduced. In addition with an entrance on the [[#First Floor|First Floor]]
+----
+{{v|0.21.0}}
+* Home Shrines, including any redundant Bird Statues, are removed.
+{{v|0.21.5}}
+* The [[#Memorial|Memorial]] has been added to the [[#Starlight Desert]], Windy Dunes in honor of a late beloved coworker, and others to whom TGC has had to say goodbye to.
+----
+{{v|0.24.0}}
+* With [[Season of the Nine-Colored Deer]], the [[#Collaboration Room|Collaboration Room]] replaces [[#Starlight Desert|Starlight Desert]]'s transition. This new area now holds seasonal areas from collaboration Seasons: [[#Crescent Oasis|Crescent Oasis]], Starlight Desert, and [[Valley of Triumph#Coliseum|Coliseum]].
+</div>}}
+
+==In Other Languages==
+{{Help|lang}} 
+{{Other Languages|title=Vault of Knowledge
+|fr            = Chambre forte de connaissance
+|fr_meaning    = Vault of Knowledge <!-- Machine Translated -->
+|ja            = 書庫 (Kana: しょこ)
+|ja_rom        = Shoko
+|ja_meaning    = Archive
+|id            = Kubah Pengetahuan
+|id_meaning    = Knowledge Dome <!-- Machine Translated -->
+|de            = Tresor des Wissens
+|de_meaning    = Safe of Knowledge
+|vi            = Kho Tri Thức (Hán Nôm: 庫知識)
+|vi_meaning    = Vault of Knowledge <!-- Machine Translated -->
+|ko            = 지식의 도서관 (Hanja: 知識의 圖書館)
+|ko_rom        = Jisig-ui Doseogwan
+|ko_meaning    = Library of Knowledge <!-- Machine Translated -->
+|es            = Bóveda de Conocimiento
+|es_meaning    = Vault of Knowledge <!-- Machine Translated -->
+|it            = Cupola della Conoscenza
+|it_meaning    = Dome of Knowledge <!-- Machine Translated -->
+|pt            = Relicário do Conhecimento
+|pt_meaning    = Reliquary of Knowledge <!-- Machine Translated -->
+|ru            = Хранилище знаний
+|ru_rom        = Khranilishche znaniy
+|ru_meaning    = Knowledge Repository <!-- Machine Translated -->
+|zh_cn         = 禁阁 
+|zh_cn_rom     = Mandarin: Jìn Gé / Cantonese: Gam3 Gok3
+|zh_cn_meaning = Forbidden Pavilion <!-- Verified by Native Speaker @Fanlinger -->
+|zh_netease    = 禁阁 
+|zh_netease_rom = Mandarin: Jìn Gé / Cantonese: Gam3 Gok3
+|zh_netease_meaning = Forbidden Pavilion <!-- Verified by Native Speaker @Fanlinger -->
+|zh_tw         = 禁閣 
+|zh_tw_rom     = Mandarin: Jìn Gé / Cantonese: Gam3 Gok3
+|zh_tw_meaning = Forbidden Pavilion <!-- Verified by Native Speaker @Fanlinger -->
+}}
+
+==Reference==
+<references />
+
+{{RealmsNav}}{{Navigation Box}}
+
+[[Category:Realms]]  
+
+[[ru:Хранилище знаний]]
+[[fr:Chambre forte de connaissance]]
+[[es:Bóveda del Conocimiento]]
+[[pt-br:Relicário do Conhecimento]]
+[[de:Tresor des Wissens]]
+[[Category:Vault of Knowledge]]

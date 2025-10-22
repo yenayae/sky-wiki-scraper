@@ -1,0 +1,132 @@
+{{SkyEvent
+| image = Days of Rainbow 2021.jpg
+| previousevent = [[Days of Color/2020|2020]]
+| nextevent = [[Days of Color/2022|2022]]
+| date = June 14 to June 27, 2021
+| years = {{#lst:Days of Color|Color Years}}
+}}
+The second year of Days of Rainbow began on '''Monday, June 14, 2021 at 00:00 PDT (UTC-7)''' and concluded on '''Sunday, June 27, 2021 at 23:59 PDT (UTC-7)''', lasting for a total of '''14''' days. The Days of Rainbow Guide appeared at [[Home]] for the duration of the event, offering rainbow-themed cosmetics and [[Days of Color#Trails Spells|Trails Spells]], seven costing {{Cost|5 C}} and six costing {{Cost|10 C}}. Free temporary [[Spells]] were also available for all cosmetics from the [[Sleepy Traveling Merchant]]'s boat.
+
+<gallery widths="200" spacing="small">
+Days-of-rainbow-guide-2021.jpg
+Days of rainbow trail spells.jpeg
+</gallery>
+
+===2021 New Cosmetics and Props===
+====Rainbow Pack<span id="Rainbow Hair Flower"></span>====
+The Rainbow Pack contains two items: the Rainbow Flower and {{Cost|75 C}}. The Rainbow Flower is a small flower with wide, rainbow-colored petals that sits on the left side of the player's head. This [[Hair Accessory]] was introduced in 2021 and was available for {{Cost|19.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event, during which '''100% of the net proceeds went to charity''' (specifically, '''[https://www.thetrevorproject.org/ The Trevor Project]''' and '''[https://www.globalfundforwomen.org/ The Global Fund for Women]''').
+
+Notably, the Rainbow Pack did not return alongside other past items for [[#2022|Days of Rainbow 2022]], with the item only available that year as a free [[Spell]].<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Rainbow Hair Flower|iap}} {{!}} {{Icon Name|Rainbow Hair Flower|name}} IAP
+{{Icon Name|Rainbow Hair Flower|icon}} {{!}} {{Icon Name|Rainbow Hair Flower|name}} icon
+{{Icon Name|Rainbow Hair Flower|real}} {{!}} {{Icon Name|Rainbow Hair Flower|name}}
+{{Icon Name|Rainbow Hair Flower|spell}} {{!}} {{Icon Name|Rainbow Hair Flower|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Rainbow Hat<span id="Rainbow Beanie Hat"></span>====
+::'''''"Stays cool on the warmest of days."'''''
+The Rainbow Hat is a short wavy hairstyle almost entirely covered by a beanie with soft rainbow stripes and a pale blue headband. This [[Hair]] was introduced in 2021 and was available for {{Cost|9.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event. Note that this item is considered a Hair, not a [[Hair Accessory]], and as such it can not be worn over other Hairstyles.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Rainbow Hat|iap}} {{!}} {{Icon Name|Rainbow Hat|name}} IAP
+{{Icon Name|Rainbow Hat|icon}} {{!}} {{Icon Name|Rainbow Hat|name}} icon
+{{Icon Name|Rainbow Hat|real}} {{!}} {{Icon Name|Rainbow Hat|name}} front
+{{Icon Name|Rainbow Hat|side}} {{!}} {{Icon Name|Rainbow Hat|name}} side
+{{Icon Name|Rainbow Hat|back}} {{!}} {{Icon Name|Rainbow Hat|name}} back
+{{Icon Name|Rainbow Hat|spell}} {{!}} {{Icon Name|Rainbow Hat|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Rainbow Braid Accessory<span id="Rainbow Braid"></span>====
+The Rainbow Braid Accessory is a tassel with a soft rainbow gradient and a tuft of hair at the end that's attached to the right side of the player's head. This [[Head Accessory]] was introduced in 2021 and was available for {{Cost|20 H}} from the Days of Rainbow Guide at [[Home]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Rainbow Braid|icon}} {{!}} {{Icon Name|Rainbow Braid|name}} icon
+{{Icon Name|Rainbow Braid|real}} {{!}} {{Icon Name|Rainbow Braid|name}}
+{{Icon Name|Rainbow Braid|spell}} {{!}} {{Icon Name|Rainbow Hair Flower|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+====Rainbow Cape====
+The Rainbow Cape is a pale blue version of the [[Capes#Base Capes|Base Cape]] with a soft rainbow gradient along the bottom edge. This [[Cape]] was introduced in 2021 and was available for {{Cost|175 C}} from the Days of Rainbow Guide at [[Home]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Rainbow Cape|icon}} {{!}} {{Icon Name|Rainbow Cape|name}} icon
+{{Icon Name|Rainbow Cape|front}} {{!}} {{Icon Name|Rainbow Cape|name}} front
+{{Icon Name|Rainbow Cape|interior}} {{!}} {{Icon Name|Rainbow Cape|name}} interior
+{{Icon Name|Rainbow Cape|real}} {{!}} {{Icon Name|Rainbow Cape|name}} back
+{{Icon Name|Rainbow Cape|exterior}} {{!}} {{Icon Name|Rainbow Cape|name}} exterior
+{{Icon Name|Rainbow Cape|spell}} {{!}} {{Icon Name|Rainbow Cape|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+===2021 New Spells===
+====Trail Spells====
+Starting in 2021, multiple colored [[Spells#Trail Spells|Trail Spells]] are available during Days of Color. Purchasing one of these [[Spells]] gives the player a '''randomly-selected''' Trail Spell. The length of the Spell is 1 hour, 2 hours, or 3 hours, depending upon which randomly-selected color is received.
+
+The standard cost of a Trail Spell is {{Cost|5 C}}<ref name="10_candle_trail_spell">In 2021, the cost of a trail spell went up to {{Cost|10 C}} on the eighth spell purchased. The more expensive spell was identical to the cheaper version.</ref>. A limited number of Spells are available from the Color Guide's Friendship Tree. Additional Spells are available from the [[Spell Shop]] (either at [[Forgotten Ark]] or the [[Sleepy Traveling Merchant]]).
+
+{| class="article-table"
+!Icon
+!Color
+!Duration
+|-
+|{{Icon|Days of Rainbow - Green Trail spell.png|table|label=Green Color Trail Spell|link=Days of Rainbow#Trail Spells}}
+|Green
+|1 hour
+|-
+| {{Icon|Orange-flight-trail-spell.png|table|label=Orange Color Trail Spell|link=Days of Rainbow#Trail Spells}}
+|Orange
+|1 hour
+|-
+|{{Icon|Blue-flight-trail-spell.png|table|label=Dark Blue Color Trail Spell|link=Days of Rainbow#Trail Spells}}
+|Dark Blue
+|1 hour
+|-
+|{{Icon|Days of Rainbow - Yellow Trail spell.png|table|label=Yellow Color Trail Spell|link=Days of Rainbow#Trail Spells}}
+| Yellow
+|1 hour
+|-
+|{{Icon|Days of Rainbow - Red-Trail spell.png|table|label=Red Color Trail Spell|link=Days of Rainbow#Trail Spells}}
+|Red 
+|1 hour 
+|-
+|{{Icon|Days of Rainbow - Purple Trail spell.png|table|label=Purple Color Trail Spell|link=Days of Rainbow#Trail Spells}}
+| Purple
+|1 hour
+|-
+|{{Icon|Days of Rainbow - Pink Trail spell.png|table|label=Pink Color Trail Spell|link=Days of Rainbow#Trail Spells}}
+|Pink 
+|2 hours
+|-
+|{{Icon|Magenta-flight-trail-spell.png|table|label=Magenta Color Trail Spell|link=Days of Rainbow#Trail Spells}} 
+| Magenta
+|2 hours
+|-
+|{{Icon|Teal-flight-trail-spell.png|table|label=Teal Color Trail Spell|link=Days of Rainbow#Trail Spells}}
+|Teal
+|2 hours
+|-
+|{{Icon|Cyan-flight-trail-spell.png|table|label=Cyan Color Trail Spell|link=Days of Rainbow#Trail Spells}}
+|Cyan
+|2 hours
+|-
+|{{Icon|Days of Rainbow - black Trail spell.png|table|label=Black Color Trail Spell|link=Days of Rainbow#Trail Spells}}
+|Black
+|2 hours
+|-
+|{{Icon|Rainbow-flight-trail-spell.png|table|label=Rainbow Color Trail Spell|link=Days of Rainbow#Trail Spells}}
+|Rainbow
+|3 hours
+|}
+
+==References==
+'''More information about Days of Rainbow 2021 can be found on [https://www.thatskygame.com/news/launch-update-days-of-rainbow/ ThatSkyGame's Website].'''
+<references />
+
+{{#lst:Days of Color|Color Navbox}}
+
+[[fr:Jours des Couleurs 2021]]
+[[ja:虹かける日々/2021]]

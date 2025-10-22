@@ -1,0 +1,67 @@
+{{Distinguish|Blue Bird Guide}}
+{{Guide Infobox
+|image     = Belonging-Guide-Spirit.png
+|ultimates = {{Spirit Item||prop_u|infobox|link=#Belonging Ultimate Prop}}
+|season    = Belonging
+|location  = Home
+}}
+<section begin="Summary" />The '''Belonging Guide''' (also known as '''Grandma''') is a Seasonal Guide from the [[Season of Belonging]] who offered [[Belonging Guide#Ultimate Gifts|cosmetics]] and no Quests during that Season. The Belonging Guide was only found at [[Home]] during the Season and, outside of their appearances as host of a [[Additional Light Sources#Grandma's Dinner Event|Social Light Event]], cannot be found today since they are no longer present in the game. The Ultimate Guide offered a {{Spirit Item|Belonging Guide|necklace_u|inline_text|link=Belonging Guide#Belonging Ultimate Pendant}} and a {{Spirit Item||prop_u|inline_text|link=Belonging Guide#Belonging Ultimate Prop}} for [[Season Pass]] holders.<section end="Summary" />
+
+==<span id="Ultimate Pendant"><span id="Belonging Ultimate Pendant">Seasonal Pendant</span></span>==
+The Belonging Ultimate [[Necklace|Pendant]] is the usual gold pendant featuring the Season's emblem attached to a necklace. It was a [[Season Pass]] exclusive item during the Season, available for free from the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||necklace_u}} {{!}} Belonging Ultimate Pendant icon
+{{Icon Name||necklace_u|real}} {{!}} Belonging Ultimate Pendant
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Ultimate Gifts==
+The Belonging Guide offered 1 Ultimate Gift, available to be purchased by [[Season Pass]] holders with [[Currency#Season Hearts|Seasonal Hearts]] during the Season of Belonging only.
+
+===<span id="Ultimate Prop">Belonging Ultimate Prop</span>===
+The Belonging Ultimate [[Prop]] is a bonfire surrounded on three sides by simple log benches. It is a placeable Prop that can be used to decorate [[Shared Spaces]], and functions as a four-player [[Chat]] item. The bonfire at the center can be lit to recharge the player's [[Winged Light|Cape Energy]]. When carried on the player's back, it appears as three pieces of firewood tied together by two yellow strings. It was a [[Season Pass]] exclusive item during the Season, available for {{Season Heart|6|season=Belonging}} after unlocking the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||prop_u}} {{!}} Belonging Ultimate Prop icon
+{{Icon Name||prop_u|real}} {{!}} Belonging Ultimate Prop 
+{{Icon Name||prop_u|back}} {{!}} Belonging Ultimate Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Friendship Tree==
+The Belonging Guide's Friendship Tree was available during the [[Season of Belonging]] only. '''Now that the Season is over, these cosmetics are no longer available.'''
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Belonging Guide
+|season = Belonging
+|image  = Belonging-Guide-Spirit.png
+
+|nodeC2 = prop_u 6 SH AP
+|  linkC2 = Belonging Guide#Belonging Ultimate Prop
+
+|nodeC1 = necklace_u AP
+|  linkC1 = Belonging Guide#Belonging Ultimate Pendant
+}}<section end="Friendship Tree" />
+
+==Quest Tree==
+Unlike later Ultimate Guides, the Belonging Guide did not have a Quest Tree since there were no Seasonal Quests. Instead, the [[Season of Belonging#Spirits and Cosmetics|Seasonal Spirits]] were individually released over the course of the Season, with one added each week.
+
+== Gallery ==
+<gallery>
+File:Belonging-Guide-at-home-1.jpg|During Days of Feast
+File:Belonging-Guide-at-home-2.jpg|During Days of Feast
+File:Belonging-Guide-Grandma.jpg|At Grandma's Dinner Event
+File:Belonging-Ancestor-Alice-Cafe.png|During Sky x Alice's Wonderland Cafe - Days of Feast
+</gallery>
+
+==Trivia==
+* In Patch {{v|0.15.5}} the Belonging Guide became the host of a new, permanent Social Light Event ("[[Additional Light Sources#Grandma's Dinner Event|Grandma's Dinner Event]]") in [[Elevated Clearing]], appearing periodically throughout the day to provide [[Pieces of Light|Light]] to visiting players.
+* The Belonging Guide also made appearances as an Event Guide called the '''Belonging Ancestor''' to offer event cosmetics during [[Days of Feast]] starting in 2021<ref>https://www.thatskygame.com/news/announcing-days-of-feast-2021</ref>.
+
+==References==
+<references />
+
+[[de:Zusammengehörens-Helfer]]
+[[pt-br:Guia do Pertencer]]
+[[fr:Guide de l'Appartenance]]
+[[ja:想いを編む案内人]]

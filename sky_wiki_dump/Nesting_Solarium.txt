@@ -1,0 +1,94 @@
+{{Spirit Infobox
+|type      = Non
+|emote_type= None
+|image     = Nesting-Solarium-Shop.png
+|cosmetics = 
+|props	   = {{Spirit Item|Nesting Solarium|prop_t|link=Nesting Solarium#Table|infobox}}{{Spirit Item|Nesting Solarium|prop_b|link=Nesting Solarium#Bathtub|infobox}}{{Spirit Item|Nesting Solarium|prop_h|link=Nesting Solarium#Hanging Planter|infobox}}{{Spirit Item|Nesting Solarium|prop_p|link=Nesting Solarium#Painting|infobox}}
+|season    = Nesting
+|realm     = Aviary Village
+|location  = [[Nesting Workshop]]
+|ts        = None
+}}
+<section begin="Summary" />The '''Nesting Solarium''' is a [[Ancestors#Seasonal Entities|Seasonal Shop]] from the [[Season of Nesting]]. The Nesting Solarium was found within the [[Nesting Workshop]] in [[Aviary Village]], marked outside by a sign with Nesting's emblem. Unlike typical [[Seasonal Spirits]], there is no need to first relive a [[Spirit Memories|spirit memory]] to access this Shop and it does not offer an [[Expression]]. The collectibles offered by this Shop are a {{Spirit Item|Nesting Solarium|prop_t|inline_text|link=Nesting Solarium#Table|label=Table Prop}}, a {{Spirit Item|Nesting Solarium|prop_b|inline_text|link=Nesting Solarium#Bathtub|label=Bathtub Prop}}, a {{Spirit Item|Nesting Solarium|prop_h|inline_text|link=Nesting Solarium#Hanging Planter|label=Hanging Planter Prop}}, and a {{Spirit Item|Nesting Solarium|prop_p|inline_text|link=Nesting Solarium#Painting|label=Painting Prop}}.<section end="Summary" />
+
+==Cosmetics==
+===<span id="Prop">Props</span>===
+This Seasonal Shop offers a total of four [[Props]]: a [[#Table|Table]], a [[#Bathtub|Bathtub]], a [[#Hanging Planter|Hanging Planter]], and a [[#Painting|Painting]].
+
+====Table====
+The [[Prop]] offered by this Shop is a table made from a pale tree stump and decorated with a small yellow placemat, a potted plant, and two white mugs. It is a placeable Prop that can be used to decorate [[Shared Spaces]] and allows two players to stand and drink from. When carried on its owner's back, it appears in its original form. It was offered to all players for {{Cost|34 SC|season=Nesting}} during the Season, from the Friendship Tree's fourth node ({{Cost|100 SC|season=Nesting}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Solarium|prop_t|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Solarium|prop_t|real}} {{!}} The Prop
+{{Icon Name|Nesting Solarium|prop_t|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Bathtub====
+The [[Prop]] offered by this Shop is a water-filled bathtub made from a pale, hollowed out tree stump with a yellow towel hanging from a branch extended from its side. It is a placeable Prop that can be used to decorate [[Shared Spaces]] and seats a single player. When carried on its owner's back, it appears in its original form. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's third node ({{Cost|66 SC|season=Nesting}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Solarium|prop_b|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Solarium|prop_b|real}} {{!}} The Prop
+<!-- Sitting in the Prop (unique pose) -->
+{{Icon Name|Nesting Solarium|prop_b|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Hanging Planter====
+The [[Prop]] offered by this Shop is a small hanging planter made of pale wood that contains a non-descript pale green plant. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, it appears in its original form. It was offered to all players for {{Cost|22 SC|season=Nesting}} during the Season, from the Friendship Tree's fourth node ({{Cost|36 SC|season=Nesting}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Solarium|prop_h|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Solarium|prop_h|real}} {{!}} The Prop
+{{Icon Name|Nesting Solarium|prop_h|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Painting====
+The [[Prop]] offered by this Shop is a large painting with a pale wood frame that depicts the [[Nesting Guide]] standing with the [[Elder of the Forest]] in a wooded area. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, it appears in its original form. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's first node ({{Cost|14 SC|season=Nesting}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Solarium|prop_p|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Solarium|prop_p|real}} {{!}} The Prop
+{{Icon Name|Nesting Solarium|prop_p|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Season Friendship Tree ==
+{{Friendship Tree Info | season| season=Nesting}}<section begin="Season Friendship Tree" />
+{{Friendship Tree
+|spirit = Nesting Solarium
+|image  = Nesting-Solarium-Shop.png
+|type   = season
+|season = Nesting
+
+|nodeC5 = season_heart 3 SC SP
+
+|nodeL4 = spellx SP
+|nodeC4 = prop_t 34 SC
+|  linkC4 = Nesting Solarium#Table
+
+|nodeL3 = prop_b SP
+|  linkL3 = Nesting Solarium#Bathtub
+|nodeC3 = spellx 30 SC
+
+|nodeL2 = spellx SP
+|nodeC2 = prop_h  22 SC
+|  linkC2 = Nesting Solarium#Hanging Planter
+
+|nodeL1 = prop_p SP
+|  linkL1 = Nesting Solarium#Painting
+|nodeC1 = spellx 14 SC
+}}<section end="Season Friendship Tree" />
+
+==References==
+<references />
+
+[[fr:Solarium de la Nidification]]
+[[pt-br:Solarium do Ninho]]
+[[ja:巣づくりのサンルーム]]
+[[de:Nest-Solarium]]
+
+[[Category:Season of Nesting]]

@@ -1,0 +1,304 @@
+{{Guide Infobox
+|image     = SoRemembrance-Ultimate-guide.png
+|ultimates = {{Spirit Item||neckpiece_u|link=#Remembrance Ultimate Neck Accessory|infobox}}{{Spirit Item||prop_u|link=#Remembrance Ultimate Prop|infobox}}
+|props     = {{Spirit Item|Remembrance Guide|prop_c|link=#Chimes Prop|infobox}}{{Spirit Item|Remembrance Guide|prop_k|link=#Kettle Prop|infobox}}{{Spirit Item|Remembrance Guide|prop_p|link=#Potted Plant Prop|infobox}}{{Spirit Item|Remembrance Guide|prop_m|link=#Manta Plush Prop|infobox}}{{Spirit Item|Remembrance Guide|prop_q|link=#Crab Plush Prop|infobox}}
+|season    = Remembrance
+|realm     = Vault of Knowledge
+|location  = Repository of Refuge
+}}
+<section begin="Summary" />The '''Remembrance Guide''' is a Seasonal Guide (also known as Quest Giver) from the [[Season of Remembrance]] who offers quests and [[Remembrance Guide#Ultimate Gifts|cosmetics]]. The Remembrance Guide is found standing at the main floor in the [[Repository of Refuge]] in Vault of Knowledge. The Ultimate Guide offered a {{Spirit Item|Remembrance Guide|necklace_u|link=#Remembrance Ultimate Pendant|inline_text}}, a  {{Spirit Item|Remembrance Guide|neckpiece_u|link=#Remembrance Ultimate Neck Accessory|inline_text}}, and a {{Spirit Item|Remembrance Guide|prop_u|link=#Remembrance Ultimate Prop|inline_text}} for [[Season Pass]] holders.<br>
+<br>
+The Remembrance Guide also provided new Props in the Quest Tree, permanently available to all players: {{Spirit Item|Remembrance Guide|prop_c|link=#Chimes Prop|inline_text}}, a {{Spirit Item|Remembrance Guide|prop_k|link=#Kettle Prop|inline_text}}, a {{Spirit Item|Remembrance Guide|prop_p|link=#Potted Plant Prop|inline_text}}, a {{Spirit Item|Remembrance Guide|prop_q|link=#Crab Plush Prop|inline_text}} and a {{Spirit Item|Remembrance Guide|prop_m|link=#Manta Plush Prop|inline_text}}.<section end="Summary" />
+
+==<span id="Ultimate Pendant"><span id="Remembrance Ultimate Pendant">Seasonal Pendant</span></span>==
+The Remembrance Ultimate [[Necklaces|Pendant]] is the usual gold pendant featuring the Season's emblem attached to a necklace. It was a [[Season Pass]] exclusive item during the Season, available for free from the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|16_SORemembrance_logo.png {{!}} Remembrance Ultimate Pendant icon
+SoRemembrance-Seasonal-Pass-pendant.png {{!}} Remembrance Ultimate Pendant
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Ultimate Gifts==
+The Season of Remembrance Guide offered 2 Ultimate Gifts, available to be purchased by [[Season Pass]] holders with [[Currency#Season Hearts|Seasonal Hearts]] during the Season of Remembrance only. 
+
+===<span id="Ultimate Neckpiece">Remembrance Ultimate Neck Accessory</span>===
+The Remembrance Ultimate [[Neck Accessory]] is a blue-grey stole with a triangle-patterned, golden fringe. It was a [[Season Pass]] exclusive item, available for {{Cost|2 SH|season=Remembrance}} after unlocking the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|SoRemembrance-Ultimate-Gift-Sash-Icon-Morybel-0146.png {{!}} Remembrance Ultimate Neck Accessory icon
+SoRemembrance-Ultimate-Gift-Sash.png {{!}} Remembrance Ultimate Neck Accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Ultimate Prop">Remembrance Ultimate Prop</span>===
+The Remembrance Ultimate [[Prop]] is a light that projects [[mantas]] flying in a starry night. After the Prop is placed, lit, and activated, it will significantly darken the surrounding area (including light sources), and produce 4 to 5 mantas of varying sizes, along with particles akin to those produced by the [[Star Collector]]'s prop, except far more widespread and plentiful. The Mantas are able to slightly lift players in the air and recharge their light. When carried, the Prop appears in its original, unlit form on the player's back. It was a [[Season Pass]] exclusive item, available for {{Cost|2 SH|season=Remembrance}} after unlocking the Friendship Tree's second node.<br>
+<br>
+[[File:Ultimate-manta-projector.jpg|thumb|400px|right|Remembrance Ultimate Prop from afar]]
+{{#tag:gallery
+|SoRemembrance-Ultimate-Gift-Manta-Projector-Morybel-0146.png {{!}} Remembrance Ultimate Prop icon
+SoRemembrance-Ultimate-Gift-Manta-Projector.png {{!}} Remembrance Ultimate Prop
+SoRemembrance-Ultimate-Gift-Manta-Projector-on-your-back.png {{!}} Remembrance Ultimate Prop on player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+==<span id="Props"><span id="Prop">Additional Props</span></span>==
+This Season introduced a new line of [[props]] to collect from the Remembrance Guide after finishing quests. These can be redeemed by spending {{Candle}} [[Currency#Candles|regular candles]] or {{Heart}} [[Currency#Hearts|hearts]] through the Remembrance Guide's [[#Quest Tree|Quest Tree]]. All of these Props are placeable and can be used in [[Shared Spaces]].<br>'''All items remained in the Season Guide Tree after the Season ended.'''
+
+===Chimes Prop===
+The Chimes [[Prop]] is a metallic decoration with two big chimes and two small chimes attached to a silver bell shape. At the bottom, the chimes each have a little white, metallic feather. The Chimes Prop is available for {{Cost|30 C}} after completing the [[Season of Remembrance#Quest #2|second Quest]].<br>
+<br>
+This Prop should be placed where it can hang freely, such as on a wall or ceiling. Touching the chime will cause it to move and produce several chime notes. When placed in a windy location, the chimes will move with the wind and notes will be heard. When carried, it appears in its original form on the player's back.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Remembrance Guide|prop_c}} {{!}} Chimes Prop icon
+SoRemembrance-Prop-Chimes.png {{!}} Chimes Prop
+SoRemembrance-Prop-Chimes-on-your-back.png {{!}} Chimes Prop on the player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Kettle Prop===
+The Kettle [[Prop]] is a brass tea kettle on a stone table with a stovetop and can be used in your [[Shared Spaces]]. This Prop is available for {{Cost|50 C}} after completing the [[Season of Remembrance#Quest #4|fourth Quest]].<br>
+<br>
+It is a chat object for four players. Lighting the flame in the kettle stand will trigger a small animation, with the kettle vibrating and whistling while steam comes out of its spout, mimicking boiling tea. After the animation ends, the four small teacups on the edge of the stand can be used to drink tea from.  Once the tea icon appears, your avatar will start drinking tea and you should be able to '''chat''' with your friends or strangers.  The chat function is very sensitive so make sure you don't move once you activate it, as this chat object does not work like other chat props, since there are no seats. ''Note: The flame will not recharge your wings once the tea is ready!'' When carried, the Prop appears as a miniature version on the player's back.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Remembrance Guide|prop_k}} {{!}} Kettle Prop icon
+SoRemembrance-Prop-Kettle.png {{!}} Kettle Prop 
+SoRemembrance-Prop-Kettle-on-your-back.png {{!}} Kettle Prop on the player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Potted Plant Prop===
+The Potted Plant [[Prop]] is a small, pink blossoming plant in a stone pot. It can be used in your [[Shared Spaces]] and is available to purchase for {{Cost|40 C}} after completing the [[Season of Remembrance#Quest #6|sixth Quest]]. This item is purely cosmetic and does not offer any functionality. When carried, it appears in its original form on the player's back.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Remembrance Guide|prop_p}} {{!}} Potted Plant Prop icon
+SoRemembrance-Prop-Plants.png {{!}} Potted Plant Prop
+SoRemembrance-Prop-Plants-on-your-back.png {{!}} Potted Plant Prop on the player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Manta Plush Prop===
+The Manta Plush [[Prop]] is a simplified plush version of a [[Manta]], with rounded, yellow edges. It is available to purchase for {{Cost|17 H}} after completing the [[Season of Remembrance#Quest #8|8th Quest]], and can be placed in [[Shared Spaces]]. 
+
+After placing the Prop, it can be picked up, held, and hugged by any player, which produces a squeaking sound; additionally, it can be thrown into the air by [[Deep Call|Deep Calling]] <ref name="identifier"> On May 31, 2023, an update was released that let players interact with plushies in form of hugs and more. (See under section "More Updates") [https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/faq/1117-patch-notes---may-31-2023---0-21-5-220352-android-huawei-ios-220790-playstation-220045-switch/]</ref>. If another player is holding the Prop, it can still be placed back on the owner's back by selecting its icon in the [[Menus and Controls#Expression Menu|Wing Menu]]. When carried, the Prop appears in its original form on the player's back.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||prop_m|icon}} {{!}} Manta Plush Prop icon
+{{Icon Name||prop_m|real}} {{!}} Manta Plush Prop
+{{Icon Name||prop_m|held}} {{!}} Holding the Prop
+{{Icon Name||prop_m|back}} {{!}} Manta Plush Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Crab Plush Prop===
+The Crab Plush [[Prop]] is a simplified plush version of a [[Dark Crabs|Crab]], with rounded edges. It is available to purchase for {{Cost|19 H}} after completing the [[Season of Remembrance#Quest #8|8th Quest]], and can be placed in [[Shared Spaces]]. 
+
+After placing the Prop, it can be picked up, held, and hugged by any player, which produces a squeaking sound; additionally, it can be thrown into the air by [[Deep Call|Deep Calling]] <ref name="identifier"></ref>. If another player is holding the Prop, it can still be placed back on the owner's back by selecting its icon in the [[Menus and Controls#Expression Menu|Wing Menu]]. When carried, the Prop appears in its original form on the player's back.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||prop_q|icon}} {{!}} Crab Plush Prop icon
+{{Icon Name||prop_q|real}} {{!}} Crab Plush Prop
+{{Icon Name||prop_q|held}} {{!}} Holding the Prop
+{{Icon Name||prop_q|back}} {{!}} Crab Plush Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Friendship Tree==
+The Remembrance Guide's Friendship Tree was available to the right of the Quest Tree during the Season of Remembrance. Now that the Season is over, these Cosmetics are no longer available.
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Remembrance Guide
+|image  = SoRemembrance-Ultimate-guide.png
+|type   = season
+|season = Remembrance
+
+|nodeC3 = prop_u 2 SH SP
+|  linkC3 = Remembrance Guide#Remembrance Ultimate Prop
+
+|nodeC2 = neckpiece_u 2 SH SP
+|  linkC2 = Remembrance Guide#Remembrance Ultimate Neck Accessory
+
+|nodeC1 = necklace SP
+|  linkC1 = Remembrance Guide#Remembrance Ultimate Pendant
+}}<section end="Friendship Tree" />
+
+==Quest Tree==
+The Remembrance Guide's Quest Tree is available for all players to complete quests from the [[Season of Remembrance]]. Once you completed a quest, a heart or a Shared Memory Spell was available to be collected for free during Season of Remembrance only. Since the end of the Season, players completing the Quests for the first time have to pay {{Candle|3}} to obtain these Hearts, although the Shared Memory Spells stayed free. <section begin="Quest Tree" />{{Mobile Tabber
+|tab1 = Post-season
+|c1   = {{Friendship Tree
+|spirit = Remembrance Guide
+|image  = SoRemembrance-Ultimate-guide.png
+
+|nodeC13 = quest 
+|  linkC13 = Season of Remembrance#Quest 10
+|  labelC13 = Quest 10
+
+|nodeL12 = Shared-Space-Icon-Credit-Ed.PNG free
+|  linkL12 = Shared Spaces
+|nodeC12 = quest
+|  linkC12 = Season of Remembrance#Quest 9
+|  labelC12 = Quest 9
+
+|nodeL11 = Shared-Space-Icon-Credit-Ed.PNG free
+|  linkL11 = Shared Spaces
+|nodeC11 = Icon_hug.png
+|  linkC11 = Making_Friends#Hug
+
+|nodeR10 = prop_m 17 h
+|  linkR10 = Remembrance Guide#Manta Plush Prop
+
+|nodeL10 = prop_q 19 h
+|  linkL10 = Remembrance Guide#Crab Plush Prop
+
+|nodeC10 = quest 
+|  linkC10 = Season of Remembrance#Quest 8
+|  labelC10 = Quest 8
+
+|nodeL9 = heart
+|  noteL9 = <ref name="quest_heart"/>
+|nodeC9 = quest
+|  linkC9 = Season of Remembrance#Quest #7
+|  labelC9 = Quest 7
+
+|nodeL8 = prop_p 40 c
+|  linkL8 = Remembrance Guide#Potted Plant Prop
+
+|nodeC8 = quest
+|  linkC8 = Season of Remembrance#Quest #6
+|  labelC8 = Quest 6
+
+|nodeL7 = heart
+|  noteL7 = <ref name="quest_heart"/>
+|nodeC7 = quest
+|  linkC7 = Season of Remembrance#Quest #5
+|  labelC7 = Quest 5
+
+|nodeL6 = Shared-Space-Icon-Credit-Ed.PNG free
+|  linkL6 = Shared Spaces
+|nodeC6 = Mimi-4117_03_doublefive_light_catcher_emote.png
+|  linkC6 = Doublefive Light Catcher#Expression
+
+|nodeL5 = prop_k 50 C
+|  linkL5 = Remembrance Guide#Kettle Prop
+
+|nodeC5 = quest
+|  linkC5 = Season of Remembrance#Quest #4
+|  labelC5 = Quest 4
+
+|nodeL4 = heart
+|  noteL4 = <ref name="quest_heart"/>
+|nodeC4 = quest
+|  linkC4 = Season of Remembrance#Quest #3
+|  labelC4 = Quest 3
+
+|nodeL3 = Shared-Space-Icon-Credit-Ed.PNG free
+|  linkL3 = Shared Spaces
+|nodeC3 = Icon_high_five.png
+|  linkC3 = High Five Action
+
+|nodeL2 = prop_c 30 C
+|  linkL2 = Remembrance Guide#Chimes Prop
+
+|nodeC2 = quest
+|  linkC2 = Season of Remembrance#Quest #2
+|  labelC2 = Quest 2
+
+|nodeL1 = heart
+|  noteL1 = <ref name="quest_heart">During the Season of Remembrance, the hearts available from Remembrance Guide after completing each quest were free.</ref>
+|nodeC1 = quest
+|  linkC1 = Season of Remembrance#Quest #1
+|  labelC1 = Quest 1
+}}
+
+|tab2 = Mid-season
+|c2   = {{Friendship Tree
+|spirit = Remembrance Guide
+|image  = SoRemembrance-Ultimate-guide.png
+|type   = season
+|season = Remembrance
+
+|nodeC13 = quest 
+|  linkC13 = Season of Remembrance#Quest 10
+|  labelC13 = Quest 10
+
+|nodeL12 = Shared-Space-Icon-Credit-Ed.PNG free
+|  linkL12 = Shared Spaces
+|nodeC12 = quest
+|  linkC12 = Season of Remembrance#Quest 9
+|  labelC12 = Quest 9
+
+|nodeL11 = Shared-Space-Icon-Credit-Ed.PNG free
+|  linkL11 = Shared Spaces
+|nodeC11 = Icon_hug.png
+|  linkC11 = Making_Friends#Hug
+
+|nodeR10 = prop_m 17 h
+|  linkR10 = Remembrance Guide#Manta Plush Prop
+
+|nodeL10 = prop_q 19 h
+|  linkL10 = Remembrance Guide#Crab Plush Prop
+
+|nodeC10 = quest 
+|  linkC10 = Season of Remembrance#Quest 8
+|  labelC10 = Quest 8
+
+|nodeL9 = heart free
+|nodeC9 = quest
+|  linkC9 = Season of Remembrance#Quest #7
+|  labelC9 = Quest 7
+
+|nodeL8 = prop_p 40 c
+|  linkL8 = Remembrance Guide#Potted Plant Prop
+
+|nodeC8 = quest
+|  linkC8 = Season of Remembrance#Quest #6
+|  labelC8 = Quest 6
+
+|nodeL7 = heart free
+|nodeC7 = quest
+|  linkC7 = Season of Remembrance#Quest #5
+|  labelC7 = Quest 5
+
+|nodeL6 = Shared-Space-Icon-Credit-Ed.PNG free
+|  linkL6 = Shared Spaces
+|nodeC6 = Mimi-4117_03_doublefive_light_catcher_emote.png
+|  linkC6 = Doublefive Light Catcher#Expression
+
+|nodeL5 = prop_k 50 C
+|  linkL5 = Remembrance Guide#Kettle Prop
+
+|nodeC5 = quest
+|  linkC5 = Season of Remembrance#Quest #4
+|  labelC5 = Quest 4
+
+|nodeL4 = heart free
+|nodeC4 = quest
+|  linkC4 = Season of Remembrance#Quest #3
+|  labelC4 = Quest 3
+
+|nodeL3 = Shared-Space-Icon-Credit-Ed.PNG free
+|  linkL3 = Shared Spaces
+|nodeC3 = Icon_high_five.png
+|  linkC3 = High Five Action
+
+|nodeL2 = prop_c 30 C
+|  linkL2 = #Chimes Prop
+
+|nodeC2 = quest
+|  linkC2 = Season of Remembrance#Quest #2
+|  labelC2 = Quest 2
+
+|nodeL1 = heart free
+|nodeC1 = quest
+|  linkC1 = Season of Remembrance#Quest #1
+|  labelC1 = Quest 1
+}}
+}}<section end="Quest Tree" />
+
+==References==
+<references />
+
+[[fr:Guide du Souvenir]]
+[[pt-br:Guia da Recordação]]
+[[ja:追慕の案内人]]

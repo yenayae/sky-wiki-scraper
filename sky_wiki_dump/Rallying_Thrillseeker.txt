@@ -1,0 +1,179 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Sanctuary-Spirit-Rallying-Thrillseeker.png|Standard
+Sanctuary-Spirit-Rallying-Thrillseeker-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Outfit|infobox}}{{Spirit Item||Hair|infobox}}
+|season    = Sanctuary
+|realm     = Daylight Prairie
+|location  = Sanctuary Islands
+|ts        = March 27, 2025 (#136)<br>January 19, 2023 (#79)<br>April 29, 2021 (#34)
+}}
+<section begin="Summary" />The '''Rallying Thrillseeker''' is a [[Seasonal Spirit]] from the [[Season of Sanctuary]] who offers the {{Emote|Rallying Thrillseeker|inline_text}} Expression. The Rallying Thrillseeker is found in the [[Sanctuary Islands]], next to a geyser located inland on the left side of the main island. The collectibles [[#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Rallying Thrillseeker|Outfit|inline_text}} and a {{Spirit Item|Rallying Thrillseeker|Hair|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Rallying-Thrillseeker-promo-image.jpg|none|thumb|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|vqDrzq5MZ9k||inline|Video Guide}}
+
+The Rallying Thrillseeker can be found in the [[Sanctuary Islands]], next to a geyser located inland on the left side of the main island. This Spirit has a [[Collection Memory|collection memory]] with 9 memory fragments and a 15-minute overall [[Timed Memory|time limit]].
+
+This Spirit requires players to to use the nearby geysers to [[Collection Memory|collect]] light fragments in the air – similar to the [[Manta Whisperer]]'s memory in [[Valley of Triumph]].
+
+As their memory unfolds, the Rallying Thrilseeker can be seen briefly jumping into the geyser.
+
+At the end of the memory, the [[Sanctuary Guide]], Rallying Thrillseeker, and the [[Grateful Shell Collector]] watch two Mantas fly past by. They all cheer and clap.<br>
+<br>
+[[File:01 DP Spirit - Rallying Thrillseeker.png|200px|left|thumb|Relive the Rallying Thrillseeker's memory]]
+</div>
+{{Clear}}
+
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Rallying-Thrillseeker-rally-cheer-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Rallying-Thrillseeker-rally-cheer-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Rallying-Thrillseeker-rally-cheer-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Rallying-Thrillseeker-rally-cheer-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar raise their right arm and do a fist pump, while a triumphant trumpet sound effect plays.
+*Level 2 makes the same motion as Level 1 with a white light trail following the avatar's hand and purple lightburst appearing around the hand at the end.
+*Level 3 will make your avatar jump up and pump their arms up three times, while a triumphant trumpet, cheering, and clapping sound effects play.
+*Level 4 makes the same motion as Level 3 with a glowing exclamation mark flickering over your avatar's head at the start, white light trails following their hands, and a cloud of white, wide-spread sparkles rotating around your avatar.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+== Cosmetics==
+=== Outfit ===
+The [[Outfit]] offered by this Spirit is a white, Manta-inspired one piece jumpsuit that goes over most of the body from neck to toes, with a light-pink triangle-shaped collar and Manta wing-like accents at the lower arms and hands, costing {{Cost|70 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fourth node ({{Cost|36 SC|season=Sanctuary}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Outfit|icon}} {{!}} The Outfit icon
+{{Icon Name||Outfit|real}} {{!}} The Outfit front
+{{Icon Name||Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Hair ===
+The [[Hair]] offered by this Spirit is a short, brushed-back hairstyle with a strand of hair hanging down in the front and shaved-off faded sides, costing {{Cost|42 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's second node ({{Cost|10 SC|season=Sanctuary}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|front}} {{!}} The Hair front
+{{Icon Name||Hair|real}} {{!}} The Hair side
+{{Icon Name||Hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Traveling Spirit ==
+[[File:Daylight Prairie - Rallying Thrillseeker.png|200px|right|thumb]]
+{{Friendship Tree Info | traveling
+|ts_dates= *March 27, 2025 (#136)
+*January 19, 2023 (#79)
+*April 29, 2021 (#34)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Rallying Thrillseeker
+|season = Sanctuary
+|image  = Sanctuary-Spirit-Rallying-Thrillseeker.png
+
+|nodeC6 = Outfit 70 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Hair 42 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+=== Hints ===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+The hints given before the [[Rallying Thrillseeker]]'s first appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=First Visit Hints
+|content=<div>
+* Is packing their bags for their trip to candlespace 
+* Likes health foods and powerwalking
+* Likes piña coladas
+* Enjoys the jeopardy theme unironically
+* Is not very good at trivia 
+* Wants to learn another language
+* Doesn't get jetlagged when traveling 
+* Has never met Oreo
+* Is really good at finding lucky clovers
+* Sings off-key
+* Has always been an excellent swimmer
+* Also likes Sparkler Spirits mediocre muffins
+* Has only made fortune teller origami
+* Is BFFs4ever with Skybot
+* Likes bread pudding
+* Likes to talk speedily
+* Is reminding gen chat to breathe
+</div>
+}}
+
+The hints given before the [[Rallying Thrillseeker]]'s second appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Second Visit Hints
+|content=<div>
+* Runs out of breath when excitedly talking about things they love
+* Shouts when surprised 
+* Hates getting into arguments
+* Impervious to getting embarrassed
+* Thinks smoothies are a meal
+* Isn't afraid to make mistakes
+* Calls everyone bro, brah!
+* Is easy to prank, but will start a prank war back
+* Gestures animatedly when talking 
+* Enjoys overcoming challenges 
+* Encourages you to start that project you’ve been thinking about
+* Will often stop to admire beautiful things
+* Doesn't understand sarcasm
+</div>
+}}
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Sanctuary}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Rallying Thrillseeker
+|type   = season
+|season = Sanctuary
+|image  = Sanctuary-Spirit-Rallying-Thrillseeker.png
+
+|nodeC5 = season_heart 3 SC AP
+|nodeL4 = spell5 AP
+|nodeC4 = Outfit 14 SC
+|nodeL3 = emote4 AP
+|nodeC3 = emote3 12 SC
+|nodeL2 = spell5 AP
+|nodeC2 = Hair 10 SC
+|nodeL1 = emote2 AP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Rally expression .jpg
+Sanctuary Images recap-rally how to.jpg
+Sanctuary Images recap-rally group.jpg
+Rallying thrillseeker map.png
+</gallery>
+
+==References==
+<references/>
+[[de:Nervenkitzelnder Rallyefahrer]]
+[[pt-br:Amante da Adrenalina Motivador]]
+[[ru:Подбодряющий авантюрист]]
+[[fr:Amateur d'adrénaline motivant]]
+[[ja:奮い立つ怖いもの知らず]]

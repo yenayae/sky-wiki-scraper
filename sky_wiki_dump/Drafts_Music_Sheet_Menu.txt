@@ -1,0 +1,386 @@
+== Music Sheet Menu ==
+[[File:Music Sheets and Instruments guide by Laila.png|thumb|right|300px|List of available Music Sheets, by Laila#3759 on Discord]]
+The Music Sheet menu displays all the possible Music Sheets. Many of the Music Sheets share the same basic icon, but a superimposed symbol allows each Sheet to be uniquely identified. The symbol identifies the Sheet's source:
+* Music Sheets without any extra symbol are provided by [[Regular Spirits]].
+* Any Music Sheet added by a [[Seasonal Events & Adventure Pass|Season]] is displayed with its Seasonal symbol.
+* Sheets available from [[Harmony Hall]] are displayed with a star symbol; an "HH" prefix is used in the ID for these Sheets.
+* Sheets introduced during [[Holidays and Special Events|Holiday Events]] are displayed with a unique symbol representing the event, such as an icon of the Winter Feast Snowglobe for [[Days of Feast]]. An "E" prefix is used in the ID for these Sheets.
+{{Clear}}
+<small>Note: The performers on the videos are those of YouTube, not the contributors uploading them. Most Music Sheet videos showcased in the Music Sheet menu section are from [https://www.youtube.com/@RaySkyIkejiji Ray’s Ikejiji Sky music] channel.</small>
+
+{| class="article-table sortable"
+! class="unsortable" | Icon
+! ID
+! [[#Availability Legend|Avail.]]
+! [[#Availability Legend|Source]]
+! Cost
+! [[Music Key|Key]]
+! Video
+|- id="Music Sheet 1"
+| {{Music Sheet|1}}
+| 1
+| {{Avail Summary | regular | spirit=Bird Whisperer }}
+| {{Cost|1 H}}
+| data-sort-value="0" | C Major
+| {{Small Video|youtube|kYsRad9SGx8|thatskyfox}}
+|- id="Music Sheet 2"
+| {{Music Sheet|2}}
+| 2
+| {{Avail Summary | regular | spirit=Whale Whisperer }}
+| {{Cost|2 H}}
+| data-sort-value="0" | C Major
+| {{Small Video|youtube|32KroRdxxsk|Jane Sky}} {{Small Video|youtube|Ustkdc6I85I|Cactus FlowerSky}}
+|- id="Music Sheet 3"
+| {{Music Sheet|3}}
+| 3
+| {{Avail Summary | regular | spirit=Manta Whisperer }}
+| {{Cost|3 H}}
+| data-sort-value="0" | C Major
+| {{Small Video|youtube|PTcxuW2ZY0s|Ray’s Ikejiji Sky Music}}
+|- id="Music Sheet 4"
+|{{Music Sheet|4}}
+|4
+| {{Avail Summary | season | spirit=Troupe Greeter | season=Rhythm }}
+|{{Cost|15 C}}
+| data-sort-value="0" | C Major
+| {{Small Video|youtube|ERD6KLp2TJg|Ray’s Ikejiji Sky Music}}
+|- id="Music Sheet 5"
+|{{Music Sheet|5}}
+| 5
+| {{Avail Summary | season | spirit=Festival Spin Dancer | season=Rhythm }}
+|{{Cost|15 C}}
+| data-sort-value="0" |C Major
+| {{Small Video|youtube|tT04VyON4lA|Ray’s Ikejiji Sky Music}}
+|- id="Music Sheet 6"
+|{{Music Sheet|6}}
+|6
+| {{Avail Summary | season | spirit=Admiring Actor | season=Rhythm }}
+|{{Cost|15 C}}
+| data-sort-value="0" |C Major
+| {{Small Video|youtube|HMDI7kqYn20|Ray’s Ikejiji Sky Music}}
+|- id="Music Sheet 7"
+|{{Music Sheet|7}}
+|7
+| {{Avail Summary | season | spirit=Provoking Performer | season=Gratitude }}
+|{{Cost|15 C}}
+| data-sort-value="0" |C Major
+|[[File:Fox Band — Music Sheet 7 (Sky- Children of light)|x50px]] [[File:Harp|x50px]]
+|- id="Music Sheet 8"
+|{{Music Sheet|8}}
+|8
+| {{Avail Summary | season | spirit=Saluting Protector | season=Gratitude }}
+|{{Cost|15 C}}
+| data-sort-value="3" |E♭ Major
+|[[File:Music Sheet 8 - Piano - Sky-Music Sheet 8 Piano|x50px]] [[File:Music Sheet 8 - Bell - Sky-music sheet 8 bell|x50px]]
+|- id="Music Sheet 9"
+|{{Music Sheet|9}}
+|9
+| {{Avail Summary | season | spirit= Laidback Pioneer | season=Lightseekers }}
+|{{Cost|15 C}}
+| data-sort-value="0" |C Major
+|[[File:Sheet 9 -Ikejiji’s Sky music sheet guideいけじじのSky楽譜解説9番|90px]]
+|- id="Music Sheet 10"
+|{{Music Sheet|10}}
+|10
+| {{Avail Summary | season | spirit=Crab Whisperer | season=Lightseekers }}
+|{{Cost|15 C}}
+| data-sort-value="0" |C Major
+|[[File:Fox Band — Music Sheet 10 (Sky- Children of Light)|x50px]]
+|- id="Music Sheet 11"
+|{{Music Sheet|11}}
+|11
+| {{Avail Summary | season | spirit=Wise Grandparent | season=Belonging }}
+|{{Cost|15 C}}
+| data-sort-value="10" |B♭ Major
+|[[File:Fox Band — Sheet 11 (Sky- Children of Light)|x50px]] [[File:Music Sheet 11 on Piano - Sky-Music Sheet 11 on piano|x50px]]
+|- id="Music Sheet 12"
+|{{Music Sheet|12}}
+|12
+| {{Avail Summary | season | spirit=Hairtousle Teen | season=Belonging }}
+|{{Cost|15 C}}
+| data-sort-value="3" |E♭ Major
+|[[File:Fox Band — Music Sheet 12 (Sky Children of the light)|x50px]]
+|- id="Music Sheet 13"
+|{{Music Sheet|13}}
+|13
+| {{Avail Summary | season | spirit=Playfighting Herbalist | season=Enchantment }}
+|{{Cost|15 C}}
+| data-sort-value="3" |E♭ Major
+|[[File:Fox Band — Music Sheet 13 (Sky Children of the light)|x50px]] [[File:Sky Children of the Light Music Sheet 13 (Season of Enchantment) Harp|x50px]]
+|- id="Music Sheet 14"
+|{{Music Sheet|14}}
+|14
+| {{Avail Summary | season | spirit=Jellyfish Whisperer | season=Sanctuary }}
+|{{Cost|15 C}}
+| data-sort-value="0" |C Major
+|[[File:Fox Band — Music Sheet 14 (Sky- Children of the light)|x50px]]
+|- id="Music Sheet 15"
+|{{Music Sheet|15}}
+|15
+| {{Avail Summary | season | spirit=Timid Bookworm | season=Sanctuary }}
+|{{Cost|15 C}}
+| data-sort-value="0" |C Major
+|[[File:Sheet 15 -Ikejiji’s Sky music sheet guideいけじじのSky楽譜解説15番|90px]]
+|- id="Music Sheet 16"
+|{{Music Sheet|16}}
+|16
+| {{Avail Summary | season | spirit=Prophet of Earth | season=Prophecy }}
+|{{Cost|15 C}}
+| data-sort-value="4" |E Major
+|[[File:Fox Band — Music Sheet 16 (Sky- Children of the Light)|90px]]
+|- id="Music Sheet 17"
+|{{Music Sheet|17}}
+|17
+| {{Avail Summary | season | spirit=Prophet of Fire | season=Prophecy }}
+|{{Cost|15 C}}
+| data-sort-value="0" |C Major
+|[[File:Sheet 17 Percussion added- Ikejiji’s Sky music sheet guide 打楽器追加：17番 いけじじSky楽譜解説|90px]]
+|- id="Music Sheet 18"
+|{{Music Sheet|18}}
+|18
+| {{Avail Summary | season | spirit=Peeking Postman | season=Dreams }}
+|{{Cost|15 C}}
+| data-sort-value="0" |C Major
+|[[File:Sheet 18- Ikejiji’s Sky music sheet guide- いけじじのSky楽譜解説18番|90px]]
+|- id="Music Sheet 19"
+|{{Music Sheet|19}}
+|19
+| {{Avail Summary | season | spirit=Bearhug Hermit | season=Dreams }}
+|{{Cost|15 C}}
+| data-sort-value="0" |C Major
+|[[File:【改訂版】Sky夢かなう季節 楽譜19番- いけじじSky楽譜解説|90px]]
+|- id="Music Sheet 20"
+|{{Music Sheet|20}}
+|20
+| {{Avail Summary | season | spirit=Daydream Forester | season=Assembly }}
+|{{Candle|15}}
+| data-sort-value="11" |B Major
+|[[File:【SQ-高音質】Music Sheet 20 (Sky- Children of the Light -星を紡ぐ子どもたち)|90px]]
+|- id="Music Sheet 21"
+|{{Music Sheet|21}}
+|21
+| {{Avail Summary | season | spirit= Scaredy Cadet | season=Assembly }}
+|{{Cost|15 C}}
+| data-sort-value="0" |C Major
+|[[File:Sheet 21 -Ikejiji’s Sky music sheet guideいけじじのSky楽譜解説21番|90px]]
+|- id="Music Sheet 22"
+|{{Music Sheet|22}}
+|22
+| {{Avail Summary | season | spirit=Gloating Narcissist | season=The Little Prince }}
+|{{Cost|15 C}}
+| data-sort-value="5" |F Major
+|[[File:Sheet 22- Ikejiji’s Sky music sheet guide- いけじじSky楽譜解説22番|90px]]
+|- id="Music Sheet 23"
+|{{Music Sheet|23}}
+|23
+| {{Avail Summary | season | spirit=Slouching Soldier | season=The Little Prince }}
+|{{Cost|15 C}}
+| data-sort-value="0" |C Major
+|[[File:Sheet 23- Ikejiji’s Sky music sheet guide- いけじじSky楽譜解説23番|90px]]
+|- id="Music Sheet 24"
+|{{Music Sheet|24}}
+|24
+| {{Avail Summary | season | spirit=Lively Navigator | season=Flight }}
+|{{Cost|15 C}}
+| data-sort-value="0" |C Major
+|[[File:Sheet 24- Ikejiji’s Sky music sheet guide- いけじじSky楽譜解説24番|90px]]
+|- id="Music Sheet 25"
+|{{Music Sheet|25}}
+|25
+| {{Avail Summary | season | spirit=Talented Builder | season=Flight }}
+|{{Cost|15 C}}
+| data-sort-value="5" |F Major
+|[[File:Sheet 25- Ikejiji’s Sky music sheet guide- いけじじSky楽譜解説25番|90px]]
+|- id="Music Sheet 26"
+|{{Music Sheet|26}}
+|26
+| {{Avail Summary | season | spirit=Cackling Cannoneer | season=Abyss }}
+|{{Cost|15 C}}
+| data-sort-value="0" |C Major
+|[[File:Sheet 26- Ikejiji’s Sky music sheet guide- いけじじSky楽譜解説26番|90px]]
+|- id="Music Sheet 27"
+|{{Music Sheet|27}}
+|27
+| {{Avail Summary | season | spirit=Bumbling Boatswain | season=Abyss }}
+|{{Cost|15 C}}
+| data-sort-value="5" |F Major
+|[[File:Sheet 27- Ikejiji’s Sky music sheet guide- いけじじSky楽譜解説27番|90px]]
+|- id="Music Sheet 28"
+|{{Music Sheet|28}}
+|28
+| {{Avail Summary | season | spirit=Modest Dancer | season=Performance }}
+|{{Cost|unknown}}
+| data-sort-value="2" |D Major
+|[[File:Sheet 28(Old 29)- Ikejiji’s Sky music sheet guide- いけじじSky楽譜解説28番(元29番）|90px]]
+|- id="Music Sheet 29"
+|{{Music Sheet|29}}
+|29
+| {{Avail Summary | season | spirit=Frantic Stagehand | season=Performance }}
+|{{Cost|22 C}}
+| data-sort-value="5" |F Major
+|[[File:Sheet 29(old 30)- Ikejiji’s Sky music sheet guide- いけじじSky楽譜解説29(元30)番 Sky COTL|90px]]
+|- id="Music Sheet 30"
+|{{Music Sheet|30}}
+|30
+| {{Avail Summary | season | spirit=Ancient Darkness | season=Shattering }}
+|{{Cost|15 C}}
+| data-sort-value="9" |A Major
+|[[File:Sky music sheet 30 Guide 砕ケル闇ノ季節30番楽譜解説いけじじSky楽譜解説 Season of Shattering - Ikejiji’s Sky music guide|90px]]
+|- id="Music Sheet 31"
+|{{Music Sheet|31}}
+|31
+| {{Avail Summary | season | spirit=Ancient Light | season=Shattering }}
+|{{Cost|15 C}}
+| data-sort-value="0" |C Major
+|[[File:Sky music sheet 31 Guide砕ケル闇ノ季節31番楽譜解説 いけじじSky楽譜解説 Season of Shattering - Ikejiji’s Sky music guide|90px]]
+|- id="Music Sheet 32"
+| {{Music Sheet|32}}
+| 32
+| {{Avail Summary | season | spirit=AURORA Guide | season=Aurora }}
+| {{Cost| 20 C }}
+| data-sort-value="0" |C Major
+|[[File:Sky music sheet 32 Guide AURORAの季節32番楽譜解説いけじじSky楽譜解説 Season of AURORA - Ikejiji’s Sky music guide|90px]]
+|- id="Music Sheet 33"
+|{{Music Sheet|33}}
+|33
+| {{Avail Summary | season | spirit=Seed of Hope | season=Aurora }}
+|{{Cost|unknown}}
+| data-sort-value="3" |E♭ Major
+|[[File:Sky music sheet 33 Guide AURORAの季節33番楽譜解説いけじじSky楽譜解説 Season of AURORA - Ikejiji’s Sky music guide|90px]]
+|- id="Music Sheet 34"
+| {{Music Sheet|34}}
+| 34
+| {{Avail Summary | season | spirit=AURORA Guide | season=Aurora }}
+| {{Cost| 20 C }}
+| data-sort-value="1" | D♭ Major
+|[[File:Sky music sheet 34 Guide AURORAの季節34番楽譜解説いけじじSky楽譜解説 Season of AURORA - Ikejiji’s Sky music guide|90px]]
+|- id="Music Sheet 35"
+|{{Music Sheet|35}}
+|35
+| {{Avail Summary | season | spirit=Warrior of Love | season=Aurora }}
+|{{Cost|15 C}}
+| data-sort-value="7" |G Major
+|[[File:Sky music sheet 35 Guide AURORAの季節35番楽譜解説いけじじSky楽譜解説 Season of AURORA - Ikejiji’s Sky music guide|90px]]
+|- id="Music Sheet 36"
+|{{Music Sheet|36}}
+|36
+| {{Avail Summary | season | spirit=Running Wayfarer | season=Aurora }}
+|{{Cost|unknown}}
+| data-sort-value="11" |B Major
+|[[File:【改訂版】Sky_36番楽譜解説_AURORAの季節_いけじじSky楽譜解説_Runaway_music_sheet_guide_(sheet_36)|90px]]
+|- id="Music Sheet 37"
+| {{Music Sheet|37}}
+| 37
+| {{Avail Summary | season | spirit=Jolly Geologist | season=Moments }}
+| {{Cost|unknown}}
+| data-sort-value="2" |D Major
+|[[File:いけじじのSky楽譜解説_37番【Sky星を紡ぐ子どもたち】瞬きの季節・上機嫌な地質学者|90px]]
+|- id="Music Sheet 38"
+| {{Music Sheet|38}}
+| 38
+| {{Avail Summary | season | spirit=Echo of an Abandoned Refuge | season=Revival }}
+| {{Cost|unknown}}
+| data-sort-value="0" | C Major
+| [[File:いけじじのSky楽譜解説 38番【Sky星を紡ぐ子どもたち】復古の季節・見捨てられた隠れ家の残響|90px]]
+|- id="Music Sheet 39"
+| {{Music Sheet|39}}
+| 39
+| {{Avail Summary | season | spirit=Feudal Lord | season=Nine-Colored Deer }}
+| {{Cost| unknown}}
+| data-sort-value="0" | C Major
+| [[File:いけじじのSky楽譜解説 39番【Sky星を紡ぐ子どもたち】九色の鹿の季節・国王所持|90px]]
+|- id="Music Sheet 40"
+| {{Music Sheet|40}}
+| 40
+| {{Avail Summary | season | spirit=The Musicians' Legacy | season=Duets }}
+| {{Cost| unknown }}
+| data-sort-value="0" | C Major
+| [[File:［チェロ改訂版］いけじじのSky楽譜解説 40番【Sky星を紡ぐ子どもたち】重なる音色の季節・音楽家たちの遺産所持|90px]]
+|- id="Music Sheet 41"
+| {{Music Sheet|41}}
+| 41
+| {{Avail Summary | season | spirit=Spirit of Adventure | season=Moomin }}
+| {{Cost| 8 SC | season=Moomin }}
+| data-sort-value="0" | C Major
+| [[File:いけじじのSky楽譜解説 41番【Sky星を紡ぐ子どもたち】ムーミンの季節・冒険の心所持|90px]]
+|- id="Music Sheet 42"
+| {{Music Sheet|42}}
+| 42
+| {{Avail Summary | season | spirit=Sense of Self | season=Moomin }}
+| {{Cost| 12 SC | season=Moomin }}
+| data-sort-value="0" | C Major
+|[[File:いけじじのSky楽譜解説 42番【Sky星を紡ぐ子どもたち】ムーミンの季節・自己の確立所持|90px]]
+|- id="Music Sheet HH1"
+|{{Music Sheet|HH1}}
+|HH1 
+| {{Avail Summary | permanent | source={{Icon|Harmony-hall-icon-Ray.png|table|link=Harmony Hall}} }}
+|{{Cost|10 C}}
+| data-sort-value="2" |D Major
+|[[File:Sheet H1(Harmony Hall)- Ikejiji’s Sky music sheet guide- いけじじSky楽譜解説奏1（奏の音楽堂でもらえる1番目の楽譜）|90px]]
+|- id="Music Sheet HH2"
+|{{Music Sheet|HH2}}
+|HH2
+| {{Avail Summary | permanent | source={{Icon|Harmony-hall-icon-Ray.png|table|link=Harmony Hall}} }}
+|{{Cost|10 C}}
+| data-sort-value="7" |G Major 
+|[[File:Sheet H2(Harmony Hall)- Ikejiji’s Sky music sheet guide- いけじじSky楽譜解説奏２（奏の音楽堂でもらえる2番目の楽譜）|90px]]
+|- id="Music Sheet HH3"
+|{{Music Sheet|HH3}}
+|HH3 
+| {{Avail Summary | permanent | source={{Icon|Harmony-hall-icon-Ray.png|table|link=Harmony Hall}} }}
+|{{Cost|10 C}}
+| data-sort-value="0" |C Major
+|[[File:Sheet H3(Harmony Hall)- Ikejiji’s Sky music sheet guide- いけじじSky楽譜解説奏３（奏の音楽堂でもらえる3番目の楽譜）|90px]]
+|- id="Music Sheet HH4"
+|{{Music Sheet|HH4}}
+|HH4
+| {{Avail Summary | permanent | source={{Icon|Harmony-hall-icon-Ray.png|table|link=Harmony Hall}} }}
+|{{Cost|10 C}}
+| data-sort-value="0" | C Major
+|[[File:Sheet H4(Harmony Hall)- Ikejiji’s Sky music sheet guide- いけじじSky楽譜解説奏４（奏の音楽堂でもらえる4番目の楽譜）|90px]]
+|- id="Music Sheet HH5"
+|{{Music Sheet|HH5}}
+|HH5
+| {{Avail Summary | permanent | source={{Icon|Harmony-hall-icon-Ray.png|table|link=Harmony Hall}} }}
+|{{Cost|5 C}}
+| data-sort-value="0" | C Major
+|[[File:いけじじのSky楽譜解説 奏0番【Sky星を紡ぐ子どもたち】奏の音楽堂|90px]]
+|- id="Music Sheet E1"
+|{{Music Sheet|E1}}
+|E1
+| {{Avail Summary | days | days=Feast | source={{Icon|Days-of-Feast-event-symbol-Ray.png|table|link=Days of Feast}} }}
+|{{Cost|10 C}}
+| data-sort-value="2" |D Major
+|[[File:Sky Music Sheet Ode to Joy - Ikejiji’s Sky music sheet guide- いけじじSky楽譜解説 歓喜の歌(old 26, E1, 旧26番 )|90px]]
+|- id="Music Sheet E2"
+|{{Music Sheet|E2}}<ref name="sheet_e2">The icon for Music Sheet E2 was added to the menu during patch {{v|0.17.5.0}}, but the corresponding Music Sheet was not available in game until [[Sky Anniversary]] 2022.</ref>
+|E2
+| {{Avail Summary | days | days=Sky | source={{Icon|Sky-Anniversary-event-symbol-Ray.png|table|link=Sky Anniversary}} }}
+|{{Cost| 3 H }}
+| data-sort-value="7" |G Major
+|[[File:Sky Happy Birthday Music Sheet Guide ハッピーバースデー楽譜解説いけじじSky楽譜解説 Ikejiji’s- Sheet E2 E2番|90px]]
+|- id="Music Sheet E3"
+|{{Music Sheet|E3}}
+|E3
+| {{Avail Summary | days | days=Love | source={{Icon|Days-of-Love-event-symbol.png|table|link=Days of Love}} }}
+|{{Cost| 7 T |event=Love}}
+| data-sort-value="11" | B Major
+|[[File:【Sky楽譜合奏】 「愛しみの日々」 2024 (E3) Sky星を紡ぐ子どもたち|90px]]
+|}
+
+{| class="article-table" id="Availability Legend"
+|+Availability Legend
+| {{Avail Summary | regular | legend=1 }}
+|-
+| {{Avail Summary | permanent | legend=1 }}
+|-
+| {{Avail Summary | s+ | legend=1 }}
+|-
+| {{Avail Summary | t* | legend=1 }}
+|-
+| {{Avail Summary | d* | legend=1 }}
+|-
+| {{Avail Summary | days | legend=1 }}
+|-
+| {{Avail Summary | season | legend=1 }}
+|}

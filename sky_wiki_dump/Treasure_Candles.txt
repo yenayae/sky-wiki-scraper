@@ -1,0 +1,243 @@
+[[File:Bonuscandles.JPG|thumb|Treasure Candle]]
+'''Treasure Candles''' (also called Bonus Candles and Candle Cakes) are sources of Light players can collect. These appear in the shape of large red "cakes." There are two types of Treasure Candles: permanent and daily. Each Treasure Candle will give the player 50 [[Pieces of Light]].<br>
+<br>
+[[File:Bonuscandlegate.JPG|thumb|Chosen Realm]]
+Permanent Treasure Candles exist in specific locations. They do not change locations. Daily Treasure Candles appear in a different Realm every day, rotating in order between [[Daylight Prairie]], [[Hidden Forest]], [[Valley of Triumph]], [[Golden Wasteland]], and [[Vault of Knowledge]]. The chosen Realm is indicated by two lit Red Candles outside the Realm's Archway Portal at [[Home]] and [[Aviary Village]] (see picture) and contains four Daily Treasure Candles. The first Daily Treasure Candle always shows up in the Social Space of the chosen Realm, while the other three appear in various other spots in the Realm. 
+
+==Treasure Candle Locations==
+Each chosen Realm has two or three "rotations" of Daily Treasure Candles, similar to how the locations of [[Flora,_Minerals_and_Elements_of_Sky#Darkness|Darkness Plants]] are subject to change each day. The Daily Treasure Candle in the Social Space will signal which rotation is being used for that day.
+
+[[Isle of Dawn]] only contains Permanent Treasure Candles and never any Daily Treasure Candles, in contrast to [[Golden Wasteland]], which does not contain any Permanent Treasure Candles but will sometimes be the chosen Realm for Daily Treasure Candles. The [[Eye of Eden|Eye of Eden (Spoiler Warning!)]] does not contain either Permanent Treasure Candles nor will contain Daily Treasure Candles.
+
+There are 32 Permanent Treasure Candles and 4 Daily Treasure Candles that can be collected daily.
+
+==Today's Treasure Candle Rotation==
+<!-- Mbox for notices about errors
+{{Mbox 
+| image = SOA-Cackling-Cannoneer-emote.png /// LookoutScout-1.png
+| header = Treasure Candles Bug
+| text = Description of error. /// TGC has listed this as a [LINK Known Issue], thank you for your patience and understanding while they work on this issue!
+}}-->
+<noinclude>This section was last updated on '''{{CURRENTMONTHNAME}} {{CURRENTDAY}}, {{CURRENTYEAR}}''' (UTC). {{Purge}}<br>
+
+''NOTE: This section is automatic generated. If the rotation pattern changed and the info below is outdated, please either contact an [[Help:Admins and Moderators|admin]] or use the Source Editor to apply the appropriate changes. Thank you!''<br>
+
+</noinclude>Today's <noinclude>({{Game Stat|today|format=F j}} in Sky Time) </noinclude>Treasure Candle rotation is in {{#vardefine: daydiff| {{Game Stat|datediff|from=2025-08-21 PDT}} }}<!--
+If there are any hiccups in the rotation, here's how to fix this calculator:
+  1. Set the datediff from date to today in the format of YYYY-MM-DD PST/PDT.
+  2. Fix the 0-4 number on the realm_id switch statement below by numbering today's realm as 0. 
+     For example, if today is Valley, 0 = Valley ... 4 = Forest.
+  3. Double cake rotations can be enabled by setting the double_cake variable value to "true" (case sensitive).
+     Setting it to any other value or commenting out the vardefine for double_cakes will hide it.
+ 
+  The realm is calculated by just the number of days since the start day MOD 5. The start day's realm is set to 0.
+  The rotation is calculated based on day of the month because the rotations reset at the start of every month. Using that, you can count how many times the realm has already occurred for the month. Then, that amount can be converted to which rotation it should be on.
+-->{{#vardefine: realm_id| {{#expr: {{#var:daydiff}} mod 5}} }}<!--
+-->{{#vardefine: day_of_month| {{Game Stat|today|format=j}} }}<!--
+-->{{#switch: {{#var:realm_id}}<!--
+-->{{#vardefine:double_cakes|false}}<!--CHANGE VALUE HERE TO TOGGLE DOUBLE CAKE ROTATION-->
+|4 = Daylight Prairie with {{#switch: {{#expr: (ceil({{#var:day_of_month}} / 5) - 1) mod 3 }}
+     |0 = Rotation 1<!---->{{#ifeq:{{#var:double_cakes}}|true|&nbsp;AND 2|}}<!---->.<br>{{#lst: Treasure Candles|Prairie R1}}<!--
+                        -->{{#ifeq:{{#var:double_cakes}}|true|<br>{{#lst: Treasure Candles|Prairie R2}}|}}<!---->
+     |1 = Rotation 3<!---->{{#ifeq:{{#var:double_cakes}}|true|&nbsp;AND 1|}}<!---->.<br>{{#lst: Treasure Candles|Prairie R3}}<!--
+                        -->{{#ifeq:{{#var:double_cakes}}|true|<br>{{#lst: Treasure Candles|Prairie R1}}|}}<!---->
+     |2 = Rotation 2<!---->{{#ifeq:{{#var:double_cakes}}|true|&nbsp;AND 3|}}<!---->.<br>{{#lst: Treasure Candles|Prairie R2}}<!--
+                        -->{{#ifeq:{{#var:double_cakes}}|true|<br>{{#lst: Treasure Candles|Prairie R3}}|}}<!---->
+     }}
+|0 = Hidden Forest with {{#switch: {{#expr: (ceil({{#var:day_of_month}} / 5) - 1) mod 3 }}
+     |0 = Rotation 2<!---->{{#ifeq:{{#var:double_cakes}}|true|&nbsp;AND 1|}}<!---->.<br>{{#lst: Treasure Candles|Forest R2}}<!--
+                        -->{{#ifeq:{{#var:double_cakes}}|true|<br>{{#lst: Treasure Candles|Forest R1}}|}}<!---->
+     |1 = Rotation 3<!---->{{#ifeq:{{#var:double_cakes}}|true|&nbsp;AND 2|}}<!---->.<br>{{#lst: Treasure Candles|Forest R3}}<!--
+                        -->{{#ifeq:{{#var:double_cakes}}|true|<br>{{#lst: Treasure Candles|Forest R2}}|}}<!---->
+     |2 = Rotation 1<!---->{{#ifeq:{{#var:double_cakes}}|true|&nbsp;AND 3|}}<!---->.<br>{{#lst: Treasure Candles|Forest R1}}<!--
+                        -->{{#ifeq:{{#var:double_cakes}}|true|<br>{{#lst: Treasure Candles|Forest R3}}|}}<!---->
+     }}
+|1 = Valley of Triumph with {{#switch: {{#expr: (ceil({{#var:day_of_month}} / 5) - 1) mod 2 }}
+     |0 = Rotation 1<!---->{{#ifeq:{{#var:double_cakes}}|true|&nbsp;AND 2|}}<!---->.<br>{{#lst: Treasure Candles|Valley R1}}<!--
+                        -->{{#ifeq:{{#var:double_cakes}}|true|<br>{{#lst: Treasure Candles|Valley R2}}|}}<!---->
+     |1 = Rotation 2<!---->{{#ifeq:{{#var:double_cakes}}|true|&nbsp;AND 1|}}<!---->.<br>{{#lst: Treasure Candles|Valley R2}}<!--
+                        -->{{#ifeq:{{#var:double_cakes}}|true|<br>{{#lst: Treasure Candles|Valley R1}}|}}<!---->
+     }}
+|2 = Golden Wasteland with {{#switch: {{#expr: (ceil({{#var:day_of_month}} / 5) - 1) mod 3 }}
+     |1 = Rotation 2<!---->{{#ifeq:{{#var:double_cakes}}|true|&nbsp;AND 3|}}<!---->.<br>{{#lst: Treasure Candles|Wasteland R2}}<!--
+                        -->{{#ifeq:{{#var:double_cakes}}|true|<br>{{#lst: Treasure Candles|Wasteland R3}}|}} <!---->
+     |2 = Rotation 3<!---->{{#ifeq:{{#var:double_cakes}}|true|&nbsp;AND 1|}}<!---->.<br>{{#lst: Treasure Candles|Wasteland R3}}<!--
+                        -->{{#ifeq:{{#var:double_cakes}}|true|<br>{{#lst: Treasure Candles|Wasteland R1}}|}} <!---->
+     |0 = Rotation 1<!---->{{#ifeq:{{#var:double_cakes}}|true|&nbsp;AND 2|}}<!---->.<br>{{#lst: Treasure Candles|Wasteland R1}}<!--
+                        -->{{#ifeq:{{#var:double_cakes}}|true|<br>{{#lst: Treasure Candles|Wasteland R2}}|}} <!---->
+     }}
+|3 = Vault of Knowledge with {{#switch: {{#expr: (ceil({{#var:day_of_month}} / 5) - 1) mod 2 }}
+     |0 = Rotation 1<!---->{{#ifeq:{{#var:double_cakes}}|true|&nbsp;AND 2|}}<!---->.<br>{{#lst: Treasure Candles|Vault R1}}<!--
+                        -->{{#ifeq:{{#var:double_cakes}}|true|<br>{{#lst: Treasure Candles|Vault R2}}|}}<!---->
+     |1 = Rotation 2<!---->{{#ifeq:{{#var:double_cakes}}|true|&nbsp;AND 1|}}<!---->.<br>{{#lst: Treasure Candles|Vault R2}}<!--
+                        -->{{#ifeq:{{#var:double_cakes}}|true|<br>{{#lst: Treasure Candles|Vault R1}}|}}<!---->
+     }}
+}}
+
+
+==Isle of Dawn==
+===<span id="Isle Permanent"></span>Permanent (15)===
+<gallery widths="175" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Insidethecave.JPG|'''1st TC - Left Dune Cave'''<br>At the end of the cave, next to the 3 light orbs
+Wax-isle-floating-island-top.jpg|'''2nd TC - Butterfly Cave'''<br>At the top of the island, in the boat by the pond
+Wax-isle-trials-main-chamber.jpg|'''3rd TC - Cave of Prophecies'''<br>At the center of the main chamber, near the Prophecy Guide
+Wax-trials-water-tc-island.jpg|'''4th TC - Trial of Water'''<br>On an island next to a ring formation, just before the floating icebergs
+Wax-trials-water-tc-mountain.jpg|'''5th TC - Trial of Water'''<br>On the back side of the goal mountain with a Child of Light
+Wax-trials-earth-tc.jpg|'''6th & 7th TC - Trial of Earth'''<br>On the final platform with a Child of Light
+Wax-trials-air.jpg|'''8th to 11th TC - Trial of Air'''<br>Between the ice pillars on the final platform with a Child of Light
+Wax-trials-fire.jpg|'''12th to 15th TC - Trial of Fire'''<br>In the final area, before walking to the Blessing Altar
+</gallery>
+
+==Daylight Prairie==
+===<span id="Prairie R1"></span>Rotation 1===
+<section begin="Prairie R1" /><gallery widths="175" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Bonusprairie10.JPG|'''Social Space'''<br>To the left of the area, next to the pond
+Bonusprairie1.JPG|'''Butterfly Fields'''<br>To the back of the area, next to the Prairie Villages exit
+Bonusprairie3.JPG|'''Bird Nest'''<br>Inside the hole cutout of the smaller second island
+Bonusprairie2.JPG|'''Caves'''<br>To the right of the cave entrance
+</gallery><section end="Prairie R1" />
+
+===<span id="Prairie R2"></span>Rotation 2===
+<section begin="Prairie R2" /><gallery widths="175" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Daily-Treasure-Candle-Prairie-Lobby-Gravestones.png|'''Social Space'''<br>To the left of of the area, next to 3 Spirit markers
+Daily-Treasure-Candle-Bird-Nest-Tower.png|'''Bird Nest'''<br>On the larger first island, at the base of the open tower
+Daily-Treasure-Candle-Prairie-Caves-Exit-Steps.png|'''Caves'''<br>At the middle of the area, on the steps leading to the Prairie Villages exit
+Daily-Treasure-Candle-Prairie-Temple-Bridge.png|'''Temple'''<br>On the bridge railing, to the right
+</gallery><section end="Prairie R2" />
+
+===<span id="Prairie R3"></span>Rotation 3===
+<section begin="Prairie R3" /><gallery widths="175" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Daily-Treasure-Candle-Prairie-Lobby-Closets.png|'''Social Space'''<br>To the right of the area, near the jump off point
+Daily-Treasure-Candle-Butterfly-Fields-Middle.png|'''Butterfly Fields'''<br>At the middle of the area, in front of the dome
+Daily-Treasure-Candle-Villages-Middle.png|'''Villages'''<br>On the small center island with a Child of Light
+Daily-Treasure-Candle-Prairie-Temple-Inside.png|'''Temple'''<br>Inside and to the left, behind some jars
+</gallery><section end="Prairie R3" />
+
+===<span id="Prairie Permanent"></span>Permanent (3)===
+<gallery widths="175" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Wax snc13.JPG|'''1st TC - Sanctuary Islands'''<br>On the first level of the large waterfall 
+Wax snc11.JPG|'''2nd TC - Sanctuary Islands'''<br>Next to the Bell Monument
+Wax snc12.JPG|'''3rd TC - Sanctuary Islands'''<br>On the floating island near the entrance
+</gallery>
+
+==Hidden Forest==
+===<span id="Forest R1"></span>Rotation 1===
+<section begin="Forest R1" /><gallery widths="175" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Daily-Treasure-Candle-Forest-Lobby-Map-Shrine.png|'''Social Space'''<br>To the front right of the area, next to the Map Shrine
+Daily-Treasure-Candle-Forest-Brook-Boneyard-Exit.png|'''Brook'''<br>To the back of the area, by the exit to Broken Bridges
+Daily-Treasure-Candle-Elevated-Clearing-Gazebo.png|'''Elevated Clearing'''<br>To the back of the area, on the second gazebo
+Daily-Treasure-Candle-Forest-Boneyard-Bridge.png|'''Broken Bridges'''<br>On the first bridge segment
+</gallery><section end="Forest R1" />
+
+===<span id="Forest R2"></span>Rotation 2===
+<section begin="Forest R2" /><gallery widths="175" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Bonusforest12.JPG|'''Social Space'''<br>To the right of the area, next to a Spirit marker
+Bonusforest1.JPG|'''Walled Area with Boats'''<br>To the right of the area, on the covered walkway
+Bonusforest2.JPG|'''Brook'''<br>At the start of the area, on the first gazebo
+Bonusforest15.JPG|'''Elevated Clearing'''<br>At the center of the pond
+</gallery><section end="Forest R2" />
+
+===<span id="Forest R3"></span>Rotation 3===
+<section begin="Forest R3" /><gallery widths="175" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Daily-Treasure-Candle-Forest-Lobby-Survey-Shrine.png|'''Social Space'''<br>To the front left of the area, next to the Survey Shrine
+Daily-Treasure-Candle-Forest-Clearing-Tree-Alcove.png|'''Treed Area'''<br>To the left of the area, at the first tree alcove
+Daily-Treasure-Candle-Boneyard-Tree-Tunnel.png|'''Tree Tunnels'''<br>In the tree alcove that leads to the Broken Bridges
+Daily-Treasure-Candle-Forest-End-Pond.png|'''Forest End'''<br>At the back of the area, next to the lake
+</gallery><section end="Forest R3" />
+
+===<span id="Forest Permanent"></span>Permanent (2)===
+<gallery widths="175" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Wax-forest-brook-pipe.jpg|'''1st TC - Brook'''<br>Hidden in the octagon-shaped pipe
+Wax-forest-wind-paths-clouds-center-cake.png|'''2nd TC - The Wind Paths'''<br>Nearby the exit to Sanctuary Islands
+</gallery>
+
+==Valley of Triumph==
+===<span id="Valley R1"></span>Rotation 1===
+<section begin="Valley R1" /><gallery widths="175" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Daily-Treasure-Candle-Valley-Lobby-Closets.png|'''Social Space'''<br>To the left of the area, next to the closets
+Daily-Treasure-Candle-Ice-Rink-Bridge-Top.png|'''Ice Rink'''<br>At the center of the area, on the bridge leading to the Citadel
+Daily-Treasure-Candle-Citadel-Arch-Entrance.png|'''Citadel'''<br>On the second platform after the first gateway
+Daily-Treasure-Candle-Coliseum-Bleachers-Left.png|'''Coliseum'''<br>On the left side, at the bottom of the bleachers
+</gallery><section end="Valley R1" />
+
+===<span id="Valley R2"></span>Rotation 2===
+<section begin="Valley R2" /><gallery widths="175" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Daily-Treasure-Candle-Valley-Lobby-Slope-Right.png|'''Social Space'''<br>To the right of the area, at the start of the slope down
+Daily-Treasure-Candle-Ice-Rink-Bridge-Left.png|'''Ice Rink'''<br>On the ice, to the left of the bridge
+Daily-Treasure-Candle-Citadel-Arch-Exit.png|'''Citadel'''<br>On the second platform past the tallest archways
+Daily-Treasure-Candle-Coliseum-Bleachers-Right.png|'''Coliseum'''<br>On the right side, at the bottom of the bleachers
+</gallery><section end="Valley R2" />
+
+===<span id="Valley Permanent"></span>Permanent (3)===
+<gallery widths="175" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Wax-valley-dreams-sliding-track.jpg|'''1st TC - Village of Dreams'''<br>At the back of the area, next to the platform to summon boats
+Wax-valley-dreams-spa.jpg|'''2nd TC - Hot Springs'''<br>Up in the mountains, above the Village Theater exit
+Wax-valley-hermit.jpg|'''3rd TC - Hermit Valley'''<br>Inside the back of the Hermit's hideout 
+</gallery>
+
+==Golden Wasteland==
+===<span id="Wasteland R1"></span>Rotation 1===
+<section begin="Wasteland R1" /><gallery widths="175" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Daily-Treasure-Candle-Wasteland-Lobby-Block.png|'''Social Space'''<br>At the start of the area, on a block behind the spawn point
+Daily-Treasure-Candle-Broken-Temple-Exit.png|'''Broken Temple'''<br>At the back of the area, on the staircase leading to the Graveyard exit
+Daily-Treasure-Candle-Graveyard-Skull.png|'''Graveyard'''<br>At the center of the area, under the second skull
+Daily-Treasure-Candle-Battlefield-Lamp.png|'''Battlefield'''<br>Within the walls, next to a block with a lamp
+</gallery><section end="Wasteland R1" />
+
+===<span id="Wasteland R2"></span>Rotation 2===
+<section begin="Wasteland R2" /><gallery widths="175" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Daily-Treasure-Candle-Wasteland-Lobby-Exit-Left.png|'''Social Space'''<br>To the left of the area, near the steps leading to the Broken Temple exit
+Daily-Treasure-Candle-Broken-Temple-Crab-Pit.png|'''Broken Temple'''<br>At the center of the area, next to the sunken building infested with Crabs
+Daily-Treasure-Candle-Graveyard-Center.png|'''Graveyard'''<br>At the center of the area, on a platform to the right of the large structure
+Daily-Treasure-Candle-Shipwreck-Ship-Back.png|'''Shipwreck'''<br>At the center of the area, on the back of the ship
+</gallery><section end="Wasteland R2" />
+
+===<span id="Wasteland R3"></span>Rotation 3===
+<section begin="Wasteland R3" /><gallery widths="175" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Bonuswasteland10.JPG|'''Social Space'''<br>To the right of the area, next to the steps leading to the Broken Temple exit
+Bonuswasteland8.JPG|'''Graveyard'''<br>At the back of the area, on the steps leading to the Battlefield exit
+Bonuswasteland11.JPG|'''Shipwreck'''<br>At the center of the area, on the front of the ship
+Bonuswasteland9.JPG|'''Battlefield'''<br>On top of the front wall, near a Child of Light
+</gallery><section end="Wasteland R3" />
+
+==Vault of Knowledge==
+===<span id="Vault R1"></span>Rotation 1===
+<section begin="Vault R1" /><gallery widths="175" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Daily-Treasure-Candle-First-Floor-Hallway.png|'''First Floor'''<br>To the right of the area, at the end of the hallway
+Daily-Treasure-Candle-First-Floor-Elevator-Back.png|'''First Floor'''<br>At the back of the area, behind the elevator
+Daily-Treasure-Candle-Second-Floor-Back.png|'''Second Floor'''<br>On the platform across from the four-player door
+Daily-Treasure-Candle-Summit-Front.png|'''Summit'''<br>At the start of the area, to the right
+</gallery><section end="Vault R1" />
+
+===<span id="Vault R2"></span>Rotation 2===
+<section begin="Vault R2" /><gallery widths="175" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Daily-Treasure-Candle-First-Floor-Elevator-Right.png|'''First Floor'''<br>At the back of the area, to the left of the four-player telekinesis door
+Daily-Treasure-Candle-Second-Floor-Door.png|'''Second Floor'''<br>On the platform next to the four-player door
+Daily-Treasure-Candle-Fourth-Floor-Gazebo.png|'''Fourth Floor'''<br>On the back of a floating platform with a gazebo containing a Child of Light
+Daily-Treasure-Candle-Summit-Back-Left.png|'''Summit'''<br>At the back of the area, on the steps to the left
+</gallery><section end="Vault R2" />
+
+===<span id="Vault Permanent"></span>Permanent (9)===
+<gallery widths="175" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Wax-vault-first-floor-tc.jpg|'''1st TC - First Floor'''<br>In the hall behind the four-player telekinesis door
+Wax-vault-second-floor-tc.jpg|'''2nd TC - Second Floor'''<br>On the platform between the two-lantern and one-lantern platforms
+Wax-vault-second-floor-door-tc.jpg|'''3rd TC - Second Floor'''<br>Behind the four-player door, under the giant table
+Wax-social-light-vault-floor-4.jpg|'''4th TC - Fourth Floor'''<br>On a floating island below the Hidden Forest Constellation
+Wax-vault-fourth-floor-platform-tc.jpg|'''5th TC - Fourth Floor'''<br>On a platform above the Hidden Forest Constellation
+Wax-vault-fourth-floor-rock-tc.jpg|'''6th TC - Fourth Floor'''<br>On a rock between the Memory Whisperer Spirit island and the highest platform
+Wax-vault-fourth-floor-highest-platform.jpg|'''7th TC - Fourth Floor'''<br>On the highest platform with pillars and a Child of Light
+Wax-vault-top-floor-behind-statue.jpg|'''8th TC - Summit'''<br>At the back of the area, behind the Elder statue
+SDTreasureCandles.jpeg|'''9th TC - Starlight Desert'''<br>At the back of the area, on the right side of the garden maze
+</gallery>
+<br>
+
+{{Navigation Box}}
+
+[[ru:Бонусные свечи]]
+[[fr:Bougies au trésor]]
+[[es:Velas del Tesoro]]
+[[pt-br:Velas do Tesouro]]
+[[ja:キャンドルのかたまり]]
+[[de:Schatzkerzen]]
+
+[[Category:Daily Content]]

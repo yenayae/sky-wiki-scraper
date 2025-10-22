@@ -1,0 +1,14 @@
+__NOINDEX__
+{{Help|beta}}
+{{Infobox VG
+| image = Beta-spoiler-preview-image.png
+}}
+<big>'''Note for Beta-Testers:'''</big> Please do not use the below page draft for '''''any''''' help for the event. TGC wants players to test active things with fresh eyes - to see what players are struggling against and what players are succeeding at; looking at a few Beta players having trouble may represent the hundreds of Live people that will also have the same problems.<br>
+<br>
+{{Beta}}{{Clear}}
+
+
+
+{{Beta Navbox}}
+
+[[Category:Sky Beta]]

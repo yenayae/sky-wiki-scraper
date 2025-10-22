@@ -1,0 +1,213 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Belonging-Spirit-Boogie-Kid.png|Standard
+Belonging-Spirit-Boogie-Kid-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Outfit|infobox}}{{Spirit Item||Mask|infobox}}
+|season    = Belonging
+|realm     = Isle of Dawn
+|location  = Isle of Dawn
+|ts        = June 19, 2025 (#142)<br>March 2, 2023 (#82)<br>July 22, 2021 (#40)<br>November 12, 2020 (#22)
+}}
+<section begin="Summary" />The '''Boogie Kid''' is a [[Seasonal Spirit]] from the [[Season of Belonging]] who offers the {{Emote|Boogie Kid|inline_text}} Expression. The Boogie Kid is found in [[Isle of Dawn]], before the gate of a butterfly cave in a cloud island to the right of the temple. The collectibles [[#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Boogie Kid|Outfit|inline_text}} and a {{Spirit Item|Boogie Kid|Mask|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Boogie-Kid-promo-image.jpg|none|thumb|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|X2FUMSK0ZLs||inline|Video Guide}}
+
+The Boogie Kid is found in [[Isle of Dawn]], in a cloud island containing a butterfly filled cave, located to the right of the temple. This Spirit has a [[Standard Memory|standard memory]] with 4 memory fragments and a 15-minute overall [[Timed Memory|time limit]]. 
+
+Players use the set of two switches to open the grate. Then, they can fly up to an elevated switch on the right to bring down a moving platform on the other side of the cave. This leads players down a hallway to another set of switches to unlock a sealed butterfly jar. Once the seal is burned, the butterflies flutter to the center of the room where the Spirit once stood. A [[Deep Call]] amongst the butterflies causes them to lift the player up and through the hole in the ceiling.  
+
+As their memory unfolds, the Boogie Kid can be seen opening their arms wide, looking up at the stream of light coming from the hole above, before running towards a tunnel which leads to the top of the island in the clouds. Across the small lake at the top of the island, the Boogie Kid looks up, with arms wide open, at the swarm of butterflies dancing about.
+
+At the end of the memory, the Boogie Kid does a little dance in place with their arms loosely lifted up at their sides. The player steps closer, grabs a bell from underneath their cape and rings it, causing the Boogie Kid to stop. They bring their hand to their chin and think for a short while, before they raise up their arm in epiphany, with a glowing exclamation mark blinking above their head.<br>
+<br>
+[[File:03 Season of Belonging - Boogie Kid.png|200px|thumb|none|Relive the Boogie Kid's memory]]
+</div>
+{{Clear}}
+
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|170px|left]]
+<gallery heights="125" captionalign="center">
+Boogie-Kid-boogie-dance-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Boogie-Kid-boogie-dance-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Boogie-Kid-boogie-dance-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Boogie-Kid-boogie-dance-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar bring up their arms in front of their chest and sway slightly from side to side in-place, while rhythmic bongo sounds plays. This action is continued for as long as you don't move your avatar.
+*Level 2 makes the same motion as Level 1 with a glowing burst of sparkles rotating around your avatar's hands.
+*Level 3 will make your avatar energetically step from side to side with their arms held up, while faster bongo sounds play. This action is continued for as long as you don't move your avatar.
+*Level 4 makes the same motion as Level 3 with a wider glowing burst of sparkles rotating around your avatar's hands.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+{{Clear}}
+
+== Cosmetics ==
+=== Outfit ===
+The [[Outfit]] offered by this Spirit is a long, beige, fluffy jumpsuit, with a simple belt of that same color, balloon pants, a white fluffy neckpiece, arm- and boot cuffs, and blue mittens and boots, costing {{Cost|60 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|30 SC|season=Belonging}} total).<br>{{Dye_Details
+|area1=the mittens
+|cost1=2
+|area2=the boots
+|cost2=1
+}}
+<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||outfit|icon}} {{!}} The Outfit icon
+{{Icon Name||outfit|real}} {{!}} The Outfit front
+{{Icon Name||outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Mask ===
+The [[Mask]] offered by this Spirit is round and plain beige, similar to the [[Masks#Base Mask|Base Mask]], with three rhombus-shaped yellow stones in the middle of the forhead, costing {{Cost|30 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fourth node ({{Cost|30 SC|season=Belonging}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||mask|icon}} {{!}} The Mask icon
+{{Icon Name||mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Traveling Spirit ==
+[[File:SoB Isle TS placeholder.PNG|200px|right|thumb]]
+{{Friendship Tree Info | traveling
+|ts_dates=*June 19, 2025 (#142)
+*March 2, 2023 (#82)
+*July 22, 2021 (#40)
+*November 12, 2020 (#22)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Boogie Kid
+|image = Belonging-Spirit-Boogie-Kid.png
+|season = Belonging
+
+|nodeC6 = Outfit 60 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Mask 30 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+The hints given before the [[Boogie Kid]]'s first appearance were: 
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=First Visit Hints
+|content=<div>
+* Will be joining you from a Zoom Call
+* Will be hungry for candles
+* Is gonna have some eyes to see
+* Is afraid of the ocean
+* Doesn't know how to swim
+* Is in a Zoom meeting with the rest of TGC
+* Is coming from a galaxy far far away
+* Really loves shredded cheese at 3 am
+* Has pollen allergies
+* Is a TikTok superstar
+</div>
+}}
+
+The hints given before the [[Boogie Kid]]'s second appearance were: 
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Second Visit Hints
+|content=<div>
+* Has a favorite snack: string cheese
+* Draws comics during class
+* Isn't good at meditating
+* Is a budding musician
+* Enjoys playing pranks
+* Hopes to adopt their very own crab someday
+* Doesn't like coffee
+* Is hoppingcrow
+* Is NOT Pointing Candlemaker
+* Enjoys decorating
+* Is alexdolly's plushie
+* Gets bored on long trips
+* Always cheers on their friends!
+* Has a rock collection
+* Writes action short stories
+* Likes mint chip ice cream
+* Would probably play videogames
+* Loves the outdoors
+* Likes making forts
+</div>
+}}
+
+The hints given before the [[Boogie Kid]]'s third appearance were: 
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Third Visit Hints
+|content=<div>
+* Has heated debates about whether sticky buns or cinnamon rolls are better
+* Gets excited about the small things
+* Often gets lost without meaning to
+* Likes to solve problems
+* Enjoys the sight of migrating butterflies
+* Will be your cheerleader
+* Is dedicated at practicing their talents
+* Treats life like an adventure game
+* They've got their own theme song
+* Wears things that a loved one made for them
+* Enjoys hiking with you
+* [ash] (The answer is that they're BOTH delicious)
+* (According to Ash, their silhouette looks like Clefairy.)
+* [tio] If you show a lot of love to Tio and Ash, they will release the silhouette in 30 minutes
+</div>
+}}
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Belonging}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Boogie Kid
+|image  = Belonging-Spirit-Boogie-Kid.png
+|type   = season
+|season = Belonging
+
+|nodeC5 = season_heart 3 SC SP
+|nodeL4 = Outfit SP
+|nodeC4 = Mask 12 SC
+|nodeL3 = emote4 SP
+|nodeC3 = emote3 10 SC
+|nodeL2 = spell5 SP
+|nodeC2 = spell1 8 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+
+== Other Appearances==
+The Boogie Kid also appeared in the [[Season of the Blue Bird]] as a sorrowful child. 
+
+==Image Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Belonging Dawn.png
+Isle emote outfit.jpg
+Group Emote Dance2.jpg
+Belonging Isle Map Preview.png
+</gallery>
+
+==Video Gallery==
+{{#ev:youtube|nDkJa1RrMuk|175|inline|Video Guide by Tara}}
+
+==References==
+<references/>
+[[de:Boggie-Kind]]
+[[pt-br:Criança Dançarina]]
+[[ru:Танцор буги]]
+[[fr:Enfant dansant]]
+[[ja:音と舞う幼子]]

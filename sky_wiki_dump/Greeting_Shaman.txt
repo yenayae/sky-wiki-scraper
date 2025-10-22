@@ -1,0 +1,173 @@
+{{Distinguish|Radiance Greeting Shaman}}
+{{Spirit Infobox
+|type     = Seasonal
+|emote_type= Emote
+|image    = <gallery>
+Gratitude-Spirit-Greeting-Shaman.png|Standard
+Gratitude-Spirit-Greeting-Shaman-Gold.png|Ascended
+</gallery>
+|cosmetics= {{Spirit Item||Mask|infobox}}
+|instruments = {{Spirit Item||Instrument|infobox}}
+|season   = Gratitude
+|realm     = Vault of Knowledge
+|location = Fourth Floor Vault
+|ts       = July 3, 2023 (SV#3)<br>May 26, 2022 (#62)<br/>July 23, 2020 (#14)
+}}
+
+<section begin="Summary" />The '''Greeting Shaman''' is a [[Seasonal Spirit]] from the [[Season of Gratitude]] who offers the {{Emote|Greeting Shaman|inline_text}} Expression. The Greeting Shaman is found on the [[Vault of Knowledge#Fourth Floor|Fourth Floor]] of the Vault of Knowledge, at the top of the moving platforms located in front of the Hidden Forest Constellation. The collectibles [[Greeting Shaman#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Greeting Shaman|Mask|inline_text}} and the {{Spirit Item|Greeting Shaman|Instrument|label=Large Bell Instrument|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Greeting-Shaman-promo-image.jpg|thumb|320px|none|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|do0FvgzMOPI|200px|inline|Video Guide by Tara}} 
+
+The Greeting Shaman can be found on the [[Vault of Knowledge#Fourth Floor|Fourth Floor]] of the Vault of Knowledge , at the top of a set of nine moving platforms in front of the Hidden Forest Constellation. This Spirit has a [[Standard Memory|standard memory]] with 5 memory fragments and an unlimited overall [[Timed Memory|time limit]].
+
+This Spirit memory can be challenging to complete, as it involves navigating between moving platforms to collect each memory fragment. It is technically possible to complete this memory without flying (as shown in the video), although it will be of much help if the player has enough Cape Energy.
+
+It is possible to travel across the whole structure by jumping between platforms and by waiting for each pair of platforms to come together and jump at the point of closest approach. If the player has enough Cape Energy and means to recharge (such as a friend or an [[Spells#Instant Recharge Potion|Instant Recharge Spell]]), this memory can also be completed by flying.
+
+As their memory unfolds, the Greeting Shaman can be seen dancing on moving platforms of varying altitudes, striking different poses along the way. 
+
+At the end of the memory, the Greeting Shaman acknowledges the player by punching one fist into the flat palm of their other hand and motioning it forwards.<br>
+<br>
+[[File:05 VK Seasonal Spirit - Greeting Shaman.jpg|200px|thumb|none|Relive the Greeting Shaman's memory]]
+</div>
+{{Clear}}
+
+==Expression==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.<br>
+<br>
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Greeting-Shaman-kung-fu-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Greeting-Shaman-kung-fu-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Greeting-Shaman-kung-fu-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Greeting-Shaman-kung-fu-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar raise their arms in a 90° angle and punch a closed fist into their opened left palm, before sharply pushing their arms forward with both hands still held together while a thud and a bell sound effect play.
+*Level 2 makes the same motion as Level 1 with small golden sparkles appearing from your avatar's hands while they are touching.
+*Level 3 will make your avatar rapidly stretch both arms forward, joining at the hands, pull them closer to their chest while they stay parallel to the ground, and move both arms outwards before performing the same motion as in Level 1, while punching and bell sound effects play.
+*Level 4 makes the same motion as Level 3 with a small burst of golden sparkles coming from your avatar's hands at the moment of impact.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+== Cosmetics==
+=== Mask ===
+The [[Mask]] offered by this Spirit is an orange-colored head of a creature with two horns, a rounded snout, a big open smile filled with golden teeth, and brown fur on the sides, costing {{Cost|54 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|60 SC|season=Gratitude}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Instrument ===
+The [[Instrument]] offered by this Spirit is the ''' Large Bell''', costing {{Cost|45 C}} from the Traveling Spirit. It is made of a metallic body and handle, with orange details and golden accents. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|18 SC|season=Gratitude}} total). The player is standing up while playing and clanging on the bell with large arms movement just like the [[Small Bell]]. Both bells have similar sounds, but the large bell is somewhat louder with more of an echo and extended ring.
+<!-- This bit of wiki magic transcludes (duplicates) the text used for the small bell, on the Leaping Dancer page. -->
+{{#lst:Leaping Dancer|bell_notes}}
+In [[Harmony Hall]], the Large Bell can be found in the left-hand room, in a corner with the other percussion Instruments.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Instrument|icon}} {{!}} The Instrument icon
+{{Icon Name||Instrument|real}} {{!}} The Instrument
+{{Icon Name||Instrument|held}} {{!}} Playing the Instrument
+{{Icon Name||Instrument|back}} {{!}} The Instrument on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Traveling Spirit ==
+[[File:Gratitude-vault.png|200px|right|thumb]]
+{{Friendship Tree Info | traveling
+|ts_dates=*May 26, 2022 (#62)
+*July 23, 2020 (#14)
+|rs_dates=*July 3, 2023 (SV#3)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Greeting Shaman
+|season = Gratitude
+|image  = Greeting-Shaman-Spirit-image.png
+
+|nodeC6 = Mask 54 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Instrument 45 C
+|nodeC2 = spell5
+|nodeR2 = heart 3 C
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+No hints were given before the [[Greeting Shaman]]'s first appearance.
+
+The hints given before the [[Greeting Shaman]]'s second appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Second Visit Hints
+|content=<div>
+* Has a fascination with the cosmos
+* Likes mango juice
+* Is a spirit from a past season
+* Is NOT a Season of Performance spirit
+* Is also not a character from a different video game
+* Is definitely not my cat
+* Is the best charades player in the group
+* Would love a strong cup of coffee
+* Is stubborn and hard-headed
+* Likes percussion instruments best
+* Can be intimidating to newcomers
+* Has the loudest laugh
+* Would be a Taurus
+* Always saves room for second breakfast
+* Is bad at caring for houseplants
+* Makes really good paella
+* Their favorite color is blue
+* Is actually pretty bad at painting
+* Likes kittens more than puppies
+* Enjoys yoga on weekends
+* Doesn't get ill often
+* Reminds you to get your daily vitamin C!
+</div>
+}}
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Gratitude}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Greeting Shaman
+|image  = Greeting-Shaman-Spirit-image.png
+|type   = season
+|season = Gratitude
+
+|nodeC5 = Mask 5 H AP
+|nodeC4 = spell5 22 SC
+|nodeL3 = emote4 AP
+|nodeC3 = emote3 20 SC
+|nodeL2 = Instrument AP
+|nodeC2 = spell5 18 SC
+|nodeL1 = emote2 AP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Greeting Shaman expression level1.png
+Greeting Shaman location.JPG
+Greeting Shaman memory start.JPG
+Greeting Shaman memory stage2.JPG
+SoG Vault Map2.png
+</gallery>
+
+==References==
+<references/>
+
+[[de:Grüßender Schamane]]
+[[pt-br:Xamã Acolhedor]]
+[[ru:Приветствующий шаман]]
+[[fr:Shaman saluant]]
+[[ja:礼を尽くす祈祷師]]

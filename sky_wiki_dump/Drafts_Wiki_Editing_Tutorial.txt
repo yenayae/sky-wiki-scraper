@@ -1,0 +1,213 @@
+Welcome to the Sky Wiki!
+
+This is a tutorial for completely new wiki editors because we understand that the Sky Wiki has specific sections that seem overwhelming to edit. However, this guide will hopefully give you an overview of all the hidden features and structures.
+
+If you are familiar with general wiki editing, you may skip to the [[#Advanced Editing Tutorial]] section.
+
+There's a plethora of additional guides and documentation about tools on the [[w:Help:Guides_And_Advice|Fandom Community Wiki]].
+
+==Creating an Account==
+First of all, you need to [[w:Help:Create_an_account|create a Fandom account]]. We definitely recommend turning off advertisements under My Preferences > User Profile > Appearance section > Ads: "Don't show all ads". 
+
+==Basic Editing Tutorial==
+Don't be afraid of "breaking" anything. All edits are stored in the [[w:Help:Page_history|page history]], and if something does go wrong you can [[w:Help:Reverting|simply revert to an older version]]. If you have any concerns, the [[Help:Admins_and_Moderators|admins]] are also here to help!
+
+===Starting an Edit===
+Click on the "edit" button at the top right of a page (or on the pencil icon next to a header to edit that specific section). This will bring you to a new page with a text box containing the editable text of the original page. It should look like one or the other:
+<gallery widths="550" spacing="small" captionalign="center">
+Wiki-editing-instructions-visual-editor.png|Visual Editor
+Wiki-editing-instructions-source-editor.png|Source Editor
+</gallery>
+
+===Editor Settings===
+There are 2 main editor settings: the Visual Editor and the Source Editor. The Visual Editor is the default setting and is great when you're first starting out and if you're only going to make a minor edit, such as fixing a typo. It's also great for making changes to tables. However, you might encounter gray text or templates (you'll learn about these later) that you cannot edit or will open a confusing popup.
+
+The Source Editor is the one I would recommend for editors to try to get comfortable using for making larger edits. This editor offers more control and allows for more advanced editing. We also have numerous pages with hidden comments that are easier to read in the Source Editor. Please learn at your own pace. You can always switch between the Visual and Source Editor by clicking on the menu at the top right.
+<gallery widths="400" spacing="small" captionalign="center">
+Wiki-editing-instructions-page-dropdown.png|Three-dot menu on the page to switch to the non-default editor
+wiki-editing-instructions-editor-dropdown.png|Switch editor menu when actively editing
+</gallery>
+
+====Default Setting====
+[[File:Wiki-editing-instructions-preferred-editor.png|thumb|left|x200px|Change Preferred Editor]]
+{{Clear}}
+If you are comfortable with the Source Editor, you can change the default editing mode by clicking on your profile > [[Special:Preferences|My Preferences]] > "Editing" tab > Change "Preferred editor" to "Source editor". Make sure the "Enable the editing toolbar" option is also checked.
+
+===Finalizing an Edit===
+After making your changes, you should write a short edit summary in the small field below the edit-box. When you have finished, on the Source Editor, press the "Preview" button to see how your changes will look. For the Visual Editor, the final look of the page is already shown to you. You can also see the difference between the page with your edits and the previous version of the page by pressing the "Show changes" button. If you're satisfied with what you see, press the "Save" button. Your changes will immediately be visible. 
+
+===Toolbar===
+The top toolbar is the one in the Visual Editor while the bottom is from the Source Editor. Some of the buttons are shared.
+[[File:Wiki-editing-instructions-toolbar.png|thumb|left|x50px|Editing toolbar]]
+{{Clear}}
+[[File:Wiki-editing-instructions-toolbar-expanded.png|thumb|left|x400px|Editing toolbar with all menus expanded]]
+{{Clear}}
+
+===Wikitext===
+"Wikitext" is what is used to format content on a page using the Source Editor. For the Visual Editor, the wikitext is generated in the background. This [[w:c:Help:Wikitext|Wikitext Help page]] is probably the best resource for people just starting out and it's a good reference to have on the side while editing. 
+The following sections will go over the most common wikitext you may end up using. Each item will have help page links with detailed information on customization and options.
+
+===Bold and Italics===
+To make text '''bold''', encompass the text with 3 apostrophes on each end.
+
+<code><nowiki>'''Example of bold text.'''</nowiki></code> results in '''Example of bold text.''' 
+
+To make text ''italics'', encompass the text with 2 apostrophes on each end.
+
+<code><nowiki>''Example of italic text.''</nowiki></code> results in ''Example of italic text.''
+
+===Lists===
+'''Bulleted lists''' are created by using an asterisk <code>*</code> while '''numbered lists''' are created by using a number sign <code>#</code>. 
+
+Here are examples of both: 
+
+<pre><nowiki>* First item
+* Second item
+** More info on the second item</nowiki></pre>
+results in the following '''bulleted list''':
+* First item
+* Second item
+** More info on the second item
+
+<pre><nowiki># Step One
+# Step Two</nowiki></pre>
+results in the following '''numbered list''':
+# Step One
+# Step Two
+
+===Headings===
+[[File:Wiki-editing-instructions-heading-dropdown.png|thumb|200px|Headings Dropdown Menu]]
+Using the Visual Editor, you highlight the text with your mouse and select the heading you want from the dropdown.
+
+Headings from 2 to 4 are the most used ones, sometimes even 2 and 3 are enough for a big article. If there are too many nested headings, it might be a good idea to consider splitting the information into a few pages.
+<pre>==This is a Level 2 Heading==
+===And this is a Level 3 Heading===</pre>
+
+===Links===
+To link to another page on the Sky Wiki aka an "[[w:Help:Links/Wikitext|internal link]]", encompass the page name with '''double square brackets'''. You can also change the display text of the link by adding a vertical bar <code>|</code> after the link and anything after the <code>|</code> will be the displayed text.
+*<code><nowiki>[[Season of Gratitude]]</nowiki></code> creates a link to the page [[Season of Gratitude]]
+*<code><nowiki>[[Season of Gratitude|Gratitude]]</nowiki></code> creates a link to the page "Season of Gratitude" but will appear as [[Season of Gratitude|Gratitude]]
+
+To link an English Sky Wiki page to another Sky Wiki language page aka an "[[w:Help:Interlanguage link|interlanguage link]]", you need to provide the language code and a colon <code>:</code> before the page name. The language will now be selectable in the language dropdown at the top right of the page. To get the actual link to show up, you need to add a colon <code>:</code> before the language code.
+*<code><nowiki>[[pt-br:Temporada da Gratidão]]</nowiki></code> links the page to the Season of Gratitude page on the Brazilian Portuguese Sky Wiki
+*<code><nowiki>[[:pt-br:Temporada da Gratidão]]</nowiki></code> makes the link visible on the page [[:pt-br:Temporada da Gratidão]]
+
+To link to other wikis aka "[[w:Help:Interwiki link|interwiki link]]", you need to begin with <code>w:c:</code>, provide the wiki's name, insert a colon <code>:</code>, and give the page name.
+*<code><nowiki>[[w:c:thatgamecompany:Game Connections]]</nowiki></code> creates a link to the Game Connections page on the TGC Wiki [[w:c:thatgamecompany:Game Connections]]
+
+External links require the full <code>https://</code> to be recognized as a link. To change the display text, encompass the link with a '''single square bracket''' and use a '''space''' after the link and provide the display text. 
+*<code><nowiki>https://www.thatgamecompany.com</nowiki></code> results in https://www.thatgamecompany.com
+*<code><nowiki>[https://www.thatgamecompany.com]</nowiki></code> results in [https://www.thatgamecompany.com]
+*<code><nowiki>[https://www.thatgamecompany.com ThatGameCompany's Website]</nowiki></code> results in [https://www.thatgamecompany.com ThatGameCompany's Website]
+
+===Images===
+:[[w:Help:Adding_images|Images Help page]]
+<pre>[[File:Wiki.png|220px|center|thumb|link=Help:Adding images|alt=This is an alt text|class=This is for the HTML classes|And this a description]]</pre>
+
+* Click the "Images" button (icon looks like a photo).
+* A popup will show up with a selection of the recently uploaded images.
+* Click on the image you want to add.
+* Click "Use this image".
+* Add a caption to the image if you want.
+* Change the tab to "Advanced". You probably want to switch the position to "Left" and if you have a caption keep it as "Thumbnail", but otherwise change it to "Frameless".
+* When you're ready, click "Apply".
+
+====Upload images====
+:[[w:Help:Uploading_files|Uploading Files Help page]]
+It's recommended that you use [[Special:Upload]]. Make sure the file name follows the [[Help:Wiki_Guidelines_for_Editing|Editing Guidelines]]. Under the summary section, provide a description of the image you're uploading along with a category. 
+'''First of all, make sure that all your images are properly named and not a messy string of numbers or like "IMG_1002".'''
+* Click the Mass Upload button.
+* If you do need to rename an image at this point, you can click directly on the filename to rename the image.
+* Click "Upload all".
+* Once everything has been uploaded you can click on the Mass Upload button again to hide the panel.
+
+<pre>[[Category:Images]]
+[[Category:GIFs]]
+[[Category:Videos]]
+[[Category:Visual Guides]]</pre>
+See more options: [[:Category:Media]]
+Then, select the proper license for the image.
+
+===Image Galleries===
+:[[w:Help:Galleries|Gallery Help page]]
+* Click "Insert" dropdown button and select "Gallery" on the list.
+* This part is why it's important to name your images properly! Search for your images.
+* Select an image to add. Optional: add an image caption.
+* Click "Search Images" to add more images.
+* On the right "In the Gallery" panel, you can drag and rearrange the images however you like. The pencil icon is to edit the caption. The x icon is to remove that image from the gallery.
+* When you're done adding images, click "Apply".
+* If you want to change anything with the image or gallery, just double-click it to pull up the settings again.
+
+<pre><gallery widths=150>
+Example.jpg
+Example.jpg|caption text
+</gallery></pre>
+
+===Tables===
+:[[w:Help:Tables|Tables Help page]]
+<pre>{| class = "article-table"
+!Page
+!Rank 1
+!Rank 2
+|-
+|Page A
+|1
+|2
+|-
+|Page B
+|1
+|2
+|}</pre>
+
+===Youtube Videos===
+:[[w:Help:EmbedVideo|EmbedVideo Help page]]
+<pre>{{#ev:youtube|video id|300|inline|description}}</pre>
+Have a section of text show up on multiple pages without copying and pasting "Transclusions" ([[mw:Help:Transclusion|Transclusion Help page]])
+<pre>{{#section-h:Currency|Candles}}</pre>
+The above example is a regular transclusion. It will take information from the "Candles" section of the "Currency" page.
+
+To capture a more specific section of information use "Labeled Section Transclusion (LST)" ([[mw:Extension:Labeled_Section_Transclusion|LST Help page]])
+<pre>{{#lst:Constellations|Ultimate Gifts}}</pre>
+The above example is of an LST taking information from the "Constellations" page and the section labeled "Ultimate Gifts".
+On the "Constellations" page, you'll need to find <pre><section begin="Ultimate Gifts"/></pre> and <pre><section end="Ultimate Gifts"/></pre>. That's the text that is being copied when you use the LST
+
+==Advanced Editing Tutorial==
+The general explanation of a template is covered here: ([[w:Help:Templates|Templates Help page]])
+
+This is what a template looks like:
+<pre>{{Template Name|first parameter|labeled-parameter=input}}</pre>
+
+Our templates and modules are very tailored to the Sky Wiki. Each template's documentation provides a detailed explanation of how the template works. However, most importantly, it provides examples of how to use the template. Here, I will only cover the basics of our most commonly used templates.
+
+Cost ([[Template:Cost|Template documentation]]) - Displays the # with the icon of the currency
+<pre>{{Cost|48 C}}</pre>
+Season Icon ([[Template:Season Icon|Template documentation]]) - Displays the season's logo with the name of the season afterwards
+<pre>{{Season Icon|Remembrance|inline_text}}</pre>
+Emote Icon ([[Template:Emote|Template documentation]]) - Displays the spirit's emote with the name of the emote
+<pre>{{Emote|Pointing Candlemaker|inline_text}}</pre>
+Spirit Item ([[Template:Spirit Item|Template documentation]]) - Displays the spirit's item/cosmetics icon with the item's name afterwards. Has the option to show the "real" image as well.
+<pre>{{Spirit Item|Pointing Candlemaker|hair|inline_text}} 
+{{Spirit Item|Pointing Candlemaker|hair|real}}</pre>
+Days Item ([[Template:Days Item|Template documentation]]) - Displays the event item/cosmetics icon in a larger format for tables. Has the option to show the spell icon and "real" image as well.
+<pre>{{Days Item|Fortune Enchanted Umbrella||table}} 
+{{Days Item|Fortune Enchanted Umbrella|real|table}}
+{{Days Item|Fortune Enchanted Umbrella|spell|table}}</pre>
+Icon Name ([[Template:Icon Name|Template documentation]]) - All these templates work because the file names are collected in data pages such as [[Module:Spirits/data]], [[Module:Seasons/data]], [[Module:Days/data]], [[Module:Days Item/data]], [[Module:Spirit Item/data]]. This template retrieves the filename.
+<pre>{{Icon Name|Enchanted Umbrella|name}}</pre>
+Icon ([[Template:Icon|Template documentation]]) - Displays icons that don't fall under the previous categories and you can customize the image, label, and link.
+<pre>{{Icon|Days-of-Fortune-Jellyfish-Spell-Morybel-0146.png|table|label=Days of Fortune Jellyfish Fireworks Spell|link=Spells#Days of Fortune Jellyfish Fireworks Spell}}</pre>
+Friendship Tree ([[Template:Friendship Tree|Template documentation]])
+<pre>{{Friendship Tree
+|spirit = Pointing Candlemaker
+|image  = Isle-Spirit-Pointing-Candlemaker.png
+
+|nodeC3 = wing 1 AC
+|nodeL2 = heart
+|nodeC2 = spell1
+|nodeL1 = emote2 1 C
+|nodeC1 = emote
+|nodeR1 = hair free
+}}</pre>
+
+===Magic Words===
+A '''magic word''' is a keyword or phrase recognized by the MediaWiki software (upon which Fandom is built) which triggers the software to do something special on the page. For example, getting the page name or configuring the Table of Contents on a page. A full list of them is provided here: [[w:Help:Magic_words|Help:Magic Words]].

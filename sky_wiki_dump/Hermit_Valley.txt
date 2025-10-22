@@ -1,0 +1,58 @@
+{{Location
+|image      = Valley_HermitValley1.png
+|realm      = Valley of Triumph
+|access     = [[Village of Dreams]], [[The Wind Paths]]
+|season     = Dreams
+|seasonal_spirits  = 
+|children_of_light = 2 {{Icon|Map-Shrine-flashing-Star-WL-indicator.png|link=Children of Light#{{{title|{{PAGENAME}}}}}}}
+|pieces_of_light   = 100 {{Cost|L}}
+}}
+<section begin="Quote" />{{Quote|<br>'''''Home of the giant with a gentle heart '''''|Hermit Valley Opening}}<section end="Quote" />
+<section begin="Summary"/>The [[Season of Dreams]] also brought along the Hermit Valley, home to the [[Bearhug Hermit]]. The Valley can be found high above the Village of Dreams, and can only be entered via a Gondola from the Village itself. {{Wind Pathway|2}}, to the right of the Hermit's cave. To enter, you must first start the [[Season of Dreams#Quest 3|3rd Seasonal Quest]] from the [[Dreams Guide]], which activates a new button for players to interact with at the very top of the Village slope. Lighting the button will unlock a Gondola leading up to the Hermit Valley. There is only one Spirit to be found here; the young skater, which was part of the 3rd Seasonal Quest. Additionally there is a [[Map Shrine]] atop the Hermit's cave.
+<section end="Summary"/>
+__TOC__
+{{Clear}}
+==Overview==
+The tranquil Hermit Valley sits atop the Village of Dreams, serving as the home for the [[Bearhug Hermit]]. With snow-covered mountains and dangerous cliffs, the area holds a slope which can be raced down using the race feature atop the Hermit's cave (next to the Map Shrine). Race with one other friend to gain 150-300 pieces of light. The slopes also serve as the main spot for the Dreams Guide [[Season of Dreams#Quest 3|Quest #3]], racing down the slopes and cliffs to collect every light fragment before the time limit.
+
+===Child of Light Locations===
+There are a total of '''2''' [[Children of Light#Hermit Valley|Children of Light]] in the area.
+{{#lst:Children of Light|HermitValley Children}}
+
+==Activities==
+===Dreams Quests===
+<div style="float:right">{{Mobile Tabber|textonly=1
+|tab1 = 3
+|c1   = <div> {{#ev:youtube|6HmF28pPvfU|300|right}} </div>
+}}
+In the Hermit Valley are able to complete a Seasonal Quest from [[Season of Dreams]], the [[Season of Dreams#Quest #3|3rd Quest]] to race down the slopes and cliffs to collect every light fragment before the time limit. Completing this quest adds more expressions to the young skater's routine in the [[Village of Dreams]].
+{{Clear}}
+
+===Yeti Race===
+{{#section-h:Additional Light Sources|Yeti Race}}
+
+==Gallery==
+<gallery widths="225" spacing="small" captionalign="center" hideaddbutton="true" mode="nolines">
+Valley_HermitValley1.png
+Valley_HermitValley2.png
+</gallery>
+
+==Trivia==
+* In Beta-testing, this area was called 'Yeti Slopes' before being changed to the current 'Hermit Valley'
+* The Hermit Valley is featured in a piece of merch from thatskyshop, in the form of the [[That Sky Shop/Wave 3#Hermit Valley Pin|Hermit Valley Pin]]. It has a STAR feature which allows you to teleport you and the friends that you're holding hands with to the Hermit Valley in the Valley of Triumph.
+......
+<!---
+==Change History==
+{{Scrollbox
+|height=400px 
+|text= <div>
+{{v|SKYVERSION}}
+* With [[Season of SKYSEASON]], Hermit Valley with xyz Seasonal Spirits introduced. In addition with.....
+</div>}} -->
+
+{{RealmsNav}}
+
+[[fr:Pente du Yéti]]
+[[pt-br:Desfiladeiro do Iéti]]
+[[de:Yetihang]]
+[[Category:Valley of Triumph]]

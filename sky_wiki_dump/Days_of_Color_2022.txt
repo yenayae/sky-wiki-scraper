@@ -1,0 +1,87 @@
+{{SkyEvent
+| image = Days_of_Rainbow_2022.png
+| previousevent = [[Days of Color/2021|2021]]
+| nextevent = [[Days of Color/2023|2023]]
+| date = June 30 to July 13, 2022
+| years = {{#lst:Days of Color|Color Years}}
+}}
+Days of Rainbow returned for its third year! The event began on '''Thursday,''' '''June 30, 2022 at 00:00 PDT (UTC-7)''' and ended on '''Wednesday, July 13, 2022 at 23:59 PDT (UTC-7)''', lasting '''14''' days. Event Guide Spirits and fellow players celebrated the brilliant mosaic that brings life to the world of Sky.
+
+The Rainbow Guide was present in [[Home]] throughout the event, standing at the water's edge to the left of the Outfit Shrine. A cluster of small floating Jellyfish marked their location. Walking towards the Jellyfish would trigger a cutscene and make the Spirits appear. After hugging each Spirit, players could access their shops.[[File:Days-of-Rainbow-2022-Spirits-Shop-Morybel-0146.png|thumb|500px]]
+* The Days of Rainbow Guide ([[Rallying Thrillseeker]] wearing the [[#Rainbow Cape|Rainbow Cape]]) offered all event cosmetics that could be purchased using in-game currency.
+* The other Spirit ([[Jelly Whisperer]] wearing the [[#Rainbow Trousers|Rainbow Trousers]]) offered one of the previous [[IAP]] event cosmetics.
+* The [[Spell Shop]] at the [[Sleepy Traveling Merchant]]'s boat offered free temporary [[Spells]] for each of the available cosmetics, plus 2 free [[#Rainbow Spell|Rainbow Spells]] and unlimited purchases of [[#Trail Spells|Trail Spells]] ({{Cost|5 C}} each). These same Spells were also available from the Spell Shop at the [[Forgotten Ark]].
+
+Beyond the two Spirits, over the water, was a double rainbow that slowly spawned [[Pieces of Light]]. Each piece of light was a different color and briefly changed your trail into the corresponding color. Large floating Jellyfish around the double rainbow were available to help players recharge.
+{{Friendship Tree
+|label  = Days of Rainbow Guide
+|nodeC3 = {{Icon Name|Rainbow Trousers|icon}} 95 C
+|  labelC3 = {{Icon Name|Rainbow Trousers|name}}
+|  linkC3 = Days of Color/2022#{{Icon Name|Rainbow Trousers|name}}
+|nodeL2 = {{Icon Name|Rainbow Cape|icon}} 175 C
+|  labelL2 = {{Icon Name|Rainbow Cape|name}}
+|  linkL2 = Days of Color/2021#{{Icon Name|Rainbow Cape|name}}
+|nodeC2 = trail_spell 5 C
+|nodeL1 = {{Icon Name|Rainbow Braid|icon}} 20 H
+|  labelL1 = {{Icon Name|Rainbow Braid|name}}
+|  linkL1 = Days of Color/2021#{{Icon Name|Rainbow Braid|name}}
+|nodeC1 = trail_spell 5 C
+}}
+{{Clear}}
+
+===2022 New Cosmetics and Props===
+====Double Rainbow Pack<span id="Double Rainbow Flower"></span>====
+::'''''"Woah! A Double Rainbow Flower Accessory! What does it mean?"'''''
+The Double Rainbow Pack contains two items: the Double Rainbow Flower and {{Cost|40 C}}. The Double Rainbow Flower is a pair of small flowers with wide, rainbow-colored petals that sit on each side of the player's head. This [[Hair Accessory]] was introduced in 2022 and was available for {{Cost|9.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event, during which '''100% of the net proceeds went to charities''' championing diversity and global unity.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Double Rainbow Flower|iap}} {{!}} {{Icon Name|Double Rainbow Flower|name}} IAP
+{{Icon Name|Double Rainbow Flower|icon}} {{!}} {{Icon Name|Double Rainbow Flower|name}} icon
+{{Icon Name|Double Rainbow Flower|real}} {{!}} {{Icon Name|Double Rainbow Flower|name}}
+{{Icon Name|Double Rainbow Flower|spell}} {{!}} {{Icon Name|Double Rainbow Flower|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Rainbow Earring====
+::'''''"Easily shrouded beneath the right hairstyle, it isn't always about showing off."'''''
+The Rainbow Earring is a gold ear cuff paired with a small, diamond-shaped pendant with a soft rainbow gradient. This [[Head Accessory]] was introduced in 2022 and was available for {{Cost|2.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Rainbow Earring|iap}} {{!}} {{Icon Name|Rainbow Earring|name}} IAP
+{{Icon Name|Rainbow Earring|icon}} {{!}} {{Icon Name|Rainbow Earring|name}} icon
+{{Icon Name|Rainbow Earring|real}} {{!}} {{Icon Name|Rainbow Earring|name}}
+{{Icon Name|Rainbow Earring|spell}} {{!}} {{Icon Name|Rainbow Earring|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Rainbow Headphones====
+::'''''"For the music lover who wants to jam out in style."'''''
+The Rainbow Headphones closely resemble the [[Face Accessories#Headphones|iOS Headphones]], featuring a rainbow stripe band connected to a pair of large white earmuffs with three spikes. Note that unlike the iOS Headphones, these are ''not'' automatically equipped when listening to external audio. This [[Head Accessory]] was introduced in 2022 and was available for {{Cost|9.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Rainbow Headphones|iap}} {{!}} {{Icon Name|Rainbow Headphones|name}} IAP
+{{Icon Name|Rainbow Headphones|icon}} {{!}} {{Icon Name|Rainbow Headphones|name}} icon
+{{Icon Name|Rainbow Headphones|real}} {{!}} {{Icon Name|Rainbow Headphones|name}}
+{{Icon Name|Rainbow Headphones|spell}} {{!}} {{Icon Name|Rainbow Headphones|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Rainbow Trousers====
+The Rainbow Trousers are a pair of black cargo pants with soft rainbow stripe suspenders hanging down from the waist, paired with a short-sleeve light blue top. This [[Outfit]] was introduced in 2022 and was available for {{Cost|95 C}} from the Days of Rainbow Guide at [[Home]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Rainbow Trousers|icon}} {{!}} {{Icon Name|Rainbow Trousers|name}} icon
+{{Icon Name|Rainbow Trousers|real}} {{!}} {{Icon Name|Rainbow Trousers|name}} front
+{{Icon Name|Rainbow Trousers|back}} {{!}} {{Icon Name|Rainbow Trousers|name}} back
+{{Icon Name|Rainbow Trousers|spell}} {{!}} {{Icon Name|Rainbow Trousers|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+==References==
+<br>'''More information about Days of Rainbow 2022 can be found on [https://www.thatskygame.com/news/celebrating-days-of-rainbow-2022 ThatSkyGame's Website].'''
+<references />
+
+{{#lst:Days of Color|Color Navbox}}
+
+[[fr:Jours des Couleurs 2022]]
+[[ja:虹かける日々/2022]]

@@ -1,0 +1,256 @@
+{{Spoilers}} {{Quote|<br>'''''Follow the bell and find your way to the temple.'''''|Isle of Dawn Opening}}
+{{Realm
+|image         = Isle Thumbnail.png
+|previousRealm = [[Home]]
+|nextRealm     = [[Daylight Prairie]]
+|constellation = Menu-Isle-Constellation.png
+}}
+'''Isle of Dawn''', often shortened to '''Isle''', is a cool-toned desolate desert with scattered traces of civilization. It is the first [[Realm]] the player can enter. The main part Isle of Dawn is one large map with no loading screens (excluding the side areas, such as [[#Cave of Prophecies|Cave of Prophecies]] and [[#Passage Stone|Passage Stone]]). In addition, Isle does not have a Social Space; its spawn point only holds the Spirit Tombstones of the base-game Isle of Dawn Spirits.<br>
+<br>
+Isle of Dawn holds 3 [[Regular Spirits]] and 12 [[Seasonal Spirits]]. Locations of all available Children of Light can be found on the [[Children of Light#Isle of Dawn|Children of Light]] page.
+
+==Basic Expression Menu Icons==
+Four of the [[Expressions]] in the game do not require collection and are already available by default.
+
+*'''Flame:''' Allows the player to pull out a candle in order to light an object or another player.
+*'''Basic Call (Sky Kid Call):''' The sound your character makes when you tap on your avatar or press the appropriate 'Call' bind on controller. Other [[Calls]] can be collected throughout the game.
+*'''Sit:''' The sitting action is a basic interaction that the player does in various places in the game. Tapping the Sit icon two and three times changes the position of the character from kneeling, sitting, and lying down (and pose according to the stance chosen).
+*'''Basic Stance (Standing):''' Stances affect how your character stands. Each one also changes the sitting styles.
+*'''[[Menus_and_Controls#Request_Guide|Request a Guide]]:''' Allows the player to ask other players for help to find [[Ancestor Spirits]]. Players can manually request help from others, although other players may refuse your request.
+<gallery mode="nolines" spacing="medium" widths="65" hideaddbutton="true" captionalign="center">
+icon flame.png|Flame
+voice basic call.png|Basic Call
+Emote-basic sit.png|Sit
+stance basic stand.png|Basic Stance
+request guide.png|Request a Guide
+</gallery>
+
+==Mural Cave==
+[[File:Isle MuralCave1.png|right|300px]]
+The Mural Cave is a small tunnel inside a hill near the start of Isle. Inside, several bunches of white candles can be found, and lighting them will reveal [[Murals]] on the walls of the tunnel that narrate the story of ''Sky''. Jumping down from the cliff at the tunnel's exit will lead you to the [[#Sand Dunes|Sand Dunes]].
+
+This area holds a single [[Children of Light#Sand Dunes|Child of Light]].
+{{Clear}}
+
+==Sand Dunes==
+[[File:Isle SandDunes1.png|right|300px]]
+The Sand Dunes is a barren desert littered with stone monuments and traces of ancient civilization. It makes up the majority of Isle of Dawn and serves as the main tutorial where the player learns the basic mechanics of ''Sky''. The Sand Dunes hold a multitude of hidden secret areas with collectibles.
+
+Off towards the left shore, there is a secluded tunnel with a linear path leading to a room with a miniature boat holding three [[Season of Lightseekers|Lightseeker]] Lights. In the center, the large triangular Passage Stone has white candles on one side that reveal Murals, and another side holding a campfire to meditate at to access the [[#Passage Stone|Passage Stone]]. Note that this meditation circle is only accessible once the player has progressed to at least [[Hidden Forest]]. To the right side of the plateau is the entrance to the [[#Cave of Prophecies|Cave of Prophecies]], a hidden area in an opening within the clouds. The portal is blocked off by a Spirit Gate requiring 2 [[Regular Spirits]] from [[Hidden Forest]] to be relived.
+
+The [[#Isle Temple|Isle Temple]] overlooks the entire area. To continue onwards, approach the stone ramp in the distance. The cliff's entry is blocked by a Spirit Gate requiring 1 Regular Spirit from Isle to be relived.
+
+In the Sand Dunes, players can find:
+* 2 [[Children_of_Light#Sand Dunes|Children of Light]]
+* 2 [[Map Shrine#Isle of Dawn|Map Shrines]]
+* 2 [[Regular Spirits]] ({{Spirit|Pointing Candlemaker|Inline_text}}, {{Spirit|Ushering Stargazer|Inline_text}})
+* 3 [[Seasonal Spirits]] ({{Spirit|Troupe Greeter|Inline_text}}, {{Spirit|Sassy Drifter|Inline_text}}, {{Spirit|Piggyback Lightseeker|Inline_text}})
+<br>
+{{Mobile Tabber
+|tab1 = {{Emote|Pointing Candlemaker|tab}}
+|c1   = <div> {{#ev:youtube|ZSUPxHA9hD0|400|right}} {{#lst:Pointing Candlemaker|Summary}} {{#lst:Pointing Candlemaker|Friendship Tree}} </div>
+|type1= regular
+
+|tab2 = {{Emote|Ushering Stargazer|tab}}
+|c2   = <div> {{#ev:youtube|23ViQEAhj4U|400|right}} {{#lst:Ushering Stargazer|Summary}} {{#lst:Ushering Stargazer|Friendship Tree}} </div>
+|type2= regular
+
+|line3 = true
+|tab3 = {{Emote|Troupe Greeter|tab}}
+|c3   = <div> {{#ev:youtube|9o1zaLM8s24|400|right}} {{#lst:Troupe Greeter|Summary}} {{#lst:Troupe Greeter|TS Friendship Tree}} </div>
+|type3= seasonal
+
+|tab4 = {{Emote|Sassy Drifter|tab}}
+|c4   = <div> {{#ev:youtube|ZX1k1hbb_sw|400|right}} {{#lst:Sassy Drifter|Summary}} {{#lst:Sassy Drifter|TS Friendship Tree}} </div>
+|type4= seasonal
+
+|tab5 = {{Emote|Piggyback Lightseeker|tab}}
+|c5   = <div> {{#ev:youtube|aWLxwkk87kc|400|right}} {{#lst:Piggyback Lightseeker|Summary}} {{#lst:Piggyback Lightseeker|TS Friendship Tree}} </div>
+|type5= seasonal
+}}
+
+==Passage Stone==
+{{Main|Passage Stone}} [[File:Isle PassageStone1.png|right|300px]] {{#lst:Passage Stone|Quote}}
+{{#lst:Passage Stone|Summary}}
+
+While this area is technically a new location with new assets, it is more like a different time frame - as it utilizes the same map as Sand Dunes and thusly contains the same [[Regular Spirits]], [[Children of Light]], and every other collectible - with the addition of the 4 [[Seasonal Spirits]] from the [[Season of Passage]]: {{Spirit|Oddball Outcast|Inline_text}}, {{Spirit|Tumbling Troublemaker|Inline_text}}, {{Spirit|Melancholy Mope|Inline_text}}, {{Spirit|Overactive Overachiever|Inline_text}}.<br>
+<br>
+{{#lst:Passage Stone|SpiritTabber}}
+
+==Cave of Prophecies==
+{{Main|Cave of Prophecies}} [[File:Isle CaveOfProphecies.png|right|300px]] {{#lst:Cave of Prophecies|Quote}}
+{{#lst:Cave of Prophecies|Summary}}
+
+In the Cave of Prophecies and subsequent Trials, players can find:
+* 4 [[Children_of_Light#Cave of Prophecies|Children of Light]]
+* 5 [[Map Shrine#Isle of Dawn|Map Shrines]]
+* 4 [[Seasonal Spirits]] ({{Spirit|Prophet of Water|Inline_text}}, {{Spirit|Prophet of Earth|Inline_text}},{{Spirit|Prophet of Air|Inline_text}},{{Spirit|Prophet of Fire|Inline_text}})
+<br>
+{{#lst:Cave of Prophecies|SpiritTabber}}
+
+==<span id="Temple">Isle Temple</span>==
+[[File:Isle Temple1.png|right|300px]] [[File:Isle Temple2.png|right|300px]] [[File:Isle Temple3.png|right|300px]]
+The Isle Temple is a large cathedral home to the [[Elder of the Isle]]. To reach the Isle Temple, head for the rising cliff to the north of the [[#Sand Dunes|Sand Dunes]] and fly onwards, following the wind which leads you to the Isle Temple. The interior of the Temple is small, only holding white candles which summon [[Murals]], and a large gate requiring two buttons to be lit. Lighting them will open the gate, leading you to the main room of the Temple with the [[Elder of the Isle]]'s altar. Lighting the altar's candles will activate a meditation circle, letting the player meet the Elder of the Isle in a cutscene. After the cutscene, the door ahead will open as [[Birds]] rush into the Temple. From the door, take off into the clouds and glide onto the next Realm, [[Daylight Prairie]].
+
+To the left of the Temple entrance is a natural tunnel that contains the [[Rejecting Voyager]]. To the right of the Isle Temple is the [[#Butterfly Cave|Butterfly Cave]], with the only entrance to it being a cloud tunnel. The cave entrance is blocked off by a 2-player door. Upon opening, the player will see waxed pots with [[Butterflies]], an elevator, two activation buttons, and the [[Boogie Kid]]. The first button on the floor opens the gate on the roof, while the second button will activate the elevator. After opening the roof and unsealing the pots, the player will be able to get out of the cave by deep calling to attract the Butterflies to lift them upwards. From there, the player will see a view of the Sand Dunes, and a small tunnel where a [[Child of Light]] can be found, as well as a small pond with a flutter of Butterflies and a [[Treasure Candle]] at the exit.
+
+Around the Isle Temple, players can find:
+* 1 [[Map Shrine#Isle of Dawn|Map Shrine]]
+* 1 [[Regular Spirit]] ({{Spirit|Rejecting Voyager|Inline_text}})
+{{Clear}}<br>
+{{Mobile Tabber
+|tab1 = {{Emote|Rejecting Voyager|tab}}
+|c1   = <div> {{#ev:youtube|FW3r7r_JaDM|400|right}} {{#lst:Rejecting Voyager|Summary}} {{#lst:Rejecting Voyager|Friendship Tree}} </div>
+|type1=regular
+}}
+
+===Butterfly Cave===
+[[File:Isle Butterfly-Cave.jpg|right|300px]] 
+<section begin="Butterfly Cave" />The [[Isle of Dawn#Butterfly Cave|Butterfly Cave]] is a Seasonal area added to [[Isle of Dawn]], introduced with the [[Season of Belonging]] in Patch {{v|0.7.0}}. The only route to it is the cloud tunnel to the right of the Isle of Dawn Temple. This area updated the small Winged Light cave that existed before the Season, previously only holding a single Winged Light. With the introduction of [[Season of Belonging|Belonging]], it updated the area with a 2-player door, inside having various Butterfly Pots and Light Buttons rising an elevator and opening the roof gate. This area holds the [[Boogie Kid]], where you follow their memories around the cave.<section end="Butterfly Cave" />
+
+Around the Butterfly Cave, players can find:
+* 1 [[Children_of_Light#Butterfly Cave|Children of Light]]
+* 1 [[Map Shrine#Isle of Dawn|Map Shrine]]
+* 1 [[Seasonal Spirit]] ({{Spirit|Boogie Kid|Inline_text}})
+{{Clear}}<br>
+{{Mobile Tabber
+|tab1 = {{Emote|Boogie Kid|tab}}
+|c1   = <div> {{#ev:youtube|X2FUMSK0ZLs|400|right}} {{#lst:Boogie Kid|Summary}} {{#lst:Boogie Kid|TS Friendship Tree}} </div>
+|type1= seasonal
+}}
+
+==Points of Interest==
+===Easter Eggs===
+<span id="Heart Imagery"></span>
+{{Mobile Tabber|textonly=1
+|tab1 = Heart Imagery
+|c1   = Throughout Isle, there are recurring heart symbols, such as the Heart Pond atop Boogie Kid's Butterfly Cave, as well as Cave of Prophecies' Heart candles.
+}}
+
+==Seasonal Content==
+In Isle of Dawn, [[Seasonal Spirits]] from the Season of {{Season Icon|gratitude|inline_text|label=Gratitude}}, {{Season Icon|lightseekers|inline_text|label=Lightseekers}}, {{Season Icon|belonging|inline_text|label=Belonging}}, {{Season Icon|rhythm|inline_text|label=Rhythm}}, {{Season Icon|prophecy|inline_text|label=Prophecy}}, and {{Season Icon|passage|inline_text|label=Passage}} can be found scattered around the Realm. Collecting the Seasonal Spirits do not count towards the Realm's Spirit Gates. You will be able to collect their base level [[Emotes]], but in order to collect their Cosmetics or Expression upgrades, you will have to wait for the Spirit to return as a [[Traveling Spirit]]. Anything bought from their Friendship Trees do not count towards Realm [[#Constellation Summary|Constellation Progression]].<br>
+<br>
+{{Spirit Group|isle|type=seasonal|format=gallery}}
+<br>
+In addition, Seasonal Quests from the {{Season Icon|prophecy|inline_text}} in the [[Season_of_Prophecy#Cave_of_Prophecies|Cave of Prophecies]] with the Trials, the {{Season Icon|aurora|inline_text}}'s [[Season_of_AURORA#Quest_#1|first Quest]] outside the [[Isle of Dawn#Mural Cave|Mural Cave]], the {{Season Icon|enchantment|inline_text}}'s [[Season_of_Enchantment#Quest_#3|third Quest with the Cyan Light]], and the {{Season Icon|passage|inline_text}}'s [[Season_of_Passage#Quest_#1|first Quest]] can be completed in Isle of Dawn. All require activation from the relevant Season Guide to begin the Quests. Aside from Enchantment's Cyan Light Quest, all of these Quests are repeatable and the experience will be mostly the same.
+
+==Constellation Summary==
+{{Constellation Summary}}
+{{#lst:Regular Spirits/Friendship Trees|Constellation Summary Header}}
+{{#lst:Regular Spirits/Friendship Trees|Isle Constellation Summary}}
+|} <!--These are needed to close the table from the LSTs above-->
+[[File:1-Isle-Printable.jpg|none|thumb|Printable Chart]]
+
+==Video Walkthrough==
+<gallery>
+File:Sky_Children_of_the_Light_New_Walkthrough_Isle_of_Dawn_Spirits_and_Winged_Light
+File:Sky-_Children_of_the_Light-_Emotes_and_Upgrades_in_Isle_of_Dawn
+</gallery>
+
+==Map==
+{{Mobile Tabber
+|tab1 = {{Icon|Location-map-icon-Ray.png|tab}}
+|c1   = {{Map:Isle of Dawn}}
+|tab2 = {{Icon|Map-Shrine-Realm-Temple-Indicator.png|tab}}
+|c2   = {{Map:Whole Shrine Map|marker=2}}
+}}
+
+==Trivia==
+===Change History===
+{{Scrollbox|height=400px|text=<div>
+Pre-2019
+* First called ''Dawn'', then later changed to ''Isle of Dawn''. Then it was shortened to ''Isle'' for a short time, then in June 2019 it reverted back to ''Isle of Dawn.''
+----
+{{v|0.6.0}}
+* With the [[Season of Lightseekers]], a tunnel to the west has been introduced to hold the [[Piggyback Lightseeker]].
+----
+{{v|0.7.0}}
+* With the [[Season of Belonging]], Isle's [[#Temple|Butterfly Cave]] is updated from a small hollow cave to a larger cave to hold the Belonging Spirit, [[Boogie Kid]].
+----
+{{v|0.8.0}}
+* With the [[Season of Rhythm]], [[Troupe Greeter]] has been added.
+* Isle's [[Out_of_Bounds#Rainbow_Bridge|'Rainbow Bridge' OOB]] removed.
+{{v|0.8.1}}
+* Isle's [[Out_of_Bounds#Rainbow_Bridge|'Rainbow Bridge' OOB]] reverted.
+----
+{{v|0.9.0}}
+* With the [[Season of Enchantment]], the [[Season_of_Enchantment#Quest_#3|Cyan Light]] is added to the transition area before Prairie.
+----
+{{v|0.10.5}}
+* Addition of Spirit Tombstones to the beginning of Isle of Dawn, to match the relocation of tombstones in other Realms.
+----
+{{v|0.11.0}}
+* With the [[Season of Prophecy]], [[#Cave of Prophecies|Cave of Prophecies]] with four Seasonal Spirits is introduced, in addition to an entrance to the northwest of the map.
+----
+{{v|0.13.0}}
+* Addition of [[Treasure Candles]] throughout Isle with the introduction of [[Daily Light]].
+----
+{{v|0.14.0}}
+* Past Seasonal Spirits now [[Seasonal_Spirits#Finding_Seasonal_Spirits|permanently available to relive]].
+----
+{{v|0.15.0}}
+* A Wind Path from [[The Wind Paths]] area in [[Hidden Forest]] to the [[#Cave of Prophecies]] added.
+----
+{{v|0.19.0}}
+* With the [[Season of AURORA]], [[Season_of_AURORA#Quest_#1|Quest #1]]'s meditation circle added near [[#Mural Cave|Mural Cave]].
+* Addition of [[Map Shrines]] throughout Isle.
+----
+{{v|0.21.0}}
+* Adjustments to [[#Sand Dunes|Sand Dunes]] area to accommodate for the [[Season of Passage]]'s [[#Passage Stone|Passage Stone]] and its Quest.
+</div>}}
+
+==In Other Languages==
+{{Help|lang}}
+{{Other Languages|title=Isle of Dawn
+|fr            = Île de l’aube
+|fr_meaning    = Island of Dawn
+|ja            = 孤島 (Kana: ことう)
+|ja_rom        = Koto
+|ja_meaning    = Solitary Island
+|id            = Pulau Fajar
+|id_meaning    = Dawn Island <!-- Machine Translated -->
+|de            = Insel der Dämmerung
+|de_meaning    = Island of Twilight <!-- Machine Translated -->
+|vi            = Đảo Bình Minh (Hán Nôm: 島平明)
+|vi_meaning    = Dawn Island <!-- Machine Translated -->
+|ko            = 여명의 섬 (Hanja: 黎明의 섬)
+|ko_rom        = Yeomyeong-ui Seom
+|ko_meaning    = Isle of Dawn <!-- Machine Translated -->
+|es            = Isla del Amanecer
+|es_meaning    = Sunrise Island <!-- Machine Translated -->
+|it            = Isola dell'Alba
+|it_meaning    = Isle of Dawn <!-- Machine Translated -->
+|pt            = Ilha do Alvorecer
+|pt_meaning    = Island of Dawn <!-- Machine Translated -->
+|ru            = Остров рассвета
+|ru_rom        = Ostrov rassveta
+|ru_meaning    = Island of Dawn <!-- Machine Translated -->
+|zh_cn         = 晨岛
+|zh_cn_rom     = Mandarin: Chén Dǎo / Cantonese: san4 dou2
+|zh_cn_meaning = Morning Island <!-- Verified by Native Speaker @Fanlinger -->
+|zh_netease         = 晨岛 
+|zh_netease_rom     = Mandarin: Chén Dǎo / Cantonese: san4 dou2
+|zh_netease_meaning = Morning Island <!-- Verified by Native Speaker @Fanlinger -->
+|zh_tw         = 晨島 
+|zh_tw_rom     = Mandarin: Chén Dǎo / Cantonese: san4 dou2
+|zh_tw_meaning = Morning Island <!-- Verified by Native Speaker @Fanlinger -->
+}}
+
+==References==
+<references />
+
+{{RealmsNav}} {{Navigation Box}} 
+
+[[de:Insel der Dämmerung]]
+[[es:Isla del Amanecer]]
+[[fr:Île de l'Aube]]
+[[ko:여명의 섬]]
+[[pt-br:Ilha do Alvorecer]]
+[[ru:Остров рассвета]]
+[[zh-hant:晨島]]
+[[ja:孤島]]
+[[ar:جزيرة الفجر]]
+
+
+[[Category:Realms]]
+[[Category:Isle of Dawn]]

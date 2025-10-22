@@ -1,0 +1,217 @@
+{{Realm
+| image = Home Space-Full.png
+| spirits = 0
+| wingedLights = 
+| previousRealm = 
+| nextRealm = [[Isle of Dawn]]
+}}
+'''Home''' (also referred to as Home Space or the Lobby) is a small island surrounded by water that functions as a hub world, where players of all experience levels gather before venturing out into the [[Realms]]. Prior to Patch {{v|0.23.5}}, this is where new players first arrived upon starting the game - now, all new players begin in [[Aviary Village]]. At Home, players can find:
+
+*[[#Realm Entry Portals|Entry portals]] to every Realm in the game (provided they have entered it at least once / completed the Realm)
+*The [[#Return Shrine|Return Shrine]] to continue from their last location in the Realms
+*The [[Cosmetics#Outfit Shrines|Outfit Shrine]] that houses all of the wearable Cosmetics the player has collected
+*The [[Constellation Table]]
+*The Home Clock / Bell
+
+Unlike all other Realms, the lighting in Home changes depending on the time of day according to the player's device clock. There are four modes which cycle: sunrise, daytime, sunset, and night. There are also two weather modes, which are sunny and overcast. Additionally, there is a type of clock at Home which will ring the hours (and fractions thereof) according to Pacific Standard Time (PST / [[Home#The Clock / Bell Chimes at Home|See below]]).
+
+==Realm Entry Portals==
+[[File:Home-Space-Portals.jpeg|thumb|300px|Seven of the eight portals at Home]]
+Home contains portals into every Realm that the player has opened in the game. These portals can also be seen in [[Aviary Village]].
+
+When first starting out, the player can only see the portals for [[Realms]] that they have completed or are currently playing through. Other more experienced players will seem to disappear when entering portals that the player does not have access to. The final Realm portal for the [[Eye of Eden]] (not pictured) is also present, but the door remains closed until the player has progressed through [[Vault of Knowledge]].
+{{Clear}}
+
+==Return Shrine==
+[[File:Return_shrine.jpeg|thumb|300px|The Return Shrine at Home]]
+Directly in front of the Constellation Table by the [[#Realm Entry Portals|Realm portals]] is the Return Shrine. Kneeling at the Shrine, after several seconds, teleports the player to their previous location among the seven Realms. This allows players to easily finish interrupted play-sessions at a more convenient time. Players can receive and turn in [[Daily Quests]] when at Home by interacting with the Return Shrine. It also houses the daily bonus Seasonal Candle awarded to [[Season Pass]] holders and Hearts earned from [[Player Creations]]. 
+
+In Patch {{v|0.23.5}}, the latter two items were briefly moved to the Friendship Constellation Statue in [[Aviary Village]], before the daily bonus Seasonal Candle was returned to Home in Patch {{v|0.24.5}} and Hearts from Player Creations in Patch {{v|0.25.0}}.
+
+When idle, a beam of light can be seen projecting from the meditation circle in the Shrine. The color of the beam is based off the main color theme of the Realm the player last entered. For example, the [[Golden Wasteland]] results in a green colored beam while the [[Valley of Triumph]] results in a pinkish-red colored beam.
+
+Before they were removed in Patch {{v|0.21.0}}, Shrines similar to this one used to be found in the first area of every Realm, excluding [[Isle of Dawn]] and some additional areas, which players could also use to return Home.
+{{Clear}}
+
+==Constellation Table==
+For more information, please visit the [[Constellation Table]] page. 
+
+==Teleporting Home==
+There are three main ways to teleport Home:
+#Sit at the Return Shrine behind the [[Shared_Memories|Shared Memory Shrine]] in [[Aviary Village]]
+#When Home is set as the player's [[#Setting Home as 'Home'|'Home' space]], open the [[Gear Menu]] and tap the gate icon. In the confirmation message, tap the checkmark to proceed, or X to cancel the teleport request.
+#When Home is set as the player's 'Home' space, use the gate icon within the [[Expression Menu]] (click the Wing Meter icon in the top middle of the screen).
+
+===Setting Home as 'Home'===
+[[File:Special-Home-Candle-At-Home.png|thumb|right|300px|Special White Candle at Home]]
+Upon completing the [[Season of Revival#Quest #3|third Seasonal Quest]] from the [[Season of Revival]], a special white candle appears near the Realm Entry Portals in [[Aviary Village]] and by the [[Cosmetics#Outfit Shrines|Closets]] in Home. New players can use this white candle to set Home as their 'Home' instead of Aviary Village. (Older players born before Patch {{V|0.23.5}} will have Home set as their 'Home' by default.) If set, players will teleport Home when using the "Home" gate button and when opening the game.
+
+Players can still access Aviary Village by entering the Aviary Village portal located directly behind the [[#Return Shrine|Return Shrine]] in Home.
+{{Clear}}
+
+==The Clock / Bell Chimes at Home ==
+[[File:The bell chimes at Home space (Sky)|thumb|300px|Bell Chimes at Home]]
+There is an intangible clock at Home that chimes every quarter of the hour (every 15 minutes). The chimes originate from the bell on top of the [[Eye of Eden]] portal in Home.<ref name="Bell chimes change">In versions prior to 2022, the quarterly chimes and the majority of the musical part of the hourly chime were played from the Eden portal. However, the last note of the musical part of the hourly chime (or the zeroth hour toll), as well as all the hour tolls, were played from the [[Isle of Dawn]] portal. In the previous version, each of the quarterly chime had a different musical pattern with 1 more note than their corresponding current counterparts (4 notes in the half-hour chime instead of the current 3). The chime patterns changed in an update in mid-2022.</ref> Each chime in the hour sounds different, so by recognizing the chime you can discern when in the hour it currently is. 
+
+Unlike many real-world clock chimes, where the exact time of the hour is marked by the first of the bell tolls (the musical sequence comes before the hour), in Sky the exact time is marked by the very beginning of the entire chime sequence, by the D<sub>4</sub> note at the beginning of all chimes. For example, at 8am PST, the musical part of the chimes begins at 08:00:00, and the bell toll begins around 08:00:15. and the entire chime sequence ends at around 08:00:55.<br>
+<br>
+{| class="fandom-table"
+!Chime Type 
+!Real Time (PST, UTC-8)
+!Musical Notes Played in the Chimes
+|-
+|Hourly
+| Every __:00 (On the hour)
+|D<sub>4</sub>, A<sub>3</sub>, F♯<sub>4</sub>, E<sub>4</sub>, A<sub>4</sub> ⋯⋯ 
+A<sub>3</sub> (× number of the hour, max 10, every 5 seconds)
+|-
+|1st Quarter
+|Every __:15
+|D<sub>4</sub>, A<sub>3</sub>
+|-
+|2nd Quarter
+|Every __:30 
+|D<sub>4</sub>, A<sub>3</sub>, F♯<sub>4</sub>
+|-
+|3rd Quarter 
+|Every __:45
+|D<sub>4</sub>, A<sub>3</sub>, F♯<sub>4</sub>, A<sub>4</sub>
+|-
+! colspan="3" | Note: This is assuming a timezone that does not have a non-integer-hour UTC offset. 
+|}
+<br>
+If it is difficult to remember the sound of the different chimes, you can identify them by counting the number of strokes because each chime is longer than the previous. The 1st quarter chime plays 2 strokes, the 2nd has 3 strokes, 3rd has 4 strokes, and the hour has 5 strokes followed immediately by bell tolls. 
+
+The bell tolls/bongs after each hourly chime are meant to indicate the hour in 12-hour format. For example, if there are 9 tolls it means 9 o’clock (09:00 or 21:00). However, the maximum number of bell tolls is 10, so there will be only 10 tolls even at 11 or 12 o'clock. 
+
+These tolls follow '''[[Timing System|Pacific Standard Time (PST)]]''' (UTC-8) year-round, which is only observed by parts of western Canada, the western United States (where TGC is), and western Mexico during winter months. Many PST regions also shift to Pacific Daylight Time (PDT) in certain months, rendering the bell tolls irrelevant to virtually all players since they don't appear to be adjusted according to DST. Most players can ignore them. However, if the assumption of no DST adjustment is true and since the bell tolls operate in 12-hour format (1~12) instead of 24-hour format (0~24), the bell tolls are, in effect, telling time in PST(UTC-8) as well as the time zone that is 12 hours away (UTC-8+12=UTC+4), which is the time zone of some Middle Eastern (UAE, Oman), Eastern European (Armenia, Azerbaijan, Georgia, and parts of Russia), and African countries (Mauritius, Seychelles). 
+
+===Lighting in Home===
+The lighting in Home is relative to the player's device clock. This gives players the ability to change the lighting they see by manually altering the time on their device's clock.<br>
+<br>
+{| class="fandom-table"
+|+ style="text-align:center;" | Day/Night Cycle Schedule
+!Lighting:
+!Time:
+!Duration:
+|-
+|Sunrise
+|05:00 to 08:59
+|4 hours
+|-
+|Cloudy
+|09:00 to 09:59
+|1 hour
+|-
+|Daytime
+|10:00 to 15:59
+|6 hours
+|-
+|Cloudy
+|16:00 to 16:59
+|1 hour
+|-
+|Sunset
+|17:00 to 20:59
+|4 hours
+|-
+|Nighttime
+|21:00 to 04:59
+|8 hours
+|}
+<br>
+<!-- To add: a gallery showing Home in the different lightings, like the gallery for the lighting cycle seen on the Aviary Village page-->
+Mnemonic: Sunrise/Sunset are 5 to 9, one hour of cloudiness after sunrise and before sunset, else is daytime or night.
+
+==Traveling Spirits==
+Every two weeks, a [[Traveling Spirits|Traveling Spirit]] will appear in both [[Aviary Village]] & Home for players who have at least progressed to the [[Season of Revival#Quest #3|third Seasonal Quest]] from [[Season of Revival]] ''and'' completed [[Valley of Triumph]]. These Spirits allow the player to collect [[Expression]] upgrades and cosmetics from previous [[Seasons]]. See the [[Traveling Spirits]] page for more detailed information. 
+
+In Patch {{v|0.24.5}}, [[Traveling Spirits]] were briefly moved to [[Aviary Village]] for players that have at least progressed to the fourth [[Season of Revival]] Quest, but were later moved back in Patch {{v|0.25.0}}. 
+
+==The Sleepy Traveling Merchant's Boat==
+[[File:SleepyTraveller SPELLs.jpg|thumb|300px|Sleepy Traveling Merchant's Boat]]
+The Sleepy Traveling Merchant (also called the Sleepy Traveler or the Sleepy Merchant) periodically appears with a boat stocked with the same [[Spells|Spells, Scrolls, and Potions]] usually found in the [[Golden Wasteland#Forgotten_Ark|Forgotten Ark]] shops. During events, they often offer free Spells that players can use to try out the event’s items before buying them for real or in-game currencies. 
+
+The Sleepy Traveling Merchant remains available for several weeks, to raise awareness of the arrival of a new wave of official Sky merchandise. Tapping on the shopping cart icon above the Spirit's head will make them stand up and use the {{Emote|Levitating Adept|inline_text}} Expression to summon a meditation circle. Sitting at the circle redirects the player to the [[thatskyshop]] website, an official merchandise website made by thatgamecompany. The website remains accessible even after the Sleepy Traveling Merchant's departure. 
+{{Clear}}
+
+==Map==
+[[File:Ingame-map-home.png|none|thumb|400px|The Shrine Map of Home]]
+
+==Trivia==
+[[File:Main-Return-Shrines-Removed.jpg|200px|thumb|Removed Social Space Return Shrines]]
+[[File:All-About-Return-Shrines-Clement.png|200px|thumb|Additional Return Shrine locations]]
+*The Realms portals used to act as a "return" portal to the last area the player visited in a Realm. As of February 2020, the Realm portals at Home ''always'' send the player to the Social Space/spawn point of the chosen Realm.
+*In [[Sky: Light Awaits]], there was a much larger area named Aviary and an early version of Home (Candle Space) that had no land at all, only water.
+* The nickname "Home Space" was acknowledged in the Skytober list. This is justified as it was originally made by a fan.
+** The nickname [[Secret Area|Office]] was acknowledged as well.
+*The current version of Home is the only Realm without an opening quote.
+**However, the Sky: Light Awaits version used to have one.
+*After the end of [[Season of Revival]], new players are now born directly into [[Aviary Village]] where they experience a new tutorial before being shepherded into the [[Isle of Dawn]].
+*Every [[Days of Feast]] and winter season, Home gets an icy make-over for players to enjoy.
+*If the player loses all their [[Winged Light]], they are sent Home, far away from the main area, in a dark room with a single [[Child of Light]] to get them started on their journey again. This Child of Light is not otherwise accessible.
+*The first image on the right shows the removed Social Space Return Shrines (starting from top left):
+**Prairie Social Space
+**Forest Social Space
+**Valley Social Space
+**Wasteland Social Space
+**Vault Social Space
+**Eden Social Space
+*Additional Return Shrines that were removed in Patch {{v|0.12.0}} are shown in the second image:
+**Sanctuary Islands
+**Broken Bridges
+**Forgotten Ark
+
+==In Other Languages==
+{{Help|lang}} 
+{{Other Languages|title=Home
+|fr            = Maison
+|fr_meaning    = Home <!-- Oxford-Hachette French Dictionary -->
+|ja            = ホーム (Kana: ほーむ)
+|ja_rom        = Homu
+|ja_meaning    = Home
+|id            = Rumah
+|id_meaning    = House <!--  Oxford Study Indonesian Dictionary  -->
+|de            = Zuhause
+|de_meaning    = Home <!-- Oxford German Dictionary -->
+|vi            = Nhà
+|vi_meaning    = House, Home, Domicile <!--  Từ điển Lạc Việt -->
+|ko            = 안식처 (Hanja: 安息處)
+|ko_rom        = ansigcheo
+|ko_meaning    = A place to find peace, a resting place <!--  New Ace English-Korean Dictionary  -->
+|es            = Hogar
+|es_meaning    = Home <!--  Gran Diccionario Oxford - Español-Inglés  -->
+|it            = Base
+|it_meaning    = Base <!-- Oxford Paravia Il Dizionario italiano - inglese -->
+|pt            = Lar
+|pt_meaning    = Home <!--  Oxford Portuguese Dictionary  -->
+|pt_gg         = M
+|ru            = Дом
+|ru_rom        = Dom
+|ru_meaning    = Home
+|zh_cn         = 遇境 
+|zh_cn_rom     = Mandarin: Yù Jìng / Cantonese: Jyu6 Ging2
+|zh_cn_meaning = Realm of Encounter <!-- Verified by Native Speaker @Fanlinger -->
+|zh_tw         = 遇境 
+|zh_tw_rom     = Mandarin: Yù Jìng / Cantonese: Jyu6 Ging2
+|zh_tw_meaning = Realm of Encounter <!-- Verified by Native Speaker @Fanlinger -->
+|zh_netease         = 遇境 
+|zh_netease_rom     = Mandarin: Yù Jìng / Cantonese: Jyu6 Ging2
+|zh_netease_meaning = Realm of Encounter <!-- Verified by Native Speaker @Fanlinger -->
+}}
+
+==References==
+<references />
+{{GameLevelsNav}}
+{{Navigation Box}}
+
+[[ko:안식처]]
+[[ru:Дом]]
+[[fr:Maison]]
+[[de:Zuhause]]
+[[pt-br: Lar]]
+[[ja:ホーム]]
+[[zh:遇境]]
+<!--[[zh-hk:遇境]]-->
+
+[[Category:Home]]

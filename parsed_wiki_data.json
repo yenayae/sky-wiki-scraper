@@ -1,0 +1,41 @@
+[
+  {
+    "image": "SOAbyss-Abyss-Guide.png",
+    "ultimates": "Spirit Item||mask_u|link=#Abyss Ultimate Mask|infoboxSpirit Item||headpiece_u|link=#Abyss Ultimate Head Accessory|infoboxSpirit Item||cape_u|link=#Abyss Ultimate Cape|infobox",
+    "cosmetics": "Spirit Item||mask|link=#Mask|infobox",
+    "season": "Abyss",
+    "location": "Treasure Reef",
+    "_source_file": "Abyss_Guide.txt"
+  },
+  {
+    "title": "Abyss Monster",
+    "type": "dark",
+    "image": "Leviathan-Full-View.jpg",
+    "_source_file": "Abyss_Monster.txt"
+  },
+  {
+    "type": "Seasonal",
+    "emote_type": "Emote",
+    "image": "<gallery> Rhythm-Spirit-Admiring-Actor.png|Standard Rhythm-Spirit-Admiring-Actor-Gold.png|Ascended </gallery>",
+    "cosmetics": "Spirit Item||Outfit|infoboxSpirit Item||Mask|infobox",
+    "music": "Music Sheet|6",
+    "season": "Rhythm",
+    "realm": "Hidden Forest",
+    "location": "Boneyard",
+    "ts": "October 9, 2025 (#150)<br>June 8, 2023 (#89)<br>June 24, 2021 (#38)<br/>October 15, 2020 (#20)",
+    "_source_file": "Admiring_Actor.txt"
+  },
+  {
+    "emote_type": "Emote",
+    "image": "SoAurora-Seasonal-guide.png",
+    "ultimates": "Spirit Item||outfit_u|link=#AURORA Ultimate Outfit|infoboxSpirit Item||hair_u|link=#AURORA Ultimate Hair|infoboxSpirit Item||cape_u|link=#AURORA Ultimate Cape|infobox",
+    "cosmetics": "Spirit Item||mask|link=#Cure for Me Mask|infoboxSpirit Item||outfit|link=#Cure for Me Outfit|infobox",
+    "emote": "Spirit Item||emote_c|link=#Silent Clap Expression|infoboxSpirit Item||emote_k|link=#Conduct Expression|infoboxSpirit Item||emote_s|link=#Skipping Expression|infobox",
+    "props": "",
+    "music": "Music Sheet|32Music Sheet|34",
+    "season": "AURORA",
+    "realm": "Valley of Triumph",
+    "location": "Coliseum",
+    "_source_file": "AURORA_Guide.txt"
+  }
+]

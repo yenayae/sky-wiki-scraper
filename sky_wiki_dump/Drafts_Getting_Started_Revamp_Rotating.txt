@@ -1,0 +1,92 @@
+{{Getting Started Nav|4}}
+
+=Cosmetics=
+Customize your look!
+You can equip cosmetics when in an Outfit Shrine, and preview ''some'' unowned cosmetics. Outfit shrines can be found around the Realms, such as in the alcoves in each Realm's social space (including Aviary/Home), or the dresser prop. Stances and calls are changeable from the Expressions Menu.
+* Note an outfit shrine is composed of five separate closet menus that you must walk between. In each, you can only equip cosmetics related to that body part.
+* See [[Cosmetics#Outfit_Shrines]] for more details.
+
+==Where to Purchase Cosmetics==
+* Regular Spirits, some Season Guides (permanently available).
+* Seasonal Spirits, Special Event Guides (limited-time but will return).
+* Season Guides (specifically their "ultimate gifts"), Collaboration Event Guides (limited-time, no plans to return yet).
+
+A few cosmetics (a mix of permanent, recurring, and limited) are also only available for purchase through the [[Premium Candle Shop]], for real-world money.
+* See [[Getting Started/Basics]] for more details.
+
+==Height==
+Players start out at a random height, but you can change it through a variety of methods!
+* Random Resize Spell: ''permanently'' changes your height to something random. See [[Blessings_(Spells)#Resize_Potion]].
+* Chibi Mask: when equipped, you'll be about half the height of the average skykid. See [[Hide%27n%27Seek_Pioneer#Mask]].
+* Shrink/Grow/Huge/Tiny/etc Spells: change your height beyond the normal height spectrum temporarily. They wear off after 20 minutes. See [[Blessings_(Spells)#Shrink_Spell]].
+
+=Limited-Time Events=
+As a live-service game, events and activities (both returning and brand new) come to Sky relatively often. They'll be announced via TCG announcements on official platforms, and occasionally through your in-game inbox.
+Check the Sky Wiki front page for an easy glance-over at all upcoming & current events!
+
+==Traveling Spirits/Special Visits==
+A random Seasonal Spirit stops by and can be found in Home or Aviary. You can access their spirit tree and buy their cosmetics until they depart. TS events happen every two weeks and last four days (Thursday-Sunday). TCG will release a teaser approximately a week ahead of time, and confirm the spirit a few days before the visit.
+
+Any collectibles that were locked behind the Season Pass during the season will be available to purchase for all players.
+{{Tip|"Returning Spirits", also known as "Special Visits" or "Group Visits", are similar to Traveling Spirits, but feature multiple spirits for a longer period of time. There is no set schedule for when a Special Visit occurs.}}
+* See [[Traveling_Spirits]] and [[Returning_Spirits]] for more details.
+
+==Special/"Days of..." Events==
+Yearly events themed around holidays or the time of year. They offer new activities and cosmetics, as well as a chance to purchase previous years' items. Each lasts for approximately two and a half weeks.
+
+Some special events, especially collabs, are one-time only.
+* For a calendar and more details, see [[Special_Events]].
+
+==Seasons==
+Brand new story quests, activities, and spirits for players to enjoy. Seasons last approximately two and a half months, and are hosted in a "seasonal area".
+{{Tip|Purchasable for real-world money, it gives you bonus seasonal candles, and lets you buy pass-locked cosmetics, including the Guide's ultimate gifts.|What's the [[Seasonal_Events#Season_Pass|Season Pass]]?}}
+* For more details and a list of past events, see [[Seasonal Events]].
+
+After the season ends, you can still play through quests and get the spirits' expressions, but must wait for a TS or Special Visit for cosmetics.
+
+==Miscellaneous Events==
+Occasionally, miscellaneous events like a "Double Light Event" will occur!
+
+=Obtaining Currencies=
+(Maybe add a disclaimer abt fomo here) Don't burn out over the grind.
+
+=="Dailies"==
+"Dailies", a common term especially in mobile games and other free-to-play games, refers to the activities that players can complete every day to "grind" for in-game scores, items, etc.
+
+===Candle Running===
+"Candle running" refers to going through the realms to collect Wax to forge into candles. Wax resets every day at midnight PT (where TGC HQ is), which means that you can collect Wax from the same sources again.
+* For reset details, see [[Timing_System#Schedule_of_Events_in_Sky]].
+
+'''The Candle Chevrons'''<br>
+A system that makes the first few candles a lot faster to forge. 
+With more chevrons, the amount of Wax needed to forge a candle is decreased. You start out with three chevrons after Reset, and upon hitting several Wax milestones (equivalent to 5, 10, and 15 candles), it'll decrement to no chevrons.
+
+Upon hitting the "daily max" of 20 candles worth of Wax, your candles will go grey and the amount of Wax needed to forge a candle will increase ''significantly'' until Reset.
+* For more details, see [[Daily_Light]].
+
+'''Routes'''<br>
+Some players will share their CR routes online. You can also ask for suggestions on various social media platforms, like the official Discord. If you get uber-ed through someone else's CR, you can also pay attention to their routes.
+* For more details, see [[Pieces_of_Light]].
+
+===Daily Quests===
+Every day, players can take on four quests, either from the Old Home return shrine, or the Aviary Cafe Counter. Complete the quest and interact with the quest-giver(s) once more to receive one candle per quest: seasonal candles (during a season) or regular candles (off-season).
+
+Video guides to completing every daily quest can be found on the Sky Wiki Youtube [TBA link].
+* For more details, see [[Quests]].
+
+==Candle Packs==
+In the [[Premium Candle Shop]], you can also directly purchase candles. They also come bundled in some IAP packs.
+* For more details, see [[Getting Started/Basics]].
+
+==Friend Hearts/Heart Trading==
+These are the main "renewable" way of obtaining hearts.
+
+Every day, you can light your friends through the Friend Constellations, and they'll receive a heart fragment.
+[[File:HowtheLightWorksDidiJax.png|thumb]]
+* For more details, see [[Constellation_Table#Send_or_Collect_Gifts_of_Light]].
+
+Some players also will send heart gifts back and forth (called "heart trading"). A heart gift costs three regular candles, and one can be sent per day.
+* For more details, see [[Constellation_Table#Mail_or_Collect_Heart_Gift]].
+
+==Eden-running==
+In a similar vein to candle running, players will go to Eden once per weekly reset in order to farm ascended candles.

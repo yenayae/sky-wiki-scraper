@@ -1,0 +1,67 @@
+{{SkyEvent
+| image = Happy Halloween-2 October 30 2019.png
+| nextevent = [[Days of Mischief/2020|2020]]
+| date = October 27 to October 31, 2019
+| years = {{#lst:Days of Mischief|Mischief Years}}
+}}
+To celebrate the spookiest time of year, a new Halloween-inspired event was introduced to Sky. This event began '''Sunday, October 27, 2019 at 00:00 PDT (UTC-7)''' and ended '''Thursday, October 31, 2019 at 23:59 PDT (UTC-7)''', lasting '''5''' days. While this event took place during the [[Season of Lightseekers]], it did not have any tie-in with the Season. 
+
+For the occasion, the [[Secret Area]] was decorated with patches of [[Darkness]], some of which resembled pumpkins. The sky gained an ominous red color and a large crescent moon, with several active [[Dark Dragons]] roaming outside the building. The [[Secret_Area#Founder's_Pack|TGC Cape]] NPC had been temporarily removed. Instead, there were two Halloween NPCs whose dialogue explained that new Halloween-themed [[Premium Candle Shop|IAPs]] were available from the in-game shop (only while at the Secret Area).
+
+A Dark Dragon was also briefly present inside the building. Players could melt the Darkness in the left bathroom, which would cause a Dragon to burst out from inside the toilet. It would fly around outside, above the roof and in the clouds. Players needed to be cautious, as the Dragon could cause damage, like the rest of the Dragons outside.
+
+{{Collapse
+|label=NPC Dialogue from 2019
+|content=<br>
+*'''Reika''': "Hey Bert! I made this Halloween bat wing!"
+*'''Bert''': "WHAAAAT! THIS IS SO GOOD!" "I WANT ONE!"
+*'''Reika''': "I put the rest in the shop. It will be there until...."
+*'''Bert''': "Oh, I will check it out. Thanks Reika!"
+}}
+<br>
+[[File:Sky Children of the Light NOW IN LIVE Haunted Office Halloween 2019-3|thumb|left|335px|Video Guide by Tara]]
+{{Clear}}
+
+===2019 New Cosmetics and Props===
+====Spooky Bat Cape 2019====
+The Spooky Bat Cape is black with its edges fashioned in the shape of a bat's wing and an orange-red interior. This [[Cape]] was introduced in 2019 for {{Cost|14.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event. <small>(This version of the IAP is no longer available - it has been replaced by the 2020 version of the [[#Spooky Bat Cape|Spooky Bat Cape]].)</small><br>
+<br>
+{{#tag:gallery
+|Spooky Bat Cape 2019 IAP.png {{!}} {{Icon Name|Spooky Bat Cape|name}} 2019 IAP
+{{Icon Name|Spooky Bat Cape|icon}} {{!}} {{Icon Name|Spooky Bat Cape|name}} icon
+{{Icon Name|Spooky Bat Cape|front}} {{!}} {{Icon Name|Spooky Bat Cape|name}} front
+{{Icon Name|Spooky Bat Cape|interior}} {{!}} {{Icon Name|Spooky Bat Cape|name}} interior
+{{Icon Name|Spooky Bat Cape|real}} {{!}} {{Icon Name|Spooky Bat Cape|name}} back
+{{Icon Name|Spooky Bat Cape|exterior}} {{!}} {{Icon Name|Spooky Bat Cape|name}} exterior
+{{Icon Name|Spooky Bat Cape|spell}} {{!}} {{Icon Name|Spooky Bat Cape|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Hungry Pumpkin Hat 2019====
+The Hungry Pumpkin Hat is a carved orange pumpkin with yellow eyes and teeth that sits on top of your head. This [[Hair]] was introduced in 2019 for {{Cost|9.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event. Note that this item is considered a Hair, not a [[Hair Accessory]], and as such it cannot be worn over other Hairstyles. <small>(This version of the IAP is no longer available - it has been replaced by the 2020 version of the [[#Hungry Pumpkin Hat|Hungry Pumpkin Hat]].)</small><br>
+<br>
+{{#tag:gallery
+|Hungry Pumpkin Hat IAP 2019.png {{!}} {{Icon Name|Hungry Pumpkin Hat|name}} 2019 IAP
+{{Icon Name|Hungry Pumpkin Hat|icon}} {{!}} {{Icon Name|Hungry Pumpkin Hat|name}} icon
+{{Icon Name|Hungry Pumpkin Hat|real}} {{!}} {{Icon Name|Hungry Pumpkin Hat|name}} front
+{{Icon Name|Hungry Pumpkin Hat|side}} {{!}} {{Icon Name|Hungry Pumpkin Hat|name}} side
+{{Icon Name|Hungry Pumpkin Hat|back}} {{!}} {{Icon Name|Hungry Pumpkin Hat|name}} back
+{{Icon Name|Hungry Pumpkin Hat|spell}} {{!}} {{Icon Name|Hungry Pumpkin Hat|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+==Trivia==
+*During the first edition of Days of Mischief in 2019, the [[Secret_Area#The_International_Space_Station_(ISS)|Space Station]] area contained floating [[Darkness]] pumpkins.
+*The Days of Mischief Staff NPCs are based on TGC employees<ref>"Office spirits are actually just tgc employees" [https://discord.com/channels/575762611111592007/632004389137154048/702006252946849862 Ash's post]</ref>: Skidmore (Adam Skidmore), Samantha (Samantha Cruse), Yoshi (Yoshi Saito) and Nat (Natalie Nichols).
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Halloween-2018-Promo-Image.jpg|2018 Promo Image
+</gallery>
+
+==References==
+<references />
+
+{{#lst:Days of Mischief|Mischief Navbox}}
+
+[[pt-br:Dias de Travessuras/2019]]

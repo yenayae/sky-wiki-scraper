@@ -1,0 +1,211 @@
+{{Spoilers}}<br>
+[[File:Gameplay-tips-5-Fly-higher.jpg|thumb|right|300px]]
+'''Winged Light''' (also sometimes called '''Stars'''<ref name="stars">Stars was the term used for Winged Light in early versions of the game, and is still sometimes used by [[veteran]] players, especially those who were in the [[Sky Beta|Beta]] prior to global launch.</ref> or just '''Wings''') is used to [[Winged Light#Leveling Up Capes|upgrade a player's Cape]] and give them Wing Power, which enables them to fly.
+
+==Sources of Winged Light==
+There are two sources of Winged Light: '''Children of Light''' and '''Wing Buffs'''. 
+
+===[[Children of Light]]===
+[[File:Child of light.png|thumb|left|75px|A Child of Light]]
+'''Children of Light''' are the most common source of Winged Light, and the only source available to new players. They are bright white characters with a golden glow, who look like short Sky Kids without a [[Cape]]. For each Child of Light collected, the player receives one Winged Light.
+<br><br>'''Please refer to the [[Children of Light]] page for all their specific locations across the Realms.'''
+{{Clear}}
+
+===[[Wing Buffs]]===
+[[File:Winglight.png|thumb|left|75px|Wing Buff]]
+{{#lst:Wing Buffs|Definition}}
+
+'''Please refer to the [[Wing Buffs]] page for more information.'''
+{{Clear}}
+
+==Maximum Possible Winged Light==
+{{#ev:youtube|53W4buqPD7g|300px|right|Maximum Winged Light collection in Orbit (EDEN SPOILERS!)}}
+Maximum Winged Light is only possible for players who started at or before the visit of the [[Spirit Visits#Visit Statistics|earliest Traveling Spirit that hasn't revisited]], because players must have purchased the [[Wing Buff]] from each [[Traveling Spirit]] so far. Each time a Traveling Spirit revisits, newer players can grow closer to the maximum number of Winged Light. Revisit means a visit after the first time visiting as a Traveling Spirit, so the second visit and onward as a Traveling Spirit would be a revisit.
+
+In addition to first visits by Traveling Spirits, the maximum possible Winged Light increases whenever the latest [[Seasonal Events|Season]] adds new [[Children of Light]], or whenever a new tier 2 [[Wing Buff]] is added (e.g., associated with a new [[Tier 2 Cape]]). 
+
+It takes numerous days to collect all Winged Light due to the [[Shard Eruptions#Strong Eruptions|Shattering Memories]] that are only available on [[Shard Eruptions#Schedule|certain days]]. All are needed, and it is difficult to collect the 6 Winged Light from these memories before the next Traveling Spirit comes to raise the maximum. This is especially troublesome for players trying to get all the Winged Light while catching up on Traveling Spirits, ascending revisiting Spirits. 
+
+{| class="article-table"
+|+Totals of All Winged Light <br>(as of {{Game Stat|wings_update}})
+! '''Source'''
+!'''Number'''
+|-
+|[[Children of Light#Summary|Children of Light]] in Realms
+|{{Game Stat|wings_onmap}}
+|-
+|Children of Light in [[Children of Light#Shard Memories (6)|Shard Memories]]
+
+|{{Game Stat|wings_shard}}
+|-
+|Children of Light from [[Eye of Eden#The Credits|Credits]]
+|{{Game Stat|wings_orbit}}
+|-
+|Wing Buffs from [[Regular Spirits]]
+| {{Game Stat|wings_buff_reg}}
+|-
+|Wing Buffs from [[Traveling Spirits]]
+| {{Game Stat|wings_buff_ts}}
+|-
+! '''Max Possible Winged Light'''
+!'''{{#expr:{{Game Stat|wings_onmap}}+{{Game Stat|wings_shard}}+{{Game Stat|wings_orbit}}+{{Game Stat|wings_buff_reg}}+{{Game Stat|wings_buff_ts}}}}'''
+|}
+
+==Leveling Up Capes==
+[[File:Cape-Wedges.png|thumb|200x200px|Different states of Cape wedges]]
+Gaining Winged Light incrementally increases the number of wedges a player has to fly. At the start of the game, players obtain their first wedge during the [[Isle of Dawn]] tutorial by collecting their first Child of Light, thus forming their [[Cape]]. 
+
+Each wedge (at the top of the screen, the [[Expression Menu]]) equals to one flap of the wings, and one Cape star on the back—they will grant the energy to fly further and higher. Selecting the {{Icon|Cape meter.png}} wedge icon at the top of the screen will show how much Winged Light the player has found so far, and how many more is needed to level up.
+
+When enough Winged Light has been collected to reach the next level, there will be a red dot on the Expression Menu. Only after it has been clicked will they player obtain another wedge. Additionally, directly after obtaining a new wedge, the player's Cape Energy is refilled fully.
+
+Information on the player's wedges is also displayed on the back of their Cape (see [[Capes#Cape Energy|Cape Energy]]). One glowing star or symbol represents one available wedge of Cape Energy. Grayed-out stars indicate that this wedge's energy has been used up and can be recharged again, e.g. by going near light sources.
+
+{| class="article-table" style="text-align: center"
+|+ Number of Winged Light necessary to increase wedge count
+!Wedges
+!Required Winged Light
+!Cumulative Winged Light
+!Remarks
+|-
+|1
+|1
+|1
+|
+|-
+|2
+|1
+|2
+|
+|-
+|3
+|3
+|5
+|
+|-
+|4
+|5
+|10
+|
+|-
+|5
+|10
+|20
+|
+|-
+|6
+|15
+|35
+|
+|-
+| 7
+|20
+|55
+|
+|-
+|8
+|20
+|75
+|
+|-
+|9
+|25
+|100
+|
+|-
+|10
+|20 
+|120
+|Max wedge level without [[Wing Buffs]]
+|-
+|11 
+|30
+|150
+|Possible since [[Season of Prophecy]] 
+|- 
+|12
+|50
+|200
+|Possible since [[Season of Shattering]]
+|- style="font-weight:bold;"
+|13
+|50
+|250
+|Possible since [[Season of the Blue Bird]]<br>Current maximum level
+|-
+|14
+|50
+|300
+|Not currently possible
+|}
+
+==Recharging Capes==
+When a player runs out of flying power, they can recharge their energy in several ways:
+
+'''Full Recharge:'''
+*Collecting a [[Child of Light]]
+*Using a [[Blessings (Spells)#Fast Recharge Spell|Fast Recharge Spell]]
+*Leveling up to the next wedge
+
+'''Fast Recharge:'''
+*Being near another player's candle flame
+*Flying through clouds, stars, or big fires (such as campfires)
+*Passing through certain [[Barriers#Spirit Gates|Spirit Gates]]
+*Using most [[Expressions#Friend Actions|Friend Actions]] with friends or certain Guide Ancestors
+<!--when first taking someone's hand (fast)-->
+
+'''Medium Recharge:'''
+*Standing near lit players (including players in [[Shared Memories]])
+*Being close to someone else's [[Deep Call]] (this is the standard way to charge other players, and does not work on players who have lost their Winged Light)
+*Standing near [[Ancestors|Ancestor Spirits]]
+*Flying near or riding [[Creatures#Light Creatures|Light Creatures]]/calling them when near
+*Attracting a [[Butterfly]] with the {{Emote|Butterfly Charmer|inline_text}} Expression
+*Standing near or on a [[Flora, Minerals and Elements of Sky#Light_Bloom|Light Bloom]]
+*Being in an area that passively recharges Wing Energy, such as [[Bird Nest]] and the [[Citadel]]
+
+*{{Icon|Hold-hand-filled-icon.png}} [[Friendship Menu#Holding Hands|Holding hands]] with friends (recharge speed varies depending on whether the players are flying (slow) or not (medium))
+*Recharging with a [[Prop]] (Torch, Brazier, etc.) (varies depending on item)
+
+'''Slow Recharge:'''
+*Standing close to candles or lanterns
+*Collecting [[Pieces of Light]] from any source
+*Standing in the sparkles left behind by an already-collected Child of Light
+*Carrying the light when reliving Seasonal [[Seasonal Spirits#Carry Spirit Memories|Carry Spirit Memories]]
+<!--*Recording a stationary character [[Shared Memories|Shared Memory]], and watching the preview (variable recharge speed, depending on whether additional light sources were used in creation of the memory). After full replenishing of the light (indicated by the distinct sound cue) publishing of the memory can be canceled.-->
+
+==Losing Winged Light==
+Players can lose Winged Light in many ways, which are listed down below. When a player loses a Winged Light, it flies away from them and appears as an orange {{Icon|Winged-light-Ray.png}} wing symbol, with a white light beam above, which acts as a countdown by getting gradually smaller. They can be picked up again, before '''breaking after 20 seconds'''. Other players are able to collect another's lost Winged Light for them as well, which can be helpful, since extinguished players temporarily can't fly.
+
+After the white beam disappears completely, a star-slashing animation appears, alongside a sword-cutting sound effect, marking the definite loss of that Winged Light. At first, these lost Winged Lights will turn back into Children of Light—if all Winged Light from Children of Light has been lost, the player will begin to lose Winged Light from Wing Buffs next. 
+
+If a Winged Light was lost from a Child of Light, it can be found again in their original location. However, there is no way of knowing which of the Children of Light were lost and where to find them again, as it is seemingly random. Players can find their lost Winged Light by opening a [[Map Shrines|Map Shrine]] and looking at what Realms they haven't collected Children of Light yet<ref>This function was added with Patch {{v|0.19.0}}</ref>. Note that Map Shrines don't show the exact amount and location of an uncollected Child of Light, just if one has not been collected yet. Lost Winged Light can only be recollected from the Children of Light that appear in their original form, not to be confused with the sparkle left behind when it has already been collected.<br>
+If a Winged Light was lost from a [[Wing Buff]], it can only be re-obtained by fully going through [[Eye of Eden]] and being reborn.<br><br>
+
+[[File:Losing winged light to krill.jpg|thumb|right|200px|Losing Winged Light to a Dark Dragon (one player protected by an [[Elders|Elder Mask (SPOILERS)]]]]
+'''There are several ways of losing Winged Light/Cape wedges:'''<ref name="flying_too_fast">Previous to the {{v|0.11.0}} Patch, it was also possible to lose Winged Light by hitting objects when flying or sliding too fast.</ref> 
+
+*Being attacked by [[Creatures#Dark Creatures|Dark Creatures]]
+*Contact with a Red Shard (grounded or flying) during [[Shard Eruptions#Strong Eruptions|Strong Eruption]] events
+*Prolonged contact with smaller red shard stones
+*Prolonged exposure to [[Flora,_Minerals_and_Elements_of_Sky#Rain|Polluted Rain]] in [[Hidden Forest]]
+*Prolonged exposure to [[Flora,_Minerals_and_Elements_of_Sky#Polluted_Water|Polluted Water]] ([[Golden Wasteland]], [[Eye of Eden]], Polluted Geyser in [[Sanctuary Islands]])
+*Going through the [[Eye of Eden]], or getting hit by flying rocks in Eye of Eden
+
+''The only ways of losing Winged Light at [[Home]] or [[Aviary]]:''
+*Contact with a Red Shard on the portal to a Realm undergoing a [[Shard Eruptions#Strong Eruptions|Strong Eruption]]
+*Staying underwater after depleting the air bar when [[Season of Abyss#Diving Mechanic|diving]]
+*With the That Sky Shop's [[That_Sky_Shop/Wave_5#Dark_Dragon_Pin|Dark Dragon Pin]]
+
+==References==
+<references />
+
+{{Navigation Box}}
+
+[[de:Geflügeltes Licht]]
+[[ru:Крылатый свет]]
+[[fr:Lumières Ailées]]
+[[pt-br:Luzes Aladas]]
+[[ja:光の翼]]
+
+[[Category:Winged Light]]
+[[Category:Advanced Guides]]

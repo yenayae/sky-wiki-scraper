@@ -1,0 +1,215 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Rhythm-Spirit-Troupe-Juggler.png|Standard
+Rhythm-Spirit-Troupe-Juggler-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Outfit|infobox}}{{Spirit Item||Hair|infobox}}{{Spirit Item||Cape|infobox}}
+|props     = {{Spirit Item||Prop|infobox}}
+|season    = Rhythm
+|realm     = Valley of Triumph
+|location  = Ice Rink
+|ts        = January 13, 2025 (SV#7)<br>October 26, 2023 (#99)<br>September 16, 2021 (#44)
+}}
+<section begin="Summary" />The '''Troupe Juggler''' is a [[Seasonal Spirit]] from the [[Season of Rhythm]] who offers the {{Emote|Troupe Juggler|inline_text}} Expression. The Troupe Juggler is found in the [[Ice Rink]] in [[Valley of Triumph]], within the open tunnel on the player's right-handed side when entering the area. The collectibles [[#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Troupe Juggler|Outfit|inline_text}}, a {{Spirit Item|Troupe Juggler|Hair|inline_text}}, a {{Spirit Item|Troupe Juggler|Cape|inline_text}}, and a {{Spirit Item|Troupe Juggler|Prop|label=Square Brazier Prop|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Troupe-Juggler-promo-image.jpg|thumb|320px|none|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|Z7NwT-3zZVs||inline|Video Guide by Tara}}
+
+The Troupe Juggler can be found within an open tunnel next to a two-player door, on the right-hand side of the [[Ice Rink]] in [[Valley of Triumph]]. This Spirit has a [[Standard Memory|standard memory]] with 4 memory fragments and an unlimited overall [[Timed Memory|time limit]]. 
+
+As their memory unfolds, the Troupe Juggler can be seen leisurely strolling all the way down to the end of the tunnel.
+
+At the end of the memory, the Troupe Juggler whips out little spheres of light from within their Cape, first juggling two with one hand, then switching to juggling three with two hands, and finally throwing all of the spheres into the air and catching them all in a dramatic finish.<br>
+<br>
+[[File:03 VT Seasonal Spirit - Troupe Juggler.jpg|200px|thumb|none|Relive the Troupe Juggler's memory]]
+</div>
+{{Clear}}
+
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels. Each Level makes the same motion with slightly different sparkle effects.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Troupe-Juggler-juggle-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Troupe-Juggler-juggle-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Troupe-Juggler-juggle-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Troupe-Juggler-juggle-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar take out spheres of light from under their Cape and begin to juggle, first with just their right hand before switching to both hands, then toss all three spheres high into the air to spin around and catch them with a jaunty pose as a rolling accordion tune plays in the background.
+*Level 2 makes the same motion as Level 1, with sparkles popping out of the sides of each sphere.
+*Level 3 makes the same motion as Level 1, with larger spheres of light and sparkles popping out the sides of each sphere.
+*Level 4 makes the same motion as Level 1, with larger spheres of light, sparkles popping out the sides of each sphere, and light particles floating up from your avatar's juggling hands.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+== Cosmetics==
+=== Outfit ===
+The [[Outfit]] offered by this Spirit features a light-blue wrap top with mid-lengthed sleeves, a pair of dark-blue balloon pants with a scarf-like fur-trimmed piece of fabric tied around the waist, and simple dark-blue boots, costing {{Cost|75 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fifth node ({{Cost|60 SC|season=Rhythm}} total).<br>{{Dye_Details
+|area1=the main belt and waist scarf, and boots
+|cost1=3
+|area2=the top
+|cost2=2
+}}
+<br>
+{{#tag:gallery
+|{{Icon Name||Outfit|icon}} {{!}} The Outfit icon
+{{Icon Name||Outfit|real}} {{!}} The Outfit front
+{{Icon Name||Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Hair ===
+The [[Hair]] offered by this Spirit is an upward-pointing hairstyle that resembles an ice cream swirl with a yellow streak, costing {{Cost|42 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's second node ({{Cost|12 SC|season=Rhythm}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Cape ===
+The [[Cape]] offered by this Spirit is a purple cape with a white fur trim and collar piece, which features the [[Season of Rhythm]]'s symbol, costing {{Cost|75 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|42 SC|season=Rhythm}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||Cape|interior}} {{!}} The Cape interior
+{{Icon Name||Cape|real}} {{!}} The Cape back
+{{Icon Name||Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Prop ===
+The [[Prop]] offered by this Spirit is a small square-shaped stone brazier, costing {{Cost|14 H}} from the Traveling Spirit. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. When lit, its flame will recharge the player's wings. It appears as a small brazier on its owner's back when carried.
+
+This item was not available during the [[Season of Rhythm]]. Instead, it was added to the Troupe Juggler's Friend Tree during their first visit as a Traveling Spirit on September 16, 2021, in conjunction with [[Days of Summer]].<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Prop|icon}} {{!}} The Prop icon
+{{Icon Name||Prop|real}} {{!}} The Prop
+{{Icon Name||Prop|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Traveling Spirit ==
+[[File:Traveling Spirit Price Chart - Spirit 44.png|200px|right|thumb]]
+{{Friendship Tree Info | traveling
+|ts_dates=*October 26, 2023 (#99)
+*September 16, 2021 (With a new [[#Prop|Prop]]) (#44)
+|rs_dates=*January 13, 2025 (SV#7)
+
+}}<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Troupe Juggler
+|season = Rhythm
+|image  = Rhythm-Spirit-Troupe-Juggler.png
+
+|nodeC6 = Outfit 75 C
+|nodeL5 = Cape 75 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Hair 42 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+|nodeR1 = Prop 14 H NEW
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+The hints given before the [[Troupe Juggler]]'s first appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=First Visit Hints
+|content=<div>
+* Is the #1 fan of amphibians
+* Is a bit of a slacker 
+* Is the best at hop scotch
+* Is really bad at taking responsibility
+* Is good at dodging
+* Would likely be a twitch streamer IRL
+* Eats too many sweets
+* Enjoys things that sparkle
+* Has taken Boogie Kid as an apprentice
+* Is bad at fishing
+* Loves fluffy things
+* Would use dark mode
+* Is really competitive
+* Is DEFINITELY a coffee fan...but only if there's 6 sugars and whipped cream
+* Has a poor attention span
+* CAN do the splits
+* Would be a cat person vs a dog person
+* Is afraid of heights
+* Hates spicy food
+* Animates flip books
+* Is a procrastinator 
+* Is a night owl
+* Hosts the best parties
+* Is a Leo
+</div>
+}}
+
+The hints were given before the [[Troupe Juggler]]'s second appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Second Visit Hints
+|content=<div>
+*Always has a piece of candy with them
+*Buys merch of their favorite animal
+*Is nervous about swimming in deep water
+*Is secretly shy about their story writing skills
+*Annoys others for fun
+*Thinks the rain is too gloomy
+*Finds it hard to sit still
+</div>
+}}
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Rhythm}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Troupe Juggler
+|type   = season
+|season = Rhythm
+|image  = Rhythm-Spirit-Troupe-Juggler.png
+
+|nodeC6 = season_heart 3 SC SP
+|nodeL5 = spell5 SP
+|nodeC5 = Outfit 18 SC
+|nodeL4 = Cape SP
+|nodeC4 = spell5 16 SC
+|nodeL3 = emote4 SP
+|nodeC3 = emote3 14 SC
+|nodeL2 = spell5 SP
+|nodeC2 = Hair 12 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Unique Daily Quests==
+{{#section-h:Quests/Daily Quest Spirits|{{PAGENAME}}}}
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Troupe Juggler Promo image (second visit).png
+Troupe Juggler promo image (mid Season).png
+Juggle expression .jpg
+Rhythm beta group juggle.jpeg
+Rhythm spirit juggle map.png
+</gallery>
+
+==References==
+<references/>
+
+[[de:Zirkusjongleur]]
+[[fr:Jongleur de troupe]]
+[[pt-br:Malabarista da Trupe]]
+[[ru:Жонглёр из труппы]]
+[[ja:一座の曲芸師]]

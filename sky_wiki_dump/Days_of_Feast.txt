@@ -1,0 +1,1219 @@
+__FORCETOC__
+{{SkyEvent
+| image = Days-of-Feast-promo-image-2024.png
+| previousevent = [[Days of Giving]]
+| nextevent = [[Days of Fortune]]
+| date = December 23, 2024 to January 12, 2025
+}}
+'''Days of Feast''' is an annual event celebrating the cozy festivities of the winter holidays that happens around the mid-end of December and lasting until the beginning of January the following year.
+
+During the three-week event, [[Home]] gets a frosty makeover, with the skies shifting each week as a blizzard gradually rolls through before clearing away. The ice rink emits [[Pieces of Light|Light]] that resembles falling snow for players to collect as they skate and the [[Belonging Guide]] can be found within the snow hut with goodies to share. Several visiting [[Spirits]] can also be found gathering in the [[Village of Dreams]] to enjoy the festivities together with players. The [[Secret Area]] is open to everybody during this event, featuring appropriately themed decorations and a large ice rink on the building's rooftop. 
+
+Winter-themed [[Premium Candle Shop|IAPs]] are available from the in-game shop, and the Days of Feast Event Guides offer various cosmetics from their Friendship Trees. Free [[Spells]] to try all of these items can also be collected from the [[Spell Shops#Sleepy%20Traveler's%20Boat|Sleepy Traveler's boat]] and the Snowman Spell shop on the roof of the Secret Area.
+
+==December 2024<span id="2024"></span>==
+{{#ev:youtube|wjmxgWAe6sY||right|Days of Feast 2024 - Sky x Alice's Wonderland Cafe Trailer}}
+<section begin="Wonderland Collab" />
+Days of Feast returned for a sixth year! The event began on '''Monday, December 23, 2024 at 00:00 PST (UTC-8)''' and ended on '''Sunday, January 12, 2025 at 23:59 PST (UTC-8)''', lasting '''21''' days. This special collaboration brought the magic of [[wp:Alice in Wonderland|''Alice in Wonderland'']] to Sky with an event filled with memorable characters, stories, and surprises.<section end="Wonderland Collab" />
+
+While the event was active, players could spot a creature who's in a hurry, in [[Home]] and the [[Aviary Village]]. Following them led to the entrance to an all-new event area where players experienced Sky from a very different perspective. 
+
+Fall down the rabbit hole and into Alice's Wonderland Cafe!
+{{Clear}}
+
+===Activities and Race Locations===
+{{#ev:youtubeplaylist|PLl2dLrx-duQgBPt1cUkUIMD1O2_AYNq8T|300|right|Playlist of Activities and Races}}
+{| class="article-table mw-collapsible mw-collapsed"
+!Date!!Activities!!Race Locations
+|-
+|December 23||Book Maze / Warm up Manatee||[[Village of Dreams]] (Gondola Hill)
+|-
+|December 24||Clear the Weeds / Wake up Manatee||[[Sanctuary Islands]]
+|-
+|December 25||Meet the [[Belonging Guide|Belonging Ancestor]]||[[Hermit Valley]]
+|-
+|December 26||Cafe Race / Jamband (Mad Hatter Duet)||[[Battlefield]]
+|-
+|December 27||Memory Match / Cozy Space||[[Village of Dreams]] (Gondola Hill)
+|-
+|December 28||Gathering Sugar Cubes / Saving Energy||[[Village of Dreams]] (Mountain Ridge)
+|-
+|December 29||Mushrooms Spore Photo / Hat Change||[[Hermit Valley]]
+|-
+|December 30||Pick Mushrooms / Memory Message Boat||[[Battlefield]]
+|-
+|December 31||Get More Tea / Warm up Manatee||[[Village of Dreams]] (Gondola Hill)
+|-
+|January 1||Jamband (Mad Hatter Duet) / Mushrooms Spore Photo||[[Village of Dreams]] (Mountain Ridge)
+|-
+|January 2||Wake up Manatee / Memory Match||[[Village of Dreams]] (Gondola Hill)
+|-
+|January 3||Clear the Weeds / Cozy Space||[[Hermit Valley]]
+|-
+|January 4||Cafe Race / Hat Change||[[Sanctuary Islands]]
+|-
+|January 5||Book Maze / Pick Mushrooms||[[Hermit Valley]]
+|-
+|January 6||Get More Tea / Saving Energy||[[Battlefield]]
+|-
+|January 7||Gathering Sugar Cubes / Memory Message Boat||[[Village of Dreams]] (Gondola Hill)
+|-
+|January 8||Pick Mushrooms / Mushrooms Spore Photo||[[Sanctuary Islands]]
+|-
+|January 9||Hat Change / Cozy Space||[[Village of Dreams]] (Mountain Ridge)
+|-
+|January 10||Book Maze / Clear the Weeds||[[Hermit Valley]]
+|-
+|January 11||Memory Message Boat / Saving Energy||[[Village of Dreams]] (Gondola Hill)
+|-
+|January 12||Jamband (Mad Hatter Duet) / Warm up Manatee||[[Hermit Valley]]
+|}<br>
+<gallery widths="125" spacing="small" captionalign="center">
+Alice-Cafe-Book-Maze.png|Book Maze
+Alice-Cafe-Warm-Up-Manatee.png|Warm Up Manatee
+Alice-Cafe-Clear-away-weeds.png|Clear the Weeds
+Alice-Cafe-Capture-Wake-up-Manatee.png|Wake up Manatee
+Belonging-Ancestor-Alice-Cafe.png|Meet the Belonging Ancestor
+Alice-Cafe-Race.png|Cafe Race
+Alice-Cafe-Mad-Hatter-Duet.png|Jamband (Mad Hatter Duet)
+Alice-Cafe-Memory-Match.png|Memory Match
+Alice-Cafe-Shared-Space.png|Cozy Space
+Alice-Cafe-Gather-Sugar-Cubes.png|Gathering Sugar Cubes
+Alice-Cafe-Save-Manatee-Energy.png|Saving Energy
+Alice-Cafe-Capture-the-rare-moment.png|Mushrooms Spore Photo
+Alice-Cafe-Pick-a-hat.png|Hat Change
+Alice-Cafe-Pick-mushrooms.png|Pick Mushrooms
+Alice-Cafe-Messageboat.png|Memory Message Boat
+Alice-Cafe-Get-More-Tea.png|Get More Tea
+</gallery>
+
+===Ticket Locations===
+[[File:Days-of-Style-Event-Currency-Light.png|125px|thumb|Days of Feast Event Currency Light]]
+[[File:Days-of-Feast-Snowflake-Ticket.png|125px|thumb|A Days of Feast snowflake Ticket]]
+A total of {{Cost|5 T|event=Feast}} Tickets could be collected each day as Event Currency Light, by participating in activities that helped the Alice in Wonderland NPCS. In addition, a bonus {{Cost|15 T|event=Feast}} Event Currency Tickets were hidden throughout the Alice's Wonderland Cafe area. They could be collected at any time during the event. 
+
+<gallery widths="300px" captionalign="center" position="left">
+File:Sky-x-Alice-in-Wonderland-Tickets-location-by-Kion.jpeg|Ticket locations by Kion_Anzu
+File:Alicecafe-2024-12-30.jpg|Guide Map by [https://twitter.com/sky_solsuga solsuga ソルとシュガ]
+</gallery>
+
+Players could also buy additional Tickets (costing {{Cost|2 AC}} or {{Cost|6 C}} each) from the Feast Gift Box at the [[Aviary Village#Aviary Village Cafe|Cafe]] or the Snowman at the roof of the building in the [[Secret Area]].
+
+In addition to Event Currency Light, players could gather approximately 250 [[Pieces of Light]] scattered around the area by burning [[Flora, Minerals and Elements of Sky#Dark Plants|Dark Plants]], lighting large red candles, and picking up small Mushrooms.  
+
+When sitting down at the Mad Tea Party table, one NPC would already be sitting there by default, generating one Piece of Light on the table, every few seconds. 
+This process could be sped up by completing the two daily Event Currency activities in the area, after which the remaining two NPCs would join the Tea Party. Now players would receive a total of three Pieces of Light every few seconds. There was a maximum of 500 Pieces of Light that could be collected by players at the Tea Party per day.                   <small>Note that the player had to be seated at the table in order to be able to receive the Pieces of Light.</small>
+
+Every 45 seconds, the Mad Hatter would shout, "MOVE ALONG!" - shortly after, the {{Icon|Shuffle-seat-icon.png}} shuffle seat icon would appear. Selecting the icon would soon make the player hop to the next seat in counter-clockwise direction. Players could get thrown off their seat by the person seated right next to them if they did not select the shuffle icon in time.
+{{Clear}}
+
+{{Friendship Tree
+|float = left
+|label  = Mannequin at Cafe
+|event = Feast
+|image = Days-of-Feast-Mannequin-at-Cafe.png
+|nodeC1= {{Icon Name|Wonderland Hare Hairstyle|icon}} 150 C
+|  labelC1 = {{Icon Name|Wonderland Hare Hairstyle|name}}
+|  linkC1  = Days of Feast#{{Icon Name|Wonderland Hare Hairstyle|name}}
+}}
+{{Friendship Tree
+|float = left
+|label  = Winter Courier
+|event = Feast
+|image = Days-of-Feast-Winter-Courier.png
+
+|nodeC7 = {{Icon Name|Winter Feast Hat|icon}} 20 H
+|  labelC7 = {{Icon Name|Winter Feast Hat|name}}
+|  linkC7  = {{Icon Name|Winter Feast Hat|name}}
+
+|nodeR5 = {{Icon Name|Winter Scarf|icon}} 50 C
+|  labelR5 = {{Icon Name|Winter Scarf|name}}
+|  linkR5  = Days of Feast#{{Icon Name|Winter Scarf|name}}
+
+|nodeC6 = Spellx 5 C
+|  labelC6 = Spell
+|  linkC6  = Spells
+
+|nodeL5 = {{Icon Name|Winter Feast Pillow|icon}} 10 C
+|  labelL5 = {{Icon Name|Winter Feast Pillow|name}}
+|  linkL5  = Days of Feast#{{Icon Name|Winter Feast Pillow|name}}
+
+|nodeR4 = {{Icon Name|Snowkid Prop|icon}} 120 C
+|  labelR4 = {{Icon Name|Snowkid Prop|name}}
+|  linkR4  = Days of Feast#{{Icon Name|Snowkid Prop|name}}
+
+|nodeC5 = Spellx 5 C
+|  labelC5 = Spell
+|  linkC5  = Spells
+
+|nodeL4 = Music 10 C
+|  labelL4 = Ode to Joy Music Sheet
+|  linkL4  = Days of Feast#Ode to Joy Music Sheet
+
+|nodeR3 = {{Icon Name|Feast Goggles|icon}} 60 C
+|  labelR3 = {{Icon Name|Feast Goggles|name}}
+|  linkR3  = Days of Feast#{{Icon Name|Feast Goggles|name}}
+
+|nodeC4 = Spellx 5 C
+|  labelC4 = Spell
+|  linkC4  = Spells
+
+|nodeL3 = {{Icon Name|Pinecone|icon}} 35 C
+|  labelL3 = {{Icon Name|Pinecone|name}}
+|  linkL3  = Days of Feast#{{Icon Name|Pinecone|name}}
+
+|nodeR2 = {{Icon Name|Snowboard|icon}} 145 C
+|  labelR2 = {{Icon Name|Snowboard|name}}
+|  linkR2  = Days of Feast#{{Icon Name|Snowboard|name}}
+
+|nodeC3 = Spellx 5 C
+|  labelC3 = Spell
+|  linkC3  = Spells
+
+|nodeL2 = {{Icon Name|Wonderland Teacup Bath|icon}} 36 T
+|  labelL2 = {{Icon Name|Wonderland Teacup Bath|name}}
+|  linkL2  = Days of Feast#{{Icon Name|Wonderland Teacup Bath|name}}
+
+|nodeR1 = {{Icon Name|Wonderland Frantic Hair|icon}} 30 T
+|  labelR1 = {{Icon Name|Wonderland Frantic Hair|name}}
+|  linkR1  = Days of Feast#{{Icon Name|Wonderland Frantic Hair|name}}
+
+|nodeC2 = Spellx 5 C
+|  labelC2 = Spell
+|  linkC2  = Spells
+
+|nodeL1 = {{Icon Name|Wonderland Stacked Hat|icon}} 18 T
+|  labelL1 = {{Icon Name|Wonderland Stacked Hat|name}}
+|  linkL1  = Days of Feast#{{Icon Name|Wonderland Stacked Hat|name}}
+
+|nodeC1 = Question-mark-Ray.png
+|  labelC1 = Opening Cutscene
+|  linkC1  = 
+}}
+{{Friendship Tree
+|float = left
+|label  = Days of Feast Staff
+|event = Feast
+|image = Days-of-Feast-Staff-2024.png
+
+|nodeC3 = {{Icon Name|Feast Table|icon}} 150 C
+|  labelC3　= {{Icon Name|Feast Table|name}}
+|  linkC3  = Days of Feast#{{Icon Name|Feast Table|name}}
+
+|nodeC2 = Spellx 5 C
+|  labelC2 = Spell
+|  linkC2  = Spells
+
+|nodeL2 = Icon_cape_santa.png 65 C
+|  labelL2　= {{Icon Name|Feast Cape|name}}
+|  linkL2  = Days of Feast#{{Icon Name|Feast Cape|name}}
+
+|nodeR1 = {{Icon Name|Feast Necktie|icon}} 15 H
+|  labelR1= {{Icon Name|Feast Necktie|name}}
+|  linkR1  = Days of Feast#{{Icon Name|Feast Necktie|name}}
+
+|nodeC1 = Spellx 5 C
+|  labelC1 = Spell
+|  linkC1  = Spells
+
+|nodeL1 = Heart 3 C
+}}
+{{Clear}}
+
+===<big>All Available Collectibles in 2024</big>===
+There are two mini Spell Shops: <br>
+*The Snowman at the roof of the building in the [[Secret Area]], behind one of the goal posts
+*The Gift Box filled with bubbles at Alice's Wonderland Cafe, next to the Winter Courier
+<gallery widths="125px" spacing="small" captionalign="center">
+Feast-2024-Office-Spell-Shop.png|Spell Shop in the Secret Area
+Feast-2024-Cafe-Spell-Shop.png|Spell Shop in Alice's Wonderland Cafe
+</gallery>
+{| class="article-table"
+!Name!!Icon!!Type !!Cost !!Location!!Spell!!Spell Cost & Locations
+
+|-
+! colspan="7" style="text-align:center;" |From Days of Feast 2024
+|-
+| rowspan="2" |[[Days of Feast#Wonderland Primrose Pinafore Set|Wonderland Primrose Pinafore Set]]
+|{{Days Item|Wonderland Primrose Pinafore Dress||table}}
+|[[Outfit]]
+| rowspan="2" |{{Cost|11.99 USD|refnote}}
+| rowspan="2" |<small>[[Premium Candle Shop]]</small>
+|{{Days Item|Wonderland Primrose Pinafore Dress|spell|table}}<small>x3</small>
+|<small>Mini Spell shops for free</small>
+|-
+|{{Days Item|Wonderland Primrose Pinafore Bow||table}}
+|[[Hair Accessory]]
+|{{Days Item|Wonderland Primrose Pinafore Bow|spell|table}}<small>x3</small>
+|<small>Mini Spell shops for free</small>
+|-
+|[[Days of Feast#Wonderland Cafe Corridor|Wonderland Cafe Corridor]]
+|{{Days Item|Wonderland Cafe Corridor||table}}
+|[[Prop]]
+|{{Cost|19.99 USD|refnote}}
+|<small>[[Premium Candle Shop]]</small>
+|{{Days Item|Wonderland Cafe Corridor|spell|table}}<small>x3</small>
+| <small>Mini Spell shops for free</small>
+|-
+|[[Days of Feast#Wonderland Frantic Hair|Wonderland Frantic Hair]]
+|{{Days Item|Wonderland Frantic Hair||table}}
+|[[Hair]]
+|{{Cost|30 T|event=Feast}}
+|<small>Winter Courier at Wonderland Cafe</small>
+|{{Days Item|Wonderland Frantic Hair|spell|table}}<small>x3</small>
+|<small>Mini Spell shops for free</small>
+|-
+|[[Days of Feast#Wonderland Stacked Hat|Wonderland Stacked Hat]]
+|{{Days Item|Wonderland Stacked Hat||table}}
+|[[Hair Accessory]]
+|{{Cost|18 T|event=Feast}}
+|<small>Winter Courier at Wonderland Cafe</small>
+|{{Days Item|Wonderland Stacked Hat|spell|table}}<small>x3</small>
+|<small>Mini Spell shops for free</small>
+|-
+|[[Days of Feast#Wonderland Teacup Bath|Wonderland Teacup Bath]]
+|{{Days Item|Wonderland Teacup Bath||table}}
+|[[Prop]]
+|{{Cost|36 T|event=Feast}}
+|<small>Winter Courier at Wonderland Cafe</small>
+|{{Days Item|Wonderland Teacup Bath|spell|table}}<small>x3</small>
+|<small>Mini Spell shops for free</small>
+|-
+|[[Days of Feast#Wonderland Hare Hairstyle|Wonderland Hare Hairstyle]]
+|{{Days Item|Wonderland Hare Hairstyle||table}}
+|[[Hair]]
+|{{Cost|150 C}}
+|<small>Mannequin at Wonderland Cafe</small>
+|{{Days Item|Wonderland Hare Hairstyle|spell|table}}<small>x3</small>
+|<small>Mini Spell shops for free</small>
+|-
+! colspan="7" style="text-align:center;" |From Days of Feast 2023
+|-
+|[[Days of Feast#{{Icon Name|Winter Quilted Cape|name}}|{{Icon Name|Winter Quilted Cape|name}}]]
+|{{Days Item|Winter Quilted Cape||table}}
+|[[Cape]]
+|{{Cost|14.99 USD|refnote}}
+|<small>[[Premium Candle Shop]] at Wonderland Cafe from large pinecone</small>
+|{{Days Item|Winter Quilted Cape|spell|table}}<small>x3</small>
+|<small>Mini Spell shops for free</small>
+|-
+|[[Days of Feast#{{Icon Name|Cozy Hermit Boots|name}}|{{Icon Name|Cozy Hermit Boots|name}}]]
+|{{Days Item|Cozy Hermit Boots||table}}
+|[[Shoes]]
+|{{Cost|6.99 USD|refnote}}
+|<small>[[Premium Candle Shop]] at Wonderland Cafe from large pinecone</small>
+|{{Days Item|Cozy Hermit Boots|spell|table}}<small>x3</small>
+|<small>Mini Spell shops for free</small>
+|-
+|[[Days of Feast#{{Icon Name|Pinecone|name}}|{{Icon Name|Pinecone|name}}]]
+|{{Days Item|Pinecone||table}}
+|[[Hair Accessory]]
+|{{Cost|19 T|event=Feast}}
+|<small>Winter Courier at Wonderland Cafe</small>
+|{{Days Item|Pinecone|spell|table}}<small>x3</small>
+|<small>Mini Spell shops for free</small>
+|-
+|[[Days of Feast#{{Icon Name|Winter Feast Snowboard|name}}|{{Icon Name|Winter Feast Snowboard|name}}]]
+|{{Days Item|Winter Feast Snowboard||table}}
+|[[Prop]]
+|{{Cost|44 T|event=Feast}}
+|<small>Winter Courier at Wonderland Cafe</small>
+|{{Days Item|Winter Feast Snowboard|spell|table}}<small>x3</small>
+|<small>Mini Spell shops for free</small>
+|-
+|[[Days of Feast#{{Icon Name|Course Creation Prop|name}}|{{Icon Name|Course Creation Prop|name}}]]
+|{{Days Item|Course Creation Prop||table}}
+|[[Prop]]
+|{{Cost|150 C}}
+|<small>[[Aviary Village#Aviary Event Store|Equipment Rack in Aviary Event Store]]</small>
+|{{Days Item|Course Creation Prop|spell|table}}<small>x3</small>
+||<small>Mini Spell shops for {{Cost|1 C}}</small>
+|-
+|[[Days of Feast#Medal Neck Accessory Spell|Medal Neck Accessory Spell]]
+|
+|[[Spell]]
+|
+|
+|{{Icon|Course-Medal-Neck-Accessory-Spell-icon-777-Ed.png|table|label=Medal Neck Accessory Spell|in_page=1}}
+|<small>Not collectible; only available with the Hermit's race challenges or the [[Days of Feast#Course Creation Prop|Course Creation Prop]]</small>
+|-
+! colspan="7" style="text-align:center;" |From Days of Feast 2022
+|-
+|[[Days of Feast#{{Icon Name|Tournament Skyball Set|name}}|{{Icon Name|Tournament Skyball Set|name}}]]
+|{{Days Item|Tournament Skyball Set||table}}
+|[[Prop]]
+|{{Cost|14.99 USD|refnote}}
+|<small>[[Premium Candle Shop]] at Wonderland Cafe from large pinecone</small>
+|{{Days Item|Tournament Skyball Set|spell|table}}<small>x3</small>
+|<small>Mini Spell shops for free</small>
+|-
+|[[Days of Feast#Cozy Hermit Cape|Cozy Hermit Cape]]
+|{{Days Item|Cozy Hermit Cape||table}}
+|[[Cape]]
+|{{Cost|14.99 USD|refnote}} 
+|<small>[[Premium Candle Shop]] at Wonderland Cafe from large pinecone</small>
+|{{Days Item|Cozy Hermit Cape|spell|table}}<small>x3</small>
+|<small>Mini Spell shops for free</small>
+|-
+|[[Days of Feast#Snowkid Prop|Snowkid Prop]]
+|{{Days Item|Snowkid Prop||table}}
+|[[Prop]]
+|{{Cost|120 C}}
+|<small>Winter Courier at Wonderland Cafe</small>
+|{{Days Item|Snowkid Prop|spell|table}}<small>x3</small>
+|<small>Mini Spell shops for free</small>
+|-
+|[[Days of Feast#Feast Goggles|Feast Goggles]]
+|{{Days Item|Feast Goggles||table}}
+|[[Face Accessory]]
+|{{Cost|60 C}}<ref name="Goggles price change">The Feast Goggles price increased from {{Cost|50 C}} to {{Cost|60 C}} during [https://www.thatskygame.com/news/wintry-games-and-more-for-days-of-feast-2023/ Days of Feast 2023] due to the new lens effect added to the item earlier that year.</ref>
+|<small>Winter Courier at Wonderland Cafe</small>
+|{{Days Item|Feast Goggles|spell|table}}<small>x3</small>
+|<small>Mini Spell shops for free</small>
+|-
+|[[Days of Feast#Hermit Snowman Hair Spell|Hermit Snowman Hair Spell]]
+|
+|[[Spell]]
+|
+|
+|{{Icon|Days-of-Feast-Yeti-snowman-Hair-spell-Icon-Morybel-0146.png|table|label=Hermit Snowman Hair Spell|in_page=1}}
+|<small>Not collectible; only available from sneezing [[Bearhug Hermit]] at the [[Village of Dreams]]</small>
+|-
+|[[Days of Feast#Hermit Snowman Pants Spell|Hermit Snowman Pants Spell]]
+|
+|[[Spell]]
+|
+|
+|{{Icon|Days-of-Feast-Yeti-snowman-Pants-spell-Icon-Morybel-0146.png|table|label=Hermit Snowman Pants Spell|in_page=1}}
+|<small>Not collectible; only available from sneezing [[Bearhug Hermit]] at the [[Village of Dreams]]</small>
+|-
+|[[Days of Feast#Skyball Set Spell|Skyball Set Spell]]
+|
+|[[Spell]]
+|
+|
+|{{Icon|Days-of-Feast-SkyBall-Set-Spell-Morybel-0146.png|table|label=Skyball Set Spell|link=Days of Feast#Skyball Set Spell}}x2
+|<small>Mini Spell shop at the [[Village of Dreams]] for {{Cost|2 C}}</small>
+|-
+! colspan="7" style="text-align:center;" |From Days of Feast 2021
+|-
+|[[Days of Feast#Winter Ancestor Cape|Winter Ancestor Cape]]
+|{{Days Item|Winter Ancestor Cape||table}}
+|[[Cape]]
+|{{Cost| 9.99 USD|ref}}
+|<small>[[Premium Candle Shop]] at Wonderland Cafe from small pinecone</small>
+|{{Days Item|Winter Ancestor Cape|spell|table}}<small>x3</small>
+|<small>Mini Spell shops for free</small>
+|-
+|[[Days of Feast#Snowflake Hair Accessory|Snowflake Hair Accessory]]
+|{{Days Item|Snowflake Hair Accessory||table}}
+|[[Hair Accessory]]
+|{{Cost| 1.99 USD|ref}}
+|<small>[[Premium Candle Shop]] at Wonderland Cafe from small pinecone</small>
+|{{Days Item|Snowflake Hair Accessory|spell|table}}<small>x3</small>
+|<small>Mini Spell shops for free</small>
+|-
+|[[Days of Feast#Winter Feast Snowglobe|Winter Feast Snowglobe]]
+|{{Days Item|Winter Feast Snowglobe||table}}
+|[[Prop]]
+|{{Cost| 9.99 USD|ref}}
+|<small>[[Premium Candle Shop]] at Wonderland Cafe from small pinecone</small>
+|{{Days Item|Winter Feast Snowglobe|spell|table}}<small>x3</small>
+|<small>Mini Spell shops for free</small>
+|-
+|[[Days of Feast#Music Sheet|Music Sheet E1 - Ode to Joy]]
+|{{Music Sheet|E1|label=Music Sheet E1 - Ode to Joy|in_page=1}}
+|[[Music Sheets|Music]]
+|{{Cost|10 C}}
+|<small>Winter Courier at Wonderland Cafe</small>
+|
+|
+|-
+|[[Days of Feast#Winter Feast Pillow|Winter Feast Pillow]]
+|{{Days Item|Winter Feast Pillow||table}}
+|[[Prop]]
+|{{Cost|10 C}}
+|<small>Winter Courier at Wonderland  Cafe</small>
+|
+|
+|-
+|[[Days of Feast#Winter Feast Scarf|Winter Feast Scarf]]
+|{{Days Item|Winter Feast Scarf||table}}
+|[[Neck Accessory]]
+|{{Cost|50 C}}
+|<small>Winter Courier at Wonderland Cafe</small>
+|{{Days Item|Winter Feast Scarf|spell|table}}<small>x3</small>
+|<small>Mini Spell shops for free</small>
+|-
+|[[Days of Feast#Winter Feast Hat|Winter Feast Hat]]
+|{{Days Item|Winter Feast Hat||table}}
+|[[Hair]]
+|{{Cost|20 H}}
+|<small>Winter Courier at Wonderland Cafe</small>
+|{{Days Item|Winter Feast Hat|spell|table}}<small>x3</small>
+|<small>Mini Spell shops for free</small>
+|-
+! colspan="7" style="text-align:center;" |From Days of Feast 2020
+|-
+|[[Days of Feast#Days of Feast Horns|Days of Feast Horns]]
+|{{Days Item|Days of Feast Horns||table}}
+|[[Head Accessory]]
+|{{Cost|14.99 USD|ref}}
+|<small>Days of Feast Staff at the [[Secret Area]]</small>
+|{{Days Item|Days of Feast Horns|spell|table}}<small>x3</small>
+|<small>Mini Spell shops for free</small>
+|-
+|[[Days of Feast#Snowflake Cape|Snowflake Cape]]
+|{{Days Item|Snowflake Cape||table}}
+|[[Cape]]
+|{{Cost|14.99 USD|ref}}
+|<small>Days of Feast Staff at the [[Secret Area]]</small>
+|{{Days Item|Snowflake Cape|spell|table}}<small>x3</small>
+|<small>Mini Spell shops for free</small>
+|-
+|[[Days of Feast#Days of Feast Table|Days of Feast Table]]
+|{{Days Item|Days of Feast Table||table}}
+|[[Prop]]
+|{{Cost|150 C}}
+|<small>Days of Feast Staff at the [[Secret Area]]</small>
+|{{Days Item|Days of Feast Table|spell|table}}<small>x3</small>
+|<small>Mini Spell shops for free</small>
+|-
+|[[Days of Feast#Days of Feast Cape|Days of Feast Cape]]
+|{{Days Item|Days of Feast Cape||table}}
+|[[Cape]]
+|{{Cost|65 C}}
+|<small>Days of Feast Staff at the [[Secret Area]]</small>
+|{{Days Item|Days of Feast Cape|spell|table}}<small>x3</small>
+|<small>Mini Spell shops for free</small>
+|-
+|[[Days of Feast#Feast Necktie|Feast Necktie]]
+|{{Days Item|Feast Necktie||table}}
+|[[Neck Accessory]]
+|{{Cost|15 H}}
+|<small>Days of Feast Staff at the [[Secret Area]]</small>
+|{{Days Item|Feast Necktie|spell|table}}<small>x3</small>
+|<small>Mini Spell shops for free</small>
+|-
+! colspan="7" style="text-align:center;" |From Days of Feast 2019
+|-
+|[[Days of Feast#Days of Feast Pack|Days of Feast Pack]] + {{Cost|25 C}}
+|{{Days Item|Feast Hat||table}}
+|[[Hair]]
+|{{Cost|6.99 USD|ref}}
+|<small>Days of Feast Staff at the [[Secret Area]]</small>
+|{{Days Item|Feast Hat|spell|table}}<small>x3</small>
+|<small>Mini Spell shops for free</small>
+|}
+
+=== 2024 New Cosmetics and Props===
+====Wonderland Primrose Pinafore Set====
+:: '''''"Lose yourself in Alice's classically styled primrose yellow dress, perfectly paired with a blue hairbow."'''''
+
+The Wonderland Primrose Pinafore Set contains two items: a small, blue hairbow and the Wonderland Primrose Pinafore Dress, inspired by the outfit Alice wore in Lewis Carroll’s classic story. The dress is shaped in a traditional Victorian A-line, featuring a yellow fitted bodice and a full, flared skirt that falls just below the knee. It is paired with a white pinafore apron, worn over the dress and tied at the back with a large blue bow. Blue Mary Jane shoes and blue stockings complete the look. 
+
+This [[Outfit]] and [[Hair Accessory]] were introduced in 2024 and were available for {{Cost|11.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event. <small>(This item is not currently scheduled to return in the future.)</small><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Wonderland Primrose Pinafore Dress|iap}} {{!}} {{Icon Name|Wonderland Primrose Pinafore Dress|name}} IAP
+{{Icon Name|Wonderland Primrose Pinafore Dress|icon}} {{!}} {{Icon Name|Wonderland Primrose Pinafore Dress|name}} icon
+{{Icon Name|Wonderland Primrose Pinafore Dress|real}} {{!}} {{Icon Name|Wonderland Primrose Pinafore Dress|name}} front
+{{Icon Name|Wonderland Primrose Pinafore Dress|back}} {{!}} {{Icon Name|Wonderland Primrose Pinafore Dress|name}} back
+{{Icon Name|Wonderland Primrose Pinafore Dress|spell}} {{!}} {{Icon Name|Wonderland Primrose Pinafore Dress|name}} spell icon
+{{Icon Name|Wonderland Primrose Pinafore Bow|icon}} {{!}} {{Icon Name|Wonderland Primrose Pinafore Bow|name}} icon
+{{Icon Name|Wonderland Primrose Pinafore Bow|real}} {{!}} {{Icon Name|Wonderland Primrose Pinafore Bow|name}} 
+{{Icon Name|Wonderland Primrose Pinafore Bow|spell}} {{!}} {{Icon Name|Wonderland Primrose Pinafore Bow|name}} spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Wonderland Cafe Corridor====
+:: '''''"Conjures a passageway into the whimsical Wonderland Cafe for adventure of unmatched proportions."'''''
+
+The Wonderland Cafe Corridor is a small stone doorframe with a wooden door, decorated with pink flowers at the base and a golden crab-rabbit on the top. This passageway allows players to travel back to the '''Wonderland Cafe''' from everywhere except [[Eye of Eden]] in Sky, even after the event has ended. Once placed, the travel ability can be used by any player who interacts with it. This [[Prop]] was introduced in 2024 and was available for {{Cost|19.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event. <small>(This item is not currently scheduled to return in the future.)</small><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Wonderland Cafe Corridor|iap}} {{!}} {{Icon Name|Wonderland Cafe Corridor|name}} IAP
+{{Icon Name|Wonderland Cafe Corridor|icon}} {{!}} {{Icon Name|Wonderland Cafe Corridor|name}} icon
+{{Icon Name|Wonderland Cafe Corridor|real}} {{!}} {{Icon Name|Wonderland Cafe Corridor|name}} prop
+{{Icon Name|Wonderland Cafe Corridor|back}} {{!}} {{Icon Name|Wonderland Cafe Corridor|name}} on a player's back
+{{Icon Name|Wonderland Cafe Corridor|spell}} {{!}} {{Icon Name|Wonderland Cafe Corridor|name}} spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Wonderland Teacup Bath====
+The Wonderland Teacup Bath is an oversized teacup-shaped bathtub. Its color palette features a white base with blue accents that evoke the charm of the storybook wonderland. It is a placable [[Prop]] that can be used to decorated [[Shared Spaces]] and seats a single player. This Prop was introduced in 2024 and was available for {{Cost|36 T|event=feast}} from the Winter Courier at the Wonderland Cafe for the duration of the event. <small>(This item is not currently scheduled to return in the future.)</small><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Wonderland Teacup Bath|icon}} {{!}} {{Icon Name|Wonderland Teacup Bath|name}} icon
+{{Icon Name|Wonderland Teacup Bath|real}} {{!}} {{Icon Name|Wonderland Teacup Bath|name}} prop
+{{Icon Name|Wonderland Teacup Bath|using}} {{!}} Using the {{Icon Name|Wonderland Teacup Bath|name}}
+{{Icon Name|Wonderland Teacup Bath|back}} {{!}} {{Icon Name|Wonderland Teacup Bath|name}} on a player's back
+{{Icon Name|Wonderland Teacup Bath|spell}} {{!}} {{Icon Name|Wonderland Teacup Bath|name}} spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Wonderland Stacked Hat====
+The Wonderland Stacked Hat consists of three top hats stacked on top each other. Each hat has a different color, adding to the quirky visual appeal - the bottom hat is red, the middle one blue and the top one yellow. A card with a crab-rabbit emblem is tucked-in with a pink ribbon in reference to the iconic "10/6" label of the Mad Hatter’s original design. This [[Hair Accessory]] was introduced in 2024 and was available for {{Cost|18 T|event=feast}} from the Winter Courier at the Wonderland Cafe for the duration of the event. <small>(This item is not currently scheduled to return in the future.)</small><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Wonderland Stacked Hat|icon}} {{!}} {{Icon Name|Wonderland Stacked Hat|name}} icon
+{{Icon Name|Wonderland Stacked Hat|real}} {{!}} {{Icon Name|Wonderland Stacked Hat|name}} front
+{{Icon Name|Wonderland Stacked Hat|side}} {{!}} {{Icon Name|Wonderland Stacked Hat|name}} side
+{{Icon Name|Wonderland Stacked Hat|back}} {{!}} {{Icon Name|Wonderland Stacked Hat|name}} back
+{{Icon Name|Wonderland Stacked Hat|spell}} {{!}} {{Icon Name|Wonderland Stacked Hat|name}} spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+====Wonderland Frantic Hair====
+The Wonderland Frantic Hair is a wavy, mid-lengthed hairstyle tied in a ponytail, with several strands sticking out at unexpected angles and falling into the face like outgrown bangs. It is often paired with the Wonderland Stacked Hat, designed to sit perfectly atop. This [[Hair]] was introduced in 2024 and was available for {{Cost|30 T|event=feast}} from the Winter Courier at the Wonderland Cafe for the duration of the event. <small>(This item is not currently scheduled to return in the future.)</small><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Wonderland Frantic Hair|icon}} {{!}} {{Icon Name|Wonderland Frantic Hair|name}} icon
+{{Icon Name|Wonderland Frantic Hair|real}} {{!}} {{Icon Name|Wonderland Frantic Hair|name}} front
+{{Icon Name|Wonderland Frantic Hair|side}} {{!}} {{Icon Name|Wonderland Frantic Hair|name}} side
+{{Icon Name|Wonderland Frantic Hair|back}} {{!}} {{Icon Name|Wonderland Frantic Hair|name}} back
+{{Icon Name|Wonderland Frantic Hair|spell}} {{!}} {{Icon Name|Wonderland Frantic Hair|name}} spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Wonderland Hare Hairstyle====
+The Wonderland Hare Hairstyle is white and medium short with subtle blue highlights. The top mimics the silhouette of rabbit ears through sculpted hair in upward-pointing tufts that echo the Hare’s iconic ears. This [[Hair]] was introduced in 2024 and is available for {{Cost|150 C}} from the mannequin at the Wonderland Cafe. This item is '''permanently''' available to unlock by traveling to the Wonderland Cafe via the [[#Wonderland Cafe Corridor|Wonderland Cafe Corridor Prop]].<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Wonderland Hare Hairstyle|icon}} {{!}} {{Icon Name|Wonderland Hare Hairstyle|name}} icon
+{{Icon Name|Wonderland Hare Hairstyle|real}} {{!}} {{Icon Name|Wonderland Hare Hairstyle|name}} front
+{{Icon Name|Wonderland Hare Hairstyle|side}} {{!}} {{Icon Name|Wonderland Hare Hairstyle|name}} side
+{{Icon Name|Wonderland Hare Hairstyle|back}} {{!}} {{Icon Name|Wonderland Hare Hairstyle|name}} back
+{{Icon Name|Wonderland Hare Hairstyle|spell}} {{!}} {{Icon Name|Wonderland Hare Hairstyle|name}} spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+==December 2023<span id="2023"></span>==
+{{#ev:youtube|8WPi4UEwKcg||right|Days of Feast 2023 Trailer}}
+Days of Feast was back for a fifth year! The event began on '''Monday, December 18, 2023 at 00:00 PST (UTC-8)''' and ended on '''Sunday, January 7, 2024 at 23:59 PST (UTC-8)''', lasting '''21''' days. For the duration of the event, the Winter Courier and [[Bearhug Hermit]] appeared in [[Aviary Village]] while the [[Belonging Guide]] appeared in [[Home]]. In addition, the [[Secret Area]] was open to everyone through a friendly NPC at the gate.
+
+This year’s additions might be just the thing for Sky Kids who feel the need for speed: a new selection of races! Sit at the meditation circle in [[Aviary_Village#Aviary_Event_Store|Aviary's Event Store]] to be teleported to that day’s race in one of the Realms, where players can tackle a variety of slopes to challenge their parkour and flying skills. A new permanent [[Prop]] has also been added to the Equipment Rack in Aviary's Event Store that allows players to create their own race courses throughout the Realms or even inside [[Shared Spaces]]. In addition to the standard [[Home]] and [[Secret Area]], and the new [[Aviary Village]], several other locations also received snowy transformations for the occasion: [[Isle of Dawn]], [[Daylight Prairie]], and [[The Wind Paths]].<br>
+<br>
+<gallery widths="150" spacing="small" captionalign="center" position="center">
+Snowy-Isle-of-Dawn-Temple.png|Snowy Isle Temple
+Snowy-Isle-of-Dawn-Prophecy-Cave.png|Snowy Prophecy Cave
+Snowy-Daylight-Prairie-Social-Space.png|Snowy Prairie Social Space
+Snowy-Daylight-Prairie-Butterfly-Fields.png|Snowy Butterfly Fields
+Snowy-Daylight-Prairie-Caves.png|Snowy Prairie Caves
+Snowy-Daylight-Prairie-Prairie-Peaks.png|Snowy Prairie Peaks
+Snowy-Daylight-Prairie-Villages.png|Snowy Prairie Villages
+Snowy-Daylight-Prairie-Eight-Player-Puzzle.png|Snowy Eight Player Puzzle
+Snowy-Daylight-Prairie-Bird-Nest.png|Snowy Bird Nest
+Snowy-Daylight-Prairie-Temple.png|Snowy Prairie Temple
+Snowy-Daylight-Prairie-Sanctuary-Islands.png|Snowy Sanctuary Islands
+Snowy-Hidden-Forest-Wind-Paths.png|Snowy Wind Paths
+</gallery>
+
+It's the time of year for traditions, too, so the event content from previous years have returned as well: [[Social Light]] with Grandma in the cozy snow hut at Home, games of Skyball in the [[Village of Dreams]], and a mysterious [[Bearhug Hermit|Spirit]] leaving footprints around the Dreams Village with a known allergy to lower elevations—don’t stand too close when they sneeze, or you might feel the effects of a [[Days_of_Feast#Hermit_Snowman_Spells|snowy transformation]].
+
+Days of Feast also includes a celebration to welcome in the New Year as it arrives across the globe - fireworks will appear in Home and Aviary Village at the start of every hour for five minutes, beginning '''December 31 at 02:00 PST (UTC-8)''' (midnight January 1 for Kiribati, the earliest New Year) and ending '''January 1 at 04:00 PST (UTC-8)''' (midnight January 1 for Howland Island, the latest New Year).
+
+<small>Days of Feast content is available to all players who have completed at least the 4th Season of Revival Quest.</small><br>
+<br>
+<gallery widths="200px" captionalign="center" position="center">
+Days-of-Feast-2023-Feast-Guide-mimi4117-sam6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & mimi4117
+Days-of-Feast-2023-Tickets-mimi4117-sam6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & mimi4117
+DoFeast-2023-Event-Guide-Spirit-Locations.png|TGC's Event Spirit Locations Guide
+</gallery>
+{{Clear}}
+
+===Ticket Locations===
+[[File:Days-of-Feast-Snowflake-Ticket.png|125px|thumb|A Days of Feast snowflake Ticket]]
+A total of {{Cost|5 T|event=feast}} snowflake-shaped Tickets are available each day:
+
+*{{Cost|4 T|event=feast}} hidden throughout Aviary Village (see locations below)
+*{{Cost|1 T|event=feast}} from completing the daily race challenge
+{{Collapse
+|float= left
+|label= All Exact Ticket Locations
+|content=<u>'''Locations:'''</u>
+* '''#1)''' {{Cost|1 T|event=feast}}To the left of the Season of Revival's [[Season_of_Revival#Shops_&_Cosmetics|cosmetics shop]]
+* '''#2)''' {{Cost|1 T|event=feast}}In the belltower by the entrance, on the first ledge up
+* '''#3)''' {{Cost|1 T|event=feast}}To the left of the belltower, near the small river on the raised ledge
+* '''#4)''' {{Cost|1 T|event=feast}}Near the back of the village, to the right of the Cape shop 
+
+* '''#5)''' {{Cost|1 T|event=feast}}In the water to the right of the Spell shop, beside a small waterfall
+* '''#6)''' {{Cost|1 T|event=feast}}Left from the village entrance, in the sparkling water
+* '''#7)''' {{Cost|1 T|event=feast}}Near the back of the village, on the raised ledge behind the [[Map Shrines#Aviary_Village|Map Shrine]]
+* '''#8)''' {{Cost|1 T|event=feast}}In front of the shop that leads to [[Harmony Hall]]
+
+* '''#9)''' {{Cost|1 T|event=feast}}To the right of the belltower, on the ledge of the long stone corridor
+* '''#10)''' {{Cost|1 T|event=feast}}To the left of the belltower, near the start of the river on the raised ledge
+* '''#11)''' {{Cost|1 T|event=feast}}On the hill above the Spell shop
+* '''#12)''' {{Cost|1 T|event=feast}}On the hill above the Season of Revival's [[Season_of_Revival#Shops_&_Cosmetics|cosmetics shop]]
+
+* '''#13)''' {{Cost|1 T|event=feast}}In the belltower by the entrance, on the second ledge up
+* '''#14)''' {{Cost|1 T|event=feast}}In the belltower by the entrance, on the third ledge up
+* '''#15)''' {{Cost|1 T|event=feast}}To the right of the belltower, next to the [[Shared Memories Candles|Shared Memory Shrine]]
+}}
+<br>
+Players can also buy additional Tickets (costing {{Cost|2 AC}} or {{Cost|6 C}} each) from the [[Spell Shops#Sleepy Traveler's Boat|Sleepy Traveler's boat]] at Home.
+
+{| class="article-table mw-collapsible mw-collapsed" style="float:right; text-align:center;"
+! colspan="4" |'''Ticket Rotations'''
+|-
+! '''Date'''
+!'''Locations'''
+!'''Daily Race Location'''
+!'''Daily Total'''
+|-
+|December 18, 2023
+| 1, 2, 3, 4
+|[[Sanctuary Islands]]
+|{{Cost|{{#vardefineecho:D1|5}} T|event=feast}}
+|-
+|December 19, 2023
+| 4, 5, 6, 7
+| [[Village of Dreams]]
+|{{Cost|{{#vardefineecho:D2|5}} T|event=feast}}
+|-
+|December 20, 2023
+|5, 8, 9, 10
+| [[Battlefield]]
+|{{Cost|{{#vardefineecho:D3|5}} T|event=feast}}
+|-
+|December 21, 2023
+|10, 11, 12, 13
+|[[Village of Dreams]]
+|{{Cost|{{#vardefineecho:D4|5}} T|event=feast}}
+|-
+|December 22, 2023
+| 2, 9, 14, 15
+|[[Hermit Valley]]
+|{{Cost|{{#vardefineecho:D5|5}} T|event=feast}}
+|-
+|December 23, 2023
+|1, 2, 3, 4
+|[[Village of Dreams]]
+|{{Cost|{{#vardefineecho:D6|5}} T|event=feast}}
+|-
+|December 24, 2023
+|5, 6, 7, 8
+|[[Hermit Valley]]
+|{{Cost|{{#vardefineecho:D7|5}} T|event=feast}}
+|-
+|December 25, 2023
+|9, 10, 11, 13
+|[[Sanctuary Islands]]
+|{{Cost|{{#vardefineecho:D8|5}} T|event=feast}}
+|-
+|December 26, 2023
+|12, 13, 14, 15
+|[[Village of Dreams]]
+|{{Cost|{{#vardefineecho:D9|5}} T|event=feast}}
+|-
+|December 27, 2023
+|2, 3, 9, 15
+|[[Battlefield]]
+|{{Cost|{{#vardefineecho:D10|5}} T|event=feast}}
+|-
+|December 28, 2023
+|1, 4, 6, 7
+|[[Village of Dreams]]
+|{{Cost|{{#vardefineecho:D11|5}} T|event=feast}}
+|-
+|December 29, 2023
+|5, 6, 8, 9
+| [[Hermit Valley]]
+|{{Cost|{{#vardefineecho:D12|5}} T|event=feast}}
+|-
+|December 30, 2023
+|10, 11, 12, 13
+|[[Village of Dreams]]
+|{{Cost|{{#vardefineecho:D13|5}} T|event=feast}}
+|-
+| December 31, 2023
+|9, 12, 14, 15
+|[[Hermit Valley]]
+|{{Cost|{{#vardefineecho:D14|5}} T|event=feast}}
+|-
+|January 1, 2024
+| 1, 2, 3, 4,
+| [[Sanctuary Islands]]
+|{{Cost|{{#vardefineecho:D15|5}} T|event=feast}}
+|-
+|January 2, 2024
+|5, 6, 7, 8
+|[[Village of Dreams]]
+|{{Cost|{{#vardefineecho:D16|5}} T|event=feast}}
+|-
+|January 3, 2024
+| 5, 8, 9, 10
+|[[Battlefield]]
+|{{Cost|{{#vardefineecho:D17|5}} T|event=feast}}
+|-
+|January 4, 2024
+|11, 12, 13, 14
+|[[Village of Dreams]]
+|{{Cost|{{#vardefineecho:D18|5}} T|event=feast}}
+|-
+|January 5, 2024
+|2, 9, 14, 15
+|[[Hermit Valley]]
+|{{Cost|{{#vardefineecho:D19|5}} T|event=feast}}
+|-
+| January 6, 2024
+| 1, 3, 4, 7
+|[[Village of Dreams]]
+|{{Cost|{{#vardefineecho:D20|5}} T|event=feast}}
+|-
+| January 7, 2024
+|5, 6, 7, 8
+|[[Hermit Valley]]
+|{{Cost|{{#vardefineecho:D21|5}} T|event=feast}}
+|-
+! colspan="3" style="text-align:center;" |'''Total so far'''
+! style="text-align:center;" |'''{{Cost|{{#expr: ({{#var:D1}} + {{#var:D2}} + {{#var:D3}} + {{#var:D4}} + {{#var:D5}} + {{#var:D6}} + {{#var:D7}} + {{#var:D8}} + {{#var:D9}} + {{#var:D10}} + {{#var:D11}} + {{#var:D12}} + {{#var:D13}} + {{#var:D14}} + {{#var:D15}} + {{#var:D16}} + {{#var:D17}} + {{#var:D18}} + {{#var:D19}} + {{#var:D20}} + {{#var:D21}}) }} T|event=feast}}'''
+|}
+
+{{Friendship Tree
+|label  = Winter Courier
+|event = Feast
+|image = Days-of-Feast-Winter-Courier.png
+
+|nodeL2 = 
+|  labelL2 = 
+|  linkL2 = 
+|nodeC2 = {{Icon Name|Pinecone|icon}} 19 T
+|  labelC2 = {{Icon Name|Pinecone|name}}
+|  linkC2  = Days of Feast#{{Icon Name|Pinecone|name}}
+
+|nodeR2 = 
+|  labelR2 = 
+|  linkR2 = 
+|nodeL1 = {{Icon Name|Snowboard|icon}} 44 T
+|  labelL1 = {{Icon Name|Snowboard|name}}
+|  linkL1  = Days of Feast#{{Icon Name|Snowboard|name}}
+|nodeC1 = Spellx 5 C
+|  labelC1 = Spell
+|  linkC1  = Spells
+}}
+{{Clear}}
+
+===2023 New Cosmetics and Props===
+====Winter Quilted Cape====
+::'''''"Tailored for braving any frozen landscape."'''''
+
+The Winter Quilted Cape resembles a puffer jacket with a red patterned upper half and a plain white lower half, as well as a thin golden trim. This [[Cape]] was introduced in 2023 and was available for {{Cost|14.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.
+{{#tag:gallery
+|{{Icon Name|Quilted Cape|iap}} {{!}} {{Icon Name|Quilted Cape|name}} IAP
+{{Icon Name|Quilted Cape|icon}} {{!}} {{Icon Name|Quilted Cape|name}} icon
+{{Icon Name|Quilted Cape|front}} {{!}} {{Icon Name|Quilted Cape|name}} front
+{{Icon Name|Quilted Cape|interior}} {{!}} {{Icon Name|Quilted Cape|name}} interior
+{{Icon Name|Quilted Cape|real}} {{!}} {{Icon Name|Quilted Cape|name}} back
+{{Icon Name|Quilted Cape|exterior}} {{!}} {{Icon Name|Quilted Cape|name}} exterior
+{{Icon Name|Quilted Cape|spell}} {{!}} {{Icon Name|Quilted Cape|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+==== Cozy Hermit Boots ====
+::'''''"Clumsily (but lovingly) stitched by the Hermit's own hands."'''''
+
+The Cozy Hermit Boots are bulky and covered in white fur, with a red band around the ankle and a sideways-pointing horn on each boot that resemble the [[Bearhug Hermit#Face Accessory|Bearhug Hermit's]] Face Accessory. These [[Shoes]] were introduced in 2023 and were available for {{Cost|6.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.
+{{#tag:gallery
+|{{Icon Name|Hermit Boots|iap}} {{!}} {{Icon Name|Hermit Boots|name}} IAP
+{{Icon Name|Hermit Boots|icon}} {{!}} {{Icon Name|Hermit Boots|name}} icon
+{{Icon Name|Hermit Boots|real}} {{!}} {{Icon Name|Hermit Boots|name}}
+{{Icon Name|Hermit Boots|spell}} {{!}} {{Icon Name|Hermit Boots|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Winter Pinecone Hair Clip ====
+The Winter Pinecone Hair Clip is a brown pinecone dusted with snow and a green pine sprig that sits on the side of the player's head. This [[Hair Accessory]] was introduced in 2023 and was available for {{Cost|19 T|event=Feast}} from the Winter Courier at [[Aviary Village#Aviary Event Store|Aviary Village]] for the duration of the event.
+{{#tag:gallery
+|{{Icon Name|Pinecone|icon}} {{!}} {{Icon Name|Pinecone|name}} icon
+{{Icon Name|Pinecone|real}} {{!}} {{Icon Name|Pinecone|name}}
+{{Icon Name|Pinecone|spell}} {{!}} {{Icon Name|Pinecone|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Winter Feast Snowboard====
+The Winter Feast Snowboard is a long, narrow board with a red and black design that features gold accents, resembling the [[Peeking_Postman#Mask|Peeking Postman's]] Mask. It is a non-placeable [[Prop]] that can be held and allows players to ride it while moving across any surface at a fast pace. Although this item does not provide any additional speed, it does help preserve some forward momentum. This Prop was introduced in 2023 and was available for {{Cost|44 T|event=Feast}} from the Winter Courier at [[Aviary Village#Aviary Event Store|Aviary Village]] for the duration of the event.
+{{#tag:gallery
+|{{Icon Name|Snowboard|icon}} {{!}} {{Icon Name|Snowboard|name}} icon
+{{Icon Name|Snowboard|real}} {{!}} {{Icon Name|Snowboard|name}}
+{{Icon Name|Snowboard|using}} {{!}} A player riding the {{Icon Name|Snowboard|name}}
+Winter-Feast-Snowboard-prop-in-hand.png {{!}} Holding the {{Icon Name|Snowboard|name}}
+Winter-Feast-Snowboard-prop-on-back.png {{!}} {{Icon Name|Snowboard|name}} on a player's back
+{{Icon Name|Snowboard|spell}} {{!}} {{Icon Name|Snowboard|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Course Creation Prop ====
+The Course Creation Prop is a goalpost with a black and white banner stretched between two red poles, gold accents, and a golden [[Season of Belonging]] emblem at the center of the banner. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]] and create custom multiplayer races. The starting line banner, an end point flag, and a maximum of 32 glowing checkpoints can be placed down to create a custom course. Up to 8 players can race together with the goal of reaching the end flag with the fastest time and highest number of checkpoints collected. Upon finishing the race, players will be ranked on their performance and receive both a small fireworks show and a [[#Medal Neck Accessory Spell|Medal Neck Accessory Spell]] to celebrate their victory. This Prop was introduced in 2023 and is available for {{Cost|150 C}} from the Equipment Rack in the [[Aviary Village#Aviary Event Store|Aviary Event Store]]. Although this item first appeared as part of the Days of Feast event, it will remain permanently available in the game.
+{{#tag:gallery
+|{{Icon Name|Course Creation Prop|icon}} {{!}} {{Icon Name|Course Creation Prop|name}} icon
+{{Icon Name|Course Creation Prop|real}} {{!}} {{Icon Name|Course Creation Prop|name}}
+Course-Creation-Prop-on-back.png {{!}} {{Icon Name|Course Creation Prop|name}} on a player's back
+{{Icon Name|Course Creation Prop|spell}} {{!}} {{Icon Name|Course Creation Prop|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+===2023 New Spells===
+====Medal Neck Accessory Spell====
+The Medal Neck Accessory Spell temporarily gives players a [[Neck Accessory]] of a medal shaped like a four-pointed star hanging from a blue ribbon around the player's neck for 30 minutes. This [[Spell]] was introduced in 2023 and is not collectible; it is only available by completing one of the [[Bearhug Hermit]]'s race challenges during the event or by completing a race using the [[#Course Creation Prop|Course Creation Prop]]. The color of the medal depends on the player's placement during the race: gold for first place, silver for second place, and bronze for third place and lower. ''Note that this Neck Accessory is only available as a Spell.''
+<gallery widths="125" spacing="small" captionalign="center">
+Course-Medal-Neck-Accessory-Spell-icon-777-Ed.png|Medal Neck Accessory Spell icon
+Course-Medal-Neck-Accessory-Spell-Gold.png|Gold Medal Neck Accessory Spell
+Course-Medal-Neck-Accessory-Spell-Silver.png|Silver Medal Neck Accessory Spell
+Course-Medal-Neck-Accessory-Spell-Bronze.png|Bronze Medal Neck Accessory Spell
+</gallery>
+
+=== Added NPC Dialogue ===  
+*Days of Feast Staff in red:
+**"Tell you a secret - a pro will take advantage of flight and skiing techniques."
+
+== December 2022<span id="2022"></span>==
+[[File:Days-of-Feast-2022.png|250px|thumb|Promotional image - Days of Feast 2022]]
+Days of Feast returned for a fourth year! The event began '''Monday, December 19, 2022 at 00:00 PST (UTC-8)''' and ended '''Sunday, January 8, 2023 at 23:59 PST (UTC-8)''', lasting '''21''' days. For the duration of the event, the [[Belonging Guide]] and [[Bearhug Hermit]] appeared in [[Home]], and the [[Secret Area]] was open to everyone through a friendly NPC at the gate.
+
+This year in Valley of Triumph, the [[Village of Dreams]] and [[Hermit Valley]] got updates to invite players to gather for friendly competition, or perhaps something more chill. In Hermit Valley, a new permanent race course allowed you and a fellow player to satisfy that need for speed, or for [[Pieces of Light|Light]] (or both). Further down the slope in the Village of Dreams, the Bearhug Hermit periodically came down from their usual spot to observe the fun - but be careful if you stand too close to them when they sneeze. You never know [[#Hermit Snowman Spells|what may happen]]… Also around the Village of Dreams rinks are places added to fish for Light, or to enjoy a game of [[Days of Feast#Tournament Skyball Set|Skyball]] with some new equipment.
+
+Days of Feast also included a celebration to welcome in the New Year as it arrived across the globe - fireworks appeared in Home at the start of every hour for five minutes, beginning '''December 31 at 02:00 PST (UTC-8)''' (midnight January 1 for Kiribati, the earliest New Year) and ending '''January 1 at 04:00 PST (UTC-8)''' (midnight January 1 for Howland Island, the latest New Year).<br>
+<br>
+<gallery widths="200px" captionalign="center" position="center">
+Days-of-Feast-2022-Yeti-by-Mimi4117-and-_Sam_6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & Mimi#4117
+Days-of-Feast-2022-Grandma-by-Mimi4117-and-_Sam_6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & Mimi#4117
+Days-of-Feast-2022-Fortune-Staff-by-Mimi4117-and-_Sam_6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & Mimi#4117
+Days-of-Feast-2022-IAP-by-Mimi4117-and-_Sam_6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & Mimi#4117
+</gallery>
+
+===2022 New Cosmetics and Props===
+====Tournament Skyball Set ====
+::'''''"A stonewrought pair of goalposts for the serious Skyball enthusiast."'''''
+The Tournament Skyball Set is a multiplayer game that includes two stone goals and one large blue ball. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]] and play a team scoring minigame. Both goals have three lights with different color decorations (one blue and the other orange) to identify each team. When a team earns a point by guiding the ball into the goal, one of the lights goes out in a burst of sparkles and a whistle can be heard. Once three points have been scored on a goal, a round of fireworks are set off to celebrate the win. This Prop was introduced in 2022 and was available for {{Cost|14.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.
+{{#tag:gallery
+|{{Icon Name|Skyball Set|iap}} {{!}} {{Icon Name|Skyball Set|name}} IAP
+{{Icon Name|Skyball Set|icon}} {{!}} {{Icon Name|Skyball Set|name}} icon
+{{Icon Name|Skyball Set|real}} {{!}} {{Icon Name|Skyball Set|name}}
+Days-of-Feast-Sky-Ball-Goal-Prop-on-back.png {{!}} {{Icon Name|Skyball Set|name}} on a player's back
+{{Icon Name|Skyball Set|spell}} {{!}} {{Icon Name|Skyball Set|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Cozy Hermit Cape====
+::'''''"No Hermits were harmed in the making of this luxurious fluffy white cape."'''''
+
+The Cozy Hermit Cape is thick, white, and fluffy with a striped red, yellow, and black interior that matches the [[Bearhug Hermit#Outfit|Bearhug Hermit]]'s Outfit. This [[Cape]] was introduced in 2022 and was available for {{Cost|14.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.
+{{#tag:gallery
+|{{Icon Name|Cozy Hermit Cape|iap}} {{!}} {{Icon Name|Cozy Hermit Cape|name}} IAP
+{{Icon Name|Cozy Hermit Cape|icon}} {{!}} {{Icon Name|Cozy Hermit Cape|name}} icon
+{{Icon Name|Cozy Hermit Cape|front}} {{!}} {{Icon Name|Cozy Hermit Cape|name}} front
+{{Icon Name|Cozy Hermit Cape|interior}} {{!}} {{Icon Name|Cozy Hermit Cape|name}} interior
+{{Icon Name|Cozy Hermit Cape|real}} {{!}} {{Icon Name|Cozy Hermit Cape|name}} back
+{{Icon Name|Cozy Hermit Cape|exterior}} {{!}} {{Icon Name|Cozy Hermit Cape|name}} exterior
+{{Icon Name|Cozy Hermit Cape|spell}} {{!}} {{Icon Name|Cozy Hermit Cape|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Snowkid Prop====
+The Snowkid Prop is a lump of snow with little rock eyes that can take many different shapes and sizes depending on where it is placed (such as becoming a Melting Snowkid on a non-icy surface). It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]]. This Prop was introduced in 2022 and was available for {{Cost|120 C}} from the [[Bearhug Hermit]] at [[Home]] for the duration of the event.
+{{#tag:gallery
+|{{Icon Name|Snowkid Prop|icon}} {{!}} {{Icon Name|Snowkid Prop|name}} icon
+Days-of-Feast-Snowman-melting.png {{!}} Melting Snowkid
+Days-of-Feast-Snowman-skykid.png {{!}} Sky Kid Snowkid
+Days-of-Feast-Snowman-Yeti.png {{!}} Yeti Snowkid
+Days-of-Feast-Snowman-Crab.png {{!}} Crab Snowkid
+{{Icon Name|Snowkid Prop|real}} {{!}} Snowkid in a bucket
+Days-of-Feast-Snowman-on-back.png {{!}} {{Icon Name|Snowkid Prop|name}} on a player's back
+{{Icon Name|Snowkid Prop|spell}} {{!}} {{Icon Name|Snowkid Prop|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Feast Goggles====
+The Feast Goggles are bulky and brown with eye slits, resembling goggles typically worn while snowboarding. This [[Face Accessory]]<ref name="Mask recategorized">This item was recategorized from a [[Mask]] to a [[Face Accessory]] as a result of the [[Outfit Shrine|Closet]] category expansion in Patch {{v|0.22.0}}.</ref> was introduced in 2022 and was available for {{Cost|60 C}}<ref name="Goggles price change">The Feast Goggles price increased from {{Cost|50 C}} to {{Cost|60 C}} during [https://www.thatskygame.com/news/wintry-games-and-more-for-days-of-feast-2023/ Days of Feast 2023] due to the new lens effect added to the item earlier that year.</ref> from the [[Bearhug Hermit]] at [[Home]] for the duration of the event. In the {{v|0.21.0}} Patch, a toggle was added to apply a subtle tint and vignette to the game that also reduces the [https://en.wikipedia.org/wiki/Glare_(vision) glare]/bloom on some glowing items.
+{{#tag:gallery
+|{{Icon Name|Feast Goggles|icon}} {{!}} {{Icon Name|Feast Goggles|name}} icon
+{{Icon Name|Feast Goggles|real}} {{!}} {{Icon Name|Feast Goggles|name}}
+{{Icon Name|Feast Goggles|spell}} {{!}} {{Icon Name|Feast Goggles|name}} Spell icon
+Feast-Goggles-Tint.png {{!}} Example of the tint and vignette
+|widths=125|spacing=small|captionalign=center
+}}
+
+===2022 New Spells===
+====<span id="Hermit Snowman Hair Spell"></span>Hermit Snowman Spells<span id="Hermit Snowman Pants Spell"></span>====
+During Days of Feast, the [[Bearhug Hermit]] can periodically be found roaming around the [[Village of Dreams]] and will sneeze on any players that approach them, randomly applying one or both of the following Spells: the Hermit Snowman Hair Spell and the Hermit Snowman Pants Spell. 
+
+The Hermit Snowman Hair Spell temporarily gives the player a snowman's head with small rock eyes for 5 minutes. The Hermit Snowman Pants Spell temporarily gives the player a snowman's body made of a single large ball of snow with a red scarf for 5 minutes. Note that the Snowman Hair Spell cannot be worn individually and must be paired with the Snowman Pants Spell to be visible. In addition, ''both the Hermit Showman Hair and Pants are only available as a Spell.''
+
+The sneezing Bearhug Hermit appears '''every hour''' for 8 minutes on the cliffs or within the village at the following times:
+* '''xx:03''' to '''xx:11'''
+* '''xx:14''' to '''xx:22'''
+*'''xx:25''' to '''xx:33'''
+*'''xx:36''' to '''xx:44'''
+*'''xx:47''' to '''xx:55'''
+
+Players can also obtain this spell as a STAR feature from the [[That Sky Shop/Wave 14#Bearhug Hermit Spirit Plush|Bearhug Hermit Spirit Plush]] in [[That Sky Shop|thatskyshop]]. 
+
+<gallery widths="115" spacing="small" captionalign="center">
+Days-of-Feast-Yeti-snowman-Hair-spell-Icon-Morybel-0146.png|Hermit Snowman Hair Spell icon
+Days-of-Feast-Yeti-snowman-Pants-spell-Icon-Morybel-0146.png|Hermit Snowman Pants Spell icon
+Days-of-Feast-Yeti-snowman-Pants-spell.png|Hermit Snowman Pants Spell
+Days-of-Feast-Hermit-snowman-Pants-and-Hair-spell.png|Both Spells together
+</gallery>
+
+====Skyball Set Spell====
+The Skyball Set Spell temporarily gives players a multiplayer game that includes two stick goals and one large blue ball for 30 minutes. It is a placeable [[Prop]] that can be used to play a team scoring minigame, similar to the [[#Tournament Skyball Set|Tournament Skyball Set]]. Both goals have three lights with different color decorations (one blue and the other orange) to identify each team. When a team earns a point by guiding the ball into the goal, one of the lights goes out in a burst of sparkles and a whistle can be heard. Once three points have been scored on a goal, a round of fireworks are set off to celebrate the win. This [[Spell]] was introduced in 2022 and is available for {{Cost|2 C}} from the Mini Spell shop at the [[Village of Dreams]] ice rink. Although this item first appeared as part of the Days of Feast event, it remains permanently available in the game.
+<gallery widths="115" spacing="small" captionalign="center">
+Days-of-Feast-SkyBall-Set-Spell-Morybel-0146.png|Skyball Set Spell icon
+Skyball-Set-Spell.png|Skyball Set Spell
+</gallery>
+
+===Added NPC Dialogue=== 
+*Days of Feast Staff in red: 
+**"Rumor says a lot of Skykids are becoming snowkids in the Village of Dreams."
+
+*Days of Feast Staff in blue: 
+**"Finally, we have some real goal posts!"
+
+==December 2021<span id="2021"></span>==
+[[File:Days_of_Feast_2021.jpg|250px|thumb|Promotional image - Days of Feast 2021]]
+Days of Feast returned for a frosty third year! The event began '''Monday, December 20, 2021 at 00:00 PST (UTC-8)''' and ended '''Sunday, January 9, 2022 at 23:59 PST (UTC-8)''', lasting '''21''' days. For the duration of the event, the [[Belonging Guide]] appeared in [[Home]] and the [[Secret Area]] was open to everyone through a friendly NPC at the gate.
+
+This year, the colder weather also brought a snowstorm, transforming Home in three phases, each of which provided up to a certain amount of [[Pieces of Light|Social Light]] that could be collected each day in the area. During a snowstorm, the Belonging Guide could be found inside the comfort of an igloo-shaped shelter where you could collect Light from the heat of a fireplace.
+
+In addition to the usual festive Secret Area decor, the building's rooftop featured a large ice rink and ample space to practice your favorite ice-skating moves. The many trees with bright Christmas lights created a magical setting, especially with snowflakes floating down from above. In addition, three new NPCs with many themed collectibles to enjoy could be found; a Snowman full of free [[Spells]] and two Days of Feast Staff Spirits that offered both new and returning items from previous years. The two Staff Spirits also had a few lines of [[#NPC Dialogue|dialogue]] encouraging the player to play Skyball and some commentary on the new [[Social Light|Social Light Areas]].
+
+Days of Feast also included a celebration to welcome in the New Year as it arrived across the globe - fireworks appeared in Home at the start of every hour for five minutes, beginning '''December 31 at 03:00 PST (UTC-8)''' (midnight January 1 for Tonga, the earliest New Year) and ending '''January 1 at 04:00 PST (UTC-8)''' (midnight January 1 for Howland Island, the latest New Year).<br>
+<br>
+<gallery widths="200px" captionalign="center" position="center">
+Days of Feast Belonging Ancestor 2021.png|Belonging Ancestor Friendship Tree at Home
+Days of Feast Staff.png|Days of Feast Staff Spirit at the Secret Area
+Days of Feast previous year In-app.png|Days of Feast Returning In-App items
+Days of Feast Snowman.png|Days of Feast Snowman Spells shop
+</gallery>
+
+===2021 New Cosmetics and Props===
+====Winter Ancestor Cape====
+:: '''''"Celebrate Days of Feast with this cozy Ancestor's Winter Cape."'''''
+
+The Winter Ancestor Cape is white with faint diamond markings near the collar, gold accents, a fuzzy trim, and a red interior. This [[Cape]] was introduced in 2021 and was available for {{Cost|9.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.
+{{#tag:gallery
+|{{Icon Name|Winter Ancestor Cape|iap}} {{!}} {{Icon Name|Winter Ancestor Cape|name}} IAP
+{{Icon Name|Winter Ancestor Cape|icon}} {{!}} {{Icon Name|Winter Ancestor Cape|name}} icon
+{{Icon Name|Winter Ancestor Cape|front}} {{!}} {{Icon Name|Winter Ancestor Cape|name}} front
+{{Icon Name|Winter Ancestor Cape|interior}} {{!}} {{Icon Name|Winter Ancestor Cape|name}} interior
+{{Icon Name|Winter Ancestor Cape|real}} {{!}} {{Icon Name|Winter Ancestor Cape|name}} back
+{{Icon Name|Winter Ancestor Cape|exterior}} {{!}} {{Icon Name|Winter Ancestor Cape|name}} exterior
+{{Icon Name|Winter Ancestor Cape|spell}} {{!}} {{Icon Name|Winter Ancestor Cape|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Snowflake Hair Accessory====
+:: '''''"Celebrate Days of Feast with this glistening Snowflake Accessory."'''''
+
+The Snowflake Hair Accessory is a gold hairpin shaped like a snowflake that sits on the side of the player's head. This [[Hair Accessory]] was introduced in 2021 and was available for {{Cost|1.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.
+{{#tag:gallery
+|{{Icon Name|Snowflake Hairpin|iap}} {{!}} {{Icon Name|Snowflake Hairpin|name}} IAP
+{{Icon Name|Snowflake Hairpin|icon}} {{!}} {{Icon Name|Snowflake Hairpin|name}} icon
+{{Icon Name|Snowflake Hairpin|real}} {{!}} {{Icon Name|Snowflake Hairpin|name}}
+{{Icon Name|Snowflake Hairpin|spell}} {{!}} {{Icon Name|Snowflake Hairpin|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Winter Feast Snowglobe====
+::'''''"No matter the season, carry the memory of winter wherever you go."'''''
+
+The Winter Feast Snowglobe is a transparent sphere containing a rotating blue snowflake symbol on a round gold base. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]]. Once placed, it produces windchime-like sounds and fills the surrounding space with gentle snowfall. This Prop was introduced in 2021 and was available for {{Cost|9.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event. It appears as a small red bag on its owner's back when carried, closely resembling the [[That Sky Shop/Wave 5#Sky Lucky Bag I|Sky Lucky Bag I]].
+{{#tag:gallery
+|{{Icon Name|Winter Snowglobe|iap}} {{!}} {{Icon Name|Winter Snowglobe|name}} IAP
+{{Icon Name|Winter Snowglobe|icon}} {{!}} {{Icon Name|Winter Snowglobe|name}} icon
+{{Icon Name|Winter Snowglobe|real}} {{!}} {{Icon Name|Winter Snowglobe|name}}
+Winter Feast Snowglobe on back.png {{!}} {{Icon Name|Winter Snowglobe|name}} on a player's back
+{{Icon Name|Winter Snowglobe|spell}} {{!}} {{Icon Name|Winter Snowglobe|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Winter Feast Scarf====
+The Winter Feast Scarf is red with a white diamond pattern and tassels on the ends that wraps around the lower half of the player's face. This [[Neck Accessory]] was introduced in 2021 and was available for {{Cost|50 C}} from the [[Belonging Guide]] at [[Home]] for the duration of the event.
+{{#tag:gallery
+|{{Icon Name|Winter Scarf|icon}} {{!}} {{Icon Name|Winter Scarf|name}} icon
+{{Icon Name|Winter Scarf|real}} {{!}} {{Icon Name|Winter Scarf|name}}
+{{Icon Name|Winter Scarf|spell}} {{!}} {{Icon Name|Winter Scarf|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Winter Feast Hat====
+The Winter Feast Hat is a knit hat with a red and white checkered pattern, a white headband, and a white pom-pom on top. This [[Hair]] was introduced in 2021 and was available for {{Cost|20 H}} from the [[Belonging Guide]] at [[Home]] for the duration of the event. Note that this item is considered a Hair, not a [[Hair Accessory]], and as such it cannot be worn over other Hairstyles.
+{{#tag:gallery
+|{{Icon Name|Winter Feast Hat|icon}} {{!}} {{Icon Name|Winter Feast Hat|name}} icon
+{{Icon Name|Winter Feast Hat|real}} {{!}} {{Icon Name|Winter Feast Hat|name}}
+{{Icon Name|Winter Feast Hat|spell}} {{!}} {{Icon Name|Winter Feast Hat|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Winter Feast Pillow====
+The Winter Feast Pillow is a square cushion checkered red and beige that is larger in size than the {{Spirit Item|Assembly Guide|prop_p|inline_text}} offered by the [[Assembly Guide]]. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. This Prop was introduced in 2021 and was available for {{Cost|10 C}} from the [[Belonging Guide]] at [[Home]] for the duration of the event.
+{{#tag:gallery
+|{{Icon Name|Winter Feast Pillow|icon}} {{!}} {{Icon Name|Winter Feast Pillow|name}} icon
+{{Icon Name|Winter Feast Pillow|real}} {{!}} {{Icon Name|Winter Feast Pillow|name}}
+Feast pillow on back.png {{!}} {{Icon Name|Winter Feast Pillow|name}} on a player's back
+|widths=125|spacing=small|captionalign=center
+}}
+
+====<span id="Music Sheet"></span>Ode to Joy Music Sheet<span id="Music Sheet E1 - Ode to Joy"></span>====
+The {{Music Sheet|E1}} [[Music Sheet]] E1 was introduced in 2021 and was available for {{Cost|10 C}} from the [[Belonging Guide]] at [[Home]] for the duration of the event. This Music Sheet is an instrumental of "[https://youtu.be/vlSR8Wlmpac Ode to Joy]" by Ludwig van Beethoven. It is a song in the key of D Major.<br>
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guide
+|content=
+{{#ev:youtube|M_SSugCYpKA||inline|Music Sheet Video Guide by Ikejiji}}
+}}
+
+===NPC Dialogue ===  
+*Days of Feast Staff in red: 
+**"GO TEAM [[Krill|KRILL]]!"
+**"I bet that snowperson over there would trade us some snowballs."
+**"I cannot wait to roast marshmallows by the [[Additional_Light_Sources#Crab_Barbecue|Wasteland campfire]]!"
+**"After a long day on the ice, I love relaxing at the [[Additional_Light_Sources#Hot_Spring|Hotspring]]."
+
+* Days of Feast Staff in blue: 
+** "GO TEAM [[Dark Crabs|CRAB]]!"
+**"GOOOOOAL"
+**"Those trees over there would make perfect goal posts..."
+** "[[Stretching Guru]] told me about this new [[Additional_Light_Sources#Cozy_Hideout|cave in Prairie]] where the Ancestors rest."
+**"I heard an Ancestor has reappeared in the Forest's elevated clearing around the [[Additional_Light_Sources#Grandma's_Dinner_Event|meal time]]."
+
+==December 2020<span id="2020"></span>==
+[[File:Days_of_feast_2020.jpg|thumb|Promotional image - Days of Feast 2020]]
+Days of Feast returned for a second year to once again bring festive cheer! The event began '''Monday, December 21, 2020 at 00:00 PST (UTC-8)''' and ended '''Sunday, January 3, 2021 at 23:59 PST (UTC-8)''', lasting '''21''' days. Winter has arrived to the Kingdom of Sky and players are cordially invited to take part in the celebrations - skate on the ice-rink at [[Home]], enjoy the festive decor in the [[Secret Area]], and build the perfect outfit using the various holiday-themed items on offer.
+
+For the occasion, the Secret Area was open to everyone through a friendly NPC at the gate, featuring a number of festive ornaments, decorative trees, and lights to suit the occasion. The Quest Giver at Home gave a number of themed [[Daily Quests]] in addition to the regular tasks, such as "Find a secret staff member at the Office," and "Share your holiday wish in the Office."
+
+During this event, the Days of Feast Staff Spirit could be found next to the [[Secret_Area#Entering_the_Secret_Area|TGC Cape NPC]] inside the Secret Area offering three new cosmetics from their Friendship Tree while two new items were added to the [[Premium Candle Shop]]. Free [[Spells]] to try all of these items could also be collected from the [[Spell Shops#Sleepy%20Traveler's%20Boat|Sleepy Traveler's boat]] at Home.<br>
+<br>
+[[File:Sky_New_year_fireworks_2020.jpg|left|thumb|250px|Happy New Year!]]
+Days of Feast also included a celebration to welcome in the New Year as it arrived across the globe - fireworks appeared in Home at the start of every hour for five minutes, beginning '''December 31 at 03:00 PST (UTC-8)''' (midnight January 1 for Tonga, the earliest New Year) and ending '''January 1 at 04:00 PST (UTC-8)''' (midnight January 1 for Howland Island, the latest New Year).
+{{Clear}}
+
+===2020 New Cosmetics and Props===
+====Days of Feast Horns====
+::'''''"Celebrate Days of Feast with these Glowing Horns."'''''
+
+The Days of Feast Horns are tall, branching deer antlers that fade from brown to yellow at the tips with a pair of darker brown deer ears. This [[Head Accessory]] was introduced in 2020 and was available for {{Cost|14.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.
+{{#tag:gallery
+|{{Icon Name|Feast Horns|iap}} {{!}} {{Icon Name|Feast Horns|name}} IAP
+{{Icon Name|Feast Horns|icon}} {{!}} {{Icon Name|Feast Horns|name}} icon
+{{Icon Name|Feast Horns|real}} {{!}} {{Icon Name|Feast Horns|name}} 
+{{Icon Name|Feast Horns|spell}} {{!}} {{Icon Name|Feast Horns|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Snowflake Cape====
+::'''''"Stay warm in this fluffy Snowflake Cape."'''''
+
+The Snowflake Cape is light blue with scalloped edges and a white fur trim decorated with three hanging pom-poms. This [[Cape]] was introduced in 2020 and was available for {{Cost|14.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.
+{{#tag:gallery
+|{{Icon Name|Snowflake Cape|iap}} {{!}} {{Icon Name|Snowflake Cape|name}} IAP
+{{Icon Name|Snowflake Cape|icon}} {{!}} {{Icon Name|Snowflake Cape|name}} icon
+{{Icon Name|Snowflake Cape|front}} {{!}} {{Icon Name|Snowflake Cape|name}} front
+{{Icon Name|Snowflake Cape|interior}} {{!}} {{Icon Name|Snowflake Cape|name}} interior
+{{Icon Name|Snowflake Cape|real}} {{!}} {{Icon Name|Snowflake Cape|name}} back
+{{Icon Name|Snowflake Cape|exterior}} {{!}} {{Icon Name|Snowflake Cape|name}} exterior
+{{Icon Name|Snowflake Cape|spell}} {{!}} {{Icon Name|Snowflake Cape|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Days of Feast Cape====
+The Days of Feast Cape is red with a white fur collar and trim. This [[Cape]] was introduced in 2020 and was available for {{Cost|65 C}} from the Days of Feast Staff at the [[Secret Area]] for the duration of the event.
+{{#tag:gallery
+|{{Icon Name|Feast Cape|icon}} {{!}} {{Icon Name|Feast Cape|name}} icon
+{{Icon Name|Feast Cape|front}} {{!}} {{Icon Name|Feast Cape|name}} front
+{{Icon Name|Feast Cape|interior}} {{!}} {{Icon Name|Feast Cape|name}} interior
+{{Icon Name|Feast Cape|real}} {{!}} {{Icon Name|Feast Cape|name}} back
+{{Icon Name|Feast Cape|exterior}} {{!}} {{Icon Name|Feast Cape|name}} exterior
+{{Icon Name|Feast Cape|spell}} {{!}} {{Icon Name|Feast Cape|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Feast Necktie====
+The Feast Necktie is a sprig of holly that resembles a bowtie, with yellow leaves and a red berry. This [[Neck Accessory]] was introduced in 2020 and was available for {{Cost|15 H}} from the Days of Feast Staff at the [[Secret Area]] for the duration of the event.
+{{#tag:gallery
+|{{Icon Name|Feast Necktie|icon}} {{!}} {{Icon Name|Feast Necktie|name}} icon
+{{Icon Name|Feast Necktie|real}} {{!}} {{Icon Name|Feast Necktie|name}}
+{{Icon Name|Feast Necktie|spell}} {{!}} {{Icon Name|Feast Necktie|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Days of Feast Table====
+The Days of Feast Table is rectangular with a few empty dishes and a candelabra sitting on top of a red table runner, paired with four festive-themed chairs. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]], and functions as a four-player [[Chat]] item. The candelabra in the center can be lit to recharge your Cape energy. This Prop was introduced in 2020 and was available for {{Cost|150 C}} from the Days of Feast Staff at the [[Secret Area]] for the duration of the event.
+{{#tag:gallery
+|{{Icon Name|Feast Table|icon}} {{!}} {{Icon Name|Feast Table|name}} icon
+{{Icon Name|Feast Table|real}} {{!}} {{Icon Name|Feast Table|name}}
+Days-of-Feast-Table-on-back.png {{!}} {{Icon Name|Feast Table|name}} on a player's back
+{{Icon Name|Feast Table|spell}} {{!}} {{Icon Name|Feast Table|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+==December 2019<span id="2019"></span>==
+[[File:Days of feast.jpg|thumb|180x180px|Promotional Image - Days of Feast 2019]]
+
+To celebrate the most festive time of year, a new winter holiday-inspired event was introduced to Sky. Days of Feast began '''Sunday, December 22, 2019 at 00:00 PST (UTC-8)''' and ended '''Thursday, January 2, 2020 at 23:59 PST (UTC-8)''', lasting '''12''' days. The event took place during the [[Season of Belonging]] and was tied to two other concurrent events: [[Double Currency Events#Days of Giving - November 2019|Days of Giving]] and a [[Double Currency Events#Double Seasonal Candle Event - December 2019|Double Seasonal Candle Event]].
+
+For the occasion, the [[Secret Area]] was open to everyone through a friendly NPC at the gate, featuring a number of festive ornaments, decorative trees, and lights to suit the occasion. Several friendly [[Dark Crabs]] carrying present boxes could also be found wandering within the building. One new holiday-themed [[Premium Candle Shop|IAP]] was available for purchase from the in-game shop.
+
+Days of Feast also included a celebration to welcome in the New Year as it arrived across the globe - fireworks appeared in Home at the start of every hour for five minutes, beginning '''December 31 at 03:00 PST (UTC-8)''' (midnight January 1 for Tonga, the earliest New Year) and ending '''January 1 at 04:00 PST (UTC-8)''' (midnight January 1 for Howland Island, the latest New Year).<br>
+<br>
+[[File:Sky- Children of the Light- Days of Feast (Winter 2019)|none|thumb|330x330px]]
+{{Clear}}
+
+=== 2019 New Cosmetics and Props===
+====Days of Feast Pack<span id="Feast Hat"></span>====
+:: '''''"Celebrate Days of Feast with a festive Holiday Hat."'''''
+
+The Days of Feast Pack contains two items: the Feast Hat and {{Cost|25 C}}. The Feast Hat is a floppy red cap with a white fur headband and pom-pom on the end. This [[Hair]] was introduced in 2019 and was available for {{Cost|6.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event. Note that this item is considered a Hair, not a [[Hair Accessory]], and as such it cannot be worn over other Hairstyles.
+{{#tag:gallery
+|{{Icon Name|Feast Hat|iap}} {{!}} Days of Feast Pack IAP
+{{Icon Name|Feast Hat|icon}} {{!}} {{Icon Name|Feast Hat|name}} icon
+{{Icon Name|Feast Hat|real}} {{!}} {{Icon Name|Feast Hat|name}} 
+{{Icon Name|Feast Hat|spell}} {{!}} {{Icon Name|Feast Hat|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+==Trivia==
+*The "Ode to Joy" Music Sheet was the very first to be introduced during a [[Special Events|Holiday Event]].
+*In [[Sky Beta|Beta]], the [[#Winter Feast Snowboard|Winter Feast Snowboard]] were originally an [[IAP]] item. Their description in-game was: '''''"Finely crafted to shred the steepest of [[Valley]] slopes"'''''.
+* Days of Feast and its items are depicted in several merch items from [[That Sky Shop]]. To know more about That Sky Shop products, visit their website: https://thatskyshop.com
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+DoFeast-2023-Office-promo-image.jpg|2023 Promo image
+DoFeast-2023-Ticket-promo-image.png|2023 Promo image
+DoFeast-2023-Sanctuary-promo-image.png|2023 Promo image
+DoFeast-2023-Course-Prop-promo-image.png|2023 Promo image
+Five Days of Feast Promo Image.png|Five Days of Feast Promo image
+DoFeast-2022-Race-promo-image.png|2022 Promo image
+DoFeast-2022-Fishing-promo-image.png|2022 Promo image
+DoFeast-2021-Skating-promo-image.png|2021 Promo image
+DoFeast-2021-Holiday-Card-Promo-Art.png|2021 Promo art
+DoFeast-2020-Skating-promo-image.jpg|2020 Promo image
+DoFeast-2019-Northern-Lights-Promo-Art.png|2019 Promo art
+DoFeast-2019-Holiday-Card-Promo-Art.png|2019 Promo art
+DoFeast-2019-Office-Promo-Image.png|2019 Promo image
+DoFeast-2019-Celebrate-Fireworks-Promo-Image.png|2019 Promo image
+</gallery>
+
+==References==
+'''More information about Days of Feast 2023 can be found on [https://www.thatskygame.com/news/wintry-games-and-more-for-days-of-feast-2023/ ThatSkyGame's Website].'''
+<br>'''More information about Days of Feast 2022 can be found on [https://www.thatskygame.com/news/cozy-festivities-arrive-for-days-of-feast-2022 ThatSkyGame's Website].'''
+<br>'''More information about Days of Feast 2021 can be found on [https://www.thatskygame.com/news/announcing-days-of-feast-2021 ThatSkyGame's Website].'''
+<br>'''More information about Days of Feast 2020 can be found on [https://www.thatskygame.com/news/launch-update-days-of-feast ThatSkyGame's Website].'''
+<references />
+
+{{Holiday Navbox}}
+
+[[es:Días de fiesta]]
+[[fr:Jours de Fête]]
+[[de:Tage des Fests]]
+[[pt-br:Dias de Festa]]
+[[ja:聖なる星の日々]]
+
+{{DEFAULTSORT:Feast, Days of}}
+[[Category:Events]]
+[[Category:Recurring Events]]
+[[Category:Collaborations]]

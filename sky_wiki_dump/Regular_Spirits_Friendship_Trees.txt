@@ -1,0 +1,260 @@
+This page contains the '''[[Friendship Tree (Regular)|Friendship Trees]]''' for all 37 '''[[Regular Spirits]]''' found in the [[Realms]]. The total [[Currency]] cost to complete all the Realm [[Constellations]] can be found in the [[#Sumary|Summary]] section. To complete the entire Constellation, players must purchase all [[Cosmetics]] from all Regular Spirits. Bonus items that do not count towards the completion of the Realm Constellations are identified with a note. 
+
+==Summary==
+These are the total number of {{Candle}}Candles, {{Heart}} Hearts, and {{Ascended Candle}}Ascended Candles required to complete the Realm Constellations. Note that Tier 2 is '''not''' required for completion.
+<section begin="Constellation Summary Header" />
+{| class="article-table" style="text-align:right;"
+!
+! colspan="3" style="border-left: 1px solid black; text-align:center;" |100% Constellation
+! colspan="3" style="border-left: 1px solid black; text-align:center;" |Tier 2
+! colspan="3" style="border-left: 1px solid black; text-align:center;" |Including Tier 2
+|-
+!
+! style="border-left: 1px solid black; text-align:center;" |{{Candle}}
+! style="text-align:center;" |{{Heart}}
+! style="text-align:center;" |{{Ascended Candle}}
+! style="border-left: 1px solid black; text-align:center;" |{{Candle}}
+! style="text-align:center;" |{{Heart}}
+! style="text-align:center;" |{{Ascended Candle}}
+! style="border-left: 1px solid black; text-align:center;" |{{Candle}}
+! style="text-align:center;" |{{Heart}}
+! style="text-align:center;" |{{Ascended Candle}}<section end="Constellation Summary Header" />
+<section begin="Isle Constellation Summary" />
+|-
+| style="border-right: 1px solid black" |[[Isle of Dawn]]
+| 42
+| 12
+| 3
+| style="border-left: 1px solid black" |0
+| 0
+| 0
+| style="border-left: 1px solid black" |42
+| 12
+| 3<section end="Isle Constellation Summary" />
+<section begin="Prairie Constellation Summary" />
+|-
+| style="border-right: 1px solid black" |[[Daylight Prairie]]
+| 116
+| 39
+| 11
+| style="border-left: 1px solid black" |+6
+| +9
+| +9
+| style="border-left: 1px solid black" |122
+| 48
+| 20<section end="Prairie Constellation Summary" />
+<section begin="Forest Constellation Summary" />
+|-
+| style="border-right: 1px solid black" |[[Hidden Forest]]
+| 135
+| 108
+| 14
+| style="border-left: 1px solid black" |+10
+| +165
+| +24
+| style="border-left: 1px solid black" |145
+| 273
+| 38<section end="Forest Constellation Summary" />
+<section begin="Valley Constellation Summary" />
+|-
+| style="border-right: 1px solid black" |[[Valley of Triumph]]
+| 107
+| 125
+| 15
+| style="border-left: 1px solid black" |0
+| +150
+| +18
+| style="border-left: 1px solid black" |107
+| 275
+| 33<section end="Valley Constellation Summary" />
+<section begin="Wasteland Constellation Summary" />
+|-
+| style="border-right: 1px solid black" |[[Golden Wasteland]]
+| 111
+| 142
+| 14
+| style="border-left: 1px solid black" |0
+| +225
+| +18
+| style="border-left: 1px solid black" |111
+| 337
+| 32<section end="Wasteland Constellation Summary" />
+<section begin="Vault Constellation Summary" />
+|-
+| style="border-right: 1px solid black" |[[Vault of Knowledge]]
+| 104
+| 155
+| 14
+| style="border-left: 1px solid black" |0
+| +225
+| +21
+| style="border-left: 1px solid black" |104
+| 380
+| 35<section end="Vault Constellation Summary" />
+|-
+| style="border-right: 1px solid black" |All
+| 615
+| 581
+| 71
+| style="border-left: 1px solid black" |+16
+| +744
+| +90
+| style="border-left: 1px solid black" |631
+| 1325
+| 161
+|}
+
+==[[Isle of Dawn]]==
+<div style="height: 0; overflow: hidden;">
+<span id="Pointing Candlemaker"></span>
+<span id="Ushering Stargazer"></span>
+<span id="Rejecting Voyager"></span>
+</div>
+{{Mobile Tabber
+|tab1 = [[File:PointingCandlemaker-1.png|frameless|51x51px|link=Pointing Candlemaker]]
+|c1   = {{#lst:Pointing Candlemaker|Friendship Tree}}
+|tab2 = [[File:UsheringStargazer-1.png|frameless|51x51px|link=Ushering Stargazer]]
+|c2   = {{#lst:Ushering Stargazer|Friendship Tree}}
+|tab3 = [[File:RejectingVoyager-1.png|frameless|51x51px|link=Rejecting Voyager]]
+|c3   = {{#lst:Rejecting Voyager|Friendship Tree}}
+}}
+
+==[[Daylight Prairie]]==
+<div style="height: 0; overflow: hidden;">
+<span id="Applauding Bellmaker"></span>
+<span id="Bird Whisperer"></span>
+<span id="Butterfly Charmer"></span>
+<span id="Ceremonial Worshiper"></span>
+<span id="Exhausted Dock Worker"></span>
+<span id="Laughing Light Catcher"></span>
+<span id="Slumbering Shipwright"></span>
+<span id="Waving Bellmaker"></span>
+</div>
+{{Mobile Tabber
+|tab1 = [[File:ButterflyCharmer-1.png|frameless|51x51px|link=Butterfly Charmer]]
+|c1   = {{#lst:Butterfly Charmer|Friendship Tree}}
+|tab2 = [[File:ApplaudingBellmaker-1.png|frameless|51x51px|link=Applauding Bellmaker]]
+|c2   = {{#lst:Applauding Bellmaker|Friendship Tree}}
+|tab3 = [[File:WavingBellmaker-1.png|frameless|51x51px|link=Waving Bellmaker]]
+|c3   = {{#lst:Waving Bellmaker|Friendship Tree}}
+|tab4 = [[File:SlumberingShipwright-1.png|frameless|51x51px|link=Slumbering Shipwright]]
+|c4   = {{#lst:Slumbering Shipwright|Friendship Tree}}
+|tab5 = [[File:LaughingLightCatcher-1.png|frameless|51x51px|link=Laughing Light Catcher]]
+|c5   = {{#lst:Laughing Light Catcher|Friendship Tree}}
+|tab6 = [[File:BirdWhisperer-1.png|frameless|51x51px|link=Bird Whisperer]]
+|c6   = {{#lst:Bird Whisperer|Friendship Tree}}
+|tab7 = [[File:ExhaustedDockWorker-1.png|frameless|51x51px|link=Exhausted Dock Worker]]
+|c7   = {{#lst:Exhausted Dock Worker|Friendship Tree}}
+|tab8 = [[File:CeremonialWorshiper-1.png|frameless|51x51px|link=Ceremonial Worshiper]]
+|c8   = {{#lst:Ceremonial Worshiper|Friendship Tree}}
+}}
+
+==[[Hidden Forest]]==
+<div style="height: 0; overflow: hidden;">
+<span id="Apologetic Lumberjack"></span>
+<span id="Blushing Prospector"></span>
+<span id="Dismayed Hunter"></span>
+<span id="Hide'n'Seek Pioneer"></span>
+<span id="Pouty Porter"></span>
+<span id="Shivering Trailblazer"></span>
+<span id="Tearful Light Miner"></span>
+<span id="Whale Whisperer"></span>
+</div>
+{{Mobile Tabber
+|tab1 = [[File:ShiveringTrailblazer-1.png|frameless|51x51px|link=Shivering Trailblazer]]
+|c1   = {{#lst:Shivering Trailblazer|Friendship Tree}}
+|tab2 = [[File:BlushingProspector-1.png|frameless|51x51px|link=Blushing Prospector]]
+|c2   = {{#lst:Blushing Prospector|Friendship Tree}}
+|tab3 = [[File:HideNSeekPioneer-1.png|frameless|51x51px|link=Hide'n'Seek Pioneer]]
+|c3   = {{#lst:Hide'n'Seek Pioneer|Friendship Tree}}
+|tab4 = [[File:PoutyPorter-1.png|frameless|51x51px|link=Pouty Porter]]
+|c4   = {{#lst:Pouty Porter|Friendship Tree}}
+|tab5 = [[File:DismayedHunter-1.png|frameless|51x51px|link=Dismayed Hunter]]
+|c5   = {{#lst:Dismayed Hunter|Friendship Tree}}
+|tab6 = [[File:ApologeticLumberjack-1.png|frameless|51x51px|link=Apologetic Lumberjack]]
+|c6   = {{#lst:Apologetic Lumberjack|Friendship Tree}}
+|tab7 = [[File:TearfulLightMiner-1.png|frameless|51x51px|link=Tearful Light Miner]]
+|c7   = {{#lst:Tearful Light Miner|Friendship Tree}}
+|tab8 = [[File:WhaleWhisperer-1.png|frameless|51x51px|link=Whale Whisperer]]
+|c8   = {{#lst:Whale Whisperer|Friendship Tree}}
+}}
+
+==[[Valley of Triumph]]==
+<div style="height: 0; overflow: hidden;">
+<span id="Backflipping Champion"></span>
+<span id="Bowing Medalist"></span>
+<span id="Cheerful Spectator"></span>
+<span id="Confident Sightseer"></span>
+<span id="Handstanding Thrillseeker"></span>
+<span id="Manta Whisperer"></span>
+<span id="Proud Victor"></span>
+</div>
+{{Mobile Tabber
+|tab1 = [[File:ConfidentSightseer-1.png|frameless|51x51px|link=Confident Sightseer]]
+|c1   = {{#lst:Confident Sightseer|Friendship Tree}}
+|tab2 = [[File:HandstandingThrillseeker-1.png|frameless|51x51px|link=Handstanding Thrillseeker]]
+|c2   = {{#lst:Handstanding Thrillseeker|Friendship Tree}}
+|tab3 = [[File:MantaWhisperer-1.png|frameless|51x51px|link=Manta Whisperer]]
+|c3   = {{#lst:Manta Whisperer|Friendship Tree}}
+|tab4 = [[File:BackflippingChampion-1.png|frameless|51x51px|link=Backflipping Champion]]
+|c4   = {{#lst:Backflipping Champion|Friendship Tree}}
+|tab5 = [[File:CheerfulSpectator-1.png|frameless|51x51px|link=Cheerful Spectator]]
+|c5   = {{#lst:Cheerful Spectator|Friendship Tree}}
+|tab6 = [[File:BowingMedalist-1.png|frameless|51x51px|link=Bowing Medalist]]
+|c6   = {{#lst:Bowing Medalist|Friendship Tree}}
+|tab7 = [[File:ProudVictor-1.png|frameless|51x51px|link=Proud Victor]]
+|c7   = {{#lst:Proud Victor|Friendship Tree}}
+}}
+
+==[[Golden Wasteland]]==
+<div style="height: 0; overflow: hidden;">
+<span id="Courageous Soldier"></span>
+<span id="Fainting Warrior"></span>
+<span id="Frightened Refugee"></span>
+<span id="Lookout Scout"></span>
+<span id="Saluting Captain"></span>
+<span id="Stealthy Survivor"></span>
+</div>
+{{Mobile Tabber
+|tab1 = [[File:FrightenedRefugee-1.png|frameless|51x51px|link=Frightened Refugee]]
+|c1   = {{#lst:Frightened Refugee|Friendship Tree}}
+|tab2 = [[File:FaintingWarrior-1.png|frameless|51x51px|link=Fainting Warrior]]
+|c2   = {{#lst:Fainting Warrior|Friendship Tree}}
+|tab3 = [[File:CourageousSoldier-1.png|frameless|51x51px|link=Courageous Soldier]]
+|c3   = {{#lst:Courageous Soldier|Friendship Tree}}
+|tab4 = [[File:StealthySurvivor-1.png|frameless|51x51px|link=Stealthy Survivor]]
+|c4   = {{#lst:Stealthy Survivor|Friendship Tree}}
+|tab5 = [[File:SalutingCaptain-1.png|frameless|51x51px|link=Saluting Captain]]
+|c5   = {{#lst:Saluting Captain|Friendship Tree}}
+|tab6 = [[File:LookoutScout-1.png|frameless|51x51px|link=Lookout Scout]]
+|c6   = {{#lst:Lookout Scout|Friendship Tree}}
+}}
+
+==[[Vault of Knowledge]]==
+<div style="height: 0; overflow: hidden;">
+<span id="Levitating Adept"></span>
+<span id="Meditating Monastic"></span>
+<span id="Memory Whisperer"></span>
+<span id="Polite Scholar"></span>
+<span id="Praying Acolyte"></span>
+</div>
+{{Mobile Tabber
+|tab1 = [[File:PrayingAcolyte-1.png|frameless|51x51px|link=Praying Acolyte]]
+|c1   = {{#lst:Praying Acolyte|Friendship Tree}}
+|tab2 = [[File:LevitatingAdept-1.png|frameless|51x51px|link=Levitating Adept]]
+|c2   = {{#lst:Levitating Adept|Friendship Tree}}
+|tab3 = [[File:PoliteScholar-1.png|frameless|51x51px|link=Polite Scholar]]
+|c3   = {{#lst:Polite Scholar|Friendship Tree}}
+|tab4 = [[File:MemoryWhisperer-1.png|frameless|51x51px|link=Memory Whisperer]]
+|c4   = {{#lst:Memory Whisperer|Friendship Tree}}
+|tab5 = [[File:Meditating-Monastic-1.png|frameless|51x51px|link=Meditating Monastic]]
+|c5   = {{#lst:Meditating Monastic|Friendship Tree}}
+}}
+==References==
+<references />
+
+[[pt-br:Espíritos Regulares/Árvores de Amizade]]
+[[ja:恒常精霊/メニュー]]
+[[fr:Esprits Réguliers/Arbres d'Amitié]]
+
+[[Category:Regular Spirits]]

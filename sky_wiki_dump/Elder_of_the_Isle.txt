@@ -1,0 +1,114 @@
+{{Spirit Infobox
+|type       = Elder
+|image      = Elder-Spirit-Isle.png
+|emote_type = none
+|cosmetics  = {{Spirit Item||facepiece|infobox|label=Isle Elder Face Accessory}}{{Spirit Item||Hair|infobox|label=Isle Elder Hair}}
+|realm      = Isle of Dawn
+|location   = Isle Temple
+|related    = {{Spirit Group|elder|infobox|exclude={{PAGENAME}}}}
+}}
+The '''Elder of the Isle''' (also known as the '''Isle Elder''') can be found at the [[Isle Temple]] that is visible at the very far horizon of [[Isle of Dawn]]. Relive the Elder's memory to activate all the Spirits that you previously found in [[Isle of Dawn]] and open the door to [[Daylight Prairie]].
+
+==Memory==
+<div>
+{{#ev:youtube|q9RUovW5bCc||inline|Isle Elder Cutscene}}
+The Isle Elder's memory begins with a view of the Eden Mountain. The camera pans down to show the Elder plodding along with the help of a long staff, past an endless flock of birds. The Elder with the broken mask comes forward and kneels to capture the alter candle's flame with the tip of their staff. As they raise their staff, radiating with energy, the missing parts of the mask emerge to complete it, finally regaining their former glory.
+
+Now standing tall and proud, the Elder notices the small kid (you), kneeling and looking up at them. You exchange nods with them. With a wave of their staff, the Elder redirects the flight of birds into the sky. 
+
+Back at the temple, the doors open and the birds swoop into the now illuminated room.
+</div>
+{{Clear}}
+
+==Cosmetics==
+===<span id="Face Accessory">Ultimate Shield Face Accessory</span>===
+The Ultimate Shield Face Accessory<ref name="Mask recategorized">This item was recategorized from a [[Mask]] to a [[Face Accessory]] as a result of the [[Outfit Shrine|Closet]] category expansion in Patch {{v|0.22.0}}.</ref> costs {{Cost|125 AC}} and is only available once you have acquired the above Elder's Ultimate Hair.  
+<gallery widths="125px">
+Elder-Mask-Icon-Isle-Morybel-0146.png|Face Accessory icon
+Elder-of-the-Isle-Face-Accessory.png|Face Accessory in its original state
+Elder-of-the-Isle-Face-Accessory-Shattered.png|Face Accessory in its shattered state
+</gallery>
+This mask is an extended version of the [[Rejecting Voyager]]'s Face Accessory from the Isle of Dawn.<br>
+<br>
+[[File:Elder Mask-Isle breaking animation.gif|250px|thumb]]
+
+Unlike other face accessories, the Elder Face Accessory is paired with almond shaped eyes. Each Elder face accessory comes with a shield function that will protect you from damage from Crabs, Dark Dragons, or rocks. The Face Accessory will not protect you from rain or wastewater. The protection lasts for only one hit or until it's shattered, and then it will need to be recharged. While undergoing your first hit, a blue spherical barrier will appear around you to protect you from losing your [[Winged Light]].
+
+Once you get hit, the Face Accessory appears "shattered", turning it transparent, brown, and no longer luminous. A cracked shield icon will also appear in the closet next to the used Face Accessory, showing you which one needs to be recharged.
+
+To recharge the face accessory, visit the Elder of Isle and relive the ancient memory animation or summon the Isle Elder in the [[Eye_of_Eden#Ascent_and_Orbit|Orbit]] Constellation.   
+
+===<span id="Hair">Ultimate Hair</span>===
+The Elder Isle Ultimate Hair costs {{Cost|4 AC}} and is only available once you have completed the Isle of Dawn [[Constellation]]. It is a mid-lengthed beard that is split in the middle and rounded at the sides. Note that this item is considered a Hair, not a [[Face Accessory]], and as such it can not be worn over other Hairstyles. <br>
+<br>
+{{#tag:gallery
+|{{Icon Name||hair|icon}} {{!}} Ultimate Hair icon
+{{Icon Name||hair|real}} {{!}} Ultimate Hair front
+Elder-of-the-Isle-Hair-side.png {{!}} Ultimate Hair side
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Friendship Tree==
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Isle Elder
+<!--|image = Isle Elder asc.jpg-->
+
+|nodeC2 = facepiece 125 AC
+|nodeC1 = hair 4 AC
+}}<section end="Friendship Tree" />
+
+==Trivia==
+* Conceptual names for the Elders had them named after Hebrew letters. The Elder of the Isle was named "Daleth", after the Hebrew letter ד. This name is no longer canon, however, but many fans still use the name.
+* The Elder of the Isle is featured in a piece of merch from thatskyshop, in the form of the [[That Sky Shop/Wave 1#Elder of the Isle Pin|Elder of the Isle Pin]]. It has a STAR feature which allows you and the friends that you're holding hands with to teleport to the Elder Temple in the Isle of Dawn.
+
+==Gallery==
+<gallery widths="200">
+Isle Elder asc.jpg
+</gallery>
+
+==In Other Languages==
+{{Other Languages
+|title         = Elder of the Isle
+|fr            = Ancien de l'Île
+|fr_meaning    = Elder of the Island
+|fr_gg         = m
+|de            = Ältester der Insel
+|de_meaning    = Elder of the Isle
+|de_gg         = m
+|it            = Anziano dell'Isola
+|it_meaning    = Elder of the Island
+|it_gg         = m
+|id            = Tetua Pulau
+|id_meaning    = Isle Elder
+|ja            = 孤島の大精霊
+|ja_rom        = Kotou-no Daiseirei
+|ja_meaning    = Great Spirit of the Solitary Island
+|ko            = 섬의 장로
+|ko_rom        = Seom-ui Janglo
+|ko_meaning    = Island Elder
+|zh_cn         = 晨岛长者
+|zh_cn_rom     = Chén Dǎo Zhǎngzhě
+|zh_cn_meaning = Morning Island Elder
+|zh_tw         = 晨島長者
+|zh_tw_rom     = Chén Dǎo Zhǎngzhě
+|zh_tw_meaning = Morning Island Elder
+|pt            = Ancião da Ilha
+|pt_meaning    = Island Elder
+|pt_gg         = m
+|ru            = Древний Острова
+|ru_rom        = Drevniy Ostrova
+|ru_meaning    = Elder of the Island
+|ru_gg         = m
+|es            = Anciano de la Isla
+|es_meaning    = Elder of the Island
+|es_rom        = m
+|vi            = Trưởng Lão Đảo
+|vi_meaning    = Island Elder
+}}
+
+==References==
+<references />
+
+[[fr:Ancien de l'Île]]
+[[pt-br:Ancião da Ilha]]
+[[de:Ältester der Insel]]

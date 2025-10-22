@@ -1,0 +1,205 @@
+{{DISPLAYTITLE: Light-yu on PC}}
+
+As ThatGameCompany was about to release Sky for Steam on April 10, 2024, a day prior NetEase made a Weibo post not only to spread the exciting news, but also to inform Light-yu players that they were also prepared to bring Light-yu to PC as well, hoping that mobile players will be able to cross play with PC players soon.
+
+On October 25th, 2024, Light-yu had officially obtained their Registration Number to publish Light-yu on PC. To celebrate this exciting moment, a special gift was sent out to the players containing 2x Regular Hearts, 2x Glow Spell and 2x Adult Spell, available to be claimed from '''October 25th''' till '''October 31, 23:59 (GMT+8)'''. A giveaway was held, gave away 10 "Encounter" Limited Gift Box by following the official Light-yu Weibo account and making a repost sharing your expectations for Light-yu PC.
+
+At last, on November 29th, 2024, Light-yu was officially announced to be available on PC on December 6th, 2024, pre-register was available through [https://fever.163.com/ NetEase Fever]. A giveaway was held once again, ending soon on December 6th, 17:00 (GMT+8), giving away 10 official Light-yu Postcards. <gallery>
+File:NeteasePromoImagePC.jpg|Promo Image
+</gallery>
+[[File:NeteasePromoGifPC.mp4|none|thumb|200x113px|Promo Gif]]
+[[File:NeteasePromoVidPC.mp4|none|thumb|200x113px|Promo Video]]
+
+
+==Frequent Asked Questions (FAQ)==
+
+#'''Q: Are Channel Server Players able to sync their progress to PC?'''   A: Currently PC only allow accounts that are created on the Official Server to sync their progress, accounts that are created on Channel Servers are unable to sync their progress.
+#'''Q: What OS does Light-yu PC supports?'''   A: Only Windows systems are supported currently, not supporting other OS for the time being.
+#'''Q: While logged in to PC, how does it affect gameplay by choosing between Android or iOS?'''  A: If the NetEase Email you used to log in PC has an existing account on mobile (Android or iOS), by choosing the corresponding platform, players are able to sync their account progress and be able to play it on PC. 
+#'''Q: Is cross play allowed between PC and Mobile?'''  A: Yes, cross play is allowed between the two platforms, players are able to meet and play with each other in-game. 
+#'''Q: What to do when meeting issues such as "Download Error" or "Update Error"?'''  A: Players are asked to go back to the start-up application, click on the "more options" button right next to the "Start Game" button and click on "Repair Now". 
+#'''Q: After taking a screenshot in-game, where is it saved at?'''  A: When taking a screenshot or pictures with the [[Moments Guide#Camera Prop|Moments Camera]], the picture will be saved to "''C/Users\user\AppData\Roaming\ThatGameCompany\com.netease.sky\images".'' If a screen recording is made, a pop-up window will appear instead.
+#'''Q: What are the differences between log in using NetEase Email and QR Scanning?'''   A: ''refer to the table below''
+
+{| class="fandom-table"
+!Account Type 
+!Login Method
+|-
+| Account that are linked to NetEase Email;
+Official Server Account created on Android or using iCloud/Phone Number
+|Using NetEase Email to login NetEase Fever,
+then choose between Android or iOS
+|-
+|Official Server Account created on Android or using iCloud/Apple ID/Phone Number
+|QR Scanning via Mobile Devices
+|}
+<small>*Disclaimer: The FAQ written here are taken and translated from the original post by NetEase Official [https://weibo.com/6355968578/5108266911400930 in Weibo].</small>
+
+== Login Method ==
+Method 1: 
+
+# Starting from NetEase Fever, click on "Start Game", log in to NetEase Fever using a verified NetEase Email. 
+# An application for Light-yu PC will appear, the once again click on "Start Game" to now enter the game.
+# After starting up the game, choose your log in platform between Android or iOS. 
+# After choosing platforms, the game will automatically sync your progress to PC from your existing Mobile Account (Official Server only); if there's none, a brand-new account will be created. 
+# By using this method to log in, players are able to switch to a different account through "NetEase Fever Account Center".
+<gallery>
+File:Netease-Lightyu-PC-App-1.png|Step 2: Start Game
+File:Netease-Lightyu-PC-Login-Screen-1.png|Login method selection
+</gallery>Method 2: 
+
+# Starting from NetEase Fever, click on "Start Game", log in to NetEase Fever using a verified NetEase Email. 
+# An application for Light-yu PC will appear, there will be an arrow at the top left corner of the "Start Game" button, click on that and players are able to switch method to log in via QR Scanning. By clicking it, a QR code will appear on the screen.
+# Log in Light-yu via Mobile Device, on the start-up screen there's a QR Scanning function, click on that and scan on the QR Code that appear on PC. 
+# After scanning the QR using the Mobile Device, players can now log in their account on PC. The account log in here does not affiliate with NetEase Fever account logged in during Step 1. 
+# By using this method to log in, in order to switch account, players should close the game and scan the QR Code using a different Mobile Device. 
+<gallery>
+File:Netease-Lightyu-PC-App-2.png|Step 2: Scan QR to Log in
+File:Netease-Lightyu-PC-Login-Screen-2.png|QR Code Log in
+</gallery>
+
+==Netease Available Download Store==
+The game is available to be downloaded from the [https://sky.163.com/index.html Official Light-yu Website] or [https://fever.163.com/ NetEase Fever]. NetEase Fever is a PC application that lets players browse, download and play selected NetEase games on a desktop or laptop, However, accounts that are created on Channel Servers are not supported as NetEase Fever requires players to login using an official NetEase account. As of now, Light-yu PC '''DOES NOT''' support any other languages than Chinese. 
+
+== Requirements for Download Light-yu on PC==
+{| class="fandom-table"
+|+Minimum Requirements
+|OS 
+|Windows 10 64-bit, build 1903+ (100.18362)
+|-
+|Processor
+|Intel i5-6400 or AMD Ryzen 3 1200 
+|-
+|Memory
+|8 GM RAM 
+|-
+|Storage
+|4 GB Available Space
+|-
+| Vulkan Version 
+|Vulkan 1.2 Driver
+|-
+|Graphics
+|Nvidia GeForce GTX 1030 or AMD Radeon RX 560
+|}
+
+{| class="fandom-table"
+|+Recommended Requirements
+|OS 
+|Windows 10 64-bit, build 1903+ (100.18362)
+|-
+|Processor
+| Intel i5-8400 or AMD Ryzen 5 1600
+|-
+| Memory
+|8 GM RAM 
+|-
+|Storage
+|4 GB Available Space
+|-
+|Vulkan Version
+|Vulkan 1.3 Driver
+|-
+|Graphics
+|Nvidia GeForce GTX 1060 or AMD Radeon RX 580
+|}
+
+==Controls on PC==
+The controls are the same as [[Sky for Steam#Controls on Steam|Sky for Steam]]. Players are able to remap the controls the same way as well. 
+[[File:PC-Keyboard-Layout.png|none|thumb|225x225px|Light-yu PC Keyboard Layout]]
+
+== PC Startup Screen ==
+[[File:Netease-PC-Title-Screen.png|thumb|250x250px|Start-up Screen for PC]]
+Similar to the Mobile version of Light-yu, the top left corner of the Start-up screen consists of three tools. From left to right, the first tool shows a QR Code which will direct players to the [https://sky.163.com/index.html Official Light-yu Website]; the second tool is a pop up for User Agreement and Privacy Policy for players to read; the third tool is User Center where players are able to manage their own accounts. 
+
+On the top right corner of the screen shows the Sky ID of the player, the App Version Number and the App Build Number. 
+
+To the left are summary or Patch Notes of the current sandbox of the game, mentioning the events available currently or other important notes. 
+
+== In-game Events==
+From '''December 6th, 2024''' until '''February 17, 2025,''' a new event page will be available, players will be able to obtain their own unique Invite Code. By completing the tasks below, players will be rewarded accordingly: 
+
+*Successfully linked other players' Invite Code for the first time. (Rewards: 2x Resize Potion, 2x Instant Recharge Potion, 2x Fast Recharge Spell)
+*Invite other players using your own Invite Code.
+
+{| class="fandom-table"
+!Accumulate number of players invited
+!Rewards
+|-
+|1 player 
+|1 Regular Heart
+|-
+|2 players
+|2 Regular Hearts
+|-
+|3 players
+|3 Regular Hearts
+|}
+
+*Winglight collected by the players you invited using your Invite Code.
+
+{| class="fandom-table"
+!Winglight collected by invited players
+!Rewards
+|-
+|30 Winglights
+|1x Bonfire Spell
+|-
+|60 Winglights
+|1x Swing Set Spell
+|-
+|100 Winglights
+|1x Chat Table Spell
+|-
+|150 Winglights
+|1x Resize Potion
+|-
+|300 Winglights
+|1x Rainbow Trail Spell
+|}
+
+*Times of Sacrifice in Eye of Eden by the players you invited using your Invite Code.
+
+{| class="fandom-table"
+!Accumulate times of Sacrifice by invited players
+!Rewards
+|-
+|1 time
+|1x Ascended Candle
+|-
+|2 times
+|1x Ascended Candle
+|-
+|3 times
+|1x Ascended Candle
+|-
+|4 times
+|1x Ascended Candle
+|-
+|5 times
+|1x Ascended Candle
+|}
+<small>*on the notes it was mentioned that reward will be based on the number of accumulated sacrifices, but on the promo image it mentioned one Ascended Candle per sacrifice</small>
+[[File:NeteaseAgentEventPC.jpg|none|thumb|225x225px|Event Page]]
+
+==Cosmetics==
+
+===Cursor Head Accessory===
+[[File:NeteaseCursorHeadAccessoryPromoImage.jpg|thumb|225x225px|Promo Image for Cursor Head Accessory]]
+Upon logging in to the game during any date of the event, both mobile and PC Light-yu players will be able to obtain the new "exclusive" Cursor Head Accessory for free, having the symbol that represents PC to commemorate this special journey together.  <gallery>
+File:Netease-Cursor-Accessory-Icon.png|Cursor Accessory Icon
+File:Netease-Cursor-Accessory.png|Cursor Accessory
+</gallery>
+
+==References==
+'''First info of Light-yu PC [https://weibo.com/6355968578/5021199607007510 on Weibo].'''
+
+'''Registration Number obtained post [https://weibo.com/6355968578/5093454310540438 on Weibo].'''
+
+'''Confirmation Date of Light-yu PC [https://weibo.com/6355968578/5106017084113691 on Weibo].'''
+
+'''Event Information for Light-yu PC [https://weibo.com/6355968578/5107813921066464 on Weibo].'''
+
+'''Guides for Light-yu PC [https://weibo.com/6355968578/5108266911400930 on Weibo].'''
+
+[[pt-br:NetEase/Light-yu para PC]]

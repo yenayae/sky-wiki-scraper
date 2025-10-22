@@ -1,0 +1,39 @@
+{{Creature Infobox
+|title    = Dark Shadows
+|type     = dark
+|image    = Dark-Shadow.png
+}}<section begin="Summary" />Dark Shadows, fan-nicknamed ''Dark Worms'' and ''Squirmals'', and called ''Owls'' by beta testers, are found in the Trial of Fire in the [[Cave of Prophecies]]. They also played a major role in the event story during [[Days of Mischief#October 2024|Days of Mischief 2024]], roaming around the area and during [[Moominvalley#Storybook Quests|Season of Moomin in the 4th Storybook quest]].
+<section end="Summary" />
+
+==Appearance==
+Dark Shadows appear as dark misty creatures with a pair of swirling red "eyes". They have a round body ending in a pointy end and floats above the ground but never go higher or lower. When passing near players, your screen will begin to shake and the creature will emit a roar that sounds like a combination of muffled growl with debris scraping the ground.
+
+==Avoiding Dark Shadows==
+Dark Shadows do not appear to be able to sense Light (or anything else, for that matter). The player must avoid the creatures, or else their Light will be extinguished instantaneously by the Creature's dark aura. Dark Shadows don't hurt players, they just send you back to your checkpoint. You won't lose any [[Winged Light|Winged light]] when it happens.
+
+You can safely steer clear of Dark Shadows by:
+
+*Making a [[Deep Call]]. Deep Call releases a soundwave of light that is able to detect Dark Shadows as they move in the dark.
+*Stopping at bundle of Candles. Any bundle of candles you find along the path will help you avoid Dark Shadows - they are safe spots.
+*Timing your next move. Dark Shadows follow a set path and will not stray from it.
+*Holding a friend's hand or [[piggyback]]. To recharge your energy level quicker. 
+
+==Blessing of Courage==
+The Blessing of Courage is given to player by meditating at the last level of the Trial of Fire.  
+
+When given the Blessing of Courage, the player is able to walk through and even destroy the '''Dark Shadows''' as they approach the end of the Trial. 
+
+== Trivia ==
+* Dark Shadows are the only Dark Creature able to be destroyed in the game.
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Dark Worm.jpg|Deep Calling will reveal a Dark Shadow's outline
+</gallery>
+
+[[fr:Ombres des Ténèbres]]
+[[de:Dunkelschatten]]
+[[pt-br:Sombras da Escuridão]]
+[[ja:火の試練の影]]
+
+[[Category:Creatures]]

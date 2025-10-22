@@ -1,0 +1,89 @@
+{{Spirit Infobox
+|type      = Regular
+|emote_type= Stance
+|image     = <gallery>
+Vault-Spirit-Polite-Scholar.png|Standard
+Vault-Spirit-Polite-Scholar-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Outfit|infobox}}{{Spirit Item||Hair|infobox}}
+|realm     = Vault of Knowledge
+|location  = Third Floor Vault
+}}
+<section begin="Summary" />The '''Polite Scholar''' is a [[Regular Spirit]] in the [[Vault of Knowledge]] who offers the {{Emote|Polite Scholar|inline_text}}. The Polite Scholar is found at the far left of the floating stone platforms on the [[Third Floor Vault|Third Floor of Vault]]. The collectibles [[Polite Scholar#Friendship Tree|offered]] by this Spirit are an {{Spirit Item|Polite Scholar|Outfit|inline_text}} and a {{Spirit Item|Polite Scholar|Hair|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Polite-Scholar-Guide-777-Ed.png|320x320px|thumb|none|Image Guide by 777.Ed]]
+
+== Memory ==
+<div>{{#ev:youtube|Dqb5TXHNe2Y||inline|Video Guide by Tara}}
+<br>
+The Polite Scholar can be found at the far left of the floating stone platforms on the [[Third Floor Vault|Third Floor of Vault]], opposite of the gazebo structure. This Spirit is a [[Standard Memory|standard memory]] quest with 4 memory fragments and an unlimited overall [[Timed Memory|time limit]].
+
+As their memory unfolds, the Polite Scholar traverses the floating platforms towards a gazebo, poised and elegant as they walk. 
+
+At the end of the memory, the Polite Scholar stands in the middle of the gazebo, hands clasped in front of them. A large tree then sprouts up from a neighboring platform, stretching high above the gazebo.<br>
+<br>
+[[File:05 VK Spirit - Polite Scholar.jpg|200px|thumb|none|Relive the Polite Scholar's memory]]
+</div>
+{{Clear}}
+
+== <span id="Expression">Stance</span> ==
+The Polite Scholar offers the {{Emote||inline_text}}, which will give your avatar a polite and elegant look, with their feet and legs held close together and their hands clasped in front of them. The Stance will affect your avatar's position when standing, kneeling, sitting, and lying down.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Emote}}
+Polite-Scholar-polite-stance-emote.gif {{!}} {{Icon Name||emote_name}}
+Polite-Scholar-Stance-Standing.png {{!}} {{Icon Name||emote_name}} (Standing)
+Polite-Scholar-Stance-Kneeling.png {{!}} {{Icon Name||emote_name}} (Kneeling)
+Polite-Scholar-Stance-Sitting.png {{!}} {{Icon Name||emote_name}} (Sitting)
+Polite-Scholar-Stance-Lying-Down.png {{!}} {{Icon Name||emote_name}} (Lying down)
+|heights=160px|captionalign=center|spacing=small
+}}
+
+*Standing will make your avatar press their feet and legs closer together, hands clasped together in front of them.
+*Kneeling will make your avatar sit with their feet and calves tucked underneath their thighs, legs slightly spread, and hands clasped together in front of them.
+*Sitting will make your avatar sit cross-legged with their hands clasped together in their lap.
+*Laying down will make your avatar lay flat on their back with their legs held apart slightly, hands clasped vertically above their chest.
+
+== Cosmetics ==
+=== Outfit ===
+The [[Outfit]] offered by this Spirit is a beige half-sleeve top with matching knee-length baggy pants, costing {{Cost|2 H}}. It is permanently available to all players after unlocking the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Outfit}} {{!}} The Outfit icon
+{{Icon Name||Outfit|real}} {{!}} The Outfit front
+{{Icon Name||Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Hair ===
+The [[Hair]] offered by this Spirit is a clean bald cut, costing {{Cost|15 H}}. It is permanently available to all players after unlocking the Spirit's [[Wing Buff]] and the Friendship Tree's fourth node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Friendship Tree ==
+{{Friendship Tree Info | regular}}
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Polite Scholar
+|image  = Vault-Spirit-Polite-Scholar.png
+
+|nodeC5 = hair 15 H
+|nodeC4 = spell5
+|nodeC3 = wing 2 AC
+|nodeL2 = heart
+|nodeC2 = spell1
+|nodeL1 = outfit 2 H
+|nodeC1 = emote
+}}<section end="Friendship Tree" />
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Emote Loc-Hands Folded Stance.png
+</gallery>
+
+[[de:Höfliche Gelehrte]]
+[[pt-br:Estudante Educada]]
+[[fr:Érudit polie]]

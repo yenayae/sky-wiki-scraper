@@ -1,0 +1,64 @@
+<div>
+{{#ev:youtube|vX34EnkhYkE|400|right|(0.4.10 Beta) Tutorial - Making Friends and Holding Hands}}
+'''Making friends''' is a central aspect of Sky. Not only do friends make Sky more social, but friends can help with aspects of the game too. They can extend Cape Energy to fly longer and higher, help with gathering Candles and burning Darkness, open multiplayer doors, and aid friends through tricky places with some of the special friend abilities described below.
+
+New players can benefit from making friends with more experienced players to help guide them in the game. Sky is playable as a single-player, although a lack of help may present challenges in some areas.<br>
+<br>
+[[File:Unknown player.png|154x154px|thumb|right|A stranger's silhouette]]
+The other players you encounter in the game are from Sky's global community, and will first appear as dark silhouettes. To view a player's true appearance, players must exchange light with each other.
+
+To exchange light, tap on the other player and then on the candle flame icon that appears. If the other player reciprocates, the other player will perform the same steps so that both players touch candles. This action reveals each player's colored appearance to each other. It is also possible to see another person's appearance if your candles touch while lighting the same object in the game. It is also common practice among players to use the Bow expression towards each other if possible after touching candles as a show of respect.
+</div>
+==Add or Invite a Friend==
+To interact with the other player, either person must first establish friendship either by offering a candle, QR code, Sky Code or through other various special platform and device means.
+
+===Candle===
+Once a player's true appearance is visible, it's possible to make friends by offering a candle from one's inventory or accepting a candle offered by the other player, which is then used to permanently upgrade the acquaintance into a friendship. Unless this is done, you will again become shadowed silhouettes to each other the next time you meet after separating. 
+
+===Sky Codes===
+[[File:Gear-menu.jpg|right|thumb|300px|Gear Menu]]
+[[File:Invite_dialog.png|right|thumb|300px|Invite Code Menu]]
+In the Constellation, you can find the Add Friend button located in the far left page, before your first constellation (or the {{Icon|Friends-Ray.png|link=}} button next to and inside the Gear Menu). This can be used to become friends with players met outside the game – either in real life or on social media. Select the One-time Friend Invite option and enter a nickname for your new friend. After confirming the nickname, there will be an option to share the invite. There are two ways that players can share Sky Codes: QR code and Sky Code.
+
+If you share it online, it is recommended to send it as a private message. '''Every QR and Sky Code can only be used once and if you post it in a public space anyone can use it'''. Anyone you have befriended by Sky Codes will automatically have the Chat function unlocked, saving players several candles.
+
+Both sent and received Sky Codes will remain in the Friend Constellation until you delete them. Even if a friend accepts your code, it is necessary to "confirm" it to remove it. A player can only have 7 pending codes at a given time.
+
+====QR Code====
+You can share the generated QR code to a friend who is with you in real life or share the link to the QR code online by pressing on it. They can select the Sky Codes {{Icon|QR-code-invite-Ray.png|link=}} option in their settings to scan or import the code and add you as a friend.<br>
+<br>
+{{#ev:youtube|fJx3l9JZR5c|400|inline|How To Invite Friends to Sky}}
+
+====Sky Code====
+Sky Code is a newer way of adding friends introduced in patch {{v|0.22.5}}. When creating an invite code, it will generate a unique 12-digit alphanumeric code with an option to copy it to the creator's clipboard. You can share the code with a friend who is with you in real life or with a friend online. They can select the Sky Codes {{Icon|QR-code-invite-Ray.png|link=}} option in their settings and press on the Type option to enter the Sky Code manually or paste it. 
+
+===Facebook Player Finder===
+In patch {{v|0.11.4}}, a new optional feature was added that allows you to connect the game with a Facebook account in order to invite friends from your friends list to the game. '''Note: '''This feature is only available on mobile.
+
+[https://thatgamecompany.helpshift.com/a/sky-children-of-the-light/?s=friends-social&f=how-does-the-facebook-player-finder-work&l=en Facebook Player Finder FAQ]
+
+===Nintendo Friend List===
+{{#section-h:Sky for Nintendo Switch|Online Friending}}
+
+===PlayStation Friend List===
+{{#section-h:Sky for PlayStation|Online Friending}}
+
+==Friend Menu==
+{{#section-h:Menus and Controls|Friend Menu}}
+
+==Videos ==
+{{#ev:youtube|piGQwmVqHw8|300|inline|Friend Actions (Updated with Season of Belonging Head Pat)}}
+{{#ev:youtube|8yYg-cUE40c|300|inline|Reporting a Player and Blocking or Unblocking a Friend}}
+{{Clear}}
+
+{{Navigation Box}}
+
+[[de:Freunde finden]]
+[[ru:Дружба с игроками]]
+[[fr:Se faire des amis]]
+[[pt-br:Fazendo Amigos]]
+[[ja:フレンドになる]]
+
+[[Category:Page Maintenance/New Device]]
+[[Category:Basic Guides]]
+[[Category:Social Features]]

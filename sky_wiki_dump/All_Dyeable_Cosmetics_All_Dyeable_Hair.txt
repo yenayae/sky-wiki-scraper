@@ -1,0 +1,330 @@
+<section begin="Table" />
+{| class="article-table sortable"
+! class="unsortable" |Image
+! class="unsortable" |Icon
+![[#Availability Legend|Avail.]]
+!Source
+!Price
+!# of<br>Sections
+!Dye Cost
+|- id="Base"
+| style="text-align: center;"| {{Spirit Item| Default | hair_real | table | link=Hair#Base Hairstyle }}
+| {{Spirit Item| Default | hair | table | sort=0 | link=Hair#Base Hairstyle}}
+| {{Avail Summary | permanent | source=Base }}
+| {{Cost | free }}
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Sassy Drifter"
+| style="text-align: center;"| {{Spirit Item| Sassy Drifter | hair_real | table }}
+| {{Spirit Item| Sassy Drifter | Hair | table | sort=40 }}
+| {{Avail Summary | season | spirit=Sassy Drifter | season=Gratitude }}
+| {{Cost | 26 C }}
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Provoking Performer"
+| style="text-align: center;"| {{Spirit Item| Provoking Performer | hair_real | table }}
+| {{Spirit Item| Provoking Performer | Hair | table | sort=42 }}
+| {{Avail Summary | season | spirit=Provoking Performer | season=Gratitude }}
+| {{Cost | 34 C }}
+| 1
+| 2 or 4 {{Cost | D}}
+|- id="Stretching Guru"
+| style="text-align: center;"| {{Spirit Item| Stretching Guru | hair_real | table }}
+| {{Spirit Item| Stretching Guru | Hair | table | sort=41 }}
+| {{Avail Summary | season | spirit=Stretching Guru | season=Gratitude }}
+| {{Cost | 26 C }}
+| 1
+| 2 or 4 {{Cost | D}}
+|- id="Crab Whisperer"
+| style="text-align: center;"| {{Spirit Item| Crab Whisperer | hair_real | table }}
+| {{Spirit Item| Crab Whisperer | Hair | table | sort=47 }}
+| {{Avail Summary | season | spirit=Crab Whisperer | season=Lightseekers }}
+| {{Cost | 42 C }}
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Piggyback Lightseeker"
+| style="text-align: center;"| {{Spirit Item| Piggyback Lightseeker | hair_real | table }}
+| {{Spirit Item| Piggyback Lightseeker | Hair | table | sort=43 }}
+| {{Avail Summary | season | spirit=Piggyback Lightseeker | season=Lightseekers }}
+| {{Cost | 26 C }}
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Doublefive Light Catcher"
+| style="text-align: center;"| {{Spirit Item| Doublefive Light Catcher | hair_real | table }}
+| {{Spirit Item| Doublefive Light Catcher | Hair | table | sort=44 }}
+| {{Avail Summary | season | spirit=Doublefive Light Catcher | season=Lightseekers }}
+| {{Cost | 34 C }}
+| 1
+| 2 or 4 {{Cost | D}}
+|- id="Confetti Cousin"
+| style="text-align: center;"| {{Spirit Item| Confetti Cousin | hair_real | table }}
+| {{Spirit Item| Confetti Cousin | Hair | table | sort=48 }}
+| {{Avail Summary | season | spirit=Confetti Cousin | season=Belonging }}
+| {{Cost | 42 C }}
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Sparkler Parent"
+| style="text-align: center;"| {{Spirit Item| Sparkler Parent | hair_real | table }}
+| {{Spirit Item| Sparkler Parent | Hair | table | sort=49 }}
+| {{Avail Summary | season | spirit=Sparkler Parent | season=Belonging }}
+| {{Cost | 34 C }}
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Bearhug Hermit"
+| style="text-align: center;"| {{Spirit Item| Bearhug Hermit | hair_real | table }}
+| {{Spirit Item| Bearhug Hermit | Hair | table | sort=72 }}
+| {{Avail Summary | season | spirit=Bearhug Hermit | season=Dreams }}
+| {{Cost | 50 C }}
+| 2
+| 1 or 2 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="Dancing Performer"
+| style="text-align: center;"| {{Spirit Item|  Dancing Performer | hair_real | table }}
+| {{Spirit Item| Dancing Performer | Hair | table | sort=71 }}
+| {{Avail Summary | season | spirit=Dancing Performer | season=Dreams }}
+| {{Cost | 45 C }}
+| 1
+| 2 or 4 {{Cost | D}}
+|- id="Spinning Mentor"
+| style="text-align: center;"| {{Spirit Item| Spinning Mentor | hair_real | table }}
+| {{Spirit Item| Spinning Mentor | Hair | table | sort=70 }}
+| {{Avail Summary | season | spirit=Spinning Mentor | season=Dreams }}
+| {{Cost | 44 C }}
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Assembly Ultimate Hair"
+| style="text-align: center;"| {{Spirit Item| Assembly Guide | hair_u_real | link=Assembly_Guide#Assembly_Ultimate_Hair | table }}
+| {{Spirit Item| Assembly Guide | hair_u | link=Assembly_Guide#Assembly_Ultimate_Hair | table | sort=78 }}
+| {{Avail Summary | ultimate | season=Assembly }}
+| {{Cost | N/A }}
+| 2
+| 1 or 2 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="Daydream Forester"
+| style="text-align: center;"| {{Spirit Item| Daydream Forester | hair_real | table }}
+| {{Spirit Item| Daydream Forester | Hair | table | sort=77 }}
+| {{Avail Summary | season | spirit=Daydream Forester | season=Assembly }}
+| {{Cost | 44 C }}
+| 1
+| 2 or 4 {{Cost | D}}
+|- id="Marching Adventurer"
+| style="text-align: center;"| {{Spirit Item| Marching Adventurer | hair_real | table }}
+| {{Spirit Item| Marching Adventurer | Hair | table | sort=76 }}
+| {{Avail Summary | season | spirit=Marching Adventurer | season=Assembly }}
+| {{Cost |45 C }}
+| 2
+| 1 or 2 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="Scolding Student"
+| style="text-align: center;"| {{Spirit Item|  Scolding Student | hair_real | table }}
+| {{Spirit Item| Scolding Student | Hair | table | sort=74 }}
+| {{Avail Summary | season | spirit=Scolding Student | season=Assembly }}
+| {{Cost |50 C }}
+| 1
+| 2 or 4 {{Cost | D}}
+|- id="Scaredy Cadet"
+| style="text-align: center;"| {{Spirit Item| Scaredy Cadet | hair_real | table }}
+| {{Spirit Item| Scaredy Cadet | Hair | table | sort=75 }}
+| {{Avail Summary | season | spirit=Scaredy Cadet | season=Assembly }}
+| {{Cost |45 C }}
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Talented Builder"
+| style="text-align: center;"| {{Spirit Item| Talented Builder | hair_real | table }}
+| {{Spirit Item| Talented Builder | Hair | table | sort=88 }}
+| {{Avail Summary | season | spirit=Talented Builder | season=Flight }}
+| {{Cost | 45 C }}
+| 1
+| 2 or 4 {{Cost | D}}
+|- id="Tinkering Chimesmith"
+| style="text-align: center;"| {{Spirit Item| Tinkering Chimesmith | hair_real | table }}
+| {{Spirit Item| Tinkering Chimesmith | Hair | table | sort=87 }}
+| {{Avail Summary | season | spirit=Tinkering Chimesmith | season=Flight }}
+| {{Cost |45 C }}
+| 1
+| 2 or 4 {{Cost | D}}
+|- id="Light Whisperer"
+| style="text-align: center;"| {{Spirit Item| Light Whisperer | hair_real | table }}
+| {{Spirit Item| Light Whisperer | Hair | table | sort=86 }}
+| {{Avail Summary | season | spirit=Light Whisperer | season=Flight }}
+| {{Cost | 50 C }}
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Lively Navigator"
+| style="text-align: center;"| {{Spirit Item| Lively Navigator | hair_real | table }}
+| {{Spirit Item| Lively Navigator | Hair | table | sort=85 }}
+| {{Avail Summary | season | spirit=Lively Navigator | season=Flight }}
+| {{Cost | 55 C }}
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Anxious Angler"
+| style="text-align: center;"| {{Spirit Item| Anxious Angler | hair_real | table }}
+| {{Spirit Item| Anxious Angler | Hair | table | sort=89 }}
+| {{Avail Summary | season | spirit=Anxious Angler | season=Abyss }}
+| {{Cost | 45 C }}
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Modest Dancer"
+| style="text-align: center;"| {{Spirit Item| Modest Dancer | hair_real | table }}
+| {{Spirit Item| Modest Dancer | Hair | table | sort=95 }}
+| {{Avail Summary | season | spirit=Modest Dancer | season=Performance }}
+| {{Cost | 40 C}}
+| 1
+| 2 or 4 {{Cost | D}}
+|- id="Frantic Stagehand"
+| style="text-align: center;"| {{Spirit Item| Frantic Stagehand | hair_real | table }}
+| {{Spirit Item| Frantic Stagehand | Hair | table | sort=92 }}
+| {{Avail Summary | season | spirit=Frantic Stagehand | season=Performance }}
+| {{Cost | 48 C }}
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Forgetful Storyteller"
+| style="text-align: center;"| {{Spirit Item| Forgetful Storyteller | hair_real | table }}
+| {{Spirit Item| Forgetful Storyteller | Hair | table | sort=93 }}
+| {{Avail Summary | season | spirit=Forgetful Storyteller | season=Performance }}
+| {{Cost | 44 C }}
+| 2
+| 2 or 4 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="Mellow Musician"
+| style="text-align: center;"| {{Spirit Item| Mellow Musician | hair_real | table }}
+| {{Spirit Item| Mellow Musician | Hair | table | sort=94 }}
+| {{Avail Summary | season | spirit=Mellow Musician | season=Performance }}
+| {{Cost | 42 C }}
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Pleading Child"
+| style="text-align: center;"| {{Spirit Item| Pleading Child | hair_real | table }}
+| {{Spirit Item| Pleading Child | hair | table | sort=107 }}
+| {{Avail Summary | season | spirit=Pleading Child | season=Remembrance }}
+| {{Cost | 60 C}}
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Tiptoeing Tea-Brewer"
+| style="text-align: center;"| {{Spirit Item| Tiptoeing Tea-Brewer | hair_real | table }}
+| {{Spirit Item| Tiptoeing Tea-Brewer | hair | table | sort=108 }}
+| {{Avail Summary | season | spirit=Tiptoeing Tea-Brewer | season=Remembrance }}
+| {{Cost | 40 C }}
+| 1
+| 2 or 4 {{Cost | D}}
+|- id="Tumbling Troublemaker"
+| style="text-align: center;"| {{Spirit Item| Tumbling Troublemaker | hair_real | table }}
+| {{Spirit Item| Tumbling Troublemaker | hair | table | sort=110 }}
+| {{Avail Summary | season | spirit=Tumbling Troublemaker | season=Passage }}
+| {{Cost | 40 C }}
+| 1
+| 2 or 4 {{Cost | D}}
+|- id="Overactive Overachiever"
+| style="text-align: center;"| {{Spirit Item| Overactive Overachiever | hair_real | table }}
+| {{Spirit Item| Overactive Overachiever | hair | table | sort=112 }}
+| {{Avail Summary | season | spirit=Overactive Overachiever | season=Passage }}
+| {{Cost | unknown }}
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Ascetic Monk"
+| style="text-align: center;"| {{Spirit Item| Ascetic Monk | hair_real | table }}
+| {{Spirit Item|  Ascetic Monk | hair | table | sort=114 }}
+| {{Avail Summary | season | spirit= Ascetic Monk | season=Moments }}
+| {{Cost | ? }}
+| 1
+| 2 or 4 {{Cost | D}}
+|- id="Jolly Geologist"
+| style="text-align: center;"| {{Spirit Item| Jolly Geologist | hair_real | table }}
+| {{Spirit Item| Jolly Geologist | hair | table | sort=115 }}
+| {{Avail Summary | season | spirit=Jolly Geologist | season=Moments }}
+| {{Cost | 48 C }}
+| 2
+| 3 or 6 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="Radiance Greeting Shaman"
+| style="text-align: center;"| {{Spirit Item| Radiance Greeting Shaman | hair_real | table }}
+| {{Spirit Item | Radiance Greeting Shaman | hair | table | sort=130 }}
+| {{Avail Summary | season | spirit=Radiance Greeting Shaman | season=Radiance }}
+| {{Cost | ? }}
+| 1
+| 2 or 4 {{Cost | D}}
+|- id="Costumed Confetti Cousin"
+| style="text-align: center;"| {{Spirit Item| Costumed Confetti Cousin | hair_real | table }}
+| {{Spirit Item | Costumed Confetti Cousin | hair | table | sort=131 }}
+| {{Avail Summary | season | spirit=Costumed Confetti Cousin | season=Blue Bird }}
+| {{Cost | ? }}
+| 1
+| 2 or 4 {{Cost | D}}
+|- id="Tender Toymaker"
+| style="text-align: center;"| {{Spirit Item| Tender Toymaker | hair_real | table }}
+| {{Spirit Item | Tender Toymaker | hair | table | sort=131 }}
+| {{Avail Summary | season | spirit=Tender Toymaker | season=Two Embers - Part 1 }}
+| {{Cost | 30 SC | season=Two Embers - Part 1 }}
+| 2
+| 3 or 6 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="Days of Fortune Wool Hat"
+| style="text-align: center;"| {{Days Item| Days of Fortune Wool Hat | real | table }}
+| {{Days Item| Days of Fortune Wool Hat | icon | table }}
+| {{Avail Summary | days | days=Fortune }}
+| {{Cost| 9.99 USD }}
+| 1
+| 2 or 4 {{Cost | D}}
+|- id="Days of Fortune Fish Pack"
+| style="text-align: center;"| {{Days Item| Fortune Fish Hood | real | table }}
+| {{Days Item| Fortune Fish Hood | icon | table }}
+| {{Avail Summary | days | days=Fortune }}
+| {{Cost| 19.99 USD }}<ref name="fortune_fish_pack">The $19.99 cost of the Days of Fortune Fish Pack includes 2 cosmetics (a Cape and a Hood).</ref>
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Bloom Rose Braided Hair"
+| style="text-align: center;"| {{Days Item| Bloom Rose Braided Hair | real | table }}
+| {{Days Item | Bloom Rose Braided Hair | hair | table | sort=130 }}
+| {{Avail Summary | days | days=bloom }}
+| {{Cost | ? }}
+| 2
+| 1 or 2 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="Rainbow Head Wrap"
+| style="text-align: center;"| {{Days Item| Rainbow Head Wrap | real | table }}
+| {{Days Item | Rainbow Head Wrap | hair | table | sort=130 }}
+| {{Avail Summary | days | days=Color }}
+| {{Cost | ? }}
+| 2
+| 1 or 2 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="Harmony Hall Marching Band Hat"
+| style="text-align: center;"| {{Days Item| Harmony Hall Marching Band Hat | real | table }}
+| {{Days Item| Harmony Hall Marching Band Hat | icon | table }}
+| {{Avail Summary | days | days=Music }}
+| {{Cost| 55 C}}
+| 1
+| 2 or 4 {{Cost | D}}
+|- id="Feast Hat"
+| style="text-align: center;"| {{Days Item| Feast Hat | real | table }}
+| {{Days Item| Feast Hat | icon | table }}
+| {{Avail Summary | days | days=Feast }}
+| {{Cost| 6.99 USD }}
+| 1
+| 2 or 4 {{Cost | D}}
+|- id="Winter Feast Hat"
+| style="text-align: center;"| {{Days Item| Winter Feast Hat | real | table }}
+| {{Days Item| Winter Feast Hat | icon | table }}
+| {{Avail Summary | days | days=Feast }}
+| {{Cost| 20 H }}
+| 1
+| 3 or 6 {{Cost | D}}
+|- id="Days of Fortune Snake Coif"
+| style="text-align: center;"| {{Days Item| Fortune Snake Coif | real | link=Days_of_Fortune#Fortune_Snake_Coif_and_Cloak | table }}
+| {{Days Item| Fortune Snake Coif | icon | link=Days_of_Fortune#Fortune_Snake_Coif_and_Cloak | table }}
+| {{Avail Summary | days | days=Fortune }}
+| {{Cost| 19.99 USD }}<ref name="Fortune_Snake_Coif_and_Cloak">The $19.99 cost of the Fortune Snake Coif and Cloak includes 2 cosmetics (a Cape and a Hair).</ref>
+| 1
+| 3 or 6 {{Cost | D}}
+|}
+<section end="Table" />
+{{Avail Legend
+| regular 
+| permanent 
+| s+ 
+| u+ 
+| t* 
+| r*
+| d*
+| l*
+| days 
+| season 
+| ultimate 
+| limited 
+| conditional 
+}}
+
+[[fr:Tous les Cosmétiques Teintables/Tous les Cheveux Teintables]]
+[[ja:染色価格表/ヘアスタイル染料価格表]]

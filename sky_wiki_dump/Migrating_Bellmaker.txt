@@ -1,0 +1,160 @@
+
+{{WIP|pagetype = spirit}}
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Call
+|image     = Migrating-Bellmaker-cutout.png
+|cosmetics = {{Spirit Item|Migrating Bellmaker|Hair|infobox}}<!--
+-->{{Spirit Item|Migrating Bellmaker|Cape|infobox}} 
+|music     = {{Music Sheet|#}}
+|season    = Season of Migration
+|realm     = Forest
+|location  = Wind Paths
+|ts        = None
+}}
+<section begin="Summary" />The Migrating Bellmaker is a [[Seasonal Spirit]] from the [[Season of Migration]] who offers the {{Emote|Migrating Bellmaker|inline_text}} The Migrating Bellmaker is found in the Hidden Forest, (Describe where to find the spirit). The collectibles [[#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Migrating Bellmaker|Hair|inline_text}}, a {{Spirit Item|Migrating Bellmaker|Cape|inline_text}}, and the {{Music Sheet|#|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Migration-Ultimate-Guide-TGC-promo-image.png|none|thumb|320px|TGC's Promo image]]<!--
+
+== Memory ==
+<!--<div>{{#ev:youtube|YoutubeID|200px|inline|Video Guide}}-- >
+
+The Migrating Bellmaker can be found <describe location>. This Spirit is a [[Standard Memory|standard memory]] quest with <number> memory fragments. 
+
+As their memory unfolds, the Spirit(s) is/are seen <describe other spirits in memory>.
+
+At the end of the memory, <describe how spirit uses the emote>.
+</div>
+{{Clear}}
+-->
+== <span id="Expression">Call</span> ==
+This Spirit offers the {{Emote|Migrating Bellmaker|inline_text}}, which modifies the player's voice to a distorted, rippling voice.
+
+[[File:{{Icon Name|Migrating Bellmaker|emote}}|x170px|left]]
+<!--[[File:Migrating-Bellmaker-call-emote.mp4|300px]]-->
+{{Clear}}
+
+==Cosmetics==
+===<span id="Hair">Hair</span>===
+The [[Hair]] offered by this Spirit is a voluminous medium-length hair with a cloth headband and small side braid. The headband rests on the forehead and has a squared-off chevron pattern. <!--description by Ozotronic-->It is offered to all players for {{Cost|23 SC|season=Season of Migration}} during the Season.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Migrating Bellmaker|Hair|icon}} {{!}} The Hair icon
+{{Icon Name|Migrating Bellmaker|Hair|real}} {{!}} The Hair 
+{{Icon Name|Migrating Bellmaker|Hair|side}} {{!}} The Hair side
+{{Icon Name|Migrating Bellmaker|Hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Head accessory">Head Accessory</span>===
+The [[Head Accessory]] offered by this Spirit are a pair of round, brown glasses. The front of the arms have small diamond decorations. <!--description by Ozotronic-->It is a [[Season Pass]] exclusive item during the Season.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Migrating Bellmaker|Headpiece|icon}} {{!}} The Head accessory icon
+{{Icon Name|Migrating Bellmaker|Headpiece|real}} {{!}} The Head accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Cape">Cape</span>===
+The [[Cape]] offered by this Spirit is a thick fur-trimmed cape with multi-colored segments. The orange-red underlayer has a wavy shape that droops at the front, hemmed in a yellow squared-off zig zag. The blue upper layer draws down at the neck, and forms a thick tail at the back. The fluffy collar is tipped in golden, bell-shaped ornaments. <!--description by Ozotronic-->It is offered to all players for {{Cost|36 SC|season=Season of Migration}} during the Season.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Migrating Bellmaker|Cape|icon}} {{!}} The Cape icon
+{{Icon Name|Migrating Bellmaker|Cape|front}} {{!}} The Cape front
+{{Icon Name|Migrating Bellmaker|Cape|interior}} {{!}} The Cape interior
+{{Icon Name|Migrating Bellmaker|Cape|back}} {{!}} The Cape back
+{{Icon Name|Migrating Bellmaker|Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+==<span id="Music">Music Sheet</span>==
+The Migrating Bellmaker offers the {{Music Sheet|45}} [[Music Sheet]] #45. It is offered to all players for {{Cost|17 SC|season=Season of Migration}} during the Season.
+
+<!--   ONLY APPLICABLE ONCE SPIRIT HAS BECOME A TRAVELING SPIRIT 
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling
+|ts_dates=*June 19, 2019 (#01)
+*June 19, 2020 (#02)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Migrating Bellmaker
+|image = 
+|season = Migration
+
+|nodeC6 = Outfit 60 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Mask 30 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+The hints given before the Migrating Bellmaker's first appearance were: 
+{{Collapse
+|label=First Visit Hints
+|content=<div>
+*  [ hints can be on the official Sky Discord which are posted a few days before the traveling spirit by staff of thatgamecompany. ]
+</div>
+}}
+
+-->
+<!--   USE VARIABLES TO CONSTRUCT FRIENDSHIP TREE
+Cosmetics: Outfit Cape Hair Hairpiece Headpiece Facepiece Mask Necklace Outfit Shoes Instrument Prop 
+Expressions; emote emote1 emote2 emote3 emote4 
+Cost: SP for Season Pass, SC for Season Candles, C for Candle, H for Heart, free for Free
+Other: spell5 spellx heart season_heart #Quest #1 
+-->
+==Season Friendship Tree ==
+{{Friendship Tree Info | season| season=Season of Migration}}<br><br>
+{{Mbox
+|type=moderate
+|header=New Friendship Tree System
+|image=Reassuring-Ranger-Action-icon-Credit-Morybel.png
+|text=With the Season of Migration, TGC introduced a [https://www.thatskygame.com/news/the-season-of-migration-is-upon-us new Friendship Tree system]; instead of unlocking items through a single linear path, players can now spend time with Spirits to build Friendship. '''A template to display this new system on the Spirit pages is in the works and will be added soon.''' Thank you for your patience!
+}}
+
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Migrating Bellmaker
+|image  = Migrating-Bellmaker-cutout.png
+|type   = season
+|season = Season of Migration
+|friendship_update = 1
+
+|nodeR6 = season_heart 3 SC SP
+
+|nodeR5 = 
+
+|nodeL4 = cape 36 SC
+|nodeC4 = relationship
+|nodeR4 = spellx SP
+
+|nodeL3 = blue_dye 9 SC
+|nodeC3 = spellx 6 SC
+|nodeR3 = head_accessory SP
+
+|nodeL2 = hair 23 SC
+|nodeC2 = spellx 4 SC
+|nodeR2 = random_dye SP
+
+|nodeL1 = emote
+|nodeC1 = music45 17 SC
+|nodeR1 = follow
+}}<section end="Season Friendship Tree" />
+
+==Personality==
+On October 19, 2025, TGC officially announced and introduced the Migrating Bellmaker with the following personality traits:
+
+*🌬️ Converses with the wind as if it’s an old friend
+*😶 Trusts silence more than speech
+*🎶 Loves to whistle while tending to the herd
+*🪨 Carves secret maps onto stones for fun
+
+==References==
+<references/>
+
+[[pt-br:Comunicador da Migração]]

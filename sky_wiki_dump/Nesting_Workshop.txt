@@ -1,0 +1,969 @@
+{{Location
+|image      = Aviary-Village-Nesting-Cosmetics-Shop-Entrance.png
+|realm      = Aviary Village
+|access     = [[Aviary Village]]
+|season     = Nesting
+|seasonal_spirits  = None
+|children_of_light = 0
+|pieces_of_light   = 0
+|map        = 
+|mapcaption = 
+}}
+The '''Nesting Workshop''' is a Seasonal Area added to [[Aviary Village]], introduced along with the [[Season of Nesting]] in Patch {{v|0.25.0}}. It is the second shop on the right side of the shop alley and is run by the [[Nesting Guide]], marked by a sign outside with the Season's emblem. Inside, players are able to purchase the [[Season of Nesting#All Nesting Friendship Trees|Season of Nesting's cosmetics]] from special display stands. Players can also purchase a rotating selection of permanent furniture from the main counter of the Nesting Workshop. Lastly, players can access [[#Nesting Challenges|Nesting Challenges]] here once they start the [[Season of Nesting#Quest #3|third Seasonal Quest]] from Season of Nesting.<br>
+<br>
+<gallery widths="300px" spacing="small" captionalign="center"> 
+Aviary-Village-Nesting-Workshop-Inside.png|Nesting Workshop Front Counter
+Nesting-Cosmetics-Shop.png|Nesting Workshop interior
+</gallery>
+
+==Nesting Challenges==
+[[File:Nesting-Challenge-Board.png|thumb|right|300px|Nesting Challenge Board]]
+Nesting Challenges are a permanent addition to ''Sky'' and can be accessed once you start the [[Season of Nesting#Quest# 3|third Seasonal Quest]] from [[Season of Nesting]]. There are three categories of challenges displayed on a board in the Nesting Workshop, each with their own Friendship Tree and rewards. Once all challenges in a Tree are completed, a unique interactive item becomes available to unlock for in-game currency.
+
+Some challenges are focused on the player's [[Season of Nesting#Nest|Nest]], while others can be done out in the [[Realms]]. These are entirely separate from the Season, so they can be completed over time as you play the game in your style and on your own schedule!<br>
+<br>
+{{Mobile Tabber
+|tab1 = {{Icon|Nesting-Challenge-Board-Workshop.png|tab|link=Nesting Workshop#Nesting Challenges: Workshop}}
+|c1   = {{Friendship Tree
+|label = Nesting Challenges: Workshop
+
+|nodeC4 = {{Icon Name|Nesting Stone Furniture|prop_r|icon}} 66 AC
+|  linkC4 = Nesting Workshop#Music Player
+|  labelC4 = Music Player
+
+|nodeR3 = Shared-Space-Icon-Credit-Ed.PNG free
+|  linkR3 = Shared Spaces#Shared Space Spells
+|  labelR3 = Shared Space Spell
+|nodeL3 = Heart free
+|nodeC3 = quest
+|  linkC3 = Nesting Workshop#Nesting Challenges: Workshop
+|  labelC3 = Obtain 15 Props from the Nesting Workshop.
+
+|nodeR2 = Shared-Space-Icon-Credit-Ed.PNG free
+|  linkR2 = Shared Spaces#Shared Space Spells
+|  labelR2 = Shared Space Spell
+|nodeL2 = Heart free
+|nodeC2 = quest
+|  linkC2 = Nesting Workshop#Nesting Challenges: Workshop
+|  labelC2 = Publish 15 Shared Space Spells.
+
+|nodeR1 = Shared-Space-Icon-Credit-Ed.PNG free
+|  linkR1 = Shared Spaces#Shared Space Spells
+|  labelR1 = Shared Space Spell
+|nodeL1 = Heart free
+|nodeC1 = quest
+|  linkC1 = Nesting Workshop#Nesting Challenges: Workshop
+|  labelC1 = Obtain 3 Props from the Nesting Workshop.
+}}
+
+|tab2 = {{Icon|Nesting-Challenge-Board-Nest.png|tab|link=Nesting Workshop#Nesting Challenges: Nest}}
+|c2   = {{Friendship Tree
+|label  = Nesting Challenges: Nest
+
+|nodeC4 = {{Icon Name|Nesting Stone Furniture|prop_q|icon}} 99 AC
+|  linkC4 = Nesting Workshop#Stone Figurine
+|  labelC4 = Stone Figurine
+
+|nodeR3 = trail_spell free
+|nodeL3 = Heart free
+|nodeC3 = quest
+|  linkC3 = Nesting Workshop#Nesting Challenges: Nest
+|  labelC3 = Watch 30 sunsets from your Nest.
+
+|nodeL2 = Heart free
+|nodeC2 = quest
+|  linkC2 = Nesting Workshop#Nesting Challenges: Nest
+|  labelC2 = Use the Moments Guide's camera to take 5 pictures in your Nest.
+
+|nodeL1 = Heart free
+|nodeC1 = quest
+|  linkC1 = Nesting Workshop#Nesting Challenges: Nest
+|  labelC1 = Place 5 Props in your Nest.
+}}
+
+|tab3 = {{Icon|Nesting-Challenge-Board-Friends.png|tab|link=Nesting Workshop#Nesting Challenges: Friends}}
+|c3   = {{Friendship Tree
+|label  = Nesting Challenges: Friends
+
+|nodeC4 = {{Icon Name|Nesting Stone Furniture|prop_i|icon}} 33 AC
+|  linkC4 = Nesting Workshop#Instrument Stand
+|  labelC4 = Instrument Stand
+
+|nodeR3 = trail_spell free
+|nodeL3 = Heart free
+|nodeC3 = quest
+|  linkC3 = Nesting Workshop#Nesting Challenges: Friends
+|  labelC3 = View 0/50 Shared Spaces at the Shrines.
+
+|nodeL2 = Heart free
+|nodeC2 = quest
+|  linkC2 = Nesting Workshop#Nesting Challenges: Friends
+|  labelC2 = Attend a 5-person house party.
+
+|nodeL1 = Heart free
+|nodeC1 = quest
+|  linkC1 = Nesting Workshop#Nesting Challenges: Friends
+|  labelC1 = High five a friend in your Nest.
+}}
+}}
+===Nesting Challenges: Workshop===
+[[File:Nesting-Challenge-Board-Workshop.png|thumb|right|x150px]]
+The first category of challenges is centered around the Nesting Workshop. Its Friendship Tree is found by interacting with the gift box icon on the Challenge Board. The final reward for completing these challenges is a {{Spirit Item|Nesting Stone Furniture|prop_r|inline_text|link=#Music Player}}.<br>
+<br>
+{| class="article-table"
+! #
+! style="text-align:center;"| Challenge
+! style="text-align:center;"| Notes
+|-
+| 1 
+| Obtain 3 [[Props]] from the Nesting Workshop.
+| Props obtained from any source other than the [[#Nesting Workshop Props|Nesting Workshop]]'s front counter do not count. Any purchases made before starting this challenge will, however, count towards the progression.
+|-
+| 2
+| Publish 15 [[Shared Spaces#Shared Space Spells|Shared Space Spells]].
+| Using a [[Shared Spaces#Shared Space Shrines|Shared Space Shrine]] (including the [[Season of Nesting#Nest|Nest's]]) to create a [[Shared Space]] '''does not''' count towards progression. 
+|-
+| 3 
+| Obtain 15 [[Props]] from the Nesting Workshop.
+| Props obtained from any source other than the [[#Nesting Workshop Props|Nesting Workshop]]'s front counter do not count. Any purchases made before starting this challenge will, however, count towards the progression.
+|}
+
+===Nesting Challenges: Nest===
+[[File:Nesting-Challenge-Board-Nest.png|thumb|right|x150px]]
+The second category of challenges is centered around the [[Season of Nesting#Nest|Nest]]. Its Friendship Tree is found by interacting with the hammer icon on the Challenge Board. The final reward for completing these challenges is a {{Spirit Item|Nesting Stone Furniture|prop_q|inline_text|link=#Stone Figurine}}.<br>
+<br>
+{| class="article-table"
+! #
+! style="text-align:center;"| Challenge
+! style="text-align:center;"| Notes
+|-
+| 1 
+| Place 5 [[Props]] in your Nest.
+| Decorate your Nest with any 5 Props using its special [[Shared Spaces|Shared Space Shrine]]. Placing multiple copies of the same item will count towards the progression. 
+|-
+| 2
+| Use the [[Moments Guide]]'s camera to take 5 pictures in your Nest.
+| Standard in-game screenshots do not count; the {{Spirit Item|Moments Guide|prop|link=Moments Guide#Camera Prop|label=Camera Prop|inline_text}} must be used. 
+|-
+| 3
+| Watch 30 sunsets from your Nest.
+| Visit your Nest [[Aviary Village#Day/Night Cycle|during sunset]] in Aviary Village. This challenge can be completed during a single sunset by repeatedly entering and exiting your Nest.
+|}
+
+===Nesting Challenges: Friends===
+[[File:Nesting-Challenge-Board-Friends.png|thumb|right|x150px]]
+The third category of challenges is centered around interactions with other players. Its Friendship Tree is found by interacting with the two-player icon on the Challenge Board. The final reward for completing these challenges is an {{Spirit Item|Nesting Stone Furniture|prop_i|inline_text|link=#Instrument Stand}}.<br>
+<br>
+{| class="article-table"
+! #
+! style="text-align:center;"| Challenge
+! style="text-align:center;"| Notes
+|-
+| 1 
+| High five a friend in your Nest.
+| The player must {{Icon|Icon_high_five.png|link=Friendship Menu#High Five|label=High-Five|inline_text}} a friend while inside the Nest.<!--Need to test if Double-Five also counts--> This challenge can be completed by High-Fiving while in your own Nest ''or'' in the Nest of a friend.
+|-
+| 2
+| Attend a 5-person house party.
+| Visit any [[Season of Nesting#Nest|Nest]] as a group of 5 or more people. The player is included in the 5-person requirement. The [[Season of Nesting#Quest #5|fifth Seasonal Quest]] from Season of Nesting can be used to complete this challenge.
+|-
+| 3
+| View 50 Shared Spaces at the Shrines.
+| Viewing [[Shared Spaces#Shared Space Spells|Shared Space Spells]] do not count; players must view Shared Spaces at the [[Shared Spaces#Shared Space Shrines|Shrines]].
+|}
+
+==Nesting Challenges Final Rewards==
+===Stone Figurine===
+The Stone Figurine is a limbless mannequin made of stone. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]]. When placed down, the figurine is displayed wearing a copy of any [[Face Accessories]], [[Hairstyles]], [[Hair Accessories]], [[Neck Accessories]], and [[Capes]] that the player currently has equipped. Unlike the [[Nesting Guide#Nesting Ultimate Prop|Nesting Ultimate Prop]], this item is purely decorative and '''does not''' allow players to copy and wear the displayed outfit. When carried on its owner's back, the Prop appears as only the head and torso of the mannequin. It is offered to all players for {{Cost|99 AC}} from the Nesting Challenge Board after completing all challenges in the [[#Nesting Challenges: Nest|second category]].<br> 
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Furniture|prop_q|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Furniture|prop_q|real}} {{!}} The Prop displaying the Base Cape and Hair
+{{Icon Name|Nesting Stone Furniture|prop_q|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Instrument Stand===
+<section begin="Instrument Stand" />
+The Instrument Stand is a small, pale diamond that sits below a displayed [[Instrument]]. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]]. When placed down, the player is prompted to select an Instrument from their [[Closet]] to be displayed, which allows anyone in the area to play the Instrument that has been set out. Note that the {{Spirit Item|Ancient Darkness|prop|label=Dark Horn Prop|inline_text}} and other non-Instrument [[Props#Held Props Display|held Props]] cannot be displayed on this stand. If the player owns no Instrument, they will be unable to place the Prop down. When carried on its owner's back, the Prop appears as a large gray box decorated with a treble clef and held shut with two yellow bands. It is offered to all players for {{Cost|33 AC}} from the Nesting Challenge Board after completing all challenges in the [[#Nesting Challenges: Friends|third category]].<br> 
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Furniture|prop_i|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Furniture|prop_i|real}} {{!}} The Prop displaying the Harp
+{{Icon Name|Nesting Stone Furniture|prop_i|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}<section end="Instrument Stand" />
+
+===Music Player===
+The Music Player is a phonograph, appearing as a white conch shell sitting on top of a stone platform with a crank handle. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]]. When placed down, it can play various [[Original Sound Track|pieces of music]] that are in the game. There are several “channels” that have their own musical themes. When carried on its owner's back, the Prop appears in its original form. It is offered to all players for {{Cost|66 AC}} from the Nesting Challenge Board after completing all challenges in the [[#Nesting Challenges: Workshop|first category]].<br> 
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Furniture|prop_r|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Furniture|prop_r|real}} {{!}} The Prop
+{{Icon Name|Nesting Stone Furniture|prop_r|back}} {{!}} The Prop on a player's back
+Music-Player-Prop-Menu.png {{!}} The Prop menu
+|widths=125|captionalign=center|spacing=small
+}}
+
+==<span id="Prop">Nesting Workshop Props</span>==
+A rotating selection of over 50 stone [[Props]] are '''permanently available''' in the Nesting Workshop for in-game currency, with a set of four different items offered each week. These items rotate every Monday at 00:00 PST/PDT. The [[Season of Nesting#Quest #1|first Seasonal Quest]] from [[Season of Nesting]] must be completed in order to unlock this shop. Once unlocked, these Props can be purchased by clicking the {{Icon|Meditating-Monastic-3.png}} chair icon found on the front counter at the center of the room. 
+
+A display of the Props currently on sale can be found directly across from the front counter, along the wall where the entrance to the Nesting Workshop is located. Any of the currently available items that feature a unique interaction, such as sitting or drinking, can be tested on the displayed Props.
+
+The table below lists all the Props available from the Nesting Workshop and the order they appear, alongside their price and the number of individual copies<ref name="prop_copies">When the Nesting Workshop was first introduced, Props could only be purchased in sets, meaning players would by default buy multiple copies of a single Prop to use in [[Shared Spaces]]. Starting in Patch {{v|0.27.0|0.27.0}}, the Nesting Workshop now sells Props as individual items at lower prices, allowing players to decide if they would like to spend more to buy additional copies.</ref> that can be purchased for each Prop. Once a Prop has been purchased from the Nesting Workshop, it's also possible to buy additional copies of it while editing a [[Shared Space]]. When you’ve placed all the copies you currently have of that Prop, a “+” symbol will appear on its icon if additional copies can be purchased. 
+
+===Permanent Items===
+The '''Permanent Items''' a new section for permanent offerings in addition to a rotating items section. It was introduced in Patch {{v|0.27.5}} and makes it possible to unlock certain Nest essentials without having to wait for their rotation to come around. It includes 7 [[Props]] and a [[Shared Spaces#Shared Space Spells|Shared Space Spell]].
+
+Week 1 started on the first day of the [[Season of Nesting]] on Monday, April 15, 2024.
+<!-- Calculate ID based on number of weeks passed since 15/04/2024, with 13 weeks per rotation -->
+{{#vardefine:featured_rotation_id
+| {{#expr:{{Game Stat|datediff|from=2024-04-15 PST}} / 7 mod 13 + 1}}
+}} {{#if: {{CURRENTDAY}} }} <!--hidden string to reduce cache expiry-->
+{| class="article-table mw-collapsible" width: 80%"
+! style="text-align:center" colspan="11" | Props Rotation
+|-
+! style="text-align:center;" colspan="11" | Permanent Items
+|-
+| {{Spirit Item|Nesting Stone Seating| prop_d| table | link=#Stone Single Bench }}<br>{{Cost| 8 C }}<sup>(×1)</sup>
+| {{Spirit Item|Nesting Stone Seating|prop_a| table | link=#Stone Armchair }}<br>{{Cost| 10 H }}<sup>(×1)</sup>
+| {{Spirit Item|Nesting Stone Kitchen|prop_w| table | link=#Stone Wall Shelf }}<br>{{Cost| 10 C }}<sup>(×1)</sup> <ref name="shelf_discount">During the week of September 30, 2024, the {{Spirit Item|Nesting Stone Kitchen|prop_w| inline_text|link=#Stone Wall Shelf }} was priced incorrectly at {{Cost| 10 C }} for the full set of 3 copies, instead of the usual {{Cost| 30 C }}. Players who purchased this item at the incorrect price had the extra 2 copies removed from their inventory and received {{Cost| 10 C }} as compensation for this error.</ref>
+| {{Spirit Item|Nesting Stone Furniture|prop_w| table | link=#Stone Wide Cube }}<br>{{Cost| 10 C }}<sup>(×1)</sup>
+| {{Spirit Item|Nesting Stone Room| prop_b| table | link=#Stone Single Bed }}<br>{{Cost| 24 H }}<sup>(×1)</sup>
+| {{Spirit Item|Nesting Decor Set|prop_n| table | link=#Small Semicircle Rug }}<br>{{Cost| 23 C }}<sup>(×1)</sup>
+| {{Spirit Item|Nesting Stone Furniture|prop_a| table | link=#Mask Hanger }}<br>{{Cost| 33 AC }}<sup>(×1)</sup>
+| {{Icon|Shared Space Spell Icon Credit Ed.png|table|link=Shared Spaces#Shared Space Spells}}<br>{{Cost| 5 C }}<sup>(×1)</sup>
+|
+|
+|
+|-
+! Week
+! style="text-align:center;" colspan="11" | Available Props and Cost
+|-
+| 1 {{#ifeq:{{#var:featured_rotation_id}}|1|'''(current)'''}}
+| {{Spirit Item|Nesting Stone Kitchen| prop_f| table | link=#Stone Wood-Fired Oven }}<br>{{Cost| 35 AC }}<sup>(×1)</sup>
+| {{Spirit Item|Nesting Stone Furniture| prop_t| table | link=#Stone Tall Cube }}<br>{{Cost| 11 C }}<sup>(×8)</sup>
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+| 2 {{#ifeq:{{#var:featured_rotation_id}}|2|'''(current)'''}}
+| {{Spirit Item|Nesting Stone Seating|prop_c| table | link=#Stone Chair }}<br>{{Cost| 16 C }}<sup>(×4)</sup>
+| {{Spirit Item|Nesting Stone Room| prop_t| table | link=#Stone Tall Shelf }}<br>{{Cost| 15 AC }}<sup>(×2)</sup>
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+| 3 {{#ifeq:{{#var:featured_rotation_id}}|3|'''(current)'''}}
+| {{Spirit Item|Nesting Stone Seating|prop_b| table | link=#Stone Bench }}<br>{{Cost| 60 C }}<sup>(×1)</sup>
+| {{Spirit Item|Nesting Stone Table|prop_d| table | link=#Stone Desk }}<br>{{Cost| 50 C }}<sup>(×1)</sup>
+| {{Spirit Item|Nesting Decor Set|prop_t| table | link=#Decor Pillow Two Colors }}<br>{{Cost| 12 C }}<sup>(×4)</sup> <ref name="Price bug" />
+|
+|
+|
+|
+|
+|
+|
+|-
+| 4 {{#ifeq:{{#var:featured_rotation_id}}|4|'''(current)'''}}
+| {{Spirit Item|Nesting Stone Table|prop_t| table | link=#Stone Console Table }}<br>{{Cost| 45 C }}<sup>(×1)</sup>
+| {{Spirit Item|Nesting Decor Set|prop_f| table | link=#Decor Folded Cloth }}<br>{{Cost| 10 C }}<sup>(×4)</sup> <ref name="Price bug" />
+| {{Spirit Item|Nesting Decor Set|prop_l| table | link=#Small Stripes Rug }}<br>{{Cost| 18 C }}<sup>(×2)</sup>
+|
+|
+|
+|
+|
+|
+|
+|-
+| 5 {{#ifeq:{{#var:featured_rotation_id}}|5|'''(current)'''}}
+| {{Spirit Item|Nesting Stone Seating|prop_l| table | link=#Stone Loveseat }}<br>{{Cost| 33 H }} <sup>(×1)</sup>
+| {{Spirit Item|Nesting Stone Table|prop_r| table | link=#Stone Round Dining Table }}<br>{{Cost| 18 H }} <sup>(×1)</sup>
+| {{Spirit Item|Nesting Stone Furniture|prop_p| table | link=#Stone Plant Stand }}<br>{{Cost| 12 H }} <sup>(×2)</sup>
+| {{Spirit Item|Nesting Decor Set|prop_m| table | link=#Small Classic Rug }}<br>{{Cost| 8 H }} <sup>(×2)</sup>
+|
+|
+|
+|
+|
+|
+|-
+| 6 {{#ifeq:{{#var:featured_rotation_id}}|6|'''(current)'''}}
+| {{Spirit Item|Nesting Stone Seating|prop_r| table | link=#Stone Sofa Corner }}<br>{{Cost| 25 C }}<sup>(×1)</sup>
+| {{Spirit Item|Nesting Stone Table|prop_q| table | link=#Stone Square Dining Table }}<br>{{Cost| 23 H }} <sup>(×1)</sup>
+| {{Spirit Item|Nesting Stone Furniture|prop_s| table | link=#Stone Wall Sconce }}<br>{{Cost| 8 AC }}<sup>(×4)</sup>
+| 
+|
+|
+|
+|
+|
+|
+|-
+| 7 {{#ifeq:{{#var:featured_rotation_id}}|7|'''(current)'''}}
+| {{Spirit Item|Nesting Stone Seating|prop_s| table | link=#Stone Sofa Side }}<br>{{Cost| 20 C }}<sup>(×4)</sup>
+| {{Spirit Item|Nesting Stone Table|prop_l| table | link=#Stone Long Dining Table }}<br>{{Cost| 33 H }} <sup>(×1)</sup>
+| {{Spirit Item|Nesting Stone Room|prop_s| table | link=#Stone Small Bathtub }}<br>{{Cost| 25 H }} <sup>(×1)</sup>
+| {{Spirit Item|Nesting Decor Set|prop_o| table | link=#Medium Solid Rug }}<br>{{Cost| 40 C }}<sup>(×1)</sup>
+|
+|
+|
+|
+|
+|
+|-
+| 8 {{#ifeq:{{#var:featured_rotation_id}}|8|'''(current)'''}}
+| {{Spirit Item|Nesting Stone Kitchen|prop_d| table | link=#Stone Kitchen Drawers }}<br>{{Cost| 25 C }}<sup>(×2)</sup>
+| {{Spirit Item|Nesting Stone Table|prop_c| table | link=#Stone Coffee Table }}<br>{{Cost| 28 AC }}<sup>(×1)</sup>
+| {{Spirit Item|Nesting Stone Furniture|prop_l| table | link=#Stone Candle Light }}<br>{{Cost| 16 AC }}<sup>(×2)</sup>
+| {{Spirit Item|Nesting Decor Set|prop_s| table | link=#Medium Stripes Rug }}<br>{{Cost| 50 C }}<sup>(×1)</sup>
+| <!-- {{Spirit Item|Nesting Stone Table|prop_t| table | link=#Stone Console Table }}<br>{{Cost| 45 C }}<sup>(×1)</sup> -->
+| <!-- {{Spirit Item|Nesting Decor Set|prop_f| table | link=#Decor Folded Cloth }}<br>{{Cost| 10 C }}<sup>(×4)</sup> <ref name="Price bug" /> -->
+| <!-- {{Spirit Item|Nesting Decor Set|prop_l| table | link=#Small Stripes Rug }}<br>{{Cost| 18 C }}<sup>(×2)</sup> -->
+|
+|
+|
+|-
+| 9 {{#ifeq:{{#var:featured_rotation_id}}|9|'''(current)'''}}
+| {{Spirit Item|Nesting Stone Kitchen|prop_p| table | link=#Stone Wall Pot Rack }}<br>{{Cost| 25 C }}<sup>(×2)</sup>
+| {{Spirit Item|Nesting Stone Furniture|prop_x| table | link=#Stone Closed Box }}<br>{{Cost| 10 C }}<sup>(×3)</sup>
+| {{Spirit Item|Nesting Stone Room|prop_w| table | link=#Stone Washstand }}<br>{{Cost| 40 C }}<sup>(×1)</sup>
+| {{Spirit Item|Nesting Decor Set|prop_d| table | link=#Medium Diamonds Rug }}<br>{{Cost| 18 H }} <sup>(×1)</sup>
+| <!-- {{Spirit Item|Nesting Stone Seating|prop_l| table | link=#Stone Loveseat }}<br>{{Cost| 33 H }} <sup>(×1)</sup> -->
+| <!-- {{Spirit Item|Nesting Stone Table|prop_r| table | link=#Stone Round Dining Table }}<br>{{Cost| 18 H }} <sup>(×1)</sup> -->
+| <!-- {{Spirit Item|Nesting Stone Furniture|prop_p| table | link=#Stone Plant Stand }}<br>{{Cost| 12 H }} <sup>(×2)</sup> -->
+| <!-- {{Spirit Item|Nesting Decor Set|prop_m| table | link=#Small Classic Rug }}<br>{{Cost| 8 H }} <sup>(×2)</sup> -->
+|
+|
+|-
+| 10 {{#ifeq:{{#var:featured_rotation_id}}|10|'''(current)'''}}
+| {{Spirit Item|Nesting Stone Seating|prop_a| table | link=#Stone Armchair }}<br>{{Cost| 10 H }} <sup>(×2)</sup><br>
+| {{Spirit Item|Nesting Stone Furniture|prop_e| table | link=#Stone Empty Box }}<br>{{Cost| 10 C }}<sup>(×3)</sup>
+| {{Spirit Item|Nesting Stone Furniture|prop_m| table | link=#Stone Wall Mirror }}<br>{{Cost| 30 C }}<sup>(×2)</sup>
+| {{Spirit Item|Nesting Decor Set|prop_a| table | link=#Medium Argyle Rug }}<br>{{Cost| 20 H }} <sup>(×1)</sup>
+| <!-- {{Spirit Item|Nesting Stone Seating|prop_r| table | link=#Stone Sofa Corner }}<br>{{Cost| 25 C }}<sup>(×1)</sup> -->
+| <!-- {{Spirit Item|Nesting Stone Table|prop_q| table | link=#Stone Square Dining Table }}<br>{{Cost| 23 H }} <sup>(×1)</sup> -->
+| <!-- {{Spirit Item|Nesting Stone Furniture|prop_s| table | link=#Stone Wall Sconce }}<br>{{Cost| 8 AC }}<sup>(×4)</sup> -->
+|
+|
+|
+|-
+| 11 {{#ifeq:{{#var:featured_rotation_id}}|11|'''(current)'''}}
+<!-- hiding props that weren't included in the June 23 2025 rotation:
+| {{Spirit Item|Nesting Stone Seating|prop_s| table | link=#Stone Sofa Side }} {{Cost| 20 C }}<sup>(×4)</sup> 
+| {{Spirit Item|Nesting Stone Table|prop_l| table | link=#Stone Long Dining Table }} {{Cost| 33 H }} <sup>(×1)</sup>
+| {{Spirit Item|Nesting Stone Room|prop_s| table | link=#Stone Small Bathtub }} {{Cost| 25 H }} <sup>(×1)</sup>
+| {{Spirit Item|Nesting Decor Set|prop_o| table | link=#Medium Solid Rug }} {{Cost| 40 C }}<sup>(×1)</sup>
+| {{Days_Item | Dressing Table | prop | table | link=#Dressing Table}}<br>{{Cost| 9 H }}<sup>(×2)</sup>
+
+| {{Days_Item | Blue Stool | prop | table | link=#Blue Stool}}<br>{{Cost| 10 AC }}<sup>(×4)</sup>
+| {{Days_Item | floor_curtain | prop | table | link=#floor_curtain}}<br>{{Cost| 20 C }}<sup>(×4)</sup>
+| {{Days_Item | flower_vase | prop | table | link=#flower_vase}}<br>{{Cost| 10 C }}<sup>(×4)</sup>
+| {{Days_Item | left_curtain | prop | table | link=#left_curtain}}<br>{{Cost| 3 H }}<sup>(×4)</sup>
+| {{Days_Item | c_rug | prop | table | link=#c_rug}}<br>{{Cost| 15 C }}<sup>(×4)</sup>
+| {{Days_Item | stick_jar | prop | table | link=#stick_jar}}<br>{{Cost| 1 H }}<sup>(×4)</sup> -->
+| {{Spirit Item|Nesting Stone Kitchen|prop_m| table | link=#Stone Wall Mug Rack }}<br>{{Cost| 20 C }}<sup>(×2)</sup>
+| {{Spirit Item|Nesting Stone Room|prop_r| table | link=#Stone Wall Towel Rack }}<br>{{Cost| 15 C }}<sup>(×2)</sup>
+| {{Spirit Item|Nesting Decor Set|prop_c| table | link=#Medium Circle Rug }}<br>{{Cost| 70 C }}<sup>(×1)</sup>
+|
+|
+|
+|
+|
+|
+|
+|-
+| 12 {{#ifeq:{{#var:featured_rotation_id}}|12|'''(current)'''}}
+| {{Spirit Item|Nesting Stone Kitchen|prop_c| table | link=#Stone Kitchen Cabinet }}<br>{{Cost| 40 C }}<sup>(×2)</sup>
+| {{Spirit Item|Nesting Decor Set|prop_z| table | link=#Large Solid Rug }}<br>{{Cost| 80 C }}<sup>(×1)</sup>
+|
+|
+|
+|
+|
+|
+|
+|
+|- 
+| 13 {{#ifeq:{{#var:featured_rotation_id}}|13|'''(current)'''}}
+| {{Spirit Item|Nesting Stone Kitchen|prop_v| table | link=#Stone Kitchen Stove }}<br>{{Cost| 25 AC }}<sup>(×1)</sup>
+| {{Spirit Item|Nesting Stone Room|prop_l| table | link=#Stone Large Bathtub }}<br>{{Cost| 45 H }} <sup>(×1)</sup>
+| {{Spirit Item|Nesting Decor Set|prop_x| table | link=#Large Circle Rug }}<br>{{Cost| 90 C }}<sup>(×1)</sup>
+|
+|
+|
+|
+|
+|
+|
+|-
+<!-- Manually calculate & double-check the total cost with each new rotation (and potential price changes) -->
+! colspan="11" style="text-align:center;" | Total: {{Cost|1496 C}} + {{Cost|297 H}} + {{Cost|182 AC}}
+|}
+Irregularities in the rotation:
+* For two weeks from July 8 to 21, 2024, the {{Spirit Item|Nesting Decor Set|prop_t|inline_text|link=#Decor Pillow Two Colors}} and {{Spirit Item|Nesting Decor Set|prop_f|inline_text|link=#Decor Folded Cloth}} returned in addition to the regular rotation items.<ref name="Price bug" /> Later, during the week of October 7, 2024, these two Props appeared once again alongside the regular rotation items.
+* During the week of July 22 and October 21, 2024, only the {{Spirit Item|Nesting Stone Seating|prop_c|inline_text|link=#Stone Chair}} and {{Spirit Item|Nesting Stone Room|prop_t|inline_text|link=#Stone Tall Shelf}} were available. The two other Props were possibly absent because they were available in the Nest's Featured Props list.
+* During the week of July 29, 2024, the {{Spirit Item|Nesting Decor Set|prop_i|inline_text|link=#Small Solid Rug}} was absent.
+* During the week of September 30, 2024, the {{Spirit Item|Nesting Stone Kitchen|prop_w|inline_text|link=#Stone Wall Shelf }} was priced at {{Cost| 10 C }} instead of the usual {{Cost| 30 C }}.<ref name="shelf_discount" />
+* During the week of October 14, 2024, the {{Spirit Item|Nesting Decor Set|prop_f|inline_text|link=#Decor Folded Cloth}} was also available in addition to the normal rotation items.
+* During the week of October 21, 2024, the {{Spirit Item|Nesting Stone Table|prop_s|inline_text|link=#Stone Small Table }} and {{Spirit Item|Nesting Decor Set|prop_p|inline_text|link=#Decor Pillow One Color }} were not available.
+* During the week of October 28, 2024, the {{Spirit Item|Nesting Decor Set|prop_i|inline_text|link=#Small Solid Rug }} was not available.
+* After the week of November 4, 2024, the {{Spirit Item|Nesting Decor Set|prop_l|inline_text|link=#Small Stripes Rug }} was priced at {{Cost| 18 C }} and an additional copy of the Prop can be purchased for a total cost of {{Cost| 36 C }}.<ref name="Small Stripes Rug price increase">Previously, two copies of the Prop cost {{Cost| 35 C }}.</ref>
+* After the week of November 11, 2024, the {{Spirit Item|Nesting Decor Set|prop_m|inline_text|link=#Small Classic Rug }} was priced at {{Cost| 8 H }} and an additional copy of the Prop can be purchased for a total cost of {{Cost| 16 H }}.<ref name="Small Classic Rug price increase">Previously, two copies of the Prop cost {{Cost| 15 H }}.</ref>
+* After the week of November 18, 2024, the {{Spirit Item|Nesting Decor Set|prop_n|inline_text|link=#Small Semicircle Rug }} was priced at {{Cost| 23 C }} and an additional copy of the Prop can be purchased for a total cost of {{Cost| 46 C }}. <ref name="Small Semicircle Rug price increase">Previously, two copies of the Prop cost {{Cost| 45 C }}.</ref>
+* During the week of December 30, 2024, the {{Spirit Item|Nesting Stone Kitchen|prop_w|inline_text|link=#Stone Wall Shelf }} was not available, possibly due to it becoming a permanent item.
+* During the week of March 3, 2025, rotation 4 was merged with rotation 8.
+* During the week of March 10, 2025, rotation 5 was merged with rotation 9.
+* During the week of March 17, 2025, rotation 6 was merged with rotation 10.
+* During the week of March 24, 2025, rotation 7 was merged with rotation 11.
+* After the week of March 31, 2025, the {{Spirit Item|Nesting Stone Kitchen|prop_c| inline_text | link=#Stone Kitchen Cabinet }} was priced at {{Cost| 40 C }} and an additional copy of the Prop can be purchased for a total cost of {{Cost| 80 C }}.<ref name="Stone Kitchen Cabinet price increase">Previously, two copies of the Prop cost {{Cost| 20 C }}.</ref>
+* During the week of June 23, 2025, the [[Workshop Show & Tell]] event introduced new props, as well only half of rotation 11's props were displayed.
+
+===Decor Set===
+====Decor Pillow One Color====
+The [[Prop]] offered by this Shop is a small, square cushion that's pale gray. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, the Prop appears in its original form. It is offered to all players for {{Cost|8 C}} from the front counter in the Nesting Workshop. Three additional copies of this Prop can be purchased for a total cost of {{Cost|24 C}}.<ref name="prop_copies" /><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Decor Set|prop_p|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Decor Set|prop_p|real}} {{!}} The Prop
+{{Icon Name|Nesting Decor Set|prop_p|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Decor Pillow Two Colors====
+The [[Prop]] offered by this Shop is a small, square cushion that's checkered gray and pale gray. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, the Prop appears in its original form. It is offered to all players for {{Cost|12 C}}<ref name="Price bug">On July 5, 2024, it was [https://discord.com/channels/575762611111592007/1077716001493356574/1258956541512519751 announced] that the {{Spirit Item|Nesting Decor Set|prop_t|inline_text|link=#Decor Pillow Two Colors}} and {{Spirit Item|Nesting Decor Set|prop_f|inline_text|link=#Decor Folded Cloth}} were priced incorrectly during their first appearance in the Nesting Workshop Prop rotation, being priced in [[Heart]]s when they should have been priced in [[Currency#Candles|Candles]]. Players who unlocked these items at the incorrect price received a complete currency refund due to this error. These two items returned in addition to the regular rotation for two weeks from July 8 to 21, 2024.</ref> from the front counter in the Nesting Workshop. Three additional copies of this Prop can be purchased for a total cost of {{Cost|48 C}}.<ref name="prop_copies" /><br>
+<br>{{#tag:gallery
+|{{Icon Name|Nesting Decor Set|prop_t|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Decor Set|prop_t|real}} {{!}} The Prop
+{{Icon Name|Nesting Decor Set|prop_t|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Decor Folded Cloth====
+The [[Prop]] offered by this Shop is a pale gray cloth folded into a square. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, the Prop appears in its original form. It is offered to all players for {{Cost|10 C}}<ref name="Price bug" /> from the front counter in the Nesting Workshop. Three additional copies of this Prop can be purchased for a total cost of {{Cost|40 C}}.<ref name="prop_copies" /><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Decor Set|prop_f|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Decor Set|prop_f|real}} {{!}} The Prop
+{{Icon Name|Nesting Decor Set|prop_f|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Stone Wall Sconce====
+The [[Prop]] offered by this Shop is a small, triangular wall-mounted light made of stone. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. When lit, its flame will recharge your [[Capes#Cape Energy|Cape Energy]]. When carried on its owner's back, the Prop appears in its original form. It is offered to all players for {{Cost|8 AC}} from the front counter in the Nesting Workshop. Three additional copies of this Prop can be purchased for a total cost of {{Cost|32 AC}}.<ref name="prop_copies" /><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Furniture|prop_s|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Furniture|prop_s|real}} {{!}} The Prop
+{{Icon Name|Nesting Stone Furniture|prop_s|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Small Solid Rug====
+The [[Prop]] offered by this Shop is a gray rectangular rug with a thin, pale gray border. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, it appears as a tan bag with a blue drawstring and rolled-up fabric poking out from the top flap. It is offered to all players for {{Cost|12 C}} from the front counter in the Nesting Workshop. One additional copy of this Prop can be purchased for a total cost of {{Cost|24 C}}.<ref name="prop_copies" /><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Decor Set|prop_i|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Decor Set|prop_i|real}} {{!}} The Prop
+{{Icon Name|Nesting Decor Set|prop_i|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Small Stripes Rug====
+The [[Prop]] offered by this Shop is a gray rectangular rug with pale gray stripes running across the long edges. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, it appears as a tan bag with a blue drawstring and rolled-up fabric poking out from the top flap. It is offered to all players for {{Cost|18 C}} from the front counter in the Nesting Workshop. One additional copy of this Prop can be purchased for a total cost of {{Cost|36 C}}.<ref name="prop_copies" /><ref name="Small Stripes Rug price increase" /><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Decor Set|prop_l|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Decor Set|prop_l|real}} {{!}} The Prop
+{{Icon Name|Nesting Decor Set|prop_l|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Small Classic Rug====
+The [[Prop]] offered by this Shop is a gray rectangular rug with pale gray stripes running across the long edges and a symbol resembling the {{Season Icon|Belonging|inline_text}} emblem. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, it appears as a tan bag with a blue drawstring and rolled-up fabric poking out from the top flap. It is offered to all players for {{Cost|8 H}} from the front counter in the Nesting Workshop. One additional copy of this Prop can be purchased for a total cost of {{Cost|16 H}}.<ref name="prop_copies" /><ref name="Small Classic Rug price increase" /><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Decor Set|prop_m|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Decor Set|prop_m|real}} {{!}} The Prop
+{{Icon Name|Nesting Decor Set|prop_m|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Small Semicircle Rug<span id="Small Half-Circle Rug"></span>====
+The [[Prop]] offered by this Shop is a gray semicircle rug with a thin, pale gray border. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, it appears as a tan bag with a blue drawstring and rolled-up fabric poking out from the top flap. It is offered to all players for {{Cost|23 C}} from the front counter in the Nesting Workshop. One additional copy of this Prop can be purchased for a total cost of {{Cost|46 C}}.<ref name="prop_copies" /><ref name="Small Semicircle Rug price increase" /><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Decor Set|prop_n|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Decor Set|prop_n|real}} {{!}} The Prop
+{{Icon Name|Nesting Decor Set|prop_n|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Medium Solid Rug====
+The [[Prop]] offered by this Shop is a medium gray rectangular rug with a darker gray border. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, it appears as a tan bag with a blue drawstring and rolled-up fabric poking out from the top flap. It is offered to all players for {{Cost|40 C}} from the front counter in the Nesting Workshop.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Decor Set|prop_o|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Decor Set|prop_o|real}} {{!}} The Prop
+{{Icon Name|Nesting Decor Set|prop_o|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Medium Stripes Rug====
+The [[Prop]] offered by this Shop is a medium gray rectangular rug with pale gray stripes. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, it appears as a tan bag with a blue drawstring and rolled-up fabric poking out from the top flap. It is offered to all players for {{Cost|50 C}} from the front counter in the Nesting Workshop.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Decor Set|prop_s|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Decor Set|prop_s|real}} {{!}} The Prop
+{{Icon Name|Nesting Decor Set|prop_s|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Medium Diamonds Rug====
+The [[Prop]] offered by this Shop is a medium gray rectangular rug with a pale diamond pattern. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, it appears as a tan bag with a blue drawstring and rolled-up fabric poking out from the top flap. It is offered to all players for {{Cost|18 H}} from the front counter in the Nesting Workshop.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Decor Set|prop_d|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Decor Set|prop_d|real}} {{!}} The Prop
+{{Icon Name|Nesting Decor Set|prop_d|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Medium Argyle Rug====
+The [[Prop]] offered by this Shop is a medium gray rectangular rug with an argyle pattern. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, it appears as a tan bag with a blue drawstring and rolled-up fabric poking out from the top flap. It is offered to all players for {{Cost|20 H}} from the front counter in the Nesting Workshop.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Decor Set|prop_a|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Decor Set|prop_a|real}} {{!}} The Prop
+{{Icon Name|Nesting Decor Set|prop_a|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Medium Circle Rug====
+The [[Prop]] offered by this Shop is a round gray rug with a patterned dark gray trim. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, it appears as a tan bag with a blue drawstring and rolled-up fabric poking out from the top flap. It is offered to all players for {{Cost|70 C}} from the front counter in the Nesting Workshop.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Decor Set|prop_c|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Decor Set|prop_c|real}} {{!}} The Prop
+{{Icon Name|Nesting Decor Set|prop_c|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Large Solid Rug====
+The [[Prop]] offered by this Shop is a large gray rectangular rug with a darker gray border. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, it appears as a tan bag with a blue drawstring and rolled-up fabric poking out from the top flap. It is offered to all players for {{Cost|80 C}} from the front counter in the Nesting Workshop.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Decor Set|prop_z|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Decor Set|prop_z|real}} {{!}} The Prop
+{{Icon Name|Nesting Decor Set|prop_z|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Large Circle Rug====
+The [[Prop]] offered by this Shop is a large circular rug with a darker gray border containing small triangles. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, it appears as a tan bag with a blue drawstring and rolled-up fabric poking out from the top flap. It is offered to all players for {{Cost|90 C}} from the front counter in the Nesting Workshop.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Decor Set|prop_x|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Decor Set|prop_x|real}} {{!}} The Prop
+{{Icon Name|Nesting Decor Set|prop_x|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Stone Seatings===
+====Stone Stool====
+The [[Prop]] offered by this Shop is a small, square stool made of stone. It is a placeable Prop that can be used to decorate [[Shared Spaces]] and seats a single player. Note that this item does '''not''' offer the ability to [[Chat]] with other players. When carried on its owner's back, the Prop appears in its original form. It is offered to all players for free during the [[Season of Nesting#Quest #1|first Seasonal Quest]] from the front counter in the Nesting Workshop.
+
+This item was initially introduced in Patch {{V|0.20.0}} as a Shared Space-exclusive Prop, only appearing as a [[Shared Spaces#Featured Props|featured item]] for decorating Shared Spaces in certain [[Realms]]. It then became an obtainable Prop in Patch {{v|0.25.0}} as part of the Season of Nesting Quests.<br>
+<br>
+{{#tag:gallery
+|Shared-Spaces-Stool-prop-icon-Morybel-0146.png {{!}} The Prop icon
+Shared-Spaces-Stool-prop.png {{!}} The Prop
+<!--The Prop in use; unique sit pose added in Beta update-->
+Stone-Stool-Prop-on-back.png {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Stone Single Bench====
+The [[Prop]] offered by this Shop is a small, single-seater bench made of stone with sides that gently curve upwards. It is a placeable Prop that can be used to decorate [[Shared Spaces]] and seats a single player. When carried on its owner's back, the Prop appears in its original form. Note that this item does '''not''' offer the ability to [[Chat]] with other players. It is offered to all players for {{Cost|8 C}} from the front counter in the Nesting Workshop. Three additional copies of this Prop can be purchased for a total cost of {{Cost|32 C}}.<ref name="prop_copies" /><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Seating|prop_d|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Seating|prop_d|real}} {{!}} The Prop
+{{Icon Name|Nesting Stone Seating|prop_d|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Stone Chair====
+The [[Prop]] offered by this Shop is an armchair made of stone with a low, curving backrest and arms. It is a placeable Prop that can be used to decorate [[Shared Spaces]] and seats a single player. When carried on its owner's back, the Prop appears in its original form. Note that this item does '''not''' offer the ability to [[Chat]] with other players. It is offered to all players for {{Cost|16 C}} from the front counter in the Nesting Workshop. Three additional copies of this Prop can be purchased for a total cost of {{Cost|64 C}}.<ref name="prop_copies" /><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Seating|prop_c|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Seating|prop_c|real}} {{!}} The Prop
+{{Icon Name|Nesting Stone Seating|prop_c|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Stone Armchair====
+The [[Prop]] offered by this Shop is an armchair made of stone with a curved backrest, no legs, and two gray pillows on the seat. It is a placeable Prop that can be used to decorate [[Shared Spaces]] and seats a single player. When carried on its owner's back, the Prop appears in its original form. Note that this item does '''not''' offer the ability to [[Chat]] with other players. It is offered to all players for {{Cost|10 H}} from the front counter in the Nesting Workshop. Once additional copy of this Prop can be purchased for a total cost of {{Cost|20 H}}.<ref name="prop_copies" /><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Seating|prop_a|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Seating|prop_a|real}} {{!}} The Prop
+{{Icon Name|Nesting Stone Seating|prop_a|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Stone Loveseat====
+The [[Prop]] offered by this Shop is a couch made of stone with a curved backrest and arms, no legs, a cushioned seat, and four gray throw pillows. It is a placeable Prop that can be used to decorate [[Shared Spaces]] and seats three players. When carried on its owner's back, the Prop appears in its original form. Note that this item does '''not''' offer the ability to [[Chat]] with other players. It is offered to all players for {{Cost|33 H}} from the front counter in the Nesting Workshop.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Seating|prop_l|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Seating|prop_l|real}} {{!}} The Prop
+{{Icon Name|Nesting Stone Seating|prop_l|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Stone Bench====
+The [[Prop]] offered by this Shop is a long bench made of stone with a low backrest and arms, in addition to two gray throw pillows. It is a placeable Prop that can be used to decorate [[Shared Spaces]] and seats two players. When carried on its owner's back, the Prop appears in its original form. Note that this item does '''not''' offer the ability to [[Chat]] with other players. It is offered to all players for {{Cost|60 C}} from the front counter in the Nesting Workshop.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Seating|prop_b|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Seating|prop_b|real}} {{!}} The Prop
+{{Icon Name|Nesting Stone Seating|prop_b|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Stone Sofa Corner====
+The [[Prop]] offered by this Shop is a square sofa corner made of stone with a straight backrest, no legs, a cushioned seat, and two gray throw pillows. It is a placeable Prop that can be used to decorate [[Shared Spaces]] and seats a single player. When carried on its owner's back, the Prop appears in its original form. Note that this item does '''not''' offer the ability to [[Chat]] with other players. It is offered to all players for {{Cost|25 C}} from the front counter in the Nesting Workshop.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Seating|prop_r|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Seating|prop_r|real}} {{!}} The Prop
+{{Icon Name|Nesting Stone Seating|prop_r|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Stone Sofa Side====
+The [[Prop]] offered by this Shop is a square sofa side piece made of stone with a straight backrest, no legs or arms, a cushioned seat, and one gray throw pillow. It is a placeable Prop that can be used to decorate [[Shared Spaces]] and seats a single player. When carried on its owner's back, the Prop appears in its original form. Note that this item does '''not''' offer the ability to [[Chat]] with other players. It is offered to all players for {{Cost|20 C}} from the front counter in the Nesting Workshop. Three additional copies of this Prop can be purchased for a total cost of {{Cost|80 C}}.<ref name="prop_copies" /><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Seating|prop_s|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Seating|prop_s|real}} {{!}} The Prop
+{{Icon Name|Nesting Stone Seating|prop_s|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Stone Tables===
+====Stone Small Table====
+The [[Prop]] offered by this Shop is a simple square table made of stone. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, the Prop appears in its original form. It is offered to all players for {{Cost|20 C}} from the front counter in the Nesting Workshop.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Table|prop_s|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Table|prop_s|real}} {{!}} The Prop
+{{Icon Name|Nesting Stone Table|prop_s|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Stone Square Dining Table====
+The [[Prop]] offered by this Shop is a square table made of stone, decorated with a small gray placemat, a potted plant, and two white mugs. It is a placeable Prop that can be used to decorate [[Shared Spaces]] and allows two players to stand and drink from the table's mugs. When carried on its owner's back, the Prop appears in its original form. It is offered to all players for {{Cost|23 H}} from the front counter in the Nesting Workshop.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Table|prop_q|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Table|prop_q|real}} {{!}} The Prop
+{{Icon Name|Nesting Stone Table|prop_q|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Stone Round Dining Table====
+The [[Prop]] offered by this Shop is a round table made of stone, decorated with a small gray placemat and a potted plant. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, the Prop appears in its original form. It is offered to all players for {{Cost|18 H}} from the front counter in the Nesting Workshop.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Table|prop_r|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Table|prop_r|real}} {{!}} The Prop
+{{Icon Name|Nesting Stone Table|prop_r|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Stone Long Dining Table====
+The [[Prop]] offered by this Shop is a long dining table made of stone with a gray striped table runner and a potted plant. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, the Prop appears in its original form. It is offered to all players for {{Cost|33 H}} from the front counter in the Nesting Workshop.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Table|prop_l|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Table|prop_l|real}} {{!}} The Prop
+{{Icon Name|Nesting Stone Table|prop_l|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Stone Desk====
+The [[Prop]] offered by this Shop is a rectangular desk made of stone with built-in drawers on both ends. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, the Prop appears in its original form. It is offered to all players for {{Cost|50 C}} from the front counter in the Nesting Workshop.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Table|prop_d|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Table|prop_d|real}} {{!}} The Prop
+{{Icon Name|Nesting Stone Table|prop_d|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Stone Console Table====
+The [[Prop]] offered by this Shop is a rectangular table made of stone that sits low to the ground with three hollow shelf spaces. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, the Prop appears in its original form. It is offered to all players for {{Cost|45 C}} from the front counter in the Nesting Workshop.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Table|prop_t|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Table|prop_t|real}} {{!}} The Prop
+{{Icon Name|Nesting Stone Table|prop_t|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Stone Coffee Table====
+The [[Prop]] offered by this Shop is a rectangular table made of stone with a gray placemat, a brown kettle, and two white mugs. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, the Prop appears in its original form. It is offered to all players for {{Cost|28 AC}} from the front counter in the Nesting Workshop.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Table|prop_c|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Table|prop_c|real}} {{!}} The Prop
+{{Icon Name|Nesting Stone Table|prop_c|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Stone Furniture===
+====Stone Tall Cube====
+The [[Prop]] offered by this Shop is a tall, rectangular cube with two open faces that is made of stone. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, the Prop appears in its original form. It is offered to all players for {{Cost|11 C}} from the front counter in the Nesting Workshop. Seven additional copies of this Prop can be purchased for a total cost of {{Cost|88 C}}.<ref name="prop_copies" /><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Furniture|prop_t|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Furniture|prop_t|real}} {{!}} The Prop
+{{Icon Name|Nesting Stone Furniture|prop_t|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Stone Wall Mirror====
+The [[Prop]] offered by this Shop is a tall mirror with a frame made of stone. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, the Prop appears in its original form. It is offered to all players for {{Cost|30 C}} from the front counter in the Nesting Workshop. One additional copy of this Prop can be purchased for a total cost of {{Cost|60 C}}.<ref name="prop_copies" /><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Furniture|prop_m|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Furniture|prop_m|real}} {{!}} The Prop
+{{Icon Name|Nesting Stone Furniture|prop_m|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Stone Wall Towel Rack====
+The [[Prop]] offered by this Shop is a wall rack made of stone with a hanging gray towel. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, the Prop appears in its original form. It is offered to all players for {{Cost|15 C}} from the front counter in the Nesting Workshop. One additional copy of this Prop can be purchased for a total cost of {{Cost|30 C}}.<ref name="prop_copies" /><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Room|prop_r|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Room|prop_r|real}} {{!}} The Prop
+{{Icon Name|Nesting Stone Room|prop_r|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Stone Empty Box====
+The [[Prop]] offered by this Shop is a square stone box with an open top. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, the Prop appears in its original form. It is offered to all players for {{Cost|10 C}} from the front counter in the Nesting Workshop. Two additional copies of this Prop can be purchased for a total cost of {{Cost|30 C}}.<ref name="prop_copies" /><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Furniture|prop_e|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Furniture|prop_e|real}} {{!}} The Prop
+{{Icon Name|Nesting Stone Furniture|prop_e|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Stone Closed Box====
+The [[Prop]] offered by this Shop is a square stone box with a lid. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, the Prop appears in its original form. It is offered to all players for {{Cost|10 C}} from the front counter in the Nesting Workshop. Two additional copies of this Prop can be purchased for a total cost of {{Cost|30 C}}.<ref name="prop_copies" /><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Furniture|prop_x|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Furniture|prop_x|real}} {{!}} The Prop
+{{Icon Name|Nesting Stone Furniture|prop_x|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Stone Plant Stand====
+The [[Prop]] offered by this Shop is a tall potted plant that sits on a stone stand with four legs. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, the Prop appears in its original form. It is offered to all players for {{Cost|12 H}} from the front counter in the Nesting Workshop. One additional copy of this Prop can be purchased for a total cost of {{Cost|24 H}}.<ref name="prop_copies" /><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Furniture|prop_p|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Furniture|prop_p|real}} {{!}} The Prop
+{{Icon Name|Nesting Stone Furniture|prop_p|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Stone Candle Light====
+The [[Prop]] offered by this Shop is a set of three white candles sitting on top of a pair of small gray stones. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. When lit, its flame will recharge your [[Capes#Cape Energy|Cape Energy]]. When carried on its owner's back, the Prop appears as a candle-less version of its original form. It is offered to all players for {{Cost|16 AC}} from the front counter in the Nesting Workshop. One additional copy of this Prop can be purchased for a total cost of {{Cost|32 AC}}.<ref name="prop_copies" /><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Furniture|prop_l|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Furniture|prop_l|real}} {{!}} The Prop
+{{Icon Name|Nesting Stone Furniture|prop_l|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Stone Wide Cube====
+The [[Prop]] offered by this Shop is a wide, rectangular cube with two open faces that is made of stone. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. When carried on its owner's back, the Prop appears in its original form. It is offered to all players for {{Cost|10 C}} from the front counter in the Nesting Workshop. Seven additional copies of this Prop can be purchased for a total cost of {{Cost|80 C}}.<ref name="prop_copies" /><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Furniture|prop_w|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Furniture|prop_w|real}} {{!}} The Prop
+{{Icon Name|Nesting Stone Furniture|prop_w|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Mask Hanger===
+The Mask Hanger is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]]. When placed down, the Prop is displayed wearing a copy of any [[Masks]] and [[Face Accessories]] that the player currently has equipped. Unlike the [[Nesting Guide#Nesting Ultimate Prop|Nesting Ultimate Prop]], this item is purely decorative and '''does not''' allow players to copy and wear the displayed cosmetics. When carried on its owner's back, it appears as a blue bag with a yellow drawstring. It is '''permanently''' offered to all players for {{Cost|33 AC}} from the front counter in the Nesting Workshop.<br>
+<br>
+When players wearing the [[Proud Victor]]'s non-Mask and no [[Face Accessories]] place down this Prop, it is invisible. When players wearing Masks with face paint and no [[Face Accessories]] place down this Prop, ''only'' the paint will be visible, without a "Mask".
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Furniture|prop_a|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Furniture|prop_a|real}} {{!}} The Prop displaying the Base Mask and Rejecting Voyager's Face Accessory
+{{Icon Name|Nesting Stone Furniture|prop_a|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Stone Kitchen===
+====Stone Wood-Fired Oven====
+The [[Prop]] offered by this Shop is a round, wood-fired oven made of stone with several logs of chopped wood tucked beneath its legs. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. When lit, its flame will recharge your [[Capes#Cape Energy|Cape Energy]]. When carried on its owner's back, the Prop appears in its original form. It is offered to all players for {{Cost|35 AC}} from the front counter in the Nesting Workshop.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Kitchen|prop_f|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Kitchen|prop_f|real}} {{!}} The Prop
+{{Icon Name|Nesting Stone Kitchen|prop_f|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Stone Kitchen Drawers====
+The [[Prop]] offered by this Shop is a cabinet made of stone with two drawers. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, the Prop appears in its original form. It is offered to all players for {{Cost|25 C}} from the front counter in the Nesting Workshop. One additional copy of this Prop can be purchased for a total cost of {{Cost|50 C}}.<ref name="prop_copies" /><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Kitchen|prop_d|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Kitchen|prop_d|real}} {{!}} The Prop
+{{Icon Name|Nesting Stone Kitchen|prop_d|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Stone Wall Pot Rack====
+The [[Prop]] offered by this Shop is a wall rack made of stone with three pans hanging from it. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, the Prop appears in its original form. It is offered to all players for {{Cost|25 C}} from the front counter in the Nesting Workshop. One additional copy of this Prop can be purchased for a total cost of {{Cost|50 C}}.<ref name="prop_copies" /><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Kitchen|prop_p|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Kitchen|prop_p|real}} {{!}} The Prop
+{{Icon Name|Nesting Stone Kitchen|prop_p|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Stone Wall Mug Rack====
+The [[Prop]] offered by this Shop is a wall rack made of stone with three mugs hanging from it. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, the Prop appears in its original form. It is offered to all players for {{Cost|20 C}} from the front counter in the Nesting Workshop. One additional copy of this Prop can be purchased for a total cost of {{Cost|40 C}}.<ref name="prop_copies" /><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Kitchen|prop_m|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Kitchen|prop_m|real}} {{!}} The Prop
+{{Icon Name|Nesting Stone Kitchen|prop_m|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Stone Kitchen Cabinet====
+The [[Prop]] offered by this Shop is a cabinet made of stone with two doors with a large jar containing a spoon and spatula and three smaller containers. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, the Prop appears in its original form. It is offered to all players for {{Cost|40 C}} from the front counter in the Nesting Workshop. One additional copy of this Prop can be purchased for a total cost of {{Cost|80 C}}.<ref name="prop_copies" /><ref name="Stone Kitchen Cabinet price increase"></ref><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Kitchen|prop_c|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Kitchen|prop_c|real}} {{!}} The Prop
+{{Icon Name|Nesting Stone Kitchen|prop_c|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Stone Wall Shelf====
+The [[Prop]] offered by this Shop is a wall shelf made of stone. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, the Prop appears in its original form. It is offered to all players for {{Cost|10 C}}<ref name="shelf_discount" /> from the front counter in the Nesting Workshop. Two additional copies of this Prop can be purchased for a total cost of {{Cost|30 C}}.<ref name="prop_copies" /><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Kitchen|prop_w|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Kitchen|prop_w|real}} {{!}} The Prop
+{{Icon Name|Nesting Stone Kitchen|prop_w|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Stone Kitchen Stove====
+The [[Prop]] offered by this Shop is a stove made of stone, featuring a large semicircle opening in the front and a hole on the stovetop. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. When lit, its flame will recharge your Cape Energy. When carried on its owner's back, the Prop appears in its original form. It is offered to all players for {{Cost|25 AC}} from the front counter in the Nesting Workshop.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Kitchen|prop_v|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Kitchen|prop_v|real}} {{!}} The Prop
+{{Icon Name|Nesting Stone Kitchen|prop_v|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Stone Rooms===
+====Stone Single Bed====
+The [[Prop]] offered by this Shop is a narrow bed made of stone, featuring a round headboard with a blue-gray pillow and blankets. It is a placeable Prop that can be used to decorate [[Shared Spaces]] and seats a single player. When carried on its owner's back, the Prop appears in its original form. It is offered to all players for {{Cost|24 H}} from the front counter in the Nesting Workshop.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Room|prop_b|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Room|prop_b|real}} {{!}} The Prop
+<!--The Prop in use-->
+{{Icon Name|Nesting Stone Room|prop_b|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Stone Tall Shelf====
+The [[Prop]] offered by this Shop is a tall standing shelf made of stone, featuring two empty shelves and a folded set of yellow and blue bedding placed beneath them. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, the Prop appears in its original form. It is offered to all players for {{Cost|15 AC}} from the front counter in the Nesting Workshop. One additional copy of this Prop can be purchased for a total cost of {{Cost|30 AC}}.<ref name="prop_copies" /><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Room|prop_t|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Room|prop_t|real}} {{!}} The Prop
+{{Icon Name|Nesting Stone Room|prop_t|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Stone Small Bathtub====
+The [[Prop]] offered by this Shop is a round, water-filled bathtub made of stone with a gray towel hanging on the side. It is a placeable Prop that can be used to decorate [[Shared Spaces]] and seats a single player. When carried on its owner's back, the Prop appears in its original form. It is offered to all players for {{Cost|25 H}} from the front counter in the Nesting Workshop.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Room|prop_s|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Room|prop_s|real}} {{!}} The Prop
+{{Icon Name|Nesting Stone Room|prop_s|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Stone Washstand====
+The [[Prop]] offered by this Shop is a round, water-filled wash basin made of stone on a stand with a gray towel hanging on the side and a brown jug by it. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, the Prop appears in its original form. It is offered to all players for {{Cost|40 C}} from the front counter in the Nesting Workshop.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Room|prop_w|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Room|prop_w|real}} {{!}} The Prop
+{{Icon Name|Nesting Stone Room|prop_w|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Stone Large Bathtub====
+The [[Prop]] offered by this Shop is a round, water-filled bathtub made of stone with a tray holding two candles and a gray towel hanging on the side. It is a placeable Prop that can be used to decorate [[Shared Spaces]] and seats a single player. When carried on its owner's back, the Prop appears in its original form. It is offered to all players for {{Cost|45 H}} from the front counter in the Nesting Workshop.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Stone Room|prop_l|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Stone Room|prop_l|real}} {{!}} The Prop
+{{Icon Name|Nesting Stone Room|prop_l|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+<!--
+==Trivia==
+-->
+
+== References ==
+<references /> 
+
+{{GameLevelsNav}}
+
+[[fr:Atelier de la Nidification]]
+[[pt-br:Oficina do Ninho]]
+[[ja:巣づくり工房]]
+[[de:Nest-Werkstatt]]
+
+[[Category:Weekly Content]]
+[[Category:Aviary Village]]

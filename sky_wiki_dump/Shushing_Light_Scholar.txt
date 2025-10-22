@@ -1,0 +1,146 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Lightseekers-Spirit-Shushing-Light-Scholar.png|Standard
+Lightseekers-Spirit-Shushing-Light-Scholar-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Mask|infobox}}{{Spirit Item||Cape|infobox}}
+|season    = Lightseekers
+|realm     = Vault of Knowledge
+|location  = Fourth Floor Vault
+|ts        = September 12, 2024 (#122)<br>September 15, 2022 (#70)<br>August 20, 2020 (#16)
+}}
+<section begin="Summary" />The '''Shushing Light Scholar''' is a [[Seasonal Spirit]] from the [[Season of Lightseekers]] who offers the {{Emote|Shushing Light Scholar|inline_text}} Expression. The Shushing Light Scholar is found on the [[Vault of Knowledge#Fourth Floor|Fourth Floor]] in [[Vault of Knowledge]], on a floating platform to the left of the Isle of Dawn Constellation. The collectibles [[Shushing Light Scholar#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Shushing Light Scholar|Mask|inline_text}} and a {{Spirit Item|Shushing Light Scholar|Cape|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:TravelingSpirit_ShushAP03_sq.jpg|thumb|none|TGC's Promo image|none]]
+
+== Memory ==
+<div>{{#ev:youtube|09QH7xH003Q|200px|inline|Video Guide}}
+
+The Shushing Light Scholar can be found on the [[Vault of Knowledge#Fourth Floor|Fourth Floor]] in [[Vault of Knowledge]], on a floating platform to the left of the Isle of Dawn Constellation. This Spirit has a [[Carry Spirit Memory|carry spirit memory]] with 10 memory fragments and a 15-minute overall [[Timed Memory|time limit]].
+
+In order to complete this Spirit Memory, players will have to carry the light up to the top of a series of platforms, which can pose to be difficult, as there is a high risk the light will fall down between a gap. It will be of help to exhibit patience and let the light touch the next platform before each jump, assuring that it will not fall down. For some higher plaforms, carefully coordinated flying can make it easier to advance.
+
+As their memory unfolds, the Shushing Light Scholar can be seen making their way up to each platform, periodically assuming a praying pose throughout their journey. At the top, they once again stand a praying position alongside two other spirits.
+
+At the end of the memory, the Shushing Light Scholar shushes the player by bringing their hand up to their mouth.<br>
+<br>
+[[File:05 VK Seasonal Spirit - Shushing Light Scholar.jpg|200px|thumb|none|Relive the Shushing Light Scholar's memory]]
+</div>
+{{Clear}}
+
+==Expression==
+This Spirits offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Shushing-Light-Scholar-shush-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Shushing-Light-Scholar-shush-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Shushing-Light-Scholar-shush-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Shushing-Light-Scholar-shush-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar slightly bend their knees and raise their right hand up to their mouth, while a "shhh" sound plays, overlayed with rhythmical clicking sounds.
+*Level 2 makes the same motion as Level 1, with a few white sparkles flying up as your avatar raises their hand.
+*Level 3 will make your avatar slightly bend their knees and raise their right hand up to their mouth while looking around, before bending their knees even further and bring both arms at shoulder level and motioning them up and down twice, while first a "shhh" sound, and then squaking sounds play.
+*Level 4 makes the same motion as Level 3, with a few white sparkles flying up as your avatar raises their hand, and a small trail of light following each of their hands as they motion them up and down.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+==Cosmetics==
+===Mask===
+The [[Mask]] offered by this Spirit is round and beige, with a sharp blue triangle on the forehead, costing {{Cost|30 C}}<ref name="price change #70"></ref> from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|16 SC|season=Lightseekers}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Cape===
+::''Not to be confused with {{Spirit Item|Piggyback Lightseeker|Cape|Inline_text|label=Piggyback Lightseeker Cape}}.''
+The [[Cape]] offered by this Spirit is blue with a rounded trim, big petal-like shapes, and purple to yellow faded accents between the shapes and the bottom hem, which is decorated with evenly spaced out, small, glowing yellow orbs, costing {{Cost|65 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|54 SC|season=Lightseekers}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||Cape|interior}} {{!}} The Cape interior
+{{Icon Name||Cape|back}} {{!}} The Cape back
+{{Icon Name||Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Traveling Spirit==
+[[File:Vaultshush.png|200px|right|thumb]]
+{{Friendship Tree Info | traveling
+|ts_dates=*September 12, 2024 (#122)
+*September 15, 2022 (#70) <ref name="price change #70">The Mask's price increased from {{Cost|18 C}} to {{Cost|30 C}}.</ref>
+*August 20, 2020 (#16)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Shushing Light Scholar
+|season = Lightseekers
+|image  = Lightseekers-Spirit-Shushing-Light-Scholar.png
+
+|nodeC6 = Cape 65 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Mask 30 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+No hints were given before the [[Shushing Light Scholar]]'s first appearance.
+
+The hints given before the [[Shushing Light Scholar]]'s second appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Second Visit Hints
+|content=<div>
+* Is a talented Gregorian chanter
+</div>
+}}
+
+==Season Friendship Tree==
+{{Friendship Tree Info | season | season=Lightseekers}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Shushing Light Scholar
+|type   = season
+|season = Lightseekers
+|image  = Lightseekers-Spirit-Shushing-Light-Scholar.png
+
+|nodeC5 = Cape SP
+|nodeC4 = spell5 20 SC
+|nodeL3 = emote4 SP
+|nodeC3 = emote3 18 SC
+|nodeL2 = Mask SP
+|nodeC2 = spell5 16 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Trivia==
+*The Shushing Light Scholar Cape is featured in a piece of merch from thatskyshop, in the form of the [[That Sky Shop/Wave 1#Lightseeker Cape Pin|Lightseeker Cape Pin]]. It has a STAR feature which allows you to wear a Lightseeker Cape with the friends that you're holding hands with for a limited duration.
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Shush expression .jpg
+Lightseekers-vault FULL2.jpg
+</gallery>
+
+==References==
+<references />
+
+[[de:Pausenlichtgelehrter]]
+[[fr:Érudit de Lumière silencieux]]
+[[pt-br:Estudioso da Luz Silenciador]]
+[[ru:Шикающий ученик света]]
+[[ja:静けさを望む光学者]]

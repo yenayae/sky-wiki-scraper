@@ -1,0 +1,250 @@
+{{Guide Infobox
+|image     = SOP-Ultimate-guide.png
+|ultimates = {{Spirit Item||mask_u|infobox|link=#Performance Ultimate Mask}}{{Spirit Item||hair_u|infobox|link=#Performance Ultimate Hair}}{{Spirit Item||cape_u|infobox|link=#Performance Ultimate Cape}}
+|cosmetics = {{Spirit Item||Mask|infobox|link=#Mask}}
+|props     = {{Spirit Item||Prop|infobox|link=#Flower Pot Prop}}
+|season    = Performance
+|realm     = Valley of Triumph
+|location  = Village Theater
+}}
+<section begin="Summary" />The '''{{PAGENAME}}''' is a Seasonal Guide (also known as Quest Giver) from the [[Season of Performance]] who offers quests and [[Performance Guide#Ultimate Gifts|cosmetics]]. The Performance Guide is found standing behind the audience in the [[Village Theater]]. The Ultimate Guide offered a {{Spirit Item|Performance Guide|necklace_u|link=#Performance Ultimate Pendant|inline_text}}, a {{Spirit Item|Performance Guide|mask_u|link=#Performance Ultimate Mask|inline_text}}, a {{Spirit Item|Performance Guide|hair_u|link=#Performance Ultimate Hair|inline_text}}, and a {{Spirit Item|Performance Guide|cape_u|link=#Performance Ultimate Cape|inline_text}} for [[Season Pass]] holders. This Ultimate Guide also provided new cosmetics in the Quest Tree, permanently available to all players: a  {{Spirit Item||Mask|link=#Mask|inline_text}}, and a {{Spirit Item||Prop|link=#Flower Pot Prop|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:SOPerformance-ultimate-guide-spirit-reveal.jpg|alt=|none|thumb|320x320px|TGC's Promo image]]
+
+==<span id="Ultimate Pendant"><span id="Performance Ultimate Pendant">Seasonal Pendant</span></span>==
+The Performance Ultimate [[Necklaces|Pendant]] is the usual gold pendant featuring the Season's emblem attached to a necklace. It was a [[Season Pass]] exclusive item during the Season, available for free from the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||necklace_u}} {{!}} Performance Ultimate Pendant icon
+SOPerformance-pendant.png {{!}} Performance Ultimate Pendant
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Ultimate Gifts==
+The Season of Performance Guide offered 3 Ultimate Gifts, available to be purchased by [[Season Pass]] holders with [[Currency#Season Hearts|Seasonal Hearts]] during the Season of Performance only.
+
+=== Performance Ultimate Mask===
+The Performance Ultimate [[Mask]] is a grey mask with a long "beak". It has a big, yellow, bent "M" shape over it, the top spikes of the "M" shape transforming into long "feathers" that are slightly bent behind. Through the eyes goes a light grey line each, making the eye form appear more oval than round. Under the eyes, it has two yellow triangles. The Mask was a [[Season Pass]] exclusive item during the Season, available for {{Cost|1 SH|season=Performance}} after unlocking the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||mask_u}} {{!}} Performance Ultimate Mask icon
+SOP-Ultimate-guide-mask.png {{!}} Performance Ultimate Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Performance Ultimate Hair===
+(Not to be confused with the [[Rhythm Guide#Rhythm Ultimate Hair|Rhythm Guide]]'s Hair.)<br>
+<br>
+The Performance Ultimate [[Hair]] is a ponytail hairstyle with bangs, chin-lenghted hair strands on the sides, and two pieces of hair sticking up and behind, resembling feathers. It was a [[Season Pass]] exclusive item during the Season, available for {{Cost|1 SH|season=Performance}} after unlocking the Friendship Tree's third node.
+<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||hair_u}} {{!}} Performance Ultimate Hair icon
+SOPerformance-ultimate-hair.png {{!}} Performance Ultimate Hair 
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Performance Ultimate Cape===
+The Performance Ultimate [[Cape]] has a dark blue color, with sleeves and a long "tail" in the back, overall resembling a tailcoat. Its inside is toned yellow and the neck hem is embellished by big yellow stitching around it. It was a [[Season Pass]] exclusive item during the Season, available for {{Cost|2 SH|season=Performance}} after unlocking the Friendship Tree's second node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||cape_u}} {{!}} Performance Ultimate Cape icon
+{{Icon Name||cape_u|front}} {{!}} Performance Ultimate Cape front
+SOPerformance-ultimate-cape-front-butterfly.png {{!}} Performance Ultimate Cape interior
+{{Icon Name||cape_u|back}} {{!}} Performance Cape back
+SOPerformance-ultimate-cape-back-butterfly.png {{!}} Performance Ultimate Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Additional Cosmetics==
+Upon completing the second Quest of the Season of Performance, two additional items are available to collect for regular candles through the Performance Guide's Quest Tree. '''Both items remained in the Ultimate Guide's Quest Tree after the Season ended.'''
+
+===Mask===
+The additional [[Mask]] is permanently available to purchase for {{Candle|42}} regular candles after completing the [[Season of Performance#Quest #2|second Quest]] from the Performance Guide's [[#Quest Tree|Quest Tree]]. It is a turquoise colored mask with a big, dark-blue cirle coming from the top. It has a slightly raised, pointy nose shape and almond-formed eyes.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask}} {{!}} Mask icon
+SOPerformance-ultimate-mask-f2p.png {{!}} Mask 
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Flower Pot Prop===
+The Flower Pot Prop is a placeable [[prop]] that can be used to decorate [[Shared Spaces]]. It is permanently available to all players for {{Candle|52}} regular candles after completing the [[Season of Performance#Quest #5|final quest]] of the Performance Guide's [[#Quest Tree|Quest Tree]]. The Prop is made of several round flowers in yellow, white and orange with green leaves that fill a cubic stone vase. This item is purely cosmetic and does not offer any functionality. It appears in its original form on its owner's back when carried.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Prop}} {{!}} Flower Pot Prop icon
+SOPerformance-flower-pot.png {{!}} The Flower Pot Prop
+SOPerformance flower pot on back.png {{!}} The Flower Pot Prop on the player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Friendship Tree==
+The {{PAGENAME}} Friendship Tree was available to the right of the Quest Tree during the [[Season of Performance]]. Now that the Season is over, these cosmetics are no longer available.  
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Performance Guide
+|image  = SOP-Ultimate-guide.png
+|type   = season
+|season = Performance
+
+|nodeC4 = hair_u 1 SH AP
+|  linkC4 = Performance Guide#Performance Ultimate Hair
+
+|nodeC3 = cape_u 2 SH AP
+|  linkC3 = Performance Guide#Performance Ultimate Cape
+
+|nodeC2 = mask_u 1 SH AP
+|  linkC2 = Performance Guide#Performance Ultimate Mask
+
+|nodeC1 = necklace_u AP
+|  linkC1 = Performance Guide#Performance Ultimate Pendant
+}}<section end="Friendship Tree" />
+
+==Quest Tree==
+The {{PAGENAME}} Quest Tree is available for all players to complete quests from the [[Season of Performance]]. Once a quest is completed, a heart or a Shared Memory spell is available to be collected. Since the end of the Season, players completing the quests for the first time have to pay {{Candle|3}} to obtain these hearts. 
+<section begin="Quest Tree" />{{Mobile Tabber
+|tab1 = Post-season
+|c1   = {{Friendship Tree
+|spirit = Performance Guide
+|image  = SOP-Ultimate-guide.png
+
+|nodeC10 = prop 52 C
+|  linkC10 = Performance Guide#Flower Pot Prop
+
+|nodeL9 = heart
+|  noteL9 = <ref name="quest_heart"/>
+|nodeC9 = Morybel-0146-SOPerformance-Modest-Dancer-emote-icon.png
+|  linkC9 = Duet Dance Action
+
+|nodeL8 = Shared-memory-spell-in-tree-icon.png Free
+|  linkL8 = Shared Memory Candle
+|  label8 = Shared Memory Spell
+|nodeC8 = quest
+|  linkC8 = Season of Performance#Quest #5
+|  labelC8 = Quest 5
+
+|nodeL7 = heart
+|  noteL7 = <ref name="quest_heart"/>
+|  linkC7 = Friendship_Menu#Hug
+|nodeC7 = Icon_hug.png
+
+|nodeL6 = Shared-memory-spell-in-tree-icon.png Free
+|  linkL6 = Shared Memory Candle
+|  label6 = Shared Memory Spell
+|nodeC6 = quest
+|  linkC6 = Season of Performance#Quest #4
+|  labelC6 = Quest 4
+
+|nodeL5 = heart
+|  noteL5 = <ref name="quest_heart"/>
+|  linkC5 = Friendship_Menu#Double-five
+|nodeC5 = Mimi-4117_03_doublefive_light_catcher_emote.png
+
+|nodeL4 = Shared-memory-spell-in-tree-icon.png Free
+|  linkL4 = Shared Memory Candle
+|  label4 = Shared Memory Spell
+|nodeC4 = quest
+|  linkC4 = Season of Performance#Quest #3
+|  labelC4 = Quest 3
+
+|nodeL3 = mask 42 C
+|  linkL3 = Performance Guide#Mask
+
+|nodeC3 = quest
+|  linkC3 = Season of Performance#Quest #2
+|  labelC3 = Quest 2
+
+|nodeL2 = heart
+|  noteL2 = <ref name="quest_heart">During the Season of Performance, the hearts available from the Performance Guide after completing each quest were free.</ref>
+|nodeC2 = Icon_high_five.png
+|  linkC2 = High Five Action
+
+|nodeL1 = Shared-memory-spell-in-tree-icon.png Free
+|  linkL1 = Shared Memory Candle
+|  label1 = Shared Memory Spell
+|nodeC1 = quest
+|  linkC1 = Season of Performance#Quest #1
+|  labelC1 = Quest 1
+}}
+
+|tab2 = Mid-season
+|c2   = {{Friendship Tree
+|spirit = Performance Guide
+|image  = SOP-Ultimate-guide.png
+|type   = season
+|season = Performance
+
+|nodeC10 = prop 52 C
+|  linkC10 = Performance Guide#Flower Pot Prop
+
+|nodeL9 = heart free
+|nodeC9 = Morybel-0146-SOPerformance-Modest-Dancer-emote-icon.png
+|  linkC9 = Duet Dance Action
+
+|nodeL8 = Shared-memory-spell-icon-Morybel-0146.png Free
+|  linkL8 = Shared Memory Candle
+|  label8 = Shared Memory Spell
+|nodeC8 = quest
+|  linkC8 = Season of Performance#Quest #5
+|  labelC8 = Quest 5
+
+|nodeL7 = heart free
+|  linkC7 = Friendship_Menu#Hug
+|nodeC7 = Icon_hug.png
+
+|nodeL6 = Shared-memory-spell-icon-Morybel-0146.png Free
+|  linkL6 = Shared Memory Candle
+|  label6 = Shared Memory Spell
+|nodeC6 = quest
+|  linkC6 = Season of Performance#Quest #4
+|  labelC6 = Quest 4
+
+|nodeL5 = heart free
+|  linkC5 = Friendship_Menu#Double-five
+|nodeC5 = Mimi-4117_03_doublefive_light_catcher_emote.png
+
+|nodeL4 = Shared-memory-spell-icon-Morybel-0146.png Free
+|  linkL4 = Shared Memory Candle
+|  label4 = Shared Memory Spell
+|nodeC4 = quest
+|  linkC4 = Season of Performance#Quest #3
+|  labelC4 = Quest 3
+
+|nodeL3 = mask 42 C
+|  linkL3 = Performance Guide#Mask
+
+|nodeC3 = quest
+|  linkC3 = Season of Performance#Quest #2
+|  labelC3 = Quest 2
+
+|nodeL2 = heart free
+|nodeC2 = Icon_high_five.png
+|  linkC2 = High Five Action
+
+|nodeL1 = Shared-memory-spell-icon-Morybel-0146.png Free
+|  linkL1 = Shared Memory Candle
+|  label1 = Shared Memory Spell
+|nodeC1 = quest
+|  linkC1 = Season of Performance#Quest #1
+|  labelC1 = Quest 1
+}}
+}}<section end="Quest Tree" />
+
+==Personality==
+On April 11 2022, TGC officially announced <ref name="Personality Tweet">https://twitter.com/thatskygame/status/1513683349017141249</ref> and introduced the {{PAGENAME}} with the following personality traits:
+
+*'''The Performance Guide, the group’s director & biggest supporter.'''
+*Twin of a past Season Guide
+*Knows 50 tongue-twisters to use in warmups
+*Can’t let go of that review from last year
+*Writing a comedy but still figuring out punchlines
+
+On February 27, 2023, after being asked "If Performance gang went on tour in an RV, who's driving?", Ash mentioned that "I would only entrust Modest Dancer or Performance Guide to be behind the wheel, I feel like Dancer would be the safest driver but would maybe be a bit anxious about driving a big RV :SkyLOL: So maybe Performance Guide"<ref>[https://discord.com/channels/575762611111592007/575827782144098304/1079837161249067130 Ash's Discord message about Performance Guide]</ref>.
+
+==References==
+<references />
+
+[[pt-br:Guia da Performance]]
+[[ja:表現者たちの案内人]]
+[[fr:Guide de l'Interprétation]]
+
+[[Category:Season of Performance]]

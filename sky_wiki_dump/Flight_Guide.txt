@@ -1,0 +1,168 @@
+{{Guide Infobox
+|image     = Flight Guide.png
+|ultimates = {{Spirit Item||outfit_u|link=#Flight Ultimate Outfit|infobox}}{{Spirit Item||Hairpiece_u|link=#Flight Ultimate Hair Accessory|infobox}}
+|season    = Flight
+|realm     = Hidden Forest
+|location  = [[The_Wind_Paths]]
+}}
+<section begin="Summary" />The '''{{PAGENAME}}''' is a Seasonal Guide (also known as Quest Giver) from the [[Season of Flight]] who offers quests and [[Flight Guide#Ultimate Gifts|cosmetics]]. The Flight Guide is found on the main Island in the [[Wind Paths]] area. The Ultimate Guide offered a {{Spirit Item||necklace_u|link=#Flight Ultimate Pendant|inline_text}}, a {{Spirit Item||outfit_u|link=#Flight Ultimate Outfit|inline_text}}, and a {{Spirit Item||Hairpiece_u|link=#Flight Ultimate Hair Accessory|inline_text}} for [[Season Pass]] holders.<section end="Summary" /><br>
+<br>
+[[File:AP12 Flight-Guide-SpiritReveal.png|alt=|none|thumb|320x320px|TGC's Promo image]]
+
+==<span id="Ultimate Pendant"><span id="Flight Ultimate Pendant">Seasonal Pendant</span></span>==
+The Flight Ultimate [[Necklaces|Pendant]] is the usual gold pendant featuring the Season's emblem attached to a necklace. It was a [[Season Pass]] exclusive item during the Season, available for free from the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||necklace_u}} {{!}} Flight Ultimate Pendant icon
+{{Icon Name||necklace_u|real}} {{!}} Flight Ultimate Pendant
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Ultimate Gifts==
+The Season of Flight Guide offered 2 Ultimate Gifts, available to be purchased by [[Season Pass]] holders with [[Currency#Season Heart|Seasonal Hearts]] during the Season of Flight only.
+
+===Flight Ultimate Outfit===
+The Flight Ultimate [[Outfit]] has a top with blue sleeves, a brown rope belt, and a blue pattered piece of fabric hanging down the torso, as well as simple brown pants and boots. It was a [[Season Pass]] exclusive item during the Season, available for {{Cost|2 SH|season=Flight}} after unlocking the Friendship Tree's second node.<br>{{Dye_Details
+|area1=the sleeves and center piece of fabric
+|cost1=3
+|area2=the trim along the bottom edges of the top,
+|cost2=1
+}}
+<br>
+{{#tag:gallery
+|{{Icon Name||outfit_u}} {{!}} Flight Ultimate Outfit icon
+{{Icon Name||outfit_u|real}} {{!}} Flight Ultimate Outfit
+{{Icon Name||outfit_u|back}} {{!}} Flight Ultimate Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Flight Ultimate Hair Accessory===
+The Flight Ultimate [[Hair Accessory]] features two feather-shaped accessories, in white, blue and yellow, that the player wears on either side of their head. It was a [[Season Pass]] exclusive item during the Season, available for {{Cost|2 SH|season=Flight}} after unlocking the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hairpiece_u}} {{!}} Flight Ultimate Hair Accessory Icon
+{{Icon Name||Hairpiece_u|real}} {{!}} Flight Ultimate Hair Accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Friendship Tree==
+The Flight Guide's Friendship Tree was available to the right of the Quest Tree during the Season of Flight only. Now that the Season is over, these cosmetics are no longer available.
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Flight Guide
+|image  = Flight Guide.png
+|type   = season
+|season = Flight
+
+|nodeC3 = outfit_u 2 SH AP
+|  linkC3 = Flight Guide#Flight Ultimate Outfit
+
+|nodeC2 = Hairpiece_u 2 SH AP
+|  linkC2 = Flight Guide#Flight Ultimate Hair Accessory
+
+|nodeC1 = necklace_u AP
+|  linkC1 = Flight Guide#Flight Ultimate Pendant
+}}<section end="Friendship Tree" />
+
+==Quest Tree==
+The Flight Guide Quest Tree is available for all players to complete quests from the [[Season of Flight]]. Once you completed a quest, a heart was available to be collected for free during the Season of Flight only. Since the end of the Season, players completing the Quests for the first time have to pay {{Candle|3}} to obtain these Hearts.
+<section begin="Quest Tree" />{{Mobile Tabber
+|tab1 = Post-season
+|c1   = {{Friendship Tree
+|spirit = Flight Guide
+|image  = Flight Guide.png
+
+|  linkC7 = Friendship_Menu#Hug
+|nodeC7 = Icon_hug.png
+
+|nodeL6 = heart
+|  noteL6 = <ref name="quest_heart"/>
+|nodeC6 = quest
+|  linkC6 = Season_of_Flight#Quest_#5_-_Clear_away_the_darkness
+|  labelC6 = Quest 5
+
+|nodeL5 = heart
+|  noteL5 = <ref name="quest_heart"/>
+|nodeC5 = quest
+|  linkC5 = Season_of_Flight#Quest_#_4_-_Save_any_trapped_creatures
+|  labelC5 = Quest 4
+
+|nodeL4 = heart
+|  noteL4 = <ref name="quest_heart"/>
+|nodeC4 = quest
+|  linkC4 = Season_of_Flight#Quest_#_3_-_Retrieve_the_chimes
+|  labelC4 = Quest 3
+
+|nodeC3 = Icon_high_five.png
+|  linkC3 = Friendship_Menu#High_Five
+
+|nodeL2 = heart
+|  noteL2 = <ref name="quest_heart"/>
+|nodeC2 = quest
+|  linkC2 = Season_of_Flight#Quest_#2_-_Rebuild_the_boat
+|  labelC2 = Quest 2
+
+|nodeL1 = heart
+|  noteL1 = <ref name="quest_heart">During the Season of Flight, the hearts available from the Flight Guide after completing each quest were free.</ref>
+|nodeC1 = quest
+|  linkC1 = Season_of_Flight#Quest_#1_-_Activate_the_Wind_Paths
+|  labelC1 = Quest 1
+}}
+
+|tab2 = Mid-season
+|c2   = {{Friendship Tree
+|spirit = Flight Guide
+|type   = season
+|season = Flight
+|image  = Flight Guide.png
+
+|  linkC7 = Friendship_Menu#Hug
+|nodeC7 = Icon_hug.png
+
+|nodeL6 = heart free
+|nodeC6 = quest
+|  linkC6 = Season_of_Flight#Quest_#5_-_Clear_away_the_darkness
+|  labelC6 = Quest 5
+
+|nodeL5 = heart free
+|nodeC5 = quest
+|  linkC5 = Season_of_Flight#Quest_#_4_-_Save_any_trapped_creatures
+|  labelC5 = Quest 4
+
+|nodeL4 = heart free
+|nodeC4 = quest
+|  linkC4 = Season_of_Flight#Quest_#_3_-_Retrieve_the_chimes
+|  labelC4 = Quest 3
+
+|nodeC3 = Icon_high_five.png
+|  linkC3 = Friendship_Menu#High_Five
+
+|nodeL2 = heart free
+|nodeC2 = quest
+|  linkC2 = Season_of_Flight#Quest_#2_-_Rebuild_the_boat
+|  labelC2 = Quest 2
+
+|nodeL1 = heart free
+|nodeC1 = quest
+|  linkC1 = Season_of_Flight#Quest_#1_-_Activate_the_Wind_Paths
+|  labelC1 = Quest 1
+}}
+}}<section end="Quest Tree" />
+
+==Unique Daily Quests==
+{{#section-h:Quests/Daily Quest Spirits|{{PAGENAME}}}}
+
+==Personality==
+On October 1 2021, TGC officially announced <ref name="Personality Tweet">https://twitter.com/thatskygame/status/1444097296732278786</ref> and introduced the {{PAGENAME}} with the following personality traits:
+*💭 Has a better vision of a more harmonious life
+*🌬️ Guided the spirit group to the Islands
+*🧑‍🎓 Former apprentice of Daylight Prairie Elder
+*🥰 Tells the best stories
+
+==References==
+<references />
+
+[[pt-br:Guia do Voo]]
+[[fr:Guide de l'Envol]]
+[[de:Flughelfer]]
+
+[[Category:Season of Flight]]

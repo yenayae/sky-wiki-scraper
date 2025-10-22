@@ -1,0 +1,140 @@
+{{SkyEvent
+| image = Days of Mischief 2021-promo image.jpg
+| previousevent = [[Days of Mischief/2020|2020]]
+| nextevent = [[Days of Mischief/2022|2022]]
+| date = October 23 to November 12, 2021
+| years = {{#lst:Days of Mischief|Mischief Years}}
+}}
+Days of Mischief was back for a third year. The event began '''Monday, October 18, 2021 at 00:00 PDT (UTC-7)''' and ended '''Sunday, November 7, 2021 at 23:59 PST (UTC-8)''', lasting '''21''' days. Just like previous years, the [[Secret Area]] was given a spooky makeover with more [[Darkness]] pumpkins to burn and three [[Dark Dragons]] patrolling the rooftop. Different from previous years, the usual 2 Mischief NPC Spirits were nowhere to be found: instead, a new area had been added; [[The Cackling Crab]]. Players could be teleported to that area by visiting the second bathroom inside the Secret Area's building, where a black smoke can be found.
+
+===2021 New Cosmetics and Props=== 
+====Mischief Withered Antlers====
+::'''''"Celebrate Days of Mischief with this withered branch head accessory!<ref name="Hair Accessory recategorized">This item was recategorized from a [[Hair Accessory]] to a [[Face Accessory]] as a result of the [[Outfit Shrine|Closet]] category expansion in Patch {{v|0.22.0}}. It later received another update that recategorized it as a [[Head Accessory]] in Patch [[Update:Live_0.27.0_(294170_Android,_Huawei)_(292054_iOS,_PlayStation,_Steam,_Switch)|0.27.0]].</ref>"'''''
+The Mischief Withered Antlers are a pair of dark brown antlers resembling branches with orange leaves. This [[Head Accessory]]<ref name="Hair Accessory recategorized" /> was introduced in 2021 for {{Cost|9.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Mischief Withered Antlers|iap}} {{!}} {{Icon Name|Mischief Withered Antlers|name}} IAP
+{{Icon Name|Mischief Withered Antlers|icon}} {{!}} {{Icon Name|Mischief Withered Antlers|name}} icon
+{{Icon Name|Mischief Withered Antlers|real}} {{!}} {{Icon Name|Mischief Withered Antlers|name}}
+{{Icon Name|Mischief Withered Antlers|spell}} {{!}} {{Icon Name|Mischief Withered Antlers|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Mischief Witch Jumper<span id="Mischief Witch Jumper Shoes"></span>====
+::'''''"Celebrate Days of Mischief with this enchanting witch outfit!"'''''
+The Mischief Witch Jumper is a pack that contains two cosmetics: the Mischief Witch Jumper and Mischief Witch Jumper Shoes. The Mischief Witch Jumper is a black [[Outfit]] that's a dress with ragged edges and red inner lining. In the {{v|0.22.0}} Patch, the boots attached to the Outfit were removed and became a separate cosmetic item. The Mischief Witch Jumper Shoes are a pair of black [[Shoes]] with pointed toes, red soles, and red inner lining. This pack was introduced in 2021 for {{Cost|9.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Witch Jumper|iap}} {{!}} {{Icon Name|Witch Jumper|name}} IAP
+{{Icon Name|Witch Jumper|icon}} {{!}} {{Icon Name|Witch Jumper|name}} icon
+{{Icon Name|Witch Jumper|real}} {{!}} {{Icon Name|Witch Jumper|name}} front
+{{Icon Name|Witch Jumper|back}} {{!}} {{Icon Name|Witch Jumper|name}} back
+{{Icon Name|Witch Jumper|spell}} {{!}} {{Icon Name|Witch Jumper|name}} Spell icon
+{{Icon Name|Witch Jumper Shoes|icon}} {{!}} {{Icon Name|Witch Jumper Shoes|name}} icon
+{{Icon Name|Witch Jumper Shoes|real}} {{!}} {{Icon Name|Witch Jumper Shoes|name}}
+{{Icon Name|Witch Jumper Shoes|spell}} {{!}} {{Icon Name|Witch Jumper Shoes|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Mischief Spider Quiff====
+::'''''"Celebrate Days of Mischief with this spidery mohawk hairstyle!"'''''
+The Mischief Spider Quiff is a short mohawk with a web pattern shaved into the undercut. This [[Hair]] was introduced in 2021 for {{Cost|4.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>{{Dye_Details}}
+<br>
+{{#tag:gallery
+|{{Icon Name|Spider Quiff|iap}} {{!}} {{Icon Name|Spider Quiff|name}} IAP
+{{Icon Name|Spider Quiff|icon}} {{!}} {{Icon Name|Spider Quiff|name}} icon
+{{Icon Name|Spider Quiff|real}} {{!}} {{Icon Name|Spider Quiff|name}} front
+{{Icon Name|Spider Quiff|side}} {{!}} {{Icon Name|Spider Quiff|name}} side
+{{Icon Name|Spider Quiff|back}} {{!}} {{Icon Name|Spider Quiff|name}} back
+{{Icon Name|Spider Quiff|spell}} {{!}} {{Icon Name|Spider Quiff|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Mischief Pumpkin Prop====
+::'''''"Celebrate Days of Mischief with this fierce Shared Spaces prop decoration!"'''''
+The Mischief Pumpkin Prop is an orange pumpkin with a pair of branch-like horns and a diamond "eye" carved between them, somewhat resembling the face of a [[Krill|Dark Dragon]]. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]]. Once placed, it produces a yellow spot on the ground in front of it. When approached by a player, the spot turns red and Darkness begins to cover the pumpkin, producing a decaying effect. This Prop was introduced in 2021 for {{Cost|1.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Pumpkin Prop|iap}} {{!}} {{Icon Name|Pumpkin Prop|name}} IAP
+{{Icon Name|Pumpkin Prop|icon}} {{!}} {{Icon Name|Pumpkin Prop|name}} icon
+{{Icon Name|Pumpkin Prop|real}} {{!}} {{Icon Name|Pumpkin Prop|name}}
+prop 2021 mischief pumpkin prop iap.png {{!}} {{Icon Name|Pumpkin Prop|name}} far\near
+{{Icon Name|Pumpkin Prop|back}} {{!}} {{Icon Name|Pumpkin Prop|name}} on a player's back
+{{Icon Name|Pumpkin Prop|spell}} {{!}} {{Icon Name|Pumpkin Prop|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Mischief Witch Hair====
+The Mischief Witch Hair is a long curly hairstyle. This [[Hair]] was introduced in 2021 for {{Cost|66 C}} from the Mischief Staff for the duration of the event.<br>{{Dye_Details}}
+<br>
+{{#tag:gallery
+|{{Icon Name|Witch Hair|icon}} {{!}} {{Icon Name|Witch Hair|name}} icon
+{{Icon Name|Witch Hair|real}} {{!}} {{Icon Name|Witch Hair|name}} front
+{{Icon Name|Witch Hair|side}} {{!}} {{Icon Name|Witch Hair|name}} side
+{{Icon Name|Witch Hair|back}} {{!}} {{Icon Name|Witch Hair|name}} back
+{{Icon Name|Witch Hair|spell}} {{!}} {{Icon Name|Witch Hair|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Mischief Withered Cape====
+The Mischief Withered Cape is a red-orange cape that resembles a tattered maple leaf. This [[Cape]] was introduced in 2021 for {{Cost|99 C}} from the Mischief Staff for the duration of the event.<br>{{Dye_Details}}
+<br>
+{{#tag:gallery
+|{{Icon Name|Withered Cape|icon}} {{!}} {{Icon Name|Withered Cape|name}} icon
+{{Icon Name|Withered Cape|front}} {{!}} {{Icon Name|Withered Cape|name}} front
+{{Icon Name|Withered Cape|interior}} {{!}} {{Icon Name|Withered Cape|name}} interior
+{{Icon Name|Withered Cape|real}} {{!}} {{Icon Name|Withered Cape|name}} back
+{{Icon Name|Withered Cape|exterior}} {{!}} {{Icon Name|Withered Cape|name}} exterior
+{{Icon Name|Withered Cape|spell}} {{!}} {{Icon Name|Withered Cape|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Mischief Spooky Dining Set====
+The Mischief Spooky Dining Set is a stone table and pair of chairs made of dark branches with orange leaves. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]], and functions as a two-player [[Chat]] item. The large candle in the center can be lit to recharge your Cape energy. Multiple Mischief Spooky Dining Sets can be snapped together, seamlessly forming a larger table. This Prop was introduced in 2021 for {{Cost|33 H}} from the Mischief Staff for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Mischief Table|icon}} {{!}} {{Icon Name|Mischief Table|name}} icon
+{{Icon Name|Mischief Table|real}} {{!}} {{Icon Name|Mischief Table|name}}
+{{Icon Name|Mischief Table|back}} {{!}} {{Icon Name|Mischief Table|name}} on a player's back
+{{Icon Name|Mischief Table|spell}} {{!}} {{Icon Name|Mischief Table|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+===2021 New Spells===
+====Dark Dragon Repellent Spell====
+[[File:Days of Mischief - Dark Dragon Repellant spell.png|left|frameless|80x80px]]
+The Dark Dragon Repellent Spell gives the player the ability to repel attacks from [[Dark Dragons]] for 1 minute. This [[Spell]] was introduced in 2021 from the Gift Crab in the Cackling Crab's main area for {{Cost|1 AC}} and from the Sleepy Traveler's boat at Home for {{Cost|3 AC}}.
+{{Clear}}
+
+====Crab Rock Trick Spell====
+The Crab Rock Trick Spell temporarily places a [[Dark Crabs|Crab]]-shaped rock on the player's head for 8 minutes. Play tricks on other players by burrowing and pretending to be a Crab. Players hidden in the ground can jump back out to spook anyone nearby. This [[Spell]] was introduced in 2021 for free from the Gift Crab in the Cackling Crab's main area and from the Sleepy Traveler's boat at Home for {{Cost|5 C}}.<br>
+<br>
+<gallery widths="125" spacing="small" captionalign="center">
+Days of Mischief - Crab Rock Trick Spell.png|Crab Rock Trick Spell icon
+<!--Mischief-Crab-Rock-Trick-Spell-Skykid.png|Crab Rock Trick Spell-->
+</gallery>
+
+====Witch Hat Accessory Spell====
+The Witch Hat Accessory Spell temporarily gives players a [[Hair Accessory]] version of the [[#Mischief Witch Hat|Mischief Witch Hat]] without the hair for 30 minutes. This Spell was introduced in 2021 and was available for free from the Sleepy Traveler's boat at Home for {{Cost|2 C}}. ''Note that this Hair Accessory is only available as a Spell.''<br>
+<br>
+<gallery widths="125" spacing="small" captionalign="center">
+Days of Mischief - Witch hat accessory spell.png|Witch Hat Accessory Spell icon
+<!--Mischief-Witch-Hat-Accessory-Spell-Skykid.png|Witch Hat Accessory Spell-->
+</gallery>
+
+==Trivia==
+*During [[Sky Beta|Beta]] development, the first edition of [[The Cackling Crab]] was accessible through an additional flickering purple screen in the conference room of the [[Secret Area]].
+*The Days of Mischief Staff NPCs are based on TGC employees<ref>"Office spirits are actually just tgc employees" [https://discord.com/channels/575762611111592007/632004389137154048/702006252946849862 Ash's post]</ref>: Skidmore (Adam Skidmore), Samantha (Samantha Cruse), Yoshi (Yoshi Saito) and Nat (Natalie Nichols).
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Days of Mischief 2021-promo image.jpg
+</gallery>
+
+==References==
+'''More information about the Days of Mischief 2021 can be found on [https://www.thatskygame.com/news/an-invitation-to-a-party-full-of-mischief ThatSkyGame's Website].'''
+<references />
+
+{{#lst:Days of Mischief|Mischief Navbox}}
+
+[[pt-br:Dias de Travessuras/2021]]

@@ -1,0 +1,38 @@
+This calculator was created by {{Userlinks|Ray808080}}. It will tell you the Seasonal Candles you've missed, whether or not you can buy all the Cosmetics during the Season, and how many days you cannot miss in order to get enough Seasonal Candles to buy all the Cosmetics. Everything should be displayed in your timezone.
+
+You can find the [[MediaWiki:SkySeasonCandleCalculator.js|Source Code here]].
+
+Alternatively, you use the [https://sky-season-calculator.netlify.app/ Sky Season Calculator by Stoat] which allows you to check off specific items, OR the [https://sky-planner.com/season-calculator Sky Planner's Season Calculator by Silverfeelin] which has additional features and makes the experience more visual.
+<!----{{Mbox
+|bordercolor = orange
+|image = Sky-Sticker-Pack2-04.png
+|header = Caring Companion not currently included
+|text = The [[Caring Companion]] is not included in this Seasonal Candle count, as they have not yet been introduced in the Season. When their Season Friendship Tree becomes accessible, the calculator will be updated. Thank you for your patience!
+}}<!---->
+==Sky Seasonal Candle Calculator==
+<div style="display:none;">'''Mobile Users:''' Unfortunately, this calculator does not work on the Mobile view. [{{fullurl:{{FULLPAGENAME}} |mobileaction=toggle_view_desktop}} Click here switch to Desktop view] or scroll to the bottom of the page and click "View Full Site" to use the calculator feature on a mobile device.<br><br></div>
+<div id="sky-seasonal-candle-calculator-wrapper"><!--
+NOTICE about PST / PDT!
+If it is between ~March 10 to ~Nov 7, use PDT.
+Otherwise, use PST.
+--><div style="display:none;" id="sky-seasonal-candle-calculator-input"><nowiki>
+|SEASON_NAME       = Season of Migration
+|SEASON_START      = October 20, 2025 00:00:00 PDT
+|SEASON_END        = January 4, 2026 23:59:59 PST
+|NEED_NO_PASS      = 383
+|NEED_WITH_PASS    = 398
+|SKIPPABLE_MESSAGE = (There are 2 skippable dyes: from Migrating Manta Whisperer (12C) and Migrating Bird Whisperer (12C); and 1 skippable blessing from Migrating Butterfly Charmer (8C))
+|DOUBLE_EVENT      = false
+|DOUBLE_START      = August 19, 2025 00:00:00 PDT
+|DOUBLE_END        = September 1, 2025 23:59:59 PDT
+|DOUBLE_2_EVENT    = false
+|DOUBLE_2_START    = September 22, 2025 00:00:00 PDT
+|DOUBLE_2_END      = September 28, 2025 23:59:59 PDT
+</nowiki></div>
+<div id="sky-seasonal-candle-calculator-output"></div></div>
+
+[[pt-br:Eventos Sazonais/Calculadora]]
+[[ja:季節/計算機]]
+[[de:Saisons/Rechner]]
+
+[[Category:Periodical Content]]

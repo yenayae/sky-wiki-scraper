@@ -1,0 +1,287 @@
+This page was last updated on '''{{CURRENTMONTHNAME}} {{CURRENTDAY}}, {{CURRENTYEAR}}''' (UTC). {{Purge}}
+
+{| class="wikitable" style="text-align:center"
+! style="width:15%" | Season
+! style="width:15%" | Event
+! style="width:15%" | TS
+! style="width:15%" | Shard
+|-
+| {{#if: {{Game Stat|season}} | [[#Seasonal Candles|Yes]] | No }}
+| {{#if: {{Game Stat|days}} | [[#Event Ticket Locations|Yes]] | No }}
+| {{#if:{{Game Stat|ts}} | [[#Traveling Spirit|Yes]] | No }}
+| {{#vardefine: todayDay | {{Game Stat|today|format=d}} }}<!--
+-->{{#vardefine: todayWeekdayNum | {{Game Stat|today|format=N}} }} <!-- 1=Monday, 7=Sunday --><!--
+-->{{#ifexpr:
+    {{#switch: {{#ifexpr: {{#var: todayDay}} mod 2 | {{#expr: ((({{#var: todayDay}} - 1) / 2) mod 3) + 2 }} | {{#expr:  ({{#var: todayDay}} / 2)  mod 2  }}  }}
+      | 0 = {{#count: 6, 7|{{#var: todayWeekdayNum}}}}
+      | 1 = {{#count: 7, 1|{{#var: todayWeekdayNum}}}}
+      | 2 = {{#count: 1, 2|{{#var: todayWeekdayNum}}}}
+      | 3 = {{#count: 2, 3|{{#var: todayWeekdayNum}}}}
+      | 4 = {{#count: 3, 4|{{#var: todayWeekdayNum}}}}
+    }} = 0
+  | [[#Shard|Yes]]
+  | No
+}}
+|}
+
+==Daily Quests==
+{{Main|Quests}}<!--
+-->{{Collapse|float=left|label=Interactive Maps|content={{#section-h:Interactive_Maps|Daily Quest Maps}}}}
+{{Clear}}
+==Social Light Events==
+{{#vardefine: hour |{{Game Stat|now|format= g}}}}<!--
+-->{{#vardefine: min |{{Game Stat|now|format= i}}}}<!--
+-->{{#vardefine: A |{{Game Stat|now|format= A}}}}<!--
+-->{{#vardefine: next_hour | {{#expr: ({{Game Stat|now|format= G}} + 1) mod 12 }} }}<!--
+-->{{#ifeq: {{#var:next_hour}} | 0 | {{#vardefine:next_hour| 12 }} | }}<!--
+-->{{#vardefine: sec_hour | {{#expr: ({{Game Stat|now|format= G}} + 2) mod 12 }} }}<!--
+-->{{#ifeq: {{#var:sec_hour}} | 0 | {{#vardefine:sec_hour| 12 }} | }}<!--
+-->{{#vardefine: next_A | {{#ifeq: {{#var:next_hour}} | 12 | {{#ifeq: {{#var:A}} | AM | PM | AM }} | {{#var:A}} }} }}<!--
+-->{{#vardefine: sec_A | {{#ifexpr: {{#var:sec_hour}} = 12 or {{#var:sec_hour}} = 1 | {{#ifeq: {{#var:A}} | AM | PM | AM }} | {{#var:A}} }} }}<!--
+-->{{#vardefine: geyser | {{#expr: 60 - {{#var:min}} + 5 }} }}<!--
+-->{{#vardefine: dinner | {{#expr: 60 - {{#var:min}} + 35 }} }}<!--
+-->{{#vardefine: turtle | {{#expr: 60 - {{#var:min}} + 50 }} }}<!--
+
+FOR TRANSLATORS
+-->{{#vardefine: status_waiting | ... }}<!--
+-->{{#vardefine: status_ongoing | '''ONGOING'''<br>until }}<!--
+-->{{#vardefine: status_na | N/A today }}<!--
+-->{{#vardefine: fri | Friday }}<!--
+-->{{#vardefine: first | 1st day of the month }}<!--
+-->{{#vardefine: hour_unit | hr }}<!--
+-->{{#vardefine: min_unit | min }}<!--
+-->{{#vardefine: day_unit | day(s) }}<!--
+
+EVEN HOURS ARE EVENT HOURS
+-->{{#ifexpr: {{#var:hour}} mod 2 = 0
+| {{#ifexpr: {{#var:min}} < 5 
+     | <!-- EVENT HOUR, RIGHT BEFORE GEYSER 
+     -->{{#vardefine: geyser_status | {{#var:status_waiting}} }}<!--
+     -->{{#vardefine: geyser_time | {{#var:hour}}:05 {{#var:A}} }}<!--
+     -->{{#vardefine: geyser_countdown | {{#expr: {{#var:geyser}} - 60 }} {{#var:min_unit}} }} 
+     |{{#ifexpr: {{#var:min}} >= 5 and {{#var:min}} <= 15
+        | <!-- DURING GEYSER (:05 - :15)
+        -->{{#vardefine: geyser_status | {{#var:status_ongoing}} {{#var:hour}}:15 {{#var:A}} }}
+        | <!-- EVENT HOUR, RIGHT AFTER GEYSER
+        -->{{#vardefine: geyser_status | {{#var:status_waiting}} }}
+      }}<!-- NEXT GEYSER EVENT WILL BE 2 HRS AWAY
+      -->{{#vardefine: geyser_time | {{#var:sec_hour}}:05 {{#var:next_A}} }}<!--
+      -->{{#vardefine: geyser | {{#expr: 120 - {{#var:min}} + 5 }} }}<!--
+      -->{{#vardefine: geyser_countdown | {{#ifexpr: floor({{#var:geyser}}/60) = 0 | | {{#expr: floor({{#var:geyser}}/60) }} {{#var:hour_unit}} }} {{#ifexpr: {{#var:geyser}} mod 60 = 0 | | {{#expr: {{#var:geyser}} mod 60 }} {{#var:min_unit}} }} }} 
+  }} {{#ifexpr: {{#var:min}} < 35
+     | <!-- EVENT HOUR, RIGHT BEFORE DINNER
+     -->{{#vardefine: dinner_status | {{#var:status_waiting}} }}<!--
+     -->{{#vardefine: dinner_time | {{#var:hour}}:35 {{#var:A}} }}<!--
+     -->{{#vardefine: dinner_countdown | {{#expr: {{#var:dinner}} - 60 }} {{#var:min_unit}} }} 
+     |{{#ifexpr: {{#var:min}} >= 35 and {{#var:min}} <= 45
+        | <!-- DURING DINNER (:35 - :45)
+        -->{{#vardefine: dinner_status | {{#var:status_ongoing}} {{#var:hour}}:45 {{#var:A}} }}
+        | <!-- EVENT HOUR, RIGHT AFTER DINNER
+        -->{{#vardefine: dinner_status | {{#var:status_waiting}} }}
+      }}<!-- NEXT DINNER EVENT WILL BE 2 HRS AWAY
+      -->{{#vardefine: dinner_time | {{#var:sec_hour}}:35 {{#var:sec_A}} }}<!--
+      -->{{#vardefine: dinner | {{#expr: 120 - {{#var:min}} + 35 }} }}<!--
+      -->{{#vardefine: dinner_countdown | {{#ifexpr: floor({{#var:dinner}}/60) = 0 | | {{#expr: floor({{#var:dinner}}/60) }} {{#var:hour_unit}} }} {{#ifexpr: {{#var:dinner}} mod 60 = 0 | | {{#expr: {{#var:dinner}} mod 60 }} {{#var:min_unit}} }} }} 
+  }} {{#ifexpr: {{#var:min}} < 50
+     | <!-- EVENT HOUR, RIGHT BEFORE TURTLE
+     -->{{#vardefine: turtle_status | {{#var:status_waiting}} }}<!--
+     -->{{#vardefine: turtle_time | {{#var:hour}}:50 {{#var:A}} }}<!--
+     -->{{#vardefine: turtle_countdown | {{#expr: {{#var:turtle}} - 60 }} {{#var:min_unit}} }} 
+     |{{#ifexpr: {{#var:min}} >= 50 and {{#var:min}} <= 59
+        | <!-- DURING TURTLE (:50 - [+1]:00)
+        -->{{#vardefine: turtle_status | {{#var:status_ongoing}} {{#var:next_hour}}:00 {{#var:next_A}} }}
+        | <!-- EVENT HOUR, RIGHT AFTER TURTLE
+        -->{{#vardefine: turtle_status | {{#var:status_waiting}} }}
+      }}<!-- NEXT DINNER EVENT WILL BE 2 HRS AWAY
+      -->{{#vardefine: turtle_time | {{#var:sec_hour}}:50 {{#var:sec_A}} }}<!--
+      -->{{#vardefine: turtle | {{#expr: 120 - {{#var:min}} + 50 }} }}<!--
+      -->{{#vardefine: turtle_countdown | {{#ifexpr: floor({{#var:turtle}}/60) = 0 | | {{#expr: floor({{#var:turtle}}/60) }} {{#var:hour_unit}} }} {{#ifexpr: {{#var:turtle}} mod 60 = 0 | | {{#expr: {{#var:turtle}} mod 60 }} {{#var:min_unit}} }} }} 
+  }}<!--
+ODD HOURS ARE OFF HOURS -->
+|  {{#vardefine: geyser_status | {{#var:status_waiting}} }}<!--
+-->{{#vardefine: geyser_time | {{#var:next_hour}}:05 {{#var:next_A}} }}<!--
+-->{{#vardefine: geyser_countdown | {{#ifexpr: floor({{#var:geyser}}/60) = 0 | | 1 {{#var:hour_unit}} }} {{#ifexpr: {{#var:geyser}} mod 60 = 0 | | {{#expr: {{#var:geyser}} mod 60 }} {{#var:min_unit}} }} }}<!--
+-->{{#vardefine: dinner_status | {{#var:status_waiting}} }}<!--
+-->{{#vardefine: dinner_time | {{#var:next_hour}}:35 {{#var:next_A}} }}<!--
+-->{{#vardefine: dinner_countdown | {{#ifexpr: floor({{#var:dinner}}/60) = 0 | | 1 {{#var:hour_unit}} }} {{#ifexpr: {{#var:dinner}} mod 60 = 0 | | {{#expr: {{#var:dinner}} mod 60 }} {{#var:min_unit}} }} }}<!--
+-->{{#vardefine: turtle_status | {{#var:status_waiting}} }}<!--
+-->{{#vardefine: turtle_time | {{#var:next_hour}}:50 {{#var:next_A}} }}<!--
+-->{{#vardefine: turtle_countdown | {{#ifexpr: floor({{#var:turtle}}/60) = 0 | | 1 {{#var:hour_unit}} }} {{#ifexpr: {{#var:turtle}} mod 60 = 0 | | {{#expr: {{#var:turtle}} mod 60 }} {{#var:min_unit}} }} }}
+}} <!--
+
+Dreams Skater: FRI, SAT, SUN - odd hours from xx:00 - xx:15
+
+-->{{#vardefine: weekdayNum | {{Game Stat|today|format=N}} }} <!-- 1=Monday, 7=Sunday --><!--
+-->{{#vardefine: skater | {{#expr: 60 - {{#var:min}} + (60 * ({{#var:hour}} mod 2) ) }} }}<!--
+-->{{#switch: {{#var:weekdayNum}} 
+|1|2|3|4 = {{#vardefine: skater_status | {{#var: status_na}} }}<!--
+-->{{#vardefine: skater_time | {{#var: fri}} }}<!--
+-->{{#vardefine: skater_countdown | {{#expr: 5 - {{#var:weekdayNum}} }} {{#var:day_unit}} }}
+|5|6|7= {{#ifexpr: {{#var:hour}} mod 2 = 1 <!--
+OOD HOURS ARE EVENT HOURS -->
+  | {{#ifexpr: {{#var:min}} > 15
+       | <!-- EVENT HOUR, RIGHT AFTER SKATER
+       -->{{#vardefine: skater_status | {{#var:status_waiting}} }}
+       | <!-- DURING SKATER (:00 - :15)
+       -->{{#vardefine: skater_status | {{#var:status_ongoing}} {{#var:hour}}:15 {{#var:A}} }}
+    }}<!-- NEXT SKATER EVENT WILL BE 2 HRS AWAY
+      -->{{#vardefine: skater_time| {{#var:sec_hour}}:00 {{#var:sec_A}} }}<!--
+      -->{{#vardefine: skater_countdown | {{#ifexpr: floor({{#var:skater}}/60) = 0 | | {{#expr: floor({{#var:skater}}/60) }} {{#var:hour_unit}} }} {{#ifexpr: {{#var:skater}} mod 60 = 0 | | {{#expr: {{#var:skater}} mod 60 }} {{#var:min_unit}} }} }} <!--
+EVEN HOURS ARE OFF HOURS -->
+  | {{#vardefine: skater_status | {{#var:status_waiting}} }}<!--
+  -->{{#vardefine: skater_time | {{#var:next_hour}}:00 {{#var:next_A}} }}<!--
+  -->{{#vardefine: skater_countdown | {{#ifexpr: floor({{#var:skater}}/60) = 0 | | 1 {{#var:hour_unit}} }} {{#ifexpr: {{#var:skater}} mod 60 = 0 | | {{#expr: {{#var:skater}} mod 60 }} {{#var:min_unit}} }} }}
+  }} 
+}}<!--
+    
+    Fireworks Festival: 1st day of each month (midnight, 4:00 AM/PM, 8:00 AM/PM, noon for ~10 min)
+
+-->{{#vardefine: month | {{Game Stat|today|format=m}} }}<!--
+-->{{#vardefine: day | {{Game Stat|today|format=d}} }}<!--
+-->{{#vardefine: fest | {{#expr: 240 - {{#var:min}} }} }}<!--
+-->{{#ifeq: {{#var:day}} | 1
+| {{#switch: {{#var:hour}} <!--
+EVENT HAPPENS EVERY FOUR HOURS -->
+   |12|4|8= {{#ifexpr: {{#var:min}} <= 10
+       | <!-- DURING FIREWORKS
+       -->{{#vardefine: festival_status | {{#var:status_ongoing}} {{#var:hour}}:10 {{#var:A}} }}
+       | <!-- EVENT HOUR, RIGHT AFTER FIREWORKS
+       -->{{#vardefine: festival_status | {{#var:status_waiting}} }}
+      }}<!-- NEXT FIREWORKS EVENT WILL BE 4 HRS AWAY
+      -->{{#vardefine: festival_time | {{#switch: {{#var:hour}}<!--
+                                       -->|12=4:00 {{#var:A}}<!--
+                                       -->|4=8:00 {{#var:A}}<!--
+                                       -->|8=12:00 {{#ifeq: {{#var:A}} | AM | PM | AM }} }} }}<!--
+      -->{{#vardefine: festival_countdown | {{#ifexpr: floor({{#var:fest}}/60) = 0 | | {{#expr: floor({{#var:fest}}/60) }} {{#var:hour_unit}} }} {{#ifexpr: {{#var:fest}} mod 60 = 0 | | {{#expr: {{#var:fest}} mod 60 }} {{#var:min_unit}} }} }}<!--
+EVENT OFF HOURS -->
+   |1|2|3|5|6|7|9|10|11= {{#vardefine: festival_status | {{#var:status_waiting}} }}<!--
+   -->{{#vardefine: festival_time | {{#expr: 4 * ceil({{#var:hour}}/4) }}:00 {{#var:A}} }}<!--
+   -->{{#vardefine: fest | {{#expr: (60 * (4 - ({{#var:hour}} mod 4))) - {{#var:min}} }} }}<!--
+   -->{{#vardefine: festival_countdown | {{#ifexpr: floor({{#var:fest}}/60) = 0 | | {{#expr: floor({{#var:fest}}/60) }} {{#var:hour_unit}} }} {{#ifexpr: {{#var:fest}} mod 60 = 0 | | {{#expr: {{#var:fest}} mod 60 }} {{#var:min_unit}} }} }}
+  }} <!--
+FOR DAYS NOT THE FIRST OF A MONTH -->
+| {{#vardefine: festival_status | {{#var:status_na}} }}<!--
+-->{{#vardefine: festival_time | {{#var: first}} }}<!--
+-->{{#vardefine: festival_countdown | {{#switch: {{#var:month}} 
+     |1|3|5|7|8|10|12 = {{#expr: 31 - {{#var:day}} }}
+     |4|6|9|11 = {{#expr: 30 - {{#var:day}} }}
+     |2 = {{#expr: 28 - {{#var:day}} }}
+     }} {{#var:day_unit}} }}
+}}<!--
+
+    AURORA Concert: 2:00 AM/PM, 6:00 AM/PM, 10:00 AM/PM (every 4 hours for 45 min)
+
+-->{{#vardefine: concert | {{#expr: 240 - {{#var:min}} }} }}
+{{#switch: {{#var:hour}} <!--
+EVENT HAPPENS EVERY FOUR HOURS -->
+   |2|6|10= {{#ifexpr: {{#var:min}} <= 45
+       | <!-- DURING CONCERT
+       -->{{#vardefine: concert_status | {{#var:status_ongoing}} {{#var:hour}}:45 {{#var:A}} }}
+       | <!-- EVENT HOUR, RIGHT AFTER CONCERT
+       -->{{#vardefine: concert_status | {{#var:status_waiting}} }}
+      }}<!-- NEXT CONCERT EVENT WILL BE 4 HRS AWAY
+      -->{{#vardefine: concert_time | {{#switch: {{#var:hour}}<!--
+                                       -->|2=6:00 {{#var:A}}<!--
+                                       -->|6=10:00 {{#var:A}}<!--
+                                       -->|10=2:00 {{#ifeq: {{#var:A}} | AM | PM | AM }} }} }}<!--
+      -->{{#vardefine: concert_countdown | {{#ifexpr: floor({{#var:concert}}/60) = 0 | | {{#expr: floor({{#var:concert}}/60) }}{{#var:hour_unit}} }} {{#ifexpr: {{#var:concert}} mod 60 = 0 | | {{#expr: {{#var:concert}} mod 60 }} {{#var:min_unit}} }} }}<!--
+EVENT OFF HOURS -->
+   |11|12= {{#vardefine: concert_status | {{#var:status_waiting}} }}<!--
+   -->{{#vardefine: concert_time | 2:00 {{#var:A}} }}<!--
+   -->{{#vardefine: concert | {{#expr: (60 * (3 - ({{#var:hour}} - 11))) - {{#var:min}} }} }}<!--
+   -->{{#vardefine: concert_countdown | {{#ifexpr: floor({{#var:concert}}/60) = 0 | | {{#expr: floor({{#var:concert}}/60) }} {{#var:hour_unit}} }} {{#ifexpr: {{#var:concert}} mod 60 = 0 | | {{#expr: {{#var:concert}} mod 60 }} {{#var:min_unit}} }} }}
+   |1= {{#vardefine: concert_status | {{#var:status_waiting}} }}<!--
+   -->{{#vardefine: concert_time | 2:00 {{#var:A}} }}<!--
+   -->{{#vardefine: concert | {{#expr: (60 - {{#var:min}} }} }}<!--
+   -->{{#vardefine: concert_countdown | {{#ifexpr: floor({{#var:concert}}/60) = 0 | | {{#expr: floor({{#var:concert}}/60) }} {{#var:hour_unit}} }} {{#ifexpr: {{#var:concert}} mod 60 = 0 | | {{#expr: {{#var:concert}} mod 60 }} {{#var:min_unit}} }} }}
+   |3|4|5= {{#vardefine: concert_status | {{#var:status_waiting}} }}<!--
+   -->{{#vardefine: concert_time | 6:00 {{#var:A}} }}<!--
+   -->{{#vardefine: concert | {{#expr: (60 * (3 - ({{#var:hour}} - 3))) - {{#var:min}} }} }}<!--
+   -->{{#vardefine: concert_countdown | {{#ifexpr: floor({{#var:concert}}/60) = 0 | | {{#expr: floor({{#var:concert}}/60) }} {{#var:hour_unit}} }} {{#ifexpr: {{#var:concert}} mod 60 = 0 | | {{#expr: {{#var:concert}} mod 60 }} {{#var:min_unit}} }} }}
+   |7|8|9= {{#vardefine: concert_status | {{#var:status_waiting}} }}<!--
+   -->{{#vardefine: concert_time | 10:00 {{#var:A}} }}<!--
+   -->{{#vardefine: concert | {{#expr: (60 * (3 - ({{#var:hour}} - 7))) - {{#var:min}} }} }}<!--
+   -->{{#vardefine: concert_countdown | {{#ifexpr: floor({{#var:concert}}/60) = 0 | | {{#expr: floor({{#var:concert}}/60) }} {{#var:hour_unit}} }} {{#ifexpr: {{#var:concert}} mod 60 = 0 | | {{#expr: {{#var:concert}} mod 60 }} {{#var:min_unit}} }} }}
+}}
+
+{{Purge}}
+
+{| class="wikitable" style="text-align:center;"
+| colspan=4 style="padding: 10px;" | As of '''{{Game Stat|now|format= g:i A}} {{Game Stat|timezone}}'''...
+|-
+! 
+! width="25%" | [[Additional Light Sources#Polluted Geyser|Geyser]]
+! width="25%" | [[Additional Light Sources#Grandma's Dinner Event|Grandma's Dinner]]
+! width="25%" | [[Additional Light Sources#Sunset Sanctuary Turtle|Sunset Turtle]]
+|-
+! Status
+| {{#var: geyser_status }} 
+| {{#var: dinner_status }} 
+| {{#var: turtle_status }} 
+|-
+! rowspan=2 | Next Event
+| {{#var: geyser_time }} 
+| {{#var: dinner_time }} 
+| {{#var: turtle_time }} 
+|-
+| {{#var: geyser_countdown }} 
+| {{#var: dinner_countdown }} 
+| {{#var: turtle_countdown }} 
+|-
+! 
+! [[Additional Light Sources#Dreams Skater|Dreams Skater]]
+! [[AURORA Concert]]
+! [[Aviary’s Firework Festival#The Finale|Fireworks Festival]]
+|-
+! Status
+| {{#var: skater_status }}
+| {{#var: concert_status }}
+| {{#var: festival_status }}
+|-
+! rowspan=2 | Next Event
+| {{#var: skater_time }}
+| {{#var: concert_time }}
+| {{#var: festival_time }}
+|-
+| {{#var: skater_countdown }}
+| {{#var: concert_countdown }}
+| {{#var: festival_countdown }}
+|}
+
+{{Clear}}
+
+==Treasure Candles==
+{{Main|Treasure Candles}}<!--
+-->{{#section-h:Treasure Candles|Today's Treasure Candle Rotation}}
+==Featured Music Sheet==
+{{Main|Harmony Hall}}<!--
+-->{{#lst:Harmony Hall|music_challenge}}
+==Nesting Workshop Furniture==
+{{Main|Nesting Workshop}}<!--
+-->{| class="article-table" style="text-align:center;"
+|This Week's until Sunday
+|{{#lst:Nesting Workshop|Current Furniture}}
+|}
+
+==Shard==
+{{Main|Shard Eruptions}}<!--
+-->{{#section-h:Shard Eruptions|Today's Shard}}
+==Seasonal Candles==
+{{#if: {{Game Stat|season}} 
+| {{Main|Season of {{Game Stat|season}} }}<!--
+-->{{#section-h:Season of {{Game Stat|season}}|Seasonal Candle Bunches Locations}}
+Use the [[Seasonal_Events/Calculator|Sky Seasonal Candle Calculator]] to figure out how many Seasonal Candles you need to collect all the Cosmetics in the Season.
+| There is currently no active Season and therefore, no Seasonal Candles are available.}}
+==Traveling Spirit==
+{{#if:{{Game Stat|ts}}
+|The current Traveling Spirit is the '''[[{{Game Stat|ts}}]]'''.
+{{#lst:{{Game Stat|ts}}|TS Friendship Tree}}
+|There is currently no Traveling Spirit.
+}}
+==Event Ticket Locations==
+{{#if: {{Game Stat|days}} 
+| {{Main|Days of {{Game Stat|days}} }}<!--
+-->{{#section-h:Days of {{Game Stat|days}}|Ticket Locations}} 
+| There is currently no active Event and therefore, no Tickets are available.}}
+==References==
+<references/>

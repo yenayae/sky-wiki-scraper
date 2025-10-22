@@ -1,0 +1,876 @@
+[[File:Sky-AURORA-logo.png|center|x200px]]
+[[File:Aurora-concert-promo-image.jpg|thumb|350x350px|AURORA Concert Promo image by TGC]]
+
+A true artistic collaboration with acclaimed Norwegian singer known for hits: 'Runaway', 'Cure for Me', 'Running with the Wolves' and Frozen II's, 'Into the Unknown'. AURORA took center stage, guiding concert-goers through this unprecedented musical journey.<br>
+<br>
+{{#ev:youtube|IpWZdfX33q4||inline|Season of AURORA Trailer}}
+
+<section begin="AURORA Concert Navbox"/><br>
+<div class="event-years-calendar">
+<div class="mainpage-block">
+{{Header|'''[[AURORA: Homecoming]]'''}}
+<center>June 9 to July 22, 2025</center>
+<center>[[File:Aurora-Homecoming-2025-promotion-The Queen Is Returning to the Realms.png|none|thumb|275px|link=AURORA: Homecoming]]</center>
+</div>
+<div class="mainpage-block">
+{{Header|'''[[AURORA Encore Concerts]]'''}}
+<center>August 23 to September 3, 2023</center>
+<center>[[File:Aurora-Encore-2023-gamescom-promo-image.png|none|thumb|275px|link=AURORA Encore Concerts]]</center>
+</div>
+<div class="mainpage-block">
+{{Header|'''[[AURORA Concert]]'''}}
+<center>December 8, 2022</center>
+<center>[[File:Aurora-concert-promo-image.jpg|none|thumb|275px|link=AURORA Concert]]</center>
+</div>
+<div class="mainpage-block">
+{{Header|'''[[Season of AURORA]]}}'''
+<center>October 17, 2022 to January 2, 2023</center> 
+<center>[[File:SoAurora-Promo-image-wide.png|none|thumb|275px|link=Season of AURORA]]</center>
+</div>
+</div>
+{{Clear}}<section end="AURORA Concert Navbox"/>
+
+==Description==
+<section begin="Summary"/>The '''AURORA Concert''' (also referred to as '''The Musical Voyage''') is a special event that first occurred '''December 8, 2022 at 20:30 PST (UTC-8)''' and lasted approximately '''50''' minutes. Utilizing the [[Festival Tech]] feature, ''Sky'' delivered a revolutionary musical journey where players can feel the wave of emotions from thousands of other players on the same screen, at the same time. The AURORA Concert then repeated every 4 hours starting at '''midnight 00:00 PST (UTC-8)''' through to '''January 2, 2023'''.<section end="Summary"/>
+
+The AURORA Concert currently repeats every 2 hours<ref>On December 2024, in celebration of the second anniversary of the AURORA concert, TGC [https://x.com/thatskygame/status/1864429573355504006 changed] the in-game schedule for concerts from four hours to two hours. </ref> starting at '''midnight 00:00 PST (UTC-8)'''.
+
+For the occasion, the [[Coliseum]] in Valley of Triumph received numerous transformations throughout the [[Season of AURORA#Spirit Memory Quests|Season's Quests]], resulting in the stage turning into a magical nighttime scene, with colorful, glowing murals spread around the wide area, themed after Sky's [[Creatures|creatures]]. 
+
+After the last Quest of the [[Season of AURORA]], players were invited to "reserve" their seat in the Coliseum and attend the event at the announced date and time.
+
+===Concert Expressions===
+Players have the ability to chat with players in the same group or row. Four {{icon|Festival-tech-emote-Ray.png|inline}} [[Expression]] emojis are available at the bottom of the screen for the duration of the event, which will each trigger the emoji to be displayed over the player's head and perform the corresponding Expression.
+*{{Icon|FT-light.png|inline}} Waving Light, {{Emote|Running Wayfarer|inline_text}} (Level 2) 
+*{{Icon|FT-Heart.png|inline}} Heart, {{Emote|Admiring Actor|inline_text}} (Level 2)
+*{{icon|FT-happy.png|inline}} Happy, {{Emote|Dismayed Hunter|inline_text}} (Level 4)
+*{{icon|FT-sad.png|inline}} Cry, {{Emote|Tearful Light Miner|inline_text}} (Level 2)
+
+===Post-Season===
+The AURORA Concert can still be accessed after the end of the Season, exclusively to those who own the {{Spirit Item|AURORA Guide|Wings of AURORA|label=Wings of AURORA|inline_text}} and friends they are holding hands with.
+
+As an exclusive one-time event, the AURORA Concert later returned in August 2023 for an attempt to host the biggest virtual concert experience, with a goal of 10,000 players attending the Concert at once - the [[AURORA Encore Concerts]]. It returned once again in June 2025, for another exclusive one-time event—the [[AURORA: Homecoming]], held to celebrate AURORA's real-life return home to Norway following her world tour.
+
+Since [[Sky Anniversary#Skyfest July 2024|Sky's 5th Anniversary]], during every Anniversary, a mannequin wearing the Wings of AURORA can be found in the [[Secret Area]], which enables players to activate a 2-minute Spell and teleport to the Concert area.
+
+==Pre- & Post-Concert Activities==
+Before and after the Concert, several activities can be taken part in, that are scattered around the [[Coliseum]]. 
+
+===Sound Bath===
+<div>{{#ev:youtube|1rREGoUxp9Q|150px|right|AURORA Sound Bath}}</div>
+The Sound Bath is a meditative space for players who would like some quiet time before or after the concert. It can be found behind a curtain with a {{Spirit|Prophet of Water|icon}} sign placed in front, to the Coliseum's right wing if facing the [[Valley of Triumph# Temple|Temple]]. Inside is a pile of stones rounded with mats and decorated with small lights and candles. Soothing tunes play and sparkles are spread around the stone pile, which will disperse if touched on the screen - similar to the [[Star Collector#Prop|Star Lamp Prop]]. Players may {{Emote|Sit|link=Menus and Controls#Sit|label=Sit|inline_text}} on a mat to lay down and relax for as long as they like. AURORA's voice guides the player into relaxation. The meditation can be cancelled anytime by moving your avatar or flying up once.<br><br>
+{{Collapse
+|label=Dialogue from AURORA's Sound Bath
+|content=<br>
+* "You're safe here"
+* "Breathe in..."
+* "Breathe out..."
+* "And again,"
+* "Breathe out..."
+* "Breathe in..."
+* (repeats "Breathe out.. Breathe in...")
+* "Feel your body light as a feather..."
+* (repeats "Breathe out.. Breathe in...")
+* "Look up at the stars, you are a star."
+* (repeats "Breathe out.. Breathe in...")
+* "Well done! You were doing great."
+}}<br>
+
+Only ''after'' each concert, AURORA be found inside this space, in form of sparkles, idly standing and swinging her arms. If approached by the player, she will offer a {{Icon|Icon hug.png|link=Friendship Menu#Hug|label=Hug|inline_text}}, and speaks after the embrace, "Thank you so much for the love! You are so beautiful. And remember to give some of that love to yourself too." Players can hug her multiple times, but she will not repeat her dialogue.
+
+<small>Note that [[Spells]], [[Instruments]], and [[Props]] will be deactivated upon entering the Sound Bath; they will return once the player exits the space again.</small><br><br>
+
+<gallery widths="250" position="center" captionalign="center" spacing="small">
+AURORA-Concert-Sound-Bath-Entrance.png|The Sound Bath entrance
+AURORA-Concert-Sound-Bath-Interior.png|The Sound Bath interior
+AURORA-post-concert-sound-bath.png|AURORA inside the Sound Bath after the Concert
+</gallery>
+
+==Limited Cosmetics==
+Once the Concert finished, new [[Premium Candle Shop|IAP]] cosmetics were available for players to purchase from the Mannequin Shop that appears in the Coliseum after completing the [[Season of AURORA#Quest #1|first Quest]]. Free trial Spells of these collaboration IAPs (excluding the [[#Wings of AURORA|Wings of AURORA]]) were available to collect from the Sleepy Traveler's boat at the Coliseum. All Seasonal IAPs offered for the AURORA collaboration were available until the Season ended '''January 2, 2023 at 02:00 PST (UTC-8)'''.
+
+Please note that since all these items were part of a limited collaboration, they will not be available once the Season is over and are not scheduled to return in future years. <small>(Prices below are in USD, with actual costs varying depending on region/currency.)</small>
+
+===To The Love Outfit===
+<section begin="Love Outfit" />
+::'''''"Live every page of life unapologetically."'''''
+The To The Love Outfit is a peach dress with a gold corset, resembling the outfit worn by AURORA in the "[https://youtu.be/MMyNw354a4c Giving In To The Love]" music video. This [[Outfit]] was introduced as a ''limited-time offer'' in 2022 for {{USD|9.99|refnote}} from the Mannequin Shop in the [[Coliseum]] for the duration of the Season. It became available '''December 8 at 17:00 PST (UTC-8)''', during the countdown to the Concert's debut. It later returned in 2023 for the [[AURORA Encore Concerts]]. <small>(Since these are part of a limited collaboration, they are not scheduled to return in future years.)</small><br>
+<br>
+{{#tag:gallery
+|SoAurora-To-The-Love-Outfit-IAP-Morybel-0146.png {{!}} To The Love Outfit IAP
+{{Icon Name|Aurora Guide|outfit_t|icon}} {{!}} To The Love Outfit icon
+{{Icon Name|Aurora Guide|outfit_t|real}} {{!}} To The Love Outfit front
+SoAurora-To-The-Love-Outfit-back.png {{!}} To The Love Outfit back
+Aurora-To-The-Love-Outfit-Spell-Morybel-0146.png {{!}} To The Love Outfit Spell icon
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}<section end="Love Outfit" />
+
+===Giving In Cape===
+<section begin="Giving Cape" />
+::'''''"See the fire inside made known."'''''
+The Giving In Cape is a transparent sparkly red cape with white feathers at the shoulders, resembling the cape worn by AURORA in the "[https://youtu.be/MMyNw354a4c Giving In To The Love]" music video. This [[Cape]] was introduced as a ''limited-time offer'' in 2022 for {{USD|14.99|refnote}} from the Mannequin Shop in the [[Coliseum]] for the duration of the Season. It became available '''December 8 at 17:00 PST (UTC-8)''' during the countdown to the Concert's debut. It later returned in 2023 for the [[AURORA Encore Concerts]]. <small>(Since these are part of a limited collaboration, they are not scheduled to return in future years.)</small><br>
+<br>
+{{#tag:gallery
+|SoAurora-Giving-In-Cape-IAP-Morybel-0146.png {{!}} Giving In Cape IAP
+{{Icon Name|Aurora Guide|cape_g|icon}} {{!}} Giving In Cape icon
+SoAurora-Giving-In-Cape-IAP-Cape-front.png {{!}} Giving In Cape front
+SoAurora-Giving-In-Cape-IAP-Cape-front-butterfly.png {{!}} Giving In Cape interior
+{{Icon Name|Aurora Guide|cape_g|real}} {{!}} Giving In Cape back
+SoAurora-Giving-In-Cape-IAP-Cape-back-butterfly.png {{!}} Giving In Cape exterior
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}<section end="Giving Cape" />
+
+===Wings of AURORA ===
+<section begin="AURORA Wings" />
+::'''''"Both immediate and timeless. Allows AURORA's breathtaking performance to reappear in the Coliseum of Triumph for you and friends you're holding hands with."'''''
+The Wings of AURORA are a transparent sparkly gold cape resembling butterfly wings and the Season's symbol. This [[Cape]] was introduced as a ''limited-time offer'' in 2022 for {{USD|24.99|refnote}} from the Mannequin Shop in the [[Coliseum]] for the duration of the Season. It became available after completing all [[Season of AURORA#Spirit Memory Quests|Seasonal Quests]] and attending the Concert. It later returned in 2023 for the [[AURORA Encore Concerts]].
+
+This item gives the wearer and the friends they hold hands with a special ability to view the Concert in one of its six time slots, even after the Season ended. The option to replay the Concert is enabled in the [[Menus_and_Controls#Expression_Menu|Expression Menu]] from anywhere in Sky; simply open the [[Menus_and_Controls#Emote_Submenu|Emote Submenu]] with the item equipped and select the Cape's icon to be teleported to the version of the Coliseum prepared for the Concert.  The pre-Concert activities are available before the start of the show, too. <small>(Since these are part of a limited collaboration, they are not scheduled to return in future years.)</small><br>
+<br>
+{{#tag:gallery
+|SoAURORA-Wings-of-AURORA-Cape-IAP-Morybel-0146.png {{!}} Wings of AURORA IAP
+{{Icon Name|Aurora Guide|cape_w|icon}} {{!}} Wings of AURORA icon
+SoAURORA-Wings-of-AURORA-Cape-front.png {{!}} Wings of AURORA front
+SoAURORA-Wings-of-AURORA-Cape-font-butterfly.png {{!}} Wings of AURORA interior
+{{Icon Name|Aurora Guide|cape_w|real}} {{!}} Wings of AURORA back
+SoAURORA-Wings-of-AURORA-Cape-back-butterfly.png {{!}} Wings of AURORA exterior
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}<section end="AURORA Wings" />
+
+==Seating Arrangements==
+Each seat has a unique number and once a player has chosen their seat, they are automatically teleported back to that seat during the concert when everyone comes back to the Coliseum inbetween the songs.
+
+Of the seats available, 4 groups of them are VIP seats, only usable when the white candles behind the seats are lit up. They are shaped like sofas.<br>
+
+=== Before the world record attempt ===
+4176 seats were available but the number of attendees was unlimited.
+
+The VIP seats were the 4 rows 519-522, located in front of the two Prop-filled side rooms.
+[[File:AURORA-Seating-Chart-Ray.png|thumb|350px|center|AURORA Former Seating Chart by Ray808080]]
+<br>
+
+=== Since the world record attempt ===
+
+The total number of seats is 10144 which is also the uppermost capacity per server, see screenshot from the Skyfest 2024 cinema screening "How We Got 10,000 Players into a Level" with Sam McGrath, attached below.
+
+The seats are parted into groups of 8 players, which is the usual server capacity outside of the concert. Within a group, players can see each other like regular sky kids and can light each other up and interact like in a regular server.
+
+With players outside of their own group they can only interact via the 4 Concert Expressions. These other concert attendees are rendered as colored cones with a white/greyish head, with their cape color reflecting the color of the cape they are actually wearing. The farther a player is from your own sky kid, the less detailed it will be rendered. Names of friends that are in different seat groups will be displayed on screen upon honking.
+
+The 32 VIP seats are in 4 groups under the two canopies. VIP group 1265 and 1266 is below the exits with the Season of Dreams quest statue and group 1267 and 1268 are below AURORA guide.
+[[File:Skyfest 20240717184943.jpg|thumb|350px|center|Information about the concert seating, taken from Skyfest 2024 cinema]]
+<br>
+{{Clear}}
+
+==The Introduction==
+{{#ev:youtube|lzUg5ffOyOo|400|right|The full AURORA Concert||start=57}}
+At '''00:00''', the Concert starts with the crowd cheering and clapping. The atmosphere is full of excitement and the camera pans around the Coliseum to show many ghost figures; all players attending the Concert. Then, the AURORA Guide, enveloped in a colorful sphere, glides across the Coliseum and onto center Stage.
+
+A large memory sphere expands and covers the entire Coliseum.
+{{Clear}}
+
+==First Performance: Exhale Inhale==
+{| class="article-table mw-collapsible mw-collapsed" style="float:right; margin-left:1em;"
+! Exhale Inhale Lyrics
+|-
+| <small>
+En en en hm, en en hm<br>
+En en hm, en en en hm<br>
+En en hm, en en hm<br>
+En en hm, en en hm<br>
+En en hm<br>
+<br>
+I was a moving thing<br>
+Before I was a human being<br>
+I was the ice before it melts<br>
+I was the tree before it fell<br>
+<br>
+My dear, come near<br>
+Do you understand what is happening?<br>
+<br>
+Crawl beneath the earth<br>
+To feel the hunger and the thirst<br>
+If you could fly and be the bird<br>
+Then you would see the forest burn<br>
+<br>
+My dear, come near<br>
+Do you understand what is happening?<br>
+<br>
+(Em-mmm-mmm-mmm)<br>
+Who is calling me? For the emergency<br>
+(Em-mmm-mmm-mmm)<br>
+Who is listening? To the sirens singing<br>
+<br>
+We are stood and somehow calm<br>
+Within the madness of the storm<br>
+<br>
+With no solution for the scared<br>
+Tasting pollution in the air<br>
+My dear, come near<br>
+Do you feel my hand? It is there<br>
+<br>
+(Exhale) Inhale (Exhale) Inhale<br>
+(Exhale) Inhale (Exhale) Inhale<br>
+(Exhale) Inhale (Exhale) Inhale<br>
+(Exhale) Inhale (Exhale) Inhale<br>
+<br>
+(Em-mmm-mmm-mmm)<br>
+Who is calling me? For the emergency<br>
+(Em-mmm-mmm-mmm)<br>
+Who is listening? To the sirens singing<br>
+<br>
+(Em-mmm-mmm-mmm)<br>
+Take from my world no more<br>
+(Em-mmm-mmm-mmm)<br>
+(Em-mmm-mmm-mmm)<br>
+Take from my world no more<br>
+(Em-mmm-mmm-mmm)<br>
+(Em-mmm-mmm-mmm)<br>
+(Em-mmm-mmm-mmm)<br>
+Take from my world no more<br>
+(Em-mmm-mmm-mmm)<br>
+(Em-mmm-mmm-mmm)<br>
+(Em-mmm-mmm-mmm)</small>
+|}
+
+The players are then individually teleported to a new void area, standing on a rock surrounded by dark water. 
+Glowing particles merge that form a light - it begins to sing "[https://www.youtube.com/watch?v=lzUg5ffOyOo&t=147s Exhale Inhale]" by AURORA, pulsating with each note. ''(See Lyrics)''
+
+A black tree grows from the water. The light lands on the tree and purple particles emerge from the it, like leaves. As the leaves fall off, the light transforms into a glowing bird and flies to perch on a rock. Mantas jump out of the water in the background. The light exits the shell of its bird form, which gets consumed by an emerging Darkness Plant. Briefly transforming into a Manta, the light abandons its shell, which turns into a Manta-shaped Darkness Plant.<br>
+<br>
+<gallery widths="300px" position="center" spacing="small">
+AURORA-Concert-Song-1-Area.png
+AURORA-Concert-Song-1-Tree.png
+AURORA-Concert-Song-1-Manta.png
+</gallery>
+<br>
+A large flock of birds converge at the light. The light ascends and turns the sky green. With a flash of lightning, AURORA appears, dressed in her {{Spirit Item|AURORA Guide|outfit_i|label=Runaway Outfit|inline_text}} under the rain. As AURORA slowly raises her hands, the light exits her body and flies towards the player, bursting into blue specks of light. Suddenly, five Ancestor Spirits appear around the player, standing in a circle. They all ascend with the light and the large rock under the player rises from the water, high above the clouds.<br><br>
+<gallery widths="300px" position="center" spacing="small">
+AURORA-Concert-Song-1-Green-Rain.png
+AURORA-Concert-Song-1-Blue.png
+AURORA-Concert-Song-1-Ancestor-Circle.png
+AURORA-Concert-Song-1-Rising-Rock.png
+</gallery>
+<br>
+A large group of birds surrounds the light. As the camera zooms out, the scene suddenly looks out of focus and it is revealed that the player was inside the colorful sphere. The scene fades to black.<br><br>
+[[File:AURORA-Concert-Song-1-End.png|thumb|left|300px]]
+{{Clear}}
+
+===Intermission 1===
+AURORA emerges from her colorful sphere and gracefully floats down onto the stage, surrounded by sparkles and light as the crowd cheers. She is dressed in her {{Spirit Item|AURORA Guide|outfit_i|label=Runaway Outfit|link=Season of AURORA#Runaway Outfit|inline_text}} and the {{Spirit Item|AURORA Guide|cape_u|link=AURORA Guide#AURORA Ultimate Cape|inline_text}}.<br>
+<br>
+AURORA: 
+*"Hello Friends! I'm so happy to be here with you!"
+*"Look at you! We are all here together!"
+*"Let's all call to each other!"
+
+Players are then invited to honk loudly all together.
+
+*"Oh, how pretty you are!"
+*"I see you!"
+*"The natural world is our guiding light. Let's follow it now…"
+
+AURORA welcomes the [[Running Wayfarer]], who walks onto the stage from the [[Valley of Triumph#Valley Temple|Temple]]. They kneel down before AURORA, offering a dark sphere from their hands, filled with colorful sparkles. As AURORA lifts her palms over the Spirits', the sphere expands until it covers the entire Coliseum.<br>
+<br>
+<gallery widths="300px" position="center" spacing="small">
+AURORA-Concert-Inter-1-Stage.png
+AURORA-Concert-Inter-1-Sphere.png
+</gallery>
+{{Clear}}
+
+==Second Performance: Runaway==
+{| class="article-table mw-collapsible mw-collapsed" style="float:right; margin-left:1em;"
+! Runaway Lyrics
+|-
+| <small>
+I was listening to the ocean<br>
+I saw a face in the sand<br>
+But when I picked it up<br>
+Then it vanished away from my hands<br>
+I had a dream I was seven<br>
+Climbing my way in a tree<br>
+I saw a piece of heaven<br>
+Waiting, impatient, for me<br>
+<br>
+And I was running far away<br>
+Would I run off the world someday?<br>
+Nobody knows, nobody knows<br>
+And I was dancing in the rain<br>
+I felt alive and I can't complain<br>
+<br>
+But now take me home<br>
+Take me home where I belong<br>
+I can't take it anymore<br>
+<br>
+I was painting a picture<br>
+The picture was a painting of you<br>
+And for a moment I thought you were here<br>
+But then again, it wasn't true<br>
+And all this time I have been lying<br>
+Oh, lying in secret to myself<br>
+I've been putting sorrow on the farthest place on my shelf, La-di-da!<br>
+<br>
+And I was running far away<br>
+Would I run off the world someday?<br>
+Nobody knows, nobody knows<br>
+And I was dancing in the rain<br>
+I felt alive and I can't complain<br>
+<br>
+But now take me home<br>
+Take me home where I belong<br>
+I got no other place to go<br>
+Now take me home<br>
+Take me home where I belong<br>
+I got no other place to go<br>
+Now take me home<br>
+Take me home where I belong<br>
+I can't take it anymore<br>
+<br>
+But I kept running for a soft place to fall<br>
+And I kept running for a soft place to fall<br>
+And I kept running for a soft place to fall<br>
+And I kept running for a soft place to fall<br>
+<br>
+And I was running far away<br>
+Would I run off the world someday?<br>
+<br>
+But now take me home<br>
+Take me home where I belong<br>
+I got no other place to go<br>
+Now take me home<br>
+Take me home where I belong<br>
+I got no other place to go<br>
+<br>
+Now take me home, home where I belong<br>
+Now take me home, home where I belong<br>
+Now take me home, home where I belong<br>
+Now take me home, home where I belong<br>
+I can't take it anymore</small>
+|}
+
+Players are collectively transported to a deep blue underwater cavern, swimming around as colorful knifefish. Glowing golden particles merge to form a light in the middle of the swarm, and it begins to sing "[https://www.youtube.com/watch?v=lzUg5ffOyOo&t=514s Runaway]" by AURORA. ''(See Lyrics)''
+
+A school of triangular angelfish appears and groups together to propel the light out of the water, where it shoots up into a rainy night and explodes into sparkles. The Players, now Butterflies, follow the light gliding across the surface of water where small Mantas jump in and out alongside them, splashing water with each dive.<br>
+<br>
+<gallery widths="300px" position="center" spacing="small">
+AURORA-Concert-Song-2-Area.png
+AURORA-Concert-Song-2-Fish.png
+AURORA-Concert-Song-2-Jump.png
+AURORA-Concert-Song-2-Butterfly.png
+</gallery>
+<br>
+After a brief flight through clouds, the light finally reaches land at last. A queue of Spirits guided by birds are walking towards what looks like a past vision of the Isle of Dawn – a once flourishing land, full of vegetation. The Spirits climb the main rock formation, where the light is waiting at its extremity. A small kid, the first to reach the top, extends their hand towards the light. All the Spirits are now kneeling and praying to the light, which contracts as the sky grows darker. It extends again, bursting into a shower of sparkles and many flying boats appear, rescuing the group to take them home where they belong.<br>
+<br>
+<gallery widths="300px" position="center" spacing="small">
+AURORA-Concert-Song-2-Queue.png
+AURORA-Concert-Song-2-Isle.png
+AURORA-Concert-Song-2-Rock.png
+AURORA-Concert-Song-2-Prayer.png
+AURORA-Concert-Song-2-Boats.png
+</gallery>
+<br>
+As the players transform into birds, they vanish out of sight except for the player, flying over the boats, past the Isle Elder standing in the doorway of the Temple, into the clouds leading to the Prairie. Then, all the other players join the player from behind, flying towards the mountain in the distance. The scene fades to black.<br>
+<br>
+<gallery widths="300px" position="center" spacing="small">
+AURORA-Concert-Song-2-Elder.png
+AURORA-Concert-Song-2-End.png
+</gallery>
+{{Clear}}
+
+===Intermission 2===
+Back in the Coliseum, AURORA is now dressed in the {{Spirit Item|AURORA Guide|outfit|label=Cure For Me Outfit|link=AURORA Guide#Cure For Me Outfit|inline_text}} and her hair is styled like the {{Spirit Item|AURORA Guide|hair_u|link=AURORA Guide#AURORA Ultimate Hair|inline_text}} - the crowd claps and cheers on. 
+
+AURORA: 
+*"It gives me hope to see the world so connected." 
+*"You have beautiful voices - can you all harmonize with the same call?" 
+
+Players are once more invited to honk loudly all together. The Orbit credit song "[[Original Sound Track#Sky: Concert of the Light|Constellation]]" by AURORA and Vincent Diamante starts to play. 
+
+*"I'm so happy to be here with you."
+*"It's ok, you can cry."
+Players are now invited to use the {{Icon|FT-sad.png|inline}} Cry Emote.
+*"We must take care of each other. We are stronger together."
+
+AURORA welcomes the [[Mindful Miner]], who walks onto the stage from the [[Valley of Triumph#Valley Temple|Temple]]. They kneel down before AURORA, offering a dark sphere from their hands, filled with colorful sparkles. As AURORA lifts her palms over the Spirits', the sphere expands until it covers the entire Coliseum.<br>
+<br>
+<gallery widths="300px" position="center" spacing="small">
+AURORA-Concert-Inter-2-Stage.png
+AURORA-Concert-Inter-2-Sphere.png
+</gallery>
+{{Clear}}
+
+==Third Performance: All is Soft Inside ==
+{| class="article-table mw-collapsible mw-collapsed" style="float:right; margin-left:1em;"
+! All is Soft Inside Lyrics
+|-
+| <small>
+I don't know why<br>
+But I feel down<br>
+You need to know<br>
+I can't go on<br>
+I was a rose<br>
+I was an animal<br>
+Don't let me change<br>
+Don't let me go<br>
+<br>
+All around is stone<br>
+All is soft inside<br>
+<br>
+All that I know<br>
+Lies within emotion<br>
+Words remain unspoken<br>
+Lead me through the dark<br>
+All that I see<br>
+Came to me in colours<br>
+Lasted for a moment<br>
+Lead me through the dark<br>
+All that I know<br>
+All that I know<br>
+<br>
+I need it all<br>
+I don't know where to begin<br>
+I carry more than you see<br>
+My dreams are bigger than me<br>
+Please bring me light<br>
+I bear a shadow<br>
+I call them back to me<br>
+So they could feed on me<br>
+<br>
+All is stone<br>
+And all is soft inside<br>
+<br>
+All that I know<br>
+Lies within emotion<br>
+Words remain unspoken<br>
+Lead me through the dark<br>
+All that I see<br>
+Came to me in colours<br>
+Lasted for a moment<br>
+Lead me through the dark<br>
+All that I know<br>
+All that I know<br>
+<br>
+Did you know<br>
+That we're all<br>
+Turning softer inside?<br>
+We can save<br>
+What is pure<br>
+If the hearts can collide<br>
+All that I've ever known<br>
+Is the universe is wild<br>
+Is the universe is wild</small>
+|}
+
+Players are collectively transported to the Underground Cavern in Forest, floating around as colorful Jellyfish. A light emerges from the darkness and the song "[https://www.youtube.com/watch?v=lzUg5ffOyOo&t=894s All is Soft Inside]" by AURORA starts playing. ''(See Lyrics)''
+
+The light wanders around the cave, circling around to look for an exit. Logs block the only pathway out and the light crashes into the blocked passage to emerge into the large hollow Underground Cavern - all the Jellyfish follow. The cave is full of minerals and the players are shown the memories of miners collecting them. Memories of Jellyfish flee from the excavation. 
+
+The light makes its way across the cave. A worker can be seen falling off a cliff while their teammates helplessly look over the edge, as a Jellyfish positions itself under the falling worker, saving them a certain fate. The light then ascends the central, tallest rock structure in the cave, revealing more minerals and Jellyfish all the way up. At the summit, the three Spirit miners seem to be expressing their gratitude to the surrounding Jellyfish.<br>
+<br>
+<gallery widths="300px" position="center" spacing="small">
+AURORA-Concert-Song-3-Area.png
+AURORA-Concert-Song-3-Logs.png
+AURORA-Concert-Song-3-Miners.png
+AURORA-Concert-Song-3-Falling.png
+AURORA-Concert-Song-3-Rock.png
+AURORA-Concert-Song-3-Peak.png
+</gallery>
+<br>
+The scene fades to white and then back to black. All the players are now swarming through the clouds of the purple sky in the Starlight Desert, still as Jellyfish. Along the way up, large Royal Jellyfish join and float amongst players. As the swarm flies towards the round full moon, the scene fades to black.<br>
+<br>
+[[File:AURORA-Concert-Song-3-End.png|thumb|300px|left]]
+{{Clear}}
+
+===Intermission 3===
+As we return to the Coliseum, the crowd cheers and the ground floor is flooded with water. A bright sphere floats down behind AURORA, illuminating her from behind. She now wears the {{Spirit Item|AURORA Guide|cape_g|label=Giving In Cape|link=#Giving In Cape|inline_text}} and the {{Spirit Item|AURORA Guide|outfit_t|label=To The Love Outfit|link=#To The Love Outfit|inline_text}}, waving at the crowd.
+
+AURORA: 
+*"Creatures of light are so beautiful!" 
+
+The camera pans back and two [[Mantas]] fly around in the Coliseum over the crowd.
+
+AURORA:
+*"Call to them when they fly near!" 
+*"Look at that!"
+*"Hehehe… Yes!" 
+
+*"And remember, you are all warriors of light." 
+
+AURORA welcomes the [[Warrior of Love]], who walks onto the stage from the [[Valley of Triumph#Valley Temple|Temple]]. They kneel down before AURORA, offering a dark sphere from their hands, filled with colorful sparkles. As AURORA lifts her palms over the Spirits', the sphere expands until it covers the entire Coliseum.<br><br>
+<gallery widths="300px" position="center" spacing="small">
+AURORA-Concert-Inter-3-Stage.png
+AURORA-Concert-Inter-3-Mantas.png
+AURORA-Concert-Inter-3-Sphere.png
+</gallery>
+{{Clear}}
+
+==Fourth Performance: Warrior ==
+{| class="article-table mw-collapsible mw-collapsed" style="float:right; margin-left:1em;"
+! Warrior Lyrics
+|-
+| <small>
+I fall asleep in my own tears<br>
+I cry for the world for everyone<br>
+And I build a boat to float in<br>
+I'm floating away<br>
+<br>
+I can't recall the last time<br>
+I opened my eyes to see the world as beautiful<br>
+And I built a cage to hide in<br>
+I'm hiding I'm trying to battle the night<br>
+<br>
+Let love conquer your mind<br>
+Warrior warrior<br>
+Just reach out for the light<br>
+Warrior, warrior<br>
+I am a warrior, yeah yeah yeah<br>
+Warrior, warrior<br>
+I am a warrior, yeah yeah yeah<br>
+Warrior, warrior of love<br>
+<br>
+I stand behind the wall of people and thoughts mind controlling<br>
+And I hold a sword to guide me<br>
+I'm fighting my way<br>
+<br>
+I can't recall the last time<br>
+I opened my eyes to see the world as beautiful<br>
+And I built a cage to hide in<br>
+I'm hiding I'm trying to battle the night<br>
+<br>
+Let love conquer your mind<br>
+Warrior warrior<br>
+Just reach out for the light<br>
+Warrior warrior<br>
+I am a warrior, yeah yeah yeah<br>
+Warrior, warrior<br>
+I am a warrior, yeah yeah yeah<br>
+Warrior, warrior of love<br>
+<br>
+Underneath darkened skies<br>
+There's a light kept alive<br>
+Let love conquer your mind<br>
+Warrior warrior<br>
+Just reach out for the light<br>
+Warrior warrior<br>
+I am a warrior, yeah yeah yeah<br>
+Warrior warrior<br>
+I am a warrior, yeah yeah yeah<br>
+Warrior, warrior of love<br>
+<br>
+Warrior of love<br>
+Warrior of love</small>
+|}
+
+Players are collectively transported to a new area where they are flying in a swarm as Mantas towards an island covered in clouds; varying Manta calls can be heard from around. Underneath, the once flat ocean surface becomes interrupted by the mounds of snow and large rock formations and the [[Eye of Eden]] can be seen from afar. 
+
+The song "[https://www.youtube.com/watch?v=lzUg5ffOyOo&t=1348s Warrior]" by AURORA begins. ''(See Lyrics)''<br>
+The players are led inside a tunnel of clouds, flying alongside Spirits of Mantas tat pulsate along to the song's rhythm. Near the opening end of the tunnel, Spirit boats use cannons to launch nets to capture some of the Spirit Mantas. The journey continues through a village in [[Valley of Triumph]], hidden in the clouds, where players witness the unfortunate events surrounding the capture of many Mantas by the spirits, who transport the full nets, hanging down by a rope on the boats.<br>
+<br>
+<gallery widths="300px" position="center" spacing="small">
+AURORA-Concert-Song-4-Area.png
+AURORA-Concert-Song-4-Cannons.png
+AURORA-Concert-Song-4-Nets.png
+</gallery>
+<br>
+At the top of high village walls, Mantas are held in cages. As the players fly through a small slit in a high mountain wall, some Mantas free their companions by flying through their cages, breaking off the chains to their prisons. They all fly free to freedom with the players, to the vast horizon. The camera zooms out, showing the intense light beam emitted from the Eden mountain, with the swarm of Mantas flying towards it. The scene fades to black.<br>
+<br>
+<gallery widths="300px" position="center" spacing="small">
+AURORA-Concert-Song-4-Cages.png
+AURORA-Concert-Song-4-Freedom.png
+AURORA-Concert-Song-4-End.png
+</gallery>
+{{Clear}}
+
+===Intermission 4===
+Back in the Coliseum, AURORA now wears the {{Spirit Item|AURORA Guide|outfit_u|label=AURORA Ultimate Outfit|link=AURORA Guide#AURORA Ultimate Outfit|inline_text}} and red streaks are painted on her face, like the Seed of Hope's {{Spirit Item|Seed of Hope|mask|inline_text}}. The crowd cheers as she opens her arms wide. The huge sphere now floats higher behind AURORA, glowing in cycles of red, white, and blue.
+
+AURORA:
+*"That was so liberating!" 
+*"Chant with me to build our strength". 
+Players are once more invited to honk loudly all together.
+*"Thank you all very much!"
+*"Thank you so much for all the love!"
+
+AURORA now crouches down and calls out to the crowd, sending out [[#Concert Expressions|Concert Emotes]], one by one.
+
+*"Even if we lose hope, we cannot let our light fade away." 
+
+AURORA welcomes the [[Seed of Hope]], who walks onto the stage from the [[Valley of Triumph#Valley Temple|Temple]]. They kneel down before AURORA, offering a dark sphere from their hands, filled with colorful sparkles. As AURORA lifts her palms over the Spirits', the sphere expands until it covers the entire Coliseum.<br><br>
+<gallery widths="300px" position="center" spacing="small">
+AURORA-Concert-Inter-4-Stage.png
+AURORA-Concert-Inter-4-Sphere.png
+</gallery>
+{{Clear}}
+
+==Fifth Performance: The Seed ==
+{| class="article-table mw-collapsible mw-collapsed" style="float:right; margin-left:1em;"
+! The Seed Lyrics
+|-
+| <small>
+Just like the seed<br>
+I don't know where to go<br>
+Through dirt and shadow I grow<br>
+I'm reaching light through the struggle<br>
+Just like the seed<br>
+I'm chasing the wonder<br>
+I unravel myself<br>
+All in slow motion<br>
+<br>
+You cannot eat money, oh no<br>
+You cannot eat money, oh no<br>
+When the last tree has fallen<br>
+And the rivers are poisoned<br>
+You cannot eat money, oh no<br>
+You cannot eat money, oh no<br>
+You cannot eat money, oh no<br>
+When the last tree has fallen<br>
+And the rivers are poisoned<br>
+You cannot eat money, oh, no, oh, no<br>
+<br>
+Suffocate me<br>
+So my tears can be rain<br>
+I will water the ground where I stand<br>
+So the flowers can grow back again<br>
+Cause just like the seed<br>
+Everything wants to live<br>
+We are burning our fingers<br>
+But we learn and forget<br>
+<br>
+You cannot eat money, oh no<br>
+You cannot eat money, oh no<br>
+When the last tree has fallen<br>
+And the rivers are poisoned<br>
+You cannot eat money, oh no<br>
+You cannot eat money, oh no<br>
+You cannot eat money, oh no<br>
+When the last tree has fallen<br>
+And the rivers are poisoned<br>
+You cannot eat money, oh no, oh, no<br>
+<br>
+Feed me sunlight, feed me air<br>
+Feed me truth and feed me prayer<br>
+Feed me sunlight, feed me air <br>
+Feed me truth and feed me prayers<br>
+<br>
+You cannot eat money, oh no<br>
+You cannot eat money, oh no<br>
+When the last tree has fallen<br>
+And the rivers are poisoned<br>
+You cannot eat money, oh no<br>
+You cannot eat money, oh no<br>
+You cannot eat money, oh no<br>
+When the last tree has fallen<br>
+And the rivers are poisoned<br>
+You cannot eat money, oh no, oh, no</small>
+|}
+
+Players are collectively transported into a space full of clouds, flying around as birds through a narrow cloud passage which leads into a wide open space, high up in the sky. A light emerges from the clouds and the song "[https://www.youtube.com/watch?v=lzUg5ffOyOo&t=1701s The Seed]" by AURORA begins. ''(See Lyrics)''
+
+The light begins to emit small lightning. Suddenly, the sky turns black and the white clouds give way to a dark cyclone at the bottom of the area. A shower of meteors, glowing in cyan streaks of light, falls down into the storm. The players circle around the light, which slowly decends into the eye of the storm, following the meteors. With each repitition of the chorus, a red beam emits from the opening in the clouds as the surroundings shake. The sky returns to its original state for a while, before the cyclone returns and the clouds turn dark once again. The players and the light circle closer to the opening in the clouds, as the sky turns black again. Players that fly near the light are struck by meteors, taking their light and causing them to fall down into the storm. The screen fades to black.<br>
+<br>
+<gallery widths="300px" position="center" spacing="small">
+AURORA-Concert-Song-5-Area.png
+AURORA-Concert-Song-5-Lightning.png
+AURORA-Concert-Song-5-Cyclone.png
+AURORA-Concert-Song-5-Beam.png
+</gallery>
+<br>
+It is shown that the opening leads into the [[Golden Wasteland#Battlefield|Battlefield]] in Golden Wasteland. The meteors scatter across the sky and fly towards the ground, as the light slowly descends amongst them. The players now fly as Butterflies, coming close to several meteors that shake the ground and spread blue particles and light as they collide with the earth.
+
+Near the Wasteland Temple, behind a hill, players find themselves in the bowels of a massacre between Spirits and even some Mantas. Spirit soldiers are fighting, throwing spears at Mantas, lying on the ground or fleeing, as some are thrown high into the air from the impact of blue meteors crashing down.<br>
+<br>
+<gallery widths="300px" position="center" spacing="small">
+AURORA-Concert-Song-5-Meteors.png
+AURORA-Concert-Song-5-Battlefield.png
+AURORA-Concert-Song-5-Battle-1.png
+AURORA-Concert-Song-5-Battle-2.png
+AURORA-Concert-Song-5-Battle-3.png
+AURORA-Concert-Song-5-Battle-4.png
+</gallery>
+<br>
+At the end, the camera zooms to the top of the stairs where one lonely soul is kneeling with their sword stuck in the ground in front of them, surrounded by the dead. The scene fades to black.<br>
+<br>
+[[File:AURORA-Concert-Song-5-End.png|thumb|300px|center]]
+
+===No Intermission=== 
+
+==Sixth Performance: Through the Eyes of a Child==
+{| class="article-table mw-collapsible mw-collapsed" style="float:right; margin-left:1em;"
+! Through the Eyes of a Child Lyrics
+|-
+| <small>
+The world is covered by our trace<br>
+Scars we cover up with paint<br>
+Watch them preaching sour lies<br>
+I would rather see this world through the eyes of a child<br>
+Through the eyes of a child<br>
+<br>
+Darker times will come and go<br>
+Times you need to see her smile<br>
+And mothers' hands are warm and mild<br>
+I would rather feel this world through the skin of a child<br>
+Through the skin of a child<br>
+<br>
+When a human strokes your skin<br>
+That is when you let them in<br>
+Let them in before they go<br>
+I would rather feel alive with a childlike soul<br>
+With a childlike soul</small>
+|}
+
+The players are then individually teleported to the desolated battlefield after the massacre. A butterfly emerges from the darkness and the song "[https://www.youtube.com/watch?v=lzUg5ffOyOo&t=1910s Through the Eyes of a Child]" by AURORA starts. ''(See Lyrics)''
+
+As the lone butterfly, the player flies over moments of suffering and grief, frozen in time after the end of the war, illuminating them shortly with their warm light. The player passes by a statue of two survivors kneeling and crying over a fallen spirit. Stone statues of other fallen spirits are partially buried in the sand and in the water. The next statues the player flutters past show a survivor carrying the dead in their arms, another kneeling over a dead Manta, and a child curled up alone.<br>
+<br>
+<gallery widths="300px" position="center" spacing="small">
+AURORA-Concert-Song-6-Area.png
+AURORA-Concert-Song-6-Statue-1.png
+AURORA-Concert-Song-6-Statue-2.png
+AURORA-Concert-Song-6-Statue-3.png
+AURORA-Concert-Song-6-Statue-4.png
+AURORA-Concert-Song-6-Statue-5.png
+</gallery>
+<br>
+As the player flies over the hills, another golden light moves in the distance, and as they come closer, are revealed to be another butterfly. The two butterflies join together, dancing above the dark waters that reflect the moonlight. The butterflies flutter around and call out to each other, while golden particles of light circle around them. As they fly off into the distance, the particles merge together and form into the light. Nearby, two Mantas fly towards each other and begin to circle above the light, as many more golden light particles appear around them. The light ascends and takes in all of the particles as it grows bigger and brighter. Suddenly, the players appear and are united again, and the light flies off towards the horizon.<br>
+<br>
+[[File:AURORA-Concert-Song-6-Dance.png|thumb|300px|center]]
+<br>
+The swarm is drawn to what appears to be a sunrise. As the players move forward, a giant golden glowing Spirit, resembling AURORA, unfolds her wings as she gets on her feet. She slowly turns around to the butterflies swarming towards her, and as she opens her arms, the screen fades to white. The players now continue their journey in the sky as glowing Sky Children. AURORA leans towards them and shortly holds some in her hands, before she turns around and flies up into the sky, through an opening in the clouds. All the players follow AURORA into the sky, under the warm glow of the sun through the clouds.<br>
+<br>
+<gallery widths="300px" position="center" spacing="small">
+AURORA-Concert-Song-6-Giant.png
+AURORA-Concert-Song-6-Open-Arms.png
+AURORA-Concert-Song-6-Closeup.png
+AURORA-Concert-Song-6-End.png
+</gallery>
+
+===No Intermission=== 
+
+==Orbit ==
+Now in a blue dress, the giant AURORA and all players fly towards Orbit in the starry space, flying with all the Spirits of Sky and other Light Creatures. "The Light Beyond" by AURORA and Vincent Diamante can be heard in the background. When we reach the end of Orbit, the scene fades to white.
+
+<gallery widths=300px>
+AURORA-Concert-Song-6-Orbit.png
+AURORA-Concert-Song-6-Spin.png
+</gallery>
+
+==Last Performance: Queendom==
+{| class="article-table mw-collapsible mw-collapsed" style="float:right; margin-left:1em;"
+! Queendom Lyrics
+|-
+| <small>
+The underdogs are my lions<br>
+The silent ones are my choir<br>
+The women will be my soldiers<br>
+With the weight of life on their shoulders<br>
+<br>
+Drink until you’ve had enough<br>
+I'll drink from your hands<br>
+I will be your warrior<br>
+I will be your lamb<br>
+<br>
+Till queendom come<br>
+Till queendom come<br>
+My queendom come<br>
+My queendom come<br>
+<br>
+The sea waves are my evening gown<br>
+And the sun on my head is my crown<br>
+I made this queendom on my own<br>
+And all the mountains are my throne<br>
+<br>
+Drink until you've had enough<br>
+I'll drink from your hands<br>
+I will be your warrior<br>
+I will be your lamb<br>
+<br>
+Till queendom come<br>
+Till queendom come<br>
+My queendom come<br>
+My queendom come<br>
+<br>
+My queendom come<br>
+My queendom come<br>
+<br>
+I hunt the grounds for empathy<br>
+And hate the way it hides from me<br>
+With care and thirst I have become<br>
+You have a home in my queendom<br>
+You have a home in my queendom<br>
+You have a place in my queendom<br>
+You have a home..<br>
+<br>
+Till queendom come<br>
+Till queendom come<br>
+My queendom come<br>
+My queendom come<br>
+My queendom come<br>
+My queendom come<br>
+<br>
+My queendom come<br>
+My queendom come<br>
+My queendom come</small>
+|}
+
+The camera pans to show the Eden mountain, the outside of the Coliseum and the colorful murals on the inside walls. From a view above the entire Coliseum, the light can be seen descending from the Sky, right into the middle of the area. The silence gives way to loud cheering, as the screen fades to white. AURORA's large Spirit roams through the stadium, above the player's heads - the song "[https://www.youtube.com/watch?v=lzUg5ffOyOo&t=2423s Queendom]" by AURORA begins to play. ''(See Lyrics)''<br>
+<br>
+<gallery widths="300px" position="center" spacing="small">
+AURORA-Concert-Song-7-Trumpets.png
+AURORA-Concert-Song-7-Sketches.png
+AURORA-Concert-Song-7-Doorway.png
+AURORA-Concert-Song-7-Star.png
+</gallery>
+<br>
+The Coliseum bustles with energy as the spotlights are shining about. Streams of Mantas, Birds, Butterflies and small Jellyfish wind through the air, as well as a few Royal Jellyfish. Players can now stand up from their seats and fly through the air. When flying near AURORA, players can magnetically float near her as she flies around.
+
+Before the chorus, AURORA's Spirit stays floating in the air and as she raises her arms, the players are pulled to her, all gathering in one big group. With the begin of the chrous, they are all pushed out in all directions, away from AURORA and into the Coliseum.<br>
+<br>
+<gallery widths="300px" position="center" spacing="small">
+AURORA-Concert-Song-7-Giant.png
+AURORA-Concert-Song-7-Standing.png
+AURORA-Concert-Song-7-Queendom-Gather.png
+AURORA-Concert-Song-7-Queendom-Launch.png
+</gallery>
+<br>
+As the song comes to an end, AURORA's Spirit rises above the Coliseum as all the players gather around her. She slowly spins around herself once before holding her arm out towards the sky, marking the end of the performance. The crowd cheers and the screen fades to white.<br>
+<br>
+[[File:AURORA-Concert-Song-7-End.png|thumb|300px|center]]
+{{Clear}}
+
+==Final Screen== 
+AURORA: 
+*"Always remember, our lights shine brighter together…"
+
+The screen fades to black and the player is told how many other players attended that concert with them:<br>
+'''You experienced this Musical Voyage alongside ### others like you.'''<br>
+<br>
+<gallery widths="300px" position="center" spacing="small" bordersize="medium">
+AURORA-Concert-Quote.png
+AURORA-Concert-Final-Screen.png
+</gallery>
+==Post-concert Activities==
+[[File:AURORA-post-concert-sound-bath.png|thumb|350px|AURORA inside the sound bath after the concert]]
+After the concert, all pre-concert activities are still available to players, with the exception that the Bonfires and Campfire Snack Kits are missing. On top of these, players can also find AURORA inside the sound bath after the concert. AURORA is seen in the form of sparkles, idly standing and swinging her arms. She will offer a hug when a player approach her, and speaks after the hug: "Thank you so much for the love! You are so beautiful. And remember to give some of that love to yourself too." Players can hug her multiple times, but she will not repeat her dialogues.
+
+Player can leave the Coliseum by sitting on a meditating spot on the stage to return to Home, or enter either Valley Temple or Village of Dreams via the normal entrances. When attempting to leave, a prompt asking if the player want to "Leave AURORA's Musical Voyage?" appears, with the reminder "You will be able to return while the voyage is still underway." 
+
+If a player chooses to stay in the Coliseum after the concert, the sky will turn from night to day at 15 minutes after end of concert, and the game will force the player to return to Home with a fade-to-white screen at 45 minutes after end of concert.
+
+==Trivia==
+* The creatures and colors depicted in the [[Murals|mural]] patterns around the seating areas in the Coliseum roughly correspond to the Realms where the [[Season of AURORA#Spirit Memory Quests|Season's Quests]] take place, listed in order from first to last Quest: 
+** Cyan Fish: [[Isle of Dawn]]
+** Blue Jellyfish: [[Hidden Forest]]
+** Red Mantas: [[Valley of Triumph]]
+** Green Crabs: [[Golden Wasteland]]
+* During New Year, AURORA starts the first intermission of the concert by saying "Happy New Year!" and "I LOVE this time of year!" before inviting players to call to each other.
+* The concert repeated more frequently at every 2 hours during the last day of the Season.
+
+==References==
+<references/>
+
+
+[[fr:Concert d'AURORA]]
+[[de:Aurora-Konzert]]
+[[pt-br:Concerto da AURORA]]
+[[ja:AURORAコンサート]]
+
+[[Category:Daily Content]]
+[[Category:Collaborations]]
+[[Category:Season of AURORA]]

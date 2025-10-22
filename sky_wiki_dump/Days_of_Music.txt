@@ -1,0 +1,572 @@
+{{SkyEvent
+| title = Days of Music
+| image = Days-of-Music-promo-image-2024.png
+| previousevent = [[Days of Mischief]]
+| nextevent = [[Days of Giving]]
+| date = November 25 to December 11, 2024<ref name="Music2024_extended">Days of Music 2024 was extended by [https://x.com/thatskygame/status/1864496753686512115 2 days] due to bugs and server errors. TGC then announced on the [[In-Game Announcements|In-Game Inbox]] that they would be extending the event for one more day, for a total of '''three''' more days.</ref>
+}}
+
+==November 2024<span id="2024"></span>==
+{{#ev:youtube|MZ6AgRamtqM||right|Days of Music 2024 Trailer}}
+Days of Music was back for a second year! With revamped activities, features, and more, this year’s event brought new ways for Sky kids and their songs to take center stage! The event began on '''Monday, November 25, 2024 at 00:00''' and ended on '''Thursday, December 11, 2024 at 23:59 PST (all times, UTC -8)'''<ref name="Music2024_extended" />, lasting '''17''' days. The Harmony Hall Guide stood at [[Aviary Village]] and [[Home]], ready to teleport players to the daily stage locations where the event took place.
+{{Clear}}
+===Stages Locations and Themes===
+{| class="fandom-table"
+!Date!!Location!!Theme!!Instrument
+|-
+|November 25 - 26|| [[Aviary Village]], Across from the Cafe||'''Joy''' - Uplift the spirit with an encouraging tune|| {{Instrument|Xylophone|table}}
+|-
+|November 27 - 28|| [[Aviary Village]], Second Level of Bell Tower||'''Hope''' - Radiate a vibrant melody that inspires happiness|| {{Instrument|Manta Ocarina|table}}
+|-
+|November 29 - 30|| [[Village Theater]]||'''Dreams''' - Inspire an anthem that celebrates creativity|| {{Instrument|Triumph Handpan|table}}
+|-
+|December 1 - 2|| [[Concert Hall]]||'''Melancholy''' - Craft a melody that captures the ache of loss|| {{Instrument|Compassionate Cellist|table}}
+|-
+|December 3 - 5|| [[Starlight Desert]]||'''Confidence''' - Encourage others to confront challenges with unwavering belief|| {{Instrument|Electric Guitar|table}}
+|-
+|December 6 - 11|| [[Coliseum]]||'''Triumph''' - Incite a sense of victory with each powerful note|| {{Instrument|Bugle|table}}
+|}
+
+<gallery widths="300px" captionalign="center" position="left">
+File:Days-of-music-by_Kion_Anzu.jpeg|Infographic by Kion_Anzu
+</gallery>
+
+===Ticket Locations===
+[[File:Days-of-Style-Event-Currency-Light.png|125px|thumb|Days of Music Event Currency Light]]
+[[File:Days-of-Music-2024-Treble-Clef-Ticket.png|125px|thumb|A Days of Music treble clef Ticket]]
+
+A total of {{Cost|4 T|event=Music}} Tickets could be forged each day by collecting Event Currency Light by taking part in the event's activities:
+* {{Cost|1 T|event=Music}} for interacting with the Event Guide, who directed players to the performance area with the Shared Memory Shrine
+* {{Cost|2 T|event=Music}} for collecting the Event Light in the performance area
+* {{Cost|1 T|event=Music}} for interacting with the instrument in the performance area
+In addition, a bonus {{Cost|15 T|event=Music}} Tickets could be found hidden throughout [[Aviary Village]]. These could only be collected twice<ref name="tickets-reset-extension">Since the event got extended, these tickets have reset and are available once again on Dec 9, 2024.</ref>:
+* In front of the [[Aviary Village#Aviary Event Store|Event Store]]
+* In front of the leftmost second floor [[Nest]] window
+* In front of the rightmost second floor Nest window
+* Under the bridge to the Nests
+* Continue swimming, under the arch, beneath the return shrine platform
+* On the second level of the bell tower, hidden under the rock arch where the river flows out from the pond
+* On the second level of the bell tower, in the center of the circular alcove
+* On the third level of the bell tower, behind the bell, second from the left
+* On the topmost level of the bell tower, in the center window
+* At the top of the waterfall to the right of the boats
+* Above the awning of the left circular [[Aviary Village#Spell Shop|Potion Shop]] window
+* In the niche to the left of the [[Aviary Village#Sleepy Traveling Merchant|Traveling Merchant]]
+* Top of the pole, next to the Hopeful Steward
+* In front of the large circular window above the [[Nesting Workshop]]
+* On top of the box on the platform across from the [[Aviary Village Cafe|Cafe]]
+'''Extra Bonus after Nov 27:''' An additional {{Cost|1 T|event=Music}} could be forged by interacting with the {{Instrument|xylophone|inline_text}} on the platform across from the Cafe.
+
+Players could also buy additional Tickets (costing {{Cost|2 AC}} or {{Cost|6 C}} each) from the Music Gift Box in [[Aviary Village]] and the front counter in [[Harmony Hall]].
+
+{{Friendship Tree
+|label  = Harmony Hall Guide
+|event = Days of music
+|image = SoPerformance - Forgetful Storyteller.png
+
+|nodeC6= Harmony-Hall-Marching-Band-Hat-icon-Morybel-0146.png 55 C
+|  labelC6 = Marching Band hat
+|  linkC6  = Days of Music#Harmony Hall Marching Band Hat
+
+|nodeL5 = Triumph-Saxophone-instrument-icon-Morybel-0146.png  125 C
+|  labelL5 = Triumph Saxophone
+|  linkL5 = Days of Music#Triumph Saxophone
+|nodeC5 = spell5
+|  labelC5 = Spell
+
+|nodeL4 = {{Icon Name|Jam Station|icon}} 250 C
+|  labelL4 = {{Icon Name|Jam Station|name}}
+|  linkL4  = Days of Music#{{Icon Name|Jam Station|name}}
+|nodeR4 = {{Icon Name|Marching Band Cape|icon}} 50 T
+|  labelR4 = {{Icon Name|Marching Band Cape|name}}
+|  linkR4  = Days of Music#{{Icon Name|Marching Band Cape|name}}
+|nodeC4 = spell5
+|  labelC4 = Spell
+|  linkC4  = Spells
+
+|nodeL3 =  musicHH4 10 C
+|  labelL3 = Music Sheet HH4
+|  linkL3  = 
+|nodeR3 = SOPerformance-hair-accessory-icon-Morybel-0146.png 50 C
+|  labelR3 = Musical Hairpin
+|  linkR3  = Days of Music#Musical Hairpin
+|nodeC3 = spell5
+|  labelC3 = Spell
+
+|nodeR2 = musicHH3 10 C
+|  labelR2 = Music Sheet HH3
+|  linkR2 = 
+|nodeL2 = musicHH2 10 C
+|  labelL2 = Music Sheet HH2
+|  linkL2 = 
+|nodeC2 = spell5
+|  labelC2 = Spell
+|  linkC2 = Spells
+
+|nodeR1 = musicHH1 10 C
+|  labelR1 = Music Sheet HH1
+|  linkR1 = 
+|nodeC1 = spell5
+|  labelC1 = Spell
+|  linkC1 = Spells
+|nodeL1 = musicHH5 5 C
+|  labelL1 = Music Sheet HH5
+|  linkL1 = 
+
+}}
+{{Clear}}
+
+===<big>All Available Collectibles in 2024</big>===
+{| class="article-table"
+!Name!!Icon!!Type !!Cost !!Location!!Spell!!Spell Cost & Locations
+
+|-
+! colspan="7" style="text-align:center;" |From Days of Music 2024
+|-
+|[[Days of Music#{{Icon Name|Music Marching Uniform Outfit|name}}|{{Icon Name|Music Marching Uniform Outfit|name}}]] 
+|{{Days Item|Music Marching Uniform Outfit||table}}
+|[[Outfit]]
+|{{Cost|9.99 USD|refnote}} 
+|<small>[[Premium Candle Shop]]</small>
+|{{Days Item|Music Marching Uniform Outfit|spell|table}}<small>x3</small>
+|<small>Music Gift Box at event area in [[Aviary Village|Aviary]] and front counter in [[Harmony Hall]] for free</small>
+|-
+|[[Days of Music#{{Icon Name|Fledgling Upright Piano|name}}|{{Icon Name|Fledgling Upright Piano|name}}]] 
+|{{Days Item|Fledgling Upright Piano||table}}
+|[[Prop]]
+|{{Cost|4.99 USD|refnote}} 
+|<small>Music Gift Box at event area in [[Aviary Village|Aviary]] and front counter in [[Harmony Hall]]</small>
+|{{Days Item|Fledgling Upright Piano|spell|table}}<small>x3</small>
+|<small>Music Gift Box at event area in [[Aviary Village|Aviary]] and front counter in [[Harmony Hall]] for free</small>
+|-
+|[[Days of Music#{{Icon Name|Marching Band Cape|name}}|{{Icon Name|Marching Band Cape|name}}]] 
+|{{Days Item|Marching Band Cape||table}}
+|[[Cape]]
+|{{Cost|50 T|event=Music}}
+|<small>[[Harmony Hall Guide]] in [[Aviary Village|Aviary]], [[Harmony Hall]]</small>
+|{{Days Item|Marching Band Cape|spell|table}}<small>x3</small>
+|<small>Music Gift Box at event area in [[Aviary Village|Aviary]] and front counter in [[Harmony Hall]] for free</small>
+|-
+|[[Days of Music#{{Icon Name|Jam Station|name}}|{{Icon Name|Jam Station|name}}]] 
+|{{Days Item|Jam Station||table}}
+|[[Prop]]
+|{{Cost|250 C}}
+|<small>[[Harmony Hall Guide]] in [[Aviary Village|Aviary]], [[Harmony Hall]]</small>
+|{{Days Item|Jam Station|spell|table}}<small>x3</small>
+|<small>Music Gift Box at event area in [[Aviary Village|Aviary]] and front counter in [[Harmony Hall]] for free</small>
+|-
+! colspan="7" style="text-align:center;" |From Days of Music 2023
+|-
+|[[Days of Music#{{Icon Name|Triumph Violin|name}}|{{Icon Name|Triumph Violin|name}}]] 
+|{{Days Item|Triumph Violin||table}}
+|[[Instruments]]
+|{{Cost|19.99 USD|refnote}} 
+|<small>Music Gift Box at event area in [[Aviary Village|Aviary]] and front counter in [[Harmony Hall]]</small>
+|{{Days Item|Triumph Violin|spell|table}} x3
+|<small>Music Gift Box at event area in [[Aviary Village|Aviary]] and front counter in [[Harmony Hall]] for free</small>
+|-
+|[[Days of Music#{{Icon Name|Triumph Saxophone|name}}|{{Icon Name|Triumph Saxophone|name}}]] 
+|{{Days Item|Triumph Saxophone||table}} 
+|[[Instruments]]
+|{{Cost|125 C}}
+|<small>[[Harmony Hall Guide]] in [[Aviary Village|Aviary]], [[Harmony Hall]]</small>
+|{{Days Item|Triumph Saxophone|spell|table}} x3
+|<small>Music Gift Box at event area in [[Aviary Village|Aviary]] and front counter in [[Harmony Hall]] for free</small>
+|-
+||[[Days of Music#{{Icon Name|Harmony Marching band hat|name}}|{{Icon Name|Harmony Marching band hat|name}}]]
+|{{Days Item|Harmony Marching band hat||table}}
+| [[Hair]]
+|{{Cost|55 C}}
+|<small>[[Harmony Hall Guide]] in [[Aviary Village|Aviary]], [[Harmony Hall]]</small>
+|{{Days Item|Harmony Marching band hat|spell|table}} x3
+|<small>Music Gift Box at event area in [[Aviary Village|Aviary]] and front counter in [[Harmony Hall]] for free</small>
+|-
+|[[#Music Sheet|Music Sheet HH5]]
+|{{Music Sheet|HH5}}
+|[[Music Sheets]]
+|{{Cost| 5 C }} 
+|<small>[[Harmony Hall Guide]] in [[Aviary Village|Aviary]], [[Harmony Hall]]</small>
+|
+|
+|-
+| [[#Random Instrument Spell|Random Instrument Spell]]
+|
+| [[Spell]]
+|
+|
+| {{Icon|Music-note-icon.png|table|link=#Random Instrument Spell|label=Instrument Spell}}<small>x1</small>
+| <small>Gift Box at the second floor of [[Harmony Hall]] for {{Cost|1 C}}</small>
+|-
+|-
+! colspan="7" style="text-align:center;" |From the 2022 Musical Hall Grand Opening
+|-
+|[[Days_of_Music#{{Icon Name|Musical Hairpin|name}}|{{Icon Name|Musical Hairpin|name}}]]
+|{{Days Item|Harmony Hall Musical Hairpin||table}}
+|[[Hair Accessories|Hair Acc.]]
+|{{Cost|50 c|event=music}}
+|<small>[[Harmony Hall Guide]] in [[Aviary Village|Aviary]], [[Harmony Hall]]</small>
+|
+| 
+|-
+|[[Days_of_Music#{{Icon Name|Fledgling Harp|name}}|{{Icon Name|Fledgling Harp|name}}]]
+|{{Days Item|Fledgling Harp||table}}
+|[[Instrument]]
+|{{Cost|4.99 USD|refnote}} 
+|<small>Music Gift Box at event area in [[Aviary Village|Aviary]] and front counter in [[Harmony Hall]]</small>
+|{{Days Item|Fledgling harp|spell|table}} x3
+|<small>Music Gift Box at event area in [[Aviary Village|Aviary]] and front counter in [[Harmony Hall]] for free</small>
+|-
+|[[Days_of_Music#{{Icon Name|Rhythm Guitar|name}}|{{Icon Name|Rhythm Guitar|name}}]]
+|{{Days Item|Rhythm Guitar||table}}
+|[[Instrument]]
+|{{Cost|14.99 USD|refnote}} 
+|<small>Music Gift Box at event area in [[Aviary Village|Aviary]] and front counter in [[Harmony Hall]]</small>
+|{{Days Item|Rhythm Guitar|spell|table}} x3
+|<small>Music Gift Box at event area in [[Aviary Village|Aviary]] and front counter in [[Harmony Hall]] for free</small>
+|-
+|[[Days_of_Music#{{Icon Name|Triumph Handpan|name}}|{{Icon Name|Triumph Handpan|name}}]]
+|{{Icon|SOPerformance-Triumph-Handpan-icon-Morybel-0146.png|link=#Triumph Handpan|table}}
+|[[Instrument]]
+|{{Cost|19.99 USD|refnote}} 
+|<small>At the Front Counter in [[Harmony Hall]]</small>
+|{{Days Item|Triumph Handpan|spell|table}} x3
+|<small>Music Gift Box at event area in [[Aviary Village|Aviary]] and front counter in [[Harmony Hall]] for free</small>
+|}
+
+===2024 New Cosmetics and Props===
+====Marching Band Outfit====
+::'''''"March with confidence in this sharply crafted suit."'''''
+The Marching Band Outfit is composed of a creme long-sleeved top, darker creme pants, and black boots. The pants are split horizontally in the middle, and the top features two gold-tone decorative button knots, a matching gold belt, and each cuff decorated with a gold diamond in the front. This [[Outfit]] was introduced in 2024 and was available for {{Cost|9.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Marching Band Outfit|iap}} {{!}} {{Icon Name|Marching Band Outfit|name}} IAP
+{{Icon Name|Marching Band Outfit|icon}} {{!}} {{Icon Name|Marching Band Outfit|name}} icon
+{{Icon Name|Marching Band Outfit|real}} {{!}} {{Icon Name|Marching Band Outfit|name}} front
+{{Icon Name|Marching Band Outfit|back}} {{!}} {{Icon Name|Marching Band Outfit|name}} back
+{{Icon Name|Marching Band Outfit|spell}} {{!}} {{Icon Name|Marching Band Outfit|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Fledgling Upright Piano====
+<section begin="fledgling-upright-piano" />::'''''"Honed to suit any beginner's needs. Can be carried with you, or placed in your Nest for others to try their hand upon its keys."'''''
+The Fledgling Upright Piano consists of a gray upright piano with blue accents and which is marked with the {{Season Icon|Belonging|inline_text}} symbol, and a stone stool with a blue cushion. Unlike most other [[Instruments]], this item also functions as a placeable [[Prop]] that can be used to decorate [[Shared Spaces]]. The player must first place down the item, then sit on the stool to play. This Prop was introduced in 2024 and is available for {{Cost|4.99 USD|refnote}} from the front desk in [[Harmony Hall]]. Although this Prop first appeared as part of the Days of Music event, it remains permanently available in the game.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Fledgling Upright Piano|iap}} {{!}} {{Icon Name|Fledgling Upright Piano|name}} IAP
+{{Icon Name|Fledgling Upright Piano|icon}} {{!}} {{Icon Name|Fledgling Upright Piano|name}} icon
+{{Icon Name|Fledgling Upright Piano|real}} {{!}} {{Icon Name|Fledgling Upright Piano|name}}
+{{Icon Name|Fledgling Upright Piano|using}} {{!}} Playing the {{Icon Name|Fledgling Upright Piano|name}}
+{{Icon Name|Fledgling Upright Piano|back}} {{!}} {{Icon Name|Fledgling Upright Piano|name}} on a player's back
+{{Icon Name|Fledgling Upright Piano|spell}} {{!}} {{Icon Name|Fledgling Upright Piano|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}<section end="fledgling-upright-piano" />
+
+====Marching Band Cape====
+The Marching Band Cape is deep red with a black collar, sleeve cuffs, and interior.  It is adorned with gold trims and the shoulders are accessorized with gold epaulettes. This [[Cape]] was introduced in 2024 and was available for {{Cost|50 T|event=Music}} from the Harmony Hall Guide at the daily stage location, [[Aviary Village]], and [[Harmony Hall]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Marching Band Cape|icon}} {{!}} {{Icon Name|Marching Band Cape|name}} icon
+{{Icon Name|Marching Band Cape|front}} {{!}} {{Icon Name|Marching Band Cape|name}} front
+{{Icon Name|Marching Band Cape|interior}} {{!}} {{Icon Name|Marching Band Cape|name}} interior
+{{Icon Name|Marching Band Cape|real}} {{!}} {{Icon Name|Marching Band Cape|name}} back
+{{Icon Name|Marching Band Cape|exterior}} {{!}} {{Icon Name|Marching Band Cape|name}} exterior
+{{Icon Name|Marching Band Cape|spell}} {{!}} {{Icon Name|Marching Band Cape|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Jam Station====
+<section begin="jam-station" />The Jam Station is a gray rectangular sequencer cut into four segments, with a blue cloth framing the front, and blue paint on the front and back. The segments are also decorated with colored diamonds, some of which are lit differently between them. Each section uses different [[Instruments]] based on the four [[Music Sheet Parts]]: the purple section uses '''Melody''', the red section uses '''Bass''', the blue section uses '''Percussion''', and the yellow section uses '''Wind'''. It allows editing of each of these parts independently, and always loops. To use it, players must stand anywhere behind the [[Prop]], then interact with a in-use Instrument's icon. While using the Prop, the player's avatar sways side to side in-place, and when a note is selected, the avatar uses their hands to press on the Jam Station. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. When carried on its owner's back, it appears as a single simplified segment. 
+
+This [[Prop]] was introduced in 2024 and is available for {{Cost|250 C}} from the Harmony Hall Guide at [[Harmony Hall]]. Although this Prop first appeared as part of the Days of Music event, it remains permanently available in the game. The Jam Station is also permanently available for use on the second floor of [[Harmony Hall#Second Floor|Harmony Hall]], in the Painting Workshop. An unobtainable special version is available on the [[Office]] rooftop during the [[Sky Anniversary]] event only.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Jam Station|icon}} {{!}} {{Icon Name|Jam Station|name}} icon
+{{Icon Name|Jam Station|real}} {{!}} {{Icon Name|Jam Station|name}}
+Jam-Station-instrument-instrument-back.png {{!}} The Other Side of the Jam Station
+{{Icon Name|Jam Station|using}} {{!}} Playing the {{Icon Name|Jam Station|name}}
+{{Icon Name|Jam Station|back}} {{!}} {{Icon Name|Jam Station|name}} on a player's back
+{{Icon Name|Jam Station|spell}} {{!}} {{Icon Name|Jam Station|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}<section end="jam-station" />
+{{Clear}}
+
+==July 2023<span id="2023"></span>==
+[[file:Days-of-music-Treble-clef-Ticket.png||125px|thumb|A Days of Music treble clef ticket]]
+<section begin="Summary"/>
+Days of Music is a new event based on the previous year's [[Harmony Hall#The 2022 Grand Opening|Harmony Hall Grand Opening]] celebration event.
+'''Days of Music''' began on '''July 3, 2023 at 00:00''' and ended on '''July 16, 2023 at 23:59 PDT (all times, UTC -7)''', taking place in [[Harmony Hall]] in [[Valley of Triumph]]. During the event, the Harmony Hall Guide at [[Home]] offered to take players to the event area.<section end="Summary"/>
+
+<small>Note that Days of Music content is available to all players who have progressed to at least Valley of Triumph.</small>
+
+In Harmony Hall, [[Returning Spirits#July 3, 2023|Returning Spirits]] from different Seasons: [[Thoughtful Director]], [[Respectful Pianist]], [[Leaping Dancer]], and [[Greeting Shaman]] gather to jam with players and offer items in their Friendship Trees. More [[Music Sheets]] are in the rotation to try out, the Light reward from the [[Harmony_Hall#Music_Challenge|Music Challenge]] has been doubled, and a "sequencer" feature to record and loop music playbacks can be found on the top floor at the newly added Jam Station.
+
+Two new instruments are available in Harmony Hall's lineup: a saxophone for event currency and a violin as an IAP. Additionally, the new {{Music Sheet|HH5|inline_text}} has been permanently added to the Harmony Hall Guide's Friendship Tree.
+
+For the duration of the event, a new currency has been introduced in the form of "Tickets". Those Tickets can be collecting daily during the event, with the total number varying by day. 
+*{{Cost|5 T|event=music}} hidden throughout Harmony Hall(see locations below)
+*Completing the Music Challenge rewards you with 1 treble clef (providing {{Cost|2 T|event=music}})
+*6 hidden treble clefs after interacting with certain instruments (providing {{Cost|1 T|event=music}} each a total of {{Cost|6 T|event=music}})
+*Weekends (Friday - Sunday): Bonus treble clefs can be found outside Harmony Hall (providing a total of {{Cost|2 T|event=music}})
+*Weekends (Friday - Sunday): Players can buy up to an additional {{Cost|7 T|event=music}} (costing {{Cost|2 AC|event=color}} per Ticket) in a mini spell shop at the center desk 
+
+{{Collapse
+|float= left
+|label= All Exact Ticket Locations
+|content=<u>'''Locations:'''</u>
+[[File:DaysOfMusic2023TicketRotations-by-AztroMens.png|thumb|274x274px|Ticket Rotations by AztroMens]]  
+'''<u>Rotation A:</u>''' 
+* Harmony Hall First Floor: {{Cost|1 T|event=music}} Practice Room, {{Cost|1 T|event=music}} Next to the Harps
+* Harmony Hall Second Floor: {{Cost|1 T|event=music}} In the window, {{Cost|1 T|event=music}} Next to the boxes, {{Cost|1 T|event=music}} Behind the sequencer
+* {{Cost|2 T|event=music}} from the Music Challenge 
+
+'''<u>Rotation B:</u>''' 
+* Harmony Hall First Floor: {{Cost|1 T|event=music}} Next to the front counter, {{Cost|1 T|event=music}} Next to the closet
+* Harmony Hall Second Floor: {{Cost|1 T|event=music}} On top of the ladder, {{Cost|1 T|event=music}} Next to the Mellow Musician, {{Cost|1 T|event=music}} Next to the sequencer
+* {{Cost|2 T|event=music}} from the Music Challenge
+
+'''<u>Rotation C:</u>'''
+* Harmony Hall First Floor: {{Cost|1 T|event=music}} Wall behind the counter, {{Cost|1 T|event=music}} Next to the showcased instrument
+* Harmony Hall Second Floor: {{Cost|1 T|event=music}} On the staircase landing, {{Cost|1 T|event=music}} Next to the AURORA mural, {{Cost|1 T|event=music}} Next to the sequencer
+* {{Cost|2 T|event=music}} from the Music Challenge
+}}
+<br>
+{| class="article-table mw-collapsible mw-collapsed" style="float:right; text-align:center;"
+! colspan="5" | Ticket Rotations and Bonus Treble Clef Locations
+|- 
+! Date
+! Rotation
+! style="text-align:center"| Instruments
+! style="text-align:center"| Bonus Treble Clef Locations
+! Daily Total
+|-
+| July 3, 2023
+| A
+| {{Instrument|Flute|inline_text}}, {{Instrument|Kalimba|inline_text}}, {{Instrument|Contrabass|inline_text}},<br>{{Instrument|Lute|inline_text}}, {{Instrument|Drum|inline_text}}, and {{Instrument|Large Bell|inline_text}} <small>(2nd floor)</small>
+| None
+| {{Cost|{{#vardefineecho:D1|13}} T|event=music}}
+|-
+| July 4, 2023
+| B
+| {{Instrument|Horn|inline_text}}, {{Instrument|Kalimba|inline_text}}, {{Instrument|Harp|inline_text}},<br>{{Instrument|Lute|inline_text}}, {{Instrument|Large Bell|inline_text}}, and {{Instrument|Large Bell|inline_text}} <small>(2nd floor)</small>
+| None
+| {{Cost|{{#vardefineecho:D2|13}} T|event=music}}
+|-
+| July 5, 2023
+| C
+| {{Instrument|Flute|inline_text}}, {{Instrument|Kalimba|inline_text}}, {{Instrument|Contrabass|inline_text}},<br>{{Instrument|Lute|inline_text}}, {{Instrument|Large Bell|inline_text}}, and {{Instrument|Large Bell |inline_text}} <small>(2nd floor)</small>
+| None
+| {{Cost|{{#vardefineecho:D3|13}} T|event=music}}
+|-
+| July 6, 2023
+| A
+|{{Instrument|Flute|inline_text}}, {{Instrument|Piano|inline_text}}, {{Instrument|Contrabass|inline_text}},<br>{{Instrument|Lute|inline_text}}, {{Instrument|Large Bell|inline_text}}, and {{Instrument|Small Bell |inline_text}} <small>(2nd floor)</small>
+| None
+| {{Cost|{{#vardefineecho:D4|13}} T|event=music}}
+|-
+| July 7, 2023
+| B
+| {{Instrument|Horn|inline_text}}, {{Instrument|Kalimba|inline_text}}, {{Instrument|Harp|inline_text}},<br>{{Instrument|Lute|inline_text}}, {{Instrument|Small Bell|inline_text}}, and {{Instrument|Small Bell |inline_text}} <small>(2nd floor)</small>
+| {{Cost|1 T|event=music}} Next to the Village of Dreams entrance<br>{{Cost|1 T|event=music}} Outside the far Harmony Hall entrance
+| {{Cost|{{#vardefineecho:D5|15}} T|event=music}}
+|-
+| July 8, 2023
+| C
+| {{Instrument|Horn|inline_text}}, {{Instrument|Kalimba|inline_text}}, {{Instrument|Contrabass|inline_text}},<br>{{Instrument|Ukulele|inline_text}}, {{Instrument|Large Bell|inline_text}}, and {{Instrument|Small Bell |inline_text}} <small>(2nd floor)</small>
+| {{Cost|1 T|event=music}} Next to the Village of Dreams entrance<br>{{Cost|1 T|event=music}} Outside the far Harmony Hall entrance
+| {{Cost|{{#vardefineecho:D6|15}} T|event=music}}
+|-
+| July 9, 2023
+| A
+|{{Instrument|Flute|inline_text}}, {{Instrument|Winter Piano|inline_text}}, {{Instrument|Harp|inline_text}},<br>{{Instrument|Lute|inline_text}}, {{Instrument|Large Bell|inline_text}}, and {{Instrument|Large Bell|inline_text}} <small>(2nd floor)</small>
+| {{Cost|1 T|event=music}} Next to the Village of Dreams entrance<br>{{Cost|1 T|event=music}} Outside the far Harmony Hall entrance
+| {{Cost|{{#vardefineecho:D7|15}} T|event=music}}
+|-
+| July 10, 2023
+| B
+|{{Instrument|Flute|inline_text}}, {{Instrument|Kalimba|inline_text}}, {{Instrument|Harp|inline_text}},<br>{{Instrument|Ukulele|inline_text}}, {{Instrument|Small Bell|inline_text}}, and {{Instrument|Small Bell|inline_text}} <small>(2nd floor)</small>
+| None
+| {{Cost|{{#vardefineecho:D8|13}} T|event=music}}
+|-
+| July 11, 2023
+| C
+| {{Instrument|Flute|inline_text}}, {{Instrument|Piano|inline_text}}, {{Instrument|Contrabass|inline_text}},<br>{{Instrument|Guitar|inline_text}}, {{Instrument|Small Bell|inline_text}}, and {{Instrument|Small Bell|inline_text}} <small>(2nd floor)</small>
+| None
+| {{Cost|{{#vardefineecho:D9|13}} T|event=music}}
+|-
+| July 12, 2023
+| A
+| {{Instrument|Flute|inline_text}}, {{Instrument|Kalimba|inline_text}}, {{Instrument|Harp|inline_text}},<br>{{Instrument|Lute|inline_text}}, {{Instrument|Small Bell|inline_text}}, and {{Instrument|Large Bell|inline_text}} <small>(2nd floor)</small>
+| None
+| {{Cost|{{#vardefineecho:D10|13}} T|event=music}}
+|-
+| July 13, 2023
+| B
+| {{Instrument|Flute|inline_text}}, {{Instrument|Xylophone|inline_text}}, {{Instrument|Contrabass|inline_text}},<br>{{Instrument|Guitar|inline_text}}, {{Instrument|Small Bell|inline_text}}, and {{Instrument|Large Bell|inline_text}} <small>(2nd floor)</small><ref name="gone-after-maintenance">This hidden ticket inside the second floor Large Bell on July 13 was unavailable after the scheduled server maintenance because the instruments on the second floor were removed. Your totals could off by one due to this.</ref>
+| None
+| {{Cost|{{#vardefineecho:D11|13}} T|event=music}}<ref name="gone-after-maintenance"/>
+|-
+| July 14, 2023
+| C
+| {{Instrument|Flute|inline_text}}, {{Instrument|Winter Piano|inline_text}}, {{Instrument|Contrabass|inline_text}},<br>{{Instrument|Electric Guitar|inline_text}}, and {{Instrument|Large Bell|inline_text}}
+| {{Cost|2 T|event=music}} Next to the Village of Dreams entrance<br>{{Cost|2 T|event=music}} Outside the far Harmony Hall entrance
+| {{Cost|{{#vardefineecho:D12|16}} T|event=music}}
+|-
+| July 15, 2023
+| A
+| {{Instrument|Flute|inline_text}}, {{Instrument|Kalimba|inline_text}}, {{Instrument|Contrabass|inline_text}},<br>{{Instrument|Electric Guitar|inline_text}}, and {{Instrument|Drum|inline_text}}
+| {{Cost|2 T|event=music}} Next to the Village of Dreams entrance<br>{{Cost|2 T|event=music}} Outside the far Harmony Hall entrance
+| {{Cost|{{#vardefineecho:D13|16}} T|event=music}}
+|-
+| July 16, 2023
+| B
+| {{Instrument|Flute|inline_text}}, {{Instrument|Kalimba|inline_text}}, {{Instrument|Contrabass|inline_text}},<br>{{Instrument|Electric Guitar|inline_text}}, and {{Instrument|Small bell|inline_text}}
+| {{Cost|2 T|event=music}} Next to the Village of Dreams entrance<br>{{Cost|2 T|event=music}} Outside the far Harmony Hall entrance
+| {{Cost|{{#vardefineecho:D14|16}} T|event=music}}
+|-
+! colspan="4" style="text-align:center;" | Total so far
+! style="text-align:center;" | {{Cost|{{#expr: ({{#var:D1}} + {{#var:D2}} + {{#var:D3}} + {{#var:D4}} + {{#var:D5}} + {{#var:D6}} + {{#var:D7}} + {{#var:D8}} + {{#var:D9}} + {{#var:D10}} + {{#var:D11}} + {{#var:D12}} + {{#var:D13}} + {{#var:D14}}) }} T|event=music}} <ref name="gone-after-maintenance"/>
+|}
+
+{{Friendship Tree
+|label  = Harmony Hall Guide
+|event = Days of music
+|image = SoPerformance - Forgetful Storyteller.png
+
+|nodeC5 =  musicHH5 5 C
+|  labelC5 = Music Sheet HH5
+|  linkC5  = 
+
+|nodeL4 = Harmony-Hall-Marching-Band-Hat-icon-Morybel-0146.png 43 T
+|  labelL4 = Marching Band hat
+|  linkL4  = Days of Music#Harmony Hall Marching Band Hat
+|nodeC4 = spell5
+|  labelC4 = Spell
+|  linkC4  = Spells
+
+|nodeL3 = SOPerformance-hair-accessory-icon-Morybel-0146.png 50 C
+|  labelL3 = Musical Hairpin
+|  linkL3  = Days of Music#Musical Hairpin
+|nodeC3 = spell5
+|  labelC3 = Spell
+|  linkC3  = Spells
+|nodeR3 = Triumph-Saxophone-instrument-icon-Morybel-0146.png  102 T
+|  labelR3 = Triumph Saxophone
+|  linkR3 = Days of Music#Triumph Saxophone
+
+|nodeR2 = musicHH4 10 C
+|  labelR2 = Music Sheet HH4
+|  linkR2 = 
+|nodeL2 = musicHH3 10 C
+|  labelL2 = Music Sheet HH3
+|  linkL2 = 
+|nodeC2 = spell5
+|  labelC2 = Spell
+|  linkC2 = Spells
+
+|nodeR1 = musicHH2 10 C
+|  labelR1 = Music Sheet HH2
+|  linkR1 = 
+|nodeC1 = spell5
+|  labelC1 = Spell
+|  linkC1 = Spells
+|nodeL1 = musicHH1 10 C
+|  labelL1 = Music Sheet HH1
+|  linkL1 = 
+
+}}
+{{Clear}}
+
+
+===2023 New Cosmetics and Props===
+
+====Triumph Violin====
+::'''''"Finely crafted for the aspiring virtuoso"'''''
+
+The Triumph Violin is blue with a yellow trim and red shoulder rest marked with a treble clef. It has the sustained notes feature, similar to the [[Season_of_AURORA#Voice_of_AURORA|Voice of AURORA]] and [[Mellow_Musician#Instrument|Mellow Musician's guitar]]. This [[Instrument]] was introduced in 2023 and is available for {{Cost|19.99 USD|refnote}} from the front desk in [[Harmony Hall]]. Although this Instrument first appeared as part of the Days of Music event, it will remain permanently available in the game.
+
+The Triumph Violin plays the [[Music Sheet Parts|melody part]] on [[Music Sheets]]. Its [[Instrument Pitch|pitch]] is the same as the standard [[Piano]] (in C Major, it covers C<sub>4</sub> to C<sub>6</sub>).
+{{#tag:gallery
+|{{Icon Name|Triumph Violin|iap}} {{!}} {{Icon Name|Triumph Violin|name}} IAP
+{{Icon Name|Triumph Violin|icon}} {{!}} {{Icon Name|Triumph Violin|name}} icon
+{{Icon Name|Triumph Violin|real}} {{!}} {{Icon Name|Triumph Violin|name}}
+Triumph-Violon-Instrument-playing.png {{!}} Playing {{Icon Name|Triumph Violin|name}}
+Triumph-Violon-Instrument-wearing.png {{!}} {{Icon Name|Triumph Violin|name}} on your back
+{{Icon Name|Triumph Violin|spell}} {{!}} {{Icon Name|Triumph Violin|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Triumph Saxophone====
+<section begin="triumph-saxophone" />The Triumph Saxophone is white with gold accents and marked with a treble clef on the bell. Like the [[#Triumph Violin|Triumph Violin]], it has the sustained notes feature. This [[Instrument]] was introduced in 2023 and was available for {{Cost|102 T|event=music}} from the Harmony Hall Guide. Although this Instrument first appeared as part of the Days of Music event, it will remain permanently available in the game.<ref name = "music 2024 avail">This item was made permanently available after Days of Music 2024.</ref>
+
+The Triumph Saxophone plays the [[Music Sheet Parts|wind part]] on [[Music Sheets]]. Its [[Instrument Pitch|pitch]] is one octave below the standard [[Piano]] (in C Major, it covers C<sub>3</sub> to C<sub>5</sub>).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Triumph Saxophone|icon}} {{!}} {{Icon Name|Triumph Saxophone|name}} icon
+{{Icon Name|Triumph Saxophone|real}} {{!}} {{Icon Name|Triumph Saxophone|name}}
+Triumph-Saxophone-instrument-playing.png {{!}} Playing {{Icon Name|Triumph Saxophone|name}}
+Triumph-Saxophone-instrument-on-back.png {{!}} {{Icon Name|Triumph Saxophone|name}} on a player's back
+{{Icon Name|Triumph Saxophone|spell}} {{!}} {{Icon Name|Triumph Saxophone|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}<section end="triumph-saxophone" />
+
+====Harmony Hall Marching Band Hat====
+The Marching Band Hat is a red band hat with a white plume, marked with a treble clef on the front. This [[Hair]] was introduced in 2023 and was available for {{Cost|43 T|event=music}} from the Harmony Hall Guide. Note that this item is considered a Hair, not a [[Hair Accessory]], and as such it can not be worn over other Hairstyles.
+{{#tag:gallery
+|{{Icon Name|Marching Band Hat|icon}} {{!}} {{Icon Name|Marching Band Hat|name}} icon
+{{Icon Name|Marching Band Hat|real}} {{!}} {{Icon Name|Marching Band Hat|name}}
+{{Icon Name|Marching Band Hat|side}} {{!}} {{Icon Name|Marching Band Hat|name}} side
+{{Icon Name|Marching Band Hat|spell}} {{!}} {{Icon Name|Marching Band Hat|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+===2023 New Spells===
+====Random Instrument Spell====
+The Random Instrument [[Spell]] offers one random [[Instrument]] Spell. It was introduced in 2023 and is available for {{Cost| 1 C}} from the Gift Box on the second floor of [[Harmony Hall]]. It can be purchased once a week, ''during Days of Music only''.
+
+The following Instruments can be obtained as Spells: the {{Spirit Item|Doublefive Light Catcher|Instrument|inline_text}}, {{Spirit Item|Twirling Champion|Instrument|inline_text}}, {{Spirit Item|Pleaful Parent|Instrument|inline_text}}, {{Spirit Item|Hairtousle Teen|Instrument|inline_text}}, {{Spirit Item|Sanctuary Guide|Instrument_u|inline_text}}, {{Spirit Item|Prophecy Guide|Instrument_u|inline_text}}, {{Spirit Item|Dancing Performer|Instrument|inline_text}}, {{Spirit Item|Assembly Guide|Instrument_u|inline_text}}, {{Spirit Item|Tinkering Chimesmith|Instrument|inline_text}}, and the {{Spirit Item|Mellow Musician|Instrument|inline_text}}.<br>
+<br>
+<gallery widths="150" spacing="small" captionalign="center" >
+Music-note-icon.png|Random Instrument Spell icon
+Harmony-Hall-Random-Instrument-Spell-Corner.png|Random Instrument Spell corner in Harmony Hall
+</gallery>
+
+More information can be found in Patch {{v|0.21.5}}.
+
+==The 2022 Musical Hall Grand Opening<span id="2022"></span>==
+{{#lst:Harmony_Hall|Summary-opening}}
+===Fledgling Harp===
+{{#lst:Harmony_Hall|fledgling-harp}}
+=== Rhythm Guitar===
+{{#lst:Harmony_Hall|rhythm-guitar}}
+=== Triumph Handpan===
+{{#lst:Harmony_Hall|triumph-handpan}}
+{{Clear}}
+
+==Image Gallery==
+<gallery widths="125" spacing="small" captionalign="center" >
+Days-of-Music-promo-image-2024-valley.png|2024 Promo Image
+Days-of-Music-promo-image-2024-eventcurrency.png|2024 Promo Image
+Days-of-Music-promo-image-2024-bellstage.png|2024 Promo Image
+Days-of-Music-promo-image-2024-jamstation.png|2024 Promo Image
+Days-of-Music-promo-image-2024.png|2024 Promo Image
+Days-of-Music-promo-image-2023-2kids.png|2023 Promo Image
+Days-of-Music-Promo-image.png|2023 Promo Image
+Days-of-Music-promo-image-2023-5kids.png|2023 Promo Image
+Days-of-Music-promo-image-2023-currency.png|2023 Promo Image
+Harmony-Hall-Grand-Opening-promo-image.png|2022 Promo Image
+Harmony-Hall-Grand-Opening-promo-image-music-sheet-challenge.png|2022 Promo Image
+Harmony-Hall-Grand-Opening-promo-image-instruments.png|2022 Promo Image
+</gallery>
+
+== References ==
+<references />
+
+{{Holiday Navbox}}
+
+[[fr:Jours de la Musique]]
+[[pt-br:Dias de Música]]
+[[ja:音楽の日々]]
+[[de:Tage der Musik]]
+
+{{DEFAULTSORT:Music, Days of}}
+[[Category:Events]]

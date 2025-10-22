@@ -1,0 +1,110 @@
+{{Spirit Infobox
+|title     = Hide'n'Seek Pioneer
+|type      = Regular
+|emote_type= Emote
+|image     = <gallery>
+Forest-Spirit-Hide-n-Seek-Pioneer.png|Standard
+Forest-Spirit-Hide-n-Seek-Pioneer-Gold.png|Ascended
+</gallery>
+|emote     = {{Emote||infobox}}
+|cosmetics = {{Spirit Item||Outfit|infobox}}{{Spirit Item||Mask|infobox}}{{Spirit Item||Hair|infobox}}
+|realm     = Hidden Forest
+|location  = Forest's Brook
+}}
+<section begin="Summary" />The '''Hide'n'Seek Pioneer''' is a [[Regular Spirit]] in [[Hidden Forest]] who offers the {{Emote|Hide'n'Seek Pioneer|inline_text}} Expression. The Hide'n'Seek Pioneer is found in [[Forest's Brook]] in a cave hidden by [[Darkness|Darkness Plants]], on the right-hand side of the brook before the bridge. The collectibles [[Hide'n'Seek Pioneer#Friendship Tree|offered]] by this Spirit are an {{Spirit Item|Hide'n'Seek Pioneer|Outfit|inline_text}}, a {{Spirit Item|Hide'n'Seek Pioneer|Mask|inline_text}}, and a {{Spirit Item|Hide'n'Seek Pioneer|Hair|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Hide-n-Seek-Pioneer-Guide-777-Ed.png|320x320px|thumb|none|Image Guide by 777.Ed]]
+
+== Memory ==
+<div>{{#ev:youtube|https://www.youtube.com/watch?v=5DNs9K-zeeI|||Video Guide by Tara||start=646&end=754&loop=1}}
+<br>
+The Hide'n'Seek Pioneer can be found in [[Forest's Brook]] in a cave hidden by [[Darkness|Darkness Plants]], on the right-hand side of the brook before the bridge. This Spirit is a [[Standard Memory|standard memory]] quest with 5 memory fragments and an unlimited overall [[Timed Memory|time limit]]. All of the memory fragments are [[Spirit Health|sheltered]] from the [[Flora,_Minerals_and_Elements_of_Sky#Rain|rain]].
+
+After burning the Darkness covering the entrance and entering the cave, [[Deep Call|Deep Calling]] is recommended to flip the three [[Dark Crabs]] guarding the area, preventing them from attacking while you locate the Spirit.
+
+As their memory unfolds, the Hide'n'Seek Pioneer is seen beginning a game of Hide and Seek with another Spirit, holding their hands over their eyes as they count down while the other rushes out of the cave to find a hiding spot. The young Spirit then begins to seek out their fellow player, darting about the Forest's Brook in a spirited hunt.
+
+At the end of the memory, the Hide'n'Seek Pioneer finally spots the other Spirit peeking around the corner of a pavilion. Still feeling playful, the young Spirit glances both ways behind them in dramatic fashion, as if to request another game of Hide and Seek.<br>
+<br>
+[[File:02 HF Spirit - Hide-n-Seek Pioneer.png|200px|thumb|none|Relive the Hide'n'Seek Pioneer's memory]]
+</div>
+{{Clear}}
+
+== Expression ==
+This Spirit offers the {{Emote|Hide'n'Seek Pioneer|inline_text}} [[Expression]], which has only 1 Level with no upgrades.
+
+Instead of being a standard animation, this Expression begins a mini game of '''Hide and Seek'''. When selected, a {{Emote|Hide-n-Seek Pioneer}} Hide and Seek icon appears over your avatar's head, inviting all nearby players to join the game by clicking on the icon.  The player who starts the game is always the seeker. Everyone else is told to hide while a timer counts down to the start of the game. The seeker then has a limited amount of time to find the hidden players and tap on them. [[Honk|Honking]] and [[Deep Call]]s do not show any hidden players to the seeker for the duration of the game.<br>
+<br>
+[[File:{{Icon Name||Emote}}|170px|left]]
+<gallery heights="125" captionalign="center">
+Hide'n'Seek-Pioneer-hide-and-seek-emote-level-1.gif|{{Icon Name||emote_name}}
+</gallery>
+
+* Hide and Seek will make your avatar raise both hands to cover their eyes and sway their torso side to side. This action is continued for as long as you don't move your character. Exiting this Expression will make your avatar quickly twist to glance both ways behind their back. 
+
+== Cosmetics ==
+=== Outfit ===
+The [[Outfit]] offered by this Spirit is a sleeveless beige dress, costing {{Cost|15 H}}. It is permanently available to all players after unlocking the Spirit's second [[Wing Buff]]. This item was added to the Friendship Tree in Patch {{v|0.13.2}} on April 1, 2021.
+
+The Outfit (and the Wing Buff that unlocks it) are not needed to complete the Hidden Forest [[Constellation]].<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Outfit}} {{!}} The Outfit icon
+{{Icon Name||Outfit|real}} {{!}} The Outfit
+{{Icon Name||Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Mask ===
+The [[Mask]] offered by this Spirit closely resembles the [[Masks#Base Mask|Base Mask]] but with rounder proportions, costing {{Cost|20 H}}. This special Mask, which causes players wearing it to be [[wikipedia:Chibi_(style)|Chibi-sized]], is a popular tool for going [[Out of Bounds]] (OOB). The [[Blessings (Spells)#Shrink Spell|Shrink Spell]] can also be used to temporarily mimic the Mask's effect.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Hair ===
+The [[Hair]] offered by this Spirit is a chin-length bob with bangs, costing {{Heart|2}}. It is permanently available to all players after unlocking the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair front
+{{Icon Name||Hair|side}} {{!}} The Hair side
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Friendship Tree ==
+{{Friendship Tree Info | regular}}
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Hide'n'Seek Pioneer
+|image  = Forest-Spirit-Hide-n-Seek-Pioneer.png
+
+|nodeC7 = outfit 15 H BONUS
+|nodeC6 = wing 6 AC BONUS
+|nodeC5 = mask 20 H
+|nodeC4 = spell5
+|nodeC3 = wing 3 AC
+|nodeL2 = heart
+|nodeC2 = spell1
+|nodeL1 = hair 2 H
+|nodeC1 = emote
+}}<section end="Friendship Tree" />
+
+==Unique Daily Quests==
+{{#section-h:Quests/Daily Quest Spirits|Hide'n'Seek Pioneer}}
+
+==Trivia==
+*The Hide'n'Seek Pioneer Mask is featured in a piece of merch from thatskyshop, in the form of the [[That Sky Shop/Wave 2#Chibi Mask Pin|Chibi Mask Pin]]. It has a [[STAR]] feature which allows you to turn Chibi-sized with the friends that you're holding hands with for a limited duration.
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Emote Loc-Hide and seek.png
+</gallery>
+
+==References==
+<references />
+
+[[de:Versteckspiel-Pionier]]
+[[pt-br:Pioneiro de Esconde-Esconde]]
+[[fr:Pionnier du cache-cache]]

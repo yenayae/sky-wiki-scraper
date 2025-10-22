@@ -1,0 +1,76 @@
+{{Spirit Infobox
+|type      = Regular
+|emote_type= Call
+|image     = <gallery>
+Valley-Spirit-Manta-Whisperer.png|Standard
+Valley-Spirit-Manta-Whisperer-Gold.png|Ascended
+</gallery>
+|music     = {{Music Sheet|3}}
+|realm     = Valley of Triumph
+|location  = Citadel
+}}
+<section begin="Summary" />The '''Manta Whisperer''' is a [[Regular Spirit]] in [[Valley of Triumph]] who offers the {{Emote|Manta Whisperer|inline_text}}. The Manta Whisperer is found in the [[Citadel]], on a low platform on the right side of the building. The only collectible [[Manta Whisperer#Friendship Tree|offered]] by this Spirit is {{Music Sheet|3|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Manta-Whisperer-Guide-777-Ed.png|320x320px|thumb|none|Image Guide by 777.Ed]]
+
+== Memory ==
+<div>{{#ev:youtube|https://www.youtube.com/watch?v=-sVP-uZXkaI|||Video Guide by Tara||start=876&end=996&loop=1}}
+<br>
+The Manta Whisperer can be found in the [[Citadel]], on a low platform on the right side of the building. This Spirit is a [[Standard Memory|standard memory]] quest with 8 memory fragments and a 5-minute overall [[Timed Memory|time limit]].
+
+As their memory unfolds, the Manta Whisperer reaches out towards the sky as a light fragment, possibly representing a [[Mantas|Manta]], flies all around the Citadel, weaving through the various structures.
+
+At the end of the memory, the Manta Whisperer lets out a warbling Manta honk, drawing out several large Mantas from the clouds obscuring the ground.<br>
+<br>
+[[File:03 VT Spirit - Manta Whisperer.jpg|200px|thumb|none|Relive the Manta Whisperer's memory]]
+</div>
+{{Clear}}
+
+== <span id="Expression">Call</span> ==
+The Manta Whisperer does not offer an [[Expression]], but instead offers a [[Call]]. The {{Emote||inline_text}} modifies the player's voice to a bubbly honk.
+
+''Unlocking this Call is a prerequisite to learning the {{Emote|Cosmic Manta Call|inline_text}} from [[Memory Whisperer]].''<br>
+<br>
+[[File:{{Icon Name||emote}}|x170px|left]]
+[[File:Manta-Whisperer-manta-call-emote.mp4|300px]]
+{{Clear}}
+
+==Music Sheet==
+The Manta Whisperer offers the {{Music Sheet|3}} [[Music Sheet]] #3, costing {{Cost|3 H}}. It is permanently available after unlocking the Spirit's [[Wing Buff]] and the Friendship Tree's fourth node. It is a song in the key of C Major.
+
+Prior to Patch {{v|0.15.5}}, this was identified as Music Sheet #5. The pre-0.15.5 Music Sheet #3 is now labeled Music Sheet #1.<br>
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guide
+|content=
+{{#ev:youtube|PTcxuW2ZY0s||inline|Music Sheet Video Guide by Ikejiji}}
+}}
+{{Clear}}
+
+== Friendship Tree ==
+{{Friendship Tree Info | regular}}
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Manta Whisperer
+|image  = Valley-Spirit-Manta-Whisperer.png
+
+|nodeC5 = music3 3 H
+|nodeC4 = spell5
+|nodeC3 = wing 1 AC
+|nodeL2 = heart
+|nodeC2 = spell1
+|nodeC1 = emote
+}}<section end="Friendship Tree" />
+
+==Trivia==
+* The Manta Whisperer is one of only four [[Regular Spirits]] (the others being [[Backflipping Champion]], [[Bowing Medalist]], and [[Proud Victor]]) whose memory has a [[Timed Memory|time limit]].
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Emote Loc-Manta Call.png
+</gallery>
+
+[[de:Riesenrochensprecher]]
+[[pt-br:Comunicador de Arraia]]
+[[ja:マンタの語り部]]
+[[fr:Orateur Manta]]

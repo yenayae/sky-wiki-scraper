@@ -1,0 +1,538 @@
+{{Distinguish|Head Accessories}}
+__FORCETOC__
+[[File:Sky-Closet-Hairstyles-Morybel-0146.png|thumb|left|x200px|Icon used for Hair Outfit Shrine]]
+'''Hair Accessories''' (sometimes called '''Headpieces''') are [[Cosmetics]] that are worn on the head in addition to any selected [[Hair]]. Hair Accessories share the middle [[Outfit Shrine]] with Hair, where the Hair Accessories are found in the second tab (the hat {{Icon| Icon hair summer hat headpiece.png | label= }} icon). 
+
+Even though Hair Accessories are identified using a hat icon, less than a quarter of the Hair Accessories are hats; most of them are small decorative add-ons like flowers. Most of the hats in the game are actually considered to be [[Hair]] (meaning that they replace any previously selected hairstyle). All Hair Accessories are worn in addition to the Hairstyle.
+
+Hair Accessories are overall harder to obtain than most types of Cosmetics. None are available from [[Regular Spirits]]; many are Ultimate Gifts or limited-time offers.
+{{clear}}
+
+==Display==
+<section begin="Display" />{{Cosmetics Tabber
+| {{Spirit Item| Chill Sunbather | hairpiece | tab | link= }}
+| {{Spirit Item| Chill Sunbather | hairpiece_real | closet_display }}
+| {{Spirit Item| Light Whisperer | hairpiece | tab | link= }}
+| {{Spirit Item| Light Whisperer | hairpiece_real | closet_display }}
+| {{Spirit Item| Tinkering Chimesmith | hairpiece | tab | link= }}
+| {{Spirit Item| Tinkering Chimesmith | hairpiece_real | closet_display }}
+| {{Spirit Item| Lively Navigator | hairpiece | tab | link= }}
+| {{Spirit Item| Lively Navigator | hairpiece_real | closet_display }}
+| {{Spirit Item| Flight Guide | hairpiece_u | tab | link= }}
+| {{Spirit Item| Flight Guide | hairpiece_u_real | closet_display | link=Flight_Guide#Flight_Ultimate_Hair_Accessory }}
+| {{Spirit Item| Bumbling Boatswain | hairpiece | tab | link= }}
+| {{Spirit Item| Bumbling Boatswain | hairpiece_real | closet_display }}
+| {{Spirit Item| Ancient Darkness | hairpiece | tab | link= }}
+| {{Spirit Item| Ancient Darkness | hairpiece_real | closet_display }}
+| {{Spirit Item| Ancient Light | hairpiece | tab | link= }}
+| {{Spirit Item| Ancient Light | hairpiece_real | closet_display }}
+| {{Spirit Item| Reassuring Ranger | hairpiece | tab | link= }}
+| {{Spirit Item| Reassuring Ranger | hairpiece_real | closet_display }}
+| {{Spirit Item| Nightbird Whisperer | hairpiece | tab | link= }}
+| {{Spirit Item| Nightbird Whisperer | hairpiece_real | closet_display }}
+| {{Spirit Item| Moments Guide| hairpiece_u | tab | link= }}
+| {{Spirit Item| Moments Guide| hairpiece_u_real | closet_display | link=Moments_Guide#Moments_Ultimate_Hair_Accessory }}
+| {{Spirit Item| Echo of an Abandoned Refuge | hairpiece | tab | link= }}
+| {{Spirit Item| Echo of an Abandoned Refuge | hairpiece_real | closet_display }}
+| {{Spirit Item| Remnant of a Forgotten Haven | hairpiece | tab | link= }}
+| {{Spirit Item| Remnant of a Forgotten Haven | hairpiece_real | closet_display }}
+| {{Spirit Item| Spirit of Mural | hairpiece | tab | link= | label=Spirit of Mural Hair Accessory }}
+| {{Spirit Item| Spirit of Mural | hairpiece_real | closet_display | label=Spirit of Mural Hair Accessory }}
+| {{Spirit Item| Feudal Lord | hairpiece | tab | link= }}
+| {{Spirit Item| Feudal Lord | hairpiece_real | closet_display }}
+| {{Spirit Item| Nesting Nook | hairpiece | tab | link= }}
+| {{Spirit Item| Nesting Nook | hairpiece_real | closet_display }}
+| {{Spirit Item| Moomin Guide | hairpiece_m | tab | link= | label=Moomintroll Ears }}
+| {{Spirit Item| Moomin Guide | hairpiece_m_real | closet_display | link=Season of Moomin#Moomintroll Ears | label=Moomintroll Ears }}
+| {{Spirit Item| Moomin Guide | hairpiece_s | tab | link= | label=Pointed Snufkin Hat }}
+| {{Spirit Item| Moomin Guide | hairpiece_s_real | closet_display | link=Season of Moomin#Pointed Snufkin Hat | label=Pointed Snufkin Hat }}
+| {{Spirit Item| Sense of Self | hairpiece | tab | link= }}
+| {{Spirit Item| Sense of Self | hairpiece_real | closet_display }}
+| {{Spirit Item| Inspiration of Inclusion | hairpiece | tab | link= }}
+| {{Spirit Item| Inspiration of Inclusion | hairpiece_real | closet_display }}
+| {{Spirit Item| Radiance Greeting Shaman | hairpiece | tab | link= }}
+| {{Spirit Item| Radiance Greeting Shaman | hairpiece_real | closet_display }}
+| {{Spirit Item| Costumed Confetti Cousin | hairpiece | tab | link= }}
+| {{Spirit Item| Costumed Confetti Cousin | hairpiece_real | closet_display }}
+| {{Spirit Item| Nostalgic Sparkler parent | hairpiece | tab | link= }}
+| {{Spirit Item| Nostalgic Sparkler parent | hairpiece_real | closet_display }}
+| {{Spirit Item| Vault Elder's Lantern | hairpiece_b | tab | link= }}
+| {{Spirit Item| Vault Elder's Lantern | hairpiece_b_real | closet_display | link=Season_of_The_Two_Embers_-_Part_1#Butterfly_Blossom_Memento}}
+| {{Spirit Item| Vault Elder's Lantern | hairpiece_u | tab | link= }}
+| {{Spirit Item| Vault Elder's Lantern | hairpiece_u_real | closet_display | link=Vault_Elder%27s_Lantern#Two_Embers_Part_1_Ultimate_Hair_Accessory }}
+| {{Spirit Item| Vault Elder's Lantern | hairpiece_m | tab | link= }}
+| {{Spirit Item| Vault Elder's Lantern | hairpiece_m_real | closet_display | link=Season_of_The_Two_Embers_-_Part_1#Mini_Manatee_Accessory}}
+| {{Days Item| Days of Fortune Orange | icon | tab | link= }}
+| {{Days Item| Days of Fortune Orange | real | closet_display }}
+| {{Days Item| Days of Fortune Fish Accessory | icon | tab | link= }}
+| {{Days Item| Days of Fortune Fish Accessory | real | closet_display }}
+| {{Days Item| Days of Love Flower Crown | icon | tab | link= }}
+| {{Days Item| Days of Love Flower Crown | real | closet_display }}
+| {{Days Item| Love Heart Beret | icon | tab | link= }}
+| {{Days Item| Love Heart Beret | real | closet_display }}
+| {{Days Item| Nature Coral Crown Accessory | icon | tab | link= }}
+| {{Days Item| Nature Coral Crown Accessory | real | closet_display }}
+| {{Days Item| Rainbow Hair Flower | icon | tab | link= }}
+| {{Days Item| Rainbow Hair Flower | real | closet_display | link=Days_of_Color/2021#Rainbow_Pack }}
+| {{Days Item| Double Rainbow Flower | icon | tab | link= }}
+| {{Days Item| Double Rainbow Flower | real | closet_display | link=Days_of_Color/2022#Double_Rainbow_Pack }}
+| {{Days Item| 1 Year Anniversary Hat | icon | tab | link= }}
+| {{Days Item| 1 Year Anniversary Hat | real | closet_display | link=Sky_Anniversary/2020#1_Year_Anniversary_Hat }}
+| {{Days Item| 2nd Anniversary Hat | icon | tab | link= }}
+| {{Days Item| 2nd Anniversary Hat | real | closet_display | link=Sky_Anniversary/2021#2nd_Birthday_Hat }}
+| {{Days Item| 3rd Anniversary Hat | icon | tab | link= }}
+| {{Days Item| 3rd Anniversary Hat | real | closet_display | link=Sky_Anniversary/2022#3rd_Birthday_Hat }}
+| {{Days Item| 4th Anniversary Hat | icon | tab | link= }}
+| {{Days Item| 4th Anniversary Hat | real | closet_display | link=Sky_Anniversary/2023#4th_Anniversary_Hat }}
+| {{Days Item| 5th Anniversary Headband | icon | tab | link= }}
+| {{Days Item| 5th Anniversary Headband | real | closet_display | link=Sky_Anniversary/2024#5th_Anniversary_Headband }}
+| {{Days Item| 6th Anniversary Hat | icon | tab | link= }}
+| {{Days Item| 6th Anniversary Hat | real | closet_display | link=Sky_Anniversary#6th_Anniversary_Hat }}
+| {{Days Item| Wonderland Primrose Pinafore Bow | icon | tab | link= }}
+| {{Days Item| Wonderland Primrose Pinafore Bow | real | closet_display | link=Days_of_Feast#Wonderland_Primrose_Pinafore_Set }}
+| {{Days Item| Wonderland Stacked Hat | icon | tab | link= }}
+| {{Days Item| Wonderland Stacked Hat | real | closet_display }}
+| {{Days Item| Oreo Headband | icon | tab | link= }}
+| {{Days Item| Oreo Headband | real | closet_display | link=Sky_Anniversary/2024#SkyFest_Oreo_Headband }}
+| {{Days Item| Golden Garland | icon | tab | link= }}
+| {{Days Item| Golden Garland | real | closet_display }}
+| {{Days Item| Moonlight Blossom Accessory | icon | tab | link= }}
+| {{Days Item| Moonlight Blossom Accessory | real | closet_display }}
+| {{Days Item| Style Top Hat | icon | tab | link= }}
+| {{Days Item| Style Top Hat | real | closet_display }}
+| {{Days Item| Style Fascinator | icon | tab | link= }}
+| {{Days Item| Style Fascinator | real | closet_display }}
+| {{Days Item| Mischief Crabkin Accessory | icon | tab | link= }}
+| {{Days Item| Mischief Crabkin Accessory | real | closet_display }}
+| {{Days Item| Snowflake Hair Accessory | icon | tab | link= }}
+| {{Days Item| Snowflake Hair Accessory | real | closet_display }}
+| {{Days Item| Winter Pinecone Hair Clip | icon | tab | link= }}
+| {{Days Item| Winter Pinecone Hair Clip | real | closet_display }}
+| {{Days Item| Seashell Hairpin | icon | tab | link= }}
+| {{Days Item| Seashell Hairpin | real | closet_display }}
+| {{Days Item| Summer Hat | icon | tab | link= }}
+| {{Days Item| Summer Hat | real | closet_display }}
+| {{Days Item| Bunny Accessory | icon | tab | link= }}
+| {{Days Item| Bunny Accessory | real | closet_display }}
+| {{Icon| SOPerformance-hair-accessory-icon-Morybel-0146.png | tab | label=Musical Hairpin | link= }}
+| {{Icon| SOPerformance-hair-accessory.png | closet_display | label=Musical Hairpin | link=Harmony Hall#Musical Hairpin }}
+| {{Days Item| Amethyst Accessory | icon | tab | link= }}
+| {{Days Item| Amethyst Accessory | real | closet_display }}
+| {{Days Item| Cinnamoroll Ears | icon | tab | link= }}
+| {{Days Item| Cinnamoroll Ears | real | closet_display }}
+| {{Days Item| Cozy Teacup Headband | icon | tab | link= }}
+| {{Days Item| Cozy Teacup Headband | real | closet_display }}
+| {{Days Item| Cinnamoroll Mini Companion | icon | tab | link= }}
+| {{Days Item| Cinnamoroll Mini Companion | real | closet_display }}
+| {{Days Item| Healing Flower Hair Accessory | icon | tab | link= }}
+| {{Days Item| Healing Flower Hair Accessory | real | closet_display }}
+| {{Days Item| Kizuna AI Bow | icon | tab | link= }}
+| {{Days Item| Kizuna AI Bow | real | closet_display | link=Kizuna_AI#Kizuna_AI_Pack }}
+| {{Days Item| Moth Antennae | icon | tab | link= }}
+| {{Days Item| Moth Antennae | real | closet_display }}
+| {{Days Item| Jelly Hat | icon | tab | link= }}
+| {{Days Item| Jelly Hat | real | closet_display | link=Days_of_Sunlight#Sunlight_Bonnet_Bundle }}
+}}
+<section end="Display" />
+==Available Hair Accessories==
+This table lists all the hair accessories that have ever been available in Sky; only a small subset of them are [[#Availability Legend|available]] for purchase at any given time. The automatic [[#Headphones|headphones]] are not listed in this table because they do not appear in the Hair Closet. The default order is icon order, as used in the in-game [[Outfit Shrine]]. The table sort order can be changed by clicking on the header of any column. The Dye column lists whether the Hair Accessory can be dyed or not.
+
+{| class="article-table sortable"
+!Image
+!Icon
+![[#Availability Legend|Avail.]]
+!Source
+!Cost
+![[Dyes|Dye]]
+|- id="Chill Sunbather"
+| style="text-align: center;" |{{Spirit Item| Chill Sunbather | hairpiece_real | table | sort=1 }}
+| {{Spirit Item| Chill Sunbather | hairpiece | table | sort=1  }}
+| {{Avail Summary | season | spirit=Chill Sunbather | season=Sanctuary }}
+| {{Cost | 44 c }}
+| Yes
+|- id="Light Whisperer"
+| style="text-align: center;" |{{Spirit Item| Light Whisperer | hairpiece_real | table | sort=2 }}
+| {{Spirit Item| Light Whisperer | hairpiece | table | sort=2 }}
+| {{Avail Summary | season | spirit=Light Whisperer | season=Flight }}
+| {{Cost | 45 C }}
+| No
+|- id="Tinkering Chimesmith"
+| style="text-align: center;" |{{Spirit Item| Tinkering Chimesmith | hairpiece_real | table | sort=3 }}
+| {{Spirit Item| Tinkering Chimesmith | hairpiece | table | sort=3 }}
+| {{Avail Summary | season | spirit=Tinkering Chimesmith | season=Flight }}
+| {{Cost| 35 C }}
+| Yes
+|- id="Lively Navigator"
+| style="text-align: center;" |{{Spirit Item| Lively Navigator | hairpiece_real | table | sort=4 }}
+| {{Spirit Item| Lively Navigator | hairpiece | table | sort=4 }}
+| {{Avail Summary | season | spirit=Lively Navigator | season=Flight }}
+| {{Cost | 45 C }}
+| Yes
+|- id="Flight Ultimate Headpiece"
+| style="text-align: center;" |{{Spirit Item| Flight Guide | hairpiece_u_real | table | link=Flight Guide#Flight Ultimate Hair Accessory | sort=5 }}
+| {{Spirit Item| Flight Guide | hairpiece_u | table | link=Flight Guide#Flight Ultimate Hair Accessory | sort=5 }}
+| {{Avail Summary | ultimate | season=Flight }}
+| {{Cost | N/A }}
+| Yes
+|- id="Bumbling Boatswain"
+| style="text-align: center;" |{{Spirit Item| Bumbling Boatswain | hairpiece_real | table | sort=6 }}
+| {{Spirit Item| Bumbling Boatswain | hairpiece | table | sort=6 }}
+| {{Avail Summary | season | spirit=Bumbling Boatswain | season=Abyss }}
+| {{Cost | 35 C }}
+| No
+|- id="Ancient Darkness"
+| style="text-align: center;" |{{Spirit Item| Ancient Darkness | hairpiece_real | table | sort=7 }}
+| {{Spirit Item| Ancient Darkness | hairpiece | table | sort=7 }}
+| {{Avail Summary | season | spirit=Ancient Darkness | season=Shattering }}
+| {{Cost | 45 C }}
+| No
+|- id="Ancient Light"
+| style="text-align: center;" |{{Spirit Item| Ancient Light | hairpiece_real | table | sort=8 }}
+| {{Spirit Item| Ancient Light | hairpiece | table | sort=8 }}
+| {{Avail Summary | season | spirit=Ancient Light | season=Shattering }}
+| {{Cost | 50 C }} 
+| No
+|- id="Reassuring Ranger"
+| style="text-align: center;" |{{Spirit Item| Reassuring Ranger | hairpiece_real | table | sort=9 }}
+| {{Spirit Item| Reassuring Ranger | Hairpiece | table | sort=9 }}
+| {{Avail Summary | season | spirit=Reassuring Ranger | season=Moments }}
+| {{Cost | ? }}
+| Yes
+|- id="Nightbird Whisperer"
+| style="text-align: center;" |{{Spirit Item| Nightbird Whisperer | hairpiece_real | table | sort=10 }}
+| {{Spirit Item| Nightbird Whisperer | hairpiece | table | sort=10 }}
+| {{Avail Summary | season | spirit=Nightbird Whisperer | season=Moments }}
+| {{Cost | ? }}
+| No
+|- id="Moments Ultimate Hair Accessory"
+| style="text-align: center;" |{{Spirit Item| Moments Guide | hairpiece_u_real | table | link=Moments Guide#Moments Ultimate Hair Accessory | sort=11 }}
+| {{Spirit Item| Moments Guide | hairpiece_u | table | link=Moments Guide#Moments Ultimate Hair Accessory | sort=11 }}
+| {{Avail Summary | ultimate | season=Moments }}
+| {{Cost | N/A }}
+| Yes
+|- id="Echo of an Abandoned Refuge"
+| style="text-align: center;"| {{Spirit Item| Echo of an Abandoned Refuge | hairpiece_real | table }}
+| {{Spirit Item| Echo of an Abandoned Refuge | hairpiece | table | sort=12 }} 
+| {{Avail Summary | season | spirit=Echo of an Abandoned Refuge | season=Revival }}
+| {{Cost | ? }}
+| No
+|- id="Remnant of a Forgotten Haven"
+| style="text-align: center;"| {{Spirit Item| Remnant of a Forgotten Haven | hairpiece_real | table }}
+| {{Spirit Item| Remnant of a Forgotten Haven | hairpiece | table | sort=13 }} 
+| {{Avail Summary | season | spirit=Remnant of a Forgotten Haven | season=Revival }}
+| {{Cost | ? }}
+| Yes
+|- id="Spirit of Mural Hair Accessory"
+| style="text-align: center;"| {{Spirit Item| Spirit of Mural | hairpiece_real | table | label=Spirit of Mural Hair Accessory }}
+| {{Spirit Item| Spirit of Mural | hairpiece | table | label=Spirit of Mural Hair Accessory | sort=14 }}
+| {{Avail Summary | guide | season=Nine-Colored Deer }}
+| {{Cost | 50 C }}
+| No
+|- id="Feudal Lord"
+| style="text-align: center;"| {{Spirit Item| Feudal Lord | hairpiece_real | table }}
+| {{Spirit Item| Feudal Lord | hairpiece | table | sort=15 }} 
+| {{Avail Summary | season | spirit=Feudal Lord | season=Nine-Colored Deer }}
+| {{Cost | ? }}
+| No
+|- id="Nesting Nook"
+| style="text-align: center;" |{{Spirit Item| Nesting Nook | hairpiece_real | table | sort=16 }}
+| {{Spirit Item| Nesting Nook | hairpiece | table | sort=16  }}
+| {{Avail Summary | season | spirit=Nesting Nook | season=Nesting }}
+| {{Cost | ? }}
+| Yes
+|- id="Moomintroll Ears"
+| style="text-align: center;" |{{Spirit Item| Moomin Guide | hairpiece_m_real | table | link=Season of Moomin#Moomintroll Ears | sort=17 }}
+| {{Spirit Item| Moomin Guide | hairpiece_m | table | link=Season of Moomin#Moomintroll Ears | sort=17  }}
+| {{Avail Summary | limited | season=Moomin }}
+| {{Cost | 11.99 USD }}<ref name="Moomintroll_Accessory_Pack">The $11.99 cost of the Moomintroll Accessory Set includes 2 cosmetics (a Hair Accessory and a Neck Accessory).</ref>
+| No
+|- id="Pointed Snufkin Hat"
+| style="text-align: center;" |{{Spirit Item| Moomin Guide | hairpiece_s_real | table | link=Season of Moomin#Pointed Snufkin Hat | sort=18 }}
+| {{Spirit Item| Moomin Guide | hairpiece_s | table | link=Season of Moomin#Pointed Snufkin Hat | sort=18  }}
+| {{Avail Summary | limited | season=Moomin }}
+| {{Cost | 4.99 USD }}
+| No
+|- id="Sense of Self"
+| style="text-align: center;" |{{Spirit Item| Sense of Self | hairpiece_real | table | sort=19 }}
+| {{Spirit Item| Sense of Self | hairpiece | table | sort=19  }}
+| {{Avail Summary | season | spirit=Sense of Self | season=Moomin }}
+| {{Cost | ? }}
+| No
+|- id="Inspiration of Inclusion"
+| style="text-align: center;" |{{Spirit Item| Inspiration of Inclusion | hairpiece_real | table | sort=20 }}
+| {{Spirit Item| Inspiration of Inclusion | hairpiece | table | sort=20  }}
+| {{Avail Summary | season | spirit=Inspiration of Inclusion | season=Moomin }}
+| {{Cost | ? }}
+| No
+|- id="Radiance Greeting Shaman"
+| style="text-align: center;" |{{Spirit Item| Radiance Greeting Shaman | Hairpiece_real | table | sort=21 }}
+| {{Spirit Item| Radiance Greeting Shaman | Hairpiece | table | sort=21  }}
+| {{Avail Summary | season | spirit=Radiance Greeting Shaman | season=Radiance }}
+| {{Cost | ? }}
+| Yes
+|- id="Costumed confetti Cousin"
+| style="text-align: center;" |{{Spirit Item| Costumed confetti Cousin | Hairpiece_real | table | sort=21 }}
+| {{Spirit Item| Costumed confetti Cousin | Hairpiece | table | sort=21  }}
+| {{Avail Summary | season | spirit=Costumed confetti Cousin | season=Blue Bird }}
+| {{Cost | ? }}
+| No
+|- id="Nostalgic Sparkler Parent"
+| style="text-align: center;" |{{Spirit Item| Nostalgic Sparkler Parent | Hairpiece_real | table | sort=21 }}
+| {{Spirit Item| Nostalgic Sparkler Parent | Hairpiece | table | sort=21  }}
+| {{Avail Summary | season | spirit=Nostalgic Sparkler Parent | season=Blue Bird }}
+| {{Cost | ? }}
+| No
+|- id="Butterfly Blossom Memento"
+| style="text-align: center;" |{{Spirit Item| Vault Elder's Lantern | hairpiece_b_real | table | link=Season_of_The_Two_Embers_-_Part_1#Butterfly_Blossom_Memento | sort=5 }}
+| {{Spirit Item| Vault Elder's Lantern | hairpiece_b | table | link=Season_of_The_Two_Embers_-_Part_1#Butterfly_Blossom_Memento | sort=5 }}
+| {{Avail Summary | limited | season=Two Embers - part 1 }}
+| {{Cost | 2.99 USD }}
+| No
+|- id="Two Embers - part 1 Ultimate Headpiece"
+| style="text-align: center;" |{{Spirit Item| Vault Elder's Lantern | hairpiece_u_real | table | link=Vault_Elder%27s_Lantern#Two_Embers_Part_1_Ultimate_Hair_Accessory | sort=5 }}
+| {{Spirit Item| Vault Elder's Lantern | hairpiece_u | table | link=Vault_Elder%27s_Lantern#Two_Embers_Part_1_Ultimate_Hair_Accessory | sort=5 }}
+| {{Avail Summary | ultimate | season=Two Embers - part 1 }}
+| {{Cost | N/A }}
+| No
+|- id="Mini manatee Accessory"
+| style="text-align: center;" |{{Spirit Item| Vault Elder's Lantern | hairpiece_m_real | table | link=Season_of_The_Two_Embers_-_Part_1#Mini_Manatee_Accessory | sort=5 }}
+| {{Spirit Item| Vault Elder's Lantern | hairpiece_m | table | link=Season_of_The_Two_Embers_-_Part_1#Mini_Manatee_Accessory | sort=5 }}
+| {{Avail Summary | limited | season=Two Embers - part 1 }}
+| {{Cost | 3.99 USD }}
+| No
+|- id="Days of Fortune Orange"
+| style="text-align: center;" |{{Days Item| Fortune Orange | real | table | sort=201 }}
+| {{Days Item| Fortune Orange | icon | table | sort=201 }}
+| {{Avail Summary | days | days=Fortune }}
+| {{Cost| 0.99 USD }}
+| No
+|- id="Days of Fortune Fish Accessory"
+| style="text-align: center;" |{{Days Item| Fortune Fish | real | table | sort=202 }}
+| {{Days Item| Fortune Fish | icon | table | sort=202 }}
+| {{Avail Summary | days | days=Fortune }}
+| {{Cost| 1.99 USD }}
+| Yes
+|- id="Days of Love Flower Crown"
+| style="text-align: center;" |{{Days Item| Love Flower Crown | real | table | sort=210 }}
+| {{Days Item| Love Flower Crown | icon | table | sort=210 | link=Days of Love#Days of Love Flower Crown | label=Days of Love Flower Crown}}
+| {{Avail Summary | days | days=Love }}
+| {{Cost| 15 H }}
+| Yes
+|- id="Love Heart Beret"
+| style="text-align: center;"| {{Days Item| Love Heart Beret | real | table | sort=302 }}
+| {{Days Item| Love Heart Beret | icon | table | sort=211 }}
+| {{Avail Summary | days | days=Love }}
+| {{Cost| 45 C }}
+| No
+|- id="Days of Nature Coral"
+| style="text-align: center;" |{{Days Item| Coral Crown | real | table | sort=220 }}
+| {{Days Item| Coral Crown | icon | table | sort=220 }}
+| {{Avail Summary | days | days=Nature }}
+| {{Cost| 20 H }}
+| No
+|- id="Rainbow Pack"
+| style="text-align: center;" |{{Days Item| Rainbow Hair Flower | real | link=Days_of_Color/2021#Rainbow_Pack | table | sort=230}}
+| {{Days Item| Rainbow Hair Flower | icon | table | sort=230 | link=Days_of_Color/2021#Rainbow_Pack }}
+| {{Avail Summary | days | days=Rainbow }}
+| {{Cost| 19.99 USD }}
+| No
+|- id="Double Rainbow Flower"
+| style="text-align: center;" |{{Days Item| Double Rainbow Flower | real | link=Days_of_Color/2022#Double_Rainbow_Pack | table | sort=231 }}
+| {{Days Item| Double Rainbow Flower | icon | table | sort=231 | link=Days_of_Color/2022#Double_Rainbow_Pack }}
+| {{Avail Summary | days | days=Rainbow }}
+| {{Cost| 9.99 USD }}
+| No
+|- id="First Anniversary Hat"
+| style="text-align: center;" |{{Days Item| 1st Anniversary Hat | real | table | sort=250 | link=Sky_Anniversary/2020#1_Year_Anniversary_Hat }}
+| {{Days Item| 1st Anniversary Hat | icon | table | sort=250 | link=Sky_Anniversary/2020#1_Year_Anniversary_Hat }}
+| {{Avail Summary | limited | days=Sky | limited=Sky Anniversary 2020}}
+| {{Cost| N/A }}
+| No
+|- id="Second Anniversary Hat"
+| style="text-align: center;" |{{Days Item| 2nd Anniversary Hat | real | table | sort=251 | link=Sky_Anniversary/2021#2nd_Birthday_Hat }}
+| {{Days Item| 2nd Anniversary Hat | icon | table | sort=251 | link=Sky_Anniversary/2021#2nd_Birthday_Hat }}
+| {{Avail Summary | limited | days=Sky | limited=Sky Anniversary 2021}}
+| {{Cost| N/A }}
+| No
+|- id="Third Anniversary Hat"
+| style="text-align: center;" |{{Days Item | 3rd Anniversary Hat | real | table | sort=253 | link=Sky_Anniversary/2022#3rd_Birthday_Hat }}
+| {{Days Item | 3rd Anniversary Hat | icon  | table | sort=253 | link=Sky_Anniversary/2022#3rd_Birthday_Hat }}
+| {{Avail Summary | limited | days=Sky | limited=Sky Anniversary 2022}}
+| {{Cost| N/A }}
+| No
+|- id="Fourth Anniversary Hat"
+| style="text-align: center;" |{{Days Item | 4th Anniversary Hat | real | table | sort=254 | link=Sky_Anniversary/2023#4th_Anniversary_Hat }}
+| {{Days Item | 4th Anniversary Hat | icon | table | sort=254 | link=Sky_Anniversary/2023#4th_Anniversary_Hat }}
+| {{Avail Summary | limited | days=Sky | limited=Sky Anniversary 2023}}
+| {{Cost| N/A }}
+| No
+|- id="SkyFest Fifth Anniversary Headband"
+| style="text-align: center;" |{{Days Item | 5th Anniversary Headband | real | table | sort=255 | link=Sky_Anniversary/2024#5th_Anniversary_Headband }}
+| {{Days Item | 5th Anniversary Headband | icon | table | sort=255 | link=Sky_Anniversary/2024#5th_Anniversary_Headband }}
+| {{Avail Summary | limited | days=Sky | limited=Sky Anniversary 2024}}
+| {{Cost| N/A }}
+| No
+|- id="6th Anniversary Hat"
+| style="text-align: center;" |{{Days Item | 6th Anniversary Hat | real | table | sort=255 }}
+| {{Days Item | 6th Anniversary Hat | icon | table | sort=255 }}
+| {{Avail Summary | limited | days=Sky | limited=Sky Anniversary 2025}}
+| {{Cost| N/A }}
+| No
+|- id="Wonderland Primrose Pinafore Bow"
+| style="text-align: center;" |{{Days Item | Wonderland Primrose Pinafore Bow | real | table | sort=255 | link=Days_of_Feast#Wonderland_Primrose_Pinafore_Set }}
+| {{Days Item | Wonderland Primrose Pinafore Bow | icon | table | sort=255 | link=Days_of_Feast#Wonderland_Primrose_Pinafore_Set }}
+| {{Avail Summary | l | days=Feast}}
+| {{Cost| 11.99 USD | event=Feast }}<ref name="Wonderland_Primrose_Pinafore_Set">The $11.99 cost of the Wonderland Primrose Pinafore Set includes 2 cosmetics (an Outfit and Hair Accessory).</ref>
+| No
+|- id="Wonderland Stacked Hat"
+| style="text-align: center;" |{{Days Item | Wonderland Stacked Hat | real | table | sort=255 }}
+| {{Days Item | Wonderland Stacked Hat | icon | table | sort=255 }}
+| {{Avail Summary | l | days=Feast}}
+| {{Cost| N/A }}
+| No
+|- id="SkyFest Oreo Headband"
+| style="text-align: center;" |{{Days Item | Oreo Headband | real | table | sort=256 | link=Sky_Anniversary/2024#SkyFest_Oreo_Headband }}
+| {{Days Item | Oreo Headband | icon | table | sort=256 | link=Sky_Anniversary/2024#SkyFest_Oreo_Headband }}
+| {{Avail Summary | days | days=Sky }}
+| {{Cost| 4.99 USD }}
+| No
+|- id="Tournament Golden Garland"
+| style="text-align: center;" |{{Days Item | Golden Garland | real | table | sort=257 }}
+| {{Days Item | Golden Garland | icon | table | sort=257 }}
+| {{Avail Summary | days | days=Tournament }}
+| {{Cost| 4.99 USD }}
+| No
+|- id="Moonlight Blossom Accessory"
+| style="text-align: center;" |{{Days Item | Moonlight Blossom Accessory | real | table | sort=258 }}
+| {{Days Item | Moonlight Blossom Accessory | icon | table | sort=258 }}
+| {{Avail Summary | days | days=Moonlight }}
+| {{Cost| 35 C }}
+| No
+|- id="Style Top Hat"
+| style="text-align: center;"| {{Days Item| Style Top Hat | real | table | sort=280 }}
+| {{Days Item| Style Top Hat | icon | table | sort=280 }}
+| {{Avail Summary | days | days=Style }}
+| {{Cost| 12 AC }}
+| Yes
+|- id="Style Darkness Fascinator"
+| style="text-align: center;" |{{Days Item | Style Fascinator | real | table | sort=281 }}
+| {{Days Item | Style Fascinator | icon | table | sort=281 }}
+| {{Avail Summary | days | days=Style }}
+| {{Cost| ? }}
+| Yes
+|- id="Mischief Crabkin Accessory"
+| style="text-align: center;"| {{Days Item| Mischief Crabkin Accessory | real | table | sort=290 }}
+| {{Days Item| Mischief Crabkin Accessory | icon | table | sort=290 }}
+| {{Avail Summary | days | days=Mischief }}
+| {{Cost| 36 C}}
+| No
+|- id="Snowflake Hair Accessory"
+| style="text-align: center;" |{{Days Item| Snowflake Hairpin | real | table | sort=301 }}
+| {{Days Item| Snowflake Hairpin | icon | table | sort=301 }}
+| {{Avail Summary | days | days=Feast }}
+| {{Cost| 1.99 USD }}
+| No
+|- id="Winter Pinecone Hair Clip"
+| style="text-align: center;"| {{Days Item| Winter Pinecone Hair Clip | real | table | sort=302 }}
+| {{Days Item| Winter Pinecone Hair Clip | icon | table | sort=302 }}
+| {{Avail Summary | days | days=Feast }}
+| {{Cost| 35 C }}
+| No
+|- id="Days of Summer Shell Hair Pin"
+| style="text-align: center;" |{{Days Item| Seashell Hairpin | real | table | sort=271 }}
+| {{Days Item| Seashell Hairpin | icon | table | sort=271 }}
+| {{Avail Summary | days | days=Sunlight }}
+| {{Cost| 0.99 USD }}
+| No
+|- id="Days of Summer Hat"
+| style="text-align: center;" |{{Days Item| Summer Hat | real | table | sort=270 }}
+| {{Days Item| Summer Hat | icon | table | sort=270 }}
+| {{Avail Summary | days | days=Sunlight }}
+| {{Cost| 44 C }}
+| Yes
+|- id="Bunny Accessory"
+| style="text-align: center;" |{{Days Item| Bunny Accessory | real | table | sort=272 }}
+| {{Days Item| Bunny Accessory | icon | table | sort=272 }}
+| {{Avail Summary | days | days=Moonlight }}
+| {{Cost| 2.99 USD }}
+| No
+|- id="Harmony Hall Hairpin"
+| style="text-align: center;" |{{Icon| SOPerformance-hair-accessory.png | table | sort=240 | label=Harmony Hall Hairpin | link=Harmony Hall#Musical Hairpin}}
+|{{Icon| SOPerformance-hair-accessory-icon-Morybel-0146.png | table | sort=240 | label=Harmony Hall Hairpin | link=Harmony Hall#Musical Hairpin}}
+| {{Avail Summary | days| days=Music }}
+| {{Cost | 50 C }}
+| No
+|- id="Amethyst Accessory"
+| style="text-align: center;"| {{Days Item| Amethyst Accessory | real | table}}
+| {{Days Item| Amethyst Accessory | icon | table}}
+| {{Avail Summary | days | days=Love }}
+| {{Cost| 2.99 USD | event=Love}}
+| No
+|- id="Cinnamoroll Ears"
+| style="text-align: center;"| {{Days Item| Cinnamoroll Ears | real | table | sort=102 }}
+| {{Days Item| Cinnamoroll Ears | icon | table | sort=102 }}
+| {{Avail Summary | limited | days=Cinnamoroll }}
+| {{Cost| 14.99 USD }}<ref name="Cinnamoroll Cafe Combo">The $14.99 cost of the Cinnamoroll Pop-Up Cafe Combo includes 2 cosmetics (a Hair and a Hair Accessory).</ref>
+| No
+|- id="Cozy Teacup Headband"
+| style="text-align: center;"| {{Days Item| Cozy Teacup Headband | real | table | sort=103 }}
+| {{Days Item| Cozy Teacup Headband | icon | table | sort=103 }}
+| {{Avail Summary | limited | days=Cinnamoroll }}
+| {{Cost| N/A }}
+| No
+|- id="Cinnamoroll Pop-Up Cafe Mini Companion'
+| style="text-align: center;"| {{Days Item| Cinnamoroll Mini Companion | real | table | sort=104 }}
+| {{Days Item| Cinnamoroll Mini Companion | icon | table | sort=104 }}
+| {{Avail Summary | limited | days=Cinnamoroll }}
+| {{Cost| 6.99 USD }}
+| No
+|- id="Days of Healing Poppy"
+| style="text-align: center;" |{{Icon| Days_of_heeling_poppy_headpiece_v2.png | link=Days of Healing#Healing Pack | label=Days of Healing Poppy | table | sort=16 }}
+| {{Icon| Icon_hair_event_healing_poppy.png | table | sort=100 | link=Days of Healing#Healing Pack | label=Days of Healing Poppy }}
+| {{Avail Summary | limited | limited=Days of Healing | source={{Icon|Icon_shop.png|table|link=Days of Healing}} }}
+| {{Cost| 19.99 USD }}
+| No
+|- id="Kizuna AI Pack"
+| style="text-align: center;" |{{Icon| Kizuna-AI-Hair-accessory.png | link=Kizuna_AI#Kizuna_AI_Pack | table | sort=100 }}
+|{{Icon| Kizuna-AI-Hair-Accessory-Icon.png | table | sort=101 | link=Kizuna_AI#Kizuna_AI_Pack }}
+| {{Avail Summary | limited | limited=Kizuna AI | source={{Icon|Kizuna-AI-Hair-Accessory-Icon.png|table|label=Kizuna AI Pack}}}}
+|{{Cost| 19.99 USD }}<ref name="kizuna_ai">The $19.99 cost of the Kizuna AI Pack includes 3 cosmetics (a Cape, a Hairstyle, and a Hair Accessory).</ref>
+| No
+|- id="Moth Antennae"
+| style="text-align: center;"| {{Days Item| Moth Antennae | real | table | sort=300 }}
+| {{Days Item| Moth Antennae | icon | table | sort=300 }}
+| {{Avail Summary | permanent | days=fireworks }}
+| {{Cost| 9.99 USD }}<ref name="Moth Pack">The $9.99 cost of the Moth Pack includes 2 cosmetics (a Cape and a Hair Accessory).</ref>
+| No
+|- id="Days of Summer Hat"
+| style="text-align: center;" |{{Days Item| Jelly Hat | real | table | sort=270 | link=Days_of_Sunlight#Sunlight_Bonnet_Bundle }}
+| {{Days Item| Jelly Hat | icon | table | sort=270 | link=Days_of_Sunlight#Sunlight_Bonnet_Bundle }}
+| {{Avail Summary | days | days=Sunlight }}
+| {{Cost| 14.99 USD }}<ref name="Sunlight_Bonnet_Bundle">The $14.99 cost of the Sunlight Bonnet Bundle includes 2 cosmetics (an Outfit and Hair Accessory).</ref>
+| No
+|}
+
+{{Avail Legend
+| p
+| g
+| s+
+| u+
+| t*
+| r*
+| d*
+| l*
+| days
+| season
+| ultimate
+| limited
+}}
+
+==References==
+<references />
+
+[[fr:Accessoires de Cheveux]]
+[[de:Haarschmuck]]
+[[pt-br:Acessórios de Cabelo]]
+[[ja:ヘアアクセサリー]]
+
+[[Category:Cosmetics]]

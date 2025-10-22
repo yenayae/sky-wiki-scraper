@@ -1,0 +1,33 @@
+<section begin="Summary" />Shared Memories are a type of spell that will allow players to show a glimpse of their past for others to see. Activating the spell records an avatar’s movement for a brief period of time. Then, once the recording is finished, a special crystal appears in the world representing this memory. Friends and other players who find it can tap on it to replay this visual message. Shared Memories were added as a part of [[Season of Performance]] in the [[Update:Live 0.17.0 (187527)|0.17.0]] update. After the [[Version History#0.20.5%20-%20February%2023%2C%202023|0.20.5]] update (February 23, 2023), the appearance of Shared Memory "candles" was updated to more closely resemble crystals to better match lore within Sky. The total number of visible Shared Memory spells placed by others in an area has also been reduced.
+<gallery captionalign="center">
+File:Shared-memory-spell-Morybel-0146.png|Shared Memory Spell Icon in Inventory
+File:Shared Memory Crystal.png|Shared Memory Crystal
+File:Player Viewing a Shared memory.png|Player Viewing a Shared Memory
+</gallery><section end="Summary" />
+
+Similar to the [[Shared Spaces]], a Shared Memories shrine is a collection of Shared Memories at a set location that does not require a Shared Memory spell to use. 
+
+As of December 2023, there are three Shared Memory Shrines in Sky, one in [[Village Theater]] which was added as a part of [[Season of Performance]], another in [[Valley of Triumph#Coliseum|Coliseum]] added during [[Season of AURORA]] and the last one in [[Aviary Village]] which appears after completing the [[Season of Revival#Quest #3|third Quest]] from [[Season of Revival]]. 
+<gallery captionalign="center">
+File:Shared-Memory-Shrine-Village-Theater.png|Shared Memory Shrine in Village Theater next to the stage
+File:Shared-Memory-Shrine-Coliseum.png|Shared Memory Shrine in Coliseum next to the entrance of the Sound bath
+File:Shared-Memory-Shrine-Aviary-Village.png|Shared Memory Shrine in Aviary Village on the left of the village plaza area
+</gallery>
+
+<section begin="Shared Memories" />Like Message Candles and Message Boats, Shared Memory candles remain in an area for 6 days<ref>https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/faq/521-what-are-message-shrines-message-candles-message-boats-shared-spaces-candles-and-shared-memories/</ref>. Other players who view them can tap the thumbs up icon when viewing a Shared Memory to “like” it, once liked, players can send the creator a heart for three candles {{Cost|C}} every day, even if they aren't friends.
+
+Shared Memory candles remain in an area for 7 days.
+
+A recording can be as simple as waving hello to leave a greeting for a friend who’s offline, or be an excerpt of a favorite tune played to encourage fellow travelers—or perhaps something else entirely different that you dream up. We hope that Shared Memories will be a way to capture new moments of delight and imagination!
+
+Shared Memory candles can be acquired through the '''[[Performance Guide]]''' or the Spell Shop in the Forgotten Ark area of Golden Wasteland and the Sleepy Traveling boat.
+
+Shared memories need to be placed on dry land and players should take care to not stand too close to things like Candle locations, meditation circles, or Spirits.<section end="Shared Memories" />
+==References==
+<references />
+
+[[pt-br:Memórias Compartilhadas]]
+[[ja:シェアメモリーズ]]
+[[fr:Souvenirs Partagés]]
+
+[[Category:Social Features]]

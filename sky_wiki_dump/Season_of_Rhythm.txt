@@ -1,0 +1,232 @@
+{{Season
+|image=RhythmTeaser.jpeg
+|start=January 24, 2020
+|end=April 5, 2020
+|spirits=6
+|previousSeason=[[Season of Belonging]]
+|nextSeason=[[Season of Enchantment]]
+|constellation = <gallery>
+Season-of-Rhythm-Constellation.png|Vector
+constellation-rhythm.jpg|Screenshot
+</gallery>
+|symbol=4_Rhythm.png}}
+The '''Season of Rhythm''' began Friday, January 24, 2020 and ended on Sunday, April 5, 2020, lasting 72 days. It was the fourth seasonal event in Sky since the game's global release.
+
+This season brought revamped Spirits and Cosmetics from the [[Winter 2018]] season that appeared in Pre-Release versions of the game, as well as some new collectibles. [[Home]] was given a snowy makeover with an ice rink and [[Traveling Spirits]] were introduced to the game.
+
+The Season of Rhythm followed the [[Season of Belonging]], and preceded the [[Season of Enchantment]].<br>
+<br>
+{{#ev:youtube|rLUeitoojIc||inline|Season of Rhythm Trailer}}
+
+==Welcome==
+<center class="title-text-welcome">[https://thatgamecompany.helpshift.com/a/sky-children-of-the-light/?l=en&s=patch-notes&f=patch-notes---january-22-2020---0-8-0-145484 Welcome to the Season of Rhythm!]</center>
+
+This winter-themed season follows a troupe of traveling performers who have been scattered across the kingdoms of Sky and need your help to get the show started. Which of the spirits will you befriend first?<br>
+<br>
+<gallery widths="238px" orientation="none" spacing="small" hideaddbutton="true" mode="nolines">
+Rhythm AP.PNG|Adventure Pass page for the Season of Rhythm
+</gallery>
+
+==Spirits and Cosmetics==
+All of the Season of Rhythm Spirits can be found scattered around the 6 realms of Sky. There were 6 Expressions to gather from 6 spirits.
+{{#tag:gallery
+|{{Icon Name|Troupe Greeter|emote}} {{!}} {{Icon Name|Troupe Greeter|emote_name}}
+{{Icon Name|Festival Spin Dancer|emote}} {{!}} {{Icon Name|Festival Spin Dancer|emote_name}}
+{{Icon Name|Admiring Actor|emote}} {{!}} {{Icon Name|Admiring Actor|emote_name}}
+{{Icon Name|Troupe Juggler|emote}} {{!}} {{Icon Name|Troupe Juggler|emote_name}}
+{{Icon Name|Respectful Pianist|emote}} {{!}} {{Icon Name|Respectful Pianist|emote_name}}
+{{Icon Name|Thoughtful Director|emote}} {{!}} {{Icon Name|Thoughtful Director|emote_name}}
+|widths=65|heights=100|spacing=small|captionalign=center|mode=nolines}}
+
+===All Rhythm Friendship Trees===
+{{Mobile Tabber
+|tab1 = {{Season Icon|Rhythm|tab}}
+|c1   = {{#lst:Rhythm Guide|Friendship Tree}}
+|tab2 = {{Emote|Troupe Greeter|tab}}
+|c2   = {{#lst:Troupe Greeter|Season Friendship Tree}}
+|tab3 = {{Emote|Festival Spin Dancer|tab}}
+|c3   = {{#lst:Festival Spin Dancer|Season Friendship Tree}}
+|tab4 = {{Emote|Admiring Actor|tab}}
+|c4   = {{#lst:Admiring Actor|Season Friendship Tree}}
+|tab5 = {{Emote|Troupe Juggler|tab}}
+|c5   = {{#lst:Troupe Juggler|Season Friendship Tree}}
+|tab6 = {{Emote|Respectful Pianist|tab}}
+|c6   = {{#lst:Respectful Pianist|Season Friendship Tree}}
+|tab7 = {{Emote|Thoughtful Director|tab}}
+|c7   = {{#lst:Thoughtful Director|Season Friendship Tree}}
+}}
+===[[Troupe Greeter]]===
+{{#lst:Troupe Greeter|Summary}}<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Troupe Greeter|mask|real}} {{!}} Mask
+{{Icon Name|Troupe Greeter|outfit|real}} {{!}} Outfit
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===[[Festival Spin Dancer]]===
+{{#lst:Festival Spin Dancer|Summary}}<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Festival Spin Dancer|hair|real}} {{!}} Hair
+{{Icon Name|Festival Spin Dancer|outfit|real}} {{!}} Outfit
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===[[Admiring Actor]]===
+{{#lst:Admiring Actor|Summary}}<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Admiring Actor|mask|real}} {{!}} Mask
+{{Icon Name|Admiring Actor|outfit|real}} {{!}} Outfit
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===[[Troupe Juggler]]===
+{{#lst:Troupe Juggler|Summary}}<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Troupe Juggler|hair|real}} {{!}} Hair
+{{Icon Name|Troupe Juggler|cape|real}} {{!}} Cape
+{{Icon Name|Troupe Juggler|outfit|real}} {{!}} Outfit
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===[[Respectful Pianist]]===
+{{#lst:Respectful Pianist|Summary}}<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Respectful Pianist|mask|real}} {{!}} Mask
+{{Icon Name|Respectful Pianist|hair|real}} {{!}} Hair
+{{Icon Name|Respectful Pianist|instrument|real}} {{!}} {{Icon Name|Respectful Pianist|inst_name}}
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===[[Thoughtful Director]]===
+{{#lst:Thoughtful Director|Summary}}<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Thoughtful Director|mask|real}} {{!}} Mask
+{{Icon Name|Thoughtful Director|cape|real}} {{!}} Cape
+{{Icon Name|Thoughtful Director|instrument|real}} {{!}} {{Icon Name|Thoughtful Director|inst_name}}
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===[[Rhythm Guide]]===
+{{#lst:Rhythm Guide|Summary}}<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Rhythm Guide|necklace_u|real}} {{!}} Rhythm Ultimate Pendant
+{{Icon Name|Rhythm Guide|mask_u|real}} {{!}} Rhythm Ultimate Mask
+{{Icon Name|Rhythm Guide|hair_u|real}} {{!}} Rhythm Ultimate Hair
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+==Price Chart==
+{| class="article-table"
+! Spirits
+! colspan="5" | Candle Cost
+! Total Seasonal Candles
+|-
+|[[Troupe Greeter]]
+|{{#vardefineecho:A1| 8 }}
+|{{#vardefineecho:A2| 10 }}
+|{{#vardefineecho:A3| 12 }}
+|{{#vardefineecho:A4|  }}
+|3*
+|{{Cost| {{#vardefineecho:Asum| {{#expr: {{#var:A1}} + {{#var:A2}} + {{#var:A3}} + {{#var:A4}} + 3 }} }} SC|season=Rhythm}}
+|-
+|[[Festival Spin Dancer]]
+|{{#vardefineecho:B1| 10 }}
+|{{#vardefineecho:B2| 12 }}
+|{{#vardefineecho:B3| 14 }}
+|{{#vardefineecho:B4|  }}
+|3*
+|{{Cost| {{#vardefineecho:Bsum| {{#expr: {{#var:B1}} + {{#var:B2}} + {{#var:B3}} + {{#var:B4}} + 3 }} }} SC|season=Rhythm}}
+|-
+|[[Admiring Actor]]
+|{{#vardefineecho:C1| 12 }}
+|{{#vardefineecho:C2| 14 }}
+|{{#vardefineecho:C3| 16 }}
+|{{#vardefineecho:C4|  }}
+|3*
+|{{Cost| {{#vardefineecho:Csum| {{#expr: {{#var:C1}} + {{#var:C2}} + {{#var:C3}} + {{#var:C4}} + 3 }} }} SC|season=Rhythm}}
+|-
+|[[Troupe Juggler]]
+|{{#vardefineecho:D1| 12 }}
+|{{#vardefineecho:D2| 14 }}
+|{{#vardefineecho:D3| 16 }}
+|{{#vardefineecho:D4| 18 }}
+|3*
+|{{Cost| {{#vardefineecho:Dsum| {{#expr: {{#var:D1}} + {{#var:D2}} + {{#var:D3}} + {{#var:D4}} + 3 }} }} SC|season=Rhythm}}
+|-
+|[[Respectful Pianist]]
+|{{#vardefineecho:E1| 14 }}
+|{{#vardefineecho:E2| 16 }}
+|{{#vardefineecho:E3| 18 }}
+|{{#vardefineecho:E4| 20 }}
+|3*
+|{{Cost| {{#vardefineecho:Esum| {{#expr: {{#var:E1}} + {{#var:E2}} + {{#var:E3}} + {{#var:E4}} + 3 }} }} SC|season=Rhythm}}
+|-
+|[[Thoughtful Director]]
+|{{#vardefineecho:F1| 16 }}
+|{{#vardefineecho:F2| 18 }}
+|{{#vardefineecho:F3| 20 }}
+|{{#vardefineecho:F4| 22 }}
+|3*
+|{{Cost| {{#vardefineecho:Fsum| {{#expr: {{#var:F1}} + {{#var:F2}} + {{#var:F3}} + {{#var:F4}} + 3 }} }} SC|season=Rhythm}}
+|-
+! colspan="6" | Total for Season
+! {{Cost| {{#expr: {{#var:Asum}} + {{#var:Bsum}} + {{#var:Csum}} + {{#var:Dsum}} + {{#var:Esum}} + {{#var:Fsum}} }} SC|season=Rhythm}}
+|}
+<small>''* Only available with [[Season Pass]] (Seasonal Hearts) (subtract when calculating without)''</small>
+
+We had 75 days to complete (season ending April 5). It took at least 55 days at 6 candles collected per day (not including any bonus seasonal candles with adventure pass OR seasonal candles purchased separately).
+
+Without the pass, it required 312 seasonal candles in total, and took at least 63 days at 5 candles collected per day.<br>
+<br>
+[[File:Tea11 season of rhythm costs.jpg|none|thumb|590x590px| Chart posted with permission. Please do not redistribute without permission from @sky_Tea11 on Twitter.]]
+
+==Trivia== 
+*The promotional artwork for the Season of Rhythm is an altered version of the one for the [[Winter 2018]] Season. The additions include the duck mask on the [[Respectful Pianist]] and the Ultimate Gift hair on the [[Thoughtful Director]]. The [[Troupe Juggler]] and [[Festival Spin Dancer]]'s masks also feature the outdated chevron-shaped marks compared the triangular ones that were used in Live version of the Season of Rhythm.
+*The Guide in [[Sky Beta|Beta]] was different from the Live version. The Guide in Beta had the [[Ushering Stargazer]] Spirit body model, wore a mask similar to the [[Doublefive Light Catcher]] from the [[Season of Lightseekers]] with chevron-shaped marks, had the [[Hide'n'Seek Pioneer]] hair, and carried the Winter Piano.<ref>As seen in  Tara's Season of Rhythm Beta video: https://youtu.be/7-hqBLGesS0&t=301</ref>
+
+==Video Gallery==
+<gallery>
+Sky Children of the Light BETA NEW SEASON! All Spirits and Other Updates
+Sky- Just the Spirits (excerpts from Livestream)|Just the Spirits (excerpts from the Livestream)
+Season of Rhythm (Beta) and Winter 2018 (Beta) End Scenes - Sky Children of the Light
+Season of Rhythm - Highlights from Photo Shoot in Beta - Sky Children of the Light
+</gallery>
+
+==Image Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Rhythm beta group winter.jpeg
+Rhythm beta group welcome 2.jpeg
+Rhythm beta group welcome.jpeg
+Rhythm beta group think.jpeg
+Rhythm beta group respect 2.jpeg
+Rhythm beta group respect.jpeg
+Rhythm beta group juggle.jpeg
+Rhythm beta group flying.jpeg
+Rhythm beta group dance.png
+Rhythm beta group blow kisses 2.jpeg
+Rhythm beta group blow kisses.jpeg
+Troupe Greeter Promo image (mid Season).png|Promo Image
+SoRhythm-Festival-Spin-Dancer-promo-image.png|Promo Image
+SoRhythm-Admiring-Actor-promo-image.png|Promo Image
+Troupe Juggler promo image (mid Season).png|Promo Image
+SoRhythm-Respectful-Pianist-promo-image.png|Promo Image
+Thoughtful-Director-mid-Season-promo-image.png|Promo Image
+SoRhythm-teaser-promo-image.png|Promo Image
+SoRhythm-skykid-promo-image.png|Promo Image
+SoRhythm-playing-music-promo-image.png|Promo Image
+Season-of-Rhythm-Goodbye-Promo-Art.png|Promo Art
+</gallery>
+
+==References == 
+<references /> 
+{{Seasonal Navbox}} 
+{{Navigation Box}}
+
+[[de:Saison des Rhythmus]]
+[[fr:Saison du Rythme]]
+[[pt-br:Temporada do Ritmo]]
+[[ru:Сезон ритма]]
+
+
+{{DEFAULTSORT:Rhythm, Season of}}
+[[ja:リズムが弾ける季節]]

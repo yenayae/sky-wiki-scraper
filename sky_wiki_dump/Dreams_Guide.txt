@@ -1,0 +1,147 @@
+{{Guide Infobox
+|image     = Dreams-Guide-Spirit.png
+|ultimates = {{Spirit Item||mask_u|link=#Dreams Ultimate Mask|infobox}}{{Spirit Item||cape_u|link=#Dreams Ultimate Cape|infobox}}
+|season    = Dreams
+|realm     = Valley of Triumph
+|location  = Village of Dreams
+}}
+<section begin="Summary" />The '''{{PAGENAME}}''' is a Seasonal Guide (also known as Quest Giver) from the [[Season of Dreams]] who offers quests and [[Dreams Guide#Ultimate Gifts|cosmetics]]. The Dreams Guide is found near the buildings on the right when entering the [[Village of Dreams]] through the gate located at the [[Valley of Triumph#Coliseum|Coliseum]]. The Ultimate Guide offered a {{Spirit Item||necklace_u|link=#Dreams Ultimate Pendant|inline_text}}, a {{Spirit Item||mask_u|link=#Dreams Ultimate Mask|inline_text}}, and a {{Spirit Item||cape_u|link=#Dreams Ultimate Cape|inline_text}} for [[Season Pass]] holders.<section end="Summary" />
+
+==<span id="Ultimate Pendant"><span id="Dreams Ultimate Pendant">Seasonal Pendant</span></span>==
+The Dreams Ultimate [[Necklace|Pendant]] is the usual gold pendant featuring the Season's emblem attached to a necklace. It was a [[Season Pass]] exclusive item during the Season, available for free from the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||necklace_u}} {{!}} Dreams Ultimate Pendant icon
+Dreams pendant v2.png {{!}} Dreams Ultimate Pendant
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Ultimate Gifts==
+The Season of Dreams Guide offered 2 Ultimate Gifts, available to be purchased by [[Season Pass]] holders with [[Currency#Season Hearts|Seasonal Hearts]] during the Season of Dreams only.
+
+===Dreams Ultimate Mask===
+The Dreams Ultimate [[Mask]] is a black phoenix-inspired mask with red and yellow accents. It was a [[Season Pass]] exclusive item during the Season, available for {{Cost|2 SH|season=Dreams}} after unlocking the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||mask_u}} {{!}} Dreams Ultimate Mask icon
+Dreams mask ultimate v2.png {{!}} Dreams Ultimate Mask 
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Dreams Ultimate Cape===
+The Dreams Ultimate Cape is a black and red cape with yellow edges, overall resembling the look of a plumage. It was a [[Season Pass]] exclusive item during the Season, available to be purchased for {{Cost|2 SH|season=Dreams}} after unlocking the Friendship Tree's second node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||cape_u|icon}} {{!}} Dreams Ultimate Cape icon
+{{Icon Name||cape_u_front}} {{!}} Dreams Ultimate Cape front
+{{Icon Name||cape_u_interior}} {{!}} Dreams Ultimate Cape interior
+{{Icon Name||cape_u_real}} {{!}} Dreams Ultimate Cape back
+{{Icon Name||cape_u_exterior}} {{!}} Dreams Ultimate Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Friendship Tree==
+The {{PAGENAME}} Friendship Tree was available on the right of the Quest Tree during the Season of Dreams only. Now that the Season is over, those cosmetics are no longer available.  
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Dreams Guide
+|image  = Dreams-Guide-Spirit.png
+|type   = season
+|season = Dreams
+
+|nodeC3 = cape_u 2 SH AP
+|  linkC3 = Dreams Guide#Dreams Ultimate Cape
+
+|nodeC2 = mask_u 2 SH AP
+|  linkC2 = Dreams Guide#Dreams Ultimate Mask
+
+|nodeC1 = necklace_u
+|  linkC1 = Dreams Guide#Dreams Ultimate Pendant
+}}<section end="Friendship Tree" />
+
+==Quest Tree==
+The {{PAGENAME}} Quest Tree is available for all players to complete quests from the Season of Dreams. During the Season of Dreams, the hearts awarded for completing each quest were free. Since the end of the Season, players completing the quests for the first time have to pay {{Candle|3}} to obtain these hearts. 
+<section begin="Quest Tree" />{{Mobile Tabber
+|tab1 = Post-season
+|c1   = {{Friendship Tree
+|spirit = Dreams Guide
+|image  = Dreams-Guide-Spirit.png
+
+|nodeC6 = Icon_hug.png
+|  linkC6 = Hug Action
+
+|nodeL5 = heart
+|  noteL5 = <ref name="quest_heart"/>
+|nodeC5 = quest
+|  linkC5 = Season of Dreams#Quest 5
+|  labelC5 = Quest 5
+
+|nodeL4 = heart
+|  noteL4 = <ref name="quest_heart"/>
+|nodeC4 = quest
+|  linkC4 = Season of Dreams#Quest 4
+|  labelC4 = Quest 4
+
+|nodeL3 = heart
+|  noteL3 = <ref name="quest_heart"/>
+|nodeC3 = quest
+|  linkC3 = Season of Dreams#Quest 3
+|  labelC3 = Quest 3
+
+|nodeL2 = heart
+|  noteL2 = <ref name="quest_heart"/>
+|nodeC2 = quest
+|  linkC2 = Season of Dreams#Quest 2
+|  labelC2 = Quest 2
+
+|nodeL1 = heart
+|  noteL1 = <ref name="quest_heart">During the Season of Dreams, the hearts available from the Dreams Guide after completing each quest were free.</ref>
+|nodeC1 = quest
+|  linkC1 = Season of Dreams#Quest 1
+|  labelC1 = Quest 1
+}}
+
+|tab2 = Mid-season
+|c2   = {{Friendship Tree
+|spirit = Dreams Guide
+|type   = season
+|season = Dreams
+|image  = Dreams-Guide-Spirit.png
+
+|nodeC6 = heart free
+
+|nodeL5 = heart free
+|nodeC5 = quest
+|  linkC5 = Season of Dreams#Quest 5
+|  labelC5 = Quest 5
+
+|nodeL4 = heart free
+|nodeC4 = quest
+|  linkC4 = Season of Dreams#Quest 4
+|  labelC4 = Quest 4
+
+|nodeL3 = heart free
+|nodeC3 = quest
+|  linkC3 = Season of Dreams#Quest 3
+|  labelC3 = Quest 3
+
+|nodeL2 = heart free
+|nodeC2 = quest
+|  linkC2 = Season of Dreams#Quest 2
+|  labelC2 = Quest 2
+
+|nodeL1 = heart free
+|nodeC1 = quest
+|  linkC1 = Season of Dreams#Quest 1
+|  labelC1 = Quest 1
+}}
+}}<section end="Quest Tree" />
+
+==Trivia==
+* The Dreams Guide can also be found in the Aviary Village's [[Aviary Village#Cape Shop|Cape Shop]] but cannot be interacted with.
+==References==
+<references />
+
+[[pt-br:Guia dos Sonhos]]
+[[fr:Guide des Rêves]]
+
+[[Category:Season of Dreams]]

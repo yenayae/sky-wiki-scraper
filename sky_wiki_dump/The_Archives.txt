@@ -1,0 +1,63 @@
+{{Location
+|image = Vault Archives1.png
+|realm = Vault of Knowledge
+|access = [[Vault of Knowledge#Social Space|Vault Social Space]]
+|season = Belonging
+|seasonal_spirits = {{Emote|Wise Grandparent|format=infobox}}
+|children_of_light= 2 {{Icon|Map-Shrine-flashing-Star-WL-indicator.png|link=Children of Light#{{{title|{{PAGENAME}}}}}}}
+|pieces_of_light= 50 {{Cost|L}}
+|map= Vault of knowledge maze.jpeg
+|mapcaption= Map of The Archives by @Nashineko_sky
+}}
+
+<section begin="Summary" />'''The Archives''' is a Seasonal area added to the [[Vault of Knowledge]], introduced with the [[Season of Belonging]] in Patch {{v|0.7.0}}. This area can be found to the right of where the player spawns upon entering Vault, however, the entrance to the area is blocked by a 2-player trapdoor and a Spirit Gate requiring '''one (1)''' [[Regular Spirits|Regular Spirit]] from Vault. The Archives is a small area, surrounded by towering blocks with glyphs and floating crumbled structures. Within the blocks is a 3x3 maze, where a lightable diamond leads the way out. The [[Wise Grandparent]] can be found here, where you follow their memories through the flooded maze.<section end="Summary" />
+
+==Overview==
+The Archives is composed of two different areas: the floating platforms and the maze. Upon entering The Archives, players can find the Wise Grandparent [[Seasonal Spirits|Seasonal Spirit]], the fifth Seasonal Quest from [[Season of Enchantment]], and the Map Shrine in the floating platforms area.
+
+The 3x3 maze portion of The Archives can be entered from a hole in the wall at the top of the floating platforms area. Within the maze, subsequent holes in the floor allow players to move between the three different levels of the maze. The uppermost level has nothing notable besides the lightable diamond to help guide players through the maze. The middle level also has a lightable diamond and a [[Winged Light]] for players to find, but it can only be accessed from the bottom level. The lower level of the maze is flooded and overrun with [[Dark Crabs|Crabs]]. Here, players can find a Winged Light and a ladder to access the middle level's Winged Light.
+
+The exit of The Archives can also be found at the end of the maze, leading back to the [[Vault of Knowledge#Social Space|Vault Social Space]].
+===Child of Light Locations===
+Two (2) [[Children of Light]] have been added to The Archives area.
+{{#lst:Children of Light|TheArchives Children}}
+
+===Map Shrine Location===
+In The Archives, there is 1 Map Shrine to find.<gallery spacing="small">
+File:Vault-Archives-Angle-Map-Shrine.png|Location of the Map Shrine from the entrance of The Archives
+File:Vault-Archives-Map-Shrine.jpg|Map shrine above The Archives
+</gallery>
+===Spirits in The Archives===
+In The Archives, there is 1 [[Seasonal Spirits|Seasonal Spirit]] ({{Emote|Wise Grandparent}}[[Wise Grandparent]]).<section begin="SpiritTabber" />
+{{Mobile Tabber
+|tab1 = {{Emote|Wise Grandparent|tab}}
+|c1   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Wise Grandparent|Summary}} {{#lst:Wise Grandparent|TS Friendship Tree}} </div>
+|type1=seasonal
+}}<section end="SpiritTabber" />
+
+==Activities==
+<div style="float:right">{{Mobile Tabber|textonly=1
+|tab1 = {{Season Icon|Enchantment}}
+|c1   = <div> {{#ev:youtube|ZfaJrpCWctM|300|right}} </div>
+}}</div>
+Even though The Archives was introduced as a seasonal area for [[Season of Belonging]], the [[Season of Enchantment#Quest #5|fifth Seasonal Quest]] from [[Season of Enchantment]] also takes place here.
+{{Clear}}
+
+==Gallery==
+<gallery widths="225" spacing="small" captionalign="center" hideaddbutton="true" mode="nolines">
+File:Vault2playerarea.jpg|Entrance into The Archives maze
+File:Archives adventure OOB.png|Above The Archives
+</gallery>
+==Trivia==
+*The Archives along with the [[Underground Caverns]] were the first areas to be added to Sky during a season.
+
+==References==
+<references />
+
+{{RealmsNav}}
+
+[[fr:Les Archives]]
+[[pt-br:Arquivos]]
+[[ja:地下]]
+
+[[Category:Locations]]

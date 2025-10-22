@@ -1,0 +1,208 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Dreams-Spirit-Spinning-Mentor.png|Standard
+Dreams-Spirit-Spinning-Mentor-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Mask|infobox}}{{Spirit Item||Hair|infobox}}{{Spirit Item||Cape|infobox}}
+|season    = Dreams
+|realm     = Valley of Triumph
+|location  = Village of Dreams
+|ts        = August 15, 2024 (#120)<br>July 6, 2023 (#91)<br>April 14, 2022 (#59)
+}}
+<section begin="Summary" />The '''Spinning Mentor''' is a [[Seasonal Spirit]] from the [[Season of Dreams]] who offers the {{Emote|Spinning Mentor|inline_text}} Expression. The Spinning Mentor is found in [[Village of Dreams]] between two buildings near the Dreams Guide. The collectibles [[#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Spinning Mentor|Mask|inline_text}}, a {{Spirit Item|Spinning Mentor|Hair|inline_text}}, and a {{Spirit Item|Spinning Mentor|Cape|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Spinning-Mentor-promo-image.jpg|thumb|320px|none|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|Ia829Fl65yk||inline|Video Guide}}
+
+The Spinning Mentor can be found in the [[Village of Dreams]], nestled in a corner formed by two buildings near the [[Dreams Guide]]. This Spirit has a [[Standard Memory|standard memory]] with 8 memory fragments and a 15-minute overall [[Timed Memory|time limit]]. 
+
+As their memory unfolds, the Spinning Mentor, who can be seen seen sitting on the perimeter of the ice rink, is approached by the young Skater. The Mentor proceeds to guide the Skater through various techniques they will need to use on the ice. The Mentor advises the Skater to keep their knees bent, and helps work them through the steps needed to perform a spin. When the Skater falls, the Mentor helps them up, and the two are also seen skating together.
+
+At the end of the memory, the young Skater seems to have fallen and is sprawled across the ice. The Spinning Mentor beckons for the young student to rise, and the Mentor proceeds to give a demonstration of the spin that the Skater is trying to master. The Skater, amazed, claps for the Mentor, who politely bows and gestures for the Skater to give it a try. The Skater successfully skates into a spin, and the Mentor nods approvingly.<br>
+<br>
+[[File:03 VT Seasonal Spirit - Spinning Mentor.jpg|200px|thumb|none|Relive the Spinning Mentor's memory]]
+</div>
+{{Clear}}
+== Expression ==
+{{Distinguish|type=emote|Spin Dance}}
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Spinning-Mentor-spin-trick-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Spinning-Mentor-spin-trick-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Spinning-Mentor-spin-trick-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Spinning-Mentor-spin-trick-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+*Level 1 will make your avatar throw their hands up to their left before crouching down into a sit spin with one leg out. The sit spin then transitions to a variation of an upright spin, with your avatar reaching up with one hand, raising their body, and craning their head back towards a raised foot. Your avatar will remain spinning until you move; when you do, your avatar will spin out and quickly come to a stop with both hands extended to maintain balance. When your avatar initially throws their hands up, a bright and quick staccato note plays in the background. As you spin, a gentle twinkling noise can be heard. 
+*Level 2 makes the same motion as Level 1, with a green light trail following one of your avatar's hands and a blue light trail following the other.
+*Level 3 will make your avatar leap into an upright spin with both feet touching the ground and an arm extended above your head. Your avatar will remain spinning until you move; when you do, your avatar will slowly spin to a stop, with their left foot extended slightly and both arms held out to the side. A quick staccato note plays at the beginning of the Expression, similar to note heard at the beginning of Level 1. During the spin, the same gentle twinkling noise plays in the background.
+*Level 4 makes the same motion as Level 3 with green light trails following your avatar's hands and feet, plus a blue light trail that spins up and down the length of their body as they turn.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+== Cosmetics==
+=== Mask ===
+The [[Mask]] offered by this Spirit is shaped like the head of a quail, consisting mostly out of the colors black and red with yellow accents, as well as a small beak and a black head plume, costing {{Cost|42 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fourth node ({{Cost|54 SC|season=Dreams}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Hair ===
+The [[Hair]] offered by this Spirit includes long hair that is pulled in a high ponytail but not looped through fully, creating a looped bun with a long tail, as well as one looped hair strand at the front of each side of the face, tied together with small red hairties, costing {{Cost|44 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's second node ({{Cost|13 SC|season=Dreams}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair front
+{{Icon Name||Hair|side}} {{!}} The Hair side
+{{Icon Name||Hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Cape ===
+The [[Cape]] offered by this Spirit includes fluffy, black, inner fur lining that envelopes the wavy bottom and straight top hems as well, with smooth dark-red fabric covering most of the exterior, costing {{Cost|70 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fifth node ({{Cost|83 SC|season=Dreams}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||Cape|interior}} {{!}} The Cape interior
+{{Icon Name||Cape|back}} {{!}} The Cape back
+{{Icon Name||Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Traveling Spirit ==
+[[File:Traveling-Spirit-Spinning-Mentor.png|200px|right|thumb]]
+{{Friendship Tree Info | traveling
+|ts_dates=*August 15, 2024 (#120)<br>
+*July 6, 2023 (#91)
+*April 14, 2022 (#59)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Spinning Mentor
+|season = Dreams
+|image  = Dreams-Spirit-Spinning-Mentor.png
+
+|nodeC6 = Cape 70 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeR4 = Mask 42 C
+|nodeC3 = wing
+|nodeL2 = Hair 44 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+The hints given before the [[Spinning Mentor]]'s first appearance were: 
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=First Visit Hints
+|content=<div>
+* Enjoys discussing hot gossip
+* Won youth championships when they were a child
+* Loves strawberry pastries
+* Wants to be proud of you
+* Is stubborn in arguments
+* Will scold any Skykids who get too loud
+* Is a bit of a homebody
+* Is a tough cookie, but has a soft interior
+* Will make you breakfast
+* Is romantic at heart
+* Has a dry sense of humor
+* Is the secret author of a famous historical fiction series
+* Is a Aries sun, Capricorn moon
+* [ikô] Enjoys musicals.... but is super picky on which ones are considered "good"
+</div>
+}}
+
+The hints given before the [[Spinning Mentor]]'s second appearance were: 
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Second Visit Hints
+|content=<div>
+* Is a bit lazy
+* Has recently gotten into mystery novels
+* Enjoys talking about rumors
+* Doesn't understand today's memes
+* Has a collection of teacups
+* Enjoys sleeping in 
+* Enjoys cold weather the most
+* Owns too many decorative pillows
+* Enjoys having afternoon tea with others
+* [wes] Is NOT Dwayne "The Rock" Johnson
+* [wes] Does not feature Dante from the Devil May Cry™ series
+* [wes] Thinks about strawberries sometimes
+</div>
+}}
+
+The hints given before the [[Spinning Mentor]]'s third appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Third Visit Hints
+|content=<div>
+* Has fond memories of berry-picking when they were very young
+* Would rather stay at home than go to parties
+* Finds it hard to deal with personal failure
+* Enjoys giving advice to others
+* Enjoys fine well-made clothing
+* Is a perfectionist when practicing and training skills 
+* Finds sunsets to be poetic
+* Has a great sense of balance
+</div>
+}}
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Dreams}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Spinning Mentor
+|type   = season
+|season = Dreams
+|image  = Dreams-Spirit-Spinning-Mentor.png
+
+|nodeC6 = season_heart 3 SC SP
+|nodeL5 = Cape SP
+|nodeC5 = spell5 29 SC
+|nodeL4 = spell5 SP
+|nodeC4 = Mask 23 SC
+|nodeL3 = emote4 SP
+|nodeC3 = emote3 18 SC
+|nodeL2 = spell5 SP
+|nodeC2 = Hair 13 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Image Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Season of dreams spinning mentor emote.JPG
+season of dreams twirl emote 1.png
+season of dreams spin emote 2.png
+season of dreams spin emote group 1.png
+season of dreams twirl emote twilight stadium.JPG
+Season of dreams spinning mentor map.PNG
+</gallery>
+
+==Video Gallery==
+{{#ev:youtube|IfbDJSE9U8c|175|inline|Video Guide by Tara}}
+
+==References==
+<references/>
+
+[[de:Pirouettina]]
+[[fr:Mentor tournoyant]]
+[[pt-br:Mentora do Giro]]
+[[ru:Учительница трюков]]
+[[ja:旋舞の師匠]]

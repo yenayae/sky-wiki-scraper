@@ -1,0 +1,97 @@
+{{Spirit Infobox
+|type      = Regular
+|emote_type= Emote
+|image     = <gallery>
+Forest-Spirit-Shivering-Trailblazer.png|Standard
+Forest-Spirit-Shivering-Trailblazer-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Outfit|infobox}}{{Spirit Item||Hair|infobox}}
+|realm     = Hidden Forest
+|location  = Forest Clearing
+}}
+<section begin="Summary" />The '''Shivering Trailblazer''' is a [[Regular Spirit]] in [[Hidden Forest]] who offers the {{Emote|Shivering Trailblazer|inline_text}} Expression. The Shivering Trailblazer is found within the first gated courtyard in [[Forest Clearing]] where players first encounter [[Flora,_Minerals_and_Elements_of_Sky#Rain|rain]], in the back left corner. The collectibles [[Shivering Trailblazer#Friendship Tree|offered]] by this Spirit are an {{Spirit Item|Shivering Trailblazer|Outfit|inline_text}} and a {{Spirit Item|Shivering Trailblazer|Hair|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Shivering-Trailblazer-Guide-777-Ed.png|320x320px|thumb|none|Image Guide by 777.Ed]]
+
+== Memory ==
+<div>{{#ev:youtube|XN1u4PxlGrs||inline|Video Guide by Tara}}
+<br>
+The Shivering Trailblazer can be found within the first gated courtyard in [[Forest Clearing]] where players first encounter [[Flora,_Minerals_and_Elements_of_Sky#Rain|rain]], in the back left corner. This Spirit is a [[Standard Memory|standard memory]] quest with 5 memory fragments and an unlimited overall [[Timed Memory|time limit]]. It is also the first memory introduced where the Spirit can be [[Spirit Health|damaged]] (in this case, by the rain).
+
+As their memory unfolds, the Shivering Trailblazer and another Spirit are seen dashing through Forest Clearing, taking shelter beneath the roof of the gated courtyard and the hollow tree roots beyond in a desperate attempt to avoid getting soaked by the rain.
+
+At the end of the memory, the Shivering Trailblazer stands in front of a stone lantern tucked beneath the hollow roots of a tree. Chilled by the relentless rain despite their best efforts, the Spirit lets out a mighty sneeze and shivers miserably.<br>
+<br>
+[[File:02 HF Spirit - Shivering Trailblazer.png|200px|thumb|none|Relive the Shivering Trailblazer's memory]]
+</div>
+{{Clear}}
+
+== Expression ==
+This Spirit offers the {{Emote|Shivering Trailblazer|inline_text}} [[Expression]], which has 4 Levels.<br>
+<br>
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Shivering-Trailblazer-shiver-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Shivering-Trailblazer-shiver-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Shivering-Trailblazer-shiver-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Shivering-Trailblazer-shiver-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar hunch forward with bent knees and hug themself with both arms as they tremble. This action is continued for as long as you don't move your character.
+*Level 2 makes the same motion as Level 1 with visible breath clouds appearing from your avatar's mouth.
+*Level 3 will make your avatar hunch forward with bent knees, alternating between rubbing both hands together and blowing on them as they tremble. This action is continued for as long as you don't move your character.
+*Level 4 makes the same motion as Level 3 with visible breath clouds appearing from your avatar's mouth when blowing on their hands.
+
+The prices of the three Expression upgrades are {{Cost|2 C}}, {{Cost|3 C}}, and {{Cost|3 C}}. Levels 3 and 4 are only available after unlocking the Spirit's [[Wing Buff]].
+
+== Cosmetics==
+=== Outfit ===
+The [[Outfit]] offered by this Spirit is a beige half-sleeve top that covers a pair of matching shorts, costing {{Cost|2 H}}. It is permanently available to all players after unlocking the Friendship Tree's second node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Outfit}} {{!}} The Outfit icon
+{{Icon Name||Outfit|real}} {{!}} The Outfit
+{{Icon Name||Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Hair ===
+The [[Hair]] offered by this Spirit is a long, wispy haircut with bangs that cover the left eye, costing {{Cost|5 H}}. It is permanently available to all players after unlocking the Spirit's [[Wing Buff]] and the Friendship Tree's fifth node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair front
+{{Icon Name||Hair|side}} {{!}} The Hair side
+{{Icon Name||Hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Friendship Tree ==
+{{Friendship Tree Info | regular}}
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Shivering Trailblazer
+|image  = Forest-Spirit-Shivering-Trailblazer.png
+
+|nodeC6 = hair 5 H
+|nodeC5 = spell5
+|nodeL4 = emote4 3 C
+|nodeC4 = emote3 3 C
+|nodeC3 = wing 2 AC
+|nodeL2 = outfit 2 H
+|nodeC2 = spell1
+|nodeR2 = heart
+|nodeL1 = emote2 2 C
+|nodeC1 = emote
+}}<section end="Friendship Tree" />
+
+==Unique Daily Quests==
+{{#section-h:Quests/Daily Quest Spirits|{{PAGENAME}}}}
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Emote Loc-Shiver.png
+</gallery>
+
+[[de:Zitternde Wegbereiterin]]
+[[fr:Pionnière frissonnante]]
+[[pt-br:Pioneira Tremendo]]

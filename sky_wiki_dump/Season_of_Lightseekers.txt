@@ -1,0 +1,236 @@
+{{Season
+| image = Lightseekers square promo.png
+| start = September 23, 2019
+| end = November 10, 2019
+| spirits = 6
+| previousSeason = [[Season of Gratitude]]
+| nextSeason = [[Season of Belonging]]
+| constellation = <gallery>
+Season-of-Lightseekers-Constellation.png|Vector
+Lightseekers constellation.png|Screenshot
+</gallery>
+| symbol = 2_Lightseekers.png
+}}
+The '''Season of Lightseekers''' began on September 23, 2019 and ended on November 10, 2019, lasting a total of 48 days. It was the second seasonal event in Sky since its global launch.
+
+The Season of Lightseekers succeeded the [[Season of Gratitude]] and preceded the [[Season of Belonging]].
+
+==Welcome==
+<center class="title-text-welcome">[https://thatgamecompany.com/welcome-season-lightseekers/ Welcome to the Season of Lightseekers!]</center>
+
+Six Spirits themed off [[Hidden Forest]] have arrived in Sky, offering new unique expressions and cosmetics. Look through the six realms of Sky with your friends and relive the spirits' memories!
+
+A number of changes have been introduced with this season:
+
+*A new small area in [[Isle of Dawn]]
+*Seasonal Spirits offer new expression types
+**Expressions you can use with friends
+**Stances you can use to change how you stand
+**Calls you can use to change your 'Chirp'/'Voice'
+*A new Daily Quest;'' 'Catch the Light' ''
+
+<gallery widths="125" spacing="small" captionalign="center" hideaddbutton="true" mode="nolines">
+Lightseekerwelcome.JPG
+Lightseekerwelcome2.JPG
+</gallery>
+
+==Daily Quests & Seasonal Candles==
+===Daily Quests===
+Collect Seasonal Candles throughout the Season to trade with the new spirits for their cosmetics. A total of 4 seasonal candles are available to gather, as follows:
+
+* Each day the Lightseekers Guide stood next to a Realm's portal, indicating where the day's daily quests could be completed. Players would earn one seasonal candle per quest completed. There were 2 quests in total. Complete the quests and you would claim your reward by talking to the Lightseekers Guide (2 candles)
+* Players could collect an extra candle by collecting the 4 seasonal bunches found in the realm the Lightseekers Guide was standing next to. <small>(more information on the "Seasonal bunches locations" below).</small> (1 candle)
+* Players who had the [[Adventure Pass]] could claim a Seasonal Candle at Home as a free daily bonus. (1 candle)
+<gallery widths="200" spacing="small" captionalign="center" hideaddbutton="true" mode="nolines">
+SOL AP1.jpg|Lightseekers Adventure Pass Page 1 (Image thanks to [https://www.youtube.com/channel/UCTdBaJiejXA0WSOkPX0YO0w Nastymold] )
+SOL AP2.jpg|Lightseekers Adventure Pass Page 2 (Image thanks to [https://www.youtube.com/channel/UCTdBaJiejXA0WSOkPX0YO0w Nastymold] )
+Bluecandle.JPG|A bunch of Seasonal Lightseekers Candles
+</gallery>
+
+===Seasonal Candle Bunches Locations ===
+This season, the Seasonal Candle bunches are found in 1 realm per day, excluding [[Isle of Dawn]] and [[Eye of Eden]].
+
+* [[Daylight Prairie]]: 4 around the [[Prairie Caves|Caves]] area
+* [[Hidden Forest]]: 4 around the [[Forest's Brook]] area
+* [[Valley of Triumph]]: 4 around the [[Ice Rink]] area
+* [[Golden Wasteland]]: 4 in the [[Broken Temple]] area
+* [[Vault of Knowledge]]: 4 around the [[First Floor Vault]]
+
+==Spirits and Cosmetics==
+All of the ''Season of Lightseekers'' Spirits can be found scattered around the 6 realms of Sky. There were 2 Expressions, 2 Friendship Expression, 1 Stance, and 1 Call to gather - overall, 6 spirits.
+{{#tag:gallery
+|{{Icon Name|Piggyback Lightseeker|emote}} {{!}} {{Icon Name|Piggyback Lightseeker|emote_name}}
+{{Icon Name|Doublefive Light Catcher|emote}} {{!}} {{Icon Name|Doublefive Light Catcher|emote_name}}
+{{Icon Name|Laidback Pioneer|emote}} {{!}} {{Icon Name|Laidback Pioneer|emote_name}}
+{{Icon Name|Twirling Champion|emote}} {{!}} {{Icon Name|Twirling Champion|emote_name}}
+{{Icon Name|Crab Whisperer|emote}} {{!}} {{Icon Name|Crab Whisperer|emote_name}}
+{{Icon Name|Shushing Light Scholar|emote}} {{!}} {{Icon Name|Shushing Light Scholar|emote_name}}
+|widths=65|heights=100|spacing=small|captionalign=center|mode=nolines}}
+
+===All Lightseekers Friendship Trees===
+{{Mobile Tabber
+|tab1 = {{Emote|Piggyback Lightseeker|tab}}
+|c1   = {{#lst:Piggyback Lightseeker|Season Friendship Tree}}
+|tab2 = {{Emote|Doublefive Light Catcher|tab}}
+|c2   = {{#lst:Doublefive Light Catcher|Season Friendship Tree}}
+|tab3 = {{Emote|Laidback Pioneer|tab}}
+|c3   = {{#lst:Laidback Pioneer|Season Friendship Tree}}
+|tab4 = {{Emote|Twirling Champion|tab}}
+|c4   = {{#lst:Twirling Champion|Season Friendship Tree}}
+|tab5 = {{Emote|Crab Whisperer|tab}}
+|c5   = {{#lst:Crab Whisperer|Season Friendship Tree}}
+|tab6 = {{Emote|Shushing Light Scholar|tab}}
+|c6   = {{#lst:Shushing Light Scholar|Season Friendship Tree}}
+}}
+===[[Piggyback Lightseeker]]===
+{{#lst:Piggyback Lightseeker|Summary}}
+{{#tag:gallery
+|{{Icon Name|Piggyback Lightseeker|mask|real}} {{!}} Mask
+{{Icon Name|Piggyback Lightseeker|hair|real}} {{!}} Hair
+{{Icon Name|Piggyback Lightseeker|cape|real}} {{!}} Cape
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===[[Doublefive Light Catcher]]===
+{{#lst:Doublefive Light Catcher|Summary}}
+{{#tag:gallery
+|{{Icon Name|Doublefive Light Catcher|mask|real}} {{!}} Mask
+{{Icon Name|Doublefive Light Catcher|hair|real}} {{!}} Hair
+{{Icon Name|Doublefive Light Catcher|instrument|real}} {{!}} {{Icon Name|Doublefive Light Catcher|inst_name}}
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+=== [[Laidback Pioneer]] ===
+{{#lst:Laidback Pioneer|Summary}}
+{{#tag:gallery
+|{{Icon Name|Laidback Pioneer|mask|real}} {{!}} Mask
+{{Icon Name|Laidback Pioneer|hair|real}} {{!}} Hair
+{{Icon Name|Laidback Pioneer|prop|real}} {{!}} {{Icon Name|Laidback Pioneer|prop_name}} (Prop)
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===[[Twirling Champion]]===
+{{#lst:Twirling Champion|Summary}}
+{{#tag:gallery
+|{{Icon Name|Twirling Champion|mask|real}} {{!}} Mask
+{{Icon Name|Twirling Champion|hair|real}} {{!}} Hair
+{{Icon Name|Twirling Champion|instrument|real}} {{!}} {{Icon Name|Twirling Champion|inst_name}}
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===[[Crab Whisperer]]===
+{{#lst:Crab Whisperer|Summary}}
+{{#tag:gallery
+|{{Icon Name|Crab Whisperer|mask|real}} {{!}} Mask
+{{Icon Name|Crab Whisperer|hair|real}} {{!}} Hair
+{{Icon Name|Crab Whisperer|cape|real}} {{!}} Cape
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===[[Shushing Light Scholar]]===
+{{#lst:Shushing Light Scholar|Summary}}
+{{#tag:gallery
+|{{Icon Name|Shushing Light Scholar|mask|real}} {{!}} Mask
+{{Icon Name|Shushing Light Scholar|cape|real}} {{!}} Cape
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===[[Lightseekers Guide]]===
+{{#lst:Lightseekers Guide|Summary}}
+{{#tag:gallery
+|{{Icon Name|Lightseekers Guide|necklace_u|real}} {{!}} Lightseekers Ultimate Pendant
+{{Icon Name|Lightseekers Guide|prop_u|real}} {{!}} {{Icon Name|Lightseekers Guide|prop_u_name}}
+|widths=150|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+==Price Chart==
+{| class="article-table"
+! Spirits
+! colspan="4" | Candle Cost
+! Total Seasonal Candles
+|-
+|[[Piggyback Lightseeker]]
+|{{#vardefineecho:A1| 16 }}
+|{{#vardefineecho:A2| 18 }}
+|{{#vardefineecho:A3| 20 }}
+|{{#vardefineecho:A4| }}
+|{{Cost| {{#vardefineecho:Asum| {{#expr: {{#var:A1}} + {{#var:A2}} + {{#var:A3}} + {{#var:A4}} + 0 }} }} SC|season=Lightseekers}}
+|-
+|[[Doublefive Light Catcher]]
+|{{#vardefineecho:B1| 4 }} 
+|{{#vardefineecho:B2| 6 }}
+|{{#vardefineecho:B3| 8 }}
+|{{#vardefineecho:B4| }}
+|{{Cost| {{#vardefineecho:Bsum| {{#expr: {{#var:B1}} + {{#var:B2}} + {{#var:B3}} + {{#var:B4}} + 0 }} }} SC|season=Lightseekers}}
+|-
+|[[Laidback Pioneer]]
+|{{#vardefineecho:C1| 6 }}
+|{{#vardefineecho:C2| 8 }}
+|{{#vardefineecho:C3| 10 }}
+|{{#vardefineecho:C4| 20 }}
+|{{Cost| {{#vardefineecho:Csum| {{#expr: {{#var:C1}} + {{#var:C2}} + {{#var:C3}} + {{#var:C4}} + 0 }} }} SC|season=Lightseekers}}
+|-
+|[[Twirling Champion]]
+|{{#vardefineecho:D1| 12 }}
+|{{#vardefineecho:D2| 14 }}
+|{{#vardefineecho:D3| 16 }}
+|{{#vardefineecho:D4|  }}
+|{{Cost| {{#vardefineecho:Dsum| {{#expr: {{#var:D1}} + {{#var:D2}} + {{#var:D3}} + {{#var:D4}} + 0 }} }} SC|season=Lightseekers}}
+|-
+|[[Crab Whisperer]]
+|{{#vardefineecho:E1| 12 }}
+|{{#vardefineecho:E2| 14 }}
+|{{#vardefineecho:E3| 16 }}
+|{{#vardefineecho:E4| 18 }}
+|{{Cost| {{#vardefineecho:Esum| {{#expr: {{#var:E1}} + {{#var:E2}} + {{#var:E3}} + {{#var:E4}} + 0 }} }} SC|season=Lightseekers}}
+|-
+|[[Shushing Light Scholar]]
+|{{#vardefineecho:F1| 16 }}
+|{{#vardefineecho:F2| 18 }}
+|{{#vardefineecho:F3| 20 }}
+|{{#vardefineecho:F4|  }}
+|{{Cost| {{#vardefineecho:Fsum| {{#expr: {{#var:F1}} + {{#var:F2}} + {{#var:F3}} + {{#var:F4}} + 0 }} }} SC|season=Lightseekers}}
+|-
+! colspan="5" | Total for Season
+! {{Cost| {{#expr: {{#var:Asum}} + {{#var:Bsum}} + {{#var:Csum}} + {{#var:Dsum}} + {{#var:Esum}} + {{#var:Fsum}} }} SC|season=Lightseekers}}
+|}
+[[File:Cosmetics lightseeker.jpg|none|thumb|582x582px|Compilation of price-trees]]
+
+==Trivia==
+*The candles for this season were blue, but this didn't carry on due to blue being hard to see in specific areas.
+*The Isle Spirit, Piggyback Lightseeker, used to only be obtainable once the other 5 spirits were all found, as it was blocked by a constellation gate requiring 5 Lightseeker Spirits.
+*The mask that the Lightseekers Guide wears is unobtainable. However, it is available to players in the [[NetEase/Cosmetics|Chinese version of Sky]].
+* The Season of Lightseekers is depicted in several merch items from [[That Sky Shop]]. To know more about That Sky Shop products, visit their website: https://thatskyshop.com
+
+==Bugs==
+* When Daylight Savings Time ended, there was a bug that caused the four physical Seasonal Candles to reset everytime the area was reset, letting people be able to obtain more candles than they should.
+
+==Video Gallery==
+<gallery>
+File:Season of lightseekers playlist.png|Season of Lightseekers Playlist by Tara's Sky Journey|link=https://www.youtube.com/playlist?list=PLKh97ggSLvdwuGjQmqIPJ3tX2INR0WPuh|
+File:Vídeo de Abertura da Temporada Lightseekers - Sky Children of the Light|Seasonal opening cutscene
+File:Sky- Children of the Light- Season of LIghtseekers Emotes and Cosmetics|Every Expression (upgraded) and Cosmetic: capes, masks, instruments, etc.
+File:Sky- Children of the Light- Season of Lightseekers Spirit Emote Locations|Spirit Collection, guide.
+File:Sky- Children of the Light- Season of LIghtseekers Ending Scene|Season of Lightseekers ~ End Cutscene
+</gallery>
+
+==Image Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+SoLightseekers-Doublefive-Light-Catcher-promo-image.png
+SoLightseekers-Laidback-Pioneer-promo-image.png
+SoLightseekers-Twirling-Champion-promo-image.png
+SoLightseekers-Crab-Whisperer-promo-image.png
+SoLightseekers-Shushing-Light-Scholar-promo-image.png
+SoLightseekers-Guide-promo-image.png
+SoLightseekers-umbrella-promo-image.png
+SoLightseekers-piggyback-promo-image.png
+SoLightseekers-playing-music-with-friends-promo-image.png
+SoLightseekers-spirits-and-skykids-promo-image.png
+SoLightseekers-cosmetics-promo-art.png
+</gallery>
+
+==References== 
+<references /> 
+{{Seasonal Navbox}} 
+{{Navigation Box}}
+
+[[de:Saison der Lichtsucher]]
+[[fr:Saison des Chercheurs de lumière]]
+[[pt-br:Temporada dos Caçadores de Luz]]
+[[ru:Сезон искателей света]]
+[[ja:光の探求者の季節]]
+
+{{DEFAULTSORT:Lightseekers, Season of}}

@@ -1,0 +1,104 @@
+{{Spirit Infobox
+|type      = Regular
+|emote_type= Emote
+|image     = <gallery>
+Wasteland-Spirit-Lookout-Scout.png|Standard
+Wasteland-Spirit-Lookout-Scout-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Facepiece|infobox}}
+|instruments = {{Spirit Item||Instrument|infobox}}
+|realm     = Golden Wasteland
+|location  = Battlefield
+}}
+<section begin="Summary" />The '''Lookout Scout''' is a [[Regular Spirit]] in the [[Golden Wasteland]] who offers the {{Emote|Lookout Scout|inline_text}} Expression. The Lookout Scout is found in the [[Battlefield]] inside the large broken fortress, at the bottom of a broken wall towards the left. The collectibles [[Lookout Scout#Friendship Tree|offered]] by this Spirit are a {{Spirit Item|Lookout Scout|Facepiece|inline_text}} and a {{Spirit Item|Lookout Scout|Instrument|inline_text}} Instrument.<section end="Summary" /><br>
+<br>
+[[File:Lookout-Scout-Guide-777-Ed.png|320x320px|thumb|none|Image Guide by 777.Ed]]
+
+== Memory ==
+<div>{{#ev:youtube|https://www.youtube.com/watch?v=X0dj10tnvpQ|||Video Guide by Tara||start=1105&end=1228&loop=1}}
+<br>
+The Lookout Scout can be found in the [[Battlefield]] inside the large broken fortress, at the bottom of a broken wall towards the left. This Spirit is a [[Standard Memory|standard memory]] quest with 6 memory fragments and an unlimited overall [[Timed Memory|time limit]].
+
+As their memory unfolds, the Lookout Scout climbs across the rubble of the fortress, carefully making their way up towards the peak of the structure, until they finally arrive at the tallest point. 
+
+At the end of the memory, the Lookout Scout peers upon the horizon with their hand shading their eyes, before turning around and sounding a call with their horn.<br>
+<br>
+[[File:04 GW Spirit - Lookout Scout.jpg|200px|thumb|none|Relive the Lookout Scout's memory]]
+</div>
+{{Clear}}
+
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.  
+
+[[File:{{Icon Name||Emote}}|170px|left]]
+<gallery heights="125" captionalign="center">
+Lookout-Scout-look-around-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Lookout-Scout-look-around-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Lookout-Scout-look-around-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Lookout-Scout-look-around-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+* Level 1 will make your avatar raise both hands to shade their eyes while turning their head to look to the right and left.
+* Level 2 makes the same motion as Level 1 with white dots expressing your avatar's cone of vision, following their head movements.
+* Level 3 will make your avatar clasp both hands together while twisting their body to look over their right and left shoulder.
+* Level 4 makes the same motion as Level 3 with green dots expressing your avatar's cone of vision, following their head movements.
+
+The prices of the three Expression upgrades are {{Cost|5 C}}, {{Cost|5 C}}, and {{Cost|5 C}}. Levels 3 and 4 are only available after unlocking the Spirit's [[Wing Buff]].
+
+== Cosmetics ==
+=== <span id="Mask">Face Accessory</span> ===
+The [[Face Accessory]]<ref name="Mask recategorized">This item was recategorized from a [[Mask]] to a [[Face Accessory]] as a result of the [[Outfit Shrine|Closet]] category expansion in Patch {{v|0.22.0}}.</ref> offered by this Spirit is a silver head guard with pointed horns (closely resembling the Face Accessory worn by [[Backflipping Champion]], but with shorter spikes), costing {{Cost|10 H}}. It is permanently available to all players after unlocking the Spirit's [[Wing Buff]] and the Friendship Tree's fifth node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||facepiece}} {{!}} The Face Accessory icon
+{{Icon Name||facepiece|real}} {{!}} The Face Accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Instrument ===
+The [[Instrument]] offered by this Spirit is a simple gray horn, costing {{Cost|5 H}}. It plays 15 notes and is played standing up.
+
+The Horn plays the [[Music Sheet Parts|wind part]] on Music Sheets. Its [[Instrument Pitch|pitch]] is two octaves below the standard [[Piano]] (in C Major, it covers C<sub>2</sub> to C<sub>4</sub>). The horn is the only Instrument with this particular range.
+
+In [[Harmony Hall]], this Instrument can be found on the back wall, behind and to the right of the front counter, in an alcove below the {{Instrument|Panflute|inline_text}}.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Instrument}} {{!}} The Instrument icon
+{{Icon Name||Instrument_real}} {{!}} The Instrument
+{{Icon Name||Instrument|back}} {{!}} The Instrument on your back
+{{Icon Name||Instrument|held}} {{!}} Playing the Instrument
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Friendship Tree ==
+{{Friendship Tree Info | regular}}
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Lookout Scout
+|image  = Wasteland-Spirit-Lookout-Scout.png
+
+|nodeC6 = facepiece 10 H
+|nodeC5 = spell5
+|nodeL4 = emote4 5 C
+|nodeC4 = emote3 5 C
+|nodeC3 = wing 2 AC
+|nodeL2 = instrument 5 H
+|nodeC2 = spell1
+|nodeR2 = heart
+|nodeL1 = emote2 5 C
+|nodeC1 = emote
+}}<section end="Friendship Tree" />
+
+==Trivia==
+*The Lookout Scout Instrument is featured in a piece of merch from thatskyshop, in the form of the [[That Sky Shop/Wave 5#Scout Horn Pin|Scout Horn Pin]]. It has a STAR feature which allows you and the friends holding your hand to get a Scout Horn for a limited duration.
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Emote Loc-Look Out.png
+</gallery>
+
+==References==
+<references />
+
+[[de:Aussichtsspäher]]
+[[pt-br:Olheiro Vigia]]
+[[fr:Éclaireur vigie]]

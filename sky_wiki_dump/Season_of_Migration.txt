@@ -1,0 +1,364 @@
+{{Season
+| title = Season of Migration
+| image = SoMigration-Teaser-image.png
+| start = October 20, 2025
+| end = January 4, 2026
+| spirits =
+| previousSeason = [[Season of The Two Embers - Part 1]]
+| nextSeason = TBA
+| constellation = 
+| symbol = Season-of-Migration-icon.png
+}}
+
+The '''Season of Migration''' is the twenty-seventh Seasonal Event in the Live version of ''Sky'' since the global release, following [[Season of The Two Embers - Part 1]]. It began on  '''October 20, 2025 at 00:00 PDT (UTC -7)''' and ends '''January 4, 2026 at 23:59 PST (UTC -8)''', lasting '''77''' days.
+
+The migrating herd has begun its journey, but they cannot complete it alone. Will you rise to the role of shepherd and guide, helping them find their way home?<br>
+<br>
+{{#ev:youtube|p3dtNkdfNRM||inline|Season of Migration Trailer}}
+
+==Welcome==
+<center class="title-text-welcome">[https://www.thatskygame.com/news/the-season-of-migration-is-upon-us/ Welcome to the Season of Migration!]</center>{{Quote|<br>'''''Embark on a mystical journey of light and wonder as you help a herd of lost light creatures find their way home.'''''}}
+From the open fields to the shadowed forests and beyond, a stirring has begun. An ancient rhythm that calls the migrating creatures of light to rise, gather, and journey together. Guided by the [[Migration Guide]], you will help shepherd a lost herd of majestic creatures back onto their ancestral path. 
+
+Over the course of 10 [[#Spirit Memory Quests|Seasonal Quests]], you will join in leading the herd across familiar Realms transformed: Daylight Prairie buffeted by strong winds, Hidden Forest overflowing with floodwaters, Golden Wasteland wrapped in heavy fog. Along the way, you will soar beside Jellyfish, Mantas, Birds, and other beloved creatures, seeing them in surprising new ways as the migration carries on through the skies.
+
+In the [[Wind Paths]], new Spirit memories are waiting to be discovered. Keep an eye out for hints near the migration camp in Isle of Dawn: they'll guide you to where those memories can be found. The Season's Spirits will teach you new Expressions and offer a variety of cosmetics: [[Outfits]], [[Capes]], a new [[Music Sheet]], and more! [[Season Pass]] holders will also have the chance to unlock three new Ultimate Gifts.
+
+This Season is one of triumph and wonder, of finding the way home, and of discovering how deeply connected we are—not just to each other, but to the luminous creatures who share our world.
+
+<small>Note that Season of Migration can be enjoyed by all players who have progressed through at least REALM.</small>
+
+==Daily Quests & Seasonal Candles==
+===Daily Quests===
+Collect Seasonal Candles throughout the Season to trade with the new Spirits for their cosmetics. A total of 6 Seasonal Candles are available to gather, as follows:
+*Each day the location of the [[Daily Quests]] change, indicated through the cutscene played when checking in with the Return Shrine Statue at [[Home]] or [[Aviary Village]] - where the camera will pan out from the day's chosen Realm portal. Players will earn one Seasonal Candle per Quest completed. Complete your Quests and claim your reward at the Return Shrine Statue. (4 Candles)
+*Players may also collect an extra Candle by collecting the 4 Seasonal bunches <small>(more information on the "Seasonal bunches locations" below).</small> (1 Candle)
+*Players who have the [[Season Pass]] can claim a Seasonal Candle from the Return Shrine Statue at [[Home]] or the [[Aviary Village#Friendship Constellation Statue|Friendship Constellation Statue]] at Aviary Village as a free daily bonus. (1 Candle)
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" >
+File:Season-of-Migration-Seasonal-candles.jpg|Migration Seasonal Candles
+File:Season-of-Migration-Season-Pass-1.png|Season Pass - page 1
+File:Season-of-Migration-Season-Pass-2.png|Season Pass - page 2
+File:Season-of-Migration-Season-Pass-3.png|Season Pass - page 3
+</gallery>
+
+===Seasonal Candle Bunches Locations===
+The Seasonal Candle bunches are found towards the beginning of each [[Realm]], one Realm a day according to the [[Daily Quests]]' location.
+
+'''Today's ({{Game Stat|today|format=F j}} in Sky Time) Seasonal Candle rotation is <!--
+-->{{#switch:{{#expr:{{Game Stat|datediff|from=2023-01-16 PST}} mod 10}}
+|0=Rotation 1 in Valley of Triumph.
+|1=Rotation 1 in Golden Wasteland.
+|2=Rotation 1 in Vault of Knowledge.
+|3=Rotation 2 in Daylight Prairie.
+|4=Rotation 1 in Hidden Forest.
+|5=Rotation 2 in Valley of Triumph.
+|6=Rotation 2 in Golden Wasteland.
+|7=Rotation 2 in Vault of Knowledge.
+|8=Rotation 1 in Daylight Prairie.
+|9=Rotation 2 in Hidden Forest.
+}} <!-- TESTING BY RAY: This is possibly necessary to keep the datediff accurate -->''' {{Purge}} <div id="disable-caching" style="display:none;"><choose uncached><option></option></choose></div>
+
+<!-- Specify Pattern-A or Pattern-B -->
+<gallery spacing="small" captionalign="center">
+Daylight-Prairie-Seasonal-Candles-locations-Pattern-B.png|Prairie Rotation 1 & 2
+Hidden-Forest-Seasonal-Candles-locations-Pattern-B.png|Forest Rotation 1 & 2
+Valley-of-Triump-Seasonal-Candles-locations-Pattern-B.png|Valley Rotation 1 & 2
+Golden-Wasteland-Seasonal-candles-Locations-Pattern-B.png|Wasteland Rotation 1 & 2
+Vault-of-knowledge-Seasonal-candles-Locations-Pattern-B.png|Vault Rotation 1 & 2
+</gallery>
+
+''NOTE: This section is automatic generated. If the rotation pattern changed and the info above is outdated, please either contact an [[Help:Admins and Moderators|admin]] or use the Source Editor to apply the appropriate changes. Thank you!''
+
+==New Feature: Growing Your Friendship==
+This new feature introduced with the Season of Migration allows players to deepen their connection with [[Seasonal Spirits]] by inviting them to follow and spend time with them. As players spend time with a Spirit, their bond grows; a way to unlock new layers of the Spirit Tree without spending [[Currency]].
+
+A player can invite a Spirit to accompany them for the day by selecting {{Icon|Spirit-relationship-follow-icon.png}}Invite A Spirit To Follow in their friendship tree. The Spirit will accompany the player as they navigate the world for approximately 30 in-game minutes in spark form, similar to [[Seasonal_Spirits#Spirit_Memories|their moving appearance in Spirit Memories]]. When the player stands for a period of time, the Spirit themself will appear in a nearby open area, with their [[Friendship Tree]] also accessible.
+* A player can only invite one Spirit per day.
+
+Eventually, the Spirit will intend to depart, with a popup saying that they have treasured their time with the player. To say goodbye and increase friendship with the Spirit, stand to make the Spirit appear, then walk into them to open their Friendship Menu. Select {{Icon|Spirit-relationship-icon.png}}Grow Your Friendship, which should have replaced {{Icon|Spirit-relationship-follow-icon.png}}Invite a Spirit.
+
+==Children of Light Locations==
+Two (2) Children of Light have been added with the Season of Migration. One (1) in [[Isle of Dawn]] and one (1) in [[Hidden Forest]].
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Migration-WingedLight-in-Isle.png|Isle WL 10 (Far)
+Migration-WingedLight-in-Windpath.png|Forest WL 21 (Far)
+</gallery>
+
+*'''Isle WL 10''': In the [[Sand Dunes]], towards the left, behind the big cave at the beginning, behind the Migration Camp.
+*'''Forest WL 21''': In the [[Wind Paths]], on the back side of the main island, on a ledge near the very top, under the gate.
+{{Clear}}
+
+==Spirit Memory Quests==
+===<span id="Quest 1">Quest #1</span>===
+In the first Quest, the player helps repair a flying boat, place Migration Bells throughout the [[Isle]], and finally lead the beginning of the Migration herd's journey. As the [[Migration Guide]] walks across the Isle's dunes, they discover an abandoned pair of antlers and decide to wear them. Looking ahead, they notice a flock of sleeping antlered [[Manatees]]. As they approach and wave to the creatures, the Temple bell rings, awakening the flock, which begins to circle joyfully around the Guide. The Guide then turns to the [[Migrating Bellmaker]], who reveals that their boat is broken.
+
+'''Part I – Repairing the Boat'''<br>
+Using the meditation circle by the Migrating Bellmaker, the player is now tasked with collecting six missing boat pieces in total, marked by three beams of light. If the player should lose their way, they may call out to summon a blue guiding star that points toward their next objective. Meanwhile, the Migration Guide tends to the Light Creature flock in the background.<br>
+Once all parts are gathered, the player must return to the Migrating Bellmaker and select the {{Icon|Shared-space-hammer-Credit-Ray.png}} hammer icons to help repair the boat. Once the task is complete, the Bellmaker readies it for the upcoming voyage.
+
+'''Part II – The Migration Bells'''<br>
+Next, the Migration Guide entrusts the player with Migration Bells, to help prepare for the voyage. The locations where Migration Bells must be placed are marked by beams of light. There are four Bells in total—once a Bell is placed, it must be activated by lighting the nearby white candles, upon which it rings out merrily.<br>
+When all Migartion Bells are lit, they chime together in harmony, summoning swarms of [[Butterflies]] that form glowing paths leading toward the Temple. To continue, the player must return to the Migration Guide.
+
+'''Part III – Leading the Voyage'''<br>
+With the Antlered Manatee flock gathered, the Migration Guide heads back to the now-repaired boat, ready to set off. Players may have to wait a moment for the Migrating Bellmaker to finish packing up. Once the boat is ready, the {{Icon|Icon open wing mode.png}} flying icon must be selected to lead the voyage—the Light Creatures will gather around the boat boarded by the Guide and Bellmaker, all ready to set off. Players must simply fly up to start the journey toward the Isle's Temple, already marked by many Butterfly paths.
+
+As the first part of the journey concludes, the Migrating Bellmaker expresses their gratitude toward the player and begins preparations for the next expedition. The Migration Guide and the flock finally rest, snoozing in the grass, marking the end of this Quest. An antler remains on the right hill of the Prairie, hinting at the next Quest to come.<br>
+<br>
+{{#ev:youtube|Ndf6Jf1j6rU|300px||Quest 1 Video Guide}}
+
+<!--
+===<span id="Quest 2">Quest #2</span>===
+In the second Quest, [Quest summary]. In the Prairie, the Migration Guide, the Migrating Bellmaker, and the Light Creature flock prepare to continue their journey. However, strong winds have startled the migrating birds, halting their progress.
+
+'''Part I – Restoring the Migration Bells'''
+To calm the winds and guide the birds, the Spirits enlist your help in repairing the Migration Bells.
+
+You are given a migration bell to assist with the task.
+
+There are four bells scattered across the area that must be restored. Follow the guiding lights to each location and repair the bells one by one.
+
+When all four are fixed, they ring together in harmony, creating waves of light that steady the winds and free the birds to resume their migration.
+
+Return to the Migration Guide once the bells have been activated.
+
+'''Part II – Leading the Flock'''
+
+With the bells restored and the boat ready, the Spirits prepare to set sail once more.
+
+Take the lead by selecting the flying icon, guiding the group along the birds’ migration paths.
+
+Fly above the temple, following the glowing trails of the Light Creatures. You may use flight power to accelerate at any time during the journey.
+
+'''Part III – Journey’s End'''
+
+Upon reaching the Prairie Village, the Migrating Bellmaker thanks you before returning to prepare for the next voyage.
+
+The Migration Guide and the Light Creature flock finally rest after completing their journey.
+
+An antler remains behind on the middle belltower island, marking the path forward for the next quest.<br>
+<br>
+{{#ev:youtube|VideoID|300px||Quest 2 Video Guide}}
+
+===<span id="Quest 3">Quest #3</span>===
+::'''Quest 3: Optional, if Quest is Named'''
+Description of the Quest is added here.<br>
+<br>
+{{#ev:youtube|VideoID|300px||Quest 3 Video Guide}}
+
+===<span id="Quest 4">Quest #4</span>===
+::'''Quest 4: Optional, if Quest is Named'''
+Description of the Quest is added here.<br>
+<br>
+{{#ev:youtube|VideoID|300px||Quest 4 Video Guide}}
+
+===<span id="Quest 5">Quest #5</span>===
+::'''Quest 5: Optional, if Quest is Named'''
+Description of the Quest is added here.<br>
+<br>
+{{#ev:youtube|VideoID|300px||Quest 5 Video Guide}}
+
+===<span id="Quest 6">Quest #6</span>===
+::'''Quest (: Optional, if Quest is Named'''
+Description of the Quest is added here.<br>
+<br>
+{{#ev:youtube|VideoID|300px||Quest 6 Video Guide}}
+
+===<span id="Quest 7">Quest #7</span>===
+::'''Quest 7: Optional, if Quest is Named'''
+Description of the Quest is added here.<br>
+<br>
+{{#ev:youtube|VideoID|300px||Quest 7 Video Guide}}
+
+===<span id="Quest 8">Quest #8</span>===
+::'''Quest 8: Optional, if Quest is Named'''
+Description of the Quest is added here.<br>
+<br>
+{{#ev:youtube|VideoID|300px||Quest 8 Video Guide}}
+
+===<span id="Quest 9">Quest #9</span>===
+::'''Quest 9: Optional, if Quest is Named'''
+Description of the Quest is added here.<br>
+<br>
+{{#ev:youtube|VideoID|300px||Quest 9 Video Guide}}
+
+===<span id="Quest 10">Quest #10</span>===
+::'''Quest 10: Optional, if Quest is Named'''
+Description of the Quest is added here.<br>
+<br>
+{{#ev:youtube|VideoID|300px||Quest 10 Video Guide}}
+-->
+
+==Spirits & Cosmetics==
+All of the ''Season of Migration'' Spirits can be found at the [[The Wind Paths|Wind Paths]] in Forest. There are 4 new Expressions and 1 new Call to gather — 5 Spirits overall. <!-- X spirits, three are found in the [[Migration Guide|Ultimate Quest giver]] -->
+{{#tag:gallery
+|{{Icon Name|Migrating Bird Whisperer|emote}} {{!}} {{Icon Name|Migrating Bird Whisperer|emote_name}}
+{{Icon Name|Migrating Bellmaker|emote}} {{!}} {{Icon Name|Migrating Bellmaker|emote_name}}
+{{Icon Name|Migrating Manta Whisperer|emote}} {{!}} {{Icon Name|Migrating Manta Whisperer|emote_name}}
+{{Icon Name|Migrating Butterfly Charmer|emote}} {{!}} {{Icon Name|Migrating Butterfly Charmer|emote_name}}
+{{Icon Name|Migrating Jelly Whisperer|emote}} {{!}} {{Icon Name|Migrating Jelly Whisperer|emote_name}}
+|widths=100|spacing=small|captionalign=center|mode=nolines}}
+
+===All Migration Friendship Trees===
+{{Mbox
+|type=moderate
+|header=New Friendship Tree System
+|image=Reassuring-Ranger-Action-icon-Credit-Morybel.png
+|text=With the Season of Migration, TGC introduced a [https://www.thatskygame.com/news/the-season-of-migration-is-upon-us new Friendship Tree system]; instead of unlocking items through a single linear path, players can now spend time with Spirits to build Friendship. '''A template to display this new system on the Spirit pages is in the works and will be added soon.''' Thank you for your patience!
+}}
+{{Mobile Tabber
+|tab1 = {{Season Icon|Migration|tab}}
+|c1   = {{#lst:Migration Guide|Friendship Tree}}
+<!--|tab2 = {{Icon|Quest-icon.png|link=Quests|tab}}
+|c2   = {{#lst:Migration Guide|Quest Tree}}-->
+|tab3 = {{Emote|Migrating Bird Whisperer|tab}}
+|c3   = {{#lst:Migrating Bird Whisperer|Season Friendship Tree}}
+|tab4 = {{Emote|Migrating Bellmaker|tab}}
+|c4   = {{#lst:Migrating Bellmaker|Season Friendship Tree}}
+|tab5 = {{Emote|Migrating Manta Whisperer|tab}}
+|c5   = {{#lst:Migrating Manta Whisperer|Season Friendship Tree}}
+|tab6 = {{Emote|Migrating Butterfly Charmer|tab}}
+|c6   = {{#lst:Migrating Butterfly Charmer|Season Friendship Tree}}
+|tab7 = {{Emote|Migrating Jelly Whisperer|tab}}
+|c7   = {{#lst:Migrating Jelly Whisperer|Season Friendship Tree}}
+}}
+
+===[[Migrating Bird Whisperer]]===
+{{#lst:Migrating Bird Whisperer|Summary}}
+{{#tag:gallery
+|{{Icon Name|Migrating Bird Whisperer|outfit|real}} {{!}} The Outfit
+{{Icon Name|Migrating Bird Whisperer|cape|real}} {{!}} The Cape
+|widths=125|spacing=small|captionalign=center|mode=nolines}}
+
+===[[Migrating Bellmaker]]===
+{{#lst:Migrating Bellmaker|Summary}}
+{{#tag:gallery
+|{{Icon Name|Migrating Bellmaker|hair|real}} {{!}} The Hair
+{{Icon Name|Migrating Bellmaker|headpiece|real}} {{!}} The Head Accessory
+{{Icon Name|Migrating Bellmaker|cape|real}} {{!}} The Cape
+|widths=125|spacing=small|captionalign=center|mode=nolines}}
+
+===[[Migrating Manta Whisperer]]===
+{{#lst:Migrating Manta Whisperer|Summary}}
+{{#tag:gallery
+|{{Icon Name|Migrating Manta Whisperer|outfit|real}} {{!}} The Outfit
+{{Icon Name|Migrating Manta Whisperer|hair|real}} {{!}} The Hair
+{{Icon Name|Migrating Manta Whisperer|cape|real}} {{!}} The Cape
+|widths=125|spacing=small|captionalign=center|mode=nolines}}
+
+===[[Migrating Butterfly Charmer]]===
+{{#lst:Migrating Butterfly Charmer|Summary}}
+{{#tag:gallery
+|{{Icon Name|Migrating Butterfly Charmer|facepiece|real}} {{!}} The Face Accessory
+{{Icon Name|Migrating Butterfly Charmer|cape|real}} {{!}} The Cape
+|widths=125|spacing=small|captionalign=center|mode=nolines}}
+
+===[[Migrating Jelly Whisperer]]===
+{{#lst:Migrating Jelly Whisperer|Summary}}
+{{#tag:gallery
+|{{Icon Name|Migrating Jelly Whisperer|outfit|real}} {{!}} The Outfit
+{{Icon Name|Migrating Jelly Whisperer|hairpiece|real}} {{!}} The Hair Accessory
+|widths=125|spacing=small|captionalign=center|mode=nolines}}
+
+===[[Migration Guide]]===
+{{#lst:Migration Guide|Summary}}
+{{#tag:gallery
+|{{Icon Name|Migration Guide|necklace_u|real}} {{!}} Migration Ultimate Pendant
+{{Icon Name|Migration Guide|outfit_u|front}} {{!}} Migration Ultimate Outfit
+{{Icon Name|Migration Guide|shoes_u|real}} {{!}} Migration Ultimate Shoes
+{{Icon Name|Migration Guide|facepiece_u|real}} {{!}} Migration Ultimate Face Accessory
+|widths=125|spacing=small|captionalign=center|mode=nolines}}
+
+==Price Charts==
+Use the [[Seasonal Events/Calculator|Event Calculator]] to verify the status of your Candle count.
+{| class="article-table"
+! Spirits
+! colspan="7" | Candle Cost
+! Total Seasonal Candles
+|-
+|Migrating Bird Whisperer
+|{{#vardefineecho:A1|2}}
+|{{#vardefineecho:A2|4}}
+|{{#vardefineecho:A3|24}}
+|{{#vardefineecho:A4|30}}
+|{{#vardefineecho:A5|12}}
+|
+|3*
+|{{Cost| {{#vardefineecho:Asum| {{#expr: {{#var:A1}} + {{#var:A2}} + {{#var:A3}} + {{#var:A4}} + {{#var:A5}} + 3 }} }} SC|season=Migration}}
+|-
+|Migrating Bellmaker
+|{{#vardefineecho:B1|17}}
+|{{#vardefineecho:B2|23}}
+|{{#vardefineecho:B3|4}}
+|{{#vardefineecho:B4|9}}
+|{{#vardefineecho:B5|6}}
+|{{#vardefineecho:B6|36}}
+|3*
+|{{Cost| {{#vardefineecho:Bsum| {{#expr: {{#var:B1}} + {{#var:B2}} + {{#var:B3}} + {{#var:B4}} + {{#var:B5}} + {{#var:B6}} + 3 }} }} SC|season=Migration}}
+|-
+|Migrating Manta Whisperer
+|{{#vardefineecho:C1|2}}
+|{{#vardefineecho:C2|23}}
+|{{#vardefineecho:C3|4}}
+|{{#vardefineecho:C4|24}}
+|{{#vardefineecho:C5|6}}
+|{{#vardefineecho:C6|12}}
+|3*
+|{{Cost| {{#vardefineecho:Csum| {{#expr: {{#var:C1}} + {{#var:C2}} + {{#var:C3}} + {{#var:C4}} + {{#var:C5}} + {{#var:C6}} + 3 }} }} SC|season=Migration}}
+|-
+|Migrating Butterfly Charmer
+|{{#vardefineecho:D1|2}}
+|{{#vardefineecho:D2|6}}
+|{{#vardefineecho:D3|24}}
+|{{#vardefineecho:D4|30}}
+|{{#vardefineecho:D5|8}}
+|
+|3*
+|{{Cost| {{#vardefineecho:Dsum| {{#expr: {{#var:D1}} + {{#var:D2}} + {{#var:D3}} + {{#var:D4}} + {{#var:D5}} + 3 }} }} SC|season=Migration}}
+|-
+|Migrating Jelly Whisperer
+|{{#vardefineecho:E1|2}}
+|{{#vardefineecho:E2|4}}
+|{{#vardefineecho:E3|24}}
+|{{#vardefineecho:E4|9}}
+|{{#vardefineecho:E5|36}}
+|
+|3*
+|{{Cost| {{#vardefineecho:Esum| {{#expr: {{#var:E1}} + {{#var:E2}} + {{#var:E3}} + {{#var:E4}} + {{#var:E5}} + 3 }} }} SC|season=Migration}}
+|-
+! colspan="8" | Total for Season
+! {{Cost| {{#expr: {{#var:Asum}} + {{#var:Bsum}} + {{#var:Csum}} + {{#var:Dsum}} + {{#var:Esum}} }} SC|season=Migration}}
+|}<small>''* Only available with [[Season Pass]] (Seasonal Hearts) (subtract when calculating without)''</small>
+
+<!--
+==Trivia==
+*Trivia 1
+*Trivia 2
+*Trivia 3
+-->
+==Video Gallery==
+{{#ev:youtube|pva7ukZ4LLY|300|inline|Season of Migration Opening Cutscene}}
+{{#ev:youtube|F-MIVbqeLTk|300|inline|Season of Migration Teaser}}
+
+==Image Gallery==
+<gallery widths="125" spacing="small" captionalign="center" >
+SoMigration-Teaser-image.png
+SoMigration-Promo-Image-1.png
+SoMigration-Promo-Image-2.png
+SoMigration-Promo-Image-3.png
+SoMigration-Promo-Image-4.png
+SoMigration-Promo-Image-5.png
+SoMigration-Promo-Image-6.png
+</gallery>
+
+==References==
+<references />
+
+{{DEFAULTSORT:Migration, Season of}}
+
+{{Seasonal Navbox}}
+
+[[ja:渡りの季節]]
+[[pt-br:Temporada da Migração]]
+
+[[Category:Seasons]]

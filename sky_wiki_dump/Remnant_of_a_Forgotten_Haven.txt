@@ -1,0 +1,100 @@
+{{Spirit Infobox
+|type      = Non
+|image     = Remnant-of-a-Forgotten-Haven-Shop.png
+|emote_type= None
+|cosmetics = {{Spirit Item|Remnant of a Forgotten Haven|Shoes|infobox}}{{Spirit Item|Remnant of a Forgotten Haven|Hairpiece|infobox}}{{Spirit Item|Remnant of a Forgotten Haven|Cape|infobox}}
+|season    = Revival
+|location  = Aviary Village
+|ts        = None
+}}
+<section begin="Summary" />The '''Remnant of a Forgotten Haven''' is a [[Ancestors#Seasonal Entities|Seasonal Shop]] from the [[Season of Revival]]. The Remnant of a Forgotten Haven is found within the left-most building in [[Aviary Village]], marked outside by a sign with Revival's emblem. The collectibles offered by this Shop are {{Spirit Item|Remnant of a Forgotten Haven|shoes|inline_text}}, a {{Spirit Item|Remnant of a Forgotten Haven|Hairpiece|inline_text}}, and a {{Spirit Item|Remnant of a Forgotten Haven|Cape|inline_text}}.<section end="Summary" />
+
+==Cosmetics==
+===<span id="Shoes">Shoes</span>===
+The [[Shoes]] offered at this Shop are a pair of simple beige sandals.<!-- costing {{Cost|? C}} from the Traveling Spirit (?).--> It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's first node ({{Cost|24 SC|season=Revival}} total).
+{{#tag:gallery
+|{{Icon Name|Forgotten Haven|shoes}} {{!}} The Shoes icon
+{{Icon Name|Forgotten Haven|shoes|real}} {{!}} The Shoes
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Hair Accessory">Hair Accessory</span>===
+The [[Hair Accessory]] offered at this Shop is a red ribbon with long tails tied to the back of your head.<!-- costing {{Cost|? C}} from the Traveling Spirit (?).--> It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's third node ({{Cost|96 SC|season=Revival}} total).
+{{#tag:gallery
+|{{Icon Name|Forgotten Haven|hairpiece}} {{!}} The Hair Accessory icon
+{{Icon Name|Forgotten Haven|hairpiece|real}} {{!}} The Hair Accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Cape">Cape</span>===
+The [[Cape]] offered at this Shop is magenta with gold accents, a small tassel hanging from the back edge, and an orange interior.<!-- costing {{Cost|? C}} from the Traveling Spirit (?).--> It was available to all players during the Season from the Friendship Tree's second node ({{Cost|56 SC|season=Revival}} total).
+{{#tag:gallery
+|{{Icon Name|Forgotten Haven|Cape}} {{!}} The Cape icon
+{{Icon Name|Forgotten Haven|Cape|front}} {{!}} The Cape front
+{{Icon Name|Forgotten Haven|Cape|interior}} {{!}} The Cape interior
+{{Icon Name|Forgotten Haven|Cape|real}} {{!}} The Cape back
+{{Icon Name|Forgotten Haven|Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Season Friendship Tree==
+This [[Friendship Tree (Seasonal)|Friendship Tree]] provides the [[collectibles]] sold by this [[Season of Revival#Shops_&_Cosmetics|Shop]] during the [[Season of Revival]]. This Tree can no longer be accessed. However, the items listed here will be available for purchase when the Shop returns as a [[Traveling Spirit]] - or in some other form.
+
+It is currently unknown how these items will return after the Season of Revival has ended. Because the Remnant of a Forgotten Haven was not a Seasonal Spirit, either the Traveling Spirit system would have to be modified to allow for non-Spirits, or else thatgamecompany will have to introduce another mechanism for obtaining past-Season cosmetics.
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Remnant of a Forgotten Haven
+|image  = Remnant-of-a-Forgotten-Haven-Shop.png
+|type   = season
+|season = Revival
+
+|nodeC4 = season_heart 3 SC SP
+
+|nodeL3 = hairpiece SP
+|nodeC3 = spellx 40 SC
+
+|nodeL2 = spellx SP
+|nodeC2 = cape 32 SC
+
+|nodeL1 = shoes SP
+|nodeC1 = spellx 24 SC
+}}
+<section end="Season Friendship Tree" />
+
+==In Other Languages==
+{{Help|lang}}
+{{Other Languages
+|title         = Remnant of a Forgotten Haven
+|fr            = Vestige d'un havre oublié
+|fr_meaning    = Vestige of a Forgotten Haven
+|de            = Überreste eines vergessenen Hafens
+|de_meaning    = Remains of a Forgotten Haven
+|it            = Resti di un porto perduto
+|it_meaning    = Remains of a Lost Haven
+|id            = Sisa-sisa surga yang telah dilupakan
+|id_meaning    = Remnants of a Forgotten Haven
+|ja            = 忘れ去られた楽園のなごり
+|ja_rom        = Wasuresarareta Rakuen-no Nagori
+|ja_meaning    = Relic of a Forgotten Paradise
+|ko            = 잊혀진 안식처의 잔해
+|ko_rom        = Ijhyeojin Ansigche-ui Janhae
+|ko_meaning    = Remnants of a Forgotten Haven
+|zh_cn         =
+|zh_cn_meaning =
+|zh_tw         =
+|zh_tw_meaning =
+|pt            = Resquicìo de um Abrigo Esquecido
+|pt_meaning    = Remnant of a Forgotten Shelter
+|ru            = Следы забытой гавани
+|ru_rom        = Sledy zabytoy gavani
+|ru_meaning    = Traces of a Forgotten Harbor
+|es            = Restos de un paraíso olvidado
+|es_meaning    = Remnant of a Forgotten Paradise
+|vi            =
+|vi_meaning    =
+}}
+==References==
+<references />
+
+[[fr:Vestige d'un havre oublié]]
+[[pt-br:Resquício de um Abrigo Esquecido]]
+[[Category:Season of Revival]]

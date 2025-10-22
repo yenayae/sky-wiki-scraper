@@ -1,0 +1,422 @@
+'''Instruments''' are [[Cosmetics]] that players can use to play [[Music]]. As with all cosmetics, purchasing Instruments is not a requirement to progress in the game, but it is a way for players to express themselves and interact with other players. More so than other cosmetics, Instruments significantly enrich the ''Sky'' experience by enabling a range of new activities. You can play music solo or with friends, whether playing music freeform or using a [[Music Sheet]].
+{{Icon List
+|caption=Available Instruments
+| {{Instrument|Harp|table|link=Instruments#Harp}}
+| {{Instrument|Fledgling Harp|table|link=Instruments#Fledgling Harp}}
+| {{Instrument|Contrabass|table|link=Instruments#Contrabass}}
+| {{Instrument|Piano|table|link=Instruments#Piano}}
+| {{Instrument|Horn|table|link=Instruments#Horn}}
+| {{Instrument|Small Bell|table|link=Instruments#Small Bell}}
+| {{Instrument|Large Bell|table|link=Instruments#Large Bell}}
+| {{Instrument|Flute|table|link=Instruments#Flute}}
+| {{Instrument|Panflute|table|link=Instruments#Panflute}}
+| {{Instrument|Guitar|table|link=Instruments#Guitar}}
+| {{Instrument|Rhythm Guitar|table|link=Instruments#Rhythm Guitar}}
+| {{Instrument|Ukulele|table|link=Instruments#Ukulele}}
+| {{Instrument|Xylophone|table|link=Instruments#Xylophone}}
+| {{Instrument|Winter Piano|table|link=Instruments#Winter Piano}}
+| {{Instrument|Sanctuary Handpan|table|link=Instruments#Sanctuary Handpan}}
+| {{Instrument|Triumph Handpan|table|link=Instruments#Triumph Handpan}}
+| {{Instrument|Prophecy Drum|table|link=Instruments#Prophecy Drum}}
+| {{Instrument|Lute|table|link=Instruments#Lute}}
+| {{Instrument|Bugle|table|link=Instruments#Bugle}}
+| {{Instrument|Kalimba|table|link=Instruments#Kalimba}}
+| {{Instrument|Electric Guitar|table|link=Instruments#Electric Guitar}}
+| {{Instrument|Blue Electric Guitar|table|link=Instruments#Blue Electric Guitar}}
+| {{Instrument|Voice of AURORA|table|link=Instruments#Voice of AURORA}}
+| {{Instrument|Manta Ocarina|table|link=Instruments#Manta Ocarina }}
+| {{Instrument|Cello|table|link=Instruments#Cello }}
+| {{Instrument|Duets Cello|table|link=Instruments#Duets Cello }}
+| {{Instrument|Harmonica|table|link=Instruments#Harmonica }}
+| {{Instrument|Cymbals|table|link=Instruments#Cymbals }}
+| {{Instrument|Vessel Flute|table|link=Instruments#Vessel Flute}}
+| {{Instrument|Drum|table|link=Instruments#Drum}}
+| {{Instrument|Triumph Violin|table|link=Instruments#Triumph Violin }}
+| {{Instrument|Triumph Saxophone|table|link=Instruments#Triumph Saxophone }}
+| {{Instrument|Fortune Drum|table|link=Instruments#Fortune Drum }}
+| {{Instrument|Grand Piano|table|link=Instruments#Grand Piano }}
+| {{Instrument|Duets Grand Piano|table|link=Instruments#Duets Grand Piano }}
+| {{Instrument|Fledgling Upright Piano|table|link=Instruments#Fledgling Upright Piano }}
+| {{Instrument|Jam Station|table|link=Instruments#Jam Station }}
+}}
+Multiple Instruments are available in game. Although the mechanics are the same for all Instruments, your Instrument selection has multiple implications:
+* How many [[#Instrument Notes|notes]] you can play. Most Instruments have 15 notes, but percussion Instruments only have 8. Only a single Instrument has 4 notes.
+* The pitch of the notes. Some Instruments play at higher or lower octaves than others.
+* The tone / quality of the notes varies to reflect real life variations between Instrument sounds.
+* Which [[Music Sheet Parts|parts]] you play when using a [[Music Sheet]]: each Instrument only plays one of the four available parts.
+* Whether you can move after equipping an Instrument: you can only move around with Instruments that are played in a standing stance. (Note that this is only possible on devices with touchscreen controls, as well as on PC by remapping button inputs.)
+
+Note that some Instruments are unable to be practiced in the [[Harmony Hall#Rehearsal Room|Harmony Hall Rehearsal Room]]:
+
+* The [[Dark Horn]] is not considered an Instrument since you cannot play Music Sheets with it, and you cannot practice with it in the said room.
+* Despite being considered Instruments, you still cannot practice with any of [[The Musicians' Legacy#Instrument|Grand]] [[Duets Guide#Ultimate Gifts|Pianos]] or the [[Days_of_Music#Fledgling_Upright_Piano|Fledgling Upright Piano]] in there due to them being considered [[Props#Small Placeable Props Display|small props]] as well.
+* The [[Days_of_Music#Jam_Station|Jam Station]], while still being considered an Instrument, you cannot practice in there as it lacks the ability of play Music Sheets.
+
+== How to Play Music ==
+To play an Instrument, you must first equip it by selecting it in the Props [[Outfit Shrine]]; your currently equipped Instrument is visible on your back. To play the Instrument, open the [[Expression Menu]]. An icon for your Instrument is added in the row of actions, next to the "Home" icon (typically the third row of icons). Selecting that icon makes you take out the Instrument and be ready to play.
+
+An alternative but temporary way to equip an Instrument is to select one of the demonstration Instruments on display in [[Harmony Hall]]. Such Instruments are immediately equipped and ready to play. When you close the music screen, the Instrument is returned to the display.
+
+The main music screen is a set of 15 (or 8 for percussion Instruments) symbols representing the notes you can play; see [[#Instrument Notes|Instrument Notes]] for details. There are two main options for how to play music:
+* Freeform, by clicking on music notes. Many [[Sky Music Guide|guides and tools]] exist to help you play freeform music.
+* Using [[Music Sheets]] that show you to how to play songs, by highlighting which notes you should play. More details are provided on the [[Music Sheets]] article.
+{{#lst:Menus and Controls|controller_music}}
+== Instrument Notes ==
+[[File:A Guide to Music in Sky-Introduction to music in Sky|thumb|right|300px|Video guide to music in sky. Image shows the 15 notes in C Major.]]
+Most of the Instruments in the game have '''15 notes''', which span two octaves of a major scale. The lowest pitch note is in the upper left, and pitch increases to the right, then down. The most common scale used in the game is C Major, in which case the notes in the top row (from left to right) are C, D, E, F, and G. The second row has A, B, C, D, and E (where C, D, E are an octave higher than the first row). The third row is F, G, A, B, C (all at a higher octave).
+
+[[File:Sky pitch range EN.png|thumb|right|300px|The pitch ranges of all non-percussion Instruments in Sky]]
+The notes played are the same for all Instruments (other than percussion), but the '''pitch''' of the notes -- the specific octave of the first C for example -- varies depending upon your selected Instrument.
+* The standard [[Piano]] is in the "typical" range, which in [https://en.wikipedia.org/wiki/Scientific_pitch_notation scientific pitch notation] is summarized as C<sub>4</sub> to C<sub>6</sub>. The [[Grand Piano]], the [[Kalimba]], the [[Triumph Violin]], the [[Voice of AURORA]], and most wind instruments ([[Bugle]], [[Flute]], [[Panflute]], and [[Vessel Flute]]) are also in this range.
+* One octave higher: the [[Winter Piano]] and [[Xylophone]] are one octave higher than the piano, i.e., C<sub>5</sub> to C<sub>7</sub>.
+* One octave lower: the [[Triumph Saxophone]] and most of the string instruments ([[Electric Guitar]], [[Guitar]], [[Harp]], [[Lute]], and [[Ukulele]]) are one octave lower than the piano, i.e., C<sub>3</sub> to C<sub>5</sub>.
+* Two octaves lower: the [[Horn]] and [[Cello]] are two octaves lower than the piano, i.e., C<sub>2</sub> to C<sub>4</sub>.
+* Three octaves lower: The [[Contrabass]]' range is C<sub>1</sub> to C<sub>3</sub>.
+
+Percussion Instruments are the only Instruments to have '''8 notes''' (with one notable exception having only 4) -- which in some case are not even pitched notes. Their sounds are handled differently than all the other Instruments, and even vary from one percussion Instrument to another. The drums ({{Instrument|Drum|inline_text}}, {{Instrument|Prophecy Drum|inline_text}}, and {{Instrument|Fortune Drum|inline_text}}) have unpitched sounds that do not correspond to musical notes. The bells ({{Instrument|Small Bell|inline_text}} and {{Instrument|Large Bell|inline_text}}) play the notes C<sub>4</sub>D<sub>4</sub>G<sub>4</sub>A<sub>4</sub>C<sub>4</sub>D<sub>4</sub>G<sub>4</sub>A<sub>4</sub>. The handpans ({{Instrument|Sanctuary Handpan|inline_text}} and {{Instrument|Triumph Handpan|inline_text}}) play the notes D<sub>3</sub>A<sub>3</sub>C<sub>4</sub>D<sub>4</sub>F<sub>4</sub>G<sub>4</sub>A<sub>4</sub>C<sub>5</sub>. Each Instrument's article provides additional details.
+
+The discussion up until now provided the notes specifically used when playing in the '''key''' of C major. This is the most common key found in Sky, but many other keys are possible, and your Instrument's key will adjust automatically to match the key used by the background music of the current [[Realm]] or to match the key of the selected [[Music Sheet]]. More details about how to control the key are provided at [[Music Key]]. For most Instruments, all other keys are higher pitched than C major, with B major having the highest pitch overall. So while the Piano ranges from C<sub>4</sub> to C<sub>6</sub> in C major, it ranges from B<sub>4</sub> to B<sub>6</sub> in B major. However, for the bells and handpans, G major has the lowest and F♯/G♭ major has the highest pitch overall; for the Voice of AURORA, D♯/E♭ major has the lowest and D major has the highest pitch overall.
+
+Instruments that have the fermata symbol 𝄐 (the {{Instrument|Electric Guitar|inline_text}},  {{Instrument|Voice of AURORA|inline_text}}, {{Instrument|Triumph Violin|inline_text}}, {{Instrument|Triumph Saxophone|inline_text}}, {{Instrument|Cello|inline_text}}, {{Instrument|Harmonica|inline_text}}) indicate that the Instrument's notes can be held down to play an extended note.
+
+==Instrument Stand==
+{{#lst:Nesting Workshop|Instrument Stand}}
+
+== Available Instruments ==
+This table lists all the Instruments currently available in Sky. The default order is icon order, as used in the in-game [[Props|Props Closet]]. The table sort order can be changed by clicking on the header of any column.
+
+{| class="article-table sortable"
+! Instrument Name
+! Icon
+! [[#Availability Legend|Avail.]]
+! Source
+! Cost
+! [[Music Sheet Parts|Part]]
+! [[#Instrument Notes|Pitch]]
+! Stance
+|- id="Harp"
+| [[Harp]]
+| {{Instrument|Harp|table|sort=1}}
+| {{Avail Summary | regular | spirit=Laughing Light Catcher }}
+| {{Heart|5}}
+| Melody
+| <span data-sort-value="30">C<sub>3</sub> - C<sub>5</sub></span>
+| Standing
+|- id="Fledgling Harp"
+| [[Fledgling Harp]]
+| {{Instrument|Fledgling Harp|table|sort=2}}
+| {{Avail Summary | permanent | source={{Icon|Harmony-hall-icon-Ray.png|table|link=Harmony Hall}} }}
+| {{USD|4.99}}
+| Melody
+| <span data-sort-value="30">C<sub>3</sub> - C<sub>5</sub></span>
+| Standing
+|- id="Contrabass"
+| [[Contrabass]]
+| {{Instrument|Contrabass|table|sort=3}}
+| {{Avail Summary | regular | spirit=Frightened Refugee }}
+| {{Heart|5}}
+| Bass
+| <span data-sort-value="10">C<sub>1</sub> - C<sub>3</sub></span>
+| Standing
+|- id="Piano"
+| [[Piano]]
+| {{Instrument|Piano|table|sort=101}}
+| {{Avail Summary | regular | spirit=Cheerful Spectator }}
+| {{Heart|10}}
+| Melody
+| <span data-sort-value="40">C<sub>4</sub> - C<sub>6</sub></span>
+| Sitting
+|- id="Horn"
+| [[Horn]]
+| {{Instrument|Horn|table|sort=201}}
+| {{Avail Summary | regular | spirit=Lookout Scout }}
+| {{Heart|5}}
+| Wind
+| <span data-sort-value="20">C<sub>2</sub> - C<sub>4</sub></span>
+| Standing
+|- id="Small Bell"
+| [[Small Bell]]
+| {{Instrument|Small Bell|table|sort=302}}
+| {{Avail Summary | season | spirit=Leaping Dancer | season=Gratitude }}
+| {{Candle|40}}
+| Percussion
+| <span data-sort-value="49">C<sub>5</sub> - A<sub>5</sub></span>
+| Standing
+|- id="Large Bell"
+| [[Large Bell]]
+| {{Instrument|Large Bell|table|sort=303}}
+| {{Avail Summary | season | spirit=Greeting Shaman | season=Gratitude }}
+| {{Candle|45}}
+| Percussion
+| <span data-sort-value="49">C<sub>5</sub> - A<sub>5</sub></span>
+| Standing
+|- id="Flute"
+| [[Flute]]
+| {{Instrument|Flute|table|sort=202}}
+| {{Avail Summary | season | spirit=Doublefive Light Catcher | season=Lightseekers }}
+| {{Candle|55}}
+| Wind
+| <span data-sort-value="40">C<sub>4</sub> - C<sub>6</sub></span>
+| Standing
+|- id="Panflute"
+| [[Panflute]]
+| {{Instrument|Panflute|table|sort=203}}
+| {{Avail Summary | season | spirit=Twirling Champion | season=Lightseekers }}
+| {{Candle|60}}
+| Wind
+| <span data-sort-value="40">C<sub>4</sub> - C<sub>6</sub></span>
+| Standing
+|- id="Guitar"
+| [[Guitar]]
+| {{Instrument|Guitar|table|sort=4}}
+| {{Avail Summary | season | spirit=Pleaful Parent | season=Belonging }}
+| {{Candle|75}}
+| Melody
+| <span data-sort-value="30">C<sub>3</sub> - C<sub>5</sub></span>
+| Sitting
+|- id="Rhythm Guitar"
+| [[Rhythm Guitar]]
+| {{Instrument|Rhythm Guitar|table|sort=5}}
+| {{Avail Summary | permanent | source={{Icon|Harmony-hall-icon-Ray.png|table|link=Harmony Hall}} }}
+| {{USD|14.99}}
+| Melody
+| <span data-sort-value="30">C<sub>3</sub> - C<sub>5</sub></span>
+| Sitting
+|- id="Ukulele"
+| [[Ukulele]]
+| {{Instrument|Ukulele|table|sort=6}}
+| {{Avail Summary | season | spirit=Hairtousle Teen | season=Belonging }}
+| {{Candle|75}}
+| Melody
+| <span data-sort-value="30">C<sub>3</sub> - C<sub>5</sub></span>
+| Sitting
+|- id="Xylophone"
+| [[Xylophone]]
+| {{Instrument|Xylophone|table|sort=103}}
+| {{Avail Summary | season | spirit=Thoughtful Director | season=Rhythm }}
+| {{Candle|65}}
+| Melody
+| <span data-sort-value="50">C<sub>5</sub> - C<sub>7</sub></span>
+| Kneeling
+|- id="Winter Piano"
+| [[Winter Piano]]
+| {{Instrument|Winter Piano|table|sort=102}}
+| {{Avail Summary | season | spirit=Respectful Pianist | season=Rhythm }}
+| {{Candle|75}}
+| Melody
+| <span data-sort-value="50">C<sub>5</sub> - C<sub>7</sub></span>
+| Sitting
+|- id="Sanctuary Handpan"
+| [[Sanctuary Handpan]]
+| {{Instrument|Sanctuary Handpan|table|sort=304}}
+| {{Avail Summary | ultimate | season=Sanctuary }}
+| {{Cost|N/A}}
+| Percussion
+| <span data-sort-value="31">D<sub>3</sub> - C<sub>5</sub></span>
+| Sitting
+|- id="Triumph Handpan"
+| [[Triumph Handpan]]
+| {{Instrument|Triumph Handpan|table|sort=305}}
+| {{Avail Summary | permanent | source={{Icon|Harmony-hall-icon-Ray.png|table|link=Harmony Hall}} }}
+| {{USD|19.99}}
+| Percussion
+| <span data-sort-value="31">D<sub>3</sub> - C<sub>5</sub></span>
+| Sitting
+|- id="Prophecy Drum"
+| [[Prophecy Drum]]
+| {{Instrument|Prophecy Drum|table|sort=306}}
+| {{Avail Summary | ultimate | season=Prophecy }}
+| {{Cost|N/A}}
+| Percussion
+| <span data-sort-value="0">None</span>
+| Standing
+|- id="Lute"
+| [[Lute]]
+| {{Instrument|Lute|table|sort=7}}
+| {{Avail Summary | season | spirit=Dancing Performer | season=Dreams }}
+| {{Candle|70}}
+| Melody
+| <span data-sort-value="30">C<sub>3</sub> - C<sub>5</sub></span>
+| Sitting
+|- id="Bugle"
+| [[Bugle]]
+| {{Instrument|Bugle|table|sort=204}}
+| {{Avail Summary | ultimate | season=Assembly }}
+| {{Cost|N/A}}
+| Wind
+| <span data-sort-value="40">C<sub>4</sub> - C<sub>6</sub></span>
+| Standing
+|- id="Kalimba"
+| [[Kalimba]]
+| {{Instrument|Kalimba|table|sort=104}}
+| {{Avail Summary | season | spirit=Tinkering Chimesmith | season=Flight }}
+| {{Candle|75}}
+| Melody
+| <span data-sort-value="40">C<sub>4</sub> - C<sub>6</sub></span>
+| Kneeling
+|- id="Electric Guitar"
+| [[Electric Guitar]]
+| {{Instrument|Electric Guitar|table|sort=8}}
+| {{Avail Summary | season | spirit=Mellow Musician | season=Performance }}
+| {{Cost|80 C}}
+| Melody
+| data-sort-value="30"|C<sub>3</sub> - C<sub>5</sub>
+| Standing<ref name="instr_moving">Although you are standing when playing this Instrument, you can not move around with it equipped, unlike all other standing Instruments.</ref>
+|- id="Blue Electric Guitar"
+| [[Blue Electric Guitar]]
+| {{Instrument | Blue Electric Guitar | table | sort=9 }}
+| {{Avail Summary | permanent | source={{Icon|Four-point-star-Ray.png|table|link=The Office}} }}
+| {{Cost| 29.99 USD }}
+| Melody
+| data-sort-value="30" | C<sub>3</sub> - C<sub>5</sub>
+| Standing
+|- id="Voice of AURORA"
+| [[Voice of AURORA]]
+| {{Instrument|Voice of AURORA|table|sort=307}}
+| {{Avail Summary | limited | season=AURORA }}
+| {{Cost|$14.99}}
+| Melody
+| <span data-sort-value="40">C<sub>4</sub> - C<sub>6</sub></span>
+| Standing
+|- id="Manta Ocarina"
+| [[Manta Ocarina]]
+| {{Instrument|Manta Ocarina|table|sort=400}}
+| {{Avail Summary | season | spirit=Overactive Overachiever | season=Passage }}
+| {{Cost | unknown }}
+| Wind
+| <span data-sort-value="40">C<sub>4</sub> - C<sub>6</sub></span>
+| Standing
+|- id="Cello"
+| [[Cello]]
+| {{Instrument|Cello|table|sort=401}}
+| {{Avail Summary | season | spirit=The Musicians' Legacy | season=Duets }}
+| {{Cost | unknown }}
+| Bass
+| <span data-sort-value="20">C<sub>2</sub> - C<sub>4</sub></span>
+| Standing
+|- id="Duets Cello"
+| [[Duets Cello]]
+| {{Instrument|Duets Cello|table|sort=402}}
+| {{Avail Summary | guide | spirit=Compassionate Cellist | season=Duets }}
+| {{Cost | 200 C }}
+| Bass
+| <span data-sort-value="20">C<sub>2</sub> - C<sub>4</sub></span>
+| Standing
+|- id="Harmonica"
+| [[Harmonica]]
+| {{Instrument|Harmonica|table|sort=403}}
+| {{Avail Summary | season | spirit=Spirit of Adventure | season=Moomin }}
+| {{Cost | ? }}
+| Wind
+| <span data-sort-value="40">C<sub>4</sub> - C<sub>6</sub></span>
+| Standing
+|- id="Cymbals"
+| [[Cymbals]]
+| {{Instrument|Cymbals|table|sort=404}}
+| {{Avail Summary|s
+| spirit = Radiance Provoking Performer
+| season = Radiance
+}}
+| {{Cost | SP }}
+| Percussion
+| <span data-sort-value="0">TBA</span>
+| Standing
+|- id="Vessel Flute"
+| [[Vessel Flute]]
+| {{Instrument|Vessel Flute|table|sort=205}}
+| {{Avail Summary | conditional | source= {{Icon|Switch_Icon.png|table|label=Nintendo Pack|link=Sky_for_Nintendo_Switch#Nintendo_Pack}} }}
+| {{USD|29.99}}<ref name="nintendo_pricing">The $29.99 price is for the Nintendo Starter Pack, which includes more than just the Vessel Flute.</ref>
+| Wind
+| <span data-sort-value="40">C<sub>4</sub> - C<sub>6</sub></span>
+| Standing
+|- id="Drum"
+| [[Drum]]
+| {{Instrument|Drum|table|sort=301}}
+| {{Avail Summary | regular | spirit=Blushing Prospector }}
+| {{Heart|5}}
+| Percussion
+| <span data-sort-value="0">None</span>
+| Sitting
+|- id="Triumph Violin"
+| [[Triumph Violin]]
+| {{Instrument|Triumph Violin|table|sort=500}}
+| {{Avail Summary | permanent | source={{Icon|Harmony-hall-icon-Ray.png|table|link=Harmony Hall}} }}
+| {{Cost | $19.99 }}
+| Melody
+| <span data-sort-value="40">C<sub>4</sub> - C<sub>6</sub></span>
+| Standing
+|- id="Triumph Saxophone"
+| [[Triumph Saxophone]]
+| {{Instrument|Triumph Saxophone|table|sort=501}}
+| {{Avail Summary | permanent | days=Music }}
+| {{Cost | 125 C | event=Music }}
+| Wind
+| <span data-sort-value="30">C<sub>3</sub> - C<sub>5</sub></span>
+| Standing<ref name="instr_moving />
+|- id="Fortune Drum"
+| [[Fortune Drum]]
+| {{Instrument|Fortune Drum|table|sort=550}}
+| {{Avail Summary | days | days=Fortune }}
+| {{Cost | 34 T | event=Fortune }}
+| Percussion
+| <span data-sort-value="0">None</span>
+| Standing
+|- id="Grand Piano"
+| [[Grand Piano]]
+| {{Instrument|Grand Piano|table|sort=402}}
+| {{Avail Summary | season | spirit=The Musicians' Legacy | season=Duets }}
+| {{Cost | unknown }}
+| Melody
+| <span data-sort-value="40">C<sub>4</sub> - C<sub>6</sub></span>
+| Sitting
+|- id="Duets Grand Piano"
+| [[Duets Grand Piano]]
+| {{Instrument|Duets Grand Piano|table|sort=403}}
+| {{Avail Summary | ultimate | season=Duets }}
+| {{Cost | N/A }}
+| Melody
+| <span data-sort-value="40">C<sub>4</sub> - C<sub>6</sub></span>
+| Sitting
+|- id="Fledgling Upright Piano"
+| [[Fledgling Upright Piano]]
+| {{Instrument|Fledgling Upright Piano|table|sort=409}}
+| {{Avail Summary | permanent | days=Music }}
+| {{Cost | $4.99 | event=Music }}
+| Melody
+| <span data-sort-value="40">C<sub>4</sub> - C<sub>6</sub></span>
+| Sitting
+|- id="Jam Station"
+| [[Jam Station]]
+| {{Instrument|Jam Station|table|sort=410}}
+| {{Avail Summary | permanent | days=Music }}
+| {{Cost | 250 C | event=Music }}
+| Sequencer
+| None
+| Type Unknown
+|}
+{{Avail Legend
+| regular
+| permanent
+| s+
+| u+
+| t*
+| r*
+| d*
+| l*
+| days
+| season
+| ultimate
+| limited
+| conditional
+}}
+
+==References==
+<references/>
+
+[[de:Instrumente]]
+[[pt-br:Instrumentos]]
+[[ja:楽器]]
+[[fr:Instruments]]
+
+[[Category:Cosmetics]]
+[[Category:Music]]

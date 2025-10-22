@@ -1,0 +1,113 @@
+{{Spirit Infobox
+|type      = Non
+|emote_type= None
+|image     = Comfort-of-Kindness-Shop.png
+|cosmetics = <!--
+-->{{Spirit Item|Comfort of Kindness|Neckpiece|infobox}}<!--
+-->{{Spirit Item|Comfort of Kindness|Hair|infobox}}<!--
+-->{{Spirit Item|Comfort of Kindness|Cape|infobox}}
+|props	   = <!--
+-->{{Spirit Item|Comfort of Kindness|Prop_p|infobox|label=Bridge Painting}}<!--
+-->{{Spirit Item|Comfort of Kindness|Prop_c|infobox|label=Chandelier}}
+|season    = Moomin
+|realm     = Vault of Knowledge
+|location  = [[Moominvalley Glade]]
+|ts        = None
+}}
+<section begin="Summary" />The '''Comfort of Kindness''' is a [[Ancestors#Seasonal Entities|Seasonal Shop]] from the [[Season of Moomin]]. The Comfort of Kindness is found on a grassy mound to the right in [[Moominvalley Glade]]. Unlike typical [[Seasonal Spirits]], there is no need to first relive a [[Spirit Memories|Spirit memory]] to access this Shop and it does not offer an [[Expression]]. The collectibles offered by this Shop are a {{Spirit Item|Comfort of Kindness|Neckpiece|inline_text}}, a {{Spirit Item|Comfort of Kindness|Hair|inline_text}}, a {{Spirit Item|Comfort of Kindness|Cape|inline_text}}, a {{Spirit Item|Comfort of Kindness|Prop_p|inline_text|label=Bridge Painting Prop}}, and a {{Spirit Item|Comfort of Kindness|Prop_c|inline_text|label=Chandelier Prop}}.<section end="Summary" /><br>
+<br>
+[[File:Comfort-of-Kindness-and-Sense-of-Self-Shops.png|thumb|320px|none|The Comfort of Kindness and Sense of Self]]
+
+==Cosmetics==
+
+===<span id="Necklace">Neck Accessory</span>===
+The [[Neck Accessory]] offered by this Shop is a large pink bow tie wrapped around the player's neck<!--, costing {{Cost| ??? C}} from the Traveling Spirit-->. It was offered to all players for {{Cost|24 SC|season=Moomin}} during the Season, from the Friendship Tree's fourth node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Comfort of Kindness|Neckpiece|icon}} {{!}} The Neck Accessory icon
+{{Icon Name|Comfort of Kindness|Neckpiece|real}} {{!}} The Neck Accessory
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines
+}}
+
+===<span id="Hairstyle">Hair</span>===
+The [[Hair]] offered by this Shop is a tightly pulled-back bun shaped like an onion<!--, costing {{Cost| ??? C}} from the Traveling Spirit-->. It was offered to all players for {{Cost|16 SC|season=Moomin}} during the Season, from the Friendship Tree's second node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Comfort of Kindness|Hair|icon}} {{!}} The Hair icon
+{{Icon Name|Comfort of Kindness|Hair|real}} {{!}} The Hair front
+{{Icon Name|Comfort of Kindness|Hair|side}} {{!}} The Hair side
+{{Icon Name|Comfort of Kindness|Hair|back}} {{!}} The Hair back
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines
+}}
+
+===<span id="Cape">Cape</span>===
+The [[Cape]] offered by this Shop is a pair of five ghostly, finger-like appendages that stick out from both sides of the player's back, closely resembling the "hands" of the [https://www.moomin.com/en/characters/hattifatteners/ Hattifatteners]<!--, costing {{Cost| ??? C}} from the Traveling Spirit-->. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fifth node ({{Cost|98 SC|season=Moomin}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Comfort of Kindness|Cape|icon}} {{!}} The Cape icon
+{{Icon Name|Comfort of Kindness|Cape|front}} {{!}} The Cape front
+<!-- {{Icon Name|Comfort of Kindness|Cape|interior}} {{!}} The Cape interior -->
+{{Icon Name|Comfort of Kindness|Cape|real}} {{!}} The Cape back
+<!-- {{Icon Name|Comfort of Kindness|Cape|exterior}} {{!}} The Cape exterior -->
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines
+}}
+
+===<span id="Prop">Props</span>===
+This Seasonal Shop offers a total of two [[Props]]: a [[#Bridge Painting|Bridge Painting]] and a [[#Chandelier|Chandelier]].
+
+====Bridge Painting====
+The first [[Prop]] offered by this Shop is an oval painting depicting a bridge over a river with a thick wooden frame, decorated by three spikes on top and a single spike on the bottom<!--, costing {{Cost| ??? C}} from the Traveling Spirit-->. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, it appears as a blue bag with a yellow drawstring. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's first node ({{Cost|6 SC|season=Moomin}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Comfort of Kindness|Prop_p|icon}} {{!}} The Prop icon
+{{Icon Name|Comfort of Kindness|Prop_p|real}} {{!}} The Prop
+{{Icon Name|Comfort of Kindness|Prop_p|back}} {{!}} The Prop on a player's back
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines
+}}
+
+====Chandelier====
+The second [[Prop]] offered by this Shop is a simple bronze chandelier with four arms, each holding a white candle<!--, costing {{Cost| ??? C}} from the Traveling Spirit-->. It is a placeable Prop that can be used to decorate [[Shared Spaces]] and functions as a light source. Once placed, the player can light the candles and interact with the item to switch the light off and on. When carried on its owner's back, it appears as a blue bag with a yellow drawstring. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's third node ({{Cost|42 SC|season=Moomin}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Comfort of Kindness|Prop_c|icon}} {{!}} The Prop icon
+{{Icon Name|Comfort of Kindness|Prop_c|real}} {{!}} The Prop
+{{Icon Name|Comfort of Kindness|Prop_c|back}} {{!}} The Prop on a player's back
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines
+}}
+
+==Season Friendship Tree==
+{{Friendship Tree Info | season| season=Moomin}}<section begin="Season Friendship Tree" />
+{{Friendship Tree
+|spirit = Comfort of Kindness
+|image  = Comfort-of-Kindness-Shop.png
+|type   = season
+|season = Moomin
+
+|nodeC6 = season_heart 3 SC SP
+
+|nodeL5 = Cape SP
+|nodeC5 = spellx 32 SC
+
+|nodeL4 = spellx SP
+|nodeC4 = Neckpiece 24 SC
+
+|nodeL3 = Prop_c SP
+|nodeC3 = spellx 20 SC
+
+|nodeL2 = spellx SP
+|nodeC2 = Hair 16 SC
+
+|nodeL1 = Prop_p SP
+|nodeC1 = spellx 6 SC
+}}<section end="Season Friendship Tree" />
+
+==Trivia==
+*The Comfort of Kindness takes inspiration from both [https://www.moomin.com/en/characters/little-my/ Little My] and the [https://www.moomin.com/en/characters/hattifatteners/ Hattifatteners] in Tove Jansson's [[wp:Moomins|''Moomins'']] series.
+
+==References==
+<references />
+
+[[pt-br:Conforto da Bondade]]
+[[ja:慈愛の安らぎ]]
+[[zh:善良的慰藉]]
+[[fr:Bien-être et bonté]]

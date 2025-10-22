@@ -1,0 +1,204 @@
+{{Guide Infobox
+|image     = Little-Prince-Guide-Spirit.png
+|ultimates = {{Spirit Item||outfit_u|link=#Little Prince Ultimate Outfit|infobox}}{{Spirit Item||hair_u|link=#Little Prince Ultimate Hair|infobox}}{{Spirit Item||prop_u|link=#Little Prince Ultimate Prop|infobox}}
+|cosmetics = {{Spirit Item||outfit_i|link=#Sword Outfit|infobox}}
+|props     = 
+|season    = Little Prince
+|realm     = Vault of Knowledge
+|location  = Starlight Desert
+}}
+<section begin="Summary" />'''{{PAGENAME}}''' is a Seasonal Guide (also known as Quest Giver) from the [[Season of The Little Prince]] who offers quests and [[The Rose#Ultimate Gifts|cosmetics]]. The Rose is found floating in the middle of the [[Starlight Desert]]. The Ultimate Guide offered a {{Spirit Item||necklace_u|link=#Little Prince Ultimate Pendant|inline_text}}, a {{Spirit Item||outfit_u|link=#Little Prince Ultimate Outfit|inline_text}}, a {{Spirit Item||hair_u|link=#Little Prince Ultimate Hair|inline_text}}, and a {{Spirit Item||prop_u|link=#Little Prince Ultimate Prop|label=Little Prince Ultimate Prop|inline_text}} for [[Season Pass]] holders.<br>
+<br>
+Additionally, during the Season only, the Rose offered a {{Spirit Item||outfit_i|link=#Sword Outfit|label=Sword Outfit|inline_text}}.<section end="Summary" />
+
+==<span id="Ultimate Pendant"><span id="Little Prince Ultimate Pendant">Seasonal Pendant</span></span>==
+The Little Prince Ultimate [[Necklaces|Pendant]] is the usual gold pendant featuring the Season's emblem attached to a necklace. It was a [[Season Pass]] exclusive item during the Season, available for free from the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||necklace_u}} {{!}} Little Prince Ultimate Pendant icon
+little prince pendant.png {{!}} Little Prince Ultimate Pendant
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Ultimate Gifts==
+The Rose offered 3 Ultimate Gifts, available to be purchased by [[Season Pass]] holders with [[Currency#Season Hearts|Seasonal Hearts]] during the Season of The Little Prince only.
+
+===Little Prince Ultimate Outfit===
+The Little Prince Ultimate [[Outfit]] is a light-green jumpsuit with loose, flared sleeves and pant legs, and a white turtleneck piece. It has a purple belt and yellow, knuckle-high, triangle-shaped shoes. It was a [[Season Pass]] exclusive item during the Season, available for {{Cost|2 SH|season=Little Prince}} after unlocking the Friendship Tree's second node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||outfit_u}} {{!}} Little Prince Ultimate Outfit icon
+{{Icon Name||outfit_u|real}} {{!}} Little Prince Ultimate Outfit
+{{Icon Name||outfit_u|back}} {{!}} Little Prince Ultimate Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Little Prince Ultimate Hair===
+The Little Prince Ultimate [[Hair]] is a spiky hairstyle, mostly combed to the right, much like the Little Prince's hair in the [https://en.wikipedia.org/wiki/The_Little_Prince original book]. It was a [[Season Pass]] exclusive item during the Season, available for {{Cost|2 SH|season=Little Prince}} after unlocking the Friendship Tree's first node.<br>  
+<br>
+{{#tag:gallery
+|{{Icon Name||hair_u}} {{!}} Little Prince Ultimate Hair icon
+{{Icon Name||hair_u|real}} {{!}} Little Prince Ultimate Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Little Prince Ultimate Prop===
+The Little Prince Ultimate [[Prop]] is a glass bell jar with a red rose inside. It is a placeable music box and musical notes can be heard when touched. Upon doing so, the music notes will replace any background music. When carried on the player's back, it appears as a rose. It was a [[Season Pass]] exclusive item, available for {{Cost|2 SH|season=Little Prince}} after unlocking the Friendship Tree's third node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||prop_u}} {{!}} Little Prince Ultimate Prop icon
+{{Icon Name||prop_u|real}} {{!}} Little Prince Ultimate Prop
+sotlp_rose_on_back.png {{!}} Little Prince Ultimate Prop on player's back
+|widths=125|captionalign=center|spacing=small
+}}
+{{#ev:youtube|pjQ1lab6WXc||inline|Item Showcase}}
+
+==Additional Cosmetics==
+This item was available only during the [[Season of The Little Prince]], after the [[Season of The Little Prince#Finale|Final Quest]] had been completed.<br>'''This item is no longer available.'''
+
+===Sword Outfit===
+The Sword [[Outfit]] is a fitted, cream-coloured suit with wide cuffs, a yellow belt and a round, light-blue piece of fabric on the front of the neck. It has black, high boots and a silver sword, attached on the player's right side. Since the Sword is part of the Outfit, it is non-functional. Upon completing the [[Season of The Little Prince#Quest #7|seventh Quest]] of the Season of The Little Prince, it was available to collect for 200 {{Cost|C}} through [[The Rose]]'s Quest Tree. No [[Season Pass]] or other [[IAP]] purchase were necessary for this collaboration item. It later returned in 2025 for the [[Days of Bloom#March 2025|Sky x Le Petit Prince Encore]] event. <small>(Since this item is part of a limited collaboration, it is not scheduled to return in future years.)</small><br>
+<br>
+{{#tag:gallery
+|{{Icon Name||outfit_i}} {{!}} Sword Outfit icon
+{{Icon Name||outfit_i|real}} {{!}} Sword Outfit
+{{Icon Name||outfit_i|back}} {{!}} Sword Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Friendship Tree==
+{{PAGENAME}} Guide's Friendship Tree was available on the right of the Quest Tree during the Season of The Little Prince only. Now that the Season is over, these cosmetics are no longer available.  
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = The Rose
+|image  = Little-Prince-Guide-Spirit.png
+|type   = season
+|season = The Little Prince
+
+|nodeC4 = prop_u 2 SH AP
+|  linkC4 = The Rose#Little Prince Ultimate Prop
+
+|nodeC3 = outfit_u 2 SH AP
+|  linkC3 = The Rose#Little Prince Ultimate Outfit
+
+|nodeC2 = hair_u 2 SH AP
+|  linkC2 = The Rose#Little Prince Ultimate Hair
+
+|nodeC1 = necklace_u AP
+|  linkC1 = The Rose#Little Prince Ultimate Pendant
+}}<section end="Friendship Tree" />
+
+==Quest Tree==
+{{PAGENAME}} Guide Quest Tree is available for all players to complete quests from the Season of The Little Prince. During the Season, the hearts awarded for completing each quest were free. Since the end of the Season, players completing the Quests for the first time have to pay {{Candle|3}} to obtain these hearts. A final heart is available to where the Sword Outfit was available during the Season.
+<section begin="Quest Tree" />{{Mobile Tabber
+|tab1 = Post-season
+|c1   = {{Friendship Tree
+|spirit = The Rose
+|season = The Little Prince
+|image  = Little-Prince-Guide-Spirit.png
+
+|nodeC8 = heart
+|  noteC8 = <ref name="quest_heart"/>
+
+|nodeC7 = quest
+|  linkC7 = Season_of_The_Little_Prince#Quest_#7
+|  labelC7 = Quest 7
+
+|nodeL6 = heart
+|  noteL6 = <ref name="quest_heart"/>
+|nodeC6 = quest
+|  linkC6 = Season_of_The_Little_Prince#Quest_#6
+|  labelC6 = Quest 6
+
+|nodeL5 = heart
+|  noteL5 = <ref name="quest_heart"/>
+|nodeC5 = quest
+|  linkC5 = Season_of_The_Little_Prince#Quest_#5
+|  labelC5 = Quest 5
+
+|nodeL4 = heart
+|  noteL4 = <ref name="quest_heart"/>
+|nodeC4 = quest
+|  linkC4 = Season_of_The_Little_Prince#Quest_#4
+|  labelC4 = Quest 4
+
+|nodeL3 = heart
+|  noteL3 = <ref name="quest_heart"/>
+|nodeC3 = quest
+|  linkC3 = Season_of_The_Little_Prince#Quest_#3
+|  labelC3 = Quest 3
+
+|nodeL2 = heart
+|  noteL2 = <ref name="quest_heart"/>
+|nodeC2 = quest
+|  linkC2 = Season_of_The_Little_Prince#Quest_#2
+|  labelC2 = Quest 2
+
+|nodeL1 = heart
+|  noteL1 = <ref name="quest_heart">During the Season of The Little Prince, the hearts available from The Rose after completing each quest were free.</ref>
+|nodeC1 = quest
+|  linkC1 = Season_of_The_Little_Prince#Quest_#1
+|  labelC1 = Quest 1
+}}
+
+|tab2 = Mid-season
+|c2   = {{Friendship Tree
+|spirit = The Rose
+|type   = season
+|season = The Little Prince
+|image  = Little-Prince-Guide-Spirit.png
+
+|nodeC8 = outfit_i 200 C
+|  linkC8 = The Rose#Sword Outfit
+|  noteC8 = <ref name="outfit">The outfit was a special item only available during the [[Season of The Little Prince]].</ref> 
+
+|nodeL7 = heart free
+|nodeC7 = quest
+|  linkC7 = Season_of_The_Little_Prince#Quest_#7
+|  labelC7 = Quest 7
+
+|nodeL6 = heart free
+|nodeC6 = quest
+|  linkC6 = Season_of_The_Little_Prince#Quest_#6
+|  labelC6 = Quest 6
+
+|nodeL5 = heart free
+|nodeC5 = quest
+|  linkC5 = Season_of_The_Little_Prince#Quest_#5
+|  labelC5 = Quest 5
+
+|nodeL4 = heart free
+|nodeC4 = quest
+|  linkC4 = Season_of_The_Little_Prince#Quest_#4
+|  labelC4 = Quest 4
+
+|nodeL3 = heart free
+|nodeC3 = quest
+|  linkC3 = Season_of_The_Little_Prince#Quest_#3
+|  labelC3 = Quest 3
+
+|nodeL2 = heart free
+|nodeC2 = quest
+|  linkC2 = Season_of_The_Little_Prince#Quest_#2
+|  labelC2 = Quest 2
+
+|nodeL1 = heart free
+|nodeC1 = quest
+|  linkC1 = Season_of_The_Little_Prince#Quest_#1
+|  labelC1 = Quest 1
+}}
+}}<section end="Quest Tree" />
+
+==Trivia==
+* The Rose Music Box is a tribute to [https://en.wikipedia.org/wiki/The_Little_Prince#Rose The Rose] in the book "The Little Prince".
+* The Rose is referred to as "she" in seasonal quests. During the Fourth quest in the [[Season of The Little Prince]], the Little Prince says "I listened to my rose when she grumbled, or boasted... or even sometimes when she said nothing." 
+**The Rose is one of the few characters to be referred to with gendered pronouns. ''This is not indicative of a Spirit's canonical gender.'' See [[Ancestors#Gender|here for more information]]. 
+
+
+==References==
+<references />
+
+[[pt-br:A Rosa]]
+[[fr:La Rose]]
+[[de:Die Rose]]
+
+[[Category:Season of The Little Prince]]

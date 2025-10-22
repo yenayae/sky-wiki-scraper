@@ -1,0 +1,90 @@
+{{Season
+|title = Season of Gratitude (Beta, Limited Live)
+|image = SoG Group.png
+|spirits = 5
+|nextSeason = [[Season of Gratitude (Summer 2019)]]
+|constellation = <gallery>
+Season-of-Gratitude-Constellation.png|Vector
+SoG2 Constellation.png|Screenshot
+</gallery>
+}}
+'''''Note: This page is from [[Sky: Light Awaits]], the BETA and LIMITED LIVE version of the game prior to iOS Global Release of Sky: Children of the Light. It will remain here for archival purposes, but please see the new [[Season of Gratitude (Summer 2019)|Season of Gratitude]] page for the actual Global Live version of this season''''' 
+
+The '''Season of Gratitude''' was introduced in early April of 2019 to the beta, and released to the limited live audience in the middle of April. All Seasonal Spirits and their collectibles were available from the beginning of the season, rather than released week by week as they were in the first Winter Season in 2018.
+
+
+
+The Season of Gratitude was originally set at 37 days, but in an update on May 1st, 32 days were added, which made the Season about 2 months long.
+
+Seasonal Expressions were not intended to return to the game, so they were specialized emotes particular to the Season's theme. This Season of Gratitude was inspired by the culture of Bhutan, according to TGC in a livestream on Facebook just prior to the release of the season.
+
+== Adventure Pass ==
+[[File:SoG_AP.png|thumb]]
+The Adventure Pass returned with this Season, and unlocking the [[Seasonal_Events#Season_Pass|Adventure Pass]] gave players the ability to unlock and collect all of the cosmetics that the Seasonal Spirits had to offer. Holders of the Adventure Pass could also complete all four of the Daily Quests (two were locked for non-Adventure Pass holders), and they also received a daily Seasonal Candle along with their regular daily candle.
+
+== Seasonal Candles ==
+[[File:SoG_Season_Candles.png|thumb|132px]]
+Seasonal Candles unlocked most of the cosmetics that the Seasonal Spirits had to offer. Seasonal Candles were awarded after completion of Daily Quests. Adventure Pass holders also received a daily Seasonal Candle on the shrine in Home Space. There were also four clumps of special candles (bearing the Seasonal logo) to find each day. All in all, a total of six Seasonal Candles could be collected (one forged) per day for Adventure Pass holders.
+
+The four clumps of special Candles that one could harvest wax from to form a Seasonal Candle were always found in the same area where the Seasonal Spirit resided, in the Realm where the Daily Quests were given. While the Quests took players to other areas besides where the Seasonal Spirit for that level was found, the special candles were always found in the vicinity of the Seasonal Spirit.
+
+== Daily Quests ==
+Each day the Quest Master stood next to a different Realm's Portal, indicating where the day's Quest would take you. All collectibles for that day were achievable in the same Realm, though they didn't have to be. The Quests followed the same pattern every day:
+* Do something with/for another player (e.g. hug, high five, follow, send a gift)
+* Complete some action in the game (e.g. burn darkness / dark flower, stun crabs, face the krill, forge a candle)
+* Visit a Spirit in the given Realm
+* Pray at a Meditation Shrine in the given Realm
+** This Quest was worded in different ways, e.g. "Pray near the ice rink," "Reflect at the boneyard." It always meant to find a meditation shrine in that general area and meditate there.
+
+== Season of Gratitude (Spring 2019) Expressions ==
+For the Season of Gratitude (Spring 2019), the Seasonal Expressions were available in Prairie, Forest, Mountains, Wasteland, and Vault. ''(Note: Just prior to Global iOS release, the Season of Gratitude was repeated in beta, and with it the [[Sassy Drifter|Isle Spirit]] and the Sassy Stance were introduced. That Spirit did not appear in this original version of the Season.)''
+
+In the middle of the Season, the Wasteland cape changed from red to white.
+{{#tag:gallery
+|{{Icon Name|Stretching Guru|emote}} {{!}} {{Icon Name|Stretching Guru|emote_name}}
+{{Icon Name|Provoking Performer|emote}} {{!}} {{Icon Name|Provoking Performer|emote_name}}
+{{Icon Name|Leaping Dancer|emote}} {{!}} {{Icon Name|Leaping Dancer|emote_name}}
+{{Icon Name|Saluting Protector|emote}} {{!}} {{Icon Name|Saluting Protector|emote_name}}
+{{Icon Name|Greeting Shaman|emote}} {{!}} {{Icon Name|Greeting Shaman|emote_name}}
+|widths=75|spacing=small|captionalign=center
+}}
+
+<gallery widths="125" columns="2" spacing="small">
+SeasonGratitude18-PrairieMap.png|[[Stretching Guru|Prairie Spirit]] constellation
+SoG-Prairie-Emote2.png
+SeasonGratitude18-ForestMap.png|[[Provoking Performer|Forest Spirit]] constellation
+SoG-Forest-Emote2.png
+SeasonGratitude18-ValleyMap.png|[[Leaping Dancer|Valley Spirit]] constellation
+SoG-Valley-Emote2.png
+SeasonGratitude18-WastelandMap.png|[[Saluting Protector|Wasteland Spirit]] constellation
+SoG-Wasteland-Emote2.png
+SeasonGratitude18-VaultMap.png|[[Greeting Shaman|Vault Spirit]] constellation
+SoG-Vault-Emote2.png
+</gallery>
+
+== Season's End ==
+Along with the standard animation of the Seasonal Ancestor's taking their leave, players also received a gift when they finished collecting all of the collectibles within the Seasonal Spirit Shops.
+[[File:Mask20-Seasonal SoG 2019.png|none|thumb|157x157px]]
+[[File:Sky Light Awaits (Beta 0.4.8) Season of Gratitude Ending Scene|none|thumb|330x330px]]
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+SoG Sky Home.png
+SoG Sky Prairie.png
+SoG Sky Forest.png
+SoG Sky Valley.png
+SoG Sky Wasteland.png
+SoG-guiding-promo-image.png
+SoG-Instrument-promo-image.png
+</gallery>
+
+==Navigation==
+{{Navigation Box}}
+{{Seasonal Navbox}}
+
+[[pt-br:Temporada_da_Gratidão_(Primavera_de_2019)]]
+[[fr:Saison de la Gratitude (Printemps 2019)]]
+
+[[Category:Sky: Light Awaits]]
+
+{{DEFAULTSORT:Gratitude (Spring 2019), Season of}}

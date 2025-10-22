@@ -1,0 +1,99 @@
+{{Spirit Infobox
+|type      = Non
+|image     = Vestige-of-a-Deserted-Oasis-Shop.png
+|emote_type= None
+|cosmetics = {{Spirit Item|Vestige of a Deserted Oasis|Shoes|infobox}}{{Spirit Item|Vestige of a Deserted Oasis|Hair|infobox}}{{Spirit Item|Vestige of a Deserted Oasis|Cape|infobox}}
+|season    = Revival
+|location  = Aviary Village
+|ts        = None
+}}
+<section begin="Summary" />The '''Vestige of a Deserted Oasis''' is a [[Ancestors#Seasonal Entities|Seasonal Shop]] from the [[Season of Revival]]. The Vestige of a Deserted Oasis is found within the left-most building in [[Aviary Village]], marked outside by a sign with Revival's emblem. The collectibles offered by this Shop are {{Spirit Item|Vestige of a Deserted Oasis|shoes|inline_text}}, a {{Spirit Item|Vestige of a Deserted Oasis|Hair|inline_text}}, and a {{Spirit Item|Vestige of a Deserted Oasis|Cape|inline_text}}.<section end="Summary" />
+
+==Cosmetics==
+===<span id="shoes">Shoes</span>===
+The [[Shoes]] offered at this Shop are a pair of beige sandals with ankle-high cross straps.<!-- costing {{Cost|? C}} from the Traveling Spirit (?).--> It was available to all players during the Season from the Friendship Tree's third node ({{Cost|82 SC|season=Revival}} total).
+{{#tag:gallery
+|{{Icon Name|Deserted Oasis|shoes}} {{!}} The Shoes icon
+{{Icon Name|Deserted Oasis|shoes|real}} {{!}} The Shoes
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="hair">Hair</span>===
+The [[Hair]] offered at this Shop is a short cut with sideswept bangs.<!-- costing {{Cost|? C}} from the Traveling Spirit (?).--> It was available to all players during the Season from the Friendship Tree's first node ({{Cost|16 SC|season=Revival}} total).
+{{#tag:gallery
+|{{Icon Name|Deserted Oasis|Hair}} {{!}} The Hair icon
+{{Icon Name|Deserted Oasis|Hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="cape">Cape</span>===
+The [[Cape]] offered at this Shop has a blocky purple gradient that fades from light to dark with gold accents, a fluffy white trim, and a white interior.<!-- costing {{Cost|? C}} from the Traveling Spirit (?).--> It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|44 SC|season=Revival}} total).
+{{#tag:gallery
+|{{Icon Name|Deserted Oasis|Cape}} {{!}} The Cape icon
+{{Icon Name|Deserted Oasis|Cape|front}} {{!}} The Cape front
+{{Icon Name|Deserted Oasis|Cape|interior}} {{!}} The Cape interior
+{{Icon Name|Deserted Oasis|Cape|real}} {{!}} The Cape back
+{{Icon Name|Deserted Oasis|Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Season Friendship Tree==
+This [[Friendship Tree (Seasonal)|Friendship Tree]] provides the [[collectibles]] sold by this [[Season of Revival#Shops_&_Cosmetics|Shop]] during the [[Season of Revival]]. This Tree can no longer be accessed. However, the items listed here will be available for purchase when the Shop returns as a [[Traveling Spirit]] - or in some other form.
+
+It is currently unknown how these items will return after the Season of Revival has ended. Because the Vestige of a Deserted Oasis was not a Seasonal Spirit, either the Traveling Spirit system would have to be modified to allow for non-Spirits, or else thatgamecompany will have to introduce another mechanism for obtaining past-Season cosmetics.
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Vestige of a Deserted Oasis
+|image  = Vestige-of-a-Deserted-Oasis-Shop.png
+|type   = season
+|season = Revival
+
+|nodeC4 = season_heart 3 SC SP
+
+|nodeL3 = spellx SP
+|nodeC3 = shoes 38 SC
+
+|nodeL2 = cape SP
+|nodeC2 = spellx 28 SC
+
+|nodeL1 = spellx SP
+|nodeC1 = hair 16 SC
+}}<section end="Season Friendship Tree" />
+
+==In Other Languages==
+{{Help|lang}}
+{{Other Languages|title=Vestige of a Deserted Oasis
+|fr            = Vestige d'une oasis désertée
+|fr_meaning    = Vestige of a Deserted Oasis
+|ja            = 寂れたオアシスの面影
+|ja_rom        = Sabireta Oashisu no Omokage
+|ja_meaning    = Vestige of a Deserted Oasis
+|id            = 
+|id_meaning    =
+|de            = Überreste einer verlassenen Oase
+|de_meaning    = Remains of an Abandoned Oasis
+|vi            =
+|vi_meaning    =
+|ko            = 버려진 오아시스의 흔적
+|ko_rom        = Beolyeojin Oasiseu-ui Heunjeog
+|ko_meaning    = Traces of an Abandoned Oasis
+|es            = Vestigio de un oasis desierto
+|es_meaning    = Vestige of a Deserted Oasis
+|it            = Vestigio di un'oasi deserta
+|it_meaning    = Vestige of a Deserted Oasis
+|pt            = Vestígio de um oásis deserto
+|pt_meaning    = Vestige of a Deserted Oasis
+|ru            = Останки заброшенного оазиса
+|ru_rom        = Ostanki zabroshennogo oazisa
+|ru_meaning    = Remains of an Abandoned Oasis
+|zh_cn         =
+|zh_cn_meaning =
+|zh_tw         =
+|zh_tw_meaning =
+}}
+
+==References==
+<references />
+
+[[fr:Vestige d'une oasis désertée]]
+[[pt-br:Vestígio de um Oásis Deserto]]
+[[Category:Season of Revival]]

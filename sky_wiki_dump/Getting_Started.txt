@@ -1,0 +1,77 @@
+{{WIP}}
+==Welcome to Sky!==
+[[File:Welcome To Sky A Traveler's Guide|thumb|right|256px]]
+Welcome to the game! Now that you have completed the tutorial and earned your cape, what's next?    
+
+If you have played any of thatgamecompany's (TGC) previous games, you will be familiar with the soothingly quiet and simple game style, with beautiful music and equally breathtaking graphics, and moving a character around a stunning world. The minimalistic controls allow you to go with the flow of the game, finding the story within your surroundings, maybe even meeting other real-time players and communicating with calls and Expressions as well as other social features such as Chat. A nice, pleasant, and simple adventure-based game. Sure there are some sorts of danger and scary encounters at times, but for the most part, no enemies, no blood, no battle, all in all, no violence. It's a game to sit back, relax, and enjoy playing.
+<br><br>
+[[File:Sky Children of the Light Guide - All You Need to Know in 5 Minutes|thumb|right|256px|A video made by kura_riki on Discord]]
+With ''Sky: Children of the Light'', TGC is offering something different. The beautiful music and stunning graphics are still there. But there is new a level of complexity and free-play experience that was not there in ''Flow'', ''Flower'', or ''Journey'', and it's easy to feel a bit overwhelmed with the controls, the maps, and all of the people and characters, throughout the game! Although Annapurna Interactive ported ''Flower'' and ''Journey'' to iOS in September 2017 and August 2019 respectively, ''Sky: Children of the Light'' is TGC's first game developed for release on iOS and later published on Android, Nintendo Switch, PlayStation and Steam.
+{{Clear}}
+
+==Basic Controls==
+The game does a fair job of walking you through the controls in the in-game tutorial, which also happens to be in the Sky's first realm, [[Isle of Dawn]]. You can adjust the settings by tapping the upper right corner of the screen and selecting Control. For a detailed and advanced breakdown of the game controls, visit [[Menus and Controls|this page]].
+
+==Collecting Light==
+Sky is all about navigating the [[Realms]], using your flight power to reach new locations. When you first join the game, you are directed to the [[Isle of Dawn]] to begin earning your wings in the form of a cape. Along your journey, you will find [[Children of Light]] scattered throughout the realms, which take the form of a glowing yellow Child of Light. Collect these to upgrade your cape and eventually gain more Cape Energy and flight duration. As you play more, you'll be able to access even more Winged Light; so be sure to go back through and check every realm. Collect as many Winged Light as you can, from the six main Realms and bring them to the [[Eye of Eden|Eye of Eden (Spoiler Warning!)]]. For walkthroughs on how to find all of the Winged Light, visit the [[Winged Light]] page.
+
+==Reliving Spirit Memories==
+In each Realm, there are several [[Regular Spirits|Spirits]] scattered throughout the map, which take the form of glowing blue figures. Light a spirit with your candle and follow the Spirit's trail to earn an [[Expression]] (this could also be a Stance or a Call). Complete the Realm by watching the final Elder cutscene in the Temple to see the Spirit in your Constellation at [[Home]].
+
+Various areas in each Realm are locked behind Spirit Gates, which will not let you enter until you've unlocked the required amount of Spirits. The more Spirits you find, the more areas you will be able to access. Some Spirit Gates require you to have unlocked Spirits in realms you haven't reached yet, thus making it important to play through the Realm multiple times.
+
+==Multiplayer==
+You are going to meet people in Sky. A lot of people. Other players start out as dark silhouettes until you have exchanged light with them by holding your candles up together. The game allows for eight players in one area at a time, and players can come and go freely between the Realms once they have successfully completed the [[Valley of Triumph]]. Before this point, players will need to use the Return Shrine at Home. 
+
+===Usernames===
+Players do not choose their own names in the game. When you [[Making Friends|make friends]] with someone, you can either choose a name for them or let the game assign a random name. You can edit the name at any time either by tapping the pencil icon or the friend's name in the Friend Menu.  
+
+===Chat===
+Chat is an optional part of the game, and is available in different ways:
+
+*Public Chat Benches. These are scattered throughout the Realms to sit down with a friend and chat for a limited amount of time. One of the players must light a candle in order to use these Chat Benches. If the candle extinguishes while chatting, one of the players will have to offer another candle from their inventory.
+*The Chat Table item, The Chat Seesaw, the Chat Bonfire, and the Chat Swing. These items allow you to chat freely with friends or strangers for an unlimited time.
+*The Chat Spells. It can be purchased through Spirit Shops and will allow the player to place a one-time-use Chat Table or Chat Swing. For more information, see the [[Blessings (Spells)|Blessings and Spells]] page.
+*The Chat Friend Action. This ability can be unlocked with specific friends through spending candles in the Friend Menu or be unlocked without the need to spend candles by adding someone via their QR/Friend code and is the only private way to chat without running the risk of strangers overhearing. Read more on the [[Making Friends]] page
+
+'''If you do not have chat open with a particular player, you will see a "....." onscreen caption representing the player’s chat, rather than actual words.'''
+
+In the [[Sky for iOS and macOS|iOS Settings for Sky]], there is a toggle switch to disable public chat. This will disable chat at all chat benches and other chat props (swing, chairs, tables, etc.) but will not disable chat that you have unlocked with friends.
+
+==Saving progress==
+While game progress is saved on your device as you play, it is very important to note that your progress in Sky: Children of the Light is only backed up by linking your game with:  
+
+*Game Center
+*Google Account
+*Facebook account
+*Apple ID
+*Nintendo Account
+*HUAWEI ID
+*Account for PlayStation™ Network
+*Steam Account
+
+All of this is done in the Gear Menu – accessed from the upper right corner of the screen. 
+
+There, players will also find their "Sky ID", (a long hash code) which is also a way to restore your account. However, this will require help from a TGC representative, and cannot be done on your own. (As a note, <u>NEVER</u> share your Sky ID unless a TGC representative tells you to)
+
+Therefore, linking an outside account is the surest and easiest way to retrieve your game progress if you have to delete and reinstall the app or switch devices. For instance, there may be instances when the TGC support team advises a user to reinstall the app as a troubleshooting step.
+
+More in-depth information on devices can be found on those pages: {{DevicesNav}}
+
+==Further Resources==
+*[[Frequently Asked Questions (FAQ)]]
+*[[Glossary of Terms]]
+
+{{Navigation Box}}
+
+[[de:Aller Anfang ist schwer]]
+[[es:Comenzar]]
+[[fr:Débuter]]
+[[ko:TGC보다 잘 쓴 게임 소개글]]
+[[pt-br:Começando]]
+[[ru:Самое начало]]
+[[zh-hant:旅程開始]]
+[[ja:はじめに]]
+
+[[Category:Page Maintenance/New Device]]
+[[Category:Basic Guides]]

@@ -1,0 +1,585 @@
+[[Instruments]] in Sky play [[music]] in different '''music keys''', so that all player music blends well with other music in the environment. These key changes happen automatically so that most players do not have to worry about it. However, experienced musicians may want to understand or control their instrument's key.
+
+If you have selected a [[Music Sheet]] (or if someone nearby has selected one), your instrument's key will always be determined by the music sheet; see [[Music Sheets]] for all their keys.  Otherwise, your instrument's key matches the [[Original Sound Track|background music]], based on your current location, as detailed in [[#Finding Keys|Finding Keys]]
+
+You can pause your key at any time by completely lowering the volume of the background music in the Audio Settings in-game.
+
+[[File:Setting-menu-audio.png|x160px|thumb|none|Audio Settings]]
+
+==Finding Keys==
+Aside from selecting a [[Music Sheet]] to change your instrument's key, you can also get specific keys by going to certain areas that have the right notes in their background music. Below, you'll find suggested locations for specific keys. However, these are not the only places that support a specific key of your choice, though notably the most convenient.
+
+Here is an infographic summarising this section, made by clement8978 on Discord.
+[[File:Finding musical major scales in Sky by Clement.png|alt=An infographic depicting common areas where you can find each major scale in Sky|none|thumb|580x580px|Infographic by clement8978 on Discord (posted with permission)]]
+If you prefer a video, here's a guide to help:[[File:Where to find all 12 major scales - Sky- Children of the Light|thumb|330x330px|none]]The [[Original Sound Track]] (OST) page does include the in-game keys for some tracks. If you are familiar with the game locations of the tracks and have access to the OST, that page may also be helpful.
+
+===C major===
+<!-- Only list music sheets that are always available -->
+The majority of music sheets are in C major. These include Music Sheets {{Music Sheet|1|inline_text|label=1}}, {{Music Sheet|2|inline_text|label=2}}, {{Music Sheet|3|inline_text|label=3}}, {{Music Sheet|HH3|inline_text|label=HH3}}, {{Music Sheet|HH4|inline_text|label=HH4}}, {{Music Sheet|HH5|inline_text|label=HH5}}, and others.
+Some places that give you the C major key include:
+*[[Home|Homespace]].
+*The Villages in [[Daylight Prairie#Eight Player Puzzle|Daylight Prairie]] before activating the bells.
+*The Nightbird Whisperer cave in Prairie Peaks in [[Daylight Prairie#Eight Player Puzzle|Daylight Prairie]].
+*The Underground Cavern in [[Hidden Forest#Forest Temple|Hidden Forest]].
+*The Temple in [[Hidden Forest#Forest Temple|Hidden Forest]]. Mute the background music.
+*The Harmony Hall by entering through [[Valley of Triumph#Citadel|Valley of Triumph]] or [[Aviary Village]]. Use the loop machine to set your key.
+*The Treasure Reef in [[Golden Wasteland#Graveyard|Golden Wasteland.]]
+*The Archives in [[Vault of Knowledge#First Floor .28Main.29|Vault of Knowledge]].
+
+{{Instrument Notes|C|D|E|F|G|A|B|C|D|E|F|G|A|B|C}}
+{{Instrument Notes|C|D|E|F|G|A|B|C|D|E|F|G|A|B|C|type=handpan}}
+{{Instrument Notes|C|D|E|F|G|A|B|C|D|E|F|G|A|B|C|type=bell}}
+{{Clear}}
+
+===C♯/D♭ major===
+C sharp/D flat major is the key used when playing Music Sheet {{Music Sheet|34|inline_text|label=34}}.
+
+Two spots that give the C♯/D♭ major key:
+*The starting point for the 8-player puzzle in [[Daylight Prairie#Eight Player Puzzle|Daylight Prairie]]
+*The Boneyard in [[Hidden Forest#Broken Bridge and Boneyard|Hidden Forest]]. Mute the background music.
+
+{{Instrument Notes|D♭|E♭|F|G♭|A♭|B♭|C|D♭|E♭|F|G♭|A♭|B♭|C|D♭|major=C♯/D♭}}
+{{Instrument Notes|D♭|E♭|F|G♭|A♭|B♭|C|D♭|E♭|F|G♭|A♭|B♭|C|D♭|major=C♯/D♭|type=handpan}}
+{{Instrument Notes|D♭|E♭|F|G♭|A♭|B♭|C|D♭|E♭|F|G♭|A♭|B♭|C|D♭|major=C♯/D♭|type=bell}}
+{{Clear}}
+
+===D major===
+D major is the key used when playing Music Sheets {{Music Sheet|28|inline_text|label=28}}, {{Music Sheet|37|inline_text|label=37}}, {{Music Sheet|E1|inline_text|label=E1}}, and {{Music Sheet|HH1|inline_text|label=HH1}}.
+
+Here are four areas which will set your key to D major:
+*Go through the portal to [[Daylight Prairie]] from Home.
+*The Temple in [[Valley of Triumph#Temple|Valley of Triumph]].
+*The Battlefield in [[Golden Wasteland#Battlefield|Golden Wasteland]].
+
+{{Instrument Notes|D|E|F♯|G|A|B|C♯|D|E|F♯|G|A|B|C♯|D}}
+{{Instrument Notes|D|E|F♯|G|A|B|C♯|D|E|F♯|G|A|B|C♯|D|type=handpan}}
+{{Instrument Notes|D|E|F♯|G|A|B|C♯|D|E|F♯|G|A|B|C♯|D|type=bell}}
+{{Clear}}
+
+===D♯/E♭ major===
+D sharp/E flat major is the key used when playing Music Sheets {{Music Sheet|8|inline_text|label=8}}, {{Music Sheet|12|inline_text|label=12}}, {{Music Sheet|13|inline_text|label=13}}, and {{Music Sheet|33|inline_text|label=33}}.
+
+Here are three spots for playing with the key E♭ major:
+*The Forest's Brook in [[Hidden Forest#Forest.27s Brook|Hidden Forest]]. Mute the background music.
+*The Broken Temple in [[Winged Light (Children of Light)|Golden Wasteland]].
+*The Crescent Oasis in [[Vault of Knowledge#First Floor .28Main.29|Vault of Knowledge]].
+*The Shard Memories from [[Season of Shattering#Spirit Memory Quests| Season of Shattering Quests]].
+
+{{Instrument Notes|E♭|F|G|A♭|B♭|C|D|E♭|F|G|A♭|B♭|C|D|E♭|major=D♯/E♭}}
+{{Instrument Notes|E♭|F|G|A♭|B♭|C|D|E♭|F|G|A♭|B♭|C|D|E♭|major=D♯/E♭|type=handpan}}
+{{Instrument Notes|E♭|F|G|A♭|B♭|C|D|E♭|F|G|A♭|B♭|C|D|E♭|major=D♯/E♭|type=bell}}
+{{Clear}}
+
+===E major===
+If you have {{Music Sheet|16|inline_text}}, this is the most convenient way to get the E major key.
+
+The Treehouse in [[Hidden Forest]], added in the [[Season of Assembly]], also plays E major after the music finishes. If you have finished all seasonal quests, you can also just go to that area. 
+
+Otherwise, you can go to the [[Eye_of_Eden#Ascent_and_Orbit|end of '''Orbit''']], in the place where you exchange your stars for candles. (Don't walk too far into the level as the music will change.)
+
+By using a technique (pausing your key) demonstrated in the video linked above, you can also play with E major in [[Eye of Eden|Eden]]. However, this requires being able to tell notes by ear. When the desired key is achieved (tested by playing an instrument), pause the in-game music by simply going to the Audio Settings and turning off the music.
+
+{{Instrument Notes|E|F♯|G♯|A|B|C♯|D♯|E|F♯|G♯|A|B|C♯|D♯|E}}
+{{Instrument Notes|E|F♯|G♯|A|B|C♯|D♯|E|F♯|G♯|A|B|C♯|D♯|E|type=handpan}}
+{{Instrument Notes|E|F♯|G♯|A|B|C♯|D♯|E|F♯|G♯|A|B|C♯|D♯|E|type=bell}}
+{{Clear}}
+
+===F major===
+F major is the key used when playing Music Sheets {{Music Sheet|22|inline_text|label=22}}, {{Music Sheet|25|inline_text|label=25}}, {{Music Sheet|27|inline_text|label=27}}, and {{Music Sheet|29|inline_text|label=29}}.
+
+The places that support F major include:
+* The Shops in [[Aviary Village]].
+* The Elevated Clearing in [[Hidden Forest#Sunny Forest|Hidden Forest]]. Mute the background music.
+*The Citadel in [[Valley of Triumph#Citadel|Valley of Triumph]].
+*The Village Theater in [[Valley of Triumph#Citadel|Valley of Triumph]].
+*The first Floor in [[Vault of Knowledge#First Floor .28Main.29|Vault of Knowledge]].
+*The Repository of Refuge in [[Vault of Knowledge#First Floor .28Main.29|Vault of Knowledge]].
+
+{{Instrument Notes|F|G|A|B♭|C|D|E|F|G|A|B♭|C|D|E|F}}
+{{Instrument Notes|F|G|A|B♭|C|D|E|F|G|A|B♭|C|D|E|F|type=handpan}}
+{{Instrument Notes|F|G|A|B♭|C|D|E|F|G|A|B♭|C|D|E|F|type=bell}}
+{{Clear}}
+
+===F♯/G♭ major===
+The most convenient quiet place with F sharp/G flat major is the Boneyard in [[Hidden Forest]], after the Jellyfish have been released and the background music has finished. Though, there is also a section of the background music in the 8-player elevator in [[Daylight Prairie]] where the key for the instruments is G♭ major.
+
+{{Instrument Notes|G♭|A♭|B♭|C♭|D♭|E♭|F|G♭|A♭|B♭|C♭|D♭|E♭|F|G♭|major=F♯/G♭}}
+{{Instrument Notes|G♭|A♭|B♭|C♭|D♭|E♭|F|G♭|A♭|B♭|C♭|D♭|E♭|F|G♭|major=F♯/G♭|type=handpan}}
+{{Instrument Notes|G♭|A♭|B♭|C♭|D♭|E♭|F|G♭|A♭|B♭|C♭|D♭|E♭|F|G♭|major=F♯/G♭|type=bell}}
+{{Clear}}
+
+===G major===
+G major is the key used when playing Music Sheets {{Music Sheet|35|inline_text|label=35}}, {{Music Sheet|E2|inline_text|label=E2}}, and {{Music Sheet|HH2|inline_text|label=HH2}}.
+
+A place with G major is the clearing/Social Area in [[Hidden Forest]] after the background music has finished.<br>You can also go to the start of [[Isle of Dawn]].
+
+{{Instrument Notes|G|A|B|C|D|E|F♯|G|A|B|C|D|E|F♯|G}}
+{{Instrument Notes|G|A|B|C|D|E|F♯|G|A|B|C|D|E|F♯|G|type=handpan}}
+{{Instrument Notes|G|A|B|C|D|E|F♯|G|A|B|C|D|E|F♯|G|type=bell}}
+{{Clear}}
+
+===G♯/A♭ major===
+You can get the G sharp/A flat major key in the Coliseum in [[Valley of Triumph]] after completing either race, and waiting for the background music to finish.
+
+{{Instrument Notes|A♭|B♭|C|D♭|E♭|F|G♭|A♭|B♭|C|D♭|E♭|F|G♭|A♭|major=G♯/A♭}}
+{{Instrument Notes|A♭|B♭|C|D♭|E♭|F|G♭|A♭|B♭|C|D♭|E♭|F|G♭|A♭|major=G♯/A♭|type=handpan}}
+{{Instrument Notes|A♭|B♭|C|D♭|E♭|F|G♭|A♭|B♭|C|D♭|E♭|F|G♭|A♭|major=G♯/A♭|type=bell}}
+{{Clear}}
+
+===A major===
+A major is the key used when playing {{Music Sheet|30|inline_text}}.
+
+An area with the key A major is the fourth Floor in [[Vault of Knowledge#Fourth floor|Vault of Knowledge]].
+
+{{Instrument Notes|A|B|C♯|D|E|F♯|G♯|A|B|C♯|D|E|F♯|G♯|A}}
+{{Instrument Notes|A|B|C♯|D|E|F♯|G♯|A|B|C♯|D|E|F♯|G♯|A|type=handpan}}
+{{Instrument Notes|A|B|C♯|D|E|F♯|G♯|A|B|C♯|D|E|F♯|G♯|A|type=bell}}
+{{Clear}}
+
+===A♯/B♭ major===
+A sharp/B flat major is the key used when playing {{Music Sheet|11|inline_text}}.
+
+A place with A sharp/B flat major is the after-Temple area in [[Hidden Forest#Forest End|Hidden Forest]], after the background music has finished.
+
+{{Instrument Notes|B♭|C|D|E♭|F|G|A|B♭|C|D|E♭|F|G|A|B♭|major=A♯/B♭}}
+{{Instrument Notes|B♭|C|D|E♭|F|G|A|B♭|C|D|E♭|F|G|A|B♭|major=A♯/B♭|type=handpan}}
+{{Instrument Notes|B♭|C|D|E♭|F|G|A|B♭|C|D|E♭|F|G|A|B♭|major=A♯/B♭|type=bell}}
+{{Clear}}
+
+===B major===
+If you have Music Sheet {{Music Sheet|20|inline_text|label=20}} or {{Music Sheet|36|inline_text|label=36}}, this is the most convenient way to get the B major key.
+
+Otherwise, you'll need to use a technique called "pausing your key" to play an instrument with this key. To do this, you'll need to be able to tell notes by ear. When the desired key is achieved (tested by playing an instrument), you can turn off the background music in Audio settings, at the right moment, to pause your key.
+
+B major is part of the background music in:
+* The Boneyard in [[Hidden Forest]]. Activate the Jellyfish - the beginning of the music will be in B major.
+* Towards the end of a race in [[Valley of Triumph]]. A section towards the end of the music is in B major.
+*The second Floor of [[Vault of Knowledge]]. A section of the music will be in B major.
+
+{{Instrument Notes|B|C♯|D♯|E|F♯|G♯|A♯|B|C♯|D♯|E|F♯|G♯|A♯|B}}
+{{Instrument Notes|B|C♯|D♯|E|F♯|G♯|A♯|B|C♯|D♯|E|F♯|G♯|A♯|B|type=handpan}}
+{{Instrument Notes|B|C♯|D♯|E|F♯|G♯|A♯|B|C♯|D♯|E|F♯|G♯|A♯|B|type=bell}}
+{{Clear}}
+
+==Sound Effects==
+A lot of sounds are in tune with your key, including the call of your voice, the sound of forging candles, and some Expressions:
+{{#tag:gallery
+|{{Icon Name|thinking}}
+{{Icon Name|respect}}
+{{Icon Name|handstand}}
+{{Icon Name|laughing light catcher}}
+{{Icon Name|curtsy}}
+{{Icon Name|stretching guru}}
+|widths=60|spacing=small
+}}
+In an [https://fmod.com/blog/sky-children-of-the-light-interview interview with FMOD], the Sky sound designer mentioned this technical detail.
+
+::'''Which technical detail are you most proud of?'''<br>'''Ritsu:''' The tone of many sound effects are pitch shifted in real-time according to the music key. This avoided subconscious player discomfort caused by discord between music and sound effect.
+
+==Key by Location==
+Note that an area which has no background music will not set your key to a new one.
+{| class="fandom-table sortable"
+!Realm
+!Area
+!Key(s)
+!Notes
+|-
+|[[Home]]
+|[[Home]]
+| -
+|Will use the key from where you last were. If you've just opened Sky, it will use the key from the loading screens, i.e. C.
+|-
+| rowspan="6" |[[Aviary Village]]
+|[[Aviary Village|Village Plaza]]
+|B, G, E, F, G♭, D, C
+|During Sunrise, Fog, or Nighttime lighting in the [[Aviary Village#Day/Night Cycle|Day/Night Cycle]], the key is B.
+|-
+|[[Aviary Village#Aviary Village Nests|Nest]]
+| -
+|
+|-
+|[[Aviary Village#Aviary Shops|Aviary Shops]]
+|F
+|
+|-
+|[[Concert Hall]]
+| -
+|
+|-
+|[[Aviary Village#Nesting Workshop|Nesting Workshop]]
+|F
+|
+|-
+|[[Aviary Village#Aviary Village Cafe|Aviary Village Cafe]]
+|B♭, F, A, B, D, C
+|Finishes on F
+|-
+| rowspan="6" | [[Isle of Dawn]]
+|[[Isle of Dawn#Mural Cave|Mural Cave]]
+| G
+|
+|-
+|[[Isle of Dawn#Sand Dunes|Sand Dunes]]
+|G
+|
+|-
+|[[Isle of Dawn#Isle Temple|Isle Temple]]
+|D♭, A♭, C
+|Predominantly D♭
+|-
+|[[Isle of Dawn#Butterfly Cave|Butterfly Cave]]
+|G
+|
+|-
+|[[Isle of Dawn#Cave of Prophecies|Cave of Prophecies]]
+|C, D♭, D, G, B♭, F
+|Will use the key from the music that triggers when the door is opened, otherwise it will not set your key into a new one.
+|-
+|[[Isle of Dawn#Passage Stone|Passage Stone]]
+|B, B♭, A♭, E
+|Loops but is E for most of the song.
+|-
+| rowspan="8" |[[Daylight Prairie]]
+|[[Daylight Prairie#Butterfly Fields|Butterfly Fields]]
+|D
+|
+|-
+|[[Daylight Prairie#Caves|Caves]]
+| -
+| Will use your key from where you last were. If you've traveled from Prairie Social Space & Butterfly Fields, the background music will still play.
+|-
+|[[Daylight Prairie#Bird Nest|Bird Nest]]
+| -
+| Will use your key from where you last were. If you've traveled from Prairie Social Space & Butterfly Fields, the background music will still play.
+|-
+|[[Daylight Prairie#Prairie Village|Villages]]
+|C, F, B♭, D
+|Before the bells are activated, the key is C.
+|-
+|[[Daylight Prairie#Eight-Player Puzzle Area|Eight-Player Puzzle]]
+|D♭, G♭
+|Will finish on D♭ after background music is finished.
+|-
+|[[Daylight Prairie#Prairie Temple|Prairie Temple]]
+| -
+|
+|-
+|[[Daylight Prairie#Sanctuary Islands|Sanctuary Islands]]
+| A♭, D♭, A, D, G
+|When inside the caves, the key switches frequently between A and D with G briefly near the end of the song.
+|-
+|[[Daylight Prairie#Prairie Peaks|Prairie Peaks]]
+|All keys are present 
+|Upon entering the area, the key switches between multiple keys until it finishes on D. The key is C in the [[Nightbird Whisperer]] cave and G♭ in the [[Jolly Geologist]] cave. Note that the key will also switch whenever the area's lighting changes to Sunrise, Sunset, and Night.
+|-
+| rowspan="11" |[[Hidden Forest]]
+|[[Hidden Forest#Forest Clearing|Forest Clearing]]
+|D, G, A, C, B♭
+|Will finish on G once the background music has finished.
+|-
+|[[Hidden Forest#Forest's Brook|Forest's Brook]]
+|E♭, C
+|Loops but is E♭ for most of the song.
+|-
+|[[Hidden Forest#Tree Tunnels|Tree Tunnels]]
+|D♭, C, A♭
+|Finishes on D♭
+|-
+|[[Hidden Forest#Boneyard|Boneyard]] 
+|D♭, C, A♭, F, E♭, B♭, G♭, B, G
+|Will finish on D♭ in the music when you hit the cutscene before the first manta trapped in darkness. When you light the jellyfish path, it will trigger a soundtrack mostly in B.
+|-
+|[[Hidden Forest#Sunny Forest|Elevated Clearing]]
+|C, F, B♭
+|The key switches frequently between C and F with B♭ briefly in the middle of the song until it finishes on F.
+|-
+|[[Hidden Forest#Underground Cavern|Underground Cavern]]
+|C
+|
+|-
+|[[Hidden Forest#Forest Temple|Forest Temple]]
+|F, E♭, C
+|Will finish on C
+|-
+|[[Hidden Forest#Forest End|Forest End]]
+|G, E♭, C, D, B♭
+|Will finish on B♭
+|-
+|[[Hidden Forest#The Treehouse|The Treehouse]]
+|E, C, G, B♭, E♭ 
+|Will finish on E
+|-
+|[[Hidden Forest#The Wind Paths|The Wind Paths]]
+|F, B♭, D, C, E♭, G♭
+|Starts on F, B♭, then loops through D, C, F, E♭ and G♭.
+|-
+|[[Season of the Blue Bird#Blue Bird Theater|Blue Bird Theater]]
+|D
+|
+|-
+| rowspan="11" |[[Valley of Triumph]]
+|[[Valley of Triumph#Ice Rink|Ice Rink]]
+| A, D♭, C, D, B♭, A♭, G♭, F, G, E♭
+|In the sliding part at the start, the song loops until you enter the tunnel. Then it will use your key from that moment.
+|-
+|[[Valley of Triumph#Sliding Race|Sliding Race]]
+| F, E♭, B♭, D, C, A♭, G
+|Same as Flying Race. In the room before starting the race, the music loops until you slide down the slope.
+|-
+|[[Valley of Triumph#Citadel|Citadel]]
+|F, E♭
+|Predominantly F
+|-
+|[[Valley of Triumph#Flying Race|Flying Race]]
+|
+|Same as Sliding Race
+|-
+|[[Valley of Triumph#Coliseum|Coliseum]] 
+| A♭
+|After the background music finishes, it is A♭.
+|-
+|[[Valley of Triumph#Valley Temple|Valley Temple]]
+|D
+|
+|-
+|[[Valley of Triumph#Maze|Valley Temple Maze]]
+|
+|Same as Valley Temple
+|-
+|[[Valley of Triumph#Village of Dreams|Village of Dreams]]
+|D♭, F
+|Same as Citadel song after intro 
+|-
+|[[Valley of Triumph#Hermit Valley|Hermit Valley]]
+|
+|Same as Flying Race and Sliding Race
+|-
+|[[Valley of Triumph#Village Theater|Village Theater]]
+|F
+|
+|-
+|[[Valley of Triumph#Harmony Hall|Harmony Hall]]
+| -
+|No background music, but will use the key of C when using the Jam Station.
+|-
+| rowspan="9" |[[Golden Wasteland]]
+|[[Golden Wasteland#Broken Temple|Broken Temple]]
+|E♭, D♭
+|Finishes on E♭
+|-
+|[[Golden Wasteland#First Krill Area|First Krill Area]]
+| -
+|
+|-
+|[[Golden Wasteland#Graveyard|Graveyard]]
+| -
+|
+|-
+|[[Golden Wasteland#Crab Fields|Crab Fields]]
+| -
+|
+|-
+|[[Golden Wasteland#Battlefield|Battlefield]]
+|D
+|
+|-
+|[[Golden Wasteland#Wasteland Temple|Wasteland Temple]]
+| -
+|
+|-
+|[[Golden Wasteland#Nintendo Switch Area|Nintendo Switch Area]]
+|D♭ 
+|
+|-
+|[[Golden Wasteland#Forgotten Ark|Forgotten Ark]]
+|E♭, A♭
+|Depends on which quests you have finished. 
+|-
+|[[Golden Wasteland#Treasure Reef|Treasure Reef]]
+|C
+|
+|-
+| rowspan="13" |[[Vault of Knowledge]]
+|[[Vault of Knowledge#First Floor|First Floor]]
+| F
+|
+|-
+|[[Vault of Knowledge#Second Floor|Second Floor]]
+|D, F, B
+|
+|-
+|[[Vault of Knowledge#Third Floor|Third Floor]]
+|F, D♭
+|
+|-
+|[[Vault of Knowledge#Fourth Floor|Fourth Floor]]
+|A
+|
+|-
+|[[Vault of Knowledge#Fifth Floor|Fifth Floor]]
+|A, C, B, G, E♭, D♭, D, B♭, F
+|
+|-
+|[[Vault of Knowledge#Sixth Floor/The Summit|The Summit]]
+|
+|Same as Fifth Floor
+|-
+|[[Vault of Knowledge#After-Shrine Area|After-Shrine]]
+| -
+|
+|-
+|[[Vault of Knowledge#Archives|The Archives]]
+|C
+|
+|-
+|[[Vault of Knowledge#Collaboration Room|Collaboration Room]]
+| -
+|
+|-
+|[[Vault of Knowledge#Starlight Desert|Starlight Desert]]
+| -
+|
+|-
+|[[Vault of Knowledge#Crescent Oasis|Crescent Oasis]]
+|E♭, E, A♭, A
+|The whole area is in E♭ except when inside the [[Crescent Oasis#The Royal Palace|Royal Palace]].
+|-
+|[[Moominvalley#Moominvalley Glade|Moominvalley Glade]]
+|G
+|
+|-
+|[[Vault of Knowledge#Repository of Refuge|Repository of Refuge]]
+| F
+|
+|-
+| rowspan="6" |[[Eye of Eden]]
+|[[Eye of Eden#Section 1: Wind and Rocks|First Section]]
+| -
+|
+|-
+|[[Eye of Eden#Section 2: Dark Dragons and the Battlefield|Second Section]]
+|[https://www.youtube.com/watch?v=LWXuAyskdeM A, E♭, C, F, A♭, D♭, E], G♭, G, B♭, D
+|Finishes on A♭ by the time you reach the tunnel at the top before the point of no return.
+|-
+|[[Eye of Eden#Section 3: Statues and Winged Light|Third Section]]
+|D
+|
+|-
+|[[Eye of Eden#Section 1: Lost and Found|Dark Room]]
+| -
+|
+|-
+|[[Eye of Eden#Section 2: Flight|Flight]]
+|E♭, A♭, G, C, E
+|Finishes on E
+|-
+|[[Eye of Eden#Section 4: The Ascent|Orbit]] 
+|E, C, G
+|Starts in E after the credits song stops and you've moved forward a little. When you move forward further to the pathway with Spirits, it goes to C. It eventually goes to G once you near the portal.
+|-
+| rowspan="3" |Other
+| [[Secret Area]]
+| -
+|
+|-
+|[[Season of Shattering#Spirit Memory Quests|Shard Memories]]
+|E♭
+|
+|-
+|[[Season of The Little Prince#Dreams of A Little Friend|Dreams of A Little Friend]]
+|C
+|
+|}
+
+==Sharps and Flats==
+You may find these tables useful when choosing a key to transcribe other songs into Sky.
+===Sharps===
+{| class="article-table"
+!Number
+!Key
+!Sharps
+|-
+|0
+|C Major
+|<nowiki>-</nowiki>
+|-
+| 1
+|G Major
+|F♯
+|-
+|2
+|D Major
+|F♯, C♯ 
+|-
+| 3
+|A Major
+|C♯, F♯, G♯
+|-
+|4
+| E Major 
+|F♯, G♯, C♯, D♯ 
+|-
+|5
+|B major
+|C♯, D♯, F♯, G♯, A♯
+|}
+
+===Flats===
+{| class="article-table"
+!Number
+!Key
+!Flats
+|-
+|1
+|F Major 
+|B♭ 
+|-
+|2
+|B♭ Major
+|B♭, E♭
+|-
+|3
+|E♭ Major
+|E♭, A♭, B♭
+|-
+|4
+| A♭ Major 
+|A♭, B♭, D♭, E♭
+|-
+|5
+|D♭ Major
+|D♭, E♭, G♭, A♭, B♭
+|-
+|6
+|G♭ Major
+|G♭, A♭, B♭, C♭, D♭, E♭
+|}
+
+==Gallery==
+<gallery widths="200" spacing="small" captionalign="center">
+C major homespace.jpeg| C Major in Home
+C major forest.png| C Major in the Forest Temple
+D flat major 8room.png|D♭ Major in 8-player elevator in Prairie
+D flat major swamp.png|D♭ Major in Boneyard in Forest
+D major prairie.jpeg|D Major in Butterfly Fields in Prairie
+D major valley temple.jpg|D Major in Valley Temple
+D major wasteland.jpeg|D Major in Battlefield in Wasteland
+E flat major wasteland.png|E♭ Major in Broken Temple in Wasteland
+E major orbit.png|E Major in Orbit
+Eden 1.png|Pausing your key in Eye of Eden, click for Video Guide|link=https://youtu.be/LWXuAyskdeM
+F major forest.jpeg|F Major in Forest's elevated clearing
+F major citadel.png|F Major in the Citadel in Valley
+F major vault.png|F Major in the first Floor of Vault
+G flat major forest.jpeg|G♭ Major in the Boneyard in Forest (after jellyfish)
+G major forest.png|G Major in Forest's clearing
+A flat major stadium.png|A♭ Major in the Coliseum in Valley
+A major vault.jpeg|A Major in the fourth Floor of Vault 
+B flat major forest.png|B♭ Major in Forest End
+B major forest.png|B Major in the Boneyard in Forest
+B major race.png|B Major in any race in Valley
+Vault level 2.png|B Major in the second Floor of Vault, click for video|link=https://youtu.be/Sg8YDqFoxnM
+</gallery>
+
+[[fr:Clé de Musique]]
+[[pt-br:Tonalidades Musicais]]
+[[Category:Music]]

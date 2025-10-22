@@ -1,0 +1,137 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = Remembrance-Spirit-Tiptoeing-Tea-Brewer.png
+|cosmetics = {{Spirit Item||Outfit|infobox}}{{Spirit Item||Hair|infobox}}{{Spirit Item||Cape|infobox}}
+|props	   = 
+|music     = 
+|season    = Remembrance
+|realm     = Vault of Knowledge
+|location  = Repository of Refuge
+|ts        = August 18, 2025 (SV#10)
+}}
+<section begin="Summary" />The '''Tiptoeing Tea-Brewer''' is a [[Seasonal Spirit]] from the [[Season of Remembrance]] who offers the {{Emote|Tiptoeing Tea-Brewer|inline_text}} Expression. The Tiptoeing Tea-Brewer is found in the [[Repository of Refuge]], in an opening in the wall of the balcony high up on the player's left when entering the area. The collectibles [[#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Tiptoeing Tea-Brewer|Outfit|inline_text}}, a {{Spirit Item|Tiptoeing Tea-Brewer|Hair|inline_text}}, and a {{Spirit Item|Tiptoeing Tea-Brewer|Cape|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:SoRemembrance-Tiptoeing-Tea-Brewer-TGC-Promo-image.jpg|thumb|320px|none|TGC's Promo image]]
+
+==Memory==
+<div>{{#ev:youtube|Bn-OBKVySX8||inline|Video Guide}}
+
+The Tiptoeing Tea-Brewer can be found in the [[Repository of Refuge]], in an opening in the wall of the balcony high up on the player's left when entering the area. This Spirit has a [[Standard Memory|standard memory]] with 9 memory fragments and a 15-minute overall [[Timed Memory|time limit]].<br>
+<br>
+As their memory unfolds, the Tiptoeing Tea-Brewer can be seen standing beside a bed where another Spirit, presumably their loved one, lies in sickness. The Tea-Brewer then puts a kettle on the stove and goes out the door with a basket hanging from their arm. On their way, they come across a few soldiers in front of a fortress with an opening in the wall. The Tiptoeing Tea-Brewer carefully sneaks past it behind their backs. Finally at their destination, they pick a few herbs near a tree and lay them in their basket. On the way back home, they carefully tiptoe past the soldier's gate again. Having arrived at home, they go on to prepare their loved one a tea with the picked herbs, when suddenly they let the kettle fall as they see that the other Spirit lies motionless in bed. The Tea-Brewer immediately rushes to their side, weeping, leaving the kettle shattered to pieces on the ground.
+
+At the end of the memory, the Tiptoeing Tea-Brewer peeks out from the opening in the wall behind the soldiers' backs before slowly and quietly tiptoeing their way past them.
+</div>
+
+==<span id="Expression">Expression</span>==
+This Spirit offers the {{Emote|Tiptoeing Tea-Brewer|inline_text}} [[Expression]], which has 4 Levels. 
+
+[[File:{{Icon Name|Tiptoeing Tea-Brewer|emote}}|x170px]] 
+<gallery heights="125">
+Tiptoeing-Tea-Brewer-Tiptoeing-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Tiptoeing-Tea-Brewer-Tiptoeing-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Tiptoeing-Tea-Brewer-Tiptoeing-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Tiptoeing-Tea-Brewer-Tiptoeing-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar slightly crouch down with their arms lifted at their sides and look around periodically with squinted eyes. This Expression will temporarily replace your basic walk and can be canceled by jumping or flying up once. When moved, your avatar will carefully and slowly walk forward step by step, with their body leaned backwards, while singular xylophone notes play in rhythm with each step.
+*Level 2 makes the same motion as Level 1, with trails of small sparkles following the path of your avatar's feet, as well as a glowing ring appearing at the foot that steps forward each time they take a step. 
+*Level 3 will make your avatar hunch their back and bring their loose hands close together near their face, while looking around periodically with squinted eyes. This Expression will temporarily replace your basic walk and can be canceled by jumping or flying up once. When moved, your avatar will tiptoe in small, quick steps, while high-pitched xylophone notes play in rhythm with each step.
+*Level 4 makes the same motion as Level 3, with a trail of golden, glowing sparkles following your path on the ground and flying up as they fade away.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+==Cosmetics==
+===<span id="Outfit">Outfit</span> ===
+The [[Outfit]] offered by this Spirit is a long-sleeved, orange maxi dress with a green apron, costing {{Cost|55 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|72 SC|season=Remembrance}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Outfit|icon}} {{!}} The Outfit icon
+{{Icon Name||Outfit|real}} {{!}} The Outfit front
+{{Icon Name||Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Hair">Hair</span>===
+The [[Hair]] offered by this Spirit is a small ponytail on the side with fluffy, side-swept bangs under an orange head scarf that is tied on the opposite side of the ponytail, costing {{Cost|40 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|14 SC|season=Remembrance}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Cape">Cape</span>===
+The [[Cape]] offered by this Spirit is short, brown, and shaped like a leaf with a second yellow layer underneath that is shifted slightly to the right, costing {{Cost|65 C}} from the Traveling Spirit. It was offered to all players during the Season from the Friendship Tree's fifth node ({{Cost|110 SC|season=Remembrance}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||Cape|interior}} {{!}} The Cape interior
+{{Icon Name||Cape|back}} {{!}} The Cape back
+{{Icon Name||Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Traveling Spirit ==
+{{Friendship Tree Info
+| traveling
+| rs_dates= *August 18, 2025 (SV#10)
+}}
+<section begin='TS Friendship Tree' />{{Friendship Tree
+|spirit = Tiptoeing Tea-Brewer
+|image  = SoRemembrance-Tiptoeing-Tea-Brewer.png
+|season = Remembrance
+
+|nodeC6 = Cape 65 C
+|nodeL5 = Outfit 55 C
+|nodeC5 = spellx 5 C
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Hair 40 C
+|nodeC2 = spellx 5 C
+|nodeR2 = Heart 3 C
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end='TS Friendship Tree' />
+<!---
+=== Hints ===
+The hints given before the {{PAGENAME}}'s appearance were: -->
+
+==Season Friendship Tree==
+{{Friendship Tree Info | season| season=Remembrance}} 
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Tiptoeing Tea-Brewer
+|image  = SoRemembrance-Tiptoeing-Tea-Brewer.png
+|type   = season
+|season = Remembrance
+
+|nodeC6 = season_heart 3 SC SP
+|nodeL5 = spellx SP
+|nodeC5 = cape 38 SC
+|nodeL4 = outfit SP
+|nodeC4 = spellx 34 SC
+|nodeL3 = emote4 SP
+|nodeC3 = emote3 24 SC
+|nodeL2 = hair SP
+|nodeC2 = spellx 14 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Personality==
+On January 11, 2023, TGC officially announced and introduced the Tiptoeing Tea-Brewer with the following personality traits:
+*Becomes anxious now when someone is left by themselves
+*Learned from their parents which plants to find in each area of the kingdom
+*Can make engaging conversation on any topic
+*Took care of injured animals they found when they were a child
+
+==References==
+<references />
+
+[[fr:Brasseuse de thé sur la pointe des pieds]]
+[[pt-br:Fabricante de Chá na Ponta dos Pés]]
+[[ru:Крадущаяся чаёвница]]
+[[ja:ぬき足の茶人]]

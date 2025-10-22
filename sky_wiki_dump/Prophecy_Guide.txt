@@ -1,0 +1,139 @@
+{{Guide Infobox
+|image     = Prophecy-Guide-Spirit.png
+|ultimates = {{Spirit Item||mask_u|link=#Prophecy Ultimate Mask|infobox}}{{Spirit Item||instrument_u|link=#Prophecy Ultimate Instrument|label=Prophecy Ultimate Instrument|infobox}}
+|season    = Prophecy
+|realm     = Isle of Dawn
+|location  = Cave of Prophecies
+}}
+<section begin="Summary" />The '''Prophecy Guide''' is a Seasonal Guide (also known as Quest Giver) from the [[Season of Prophecy]] who offers Quests and [[Prophecy Guide#Ultimate Gifts|cosmetics]]. The Prophecy Guide is found in the [[Season_of_Prophecy#Cave_of_Prophecies|Cave of Prophecies]], next to a tall stone monument at the center of the main cave. The Ultimate Guide offered a {{Spirit Item||necklace_u|link=Prophecy Guide#Prophecy Ultimate Pendant|inline_text}}, a {{Spirit Item||mask_u|link=Prophecy Guide#Prophecy Ultimate Mask|inline_text}}, and a {{Spirit Item||instrument_u|link=Prophecy Guide#Prophecy Ultimate Instrument|label=Prophecy Ultimate Instrument|inline_text}} for [[Season Pass]] holders.<section end="Summary" />
+
+==<span id="Ultimate Pendant"><span id="Prophecy Ultimate Pendant">Seasonal Pendant</span></span>==
+The Prophecy Seasonal [[Necklaces|Pendant]] is the usual gold pendant featuring the Season's emblem attached to a necklace. It was a [[Season Pass]] exclusive item during the Season, available for free from the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||necklace_u}} {{!}} Prophecy Seasonal Pendant icon
+Prophecy pendant v2.png {{!}} Prophecy Seasonal Pendant
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Ultimate Gifts==
+The Season of Prophecy Guide offered 2 Ultimate Gifts, available to be purchased by [[Season Pass]] holders with [[Currency#Season Hearts|Seasonal Hearts]] during the Season of Prophecy only.
+
+===<span id="Ultimate Mask">Prophecy Ultimate Mask</span>===
+The Prophecy Ultimate [[Mask]] (or [https://en.wikipedia.org/wiki/Anubis Anubis] Mask) is a dark gray stone carved to resemble the face of a jackal, with a beige marking below each eye and a bright, crescent-shaped halo pointed downwards behind two tall ears. It was a [[Season Pass]] exclusive item during the Season, available for {{Cost|2 Sh|season=Prophecy}} after unlocking the Friendship Tree's second node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||mask_u|icon}} {{!}} Prophecy Ultimate Mask icon
+{{Icon Name||mask_u|real}} {{!}} Prophecy Ultimate Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Ultimate Instrument">Prophecy Ultimate Instrument</span>===
+The Prophecy Ultimate [[Instrument]] is a blue drum with beige top and bottom and pieces of fabric on one side.  It was a [[Season Pass]] exclusive item during the Season, available for {{Cost|2 Sh|season=Prophecy}} after unlocking the Friendship Tree's first node. 
+
+The Prophecy Drum has a similar sound to the standard {{Instrument|Drum|inline_text}}, but the Prophecy version has a softer sound, and the tinkling note has a distinct echo. Unlike the standard Drum, the player stands when playing the Prophecy Drum.  
+
+The Prophecy Drum plays the [[Music Sheet Parts|percussion part]] on Music Sheets. As with all percussion Instruments, it offers only 8 sounds, all of which are unpitched sounds that do not correspond to different musical notes. Five sounds are for the actual drum sounds; three are for secondary sounds made by hitting, rubbing, or slapping the side of the drum (or its metal part - triangle sound).
+
+A variant of the Prophecy Drum can be seen in [[Harmony Hall]] on the decorative wall panel behind the front counter, but it cannot be used by players. (Except the Spirit in Harmony Hall can sometimes be seen playing it during [[Harmony Hall#Jam Session|jam sessions]].) However, there is one Prophecy Drum in the [[Village Theater]], at the front right of the stage, that can be used by players who have completed the [[Season of Performance#Quest #3|third Quest]] of the Season of Performance.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||instrument_u}} {{!}} Prophecy Ultimate Instrument icon
+Prophecy-ultimate- drum.png {{!}} Prophecy Ultimate Instrument 
+Prophecy instrument ultimate on back v2.png {{!}} Prophecy Ultimate Instrument on player's back
+Prophecy-Guide Drum.png {{!}} Playing the Prophecy Ultimate Instrument
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Friendship Tree==
+The Prophecy Guide Friendship Tree was available to the right of the Quest Tree during the [[Season of Prophecy]] only. '''Now that the Season is over, those cosmetics are no longer available.'''
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Prophecy Guide
+|season = Prophecy
+|image  = Prophecy-Guide-Spirit.png
+
+|nodeC3 = mask_u 2 SH AP
+|  linkC3 = Prophecy Guide#Prophecy Ultimate Mask
+|  labelC3 = Prophecy Ultimate Mask
+|nodeC2 = instrument_u 2 SH AP
+|  linkC2 = Prophecy Guide#Prophecy Ultimate Instrument
+|  labelC2 = Prophecy Ultimate Instrument
+|nodeC1 = necklace_u AP
+|  linkC1 = Prophecy Guide#Prophecy Ultimate Pendant
+|  labelC1 = Prophecy Seasonal Pendant
+}}<section end="Friendship Tree" />
+
+==Quest Tree==
+The Prophecy Guide Quest Tree is available for all players to complete Quests from the Prophecy Guide. During the [[Season of Prophecy]], the [[Currency#Hearts|Hearts]] awarded for completing each Quest were free. Since the end of the Season, players completing the Quests for the first time have to pay {{Candle|3}} to obtain these Hearts. 
+<section begin="Quest Tree" />{{Mobile Tabber
+|tab1 = Post-season
+|c1   = {{Friendship Tree
+|spirit = Prophecy Guide
+|image  = Prophecy-Guide-Spirit.png
+
+|nodeC5 = Icon_hug.png
+|  linkC5 = Hug Action
+
+|nodeL4 = heart
+|  noteL4 = <ref name="quest_heart"/>
+|nodeC4 = quest
+|  linkC4 = Season_of_Prophecy#The_Trial_of_Fire
+|  labelC4 = The Trial of Fire
+
+|nodeL3 = heart
+|  noteL3 = <ref name="quest_heart"/>
+|nodeC3 = quest
+|  linkC3 = Season_of_Prophecy#The_Trial_of_Air
+|  labelC3 = The Trial of Air
+
+|nodeL2 = heart
+|  noteL2 = <ref name="quest_heart"/>
+|nodeC2 = quest
+|  linkC2 = Season_of_Prophecy#The_Trial_of_Earth
+|  labelC2 = The Trial of Earth
+
+|nodeL1 = heart
+|  noteL1 = <ref name="quest_heart">During the Season of Prophecy, the Hearts available from the Prophecy Guide after completing each Quest were free.</ref>
+|nodeC1 = quest
+|  linkC1 = Season_of_Prophecy#The_Trial_of_Water
+|  labelC1 = The Trial of Water
+}}
+
+|tab2 = Mid-season
+|c2   = {{Friendship Tree
+|spirit = Prophecy Guide
+|type   = season
+|season = Prophecy
+|image  = Prophecy-Guide-Spirit.png
+
+|nodeC5 = heart free
+
+|nodeC4 = quest
+|  linkC4 = Season_of_Prophecy#The_Trial_of_Fire
+|  labelC4 = The Trial of Fire
+
+|nodeL3 = heart free
+|nodeC3 = quest
+|  linkC3 = Season_of_Prophecy#The_Trial_of_Air
+|  labelC3 = The Trial of Air
+
+|nodeL2 = heart free
+|nodeC2 = quest
+|  linkC2 = Season_of_Prophecy#The_Trial_of_Earth
+|  labelC2 = The Trial of Earth
+
+|nodeL1 = heart free
+|nodeC1 = quest
+|  linkC1 = Season_of_Prophecy#The_Trial_of_Water
+|  labelC1 = The Trial of Water
+}}
+}}<section end="Quest Tree" />
+
+==References==
+<references />
+
+[[pt-br:Guia da Profecia]]
+[[ja:預言の案内人]]
+[[fr:Guide de la Prophétie]]
+
+[[Category:Season of Prophecy]]

@@ -1,0 +1,172 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Little-Prince-Spirit-Gloating-Narcissist.png|Standard
+Little-Prince-Spirit-Gloating-Narcissist-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Outfit|infobox}}{{Spirit Item||Hair|infobox}}
+|music     = {{Music Sheet|22}}
+|season    = The Little Prince
+|realm     = Vault of Knowledge
+|location  = Starlight Desert
+|ts        = April 7, 2025 (SV#8)<br>July 20, 2023 (#92)
+}}
+<section begin="Summary" />The '''Gloating Narcissist''' is a [[Seasonal Spirit]] from the [[Season of The Little Prince]] who offers the {{Emote|Gloating Narcissist|inline_text}} Expression. The Gloating Narcissist is found behind the right statue on the [[Starlight Desert]]'s amphitheater, behind the entrance from [[Vault of Knowledge]]. The collectibles [[#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Gloating Narcissist|Outfit|inline_text}}, a {{Spirit Item|Gloating Narcissist|Hair|inline_text}}, and the {{Music Sheet|22|inline_text}}.<section end="Summary" />
+
+== Memory ==
+<div>{{#ev:youtube|5-k7ChF81Q8||inline|Video Guide by Tara}}
+
+The Gloating Narcissist can be found behind the right statue on the [[Starlight Desert]]'s amphitheater, behind the entrance from [[Vault of Knowledge]]. This Spirit has a [[Standard Memory|standard memory]] with 7 memory fragments and a 10-minute [[Timed Memory|time limit]].
+
+As their memory unfolds, the Gloating Narcissist can be seen enthusiastically performing for an empty amphitheater. At first, they strike dramatic poses on a floating boat that from one side of the stage to the other. Afterwards, the Spirit dismounts to pose directly in front of the various mirrors that populate the stands. Lastly, the Gloating Narcissist ends the performance by taking a bow at center stage.
+
+At the end of the memory, the Spirit pumps up the nonexistent crowd by gesturing widely, in hopes of generating a stronger response.
+
+The Little Prince enters the scene clapping, promoting the Gloating Narcissist to announce, "A traveler from afar is here to admire me. I am the handsomest, best-dressed, richest, and most intelligent man on the island."
+
+Confused, the Little Prince looks around the empty amphitheater and replies, "But you're the only man here."
+
+As if they didn't hear anything, the Gloating Narcissist continues to hype up the nonexistent crowd, calling for them to "Please keep applauding!"
+
+The Little Prince obliges and contemplates aloud, "The grown-ups are certainly very odd."<br>
+<br>
+[[File:05 VK Seasonal Spirit - Gloating Narcissist.jpg|200px|thumb|none|Relive the Gloating Narcissist's memory]]
+</div>
+{{Clear}}
+
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Gloating-Narcissist-gloat-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Gloating-Narcissist-gloat-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Gloating-Narcissist-gloat-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Gloating-Narcissist-gloat-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar raise both arms up and scoop their hands a few times to dynamically animate others to applaude, while whistling and cheering crowd sound effects play.
+*Level 2 makes the same motion as Level 1, with glowing, golden sparkles flying up slowly around your avatar, and blue trails of light following the motion of their hands.
+*Level 3 will make your avatar rapidly step to the left with one leg, hold their left hand behind their ear, and scoop their hand up a few times, before standing up straight and holding their right hand behind their right ear, then the left hand behind their left ear, and finally only raising their forearms and scooping their hands inwards a few times, while whistling and applauding sound effects play.
+*Level 4 makes the same motion as Level 3, with a blue trails of light following the motion of your avatar's hands, as well as a few glowing, golden sparkles slowly flying up from around your avatar at the final gesture.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+== Cosmetics==
+=== Outfit ===
+The [[Outfit]] offered by this Spirit includes a blue, sleeveless jumpsuit with a thick, lighter blue stripe down the middle, poofy pants which end over the knees, and long, blue gloves that reach higher than the elbows, costing {{Cost|65 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|54 SC|season=The Little Prince}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Outfit|icon}} {{!}} The Outfit icon
+{{Icon Name||Outfit|real}} {{!}} The Outfit front
+{{Icon Name||Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Hair ===
+The [[Hair]] offered by this Spirit is made of wavy hair with a side part, a few shorter strands hanging down the front, and longer hair in the back, which is slightly pulled back on the sides, costing {{Cost|46 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fifth node ({{Cost|80 SC|season=The Little Prince}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Music Sheet ==
+The Gloating Narcissist offers the {{Music Sheet|22}} [[Music Sheet]] #22, costing {{Cost|15 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|14 SC|season=The Little Prince}} total). It is a song in the key of F Major.<br>
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guide
+|content=
+{{#ev:youtube|Pxrd01EQqFA||inline|Music Sheet Video Guide by Ikejiji}}
+}}
+{{Clear}}
+
+== Traveling Spirit ==
+[[File:Traveling Spirit 92 - Gloating Narcissist by myseljo.png|200px|right|thumb]]
+{{Friendship Tree Info | traveling
+|ts_dates=*July 20, 2023 (#92)
+|rs_dates=*April 7, 2025 (SV#8)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Gloating Narcissist
+|image  = Little-Prince-Spirit-Gloating-Narcissist.png 
+
+|nodeC6 = Outfit 65 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeR2 = Hair 46 C
+|nodeL2 = music22 15 C
+|nodeC2 = spell5
+|nodeR1 = heart 3 C
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" /> 
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+The hints given before the [[Gloating Narcissist]]'s first appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=First Visit Hints
+|content=<div>
+*Believes they're an amazing chef, but in reality they're one of the worst cooks
+*Has a strong sense of style
+*Dislikes when there's nothing to do
+*Gets surprised when you don't agree with them
+*Lives off of caffeine 
+*Believes ignoring their problems is the best way to handle them (it's not)
+*Tends to fidget when sitting
+*Adores following their idols
+*Will annoy people for fun if they're bored
+*[wes] Has a four-barrel carburetor and a whipple supercharger making 600 horsepower at the wheels
+*[wes] Is in the w a l l s
+*[iko] Enjoys hanging around quiet ponds.
+</div>
+}}
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=The Little Prince}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Gloating Narcissist
+|image  = Little-Prince-Spirit-Gloating-Narcissist.png 
+|type   = season
+|season = The Little Prince
+
+|nodeC6 = season_heart 3 SC SP
+|nodeL5 = spell5 SP
+|nodeC5 = Hair 26 SC
+|nodeL4 = Outfit SP
+|nodeC4 = spell5 22 SC
+|nodeL3 = emote4 SP
+|nodeC3 = emote3 18 SC
+|nodeL2 = music22 SP
+|nodeC2 = spell5 14 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+== Trivia ==
+* The Gloating Narcissist is inspired by the Conceited Man in ''[[wp:The_Little_Prince|Le Petit Prince]]'', written by Antoine de Saint-Exupéry.
+* The Gloating Narcissist's Music Sheet was altered before the Live release. It is more slow paced and melancholic than the Beta Music Sheet, with a different background track and a slightly altered harmony part. The Beta version of the Music Sheet was later added as {{Music Sheet|25}} [[Music Sheet]] #25.
+
+== Gallery ==
+<gallery widths="125" spacing="small" captionalign="center">
+SOTLP photos narcissist emote.png
+SOTLP photos group narcissist.jpeg
+</gallery>
+
+==References==
+<references />
+
+[[de:Selbstgefälliger Narzisst]]
+[[pt-br:Vaidoso Narcisista]]
+[[fr:Narcissique prétentieux]]
+[[ru:Торжествующий нарцисс]]
+[[zh:沾沾自喜的自戀狂]]
+[[ja:ご満悦のうぬぼれ屋]]

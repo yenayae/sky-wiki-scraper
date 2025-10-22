@@ -1,0 +1,175 @@
+Due to the increasing amount of information, the [[Friendship Tree]]s of the [[Seasonal Spirits]] will be split over multiple pages.
+{| class="wikitable"
+|- style="text-align:center"
+! {{#ifeq: {{PAGENAME}} | Seasonal Spirits/Friendship Trees | This Page | [[Seasonal Spirits/Friendship Trees]]}} !! {{#ifeq: {{PAGENAME}} | Seasonal Spirits/Friendship Trees 2 | This Page | [[Seasonal Spirits/Friendship Trees 2]]}} !! {{#ifeq: {{PAGENAME}} | Seasonal Spirits/Friendship Trees 3 | This Page | [[Seasonal Spirits/Friendship Trees 3]]}}
+|-
+| {{Cols|2|
+* Gratitude
+* Lightseekers
+* Belonging
+* Rhythm
+* Enchantment
+* Sanctuary
+* Prophecy
+* Dreams
+* Assembly
+* The Little Prince
+}}
+| {{Cols|2| 
+* Flight
+* Abyss
+* Performance
+* Shattering
+* AURORA
+* Remembrance
+* Passage
+* Moments
+* Revival
+* The Nine-Colored Deer
+}}
+| {{Cols|2|
+* Nesting
+* Duets
+* Moomin
+* Radiance
+* Blue Bird
+* Two Embers - Part 1
+}}
+|}
+
+==Season of Flight==
+See their Seasonal Friendship Tree on the [[Season of Flight#All Flight Friendship Trees|Season of Flight]] page.
+{{Mobile Tabber
+|tab1 = {{Emote|Lively Navigator|tab}}
+|c1   = {{#lst:Lively Navigator|TS Friendship Tree}}
+|tab2 = {{Emote|Light Whisperer|tab}}
+|c2   = {{#lst:Light Whisperer|TS Friendship Tree}}
+|tab3 = {{Emote|Tinkering Chimesmith|tab}}
+|c3   = {{#lst:Tinkering Chimesmith|TS Friendship Tree}}
+|tab4 = {{Emote|Talented Builder|tab}}
+|c4   = {{#lst:Talented Builder|TS Friendship Tree}}
+}}
+
+==Season of Abyss==
+See their Seasonal Friendship Tree on the [[Season of Abyss#All Abyss Friendship Trees|Season of Abyss]] page.
+{{Mobile Tabber
+|tab1 = {{Emote|Anxious Angler|tab}}
+|c1   = {{#lst:Anxious Angler|TS Friendship Tree}}
+|tab2 = {{Emote|Ceasing Commodore|tab}}
+|c2   = {{#lst:Ceasing Commodore|TS Friendship Tree}}
+|tab3 = {{Emote|Bumbling Boatswain|tab}}
+|c3   = {{#if:{{#lst:Bumbling Boatswain|TS Friendship Tree}}|{{#lst:Bumbling Boatswain|TS Friendship Tree}}|[[Bumbling Boatswain]] has not returned as a TS.}}
+|tab4 = {{Emote|Cackling Cannoneer|tab}}
+|c4   = {{#lst:Cackling Cannoneer|TS Friendship Tree}}
+}}
+
+==Season of Performance==
+See their Seasonal Friendship Tree on the [[Season of Performance#All Performance Friendship Trees|Season of Performance]] page.
+{{Mobile Tabber
+|tab1 = {{Emote|Frantic Stagehand|tab}}
+|c1   = {{#lst:Frantic Stagehand|TS Friendship Tree}}
+|tab2 = {{Emote|Forgetful Storyteller|tab}}
+|c2   = {{#if:{{#lst:Forgetful Storyteller|TS Friendship Tree}}|{{#lst:Forgetful Storyteller|TS Friendship Tree}}|[[Forgetful Storyteller]] has not returned as a TS.}}
+|tab3 = {{Emote|Mellow Musician|tab}}
+|c3   = {{#lst:Mellow Musician|TS Friendship Tree}}
+|tab4 = {{Emote|Modest Dancer|tab}}
+|c4   = {{#if:{{#lst:Modest Dancer|TS Friendship Tree}}|{{#lst:Modest Dancer|TS Friendship Tree}}|[[Modest Dancer]] has not returned as a TS.}}
+}}
+
+==Season of Shattering==
+See their Seasonal Friendship Tree on the [[Season of Shattering#All Shattering Friendship Trees|Season of Shattering]] page.
+{{Mobile Tabber
+|tab1 = {{Emote|Ancient Light|tab}}
+|c1   = {{#lst:Ancient Light|TS Friendship Tree}}
+|tab2 = {{Emote|Ancient Darkness|tab}}
+|c2   = {{#lst:Ancient Darkness|TS Friendship Tree}}
+}}
+
+==Season of AURORA==
+See their Seasonal Friendship Tree on the [[Season of AURORA#All AURORA Friendship Trees|Season of AURORA]] page. {{Mobile Tabber
+|tab1 = {{Emote|Running Wayfarer|tab}}
+|c1   = {{#if:{{#lst:Running Wayfarer|TS Friendship Tree}}|{{#lst:Running Wayfarer|TS Friendship Tree}}|[[Running Wayfarer]] has not returned as a TS.}}
+|tab2 = {{Emote|Mindful Miner|tab}}
+|c2   = {{#if:{{#lst:Mindful Miner|TS Friendship Tree}}|{{#lst:Mindful Miner|TS Friendship Tree}}|[[Mindful Miner]] has not returned as a TS.}}
+|tab3 = {{Emote|Warrior of Love|tab}}
+|c3   = {{#if:{{#lst:Warrior of Love|TS Friendship Tree}}|{{#lst:Warrior of Love|TS Friendship Tree}}|[[Warrior of Love]] has not returned as a TS.}}
+|tab4 = {{Emote|Seed of Hope|tab}}
+|c4   = {{#if:{{#lst:Seed of Hope|TS Friendship Tree}}|{{#lst:Seed of Hope|TS Friendship Tree}}|[[Seed of Hope]] has not returned as a TS.}}
+}}<!-- {{Mobile Tabber
+|tab1 = Running Wayfarer
+|c1   = {{#lst:Running Wayfarer|TS Friendship Tree}}
+|tab2 = Mindful Miner
+|c2   = {{#lst:Mindful Miner|TS Friendship Tree}}
+|tab3 = Warrior of Love
+|c3   = {{#lst:Warrior of Love|TS Friendship Tree}}
+|tab4 = Seed of Hope
+|c4   = {{#lst:Seed of Hope|TS Friendship Tree}}
+}} -->
+
+==Season of Remembrance==
+See their Seasonal Friendship Tree on the [[Season of Remembrance#All Remembrance Friendship Trees|Season of Remembrance]] page. {{Mobile Tabber
+|tab1 = {{Emote|Bereft Veteran|tab}}
+|c1   = {{#if:{{#lst:Bereft Veteran|TS Friendship Tree}}|{{#lst:Bereft Veteran|TS Friendship Tree}}|[[Bereft Veteran]] has not returned as a TS.}}
+|tab2 = {{Emote|Pleading Child|tab}}
+|c2   = {{#if:{{#lst:Pleading Child|TS Friendship Tree}}|{{#lst:Pleading Child|TS Friendship Tree}}|[[Pleading Child]] has not returned as a TS.}}
+|tab3 = {{Emote|Tiptoeing Tea-Brewer|tab}}
+|c3   = {{#if:{{#lst:Tiptoeing Tea-Brewer|TS Friendship Tree}}|{{#lst:Tiptoeing Tea-Brewer|TS Friendship Tree}}|[[Tiptoeing Tea-Brewer]] has not returned as a TS.}}
+|tab4 = {{Emote|Wounded Warrior|tab}}
+|c4   = {{#if:{{#lst:Wounded Warrior|TS Friendship Tree}}|{{#lst:Wounded Warrior|TS Friendship Tree}}|[[Wounded Warrior]] has not returned as a TS.}}
+}}
+==Season of Passage==
+See their Seasonal Friendship Tree on the [[Season of Passage#All Passage Friendship Trees|Season of Passage]] page. {{Mobile Tabber
+|tab1 = {{Emote|Oddball Outcast|tab}}
+|c1   = {{#if:{{#lst:Oddball Outcast|TS Friendship Tree}}|{{#lst:Oddball Outcast|TS Friendship Tree}}|[[Oddball Outcast]] has not returned as a TS.}}
+|tab2 = {{Emote|Tumbling Troublemaker|tab}}
+|c2   = {{#if:{{#lst:Tumbling Troublemaker|TS Friendship Tree}}|{{#lst:Tumbling Troublemaker|TS Friendship Tree}}|[[Tumbling Troublemaker]] has not returned as a TS.}}
+|tab3 = {{Emote|Melancholy Mope|tab}}
+|c3   = {{#if:{{#lst:Melancholy Mope|TS Friendship Tree}}|{{#lst:Melancholy Mope|TS Friendship Tree}}|[[Melancholy Mope]] has not returned as a TS.}}
+|tab4 = {{Emote|Overactive Overachiever|tab}}
+|c4   = {{#if:{{#lst:Overactive Overachiever|TS Friendship Tree}}|{{#lst:Overactive Overachiever|TS Friendship Tree}}|[[Overactive Overachiever]] has not returned as a TS.}}
+}}
+
+==Season of Moments==
+See their Seasonal Friendship Tree on the [[Season of Moments#All Moments Friendship Trees|Season of Moments]] page. {{Mobile Tabber
+|tab1 = {{Emote|Reassuring Ranger|tab}}
+|c1   = {{#if:{{#lst:Reassuring Ranger|TS Friendship Tree}}|{{#lst:Reassuring Ranger|TS Friendship Tree}}|[[Reassuring Ranger]] has not returned as a TS.}}
+|tab2 = {{Emote|Jolly Geologist|tab}}
+|c2   = {{#if:{{#lst:Jolly Geologist|TS Friendship Tree}}|{{#lst:Jolly Geologist|TS Friendship Tree}}|[[Jolly Geologist]] has not returned as a TS.}}
+|tab3 = {{Emote|Ascetic Monk|tab}}
+|c3   = {{#if:{{#lst:Ascetic Monk|TS Friendship Tree}}|{{#lst:Ascetic Monk|TS Friendship Tree}}|[[Ascetic Monk]] has not returned as a TS.}}
+|tab4 = {{Emote|Nightbird Whisperer|tab}}
+|c4   = {{#if:{{#lst:Nightbird Whisperer|TS Friendship Tree}}|{{#lst:Nightbird Whisperer|TS Friendship Tree}}|[[Nightbird Whisperer]] has not returned as a TS.}}
+}}
+
+== Season of Revival ==
+See their Seasonal Friendship Tree on the [[Season of Revival#All Revival Friendship Trees|Season of Revival]] page. {{Mobile Tabber
+|tab1 = {{Emote|Vestige of a Deserted Oasis|tab}}
+|c1   = {{#if:{{#lst:Vestige of a Deserted Oasis|TS Friendship Tree}}|{{#lst:Vestige of a Deserted Oasis|TS Friendship Tree}}|[[Vestige of a Deserted Oasis]] has not returned as a TS.}}
+|tab2 = {{Emote|Memory of a Lost Village|tab}}
+|c2   = {{#if:{{#lst:Memory of a Lost Village|TS Friendship Tree}}|{{#lst:Memory of a Lost Village|TS Friendship Tree}}|[[Memory of a Lost Village]] has not returned as a TS.}}
+|tab3 = {{Emote|Echo of an Abandoned Refuge|tab}}
+|c3   = {{#if:{{#lst:Echo of an Abandoned Refuge|TS Friendship Tree}}|{{#lst:Echo of an Abandoned Refuge|TS Friendship Tree}}|[[Echo of an Abandoned Refuge]] has not returned as a TS.}}
+|tab4 = {{Emote|Remnant of a Forgotten Haven|tab}}
+|c4   = {{#if:{{#lst:Remnant of a Forgotten Haven|TS Friendship Tree}}|{{#lst:Remnant of a Forgotten Haven|TS Friendship Tree}}|[[Remnant of a Forgotten Haven]] has not returned as a TS.}}
+}}
+
+== Season of the Nine-Colored Deer ==
+See their Seasonal Friendship Tree on the [[Season of the Nine-Colored Deer#All Revival Friendship Trees|Season of the Nine-Colored Deer]] page. {{Mobile Tabber
+|tab1 = {{Emote|Herb Gatherer|tab}}
+|c1   = {{#if:{{#lst:Herb Gatherer|TS Friendship Tree}}|{{#lst:Herb Gatherer|TS Friendship Tree}}|[[Herb Gatherer]] has not returned as a TS.}}
+|tab2 = {{Emote|Hunter|tab}}
+|c2   = {{#if:{{#lst:Hunter|TS Friendship Tree}}|{{#lst:Hunter|TS Friendship Tree}}|[[Hunter]] has not returned as a TS.}}
+|tab3 = {{Emote|Feudal Lord|tab}}
+|c3   = {{#if:{{#lst:Feudal Lord|TS Friendship Tree}}|{{#lst:Feudal Lord|TS Friendship Tree}}|[[Feudal Lord]] has not returned as a TS.}}
+|tab4 = {{Emote|Princess|tab}}
+|c4   = {{#if:{{#lst:Princess|TS Friendship Tree}}|{{#lst:Princess|TS Friendship Tree}}|[[Princess]] has not returned as a TS.}}
+}}
+
+==References==
+<references />
+
+[[fr:Esprits Saisonniers/Arbres d'Amitié 2]]
+[[pt-br:Espíritos Sazonais/Árvores de Amizade 2]]
+[[ja:季節精霊/メニュー2]]
+
+[[Category:Seasonal Spirits]]

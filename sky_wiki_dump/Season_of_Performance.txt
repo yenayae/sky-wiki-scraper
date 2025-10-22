@@ -1,0 +1,293 @@
+{{Season
+| title = Season of Performance
+| image = Season_of_Performance_teaser_image.png
+| start = April 11, 2022
+| end = June 26, 2022
+| spirits = 4
+| previousSeason = [[Season of Abyss]]
+| nextSeason = [[Season of Shattering]]
+| constellation = Morybel-0146-SOPerformance-constellation.png
+| symbol = 13 SOPerformance logo.png
+}}
+The '''Season of Performance''' is the thirteenth seasonal event in the live version of Sky since the global release, following [[Season of Abyss]]. It began on '''April 11, 2022''' and ended on '''June 26, 2022''' (all times PDT, UTC-7) lasting 77 days.
+
+The Season of Performance takes place in a new area in '''Valley of Triumph'''. Visit the stage tucked away in a sleepy mountain village. Meet the Performance Guide and a group of four performer Spirits to share their imagination and passion with an audience! Complete seasonal quests to inspire this team to create something bigger than any one person could achieve alone, and learn how to use the new stage for performances you might imagine, too.<br>
+<br>
+{{#ev:youtube|-lFhHbD_hz0||inline|Season of Performance Trailer}}
+
+==Welcome==
+<center class="title-text-welcome">[https://www.thatskygame.com/news/the-curtains-rise-for-season-of-performance Welcome to the Season of Performance!]</center>
+{{Quote|<br/>'''''It's showtime!'''''}}
+The Season of Performance follows the adventures of four Season Spirits who share their imagination and passion for the stage. Join a young group of Spirits determined to share their inspiration with the world, and take on a role of your own as they learn together how to create something greater than one person could achieve on their own. Relive each Spirits' memories to learn their expressions, and gain the opportunity to unlock a series of masks, outfits, music sheets, and hairstyles—not to mention, an instrument that offers a frequently requested feature: sustained notes!
+
+''<small>*Note that Season of Performance can be enjoyed by all players who have collected at least one Golden Wasteland spirit.</small>''
+
+==The Village Theater==
+{{Quote|<br>'''''A place to play many parts'''''|Village Theater Opening}}
+The Season of Performance takes place in an addition to the Valley of Triumph called "Village Theater", accessible from the Village of Dreams. Take a right after entering Village of Dream and enter a small area surrounded by hills and clouds, featuring a theater where players can have fun recreating a play or simply giving an instrumental performance on stage. Throughout the quests, players will activate many additional features to improve the theater, the experience of the performers, and the audience.
+
+On the stage, all privacy barriers are removed, meaning you now see all players without lighting them and your conversations are now public. Players sitting on the audience benches can see you and your conversations as well. It's a great way to introduce yourself to potential new friends but also to facilitate the act you're taking part in.<br>
+<br>
+[[File:TGC-Theater-Village-Promo-image.jpg|none|thumb|300x300px|TGC Village Theater promo image]]
+
+==[[Harmony Hall]]==
+[[Harmony Hall]] is a second map area that was added to the game in the middle of the Season of Performance. The front entrance (from [[Village of Dreams]]) is available to all players who can access the village. However, there is a second back entrance leading directly from the [[Village Theater]] that is only available to players after completing the [[#Quest 4|fourth quest]].
+
+==Daily Quests and Seasonal Candles==
+===Daily Quests===
+Collect Seasonal Candles throughout the Season to trade with the new spirits for their cosmetics. A total of 6 seasonal candles are available to gather, as follows:
+*Each day the Performance guide stands next to a Realm's portal, indicating where the day's daily quests may be completed. Players will earn one seasonal candle per quest completed. Complete your quests and claim your reward to the meditation shrine at home. (4 candles)
+*Players may also collect an extra candle by collecting the 4 seasonal bunches <small>(more information on the "Seasonal bunches locations" below).</small> (1 candle)
+* Players who have the [[Adventure Pass]] can claim a Seasonal Candle at Home as a free daily bonus. (1 candle)
+
+===Seasonal Candle Bunches Locations===
+The seasonal candle bunches are found towards the beginning of each realm again.
+*[[Daylight Prairie]]: 2 in the Social Space, and 2 in Butterfly Fields
+*[[Hidden Forest]]: 1 in the Social Space, and 3 in Forest's Clearing
+*[[Valley of Triumph]]: 2 in the Social Space, and 2 at the Ice Rink
+*[[Golden Wasteland]]: 4 in the Broken Temple area
+*[[Vault of Knowledge]]: 3 around the entrance, and 1 on the first floor up
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+File:SOPerformance-Seasonal-candles.jpg|A Season of Performance Candle bunch
+File:SOPerformance - Adventure pass - Page 1.png
+File:SOPerformance - Adventure pass - Page 2.png
+</gallery>
+
+==Child of Light Locations<span id="Winged Light Locations"></span>==
+There is one (1) [[Winged Light]] added to the Village Theater area.
+*[[Children of Light#Village Theater|Village Theater]]
+
+==Spirit Memory Quests==
+===<span id="Quest 1">Quest #1</span>===
+::'''Act I: Set the Stage to look like Hidden Forest'''
+In this quest, you are tasked to help the '''Frantic Stagehand''' set the stage to look like Hidden Forest. Pull all the switches in order to set the stage as requested.
+* The first switch will open the ''curtain of the stage'',
+* the second switch will change the stage ''background'',
+*the next three switches will be raised up and down ''blocks from the ground'' on the stage creating different heights,
+*the next switch will add some weather effects to the stage ''(snow, wind, rain''),
+*the next switch will raise a wall of ''fire, water, or fog'' in front of the stage,
+*the last three switches will light up ''three spots'' on the stage.
+Once done, speak with the Performance guide to complete your task. You may now use the stage and its switches whenever you wish. Next to the Performance guide, a spirit patiently awaits the next act.<br>
+<br>
+{{#ev:youtube|DLyxF61dpHg|||Video Guide by nastymold}}
+
+===<span id="Quest 2">Quest #2</span>===
+::'''Act II: Write a Story for Isle of Dawn'''
+In this quest, you are tasked to help the '''Forgetful Storyteller''' to write a story about Isle of Dawn. They have forgotten their lines.
+
+On the stage, choices will be prompted for you. Direct the plot by choosing a unique storyline to tell and as you select one or another, the story will unveil itself in front of the theater crew. Once done, speak to the Performance Guide. More Spirits are now gathered for the occasion with the Performance Guide on the audience.
+
+After you have completed the second act, you now have access to the '''Narrator's chair''' and the '''Daily prompter'''. The Narrator's chair will position your Sky kid behind the scene and let you whisper the "line" to your actors or give directions to those on the stage. The Daily prompter will give you advice or ideas for your play.<br>
+<br>
+{{#ev:youtube|shhelGVbIxc|||Video Guide by nastymold}}
+
+===<span id="Quest 3">Quest #3</span>===
+::'''Act III: Rehearse a Song about Vault of Knowledge'''
+In this quest, you are tasked to help the band rehearse a song about Vault of Knowledge. The Mellow Musician is missing and you need to fill in for them in the band.
+
+The curtain opens and two musicians are on the scene. Pick up the instrument and play the song with the band to proceed. Once the rehearsal is finished, speak with the Performance Guide. On the side, the Mellow Musician is having a nap and the musicians are displeased. But as they laugh about it, they all go back on stage and the Mellow Musician gives their performance. Two instruments located on the front of the stage are now available to use whenever you wish (a {{Instrument|Guitar|inline_text}} and a {{Instrument|Prophecy Drum|inline_text}}).<br>
+<br>
+{{#ev:youtube|Qa6uJD_4OYI|||Video Guide by nastymold}}
+
+===<span id="Quest 4">Quest #4</span>===
+::'''Act IV: Encourage the Discouraged Crew'''
+In this quest, you are tasked to reassure the spirits, as they are discouraged about their production. They seem to have lost faith in themselves.
+
+The Performance guide is looking for someone to cheer them up and one by one we see them, shoulders down. Find and visit each of them to cheer them up. As you perform your tasks they will take your hand and help you find the next one. Once you're done, return to the Performance Guide with your re-energized crew. Now that the spirits are hopeful again, you all gather next to the Daily prompter and the Performance Guide gives an inspirational speech.
+
+You now have access to the back entrance to [[Harmony Hall]].<br>
+<br>
+{{#ev:youtube|ymZXCGlma5w|||Video Guide by nastymold}}
+
+===<span id="Quest 5">Quest #5</span>===
+::'''Act V: Finale Act'''
+In this quest, you are tasked to help the Modest Dancer to close out the big show and the Frantic Stagehand prepare the stage.
+
+One by one we can see all the crew performing on the stage and the audience is delighted. Backstage, the Modest Dancer is stretching, ready to get on stage for their act. Visit the planning table (located on the top level backstage) before the final act begins. Help the Frantic Stagehand prepare the stage by activating the levers as instructed. Once done, the Forgetful Storyteller introduces the Modest Dancer for their act, but they are nowhere to be found. They seem to have a bit of stage fright and cannot perform; offer them support. Improvise with the Mellow Musician on the stage while the Modest Dancer regains confidence by playing a composition of your own for a few minutes. As the Modest Dancer finally comes back, use your expressions to put on a dancing routine with the Modest Dancer.
+
+The crowd is happy and bouquets of flowers are thrown toward the stage. Speak with the Performer Guide now that the performance has finished.
+
+Everyone is called onto the stage for the last ovation and the Performer guide sees in the crowd a long-lost relative. As they head out to greet them, you bow to the crew and they vanish in 4 columns of light to conclude the adventure. The Performer Guide is ecstatic to see their twin sibling: The Ultimate Guide from the [[Season of Rhythm]].
+
+The ten bouquets of flowers thrown by the crowd can be collected to receive 3-10 [[#Pieces of Light Locations|pieces of light]] per bouquet. The bouquets reappear every day.<br>
+<br>
+{{#ev:youtube|KjFRo9cccBk|||Video Guide by nastymold}}
+
+==Spirits and Cosmetics==
+All of the Season of Performance Spirits can be found in the Village Theater area in Valley of Triumph. There are 4 new Expressions to gather - overall, 4 spirits.
+
+''Duet Dance'' and ''Handshake'' are action expressions to unlock with friend.
+{{#tag:gallery
+|{{Icon Name|Frantic Stagehand|emote}} {{!}} {{Icon Name|Frantic Stagehand|emote_name}}
+{{Icon Name|Forgetful Storyteller|emote}} {{!}} {{Icon Name|Forgetful Storyteller|emote_name}}
+{{Icon Name|Mellow Musician|emote}} {{!}} {{Icon Name|Mellow Musician|emote_name}}
+{{Icon Name|Modest Dancer|emote}} {{!}} {{Icon Name|Modest Dancer|emote_name}}
+|widths=100|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+===All Performance Friendship Trees===
+{{Mobile Tabber
+|tab1 = {{Season Icon|performance|tab}}
+|c1   = {{#lst:Performance Guide|Friendship Tree}}
+|tab2 = {{Icon|Quest-icon.png|link=Quests|tab}}
+|c2   = {{#lst:Performance Guide|Quest Tree}}
+|tab3 = {{Emote|Frantic Stagehand|tab}}
+|c3   = {{#lst:Frantic Stagehand|Season Friendship Tree}}
+|tab4 = {{Emote|Forgetful Storyteller|tab}}
+|c4   = {{#lst:Forgetful Storyteller|Season Friendship Tree}}
+|tab5 = {{Emote|Mellow Musician|tab}}
+|c5   = {{#lst:Mellow Musician|Season Friendship Tree}}
+|tab6 = {{Emote|Modest Dancer|tab}}
+|c6   = {{#lst:Modest Dancer|Season Friendship Tree}}
+}}
+===[[Frantic Stagehand]]===
+{{#lst:Frantic Stagehand|Summary}}<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Frantic Stagehand|mask|real}} {{!}} Mask
+{{Icon Name|Frantic Stagehand|hair|real}} {{!}} Hair
+{{Icon Name|Frantic Stagehand|outfit|real}} {{!}} Outfit
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===[[Forgetful Storyteller]]===
+{{#lst:Forgetful Storyteller|Summary}}<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Forgetful Storyteller|mask|real}} {{!}} Mask
+{{Icon Name|Forgetful Storyteller|hair|real}} {{!}} Hair
+{{Icon Name|Forgetful Storyteller|cape|real}} {{!}} Cape
+{{Icon Name|Forgetful Storyteller|outfit|real}} {{!}} Outfit
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===[[Mellow Musician]]===
+{{#lst:Mellow Musician|Summary}}<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Mellow Musician|mask|real}} {{!}} Mask
+{{Icon Name|Mellow Musician|hair|real}} {{!}} Hair
+{{Icon Name|Mellow Musician|cape|real}} {{!}} Cape
+{{Icon Name|Mellow Musician|instrument|real}} {{!}} {{Icon Name|Mellow Musician|inst_name}}
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===[[Modest Dancer]]===
+{{#lst:Modest Dancer|Summary}}<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Modest Dancer|mask|real}} {{!}} Mask
+{{Icon Name|Modest Dancer|hair|real}} {{!}} Hair
+{{Icon Name|Modest Dancer|outfit|real}} {{!}} Outfit
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===[[Performance Guide]]===
+{{#lst:Performance Guide|Summary}}<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Performance Guide|necklace_u|real}} {{!}} Performance Ultimate Pendant
+{{Icon Name|Performance Guide|mask_u|real}} {{!}} Performance Ultimate Mask
+{{Icon Name|Performance Guide|hair_u|real}} {{!}} Performance Ultimate Hair
+{{Icon Name|Performance Guide|cape_u|real}} {{!}} Performance Ultimate Cape
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+==[[Performance Guide#Additional Cosmetics|Additional Cosmetics and Props]]==
+Upon completing the second quest of the Season of Performance, two additional items are available to collect for regular candles through the [[Performance Guide#Friendship Tree|Performance Guide]] Spirit tree. '''Both items will remain in the Ultimate Guide tree after the Season ends.'''<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Performance Guide|mask|real}} {{!}} Mask
+{{Icon Name|Performance Guide|prop|real}} {{!}} {{Icon Name|Performance Guide|prop_name}} (Prop)
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+==[[Shared Memories Candles]]==
+{{#lst:Shared Memories Candles|Summary}}Sometime during season of performance, a guide to shared memories was added, in which frantic stagehand told players what to do with them, and how they work.<!-- Images needed -->
+
+==The Penguin==
+On a hill behind the Theater, you will find a lone Penguin waiting for you to wear like a mascot costume. Since there are wind walls all around the Village Theater it is a bit of a challenge to reach. Players have found a very specific flight path you can take to get there but if you run out of wings and hit the clouds you'll respawn near the Performance guide. Patience is the key to success. Once you wear the outfit you will keep it for as long as you want and return to the Village Theater to play, but as soon as you exit the area, the suit will be removed. Only the holder can see the costume, even though the friends you brought with you also wear it.
+<gallery>
+File:SOPerformance-Penguin2.jpg
+File:SOPerformance-Penguin1.jpg
+File:SOPerformance-Penguin3.jpg
+</gallery>
+
+==Timeline==
+The dates when events happened during the Season of Performance were:
+*March 27, 2022: Previews of the new season were released on [https://youtu.be/fTcOQSjkz-I YouTube] and TGC's blog
+*March 31, 2022: Patch {{v|0.17.0}} went live, adding the initial Season of Performance content, including the [[Village Theater]] map. However, barriers prevented all access to the new areas before the start of the season. Memory Candles were added as a game feature, but players had no legitimate way to obtain the spell until the start of the season.
+*April 11, 2022: Start of season. [[Village Theater]] became available to players, including all four season spirits.
+*April 11, 2022: [[#Quest 1|First quest]] made available to players.
+* April 25, 2022: [[#Quest 2|Second quest]] made available to players.
+*May 9, 2022: [[#Quest 3|Third quest]] made available to players.
+*May 17, 2022: Patch {{v|0.17.5.0}} went live, adding the remaining Season of Performance content, including the [[Harmony Hall]] map. However, barriers initially prevented all access to Harmony Hall.
+*May 23, 2022: [[Harmony Hall]] became available to players. Start of the [[Harmony Hall#The Grand Opening|Grand Opening]] special event.
+*May 23, 2022: [[#Quest 4|Fourth quest]] made available to players.
+*June 5, 2022: Final day of the [[Harmony Hall#The Grand Opening|Grand Opening]] special event.
+*June 6, 2022: [[#Quest 5|Fifth quest]] made available to players.
+*June 26, 2022: Final day of the Season of Performance.
+
+== Price Chart ==
+{| class="article-table"
+! Spirits
+! colspan="6" | Candle Cost
+! Total Seasonal Candles
+|-
+|[[Forgetful Storyteller]]
+|{{#vardefineecho:A1| 12 }}
+|{{#vardefineecho:A2| 16 }}
+|{{#vardefineecho:A3| 20 }}
+|{{#vardefineecho:A4| 26 }}
+|{{#vardefineecho:A5| 34 }}
+|3*
+|{{Cost| {{#vardefineecho:Asum| {{#expr: {{#var:A1}} + {{#var:A2}} + {{#var:A3}} + {{#var:A4}} + {{#var:A5}} + 3 }} }} SC|season=Performance}}
+|-
+|[[Frantic Stagehand]]
+|{{#vardefineecho:B1| 10 }}
+|{{#vardefineecho:B2| 22 }}
+|{{#vardefineecho:B3| 26 }}
+|{{#vardefineecho:B4| 30 }}
+|{{#vardefineecho:B5|  }} 
+|3*
+|{{Cost| {{#vardefineecho:Bsum| {{#expr: {{#var:B1}} + {{#var:B2}} + {{#var:B3}} + {{#var:B4}} + {{#var:B5}} + 3 }} }} SC|season=Performance}}
+|-
+|[[Mellow Musician]]
+|{{#vardefineecho:C1| 12 }}
+|{{#vardefineecho:C2| 14 }}
+|{{#vardefineecho:C3| 18 }}
+|{{#vardefineecho:C4| 22 }}
+|{{#vardefineecho:C5| 36 }}
+|3*
+|{{Cost| {{#vardefineecho:Csum| {{#expr: {{#var:C1}} + {{#var:C2}} + {{#var:C3}} + {{#var:C4}} + {{#var:C5}} + 3 }} }} SC|season=Performance}}
+|-
+|[[Modest Dancer]]
+|{{#vardefineecho:D1| 8 }}
+|{{#vardefineecho:D2| 14 }}
+|{{#vardefineecho:D3| 26 }}
+|{{#vardefineecho:D4| 30 }}
+|{{#vardefineecho:D5|  }}
+|3*
+|{{Cost| {{#vardefineecho:Dsum| {{#expr: {{#var:D1}} + {{#var:D2}} + {{#var:D3}} + {{#var:D4}} + {{#var:D5}} + 3 }} }} SC|season=Performance}}
+|-
+! colspan="7" | Total for Season
+! {{Cost| {{#expr: {{#var:Asum}} + {{#var:Bsum}} + {{#var:Csum}} + {{#var:Dsum}} }} SC|season=Performance}}
+|}
+<small>''* Only available with [[Season Pass]] (Seasonal Hearts) (subtract when calculating without)''</small>
+
+==Trivia==
+*During the first build of the Season, the chat function was broken and players were able to see everyone's conversation regardless if they light them up or friendship levels.
+*The Ultimate hair is strikingly similar to the Director Hair from the [[Season of Rhythm]], except fluffier and otherwise more polished.
+
+==Gallery==
+<gallery widths="225" spacing="small" captionalign="center">
+Season-of-Performance-Season-End-Promo-Art.jpg
+</gallery>
+
+==Video Gallery==
+{{#ev:youtube|fTcOQSjkz-I||inline|Season of Performance Developer Update}}
+
+==References==
+<references />
+{{Seasonal Navbox}}
+{{Navigation Box}}
+
+[[de:Saison der Aufführung]]
+[[fr:Saison de l'Interprétation]]
+[[pt-br:Temporada da Performance]]
+[[ru:Сезон представлений]]
+[[ja:表現者たちの季節]]
+
+{{DEFAULTSORT:Performance, Season of}}

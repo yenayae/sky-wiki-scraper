@@ -1,0 +1,471 @@
+{{Season
+| title = Season of Moomin
+| image = SoMoomin-Promo-image.png
+| start = October 14, 2024
+| end = December 29, 2024
+| spirits = 4
+| previousSeason = [[Season of Duets]]
+| nextSeason = [[Season of Radiance]]
+| constellation = Season-of-Moomin-Constellation.png
+| symbol = Season-of-Moomin-icon.png
+}}
+<section begin="Moomin Collab 1" />
+The '''Season of Moomin''' was the twenty-third Seasonal Event in the Live version of ''Sky'' since the global release, following [[Season of Duets]]. It began '''Monday, October 14, 2024 at 00:00 PDT (UTC -7)''' and ended on '''Sunday, December 29, 2024 at 23:59 PST (UTC -8)''', lasting '''77''' days. It was the fourth collaborative Seasonal Event in the world of ''Sky'', in collaboration with Finnish writer and illustrator Tove Jansson's [[wp:Moomins|''Moomins'']]. Season of Moomin was first revealed during [[SkyFest]] as a [https://www.youtube.com/live/7aPeMBKtv3Y?si=cVJaotq4aRwJDqbv&t=2142 secret announcement] by Jenova Chen.<section end="Moomin Collab 1" />
+
+In this enchanting new Season, players follow the touching story of “The Invisible Child” as it comes to life in the whimsical world of Moominvalley. Each week, a new chapter will be revealed, and you’ll get to see how sweet Ninny is welcomed into the loving Moomin family.<br>
+<br>
+{{#ev:youtube|sccp6pIE23w||inline|Season of Moomin Trailer}}
+
+==Welcome==
+<center class="title-text-welcome">[https://www.thatskygame.com/news/season-of-moomin-a-classic-tale-of-healing-and-acceptance/ Welcome to the Season of Moomin!]</center>{{Quote|<br>'''''Revisit a classic tale about friendship.'''''}}
+<section begin="Moomin Collab 2" />
+Meet the Moomins and their companions as they get to know [https://www.moomin.com/en/characters/ninny-the-invisible-child/ Ninny] the invisible child in ''Sky'''s newest collaboration. As you explore the enchanting world of Tove Jansson’s classic characters, you’ll discover the ways that friendship and acceptance can restore color no matter how faded the world may seem. The beloved characters of Moominvalley are waiting to welcome you into their story, to explore alongside Ninny through a whimsical valley and experience the transformations that are possible through kindness and compassion.<section end="Moomin Collab 2" />
+
+To begin, check in with the [[Moomin Storybook]] in the new Moominvalley Glade area. This Seasonal Guide offers a series of [[#Spirit Memory Quests|Quests]] that gradually unfold to tell the story of the Season from both the Moomins' perspective and a Sky Child's perspective. Along the way you'll have the chance to unlock themed items that reflect the Season—special [[Outfits]], [[Capes]], [[Hairstyles]], an [[Instrument]], and more!
+
+The Moomin Storybook also brings several items in their Friendship Tree: a new [[Expression]] that perfectly captures the feeling of being immersed in another world, plus an Outfit and a cozy family portrait [[Prop]] that can be unlocked for regular Candles even after the Season has ended. [[Season Pass]] holders will also have the chance to unlock three Ultimate Gifts.
+
+<small>Note that Season of Moomin can be enjoyed by all players who have progressed through at least Hidden Forest.</small>
+
+==Moominvalley==
+[[File:Moominvalley-Glade-Tent.png|thumb|right|300px|The meditation circle to enter Moominvalley]]
+{{Main|Moominvalley}}
+
+{{#lst:Moominvalley|Summary}}
+{{Clear}}
+
+==Daily Quests & Seasonal Candles==
+===Daily Quests===
+Collect Seasonal Candles throughout the Season to trade with the new Shops for their cosmetics. A total of 6 Seasonal Candles were available to gather, as follows:
+*Each day the location of the [[Daily Quests]] changed, rotating through [[Daylight Prairie]] to [[Vault of Knowledge]] in order. Players could earn one Seasonal Candle per Quest completed. Complete your Quests and claim your reward at the Return Shrine Statue at [[Home]] or [[Aviary Village]] by the [[Quests/Daily_Quest_Spirits|Archway Cafe Counter]]. (4 Candles)
+*Players could also collect an extra Candle by collecting the 4 Seasonal bunches <small>(more information on the "Seasonal bunches locations" below).</small> (1 Candle)
+*Players who had the [[Season Pass]] could claim a Seasonal Candle from the Return Shrine Statue at [[Home]] or the [[Aviary Village#Friendship Constellation Statue|Friendship Constellation Statue]] at Aviary Village as a free daily bonus. (1 Candle)
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" >
+File:SoMoomin-Seasonal-candles.jpg|Moomin Seasonal Candles
+File:SoMoomin-Season-Pass-1.png|Season Pass - page 1
+File:SoMoomin-Season-Pass-2.png|Season Pass - page 2
+File:SoMoomin-Season-Pass-3.png|Season Pass - page 3
+</gallery>
+
+===Seasonal Candle Bunches Locations===
+The Seasonal Candle bunches were found towards the beginning of each [[Realm]], one Realm a day according to the [[Daily Quests]]' location.<br>
+<gallery spacing="small" captionalign="center">
+Daylight-Prairie-Seasonal-Candles-locations-Pattern-A.png|Prairie Rotation 1 & 2
+Hidden-Forest-Seasonal-Candles-locations-Pattern-A.png|Forest Rotation 1 & 2
+Valley-of-Triump-Seasonal-Candles-locations-Pattern-A.png|Valley Rotation 1 & 2
+Golden-Wasteland-Seasonal-candles-Locations-Pattern-A.png|Wasteland Rotation 1 & 2
+Vault-of-knowledge-Seasonal-candles-Locations-Pattern-A.png|Vault Rotation 1 & 2
+</gallery>
+
+==Child of Light Locations<span id="Winged Light Locations"></span>==
+One (1) [[Child of Light]] has been added to the new [[Moominvalley Glade]] area.<br>
+{{#lst:Children of Light|Moominvalley Children}}
+
+==Spirit Memory Quests==
+The Quests from the Season of Moomin are different from other Seasons in that no new [[Spirits]] are introduced, with players guiding the Invisible Child [https://www.moomin.com/en/characters/ninny-the-invisible-child/ Ninny] through a whimsical valley where her story is told, each step bringing her closer to her true self. The very environment around you mirrors her journey, gradually blooming into vibrant hues as she emerges from the grey shadows of her past.
+
+With the completion of each Quest, an additional [[Moominvalley#Storybook Quests|Storybook Quest]] will also be unlocked. These optional extra Quests offer a glimpse into Ninny's shadowed memories and emotions as she works to becomes visible once again. Join in an adventure that challenges you to confront the shadows of your past and emerge stronger, celebrating the power of resilience and self-discovery.
+
+See [[Moominvalley#Storybook Quests|Storybook Quest]] to view all 6 additional shadowed memories quests. 
+
+===<span id="Quest 1">Quest #1</span>===
+::'''The Invisible Child: Chapter 1'''
+In the first Quest, the player arrives as a [[Butterflies|Butterfly]] to [[Moominvalley]] on a dark and stormy night, following after two figures running through the forest. A woman wearing a striped shirt beckons to the empty space behind her, guiding what appears to be an invisible child - only visible by a floating bell collar - along the path. Lightning flashes as the two run through the forest, the child's bell gently tinkling as she follows after the older figure.
+
+"I'm bringing you to your new home," the woman named [https://www.moomin.com/en/characters/too-ticky/ Too-Ticky] says, leading the child across a river that cuts through the path. "Come along!" They continue to run together through the pouring rain, eventually arriving at a clearing where a tall, round house sits. "We're almost there." Too-Ticky tells the child, pointing towards the house in front of them.
+
+The woman climbs the front steps to enter the door first, waving a greeting to the three hippo-like creatures sitting at a table inside. Noticing that the child hasn't followed her inside, Too-Ticky encourages her with a friendly, "Well, come along!"
+
+"Whom are you bringing?" Asks [https://www.moomin.com/en/characters/moomintroll/ Moomintroll], the youngest member of the family peering curiously at the doorway.
+
+"Her name's [https://www.moomin.com/en/characters/ninny-the-invisible-child/ Ninny]. She was frightened by a lady who had taken care of her without really liking her... " Too-Ticky explains as Ninny cautiously enters, "...and she turned invisible. I've met this lady, and she was horrid—the icily ironical kind."
+
+The three Moomins are alarmed by the story. "How unpleasant!" Moomintroll comments disapprovingly.
+
+Too-Ticky continues to explain as the child lingers in the doorway, "If people are frightened very often, they sometimes become invisible."
+
+"Give the kid a chair," [https://www.moomin.com/en/characters/moominpappa/ Moominpappa] invites kindly, gesturing to an open spot at the table. Too-Ticky turns to encourage Ninny to take a seat, telling her, "This is your new family!" 
+
+The camera then zooms in to focus on Ninny, the player fluttering closer to land on her bell collar and bringing back its vibrant colors. As the scene draws to a close, the Quest is completed. With the completion of this Quest, the first optional [[Moominvalley#Storybook Quests|Storybook Quest]] has been unlocked and the {{Spirit Item|Moomin Guide|emote|inline_text}} Expression can now be collected from the [[Moomin Storybook]]'s Quest Tree.<br>
+<br>
+{{Quote|<small>''One rainy evening, a kind figure was leading an invisible child through Moominvalley. The lady's name was Too-Ticky. Maybe her friends could help the girl be visible again. ''</small>|Quest 1 Narration}}
+
+{{#ev:youtube|VC_MUOVUUAs|300px||Quest 1 Video Guide}}
+
+===<span id="Quest 2">Quest #2</span>===
+::'''The Invisible Child: Chapter 2'''
+In the second Quest, the player once again arrives in [[Moominvalley]] as a [[Butterflies|Butterfly]], this time inside the Moominhouse. Next to the front door is a spiral staircase, by which [https://www.moomin.com/en/characters/moominmamma/ Moominmamma] stands, facing the Invisible Girl [https://www.moomin.com/en/characters/ninny-the-invisible-child/ Ninny]. In her paw, she carries a small, round serving tray, which holds a drinking glass and an apple.
+
+Moominmamma and Ninny make their way up the stairs to the house's first story, past a lit fireplace, towards another staircase spiraling up to the second story. Halfway up the stairs, Moominmamma turns around to make sure Ninny is still following her. Ninny's bell tinkles cheerily as the two enter a small room with a single bed standing by a window.
+
+"Now have a good sleep, Ninny," Moominmamma says as she tucks the girl in. 
+
+On a nightstand by the bed stands an unlit candle in a candle holder. The candle's wick calls out to the player, signaling them to come closer. Upon flying near it, the candle is lit, bringing color to where its light can reach.
+
+As Moominmamma tucks little Ninny into the bed, she speaks, "Sleep as late as you can. There'll be tea for you in the morning any time you want." 
+
+Leaving only a small gap open in the door, Moominmamma turns around, looking at Ninny one last time. The serving tray, which has been placed on the nightstand, is shown in full color, serving a glass of juice, a red apple and a few pieces of red and white candy.
+
+Suddenly, Ninny's bell clangs and the apple lifts into the air as she sits up. The camera then pans down to where Ninny's feet would be, revealing a pair of white boots with red shoecaps, each topped with a golden star. Before the scene fades away, the player can be seen fluttering closer to Ninny's boots and landing on them.
+
+By completing this Quest, the second optional [[Moominvalley#Storybook Quests|Storybook Quest]] has been unlocked.<br>
+<br>
+{{Quote|<small>''The silver bell tinkled along after Moominmamma upstairs.''</small>|Quest 2 Narration}}
+
+{{#ev:youtube|vE4TaLqFyr8|300px||Quest 2 Video Guide}}
+
+===<span id="Quest 3">Quest #3</span>===
+::'''The Invisible Child: Chapter 3'''
+In the third Quest, the player arrives in [[Moominvalley]] as a [[Butterflies|Butterfly]], this time in front of the Moominhouse. [https://www.moomin.com/en/characters/moomintroll/ Moomintroll] stands before the steps - on which [https://www.moomin.com/en/characters/ninny-the-invisible-child/ Ninny] waits - leading up to the front porch, curiously taking a close look at the girl's boots. Full of excitement, he runs down the path leading up to the house, to share his discovery with his parents, which reside by a big tree. "Mamma! She's got paws! You can see her paws!" 
+
+Ninny joins the Moomin family by the tree, which now all lean down to also admire her newly revealed boots. "Splendid! And better still when she shows her snout one day," [https://www.moomin.com/en/characters/moominpappa/ Moominpappa] says. 
+
+Near the house, there's a small apple orchard, which little Ninny walks down on, with an empty fruit basket in hand. The three Moomins have spread to different trees in the orchard, harvesting some fruit. 
+
+The player parttakes in the harvest by dropping the red apples from trees, making it easier for Ninny to pick them up. For this, the player must fly near an apple tree which holds a red apple and let it fall by clicking on the {{Icon|Grab-Ray.png}} hand symbol once they're close enough. There are six apples to be collected in total. 
+
+After their successful harvest, everyone meets back at the tree they stood by earlier. "Good work, Ninny!", [https://www.moomin.com/en/characters/moominmamma/ Moominmamma] praises. 
+
+The family makes their way back to the house, while Ninny trails along after them with a jar full of apples. Suddenly, she trips and the jar shatters to pieces on the ground. The Moomins turn around at the loud sound, seeing the color vanish from the apples and Ninny's bell and boots. Realizing what happened, Ninny starts to shiver, her bell tinkling. She steps back from the scene before turning completely invisible again. 
+
+Moominmamma is quick to reassure Ninny. "Oh, that was the jar we use to give the bumblebees," she says, shrugging. "Now we needn't carry it down to the field." Moominmamma looks at Ninny, which becomes visible again, this time even revealing her legs and the hem of her dress. "I can see her legs!", Moomintroll says as he points at Ninny. 
+
+As the camera zooms out on the scene, color returns to Ninny. The player can be seen flying near the family, bringing color to their immediate surroundings as well.
+
+With the completion of this Quest, the third optional [[Moominvalley#Storybook Quests|Storybook Quest]] has been unlocked, as well as a {{Icon|Heart.png}} Heart that can now be collected from the [[Moomin Storybook]]'s Quest Tree.<br>
+<br>
+{{Quote|<small>''They picked apples. It was a beautiful autumn morning.''</small>|Quest 3 Narration}}
+
+{{#ev:youtube|rrBUO5oD7d0|300px||Quest 3 Video Guide}}
+
+===<span id="Quest 4">Quest #4</span>===
+::'''The Invisible Child: Chapter 4'''
+In the fourth Quest, the player arrives in [[Moominvalley]] as a [[Butterflies|Butterfly]], this time inside the Moominhouse, on the second floor, where [https://www.moomin.com/en/characters/ninny-the-invisible-child/ Ninny]'s room is located. On her way to exactly this room, [https://www.moomin.com/en/characters/moominmamma/ Moominmamma] walks, with a red dress folded in her paw. Ninny is still in bed, sleeping, while Moominmamma gently places the garment onto a chair besides the door.
+
+As soon as Ninny awakes, she walks up to the chair and puts on the red dress which Moominmamma made for her - the old dress now lays where the red one did, neatly folded on the chair. Ninny moves a bit to admire her new look: a long-sleeved, red dress which ends just above her boot's brims, with a white, ruffled collar, decorated with the girl's bell accessory, and a big, yellow bow placed at the back of her head.
+
+Ninny walks towards the stairs and stops just before them to stretch her body and yawn heartily. As she makes her way down the spiral staircases, she stops twice, standing in place to {{Emote|Thinking|inline_text|label=Think}}. 
+
+Downstairs, the Moomin family is already expecting Ninny, eagerly looking towards her - Moominmamma and [https://www.moomin.com/en/characters/moominpappa/ Moominpappa] stand at the foot of the staircase, while [https://www.moomin.com/en/characters/moomintroll/ Moomintroll] and, a new face, [https://www.moomin.com/en/characters/little-my/ Little My], sit at the table. Ninny shuffles around a bit, blushing with all the attention on her.
+
+She curtsies in front of everyone, picking up the edge of her new dress to do so. "Thank you all ever so much," she says. "We're happy to see more of you today!", Moominpappa replies.
+
+Little My speaks, "Fine that you've started talking. Do you know any good games?"
+
+Shyly, Ninny places her arms behind her back, says, "No..." 
+Moominmamma and Moominpappa exchange a glance, "...but I've heard about games!", Ninny exclaims, lifting up her arms happily. Soon after, her close surroundings reveal their color, as well as the Moomin family. The scene comes to a close, and the player flies towards Ninny to land on her bow accessory.
+
+With the completion of this Quest, the fourth optional [[Moominvalley#Storybook Quests|Storybook Quest]] has been unlocked and Level 3 and 4 of the {{Spirit Item|Moomin Guide|emote|inline_text}} Expression can now be collected from the [[Moomin Storybook]]'s Quest Tree.<br>
+<br>
+{{Quote|<small>''That night, Moominmamma made Ninny a rose-pink dress and laid it out for her in the eastern attic room. Ninny went downstairs to join the Moomin family for morning tea.''</small>|Quest 4 Narration}}
+
+{{#ev:youtube|4vILacRzWKo|300px||Quest 4 Video Guide}}
+
+===<span id="Quest 5">Quest #5</span>===
+::'''The Invisible Child: Chapter 5'''
+In the fifth Quest, the player arrives in [[Moominvalley]] as a [[Butterflies|Butterfly]], just outside the Moominhouse. On the steps leading up the front door is [https://www.moomin.com/en/characters/ninny-the-invisible-child/ Ninny], going after [https://www.moomin.com/en/characters/little-my/ Little My] and [https://www.moomin.com/en/characters/moomintroll/ Moomintroll]. The three of them walk towards a small, wooden bridge, not far off the house, Ninny always strolling along after her peers.
+
+Little My and Moomintroll reach the bridge quickly and take a seat on the rounded railing. Once Ninny has caught up to them, Moomintroll encourages her. "Climb on up, Ninny!"<br>
+Ninny comes to a halt in front of them and says, "Sorry, I can't... " as she looks to the ground in shame and kicks it with her foot.
+
+Moving on, they all follow the path leading away from the bridge. Little My turns around to tell Ninny, "Run, run, can't you!"<br>
+Moomintroll and Little My, standing with her arms crossed, are already waiting by a goal flag a bit further down the path, but Ninny can't keep up and falls face-down. "Sorry... " she says and stands back up again.
+
+Again, she comes after the other two, who are waiting by a cluster of rocks along the path. Once Ninny has caught up again, Little My already stands on top of a rock, looking down at Ninny. "Or can't you even jump?" she teases.
+
+While Ninny attempts to jump up on the rock as well, Little My and Moomintroll stand by and watch her. Again, she falls down and stands back up to apologize. "I'm so sorry... "<br>
+"D'you think anyone likes that?" Little My replies, outraged.
+
+"Haven't you any life in you?", she asks, looking Ninny up and down. Little My raises her fist threateningly. "Do you want a biff on the nose?"<br>
+"She can't play..." Moomintroll says, looking to Little My.<br>
+"She can't get angry. That's what's wrong with her," she says. "You'll never have a face of your own until you've learned to fight!" Little My crosses her arms.
+
+Ninny slouches and raises her hands to feel her own face. She drops them and replies, "Yes, of course."
+
+Moomintroll follows Little My, who has her head raised poutily and her arms crossed as she struts away from Ninny.
+
+Now alone, Ninny looks around and lets herself fall down to sit on the ground, her head dropping down as the color slowly fades away from herself and her surroundings. 
+
+With the completion of this Quest, the fifth optional [[Moominvalley#Storybook Quests|Storybook Quest]] has been unlocked.<br>
+<br>
+{{Quote|<small>''Ninny was visible up to her neck, and all that was left was her face. Moomintroll was delighted. He decided to teach Ninny all the games he knew. It was clear to all that she only played from politeness and not to have fun.''</small>|Quest 5 Narration}}
+
+{{#ev:youtube|foMtbf040t0|300px||Quest 5 Video Guide}}
+
+===<span id="Quest 6">Quest #6</span>===
+::'''The Invisible Child: Chapter 6'''
+In the sixth and final Quest, the player arrives in [[Moominvalley]] as a [[Butterflies|Butterfly]], on a path near the apple orchard leading down to the sea. The Moomins, [https://www.moomin.com/en/characters/little-my/ Little My] and [https://www.moomin.com/en/characters/ninny-the-invisible-child/ Ninny], trailing after the others, are on their way down to the beach, where a little boat floats in the water. It is attached to a narrow, wooden pier, at whose end a small, octagonal [https://www.moomin.com/en/explore-moominvalley/the-boathouse/ boathouse] is built on wooden posts.
+
+Ninny brings her hands to her face, remembering that it has still not become visible.<br>
+As the group nears the little pier, [https://www.moomin.com/en/characters/moominmamma/ Moominmamma] turns around to look after Ninny. Moments later, Ninny, which shone in vivid color just before, starts shivering as her color fades away at once. She sits down in the sand while the others pass over the pier.<br>[https://www.moomin.com/en/characters/moominpappa/ Moominpappa] now also turns around to look for Ninny. "What's come over Ninny?" he wonders. "Is she frightened?"<br>
+"Yes, Ninny thinks the sea's too big," Moominamma explains to him.
+
+Just outside the little boathouse, the family meets [https://www.moomin.com/en/characters/too-ticky/ Too-Ticky], the woman who found Ninny and brought her to her new home. "Hello," she says. "How's the invisible child?"<br>
+"There's only her head left," Moominpappa answers. "Can you lend us a hand with the boat?"
+
+With the help of Too-Ticky, the boat has been transported to the shore, where Ninny still rests from her earlier fright. Moominmamma has stayed on the pier, looking out at the wide sea. Once the work is done, the crew looks to Moominmamma, which utters to herself, "My dear, how cold it looks."
+
+Moominpappa gets an idea. Carefully, he sneaks up on Moominmamma, who has her back turned on him. He has almost reached her, when suddenly Ninny stands up and confidently puts her arms on her hips. Quickly, she runs up behind Moominpappa, lifts his tail and bites down on it. Startled, his eyes widen and he straightens at once, which causes his hat fall off his head and into the water.
+
+"Good Work!" Little My shouts to Ninny. "I couldn't have done it better myself," she says to [https://www.moomin.com/en/characters/moomintroll/ Moomintroll], who watches the scene from the shore with her.
+
+Ninny is outraged and tells Moominpappa, "Don't you dare push her into the big horrible sea!"<br>
+She has her fists raised at her sides, when all of the sudden her face starts becoming visible at last.<br>
+"I see her, I see her!" Moomintroll shouts excitedly while he points at the now fully visible girl.
+
+On the pier, Moominpappa has crouched down and leans over the edge as he tries to reach his hat, slowly floating away from him. He loses balance and topples over and into the water. Ninny, now visible with round, dark eyes and full, choppy bangs and a ponytail, slows her breathing and relaxes her fists. She looks down at Moominpappa in the water, who looks back at her with an annoyed expression. He eyes his hat with squinted eyes as it floats in the water beside him.
+
+Ninny can't help but laugh at what she sees, and the others, which have come up to the pier by now, join in. As she laughs, color spreads over her and reaches the others as well. The comedy of the situation has reached Moominpappa as well, and he starts laughing heartily while he still stands in the water.
+
+The player flutters close over Ninny and it is shown that the entire Moominvalley returns to its vivid color. The player circles Ninny, who confidently puts a hand on her hip and smiles as the scene comes to a close.
+
+With the completion of this Quest, the sixth and final optional [[Moominvalley#Storybook Quests|Storybook Quest]] has been unlocked, and the additional {{Spirit Item|The Moomin Storybook|outfit_i|inline_text}} and {{Spirit Item|The Moomin Storybook|prop_p|label=Prop|inline_text}} are now permanently available for purchase from the [[Moomin Storybook]]'s Quest Tree.<br>
+<br>
+{{Quote|<small>''Days went by, and Ninny was still without a face.  One day the family went down to the beach to haul the boat up for winter. When they came in view of the sea, Ninny suddenly stopped. When they came in view of sea, Ninny suddenly stopped. Moominpappa had a mischievous idea, and started to sneak up on Moominmamma. He didn't really want to push her in the water, just to amuse the kids a bit. ''</small>|Quest 6 Narration}}
+
+{{#ev:youtube|XhV3-Q8NWiA|300px||Quest 6 Video Guide}}
+
+==Spirits & Cosmetics==
+All of the ''Season of Moomin'' Shops could be found in [[Moominvalley Glade]]. Being a bit different from usual Seasons, there were no new [[Spirits]] to gather, and cosmetics are instead sold from a Shop located on a grassy mound to the right in Moominvalley Glade, immediately available upon entering the area. There is only 1 new [[Expression]] to gather - 1 Emote - that's found in [[The Moomin Storybook]]'s Quest Tree. Free [[Spells]] to try the [[#Premium Packs (In-App Purchases|Seasonal IAPs]] could also be collected from the brown bag next to the [[Sense of Self]] Shop.
+{{#tag:gallery
+|{{Icon Name|Moomin Guide|emote}} {{!}} {{Icon Name|Moomin Guide|emote_name}}
+|widths=100|spacing=small|captionalign=center|mode=nolines}}
+<gallery widths="250" spacing="small" captionalign="center" orientation="landscape">
+File:Moominvalley-Glade-Cosmetics-Shops-Island.png|The Season of Moomin Shops
+File:Comfort-of-Kindness-and-Sense-of-Self-Shops.png|The Comfort of Kindness and Sense of Self
+File:Spirit-of-Adventure-and-Inspiration-of-Inclusion-Shops.png|The Spirit of Adventure and the Inspiration of Inclusion
+File:Moominvalley-Cosmetics-Shops-Island-Post-Season.png|The Season of Moomin Shops area after the season ended
+</gallery>
+
+===All Moomin Friendship Trees===
+{{Mobile Tabber
+|tab1 = {{Season Icon|Moomin|tab}}
+|c1   = {{#lst:The Moomin Storybook|Friendship Tree}}
+|tab2 = {{Icon|Quest-icon.png|link=Quests|tab}}
+|c2   = {{#lst:The Moomin Storybook|Quest Tree}}
+|tab3 = {{Emote|Comfort of Kindness|tab}}
+|c3   = {{#lst:Comfort of Kindness|Season Friendship Tree}}
+|tab4 = {{Emote|Sense of Self|tab}}
+|c4   = {{#lst:Sense of Self|Season Friendship Tree}}
+|tab5 = {{Emote|Spirit of Adventure|tab}}
+|c5   = {{#lst:Spirit of Adventure|Season Friendship Tree}}
+|tab6 = {{Emote|Inspiration of Inclusion|tab}}
+|c6   = {{#lst:Inspiration of Inclusion|Season Friendship Tree}}
+}}
+
+===[[Comfort of Kindness]]===
+{{#lst:Comfort of Kindness|Summary}}
+{{#tag:gallery
+|{{Icon Name|Comfort of Kindness|neckpiece|real}} {{!}} The Neck Accessory
+{{Icon Name|Comfort of Kindness|hair|real}} {{!}} The Hair
+{{Icon Name|Comfort of Kindness|cape|real}} {{!}} The Cape
+{{Icon Name|Comfort of Kindness|prop_p|real}} {{!}} The {{Icon Name|Comfort of Kindness|prop_p_name}} Prop
+{{Icon Name|Comfort of Kindness|prop_c|real}} {{!}} The {{Icon Name|Comfort of Kindness|prop_c_name}} Prop
+|widths=125|spacing=small|captionalign=center|mode=nolines}}
+
+===[[Sense of Self]]===
+{{#lst:Sense of Self|Summary}}
+{{#tag:gallery
+|{{Icon Name|Sense of Self|shoes|real}} {{!}} The Shoes
+{{Icon Name|Sense of Self|neckpiece|real}} {{!}} The Neck Accessory
+{{Icon Name|Sense of Self|Hairpiece|real}} {{!}} The Hair Accessory
+|widths=125|spacing=small|captionalign=center|mode=nolines}}
+
+===[[Spirit of Adventure]]===
+{{#lst:Spirit of Adventure|Summary}}
+{{#tag:gallery
+|{{Icon Name|Spirit of Adventure|hair|real}} {{!}} The Hair
+{{Icon Name|Spirit of Adventure|cape|real}} {{!}} The Cape
+{{Icon Name|Spirit of Adventure|instrument|real}} {{!}} The Harmonica Instrument
+{{Icon Name|Spirit of Adventure|prop|real}} {{!}} The {{Icon Name|Spirit of Adventure|prop_name}} Prop
+|widths=125|spacing=small|captionalign=center|mode=nolines}}
+
+===[[Inspiration of Inclusion]]===
+{{#lst:Inspiration of Inclusion|Summary}}
+{{#tag:gallery
+|{{Icon Name|Inspiration of Inclusion|outfit|real}} {{!}} The Outfit
+{{Icon Name|Inspiration of Inclusion|neckpiece|real}} {{!}} The Neck Accessory
+{{Icon Name|Inspiration of Inclusion|Hairpiece|real}} {{!}} The Hair Accessory
+{{Icon Name|Inspiration of Inclusion|prop_c|real}} {{!}} The {{Icon Name|Inspiration of Inclusion|prop_c_name}} Prop
+{{Icon Name|Inspiration of Inclusion|prop_p|real}} {{!}} The {{Icon Name|Inspiration of Inclusion|prop_p_name}} Prop
+|widths=125|spacing=small|captionalign=center|mode=nolines}}
+
+===[[The Moomin Storybook]]===
+{{#lst:Moomin Guide|Summary}}
+{{#tag:gallery
+|{{Icon Name|Moomin Guide|necklace_u|real}} {{!}} Moomin Ultimate Pendant
+{{Icon Name|Moomin Guide|outfit_u|real}} {{!}} Moomin Ultimate Outfit
+{{Icon Name|Moomin Guide|prop_u|real}} {{!}} {{Icon Name|Moomin Guide|prop_u_name}}
+{{Icon Name|Moomin Guide|prop_m|real}} {{!}} {{Icon Name|Moomin Guide|prop_m_name}}
+|widths=125|spacing=small|captionalign=center|mode=nolines}}
+
+====Additional Cosmetics====
+Upon completing Quests from the Season of Moomin, additional collectibles are available to be collected for {{Candle}} [[Currency#Candles|regular Candles]] through the Moomin Storybook's [[The Moomin Storybook#Quest Tree|Quest Tree]]. No [[Season Pass]] or other [[IAP]] purchase are necessary for these collaboration items. These items are planned to remain in the Ultimate Guide's Quest Tree after the Season ends. 
+{{#tag:gallery
+|{{Icon Name|Moomin Guide|Outfit_i|real}} {{!}} Additional Outfit
+{{Icon Name|Moomin Guide|Prop_p|real}} {{!}} Additional Prop
+|widths=125|spacing=small|captionalign=center|mode=nolines}}
+
+==Premium Packs (In-App Purchases)==
+Some themed items were available outside of the Seasonal Spirit Constellations, from the In-App Purchase Shop in the [[Moominvalley#Moominvalley Glade|Moominvalley Glade]]<ref>Before Patch {{v|0.27.5}}, all Moomin Premium Packs were exclusively available for purchase through the [[Premium Candle Shop]].</ref> for the duration of the Season. They were available for different durations of the Season. All Seasonal IAPs offered for the Moomin collaboration were available until the Season ended on '''Sunday, December 29, 2024 at 23:59 PST (UTC -8).'''
+
+Please note that since all these items are part of a limited collaboration, they will not be available once the Season is over and are not scheduled to return in future years. <small>(Prices below are in USD, with actual costs varying depending on region/currency.)</small>
+
+===Moominmamma's Masterpiece===
+::'''''"The warm embrace of unconditional love.<br>This cape transports you and friends you're holding hands with into a special memory of the Moominhouse."'''''
+The Moominmamma's Masterpiece is peach with a white ruffled collar and trim along the bottom hem and features unique [[Capes#Cape Energy|Winged Light symbols]] shaped like bells, closely resembling the dress [https://www.moomin.com/en/characters/moominmamma/ Moominmamma] gifts to [https://www.moomin.com/en/characters/ninny-the-invisible-child/ Ninny] upon her arrival to the Moominhouse. This [[Cape]] was introduced as a '''limited-time offer''' in 2024 and became available with the arrival of the [[#Quest #6|final Quest]] on '''Dec 9th, 2024''' for {{USD|24.99|refnote}} from the [[Premium Candle Shop]] for the duration of the Season. <small>(Since this item is part of a limited collaboration, it is not scheduled to return in future years.)</small><br>
+<br>
+{{#tag:gallery
+|File:Moominmammas-Masterpiece-IAP.png {{!}} {{Icon Name|Moomin Guide|Cape_n_name}} IAP
+{{Icon Name|Moomin Guide|Cape_n}} {{!}} {{Icon Name|Moomin Guide|Cape_n_name}} icon
+{{Icon Name|Moomin Guide|Cape_n|front}} {{!}} {{Icon Name|Moomin Guide|Cape_n_name}} front
+{{Icon Name|Moomin Guide|Cape_n|interior}} {{!}} {{Icon Name|Moomin Guide|Cape_n_name}} interior
+{{Icon Name|Moomin Guide|Cape_n|real}} {{!}} {{Icon Name|Moomin Guide|Cape_n_name}} back
+{{Icon Name|Moomin Guide|Cape_n|exterior}} {{!}} {{Icon Name|Moomin Guide|Cape_n_name}} exterior
+File:Moominmammas-Masterpiece-Spell-icon.png {{!}} {{Icon Name|Moomin Guide|Cape_n_name}} Spell
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Hattifattener Shoulder Buddy===
+::'''''"Silent travelers with eyes only for the horizon."'''''
+The Hattifattener Shoulder Buddy is a pair of wide-eyed [https://www.moomin.com/en/characters/hattifatteners/ Hattifatteners] that sit on the player's left shoulder. This [[Neck Accessory]] was introduced as a '''limited-time offer''' in 2024 and is available for {{USD|2.99|refnote}} from the [[Premium Candle Shop]] for the duration of the Season. <small>(Since this item is part of a limited collaboration, it is not scheduled to return in future years.)</small><br>
+<br>
+{{#tag:gallery
+|File:Hattifattener-Shoulder-Buddy-IAP.png {{!}} {{Icon Name|Moomin Guide|Neckpiece_h_name}} IAP
+{{Icon Name|Moomin Guide|Neckpiece_h}} {{!}} {{Icon Name|Moomin Guide|Neckpiece_h_name}} icon
+{{Icon Name|Moomin Guide|Neckpiece_h|real}} {{!}} {{Icon Name|Moomin Guide|Neckpiece_h_name}}
+File:Hattifattener-Shoulder-Buddy-Spell.png {{!}} {{Icon Name|Moomin Guide|Neckpiece_h_name}} Spell
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Moomintroll Ears"></span>Moomintroll Accessory Set<span id="Moomintroll Tail"></span>===
+::'''''"Curiously perked ears and an even curiouser tail."'''''
+The Moomintroll Accessory Set contains two items: the Moomintroll Ears and Moomintroll Tail. The Moomintroll Ears are a [[Hair Accessory]] that resemble [https://www.moomin.com/en/characters/moomintroll/ Moomintroll]'s pointed ears on a white headband. The Moomintroll Tail is a <!-- potentially new closet category TBA?-->[[Neck Accessory]] that resembles Moomintroll's long, slim tail with a tuft of white fur on the end. This pack was introduced as a '''limited-time offer''' in 2024 and is available for {{USD|11.99|refnote}} from the [[Premium Candle Shop]] for the duration of the Season. <small>(Since these items are part of a limited collaboration, they are not scheduled to return in future years.)</small><br>
+<br>
+{{#tag:gallery
+|File:Moomintroll-Accessory-Set-IAP.png {{!}} Moomintroll Accessory Set IAP
+{{Icon Name|Moomin Guide|Hairpiece_m}} {{!}} {{Icon Name|Moomin Guide|Hairpiece_m_name}} icon
+{{Icon Name|Moomin Guide|Hairpiece_m|real}} {{!}} {{Icon Name|Moomin Guide|Hairpiece_m_name}}
+File:Moomintroll-Accessory-Set-Ears-Spell.png {{!}} Moomintroll Ears Spell
+{{Icon Name|Moomin Guide|Neckpiece_m}} {{!}} {{Icon Name|Moomin Guide|Neckpiece_m_name}} icon
+{{Icon Name|Moomin Guide|Neckpiece_m|real}} {{!}} {{Icon Name|Moomin Guide|Neckpiece_m_name}}
+File:Moomintroll-Accessory-Set-Tail-Spell.png {{!}} Moomintroll Tail Spell
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Roving Snufkin Robe"></span>Roving Snufkin Robe Set<span id="Roving Snufkin Scarf"></span>===
+::'''''"A sturdy and weathered robe and scarf suited for the whims of a wanderer."'''''
+The Roving Snufkin Robe Set contains two items: the Roving Snufkin Robe and Roving Snufkin Scarf. The Roving Snufkin Robe is an [[Outfit]] that resembles [https://www.moomin.com/en/characters/snufkin/ Snufkin]'s worn green smock with long sleeves and yellow buttons on the back, along with a pair matching pants and sturdy brown boots. The Roving Snufkin Scarf is a [[Neck Accessory]] that resembles Snufkin's short orange scarf which wraps around the player's neck. This pack was introduced as a '''limited-time offer''' in 2024 and is available for {{USD|9.99|refnote}} from the [[Premium Candle Shop]] for the duration of the Season. <small>(Since these items are part of a limited collaboration, they are not scheduled to return in future years.)</small><br>
+<br>
+{{#tag:gallery
+|File:Roving-Snufkin-Robe-Set-IAP.png {{!}} Roving Snufkin Robe Set IAP
+{{Icon Name|Moomin Guide|Outfit_s}} {{!}} {{Icon Name|Moomin Guide|Outfit_s_name}} icon
+{{Icon Name|Moomin Guide|Outfit_s|real}} {{!}} {{Icon Name|Moomin Guide|Outfit_s_name}} front
+{{Icon Name|Moomin Guide|Outfit_s|back}} {{!}} {{Icon Name|Moomin Guide|Outfit_s_name}} back
+File:Roving-Snufkin-Robe-Spell.png {{!}} Roving Snufkin Robe  Spell
+{{Icon Name|Moomin Guide|Neckpiece_s}} {{!}} {{Icon Name|Moomin Guide|Neckpiece_s_name}} icon
+{{Icon Name|Moomin Guide|Neckpiece_s|real}} {{!}} {{Icon Name|Moomin Guide|Neckpiece_s_name}}
+File:Roving-Snufkin-Scarf-Spell.png {{!}} Roving Snufkin Scarf Spell
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Pointed Snufkin Hat===
+::'''''"Perfect for growing a tune beneath, until the time is just right."'''''
+The Pointed Snufkin Hat is a tall, pointed green hat with a wide, tattered brim and features a yellow feather on the right side, closely resembling [https://www.moomin.com/en/characters/snufkin/ Snufkin]'s iconic hat. This [[Hair Accessory]] was introduced as a '''limited-time offer''' in 2024 and is available for {{USD|4.99|refnote}} from the [[Premium Candle Shop]] for the duration of the Season. <small>(Since this item is part of a limited collaboration, it is not scheduled to return in future years.)</small><br>
+<br>
+{{#tag:gallery
+|File:Pointed-Snufkin-Hat-IAP.png {{!}} {{Icon Name|Moomin Guide|Hairpiece_s_name}} IAP
+{{Icon Name|Moomin Guide|Hairpiece_s}} {{!}} {{Icon Name|Moomin Guide|Hairpiece_s_name}} icon
+{{Icon Name|Moomin Guide|Hairpiece_s|real}} {{!}} {{Icon Name|Moomin Guide|Hairpiece_s_name}}
+File:Pointed-Snufkin-Hat-Spell.png {{!}} {{Icon Name|Moomin Guide|Hairpiece_s_name}} Spell
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Price Charts==
+Use the [[Seasonal Events/Calculator|Event Calculator]] to verify the status of your Candle count.
+{| class="article-table"
+! Spirits
+! colspan="6" | Candle Cost
+! Total Seasonal Candles
+|-
+|Comfort of Kindness
+|{{#vardefineecho:A1| 6 }}
+|{{#vardefineecho:A2| 16 }}
+|{{#vardefineecho:A3| 20 }}
+|{{#vardefineecho:A4| 24 }}
+|{{#vardefineecho:A5| 32 }}
+|3*
+|{{Cost| {{#vardefineecho:Asum| {{#expr: {{#var:A1}} + {{#var:A2}} + {{#var:A3}} + {{#var:A4}} + {{#var:A5}} + 3 }} }} SC|season=Moomin}}
+|-
+|Sense of Self
+|{{#vardefineecho:B1| 12 }}
+|{{#vardefineecho:B2| 18 }}
+|{{#vardefineecho:B3| 24 }}
+|{{#vardefineecho:B4| 28 }}
+|{{#vardefineecho:B5|  }}
+|3*
+|{{Cost| {{#vardefineecho:Bsum| {{#expr: {{#var:B1}} + {{#var:B2}} + {{#var:B3}} + {{#var:B4}} + {{#var:B5}} + 3 }} }} SC|season=Moomin}}
+|-
+|Spirit of Adventure
+|{{#vardefineecho:C1| 8 }}
+|{{#vardefineecho:C2| 20 }}
+|{{#vardefineecho:C3| 26 }}
+|{{#vardefineecho:C4| 38 }}
+|{{#vardefineecho:C5|  }}
+|3*
+|{{Cost| {{#vardefineecho:Csum| {{#expr: {{#var:C1}} + {{#var:C2}} + {{#var:C3}} + {{#var:C4}} + {{#var:C5}} + 3 }} }} SC|season=Moomin}}
+|-
+|Inspiration of Inclusion
+|{{#vardefineecho:D1| 12 }}
+|{{#vardefineecho:D2| 16 }}
+|{{#vardefineecho:D3| 20 }}
+|{{#vardefineecho:D4| 26 }}
+|{{#vardefineecho:D5| 36 }}
+|3*
+|{{Cost| {{#vardefineecho:Dsum| {{#expr: {{#var:D1}} + {{#var:D2}} + {{#var:D3}} + {{#var:D4}} + {{#var:D5}} + 3 }} }} SC|season=Moomin}}
+|-
+! colspan="7" | Total for Season
+! {{Cost| {{#expr: {{#var:Asum}} + {{#var:Bsum}} + {{#var:Csum}} + {{#var:Dsum}} }} SC|season=Moomin}}
+|}<small>''* Only available with [[Season Pass]] (Seasonal Hearts) (subtract when calculating without)''</small>
+
+==Trivia==
+*In an interview shared on the Chinese blogging site [http://m.weibo.cn/status/5084998586337636 Weibo], Jenova Chen states that the Season is largely inspired by the original ''Moomin'' novels, instead of the comics or various animated adaptations.
+**Many of the Moomin characters and Seasonal cosmetics appear to take inspiration from the designs seen in later adaptations, such as the [https://moomin.fandom.com/wiki/Moomin_(1990_TV_series) 1990s animated cartoon].
+*The Season of Moomin is depicted in several merch items from [[That Sky Shop]]. To know more about That Sky Shop products, visit their website: https://thatskyshop.com
+
+==Video Gallery==
+{{#ev:youtube|j06mfXCcQ40|300|inline|Season of Moomin SkyFest Discussion}}
+{{#ev:youtube|mEN0OYYjGYM|300|inline|Season of Moomin SkyFest Teaser}}
+<div float: left;><span class="fb-video" data-href="https://www.facebook.com/thatskygame/videos/2689101344594714/" data-height="175" data-show-text="false" ></span><br><small>Season of Moomin Teaser</small></div>
+
+==Image Gallery==
+<gallery widths="125" spacing="small" captionalign="center" >
+Season-of-Moomin-promo-image-Patch-Notes.png
+SoMoomin-Aviary-Plushie-promo-image.png
+SoMoomin-Plushie-Aww-promo-image.png
+SoMoomin-greyscale-room-closeup-promo-image.png
+SoMoomin-Aviary-Skids-promo-image.png
+SoMoomin-Moominvalley-Bridge-promo-image.png
+SoMoomin-Snufkin-promo-image.png
+SoMoomin-Too-Ticky-promo-image.png
+SoMoomin-Moomintroll-promo-image.png
+SoMoomin-greyscale-room-promo-image.png
+SoMoomin-Ninny-promo-image.png
+SoMoomin-restore-promo-image.png
+SoMoomin-Teaser-image.png
+Season-of-Moomin-Storybook-Quest-6-End.png
+</gallery>
+
+==References==
+<references />
+
+{{Seasonal Navbox}}
+
+[[fr:Saison des Moomins]]
+[[pt-br:Temporada dos Mumins]]
+[[ja:ムーミンの季節]]
+[[zh:姆明季]]
+
+[[Category:Collaborations]]
+
+{{DEFAULTSORT:Moomin, Season of}}

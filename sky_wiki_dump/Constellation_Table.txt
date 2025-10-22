@@ -1,0 +1,168 @@
+[[File:Home Constellation Table.png|thumb|300px|The Constellation Table at Home]]
+[[File:Mural-Aviary-Village-constellation-table.png|thumb|299x299px|Constellation Table in Aviary Village]]
+The Constellation Table is the stone that you spawn on at [[Home]] and resides in front of the Realm Entry Portals in [[Aviary Village]]. It functions is a friend list and gives access to Spirit Friendship Trees. The player can send Heart Fragments or Hearts to friends and purchase Cosmetics from Spirits. The Constellation Table is only available after the player has fully completed the Isle of Dawn.
+
+In total, three vital aspects of the game are controlled by the Constellation Table:
+*Friendship Constellations (friend list) - Top
+*Realm [[Constellations]] - Bottom
+**Access Regular Spirit Friendship Trees that the player has collected 
+**Purchase Expression upgrades, Hearts, and Blessings
+**Purchase Cosmetics (Hair, Capes, Masks, Instruments, and Pants)
+*Season Constellation - Bottom, between Forest and Valley Constellations
+**Access Seasonal Spirit Friendship Trees during a Seasonal Event
+**Purchase Seasonal Expression upgrades and Blessings
+**Purchase Seasonal Cosmetics
+**View the End of Season cutscene (From Season of Gratitude to Season of Rhythm only)
+
+==Friendship Constellations==
+[[File:Friendship-constellation-Favorites.png|thumb|350px|An example of a Friend Constellation]]
+Starting from the left, you will find the "Add friend", "Sent friend requests", "Received friend requests" and "Blocked friends" buttons. The next pages will show all your favorite friends' stars, spread over several Constellations, but friends you haven't marked as favorites will appear randomly in the last pages. Players can have a limitless number of friends, but only 110 friends will show on your constellation<ref>Previously, the Friendship Constellation could only fit 72 friends.</ref>, divided into a maximum of 10 constellations. Each group constellation page can display up to 10 stars: eight in the main constellation and two that can be placed near it in the sky. If you have more friends than that, a certain selection will randomly appear in the last unorganized pages until it reach 110.
+
+In the Friendship Constellation, the player can:
+*See whether a friend is online
+*Collect and send Gifts of Light (Heart Fragments)
+*Collect and send Hearts Gifts
+*Teleport to the location of friends, that are online
+
+To interact with friends via the Constellations, tap on the Friend Star to collect a Gift of Light and to view the [[#Friend Star Menu]] as well as the avatar of a friend.
+
+[[File:Sky Children of the Light (0.4.10 Beta) Tutorial - The Constellation Table (Friends and Spirits)|thumb|335px|none]]
+
+===Send or Collect Gifts of Light===
+[[File:Wax_blessing.png|thumb|300px|Friend Menu]]
+Gifts of Light (also known as "Heart Fragments") appear as sparkles around the Friend Star. They can be collected simply by tapping on the star. 
+
+If a Friend Star is grayed out (dim), then you can send them a Gift of Light. Tap on the Friend Star, wait for their avatar to appear, and then tap the "flame" icon that appears above their avatar's head. If a friend's star is brightly lit then you cannot send them a Gift of Light. You can only light your friend once a day, and the friend must have collected the previous Gift beforehand. Every 60 Heart Fragments can be forged into a Heart.
+
+===Friend Stars===
+A ring of light orbiting around a Friend Star indicates that the friend is online.
+<gallery widths="400" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+HowtheLightWorksDidiJax.png|Meaning of the lights in your constellation - A chart by DidiJax#5735
+Friendship-constellation-Favorites.png|A constellation with different friendship stars status
+</gallery>
+
+=== Rename Friendship Constellation ===
+[[File:Friendship-constellation-edit-mode.png|thumb|350px|The Rename Friend constellation screen]]
+By default, your constellations title will be called "Favorites". If you want to rename one, simply click the pen icon, located on the top right corner and "Favorites" will now be changed to "Group Name". Click the "Group Name" title and a popup with "Rename Friend Constellation" will appear. Add a title and Accept the changes. The top corner of your screen will remain in "Edit mode" as long as you don't close the friend constellation or exit the Edit mode. To exit the Edit mode, click the checkmark on the top right corner of your screen.
+
+===Favorite Constellations===
+<gallery widths="250" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Favorite-friend-constellation-01.png|Crown/Cassiopeia
+Favorite-friend-constellation-02.png|Umbrella/Cygnus
+Favorite-friend-constellation-03.png|Mantas/Ursa Major
+Favorite-friend-constellation-04.png|Harp/Lyra
+Favorite-friend-constellation-05.png|Spirit Marker Stone/Gemini
+Favorite-friend-constellation-06.png|Crabs/Cancer
+</gallery>
+
+=== Rearrange Friends ===
+While in "Edit mode" (click the pen icon on the top right of your screen) you can move your friends from one constellation to another to group them to your liking (Heart shriners, real life friends, Facebook friends, etc... ). Simply select the desired friend star, it will position itself at bottom of your screen temporarily, next swipe left or right until you find the constellation where you want this friend to be located and find an empty spot to place them. Empty spots are empty circle on the constellations. Once done, exit Edit mode. 
+
+When a Friend Star is being moved and a non-favorite constellation is visible, two buttons appear: "Friends" and "+ New Constellation". The first option drops the star with the non-favorite constellations, and the second option is explained in the section below.
+
+=== Create a New Constellation ===
+[[File:Friendship-constellation-create-new.png|thumb|350px|Creating a new constellation]]
+While in "Edit mode" (click the pen icon on the top right of your screen), select a friend to move (this friend is now at the bottom of your screen)and swipe to a non-favorite constellation. Choose the "+ New Constellation" option and an empty favorite constellation will be created with your friend automatically moved there. Exit edit mode to save.
+
+==Friend Star Menu==
+The menu displayed after tapping on a friend's Star in a Friendship Constellation is slightly different from the [[Friendship Menu]].
+
+===Edit Name===
+[[File:Edit friend name.png|left|frameless|80x80px]]
+Edit or rename a friend using this option.
+{{Clear}}
+
+===Teleport to Friend===
+[[File:Menu-friend constellation.png|thumb|370x370px]]
+[[File:Icon follow.png|left|frameless|80x80px]]
+Teleport to be transported to the same Realm and area the friend is currently in. When teleporting, unless known ahead of time, players will not know which Realm they will end up in. This icon will be grayed out if the friend is not online and if you try to teleport, it will shake and say, "Your friend is not online". 
+
+The Teleport icon in the menu matches the Follow icon.
+
+There are teleport limitations:
+
+*It is not possible to teleport to a friend who is not online.
+*It is not possible to teleport to a friend while they're transitioning between areas.
+*It is not possible to teleport to a friend in [[Eye of Eden]] (Note: Warp still works within this level).
+*It is not possible to teleport to a friend who is in the [[Secret Area]].
+*It is not possible to teleport to a friend who is in the middle of a challenge from the [[Season of Prophecy|Cave of Prophecy]].
+*It is not possible to teleport to a friend in an area that already has the maximum number of players in it (eight).
+*A player cannot teleport to a friend who is in an area of the game they have not yet visited.
+* A player ''often'' cannot teleport to a friend on an older/newer version of the app.
+
+The Teleport icon will appear grayed out when a friend is offline. If they are online, the game will display the following message: "Your Friend is in a place where you cannot join right now." Sometimes waiting a few moments will make it possible to teleport.
+
+===Mail or Collect Heart Gift===
+[[File:Gift-heart.png|left|frameless|80x80px]]
+A Heart can be sent to a friend by tapping this icon three times, once for each Candle spent. The receiver will be notified and will see a Heart in front of the sender's Friend Star, indicating who gave the Heart Gift. The receiver can collect the Heart by tapping the Friend Star and the Gift envelop in the Friend Star Menu. They must collect it before reciprocating the Gift Heart or receiving a second Gift Heart from that friend the following day. You can only Gift a Heart to a specific friend once per day. New players may only begin Gifting friends after having completed the Valley of Triumph, reaching the social space of Golden Wasteland.
+
+===Check PSN Username===
+[[File:PS-Username.png|left|frameless|80x80px]] [[File:Globe.png|right|frameless|80x80px]]
+While playing on PlayStation, there is an additional button. If another player is also on PlayStation, it will show the PS icon. Selecting it shows their PlayStation Network's Online ID. Otherwise, the globe icon is shown.
+{{Clear}}
+
+===Favorite/Unfavorite a Friend===
+[[File:Icon favorite friend.png|left|80x80px|alt=|frameless]]
+You can Favorite or Unfavorite friends here. If the star in the image is empty and the two figures are apart from each other, you can select the icon to Favorite the friend. If the star is full and the figures are next to each other, you can select it to Unfavorite the friend. Favoriting a friend gives that player a place in your Crown Constellation. Since there is a limit to the number of friends displayed, if you have too many favorited friends, then some may not always appear in your Crown Constellation. 
+
+You receive an in-game notification when Favorite Friends come online. 
+
+Note: There is no limit to the number of friends you can have, just to the number displayed at one time.
+
+===Block a Friend===
+[[File:Block player.png|left|80x80px|alt=|frameless]]
+Blocking a friend removes the friend’s star from your Friend Constellations and prevents you from being reacquainted until the individual is unblocked. The functionality and usefulness of this feature has been evolving, and it can sometimes have consequences, so use it wisely.
+[[File:Block-Report.png|thumb|196x196px]]
+To block a friend, after tapping the friend’s Star on your constellation, tap on the Block player icon. The blocked friend's Star may not be removed immediately, but should be removed after the next login. If the Star has not been removed upon the next login, repeat the steps.
+
+Currently, blocking a friend does the following:
+*Chat will be muted between the two of you.
+*Their Star will be removed from your Constellation, so you will not be able to find them there.
+*Your Star will remain in their Constellation, though they will '''never''' see you as online – and thus cannot ever Teleport to you. Since there will be no way for them to see that you have blocked them, they will still be able to send you a Gift of Light and a Heart one time. After that, never again, because you will never receive it since they will not appear in your Constellation.
+*The only way to meet them again would be by Teleporting into the same area as a mutual friend.
+*If you do meet a blocked friend in-game, their name will display a red "blocked" icon, so it will be clear to you (but not them) that you have blocked them.
+*The blocked person will see you as a colorless silhouette – exactly like any other unfamiliar player. They cannot see your appearance even if you both try to light each other with candles, and nicknames will be hidden even upon a Deep Call.
+*If you tap on a blocked friend, the Friendship Menu will be blank. There is an unblock button at the leftmost page of the Friend Constellations if you desire to unblock them.
+
+If you are having serious issues with a person in the game (e.g. harassment or otherwise threatening behavior), blocking friendship may do little to resolve the situation if you have friends in common. You can try reporting the friend using the report button on the Friendship Menu or through the Constellation. You can also notify support via [[Menus and Controls#Gear Menu|In-Game feedback]] or [https://thatgamecompany.helpshift.com/ through Helpshift]. Telling mutual friends the reason(s) you have chosen to block/report them would be the most effective solution – although personal situations may make this difficult.
+
+===Report a Friend===
+[[File:Report player.png|left|80x80px|alt=|frameless]]
+Above the "Block Player" icon is the "Report Player" icon. Tapping this allows you to report the friend if they are behaving in an inappropriate manner.
+
+A pop up will show the following Player Report options:
+* Targeted Harassment
+* Disruptive Behavior
+* Hacking or Cheating
+* Inappropriate or Offensive Behavior
+* Other
+
+All reports are manually reviewed by a Support person.<ref>A [https://discord.com/channels/575762611111592007/575827782144098304/1217903320543268905 Discord message by Sagomay] said, "This is a rumor—we do not have instant bans in the game, as we've been saying for a year or more. People are banned only after we manually review their account for hacking behavior."</ref>
+{{Clear}}
+
+===Unfriend a Friend===
+[[File:Delete-image-Ray.png|left|80x80px|alt=|frameless]]
+Above the "Report Player" icon is the "Unfriend Player" icon. Tapping this allows you to unfriend the friend.
+With unfriending:
+* The unfriended player is removed from your Constellation.
+* All relationship abilities between you and the other person are disabled (including chat).
+* It’s possible to meet someone you unfriended. If that happens, you and the unfriended player will appear as strangers to each other if you meet again in-game.
+* If you light their avatar, there will be an icon over their head to indicate that they are someone you unfriended.
+
+If you meet someone you unfriended, both of you have the option of rekindling your friendship at no additional Candle cost. All previously unlocked relationship abilities will be restored.
+
+==Realm and Season Constellations==
+For more information, see the [[Constellations]] page.
+
+==Trivia==
+*If a friend sends you a Gift of Light (Heart fragments) while you call down that friend's avatar at a Constellation Table, the Gift of Light will appear as a single light piece (similar to wax) hovering over their candle which you immediately collect. These light pieces sometimes visually stay behind at Constellation Tables or the Friendship Constellation Statue due to network instability and go away after some time.
+
+==References==
+<references/>
+
+[[fr:Table de Constellation]]
+[[pt-br:Mesa de Constelações]]
+[[de:Konstellationen-Platte]]
+
+[[Category:Menus]]
+[[Category:Basic Guides]]

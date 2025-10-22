@@ -1,0 +1,805 @@
+{{Help|beta}}
+{{SkyEvent
+| image = Days-of-Nature-2025-Promo-image.png
+| previousevent = [[Days of Bloom]]
+| nextevent = [[Days of Color]]
+| date = April 28 to May 18, 2025
+}}
+<section begin="Summary" />
+'''Days of Nature''' is an annual charity event celebrating [[wp:Earth Day|Earth Day]] by highlighting real-life ecological and environmental issues that usually happens around mid-April and lasts until the beginning of May. As part of the celebrations, ''Sky'' encourages players to make a difference in the real world by partnering with charities that take concrete action to clean and protect our planet, to whom they donate part of the net profit from [[Premium Candle Shop|IAP]] sales.<section end="Summary" />
+
+During the event, players can participate in special activities to clean up [[Darkness]] and lend aid to the various [[Light Creatures]] that inhabit the world of ''Sky''—and earn a bit of [[Pieces of Light|Light]] in the process. Alongside the Nature Guide Spirit, the [[Chill Sunbather]] arrives to wander the beach near the [[Additional Light Sources#Sunset Sanctuary Turtle|Turtle]] in [[Sanctuary Islands]] and offers returning items from previous years.
+
+Nature-themed IAPs are available from the in-game shop, and the Nature Guide Spirit offers various cosmetics from their Friendship Tree. Free [[Spells]] to try all of these items can also be collected from the [[Spell Shops#Sleepy Traveler's Boat|Sleepy Traveler's boat]] at Home, the [[Aviary Village#Spell Shop|Spell Shop]] in Aviary Village, or the Nature Gift Box found at the event area.
+
+
+==April 2025<span id="2025"></span>==
+{{#ev:youtube|d4HS_RlCcHw||right|Days of Nature 2025 Trailer}}
+Days of Nature returned for a sixth year! From '''Monday, April 28, 2025 at 00:00 PDT (UTC-7)''' through '''Sunday, May 18, 2025 at 23:59 PDT (UTC-7)''', lasting '''21''' days. The ocean and its beloved [[Creatures#Light Creatures|Creatures]] were in trouble once more—sending a quiet plea for help that echoed across the waves. For the duration of the event, the Nature Guide stood at [[Home]] and [[Aviary Village]], offering to teleport players to [[Sanctuary Islands]].
+
+It all began high atop the mountains of the Sanctuary Islands, where something felt different this year. Tiny specks of Microdarkness had begun to spread, disrupting the ecosystem by polluting the waters, and trapping the various light creatures that call it home. Each day, players could take the burden of the Sanctuary onto themselves by freeing the small creatures, and collecting [[Darkness]] by swimming in the polluted waters, then seeking out a Flame or Geyser to cleanse the Darkness.
+
+Sky continued its partnership with The Ocean Cleanup, a nonprofit organization dedicated to ridding the world’s oceans and rivers of plastic pollution. The majority of the [[Premium Candle Shop|IAPs]] available for purchase during Days of Nature 2025 supported real-world cleanup efforts in oceans and waterways.
+
+===Ticket Locations===
+[[File:Days-of-Nature-Clam-Ticket.png|125px|thumb|A Days of Nature clam Ticket]]
+[[File:Wax-days-of-nature-2025-bonfire.png|200px|thumb|Bonfire with Reward]]
+{{#ev:youtube|Ec79mJGPbzw||right|Daily Ticket Guide}}
+A total of {{Cost|5 T|event=nature}} Event Tickets could be forged by participating in the event activities each day. In addition, {{Cost|15 T|event=nature}} one-time Event Tickets shaped like clams were hidden throughout the [[Sanctuary Islands]]. They could be collected at any time during the event. 
+
+The [[Darkness]] patch moved around daily. The Nature Guide would point out the location in the {{Icon|Question-mark-Ray.png}} cutscene at the bottom of their Friendship Tree. Otherwise, it could be spotted near the [[Mantas#Elder Mantas|Elder Manta]]. The bonfire locations were always nearby and corresponded to the bonus Event Ticket locations. Cleaning all the Darkness for the first time everyday rewarded players with ~200 [[Pieces of Light]] at the bonfire.
+
+Players could also buy additional Tickets (costing {{Cost|2 AC}} or {{Cost|6 C}} each) from the Nature Gift Box next to the [[Chill Sunbather]] at [[Sanctuary Islands]].
+
+<gallery widths="300px" captionalign="center" position="left">
+File:Days of nature2025-04-29.jpg|Ticket locations by Solsuga
+</gallery>
+
+{| class="article-table mw-collapsible mw-collapsed"
+|-
+! style="text-align:center" colspan="2" | Bonfire Locations
+!
+|-
+! style="width:10%" | Date
+! Location
+! Creature
+|-
+| April 28
+| On one of the far geyser islands (near the Sanctuary Turtle) underneath the floating islands
+| Birds
+|-
+| April 29
+| On one of the far islands with the Sanctuary Turtle
+| Birds
+|-
+| April 30
+| On the beach below the cave entrance with [[Chill Sunbather]]
+| Birds
+|-
+| May 1
+| Inside the cave with [[Grateful Shell Collector]]
+| Birds
+|- 
+| May 2
+| On one of the far archipelago islands (near the Sanctuary Turtle) underneath the floating islands
+| Birds
+|-
+| May 3
+| On the beach next to a geyser and [[Hiking Grouch]]
+| Birds
+|- 
+| May 4
+| On one of the closer islands underneath the floating islands with [[Timid Bookworm]] (Darkness patch is in the middle of the water between the archipelago and main island) 
+| Birds
+|- 
+| May 5
+| On one of the closer islands underneath the floating islands with [[Timid Bookworm]]
+| Manta
+|- <!--
+| May 6
+| 
+|- <!--
+| May 7
+| 
+|- <!--
+| May 8
+| 
+|- <!--
+| May 9
+| 
+|- <!--
+| May 10
+| 
+|- <!--
+| May 11
+| 
+|- <!--
+| May 12
+| 
+|- <!--
+| May 13
+| 
+|- <!--
+| May 14
+| 
+|- <!--
+| May 15
+| 
+|- <!--
+| May 16
+| -->
+|}
+
+{{Friendship Tree
+|label  = Nature Guide
+|event = Nature
+|image = Days-of-Nature-Guide-2025.png
+
+|nodeC4 = {{Icon Name|Nature Coral Crown|icon}} 20 H
+|  labelC4 = {{Icon Name|Nature Coral Crown|name}}
+|  linkC4 = Days of Nature#{{Icon Name|Nature Coral Crown|name}}
+
+|nodeL3 = {{Icon Name|Nature School Cape|icon}} 180 C
+|  labelL3 = {{Icon Name|Nature School Cape|name}}
+|  linkL3 = Days of Nature#{{Icon Name|Nature School Cape|name}}
+|nodeC3 = spell5
+|  labelC3 = Spell
+|  linkC3 = Spells
+
+|nodeR2 = {{Icon Name|Ocean Blue Scarf|icon}} 14 H
+|  labelR2 = {{Icon Name|Ocean Blue Scarf|name}}
+|  linkR2  = Days of Nature#{{Icon Name|Ocean Blue Scarf|name}}
+|nodeL2 = {{Icon Name|Ocean Mask|icon}} 36 C
+|  labelL2 = {{Icon Name|Ocean Mask|name}}
+|  linkL2  = Days of Nature#{{Icon Name|Ocean Mask|name}}
+|nodeC2 = spell5
+|  labelC2 = Spell
+|  linkC2  = Spells
+
+|nodeR1 = {{Icon Name|Ocean Manta Hair|icon}} 37 T
+|  labelR1 = {{Icon Name|Ocean Manta Hair|name}}
+|  linkR1  = Days of Nature#{{Icon Name|Ocean Manta Hair|name}}
+|nodeL1 = {{Icon Name|Ocean Waves Outfit|icon}} 49 T
+|  labelL1 = {{Icon Name|Ocean Waves Outfit|name}}
+|  linkL1  = Days of Nature#{{Icon Name|Ocean Waves Outfit|name}}
+|nodeC1 = spell5
+|  labelC1 = Spell
+|  linkC1  = Spells
+}}{{Clear}}
+
+===<big>All Available Collectibles in 2025</big>===
+{| class="article-table"
+!Name
+!Icon
+!Type
+!Cost
+!Location
+!Spell
+!Spell Cost & Locations
+|-
+! colspan="7" style="text-align:center;" |From Days of Nature 2025
+|-
+| rowspan="2" |[[Days of Nature#Ocean Sea Foam Set|Ocean Sea Foam Set]] + {{Cost|30 C}}
+|{{Days Item|Ocean Sea Foam Cape||table}}
+|[[Cape]]
+| rowspan="2" |{{Cost|24.99 USD|ref}}
+| rowspan="2" |<small>[[Premium Candle Shop]]</small>
+|{{Days Item|Ocean Sea Foam Cape|spell|table}}<small>x3</small>
+| rowspan="2" |<small>Nature Gift Box at [[Sanctuary Islands]] for free</small>
+|-
+|{{Days Item|Ocean Sea Foam Boots||table}}
+|[[Shoes]]
+|{{Days Item|Ocean Sea Foam Boots|spell|table}}<small>x3</small>
+|-
+|[[Days of Nature#{{Icon Name|Ocean Wave Mask|name}}|{{Icon Name|Ocean Wave Mask|name}}]] + {{Cost|75 C}}
+|{{Days Item|Ocean Wave Mask||table}}
+|[[Mask]]
+|{{Cost|19.99 USD|refnote}}
+|<small>[[Premium Candle Shop]]</small>
+|{{Days Item|Ocean Wave Mask|spell|table}}<small>x6</small>
+|<small>Nature Gift Box at [[Sanctuary Islands]] for free</small>
+|-
+|[[Days of Nature#{{Icon Name|Ocean Waves Outfit|name}}|{{Icon Name|Ocean Waves Outfit|name}}]]
+|{{Days Item|Ocean Waves Outfit||table}}
+|[[Outfit]]
+|{{Cost|49 T|event=nature}}
+|<small>Nature Guide at [[Sanctuary Islands]]</small>
+|{{Days Item|Ocean Waves Outfit|spell|table}}<small>x3</small>
+|<small>Nature Gift Box at [[Sanctuary Islands]] for free</small>
+|-
+|[[Days of Nature#{{Icon Name|Ocean Manta Hair|name}}|{{Icon Name|Ocean Manta Hair|name}}]]
+|{{Days Item|Ocean Manta Hair||table}}
+|[[Hair]]
+|{{Cost|37 T|event=nature}}
+|<small>Nature Guide at [[Sanctuary Islands]]</small>
+|{{Days Item|Ocean Manta Hair|spell|table}}<small>x3</small>
+|<small>Nature Gift Box at [[Sanctuary Islands]] for free</small>
+|-
+! colspan="7" style="text-align:center;" |From Days of Nature 2024
+|-
+|[[Days of Nature#Nature Wave Pack|Nature Wave Pack]] + {{Cost|75 C}}
+|{{Days Item|Nature Wave Cape||table}}
+|[[Cape]]
+|{{Cost|19.99 USD|refnote}}
+|<small>Chill Sunbather next to Nature Guide at [[Sanctuary Islands]]</small>
+|{{Days Item|Nature Wave Cape|spell|table}}<small>x6</small>
+|<small>Nature Gift Box at [[Sanctuary Islands]] for free</small>
+|-
+|[[Days of Nature#{{Icon Name|Nature Wave-Touched Hair|name}}|{{Icon Name|Nature Wave-Touched Hair|name}}]]
+|{{Days Item|Nature Wave-Touched Hair||table}}
+|[[Hair]]
+|{{Cost|6.99 USD|refnote}}
+|<small>Chill Sunbather next to Nature Guide at [[Sanctuary Islands]]</small>
+|{{Days Item|Nature Wave-Touched Hair|spell|table}}<small>x6</small>
+|<small>Nature Gift Box at [[Sanctuary Islands]] for free</small>
+|-
+|[[Days of Nature#{{Icon Name|Ocean Mask|name}}|{{Icon Name|Ocean Mask|name}}]]<ref name="2024_mask_renamed">The Days of Nature 2024 "Ocean Mask" was renamed to "Nature Wave Mask" in 2025. See the difference in {{v|0.25.5}} and {{v|0.29.0}}.</ref>
+|{{Days Item|Ocean Mask||table}}
+|[[Mask]]
+|{{Cost|36 C}}
+|<small>Nature Guide at [[Sanctuary Islands]]</small>
+|{{Days Item|Ocean Mask|spell|table}}<small>x6</small>
+|<small>Nature Gift Box at [[Sanctuary Islands]] for free</small>
+|-
+|[[Days of Nature#{{Icon Name|Ocean Blue Scarf|name}}|{{Icon Name|Ocean Blue Scarf|name}}]]<ref name="2024_scarf_renamed">The Days of Nature 2024 "Ocean Blue Scarf" was renamed to "Nature Wave Scarf" in 2025. See the difference in {{v|0.25.5}} and {{v|0.29.0}}.</ref>
+|{{Days Item|Ocean Blue Scarf||table}}
+|[[Neck Accessory]]
+|{{Cost|14 H}}
+|<small>Nature Guide at [[Sanctuary Islands]]</small>
+|{{Days Item|Ocean Blue Scarf|spell|table}}<small>x6</small>
+|<small>Nature Gift Box at [[Sanctuary Islands]] for free</small>
+|-
+! colspan="7" style="text-align:center;" |From Days of Nature 2023
+|-
+|[[Days of Nature#{{Icon Name|Nature Glasses|name}}|{{Icon Name|Nature Glasses|name}} Pack]] + {{Cost|75 C}}
+|{{Days Item|Nature Glasses||table}}
+|[[Face Accessory]]
+|{{Cost|$19.99 USD|refnote}}
+|<small>Chill Sunbather next to Nature Guide at [[Sanctuary Islands]]</small>
+|{{Days Item|Nature Glasses|spell|table}}<small>x6</small>
+|<small>Nature Gift Box at [[Sanctuary Islands]] for free</small>
+|-
+|[[Days of Nature#{{Icon Name|Nature Sonorous Seashell|name}}|{{Icon Name|Nature Sonorous Seashell|name}}]]
+|{{Days Item|Nature Sonorous Seashell||table}}
+|[[Prop]]
+|{{Cost|$4.99 USD|refnote}}
+|<small>Chill Sunbather next to Nature Guide at [[Sanctuary Islands]]</small>
+|{{Days Item|Nature Sonorous Seashell|spell|table}}<small>x6</small>
+|<small>Nature Gift Box at [[Sanctuary Islands]] for free</small>
+|-
+|[[Days of Nature#{{Icon Name|Nature School Cape|name}}|{{Icon Name|Nature School Cape|name}}]]
+|{{Days Item|Nature School Cape||table}}
+|[[Cape]]
+|{{Cost|180 C}}
+|<small>Nature Guide at [[Sanctuary Islands]]</small>
+|{{Days Item|Nature School Cape|spell|table}}<small>x6</small>
+|<small>Nature Gift Box at [[Sanctuary Islands]] for free</small>
+|-
+! colspan="7" style="text-align:center;" |From Days of Nature 2022
+|-
+|[[Days of Nature#{{Icon Name|Nature Turtle Cape|name}}|{{Icon Name|Nature Turtle Cape|name}}]]
+|{{Days Item|Nature Turtle Cape||table}}
+|[[Cape]]
+|{{Cost|14.99 USD|refnote}}
+|<small>Chill Sunbather next to Nature Guide at [[Sanctuary Islands]]</small>
+|{{Days Item|Nature Turtle Cape|spell|table}}<small>x6</small>
+|<small>Nature Gift Box at [[Sanctuary Islands]] for free</small>
+|-
+|[[Days of Nature#Nature Turtle Pack|{{Icon Name|Nature Turtle Accessory|name}}]] + {{Cost|75 C}}
+|{{Days Item|Nature Turtle Accessory||table}}
+|[[Neck Accessory]]
+|{{Cost|19.99 USD|refnote}}
+|<small>Chill Sunbather next to Nature Guide at [[Sanctuary Islands]]</small>
+|{{Days Item|Nature Turtle Accessory|spell|table}}<small>x6</small>
+|<small>Nature Gift Box at [[Sanctuary Islands]] for free</small>
+|-
+|[[Days of Nature#{{Icon Name|Nature Coral Crown|name}}|{{Icon Name|Nature Coral Crown|name}}]]
+|{{Days Item|Nature Coral Crown||table}}
+|[[Hair Accessory]]
+|{{Cost|20 H}}
+|<small>Nature Guide at [[Sanctuary Islands]]</small>
+|{{Days Item|Nature Coral Crown|spell|table}}<small>x6</small>
+|<small>Nature Gift Box at [[Sanctuary Islands]] for free</small>
+|-
+! colspan="7" style="text-align:center;" |From Days of Nature 2021
+|-
+|[[Days of Nature#{{Icon Name|Ocean Necklace|name}}|{{Icon Name|Ocean Necklace|name}}]]
+|{{Days Item|Ocean Necklace||table}}
+|[[Neck Accessory]]
+|{{Cost|1.99 USD|refnote}}
+|<small>Chill Sunbather next to Nature Guide at [[Sanctuary Islands]]</small>
+|{{Days Item|Ocean Necklace|spell|table}}<small>x6</small>
+|<small>Nature Gift Box at [[Sanctuary Islands]] for free</small>
+|-
+|[[Days of Nature#{{Icon Name|Ocean Cape|name}}|{{Icon Name|Ocean Cape|name}}]]
+|{{Days Item|Ocean Cape||table}}
+|[[Cape]]
+|{{Cost|14.99 USD|refnote}}
+|<small>Chill Sunbather next to Nature Guide at [[Sanctuary Islands]]</small>
+|{{Days Item|Ocean Cape|spell|table}}<small>x6</small>
+|<small>Nature Gift Box at [[Sanctuary Islands]] for free</small>
+|-
+! colspan="7" style="text-align:center;" |From Days of Nature 2020
+|-
+|[[Days of Nature#{{Icon Name|Earth Cape|name}}|{{Icon Name|Earth Cape|name}}]]
+|{{Days Item|Earth Cape||table}}
+|[[Cape]]
+|{{Cost|4.99 USD|refnote}}
+|<small>Chill Sunbather next to Nature Guide at [[Sanctuary Islands]]</small>
+|{{Days Item|Earth Cape|spell|table}}<small>x6</small>
+|<small>Nature Gift Box at [[Sanctuary Islands]] for free</small>
+|}
+
+===2025 New Cosmetics and Props===
+==== Ocean Sea Foam Set<span id="Ocean Sea Foam Cape"><span id="Ocean Sea Foam Boots"></span></span>====
+::'''''"Cape and boots set made of perfect flowing waves."'''''
+The Ocean Sea Foam Set contains three items: the Ocean Sea Foam Cape, the Ocean Sea Foam Shoes, and  {{Cost|30 C}}.
+The Ocean Sea Foam Cape is translucent and mimics the appearance of water under sunlight. It is animated with light reflections and refractions playing across its surface, like shimmering waves. The [[Capes|Cape’s]] collar is trimmed with soft, puffy white sea foam that gather around the shoulders and upper back. 
+
+The Ocean Sea Foam [[Shoes]] are a pair of light blue boots with a fluffy white trim around the top. The pair of boots are animated to match the water reflections showcased in the Ocean Sea Foam Cape. 
+
+This set was introduced in 2025 and was available for {{Cost|24.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br><br>
+{{#tag:gallery
+|{{Icon Name|Ocean Sea Foam Cape|iap}} {{!}} {{Icon Name|Ocean Sea Foam Cape|name}} IAP
+{{Icon Name|Ocean Sea Foam Cape}} {{!}} {{Icon Name|Ocean Sea Foam Cape|name}} icon
+{{Icon Name|Ocean Sea Foam Cape|front}} {{!}} {{Icon Name|Ocean Sea Foam Cape|name}} front
+{{Icon Name|Ocean Sea Foam Cape|interior}} {{!}} {{Icon Name|Ocean Sea Foam Cape|name}} interior
+{{Icon Name|Ocean Sea Foam Cape|real}} {{!}} {{Icon Name|Ocean Sea Foam Cape|name}} back
+{{Icon Name|Ocean Sea Foam Cape|exterior}} {{!}} {{Icon Name|Ocean Sea Foam Cape|name}} exterior
+{{Icon Name|Ocean Sea Foam Cape|spell}} {{!}} {{Icon Name|Ocean Sea Foam Cape|name}} Spell
+{{Icon Name|Ocean Sea Foam Boots}} {{!}} {{Icon Name|Ocean Sea Foam Boots|name}} icon
+{{Icon Name|Ocean Sea Foam Boots|real}} {{!}} {{Icon Name|Ocean Sea Foam Boots|name}}
+{{Icon Name|Ocean Sea Foam Boots|spell}} {{!}} {{Icon Name|Ocean Sea Foam Boots|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Ocean Waves Mask====
+'''''"Curling waves, calming not clamoring.'''''" 
+
+The Ocean Waves Mask contains two items: the Ocean Waves Mask and {{Cost|75 C}}. The [[Mask]] is dark blue featuring flowing, wave-like cyan lines spiraling across the face toward the Mask's left eye, similar to the design featured on the [[Days of Nature#Ocean Cape|Ocean Cape]]. This pack was introduced in 2025 and was available for {{Cost|19.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br><br>
+{{Dye Details
+|area1 = the wave markings
+|cost1 = 2
+}}
+{{#tag:gallery
+|{{Icon Name|Ocean Wave Mask|iap}} {{!}} {{Icon Name|Ocean Wave Mask|name}} IAP
+{{Icon Name|Ocean Wave Mask|icon}} {{!}} {{Icon Name|Ocean Wave Mask|name}} icon
+{{Icon Name|Ocean Wave Mask|real}} {{!}} {{Icon Name|Ocean Wave Mask|name}} 
+{{Icon Name|Ocean Wave Mask|spell}} {{!}} {{Icon Name|Ocean Wave Mask|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Ocean Waves Outfit====
+The Ocean Waves Outfit is composed of a soft blue kimono-style top and wide darker blue pants accented with a dark blue sash around the waist. Both the sash and the pants feature a design consisting of wave-like cyan lines swirling at the front, similar to the design featured on the [[Days_of_Nature#Ocean_Cape|Ocean Cape]]. 
+This [[Outfit]] was introduced in 2025 and was available for {{Cost|49 T|event=nature}} from the Nature Guide at [[Sanctuary Islands]] for the duration of the event.<br><br>
+{{Dye Details
+|area1 = the wave markings
+|cost1 = 2
+}}
+{{#tag:gallery
+|{{Icon Name|Ocean Waves Outfit}} {{!}} {{Icon Name|Ocean Waves Outfit|name}} icon
+{{Icon Name|Ocean Waves Outfit|real}} {{!}} {{Icon Name|Ocean Waves Outfit|name}} front
+{{Icon Name|Ocean Waves Outfit|back}} {{!}} {{Icon Name|Ocean Waves Outfit|name}} back
+{{Icon Name|Ocean Waves Outfit|spell}} {{!}} {{Icon Name|Ocean Waves Outfit|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Ocean Manta Hair====
+The Ocean Manta Hair is short at the top and back, with eight longer spike-shaped segments of hair with yellowish highlights, resembling the [[Mantas#Elder Mantas|Elder Manta's]] fins. Three of the segments on each side are arranged facing away from the front, and two at the front are left falling down. This [[Hair]] was introduced in 2025 and was available for {{Cost|37 T|event=nature}} from the Nature Guide at [[Sanctuary Islands]] for the duration of the event.<br><br>
+{{#tag:gallery
+|{{Icon Name|Ocean Manta Hair}} {{!}} {{Icon Name|Ocean Manta Hair|name}} icon
+{{Icon Name|Ocean Manta Hair|real}} {{!}} {{Icon Name|Ocean Manta Hair|name}} front
+{{Icon Name|Ocean Manta Hair|side}} {{!}} {{Icon Name|Ocean Manta Hair|name}} side
+{{Icon Name|Ocean Manta Hair|back}} {{!}} {{Icon Name|Ocean Manta Hair|name}} back
+{{Icon Name|Ocean Manta Hair|spell}} {{!}} {{Icon Name|Ocean Manta Hair|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+{{Clear}}
+
+==May 2024<span id="2024"></span>==
+{{#ev:youtube|2HiAoJZhFHo||right|Days of Nature 2024 Trailer}}
+Days of Nature returned for a fifth year with a call to aid a river in need! The event began '''Monday, May 27, 2024 at 00:00 PDT (UTC-7)''' and continued until '''Sunday, June 16, 2024 at 23:59 PDT (UTC-7)''', lasting 21 days. For the duration of the event, the Nature Guide appeared in [[Home]] and [[Aviary Village]], offering to take players directly to [[Prairie Peaks]] in Daylight Prairie.
+
+For three weeks, [[#Shard Eruptions|Shard Eruptions]] and the Darkness they bring threaten the health of Prairie Peaks’ waters. Spirits will be on hand to build a device that keeps the corruption from spreading downstream, but it’s up to Sky Kids to capture its pollution and stop it from impacting the spaces around the river. Clear the pollution to earn [[Pieces of Light|Light]], but beware! This Shard Eruption has attracted a new type of [[Dark Worm|Dark Creature]]—one who’s not as eager for the debris to be cleared from their new home.
+
+This year the event will again offer special [[Premium Candle Shop|IAPs]], both new and returning, to support charity efforts focused on real-world cleanup work in oceans and waterways. A little more than half of the total list price for each item sold will be donated. For a more detailed breakdown of the numbers, see the event blog post on [https://www.thatskygame.com/news/aid-a-river-in-need-days-of-nature-2024 ThatSkyGame's Website].
+
+===Ticket Locations===
+[[File:Days-of-Nature-Clam-Ticket.png|125px|thumb|A Days of Nature clam Ticket]]
+A total of {{Cost|4 T|event=nature}} clam-shaped Tickets were available each day:
+*{{Cost|4 T|event=nature}} hidden throughout Prairie Peaks in Daylight Prairie (see locations below)
+{{Collapse
+|float= left
+|label= All Exact Ticket Locations
+|content=<u>'''Locations:'''</u>
+*'''1''' - Upstream of the river's small waterfall
+**A) {{Cost|1 T|event=nature}} on the cliff to the right of the waterfall
+**B) {{Cost|1 T|event=nature}} near the dam, on a cliff at the center of the waterfall
+**C) {{Cost|1 T|event=nature}} underwater, near the dam and on the right riverbank
+**D) {{Cost|1 T|event=nature}} underwater, near the bend and on the right riverbank
+**E) {{Cost|1 T|event=nature}} underwater, near the bend and at the center of the river
+**F) {{Cost|1 T|event=nature}} underwater, past the bend and on the left riverbank
+
+*'''2''' - Downstream of the river's small waterfall
+**A) {{Cost|1 T|event=nature}} on the grassy shoreline to the right, near a shiny crystal
+**B) {{Cost|1 T|event=nature}} on the sandbank to the left, near a group of resting [[Creatures#Manatee/Porpoise|Manatees]]
+**C) {{Cost|1 T|event=nature}} on top of the water, at the base of the waterfall's left side
+**D) {{Cost|1 T|event=nature}} on top of the water, at the base of the waterfall's right side
+**E) {{Cost|1 T|event=nature}} underwater, between the sandbank and grassy shoreline
+
+*'''3''' - The river near the stone monolith
+**A) {{Cost|1 T|event=nature}} on the left shore, on a ledge at the bottom of the sandbank
+**B) {{Cost|1 T|event=nature}} on the left shore, at the bottom corner of the sandbank
+**C) {{Cost|1 T|event=nature}} underwater, near the cliff across from the sandbank
+**D) {{Cost|1 T|event=nature}} underwater, at the bottom of the sandbank and center of the river
+}}
+<br>
+Players could also buy additional Tickets (costing {{Cost|2 AC}} or {{Cost|6 C}} each) from the [[Spell Shops#Sleepy Traveler's Boat|Sleepy Traveler's boat]] at Home, the [[Aviary_Village#Spell_Shop|Spell Shop]] in Aviary Village, or the Nature Gift Box found at both the event area and [[Aviary Village#Aviary Event Store|Aviary Event Store]].
+
+{| class="article-table mw-collapsible mw-collapsed" style="float:right; text-align:center;"
+! style="text-align:center" colspan="3" | '''Ticket Locations'''
+|-
+! '''Date'''
+! '''Locations'''
+! '''Daily Total'''
+|-
+| May 27, 2024
+| 1A, 2A, 2B, 3A
+| {{Cost|{{#vardefineecho:D1|4}} T|event=nature}}
+|-
+| May 28, 2024
+| 1B, 1C, 1D, 2E
+| {{Cost|{{#vardefineecho:D2|4}} T|event=nature}}
+|-
+| May 29, 2024
+| 1E, 2A, 3C, 3B
+| {{Cost|{{#vardefineecho:D3|4}} T|event=nature}}
+|-
+| May 30, 2024
+| 2C, 1C, 1D, 3D
+| {{Cost|{{#vardefineecho:D4|4}} T|event=nature}}
+|-
+| May 31, 2024
+| 1E, 2D, 3C, 3B
+| {{Cost|{{#vardefineecho:D5|4}} T|event=nature}}
+|-
+| June 1, 2024
+| 1A, 1F, 2B, 3A
+| {{Cost|{{#vardefineecho:D6|4}} T|event=nature}}
+|-
+| June 2, 2024
+| 1B, 1C, 2D, 2E
+| {{Cost|{{#vardefineecho:D7|4}} T|event=nature}}
+|-
+| June 3, 2024
+| 1A, 2A, 2B, 3A
+| {{Cost|{{#vardefineecho:D8|4}} T|event=nature}}
+|-
+| June 4, 2024
+| 1B, 1C, 1D, 2E
+| {{Cost|{{#vardefineecho:D9|4}} T|event=nature}}
+|-
+| June 5, 2024
+| 1E, 2A, 3B, 3C
+| {{Cost|{{#vardefineecho:D10|4}} T|event=nature}}
+|-
+| June 6, 2024
+| 1C, 1F, 2C, 3D
+| {{Cost|{{#vardefineecho:D11|4}} T|event=nature}}
+|-
+| June 7, 2024
+| 1E, 2D, 3B, 3C
+| {{Cost|{{#vardefineecho:D12|4}} T|event=nature}}
+|-
+| June 8, 2024
+| 1A, 1F, 2B, 3A
+| {{Cost|{{#vardefineecho:D13|4}} T|event=nature}}
+|-
+| June 9, 2024
+| 1B, 1C, 1D, 2E
+| {{Cost|{{#vardefineecho:D14|4}} T|event=nature}}
+|-
+| June 10, 2024
+| 1A, 2A, 2B, 3A
+| {{Cost|{{#vardefineecho:D15|4}} T|event=nature}}
+|-
+| June 11, 2024
+| 1C, 1D, 2C, 3D
+| {{Cost|{{#vardefineecho:D16|4}} T|event=nature}}
+|-
+| June 12, 2024
+| 1E, 2A, 3B, 3C
+| {{Cost|{{#vardefineecho:D17|4}} T|event=nature}}
+|-
+| June 13, 2024
+| 1C, 1F, 2C, 3D
+| {{Cost|{{#vardefineecho:D18|4}} T|event=nature}}
+|-
+| June 14, 2024
+| 1B, 1C, 2D, 2E
+| {{Cost|{{#vardefineecho:D19|4}} T|event=nature}}
+|-
+| June 15, 2024
+| 1A, 1F, 2B, 3A
+| {{Cost|{{#vardefineecho:D20|4}} T|event=nature}}
+|-
+| June 16, 2024
+| 1B, 1C, 1D, 2E
+| {{Cost|{{#vardefineecho:D21|4}} T|event=nature}}
+|-
+! colspan="2" style="text-align:center;" | '''Total so far'''
+! style="text-align:center;" | '''{{Cost|{{#expr: ({{#var:D1}} + {{#var:D2}} + {{#var:D3}} + {{#var:D4}} + {{#var:D5}} + {{#var:D6}} + {{#var:D7}} + {{#var:D8}} + {{#var:D9}} + {{#var:D10}} + {{#var:D11}} + {{#var:D12}} + {{#var:D13}} + {{#var:D14}} + {{#var:D15}} + {{#var:D16}} + {{#var:D17}} + {{#var:D18}} + {{#var:D19}} + {{#var:D20}} + {{#var:D21}}) }} T|event=nature}}'''
+|}
+
+{{Friendship Tree
+|label  = Nature Guide
+|event = Nature
+|image = Days-of-Nature-Guide.png
+
+|nodeC3 = {{Icon Name|Nature Coral Crown|icon}} 20 H
+|  labelC3 = {{Icon Name|Nature Coral Crown|name}}
+|  linkC3  = Days of Nature#{{Icon Name|Nature Coral Crown|name}}
+
+|nodeL2 = {{Icon Name|Nature School Cape|icon}} 180 C
+|  labelL2 = {{Icon Name|Nature School Cape|name}}
+|  linkL2  = Days of Nature#{{Icon Name|Nature School Cape|name}}
+|nodeC2 = spell5
+|  labelC2 = Spell
+|  linkC2 = Spells
+
+|nodeR1 = {{Icon Name|Ocean Blue Scarf|icon}} 40 T
+|  labelR1 = {{Icon Name|Ocean Blue Scarf|name}}
+|  linkR1  = Days of Nature#{{Icon Name|Ocean Blue Scarf|name}}
+|nodeL1 = {{Icon Name|Ocean Mask|icon}} 16 T
+|  labelL1 = {{Icon Name|Ocean Mask|name}}
+|  linkL1  = Days of Nature#{{Icon Name|Ocean Mask|name}}
+|nodeC1 = spell5
+|  labelC1 = Spell
+|  linkC1  = Spells
+}}{{Clear}}
+
+===2024 New Cosmetics and Props===
+====Nature Wave Pack<span id="Nature Wave Cape"></span>====
+::'''''"Wrap yourself in calm, rippling waves."'''''
+The Nature Wave Pack contains two items: the Nature Wave Cape and {{Cost|75 C}}. The Nature Wave Cape is a dark blue [[Cape]] with a rippled texture that features two light blue stripes around the neckline. This pack was introduced in 2024 and was available for {{Cost|19.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nature Wave Cape|iap}} {{!}} {{Icon Name|Nature Wave Cape|name}} IAP
+{{Icon Name|Nature Wave Cape}} {{!}} {{Icon Name|Nature Wave Cape|name}} icon
+{{Icon Name|Nature Wave Cape|front}} {{!}} {{Icon Name|Nature Wave Cape|name}} front
+{{Icon Name|Nature Wave Cape|interior}} {{!}} {{Icon Name|Nature Wave Cape|name}} interior
+{{Icon Name|Nature Wave Cape|real}} {{!}} {{Icon Name|Nature Wave Cape|name}} back
+{{Icon Name|Nature Wave Cape|exterior}} {{!}} {{Icon Name|Nature Wave Cape|name}} exterior
+{{Icon Name|Nature Wave Cape|spell}} {{!}} {{Icon Name|Nature Wave Cape|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Nature Wave-Touched Hair====
+::'''''"Tresses touched by the gentle flow of the waterway in Prairie Peaks."'''''
+The Nature Wave-Touched Hair is medium-length with wavy curls, a lopsided crown braid, and blue dip-dye. This [[Hair]] was introduced in 2024 and was available for {{Cost|6.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nature Wave-Touched Hair|iap}} {{!}} {{Icon Name|Nature Wave-Touched Hair|name}} IAP
+{{Icon Name|Nature Wave-Touched Hair}} {{!}} {{Icon Name|Nature Wave-Touched Hair|name}} icon
+{{Icon Name|Nature Wave-Touched Hair|real}} {{!}} {{Icon Name|Nature Wave-Touched Hair|name}} front
+{{Icon Name|Nature Wave-Touched Hair|side}} {{!}} {{Icon Name|Nature Wave-Touched Hair|name}} side
+{{Icon Name|Nature Wave-Touched Hair|back}} {{!}} {{Icon Name|Nature Wave-Touched Hair|name}} back
+{{Icon Name|Nature Wave-Touched Hair|spell}} {{!}} {{Icon Name|Nature Wave-Touched Hair|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Nature Wave Mask====
+The Nature Wave Mask (formerly "Ocean Mask"<ref name="2024_mask_renamed"/>) is dark gray and features a wavy blue streak dotted with bright sparkles that stretches from above the left eye to below the right. This [[Mask]] was introduced in 2024 and was available for {{Cost|16 T|event=nature}} from the Nature Guide at [[Prairie Peaks]], [[Home]], and [[Aviary Village#Aviary Event Store|Aviary Village]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Ocean Mask}} {{!}} {{Icon Name|Ocean Mask|name}} icon
+{{Icon Name|Ocean Mask|real}} {{!}} {{Icon Name|Ocean Mask|name}}
+{{Icon Name|Ocean Mask|spell}} {{!}} {{Icon Name|Ocean Mask|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Nature Wave Scarf====
+The Nature Wave Scarf (formerly "Ocean Blue Scarf"<ref name="2024_scarf_renamed"/>) is blue and wraps around the player's neck, with the ends, which resemble waves with seafoam along the edge, sticking out over the right shoulder. This [[Neck Accessory]] was introduced in 2024 and was available for {{Cost|40 T|event=nature}} from the Nature Guide at [[Prairie Peaks]], [[Home]], and [[Aviary Village#Aviary Event Store|Aviary Village]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Ocean Blue Scarf}} {{!}} {{Icon Name|Ocean Blue Scarf|name}} icon
+{{Icon Name|Ocean Blue Scarf|real}} {{!}} {{Icon Name|Ocean Blue Scarf|name}}
+{{Icon Name|Ocean Blue Scarf|spell}} {{!}} {{Icon Name|Ocean Blue Scarf|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Shard Eruptions"></span>Prairie Peaks Shard Eruptions===
+[[File:DoNature-Shard-Eruption-Regular-Prairie-Peaks-Upstream.png|thumb|x150px|Underwater Shard Eruption at Prairie Peaks]]
+[[File:Red-Lilypad-Darkness-Plants-Prairie-Peaks-Shard.png|thumb|x150px|Red Darkness Lilypads]]
+Across the three weeks of the event, [[Shard Eruptions]] threaten the waters of the mountain river in [[Prairie Peaks]], bringing with them a new type of [[Darkness]] that resembles lily pads. Clear the pollution by lifting the Red Darkness Lilypads out of the riverbed and burn them as they float on the surface of the water - but beware of the [[Dark Worm|Dark Creature]] that lurks nearby.
+
+Once most of the Red Darkness Lilypads have been burned, the Shards will disappear and leave behind a reward of 200 [[Pieces of Light]]. While players can participate as in as many Shard Eruptions as they like, the reward can only be earned once per day.
+
+The Prairie Peaks Shard Eruption appeared '''twice every hour''' for 22 minutes in the river at the following times:
+
+*'''xx:08''' to '''xx:30'''*
+*'''xx:38''' to '''xx:00'''*
+
+<nowiki>*</nowiki>''Note that this is assuming a time zone that does not have a half hour offset.''
+{{Clear}}
+
+==April 2023<span id="2023"></span>==
+[[File:Days-of-Nature-2023-Promo-image.jpg|thumb|x200px|Promotional image - Days of Nature 2023]]
+Days of Nature approaches! Across nearly three weeks of this event, celebrate with a new story and friends in the Sanctuary Islands, and share ways to connect that story with real-world efforts making the waters we all share cleaner and healthier.
+From '''Thursday, 00:00 April 20 through Sunday 23:59 May 7, 2023 (all times PDT, UTC-7)''', the Nature Guide Spirit in Home will offer to take players to one of the Sanctuary islands of Daylight Prairie. On those familiar shores, a new Light Creature can be found, unable to return to the waters until you’ve lent it a hand.
+{{Clear}}
+
+===Daily Quest===
+Talk to the Nature Guide at Home and teleport to Sanctuary Island. Walk down the beach to the left of the Guide. A porpoise is trapped in the sand by a Darkness plant. When you free the creature, it will circle around you at the spot until you press the ! button. 
+
+Follow the creature out in the water until you reach the vortex. There are two things that you can do. To complete the "Rid the Great Vortex of waste in Sanctuary Island,"<ref>This is a reference to the [[Wikipedia:Great Pacific garbage patch|Great Pacific garbage patch]].</ref> approach the boat with the Anxious Angler.
+
+*The spirit wonders who left the used fishing gear in the middle of the ocean?
+*Left unattended, darkness will spread and corrupt the creatures of light in the ocean.
+*Gather all the pieces!
+
+Pick up 12 pieces of trash from the vortex to complete the quest.
+
+The creature leads you to its friends stuck in nets at the surface. One by one you free them, diving deeper each time, and they will lead you to the clam which contains a lot of blue orbs.
+
+===2023 New Cosmetics and Props===
+====Nature Glasses Pack<span id="Nature Glasses"></span>====
+::'''''"The world seems brighter, bluer even, through the eyes of this stylishly recycled mask."'''''
+The Nature Glasses Pack contains two items: the Nature Glasses and {{Cost|75 C}}. The Nature Glasses are a [[Face Accessory]]<ref name="Mask recategorized">This item was recategorized from a [[Mask]] to a [[Face Accessory]] as a result of the [[Outfit Shrine|Closet]] category expansion in Patch {{v|0.22.0}}.</ref> that resemble [[Chill Sunbather#Face Accessory|Chill Sunbather's]], appearing as a large pair of sunglasses with opaque blue lenses and white frames. When equipped, this item adds a toggle to the [[Expression Menu]] that applies a blue tint to the game. This pack was introduced in 2023 and was available for {{Cost|19.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nature Glasses|iap}} {{!}} {{Icon Name|Nature Glasses|name}} IAP
+{{Icon Name|Nature Glasses}} {{!}} {{Icon Name|Nature Glasses|name}} icon
+{{Icon Name|Nature Glasses|real}} {{!}} {{Icon Name|Nature Glasses|name}}
+{{Icon Name|Nature Glasses|spell}} {{!}} {{Icon Name|Nature Glasses|name}} Spell icon
+Nature-Glasses-Tint.png {{!}} {{Icon Name|Nature Glasses|name}}' blue tint
+|widths=125|captionalign=center|spacing=small
+}}
+====Nature Sonorous Seashell====
+::'''''"If you listen closely, the call of the open seas can be heard."'''''
+The Nature Sonorous Seashell is a large white conch with a yellow interior, stripes around the spire, and triangles near its mouth. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]]. When activated, the mouth glows blue and it plays relaxing ocean sound effects. This Prop was introduced in 2023 and was available for {{Cost|4.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>  
+{{#tag:gallery
+|{{Icon Name|Nature Sonorous Seashell|IAP}} {{!}} {{Icon Name|Nature Sonorous Seashell|name}} IAP
+{{Icon Name|Nature Sonorous Seashell}} {{!}} {{Icon Name|Nature Sonorous Seashell|name}} icon
+{{Icon Name|Nature Sonorous Seashell|real}} {{!}} {{Icon Name|Nature Sonorous Seashell|name}}
+{{Icon Name|Nature Sonorous Seashell|back}} {{!}} {{Icon Name|Nature Sonorous Seashell|name}} on a player's back
+{{Icon Name|Nature Sonorous Seashell|spell}} {{!}} {{Icon Name|Nature Sonorous Seashell|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+====Nature School Cape====
+The Nature School Cape drapes over the player's right shoulder and has a high collar, featuring a dark blue pattern on the upper half that transitions into a transparent light blue, where the dark shape of fish can be seen swimming along the transparent half of the fabric. This [[Cape]] was introduced in 2023 and was available for {{Cost|180 C}} from the Nature Guide at [[Home]] and [[Sanctuary Islands]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nature School Cape}} {{!}} {{Icon Name|Nature School Cape|name}} icon
+{{Icon Name|Nature School Cape|front}} {{!}} {{Icon Name|Nature School Cape|name}} front
+{{Icon Name|Nature School Cape|interior}} {{!}} {{Icon Name|Nature School Cape|name}} interior
+{{Icon Name|Nature School Cape|real}} {{!}} {{Icon Name|Nature School Cape|name}} back
+{{Icon Name|Nature School Cape|exterior}} {{!}} {{Icon Name|Nature School Cape|name}} exterior
+{{Icon Name|Nature School Cape|spell}} {{!}} {{Icon Name|Nature School Cape|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+==April 2022<span id="2022"></span>==
+[[File:Days-of-Nature-2022.png|thumb|x200px|Promotional image - Days of Nature 2022]]
+Days of Nature is back again this year with a new charity event. From '''00:00 Monday, April 18 through 23:59 Sunday, May 1 (all times PDT, UTC-7)''', players who have completed at least Hidden Forest can celebrate the occasion with other Sky children to benefit life in the oceans within Sky—and in the real world around us through a charity partnership with an organization working to rid the ocean of plastics. For this event, TGC will donate 100% of the NET proceeds from the Days of Nature Turtle Accessory to [https://theoceancleanup.com/ The Ocean Cleanup].
+
+The Sanctuary will be soaked in a gorgeous orange sunset and players will be able to help a creature from the dept of Sanctuary Islands and receive Lights as a benefit. This creature will become a '''permanent resident''' in Sanctuary, so you'll be able to visit it after Days of Nature ends. '''The event occurs for about 10 minutes, five minutes after [[Additional Light Sources#Grandma's Dinner Event|Grandma's Dinner Event]]''', '''repeating every 2 hours'''. At the same time, the Sunbather from Sanctuary will roam around for 10 minutes offering all the items from previous years.
+
+Players are able to collect free spells of the Days of Natures items from the Sleepy Traveler's boat to try out all of the new items: (Each of these temporary spells last for 30 minutes.) ''Previous years spells are available to collect on an island with the Days of Nature Spirit.''
+
+[[File:Days-of-Nature-2022-Morybel-0146.jpg|none|thumb|275x275px]]
+
+===2022 New Cosmetics and Props===
+====Nature Turtle Cape====
+::'''''"Soar through the skies and seas alike with this stylish turtle-themed cape!"'''''
+The Nature Turtle Cape resembles the body of the [[Additional Light Sources#Sunset Sanctuary Turtle|Sanctuary Turtle]], featuring four white flippers attached to a mossy shell, with the larger front pair draping over the player's front. This [[Cape]] was introduced in 2022 and was available for {{Cost|14.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nature Turtle Cape|iap}} {{!}} {{Icon Name|Nature Turtle Cape|name}} IAP
+{{Icon Name|Nature Turtle Cape|icon}} {{!}} {{Icon Name|Nature Turtle Cape|name}} icon
+{{Icon Name|Nature Turtle Cape|front}} {{!}} {{Icon Name|Nature Turtle Cape|name}} front
+{{Icon Name|Nature Turtle Cape|interior}} {{!}} {{Icon Name|Nature Turtle Cape|name}} interior
+{{Icon Name|Nature Turtle Cape|real}} {{!}} {{Icon Name|Nature Turtle Cape|name}} back
+{{Icon Name|Nature Turtle Cape|exterior}} {{!}} {{Icon Name|Nature Turtle Cape|name}} exterior
+{{Icon Name|Nature Turtle Cape|spell}} {{!}} {{Icon Name|Nature Turtle Cape|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Nature Turtle Pack<span id="Nature Turtle Accessory"></span>====
+::'''''"We pledge to donate 100% of the NET proceeds from this pack to charities working to ride the ocean of plastics."'''''
+The Nature Turtle Pack contains two items: the Nature Turtle Accessory and {{Cost|75 C}}. The Nature Turtle Accessory is a [[Neck Accessory]] resembling a miniature [[Additional Light Sources#Sunset Sanctuary Turtle|Sanctuary Turtle]] that sits on the player's left shoulder. This pack was introduced in 2022 and was available for {{Cost|19.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nature Turtle Accessory|iap}} {{!}} {{Icon Name|Nature Turtle Accessory|name}} IAP
+{{Icon Name|Nature Turtle Accessory}} {{!}} {{Icon Name|Nature Turtle Accessory|name}} icon
+{{Icon Name|Nature Turtle Accessory|real}} {{!}} {{Icon Name|Nature Turtle Accessory|name}} 
+{{Icon Name|Nature Turtle Accessory|spell}} {{!}} {{Icon Name|Nature Turtle Accessory|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Nature Coral Crown Accessory==== 
+The Nature Coral Crown Accessory is a wreath made of blue coral that sits on top of the player's head. This [[Hair Accessory]] was introduced in 2022 and was available for {{Cost|20 H}} from the Nature Guide at [[Home]] and [[Sanctuary Islands]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nature Coral Crown Accessory}} {{!}} {{Icon Name|Nature Coral Crown Accessory|name}} icon
+{{Icon Name|Nature Coral Crown Accessory|real}} {{!}} {{Icon Name|Nature Coral Crown Accessory|name}} 
+{{Icon Name|Nature Coral Crown Accessory|spell}} {{!}} {{Icon Name|Nature Coral Crown Accessory|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+==April 2021<span id="2021"></span> ==
+[[File:Days_of_nature_2021.jpg|thumb|180x180px|Promotional image - Days of Nature 2021]]
+Days of Nature was Sky's upcoming new in-game charity event benefiting marine life! This year, TGC was proud to announce that they were donating half of the net proceeds from their Earth Day items to charities focused on removing plastic from the oceans. The [[Secret Area]] located on the ground floor of Vault of Knowledge was open to all players during the event. While there, players were be able to purchase the Earth Cape from last year's Days of Nature. Event began at '''00:00 on Monday, April 19, running for two weeks and concluded at 23:59 on Sunday, May 2 2021 (all times PDT, UTC-7).'''
+
+During Days of Nature, players were also able to complete meditation prompt quests and earned Light, by cleaning up the Darkness polluting a local geyser in Sanctuary Islands. The event occurred every two hours for about 10 minutes. The Geyser is now a permanent feature in Sanctuary Islands. 
+
+Players were able to collect free spells of the Days of Natures items from the Sleepy Traveler's boat to try out all of the new items. (Each of these temporary spells last for 30 minutes.)
+
+===2021 New Cosmetics and Props===
+====Ocean Necklace====
+::'''''"We pledge to donate half of the proceeds from this item to charities cleaning the ocean of plastic."'''''
+The Ocean Necklace is a necklace featuring a large blue conch shell on a chain made of black and white beads. This [[Neck Accessory]] was introduced in 2021 and was available for {{Cost|1.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Ocean Necklace|iap}} {{!}} {{Icon Name|Ocean Necklace|name}} IAP
+{{Icon Name|Ocean Necklace}} {{!}} {{Icon Name|Ocean Necklace|name}} icon
+{{Icon Name|Ocean Necklace|real}} {{!}} {{Icon Name|Ocean Necklace|name}} 
+{{Icon Name|Ocean Necklace|spell}} {{!}} {{Icon Name|Ocean Necklace|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Ocean Cape====
+::'''''"We pledge to donate half of the proceeds from this item to charities cleaning the ocean of plastic."'''''
+The Ocean Cape is light blue with a stylized white wave pattern along the bottom edge. This [[Cape]] was introduced in 2021 and was available for {{Cost|14.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Ocean Cape|iap}} {{!}} {{Icon Name|Ocean Cape|name}} IAP
+{{Icon Name|Ocean Cape|icon}} {{!}} {{Icon Name|Ocean Cape|name}} icon
+{{Icon Name|Ocean Cape|front}} {{!}} {{Icon Name|Ocean Cape|name}} front
+{{Icon Name|Ocean Cape|interior}} {{!}} {{Icon Name|Ocean Cape|name}} interior
+{{Icon Name|Ocean Cape|real}} {{!}} {{Icon Name|Ocean Cape|name}} back
+{{Icon Name|Ocean Cape|exterior}} {{!}} {{Icon Name|Ocean Cape|name}} exterior
+{{Icon Name|Ocean Cape|spell}} {{!}} {{Icon Name|Ocean Cape|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+==April 2020<span id="2020"></span>==
+[[File:Days of nature.jpg|thumb|180x180px|Promotional image - Days of Nature 2020]]
+The Days of Nature event began at '''12:00 Monday, April 20 PDT (UTC-7)''' and ran through '''12:00 Monday, April 27''' for a total of seven days. Thatgamecompany partnered with [https://onetreeplanted.org/ One Tree Planted] to plant a tree in areas affected by fires in Australia and the Amazon Rainforest with every purchase of the Days of Nature cape. 
+
+===2020 New Cosmetics and Props===
+====Earth Cape====
+::'''''"For each Earth Cape purchased, we will plan a tree in the real world in partnership with the One Tree planted charity!"'''''
+The Earth Cape is a spring green version of the [[Capes#Base Cape|Base Cape]] with unique [[Capes#Cape Energy|Winged Light symbols]] shaped like plant sprouts. This [[Cape]] was introduced in 2020 and was available for {{Cost|4.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Earth Cape|iap}} {{!}} {{Icon Name|Earth Cape|name}} IAP
+{{Icon Name|Earth Cape|icon}} {{!}} {{Icon Name|Earth Cape|name}} icon
+{{Icon Name|Earth Cape|front}} {{!}} {{Icon Name|Earth Cape|name}} front
+{{Icon Name|Earth Cape|interior}} {{!}} {{Icon Name|Earth Cape|name}} interior
+{{Icon Name|Earth Cape|real}} {{!}} {{Icon Name|Earth Cape|name}} back
+{{Icon Name|Earth Cape|exterior}} {{!}} {{Icon Name|Earth Cape|name}} exterior
+{{Icon Name|Earth Cape|spell}} {{!}} {{Icon Name|Earth Cape|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+==Trivia==
+* Several of Days of Nature's items are depicted in merch items from [[That Sky Shop]]. To know more about That Sky Shop products, visit their website: https://thatskyshop.com
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Days-of-Nature-2022.png|2022 Promo image
+Days-of-nature-turtle.png|2022 Promo image
+Days-of-Nature-2023-Promo-image.jpg|2023 Promo image
+Days-of-Nature-2024-Creature-Promo-image.png|2024 Promo image
+Days-of-Nature-2024-Darkness-Promo-image.png|2024 Promo image
+Days-of-Nature-2024-Skykids-Running-Promo-image.png|2024 Promo image
+Days-of-Nature-2024-ticket-Promo-image.png|2024 Promo image
+Days_of_Nature_2025_Aviary_Event_Board.jpg|Aviary Event Board 2025
+</gallery>
+
+==References==
+'''More information about Days of Nature 2025 can be found on [https://www.thatskygame.com/news/days-of-nature-the-ocean-needs-you-again ThatSkyGame's Website].'''
+<br>'''More information about Days of Nature 2024 can be found on [https://www.thatskygame.com/news/aid-a-river-in-need-days-of-nature-2024 ThatSkyGame's Website].'''
+<br>'''More information about Days of Nature 2023 can be found on [https://www.thatskygame.com/news/returning-to-the-oceans-for-days-of-nature-2023/ ThatSkyGame's Website].'''
+<br>'''More information about Days of Nature 2022 can be found on [https://www.thatskygame.com/news/lending-a-hand-in-days-of-nature-2022 ThatSkyGame's Website].'''
+<br>'''More information about Days of Nature 2021 can be found on [https://thatskygame.com/news/launch-update-days-of-nature ThatSkyGame's Website].'''
+<br>'''More information about Days of Nature 2020 can be found on [https://thatgamecompany.com/sky-relief-efforts/ ThatSkyGame's Website].'''
+<references />
+
+{{Holiday Navbox}}
+
+[[fr:Jours de la Nature]]
+[[es:Días de la naturaleza]]
+[[de:Tage der Natur]]
+[[pt-br:Dias da Natureza]]
+[[ru:Дни природы]]
+[[zh:自然節]]
+[[ja:自然の日々]]
+
+{{DEFAULTSORT:Nature, Days of}}
+[[Category:Events]]
+[[Category:Collaborations]]
+[[Category:Recurring Events]]

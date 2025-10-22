@@ -1,0 +1,228 @@
+{{Guide Infobox
+|image     = Passage-Ultimate-guide.png
+|type      = Seasonal
+|ultimates = {{Spirit Item||mask_u|link=#Passage Ultimate Mask|infobox}}{{Spirit Item||cape_u|link=#Passage Ultimate Cape|infobox}}
+|cosmetics = {{Spirit Item||mask_s|link=#Serow Mask|infobox}}{{Spirit Item||mask_b|link=#Boar Mask|infobox}}{{Spirit Item||mask_m|link=#Monkey Mask|infobox}}{{Spirit Item||mask_r|link=#Raccoon Mask|infobox}}
+|props     = {{Spirit Item||prop_h|infobox}}
+|season    = Passage
+|realm     = Isle of Dawn
+|location  = Passage Stone
+}}
+<section begin="Summary" />The '''Passage Guide''' is a Seasonal Guide (also known as Quest Giver) from the [[Season of Passage]] who offers Quests and [[Passage Guide#Ultimate Gifts|cosmetics]]. The Passage Guide is found standing behind the large triangular rock known as the [[Passage Stone]] located at the center of [[Isle of Dawn]]. Sit to meditate next to the campfire and turn Isle of Dawn to nightfall in order to visit the Guide. The Ultimate Guide offered a {{Spirit Item|Passage Guide|necklace_u|link=#Passage Ultimate Pendant|inline_text}}, a {{Spirit Item|Passage Guide|mask_u|link=#Passage Ultimate Mask|inline_text}}, and a {{Spirit Item|Passage Guide|cape_u|link=#Passage Ultimate Cape|inline_text}} for [[Season Pass]] holders. 
+
+This Ultimate Guide also provided new cosmetics in the Quest Tree, permanently available to all players: a {{Spirit Item|Passage Guide|mask_s|link=#Serow Mask|inline_text}}, a {{Spirit Item|Passage Guide|mask_b|link=#Boar Mask|inline_text}}, a {{Spirit Item|Passage Guide|mask_m|link=#Monkey Mask|inline_text}}, a {{Spirit Item|Passage Guide|mask_r|link=#Raccoon Mask|inline_text}}, and a {{Spirit Item|Passage Guide|prop_h|link=#Footbag Prop|inline_text}} Prop.<section end="Summary" /><br>
+<br>
+[[File:Passage-Ultimate-Guide-Introduction-image.png|none|thumb|300x300px|TGC's Promo image]]
+
+==<span id="Ultimate Pendant"><span id="Passage Ultimate Pendant">Seasonal Pendant</span></span>==
+The Passage Ultimate [[Necklaces|Pendant]] is the usual pendant featuring the Season's emblem attached to a necklace, but colored silver instead of gold. It was a [[Season Pass]] exclusive item during the Season, available for free from the Friendship Tree's first node.<br> 
+<br>
+{{#tag:gallery
+|{{Icon Name||necklace_u|icon}} {{!}} Passage Ultimate Pendant icon
+{{Icon Name||necklace_u|real}} {{!}} Passage Ultimate Pendant
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Ultimate Gifts==
+The Season of Passage Guide offered 2 Ultimate Gifts, available to be purchased by [[Season Pass]] holders with [[Currency#Season Hearts|Seasonal Hearts]] during the Season of Passage only. 
+
+===<span id="Ultimate Mask">Passage Ultimate Mask</span>===
+The Passage Ultimate [[Mask]] is brown and resembles the face of a bear, with decorative teal markings, a carved texture, and a pair of white and pink tassels on each side. It was a [[Season Pass]] exclusive item during the Season, available for {{Cost|2 SH|season=Passage}} after unlocking the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||mask_u|icon}} {{!}} Passage Ultimate Mask icon
+{{Icon Name||mask_u_real}} {{!}} Passage Ultimate Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Ultimate Cape">Passage Ultimate Cape</span>===
+The Passage Ultimate [[Cape]] is made of shaggy, burgundy faux fur with a stiff collar and a lined interior. It was a [[Season Pass]] exclusive item during the Season, available for {{Cost|2 SH|season=Passage}} after unlocking the Friendship Tree's second node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||cape_u|icon}} {{!}} Passage Ultimate Cape icon
+{{Icon Name||cape_u_front}} {{!}} Passage Ultimate Cape front
+{{Icon Name||cape_u_interior}} {{!}} Passage Ultimate Cape interior
+{{Icon Name||cape_u_real}} {{!}} Passage Ultimate Cape back
+{{Icon Name||cape_u_exterior}} {{!}} Passage Ultimate Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Additional Cosmetics<span id="Mask"></span>==
+Upon completing Quests from the Season of Passage, additional cosmetics are available to collect for regular [[Currency#Candles|Candles]] through the Passage Guide's [[#Quest Tree|Quest Tree]]. '''All items remained in the Ultimate Guide's Quest Tree after the Season ended.'''
+
+===Serow Mask===
+The Serow [[Mask]] is brown and resembles the face of a [[wikipedia:Serow|serow]], with decorative teal markings and a carved texture, costing {{Cost|48 C}}. It is permanently available to all players after completing the [[Season of Passage#Quest #2|second Quest]] from the Season of Passage, from the Quest Tree's second node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||mask_s|icon}} {{!}} Serow Mask icon
+{{Icon Name||mask_s_real}} {{!}} Serow Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Boar Mask===
+The Boar [[Mask]] is brown and resembles the face of a boar, with decorative teal markings and a carved texture, costing {{Cost|44 C}}. It is permanently available to all players after completing the [[Season of Passage#Quest #3|third Quest]] from the Season of Passage, from the Quest Tree's third node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||mask_b|icon}} {{!}} Boar Mask icon
+{{Icon Name||mask_b_real}} {{!}} Boar Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Monkey Mask===
+The Monkey [[Mask]] is brown and resembles the face of a monkey, with decorative teal markings and a carved texture, costing {{Cost|46 C}}. It is permanently available to all players after completing the [[Season of Passage#Quest #4|fourth Quest]] from the Season of Passage, from the Quest Tree's fourth node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||mask_m|icon}} {{!}} Monkey Mask icon
+{{Icon Name||mask_m_real}} {{!}} Monkey Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Raccoon Mask===
+The Raccoon [[Mask]] is brown and resembles the face of a raccoon, with decorative teal markings and a carved texture, costing {{Cost|52 C}}. It is permanently available to all players after completing the [[Season of Passage#Quest #5|fifth Quest]] from the Season of Passage, from the Quest Tree's fifth node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||mask_r|icon}} {{!}} Raccoon Mask icon
+{{Icon Name||mask_r_real}} {{!}} Raccoon Mask front
+{{Icon Name||mask_r_side}} {{!}} Raccoon Mask side
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Footbag Prop<span id="Prop"></span>===
+The Footbag [[Prop]] (also known as Hacky Sack Prop) is a small, weighted blue ball, costing {{Cost|39 H}}. It is a placeable Prop that can be kicked into the air with your feet and tossed to other players, allowing friends and strangers alike to play together. It is permanently available to all players after completing the [[Season of Passage#Quest #5|fifth Quest]] from the Season of Passage, from the Quest Tree's fifth node.  It appears as a miniature ball on its owner's back when carried.<br> 
+<br>
+{{#tag:gallery
+|{{Icon Name||prop_h|icon}} {{!}} The Footbag Prop icon
+{{Icon Name||prop_h|real}} {{!}} The Footbag Prop
+{{Icon Name||prop_h|held}} {{!}} Playing with the Footbag Prop
+{{Icon Name||prop_h|back}} {{!}} The Footbag Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Friendship Tree==
+The Passage Guide's Friendship Tree was available to the right of the Quest Tree during the Season of Passage only.''' Now that the Season is over, these cosmetics are no longer available.'''
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Passage Guide
+|image  = Passage-Ultimate-guide.png
+|type   = season
+|season = Passage
+
+|nodeC3 = cape_u 2 SH SP
+|linkC3 = Passage Guide#Passage Ultimate Cape
+
+|nodeC2 = mask_u 2 SH SP
+|linkC2 = Passage Guide#Passage Ultimate Mask
+
+|nodeC1 = necklace SP
+|linkC1 = Passage Guide#Passage Ultimate Pendant
+}}<section end="Friendship Tree" />
+
+==Quest Tree==
+The Passage Guide Quest Tree is available for all players to complete Quests from the [[Season of Passage]]. Since the end of the Season, players completing the Quests for the first time have to pay {{Candle|3}} to obtain these Hearts. 
+<section begin="Quest Tree" />{{Mobile Tabber
+|tab1 = Post-Season
+|c1   = {{Friendship Tree
+|spirit = Passage Guide
+|image  = Passage-Ultimate-guide.png
+
+|nodeC6 = mask_r 52 c
+|  linkC6 = Passage Guide#Raccoon Mask
+
+|nodeR5 = prop_h 39 h
+|  linkR5 = Passage Guide#Footbag Prop
+|nodeL5 = Heart
+|  noteL5 = <ref name="quest_heart"/>
+|nodeC5 = quest
+|  linkC5 = Season of Passage#Quest #5
+|  labelC5 = Quest 5
+
+|nodeR4 = mask_m 46 c
+|  linkR4 = Passage Guide#Monkey Mask
+|nodeL4 = Heart
+|  noteL4 = <ref name="quest_heart"/>
+|nodeC4 = quest
+|  linkC4 = Season of Passage#Quest #4
+|  labelC4 = Quest 4
+
+|nodeR3 = mask_b 44 c
+|  linkR3 = Passage Guide#Boar Mask
+|nodeL3 = Heart
+|  noteL3 = <ref name="quest_heart"/>
+|nodeC3 = quest
+|  linkC3 = Season of Passage#Quest #3
+|  labelC3 = Quest 3
+
+|nodeL2 = mask_s 48 c
+|  linkL2 = Passage Guide#Serow Mask
+|nodeC2 = quest
+|  linkC2 = Season of Passage#Quest #2
+|  labelC2 = Quest 2
+
+|nodeL1 = Heart
+|  noteL1 = <ref name="quest_heart">During the Season of Passage, the Hearts available from Passage Guide after completing each Quest were free.</ref>
+|nodeC1 = quest
+|  linkC1 = Season of Passage#Quest #1
+|  labelC1 = Quest 1
+}}
+
+|tab2 = Mid-Season
+|c2   = {{Friendship Tree
+|spirit = Passage Guide
+|image  = Passage-Ultimate-guide.png
+|type   = season
+|season = Passage
+
+|nodeC6 = mask_r 52 c
+|  linkC6 = #Raccoon Mask
+
+|nodeR5 = prop_h 39 h
+|  linkR5 = Passage Guide#Footbag Prop
+|nodeL5 = Heart free
+|nodeC5 = quest
+|  linkC5 = Season of Passage#Quest #5
+|  labelC5 = Quest 5
+
+|nodeR4 = mask_m 46 c
+|  linkR4 = Passage Guide#Monkey Mask
+|nodeL4 = Heart free
+|nodeC4 = quest
+|  linkC4 = Season of Passage#Quest #4
+|  labelC4 = Quest 4
+
+|nodeR3 = mask_b 44 c
+|  linkR3 = Passage Guide#Boar Mask
+|nodeL3 = Heart free
+|nodeC3 = quest
+|  linkC3 = Season of Passage#Quest #3
+|  labelC3 = Quest 3
+
+|nodeL2 = mask_s 48 c
+|  linkL2 = Passage Guide#Serow Mask
+|nodeC2 = quest
+|  linkC2 = Season of Passage#Quest #2
+|  labelC2 = Quest 2
+
+|nodeL1 = Heart free
+|nodeC1 = quest
+|  linkC1 = Season of Passage#Quest #1
+|  labelC1 = Quest 1
+}}
+}}<section end="Quest Tree" />
+
+==Personality==
+On April 12, 2023, TGC officially announced and introduced the Passage Guide with the following personality traits:
+
+*🦀 Leaves out food for [[Dark Crabs]] during holidays
+*🎭 Favorite skill to teach is mask-making
+*🌿 Can show even the brownest thumb how to grow something
+*🥸 Wields puns rarely but effectively
+
+==Trivia==
+*When speaking to the Passage Guide, the player uses the {{Emote|bow|inline_text}} [[Expression]] to greet them instead of {{Emote|wave|inline_text}}. This is one of only two instances of a unique Expression being used when speaking to a Guide (the other being the [[AURORA Guide]]).
+*The Passage Guide can also be found in the Aviary Village's [[Aviary Village#Face Accessories Shop|Face Accessories Shop]] but cannot be interacted with.
+
+==References==
+<references/>
+
+[[pt-br:Guia da Passagem]]
+[[fr:Guide de l'Initiation]]
+[[ja:ならいの案内人]]

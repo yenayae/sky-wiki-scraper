@@ -1,0 +1,48 @@
+{{Distinguish|type=Creature|Dark Shadows}}
+{{Creature Infobox
+|title    = Dark Worm
+|type     = dark
+|image    = Days-of-Nature-2024-Dark-Creature-Worm.png
+}}
+<section begin="Summary" />The '''Dark Worm''' is a hostile serpent-like creature first found in the polluted river of [[Prairie Peaks]] during [[Days of Nature#2024|Days of Nature 2024]]. It has a dark, spikey body similar to that of [[Dark Dragons]], with brightly glowing mandibles and a pair of antennae with glowing tips. The Dark Worm later returns alongside its smaller variant in the [[Sanctuary Islands]] during [[Days of Nature#2025|Days of Nature 2025]].<section end="Summary" />
+
+==Behavior==
+The Dark Worm dwells within a portion of the of riverbed in [[Prairie Peaks]], sticking mostly to the sections closest to the small waterfall halfway through the river, eager to attack players attempting to clear the [[Days of Nature#Prairie Peaks Shard Eruptions|Darkness pollution]]. The Dark Worm burrows underground to periodically move to different locations, hiding itself from view and appearing only as a traveling cloud of dust. While it can be lured close to the shore, it never strays from the riverbed.
+
+When it is idle and no player is nearby, the Dark Worm will stay buried underground with only its antennae and the very top of its head poking out from the ground. When a player approaches it, the Dark Creature will emerge from the ground and target the player, head turning to track their movements. It will retreat back underground if a player moves away. If a player continues to stay within range for several seconds, it will lunge to attack and grab them in its mandibles, shaking them around and draining their [[Capes#Cape Energy|Cape Energy]] for a few seconds before tossing them into the air. 
+
+==Losing Winged Light==
+[[File:Dark Worm in Prairie Peaks Guide by AL.png|thumb|300x300px|Dark Worm Guide by AL]]
+A single attack from the Dark Worm will drain between 3 to 5 wedges of [[Winged Light#Leveling Up Capes|Cape Energy]] from the player as it shakes them around. Players with enough Cape Energy to spare will simply be tossed without losing any [[Winged Light]]. However, players with too little Cape Energy to withstand the attack will end up extinguished and [[Winged Light#Losing Winged Light|lose]] 3 Winged Lights. The dropped Winged Lights can be recollected by the player or anyone else nearby, but they will break after 17 seconds and turn back into [[Children of Light]].
+
+When a player has been grabbed by the Dark Worm, other players can attempt to rescue them by [[Deep Call|Deep Calling]] at the creature. This will force the Dark Worm to drop the grabbed player and redirect their attention to the one performing the Deep Call. Note that once the Dark Worm begins thrashing their victim around, they can no longer be rescued. Deep Calls will still help them recover Cape Energy, however.
+
+The Dark Worm's attack can be avoided by dodging its lunge, moving away when it emerges from the ground, and by keeping a safe distance away from it at all times. Wearing an [[Elders#Ultimate Gifts|Elder Face Accessory]] will also protect the player from losing Winged Light for up to 2 attacks. In addition, the [[Flora, Minerals and Elements of Sky#Light Bloom|Light Blooms]] growing along the edge of the river and nearby flocks of [[Butterflies]] can be used to recover Cape Energy after an attack.
+{{Clear}}
+
+==Variations==
+During the 2025 Days of Nature activities, a much smaller version of the Dark Worm was added along the cleanse the darkness events.  While this Dark Worm acted the same way as its bigger version, it did not cause any loss of Winged Light regardless of flight energy.
+[[File:Baby_Dark_Worm_in_Sanctuary_by_Alvenoir.png|thumb|300x300px|Baby Dark Worm by Alvenoir]]
+{{Clear}}
+==Community Naming==
+The Dark Worm does not appear to have an official name, as it is only ever referred to as a Dark Creature in promotional posts and announcements from TGC. The community has given it many nicknames, however; often referring to it as a "Worm" or "Underwater Krill" due to its burrowing behavior and strong resemblance to [[Dark Dragons]]. 
+
+==Trivia==
+*While there are no official statements regarding its inspiration, the Dark Worm has a strong resemblance to [[wp:Eunice aphroditois|bobbit worms]], which are a type of water-dwelling worm that also ambushes its prey by burrowing underground.
+*The Dark Worm's entire body cannot usually be seen, as it remains at least partially buried most of the time. However, it's possible to see the creature's entire body if a player is far enough away when it lunges to attack, or if they view it from [[Out of Bounds]].
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Days-of-Nature-2024-Creature-Promo-image.png|Days of Nature 2024 Promo image
+Dark-Creature-Worm-Burrowed-Underwater.png|Dark Worm burrowed underground
+Dark-Creature-Worm-Underwater-Targeting.png|Dark Worm targeting a player underwater
+Dark-Creature-Worm-Land-Targeting.png|Dark Worm targeting a player on land
+Dark-Creature-Worm-Land-Attack.png|Dark Worm lunging to attack a player on land
+</gallery>
+
+[[fr:Ver des Ténèbres]]
+[[ja:闇のワーム]]
+[[pt-br:Verme da Escuridão]]
+[[de:Dunkelwurm]]
+
+[[Category:Creatures]]

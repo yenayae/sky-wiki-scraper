@@ -1,0 +1,208 @@
+{{Location
+|image      = Moominvalley-Main.png
+|realm      = Vault of Knowledge
+|access     = [[Vault of Knowledge#Collaboration Room|Collaboration Room]]
+|season     = Moomin
+|seasonal_spirits  = {{Spirit Group|Moomin|format=infobox}}
+|children_of_light = 1 {{Icon|Map-Shrine-flashing-Star-WL-indicator.png|link=Children of Light#{{{title|{{PAGENAME}}}}}}}
+|pieces_of_light   = 0 {{Cost|L}}
+|map        = Moominvalley 2024-10-20.jpg
+|mapcaption = Moominvalley Map by @sky_solsuga
+}}
+<!--<section begin="Quote" />{{Quote|<br>'''QUOTE.'''|Moominvalley Opening}}<section end="Quote" /> -->
+<section begin="Summary" />'''Moominvalley''' is a Seasonal area added to [[Vault of Knowledge]], introduced with the [[Season of Moomin]] in Update [[Update:Live_0.27.0_(294170_Android,_Huawei)_(292054_iOS,_PlayStation,_Steam,_Switch)|0.27.0]]. All the Quests, Spirits, and activities can be found in the area. To enter Moominvalley, head to the [[Vault of Knowledge#Collaboration Room|Collaboration Room]] in the Vault of Knowledge - left from where the player spawns once heading into the Vault portal. The doorway is blocked by a Spirit Gate requiring '''one (1)''' [[Regular Spirit]] from Vault to enter. Once inside, sit at the meditation circle in front of the {{Season Icon|Moomin|inline_text|label=Moomin}} mural. Explore the enchanting world of Tove Jansson’s classic characters and discover the ways that friendship and acceptance can restore color, no matter how faded the world may seem.<section end="Summary" />
+
+==Overview==
+Moominvalley is a whimsical, idyllic setting from the beloved [[wp:Moomins|''Moomins'']] series created by Finnish-Swedish author Tove Jansson. It features rolling hills, lush forests, and serene lakes, creating a picturesque landscape filled with charm and tranquility. The valley is home to the Moomins, a family of round, gentle creatures resembling hippos, along with a variety of other quirky characters, each with their own stories and adventures.
+
+The entirety of Moominvalley is depicted in grayscale, with spots of color only appearing during [[#Activities|certain activities]], and on any objects or surfaces near the player. In addition, players are only able to explore Moominvalley while transformed into a [[Butterflies|Butterfly]], limiting the number of actions they are able to perform.
+
+===Moominvalley Glade===
+[[File:Moominvalley-Glade-Main.png|thumb|x150px|Moominvalley Glade]]
+Moominvalley Glade is a small but vibrant forest clearing, isolated within a vast expanse of mirrored floor and surrounded by darkness. A series of parallel platforms - one stone, the other grassy - lead towards a lonely gazebo containing a [[Child of Light]] in the distance. [[The Moomin Storybook|The Moomin Storybook]] can be found here, alongside the [[#Spirits in Moominvalley|Moomin Seasonal Shops]] and a portal to [[Aviary Village]].
+
+Players will first arrive here when traveling from the [[Vault of Knowledge#Collaboration Room|Collaboration Room]] in the Vault of Knowledge. To enter Moominvalley proper, sit at the meditation circle next to a campsite on the left side of the central forest.
+
+Visually, Moominvalley Glade is very similar to the [[The_Void_of_Shattering_(Location)|Void of Shattering (Location)]] and the six [[Season_of_Shattering#Spirit_Memory_Quests|Ancient Memory]] voids. Unlike those areas, however, Moominvalley Glade has a unique color draining effect not seen anywhere else: the color of players and the environment itself shifts into grayscale when moving away from the central forest area. 
+{{Clear}}
+
+===Child of Light Locations===
+One (1) [[Child of Light]] has been added to the new [[Moominvalley Glade]] area.<br>
+{{#lst:Children of Light|Moominvalley Children}}
+
+===Spirits in Moominvalley===
+[[#Moominvalley Glade|Moominvalley Glade]] holds 4 [[Seasonal_Entities|Seasonal Shops]] ({{Spirit|Comfort of Kindness|Inline_text}}, {{Spirit|Sense of Self|Inline_text}}, {{Spirit|Spirit of Adventure|Inline_text}}, {{Spirit|Inspiration of Inclusion|Inline_text}}).
+
+<section begin="SpiritTabber" />{{Mobile Tabber
+|tab1 = {{Emote|Comfort of Kindness|tab| link=Comfort of Kindness | label=Comfort of Kindness }}
+|c1   = <div> {{#lst:Comfort of Kindness|Summary}} {{#if: {{#lst:Comfort of Kindness|TS Friendship Tree}} | {{#lst:Comfort of Kindness|TS Friendship Tree}} | {{#lst:Comfort of Kindness|Season Friendship Tree}} }} </div>
+|type1= seasonal
+
+|tab2 = {{Emote|Sense of Self|tab| link=Sense of Self | label=Sense of Self }}
+|c2   = <div> {{#lst:Sense of Self|Summary}} {{#if: {{#lst:Sense of Self|TS Friendship Tree}} | {{#lst:Sense of Self|TS Friendship Tree}} | {{#lst:Sense of Self|Season Friendship Tree}} }} </div>
+|type2= seasonal
+
+|tab3 = {{Emote|Spirit of Adventure|tab| link=Spirit of Adventure | label=Spirit of Adventure }}
+|c3   = <div> {{#lst:Spirit of Adventure|Summary}} {{#if: {{#lst:Spirit of Adventure|TS Friendship Tree}} | {{#lst:Spirit of Adventure|TS Friendship Tree}} | {{#lst:Spirit of Adventure|Season Friendship Tree}} }} </div>
+|type3= seasonal
+
+|tab4 = {{Emote|Inspiration of Inclusion|tab| link=Inspiration of Inclusion | label=Inspiration of Inclusion }}
+|c4   = <div> {{#lst:Inspiration of Inclusion|Summary}} {{#if: {{#lst:Inspiration of Inclusion|TS Friendship Tree}} | {{#lst:Inspiration of Inclusion|TS Friendship Tree}} | {{#lst:Inspiration of Inclusion|Season Friendship Tree}} }} </div>
+|type4= seasonal
+}}<section end="SpiritTabber" />
+
+===In-App Purchase Shop===
+[[File:Moominvalley-Glade-IAP-Shop.png|thumb|x150px|Moomin In-App Purchase Shop]]
+
+Some themed items are available outside of the Seasonal Spirit Constellations, from the In-App Purchase Shop in the [[Moominvalley#Moominvalley Glade|Moominvalley Glade]]<ref>Before Patch {{v|0.27.5}}, all Moomin Premium Packs were exclusively available for purchase through the [[Premium Candle Shop]].</ref> for the duration of the Season. The Shop is located in [[#Moominvalley Glade|Moominvalley Glade]], on the same island as the [[#Spirits in Moominvalley|Moomin Seasonal Shops]], and can be accessed by selecting the {{Icon|Gift-box-icon.png}} gift icon above the campfire.
+
+They are available for different durations of the Season. All Seasonal IAPs offered for the Moomin collaboration are available until the Season ends on '''Sunday, December 29, 2024 at 23:59 PST (UTC -8).'''
+
+Please note that since all these items are part of a limited collaboration, they will not be available once the Season is over and are not scheduled to return in future years.
+
+For more details, see [[Season of Moomin#Premium Packs (In-App Purchases)|Season of Moomin]].
+
+==Activities==
+===Moomin Quests===
+<div style="float:right">{{Mobile Tabber|textonly=1
+|tab1 = 1
+|c1   = <div> {{#ev:youtube|VC_MUOVUUAs|300|right}} </div>
+|tab2 = 2
+|c2   = <div> {{#ev:youtube|vE4TaLqFyr8|300|right}} </div>
+|tab3 = 3
+|c3   = <div> {{#ev:youtube|rrBUO5oD7d0|300|right}} </div>
+|tab4 = 4
+|c4   = <div> {{#ev:youtube|4vILacRzWKo|300|right}} </div>
+|tab5 = 5
+|c5   = <div> {{#ev:youtube|foMtbf040t0|300|right}} </div>
+|tab6 = 6
+|c6   = <div> {{#ev:youtube|XhV3-Q8NWiA|300|right}} </div>
+}}</div>
+In Moominvalley, players are able to do Seasonal Quests from [[Season of Moomin]]. Players can access these Quests through meditation circles found on a series of grassy platforms behind the central forested area in [[#Moominvalley Glade|Moominvalley Glade]]. Guide the Invisible Child Ninny through a whimsical valley where her story is told, each step bringing her closer to her true self. The very environment around you mirrors her journey, gradually blooming into vibrant hues as she emerges from the gray shadows of her past.
+{{Clear}}
+
+===<span id="Storybook Side Quests">Storybook Quests</span>===
+<div style="float:right">{{Mobile Tabber|textonly=1
+|tab1 = 1
+|c1   = <div> {{#ev:youtube|J-WKnOnBexM|300|right}} </div>
+|tab2 = 2
+|c2   = <div> {{#ev:youtube|UNfjebHRIw0|300|right}} </div>
+|tab3 = 3
+|c3   = <div> {{#ev:youtube|5vlDL5zCPjo|300|right}} </div>
+|tab4 = 4
+|c4   = <div> {{#ev:youtube|JBa_zmqeKmI|300|right}} </div>
+|tab5 = 5
+|c5   = <div> {{#ev:youtube|3YOIm5Hildo|300|right}} </div>
+|tab6 = 6
+|c6   = <div> {{#ev:youtube|Nxj4wuDmidI|300|right}} </div>
+}}</div>
+With the completion of each main Seasonal Quest from [[Season of Moomin]], an additional Storybook Quest will also be unlocked. Players can access these Side Quests through meditation circles found on a series of bare stone platforms behind the central forested area in [[#Moominvalley Glade|Moominvalley Glade]]. These optional extra Quests offer a glimpse into the Invisible Child Ninny's shadowed memories and emotions as she works to becomes visible once again. Join in an adventure that challenges you to confront the shadows of your past and emerge stronger, celebrating the power of resilience and self-discovery.
+{{Clear}}
+
+===Moominvalley's Tales===
+Moominvalley's tales are short stories revolving around the Moomin family and their adventures in the idyllic Moominvalley, based on books of the same name. A total of 6 different tales are hidden all over Moominvalley and take the form of books, which players can interact with to view brief scenes that feature various members of the ''Moomins'' cast.<br>
+<br>
+<div style="float:left">{{Mobile Tabber|textonly=1
+|tab1 = Snufkin's Tune
+|c1   = <div> {{#ev:youtube|CFRUkVLTrgk|500|left}} </div>
+|tab2 = Comet
+|c2   = <div> {{#ev:youtube|mAKgz0I5l6M|500|left}} </div>
+|tab3 = Sniff is Sad
+|c3   = <div> {{#ev:youtube|tR3yon0DCLU|500|left}} </div>
+|tab4 = Hattifatteners
+|c4   = <div> {{#ev:youtube|cVAGifDMS2c|500|left}} </div>
+|tab5 = Moominpappa at Sea
+|c5   = <div> {{#ev:youtube|jqNl7mBqVH8|500|left}} </div>
+|tab6 = Finn Family
+|c6   = <div> {{#ev:youtube|Fhp5Gwp0Z14|500|left}} </div>
+}}</div>
+{{Clear}}
+
+==Characters==
+The beloved Moomin© Storybook characters can be seen in the Seasonal Quests and in the Moominvalley's Tales videos. No interaction is possible outside from those. TGC introduced them as follows:
+<br><br>
+{{Mobile Tabber|textonly=1
+|style = color:red
+|tab1 = Moomintroll
+|c1   = [[File:SoMoomin-Moomintroll-promo-image.png|none|thumb|320px|Moomintroll TGC's Promo image]]
+*🐾 The youngest Moomin, he loves to go on adventures
+*💫 Hopes to befriend everyone—even the misunderstood
+*🦁 Sensitive but brave, he steps up when courage is called for
+*🌱 Cherishes spring, when his best friend Snufkin returns
+|tab2 = Too-Ticky
+|c2   = [[File:SoMoomin-Too-Ticky-promo-image.png|none|thumb|320px|Too Ticky TGC's Promo image]]
+*🏠The Moomin’s closest and most valued neighbor
+*🌊 Lives humbly, cherishing peace and quiet
+*🛠️ Solves problems without fuss, trusting others to do the same
+*💭 A deep thinker, content in solitude but always ready to help
+|tab3 = Snufkin
+|c3   = [[File:SoMoomin-Snufkin-promo-image.png|none|thumb|320px|Snufkin TGC's Promo image]]
+*🌿 A free spirit who wanders wherever the wind takes him
+*🎶 Plays beautiful music inspired by the rhythms of the natural world
+*🎒 Travels light—knowing freedom comes from owning little
+*🌲 Solitary by nature, yet always there to help those in need
+|tab4 = Moominmamma
+|c4   = [[File:SoMoomin-Moominmamma-promo-image.png|none|thumb|320px|Moominmamma TGC's Promo image]]
+*🌷 Warm and nurturing—with a bit of a rebellious streak
+*☕️ Patient and kind, she takes care with others’ emotions
+*👜 Her handbag holds the answer to nearly any problem
+*🎂 Always remembers birthdays, making sure everyone feels special
+|tab5 = Moominpappa
+|c5   = [[File:SoMoomin-Moominpappa-promo-image.png|none|thumb|320px|Moominpappa TGC's Promo image]]
+*🌊 Loves a grand adventure, but always returns to his family
+*📚 Thinks of himself as a great thinker and storyteller
+*🛠️ Built the Moominhouse from scratch with his own paws
+*🎩 Enjoys the finer things in life—like relaxing with a good book
+|tab6 = Little My
+|c6   = [[File:SoMoomin-LittleMy-promo-image.png|none|thumb|320px|Little My TGC's Promo image]]
+*🔥 Small in size, but fierce in spirit
+*🎭 Loves a bit of drama and never backs down from a challenge
+*💥 Blunt and bold, always speaks her mind—whether you like it or not
+*⚡️ Ready for any adventure, especially the dangerous ones
+|tab7 = Ninny
+|c7   = [[File:SoMoomin-Ninny-personality-promo-image.png|none|thumb|320px|Ninny TGC's Promo image]]
+*👁️ Became invisible after enduring years of unkindness
+*💖 With the Moomins’ help, she hopes to become visible again
+*🎀 Always prim, proper, and polite
+*🎭 A bit of a bore, with no idea how to have fun
+|tab8 = Sniff
+|c8   = [[File:SoMoomin-Sniff-personality-promo-image.png|none|thumb|320px|Sniff TGC's Promo image]]
+*🐾 Loyal and eager to join the fun, but hesitant when things get risky
+*💎 Always dreaming of treasures and anything that sparkles
+*💔 A bit selfish, and sometimes insensitive in his remarks
+*🧸 Cherishes his belongings—especially his beloved toy dog, Cedric
+|tab9 = Hattifatteners
+|c9   = [[File:SoMoomin-Hattifatteners-personality-promo-image.png|none|thumb|320px|Hattifatteners TGC's Promo image]]
+*🌅 Restless wanderers, forever moving toward the horizon
+*👥 Mysterious and silent, always traveling in groups
+*🌱 Grow from seeds sown only on Midsummer’s Eve
+*⚡️ Become charged up with electricity during thunderstorms
+}}
+{{Clear}}
+
+==Trivia==
+*Atop a mountain near the larger island sits a top hat, presumably [[w:c:Moomin:The Hobgoblin's Hat|The Hobgoblin's Hat]].
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape">
+Moominvalley-Glade-Tent.png|Meditation circle to enter Moominvalley proper
+Moominvalley-Glade-Cosmetics-Shops-Island.png|Moomin Seasonal Shops
+Moominvalley-Glade-Aviary-Portal.png|Aviary Village Portal
+Moominvalley-Glade-Quest-1-Stone.png|Moomin Quest 1 Stone Decoration
+Moominvalley-Glade-Quest-2-Stone.png|Moomin Quest 2 Stone Decoration
+Moominvalley-Glade-Quest-3-Stone.png|Moomin Quest 3 Stone Decoration
+Moominvalley-Glade-Quest-4-Stone.png|Moomin Quest 4 Stone Decoration
+Moominvalley-Glade-Quest-5-Stone.png|Moomin Quest 5 Stone Decoration
+Moominvalley-Glade-Quest-6-Stone.png|Moomin Quest 6 Stone Decoration
+</gallery>
+
+==References==
+<references />
+
+{{RealmsNav}}
+
+[[fr:Vallée des Moomins]]
+[[pt-br:Vale dos Mumins]]
+[[ja:ムーミン谷]]
+[[zh:姆明谷]]
+[[Category:Voids]]

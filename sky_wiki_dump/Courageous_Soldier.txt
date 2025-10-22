@@ -1,0 +1,110 @@
+{{Spirit Infobox
+|type      = Regular
+|emote_type= Stance
+|image     = <gallery>
+Wasteland-Spirit-Courageous-Soldier.png|Standard
+Wasteland-Spirit-Courageous-Soldier-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Hair|infobox}}{{Spirit Item||Cape|infobox}}{{Spirit Item||Tier 2 Cape|infobox}}
+|realm     = Golden Wasteland
+|location  = Graveyard Entrance
+}}
+<section begin="Summary" />The '''Courageous Soldier''' is a [[Regular Spirit]] in the [[Golden Wasteland]] who offers the {{Emote|Courageous Soldier|inline_text}}. The Courageous Soldier is found in the [[Graveyard Entrance]] (also known as the "First Krill Area"), directly in front of the entryway and between two tall columns. The collectibles [[Courageous Soldier#Friendship Tree|offered]] by this Spirit are a {{Spirit Item|Courageous Soldier|Hair|inline_text}} and two tiers ({{Spirit Item|Courageous Soldier|Cape}} {{Spirit Item|Courageous Soldier|Tier 2 Cape}}) of a [[#Cape|Cape]].<section end="Summary" /><br>
+<br>
+[[File:Courageous-Soldier-Guide-777-Ed.png|320x320px|thumb|none|Image Guide by 777.Ed]]
+
+== Memory ==
+<div>{{#ev:youtube|6fEGZrXCijQ||inline|Video Guide by Tara}}
+<br>
+The Courageous Soldier can be found in the [[Graveyard Entrance]] (also known as the "First Krill Area"), directly in front of the entryway and between two tall columns. This Spirit is a [[Standard Memory|standard memory]] quest with 7 memory fragments and an unlimited overall [[Timed Memory|time limit]]. The [[Dark Dragon]] in this area may lead to difficulty in collecting this Spirit, but patience is key in avoiding its line of sight.
+
+As their memory unfolds, the Courageous Soldier makes their way across the rocky terrain of this area, taking care to avoid the Dark Dragon that is circling around the perimeter of the area. They walk across the [[Flora,_Minerals_and_Elements_of_Sky#Polluted_Water|Polluted Water]] and up through the broken structure in the center of the area, seemingly unfazed by the danger around them. They finally reach the top of the collapsed structure and continue to trek up to the large awning, where they are no longer in the line of sight of the Dark Dragon. 
+
+At the end of the memory, the Courageous Soldier stares off into the distance, looking upon the [[Graveyard]] that stretches on in front of them. They remain resolute, their stance wide and strong, with their hands balled into fists.<br>
+<br>
+[[File:04 GW Spirit - Courageous Soldier.jpg|200px|thumb|none|Relive the Courageous Soldier's memory]]
+</div>
+{{Clear}}
+
+== <span id="Expression">Stance</span> ==
+The Courageous Soldier offers the {{Emote|Courageous Soldier|inline_text}}, which will give your avatar a courageous look, with their legs held apart slightly and their arms extended rather than resting at their sides. The Stance will affect your avatar's position when standing, kneeling, sitting, and lying down.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Emote}}
+Courageous-Soldier-courageous-stance-emote.gif {{!}} {{Icon Name||emote_name}}
+Courageous-Soldier-Stance-Standing.png {{!}} {{Icon Name||emote_name}} (Standing)
+Courageous-Soldier-Stance-Kneeling.png {{!}} {{Icon Name||emote_name}} (Kneeling)
+Courageous-Soldier-Stance-Sitting.png {{!}} {{Icon Name||emote_name}} (Sitting)
+Courageous-Soldier-Stance-Lying-Down.png {{!}} {{Icon Name||emote_name}} (Lying down)
+|heights=160px|captionalign=center|spacing=small
+}}
+
+*Standing will make your avatar take a step out to the left, increasing the distance between both feet and legs. Their arms are also extended outwards from the torso, and their hands are clenched into fists.
+*Kneeling will make your avatar fold their legs underneath them, similar to the default stance. Their arms remain extended outwards from the torso, and their fists are still clenched as they were in the standing position.
+*Sitting will make your avatar lean back and prop up their right knee, leaving the left knee extended. Their hands are extended at their sides and provide support.
+*Lying down will make your avatar lay flat on their back, legs splayed, and arms extended.
+
+== Cosmetics ==
+=== Hair ===
+The [[Hair]] offered by this Spirit is a spiky mohawk, costing {{Cost|4 H}}. It is permanently available to all players after unlocking the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair}} {{!}} The Hair icon
+Courageous-Soldier-Hair-front.png {{!}} The Hair front
+{{Icon Name||Hair|real}} {{!}} The Hair side
+{{Icon Name||Hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Cape ===
+The Courageous Soldier offers two standard-style green [[Capes]]; a Tier 1 and a [[Tier 2 Cape|Tier 2]] version, costing {{Heart|15}} and {{Heart|45}} respectively. Both are permanently available to all players after unlocking the Friendship Tree's fourth node and second [[Wing Buff]] respectively.
+
+The Tier 2 Cape (and the second Wing Buff that unlocks it) are not needed to complete the Golden Wasteland [[Constellation]]. These were both added to the Friendship Tree in Patch {{v|0.12.3}} on February 6, 2021.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape}} {{!}} The Tier 1 Cape icon
+{{Icon Name||Cape|front}} {{!}} The Tier 1 Cape front
+{{Icon Name||Cape|interior}} {{!}} The Tier 1 Cape interior
+{{Icon Name||Cape|back}} {{!}} The Tier 1 Cape back
+|widths=125|captionalign=center|spacing=small
+}}
+
+{{#tag:gallery
+|{{Icon Name||Tier 2 Cape}} {{!}} The Tier 2 Cape icon
+{{Icon Name||Tier 2 Cape|front}} {{!}} The Tier 2 Cape front
+{{Icon Name||Tier 2 Cape|interior}} {{!}} The Tier 2 Cape interior
+{{Icon Name||Tier 2 Cape|real}} {{!}} The Tier 2 Cape back
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Friendship Tree ==
+{{Friendship Tree Info | regular}}
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Courageous Soldier
+|image  = Wasteland-Spirit-Courageous-Soldier.png
+
+|nodeC7 = tier_2_cape 45 H BONUS
+|nodeC6 = wing 6 AC BONUS
+|nodeC5 = cape 15 H
+|nodeC4 = spell5
+|nodeC3 = wing 2 AC
+|nodeL2 = heart
+|nodeC2 = spell1
+|nodeL1 = hair 4 H
+|nodeC1 = emote
+}}<section end="Friendship Tree" />
+
+==Unique Daily Quests==
+{{#section-h:Quests/Daily Quest Spirits|{{PAGENAME}}}}
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+File:Emote Loc-Wide Legged Stance.png
+</gallery>
+
+==References==
+<references />
+
+[[de:Mutiger Soldat]]
+[[pt-br:Soldado Valente]]
+[[fr:Soldat courageux]]

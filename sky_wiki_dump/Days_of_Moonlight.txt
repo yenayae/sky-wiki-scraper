@@ -1,0 +1,563 @@
+{{SkyEvent
+| image = Days-of-Moonlight-promo-image-2025.jpg
+| date = September 29 to October 12, 2025
+| previousevent = [[Days of Sunlight]]
+| nextevent = [[Days of Mischief]]
+}}
+'''Days of Moonlight''' is an annual event celebrating the moon where players gather together to share peaceful moments, memorable riddles, and admire the full moon. It was first introduced in 2024, following after [[Days of Sunlight]].
+
+During the two-week event, the Moonlight Guide appears in [[Home]] and [[Aviary Village]], offering to take players directly to the [[Crescent Oasis#Hidden Glade|Hidden Glade]] in the Vault of Knowledge, which was newly decorated for the occasion. A silvery moon shines above the stately tree that calls the Oasis home, and nearby paper lanterns are ready to create a magical atmosphere. Beneath a starry sky, hanging lanterns invite you to [[Days of Moonlight#Riddle Lanterns|create a riddle]] for fellow Sky Children to solve.
+
+Moonlight-themed [[IAP]]s are available from the in-game shop, and the Moonlight Guide Spirit offers various cosmetics from their Friendship Tree. Free [[Spells]] to try all of these items can also be collected from the Gift Box at [[Crescent Oasis#Hidden Glade|Hidden Glade]].
+{{Clear}}
+
+==September 2025==
+{{#ev:youtube|Q1MPrDLo9b4||right|Days of Moonlight 2025 Trailer}}
+A silver moon rose over a serene landscape, calling Sky kids to share peaceful moments, memorable riddles, and perhaps even some… transformative moments.
+
+Days of Moonlight returned from '''Monday, September 29, 2025 at 00:00 PDT (UTC-7)''' through '''Sunday, October 12, 2025 at 23:59 PDT (UTC-7)''', lasting '''14''' days. For the duration of the event, the Moonlight Guide appeared at [[Home]] and [[Aviary Village]], offering to warp players to a starry-skied version of the [[Crescent Oasis#Hidden Glade|Crescent Oasis's Hidden Glade]]. 
+
+There, players could share [[#Riddle Lanterns|riddles]] with others and try their hand at answering a few of their own. The Moonlight Pavilion was introduced this year, and hosted new event experiences, including: a table with mooncakes, a meditation circle, and a dock. The mooncakes offered a [[Days of Moonlight#Moonlight Rabbit Form Spell|surprising twist]] on the event experience. The new meditation circle warped players into a tranquil void where an Asian-inspired structure stood at the heart of the scene. Surrounded by golden shrubs and drifting lily pads, the moonlit Pavilion rested beneath the glow of an enormous full moon, radiating a cold yet breathtaking light. At the end of the dock, players could use a [[Blessings (Spells)#Message Lantern Spell|message lantern]] to write for a loved one, and release it out onto the water. 
+
+Beginning with this year's Days of Moonlight, three items from other events are now available: 
+*the [[#Moonlight Lantern Pack|Lantern Pack]] (from [[Days of Summer Lights#September 2020|Days of Summer Lights 2020]]<!--<ref name="Days of Summer Lights"></ref>-->), 
+*the [[#Moonlight Bunny Accessory|Bunny Accessory]] (from [[Days of Summer Lights#September 2021|Days of Summer Lights 2021]]<!--<ref name="Days of Summer Lights"></ref>-->), and 
+*the [[#Moonlight Bunny Slippers|Bunny Slippers]] (from [[Days of Style#October 2023|Days of Style 2023]]<!--<ref name="Days of Style"></ref>-->)
+
+===Ticket Locations===
+[[file:Days-of-Moonlight-Ticket-Moon.png|125px|thumb|A Days of Moonlight crescent moon Ticket]]
+Up to {{Cost|5 T|event=moonlight}} Event Tickets could be forged each day by gathering falling Event Ticket Light in the event area and by reading [[#Riddle Lanterns|Riddle Lanterns]], which each gave about half of {{Cost|1 T|event=moonlight}}Event Ticket.
+
+A total of {{Cost|15 T|event=moonlight}} one-time crescent moon-shaped Tickets were hidden throughout the [[Crescent Oasis#Hidden Glade|Hidden Glade]], including the Moonlight Pavilion Void. They could be collected at any time during the event. ''(See Ticket locations below)''
+
+Players could also buy additional Tickets (costing {{Cost|2 AC}} or {{Cost|6 C}} each) from the [[Spell]] Box at the [[Crescent Oasis#Hidden Glade|Hidden Glade]].<br><br>
+{{Collapse
+|float= left
+|state= closed
+|label= All Exact Ticket Locations
+|content=<u>'''Hidden Glade Area:'''</u>
+*{{Cost|1 T|event=Moonlight}} between the riddle lanterns
+*{{Cost|1 T|event=Moonlight}} inside the Golden Tree, next to the [[Children of Light#Crescent Oasis (3)|Child of Light]]
+*{{Cost|1 T|event=Moonlight}} on the Tree's stem, on the left side
+*{{Cost|1 T|event=Moonlight}} behind the Tree, on a lotus flower
+*{{Cost|1 T|event=Moonlight}} on top of a high mountain, right and behind the Golden Tree
+*{{Cost|1 T|event=Moonlight}} on top of a high mountain, left and behind the Golden Tree
+*{{Cost|1 T|event=Moonlight}} slightly left and away from the Tree, on the grass
+*{{Cost|1 T|event=Moonlight}} left of the Tree, on the grass by the clouds
+*{{Cost|1 T|event=Moonlight}} under the bridge leading the to pavilion
+*{{Cost|1 T|event=Moonlight}} on the pavilion's roof, facing away from the Golden Tree
+*{{Cost|1 T|event=Moonlight}} on a lotus flower, just behind the pavilion
+*{{Cost|1 T|event=Moonlight}} next to the [[Chat Benches#Crescent Oasis|Chat Bench]] and a lantern, far away towards the right of the Tree
+
+<u>'''Moonlight Void Area:'''</u>
+*{{Cost|1 T|event=Moonlight}} on the gazebo's roof, facing the moon
+*{{Cost|1 T|event=Moonlight}} on a lilypad, to the gazebo's right side
+*{{Cost|1 T|event=Moonlight}} on a lotus flower, slightly left of the gazebo
+}}
+{{Friendship Tree
+|label = Moonlight Guide
+|event = Moonlight
+|image = Days-of-Moonlight-Guide-2025.png
+
+|nodeC3 = {{Icon Name|Moonlight Blossom Accessory|icon}} 35 C
+|  labelC3 = {{Icon Name|Moonlight Blossom Accessory|name}}
+|  linkC3  = #{{Icon Name|Moonlight Blossom Accessory|name}}
+
+|nodeL2 = {{Icon Name|Moonlight Lantern Decoration|icon}} 70 C
+|  labelL2 = {{Icon Name|Moonlight Lantern Decoration|name}}
+|  linkL2  = #{{Icon Name|Moonlight Lantern Decoration|name}}
+|nodeC2 = Spellx 5 C
+|  labelC2 = Spell
+|  linkC2  = Spells
+
+|nodeL1 = {{Icon Name|Moonlight Tufted Tail Accessory|icon}} 42 T
+|  labelL1 = {{Icon Name|Moonlight Tufted Tail Accessory|name}}
+|  linkL1  = #{{Icon Name|Moonlight Tufted Tail Accessory|name}}
+|nodeC1 = Spellx 5 C
+|  labelC1 = Spell
+|  linkC1  = Spells
+|nodeR1 = {{Icon Name|Moonlight Banner|icon}} 18 T
+|  labelR1 = {{Icon Name|Moonlight Banner|name}}
+|  linkR1  = #{{Icon Name|Moonlight Banner|name}}
+}}
+{{Clear}}
+
+===<big>All Available Collectibles in 2025</big>===
+{| class="article-table"
+!Name
+!Icon
+!Type
+!Cost
+!Location
+!Spell
+!Spell Cost & Locations
+|-
+! colspan="7" style="text-align:center;" |From Days of Moonlight 2025
+|-
+|[[Days of Moonlight#{{Icon Name|Moonlight Garland Cape|name}}|{{Icon Name|Moonlight Garland Cape|name}}]]
+|{{Days Item|Moonlight Garland Cape||table}}
+|[[Cape]]
+|{{Cost|14.99 USD|refnote}}
+|<small>[[Premium Candle Shop]]</small>
+|{{Days Item|Moonlight Garland Cape|spell|table}}<small>x3</small>
+|<small>Spell Box at the [[Crescent Oasis#Hidden Glade|Hidden Glade]] for free</small>
+|-
+|[[Days of Moonlight#{{Icon Name|Moonlight Tufted Tail Accessory|name}}|{{Icon Name|Moonlight Tufted Tail Accessory|name}}]]
+|{{Days Item|Moonlight Tufted Tail Accessory||table}}
+|[[Neck Accessory]]
+|{{Cost|42 T|event=Moonlight}}
+|<small>Moonlight Guide at the [[Crescent Oasis#Hidden Glade|Hidden Glade]]</small>
+|{{Days Item|Moonlight Tufted Tail Accessory|spell|table}}<small>x3</small>
+|<small>Spell Box at the [[Crescent Oasis#Hidden Glade|Hidden Glade]] for free</small>
+|-
+|[[Days of Moonlight#{{Icon Name|Moonlight Basin|name}}|{{Icon Name|Moonlight Basin|name}}]]
+|{{Days Item|Moonlight Basin||table}}
+|[[Prop]]
+|{{Cost|75 C}}
+|<small>Spell Box at the [[Crescent Oasis#Hidden Glade|Hidden Glade]]</small>
+|
+|
+|-
+|[[Days of Moonlight#{{Icon Name|Moonlight Banner|name}}|{{Icon Name|Moonlight Banner|name}}]]
+|{{Days Item|Moonlight Banner||table}}
+|[[Prop]]
+|{{Cost|18 T|event=Moonlight}}
+|<small>Moonlight Guide at the [[Crescent Oasis#Hidden Glade|Hidden Glade]]</small>
+|
+|
+|-
+|[[Days of Moonlight#Moonlight Lantern|Moonlight Lantern]] + {{Cost|35 C}}
+|{{Days Item|Lantern||table}}
+|[[Prop]]
+|{{Cost|19.99 USD|ref}}
+|<small>Moonlight Gift Box at the [[Crescent Oasis#Hidden Glade|Hidden Glade]]</small>
+|{{Days Item|Lantern|spell|table}}<small>x3</small>
+|<small>Spell Box at the [[Crescent Oasis#Hidden Glade|Hidden Glade]] for free</small>
+|-
+|[[Days of Moonlight#Moonlight Bunny Accessory|Moonlight Bunny Accessory]]
+|{{Days Item|Bunny Accessory||table}}
+|[[Hair Accessory]]
+|{{Cost|2.99 USD|ref}}
+|<small>Moonlight Gift Box at the [[Crescent Oasis#Hidden Glade|Hidden Glade]]</small>
+|{{Days Item|Bunny Accessory|spell|table}}<small>x3</small>
+|<small>Spell Box at the [[Crescent Oasis#Hidden Glade|Hidden Glade]] for free</small>
+|-
+|[[Days of Moonlight#Moonlight Bunny Slippers|Moonlight Bunny Slippers]]
+|{{Days Item|Bunny Slippers||table}}
+|[[Shoes]]
+|{{Cost|6.99 USD|refnote}}
+|<small>Moonlight Gift Box at the [[Crescent Oasis#Hidden Glade|Hidden Glade]]</small>
+|{{Days Item|Bunny Slippers|spell|table}}<small>x3</small> 
+|<small>Spell Box at the [[Crescent Oasis#Hidden Glade|Hidden Glade]] for free</small>
+|-
+|[[Days of Moonlight#Moonlight Rabbit Form Spell|Moonlight Rabbit Form Spell]]
+|
+|[[Spell]]
+|
+|
+|{{Icon|Rabbit-Form-Spell.png|table|label=Moonlight Rabbit Form Spell|in_page=1}}
+|<small>Not collectible; only available when eating a cake from the Pavilion Tea table.</small>
+|-
+|[[Dyes|White Dye]]
+|{{Icon|White-dye-container-icon.png|table}} <small>x1</small>
+|[[Dyes]]
+|{{Cost|10 T|event=moonlight}}
+|<small>Spell Box at the [[Crescent Oasis#Hidden Glade|Hidden Glade]]</small>
+|
+|
+|-
+|[[Dyes|Black Dye]]
+|{{Icon|Black-dye-container-icon.png|table}} <small>x1</small>
+|[[Dyes]]
+|{{Cost|10 T|event=moonlight}}
+|<small>Spell Box at the [[Crescent Oasis#Hidden Glade|Hidden Glade]]</small>
+|
+|
+|-
+! colspan="7" style="text-align:center;" |From Days of Moonlight 2024
+|-
+| rowspan="2" |[[Days of Moonlight#Moonlight Frock and Updo|Moonlight Frock and Updo]]
+| {{Days Item|Moonlight Frock||table}}
+| [[Outfit]]
+| rowspan="2" |{{Cost|14.99 USD|refnote}}
+| rowspan="2" | <small>Moonlight Gift Box at the [[Crescent Oasis#Hidden Glade|Hidden Glade]]</small>
+| {{Days Item|Moonlight Frock|spell|table}}<small>x3</small>
+| rowspan="2" | <small>Spell Box at the [[Crescent Oasis#Hidden Glade|Hidden Glade]] for free</small>
+|-
+| {{Days Item|Moonlight Updo||table}}
+| [[Hair]]
+| {{Days Item|Moonlight Updo|spell|table}}<small>x3</small>
+|-
+|[[Days of Moonlight#{{Icon Name|Moonlight Earrings|name}}|{{Icon Name|Moonlight Earrings|name}}]]
+|{{Days Item|Moonlight Earrings||table}}
+|[[Head Accessory]]
+|{{Cost|2.99 USD|refnote}}
+|<small>Moonlight Gift Box at the [[Crescent Oasis#Hidden Glade|Hidden Glade]]</small>
+|{{Days Item|Moonlight Earrings|spell|table}}<small>x3</small>
+|<small>Spell Box at the [[Crescent Oasis#Hidden Glade|Hidden Glade]] for free</small>
+|-
+|[[Days of Moonlight#{{Icon Name|Moonlight Lantern Decoration|name}}|{{Icon Name|Moonlight Lantern Decoration|name}}]]
+|{{Days Item|Moonlight Lantern Decoration||table}}
+|[[Prop]]
+|{{Cost|70 C}}
+|<small>Moonlight Guide at the [[Crescent Oasis#Hidden Glade|Hidden Glade]]</small>
+|{{Days Item|Moonlight Lantern Decoration|spell|table}}<small>x3</small>
+|<small>Spell Box at the [[Crescent Oasis#Hidden Glade|Hidden Glade]] for free</small>
+|-
+|[[Days of Moonlight#{{Icon Name|Moonlight Blossom Accessory|name}}|{{Icon Name|Moonlight Blossom Accessory|name}}]]
+|{{Days Item|Moonlight Blossom Accessory||table}}
+|[[Hair Accessory]]
+|{{Cost|35 C}}
+|<small>Moonlight Guide at the [[Crescent Oasis#Hidden Glade|Hidden Glade]]</small>
+|{{Days Item|Moonlight Blossom Accessory|spell|table}}<small>x3</small>
+|<small>Spell Box at the [[Crescent Oasis#Hidden Glade|Hidden Glade]] for free</small>
+|}
+
+===2025 New Cosmetics and Props===
+====Moonlight Garland Cape====
+::'''''"Bring the quiet magic of moonlight to your shoulders."'''''
+The Moonlight Garland Cape is pale blue, sparkling, and translucent. It has a short shoulder mantle that is trimmed with gold at the top, and two long ribbon-like tails that fasten at the front and loop weightlessly around the shoulders. An additional ribbon bridges the two at the back, meeting additional loops of the tails.
+This [[Cape]] was introduced in 2025 and was available for {{Cost|14.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Moonlight Garland Cape|iap}} {{!}} {{Icon Name|Moonlight Garland Cape|name}} IAP
+{{Icon Name|Moonlight Garland Cape|icon}} {{!}} {{Icon Name|Moonlight Garland Cape|name}} icon
+{{Icon Name|Moonlight Garland Cape|real}} {{!}} {{Icon Name|Moonlight Garland Cape|name}}
+{{Icon Name|Moonlight Garland Cape|exterior}} {{!}} {{Icon Name|Moonlight Garland Cape|name}}
+{{Icon Name|Moonlight Garland Cape|front}} {{!}} {{Icon Name|Moonlight Garland Cape|name}}
+{{Icon Name|Moonlight Garland Cape|interior}} {{!}} {{Icon Name|Moonlight Garland Cape|name}}
+{{Icon Name|Moonlight Garland Cape|spell}} {{!}} {{Icon Name|Moonlight Garland Cape|name}} Spell icon 
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Moonlight Tufted Tail Accessory====
+The Moonlight Tufted Tail Accessory is a round, fluffy, white bunny tail attached to the player's lower back. This [[Neck Accessory]] was introduced in 2025 and was available for {{Cost|42 T|event=Moonlight}} from the Moonlight Guide at the [[Crescent Oasis#Hidden Glade|Hidden Glade]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Moonlight Tufted Tail Accessory|icon}} {{!}} {{Icon Name|Moonlight Tufted Tail Accessory|name}} icon
+{{Icon Name|Moonlight Tufted Tail Accessory|real}} {{!}} {{Icon Name|Moonlight Tufted Tail Accessory|name}} back
+{{Icon Name|Moonlight Tufted Tail Accessory|side}} {{!}} {{Icon Name|Moonlight Tufted Tail Accessory|name}} side
+{{Icon Name|Moonlight Tufted Tail Accessory|spell}} {{!}} {{Icon Name|Moonlight Tufted Tail Accessory|name}} Spell icon 
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Moonlight Basin====
+The Moonlight Basin is a gray stone bath with circular lotus leaves pads and a floating lotus blossom in the water. A towel is draped over the side of the basin. It is a placeable Prop that can be used to decorate [[Shared Spaces]] and seats a single player. When carried on its owner's back, it appears in its original form.
+This Prop was introduced in 2025 and was available for {{Cost|75 C}} from the Spell Box at the [[Crescent Oasis#Hidden Glade|Hidden Glade]] for the duration of the event. <small>Even though no Spells were available for this item, a copy of it was placed next to the Moonlight Guide for players to try out.</small><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Moonlight Basin|icon}} {{!}} {{Icon Name|Moonlight Basin|name}} icon
+{{Icon Name|Moonlight Basin|real}} {{!}} The {{Icon Name|Moonlight Basin|name}}
+{{Icon Name|Moonlight Basin|back}} {{!}} {{Icon Name|Moonlight Basin|name}} on a player's back
+{{Icon Name|Moonlight Basin|using}} {{!}} Using the {{Icon Name|Moonlight Basin|name}}
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Moonlight Banner====
+The Moonlight Banner is a vertical wall scroll depicting a lunar cycle-decal in yellow on a blue accent rectangle. The scroll itself is white, with pale triangle accents and rollers. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, it appears as a blue bag with a yellow drawstring. This Prop was introduced in 2025 and was available for {{Cost|18 T|event=Moonlight}} from the Moonlight Guide at the [[Crescent Oasis#Hidden Glade|Hidden Glade]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Moonlight Banner|icon}} {{!}} {{Icon Name|Moonlight Banner|name}} icon
+{{Icon Name|Moonlight Banner|real}} {{!}} The {{Icon Name|Moonlight Banner|name}}
+{{Icon Name|Moonlight Banner|back}} {{!}} {{Icon Name|Moonlight Banner|name}} on a player's back
+|widths=125|spacing=small|captionalign=center
+}}
+
+====<span id="Lantern Pack">Moonlight Lantern</span>====
+::'''''"A limited Lantern that lights up dark places. Note: It does not replace your candle or light flames."'''''
+The Moonlight Lantern includes two items: the Moonlight Lantern and {{Cost|35 C}}. The Moonlight Lantern is a gray, hand-held lantern with carved edges, an empty interior, and a golden node at the bottom. It cannot be placed and therefore cannot be used in [[Shared Spaces]]. When equipped, the Lantern emits soft light in darker areas, which has two modes that can be switched by selecting the {{Days Item|Lazy Days Lantern|icon}} Lantern icon at the bottom of the screen. The first lighting mode softly lights a large perimeter around the player, and the second produces a light beam in front of the player, like a flashlight. When carried on its owner's back, it appears in its original form. 
+
+This [[Prop]] was originally introduced in 2020 for {{Cost|19.99 USD|refnote}} from the [[Premium Candle Shop]] during [[Days of Summer Lights]]. It was moved to Days of Moonlight in 2025 and was available from the Moonlight Gift Box at the [[Crescent Oasis#Hidden Glade|Hidden Glade]] for the duration of the event.<small>Please note that the lantern item does not come with additional abilities such as lighting candles.</small><br><br>
+{{#tag:gallery
+|{{Icon Name|Lazy Days Lantern|iap}} {{!}} {{Icon Name|Lazy Days Lantern|name}} IAP
+{{Icon Name|Lazy Days Lantern|icon}} {{!}} {{Icon Name|Lazy Days Lantern|name}} icon
+{{Icon Name|Lazy Days Lantern|real}} {{!}} {{Icon Name|Lazy Days Lantern|name}}
+{{Icon Name|Lazy Days Lantern|held}} {{!}} A player holding the {{Icon Name|Lazy Days Lantern|name}}
+{{Icon Name|Lazy Days Lantern|back}} {{!}} {{Icon Name|Lazy Days Lantern|name}} on a player's back
+{{Icon Name|Lazy Days Lantern|spell}} {{!}} {{Icon Name|Lazy Days Lantern|name}} Spell
+|widths=125|spacing=small|captionalign=center
+}}
+
+====<span id="Bunny Accessory">Moonlight Bunny Accessory</span>====
+::'''''"Celebrate with this bunny shaped accessory!"'''''
+The Moonlight Bunny Accessory is a small, round bunny in white with pink blush, that sits atop the player's head. This [[Hair Accessory]] was originally introduced in 2021 for {{Cost|2.99 USD|refnote}} from the [[Premium Candle Shop]] during [[Days of Summer Lights]]. It was moved to Days of Moonlight in 2025 and was available from the Moonlight Gift Box at the [[Crescent Oasis#Hidden Glade|Hidden Glade]] for the duration of the event.<br><br>
+{{#tag:gallery
+|{{Icon Name|Bunny Accessory|iap}} {{!}} {{Icon Name|Bunny Accessory|name}} IAP
+{{Icon Name|Bunny Accessory|icon}} {{!}} {{Icon Name|Bunny Accessory|name}} icon
+{{Icon Name|Bunny Accessory|real}} {{!}} {{Icon Name|Bunny Accessory|name}}
+{{Icon Name|Bunny Accessory|spell}} {{!}} {{Icon Name|Bunny Accessory|name}} Spell
+|widths=125|spacing=small|captionalign=center
+}}
+
+====<span id="Bunny Slippers">Moonlight Bunny Slippers</span>====
+::'''''"Hop into cozy comfort."''''' 
+The Moonlight Bunny Slippers are a pair of pink slippers with bunny ears and a fuzzy white tail on top. These [[Shoes]] were originally introduced in 2023 for {{Cost|6.99 USD|refnote}} from the [[Premium Candle Shop]] during [[Days of Style]]. They were moved to Days of Moonlight in 2025 and were available from the Moonlight Gift Box at the [[Crescent Oasis#Hidden Glade|Hidden Glade]] for the duration of the event.<br><br>
+{{#tag:gallery
+|{{Icon Name|Style Bunny Slippers|iap}} {{!}} {{Icon Name|Style Bunny Slippers|name}} IAP
+{{Icon Name|Style Bunny Slippers|icon}} {{!}} {{Icon Name|Style Bunny Slippers|name}} icon
+{{Icon Name|Style Bunny Slippers|real}} {{!}} {{Icon Name|Style Bunny Slippers|name}}
+{{Icon Name|Style Bunny Slippers|spell}} {{!}} {{Icon Name|Style Bunny Slippers|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+===2025 New Spell===
+====Moonlight Rabbit Form Spell====
+By {{Icon|Eat-cookie-icon.png}} eating a mooncake from the Tea Table in the Moonlight Pavilion at the [[Crescent Oasis#Hidden Glade|Hidden Glade]], the player is temporarily transformed into a bunny, resembling the [[Days of Moonlight#Moonlight Bunny Accessory|Bunny Accessory]]. In this form, players appear as a round bunny that moves forward by bouncing instead of walking. While the [[Spell]] is active, some actions are limited, such as flying, using [[Expressions]], or carrying [[Props]]. The Spell is mainly used for playful movement during seasonal celebrations. The Spell's duration is '''15 minutes'''.<br><br> 
+{{#tag:gallery
+|Rabbit-Form-Spell.png {{!}} Bunner Spell icon
+Rabbit-Form-player-as-a-bunny.png {{!}} A player transformed into a bunny
+|widths=125|spacing=small|captionalign=center
+}}
+
+==September 2024==
+'''Days of Moonlight''' made its debut, inviting players to revel in the beauty of a full moon and the light of glowing lanterns! The event began on '''Monday, September 16, 2024 at 00:00 PDT (UTC-7)''' and continued until '''Sunday, September 29, 2024 at 23:59 PDT (UTC-7)''', lasting '''14''' days. For the duration of the event, the Moonlight Guide appeared in [[Home]] and [[Aviary Village]], offering to take players directly to the [[Crescent Oasis#Hidden Glade|Hidden Glade]] in the Vault of Knowledge, which was newly decorated for the occasion.
+
+A silvery moon shined above the stately tree that calls the Oasis home, and nearby paper lanterns were ready to create a magical atmosphere. Beneath the starry sky, hanging lanterns invited players to [[Days of Moonlight#Riddle Lanterns|create a riddle]] for fellow Sky Children to solve. Or perhaps they'd rather view what riddles others had written—browsing among the lanterns, then answering riddles, gave Event Currency to purchase [[Days of Moonlight#All Available Collectibles|themed cosmetics]]. It might just have helped the players see the world around them in new and surprising ways, too! And when players needed a break from exploring the breathtaking scenery, they could stop by the nearby table with snacks to enjoy a bit of extra [[Pieces of Light|Light]].
+
+Life can be hectic, and sometimes what's needed is a peaceful evening to take in the beauty of the space around. This was a chance to slow down, reflect, and take in a peaceful evening with friends among the glowing lanterns and glittering stars.
+
+::'''''"Each year, when the moon reaches its fullest phase, an old tradition returns to the Sky Realm. During this time, we gather together to solve riddles, eat snacks, and admire the full moon."'''''
+
+===Ticket Locations===
+[[file:Days-of-Moonlight-Ticket-Moon.png|125px|thumb|A Days of Moonlight crescent moon Ticket]]
+A total of {{Cost|5 T|event=moonlight}} crescent moon-shaped Tickets were available each day:
+
+*{{Cost|2 T|event=moonlight}} hidden throughout the [[Crescent Oasis#Hidden Glade|Hidden Glade]] (see locations below)
+*{{Cost|3 T|event=moonlight}} from answering 3 lantern riddles at the event area
+
+{{Collapse
+|float= left
+|label= All Exact Ticket Locations
+|content=<u>'''Locations:'''</u>
+
+<u>'''Rotation A:'''</u>
+*{{Cost|1 T|event=moonlight}} on the water surrounding the golden tree, behind the player's spawn location
+*{{Cost|1 T|event=moonlight}} near the table that holds [[Pieces of Light|Light]] snacks
+
+<u>'''Rotation B:'''</u>
+*{{Cost|1 T|event=moonlight}} on the water surrounding the golden tree, to the right of the player's spawn location
+*{{Cost|1 T|event=moonlight}} near the table that holds [[Pieces of Light|Light]] snacks }}
+
+Players could also buy additional Tickets (costing {{Cost|2 AC}} or {{Cost|6 C}} each) from the Moonlight Gift Box at [[Home]] or [[Aviary Village#Aviary Event Store|Aviary Village]], and the Mini Spell shop at the [[Crescent Oasis#Hidden Glade|Hidden Glade]].
+
+{| class="article-table mw-collapsible mw-collapsed" style="float:right; text-align:center;"
+! colspan="3" style="text-align:center;" | '''Ticket Rotations'''
+|-
+! '''Date'''
+! '''Rotation'''
+! '''Daily Total'''
+|-
+| September 16, 2024
+| A
+| {{Cost|{{#vardefineecho:D1|5}} T|event=moonlight}}
+|-
+| September 17, 2024
+| B
+| {{Cost|{{#vardefineecho:D2|5}} T|event=moonlight}}
+|-
+| September 18, 2024
+| A
+| {{Cost|{{#vardefineecho:D3|5}} T|event=moonlight}}
+|-
+| September 19, 2024
+| B
+| {{Cost|{{#vardefineecho:D4|5}} T|event=moonlight}}
+|-
+| September 20, 2024
+| A
+| {{Cost|{{#vardefineecho:D5|5}} T|event=moonlight}}
+|-
+| September 21, 2024
+| B
+| {{Cost|{{#vardefineecho:D6|5}} T|event=moonlight}}
+|-
+| September 22, 2024
+| A
+| {{Cost|{{#vardefineecho:D7|5}} T|event=moonlight}}
+|-
+| September 23, 2024
+| B
+| {{Cost|{{#vardefineecho:D8|5}} T|event=moonlight}}
+|-
+| September 24, 2024
+| A
+| {{Cost|{{#vardefineecho:D9|5}} T|event=moonlight}}
+|-
+| September 25, 2024
+| B
+| {{Cost|{{#vardefineecho:D10|5}} T|event=moonlight}}
+|-
+| September 26, 2024
+| A
+| {{Cost|{{#vardefineecho:D11|5}} T|event=moonlight}}
+|-
+| September 27, 2024
+| B
+| {{Cost|{{#vardefineecho:D12|5}} T|event=moonlight}}
+|-
+| September 28, 2024
+| A
+| {{Cost|{{#vardefineecho:D13|5}} T|event=moonlight}}
+|-
+| September 29, 2024
+| B
+| {{Cost|{{#vardefineecho:D14|5}} T|event=moonlight}}
+|-
+! colspan="2" style="text-align:center;" | '''Total so far'''
+! style="text-align:center;" | '''{{Cost|{{#expr: ({{#var:D1}} + {{#var:D2}} + {{#var:D3}} + {{#var:D4}} + {{#var:D5}} + {{#var:D6}} + {{#var:D7}} + {{#var:D8}} + {{#var:D9}} + {{#var:D10}} + {{#var:D11}} + {{#var:D12}} + {{#var:D13}} + {{#var:D14}}) }} T|event=moonlight}}'''
+|}
+{{Friendship Tree
+|label = Moonlight Guide
+|event = Moonlight
+|image = Days-of-Moonlight-Guide-2024.png
+
+|nodeC2 = {{Icon Name|Moonlight Blossom Accessory|icon}} 17 T
+|  labelC2 = {{Icon Name|Moonlight Blossom Accessory|name}}
+|  linkC2  = #{{Icon Name|Moonlight Blossom Accessory|name}}
+
+|nodeL1 = {{Icon Name|Moonlight Lantern Decoration|icon}} 32 T
+|  labelL1 = {{Icon Name|Moonlight Lantern Decoration|name}}
+|  linkL1  = #{{Icon Name|Moonlight Lantern Decoration|name}}
+|nodeC1 = Spellx 5 C
+|  labelC1 = Spell
+|  linkC1  = Spells
+}}
+{{Clear}}
+
+===<big>All Available Collectibles in 2024</big>===
+{| class="article-table"
+|+<big>Days of Moonlight 2024 Collectibles</big>
+!Name!!Icon!!Type !!Cost !!Location!!Spell!!Spell Cost & Locations
+|-
+| rowspan="2" |[[Days of Moonlight#Moonlight Frock and Updo|Moonlight Frock and Updo]]
+| {{Days Item|Moonlight Frock||table}}
+| [[Outfit]]
+| rowspan="2" |{{Cost|14.99 USD|refnote}}
+| rowspan="2" | <small>[[Premium Candle Shop]]</small>
+| {{Days Item|Moonlight Frock|spell|table}}<small>x3</small>
+| rowspan="2" | <small>Moonlight Gift Box at [[Home]], [[Aviary Village#Aviary Event Store|Aviary]], OR the [[Crescent Oasis#Hidden Glade|Hidden Glade]] for free</small>
+|-
+| {{Days Item|Moonlight Updo||table}}
+| [[Hair]]
+| {{Days Item|Moonlight Updo|spell|table}}<small>x3</small>
+|-
+|[[Days of Moonlight#{{Icon Name|Moonlight Earrings|name}}|{{Icon Name|Moonlight Earrings|name}}]]
+|{{Days Item|Moonlight Earrings||table}}
+|[[Head Accessory]]
+|{{Cost|2.99 USD|refnote}}
+|<small>[[Premium Candle Shop]]</small>
+|{{Days Item|Moonlight Earrings|spell|table}}<small>x3</small>
+|<small>Moonlight Gift Box at [[Home]], [[Aviary Village#Aviary Event Store|Aviary]], OR the [[Crescent Oasis#Hidden Glade|Hidden Glade]] for free</small>
+|-
+|[[Days of Moonlight#{{Icon Name|Moonlight Lantern Decoration|name}}|{{Icon Name|Moonlight Lantern Decoration|name}}]]
+|{{Days Item|Moonlight Lantern Decoration||table}}
+|[[Prop]]
+|{{Cost|32 T|event=Moonlight}}
+|<small>Moonlight Guide at [[Home]], [[Aviary Village#Aviary Event Store|Aviary]], and the [[Crescent Oasis#Hidden Glade|Hidden Glade]]</small>
+|{{Days Item|Moonlight Lantern Decoration|spell|table}}<small>x3</small>
+|<small>Moonlight Gift Box at [[Home]], [[Aviary Village#Aviary Event Store|Aviary]], OR the [[Crescent Oasis#Hidden Glade|Hidden Glade]] for free</small>
+|-
+|[[Days of Moonlight#{{Icon Name|Moonlight Blossom Accessory|name}}|{{Icon Name|Moonlight Blossom Accessory|name}}]]
+|{{Days Item|Moonlight Blossom Accessory||table}}
+|[[Hair Accessory]]
+|{{Cost|17 T|event=Moonlight}}
+|<small>Moonlight Guide at [[Home]], [[Aviary Village#Aviary Event Store|Aviary]], and the [[Crescent Oasis#Hidden Glade|Hidden Glade]]</small>
+|{{Days Item|Moonlight Blossom Accessory|spell|table}}<small>x3</small>
+|<small>Moonlight Gift Box at [[Home]], [[Aviary Village#Aviary Event Store|Aviary]], OR the [[Crescent Oasis#Hidden Glade|Hidden Glade]] for free</small
+|-
+|}
+
+===2024 New Cosmetics and Props===
+====Moonlight Frock and Updo====
+::'''''"A delicate garment, bathed in the effulgence of the moon, complemented by an ornate hairstyle."'''''
+The Moonlight Frock and Updo contains two items: the Moonlight Frock and Moonlight Updo. The Moonlight Frock is a long blue [[Outfit|dress]] that features a crescent symbol at the neckline, paired with a pale frock and an elaborate, dark blue waist wrap. The Moonlight Updo is a long and ornate [[Hair]], with the top layer pulled up into a pair of pointed loops and the bottom layer tied loosely partway down the player's back. This pack was introduced in 2024 and was available for {{Cost|14.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>{{Dye_Details
+|area1=the inner dress
+|cost1=2
+|area2=the waist wrap and light blue details on the dress
+|cost2=2
+}}<br><br>
+{{#tag:gallery
+|{{Icon Name|Moonlight Frock|iap}} {{!}} Moonlight Frock and Updo IAP
+{{Icon Name|Moonlight Frock|icon}} {{!}} {{Icon Name|Moonlight Frock|name}} icon
+{{Icon Name|Moonlight Frock|real}} {{!}} {{Icon Name|Moonlight Frock|name}} front
+{{Icon Name|Moonlight Frock|back}} {{!}} {{Icon Name|Moonlight Frock|name}} back
+{{Icon Name|Moonlight Frock|spell}} {{!}} {{Icon Name|Moonlight Frock|name}} Spell icon 
+{{Icon Name|Moonlight Updo|icon}} {{!}} {{Icon Name|Moonlight Updo|name}} icon
+{{Icon Name|Moonlight Updo|real}} {{!}} {{Icon Name|Moonlight Updo|name}} front
+{{Icon Name|Moonlight Updo|side}} {{!}} {{Icon Name|Moonlight Updo|name}} side
+{{Icon Name|Moonlight Updo|back}} {{!}} {{Icon Name|Moonlight Updo|name}} back
+{{Icon Name|Moonlight Updo|spell}} {{!}} {{Icon Name|Moonlight Updo|name}} Spell icon 
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Moonlight Earrings====
+::'''''"Add a twinkle of moonlight to your ears."'''''
+The Moonlight Earrings are a pair of silver and white earrings that resemble stylized crescent moons. This [[Head Accessory]] was introduced in 2024 and was available for {{Cost|2.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Moonlight Earrings|iap}} {{!}} {{Icon Name|Moonlight Earrings|name}} IAP
+{{Icon Name|Moonlight Earrings|icon}} {{!}} {{Icon Name|Moonlight Earrings|name}} icon
+{{Icon Name|Moonlight Earrings|real}} {{!}} {{Icon Name|Moonlight Earrings|name}}
+{{Icon Name|Moonlight Earrings|spell}} {{!}} {{Icon Name|Moonlight Earrings|name}} Spell icon 
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Moonlight Lantern Decoration====
+The Moonlight Lantern Decoration is a yellow lantern with a strip of purple paper decorated by a crescent moon hanging from the bottom. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]] and functions as a light source. Once placed, the player can interact with the item to switch the light off and on. When worn on the player's back, it appears in its original form. This Prop was introduced in 2024 and was available for {{Cost|32 T|event=Moonlight}} from the Moonlight Guide at [[Home]], [[Aviary Village#Aviary Event Store|Aviary]], and the [[Crescent Oasis#Hidden Glade|Hidden Glade]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Moonlight Lantern Decoration|icon}} {{!}} {{Icon Name|Moonlight Lantern Decoration|name}} icon
+{{Icon Name|Moonlight Lantern Decoration|real}} {{!}} {{Icon Name|Moonlight Lantern Decoration|name}}
+{{Icon Name|Moonlight Lantern Decoration|back}} {{!}} {{Icon Name|Moonlight Lantern Decoration|name}} on a player's back
+{{Icon Name|Moonlight Lantern Decoration|spell}} {{!}} {{Icon Name|Moonlight Lantern Decoration|name}} Spell icon 
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Moonlight Blossom Accessory====
+The Moonlight Blossom Accessory is a set of four round, yellow flowers and two green leaves that sits on the side of the player's head. This [[Hair Accessory]] was introduced in 2024 and was available for {{Cost|17 T|event=Moonlight}} from the Moonlight Guide at [[Home]], [[Aviary Village#Aviary Event Store|Aviary]], and the [[Crescent Oasis#Hidden Glade|Hidden Glade]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Moonlight Blossom Accessory|icon}} {{!}} {{Icon Name|Moonlight Blossom Accessory|name}} icon
+{{Icon Name|Moonlight Blossom Accessory|real}} {{!}} {{Icon Name|Moonlight Blossom Accessory|name}}
+{{Icon Name|Moonlight Blossom Accessory|spell}} {{!}} {{Icon Name|Moonlight Blossom Accessory|name}} Spell icon 
+|widths=125|spacing=small|captionalign=center
+}}
+
+===Riddle Lanterns===
+<!-- [[File:File-Name.png|thumb|x150px|The Riddle Lanterns]] // Clean screenshot of the lanterns + desk TBA-->
+For the duration of the event, players could create custom riddles and answer those written by other players through the paper lanterns hanging next to the golden tree in the [[Crescent Oasis#Hidden Glade|Hidden Glade]]. Similar to other [[Player Creations]], messages left using these lanterns could be opened, liked, hidden, and reported.<!-- Once placed, they remain for a total of ? days (?? hours) before disappearing. -->
+
+To create a riddle, interact with the nearby desk and submit both a riddle and its answer into the prompt menu. Once done, the created riddle will appear as a hanging paper lantern that other players can find and view. Each player can only place one riddle lantern at a time.
+
+When interacting with a hanging riddle lantern, players will be unable to view any answers submitted by other players until they submit their own answer to the riddle. Entering an answer will also light a flame inside the lantern. Each day, players could earn up to 3 [[#Ticket Locations|Tickets]] to exchange for themed IGC (in-game currency) items by submitting answers to other players' riddles.
+
+Note: Riddle lanterns, unlike other meditation [[Daily Quests]] or Seasonal Quests, will not appear if "Disable Chat Online" is turned on in your device's settings.
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Days-of-Moonlight-2025-Moonlight-Void.jpg|The Moonlight Void
+Days-of-Moonlight-2025-Promo-Image-4.jpeg|2025 Promo Image
+Days-of-Moonlight-2025-Promo-Image-3.jpeg|2025 Promo Image
+Days-of-Moonlight-2025-Promo-Image-2.jpeg|2025 Promo Image
+Days_of_Moonlight_2025_aviary_board.JPG|2025 Aviary Village Event Board
+File:DoMoonlight-2024-Tree-promo-image.png|2024 Promo image
+File:DoMoonlight-2024-Ticket-promo-image.png|2024 Promo image
+File:DoMoonlight-2024-Riddles-promo-image.png|2024 Promo image
+File:DoMoonlight-2024-Teaser-promo-image.png|2024 Teaser image
+</gallery>
+
+==References==
+'''More information about Days of Moonlight 2025 can be found on [https://www.thatskygame.com/news/days-of-moonlight-2025-riddles-under-the-stars ThatSkyGame's Website].''' [https://thatgamecompany.helpshift.com/hc/faq/1410-patch-notes---august-28-2025---0-30-5-342290-android-huawei-ios-341589-playstation-steam-341718-switch/#days-of-moonlight Read the TGC patch notes to know more.]'''
+<br>'''More information about Days of Moonlight 2024 can be found on [https://www.thatskygame.com/news/days-of-moonlight-2024-riddles-reflections-and-more/ ThatSkyGame's Website].'''
+<references />
+
+[[fr:Jours du Clair de Lune]]
+[[de:Tage des Mondlichts]]
+[[pt-br:Dias de Luar]]
+[[ja:月灯りの日々]]
+[[zh:月華節]]
+
+[[Category:Events]]
+{{DEFAULTSORT:Moonlight, Days of}}
+[[Category:Voids]]

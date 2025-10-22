@@ -1,0 +1,154 @@
+{{Help|beta}}
+<section begin="spiritbox" />{{TravelingSpirit<!---->
+|title = Nightbird Whisperer
+|format =
+|image = Current-Traveling-Spirit.png
+|video = https://www.facebook.com/thatskygame/videos/838413935250477/
+|season = [[Season of Moments]]<!---->
+|date = October 23 to October 26, 2025
+}}<section end="spiritbox" />
+<!--
+ 1. TBA "?" state: 
+     a. Delete ">" on Line 1.
+     b. Update the date parameter for upcoming TS.
+ 2. Announced TS state: 
+     a. Add ">" to complete the HTML comment tag "<!-- --" on Line 1.
+     b. Replace the image in https://sky-children-of-the-light.fandom.com/wiki/File:Current-Traveling-Spirit.png. Do *not* upload a separate image!
+     c. Be sure to remove the video option if the announcement was an image only:
+          |video = https://www.facebook.com/thatskygame/videos/____________/
+     d. Update the title, date, and season parameters.
+-->
+
+A '''Traveling Spirit''' is a [[Seasonal Spirit]] from a past [[Season]] who temporarily returns to offer their collectibles, appearing in [[Home]] and in [[Aviary Village]] for a few days. These visits are the only way for players to purchase [[Expression]] upgrades, [[cosmetics]], and a [[Wing Buff]] from past-Season Spirits, alongside [[Returning Spirits]]. One [[#Visit Randomness|randomly-selected]] Traveling Spirit returns [[#Schedule|every two weeks]], arriving on Thursday and departing 96 hours later on Sunday.
+<br>
+<!----
+{| class="mw-collapsible article-table"
+! colspan="3" style="text-align:center" |TS Teaser
+|-
+! colspan="3" style="text-align:center" |[[File:Traveling-Spirit-Location-Teaser.png|300px|thumb|center|Upcoming TS Teaser]]
+|-
+!Date of Appearance
+|October 23 to October 26, 2025
+|-
+!Location Depicted
+|[[Prairie Peaks|Prairie Peaks (Bird Cave)]]
+|-
+!Possible Spirit(s)
+|{{Spirit|Nightbird Whisperer|inline_text}}
+|-
+!Season
+|{{Season Icon|Moments|inline text}}
+|}
+<br>
+{{Clear}}<!----->
+{{#if:{{Game Stat|ts}}|
+==Current Traveling Spirit==
+The current Traveling Spirit is the '''[[{{Game Stat|ts}}]]'''.
+{{#lst:{{Game Stat|ts}}|TS Friendship Tree}}
+
+}}
+==Overview==
+Traveling Spirits were introduced to provide players with an opportunity to trade with [[Seasonal Spirits]] from past Seasons and acquire any [[Expression]] upgrades and [[cosmetics]] they may have previously missed.<ref name="tgc_ts_faq">[https://thatgamecompany.helpshift.com/a/sky-children-of-the-light/?l=en&p=all&s=gameplay-features&f=what-is-a-traveling-spirit thatgamecompany official Support website: “What is a Traveling Spirit?”]</ref> Even players who completed the Spirit's Season can benefit from Traveling Spirits, because one [[Wing Buff]] is available from each new Traveling Spirit. New items are also occasionally added to a Spirit's offerings; in particular, several new [[Props]] for [[Shared Spaces]] have been introduced through visiting Spirits.<ref name="tgc_props">[https://www.thatskygame.com/news/system-update-traveling-spirits Sky News - System Update: Traveling Spirits] (July 9 2021)</ref>
+
+Traveling Spirits provide an opportunity for new players to (eventually) acquire all of the [[collectibles]] offered by Seasonal Spirits. This does not include Seasonal Pendants or Ultimate Gifts from past Seasons (all of which were offered by the [[Ancestors#Guides|Season Guides]], not the Seasonal Spirits).<ref name="ultimates">thatgamecompany has mentioned [https://thatgamecompany.helpshift.com/hc/en/17-sky-mobile-switch/faq/609-what-are-traveling-spirits/ future plans to bring back Ultimate Gifts using some other mechanism], but details have not been announced.</ref><br>
+<br>
+[[File:Traveling Spirit at Home.png|thumb|Traveling Spirit at Home]]
+Only players who have completed [[Valley of Triumph]] can see the Traveling Spirit at [[Home]]. This means you must have been to the [[Valley Temple]] and meditated at its altar; you do '''not''' have to find any Spirits, unlock any Expressions, or buy any cosmetics. Players will see the Traveling Spirit even if they have never relived the Spirit's memory, however if they try to interact with the Spirit, new players are told "This Traveling Spirit is passing through the Realms of Sky. Find their lost memories and become their friend before they leave!" Meaning that in order to access their Friendship Tree, the player must find and relive the [[Seasonal_Spirits#Spirit_Memories|Spirit's memory]] and collect their [[Expression]].<br>
+<br>
+[[File:Aviary-Traveling-Spirit.JPG|thumb|Traveling Spirit at Aviary Village]]
+Similarly, players must have at least started the [[Season of Revival#Quest #3|third Seasonal Quest]] from [[Season of Revival]] in order to see the Traveling Spirit at [[Aviary Village]]. This means the player must have unlocked the [[Map Shrines#Aviary|Map Shrine]] found there before they are able to interact with a Traveling Spirit in Aviary Village.
+
+Players who have previously purchased items from a Traveling Spirit (either during their Season or a previous visit) will see those as unlocked items in the Spirit's [[Friendship Tree]]. This includes cosmetics, higher Level [[Expressions]], [[Currency#Hearts|Hearts]], [[Wing Buffs]], and some [[Blessings]]. 
+
+Only [[Seasonal Spirits]] return as Traveling Spirits, but TGC has mentioned that [[Ancestors#Guides|Season Guides]]<ref name="ultimates" /> and the [[Season of Revival#All Revival Friendship Trees|Revival Mannequins]] will return in some form, bringing their cosmetics.<br>
+The [[Season of Shattering#Spirits_and_Cosmetics|Shattering Light and Darkness]]<ref>[https://www.thatskygame.com/news/shards-of-the-past-arrive-in-season-of-shattering Sky News - Shards of the Past Arrive in Season of Shattering] (July 5, 2022)</ref> were available as part of [[Returning_Spirits#September_16,_2024|a Returning Spirits event in September 2024]].<br>
+<br>
+<gallery widths="250" spacing="small" columns="2" bordersize="none" hideaddbutton="true">
+Spirits past how to.png
+Spirits past how to 2.png
+</gallery>
+
+==Schedule==
+One Traveling Spirit appears every two weeks (even when there is an ongoing [[Returning Spirits|Special Visit]] or no active [[Seasonal Events|Seasonal Event]]). The Traveling Spirit appears in [[Home]], standing on the small island in the middle of the koi pond (near the [[Cosmetics#Outfit Shrines|closets]]) and in [[Aviary Village]], standing behind the [[Aviary Village#Friendship Constellation Statue|Friendship Constellation Statue]] in the village plaza area. They appear at server reset Thursday morning, stay for 96 hours, and leave at Sunday night's reset. More specifically: 
+*The Spirit appears '''Thursday at 00:00 PST/UTC-8''' (during Standard Time) or at '''00:00 PDT/UTC-7''' (during Daylight Saving Time).
+*The Spirit leaves '''Sunday at 23:59 PST/UTC-8''' (during Standard Time) or at '''23:59 PDT/UTC-7''' (during Daylight Saving Time).
+*The next Traveling Spirit will arrive two weeks later at the same times above. Using a time zone converter is advised to determine the local time when the Spirit appears/leaves based on your local time zone.
+
+During their visit, clicking on the Spirit in Home or Aviary Village will always show a countdown with the remaining time before their departure on the left side of the screen.
+
+The order used for arriving Traveling Spirits is randomized. There is no way to know which Spirit will appear next, nor to know when a specific Spirit will appear. The guidelines provided by thatgamecompany are:  
+*The same Traveling Spirits can, and will, appear more than once.
+*Spirits from the current Season and previous Season are not eligible to be Traveling Spirits: "Spirits are tired after a particular Season has passed, and will not return as Travelers until another Season is over." '''Therefore, [[Season of Nesting]]''' '''cosmetics won't be available as Traveling Spirits until [[Season of Duets]]''' '''concludes.'''
+*Traveling Spirits that appear in the Mainland China server ([[NetEase]]) differ from those in the global release.<!--Thus, do not add information sourced from the Chinese server (be it prices or names) to this page. -->
+Inferences based on past visit patterns are [[#Visit Randomness|detailed below]].
+
+==Hints==
+TGC starts to release information on their various Social Media platforms about the identity of the next Traveling Spirit shortly before the Spirit arrives. As of February 1, 2024, the following format is used for hints:
+<!--{{MessageBox
+|header     = No pixelated location hint for September 2024! 
+|text       = As of September 4, TGC has not posted a pixelated location image for upcoming Traveling Spirits for the month of September.
+|image      = LookoutScout-1.png
+|imagelink  = 
+|imagewidth = 50px
+|collapsed=true
+}}-->
+*Near the start of the month, a pixelated location image for upcoming Traveling Spirits is released in the #news channel of the [https://discord.gg/thatskygame official Discord server], [https://www.facebook.com/thatskygame Facebook page], [https://twitter.com/thatskygame Twitter page], and [https://www.instagram.com/thatskygame/ Instagram profile].
+*Roughly 36 hours before the Spirit arrives (i.e., midday Tuesday server time), a reveal image or video is released on the same platforms listed above.
+
+This format has replaced the previous system that involved text hints. Due to the change in the way Traveling Spirits are revealed, Spirits are no longer expected to receive text hints for the foreseeable future.<ref name="End of text hints">TGC Concept Artist Ash announced on the official Discord server that they have [https://discord.com/channels/575762611111592007/575827782144098304/1228033339911569428 retired from providing text hints] with the introduction of the [https://discord.com/channels/575762611111592007/575827782144098304/1228034005329383477 new photo hints].</ref><br>
+<br>
+{{Collapse
+|float= left
+|label= Previous Hint System
+|content=<div>
+*Text hints were released in the #general-sky-discussion channel of the [https://discord.gg/thatskygame official Discord server] by Ash (skyfaring), a TGC Concept Artist. Typically, one hint was released on Monday (three days before the arrival), with several more arriving early on Tuesday.
+**A complied list of all the Traveling Spirit hints can be found on the [[Traveling Spirits/Hints]] subpage.
+**[https://sites.google.com/view/skyhints/home All of the hints] provided to date, categorized by Season, have been complied by Koame. (Note: This site can occasionally be out-of-date.)
+*Roughly 36 hours before the Spirit arrived (i.e., midday Tuesday server time), a teaser image (silhouette only) was released in the #news channel of the [https://discord.gg/thatskygame official Discord server], [https://www.facebook.com/thatskygame Facebook page], [https://twitter.com/thatskygame Twitter page], and [https://www.instagram.com/thatskygame/ Instagram profile].</div>}}
+
+==Friendship Tree Information==
+{{#lst:Seasonal Spirits|TS Tree Info}}
+
+To read more about the Friendship Tree, visit the [[Seasonal Spirits]] page.
+
+==Historical Appearances==
+See [[Spirit Visits]] for all Spirit appearances and statistics based on them.
+
+==Visit Randomness==
+Although the "order Traveling Spirits appear in is random," older Spirits tend to visit before newer Spirits, and Spirits that have just visited wait a while before they visit again.
+
+Never in the history of Traveling Spirits has a Spirit from a newer Season visited before at least one Spirit from each of the past Seasons has visited, even with the growing number of new Seasons with Spirits that 'could visit' because "another Season is over," and usually more than one. This means that as Spirits that haven't visited before a certain Season decrease, it becomes more likely for a Spirit from that Season to visit because a Spirit from after it won't until one from that previous Season has. I.E. a Spirit from [[Season of Remembrance|Remembrance]] won't visit until one from [[Season of AURORA|AURORA]] has, so as Spirits that haven't visited from before AURORA approach 0 it will become much more likely for one from it to visit, since one from Remembrance won't before then, but a Spirit from AURORA could still visit any time.
+
+Never in the history of Traveling Spirits has a Spirit visited twice in the same Season, and usually not without a whole individual Season between. Also, even though Spirits that have already visited make up a large portion of the total Spirits, a disproportionate number of new Spirits appear. This is seemingly a necessary deviation from randomness to slow the increase in the growing number of new Spirits that haven’t visited in coordination with the addition of Seasons with only 4 Spirits.
+
+Traveling Spirits do appear randomly, but there are limitations and precedents that inform this randomness. It is not 100% random. There are patterns that haven’t been broken for a long time.
+
+==Trivia== 
+*Traveling Spirits were first introduced with the [[Season of Rhythm]] update (Patch {{v|0.8.0}}) in January 2020.
+*Traveling Spirits were introduced for the purpose of inclusivity by giving all players the opportunity to access seasonal emotes and items<ref name=":0">https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/faq/689-update-clarity-on-the-adventure-pass-and-traveling-spirits/</ref>.
+*The introduction of Traveling Spirits was not without controversy. Due to in-game wording about Seasonal Events not repeating, many players who participated in the first three seasons were under the impression that all seasonal rewards would never return after a season ended. TGC acknowledged player frustrations and apologised for the lack of clarity<ref name=":0" />. In addition, pass holders of the early seasons were offered the option to return their paid seasonal cosmetics (including Pendants and Ultimate Gifts) in exchange for Seasonal Candles<ref>https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/faq/707-update-on-early-adventure-pass-program/</ref>.
+*The first two Traveling Spirits were from noon on Friday to the end of Sunday and visited for 60 hours. The duration was extended to 96 hours in Patch {{v|0.8.4}}, starting with the third Traveling Spirit, they visited from Thursday through Sunday. 
+*Before [[Season of Sanctuary]], Traveling Spirits visit every week when a [[Seasonal Events|Seasonal Event]] is inactive. After the delay of the inter-season weekly Traveling Spirit scheduled on July 9, 2020, in Patch [[Update:Live 0.10.3 (152748)|0.10.3]] thatgamecompany announced that at Traveling Spirits will appear every fortnight regardless if a Season is active or not. 
+*On May 27, 2020, thatgamecompany [https://twitter.com/thatskygame/status/1265855163408855040?s=21 announced] a change in future pricing for Traveling Spirits' Friendship Trees to balance the pricing of items. All Traveling Spirits affected by this change have since returned at least once.
+*The very first Traveling Spirit to receive a [[Traveling_Spirits/Hints|hint]] was [[Provoking Performer]] for their second appearance on October 1, 2020.
+*Traveling Spirits were removed from [[Home]] after Patch {{v|0.24.5}} and exclusively appeared at [[Aviary Village]], before being reverted with {{v|0.25.0}} so that they once again appear at both [[Home]] and [[Aviary Village]].    
+*Before the switch, some players were able to see Traveling Spirits in both Home & Aviary Village due to special A/B group testing.<ref name="A/B Traveling Spirits">In-game Announcement: [[Inbox:12-21-2023]]</ref>
+{{Clear}}
+
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center" >
+File:Traveling Spirits First Promotion Image.png
+</gallery>
+
+==References==
+<references />
+[[de:Reisende Geister]]
+[[fr:Esprits Voyageurs]]
+[[ko:유랑 영혼]]
+[[ru:Странствующие духи]]
+[[zh-hant:回歸先祖]]
+[[pt-br:Espíritos Viajantes]]
+[[ja:再訪する精霊]]
+
+[[Category:Weekly Content]]

@@ -1,0 +1,251 @@
+[[File:Sky-Closet-Masks-Morybel-0146.png|thumb|left|x200px|Icon used for the Mask Outfit Shrine]]
+'''Face Accessory''' is a general term in Sky for any [[Cosmetics]] added to the player's face. This includes half-masks, glasses, and jaw accessories. Face Accessories share the second [[Outfit Shrine]] from the left with [[Masks]], where they are listed in the second tab (the sunglasses {{Spirit Item|Chill Sunbather|facepiece}} icon). One [[Mask]] and one Face Accessory can be worn simultaneously but both can be worn individually as well.  
+{{clear|left}}
+
+==Special Face Accessories==
+In general, the only effect of changing your Face Accessory is the the appearance of your face. However, there are some Face Accessories with special functions.
+
+* The [[Elder of the Isle#Ultimate Shield Mask|Isle]], [[Elder of the Prairie#Ultimate Shield Mask|Prairie]], and [[Elder of the Forest#Ultimate Shield Mask|Forest]] Elder Face Accessories obtained after completing the respective Elder's Constellation can grant the player protection from hazards such as Dark Dragons and Crabs. More details are listed on the Elders' pages.
+* The [[Chill Sunbather#Mask|Chill Sunbather's Face Accessory]], [[Days of Feast#Feast Goggles|Feast Goggles]], [[Days of Nature#Nature Glasses Pack|Nature Glasses]], [[Days of Style#Style Heart Sunglasses|Style Heart Sunglasses]], [[Days of Style#Style Flame Sunglasses|Style Flame Sunglasses]] and [[Days of Style#Style Star Sunglasses|Style Star Sunglasses]] apply different tints to the game when activated.
+
+==Display==
+<section begin="Display" />
+{{Cosmetics Tabber
+| {{Spirit Item| Rejecting Voyager | facepiece | tab | link= }}
+| {{Spirit Item| Rejecting Voyager | facepiece_real | closet_display }}
+| {{Spirit Item| Exhausted Dock Worker | facepiece | tab | link= }}
+| {{Spirit Item| Exhausted Dock Worker | facepiece_real | closet_display }}
+| {{Spirit Item| Apologetic Lumberjack | facepiece | tab | link= }}
+| {{Spirit Item| Apologetic Lumberjack | facepiece_real | closet_display }}
+| {{Spirit Item| Bowing Medalist | facepiece | tab | link= }}
+| {{Spirit Item| Bowing Medalist | facepiece_real | closet_display }}
+| {{Spirit Item| Backflipping Champion | facepiece | tab | link= }}
+| {{Spirit Item| Backflipping Champion | facepiece_real | closet_display }}
+| {{Spirit Item| Lookout Scout | facepiece | tab | link= }}
+| {{Spirit Item| Lookout Scout | facepiece_real | closet_display }}
+| {{Spirit Item| Levitating Adept | facepiece | tab | link= }}
+| {{Spirit Item| Levitating Adept | facepiece_real | closet_display }}
+| {{Spirit Item| Isle Elder | facepiece | tab | link= }}
+| {{Spirit Item| Isle Elder | facepiece_real | closet_display }}
+| {{Spirit Item| Prairie Elder | facepiece | tab | link= }}
+| {{Spirit Item| Prairie Elder | facepiece_real | closet_display }}
+| {{Spirit Item| Forest Elder | facepiece | tab | link= }}
+| {{Spirit Item| Forest Elder | facepiece_real | closet_display }}
+| {{Spirit Item| Chill Sunbather | facepiece | tab | link= }}
+| {{Spirit Item| Chill Sunbather | facepiece_real | closet_display }}
+| {{Spirit Item| Moments Guide| facepiece_u | tab | label=Moments Ultimate Glasses | link= }}
+| {{Spirit Item| Moments Guide| facepiece_u_real | closet_display | label=Moments Ultimate Glasses | link=Moments_Guide#Moments_Ultimate_Face_Accessory }}
+| {{Spirit Item| Reassuring Ranger | facepiece | tab | link= }}
+| {{Spirit Item| Reassuring Ranger | facepiece_real | closet_display }}
+| {{Spirit Item| Jolly Geologist | facepiece | tab | link= }}
+| {{Spirit Item| Jolly Geologist | facepiece_real | closet_display }}
+| {{Spirit Item| Compassionate Cellist | facepiece | tab | link= }}
+| {{Spirit Item| Compassionate Cellist | facepiece_real | closet_display }}
+| {{Spirit Item| Blue Bird Guide| facepiece_u | tab | link= }}
+| {{Spirit Item| Blue Bird Guide| facepiece_u_real | closet_display | link=Blue_Bird_Guide#Blue_Bird_Ultimate_Face_Accessory }}
+| {{Spirit Item| Divining Wise Grandparent | facepiece | tab | link= }}
+| {{Spirit Item| Divining Wise Grandparent | facepiece_real | closet_display }}
+| {{Days Item| Nature Glasses | icon | tab | link= }}
+| {{Days Item| Nature Glasses | real | closet_display }}
+| {{Days Item| Style Star Sunglasses | icon | tab | link= }}
+| {{Days Item| Style Star Sunglasses | real | closet_display }}
+| {{Days Item| Style Flame Sunglasses | icon | tab | link= }}
+| {{Days Item| Style Flame Sunglasses | real | closet_display }}
+| {{Days Item| Style Heart Sunglasses | icon | tab | link= }}
+| {{Days Item| Style Heart Sunglasses | real | closet_display }}
+| {{Days Item| Style Dapper Monocle | icon | tab | link= }}
+| {{Days Item| Style Dapper Monocle | real | closet_display }}
+| {{Days Item| Mischief Star Sticker | icon | tab | link= }}
+| {{Days Item| Mischief Star Sticker | real | closet_display }}
+| {{Days Item| Feast Goggles | icon | tab | link= }}
+| {{Days Item| Feast Goggles | real | closet_display }}
+| {{Days Item| Cinema 3D Glasses | icon | tab | link= }}
+| {{Days Item| Cinema 3D Glasses | real | closet_display | link=Sky_Anniversary#Anniversary_Cinema_Set }}
+}}
+<section end="Display" />
+
+==Available Face Accessories==
+This table lists all the Face Accessories that have ever been available in Sky; only a small subset of them are [[#Availability Legend|available]] for purchase at any given time. The default order is icon order, as used in the in-game [[Outfit Shrine]]. The table sort order can be changed by clicking on the header of any column. The Dye column lists whether the Face Accessory can be dyed or not.
+
+{| class="article-table sortable"
+! class="unsortable" | Image
+! Icon
+! [[#Availability Legend|Avail.]]
+! Source
+! Cost
+! [[Dyes|Dye]]
+|- id="Rejecting Voyager"
+| style="text-align: center;"| {{Spirit Item| Rejecting Voyager | facepiece_real | table }}
+| {{Spirit Item| Rejecting Voyager | facepiece | table | sort=2 }}
+| {{Avail Summary | regular | spirit=Rejecting Voyager | realm=Isle of Dawn }}
+| {{Cost | 3 H }}
+| No
+|- id="Exhausted Dock Worker"
+| style="text-align: center;"| {{Spirit Item| Exhausted Dock Worker | facepiece_real | table }}
+| {{Spirit Item| Exhausted Dock Worker | facepiece | table | sort=3 }}
+| {{Avail Summary | regular | spirit=Exhausted Dock Worker | realm=Daylight Prairie }}
+| {{Cost | 3 H }}
+| No
+|- id="Apologetic Lumberjack"
+| style="text-align: center;"| {{Spirit Item| Apologetic Lumberjack | facepiece_real | table }}
+| {{Spirit Item| Apologetic Lumberjack | facepiece | table | sort=4 }}
+| {{Avail Summary | regular | spirit=Apologetic Lumberjack | realm=Hidden Forest }}
+| {{Cost | 5 H }}
+| No
+|- id="Backflipping Champion"
+| style="text-align: center;"| {{Spirit Item| Backflipping Champion | facepiece_real | table }}
+| {{Spirit Item| Backflipping Champion | facepiece | table | sort=5 }}
+| {{Avail Summary | regular | spirit=Backflipping Champion | realm=Valley of Triumph }}
+| {{Cost | 5 H }}
+| No
+|- id="Bowing Medalist"
+| style="text-align: center;"| {{Spirit Item| Bowing Medalist | facepiece_real | table }}
+| {{Spirit Item| Bowing Medalist | facepiece | table | sort=6 }}
+| {{Avail Summary | regular | spirit=Bowing Medalist | realm=Valley of Triumph }}
+| {{Cost | 5 H }}
+| No
+|- id="Lookout Scout"
+| style="text-align: center;"| {{Spirit Item| Lookout Scout | facepiece_real | table }}
+| {{Spirit Item| Lookout Scout | facepiece | table | sort=7 }}
+| {{Avail Summary | regular | spirit=Lookout Scout | realm=Golden Wasteland }}
+| {{Cost | 10 H }}
+| No
+|- id="Levitating Adept"
+| style="text-align: center;"| {{Spirit Item| Levitating Adept | facepiece_real | table }}
+| {{Spirit Item| Levitating Adept | facepiece | table | sort=8 }}
+| {{Avail Summary | regular | spirit=Levitating Adept | realm=Vault of Knowledge }}
+| {{Cost | 10 H }}
+| No
+|- id="Isle Elder Mask"
+| style="text-align: center;"| {{Spirit Item| Isle Elder | facepiece_real | table | link=Isle_Elder#Ultimate_Shield_Face_Accessory }}
+| {{Spirit Item| Isle Elder | facepiece | table | sort=9 | link=Isle_Elder#Ultimate_Shield_Face_Accessory }}
+| {{Avail Summary | elder | elder=Isle Elder }}
+| {{Cost| 125 AC }}
+| No
+|- id="Prairie Elder Mask"
+| style="text-align: center;"| {{Spirit Item| Prairie Elder | facepiece_real | table |link=Prairie_Elder#Ultimate_Shield_Face_Accessory }}
+| {{Spirit Item| Prairie Elder | facepiece | table | sort=10 | link=Prairie_Elder#Ultimate_Shield_Face_Accessory }}
+| {{Avail Summary | elder | elder=Prairie Elder }}
+| {{Cost| 75 AC }}
+| No
+|- id="Forest Elder Mask"
+| style="text-align: center;"| {{Spirit Item| Forest Elder | facepiece_real | table | link=Forest_Elder#Ultimate_Shield_Face_Accessory }}
+| {{Spirit Item| Forest Elder | facepiece | table | sort=11 | link=Forest_Elder#Ultimate_Shield_Face_Accessory }}
+| {{Avail Summary | elder | elder=Forest Elder }}
+| {{Cost| 250 AC }}
+| No
+|- id="Chill Sunbather"
+| style="text-align: center;"| {{Spirit Item| Chill Sunbather | facepiece_real | table }}
+| {{Spirit Item| Chill Sunbather | facepiece | table | sort=16 }}
+| {{Avail Summary | season | spirit=Chill Sunbather | season=Sanctuary }}
+| {{Cost | 66 C }}
+| No
+|- id="Moments Ultimate Face Accessory"
+| style="text-align: center;"| {{Spirit Item| Moments Guide | facepiece_u_real | table | label=Moments Ultimate Face Accessory | link=Moments_Guide#Moments_Ultimate_Face_Accessory }}
+| {{Spirit Item| Moments Guide | facepiece_u | table | sort=23 | label=Moments Ultimate Mask | link=Moments_Guide#Moments_Ultimate_Face_Accessory }}
+| {{Avail Summary | ultimate | season=Moments }}
+| {{Cost | N/A }}
+| Yes
+|- id="Reassuring Ranger"
+| style="text-align; center;"| {{Spirit Item| Reassuring Ranger | facepiece_real | table }}
+| {{Spirit Item| Reassuring Ranger | facepiece | table | sort=22 }}
+| {{Avail Summary | season | spirit=Reassuring Ranger | season=Moments }}
+| {{Cost | ? }}
+| No
+|- id="Jolly Geologist"
+| style="text-align; center;"| {{Spirit Item| Jolly Geologist | facepiece_real | table }}
+| {{Spirit Item| Jolly Geologist | facepiece | table | sort=24 }}
+| {{Avail Summary | season | spirit=Jolly Geologist | season=Moments }}
+| {{Cost | 42 C }}
+| No
+|- id="Compassionate Cellist"
+| style="text-align: center;"| {{Spirit Item| Compassionate Cellist | facepiece_real | table }}
+| {{Spirit Item| Compassionate Cellist | facepiece | table | sort=12 }}
+| {{Avail Summary | guide | spirit=Compassionate Cellist | season=duets }}
+| {{Cost | 85 C }}
+| No
+|- id="Blue Bird Ultimate Facepiece"
+| style="text-align; center;"| {{Spirit Item| Blue Bird Guide | facepiece_u_real | table | link=Blue_Bird_Guide#Blue_Bird_Ultimate_Face_Accessory }}
+| {{Spirit Item| Blue Bird Guide | facepiece_u | table | sort=26 | link=Blue_Bird_Guide#Blue_Bird_Ultimate_Face_Accessory }}
+| {{Avail Summary | ultimate | season=Blue Bird }}
+| {{Cost | N/A }}
+| No
+|- id="Divining Wise grandparent"
+| style="text-align; center;"| {{Spirit Item| Divining Wise grandparent | facepiece_real | table }}
+| {{Spirit Item| Divining Wise grandparent | facepiece | table | sort=27 }}
+| {{Avail Summary | season | spirit=Divining Wise grandparent | season=blue bird }}
+| {{Cost | ? }}
+| No
+|- id="Nature Glasses"
+| style="text-align: center;"| {{Days Item| Nature Glasses | real | table }}
+| {{Days Item| Nature Glasses | icon | table | sort=27 }}
+| {{Avail Summary | days | days=Nature }}
+| {{Cost | 19.99 USD }}<ref name="Nature Glasses Pack">The Nature Glasses Pack includes the Nature Glasses and 75 regular Candles.</ref>
+| No
+|- id="Style Star Sunglasses"
+| style="text-align: center;"| {{Days Item| Style Star Sunglasses | real | table }}
+| {{Days Item| Style Star Sunglasses | icon | table }}
+| {{Avail Summary | days | days=Style }}
+| {{Cost| 72 C}}
+| Yes
+|- id="Style Flame Sunglasses"
+| style="text-align: center;"| {{Days Item| Style Flame Sunglasses | real | table }}
+| {{Days Item| Style Flame Sunglasses | icon | table }}
+| {{Avail Summary | days | days=Style }}
+| {{Cost| $2.99 }}
+| Yes
+|- id="Style Heart Sunglasses"
+| style="text-align: center;"| {{Days Item| Style Heart Sunglasses | real | table }}
+| {{Days Item| Style Heart Sunglasses | icon | table }}
+| {{Avail Summary | days | days=Style }}
+| {{Cost| $4.99 }}
+| No
+|- id="Style Dapper Monocle"
+| style="text-align: center;"| {{Days Item| Style Dapper Monocle | real | table }}
+| {{Days Item| Style Dapper Monocle | icon | table }}
+| {{Avail Summary | days | days=Style }}
+| {{Cost| 14.99 USD }}<ref name="Style Dapper Monocle">The $14.99 cost of the Style Dapper Trio includes 3 cosmetics (an Outfit, a Face Accessory, and a Neck Accessory).</ref>
+| No
+|- id="Mischief Star Sticker"
+| style="text-align: center;"| {{Days Item| Mischief Star Sticker | real | table }}
+| {{Days Item| Mischief Star Sticker | icon | table }}
+| {{Avail Summary | days | days=Mischief }}
+| {{Cost| ? }}
+| Yes
+|- id="Feast Goggles"
+| style="text-align: center;"| {{Days Item| Feast Goggles | real | table | sort=13 }}
+| {{Days Item| Feast Goggles | icon | table | sort=707 }}
+| {{Avail Summary | days | days=Feast }}
+| {{Cost| 60 C }}
+| Yes
+|- id="Cinema 3D Glasses"
+| style="text-align: center;"| {{Days Item| Cinema 3D Glasses | real | table | sort=13 | link=Sky_Anniversary#Anniversary_Cinema_Set }}
+| {{Days Item| Cinema 3D Glasses | icon | table | sort=707 | link=Sky_Anniversary#Anniversary_Cinema_Set }}
+| {{Avail Summary | days | days=Sky }}
+| {{Cost| 4.99 USD }}<ref name="Cinema 3D Glasses">The $4.99 cost of the Anniversary Cinema Set includes the Cinema 3D Glasses and Cinema Popcorn Bucket.</ref>
+| No
+|}
+{{Avail Legend
+| regular
+| permanent
+| guide
+| s+
+| u+
+| t*
+| r*
+| d*
+| l*
+| days
+| season
+| ultimate
+| limited
+}}
+==References==
+<references />
+
+[[pt-br:Acessórios Faciais]]
+[[ja:フェイスアクセサリー]]
+[[de:Gesichtsschmuck]]
+[[fr:Accessoires Faciaux]]
+
+[[Category:Cosmetics]]

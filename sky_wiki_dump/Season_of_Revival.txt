@@ -1,0 +1,300 @@
+{{Season
+| title = Season of Revival
+| image = SoRevival-Promo-image-wide.jpg
+| start = October 16, 2023
+| end = December 31, 2023
+| spirits = 4
+| previousSeason = [[Season of Moments]]
+| nextSeason = [[Season of the Nine-Colored Deer]]
+| constellation =
+| symbol = Season-of-Revival-icon.png
+}}
+
+The '''Season of Revival''' is the nineteenth Seasonal Event in the Live version of Sky since the global release, following '''[[Season of Moments]]'''. It began '''Monday, October 16, 2023 at 00:00 PDT (UTC -7)''' and ended '''Sunday, December 31, 2023 at 23:59 PST (UTC -8)''', lasting '''77''' days.
+
+Join to rebuild a new area steeped in Sky’s history, and transform it into a thriving town center once again for Spirits and Sky children alike.<br>
+<br>
+{{#ev:youtube|yaa0WK7XI64||inline|Season of Revival Trailer}}
+==Welcome==
+<center class="title-text-welcome">[https://www.thatskygame.com/news/build-together-with-season-of-revival Welcome to the Season of Revival!]</center>{{Quote|<br>'''In our cozy village, we're a family of friends!'''''}}
+
+In a forgotten corner of the kingdom stand the ruins of [[Aviary Village]], a town that once flourished. Now, the time has come to bring it back to life! Join the Season of Revival to rebuild a new area steeped in Sky’s history, and transform it into a thriving town center once again for Spirits and Sky children alike.
+
+Fulfill Seasonal Quests to rebuild the area from the basics on up. Along the way you’ll meet familiar [[Ancestors#Guides|Guides]] from past Seasons. New Seasonal cosmetics were offered through a shop in the Seasonal area, with items including [[Capes]], [[Shoes]], and a [[Music Sheet]]. Two Ultimate Gifts were available from the [[Revival Guide]]: a colorful Hairstyle and a Cape that creates a rainbow light effect when flying through the air.
+
+<small>Note that Season of Revival can be enjoyed by all players who have progressed through at least Hidden Forest.</small>
+
+==Aviary Village==
+{{Main|Aviary Village}}
+[[File:Aviary_Village_Main.png|thumb|right|300px|Aviary Village]]
+{{Quote|<br>'''''A hidden refuge, lost to time.'''''|??? Opening}}
+
+The Season of Revival brought Sky a brand-new portal at [[Home]], located between the Hidden Forest and Valley of Triumph portals. This portal opens up to a remake of a nostalgic space well known from [[Sky: Light Awaits]] players; the Aviary. [[Aviary Village]] showcases the tall broken tower found at Home that was once called the "Aviary". Entering the area, players find themself in a vast area surrounded by clouds and filled with new shops. 
+
+{{Quote|<br>'''''A hidden refuge.'''''|Aviary Village Opening}}
+
+As players complete Quests, they unlock new features, shops and hidden treasures, and the village is gradually revitalized. Once fully restored, Aviary Village can also be set as 'Home' for players by interacting with a white candle near the Realm portals. [[Aviary Village|See this area's page for more details.]] 
+
+==Daily Quests & Seasonal Candles==
+===Daily Quests===
+Collect [[Seasonal_Events#Season_Candles|Seasonal Candles]] throughout the Season to trade with the new shops for their cosmetics. A total of 6 Seasonal Candles were available to gather, as follows:
+*Each day the location of the [[Daily Quests]] changed, indicated through the cutscene played when checking in with the Return Shrine Statue at [[Home]] or [[Aviary Village]] - where the camera would pan out from the day's chosen Realm portal. Players could earn one Seasonal Candle per Quest completed. Complete your Quests and claim your reward at the Return Shrine Statue. (4 Candles)
+*Players could also collect an extra Candle by collecting the 4 Seasonal bunches <small>(more information on the "Seasonal bunches locations" below).</small> (1 Candle)
+*Players who had the [[Season Pass]] could claim a Seasonal Candle from the [[Aviary Village#Friendship Constellation Statue|Friendship Constellation Statue]] at Aviary Village as a free daily bonus. (1 Candle)
+
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape">
+File:SoRevival-Seasonal-candles.jpg|Revival Seasonal Candles
+File:SoRevival-Season-Pass-1.png|Season Pass - page 1
+File:SoRevival-Season-Pass-2.png|Season Pass - page 2
+File:SoRevival-Season-Pass-3.png|Season Pass - page 3
+</gallery>
+===Seasonal Candle Bunches Locations===
+The Seasonal Candle bunches were found towards the beginning of each [[Realm]], one Realm a day according to the Daily Quests' location.<br>
+<br>
+<gallery spacing="small" captionalign="center">
+Daylight-Prairie-Seasonal-Candles-locations-Pattern-A.png|Prairie Rotation 1 & 2
+Hidden-Forest-Seasonal-Candles-locations-Pattern-A.png|Forest Rotation 1 & 2
+Valley-of-Triump-Seasonal-Candles-locations-Pattern-A.png|Valley Rotation 1 & 2
+Golden-Wasteland-Seasonal-candles-Locations-Pattern-A.png|Wasteland Rotation 1 & 2
+Vault-of-knowledge-Seasonal-candles-Locations-Pattern-A.png|Vault Rotation 1 & 2
+</gallery>
+
+==Child of Light Locations<span id="Winged Light Locations"></span>==
+No [[Children of Light]] were added to the Season of Revival.   
+
+==Spirit Memory Quests==
+The Quests from the Season of Revival are different from other Seasons in that no new Spirits are introduced, but each Quest alters the visual appearance of [[Aviary Village]] and adds new features and shops for players to discover. These Quests, and Aviary Village itself, also now serve as the starting point for new players after the {{v|0.23.5}} Patch, replacing the previous introduction that started the player in [[Home]].
+
+The [[Revival Guide|Season Guide]], known as the Hopeful Steward, is a young Spirit that appears as a statue shrouded in [[Darkness]] that the player must light upon first arriving to the area. Once awake, the Hopeful Steward invites the player to follow them and open the gate leading further into the area with your [[Flame]]. Once done, take their hand and follow them further to discover their homeplace. 
+
+===<span id="Quest 1">Quest #1</span>===
+In the first Quest, you lead the [[Hopeful Steward]] further into the foggy village to find another statue shrouded in [[Darkness|Darkness Plants]]. Burning away the Darkness and lighting it reveals the [[Rhythm Guide]] who offers you their gratitude and heads into the nearby shop. 
+
+Much to their dismay, it's become completely overrun with Darkness Plants in their absence. Help clean up the shop by burning away the Darkness. Once done, the Rhythm Guide is shown fixing a broken chair, further restoring the shop to its former glory. The Guide then invites you to take a seat on the repaired chair.
+
+This chair gives players the ability to try on different [[Hairstyles]], similar to the [[Cosmetics#Outfit Shrines|Outfit Shrines]] found throughout the Realms. In addition, it allows players to walk around inside the shop, and through the hallways to other connected shops, while wearing Hairs they do not own. Upon exiting the building, the player's Hair will revert back to whichever owned one they last tried on.
+
+After you've finished using the chair, the Hopeful Steward waves goodbye to the Rhythm Guide and offers you a {{Icon|Icon_high_five.png|link=High Five Action}} [[High Five Action|High Five]], and accepting it completes the Quest.
+
+Follow the Hopeful Steward back outside and speak to them. The shop has now opened for business, as light shines through the windows and a flag adorned with the Hair Closet icon is added above the doorway.<br>
+<br>
+{{#ev:youtube|JQ_jz7KePz8|300px||Quest 1 by Nastymold}}
+
+===<span id="Quest 2">Quest #2</span>===
+In the second<ref name="Revival Quest changes">Prior to the {{v|0.25.0}} Update, the second Seasonal Quest involved unlocking the [[Blessings_(Spells)#Message_Boat_Spell|Message Boat Spells]] inside the [[Aviary Village#Spell Shop|Spell Shop]] in Aviary Village. This Quest was then removed from the [[Hopeful Steward]]'s Quest Tree, reducing the total number of Revival Quests from ten to nine, while also changing the numbered order of the subsequent Quests.</ref> Quest, you take the [[Hopeful Steward]]'s hand and inspect the base of a bell tower (similar to those found in [[Prairie Villages]]) that appears to be missing its three candles. Spotting one of them hidden beneath some nearby rubble, the Hopeful Steward beckons you over to collect it together. After picking up the candle, return to the bell tower to place it down on the alcove. Upon finding the remaining two and lighting all the recovered candles, the Quest is completed.
+
+The gloomy fog that enshrouded the area is cleared as the newly restored bells ring out, one by one, and the Hopeful Steward watches with joy as [[Birds]] and [[Butterflies]] flock to the revitalized town. The name of the area is then officially revealed as a title card appears on screen: [[Aviary Village]].
+
+With the completion of this Quest, it is now possible to encounter other players in the area. It is also now possible to find a meditation circle left of the village plaza, which will take you to the previous [[Home]]. <!-- Need to confirm if special candle appears now or after 3rd Quest -->There a [[Aviary Village#Setting Aviary Village as 'Home'|special white candle]] will appear, which once lit will set [[Home]] as your starting point in Sky. Note that players born before the Season of Revival will have the previous home set beforehand by default. They will have to manually set [[Aviary Village]] as home by the same process.<br>
+<br>
+{{#ev:youtube|VcOaIifK4js|300px||Quest 2 by Nastymold}}
+
+===<span id="Quest 3">Quest #3</span>===
+In the third<ref name="Revival Quest changes"/> Quest, you lead the [[Hopeful Steward]] even further into the village, towards the empty [[Realm]] portals on the far side of the map. Once you arrive, the young Spirit directs your attention towards the flat rock face behind the portals, where a newly activated [[Map Shrine]] sits at its base. Light the candles and sit at the meditation circle to reveal a [[Murals|Mural]] depicting the Kingdom of Sky and unlock [[Aviary Village]] on your map.
+
+''"The stars were once united and our light was infinite. The first of us descended to build a Kingdom in the clouds. But we took our light for granted... and in shadow, we withered away. A long time has passed. Now, you bring us hope. Go forth child. Return your light to our fallen stars."''
+
+The Hopeful Steward then points towards the [[Eye of Eden]] mountain looming in the distance with a request - brave the storm to guide Spirits back to this refuge. The Hopeful Steward will patiently stand at the portal to the next realm to complete (Watch the elder cutscene). Once you have progressed through every Realm and unlocked the final gate into Eden, head in to reach its end. After trekking through all of Eden and watching the credits sequence, return to Aviary Village to complete the Quest, where a grateful Hopeful Steward will greet you with a hug.
+
+Together, you watch as numerous Spirits descend from the stars and transform the abandoned refuge into a thriving village. Players can interact with these Spirits by using their associated [[Expressions]]. Additionally, by starting this Quest, both the Realm portals and [[Cosmetics#Outfit_Shrines|Outfit Shrine]] are now activated, allowing players to access the other Realms and Closet from within Aviary Village. The player can also now access the [[Aviary Village#Aviary Event Store|Aviary Event Store]] and [[Aviary Village#Spell Shop|Spell Shop]].<br>
+<br>
+{{#ev:youtube|zUX_kybsM3s|300px||Quest 3 by Nastymold}}
+
+===<span id="Quest 4">Quest #4</span>===
+In the fourth<ref name="Revival Quest changes"/> Quest, a new statue shrouded in Darkness has appeared within the village, outside the last building on the left side of the shop alley. Lighting it reveals the [[Dreams Guide]] who offers you their gratitude and a request. To help this new visitor, you must complete all 5 Quests from the [[Season_of_Dreams#Spirit_Memory_Quests|Season of Dreams]]. The Dreams Guide offers to take players directly to the [[Village of Dreams]], where their Quests take place. Once you have finished, return to [[Aviary Village]] and speak to the Dreams Guide once again to complete the Quest.
+
+Next, speak to the [[Hopeful Steward]] by the Village Square. A new shop has now opened for business, as light shines through the windows and a banner adorned with the Cape Closet icon is added above the doorway.
+
+Within the shop, a stool sitting near the Dreams Guide gives players the ability to try on different [[Capes]], similar to the [[Cosmetics#Outfit Shrines|Outfit Shrines]] found throughout the Realms. In addition, it allows players to walk around inside the shop, and through the hallways into other connected shops, while wearing Capes they do not own. Upon exiting the building, the player's Cape will revert back to whichever owned one they last tried on.<br>
+<br>
+{{#ev:youtube|TaWOcZ-2QBQ|300px||Quest 4 by Nastymold}}
+
+===<span id="Quest 5">Quest #5</span>===
+In the fifth<ref name="Revival Quest changes"/> Quest, a new statue shrouded in Darkness has appeared within the village, outside the [[Aviary Village#Hair Salon|Hair Salon]] on the left side of the shop alley. Lighting it reveals the [[Moments Guide]] who offers you their gratitude and a request. To help this new visitor, you must complete all 5 Quests from the [[Season_of_Moments#Spirit_Memory_Quests|Season of Moments]]. The Moments Guide offers to take players directly to [[Prairie Peaks]], where their Quests take place. Once you have finished, return to [[Aviary Village]] and speak to the Moments Guide once again to complete the Quest.
+
+Next, speak to the [[Hopeful Steward]] by the Village Square. The Moments Guide now has a home in Aviary Village, within the shop adorned by the banner with the Hair Closet icon above the doorway.
+
+Within the shop, a stool sitting near the Moments Guide gives players the ability to try on different [[Hair Accessories]], similar to the [[Cosmetics#Outfit Shrines|Outfit Shrines]] found throughout the Realms. In addition, it allows players to walk around inside the shop, and through the hallways into other connected shops, while wearing Hair Accessories they do not own. Upon exiting the building, the player's Hair Accessory will revert back to whichever owned one they last tried on.<br>
+<br>
+{{#ev:youtube|EnsX-GmSQfM|300px||Quest 5 by Nastymold}}
+
+===<span id="Quest 6">Quest #6</span>===
+In the sixth<ref name="Revival Quest changes"/> Quest, a new statue shrouded in Darkness has appeared within the village, outside the last building on the right side of the shop alley, directly across from the [[Aviary Village#Cape Shop|Cape Shop]]. Lighting it reveals the [[Performance Guide]] who offers you their gratitude and a request. To help this new visitor, you must complete all 5 Quests from the [[Season_of_Performance#Spirit_Memory_Quests|Season of Performance]]. The Performance Guide offers to take players directly to the [[Village Theater]], where their Quests take place. Once you have finished, return to [[Aviary Village]] and speak to the Performance Guide once again to complete the Quest.
+
+Next, speak to the [[Hopeful Steward]] by the Village Square. The Performance Guide now has a home in Aviary Village, within the building marked by a sign with a treble clef {{Icon|SOPerformance-hair-accessory-icon-Morybel-0146.png}} symbol. 
+
+This building acts as a shortcut to [[Harmony Hall]], teleporting players directly inside upon entering the doorway. The player can then return back to [[Aviary Village]] by passing through the main entrance of the Harmony Hall building. Note that the return teleport to Aviary Village will no longer be available should the player leave through the exit to the [[Village Theater]] and re-enter the building again.<br>
+<br>
+{{#ev:youtube|Ioc50zbEs8s|300px||Quest 6 by Nastymold}}
+
+===<span id="Quest 7">Quest #7</span>===
+In the seventh<ref name="Revival Quest changes"/> Quest, a new statue shrouded in Darkness has appeared within the village, inside the first building on the right side of the shop alley. Lighting it reveals the [[Enchantment Guide]] who offers you their gratitude and a request. But first, the player must help them restore their shop. (''Note that this particular task can be started at any point after completing the [[#Quest #2|second Quest]] and is required to proceed with the seventh Quest.'')
+
+Inside the building, the Enchantment Guide kneels in front of a large fireplace, tinkering with the unlit hearth. Light up the fireplace to help restore the shop. Sparkles burst from the flame to activate a mysterious door leading deeper into the building. Begin it lies a grassy space with a body of water flowing through the room. The Enchantment Guide gives you a [[Blessings_(Spells)#Message_Boat_Spell|Message Boat]] as thanks and invites you to place a message in the nearby water.
+
+The player can now purchase Message Cranes, Message Lanterns, and Message Boat Spells from the box marked with a paper boat symbol inside this building, which can be used to place temporary messages on bodies on water for other players to discover.
+
+The Enchantment Guide still has another request; to help this Spirit, you must complete all 6 Quests from the [[Season_of_Enchantment#Spirit_Memory_Quests|Season of Enchantment]]. The Enchantment Guide offers to take players directly to the [[Forgotten Ark]], where their Quests take place. Once you have finished, return to [[Aviary Village]] and speak to the Enchantment Guide once again to complete the Quest.
+
+Next, speak to the [[Hopeful Steward]] by the Village Square. Night will fall as the Enchantment Guide exits their shop and bows gratefully to the Hopeful Steward. They summon colorful clouds of magic that burst from within their shop and swirl around the Hopeful Steward, gifting the young Spirit with the Season's [[Hopeful_Steward#Ultimate_Gifts|Ultimate Gifts]] - a multicolored Cape and Hair. The Enchantment Guide's magic continues to fly through the village towards the [[Realm]] portals and the pair chase after it, arriving on the other side of Aviary Village alongside the player, the [[Rhythm Guide]], and the [[Dreams Guide]]. Here, the Enchantment Guide summons a large, glowing staff that is used for [[Aviary’s_Firework_Festival#The_Finale|Aviary’s Firework Festival]] finale.
+
+The Enchantment Guide's shop in Aviary Village has now been upgraded to offer the same [[Spells]] that can be found at the [[Spell_Shops#Forgotten_Ark_Shops|Forgotten Ark]] and the [[Spell_Shops#Sleepy_Traveler's_Boat|Sleepy Traveler's boat]], providing permanent and quick access to a variety of both useful and fun Spells.<br>
+<br>
+{{#ev:youtube|68F8UhWPHac|300px||Quest 7 by Nastymold}}
+
+===<span id="Quest 8">Quest #8</span>===
+In the eighth<ref name="Revival Quest changes"/> Quest, a new statue shrouded in Darkness has appeared behind the village, on a little island near the clouds to the left of the [[Eden]] portal. Lighting it reveals the [[Flight Guide]] who offers you their gratitude and a request. To help this new visitor, you must complete all 5 Quests from the [[Season_of_Flight#Spirit_Memory_Quests|Season of Flight]]. The Flight Guide offers to take players directly to the [[Wind Paths]], where their Quests take place. Once you have finished, return to [[Aviary Village]] and speak to the Flight Guide once again to complete the Quest.
+
+Next, speak to the [[Hopeful Steward]] by the Village Square. The Flight Guide proudly shows off the cloud tunnel that has opened up behind the village. This tunnel serves as a new pathway to the Wind Paths, allowing players to travel freely between the Wind Paths and Aviary Village. The Flight Guide also now has a home in Aviary Village, within the shop adorned by the banner with the Cape Closet icon on one side and the Outfit Closet icon on the other above the doorway.
+
+Within the shop, a stool sitting near the Flight Guide gives players the ability to try on different [[Outfits]], similar to the [[Cosmetics#Outfit Shrines|Outfit Shrines]] found throughout the Realms. In addition, it allows players to walk around inside the shop, and through the hallways into other connected shops, while wearing Outfits they do not own. Upon exiting the building, the player's Outfit will revert back to whichever owned one they last tried on.<br>
+<br>
+{{#ev:youtube|C0gN5uQmBQA|300px||Quest 8 by Nastymold}}
+
+===<span id="Quest 9">Quest #9</span>===
+In the ninth<ref name="Revival Quest changes"/> and final Quest, a new statue shrouded in Darkness has appeared within the village, outside the [[Aviary Village#Hair Salon|Hair Salon]] on the left side of the shop alley. Lighting it reveals the [[Passage Guide]] who offers you their gratitude and a request. To help this new visitor, you must complete all 5 Quests from the [[Season_of_Passage#Spirit_Memory_Quests|Season of Passage]]. The Passage Guide offers to take players directly to [[Isle of Dawn]], where their Quests take place. Once you have finished, return to [[Aviary Village]] and speak to the Passage Guide once again to complete the Quest.
+
+Next, speak to the [[Hopeful Steward]] by the Village Square. The Passage Guide now has a home in Aviary Village, within the shop adorned by the banner with the Hair Closet icon above the doorway.
+
+Within the shop, a floating Mask on a cushion near the Passage Guide gives players the ability to try on different [[Masks]] while a rotating rack offers the ability to try on different [[Face Accessories]], similar to the [[Cosmetics#Outfit Shrines|Outfit Shrines]] found throughout the Realms. In addition, they allow players to walk around inside the shop, and through the hallways into other connected shops, while wearing Masks and Face Accessories they do not own. Upon exiting the building, the player's Mask and Face Accessory will revert back to whichever owned one they last tried on.
+<!--
+{{#ev:youtube|VideoID|300px||Quest 9 by ###}} -->
+
+==Shops & Cosmetics==
+All of the ''Season of Revival'' Shops could be found in [[Aviary Village]]. Being a bit different from usual Seasons, there were no new [[Seasonal Spirits|Spirits]] or [[Expressions]] to gather, and cosmetics were instead sold from a Shop located to the left of the entrance, available once [[#Quest #1|Quest #1]] was completed. ''Note that this Shop is no longer available, as it closed when the Season came to an end.''<br>
+<br>
+<gallery widths="300" spacing="small" captionalign="center">
+Revival-Cosmetics-Shop-Entrance.jpg|Entrance to the Cosmetics Shop
+Revival-Cosmetics-Shop.jpg|The Cosmetics Shop interior
+</gallery>
+
+===All Revival Friendship Trees===
+{{Mobile Tabber
+|tab1 = {{Season Icon|Revival|tab}}
+|c1   = {{#lst:Revival Guide|Friendship Tree}}
+|tab2 = {{Icon|Quest-icon.png|link=Quests|tab}}
+|c2   = {{#lst:Revival Guide|Quest Tree}}
+|tab3 = {{Emote|Vestige of a Deserted Oasis|tab}}
+|c3   = {{#lst:Vestige of a Deserted Oasis|Season Friendship Tree}}
+|tab4 = {{Emote|Memory of a Lost Village|tab}}
+|c4   = {{#lst:Memory of a Lost Village|Season Friendship Tree}}
+|tab5 = {{Emote|Echo of an Abandoned Refuge|tab}}
+|c5   = {{#lst:Echo of an Abandoned Refuge|Season Friendship Tree}}
+|tab6 = {{Emote|Remnant of a Forgotten Haven|tab}}
+|c6   = {{#lst:Remnant of a Forgotten Haven|Season Friendship Tree}}
+}}
+
+===[[Vestige of a Deserted Oasis]]===
+{{#lst:Vestige of a Deserted Oasis|Summary}}
+{{#tag:gallery
+|{{Icon Name|Vestige of a Deserted Oasis|hair|real}} {{!}} The Hair
+{{Icon Name|Vestige of a Deserted Oasis|cape|real}} {{!}} The Cape
+{{Icon Name|Vestige of a Deserted Oasis|shoes|real}} {{!}} The Shoes
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===[[Memory of a Lost Village]]===
+{{#lst:Memory of a Lost Village|Summary}}
+{{#tag:gallery
+|{{Icon Name|Memory of a Lost Village|hair|real}} {{!}} The Hair
+{{Icon Name|Memory of a Lost Village|cape|real}} {{!}} The Cape
+{{Icon Name|Memory of a Lost Village|outfit|real}} {{!}} The Outfit
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===[[Echo of an Abandoned Refuge]]===
+{{#lst:Echo of an Abandoned Refuge|Summary}}
+{{#tag:gallery
+|{{Icon Name|Echo of an Abandoned Refuge|cape|real}} {{!}} The Cape
+{{Icon Name|Echo of an Abandoned Refuge|shoes|real}} {{!}} The Shoes
+{{Icon Name|Echo of an Abandoned Refuge|Hairpiece|real}} {{!}} The Hair Accessory
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===[[Remnant of a Forgotten Haven]]===
+{{#lst:Remnant of a Forgotten Haven|Summary}}
+{{#tag:gallery
+|{{Icon Name|Remnant of a Forgotten Haven|cape|real}} {{!}} The Cape
+{{Icon Name|Remnant of a Forgotten Haven|shoes|real}} {{!}} The Shoes
+{{Icon Name|Remnant of a Forgotten Haven|hairpiece|real}} {{!}} The Hair Accessory
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===[[Hopeful Steward]]===
+{{#lst:Hopeful Steward|Summary}}
+{{#tag:gallery
+|{{Icon Name|Hopeful Steward|necklace_u|real}} {{!}} Revival Ultimate Pendant
+{{Icon Name|Hopeful Steward|hair_u|real}} {{!}} Revival Ultimate Hair
+{{Icon Name|Hopeful Steward|cape_u|real}} {{!}} Revival Ultimate Cape
+{{Icon Name|Hopeful Steward|hair_real}} {{!}} The Hair
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+==Price Charts==
+Use the [[Seasonal Events/Calculator|Event Calculator]] to verify the status of your Candle count.
+{| class="article-table"
+!Spirits
+! colspan="6" |Candle Cost
+!Total Seasonal Candles
+|-
+|Vestige of a Deserted Oasis
+|{{#vardefineecho:A1| 16 }}
+|{{#vardefineecho:A2| 28 }}
+|{{#vardefineecho:A3| 38 }}
+|{{#vardefineecho:A4|  }}
+|{{#vardefineecho:A5|  }}
+|3*
+|{{Cost| {{#vardefineecho:Asum| {{#expr: {{#var:A1}} + {{#var:A2}} + {{#var:A3}} + {{#var:A4}} + {{#var:A5}} + 3 }} }} SC|season=Revival}}
+|-
+|Memory of a Lost Village
+|{{#vardefineecho:B1| 20 }}
+|{{#vardefineecho:B2| 32 }}
+|{{#vardefineecho:B3| 38 }}
+|{{#vardefineecho:B4|  }}
+|{{#vardefineecho:B5| }}
+|3*
+|{{Cost| {{#vardefineecho:Bsum| {{#expr: {{#var:B1}} + {{#var:B2}} + {{#var:B3}} + {{#var:B4}} + {{#var:B5}} + 3 }} }} SC|season=Revival}}
+|-
+|Echo of an Abandoned Refuge
+|{{#vardefineecho:C1| 18 }}
+|{{#vardefineecho:C2| 24 }}
+|{{#vardefineecho:C3| 32 }}
+|{{#vardefineecho:C4| 42 }}
+|{{#vardefineecho:C5| }}
+|3*
+|{{Cost| {{#vardefineecho:Csum| {{#expr: {{#var:C1}} + {{#var:C2}} + {{#var:C3}} + {{#var:C4}} + {{#var:C5}} + 3 }} }} SC|season=Revival}}
+|-
+|Remnant of a Forgotten Haven
+|{{#vardefineecho:D1| 24 }}
+|{{#vardefineecho:D2| 32 }}
+|{{#vardefineecho:D3| 40 }}
+|{{#vardefineecho:D4|  }}
+|{{#vardefineecho:D5| }}
+|3*
+|{{Cost| {{#vardefineecho:Dsum| {{#expr: {{#var:D1}} + {{#var:D2}} + {{#var:D3}} + {{#var:D4}} + {{#var:D5}} + 3 }} }} SC|season=Revival}}
+|-
+! colspan="7" |Total for Season
+!{{Cost| {{#expr: {{#var:Asum}} + {{#var:Bsum}} + {{#var:Csum}} + {{#var:Dsum}} }} SC|season=Revival}}
+|}<small>''* Only available with [[Season Pass]] (Seasonal Hearts) (subtract when calculating without)''</small>
+
+==Trivia==
+*During [[Sky Beta|Beta]] testing, the Season's cosmetics were initially available from the [[Troupe Greeter]] who was located outside the [[Rhythm Guide]]'s shop in Aviary Village. Two Spirits Trees were available from interacting with them: one called the "Street Haberdasher" and the other the "Street Cobbler."
+*Season of Revival is the second Season (following the [[Season of Shattering]]) to not feature a Seasonal [[Constellation]] or traditional [[Seasonal Spirits]].
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+SoRevival-tower-promo-image.jpg
+SoRevival-spirits-promo-image.png
+SoRevival-hairstylist-promo-image.png
+SoRevival-cosmetics-promo-image.png
+SoRevival-AMA-promo-image.png
+Main plaza.jpg
+Map shrine.jpg
+</gallery>
+
+==References==
+<references />
+
+{{Clear}}
+{{Seasonal Navbox}}
+
+[[pt-br:Temporada do Reavivamento]]
+[[fr:Saison du Renouveau]]
+[[ja:復古の季節]]
+
+{{DEFAULTSORT:Revival, Season of}}

@@ -1,0 +1,325 @@
+{{Season
+| title = Season of Nesting
+| image = Nesting-Season-Pass-Promo-Art.png
+| start = April 15, 2024
+| end = June 30, 2024
+| spirits = 4
+| previousSeason = [[Season of the Nine-Colored Deer]]
+| nextSeason = [[Season of Duets]]
+| constellation =
+| symbol = Season-of-Nesting-icon.png
+}}
+
+The '''Season of Nesting''' was the twenty-first Seasonal Event in the Live version of ''Sky'' since the global release, following [[Season of the Nine-Colored Deer]]. It began '''Monday, April 15, 2024 at 00:00 PDT (UTC -7)''' and ended on '''Sunday, June 30, 2024 at 23:59 PDT (UTC -7)''', lasting '''77''' days.
+
+The Season of Nesting put Sky Kids front and center with a new location ready to be made into something truly special.<br>
+<br>
+{{#ev:youtube|L3zvqlZKoBo||inline|Season of Nesting Trailer}}
+==Welcome==
+<center class="title-text-welcome">[https://www.thatskygame.com/news/create-a-space-uniquely-yours-in-season-of-nesting Welcome to the Season of Nesting!]</center>{{Quote|<br>'''''It's time to make the Realms your home as you decorate your very own Nest in Aviary Village 🏠'''''}}
+
+Sky Kids are a creative bunch, and the doors are about to open to a Season made just for that creativity! Head to the newly opened [[Nesting Workshop]] in [[Aviary Village]], where the [[Nesting Guide]] awaits you. Talk to them to complete [[#Spirit Memory Quests|Seasonal Quests]] and unlock your very own [[#Nest|Nest]] in a newly constructed area of the village. This cozy spot will be yours to design however you like, whether your aim is a relaxing nook, chaotic arthouse, or anything in between.
+
+Special display stands inside the Nesting Workshop offered new [[#Shops & Cosmetics|Seasonal cosmetics]], with items including a large volume of wood-crafted [[Props]]. In addition, a rotating selection of over 50 stone-made furniture and decor has also been added to the front counter as a permanent addition.
+
+With so many new offerings to use in your Nest, this Season offers all kinds of room for creative expression. The Nesting Guide, fellow Sky Kids, and your imagination are inviting you to build something that is uniquely yours.
+
+<small>Note that Season of Nesting can be enjoyed by all players who have progressed through at least Hidden Forest.</small>
+
+==Nesting Workshop==
+{{Main|Nesting Workshop}}
+[[File:Aviary-Village-Nesting-Cosmetics-Shop-Entrance.png|thumb|right|300px|Nesting Workshop Entrance]]
+The Season of Nesting further expanded upon [[Aviary Village]] by bringing a brand-new workshop full of cozy decorations and a place for Sky Kids to call home. The [[Nesting Guide]] can be found in the Shop opposite to the [[Aviary Village#Hair Salon|Hair Salon]] in Aviary Village, called the '''Nesting Workshop'''. As players complete [[#Spirit Memory Quests|Quests]], they unlock their very own [[#Nest|Nest]] to personalize, alongside shops offering a wide selection of furniture and new features to inspire creative expression.
+{{Clear}}
+
+==Nest==
+{{Main|Nests}}
+[[File:Aviary-Village-Nests-Exterior.png|thumb|300px|Entrance to the Nest]]
+The Season of Nesting also introduced the Nest, a personal space unique to every player that can be customized with [[Props]], which can be found in a newly constructed building to the left of the [[Aviary Village#Aviary Event Store|Aviary Event Store]]. This feature is unlocked during the [[#Quest 2|second Seasonal Quest]]. 
+
+This cozy, apartment-like space features several windows that peer out into a cloudy landscape, allowing players to enjoy the same [[Aviary_Village#Day/Night_Cycle|atmospheric lighting]] seen in Aviary Village. The special [[Shared Spaces|Shared Space Shrine]] that's used to decorate the Nest also features privacy settings that allow players to welcome friends inside for a visit or enjoy a quiet break in private mode. It also offers players the ability to view the Nests of friends for those seeking creative inspiration.<br>
+<br>
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape">
+Aviary-Village-Nest-Entrance-Elevator.png|The Nest's entrance elevator
+Aviary-Village-Nest-Inside-Elevator-Room.png|The Nest's interior elevator
+Aviary-Village-Nest-Inside-1.png|The Nest's interior entranceway
+Aviary-Village-Nest-Inside-2.png|The Nest's interior main room
+Aviary-Village-Nest-Inside-3.png|The Nest's interior main room
+Aviary-Village-Nest-Inside-4.png|The Nest's interior Shared Space Shrine
+</gallery>
+
+==<span id="Challenge Board">Nesting Challenges</span>==
+[[File:Nesting-Challenge-Board.png|thumb|right|300px|Nesting Challenge Board]]
+Nesting Challenges are a permanent addition to ''Sky'' and can be accessed once you start the [[#Quest #3|third Seasonal Quest]]. There are three categories of challenges displayed on a board in the [[Nesting Workshop]], each with their own Friendship Tree and rewards. Once all challenges in a Tree are completed, a unique interactive item becomes available to unlock for in-game currency.
+
+Some challenges are focused on the player's Nest, while others can be done out in the [[Realms]]. These are entirely separate from the Season, so they can be completed over time as you play the game in your style and on your own schedule! For more information on the different challenges and rewards offered by the Challenge Board, see the [[Nesting Workshop#Nesting Challenges|Nesting Workshop]] page.
+{{Clear}}
+
+==Daily Quests & Seasonal Candles==
+
+===Daily Quests===
+Collecting [[Seasonal Events#Season%20Candles|Seasonal Candles]] throughout the Season allowed players to trade with the new Spirits for their cosmetics. A total of 6 Seasonal Candles were available to gather, as follows:
+
+*Each day the location of the [[Daily Quests]] changed, indicated through the cutscene played when checking in with the Return Shrine Statue at [[Home]] or [[Aviary Village]] - where the camera would pan out from the day's chosen Realm portal. Players could earn one Seasonal Candle per Quest completed. Complete your Quests and claim your reward at the Return Shrine Statue. (4 Candles)
+*Players could also collect an extra Candle by collecting the 4 Seasonal bunches <small>(more information on the "Seasonal bunches locations" below).</small> (1 Candle)
+*Players who had the [[Season Pass]] could claim a Seasonal Candle from the Return Shrine Statue at [[Home]] or the [[Aviary Village#Friendship Constellation Statue|Friendship Constellation Statue]] at Aviary Village as a free daily bonus. (1 Candle)
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape">
+File:SoNesting-Seasonal-candles.jpg|Nesting Seasonal Candles
+File:SoNesting-Season-Pass-1.png|Season Pass - page 1
+File:SoNesting-Season-Pass-2.png|Season Pass - page 2
+File:SoNesting-Season-Pass-3.png|Season Pass - page 3
+</gallery>
+
+===Seasonal Candle Bunches Locations===
+The Seasonal Candle bunches were found towards the beginning of each [[Realm]], one Realm a day according to the [[Daily Quests]]' location.<br>
+<br>
+<gallery spacing="small" captionalign="center">
+Daylight-Prairie-Seasonal-Candles-locations-Pattern-A.png|Prairie Rotation 1 & 2
+Hidden-Forest-Seasonal-Candles-locations-Pattern-A.png|Forest Rotation 1 & 2
+Valley-of-Triump-Seasonal-Candles-locations-Pattern-A.png|Valley Rotation 1 & 2
+Golden-Wasteland-Seasonal-candles-Locations-Pattern-A.png|Wasteland Rotation 1 & 2
+Vault-of-knowledge-Seasonal-candles-Locations-Pattern-A.png|Vault Rotation 1 & 2
+</gallery>
+
+==Child of Light Locations<span id="Winged Light Locations"></span>==
+No [[Children of Light]] were added to the Season of Nesting.
+
+==Spirit Memory Quests==
+The Quests from the Season of Nesting are different from other Seasons in that no new [[Spirits]] are introduced, but each Quest adds new features that expand player creativity as they help the [[Nesting Guide]] set up shop in [[Aviary Village]]. Note that the only Quests from the Season of Nesting that can be replayed once completed are the [[#Quest #4|fourth]] and [[#Quest#5|fifth]].
+
+The Nesting Guide first appears as a statue shrouded in [[Darkness]] behind the counter in the [[Nesting Workshop]] that the player must light. Once awake, the thankful Spirit bows to you before turning to observe the cluttered mess of furniture that surrounds them, which they quickly restore to order with a wave of their hand and some sparkling magic. Once done, speak to the Nesting Guide by the right side of the room to begin your interior decoration journey.
+
+===<span id="Quest 1">Quest #1</span>===
+In the first Quest, the [[Nesting Guide]] conjures up a set of furniture to decorate the [[Nesting Workshop]] but wants your help to finish the display. Pick and choose from the three options offered by the Nesting Guide to assemble a rug, couch, and table set to accompany the Spirit's example.
+
+Once done, the Nesting Guide thoughtfully observes your design, feeling as though something is still missing. They beckon you over to the Nesting Workshop's front counter where you can now interact with a {{Icon|Meditating-Monastic-3.png}} table icon to find that they are offering you a stone stool [[Prop]], free of charge. After collecting the item, you are prompted to choose the location the stool will sit in the context of your designed space. Once placed, the Nesting Guide will approve your design and the Quest is completed.
+
+Next, speak to the Nesting Guide by the front counter. The Nesting Workshop is now open for business, allowing players to purchase [[Season of Nesting#Shops & Cosmetics|Season of Nesting cosmetics]] from special display stands, in addition to unlocking a [[Shared Spaces|Shared Space Shrine]] and a permanent rotating selection of furniture.<br>
+<br>
+{{#ev:youtube|ZPiQ7ZKN2-o|300px||Quest 1 by Nastymold}}
+<gallery widths="125" spacing="small" captionalign="center">
+SoNesting-Quest-1-Spirit-Husk.png
+SoNesting-Quest-1-Nesting-Guide.png
+SoNesting-Quest-1-Workshop-Restoration.png
+SoNesting-Quest-1-Workshop-Display.png
+SoNesting-Quest-1-Shop-Counter-Open.png
+</gallery>
+
+===<span id="Quest 2">Quest #2</span>===
+In the second Quest, the [[Nesting Guide]] has another gift to offer and asks that you meet with them outside in [[Aviary Village]]. They can be found waiting inside the entrance of the newly added building to the left of the Village Plaza, where a grassy bridge over a pond leads right towards the doorway.
+
+Once you arrive, the Nesting Guide gestures towards the lever at the entrance, inviting you to pull it for a surprise.... with unexpected results! The entire building shakes with a muted explosion, causing several pieces of the damaged mechanism to go flying. Help the Nesting Guide by collecting the six broken pieces that scattered across Aviary Village. ''(Honking will reveal a blue star that indicates their locations.)'' Once done, return to the Nesting Guide to finish repairing the lever. Activating it this time triggers an elevator ride up to the inside of the building.
+
+You arrive at an entranceway leading into an empty room, brightly lit with several windows that show a cloudy landscape, high above Aviary Village. This is your [[#Nest|Nest]], a personal [[Shared Space]] for expressing yourself through interior decoration. Here, the Nesting Guide brings your attention to the glowing blue crystal of a Shared Space Shrine tucked into the wall. Clicking the {{Icon|Shared-space-hammer-Credit-Ray.png}} hammer icon above the crystal will open a menu that offers the option to decorate your Nest and a toggle for allowing friends to visit.
+
+Use this menu to begin decorating your Nest. A selection of [[Shared Spaces#Featured Props|Featured Props]] are available by default, in addition to any Props the player already owns. When you are finished decorating, click the save icon in the top left corner to complete the Quest. With the setting sun as a backdrop, the Nesting Guide nods with approval before handing over a key to your Nest, making it officially yours. 
+
+Next, return to the [[Nesting Workshop]] to speak with the Nesting Guide. The Nest is now available at any time to customize, with the outside of the building now also featuring a variety of decorations, such as flowers, banners, and lights, to make it even cozier.<br>
+<br>
+{{#ev:youtube|M_L_Cjthpl0|300px||Quest 2 by Nastymold}}
+<gallery widths="125" spacing="small" captionalign="center">
+SoNesting-Quest-2-Elevator-Breaking.png
+SoNesting-Quest-2-Collecting-Fragments.png
+SoNesting-Quest-2-Edit-Nest.png
+SoNesting-Quest-2-Nest-Key.png
+</gallery>
+
+===<span id="Quest 3">Quest #3</span>===
+In the third Quest, the [[Nesting Guide]] directs your attention towards the large board hanging on the wall in the back corner of the [[Nesting Workshop]]. This is the [[#Challenge Board|Challenge Board]], which offers three categories of challenges (from left to right: Workshop, Nest, and Friends) that encourage players to familiarize themselves with the [[#Nest|Nest]] and [[Shared Spaces]]. For more information on the different challenges and rewards offered by the Challenge Board, see the [[Nesting Workshop#Nesting Challenges|Nesting Workshop]] page.
+
+The Nesting Guide tasks you with completing one challenge from ''any'' of the three categories on the Challenge Board to earn a reward. The easiest one to complete is the first challenge from the {{Icon|Shared-space-hammer-Credit-Ray.png}} Nest category: Place 5 [[Props]] in your Nest. The various [[Shared Spaces#Featured Props|Featured Props]] available in the Nest's Shared Space Shrine offer plenty of Props for decoration without the need to purchase anything.
+
+Once you have completed a challenge, return to the Challenge Board in the Nesting Workshop to collect your reward and the Quest will be completed. Next, speak with the Nesting Guide, who will greet you with a {{Icon|Icon_high_five.png|link=High Five Action}} [[High Five Action|High Five]]. With the Challenge Board unlocked, you can continue to complete its various challenges to unlock even more rewards. Note that these are permanent additions entirely separate from the Season, so they can be completed at your own leisure.<br>
+<br><!--
+{{#ev:youtube|VideoID|300px||Quest 3 by ###}}-->
+<gallery widths="125" spacing="small" captionalign="center">
+SoNesting-Quest-3-Guide-Greeting.png
+SoNesting-Quest-3-Challenge-Board.png
+SoNesting-Quest-3-Complete-Challenge.png
+SoNesting-Quest-3-High-Five.png
+</gallery>
+
+===<span id="Quest 4">Quest #4</span>===
+In the fourth Quest, the [[Nesting Guide]] contemplates the empty shelves in their workshop, which are in need of more materials. The camera turns to focus on the artwork hanging on the wall, highlighting a large painting that depicts two figures (resembling the [[Elder of the Forest]] and the Nesting Guide) standing in a grove filled with golden flowers. 
+
+Visit the location seen in this painting to help the Nesting Guide gather fallen wood. To do so, the player must travel to the very end of [[Hidden Forest]] and pass through the two large doors at the [[Forest Temple]]'s exit to reach [[Forest End]], where the Nesting Guide waits. Next, sit at the meditation circle by their side.
+
+Multiple pieces of wood are shown to be scattered across Forest End. {{Icon|Icon handhold.png|link=Friendship Menu#Holding Hands|label=Hold Hands}} [[Friendship Menu#Holding Hands|Hold Hands]] with the Nesting Guide to begin collecting all 12 pieces of the fallen wood together. Shortly after starting, several pesky [[Dark Crabs]] will appear and attempt to destroy the remaining wood pieces. You will fail the activity if any are destroyed and must try again from the start. Move quickly to gather the wood and flip over the Crabs by [[Deep Call|Deep Calling]] to prevent them from attacking. Once all the wood pieces have been collected, the Quest is completed.
+
+Next, return to the [[Nesting Workshop]] to speak with the Nesting Guide. Logs and planks of wood now fill the shelves of the workshop, and several new items the Spirit made with the materials are on display. Both the player and the Nesting Guide gaze upon the artwork hanging above the workspace with satisfaction at a job well done. The wood collecting activity featured in this Quest can now be replayed at any time by revisiting Forest End.<br>
+<br><!--
+{{#ev:youtube|VideoID|300px||Quest 4 by ###}}-->
+<gallery widths="125" spacing="small" captionalign="center">
+SoNesting-Quest-4-Elder-Painting.png
+SoNesting-Quest-4-Meditation-Circle.png
+SoNesting-Quest-4-Collection-Activity.png
+SoNesting-Quest-4-Dark-Crabs.png
+SoNesting-Quest-4-Nesting-Workshop.png
+</gallery>
+
+===<span id="Quest 5">Quest #5</span>===
+In the fifth and final Quest, the [[Nesting Guide]] wants to throw a housewarming party! Head to your [[#Nest|Nest]] and take the elevator inside to begin the festivities. Upon entering, sit at the meditation circle that appears in front of the elevator platform to wait for the guests to arrive. 
+
+The first guest to arrive is the Nesting Guide, who brings with them several orange pennants and balloons to decorate the elevator. {{Icon|Icon handhold.png|link=Friendship Menu#Holding Hands|label=Hold Hands}} [[Friendship Menu#Holding Hands|Take their hand]] and invite them further inside. Once you let go of their hand, the [[Hopeful Steward]] will also arrive after a few seconds, followed by both the [[Enchantment Guide]] and the [[Rhythm Guide]].
+
+Each of the guests can be led by the hand and arranged in the Nest however the player wishes. As they settle in, the Nesting Guide dances, the Hopeful Steward waves a light, the Rhythm Guide uses a sparkler, and the Enchantment Guide creates a magical purple light show before sitting down. Speak to the Nesting Guide next to proceed with the celebrations. The guests will count down from three and end with a cheerful shout of "HAPPY NESTING!!!" as they pop confetti in unison, completing the Quest.
+
+When you're ready to end the party, speak with the Nesting Guide once again. The Hopeful Steward, Enchantment Guide, and Rhythm Guide return to the elevator, waving goodbye before leaving. The Nesting Guide stays behind, glancing back at the player and their Nest before giving a firm nod of approval. Grateful for all they've done, the player bows in thanks. The Nesting Guide then turns to leave as well, with the player left behind to gaze upon their Nest.<br>
+<small>In order to replay this Quest, the player must enter their Nest and perform a [[Deep Call]] near the elevator, which will trigger the meditation circle to appear.</small><br>
+<br><!--
+{{#ev:youtube|VideoID|300px||Quest 5 by ###}} -->
+<gallery widths="125" spacing="small" captionalign="center">
+SoNesting-Quest-5-Meditation-Circle.png
+SoNesting-Quest-5-Guest-Arrivals.png
+SoNesting-Quest-5-Arranging-Guests.png
+SoNesting-Quest-5-Celebration.png
+SoNesting-Quest-5-Guests-Leaving.png
+</gallery>
+
+==Shops & Cosmetics==
+All of the ''Season of Nesting'' Shops could be found in [[Aviary Village]]. Being a bit different from usual Seasons, there were no new [[Seasonal Spirits|Spirits]] or [[Expressions]] to gather, and cosmetics were instead sold from a Shop located on the left-hand side of the Nesting Workshop, available after the [[#Quest #1|first Seasonal Quest]] is completed. ''Note that these Shops are no longer available, as they disappeared when the Season came to an end.'' <br>
+<br>
+<gallery widths="300" spacing="small" captionalign="center">
+File:Aviary-Village-Nesting-Cosmetics-Shop-Entrance.png|Entrance to the Nesting Workshop
+File:Nesting-Cosmetics-Shop.png|Nesting Workshop interior
+</gallery>
+
+===All Nesting Friendship Trees===
+
+{{Mobile Tabber
+|tab1 = {{Season Icon|Nesting|tab}}
+|c1   = {{#lst:Nesting Guide|Friendship Tree}}
+|tab2 = {{Icon|Quest-icon.png|link=Quests|tab}}
+|c2   = {{#lst:Nesting Guide|Quest Tree}}
+|tab3 = {{Emote|:Nesting Solarium|tab}}
+|c3   = {{#lst:Nesting Solarium|Season Friendship Tree}}
+|tab4 = {{Emote|Nesting Loft|tab}}
+|c4   = {{#lst:Nesting Loft|Season Friendship Tree}}
+|tab5 = {{Emote|Nesting Atrium|tab}}
+|c5   = {{#lst:Nesting Atrium|Season Friendship Tree}}
+|tab6 = {{Emote|Nesting Nook|tab}}
+|c6   = {{#lst:Nesting Nook|Season Friendship Tree}}
+}}
+
+===[[Nesting Solarium]]===
+{{#lst:Nesting Solarium|Summary}}<br>
+<br>{{#tag:gallery
+|{{Icon Name|Nesting Solarium|prop_t|real}} {{!}} The {{Icon Name|Nesting Solarium|prop_t_name}} Prop
+{{Icon Name|Nesting Solarium|prop_b|real}} {{!}} The {{Icon Name|Nesting Solarium|prop_b_name}} Prop
+{{Icon Name|Nesting Solarium|prop_h|real}} {{!}} The {{Icon Name|Nesting Solarium|prop_h_name}} Prop
+{{Icon Name|Nesting Solarium|prop_p|real}} {{!}} The {{Icon Name|Nesting Solarium|prop_p_name}} Prop
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===[[Nesting Loft]]===
+{{#lst:Nesting Loft|Summary}}<br>
+<br>{{#tag:gallery
+|{{Icon Name|Nesting Loft|cape|real}} {{!}} The Cape
+{{Icon Name|Nesting Loft|prop_b|real}} {{!}} The {{Icon Name|Nesting Loft|prop_b_name}} Prop
+{{Icon Name|Nesting Loft|prop_c|real}} {{!}} The {{Icon Name|Nesting Loft|prop_c_name}} Prop
+{{Icon Name|Nesting Loft|prop_p|real}} {{!}} The {{Icon Name|Nesting Loft|prop_p_name}} Prop
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===[[Nesting Atrium]]===
+{{#lst:Nesting Atrium|Summary}}<br>
+<br>{{#tag:gallery
+|{{Icon Name|Nesting Atrium|hair|real}} {{!}} The Hair
+{{Icon Name|Nesting Atrium|prop_h|real}} {{!}} The {{Icon Name|Nesting Atrium|prop_h_name}} Prop
+{{Icon Name|Nesting Atrium|prop_b|real}} {{!}} The {{Icon Name|Nesting Atrium|prop_b_name}} Prop
+{{Icon Name|Nesting Atrium|prop_f|real}} {{!}} The {{Icon Name|Nesting Atrium|prop_f_name}} Prop
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===[[Nesting Nook]]===
+{{#lst:Nesting Nook|Summary}}<br>
+<br>{{#tag:gallery
+|{{Icon Name|Nesting Nook|Hairpiece|real}} {{!}} The Hair Accessory
+{{Icon Name|Nesting Nook|prop_c|real}} {{!}} The {{Icon Name|Nesting Nook|prop_c_name}} Prop
+{{Icon Name|Nesting Nook|prop_s|real}} {{!}} The {{Icon Name|Nesting Nook|prop_s_name}} Prop
+{{Icon Name|Nesting Nook|prop_r|real}} {{!}} The {{Icon Name|Nesting Nook|prop_r_name}} Prop
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===[[Nesting Guide]]===
+{{#lst:Nesting Guide|Summary}}<br>
+<br>{{#tag:gallery
+|{{Icon Name|Nesting Guide|necklace_u|real}} {{!}} Nesting Ultimate Pendant
+{{Icon Name|Nesting Guide|outfit_u|real}} {{!}} Nesting Ultimate Outfit
+{{Icon Name|Nesting Guide|prop_u|real}} {{!}} Nesting Ultimate Prop
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+====Additional Cosmetics====
+The stone furniture [[Props]] available from the [[Nesting Workshop]] counter are additional cosmetics introduced with the Season, unlocked after completing the [[#Quest #1|first Seasonal Quest]], but they will be available regardless of the Season schedule and are permanent additions to the game. (For more information, see the [[Nesting Workshop]] page.)
+
+==Price Charts==
+Use the [[Seasonal Events/Calculator|Event Calculator]] to verify the status of your Candle count.
+{| class="article-table"
+!Spirits
+! colspan="6" |Candle Cost
+!Total Seasonal Candles
+|-
+|Nesting Solarium
+|{{#vardefineecho:A1| 14 }}
+|{{#vardefineecho:A2| 22 }}
+|{{#vardefineecho:A3| 30 }}
+|{{#vardefineecho:A4| 34 }}
+|{{#vardefineecho:A5|  }}
+|3*
+|{{Cost| {{#vardefineecho:Asum| {{#expr: {{#var:A1}} + {{#var:A2}} + {{#var:A3}} + {{#var:A4}} + {{#var:A5}} + 3 }} }} SC|season=Nesting}}
+|-
+|Nesting Loft
+|{{#vardefineecho:B1| 12 }}
+|{{#vardefineecho:B2| 20 }}
+|{{#vardefineecho:B3| 28 }}
+|{{#vardefineecho:B4| 36 }}
+|{{#vardefineecho:B5|  }}
+|3*
+|{{Cost| {{#vardefineecho:Bsum| {{#expr: {{#var:B1}} + {{#var:B2}} + {{#var:B3}} + {{#var:B4}} + {{#var:B5}} + 3 }} }} SC|season=Nesting}}
+|-
+|Nesting Atrium
+|{{#vardefineecho:C1| 16 }}
+|{{#vardefineecho:C2| 20 }}
+|{{#vardefineecho:C3| 24 }}
+|{{#vardefineecho:C4| 28 }}
+|{{#vardefineecho:C5|  }}
+|3*
+|{{Cost| {{#vardefineecho:Csum| {{#expr: {{#var:C1}} + {{#var:C2}} + {{#var:C3}} + {{#var:C4}} + {{#var:C5}} + 3 }} }} SC|season=Nesting}}
+|-
+|Nesting Nook
+|{{#vardefineecho:D1| 16 }}
+|{{#vardefineecho:D2| 20 }}
+|{{#vardefineecho:D3| 26 }}
+|{{#vardefineecho:D4| 30 }}
+|{{#vardefineecho:D5|  }}
+|3*
+|{{Cost| {{#vardefineecho:Dsum| {{#expr: {{#var:D1}} + {{#var:D2}} + {{#var:D3}} + {{#var:D4}} + {{#var:D5}} + 3 }} }} SC|season=Nesting}}
+|-
+! colspan="7" |Total for Season
+!{{Cost| {{#expr: {{#var:Asum}} + {{#var:Bsum}} + {{#var:Csum}} + {{#var:Dsum}} }} SC|season=Nesting}}
+|}<small>''* Only available with [[Season Pass]] (Seasonal Hearts) (subtract when calculating without)''</small>
+
+==Trivia==
+*This is the second Season to be held in [[Aviary Village]] and also the first Season to take place in the same Seasonal area as a previous Season, with the previous being [[Season of Revival]].
+*This is the first Season where [[Seasonal Spirits|Seasonal Entities]] have more than one of the same cosmetic type upon introduction (all four of them have at least three [[Props]]).
+*This is also the first Season where Seasonal Entities sell cosmetics worn by the [[Ancestors#Guides|Seasonal Guide]]. The [[Hair]], [[Cape]], and [[Hair Accessory]] worn by the [[Nesting Guide]] is offered by [[Nesting Atrium]], [[Nesting Loft]], and [[Nesting Nook]] respectively.
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+SoNesting-Promo-image.png
+SoNesting-plants-promo-image.png
+SoNesting-manta-projector-promo-image.png
+SoNesting-evening-tea-promo-image.png
+SoNesting-Challenge-Board-promo-image.png
+SoNesting-bright-selfie-promo-image.png
+SoNesting-butterfly-pose-promo-image.png
+</gallery>
+
+==References==
+<references />
+
+{{Seasonal Navbox}}
+
+[[fr:Saison de la Nidification]]
+[[pt-br:Temporada do Ninho]]
+[[ja:巣づくりの季節]]
+[[zh:築巢季]]
+[[de:Saison des Nistens]]
+
+{{DEFAULTSORT:Nesting, Season of}}

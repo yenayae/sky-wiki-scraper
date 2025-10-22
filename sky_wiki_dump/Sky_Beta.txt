@@ -1,0 +1,179 @@
+{{Help|beta}}
+{{spoilers}}
+
+'''The Beta version of Sky''' is a testing ground for new features and future content, aimed primarily towards finding bugs and giving feedback. The Beta and Live versions of ''Sky'' are wholly separate games and apps.
+
+Note that the Sky Beta is NOT: 
+
+* The full version of the game
+* An early-access version, alternative, or '''substitute for the Live version''' of the game!
+
+<big>Closed Beta testers are under NDA and thus cannot share information about Beta, except in accordance with TGC's announced "public share dates". Otherwise, if you come across Beta content, it is either purely speculation or in violation of the NDA.</big>
+
+<big>Beta content from v0.29.5 can be shared after May 22, 2025 at 00:01 PDT (UTC-7).</big>
+
+==What is the Sky Beta and Sky Beta Program?==
+[[File:Sky_beta_icon.png|thumb|100px|The app icon for Beta]]
+Almost all seasons, events, patches, and features are playtested in Beta (a completely separate app) before appearing in the Live version of the game. This helps the game developers at TGC fix bugs and other issues, and add/revise/scrap content before the update hits Live.
+
+The Sky Beta program is an ongoing program where TGC recruits players and grants them access to the Beta app. These beta testers play through new content to provide feedback and report bugs.
+
+==Closed Beta (April 2025 - present)==
+The Sky Closed Beta began the week of April 13, 2025 on iOS devices only.
+
+On March 17, 2025, TGC announced that the Sky Beta program would be moving from an open to a closed beta.<ref>https://discord.com/channels/575762611111592007/575768778789617674/1351259279994126366</ref> According to their news post, TGC made these changes in order to: improve feedback collection, prevent hacked leaks, and make the testing process more efficient and higher-quality.
+
+A closed beta means all beta-related content (screencaps, videos, and any other info) from the closed beta cannot be shared outside designated private channels in the official Sky Discord, which will be hidden from all non-testers. Prospective testers also must now go through a selection process, and only a limited number of testers will be selected.
+
+On May 21, 2025, TGC announced a change to the beta program: "public share dates", after which testers can freely share Beta content from a certain version.<ref>https://discord.com/channels/575762611111592007/575768778789617674/1374836761779372193</ref> These dates are TGC-announced '''only''', and likely to be irregular.
+
+The first public share date was May 22, 2025 at 00:01 PDT (UTC-7), for content from 0.29.5. Channels in the Discord were also reopened in light of this announcement.
+
+===Applying to Become a Tester===
+To apply, fill out the sign-up questionnaire. The channel '''#beta-updates''' in the official Sky Discord will have a live link, as well as post when sign-ups open and close. It may also be available on the [https://linktr.ee/thatskygame official Sky linktree].
+
+{{Collapse
+|float=left
+|id=find-sky-id
+|label=— How to find your Sky ID?
+|content=
+Your Sky ID can be found inside the game. Go to: {{Icon|Settings-gear-Ray.png}}[[Gear Menu]] -> {{Icon|Checkmark-Ray.png}}Account -> Account Details.<br><br>
+}}
+{{Collapse
+|float=left
+|id=find-discord-id
+|label=— How to find your Discord User ID?
+|content=
+To find your Discord User ID, first enable Developer Mode. To do this, go to your user settings and find Advanced (under the App Settings category), ensure the toggle "Developer Mode" is on. Then, open your profile, select the three dots, and Copy User ID.<br>For picture guides, check out the [https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID Discord Support article].
+}}
+
+Emails will be sent to selected candidates. A message will be posted to '''#beta-updates''' when a wave is sent out.
+
+Testers must be:
+* at least 18 years of age,
+* a member of the official Sky Discord, and in [https://support.discord.com/hc/en-us/articles/18210965981847-Discord-Warning-System#h_01HD4SVGAF2KT4AG7NH8BJBFKV "all good" Discord standing],
+* proficient in English (updates from TGC will be in English, and testers must provide feedback/bug reports in English).
+Your application will be kept on-file for at least six months. For players that were not selected as testers, they are welcome to submit another application after this time period has passed.
+
+Tester waves will be rotated on a regular or as-needed basis.
+
+'''Beta is currently only available on iOS, but Android/PC users can fill out the form for when the beta is expanded to those platforms.'''
+
+===Becoming a Tester===
+Upon being selected, candidates must sign an NDA. They will also receive instructions on how to download the Beta version of the game. Then, the Discord account listed in the application will be given access to the private closed beta channels in the official Sky Discord.
+
+==Tester FAQ==
+
+===What can I expect from the Beta version of the game?===
+Players who experience both Beta and Live will note that there are significant differences between the two.
+
+*'''Bugs!''' Beta versions of games tend to have bugs. Lots of them, at times.
+*'''A lonely Kingdom of Sky.''' The Live version has millions of players, the Beta much less. This means completing multiplayer features, such as the 8-player room in Daylight Prairie, will be near impossible without organizing a group beforehand.
+*'''No compensation.''' TGC generally does not offer compensation when players encounter bugs in Beta, even if they affect currencies or other important account features. As a tester, you should submit a bug report on Discord if you encounter any issues.
+*'''Portrait mode.''' iOS only.
+*'''Calendar desynced.''' Message of the Day (MOTD) and countdown timers are often wrong. Days of... events will arrive early, to be tested. Traveling Spirits may be different.
+*'''Shortened Seasons and events.''' While Beta is used to test Seasons and other events, the duration is often shortened. Sometimes this means that not all content will be obtainable like it is in Live.
+*'''More Seasonal Candles.''' In Beta, there are 8 Seasonal Candle bunches in every Realm (except Isle and Eden), as well only requiring 2 Seasonal Candle bunches to forge one Seasonal Candle.
+*'''Shop Differences.''' Because Beta is for testing, no real-life currencies are involved. IAPs are free. There are no candle packs in the shop.
+*'''Regular tester rotation and/or progress wipes.''' Testing groups will be reset on a regular basis, which means previous participants will lose access and new testers will be cycled through. Beta account progress will also be reset on a regular basis. This means that currency, cosmetics, friendship constellations, and game progress will be reset when needed for testing purposes.<ref>https://discord.com/channels/575762611111592007/718595027990741022/1352746810929713273</ref>
+*'''Progress does not transfer.''' The Live and Beta versions are completely separate apps, and nothing will transfer between them. You will start in Beta as a brand-new moth.
+
+* You can link Beta and Live to the same external account safely.
+* Facebook account linking does not work in Beta.
+* Friend invite (QR code) links do not work correctly on Beta. You will need to open the link on a separate screen/device or take a screenshot and scan the actual QR code instead of importing the link.
+
+===What are my responsibilities as a Beta tester?===
+Testers are expected to test updates' content to report bugs, give feedback about new or existing features, and help TGC make sure that things are working as intended. To do so, you are encouraged to read the Patch Notes and be present (even just as a viewer) on the official closed beta Discord channels.
+
+If you encounter a bug, check on the Known Beta Issues channel, and submit an informative report. Including pictures, videos, and details are helpful. If you’re not sure if something is a bug, still report it and give feedback.
+
+To help reduce the bugs that make it to Live, try interacting with as many aspects of the game as you can, especially the brand-new content. You can: try on outfits, look for graphics or performance issues (especially on older or low-end devices), explore new areas, collect [[Pieces of Light]] and [[Winged Light]], and interact with other players.
+
+You can also share non-bug feedback about the game. Include things you like or dislike, things you find confusing, and the reasons behind those feelings. Remember to keep posts respectful—server rules still apply, and your posts are being read by real people.
+
+Note: '''Do not just use the Beta version for enjoying new content'''. Testers should look for bugs and inform TGC about them. Players that are inactive, tagged by other players for hacking, or tagged by other players for improper behavior will be deactivated.
+
+The following items from the Beta do not appear to be planned for a Live release. However, players are still welcome to give feedback on these.
+*The Invisible Cape (available for 999 Hearts from the Elder of the Vault - NOT a placeholder!)
+*The Triumph Drum and Triumph Horn (briefly available as IAPs during Harmony Hall's Grand Opening testing)
+*The Mischief Crab Cape (briefly available for Event Currency during Days of Mischief 2023 testing)
+
+===What about rewards for testing?===
+The original [[Beta Cape]] reward was a one-time gift from TGC for testers who helped test Sky prior to the launch of the global version of the game. They were a huge influence on the game we all know and love today, and TGC wanted to give them a special “thank you” for all the time and effort they put into helping them create Sky. As of now, they don’t currently have future plans for additional Beta tester rewards.
+
+==PC Beta (July 2023 - March 2025)==
+A limited Sky PC Beta was announced July 18, 2023<ref>https://www.thatskygame.com/news/new-sky-milestones-for-gamescom-2023</ref> and testing began August 3, 2023. Applicants were randomly selected from the pool and sent an email containing a Steam key for the beta. The PC beta program focused on identifying bugs, performance issues, and controls/interface feedback relating to the PC port. 
+
+{{Collapse
+|label   = PC Beta Requirements
+|content = 
+Some requirements for being a PC Beta tester are:
+
+* '''Testers should be members of the Sky Discord server and proficient in English'''.
+* '''The applicants PC must have to meet the following specs to be accepted:'''
+*# OS: Windows 10 - 64bit (Win11 should run too)
+*# CPU:  
+*#* Intel i5-6400 or AMD FX 8310
+*#* AVX2 CPUs, starting with Intel Haswell processors (2013) & up. 
+*#* AMD Excavator (2015) & up (Zen, Zen2, Zen3, etc..). 
+*#* [https://en.wikipedia.org/wiki/Advanced_Vector_Extensions#CPUs_with_AVX2 List] of CPUs with AVX2
+*# Memory: 8 GB RAM (will probably run on 4GB)
+*# GPU: Nvidia GeForce GTX 1030 or AMD Radeon RX 560
+*# Driver: Need to have Vulkan 1.2 driver support (2020)
+*# DirectX: Version 12
+*# Storage: 3 GB available space
+}}
+
+==Switch Beta (May 2021 - June 2021)==
+A Nintendo Switch beta began on May 6, 2021.<ref>https://discord.com/channels/575762611111592007/575768778789617674/840013854439374878</ref> It was then closed on June 6, 2021 when the live Switch version released. This was also in line with Nintendo's policy prohibiting open betas on the platform.
+
+==Open Beta (July 2019 - March 2025)==
+<big>'''The Sky Open Beta was closed on March 20, 2025. The current beta testing format is a closed beta.''' If you're interested in becoming a beta tester, see [[#Applying to Become a Tester|the Applying section above]].</big>
+
+The Sky Open Beta was a continuation of the pre-global open beta program. Beta progress was reset, potentially also due to moving to a new app.
+
+To join the Sky Open Beta, you had to first join the official Sky Discord server. The '''#beta-faq''' channel at that point had reaction roles pinged when new beta content was released; invite links were first-come-first served. On iOS, the Beta version of Sky was opened via the app TestFlight.
+
+Players were able to freely share Beta-related content, including screencaps, videos, and other information. The responsibilities of the couple thousand beta testers were largely the same as in the current Closed Beta.
+
+The Sky Open Beta concluded on March 20, 2025; all beta access was removed and beta accounts reset. Some beta discussion-related channels in the official Sky Discord server were also closed, such as the beta bug reporting. Some player-run events were organized to commemorate the end of the open beta.
+
+{{Collapse
+|label   = Differences between Live and the Open Beta
+|content = 
+* There is no Beta Cape reward—but you can find the Founder's Cape in the Secret Area, just like in Live
+* IAPs are FREE
+* NO CANDLE PACKS in the shop
+* You start over as a brand-new moth (You cannot transfer your Live progress to Beta)
+* You can link Beta and Live to the same Google or Game Center account safely
+* Holiday events happen sooner for testing purposes
+* Translations might be wonky or missing and subject to change
+* Portrait mode—only on iOS
+* Traveling Spirits may appear differently (Traveling Spirit appearances in Beta lag behind those seen in the Live version)
+* Message of the Day (MOTD) is often wrong
+* Countdown timers are often wrong
+* When a Season is active, you collect more Seasonal Light per day
+* Friend invite (QR code) links do not work correctly on Beta. You will need to open the link on a separate screen/device or take a screenshot and scan the actual QR code instead of importing the link.
+* Invisible Cape is a thing and really does cost 999 Hearts—this is not a placeholder price
+* Facebook account linking does not work in Beta
+}}
+
+==Pre-Global Beta (December 2017 - July 2019)==
+{{Main|Sky: Light Awaits}}
+Sky: Light Awaits had a closed alpha test from November to December 2017, and a closed beta from December 2017 to April 2018, when an open beta launched. Light Awaits, both live and beta, was iOS-exclusive.
+
+== Sky Wiki Content Draft ==
+The Sky Wiki has retired the following pages. In line with the NDA, we cannot host draft materials from Beta before the content hits Live. For this reason, we will most likely be unable to update upcoming seasons or events in a timely manner and appreciate your patience.
+* [[Sky Beta/Season Draft]]
+* [[Sky Beta/Event Draft]]
+* [[Sky Beta/Reorganization Draft]]
+
+== References==
+<references/>
+
+[[fr:Sky Beta]]
+[[pt-br:Sky Beta]]
+[[ja:Sky Beta]]
+
+[[Category:Sky Beta]]
+{{DEFAULTSORT:Beta_Sky}}

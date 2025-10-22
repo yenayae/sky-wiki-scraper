@@ -1,0 +1,1172 @@
+The '''Premium Candle Shop''' is the name of the in-game store allowing players to obtain '''In App Purchases''' ('''IAP'''s), i.e., to purchase specific game [[collectibles]] using real currencies. Only a small subset of the game's collectibles are obtained from the Premium Candle Shop; instead, most items are obtained using in-game [[Currency]] from [[Spirits]]. This page lists all of the IAPs that have ever been available in the game. All prices are listed in US dollars; regional pricing may vary depending upon local taxes and exchange rates.
+
+Credit to leilia#3103 for the timeline and dates. Reorganization by Ray808080. Pack images are from Morybel#0146 and some Seasonal cosmetics included in those images from Mimi#4117 and Ray808080. 
+
+==Accessing the Shop==
+The standard Premium Candle Shop can be accessed in two ways. The same items are available from each of these places.
+*Clicking the top right corner of your screen, then clicking on the Gear icon to open the [[Gear Menu]]. The second icon in the Gear Menu is for the shop.
+*Clicking on the candle icon in the top left corner of your screen when you do not have any candles to forge.
+
+The standard shop is where [[#Candle Packs|Candle Packs]] and Starter Packs are always available. [[#Seasonal Packs|Seasonal Packs]] are available whenever there is an active [[Seasonal Events|Season]]. During [[Special Events]], some IAP cosmetics also appear in the standard Premium Candle Shop.
+
+For IAP purchases that are available from other locations, details on how to obtain the item are provided with the item descriptions below.
+
+For IAP purchases that go through but aren't automatically added to the player's inventory/[[Outfit Shrine]], open the Shop and the item should be available to claim for "Free". Contact [https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/contact-us Player Support] for any issues regarding Shop and Purchase Issues.
+
+
+==Sky Web Store==
+[[File:Sky-Web-Store-Home-Page.png|thumb|Sky Web Store Homepage]]
+The Sky Web Store is an alternative online web payment method allowing players to purchase in-game store items (IAPs) through Xsolla Pay. It can be accessed through this link: https://webshop.thatskygame.com/ <br>
+
+Players can buy Candles, Seasonal Candles, and Gift Passes for the game to use on any device, except for Nintendo Switch on the Web Store. This does not affect special event items and other in-app purchases, which remain accessible regardless of where they were purchased. Please note that the Seasonal Candles that come with a Season Pass, and the Gift Passes that come with a Season Pack, will not be available on Nintendo Switch if purchased through Xsolla, Switch players will need to log into their Sky account on a mobile device in order to use them.<br>
+
+The web store often runs promotions for purchases, for example: players received an extra 15 regular [[Currency#Candles|Candles]] with their first purchase during [[Season of Moomin]] on the Sky Web Store.<br>
+
+Players will need to use their Sky ID when Xsolla asks for in-game User ID. Please treat your Sky ID with privacy and caution. Only share your Sky ID with official TGC Support (through official support chat) or specific partners such as Xsolla.<br>
+
+For more information regarding the Sky Web Store please visit [https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/faq/1268-what-is-the-sky-web-store/ this page].
+
+==Permanent Premium Shop==
+===Candle Packs===
+Candle Packs are available all year round in the Premium Candle Shop.
+<gallery>
+File:15-candle-pack.png|15 Candles for {{USD|4.99|refnote}}.
+File:30-candle-pack.png|35 Candles for {{USD|9.99|refnote}}.
+File:60-candle-pack.png|72 Candles for {{USD|19.99|refnote}}.
+File:150-candle-pack.png|190 Candles for {{USD|49.99|refnote}}.
+</gallery>
+
+===Seasonal Packs===
+During [[Seasonal Events]], you can buy packs of Seasonal Candles, a Season Pass for yourself, or Gift Packs for your friends.<ref name="renamed_passes">The Season Pass and Gift Pack were renamed in June 2022 during the [[Version History|0.18.0]] update. Previously, the Season Pass was known as the Adventure Pass, and the Gift Pack was known as the Adventure Pack.</ref>
+<gallery>
+File:Seasonal-candle-pack.png|15 Seasonal Candle Pack for {{USD|4.99|refnote}}.
+File:Adventure-pass-IAP.png|1 Season Pass for {{USD|9.99|refnote}} or 1 Season and 2 Gift Passes for {{USD|19.99|refnote}}.
+File:Gift-Adventure-Pass.png|Gift Pack for {{USD|9.99|refnote}}.
+</gallery>
+
+===Starter Pack===
+Available in the shop since July 19, 2019. The Starter Pack can be obtained by mobile (iOS and Android), PlayStation, and Steam players. See [[Starter Pack]] for details.
+<gallery>
+Starter Pack IAP.png|The Starter Pack contains an Orange Cape and 20 Candles for {{USD|4.99|refnote}}.
+</gallery>
+
+===Nintendo Pack===
+Available in the shop since June 29, 2021 for [[Sky for Nintendo Switch|Switch players]] only. See [[Nintendo Pack]] for details.
+<gallery>
+Nintendo pack.png|The Nintendo Pack contains two themed Capes (red and blue), an elvish Hairstyle, a vessel flute, and 75 Candles for {{USD|29.99|refnote}}.
+</gallery>
+
+===Harmony Hall ===
+Available in the shop since May 23, 2022, three variations of existing Instrument are available to purchase at the [[Harmony Hall]] front counter. The Triumph Violin was added to Harmony Hall on July 3, 2023, and the [[Days of Music#Fledgling%20Upright%20Piano|Fledgling Upright Piano]] was added on November 25, 2024, both during [[Days of Music]]. See [[Harmony_Hall#Purchases|Harmony Hall Purchases]] for details.
+<gallery>
+Fledgling-upright-Piano-instrument-IAP.png| '''2024:''' The Fledgling Upright Piano for {{USD|4.99|refnote}}.<br><br>''Honed to suit any beginner's needs. Can be carried with you, or placed in your Nest for others to try their hand upon its keys.''
+Triumph-Violin-IAP-Credit-Morybel.png| '''2023:''' The Triumph Violin for {{USD|19.99|refnote}}.<br><br>''Finely crafted for the aspiring virtuoso.''
+SOPerformance-Fledgling-harp-IAP-Morybel-0146.png| '''2022:''' The Fledging Harp for {{USD|4.99|refnote}}.<br><br>''Crafted to inspire any beginner artist to shine.''
+SOPerformance-Rhythm-Guitar-IAP-Morybel-0146.png| '''2022:''' The Rhythm Guitar for {{USD|14.99|refnote}}.<br><br>''Retrieved unharmed by the crabs, Pleaful Parent knows you'll put it to good use.''
+SOPerformance-Triumph-Handpan-IAP-Morybel-0146.png| '''2022:''' The Triumph Handpan for {{USD|19.99|refnote}}.<br><br>''Tuned to perfection from materials imbued with the dulcet tones of the Sanctuary Island bell tower.''
+</gallery>
+
+===Secret Area===
+The Founder's Pack became available in the shop since September 22, 2019. The Founder's Pack can be obtained by visiting the NPC at the [[Secret Area]]. See [[Founder's Pack]] for details. The [[TGC Guitar Pack]] is offered by the Secret Area NPC since July 18, 2022. The [[TGC Wireframe Cape]] is offered by the Secret Area NPC since July 7, 2025.
+
+<gallery>
+TGC-Wireframe-Cape-IAP.png | '''2025:''' The TGC Wireframe Cape for {{USD|19.99|refnote}}.<br><br>''Commemorating magical moments in the world of Sky thanks to you. Allows revisiting the festive transformation of Aviary Village, History of Sky gallery, Art of Sky gallery, and Developer Talk stage.''
+TGC-Guitar-Pack-IAP-Morybel-0146.png | '''2022:''' The TGC Guitar Pack contains the Blue Electric Guitar and 115 Candles for {{USD|29.99|refnote}}.<br><br>''{{Cost|115 C}} (90 + 25 bonus!) and an electrifying limited TGC blue guitar for the avid musician and supporter of thatgamecompany!''
+TGC-Founder-Pack-Morybel-0146.png | '''2019:''' The Founder's Pack contains a Blue TGC Cape and 115 Candles for {{USD|29.99|refnote}}.<br><br>''{{Cost|115 C}} (90 + 25 bonus!) and a limited TGC blue cape to be a founding member and support thatgamecompany!''
+</gallery>
+
+===Aviary Event Store===
+====Appreciation Packs ====
+Available in the shop since November 27, 2023, two special starter bundles are available to purchase at the event store in [[Aviary_Village#Aviary Event Store|Aviary Village]]. See [[Aviary’s_Firework_Festival#Moth_Appreciation_Pack|Moth and Sparrow Appreciation Packs]] for details.
+{{#tag:gallery
+|{{Icon Name|Moth Cape|iap}} {{!}} '''2023:''' The Moth Appreciation Pack contains the Moth Cape and Moth Antennae for {{USD|9.99|refnote}}.<br><br>''An elevated take on a beloved term for new adventurers. Choose Moths over Sparrows, who flutter with an attentive grace.''
+{{Icon Name|Sparrow Cape|iap}}{{!}}'''2023:''' The Sparrow Appreciation Pack contains the Sparrow Cape and Sparrow Mask for {{USD|9.99|refnote}}.<br><br>''Fashioned after an endearing term for those whose journey has just begun. Pick Sparrows over Moths, who energetically embrace new experiences.''
+|widths=185
+}}
+
+====Journey Pack====
+Was available in the shop since December 6, 2022 for [[Sky for PlayStation|PlayStation players]] only but is now available on '''all platforms''' after the Early Access release of ''Sky'' on Steam on April 10, 2024<ref name="PC_Release_Date">https://www.thatskygame.com/news/get-ready-for-sky-early-access-on-steam/</ref>. See [[Journey Pack]] for more details. 
+
+<gallery>
+Journey-Pack-IAP-Morybel-0146.png|The Journey Pack contains a Journey Cape, Mask, and Hair for {{USD|24.99|refnote}}.<br><br>''A Traveler from across the desert sands comes to Sky to celebrate thatgamecompany returning to PlayStation®!''<br><br>''A Traveler from across the desert sands comes to Sky to celebrate thatgamecompany's launch on Steam! The Pack includes Traveler's Cape, Hood, and a Mask that grants a unique Journey™- inspired voice when worn. (©2024 Sony Interactive Entertainment LLC. Journey is a registered trademark or trademark of Sony Interactive Entertainment LLC.)''
+</gallery>
+
+====Transcendent Journey Pack====
+Was added to the shop on March 17, 2025 in celebration of Journey's 13th anniversary<ref name="Journey's-13th-anniversary">To celebrate Journey's 13th anniversary, the Transcendent Journey Pack is permanently available for '''all platforms''' from March 17, 2025.</ref>. This special pack will become accessible for purchase through the Journey mannequin only after the player has completed the [[Eye of Eden]] at least once<ref name="Transcendent Journey Pack accessibility">Please Note that players must have played through Eden to access this pack!</ref>. See [[Sky for Playstation#Transcendent Journey Pack|Transcendent Journey Pack]] for more details.
+
+<gallery>
+Transcendent-Journey-Pack-IAP.png|The Transcendent Journey Pack contains a white Journey Cape, Mask, and Hair for {{USD|24.99|refnote}}.<br><br>''The mark of a Seasoned Traveler of the Sands. Includes a white Traveler's Cape, Hood, and a Mask that grants a unique Journey™-inspired voice when worn. (©2025 Sony Interactive Entertainment LLC. Journey is a registered trademark or trademark of Sony Interactive Entertainment LLC.)''
+</gallery>
+
+===Sky: Children of the Light Fall Pack===
+Available in the PlayStation Store since October 12, 2024. Can be obtained by PlayStation Plus members only. See [[Sky_for_PlayStation#Fall_Pack|Sky: Children of the Light Fall Pack]] for details.
+<gallery>
+Sky PS Plus Fall 2024 Pack icon.png|The Sky: Children of the Light Fall Pack <!--contained-->contains 30 Candles, 3 Shared Space Spells, 3 Message Boat Spells, and 3 Bonfire Prop Spells for free.<br><br>''Celebrate the spirit of friendship with the Sky: Children of the Light Fall Pack!''
+</gallery>
+
+==Reoccurring Events==
+<div style="-moz-column-count: 3; -webkit-column-count: 3; column-count: 3;">
+*{{Icon|Days-of-Fortune-event-symbol-777-Ed.png|label=Days of Fortune|inline_text}}
+*{{Icon|Days-of-Love-event-symbol.png|label=Days of Love|inline_text}}
+*{{Icon|Days-of-Bloom-event-symbol.png|label=Days of Bloom|inline_text}}
+*{{Icon|Days-of-Nature-event-symbol.png|label=Days of Nature|inline_text}}
+*{{Icon|Day-of-Color-event-symbol-Ray.png|label=Days of Color|inline_text}}
+*{{Icon|Sky-Anniversary-event-symbol-Ray.png|label=Sky Anniversary|inline_text}}
+*{{Icon|Days-of-Sunlight-event-symbol-Ray.png|label=Days of Sunlight|inline_text}}
+*{{Icon|Moonlight-event-symbol.png|label=Days of Moonlight|inline_text}}
+*{{Icon|Days-of-Style-event-symbol-Ray.png|label=Days of Style|inline_text}}
+*{{Icon|Days-of-Mischief-event-symbol-Ray.png|label=Days of Mischief|inline_text}}
+*{{Icon|Day-of-Music-event-symbol-Ray.png|label=Days of Music|inline_text}}
+*{{Icon|Days-of-Feast-event-symbol-Ray.png|label=Days of Feast|inline_text}}
+</div>
+{{Mobile_Tabber
+|tab1 = {{Icon| Days-of-Fortune-event-symbol-777-Ed.png | tab | label= Days of Fortune | link= }} 
+|c1   = <h3>[[Days of Fortune]]</h3>
+*January 27, 2025 to February 9, 2025
+*January 29, 2024 to February 11, 2024
+*January 20, 2023 to February 2, 2023
+*January 24, 2022 to February 6, 2022
+*February 8, 2021 to March 1, 2021
+{{#tag:gallery
+|{{Icon Name|Fortune Snake Cloak|iap}} {{!}} '''2025:''' The Days of Fortune Snake Coif and Cloak for {{USD|19.99|refnote}}.<br><br>''A white cape and hairstyle of lavish serpentine elegance.''
+{{Icon Name|Days of Fortune Hand Fan|iap}} {{!}} '''2025:''' The Days of Fortune Hand Fan for {{USD|4.99|refnote}}.<br><br>''A classic crimson accessory to complement any outfit.''
+{{Icon Name|Days of Fortune Dragon Vestment|iap}}{{!}}'''2024:''' The Days of Fortune Dragon Vestment for {{USD|9.99|refnote}}.<br><br>''March to the beat of your own drum.''
+{{Icon Name|Days of Fortune Dragon Stole|iap}}{{!}}'''2024:''' The Days of Fortune Dragon Stole for {{USD|14.99|refnote}}.<br><br>''An air of noble stature.''
+{{Icon Name|Days of Fortune Dragon Bangles|iap}}{{!}}'''2024:''' The Days of Fortune Dragon Bangles for {{USD|1.99|refnote}}.<br><br>''Carved from the scales of a stone dragon.''
+{{Icon Name|Fortune Enchanted Umbrella|iap}}{{!}}'''2023:''' The Days of Fortune Enchanted Umbrella for {{USD|14.99|refnote}}.<br><br>''A purple Parasol that really packs a punch!''
+{{Icon Name|Smock|iap}}{{!}}'''2023:''' The Days of Fortune Muralist's Smock for {{USD|9.99|refnote}}.<br><br>''Even the most discerning critic will nod in approval.''
+{{Icon Name|Fish Cape|iap}}{{!}}'''2022:''' The Days of Fortune Fish Pack contains the Fish Cape and Fish Hood for {{USD|19.99|refnote}}.<br><br>''Make a splash when you don a mighty Fish Cape and Hood!''
+{{Icon Name|Fortune Fish Accessory|iap}}{{!}}'''2022:''' The Days of Fortune Fish Accessory for {{USD|1.99|refnote}}.<br><br>''Bestow good luck upon your friends when you sport this Fortune Fish Accessory.''
+{{Icon Name|Fortune Cape|iap}}{{!}}'''2021:''' The Days of Fortune Pack contains the Days of Fortune Cape, Days of Fortune Blushing Mask, and Days of Fortune Bun Hair for {{USD|24.99|refnote}}.<br><br>''Limited offer to celebrate this time of the year.''
+{{Icon Name|Fortune Wool Hat|iap}}{{!}}'''2021:''' The Days of Fortune Wool Hat for {{USD|9.99|refnote}}.<br><br>''Limited offer to celebrate this time of the year.''
+{{Icon Name|Fortune Orange|iap}}{{!}}'''2021:''' The Days of Fortune Orange for {{USD|0.99|refnote}}.<br><br>''Limited offer to celebrate this time of the year.''
+|widths=185
+}}
+
+|tab2 = {{Icon| Days-of-Love-event-symbol.png | tab | label= Days of Love | link= }} 
+|c2   = <h3>[[Days of Love]]</h3>
+*February 10, 2025 to February 23, 2025
+*February 12, 2024 to February 25, 2024
+*February 13, 2023 to February 26, 2023
+*February 7, 2022 to February 20, 2022
+*February 12, 2021 to February 21, 2021
+*February 2, 2020 to February 19, 2020
+{{#tag:gallery
+|{{Icon Name|Amethyst-Tipped Tails|iap}}{{!}}'''2025:''' The Days of Love Amethyst-Tipped Tails for {{USD|6.99|refnote}}.<br><br>''Two pigtails adorned with subtle hints of purple at the tips.''
+{{Icon Name|Amethyst Accessory|iap}}{{!}}'''2025:''' The Days of Love Amethyst Accessory for {{USD|2.99|refnote}}.<br><br>''Adorn any hairstyle with twin dazzling hearts that glisten even brighter when expressing near friends.''
+{{Icon Name|Meteor Mantle|iap}}{{!}}'''2024:''' The Days of Love Meteor Mantle for {{USD|17.99|refnote}}.<br><br>''Like shooting stars in the night sky.''
+{{Icon Name|Love Classy Cravat|iap}}{{!}}'''2023:''' The Days of Love Classy Cravat for {{USD|4.99|refnote}}.<br><br>''An elegant bow to dress up the smartest attire.''
+{{Icon Name|Love Serendipitous Scepter|iap}}{{!}}'''2023:''' The Days of Love Serendipitous Scepter for {{USD|14.99|refnote}}.<br><br>''Launch sparkling silhouettes into the sky.''
+{{Icon Name|Love Gondola|iap}}{{!}}'''2022:''' The Days of Love Gondola Pack contains the Days of Love Gondola and 35 Season Candles for {{USD|19.99|refnote}}.<br><br>''Share a serene moment with a friend as you glide along the water.''
+{{Icon Name|Love Swing|iap}}{{!}}'''2021:''' The Days of Love Swing Pack contains the Days of Love Swing and 35 Seasonal Candles for {{USD|19.99|refnote}}.<br><br>''Relive the joy of playground getaways with this swing.''
+{{Icon Name|Love Seesaw|iap}}{{!}}'''2021:''' The Days of Love Seesaw Pack contains the Days of Love Seesaw and 35 Seasonal Candles for {{USD|19.99|refnote}}. <br><br>''Share a wonderful time with a friend on this seesaw.''
+Days of Love Pack IAP.png{{!}}'''2020 (No longer available):''' The Days of Love Pack contains the Days of Love Swing and a Season Gift Pass for {{USD|19.99|refnote}}.
+|widths=185
+}}
+
+|tab3 = {{Icon| Days-of-Bloom-event-symbol.png | tab | label= Days of Bloom | link= }} 
+|c3   = <h3>[[Days of Bloom]]</h3>
+*March 24, 2024 to April 13, 2025
+*March 25, 2024 to April 14, 2024
+* March 20, 2023 to April 9, 2023
+*March 28, 2022 to April 10, 2022
+*March 22, 2021 to April 4, 2021
+{{#tag:gallery
+|{{Icon Name|Days of Bloom Rose Cape|iap}}{{!}}'''2025:''' The Bloom Rose-Embroidered Cape for {{USD|14.99|refnote}}. <br><br>''A dashing, pleated white cape with dyeable accents to refine your unique style.''
+{{Icon Name|Bloom Lilypad Umbrella|iap}}{{!}}'''2024:''' The Bloom Lilypad Umbrella for {{USD|14.99|refnote}}. <br><br>''Relish the symphony of spring showers from under a leafy shelter.''
+{{Icon Name|Picnic Basket|iap}}{{!}}'''2023:''' The Bloom Picnic Basket Pack contains the Bloom Picnic Basket and a Season Gift Pass for {{USD|19.99|refnote}}. <br><br>''Quaintly tailored blanket to set out a light snack for you and your friends. Might attract fluttery visitors.''
+{{Icon Name|Gardening Tunic|iap}}{{!}}'''2023:''' The Bloom Gardening Tunic for {{USD|9.99|refnote}}. <br><br>''Made to endure tending to the most unruly garden.''
+{{Icon Name|Purple Teaset|iap}}{{!}}'''2022:''' The Purple Bloom Teaset Pack contains the Purple Bloom Teaset and 35 Candles for {{USD|19.99|refnote}}. <br><br>''Commemorate the trees in bloom with an elegant purple themed tea party for three.''
+{{Icon Name|Bloom Teaset|iap}}{{!}}'''2021:''' The Bloom Teaset Pack contains the Bloom Teaset and 35 Candles for {{USD|19.99|refnote}}. <br><br>''Enjoy a cup of tea and quiet moment with a friend. Pack includes {{Cost|C}}x 35!''
+|widths=185
+}}
+
+|tab4 = {{Icon| Days-of-Nature-event-symbol.png | tab | label= Days of Nature | link= }} 
+|c4   = <h3>[[Days of Nature]]</h3>
+*April 28, 2025 to May 18, 2025
+*May 27, 2024 to June 16, 2024
+*April 20, 2023 to May 7, 2023
+* April 18, 2022 to May 1, 2022
+*April 19, 2021 to May 2, 2021
+*April 20, 2020 to April 27, 2020
+{{#tag:gallery
+|{{Icon Name|Ocean Sea Foam Cape|iap}}{{!}}'''2025:''' The Ocean Sea Foam Set contains the Ocean Sea Foam Shoes and Ocean Sea Foam Cape for {{USD|24.99|refnote}},<br><br>''Cape and boots set made of perfect flowing waves.''
+{{Icon Name|Ocean Waves Mask|iap}}{{!}}'''2025:''' The Ocean Waves Mask contains the Ocean Waves Mask and 75 Candles for {{USD|19.99|refnote}},<br><br>''Curling waves, calming not clamoring.''
+{{Icon Name|Nature Wave Cape|iap}}{{!}}'''2024:''' The Nature Wave Pack contains the Nature Wave Cape and 75 Candles for {{USD|19.99|refnote}},<br><br>''Wrap yourself in calm, rippling waves.''
+{{Icon Name|Nature Wave-Touched Hair|iap}}{{!}}'''2024:''' The Nature Wave-Touched Hair for {{USD|6.99|refnote}}.<br><br>''Tresses touched by the gentle flow of the waterway in Prairie Peaks.''
+{{Icon Name|Nature Sonorous Seashell|iap}}{{!}}'''2023:'''The Nature Sonorous Seashell Prop for {{USD|4.99|refnote}}.<br><br>''If you listen closely, the call of the open seas can be heard.''
+{{Icon Name|Nature Glasses|iap}}{{!}}'''2023:''' The Nature Glasses Pack contains the Nature Glasses Accessory and 75 Candles for {{USD|19.99|refnote}}.<br><br>''The world seems brighter, bluer even, through the eyes of this stylishly recycled mask.''
+{{Icon Name|Turtle Cape|iap}}{{!}}'''2022:''' The Nature Turtle Cape for {{USD|14.99|refnote}}.<br><br>''Soar through the skies and seas alike with this stylish turtle-themed cape!''
+{{Icon Name|Turtle Accessory|iap}}{{!}}'''2022:''' The Nature Turtle Pack contains the Nature Turtle Accessory and 75 Candles for {{USD|19.99|refnote}},<br><br>''We pledge to donate 100% of the NET proceeds from this pack to charities working to ride the ocean of plastics.''
+{{Icon Name|Ocean Cape|iap}}{{!}}'''2021:''' The Ocean Cape for {{USD|14.99|refnote}}.<br><br>''We pledge to donate half of the proceeds from this item to charities cleaning the ocean of plastic.''
+{{Icon Name|Ocean Necklace|iap}}{{!}}'''2021:''' The Ocean Necklace for {{USD|1.99|refnote}}.<br><br>''We pledge to donate half of the proceeds from this item to charities cleaning the ocean of plastic.''
+{{Icon Name|Earth Cape|iap}}{{!}}'''2020:''' The Earth Cape for {{USD|4.99|refnote}}. <br><br>''For each Earth Cape purchased, we will plan a tree in the real world in partnership with the One Tree planted charity!''
+|widths=185
+}}
+
+|tab5 = {{Icon| Day-of-Color-event-symbol-Ray.png | tab | label= Days of Color | link= }} 
+|c5   = <h3>[[Days of Color]]</h3>
+*May 26, 2024 to June 8, 2025
+*June 24, 2024 to July 7, 2024
+*June 1, 2023 to June 14, 2023
+*June 30, 2022 to July 13, 2022
+*June 14, 2021 to June 27, 2021
+{{#tag:gallery
+|{{Icon Name|Rainbow Face Paint Mask|iap}}{{!}}'''2025:''' The Rainbow Facepaint contains the Rainbow Face Paint Mask, 75 Candles, and {{Cost|D|color=white}}x 3 for {{USD|19.99|refnote}}. <br><br>''Throw some color on your face, and in your path leave a colorful trace. We pledge to donate $10.00 (USD) of the purchase price from this item to charities championing diversity and global unity.''
+{{Icon Name| Rainbow Ribbon Shawl|iap}}{{!}}'''2025:''' The Rainbow Shawl for {{USD|14.99|refnote}}. <br><br>''The vibrant ribbons and radiant interior of this shawl beautifully showcase the dyed colors.''
+{{Icon Name|Dark Rainbow Loafers|iap}}{{!}}'''2024:''' The Dark Rainbow Loafers contains the Dark Rainbow Loafers and 75 Candles for {{USD|19.99|refnote}}. <br><br>''Bring a splash of color with every step.''
+{{Icon Name|Color Bubble Machine|iap}}{{!}}'''2024:''' The Color Bubble Machine for {{USD|14.99|refnote}}. <br><br>''Watch the bubbles react to the color of your cape!''
+{{Icon Name|Dark Rainbow Tunic|iap}}{{!}}'''2023:''' The Dark Rainbow Tunic for {{USD|14.99|refnote}}. <br><br>''The light burns bright from within.''
+{{Icon Name|Dark Rainbow Earrings|iap}}{{!}}'''2023:''' The Dark Rainbow Pack contains the Dark Rainbow Earrings and 40 Candles for {{USD|9.99|refnote}}. <br><br>''You've heard of the dark side of the moon, what about the dark side of a rainbow?''
+{{Icon Name|Double Rainbow Flower|iap}}{{!}}'''2022:''' The Double Rainbow Pack contains the Double Rainbow Hair Accessory and 40 Candles for {{USD|9.99|refnote}}.<br><br>''Woah! A Double Rainbow Flower Accessory! What does it mean?''
+{{Icon Name|Rainbow Earring|iap}}{{!}}'''2022:''' The Rainbow Earring for {{USD|2.99|refnote}}. <br><br>''Easily shrouded beneath the right hairstyle, it isn't always about showing off.''
+{{Icon Name|Rainbow Headphones|iap}}{{!}}'''2022:''' The Rainbow Headphones for {{USD|9.99|refnote}}. <br><br>''For the music lover who wants to jam out in style.''
+{{Icon Name|Rainbow Beanie|iap}}{{!}}'''2021:''' The Rainbow Beanie Hat for {{USD|9.99|refnote}}. <br><br>''Stays cool on the warmest of days.''
+{{Icon Name|Rainbow Hair Flower|iap}}{{!}}'''2021:''' The Rainbow Pack contains the Rainbow Hair Flower and 75 Candles for {{USD|19.99|refnote}}. <!--NEED DESC-->
+|widths=185
+}}
+
+|tab6 = {{Icon| Sky-Anniversary-event-symbol-Ray.png | tab | label= Sky Anniversary | link= }} 
+|c6   = <h3>[[Sky Anniversary]]</h3>
+*August 11, 2025 to August 17, 2025
+*July 7, 2025 to August 17, 2025
+*July 12, 2024 to July 26, 2024
+*July 17, 2023 to July 30, 2023
+{{#tag:gallery
+|{{Icon Name|Anniversary Tuxedo Cape|iap}} {{!}} '''August 2025:''' The {{Icon Name|Anniversary Tuxedo Cape|name}} for {{USD|14.99|refnote}}. <br><br>''A sophisiticated addition to any blue carpet ensemble.''<ref name="typo>This typo was included in the original description of this item</ref>
+{{Icon Name|Anniversary Gown Dress|iap}} {{!}} '''August 2025:''' The Anniversary Gown Ensemble contains the Anniversary Dress and Anniversary Slippers for {{USD|9.99|refnote}}. <br><br>''Become blue carpet ready with this elegant dress and these butterfly-adorned slippers.''
+{{Icon Name|Anniversary 3D Glasses|iap}} {{!}} '''2025:''' The Anniversary Cinema Set contains the Cinema 3D Glasses and Cinema Popcorn Bucket for {{USD|4.99|refnote}}. <br><br>''Every moment feels blockbuster-worthy with these retro red- and blue-tinted 3D glasses and popcorn bucket.''
+{{Icon Name|Oreo Headband|iap}} {{!}} '''2024:''' The {{Icon Name|Oreo Headband|name}} for {{USD|4.99|refnote}}. <br><br>''You too can sport Oreo's iconic ears.''
+{{Icon Name|Anniversary Plush|iap}} {{!}} '''2023:''' The {{Icon Name|Anniversary Plush|name}} for {{USD|9.99|refnote}}. <br><br>''Squishes, bounces, and squeaks, oh my! Cuddle your very own little Oreo.''
+|widths=185
+}}
+
+|tab7 = {{Icon| Days-of-Sunlight-event-symbol-Ray.png | tab | label= Days of Sunlight | link= }} 
+|c7   = <h3>[[Days of Sunlight]]</h3>
+*September 1, 2025 to September 21, 2025
+*August 26, 2024 to September 8, 2024
+*September 11, 2023 to September 24, 2023
+*August 22, 2022 to September 11, 2022
+[[Lazy Days]]: 
+*September 26, 2022 to October 16, 2022
+[[Days of Summer]]:
+*August 12, 2021 to August 25, 2021
+[[Days of Summer Lights]]:  
+*September 20, 2021 to October 3, 2021
+*September 8, 2020 to September 20, 2020
+{{#tag:gallery
+| Sunlight-Bonnet-Bundle-IAP.png {{!}} '''2025:''' The Sunlight Bonnet Bundle contains an Outfit and a Hair Accessory for {{USD|14.99|refnote}}.<br><br>''Your shoulders will soak up the sun in this breezy maxi dress and jelly-inspired hat.''
+{{Icon Name|Sunlight Woven Wrap|iap}} {{!}} '''2024:''' The Sunlight Woven Wrap for {{USD|14.99|refnote}}.<br><br>''A delicate linen cape that's sure to stun on the shoreline.''
+{{Icon Name|Sunlight Helios Hoops|iap}} {{!}} '''2024:''' The Sunlight Helios Hoops for {{USD|2.99|refnote}}.<br><br>''Add a burst of summer to your wardrobe.''
+{{Icon Name|Sunlight Surfboard|iap}} {{!}} '''2023:''' The Sunlight Surfboard for {{USD|14.99|refnote}}.<br><br>''Make waves in even the smallest of ponds.''
+{{Icon Name|Sunlight Chunky Sandals|iap}} {{!}} '''2023:''' The Sunlight Chunky Sandals for {{USD|9.99|refnote}}.<br><br>''Give your toes some fresh rays of sunshine.''
+{{Icon Name|Jelly Shoulder Buddy|iap}} {{!}} '''2022:''' The Jelly Shoulder Buddy for {{USD|2.99|refnote}}.<br><br>''A cuddly jellyfish companion that perches on your shoulder.''
+{{Icon Name|Campfire Snack Kit|iap}} {{!}} '''2022:''' The Campfire Snack Kit Pack contains the Campfire Snack Kit and 35 Seasonal Candles for {{USD|19.99|refnote}}.<br><br>''What better way to enjoy warm evenings than with a light snack with friends?''
+{{Icon Name|Summer Parasol|iap}}{{!}}'''2021 (Days of Summer):''' The Summer Parasol Pack contains the Summer Parasol and 35 Seasonal Candles for {{USD|19.99|refnote}}.<br><br>''Sometimes you can have too much of a good thing. Enjoy a brief respite with this Summer Parasol.''
+{{Icon Name|Seashell Hairpin|iap}}{{!}}'''2021 (Days of Summer):''' The Summer Seashell Hairpin for {{USD|0.99|refnote}}.<br><br>''Hairpin made from a sun-warmed seashell.''
+|widths=185
+}}
+
+|tab8 = {{Icon| Moonlight-event-symbol.png | tab  | label= Days of Moonlight | link= }} 
+|c8   = <h3>[[Days of Moonlight]]</h3>
+*September 29, 2025 to October 12, 2025
+*September 16, 2024 to September 29, 2024
+{{#tag:gallery
+| Moonlight-Garland-Cape-IAP.png {{!}} '''2025:''' The Moonlight Garland Cape for {{USD|14.99|refnote}}.<br><br>''Bring the quiet magic of moonlight to your shoulders.'' 
+Moonlight-Frock-and-Updo-IAP.png {{!}} '''2024:''' The Moonlight Frock and Updo contains an Outfit and a Hair for {{USD|14.99|refnote}}.<br><br>''A delicate garment, bathed in the effulgence of the moon, complemented by an ornate hairstyle.''
+{{Icon Name|Moonlight Earrings|iap}} {{!}} '''2024:''' The Moonlight Earrings for {{USD|2.99|refnote}}.<br><br>''Add a twinkle of moonlight to your ears.''
+{{Icon Name|Style Bunny Slippers|iap}}{{!}}'''2023 (Days of Style)<ref>This item was originally part of the Days of Style event, but from September 29, 2025 it was permanently added to the Days of Moonlight lineup.</ref>:''' The Style Bunny Slippers for {{USD|6.99|refnote}}.<br><br>''Hop into cozy comfort.''
+{{Icon Name|Bunny Accessory|iap}}{{!}}'''2021 (Days of Summer Lights)<ref name="Days of Summer Lights">This item was originally part of the Days of Sunlight event, but from September 29, 2025 it was permanently added to the Days of Moonlight lineup.</ref>:''' The Summer Bunny Accessory for {{USD|2.99|refnote}}.<br><br>''Celebrate with this bunny shaped accessory!''
+{{Icon Name|Lazy Days Lantern|iap}}{{!}}'''2020 (Days of Summer Lights)<ref name="Days of Summer Lights"></ref>:''' The Summer Lantern Pack contains the Summer Lantern and 35 Candles for {{USD|19.99|refnote}}.<br><br>''A limited Lantern that lights up dark places. Note: It does not replace your candle or light flames.''
+|widths=185
+}}
+
+|tab9 = {{Icon| Days-of-Style-event-symbol-Ray.png | tab | label= Days of Style | link= }} 
+|c9   = <h3>[[Days of Style]]</h3>
+*September 30, 2024 to October 13, 2024
+*October 2, 2023 to October 15, 2023
+{{#tag:gallery
+|{{Icon Name|Style Dapper Suit|iap}}{{!}}'''2024:''' The Style Dapper Trio contains the Style Dapper Suit, the Style Dapper Monocle, and the Style Dapper Necktie for {{USD|14.99|refnote}}.<br><br>''Perfectly picked to pack a proper portion of panache.''
+{{Icon Name|Style Wide-Leg Jeans|iap}}{{!}}'''2023:''' The Style Wide-Leg Jeans for {{USD|9.99|refnote}}.<br><br>''Stitched to accentuate your unique sense of expression.''
+{{Icon Name|Style Heart Sunglasses|iap}}{{!}}'''2023:''' The Style Heart Sunglasses for {{USD|4.99|refnote}}.<br><br>''See the world with love through these purple-tinted lenses.''
+{{Icon Name|Style Flame Sunglasses|iap}}{{!}}'''2023:''' The Style Flame Sunglasses for {{USD|2.99|refnote}}.<br><br>''Everything is lit peering through these orange-tinted lenses.''
+|widths=185
+}}
+
+|tab10 = {{Icon| Days-of-Mischief-event-symbol-Ray.png | tab | label= Days of Mischief | link= }} 
+|c10   = <h3>[[Days of Mischief]]</h3>
+*October 21, 2024 to November 10, 2024
+*October 23, 2023 to November 12, 2023
+*October 24, 2022 to November 13, 2022
+* October 18, 2021 to November 8, 2021
+*October 22, 2020 to November 4, 2020
+* October 27, 2019 to October 31, 2019
+{{#tag:gallery
+|{{Icon Name|Withered Broom|iap}}{{!}}'''2024:''' The Mischief Withered Broom for {{Cost|19.99 USD|refnote}}.<br><br>''Let your bewitching dreams take flight!''
+{{Icon Name|Raven Cloak|iap}}{{!}}'''2024:''' The Mischief Raven-Feathered Cloak for {{Cost|17.99 USD|refnote}}.<br><br>''Said to carry the whispers of ancient shadows.''
+{{Icon Name|Mischief Gossamer Cape|iap}}{{!}}'''2023:''' The Mischief Gossamer Cape for {{USD|14.99|refnote}}.<br><br>''Light as air, heavy on elegance.''
+{{Icon Name|Mischief Crabula Cloak|iap}}{{!}}'''2023:''' The Mischief Crabula Cloak for {{USD|14.99|refnote}}.<br><br>''Embrace the enchanting mystique of the night.''
+{{Icon Name|Mischief Crabula Mask|iap}}{{!}}'''2023:''' The Mischief Crabula Mask for {{USD|2.99|refnote}}.<br><br>''Transform your visage into something dark and mysterious.''
+{{Icon Name|Feline Familiar Prop|iap}}{{!}}'''2022:''' The Feline Familiar Prop for {{USD|9.99|refnote}}.<br><br>''Can you pet the cat? Only at your own risk.''
+{{Icon Name|Cat Mask|iap}}{{!}}'''2022:''' The Cat Costume Pack contains the Cat Mask and Cat Cape for {{USD|19.99|refnote}}.<br><br>''A feline-inspired Cape and Mask for when you're feeling furry.''
+{{Icon Name|Mischief Withered Antlers|iap}}{{!}}'''2021:''' The Mischief Withered Antlers for {{USD|9.99|refnote}}.<br><br>''Celebrate Days of Mischief with this withered branch head accessory!''
+{{Icon Name|Mischief Witch Jumper|iap}}{{!}}'''2021:''' The Mischief Witch Jumper Pack contains the Mischief Witch Jumper and Mischief Witch Jumper Shoes for {{USD|9.99|refnote}}.<br><br>''Celebrate Days of Mischief with this enchanting witch outfit!''
+{{Icon Name|Mischief Spider Quiff|iap}}{{!}}'''2021:''' The Mischief Spider Quiff for {{USD|4.99|refnote}}.<br><br>''Celebrate Days of Mischief with this spidery mohawk hairstyle!''
+{{Icon Name|Mischief Pumpkin Prop|iap}}{{!}}'''2021:''' The Mischief Pumpkin Prop for {{USD|1.99|refnote}}.<br><br>''Celebrate Days of Mischief with this fierce Shared Spaces prop decoration!''
+{{Icon Name|Mischief Witch Hat|iap}}{{!}}'''2020:''' The Mischief Witch Hat for {{USD|9.99|refnote}}.<br><br>''Celebrate Days of Mischief with this enchanting witch hat!''
+{{Icon Name|Mischief Web Cape|iap}}{{!}}'''2020:''' The Mischief Web Cape for {{USD|14.99|refnote}}.<br><br>''Celebrate Days of Mischief with this spidery web cape!''
+{{Icon Name|Spooky Bat Cape|iap}}{{!}}'''2020:''' The Spooky Bat Cape was re-released with 12 Candles for {{USD|17.99|refnote}}.<br><br>''Celebrate Days of Mischief with this spooky bat cape with a special star pattern.''
+{{Icon Name|Mischief Pumpkin Hat|iap}}{{!}}'''2020:''' The Hungry Pumpkin Hat was re-released with 8 Candles for {{USD|11.99|refnote}}.<br><br>''Celebrate Days of Mischief with this hungry pumpkin-shaped hat.''
+Mischief Catch Up Pack.png{{!}}'''2020 (No longer available):''' The Mischief Catch Up Pack contains the Spooky Bat Cape and Hungry Pumpkin Hat for {{USD|29.99|refnote}}.<!--NEED DESC-->
+Spooky Bat Cape 2019 IAP.png{{!}}'''2019 (No longer available):''' The Spooky Bat Cape for {{USD|14.99|refnote}}.
+Hungry Pumpkin Hat IAP 2019.png{{!}}'''2019 (No longer available):''' The Hungry Pumpkin Hat for {{USD|9.99|refnote}}.
+|widths=185
+}}
+
+|tab11 = {{Icon| Day-of-Music-event-symbol-Ray.png | tab | label= Days of Music | link= }} 
+|c11   = <h3>[[Days of Music]]</h3> 
+* November 25, 2024 to December 11, 2024
+{{#tag:gallery
+|{{Icon Name|Music Marching Uniform Outfit|iap}}{{!}}'''2024:''' The Music Marching Uniform Outfit for {{USD|9.99|refnote}}.<br><br>''March with confidence in this sharply crafted suit.''
+|widths=185
+}}
+
+|tab12 = {{Icon| Days-of-Feast-event-symbol-Ray.png | tab  | label= Days of Feast | link= }} 
+|c12   = <h3>[[Days of Feast]]</h3>    
+*December 18, 2023 to January 7, 2024
+*December 19, 2022 to January 8, 2023
+*December 20, 2021 to January 9, 2022
+*December 21, 2020 to January 3, 2021
+*December 22, 2019 to January 2, 2020
+{{#tag:gallery
+|{{Icon Name|Winter Quilted Cape|iap}}{{!}}'''2023:''' The Winter Quilted Cape for {{USD|14.99|refnote}}.<br><br>''Tailored for braving any frozen landscape.''
+{{Icon Name|Cozy Hermit Boots|iap}}{{!}}'''2023:''' The Cozy Hermit Boots for {{USD|6.99|refnote}}.<br><br>''Clumsily (but lovingly) stitched by the Hermit's own hands.''
+{{Icon Name|Tournament Skyball Set|iap}}{{!}}'''2022:''' The Tournament Skyball Set for {{USD|14.99|refnote}}.<br><br>''A stonewrought pair of goalposts for the serious Skyball enthusiast.''
+{{Icon Name|Cozy Hermit Cape|iap}}{{!}}'''2022:''' The Cozy Hermit Cape for {{USD|14.99|refnote}}.<br><br>''No Hermits were harmed in the making of this luxurious fluffy white cape.''
+{{Icon Name|Winter Feast Snowglobe|iap}}{{!}}'''2021:''' The Winter Feast Snowglobe for {{USD|9.99|refnote}}.<br><br>''No matter the season, carry the memory of winter wherever you go.''
+{{Icon Name|Winter Ancestor Cape|iap}}{{!}}'''2021:''' The Winter Ancestor Cape for {{USD|9.99|refnote}}.<br><br>''Celebrate Days of Feast with this cozy Ancestor's Winter Cape.''
+{{Icon Name|Snowflake Hair Accessory|iap}}{{!}}'''2021:''' The Snowflake Hair Accessory for {{USD|1.99|refnote}}.<br><br>''Celebrate Days of Feast with this glistening Snowflake Accessory.''
+{{Icon Name|Feast Horns|iap}}{{!}}'''2020:''' The Days of Feast Horns for {{USD|14.99|refnote}}.<br><br>''Celebrate Days of Feast with these Glowing Horns.''
+{{Icon Name|Snowflake Cape|iap}}{{!}}'''2020:''' The Snowflake Cape for {{USD|14.99|refnote}}.<br><br>''Stay warm in this fluffy Snowflake Cape.''
+{{Icon Name|Feast Hat|iap}}{{!}}'''2019:''' The Days of Feast Pack contains the Feast Hat and 25 Candles for {{USD|6.99|refnote}}.<br><br>''Celebrate Days of Feast with a festive Holiday Hat.''
+|widths=185
+}}
+}}
+
+== Seasons ==
+<div style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+*{{Icon|10 Little Prince.png|label=Season of The Little Prince|inline_text}}
+*{{Icon|15-Aurora.png|label=Season of AURORA|inline_text}}
+*{{Icon|Season-of-The-Nine-Colored-Deer-icon.png|label=Season of The Nine-Colored Deer|inline_text}}
+*{{Icon|Season-of-Moomin-icon.png|label=Season of Moomin|inline_text}}
+*{{Icon|Season-of-the-Two-Embers-icon.png|label=Season of The Two Embers - Part 1|inline_text}}
+</div>
+
+{{Mobile_Tabber
+|tab1 = {{Icon| 10 Little Prince.png | tab | label= Season of The Little Prince | link= }} 
+|c1   = <h3>[[Season of The Little Prince]]</h3>
+*The Prince Scarf Cape and the Little Prince Fox were available in the shop from July 6, 2021 to August 29, 2021.
+*The Little Prince Asteroid Jacket was available in the shop (after completing the final Quest of the [[Season of The Little Prince]]) from August 30, 2021 to September 19, 2021.
+*March 24, 2025 to April 13, 2025, all items available during the [[Days of Bloom#2025|Sky x Le Petit Prince Encore]] event.
+<gallery>
+Little Prince Scarf Cape.png|The Little Prince Scarf Cape for {{USD|14.99|refnote}}. <br><br>''A scarf from the Little Prince, a one of a kind cape.''
+Season of little prince iap fox backpack iap.png|The Little Prince Fox for {{USD|9.99|refnote}}. <br><br>''A companion on your back and a decoration at home.''
+Little Prince Asteroid Jacket.png|The Little Prince Asteroid Jacket for {{USD|24.99|refnote}}. <br><br>''Wearing this magical cape, you can take your friends to the Little Prince's asteroids!''
+</gallery>
+
+|tab2 = {{Icon| 15-Aurora.png | tab | label= Season of AURORA | link= }} 
+|c2   = <h3>[[Season of AURORA]]</h3>
+* The Tiara We Can Touch, Runaway Hairstyle (after completing the first Quest of the [[Season of AURORA]]), Runaway Outfit (after completing the first Quest of the [[Season of AURORA]]), and the Voice of AURORA were available in the shop from October 17, 2022 to January 2, 2023.
+*The To the Love Outfit, Giving In Cape, and Wings of AURORA (after completing the final Quest of the [[Season of AURORA]] and attending the [[AURORA Concert]]) were available in the shop from December 8 17:00 PST (UTC-8) to January 2, 2023.
+<gallery>
+Aurora-Tiara-We-Can-Touch-Icon-IAP-Morybel-0146.png|The Tiara We Can Touch for {{USD|4.99|refnote}}.<br><br>''A golden tiara of moons and stars. Perfectly divine, just as you are.''
+Aurora-Runaway-Hairstyle-IAP-Morybel-0146.png|The Runaway Hairstyle for {{USD|2.99|refnote}}.<br><br>''Ready to be taken home.''
+Aurora-Runaway-Outfit-IAP-Morybel-0146.png|The Runaway Outfit for {{USD|9.99|refnote}}.<br><br>''A piece of heaven, suitable for dancing in the rain, or running away.''
+Voice-of-Aurora-Instrument-IAP-Morybel-0146.png|The Voice of AURORA for {{USD|14.99|refnote}}.<br><br>''Music can be such a beam of light.''
+SoAurora-To-The-Love-Outfit-IAP-Morybel-0146.png|The To the Love Outfit for {{USD|9.99|refnote}}.<br><br>''Live every page of Life unapologetically.''
+SoAurora-Giving-In-Cape-IAP-Morybel-0146.png|The Giving In Cape for {{USD|14.99|refnote}}.<br><br>''See the fire inside made known.''
+SoAURORA-Wings-of-AURORA-Cape-IAP-Morybel-0146.png|The Wings of AURORA for {{USD|24.99|refnote}}.<br><br>''Both immediate and timeless.''
+</gallery>
+
+|tab3 = {{Icon| Season-of-The-Nine-Colored-Deer-icon.png | tab | label= Season of The Nine-Colored Deer | link= }} 
+|c3   = <h3>[[Season of the Nine-Colored Deer]]</h3>
+* The Gift of the Nine-Colored Deer and the Radiance of the Nine-Colored Deer were available in the shop from January 15, 2024 to March 31, 2024, during the [[Season of the Nine-Colored Deer]].
+<gallery>
+Gift-of-the-Nine-Colored-Deer-IAP.png|The Gift of the Nine-Colored Deer contains a Mask and a Face Accessory for {{USD|14.99|refnote}}.<br><br>''A radiant illusion of the Nine-Colored Deer's prominent aura.''
+Radiance-of-the-Nine-Colored-Deer-IAP.png|The Radiance of the Nine-Colored Deer for {{USD|19.99|refnote}}.<br><br>''A luminous cape embodying the virtues of the Nine-Colored Deer.''
+</gallery>
+
+|tab4 = {{Icon| Season-of-Moomin-icon.png | tab | label= Season of Moomin | link= }} 
+|c4   = <h3>[[Season of Moomin]]</h3>
+*The Hattifattener Shoulder Buddy, Moomintroll Accessory Set, Roving Snufkin Robe Set, and Pointed Snufkin Hat were available in the shop from October 14, 2024 to December 29, 2024.
+*The Moominmamma's Masterpiece was available in the shop from December 09, 2024 to December 29, 2024.
+{{#tag:gallery
+|Moominmammas-Masterpiece-IAP.png {{!}} The Moominmamma's Masterpiece for {{USD|24.99|refnote}}.<br><br>''The warm embrace of unconditional love.<br>This cape transports you and friends you're holding hands with into a special memory of the Moominhouse.''
+Hattifattener-Shoulder-Buddy-IAP.png {{!}} The Hattifattener Shoulder Buddy for {{USD|2.99|refnote}}.<br><br>''Silent travelers with eyes only for the horizon.''
+Moomintroll-Accessory-Set-IAP.png {{!}} The Moomintroll Accessory Set contains a Hair Accessory and a Neck Accessory for {{USD|11.99|refnote}}.<br><br>''Curiously perked ears and an even curiouser tail.''
+Roving-Snufkin-Robe-Set-IAP.png {{!}} The Roving Snufkin Robe Set contains an Outfit and a Neck Accessory for {{USD|9.99|refnote}}.<br><br>''A sturdy and weathered robe and scarf suited for the whims of a wanderer.''
+Pointed-Snufkin-Hat-IAP.png {{!}} The Pointed Snufkin Hat for {{USD|4.99|refnote}}.<br><br>''Perfect for growing a tune beneath, until the time is just right.''
+|widths=185
+}}
+
+|tab5 = {{Icon| Season-of-the-Two-Embers-icon.png | tab | label= Season of The Two Embers - Part 1 | link= }} 
+|c5   = <h3>[[Season of The Two Embers - Part 1]]</h3>
+*The Butterfly Blossom Memento, Mini Manatee Accessory, and Cloak of Darkness were available in the shop from July 21, 2025 to October 5, 2025.
+*The Manatee Plush and Spirited Manatee Ensemble were available in the shop from July 28, 2025 to October 5, 2025.
+*Vestige of Dark Dragons was available in the shop from August 4, 2025 to October 5, 2025.
+*Projector of Memories is available in the shop from September 6, 2025. '''It's currently unavailable for purchase on Nintendo Switch.'''
+{{#tag:gallery
+| Projector-of-Memories-IAP.png {{!}} The Projector of Memories for {{USD|24.99|refnote}}.<br><br>''Relieve the heartfelt journey of an orphaned child navigating a world unraveling under Darkness—from any Shared Space. Viewing experience limited on some devices''
+Vestige-of-Dark-Dragon-headpiece-IAP.png {{!}} The Vestige of Dark Dragons contains a Neck Accessory and a Head Accessory for {{USD|11.99|refnote}}.<br><br>''Your menacing appearance compels others to flee your gaze.''
+Manatee-Plush-Prop-IAP.png {{!}} The Manatee Plush for {{USD|6.99|refnote}}.<br><br>''A cuddly companion for all the adventures ahead.''
+Spirited-Manatee-Ensemble-IAP.png {{!}} The Spirited Manatee Ensemble contains a Neck Accessory and a Head Accessory for {{USD|9.99|refnote}}.<br><br>''Embody a manatee's playful charm with this tail and accessory set.''
+Butterfly-Blossom-Memento-IAP.png {{!}} The Butterfly Blossom Memento for {{USD|2.99|refnote}}.<br><br>''An echo is all that remains of this sweet memory.''
+Mini-Manatee-Accessory-IAP.png {{!}} The Mini Manatee Accessory for {{USD|3.99|refnote}}.<br><br>''A tiny companion, perched and ready to face all that lies before you.''
+Cloak-of-Darkness-IAP.png {{!}} The Cloak of Darkness for {{USD|14.99|refnote}}.<br><br>''As the Darkness draws nears, it envelopes the Light within.''<ref>This typo was included in the original description of this item</ref>
+|widths=185
+}}
+
+}}
+
+== One-Time and Non-Reoccurring Events ==
+Some of the listed events have not yet been confirmed to return in future years, but it doesn't mean they won't come back.
+<div style="-moz-column-count: 3; -webkit-column-count: 3; column-count: 3;">
+*{{Icon|Icon hair event healing poppy.png|label=Days of Healing|inline_text}}
+*{{Icon|Kizuna-AI-Hair-Accessory-Icon.png|label=Kizuna AI|inline_text}}
+*{{Icon|AURORA-event-symbol-Ray.png|label=AURORA Encore Concerts|inline_text}}
+*{{Icon|Cinnamoroll-event-symbol.png|label=Sky × Cinnamoroll Pop-Up Cafe|inline_text}}
+*{{Icon|SkyFest-Wireframe-Cape-icon.png|label=SkyFest|inline_text}}
+*{{Icon|Tournament-event-symbol.png|label=Tournament of Triumph|inline_text}}
+*{{Icon|Wonderland-Stacked-Hat-icon.png|label=Sky × Alice's Wonderland Cafe|inline_text}}
+*{{Icon|Treasure-ticket-icon.png|label=Days of Treasure|inline_text}}
+</div>
+
+{{Mobile_Tabber
+|tab1 = {{Icon| Icon hair event healing poppy.png | tab | label= Days of Healing | link= }} 
+|c1   = <h3>[[Holidays and Special Events#Days of Healing - June 2020|Days of Healing]]</h3>
+*Was only available in the shop from May 18, 2020 to June 22, 2020.
+<gallery>
+Healing Pack IAP.png|The Healing Pack contained the Flower Hair Accessory and 75 Candles for {{USD|19.99|refnote}} to support COVID-19 relief efforts.
+</gallery>
+
+|tab2 = {{Icon| Kizuna-AI-Hair-Accessory-Icon.png | tab | label= Kizuna AI Collaboration | link= }} 
+|c2   = <h3>[[Holidays and Special Events#Kizuna AI Collaboration|Kizuna AI Collaboration]]</h3>   
+*Was only available in the shop from February 25, 2022 to March 10, 2022.
+{{#tag:gallery
+|{{Icon Name|Kizuna Hair|iap}}{{!}}The Kizuna AI Pack contained the Kizuna AI Hairstyle, Bow Accessory, and Cape for {{USD|19.99|refnote}}.<br><br>''Kizuna AI Cape + Kizuna AI Hairstyle + Kizuna AI Hair Accessory''
+|widths=185
+}}
+
+|tab3 = {{Icon| AURORA-event-symbol-Ray.png | tab | label= AURORA Encore Concerts | link= }} 
+|c3   = <h3>[[AURORA Encore Concerts]]</h3>
+*'''All IAPs listed above''' from the [[Season of AURORA]] and the Musical Voyage Sneakers were available in the shop from August 23, 2023 to September 3, 2023 during the [[AURORA Encore Concerts]].
+<gallery>
+Musical-Voyage-Sneakers-IAP.png|The Musical Voyage Sneakers for {{USD|6.99|refnote}}.<br><br>''Commemorate the record-breaking assembly of more than 10,000 attendees of AURORA'S Musical Voyage!''
+</gallery>
+
+|tab4 = {{Icon| Cinnamoroll-event-symbol.png | tab  | label= Cinnamoroll Pop-Up Cafe | link= }} 
+|c4   = <h3>[[Sky × Cinnamoroll Pop-Up Cafe]]</h3> 
+*Were available in the shop from April 27, 2024 to May 17, 2024.
+{{#tag:gallery
+|{{Icon Name|Cinnamoroll Mini Companion|iap}} {{!}} The Cinnamoroll Mini Companion for {{USD|6.99|refnote}}.<br><br>''Preciously perched upon your head to accompany your adventures.''
+{{Icon Name|Cinnamoroll Bowtie|iap}} {{!}} The Cinnamoroll Pop-Up Cafe Bowtie and Cloud Cape Pack contains a Cape and a Neck Accessory for {{USD|14.99|refnote}}.<br><br>''A cozy cape fashioned from fluffy clouds accented to resemble Cinnamoroll's famously swirled tail. Includes a blue bowtie that can be worn separately.''
+{{Icon Name|Swirled Hairstyle|iap}} {{!}} The Cinnamoroll Pop-Up Cafe Combo contains a Hair and Hair Accessory for {{USD|14.99|refnote}}.<br><br>''Infuse your look with whimsical wonder when wearing this cropped hairstyle with swirled bangs, paired with an iconic accessory featuring Cinnamoroll's signature floppy ears.''
+{{Icon Name|Cinnamoroll Pop-Up Cafe Plushie|iap}} {{!}} The Cinnamoroll Pop-Up Cafe Plushie for {{USD|14.99|refnote}}.<br><br>''An irresistibly cuddly companion that transforms the cafe into a haven of cuteness.''
+|widths=|spacing=small|captionalign=center
+}}
+
+|tab5 = {{Icon| SkyFest-Wireframe-Cape-icon.png | tab  | label= SkyFest| link= }} 
+|c5   = <h3>[[Sky Anniversary|SkyFest]]</h3><!--redirecting to the Sky Anniversary page because it's more relevant-->
+*Was available in the shop from July 12, 2024 to July 26, 2024.
+{{#tag:gallery
+|{{Icon Name|SkyFest Wireframe Cape|iap}} {{!}} The {{Icon Name|SkyFest Wireframe Cape|name}} for {{USD|19.99|refnote}}. <br><br>''A special commemoration of Sky's fifth Anniversary. Allows revising the festive transformation of Aviary Village.''
+|widths=185
+}}
+
+|tab6 = {{Icon| Tournament-event-symbol.png | tab |  label= Tournament of Triumph | link= }} 
+|c6   = <h3>[[Tournament of Triumph]]</h3><!--Tentatively placing in "non-returning" until TGC confirms if it will come back-->
+* Were available in the shop from July 29, 2024 to August 18, 2024.
+{{#tag:gallery
+|{{Icon Name|Golden Garland|iap}} {{!}} The Tournament Golden Garland for {{USD|4.99|refnote}}.<br><br>''Honor your team's triumphant collaboration with this glistening accessory.''
+{{Icon Name|Tournament Tunic|iap}} {{!}} The Tournament Tunic for {{USD|9.99|refnote}}.<br><br>''Let your accomplishments take center stage in minimalist elegance.''
+|widths=185
+}}
+
+|tab7 = {{Icon| Wonderland-Stacked-Hat-icon.png | tab | label= Alice's Wonderland Cafe | link= }} 
+|c7   = <h3>[[Sky x Alice’s Wonderland Cafe]]</h3>   
+*Were available in the shop from December 23, 2024 to January 12, 2025
+{{#tag:gallery
+|{{Icon Name|Wonderland Primrose Pinafore Dress|iap}}{{!}}'''2024:''' The Wonderland Primrose Pinafore Set for {{USD|11.99|refnote}}.<br><br>''Lose yourself in Alice's classically styled primrose yellow dress, perfectly paired with a blue hairbow.''
+{{Icon Name|Wonderland Cafe Corridor|iap}}{{!}}'''2024:''' The Wonderland Cafe Corridor for {{USD|19.99|refnote}}.<br><br>''Conjures a passageway into the whimsical Wonderland Cafe for adventure of unmatched proportions.''
+|widths=185
+}}
+
+|tab8 = {{Icon| Treasure-ticket-icon.png | tab  | label= Days of Treasure | link= }} 
+|c8   = <h3>[[Days of Treasure]]</h3>
+*March 3, 2025 to March 16, 2025
+{{#tag:gallery
+|{{Icon Name|Treasure Seeker's Bounty outfit|iap}}{{!}}'''2025:''' The Treasure Seeker's Bounty for {{USD|14.99|refnote}}. <br><br>''Dig into untapped adventure by customizing color accents on this eyepatch mask and trouser set. Includes {{Cost|D|color=black}}x 1 & {{Cost|D|color=white}}x 1!''
+|widths=185
+}}
+}}
+== Retired ==
+===Winter Musician's Pack=== 
+*Was only available in the shop from July 18, 2019 to January 23, 2020.
+<gallery>
+Winter Musician Pack IAP.png|The Winter Musician Pack contained the [[Respectful Pianist]]'s Hair and Piano, and [[Music Sheets]] #4 and #5 from the [[Season of Rhythm]] for {{USD|19.99|refnote}}.
+</gallery>
+
+===Gratitude Fur Cape Pack===
+*Was only available in the shop from January 24, 2020 to April 5, 2020.
+<gallery>
+Gratitude Fur Cape Pack IAP.png|The Gratitude Fur Pack contained the [[Saluting Protector]]'s Mask and Cape, and [[Music Sheets]] #7 and #8 from the [[Season of Gratitude]] for {{USD|19.99|refnote}}
+</gallery>
+
+
+===[[Sky_for_PlayStation#One-Time_PlayStation®_Plus_Packs|PlayStation® Plus Packs]]===
+*The Sky: Children of the Light Summer Pack was available in the PlayStation Store from July 5, 2024 to October 20, 2024 for PlayStation Plus members only.
+*The Spring Pack was available in the PlayStation Store from April 16, 2024 to July 2024 for PlayStation Plus members only.
+*The PlayStation® Plus Spring Pack (2024) was available in the PlayStation Store from January 15, 2024 to May 2024 for PlayStation Plus members only.
+*The PlayStation® Plus Fall Pack was available in the PlayStation Store from October 17, 2023 to February 2024 for PlayStation Plus members only.
+*The PlayStation® Plus Summer Pack was available in the PlayStation Store from June 27, 2023 to October 16, 2023 for PlayStation Plus members only.
+* The PlayStation® Plus Spring Pack (2023) was available in the PlayStation Store from April 13, 2023 to August 26, 2023 for PlayStation Plus members only.
+*The PlayStation® Plus Bonus Pack was available in the PlayStation Store from February 14, 2023 to April 12, 2023 for PlayStation Plus members only.
+
+<gallery>
+Sky PS Plus Summer Pack 2024 icon.png|The Sky: Children of the Light Summer Pack contained 30 Regular Candles, 3 Shared Memory Spells, 3 Large Birthday Cake Spells, and 3 Rainbow Color Trail Spells for free.<br><br>''Celebrate the spirit of friendship with the Sky: Children of the Light Summer Pack!''
+Sky PS Plus Spring Pack 2024_2 icon.jpg|The Spring Pack contained 30 Candles, 3 Shared Space Spells, 3 Message Gondola Spells, and 3 Aquamarine Color Trail Spells for free.<br><br>''Celebrate the spirit of friendship with the Sky: Children of the Light Spring Pack!''
+Sky PS Plus Spring Pack 2024 icon.jpg|The PlayStation® Plus Spring Pack (2024) contained 30 Candles, 3 Shared Space Spells, 3 Message Crane Spells, and 3 Exclusive PlayStation® Slate Color Trail Spells for free.<br><br>''Celebrate the spirit of friendship with the Sky: Children of the Light PlayStation® Plus Spring Pack!''
+Sky PS Plus 2023 Fall Pack icon.png|The PlayStation® Plus Fall Pack contains 30 Candles, 3 Shared Space Spells, 3 Message Boat Spells, and 3 Exclusive Pink Color Trail Spells for free.<br><br>''Celebrate the spirit of friendship with the Sky: Children of the Light PlayStation® Plus Fall Pack!''
+Sky PS Plus Summer Pack icon.png|The PlayStation® Plus Summer Pack contained 30 Candles, 3 Shared Memory Candles, 3 Paper Lantern Message Spells, and 3 Exclusive Orange Color Trail Spells for free.<br><br>''Celebrate the spirit of friendship with the Sky: Children of the Light PlayStation® Plus Summer Pack!''
+Sky PS Plus Spring Pack icon.jpg|The PlayStation® Plus Spring Pack (2023) contained 30 Candles, 3 Shared Space Spells, 3 Message Crane Spells, and 3 Exclusive Green Color Trail Spells for free.<br><br>''Celebrate the spirit of friendship with the Sky: Children of the Light PlayStation® Plus Spring Pack!''
+Sky PS Plus Bonus Pack icon.jpg|The PlayStation® Plus Bonus Pack contained 30 Candles, 3 Shared Memory Spells, 3 Message Boat Spells, and 3 Exclusive Blue Color Trail Spells for free.<br><br>''Celebrate the spirit of friendship with the Sky: Children of the Light PlayStation® Plus Bonus Pack!''
+</gallery>
+
+==Summary==
+List of IAP and Packs on their first appearance, all prices in USD. Does not include repeated occurrences, candle packs, and seasonal packs. 
+
+{| class="fandom-table"
+!'''RELEASE DATE'''
+!'''ITEM''' 
+!'''PRICE'''
+|-
+|2019-07-19
+|[[Capes#Starter Pack|Starter Pack]]
+|$4.99
+|-
+|2019-09-22
+|[[Secret Area#Founder's Pack|Founder's Pack]]
+|$29.99
+|-
+|2019-07-18
+|[[Premium_Candle_Shop#Winter_Musician's_Pack|Winter Musician's Pack]]
+|$19.99
+|-
+|2019-10-27
+|[[Days of Mischief#Spooky Bat Cape|Spooky Bat Cape]]
+|$17.99<ref>The Spooky Bat Cape was priced at $14.99 in 2019. In 2020 it was bundled with 12 Candles and its price increased to $17.99 </ref>
+|-
+|2019-10-27
+|[[Days of Mischief#Hungry Pumpkin Hat|Hungry Pumpkin Hat]]
+|$11.99<ref>The Hungry Pumpkin Hat was priced at $9.99 in 2019. In 2020 it was bundled with 8 Candles and its price increased to $11.99 </ref>
+|-
+|2019-12-22
+|[[Days of Feast#Days of Feast Pack|Days of Feast Pack]]
+|$6.99
+|-
+|2020-01-24
+|[[Premium_Candle_Shop#Gratitude_Fur_Cape_Pack|Gratitude Fur Cape Pack]]
+|$19.99
+|-
+|2020-02-02
+|[[Days of Love#Days of Love Pack|Days of Love Pack]]
+|$19.99
+|-
+|2020-04-20
+|[[Days of Nature#Earth Cape|Earth Cape]] 
+| $4.99
+|-
+|2020-05-18
+|[[Days of Healing#Healing Pack|Healing Pack]]
+|$19.99
+|-
+|2020-10-08
+|[[Lazy_Days#Lantern_Pack|Lantern Pack]] <!-- changed from "Days of Summer Lights Pack" -->
+|$19.99
+|-
+|2020-10-22
+|[[Days of Mischief#Mischief Witch Hat|Mischief Witch Hat]]
+|$9.99
+|-
+|2020-10-22
+|[[Days of Mischief#Mischief Web Cape|Mischief Web Cape]]
+|$14.99
+|-
+|2020-12-21
+|[[Days of Feast#Days of Feast Horns|Days of Feast Horns]]
+|$14.99
+|-
+|2020-12-28
+| [[Days of Feast#Snowflake Cape|Snowflake Cape]]
+|$14.99
+|-
+|2021-02-08
+|[[Days of Fortune#Days of Fortune Orange|Days of Fortune Orange]]
+|$0.99
+|-
+|2021-02-08
+|[[Days of Fortune#Days of Fortune Pack|Days of Fortune Pack]] 
+| $24.99
+|-
+|2021-02-08
+|[[Days of Fortune#Days of Fortune Wool Hat|Days of Fortune Wool Hat]]
+| $9.99
+|-
+|2021-02-12
+|[[Days of Love#Days of Love Seesaw Pack|Days of Love Seesaw Pack]] 
+|$19.99
+|-
+|2021-02-12
+|[[Days_of_Love#Days_of_Love_Swing_Pack|Days of Love Swing Pack]] 
+|$19.99
+|-
+|2021-03-22
+|[[Days of Bloom#Bloom Teaset|Bloom Teaset]]
+|$19.99 
+|-
+|2021-04-19
+|[[Days of Nature#Ocean Cape|Ocean Cape]]
+|$14.99
+|-
+|2021-04-19
+|[[Days of Nature#Ocean Necklace|Ocean Necklace]]
+|$1.99
+|-
+|2021-06-14
+|[[Days of Rainbow#Rainbow Flower Pack|Rainbow Flower Pack]]
+|$19.99
+|-
+|2021-06-14
+|[[Days of Rainbow#Rainbow Beanie Hat|Rainbow Beanie Hat]]
+|$9.99
+|-
+|2021-06-29
+|[[Sky for Nintendo Switch#Nintendo Pack|Red & Blue Starter Pack]] <!-- changed from "Nintendo Pack" -->
+|$29.99
+|-
+|2021-07-06
+|[[Season of The Little Prince#Little Prince Scarf Cape|Little Prince Scarf Cape]]
+|$14.99
+|-
+|2021-07-06 <!-- changed the date from 2021-07-14 -->
+|[[Season of The Little Prince#Little Prince Fox Prop|Little Prince Fox Prop]]
+|$9.99
+|-
+|2021-08-12
+|[[Days of Summer#Days of Summer Umbrella|Days of Summer Umbrella]]
+| $19.99
+|-
+|2021-08-12
+|[[Lazy_Days#Seashell_Hairpin|Seashell Hairpin]] <!-- changed from "Days of Summer Shell Hairpin" -->
+|$0.99
+|-
+|2021-08-30
+|[[Season of The Little Prince#Little Prince Asteroid Jacket|Little Prince Asteroid Jacket]]
+|$24.99
+|-
+|2021-09-29
+|[[Lazy_Days#Bunny_Accessory|Bunny Accessory]] <!-- changed from "Days of Summer Lights Accessory" -->
+|$2.99
+|-
+|2021-10-18 
+|[[Days of Mischief#Mischief Withered Antlers|Mischief Withered Antlers]]
+|$9.99
+|-
+| 2021-10-18
+|[[Days of Mischief#Mischief Witch Jumper|Mischief Witch Jumper]]
+|$9.99
+|-
+|2021-10-18
+| [[Days of Mischief#Mischief Spider Quiff|Mischief Spider Quiff]]
+|$4.99 
+|-
+|2021-10-18
+|[[Days of Mischief#Mischief Pumpkin Prop|Mischief Pumpkin Prop]]
+|$1.99 
+|-
+|2021-12-20
+|[[Days of Feast#Winter Feast Snowglobe|Winter Feast Snowglobe]]
+|$9.99
+|-
+|2021-12-20
+|[[Days of Feast#Winter Ancestor Cape|Winter Ancestor Cape]]
+|$9.99
+|-
+|2021-12-20
+|[[Days of Feast#Snowflake Hair Accessory|Snowflake Hair Accessory]]
+|$1.99
+|-
+|2022-01-24
+|[[Days of Fortune#Days of Fortune Fish Pack|Days of Fortune Fish Pack]]
+|$19.99
+|-
+|2022-01-24
+|[[Days of Fortune#Days of Fortune Fish Accessory|Days of Fortune Fish Accessory]]
+|$1.99
+|-
+| 2022-02-07
+| [[Days of Love#Days of Love Gondola Pack|Days of Love Gondola Pack]]
+| $19.99
+|-
+|2022-02-25
+|[[Kizuna AI#Kizuna AI Pack|Kizuna AI Pack]]
+|$19.99
+|-
+|2022-03-28
+| [[Days of Bloom#Purple Bloom Teaset|Purple Bloom Teaset]]
+|$19.99
+|-
+|2022-04-18
+|[[Days of Nature#Nature Turtle Cape|Nature Turtle Cape]]
+|$14.99
+|-
+|2022-04-18
+|[[Days of Nature#Nature Turtle Pack|Nature Turtle Pack]] 
+|$19.99
+|-
+|2022-05-23
+| [[Harmony Hall#Fledgling Harp|Fledgling Harp]]
+|$4.99
+|-
+|2022-05-23 
+|[[Harmony Hall#Rhythm Guitar|Rhythm Guitar]]
+|$14.99
+|-
+|2022-05-23
+|[[Harmony Hall#Triumph Handpan|Triumph Handpan]]
+|$19.99
+|-
+|2022-06-30
+|[[Days of Rainbow#Double Rainbow Pack|Double Rainbow Pack]]
+|$9.99
+|-
+|2022-06-30
+|[[Days of Rainbow#Rainbow Earring|Rainbow Earring]]
+|$2.99
+|-
+| 2022-06-30
+| [[Days of Rainbow#Rainbow Headphones|Rainbow Headphones]]
+|$9.99
+|-
+|2022-07-18
+|[[Sky Anniversary#TGC Guitar Pack|TGC Guitar Pack]] 
+| $29.99
+|-
+|2022-08-22
+|[[Days of Sunlight#Campfire Snack Kit|Campfire Snack Kit]] 
+|$19.99
+|-
+|2022-08-22
+|[[Days of Sunlight#Jelly Shoulder Buddy|Jelly Shoulder Buddy]] 
+| $2.99
+|-
+|2022-10-17
+|[[Season of AURORA#Tiara We Can Touch|Tiara We Can Touch]]
+|$4.99
+|-
+|2022-10-17
+|[[Season of AURORA#Runaway Hairstyle|Runaway Hairstyle]] 
+| $2.99
+|-
+|2022-10-17
+|[[Season of AURORA#Runaway Outfit|Runaway Outfit]]
+|$9.99
+|-
+|2022-10-17
+|[[Season of AURORA#Voice of AURORA|Voice of AURORA]]
+|$14.99
+|-
+|2022-12-08
+|[[Season of AURORA#To The Love Outfit|To The Love Outfit]]
+|$9.99
+|-
+|2022-12-08
+|[[Season of AURORA#Giving In Cape|Giving In Cape]]
+|$14.99
+|-
+|2022-12-08
+|[[Season of AURORA#Wings of AURORA|Wings of AURORA]]
+|$24.99
+|-
+|2022-10-24
+|[[Days of Mischief#Feline Familiar Prop|Feline Familiar Prop]]
+| $9.99
+|-
+|2022-10-24
+|[[Days of Mischief#Cat Costume Pack|Cat Costume Pack]]
+|$19.99
+|-
+|2022-12-06
+|[[Sky for PlayStation#Journey Pack|Journey Pack]]
+|$24.99
+|-
+|2022-12-19
+|[[Days of Feast#Tournament Skyball Set|Tournament Skyball Set]]
+|$14.99
+|-
+|2022-12-19
+|[[Days of Feast#Cozy Hermit Cape|Cozy Hermit Cape]]
+|$14.99
+|-
+|2023-01-20
+|[[Days of Fortune#Days of Fortune Enchanted Umbrella|Days of Fortune Enchanted Umbrella]]
+|$14.99
+|-
+|2023-01-20
+|[[Days of Fortune#Days of Fortune Muralist's Smock|Days of Fortune Muralist's Smock]]
+|$9.99
+|-
+|2023-02-13
+|[[Days of Love#Days of Love Classy Cravat|Days of Love Classy Cravat]]
+|$4.99
+|-
+|2023-02-13
+|[[Days of Love#Days of Love Serendipitous Scepter|Days of Love Serendipitous Scepter]]
+|$14.99
+|-
+| 2023-03-20
+|[[Days of Bloom#Bloom Picnic Basket|Days of Bloom Picnic Basket]]
+|$19.99
+|-
+|2023-03-20
+|[[Days of Bloom#Bloom Gardening Tunic|Days of Bloom Gardening Tunic]]
+| $9.99
+|-
+|2023-04-20
+|[[Days of Nature#Nature Glasses Pack|Nature Glasses Pack]]
+|$19.99
+|-
+|2023-04-20
+|[[Days of Nature#Nature Sonorous Seashell|Nature Sonorous Seashell]]
+|$4.99
+|-
+|2023-06-01
+|[[Days of Rainbow#Dark Rainbow Tunic|Dark Rainbow Tunic]]
+|$14.99
+|-
+|2023-06-01
+|[[Days of Rainbow#Dark Rainbow Earring Pack|Dark Rainbow Earrings]]
+|$9.99
+|-
+|2023-07-03
+|[[Days of Music#Triumph Violin|Triumph Violin]]
+|$19.99
+|-
+|2023-07-17
+|[[Sky Anniversary#Anniversary Plush|Anniversary Plush]]
+|$9.99 
+|-
+|2023-08-23
+|[[AURORA Encore Concerts#Musical Voyage Sneakers|Musical Voyage Sneakers]]
+|$6.99
+|-
+|2023-09-11
+| [[Days of Sunlight#Sunlight Surfboard|Sunlight Surfboard]]
+|$14.99
+|-
+|2023-09-11
+|[[Days of Sunlight#Sunlight Chunky Sandals|Sunlight Chunky Sandals]]
+|$9.99
+|-
+|2023-10-02 
+|[[Days of Style#Style Wide-Leg Jeans|Style Wide-Leg Jeans]]
+|$9.99
+|-
+|2023-10-02
+|[[Days of Style#Style Bunny Slippers|Style Bunny Slippers]]
+|$6.99
+|-
+|2023-10-02
+|[[Days of Style#Style Heart Sunglasses|Style Heart Sunglasses]]
+|$4.99
+|-
+|2023-10-02
+|[[Days of Style#Style Flame Sunglasses|Style Flame Sunglasses]]
+|$2.99
+|-
+|2023-10-23
+|[[Days of Mischief#Mischief Gossamer Cape|Mischief Gossamer Cape]]
+|$14.99
+|-
+|2023-10-23
+|[[Days of Mischief#Mischief Crabula Cloak|Mischief Crabula Cloak]]
+|$14.99
+|-
+|2023-10-23
+|[[Days of Mischief#Mischief Crabula Mask|Mischief Crabula Mask]]
+|$2.99
+|-
+|2023-11-27
+|[[Aviary’s Firework Festival#Moth Appreciation Pack|Moth Appreciation Pack]]
+|$9.99
+|-
+|2023-11-27
+|[[Aviary’s Firework Festival#Sparrow Appreciation Pack|Sparrow Appreciation Pack]]
+|$9.99
+|-
+|2023-12-18
+|[[Days of Feast#Winter Quilted Cape|Winter Quilted Cape]]
+|$14.99
+|-
+| 2023-12-18
+|[[Days of Feast#Cozy Hermit Boots|Cozy Hermit Boots]]
+|$6.99
+|-
+|2024-01-15 
+|[[Season of the Nine-Colored Deer#Gift of the Nine-Colored Deer|Gift of the Nine-Colored Deer]]
+|$14.99
+|-
+|2024-01-15
+|[[Season of the Nine-Colored Deer#Radiance of the Nine-Colored Deer|Radiance of the Nine-Colored Deer]]
+|$19.99
+|-
+|2024-01-29
+|[[Days of Fortune#Days of Fortune Dragon Vestment|Days of Fortune Dragon Vestment]]
+|$9.99
+|-
+|2024-01-29
+|[[Days of Fortune#Days of Fortune Dragon Stole|Days of Fortune Dragon Stole]]
+|$14.99
+|-
+|2024-01-29
+|[[Days of Fortune#Days of Fortune Dragon Bangles|Days of Fortune Dragon Bangles]]
+|$1.99 
+|-
+|2024-02-12
+|[[Days of Love#Days of Love Meteor Mantle|Days of Love Meteor Mantle]]
+|$17.99
+|-
+|2024-03-25
+|[[Days of Bloom#Bloom Lilypad Umbrella|Bloom Lilypad Umbrella]]
+|$14.99
+|-
+|2024-04-27
+|[[Sky × Cinnamoroll Pop-Up Cafe#Cinnamoroll Pop-Up Cafe Mini Companion|Cinnamoroll Pop-Up Cafe Mini Companion]]
+|$6.99
+|-
+|2024-04-27
+|[[Sky × Cinnamoroll Pop-Up Cafe#Cinnamoroll Pop-Up Cafe Bowtie and Cloud Cape|Cinnamoroll Pop-Up Cafe Bowtie and Cloud Cape]]
+|$14.99 
+|-
+|2024-04-27
+|[[Sky × Cinnamoroll Pop-Up Cafe#Cinnamoroll Pop-Up Cafe Combo|Cinnamoroll Pop-Up Cafe Combo]]
+|$14.99
+|-
+|2024-04-27
+|[[Sky × Cinnamoroll Pop-Up Cafe#Cinnamoroll Pop-Up Cafe Plushie|Cinnamoroll Pop-Up Cafe Plushie]]
+| $14.99
+|-
+|2024-05-27
+|[[Days of Nature#Nature Wave Pack|Nature Wave Pack]]
+|$19.99
+|-
+|2024-05-27
+| [[Days of Nature#Nature Wave-Touched Hair|Nature Wave-Touched Hair]]
+|$6.99
+|-
+|2024-06-24
+|[[Days of Color#Dark Rainbow Loafers|Dark Rainbow Loafers]]
+|$19.99
+|-
+|2024-06-24
+|[[Days of Color#Color Bubble Machine|Color Bubble Machine]] 
+|$14.99
+|-
+|2024-07-12
+|[[Sky Anniversary#SkyFest Wireframe Cape|SkyFest Wireframe Cape]]
+|$19.99
+|-
+|2024-07-12
+|[[Sky Anniversary#SkyFest Oreo Headband|SkyFest Oreo Headband]]
+|$4.99
+|-
+|2024-07-29
+|[[Tournament_of_Triumph#Tournament Golden Garland|Tournament Golden Garland]]
+|$4.99
+|-
+|2024-07-29
+|[[Tournament_of_Triumph#Tournament Tunic|Tournament Tunic]]
+|$9.99
+|-
+|2024-08-26
+|[[Days_of_Sunlight#Sunlight Woven Wrap|Sunlight Woven Wrap]]
+|$14.99
+|-
+|2024-08-26
+|[[Days_of_Sunlight#Sunlight Helios Hoops|Sunlight Helios Hoops]]
+|$2.99
+|-
+|2024-09-16
+|[[Days_of_Moonlight#Moonlight Frock and Updo|Moonlight Frock and Updo]]
+|$14.99
+|-
+|2024-09-16
+|[[Days_of_Moonlight#Moonlight Earrings|Moonlight Earrings]]
+|$2.99
+|-
+|2024-09-30
+| [[Days_of_Style#Style Dapper Trio|Style Dapper Trio]]
+|$14.99
+|-
+|2024-10-14
+|[[Season of Moomin#Hattifattener Shoulder Buddy|Hattifattener Shoulder Buddy]]
+|$2.99
+|-
+|2024-10-14 
+|[[Season of Moomin#Moomintroll Accessory Set|Moomintroll Accessory Set]]
+|$11.99
+|-
+|2024-10-14
+|[[Season of Moomin#Roving Snufkin Robe Set|Roving Snufkin Robe Set]]
+|$9.99
+|-
+|2024-10-14
+|[[Season of Moomin#Pointed Snufkin Hat|Pointed Snufkin Hat]]
+|$4.99
+|-
+|2024-12-09
+|[[Season_of_Moomin#Moominmamma's_Masterpiece|Moominmamma's Masterpiece]]
+|$24.99
+|-
+|2024-10-21
+|[[Days of Mischief#Mischief Withered Broom|Mischief Withered Broom]]
+|$19.99
+|-
+|2024-10-21
+|[[Days of Mischief#Mischief Raven-Feathered Cloak|Mischief Raven-Feathered Cloak]]
+|$17.99
+|-
+|2024-11-25
+|[[Days of Music#Fledgling Upright Piano|Fledgling Upright Piano]]
+|$4.99
+|-
+|2024-11-25
+|[[Days of Music#Marching Band Outfit|Music Marching Uniform Outfit]]
+|$9.99
+|-
+|2024-12-23
+|[[Days of Feast#Wonderland Primrose Pinafore Set|Wonderland Primrose Pinafore Set]]
+|$11.99
+|-
+|2024-12-23
+|[[Days of Feast#Wonderland Cafe Corridor|Wonderland Cafe Corridor]]
+|$19.99
+|-
+|2025-01-27
+|[[Days_of_Fortune#Fortune_Snake_Coif_and_Cloak|Fortune Snake Coif and Cloak]]
+|$19.99
+|-
+|2025-01-27
+|[[Days_of_Fortune#Fortune_Hand_Fan|Fortune Hand Fan]]
+|$4.99
+|-
+|2025-02-10
+|[[Days_of_Love#Days_of_Love_Amethyst-Tipped_Tails|Days of Love Amethyst-Tipped Tails]]
+|$6.99
+|-
+|2025-02-10
+|[[Days_of_Love#Days_of_Love_Amethyst_Accessory|Days of Love Amethyst Accessory]]
+|$6.99
+|-
+|2025-03-03
+|[[Days_of_Treasure#Treasure_Seeker's_Bounty|Treasure Seeker's Bounty]]
+|$14.99
+|-
+|2025-03-17
+|[[Sky_for_PlayStation#Transcendent_Journey_Pack|Transcendent Journey Pack]]
+|$24.99
+|-
+|2025-03-24
+|[[Days_of_Bloom#Days_of_Bloom_Rose_Cape|Bloom Rose-Embroidered Cape]]
+|$14.99
+|-
+|2025-04-28
+|[[Days_of_Nature#Ocean_Sea_Foam_Set|Ocean Sea Foam Set]]
+|$24.99
+|-
+|2025-04-28
+|[[Days_of_Nature#Ocean_Waves_Mask|Ocean Waves Mask]]
+|$19.99
+|-
+|2025-05-26
+|[[Days_of_Color/2025#Rainbow_Face_Paint_mask|Rainbow Facepaint]]
+|$19.99
+|-
+|2025-05-26
+|[[Days_of_Color/2025#Rainbow_Ribbon_Shawl|Rainbow Shawl]]
+|$14.99
+|-
+|2025-07-07
+|[[Sky_Anniversary#TGC_Wireframe_Cape|TGC Wireframe Cape]]
+|$19.99
+|-
+|2025-07-07
+|[[Sky_Anniversary#Anniversary_Cinema_Set|Anniversary Cinema Set]]
+|$4.99
+|-
+|2025-07-21
+|[[Season_of_The_Two_Embers_-_Part_1#Butterfly_Blossom_Memento|Butterfly Blossom Memento]]
+|$2.99
+|-
+|2025-07-21
+|[[Season_of_The_Two_Embers_-_Part_1#Mini_Manatee_Accessory|Mini Manatee Accessory]]
+|$3.99
+|-
+|2025-07-21
+|[[Season_of_The_Two_Embers_-_Part_1#Cloak_of_Darkness|Cloak of Darkness]]
+|$14.99
+|-
+|2025-07-28
+|[[Season_of_The_Two_Embers_-_Part_1#Manatee_Plush|Manatee Plush]]
+|$6.99
+|-
+|2025-07-28
+|[[Season_of_The_Two_Embers_-_Part_1#Spirited_Manatee_Ensemble|Spirited Manatee Ensemble]]
+|$9.99
+|-
+|2025-08-04
+|[[Season_of_The_Two_Embers_-_Part_1#Vestige_of_Dark_Dragons|Vestige of Dark Dragons]]
+|$11.99
+|-
+|2025-08-11
+|[[Sky_Anniversary#Anniversary_Gown_Ensemble|Anniversary Gown Ensemble]]
+|$9.99
+|-
+|2025-08-11
+|[[Sky_Anniversary#Anniversary_Tuxedo_Cape|Anniversary Tuxedo Cape]]
+|$14.99
+|-
+|2025-09-01
+|[[Days_of_Sunlight#Sunlight_Bonnet_Bundle|Sunlight Bonnet Bundle]]
+|$14.99
+|-
+|2025-09-06
+|[[Season_of_The_Two_Embers_-_Part_1#Projector_of_Memories|Projector of Memories]]
+|$24.99
+|-
+|2025-09-29
+|[[Days_of_Moonlight#Moonlight_Garland_Cape|Moonlight Garland Cape]]
+|$14.99
+|-
+! colspan="2" |'''TOTAL'''
+!'''$1,980.48'''
+|}
+
+==References==
+<references />
+
+[[pt-br:Loja]]
+[[fr:Boutique de Bougies Premium]]
+
+[[Category:Collectibles]]
+[[Category:Cosmetics]]

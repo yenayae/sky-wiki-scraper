@@ -1,0 +1,62 @@
+{{WIP
+|pagetype = elder
+|placedby =
+|comment  =
+}}
+{{Spirit Infobox
+|type       = Elder
+|image      = Elder-Spirit-Wasteland.png
+|emote_type = none
+|cosmetics  = {{Spirit Item||Hair|infobox|label=Wasteland Elder Hair}}<!--{{Spirit Item||Mask|infobox|label=Wasteland Elder Mask}}-->
+|realm      = Golden Wasteland
+|location   = Wasteland Temple
+|related    = {{Spirit Group|elder|infobox|exclude={{PAGENAME}}}}
+}}
+
+The '''Elder of the Wasteland''' (also known as '''Wasteland Elder''') can be found at the [[Wasteland Temple|Temple]] at the end of the [[Battlefield]] in [[Golden Wasteland]]. Relive the Elder's memory to activate all the Spirits that you previously found in the [[Golden Wasteland]] and open the way to [[Vault of Knowledge]]. 
+
+==Memory==
+<div>
+{{#ev:youtube|YIdxCjG_wWg||inline|Wasteland Elder Cutscene}}
+The mighty Elder, wielding a spear and shield, jumps down from high above and lands next to the small child (you). The Elder thrusts their spear and swings their shield. With a final swing of the spear, the Elder collapses to the ground. The child walks over with flame in hand and places it on their spear. The spear begins to glow and the Elder uses it as support to stand back up. Their robes begin to illuminate as they wave their spear upwards, ejecting the flame into the sky.
+</div>
+{{Clear}}
+
+==Cosmetics==
+===<span id="Hair">Ultimate Hair</span>===
+The Ultimate Hair costs {{Cost|6 AC}} and is only available once you have completed the Golden Wasteland [[Constellation]]. It is short mohawk hairstyle with long hair at the bottom, which is styled in big triangle-shaped sections that stick out.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} Ultimate Hair icon
+{{Icon Name||Hair|real}} {{!}} Ultimate Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+<!--===<span id="Mask">Ultimate Shield Mask</span>===
+The Ultimate Shield Mask costs {{Cost|500 AC}}.
+
+[[File:Elder-Mask-Icon-Wasteland-Morybel-0146.png|x125px]]
+[[File:<>.png|x125px]]-->
+
+==Friendship Tree==
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Wasteland Elder
+<!--|image = Wasteland Elder asc.jpg-->
+
+<!--|nodeC2 = Elder-Mask-Icon-Wasteland-Morybel-0146.png 500 AC-->
+|nodeC1 = hair 6 AC
+}}<section end="Friendship Tree" />
+
+==Trivia==
+*The Elder of the Wasteland is featured in a piece of merch from thatskyshop, in the form of the [[That Sky Shop/Wave 5#Elder of the Wasteland Pin|Elder of the Wasteland Pin]]. It has a STAR feature which allows you and the friends holding your hand to teleport to the Elder Temple in Golden Wasteland.
+
+==Gallery==
+<gallery widths="200">
+Wasteland Elder asc.jpg
+Elder-Spirit-Wasteland-unarmed.png
+Elder-Spirit-Wasteland-back.png
+</gallery>
+
+[[fr:Ancien du Désert]]
+[[pt-br:Ancião do Sertão]]
+[[de:Ältester der Ödnis]]

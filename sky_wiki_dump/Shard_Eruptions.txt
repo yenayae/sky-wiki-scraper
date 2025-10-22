@@ -1,0 +1,726 @@
+[[File:Realm-Marked-with-Shard-Eruption-at-Home.jpg|thumb|250px|Daylight Prairie portal in Home with red shards indicating Shard Eruption event is happening]]
+[[File:Realm-Marked-with-Shard-Eruption-at-Aviary.jpg|thumb|250px|Daylight Prairie portal in Aviary Village with red shards indicating Shard Eruption event is happening]]
+<section begin="Summary" />A '''Shard Eruption''' is a gameplay system introduced with the [[Season of Shattering]]. Almost every day, Shards periodically erupt from the mountain on the horizon, falling multiple times a day in one predetermined location in the [[Realm]], indicated by the embedded shards on the Realm's portal. The exact location in the Realm follows a set [[Shard Eruptions#Schedule|schedule]].
+
+Completing [[Shard Eruptions#Strong_Eruptions|Strong Eruptions]] is required in order to reach the [[Winged Light#Maximum Possible Winged Light|maximum total of Winged Light]] due to the existence of [[Children of Light#Shard Memories (6)|Shard Memories]].<section end="Summary" />
+
+Players can use Strong Eruptions as an alternative way of getting [[Ascended Candle]]s instead of going through the [[Eye of Eden]]. You can participate as in as many eruptions as you want, but you'll only get the reward once a day.
+
+==Today's Shard==
+<!-- For Translators, the stings that are followed by a "TR" comment is the visible English that needs to be translated. --><!--
+-->{{#if:{{CURRENTDAY}}}} <!--hidden string to reduce cache expiry--><!--
+-->{{#vardefine: todayDay | {{Game Stat|today|format=d}} }}<!--
+-->{{#vardefine: todayWeekday | {{Game Stat|today|format=D}} }}<!--
+-->{{#vardefine: todayWeekdayNum | {{Game Stat|today|format=N}} }} <!-- 1=Monday, 7=Sunday --><!--
+-->{{#vardefine: tdyIsRed | {{#expr: {{#var: todayDay}} mod 2}} }}<!--
+-->{{#vardefine: tdyRealmIdx | {{#expr: ({{#var: todayDay}} - 1) mod 5}} }}<!--
+-->{{#vardefine: tdyGrpIdx | {{#ifexpr: {{#var: tdyIsRed}} | {{#expr: ((({{#var: todayDay}} - 1) / 2) mod 3) + 2 }} | {{#expr:  ({{#var: todayDay}} / 2)  mod 2  }}  }} }} <noinclude>
+This section was last updated on '''{{Game Stat|today|format=D, F d, Y}}'''.<!--TR--> {{Purge}}
+</noinclude>
+* Will a Shard appear today?<!--TR--> '''{{#vardefineecho: tdyAppears |{{#ifexpr:
+    {{#switch: {{#var: tdyGrpIdx}}
+      | 0 = {{#count: 6, 7|{{#var: todayWeekdayNum}}}}
+      | 1 = {{#count: 7, 1|{{#var: todayWeekdayNum}}}}
+      | 2 = {{#count: 1, 2|{{#var: todayWeekdayNum}}}}
+      | 3 = {{#count: 2, 3|{{#var: todayWeekdayNum}}}}
+      | 4 = {{#count: 3, 4|{{#var: todayWeekdayNum}}}}
+    }} = 0
+  | Yes<!--TR-->
+  | No<!--TR-->
+}} }}'''
+{{#ifeq: {{#var:tdyAppears}} | Yes<!--TR--> |
+* Type:<!--TR--> {{#ifexpr: {{#var: tdyIsRed}} | {{Icon|Red-shard-map-icon-Ray.png}} Strong<!--TR--> | {{Icon|Black-shard-map-icon-Ray.png}} Regular<!--TR--> }}
+* Realm:<!--TR--> {{#switch: {{#var: tdyRealmIdx}}
+  | 0 = Daylight Prairie<!--TR-->
+  | 1 = Hidden Forest<!--TR-->
+  | 2 = Valley of Triumph<!--TR-->
+  | 3 = Golden Wasteland<!--TR-->
+  | 4 = Vault of Knowledge<!--TR-->
+}}
+* Location:<!--TR--> {{#switch: {{#var: tdyGrpIdx}}
+  | 0 =
+    {{#switch: {{#var: tdyRealmIdx}}
+      | 0 = [[Shard Eruptions#Daylight Prairie|Butterfly Fields]]<!--TR-->
+      | 1 = [[Shard Eruptions#Hidden Forest|Forest Brook]]<!--TR-->
+      | 2 = [[Shard Eruptions#Valley of Triumph|Ice Rink]]<!--TR-->
+      | 3 = [[Shard Eruptions#Golden Wasteland|Broken Temple]]<!--TR-->
+      | 4 = [[Shard Eruptions#Vault of Knowledge|Starlight Desert]]<!--TR-->
+    }}<ul>Reward: {{Cost|200 L}}</ul><!--TR-->
+  | 1 =
+    {{#switch: {{#var: tdyRealmIdx}}
+      | 0 = [[Shard Eruptions#Daylight Prairie|Village Islands / Koi Pond]]<!--TR-->
+      | 1 = [[Shard Eruptions#Hidden Forest|Boneyard / Broken Bridge]]<!--TR-->
+      | 2 = [[Shard Eruptions#Valley of Triumph|Ice Rink]]<!--TR-->
+      | 3 = [[Shard Eruptions#Golden Wasteland|Battlefield]]<!--TR-->
+      | 4 = [[Shard Eruptions#Vault of Knowledge|Starlight Desert]]<!--TR-->
+    }}<ul>Reward: {{Cost|200 L}}</ul><!--TR-->
+  | 2 =
+    {{#switch: {{#var: tdyRealmIdx}}
+      | 0 = [[Shard Eruptions#Daylight Prairie|Prairie Caves]]<br><li>Reward: {{Cost|2.0 AC}}</li><!--TR-->
+      | 1 = [[Shard Eruptions#Hidden Forest|Forest End]]<br><li>Reward: {{Cost|2.5 AC}}</li><!--TR-->
+      | 2 = [[Shard Eruptions#Valley of Triumph|Village of Dreams]]<br><li>Reward: {{Cost|2.5 AC}}</li><!--TR-->
+      | 3 = [[Shard Eruptions#Golden Wasteland|Graveyard]]<br><li>Reward: {{Cost|2.0 AC}}</li><!--TR-->
+      | 4 = [[Shard Eruptions#Vault of Knowledge|Jellyfish Cove]]<br><li>Reward: {{Cost|3.5 AC}}</li><!--TR-->
+    }}
+  | 3 =
+    {{#switch: {{#var: tdyRealmIdx}}
+      | 0 = [[Shard Eruptions#Daylight Prairie|Bird Nest]]<br><li>Reward: {{Cost|2.5 AC}}</li><!--TR-->
+      | 1 = [[Shard Eruptions#Hidden Forest|Treehouse]]<br><li>Reward: {{Cost|3.5 AC}}</li><!--TR-->
+      | 2 = [[Shard Eruptions#Valley of Triumph|Village of Dreams]]<br><li>Reward: {{Cost|2.5 AC}}</li><!--TR-->
+      | 3 = [[Shard Eruptions#Golden Wasteland|Crab Fields]]<br><li>Reward: {{Cost|2.5 AC}}</li><!--TR-->
+      | 4 = [[Shard Eruptions#Vault of Knowledge|Jellyfish Cove]]<br><li>Reward: {{Cost|3.5 AC}}</li><!--TR-->
+    }}
+  | 4 =
+    {{#switch: {{#var: tdyRealmIdx}}
+      | 0 = [[Shard Eruptions#Daylight Prairie|Sanctuary Islands]]<!--TR-->
+      | 1 = [[Shard Eruptions#Hidden Forest|Elevated Clearing]]<!--TR-->
+      | 2 = [[Shard Eruptions#Valley of Triumph|Hermit Valley]]<!--TR-->
+      | 3 = [[Shard Eruptions#Golden Wasteland|Forgotten Ark]]<!--TR-->
+      | 4 = [[Shard Eruptions#Vault of Knowledge|Jellyfish Cove]]<!--TR-->
+    }}<li>Reward: {{Cost|3.5 AC}}</li><!--TR-->
+}}
+* Timing (Pacific Time):<!--TR--> {{#switch: {{#var: tdyGrpIdx}}
+  | 0 =
+** 01:58 AM - 05:50 AM<!--TR-->
+** 09:58 AM - 01:50 PM<!--TR-->
+** 05:58 PM - 09:50 PM<!--TR-->
+  | 1 =
+** 02:18 AM - 06:10 AM<!--TR-->
+** 10:18 AM - 02:10 PM<!--TR-->
+** 06:18 PM - 10:10 PM<!--TR-->
+  | 2 =
+** 07:48 AM - 11:40 AM<!--TR-->
+** 01:48 PM - 05:40 PM<!--TR-->
+** 07:48 PM - 11:40 PM<!--TR-->
+  | 3 =
+** 02:28 AM - 06:20 AM<!--TR-->
+** 08:28 AM - 12:20 PM<!--TR-->
+** 02:28 PM - 06:20 PM<!--TR-->
+  | 4 =
+** 03:38 AM - 07:30 AM<!--TR-->
+** 09:38 AM - 01:30 PM<!--TR-->
+** 03:38 PM - 07:30 PM<!--TR-->
+}}
+| }}
+Alternatively, you can use [https://sky-shards.pages.dev/ Sky Shards by Plutoy] to see a live countdown of Shards and additional information.
+
+==Schedule==
+Shard locations and timings are derived from the day of month, and the presence of a Shard is determined by the weekday. The following schedule has been derived for your convenience.
+
+<div style="overflow: auto">
+{| class="fandom-table mw-collapsible mw-collapsed"
+!colspan=7|Full Schedule
+|-
+!Day
+!Type
+!Realm
+!Location
+!Rewards
+!No Shard on<br/>(Weekday)
+!Time<br/>(Pacific Time)
+|-
+|1
+|{{Icon|Red-shard-map-icon-Ray.png}} Strong
+|Prairie
+|[[#Daylight Prairie|Prairie Caves]]
+|{{Cost|2.0 AC}}
+|Mon, Tue
+|{{#vardefineecho:group_2_times|07:48 AM - 11:40 AM<br/>01:48 PM - 05:40 PM<br/>07:48 PM - 11:40 PM}}
+|-
+|2
+|{{Icon|Black-shard-map-icon-Ray.png}} Regular
+|Forest
+|[[#Hidden Forest|Boneyard]]
+|{{Cost|200 L}}
+|Sun, Mon
+|{{#vardefineecho:group_1_times|02:18 AM - 06:10 AM<br/>10:18 AM - 02:10 PM<br/>06:18 PM - 10:10 PM}}
+|-
+|3
+|{{Icon|Red-shard-map-icon-Ray.png}} Strong
+|Valley
+|[[#Valley of Triumph|Village of Dreams]]
+|{{Cost|2.5 AC}}
+|Tue, Wed
+|{{#vardefineecho:group_3_times|02:28 AM - 06:20 AM<br/>08:28 AM - 12:20 PM<br/>02:28 PM - 06:20 PM}}
+|-
+|4
+|{{Icon|Black-shard-map-icon-Ray.png}} Regular
+|Wasteland
+|[[#Golden Wasteland|Broken Temple]]
+|{{Cost|200 L}}
+|Sat, Sun
+|{{#vardefineecho:group_0_times|01:58 AM - 05:50 AM<br/>09:58 AM - 01:50 PM<br/>05:58 PM - 09:50 PM}}
+|-
+|5
+|{{Icon|Red-shard-map-icon-Ray.png}} Strong
+|Vault
+|[[#Vault of Knowledge|Jellyfish Cove]]
+|{{Cost|3.5 AC}}
+|Wed, Thu
+|{{#vardefineecho:group_4_times|03:38 AM - 07:30 AM<br/>09:38 AM - 01:30 PM<br/>03:38 PM - 07:30 PM}}
+|-
+|6
+|{{Icon|Black-shard-map-icon-Ray.png}} Regular
+|Prairie
+|[[#Daylight Prairie|Village Islands]]
+|{{Cost|200 L}}
+|Sun, Mon
+|{{#var:group_1_times}}
+|-
+|7
+|{{Icon|Red-shard-map-icon-Ray.png}} Strong
+|Forest
+|[[#Hidden Forest|Forest End]]
+|{{Cost|2.5 AC}}
+|Mon, Tue
+|{{#var:group_2_times}}
+|-
+|8
+|{{Icon|Black-shard-map-icon-Ray.png}} Regular
+|Valley
+|[[#Valley of Triumph|Ice Rink]]
+|{{Cost|200 L}}
+|Sat, Sun
+|{{#var:group_0_times}}
+|-
+|9
+|{{Icon|Red-shard-map-icon-Ray.png}} Strong
+|Wasteland
+|[[#Golden Wasteland|Crab Fields]]
+|{{Cost|2.5 AC}}
+|Tue, Wed
+|{{#var:group_3_times}}
+|-
+|10
+|{{Icon|Black-shard-map-icon-Ray.png}} Regular
+|Vault
+|[[#Vault of Knowledge|Starlight Desert]]
+|{{Cost|200 L}}
+|Sun, Mon
+|{{#var:group_1_times}}
+|-
+|11
+|{{Icon|Red-shard-map-icon-Ray.png}} Strong
+|Prairie
+|[[#Daylight Prairie|Sanctuary Islands]]
+|{{Cost|3.5 AC}}
+|Wed, Thu
+|{{#var:group_4_times}}
+|-
+|12
+|{{Icon|Black-shard-map-icon-Ray.png}} Regular
+|Forest
+|[[#Hidden Forest|Forest Brook]]
+|{{Cost|200 L}}
+|Sat, Sun
+|{{#var:group_0_times}}
+|-
+|13
+|{{Icon|Red-shard-map-icon-Ray.png}} Strong
+|Valley
+|[[#Valley of Triumph|Village of Dreams]]
+|{{Cost|2.5 AC}}
+|Mon, Tue
+|{{#var:group_2_times}}
+|-
+|14
+|{{Icon|Black-shard-map-icon-Ray.png}} Regular
+|Wasteland
+|[[#Golden Wasteland|Battlefield]]
+|{{Cost|200 L}}
+|Sun, Mon
+|{{#var:group_1_times}}
+|-
+|15
+|{{Icon|Red-shard-map-icon-Ray.png}} Strong
+|Vault
+|[[#Vault of Knowledge|Jellyfish Cove]]
+|{{Cost|3.5 AC}}
+|Tue, Wed
+|{{#var:group_3_times}}
+|-
+|16
+|{{Icon|Black-shard-map-icon-Ray.png}} Regular
+|Prairie
+|[[#Daylight Prairie|Butterfly Fields]]
+|{{Cost|200 L}}
+|Sat, Sun
+|{{#var:group_0_times}}
+|-
+|17
+|{{Icon|Red-shard-map-icon-Ray.png}} Strong
+|Forest
+|[[#Hidden Forest|Elevated Clearing]]
+|{{Cost|3.5 AC}}
+|Wed, Thu
+|{{#var:group_4_times}}
+|-
+|18
+|{{Icon|Black-shard-map-icon-Ray.png}} Regular
+|Valley
+|[[#Valley of Triumph|Ice Rink]]
+|{{Cost|200 L}}
+|Sun, Mon
+|{{#var:group_1_times}}
+|-
+|19
+|{{Icon|Red-shard-map-icon-Ray.png}} Strong
+|Wasteland
+|[[#Golden Wasteland|Graveyard]]
+|{{Cost|2.0 AC}}
+|Mon, Tue
+|{{#var:group_2_times}}
+|-
+|20
+|{{Icon|Black-shard-map-icon-Ray.png}} Regular
+|Vault
+|[[#Vault of Knowledge|Starlight Desert]]
+|{{Cost|200 L}}
+|Sat, Sun
+|{{#var:group_0_times}}
+|-
+|21
+|{{Icon|Red-shard-map-icon-Ray.png}} Strong
+|Prairie
+|[[#Daylight Prairie|Bird Nest]]
+|{{Cost|2.5 AC}}
+|Tue, Wed
+|{{#var:group_3_times}}
+|-
+|22
+|{{Icon|Black-shard-map-icon-Ray.png}} Regular
+|Forest
+|[[#Hidden Forest|Boneyard]]
+|{{Cost|200 L}}
+|Sun, Mon
+|{{#var:group_1_times}}
+|-
+|23
+|{{Icon|Red-shard-map-icon-Ray.png}} Strong
+|Valley
+|[[#Valley of Triumph|Hermit Valley]]
+|{{Cost|3.5 AC}}
+|Wed, Thu
+|{{#var:group_4_times}}
+|-
+|24
+|{{Icon|Black-shard-map-icon-Ray.png}} Regular
+|Wasteland
+|[[#Golden Wasteland|Broken Temple]]
+|{{Cost|200 L}}
+|Sat, Sun
+|{{#var:group_0_times}}
+|-
+|25
+|{{Icon|Red-shard-map-icon-Ray.png}} Strong
+|Vault
+|[[#Vault of Knowledge|Jellyfish Cove]]
+|{{Cost|3.5 AC}}
+|Mon, Tue
+|{{#var:group_2_times}}
+|-
+|26
+|{{Icon|Black-shard-map-icon-Ray.png}} Regular
+|Prairie
+|[[#Daylight Prairie|Village Islands]]
+|{{Cost|200 L}}
+|Sun, Mon
+|{{#var:group_1_times}}
+|-
+|27
+|{{Icon|Red-shard-map-icon-Ray.png}} Strong
+|Forest
+|[[#Hidden Forest|Treehouse]]
+|{{Cost|3.5 AC}}
+|Tue, Wed
+|{{#var:group_3_times}}
+|-
+|28
+|{{Icon|Black-shard-map-icon-Ray.png}} Regular
+|Valley
+|[[#Valley of Triumph|Ice Rink]]
+|{{Cost|200 L}}
+|Sat, Sun
+|{{#var:group_0_times}}
+|-
+|29
+|{{Icon|Red-shard-map-icon-Ray.png}} Strong
+|Wasteland
+|[[#Golden Wasteland|Forgotten Ark]]
+|{{Cost|3.5 AC}}
+|Wed, Thu
+|{{#var:group_4_times}}
+|-
+|30
+|{{Icon|Black-shard-map-icon-Ray.png}} Regular
+|Vault
+|[[#Vault of Knowledge|Starlight Desert]]
+|{{Cost|200 L}}
+|Sun, Mon
+|{{#var:group_1_times}}
+|-
+|31
+|{{Icon|Red-shard-map-icon-Ray.png}} Strong
+|Prairie
+|[[#Daylight Prairie|Prairie Caves]]
+|{{Cost|2.0 AC}}
+|Mon, Tue
+|{{#var:group_2_times}}
+|}
+</div>
+===Derivation of Calendar===
+<div class="mw-collapsible mw-collapsed" data-expandtext="Read More" data-collapsetext="Read Less">
+The above calendar is derived from the following information.
+<div class="mw-collapsible-content">
+====Realm Cycle====
+It goes in the following order (starting every 1st of the month, then repeats):
+
+Daylight Prairie, Hidden Forest, Valley of Triumph, Golden Wasteland, Vault of Knowledge
+
+====Timing Cycle====
+The timing cycle is a little more complicated. It goes in the following order (starting every 1st of the month, then repeats):
+
+2, 1, 3, 0, 4, 1, 2, 0, 3, 1, 4, 0
+
+====Correlation Table====
+Using the above two cycles and the table below, we can derive the calendar above.
+
+<div style="overflow:auto">
+{| class="fandom-table" style="white-space: nowrap;"
+! colspan="2" rowspan="2" |
+! colspan="4" style="text-align: center;" |{{Icon|Black-shard-map-icon-Ray.png}} Regular
+! colspan="6" style="text-align: center;" |{{Icon|Red-shard-map-icon-Ray.png}} Strong
+|-
+! colspan="2" style="text-align: center;" |Group 0
+! colspan="2" style="text-align: center;" |Group 1
+! colspan="2" style="text-align: center;" |Group 2
+! colspan="2" style="text-align: center;" |Group 3
+! colspan="2" style="text-align: center;" |Group 4
+|-
+! rowspan="6" |Location
+!
+!Area
+!Rewards
+!Area
+!Rewards
+!Area
+!Rewards
+!Area
+!Rewards
+!Area
+!Rewards
+|-
+!|Prairie
+|Butterfly Fields
+|{{Piece of Light|200}}
+|Village Islands
+|{{Piece of Light|200}}
+|Prairie Caves
+|{{Ascended Candle|2.0}}
+|Bird Nest
+|{{Ascended Candle|2.5}}
+|Sanctuary Islands
+|{{Ascended Candle|3.5}}
+|-
+!|Forest
+|Forest Brook
+|{{Piece of Light|200}}
+|Boneyard
+|{{Piece of Light|200}}
+|Forest End
+|{{Ascended Candle|2.5}}
+|Treehouse
+|{{Ascended Candle|3.5}}
+|Elevated Clearing
+|{{Ascended Candle|3.5}}
+|-
+!|Valley
+|Ice Rink
+|{{Piece of Light|200}}
+|Ice Rink
+|{{Piece of Light|200}}
+|Village of Dreams
+|{{Ascended Candle|2.5}}
+|Village of Dreams
+|{{Ascended Candle|2.5}}
+|Hermit Valley
+|{{Ascended Candle|3.5}}
+|-
+!|Wasteland
+|Broken Temple
+|{{Piece of Light|200}}
+|Battlefield
+|{{Piece of Light|200}}
+|Graveyard
+|{{Ascended Candle|2.0}}
+|Crab Fields
+|{{Ascended Candle|2.5}}
+|Forgotten Ark
+|{{Ascended Candle|3.5}}
+|-
+!|Vault
+|Starlight Desert
+|{{Piece of Light|200}}
+|Starlight Desert
+|{{Piece of Light|200}}
+|Jellyfish Cove
+|{{Ascended Candle|3.5}}
+|Jellyfish Cove
+|{{Ascended Candle|3.5}}
+|Jellyfish Cove
+|{{Ascended Candle|3.5}}
+|- style="text-align: center;"
+! rowspan="3" |Timings (Pacific  Time)
+!| 1st Shard
+| colspan="2" |01:58 AM - 05:50 AM
+| colspan="2" |02:18 AM - 06:10 AM
+| colspan="2" |07:48 AM - 11:40 AM
+| colspan="2" |02:28 AM - 06:20 AM
+| colspan="2" |03:38 AM - 07:30 AM
+|- style="text-align: center;"
+!| 2nd Shard
+| colspan="2" |09:58 AM - 01:50 PM
+| colspan="2" |10:18 AM - 02:10 PM
+| colspan="2" |01:48 PM - 05:40 PM
+| colspan="2" |08:28 AM - 12:20 PM
+| colspan="2" |09:38 AM - 01:30 PM
+|- style="text-align: center;"
+!|3rd Shard
+| colspan="2" |05:58 PM - 09:50 PM
+| colspan="2" |06:18 PM - 10:10 PM
+| colspan="2" |07:48 PM - 11:40 PM
+| colspan="2" |02:28 PM - 06:20 PM
+| colspan="2" |03:38 PM - 07:30 PM
+|- style="text-align: center;"
+! rowspan="2" |Availability  (Weekday)
+!|Have Shard
+| colspan="2" |Mon, Tue, Wed, Thu, Fri
+| colspan="2" |Tue, Wed, Thu, Fri, Sat
+| colspan="2" |Wed, Thu, Fri, Sat, Sun
+| colspan="2" |Thu, Fri, Sat, Sun, Mon
+| colspan="2" |Fri, Sat, Sun, Mon, Tue
+|- style="text-align: center;"
+!|No Shard
+| colspan="2" |Sat, Sun
+| colspan="2" |Sun, Mon
+| colspan="2" |Mon, Tue
+| colspan="2" |Tue, Wed
+| colspan="2" |Wed, Thu
+|}
+</div>
+</div>
+</div>
+
+==Shard Information==
+===Pre-eruption Phase===
+The pre-eruption phase of an event lasts for 8-10 minutes, during which time the [[Eden]] mountain starts to erupt with an impressive explosion. The background of the mountain starts to turn red and as the lightning intensifies, the entire mountain top becomes illuminated; a loud bang can be heard while the ground starts to shake. An explosion marks the actual eruption: red rocks can be seen emerging from the top of Eden and flying in various directions.
+
+This pre-eruption phase can be seen in every outside location throughout Sky. In exterior areas where Eden mountain is not visible (e.g., most of [[Golden Wasteland]]), the event can still be inferred from the fact that the sky turns red and the atmosphere turns murky. Only interior locations (e.g., most of the [[Vault of Knowledge]]) are unaffected by the pre-eruption phase. When the eruption happens, players everywhere are told that "''Darkness has fallen upon <Realm>''".
+
+In the Shard Eruption location, skies remain red for the entire event but return to their normal color throughout the other Realms. Once players clear a Shard, it vanishes from that specific area. Leaving the area and returning will trigger a new round of Shards, as long as you return during the active Shard period. However, you can only collect the [[Ascended Candle]]s or [[Pieces of Light]] reward once per day. When the Shard event ends, players who are in the Realm where the eruption is happening are told that "''The fallen shards of darkness from Eye of Eden in this realm have been cleansed.''"
+
+There are two types of Shard events:
+*'''[[#Strong Eruptions|Strong Eruptions]]''': Perilous, but rewards include [[Ascended Candle]]s and completion of Shattering Seasonal Quests and access to 1 of 6 Ancient Memories with Winged Light inside.
+*'''[[#Regular Eruptions|Regular Eruptions]]''': Less risky, but only provide [[Pieces of Light]].
+
+===Strong Eruptions===
+[[File:SOShattering-Crab.png|thumb|Shattering Crab]]
+Strong Eruptions feature multiple red, radiant Shards protected by Crabs ([[Dark Crabs#Red Shattering Crabs|Shattering Crabs]] and/or standard [[Dark Crabs]]) and Swirling Shards (since the {{v|0.18.5}} Update). Only Strong Eruptions allow players to receive [[Ascended Candle]]s or enter [[Children of Light#Shard Memories (6)|Shard Memories]] to complete the [[Season of Shattering#Spirit Memory Quests|Shattering Seasonal Quests]] and collect Winged Light. They tend to occur in areas away from the main path through a given Realm. Completing a Strong Eruption Shard event will take significant time and is best done with a group of players.
+
+[[File:SOShattering-radiant-shards.jpg|left|thumb|193x193px|Radiant Shards]]
+Each Strong Eruption has a central large red, radiant Shard, surrounded by four to seven more Shards, and up to 8 to 34 Swirling Shards. If there are only a few Shards, be aware that more Shards might still fall and that being hit by a falling Shard might cause you to lose [[Capes#Cape Energy|Cape Energy]]. All of the radiant Shards (except central one) are dangerous: touching them will knock you back and remove several wedges of Cape Energy. If your Cape Energy is low, you can even lose [[Winged Light]] and be left crawling.
+
+[[File:Swirling Shards.jpg|alt=Swirling Shards|thumb|225x225px|Swirling Shards]]
+The number and type of Crabs that appear during a Shard Eruption varies depending upon the strength of the Shard event. [[#Regular Eruptions|Regular Eruptions]] only have standard [[Dark Crabs]]. Intense Strong Eruptions will have large numbers of [[Dark Crabs#Red Shattering Crabs|Shattering Crabs]]. These differ in appearance from standard Dark Crabs, having red (non-radiant) Shards on their back. Another important difference between the two is that [[Deep Call]]s do '''not''' flip Shattering Crabs upside-down; it will instead cause all nearby Shattering Crabs to '''charge at the player''' instead.
+
+To clear the Shard, you need to burn most (around 89%) of the [[Darkness|Darkness Plants]] while avoiding damage from any Crabs, radiant Shards, or Swirling Shards. As progress is made, the glowing band on the central radiant Shard moves from top to bottom. Once enough Darkness Plants have been burned, a meditation circle will appear next to the central radiant Shard. Meditating at the circle starts one of several random activities:
+*Catch fragments of [[Mantas]]
+*Catch fragments of [[Jellyfish]]
+*Catch fragments of [[Crabs]]
+*Pick up fragments of Crabs (with a {{Icon|Grab-Ray.png}} hand icon to tap on each of them)
+*Melt the Darkness Plants trapping fragments
+
+Once the activity is complete, the radiant Shards, Crabs, and Swirling Shards all disappear, and the skies return to their normal color. Players that participated in the activity are rewarded with approximately 1-3.5 [[Ascended Candle]]s '''(but only once per day)'''. Ascended Candles can be collected even by players who have never been to the [[Eye of Eden]]. The more difficult Strong Eruptions reward a greater number of Ascended Candles, and the player's performance during the collection activity will impact how many they earn. The activity progress is shared between all participants, so it is recommended to work together to collect as many fragments as possible to earn the maximum reward.
+
+Finally, the [[The Void of Shattering|Void of Shattering]] diamond will appear at the center of the rocks left behind in place of the central Shard. Interacting with the diamond gives you the option to visit 1 of the 6 [[Children of Light#Shard Memories (6)|Ancient Memories]], where a Winged Light can be collected, and complete a Shattering Seasonal Quest.
+
+===Regular Eruptions===
+<section begin="Regular Eruptions" />[[File:SOShattering-getting-lights-from-regular-shard-event.jpg|249px|thumb|Earning Pieces of Light from Regular Shard event]]
+Regular Eruptions are moderate-intensity events that are easier to complete. The only reward for completing a Regular Eruption event is 200 [[Pieces of Light]].<section end="Regular Eruptions" />
+
+The Shards in a Regular Eruption are gray-black in color; unlike the red radiant Shards of [[#Strong Eruptions|Strong Eruptions]], Regular Eruption Shards do not damage players. Usually (but not always), there are no [[Dark Crabs#Red Shattering Crabs|Shattering Crabs]] or [[Dark Crabs]] during the event. Once most (around 88.6%) of the [[Darkness|Darkness Plants]] have been burned, you will be rewarded with Pieces of Light. Then, the Shards, the rest of the Darkness, and Crabs will disappear, and the skies return to their normal color. There is no follow-up activity or meditation circle.
+
+==Daily Quest==
+During the [[Season of Shattering]], one of the four [[Daily Quests]] assigned by the shrine at Home could be "''Visit a shard of darkness fallen to the Kingdom of Sky.''" To complete this Quest, players needed to approach an erupted shard after it had landed on the ground. Burning the Darkness Plants or completing any of the other activities was not required for the Quest.
+
+==Locations==
+===[[Daylight Prairie]]===
+Eruptions occur in the following areas:
+<div>{{col-begin}}{{col-2}}
+* {{Icon|Black-shard-map-icon-Ray.png}} Regular Eruptions
+** (R1) Butterfly Fields, on top of the hemisphere structure
+** (R2) Butterfly Fields, leaning to the left side wall with the Prairie Caves transition and cloud wall
+** (R3) Butterfly Fields, towards the right near the Bird Nest entrance
+** (R4) Prairie Village, on the central island towards the Temple
+** (R5) Prairie Temple exterior, nearby the left side of the Koi Pond
+** (R6) Prairie Temple exterior, nearby the right side of the Koi Pond
+{{col-2}}
+* {{Icon|Red-shard-map-icon-Ray.png}} Strong Eruptions
+** (S1) Prairie Caves, nearby the lake towards the Prairie Village transition
+** (S2) Bird Nest, on the island towards the Butterfly Fields transition
+** (S3) Bird Nest, on the main island beside the ruined tower
+** (S4) Sanctuary Islands, nearby the Sanctuary Guide, the geyser, and submerged stone statues
+** (S5) Sanctuary Islands, on the [[Additional Light Sources#Sunset Sanctuary Turtle|turtle]] island below the hoop island
+** (S6) Sanctuary Islands, nearby the waterfall on the main island
+{{col-end}}</div>
+<gallery widths="200" spacing="small">
+Shard-Eruption-Regular-Butterfly-Fields-Dome.png|{{Icon|Black-shard-map-icon-Ray.png}} (R1) Butterfly Fields, on the dome
+Shard-Eruption-Regular-Butterfly-Fields-Left.png|{{Icon|Black-shard-map-icon-Ray.png}} (R2) Butterfly Fields, left side
+Shard-Eruption-Regular-Butterfly-Fields-Right.png|{{Icon|Black-shard-map-icon-Ray.png}} (R3) Butterfly Fields, right side
+Shard-Eruption-Strong-Prairie-Caves.png|{{Icon|Red-shard-map-icon-Ray.png}} (S1) Prairie Caves, near the interior large lake
+Shard-Eruption-Regular-Prairie-Villages-Back.png|{{Icon|Black-shard-map-icon-Ray.png}} (R4) Prairie Village, on the far island
+Shard-Eruption-Regular-Prairie-Temple-Left.png|{{Icon|Black-shard-map-icon-Ray.png}} (R5) Prairie Temple exterior, left of Koi Pond
+Shard-Eruption-Regular-Prairie-Temple-Right.png|{{Icon|Black-shard-map-icon-Ray.png}} (R6) Prairie Temple exterior, right of the Koi Pond
+SOShattering-shard-event-at-birds-nest.jpg|{{Icon|Red-shard-map-icon-Ray.png}} (S2) Bird Nest, on the sloped island
+Birds Nest Tower.jpg|{{Icon|Red-shard-map-icon-Ray.png}} (S3) Bird Nest, beside the lower ruined tower
+Shard-Eruption-Strong-Sanctuary-Statues.png|{{Icon|Red-shard-map-icon-Ray.png}} (S4) Sanctuary Islands, near submerged stone statues
+Shard-Eruption-Strong-Sanctuary-Islands-Turtle-Island.png|{{Icon|Red-shard-map-icon-Ray.png}} (S5) Sanctuary Islands, near the [[Additional Light Sources#Sunset Sanctuary Turtle|turtle]] island
+Sanctuary Island (Waterfall) Red Shard.jpg|{{Icon|Red-shard-map-icon-Ray.png}} (S6) Sanctuary Islands, near the waterfall
+</gallery>
+
+===[[Hidden Forest]]===
+Eruptions occur in the following area:
+<div>{{col-begin}}{{col-2}}
+* {{Icon|Black-shard-map-icon-Ray.png}} Regular Eruptions
+** (R1) Forest Brook, on the right ledge with the gazebo, campsite, and the Rainbow timed event
+** (R2) Forest Brook, nearby the pipe where {{Spirit|Provoking Performer|inline_text}} spirit located in
+** (R3) First half of Boneyard, next to the tower with [[Children_of_Light#Tree_Tunnels_and_Boneyard_(3)|Winged Light #8]]
+{{col-2}}
+* {{Icon|Red-shard-map-icon-Ray.png}} Strong Eruptions
+** (S1) The Treehouse, at the path towards the treehouse itself
+** (S2) Elevated Clearing, towards the Boneyard transition
+** (S3) Forest End, on the far-right side
+** (S4) Forest End, on the left side near the Forest Temple
+{{col-end}}</div>
+<gallery widths="200" spacing="small">
+SOShattering-Main-treehouse-shard-location.jpg|{{Icon|Red-shard-map-icon-Ray.png}} (S1) Main Assembly Treehouse
+Shard-Eruption-Regular-Brook-Gazebo.png|{{Icon|Black-shard-map-icon-Ray.png}} (R1) Forest Brook, right side near the gazebo
+SOShattering-shard-event-in-Forest-next-to-pipe.jpg|{{Icon|Black-shard-map-icon-Ray.png}} (R2) Forest Brook, next to the Provoking Performer's pipe tunnel
+Shard-Eruption-Strong-Elevated-Clearing-Exit.png|{{Icon|Red-shard-map-icon-Ray.png}} (S2) Elevated Clearing, towards the Boneyard transition (Exit)
+Shard-Eruption-Regular-Boneyard-Tower.png|{{Icon|Black-shard-map-icon-Ray.png}} (R3) Boneyard, next to the WL tower
+Shard-Eruption-Strong-Forest-End-Left.png|{{Icon|Red-shard-map-icon-Ray.png}} (S4) Forest End, left side closest to Temple
+Shard-Eruption-Strong-Forest-End-Right.png|{{Icon|Red-shard-map-icon-Ray.png}} (S3) Forest End, far right side
+</gallery>
+
+===[[Valley of Triumph]]===
+Eruptions in Valley can occur in the following areas:
+<div>{{col-begin}}{{col-2}}
+* {{Icon|Black-shard-map-icon-Ray.png}} Regular Eruptions
+** (R1) Ice Rink, on the left side near the [[Twirling Champion]] and the hole leading underground
+** (R2) Ice Rink, right side, nearby the path to Sliding Race transition
+** (R3) Ice Rink, on the icerink besides the ledge with the {{Spirit|Confident Sightseer|inline_text}} atop
+{{col-2}}
+* {{Icon|Red-shard-map-icon-Ray.png}} Strong Eruptions
+** (S1) Village of Dreams, on the smaller ice rink between the path to [[Village Theater]] and [[Valley of Triumph#Social Space|Valley's Social Space]]
+** (S2) Village of Dreams, besides the [[Dreams Guide]]
+** (S3) Hermit Valley, outside and to the right of the Hermit's cave
+{{col-end}}</div>
+<gallery widths=200 spacing="small">
+Shard-Eruption-Regular-Ice-Rink-Left.png|{{Icon|Black-shard-map-icon-Ray.png}} (R1) Ice Rink, left side
+Shard-Eruption-Regular-Ice-Rink-Sliding-Exit.png|{{Icon|Black-shard-map-icon-Ray.png}} (R2) Ice Rink, right Side
+Ice Rink Bottom-Left.jpg|{{Icon|Black-shard-map-icon-Ray.png}} (R3) Ice Rink, towards the beginning ledge
+Shard-Eruption-Strong-Village-of-Dreams-Rink.png|{{Icon|Red-shard-map-icon-Ray.png}} (S1) Village of Dreams, on the smaller ice rink
+Village of Dreams (Guide).jpg|{{Icon|Red-shard-map-icon-Ray.png}} (S2) Village of Dreams, near the Dream Guide
+Shard-Eruption-Strong-Hermit-Valley-Cave-Right.png|{{Icon|Red-shard-map-icon-Ray.png}} (S3) Hermit Valley, right of the Hermit's cave
+</gallery>
+
+===[[Golden Wasteland]]===
+Eruptions occur in the following areas:
+<div>{{col-begin}}{{col-2}}
+* {{Icon|Black-shard-map-icon-Ray.png}} Regular Eruptions
+** (R1) Broken Temple, in the center of the whole area nearby the Broken Temple
+** (R2) Broken Temple, on the far left side near the {{Spirit|Fainting Warrior|inline_text}}
+** (R3) Broken Temple, on the far right side, towards the path to [[The Forgotten Ark]]
+** (R4) Battlefield, outside of the central ruined structure, on the left
+** (R5) Battlefield, outside of the central ruined structure, on the right
+** (R6) Battlefield, to the left of the central ruined structure, besides the large [[Darkness|Darkness Tree]]
+{{col-2}}
+* {{Icon|Red-shard-map-icon-Ray.png}} Strong Eruptions
+** (S1) The Forgotten Ark, besides the circular pond near the Ark
+** (S2) The Forgotten Ark, on the right side of the Ark towards the crab caves
+** (S3) The Forgotten Ark, besides the half-submerged ship to the left besides the {{Spirit|Playfighting Herbalist|inline_text}}
+** (S4) The Forgotten Ark, in the far distance in the farming subarea, besides the {{Spirit|Scarecrow Farmer|inline_text}}
+** (S5) Graveyard, near the slope from the Graveyard Entrance
+** (S6) Graveyard, on the far left near the {{Spirit|Stealthy Survivor|inline_text}}
+** (S7) Graveyard, atop the ledge to the right near the [[Golden Wasteland#Points of Interest|Crab Barbecue]] and [[Children_of_Light#Graveyard_(6)|Winged Light #6]]
+** (S8) Crab Fields, to the far distance opposite the Battlefield transition
+** (S9) Crab Fields, near the transition to Graveyard, towards the Shipwreck
+{{col-end}}</div>
+<gallery heights="200px" spacing="small">
+Shard-event-at-Wasteland-broken-temple.jpg|{{Icon|Black-shard-map-icon-Ray.png}} (R1) Broken Temple, in the center
+Broken Temple (Left) Black Shard.jpg|{{Icon|Black-shard-map-icon-Ray.png}} (R2) Broken Temple, left side
+Broken Temple (Right) Black Shard.jpg|{{Icon|Black-shard-map-icon-Ray.png}} (R3) Broken Temple, right side
+SOShattering-Shard-event-at-forgotten-ark-right-with-floating-shards.jpg|{{Icon|Red-shard-map-icon-Ray.png}} (S1) Forgotten Ark, near the pond
+SOShattering-Shard-event-at-forgotten-ark.jpg|{{Icon|Red-shard-map-icon-Ray.png}} (S2) Forgotten Ark, near the crab caves
+Forgotten Ark (Back-Left) Red Shard.jpg|{{Icon|Red-shard-map-icon-Ray.png}} (S3) Forgotten Ark, Back-Left
+Shard-Eruption-Strong-Forgotten-Ark-Farm.png|{{Icon|Red-shard-map-icon-Ray.png}} (S4) Forgotten Ark, towards the farm
+SOShattering-Wasteland-Graveyard-location.jpg|{{Icon|Red-shard-map-icon-Ray.png}} (S5) Graveyard, on the beginning slope
+Graveyard (Left) Red Shard.jpg|{{Icon|Red-shard-map-icon-Ray.png}} (S6) Graveyard, left side
+Graveyard (Right) Red Shard.jpg|{{Icon|Red-shard-map-icon-Ray.png}} (S7) Graveyard, right Side
+Shard-Eruption-Strong-Crab-Fields-Far-Right.png|{{Icon|Red-shard-map-icon-Ray.png}} (S8) Crab Fields, opposite the Battlefield transition
+Shard-Eruption-Strong-Crab-Fields-Graveyard-Exit.png|{{Icon|Red-shard-map-icon-Ray.png}} (S9) Crab Fields, near the Graveyard transition
+Shard-Eruption-Regular-Battlefield-Left.png|{{Icon|Black-shard-map-icon-Ray.png}} (R4) Battlefield, left side
+Battlefield Right Side Black Shard.jpg|{{Icon|Black-shard-map-icon-Ray.png}} (R5) Battlefield, right side
+Shard-Eruption-Regular-Battlefield-Darkness-Tree.png|{{Icon|Black-shard-map-icon-Ray.png}} (R6) Battlefield, besides the large Darkness Tree
+</gallery>
+
+===[[Vault of Knowledge]]===
+Eruptions occur in the following areas:
+<div>{{col-begin}}{{col-2}}
+* {{Icon|Black-shard-map-icon-Ray.png}} Regular Eruptions
+** (R1) Starlight Desert, nearby to The Rose (Season of the Little Prince Guide)
+** (R2) Starlight Desert, nearby to the transition to Jellyfish Cove
+** (R3) Starlight Desert, right side near the Rose Garden
+{{col-2}}
+* {{Icon|Red-shard-map-icon-Ray.png}} Strong Eruptions
+** (S1) Starlight Desert, Jellyfish Cove, nearby to the pathway to main area of Starlight Desert
+** (S2) Starlight Desert, Jellyfish Cove, nearby to the deck
+{{col-end}}</div>
+<gallery>
+Shard-Eruption-Regular-Starlight-Desert-Rose.png|{{Icon|Black-shard-map-icon-Ray.png}} (R1) Starlight Desert, next to the Rose
+SOShattering-shard-event-Starlight-desert-left.jpg|{{Icon|Black-shard-map-icon-Ray.png}} (R2) Starlight Desert, Rose Garden
+Shard-Eruption-Regular-Starlight-Desert-Garden-Right.png|{{Icon|Black-shard-map-icon-Ray.png}} (R3) Starlight Desert, right side
+SOShattering-Shard-event-at-Star-collector-shipwreck.jpg|{{Icon|Red-shard-map-icon-Ray.png}} (S1) Jellyfish Cove, near the transition
+Shard-Eruption-Strong-Jellyfish-Cove-Deck.png|{{Icon|Red-shard-map-icon-Ray.png}} (S2) Jellyfish Cove, near the deck
+</gallery>
+
+==Trivia==
+*The Shard Realm fell out of sync by one day with the [[Daily Quest]] Realm at the start of the [[Season of AURORA]].
+[[File:SOShattering-shard-event-Forest-clearing.jpg|thumb|right|200px|{{Icon|Black-shard-map-icon-Ray.png}} Forest Clearing]]
+*The following eruption location was removed from Hidden Forest in Patch {{v|0.18.5}}:
+** Regular Eruptions - In front of the first gate of the Forest Clearing.
+*The following eruption location was downgraded from a Strong to a Regular Eruptions in Patch {{v|0.18.5}}:
+** Hidden Forest - Broken Bridge, next to the tower with a Winged Light.
+*The following eruption location in Golden Wasteland was split to show in two different locations off the Main Path in Patch {{v|0.18.5}}:
+**Graveyard, Left side near the [[Stealthy Survivor]] Spirit
+**Graveyard, Right side near the Bonfire
+[[File:SOShattering-Elevated-Clearing-location.jpg|thumb|right|200px|{{Icon|Red-shard-map-icon-Ray.png}} Grandma's Dinner]]
+*The following eruption location was added in Patch {{v|0.19.0}}:
+**Elevated Clearing, near the tree with the entrance to the Underground Cavern. (It was moved from the previous Grandma's Dinner location.)
+*All players are supposed to see the Shard Eruption Event happening in the same location. However, at the launch of the Season of Shattering there was a bug causing mobile players to see Eruption Events in a different location than Switch players (but in the same Realm), or players with different game version.
+*On July 11, 2022, the Eruption Event happened in a different location for Switch players: in front of the Forgotten Ark, to the side of where the Enchantment Guide is standing. For mobile players, the Eruption Event happened behind the Forgotten Ark, towards the [[Crab Walker]] caves.
+*The Android update for Patch {{v|0.18.5}} on August 17, 2022 was delayed by Google and temporarily resulted in different Shard Variations in different game versions until the update arrived for Android on August 20.
+*In Patch {{v|0.21.0}}, Shards became buggy on Switch, resulting in Darkness Plants and Activity Fragments sometimes appearing in different places compared to other platforms. In addition, the Shard Memory and Shard Variation could sometimes be different as well. This bug was fixed in Patch {{v|0.23.0}}.
+*The [[Days of Love]] event [https://twitter.com/whirthun/status/1758229071216152597 prevented] Strong Shard Eruptions from happening in [[Starlight Desert#Jellyfish Cove|Starlight Desert]], where the event was taking place, on both February 15 and February 25, 2024.
+*In [[Days of Nature]] 2024 a new type of black shard was introduced to Prairie Peaks. This black shard has since continuously fallen in Prairie Peaks every day with a black shard in Daylight Prairie (6th, 16th, and 26th of each month). While the shard can be cleared on any day it falls, only on the 16th of the month it will reward with collectable [[Pieces of Light]].
+
+==References==
+<references />
+
+[[pt-br:Erupções de Fragmentos]]
+[[ja:破片の噴出]]
+[[fr:Éruptions d'éclats]]
+[[de:Scherben-Ausbrüche]]
+[[zh:碎片喷发]]
+
+[[Category:Daily Content]]

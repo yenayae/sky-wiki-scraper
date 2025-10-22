@@ -1,0 +1,854 @@
+{{help|beta}}
+__FORCETOC__
+{{SkyEvent
+| image = Days-of-Bloom-2025-Promo-image.png
+| previousevent = [[Days of Treasure]]
+| nextevent = [[Days of Nature]]
+| date = March 24 to April 13, 2025
+}}
+'''Days of Bloom''' is an annual event celebrating the arrival of spring that usually happens the mid-end of March and lasting until the beginning of April.
+
+During the event, [[Home]] gets a flowery makeover. A barren tree will appear in Home, signaling the event will begin in a few days and the Hidden Forest portal will adorn purple tree Wisteria branches. The Bloom tree at Home will go through various states of blossoming over the course of the event. During some states, players will be able to collect [[Pieces of Light|Light]] as it falls from the tree—the amount of Light that falls varies based on its bloom state. Several visiting [[Spirits]] can also be found relaxing under the lavender Bloom tree in [[Hidden Forest]] social space to enjoy the festivities together with players.
+
+Spring-themed [[Premium Candle Shop|IAPs]] are available from the in-game shop, and the Days of Bloom Event Guides offer various cosmetics from their Friendship Trees. Free [[Spells]] to try all of these items can also be collected from the [[Spell Shops#Sleepy_Traveler's_Boat|Sleepy Traveler's boat]] and the Spell Shop in the Forgotten Ark.
+
+==March 2025<span id="2025"></span>==
+{{#ev:youtube|wky41--hsYg||right|Days of Bloom 2025 Trailer}}
+<section begin="TLP Collab" />
+Spring was just around the corner, and this time it bloomed alongside a friend very dear to our hearts. This year's Days of Bloom ran from '''Monday, March 24, 2025 at 00:00 PDT (UTC-7)''' through '''Sunday, April 13, 2025 at 23:59 PDT (UTC-7)''', lasting '''21''' days. For the duration of the event, the Bloom Guide stood at [[Home]] and [[Aviary Village]], offering to teleport players to the [[Starlight Desert|Starlight Desert's]] Rose Garden.
+
+TGC once again collaborated with the titular story of Antoine de Saint-Exupéry's [[wp:The Little Prince|The Little Prince]] (French: Le Petit Prince). During the Sky x Le Petit Prince Encore event, the Little Prince invited players back to the stars to experience his timeless story again. For those who had been not-so-quietly hoping, the complete set of [[Season of The Little Prince#Spirit Memory Quests|Little Prince Season Quests]] returned, presented in full color. But this limited-time event wasn’t only about revisiting ''his'' story.<section end="TLP Collab" />
+
+Players also had a chance to share their own story too! Throughout the event, players could create rose messages—special notes that bloom from the earth, just like message boats but rooted in the landscape. 
+
+===Activities===
+[[File:Days-of-Bloom-2025-Locations.png|thumb|right|350px|Days of Bloom Event Locations]]
+{{#ev:youtubeplaylist|PLl2dLrx-duQj4y_SiAYWSeB_wtpOABwRj|350|inline|Playlist of all Rose locations}}
+{{clear}}
+
+===Ticket Locations===
+[[File:Days-of-Bloom-event-ticket.png|125px|thumb|A Days of Bloom Rose Ticket]]
+A total of {{Cost|5 T|event=bloom}} Event Tickets could be forged by participating in the event activities each day. Ticket light slowly spawned around the roses. Interacting with other player's rose messages and liking them, generated more light.
+
+In addition, bonus {{Cost|15 T|event=bloom}} one-time Event Tickets shaped like roses were hidden throughout the [[Starlight Desert]]. They could be collected at any time during the event. 
+
+<gallery widths="300px" captionalign="center" position="left">
+File:Days-of-Bloom-2025-Ticket-Locations.png|Ticket locations by Kion_Anzu
+</gallery>
+
+Players could also buy additional Tickets (costing {{Cost|2 AC}} or {{Cost|6 C}} each) from the Mini Spell Shop next to Bloom Guide at [[Starlight Desert]].<br>
+
+{{Friendship Tree
+|label  = Bloom Guide
+|event = Bloom
+|image = Days-of-Bloom-Guide-2025.png
+
+|nodeC7 = {{Icon Name|Pink Bloom Cape|icon}} 70 C
+|  labelC7 = {{Icon Name|Pink Bloom Cape|name}}
+|  linkC7 = Days of Bloom#{{Icon Name|Pink Bloom Cape|name}}
+
+|nodeL6 = Purple-dye-container-icon.png 10 T
+|  labelL6 = [[Blessings (Spells)#Specific Color Dye Blessing|Purple Dye Blessing]]
+|  linkL6 = Dyes
+|nodeC6 = Spellx 5 C
+|  labelC6 = Spell
+|  linkC6 = Spells
+
+|nodeR5 = {{Icon Name|Pink Bloom Hair}} 20 H
+|  labelR5 = {{Icon Name|Pink Bloom Hair|name}}
+|  linkR5  = Days of Bloom#{{Icon Name|Pink Bloom Hair|name}}
+|nodeL5 = {{Icon Name|Purple Bloom Cape|icon}} 105 C
+|  labelL5 = {{Icon Name|Purple Bloom Cape|name}}
+|  linkL5  = Days of Bloom#{{Icon Name|Purple Bloom Cape|name}}
+|nodeC5 = Spellx 5 C
+|  labelC5 = Spell
+|  linkC5 = Spells
+
+|nodeR4 = {{Icon Name|Bloom Butterfly Fountain}} 80 C
+|  labelR4 = {{Icon Name|Bloom Butterfly Fountain|name}}
+|  linkR4  = Days of Bloom#{{Icon Name|Bloom Butterfly Fountain|name}}
+|nodeL4 = {{Icon Name|Red Bloom Cape}} 110 C
+|  labelL4 = {{Icon Name|Red Bloom Cape|name}}
+|  linkL4  = Days of Bloom#{{Icon Name|Red Bloom Cape|name}}
+|nodeC4 = Spellx 5 C
+|  labelC4 = Spell
+|  linkC4 = Spells
+
+|nodeR3 = {{Icon Name|Bloom Spiky Sprig Hair|icon}} 24 C
+|  labelR3 = {{Icon Name|Bloom Spiky Sprig Hair|name}}
+|  linkR3  = Days of Bloom#{{Icon Name|Bloom Spiky Sprig Hair|name}}
+|nodeL3 = {{Icon Name|Bloom Arum Petal Cape|icon}} 118 C
+|  labelL3 = {{Icon Name|Bloom Arum Petal Cape|name}}
+|  linkL3  = Days of Bloom#{{Icon Name|Bloom Arum Petal Cape|icon}}
+|nodeC3 = Spellx 5 C
+|  labelC3 = Spell
+|  linkC3 = Spells
+
+|nodeR2 = {{Icon Name|Bloom Rose Mask|icon}} 36 T
+|  labelR2 = {{Icon Name|Bloom Rose Mask|name}}
+|  linkR2  = Days of Bloom#{{Icon Name|Bloom Rose Mask|name}}
+|nodeL2 = {{Icon Name|Bloom Arum Petal Hair|icon}} 25 H
+|  labelL2 = {{Icon Name|Bloom Arum Petal Hair|name}}
+|  linkL2  = Days of Bloom#{{Icon Name|Bloom Arum Petal Hair|name}}
+|nodeC2 = Spellx 5 C
+|  labelC2 = Spell
+|  linkC2 = Spells
+
+|nodeR1 = {{Icon Name|Rose Bloom Jar|icon}} 16 T
+|  labelR1 = {{Icon Name|Rose Bloom Jar|name}}
+|  linkR1  = Days of Bloom#{{Icon Name|Rose Bloom Jar|name}}
+|nodeL1 = {{Icon Name|Days of Bloom Rose Braid|icon}} 28 T
+|  labelL1 = {{Icon Name|Days of Bloom Rose Braid|name}}
+|  linkL1  = Days of Bloom#{{Icon Name|Days of Bloom Rose Braid|name}}
+|nodeC1 = question-mark-Ray.png
+|  labelC1 = Opening Cutscene
+|  linkC1  = 
+}}{{Clear}}
+
+===<big>All Available Collectibles in 2025</big>===
+{| class="article-table"
+!Name
+!Icon
+!Type
+!Cost
+!Location
+!Spell
+!Spell Cost & Locations
+|-
+! colspan="7" style="text-align:center;" |From Days of Bloom 2025
+|-
+|[[Days of Bloom#{{Icon Name|Rose-Embroidered Cape|name}}|{{Icon Name|Rose-Embroidered Cape|name}}]]
+|{{Days Item|Rose-Embroidered Cape||table}}
+|[[Cape]]
+|{{Cost|14.99 USD|refnote}}
+|<small>[[Premium Candle Shop]]</small>
+|{{Days Item|Rose-Embroidered Cape|spell|table}}<small>x3</small>
+|<small>Mini Spell Shop next to Bloom Guide at [[Starlight Desert]] for free</small>
+|-
+|[[Days of Bloom#{{Icon Name|Rose Jar|name}}|{{Icon Name|Rose Jar|name}}]]
+|{{Days Item|Rose Jar||table}}
+|[[Prop]]
+|{{Cost|16 T|event=Bloom}}
+|<small>Bloom Guide at [[Starlight Desert]]</small>
+|{{Days Item|Rose Jar|spell|table}}<small>x3</small>
+|<small>Mini Spell Shop next to Bloom Guide at [[Starlight Desert]] for free</small>
+|-
+|[[Days of Bloom#{{Icon Name|Rose Braided Hair|name}}|{{Icon Name|Rose Braided Hair|name}}]]
+|{{Days Item|Rose Braided Hair||table}}
+|[[Hair]]
+|{{Cost|28 T|event=Bloom}}
+|<small>Bloom Guide at [[Starlight Desert]]</small>
+|{{Days Item|Rose Braided Hair|spell|table}}<small>x3</small>
+|<small>Mini Spell Shop next to Bloom Guide at [[Starlight Desert]] for free</small>
+|-
+|[[Days of Bloom#{{Icon Name|Rose Petal Mask|name}}|{{Icon Name|Rose Petal Mask|name}}]]
+|{{Days Item|Rose Petal Mask||table}}
+|[[Mask]]
+|{{Cost|36 T|event=Bloom}}
+|<small>Bloom Guide at [[Starlight Desert]]</small>
+|{{Days Item|Rose Petal Mask|spell|table}}<small>x3</small>
+|<small>Mini Spell Shop next to Bloom Guide at [[Starlight Desert]] for free</small>
+|-
+|[[Blessings_(Spells)#Specific_Color_Dye_Blessing|Purple Dye Blessing]]
+|
+|[[Dyes]]
+|{{Cost|10 T|event=Bloom}}
+|<small>Bloom Guide at [[Starlight Desert]]</small>
+|{{Icon|Purple-dye-container-icon-spell.png|table|label=Purple Dye Blessing|link=}} <small>x3</small>
+|
+|-
+|[[Blessings (Spells)#Random Dye Blessing|Random Dye Spell]]
+|
+|[[Dyes]]
+|{{Cost|10 T|event=Bloom}}
+|<small>Mini Spell Shop next to Bloom Guide at [[Starlight Desert]]</small>
+|{{Icon|Random-dye-icon-spell.png|table|label=Random Dye Blessing}}
+|
+|-
+! colspan="7" style="text-align:center;" |From [[Season of The Little Prince]] <small>(Exclusive to Days of Bloom 2025)</small>
+|-
+|[[The Rose#Sword Outfit|Little Prince Sword Outfit]]
+|{{Spirit Item| The Rose | outfit_i | table}}
+|[[Outfit]]
+|{{Cost|200 C}}
+|<small>Mannequin standing up wearing a Scarf Cape and Sword Outfit near the Bloom Guide at [[Home]], [[Aviary Village]], & [[Starlight Desert]]</small>
+|{{Spirit Item| The Rose | outfit_i_spell | table | label=Little Prince Sword Outfit}}<small>x3</small>
+|<small>Mannequin standing up wearing a Scarf Cape and Sword Outfit near the Bloom Guide at [[Home]], [[Aviary Village]], & [[Starlight Desert]]</small>
+|-
+|[[Season of The Little Prince#Little Prince Scarf Cape|Little Prince Scarf Cape]]
+|{{Spirit Item| Little Prince | cape_s | table | link=Season of The Little Prince#Little Prince Scarf Cape | label=Little Prince Scarf Cape}}
+|[[Cape]]
+|{{Cost|14.99 USD|refnote}}
+|<small>Mannequin sitting down wearing an Asteroid Jacket and Fox Prop near the Bloom Guide at [[Home]], [[Aviary Village]], & [[Starlight Desert]]</small>
+|{{Spirit Item| Little Prince | cape_s_spell | table | label=Little Prince Scarf Cape}}<small>x3</small>
+|<small>Mannequin standing up wearing a Scarf Cape and Sword Outfit near the Bloom Guide at [[Home]], [[Aviary Village]], & [[Starlight Desert]]</small>
+|-
+|[[Season of The Little Prince#Little Prince Asteroid Jacket|Little Prince Asteroid Jacket]]
+|{{Spirit Item| Little Prince | cape_a | table | link=Season of The Little Prince#Little Prince Asteroid Jacket | label=Little Prince Asteroid Jacket}}
+|[[Cape]]
+|{{Cost|24.99 USD|refnote}}
+|<small>Mannequin sitting down wearing an Asteroid Jacket and Fox Prop near the Bloom Guide at [[Home]], [[Aviary Village]], & [[Starlight Desert]]</small>
+|{{Spirit Item| Little Prince | cape_a_spell | table | label=Little Prince Asteroid Jacket}}<small>x3</small>
+|<small>Mannequin standing up wearing a Scarf Cape and Sword Outfit near the Bloom Guide at [[Home]], [[Aviary Village]], & [[Starlight Desert]]</small>
+|-
+|[[Season of The Little Prince#Little Prince Fox Prop|Little Prince Fox Prop]]
+|{{Spirit Item| Little Prince | prop_i | table | link=Season of The Little Prince#Little Prince Fox Prop | label=Little Prince Fox Prop}}
+|[[Prop]]
+|{{Cost|9.99 USD|refnote}}
+|<small>Mannequin sitting down wearing an Asteroid Jacket and Fox Prop near the Bloom Guide at [[Home]], [[Aviary Village]], & [[Starlight Desert]]</small>
+|{{Spirit Item| Little Prince | prop_i_spell | table | label=Little Prince Fox Prop}}<small>x3</small>
+|<small>Mannequin standing up wearing a Scarf Cape and Sword Outfit near the Bloom Guide at [[Home]], [[Aviary Village]], & [[Starlight Desert]]</small>
+|-
+! colspan="7" style="text-align:center;" |From Days of Bloom 2024
+|-
+|[[Days of Bloom#{{Icon Name|Bloom Lilypad Umbrella|name}}|{{Icon Name|Bloom Lilypad Umbrella|name}}]]
+|{{Days Item|Bloom Lilypad Umbrella||table}}
+|[[Prop]]
+|{{Cost|14.99 USD|refnote}}
+|<small>Bloom Gift Box at [[Starlight Desert]]</small>
+|{{Days Item|Bloom Lilypad Umbrella|spell|table}}<small>x3</small>
+|<small>Mini Spell Shop next to Bloom Guide at [[Starlight Desert]] for free</small>
+|-
+|[[Days of Bloom#{{Icon Name|Bloom Arum Petal Cape|name}}|{{Icon Name|Bloom Arum Petal Cape|name}}]]
+|{{Days Item|Bloom Arum Petal Cape||table}}
+|[[Cape]]
+|{{Cost|118 C|event=Bloom}}
+|<small>Bloom Guide at [[Starlight Desert]]</small>
+|{{Days Item|Bloom Arum Petal Cape|spell|table}}<small>x3</small>
+|<small>Mini Spell Shop next to Bloom Guide at [[Starlight Desert]] for free</small>
+|-
+|[[Days of Bloom#{{Icon Name|Bloom Spiky Sprig Hair|name}}|{{Icon Name|Bloom Spiky Sprig Hair|name}}]]
+|{{Days Item|Bloom Spiky Sprig Hair||table}}
+|[[Hair]]
+|{{Cost|24 C|event=Bloom}}
+|<small>Bloom Guide at [[Starlight Desert]]</small>
+|{{Days Item|Bloom Spiky Sprig Hair|spell|table}}<small>x3</small>
+|<small>Mini Spell Shop next to Bloom Guide at [[Starlight Desert]] for free</small>
+|-
+|[[Days of Bloom#{{Icon Name|Bloom Arum Petal Hair|name}}|{{Icon Name|Bloom Arum Petal Hair|name}}]]
+|{{Days Item|Bloom Arum Petal Hair||table}}
+|[[Hair]]
+|{{Cost|25 H}}
+|<small>Bloom Guide at [[Starlight Desert]]</small>
+|{{Days Item|Bloom Arum Petal Hair|spell|table}}<small>x3</small>
+|<small>Mini Spell Shop next to Bloom Guide at [[Starlight Desert]] for free</small>
+|-
+! colspan="7" style="text-align:center;" |From Days of Bloom 2023
+|-
+|[[Days of Bloom#{{Icon Name|Bloom Picnic Basket|name}}|{{Icon Name|Bloom Picnic Basket|name}}]] + [[Seasonal_Events#Gift_Season_Pass|Gift Pass]]
+|{{Days Item|Bloom Picnic Basket||table}}
+|[[Prop]]
+|{{Cost|19.99 USD|refnote}}
+|<small>Bloom Gift Box at [[Starlight Desert]]</small>
+|{{Days Item|Bloom Picnic Basket|spell|table}}<small>x3</small>
+|<small>Mini Spell Shop next to Bloom Guide at [[Starlight Desert]] for free</small>
+|-
+|[[Days of Bloom#{{Icon Name|Bloom Gardening Tunic|name}}|{{Icon Name|Bloom Gardening Tunic|name}}]] 
+|{{Days Item|Bloom Gardening Tunic||table}}
+|[[Outfit]]
+|{{Cost|9.99 USD|refnote}}
+|<small>Bloom Gift Box at [[Starlight Desert]]</small>
+|{{Days Item|Bloom Gardening Tunic|spell|table}}<small>x3</small>
+|<small>Mini Spell Shop next to Bloom Guide at [[Starlight Desert]] for free</small>
+|-
+|[[Days of Bloom#{{Icon Name|Red Bloom Cape|name}}|{{Icon Name|Red Bloom Cape|name}}]]
+|{{Days Item|Red Bloom Cape||table}}
+|[[Cape]]
+|{{Cost|110 C}}
+|<small>Bloom Guide at [[Starlight Desert]]</small>
+|{{Days Item|Red Bloom Cape|spell|table|in_page=1}}<small>x3</small>
+|<small>Mini Spell Shop next to Bloom Guide at [[Starlight Desert]] for free</small>
+|-
+|[[Days of Bloom#{{Icon Name|Days of Bloom Butterfly Fountain|name}}|{{Icon Name|Days of Bloom Butterfly Fountain|name}}]]
+|{{Days Item|Days of Bloom Butterfly Fountain||table}}
+|[[Prop]]
+|{{Cost|80 C}}
+|<small>Bloom Guide at [[Starlight Desert]]</small>
+|{{Days Item|Days of Bloom Butterfly Fountain|spell|table}}<small>x3</small>
+|<small>Mini Spell Shop next to Bloom Guide at [[Starlight Desert]] for free</small>
+|-
+! colspan="7" style="text-align:center;" |From Days of Bloom 2022
+|-
+|[[Days of Bloom#{{Icon Name|Bloom Purple Teaset|name}}|{{Icon Name|Bloom Purple Teaset|name}}]] + {{Cost|35 C}}
+|{{Days Item|Bloom Purple Teaset||table}}
+|[[Prop]]
+|{{Cost|19.99 USD|refnote}}
+|<small>Bloom Gift Box at [[Starlight Desert]]</small>
+|{{Days Item|Bloom Purple Teaset|spell|table}}<small>x3</small>
+|<small>Mini Spell Shop next to Bloom Guide at [[Starlight Desert]] for free</small>
+|-
+|[[Days of Bloom#{{Icon Name|Purple Bloom Cape|name}}|{{Icon Name|Purple Bloom Cape|name}}]]
+|{{Days Item|Purple Bloom Cape||table}}
+|[[Cape]]
+|{{Cost|105 C}}
+|<small>Bloom Guide at [[Starlight Desert]]</small>
+|{{Days Item|Purple Bloom Cape|spell|table}}<small>x3</small>
+|<small>Mini Spell Shop next to Bloom Guide at [[Starlight Desert]] for free</small>
+|-
+! colspan="7" style="text-align:center;" |From Days of Bloom 2021
+|-
+|[[Days of Bloom#{{Icon Name|Bloom Teaset|name}}|{{Icon Name|Bloom Teaset|name}}]] + {{Cost|35 C}}
+|{{Days Item|Bloom Teaset||table}}
+|[[Prop]]
+|{{Cost|19.99 USD|refnote}}
+|<small>Bloom Gift Box at [[Starlight Desert]]</small>
+|{{Days Item|Bloom Teaset|spell|table}}<small>x3</small>
+|<small>Mini Spell Shop next to Bloom Guide at [[Starlight Desert]] for free</small>
+|-
+|[[Days of Bloom#{{Icon Name|Pink Bloom Hair|name}}|{{Icon Name|Pink Bloom Hair|name}}]]
+|{{Days Item|Pink Bloom Hair||table|}}
+|[[Hair]]
+|{{Cost|20 H}}
+|<small>Bloom Guide at [[Starlight Desert]]</small>
+|{{Days Item|Bloom Hair|spell|table}}<small>x3</small>
+|<small>Mini Spell Shop next to Bloom Guide at [[Starlight Desert]] for free</small>
+|-
+|[[Days of Bloom#{{Icon Name|Pink Bloom Cape|name}}|{{Icon Name|Pink Bloom Cape|name}}]]
+|{{Days Item|Bloom Cape||table}}
+|[[Cape]]
+|{{Cost|70 C}}
+|<small>Bloom Guide at [[Starlight Desert]]</small>
+|{{Days Item|Bloom Cape|spell|table}}<small>x3</small>
+|<small>Mini Spell Shop next to Bloom Guide at [[Starlight Desert]] for free</small>
+|}
+
+===2025 New Cosmetics and Props===
+====Bloom Rose-Embroidered Cape====
+::'''''"A dashing, pleated white cape with dyeable accents to refine your unique style."'''''
+The Bloom Rose-Embroidered Cape is a white pleated Cape with purple interior and shoulder mantle. A golden trim runs along the bottom of the mantle, interior, and exterior. On the exterior, golden leafy patterns sit atop that outline, with three blooming roses. It hangs off one shoulder, with three golden leaves at the neck.
+
+This [[Cape]] was introduced in 2025 and was available for {{Cost|14.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+
+{{Dye_Details
+|area1=the interior and shoulder mantle
+|cost1=4
+|area2=the rose decorations
+|cost2=1
+}}
+{{#tag:gallery
+|{{Icon Name|Days of Bloom Rose Cape|iap}} {{!}} {{Icon Name|Bloom Rose-Embroidered Cape|name}} IAP
+{{Icon Name|Days of Bloom Rose Cape|icon}} {{!}} {{Icon Name|Bloom Rose-Embroidered Cape|name}} icon
+{{Icon Name|Days of Bloom Rose Cape|front}} {{!}} {{Icon Name|Bloom Rose-Embroidered Cape|name}} Cape front
+{{Icon Name|Days of Bloom Rose Cape|interior}} {{!}} {{Icon Name|Bloom Rose-Embroidered Cape|name}} Cape interior
+{{Icon Name|Days of Bloom Rose Cape|real}} {{!}} {{Icon Name|Bloom Rose-Embroidered Cape|name}} Cape back
+{{Icon Name|Days of Bloom Rose Cape|exterior}} {{!}} {{Icon Name|Bloom Rose-Embroidered Cape|name}} Cape exterior
+{{Icon Name|Days of Bloom Rose Cape|spell}} {{!}} {{Icon Name|Bloom Rose-Embroidered Cape|name}} spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Bloom Rose Petal Mask====
+The Days of Bloom Rose Petal Mask is a purple domino mask with a creased cat-eye shape and round petals sprouting from the right side, accenting the eye hole. This [[Mask]] was introduced in 2025 and was available for {{Cost|36 T|event=bloom}} from the Bloom Guide at [[Starlight Desert]].<br>
+
+{{Dye_Details
+|area1=the petals
+|cost1=1
+|area2=a "winged eyeliner" like shape above each eye
+|cost2=1
+}}
+{{#tag:gallery
+|{{Icon Name|Bloom Rose Mask|icon}} {{!}} {{Icon Name|Bloom Rose Mask|name}} icon
+{{Icon Name|Bloom Rose Mask|real}} {{!}} {{Icon Name|Bloom Rose Mask|name}}
+{{Icon Name|Bloom Rose Mask|spell}} {{!}} {{Icon Name|Bloom Rose Mask|name}} spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Bloom Rose Jar Prop====
+The Bloom Rose Jar Prop is a single red rose in a square stone cup. It is a placable Prop that can be used to decorated [[Shared Spaces]]. This [[Prop]] was introduced in 2025 and was available for {{Cost|16 T|event=bloom}} from the Bloom Guide at [[Starlight Desert]].<br>
+
+{{Dye Details}}
+{{#tag:gallery
+|{{Icon Name|Rose Bloom Jar|icon}} {{!}} {{Icon Name|Rose Bloom Jar|name}} icon
+{{Icon Name|Rose Bloom Jar|real}} {{!}} {{Icon Name|Rose Bloom Jar|name}} prop
+{{Icon Name|Rose Bloom Jar|held}} {{!}} {{Icon Name|Rose Bloom Jar|name}} on a player's back
+{{Icon Name|Rose Bloom Jar|spell}} {{!}} {{Icon Name|Rose Bloom Jar|name}} spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Bloom Rose Braided Hair====
+The Bloom Rose Braided Hair is a long braid threaded with green ribbon and red petals. A shorter strand of hair hangs in front of the face. This [[Hair]] was introduced in 2025 and was available for {{Cost|28 T|event=bloom}} from the Bloom Guide at [[Starlight Desert]].<br><br>
+{{Dye_Details
+|area1 = the rose petals
+|area2 = the ribbon
+|cost1 = 1
+|cost2 = 1
+}}
+{{#tag:gallery
+|{{Icon Name|Days of Bloom Rose Braid|icon}} {{!}} {{Icon Name|Bloom Rose Braided Hair|name}} icon
+{{Icon Name|Days of Bloom Rose Braid|front}} {{!}} {{Icon Name|Bloom Rose Braided Hair|name}} front
+{{Icon Name|Days of Bloom Rose Braid|side}} {{!}} {{Icon Name|Bloom Rose Braided Hair|name}} side
+{{Icon Name|Days of Bloom Rose Braid|back}} {{!}} {{Icon Name|Bloom Rose Braided Hair|name}} back
+{{Icon Name|Days of Bloom Rose Braid|spell}} {{!}} {{Icon Name|Bloom Rose Braided Hair|name}} spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+== March 2024 <span id="2024"></span>==
+{{#ev:youtube|HeYCLa4u9So||right|Days of Bloom 2024 Trailer}}
+After the storms and the rains, the flowers returned at last - bringing with them Days of Bloom! The event began on '''Monday, March 25, 2024 at 00:00 PDT (UTC-7)''' and ended on '''Sunday, April 14, 2024 at 23:59 PDT (UTC-7)''', lasting '''21''' days. For the duration of the event, the Bloom Guide appeared in [[Aviary Village]], offering to take players directly to [[Prairie Peaks]] in Daylight Prairie.
+
+The heart of this year’s celebration was the Prairie Peaks, which gradually transformed over the course of the 3-week event, as seasonal storms made way for a landscape of vivid blossoms. There were three phases, each spanning a week:
+* '''1st Week:''' Rainstorms (including lightning strikes) arrived in Prairie Peaks, and [[Social Light]] appeared on the river.
+* '''2nd Week:''' Rainstorms ended and more flowers began to grow as the water from the rains filled the river (and added more Social Light). Additionally, a meditation circle that offered the ability to transform into a [[Jellyfish]] appeared.
+* '''3rd Week:''' The river returned to its regular level as Prairie Peaks reached, well, peak bloom.
+
+From the 2nd week onwards, a meditation circle near the Bloom Guide in Prairie Peaks allowed players to transform into a Jellyfish to see and join players from across game servers with [[Festival Tech]] to soar above the meadows and between the mountain tops.
+
+During Sky’s annual celebration of nature’s transient beauty, players could also find returning favorites from previous years—tranquil trees returned to [[Home]] and the [[Hidden Forest#Social Space|Hidden Forest's Social Space]], and the [[Season of Lightseekers]] Spirits were at the [[Forgotten Ark]] to welcome the wildflowers (and migrating [[Butterflies]]!) that turned the desert sands in a rainbow of colors.
+
+<small>Days of Bloom content was available to all players who had at least started the [[Season of Revival#Quest #4|4th Quest]] from the [[Hopeful Steward]] in [[Aviary Village]].</small><br>
+<br>
+<gallery widths="200px" captionalign="center" position="center">
+Days-of-Bloom-2024-Bloom-Guide-mimi4117-sam6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & mimi4117
+Days-of-Bloom-2024-Guide-mimi4117-sam6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & mimi4117
+Days-of-Bloom-2024-Week-1-Tickets-mimi4117-sam6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & mimi4117
+Days-of-Bloom-2024-Week-2-Tickets-mimi4117-sam6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & mimi4117
+Days-of-Bloom-2024-Returning-Items-1-mimi4117-sam6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & mimi4117
+Days-of-Bloom-2024-Returning-Items-2-mimi4117-sam6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & mimi4117
+</gallery>
+
+===Ticket Locations===
+[[File:Days-of-Bloom-Flower-Bud-Ticket.png|125px|thumb|A Days of Bloom flower bud Ticket]]
+A total of {{Cost|5 T|event=bloom}} flower bud-shaped Tickets were available each day—and where they were found was affected by the weather early in the event:
+
+*1st Week: 
+**{{Cost|3 T|event=bloom}} by standing where lightning strikes
+***{{Cost|1 T|event=bloom}} from a lightning strike, on a rock to the left of the river's small waterfall
+***{{Cost|1 T|event=bloom}} from a lightning strike, on a rock near the base of the snowy mountain, across from [[Jolly Geologist]]'s cave
+***{{Cost|1 T|event=bloom}} from a lightning strike, on an island near the large waterfall at the river's end
+**{{Cost|1 T|event=bloom}} on a lily pad near the middle of the river
+**{{Cost|1 T|event=bloom}} from interacting with the Bloom Guide in the event area
+
+*2nd-3rd Week: 
+**{{Cost|4 T|event=bloom}} hidden throughout Prairie Peaks in Daylight Prairie (see locations below)
+**{{Cost|1 T|event=bloom}} from interacting with the Bloom Guide in the event area
+
+{{Collapse
+|float= left
+|label= All Exact Ticket Locations
+|content=<u>'''Locations:'''</u>
+*'''1''' - Left of the area
+**A) {{Cost|1 T|event=bloom}} to the left of the entrance to the area, on the edge of the river
+**B) {{Cost|1 T|event=bloom}} along the river to the right of the Bloom Guide, on a small rock 
+**C) {{Cost|1 T|event=bloom}} on the first pointed rock on the other side of the beginning of the river
+**D) {{Cost|1 T|event=bloom}} in the middle of the large rock formation behind the Bloom Guide
+**E) {{Cost|1 T|event=bloom}} to the left of the entrance to the area, on the hillside towards the river
+
+*'''2''' - Center of the area
+**A) {{Cost|1 T|event=bloom}} at the end of the rainbow, in the middle of the river's small waterfall
+**B) {{Cost|1 T|event=bloom}} behind the rocky rise to the right of the river
+**C) {{Cost|1 T|event=bloom}} on top of the rock next to the stone monolith, in the center of the area
+**D) {{Cost|1 T|event=bloom}} on the bottom step on the edge of the river, to the left of the river's small waterfall
+**E) {{Cost|1 T|event=bloom}} on the opposite side of Bloom Guide, on the edge of the river
+
+*'''3''' - Underwater
+**A) {{Cost|1 T|event=bloom}} on the opposite side of the river from the small waterfall near a shiny crystal, underwater
+**B) {{Cost|1 T|event=bloom}} in the narrow river ravine, underwater (river end next to the area entrance, locate a lone lily pad at the center of the lake, and swim up the river)
+**C) {{Cost|1 T|event=bloom}} in front of the large rock formation, at the bottom of the river next to a [[Flora, Minerals and Elements of Sky#Underwater Light Bloom|Underwater Light Bloom]], underwater
+}}
+<br>
+Players could also buy additional Tickets (costing {{Cost|2 AC}} or {{Cost|6 C}} each) from the [[Spell Shops#Sleepy Traveler's Boat|Sleepy Traveler's boat]] at [[Home]] or the [[Aviary_Village#Spell_Shop|Spell Shop]] in [[Aviary Village]].
+
+{| class="article-table mw-collapsible mw-collapsed" style="float:right; text-align:center;"
+! style="text-align:center" colspan="3" | '''Ticket Locations'''
+|-
+! '''Date'''
+! '''Locations'''
+! '''Daily Total'''
+|-
+| March 25, 2024
+| -
+| {{Cost|{{#vardefineecho:D1|5}} T|event=bloom}}
+|-
+| March 26, 2024
+| -
+| {{Cost|{{#vardefineecho:D2|5}} T|event=bloom}}
+|-
+| March 27, 2024
+| -
+| {{Cost|{{#vardefineecho:D3|5}} T|event=bloom}}
+|-
+| March 28, 2024
+| -
+| {{Cost|{{#vardefineecho:D4|5}} T|event=bloom}}
+|-
+| March 29, 2024
+| -
+| {{Cost|{{#vardefineecho:D5|5}} T|event=bloom}}
+|-
+| March 30, 2024
+| -
+| {{Cost|{{#vardefineecho:D6|5}} T|event=bloom}}
+|-
+| March 31, 2024
+| -
+| {{Cost|{{#vardefineecho:D7|5}} T|event=bloom}}
+|-
+| April 1, 2024
+| 1A, 2A, 2B, 3A
+| {{Cost|{{#vardefineecho:D8|5}} T|event=bloom}}
+|-
+| April 2, 2024
+| 1A, 1B, 2C, 3B
+| {{Cost|{{#vardefineecho:D9|5}} T|event=bloom}}
+|-
+| April 3, 2024
+| 1C, 1D, 2D, 3C
+| {{Cost|{{#vardefineecho:D10|5}} T|event=bloom}}
+|-
+| April 4, 2024
+| 1C, 2B, 2E, 3A
+| {{Cost|{{#vardefineecho:D11|5}} T|event=bloom}}
+|-
+| April 5, 2024
+| 1A, 2A, 2C, 3B
+| {{Cost|{{#vardefineecho:D12|5}} T|event=bloom}}
+|-
+| April 6, 2024
+| 1B, 1D, 2D, 3B
+| {{Cost|{{#vardefineecho:D13|5}} T|event=bloom}}
+|-
+| April 7, 2024
+| 1C, 2B, 2E, 3C
+| {{Cost|{{#vardefineecho:D14|5}} T|event=bloom}}
+|-
+| April 8, 2024
+| 1E, 2A, 2B, 3B
+| {{Cost|{{#vardefineecho:D15|5}} T|event=bloom}}
+|-
+| April 9, 2024
+| 1B, 2C, 2D, 3B
+| {{Cost|{{#vardefineecho:D16|5}} T|event=bloom}}
+|-
+| April 10, 2024
+| 1C, 1D, 2D, 3C
+| {{Cost|{{#vardefineecho:D17|5}} T|event=bloom}}
+|-
+| April 11, 2024
+| 1C, 2B, 2E, 3A
+| {{Cost|{{#vardefineecho:D18|5}} T|event=bloom}}
+|-
+| April 12, 2024
+| 1E, 2A, 2C, 3B
+| {{Cost|{{#vardefineecho:D19|5}} T|event=bloom}}
+|-
+| April 13, 2024
+| 1D, 1B, 2D, 3B
+| {{Cost|{{#vardefineecho:D20|5}} T|event=bloom}}
+|-
+| April 14, 2024
+| 1C, 2B, 2E, 3C
+| {{Cost|{{#vardefineecho:D21|5}} T|event=bloom}}
+|-
+! colspan="2" style="text-align:center;" | '''Total so far'''
+! style="text-align:center;" | '''{{Cost|{{#expr: ({{#var:D1}} + {{#var:D2}} + {{#var:D3}} + {{#var:D4}} + {{#var:D5}} + {{#var:D6}} + {{#var:D7}} + {{#var:D8}} + {{#var:D9}} + {{#var:D10}} + {{#var:D11}} + {{#var:D12}} + {{#var:D13}} + {{#var:D14}} + {{#var:D15}} + {{#var:D16}} + {{#var:D17}} + {{#var:D18}} + {{#var:D19}} + {{#var:D20}} + {{#var:D21}}) }} T|event=bloom}}'''
+|}
+
+{{Friendship Tree
+|label  = Bloom Guide
+|event = Bloom
+|image = Days-of-Bloom-Guide.png
+
+|nodeC2 = {{Icon Name|Bloom Arum Petal Cape|icon}} 48 T
+|  labelC2 = {{Icon Name|Bloom Arum Petal Cape|name}}
+|  linkC2 = Days of Bloom#{{Icon Name|Bloom Arum Petal Cape|name}}
+
+|nodeR1 = {{Icon Name|Bloom Spiky Sprig Hair|icon}} 24 T
+|  labelR1 = {{Icon Name|Bloom Spiky Sprig Hair|name}}
+|  linkR1  = Days of Bloom#{{Icon Name|Bloom Spiky Sprig Hair|name}}
+|nodeL1 = {{Icon Name|Bloom Arum Petal Hair|icon}} 25 H
+|  labelL1 = {{Icon Name|Bloom Arum Petal Hair|name}}
+|  linkL1  = Days of Bloom#{{Icon Name|Bloom Arum Petal Hair|name}}
+|nodeC1 = Icon_warp.png
+|  labelC1 = Teleport to Prairie Peaks
+|  linkC1  = Prairie Peaks
+}}{{Clear}}
+
+===2024 New Cosmetics and Props===
+====Bloom Lilypad Umbrella====
+::'''''"Relish the symphony of spring showers from under a leafy shelter."'''''
+The Bloom Lilypad Umbrella is a large green lily pad adorned with drops of water and a long stem that functions as a handle. When equipped, this umbrella is held by the player and provides protection from the [[Flora, Minerals and Elements of Sky#Rain|rain]]. It cannot be placed and therefore cannot be used in [[Shared Spaces]]. This [[Prop]] was introduced in 2024 and was available for {{Cost|14.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<ref name="Lilypad availability">The [[#Bloom Lilypad Umbrella|Bloom Lilypad Umbrella]] was briefly made available for Android players after Days of Bloom 2024 ended, from '''April 24 at 00:00 PDT (UTC -7)''' until '''April 26 at 23:59 PDT (UTC -7)'''. This was in response to the issues some players encountered while making purchases through the Google Play Store, which affected the ability to obtain the Bloom Lilypad Umbrella during the event.</ref><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Bloom Lilypad Umbrella|iap}} {{!}} {{Icon Name|Bloom Lilypad Umbrella|name}} IAP
+{{Icon Name|Bloom Lilypad Umbrella|icon}} {{!}} {{Icon Name|Bloom Lilypad Umbrella|name}} icon
+{{Icon Name|Bloom Lilypad Umbrella|real}} {{!}} {{Icon Name|Bloom Lilypad Umbrella|name}}
+{{Icon Name|Bloom Lilypad Umbrella|held}} {{!}} Holding the {{Icon Name|Bloom Lilypad Umbrella|name}}
+{{Icon Name|Bloom Lilypad Umbrella|back}} {{!}} {{Icon Name|Bloom Lilypad Umbrella|name}} on a player's back
+{{Icon Name|Bloom Lilypad Umbrella|spell}} {{!}} {{Icon Name|Bloom Lilypad Umbrella|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Bloom Arum Petal Cape====
+The Bloom Arum Petal Cape is shaped like the ruffled white and green petals of an arum lily flower with small drops of water near the collar. This [[Cape]] was introduced in 2024 and was available for {{Cost|48 T|event=Bloom}} from the Bloom Guide at [[Prairie Peaks]] or [[Aviary Village#Aviary Event Store|Aviary Village]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Bloom Arum Petal Cape}} {{!}} {{Icon Name|Bloom Arum Petal Cape|name}} icon
+{{Icon Name|Bloom Arum Petal Cape|front}} {{!}} {{Icon Name|Bloom Arum Petal Cape|name}} front
+{{Icon Name|Bloom Arum Petal Cape|interior}} {{!}} {{Icon Name|Bloom Arum Petal Cape|name}} interior
+{{Icon Name|Bloom Arum Petal Cape|real}} {{!}} {{Icon Name|Bloom Arum Petal Cape|name}} back
+{{Icon Name|Bloom Arum Petal Cape|exterior}} {{!}} {{Icon Name|Bloom Arum Petal Cape|name}} exterior
+{{Icon Name|Bloom Arum Petal Cape|spell}} {{!}} {{Icon Name|Bloom Arum Petal Cape|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Bloom Spiky Sprig Hair====
+The Bloom Spiky Sprig Hair is a short, fluffy hairstyle with three green leaves tucked above the player's right ear. This [[Hair]] was introduced in 2024 and was available for {{Cost|24 T|event=Bloom}} from the Bloom Guide at [[Prairie Peaks]] or [[Aviary Village#Aviary Event Store|Aviary Village]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Bloom Spiky Sprig Hair}} {{!}} {{Icon Name|Bloom Spiky Sprig Hair|name}} icon
+{{Icon Name|Bloom Spiky Sprig Hair|front}} {{!}} {{Icon Name|Bloom Spiky Sprig Hair|name}} front
+{{Icon Name|Bloom Spiky Sprig Hair|real}} {{!}} {{Icon Name|Bloom Spiky Sprig Hair|name}} side
+Bloom-Spiky-Sprig-Hair-back.png {{!}} {{Icon Name|Bloom Spiky Sprig Hair|name}} back
+{{Icon Name|Bloom Spiky Sprig Hair|spell}} {{!}} {{Icon Name|Bloom Spiky Sprig Hair|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Bloom Arum Petal Hair====
+The Bloom Arum Petal Hair is a medium-length hairstyle that swoops to the side, somewhat resembling the shape of an arum lily flower, with a pair of green leaves poking up from the back of the player's head. This [[Hair]] was introduced in 2024 and was available for {{Cost|25 H}} from the Bloom Guide at [[Prairie Peaks]] or [[Aviary Village#Aviary Event Store|Aviary Village]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Bloom Arum Petal Hair}} {{!}} {{Icon Name|Bloom Arum Petal Hair|name}} icon
+{{Icon Name|Bloom Arum Petal Hair|real}} {{!}} {{Icon Name|Bloom Arum Petal Hair|name}} front
+{{Icon Name|Bloom Arum Petal Hair|side}} {{!}} {{Icon Name|Bloom Arum Petal Hair|name}} side
+Bloom-Arum-Petal-Hair-back.png {{!}} {{Icon Name|Bloom Arum Petal Hair|name}} back
+{{Icon Name|Bloom Arum Petal Hair|spell}} {{!}} {{Icon Name|Bloom Arum Petal Hair|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+==March 2023<span id="2023"></span>==
+[[File:Days-of-Bloom-2023-Promo-image.png|thumb|Promotional image - Days of Bloom 2023|250x250px]]
+This year’s Days of Bloom events were expanded from two weeks to three, from '''00:00 on March 20''' and until '''23:59 April 9''' (all times PDT, UTC -7). Spirits from the [[Season of Lightseekers]] returned to the realms to take in the renewal that awaits.
+
+Although the biggest spectacle was in Forgotten Ark, two familiar trees emerged elsewhere, one in [[Home]] and the other in the [[Hidden Forest]]'s Social Space.
+
+Free Spell versions of all new and returning Days of Bloom items were available in Home and in the Spell Shop in the Forgotten Ark so that all players had a chance to enjoy them. ''Days of Bloom was available to all players who had progressed to at least Golden Wasteland.''
+
+Across four phases, life emerged from the sands and grew into a lush, vibrant meadow full of life:
+
+* Phase 1: rain clouds rolled through and a Lightseekers Spirit cast spells to help new sprouts emerge.
+* Phase 2: a trail of petals appeared on the wind for players to glide upon.
+* Phase 3: from March 27 through April 6, the desert turned into an oasis. The trail of petals emitted Light to collect every couple of hours. (During this phase, players had the chance to join a large group of Sky children, utilizing the [[Festival Tech]] feature. Meditating at a shrine near the Lightseekers Spirits allowed players to join hundreds, even thousands of other players gathered in the Forgotten Ark and transformed them into butterflies. ) ''Note: Some Light was available only while in butterfly form.''
+* Phase 4: flowers reached the end of their bloom and eventually faded out.
+
+===2023 New Cosmetics and Props===
+====Bloom Gardening Tunic====
+::'''''"Made to endure tending to the most unruly garden."'''''
+The Bloom Gardening Tunic consists of a brown overall with a beige apron tied around the waist, which holds a red flower in its wide pocket, a beige round-collar shirt with folded sleeves, brown boots, green gloves and a small shovel attached to the overall's left side. This [[Outfit]] was introduced in 2023 and was available for {{Cost|9.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Bloom Gardening Tunic|iap}}{{!}}{{Icon Name|Bloom Gardening Tunic|name}} IAP
+{{Icon Name|Bloom Gardening Tunic}}{{!}}{{Icon Name|Bloom Gardening Tunic|name}} icon
+{{Icon Name|Bloom Gardening Tunic|real}}{{!}}{{Icon Name|Bloom Gardening Tunic|name}} front
+{{Icon Name|Bloom Gardening Tunic|back}} {{!}}{{Icon Name|Bloom Gardening Tunic|name}} back
+{{Icon Name|Bloom Gardening Tunic|spell}}{{!}}{{Icon Name|Bloom Gardening Tunic|name}} Spell
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Bloom Picnic Basket====
+::'''''"Quaintly tailored blanket to set out a light snack for you and your friends. Might attract fluttery visitors."'''''
+The Bloom Picnic Basket Pack includes two item: The Bloom Picnic Basket and one [[Friendship Menu#Gift Pass|Giftable Season Pass]]. The Bloom Picnic Basket is a squared table, decorated with a red-white checkered tablecloth and holds a picnic basket filled with dishes, and a wooden bowl filled with round pastries. It is a placeable Prop that can be used to decorate [[Shared Spaces]], and functions as a three-player [[Chat]] item. When placed near [[Butterflies]], they may occasionally land on the bowl or basket and fly off again after a while. The round pastries can be eaten by selecting the {{Icon|Eat-cookie-icon.png}} cookie icon, though this action has have no effect on the player. The pastries automatically refill when the bowl is empty.
+
+This [[Prop]] was introduced in 2023 and was available for {{Cost|19.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Bloom Picnic Basket|iap}}{{!}}{{Icon Name|Bloom Picnic Basket|name}} IAP
+{{Icon Name|Bloom Picnic Basket}}{{!}}{{Icon Name|Bloom Picnic Basket|name}} icon
+{{Icon Name|Bloom Picnic Basket|real}}{{!}}{{Icon Name|Bloom Picnic Basket|name}}
+{{Icon Name|Bloom Picnic Basket|back}} {{!}}{{Icon Name|Bloom Picnic Basket|name}} on a player's back
+{{Icon Name|Bloom Picnic Basket|spell}}{{!}}{{Icon Name|Bloom Picnic Basket|name}} Spell
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Red Bloom Cape====
+The Red Bloom Cape is shaped like a tulip's flower head and is colored in orange and peach tones - the Cape has multiple petal layers and is warped upwards towards the hem. This [[Cape]] was introduced in 2023 and was available for {{Cost|110 C}} from the Days of Bloom Guide at [[Forgotten Ark]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Red Bloom Cape}}{{!}}{{Icon Name|Red Bloom Cape|name}} icon
+{{Icon Name|Red Bloom Cape|front}}{{!}}{{Icon Name|Red Bloom Cape|name}} front
+{{Icon Name|Red Bloom Cape|interior}}{{!}}{{Icon Name|Red Bloom Cape|name}} interior
+{{Icon Name|Red Bloom Cape|real}}{{!}}{{Icon Name|Red Bloom Cape|name}} back
+{{Icon Name|Red Bloom Cape|exterior}}{{!}}{{Icon Name|Red Bloom Cape|name}} exterior
+{{Icon Name|Red Bloom Cape|spell}}{{!}}{{Icon Name|Red Bloom Cape|name}} Spell
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Bloom Butterfly Fountain====
+The Bloom Butterfly Fountain is a bird bath made of stone, decorated with red flowers inside the bowl and a green flower at the base of the stand. It is a placeable Prop that can be used to decorated [[Shared Spaces]]. When placed near [[Butterflies]], they come land on the Prop rest for a while before flying off again - it works similar to the {{Emote|Butterfly Charmer|inline_text}} Expression. When carried on its owner's back, the Prop appears as a miniature version of itself. 
+
+This [[Prop]] was introduced in 2023 and was available for {{Cost|80 C}} from the Days of Bloom Guide at [[Forgotten Ark]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Bloom Butterfly Fountain}}{{!}}{{Icon Name|Bloom Butterfly Fountain|name}} icon
+{{Icon Name|Bloom Butterfly Fountain|real}}{{!}}{{Icon Name|Bloom Butterfly Fountain|name}}
+{{Icon Name|Bloom Butterfly Fountain|back}} {{!}}{{Icon Name|Bloom Butterfly Fountain|name}} on a player's back
+{{Icon Name|Bloom Butterfly Fountain|spell}}{{!}}{{Icon Name|Bloom Butterfly Fountain|name}} Spell
+|widths=125|captionalign=center|spacing=small
+}}
+
+==March 2022<span id="2022"></span>==
+[[File:Days-of-bloom-2022.jpg|thumb|Promotional image - Days of Bloom 2022|250x250px]]
+Days of Bloom was back for a second year! This long awaited event was held from '''00:00 March 28 through 23:59 April 10 (all times PDT, UTC-7)''' and for the occasion the Hidden Forest portal at Home adorned purple tree Wisteria branches. The event was open to all players who had progressed in the game to at least Hidden Forest.
+<br><br>
+At the [[Hidden Forest]] Social Space, a large Wisteria tree was added and all Spirits from the [[Season of Lightseekers]] had a party. Petals falling from the tree made the scenery the most romantic and purple Pieces of Light could be collected just hanging around the tree during four different phases: bud, blossom, falling blossoms, and finally bare branches at the end of the event. ''' During the two phases that the branches were in blossom, players could collect Light''' from colorful cascades of flowers. Players could have fun interactions with the Lightseeker Spirits such as the {{Emote|Bearhug Hermit|inline_text}}, {{Emote|Hairtousle Teen|inline_text}} or {{Emote|Doublefive Light Catcher|inline_text}} and they could be observed playing with their respective Props and Instruments, adding life to the whole event. 
+
+On higher ground, the Days of Bloom Guide could be found sitting wearing the new [[#Purple Bloom Cape|Purple Bloom Cape]] and giving away temporary Spells from last year; the Pink Bloom Teaset, the Pink Bloom Cape and the Pink Bloom Hair. The Lightseeker Guide, carrying the '''new IAP Purple Bloom Teaset''' could be found having tea with the Bloom Guide or roaming here and there.
+
+Visiting the Sleepy Traveling Merchant’s boat at [[Home]] allowed players to collect free Spells. Each of these temporary Spells lasted for 30 minutes.
+
+===2022 New Cosmetics and Props===
+====Purple Bloom Teaset====
+[[File:Wisteria teaset animation.gif|thumb|200px|Purple Bloom Teaset animation]]
+::'''''"Commemorate the trees in bloom with an elegant purple-themed tea party for three. Pack includes {{Cost|C}}× 35!"'''''
+
+The Purple Bloom Teaset Pack includes two items: the Purple Bloom Teaset and {{Cost|35 C}}. The Purple Bloom Teaset consists of a table rounded with three stools - the table is round and decorated with golden accents, a purple tablecloth hemmed with yellow, and holds three cups, a teapot, a sugar container, a milk saucer, and a three-story cupcake stand filled with round pastries; the stone stools are topped with purple cushions and decorated with golden accents.
+
+It is a placeable Prop that can be used to decorate [[Shared Spaces]], and functions as a three-player [[Chat]] item. In order to start chatting, each player must drink out of their cup once by selecting the {{Icon|Drink-teacup-icon.png}} teacup icon, after which the {{Icon|Icon chat.png}} chat icon pops up above their head. Players can drink out of the cups as much as they please - the round patries can be eaten by selecting the {{Icon|Eat-cookie-icon.png}} cookie icon, though this action has no effect on the player. The pastries automatically refill when the stand is empty. When carried on its owner's back, the Prop appears as a a teacup, decorated with purple and golden accents. 
+
+This [[Prop]] was introduced in 2022 and was available for {{Cost|19.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Bloom Purple Teaset|iap}} {{!}} {{Icon Name|Bloom Purple Teaset|name}} IAP
+{{Icon Name|Bloom Purple Teaset}} {{!}} {{Icon Name|Bloom Purple Teaset|name}} icon
+{{Icon Name|Bloom Purple Teaset|real}} {{!}} {{Icon Name|Bloom Purple Teaset|name}}
+{{Icon Name|Bloom Purple Teaset|back}} {{!}} {{Icon Name|Bloom Purple Teaset|name}} on a player's back
+{{Icon Name|Bloom Purple Teaset|spell}} {{!}} {{Icon Name|Bloom Purple Teaset|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Purple Bloom Cape====
+The Purple Bloom Cape is shaped like a wisteria petal, delicately wrapped around the player; it is colored purple and fades into a lighter shade towards the top, with a bit of yellow at the back - the hem is folded over and a single yellow light sphere floats near the hem. This [[Cape]] was introduced in 2022 and was available for {{Cost|105 C}} from the Days of Bloom Guide in [[Hidden Forest]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Purple Bloom Cape|icon}} {{!}} {{Icon Name|Purple Bloom Cape|name}} icon
+{{Icon Name|Purple Bloom Cape|front}} {{!}} {{Icon Name|Purple Bloom Cape|name}} front
+{{Icon Name|Purple Bloom Cape|interior}} {{!}} {{Icon Name|Purple Bloom Cape|name}} interior
+{{Icon Name|Purple Bloom Cape|real}} {{!}} {{Icon Name|Purple Bloom Cape|name}} back
+{{Icon Name|Purple Bloom Cape|exterior}} {{!}} {{Icon Name|Purple Bloom Cape|name}} exterior
+{{Icon Name|Purple Bloom Cape|spell}} {{!}} {{Icon Name|Purple Bloom Cape|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+==March 2021<span id="2021"></span>==
+[[File:Days_of_Bloom_2021.jpg|thumb|Promotional image - Days of Bloom 2021|250x250px]]
+With an offering of petal-themed items and tranquil scenery, Days of Bloom began on '''Monday, March 22 at 00:00 PDT (UTC-7) and concluded on Sunday, April 4 at 23:59 PST (UTC-7)'''. Players were able to collect Light from beneath the branches of the tree which varied in amount based on its bloom. At Home, the Quest Giver gave themed Daily Quests that were added amongst the regular tasks, such as "Admire the sapling for a short while". The Bloom Tree persisted for a few days after the event concluded.
+
+The Sleepy Traveling Merchant offered free Spell versions of all of the event items on their boat. Each of these temporary Spells last for 30 minutes.
+{{Clear}}
+===2021 New Cosmetics and Props===
+====Pink Bloom Teaset====
+::'''''"Enjoy a cup of tea and quiet moment with a friend. Pack includes {{Cost|C}}x 35!"'''''
+
+The Pink Bloom Teaset Pack includes two items: the Pink Bloom Teaset and {{Cost|35 C}}. The Pink Bloom Teaset consists of a table and seats made of stone - the table is rectangular, decorated with a blue tablecloth, a cubic vase holding two branches blooming with cherry blossoms, and two cups; the two seats are made of five stones each, arranged in the shape of a blossom. 
+
+It is a placeable Prop that can be used to decorate [[Shared Spaces]], and functions as a two-player [[Chat]] item. In order to start chatting, each player must drink out of their cup once by selecting the {{Icon|Drink-teacup-icon.png}} teacup icon, after which the {{Icon|Icon chat.png}} chat icon pops up above their head. Players can drink out of the cups as much as they please. When carried on its owner's back, the Prop appears as a rectangular backpack wrapped with the tablecloth and a cherry blossom branch sticking in it. 
+
+This [[Prop]] was introduced in 2021 and was available for {{Cost|19.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Pink Bloom Teaset|iap}} {{!}} {{Icon Name|Pink Bloom Teaset|name}} IAP
+{{Icon Name|Pink Bloom Teaset}} {{!}} {{Icon Name|Pink Bloom Teaset|name}} icon
+{{Icon Name|Pink Bloom Teaset|real}} {{!}} {{Icon Name|Pink Bloom Teaset|name}}
+{{Icon Name|Pink Bloom Teaset|back}} {{!}} {{Icon Name|Pink Bloom Teaset|name}} on a player's back
+{{Icon Name|Pink Bloom Teaset|spell}} {{!}} {{Icon Name|Pink Bloom Teaset|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Pink Bloom Hair====
+The Pink Bloom Hair is made of two low pigtails held with a pink cherry blossom flower each, and has full bangs with face-framing strands of hair. This [[Hair]] was introduced in 2021 and was available for {{Cost|20 H}} from the Days of Bloom Guide at [[Home]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Pink Bloom Hair}} {{!}} {{Icon Name|Pink Bloom Hair|name}} icon
+{{Icon Name|Pink Bloom Hair|real}} {{!}} {{Icon Name|Pink Bloom Hair|name}} front
+{{Icon Name|Pink Bloom Hair|side}} {{!}} {{Icon Name|Pink Bloom Hair|name}} side
+{{Icon Name|Pink Bloom Hair|spell}} {{!}} {{Icon Name|Pink Bloom Hair|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Pink Bloom Cape====
+The Pink Bloom Cape is shaped like a cherry blossom petal, delicately wrapped around the player, colored pink inside and towards the neck and fading into white towards the hem. This [[Cape]] was introduced in 2021 and was available for {{Cost|70 C}} from the Days of Bloom Guide at [[Home]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Pink Bloom Cape|icon}} {{!}} {{Icon Name|Pink Bloom Cape|name}} icon
+{{Icon Name|Pink Bloom Cape|front}} {{!}} {{Icon Name|Pink Bloom Cape|name}} front
+{{Icon Name|Pink Bloom Cape|interior}} {{!}} {{Icon Name|Pink Bloom Cape|name}} interior
+{{Icon Name|Pink Bloom Cape|real}} {{!}} {{Icon Name|Pink Bloom Cape|name}} back
+{{Icon Name|Pink Bloom Cape|exterior}} {{!}} {{Icon Name|Pink Bloom Cape|name}} exterior
+{{Icon Name|Pink Bloom Cape|spell}} {{!}} {{Icon Name|Pink Bloom Cape|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+===Saplings===
+Since Days of Bloom debuted, five saplings can be found at the beginning of each [[Realms|Realm]], surrounded by a circle of stones and next to a [[Chat Benches|Chat Bench]]. Outside of Days of Bloom, the saplings' branches are bare. During certain [[Quests|Daily Quests]] ({{Icon|Quest-player-icon.png}} Admire the sapling in [Realm] for a short while) and Days of Bloom, the saplings bloom with pink blossoms. The five saplings can be found in:
+
+*[[Daylight Prairie]], to the player's left when entering the Realm, through the left side tunnel and up the steps.
+*Hidden Forest, in the [[Hidden Forest#Forest Clearing|Forest Clearing]], hidden between trees on the very left, past the pond, the Message Shrine and the Forest's [[Map Shrines#Hidden Forest|second Map Shrine]].
+*[[Valley of Triumph]], to the player's right when entering the Realm, above the tunnel to the Village of Dreams.
+*Golden Wasteland, in the [[Golden Wasteland#Broken Temple|Broken Temple]], to the player's right, near the boat to the Forgotten Ark; a big spear is jutted into the ground nearby.
+*[[Vault of Knowledge]], near the the entrance to the [[Repository of Refuge]].
+
+The saplings in full bloom:
+<gallery widths="150" spacing="small" captionalign="center">
+sapling prairie.JPG|Prairie Sapling
+sapling forest 2.JPG|Forest Sapling
+sapling valley.JPG|Valley Spaling
+sapling wasteland.JPG|Wasteland Sapling
+sapling vault.JPG|Vault Sapling
+</gallery>
+
+The saplings outside of the event: 
+<gallery widths="150" spacing="small" captionalign="center">
+listtle prairie sapling.jpg|Prairie Sapling
+little forest sapling.jpg|Forest Sapling
+little valley sapling.jpg|Valley Sapling
+little wasteland sapling.jpg|Wasteland Sapling
+little vault sapling.jpg|Vault Sapling
+</gallery>
+
+==Trivia==
+* Several items from the Days of Bloom are depicted in various merch items from [[That Sky Shop]]. To know more about That Sky Shop products, visit their website: https://thatskyshop.com
+
+==Video Gallery==
+{{#ev:youtube|c7g4_wYYEmg||left|Days of Bloom 2021- Quests and Cosmetics - Sky- Children of the Light}}{{#ev:youtube|4a22lGrq_uA||inline|Days of Bloom 2022 - Behind the Scenes}}
+{{Clear}}
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Days of Bloom Spirit.PNG|Days of Bloom Guide 2021
+Days of Bloom Tree.JPG|Days of Bloom Tree 2021
+Days-of-Bloom-2021-Promo-Image-Jump.png|2021 Promo image
+Days-of-Bloom-2021-Promo-Image-Tree.png|2021 Promo image
+Days-of-Bloom-2021-Promo-Image-Confetti.png|2021 Promo image
+Days-of-Bloom-2021-Promo-Image-Night.png|2021 Promo image
+Days-of-Bloom-2021-Promo-Image-Teaset.png|2021 Promo image
+Days of Bloom - Forest portal.jpg|The Forest portal decorated for Days of Bloom Guide 2022
+Days-of-Bloom-2022-Promo-Image-Teaparty.png|2022 Promo image
+Days-of-Bloom-2022-Promo-Image-Spirits.png|2022 Promo image
+Days-of-Bloom-2022-Promo-Image-Teaset.png|2022 Promo image
+Days-of-Bloom-2023-Promo-image-Ark.png|2023 Promo image
+Days-of-Bloom-2023-Promo-Image-Music.png|2023 Promo image
+Days-of-Bloom-2023-Promo-Image-Picnic.png|2023 Promo image
+Days-of-Bloom-2024-ticket-Promo-image.png|2024 Promo image
+Days-of-Bloom-2024-cosmetics-Promo-image.png|2024 Promo image
+Bloom_Event_Board_2025.JPG|Guide at Aviary Event Board 2025
+</gallery>
+
+==References==
+'''More information about Days of Bloom 2025 can be found on [https://www.thatskygame.com/news/a-bloom-to-remember-rediscover-the-little-prince-in-sky ThatSkyGame's Website].'''
+<br>'''More information about Days of Bloom 2024 can be found on [https://www.thatskygame.com/news/be-transformed-in-days-of-bloom-2024 ThatSkyGame's Website].'''
+<br>'''More information about Days of Bloom 2023 can be found on [https://www.thatskygame.com/news/beauty-transformations-in-days-of-bloom-2023 ThatSkyGame's Website].'''
+<br>'''More information about Days of Bloom 2022 can be found on [https://www.thatskygame.com/news/new-blossoms-unfold-for-days-of-bloom-2022 ThatSkyGame's Website].'''
+<br>'''More information about Days of Bloom 2021 can be found on [https://thatskygame.com/news/launch-update-days-of-bloom ThatSkyGame's Website].'''
+<references />
+
+{{Holiday Navbox}}
+
+[[fr:Jours de la Floraison]]
+[[es:Días de floración]]
+[[de:Tage der Blüte]]
+[[pt-br:Dias do Florescer]]
+[[ru:Цветущие дни]]
+[[ja:花笑む日々]]
+[[zh:花憩節]]
+
+{{DEFAULTSORT:Bloom, Days of}}
+[[Category:Events]]
+[[Category:Recurring Events]]

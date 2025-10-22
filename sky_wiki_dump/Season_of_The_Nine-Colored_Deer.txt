@@ -1,0 +1,358 @@
+{{Season
+| title = Season of the Nine-Colored Deer
+| image = SoNine-Colored-Deer-Promo-image.png
+| start = January 15, 2024
+| end = March 31, 2024
+| spirits = 4
+| previousSeason = [[Season of Revival]]
+| nextSeason = [[Season of Nesting]]
+| constellation = SoNine-Colored-Deer-Spirit-Constellation.png
+| symbol = Season-of-The-Nine-Colored-Deer-icon.png
+}}
+<section begin="9CD Collab 1" />
+The '''Season of the Nine-Colored Deer''' was the twentieth Seasonal Event in the Live version of Sky since the global release, following [[Season of Revival]]. It began '''Monday, January 15, 2024 at 00:00 PST (UTC -8)''' and ended '''Sunday, March 31, 2024 at 23:59 PDT (UTC -7)''', lasting '''77''' days. It was the third collaborative Seasonal Event in the world of Sky, in collaboration with [[wp:Shanghai Animation Film Studio|Shanghai Animation Film Studio's]] animated adaptation of [[wp:A Deer of Nine Colors|A Deer of Nine Colors]] (Chinese: ''九色鹿'').<section end="9CD Collab 1" />
+
+Enter the story of Season of the Nine-Colored Deer to confront the chaos unleashed by a traitor in the Realms—and take it upon yourself to undo the harm they caused.<br>
+<br>
+{{#ev:youtube|5CNlRv0OPBI||inline|Season of the Nine-Colored Deer Trailer}}
+
+==Welcome==
+<center class="title-text-welcome">[https://www.thatskygame.com/news/season-of-the-nine-colored-deer-arrives-in-sky Welcome to the Season of the Nine-Colored Deer!]</center>{{Quote|<br>'''''A beautiful mural unveils a tale of divine protector.'''''}}
+<section begin="9CD Collab 2" />
+Once long ago, a legendary beast kept watch over a delicately balanced world.  Join this adaptation of an ancient tale and meet four new Spirits, each with new [[Expressions]] and lessons to share! Together with the Season Guide, they offered [[Outfits]], [[Masks]], [[Capes]], [[Hairstyles]], and more. Complete a series of Seasonal Quests to take part in the legend, from a peaceful beginning to an urgent mission to restore the fractures left in the Spirits’ wake.<section end="9CD Collab 2" />
+
+A new area called the Crescent Oasis can be found going through the [[Vault of Knowledge#"Collaboration Room"|Collaboration Room]] located on the first level of the Vault of Knowledge, left of where the player spawns in entering the Vault portal. The Crescent Oasis unfolds like a hidden gem amidst the vast, golden expanse of the desert. 
+
+<small>Note that Season of the Nine-Colored Deer can be enjoyed by all players who have at least progressed to [[Vault of Knowledge]] '''and''' started the [[Season of Revival#Quest #4|4th Quest]] from the [[Hopeful Steward]] in [[Aviary Village]].</small>
+
+==Crescent Oasis==
+{{Main|Crescent Oasis}}
+[[File:Crescent_Oasis_Main.png|thumb|right|300px|The Crescent Oasis]]
+{{Quote|<br>'''''Home of the Nine-Colored Deer.'''''|Crescent Oasis Opening}}
+{{#lst:Crescent Oasis|Summary}}
+{{Clear}}
+
+== Daily Quests & Seasonal Candles==
+===Daily Quests===
+Collecting [[Seasonal_Events#Season_Candles|Seasonal Candles]] throughout the Season allowed players to trade with the new Spirits for their cosmetics. A total of 6 Seasonal Candles were available to gather, as follows:
+*Each day the location of the [[Daily Quests]] changed, indicated by the [[Spirit of Mural]] standing next to the Realm portal. Players could earn one Seasonal Candle per Quest completed. Complete your Quests and claim your reward at the Return Shrine Statue. (4 Candles)
+*Players could also collect an extra candle by collecting the 4 Seasonal bunches <small>(more information on the "Seasonal bunches locations" below).</small> (1 Candle)
+*Players who had the [[Season Pass]] could claim a Seasonal Candle from the Return Shrine Statue at [[Home]] or the [[Aviary Village#Friendship Constellation Statue|Friendship Constellation Statue]] at Aviary Village as a free daily bonus. (1 Candle)
+
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape">
+File:SoNine-Colored-Deer-Seasonal-candles.jpg|Nine-Colored Deer Seasonal Candles
+File:SoNine-Colored-Deer-Season-Pass-1.png|Season Pass - page 1
+File:SoNine-Colored-Deer-Season-Pass-2.png|Season Pass - page 2
+File:SoNine-Colored-Deer-Season-Pass-3.png|Season Pass - page 3
+</gallery>
+===Seasonal Candle Bunches Locations===
+The Seasonal Candle bunches were found towards the beginning of each [[Realm]], one Realm a day according to the Daily Quests' location.<br>
+<br>
+<gallery spacing="small" captionalign="center">
+Daylight-Prairie-Seasonal-Candles-locations-Pattern-B.png|Prairie Rotation 1 & 2
+Hidden-Forest-Seasonal-Candles-locations-Pattern-B.png|Forest Rotation 1 & 2
+Valley-of-Triump-Seasonal-Candles-locations-Pattern-B.png|Valley Rotation 1 & 2
+Golden-Wasteland-Seasonal-candles-Locations-Pattern-B.png|Wasteland Rotation 1 & 2
+Vault-of-knowledge-Seasonal-candles-Locations-Pattern-B.png|Vault Rotation 1 & 2
+</gallery>
+
+==Child of Light Locations<span id="Winged Light Locations"></span>==
+Three (3) [[Children of Light]] have been added to the [[Crescent Oasis]] area.<br><br>
+{{#lst:Children of Light|CrescentOasis Children}}
+
+==Spirit Memory Quests==
+The Quests of the Season of the Nine-Colored Deer loosely follow the same story beats as the original [https://www.dunhuang.ds.lib.uw.edu/mogao-cave-257-northern-wei-dynasty/ Deer King Jataka painting] and the [https://youtu.be/DcGVqaes8dA animated adaptation] by Shanghai Animation Film Studio, with the player as an active participant.
+
+Listen to the [[Spirit of Mural]] as they reveal the legend of the Nine-Colored Deer, a benevolent beast from long ago, and restore the fractures left in the wake of the ancient Spirits.<br>
+<br>
+{{#ev:youtube|RahYmYHgq7s||inline|A Sky Adaptation of a Legendary Tale}}
+
+===<span id="Quest 1">Quest #1</span>===
+::'''Mural 1: The Valley'''
+In the first Quest, you arrive at a long, shadowy ravine filled with [[Darkness|Darkness Plants]] and a single [[Krill|Dark Dragon]] patrolling overhead as the narrator begins their tale. The Darkness here cannot be burned and will instead steadily drain the Cape Energy of players who stand too close, so take care not to linger near them while proceeding forward.
+
+As you continue moving forward, the Dark Dragon will eventually sweep its gaze directly across the narrow Valley and quickly spot you before swooping down to attack within seconds. (''It is not possible to avoid being spotted or attacked by the Dark Dragon, as it is part of the Quest sequence. However, the attack will not directly cause you to lose any [[Winged Light]].'') Extinguished of all light and more vulnerable than ever to the draining Darkness Plants, you are forced to continue forward much more cautiously.
+
+With the end of the Valley finally within sight, the Dark Dragon returns for a second time, relentless in its pursuit and locking on to you once again. The creature screeches and dives to attack - but before it can reach you, a wave of multicolored light washes over the entire canyon, banishing the Darkness and driving away the Dark Dragon.
+
+Your savior is the Nine-Colored Deer of legend, glowing brightly and chasing away the shadows as it steadily approaches. The benevolent creature restores your light by sacrificing a portion of its power, causing the orange crescent mark on its side to fade. The Deer then turns to leave and asks you to come visit its beautiful home. Follow the Nine-Colored Deer as it bounds towards the opening of the Valley and crosses the sand dunes beyond, entering the [[Crescent Oasis]] proper. As you crest over a hill of sand to stand together, the Quest is completed.
+
+Next, return to the [[Spirit of Mural]] standing in front of the horizontal [[Murals|Mural]] by the lake. New details are added to the Mural that depict the unfolding story, reflecting the Dark Dragon's attack and your subsequent rescue.<br>
+<br>
+{{Quote|<small>''Here is the story of the Nine-Colored Deer... a benevolent beast from long ago. One day, a child was lost in a valley filled with darkness. The child was scared, and tried to escape. The Nine-Colored Deer rescued the child, and said, "Come visit my beautiful home." In this way, the Nine-Colored Deer saved the Child from a monster.''</small>|Quest 1 Narration}}
+
+{{#ev:youtube|abJoDCeUTVs|300px||Quest 1 by Nastymold}}
+
+===<span id="Quest 2">Quest #2</span>===
+::'''Mural 2: The Sandbar'''
+In the second Quest, the [[Krill|Dark Dragon]] from the Valley returns to the [[Crescent Oasis]], scaring away all the creatures taking refuge at the Oasis. The Nine-Colored Deer requests that you find the missing creatures and lead them back to it. 
+
+The player's first task is to find the [[Dark Crabs|Crab]] who arrived at the Oasis right as the Dark Dragon returned. When looking around, a cloud of dust particles appears on the bank of the Crescent Lake, prompting the player to approach. Upon further investigation (and a [[Crab Whisperer|Crab Call]]), the Crab resurfaces and begins to follow the player. If the player moves too far away from the Crab before reaching the Nine-Colored Deer, it will burrow back below the surface and not move until the player approaches it again and uses the {{Emote|Ushering Stargazer|inline_text}} Expression prompt.
+
+Next, the Nine-Colored Deer asks you to bring back the [[Jellyfish]] who took shelter among the [[Flora, Minerals and Elements of Sky#Underwater Light Bloom|Underwater Light Blooms]] below the surface of the Crescent Lake. The Jellyfish is hiding in the largest clump of Underwater Light Blooms in the center of the Lake. Once the player emits a [[Jelly Whisperer|Jellyfish Call]], the Jellyfish will follow the player back to the Nine-Colored Deer.
+
+The last creature to find is the [[Manta]] who got chased by the Dark Dragon at the beginning of the Quest. With a little bit of surveillance, two Mantas can be spotted flying around the crest of the sand dune before the Crescent Oasis proper. Upon approaching, the two Mantas call out and the Manta who was initially chased emerges from the Valley, still being chased by the Dark Dragon. The Mantas ask the player to get help from the Nine-Colored Deer. Upon hearing the news, the Nine-Colored Deer rushes to the dune and calls out, sending the Dark Dragon back to the Valley and saving the Mantas. As you stand together at the top of the dune, the Quest is completed.
+
+Next, return to the [[Spirit of Mural]] standing in front of the horizontal [[Murals|Mural]] by the lake. New details are added to the Mural that depict the unfolding story, reflecting the Dark Dragon's attack, the creatures who are talking shelter at the Oasis, and the sanctuary of the Nine-Colored Deer.<br>
+<br>
+{{Quote|<small>''One day, a monster came to Crescent Oasis. All of the animals hid in fear. The Nine-Colored Deer went looking for the animals... but they were all missing. The Nine-Colored Deer knew just what to do. With benevolence, the Nine-Colored Deer protects all living things.''</small>|Quest 2 Narration}}
+<!--
+{{#ev:youtube|VideoID|300px||Quest 2 by ###}} -->
+
+===<span id="Quest 3">Quest #3</span>===
+::'''Mural 3: The Lake'''
+In the third Quest, the Nine-Colored Deer approaches the player with a request for company. Use the {{Emote|Sit|link=Menus and Controls#Sit|label=Sit|inline_text}} Expression prompt to sit on the Nine-Colored Deer's back and enjoy a peaceful gallop around the [[Crescent Oasis]] together, a cloud of [[Butterflies]] trailing in its wake.
+
+Not long afterwards, the both of you stumble across an alarming sight—a lone [[Manta]] being hunted by the [[Herb Gatherer]]! While the Manta safely escapes thanks to its speed, the unfortunate Herb Gatherer, unable to slow down in time, stumbles into the Crescent Lake and begins to drown. The Nine-Colored Deer rushes to the edge of the Lake to rescue the Spirit, raising them out of the water with a multicolored aura. A large, pale lotus flower blooms on the surface of the water beneath the Herb Gatherer, with several more appearing beneath the hooves of the Nine-Colored Deer as it walks across the water. The benevolent creature scarifies a portion of its magic to revive the Herb Gatherer, causing the blue crescent mark on its side to fade. You then dismount to take the Herb Gatherer's hand and guide them back to land where the Nine-Colored Deer waits.
+
+The Spirit swears eternal loyalty as thanks for its actions, to which the Nine-Colored Deer replies that it only wishes for their encounter to remain a secret... a promise which the Herb Gatherer has no intention of keeping. The [[Feudal Lord]] has posted a bounty for the capture of the Nine-Colored Deer at the request of the [[Princess]] and, drawn in by the allure of a reward, the Herb Gatherer returns to the Royal Palace to share what they have witnessed. The [[Hunter]] and the Feudal Lord's soldiers are promptly sent out to hunt down the Nine-Colored Deer. As the scene draws to a close, the Quest is completed.
+
+Next, return to the [[Spirit of Mural]] standing in front of the horizontal [[Murals|Mural]] by the lake. New details are added to the Mural that depict the unfolding story, reflecting the Herb Gatherer's rescue and the hunt that their betrayal has initiated.<br>
+<br>
+{{Quote|<small>''One day, the Nine-Colored Deer wanted a companion. With the child, the Deer celebrated the beauty of life. A manta appeared—being hunted by a villager! But the manta was too quick... and the villager fell into the lake. The Nine-Colored Deer knew just what to do. Sacrificing some magic... the Deer brought the villager back to life. In thanks, the villager offered to serve the Deer forever. The Deer only asked that their encounter be kept secret... but the villager knew that he could be rewarded... for the Princess desired the Deer. So the villager returned to tell the King about what he'd seen. The King set out to hunt the Deer. In this way, the Nine-Colored Deer was betrayed.''</small>|Quest 3 Narration}}
+<!--
+{{#ev:youtube|VideoID|300px||Quest 3 by ###}} -->
+
+===<span id="Quest 4">Quest #4</span>===
+::'''Mural 4: The Town'''
+In the fourth Quest, the [[Hunter]] and the [[Feudal Lord]]'s soldiers send out the [[Herb Gatherer]] to enact their plan for capturing the Nine-Colored Deer by tainting the Crescent Lake, spilling a jar full of poison into the waters. The sky darkens as multiple [[Darkness|Darkness Trees]] grow out of the tainted water, harming several of the resident creatures and drawing forth the Nine-Colored Deer.
+
+Help burn away the Darkness trapping each of the creatures to rescue them. The Nine-Colored Deer will circle around a specific Darkness Tree to indicate which must be burned in order to progress. The first to be saved is a [[Manta]], followed by a [[Jellyfish]], and then a [[Crabs|Crab]]. Once freed, the Nine-Colored Deer sacrifices more of its magic yet again to revive each one, causing the remaining yellow, pink, and blue crescent marks on its side to fade, one by one.
+
+Limping and exhausted, the Nine-Colored Deer turns to help the final victim - the Herb Gatherer, who has fallen sick from the poison used to taint the waters. After only a few steps the Nine-Colored Deer falls to its knees and collapses onto its side, drained of energy after making so many sacrifices. Use the {{Emote|Ceasing Commodore|inline_text}} Expression prompt to encourage the Nine-Colored Deer to get back up on its feet and keep moving forward. When it finally reaches the fallen Herb Gatherer, the Nine-Colored Deer selflessly sacrifices the very last of its magic to revive the Spirit, its entire body fading to gray as it collapses for a final time.
+
+The Hunter and the soldiers capture the weakened Nine-Colored Deer, along with the three creatures you rescued together, presenting them proudly to a pleased Feudal Lord. The healed Herb Gatherer, meanwhile, is filled with guilt for their actions. As the scene draws to a close, the Quest is completed.
+
+Next, return to the [[Spirit of Mural]] standing in front of the horizontal [[Murals|Mural]] by the lake. New details are added to the Mural that depict the unfolding story, reflecting the Nine-Colored Deer's sacrifice and subsequent capture by the Feudal Lord's hunters.<br>
+<br>
+{{Quote|<small>''Behold the betrayal of the Nine-Colored Deer. At the behest of the King's Hunter, the Villager tainted the waters. Thus, a trap was set to snare the noble creature. The Hunter's poison had made the Villager sick. The King was pleased at the Hunter's success... but the Villager was burdened by guilt. In this way, the Nine-Colored Deer was captured by the King.''</small>|Quest 4 Narration}}
+<!--
+{{#ev:youtube|VideoID|300px||Quest 4 by ###}} -->
+
+===<span id="Quest 5">Quest #5</span>===
+::'''Mural 5: The Palace'''
+In the fifth Quest, Darkness sweeps over the [[Crescent Oasis]]. An ominous purple storm begins to form as multiple [[Dark Dragons]] terrorize the village, forcing the Spirits to run and seek shelter from their attack. The captured Nine-Colored Deer, meanwhile, lays collapsed at the foot of the throne in the [[Feudal Lord]]'s Royal Palace, powerless to defend its home from the Darkness. Avoid the Dark Dragons patrolling the skies of the village to reach the Royal Palace and burn away the Darkness Plants blocking the main entrance and the elevator leading to the throne room.
+
+Once inside, approach the Nine-Colored Deer to return the magic it used to rescue you in the [[#Quest 1|first Quest]] in an attempt to offer it strength. The orange crescent mark on the Nine-Colored Deer's side lights up... but only for a moment, before fading once again. The remorseful [[Herb Gatherer]], who was secretly watching all of this unfold, reveals themself with a plan to help save the Nine-Colored Deer and beckons you to follow them into the large chamber hidden behind the throne. Inside, the creatures from the previous Quests - a [[Jellyfish]], a [[Dark Crabs|Crab]], and a [[Manta]] - lay captured within the [[Hunter]]'s cages. With the Herb Gatherer's help, free each of the creatures before returning with them to the Nine-Colored Deer once again.
+
+Together, you collectively return the magic sacrificed by the Nine-Colored Deer to rescue all five of you in the previous Quests. Each crescent mark on the Nine-Colored Deer's side lights up before fading away yet again. With all hope seemingly lost, the gathered group turns to solemnly leave the throne room. Before you reach the elevator, however, color finally returns to the now radiant Nine-Colored Deer. The Nine-Colored Deer calls out triumphantly and, with a burst of multi-colored light, you all fly out of the Royal Palace to banish the Darkness from the Crescent Oasis, once and for all. With the power granted to you by the revitalized Nine-Colored Deer, fly into each of the Dark Dragons marked by a blue star to defeat them. In this state, the Dark Dragons are passive and will not attack, and flying near the Nine-Colored Deer or the other [[Light Creatures]] will quickly recharge your Cape Energy. 
+
+Finally, with a huge wave of multi-colored light, the Nine-Colored Deer drives away the last of the Dark Dragons and the storm begins to dissipate. With the Crescent Oasis rescued from Darkness, the Spirits of the village gather around the Nine-Colored Deer to offer penitence for their actions. The Nine-Colored Deer acknowledges their change of heart before galloping off into the sky, vanishing as a twinkle in the distance. As the scene draws to a close, the Quest is completed.
+
+Next, return to the [[Spirit of Mural]] standing in front of the horizontal [[Murals|Mural]] by the lake. New details are added to the Mural that depict the finale of the story, reflecting the Nine-Colored Deer's revival and protection of the Crescent Oasis from the Darkness. In one final scene, the Nine-Colored Deer is shown resting below the boughs of a magnificent golden tree, watching the four Spirits turn into columns of light, concluding the story.
+
+With the completion of this Quest, it is now possible to access the Hidden Glade, a tranquil location entered through a tunnel in the clouds behind the Mural by the lake, where players with the [[#Radiance of the Nine-Colored Deer|Radiance of the Nine-Colored Deer Cape]] may view the Nine-Colored Deer using its special ability.<br>
+<br>
+{{Quote|<small>''Behold the salvation of the Nine-Colored Deer. Shadows devoured the realm. Weakened, the Deer could not fend off the darkness. The Villager sought to make things right. The Nine-Colored Deer knew just what to do. Ashamed, the King vowed to protect all creatures henceforth. Thus, peace and prosperity returned to the Kingdom... and the Deer vanished into the wild... living freely until the end of its days.''</small>|Quest 5 Narration}}
+<!-- 
+{{#ev:youtube|VideoID|300px||Quest 5 by ###}} -->
+
+===Replaying the Quests===
+Unlike most other replayable Seasonal Quests, the location where you initially begin the Quest is different from the location you must visit to replay the Quest. To replay any Quest from the Season of the Nine-Colored Deer, look for a stone marked by the figure of the Nine-Colored Deer within the [[Crescent Oasis]], and sit at the meditation circle that appears next to the stone. Below are the locations of all these Quest Replay Stones.<br>
+<br>
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape">
+Nine-Colored-Deer-Quest-1-Replay-Stone.png|Quest 1 Replay Stone
+Nine-Colored-Deer-Quest-2-Replay-Stone.png|Quest 2 Replay Stone
+Nine-Colored-Deer-Quest-3-Replay-Stone.png|Quest 3 Replay Stone
+Nine-Colored-Deer-Quest-4-Replay-Stone.png|Quest 4 Replay Stone
+Nine-Colored-Deer-Quest-5-Replay-Stone.png|Quest 5 Replay Stone
+</gallery>
+
+*'''[[#Quest 1|Quest #1]]:''' Located near the exit of the dark valley, along the outer wall.
+*'''[[#Quest 2|Quest #2]]:''' Located to the left of the Mural that the [[Spirit of Mural]] stands in front of.
+*'''[[#Quest 3|Quest #3]]:''' Located near the edge of the crescent-shaped lake to the right of the Mural.
+*'''[[#Quest 4|Quest #4]]:''' Located near the entrance to the canyon that leads to the village.
+*'''[[#Quest 5|Quest #5]]:''' Located inside the Royal Palace, above the dais the throne sits upon. 
+
+==Spirits & Cosmetics==
+All of the ''Season of the Nine-Colored Deer'' Spirits can be found in the Crescent Oasis. There are 4 new Expressions to gather - 3 Emotes and 1 Friendship Action - with 4 Spirits overall.
+{{#tag:gallery
+|{{Icon Name|Herb Gatherer|emote}} {{!}} {{Icon Name|Herb Gatherer|emote_name}}
+{{Icon Name|Hunter|emote}} {{!}} {{Icon Name|Hunter|emote_name}}
+{{Icon Name|Feudal Lord|emote}} {{!}} {{Icon Name|Feudal Lord|emote_name}}
+{{Icon Name|Princess|emote}} {{!}} {{Icon Name|Princess|emote_name}}
+|widths=100|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===All Nine-Colored Deer Friendship Trees===
+{{Mobile Tabber
+|tab1 = {{Season Icon|Nine-Colored Deer|tab}}
+|c1   = {{#lst:Spirit of Mural|Friendship Tree}}
+|tab2 = {{Icon|Quest-icon.png|link=Quests|tab}}
+|c2   = {{#lst:Spirit of Mural|Quest Tree}}
+|tab3 = {{Emote|Herb Gatherer|tab}}
+|c3   = {{#lst:Herb Gatherer|Season Friendship Tree}}
+|tab4 = {{Emote|Hunter|tab}}
+|c4   = {{#lst:Hunter|Season Friendship Tree}}
+|tab5 = {{Emote|Feudal Lord|tab}}
+|c5   = {{#lst:Feudal Lord|Season Friendship Tree}}
+|tab6 = {{Emote|Princess|tab}}
+|c6   = {{#lst:Princess|Season Friendship Tree}}
+}}
+
+===[[Herb Gatherer]]===
+{{#lst:Herb Gatherer|Summary}}<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Herb Gatherer|outfit|real}} {{!}} The Outfit
+{{Icon Name|Herb Gatherer|hair|real}} {{!}} The Hair
+{{Icon Name|Herb Gatherer|prop|real}} {{!}} The Prop
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===[[Hunter]]===
+{{#lst:Hunter|Summary}}<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Hunter|outfit|real}} {{!}} The Outfit
+{{Icon Name|Hunter|hair|real}} {{!}} The Hair
+{{Icon Name|Hunter|cape|real}} {{!}} The Cape
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===[[Feudal Lord]]===
+{{#lst:Feudal Lord|Summary}}<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Feudal Lord|mask|real}} {{!}} The Mask
+{{Icon Name|Feudal Lord|Hairpiece|real}} {{!}} The Hair Accessory
+{{Icon Name|Feudal Lord|cape|real}} {{!}} The Cape
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===[[Princess]]===
+{{#lst:Princess|Summary}}<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Princess|outfit|real}} {{!}} The Outfit
+{{Icon Name|Princess|mask|real}} {{!}} The Mask
+{{Icon Name|Princess|hair|real}} {{!}} The Hair
+{{Icon Name|Princess|cape|real}} {{!}} The Cape
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===[[Spirit of Mural]]===
+{{#lst:Spirit of Mural|Summary}}<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Spirit of Mural|necklace_u|real}} {{!}} Nine-Colored Deer Ultimate Pendant
+{{Icon Name|Spirit of Mural|outfit_u|real}} {{!}} Nine-Colored Deer Ultimate Outfit
+{{Icon Name|Spirit of Mural|hair_u|real}} {{!}} Nine-Colored Deer Ultimate Hair
+{{Icon Name|Spirit of Mural|cape_u|real}} {{!}} Nine-Colored Deer Ultimate Cape
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+====Additional Cosmetics====
+Upon completing the third and fifth Quests of the Season of the Nine-Colored Deer, two additional cosmetics were available to collect for regular Candles through the [[Spirit of Mural]]'s Friendship Tree. No [[Season Pass]] or other IAP purchase were necessary for these collaboration items. The themed Mask offered for the Nine-Colored Deer collaboration was available until the Season ended on '''Sunday, March 31, 2024 at 23:59 PDT (UTC -7)''', while the themed Hair Accessory is '''permanently available''' from the Season Guide.
+
+Please note that since it is part of a limited collaboration, the Mask will not be available once the Season is over and is not scheduled to return in future years. (For more information, see the [[Spirit_of_Mural#Additional_Cosmetics|Spirit of Mural]] page.)<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Spirit of Mural|mask|real}} {{!}} Additional Mask
+{{Icon Name|Spirit of Mural|hairpiece|real}} {{!}} Additional Hair Accessory
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines
+}}
+
+==Premium Packs (In-App Purchases)==
+Some themed items were available outside of the Seasonal Spirit Constellations, from the [[Premium Candle Shop]] for the duration of the Season. All Seasonal IAPs offered for the Nine-Colored Deer collaboration were available until the Season ended on '''Sunday, March 31, 2024 at 23:59 PDT (UTC -7)'''.
+
+Please note that since all these items are part of a limited collaboration, they will not be available once the Season is over and are not scheduled to return in future years. <small>(Prices below are in USD, with actual costs varying depending on region/currency.)</small>
+
+===Gift of the Nine-Colored Deer===
+::'''''"A radiant illusion of the Nine-Colored Deer's prominent aura."'''''
+
+The Gift of the Nine-Colored Deer contains two items: a Mask and a Head Accessory. The [[Mask]] is a blue, crescent-shaped forehead decoration on the player's bare face. The [[Head Accessory]] is a pair of iridescent blue antlers and floppy white deer ears. This pack was introduced as a '''limited-time offer''' in 2024 and was available for {{Cost| 14.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the Season. <small>(Since these are part of a limited collaboration, they are not scheduled to return in future years.)</small><br>
+<br>
+{{#tag:gallery
+|Gift-of-the-Nine-Colored-Deer-IAP.png {{!}} Gift of the Nine-Colored Deer IAP
+{{Icon Name|Spirit of Mural|mask_g|icon}} {{!}} The Mask icon
+{{Icon Name|Spirit of Mural|mask_g|real}} {{!}} The Mask
+{{Icon Name|Spirit of Mural|headpiece_g|icon}} {{!}} The Head Accessory icon
+{{Icon Name|Spirit of Mural|headpiece_g|real}} {{!}} The Head Accessory
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===Radiance of the Nine-Colored Deer===
+::'''''"A luminous cape embodying the virtues of the Nine-Colored Deer."'''''
+
+The Radiance of the Nine-Colored Deer is an iridescent blue cape resembling the petals of a flower. Unlike the standard white seen on all other Capes, the [[Winged Light]] symbols on its back are multicolored and shaped like crescents. This [[Cape]] was introduced as a '''limited-time offer''' in 2024 and was available for {{Cost| 19.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the Season.
+
+After completing all of the Season's Quests, this item gives the wearer and the friends they hold hands with a special ability to directly transport to the [[Crescent Oasis#Hidden Glade|Hidden Glade]] and view the Nine-Colored Deer. This option was enabled with the {{v|0.24.5}} Update in the [[Menus and Controls#Expression Menu|Expression Menu]] from anywhere in Sky; simply open the [[Menus and Controls#Emote Submenu|Emote Submenu]] with the item equipped and select the Cape's icon to be teleported to the area. <small>(Since these are part of a limited collaboration, they are not scheduled to return in future years.)</small><br>
+<br>
+[[File:Radiance-of-the-Nine-Colored-Deer-iridescence-video.mov|150px|right|thumb|Iridescent effect]]
+{{#tag:gallery
+|Radiance-of-the-Nine-Colored-Deer-IAP.png {{!}} Radiance of the Nine-Colored Deer IAP
+{{Icon Name|Spirit of Mural|cape_r|icon}} {{!}} Radiance of the Nine-Colored Deer icon
+{{Icon Name|Spirit of Mural|cape_r|front}} {{!}} Radiance of the Nine-Colored Deer front
+{{Icon Name|Spirit of Mural|cape_r|interior}} {{!}} Radiance of the Nine-Colored Deer interior
+{{Icon Name|Spirit of Mural|cape_r|real}} {{!}} Radiance of the Nine-Colored Deer back
+{{Icon Name|Spirit of Mural|cape_r_exterior}} {{!}} Radiance of the Nine-Colored Deer exterior
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+==Price Charts==
+Use the [[Seasonal Events/Calculator|Event Calculator]] to verify the status of your Candle count.
+{| class="article-table"
+!Spirits
+! colspan="6" |Candle Cost 
+!Total Seasonal Candles
+|-
+|Herb Gatherer
+|{{#vardefineecho:A1| 16 }}
+|{{#vardefineecho:A2| 26 }}
+|{{#vardefineecho:A3| 30 }}
+|{{#vardefineecho:A4| 36 }}
+|{{#vardefineecho:A5|  }}
+|3*
+|{{Cost| {{#vardefineecho:Asum| {{#expr: {{#var:A1}} + {{#var:A2}} + {{#var:A3}} + {{#var:A4}} + {{#var:A5}} + 3 }} }} SC|season=Nine-Colored Deer}}
+|-
+|Hunter
+|{{#vardefineecho:B1| 8 }}
+|{{#vardefineecho:B2| 20 }}
+|{{#vardefineecho:B3| 28 }}
+|{{#vardefineecho:B4| 34 }}
+|{{#vardefineecho:B5|  }}
+|3*
+|{{Cost| {{#vardefineecho:Bsum| {{#expr: {{#var:B1}} + {{#var:B2}} + {{#var:B3}} + {{#var:B4}} + {{#var:B5}} + 3 }} }} SC|season=Nine-Colored Deer}}
+|-
+|Feudal Lord
+|{{#vardefineecho:C1| 6 }}
+|{{#vardefineecho:C2| 18 }}
+|{{#vardefineecho:C3| 26 }}
+|{{#vardefineecho:C4| 32 }}
+|{{#vardefineecho:C5|  }}
+|3*
+|{{Cost| {{#vardefineecho:Csum| {{#expr: {{#var:C1}} + {{#var:C2}} + {{#var:C3}} + {{#var:C4}} + {{#var:C5}} + 3 }} }} SC|season=Nine-Colored Deer}}
+|-
+|Princess
+|{{#vardefineecho:D1| 8 }}
+|{{#vardefineecho:D2| 18 }}
+|{{#vardefineecho:D3| 22 }}
+|{{#vardefineecho:D4| 26 }}
+|{{#vardefineecho:D5| 32 }}
+|3*
+|{{Cost| {{#vardefineecho:Dsum| {{#expr: {{#var:D1}} + {{#var:D2}} + {{#var:D3}} + {{#var:D4}} + {{#var:D5}} + 3 }} }} SC|season=Nine-Colored Deer}}
+|-
+! colspan="7" |Total for Season
+!{{Cost| {{#expr: {{#var:Asum}} + {{#var:Bsum}} + {{#var:Csum}} + {{#var:Dsum}} }} SC|season=Nine-Colored Deer}}
+|}<small>''* Only available with [[Season Pass]] (Seasonal Hearts) (subtract when calculating without)''</small>
+
+==Trivia==
+* The Season of the Nine-Colored Deer is the third Season to take place in the Vault of Knowledge; the previous ones were the [[Season of The Little Prince]] and the [[Season of Remembrance]].
+* The Season of the Nine-Colored Deer is also the third collaborative Seasonal Event in the world of Sky; the previous ones were the [[Season of The Little Prince]] and the [[Season of AURORA]].
+* The Nine-Colored Deer is featured in a piece of merch from thatskyshop, in the form of the [[That Sky Shop/Wave 12#Sky Deer Plush|Sky Deer Plush]]. It has a STAR feature which allows you and the friends holding your hand to teleport to the Crescent Oasis and see the deer.
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+SoNine-Colored-Deer-floating-promo-image.png
+SoNine-Colored-Deer-canyon-promo-image.png
+SoNine-Colored-Deer-collab-room-promo-image.png
+SoNine-Colored-Deer-Crescent-Oasis-promo-image.jpg
+Feudal Lord Princess Promo art.png
+Hunter Herb Gatherer Promo art.png
+Nine-Colored Deer Guide Promo art.png
+</gallery>
+
+==References==
+<references />
+
+{{Seasonal Navbox}}
+
+[[fr:Saison du Cerf aux Neuf Couleurs]]
+[[pt-br:Temporada do Cervo de Nove Cores]]
+[[ja:九色の鹿の季節]]
+
+[[Category:Collaborations]]
+{{DEFAULTSORT:Nine-Colored Deer, Season of}}

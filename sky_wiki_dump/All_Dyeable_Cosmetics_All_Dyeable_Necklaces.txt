@@ -1,0 +1,64 @@
+<section begin="Table" />
+{| class="article-table sortable"
+! class="unsortable" |Image
+! class="unsortable" |Icon
+![[#Availability Legend|Avail.]]
+!Source
+!Price
+!# of<br>Sections
+!Dye Cost
+|- id="Pleading Child"
+| style="text-align: center;"| {{Spirit Item| Pleading Child | neckpiece_real | table }}
+| {{Spirit Item| Pleading Child | Neckpiece | table | sort=21 }}
+| {{Avail Summary | season | spirit=Pleading Child | season=Remembrance }}
+| {{Cost | 50 C }}
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Remembrance Guide"
+| style="text-align: center;"| {{Spirit Item| Remembrance Guide | neckpiece_u_real | table }}
+| {{Spirit Item| Remembrance Guide | neckpiece_u | table | sort=22 }}
+| {{Avail Summary | ultimate | spirit=Remembrance Guide | season=Remembrance }}
+| {{Cost | N/A }}
+| 2
+| 2 or 4 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="Ocean Necklace"
+| style="text-align: center;"| {{Days Item| Ocean Necklace | real | table }}
+| {{Days Item| Ocean Necklace | icon | table | sort=320 }}
+| {{Avail Summary | days | days=Nature }}
+| {{Cost| 1.99 USD }}
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Ocean Blue Scarf"
+| style="text-align: center;"| {{Days Item| Ocean Blue Scarf | real | table }}
+| {{Days Item| Ocean Blue Scarf | icon | table | sort=322 }}
+| {{Avail Summary | days | days=Nature }}
+| {{Cost| 14 H }}
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Days of Feast Scarf"
+| style="text-align: center;"| {{Days Item| Winter Feast Scarf | real | table }}
+| {{Days Item| Winter Feast Scarf | icon | table | sort=361 }}
+| {{Avail Summary | days | days=Feast }}
+| {{Cost| 50 C }}
+| 1
+| 2 or 4 {{Cost | D}}
+|}
+<section end="Table" />
+{{Avail Legend
+| regular 
+| permanent 
+| s+ 
+| u+ 
+| t* 
+| r*
+| d*
+| l*
+| days 
+| season 
+| ultimate 
+| limited 
+| conditional 
+}}
+
+[[ja:染色価格表/ネックレス染料価格表]]
+[[fr:Tous les Cosmétiques Teintables/Tous les Colliers Teintables]]

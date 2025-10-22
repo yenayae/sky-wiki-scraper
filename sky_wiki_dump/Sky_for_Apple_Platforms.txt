@@ -1,0 +1,302 @@
+This page contains information gathered regarding Sky on the Apple platforms (iPhone, iPad, iPod touch, Mac). Please use this page as an Apple-specific elaboration of the content already found on the Wiki. Check out the [[Getting Started]] page as well as other pages on this Wiki for the general gameplay of Sky. The gameplay is the same on all devices; some menu options and game save information are the only ones that are going to be different.  
+
+Apple device users: Please feel free to update this page as needed, either with additional content or by elaborating content that is already here.
+
+{{DevicesNav}}
+
+==TGC Official iOS download app==
+You can only download the app from iOS or iPadOS App Store, or Mac App Store for Mac with M1 chip or later. '''Side-loading the game into Apple devices is PROHIBITED.'''
+
+[[File:Apple App Store.png|20px]] [https://apps.apple.com/us/app/sky-children-of-the-light/id1462117269 Sky: Children of the Light Apps on the App Store]
+
+==TGC Official help links==
+
+*[https://thatgamecompany.helpshift.com/a/sky-children-of-the-light/?l=en&p=all&s=my-account&f=how-do-i-save-my-progress Saving Progress on iOS]
+*[https://discord.com/invite/thatskygame The official Sky Discord server]
+
+==Requirements for downloading Sky==
+The guidelines posted below displays the minimum required specifications as stated in Apple App Store, from patch 0.28.0 onwards:
+
+* '''iPhone''':  Requires iOS 13.0 or later.
+*'''iPad:'''  Requires iPadOS 13.0 or later.
+*'''iPod touch''':  Requires iOS 13.0 or later.
+*'''Mac''':  Requires macOS 11.0 or later and a Mac with Apple M1 chip or later.
+iOS 13 and iPadOS 13 requires:
+
+*Apple silicon with 64-bit ARM architecture (Apple A8 and above)*
+*Metal-capable graphics (Apple A8 chip and above)*
+*At least 2 GB RAM
+<small>*iPhone and iPod touch requires Apple A9 chip and above, whereas iPad requires Apple A8 chip and above.</small>
+
+In detail, here's a list of Apple devices which meet the requirements. For '''<u>high frame rate capable</u>''' Apple devices, bold and underline text will be used:
+
+* iPhone:
+** iPhone 6S and later, including iPhone SE (all generations)
+** '''<u>iPhone 8 and later, including iPhone SE (2nd generation and later) for high frame rate capability</u>'''
+* iPad (Both Wi-Fi and Wi-Fi + Cellular models):
+** iPad Pro: 
+*** All models
+*** '''<u>10.5-inch, 11-inch (all generations), 12.9-inch (2nd generation and later), 11-inch and 13-inch with M4 and M5 models for high frame rate capability</u>'''
+** iPad Air: 
+*** 2 or later, including 11-inch and 13-inch with M2 and M3 models
+*** '''<u>3rd generation and later, including 11-inch and 13-inch with M2 and M3 models for high frame rate capability</u>'''
+** iPad mini: 
+*** 4 or later, including A17 Pro models
+*** '''<u>5th generation and later, including A17 Pro models for high frame rate capability</u>'''
+** iPad: 
+*** 5th generation or later
+*** '''<u>6th generation or later, including A16 models for high frame rate capability</u>'''
+* iPod touch:
+** 7th generation
+* Mac: 
+** MacBook Air: '''<u>Introduced in 2022 or later, including MacBook Air (13-inch, M1, 2020)</u>'''
+** MacBook Pro: '''<u>Introduced in 2021 or later, including MacBook Pro (13-inch, M1, 2020)</u>'''
+** Mac mini: '''<u>Introduced in 2020 or later</u>'''
+** iMac: '''<u>Introduced in 2021 or later</u>'''
+** Mac Studio: '''<u>Introduced in 2022 or later</u>'''
+** Mac Pro: '''<u>Introduced in 2023</u>'''
+
+It is possible to play Sky installed on your iPhone via your Mac with Apple silicon (or Intel-based Mac with Apple T2 chip) using the iPhone Mirroring featured in iOS 18 or later and macOS 15 Sequoia or later. To use iPhone Mirroring, please follow this [https://support.apple.com/en-us/120421 support article provided by Apple].
+
+[[File:IPhone-mirroring.png|thumb|180x180px|iPhone mirroring]]
+
+Note that the specs listed above do not guarantee your iOS device will be run stably. It will depend on how powerful your performance from your Apple silicon is and your RAM availability. '''In some situation, you cannot find Sky in the App Store through search:'''
+
+*  If your device is an iPhone, iPad, or iPod touch, '''your device is using iOS 12 or earlier release of iOS/iPadOS.''' To find the iOS/iPadOS version on your iPhone, iPad, or iPod touch, Settings > General, then tap About. To update your iOS device, please follow [https://support.apple.com/en-gb/HT204204 this guidelines provided by Apple].
+* If your device is a Mac device, '''your Mac is using an Intel processor.''' Proceed to [https://support.apple.com/en-us/HT211814 this support page provided by Apple] to find out Mac computer with M1 chip or later.
+* If your device is an Apple Vision Pro, '''currently Sky is unavailable on the App Store for Apple Vision Pro.'''
+* If your current location is in Mainland China, or you are using Mainland China Apple Account, '''the global release does not exist in Mainland China App Store'''. You can switch to another non-Mainland China Apple Account (such as Hong Kong, Macau, Taiwan) to download the global release. Alternatively, you may download the [https://apps.apple.com/cn/app/%E5%85%89-%E9%81%87/id1344733855 NetEase release of Sky: Children of the Light]. NetEase release does not support Mac with M1 chip or later.
+
+'''Side-loading the game into Apple devices is PROHIBITED. Sharing, buying, or selling Apple Accounts or Sky accounts, whether for circumventing Mainland China restrictions or for other purposes, are also STRICTLY PROHIBITED and the account(s) in question are subject to PERMANENT BANS.'''
+
+TGC is still optimizing performance to let lower-end Apple devices runs stably and smoothly. However, it might be possible that TGC will drop support for older Apple devices in the future. Unofficially, you are recommended to play on devices with A14 Bionic chip and later with at least 4 GB RAM. For example, iPhone 12 or iPad (10th generation).
+
+Any attempt to circumvent these restrictions breaks the [https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/faq/460-eula-terms-of-service/?s=legal&f=eula-terms-of-service) EULA/Terms of Service], and will likely not provide an enjoyable experience anyway.
+
+==Playing on device with Apple Silicon==
+Sky: Children of the Light can run on any [https://support.apple.com/en-us/HT211814 Mac with Apple silicon (M1 chip or later)], with macOS 11 Big Sur or later. Prior to patch 0.17.5, thatgamecompany does not officially have any optimization for Sky game on Mac, therefore the game's layout on Mac was derived from the iPad layout.
+
+However, starting from patch [[Update:Live 0.17.5 (191024)|0.17.5]], thatgamecompany provides full support for Mac with M1 chip or later, as well as iPad with M1 chip or later, including but not limited to graphic optimization, full keyboard support and full-screen layout.
+
+Here's the list of Mac and iPad with M1 chip or later:
+
+*MacBook Air: (2020, M1), (13-inch, 2022, M2), (15-inch, 2023, M2), (13-inch, 2024, M3), (15-inch, 2024, M3), (13-inch, 2025, M4), (15-inch, 2025, M4)
+* MacBook Pro: (13-inch, 2020, M1), (13-inch, 2022, M2), (14-inch, 2021), (16-inch, 2021), (14-inch, 2023), (16-inch, 2023), (14-inch, Nov 2023), (16-inch, Nov 2023), (14-inch, 2024), (16-inch, 2024), (14-inch, M5, 2025)
+* Mac mini: (2020, M1), (2023, M2), (2023, M2 Pro), (2024, M4), (2024, M4 Pro)
+* iMac: (24-inch, 2021, M1), (24-inch, 2023, M3), (24-inch, 2024, M4)
+* Mac Studio: 2022, 2023, 2025
+* Mac Pro: 2023
+*iPad Pro: 12.9-inch (5th gen, 2021, M1), 11-inch (3rd gen, 2021, M1), 12.9-inch (6th gen, 2022, M2), 11-inch (4th gen, 2022, M2), 13-inch (M4), 11-inch (M4), 13-inch (M5), 11-inch (M5)
+*iPad Air: (5th gen, 2022, M1), 13-inch (M2), 11-inch (M2), 13-inch (M3), 11-inch (M3)
+
+Table below is the response for the respective keyboards.
+{| class="fandom-table"
+!Keyboard
+!Feature
+!Keyboard
+!Feature
+|-
+|W/A/S/D
+|Walk frontwards/left/backwards/right
+|Arrows (← ↑ → ↓)
+|Toggle camera in left/up/right/down direction
+|-
+|Tab
+|Toggle flight control when flying, or activating Stepping Hoop while on the ground
+|Enter
+|Open chat bar, press Enter again to send chat or close the chat bar
+|-
+|Q
+|Shout (Hold Q for louder shout)
+|Esc
+|Open or close settings/menu
+|-
+|Space
+|Jump/Fly/Select inventory or emote items
+|E
+|Open or close emote menu
+|-
+|C
+|Open or close chat history
+|Shift
+|Show quests
+|-
+|F
+|Open inventory, or burn candles/dark plants, or receive hearts/seasonal candles/winged light
+| +/=
+|Zoom out
+|-
+| -/_
+|Zoom in
+|R
+|Show currencies and forge candles
+|-
+|Z
+|Opens Nintendo Switch controls menu
+| ]
+|Skip cutscene
+|-
+|option
+|Show UI
+|}
+
+For MacBook or iPad with M1 chip or later and Magic Keyboard equipped, you may use the built-in Magic Trackpad to click or adjust the camera direction. By default system settings, you may swipe with two fingers to adjust the camera direction.
+
+Alternatively, Mac players may also click App Menu > Settings (macOS Ventura or later) / Preferences (macOS Monterey or earlier) > Select Touch Alternatives/Game Control to emulate console controller that connected to the Mac, or emulate iPad gesture by holding option key (⌥).
+
+The following resolution settings are available to Mac and iPad with M1 chip or later:
+* No bars: Energy saving mode (Low resolution)
+* One bar: Default mode
+* Two bars: High performance mode
+* Three bars: High definition mode (Matches the highest resolution of the Retina Display, or the highest resolution of the external display)
+
+The following FPS settings are available to Mac and iPad with M1 chip or later:
+* Low FPS (30 FPS)
+* High FPS (60 FPS)
+* Max FPS (Display highest refresh rate) - Significant for display with high refresh rate (120Hz, 144Hz, etc.)
+
+==Linking your Game==
+To protect your Sky account, it is important to link it to any account service provider listed below:
+*Game Center (Apple platform exclusive) • Permanently Bound
+*Google • Permanently Bound
+*Facebook
+*Apple Account (Apple platform exclusive)
+*Nintendo • Permanently Bound After Buying an [[IAP]] <ref name="Nintendo Linking Helpshift Article">https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/faq/811-how-do-i-link-my-mobile-sky-account-to-my-nintendo-switch-account/</ref>
+*Huawei ID
+*PlayStation® Network • Permanently Bound
+*Steam • Permanently Bound After Buying an [[IAP]]
+*Twitch
+
+To link or unlink an account, tap the desired account services button, then tap "Link" or "Unlink". Keep in mind the above with <nowiki>'</nowiki>'''Permanently Bound'''<nowiki>'</nowiki> can never be unlinked, Sky progress will be linked to that account forever - unless the Sky account is completely deleted. A pop-up screen may be prompted to you to login your account credentials based on your chosen account service. Lastly, your Sky account will be linked to/unlinked from the account service. You may link more than one account service to your Sky account at a same time. You may also link your account service to a Live Sky account and Beta Sky account at the same time, since Live account and Beta account are separated and run independently (progress is not carried). However, each account service can only be linked to one Live Sky account. For example, you may link your account to Game Center and Facebook account at the same time, but you cannot link another Sky account to the same Game Center account.
+
+Linking account will allow players to recover their accounts themselves upon re-installs or when switching devices. Keeping record of your Sky ID - Sky 'Settings -> 'Account' -> 'Account Info' - will also be a way to recover account progress. However, this requires the help of a TGC Support representative, which may take a certain number of business days. TGC will also ask players for their Sky ID if a giveaway is won. Keep in mind to keep your Sky ID safe from everybody, it acts as the key into your account. If you are contacted by TGC, ensure it is from official sources.<gallery hideaddbutton="true" widths="150" mode="nolines">
+File:Link providers.png|Account service providers
+File:Game center.png|Game Center
+File:Google.png|Google Account
+File:FacebookLinking.png|Facebook Account
+File:Apple id link.png|Apple Account
+File:Nintendo linking.png|Nintendo Account
+File:Huawei linking.jpg|HUAWEI ID
+File:Playstation linking.jpeg|PlayStation™ Network
+File:Steam Linking.png|Steam Account
+File:Twitch Linking.png|Twitch Account
+</gallery>
+
+==Handling multiple accounts by a same player==
+Some players might handling more than one account, in the purpose of self-gain. However, this behavior is strongly discouraged by TGC because it is considered self-botting. Based on a quote taken from thatgamecompany's support page ([https://thatgamecompany.helpshift.com/a/sky-children-of-the-light/?s=my-account&f=can-i-create-multiple-sky-accounts&l=en Can I create multiple accounts?]):
+
+"For the protection of your progress and data we encourage you not to do this. We do not advise the creation of multiple Sky accounts for use by a single person. Doing this can cause errors on each of the accounts that may be difficult or impossible to fix by yourself or the TGC team."
+
+In addition, sockpuppeting (e.g. creating multiple accounts to circumvent a ban) is strictly prohibited. If you do so, your new accounts created for such purposes will also subject to bans.
+
+==Video Recording==
+You can either use in-game video recording or system-wide video recording to record your moments in the game. System-wide video recording will momentarily block the stream of the game and will include game UI and labels. In-game video recording will not contain any of the game UI or labels. It will only capture what is happening in the world and what the characters are doing. However, each recording has a maximum length of 260 seconds (4 minutes and 20 seconds), after which the recording will stop automatically and prompt you to save it. You need to '''click save''' and not click anywhere else when the “save” prompt is displayed, '''otherwise your recording will be discarded'''.
+
+To use in-game video recording, you will need to:
+
+*Tap the bottom-right corner of the screen to make the menu appear.
+*Tap the video camera icon in the bottom-right corner to begin recording.
+*Tap stop icon if you want to stop the recording.
+*Tap "Save Video" to save the video into the Photos app, or tap "Save to Files" to save the video into the Files app.
+
+To use system-wide video recording on iOS, please refer to the [https://support.apple.com/en-us/guide/iphone/iphc872c0115/ios guidelines provided by Apple]. 
+
+To use the in-game video recording on Mac, follow the steps listed above. Players have an option to save the video to the Photos app by pressing  "Add to Photos", or can download the video to a specific file or Downloads folder by pressing "Save". 
+
+To use system-wide video recording on macOS, please refer to the [https://support.apple.com/en-us/guide/mac-help/mh26782/mac guidelines provided by Apple].
+
+==Moments Camera Controls for Mac==
+[[File:Moments-Guide-Prop-Camera.png|75px|right|thumb|Moments Guide Prop Camera]]
+Two new [[Moments Guide|Camera Props]] were added during [[Season of Moments]] where players on all platforms can take in-game screenshots without game UI or labels.
+
+* Players can equip the camera from the Prop section of an [[Outfit Shrine]].
+* Press E to open the expression menu and select the <span id="Camera Icon">{{Icon|Moments-Guide-Prop-Camera-icon-Credit-Morybel.png|link=}} camera icon.
+Table below is the response for the respective keyboards.
+{| class="fandom-table"
+|+
+!Keyboard
+!Feature
+!Keyboard
+!Feature
+|-
+|R
+|<span id="Open">{{Icon|Camera-hold-Ray.png|link=}} Open the camera 
+|X
+|<span id="Focus">{{Icon|Camera-focus-lock-Ray.png|link=}} Pin Focus and give an object focus priority when moving the camera
+|-
+|Tab
+|Switch between the different camera modes:
+
+* Handheld (Default)
+* Selfie (Flip Camera)
+* Tripod
+|R
+|<span id="Camera">{{Icon|Camera-Ray.png|link=}} Take a picture
+|-
+|C/V
+|Switch between the different photo settings:
+
+* <span id="Zoom">{{Icon|Camera-zoom-Ray.png|link=}} Zoom
+* <span id="Zoom"><span id="Blur">{{Icon|Camera-blur-Ray.png|link=}} Blur
+* <span id="Zoom"><span id="Blur"><span id="Brightness">{{Icon|Camera-brightness-Ray.png|link=}} Light exposure
+|Esc
+|<span id="Close"> Close the camera 
+|}
+
+==Shop/Payments==
+The Shop on both Android and Apple have the same base prices. Independent of your OS, there will also be regional differences in pricing (even if same currency due to local taxes), though the base pricing set by TGC is, again, the same.
+
+To buy in-app purchase items on your Apple devices, you will need to: 
+
+*Tap the upper right button.
+*Tap shopping cart icon, or settings icon > shop icon.
+*Tap the candle symbol in the top left corner of your screen.
+*Tap the items you want to purchase. When a confirmation popup window appears, tap "✔" (tick).
+*An App Store IAP prompt window will be appeared. You may use your '''Touch ID, Face ID, or Apple Account password''' to authenticate.
+* When authentication is successful, the prompt window will be disappeared. Then, a pop-up alert with a text "You're all set. Your purchase was successful" will be shown.
+*You will receive your in-app purchase items immediately.
+
+All in-app purchases, such as cosmetics, candles, and giveaway seasonal passes, will be linked to your Apple account instead of the Sky account itself. '''THEREFORE, PLEASE DO NOT MAKE ANY IN-APP PURCHASES FOR DIFFERENT SKY ACCOUNT UNDER THE SAME APPLE Account.''' If "Restore purchase" button is pressed from any Sky account that has been used the same Apple Account to make IAPs, all IAPs items and currencies from other Sky account that use the same Apple Account to make IAPs, will be transferred to that particular Sky account.
+
+==How-To and FAQ from Official Sky Discord==
+Below you will find useful questions and answers taken from the official channel of the official Discord Server – sometimes supplemented by Wiki editors. The official server is one of the main ways to interact with the Sky community - as well as the staff of TGC. All of these questions were posted by Ktjn, who is a Community Manager and TGC developer.
+
+===How do I transfer my progress from iOS to Android?===
+You will need to link your Sky account to Google, Facebook, Nintendo Account or Playstation Network.   Follow these steps: 
+
+*Open Sky on your iOS device:
+* Tap the cog icon in the top-right corner of the screen to open the utility menu.
+* In the utility menu, tap the Account icon to access the Account menu.
+*In the Account menu you will find multiple tabs. Choosing tabs (Game Center / Apple / Google / Facebook) will allow you to link your Sky profile to the relevant account.
+*Link account to Google/Facebook/Nintendo Account/Playstation Network
+*Open Sky on your Android device, it will launch a fresh game/account:
+**Open the Main Menu
+** Tap Account
+**Sign into Google/Facebook/Nintendo Account/Playstation Network
+**Tap Link Account, a prompt will ask if you want to Recover Sky Account. Select Abandon
+**Your saved progress will load
+
+===The game keeps crashing===
+Check #known-issues (Official Discord) or ask around to see if this is happening to other players. If not, it could be that your device is running out of memory. Try closing any background applications and restarting the game. This can occur on lower-end devices due to multiple applications running at the same time.
+
+===Audio and additional Realms are failing to download===
+Please make sure you have enough storage on your device. The game itself is under 1GB but can take up to 3GB to download and install all files. Thus, it will de-download non-active Realms to save space when you are playing another one. Try clearing cache+data, powering your device completely down, restarting and reinstalling the game from Apple Store. Be sure to link your account before uninstalling to save your progress.
+
+===Is there cross-play between iOS and Android?===
+Yes! You can matchmake with players on both platforms. The only time this is not possible is if you and your friend are playing on different versions, so make sure you've both updated to the latest version (this will happen for friends on the same platform as well).
+
+===Something is wrong with my account, help!===
+Please reach out to Customer Support in-game. If you cannot access the game, you can use the web form [https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/contact-us/ here]. TGC do not have the tools to assist with account issues in Discord at this time.
+
+===I tested Sky iOS on Beta, will my progress transfer?===
+No, Beta is a completely separate app that will continue to run alongside the Live version of the game after Global release. Progress from either version is non-transferable to the other. See the [[Sky Beta]] page for more info on the Beta tester program.
+
+==References==
+<references />
+
+[[De:IOS und MacOS Information]]
+[[pt-br:Sky para iOS e MacOS]]
+[[zh:IOS与macOS版Sky光·遇]]
+[[fr:Sky pour les Plateformes Apple]]
+
+[[Category:Page Maintenance/New Device]]

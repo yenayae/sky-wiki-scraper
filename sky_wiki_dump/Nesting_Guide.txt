@@ -1,0 +1,164 @@
+{{Guide Infobox
+|image     = Nesting-Ultimate-Guide.png
+|type      = Seasonal
+|ultimates = {{Spirit Item|Nesting Guide|outfit_u|link=Nesting Guide#Ultimate Outfit|infobox}}{{Spirit Item|Nesting Guide|prop_u|link=Nesting Guide#Ultimate Prop|infobox}}
+|cosmetics = 
+|props     = 
+|season    = Nesting
+|realm     = Aviary Village
+|location  = [[Nesting Workshop]]
+}}
+<section begin="Summary" />The '''Nesting Guide''' is a Seasonal Guide (also known as Quest Giver) from the [[Season of Nesting]] who offers Quests and [[Nesting Guide#Ultimate Gifts|cosmetics]]. The Nesting Guide is found within the [[Nesting Workshop]] in [[Aviary Village]], marked outside by a sign with Nesting's emblem. The Ultimate Guide offered a {{Spirit Item|Nesting Guide|necklace_u|link=Nesting Guide#Seasonal Pendant|inline_text}}, a {{Spirit Item|Nesting Guide|outfit_u|link=Nesting Guide#Ultimate Outfit|inline_text}}, and a {{Spirit Item|Nesting Guide|prop_u|link=Nesting Guide#Ultimate Prop|inline_text|label=Mini Figurine Prop}} for [[Season Pass]] holders.<section end="Summary" /><br>
+<br>
+[[File:Nesting-Guide-Promo-art.jpg|none|thumb|300x300px|TGC's Promo image]]
+
+==<span id="Ultimate Pendant"><span id="Nesting Ultimate Pendant">Seasonal Pendant</span></span>==
+The Nesting Ultimate [[Necklaces|Pendant]] is the usual gold pendant featuring the Season's emblem attached to a necklace. It is a [[Season Pass]] exclusive item during the Season, available for free from the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Guide|Necklace_u|icon}} {{!}} Nesting Ultimate Pendant icon
+{{Icon Name|Nesting Guide|Necklace_u|real}} {{!}} Nesting Ultimate Pendant
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Ultimate Gifts==
+The Season of Nesting Guide offered 2 Ultimate Gifts, available to be purchased by [[Season Pass]] holders with [[Currency#Season Hearts|Seasonal Hearts]] during the Season of Nesting only.
+
+===<span id="Ultimate Outfit">Nesting Ultimate Outfit</span>===
+The Nesting Ultimate [[Outfit]] is an orange and yellow carpenter's apron paired with elbow-length gloves and a blue-gray outfit. It was a [[Season Pass]] exclusive item, available for {{Cost|2 SH|season=Nesting}} after unlocking the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Guide|Outfit_u}} {{!}} Nesting Ultimate Outfit icon
+{{Icon Name|Nesting Guide|outfit_u_real}} {{!}} Nesting Ultimate Outfit front
+{{Icon Name|Nesting Guide|outfit_u_back}} {{!}} Nesting Ultimate Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+<br>
+
+===<span id="Ultimate Prop"><span id="Prop">Nesting Ultimate Prop</span></span>===
+The Nesting Ultimate [[Prop]] is a miniaturized figurine of the player standing on a small mound of grass, posed with their hand held out in front of them like they are offering to {{Icon|Icon handhold.png|link=Friendship Menu#Holding Hands|label=Hold Hands}} [[Friendship Menu#Holding Hands|Hold Hands]]. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. When placed down, the figurine is displayed wearing an exact copy of the players' current cosmetics and height. Interacting with the placed item then gives players the ability to wear the outfit on display for a quick changeup.  
+
+Note that the Mini Figurine cannot be used to display Props and that it only allows players to wear displayed items that they already own. [[Spells]] can be used and will be displayed on the figurine, but will not be applied when you return to don the saved outfit. It was a [[Season Pass]] exclusive item, available for {{Cost|2 SH|season=Nesting}} after unlocking the Friendship Tree's second node. <br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Guide|Prop_u|icon}} {{!}} Nesting Ultimate Prop icon
+{{Icon Name|Nesting Guide|Prop_u|real}} {{!}} Nesting Ultimate Prop
+{{Icon Name|Nesting Guide|Prop_u|back}} {{!}} Nesting Ultimate Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Friendship Tree==
+The Nesting Guide's Friendship Tree was available to the right of the Quest Tree during the Season of Nesting only. '''Now that the Season is over, these cosmetics are no longer available'''.
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Nesting Guide
+|image  = Nesting-Ultimate-Guide.png
+|type   = season
+|season = Nesting
+
+|nodeC3 = prop_u 2 SH AP
+|  linkC3 = Nesting Guide#Ultimate Prop
+
+|nodeC2 = outfit_u 2 SH AP
+|  linkC2 = Nesting Guide#Ultimate Outfit
+
+|nodeC1 = necklace AP
+|  linkC1 = Nesting Guide#Seasonal Pendant
+}}<section end="Friendship Tree" />
+
+==Quest Tree==
+The Nesting Guide's Quest Tree is available for all players to complete Quests from the [[Season of Nesting]]. Once you complete a quest, a [[Currency#Hearts|Heart]] is available to be collected for free.<!--(Post-Season (if applies):) Since the end of the Season, players completing these Quests for the first time have to pay 3 {{Candle}} to obtain these Hearts.-->
+<section begin="Quest Tree" />{{Friendship Tree
+|spirit = Nesting Guide
+|image  = Nesting-Ultimate-Guide.png
+|type   = season
+|season = Nesting
+
+|nodeC7 = Heart free
+
+|nodeC6 = quest
+|  linkC6 = Season of Nesting#Quest #5
+|  labelC6 = Quest 5
+
+|nodeL5 = Heart free
+|nodeC5 = quest
+|  linkC5 = Season of Nesting#Quest #4
+|  labelC5 = Quest 4
+
+|nodeL4 = Heart free
+|nodeC4 = quest
+|  linkC4 = Season of Nesting#Quest #3
+|  labelC4 = Quest 3
+
+|nodeL3 = Heart free
+|nodeC3 = quest
+|  linkC3 = Season of Nesting#Quest #2
+|  labelC3 = Quest 2
+
+|nodeL2 = Heart free
+|nodeC2 = quest
+|  linkC2 = Season of Nesting#Quest #1
+|  labelC2 = Quest 1
+
+|nodeC1 = Icon_warp.png
+|  labelC1 = Teleport to the Nesting Workshop
+|  linkC1  = Nesting Workshop
+}}<section end="Quest Tree" />
+
+==Personality==
+On April 12, 2024, TGC officially announced and introduced the Nesting Guide with the following personality traits:
+
+*📏Their motto: "Measure twenty times, cut once"
+*💭Gets some of their best ideas while hiking
+*🤫Secretly still loves making blanket forts
+*🤝Hopes to have an apprentice someday
+
+==Trivia==
+*The option to teleport to the [[Nesting Workshop]] in the Nesting Guide's [[#Quest Tree|Quest Tree]] was not available initially and was instead added partway through the Season in Patch {{v|0.25.5}}.
+
+==In Other Languages==
+{{Other Languages|title={{PAGENAME}}
+|fr            = Guide de la Nidification
+|fr_meaning    =
+|fr_gg         =
+|ja            = 巣づくりの案内人 (Kana: すづくりのあんないにん)
+|ja_rom        = Suzukuri no Annainin
+|ja_meaning    = Nest Building Guide
+|id            =
+|id_meaning    =
+|de            = Nest-Helfer
+|de_meaning    = Nest Helper
+|de_gg         =
+|vi            = Chỉ Dẫn Xây Tổ
+|vi_meaning    =
+|ko            = 보금자리 안내자
+|ko_rom        =
+|ko_meaning    =
+|es            = Guía acogedora
+|es_meaning    =
+|es_gg         =
+|it            = Guide ai Nidi
+|it_meaning    =
+|it_gg         =
+|pt            = Guia do Ninho
+|pt_meaning    =
+|pt_gg         =
+|ru            = Проводник гнездования
+|ru_rom        =
+|ru_meaning    =
+|ru_gg         =
+|zh_cn         = 筑巢向导
+|zh_cn_rom     = Zhù cháo xiàngdǎo
+|zh_cn_meaning = Nest Building Guide
+|zh_tw         = 築巢嚮導
+|zh_tw_rom     =
+|zh_tw_meaning =
+}}
+
+==References==
+<references/>
+
+[[zh:築巢嚮導]]
+[[fr:Guide de la Nidification]]
+[[pt-br:Guia do Ninho]]
+[[ja:巣づくりの案内人]]
+[[de:Nest-Helfer]]

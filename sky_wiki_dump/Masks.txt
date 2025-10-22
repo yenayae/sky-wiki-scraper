@@ -1,0 +1,890 @@
+[[File:Sky-Closet-Masks-Morybel-0146.png|thumb|left|x200px|Icon used for the Mask Outfit Shrine]]
+'''Mask''' is a general term in Sky for any [[Cosmetics]] that alter the appearance of the player's face. This includes full-face masks (including multiple animal-themed masks), scarves, beards and other facial hair, and accessories such as blindfolds. One "Mask" (the [[#Proud Victor|Proud Victor]]'s) is technically a non-mask; you just see the character's underlying face.
+
+The current Mask is selected in the second [[Outfit Shrine]] from the left, in the first tab (with the Base Mask {{Icon| Icon_mask_default.png }} icon). The second tab in the Mask Closet (the sunglasses {{Spirit Item|Chill Sunbather|facepiece}} icon) lists [[Face Accessories]] while the third tab (the bowtie {{Spirit Item|Comfort of Kindness|neckpiece}} icon) lists [[Necklaces]]. One Necklace, one, Face Accessory, and one Mask can be worn simultaneously but all three can be worn individually as well.
+{{clear|left}}
+==Base Mask==
+This is the Mask worn by the player at the start of the game. Note that this is in fact a Mask, and is not just the avatar's underlying face. The [[#Proud Victor|Proud Victor]]'s Mask is the only non-mask, that is also bare-faced.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Default|mask}} {{!}} The Mask icon
+{{Icon Name|Default|mask_real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Special Masks==
+In general, the only effect of changing your Mask is the the appearance of your face. However, there are some Masks with special functions. 
+* The [[#Hide'n'Seek Pioneer|Chibi Mask]] shrinks your entire body, like a shrinking Spell. 
+* The [[Sky for PlayStation#Journey Pack|Journey Pack]] Mask grants a unique Journey-inspired voice when worn. To hear the Journey-inspired voice, honk with the default Call equipped.
+* Both the [[Abyss Guide#Oxygen Mask|oxygen Mask]] and the [[Abyss Guide#Ultimate Mask|Season of Abyss Ultimate Mask]] give players an additional 15 seconds of oxygen when underwater.
+
+{{clear}}
+
+== Display ==
+<section begin="Display" />{{Cosmetics Tabber
+| {{Spirit Item| Default | mask | tab | link= }}
+| {{Spirit Item| Default | mask_real | closet_display |link=#Base Mask}}
+| {{Spirit Item| Hide'n'Seek Pioneer | mask | tab | link= }}
+| {{Spirit Item| Hide'n'Seek Pioneer | mask_real | closet_display }}
+| {{Spirit Item| Waving Bellmaker | mask | tab | link= }}
+| {{Spirit Item| Waving Bellmaker | Mask_real | closet_display }}
+| {{Spirit Item| Fainting Warrior | mask | tab | link= }}
+| {{Spirit Item| Fainting Warrior | Mask_real | closet_display }}
+| {{Spirit Item| Provoking Performer | Mask | tab | link= }}
+| {{Spirit Item| Provoking Performer | mask_real | closet_display }}
+| {{Spirit Item| Leaping Dancer | Mask | tab | link= }}
+| {{Spirit Item| Leaping Dancer | mask_real | closet_display }}
+| {{Spirit Item| Saluting Protector | Mask | tab | link= }}
+| {{Spirit Item| Saluting Protector | mask_real | closet_display }}
+| {{Spirit Item| Greeting Shaman | Mask | tab | link= }}
+| {{Spirit Item| Greeting Shaman | mask_real | closet_display }}
+| {{Spirit Item| Gratitude | mask_u | tab | link= }}
+| {{Spirit Item| Gratitude | mask_u_real | closet_display | link=Gratitude_Guide#Gratitude_Ultimate_Mask }}
+| {{Spirit Item| Sassy Drifter | Mask | tab | link= }}
+| {{Spirit Item| Sassy Drifter | Mask_real | closet_display }}
+| {{Spirit Item| Piggyback Lightseeker | Mask | tab | link= }}
+| {{Spirit Item| Piggyback Lightseeker | Mask_real | closet_display }}
+| {{Spirit Item| Doublefive Light Catcher | Mask | tab | link= }}
+| {{Spirit Item| Doublefive Light Catcher | Mask_real | closet_display }}
+| {{Spirit Item| Laidback Pioneer | Mask | tab | link= }}
+| {{Spirit Item| Laidback Pioneer | Mask_real | closet_display }}
+| {{Spirit Item| Twirling Champion | Mask | tab | link= }}
+| {{Spirit Item| Twirling Champion | Mask_real | closet_display }}
+| {{Spirit Item| Crab Whisperer | Mask | tab | link= }}
+| {{Spirit Item| Crab Whisperer | Mask_real | closet_display }}
+| {{Spirit Item| Shushing Light Scholar | Mask | tab | link= }}
+| {{Spirit Item| Shushing Light Scholar | Mask_real | closet_display }}
+| {{Spirit Item| Boogie Kid | Mask | tab | link= }}
+| {{Spirit Item| Boogie Kid | Mask_real | closet_display }}
+| {{Spirit Item| Wise Grandparent | Mask | tab | link= }}
+| {{Spirit Item| Wise Grandparent | Mask_real | closet_display }}
+| {{Spirit Item| Pleaful Parent | Mask | tab | link= }}
+| {{Spirit Item| Pleaful Parent | Mask_real | closet_display }}
+| {{Spirit Item| Sparkler Parent | Mask | tab | link= }}
+| {{Spirit Item| Sparkler Parent | Mask_real | closet_display }}
+| {{Spirit Item| Rhythm | mask_u | tab | link= }}
+| {{Spirit Item| Rhythm | mask_u_real | closet_display }}
+| {{Spirit Item| Troupe Greeter | Mask | tab | link= }}
+| {{Spirit Item| Troupe Greeter | Mask_real | closet_display }}
+| {{Spirit Item| Admiring Actor | Mask | tab | link= }}
+| {{Spirit Item| Admiring Actor | Mask_real | closet_display }}
+| {{Spirit Item| Thoughtful Director | Mask | tab | link= }}
+| {{Spirit Item| Thoughtful Director | Mask_real | closet_display }}
+| {{Spirit Item| Respectful Pianist | Mask | tab | link= }}
+| {{Spirit Item| Respectful Pianist | Mask_real | closet_display }}
+| {{Spirit Item| Nodding Muralist | Mask | tab | link= }}
+| {{Spirit Item| Nodding Muralist | Mask_real | closet_display }}
+| {{Spirit Item| Playfighting Herbalist | Mask | tab | link= }}
+| {{Spirit Item| Playfighting Herbalist | Mask_real | closet_display }}
+| {{Spirit Item| Indifferent Alchemist | Mask | tab | link= }}
+| {{Spirit Item| Indifferent Alchemist | Mask_real | closet_display }}
+| {{Spirit Item| Scarecrow Farmer | Mask | tab | link= }}
+| {{Spirit Item| Scarecrow Farmer | Mask_real | closet_display }}
+| {{Spirit Item| Hiking Grouch | Mask | tab | link= }}
+| {{Spirit Item| Hiking Grouch | Mask_real | closet_display }}
+| {{Spirit Item| Prophet of Water | Mask | tab | link= }}
+| {{Spirit Item| Prophet of Water | Mask_real | closet_display }}
+| {{Spirit Item| Prophet of Earth | Mask | tab | link= }}
+| {{Spirit Item| Prophet of Earth | Mask_real | closet_display }}
+| {{Spirit Item| Prophet of Air | Mask | tab | link= }}
+| {{Spirit Item| Prophet of Air | Mask_real | closet_display }}
+| {{Spirit Item| Prophet of Fire | Mask | tab | link= }}
+| {{Spirit Item| Prophet of Fire | Mask_real | closet_display }}
+| {{Spirit Item| Prophecy Guide | mask_u | tab | link= }}
+| {{Spirit Item| Prophecy Guide | mask_u_real | closet_display | link=Prophecy_Guide#Prophecy_Ultimate_Mask }}
+| {{Spirit Item| Peeking Postman | Mask | tab | link= }}
+| {{Spirit Item| Peeking Postman | Mask_real | closet_display }}
+| {{Spirit Item| Dancing Performer | Mask | tab | link= }}
+| {{Spirit Item| Dancing Performer | Mask_real | closet_display }}
+| {{Spirit Item| Spinning Mentor | Mask | tab | link= }}
+| {{Spirit Item| Spinning Mentor | Mask_real | closet_display }}
+| {{Spirit Item| Dreams Guide | mask_u | tab | link= }}
+| {{Spirit Item| Dreams Guide | mask_u_real | closet_display | link=Dreams_Guide#Dreams_Ultimate_Mask }}
+| {{Spirit Item| Assembly Guide | mask_u | tab | link= }}
+| {{Spirit Item| Assembly Guide | mask_u_real | closet_display | link=Assembly_Guide#Assembly_Ultimate_Mask }}
+| {{Spirit Item| Marching Adventurer | Mask | tab | link= }}
+| {{Spirit Item| Marching Adventurer | Mask_real | closet_display }}
+| {{Spirit Item| Chuckling Scout | Mask | tab | link= }}
+| {{Spirit Item| Chuckling Scout | Mask_real | closet_display }}
+| {{Spirit Item| Daydream Forester | Mask | tab | link= }}
+| {{Spirit Item| Daydream Forester | Mask_real | closet_display }}
+| {{Spirit Item| Scolding Student | Mask | tab | link= }}
+| {{Spirit Item| Scolding Student | Mask_real | closet_display }}
+| {{Spirit Item| Baffled Botanist | Mask | tab | link= }}
+| {{Spirit Item| Baffled Botanist | Mask_real | closet_display }}
+| {{Spirit Item| Scaredy Cadet | Mask | tab | link= }}
+| {{Spirit Item| Scaredy Cadet | Mask_real | closet_display }}
+| {{Spirit Item| Beckoning Ruler | Mask | tab | link= }}
+| {{Spirit Item| Beckoning Ruler | Mask_real | closet_display }}
+| {{Spirit Item| Bumbling Boatswain | Mask | tab | link= }}
+| {{Spirit Item| Bumbling Boatswain | Mask_real | closet_display }}
+| {{Spirit Item| Ceasing Commodore | Mask | tab | link= }}
+| {{Spirit Item| Ceasing Commodore | Mask_real | closet_display }}
+| {{Spirit Item| Cackling Cannoneer | Mask | tab | link= }}
+| {{Spirit Item| Cackling Cannoneer | Mask_real | closet_display }}
+| {{Spirit Item| Abyss Guide | mask_u | tab | link= }}
+| {{Spirit Item| Abyss Guide | mask_u_real | closet_display | link=Abyss_Guide#Abyss_Ultimate_Mask }}
+| {{Spirit Item| Abyss Guide | mask | tab | label=Abyss Oxygen Mask | link= }}
+| {{Spirit Item| Abyss Guide | Mask_real | closet_display | label=Abyss Oxygen Mask }}
+| {{Spirit Item| Anxious Angler | Mask | tab | link= }}
+| {{Spirit Item| Anxious Angler | Mask_real | closet_display }}
+| {{Spirit Item| Performance Guide | mask_u | tab | link= }}
+| {{Spirit Item| Performance Guide | mask_u_real | closet_display | link=Performance_Guide#Performance_Ultimate_Mask }}
+| {{Spirit Item| Modest Dancer | Mask | tab | link= }}
+| {{Spirit Item| Modest Dancer | Mask_real | closet_display }}
+| {{Spirit Item| Frantic Stagehand | Mask | tab | link= }}
+| {{Spirit Item| Frantic Stagehand | Mask_real | closet_display }}
+| {{Spirit Item| Performance Guide | mask | tab | label=Performance Guide Mask | link= }}
+| {{Spirit Item| Performance Guide | Mask_real | closet_display | label=Performance Guide Mask }}
+| {{Spirit Item| Forgetful Storyteller | Mask | tab | link= }}
+| {{Spirit Item| Forgetful Storyteller | Mask_real | closet_display }}
+| {{Spirit Item| Mellow Musician | Mask | tab | link= }}
+| {{Spirit Item| Mellow Musician | Mask_real | closet_display }}
+| {{Spirit Item| Ancient Darkness | mask | tab | link= }}
+| {{Spirit Item| Ancient Darkness | Mask_real | closet_display }}
+| {{Spirit Item| Seed of Hope | mask | tab | link= }}
+| {{Spirit Item| Seed of Hope | Mask_real | closet_display }}
+| {{Spirit Item| Running Wayfarer | mask | tab | link= }}
+| {{Spirit Item| Running Wayfarer | Mask_real | closet_display }}
+| {{Spirit Item| Warrior of Love | mask | tab | link= }}
+| {{Spirit Item| Warrior of Love | Mask_real | closet_display }}
+| {{Spirit Item| Mindful Miner | mask | tab | link= }}
+| {{Spirit Item| Mindful Miner | Mask_real | closet_display }}
+| {{Spirit Item| AURORA Guide | mask | tab | label=Cure for Me Mask | link= }}
+| {{Spirit Item| AURORA Guide | Mask_real | closet_display | label=Cure for Me Mask }}
+| {{Spirit Item| Bereft Veteran | mask | tab | link= }}
+| {{Spirit Item| Bereft Veteran | Mask_real | closet_display }}
+| {{Spirit Item| Wounded Warrior | mask | tab | link= }}
+| {{Spirit Item| Wounded Warrior | Mask_real | closet_display }}
+| {{Spirit Item| Passage Guide | mask_u | tab | link= }}
+| {{Spirit Item| Passage Guide | mask_u_real | closet_display | link=Passage_Guide#Passage_Ultimate_Mask }}
+| {{Spirit Item| Passage Guide | mask_s | tab | label=Passage Serow Mask | link=}}
+| {{Spirit Item| Passage Guide | mask_s_real | closet_display | label=Passage Serow Mask | link=Passage Guide#Serow Mask }}
+| {{Spirit Item| Passage Guide | mask_b | tab | label=Passage Boar Mask | link= }}
+| {{Spirit Item| Passage Guide | mask_b_real | closet_display | label=Passage Boar Mask | link=Passage Guide#Boar Mask }}
+| {{Spirit Item| Passage Guide | mask_r | tab | label=Passage Raccoon Mask | link= }}
+| {{Spirit Item| Passage Guide | mask_r_real | closet_display | label=Passage Raccoon Mask | link=Passage Guide#Raccoon Mask }}
+| {{Spirit Item| Passage Guide | mask_m | tab | label=Passage Monkey Mask | link= }}
+| {{Spirit Item| Passage Guide | mask_m_real | closet_display | label=Passage Monkey Mask | link=Passage Guide#Monkey Mask }}
+| {{Spirit Item| Reassuring Ranger | mask | tab | link= }}
+| {{Spirit Item| Reassuring Ranger | mask_real | closet_display }}
+| {{Spirit Item| Ascetic Monk | mask | tab | link= }}
+| {{Spirit Item| Ascetic Monk | mask_real | closet_display }}
+| {{Spirit Item| Princess | mask | tab | link= }}
+| {{Spirit Item| Princess | mask_real | closet_display }}
+| {{Spirit Item| Feudal Lord | mask | tab | link= }}
+| {{Spirit Item| Feudal Lord | mask_real | closet_display }}
+| {{Spirit Item| Spirit of Mural | mask | tab | label=Spirit of Mural Mask | link= }}
+| {{Spirit Item| Spirit of Mural | mask_real | closet_display | label=Spirit of Mural Mask }}
+| {{Spirit Item| Spirit of Mural | mask_g | tab | link= | label=Gift of the Nine-Colored Deer Mask }}
+| {{Spirit Item| Spirit of Mural | mask_g_real | closet_display | link=Season of the Nine-Colored Deer#Gift of the Nine-Colored Deer | label=Gift of the Nine-Colored Deer Mask }}
+| {{Spirit Item| Duets Guide | mask | tab | link= }}
+| {{Spirit Item| Duets Guide | mask_real | closet_display }}
+| {{Spirit Item| Radiance Guide | mask_u | tab | link= }}
+| {{Spirit Item| Radiance Guide | mask_u_real | closet_display | link=Radiance_Guide#Radiance_Ultimate_Mask }}
+| {{Spirit Item| Costumed Confetti Cousin | mask | tab | link= }}
+| {{Spirit Item| Costumed Confetti Cousin | Mask_real | closet_display }}
+| {{Spirit Item| Resourceful Recluse | mask | tab | link= }}
+| {{Spirit Item| Resourceful Recluse | Mask_real | closet_display }}
+| {{Spirit Item| Stern Shepherd | mask | tab | link= }}
+| {{Spirit Item| Stern Shepherd | Mask_real | closet_display }}
+| {{Days Item| Fortune Blushing Mask | icon | tab | link= }}
+| {{Days Item| Fortune Blushing Mask | real | closet_display }}
+| {{Days Item| Fortune Bull Mask | icon | tab | link= }}
+| {{Days Item| Fortune Bull Mask | real | closet_display }}
+| {{Days Item| Fortune Tiger Mask | icon | tab | link= }}
+| {{Days Item| Fortune Tiger Mask | real | closet_display }}
+| {{Days Item| Fortune Rabbit Mask | icon | tab | link= }}
+| {{Days Item| Fortune Rabbit Mask | real | closet_display }}
+| {{Days Item| Fortune Dragon Mask | icon | tab | link= }}
+| {{Days Item| Fortune Dragon Mask | real | closet_display }}
+| {{Days Item| Fortune Snake Mask | icon | tab | link= }}
+| {{Days Item| Fortune Snake Mask | real | closet_display }}
+| {{Days Item| Days of Love Mask | icon | tab | link= }}
+| {{Days Item| Days of Love Mask | real | closet_display }}
+| {{Days Item| Ocean Mask | icon | tab | link= }}
+| {{Days Item| Ocean Mask | real | closet_display }}
+| {{Days Item| Ocean Wave Mask | icon | tab | link= }}
+| {{Days Item| Ocean Wave Mask | real | closet_display }}
+| {{Days Item| Dark Rainbow Mask | icon | tab | link= }}
+| {{Days Item| Dark Rainbow Mask | real | closet_display | link=Days_of_Color/2024#Dark_Rainbow_Mask }}
+| {{Days Item| Rainbow Face Paint Mask | icon | tab | link= }}
+| {{Days Item| Rainbow Face Paint Mask | real | closet_display | link=Days_of_Color/2025#Rainbow_Face_Paint_mask }}
+| {{Days Item| Style Runway Mask | icon | tab | link= }}
+| {{Days Item| Style Runway Mask | real | closet_display }}
+| {{Days Item| Cat Mask | icon | tab | link= }}
+| {{Days Item| Cat Mask | real | closet_display }}
+| {{Days Item| Crabula Mask | icon | tab | link= }}
+| {{Days Item| Crabula Mask | real | closet_display }}
+| {{Days Item| Rose Petal Mask | icon | tab | link= }}
+| {{Days Item| Rose Petal Mask | real | closet_display }}
+| {{Days Item| Sparrow Mask | icon | tab | link= }}
+| {{Days Item| Sparrow Mask | real | closet_display }}
+| {{Icon| Journey-Pack-Mask-icon-Morybel-0146.png | tab | label=Journey Mask | link= }}
+| {{Icon| JourneyPack-Mask-Nastymold.png | closet_display | label=Journey Mask | link=Journey Pack }}
+| {{Icon| Transcendent-Journey-Pack-Mask-icon.png | tab | label=Transcendent Journey Mask | link= }}
+| {{Icon| Transcendent-Journey-Pack-Mask.png | closet_display | label=Transcendent Journey Mask | link=Sky for Playstation#Transcendent Journey Pack }}
+| {{Spirit Item| Proud Victor | mask | tab | link= }}
+| {{Spirit Item| Proud Victor | Mask_real | closet_display }}
+| {{Days Item| Treasure Seeker's Bounty mask | icon | tab | link= }}
+| {{Days Item| Treasure Seeker's Bounty mask | real | closet_display | link=Days_of_Treasure#Treasure_Seeker's_Bounty }}
+}}<section end="Display" />
+
+== Available Masks ==
+This table lists all the Masks that have ever been available in Sky; only a small subset of them are [[#Availability Legend|available]] for purchase at any given time. The default order is icon order, as used in the in-game [[Outfit Shrine]]. The table sort order can be changed by clicking on the header of any column. The Dye column lists whether the Mask can be dyed or not.
+{| class="article-table sortable"
+! class="unsortable" | Image
+! Icon
+! [[#Availability Legend|Avail.]]
+! Source
+! Cost
+! [[Dyes|Dye]]
+|- id="Base"
+| style="text-align: center;"| {{Spirit Item| Default | mask_real | table | link=Masks#Base Mask }}
+| {{Spirit Item| Default | mask | table | link=Masks#Base Mask | sort=0 }}
+| {{Avail Summary | permanent | source=Base }}
+| {{Cost | free }}
+| Yes
+|- id="Hide'n'Seek Pioneer"
+| style="text-align: center;"| {{Spirit Item| Hide'n'Seek Pioneer | mask_real | table }}
+| {{Spirit Item| Hide'n'Seek Pioneer | mask | table }}
+| {{Avail Summary | regular | spirit=Hide'n'Seek Pioneer | realm=Hidden Forest }}
+| {{Cost | 20 H }}
+| Yes
+|- id="Waving Bellmaker"
+| style="text-align: center;"| {{Spirit Item| Waving Bellmaker | mask_real | table }}
+| {{Spirit Item| Waving Bellmaker | mask | table }}
+| {{Avail Summary | regular | spirit=Waving Bellmaker | realm=Daylight Prairie }}
+| {{Cost | 5 H }}
+| Yes
+|- id="Fainting Warrior"
+| style="text-align: center;"| {{Spirit Item| Fainting Warrior | mask_real | table }}
+| {{Spirit Item| Fainting Warrior | mask | table }}
+| {{Avail Summary | regular | spirit=Fainting Warrior | realm=Golden Wasteland}}
+| {{Cost | 15 H }}
+| No
+|- id="Provoking Performer"
+| style="text-align: center;"| {{Spirit Item| Provoking Performer | mask_real | table }}
+| {{Spirit Item| Provoking Performer | Mask | table | sort=100 }}
+| {{Avail Summary | season | spirit=Provoking Performer | season=Gratitude }}
+| {{Cost | 42 C }}
+| Yes
+|- id="Leaping Dancer"
+| style="text-align: center;"| {{Spirit Item| Leaping Dancer | mask_real | table }}
+| {{Spirit Item| Leaping Dancer | Mask | table | sort=101 }}
+| {{Avail Summary | season | spirit=Leaping Dancer | season=Gratitude }}
+| {{Cost | 54 C }}
+| Yes
+|- id="Saluting Protector"
+| style="text-align: center;"| {{Spirit Item| Saluting Protector | mask_real | table }}
+| {{Spirit Item| Saluting Protector | Mask | table | sort=102 }}
+| {{Avail Summary | season | spirit=Saluting Protector | season=Gratitude }}
+| {{Cost | 42 C }}
+| Yes
+|- id="Greeting Shaman"
+| style="text-align: center;"| {{Spirit Item| Greeting Shaman | mask_real | table }}
+| {{Spirit Item| Greeting Shaman | Mask | table | sort=103 }}
+| {{Avail Summary | season | spirit=Greeting Shaman | season=Gratitude }}
+| {{Cost | 54 C }}
+| Yes
+|- id="Gratitude Ultimate Mask"
+| style="text-align: center;"| {{Spirit Item| Gratitude Guide | mask_u_real | link=Gratitude Guide#Gratitude_Ultimate_Mask | table }}
+| {{Spirit Item| Gratitude | mask_u | table | sort=104 | link=Gratitude Guide#Gratitude_Ultimate_Mask }}
+| {{Avail Summary | ultimate | season=Gratitude }}
+| {{Cost | N/A }}
+| Yes
+|- id="Sassy Drifter"
+| style="text-align: center;"| {{Spirit Item| Sassy Drifter | mask_real | table }}
+| {{Spirit Item| Sassy Drifter | Mask | table | sort=105 }}
+| {{Avail Summary | season | spirit=Sassy Drifter | season=Gratitude }}
+| {{Cost | 48 C }}
+| Yes
+|- id="Piggyback Lightseeker"
+| style="text-align: center;"| {{Spirit Item| Piggyback Lightseeker | mask_real | table }}
+| {{Spirit Item| Piggyback Lightseeker | Mask | table | sort=106 }}
+| {{Avail Summary | season | spirit=Piggyback Lightseeker | season=Lightseekers }}
+| {{Cost | 24 C }}
+| Yes
+|- id="Doublefive Light Catcher"
+| style="text-align: center;"| {{Spirit Item| Doublefive Light Catcher | mask_real | table }}
+| {{Spirit Item| Doublefive Light Catcher | Mask | table | sort=107 }}
+| {{Avail Summary | season | spirit=Doublefive Light Catcher | season=Lightseekers }}
+| {{Cost | 24 C }}
+| Yes
+|- id="Laidback Pioneer"
+| style="text-align: center;"| {{Spirit Item| Laidback Pioneer | mask_real | table }}
+| {{Spirit Item| Laidback Pioneer | Mask | table | sort=108 }}
+| {{Avail Summary | season | spirit=Laidback Pioneer | season=Lightseekers }}
+| {{Cost | 30 C }}
+| Yes
+|- id="Twirling Champion"
+| style="text-align: center;"| {{Spirit Item| Twirling Champion | mask_real | table }}
+| {{Spirit Item| Twirling Champion | Mask | table | sort=109 }}
+| {{Avail Summary | season | spirit=Twirling Champion | season=Lightseekers }}
+| {{Cost | 24 C }}
+| Yes
+|- id="Crab Whisperer"
+| style="text-align: center;"| {{Spirit Item| Crab Whisperer | mask_real | table }}
+| {{Spirit Item| Crab Whisperer | Mask | table | sort=110 }}
+| {{Avail Summary | season | spirit=Crab Whisperer | season=Lightseekers }}
+| {{Cost | 30 C }}
+| Yes
+|- id="Shushing Light Scholar"
+| style="text-align: center;"| {{Spirit Item| Shushing Light Scholar | mask_real | table }}
+| {{Spirit Item| Shushing Light Scholar | Mask | table | sort=111 }}
+| {{Avail Summary | season | spirit=Shushing Light Scholar | season=Lightseekers }}
+| {{Cost | 30 C }}
+| Yes
+|- id="Boogie Kid"
+| style="text-align: center;"| {{Spirit Item| Boogie Kid | mask_real | table }}
+| {{Spirit Item| Boogie Kid | Mask | table | sort=112 }}
+| {{Avail Summary | season | spirit=Boogie Kid | season=Belonging }}
+| {{Cost | 30 C }}
+| No
+|- id="Wise Grandparent"
+| style="text-align: center;"| {{Spirit Item| Wise Grandparent | mask_real | table }}
+| {{Spirit Item| Wise Grandparent | Mask | table | sort=113 }}
+| {{Avail Summary | season | spirit=Wise Grandparent | season=Belonging }}
+| {{Cost | 48 C }}
+| No
+|- id="Pleaful Parent"
+| style="text-align: center;"| {{Spirit Item| Pleaful Parent | mask_real | table }}
+| {{Spirit Item| Pleaful Parent | Mask | table | sort=114 }}
+| {{Avail Summary | season | spirit=Pleaful Parent | season=Belonging }}
+| {{Cost | 42 C }}
+| No
+|- id="Sparkler Parent"
+| style="text-align: center;"| {{Spirit Item| Sparkler Parent | mask_real | table }}
+| {{Spirit Item| Sparkler Parent | Mask | table | sort=115 }}
+| {{Avail Summary | season | spirit=Sparkler Parent | season=Belonging }}
+| {{Cost | 36 C }}
+| No
+|- id="Rhythm Ultimate Mask"
+| style="text-align: center;"| {{Spirit Item| Rhythm Guide | mask_u_real | link=Rhythm_Guide#Rhythm_Ultimate_Mask | table }}
+| {{Spirit Item| Rhythm | mask_u | table | sort=116 | link=Rhythm_Guide#Rhythm_Ultimate_Mask }}
+| {{Avail Summary | ultimate | season=Rhythm }}
+| {{Cost | N/A }}
+| No
+|- id="Troupe Greeter"
+| style="text-align: center;"| {{Spirit Item| Troupe Greeter | mask_real | table }}
+| {{Spirit Item| Troupe Greeter | Mask | table | sort=117 }}
+| {{Avail Summary | season | spirit=Troupe Greeter | season=Rhythm }}
+| {{Cost | 48 C }}
+| No
+|- id="Admiring Actor"
+| style="text-align: center;"| {{Spirit Item| Admiring Actor | mask_real | table }}
+| {{Spirit Item| Admiring Actor | Mask | table | sort=118 }}
+| {{Avail Summary | season | spirit=Admiring Actor | season=Rhythm }}
+| {{Cost | 42 C }}
+| No
+|- id="Thoughtful Director"
+| style="text-align: center;"| {{Spirit Item| Thoughtful Director | mask_real | table }}
+| {{Spirit Item| Thoughtful Director | Mask | table | sort=119 }}
+| {{Avail Summary | season | spirit=Thoughtful Director | season=Rhythm }}
+| {{Cost | 42 C }}
+| No
+|- id="Respectful Pianist"
+| style="text-align: center;"| {{Spirit Item| Respectful Pianist | mask_real | table }}
+| {{Spirit Item| Respectful Pianist | Mask | table | sort=120 }}
+| {{Avail Summary | season | spirit=Respectful Pianist | season=Rhythm }}
+| {{Cost | 48 C }}
+| No
+|- id="Nodding Muralist"
+| style="text-align: center;"| {{Spirit Item| Nodding Muralist | mask_real | table }}
+| {{Spirit Item| Nodding Muralist | Mask | table | sort=121 }}
+| {{Avail Summary | season | spirit=Nodding Muralist | season=Enchantment }}
+| {{Cost | 30 C }}
+| Yes
+|- id="Playfighting Herbalist"
+| style="text-align: center;"| {{Spirit Item| Playfighting Herbalist | mask_real | table }}
+| {{Spirit Item| Playfighting Herbalist | Mask | table | sort=122 }}
+| {{Avail Summary | season | spirit=Playfighting Herbalist | season=Enchantment }}
+| {{Cost | 30 C }}
+| Yes
+|- id="Indifferent Alchemist"
+| style="text-align: center;"| {{Spirit Item| Indifferent Alchemist | mask_real | table }}
+| {{Spirit Item| Indifferent Alchemist | Mask | table | sort=123 }}
+| {{Avail Summary | season | spirit=Indifferent Alchemist | season=Enchantment }}
+| {{Cost | 42 C }}
+| No
+|- id="Scarecrow Farmer"
+| style="text-align: center;"| {{Spirit Item| Scarecrow Farmer | mask_real | table }}
+| {{Spirit Item| Scarecrow Farmer | Mask | table | sort=124 }}
+| {{Avail Summary | season | spirit=Scarecrow Farmer | season=Enchantment }}
+| {{Cost | 42 C }}
+| Yes
+|- id="Hiking Grouch"
+| style="text-align: center;"| {{Spirit Item| Hiking Grouch | mask_real | table }}
+| {{Spirit Item| Hiking Grouch | Mask | table | sort=125 }}
+| {{Avail Summary | season | spirit=Hiking Grouch | season=Sanctuary }}
+| {{Cost | 34 C }}
+| No
+|- id="Prophet of Water"
+| style="text-align: center;"| {{Spirit Item| Prophet of Water | mask_real | table }}
+| {{Spirit Item| Prophet of Water | Mask | table | sort=127 }}
+| {{Avail Summary | season | spirit=Prophet of Water | season=Prophecy }}
+| {{Cost | 54 C }}
+| Yes
+|- id="Prophet of Earth"
+| style="text-align: center;"| {{Spirit Item| Prophet of Earth | mask_real | table }}
+| {{Spirit Item| Prophet of Earth | Mask | table | sort=128 }}
+| {{Avail Summary | season | spirit=Prophet of Earth | season=Prophecy }}
+| {{Cost | 44 C }}
+| Yes
+|- id="Prophet of Air"
+| style="text-align: center;"| {{Spirit Item| Prophet of Air | mask_real | table }}
+| {{Spirit Item| Prophet of Air | Mask | table | sort=129 }}
+| {{Avail Summary | season | spirit=Prophet of Air | season=Prophecy }}
+| {{Cost | 54 C }}
+| Yes
+|- id="Prophet of Fire"
+| style="text-align: center;"| {{Spirit Item| Prophet of Fire | mask_real | table }}
+| {{Spirit Item| Prophet of Fire | Mask | table | sort=130 }}
+| {{Avail Summary | season | spirit=Prophet of Fire | season=Prophecy }}
+| {{Cost | 54 C }}
+| Yes
+|- id="Prophecy Ultimate Mask"
+| style="text-align: center;"| {{Spirit Item| Prophecy Guide | mask_u_real | link=Prophecy_Guide#Prophecy_Ultimate_Mask | table }}
+| {{Spirit Item| Prophecy Guide | mask_u | table | sort=131 | link=Prophecy_Guide#Prophecy_Ultimate_Mask }}
+| {{Avail Summary | ultimate | season=Prophecy }}
+| {{Cost | N/A }}
+| Yes
+|- id="Peeking Postman"
+| style="text-align: center;"| {{Spirit Item| Peeking Postman | mask_real | table }}
+| {{Spirit Item| Peeking Postman | Mask | table | sort=132 }}
+| {{Avail Summary | season | spirit=Peeking Postman | season=Dreams }}
+| {{Cost | 54 C }}
+| Yes
+|- id="Dancing Performer"
+| style="text-align: center;"| {{Spirit Item| Dancing Performer | mask_real | table }}
+| {{Spirit Item| Dancing Performer | Mask | table | sort=133 }}
+| {{Avail Summary | season | spirit=Dancing Performer | season=Dreams }}
+| {{Cost | 48 C }}
+| Yes
+|- id="Spinning Mentor"
+| style="text-align: center;"| {{Spirit Item| Spinning Mentor | mask_real | table }}
+| {{Spirit Item| Spinning Mentor | Mask | table | sort=134 }}
+| {{Avail Summary | season | spirit=Spinning Mentor | season=Dreams }}
+| {{Cost | 42 C }}
+| Yes
+|- id="Dreams Ultimate Mask"
+| style="text-align: center;"| {{Spirit Item| Dreams Guide | mask_u_real | link=Dreams_Guide#Dreams_Ultimate_Mask | table }}
+| {{Spirit Item| Dreams Guide | mask_u | table | sort=135 | link=Dreams_Guide#Dreams_Ultimate_Mask }}
+| {{Avail Summary | ultimate | season=Dreams }}
+| {{Cost | N/A }}
+| Yes
+|- id="Assembly Ultimate Mask"
+| style="text-align: center;"| {{Spirit Item| Assembly Guide | mask_u_real | link=Assembly_Guide#Assembly_Ultimate_Mask | table }}
+| {{Spirit Item| Assembly Guide | mask_u | table | sort=136 | link=Assembly_Guide#Assembly_Ultimate_Mask }}
+| {{Avail Summary | ultimate | season=Assembly }}
+| {{Cost | N/A }}
+| Yes
+|- id="Marching Adventurer"
+| style="text-align: center;"| {{Spirit Item| Marching Adventurer | mask_real | table }}
+| {{Spirit Item| Marching Adventurer | Mask | table | sort=137 }}
+| {{Avail Summary | season | spirit=Marching Adventurer | season=Assembly }}
+| {{Cost |30 C }}
+| Yes
+|- id="Chuckling Scout"
+| style="text-align: center;"| {{Spirit Item| Chuckling Scout | mask_real | table }}
+| {{Spirit Item| Chuckling Scout | Mask | table | sort=138 }}
+| {{Avail Summary | season | spirit=Chuckling Scout | season=Assembly }}
+| {{Cost | 36 C }}
+| Yes
+|- id="Daydream Forester"
+| style="text-align: center;"| {{Spirit Item| Daydream Forester | mask_real | table }}
+| {{Spirit Item| Daydream Forester | Mask | table | sort=139 }}
+| {{Avail Summary | season | spirit=Daydream Forester | season=Assembly }}
+| {{Cost | 24 C }}
+| Yes
+|- id="Scolding Student"
+| style="text-align: center;"| {{Spirit Item| Scolding Student | mask_real | table }}
+| {{Spirit Item| Scolding Student | Mask | table | sort=140 }}
+| {{Avail Summary | season | spirit=Scolding Student | season=Assembly }}
+| {{Cost | 24 C }}
+| Yes
+|- id="Baffled Botanist"
+| style="text-align: center;"| {{Spirit Item| Baffled Botanist | mask_real | table }}
+| {{Spirit Item| Baffled Botanist | Mask | table | sort=141 }}
+| {{Avail Summary | season | spirit=Baffled Botanist | season=Assembly }}
+| {{Cost | 24 C }}
+| Yes
+|- id="Scaredy Cadet"
+| style="text-align: center;"| {{Spirit Item| Scaredy Cadet | mask_real | table }}
+| {{Spirit Item| Scaredy Cadet | Mask | table | sort=142 }}
+| {{Avail Summary | season | spirit=Scaredy Cadet | season=Assembly }}
+| {{Cost | 24 C }}
+| Yes
+|- id="Beckoning Ruler"
+| style="text-align: center;"| {{Spirit Item| Beckoning Ruler | mask_real | table }}
+| {{Spirit Item| Beckoning Ruler | Mask | table | sort=143 }}
+| {{Avail Summary | season | spirit=Beckoning Ruler | season=The Little Prince }}
+| {{Cost | 42 C }}
+| No
+|- id="Bumbling Boatswain"
+| style="text-align: center;"| {{Spirit Item| Bumbling Boatswain | mask_real | table }}
+| {{Spirit Item| Bumbling Boatswain | Mask | table | sort=144 }}
+| {{Avail Summary | season | spirit=Bumbling Boatswain | season=Abyss }}
+| {{Cost | 40 C }}
+| No
+|- id="Ceasing Commodore"
+| style="text-align: center;"| {{Spirit Item| Ceasing Commodore | mask_real | table }}
+| {{Spirit Item| Ceasing Commodore | Mask | table | sort=145 }}
+| {{Avail Summary | season | spirit=Ceasing Commodore | season=Abyss }}
+| {{Cost | 40 C }}
+| Yes
+|- id="Cackling Cannoneer"
+| style="text-align: center;"| {{Spirit Item| Cackling Cannoneer | mask_real | table }}
+| {{Spirit Item| Cackling Cannoneer | Mask | table | sort=146 }}
+| {{Avail Summary | season | spirit=Cackling Cannoneer | season=Abyss }}
+| {{Cost | 40 C }}
+| No
+|- id="Abyss Ultimate Mask"
+| style="text-align: center;"| {{Spirit Item| Abyss Guide | mask_u_real | link=Abyss_Guide#Abyss_Ultimate_Mask | table }}
+| {{Spirit Item| Abyss Guide | mask_u | table | sort=147 | link=Abyss_Guide#Abyss_Ultimate_Mask }}
+| {{Avail Summary | ultimate | season=Abyss }}
+| {{Cost | N/A }}
+| Yes
+|- id="Abyss Oxygen Mask"
+| style="text-align: center;"| {{Spirit Item| Abyss Guide | mask_real | table | label=Abyss Oxygen Mask }}
+| {{Spirit Item| Abyss Guide | mask | table | sort=148 | label=Abyss Oxygen Mask }}
+| {{Avail Summary | guide | season=Abyss }}
+| {{Cost| 48 C }}
+| Yes
+|- id="Anxious Angler"
+| style="text-align: center;"| {{Spirit Item| Anxious Angler | mask_real | table }}
+| {{Spirit Item| Anxious Angler | Mask | table | sort=149 }}
+| {{Avail Summary | season | spirit=Anxious Angler | season=Abyss }}
+| {{Cost | 35 C }}
+| No
+|- id="Performance Ultimate Mask"
+| style="text-align: center;"| {{Spirit Item| Performance Guide | mask_u_real | table | link=Performance_Guide#Performance_Ultimate_Mask }}
+| {{Spirit Item| Performance Guide | mask_u | table | sort=150 | link=Performance_Guide#Performance_Ultimate_Mask }}
+| {{Avail Summary | ultimate | season=Performance }}
+| {{Cost | N/A }}
+| Yes
+|- id="Modest Dancer"
+| style="text-align: center;"| {{Spirit Item| Modest Dancer | mask_real | table }}
+| {{Spirit Item| Modest Dancer | Mask | table | sort=151 }}
+| {{Avail Summary | season | spirit=Modest Dancer | season=Performance }}
+| {{Cost | 30 C }}
+| No
+|- id="Frantic Stagehand"
+| style="text-align: center;"| {{Spirit Item| Frantic Stagehand | mask_real | table }}
+| {{Spirit Item| Frantic Stagehand | Mask | table | sort=152 }}
+| {{Avail Summary | season | spirit=Frantic Stagehand | season=Performance }}
+| {{Cost | 34 C }}
+| No
+|- id="Performance Guide mask"
+| style="text-align: center;"| {{Spirit Item| Performance Guide | mask_real | table | label=Performance Guide Mask }}
+| {{Spirit Item| Performance Guide | mask | table | sort=153 | label=Performance Guide Mask }}
+| {{Avail Summary | guide | season=Performance }}
+| {{Cost| 42 C }}
+| No
+|- id="Forgetful Storyteller"
+| style="text-align: center;"| {{Spirit Item| Forgetful Storyteller | mask_real | table }}
+| {{Spirit Item| Forgetful Storyteller | Mask | table | sort=154 }}
+| {{Avail Summary | season | spirit=Forgetful Storyteller | season=Performance }}
+| {{Cost | 34 C }}
+| No
+|- id="Mellow Musician"
+| style="text-align: center;"| {{Spirit Item| Mellow Musician | mask_real | table }}
+| {{Spirit Item| Mellow Musician | Mask | table | sort=155 }}
+| {{Avail Summary | season | spirit=Mellow Musician | season=Performance }}
+| {{Cost | 32 C }}
+| No
+|- id="Ancient Darkness"
+| style="text-align: center;"| {{Spirit Item| Ancient Darkness | mask_real | table }}
+| {{Spirit Item| Ancient Darkness | mask | table | label=Ancient Darkness | sort=156 }}
+| {{Avail Summary | season | spirit=Ancient Darkness | season=Shattering }}
+| {{Cost | 50 C }}
+| No
+|- id="Seed of Hope"
+| style="text-align: center;"| {{Spirit Item| Seed of Hope | mask_real | table }}
+| {{Spirit Item| Seed of Hope | mask | table | sort=157 }}
+| {{Avail Summary | season | spirit=Seed of Hope | season=AURORA }}
+| {{Cost | 35 C }}
+| No
+|- id="Running Wayfarer"
+| style="text-align: center;"| {{Spirit Item| Running Wayfarer | mask_real | table }}
+| {{Spirit Item| Running Wayfarer | mask | table | sort=158 }}
+| {{Avail Summary | season | spirit=Running Wayfarer | season=AURORA }}
+| {{Cost | 35 C }}
+| No
+|- id="Warrior of Love"
+| style="text-align: center;"| {{Spirit Item| Warrior of Love | mask_real | table }}
+| {{Spirit Item| Warrior of Love | mask | table | sort=159 }}
+| {{Avail Summary | season | spirit=Warrior of Love | season=AURORA }}
+| {{Cost | 35 C }}
+| No
+|- id="Mindful Miner"
+| style="text-align: center;"| {{Spirit Item| Mindful Miner | mask_real | table }}
+| {{Spirit Item| Mindful Miner | mask | table | sort=160 }}
+| {{Avail Summary | season | spirit=Mindful Miner | season=AURORA }}
+| {{Cost | 35 C }}
+| No
+|- id="AURORA Guide"
+| style="text-align: center;"| {{Icon| SoAURORA-Cure-for-me-Mask.png | link=AURORA Guide#Mask | label=Cure for Me Mask | table }}
+| {{Spirit Item| AURORA Guide | mask | table | label=Cure for Me Mask | sort=161 }}
+| {{Avail Summary | limited | spirit=AURORA Guide | season=AURORA }}
+| {{Cost | 50 C }}
+| No
+|- id="Bereft Veteran"
+| style="text-align: center;"| {{Spirit Item| Bereft Veteran | mask_real | table }}
+| {{Spirit Item| Bereft Veteran | mask | table |  sort=162 }}
+| {{Avail Summary | season | spirit=Bereft Veteran | season=Remembrance }}
+| {{Cost | 35 C }}
+| Yes
+|- id="Wounded Warrior"
+| style="text-align: center;"| {{Spirit Item| Wounded Warrior | mask_real | table }}
+| {{Spirit Item| Wounded Warrior | mask | table | sort=163 }}
+| {{Avail Summary | season | spirit=Wounded Warrior | season=Remembrance }}
+| {{Cost | 45 C }}
+| No
+|- id="Passage Ultimate Mask"
+| style="text-align: center;"| {{Spirit Item| Passage Guide | mask_u_real | table | label=Passage Ultimate Mask | link=Passage Guide#Passage Ultimate Mask }}
+| {{Spirit Item| Passage Guide | mask_u | table | sort=164 | label=Passage Ultimate Mask | link=Passage Guide#Passage Ultimate Mask }}
+| {{Avail Summary | ultimate | season=Passage }}
+| {{Cost | N/A }}
+| Yes
+|- id="Serow Mask"
+| style="text-align: center;"| {{Spirit Item| Passage Guide | mask_s_real | table | label=Passage Serow Mask | link=Passage Guide#Serow Mask }}
+| {{Spirit Item| Passage Guide | mask_s | table | sort=165 | label=Passage Serow Mask | link=Passage Guide#Serow Mask }}
+| {{Avail Summary | guide | season=Passage }}
+| {{Cost | 48 C }}
+| Yes
+|- id="Boar Mask"
+| style="text-align: center;"| {{Spirit Item| Passage Guide | mask_b_real | table | label=Passage Boar Mask | link=Passage Guide#Boar Mask }}
+| {{Spirit Item| Passage Guide | mask_b | table | sort=166 | label=Passage Boar Mask | link=Passage Guide#Boar Mask }}
+| {{Avail Summary | guide | season=Passage }}
+| {{Cost | 44 C }}
+| Yes
+|- id="Raccoon Mask"
+| style="text-align: center;"| {{Spirit Item| Passage Guide | mask_r_real | table | label=Passage Raccoon Mask | link=Passage Guide#Raccoon Mask }}
+| {{Spirit Item| Passage Guide | mask_r | table | sort=167 | label=Passage Raccoon Mask | link=Passage Guide#Raccoon Mask }}
+| {{Avail Summary | guide | season=Passage }}
+| {{Cost | 52 C }}
+| Yes
+|- id="Monkey Mask"
+| style="text-align: center;"| {{Spirit Item| Passage Guide | mask_m_real | table | label=Passage Monkey Mask | link=Passage Guide#Monkey Mask }}
+| {{Spirit Item| Passage Guide | mask_m | table | sort=168 | label=Passage Monkey Mask | link=Passage Guide#Monkey Mask }}
+| {{Avail Summary | guide | season=Passage }}
+| {{Cost | 46 C }}
+| Yes
+|- id="Reassuring Ranger"
+| style="text-align: center;"| {{Spirit Item| Reassuring Ranger | mask_real | table }}
+| {{Spirit Item| Reassuring Ranger | mask | table | label=Reassuring Ranger| sort=169 }}
+| {{Avail Summary | season | spirit=Reassuring Ranger | season=Moments }}
+| {{Cost |  ? }}
+| Yes
+|- id="Ascetic Monk"
+| style="text-align: center;"| {{Spirit Item| Ascetic Monk | mask_real | table }}
+| {{Spirit Item| Ascetic Monk | mask | table | label=Ascetic Monk| sort=170 }}
+| {{Avail Summary | season | spirit=Ascetic Monk | season=Moments }}
+| {{Cost | ? }}
+| Yes
+|- id="Princess"
+| style="text-align: center;"| {{Spirit Item | Princess | mask_real | table }}
+| {{Spirit Item| Princess | mask | table | sort=171 }}
+| {{Avail Summary | season | spirit=Princess | season=Nine-Colored Deer }}
+| {{Cost | ? }}
+| No
+|- id="Feudal Lord"
+| style="text-align: center;"| {{Spirit Item | Feudal Lord | mask_real | table }}
+| {{Spirit Item| Feudal Lord | mask | table | sort=172 }}
+| {{Avail Summary | season | spirit=Feudal Lord | season=Nine-Colored Deer }}
+| {{Cost | ? }}
+| No
+|- id="Spirit of Mural"
+| style="text-align: center;"| {{Spirit Item | Spirit of Mural | mask_real | table | label=Spirit of Mural Mask }}
+| {{Spirit Item| Spirit of Mural | mask | table | sort=173 | label=Spirit of Mural Mask }}
+| {{Avail Summary | limited | guide | season=Nine-Colored Deer }}
+| {{Cost | 120 C }}
+| No
+|- id="Gift of the Nine-Colored Deer"
+| style="text-align: center;"| {{Spirit Item | Spirit of Mural | mask_g_real | table | link=Season of the Nine-Colored Deer#Gift of the Nine-Colored Deer | label=Gift of the Nine-Colored Deer Mask }}
+| {{Spirit Item | Spirit of Mural | mask_g | sort=174 | table | link=Season of the Nine-Colored Deer#Gift of the Nine-Colored Deer | label=Gift of the Nine-Colored Deer Mask }}
+| {{Avail Summary | limited | season=Nine-Colored Deer }}
+| {{Cost | 14.99 USD }}<ref name="Gift of the Nine-Colored Deer">The $14.99 cost of the Gift of the Nine-Colored Deer includes 2 cosmetics (a Mask and a Face Accessory).</ref>
+| No
+|- id="Duets Guide"
+| style="text-align: center;"| {{Spirit Item | Duets Guide | mask_real | table }}
+| {{Spirit Item| Duets Guide | mask | table | sort=175 }}
+| {{Avail Summary | guide | season=Duets }}
+| {{Cost | 65 C }}
+| Yes
+|- id="Radiance Guide"
+| style="text-align: center;"| {{Spirit Item| Radiance Guide | mask_u_real | table | link=Radiance Guide#Ultimate Mask }}
+| {{Spirit Item| Radiance Guide | mask_u | table | sort=176 | link=Radiance Guide#Ultimate Mask }}
+| {{Avail Summary | ultimate | season=Radiance }}
+| {{Cost | N/A | season=Radiance }}
+| Yes
+|- id="Costumed confetti Cousin"
+| style="text-align: center;"| {{Spirit Item | Costumed confetti Cousin | mask_real | table }}
+| {{Spirit Item| Costumed confetti Cousin | mask | table | sort=172 }}
+| {{Avail Summary | season | spirit=Costumed confetti Cousin | season=Blue bird }}
+| {{Cost | ? }}
+| Yes
+|- id="Resourceful Recluse"
+| style="text-align: center;"| {{Spirit Item | Resourceful Recluse | mask_real | table }}
+| {{Spirit Item| Resourceful Recluse | mask | table | sort=172 }}
+| {{Avail Summary | season | spirit=Resourceful Recluse | season=Two Embers - Part 1 }}
+| {{Cost | ? }}
+| No
+|- id="Stern Shepherd"
+| style="text-align: center;"| {{Spirit Item | Stern Shepherd | mask_real | table }}
+| {{Spirit Item| Stern Shepherd | mask | table | sort=172 }}
+| {{Avail Summary | season | spirit=Stern Shepherd | season=Two Embers - Part 1 }}
+| {{Cost | ? }}
+| No
+|- id="Days of Fortune Pack"
+| style="text-align: center;"| {{Days Item| Blushing Mask | link=Days of Fortune#Days of Fortune Pack | real | table }}
+| {{Days Item| Blushing Mask | icon | table | sort=700 | link=Days of Fortune#Days of Fortune Pack }}
+| {{Avail Summary | days | days=Fortune }}
+| {{Cost| 24.99 USD }}<ref name="Fortune Pack">The $24.99 cost of the Days of Fortune Pack includes 3 cosmetics (a Cape, a Hairstyle, and a Mask).</ref>
+| Yes
+|- id="Days of Fortune Bull Mask"
+| style="text-align: center;"| {{Days Item| Fortune Bull Mask | real | table }}
+| {{Days Item| Fortune Bull Mask | icon | table | sort=701 }}
+| {{Avail Summary | days | days=Fortune }}
+| {{Cost | 56 C }}
+| Yes
+|- id="Days of Fortune Tiger Mask"
+| style="text-align: center;"| {{Days Item| Fortune Tiger Mask | real | table }}
+| {{Days Item| Fortune Tiger Mask | icon | table | sort=702 }}
+| {{Avail Summary | days | days=Fortune }}
+| {{Cost | 58 C }}
+| Yes
+|- id="Days of Fortune Rabbit Mask"
+| style="text-align: center;"| {{Days Item| Fortune Rabbit Mask | real | table }}
+| {{Days Item| Fortune Rabbit Mask | icon | table | sort=703 }}
+| {{Avail Summary | days | days=Fortune }}
+| {{Cost| 62 C }}
+| Yes
+|- id="Days of Fortune Dragon Mask"
+| style="text-align: center;"| {{Days Item| Fortune Dragon Mask | real | table }}
+| {{Days Item| Fortune Dragon Mask | icon | table | sort=704 }}
+| {{Avail Summary | days | days=Fortune }}
+| {{Cost | 57 C | event=Fortune }}
+| Yes
+|- id="Days of Fortune Snake Mask"
+| style="text-align: center;"| {{Days Item| Fortune Snake Mask | real | table }}
+| {{Days Item| Fortune Snake Mask | icon | table | sort=705 }}
+| {{Avail Summary | days | days=Fortune }}
+| {{Cost | ? | event=Fortune }}
+| Yes
+|- id="Rose Mask"
+| style="text-align: center;"| {{Days Item| Rose Mask | real | table }}
+| {{Days Item| Rose Mask | icon | table | sort=710 }}
+| {{Avail Summary | days | days=Love }}
+| {{Cost| 15 H }}
+| Yes
+|- id="Ocean Mask"
+| style="text-align: center;"| {{Days Item| Ocean Mask | real | table }}
+| {{Days Item| Ocean Mask | icon | table | sort=730 }}
+| {{Avail Summary | days | days=Nature }}
+| {{Cost| 36 C }}
+| Yes
+|- id="Ocean Wave Mask"
+| style="text-align: center;"| {{Days Item| Ocean Wave Mask | real | table }}
+| {{Days Item| Ocean Wave Mask | icon | table | sort=730 }}
+| {{Avail Summary | days | days=Nature }}
+| {{Cost| 19.99 USD }}
+| Yes
+|- id="Dark Rainbow Mask"
+| style="text-align: center;"| {{Days Item| Dark Rainbow Mask | real | table | link=Days_of_Color/2024#Dark_Rainbow_Mask }}
+| {{Days Item| Dark Rainbow Mask | icon | table | sort=740 | link=Days_of_Color/2024#Dark_Rainbow_Mask }}
+| {{Avail Summary | days | days=Color }}
+| {{Cost| 47 C }}
+| Yes
+|- id="Rainbow Face Paint Mask"
+| style="text-align: center;"| {{Days Item| Rainbow Face Paint Mask | real | table | link=Days_of_Color/2025#Rainbow_Face_Paint_mask }}
+| {{Days Item| Rainbow Face Paint Mask | icon | table | sort=740 | link=Days_of_Color/2025#Rainbow_Face_Paint_mask }}
+| {{Avail Summary | days | days=Color }}
+| {{Cost| 19.99 USD }}
+| Yes
+|- id="Style Runway Mask"
+| style="text-align: center;"| {{Days Item| Style Runway Mask | real | table }}
+| {{Days Item| Style Runway Mask | icon | table | sort=750 }}
+| {{Avail Summary | days | days=Style }}
+| {{Cost | 30 C }}
+| Yes
+|- id="Cat Mask"
+| style="text-align: center;"| {{Days Item| Cat Mask | real | table | link=Days of Mischief#Cat Costume Pack }}
+| {{Days Item| Cat Mask | icon | table | sort=761 | link=Days of Mischief#Cat Costume Pack }}
+| {{Avail Summary | days | days=Mischief }}
+| {{Cost | 19.99 USD }}<ref name="Cat Costume Pack">The $19.99 cost of the Cat Costume Pack includes 2 cosmetics (a Cape and a Mask).</ref>
+| Yes
+|- id="Crabula Mask"
+| style="text-align: center;"| {{Days Item| Crabula Mask | real | table }}
+| {{Days Item| Crabula Mask | icon | table | sort=762 }}
+| {{Avail Summary | days | days=Mischief }}
+| {{Cost| 2.99 USD }}
+| No
+|- id="Rose Petal Mask Mask"
+| style="text-align: center;"| {{Days Item| Rose Petal Mask | real | table }}
+| {{Days Item| Rose Petal Mask | icon | table | sort=762 }}
+| {{Avail Summary | days | days=Bloom }}
+| {{Cost| ? | event=bloom }}
+| Yes
+|- id="Sparrow Mask"
+| style="text-align: center;"| {{Days Item| Sparrow Mask | real | table }}
+| {{Days Item| Sparrow Mask | icon | table }}
+| {{Avail Summary | permanent | days=fireworks }}
+| {{Cost| 9.99 USD }}<ref name="Sparrow Pack">The $9.99 cost of the Sparrow Pack includes 2 cosmetics (a Cape and a Mask).</ref>
+| No
+|- id="Journey Mask"
+| style="text-align: center;"| {{Icon| JourneyPack-Mask-Nastymold.png | link=Journey Pack | label=Journey Mask | table }}
+| {{Icon| Journey-Pack-Mask-icon-Morybel-0146.png | table | sort=699 | link=Journey Pack | label=Journey Mask }}
+| {{Avail Summary | permanent | source={{Icon|PlayStation_Logo.png|table|label=Journey Pack|link=Journey Pack}} }}
+| {{Cost | 24.99 USD }}<ref name="Journey Pack">The $24.99 cost of the Journey Pack includes 3 cosmetics (a Cape, a Hood, and a Mask).</ref>
+| No
+|- id="Transcendent Journey Mask"
+| style="text-align: center;"| {{Icon| Transcendent-Journey-Pack-Mask.png | link=Sky for Playstation#Transcendent Journey Pack | label=Transcendent Journey Mask | table }}
+| {{Icon| Transcendent-Journey-Pack-Mask-icon.png | table | sort=699 | link=Sky for Playstation#Transcendent Journey Pack | label=Transcendent Journey Mask }}
+| {{Avail Summary | permanent | source={{Icon|PlayStation_Logo.png|table|label=Transcendent Journey Pack|link=Sky for Playstation#Transcendent Journey Pack}} }}
+| {{Cost | 24.99 USD }}<ref name="Transcendent Journey Pack">The $24.99 cost of the Transcendent Journey Pack includes 3 cosmetics (a Cape, a Hood, and a Mask).</ref>
+| No
+|- id="Proud Victor"
+| style="text-align: center;"| {{Spirit Item| Proud Victor | mask_real | table }}
+| {{Spirit Item| Proud Victor | mask | table | sort=500 }}
+| {{Avail Summary | regular | spirit=Proud Victor | realm=Valley of Triumph }}
+| {{Cost | 30 H }}
+| No
+|- id="Treasure Seeker's Bounty Mask"
+| style="text-align: center;"| {{Days Item| Treasure Seeker's Bounty Mask | real | table | link=Days_of_Treasure#Treasure_Seeker's_Bounty }}
+| {{Days Item| Treasure Seeker's Bounty Mask | icon | table | sort=750 | link=Days_of_Treasure#Treasure_Seeker's_Bounty }}
+| {{Avail Summary | days | days=Treasure }}
+| {{Cost | 14.99 USD }}<ref name="Treasure Seeker's Bounty">The $14.99 cost of the Treasure Seeker's Bounty includes 2 cosmetics (an Outfit and Mask).</ref>
+| Yes
+|}
+{{Avail Legend
+| regular
+| permanent
+| guide
+| s+
+| u+
+| t*
+| r*
+| d*
+| l*
+| days
+| season
+| ultimate
+| limited
+| conditional
+}}
+
+== Trivia ==
+A small number of the Masks worn by [[Ancestors]] have never been made available to players:
+*The Mask worn by the [[Lightseekers Guide]].
+*The tall segment of the Masks worn by several of the [[Vault]] Ancestors, namely: the [[Polite Scholar]], [[Meditating Monastic]], [[Praying Acolyte]], [[Shushing Light Scholar]], [[Wise Grandparent]], and the [[Elder of the Vault]].
+
+==References==
+<references/>
+
+[[fr:Masques]]
+[[pt-br:Máscaras]]
+[[ja:マスク]]
+
+[[Category:Cosmetics]]

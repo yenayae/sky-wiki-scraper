@@ -1,0 +1,218 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Rhythm-Spirit-Thoughtful-Director.png|Standard
+Rhythm-Spirit-Thoughtful-Director-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Mask|infobox}}{{Spirit Item||Cape|infobox}}
+|instruments = {{Spirit Item||Instrument|infobox}}
+|season    = Rhythm
+|realm     = Vault of Knowledge
+|location  = First Floor Vault
+|ts        = June 20, 2024 (#116)<br/>July 3, 2023 (SV#3)<br>August 8, 2022 (#67)<br>May 13, 2021 (#35)
+}}
+<section begin="Summary" />The '''Thoughtful Director''' is a [[Seasonal Spirit]] from the [[Season of Rhythm]] who offers the {{Emote|Thoughtful Director|inline_text}} Expression. The Thoughtful Director is found on the [[Vault of Knowledge#First Floor|First Floor]] of the [[Vault of Knowledge]], to the right of the elevator and behind the four-player door that requires the {{Emote|Telekinesis|inline_text}} Expression to open. The collectibles [[Thoughtful Director#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Thoughtful Director|Mask|inline_text}}, a {{Spirit Item|Thoughtful Director|Cape|inline_text}}, and the {{Spirit Item|Thoughtful Director|Instrument|inline_text|label=Xylophone Instrument}}.<section end="Summary" /><br>
+<br>
+[[File:Thoughtful-Director-promo-image.jpg|thumb|none|320px|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|MWZ5RH7i5zM||inline|Video Guide}}
+
+The Thoughtful Director can be found on the [[Vault of Knowledge#First Floor|First Floor]] of the [[Vault of Knowledge]], behind the four-player door to the right of the elevator. This Spirit has a [[Carry Spirit Memory|carry spirit memory]] with 7 memory fragments and a 10-minute overall [[Timed Memory|time limit]].<br>
+<br>
+In order to open the door on the Vault's First Floor, players will first need to unlock the {{Emote|Telekinesis|inline_text}} Expression from the [[Levitating Adept]]. Four players are needed to open the gate and once all four are present, interact with the {{Emote|Levitating Adept}} Telekinesis prompt on the stones in front of the door together to unlock the room beyond it.
+
+As their memory unfolds, the Thoughtful Director can be seen making their way through the tunnel behind the 4-player door and into the open room beyond it, entering a closed door tucked into the back-left corner. Light the two braziers sitting in front of the door to open it. The Spirit continues to ponderously travel through the winding tunnel and meets the [[Praying Acolyte]] kneeling in prayer along the way, who joins their journey onwards. Near the end of the tunnel, the two Spirits meet the [[Polite Scholar]] and together, the three Spirits walk the last few steps to the ledge overlooking the open room.
+
+At the end of the memory, the Thoughtful Director looks out into the large open room where their memory began, back turned to the player. They bring a hand up to tap at their chin, swaying side to side and lost in their thoughts.<br>
+<br>
+[[File:05 VK Seasonal Spirit - Thoughtful Director.jpg|200px|thumb|none|Relive the Thoughtful Director's memory]]
+</div>
+{{Clear}}
+
+== Expression==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.<br>
+<br>
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Thoughtful-Director-thinking-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Thoughtful-Director-thinking-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Thoughtful-Director-thinking-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Thoughtful-Director-thinking-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar look up slightly, bring their right hand up to their chin and hold the elbow with their left, before turning their body from side to side a few times and tapping their chin with the right hand, while two xylophone sound effects play.
+*Level 2 makes the same motion as Level 1, with a big glowing question mark appearing over your avatar's head.
+*Level 3 will make your avatar bring their right hand up to their chin and loosely hold the elbow with their left, before looking down with their knees bent, head turning from side to side before straightening and raising their right hand in the air in epiphany, while three xylophone sound effects play.
+*Level 4 makes the same motion as Level 3, with a big glowing light bulb symbol appearing over your avatar's head as they raise their arm.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+==Cosmetics==
+===Mask===
+The [[Mask]] offered by this Spirit is white and resembles an owl, with a wide face, a pair of stubby horns, a small beak, and bronze accents, costing {{Cost|42 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|16 SC|season=Rhythm}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask front
+{{Icon Name||Mask|side}} {{!}} The Mask side
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Cape===
+The [[Cape]] offered by this Spirit is pale blue and resembles the plumage of a bird, with a yellow hem and a purple interior, as well as a long, triangular, pale blue neckpiece with a gold ornament shaped like the {{Season Icon|Rhythm|inline_text}} emblem on it, costing {{Cost|75 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fifth node ({{Cost|76 SC|season=Rhythm}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||Cape|interior}} {{!}}The Cape interior
+{{Icon Name||Cape|back}} {{!}} The Cape back
+{{Icon Name||Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Instrument===
+The [[Instrument]] offered by this Spirit is the '''Xylophone''' (or '''Lithophone'''), costing {{Cost|65 C}} from the Traveling Spirit. Its five bars are alternately colored in a lighter and slightly darker blue. It was available to all players during the Season from the Friendship Tree's fourth node ({{Cost|54 SC|season=Rhythm}} total). The player kneels while playing the Instrument, which plays 15 notes.
+
+The Xylophone plays the melody [[Music Sheet Parts|part]] on Music Sheets. Its [[Instrument Pitch|pitch]] is one octave above the standard {{Spirit Item|Cheerful Spectator|Instrument|inline_text}} (in C major, it covers C<sub>5</sub> to C<sub>7</sub>), making it the highest-pitched Instrument available in the game, along with the {{Spirit Item|Respectful Pianist|Instrument|inline_text}}. 
+
+In [[Harmony Hall]], the Xylophone can be found on the back wall, behind and to the left of the front counter, next to the alcove containing the two pianos.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Instrument|icon}} {{!}} The Instrument icon
+{{Icon Name||Instrument|real}} {{!}} The Instrument
+{{Icon Name||Instrument|held}} {{!}} Playing the Instrument
+{{Icon Name||Instrument|back}} {{!}} The Instrument on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Traveling Spirit==
+[[File:Vault of Knowledge - Thoughtful Director.png|200px|right|thumb]]
+{{Friendship Tree Info | traveling
+|ts_dates=*June 20, 2024 (#116)
+*August 4, 2022 (#67)
+*May 13, 2021 (#35)
+|rs_dates=*July 3, 2023 (SV#3)
+}}<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Thoughtful Director
+|season = Rhythm
+|image  = Rhythm-Spirit-Thoughtful-Director.png
+
+|nodeC6 = Cape 75 C
+|nodeL5 = Instrument 65 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Mask 42 C
+|nodeC2 = spell5
+|nodeR2 = heart 3 C
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+The hints given before the [[Thoughtful Director]]'s first appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=First Visit Hints
+|content=<div>
+* Is an amateur weightlifter
+* Is afraid of deep water
+* Enjoys public speaking
+* Acts like an older sibling
+* Likes solving complex math problems
+* Loves mantas 
+* Enjoys the sunrise
+* Their favorite color is black
+* Does have too much caffeine
+* Enjoys comic strips
+* Doesn't like sweets
+* Also likes fizzy water
+* Accidentally kills houseplants
+* Is a fast reader
+* Doesn't like getting dirty
+* Likes cute animals
+* Is shy when making friends
+* Also enjoys cloudwatching 
+* Also enjoys finding star constellations 
+* Does like seafood
+* Has traveled to every realm
+* Will have 2 arms
+* Has never gone fishing
+* Is amazing at card games
+* Hates sand
+* Gets seasick on long voyages
+* Has tea every week with Sparkler spirit, Grandma Belonging, and Levitate Spirit
+* Has the world record for jigsaw puzzle completion
+* [ktjn] Eats all their vegetables at dinner
+* [ktjn] Can take a 15 minute nap and feel fully rested
+</div>}}
+
+The hints given before the [[Thoughtful Director]]'s second appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Second Visit Hints
+|content=<div>
+* Is a harsh but fair critic
+* Gets stressed over finding the perfect birthday gifts
+* Has kept their first plant alive
+* Is on the 2nd draft of their new mystery project
+* Likes to gift flowers to those they care about
+* Is stubborn
+* Has a restless soul
+* Found all 900 Korok seeds in Zelda: Breath of the Wild without any guides
+</div>}}
+
+No hints were given before the [[Thoughtful Director]]'s third appearance.
+
+==Season Friendship Tree==
+{{Friendship Tree Info | season | season=Rhythm}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Thoughtful Director
+|type   = season
+|season = Rhythm
+|image  = Rhythm-Spirit-Thoughtful-Director.png
+
+|nodeC6 = season_heart 3 SC SP
+|nodeL5 = Cape SP
+|nodeC5 = spell5 22 SC
+|nodeL4 = spell5 SP
+|nodeC4 = Instrument 20 SC
+|nodeL3 = emote4 SP
+|nodeC3 = emote3 18 SC
+|nodeL2 = Mask SP
+|nodeC2 = spell5 16 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Unique Daily Quests==
+{{#section-h:Quests/Daily Quest Spirits|{{PAGENAME}}}}
+
+==Trivia==
+*The Thoughtful Director's [[#Cape|Cape]] is featured in a piece of merch from thatskyshop, in the form of the [[That Sky Shop/Wave 2#Rhythm Director Cape Pin|Rhythm Director Cape Pin]]. It has a [[STAR]] feature which allows you to wear the Rhythm Director's Cape with the friends that you're holding hands with for a limited duration.
+
+==Image Gallery==
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape">
+Thoughtful-Director-second-visit-promo-image.png
+Thoughtful-Director-mid-Season-promo-image.png
+Thinking expression .jpg
+Rhythm beta group think.jpeg
+Rhythm spirit think map.png
+</gallery>
+
+==Video Gallery==
+{{#ev:youtube|h5SzQI60xz0|175|inline|Video Guide by Tara}}
+
+==References==
+<references/>
+
+[[fr:Réalisateur Réfléchi]]
+[[de:Nachdenklicher Direktor]]
+[[pt-br:Diretor Pensativo]]
+[[ru:Задумчивый творец]]
+[[ja:思慮深き座長]]

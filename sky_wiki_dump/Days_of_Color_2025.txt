@@ -1,0 +1,357 @@
+{{SkyEvent
+| image = Days-of-Color-2025-Promo-image.png
+| previousevent = [[Days of Color/2024|2024]]
+| nextevent = 
+| date = May 26 to June 8, 2021
+| years = {{#lst:Days of Color|Color Years}}
+}}
+{{#ev:youtube|PstqxC1aZTE||right|Days of Color 2025 Trailer}}
+Days of Color returned for a sixth year! The event began on '''Monday, May 26, 2025 at 00:00 PDT (UTC-7)''' and continued until '''Sunday, June 8, 2025 at 23:59 PDT (UTC-7)''', lasting '''14''' days. Rainbows brightened the skies above the [[Daylight Prairie#Prairie Village|Prairie Village]], with new games, a colorful race, and more! For the duration of the event, the Color Guide stood at [[Home]] and [[Aviary Village]], offering to teleport players to the [[Eight-Player Puzzle Area|Daylight Prairie's Eight-Player Puzzle Area]]. 
+
+Most event activities from previous years returned unchanged, with the exception being the Rainbow Race from [[Days of Color/2024|2024]]. The race was updated to have Colored Butterflies containing random [[Dyes#Collecting Colored Light and Dyes|Colored Light]] flying around each checkpoint, and a photo shoot spot at the end of the race.   
+
+The [[Radiance Guide]] also arrived to host three new mini-games; The Crab Toss game, the Concentration Game, and the Shell Game. Winning a mini-game rewarded players with random Colored Light, and Event Tickets Light equal to 2.5 Event Tickets.  
+*The Crab Toss Game: To win, toss three crabs into the vat 
+*The Concentration Game: To win, reveal symbols 2 at a time until you find all matching pairs
+*The Shell Game: To win, spot the chest with the colored light
+
+Sky continued its partnership to support the Trevor Project, a leading suicide prevention and mental health organization for LGBTQ youth, providing crisis services, education, and peer support to help young people thrive. Between five (({{Cost|5.00 USD|refnote}})) and ten dollars ({{Cost|10.00 USD|refnote}}) were donated on behalf of each new and returning [[Premium Candle Shop|IAP]] purchases from this event.
+
+===Ticket Locations===
+[[File:Days-of-Color-Rainbow-Ticket.png|125px|thumb|A Days of Color rainbow Ticket]]
+A total of {{Cost|5 T|event=color}} Event Tickets could be forged by participating in two of these event activities each day:
+*The Crab Toss Game
+*The Concentration Game
+*The Shell Game
+*The Rainbow Race
+In addition, {{Cost|15 T|event=nature}} one-time Event Tickets shaped like Rainbows were hidden throughout the [[Eight-Player Puzzle Area]]. They could be collected at any time during the event. 
+
+Players could also buy additional Tickets (costing {{Cost|2 AC}} or {{Cost|6 C}} each) from the Color Gift Box found at the [[Eight-Player Puzzle Area]].
+
+{{Friendship Tree
+|label  = Color Guide
+|event = Color
+|image = Days-of-Color-Guide-2025.png
+
+|nodeC5 = {{Icon Name|Rainbow Cape|icon}} 175 C
+|  labelC5 = {{Icon Name|Rainbow Cape|name}}
+|  linkC5  = Days of Color/2021#{{Icon Name|Rainbow Cape|name}}
+
+|nodeL4 = {{Icon Name|Rainbow Trousers|icon}} 95 C
+|  labelL4 = {{Icon Name|Rainbow Trousers|name}}
+|  linkL4  = Days of Color/2022#{{Icon Name|Rainbow Trousers|name}}
+|nodeC4 = trail_spell 5 C
+
+|nodeR3 = {{Icon Name|Rainbow Braid|icon}} 20 H
+|  labelR3 = {{Icon Name|Rainbow Braid|name}}
+|  linkR3  = Days of Color/2021#{{Icon Name|Rainbow Braid|name}}
+|nodeL3 = {{Icon Name|Dark Rainbow Cape|icon}} 177 C
+|  labelL3 = {{Icon Name|Dark Rainbow Cape|name}}
+|  linkL3  = Days of Color/2023#{{Icon Name|Dark Rainbow Cape|name}}
+|nodeC3 = trail_spell 5 C
+
+|nodeR2 = {{Icon Name|Color Glam Cut|icon}} 38 C
+|  labelR2 = {{Icon Name|Color Glam Cut|name}}
+|  linkR2  = Days of Color/2024#{{Icon Name|Color Glam Cut|name}}
+|nodeL2 = {{Icon Name|Dark Rainbow Mask|icon}} 47 C
+|  labelL2 = {{Icon Name|Dark Rainbow Mask|name}}
+|  linkL2  = Days of Color/2024#{{Icon Name|Dark Rainbow Mask|name}}
+|nodeC2 = trail_spell 5 C
+
+|nodeR1 = {{Icon Name|Rainbow Head Wrap|icon}} 20 T
+|  labelR1 = {{Icon Name|Rainbow Head Wrap|name}}
+|  linkR1  = Days of Color/2025#{{Icon Name|Rainbow Head Wrap|name}}
+|nodeL1 = {{Icon Name|Rainbow Smock|icon}} 42 T
+|  labelL1 = {{Icon Name|Rainbow Smock|name}}
+|  linkL1  = Days of Color/2025#{{Icon Name|Rainbow Smock|name}}
+|nodeC1 = trail_spell 5 C
+}}{{Clear}}
+
+===<big>All Available Collectibles in 2025</big>===
+{| class="article-table"
+!Name
+!Icon
+!Type
+!Cost
+!Location
+!Spell
+!Spell Cost & Locations
+|-
+! colspan="7" style="text-align:center;" |From Days of Color 2025
+|-
+|[[Days of Color/2025#{{Icon Name|Rainbow Face Paint Mask|name}}|{{Icon Name|Rainbow Face Paint Mask|name}}]] + 3 {{Cost|D|color=white}} + {{Cost|75 C}}
+|{{Days Item|Rainbow Face Paint Mask||link=Days of Color/2025#Rainbow Face Paint Mask|table}}
+|[[Masks|Mask]]
+|{{Cost|19.99 USD|refnote}}
+|<small>[[Premium Candle Shop]]</small>
+|{{Days Item|Rainbow Face Paint Mask|spell|link=Days of Color/2025#Rainbow Face Paint Mask|table}}<small>x3</small>
+|<small>Color Gift Box at the [[Eight-Player Puzzle Area]] for free</small>
+|-
+|[[Days of Color/2025#{{Icon Name|Rainbow Ribbon Shawl|name}}|{{Icon Name|Rainbow Ribbon Shawl|name}}]]
+|{{Days Item|Rainbow Ribbon Shawl||link=Days of Color/2025#Rainbow Ribbon Shawl|table}}
+|[[Capes|Cape]]
+|{{Cost|14.99 USD|refnote}}
+|<small>[[Premium Candle Shop]]</small>
+|{{Days Item|Rainbow Ribbon Shawl|spell|link=Days of Color/2025#Rainbow Ribbon Shawl|table}}<small>x3</small>
+|<small>Color Gift Box at the [[Eight-Player Puzzle Area]] for free</small>
+|-
+|[[Days of Color/2025#{{Icon Name|Rainbow Smock|name}}|{{Icon Name|Rainbow Smock|name}}]]
+|{{Days Item|Rainbow Smock||link=Days of Color/2025#Rainbow Smock|table}}
+|[[Outfit]]
+|{{Cost|42 T|event=color}}
+|<small>Color Guide at the [[Eight-Player Puzzle Area]]</small>
+|{{Days Item|Rainbow Smock|spell|link=Days of Color/2025#Rainbow Smock|table}}<small>x3</small>
+|<small>Color Gift Box at the [[Eight-Player Puzzle Area]] for free</small>
+|-
+|[[Days of Color/2025#{{Icon Name|Rainbow Head Wrap|name}}|{{Icon Name|Rainbow Head Wrap|name}}]]
+|{{Days Item|Rainbow Head Wrap||link=Days of Color/2025#Rainbow Head Wrap|table}}
+|[[Hair]]
+|{{Cost|20 T|event=color}}
+|<small>Color Guide at the [[Eight-Player Puzzle Area]]</small>
+|{{Days Item|Rainbow Head Wrap|spell|link=Days of Color/2025#Rainbow Head Wrap|table}}<small>x3</small>
+|<small>Color Gift Box at the [[Eight-Player Puzzle Area]] for free</small>
+|-
+|[[Days of Color/2025#Rainbow Footstep Trail Spell|Rainbow Footstep Trail Spell]]
+| 
+|[[Spell]]
+|<small>{{Cost|5 C}}</small>
+|
+|{{Icon|Rainbow-Trail-Slide-Spell.png|table|label=Rainbow Footstep Trail Spell|link=Days of Color/2025#Rainbow Footstep Trail Spell}}<small>x1</small>
+|<small>Color Gift Box at the [[Eight-Player Puzzle Area]]</small>
+|-
+! colspan="7" style="text-align:center;" |From Days of Color 2024
+|-
+|[[Days of Color/2024#{{Icon Name|Dark Rainbow Loafers|name}}|{{Icon Name|Dark Rainbow Loafers|name}}]] + {{Cost|75 C}}
+|{{Days Item|Dark Rainbow Loafers||link=Days of Color/2024#Dark Rainbow Loafers|table}}
+|[[Shoes]]
+|{{Cost|19.99 USD|refnote}}
+|<small>Jelly Whisperer at the [[Eight-Player Puzzle Area]]</small>
+|{{Days Item|Dark Rainbow Loafers|spell|link=Days of Color/2024#Dark Rainbow Loafers|table}}<small>x3</small>
+|<small>Color Gift Box at the [[Eight-Player Puzzle Area]] for free</small>
+|-
+|[[Days of Color/2024#{{Icon Name|Color Bubble Machine|name}}|{{Icon Name|Color Bubble Machine|name}}]]
+|{{Days Item|Color Bubble Machine||link=Days of Color/2024#Color Bubble Machine|table}}
+|[[Prop]]
+|{{Cost|14.99 USD|refnote}}
+|<small>Jelly Whisperer at the [[Eight-Player Puzzle Area]]</small>
+|{{Days Item|Color Bubble Machine|spell|link=Days of Color/2024#Color Bubble Machine|table}}<small>x3</small>
+|<small>Color Gift Box at the [[Eight-Player Puzzle Area]] for free</small>
+|-
+|[[Days of Color/2024#{{Icon Name|Color Glam Cut|name}}|{{Icon Name|Color Glam Cut|name}}]]
+|{{Days Item|Color Glam Cut||link=Days of Color/2024#Color Glam Cut|table}}
+|[[Hair]]
+|{{Cost|38 C|event=color}}
+|<small>Color Guide at the [[Eight-Player Puzzle Area]]</small>
+|{{Days Item|Color Glam Cut|spell|link=Days of Color/2024#Color Glam Cut|table}}<small>x3</small>
+|<small>Color Gift Box at the [[Eight-Player Puzzle Area]] for free</small>
+|-
+|[[Days of Color/2024#{{Icon Name|Dark Rainbow Mask|name}}|{{Icon Name|Dark Rainbow Mask|name}}]]
+|{{Days Item|Dark Rainbow Mask||link=Days of Color/2024#Dark Rainbow Mask|table}}
+|[[Mask]]
+|{{Cost|47 C|event=color}}
+|<small>Color Guide at the [[Eight-Player Puzzle Area]]</small>
+|{{Days Item|Dark Rainbow Mask|spell|link=Days of Color/2024#Dark Rainbow Mask|table}}<small>x3</small>
+|<small>Color Gift Box at the [[Eight-Player Puzzle Area]] for free</small>
+|-
+|[[Days of Color/2024#Hair Tint Spells|Hair Tint Spell]]
+|
+|[[Spell]]
+|Free
+|
+|[[File:Red-Hair-Tint-Spell.png|50px|table|link=Days of Color/2024#Hair Tint Spells|class=animate-rainbow|Hair Tint Spells]]<small>x3</small>
+|<small>Color Gift Box at the [[Eight-Player Puzzle Area]]</small>
+|-
+|[[Days of Color/2024#Rainbow Glow Spell|Rainbow Glow Spell]]
+|
+|[[Spell]]
+|Free
+|
+|{{Icon|Spell - Days of rainbow spell.png|table|label=Rainbow Glow Spell|link=Days of Color/2024#Rainbow Glow Spell}}<small>x3</small>
+|<small>Color Gift Box at the [[Eight-Player Puzzle Area]]</small>
+|-
+|[[Days of Feast#Medal Neck Accessory Spell|Medal Neck Accessory Spell]]
+|
+|[[Spell]]
+|
+|
+|{{Icon|Course-Medal-Neck-Accessory-Spell-icon-777-Ed.png|table|label=Medal Neck Accessory Spell|link=Days of Feast#Medal Neck Accessory Spell}}
+|<small>Not collectible; only available from the rainbow race above the [[Eight-Player Puzzle Area]] or the [[Days of Feast#Course Creation Prop|Course Creation Prop]]</small>
+|-
+! colspan="7" style="text-align:center;" |From Days of Color 2023
+|-
+|[[Days of Color/2023#{{Icon Name|Dark Rainbow Tunic|name}}|{{Icon Name|Dark Rainbow Tunic|name}}]]
+|{{Days Item|Dark Rainbow Tunic||link=Days of Color/2023#Dark Rainbow Tunic|table}}
+|[[Outfit]]
+|{{Cost|14.99 USD|refnote}}
+|<small>Jelly Whisperer at the [[Eight-Player Puzzle Area]]</small>
+|{{Days Item|Dark Rainbow Tunic|spell|link=Days of Color/2023#Dark Rainbow Tunic|table}}<small>x3</small>
+|<small>Color Gift Box at the [[Eight-Player Puzzle Area]] for free</small>
+|-
+|[[Days of Color/2023#Dark Rainbow Pack|Dark Rainbow Pack]] + {{Cost|40 C}}
+|{{Days Item|Dark Rainbow Earrings||link=Days of Color/2023#Dark Rainbow Earrings|table}}
+|[[Head Accessory]] 
+|{{Cost|9.99 USD|refnote}}
+|<small>Jelly Whisperer at the [[Eight-Player Puzzle Area]]</small>
+|{{Days Item|Dark Rainbow Earrings|spell|link=Days of Color/2023#Dark Rainbow Earrings|table}}<small>x3</small>
+|<small>Color Gift Box at the [[Eight-Player Puzzle Area]] for free</small>
+|-
+|[[Days of Color/2023#{{Icon Name|Dark Rainbow Cape|name}}|{{Icon Name|Dark Rainbow Cape|name}}]]
+|{{Days Item|Dark Rainbow Cape||link=Days of Color/2023#Dark Rainbow Cape|table}}
+|[[Cape]]
+|{{Cost|177 C}}
+|<small>Color Guide at the [[Eight-Player Puzzle Area]]</small>
+|{{Days Item|Dark Rainbow Cape|spell|link=Days of Color/2023#Dark Rainbow Cape|table}}<small>x3</small>
+|<small>Color Gift Box at the [[Eight-Player Puzzle Area]] for free</small>
+|-
+! colspan="7" style="text-align:center;" |From Days of Rainbow 2022
+|-
+|[[Days of Color/2022#Double Rainbow Pack|Double Rainbow Pack]] + {{Cost|40 C}}
+|{{Days Item|Double Rainbow Flower||link=Days of Color/2022#Double Rainbow Pack|table}}
+|[[Hair Accessory]]
+|{{Cost| 9.99 USD|refnote}}
+|<small>Jelly Whisperer at the [[Eight-Player Puzzle Area]]</small>
+|{{Days Item|Double Rainbow Flower|spell|link=Days of Color/2022#Double Rainbow Pack|table}}<small>x3</small>
+|<small>Color Gift Box at the [[Eight-Player Puzzle Area]] for free</small>
+|-
+|[[Days of Color/2022#{{Icon Name|Rainbow Earring|name}}|{{Icon Name|Rainbow Earring|name}}]]
+|{{Days Item|Rainbow Earring||link=Days of Color/2022#Rainbow Earring|table}}
+|[[Head Accessory]]
+|{{Cost| 2.99 USD|ref}}
+|<small>Jelly Whisperer at the [[Eight-Player Puzzle Area]]</small>
+|{{Days Item|Rainbow Earring|spell|link=Days of Color/2022#Rainbow Earring|table}}<small>x3</small>
+|<small>Color Gift Box at the [[Eight-Player Puzzle Area]] for free</small>
+|-
+|[[Days of Color/2022#{{Icon Name|Rainbow Headphones|name}}|{{Icon Name|Rainbow Headphones|name}}]]
+|{{Days Item|Rainbow Headphones||link=Days of Color/2022#Rainbow Headphones|table}}
+|[[Head Accessory]]
+|{{Cost|9.99 USD|refnote}}
+|<small>Jelly Whisperer at the [[Eight-Player Puzzle Area]]</small>
+|{{Days Item|Rainbow Headphones|spell|link=Days of Color/2022#Rainbow Headphones|table}}<small>x3</small>
+|<small>Color Gift Box at the [[Eight-Player Puzzle Area]] for free</small>
+|-
+|[[Days of Color/2022#{{Icon Name|Rainbow Trousers|name}}|{{Icon Name|Rainbow Trousers|name}}]]
+|{{Days Item|Rainbow Trousers||link=Days of Color/2022#Rainbow Trousers|table}}
+|[[Outfit]]
+|{{Cost| 95 C}}
+|<small>Color Guide at the [[Eight-Player Puzzle Area]]</small>
+|{{Days Item|Rainbow Trousers|spell|link=Days of Color/2022#Rainbow Trousers|table}}<small>x3</small>
+|<small>Color Gift Box at the [[Eight-Player Puzzle Area]] for free</small>
+|-
+! colspan="7" style="text-align:center;" |From Days of Rainbow 2021
+|-
+|[[Days of Color/2021#{{Icon Name|Rainbow Beanie Hat|name}}|{{Icon Name|Rainbow Beanie Hat|name}}]]
+|{{Days Item|Rainbow Beanie Hat||link=Days of Color/2021#Rainbow Beanie Hat|table}}
+|[[Hair]]
+|{{Cost| 9.99 USD|ref}}
+|<small>Jelly Whisperer at the [[Eight-Player Puzzle Area]]</small>
+|{{Days Item|Rainbow Beanie Hat|spell|link=Days of Color/2021#Rainbow Beanie Hat|table}}<small>x3</small>
+|<small>Color Gift Box at the [[Eight-Player Puzzle Area]] for free</small>
+|-
+|[[Days of Color/2021#Rainbow Pack|Rainbow Pack]] + {{Cost|75 C}}
+|{{Days Item|Rainbow Hair Flower||link=Days of Color/2021#Rainbow Pack|table}}
+|[[Hair Accessory]]
+|{{Cost|19.99 USD|refnote}}
+|<small>Jelly Whisperer at the [[Eight-Player Puzzle Area]]</small>
+|{{Days Item|Rainbow Hair Flower|spell|link=Days of Color/2021#Rainbow Pack|table}}<small>x3</small>
+|<small>Color Gift Box at the [[Eight-Player Puzzle Area]] for free</small>
+|-
+|[[Days of Color/2021#{{Icon Name|Rainbow Braid|name}}|{{Icon Name|Rainbow Braid|name}}]]
+|{{Days Item|Rainbow Braid||link=Days of Color/2021#Rainbow Braid|table}}
+|[[Head Accessory]]
+|{{Cost| 20 H}}
+|<small>Color Guide at the [[Eight-Player Puzzle Area]]</small>
+|{{Days Item|Rainbow Braid|spell|link=Days of Color/2021#Rainbow Braid|table}}<small>x3</small>
+|<small>Color Gift Box at the [[Eight-Player Puzzle Area]] for free</small>
+|-
+|[[Days of Color/2021#{{Icon Name|Rainbow Cape|name}}|{{Icon Name|Rainbow Cape|name}}]]
+|{{Days Item|Rainbow Cape||link=Days of Color/2021#Rainbow Cape|table}}
+|[[Cape]]
+|{{Cost| 175 C}}
+|<small>Color Guide at the [[Eight-Player Puzzle Area]]</small>
+|{{Days Item|Rainbow Cape|spell|link=Days of Color/2021#Rainbow Cape|table}}<small>x3</small>
+|<small>Color Gift Box at the [[Eight-Player Puzzle Area]] for free</small>
+|-
+|[[Days of Color/2021#Trail Spells|Trail Spell]]
+| 
+|[[Spell]]
+|<small>Random for {{Cost|5 C}}</small>
+|
+|{{Icon|Rainbow-flight-trail-spell.png|table|label=Random Color Trail Spell|link=Days of Color/2021#Trail Spells}}
+|<small>Color Gift Box at the [[Eight-Player Puzzle Area]]</small>
+|-
+! colspan="7" style="text-align:center;" |From Days of Rainbow 2020
+|-
+|[[Days of Color/2020#Rainbow Spell|Rainbow Spell]]
+| 
+|[[Spell]]
+|<small>{{Cost|5 C}} and free</small>
+|
+|{{Icon|Spell - Days of rainbow spell.png|table|label=Rainbow Spell|link=Days of Color/2020#Rainbow Spell}}<small>x2</small>
+|<small>Color Gift Box at the [[Eight-Player Puzzle Area]]</small>
+|}
+
+===2025 New Cosmetics and Props===
+====Rainbow Face Paint Mask====
+::'''''"Throw some color on your face, and in your path leave a colorful trace. We pledge to donate $10.00 (USD) of the purchase price from this item to charities championing diversity and global unity"'''''
+The Rainbow Facepaint contains three items: the Rainbow Facepaint Mask, {{Cost|75 C}}, and {{Cost|D|color=white}}x 3. The [[Mask]] is a bare face with paint in a domino mask-like shape, and a four-pointed star on the forehead. The paint is a gradient from orange to yellow. This pack was introduced in 2025 and was available for {{Cost|19.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>{{#tag:gallery
+|{{Icon Name|Rainbow Face Paint mask|iap}} {{!}} {{Icon Name|Rainbow Face Paint mask|name}} IAP
+{{Icon Name|Rainbow Face Paint mask|icon}} {{!}} {{Icon Name|Rainbow Face Paint mask|name}} icon
+{{Icon Name|Rainbow Face Paint mask|real}} {{!}} {{Icon Name|Rainbow Face Paint mask|name}}
+{{Icon Name|Rainbow Face Paint mask|spell}} {{!}} {{Icon Name|Rainbow Face Paint mask|name}} spell
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Rainbow Ribbon Shawl====
+::'''''"The vibrant ribbons and radiant interior of this shawl beautifully showcase the dyed colors."'''''
+The Rainbow Ribbon Shawl is a pleated cape with a tri-colored drape of fabric around it. The [[Cape]] is a gradient from white to black, with golden toothed outlines and white interior. The colored fabric is fastened at the neck with golden diamonds. This Cape was introduced in 2024 and was available for {{Cost|14.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>{{#tag:gallery
+|{{Icon Name|Rainbow Ribbon Shawl|iap}} {{!}} {{Icon Name|Rainbow Ribbon Shawl|name}} IAP
+{{Icon Name|Rainbow Ribbon Shawl|icon}} {{!}} {{Icon Name|Rainbow Ribbon Shawl|name}} icon
+{{Icon Name|Rainbow Ribbon Shawl|real}} {{!}} {{Icon Name|Rainbow Ribbon Shawl|name}} back
+{{Icon Name|Rainbow Ribbon Shawl|exterior}} {{!}} {{Icon Name|Rainbow Ribbon Shawl|name}} exterior
+{{Icon Name|Rainbow Ribbon Shawl|front}} {{!}} {{Icon Name|Rainbow Ribbon Shawl|name}} front
+{{Icon Name|Rainbow Ribbon Shawl|interior}} {{!}} {{Icon Name|Rainbow Ribbon Shawl|name}} interior
+{{Icon Name|Rainbow Ribbon Shawl|spell}} {{!}} {{Icon Name|Rainbow Ribbon Shawl|name}} spell
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Rainbow Smock====
+The Rainbow Smock is an oversized shirt with a long apron, rolled up-pants, and boots. The shirt features a turtleneck and rolled-up sleeves. The apron is a long strip with a hole for the head, draped over the body. It features a pale gold toothed outline and rim, three diamond shapes down the center of the chest, and is tied in the back. The boots have a stripe down the front. The [[Outfit]] has splotches of bright color on the bottoms of the sleeves and the shoes.
+
+This Outfit was introduced in 2025 and was available for {{Cost|42 T|event=color}} from the Color Guide at the [[Eight-Player Puzzle Area]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Rainbow Smock}} {{!}} {{Icon Name|Rainbow Smock|name}} icon
+{{Icon Name|Rainbow Smock|real}} {{!}} {{Icon Name|Rainbow Smock|name}} front
+<!--{{Icon Name|Rainbow Smock|back}} {{!}} {{Icon Name|Rainbow Smock|name}} back-->
+{{Icon Name|Rainbow Smock|spell}} {{!}} {{Icon Name|Rainbow Smock|name}} spell
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Rainbow Head Wrap====
+The Rainbow Head Wrap is a [[Hair]] with a beanie-like hat. The white hat has golden toothed outlines, and three orange-yellow bands of fabric wrapped around it. One side of the hair is braided and rests on the shoulder, and the other cropped to ear-length.
+This Hair was introduced in 2025 and was available for {{Cost|20 T|event=color}} from the Color Guide at the [[Eight-Player Puzzle Area]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Rainbow Head Wrap}} {{!}} {{Icon Name|Rainbow Head Wrap|name}} icon
+{{Icon Name|Rainbow Head Wrap|real}} {{!}} {{Icon Name|Rainbow Head Wrap|name}} front
+{{Icon Name|Rainbow Head Wrap|side}} {{!}} {{Icon Name|Rainbow Head Wrap|name}} side
+{{Icon Name|Rainbow Head Wrap|back}} {{!}} {{Icon Name|Rainbow Head Wrap|name}} back
+{{Icon Name|Rainbow Head Wrap|spell}} {{!}} {{Icon Name|Rainbow Head Wrap|name}} spell
+|widths=125|captionalign=center|spacing=small
+}}
+
+===2025 New Spells===
+====Rainbow Footstep Trail Spell====
+[[File:Rainbow-Trail-Slide-Spell.png|left|frameless|80x80px]]
+The Rainbow Footstep Trail Spell transforms the player's ordinary running trail into a vibrant path of flowing, rainbow-colored dirt. This [[Spells|Spell]] was introduced in 2025 and was available for  {{Cost|5 C}} from the Color Gift Box at the [[Eight-Player Puzzle Area]] for the duration of the event.
+{{Clear}}
+
+==References==
+'''More information about Days of Color 2025 can be found on [https://www.thatskygame.com/news/days-of-color-2025-celebrate-together- ThatSkyGame's Website].'''
+<references />
+
+{{#lst:Days of Color|Color Navbox}}
+
+[[ja:彩なす日々/2025]]

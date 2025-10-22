@@ -1,0 +1,117 @@
+{{Spirit Infobox
+|type      = Regular
+|emote_type= Stance
+|image     = <gallery>
+Valley-Spirit-Proud-Victor.png|Standard
+Valley-Spirit-Proud-Victor-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Mask|infobox}}{{Spirit Item||Cape|infobox}}{{Spirit Item||Tier 2 Cape|infobox}}
+|realm     = Valley of Triumph
+|location  = Coliseum
+}}
+<section begin="Summary" />The '''Proud Victor''' is a [[Regular Spirit]] in the [[Valley of Triumph]] who offers the {{Emote|Proud Victor|inline_text}}. The Proud Victor is found at the very top of the [[Coliseum]] stadium seating, to the left of the Temple entrance. The collectibles [[Proud Victor#Friendship Tree|offered]] by this Spirit are a {{Spirit Item|Proud Victor|Mask|inline_text}} and two tiers ({{Spirit Item|Proud Victor|Cape}} {{Spirit Item|Proud Victor|Tier 2 Cape}}) of a [[Proud Victor#Cape|Cape]].<section end="Summary" /><br>
+<br>
+[[File:Proud-Victor-Guide-777-Ed.png|320x320px|thumb|none|Image Guide by 777.Ed]]
+
+== Memory ==
+<div>{{#ev:youtube|Sd5uNpaQrVU||inline|Video Guide by Tara}}
+<br>
+The Proud Victor can be found at the top of the [[Coliseum]] stadium, to the left of the Temple entrance when facing the Temple from the center podium. This Spirit is a [[Standard Memory|standard memory]] quest with 5 memory fragments and a 4-minute overall [[Timed Memory|time limit]].
+
+As their memory unfolds, the Proud Victor slides down the walkway in between sections of seating on the left side of the Coliseum. At about halfway down the walkway, the Spirit trips, and slides the rest of the way down the stadium and into the center ice rink. The Proud Victor then continues to slide around the perimeter of the rink.
+
+At the end of the memory, the Proud Victor stands at the center podium, having recovered from their fall down the walkway. They look around bashfully and quickly cross their arms against their chest.<br>
+<br>
+[[File:03 VT Spirit - Proud Victor.jpg|200px|thumb|none|Relive the Proud Victor's memory]]
+</div>
+{{Clear}}
+
+== <span id="Expression">Stance</span> ==
+The Proud Victor offers the {{Emote||inline_text}}, which will give your avatar a proud look, with their arms crossed and their legs held apart. The Stance will affect your avatar's position when standing, kneeling, sitting, and lying down.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Emote}}
+Proud-Victor-proud-stance-emote.gif {{!}} {{Icon Name||emote_name}}
+Proud-Victor-Stance-Standing.png {{!}} {{Icon Name||emote_name}} (Standing)
+Proud-Victor-Stance-Kneeling.png {{!}} {{Icon Name||emote_name}} (Kneeling)
+Proud-Victor-Stance-Sitting.png {{!}} {{Icon Name||emote_name}} (Sitting)
+Proud-Victor-Stance-Lying-Down.png {{!}} {{Icon Name||emote_name}} (Lying down)
+|heights=160px|captionalign=center|spacing=small
+}}
+
+* Standing will make your avatar cross their arms in front of their chest and hold their legs apart, giving them a wider stance.
+* Kneeling will make your avatar sit with their arms crossed in front of their chest and with their feet and calves tucked under their thighs.
+* Sitting will make your avatar sit down with their legs bent, knees facing up, and with their legs spread apart. They will also rest their forearms on their knees. 
+* Lying down will make your avatar lay on their left side, rest their head on their left arm, and place their right arm over their stomach.
+
+== Cosmetics ==
+=== Mask ===
+The [[Mask]] offered by this Spirit is actually a non-Mask, costing {{Cost|30 H}}. When it is equipped, you will see your avatar's bare face, blank of any detail except for your closed eyelashes. It is permanently available to all players after unlocking the Spirit's first [[Wing Buff]] and the Friendship Tree's fourth node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+Proud-Victor-Mask-front.png {{!}} The Mask front
+Proud-Victor-Mask-side.png {{!}} The Mask side
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Cape ===
+The Proud Victor offers two standard-style red [[Capes]]; a Tier 1 and a [[Tier 2 Cape|Tier 2]] version, costing {{Cost|10 H}} and {{Cost|30 H}} respectively. Both are permanently available to all players after unlocking the Friendship Tree's first node and second [[Wing Buff]] respectively. 
+
+The Tier 2 Cape (and the second Wing Buff that unlocks it) are not needed to complete the Valley of Triumph [[Constellation]]. These were both added to the Friendship Tree in Patch {{v|0.12.0}} on December 15, 2020.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape}} {{!}} The Tier 1 Cape icon
+{{Icon Name||Cape|front}} {{!}} The Tier 1 Cape front
+{{Icon Name||Cape|interior}} {{!}} The Tier 1 Cape interior
+{{Icon Name||Cape|Real}} {{!}} The Tier 1 Cape back
+|widths=125|captionalign=center|spacing=small
+}}
+
+{{#tag:gallery
+|{{Icon Name||Tier 2 Cape}} {{!}} The Tier 2 Cape icon
+{{Icon Name||Tier 2 Cape|front}} {{!}} The Tier 2 Cape front
+{{Icon Name||Tier 2 Cape|interior}} {{!}} The Tier 2 Cape interior
+{{Icon Name||Tier 2 Cape|Real}} {{!}} The Tier 2 Cape back
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Friendship Tree ==
+{{Friendship Tree Info | regular}}
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Proud Victor
+|image  = Valley-Spirit-Proud-Victor.png
+
+|nodeC7 = tier_2_cape 30 H BONUS
+|nodeC6 = wing 9 AC BONUS
+|nodeC5 = mask 30 H
+|nodeC4 = spell5
+|nodeC3 = wing 3 AC
+|nodeL2 = heart
+|nodeC2 = spell1
+|nodeL1 = cape 10 H
+|nodeC1 = emote
+}}<section end="Friendship Tree" />
+
+==Trivia==
+* The Proud Victor is one of only four [[Regular Spirits]] (the others being [[Manta Whisperer]], [[Backflipping Champion]], and [[Bowing Medalist]]) whose memory has a [[Timed Memory|time limit]].
+* Players wearing {{Spirit Item|Bearhug Hermit|Outfit|Inline_text}} get "white eyelashes" when the Proud Victor's mask is equipped.
+{{#tag:gallery
+| File:Bearhug-Hermit-Outfit-Lashes.png {{!}} Player with white eyelashes wearing Bearhug Hermit's Outfit and Proud Victor's "faceless" Mask
+|widths=125|captionalign=center|spacing=small
+}}
+{{Clear}}
+* The {{Spirit Item|Proud Victor|Mask|inline_text}} is one of the required cosmetics for the [[Bell Call]].
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Proud Victor.jpeg
+</gallery>
+
+==References==
+<references />
+
+[[de:Stolze Siegerin]]
+[[fr:Vainqueuse fière]]
+[[pt-br:Vitoriosa Orgulhosa]]

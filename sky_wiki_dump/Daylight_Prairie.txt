@@ -1,0 +1,404 @@
+{{Spoilers}} {{Quote|<br>'''''Ring the bell towers and reveal your path.'''''|Daylight Prairie opening}}
+{{Realm
+|image         = Prairie Thumbnail.png
+|previousRealm = [[Isle of Dawn]]
+|nextRealm     = [[Hidden Forest]]
+|constellation = 02 Prairie Constellation.png
+}}
+'''Daylight Prairie''', often shortened to '''Prairie''', is a natural prairie field once home to a lost farming civilization. It is the second [[Realm]] the player visits. Differing from the unique Realm layout of [[Isle of Dawn]], Daylight Prairie is separated into eight areas<ref>not including [[Hidden Forest#The Wind Paths|The Wind Paths]]</ref> with loading screens between them all. While the game does not explicitly mention the names of all the areas, they can be derived from landmarks and developer mentions.<br>
+<br>
+Daylight Prairie holds 8 [[Regular Spirits]] and 14 [[Seasonal Spirits]]. Locations of all available Children of Light can be found on the [[Children of Light#Daylight Prairie (21)|Children of Light]] page.
+
+==Social Space==
+[[File:Prairie SocialSpace1.png|right|300px]]
+This is the area after the transition from [[Isle of Dawn]], as well as where you spawn if you go through the Prairie Portal. The Social Space resembles the old [[Sky: Light Awaits#The Aviary|Aviary from Light Awaits]], only smaller and more compact.
+
+There is a small pond in the center, surrounded by two benches. To the right is the [[Closet Shrine]], and to the left is a tunnel to a raised area with a Sapling, bench, and [[Shared Space]]. Scattered around the area are Spirit Tombstones, displaying all of base-game Prairie Spirits. From the Social Space, take off into the clouds and glide through the cloud tunnel to the [[#Butterfly Fields|Butterfly Fields]].
+
+==Butterfly Fields==
+[[File:Prairie ButterflyFields1.png|right|300px]]
+The Butterfly Fields is a prairie field covered in bountiful fauna. In the fields, players once again find [[Butterflies]] that can help reach otherwise difficult to access places. The field contains gateways into three of Prairie's main locations: [[#Prairie Village|Prairie Village]], [[#Bird Nest|Bird Nest]] - with a Spirit Gate requiring 4 Prairie [[Regular Spirits]] relived - and the [[#Prairie Caves|Prairie Caves]] - with a Spirit Gate requiring 2 [[Isle of Dawn|Isle]] Regular Spirits and 3 Prairie Regular Spirits relived. A Passage Mask can be found to the left side, near the cave with [[Children_of_Light#Butterfly_Fields_(3)|Prairie Child of Light #1]], to light and begin [[Season of Passage#Passage Quest#4|Passage Quest #4]]. For a new player, Prairie Village is the only available path.
+
+In the Butterfly Fields, players can find:
+* 3 [[Children_of_Light#Butterfly Fields|Children of Light]]
+* 1 [[Map Shrine#Daylight Prairie|Map Shrine]]
+* 1 [[Regular Spirit]] ({{Spirit|Butterfly Charmer|Inline_text}})
+* 1 [[Seasonal Spirits|Seasonal Spirit]] ({{Spirit|Confetti Cousin|Inline_text}})
+<br>
+{{Mobile Tabber
+|tab1 = {{Emote|Butterfly Charmer|tab}}
+|c1   = <div> {{#ev:youtube|ZvplZUDwr9U|400|right}} {{#lst:Butterfly Charmer|Summary}} {{#lst:Butterfly Charmer|Friendship Tree}}</div>
+|type1= regular
+
+|line2= true
+|tab2 = {{Emote|Confetti Cousin|tab}}
+|c2   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Confetti Cousin|Summary}} {{#lst:Confetti Cousin|TS Friendship Tree}} </div>
+|type2= seasonal
+}}
+
+==<span id="Villages"><span id="Village">Prairie Village</span></span>==
+[[File:Prairie PrairieVillage1.png|right|300px]]
+Prairie Village is the first area a new player can access via [[#Butterfly Fields|Butterfly Fields]]. It contains three islands with belltowers, a center island with a constellation [[Murals|Mural]], and [[#Prairie Temple|Prairie Temple]] in the distance. The objective is to activate the three belltowers to summon [[Mantas]]. Here, the player will find the first burnable [[Flora,_Minerals_and_Elements_of_Sky#Darkness|Darkness Plants]] which commonly reappear through the game.
+
+The left belltower island holds the [[Applauding Bellmaker]] Regular Spirit and a Child of Light inside a room locked by a 2-player door. The right belltower island holds the entrance to the [[#Eight-Player Puzzle Area|Eight-Player Puzzle Area]] and [[Laughing Light Catcher]] Regular Spirit. The far middle belltower island holds 2 Regular Spirits and 1 Child of Light. Activating all the belltowers will summon Light Creatures, [[Mantas]] and [[Butterflies]], which will fly around the islands. Hopping onto these Mantas will give the player a ride to the [[#Temple|Temple]].
+
+In the Prairie Village, players can find:
+* 3 [[Children_of_Light#Villages|Children of Light]]
+* 1 [[Map Shrine#Daylight Prairie|Map Shrine]]
+* 4 [[Regular Spirits]] ({{Spirit|Applauding Bellmaker|Inline_text}},{{Spirit|Waving Bellmaker|Inline_text}},{{Spirit|Slumbering Shipwright|Inline_text}},{{Spirit|Laughing Light Catcher|Inline_text}})
+<br>
+{{Mobile Tabber
+|tab1 = {{Emote|Applauding Bellmaker|tab}}
+|c1   = <div> {{#ev:youtube|ODMA1Q9155o|400|right}} {{#lst:Applauding Bellmaker|Summary}} {{#lst:Applauding Bellmaker|Friendship Tree}}</div>
+|type1= regular
+
+|tab2 = {{Emote|Waving Bellmaker|tab}}
+|c2   = <div> {{#ev:youtube|f4PG-FV55jM|400|right}} {{#lst:Waving Bellmaker|Summary}} {{#lst:Waving Bellmaker|Friendship Tree}}</div>
+|type2= regular
+
+|tab3 = {{Emote|Slumbering Shipwright|tab}}
+|c3   = <div> {{#ev:youtube|TndluWxF7tw|400|right}} {{#lst:Slumbering Shipwright|Summary}} {{#lst:Slumbering Shipwright|Friendship Tree}}</div>
+|type3= regular
+
+|tab4 = {{Emote|Laughing Light Catcher|tab}}
+|c4   = <div> {{#ev:youtube|bxbQ0E0-6P0|400|right}} {{#lst:Laughing Light Catcher|Summary}} {{#lst:Laughing Light Catcher|Friendship Tree}}</div>
+|type4= regular
+}}
+
+==<span id="8 Player Puzzle Area"><span id="8-Player Puzzle Area"><span id="Eight Player Puzzle Area">Eight-Player Puzzle Area</span></span></span>==
+[[File:Prairie EightPlayerPuzzle1.png|right|300px]]
+The only puzzle requiring eight players is located in the [[#Prairie Village|Prairie Village]] of Prairie. The Puzzle is accessible beyond the doors where the [[Laughing Light Catcher]] is found. The door itself requires two people to use the {{Emote|Butterfly Charmer|inline_text}} Expression simultaneously in specific spots to open. Furthermore, a Spirit Gate requiring 6 Prairie Regular Spirits to be relived is found just behind this door.
+
+Passing the Spirit Gate will lead the player to a room with eight golden disks acting as buttons on a circular platform. This requires eight total players to light all the disks at once. When they are all simultaneously activated, the platform will rise up to a special area above. Once fully risen, the elevator is surrounded by candles that, once lit, allow the player to meet the [[Ceremonial Worshiper]] and automatically collect the {{Emote|Ceremonial Worshiper|inline_text}} Expression. This hidden cloudy area above the initial elevator has an [[#Oreo|easter egg]], found on a raised hill.
+
+In the Eight-Player Puzzle area, players can find:
+* 1 [[Children_of_Light#Eight Player Puzzle Area|Children of Light]]
+* 1 [[Map Shrine#Daylight Prairie|Map Shrine]]
+* 1 [[Regular Spirits|Regular Spirit]] ({{Spirit|Ceremonial Worshiper|Inline_text}})
+<br>
+{{Mobile Tabber
+|tab1 = {{Emote|Ceremonial Worshiper|tab}}
+|c1   = <div> {{#ev:youtube|BcJnhJAu5Yg|400|right}} {{#lst:Ceremonial Worshiper|Summary}} {{#lst:Ceremonial Worshiper|Friendship Tree}}</div>
+|type1= regular
+}}
+
+==<span id="Bird's Nest">Bird Nest</span>==
+[[File:Prairie BirdNest1.png|right|300px]]
+The Bird Nest, an array of floating islands with broken aviary structures surrounded by flying [[Creatures#Light_Creatures|Light Creatures]], is a side area offering a longer alternative path to [[#Prairie Village|Prairie Village]] and access to the [[#Sanctuary Islands|Sanctuary Islands]]. Entry is blocked by a Spirit Gate requiring 4 Prairie [[Regular Spirits]] to be relived. Within the clouds in the distance, a visible opening can be seen which leads to the Sanctuary Islands. Furthermore, high above a squadron of three [[Mantas]] carrying the Green Light featured in [[Season_of_Enchantment#Quest_#4|Enchantment Quest #4]], as well as sometimes a [[Daily Quest]], are seen flying around.
+
+In the Bird Nest, players can find:
+* 2 [[Children_of_Light#Bird Nest|Children of Light]]
+* 1 [[Map Shrine#Daylight Prairie|Map Shrine]]
+* 1 [[Regular Spirits|Regular Spirit]] ({{Spirit|Bird Whisperer|Inline_text}})
+* 2 [[Seasonal Spirits]] ({{Spirit|Doublefive Light Catcher|Inline_text}}, {{Spirit|Festival Spin Dancer|Inline_text}})
+<br>
+{{Mobile Tabber
+|tab1 = {{Emote|Bird Whisperer|tab}}
+|c1   = <div> {{#ev:youtube|dMDOQfWCFEg|400|right}} {{#lst:Bird Whisperer|Summary}} {{#lst:Bird Whisperer|Friendship Tree}}</div>
+|type1= regular
+
+|line2= true
+|tab2 = {{Emote|Doublefive Light Catcher|tab}}
+|c2   = <div> {{#ev:youtube|2aG82OgzAaI|400|right}} {{#lst:Doublefive Light Catcher|Summary}} {{#lst:Doublefive Light Catcher|TS Friendship Tree}} </div>
+|type2= seasonal
+
+|tab3 = {{Emote|Festival Spin Dancer|tab}}
+|c3   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Festival Spin Dancer|Summary}} {{#lst:Festival Spin Dancer|TS Friendship Tree}} </div>
+|type3= seasonal
+}}
+
+==Sanctuary Islands==
+{{Main|Sanctuary Islands}} [[File:Prairie SanctuaryIslands1.png|right|300px]] {{#lst:Sanctuary Islands|Quote}}
+{{#lst:Sanctuary Islands|Summary}}
+
+In the Sanctuary Islands, players can find:
+* 8 [[Children_of_Light#Sanctuary Islands|Children of Light]]
+* 1 [[Map Shrine#Daylight Prairie|Map Shrine]]
+* 6 [[Seasonal Spirits]] ({{Spirit|Jelly Whisperer|Inline_text}},{{Spirit|Timid Bookworm|Inline_text}},{{Spirit|Rallying Thrillseeker|Inline_text}},{{Spirit|Hiking Grouch|Inline_text}},{{Spirit|Grateful Shell Collector|Inline_text}},{{Spirit|Chill Sunbather|Inline_text}})
+<br>
+{{#lst:Sanctuary Islands|SpiritTabber}}
+
+==<span id="Caves">Prairie Caves</span>==
+[[File:Prairie PrairieCave1.png|right|300px]]
+The Prairie Caves is a peaceful water-filled cave containing several hidden ledges and tunnels. Access is via a Spirit Gate in [[#Butterfly Fields|Butterfly Fields]] or [[#Prairie Village|Prairie Village]], which requires 2 [[Isle of Dawn|Isle]] Regular Spirits and 3 Prairie Regular Spirits relived. From the Butterfly Fields transition, a smaller cave to the left of the main area holds a boat acting as the entrance to [[#Prairie Peaks|Prairie Peaks]]. Inside the main cave, the player can see an expansive grotto with natural arrays of light coming through the roof lighting the area. Various natural platforms and stairs can be seen in the area. Near the central lake towards the opening, a Passage Mask can be lit to begin [[Season_of_Passage#Passage Quest#3|Passage Quest #3]]. To the right is a natural staircase to a raised structure which contains the [[#Cozy Hideout|Cozy Hideout]] Social Light area, and to the left is a tunnel to a secluded area. Entry to the tunnel is blocked by a Spirit Gate, requiring 1 [[Hidden Forest|Forest]] Regular Spirit to be relived.
+
+In the Prairie Caves, players can find:
+* 2 [[Children_of_Light#Caves|Children of Light]]
+* 1 [[Map Shrine#Daylight Prairie|Map Shrine]]
+* 1 [[Regular Spirits|Regular Spirit]] ({{Spirit|Exhausted Dock Worker|Inline_text}})
+* 1 [[Seasonal Spirits|Seasonal Spirit]] ({{Spirit|Stretching Guru|Inline_text}})
+<br>
+{{Mobile Tabber
+|tab1 = {{Emote|Exhausted Dock Worker|tab}}
+|c1   = <div> {{#ev:youtube|fiQcmSNdnOE|400|right}} {{#lst:Exhausted Dock Worker|Summary}} {{#lst:Exhausted Dock Worker|Friendship Tree}}</div>
+|type1= regular
+
+|line2= true
+|tab2 = {{Emote|Stretching Guru|tab}}
+|c2   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Stretching Guru|Summary}} {{#lst:Stretching Guru|TS Friendship Tree}}
+|type2= seasonal
+}}
+
+==Prairie Peaks==
+{{Main|Prairie Peaks}} [[File:Prairie PrairiePeaks3.png|right|300px]] {{#lst:Prairie Peaks|Quote}}
+{{#lst:Prairie Peaks|Summary}}
+
+In Prairie Peaks, players can find:
+* 3 [[Children_of_Light#Prairie Peaks|Children of Light]]
+* 1 [[Map Shrine#Daylight Prairie|Map Shrine]]
+* 4 [[Seasonal Spirits]] ({{Spirit|Reassuring Ranger|Inline_text}}, {{Spirit|Jolly Geologist|Inline_text}}, {{Spirit|Ascetic Monk|Inline_text}}, {{Spirit|Nightbird Whisperer|Inline_text}})
+<br>
+{{#lst:Prairie Peaks|SpiritTabber}}
+
+==<span id="Temple">Prairie Temple</span>==
+<gallery type="slideshow" widths="300" position="right">
+Prairie Temple1.png|Exterior of Temple from [[#Prairie Village|Prairie Village]]
+Prairie Temple2.png|Interior of Temple
+</gallery>
+The Prairie Temple is a wide building home to the [[Elder of the Prairie]]. To reach the Prairie Temple, activate all three belltowers in [[#Prairie Village|Prairie Village]] and ride the Mantas up. The Light Creatures will lead the player to the Temple. The exterior is a wide cathedral, with blue, gray, and white accents. Before the Temple is a [[Fishes#Koi/Swordtails|Koi]] pond, with a bridge arching over it. On the exterior roof of the Temple, there are 2 [[Children_of_Light#Prairie_Temple_(2)|Children of Light]].
+
+Walking inside the Temple, the player will be met with an abundance of pots, with 3 spots of candles leading up to the Elder's altar. Lighting the three white candles on the altar will spawn a meditation circle, letting the player meet the Prairie Elder in a cutscene. After watching the cutscene, the surrounding Jars release a flutter of [[Butterflies]] with a prompt to [[Deep Call]], attracting the Butterflies and lifting the player up into the air – heading forwards into the next Realm, the [[Hidden Forest]].
+
+In the Prairie Temple (interior and exterior), players can find:
+* 2 [[Children_of_Light#Prairie Temple|Children of Light]]
+* 2 [[Map Shrine#Daylight Prairie|Map Shrine]]
+{{Clear}}
+==Points of Interest ==
+===Social Light areas===
+<span id="Polluted Geyser"></span>
+<span id="Cozy Hideout"></span>
+<span id="Sunset Sanctuary Turtle"></span>
+
+{{Mobile Tabber|textonly=1
+|tab1 = Polluted Geyser
+|c1   = <div>
+{{#lst:Additional Light Sources|Polluted Geyser Summary}} [[Additional_Light_Sources#Polluted_Geyser|For more information, see here]]. </div>
+|tab2 = Cozy Hideout
+|c2   = <div>
+{{#lst:Additional Light Sources|Cozy Hideout Summary}} [[Additional_Light_Sources#Cozy_Hideout|For more information, see here]]. </div>
+|tab3 = Sunset Sanctuary Turtle
+|c3   = <div>
+{{#lst:Additional Light Sources|Sunset Turtle Summary}} [[Additional_Light_Sources#Sunset_Sanctuary_Turtle|For more information, see here]]. </div>}}
+
+===Activities===
+<span id="Shared Spaces"></span> <span id="Shared Space"></span>
+<span id="Shard Eruptions"></span>
+
+{{Mobile Tabber|textonly=1
+|tab1 = Shared Spaces
+|c1   = <div>
+[[File:Shared-spaces-Daylight-Prairie-social-space.jpg|thumb|300px]]
+In Daylight Prairie, there is one [[Shared Spaces|Shared Space Shrine]] in the [[#Social Space|Social Space]] to the left on the outlook, offering a way to play in private or public with friends using [[Props]]. Shared Spaces are accessible to all players who have progressed to Daylight Prairie. You can have up to 16 Props available at a time in your Shared Space, but it can be much less depending on the "volume" of the Props as determined by how much the top bar fills up. Within Prairie Shared Spaces, there are [[Shared Spaces#Featured Props|featured Props]] given to the player to place regardless of if it is owned, being {{Spirit Item|Assembly Guide|prop_l|Inline_text|label=Assembly Guide Brazier|link=Assembly Guide#Brazier Prop}}, {{Icon|Shared-Spaces-Brick-prop-icon-Morybel-0146.png|Inline_text|link=Shared Spaces#Shared Spaces Brick|label=Shared Spaces Brick}}, and {{Icon|Shared-Spaces-Stool-prop-icon-Morybel-0146.png|Inline_text|link=Nesting Workshop#Stone Stool|label=Stone Stool}}. Once a Prop is in use, it will stay where you left it as long as you don't move it or remove it. The items are sorted by how much "volume” they use in a Shared Space, listed from left to right.
+</div>
+
+|tab2 = Shard Eruptions
+|c2   = <div>A mechanic implemented with the [[Season of Shattering]], Shards periodically erupt from the mountain on the horizon, falling multiple times a day in one predetermined location, determined with the [[Daily Quest]] Realm (the top of the Realm's portal will also have shards embedded). See more in the [[Shard Eruptions]] page. Eruptions in Prairie can occur in the following areas:
+* Regular Eruptions
+** Butterfly Fields, on top of the hemisphere structure
+** Butterfly Fields, leaning to the left side wall with the Prairie Caves transition and cloud wall
+** Butterfly Fields, towards the right near the Bird Nest entrance
+** Prairie Village, on the central island towards the temple
+** Prairie Temple exterior, nearby the left side of the Koi Pond
+** Prairie Temple exterior, nearby the right side of the Koi Pond
+* Strong Eruptions
+** Prairie Caves, nearby the lake towards the Prairie Village transition
+** Bird Nest, on the island towards the Butterfly Fields transition
+** Bird Nest, on the main island beside the ruined tower
+** Sanctuary Islands, nearby the Sanctuary Guide, the geyser, and submerged stone statues
+** Sanctuary Islands, on the turtle island below the hoop island
+** Sanctuary Islands, nearby the waterfall on the main island
+</div>}}
+
+===Easter Eggs===
+<span id="Fairy (Faerie Ring)"></span>
+<span id="Oreo"></span>
+<span id="Bells Carillion"></span>
+<span id="Smiley Candles"></span>
+<span id="Temple Roof"></span>
+
+{{Mobile Tabber|textonly=1
+|tab1 = Fairy (Faerie Ring)
+|c1   = <div>
+The Fairy (Faerie) Ring is a ring of mushrooms that appears on the far-right island in [[#Prairie Village|Prairie Village]]. It is a leftover from a [[Daily Quest]] that was available in the pre-global launch. Visiting the Fairy Ring would complete the Quest. There is no longer a clock to indicate the time it appears, nor Candles to indicate the location, but it is still visible for 10 minutes every hour, at 10 minutes to the hour, on the hill above the [[#Eight-Player Puzzle Area|Eight-Player Puzzle]] room.
+<gallery widths="300" spacing="small">
+File:Faeriering.JPG|Active Faerie Ring
+</gallery> </div>
+
+|tab2 = Oreo
+|c2   = <div>
+There is also a [[Oreo|special treat]] when seven players gather at a shrine on top of the left-hand hill in the [[#Eight-Player Puzzle Area|Eight-Player Puzzle Area]] and use the {{Emote|Butterfly Charmer|inline_text}} Expression in tandem. The special treat is not an Expression nor a Collectible, but instead a fun and iconic ''Sky'' experience. Previously, this required eight players and a hefty load of patience. However, not only has this since been changed to seven players, the time players need to hold their position before the puzzle is completed has also been shortened significantly. Though, players are still advised to gather a group beforehand for easy access.
+<gallery widths="300" spacing="small">
+8playerold.JPG|Previous Expression used for this event
+8playernew.JPG|Current Expression used for this event
+</gallery> </div>
+
+|tab3 = Bells Carillion
+|c3   = <div>
+During [[Season of Sanctuary]], a large carillon/piano-like instrument feature was added as part of the last Quest in the [[#Sanctuary Islands|Sanctuary Islands]]. Once the last Quest is completed, the stone monument starts to work like a carillon instrument, with six bells/notes that players can individually ring. There are six stones corresponding each to one bell on the Monument. Go with 5 of your friends to make a symphony of carillons!
+<gallery widths="300" spacing="small">
+Sanctuary-monument-of-bells.jpg
+</gallery> </div>
+
+|tab4 = Smiley Candles
+|c4   = <div>
+Underneath the [[#Prairie Temple|Prairie Temple]]'s altar is a group of candles shaped like a smiley face. To reach it, head to the left or right side of the Temple's interior and jump down from the pots. From there, proceed forwards into the dark where a bundle of tall candles can be spotted. There is no special feature to these candles besides their unique arrangement, only emitting 9 [[Pieces of Light]] when lit.
+<gallery widths="300" spacing="small">
+Wax dpv15.JPG
+</gallery></div>
+
+|tab5 = Temple Roof
+|c5   = <div>
+Players can fly through some of the holes on the side of the roof in [[#Prairie Temple|Prairie Temple]] to visit an area with benches and candles overlooking the entrance to [[Hidden Forest]]. To reach it, head to the left or right side of the Temple's interior and fly up. There are two [[Chat Benches#Prairie Temple|benches]] in the area, one with three seats and the other with two seats. There are also rectangular structures in the area and some have [[Pieces_of_Light#Koi_Pond_and_Prairie_Temple_(85)|candles]] on them.
+<gallery widths="300" spacing="small">
+Wax-prairie-temple-roof-right.png
+Chat-Prairie-Temple-OOB.jpg
+</gallery> </div>
+}}
+
+==Seasonal Content==
+In Daylight Prairie, [[Seasonal Spirits]] from the Season of {{Season Icon|gratitude|inline_text|label=Gratitude}}, {{Season Icon|lightseekers|inline_text|label=Lightseekers}}, {{Season Icon|belonging|inline_text|label=Belonging}}, {{Season Icon|rhythm|inline_text|label=Rhythm}}, {{Season Icon|sanctuary|inline_text|label=Sanctuary}}, and {{Season Icon|moments|inline_text|label=Moments}} can be found scattered around the Realm. Collecting the Seasonal Spirits do not count towards unlocking Isle's Spirit Gates. You will be able to collect their base level Emotes, but in order to collect their Cosmetics or Expression upgrades, you will have to wait for the Spirit to return as a [[Traveling Spirit]]. Anything bought from their Friendship Trees do not count towards [[Constellations|Isle's Constellation]] progression.
+{{Spirit Group|prairie|type=seasonal|format=gallery}}
+Seasonal Quests from {{Season Icon|Sanctuary|inline_text}} in the [[#Sanctuary Islands|Sanctuary Islands]] with the Treasure Hunts and from {{Season Icon|Moments|inline_text}} in [[#Prairie Peaks|Prairie Peaks]] with photography tasks can also be found in this Realm. In addition, the {{Season Icon|Little Prince|inline_text}}'s [[Season_of_The_Little_Prince#Quest_#3|Quest #3]] and {{Season Icon|Passage|inline_text}}'s [[Season of Passage#Quest #3|Quest #3]] and [[Season of Passage#Quest #4|Quest #4]] are also found here. Seasonal Quests require activation from their respective Season Guide to start them. These Quests, with the exception of Passage's, are not repeatable.
+
+==Constellation Summary==
+{{Constellation Summary}}
+{{#lst:Regular Spirits/Friendship Trees|Constellation Summary Header}}
+{{#lst:Regular Spirits/Friendship Trees|Prairie Constellation Summary}}
+|} <!--These are needed to close the table from the LSTs above-->
+[[File:2-prairie-Printable.jpg|none|thumb|Printable chart]]
+
+==Video Walkthrough==
+<gallery widths="300" spacing="small" mode="nolines">
+File:Sky Children of the Light New Walkthrough Daylight Prairie Spirits and Winged Light
+File:Sky- Children of the Light- Stars (Winged Light) in Daylight Prairie (updated)
+File:Winged Light in Sanctuary Islands IBETA Spoilers) - Sky- Children of the Light
+File:Sky Children of the Light Cosmetics, Emotes, and Upgrades in Daylight Prairie
+</gallery>
+
+==Map==
+{{Mobile Tabber
+|tab1 = {{Icon|Location-map-icon-Ray.png|tab}}
+|c1   = {{Map:Daylight_Prairie}}
+|tab2 = {{Icon|Map-Shrine-Realm-Temple-Indicator.png|tab}}
+|c2   = {{Map:Whole Shrine Map}}
+}}
+
+==Trivia==
+*Daylight Prairie is currently the only Realm of which its opening quote never plays again.
+*This space resembles the Prairie Hub that appeared in the earliest versions of the [[Sky Beta|Beta]].
+*A clock located on the second dock of the middle island of the [[#Prairie Village|Prairie Village]] area is still visible for an event but has no purposes anymore. It used to serve as a clock for the now-invisible [[Out of Bounds#The Invisible Boat|Invisible Boat OOB]].
+
+===Change History===
+{{Scrollbox|height=400px|text=<div>
+Pre-2019
+* First called ''Cloudy Day'', then later changed to ''Day'', then to ''Plains of Day'', then finally ''Daylight Prairie''. Then it was shortened to ''Prairie'' for a short time, then in June 2019 it reverted back to '''Daylight Prairie'''.
+----
+{{v|0.6.0}}
+* With [[Season of Lightseekers]], [[Doublefive Light Catcher]] has been added to [[#Bird Nest|Bird Nest]] as a Seasonal Spirit.
+* The Eight-Player Puzzle now requires the Butterfly Emote instead of the Pray Emote to unlock the hidden surprise inside the puzzle area.
+----
+{{v|0.7.0}}
+* With [[Season of Belonging]], [[Confetti Cousin]] has been added into [[#Butterfly Fields|Butterfly Fields]] as a Seasonal Spirit.
+----
+{{v|0.8.0}}
+* With [[Season of Rhythm]], [[Festival Spin Dancer]] has been added to [[#Bird Nest|Bird Nest]] as a Seasonal Spirit.
+* The portal to Home within the [[#Social Space|Social Space]] has been replaced by a Return Shrine.
+----
+{{v|0.9.0}}
+* With [[Season of Enchantment]], the [[Season_of_Enchantment#Quest_#4|Green Light]] has been added into [[#Bird Nest|Bird Nest]].
+{{v|0.9.2}}
+* Changes to Ancestor Tombstones in [[#Social Space|Social Space]], now showcasing Prairie's Regular Spirits instead of [[Isle of Dawn|Isle]]'s.
+----
+{{v|0.10.0}}
+* With [[Season of Sanctuary]], the [[#Sanctuary Islands|Sanctuary Islands]] with 6 Seasonal Spirits was introduced, in addition to an entrance to the far corner of the Bird Nest.
+----
+{{v|0.13.0}}
+* Addition of [[Treasure Candles]] throughout Prairie with introduction of [[Daily Light]].
+{{v|0.13.1.0}}
+* With [[Days of Nature]] 2021, the [[Additional_Light_Sources#Polluted_Geyser|Polluted Geyser]] has been added.
+----
+{{v|0.14.0}}
+* Past Seasonal Spirits now [[Seasonal_Spirits#Finding_Seasonal_Spirits|permanently available to relive]].
+----
+{{v|0.15.0}}
+* A Wind Path from [[The Wind Paths]] area in [[Hidden Forest]] to [[#Sanctuary Islands|Sanctuary Islands]] added.
+{{v|0.15.5}}
+* Addition of a Social Light area, [[#Cozy_Hideout|Cozy Hideout]], to [[#Prairie Caves|Prairie Caves]] area.
+----
+{{v|0.16.5.0}}
+* Introduction of an underground areas in the [[#Sanctuary Islands|Sanctuary Islands]].
+----
+{{v|0.17.0}}
+* With [[Days of Nature]] 2022, the [[Additional_Light_Sources#Sunset_Sanctuary_Turtle|Sunset Sanctuary Turtle]] has been added.
+----
+{{v|0.18.0}}
+* With [[Season of Shattering]], some areas have been slightly adjusted for the periodically falling [[Shard Eruptions]].
+----
+{{v|0.19.0}}
+* Addition of [[Map Shrines]] throughout Prairie.
+----
+{{v|0.21.0}}
+* With [[Season of Passage]], [[#Bird Nest|Bird Nest]], and the [[#Butterfly Fields|Butterfly Fields]] are adjusted to hold [[Season_of_Passage#Quest_#3|Quest #3]] and [[Season_of_Passage#Quest_#4|Quest #4]] respectively.
+* Home Shrines, including any redundant Bird Statues, are removed.
+----
+{{v|0.22.0}}
+* With [[Season of Moments]], [[#Prairie Peaks|Prairie Peaks]] with 4 Seasonal Spirits was introduced, in addition to an entrance in the [[#Prairie Caves|Prairie Caves]].
+----
+{{v|0.26.5}}
+* Addition of candles to the area above the Temple Roof. 
+</div>}}
+
+==In Other Languages==
+{{Help|lang}} 
+{{Other Languages|title=Daylight Prairie
+|fr            = Prairie illuminée
+|fr_meaning    = Illuminated prairie <!-- Machine Translated -->
+|ja            = 草原 (Kana: そうげん)
+|ja_rom        = Sogen
+|ja_meaning    = Prairie
+|id            = Padang Rumput Siang
+|id_meaning    = Noon Grassland <!-- Machine Translated -->
+|de            = Tageslichtprärie
+|de_meaning    = Daylight Prairie <!-- Machine Translated -->
+|vi            = Thảo Nguyên Ánh Sáng (Hán Nôm: 草原映𠓇)
+|vi_meaning    = Light Steppe <!-- Machine Translated -->
+|ko            = 햇빛 초원 (Hanja: 햇빛 草原)
+|ko_rom        = Haesbit Chowon
+|ko_meaning    = Sunlight Meadow <!-- Machine Translated -->
+|es            = Planicie Luz de Dia
+|es_meaning    = Daylight Plain <!-- Machine Translated -->
+|it            = Prateria Diurna
+|it_meaning    = Daylight Prairie <!-- Machine Translated -->
+|pt            = Campina da Aurora
+|pt_meaning    = Aurora Grassland <!-- Machine Translated -->
+|ru            = Полуденная прерия
+|ru_rom        = Poloodyennaya pryeriya
+|ru_meaning    = Midday Prairie <!-- Machine Translated -->
+|zh_cn         = 云野 
+|zh_cn_rom     = Mandarin: Yún Yě / Cantonese: wan4 je5
+|zh_cn_meaning = Cloud Fields <!-- Verified by Native Speaker @Fanlinger -->
+|zh_netease         = 云野 
+|zh_netease_rom     = Mandarin: Yún Yě / Cantonese: wan4 je5
+|zh_netease_meaning = Cloud Fields <!-- Verified by Native Speaker @Fanlinger -->
+|zh_tw         = 雲野 
+|zh_tw_rom     = Mandarin: Yún Yě / Cantonese: wan4 je5
+|zh_tw_meaning = Cloud Fields <!-- Verified by Native Speaker @Fanlinger -->
+}}
+
+==References==
+<references />
+
+{{RealmsNav}} {{Navigation Box}}
+
+[[de:Tageslichtprärie]]
+[[es:Planicie de Luz de Dia]]
+[[fr:Prairie illuminée]]
+[[ko:햇빛 초원]]
+[[pt-br:Campina da Aurora]]
+[[ru:Полуденная прерия]]
+[[zh-hant:雲野]]
+[[ja:草原]]
+[[ar:براري النهار]]
+
+[[Category:Daylight Prairie]]
+[[Category:Realms]]

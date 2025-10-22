@@ -1,0 +1,89 @@
+{{WIP
+|pagetype = elder
+|placedby =
+|comment  =
+}}
+{{Spirit Infobox
+|type       = Elder
+|image      = Elder-Spirits-Valley.png
+|emote_type = none
+|cosmetics  = {{Spirit Item||Hair|infobox|label=Valley Twin 1 Elder Hair}}{{Spirit Item||Hair_b|infobox|label=Valley Twin 2 Elder Hair}}<!--{{Icon|Elder-Mask-Icon-Valley-Twin-1-Morybel-0146.png|infobox|link=#Mask}}{{Icon|Elder-Mask-Icon-Valley-Twin-2-Morybel-0146.png|infobox|link=#Mask}}-->
+|realm      = Valley of Triumph
+|location   = Valley Temple
+|related    = {{Spirit Group|elder|infobox|exclude={{PAGENAME}}}}
+}}
+
+The '''Elders of the Valley''' (also known as '''Valley Elders''') can be found at the [[Valley Temple|Temple]] in the [[Coliseum]] in [[Valley of Triumph]]. Relive the Elder's memory to activate all the Spirits that you previously found in the [[Valley of Triumph]] and open the way to [[Golden Wasteland]]. 
+
+==Memory==
+<div>
+{{#ev:youtube|RLA-vDpm0R0||inline|Valley Elders Cutscene}}
+The Valley Elders' memory begins the camera panning up to show the temple and coliseum.
+
+The child (you) turns around to see a figure standing alert in the distance, holding a radiant stick to their side. The Twins step apart in an theatrical reveal and show off by striking their synchronized poses, twirling their paddles, and performing flips. They take a giant leap and jump over the child. 
+
+The Twin with the bobbed hair kneels and holds out their hand. Seeing this, the Twin with the spiky hair takes a step forward to extend their hand further towards the child, but is immediately cut off by the first Twin. Using their paddle, the second Twin hits the flame out of the child's hands and catches it, while the other Twin and child follow in pursuit. The second Twin dodges a swing by the other Twin with a great leap and lobs the flame once again. The flame rebounds off the child's failed catch back to the second Twin. This short-lived game of cat-and-mouse ends with the second Twin launching the flame out of the coliseum. 
+</div>
+{{Clear}}
+
+==Cosmetics==
+===<span id="Hair">Ultimate Hair</span>===
+The Ultimate Hair costs {{Cost|5 AC}} and is only available once you have completed the Valley of Triumph [[Constellation]]. It is a voluminous chin-lengthed hairstyle that is styled like a big triangle with perfectly straight ends, small inwards-curled strands near the cheeks, and a triangle-shaped bang.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair_b|icon}} {{!}} Ultimate Hair icon
+{{Icon Name||Hair_b|real}} {{!}} Ultimate Hair front
+{{Icon Name||Hair_b|side}} {{!}} Ultimate Hair side
+{{Icon Name||Hair_b|back}} {{!}} Ultimate Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+The Ultimate Hair costs {{Cost|6 AC}}. The other Twin's Hair must be unlocked first to purchase this one. It is a short hairstyle that sticks up in triangle shapes, with one big section sticking up and back from some smaller ones, as well as big, triangle-shaped, side-swooshed bangs, which cover one eye and the entire forehead.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} Ultimate Hair icon
+{{Icon Name||Hair|real}} {{!}} Ultimate Hair front
+{{Icon Name||Hair|side}} {{!}} Ultimate Hair side
+{{Icon Name||Hair|back}} {{!}} Ultimate Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+<!--===<span id="Mask">Ultimate Shield Mask</span>===
+The Ultimate Shield Mask costs {{Cost|150 AC}}.
+
+[[File:Elder-Mask-Icon-Valley-Twin-2-Morybel-0146.png|x125px]]
+[[File:Hair23-Valley Elder 2.png|x125px]]
+
+The Ultimate Shield Mask costs {{Cost|150 AC}}.
+
+[[File:Elder-Mask-Icon-Valley-Twin-1-Morybel-0146.png|x125px]]
+[[File:Hair22-Valley Elder 1.png|x125px]]-->
+
+==Friendship Tree==
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Valley Elders
+<!--|image = Valley Elders asc.jpg-->
+
+<!--|nodeC4 = spellx
+|nodeC3 = spellx
+|nodeL2 = Elder-Mask-Icon-Valley-Twin-1-Morybel-0146.png 150 AC
+|nodeC2 = spellx
+|nodeR2 = Elder-Mask-Icon-Valley-Twin-2-Morybel-0146.png 150 AC
+|nodeL1 = Icon_hair_elder_valley_2.png 5 AC
+|nodeC1 = spellx
+|nodeR1 = Icon_hair_elder_valley_1.png 6 AC-->
+|nodeC2 = hair 6 AC
+|nodeC1 = hair_b 5 AC
+}}<section end="Friendship Tree" />
+
+==Trivia==
+* The Elder of the Valley is depicted in several merch items from [[That Sky Shop]]. To know more about That Sky Shop products, visit their website: https://thatskyshop.com
+
+==Gallery==
+<gallery widths="200">
+Valley Elders asc.jpg
+</gallery>
+
+[[fr:Ancien de la Vallée]]
+[[pt-br:Ancião do Vale]]
+[[de:Älteste des Tals]]

@@ -1,0 +1,189 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Call
+|image     = <gallery>
+Lightseekers-Spirit-Crab-Whisperer.png|Standard
+Lightseekers-Spirit-Crab-Whisperer-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Mask|infobox}}{{Spirit Item||Hair|infobox}}{{Spirit Item||Cape|infobox}}
+|props     = {{Spirit Item||Prop|infobox}}
+|music     = {{Music Sheet|10}}
+|season    = Lightseekers
+|location  = Crab Fields
+|ts        = August 7, 2023 (SV#4)<br/>September 2, 2021 (#43)<br/>April 9, 2020 (#6)
+}}
+<section begin="Summary" />The '''Crab Whisperer''' is a [[Seasonal Spirit]] from the [[Season of Lightseekers]] who offers the {{Emote|Crab Whisperer|inline_text}}. The Crab Whisperer is found in the [[Crab Fields]], inside a pipe next to the tunnel entrance from [[Graveyard]]. The collectibles [[#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Crab Whisperer|Mask|inline_text}}, a {{Spirit Item|Crab Whisperer|Hair|inline_text}}, a {{Spirit Item|Crab Whisperer|Cape|inline_text}}, a {{Spirit Item|Crab Whisperer|Prop|label=Pipe Prop|inline_text}}, and the {{Music Sheet|10|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Crab-Whisperer-promo-image.jpg|thumb|320px|none|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|5iqo_BiP1j0|200px|inline|Video Guide}}
+
+The Crab Whisperer can be found in the [[Crab Fields]], inside a pipe next to the tunnel entrance from [[Graveyard]]. This Spirit has a [[Carry Spirit Memory|carry spirit memory]] with 5 memory fragments and a 15-minute overall [[Timed Memory|time limit]].
+
+During the memory, the Spirit must be carried through the wrecked ship and up the pipes leading to the [[Battlefield]] entrance. Beware the many [[Dark Crabs]] along the route and the single [[Dark Dragons|Dark Dragon]] patrolling the shipwreck. Repeated [[Deep Call|Deep Calls]] are recommended to prevent Crabs from knocking you out of the Spirit's circle.
+
+As their memory unfolds, the Crab Whisperer can be seen traveling cautiously across the inhospitable landscape, braving the dangers of [[Creatures#Dark_Creatures|Dark Creatures]] to search the wreckage of the giant ship. Eventually, the Spirit finds their way up the pipes that climb the back wall of the area - where at the top, the fallen body of another Spirit lies buried in the sand.
+
+At the end of the memory, the Crab Whisperer mournfully lets out a high pitched wail.<br>
+<br>
+[[File:04 GW Seasonal Spirit - Crab Whisperer.jpg|200px|thumb|none|Relive the Crab Whisperer's Memory]]
+</div>
+{{Clear}}
+
+== <span id="Expression">Call</span> ==
+This Spirit offers the {{Emote||inline_text}}, which modifies the player's voice to a high pitched wail.<br>
+<br>
+[[File:{{Icon Name||emote}}|thumb|left|x170px]]
+[[File:Crab-Whisperer-crab-call-emote.mp4|300px]]
+{{Clear}}
+
+== Cosmetics==
+=== Mask ===
+The [[Mask]] offered by this Spirit is a round beige mask with a vertical blue stripe over one eye, costing {{Cost|30 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's second node ({{Cost|12 SC|season=Lightseekers}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Hair ===
+The [[Hair]] offered by this Spirit includes a wide-brimmed sunhat with a decorative blue band and medium-length hair, costing {{Cost|42 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fifth node ({{Cost|60 SC|season=Lightseekers}} total). Note that this item is considered a Hair, not a [[Hair Accessory]], and as such it can not be worn over other Hairstyles.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Cape ===
+The [[Cape]] offered by this Spirit is blue and shaped like petals, with a yellow trim and a light-purple turtleneck piece, costing {{Cost|70 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fifth node ({{Cost|60 SC|season=Lightseekers}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||Cape|interior}} {{!}} The Cape interior
+{{Icon Name||Cape|real}} {{!}} The Cape back
+{{Icon Name||Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Prop ===
+The [[Prop]] offered by this Spirit is a vertical section of a pipe, costing {{Cost|20 C}} from the Traveling Spirit. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. This Prop appears as a small pipe on its owner's back when carried.
+
+This item was not available during the [[Season of Lightseekers]]. Instead, it was added to the Crab Whisperer's Friendship Tree during their second return as a [[Traveling Spirit]] on September 2, 2021.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Prop|icon}} {{!}} The Prop icon
+{{Icon Name||Prop|real}} {{!}} The Prop
+{{Icon Name||Prop|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Music Sheet ==
+The Crab Whisperer offers the {{Music Sheet|10}} [[Music Sheet]] #10, costing {{Cost|15 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's third node ({{Cost|26 SC|season=Lightseekers}} total). It is a song in the key of C Major.<br>
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guide
+|content=
+{{#ev:youtube|6yxlP4vKrsE||inline|Music Sheet Video Guide by thatskyfox (Fox Band)}}
+}}
+
+== Traveling Spirit ==
+[[File:Traveling lightseekers wasteland map.png|200px|right|thumb]]
+{{Friendship Tree Info | traveling
+|ts_dates=* September 2, 2021 (With a new [[Crab Whisperer#Prop|Prop]]) (#43)
+*April 9, 2020 (#6)
+|rs_dates=*August 7, 2023 (SV#4)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Crab Whisperer
+|season = Lightseekers
+|image  = Lightseekers-Spirit-Crab-Whisperer.png
+
+|nodeC5 = Cape 70 C
+|nodeL4 = music10 15 C
+|nodeC4 = spell5
+|nodeR4 = Hair 42 C
+|nodeC3 = wing
+|nodeL2 = Mask 30 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = Prop 20 C NEW
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+No hints were given before the [[Crab Whisperer]]'s first appearance.
+
+The hints given before the [[Crab Whisperer]]'s second appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Second Visit Hints
+|content=<div>
+* Cannot do the splits
+* Is afraid of small objects
+* Liked Vine before TikTok
+* Always carries snacks
+* Cooks without using any recipes
+* Is actually a terrible cook
+* Is nervous around animals
+* Likes making short films
+* Has never played an online game 
+* LOVES board games
+* Likes to do Karaoke 
+* Is luckier than their friends
+* Likes to challenge themselves
+* Is great at finding lost things
+* Hasn't fed their Neopets
+* Dislikes cold foods
+* Gets stage fright
+* Still has their collection of Beanie Babies
+* Enjoys fishing
+* Doesn't get seasick
+* Can only draw stick figures
+* Likes coffee with no milk or sugar
+* Likes to be gifted flowers
+</div>
+}}
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Lightseekers}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Crab Whisperer
+|type   = season
+|season = Lightseekers
+|image  = Lightseekers-Spirit-Crab-Whisperer.png
+
+|nodeC6 = Cape SP
+|nodeC5 = Hair 18 SC
+|nodeL4 = spell5 SP
+|nodeC4 = spell5 16 SC
+|nodeL3 = music10 SP
+|nodeC3 = spell5 14 SC
+|nodeL2 = spell5 SP
+|nodeC2 = Mask 12 SC
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Trivia==
+*Crab Whisperer's Prop is possibly a reference to the pipes found in [[Golden Wasteland]] (such as the one where the Spirit is first found). It may also be a tribute to the Mario Bros pipes, given that Sky had recently been released on [[Sky_for_Nintendo_Switch|Nintendo Switch]].
+*The Crab Whisperer Cape is featured in a piece of merch from thatskyshop, in the form of the [[That Sky Shop/Wave 2#Petal Cape Pin|Petal Cape Pin]]. It has a STAR feature which allows you to wear a Petal Cape with the friends that you're holding hands with for a limited duration.
+*Some players have reported being able to protect themselves from [[Dark Dragons]] using the Crab Whisperer's Prop, but it is not a reliable method.
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Crab Whisperer promo image (mid Season).jpeg
+lightseekers map wasteland FULL.png
+</gallery>
+
+==References==
+<references/>
+[[de:Krabbensprecher]]
+[[pt-br:Comunicador de Caranguejos]]
+[[ru:Заклинатель крабов]]
+[[fr:Orateur de crabe]]

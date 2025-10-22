@@ -1,0 +1,142 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Assembly-Spirit-Marching-Adventurer.png|Standard
+Assembly-Spirit-Marching-Adventurer-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Mask|infobox}}{{Spirit Item||Hair|infobox}}
+|props     = {{Spirit Item||Prop|infobox}}
+|season    = Assembly
+|realm     = Hidden Forest
+|location  = Forest's Brook
+|ts        = July 3, 2025 (#143)<br>March 6, 2023 (SV#1)
+}}
+<section begin="Summary" />The '''Marching Adventurer''' is a [[Seasonal Spirit]] from the [[Season of Assembly]] who offers the {{Emote|Marching Adventurer|inline_text}} Expression. The Marching Adventurer is found in the [[Forest's Brook]], on top of a hill across from the sheltered house inside a hill on the player's left when first entering the area. The collectibles [[#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Marching Adventurer|Mask|inline_text}}, a {{Spirit Item|Marching Adventurer|Hair|inline_text}}, and a {{Spirit Item|Marching Adventurer|Prop|label=Torch Prop|inline_text}}.<section end="Summary" />
+
+== Memory ==
+<div>{{#ev:youtube|CC2oKWB_gu8||inline|Video Guide}}
+
+The Marching Adventurer can be found in [[Forest's Brook]], atop a hill and directly across from the gazebo where the [[Blushing Prospector]] can be found. This Spirit has a [[Standard Memory|standard memory]] with 7 memory fragments and a 15-minute overall [[Timed Memory|time limit]]. 
+
+Note that some fragments are exposed to the [[Spirit Health|polluted rain]], so be quick to collect them.
+
+As their memory unfolds, the Marching Adventurer and the [[Scaredy Cadet]] can be seen walking along the hills above the brook. The Marching Adventurer spots a stick that looks just right, and continues to carry it throughout the rest of the memory. The Adventurer and the Cadet soon come across a large, fallen log connecting two hills like a bridge. The Adventurer decides to march across the log, but the Cadet is frightened by the idea of walking across the log and soon finds a quicker, alternative route to cross the gap between the two hills. The Adventurer and the Cadet meet up again towards the end of the memory.
+
+At the end of the memory, the Adventurer finds the Cadet on a ledge a little higher up. The Cadet joins the Adventurer on the lower level, and the Marching Adventurer shows the Cadet how to march in time and with confidence, keeping their eyes forward.<br>
+<br>
+[[File:02 HF Seasonal Spirit - Marching Adventurer.png|200px|thumb|none|Relive the Marching Adventurer's memory]]
+</div>
+{{Clear}}
+
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Marching-Adventurer-marching-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Marching-Adventurer-marching-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Marching-Adventurer-marching-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Marching-Adventurer-marching-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar march in place, arms swinging to chest level and legs lifting energetically with each step, while a steady drumbeat plays in rhythm with the steps. The action is continued for as long as you don't move your avatar.
+*Level 2 makes the same motion as Level 1, with white trails of light following the motion of your avatar's hands and white starburst effects bursting from their feet each time they touch the ground again.
+*Level 3 will make your avatar leap up into the air before marching with their arms held closer to their torso and their legs brought up quicker while a fast drumbeat plays. After every fourth step your avatar will jump up again. This action is continued for as long as you don't move your avatar.
+*Level 4 makes the same motion as Level 3, with green trails of light following the motion of your avatar's hands.
+
+As a Returning Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+== Cosmetics==
+=== Mask ===
+The [[Mask]] offered by this Spirit is a dark grey mask with a yellow triangle under the right eye and a white eyepatch on the left, secured with a grey band over the head, costing {{Cost|30 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|42 SC|season=Assembly}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Hair ===
+The [[Hair]] offered by this Spirit consists out of thick dreadlocks tied together in a high ponytail with a yellow and green hairband, with several shorter locks hanging down in front of the face, costing {{Cost|45 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's second node ({{Cost|12 SC|season=Assembly}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Prop ===
+The [[Prop]] offered by this Spirit is a [https://en.wikipedia.org/wiki/Tiki_torch tiki torch], costing {{Cost|55 C}} from the Traveling Spirit. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. When lit, its flame will recharge the player's wings. It appears as a torch on its owner's back when carried. It was available to all players during the Season from the Friendship Tree's fifth node ({{Cost|64 SC|season=Assembly}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Prop|icon}} {{!}} The Prop icon
+{{Icon Name||Prop|real}} {{!}} The Prop
+{{Icon Name||Prop|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling
+| ts_dates=*July 3, 2025 (#143)
+| rs_dates=*March 6, 2023 (SV#1)}}
+<section begin='TS Friendship Tree' />{{Friendship Tree
+|spirit = Marching Adventurer
+|image  = Marching Adventurer Sprite.png
+|season = Assembly
+
+|nodeC6 = Prop 55 C 
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeR4 = Hair 45 C
+|nodeC3 = wing
+|nodeL2 = Mask 30 C
+|nodeC2 = spell5
+|nodeR2 = Heart 3 C
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end='TS Friendship Tree' />
+<!--
+===Hints===
+The hints given before the {{PAGENAME}}'s appearance were: 
+-->
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Assembly}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Marching Adventurer
+|image  = Marching Adventurer Sprite.png
+|type   = season
+|season = Assembly
+
+|nodeC6 = season_heart 3 SC AP
+|nodeL5 = spell5 AP
+|nodeC5 = Prop 22 SC
+|nodeL4 = Mask AP
+|nodeC4 = spell5 16 SC
+|nodeL3 = emote4 AP
+|nodeC3 = emote3 14 SC
+|nodeL2 = spell5 AP
+|nodeC2 = Hair 12 SC
+|nodeL1 = emote2 AP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Image Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Marching expression .jpg
+season of assembly shoot march expression.jpg
+season of assembly shoot group march.png
+</gallery>
+
+==Video Gallery==
+{{#ev:youtube|FIX2wsGwMRk|175|inline|Video Guide by Tara}}
+
+==References==
+<references/>
+[[de:Marschierende Abenteurerin]]
+[[pt-br:Aventureira Marchante]]
+[[ru:Марширующая авантюристка]]
+[[fr:Aventurière marchante]]
+[[ja:行進する冒険家]]

@@ -1,0 +1,199 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Stance
+|image     = <gallery>
+Gratitude-Spirit-Sassy-Drifter.png|Standard
+Gratitude-Spirit-Sassy-Drifter-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Mask|infobox}}{{Spirit Item||Hair|infobox}}
+|season    = Gratitude
+|realm     = Isle of Dawn
+|location  = Isle of Dawn
+|ts        = April 11, 2024(#111)<br>December 8, 2022 (#76)<br>July 8, 2021 (#39)<br/>May 28, 2020 (#10)<br/>January 31, 2020 (#1)
+}}
+<section begin="Summary" />The '''Sassy Drifter''' is a [[Seasonal Spirit]] from the [[Season of Gratitude]] who offers the {{Emote|Sassy Drifter|inline_text}}. The Sassy Drifter is found at the far right of [[Isle of Dawn]]. The collectibles [[Sassy Drifter#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Sassy Drifter|Mask|inline_text}}, and a {{Spirit Item|Sassy Drifter|Hair|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Sassy-Drifter-promo-image.jpg|none|thumb|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|ZX1k1hbb_sw||inline|Video Guide}}
+
+The Sassy Drifter can be found at the far right of [[Isle of Dawn]], amongst the hills where the clouds touch the sand. This Spirit has a [[Carry Spirit Memory|carry spirit memory]] with 5 memory fragments and a 4-minute overall [[Timed Memory|time limit]]. 
+
+As their memory unfolds, the Sassy Drifter can be seen walking towards the clouds and then sits down to enjoy the scenery.
+
+At the end of the memory, the Sassy Drifter assumes a position with their weight shifted onto the left leg and their hand propped up on their left hip, as they stare off to the right.<br>
+<br>
+[[File:01 Season of Gratitude - Sassy Drifter.png|200px|thumb|none|Relive the Sassy Drifter's memory]]
+</div>
+{{Clear}}
+
+== <span id="Expression">Stance</span> ==
+This Spirit offers the {{Emote|Sassy Drifter|inline_text}}. The Stance affects your avatar's position when standing, kneeling, sitting, or lying down.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||emote}}
+Sassy-Drifter-sassy-stance-emote.gif {{!}} {{Icon Name||emote_name}}
+Sassy-Drifter-Stance-Standing-Up.png {{!}} {{Icon Name||emote_name}} (Standing)
+Sassy-Drifter-Stance-Kneeling.png {{!}} {{Icon Name||emote_name}} (Kneeling)
+Sassy-Drifter-Stance-Sitting.png {{!}} {{Icon Name||emote_name}} (Sitting)
+Sassy-Drifter-Stance-Lying-Down.png {{!}} {{Icon Name||emote_name}} (Lying Down)
+|heights=170px|captionalign=center|spacing=small
+}}
+
+*Standing up will make your avatar straighten their left leg while the right one is bent in a relaxed manner, prop their left hand up on their left hip, and tilt their head to the side.
+*Kneeling will make your avatar squat with their legs to their chest and rest their head on their opened palms, with their elbows touching each knee.
+*Sitting will make your avatar lean back on the ground, supported by their left hand, lay their legs to the right with one leg resting on top of the other, and rest their right arm on one knee.
+*Lying Down will make your avatar lay on their stomach, resting their head on the propped up left arm, while their eyes are closed, and their legs bent up.
+
+== Cosmetics ==
+=== Mask ===
+The [[Mask]] offered by this Spirit is white, shaped like the head of a weasel, and is decorated with orange and yellow accents, costing {{Cost|48 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's third node ({{Cost|14 SC|season=Gratitude}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask front
+{{Icon Name||Mask|side}} {{!}} The Mask side
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Hair===
+The [[Hair]] offered by this Spirit is a golden bell-shaped hat with a yellow band tied around its tip, sitting on top of tied up hair, costing {{Cost|26 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's second node ({{Cost|6 SC|season=Gratitude}} total). Note that this item is considered a Hair, not a [[Hair Accessory]], and as such it can not be worn over other Hairstyles.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|front}} {{!}} The Hair front
+{{Icon Name||Hair|real}} {{!}} The Hair side
+{{Icon Name||Hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Traveling Spirit ==
+[[File:Gratitude_Isle_Sassy.png|200px|right|thumb]]
+{{Friendship Tree Info | traveling
+|ts_dates=*April 11, 2024 (#111)
+*December 8, 2022 (#76)
+*July 8, 2021 (#39)
+*May 28, 2020 (#10)
+*January 31, 2020 (#1)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Sassy Drifter
+|season = Gratitude
+|image  = Gratitude-Spirit-Sassy-Drifter.png
+
+|nodeC5 = Mask 48 C
+|nodeC4 = spell5
+|nodeC3 = wing
+|nodeR2 = heart
+|nodeC2 = spell5
+|nodeL2 = Hair 26 C
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+No hints were given before the [[Sassy Drifter]]'s first and second appearance.
+
+The hints given before the [[Sassy Drifter]]'s third appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Third Visit Hints
+|content=<div>
+* Is going to be a seasonal spirit
+* Is a master BBQ chef
+* Likes cherry-flavored things
+* Has a great skincare routine
+* Is an early bird
+* Wishes they could paint better
+* Likes taking short naps
+* Gets lost easily
+* Doesn't like cookies 
+* Is decent at golf
+* Likes arts and crafts
+* Is great at technology
+* Loves listening to music
+* Enjoys stargazing
+* Their favorite color is purple
+* Is calmed by the sound of wind
+* Is a bit of a lone soul
+* Is a makeup guru
+* Is great at climbing trees
+* Dislikes swimming
+* Dislikes puns
+* Likes butterflies 
+* Is Skybot
+* Likes pineapple pizza 
+* Watches theater plays
+* Dislikes rock music
+* Likes holding hands 
+* Likes pears
+* Is great at card games
+* [ktjn] Eats celery plain
+* [ktjn] Really loves afternoon naps
+</div>}}
+
+The hints given before the [[Sassy Drifter]]'s fourth appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Fourth Visit Hints
+|content=<div>
+*Is hoping you'll join them for pre-concert festivities before the concert starts at December 8, 2022 11:30 PM
+*Is hunting for the perfect seasoning spice
+*Enjoys fine hair products
+*Likes collecting things in pairs
+*Brings soup to every event
+*Takes their coffee black, but sometimes treats themselves to one spoon of sugar
+*Has a favorite Skyball team!
+*Has secret family recipes
+*Always wished they had someone to do a secret handshake with
+*Is ready to start up the grill
+*Is looking forward to greeting all the new PS moths
+*Enjoys cute things....<s>like moths!</s>
+*Has never owned a PlayStation
+*Likes windy days
+*Would love to take a stroll with you
+*Enjoys living near the ocean when possible!
+*Always makes sure you feel welcome
+*Likes things with soft cute ears
+*Wakes up at the crack of dawn
+*After TS #77, Ashen said "I got mixed up and thought pleaful was coming last TS and so...if my hints seemed confusing at all during that reveal, it's because half of them were meant for pleaful and I had to pivot halfway to Sassy :SkyLOL: don't tell anyone the secret :pKrillBEAN:"<ref>[https://discord.com/channels/575762611111592007/575827782144098304/1054835448016535573 Ashen's Discord message regarding the confusing mix of TS hints]</ref>
+</div>}}
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Gratitude}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Sassy Drifter
+|image  = Gratitude-Spirit-Sassy-Drifter.png
+|type   = season
+|season = Gratitude
+
+|nodeC4 = Mask SP 
+| noteC4 = <ref name="free_mask">The mask was indeed free (did not cost any in-game currency), but required a Season Pass. See [https://discord.com/channels/575762611111592007/575827924343848960/607593774217953330 this Discord screenshot] and [https://discord.com/channels/575762611111592007/585339436322259003/602969896548040704 this Discord replay] as confirmation.</ref>
+|nodeC3 = spell5 8 SC
+|nodeL2 = spell5 SP
+|nodeC2 = Hair 6 SC
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Trivia==
+*Sassy Drifter has been the first Traveling Spirit of every platform release except Android.
+*The Sassy Drifter Mask is featured in a piece of merch from thatskyshop, in the form of the [[That Sky Shop/Wave 1#Weasel Mask Pin|Weasel Mask Pin]]. It has a STAR feature which allows you and the friends holding your hand to wear the mask for a limited duration.
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Sog isle.jpg
+Sassy Drifter promo image (first visit).png
+Sassy Drifter promo image (second visit).png
+Sassy-Drifter-promo-image.jpg
+SoG Isle Map2.png
+</gallery>
+
+==References==
+<references/>
+[[de:Frecher Landstreicher]]
+[[pt-br:Andarilho Ousado]]
+[[ru:Нахальный бродяга]]
+[[ja:おませな漂流者]]
+[[fr:Vagabond excentrique]]

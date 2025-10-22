@@ -1,0 +1,329 @@
+__FORCETOC__
+{{SkyEvent
+| image = Days-of-Treasure-2025-Promo-image.png
+| date = March 3 to March 16, 2025
+| previousevent = [[Days of Love]]
+| nextevent = [[Days of Bloom]]
+}}
+<section begin="Summary"/>Welcome to '''Days of Treasure''', where maps be mysterious, shovels be plenty, and bounty be ripe for the plunderin’! From '''Monday, March 3, 2025 at 00:00 PST (UTC-8)''' through '''Sunday, March 16, 2025 at 23:59 PDT (UTC-7)''', mind your sea legs and gather 'round, for adventure calls in the land of the seven [[realms]]!
+
+A series of enchanted maps have drifted into the realms of Sky, leading to troves of hidden wonders. But beware, for the sands of time slip swiftly through the glass, and once the map’s magic fades, so too will the treasures! Aye, ye must be swift, sharp, and ready to heave ho!<section end="Summary"/>
+
+Each day, two daring teams of [[Spirits]] set sail—er, set forth—on a grand treasure hunt, each eager to uncover the loot before their rivals. The noble Scouts seek fortune with keen eyes and steady hands, while the cunning Scavengers rely on wits and wild instincts. But which crew will chart the course to victory? That, me hearties, be up to ye!
+
+So hoist yer Spirits high, sharpen yer wits, and let the hunt begin! Riches, rivalry, and revelry await, but tarry not—the magic won’t last forever!<br>
+<br>
+{{#ev:youtube|MXYeTmC_GbA||inline|Days of Treasure Trailer}}
+{{Clear}}
+===Activities and Spirits===
+{| class="article-table mw-collapsible mw-collapsed"
+|-
+! style="text-align:center" colspan="7" | Activities and Spirits
+|-
+! Date
+! Image
+! {{Icon|Team-Scouts-icon.png}} Scouts
+! {{Icon|Team-Scavengers-icon.png}} Scavengers
+! Location
+! style="width:280px;" | Treasure Tally at Reset<br>(Start of Day)
+|-
+| March 3
+| [[File:Days-of-Treasure-2025-Activity-Anxious-Angler-and-Scolding-Student.jpg|150px]]
+| [[Scolding Student]]
+| [[Anxious Angler]]
+| Vault of Knowledge<br>Starlight Desert
+| {{Treasure Tally|63}}
+|-
+| March 4
+| [[File:Days-of-Treasure-2025-Activity-Chuckling-Scout-and-Cackling-Cannoneer.jpg|150px]]
+| [[Chuckling Scout]]
+| [[Cackling Cannoneer]]
+| Daylight Prairie<br>Sanctuary Islands
+| {{Treasure Tally|64}}
+|-
+| March 5
+| [[File:Days-of-Treasure-2025-Activity-Assembly-Guide-and-Bumbling-Boatswain.jpg|150px]]
+| [[Assembly Guide]]
+| [[Bumbling Boatswain]]
+| Hidden Forest<br>Forest Brook
+| {{Treasure Tally|55}}
+|-
+| March 6
+| [[File:Days-of-Treasure-2025-Activity-Ceasing-Commodore-and-Daydream-Forester.jpeg|150px]]
+| [[Daydream Forester]]
+| [[Ceasing Commodore]]
+| Valley of Triumph<br>Village of Dreams
+| {{Treasure Tally|57}}
+|-
+| March 7
+| [[File:Days-of-Treasure-2025-Activity-Anxious-Angler-and-Scolding-Student-n°2.jpg|150px]]
+| [[Scolding Student]]
+| [[Anxious Angler]]
+| Golden Wasteland<br>Treasure Reef
+| {{Treasure Tally|58}}
+|-
+| March 8
+| [[File:Days-of-Treasure-2025-Activity-Chuckling-Scout-and-Cackling-Cannoneer-n°2.jpg|150px]]
+| [[Chuckling Scout]]
+| [[Cackling Cannoneer]]
+| Vault of Knowledge<br>Starlight Desert
+| {{Treasure Tally|60}}
+|-
+| March 9
+| [[File:Days-of-Treasure-2025-Activity-Assembly-Guide-and-Bumbling-Boatswain-n°2.jpg|150px]]
+| [[Assembly Guide]]
+| [[Bumbling Boatswain]]
+| Daylight Prairie<br>Sanctuary Islands
+| {{Treasure Tally|60}}
+|-
+| March 10
+| [[File:Days-of-Treasure-2025-Activity-Ceasing-Commodore-and-Daydream-Forester-n°2.jpg|150px]]
+| [[Daydream Forester]]
+| [[Ceasing Commodore]]
+| Hidden Forest<br>Forest Brook
+| {{Treasure Tally|60}}
+|-
+| March 11
+| [[File:Days-of-Treasure-2025-Activity-Anxious-Angler-and-Scolding-Student-n°3.jpg|150px]]
+| [[Scolding Student]]
+| [[Anxious Angler]]
+| Valley of Triumph<br>Village of Dreams
+| {{Treasure Tally|60}}
+|-
+| March 12
+| [[File:Days-of-Treasure-2025-Activity-Chuckling-Scout-and-Cackling-Cannoneer-n°3.jpg|150px]]
+| [[Chuckling Scout]]
+| [[Cackling Cannoneer]]
+| Golden Wasteland<br>Treasure Reef
+| {{Treasure Tally|60}}
+|-
+| March 13
+| [[File:Days-of-Treasure-2025-Activity-Assembly-Guide-and-Bumbling-Boatswain-n°3.jpg|150px]]
+| [[Assembly Guide]]
+| [[Bumbling Boatswain]]
+| Vault of Knowledge<br>Starlight Desert
+| {{Treasure Tally|59}}
+|-
+| March 14
+| [[File:Days-of-Treasure-2025-Activity-Ceasing-Commodore-and-Daydream-Forester-n°3.jpg|150px]]
+| [[Daydream Forester]]
+| [[Ceasing Commodore]]
+| Daylight Prairie<br>Sanctuary Islands
+| {{Treasure Tally|60}}
+|-
+| March 15
+| [[File:Days-of-Treasure-2025-Activity-Anxious-Angler-and-Scolding-Student-n°4.jpg|150px]]
+| [[Scolding Student]]
+| [[Anxious Angler]]
+| Hidden Forest<br>Forest Brook
+| {{Treasure Tally|61}}
+|-
+| March 16
+| [[File:Days-of-Treasure-2025-Activity-Chuckling-Scout-and-Cackling-Cannoneer-n°4.jpg|150px]]
+| [[Chuckling Scout]]
+| [[Cackling Cannoneer]]
+| Valley of Triumph<br>Village of Dreams
+| {{Treasure Tally|62}}
+|}
+<div>
+{{#ev:youtubeplaylist|PLl2dLrx-duQg_-HWYd27m67Gxq4Z-QSNt|400|inline|Playlist of all Treasure locations
+}}
+</div>
+{{Clear}}
+
+===Ticket Locations===
+[[File:Days-of-Treasure-Coin-Ticket.png|125px|thumb|A Days of Treasure coin]]
+{{Cost|6 T|event=Treasure}} could be rewarded each day by finding the Treasure each day.<ref>In {{v|0.28.5}}, it says "Gain up to five Event Tickets each day from Event Ticket Light rewarded when you discover the Treasure". However, based on [[Sky Children of the Light Wiki:Twitter Archive/2025#1897100136662360408|@thatskygame on Twitter on March 4, 2025]], the number of tickets have been increased to six.</ref>
+
+In addition, bonus {{Cost|15 T|event=Treasure}} one-time Event Tickets shaped like a Coin were hidden throughout the Realms. They could be collected at any time during the event. 3 Event Tickets were hidden in each location:<br><br>
+{{Collapse
+|label= Bonus Event Ticket locations
+|float = left
+|content =<br>
+* [[Starlight Desert]]:
+** In front of a ship wreck, left of [[The Rose]]
+** On top of a big desert dune, between [[The Rose]] and the rose garden
+** In the rose garden under the arches
+* [[Sanctuary Islands]]:
+** At the top of the mountain 
+** Inside the Jellyfish-filled cove, behind the [[Jelly Whisperer]]
+** At the crab isle
+* [[Forest's Brook]]:
+** Under the first gazebo with the meditating shrine
+** Under a tree around the middle and left side of the brook
+** In the last gazebo to the left of the bridge
+* [[Village of Dreams]]:
+** On the frozen pond next to the skater statue
+** Behind the buildings on the path of [[Peeking Postman]]'s route
+** On top of a building in front of the gondola station 
+* [[Treasure Reef]]:
+** In the cave at the entrance
+** Underwater in some ruins in the middle of Treasure Reef
+** In one of the cave on the left past the Abyss Guide's ship
+}}<br>
+<gallery captionalign="center">
+Days-of-Treasure-Tickets-1-by_Kion_Anzu.png|Ticket locations by Kion_Anzu
+Days-of-Treasure-Tickets-2-by_Kion_Anzu.png|Ticket locations by Kion_Anzu
+Days-of-Treasure-Tickets-3-by_Kion_Anzu.png|Ticket locations by Kion_Anzu
+Days_of_treasure2025-03-03.jpg|Guide Map by [https://twitter.com/sky_solsuga solsuga ソルとシュガ]
+</gallery>
+Players could also buy additional Tickets (costing {{Cost|2 AC}} or {{Cost|6 C}} each) from the Mini Spell Shop next to the Treasure Map at the daily location.
+{{Friendship Tree
+|label  = Treasure Guide
+|event = Treasure
+|image = Days-of-Adventure-Guide-2025.png
+
+|nodeC3= {{Icon Name|Cavalier Boots|icon}} 30  T
+|  labelC3 = {{Icon Name|Cavalier Boots|name}}
+|  linkC3 = Days of Treasure#{{Icon Name|Cavalier Boots|name}}
+
+|nodeL2 = {{Icon Name|Treasure Shovel|icon}} 30 T
+|  labelL2 = {{Icon Name|Treasure Shovel|name}}
+|  linkL2  = Days of Treasure#{{Icon Name|Treasure Shovel|name}}
+|nodeC2 = spell5
+|  labelC2 = Spell
+|  linkC2 = Spells
+
+|nodeC1 = Icon_warp.png
+|  labelC1 = Teleport to Treasure Guide
+|  linkC1  = 
+}}{{Clear}}
+
+===<big>All Available Collectibles in 2025</big>===
+{| class="article-table"
+!Name
+!Icon
+!Type
+!Cost
+!Location
+!Spell
+!Spell Cost & Locations
+|-
+! colspan="7" style="text-align:center;" |From Days of Treasure 2025
+|-
+|-
+| rowspan="2" |[[Days of Treasure#Treasure Seeker's Bounty|Treasure Seeker's Bounty]]
+|{{Days Item|Bounty outfit||table}}
+|[[Outfit]]
+| rowspan="2" |{{Cost|14.99 USD|ref}}
+| rowspan="2" |<small>[[Premium Candle Shop]]</small>
+|{{Days Item|Bounty outfit|spell|table}}<small>x3</small>
+| rowspan="2" |<small>Mini Spell Shop next to the Treasure Map at the daily location for free</small>
+|-
+|{{Days Item|Eye patch mask||table}}
+|[[Mask]]
+|{{Days Item|Eye patch mask|spell|table}}<small>x3</small>
+|-
+|[[Days of Treasure#{{Icon Name|Treasure Shovel|name}}|{{Icon Name|Treasure Shovel|name}}]]
+|{{Days Item|Treasure Shovel||table}}
+|[[Prop]]
+|{{Cost|30 T|event=Treasure}}
+|<small>Treasure Guide at the daily location</small>
+|{{Days Item|Treasure Shovel|spell|table}}<small>x3</small>
+|<small>Mini Spell Shop next to the Treasure Map at the daily location for free</small>
+|-
+|[[Days of Treasure#{{Icon Name|Cavalier Boots|name}}|{{Icon Name|Cavalier Boots|name}}]]
+|{{Days Item|Cavalier Boots||table}}
+|[[Shoes]]
+|{{Cost|30 T|event=Treasure}}
+|<small>Treasure Guide at the daily location</small>
+|{{Days Item|Cavalier Boots|spell|table}}<small>x3</small>
+|<small>Mini Spell Shop next to the Treasure Map at the daily location for free</small>
+|-
+|[[Blessings (Spells)#Random Dye Blessing|Random Dye Blessing]]
+|
+|[[Dyes]]
+|{{Cost|10 T|event=Treasure}}
+|<small>Mini Spell Shop next to the Treasure Map at the daily location</small>
+|{{Icon|Random-dye-icon-spell.png|table|label=Random Dye Blessing}}
+|
+|}
+
+===2025 New Cosmetics and Props===
+====Treasure Seeker's Bounty====
+::'''''"Dig into untapped adventure by customizing color accents on this eyepatch mask and trouser set. Includes {{Cost|D|color=black}}x 1 & {{Cost|D|color=white}}x 1!"'''''
+The Treasure Seeker's Bounty contains four items: an Outfit, a Mask, a black {{Cost|D|color=black}}x 1 and white {{Cost|D|color=white}}x 1. The Outfit consists of a collared shirt and baggy pants. The shirt is beige, and tucked into the pants, has rolled-up sleeves and an X-shaped stitch near the neck. The pants are dark green and have a faint triangle pattern printed down the sides, as well as a brown belt with a blue, diamond-shaped buckle.
+
+{{Dye_Details
+|area1=the x-shaped stitch, and pant's triangle pattern
+|cost1=1
+}}
+
+The [[Mask]] is gray, with a dark gray diamond in the forehead. A black eyepatch covers the crack running through the right-side eyehole. For information about dyes, please visit [[Dyes|this page]].
+
+{{Dye_Details
+|area1=triangles decorating the bottom of the eyepatch
+|cost1=1
+|area2=around the forehead diamond
+|cost2=1
+}}
+
+This [[Outfit]] and [[Mask]] were introduced in 2025 and were available for {{Cost|14.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Treasure Seeker's Bounty outfit|iap}} {{!}} {{Icon Name|Treasure Seeker's Bounty outfit|name}} IAP
+{{Icon Name|Treasure Seeker's Bounty outfit|icon}} {{!}} {{Icon Name|Treasure Seeker's Bounty outfit|name}} icon
+{{Icon Name|Treasure Seeker's Bounty outfit|real}} {{!}} {{Icon Name|Treasure Seeker's Bounty outfit|name}} front
+{{Icon Name|Treasure Seeker's Bounty outfit|back}} {{!}} {{Icon Name|Treasure Seeker's Bounty outfit|name}} back
+{{Icon Name|Treasure Seeker's Bounty outfit|spell}} {{!}} {{Icon Name|Treasure Seeker's Bounty outfit|name}} Spell icon
+{{Icon Name|Treasure Seeker's Bounty mask|icon}} {{!}} {{Icon Name|Treasure Seeker's Bounty mask|name}} icon
+{{Icon Name|Treasure Seeker's Bounty mask|real}} {{!}} {{Icon Name|Treasure Seeker's Bounty mask|name}}
+{{Icon Name|Treasure Seeker's Bounty mask|spell}} {{!}} {{Icon Name|Treasure Seeker's Bounty mask|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Treasure Cavalier Boots====
+The Treasure Cavalier Boots are a pair of light brown, thick cuffed boots with a low riding heel and an X-shaped stitch at the cuff.
+These [[Shoes]] were introduced in 2025 and were available for {{Cost|30 T|event=Treasure}} from the Treasure Guide at the daily location for the duration of the event.<br>
+
+{{Dye_Details
+|area1=the x-shaped stitch
+|cost1=1
+}}
+{{#tag:gallery
+|{{Icon Name|Treasure Cavalier Boots|icon}} {{!}} {{Icon Name|Treasure Cavalier Boots|name}} icon
+{{Icon Name|Treasure Cavalier Boots|real}} {{!}} {{Icon Name|Treasure Cavalier Boots|name}}
+{{Icon Name|Treasure Cavalier Boots|spell}} {{!}} {{Icon Name|Treasure Cavalier Boots|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Treasure Shovel====
+The Treasure Shovel is a two-handed shovel with a rounded triangle-shaped blade, and wooden handle and grip. The handle has a yellow decorative wrap. When equipped, it can be used to randomly shovel up an item: a small stone {{Icon|Aviary rock cutout.png}}, a conch {{Icon|Days-of-Nature-Sonorous-Seashell.png}} or a small [[Dark Crabs|Crab]] {{Icon|Uncorrugated-Dark-Crab.png}}. The items disappear shortly after being dug up and are non-functional. It can only be done on soft grounds, like sand, earth, snow. etc - attempting to do so on hard surfaces like stone or metal will result in the player's avatar stumbling back from the impact.
+
+This [[Prop]] was introduced in 2025 and was available for {{Cost|30 T|event=Treasure}} from the Treasure Guide at the daily location for the duration of the event.<br>
+
+{{Dye_Details}}
+{{#tag:gallery
+|{{Icon Name|Treasure Shovel|icon}} {{!}} {{Icon Name|Treasure Shovel|name}} icon
+{{Icon Name|Treasure Shovel|real}} {{!}} {{Icon Name|Treasure Shovel|name}} 
+{{Icon Name|Treasure Shovel|using}} {{!}} Using the {{Icon Name|Treasure Shovel|name}}
+{{Icon Name|Treasure Shovel|back}} {{!}} {{Icon Name|Treasure Shovel|name}} on a player's back
+{{Icon Name|Treasure Shovel|spell}} {{!}} {{Icon Name|Treasure Shovel|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+{{#ev:youtube|J_Xgquyr6KI||inline|Item Showcase}}
+
+==Trivia==
+* Days of Treasure is the first event where '''all participants''' will receive a prize based on the winning team. While something similar was tested in Beta for the [[Tournament_of_Triumph#Trivia|Tournament of Triumph]], it was removed for Live.
+* Additionally, the prize (alongside a message from the winning Spirit team) will be the first reward sent as a message in the Inbox<ref>https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/faq/1381-patch-notes---february-27-2025---0-28-5-313329-android-huawei-ios-playstation-steam-switch/</ref>.
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Days_of_treasure_2025_aviary.JPG|Treasure Guide in Aviary Village
+DoTreasure-2025-Mapboard-promo-image.png|2025 Promo image
+DoTreasure-2025-Skykids-Digging-promo-image.png|2025 Promo image
+DoTreasure-2025-Ticket-promo-image.png|2025 Promo image
+</gallery>
+
+==References==
+'''More information about Days of Treasure 2025 can be found on [https://www.thatskygame.com/news/a-bounty-awaits-in-days-of-treasure ThatSkyGame's Website].'''
+<references />
+
+[[fr:Jours de Trésor]]
+[[ja:宝探しの日々]]
+[[pt-br:Dias de Tesouro]]
+[[ru:Дни сокровищ]]
+[[zh:尋寶節]]
+
+[[Category:Events]]
+{{DEFAULTSORT:Treasure, Days of}}

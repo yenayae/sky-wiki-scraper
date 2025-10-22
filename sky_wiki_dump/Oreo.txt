@@ -1,0 +1,35 @@
+{{Spoilers}}
+{{Creature Infobox
+|title    = Oreo
+|type     = neutral
+|image    = Oreo.png
+}}
+<section begin="Summary" />'''Oreo''', also referred to as the '''Prairie Legend''' by the game's achievements, is a black-and-white dog that can only be summoned by seven players who possess the [[Butterfly Charmer|Butterfly Charmer's]] {{Emote|Butterfly Charmer|inline_text}} expression, in the area above the [[Daylight Prairie#Eight Player Puzzle|eight player puzzle]] in [[Daylight Prairie]]. <section end="Summary" />
+
+Seven players are needed to meditate at the little Shrine on top of the hill by using the [[Butterfly Charmer|Butterfly Charmer's]] {{Emote|Butterfly Charmer|inline_text}} expression to uncover a surprise. There are no rewards for successfully unlocking Oreo; it is for entertainment purposes only. Players are able to ride on Oreo's back while it frolics around.
+
+Oreo remains in the space until the player leaves or as long as players stays in the area. Players will have to unlock Oreo again by seven players in order to see it again at their next visit.  
+
+''Note: if someone has already summoned Oreo in your server for instance, any players teleporting to you will also see it. '' 
+==Gallery==
+<gallery>
+File:Oreo.jpg|Oreo at the area above the 8 player puzzle.
+File:Oreo-and-a-skykid.png|A player riding on Oreo's back
+</gallery>
+
+==Trivia==
+* The expression used to summon Oreo was [[Praying Acolyte|Praying Acolyte's]] {{Emote|Pray|inline_text}} expression. It was changed in {{v|0.6.0}}.
+* The Shrine used to also require 8 players to summon Oreo. It was changed in [[Update:Live 0.9.5 (150178)|0.9.5]]
+* Oreo is depicted in several merch items from [[That Sky Shop]]. To know more about That Sky Shop products, visit their website: https://thatskyshop.com
+* Oreo is actually a real-life dog, the pet to TGC's co-founder, Jenova Chen.
+<gallery>
+File:Oreo-in-real-life-1.jpg|The real Oreo
+File:Oreo-in-real-life-2.jpg|The real Oreo
+</gallery>
+
+[[fr:Oreo]]
+[[zh:奧利奧]]
+[[pt-br:Oreo]]
+[[ja:オレオ]]
+
+[[Category:Creatures]]

@@ -1,0 +1,414 @@
+{{SkyEvent
+| image = Days-of-Color-2024-Promo-image.png
+| previousevent = [[Days of Color/2023|2023]]
+| nextevent = [[Days of Color/2025|2025]]
+| date = June 14 to June 27, 2021
+| years = {{#lst:Days of Color|Color Years}}
+}}
+Days of Color returned for a fifth year! The event began on '''Monday, June 24, 2024 at 00:00 PDT (UTC-7)''' and continued until '''Sunday, July 7, 2024 at 23:59 PDT (UTC-7)''', lasting '''14''' days. The skies were filled with vibrant rainbows reflecting the diverse world we share! For the duration of the event, the Color Guide appeared in [[Home]] and [[Aviary Village]], offering to take players directly to the [[Eight-Player Puzzle Area]] in Daylight Prairie.
+
+Within this bright, spacious area floating above the clouds was a returning [[#Cape Color Categorization|rainbow puzzle]] that grew each day of the event. Completing the puzzle, by wearing the correct [[Cape]] colors, revealed a kaleidoscope of brilliant rainbows that formed a racetrack in the skies above—and a bit of extra [[Pieces of Light|Light]] to reward players efforts. Taking a dip in the magical geyser nearby gave a random Cape Spell, alongside a matching set of [[#Trail Spells|Color Trail]] and [[#Hair Tint Spells|Hair Tint Spells]].
+
+This year's event offered special [[IAP]]s, both new and returning, to support charity efforts dedicated to diversity, hope, and above all making the world more inclusive for everyone. A little more than half of the total list price for each item sold was donated to [https://www.thetrevorproject.org/ The Trevor Project]. For a more detailed breakdown of the numbers, see the event blog post on [https://www.thatskygame.com/news/soaring-together-in-days-of-color-2024/ ThatSkyGame's Website].
+{{#ev:youtube|P9ZhNC5Xg_U||right|Days of Color 2024 Trailer}}
+{{Clear}}
+
+===Ticket Locations===
+[[File:Days-of-Color-Rainbow-Ticket.png|125px|thumb|A Days of Color rainbow Ticket]]
+A total of {{Cost|5 T|event=color}} rainbow-shaped Tickets were available each day:
+
+*{{Cost|4 T|event=color}} hidden throughout the [[Eight-Player Puzzle Area]] in Daylight Prairie (see locations below)
+*{{Cost|1 T|event=color}} from completing the rainbow puzzle in the event area and ascending to the islands above
+{{Collapse
+|float= left
+|label= All Exact Ticket Locations
+|content=<u>'''Locations:'''</u>
+*'''1''' - Raised hills
+**A) {{Cost|1 T|event=color}} on the hills to the left, above the Cape [[Cosmetics#Outfit Shrines|Outfit Shrine]] and near some buried pots 
+**B) {{Cost|1 T|event=color}} on the hills to the right, near the circle of candles used to summon a [[Daylight Prairie#Oreo|special creature]]
+**C) {{Cost|1 T|event=color}} by the hills to the left, in front of the Cape Outfit Shrine 
+**D) {{Cost|1 T|event=color}} by the hills to the right, behind the yellow [[Butterfly Charmer]]
+**E) {{Cost|1 T|event=color}} by the hills to the left, behind the teal [[Pouty Porter]]
+
+*'''2''' - Center of the area
+**A) {{Cost|1 T|event=color}} near the elevator platform, on the pillar connected to the teal bridge of light
+**B) {{Cost|1 T|event=color}} near the elevator platform, on the pillar connected to the orange bridge of light
+**C) {{Cost|1 T|event=color}} in front of the portal gate, on the right ledge facing the elevator platform
+**D) {{Cost|1 T|event=color}} left of the portal gate, in front of the two Color Guide Spirits
+
+*'''3''' - Flat plains
+**A) {{Cost|1 T|event=color}} to the far right, between the portal gate and color geyser
+**B) {{Cost|1 T|event=color}} next to the two Color Guide Spirits, behind the portal gate
+**C) {{Cost|1 T|event=color}} to the far right, near some buried pots by the color geyser }}
+<br>
+
+Players could also buy additional Tickets (costing {{Cost|2 AC}} or {{Cost|6 C}} each) from the Color Gift Box found at both the event area and [[Aviary Village#Aviary Event Store|Aviary Event Store]].
+
+{| class="article-table mw-collapsible mw-collapsed" style="float:right; text-align:center;"
+! style="text-align:center" colspan="3" | '''Ticket Locations'''
+|-
+! '''Date'''
+! '''Rotations'''
+! '''Daily Total'''
+|-
+| June 24, 2024
+| 1A, 2A, 2C, 3A
+| {{Cost|{{#vardefineecho:D1|5}} T|event=color}}
+|-
+| June 25, 2024
+| 1A, 2A, 2C, 3A
+| {{Cost|{{#vardefineecho:D2|5}} T|event=color}}
+|-
+| June 26, 2024
+| 1A, 1B, 2B, 3B
+| {{Cost|{{#vardefineecho:D3|5}} T|event=color}}
+|-
+| June 27, 2024
+| 1B, 1C, 2B, 3B
+| {{Cost|{{#vardefineecho:D4|5}} T|event=color}}
+|-
+| June 28, 2024
+| 1B, 1C, 2B, 3B
+| {{Cost|{{#vardefineecho:D5|5}} T|event=color}}
+|-
+| June 29, 2024
+| 1C, 1D, 2D, 3C
+| {{Cost|{{#vardefineecho:D6|5}} T|event=color}}
+|-
+| June 30, 2024
+| 1D, 1E, 2D, 3C
+| {{Cost|{{#vardefineecho:D7|5}} T|event=color}}
+|-
+| July 1, 2024
+| 1D, 1E, 2D, 3C
+| {{Cost|{{#vardefineecho:D8|5}} T|event=color}}
+|-
+| July 2, 2024
+| 1E, 2A, 2C, 3A
+| {{Cost|{{#vardefineecho:D9|5}} T|event=color}}
+|-
+| July 3, 2024
+| 1E, 2A, 2C, 3A
+| {{Cost|{{#vardefineecho:D10|5}} T|event=color}}
+|-
+| July 4, 2024
+| 1A, 2A, 2C, 3A
+| {{Cost|{{#vardefineecho:D11|5}} T|event=color}}
+|-
+| June 5, 2024
+| 1A, 1B, 2B, 3B
+| {{Cost|{{#vardefineecho:D12|5}} T|event=color}}
+|-
+| July 6, 2024
+| 1A, 1B, 2A, 3B
+| {{Cost|{{#vardefineecho:D13|5}} T|event=color}}
+|-
+| July 7, 2024
+| 1B, 1C, 2B, 3B
+| {{Cost|{{#vardefineecho:D14|5}} T|event=color}}
+|-
+! colspan="2" style="text-align:center;" | '''Total so far'''
+! style="text-align:center;" | '''{{Cost|{{#expr: ({{#var:D1}} + {{#var:D2}} + {{#var:D3}} + {{#var:D4}} + {{#var:D5}} + {{#var:D6}} + {{#var:D7}} + {{#var:D8}} + {{#var:D9}} + {{#var:D10}} + {{#var:D11}} + {{#var:D12}} + {{#var:D13}} + {{#var:D14}}) }} T|event=color}}'''
+|}
+{{Friendship Tree
+|label  = Color Guide
+|event = Color
+|image = Days-of-Color-Guide-2024.png
+
+|nodeC4 = {{Icon Name|Rainbow Cape|icon}} 175 C
+|  labelC4 = {{Icon Name|Rainbow Cape|name}}
+|  linkC4  = Days of Color/2021#{{Icon Name|Rainbow Cape|name}}
+
+|nodeL3 = {{Icon Name|Rainbow Trousers|icon}} 95 C
+|  labelL3 = {{Icon Name|Rainbow Trousers|name}}
+|  linkL3  = Days of Color/2022#{{Icon Name|Rainbow Trousers|name}}
+|nodeC3 = trail_spell 5 C
+
+|nodeR2 = {{Icon Name|Rainbow Braid|icon}} 20 H
+|  labelR2 = {{Icon Name|Rainbow Braid|name}}
+|  linkR2  = Days of Color/2021#{{Icon Name|Rainbow Braid|name}}
+|nodeL2 = {{Icon Name|Dark Rainbow Cape|icon}} 177 C
+|  labelL2 = {{Icon Name|Dark Rainbow Cape|name}}
+|  linkL2  = Days of Color/2023#{{Icon Name|Dark Rainbow Cape|name}}
+|nodeC2 = trail_spell 5 C
+
+
+|nodeR1 = {{Icon Name|Color Glam Cut|icon}} 18 T
+|  labelR1 = {{Icon Name|Color Glam Cut|name}}
+|  linkR1  = Days of Color/2024#{{Icon Name|Color Glam Cut|name}}
+|nodeL1 = {{Icon Name|Dark Rainbow Mask|icon}} 32 T
+|  labelL1 = {{Icon Name|Dark Rainbow Mask|name}}
+|  linkL1  = Days of Color/2024#{{Icon Name|Dark Rainbow Mask|name}}
+|nodeC1 = trail_spell 5 C
+}}{{Clear}}
+
+===<big>All Available Collectibles in 2024</big>===
+{| class="article-table"
+!Name
+!Icon
+!Type
+!Cost
+!Location
+!Spell
+!Spell Cost & Locations
+|-
+! colspan="7" style="text-align:center;" |From Days of Color 2024
+|-
+|[[Days of Color/2024#{{Icon Name|Dark Rainbow Loafers|name}}|{{Icon Name|Dark Rainbow Loafers|name}}]] + {{Cost|75 C}}
+|{{Days Item|Dark Rainbow Loafers||link=Days of Color/2024#Dark Rainbow Loafers|table}}
+|[[Shoes]]
+|{{Cost|19.99 USD|refnote}}
+|<small>[[Premium Candle Shop]]</small>
+|{{Days Item|Dark Rainbow Loafers|spell|link=Days of Color/2024#Dark Rainbow Loafers|table}}<small>x2</small>
+|<small>Color Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] OR the [[Eight-Player Puzzle Area]] for free</small>
+|-
+|[[Days of Color/2024#{{Icon Name|Color Bubble Machine|name}}|{{Icon Name|Color Bubble Machine|name}}]]
+|{{Days Item|Color Bubble Machine||link=Days of Color/2024#Color Bubble Machine|table}}
+|[[Prop]]
+|{{Cost|14.99 USD|refnote}}
+|<small>[[Premium Candle Shop]]</small>
+|{{Days Item|Color Bubble Machine|spell|link=Days of Color/2024#Color Bubble Machine|table}}<small>x2</small>
+|<small>Color Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] OR the [[Eight-Player Puzzle Area]] for free</small>
+|-
+|[[Days of Color/2024#{{Icon Name|Color Glam Cut|name}}|{{Icon Name|Color Glam Cut|name}}]]
+|{{Days Item|Color Glam Cut||link=Days of Color/2024#Color Glam Cut|table}}
+|[[Hair]]
+|{{Cost|18 T|event=color}}
+|<small>Color Guide at [[Aviary Village#Aviary Event Store|Aviary]] OR the [[Eight-Player Puzzle Area]]</small>
+|{{Days Item|Color Glam Cut|spell|link=Days of Color/2024#Color Glam Cut|table}}<small>x2</small>
+|<small>Color Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] OR the [[Eight-Player Puzzle Area]] for free</small>
+|-
+|[[Days of Color/2024#{{Icon Name|Dark Rainbow Mask|name}}|{{Icon Name|Dark Rainbow Mask|name}}]]
+|{{Days Item|Dark Rainbow Mask||link=Days of Color/2024#Dark Rainbow Mask|table}}
+|[[Mask]]
+|{{Cost|32 T|event=color}}
+|<small>Color Guide at [[Aviary Village#Aviary Event Store|Aviary]] OR the [[Eight-Player Puzzle Area]]</small>
+|{{Days Item|Dark Rainbow Mask|spell|link=Days of Color/2024#Dark Rainbow Mask|table}}<small>x2</small>
+|<small>Color Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] OR the [[Eight-Player Puzzle Area]] for free</small>
+|-
+|[[Days of Color/2024#Hair Tint Spells|Hair Tint Spell]]
+|
+|[[Spell]]
+|Random for {{Cost|5 C}} or {{Cost|1 T|event=color}}
+|
+|[[File:Red-Hair-Tint-Spell.png|50px|table|link=Days of Color/2024#Hair Tint Spells|class=animate-rainbow|Hair Tint Spells]]<small>x2</small>
+|<small>Color Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] OR the [[Eight-Player Puzzle Area]]</small>
+|-
+|[[Days of Color/2024#Rainbow Glow Spell|Rainbow Glow Spell]]
+|
+|[[Spell]]
+|Free
+|
+|{{Icon|Spell - Days of rainbow spell.png|table|label=Rainbow Glow Spell|link=Days of Color/2024#Rainbow Glow Spell}}<small>x2</small>
+
+
+|<small>Color Gift Box at [[Aviary Village|Aviary]] OR the [[Eight-Player Puzzle Area]]<small>
+|-
+|[[Days of Feast#Medal Neck Accessory Spell|Medal Neck Accessory Spell]]
+|
+|[[Spell]]
+|
+|
+|{{Icon|Course-Medal-Neck-Accessory-Spell-icon-777-Ed.png|table|label=Medal Neck Accessory Spell|link=Days of Feast#Medal Neck Accessory Spell}}
+|<small>Not collectible; only available from the rainbow race above the [[Eight-Player Puzzle Area]] or the [[Days of Feast#Course Creation Prop|Course Creation Prop]]</small>
+|-
+! colspan="7" style="text-align:center;" |From Days of Color 2023
+|-
+|[[Days of Color/2023#{{Icon Name|Dark Rainbow Tunic|name}}|{{Icon Name|Dark Rainbow Tunic|name}}]]
+|{{Days Item|Dark Rainbow Tunic||link=Days of Color/2023#Dark Rainbow Tunic|table}}
+|[[Outfit]]
+|{{Cost|14.99 USD|refnote}}
+|<small>Color Guide at [[Aviary Village#Aviary Event Store|Aviary]] OR the [[Eight-Player Puzzle Area]]</small>
+|{{Days Item|Dark Rainbow Tunic|spell|link=Days of Color/2023#Dark Rainbow Tunic|table}}<small>x2</small>
+|<small>Color Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] OR the [[Eight-Player Puzzle Area]] for free</small>
+|-
+|[[Days of Color/2023#Dark Rainbow Pack|Dark Rainbow Pack]] + {{Cost|40 C}}
+|{{Days Item|Dark Rainbow Earrings||link=Days of Color/2023#Dark Rainbow Earrings|table}}
+|[[Head Accessory]] 
+|{{Cost|9.99 USD|refnote}}
+|<small>Color Guide at [[Aviary Village#Aviary Event Store|Aviary]] OR the [[Eight-Player Puzzle Area]]</small>
+|{{Days Item|Dark Rainbow Earrings|spell|link=Days of Color/2023#Dark Rainbow Earrings|table}}<small>x2</small>
+|<small>Color Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] OR the [[Eight-Player Puzzle Area]] for free</small>
+|-
+|[[Days of Color/2023#{{Icon Name|Dark Rainbow Cape|name}}|{{Icon Name|Dark Rainbow Cape|name}}]]
+|{{Days Item|Dark Rainbow Cape||link=Days of Color/2023#Dark Rainbow Cape|table}}
+|[[Cape]]
+|{{Cost|177 C}}
+|<small>Color Guide at [[Aviary Village#Aviary Event Store|Aviary]] OR the [[Eight-Player Puzzle Area]]</small>
+|{{Days Item|Dark Rainbow Cape|spell|link=Days of Color/2023#Dark Rainbow Cape|table}}<small>x2</small>
+|<small>Color Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] OR the [[Eight-Player Puzzle Area]] for free</small>
+|-
+! colspan="7" style="text-align:center;" |From Days of Rainbow 2022
+|-
+|[[Days of Color/2022#Double Rainbow Pack|Double Rainbow Pack]] + {{Cost|40 C}}
+|{{Days Item|Double Rainbow Flower||link=Days of Color/2022#Double Rainbow Pack|table}}
+|[[Hair Accessory]]
+|{{Cost| 9.99 USD|refnote}}
+|<small>Color Guide at [[Aviary Village#Aviary Event Store|Aviary]] OR the [[Eight-Player Puzzle Area]]</small>
+|{{Days Item|Double Rainbow Flower|spell|link=Days of Color/2022#Double Rainbow Pack|table}}<small>x2</small>
+|<small>Color Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] OR the [[Eight-Player Puzzle Area]] for free</small>
+|-
+|[[Days of Color/2022#{{Icon Name|Rainbow Earring|name}}|{{Icon Name|Rainbow Earring|name}}]]
+|{{Days Item|Rainbow Earring||link=Days of Color/2022#Rainbow Earring|table}}
+|[[Head Accessory]]
+|{{Cost| 2.99 USD|ref}}
+|<small>Color Guide at [[Aviary Village#Aviary Event Store|Aviary]] OR the [[Eight-Player Puzzle Area]]</small>
+|{{Days Item|Rainbow Earring|spell|link=Days of Color/2022#Rainbow Earring|table}}<small>x2</small>
+|<small>Color Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] OR the [[Eight-Player Puzzle Area]] for free</small>
+|-
+|[[Days of Color/2022#{{Icon Name|Rainbow Headphones|name}}|{{Icon Name|Rainbow Headphones|name}}]]
+|{{Days Item|Rainbow Headphones||link=Days of Color/2022#Rainbow Headphones|table}}
+|[[Head Accessory]]
+|{{Cost|9.99 USD|refnote}}
+|<small>Color Guide at [[Aviary Village#Aviary Event Store|Aviary]] OR the [[Eight-Player Puzzle Area]]</small>
+|{{Days Item|Rainbow Headphones|spell|link=Days of Color/2022#Rainbow Headphones|table}}<small>x2</small>
+|<small>Color Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] OR the [[Eight-Player Puzzle Area]] for free</small>
+|-
+|[[Days of Color/2022#{{Icon Name|Rainbow Trousers|name}}|{{Icon Name|Rainbow Trousers|name}}]]
+|{{Days Item|Rainbow Trousers||link=Days of Color/2022#Rainbow Trousers|table}}
+|[[Outfit]]
+|{{Cost| 95 C}}
+|<small>Color Guide at [[Aviary Village#Aviary Event Store|Aviary]] OR the [[Eight-Player Puzzle Area]]</small>
+|{{Days Item|Rainbow Trousers|spell|link=Days of Color/2022#Rainbow Trousers|table}}<small>x2</small>
+|<small>Color Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] OR the [[Eight-Player Puzzle Area]] for free</small>
+|-
+! colspan="7" style="text-align:center;" |From Days of Rainbow 2021
+|-
+|[[Days of Color/2021#{{Icon Name|Rainbow Beanie Hat|name}}|{{Icon Name|Rainbow Beanie Hat|name}}]]
+|{{Days Item|Rainbow Beanie Hat||link=Days of Color/2021#Rainbow Beanie Hat|table}}
+|[[Hair]]
+|{{Cost| 9.99 USD|ref}}
+|<small>Color Guide at [[Aviary Village#Aviary Event Store|Aviary]] OR the [[Eight-Player Puzzle Area]]</small>
+|{{Days Item|Rainbow Beanie Hat|spell|link=Days of Color/2021#Rainbow Beanie Hat|table}}<small>x2</small>
+|<small>Color Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] OR the [[Eight-Player Puzzle Area]] for free</small>
+|-
+|[[Days of Color/2021#Rainbow Pack|Rainbow Pack]] + {{Cost|75 C}}
+|{{Days Item|Rainbow Hair Flower||link=Days of Color/2021#Rainbow Pack|table}}
+|[[Hair Accessory]]
+|{{Cost|19.99 USD|refnote}}
+|<small>Color Guide at [[Aviary Village#Aviary Event Store|Aviary]] OR the [[Eight-Player Puzzle Area]]</small>
+|{{Days Item|Rainbow Hair Flower|spell|link=Days of Color/2021#Rainbow Pack|table}}<small>x2</small>
+|<small>Color Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] OR the [[Eight-Player Puzzle Area]] for free</small>
+|-
+|[[Days of Color/2021#{{Icon Name|Rainbow Braid|name}}|{{Icon Name|Rainbow Braid|name}}]]
+|{{Days Item|Rainbow Braid||link=Days of Color/2021#Rainbow Braid|table}}
+|[[Head Accessory]]
+|{{Cost| 20 H}}
+|<small>Color Guide at [[Aviary Village#Aviary Event Store|Aviary]] OR the [[Eight-Player Puzzle Area]]</small>
+|{{Days Item|Rainbow Braid|spell|link=Days of Color/2021#Rainbow Braid|table}}<small>x2</small>
+|<small>Color Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] OR the [[Eight-Player Puzzle Area]] for free</small>
+|-
+|[[Days of Color/2021#{{Icon Name|Rainbow Cape|name}}|{{Icon Name|Rainbow Cape|name}}]]
+|{{Days Item|Rainbow Cape||link=Days of Color/2021#Rainbow Cape|table}}
+|[[Cape]]
+|{{Cost| 175 C}}
+|<small>Color Guide at [[Aviary Village#Aviary Event Store|Aviary]] OR the [[Eight-Player Puzzle Area]]</small>
+|{{Days Item|Rainbow Cape|spell|link=Days of Color/2021#Rainbow Cape|table}}<small>x2</small>
+|<small>Color Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] OR the [[Eight-Player Puzzle Area]] for free</small>
+|-
+|[[Days of Color/2021#Trail Spells|Trail Spell]]
+| 
+|[[Spell]]
+|<small>Random for {{Cost|5 C}} or {{Cost|1 T|event=color}}</small>
+|
+|{{Icon|Rainbow-flight-trail-spell.png|table|label=Random Color Trail Spell|link=Days of Color/2021#Trail Spells}}<small>x2</small>
+|<small>Color Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] OR the [[Eight-Player Puzzle Area]]</small>
+|-
+! colspan="7" style="text-align:center;" |From Days of Rainbow 2020
+|-
+|[[Days of Color/2020#Rainbow Spell|Rainbow Spell]]
+| 
+|[[Spell]]
+|<small>{{Cost|1 T|event=color}} and free</small>
+|
+|{{Icon|Spell - Days of rainbow spell.png|table|label=Rainbow Spell|link=Days of Color/2020#Rainbow Spell}}<small>x2</small>
+|<small>Color Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] OR the [[Eight-Player Puzzle Area]]</small>
+|}
+
+===2024 New Cosmetics and Props===
+====Dark Rainbow Loafers====
+::'''''"Bring a splash of color with every step."'''''
+The Dark Rainbow Loafers contains two items: the Dark Rainbow Loafers and {{Cost|75 C}}. The Dark Rainbow Loafers are black with a blue diamond on the tongue and vibrant rainbow stripes on the soles. These [[Shoes]] were introduced in 2024 and were available for {{Cost|19.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Dark Rainbow Loafers|iap}} {{!}} {{Icon Name|Dark Rainbow Loafers|name}} IAP
+{{Icon Name|Dark Rainbow Loafers}} {{!}} {{Icon Name|Dark Rainbow Loafers|name}} icon
+{{Icon Name|Dark Rainbow Loafers|real}} {{!}} {{Icon Name|Dark Rainbow Loafers|name}}
+Dark-Rainbow-Loafers-Sole.png {{!}} {{Icon Name|Dark Rainbow Loafers|name}}'s sole 
+{{Icon Name|Dark Rainbow Loafers|spell}} {{!}} {{Icon Name|Dark Rainbow Loafers|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Color Bubble Machine====
+::'''''"Watch the bubbles react to the color of your cape!"'''''
+The Color Bubble Machine is a small stone pot with an engraved bubble symbol that sits tilted on its side and has vibrant rainbow stripes around its neck. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]]. When activated, it produces bubbles that change colors to match the [[Cape]] of any nearby players. Several different bubble colors are able to be produced at the same time. This Prop was introduced in 2024 and was available for {{Cost|14.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Color Bubble Machine|iap}} {{!}} {{Icon Name|Color Bubble Machine|name}} IAP
+{{Icon Name|Color Bubble Machine}} {{!}} {{Icon Name|Color Bubble Machine|name}} icon
+{{Icon Name|Color Bubble Machine|real}} {{!}} {{Icon Name|Color Bubble Machine|name}}
+{{Icon Name|Color Bubble Machine|back}} {{!}} {{Icon Name|Color Bubble Machine|name}} on a player's back
+{{Icon Name|Color Bubble Machine|spell}} {{!}} {{Icon Name|Color Bubble Machine|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Color Glam Cut====
+The Color Glam Cut is a slicked back pompadour that curls outwards near the nape. This [[Hair]] was introduced in 2024 and was available for {{Cost|18 T|event=color}} from the Color Guide at [[Aviary Village#Aviary Event Store|Aviary Village]] and the [[Eight-Player Puzzle Area]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Color Glam Cut}} {{!}} {{Icon Name|Color Glam Cut|name}} icon
+{{Icon Name|Color Glam Cut|real}} {{!}} {{Icon Name|Color Glam Cut|name}} front
+{{Icon Name|Color Glam Cut|side}} {{!}} {{Icon Name|Color Glam Cut|name}} side
+{{Icon Name|Color Glam Cut|back}} {{!}} {{Icon Name|Color Glam Cut|name}} back
+{{Icon Name|Color Glam Cut|spell}} {{!}} {{Icon Name|Color Glam Cut|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Dark Rainbow Mask====
+The Dark Rainbow Mask is round and black, featuring a four-pointed star over the left eye with a vibrant rainbow trailing behind it. This [[Mask]] was introduced in 2024 and was available for {{Cost|32 T|event=color}} from the Color Guide at [[Aviary Village#Aviary Event Store|Aviary Village]] and the [[Eight-Player Puzzle Area]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Dark Rainbow Mask}} {{!}} {{Icon Name|Dark Rainbow Mask|name}} icon
+{{Icon Name|Dark Rainbow Mask|real}} {{!}} {{Icon Name|Dark Rainbow Mask|name}}
+{{Icon Name|Dark Rainbow Mask|spell}} {{!}} {{Icon Name|Dark Rainbow Mask|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+===2024 New Spells===
+====Hair Tint Spells====
+Hair Tint Spells temporarily tint the player's [[Hair]] with different colored dyes for 1 hour. This effect is applied to ''all'' parts of a Hair, including things such as hats, hairbands, accessories, and existing streaks of color. There are 12 different Hair Tint Spells, including the Rainbow Hair Tint Spell. Unlike [[#Trail Spells|Trail Spells]], all versions of the Hair Tint Spell have the same 60-minute (1 hour) duration. These [[Spells]] were introduced in 2024 and were available at random for either {{Cost|5 C}} or {{Cost|1 T|event=color}} from the Color Gift Box at [[Aviary Village#Aviary Event Store|Aviary Village]] and the [[Eight-Player Puzzle Area]] for the duration of the event.
+
+A random Hair Tint Spell (either red, orange, yellow, green, cyan, blue, purple, or pink) could also be instantly applied to the player by taking a dip in the special color geyser in the Eight-Player Puzzle Area during the event.<br>
+<br>
+<div class="animate-rainbow" style="float: left;"><gallery spacing="small" widths="60" captionalign="center">
+Red-Hair-Tint-Spell.png|Rainbow
+</gallery></div>
+<gallery spacing="small" widths="60" captionalign="center">
+Red-Hair-Tint-Spell.png|Red
+Orange-Hair-Tint-Spell.png|Orange
+Yellow-Hair-Tint-Spell.png|Yellow
+Light-Green-Hair-Tint-Spell.png|Light Green
+Green-Hair-Tint-Spell.png|Green
+Teal-Hair-Tint-Spell.png|Cyan
+Blue-Hair-Tint-Spell.png|Blue
+Purple-Hair-Tint-Spell.png|Purple
+Magenta-Hair-Tint-Spell.png|Magenta
+Pink-Hair-Tint-Spell.png|Pink
+Black-Hair-Tint-Spell.png|Black
+</gallery>
+
+====Rainbow Glow Spell====
+{{Distinguish|Rainbow Spell}}
+[[File:Spell - Days of rainbow spell.png|left|frameless|80x80px]]
+The Rainbow Glow Spell temporarily gives the player a vibrant, shifting rainbow glow for 30 minutes. This [[Spell]] was introduced in 2024 and was available for free from the Color Gift Box at [[Aviary Village#Aviary Event Store|Aviary Village]] and the [[Eight-Player Puzzle Area]] for the duration of the event.
+
+Although this Spell first appeared as a collectible during Days of Color 2024, the same rainbow glow effect was initially seen during the event in [[#2023|2023]], where it automatically applied to players after they completed the rainbow puzzle and ascended to the islands above the Eight-Player Puzzle Area.
+
+==References==
+'''More information about Days of Color 2024 can be found on [https://www.thatskygame.com/news/soaring-together-in-days-of-color-2024 ThatSkyGame's Website].'''
+<references />
+
+{{#lst:Days of Color|Color Navbox}}
+
+[[fr:Jours des Couleurs 2024]]
+[[ja:彩なす日々/2024]]

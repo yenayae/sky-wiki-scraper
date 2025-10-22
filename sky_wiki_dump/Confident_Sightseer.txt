@@ -1,0 +1,93 @@
+{{Spirit Infobox
+|type      = Regular
+|emote_type= Stance
+|image     = <gallery>
+Valley-Spirit-Confident-Sightseer.png|Standard
+Valley-Spirit-Confident-Sightseer-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Outfit|infobox}}{{Spirit Item||Hair|infobox}}
+|realm     = Valley of Triumph
+|location  = Ice Rink
+}}
+<section begin="Summary" />The '''Confident Sightseer''' is a [[Regular Spirit]] in [[Valley of Triumph]] who offers the {{Emote|Confident Sightseer|inline_text}}. The Confident Sightseer is found on a ledge high above the [[Ice Rink]], directly to the right of the entrance from Valley's [[Valley of Triumph#Social Space and Slide|Social Space]]. The collectibles [[Confident Sightseer#Friendship Tree|offered]] by this Spirit are an {{Spirit Item|Confident Sightseer|Outfit|inline_text}} and a {{Spirit Item|Confident Sightseer|Hair|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Confident-Sightseer-Guide-777-Ed.png|320x320px|thumb|none|Image Guide by 777.Ed]]
+
+== Memory ==
+<div>{{#ev:youtube|https://www.youtube.com/watch?v=-sVP-uZXkaI|||Video Guide by Tara||start=70&end=186&loop=1}}
+<br>
+The Confident Sightseer can be found on a ledge high above the [[Ice Rink]], directly to the right of the entrance from Valley's [[Valley of Triumph#Social Space|Social Space]]. This Spirit is a [[Standard Memory|standard memory]] quest with 4 memory fragments and an unlimited overall [[Timed Memory|time limit]].
+
+Players with few [[Winged Light|Winged Lights]] can approach this ledge directly from the slide into the Ice Rink - simply slow down to walk for the last section and use the thin ledge to the right of the slide's end. Alternatively, players can use the momentum of the slide to launch into flight and steer towards the cliff.
+
+As their memory unfolds, the Confident Sightseer is seen helping a young Spirit climb the tall ledges along the sides of the Ice Rink. They encourage their small companion to cross the thin arch that stretches between a gap in the cliff before stopping to admire the dazzling view that awaits them at their final destination.
+
+At the end of the memory, the young Spirit sits to play in the sand as the Confident Sightseer stands nearby, still admiring the view. They then turn to call the young Spirit over, holding their arms out to pick up them up in a hug. The Confident Sightseer lifts the young Spirit onto their shoulders and turns to face the Ice Rink, taking in the golden landscape that stretches before them.<br>
+<br>
+[[File:03 VT Spirit - Confident Sightseer.jpg|200px|thumb|none|Relive the Confident Sightseer's memory]]
+</div>
+{{Clear}}
+
+== <span id="Expression">Stance</span> ==
+The Confident Sightseer offers the {{Emote||inline_text}}, which will give your avatar a confident look, with their legs held apart and their hands on their waist. The Stance will affect your avatar's position when standing, kneeling, sitting, and lying down.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Emote}}
+Confident-Sightseer-confident-stance-emote.gif {{!}} {{Icon Name||emote_name}} 
+Confident-Sightseer-Stance-Standing.png {{!}} {{Icon Name||emote_name}} (Standing)
+Confident-Sightseer-Stance-Kneeling.png {{!}} {{Icon Name||emote_name}} (Kneeling)
+Confident-Sightseer-Stance-Sitting.png {{!}} {{Icon Name||emote_name}} (Sitting)
+Confident-Sightseer-Stance-Lying-Down.png {{!}} {{Icon Name||emote_name}} (Lying down)
+|heights=160px|captionalign=center|spacing=small
+}}
+
+* Standing will make your avatar place their feet shoulder-width apart and rest their hands on their waist, elbows pointing straight out.
+* Kneeling will make your avatar sit on their knees with their hands on their waist, elbows pointing straight out.
+* Sitting will make your avatar sit, leaning back on their hands with their legs splayed out.
+* Lying down will make your avatar lay flat on their back with their hands behind their head, eyes closed.
+
+== Cosmetics ==
+=== Outfit ===
+The [[Outfit]] offered by this Spirit is a beige half-sleeve top with matching baggy pants that cover the feet, costing {{Cost|5 H}}. Is it permanently available to all players after unlocking the Spirit's [[Wing Buff]] and the Friendship Tree's fourth node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Outfit}} {{!}} The Outfit icon
+{{Icon Name||Outfit|real}} {{!}} The Outfit front
+{{Icon Name||Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Hair ===
+The [[Hair]] offered by this Spirit is a flared bob, costing {{Cost|2 H}}. It is permanently available to all players after unlocking the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair front
+{{Icon Name||Hair|side}} {{!}} The Hair side
+{{Icon Name||Hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Friendship Tree ==
+{{Friendship Tree Info | regular}}
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Confident Sightseer
+|image  = Valley-Spirit-Confident-Sightseer.png
+
+|nodeC5 = outfit 5 H
+|nodeC4 = spell5
+|nodeC3 = wing 2 AC
+|nodeL2 = heart
+|nodeC2 = spell1
+|nodeL1 = hair 2 H
+|nodeC1 = emote
+}}<section end="Friendship Tree" />
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Emote Loc Hands on Hips Stance.png
+</gallery>
+
+[[de:Selbstbewusster Tourist]]
+[[pt-br:Turista Confidente]]
+[[fr:Touriste confident]]

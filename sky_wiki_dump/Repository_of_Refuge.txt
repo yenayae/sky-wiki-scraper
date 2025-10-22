@@ -1,0 +1,82 @@
+{{Location
+|image      = Repository-of-Refuge.jpg
+|realm      = Vault of Knowledge
+|access     = [[Vault of Knowledge#First Floor|First Floor]]
+|season     = Remembrance
+|seasonal_spirits  = {{Spirit Group|Remembrance|format=infobox}}
+|children_of_light = 1 {{Icon|Map-Shrine-flashing-Star-WL-indicator.png|link=Children of Light#{{{title|{{PAGENAME}}}}}}}
+|pieces_of_light   = 31 {{Cost|L}}
+|map        = Vault_of_Knowledge_-_Repository_of_Refuge_Map_by_sky_solsuga.jpg
+|mapcaption = Repository of Refuge Map by @sky_solsuga
+}}
+<section begin="Quote" />{{Quote|<br>'''''Where the past meets the present.'''''|Repository of Refuge Opening}}<section end="Quote" />
+<section begin="Summary" />The '''Repository of Refuge''' is a seasonal area added to [[Vault]], introduced along with the [[Season of Remembrance]] in Patch {{v|0.20.0}} All the quests, spirits, and activities can be found in this area. To enter the Repository of Refuge, head to the First Floor of Vault and turn left, where a staircase next to a Bloom Sapling can be found. Entry is blocked by a Spirit Gate requiring 1 Vault Regular Spirit to have been relived. In the Repository of Refuge, help the 4 Spirits with their grievances so they may rest peacefully.<section end="Summary" />
+__TOC__
+{{Clear}}
+==Overview==
+[[File:Directions to repository.gif|alt|300px|thumb|How to reach Repository of Refuge]]
+The Repository of Refuge sits in a forlorn corner within the Vault of Knowledge. As you descend the steps, you enter an old repository that serves as the home for the 4 Remembrance Spirits. The broken archive is surrounded by many floating platforms in an endless night where a lone manta invites players to take a ride in the starry night. Piles of crumbling diamonds scatter the area, with the [[Remembrance Guide]] standing in the middle under a tent. The Guide gives the player 10 quests each entailing a task from the Spirits to do various deeds in order to satisfy their needs. In the area surrounding the Guide are 6 Seasonal Spirits, which upon completing, will give you their unique [[Expression]].
+
+===Child of Light Locations===
+There are a total of '''1''' [[Children of Light#Repository of Refuge|Children of Light]] in the area.
+{{#lst:Children of Light|RepositoryRefuge Children}}
+
+===Spirits in the Repository of Refuge===
+The Repository of Refuge holds 4 [[Seasonal Spirits]] ({{Emote|Bereft Veteran}}[[Bereft Veteran]],{{Emote|Tiptoeing Tea-Brewer}}[[Tiptoeing Tea-Brewer]],{{Emote|Pleading Child}}[[Pleading Child]],{{Emote|Wounded Warrior}}[[Wounded Warrior]]).
+<section begin="SpiritTabber" />{{Mobile Tabber 
+|tab1 = {{Emote|Bereft Veteran|tab}}
+|c1   = <div> <br>{{#ev:youtube|zVVzjA1x4S0|400|right}} {{#lst:Bereft Veteran|Summary}} {{#if: {{#lst:Bereft Veteran|TS Friendship Tree}} | {{#lst:Bereft Veteran|TS Friendship Tree}} | {{#lst:Bereft Veteran|Season Friendship Tree}} }} </div>
+|type1= seasonal
+
+|tab2 = {{Emote|Tiptoeing Tea-Brewer|tab}}
+|c2   = <div> <br>{{#ev:youtube|Bn-OBKVySX8|400|right}} {{#lst:Tiptoeing Tea-Brewer|Summary}} {{#if: {{#lst:Tiptoeing Tea-Brewer|TS Friendship Tree}} | {{#lst:Tiptoeing Tea-Brewer|TS Friendship Tree}} | {{#lst:Tiptoeing Tea-Brewer|Season Friendship Tree}} }} </div>
+|type2= seasonal 
+
+|tab3 = {{Emote|Pleading Child|tab}}
+|c3   = <div> <br>{{#ev:youtube|78M5OvlyGBE|400|right}} {{#lst:Pleading Child|Summary}} {{#if: {{#lst:Pleading Child|TS Friendship Tree}} | {{#lst:Pleading Child|TS Friendship Tree}} | {{#lst:Pleading Child|Season Friendship Tree}} }} </div>
+|type3= seasonal 
+
+|tab4 = {{Emote|Wounded Warrior|tab}}
+|c4   = <div> <br>{{#ev:youtube|IfokV7jUPZ4|400|right}} {{#lst:Wounded Warrior|Summary}} {{#if: {{#lst:Wounded Warrior|TS Friendship Tree}} | {{#lst:Wounded Warrior|TS Friendship Tree}} | {{#lst:Wounded Warrior|Season Friendship Tree}} }} </div>
+|type4= seasonal 
+}}<section end="SpiritTabber" />
+
+==Activities==
+===Remembrance Quests===
+<div style="float:right">{{Mobile Tabber|textonly=1
+|tab1  = 1+2
+|c1    = <div> {{#ev:youtube|8shKpNcCAqo|300|right}} </div>
+|tab2  = 3+4
+|c2    = <div> {{#ev:youtube|Rh3iMgU8ibk|300|right}} </div>
+|tab3  = 5+6
+|c3    = <div> {{#ev:youtube|sSZe3Q_U5Ws|300|right}} </div>
+|tab4  = 7+8
+|c4    = <div> {{#ev:youtube|F9J_u-ubxxs|300|right}} </div>
+|tab5  = 9+10
+|c5    = <div> {{#ev:youtube|92p13nfcmtE|300|right}} </div>
+}}</div>
+In the Repository of Refuge players are able to do Seasonal Quests from [[Season of Remembrance]], a series of tasks entailing the player to create various pleasing Shared Spaces. There are 10 quests, each given by the 4 Remembrance Spirits. Every time you put down an object in the Shared Space, the Spirit will nod in approval or denies in disapproval. Continue until they are completely satisfied.
+{{Clear}}
+
+<!--
+==Gallery==
+<gallery widths="225" spacing="small" captionalign="center" hideaddbutton="true" mode="nolines">
+En-credit-1.jpg
+En-credit-1.jpg
+En-credit-1.jpg
+</gallery>
+
+==Trivia==
+......
+-->
+==References==
+<references />
+
+{{RealmsNav}}
+
+[[fr:Dépôt du Refuge]]
+[[de:Archiv der Zuflucht]]
+[[pt-br:Repositório do Refúgio]]
+[[ja:君憶う保存庫]]
+
+[[Category:Vault of Knowledge]]

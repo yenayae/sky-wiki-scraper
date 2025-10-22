@@ -1,0 +1,305 @@
+__FORCETOC__
+{{SkyEvent
+|image= Sky-×-Cinnamoroll-Pop-Up-Cafe-Promo-image.png
+|date= April 27 to May 17, 2024
+}}
+<section begin="Summary" />A village isn't complete without a cafe, and it's finally time to open one in Sky. From '''Saturday, April 27, 2024 at 00:00 PDT (UTC-7)''' until '''Friday, May 17, 2024 at 23:59 PDT (UTC-7)''', join the collaboration event for the grand opening of [[Aviary Village]]’s new cafe, featuring the beloved [[wp:Sanrio|Sanrio]] character [[wp:Cinnamoroll|Cinnamoroll]]! This shy but friendly pooch knows a thing or two about cafes, and he’ll be in Aviary Village for a special three-week celebration welcoming Sky Kids to the newest gathering place in the kingdom.<section end="Summary" /><br>
+<br>
+{{#ev:youtube|ZqTok6iEpNc||inline|Sky × Cinnamoroll Pop-Up Cafe Trailer}}
+<br>
+Fly over to Aviary to help the [[Tiptoeing Tea-Brewer]] mark the grand opening of the cafe with a friendly visitor—none other than Cinnamoroll himself. This friendly puppy once had a life in the clouds—not unlike Sky Children. Complete themed [[Daily Quests]] as Cinnamoroll explores the area, pose and take some fabulous photos with him, take snapshots with the colorful decor, and of course, stop by the cafe counter to try some of the freshly baked [[Pieces of Light|Light]] pastries that Tiptoeing Tea-Brewer will be preparing for everyone at the start of every hour for 15 minutes.<br>
+<br>
+<gallery widths="150" spacing="small" captionalign="center" position="center">
+Sky-×-Cinnamoroll-Pop-Up-Cafe-Aviary-Portal-Decorations.png|Aviary Village Portal Decorations
+Sky-×-Cinnamoroll-Pop-Up-Cafe-Main-Entrance-Decorations.png|Cafe Main Entrance Decorations
+Sky-×-Cinnamoroll-Pop-Up-Cafe-Back-Entrance-Decorations.png|Cafe Back Entrance Decorations
+Sky-×-Cinnamoroll-Pop-Up-Cafe-Interior-Stage-Decorations.png|Cafe Interior Stage Decorations
+Sky-×-Cinnamoroll-Pop-Up-Cafe-Interior-Kitchen-Decorations.png|Cafe Interior Kitchen Decorations
+</gallery>
+<br>
+Although the grand opening celebration will come to an end, the cafe will permanently remain open in Aviary as a place for anyone to request or offer help! Interested in advice for navigating the [[Season of Prophecy#The Trial of Fire|Trial of Fire]]? Hoping to guide someone past the [[Dark Dragons]] in [[Wasteland]]? Looking simply for someone to do Daily Quests with? Or maybe some help for the [[Eye of Eden]]? You may find just the person to team up with while waiting for your order at the cafe.
+
+<small>The Sky × Cinnamoroll Pop-Up Cafe was available to all players who have progressed to at least Daylight Prairie.</small><br>
+<br>
+<gallery widths="200px" captionalign="center" position="center">
+Sky-×-Cinnamoroll-Pop-Up-Cafe-Guide-mimi4117-sam6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & mimi4117
+Sky-×-Cinnamoroll-Pop-Up-Cafe-IAPs-mimi4117-sam6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & mimi4117
+Sky-×-Cinnamoroll-Pop-Up-Cafe-IGCs-mimi4117-sam6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & mimi4117
+Sky-×-Cinnamoroll-Pop-Up-Cafe-Plushie-mimi4117-sam6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & mimi4117
+</gallery>
+{{Clear}}
+
+==Ticket Locations==
+[[File:Cinnamoroll-Pop-Up-Cafe-Cinnamon-Roll-Ticket.png|125px|thumb|A Sky × Cinnamoroll Pop-Up Cafe cinnamon roll Ticket]]
+A total of {{Cost|5 T|event=Cinnamoroll}} cinnamon roll-shaped Tickets were available each day:
+
+*{{Cost|1 T|event=Cinnamoroll}} from completing a Cinnamoroll themed [[Daily Quest]]
+*{{Cost|1 T|event=Cinnamoroll}} from taking a seat at the cafe to put in an order
+*{{Cost|3 T|event=Cinnamoroll}} from taking pictures at the cafe with Cinnamoroll
+
+Players could also buy additional Tickets (costing {{Cost|2 AC}} each) from the left side of the counter in the [[Aviary Village#Aviary Village Cafe|Aviary Village Cafe]].
+
+{| class="article-table mw-collapsible" style="float:center; text-align:center;"
+! style="text-align:center" colspan="3" | '''Ticket Rotations'''
+|-
+! '''Date'''
+! style="text-align:center"|'''Themed Daily Quest'''
+! '''Daily Total'''
+|-
+| April 27, 2024
+| Meet Cinnamoroll on a hill in [[Aviary Village]].
+| {{Cost|{{#vardefineecho:D1|5}} T|event=cinnamoroll}}
+|-
+| April 28, 2024
+| Smell flowers with Cinnamoroll in [[Aviary Village]].
+| {{Cost|{{#vardefineecho:D2|5}} T|event=cinnamoroll}}
+|-
+| April 29, 2024
+| Find Cinnamoroll peeking around [[Aviary Village]].
+| {{Cost|{{#vardefineecho:D3|5}} T|event=cinnamoroll}}
+|-
+| April 30, 2024
+| Wake up Cinnamoroll in [[Aviary Village]].
+| {{Cost|{{#vardefineecho:D4|5}} T|event=cinnamoroll}}
+|-
+| May 1, 2024
+| Fly up to the tower with Cinnamoroll in [[Aviary Village]].
+| {{Cost|{{#vardefineecho:D5|4}} T|event=cinnamoroll}}<ref name="Themed Daily Bug">Due to a bug, the themed Daily Quest on May 1, 2024 granted players [[Pieces of Light]] instead of a Ticket. This reduced the daily total number of collectible Tickets from 5 to 4.</ref>
+|-
+| May 2, 2024
+| Splash in the water with Cinnamoroll in [[Aviary Village]].
+| {{Cost|{{#vardefineecho:D6|5}} T|event=cinnamoroll}}
+|-
+| May 3, 2024
+| Meet Cinnamoroll on a hill in [[Aviary Village]].
+| {{Cost|{{#vardefineecho:D7|5}} T|event=cinnamoroll}}
+|-
+| May 4, 2024
+| Smell flowers with Cinnamoroll in [[Aviary Village]].
+| {{Cost|{{#vardefineecho:D8|5}} T|event=cinnamoroll}}
+|-
+| May 5, 2024
+| Find Cinnamoroll peeking around [[Aviary Village]].
+| {{Cost|{{#vardefineecho:D9|5}} T|event=cinnamoroll}}
+|-
+| May 6, 2024
+| Wake up Cinnamoroll in [[Aviary Village]].
+| {{Cost|{{#vardefineecho:D10|5}} T|event=cinnamoroll}}
+|-
+| May 7, 2024
+| Splash in the water with Cinnamoroll in [[Aviary Village]].
+| {{Cost|{{#vardefineecho:D11|5}} T|event=cinnamoroll}}
+|-
+| May 8, 2024
+| Meet Cinnamoroll on a hill in [[Aviary Village]].
+| {{Cost|{{#vardefineecho:D12|5}} T|event=cinnamoroll}}
+|-
+| May 9, 2024
+| Smell flowers with Cinnamoroll in [[Aviary Village]].
+| {{Cost|{{#vardefineecho:D13|5}} T|event=cinnamoroll}}
+|-
+| May 10, 2024
+| Find Cinnamoroll peeking around [[Aviary Village]].
+| {{Cost|{{#vardefineecho:D14|5}} T|event=cinnamoroll}}
+|-
+| May 11, 2024
+| Wake up Cinnamoroll in [[Aviary Village]].
+| {{Cost|{{#vardefineecho:D15|5}} T|event=cinnamoroll}}
+|-
+| May 12, 2024
+| Splash in the water with Cinnamoroll in [[Aviary Village]].
+| {{Cost|{{#vardefineecho:D16|5}} T|event=cinnamoroll}}
+|-
+| May 13, 2024
+| Meet Cinnamoroll on a hill in [[Aviary Village]].
+| {{Cost|{{#vardefineecho:D17|5}} T|event=cinnamoroll}}
+|-
+| May 14, 2024
+| Smell flowers with Cinnamoroll in [[Aviary Village]].
+| {{Cost|{{#vardefineecho:D18|5}} T|event=cinnamoroll}}
+|-
+| May 15, 2024
+| Find Cinnamoroll peeking around [[Aviary Village]].
+| {{Cost|{{#vardefineecho:D19|5}} T|event=cinnamoroll}}
+|-
+| May 16, 2024
+| Wake up Cinnamoroll in [[Aviary Village]].
+| {{Cost|{{#vardefineecho:D20|5}} T|event=cinnamoroll}}
+|-
+| May 17, 2024
+| Splash in the water with Cinnamoroll in [[Aviary Village]].
+| {{Cost|{{#vardefineecho:D21|5}} T|event=cinnamoroll}}
+|-
+! colspan="2" style="text-align:center;" | '''Total'''
+! style="text-align:center;" | '''{{Cost|{{#expr: ({{#var:D1}} + {{#var:D2}} + {{#var:D3}} + {{#var:D4}} + {{#var:D5}} + {{#var:D6}} + {{#var:D7}} + {{#var:D8}} + {{#var:D9}} + {{#var:D10}} + {{#var:D11}} + {{#var:D12}} + {{#var:D13}} + {{#var:D14}} + {{#var:D15}} + {{#var:D16}} + {{#var:D17}} + {{#var:D18}} + {{#var:D19}} + {{#var:D20}} + {{#var:D21}}) }} T|event=cinnamoroll}}'''
+|}
+{{Clear}}
+
+==<big>All Available Collectibles</big>==
+{| class="article-table"
+|+'''<big>Sky × Cinnamoroll Pop-Up Cafe Collectibles</big>'''
+!'''Name'''
+!'''Icon'''
+!'''Type'''
+!'''Cost'''
+!'''Location'''
+! colspan="2" | '''Spell'''
+|-
+| [[Sky × Cinnamoroll Pop-Up Cafe#{{Icon Name|Cinnamoroll Mini Companion|name}}|{{Icon Name|Cinnamoroll Mini Companion|name}}]]
+| {{Days Item|Cinnamoroll Mini Companion||table}}
+| [[Hair Accessory]]
+| {{Cost|6.99 USD|refnote}}
+| <small>[[Premium Candle Shop]]</small>
+| <small>Not Available</small>
+|
+|-
+| rowspan="2" |[[Sky × Cinnamoroll Pop-Up Cafe#Cinnamoroll Pop-Up Cafe Bowtie and Cloud Cape|Cinnamoroll Pop-Up Cafe Bowtie and Cloud Cape]]
+| {{Days Item|Cinnamoroll Bowtie||table}}
+| [[Neck Accessory]]
+| rowspan="2" |{{Cost| 14.99 USD|refnote}}
+| rowspan="2" | <small>[[Premium Candle Shop]]</small>
+| rowspan="2" | <small>Not Available</small>
+|-
+| {{Days Item|Cloud Cape||table}}
+| [[Cape]]
+|
+|-
+| rowspan="2" |[[Sky × Cinnamoroll Pop-Up Cafe#Cinnamoroll Pop-Up Cafe Combo|Cinnamoroll Pop-Up Cafe Combo]]
+| {{Days Item|Cinnamoroll Swirled Hairstyle||table}}
+| [[Hair]]
+| rowspan="2" |{{Cost| 14.99 USD|refnote}}
+| rowspan="2" | <small>[[Premium Candle Shop]]</small>
+| rowspan="2" | <small>Not Available</small>
+|-
+| {{Days Item| Cinnamoroll Ears||table}}
+| [[Hair Accessory]]
+|
+|-
+| [[Sky × Cinnamoroll Pop-Up Cafe#{{Icon Name|Cinnamoroll Plushie|name}}|{{Icon Name|Cinnamoroll Plushie|name}}]]
+| {{Days Item|Cinnamoroll Plushie||table}}
+| [[Prop]]
+| {{Cost| 14.99 USD|refnote}}
+| <small>[[Premium Candle Shop]]</small>
+| <small>Not Available</small>
+|
+|-
+| [[Sky × Cinnamoroll Pop-Up Cafe#{{Icon Name|Cozy Teacup Headband|name}}|{{Icon Name|Cozy Teacup Headband|name}}]]
+| {{Days Item|Cozy Teacup Headband||table}}
+| [[Hair Accessory]]
+| {{Cost|22 T|event=Cinnamoroll}}
+| <small>Cinnamoroll Gift Box at [[Aviary Village#Aviary Village Cafe|Aviary Village Cafe]]</small>
+| <small>Not Available</small>
+|
+|-
+| [[Sky × Cinnamoroll Pop-Up Cafe#{{Icon Name|Cozy Cafe Table|name}}|{{Icon Name|Cozy Cafe Table|name}}]]
+| {{Days Item|Cozy Cafe Table||table}}
+| [[Prop]]
+| {{Cost|52 T|event=Cinnamoroll}}
+| <small>Cinnamoroll Gift Box at [[Aviary Village#Aviary Village Cafe|Aviary Village Cafe]]</small>
+| <small>Not Available</small>
+|
+|}
+
+==New Cosmetics and Props==
+===Cinnamoroll Pop-Up Cafe Mini Companion===
+::'''''"Preciously perched upon your head to accompany your adventures."'''''
+The Cinnamoroll Pop-Up Cafe Mini Companion is a miniature Cinnamoroll that lays belly-down on top of the player's head. This [[Hair Accessory]] was introduced in 2024 and was available for {{Cost|6.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event. <small>(Since this item is part of a limited collaboration, it is not scheduled to return in future years and free trial [[Spells]] were not available.)</small><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Cinnamoroll Mini Companion|iap}} {{!}} {{Icon Name|Cinnamoroll Mini Companion|name}} IAP
+{{Icon Name|Cinnamoroll Mini Companion|icon}} {{!}} {{Icon Name|Cinnamoroll Mini Companion|name}} icon
+{{Icon Name|Cinnamoroll Mini Companion|real}} {{!}} {{Icon Name|Cinnamoroll Mini Companion|name}} front
+{{Icon Name|Cinnamoroll Mini Companion|side}} {{!}} {{Icon Name|Cinnamoroll Mini Companion|name}} side
+|widths=125|spacing=small|captionalign=center
+}}
+
+===<span id="Cinnamoroll Pop-Up Cafe Bowtie"><span id="Cinnamoroll Pop-Up Cafe Cloud Cape">Cinnamoroll Pop-Up Cafe Bowtie and Cloud Cape</span></span>===
+::'''''"A cozy cape fashioned from fluffy clouds accented to resemble Cinnamoroll's famously swirled tail. Includes a blue bowtie that can be worn separately."'''''
+The Cinnamoroll Pop-Up Cafe Bowtie and Cloud Cape Pack contains two items: the Cinnamoroll Pop-Up Cafe Bowtie and the Cinnamoroll Pop-Up Cafe Cloud Cape. The Cinnamoroll Pop-Up Cafe Bowtie is a light blue bow tie [[Neck Accessory]] that sits below the player's neck. The Cinnamoroll Pop-Up Cafe Cloud Cape is a white, cloud-shaped [[Cape]] with a light blue interior and a swirly tail on the back that resembles Cinnamoroll's. This pack was introduced in 2024 and was available for {{Cost|14.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event. <small>(Since these items are part of a limited collaboration, they are not scheduled to return in future years and free trial [[Spells]] were not available.)</small><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Cinnamoroll Bowtie|iap}} {{!}} Cinnamoroll Pop-Up Cafe Bowtie and Cloud Cape IAP
+{{Icon Name|Cinnamoroll Bowtie|icon}} {{!}} {{Icon Name|Cinnamoroll Bowtie|name}} icon
+{{Icon Name|Cinnamoroll Bowtie|real}} {{!}} {{Icon Name|Cinnamoroll Bowtie|name}} front
+{{Icon Name|Cloud Cape|icon}} {{!}} {{Icon Name|Cloud Cape|name}} icon
+{{Icon Name|Cloud Cape|front}} {{!}} {{Icon Name|Cloud Cape|name}} front
+{{Icon Name|Cloud Cape|interior}} {{!}} {{Icon Name|Cloud Cape|name}} interior
+{{Icon Name|Cloud Cape|real}} {{!}} {{Icon Name|Cloud Cape|name}} back
+{{Icon Name|Cloud Cape|exterior}} {{!}} {{Icon Name|Cloud Cape|name}} exterior
+|widths=125|spacing=small|captionalign=center
+}}
+
+===<span id="Cinnamoroll Swirled Hair"><span id="Cinnamoroll Ears">Cinnamoroll Pop-Up Cafe Combo</span></span>===
+::'''''"Infuse your look with whimsical wonder when wearing this cropped hairstyle with swirled bangs, paired with an iconic accessory featuring Cinnamoroll's signature floppy ears."'''''
+The Cinnamoroll Pop-Up Cafe Combo contains two items: the Cinnamoroll Swirled Hair and the Cinnamoroll Ears. The Cinnamoroll Swirled Hair is a short [[Hair]] with bangs, featuring swirls that resemble Cinnamoroll's tail. The Cinnamoroll Ears are a [[Hair Accessory]] that resemble Cinnamoroll's floppy puppy ears, with light blue bows tied where they connect to the player's head. This pack was introduced in 2024 and was available for {{Cost|14.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event. <small>(Since these items are part of a limited collaboration, they are not scheduled to return in future years and free trial [[Spells]] were not available.)</small><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Swirled Hairstyle|iap}} {{!}} Cinnamoroll Pop-Up Cafe Combo IAP
+{{Icon Name|Swirled Hairstyle|icon}} {{!}} {{Icon Name|Swirled Hairstyle|name}} icon
+{{Icon Name|Swirled Hairstyle|real}} {{!}} {{Icon Name|Swirled Hairstyle|name}} front
+{{Icon Name|Swirled Hairstyle|side}} {{!}} {{Icon Name|Swirled Hairstyle|name}} side
+{{Icon Name|Swirled Hairstyle|back}} {{!}} {{Icon Name|Swirled Hairstyle|name}} back
+{{Icon Name|Cinnamoroll Ears|icon}} {{!}} {{Icon Name|Cinnamoroll Ears|name}} icon
+{{Icon Name|Cinnamoroll Ears|real}} {{!}} {{Icon Name|Cinnamoroll Ears|name}}
+|widths=125|spacing=small|captionalign=center
+}}
+
+===Cinnamoroll Pop-Up Cafe Plushie===
+::'''''"An irresistibly cuddly companion that transforms the cafe into a haven of cuteness."'''''
+The Cinnamoroll Pop-Up Cafe Plushie is a stuffed toy shaped like Cinnamoroll that you can hug and toss around for other players to squeeze as well. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]]. This Prop was introduced in 2024 and was available for {{Cost|14.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event. <small>(Since this item is part of a limited collaboration, it is not scheduled to return in future years and free trial [[Spells]] were not available.)</small>
+
+This item gives the owner and the friends they hold hands with a special ability to see all the Cinnamoroll decorations in the [[Aviary Village#Aviary Village Cafe|Aviary Village Cafe]] even after the event ends. The option to view the Cinnamoroll decorations is enabled while inside in the Cafe; simply open the [[Expression Menu]] with the item equipped and select the Prop's icon to place it on the fireplace mantle to see the event decorations - including Cinnamoroll himself. (Note that this '''does not''' include the hourly [[Additional Light Sources#Sky × Cinnamoroll Pop-Up Cafe|Social Light event]] with [[Tiptoeing Tea-Brewer]] baking pastries.)<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Cinnamoroll Plushie|iap}} {{!}} {{Icon Name|Cinnamoroll Plushie|name}} IAP
+{{Icon Name|Cinnamoroll Plushie|icon}} {{!}} {{Icon Name|Cinnamoroll Plushie|name}} icon
+{{Icon Name|Cinnamoroll Plushie|real}} {{!}} {{Icon Name|Cinnamoroll Plushie|name}} front
+Cinnamoroll-Pop-Up-Cafe-Plushie-Prop-back.png {{!}} {{Icon Name|Cinnamoroll Plushie|name}} back
+<!--{{Icon Name|Cinnamoroll Plushie|using}} {{!}} Holding the {{Icon Name|Cinnamoroll Plushie|name}} -->
+{{Icon Name|Cinnamoroll Plushie|back}} {{!}} {{Icon Name|Cinnamoroll Plushie|name}} on a player's back
+|widths=125|spacing=small|captionalign=center
+}}
+
+===Cozy Teacup Headband===
+The Cozy Teacup Headband is a teacup and saucer attached to a headband at an angle that is light blue with white accents. This [[Hair Accessory]] was introduced in 2024 and was available for {{Cost|22 T|event=Cinnamoroll}} from the Cinnamoroll Gift Box in the [[Aviary Village#Aviary Village Cafe|Aviary Village Cafe]] for the duration of the event. <small>(Since this item is part of a limited collaboration, it is not scheduled to return in future years and free trial [[Spells]] were not available.)</small><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Cozy Teacup Headband|icon}} {{!}} {{Icon Name|Cozy Teacup Headband|name}} icon
+{{Icon Name|Cozy Teacup Headband|real}} {{!}} {{Icon Name|Cozy Teacup Headband|name}}
+|widths=125|spacing=small|captionalign=center
+}}
+
+===Cozy Cafe Table===
+The Cozy Cafe Table is shaped like a round blue pastry with white icing that features a plate with multicolored snacks and two teacups, paired with two chairs shaped like cinnamon rolls with pink icing. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]], and functions as a two-player [[Chat]] item. While seated, players can take a drink from the teacups. This Prop was introduced in 2024 and was available for {{Cost|52 T|event=Cinnamoroll}} from the Cinnamoroll Gift Box in the [[Aviary Village#Aviary Village Cafe|Aviary Village Cafe]] for the duration of the event. <small>(Since this item is part of a limited collaboration, it is not scheduled to return in future years and free trial [[Spells]] were not available.)</small><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Cozy Cafe Table|icon}} {{!}} {{Icon Name|Cozy Cafe Table|name}} icon
+{{Icon Name|Cozy Cafe Table|real}} {{!}} {{Icon Name|Cozy Cafe Table|name}}
+{{Icon Name|Cozy Cafe Table|back}} {{!}} {{Icon Name|Cozy Cafe Table|name}} on a player's back
+|widths=125|spacing=small|captionalign=center
+}}
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Sky-×-Cinnamoroll-Pop-Up-Cafe-Teaser.png
+Sky-×-Cinnamoroll-Pop-Up-Cafe-Backstage-Promo-image.png
+Sky-×-Cinnamoroll-Pop-Up-Cafe-Outside-Promo-image.png
+Sky-×-Cinnamoroll-Pop-Up-Cafe-Counter-Promo-image.png
+Sky-×-Cinnamoroll-Pop-Up-Cafe-Sleepy-Promo-image.png
+Sky-×-Cinnamoroll-Pop-Up-Cafe-Delivery-Promo-image.png
+Sky-×-Cinnamoroll-Pop-Up-Cafe-Group-Photo-Promo-image.png
+</gallery>
+
+==References==
+'''More information about the Sky × Cinnamoroll Pop-Up Cafe can be found on [https://www.thatskygame.com/news/sky-cinnamoroll-pop-up-cafe-opens-soon ThatSkyGame's Website].'''
+<references />
+
+[[fr:Sky × Cinnamoroll Pop-Up Café]]
+[[pt-br:Sky × Cinnamoroll Pop-Up Café]]
+[[ja:Sky × Cinnamorollもくもくカフェ]]
+[[zh:Sky x Cinnamoroll快閃咖啡廳]]
+[[de:Sky × Cinnamoroll Pop-Up Café]]
+
+[[Category:Events]]
+[[Category:Non-Recurring Events]]
+[[Category:Collaborations]]
