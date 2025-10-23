@@ -1,0 +1,97 @@
+{{Distinguish|Saluting Protector}}
+{{Spirit Infobox
+|type      = Regular
+|emote_type= Emote
+|image     = <gallery>
+Wasteland-Spirit-Saluting-Captain.png|Standard
+Wasteland-Spirit-Saluting-Captain-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Hair|infobox}}
+|props = {{Spirit Item||Prop|infobox}}
+|realm     = Golden Wasteland
+|location  = Crab Fields
+}}
+<section begin="Summary" />The '''Saluting Captain''' is a [[Regular Spirit]] in the [[Golden Wasteland]] who offers the {{Emote|Saluting Captain|inline_text}} Expression. The Saluting Captain is found behind the shipwreck at the center of [[Crab Fields]]. The collectibles [[Saluting Captain#Friendship Tree|offered]] by this Spirit are a {{Spirit Item|Saluting Captain|Hair|inline_text}} and a {{Spirit Item|Saluting Captain|Prop|inline_text}} Prop.<section end="Summary" /><br>
+<br>
+[[File:Saluting-Captain-Guide-777-Ed.png|320x320px|thumb|none|Image Guide by 777.Ed]]
+
+==Memory==
+<div>{{#ev:youtube|https://www.youtube.com/watch?v=X0dj10tnvpQ|||Video Guide by Tara||start=665&end=757&loop=1}}
+<br>
+The Saluting Captain can be found behind the shipwreck and near its front end at the center of [[Crab Fields]]. This Spirit is a [[Standard Memory|standard memory]] quest with 5 memory fragments and an unlimited overall [[Timed Memory|time limit]]. Beware the many [[Dark Crabs]] that populate the area and the single [[Dark Dragon]] patrolling the shipwreck.
+
+As their memory unfolds, the Saluting Captain sits within the hull of the ship before leaving for the deck by climbing the stairs nearby. Here, the Saluting Captain stands at the edge of the ship with a hand raised in a solemn salute, watching as several other Spirits sail away in smaller boats along the [[Flora,_Minerals_and_Elements_of_Sky#Polluted_Water|Polluted Water]].
+
+At the end of the memory, the Saluting Captain gazes towards the sky, snapping their legs together and performing a sharp salute.<br>
+<br>
+[[File:04 GW Spirit - Saluting Captain.jpg|200px|thumb|none|Relive the Saluting Captain's memory]]
+</div>
+{{Clear}}
+
+==Expression==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.<br>
+<br>
+[[File:{{Icon Name||Emote}}|170px|left]]
+<gallery heights="125" captionalign="center">
+Saluting-Captain-salute-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Saluting-Captain-salute-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Saluting-Captain-salute-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Saluting-Captain-salute-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+* Level 1 will make your avatar kick out their right leg before snapping it back against their left, raising their right hand to hold it by their head in a salute. This action is continued for as long as you don't move your character.
+* Level 2 makes the same motion as Level 1 with sparkles appearing from the saluting hand.
+* Level 3 will make your avatar bend both knees before snapping up to stand straight, sharply raising their right hand to hold it by their head in a salute.
+* Level 4 makes the same motion as Level 3 with sparkles appearing from the saluting hand.
+
+The prices of the three Expression upgrades are {{Cost|4 C}}, {{Cost|5 C}}, and {{Cost|5 C}}. Levels 3 and 4 are only available after unlocking the Spirit's [[Wing Buff]].
+
+==Cosmetics==
+===Hair===
+The [[Hair]] offered by this Spirit is a close-cropped cut, costing {{Cost|5 H}}. It is permanently available to all players after unlocking the Friendship Tree's second node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Prop===
+The [[Prop]] offered by this Spirit is a long wooden staff with a diamond-shaped tip, costing {{Cost| 20 H}}. It is a non-placeable Prop that cannot be used to decorate [[Shared Spaces]]. When activated, it shoots off a burst of colorful fireworks with a bang. After 5 shots, there is a 10 second cooldown before it can be activated again. 
+
+There are also firework Spells with similar effects to this Prop. The more common one is a [[Blessings_(Spells)#Fireworks_Spell|Fireworks Spell]] that is available as a [[1 Candle Blessing]]. It only allows ten fireworks to be fired off and does not give you a staff. The less common one is a [[Blessings_(Spells)#Props_Spells|Prop Spell]] available during [[Days of Fortune]] that gives you and your friends the Fireworks Staff for 30 minutes.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Prop}} {{!}} The Prop icon
+{{Icon Name||Prop|real}} {{!}} The prop
+{{Icon Name||prop_held}} {{!}} A player holding the Prop
+{{Icon Name||prop_back}} {{!}} The Prop a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Friendship Tree==
+{{Friendship Tree Info | regular}}
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Saluting Captain
+|image  = Wasteland-Spirit-Saluting-Captain.png
+
+|nodeC6 = prop 20 H
+|nodeC5 = spell5
+|nodeL4 = emote4 5 C
+|nodeC4 = emote3 5 C
+|nodeC3 = wing 3 AC
+|nodeL2 = hair 5 H
+|nodeC2 = spell1
+|nodeR2 = heart
+|nodeL1 = emote2 4 C
+|nodeC1 = emote
+}}<section end="Friendship Tree" />
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Emote Loc-Salute.png
+</gallery>
+
+[[de:Grüßender Kapitän]]
+[[fr:Capitaine saluant]]
+[[pt-br:Capitão Saudoso]]

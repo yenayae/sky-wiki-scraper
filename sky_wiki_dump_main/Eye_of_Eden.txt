@@ -1,0 +1,236 @@
+{{Spoilers}}
+{{Eden}}
+{{Quote|<br>'''Push into the darkness.'''|Eye of Eden Opening}}
+{{Realm
+| image = Eden 2.png
+| previousRealm = [[Vault of Knowledge]]
+}}
+
+'''Eye of Eden''' is the penultimate [[Realm]] in the game (behind [[#Ascent_and_Orbit|Orbit]]) and is the only one that can be seen from most other locations in the Realms, appearing as a looming mountain. It features many dangers (namely rock rain, [[Dark Dragons]], and polluted water) that can remove the player's [[Winged Light]]. Eye of Eden shows the most signs of ruin and destruction of any Realm.
+
+Eye of Eden used to come with a warning, and TGC has tried very hard to encourage (even mandate) that multiple players are needed in order to navigate and complete this Realm. Indeed, multiple players can be beneficial, and veteran players can definitely help new players. Friends help to keep your Cape charged and can also provide encouragement along the way. If you have Warp open with friends, it can be utilized very effectively throughout the difficult portions of the Eye of Eden.
+
+Stronger or more experienced players can also help newer players (with less Cape Power) through the Eye of Eden in this way. But unlike previous versions of this final Realm of the game, each player does have to do the hardest work themselves, and be prepared to sacrifice everything. See the bottom of the page for a video guide.
+
+The original name for this Realm was Storm and it is often still referred to as such. Next to [[Isle of Dawn]], Eye of Eden has been the most changed and expanded Realm of the game. It can be broken into three distinct sections.
+
+==Entering Eye of Eden==
+[[File:Eden 1.png|thumb|320px]]
+The Gate leading into Eye of Eden is different from all other Gates. Instead of indicating Ancestor Spirits, this one mandates a certain number of Winged Light. You can enter the Eye of Eden only after you have completed all the previous Realms (watched the Elder cutscenes) and collected at least 20 Winged Light. However, much like the Spirit Gates, the Winged Light requirement can be bypassed by holding hands with a friend who has met it, although this is not recommended. For lone players, the 20 Winged Light requirement can be bypassed by using the Eden portal in the Nintendo area in Wasteland, although you’ll need the red or blue Nintendo cape.
+
+''Note: The 20 Winged Light will not be used for flight, but for sacrifice.  Players who successfully bring large amounts (>63) of Winged Light through Eden will be handsomely rewarded with ascended candles.'' 
+
+Multiple players are no longer required to open the door to Eden. There are still five buttons to light, but they can be lit by a single person. That said, having a group of friends together in the final area (section 3 below) can help you all to maximize the rewards you receive in Orbit. 
+
+== Section 1: Wind and Rocks==
+[[File:Eye of Eden Wind and Rock.jpg|thumb|left|300px|Eagle eye's view, be cautious while flying in Eden; the wind may cause you to fly to an undesired place]]
+[[File:Eden Map B - Features.png|thumb|466px|A map of Eden, made by Ezpz2020]]
+<br clear="left">
+This is the most recently added section of the Realm, and adds a scenic (if windy) trek up the mountain before entering the familiar hallway that leads to the older version of Eden. This is the safest and easiest part of the Realm, and gives you an idea of some of the strategy that will be used later on. It is always advised to play with sound on in Eden, as it will give players specific cues. 
+There are several shortcuts to take here, though one of them is only possible for truly accomplished fliers. 
+
+Shortcut 1: Go down to the floor of the first area, above which the rocks will be flying. By crossing over to the other side, players will find a climbable ledge. If ascended, players will find themselves past the streaming rocks – almost at the first lantern. See the "Suggested Route" Map under ''Other Resources '' below.
+
+Shortcut 2 (five Wedges minimum): Truly daring players can use the powerful wind to fly directly up towards the entrance into the next section, where a Child of Light is standing. This is done by first activating open-winged flight at takeoff, flying against the wind in a diagonal manner, and letting the wind push the avatar back to land at the target location. However, this shortcut takes a huge amount of practice to master even for very experienced players. There are guide videos to find on Youtube. 
+
+==Section 2: Dark Dragons and the Battlefield==
+<gallery>
+Eye of Eden Battle Field Bird Eye.jpg|Eagle eye's view of the path to the hallway
+Eye of Eden Section 2 Entry.jpg|Entryway into Section 2
+</gallery>
+This part of the Realm adds more challenge in the form of [[Dark Dragons]] who patrol the pathway. Between wind and flying rocks, you will have to listen and time your moves wisely.
+
+An ability like Warp can be very useful in these first two sections between friends, especially if a veteran player wants to help a newer player with less cape power or skill.
+
+This second section is broken into two parts. The lower section is patrolled by two Dark Dragons and can be a bit of a puzzle to navigate. When at the stairs depicted in the map to the right, players may fly without being blown back. Past the two first Dark Dragons, there is a large circular cave with [[Dark Crabs]] that may harm you while recharging your light. The upper section is a battlefield, with frozen soldiers, trenches, and fortifications. There is also a Dark Dragon who patrols the very top of the hill before the last hallway. A suggested route can be found at the bottom of the page under ''Other Resources.''
+
+'''WARNING:''' Once you pass through the transition at the end of the Hallway, you are in [[Glossary of Terms#Storm Lock|Storm Lock]]. This means that you must finish Eye of Eden before you will be able to enter any other Realm again. If you manually close the app, you will find yourself in Home Space with dark and inaccessible portals – '''you have crossed the point of no return'''. More information can be found below. 
+
+==Section 3: Statues and Winged Light==
+[[File:Eden end.png|thumb|300px]]
+{{Quote|<br>'''Return the light of the fallen.'''|Eye of Eden's Second Opening}}
+In this section, rocky rain does not let up. You run through the area finding Statues at which you deposit your Winged Light. The Statues are in the form of Sky Kids shrouded in Darkness. By depositing your Winged Light with them, you are, in essence, saving them while causing yourself to grow weaker. The more Winged Light you bring into this section, the more frozen Sky Kids you can reach before running out – the more you are rewarded later.  
+
+As you carefully navigate Zone 1 on the map seen on the right side of the page, listen closely to the audio cues. The red rain will have a sound of crystals shattering, which signifies that it is not safe to move. When entering the continuous red rain: avoid jumping (as it will knock you down) and use the deep call feature to help friends hang onto their Winged Light just a while longer. 
+
+===June 2022 Changes ([[Season of Shattering]])===
+Patch {{v|0.18.0}} brings [[Season of Shattering]], which made multiple changes that affect the statue section of the Eye of Eden. There are three main changes:
+*The new damage system makes you crawl after taking enough damage to extinguish your flame. In the red shard explosions, you cannot recover unless you reach an already-lit shrine or a friend relights your flame. This means that the only way to reach the last dozen or more statues is by crawling.
+*There are four new shrines in the second half of the map, each placed in a semi-sheltered location. There are also generally more large rocks and possibly protected spots.
+*Several statues (maybe as many as a dozen) have been relocated.  However, the total number of statues is still 63.
+
+The overall effect is to make it theoretically possible, with enough patience and/or luck, to reach more statues without taking any damage -- 50+ statues are within range of shrines now instead of 33. However, if you make a single mistake you can rapidly lose 20+ wings while you painfully crawl to the nearest lit shrine.
+
+You have to crawl to reach the last dozen statues, and the number of wings lost while reaching these statues is much larger. While crawling, you will want to travel on dry land instead of through polluted water as much as possible. 
+
+===February 2024 Changes===
+Patch {{v|0.24.5}} brings multiple changes to all aspects of the Eye of Eden. The changes are aimed at improving the gameplay experience for how avatars generally respond to damage, jumping controls, and wind effects. These will be visible mostly in Eye of Eden, particularly in the center of the storm, but they may also appear in other parts of the game where your avatar can experience damage, be affected by wind, etc. It was initially thought that these changes would be a "compromise" between the Pre-Shattering and Post-Shattering versions of Eden, but in reality, these changes greatly increased the difficult of Eden's final section. The primary changes include:
+
+*A revamp to the damage system introduced in Patch {{v|0.18.0}}. Once extinguished, the player will not immediately begin to crawl. Instead, they will continue to walk like normal, similar to how it was before the 0.18.0 patch. 
+**Once the player's [[Winged Light]] total drops below 50, they will begin to stumble but will continue to move at full speed. 
+**At 30 Winged Light, the player will begin to limp and their movement speed will be reduced. 
+**Finally, when the player has 10 Winged Light remaining, they will crawl until all their Winged Light is lost.
+
+*Improved controls when running and jumping, especially in wind, and now the game more precisely calculates players’ intended movements during jumps.
+* Previously inadequate rock shelters more effectively protect Sky kids; most notably, a huge outcropping was added at the final shrine before the Endless Rain section.
+*The strength of the wind was increased in all areas of Eye of Eden, decreasing mobility.
+*The density of the rock rain was increased resulting in players sustaining more damage when hit.
+*The amount of time between each "cycle" of rain is also decreased making it harder to safely progress through the Eye of Eden without getting hit.
+
+===Sacrifice===
+You will lose all your winged light in Eye of Eden. This is part of the process. As you deposit Winged Light at each Statue, your Cape Power will decrease. However, the more Winged Light you deposit, the more rewards you will receive. Each Statue you free will grant you approximately 0.25 of an ascended candle. You can use these rewards to unlock [[Wing Buffs]] in Spirit Shops (including Travelling Spirits), and eventually increase the starting number of Cape Wedges in your meter. The next time you die, your Wing Buffs will give you extra winged lights. '''Unlike in previous versions of Eye of Eden, there is no chance of surviving.''' There is only one outcome. The goal is to deposit as many Winged Light as you can before you lose all of your power and die.
+
+There is a known glitch in which a player deposits their winged light, dies, then respawns next to the point of no return. Simply keep trudging toward a light column to stop the loop of respawning.
+
+==Ascension and Orbit<span id="Ascent and Orbit"></span>==
+The after-Storm sequence has been newly added, and takes you through a flight on the way to Orbit.
+
+Beforehand, you will encounter many [[Light Creatures]], including Mantas, a Whale, various birds, Jellyfish, and large variants of said Jellyfish.
+
+While flying towards Orbit, you may fly next to the floating [[Spirits]] and receive 5 [[Pieces of Light]] per spirit for your efforts. The same applies to the chains of flying sky-kids which appear afterwards. These chains are meant to be your friends.  
+
+In Orbit you formally return the Winged Light that you deposited in Eye of Eden. You are then rewarded with [[Ascended Candle]]s. In Orbit you will also acquire (or re-acquire) any Wing Buffs you have previously purchased from Ancestor Spirits. It is recommended to purchase wing buffs before leaving Orbit as you will immediately receive them before being reborn.
+
+{{Spoilers}} {{Orbit}}
+
+===Section 1: Lost and Found===
+After you have lost all your Winged Lights and died in the Eye of Eden, you will fall through a starry space and land in a dark room (Void). In the distance, there is a glowing Child of Light awaiting you, with the sound track ''Lost and Found'' playing in the background. Then you will walk towards that Child of Light sitting on the floor. You will be prompted to hold its hands and pull it up into a standing position. Then, a Friendship menu will open and only the Hug action is available. 
+
+After hugging the glowing Child of Light, you and the glowing Child of Light will merge into one Sky kid with cape (with seven wedges). Then, you will be guided towards a bright column of light and fly upwards. Then, a short cutscene will be played: in the final section of Eden, the statues you revived become glowing Sky kids and fly towards the red diamond in the distance. 
+
+After the cutscene, you move towards the next section.
+
+===Section 2: Flight===
+
+In section 2, you begin a long flight in various terrains. The soundtrack ''Flight'' plays in the background.
+
+The flight begins in a dark, stormy cloud tunnel with lightning and thunder. Then, you fly through a broken temple building that looks like the Wasteland temple. After flying through a gate, you will slide down a slope with jellyfish, with architecture resembling that from the Valley of Triumph. After this, you fly through a narrow valley between buildings. There are jellyfish and birds to charge your cape energy, and mantas guiding your path. 
+
+After a short flight through the clouds, the buildings on the sides begin to collapse, blocking your way. A large whale will clear the path for you. After an area of lightning and flying rocks, you arrive beneath starry skies and fly upwards with several mantas towards a floating castle. 
+
+===Section 3: The Light Beyond===
+
+After passing the floating castle, you enter the section that resembles a “galaxy” of Light creatures and Sky kids. You can fly near the Ancestor Spirits to get 5 Pieces of Light each.  
+
+Then, you will see Sky kids flying either individually or in a chain. The Sky kids with nicknames are your friends. Friends are displayed randomly —— not all friends will be shown here, and the friends shown here are not necessarily those who are progressing through Orbit at the same time. 
+
+About 2 minutes into this section, you will turn left and fly towards a large and bright sphere. Along the way, you can hear the Sky kids “singing” with calls. Then you fly closer and closer to the sphere of light, where the entire screen fades to white then black. From here you arrive at the next section of Orbit.
+
+
+===Section 4: The Ascension===
+
+After the cutscene, you arrive at the final section of Orbit. When you reach this section, you will be back to having no cape wedges. The Child of Light you revived in section 1 lands in front of you. They bow and wave goodbye to you before becoming stars and flying into the sky above. You can then collect Ascended Candles. Then the Portal of Rebirth opens up in the distance, and you are prompted to walk along the starry path towards it. On the way, you can stop by and view the Shared Spaces and Message Boats left by other players. 
+
+As you walk towards the portal, you will first arrive at a Constellation Table, where you can spend your Ascended Candles to purchase Wing Buffs from the Ancestor Spirits. Note: If you purchase the Wing Buffs now at this Constellation Table, you will received the Wing Buffs in this trip. If you purchase it later, you will have to go through Orbit again to receive them.
+
+Shortly passing the Constellation Table on your way towards the portal, you can see a starry spiralling bridge on the left side, on its top is a chat bench where you can light a candle and chat with your friends. On the right side of the main path right across the Chat Bench bridge, there is another starry bridge with a Meditative Stone on top of it. Meditating here will trigger a pop-up asking you to give a rating and review for Sky on the App Store. As a reward, you will earn one Heart. (If you have disabled In-App Ratings and Reviews in your App Store Settings, or the Ratings and Reviews pop-up has been shown in Sky for three times or more over the past 365 days, it will not show up here. However, unlike the one in Hidden Forest’s Social Space, you can still receive the Heart here.)
+
+Beneath the bridge, there is the final Map Shrine — the only Map Shrine in the post-Eden section. It will uncover the “Rebirth Portal” section of the map (on the left of Eden). On the map, it looks like a portal with wind flowing through it. 
+
+Moving forward towards the Portal, you will receive Wing Buffs from the Spirits that you’ve purchased Wing Buffs from. You will also have your cape again. As you walk towards the Portal, you will hear bell chimes and see streaks of wind flowing into the portal from all directions. Then, the screen will fade to black and the Credits section begins. 
+
+===The Credits ===
+Beginning with “Thanks for playing”, the Credits screens shows the Sky logo, Thatgamecompany logo, and the names of TGC employees and other contributors, on a background of galaxies and stars in the shape of a glowing phoenix. The soundtrack of ''Constellation'' plays in the background. In the end, after showing “Thank you to our beta players”, it shows a close-up view of a burning candle flame. The entire Credits sequence lasts three minutes. Note that the credits section can be skipped if viewed previously.
+
+===Rebirth===
+After completing Orbit, the player appears as a star falling from above, landing in either Home or Aviary Village (depending on which you've set your 'Home' to) at the Constellation Table, with a message “The real journey starts here…”. You will then stand up slowly and continue your journey in Sky. 
+
+Right after the music (''Sky'' by Irvin) ends for the Credits, you can hear a brief sound of collecting a Winged Light. That is the one Winged Light in Orbit. This way, you will be reborn with your cape even if you did not receive any Wing Buffs in Orbit.
+
+==Ascended Candles and Wing Buffs==
+[[File:Locked_wing_buff.png|thumb|233px|The Wing Buff as it appears in the Spirit Shops- Bowing Medalist |alt=]]
+[[Ascended Candles]] are the reward for completing the Eye of Eden. There are a total of 63 Statues to visit, which give players 0.25 Ascended Candles each (total 15.75). With Ascended Candles, you can:   
+
+*Unlock the ability to purchase more cosmetics. Purchasing the Wing Buff from a Regular Spirit Map and Traveling Spirit Map will remove the shroud of clouds that hides the uppermost cosmetics in the Map. 
+
+*Lock in Wing Power. The [[Wing Buffs]] purchased with these Candles will cause players to be reborn with more Winged Light. Specifically, players will be reborn with one more Winged Light per Wing Buff purchased. If every regular Spirit is "ascended", it is possible to be reborn with 47 Winged Light.   
+**Note: If you purchase wing buffs from the Spirits while still in Orbit, those wing buffs will be given to you before you are reborn. If you purchase them after you have returned to Home Space, you will receive the Wing Buffs after your next trip through Eden.
+
+*Unlock the ability to exchange advanced Friendship Actions with a friend, including Warp. Warp costs ten additional Ascended Candles, while the other high level actions cost regular candles.
+
+==Ultimate Gifts==
+{{#lst:Constellations|Ultimate Gifts}}
+
+Visit the [[Constellations]] page for further explanation on completing constellations and the [[Elders]] page for more details on Ultimate Gifts.
+{{#lst:Elders|Ultimate Gifts Gallery}}
+
+==Eden Lock and Timed Reset== 
+*Once you enter the final area of the Eye of Eden (past the point of no return), you are forced to complete it. If you quit the game or the game crashes while in the area, once you login to the game again and then return to Home, it will be dark, the Realm Portals will be inactive, and your only option will be to resume your ascent through the Eye of Eden through the Return Shrine, or being instantly teleported into [[Glossary of Terms#Storm Lock|Storm Lock]] upon entering the Eden portal, which is kept active.
+*[[File:Time Zones Behind Pacific Time.jpg|alt=A map with Alaska, Hawaii, and the oceans between 112.5°W and the International Date Line shaded in purple.|thumb|Approx. areas with Eden reset on Saturday. (Not 100% accurate)]]Currently, Eye of Eden Statues reset at '''00:00 USA Pacific Time (UTC-8/-7) Sunday morning'''.
+* Note: There can be some confusion as to what day of the week "midnight" falls on. Eden reset is Sunday at 00:00 Pacific Time, which is '''Sunday morning''' in the Contiguous United States (1am in Denver, 2am in Chicago, 3am in New York). This means reset is '''Sunday morning or day''' for most of the world (Sunday morning in Europe, afternoon in most part of Asia, and evening in Oceania). See map: The purple-shaded area are the '''only parts of the world''' where the Eye of Eden reset can possibly happen on '''Saturday evening''' local time. '''Everywhere else, the reset is on Sunday.'''
+*You can only deposit Winged Light at a specific Statue once per reset. For any Statue that you have deposited a Winged Light at, you will have to wait until after 00:00 Pacific Time the following Sunday before you can place Winged Light at the Statue again. This means two things:  
+**You can revisit Eye of Eden multiple times during the week and collect previously missed Statues. If you purchased Wing Buffs, you will have more Winged Light at your disposal (to lose and to place). In this way, you can maximize your Ascended Candle reward for the week by visiting multiple times and reaching every Statue. If you have already given winged light to a statue in the same week in a previous run, the statue will reappear with a yellow crack.
+**You can potentially cross the point of no return and be forced to give up all of your Winged Light if the timing is off. If you crossed the point of no return just before the weekly reset, the Statues won't reset until you complete your current trip to Eden. This means that '''if you crossed the point of no return too early, you can't just wait for the reset''' but must deposit Winged Light to any remaining Statues and all remaining WLs will be wasted.  Be careful to remember when the last time you went to the Eye of Eden was, and how many Statues you may have available to gift Winged Light to.
+***The safest way to ensure that the Statues has already happened is to visit [[Home#The_Clock_/_Bell_Chimes_at_Home|Home and listen for the bell chimes]] on Sunday. Also, watch for the Daily Light Refresh notification and the refresh of Light. This indicates that “Sunday midnight” has passed on the server's clock (not your clock which may be off), and the reset has already happened.
+
+==Video Walkthrough==
+{{#ev:youtube|eAEK63eWmVY|300|inline|Eye of Eden Guide by Tara}}
+
+==Map==
+{{Map:Eye of Eden}}
+{{Map:Eye of Eden PNR}}
+[[File:Ingame-map-eden.png|none|thumb|400px|The Map Shrine of Eden]]
+
+==Trivia==
+*When players spam Call during the second-to-last section of Orbit, their Skykid will "sing" along with the singer in the background (AURORA).
+*The name ''Eye of Eden'' is most likely a reference to the Biblical [[:Wikipedia:Garden of Eden|Garden of Eden]].
+*The following maps are outdated and show Eye of Eden before the changes in Patch {{v|0.18.0}}. The changes on the first two maps are relatively minor, but there are significant differences in the upper halves of the last two maps. See [[#June 2022 Changes|June 2022 Changes]] above.
+<gallery>
+Eden Map C - Clean.png
+Eden Map A - Route & Collectibles.png
+Eden Map.png|'''Out of Date''' A map of the final area of the Eye of Eden, originally made by "猹" (C)
+Eden Statues Map Pubblic.jpg|'''Out of Date''' Eye of Eden statues map - @that.sky.spaidy
+</gallery>
+
+==In Other Languages==
+{{Help|lang}} 
+{{Other Languages|title=Eye of Eden
+|fr            = Œil d’Éden
+|fr_meaning    = Eye of Eden <!-- Machine Translated -->
+|ja            = 暴風域 (Kana: ぼうふういき) <br> [Second Part] 原罪 (Kana: げんざい)
+|ja_rom        = Bofuiki <br> [Second Part] Genzai
+|ja_meaning    = Storm Area, Original sin
+|id            = Pusat Eden
+|id_meaning    = Centre of Eden <!-- Machine Translated -->
+|de            = Auge von Eden
+|de_meaning    = Eye of Eden <!-- Machine Translated -->
+|vi            = Mắt Địa Đàng (Hán Nôm: 眜天堂)
+|vi_meaning    = Eye of Heaven <!-- Machine Translated -->
+|ko            = 에덴의 눈
+|ko_rom        = Eden-ui Nun
+|ko_meaning    = Eye of Eden <!-- Machine Translated -->
+|es            = Ojo de Edén
+|es_meaning    = Eye of Eden <!-- Machine Translated -->
+|it            = L'Occhio di Eden
+|it_meaning    = Eye of Eden <!-- Machine Translated -->
+|pt            = Olho de Éden
+|pt_meaning    = Eye of Eden <!-- Machine Translated -->
+|ru            = Сердце Эдема
+|ru_rom        = Serdtse Edema
+|ru_meaning    = Heart of Eden <!-- Machine Translated -->
+|zh_cn         = 暴风眼 
+|zh_cn_rom     = Mandarin: Bào Fēng Yǎn / Cantonese: Bou6 Fung1 Ngaan5
+|zh_cn_meaning = Eye of Storm <!-- Verified by Native Speaker @Fanlinger -->
+|zh_tw         = 暴風眼
+|zh_tw_rom     = Mandarin: Bào Fēng Yǎn / Cantonese: Bou6 Fung1 Ngaan5
+|zh_tw_meaning = Eye of Storm <!-- Verified by Native Speaker @Fanlinger -->
+|zh_netease         = 伊甸 <br> [Second Part] 伊甸之眼
+|zh_netease_rom     = Mandarin: Yī Diàn <br> [Second Part] Yī Diàn Zhī Yǎn <br> Cantonese: Jyi1 Din6 <br>[Second Part]  Jyi1 Din6 Zi1 Ngaan5
+|zh_netease_meaning = Eden <br>[Second Part] Eye of Eden <!-- Verified by Native Speaker @Fanlinger -->
+}}
+
+
+{{GameLevelsNav}}
+{{Navigation Box}}
+[[ko:에덴의 눈]]
+[[ru:Сердце Эдема]]
+[[fr:Oeil d'Eden]]
+[[es:Ojo del Edén]]
+[[pt-br:Olho de Éden]]
+[[ja:暴風域]]
+[[de:Auge von Eden]]
+
+[[Category:Realms]]
+[[Category:Weekly Content]]
+[[Category:Eye of Eden]]
+[[Category:Voids]]

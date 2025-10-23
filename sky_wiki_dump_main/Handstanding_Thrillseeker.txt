@@ -1,0 +1,98 @@
+{{Spirit Infobox
+|type      = Regular
+|emote_type= Emote
+|image     = <gallery>
+Valley-Spirit-Handstanding-Thrillseeker.png|Standard
+Valley-Spirit-Handstanding-Thrillseeker-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Cape|infobox}}{{Spirit Item||Tier 2 Cape|infobox}}
+|realm     = Valley of Triumph
+|location  = Citadel
+}}
+<section begin="Summary" />The '''Handstanding Thrillseeker''' is a [[Regular Spirit]] in the [[Valley of Triumph]] who offers the {{Emote|Handstanding Thrillseeker|inline_text}} Expression. The Handstanding Thrillseeker is found in the [[Citadel]], behind a parapet on a bridge near the arched entrance. The only collectibles [[Handstanding Thrillseeker#Friendship Tree|offered]] by this Spirit are two tiers ({{Spirit Item|Handstanding Thrillseeker|Cape}} {{Spirit Item|Handstanding Thrillseeker|Tier 2 Cape}}) of a [[Handstanding Thrillseeker#Cape|Cape]].<section end="Summary" /><br>
+<br>
+[[File:Handstanding-Thrillseeker-Guide-777-Ed.png|320x320px|thumb|none|Image Guide by 777.Ed]]
+
+== Memory ==
+<div>{{#ev:youtube|https://www.youtube.com/watch?v=-sVP-uZXkaI|||Video Guide by Tara||start=689&end=825&loop=1}}
+<br>
+The Handstanding Thrillseeker can be found in the [[Citadel]], behind a parapet on a bridge near the arched entrance. This Spirit is a [[Standard Memory|standard memory]] quest with 6 memory fragments and an unlimited overall [[Timed Memory|time limit]].
+
+As their memory unfolds, the Handstanding Thrillseeker and another Spirit race each other along the main Citadel structure, dashing skillfully up several stairs and across parapets. The unnamed Spirit initially takes the lead, before the Handstanding Thrillseeker quickly catches up and overtakes them, throwing their arms out in celebration as they cross the finish line.
+
+At the end of the memory, the victorious Handstanding Thrillseeker waves towards their onlookers and backflips into a handstand - only to lose their balance and tip over.<br>
+<br>
+[[File:03 VT Spirit - Handstanding Thrillseeker.png|200px|thumb|none|Relive the Handstanding Thrillseeker's memory]]
+</div>
+{{Clear}}
+
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels. By using this Expression, it is possible to avoid losing light in [[Flora,_Minerals_and_Elements_of_Sky#Polluted_Water|Polluted Water]], as the player's hitbox in which they get harmed is only on their lower half.<br>
+<br>
+[[File:{{Icon Name||Emote}}|170px|left]]
+<gallery heights="125" captionalign="center">
+Handstanding-Thrillseeker-handstand-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Handstanding-Thrillseeker-handstand-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Handstanding-Thrillseeker-handstand-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Handstanding-Thrillseeker-handstand-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+* Level 1 will make your avatar jump into a backflip and land a handstand on their right hand, with their left arm held out horizontally and their legs held apart. This action is continued for as long as you don't move your character.
+* Level 2 makes the same motion as Level 1 with sparkles by your avatar's feet.
+* Level 3 will make your avatar raise both arms straight above their head and then fall forward into a handstand, with their legs split and knees bent. This action is continued for as long as you don't move your character. Exiting this Expression will make your avatar push off from their hands to perform a mid-air spin and land on their feet.
+* Level 4 makes the same motion as Level 3 with sparkles by your avatar's feet.
+
+The prices of the three Expression upgrades are {{Cost|3 C}}, {{Cost|4 C}}, and {{Cost|4 C}}. Levels 3 and 4 are only available after unlocking the Spirit's first [[Wing Buff]].
+
+== Cosmetics ==
+=== Cape ===
+The Handstanding Thrillseeker offers two standard-style pink [[Capes]]; a Tier 1 and a [[Tier 2 Cape|Tier 2]] version, costing {{Cost|40 H}} and {{Cost|120 H}} respectively. Both are permanently available after unlocking the Friendship Tree's fifth node and second [[Wing Buff]] respectively.
+
+The Tier 2 Cape (and the second Wing Buff that unlocks it) are not needed to complete the Valley of Triumph [[Constellation]]. These were both added to the Friendship Tree in Patch {{v|0.13.4}} on May 27, 2021.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape}} {{!}} The Tier 1 Cape icon
+{{Icon Name||Cape|front}} {{!}} The Tier 1 Cape front
+{{Icon Name||Cape|interior}} {{!}} The Tier 1 Cape interior
+{{Icon Name||Cape|back}} {{!}} The Tier 1 Cape back
+|widths=125|captionalign=center|spacing=small
+}}
+
+{{#tag:gallery
+|{{Icon Name||Tier 2 Cape}} {{!}} The Tier 2 Cape icon
+{{Icon Name||Tier 2 Cape|front}} {{!}} The Tier 2 Cape front
+{{Icon Name||Tier 2 Cape|interior}} {{!}} The Tier 2 Cape interior
+{{Icon Name||Tier 2 Cape|real}} {{!}} The Tier 2 Cape back
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Friendship Tree ==
+{{Friendship Tree Info | regular}}
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Handstanding Thrillseeker
+|image  = Valley-Spirit-Handstanding-Thrillseeker.png
+
+|nodeC8 = tier_2_cape 120 H BONUS
+|nodeC7 = wing 9 AC BONUS
+|nodeC6 = cape 40 H
+|nodeC5 = spell5
+|nodeL4 = emote4 4 C
+|nodeC4 = emote3 4 C
+|nodeC3 = wing 3 AC
+|nodeL2 = heart
+|nodeC2 = spell1
+|nodeL1 = emote2 3 C
+|nodeC1 = emote
+}}<section end="Friendship Tree" />
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+File:Emote Loc-Handstand.png
+</gallery>
+
+==References==
+<references />
+
+[[de:Abenteuerlustiger Handstandmacher]]
+[[pt-br:Amante da Adrenalina de Ponta Cabeça]]
+[[fr:Amateur d'adrénaline en équilibre]]

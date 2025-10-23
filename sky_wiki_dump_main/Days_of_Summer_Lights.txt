@@ -1,0 +1,93 @@
+__FORCETOC__
+{{SkyEvent
+| image = Days-of-summer-lights-2021.jpg
+| date = September 20 to October 3, 2021
+}}
+
+==September 2021==
+<section begin="Summary" />Days of Summer Lights was a later phase of the [[Days of Summer]] event where the [[Days of Summer Lights#Days of Summer Lights Pack|Lantern]] from the previous year returned for the occasion as an [[Premium Candle Shop|IAP]]. The event ran from '''September 20, 2021 at 00:00 PDT (UTC-7)''' through '''October 3, 2021 at 23:59 PDT (UTC-7)''' and the bonfire in [[Home]] was lit once again for players to collect up to a certain amount of [[Pieces of Light|Light]], growing in size during the second week for a hurrah to celebrate the time of year.<section end="Summary" />
+
+Players were able to collect free [[Spells]] during the Days of Summer Lights event from the Sleepy Traveler’s boat to try out all the new items. ''Each of these temporary Spells last for 30 minutes.''
+
+===2021 New Cosmetics and Props===
+====Summer Lights Accessory====
+The Summer Lights Accessory is a round, pink bunny that sits on the player's head. This [[Hair Accessory]] was introduced in 2021 for {{Cost|2.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.
+{{#tag:gallery
+|Summer lights Accessory.png {{!}} Summer Lights Accessory IAP
+{{Icon Name|Bunny Accessory|icon}} {{!}} Summer Lights Accessory icon
+{{Icon Name|Bunny Accessory|real}} {{!}} Summer Lights Accessory
+Days of Summer lights bunny front.png {{!}} Summer Lights Accessory front
+Days of Summer lights bunny back.png {{!}} Summer Lights Accessory back
+{{Icon Name|Bunny Accessory|spell}} {{!}} Summer Lights Accessory Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+=== 2021 New Spells ===
+====Lotus Message Boat Spell====
+For the duration of the event, all [[#Message Boat Spell|Message Boats]] were made to resemble orange lotus flowers floating peacefully on the water. Like regular Message Boats, the Lotus Message Boat will earn the player a [[Currency#Hearts|Heart]] upon reaching 50 likes<ref name="Likes requirement">In Patch {{v|0.12.3}}, the number of likes needed to earn a heart from Message Boats (and [[Message Shrines|Message Candles]]) was increased from 10 to 50.</ref> and disappear after 48 hours. (''Note: it can only be placed in water.'') This [[Spell]] was introduced in 2021 in packs of three for {{Cost|6 C}} from the Traveling Merchant's boat.
+{{#tag:gallery
+|Lotus-message.png {{!}} Lotus Message Boat
+|widths=125|spacing=small|captionalign=center
+}}
+{{Clear}}
+
+===Traveling Spirits===
+{{#lst:Days of Summer|Distributed Items}}
+
+==September 2020==
+[[File:DoSL_Event_sq.jpg|thumb|Promotional image - Days of Summer Lights 2020]]
+To celebrate the nostalgia of past summer nights—and anticipation of those to come—Days of Summer Lights began <section begin="2020 Dates" />'''Tuesday, September 8, 2020 at 00:00 PDT (UTC-7)''' and ended '''Sunday, September 20, 2020 at 23:59 PDT (UTC-7)'''<section end="2020 Dates" />. TGC worked together with the community to bring this event to the game.
+
+''This event also brought back the Sleepy Traveler's boat; however, the Traveler was nowhere to be found, and the boat now bearing the [[Spells|Spell]] shops was found in [[Forgotten Ark]].''
+
+The Sleepy Traveling Merchant offered free Spell versions of all of the event items on their boat. Players could get 3 [[#Message Boat Spells|Message Boats]] and 2 [[#Days of Summer Lights Pack|Lanterns]] free every six days. ''Each of these temporary Spells last for 10 minutes.''
+
+<gallery widths="150" spacing="small" captionalign="center">
+Days of Summer Lights 2020 promo image (preview).jpeg
+Days of Summer Lights 2020 promo image (boats).jpeg
+Days of Summer Lights 2020 promo image (lantern wide).jpeg
+Days of Summer Lights 2020 promo image (lantern beam).jpeg
+</gallery>
+
+===2020 New Cosmetics and Props===
+====Days of Summer Lights Pack====
+The Days of Summer Lights Pack includes the Days of Summer Lights Lantern and {{Cost|35 C}}. The Days of Summer Lights Lantern is a boxy gray lantern hanging from a short rod. It is a non-placeable [[Prop]] and serves as a source of light when held. This Prop was introduced in 2020 for {{Cost|19.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.
+{{#tag:gallery
+|Days of summer light pack.png {{!}} Days of Summer Lights Lantern IAP
+{{Icon Name|Lazy Days Lantern|icon}} {{!}} Days of Summer Lights Lantern icon
+{{Icon Name|Lazy Days Lantern|real}} {{!}} Days of Summer Lights Lantern
+{{Icon Name|Lazy Days Lantern|held}} {{!}} A player holding the Days of Summer Lights Lantern
+{{Icon Name|Lazy Days Lantern|back}} {{!}} The Days of Summer Lights Lantern on your back
+{{Icon Name|Lazy Days Lantern|spell}} {{!}} Days of Summer Lights Lantern Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+===2020 New Spells===
+===Message Boat Spell===
+The Message Boat Spell allows players to place paper boats with custom messages floating peacefully on the water. The Message Boat will earn the player a [[Currency#Hearts|Heart]] upon reaching 50 likes<ref name="Likes requirement">In Patch {{v|0.12.3}}, the number of likes needed to earn a heart from Message Boats (and [[Message Shrines|Message Candles]]) was increased from 10 to 50.</ref> and disappear after 48 hours. (''Note: it can only be placed in water.'') This [[Spell]] was introduced in 2020 in packs of three for {{Cost|6 C}} from the Traveling Merchant's boat.
+{{#tag:gallery
+|Paper boat spell.png {{!}} Message Boat Spell icon
+Message Boat.png {{!}} Message Boat
+|widths=125|spacing=small|captionalign=center
+}}
+{{Clear}}
+
+==Trivia==
+* The Summer Lights Accessory is depicted in several merch items from [[That Sky Shop]]. To know more about That Sky Shop products, visit their website: https://thatskyshop.com
+*The Lantern Prop is featured in a piece of merch from thatskyshop, in the form of the [[That Sky Shop/Wave 11#Lantern Pin|Lantern Pin]]. It has a STAR feature which allows you and the friends holding your hand to get the Days of Summer Lights Lantern for a limited duration.
+
+==References==
+'''More information about the 2021 event can be found on [https://www.thatskygame.com/news/event-preview-days-of-summer-days-of-summer-lights ThatSkyGame's Website]'''
+
+'''More information about the 2020 event can be found on [https://thatskygame.com/news/days-of-summer-lights-launch-update ThatSkyGame's Website]'''
+<references />
+
+[[fr:Jours des Lumières d'été]]
+[[es:Días de Luz de Verano]]
+[[de:Tage der Sommerlichter]]
+[[pt-br:Dias de Luzes de Verão]]
+[[ja:夏灯りの日々]]
+
+{{DEFAULTSORT:Summer Lights, Days of}}
+[[Category:Events]]
+[[Category:Non-Recurring Events]]

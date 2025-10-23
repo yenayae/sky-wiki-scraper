@@ -1,0 +1,142 @@
+{{Spirit Infobox
+|type      = Seasonal
+|image     = Resourceful-Recluse-Spirit-cutout.png
+|emote_type = none
+|cosmetics = <!--
+-->{{Spirit Item|Resourceful Recluse|Outfit|infobox}}<!--
+-->{{Spirit Item|Resourceful Recluse|Mask|infobox}}
+|props     = <!--
+-->{{Spirit Item|Resourceful Recluse|prop_t|infobox}}<!--
+-->{{Spirit Item|Resourceful Recluse|prop_p|infobox}}
+|season    = The Two Embers - Part 1
+|realm     = Golden Wasteland
+|location  = [[The Last City]]
+|ts        = None
+}}
+<section begin="Summary" />The Resourceful Recluse is a [[Seasonal Spirit]] from the [[Season of The Two Embers - Part 1]]. The Resourceful Recluse is found in [[The Last City]], in an alcove in the wall to the right of the Marketplace. The collectibles [[#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Resourceful Recluse|Outfit|inline_text}}, a {{Spirit Item|Resourceful Recluse|Mask|inline_text}}, a {{Spirit Item|Resourceful Recluse|prop_t|label=Tea Stall Prop|inline_text}}, and a {{Spirit Item|Resourceful Recluse|prop_p|label=Vine Plant Prop|inline_text}}.
+<section end="Summary" /><br><br>
+[[File:Resourceful_Recluse.png|none|thumb|320px|TGC's Promo image]]
+== Memory ==
+<!--<div>{{#ev:youtube|YoutubeID|200px|inline|Video Guide}}-->
+
+The [[Resourceful Recluse]] can be found in [[The Last City]], tucked away from the other merchants in a quiet alley on the right side of the Marketplace. 
+
+Unlike other Spirits, the Resourceful Recluse has no memory that can be relived, but rather a Seasonal Quest dedicated to them. With the Spirit's home in shambles, unable to build it back up all by themselves, players complete a series of tasks, helping the Spirit bring their home back to its full glory.
+
+Players can interact with the Resourceful Recluse upon completion of the [[Season of The Two Embers - Part 1#Quest #2|second Quest]].
+
+==Cosmetics==
+===<span id="Outfit">Outfit</span>===
+The [[Outfit]] offered by this Spirit is a short-sleeved shirt tucked into a pale green sash. The pants are covered with a loose, yellow wrap of fabric held by a belt. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|30 SC|season=Two Embers - Part 1}} total).<br>
+<br>{{Dye_Details
+|area1=the sash
+|cost1=2
+|area2=the bottom edge of the sleeves
+|cost2=1
+}}<br><br>
+{{#tag:gallery
+|{{Icon Name|Resourceful Recluse|Outfit|icon}} {{!}} The Outfit icon
+{{Icon Name|Resourceful Recluse|Outfit|real}} {{!}} The Outfit front
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Mask">Mask</span>===
+The [[Mask]] offered by this Spirit is a long, bushy white beard and mustache, attached to a simple gray mask. It was available to all players during the Season, from the Friendship Tree's first node. ({{Cost|12 SC|season=Two Embers - Part 1}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Resourceful Recluse|Mask|icon}} {{!}} The Mask icon
+{{Icon Name|Resourceful Recluse|Mask|real}} {{!}} The Mask front
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Props===
+This Spirit offers a total of two Props: a [[#Tea Stall|Tea Stall]] and a [[#Vine Plant|Vine Plant]].
+====<span id="Prop">Tea Stall </span>====
+The [[Prop]] offered by this Spirit is a tea table stall made of stone—Two seats are on one side, and the teapot and third seat are on the other. The awning and stools are red with white accents. When placed, it functions as a three-player [[Chat]] item after players have selected the {{Icon|Drink-teacup-icon.png}} teacup icon at least once. When carried on its owner's back, it appears as a stone teapot with pale accents. It was available to all players during the Season, from the Friendship Tree's third node ({{Cost|54 SC|season=Two Embers - Part 1}} total).<br><br>
+{{#tag:gallery
+|{{Icon Name|Resourceful Recluse|prop_t|icon}} {{!}} The Prop icon
+{{Icon Name|Resourceful Recluse|prop_t|real}} {{!}} The Prop
+{{Icon Name|Resourceful Recluse|prop_t|held}} {{!}} Using the Prop
+{{Icon Name|Resourceful Recluse|prop_t|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====<span id="Prop">Vine Plant</span>====
+The [[Prop]] offered by this Spirit is a twisting, silvery branch with many twigs coming off it. It is covered in pale green leaves and round, white flowers. When carried on its owner's back, the Prop appears in its original form, though more simplified. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|84 SC|season=Two Embers - Part 1}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Resourceful Recluse|prop_p|icon}} {{!}} The Prop icon
+{{Icon Name|Resourceful Recluse|prop_p|real}} {{!}} The Prop
+{{Icon Name|Resourceful Recluse|prop_p|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+<!--   ONLY APPLICABLE ONCE SPIRIT HAS BECOME A TRAVELING SPIRIT 
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling
+|ts_dates=*June 19, 2019 (#01)
+*June 19, 2020 (#02)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = SPIRITNNAME
+|image = Resourceful-Recluse-Spirit-cutout.png
+|season = season
+
+|nodeC5 = season_heart 3 SC SP
+
+|nodeL4 = prop SP
+|nodeC4 = Random-dye-icon.png 30 SC
+
+|nodeL3 = Black-dye-container-icon.png SP
+|nodeC3 = prop 24 SC
+
+|nodeL2 = outfit SP
+|nodeC2 = Random-dye-icon.png 18 SC
+
+|nodeL1 = spellx SP
+|nodeC1 = mask 12 SC
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+The hints given before the Resourceful Recluse's first appearance were: 
+{{Collapse
+|label=First Visit Hints
+|content=<div>
+*  [ hints can be on the official Sky Discord which are posted a few days before the traveling spirit by staff of thatgamecompany. ]
+</div>
+}}
+-->
+==Season Friendship Tree ==
+{{Friendship Tree Info | season| season=Two Embers Part 1}} <section begin="Season Friendship Tree" />
+{{Friendship Tree
+|spirit = Resourceful Recluse
+|image  = Resourceful-Recluse-Spirit-cutout.png
+|type   = season
+|season = Two Embers Part 1
+
+|nodeC5 = season_heart 3 SC SP
+
+|nodeL4 = prop_p SP
+|nodeC4 = Random-dye-icon.png 30 SC
+
+|nodeL3 = Black-dye-container-icon.png SP
+|nodeC3 = prop_t 24 SC
+
+|nodeL2 = outfit SP
+|nodeC2 = Random-dye-icon.png 18 SC
+
+|nodeL1 = spellx SP
+|nodeC1 = mask 12 SC
+}}<section end="Season Friendship Tree" />
+
+==Personality==
+On July 28, 2025, TGC officially announced and introduced the Resourceful Recluse with the following personality traits:
+*📏Prefers to have things done and arranged just so
+*👀Has gained much of their knowledge simply from quiet observation
+*🌱Treasures the wisdom gained from plant life most of all
+*🤝Will show others around the area—if they warm up to that person
+==References==
+<references />
+[[fr:Reclus ingénieux]]
+[[ja:機知に富む隠とん者]]
+[[pt-br:Recluso Ingenioso]]

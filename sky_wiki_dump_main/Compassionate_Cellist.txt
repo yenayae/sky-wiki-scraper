@@ -1,0 +1,86 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= None
+|image     = Duets-Spirit-Compassionate-Cellist.png
+|cosmetics = <!--
+-->{{Spirit Item|Compassionate Cellist|Facepiece|infobox}}
+|instruments = <!--
+-->{{Spirit Item|Compassionate Cellist|Instrument|infobox}}
+|season    = Duets
+|realm     = Aviary Village
+|location  = [[Concert Hall]]
+|related   = <!--
+-->{{Spirit|The Cellist's Beginnings|infobox}}<!--
+-->{{Spirit|The Cellist's Flourishing|infobox}}<!--
+-->{{Spirit|The Musicians' Legacy|infobox}}<!--
+-->{{Spirit|The Pianist's Beginnings|infobox}}<!--
+-->{{Spirit|The Pianist's Flourishing|infobox}}<!--
+-->{{Spirit|Duets Guide|infobox}}
+|ts        = N/A
+}}
+<section begin="Summary" />The '''Compassionate Cellist''' is a [[Seasonal Spirit]] from the [[Season of Duets]]. The Compassionate Cellist is found in the [[Concert Hall]] in [[Aviary Village]], in the curtained-off area behind the backstage hallway where the [[Season of Duets#Spirits & Cosmetics|Duets Seasonal Shops]] can be found. This Seasonal Spirit is particularly unique compared to others, requiring players to first complete the [[Season of Duets#Quest #4|fourth Seasonal Quest]] to access their cosmetics and they do not offer an [[Expression]]. In addition, this Spirit remains '''permanently available''' after the Season ends. The collectibles [[Compassionate Cellist#Friendship Tree|offered]] by this Spirit are a {{Spirit Item|Compassionate Cellist|Facepiece|inline_text}} and the {{Spirit Item|Compassionate Cellist|Instrument|inline_text|label=Duets Cello Instrument}}.<section end="Summary" /><br>
+<br>
+[[File:SoDuets-Compassionate-Cellist-promo-image.png|none|thumb|200px|TGC's Promo image]]
+
+==Cosmetics==
+===Face Accessory===
+The [[Face Accessory]] offered by this Spirit is a golden tiara made of two disconnected bands that curl over the player's forehead and is topped by a four-pointed star, costing {{Cost|85 C}}. It is permanently available to all players after completing the [[Season of Duets#Quest #4|fourth Seasonal Quest]] from the Season of Duets.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Compassionate Cellist|Facepiece|icon}} {{!}} The Face Accessory icon
+{{Icon Name|Compassionate Cellist|Facepiece|real}} {{!}} The Face Accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Duets Cello">Instrument</span>===
+::''Not to be confused with {{Spirit Item|The Musician's Legacy|instrument_c|inline_text}}'' 
+The [[Instrument]] offered by this Spirit is the '''Duets Cello'''. It has a light purple body with gold accents and features a gradient fish scale design on both the upper and lower half of the body, costing {{Cost|200 C}}. It is permanently available to all players after completing the [[Season of Duets#Quest #4|fourth Seasonal Quest]] from the Season of Duets. The player is standing while playing the Instrument, which plays 15 notes, and shares the same sound as the Musician's Legacy [[Cello]].
+<!--
+The Duets Cello plays the [[Music Sheet Parts|??? part]] on Music Sheets. Its [[Instrument Pitch|pitch]] is ??? octave above/below the standard [[Piano]] (in C major, it covers ??? to ???).--><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Compassionate Cellist|Instrument|icon}} {{!}} The Instrument icon
+{{Icon Name|Compassionate Cellist|Instrument|real}} {{!}} The Instrument
+{{Icon Name|Compassionate Cellist|Instrument|held}} {{!}} Playing the Instrument
+{{Icon Name|Compassionate Cellist|Instrument|back}} {{!}} The Instrument on a player's back
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines
+}}
+
+==Friendship Tree ==
+This [[Seasonal Spirits#Seasonal Spirit Trees|Friendship Tree]] shows all the collectibles that can be purchased from this [[Seasonal Spirit]]. Unlike typical Seasonal Spirits, all items remain permanently available to all players who have completed the [[Season of Duets#Quest #4|fourth Seasonal Quest]] from the Season of Duets and cost regular [[Currency]].<section begin="Friendship Tree" />
+{{Friendship Tree
+|spirit = Compassionate Cellist
+|image  = Duets-Spirit-Compassionate-Cellist.png
+
+|nodeC2 = Instrument 200 C
+| linkC2 = Compassionate Cellist#Instrument
+
+|nodeR1 = heart free
+|nodeL1 = Facepiece 85 C
+| linkL1 = Compassionate Cellist#Face Accessory
+
+|nodeC1 = Shared-memory-spell-in-tree-icon.png Free
+|  linkC1 = Shared Memory Candle
+|  labelC1 = Shared Memory Spell
+}}<section end="Friendship Tree" />
+
+==Personality==
+On August 16, 2024, TGC officially announced and introduced the Compassionate Cellist with the following personality traits<ref>https://x.com/thatskygame/status/1824597039386333316</ref>:
+
+*💭 Invented a code that uses whistling songs
+*🎶Loves to learn sea shanties
+*🪟 If they see a spider trapped indoors, they'll help it get back outside
+*👀Sometimes they like busking more than playing onstage, to tell the truth
+<!--
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+
+</gallery> -->
+
+==References==
+<references />
+
+[[ja:思いやり深いチェリスト]]
+[[pt-br:Violoncelista Solidária]]
+[[de:Mitfühlende Cellistin]]
+[[fr:Violoncelliste compatissante]]

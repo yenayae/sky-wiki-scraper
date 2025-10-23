@@ -1,0 +1,164 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Assembly-Spirit-Scaredy-Cadet.png|Standard
+Assembly-Spirit-Scaredy-Cadet-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Mask|infobox}}{{Spirit Item||Hair|infobox}}
+|props     = {{Spirit Item||Prop|infobox}}
+|music     = {{Music Sheet|21}}
+|season    = Assembly
+|realm     = Hidden Forest
+|location  = Forest's Brook
+|ts        = August 28, 2025 (TS#147)<br>March 6, 2023 (SV#1)
+}}
+<section begin="Summary" />The '''Scaredy Cadet''' is a [[Seasonal Spirit]] from the [[Season of Assembly]] who offers the {{Emote|Scaredy Cadet|inline_text}} Expression. The Scaredy Cadet is found to the right side of [[Forest's Brook]], just past the pavilion with the Message Shrine. The collectibles [[#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Scaredy Cadet|Mask|inline_text}}, a {{Spirit Item|Scaredy Cadet|Hair|inline_text}}, a {{Spirit Item|Scaredy Cadet|Prop|label=Hammock Prop|inline_text}}, and the {{Music Sheet|21|inline_text}}.<section end="Summary" />
+
+== Memory ==
+<div>
+{{#ev:youtube|9xJWRdPM_t0||inline|Video Guide}}
+<br>
+The Scaredy Cadet can be found to the right side of [[Forest's Brook]], just past the pavilion with the Message Shrine. This Spirit has a [[Standard Memory|standard memory]] with 7 memory fragments and a 15-minute overall [[Timed Memory|time limit]]. 
+
+Note that some fragments are exposed to the [[Spirit Health|polluted rain]], so be quick to collect them.
+
+As their memory unfolds, the Scaredy Cadet and the [[Marching Adventurer]] can be seen working together to build a hammock. They appear to be short of a few pieces, and the Adventurer encourages the Cadet to venture through the Forest's Brook to go find more supplies. The two Spirits walk along the Brook until the Adventurer spots some extra hammock parts on the other side of the water. The Adventurer crosses the Brook with ease, while the Cadet remains on the opposite side, frightened of the water.
+
+At the end of the memory, the Marching Adventurer beckons to the Scaredy Cadet, encouraging them to cross the Brook. The Cadet dips one foot into the water, but quickly pulls their foot out and shakes the water off of it.<br>
+<br>
+[[File:02 HF Seasonal Spirit - Scaredy Cadet.png|200px|left|thumb|Relive the Scaredy Cadet's memory]]
+</div>
+{{Clear}}
+
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Scaredy-Cadet-eww-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Scaredy-Cadet-eww-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Scaredy-Cadet-eww-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Scaredy-Cadet-eww-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar slowly extend their right hand before quickly pulling it away and shaking it rapidly, only standing on their left foot as they shake your hand. While your avatar slowly sticks their right hand out, a string crescendo plays in the background, and when they pull their hand away, the crescendo breaks into a loud but quick horn accent.
+*Level 2 makes the same motion as Level 1, with white light particles flicking out from your avatar's hand as they pull it away, as well as white trails of light following the motion of their hands as they go to stand up straight again.
+*Level 3 will make your avatar step forward tentatively with their right foot before quickly pulling their foot back towards their body, quickly hopping from foot to foot and shaking their head from side to side afterwards, before shaking their foot as though something were stuck to it. Similarly to Level 1, a string crescendo will play as your avatar sticks their foot out, continuing until they pull it away. At this point a similar but louder horn sound effect will play.
+*Level 4 makes the same motion as Level 3, with white light particles flicking out from your avatar's foot as soon as it touches the ground, right before they pull it back. 
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+== Cosmetics==
+=== Mask ===
+The [[Mask]] offered by this Spirit is round and stone-gray, with a thick vertical yellow stripe going through the right eye, costing {{Cost|24 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's second node ({{Cost|5 SC|season=Assembly}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Hair ===
+The [[Hair]] offered by this Spirit includes shoulder-length, thick, downwards-hanging dreadlocks under a yellow scarf with green accents, tied together in the back and covering the forehead to the back of the head, costing {{Cost|45 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|30 SC|season=Assembly}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Prop ===
+The [[Prop]] offered by this Spirit is a blue hammock, costing {{Cost|55 C}} from the Traveling Spirit. It is a placeable Prop that can be used in [[Shared Spaces]]. It is a one-person chat item, which means that used by itself it does not allow players to chat, but when placed near a chat table (or any other chat Prop) it allows someone sitting in the hammock to join the conversation at the table. 
+
+It appears as a disassembled hammock with the fabric tied to several sticks on its owner's back when carried. It was available to all players during the Season from the fifth node ({{Cost|50 SC|season=Assembly}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Prop|icon}} {{!}} The Prop icon
+{{Icon Name||Prop|real}} {{!}} The Prop
+{{Icon Name||Prop|held}} {{!}} The Prop in use
+{{Icon Name||Prop|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Music Sheet ==
+The Scaredy Cadet offers the {{Music Sheet|21}}[[Music Sheet]] #21, costing {{Cost|15 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fourth node ({{Cost|30 SC|season=Assembly}} total). It is a song in the key of C Major.<br>
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guide
+|content=
+{{#ev:youtube|Zd8BYkDdaOQ||inline|Music Sheet Video Guide by Ikejiji}}
+}}
+
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling 
+| ts_dates=*August 28, 2025 (TS#147)
+| rs_dates=*March 6, 2023 (SV#1)}}
+<section begin='TS Friendship Tree' />{{Friendship Tree
+|spirit = Scaredy Cadet
+|image  = Scaredy Cadet Sprite.png
+|season = Assembly
+
+|nodeC6 = Prop 55 C
+|nodeL5 = Hair 45 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeR4 = music21 15 C
+|nodeC3 = wing
+|nodeL2 = Mask 24 C
+|nodeC2 = spell5
+|nodeR2 = Heart 3 C
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end='TS Friendship Tree' />
+<!--
+===Hints===
+The hints given before the {{PAGENAME}}'s appearance were: 
+-->
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Assembly}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Scaredy Cadet
+|image  = Scaredy Cadet Sprite.png
+|type   = season
+|season = Assembly
+
+|nodeC6 = season_heart 3 SC SP
+|nodeL5 = spell5 SP
+|nodeC5 = Prop 20 SC
+|nodeL4 = Hair SP
+|nodeC4 = music21 15 SC
+|nodeL3 = emote4 SP
+|nodeC3 = emote3 10 SC
+|nodeL2 = spell5 SP
+|nodeC2 = Mask 5 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+== Trivia ==
+* When the [[Village Theater]] was first released, the Scaredy Cadet could be seen floating very high in the air above the theater. It was not possible to interact with the figure in any way because it was located outside the wind walls.
+* The Scaredy Cadet hosted the [[Spring Camping]] Event in 2024, guiding players in Aviary Village to the Event location.
+
+==Image Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Eww expression .jpg
+season of assembly shoot scaredy expression.png
+season of assembly shoot group scaredy.png
+season of assembly shoot group scared expression.jpg
+</gallery>
+
+==Video Gallery==
+{{#ev:youtube|ygMPERry2xs|175|inline|Video Guide by Tara}}
+
+==References==
+<references/>
+
+[[de:Verängstigter Kadett]]
+[[fr:Cadet effrayé]]
+[[pt-br:Cadete Cauteloso]]
+[[ru:Кадет-трусишка]]
+[[ja:臆病な見習い士官]]

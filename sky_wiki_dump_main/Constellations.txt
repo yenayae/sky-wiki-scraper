@@ -1,0 +1,107 @@
+{{Spoilers}}
+[[File:Spirit-tips-7-Fill-the-constellation.jpg|thumb|300px]]
+Each [[Realms|Realm]] in Sky is represented by a '''Constellation''', where the Realm's [[Regular Spirits]] appear as individual stars.  The Constellations provide summaries of the overall game progress, and are the main way to access the Regular Spirits' [[Friendship Tree (Regular)|Friendship Tree]]s.  Constellations also appear on [[Constellation Gate]]s.
+
+== Viewing Constellations ==
+<gallery position="center" captionalign="center" navigation="true" spacing="small" orientation="square" widths="180" bordersize="none">
+01_Isle_Constellation.png
+02_Prairie_Constellation.png
+03_Forest_Constellation.png
+04_Valley_Constellation.png
+05_Wasteland_Constellation.png
+06_Vault_Constellation.png
+</gallery>
+There are three ways to view the Constellations. The same information is available in all places.
+* The [[Constellation Table]] at [[Home]] and [[Aviary Village]] allows you to see all the Realms's Constellations.
+* The altar in each Realm's Temple allows you to see the individual Realm's Constellation.
+* A second Constellation Table is found at the end of [[Eye of Eden]]
+
+The stars in the Constellation represent the [[Regular Spirits]] in that Realm. The active [[Seasons|Season]] also has a Constellation containing that Season's Spirits. These Constellations only activate temporary gifts for unlocking everything.
+
+There are currently some blank stars in the Constellations. Perhaps they will be filled one day. If you have not collected all of the Spirits from a Realm, you'll see a message "#/# Spirits collected" when viewing the Constellation in Home. Otherwise, you'll see your completion percentage - which indicates how many items you have bought in that Constellation.
+
+== Completing Constellations ==
+In order to complete a Constellation, you must not only find every Spirit but also purchase every item within their Friendship Trees. This will mean a lot of [[Currency#Hearts|Heart]]-collecting and trips to Eden for [[Currency#Ascended Candles|Ascended Candles]] in order to unlock everything. This does not include the [[Wing Buffs]] to unlock the [[Capes#Tier 2 Capes|Tier 2 Capes]], nor the Tier 2 Capes themselves. The individual costs of Cosmetics and every Collectible in a Friendship Tree can be found on the [[Regular Spirits/Friendship Trees]] page or the individual Spirit pages.
+
+[[Elders]] are featured in the ending cutscene of each Realm. These are the cutscenes that you watch in order to complete the area and open the portal to the next. Each Elder's [[Hair]] and some of the Elder's [[Face Accessories]] are available to collect by completing the entire Constellation for that Realm. (Currently, only Face Accessories from the [[Elder of the Isle]], [[Elder of the Prairie]], and [[Elder of the Forest]] are available.)
+
+== Ultimate Gifts ==
+<section begin="Ultimate Gifts" />'''Ultimate Gifts''' are the special rewards that are unlocked after completing a Constellation. In the case of the regular Realms, the rewards are the '''Elder Hairs''' and '''Elder Face Accessories.''' However, currently only three of the Constellations have '''Elder Face Accessories''': [[Elder of the Isle]], [[Elder of the Prairie]], and [[Elder of the Forest]].
+
+In every Constellation there is a question mark. When tapped, it will bring up the prompt: "''Unlock all the rewards in this Constellation to receive the Ultimate Gift''". [[Constellations#Completing Constellations|Completing a Constellation]] means purchasing absolutely everything from every Spirit within that Constellation, not including the [[Wing Buffs]] to unlock the [[Capes#Tier 2 Capes|Tier 2 Capes]], nor the Tier 2 Capes themselves.
+
+Once completed, the question marks in the six '''regular Constellations''', will turn into flags. When tapped, players are then given the prompt: ''"You've completed the whole Constellation. Visit the Light"''. To visit the Light, go through the [[Eye of Eden]] and interact with the Constellation Table in Orbit. Once there, tapping the flag in the Constellation will summon the Elder for that Realm. Players will then be able to purchase the Ultimate Gift: the Elder's Hair or Face Accessory using [[Currency#Ascended Candles|Ascended Candles]].
+
+These Face Accessories protect players from losing [[Winged Light]] from sources of damage, such as [[Dark Dragons]], [[Dark Crabs|Crabs]], [[Dark Worm]] and rocks, until they shatter. They will not protect players in the [[Season of Prophecy#The Trials|Trial of Fire]], or from damage from rain or [[Flora, Minerals and Elements of Sky#Polluted Water|Polluted Water]]. To fix broken Elder Face Accessories, players can either summon the Elder  at the end of the [[Eye of Eden]] once more or go to the Elder's Temple.<section end="Ultimate Gifts" />
+
+<gallery widths="175" spacing="small" captionalign="center" hideaddbutton="true" mode="nolines">
+File:UGvalley.jpg|Prompt for completing the Constellation
+File:Visiting_the_Light_asc.jpg|The Constellation Table in Orbit
+</gallery>
+
+Below are images related to completing each of the regular Constellations and their Ultimate Gifts.
+===Summary Costs===
+{{#lst:Elders|Friendship Trees}}
+
+===[[Isle of Dawn]]===
+<gallery widths="125" spacing="small" captionalign="center" hideaddbutton="true" mode="nolines">
+Isle constellation asc.png
+Isle Elder asc.jpg|Elder of the Isle
+Hair19-Isle Elder.png|Isle Elder Hair (4 Ascended Candles)
+File:Elder-of-the-Isle-Face-Accessory.png|Isle Elder's Face Accessory (Lit) (125 Ascended Candles)
+File:Elder-of-the-Isle-Face-Accessory-Shattered.png|Isle Elder Face Accessory (Unlit) (125 Ascended Candles)
+</gallery>
+
+===[[Daylight Prairie]]===
+<gallery widths="125" spacing="small" captionalign="center" hideaddbutton="true" mode="nolines">
+Prairie constellation asc.png
+Prairie elder asc.png|Elder of the Prairie
+Hair20-Prairie Elder.png|Prairie Elder Hair (3 Ascended Candles)
+File:Elder-of-the-Prairie-Face-Accessory.png|Prairie Elder Face Accessory (Lit) (75 Ascended Candles)
+File:Elder-of-the-Prairie-Face-Accessory-Shattered.png|Prairie Elder Face Accessory (Unlit) (75 Ascended Candles)
+</gallery>
+
+===[[Hidden Forest]]===
+<gallery widths="125" spacing="small" captionalign="center" hideaddbutton="true" mode="nolines">
+Forest constellation asc.png
+Forest Elder asc.jpg|Elder of the Forest
+Hair21-Forest Elder.png|Forest Elder Hair (6 Ascended Candles)
+File:Elder-of-the-Forest-Face-Accessory.png|Forest Elder Face Accessory (Lit) (250 Ascended Candles)
+File:Elder-of-the-Forest-Face-Accessory-Shattered.png|Forest Elder Face Accessory (Unlit) (250 Ascended Candles) 
+</gallery>
+
+===[[Valley of Triumph]]===
+<gallery widths="125" spacing="small" captionalign="center" hideaddbutton="true" mode="nolines">
+Valley Constellation asc.png
+Valley Elders asc.jpg|Elder of the Valley
+Hair23-Valley Elder 2.png|First Valley Elder Hair (5 Ascended Candles)
+Hair22-Valley Elder 1.png|Second Valley Elder Hair (6 Ascended Candles; must unlock First Valley Elder's hair first)
+</gallery>
+
+===[[Golden Wasteland]]===
+<gallery widths="125" spacing="small" captionalign="center" hideaddbutton="true" mode="nolines">
+Wasteland Constellation asc.png
+Wasteland Elder asc.jpg|Elder of the Wasteland
+Hair24-Wasteland Elder.png|Wasteland Elder Hair (6 Ascended Candles)
+</gallery>
+
+===[[Vault of Knowledge]]===
+<gallery widths="125" spacing="small" captionalign="center" hideaddbutton="true" mode="nolines">
+Vault Constellation asc.png
+Vault Elder asc.jpg|Elder of the Vault
+Hair25-Vault Elder.png|Vault Elder Hair (5 Ascended Candles)
+</gallery>
+
+===Video Guide===
+[[File:Spirit Constellations and Unlocking Ultimate Rewards|none|thumb|330x330px]]
+
+{{Navigation Box}}
+
+[[pt-br:Constelações]]
+[[de:Sternbilder]]
+[[ja:星座]]
+[[fr:Constellations]]
+
+[[Category:Menus]]
+[[Category:Elders]]
+[[Category:Advanced Guides]]

@@ -1,0 +1,252 @@
+{{Season
+| image = Belonging square promo.png
+| start = November 18, 2019
+| end = January 12, 2020
+| spirits = 6
+| previousSeason = [[Season of Lightseekers]]
+| nextSeason = [[Season of Rhythm]]
+| constellation = <gallery>
+Season-of-Belonging-Constellation.png|Vector
+Belonging Constellation.png|Screenshot
+</gallery>
+| symbol = 3_Belonging.png
+}}
+
+The '''Season of Belonging''' began on November 18, 2019 and ended on January 12, 2020, lasting a total of 55 days. It was the third Seasonal Event in the Live version of Sky since the Global Release. The Season of Belonging succeeded the [[Season of Lightseekers]] and preceded the [[Season of Rhythm]].
+
+This holiday season was centered around a family of six Spirits trying to find their way home to the Belonging Guide.
+<br>
+{{#ev:youtube|ARm-31OG56k||inline|Season of Belonging Trailer}}
+
+==Welcome==
+<center class="title-text-welcome">[https://thatgamecompany.com/season-of-belonging-arrives-in-time-for-the-holidays/ Welcome to the Season of Belonging!]</center>A family of six Spirits will make their way to the kingdom of Sky! The Spirits have been scattered across the Kingdoms of Sky, but now they need your help bringing the family back together. Why don’t you grab a friend or two and explore all six Sky kingdoms to discover where each Spirit went?
+
+A number of changes were introduced with this season:
+*Players no longer required the Adventure Pass to obtain 4 Daily Tasks
+*The [[Seasonal Spirits]] arrived one by one into the realms once a week, rather than all at once. The previous Spirits remained as the new ones were added, so by the sixth week all six Spirits were present.
+*[[Currency#Season Hearts|Seasonal Hearts]] were introduced. At the end of each Spirit Friendship Tree (the highest node) players with the Adventure Pass could unlock a Seasonal Heart with a number of Seasonal Candles. This new currency was used to obtain the Ultimate Gift.
+*One new area was added to every Realm except [[Daylight Prairie]] and [[Eye of Eden]].
+
+==Newly Added Areas==
+The Season of Belonging brought 5 new areas, a [[Isle of Dawn#Butterfly Cave|Butterfly Cave]] in Isle of Dawn, the [[Underground Caverns]] in Hidden Forest, the [[Valley of Triumph#Temple Maze|Temple Maze]] in Valley of Triumph, the [[Golden Wasteland#Points of Interest|roasting crabs]] in Golden Wasteland and [[The Archives]] in Vault of Knowledge.
+*The side-area in Isle of Dawn (to the right of the Temple) got updated to be more spacious, with a 2-player door, a small multiplayer door and various pots; the Butterfly Cave.
+*A new area in Hidden Forest - the Underground Caverns. Found in Sunny Forest, the entrance needs two players to simultaneously use the "Angry" Expression on a trapdoor.
+*A new area in the Temple of Valley of Triumph. The Spirit Gate at the entrance required players to have collected two other Belonging Seasonal Spirits at the time of the season.
+*A new campfire with a rotating spit of roasting Crabs was added to Wasteland's Graveyard.
+*A new area in the Vault of Knowledge - The Archives. To reach it, players would first need to open a 2-player door, and then pass through a Spirit Gate requiring the player to have collected one Regular Vault Spirit.
+
+===Butterfly Cave===
+[[File:Isle_Butterfly-Cave.jpg|thumb|300px|The Butterfly Cave in the Isle of Dawn]]
+{{#lst:Isle of Dawn|Butterfly Cave}}
+{{Clear}}
+
+===Underground Caverns===
+{{Main|Underground Caverns}}
+[[File:Caverns.jpg|thumb|300px|The Underground Caverns in the Hidden Forest]]
+{{#lst:Underground Caverns|Summary}}
+{{Clear}}
+
+===The Temple Maze===
+[[File:Valley-Temple-Maze.png|thumb|300px|The Temple Maze in the Valley of Triumph]]
+{{#lst:Valley of Triumph|Temple Maze}}
+{{Clear}}
+
+===The Archives===
+{{Main|The Archives}}
+
+[[File:Vault Archives1.png|thumb|300px|The Archives in the Vault of Knowledge]]
+{{#lst:The Archives|Summary}}
+{{Clear}}
+
+== Daily Quests & Seasonal Candles==
+
+===Daily Quests===
+Collect [[Seasonal Events#Seasonal Candles|Seasonal Candles]] throughout the Season to trade with the new spirits for their cosmetics. A total of 6 seasonal candles were available to gather, as follows:
+*Each day the [[Belonging Guide]] stood next to a Realm's portal, indicating where the day's [[Quests|daily quests]] could be completed. Players would earn one seasonal candle per quest completed. There were 4 quests in total. Players could claim their rewards by talking to the Belonging Guide. (4 candles)
+*Players could collect an extra candle by collecting the 4 seasonal bunches found in the realm the Belonging Guide was standing next to. <small>(more information on the "Seasonal bunches locations" below).</small> (1 candle)
+* Players who had the [[Adventure Pass]] could claim a Seasonal Candle at [[Home]] as a free daily bonus. (1 candle)
+<gallery widths="125" spacing="small" captionalign="center" hideaddbutton="true" mode="nolines">
+Belonging AP1.png|Belonging Adventure Pass Page 1
+Belonging AP2.png|Belonging Adventure Pass Page 2
+SOB-Seasonal-Candles.jpg|A bunch of Seasonal Belonging Candles
+</gallery>
+
+===Seasonal Candle Bunches Locations===
+During the season, players could find Seasonal Candle bunches in 1 realm per day, excluding [[Isle of Dawn]].
+*[[Daylight Prairie]]: 4 around the Butterfly Fields
+*[[Hidden Forest]]: 4 around the Underground Caverns
+*[[Valley of Triumph]]: 4 spread around the the Temple Maze
+*[[Golden Wasteland]]: 4 around the Graveyard
+*[[Vault of Knowledge]]: 4 spread around the Archives Maze
+
+==Spirits and Cosmetics==
+All of the ''Season of Belonging'' Spirits can be found scattered around the 6 realms of Sky. There were 5 Expressions and 1 Stance to gather - overall, 6 spirits.{{#tag:gallery
+|{{Icon Name|Boogie Kid|emote}} {{!}} {{Icon Name|Boogie Kid|emote_name}}
+{{Icon Name|Confetti Cousin|emote}} {{!}} {{Icon Name|Confetti Cousin|emote_name}}
+{{Icon Name|Hairtousle Teen|emote}} {{!}} {{Icon Name|Hairtousle Teen|emote_name}}
+{{Icon Name|Sparkler Parent|emote}} {{!}} {{Icon Name|Sparkler Parent|emote_name}}
+{{Icon Name|Pleaful Parent|emote}} {{!}} {{Icon Name|Pleaful Parent|emote_name}}
+{{Icon Name|Wise Grandparent|emote}} {{!}} {{Icon Name|Wise Grandparent|emote_name}}
+|widths=65|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===All Belonging Friendship Trees===
+There are 5 Expressions and 1 Stance - overall, 6 spirits.
+{{Mobile Tabber
+|tab1 = {{Season Icon|Belonging|tab}}
+|c1   = {{#lst:Belonging Guide|Friendship Tree}}
+|tab2 = {{Emote|Boogie Kid|tab}}
+|c2   = {{#lst:Boogie Kid|Season Friendship Tree}}
+|tab3 = {{Emote|Confetti Cousin|tab}}
+|c3   = {{#lst:Confetti Cousin|Season Friendship Tree}}
+|tab4 = {{Emote|Hairtousle Teen|tab}}
+|c4   = {{#lst:Hairtousle Teen|Season Friendship Tree}}
+|tab5 = {{Emote|Sparkler Parent|tab}}
+|c5   = {{#lst:Sparkler Parent|Season Friendship Tree}}
+|tab6 = {{Emote|Pleaful Parent|tab}}
+|c6   = {{#lst:Pleaful Parent|Season Friendship Tree}}
+|tab7 = {{Emote|Wise Grandparent|tab}}
+|c7   = {{#lst:Wise Grandparent|Season Friendship Tree}}
+}}
+
+===[[Boogie Kid]]===
+{{#lst:Boogie Kid|Summary}}
+{{#tag:gallery
+|{{Icon Name|Boogie Kid|mask|real}} {{!}} Mask
+{{Icon Name|Boogie Kid|outfit|real}} {{!}} Outfit
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+===[[Confetti Cousin]]===
+{{#lst:Confetti Cousin|Summary}}
+{{#tag:gallery
+|{{Icon Name|Confetti Cousin|hair|real}} {{!}} Hair
+{{Icon Name|Confetti Cousin|cape|real}} {{!}} Cape
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+===[[Hairtousle Teen]] ===
+{{#lst:Hairtousle Teen|Summary}}
+{{#tag:gallery
+|{{Icon Name|Hairtousle Teen|headpiece|real}} {{!}} Hair Accessory
+{{Icon Name|Hairtousle Teen|instrument|real}} {{!}} {{Icon Name|Hairtousle Teen|inst_name}}
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+===[[Sparkler Parent]]===
+{{#lst:Sparkler Parent|Summary}}
+{{#tag:gallery
+|{{Icon Name|Sparkler Parent|mask|real}} {{!}} Mask
+{{Icon Name|Sparkler Parent|hair|real}} {{!}} Hair
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+===[[Pleaful Parent]]===
+{{#lst:Pleaful Parent|Summary}}
+{{#tag:gallery
+|{{Icon Name|Pleaful Parent|mask|real}} {{!}} Mask
+{{Icon Name|Pleaful Parent|cape|real}} {{!}} Cape
+{{Icon Name|Pleaful Parent|instrument|real}} {{!}} {{Icon Name|Pleaful Parent|inst_name}}
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+===[[Wise Grandparent]]===
+{{#lst:Wise Grandparent|Summary}}
+{{#tag:gallery
+|{{Icon Name|Wise Grandparent|mask|real}} {{!}} Mask
+{{Icon Name|Wise Grandparent|cape|real}} {{!}} Cape
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+===[[Belonging Guide]]===
+{{#lst:Belonging Guide|Summary}}
+{{#tag:gallery
+|{{Icon Name|Belonging Guide|necklace_u|real}} {{!}} Belonging Ultimate Pendant
+{{Icon Name|Belonging Guide|prop_u|real}} {{!}} {{Icon Name|Belonging Guide|prop_u_name}}
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+==Price Chart==
+{| class="article-table"
+!Spirit
+! colspan="5" |Candle Cost
+!Total Seasonal Candles 
+|-
+|[[Confetti Cousin]]
+|{{#vardefineecho:A1| 8  }}
+|{{#vardefineecho:A2| 10 }}
+|{{#vardefineecho:A3| 12 }}
+|{{#vardefineecho:A4|  }}
+|3*
+|{{Cost| {{#vardefineecho:Asum| {{#expr: {{#var:A1}} + {{#var:A2}} + {{#var:A3}} + {{#var:A4}} + 3 }} }} SC|season=Belonging}}
+|-
+|[[Boogie Kid]]
+|{{#vardefineecho:B1| 8  }}
+|{{#vardefineecho:B2| 10 }}
+|{{#vardefineecho:B3| 12 }}
+|{{#vardefineecho:B4|  }}
+|3*
+|{{Cost| {{#vardefineecho:Bsum| {{#expr: {{#var:B1}} + {{#var:B2}} + {{#var:B3}} + {{#var:B4}} + 3 }} }} SC|season=Belonging}}
+|-
+|[[Sparkler Parent]]
+|{{#vardefineecho:C1| 10 }}
+|{{#vardefineecho:C2| 12 }}
+| {{#vardefineecho:C3| 14 }}
+|{{#vardefineecho:C4|  }}
+|3*
+|{{Cost| {{#vardefineecho:Csum| {{#expr: {{#var:C1}} + {{#var:C2}} + {{#var:C3}} + {{#var:C4}} + 3 }} }} SC|season=Belonging}}
+|-
+|[[Wise Grandparent]]
+|{{#vardefineecho:D1| 10 }}
+|{{#vardefineecho:D2| 12 }}
+|{{#vardefineecho:D3| 14 }}
+|{{#vardefineecho:D4| 16 }}
+|3*
+|{{Cost| {{#vardefineecho:Dsum| {{#expr: {{#var:D1}} + {{#var:D2}} + {{#var:D3}} + {{#var:D4}} + 3 }} }} SC|season=Belonging}}
+|-
+|[[Pleaful Parent]]
+|{{#vardefineecho:E1| 14 }}
+|{{#vardefineecho:E2| 16 }}
+|{{#vardefineecho:E3| 18 }}
+|{{#vardefineecho:E4|  }}
+|3* 
+|{{Cost| {{#vardefineecho:Esum| {{#expr: {{#var:E1}} + {{#var:E2}} + {{#var:E3}} + {{#var:E4}} + 3 }} }} SC|season=Belonging}}
+|-
+|[[Hairtousle Teen]]
+|{{#vardefineecho:F1| 12 }}
+|{{#vardefineecho:F2| 14 }}
+|{{#vardefineecho:F3| 16 }}
+|{{#vardefineecho:F4| 18 }}
+|3*
+| {{Cost| {{#vardefineecho:Fsum| {{#expr: {{#var:F1}} + {{#var:F2}} + {{#var:F3}} + {{#var:F4}} + 3 }} }} SC|season=Belonging}}
+|-
+! colspan="6" |Total for Season
+!{{Cost| {{#expr: {{#var:Asum}} + {{#var:Bsum}} + {{#var:Csum}} + {{#var:Dsum}} + {{#var:Esum}} + {{#var:Fsum}} }} SC|season=Belonging}}
+|}<small>''* Only available with [[Season Pass]] (Seasonal Hearts) (subtract when calculating without)''</small>[[File:Belonging prices by sky tea11.png|none|thumb|590x590px|Chart posted with permission. Please do not redistribute without permission from @sky_Tea11 on Twitter.]]
+
+==Trivia==
+* The Seasonal Spirits were not available all at once and instead arrived in following order: Confetti Cousin, Boogie Kid, Sparkler Parent, Wise Grandparent, Pleaful Parent, and then Hairtousle Teen.
+* The Season of Belonging is depicted in several merch items from [[That Sky Shop]]. To know more about That Sky Shop products, visit their website: https://thatskyshop.com
+
+==Video Gallery==
+<gallery>
+File:Sky Children of the Light Guide to Season of Belonging, and Other Updates
+File:Sky- Children of the Light- Season of Belonging Recap - Spirit Collections and Ultimate Reward|The Live version introduced some upgrades to the Spirit Expression collection scenes.
+File:Season of belonging playlist.png|Season of Belonging Playlist by Tara's Sky Journey|link=https://www.youtube.com/playlist?list=PLKh97ggSLvdwK8L8V0T720yumvQEWb3zl
+</gallery>
+
+==Image Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+SoBelonging-Confetti-Cousin-promo-image.png
+SoBelonging-Boogie-Kid-promo-image.png
+SoBelonging-Sparkler-Parent-promo-image.png
+SoBelonging-Wise-Grandparent-promo-image.png
+SoBelonging-Pleaful-Parent-promo-image.png
+SoBelonging-Hairtousle-Teen-promo-image.png
+SoBelonging-Guide-promo-image.png
+SoBelonging-Bonfire-promo-image.png
+SoBelonging-candles-promo-image.png
+SoBelonging-Underground-Caverns-promo-image.png
+SoBelonging-Candle-Dark-Dragon-promo-image.png
+SoBelonging-spirits-and-skykid-promo-art.png
+</gallery>
+
+==References==
+<references />
+
+{{Seasonal Navbox}}
+{{Navigation Box}}
+
+[[de:Saison des Zusammengehörens]]
+[[fr:Saison de l'Appartenance]]
+[[pt-br:Temporada do Pertencer]]
+[[ru:Сезон сопричастности]]
+[[ja:想いを編む季節]]
+
+{{DEFAULTSORT:Belonging, Season of}}

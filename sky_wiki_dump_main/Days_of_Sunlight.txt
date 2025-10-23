@@ -1,0 +1,986 @@
+{{SkyEvent
+| image = Days-of-Sunlight-promo-image-2025.jpg
+| previousevent = [[Sky Anniversary]]
+| nextevent = [[Days of Moonlight]]
+| date = September 1 to September 22, 2025<ref name="Sunlight2025_extended"></ref>
+}}
+'''Days of Sunlight''' is an annual event celebrating the warmth of the summer season, encouraging players to kick back and relax under the sun. Days of Sunlight was first introduced in 2022 as the successor to [[Days of Summer]] before later returning the following year, where it was combined with [[Lazy Days]] to offer brand new and returning [[collectibles]] and activities.
+
+During the two-week event, all Spirits from the [[Season of Assembly]] gather in [[Elevated Clearing]] (also known as "Sunny Forest") to enjoy the festivities together with players. The pond and surrounding area of Elevated Clearing gets a makeover, where all sorts of activities await:
+
+*Help a group of baby [[Jellyfish]] venture into the open
+*Make music with the Assembly Spirits
+*Try your hand at fishing for [[Pieces of Light|Light]] in nearby waters
+
+During the event, summer-themed [[Premium Candle Shop|IAPs]] are available from the in-game shop, and the Sunlight Guide Spirit offers various cosmetics from their Friendship Tree. Free [[Spells]] to try all of these items can also be collected from the [[Spell Shops#Sleepy Traveler's Boat|Sleepy Traveler's boat]] and the pop-up mini Spell shop at Elevated Clearing. 
+
+==September 2025==
+{{#ev:youtube|EqThr2BIf1A||right|Days of Sunlight 2025 Trailer}}
+Days of Sunlight returned for a fourth year! 
+The event began on '''September 1, 2025 at 00:00 PDT (UTC-7)''' and ended on '''September 22, 2025 at 23:59 PDT (UTC-7)''''''<ref name="Sunlight2025_extended">Days of Sunlight 2025 was extended by [https://discord.com/channels/575762611111592007/628684058414678026/1416198171410829362 1 day] due to issues with completing Days of Sunlight quests .</ref>,'' lasting '''22''' days. For the duration of the event, the Sunlight Guide appeared at [[Home]] and [[Aviary Village]], offering to take players directly to the [[Vault_of_Knowledge#The_Archives|The Archives]] in Vault of Knowledge.
+
+Far away from it all, deep within the [[Vault of Knowledge]], the [[Spirits]] were hard at work, cataloguing scrolls and starlit tomes. They had heard whispers of Days of Sunlight but unfortunately, were far too busy to leave their post. But after the Sunlight Guide asked the Spirits to join them and enjoy the summer, they came up with a clever solution: If they can’t visit the beach, perhaps they can archive it!
+
+During the first two weeks of the event, players could accept a [[Days of Sunlight#Photo Quests|Photo Quest]] from the [[Praying Acolyte]]. The camera would automatically equip, and players would be prompted to seek out and photograph something specific: an inviting beach chair, the golden sun, perhaps some fishing poles… These photographs would help create whimsical beach scenes inside the [[Vault]] itself—allowing for the Spirits to relax in the scenery players brought them.
+
+During the final week, the Sunlight Guide stood in place of the Praying Acolyte, and prompted players with photographing the [[Aviary Village#Realm Entry Portals|Hidden Forest Realm Portal]], which they then used to transport the Vault of Knowledge [[Spirits]] to the summer-themed [[Elevated Clearing]]. After the various Vault Spirits had been pushed away to enjoy summer in the Forest, all Spirits from [[Season of Remembrance]] arrived to enjoy the archived beach for the rest of the event.{{Clear}}
+
+===Ticket Locations===
+[[file:Days-of-Sunlight-Ticket-Popsicle.png|125px|thumb|A Days of Sunlight popsicle Ticket]]
+
+For the first two weeks of the event, players could earn {{Cost|3 T|event=sunlight}} Tickets by completing a quest with a Spirit. The Spirit would assign three survey points where players needed to photograph specific objects. Once completed, the objects were archived in Memory Lanterns and displayed on the beach, which expanded daily as new items were added.
+
+After the [[Season of Remembrance]] Spirits arrived, players could earn the daily {{Cost|3 T|event=sunlight}} Tickets by taking three photos of anything in the event area.
+
+Additionally, {{Cost|2 T|event=sunlight}} Tickets could be collected daily by gathering the blue Event Ticket Light scattered across the beach, throughout the event's duration.
+
+A total of {{Cost|15 T|event=sunlight}} Bonus Tickets could be obtained by helping the [[Levitating Adept]] take photos of the three requested objects in any [[Realm]]. They could be collected at any time during the event.
+
+Players could also buy additional Tickets (costing {{Cost|2 AC}} or {{Cost|6 C}} each) from the mini [[Spell Shop]] next to the Sunlight Guide at [[Vault_of_Knowledge#The_Archives|The Archives]].
+{{Friendship Tree
+|label = Sunlight Guide
+|event = Sunlight
+|image = Days-of-Sunlight-Guide-2024.png
+
+|nodeC5 = {{Icon Name|Sunlight Orange Towel Cape|icon}} 110 C 
+|  labelC5 = {{Icon Name|Sunlight Orange Towel Cape|name}}
+|  linkC5  = Days of Sunlight#{{Icon Name|Sunlight Orange Towel Cape|name}}
+
+|nodeR4 = {{Icon Name|Sunlight Blue Towel Cape|icon}} 140 C
+|  labelR4 = {{Icon Name|Sunlight Blue Towel Cape|name}}
+|  linkR4  = Days of Sunlight#{{Icon Name|Sunlight Blue Towel Cape|name}}
+|nodeL4 = {{Icon Name|Sunlight Pink Towel Cape|icon}}  30 H
+|  labelL4 = {{Icon Name|Sunlight Pink Towel Cape|name}}
+|  linkL4  = Days of Sunlight#{{Icon Name|Sunlight Pink Towel Cape|name}}
+|nodeC4 = Spellx 5 C
+|  labelC4 = Spell
+|  linkC4  = Spells
+
+|nodeR3 = {{Icon Name|Summer Hat|icon}} 44 C
+|  labelR3 = {{Icon Name|Summer Hat|name}}
+|  linkR3  = Days of Summer#{{Icon Name|Summer Hat|name}}
+|nodeL3 = {{Icon Name|Campfire Tent|icon}} 90 C
+|  labelL3 = {{Icon Name|Campfire Tent|name}}
+|  linkL3  = Days of Sunlight#{{Icon Name|Campfire Tent|name}}
+|nodeC3 = Spellx 5 C
+|  labelC3 = Spell
+|  linkC3  = Spells
+
+|nodeR2 = {{Icon Name|Sunlight Beach Shorts|icon}} 70 C
+|  labelR2 = {{Icon Name|Sunlight Beach Shorts|name}}
+|  linkR2  = #{{Icon Name|Sunlight Beach Shorts|name}}
+|nodeL2 = {{Icon Name|Sunlight Manta Float|icon}} 65 C
+|  labelL2 = {{Icon Name|Sunlight Manta Float|name}}
+|  linkL2  = #{{Icon Name|Sunlight Manta Float|name}}
+|nodeC2 = Spellx 5 C
+|  labelC2 = Spell
+|  linkC2  = Spells
+
+|nodeR1 = {{Icon Name|Sunlight Shawl Cape|icon}} 22 T
+|  labelR1 = {{Icon Name|Sunlight Shawl Cape|name}}
+|  linkR1  = #{{Icon Name|Sunlight Shawl Cape|name}}
+|nodeL1 = {{Icon Name|Sunlight Wave Projector|icon}} 45 T
+|  labelL1 = {{Icon Name|Sunlight Wave Projector|name}}
+|  linkL1  = #{{Icon Name|Sunlight Wave Projector|name}}
+|nodeC1 = Spellx 5 C
+|  labelC1 = Spell
+|  linkC1  = Spells
+}}
+{{Clear}}
+
+====Photo Quests====
+For the first two weeks, there was a unique [[Daily Quest]], which tasked players with taking three photos of an item, after which it would be added to the event area. 
+
+The Sunlight Guide at [[Home]] and [[Aviary Village]] offered to take the player to the event area, where the [[Praying Acolyte]] waited. They would teleport the player to the Daily Quest's area, where they needed to stand in three designated photo spots and take a photo with the automatically equipped {{Spirit Item|Moments Guide|prop|inline_text}}—a white circle over the "lens" would mark that the item is in focus. After the photos had been taken, the player needed to return to the Spirit and teleport back to the event area. Here, the Praying Acolyte transfered the photos into a Memory Lantern, which the player needed to {{Icon|Icon flame.png}} light. The lantern flew up and the item would be added to the event area.
+
+{{Icon|Camera-Ray.png}} Help the Praying Acolyte archive summer in the Archives<br><br>
+<div style="text-align: center;">
+{{#ev:youtubeplaylist|https://youtube.com/playlist?list=PLl2dLrx-duQgij3Buops-Gjs9wQ8paUd2||left|All Days of Sunlight 2025 Quests Playlist}}
+</div>
+{{Clear}}
+
+===<big>All Available Collectibles in 2025</big>===
+{| class="article-table"
+!Name
+!Icon 
+!Type
+!Cost
+!Location
+!Spell
+!Spell Cost & Locations
+|-
+! colspan="7" style="text-align:center;" |From Days of Sunlight 2025
+|-
+|rowspan="2" |[[Days of Sunlight#{{Icon Name|Sunlight Bonnet|name}}|Sunlight Bonnet Bundle]]
+|{{Days Item|Sunlight Bonnet||table}}
+|[[Hair Accessories]]
+|rowspan="2" |{{Cost|14.99 USD|refnote}}
+|rowspan="2" |<small>[[Premium Candle Shop]]</small>
+|{{Days Item|Sunlight Bonnet|spell|table}}<small>x3</small>
+|rowspan="2" |<small>Sunlight Gift Box at <br>[[Vault_of_Knowledge#The_Archives|The Archives]] for free</small>
+|-
+|{{Days Item|Sunlight Sun Dress||table}}
+|[[Outfits]]
+|{{Days Item|Sunlight Sun Dress|spell|table}}<small>x3</small>
+|-
+|[[Days of Sunlight#{{Icon Name|Sunlight Shawl Cape|name}}|{{Icon Name|Sunlight Shawl Cape|name}}]]
+|{{Days Item|Sunlight Shawl Cape||table}}
+|[[Cape]]
+|{{Cost|22 T|event=Sunlight}}
+|<small>Sunlight Guide at [[Vault_of_Knowledge#The_Archives|The Archives]]</small>
+|{{Days Item|Sunlight Shawl Cape|spell|table}}<small>x3</small>
+|<small>Sunlight Gift Box at <br>[[Vault_of_Knowledge#The_Archives|The Archives]] for free</small>
+|-
+|[[Days of Sunlight#{{Icon Name|Sunlight Wave Projector|name}}|{{Icon Name|Sunlight Wave Projector|name}}]]
+|{{Days Item|Sunlight Wave Projector||table}}
+|[[Prop]]
+|{{Cost|45 T|event=Sunlight}}
+|<small>Sunlight Guide at [[Vault_of_Knowledge#The_Archives|The Archives]]</small>
+|{{Days Item|Sunlight Wave Projector|spell|table}}<small>x3</small>
+|<small>Sunlight Gift Box at <br>[[Vault_of_Knowledge#The_Archives|The Archives]] for free</small>
+|-
+|[[Days of Sunlight#{{Icon Name|Sandcastle Small Tower Piece|name}}|{{Icon Name|Sandcastle Small Tower Piece|name}}]]
+|{{Days Item|Sandcastle Small Tower Piece||table}}
+|[[Prop]]
+|{{Cost|5 C}}
+|<small>Sunlight Gift Box at <br>[[Vault_of_Knowledge#The_Archives|The Archives]]</small>
+|
+|
+|-
+|[[Days of Sunlight#{{Icon Name|Sandcastle Large Tower Piece|name}}|{{Icon Name|Sandcastle Large Tower Piece|name}}]]
+|{{Days Item|Sandcastle Large Tower Piece||table}}
+|[[Prop]]
+|{{Cost|5 C}}
+|<small>Sunlight Gift Box at <br>[[Vault_of_Knowledge#The_Archives|The Archives]]</small>
+|
+|
+|-
+|[[Days of Sunlight#{{Icon Name|Sandcastle Small Gate Piece|name}}|{{Icon Name|Sandcastle Small Gate Piece|name}}]]
+|{{Days Item|Sandcastle Small Gate Piece||table}}
+|[[Prop]]
+|{{Cost|6 C}}
+|<small>Sunlight Gift Box at <br>[[Vault_of_Knowledge#The_Archives|The Archives]]</small>
+|
+|
+|-
+|[[Days of Sunlight#{{Icon Name|Sandcastle Wall Piece|name}}|{{Icon Name|Sandcastle Wall Piece|name}}]]
+|{{Days Item|Sandcastle Wall Piece||table}}
+|[[Prop]]
+|{{Cost|7 C}}
+|<small>Sunlight Gift Box at <br>[[Vault_of_Knowledge#The_Archives|The Archives]]</small>
+|
+|
+|-
+|[[Days of Sunlight#{{Icon Name|Sandcastle Large Gate Piece|name}}|{{Icon Name|Sandcastle Large Gate Piece|name}}]]
+|{{Days Item|Sandcastle Large Gate Piece||table}}
+|[[Prop]]
+|{{Cost|5 C}}
+|<small>Sunlight Gift Box at <br>[[Vault_of_Knowledge#The_Archives|The Archives]]</small>
+|
+|
+|-
+|[[Days of Sunlight#{{Icon Name|Sandcastle Sand Lot|name}}|{{Icon Name|Sandcastle Sand Lot|name}}]]
+|{{Days Item|Sandcastle Sand Lot||table}}
+|[[Prop]]
+|{{Cost|8 C}}
+|<small>Sunlight Gift Box at <br>[[Vault_of_Knowledge#The_Archives|The Archives]]</small>
+|
+|
+|-
+|[[Days of Sunlight#{{Icon Name|Sandcastle Flag|name}}|{{Icon Name|Sandcastle Flag|name}}]]
+|{{Days Item|Sandcastle Flag||table}}
+|[[Prop]]
+|{{Cost|5 C}}
+|<small>Sunlight Gift Box at <br>[[Vault_of_Knowledge#The_Archives|The Archives]]</small>
+|
+|
+|-
+|[[Dyes|Red Dye]]
+|{{Icon|Red-dye-container-icon.png|table}} <small>x1</small>
+|[[Dyes]]
+|{{Cost|4 T|event=sunlight}}
+|<small>Sunlight Gift Box at <br>[[Vault_of_Knowledge#The_Archives |The Archives]]</small>
+|
+|
+|-
+|[[Dyes|Yellow Dye]]
+|{{Icon|Yellow-dye-container-icon.png|table}} <small>x1</small>
+|[[Dyes]]
+|{{Cost|4 T|event=sunlight}}
+|<small>Sunlight Gift Box at <br>[[Vault_of_Knowledge#The_Archives |The Archives]]</small>
+|
+|
+|-
+|[[Dyes|Random Dye]]
+|{{Icon|Random-dye-icon.png|table|label=Random Dye}}<small>x1</small>
+|[[Dyes]]
+|{{Cost|10 T|event=sunlight}}
+|<small>Sunlight Gift Box at <br>[[Vault_of_Knowledge#The_Archives |The Archives]]</small>
+|
+|
+|-
+! colspan="7" style="text-align:center;" |From Days of Sunlight 2024
+|-
+|[[Days of Sunlight#{{Icon Name|Sunlight Woven Wrap|name}}|{{Icon Name|Sunlight Woven Wrap|name}}]]
+|{{Days Item|Sunlight Woven Wrap||table}}
+|[[Cape]]
+|{{Cost|14.99 USD|refnote}}
+|<small>Sunlight Gift Box at <br>[[Vault_of_Knowledge#The_Archives|The Archives]]</small>
+|{{Days Item|Sunlight Woven Wrap|spell|table}}<small>x3</small>
+|<small>Sunlight Gift Box at <br>[[Vault_of_Knowledge#The_Archives|The Archives]] for free</small>
+|-
+|[[Days of Sunlight#{{Icon Name|Sunlight Helios Hoops|name}}|{{Icon Name|Sunlight Helios Hoops|name}}]]
+|{{Days Item|Sunlight Helios Hoops||table}}
+|[[Head Accessory]]
+|{{Cost|2.99 USD|refnote}}
+|<small>Sunlight Gift Box at <br>[[Vault_of_Knowledge#The_Archives|The Archives]]</small>
+|{{Days Item|Sunlight Helios Hoops|spell|table}}<small>x3</small>
+|<small>Sunlight Gift Box at <br>[[Vault_of_Knowledge#The_Archives|The Archives]] for free</small>
+|-
+|[[Days of Sunlight#{{Icon Name|Sunlight Manta Float|name}}|{{Icon Name|Sunlight Manta Float|name}}]]
+|{{Days Item|Sunlight Manta Float||table}}
+|[[Prop]]
+|{{Cost|65 C|event=Sunlight}}
+|<small>Sunlight Guide at [[Vault_of_Knowledge#The_Archives|The Archives]]</small>
+|{{Days Item|Sunlight Manta Float|spell|table}}<small>x3</small>
+|<small>Sunlight Gift Box at <br>[[Vault_of_Knowledge#The_Archives|The Archives]] for free</small>
+|-
+|[[Days of Sunlight#{{Icon Name|Sunlight Beach Shorts|name}}|{{Icon Name|Sunlight Beach Shorts|name}}]]
+|{{Days Item|Sunlight Beach Shorts||table}}
+|[[Outfit]]
+|{{Cost|70 C|event=Sunlight}}
+|<small>Sunlight Guide at [[Vault_of_Knowledge#The_Archives|The Archives]]</small>
+|{{Days Item|Sunlight Beach Shorts|spell|table}}<small>x3</small>
+|<small>Sunlight Gift Box at <br>[[Vault_of_Knowledge#The_Archives|The Archives]] for free</small>
+|-
+|[[#Days of Sunlight|Flair Spell]]
+|
+|[[Spell]]
+|
+|
+|{{Icon|Flair-Spell-icon.png|table|label=Flair Spell|link=#Flair Spell}}
+|<small>Not collectible; it may be triggered in '''very rare cases''' when you drink lemonade while viewing the Shared Space in the [[Elevated Clearing]].</small>
+|-
+! colspan="7" style="text-align:center;" |From Days of Sunlight 2023
+|-
+|[[Days of Sunlight#{{Icon Name|Sunlight Surfboard|name}}|{{Icon Name|Sunlight Surfboard|name}}]]
+|{{Days Item|Sunlight Surfboard||table}} 
+|[[Prop]] 
+|{{Cost|14.99 USD|refnote}}
+|<small>Sunlight Gift Box at <br>[[Vault_of_Knowledge#The_Archives|The Archives]]</small>
+|{{Days Item|Sunlight Surfboard|spell|table}}<small>x3</small>
+|<small>Sunlight Gift Box at <br>[[Vault_of_Knowledge#The_Archives|The Archives]] for free</small> 
+|-
+|[[Days of Sunlight#{{Icon Name|Sunlight Chunky Sandals|name}}|{{Icon Name|Sunlight Chunky Sandals|name}}]]
+|{{Days Item|Sunlight Chunky Sandals||table}} 
+|[[Shoes]] 
+|{{Cost|9.99 USD|refnote}}
+|<small>Sunlight Gift Box at <br>[[Vault_of_Knowledge#The_Archives|The Archives]]</small>
+|{{Days Item|Sunlight Chunky Sandals|spell|table}}<small>x3</small>
+|<small>Sunlight Gift Box at <br>[[Vault_of_Knowledge#The_Archives|The Archives]] for free</small>  
+|-
+|[[Days of Sunlight#{{Icon Name|Sunlight Pink Towel Cape|name}}|{{Icon Name|Sunlight Pink Towel Cape|name}}]]
+|{{Days Item|Sunlight Pink Towel Cape||table}} 
+|[[Cape]] 
+|{{Cost|30 H}}
+|<small>Sunlight Guide at [[Vault_of_Knowledge#The_Archives|The Archives]]</small>
+|{{Days Item|Sunlight Pink Towel Cape|spell|table}}<small>x3</small>
+|<small>Sunlight Gift Box at <br>[[Vault_of_Knowledge#The_Archives|The Archives]] for free</small>
+|-
+|[[Days of Sunlight#{{Icon Name|Sunlight Orange Towel Cape|name}}|{{Icon Name|Sunlight Orange Towel Cape|name}}]]
+|{{Days Item|Sunlight Orange Towel Cape||table}} 
+|[[Cape]] 
+|{{Cost|110 C}}
+|<small>Sunlight Guide at [[Vault_of_Knowledge#The_Archives|The Archives]]</small>
+|{{Days Item|Sunlight Orange Towel Cape|spell|table}}<small>x3</small>
+|<small>Sunlight Gift Box at <br>[[Vault_of_Knowledge#The_Archives|The Archives]] for free</small>
+|-
+|[[Days of Sunlight#{{Icon Name|Sunlight Blue Towel Cape|name}}|{{Icon Name|Sunlight Blue Towel Cape|name}}]]
+|{{Days Item|Sunlight Blue Towel Cape||table}} 
+|[[Cape]] 
+|{{Cost|140 C}}
+|<small>Sunlight Guide at [[Vault_of_Knowledge#The_Archives|The Archives]]</small>
+|{{Days Item|Sunlight Blue Towel Cape|spell|table}}<small>x3</small>
+|<small>Sunlight Gift Box at <br>[[Vault_of_Knowledge#The_Archives|The Archives]] for free</small>
+|-
+! colspan="7" style="text-align:center;" |From Days of Sunlight 2022
+|-
+|[[Days of Sunlight#{{Icon Name|Campfire Snack Kit|name}}|{{Icon Name|Campfire Snack Kit|name}}]] + {{Cost|35 SC}}
+|{{Days Item|Campfire Snack Kit||table}}
+|[[Prop]]
+|{{Cost|19.99 USD|refnote}}
+|<small>Sunlight Gift Box at <br>[[Vault_of_Knowledge#The_Archives|The Archives]]</small>
+|{{Days Item|Campfire Snack Kit|spell|table}}<small>x3</small>
+|<small>Sunlight Gift Box at <br>[[Vault_of_Knowledge#The_Archives|The Archives]] for free</small>
+|-
+|[[Days of Sunlight#{{Icon Name|Jelly Shoulder Buddy|name}}|{{Icon Name|Jelly Shoulder Buddy|name}}]]
+|{{Days Item|Jelly Shoulder Buddy||table}}
+|[[Neck Accessory]]
+|{{Cost|2.99 USD|refnote}}
+|<small>Sunlight Gift Box at <br>[[Vault_of_Knowledge#The_Archives|The Archives]]</small>
+|{{Days Item|Jelly Shoulder Buddy|spell|table}}<small>x3</small>
+|<small>Sunlight Gift Box at <br>[[Vault_of_Knowledge#The_Archives|The Archives]] for free</small>
+|-
+|[[Days of Sunlight#{{Icon Name|Campfire Tent|name}}|{{Icon Name|Campfire Tent|name}}]]
+|{{Days Item|Campfire Tent||table}}
+|[[Prop]]
+|{{Cost|90 C}} 
+|<small>Sunlight Guide at [[Vault_of_Knowledge#The_Archives|The Archives]]</small>
+|{{Days Item|Campfire Tent|spell|table}}<small>x3</small>
+|<small>Sunlight Gift Box at <br>[[Vault_of_Knowledge#The_Archives|The Archives]] for free</small>
+|-
+|[[Days of Sunlight#Ball Spell|Ball Spell]]
+|
+|[[Spell]]
+|{{Cost|5 C}}
+|
+|{{Icon|Ball-Spell-Morybel-0146.png|table|label=Ball Spell|in_page=1}}<small>x2</small>
+|<small>Sunlight Gift Box at <br>[[Vault_of_Knowledge#The_Archives|The Archives]] for free</small>
+|-
+! colspan="7" style="text-align:center;" |From Lazy Days 2022
+|-
+|[[Lazy Days#{{Icon Name|Summer Parasol|name}}|{{Icon Name|Summer Parasol|name}}]] + {{Cost|35 SC}}
+|{{Days Item|Summer Parasol||table}}
+|[[Prop]]
+|{{Cost|19.99 USD|ref}}
+|<small>Sunlight Gift Box at <br>[[Vault_of_Knowledge#The_Archives|The Archives]]</small>
+|{{Days Item|Summer Parasol|spell|table}}<small>x3</small>
+|<small>Sunlight Gift Box at <br>[[Vault_of_Knowledge#The_Archives|The Archives]] for free</small>
+|-
+|[[Lazy Days#{{Icon Name|Seashell Hairpin|name}}|{{Icon Name|Seashell Hairpin|name}}]]
+|{{Days Item|Seashell Hairpin||table}}
+|[[Hair Accessory]]
+|{{Cost|0.99 USD|ref}}
+|<small>Sunlight Gift Box at <br>[[Vault_of_Knowledge#The_Archives|The Archives]]</small>
+|{{Days Item|Seashell Hairpin|spell|table}}<small>x3</small>
+|<small>Sunlight Gift Box at <br>[[Vault_of_Knowledge#The_Archives|The Archives]] for free</small>
+|-
+|[[Lazy Days#{{Icon Name|Summer Hat|name}}|{{Icon Name|Summer Hat|name}}]]
+|{{Days Item|Summer Hat||table}}
+|[[Hair Accessory]]
+|{{Cost|44 C}}
+|<small>Sunlight Guide at [[Vault_of_Knowledge#The_Archives|The Archives]]</small>
+|{{Days Item|Summer Hat|spell|table}}<small>x3</small>
+|<small>Sunlight Gift Box at <br>[[Vault_of_Knowledge#The_Archives|The Archives]] for free</small>
+|}
+
+===2025 New Cosmetics and Props===
+====Sunlight Bonnet Bundle====
+::'''''"Your shoulders will soak up the sun in this breezy maxi dress and jelly-inspired hat."'''''
+The Sunlight Bonnet Bundle contains two items: the Bonnet Jellyfish Hat and the Bonnet Sun Dress. 
+The Bonnet Jellyfish Hat is a [[Hair Accessory]] with a rounded crown with a translucent, glowing texture that shifts from pale blue at the brim to warm golden tones at the top. Two ribbon-like strands hang down from both sides, resembling [[Jellyfish]] tentacles. The Bonnet Sun Dress is an [[Outfit]] consisting of a one shoulder white dress with a golden-yellow sun on the chest, and a white and golden-yellow bracelet on the avatar's left ankle. The dress is accented with golden-yellow trim and manta motifs at the bottom.
+
+This bundle was introduced in 2025 and was available for {{Cost|14.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br><br>
+{{#tag:gallery
+|{{Icon Name|Sunlight Bonnet|iap}} {{!}} {{Icon Name|Sunlight Bonnet|name}} IAP
+{{Icon Name|Sunlight Bonnet|icon}} {{!}} {{Icon Name|Sunlight Bonnet|name}} icon
+{{Icon Name|Sunlight Bonnet|real}} {{!}} {{Icon Name|Sunlight Bonnet|name}} front
+{{Icon Name|Sunlight Bonnet|spell}} {{!}} {{Icon Name|Sunlight Bonnet|name}} Spell icon 
+{{Icon Name|Sunlight Sun Dress|icon}} {{!}} {{Icon Name|Sunlight Sun Dress|name}} icon
+{{Icon Name|Sunlight Sun Dress|real}} {{!}} {{Icon Name|Sunlight Sun Dress|name}} front
+{{Icon Name|Sunlight Sun Dress|back}} {{!}} {{Icon Name|Sunlight Sun Dress|name}} back
+{{Icon Name|Sunlight Sun Dress|spell}} {{!}} {{Icon Name|Sunlight Sun Dress|name}} Spell icon 
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Sunlight Wave Projector====
+The Sunlight Wave Projector is a gray lantern in the shape of an elongated hexagon with golden-yellow accents, including a diamond-shaped sun on one side. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. Once placed, lit, and activated, it emits a projection of flowing wave-like light particles on the ground, while also noticeably dimming the surrounding area. When carried on its owner's back, it appears in its original form.
+
+This [[Prop]] was introduced in 2025 and was available for {{Cost|45 T|event=Sunlight}} from the Sunlight Guide at [[Vault_of_Knowledge#The_Archives|The Archives]] for the duration of the event.<br><br>
+{{#tag:gallery
+|{{Icon Name|Sunlight Wave Projector|icon}} {{!}} {{Icon Name|Sunlight Wave Projector|name}} icon
+{{Icon Name|Sunlight Wave Projector|real}} {{!}} The {{Icon Name|Sunlight Wave Projector|name}}
+{{Icon Name|Sunlight Wave Projector|using}} {{!}} Using the {{Icon Name|Sunlight Wave Projector|name}}
+{{Icon Name|Sunlight Wave Projector|back}} {{!}} The {{Icon Name|Sunlight Wave Projector|name}} on a player's back
+{{Icon Name|Sunlight Wave Projector|spell}} {{!}} {{Icon Name|Sunlight Wave Projector|name}} Spell icon 
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Sunlight Shawl Cape====
+The Sunlight Shawl Cape is a short, shawl-style cape in bright yellow and orange tones. It drapes loosely over the shoulders with a soft gradient that shifts from golden yellow to warm orange. Each cape section features a white adornment. This [[Cape]] was introduced in 2025 and was available for {{Cost|22 T|event=Sunlight}} from the Sunlight Guide at [[Vault_of_Knowledge#The_Archives|The Archives]] for the duration of the event.<br><br>
+{{#tag:gallery
+|{{Icon Name|Sunlight Shawl Cape|icon}} {{!}} {{Icon Name|Sunlight Shawl Cape|name}} icon
+{{Icon Name|Sunlight Shawl Cape|front}} {{!}} {{Icon Name|Sunlight Shawl Cape|name}} front
+{{Icon Name|Sunlight Shawl Cape|interior}} {{!}} {{Icon Name|Sunlight Shawl Cape|name}} interior
+{{Icon Name|Sunlight Shawl Cape|real}} {{!}} {{Icon Name|Sunlight Shawl Cape|name}} back
+{{Icon Name|Sunlight Shawl Cape|exterior}} {{!}} {{Icon Name|Sunlight Shawl Cape|name}} exterior
+{{Icon Name|Sunlight Shawl Cape|spell}} {{!}} {{Icon Name|Sunlight Shawl Cape|name}} Spell icon 
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Sandcastle Piece Props====
+Each of these seven different sandcastle pieces could be unlocked to build a sandcastle of your own design. Up to eight copies of each piece can be unlocked and then placed at once in [[Shared Spaces]].
+
+These [[Prop|Props]] were introduced in 2025 and were available for {{Cost|5 C}} to {{Cost|8 C}} each, from the Sunlight Gift Box at [[Vault_of_Knowledge#The_Archives|The Archives]] for the duration of the event.<br>
+
+*Sandcastle Small Tower Piece, costing {{Cost|5 C}}
+*Sandcastle Large Tower Piece, costing {{Cost|5 C}}
+*Sandcastle Small Gate Piece, costing {{Cost|6 C}}
+*Sandcastle Wall Piece, costing {{Cost|7 C}}
+*Sandcastle Large Gate, costing {{Cost|5 C}}
+*Sandcastle Sand Lot, costing {{Cost|8 C}}
+*Sandcastle Flag, costing {{Cost|5 C}}
+
+{{#tag:gallery
+|{{Icon Name|Sandcastle Small Tower Piece|icon}} {{!}} {{Icon Name|Sandcastle Small Tower Piece|name}} icon
+{{Icon Name|Sandcastle Small Tower Piece|real}} {{!}} The {{Icon Name|Sandcastle Small Tower Piece|name}}
+{{Icon Name|Sandcastle Small Tower Piece|back}} {{!}} The {{Icon Name|Sandcastle Small Tower Piece|name}} on a player's back
+{{Icon Name|Sandcastle Large Tower Piece|icon}} {{!}} {{Icon Name|Sandcastle Large Tower Piece|name}} icon
+{{Icon Name|Sandcastle Large Tower Piece|real}} {{!}} The {{Icon Name|Sandcastle Large Tower Piece|name}}
+{{Icon Name|Sandcastle Large Tower Piece|back}} {{!}} The {{Icon Name|Sandcastle Large Tower Piece|name}} on a player's back
+{{Icon Name|Sandcastle Small Gate Piece|icon}} {{!}} {{Icon Name|Sandcastle Small Gate Piece|name}} icon
+{{Icon Name|Sandcastle Small Gate Piece|real}} {{!}} The {{Icon Name|Sandcastle Small Gate Piece|name}}
+{{Icon Name|Sandcastle Small Gate Piece|back}} {{!}} The {{Icon Name|Sandcastle Small Gate Piece|name}} on a player's back
+{{Icon Name|Sandcastle Large Gate Piece|icon}} {{!}} {{Icon Name|Sandcastle Large Gate Piece|name}} icon
+{{Icon Name|Sandcastle Large Gate Piece|real}} {{!}} The {{Icon Name|Sandcastle Large Gate Piece|name}}
+{{Icon Name|Sandcastle Large Gate Piece|back}} {{!}} The {{Icon Name|Sandcastle Large Gate Piece|name}} on a player's back
+{{Icon Name|Sandcastle Wall Piece|icon}} {{!}} {{Icon Name|Sandcastle Wall Piece|name}} icon
+{{Icon Name|Sandcastle Wall Piece|real}} {{!}} The {{Icon Name|Sandcastle Wall Piece|name}}
+{{Icon Name|Sandcastle Wall Piece|back}} {{!}} The {{Icon Name|Sandcastle Wall Piece|name}} on a player's back
+{{Icon Name|Sandcastle Sand Lot|icon}} {{!}} {{Icon Name|Sandcastle Sand Lot|name}} icon
+{{Icon Name|Sandcastle Sand Lot|real}} {{!}} The {{Icon Name|Sandcastle Sand Lot|name}}
+{{Icon Name|Sandcastle Sand Lot|back}} {{!}} The {{Icon Name|Sandcastle Sand Lot|name}} on a player's back
+{{Icon Name|Sandcastle Flag|icon}} {{!}} {{Icon Name|Sandcastle Flag|name}} icon
+{{Icon Name|Sandcastle Flag|real}} {{!}} The {{Icon Name|Sandcastle Flag|name}}
+{{Icon Name|Sandcastle Flag|back}} {{!}} The {{Icon Name|Sandcastle Flag|name}} on a player's back
+|widths=125|spacing=small|captionalign=center
+}}
+
+==August 2024==
+{{#ev:youtube|WhTwIDwisj8||right|Days of Sunlight 2024 Trailer}}
+Days of Sunlight returned for a third year, offering an escape to a balmy corner of the [[Realms]] where players can make new memories with friends and [[Spirits]] alike! The event began on '''Monday, August 26, 2024 at 00:00 PDT (UTC-7)''' and ended on '''Thursday, September 12, 2024 at 23:59 PDT (UTC-7)'''<ref name="Sunlight2024_extended">Days of Sunlight 2024 was extended by [https://discord.com/channels/575762611111592007/575768778789617674/1281047884292427828 4 days] due to server errors.</ref>, lasting 18 days. For the duration of the event, the Sunlight Guide appeared at [[Home]] and [[Aviary Village]], offering to take players directly to the [[Elevated Clearing]] in Hidden Forest.
+
+Clear streams, peaceful glades, and enchanting wildlife make the golden hillsides of the [[Hidden Forest]] the perfect place to beat the heat. Gather around a cozy campfire to relax and enjoy some toasty snacks for a bit of extra [[Pieces of Light|Light]] or to make music with the event Spirits. For players looking to make more of a splash, the Elevated Clearing is practically a playground with diving boards, waterslides, and more. Plus, if you look around, you might find some baby [[Jellyfish]] who could use some help to make their way through the world. 
+
+All of the [[Season of Assembly#Spirits and Cosmetics|Assembly Spirits]] were out and about as the event unfolded, and no matter when you drop by, one of them were down for a friendly game of tag. Whether paddling and swimming or floating and lounging, players could take advantage of this opportunity to enjoy some fun under the sun.
+{{Clear}}
+
+===Ticket Locations===
+[[file:Days-of-Sunlight-Ticket-Popsicle.png|125px|thumb|A Days of Sunlight popsicle Ticket]]
+A total of {{Cost|6 T|event=sunlight}} popsicle-shaped Tickets were available each day:
+
+*{{Cost|3 T|event=sunlight}} hidden throughout the Elevated Clearing (see locations below)
+*{{Cost|1 T|event=sunlight}} floating on a small Jellyfish
+*{{Cost|2 T|event=sunlight}} from participating in any 2 of the event activities
+
+{{Collapse
+|float= left
+|label= All Exact Ticket Locations
+|content=<u>'''Locations:'''</u>
+* '''1''' - Front
+** A) {{Cost|1 T|event=sunlight}} on top of the blue striped umbrella next to the lemonade stand
+** B) {{Cost|1 T|event=sunlight}} on top of the solid yellow umbrella next to the Sunlight Guide
+** C) {{Cost|1 T|event=sunlight}} to the right of the Sunlight Guide, on top of the hanging towels
+** D) {{Cost|1 T|event=sunlight}} by the pond on a fishing deck with the [[Baffled Botanist]]
+
+* '''2''' - Center
+** A) {{Cost|1 T|event=sunlight}} to the right of the tree containing [[Additional Light Sources#Grandma's Dinner Event|Grandma's dinner table]], near the campfire
+** B) {{Cost|1 T|event=sunlight}} high up on a diving board attached to a tree, facing Grandma's dinner table
+** C) {{Cost|1 T|event=sunlight}} next to [[Additional Light Sources#Grandma's Dinner Event|Grandma's dinner table]] inside the hollow tree
+** D) {{Cost|1 T|event=sunlight}} in the middle of the pond, on the small island near the grassy bridge
+** E) {{Cost|1 T|event=sunlight}} on the deck chairs to the left of the Summer Guide
+
+* '''3''' - Back
+** A) {{Cost|1 T|event=sunlight}} at the edge of the pond, on the far side facing the [[Boneyard]] exit
+** B) {{Cost|1 T|event=sunlight}} high up on a diving board attached to a tree, facing the water slide
+** C) {{Cost|1 T|event=sunlight}} on the left side of the bridge leading to the [[Boneyard]]}}
+
+Players could also buy additional Tickets (costing {{Cost|2 AC}} or {{Cost|6 C}} each) from the Sunlight Gift Box at [[Home]] or [[Aviary Village#Aviary Event Store|Aviary Village]], and the Mini Spell shop at the [[Elevated Clearing]].
+
+{| class="article-table mw-collapsible mw-collapsed" style="float:right; text-align:center;"
+! colspan="4" style="text-align:center;" | '''Ticket Locations'''
+|-
+! '''Date'''
+! '''Locations'''
+! '''Daily Total'''
+|-
+| August 26, 2024
+| 2A, 2B, 3A
+| {{Cost|{{#vardefineecho:D1|6}} T|event=Sunlight}}
+|-
+| August 27, 2024
+| 1A, 1B, 2C
+| {{Cost|{{#vardefineecho:D2|6}} T|event=Sunlight}}
+|-
+| August 28, 2024
+| 2A, 2D, 3A
+| {{Cost|{{#vardefineecho:D3|6}} T|event=Sunlight}}
+|-
+| August 29, 2024
+| 1A, 1C, 3B
+| {{Cost|{{#vardefineecho:D4|6}} T|event=Sunlight}}
+|-
+| August 30, 2024
+| 1D, 2D, 3C
+| {{Cost|{{#vardefineecho:D5|6}} T|event=Sunlight}}
+|-
+| August 31, 2024
+| 1C, 2B, 3B
+| {{Cost|{{#vardefineecho:D6|6}} T|event=Sunlight}}
+|-
+| September 1, 2024
+| 1B, 2C, 2E
+| {{Cost|{{#vardefineecho:D7|6}} T|event=Sunlight}}
+|-
+| September 2, 2024
+| 2A, 2B, 3A
+| {{Cost|{{#vardefineecho:D8|6}} T|event=Sunlight}}
+|-
+| September 3, 2024
+| 1A, 1B, 2C
+| {{Cost|{{#vardefineecho:D9|6}} T|event=Sunlight}}
+|-
+| September 4, 2024
+| 1D, 2D, 3C
+| {{Cost|{{#vardefineecho:D10|6}} T|event=Sunlight}}
+|-
+| September 5, 2024
+| 1A, 1C, 3B
+| {{Cost|{{#vardefineecho:D11|6}} T|event=Sunlight}}
+|-
+| September 6, 2024
+| 1D, 2E, 3C
+| {{Cost|{{#vardefineecho:D12|6}} T|event=Sunlight}}
+|-
+| September 7, 2024
+| 1C, 2B, 3B
+| {{Cost|{{#vardefineecho:D13|6}} T|event=Sunlight}}
+|-
+| September 8, 2024
+| 1B, 2C, 2E
+| {{Cost|{{#vardefineecho:D14|6}} T|event=Sunlight}}
+|-
+| September 9, 2024<ref name="Sunlight2024_extended"/>
+| 2A, 2D, 3A
+| {{Cost|{{#vardefineecho:D15|6}} T|event=Sunlight}}
+|-
+| September 10, 2024<ref name="Sunlight2024_extended"/>
+| 1A, 1B, 2C
+| {{Cost|{{#vardefineecho:D16|6}} T|event=Sunlight}}
+|-
+| September 11, 2024<ref name="Sunlight2024_extended"/>
+| 1D, 2D, 3C
+| {{Cost|{{#vardefineecho:D17|6}} T|event=Sunlight}}
+|-
+| September 12, 2024<ref name="Sunlight2024_extended"/>
+| 1A, 1C, 3B
+| {{Cost|{{#vardefineecho:D18|6}} T|event=Sunlight}}
+|-
+! colspan="2" style="text-align:center;" | '''Total so far'''
+! style="text-align:center;" | '''{{Cost|{{#expr: ({{#var:D1}} + {{#var:D2}} + {{#var:D3}} + {{#var:D4}} + {{#var:D5}} + {{#var:D6}} + {{#var:D7}} + {{#var:D8}} + {{#var:D9}} + {{#var:D10}} + {{#var:D11}} + {{#var:D12}} + {{#var:D13}} + {{#var:D14}}+ {{#var:D15}}+ {{#var:D16}}+ {{#var:D17}}+ {{#var:D18}}) }} T|event=sunlight}}'''
+|}
+{{Friendship Tree
+|label = Sunlight Guide
+|event = Sunlight
+|image = Days-of-Sunlight-Guide-2024.png
+
+|nodeC4 = {{Icon Name|Sunlight Orange Towel Cape|icon}} 110 C 
+|  labelC4 = {{Icon Name|Sunlight Orange Towel Cape|name}}
+|  linkC4  = Days of Sunlight#{{Icon Name|Sunlight Orange Towel Cape|name}}
+
+|nodeR3 = {{Icon Name|Sunlight Blue Towel Cape|icon}} 140 C
+|  labelR3 = {{Icon Name|Sunlight Blue Towel Cape|name}}
+|  linkR3  = Days of Sunlight#{{Icon Name|Sunlight Blue Towel Cape|name}}
+|nodeL3 = {{Icon Name|Sunlight Pink Towel Cape|icon}}  30 H
+|  labelL3 = {{Icon Name|Sunlight Pink Towel Cape|name}}
+|  linkL3  = Days of Sunlight#{{Icon Name|Sunlight Pink Towel Cape|name}}
+|nodeC3 = Spellx 5 C
+|  labelC3 = Spell
+|  linkC3  = Spells
+
+|nodeR2 = {{Icon Name|Summer Hat|icon}} 44 C
+|  labelR2 = {{Icon Name|Summer Hat|name}}
+|  linkR2  = Days of Summer#{{Icon Name|Summer Hat|name}}
+|nodeL2 = {{Icon Name|Campfire Tent|icon}} 90 C
+|  labelL2 = {{Icon Name|Campfire Tent|name}}
+|  linkL2  = Days of Sunlight#{{Icon Name|Campfire Tent|name}}
+|nodeC2 = Spellx 5 C
+|  labelC2 = Spell
+|  linkC2  = Spells
+
+|nodeR1 = {{Icon Name|Sunlight Beach Shorts|icon}} 30 T
+|  labelR1 = {{Icon Name|Sunlight Beach Shorts|name}}
+|  linkR1  = #{{Icon Name|Sunlight Beach Shorts|name}}
+|nodeL1 = {{Icon Name|Sunlight Manta Float|icon}} 20 T
+|  labelL1 = {{Icon Name|Sunlight Manta Float|name}}
+|  linkL1  = #{{Icon Name|Sunlight Manta Float|name}}
+|nodeC1 = Spellx 5 C
+|  labelC1 = Spell
+|  linkC1  = Spells
+}}
+{{Clear}}
+
+===<big>All Available Collectibles in 2024</big>===
+===2024 New Cosmetics and Props===
+====Sunlight Woven Wrap====
+::'''''"A delicate linen cape that's sure to stun on the shoreline."'''''
+The Sunlight Woven Wrap is a loose beige cardigan with light teal accents and dark teal [[Mantas]] along the bottom edge. This [[Cape]] was introduced in 2024 and was available for {{Cost|14.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Sunlight Woven Wrap|iap}} {{!}} {{Icon Name|Sunlight Woven Wrap|name}} IAP
+{{Icon Name|Sunlight Woven Wrap|icon}} {{!}} {{Icon Name|Sunlight Woven Wrap|name}} icon
+{{Icon Name|Sunlight Woven Wrap|front}} {{!}} {{Icon Name|Sunlight Woven Wrap|name}} front
+{{Icon Name|Sunlight Woven Wrap|interior}} {{!}} {{Icon Name|Sunlight Woven Wrap|name}} interior
+{{Icon Name|Sunlight Woven Wrap|real}} {{!}} {{Icon Name|Sunlight Woven Wrap|name}} back
+{{Icon Name|Sunlight Woven Wrap|exterior}} {{!}} {{Icon Name|Sunlight Woven Wrap|name}} exterior
+{{Icon Name|Sunlight Woven Wrap|spell}} {{!}} {{Icon Name|Sunlight Woven Wrap|name}} Spell icon 
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Sunlight Helios Hoops====
+::'''''"Add a burst of summer to your wardrobe."'''''
+The Sunlight Helios Hoops are a pair of round orange earrings that resemble stylized suns with a hollow center and spiked edges. This [[Head Accessory]] was introduced in 2024 and was available for {{Cost|2.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Sunlight Helios Hoops|iap}} {{!}} {{Icon Name|Sunlight Helios Hoops|name}} IAP
+{{Icon Name|Sunlight Helios Hoops|icon}} {{!}} {{Icon Name|Sunlight Helios Hoops|name}} icon
+{{Icon Name|Sunlight Helios Hoops|real}} {{!}} {{Icon Name|Sunlight Helios Hoops|name}}
+{{Icon Name|Sunlight Helios Hoops|spell}} {{!}} {{Icon Name|Sunlight Helios Hoops|name}} Spell icon 
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Sunlight Manta Float====
+<!--::'''''"Let your heavy thoughts drift away as you float on the water's surface."'''''-->
+The Sunlight Manta Float is a white and yellow inner tube that resembles the shape of a [[Manta]]. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]], and allows a single player to sit on it on top of bodies of water. ''(Note: it can only be placed in water.)'' This Prop was introduced in 2024 and was available for {{Cost|20 T|event=Sunlight}} from the Sunlight Guide in [[Home]], [[Aviary Village#Aviary Event Store|Aviary Village]], and the [[Elevated Clearing]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Sunlight Manta Float|icon}} {{!}} {{Icon Name|Sunlight Manta Float|name}} icon
+{{Icon Name|Sunlight Manta Float|real}} {{!}} {{Icon Name|Sunlight Manta Float|name}}
+{{Icon Name|Sunlight Manta Float|using}} {{!}} A player using the {{Icon Name|Sunlight Manta Float|name}}
+{{Icon Name|Sunlight Manta Float|back}} {{!}} {{Icon Name|Sunlight Manta Float|name}} on a player's back
+{{Icon Name|Sunlight Manta Float|spell}} {{!}} {{Icon Name|Sunlight Manta Float|name}} Spell icon 
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Sunlight Beach Shorts====
+The Sunlight Beach Shorts are a pair of orange board shorts with a white drawstring and pale [[Manta]] pattern, paired with a beige tank top. This [[Outfit]] was introduced in 2024 and was available for {{Cost|30 T|event=Sunlight}} from the Sunlight Guide in [[Home]], [[Aviary Village#Aviary Event Store|Aviary Village]], and the [[Elevated Clearing]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Sunlight Beach Shorts|icon}} {{!}} {{Icon Name|Sunlight Beach Shorts|name}} icon
+{{Icon Name|Sunlight Beach Shorts|real}} {{!}} {{Icon Name|Sunlight Beach Shorts|name}} front
+{{Icon Name|Sunlight Beach Shorts|back}} {{!}} {{Icon Name|Sunlight Beach Shorts|name}} back
+{{Icon Name|Sunlight Beach Shorts|spell}} {{!}} {{Icon Name|Sunlight Beach Shorts|name}} Spell icon 
+|widths=125|spacing=small|captionalign=center
+}}
+
+===New Spells===
+====Flair Spell====
+The Flair Spell is a rare spell, discovered by players, and is difficult to trigger. This [[spell]] lasts for 20 minutes and causes a colorful trail effect to appear behind the player's feet while they walk, similar to how the {{Spirit Item|Hopeful Steward|cape_u|link=Hopeful Steward#Revival Ultimate Cape|inline_text}} works. It is possible to trigger the spell by drinking lemonade in [[Elevated Clearing]] or [[Aviary Village]], while simultaneously viewing a shared space. It is said that the spell is from [https://sky.163.com/news/official/20240301/26689_1140769.html NetEase's Spring Camping Event], and it is not clear at this time whether it is an intended Easter egg or a bug. '''It cannot be collected.'''<br>
+<br>
+{{#tag:gallery
+|Flair-Spell-icon.png {{!}} Flair Spell icon
+Days-of-Summer-Flair-Spell.gif {{!}} Flair Spell
+|widths=125|spacing=small|captionalign=center
+}}
+
+==September 2023<span id="2023"></span>==
+<div>
+{{#ev:youtube|txM884_pMs8||right|Days of Sunlight 2023 Trailer}}
+Days of Sunlight was back for a second year of fun in the sun! The event began on '''September 11, 2023 at 00:00 PDT (UTC-7)''' and ended on '''September 24, 2023 at 23:59 PDT (UTC-7)''', lasting '''14''' days. For the duration of the event, the Sunlight Guide appeared in [[Home]], offering to take players directly to [[Elevated Clearing]], which was revamped specially for the occasion.
+
+<small>Note that Days of Sunlight content is available to all players who have progressed to at least Hidden Forest.</small>
+
+For the occasion, Elevated Clearing featured several activities, such as freeing [[Jellyfish]] with the [[Marching Adventurer]], diving and watersliding into the pond, playing music with the [[Scolding Student]], playing tag with the [[Chuckling Scout]], and more! Participating in any of these activities would grant players up to 2 Tickets per day.
+
+Be sure to also take a moment to unwind along the newly decorated beach space, and gather near the shore for globes that occasionally wash up to reward [[Pieces of Light|Light]] to anyone nearby with a Candle.
+</div>
+<gallery widths="200px">
+Days-of-Sunlight-2023-Sunlight-Guide-mimi4117-sam6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & mimi4117
+Days-of-Sunlight-2023-IAP-mimi4117-sam6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & mimi4117
+Days-of-Sunlight-2023-Tickets-mimi4117-sam6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & mimi4117
+</gallery>
+
+=== Ticket Locations ===
+[[file:Days-of-Sunlight-Ticket-Popsicle.png|125px|thumb|A Days of Sunlight popsicle Ticket]]
+A total of {{Cost|6 T|event=sunlight}} popsicle-shaped Tickets were available each day:
+
+*{{Cost|3 T|event=sunlight}} hidden throughout the Elevated Clearing (see rotations below)
+*{{Cost|1 T|event=sunlight}} floating on a Jellyfish
+*{{Cost|2 T|event=sunlight}} from participating in any 2 of the event activities
+
+{{Collapse
+|float= left
+|label= All Exact Ticket Locations
+|content=<u>'''Locations:'''</u>
+<u>'''Rotation A:'''</u>
+* {{Cost|1 T|event=sunlight}} In a window of the hollow tree at Grandma's dinner table
+* {{Cost|1 T|event=sunlight}} On the left post of the bridge leading to Boneyard
+* {{Cost|1 T|event=sunlight}} At the top of the waterfall in the tree by the water slide
+
+<u>'''Rotation B:'''</u>
+* {{Cost|1 T|event=sunlight}} On Grandma's dinner table in the hollow tree 
+* {{Cost|1 T|event=sunlight}} On a hill to the left, above the 2021 Days of Summer Guide
+* {{Cost|1 T|event=sunlight}} On the base of the bridge leading to Boneyard
+
+<u>'''Rotation C:'''</u>
+* {{Cost|1 T|event=sunlight}} On a fishing deck with the Baffled Botanist
+* {{Cost|1 T|event=sunlight}} On the Double Deck Chairs next to the 2021 Days of Summer Guide
+* {{Cost|1 T|event=sunlight}} On the right, over the hills going to the wooden trail around the trees}}<br>
+
+Players could also buy additional Tickets (costing {{Cost|2 AC}} each) from the [[Spell Shops#Sleepy Traveler's Boat|Sleepy Traveler's boat]] at Home.
+
+In addition, an option to exchange up to {{Cost| 21 T|event=sunlight}} for {{Cost|2 AC}} each (for a total of {{Cost|42 AC}}) from the Sleepy Traveler's boat was added on September 22 as [https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/faq/1143-days-of-sunlight-price-update-and-ascended-candle-conversion/ compensation for a miscalculation] regarding Ticket totals for the event. This option was available until the end of Days of Sunlight, on September 24.
+
+{| class="article-table mw-collapsible mw-collapsed" style="float:right; text-align:center;"
+! colspan="3" style="text-align:center; | '''Ticket Rotations'''
+|-
+! '''Date'''
+! '''Rotation'''
+! '''Daily Total'''
+|-
+| 
+| 
+| {{Cost|{{#vardefineecho:D15|25}} T|event=sunlight}}<ref name="Towel price change">The Ticket prices of all three Sunlight Towel Capes was [https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/faq/1143-september-15-update-days-of-sunlight-event-pricing/ reduced on September 15] because of a miscalculation regarding their totals. Previously, the Pink Towel Cape costed {{Cost|22 T|event=sunlight}}, the Yellow Towel Cape costed {{Cost|25 T|event=sunlight}}, and the Blue Towel Cape costed {{Cost|31 T|event=sunlight}}. In addition, all players were compensated {{Cost|25 T|event=sunlight}}, which could be claimed for free from the Sleepy Traveler's boat at Home.</ref>
+|-
+| Sept 11, 2023
+| A
+| {{Cost|{{#vardefineecho:D1|06}} T|event=sunlight}}
+|-
+| Sept 12, 2023
+| B
+| {{Cost|{{#vardefineecho:D2|06}} T|event=sunlight}}
+|-
+| Sept 13, 2023
+| C
+| {{Cost|{{#vardefineecho:D3|06}} T|event=sunlight}}
+|-
+| Sept 14, 2023
+| A
+| {{Cost|{{#vardefineecho:D4|06}} T|event=sunlight}}
+|-
+| Sept 15, 2023
+| B
+| {{Cost|{{#vardefineecho:D5|06}} T|event=sunlight}}
+|-
+| Sept 16, 2023
+| C
+| {{Cost|{{#vardefineecho:D6|06}} T|event=sunlight}}
+|-
+| Sept 17, 2023
+| A
+| {{Cost|{{#vardefineecho:D7|06}} T|event=sunlight}}
+|-
+| Sept 18, 2023
+| B
+| {{Cost|{{#vardefineecho:D8|06}} T|event=sunlight}}
+|-
+| Sept 19, 2023
+| C
+| {{Cost|{{#vardefineecho:D9|06}} T|event=sunlight}}
+|-
+| Sept 20, 2023
+| A
+| {{Cost|{{#vardefineecho:D10|06}} T|event=sunlight}}
+|-
+| Sept 21, 2023
+| B
+| {{Cost|{{#vardefineecho:D11|06}} T|event=sunlight}}
+|-
+| Sept 22, 2023
+| C
+| {{Cost|{{#vardefineecho:D12|06}} T|event=sunlight}}
+|-
+| Sept 23, 2023
+| A
+| {{Cost|{{#vardefineecho:D13|06}} T|event=sunlight}}
+|-
+| Sept 24, 2023
+| B
+| {{Cost|{{#vardefineecho:D14|06}} T|event=sunlight}}
+|-
+! colspan="2" style="text-align:center;" | '''Total so far'''
+! style="text-align:center;" | '''{{Cost|{{#expr: ({{#var:D1}} + {{#var:D2}} + {{#var:D3}} + {{#var:D4}} + {{#var:D5}} + {{#var:D6}} + {{#var:D7}} + {{#var:D8}} + {{#var:D9}} + {{#var:D10}} + {{#var:D11}} + {{#var:D12}} + {{#var:D13}} + {{#var:D14}} + {{#var:D15}}) }} T|event=sunlight}}'''
+|}
+{{Friendship Tree
+|label  = Sunlight Guide
+|event = Sunlight
+|image = Days_of_Sunlight_Guide_2023.png
+
+|nodeC4 = {{Icon Name|Sunlight Blue Towel Cape|icon}} 23 T 
+|noteC4 = <ref name="Towel price change">The Ticket prices of all three Sunlight Towel Capes was [https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/faq/1143-september-15-update-days-of-sunlight-event-pricing/ reduced on September 15] because of a miscalculation regarding their totals. Previously, the Pink Towel Cape costed {{Cost|22 T|event=sunlight}}, the Yellow Towel Cape costed {{Cost|25 T|event=sunlight}}, and the Blue Towel Cape costed {{Cost|31 T|event=sunlight}}. In addition, all players were compensated {{Cost|25 T|event=sunlight}}, which could be claimed for free from the Sleepy Traveler's boat at Home.</ref>
+|  labelC4 = {{Icon Name|Sunlight Blue Towel Cape|name}}
+|  linkC4  = Days of Sunlight#{{Icon Name|Sunlight Blue Towel Cape|name}}
+
+|nodeL3 = {{Icon Name|Sunlight Orange Towel Cape|icon}} 18 T 
+|noteL3 = <ref name="Towel price change"/>
+|  labelL3 = {{Icon Name|Sunlight Orange Towel Cape|name}}
+|  linkL3  = Days of Sunlight#{{Icon Name|Sunlight Orange Towel Cape|name}}
+
+|nodeC3 = spell5 
+|  labelC3 = Spell
+|  linkC3  = Spells
+
+|nodeL2 = {{Icon Name|Sunlight Pink Towel Cape|icon}} 16 T 
+|noteL2 = <ref name="Towel price change"/>
+|  labelL2 = {{Icon Name|Sunlight Pink Towel Cape|name}}
+|  linkL2  = Days of Sunlight#{{Icon Name|Sunlight Pink Towel Cape|name}}
+
+|nodeC2 = spell5 
+|  labelC2 = Spell
+|  linkC2  = Spells
+
+|nodeR1 = {{Icon Name|Summer Hat|icon}} 44 C
+|  labelR1 = {{Icon Name|Summer Hat|name}}
+|  linkR1  = Days of Summer#{{Icon Name|Summer Hat|name}}
+|nodeL1 = {{Icon Name|Campfire Tent|icon}} 90 C
+|  labelL1 = {{Icon Name|Campfire Tent|name}}
+|  linkL1  = Days of Sunlight#{{Icon Name|Campfire Tent|name}}
+|nodeC1 = Icon_warp.png  
+|  labelC1 = Teleport to the Elevated Clearing
+}}
+{{Clear}}
+
+===2023 New Cosmetics and Props===
+====Sunlight Chunky Sandals====
+::'''''"Give your toes some fresh rays of sunshine"'''''
+The Sunlight Chunky Sandals are a pair of thick orange slip-on sandals. These [[Shoes]] were introduced in 2023 for {{Cost|9.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event. Walking with those shoes adds a special squeaky sound effect to your step.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Sunlight Chunky Sandals|iap}} {{!}} {{Icon Name|Sunlight Chunky Sandals|name}} IAP
+{{Icon Name|Sunlight Chunky Sandals|icon}} {{!}} {{Icon Name|Sunlight Chunky Sandals|name}} icon
+{{Icon Name|Sunlight Chunky Sandals|real}} {{!}} {{Icon Name|Sunlight Chunky Sandals|name}}
+{{Icon Name|Sunlight Chunky Sandals|spell}} {{!}} {{Icon Name|Sunlight Chunky Sandals|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Sunlight Surfboard====
+::'''''"Make waves in even the smallest of ponds"'''''
+The Sunlight Surfboard is a stocky blue, yellow, and white surfboard. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]], and allows a single player to ride it on top of bodies of water. (''Note: it can only be placed in water.'') This Prop was introduced in 2023 for {{Cost|14.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Sunlight Surfboard|iap}} {{!}} {{Icon Name|Sunlight Surfboard|name}} IAP
+{{Icon Name|Sunlight Surfboard|icon}} {{!}} {{Icon Name|Sunlight Surfboard|name}} icon
+{{Icon Name|Sunlight Surfboard|real}} {{!}} {{Icon Name|Sunlight Surfboard|name}}
+{{Icon Name|Sunlight Surfboard|using}} {{!}} A player riding the {{Icon Name|Sunlight Surfboard|name}}
+Sunlight-Surfboard-Prop-on-your-back.png {{!}} {{Icon Name|Sunlight Surfboard|name}} on your back
+{{Icon Name|Sunlight Surfboard|spell}} {{!}} {{Icon Name|Sunlight Surfboard|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Sunlight Pink Beach Towel Cape====
+The Sunlight Pink Beach Towel Cape is a fuzzy striped pink towel with a blue inner lining. This [[Cape]] was introduced in 2023 for {{Cost|16 T|event=sunlight}}<ref name="Towel price change"/> from the Sunlight Guide for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Sunlight Pink Towel Cape|icon}} {{!}} {{Icon Name|Sunlight Pink Towel Cape|name}} icon 
+{{Icon Name|Sunlight Pink Towel Cape|front}} {{!}} {{Icon Name|Sunlight Pink Towel Cape|name}} front
+{{Icon Name|Sunlight Pink Towel Cape|interior}} {{!}} {{Icon Name|Sunlight Pink Towel Cape|name}} interior
+{{Icon Name|Sunlight Pink Towel Cape|real}} {{!}} {{Icon Name|Sunlight Pink Towel Cape|name}} back
+{{Icon Name|Sunlight Pink Towel Cape|exterior}} {{!}} {{Icon Name|Sunlight Pink Towel Cape|name}} exterior
+{{Icon Name|Sunlight Pink Towel Cape|spell}} {{!}} {{Icon Name|Sunlight Pink Towel Cape|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Sunlight Yellow Beach Towel Cape====
+The Sunlight Yellow Beach Towel Cape is a fuzzy striped orange towel. This [[Cape]] was introduced in 2023 for {{Cost|18 T|event=sunlight}}<ref name="Towel price change"/> from the Sunlight Guide for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Sunlight Orange Towel Cape|icon}} {{!}} {{Icon Name|Sunlight Orange Towel Cape|name}} icon 
+{{Icon Name|Sunlight Orange Towel Cape|front}} {{!}} {{Icon Name|Sunlight Orange Towel Cape|name}} front
+{{Icon Name|Sunlight Orange Towel Cape|interior}} {{!}} {{Icon Name|Sunlight Orange Towel Cape|name}} interior
+{{Icon Name|Sunlight Orange Towel Cape|real}} {{!}} {{Icon Name|Sunlight Orange Towel Cape|name}} back
+{{Icon Name|Sunlight Orange Towel Cape|exterior}} {{!}} {{Icon Name|Sunlight Orange Towel Cape|name}} exterior
+{{Icon Name|Sunlight Orange Towel Cape|spell}}{{!}} {{Icon Name|Sunlight Orange Towel Cape|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Sunlight Blue Beach Towel Cape ====
+The Sunlight Blue Beach Towel Cape is a fuzzy striped blue towel. This [[Cape]] was introduced in 2023 for {{Cost|23 T|event=sunlight}}<ref name="Towel price change"/> from the Sunlight Guide for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Sunlight Blue Towel Cape|icon}} {{!}} {{Icon Name|Sunlight Blue Towel Cape|name}} icon
+{{Icon Name|Sunlight Blue Towel Cape|front}} {{!}} {{Icon Name|Sunlight Blue Towel Cape|name}} front
+{{Icon Name|Sunlight Blue Towel Cape|interior}} {{!}} {{Icon Name|Sunlight Blue Towel Cape|name}} interior
+{{Icon Name|Sunlight Blue Towel Cape|real}} {{!}} {{Icon Name|Sunlight Blue Towel Cape|name}} back
+{{Icon Name|Sunlight Blue Towel Cape|exterior}} {{!}} {{Icon Name|Sunlight Blue Towel Cape|name}} exterior
+{{Icon Name|Sunlight Blue Towel Cape|spell}} {{!}} {{Icon Name|Sunlight Blue Towel Cape|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+==August 2022<span id="2022"></span>==
+[[File:Days-of-Sunlight-promo-image-2022.jpg|thumb|Days of Sunlight 2022 Promo image]]
+To celebrate the splendor of summer, a new event set foot in Sky: '''Days of Sunlight'''. This event replaced the previous year's [[Days of Summer]] and began on '''Monday, August 22, 2022 at 00:00 PDT (UTC-7)''' and ended on '''Sunday, September 11, 2022 at 23:59 PDT (UTC-7)'''. For the duration of the event, the Sunlight Guide appeared in [[Home]], offering to take players directly to [[Elevated Clearing]].
+
+For the occasion, Elevated Clearing got a makeover and featured several activities with visiting Spirits from [[Season of Assembly]], such as fishing, freeing [[Jellyfish]] with the [[Marching Adventurer]], playing music with the [[Scolding Student]], and roasting marshmallows over a campfire.
+
+{{#ev:youtube|IWPk4cxYjEg||inline|Days of Sunlight 2022 Trailer}}
+[[File:Days-of-Sunlight-Guide-Morybel-0146.jpg|thumb|300x300px]]
+
+During the event, several new and returning the [[Premium Candle Shop|IAPs]] were available from the in-game shop, and the Sunlight Guide Spirit offered the [[Days of Sunlight#Campfire Tent|Campfire Tent]] from their Friendship Tree. Free [[Spells]] to try all of these items could be collected from the [[Spell Shops#Sleepy Traveler's Boat|Sleepy Traveler's boat]] at Home and the pop-up mini Spell shop at Elevated Clearing.
+
+===2022 New Cosmetics and Props===
+====Jelly Shoulder Buddy====
+::'''''"A cuddly jellyfish companion that perches on your shoulder."'''''
+The Jelly Shoulder Buddy is a small, white and yellow [[Jellyfish]] that sits on your left shoulder. This [[Neck Accessory]] was introduced in 2022 for {{Cost|2.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Jelly Shoulder Buddy|iap}} {{!}} {{Icon Name|Jelly Shoulder Buddy|name}} IAP
+{{Icon Name|Jelly Shoulder Buddy|icon}} {{!}} {{Icon Name|Jelly Shoulder Buddy|name}} icon
+{{Icon Name|Jelly Shoulder Buddy|real}} {{!}} {{Icon Name|Jelly Shoulder Buddy|name}}
+{{Icon Name|Jelly Shoulder Buddy|Spell}} {{!}} {{Icon Name|Jelly Shoulder Buddy|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Campfire Tent====
+The Campfire Tent is a green triangle tent. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]]. When placed, the Tent provides players protection from polluted rain. This Prop was introduced in 2022 for {{Cost|90 C}} from the Sunlight Guide for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Campfire Tent|icon}} {{!}} {{Icon Name|Campfire Tent|name}} icon
+{{Icon Name|Campfire Tent|real}} {{!}} {{Icon Name|Campfire Tent|name}}
+Days-of-Sunlight-tent-prop-wearing-on-your-back.png {{!}} {{Icon Name|Campfire Tent|name}} on a player's back
+{{Icon Name|Campfire Tent|Spell}} {{!}} {{Icon Name|Campfire Tent|Name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Campfire Snack Kit====
+::'''"What better way to enjoy warm evenings than with a light snack with friends? Note: This item does not grant [[Pieces of Light|Light]] that can be forged into candles."'''
+The Campfire Snack Kit is a wooden rack holding three sticks with marshmallows speared on the ends. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]]. Once placed, a stick can be taken from the rack and a marshmallow placed on its end. Bring this snack to any heat source (such as a campfire, candle, or brazier) and it will begin roasting until it's ready to eat. If left too long, the marshmallow will blacken until completely burned. It is bundled with {{Cost|35 SC}}. This Prop was introduced in 2022 for {{Cost|19.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Campfire Snack Kit|IAP}} {{!}} {{Icon Name|Campfire Snack Kit|name}} IAP
+{{Icon Name|Campfire Snack Kit|icon}} {{!}} {{Icon Name|Campfire Snack Kit|Name}} icon
+{{Icon Name|Campfire Snack Kit|Real}} {{!}} {{Icon Name|Campfire Snack Kit|Name}}
+Days-of-Sunlight-Campfire-Snack-kit-using-prop.png {{!}} Using the {{Icon Name|Campfire Snack Kit|Name}}
+Days-of-Sunlight-Campfire-Snack-kit-wearing-on-your-back.png {{!}} {{Icon Name|Campfire Snack Kit|Name}} on a player's back
+{{Icon Name|Campfire Snack Kit|Spell}} {{!}} {{Icon Name|Campfire Snack Kit|Name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+===2022 New Spells===
+Free Spells were available to try all of these items as well. They were available to find near the pier at the event area in Hidden Forest.
+
+====Ball Spell====
+[[File:Ball-Spell-Morybel-0146.png|left|frameless|80x80px]]
+The Ball Spell is a one-time Spell that allows you to place a large ball, which moves whenever you or another player run into it. This Spell can be found near the pier at the event area in Hidden Forest during Days of Sunlight at the cost of 2 Spells for {{Cost|5 C}}.
+{{Clear}}
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Days_of_Sunlight_2025_aviary_board.JPG|2025 Aviary Village Event Board
+DoSunlight-2025-Promo-Image-3.png|2025 Promo image
+DoSunlight-2025-Promo-Image-2.png|2025 Promo image
+DoSunlight-2024-MantaFloat-promo-image.png|2024 Promo image
+DoSunlight-2024-Surfboard-promo-image.png|2024 Promo image
+DoSunlight-2023-Cosmetics-promo-image.png|2023 Promo images
+DoSunlight-2023-Ticket-promo-image.png|2023 Promo images
+DoSunlight-2023-Surfboard-promo-image.png|2023 Promo images
+DoSunlight-2023-lemonade-promo-image.png|2023 Promo images
+</gallery>
+
+==References==
+'''More information about Days of Sunlight 2024 can be found on [https://www.thatskygame.com/news/days-of-sunlight-2024-relax-in-the-perfect-sky-kid-playground/ ThatSkyGame's Website].'''
+<br>'''More information about Days of Sunlight 2023 can be found on [https://www.thatskygame.com/news/chill-times-ahead-for-days-of-sunlight-2023 ThatSkyGame's Website].'''
+<br>'''More information about Days of Sunlight 2022 can be found on [https://www.thatskygame.com/news/days-of-sunlight-gets-ready-to-shine ThatSkyGame's Website].'''
+
+<references/>
+
+{{Holiday Navbox}}
+
+[[de:Tage des Sonnenlichts]]
+[[pt-br:Dias Ensolarados]]
+[[ja:陽光の日々]]
+[[fr:Jours Ensoleillés]]
+[[zh:陽光節]]
+
+{{DEFAULTSORT:Sunlight, Days of}}
+[[Category:Events]]
+[[Category:Recurring Events]]

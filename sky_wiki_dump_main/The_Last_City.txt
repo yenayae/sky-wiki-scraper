@@ -1,0 +1,137 @@
+{{Location
+|image= The-Last-City-Area-Overview.png
+|realm= Golden Wasteland
+|access=
+|season= Two Embers Part 1
+|seasonal_spirits= {{Spirit Group|Two Embers Part 1|format=infobox}}
+|children_of_light=0
+|pieces_of_light= 0 {{Cost|L}}
+|map= The Last City Map- Sky Solsuga Aug 08 2025.jpeg
+|mapcaption= The Last City Map by @sky_solsuga
+}}
+
+<section begin="Summary" />'''The Last City'''<ref>The Seasonal area is referred to as '''"The Land Lost in Time"''' in the [[Season of The Two Embers - Part 1#Quest #1|first Quest]] and as '''"the Last City"''' in the preamble to Chapter 1 of [[The Two Embers]]. The latter was chosen as the name for brevity.</ref> is a Seasonal area added to the [[Golden Wasteland]], introduced along with the [[Season of The Two Embers - Part 1]] in Patch {{v|0.30.0}}. All the seasonal Quests, Spirits, and activities can be found in this area. To enter The Last City, begin a Quest with the [[Vault Elder's Lantern]], which can be found in the [[Aviary Village]] Cinema, or teleport alongside the [[Vault Elder's Lantern]] on the first floor of the [[Vault of Knowledge]] after completing the [[Season_of_The_Two_Embers_-_Part_1#Quest_#5|last Season Quest.]]<section end="Summary" />
+__TOC__
+{{Clear}}
+
+==Overview==
+[[File:The-Last-City-Directions.gif|thumb|300px|How to enter The Last City through the Vault]]
+The Last City is a bustling town at the foot of a great mountain, crowded with people, pipes, and walls. It is home to many refugees who have set up tents along the dusty streets surrounding the [[#Marketplace|Marketplace]] and [[#Cloister|Cloister]]. The Last City is made up of two main areas: the [[#Exterior Streets|Exterior Streets]] and the Marketplace. Three smaller areas can be accessed under certain conditions as well. The player's starting point is a tent next to the [[Vault Elder's Lantern]], at the very start of the area, with the [[#Map Shrine Locations|Map Shrine]] nearby. At the back, there are the Cloister and the Manatee pens with the [[Stern Shepherd]] and [[Caring Companion]], and to the right the Marketplace, where the [[Tender Toymaker]], [[Resourceful Recluse]], and [[Scarred Sentry]] can be found. The Marketplace gives access to the [[#Underground Refuge|Underground Refuge]] and the [[#Temple|Temple]] can be accessed by (re-)playing [[Season of The Two Embers - Part 1#Quest #4|Quest #4]] of the Season.
+
+<small>Players will be capeless in the area, and therefore unable to fly, unless they have the {{Spirit Item|Elder's Lantern|cape_u|inline_text}} equipped.</small>
+{{Clear}}
+
+===Children of Light Locations===
+There are no [[Children of Light]] in The Last City.
+
+===Map Shrine Locations===
+The Last City has one [[Map Shrines|Map Shrine]], which can be found to the player's right when loading into the area, in a quiet corner by some cages.<br><br>
+[[File:Wasteland-The-Two-Embers-City-Map-Shrine.jpg|thumb|200px|left|The Last City's Map Shrine]]
+{{Clear}}
+
+===Spirits in The Last City===
+The Last City holds 5 [[Seasonal Spirits]] ({{Emote|Tender Toymaker}} [[Tender Toymaker]], {{Emote|Resourceful Recluse}} [[Resourceful Recluse]], {{Emote|Stern Shepherd}} [[Stern Shepherd]], {{Emote|Scarred Sentry}} [[Scarred Sentry]], {{Emote|Caring Companion}} [[Caring Companion]]).<br><br>
+<section begin="SpiritTabber" />{{Mobile Tabber
+|tab1 = {{Emote|Tender Toymaker|tab}}
+|c1   = <br>{{#lst:Tender Toymaker|Summary}} {{#lst:Tender Toymaker|Season Friendship Tree}}
+|type1 = seasonal
+
+|tab2 = {{Emote|Resourceful Recluse|tab}}
+|c2   = <br>{{#lst:Resourceful Recluse|Summary}} {{#lst:Resourceful Recluse|Season Friendship Tree}}
+|type2 = seasonal
+
+|tab3 = {{Emote|Stern Shepherd|tab}}
+|c3   = <br>{{#lst:Stern Shepherd|Summary}} {{#lst:Stern Shepherd|Season Friendship Tree}}
+|type3 = seasonal
+
+|tab4 = {{Emote|Scarred Sentry|tab}}
+|c4   = <br>{{#lst:Scarred Sentry|Summary}} {{#lst:Scarred Sentry|Season Friendship Tree}}
+|type4 = seasonal
+
+|tab5 = {{Emote|Caring Companion|tab}}
+|c5   = <br>{{#lst:Caring Companion|Summary}} {{#lst:Caring Companion|Season Friendship Tree}}
+|type5 = seasonal
+}}<section end="SpiritTabber" />
+
+==Exterior Streets==
+The entrance to The Last City is located here, as well as the [[Vault Elder's Lantern]] and the Map Shrine. The main path leads to the Manatee pens, past the Marketplace and Cloister. The [[Stern Shepherd]] and [[Caring Companion]] can be found in this section of the City. Many interactions between the refugees can be seen, such as musicians, a group of kids, and two people playing a board game.
+
+==Marketplace==
+[[File:Last-City-Marketplace.jpg|thumb|right|300px|The Marketplace]]
+The Marketplace can be found to the player's right when following the main path to the back of the area—the entrance is located between the Manatee pens and the [[Vault Elder's Lantern]]. Vendors' tents crowd the meandering walkway, which end at the gate to the Temple. Players can interact with various vendors by selecting the coin offering button, upon which each vendor will offer a different service, such as serving some tea. In a quiet corner away from the bustle, the entrance to the Underground Refuge can be found. The [[Tender Toymaker]], [[Resourceful Recluse]], and [[Scarred Sentry]] are located in this section.
+{{Clear}}
+
+===Underground Refuge===
+The Underground Refuge is introduced in [[Season of The Two Embers - Part 1#Quest #2|Quest #2]] and can still be accessed after, by jumping into the hole close to the [[Resourceful Recluse]] to enter. It is a small underground room, lit by sunbeams coming through the ceiling and filled with hanging plants and murals. A moment with the Manatee from [[The Two Embers]] series can be viewed by interacting with the candle beside the stone, in the back of the area.<br><br>
+<gallery widths="175" spacing="small" captionalign="center">
+Last-City-Underground-Refuge.jpeg|The Underground Refuge
+Last-City-Underground-Refuge-Stone.jpg|Stone pillar in the Underground Refuge
+Underground-Refuge-Manatee-Moment.jpg|A moment with the Manatee
+</gallery>
+
+==Cloister==
+[[File:The_Last_City_ultimate_area.jpg|thumb|right|300px|The Cloister's Interior]]
+The Cloister can be found near the back of the village, opposite of the Manatee pens. It is blocked by a [[Barriers#Cosmetics_Barriers|Cosmetics Barrier]] and is only accessible to players wearing the {{Spirit Item|Elder's Lantern|cape_u|inline_text}} and friends holding their hand. A long line of citizens waits outside, with two guards watching the entrance. The Cloister's interior is an ornate enclosed courtyard, lit with a golden glow. In the center is a shallow pool lined with trees and shrubbery.
+
+Every hour at xx:00, xx:20, and xx:40, a cutscene plays of the Vault Elder entering the Cloister, stopping by the pool and raising their arms. The pool glows and lights the entire hall, and once the light fades, a quick recharge spell is applied to the player that lasts 10 hours and 40 minutes. 
+{{Clear}}
+
+==Temple==
+The Temple is only accessible at the end of [[Season of The Two Embers - Part 1#Quest #3|Quest #3]] and during [[Season of The Two Embers - Part 1#Quest #4|Quest #4]], where citizens of the City are besieged by dark creatures. It seems larger than the present-day [[Wasteland Temple]], as the recessed floors have not been buried in sand and polluted water. People are laying around, on mats and in tents, while dark sounds can be heard from outside and the ground shakes occasionally.
+
+==Activities==
+===Season of the Two Embers - Part 1 Quests===
+<div style="float:right">{{Mobile Tabber|textonly=1
+|tab1 = 1
+|c1   = <div> {{#ev:youtube|DX08LwrjjQc|300|right}} </div>
+|tab2 = 2
+|c2   = <div> {{#ev:youtube|ZkSc8PN5Tw0|300|right}} </div>
+|tab3 = 3
+|c3   = <div> {{#ev:youtube|RUWN8J5-gQ0|300|right}} </div>
+|tab4 = 4
+|c4   = <div> {{#ev:youtube|PLok6Kd6QrA|300|right}} </div>
+|tab5 = 5
+|c5   = <div> {{#ev:youtube|h7UwL-ArUI8|300|right}} </div>
+}}</div>
+In The Last City, players are able to do Seasonal Quests from the [[Season of The Two Embers - Part 1]]. Dive deeper into the adventure of [[The Two Embers]] with each Quest, walking, creating, and standing strong alongside the people who lived in the final years of the Kingdom.
+{{Clear}}
+
+===Interactions With NPCs===
+{{#ev:youtube|V11MDwndAm0||right|All activities in the Last City by sunnyveen}}
+For special interactions with the Caring Companion, see [[Caring_Companion#Memory|Caring Companion]].
+
+The citizens of The Last City will react to many of the players' Emotes.
+
+A non-comprehensive list of other interactions and activities:
+*A race through the alley and along the pipes is offered by a child close to the Vault Elder's Lantern. Finishing gives the player a few [[Pieces of Light]].
+*A ball game can be found by the marketplace's entrance.
+*Near the Manatee pens, the kids have made a Rock Toss Game for you to play. Throw three stones into the cart to win. Winning grants the player some [[Pieces of Light]].
+*Players can purchase items from select vendors at the marketplace, using the hand-offering-coin icon.
+*A vendor at the end of the marketplace offers the shell game. Winning grants the player some [[Pieces of Light]].
+*Players can irritate the guards by calling or emoting repeatedly close to one, and can be temporarily placed in a jail close to the [[Resourceful Recluse]].
+*In an [[Out of Bounds]] area of the exterior streets, players can join in on a yoga session.
+
+==Gallery==
+<gallery widths="225" spacing="small" captionalign="center" hideaddbutton="true" mode="nolines">
+Last-City-Player-Starting-Point.jpg|The player's starting point
+Last-City-Tender-Toymakers-Tent.jpg|The Tender Toymaker's tent
+Last-City-Race-Start.jpg|The Race start
+Last-City-Musician-Group.jpg|The musicians
+Last-City-Boardgame-Players.jpg|The board game players
+Last-City-Mountain.jpg|The mountain
+Last-City-Marketplace-Entrance.jpg|The Marketplace's entrance
+Last-City-Marketplace-Memorial.jpg|Grave in the Marketplace
+Last-City-Cloister-Entrance.jpg|The Cloister's entrance
+Last-City-Manatee-Pens-Overview.jpg|The Manatee pens
+</gallery>
+
+==Trivia==
+*The Temple gates were referred to as "castle gates" in an in-game message about the Scarred Sentry's location.
+
+==References==
+<references/>
+
+{{RealmsNav}}
+
+[[pt-br:Última Cidade]]
+[[ja:最後の街]]

@@ -1,0 +1,96 @@
+{{Spirit Infobox
+|type      = Regular
+|emote_type= Emote
+|image     = <gallery>
+Vault-Spirit-Meditating-Monastic.png|Standard
+Vault-Spirit-Meditating-Monastic-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Hair|infobox}}
+|props = {{Spirit Item||Prop|infobox}}
+|realm     = Vault of Knowledge
+|location  = Fourth Floor Vault
+}}
+<section begin="Summary" />The '''Meditating Monastic''' is a [[Regular Spirit]] in the [[Vault of Knowledge]] who offers the {{Emote|Meditating Monastic|inline_text}} Expression. The Meditating Monastic is found on a floating island connected to another by spiraling stepping stones on the [[Fourth Floor Vault|Fourth Floor of Vault]], but is only visible if you first {{Emote|Pray|inline_text}} by the statue at its center. The cosmetics [[Meditating Monastic#Friendship Tree|offered]] by this Spirit are a {{Spirit Item|Meditating Monastic|Hair|inline_text}} and a {{Spirit Item|Meditating Monastic|Prop|inline_text}} Prop.<section end="Summary" /><br>
+<br>
+[[File:Meditating-Monastic-Guide-777-Ed.png|320x320px|thumb|none|Image Guide by 777.Ed]]
+
+== Memory ==
+<div>{{#ev:youtube|https://www.youtube.com/watch?v=dIgC51kuNKM|||Video Guide by Tara||start=957&end=1098&loop=1}}
+<br>
+The Meditating Monastic can be found on a floating island connected to another by spiraling stepping stones on the [[Fourth Floor Vault|Fourth Floor of Vault]], at the statue surrounded by White Candles. The Spirit is only visible after using the {{Emote|Praying Acolyte|inline_text}} Expression from [[Praying Acolyte]] by the statue until it is fully lit up white, after lighting the White Candles that surround it. This Spirit is a [[Standard Memory|standard memory]] quest with 3 memory fragments and an unlimited overall [[Timed Memory|time limit]].
+
+Note that players who have not activated the Spirit by Praying can still follow their memories, but will be unable to complete the final step and collect the Meditating Monastic's Expression.
+
+As their memory unfolds, the Meditating Monastic climbs the spiraling stones to reach the larger floating island above.
+
+At the end of the memory, the Meditating Monastic floats off the ground and crosses their legs to sit mid-air, peacefully contemplating the view from their higher vantage point.<br>
+<br>
+[[File:05 VK Spirit - Meditating Monastic.jpg|200px|thumb|none|Relive the Meditating Monastic's memory]]
+</div>
+{{Clear}}
+
+== Expression ==
+{{Distinguish|type=emote|Telekinesis|Blindfold Balance Pose|Float Spin}}
+This Spirit offers the {{Emote|Meditating Monastic|inline_text}} [[Expression]], which has 4 Levels.<br>
+<br>
+[[File:{{Icon Name||Emote}}|125px|left]]
+<gallery heights="125" captionalign="center">
+Meditating-Monastic-float-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Meditating-Monastic-float-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Meditating-Monastic-float-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Meditating-Monastic-float-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+* Level 1 will make your avatar float up off the ground and cross their legs together, hands resting in their lap. This action is continued for as long as you don't move your character.
+* Level 2 makes the same motion as Level 1 with a triple golden halo behind your avatar's body.
+* Level 3 will make your avatar float up off the ground and lean back, ankles crossed and arms behind their head. This action is continued for as long as you don't move your character.
+* Level 4 makes the same motion as Level 3 with white clouds appearing beneath your avatar's hovering body.
+
+The prices of the three Expression upgrades are {{Cost|10 C}}, {{Cost|7 C}}, and {{Cost|10 C}}. Levels 3 and 4 are only available after unlocking the Spirit's [[Wing Buff]].
+
+== Cosmetics ==
+=== Hair ===
+The [[Hair]] offered by this Spirit is a long beard, costing {{Cost|10 H}}. It is permanently available to all players after unlocking the Friendship Tree’s second node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||hair}} {{!}} The Hair icon
+{{Icon Name||hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Prop ===
+The [[Prop]] offered by this Spirit is a rectangular wooden table with four chairs, costing {{Heart|30}}. It is a placeable Prop that can be used to decorate [[Shared Spaces]], and functions as a four-player [[Chat]] item. It is a popular tool for going [[Out of Bounds]] (OOB).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||prop}} {{!}} The Prop icon
+{{Icon Name||prop|real}} {{!}} The Prop
+{{Icon Name||prop|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Friendship Tree ==
+{{Friendship Tree Info | regular}}
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Meditating Monastic
+|image  = Vault-Spirit-Meditating-Monastic.png
+
+|nodeC6 = prop 30 H
+|nodeC5 = spell5
+|nodeL4 = emote4 10 C
+|nodeC4 = emote3 7 C
+|nodeC3 = wing 3 AC
+|nodeL2 = hair 10 H
+|nodeC2 = spell1
+|nodeR2 = heart
+|nodeL1 = emote2 10 C
+|nodeC1 = emote
+}}<section end="Friendship Tree" />
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Emote Loc-Levitate.png
+</gallery>
+
+[[de:Meditierender Gelehrter]]
+[[pt-br:Intelectual Meditante]]
+[[fr:Monastique méditant]]

@@ -1,0 +1,192 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Call
+|image     = <gallery>
+Sanctuary-Spirit-Jelly-Whisperer.png|Standard
+Sanctuary-Spirit-Jelly-Whisperer-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Outfit|infobox}}{{Spirit Item||Hair|infobox}}
+|props     = {{Spirit Item||Prop|infobox}}
+|music     = {{Music Sheet|14}}
+|season    = Sanctuary
+|realm     = Daylight Prairie
+|location  = Sanctuary Islands
+|ts        = August 31, 2023 (#95)<br/>November 25, 2021 (#49)
+}}
+<section begin="Summary" />The '''Jelly Whisperer''' (sometimes called the '''Jellyfish Whisperer''') is a [[Seasonal Spirit]] from the [[Season of Sanctuary]] who offers the {{Emote|Jelly Whisperer|inline_text}}. The Jelly Whisperer is found in the [[Sanctuary Islands]], within a cavern filled with floating [[Jellyfish]] on the back side of the main island. The collectibles [[#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Jelly Whisperer|Outfit|inline_text}}, a {{Spirit Item|Jelly Whisperer|Hair|inline_text}}, a {{Spirit Item|Jelly Whisperer|Prop|label=Beach Umbrella Prop|inline_text}}, and the {{Music Sheet|14|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Jelly-Whisperer-promo-image.jpg|thumb|320px|none|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|svKLM5uXQpg||inline|Video Guide by Tara}}
+
+The Jelly Whisperer can be found in the [[Sanctuary Islands]], within a cavern filled with floating [[Jellyfish]] on the back side of the main island. This Spirit has a [[Collection Memory|collection memory]] with 10 memory fragments and a 16-minute overall [[Timed Memory|time limit]].
+
+As their memory unfolds, the Jelly Whisperer and the [[Sanctuary Guide]] can be seen roaming around the cavern together, playfully interacting with the many floating [[Jellyfish]] that inhabit the area, and performing several flips and jumps by bouncing on their tops.
+
+At the end of the memory, the two Spirits stare at a particularly large Jellyfish with awe. The Jelly Whisperer lets out several gentle sounding Calls that echo through the cavern, to which the Jellyfish responds with its own Call.<br>
+<br>
+[[File:01 DP Spirit - Jelly Whisperer.png|200px|thumb|none|Relive the Jelly Whisperer's memory]]
+</div>
+{{Clear}}
+
+== <span id="Expression">Call</span> ==
+This Spirit offers the {{Emote||inline_text}}, which modifies the player's voice to a gentle distorted echo.<br>
+<br>
+[[File:{{Icon Name||emote}}|x170px|left]]
+[[File:Jelly-Whisperer-jellyfish-call-emote.mp4|300px]]
+{{Clear}}
+
+== Cosmetics==
+=== Outfit ===
+The [[Outfit]] offered by this Spirit includes a pair of dark brown cargo pants and a beige wrap-top with mid-length sleeves, costing {{Cost|65 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|24 SC|season=Sanctuary}} total).<br>{{Dye_Details
+|area1=the top
+|cost1=3
+}}
+<br>
+{{#tag:gallery
+|{{Icon Name||Outfit}} {{!}} The Outfit icon
+{{Icon Name||Outfit|real}} {{!}} The Outfit front
+{{Icon Name||Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Hair ===
+The [[Hair]] offered by this Spirit resembles a white jellyfish with four tentacles and yellow accents, costing {{Cost|42 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's third node ({{Cost|14 SC|season=Sanctuary}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Prop ===
+The [[Prop]] offered by this Spirit is a striped beach umbrella, costing {{Cost|15 H}} from the Traveling Spirit. It is a placeable Prop that can be used to decorate [[Shared Spaces]] and protects players who stand under it from [[Flora,_Minerals_and_Elements_of_Sky#Rain|polluted rain]]. Note that it cannot be held in hand while walking (unlike the umbrellas from the {{Spirit|Laidback Pioneer|inline_text}}, the [[Days of Summer]] event, or the [[Season of Lightseekers]] Ultimate Prop). It appears as an open umbrella on its owner's back when carried.
+
+This item was not available during the [[Season of Sanctuary]]. Instead, it was added to the Jelly Whisperer's Friendship Tree during their first visit as a [[Traveling Spirit]] on November 25, 2021.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Prop|icon}} {{!}} The Prop icon
+{{Icon Name||Prop|real}} {{!}} The Prop
+{{Icon Name||Prop|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Music Sheet ==
+The Jelly Whisperer offers the {{Music Sheet|14}} [[Music Sheet]] #14, costing {{Cost|15 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's second node ({{Cost|6 SC|season=Sanctuary}} total). It is a song in the key of C Major.<br>
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guide
+|content=
+{{#ev:youtube|wtmmcPpApEY||inline|Music Sheet Video Guide by thatskyfox (Fox Band)}}
+}}
+
+== Traveling Spirit ==
+[[File:Traveling_Spirit_Jelly_Whisperer.png|200px|right|thumb]]
+{{Friendship Tree Info | traveling
+|ts_dates=*August 31, 2023 (#95)
+*November 25, 2021 (With a new [[#Prop|Prop]]) (#49)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Jelly Whisperer
+|season = Sanctuary
+|image  = Sanctuary-Spirit-Jelly-Whisperer.png
+
+|nodeC5 = Outfit 65 C
+|nodeL4 = Prop 15 H NEW
+|nodeR4 = Hair 42 C
+| noteR4 = <ref name="Restructured Tree">The Jelly Whisperer's [[Jelly Whisperer#Traveling Spirit|Friendship Tree]] was modified for their second visit as a Traveling Spirit on August 31, 2023. The [[Jelly Whisperer#Hair|Hair]] was previously available after unlocking the [[Wing Buff]], requiring players to purchase it in order to access the second {{Candle|5}} [[Blessing]] (and subsequently, the Prop and Outfit).</ref>
+|nodeC4 = spell5
+|nodeC3 = wing
+|nodeL2 = music14 15 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+=== Hints ===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+The hints given before the [[Jelly Whisperer]]'s first appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=First Visit Hints
+|content=<div>
+* Is an aspiring magician. They're not very good yet
+* Is a bad dancer
+* Has an ok sense of direction
+* Really loves trampolines!
+* Likes early mornings the best
+* Dislikes mainstream music
+* Always wanted to have a pet
+* Hates running
+* Has thumbs
+* Often gives thumbs up to their friends 
+* Always carries around any item you may need
+* Only listens to new wave and synth pop music
+* Hyperfocuses easily
+* Can talk for hours about something they're interested in
+* Has never watched any anime
+* Always loses at card games
+* Is bad at puzzle games
+* Is a Virgo sun, Aquarius moon 
+* [ikô] Is really good at breakdancing
+* [ikô] Is really good at The FitnessGram™ Pacer Test is a multistage aerobic capacity test that progressively gets more difficult as it continues. The 20 meter pacer test will begin in 30 seconds. Line up at the start. The running speed starts slowly, but gets faster each minute after you hear this signal. [beep] A single lap should be completed each time you hear this sound. [ding] Remember to run in a straight line, and run as long as possible. The second time you fail to complete a lap before the sound, your test is over. The test will begin on the word start. On your mark, get ready, start.
+</div>
+}}
+
+The hints given before the [[Jelly Whisperer]]'s second appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Second Visit Hints
+|content=<div>
+* Wants to tell you about a new cool fact they learned
+* Hates clothing that doesn't come with pockets
+* Thinks they're good at dancing
+* Prefers the shade over being in the sun
+* Is a slow boat driver
+* Doesn't like fried food
+* Enjoys doing acrobatics
+* Favorite flavor of candy is grape
+* Laughs at bad puns
+* Thinks breakfast is the best meal of the day
+* Is rapidly approaching your location
+* Says "start running"
+</div>
+}}
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Sanctuary}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Jelly Whisperer
+|type   = season
+|season = Sanctuary
+|image  = Sanctuary-Spirit-Jelly-Whisperer.png
+
+|nodeC5 = season_heart 3 SC SP
+|nodeL4 = Outfit SP
+|nodeC4 = spell5 10 SC
+|nodeL3 = spell5 SP
+|nodeC3 = Hair 8 SC
+|nodeL2 = spell5 SP
+|nodeC2 = music14 6 SC
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Jelly Whisperer Promo image (second visit).png
+Sanctuary Images recap-Jelly Whisperer how to.jpg
+AP Sanctuary 11.png
+Jellyfish whisperer map.png
+</gallery>
+
+==References==
+<references/>
+
+[[de:Quallensprecher]]
+[[pt-br:Água-Viva Sussurrante]]
+[[ru:Шепчущий медузам]]
+[[fr:Murmureur de méduse]]
+[[ja:海月の語り部]]

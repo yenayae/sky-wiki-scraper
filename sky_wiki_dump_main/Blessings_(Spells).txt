@@ -1,0 +1,2764 @@
+[[File:All_About_Spells_Updated.png|thumb|350px|Infographic by Clement#8978]]
+'''Blessings''' are [[Collectibles]] that can be obtained from [[Spirits]] or [[Spell Shops]]. Blessings is a generic term that includes '''Spells''', '''Potions''', and '''Scrolls'''. These are all ''single-use'' items (unlike [[Expressions]] and [[Cosmetics]]). Most produce a temporary effect (the permanent [[#Resize Potion|Resize Potion]] is a notable exception).
+
+==Obtaining Blessings==
+Typically, Blessings are obtained from [[Spirits]], who provide a fixed number of randomly determined Spells or Potions. The [[Friendship Tree (Regular)|Friendship Trees]] for [[Regular Spirits]] always contain a {{Icon|1CandleSpell.png|link=1 Candle Blessing|inline_text}} and a {{Icon|5CandlesSpell.png|link=5 Candle Blessing|inline_text}}. These Blessings never reset, so in total only 74 (37 1-Candle and 37 5-Candle) Blessings are available from Regular Spirits. [[Seasonal Spirits]] also sell Blessings (exactly how many depends upon the Spirit), but only during their [[Seasonal Events|Season]] or when they return as a [[Traveling Spirit]].<br>
+<br>
+[[File:Tip-forge-new-spells.png|thumb|400x400px]]
+
+The [[Forgotten Ark]] provides another way to obtain standard Spells and Potions, where you can purchase bundles of specific (non-random) Blessings for various in-game [[Currency|currencies]], all of which reset. To unlock the three [[#Spell Shops in Forgotten Ark|permanent shops]] within the area, you must first fully restore the Ark by completing all of the [[Season of Enchantment]] Quests.
+
+Similarly, the [[Aviary_Village#Spell_Shop|Spell Shop in Aviary Village]] also provides another way to obtain the same Blessings available at the Forgotten Ark. To first unlock the [[#Message_Boat_Spell|Message Boat Spells]], you must complete the [[Season_of_Revival#Quest_#2|second Quest]] from the Season of Revival. To expand the shop's stock further, you must then complete the [[Season_of_Revival#Quest_#8|eighth Quest]] from the Season of Revival.
+
+Finally, many [[Special Events]] have introduced [[#Special Event and Other Spells|Spells]], many of which provide free trials of some of the cosmetics offered by the event.
+
+==Blessings Menu==
+[[File:Blessings-Spells.png|thumb|153x153px]]All the Blessings currently available to you are within the [[Expression Menu]], listed in the third tab (the Blessing {{Icon|5CandlesSpell.png}} icon). The number next to the icons indicates the quantity of each Spell, Potion, or Scroll in your inventory. All Blessings are single-use items.
+
+When you select a Blessing, a confirmation popup menu appears with the Blessing's name and a brief description. Many Blessings will also affect your nearby [[Making Friends|friends]]: this always includes any friend whose [[Friendship_Menu#Holding_Hands|hand you are holding]] or [[Friendship_Menu#Piggyback|piggybacking]], but can also sometimes include other friends who are standing very close to you.
+
+Various Blessings temporarily give you a [[Cosmetics|cosmetic]] item (e.g. a Prop, Cape, etc.). These Blessings will replace what you were previously wearing. If you have an existing placed Prop (e.g., a chat table), a Prop Spell will appear to have no effect until you put away the placed Prop. At that point the Spell Prop will appear on your back and the icon in the Expression Menu will switch to match the Spell item.
+
+For any temporary duration Blessing, an icon is added in the lower left corner of the screen and at the top of the Blessing Menu. The remaining duration of the Blessing can be seen here. Clicking on the icon allows you to cancel the Spell immediately if you wish.
+
+==Blessings from Ancestor Spirits==
+===1-Candle Blessings===
+One of five different Spells will be randomly granted to a player when purchasing a {{Icon|1CandleSpell.png}} 1 Candle Blessing from a [[Spirits|Spirit's]] [[Friendship Tree (Regular)|Friendship Tree]]: the [[#Glow Spell|Glow Spell]], the [[#Anti-Gravity Spell|Anti-Gravity Spell]], the [[#Fast Recharge Spell|Fast Recharge Spell]], the [[#Fireworks Spell|Fireworks Spell]] and the [[#Shrink Spell|Shrink Spell]].
+
+===5-Candle Blessings===
+When purchasing a {{Icon|5CandlesSpell.png}} 5 Candle Blessing, the player will be granted one of nine different options (seven Spells and two Potions). Five of these are the same Spells possible with a [[1 Candle Blessing]]: the [[#Glow Spell|Glow Spell]], the [[#Anti-Gravity Spell|Anti-Gravity Spell]], the [[#Fast Recharge Spell|Fast Recharge Spell]], the [[#Fireworks Spell|Fireworks Spell]] and the [[#Shrink Spell|Shrink Spell.]]
+
+Two additional Spells and two additional Potions are also possible: the [[#Chat Table Spell|Chat Table Spell]], the [[#Bonfire Spell|Bonfire Spell]], the [[#Instant Recharge Potion|Instant Recharge Potion]], and the [[#Resize Potion|Resize Potion]].
+
+===All Blessings===
+{| class="article-table"
+!'''Spell'''
+!'''Icon'''
+!'''Duration'''
+!'''Spirit Cost'''
+!'''Shop Cost'''
+!'''Description'''
+|-
+|[[Spells#Glow Spell|Glow Spell]]
+|{{Icon|Glow Spell.png|table|label=Glow Spell|in_page=1}}
+|<small>10 mins</small>
+|<small>{{Cost|1 C}}</small>
+|<small>2 for {{Cost|5 C}}</small>
+|''"Glow for the next 10 mins."''
+|-
+|[[Spells#Anti-Gravity Spell|Anti-Gravity Spell]]
+|{{Icon|Anti gravity spell.png|table|label=Anti-Gravity Spell|in_page=1}}
+|<small>5 mins</small>
+|<small>{{Cost|1 C}}</small>
+|<small>2 for {{Cost|5 C}}</small>
+|''"Decrease your group's gravity for the next 5 mins."''
+|-
+|[[Spells#Fast Recharge Spell|Fast Recharge Spell]]
+|{{Icon|Fast Recharge Spell.png|table|label=Fast Recharge Spell|in_page=1}}
+|<small>10 mins</small>
+|<small>{{Cost|1 C}}</small>
+|<small>2 for {{Cost|5 C}}</small>
+|''"Increase your group's cape recover speed for the next 10 mins."''
+|-
+|[[Spells#Fireworks Spell|Fireworks Spell]]
+|{{Icon|Days of Fortune - Firework spell.png|table|label=Fireworks Spell|in_page=1}}
+|<small>One time use</small>
+|<small>{{Cost|1 C}}</small>
+|<small>2 for {{Cost|5 C}}</small>
+|''"Shoot off fireworks."''
+|-
+|[[Spells#Chat Table Spell|Chat Table Spell]]
+|{{Icon|Chat Table Spell.png|table|label=Chat Table Spell|in_page=1}}
+|<small>One time use</small>
+|<small>2 for {{Cost|5 C}}</small>
+|<small>2 for {{Cost|12 C}}</small>
+|''"Place a table to chat with other players."''
+|-
+|[[Spells#Bonfire Spell|Bonfire Spell]]
+|{{Icon|Bonfire-Spell-icon.png|table|label=Bonfire Spell|in_page=1}}
+|<small>One time use</small>
+|<small>{{Cost|5 C}}</small>
+|<small>2 for {{Cost|10 AC}}</small>
+|''"Place a bonfire to chat with other players."''
+|-
+|[[Spells#Instant Recharge Potion|Instant Recharge Potion]]
+|{{Icon|Instant Recharge Potion.png|table|label=Instant Recharge Potion|in_page=1}}
+|<small>One time use</small>
+|<small>{{Cost|5 C}}</small>
+|<small>2 for {{Cost|5 C}}</small>
+|''"Instantly recharge your energy."''
+|-
+|[[Spells#Resize Potion|Resize Potion]]
+|{{Icon|Resize-Potion-Morybel-0146.png|table|label=Resize Potion|in_page=1}}
+|<small>Permanent</small>
+|<small>{{Cost|5 C}}</small>
+|<small>3 for {{Cost|10 AC}}</small>
+|''"Permanently resize your self."''
+|-
+|[[Spells#Message Boat Spell|Message Boat Spell]]
+|{{Icon|Days-of-Love-Message-Boat-Spell-Morybel-0146.png|table|label=Message Boat Spell|in_page=1}}
+|<small>One time use</small>
+|
+|<small>3 for {{Cost|6 C}}</small>
+|''"Send off a friendly message boat. (Replaces any already placed in the area)"''
+|-
+|[[Spells#Message Crane Spell|Message Crane Spell]]
+|{{Icon|Days-of-Love-Message-Crane-Spell-Morybel-0146.png|table|label=Message Crane Spell|in_page=1}}
+|<small>One time use</small>
+|
+|<small>3 for {{Cost|8 C}}</small>
+|''"Send off a friendly message crane. (Replaces any already placed in the area)''
+|-
+|[[Spells#Message Lantern Spell|Message Lantern Spell]]
+|{{Icon|Days-of-Fortune-Message-Lantern-Spell-Owl.png|table|label=Message Lantern Spell|in_page=1}}
+|<small>One time use</small>
+|
+|<small>3 for {{Cost|8 C}}</small>
+|''"Send off a friendly message lantern. (Replaces any already placed in the area)''
+|-
+|[[Spells#Message Gondola Spell|Message Gondola Spell]]
+|{{Icon|Message-Gondola-Spell-icon.png|table|label=Message Gondola Spell|in_page=1}}
+|<small>One time use</small>
+|
+|<small>2 for {{Cost|2 H}}</small>
+|''"Send off a friendly message gondola. (Replaces any already placed in the area)''
+|-
+|[[Spells#Shared Memory Spell|Shared Memory Spell]]
+|{{Icon|Shared-memory-spell-Morybel-0146.png|table|label=Shared Memory Spell|in_page=1}}
+|<small>One time use</small>
+|<small>{{Cost|5 C}}</small>
+|<small>1  for {{Cost|5 C}}</small>
+|''"Record a memory to share with others."''
+|-
+|[[Spells#Shared Space Spell|Shared Space Spell]]
+|{{Icon|Shared Space Spell Icon.png|table|label=Shared Space Spell|in_page=1}}
+|<small>One time use</small>
+|<small>{{Cost|5 C}}</small>
+|<small>1  for {{Cost|5 C}}</small>
+|''"Create a space to share with others."''
+|-
+|[[Spells#Pinwheel Spell|Pinwheel Spell]]
+|{{Icon|Pinwheel-Spell-Morybel-0146.png|table|label=Pinwheel Spell|in_page=1}}
+|<small>One time use</small>
+|
+|<small>5 for {{Cost|2 C}}</small>
+|''"Place a colorful pinwheel that spins in the breeze."''
+|-
+|[[Spells#Swing Spell|Swing Spell]]
+|{{Days Item|Love Swing|spell|table|in_page=1}}
+|<small>30 mins</small>
+|
+|<small>2 for {{Cost|8 H}}</small>
+|''"Make you and your friends carry this item for the next 30 mins."''
+|-
+|[[Spells#Seesaw Spell|Seesaw Spell]]
+|{{Days Item|Love Seesaw|spell|table|in_page=1}}
+|<small>30 mins</small>
+|
+|<small>2 for {{Cost|8 H}}</small>
+|''"Make you and your friends carry this item for the next 30 mins."''
+|-
+|[[Spells#Gondola Spell|Gondola Spell]]
+|{{Days Item|Love Gondola|spell|table|in_page=1}}
+|<small>30 mins</small>
+|
+|<small>2 for {{Cost|8 H}}</small>
+|''"Make you and your friends carry this item for the next 30 mins."''
+|-
+|[[Spells#Rainbow Spell|Rainbow Spell]]
+|{{Icon|Spell - Days of rainbow spell.png|table|label=Rainbow Spell|in_page=1}}
+|<small>One time use</small>
+|
+|<small>3 for {{Cost|9 AC}}</small>
+|''"Place a magic rainbow in the world."''
+|-
+|[[Spells#Lantern Spell|Lantern Spell]]
+|{{Days Item|Lantern|spell|table|in_page=1}}
+|<small>30 mins</small>
+|
+|<small>2 for {{Cost|10 AC}}</small>
+|''"Make you and your friends carry this item for the next 30 mins."''
+|-
+|[[Spells#Shrink Spell|Shrink Spell]]
+|{{Icon|Shrink Spell.png|table|label=Shrink Spell|in_page=1}}
+|<small>20 mins</small>
+|<small>{{Cost|1 C}}</small>
+|<small>2 for {{Cost|5 C}}</small>
+|''"Shrink into a baby for the next 20 mins."''
+|-
+|[[Spells#Grow Spell|Grow Spell]]
+|{{Icon|Grow-Spell-Morybel-0146.png|table|label=Grow Spell|in_page=1}}
+|<small>20 mins</small>
+|
+|<small>2 for {{Cost|5 C}}</small>
+|''"Grow into an adult for the next 20 mins."''
+|-
+|[[Spells#Tiny Spell|Tiny Spell]]
+|{{Icon|Tiny-Spell-Morybel-0146.png|table|label=Tiny Spell|in_page=1}}
+|<small>20 mins</small>
+|
+|<small>2 for {{Cost|10 C}}</small>
+|''"Makes you tiny for the next 20 mins."''
+|-
+|[[Spells#Huge Spell|Huge Spell]]
+|{{Icon|Huge-Spell-Morybel-0146.png|table|label=Huge Spell|in_page=1}}
+|<small>20 mins</small>
+|
+|<small>2 for {{Cost|10 C}}</small>
+|''"Makes you huge for the next 20 mins."''
+|-
+|[[Spells#Do Not Disturb Spell|Do Not Disturb Spell]]
+|{{Icon|Do-not-disturb-icon-in-inventory.png|table|label=Do Not Disturb Spell|in_page=1}}
+|<small>60 mins</small>
+|
+|<small>1 for {{Cost|1 C}}</small>
+|''"Warn friends before they teleport to you, and other players will see a Do Not Disturb icon above your head."''
+|-
+|[[Spells#Skyball Set Spell|Skyball Set Spell]]
+|{{Icon|Days-of-Feast-SkyBall-Set-Spell-Morybel-0146.png|table|label=Skyball Set|in_page=1}}
+|<small>One time use</small>
+|
+|<small>2 for {{Cost|2 C}}</small>
+|''""Place a Skyball set to play with your friends."''
+|-
+|[[Spells#Dark Dragon Repellent Spell|Dark Dragon Repellent Spell]]
+|{{Icon|Days of Mischief - Dark Dragon Repellant spell.png|table|label=Dark Dragon Repellent Spell|in_page=1}}
+|<small>1 min</small>
+|
+|
+|''"Repel Dark Dragon for the next 1 mins."''
+|-
+|[[Spells#Trail Spells|Trail Spells]]
+|{{Icon|Days of Rainbow - Green Trail spell.png|table|label=Trail Spells|in_page=1}}
+|<small>60 mins</small><br><small>120 mins</small><br><small>180 mins</small>
+|
+|
+|''"Gives you colorful flying trails for the next ... mins."''
+|-
+|[[Spells#Hair Tint Spells|Hair Tint Spells]]
+|[[File:Red-Hair-Tint-Spell.png|50px|table|link=#Hair Tint Spells|class=animate-rainbow|Hair Tint Spells]]
+|<small>60 mins</small>
+|
+|
+|''"Gives you colorful hair for the next 60 mins."''
+|-
+|[[Spells#Rainbow Glow Spell|Rainbow Glow Spell]]
+|{{Icon|Spell - Days of rainbow spell.png|table|label=Rainbow Glow Spell|in_page=1}}
+|<small>30 mins</small>
+|
+|
+|''"Colorful glow for the next 30 mins."''
+|-
+|[[Spells#Ball Spell|Ball Spell]] 
+|{{Icon|Ball-Spell-Morybel-0146.png|table|label=Ball Spell|in_page=1}}
+| <small>One time use</small>
+|
+|
+|''"Kick it around and have a good time!"''
+|}
+
+===Glow Spell===
+[[File:Glow Spell.png|alt=|frameless|130x130px|left]]''"Glow for the next 10 mins."''
+
+The Glow Spell is quite helpful in dark places like the [[Golden Wasteland]]. Upon usage, the Blessing will illuminate both a player's character and the area around them for '''10 minutes'''. This Spell is a {{Cost|1 C}} Blessing {{Icon|1CandleSpell.png}}. 
+{{clear}}
+===Anti-Gravity Spell===
+[[File:Anti gravity spell.png|alt=|frameless|130x130px|left]]''"Decrease your group's gravity for the next 5 mins."''
+
+An Anti-Gravity Spell decreases the effect of gravity on your character but does not remove it completely. The Blessing simply causes you to fall downwards slightly slower for '''5 minutes'''. Thus, this Spell is especially handy during solo exploration or simply for reaching places which may normally be inaccessible. Furthermore, Anti-Gravity Spells are also useful for group sessions, as they will carry over to every other player in your party. This Spell is a {{Cost|1 C}} Blessing {{Icon|1CandleSpell.png}}.
+{{clear}}
+=== Fast Recharge Spell===
+[[File:Fast Recharge Spell.png|alt=|frameless|130x130px|left]]''"Increase your group's cape recover speed for the next 10 mins."''
+
+The Fast Recharge Spell causes your character to regain Cape Energy slightly faster than normal. However, you will not lose less energy during flight. The effect lasts for '''10 minutes'''. Like the Anti-Gravity Spell, the Fast-Recharge Spell also carries over to the rest of your group. It will only be in effect when you are near a light source and will not recharge you continuously. This Spell is a {{Cost|1 C}} Blessing {{Icon|1CandleSpell.png}}. 
+{{clear}}
+===Fireworks Spell===
+[[File:Days of Fortune - Firework spell.png|alt=|left|frameless|130x130px]]''"Shoot off fireworks."''
+
+A Fireworks Spell is a limited imitation of the Firework Staff (obtainable from the {{Spirit|Saluting Captain|inline_text}}). The Spell that is part of the 1 Candle Blessing only allows you to fire off ten fireworks total (two bursts of five with a cooldown in between).
+
+There is a second fireworks Spell that uses the exact same icon, but is a [[#Props Spell|Prop Spell]]. The Prop version is only available during [[Days of Fortune]]. As with all Prop Spells, it allows you and your friends to equip the [[Saluting Captain#Prop|Fireworks Staff]] for 30 minutes, during which time you can use it the same way as the purchased staff.  This Spell is a {{Cost|1 C}} Blessing {{Icon|1CandleSpell.png}}. 
+{{clear}}
+===Chat Table Spell===
+[[File:Chat Table Spell.png|alt=|frameless|130x130px|left]]''"Place a table to chat with other players."''
+
+A Chat Table Spell is an imitation of the Chat Table Prop (obtainable through the [[Meditating Monastic]] Spirit in the [[Vault of Knowledge]]). The table, which seats four players, allows you to [[Chat|chat]] with friends and strangers, similar to the Chat Benches which litter the Realms. It can also be a useful tool when accessing [[Out of Bounds]] areas. This Spell is a {{Cost|5 C}} Blessing {{Icon|5CandlesSpell.png}}. 
+
+When using a Chat Table Spell, tap the chair icon that appears to place a table in the direction your camera is facing, or press and hold the icon and drag the table to your desired location. You can continue to place and move your table until you tap elsewhere on the screen or move to a new area, or until you are inactive for more than two minutes. The table you place will disappear once you exit the game or move to another area.
+{{clear}}
+===Bonfire Spell===
+[[File:Bonfire-Spell-icon.png|alt=|frameless|130x130px|left]]''"Place a bonfire to chat with other players."''
+
+The Bonfire Spell temporarily allows you to place the Bonfire Prop, which originally appeared as the Ultimate Gift for the [[Season of Belonging]]. Like the Chat Table Spell, the Bonfire Spell, which seats four players, may be used as a way to [[Chat|communicate]] with friends and strangers in the same area. The Bonfire also recharges Cape Energy when the fire is lit.
+
+When using a Bonfire Spell, tap the fire icon that appears to place a table in the direction your camera is facing, or press and hold the icon and drag the Bonfire to your desired location. You can continue to place and move your Bonfire until you tap elsewhere on the screen or move to a new area, or until you are inactive for more than two minutes. The Bonfire you place will disappear once you exit the game or move to another area. This Spell is a {{Cost|5 C}} Blessing {{Icon|5CandlesSpell.png}}. 
+{{clear}}
+=== Instant Recharge Potion===
+[[File:Instant Recharge Potion.png|alt=|frameless|130x130px|left]]''"Instantly recharge your energy."''
+
+The Instant Recharge Potion, as the name implies, instantly grants the user a full gauge of Cape Energy. This can be useful in places such as [[Golden Wasteland]], where you may have lost your Light completely and do not wish to return Home, or when you simply want to fly more than your Cape Energy would otherwise allow. This Spell is a {{Cost|5 C}} Blessing {{Icon|5CandlesSpell.png}}. 
+{{clear}}
+===Resize Potion===
+[[File:Resize-Potion-Morybel-0146.png|alt=|left|frameless|130x130px]]''"Permanently resize your self."''
+
+The Resize Potion '''randomly '''and '''permanently''' changes the height of a player's character. This Spell is a {{Cost|5 C}} Blessing {{Icon|5CandlesSpell.png}}. 
+
+Resize Potions, which allow players to customize their characters by changing their heights, are the only way to change height permanently. To get another height, the player must use a Resize Potion. The spell has a 50/50 chance of making your character either shorter or taller (if you are not already at or very near the max/min height limit). However, as the Potion is always random, there is no guarantee that it will be the one desired. In fact, there are 4000 possible heights over the height spectrum. The Potion's effects last indefinitely – until another Resize Potion is used.<br>
+<br>
+[[File:Sky Height FAQ (new).png|alt=|thumb|290x290px|Height FAQ: Height is a spectrum. There are 4000 different heights in Sky.]]
+For technical reasons, the height achievable using a Resize Potion can be anything between -2.000 and +2.000, and height will always change by at least ±0.5 units. The Chibi size, which is smaller than -2.000, is a unique size that can only be achieved using the {{Spirit Item|Hide'n'Seek Pioneer|Mask|label=Chibi Mask|inline_text}} or [[#Shrink Spell|Shrink Spells]], so it's not possible to become Chibi-sized with Resize Potions. ([[#Tiny Spell|Tiny Spells]] can also be used to be smaller than -2.000 temporarily, but these do not mimic the effects of the Chibi Mask like the Shrink Spell does.) However, having a short enough height (nearing Chibi size) will give players the same running animation as a Chibi-sized player (with arms flung backwards). Likewise, the Huge Size, which is larger than +2.000, is a unique size that can only be achieved with the [[#Huge Spell|Huge Spells]].
+
+For more information on player characters' height, see [[Sky Children#Size]].
+If you'd like to measure your own size, you can find an [https://skykidheight.com/ online guide] here.
+{{clear}}
+===Message Boat Spell===
+<section begin="Message Boats" />[[File:Days-of-Love-Message-Boat-Spell-Morybel-0146.png|alt=|left|frameless|130x130px]]''"Send off a friendly message boat. (Replaces any already placed in the area)"''
+
+The Message Boat Spell is used to leave messages on water in the shape of a paper boat. Once placed, they remain for a total of 14 days before disappearing. Just like messages left at [[Message Candle Spots]], messages left using Message Boats can be opened, liked, hidden, and reported. This Spell was first introduced during the [[Days of Summer Lights]] event in 2020. 
+
+Players who view a message boat can send the creator a heart for three candles {{Cost|C}} once they've liked the boat. You don't have to be friends with a player to send them a heart and you can send them a heart through the boat in addition to gifting them a regular heart every day. Players that who are gifted a heart through their Message Boat can claim it at the [[Aviary_Village#Friendship_Constellation_Statue|Friendship Constellation Statue]] at Aviary Village or the [[Home#Return Shrine|Return Shrine]] at Home.  
+
+<gallery widths="150" hideaddbutton="true">
+Message Boats.jpg|Regular Message Boats
+</gallery><section end="Message Boats" />
+{{clear}}
+===Message Crane Spell===
+<section begin="Message Cranes" />[[File:Days-of-Love-Message-Crane-Spell-Morybel-0146.png|alt=|left|frameless|130x130px]]''"Send off a friendly message crane. (Replaces any already placed in the area)"''
+
+Just like the Message Boat Spell, the Message Crane Spell is used to leave messages on water in the shape of a paper crane that can be opened, liked, hidden, and reported. Once placed, they remain for a total of 14 days before disappearing. Regular Message Boats were made to look like Cranes during Days of Love 2022, before the Message Crane Spell was introduced. This Spell is a {{Cost|8 C}} Blessing {{Icon|5CandlesSpell.png}}. 
+
+Players who view a message crane can send the creator a heart for three candles {{Cost|C}} once they've liked the crane. You don't have to be friends with a player to send them a heart and you can send them a heart through the crane in addition to gifting them a regular heart every day. Players that who are gifted a heart through their Message Crane can claim it at the [[Aviary_Village#Friendship_Constellation_Statue|Friendship Constellation Statue]] at Aviary Village or the [[Home#Return Shrine|Return Shrine]] at Home. 
+
+<gallery widths="150" hideaddbutton="true">
+File:Message-boat-crane.jpg|Message Cranes
+</gallery><section end="Message Cranes" />
+{{clear}}
+
+===Message Lantern Spell===
+<section begin="Message Lanterns" />[[File:Days-of-Fortune-Message-Lantern-Spell-Owl.png|alt=|left|frameless|130x130px]]''"Send off a friendly message lantern. (Replaces any already placed in the area)"''
+
+Just like the Message Boat Spell, and the Message Crane Spell, the Message Lantern Spell is used to leave messages on water in the shape of a water lantern that can be opened, liked, hidden, and reported. Once placed, they remain for a total of 14 days before disappearing. Regular Message Boats were made to look like Lanterns during Days of Fortune 2021, before the Message Lantern Spell was introduced. This Spell is a {{Cost|8 C}} Blessing {{Icon|5CandlesSpell.png}}. 
+
+Players who view a message lantern can send the creator a heart for three candles {{Cost|C}} once they've liked the lantern. You don't have to be friends with a player to send them a heart and you can send them a heart through the lantern in addition to gifting them a regular heart every day. Players that who are gifted a heart through their Message Lantern can claim it at the [[Aviary_Village#Friendship_Constellation_Statue|Friendship Constellation Statue]] at Aviary Village or the [[Home#Return Shrine|Return Shrine]] at Home.  
+
+<gallery widths="150" hideaddbutton="true">
+Message Lantern .jpg|A Message Lantern
+</gallery><section end="Message Lanterns" />
+{{clear}}
+
+===Message Gondola Spell===
+<section begin="Message Gondolas" />[[File:Message-Gondola-Spell-icon.png|alt=|left|frameless|130x130px]]
+''"Send off a friendly message gondola. (Replaces any already placed in the area)"''
+
+Just like the Message Boat Spell and other variants, the Message Gondola Spell is used to leave messages on water in the shape of a mini [[Days of Love]] gondola that can be opened, liked, hidden, and reported. Once placed, they remain for a total of 14 days before disappearing. This Spell is a {{Cost|2 H}} Blessing {{Icon|5CandlesSpell.png}}. 
+
+Players who view a message gondola can send the creator a heart for three candles {{Cost|C}} once they've liked the gondola. You don't have to be friends with a player to send them a heart and you can send them a heart through the gondola in addition to gifting them a regular heart every day. Players that who are gifted a heart through their Message Gondola can claim it at the [[Aviary_Village#Friendship_Constellation_Statue|Friendship Constellation Statue]] at Aviary Village or the [[Home#Return Shrine|Return Shrine]] at Home. 
+
+<gallery widths="150" hideaddbutton="true">
+Days-of-Love-Message-Gondola.png|Message Gondolas
+</gallery><section end="Message Gondolas" />
+{{clear}}
+
+===Shared Memory Spell===
+[[File:Shared-memory-spell-Morybel-0146.png|alt=|left|frameless|130x130px]]''"Record a memory to share with others."''
+
+The Shared Memory Spell is used to record an avatar's movement for a brief period of time. Then, once the recording is finished, a special [[Shared Memories Candles|crystal]] appears in the world representing this memory, and remains for a total of 14 days before disappearing. Friends and other players who find it can tap on it to replay this visual message.
+
+A recording can be as simple as waving hello to leave a greeting for a friend who's offline, or be an excerpt of a favorite tune played to encourage fellow travelers, or perhaps something else entirely different. Players can use this Spell to capture new moments of delight and imagination.
+
+Please note that specific [[Emotes]] used by the player recording may sound different from normal while viewing the Shared Memory.
+{{clear}}
+===Shared Space Spell===
+[[File:Shared Space Spell Icon.png|alt=|left|frameless|130x130px]]''"Create a space to share with others."''
+
+Shared Space Spells are a type of Spell that allow players to build a [[Shared Spaces|Shared Space]] almost anywhere in Sky. Once a space is ready, a special [[Shared Spaces#Shared Space Spells|lantern]] appears in the world representing this space, and remains for a total of 14 days before disappearing.
+
+{{clear}}
+===Pinwheel Spell===
+[[File:Pinwheel-Spell-Morybel-0146.png|alt=|left|frameless|130x130px]]''"Place a colorful pinwheel that spins in the breeze."''
+
+The Pinwheel Spell can be used to place a small Pinwheel Prop in an area. The windier the spot you place it, the faster the Pinwheel will spin! The Pinwheel Spell, introduced for [[Special_Events#Children's_Day_-_May_2021|Children's Day]] in 2021, preceded the permanent Pinwheel Prop offered by the [[Sparkler Parent]] Spirit.
+
+When using a Pinwheel Spell, tap the pinwheel icon that appears to place a Pinwheel in the direction your camera is facing, or press and hold the icon and drag the Pinwheel to your desired location. You can continue to place and move your Pinwheel until you tap elsewhere on the screen or move to a new area, or until you are inactive for more than two minutes. The Pinwheel you place will disappear once you exit the game or move to another area.
+{{clear}}
+===Swing Spell===
+[[File:{{Icon Name|Love Swing|Spell}}|alt=|frameless|130x130px|left]]''"Make you and your friends carry this item for the next 30 mins."''
+
+The Swing Spell, introduced during [[Days of Love]] 2020, allows you to carry and place a Swing set. Like the [[#Chat Table Spell|Chat Table Spell]] and the [[#Bonfire Spell|Bonfire Spell]], the Swing Spell allows players to [[Chat|communicate]] with others, though the seating is limited to two players at a time. When sitting on the Swing with another player, small hearts will begin to appear after a short while, growing in intensity over time.
+
+Because the Swing Spell is a Prop Spell, it will replace anything you are carrying on your back with the Swing Prop for the Spell's duration. While the Spell is active, the Swing can be placed using the Prop's icon in the [[Expression Menu]]. If you place a Swing, it will remain until you leave the area or use another prop or Prop Spell, even if the Spell has ended.
+{{clear}}
+===Seesaw Spell===
+[[File:{{Icon Name|Love Seesaw|Spell}}|alt=|frameless|130x130px|left]]''"Make you and your friends carry this item for the next 30 mins."''
+
+The Seesaw Spell, originally introduced during [[Days of Love]] 2021, allows you to carry and place a Seesaw. Like the Swing Spell, it seats two players and allows them to [[Chat|talk]]. When two people are sitting on the Seesaw, it will move up and down.
+
+Like the Swing Spell, the Seesaw Spell is a Prop Spell, which means that it will replace anything you are carrying on your back with the Seesaw Prop for the Spell's duration. While the Spell is active, the Seesaw can be placed using the Prop's icon in the [[Expression Menu]]. If you place a Seesaw, it will remain until you leave the area or use another prop or Prop Spell, even if the Spell has ended.
+{{clear}}
+===Gondola Spell ===
+[[File:{{Icon Name|Love Gondola|Spell}}|alt=|frameless|130x130px|left]]''"Make you and your friends carry this item for the next 30 mins."''
+
+The Gondola Spell, originally introduced with the {{v|0.16.0}} Patch for [[Days of Love]] 2022, allows you to carry and place a small Gondola boat in the water. Like the Swing and Seesaw Spells, it seats two players and allows them to [[Chat|talk]]. The Gondola will move around so long as at least one player is sitting in it, and it will move faster with two players.
+
+Like the Swing and Seesaw Spells, the Gondola Spell is a Prop Spell, which means that it will replace anything you are carrying on your back with the Gondola Prop for the Spell's duration. While the Spell is active, the Gondola can be placed using the Prop's icon in the [[Expression Menu]]. If you place a Gondola, it will remain until you leave the area or use another prop or Prop Spell, even if the Spell has ended.
+{{clear}}
+===Rainbow Spell ===
+[[File:Spell - Days of rainbow spell.png|alt=|left|frameless|130x130px]]''"Place a magic rainbow in the world."''
+
+The Rainbow Spell was introduced during [[Days of Rainbow]] in 2020, where players would find Rainbows scattered in the Realms over a few days. These can be used to place down a rainbow in any location, giving players a beautiful view. 
+
+When using a Rainbow Spell, tap the rainbow icon that appears to place a Rainbow in the direction your camera is facing, or press and hold the icon and drag the Rainbow to your desired location. You can continue to place and move your Rainbow until you tap elsewhere on the screen or move to a new area, or until you are inactive for more than two minutes. The Rainbow you place will disappear once you exit the game or move to another area. If you place the Rainbow so that it is horizontal, you will be able to stand on it.
+{{clear}}
+=== Lantern Spell===
+[[File:{{Icon Name|Lazy Days Lantern|Spell}}|alt=|frameless|130x130px|left]]''"Make you and your friends carry this item for the next 30 mins."''
+
+The Lantern Spell summons a handheld lantern which can light up dark places. This is basically a limited-use version of the Lantern Prop introduced during the [[Days of Summer Lights]] event.
+
+Like the Swing Spell, the Lantern Spell is a Prop Spell, which means that it will replace anything you are carrying on your back with the Lantern for the Spell's duration. Unlike the Swing, however, the Lantern is carried in your hands. While the Spell is active, you can pull out and put away your Lantern using the icon in the [[Expression Menu]]. While your Lantern is out, you can switch lighting modes using the lantern icon on the screen.
+{{clear}}
+===Shrink Spell===
+[[File:Shrink Spell.png|alt=|frameless|130x130px|left]]''"Shrink into a baby for the next 20 mins."''
+
+The Shrink Spell is a limited imitation of the {{Spirit Item|Hide'n'Seek Pioneer|mask|inline_text|label=Chibi mask}} (obtainable from the {{Spirit|Hide'n'Seek Pioneer|inline_text}}). Using a Shrink Spell allows the player to become Chibi-sized for a total of '''20 minutes''': your body shrinks to make you both tinier and more baby-like in appearance. This is the only way to wear other Masks while Chibi-sized. The Shrink Spell will have no effect if you are already wearing the Chibi Mask.
+
+Shrink Spells are one of the two "Height Alteration" Spells available from the [[#Potion Shop|Potion Shop]] (along with the [[#Grow Spell|Grow Spell]]), and they are called Height Alteration Spells when you receive them from Spirits. Shrink Spells are easily confused with [[#Tiny Spell|Tiny Spells]], where Tiny Spells do not change your body proportions. This Spell is a {{Cost|1 C}} Blessing {{Icon|1CandleSpell.png}}. 
+
+For more information on player characters' height, see [[Sky Children#Size]].
+{{clear}}
+===Grow Spell===
+[[File:Grow-Spell-Morybel-0146.png|alt=|left|frameless|130x130px]]''"Grow into an adult for the next 20 mins."''
+
+The Grow Spell allows players to become a little bit taller than the maximum height achievable with a [[#Resize Potion|Resize Potion]]. However, the effects wear off after 20 minutes. 
+
+The Grow Spell and the Shrink Spell are the two Height Alteration Spells in the Spell Shops.
+{{clear}}
+===Tiny Spell===
+[[File:Tiny-Spell-Morybel-0146.png|alt=|left|frameless|130x130px]]''"Makes you tiny for the next 20 mins."''
+
+The Tiny Spell scales your character smaller in size (it does not change your proportion like the [[#Shrink Spell|Shrink Spell]] or {{Spirit Item|Hide'n'Seek Pioneer|mask|inline_text|label=Chibi Mask}}) and can allow players to become even smaller than Chibis for 20 minutes. If combined with the Chibi Mask, this makes one truly tiny. 
+
+The Tiny Spell is called a Size Alteration Spell in the Spell Shops.
+
+For more information on player characters' size, see [[Sky Children#Size]].
+{{clear}}
+=== Huge Spell===
+[[File:Huge-Spell-Morybel-0146.png|alt=|left|frameless|130x130px]]''"Makes you huge for the next 20 mins."''
+
+The Huge Spell in turn scales your character larger, and can allow you to be even taller than the maximum height achievable with [[#Resize Potion|Resize Potions]] for 20 minutes. Thus, one could become as tall as an [[Ancestors|Ancestor Spirit]].
+
+Like the Tiny Spell, the Huge Spell is called a Size Alteration Spell in the Spell Shops.
+{{clear}}
+===Do Not Disturb Spell===
+[[File:Do-not-disturb-icon-in-inventory.png|alt=|left|frameless|130x130px]]''"Warn friends before they teleport to you, and other players will see a Do Not Disturb icon above your head."''
+
+A Do Not Disturb Spell was introduced to the game on April 13, 2023 with Patch {{v|0.21.0}}. One Spell per week is available for free and after that, a set number of single Spells or a Spell “bundle” each month can be obtained from the Spell Shop in exchange for regular Candles.
+
+When the Spell is active, if a friend tries to teleport to a player through the Friendship Constellations, a dialog box will appear to let them know that the player has used this Spell and would prefer to play alone. The friend can then choose whether or not to continue teleporting to the player. When standing near a player using the Do Not Disturb spell, the Spell's icon appears above their head.
+<gallery widths="185" hideaddbutton="true">
+File:Do-not-disturb-constellation-message.png|Do Not Disturb dialog box in Constellation
+File:Do-not-disturb-icon-on-player.png|Do Not Disturb icon above a players head
+</gallery>
+{{clear}}
+=== Skyball Set Spell===
+[[File:Days-of-Feast-SkyBall-Set-Spell-Morybel-0146.png|alt=|left|frameless|130x130px]]''"Place a Skyball set to play with your friends."''
+
+The Skyball Set Spell is temporary version of the permanent Skyball Set found in the [[Village of Dreams]] and was introduced during the [[Days_of_Feast#Skyball_Set_Spell|Days of Feast]] event in 2022. Players using this Spell can place a game of Skyball anywhere to play with friends or strangers alike.
+{{clear}}
+===Dark Dragon Repellent Spell===
+[[File:Days of Mischief - Dark Dragon Repellant spell.png|alt=|frameless|130x130px|left]]''"Repel Dark Dragon for the next 1 mins."''
+
+Originally introduced during [[Days of Mischief]] 2021, the Dark Dragon Repellent Spell prevents [[Krill|Dark Dragons]] from knocking away your [[Winged Light]] for one minute. Outside of Days of Mischief, Dark Dragon Repellent Spells may be obtained at random through some [[Special Events|Special Event]] NPCs or through Spell nodes in the Spirit Trees of current [[Seasonal Spirits]].
+{{clear}}
+
+===Ball Spell===
+[[File:Ball-Spell-Morybel-0146.png|left|frameless|130x130px]]''"Kick it around and have a good time!"''
+
+The Ball Spell, initially introduced during [[Days of Summer]] 2021, allows you to place a large ball, which moves whenever you or another player run into it. Be careful, as the Ball can be easily kicked out of bounds. Unlike the other Spells in this section, this Spell is not generally available outside of [[Special Events]], and it can only be obtained through Spell Shops. However, it has been made available throughout different Events, and the Ball's appearance changes depending on the time of year.
+{{clear}}
+===Trail Spells===
+[[File:Rainbow-flight-trail-spell.png|alt=|left|frameless|130x130px]]''"Gives you colorful flying trails for the next ... mins."''
+
+Originally introduced during [[Days of Color]] 2021, these Trail Spells replace your usual white flying trails with different colored trails. Outside of Days of Color, Trail Spells may be obtained at random through some [[Special Events|Special Event]] NPCs or through Spell nodes in the Spirit Trees of current [[Seasonal Spirits]].
+
+There are 16 different Trail Spells, including the Rainbow Trail Spell and PlayStation® Exclusive Trail Spells. The green, orange, dark blue, yellow, red, and purple Trail Spells have a 60-minute (1-hour) duration. The pink, magenta, teal, cyan, and black Trail Spells have a 120-minute (2-hour) duration. The Rainbow Trail Spell is the only Trail Spell that lasts for 180 minutes (3 hours).<br>
+<br>
+<gallery spacing="small" widths="60" bordercolor="transparent" hideaddbutton="true">
+File:Days of Rainbow - Green Trail spell.png|Green<br>(1-hour)
+File:Orange-flight-trail-spell.png|Orange<br>(1-hour)
+File:Blue-flight-trail-spell.png|Dark Blue<br>(1-hour)
+File:Days of Rainbow - Yellow Trail spell.png|Yellow<br>(1-hour)
+File:Days of Rainbow - Red-Trail spell.png|Red<br>(1-hour)
+File:Days of Rainbow - Purple Trail spell.png|Purple<br>(1-hour)
+File:Days of Rainbow - Pink Trail spell.png|Pink<br>(2-hour)
+File:Magenta-flight-trail-spell.png|Magenta<br>(2-hour)
+File:Teal-flight-trail-spell.png|Teal<br>(2-hour)
+File:Cyan-flight-trail-spell.png|Cyan<br>(2-hour)
+File:Days of Rainbow - black Trail spell.png|Black<br>(2-hour)
+File:Rainbow-flight-trail-spell.png|Rainbow<br>(3 hours)
+</gallery>
+
+====PlayStation Plus Pack Spells====
+<gallery spacing="small" widths="60" bordercolor="transparent" hideaddbutton="true">
+File:PS-Blue-flight-trail-spell.png|PS Blue
+File:PS-Green-flight-trail-spell.png|PS Green
+File:PS-Orange-flight-trail-spell.png|PS Orange
+File:PS-Pink-flight-trail-spell.png|PS Pink
+</gallery>
+
+===Hair Tint Spells===
+[[File:Red-Hair-Tint-Spell.png|alt=|left|frameless|130x130px|link=Days of Color#Hair Tint Spells|class=animate-rainbow]]''"Gives you colorful hair for the next 60 mins."''
+
+Originally introduced during [[Days of Color]] 2024, these Hair Tint Spells tint the player's [[Hair]] with different colored dyes. This effect is applied to all parts of a Hair, including things such as hats, hairbands, accessories, and existing streaks of color. There are a total of 12 different Hair Tint Spells, including the Rainbow Hair Tint Spell. Unlike [[#Trail Spells|Trail Spells]], all versions of the Hair Tint Spell have the same 60-minute (1 hour) duration.<br>
+<br>
+<div class="animate-rainbow" style="float: left;"><gallery spacing="small" widths="60" captionalign="center">
+Red-Hair-Tint-Spell.png|Rainbow
+</gallery></div>
+<gallery spacing="small" widths="60" captionalign="center">
+Red-Hair-Tint-Spell.png|Red
+Orange-Hair-Tint-Spell.png|Orange
+Yellow-Hair-Tint-Spell.png|Yellow
+Light-Green-Hair-Tint-Spell.png|Light Green
+Green-Hair-Tint-Spell.png|Green
+Teal-Hair-Tint-Spell.png|Cyan
+Blue-Hair-Tint-Spell.png|Blue
+Purple-Hair-Tint-Spell.png|Purple
+Magenta-Hair-Tint-Spell.png|Magenta
+Pink-Hair-Tint-Spell.png|Pink
+Black-Hair-Tint-Spell.png|Black
+</gallery>
+
+===Rainbow Glow Spell===
+{{Distinguish|Rainbow Spell}}
+[[File:Spell - Days of rainbow spell.png|left|frameless|130x130px]]''"Colorful glow for the next 30 mins."''
+
+Originally introduced during [[Days of Color]] 2024, the Rainbow Glow Spell is a multicolored version of the [[#Glow Spell|Glow Spell]] that gives the player a vibrant, shifting rainbow glow. Although this Spell first appeared as a collectible during Days of Color 2024, the same rainbow glow effect was initially seen during the event in [[Days of Color#2023|2023]], where it automatically applied to players after they completed the rainbow puzzle and ascended to the islands above the [[Eight-Player Puzzle Area]].
+{{Clear}}
+
+==Special Event Spells==
+Special Event Blessings/Spells can be acquired when [[Special Events]] are held. Generally, these Spells are limited-time versions of [[cosmetics]] that are available to buy for real money through the [[Premium Candle Shop]] or for in-game [[Currency|Currencies]] from Special Event NPCs. Most of these Spells last for 30 minutes and can be shared with the friends that you hold hands with. Visit their respective "[[Special Events|Days of ...]] " page to get more information.
+
+{| class="article-table mw-collapsible mw-collapsed"
+|+ style="white-space:nowrap" colspan="7" text-align:center; |Blessings/Spells from Special Events
+|-
+!'''Name'''
+!'''Icon'''
+!'''Qty'''
+!'''Cost'''
+! '''Duration'''
+!'''Location'''
+!'''Event'''
+|-
+! colspan="7" style="text-align:center;" |'''Limited One-Time Run Collaboration and Event Spells'''
+|-
+|[[Season of The Little Prince#Prince Sword Outfit|Little Prince Sword Outfit]]
+|{{Icon|SOTLP-Prince-Sword-Suit-Spells.png|table|label=Little Prince Sword Outfit|link=Season of The Little Prince#Prince Sword Outfit}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>[[Sleepy Traveling Merchant's Boat]]</small>
+|<small>[[Season of The Little Prince]]</small>
+|-
+|[[Season of The Little Prince#Little Prince Scarf Cape|Little Prince Scarf Cape]] 
+|{{Icon|SOTLP-scarf-Cape-Spells.png|table|label=Little Prince Scarf Cape|link=Season of The Little Prince#Little Prince Scarf Cape}}
+|<small>x2</small>
+|<small>Free</small> 
+|<small>30 mins</small>
+|<small>[[Sleepy Traveling Merchant's Boat]]</small>
+|<small>[[Season of The Little Prince]]</small>
+|-
+|[[Season of The Little Prince#Little Prince Fox Prop|Little Prince Fox Prop]]
+|{{Icon|SOTLP-Fox-Backpack-Spells.png|table|label=Little Prince Fox Prop|link=Season of The Little Prince#Little Prince Fox Prop}} 
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>[[Sleepy Traveling Merchant's Boat]]</small>
+|<small>[[Season of The Little Prince]]</small> 
+|-
+|[[Season of The Little Prince#Little Prince Asteroid Jacket|Little Prince Asteroid Jacket]]
+|{{Icon|SOTLP-Green-Cape-Spells.png|table|label=Little Prince Asteroid Jacket|link=Season of The Little Prince#Little Prince Asteroid Jacket}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>One time use</small>
+| <small>[[Sleepy Traveling Merchant's Boat]]</small> 
+|<small>[[Season of The Little Prince]]</small>
+|-
+| [[Kizuna AI#Bow|Kizuna AI Bow]] 
+|{{Days Item|Kizuna AI Bow|Spell|table}}
+| <small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>[[Sleepy Traveling Merchant's Boat]]</small>
+|<small>[[Kizuna AI|Kizuna AI Pack]]</small>
+|-
+|[[Season of AURORA#Tiara We Can Touch|Tiara We Can Touch]]
+|{{Icon|Aurora-Tiara-We-Can-Touch-Spell-Morybel-0146.png|table|label=Tiara We Can Touch|link=Season of AURORA#Tiara We Can Touch}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>[[Sleepy Traveling Merchant's Boat]]</small><ref name=":1">During the Season of AURORA, these Spells were only available two times for a total of four Spells from the [[Sleepy Traveling Merchant's Boat]], available at the Coliseum for the occasion. The "Wings of AURORA" was not available as Spell.</ref>
+|<small>[[Season of AURORA]]</small>
+|-
+|[[Season of AURORA#Runaway Hairstyle|Runaway Hairstyle]]
+|{{Icon|Aurora-Runaway-Hair-Spell-Morybel-0146.png|table|label=Runaway Hairstyle|link=Season of AURORA#Runaway Hairstyle}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>[[Sleepy Traveling Merchant's Boat]]</small><ref name=":1" />
+|<small>[[Season of AURORA]]</small>
+|-
+| [[Season of AURORA#Runaway Outfit|Runaway Outfit]]
+|{{Icon|Aurora-Runaway-Outfit-Spell-Morybel-0146.png|table|label=Runaway Outfit|link=Season of AURORA#Runaway Outfit}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small> 
+|<small>[[Sleepy Traveling Merchant's Boat]]</small><ref name=":1" /> 
+|<small>[[Season of AURORA]]</small>
+|-
+|[[Season of AURORA#Voice of AURORA|Voice of AURORA]]
+|{{Icon|Aurora-Voice-of-Aurora-Spell-Morybel-0146-.png|table|label=Voice of AURORA|link=Season of AURORA#Voice of AURORA}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>[[Sleepy Traveling Merchant's Boat]]</small><ref name=":1" />
+|<small>[[Season of AURORA]]</small>
+|-
+|[[Season of AURORA#To The Love Outfit|To The Love Outfit]]
+|{{Icon|Aurora-To-The-Love-Outfit-Spell-Morybel-0146.png|table|label=To The Love Outfit|link=Season of AURORA#To The Love Outfit}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>[[Sleepy Traveling Merchant's Boat]]</small><ref name=":1" />
+|<small>[[Season of AURORA]]</small>
+|-
+|[[Season of AURORA#Giving In Cape|Giving In Cape]]
+|{{Icon|Aurora-Giving-In-Cape-Spell-Morybel-0146.png|table|label=Giving In Cape|link=Season of AURORA#Giving In Cape}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>[[Sleepy Traveling Merchant's Boat]]</small><ref name=":1" />
+|<small>[[Season of AURORA]]</small>
+|-
+|[[Aviary's Firework_Festival#Moth Antennae|Moth Antennae]]
+|{{Icon|Moth-headpiece-spell-icon.png|table|label=Moth Antennae|link=Aviary's Fireworks Festival#Moth Appreciation Pack}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>[[Sleepy Traveling Merchant's Boat]]</small>
+|<small>[[Aviary's Firework Festival]]</small>
+|-
+|[[Aviary's Firework Festival#Moth Cape|Moth Cape]]
+|{{Icon|Moth-Cape-spell-icon.png|table|label=Moth Cape|link=Aviary's Fireworks Festival#Moth Appreciation Pack}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>[[Sleepy Traveling Merchant's Boat]]</small>
+|<small>[[Aviary's Firework Festival]]</small>
+|-
+|[[Aviary's Firework Festival#Sparrow Mask|Sparrow Mask]]
+|{{Icon|Sparrow-Mask-spell-icon.png|table|label=Sparrow Mask|link=Aviary's Fireworks Festival#Sparrow Appreciation Pack}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>[[Sleepy Traveling Merchant's Boat]]</small>
+|<small>[[Aviary's Firework Festival]]</small>
+|-
+|[[Aviary's Firework Festival#Sparrow Cape|Sparrow Cape]]
+|{{Icon|Sparrow-Cape-spell-icon.png|table|label=Sparrow Cape|link=Aviary's Fireworks Festival#Sparrow Appreciation Pack}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>[[Sleepy Traveling Merchant's Boat]]</small>
+|<small>[[Aviary's Firework Festival]]</small>
+|-
+|[[Aviary's Firework Festival#Festival Scepter|Festival Scepter]]
+|{{Icon|Festival-Scepter-prop-spell-icon.png|table|label=Festival Scepter|link=Aviary's Fireworks Festival#Festival Scepter}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>[[Sleepy Traveling Merchant's Boat]]</small>
+|<small>[[Aviary's Firework Festival]]</small>
+|-
+|[[Aviary's Firework Festival#Festival Earrings|Festival Earrings]]
+|{{Icon|Festival-Earrings-spell-icon.png|table|label=Festival Earrings|link=Aviary's Fireworks Festival#Festival Earrings}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>[[Sleepy Traveling Merchant's Boat]]</small>
+|<small>[[Aviary's Firework Festival]]</small>
+|-
+|[[Season of Moomin#Hattifattener Shoulder Buddy|Hattifattener Shoulder Buddy]]
+|{{Icon|Hattifattener-Shoulder-Buddy-Spell.png|table|label=Hattifattener Shoulder Buddy|link=Season of Moomin#Hattifattener Shoulder Buddy}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>[[Moominvalley Glade]]</small>
+|<small>[[Season of Moomin]]</small>
+|-
+|[[Season of Moomin#Moomintroll Ears|Moomintroll Ears]]
+|{{Icon|Moomintroll-Accessory-Set-Ears-Spell.png|table|label=Moomintroll Ears|link=Season of Moomin#Moomintroll Ears}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>[[Moominvalley Glade]]</small>
+|<small>[[Season of Moomin]]</small>
+|-
+|[[Season of Moomin#Moomintroll Tail|Moomintroll Tail]]
+|{{Icon|Moomintroll-Accessory-Set-Tail-Spell.png|table|label=Moomintroll Tail|link=Season of Moomin#Moomintroll Tail}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>[[Moominvalley Glade]]</small>
+|<small>[[Season of Moomin]]</small>
+|-
+|[[Season of Moomin#Roving Snufkin Robe|Roving Snufkin Robe]]
+|{{Icon|Roving-Snufkin-Robe-Spell.png|table|label=Roving Snufkin Robe|link=Season of Moomin#Roving Snufkin Robe}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>[[Moominvalley Glade]]</small>
+|<small>[[Season of Moomin]]</small>
+|-
+|[[Season of Moomin#Roving Snufkin Scarf|Roving Snufkin Scarf]]
+|{{Icon|Roving-Snufkin-Scarf-Spell.png|table|label=Roving Snufkin Scarf|link=Season of Moomin#Roving Snufkin Scarf}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>[[Moominvalley Glade]]</small>
+|<small>[[Season of Moomin]]</small>
+|-
+|[[Season of Moomin#Pointed Snufkin Hat|Pointed Snufkin Hat]]
+|{{Icon|Pointed-Snufkin-Hat-Spell.png|table|label=Pointed Snufkin Hat|link=Season of Moomin#Pointed Snufkin Hat}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>[[Moominvalley Glade]]</small>
+|<small>[[Season of Moomin]]</small>
+|-
+|[[Season of Moomin#Moominmamma's Masterpiece|Moominmamma's Masterpiece]]
+|{{Icon|Moominmammas-Masterpiece-Spell-icon.png|table|label=Moominmamma's Masterpiece|link=Season of Moomin#Moominmamma's Masterpiece}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>[[Moominvalley Glade]]</small>
+|<small>[[Season of Moomin]]</small>
+|-
+|[[Days of Feast#Wonderland_Primrose_Pinafore_Set|Wonderland Primrose Pinafore Dress]]
+|{{Icon|Wonderland-Primrose-Pinafore-Dress-spell.png|table|label=Wonderland Primrose Pinafore Dress|link=Days of Feast#Wonderland_Primrose_Pinafore_Set}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Gift Box at the [[Wonderland Cafe]] OR Snowman at the [[Secret Area]] rooftop</small>
+|<small>[[Days of Feast]]</small>
+|-
+|[[Days of Feast#Wonderland_Primrose_Pinafore_Set|Wonderland Primrose Pinafore Bow]]
+|{{Icon|Wonderland-Primrose-Pinafore-bow-spell.png|table|label=Wonderland Primrose Pinafore Bow |link=Days of Feast#Wonderland_Primrose_Pinafore_Set}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Gift Box at the [[Wonderland Cafe]] OR Snowman at the [[Secret Area]] rooftop</small>
+|<small>[[Days of Feast]]</small>
+|-
+|[[Days of Feast#Wonderland_Cafe_Corridor|Wonderland Cafe Corridor]]
+|{{Icon|Wonderland-Cafe-Corridor-spell.png|table|label=Wonderland Cafe Corridor |link=Days of Feast#Wonderland_Cafe_Corridor}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Gift Box at the [[Wonderland Cafe]] OR Snowman at the [[Secret Area]] rooftop</small>
+|<small>[[Days of Feast]]</small>
+|-
+|[[Days of Feast#Wonderland_Teacup_Bath|Wonderland Teacup Bath]]
+|{{Icon|Wonderland-Teacup-Bath-Prop-spell.png|table|label=Wonderland Teacup Bath |link=Days of Feast#Wonderland_Teacup_Bath}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Gift Box at the [[Wonderland Cafe]] OR Snowman at the [[Secret Area]] rooftop</small>
+|<small>[[Days of Feast]]</small>
+|-
+|[[Days of Feast#Wonderland_Stacked_Hat|Wonderland Stacked Hat]]
+|{{Icon|Wonderland-Stacked-Hat-spell.png|table|label=Wonderland Stacked Hat |link=Days of Feast#Wonderland Stacked Hat}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Gift Box at the [[Wonderland Cafe]] OR Snowman at the [[Secret Area]] rooftop</small>
+|<small>[[Days of Feast]]</small>
+|-
+|[[Days of Feast#Wonderland_Frantic_Hair|Wonderland Frantic Hair]]
+|{{Icon|Wonderland-Frantic-Hair-spell.png|table|label=Wonderland Frantic Hair |link=Days of Feast#Wonderland Frantic Hair}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Gift Box at the [[Wonderland Cafe]] OR Snowman at the [[Secret Area]] rooftop</small>
+|<small>[[Days of Feast]]</small>
+|-
+|[[Days of Feast#Wonderland_Hare_Hairstyle|Wonderland Hare Hairstyle]]
+|{{Days Item|Wonderland Hare Hairstyle|Spell|table}}
+| <small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Gift Box at the [[Wonderland Cafe]] OR Snowman at the [[Secret Area]] rooftop</small>
+|<small>[[Days of Feast]]</small>
+|-
+! colspan="7" style="text-align:center;" |'''[[Outfit]] Spells'''
+|-
+|[[Days of Fortune#Days of Fortune Muralist's Smock|Days of Fortune Muralist's Smock]]
+|{{Days Item|Smock|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mini Spell Shop next to Prophecy Guide at [[Ice Rink]]</small>
+|<small>[[Days of Fortune]]</small>
+|-
+|[[Days of Fortune#Days of Fortune Dragon Vestment|Days of Fortune Dragon Vestment]]
+|{{Days Item|Days of Fortune Dragon Vestment|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mini Spell Shop next to Prophecy Guide at [[Ice Rink]]</small>
+|<small>[[Days of Fortune]]</small>
+|-
+|[[Days of Fortune#Fortune Snake Outfit|Days of Fortune Snake Outfit]]
+|{{Days Item|Days of Fortune Snake Pants|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mini Spell Shop next to Prophecy Guide at [[Ice Rink]]</small>
+|<small>[[Days of Fortune]]</small>
+|-
+|[[Days of Treasure#Treasure Seeker's Bounty|Treasure Seeker's Bounty outfit]]
+|{{Days Item|Treasure Seeker's Bounty outfit|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mini Spell Shop next to the Treasure Map at the daily location</small>
+|<small>[[Days of Treasure]]</small>
+|-
+|[[Days of Bloom#Bloom Gardening Tunic|Bloom Gardening Tunic]]
+|{{Days Item|Bloom Gardening Tunic|Spell|table}}
+| <small>x3</small>
+|<small>Free</small> 
+|<small>30 mins</small>
+|<small>Mini Spell Shop next to Bloom Guide at [[Starlight Desert]]</small>
+|<small>[[Days of Bloom]]</small>
+|-
+|[[Days of Nature#Ocean Waves Outfit|Ocean Waves Outfit]]
+|{{Days Item|Ocean Waves Outfit|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Nature Gift Box at [[Sanctuary Islands]]</small>
+|<small>[[Days of Nature]]</small> 
+|-
+|[[Days of Rainbow#Rainbow Trousers|Rainbow Trousers]]
+|{{Days Item|Rainbow Trousers|Spell|table}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Gift Box next to the Event Guide in [[Daylight_Prairie#Eight_Player_Puzzle|Prairie]]</small>
+| <small>[[Days of Color]]</small>
+|-
+|[[Days of Rainbow#Dark Rainbow Tunic|Dark Rainbow Tunic]]
+|{{Days Item|Dark Rainbow Tunic|Spell|table}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>[[Sleepy Traveling Merchant's Boat]]</small>
+|<small>[[Days of Color]]</small>
+|-
+|[[Sky Anniversary#SkyFest 5th Anniversary T-shirt|SkyFest 5th Anniversary T-shirt]]
+|{{Days Item|SkyFest 5th Anniversary T-shirt|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Anniversary Gift Box at the [[Secret Area]]</small>
+|<small>[[Sky Anniversary]]</small>
+|-
+|[[Tournament of Triumph#Tournament Tunic|Tournament Tunic]]
+|{{Days Item|Tournament Tunic|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Tournament Gift Box at [[Home]], [[Aviary]], OR the [[Coliseum]]</small>
+|<small>[[Tournament of Triumph]]</small>
+|-
+|[[Days of Sunlight#Sunlight Beach Shorts|Sunlight Beach Shorts]]
+|{{Days Item|Sunlight Beach Shorts|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Sunlight Gift Box at [[Home]], [[Aviary]], OR the [[Elevated Clearing]]</small>
+|<small>[[Days of Sunlight]]</small>
+|-
+|[[Days of Moonlight#Moonlight Frock and Updo|Moonlight Frock]]
+|{{Days Item|Moonlight Frock|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Moonlight Gift Box at [[Home]], [[Aviary]], OR the [[Crescent Oasis#Hidden Glade|Hidden Glade]]</small>
+|<small>[[Days of Moonlight]]</small>
+|-
+|[[Days of Style#Style Wide-Leg Jeans|Style Wide-Leg Jeans]]
+|{{Days Item|Style Wide-Leg Jeans|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Style Gift Box at [[Aviary]]</small>
+|<small>[[Days of Style]]</small>
+|-
+|[[Days of Style#Style Dapper Suit|Style Dapper Suit]]
+|{{Days Item|Style Dapper Suit|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Style Gift Box at [[Aviary]]</small>
+|<small>[[Days of Style]]</small>
+|-
+|[[Days of Style#Style Dazzling Dress|Style Dazzling Dress]]
+|{{Days Item|Style Dazzling Dress|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Style Gift Box at [[Aviary]]</small>
+|<small>[[Days of Style]]</small>
+|-
+|[[Days of Mischief#Mischief Witch Jumper|Mischief Witch Jumper]]
+|{{Days Item|Mischief Witch Jumper|Spell|table}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>[[The Cackling Crab|From Samantha in the Cackling Crab]]</small>
+|<small>[[Days of Mischief]]</small>
+|-
+|[[Days of Mischief#Mischief Goth Garment|Mischief Goth Garment]]
+|{{Days Item|Mischief Goth Garment|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mischief Gift Box at [[Aviary]]</small>
+|<small>[[Days of Mischief]]</small>
+|-
+|[[Days of Music#Marching Band Outfit|Marching Band Outfit]]
+|{{Days Item|Marching Band Outfit|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Music Gift Box at [[Aviary]] OR front counter in [[Harmony Hall]]</small>
+|<small>[[Days of Music]]</small>
+|-
+! colspan="7" style="text-align:center;" |'''[[Shoes]] Spells'''
+|-
+|[[Days of Color#Dark Rainbow Loafers|Dark Rainbow Loafers]]
+|{{Days Item|Dark Rainbow Loafers|Spell|table}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Color Gift Box at [[Aviary]] OR the [[Eight-Player Puzzle Area]]</small>
+|<small>[[Days of Color]]</small>
+|-
+|[[Days of Sunlight#Sunlight Chunky Sandals|Sunlight Chunky Sandals]]
+|{{Days Item|Sunlight Chunky Sandals|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Sunlight Gift Box at [[Home]], [[Aviary]], OR [[Elevated Clearing]]</small>
+|<small>[[Days of Sunlight]]</small>
+|-
+|[[Days of Style#Style Silk Ballet Slippers|Style Silk Ballet Slippers]]
+|{{Days Item|Style Silk Ballet Slippers|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Style Gift Box at [[Aviary]]</small>
+|<small>[[Days of Style]]</small>
+|-
+|[[Days of Style#Style Bunny Slippers|Style Bunny Slippers]]
+|{{Days Item|Style Bunny Slippers|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Style Gift Box at [[Aviary]]</small>
+|<small>[[Days of Style]]</small>
+|-
+|[[Days of Mischief#Mischief Witch Jumper Shoes|Mischief Witch Jumper Shoes]]
+|{{Days Item|Mischief Witch Jumper Shoes|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mischief Gift Box at [[Aviary]]</small>
+|<small>[[Days of Mischief]]</small>
+|-
+|[[Days of Mischief#Mischief Goth Boots|Mischief Goth Boots]]
+|{{Days Item|Mischief Goth Boots|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mischief Gift Box at [[Aviary]]</small>
+|<small>[[Days of Mischief]]</small>
+|-
+|[[Days of Feast#Cozy Hermit Boots|Cozy Hermit Boots]]
+|{{Days Item|Cozy Hermit Boots|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Gift Box at the [[Wonderland Cafe]] OR Snowman at the [[Secret Area]] rooftop</small>
+|<small>[[Days of Feast]]</small>
+|-
+|[[Days of Treasure#Treasure Cavalier Boots|Treasure Cavalier Boots]]
+|{{Days Item|Treasure Cavalier Boots|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mini Spell Shop next to the Treasure Map at the daily location</small>
+|<small>[[Days of Treasure]]</small>
+|-
+|[[Days of Nature#Ocean Sea Foam Boots|Ocean Sea Foam Boots]]
+|{{Days Item|Ocean Sea Foam Boots|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Nature Gift Box at [[Sanctuary Islands]]</small>
+|<small>[[Days of Nature]]</small> 
+|-
+! colspan="7" style="text-align:center;" |'''[[Mask]] Spells'''
+|-
+|[[Days of Fortune#Days of Fortune Blushing Mask|Days of Fortune Blushing Mask]]
+| {{Days Item|Days of Fortune Blushing Mask|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mini Spell Shop next to Prophecy Guide at [[Ice Rink]]</small>
+|<small>[[Days of Fortune]]</small>
+|-
+|[[Days of Fortune#Days of Fortune Bull Mask|Days of Fortune Bull Mask]]
+|{{Days Item|Days of Fortune Bull Mask|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mini Spell Shop next to Prophecy Guide at [[Ice Rink]]</small>
+|<small>[[Days of Fortune]]</small>
+|-
+|[[Days of Fortune#Days of Fortune Tiger Mask|Days of Fortune Tiger Mask]]
+|{{Days Item|Days of Fortune Tiger Mask|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+| <small>Mini Spell Shop next to Prophecy Guide at [[Ice Rink]]</small>
+|<small>[[Days of Fortune]]</small>
+|-
+|[[Days of Fortune#Days of Fortune Rabbit Mask|Days of Fortune Rabbit Mask]]
+|{{Days Item|Days of Fortune Rabbit Mask|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+| <small>Mini Spell Shop next to Prophecy Guide at [[Ice Rink]]</small>
+|<small>[[Days of Fortune]]</small>
+|-
+|[[Days of Fortune#Days of Fortune Dragon Mask|Days of Fortune Dragon Mask]]
+|{{Days Item|Days of Fortune Dragon Mask|Spell|table}}
+|<small>x3</small>
+|<small>Free</small> 
+|<small>30 mins</small>
+|<small>Mini Spell Shop next to Prophecy Guide at [[Ice Rink]]</small>
+|<small>[[Days of Fortune]]</small>
+|-
+|[[Days of Fortune#Fortune Snake Mask|Fortune Snake Mask]]
+|{{Days Item|Fortune Snake Mask|Spell|table}}
+|<small>x3</small>
+|<small>Free</small> 
+|<small>30 mins</small>
+|<small>Mini Spell Shop next to Prophecy Guide at [[Ice Rink]]</small>
+|<small>[[Days of Fortune]]</small>
+|-
+|[[Days of Love#Days of Love Mask|Days of Love Mask]]
+|{{Days Item|Days of Love Mask|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mini Spell Shop in [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]]</small>
+|<small>[[Days of Love]]</small>
+|-
+|[[Days of Treasure#Treasure Seeker's Bounty|Treasure Seeker's Bounty Mask]]
+|{{Days Item|Treasure Seeker's Bounty Mask|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mini Spell Shop next to the Treasure Map at the daily location</small>
+|<small>[[Days of Treasure]]</small>
+|-
+|[[Days of Bloom#Bloom Rose Petal Mask|Bloom Rose Petal Mask]]
+|{{Days Item|Bloom Rose Petal Mask|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mini Spell Shop next to Bloom Guide at [[Starlight Desert]]</small>
+|<small>[[Days of Bloom]]</small>
+|-
+|[[Days of Nature#Ocean Mask|Ocean Mask]]
+|{{Days Item|Ocean Mask|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Nature Gift Box at [[Sanctuary Islands]]</small>
+|<small>[[Days of Nature]]</small> 
+|-
+|[[Days of Nature#Ocean Wave Mask|Ocean Wave Mask]]
+|{{Days Item|Ocean Wave Mask|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Nature Gift Box at [[Sanctuary Islands]]</small>
+|<small>[[Days of Nature]]</small> 
+|-
+|[[Days of Color#Dark Rainbow Mask|Dark Rainbow Mask]]
+|{{Days Item|Dark Rainbow Mask|Spell|table}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Color Gift Box at [[Aviary]] OR the [[Eight-Player Puzzle Area]]</small>
+|<small>[[Days of Color]]</small> 
+|-
+|[[Days of Style#Style Runway Makeup Mask|Style Runway Makeup Mask]]
+|{{Days Item|Style Runway Makeup Mask|Spell|table}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>[[Sleepy Traveling Merchant's Boat]]</small>
+|<small>[[Days of Style]]</small> 
+|-
+|[[Days of Mischief#Cat Mask|Days of Mischief Cat Mask]]
+|{{Days Item|Cat Mask|Spell|table}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small> 
+| <small>[[Sleepy Traveling Merchant's Boat]]</small>
+|<small>[[Days of Mischief]]</small>
+|-
+|[[Days of Mischief#Mischief Crabula Mask|Mischief Crabula Mask]]
+|{{Days Item|Mischief Crabula Mask|Spell|table}} 
+| <small>x2</small>
+|<small>Free</small>
+| <small>30 mins</small>
+| <small>[[Sleepy Traveling Merchant's Boat]]</small>
+|<small>[[Days of Mischief]]</small>
+|-
+! colspan="7" style="text-align:center;" |'''[[Face Accessories]] Spells'''
+|-
+|[[Days of Nature#Nature Glasses|Days of Nature Glasses]] 
+|{{Days Item|Nature Glasses|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Nature Gift Box at [[Sanctuary Islands]]</small>
+|<small>[[Days of Nature]]</small> 
+|-
+|[[Days of Style#Style Heart Sunglasses|Style Heart Sunglasses]]
+|{{Days Item|Style Heart Sunglasses|Spell|table}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Style Gift Box at [[Aviary]]</small>
+|<small>[[Days of Style]]</small>
+|-
+|[[Days of Style#Style Flame Sunglasses|Style Flame Sunglasses]]
+|{{Days Item|Style Flame Sunglasses|Spell|table}}
+|<small>x2</small>
+|<small>Free</small> 
+| <small>30 mins</small>
+|<small>Style Gift Box at [[Aviary]]</small>
+|<small>[[Days of Style]]</small>
+|-
+|[[Days of Style#Style Star Sunglasses|Style Star Sunglasses]]
+|{{Days Item|Style Star Sunglasses|Spell|table}}
+| <small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Style Gift Box at [[Aviary]]</small>
+|<small>[[Days of Style]]</small>
+|-
+|[[Days of Style#Style Dapper Monocle|Style Dapper Monocle]]
+|{{Days Item|Style Dapper Monocle|Spell|table}}
+| <small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Style Gift Box at [[Aviary]]</small>
+|<small>[[Days of Style]]</small>
+|-
+|[[Days of Mischief#Mischief Star Sticker|Mischief Star Sticker]]
+|{{Days Item|Mischief Star Sticker|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mischief Gift Box at [[Aviary]]</small>
+|<small>[[Days of Mischief]]</small>
+|-
+|[[Days of Feast#Feast Goggles|Feast Goggles]]
+|{{Days Item|Feast Goggles|Spell|table}}
+| <small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>[[Sleepy Traveling Merchant's Boat]]</small>
+|<small>[[Days of Feast]]</small>
+|-
+! colspan="7" style="text-align:center;" |'''[[Neck Accessory]] Spells'''
+|-
+|[[Days of Love#Days of Love Classy Cravat|Days of Love Classy Cravat]]
+|{{Days Item|Days of Love Classy Cravat|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mini Spell Shop in [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]]</small>
+|<small>[[Days of Love]]</small>
+|-
+|[[Days of Nature#Ocean Necklace|Ocean Necklace]]
+|{{Days Item|Ocean Necklace|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Nature Gift Box at [[Sanctuary Islands]]</small>
+|<small>[[Days of Nature]]</small> 
+|-
+|[[Days of Nature#Nature Turtle Accessory|Nature Turtle Accessory]]
+|{{Days Item|Nature Turtle Accessory|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Nature Gift Box at [[Sanctuary Islands]]</small>
+|<small>[[Days of Nature]]</small> 
+|-
+|[[Days of Nature#Ocean Blue Scarf|Ocean Blue Scarf]]
+|{{Days Item|Ocean Blue Scarf|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Nature Gift Box at [[Sanctuary Islands]]</small>
+|<small>[[Days of Nature]]</small> 
+|-
+|[[Sky Anniversary#Confetti Collar Spell|Confetti Collar Spell]]
+|{{Icon|Sky-Anniversary-Confetti-Collar-Spell-credit-Morybel.png|table|label=Confetti Collar Spell|in_page=1}}
+|<small>x2</small>
+|<small>{{Cost|4 C}}</small>
+|<small>30 mins</small>
+|<small>Spell Shop at [[Secret Area]] rooftop</small> <ref name="Only Spell">This item can only be acquired as a Spell - no [[Cosmetics|cosmetic]] equivalent exists for this Spell.</ref>
+|<small>[[Sky Anniversary]]</small>
+|-
+|[[Days of Sunlight#Jelly Shoulder Buddy|Jelly Shoulder Buddy]]
+|{{Days Item|Jelly Shoulder Buddy|Spell|table}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>By the tent located in a small cave in [[Elevated Clearing]]</small>
+| <small>[[Days of Sunlight]]</small>
+|-
+|[[Days of Style#Style Dapper Necktie|Style Dapper Necktie]]
+|{{Days Item|Style Dapper Necktie|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Style Gift Box at [[Aviary]]</small>
+| <small>[[Days of Style]]</small>
+|-
+|[[Days of Feast#Feast Necktie|Feast Necktie]]
+|{{Days Item|Feast Necktie|Spell|table}}
+|<small>x2</small>
+|<small>Free</small> 
+|<small>30 mins</small>
+|<small>Snowman at the [[Secret Area]] rooftop</small>
+| <small>[[Days of Feast]]</small>
+|-
+|[[Days of Feast#Winter Feast Scarf|Winter Feast Scarf]]
+|{{Days Item|Winter Feast Scarf|Spell|table}}
+|<small>x2</small>
+| <small>Free</small>
+|<small>30 mins</small>
+|<small>Snowman at the [[Secret Area]] rooftop</small> 
+|<small>[[Days of Feast]]</small>
+|-
+! colspan="7" style="text-align:center;" |'''[[Hair]] Spells'''
+|-
+|[[Days of Fortune#Days of Fortune Bun Hair|Days of Fortune Bun Hair]]
+|{{Days Item|Days of Fortune Bun Hair|Spell|table}}
+| <small>x3</small>
+|<small>Free</small> 
+| <small>30 mins</small>
+|<small>Mini Spell Shop next to Prophecy Guide at [[Ice Rink]]</small>
+|<small>[[Days of Fortune]]</small>
+|-
+|[[Days of Fortune#Days of Fortune Wool Hat|Days of Fortune Wool Hat]]
+|{{Days Item|Days of Fortune Wool Hat|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mini Spell Shop next to Prophecy Guide at [[Ice Rink]]</small>
+|<small>[[Days of Fortune]]</small>
+|-
+|[[Days of Fortune#Days of Fortune Lion Headdress|Days of Fortune Lion Headdress]]
+| {{Days Item|Days of Fortune Lion Headdress|Spell|table}}
+|<small>x3</small>
+| <small>Free</small>
+|<small>30 mins</small>
+|<small>Mini Spell Shop next to Prophecy Guide at [[Ice Rink]]</small>
+|<small>[[Days of Fortune]]</small> 
+|-
+|[[Days of Fortune#Days of Fortune Fish Hood|Days of Fortune Fish Hood]]
+|{{Days Item|Days of Fortune Fish Hood|Spell|table}}
+|<small>x3</small>
+|<small>Free</small> 
+|<small>30 mins</small>
+|<small>Mini Spell Shop next to Prophecy Guide at [[Ice Rink]]</small>
+|<small>[[Days of Fortune]]</small>
+|-
+|[[Days of Fortune#Fortune_Snake_Coif_and_Cloak|Days of Fortune Snake Coif]]
+|{{Days Item|Days of Fortune Snake Coif|Spell|table}}
+|<small>x3</small>
+|<small>Free</small> 
+|<small>30 mins</small>
+|<small>Mini Spell Shop next to Prophecy Guide at [[Ice Rink]]</small>
+|<small>[[Days of Fortune]]</small>
+|-
+|[[Days of Love#Days of Love Amethyst-Tipped Tails|Days of Love Amethyst-Tipped Tails]]
+|{{Days Item|Days of Love Amethyst-Tipped Tails|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mini Spell Shop in [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]]</small>
+|<small>[[Days of Love]]</small>
+|-
+|[[Days of Love#Days of Love Braids|Days of Love Braids]]
+|{{Days Item|Days of Love Braids|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mini Spell Shop in [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]]</small>
+|<small>[[Days of Love]]</small>
+|-
+|[[Days of Bloom#Bloom Hair|Bloom Hair]]
+|{{Days Item|Bloom Hair|Spell|table}} 
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mini Spell Shop next to Bloom Guide at [[Starlight Desert]]</small>
+|<small>[[Days of Bloom]]</small>
+|-
+|[[Days of Bloom#Bloom Arum Petal Hair|Bloom Arum Petal Hair]]
+|{{Days Item|Bloom Arum Petal Hair|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mini Spell Shop next to Bloom Guide at [[Starlight Desert]]</small>
+|<small>[[Days of Bloom]]</small>
+|-
+|[[Days of Bloom#Bloom Spiky Sprig Hair|Bloom Spiky Sprig Hair]]
+|{{Days Item|Bloom Spiky Sprig Hair|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mini Spell Shop next to Bloom Guide at [[Starlight Desert]]</small>
+|<small>[[Days of Bloom]]</small>
+|-
+|[[Days of Bloom#Bloom Rose Braided Hair|Bloom Rose Braided Hair]]
+|{{Days Item|Bloom Rose Braided Hair|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mini Spell Shop next to Bloom Guide at [[Starlight Desert]]</small>
+|<small>[[Days of Bloom]]</small>
+|-
+|[[Days of Nature#Nature Wave-Touched Hair|Nature Wave-Touched Hair]]
+|{{Days Item|Nature Wave-Touched Hair|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Nature Gift Box at [[Sanctuary Islands]]</small>
+|<small>[[Days of Nature]]</small> 
+|-
+|[[Days of Nature#Ocean Manta Hair|Ocean Manta Hair]]
+|{{Days Item|Ocean Manta Hair|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Nature Gift Box at [[Sanctuary Islands]]</small>
+|<small>[[Days of Nature]]</small> 
+|-
+|[[Days of Color#Rainbow Beanie Hat|Rainbow Beanie Hat]]
+|{{Days Item|Rainbow Beanie Hat|Spell|table}}
+|<small>x2</small>
+|<small>Free</small> 
+|<small>30 mins</small>
+|<small>Color Gift Box at [[Aviary]] OR the [[Eight-Player Puzzle Area]]</small>
+|<small>[[Days of Color]]</small> 
+|-
+|[[Days of Color#Color Glam Cut|Color Glam Cut]]
+|{{Days Item|Color Glam Cut|Spell|table}}
+|<small>x2</small>
+|<small>Free</small> 
+|<small>30 mins</small>
+|<small>Color Gift Box at [[Aviary]] OR the [[Eight-Player Puzzle Area]]</small>
+|<small>[[Days of Color]]</small> 
+|-
+|[[Tournament of Triumph#Tournament Curls|Tournament Curls]]
+|{{Days Item|Tournament Curls|Spell|table}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small> 
+|<small>Tournament Gift Box at [[Home]], [[Aviary]], OR the [[Coliseum]]</small>
+|<small>[[Tournament of Triumph]]</small>
+|-
+|[[Days of Moonlight#Moonlight Updo|Moonlight Updo]]
+|{{Days Item|Moonlight Updo|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small> 
+|<small>Moonlight Gift Box at [[Home]], [[Aviary]], OR the [[Crescent Oasis#Hidden Glade|Hidden Glade]]</small>
+|<small>[[Days of Moonlight]]</small>
+|-
+|[[Days of Mischief#Hungry Pumpkin Hat|Hungry Pumpkin Hat]] 
+|{{Days Item|Hungry Pumpkin Hat|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+| <small>Mischief Gift Box at [[Aviary]]</small>
+|<small>[[Days of Mischief]]</small>
+|-
+|[[Days of Mischief#Mischief Witch Hat|Mischief Witch Hat]]
+|{{Days Item|Mischief Witch Hat|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+| <small>30 mins</small>
+|<small>Mischief Gift Box at [[Aviary]]</small>
+|<small>[[Days of Mischief]]</small>
+|-
+|[[Days of Mischief#Mischief Tufted Hair|Mischief Tufted Hair]]
+|{{Days Item|Mischief Tufted Hair|Spell|table}}
+| <small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mischief Gift Box at [[Aviary]]</small>
+|<small>[[Days of Mischief]]</small>
+|-
+|[[Days of Mischief#Mischief Witch Hair|Mischief Witch Hair]]
+|{{Days Item|Mischief Witch Hair|Spell|table}}
+| <small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mischief Gift Box at [[Aviary]]</small>
+|<small>[[Days of Mischief]]</small>
+|-
+|[[Days of Mischief#Mischief Spider Quiff|Mischief Spider Quiff]]
+|{{Days Item|Mischief Spider Quiff|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mischief Gift Box at [[Aviary]]</small>
+|<small>[[Days of Mischief]]</small>
+|-
+|[[Days of Mischief#Mischief Spider Bun|Mischief Spider Bun]]
+|{{Days Item|Mischief Spider Bun|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mischief Gift Box at [[Aviary]]</small>
+|<small>[[Days of Mischief]]</small>
+|-
+|[[Days of Music#Harmony Hall Marching Band Hat|Marching Band Hat]]
+|{{Days Item|Marching Band Hat|Spell|table}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small> 
+|<small>Front desk at [[Harmony Hall]]</small>
+|<small>[[Days of Music]]</small>
+|-
+|[[Days of Feast#Days of Feast Hat|Days of Feast Hat]]
+|{{Days Item|Days of Feast Hat|Spell|table}} 
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Snowman at the [[Secret Area]] rooftop</small>
+|<small>[[Days of Feast]]</small> 
+|-
+|[[Days of Feast#Winter Feast Hat|Winter Feast Hat]]
+|{{Days Item|Winter Feast Hat|Spell|table}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Snowman at the [[Secret Area]] rooftop</small>
+|<small>[[Days of Feast]]</small>
+|-
+! colspan="7" style="text-align:center;" |'''[[Hair Accessory]] Spells'''
+|-
+|[[Days of Fortune#Days of Fortune Orange|Days of Fortune Orange]]
+|{{Days Item|Days of Fortune Orange|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small> 
+|<small>Mini Spell Shop next to Prophecy Guide at [[Ice Rink]]</small>
+|<small>[[Days of Fortune]]</small>
+|-
+|[[Days of Fortune#Days of Fortune Fish Accessory|Days of Fortune Fish Accessory]]
+|{{Days Item|Days of Fortune Fish Accessory|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small> 
+|<small>Mini Spell Shop next to Prophecy Guide at [[Ice Rink]]</small>
+|<small>[[Days of Fortune]]</small>
+|-
+|[[Days of Love#Days of Love Flower Crown|Days of Love Flower Crown]]
+|{{Days Item|Days of Love Flower Crown|Spell|table}} 
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small> 
+|<small>Mini Spell Shop in [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]]</small>
+|<small>[[Days of Love]]</small>
+|-
+|[[Days of Love#Love Heart Beret|Love Heart Beret]]
+|{{Days Item|Love Heart Beret|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small> 
+|<small>Mini Spell Shop in [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]]</small>
+|<small>[[Days of Love]]</small>
+|-
+|[[Days of Love#Days of Love Amethyst Accessory|Days of Love Amethyst Accessory]]
+|{{Days Item|Days of Love Amethyst Accessory|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mini Spell Shop in [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]]</small>
+|<small>[[Days of Love]]</small>
+|-
+|[[Days of Nature#Nature Coral Crown Accessory|Nature Coral Crown Accessory]]
+|{{Days Item|Nature Coral Crown Accessory|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Nature Gift Box at [[Sanctuary Islands]]</small>
+|<small>[[Days of Nature]]</small> 
+|-
+|[[Days of Color#Rainbow Pack|Rainbow Hair Flower]]
+| {{Days Item|Rainbow Hair Flower|spell|table}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Gift Box next to the Event Guide in [[Daylight Prairie#Eight_Player_Puzzle|Prairie]]</small> 
+|<small>[[Days of Color]]</small>
+|-
+|[[Days of Color#Double Rainbow Pack|Double Rainbow Flower]]
+|{{Days Item|Double Rainbow Flower|spell|table}}
+|<small>x2</small>
+|<small>Free</small>
+| <small>30 mins</small>
+|<small>Gift Box next to the Event Guide in [[Daylight Prairie#Eight_Player_Puzzle|Prairie]]</small> 
+|<small>[[Days of Color]]</small>
+|-
+|[[Sky Anniversary#Balloon Spell Shop|Balloon Krill Hat]]
+|{{Icon|Sky-Anniversary-Hair-accessory-Balloon-Krill-icon-Morybel-0146.png|table|label=Balloon Krill Hat Spell|in_page=1}}
+|<small>x3</small> 
+|<small>Free, or random for {{Cost|4 C}} or {{Cost|4 T|event=Sky}}</small>
+|<small>30 mins</small>
+|<small>Spell Shop at [[Secret Area]] rooftop</small> <ref name="Only Spell"></ref>
+| <small>[[Sky Anniversary]]</small>
+|-
+|[[Sky Anniversary#Balloon Spell Shop|Balloon Crab Hat]]
+|{{Icon|Sky-Anniversary-Hair-Accessory-Balloon-Crab-icon-Morybel-0146.png|table|label=Balloon Crab Hat Spell|in_page=1}}
+|<small>x3</small>
+|<small>Free, or random for {{Cost|4 C}} or {{Cost|4 T|event=Sky}}</small>
+|<small>30 mins</small>
+|<small>Spell Shop at [[Secret Area]] rooftop</small> <ref name="Only Spell"></ref>
+|<small>[[Sky Anniversary]]</small>
+|-
+|[[Sky Anniversary#Balloon Spell Shop|Balloon Crown Hat]]
+|{{Icon|Sky-Anniversary-Hair-Accessory-Balloon-Crown-icon-Morybel-0146.png|table|label=Balloon Crown Hat Spell|in_page=1}}
+| <small>x3</small>
+|<small>Free, or random for {{Cost|4 C}} or {{Cost|4 T|event=Sky}}</small>
+|<small>30 mins</small>
+|<small>Spell Shop at [[Secret Area]] rooftop</small> <ref name="Only Spell"></ref>
+|<small>[[Sky Anniversary]]</small>
+|-
+|[[Sky Anniversary#Balloon Spell Shop|Balloon Jellyfish Hat]]
+|{{Icon|Sky-Anniversary-Hair-Accessory-Balloon-Jellyfish-icon-Morybel-0146.png|table|label=Balloon Jellyfish Hat Spell|in_page=1}} 
+|<small>x3</small>
+| <small>Free, or random for {{Cost|4 C}} or {{Cost|4 T|event=Sky}}</small>
+|<small>30 mins</small>
+|<small>Spell Shop at [[Secret Area]] rooftop</small> <ref name="Only Spell"></ref> 
+|<small>[[Sky Anniversary]]</small>
+|-
+|[[Sky Anniversary#Balloon Spell Shop|Balloon Manta Hat]]
+|{{Icon|Sky-Anniversary-Hair-accessory-Balloon-Manta-icon-Morybel-0146.png|table|label=Balloon Manta Hat Spell|in_page=1}} 
+|<small>x3</small>
+|<small>Free, or random for {{Cost|4 C}} or {{Cost|4 T|event=Sky}}</small>
+|<small>30 mins</small>
+|<small>Spell Shop at [[Secret Area]] rooftop</small> <ref name="Only Spell"></ref>
+|<small>[[Sky Anniversary]]</small>
+|-
+|[[Sky Anniversary#4th Anniversary Hat|4th Anniversary Hat]] 
+|{{Days Item|4th Anniversary Hat|Spell|table}}
+|<small>x2</small>
+|<small>Free</small> 
+|<small>30 mins</small>
+|<small>Anniversary Gift Box at the [[Secret Area]]</small>
+|<small>[[Sky Anniversary]]</small>
+|-
+|[[Sky Anniversary#5th Anniversary Headband|5th Anniversary Headband]] 
+|{{Days Item|5th Anniversary Headband|Spell|table}}
+|<small>x3</small>
+| <small>Free</small> 
+|<small>30 mins</small>
+|<small>Anniversary Gift Box at the [[Secret Area]]</small>
+|<small>[[Sky Anniversary]]</small>
+|-
+|[[Sky Anniversary#SkyFest Oreo Headband|SkyFest Oreo Headband]] 
+|{{Days Item|SkyFest Oreo Headband|Spell|table}}
+|<small>x3</small>
+| <small>Free</small> 
+|<small>30 mins</small>
+|<small>Anniversary Gift Box at the [[Secret Area]]</small>
+|<small>[[Sky Anniversary]]</small>
+|-
+|[[Tournament of Triumph#Tournament Golden Garland|Tournament Golden Garland]] 
+|{{Days Item|Tournament Golden Garland|Spell|table}}
+|<small>x2</small>
+| <small>Free</small> 
+|<small>30 mins</small>
+|<small>Tournament Gift Box at [[Home]], [[Aviary]], and the [[Coliseum]]</small>
+|<small>[[Tournament of Triumph]]</small>
+|-
+|[[Days of Sunlight#Seashell Hairpin|Seashell Hairpin]] 
+|{{Days Item|Seashell Hairpin|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Sunlight Gift Box at [[Home]], [[Aviary]], OR [[Elevated Clearing]]</small>
+|<small>[[Days of Sunlight]]</small>
+|-
+|[[Days of Sunlight#Summer Hat|Summer Hat]] 
+|{{Days Item|Summer Hat|Spell|table}}
+|<small>x3</small>
+| <small>Free</small> 
+|<small>30 mins</small>
+|<small>Sunlight Gift Box at [[Home]], [[Aviary]], OR [[Elevated Clearing]]</small>
+|<small>[[Days of Sunlight]]</small>
+|-
+|[[Days of Sunlight#Bunny Accessory|Bunny Accessory]]
+|{{Days Item|Bunny Accessory|Spell|table}}
+|<small>x3</small>
+| <small>Free</small> 
+|<small>30 mins</small>
+|<small>Sunlight Gift Box at [[Home]], [[Aviary]], OR [[Elevated Clearing]]</small>
+|<small>[[Days of Sunlight]]</small>
+|-
+|[[Days of Moonlight# Moonlight Blossom Accessory| Moonlight Blossom Accessory]] 
+|{{Days Item| Moonlight Blossom Accessory|Spell|table}}
+|<small>x3</small>
+| <small>Free</small> 
+|<small>30 mins</small>
+|<small>Moonlight Gift Box at [[Home]], [[Aviary]], and the [[Crescent Oasis#Hidden Glade|Hidden Glade]]</small>
+|<small>[[Days of Moonlight]]</small>
+|-
+|[[Days of Style#Style Top Hat|Style Top Hat]]
+|{{Days Item|Style Top Hat|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Style Gift Box at [[Aviary]]</small>
+|<small>[[Days of Style]]</small>
+|-
+|[[Days of Style#Style Darkness Fascinator|Style Darkness Fascinator]]
+|{{Days Item|Style Darkness Fascinator|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Style Gift Box at [[Aviary]]</small>
+|<small>[[Days of Style]]</small>
+|-
+|[[Days of Mischief#Witch Hat Accessory Spell|Witch Hat Accessory Spell]]
+|{{Icon|Days of Mischief - Witch hat accessory spell.png|table|label=Witch Hat Accessory Spell|link=Days of Mischief#Witch Hat Accessory Spell}}
+|<small>x2</small>
+|<small>Free or {{Cost|2 C}}</small>
+|<small>30 mins</small> 
+|<small>Gift Hat in the [[Cackling Crab]] and [[Sleepy Traveling Merchant's Boat]]</small> <ref name="Only Spell"></ref>
+|<small>[[Days of Mischief]]</small>
+|-
+|[[Days of Mischief#Mischief Crabkin Accessory|Mischief Crabkin Accessory]]
+|{{Days Item|Mischief Crabkin Accessory|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mischief Gift Box at [[Aviary]]</small>
+|<small>[[Days of Mischief]]</small>
+|-
+|[[Days of Feast#Snowflake Hair Accessory|Snowflake Hair Accessory]]
+|{{Days Item|Snowflake Hair Accessory|Spell|table}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Snowman at the [[Secret Area]] rooftop</small>
+|<small>[[Days of Feast]]</small>
+|-
+|[[Days of Feast#Winter Pinecone Hair Clip |Winter Pinecone Hair Clip]]
+|{{Days Item|Winter Pinecone Hair Clip|Spell|table}} 
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Snowman at the [[Secret Area]] rooftop</small>
+|<small>[[Days of Feast]]</small>
+|-
+! colspan="7" style="text-align:center;" |'''[[Head Accessories]] Spells'''
+|-
+|[[Days of Fortune#Days of Fortune Dragon Bangles|Days of Fortune Dragon Bangles]]
+| {{Days Item|Days of Fortune Dragon Bangles|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mini Spell Shop next to Prophecy Guide at [[Ice Rink]]</small>
+|<small>[[Days of Fortune]]</small>
+|-
+|[[Days of Color#Rainbow Braid|Rainbow Braid]]
+|{{Days Item|Rainbow Braid|Spell|table}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small> 
+|<small>Gift Box next to the Event Guide in [[Daylight_Prairie#Eight_Player_Puzzle|Prairie]]</small>
+|<small>[[Days of Color]]</small>
+|-
+|[[Days of Color#Rainbow Earring|Rainbow Earring]]
+|{{Days Item|Rainbow Earring|Spell|table}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Gift Box next to the Event Guide in [[Daylight_Prairie#Eight_Player_Puzzle|Prairie]]</small>
+|<small>[[Days of Color]]</small>
+|-
+|[[Days of Color#Rainbow Headphones|Rainbow Headphones]]
+|{{Days Item|Rainbow Headphones|Spell|table}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Gift Box next to the Event Guide in [[Daylight_Prairie#Eight_Player_Puzzle|Prairie]]</small>
+|<small>[[Days of Color]]</small>
+|-
+|[[Days of Color#Dark Rainbow Earring Pack|Dark Rainbow Earrings]]
+|{{Days Item|Dark Rainbow Earrings|Spell|table}} 
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>[[Sleepy Traveling Merchant's Boat]]</small>
+|<small>[[Days of Color]]</small>
+|-
+|[[Days of Sunlight#Sunlight Helios Hoops|Sunlight Helios Hoops]]
+|{{Days Item|Sunlight Helios Hoops|Spell|table}} 
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Sunlight Gift Box at [[Home]], [[Aviary]], OR [[Elevated Clearing]]</small>
+|<small>[[Days of Sunlight]]</small>
+|-
+|[[Days of Moonlight#Moonlight Earrings|Moonlight Earrings]]
+|{{Days Item|Moonlight Earrings|Spell|table}} 
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Sunlight Gift Box at [[Home]], [[Aviary]], OR [[Crescent Oasis#Hidden Glade|Hidden Glade]]</small>
+|<small>[[Days of Moonlight]]</small>
+|-
+|[[Days of Mischief#Mischief Withered Antlers|Mischief Withered Antlers]]
+|{{Days Item|Mischief Withered Antlers|Spell|table}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Gift Hat in the [[Cackling Crab]]</small>
+|<small>[[Days of Mischief]]</small>
+|-
+|[[Days of Feast#Days of Feast Horns|Days of Feast Horns]]
+|{{Days Item|Days of Feast Horns|Spell|table}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Snowman at the [[Secret Area]] rooftop</small>
+| <small>[[Days of Feast]]</small>
+|-
+! colspan="7" style="text-align:center;" |'''[[Cape]] Spells'''
+|-
+|[[Days of Fortune#Days of Fortune Cape|Days of Fortune Cape]]
+|{{Days Item|Days of Fortune Cape|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mini Spell Shop next to Prophecy Guide at [[Ice Rink]]</small>
+|<small>[[Days of Fortune]]</small>
+|-
+|[[Days of Fortune#Days of Fortune Fish Cape|Days of Fortune Fish Cape]]
+|{{Days Item|Days of Fortune Fish Cape|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mini Spell Shop next to Prophecy Guide at [[Ice Rink]]</small>
+|<small>[[Days of Fortune]]</small>
+|-
+|[[Days of Fortune#Days of Fortune Dragon Stole|Days of Fortune Dragon Stole]]
+|{{Days Item|Days of Fortune Dragon Stole|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mini Spell Shop next to Prophecy Guide at [[Ice Rink]]</small>
+|<small>[[Days of Fortune]]</small>
+|-
+|[[Days of Fortune#Fortune_Snake_Coif_and_Cloak|Days of Fortune Snake Cloak]]
+|{{Days Item|Days of Fortune Snake Cloak|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mini Spell Shop next to Prophecy Guide at [[Ice Rink]]</small>
+|<small>[[Days of Fortune]]</small>
+|-
+|[[Days of Love#Days of Love Meteor Mantle|Days of Love Meteor Mantle]]
+|{{Days Item|Days of Love Meteor Mantle|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mini Spell Shop in [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]]</small>
+|<small>[[Days of Love]]</small>
+|-
+|[[Days of Bloom#Bloom Cape|Bloom Cape]]
+|{{Days Item|Bloom Cape|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mini Spell Shop next to Bloom Guide at [[Starlight Desert]]</small>
+|<small>[[Days of Bloom]]</small>
+|-
+|[[Days of Bloom#Purple Bloom Cape|Purple Bloom Cape]] 
+|{{Days Item|Purple Bloom Cape|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mini Spell Shop next to Bloom Guide at [[Starlight Desert]]</small>
+|<small>[[Days of Bloom]]</small>
+|-
+|[[Days of Bloom#Red Bloom Cape|Red Bloom Cape]]
+|{{Days Item|Red Bloom Cape|Spell|table}} 
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mini Spell Shop next to Bloom Guide at [[Starlight Desert]]</small> 
+|<small>[[Days of Bloom]]</small>
+|-
+|[[Days of Bloom#Bloom Arum Petal Cape|Bloom Arum Petal Cape]]
+|{{Days Item|Bloom Arum Petal Cape|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mini Spell Shop next to Bloom Guide at [[Starlight Desert]]</small>
+|<small>[[Days of Bloom]]</small>
+|-
+|[[Days of Bloom#Bloom Rose-Embroidered Cape|Bloom Rose-Embroidered Cape]]
+|{{Days Item|Bloom Rose-Embroidered Cape|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mini Spell Shop next to Bloom Guide at [[Starlight Desert]]</small>
+|<small>[[Days of Bloom]]</small>
+|-
+|[[Days of Nature#Earth Cape|Earth Cape]]
+|{{Days Item|Earth Cape|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Nature Gift Box at [[Sanctuary Islands]]</small>
+|<small>[[Days of Nature]]</small> 
+|-
+|[[Days of Nature#Ocean Cape|Ocean Cape]]
+|{{Days Item|Ocean Cape|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Nature Gift Box at [[Sanctuary Islands]]</small>
+|<small>[[Days of Nature]]</small> 
+|-
+|[[Days of Nature#Nature Turtle Cape|Nature Turtle Cape]]
+|{{Days Item|Nature Turtle Cape|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Nature Gift Box at [[Sanctuary Islands]]</small>
+|<small>[[Days of Nature]]</small> 
+|-
+|[[Days of Nature#Ocean Sea Foam Cape|Ocean Sea Foam Cape]]
+|{{Days Item|Ocean Sea Foam Cape|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Nature Gift Box at [[Sanctuary Islands]]</small>
+|<small>[[Days of Nature]]</small> 
+|-
+|[[Days of Nature#Nature School Cape|Nature School Cape]]
+|{{Days Item|Nature School Cape|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Nature Gift Box at [[Sanctuary Islands]]</small>
+|<small>[[Days of Nature]]</small> 
+|-
+|[[Days of Nature#Nature Wave Cape|Nature Wave Cape]]
+|{{Days Item|Nature Wave Cape|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Nature Gift Box at [[Sanctuary Islands]]</small>
+|<small>[[Days of Nature]]</small> 
+|-
+|[[Days of Color#Rainbow Cape|Rainbow Cape]]
+| {{Days Item|Rainbow Cape|Spell|table}}
+| <small>x2</small>
+| <small>Free</small>
+|<small>30 mins</small>
+|<small>Gift Box next to the Event Guide in [[Daylight Prairie#Eight_Player_Puzzle|Prairie]]</small>
+|<small>[[Days of Color]]</small>
+|-
+|[[Days of Color#Dark Rainbow Cape|Dark Rainbow Cape]]
+|{{Days Item|Dark Rainbow Cape|Spell|table}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>[[Sleepy Traveling Merchant's Boat]]</small>
+|<small>[[Days of Color]]</small>
+|-
+|[[Sky Anniversary#SkyFest Wireframe Cape|SkyFest Wireframe Cape]]
+|{{Days Item|SkyFest Wireframe Cape|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Anniversary Gift Box at the [[Secret Area]]</small>
+|<small>[[Sky Anniversary]]</small>
+|-
+|[[Days of Sunlight#Sunlight Pink Beach Towel Cape|Sunlight Pink Beach Towel Cape]]
+|{{Days Item|Sunlight Pink Beach Towel Cape|Spell|table}}
+|<small>x3</small>
+|<small>Free</small> 
+|<small>30 mins</small>
+|<small>Sunlight Gift Box at [[Home]], [[Aviary]], OR [[Elevated Clearing]]</small>
+|<small>[[Days of Sunlight]]</small>
+|-
+|[[Days of Sunlight#Sunlight Yellow Beach Towel Cape|Sunlight Yellow Beach Towel Cape]]
+|{{Days Item|Sunlight Yellow Beach Towel Cape|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Sunlight Gift Box at [[Home]], [[Aviary]], OR [[Elevated Clearing]]</small>
+|<small>[[Days of Sunlight]]</small>
+|-
+|[[Days of Sunlight#Sunlight Blue Beach Towel Cape|Sunlight Blue Beach Towel Cape]]
+|{{Days Item|Sunlight Blue Beach Towel Cape|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Sunlight Gift Box at [[Home]], [[Aviary]], OR [[Elevated Clearing]]</small>
+|<small>[[Days of Sunlight]]</small>
+|-
+|[[Days of Sunlight#Sunlight Woven Wrap|Sunlight Woven Wrap]]
+|{{Days Item|Sunlight Woven Wrap|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Sunlight Gift Box at [[Home]], [[Aviary]], OR [[Elevated Clearing]]</small>
+|<small>[[Days of Sunlight]]</small>
+|-
+|[[Days of Mischief#Spooky Bat Cape|Spooky Bat Cape]]
+|{{Days Item|Spooky Bat Cape|Spell|table}}
+|<small>x3</small>
+| <small>Free</small>
+|<small>30 mins</small>
+|<small>Mischief Gift Box at [[Aviary]]</small>
+|<small>[[Days of Mischief]]</small>
+|-
+| [[Days of Mischief#Mischief Web Cape|Mischief Web Cape]] 
+|{{Days Item|Mischief Web Cape|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+| <small>Mischief Gift Box at [[Aviary]]</small>
+|<small>[[Days of Mischief]]</small>
+|-
+|[[Days of Mischief#Mischief Withered Cape|Mischief Withered Cape]]
+| {{Days Item|Mischief Withered Cape|Spell|table}}
+|<small>x3</small>
+|<small>Free</small> 
+|<small>30 mins</small>
+|<small>Mischief Gift Box at [[Aviary]]</small>
+|<small>[[Days of Mischief]]</small>
+|-
+|[[Days of Mischief#Cat Costume Pack|Days of Mischief Cat Cape]]
+|{{Days Item|Cat Cape|Spell|table}}
+|<small>x3</small>
+|<small>Free</small> 
+|<small>30 mins</small>
+|<small>Mischief Gift Box at [[Aviary]]</small>
+|<small>[[Days of Mischief]]</small>
+|-
+|[[Days of Mischief#Mischief Crabula Cloak|Mischief Crabula Cloak]]
+|{{Days Item|Mischief Crabula Cloak|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mischief Gift Box at [[Aviary]]</small>
+|<small>[[Days of Mischief]]</small>
+|-
+|[[Days of Mischief#Mischief Gossamer Cape|Mischief Gossamer Cape]]
+|{{Days Item|Mischief Gossamer Cape|Spell|table}}
+| <small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mischief Gift Box at [[Aviary]]</small>
+|<small>[[Days of Mischief]]</small>
+|-
+|[[Days of Mischief#Mischief Raven-Feathered Cloak|Mischief Raven-Feathered Cloak]]
+|{{Days Item|Mischief Raven-Feathered Cloak|Spell|table}}
+| <small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mischief Gift Box at [[Aviary]]</small>
+|<small>[[Days of Mischief]]</small>
+|-
+|[[Days of Music#Marching Band Cape|Marching Band Cape]]
+|{{Days Item|Marching Band Cape|Spell|table}}
+| <small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Music Gift Box at event area in [[Aviary]] OR front counter in [[Harmony Hall]]</small>
+|<small>[[Days of Music]]</small>
+|-
+|[[Days of Feast#Days of Feast Cape|Days of Feast Cape]]
+|{{Days Item|Days of Feast Cape|Spell|table}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Snowman at the [[Secret Area]] rooftop</small>
+|<small>[[Days of Feast]]</small>
+|-
+|[[Days of Feast#Snowflake Cape|Snowflake Cape]]
+|{{Days Item|Snowflake Cape|Spell|table}}
+| <small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Snowman at the [[Secret Area]] rooftop</small>
+|<small>[[Days of Feast]]</small>
+|-
+|[[Days of Feast#Winter Ancestor Cape|Winter Ancestor Cape]]
+|{{Days Item|Winter Ancestor Cape|Spell|table}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Snowman at the [[Secret Area]] rooftop</small>
+|<small>[[Days of Feast]]</small>
+|-
+|[[Days of Feast#Cozy Hermit Cape|Cozy Hermit Cape]]
+|{{Days Item|Cozy Hermit Cape|Spell|table}}
+|<small>x2</small>
+| <small>Free</small>
+|<small>30 mins</small>
+|<small>[[Sleepy Traveling Merchant's Boat]]</small>
+|<small>[[Days of Feast]]</small>
+|-
+| [[Days of Feast#Winter Quilted Cape|Winter Quilted Cape]]
+|{{Days Item|Winter Quilted Cape|Spell|table}}
+|<small>x2</small> 
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>[[Sleepy Traveling Merchant's Boat]]</small>
+|<small>[[Days of Feast]]</small> 
+|-
+! colspan="7" style="text-align:center;" |'''[[Prop]] Spells'''
+|-
+|[[Days of Fortune#Days of Fortune Enchanted Umbrella|Days of Fortune Enchanted Umbrella]]
+|{{Days Item|Days of Fortune Enchanted Umbrella|Spell|table}}
+| <small>x3</small> 
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mini Spell Shop next to Prophecy Guide at [[Ice Rink]]</small>
+|<small>[[Days of Fortune]]</small>
+|-
+|[[Days of Fortune#Fortune Drum|Fortune Drum]]
+|{{Days Item|Fortune Drum|Spell|table}} 
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mini Spell Shop next to Prophecy Guide at [[Ice Rink]]</small>
+|<small>[[Days of Fortune]]</small>
+|-
+|[[Days of Love#Days of Love Swing Pack|Days of Love Swing]]
+|{{Days Item|Days of Love Swing|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>One time use</small>
+|<small>Mini Spell Shop in [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]]</small> 
+|<small>[[Days of Love]]</small>
+|-
+|[[Days of Love#Days of Love Seesaw Pack|Days of Love Seesaw]]
+|{{Days Item|Days of Love Seesaw|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>One time use</small>
+|<small>Mini Spell Shop in [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]]</small>
+|<small>[[Days of Love]]</small>
+|-
+|[[Days of Love#Days of Love Gondola Pack|Days of Love Gondola]]
+|{{Days Item|Days of Love Gondola|Spell|table}}
+|<small>x3</small>
+|<small>Free or</small>
+<small>{{Cost|2 H}}</small>
+|<small>One time use</small>
+|<small>Mini Spell Shop in [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]]</small>
+|<small>[[Days of Love]]</small>
+|-
+|[[Days of Love#Days of Love Flowery Archway|Days of Love Flowery Archway]]
+|{{Days Item|Days of Love Flowery Archway|Spell|table}} 
+|<small>x3</small> 
+|<small>Free</small>
+|<small>30 mins</small>
+| <small>Mini Spell Shop in [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]]</small>
+|<small>[[Days of Love]]</small>
+|-
+|[[Days of Love#Days of Love Serendipitous Scepter|Days of Love Serendipitous Scepter]]
+|{{Days Item|Days of Love Serendipitous Scepter|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mini Spell Shop in [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]]</small>
+|<small>[[Days of Love]]</small>
+|-
+|[[Days of Love#Love Heart Plushie|Love Heart Plushie]]
+|{{Days Item|Love Heart Plushie|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mini Spell Shop in [[Starlight Desert#Jellyfish_Cove|Jellyfish Cove]]</small>
+|<small>[[Days of Love]]</small>
+|-
+|[[Days of Love#Days of Love Violet Crystal Prop|Violet Crystal Prop]]
+|{{Days Item|Violet Crystal Prop|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mini Spell Shop in [[Starlight Desert#Jellyfish_Cove|Jellyfish Cove]]</small>
+|<small>[[Days of Love]]</small>
+|-
+|[[Days of Bloom#Bloom Teaset|Bloom Teaset]]
+|{{Days Item|Bloom Teaset|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>One time use</small>
+|<small>Mini Spell Shop next to Bloom Guide at [[Starlight Desert]]</small>
+|<small>[[Days of Bloom]]</small>
+|-
+|[[Days of Bloom#Purple Bloom Teaset|Purple Bloom Teaset]]
+|{{Days Item|Bloom Purple Teaset|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>One time use</small>
+|<small>Mini Spell Shop next to Bloom Guide at [[Starlight Desert]]</small>
+|<small>[[Days of Bloom]]</small>
+|-
+|[[Days of Bloom#Bloom Picnic Basket|Bloom Picnic Basket]]
+|{{Days Item|Bloom Picnic Basket|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>One time use</small>
+|<small>Mini Spell Shop next to Bloom Guide at [[Starlight Desert]]</small>
+|<small>[[Days of Bloom]]</small>
+|-
+|[[Days of Bloom#Bloom Butterfly Fountain|Bloom Butterfly Fountain]]
+|{{Days Item|Bloom Butterfly Fountain|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mini Spell Shop next to Bloom Guide at [[Starlight Desert]]</small>
+|<small>[[Days of Bloom]]</small>
+|-
+|[[Days of Bloom#Bloom Lilypad Umbrella|Bloom Lilypad Umbrella]]
+|{{Days Item|Bloom Lilypad Umbrella|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mini Spell Shop next to Bloom Guide at [[Starlight Desert]]</small>
+|<small>[[Days of Bloom]]</small>
+|-
+|[[Days of Bloom#Bloom Rose Jar Prop|Bloom Rose Jar Prop]]
+|{{Days Item|Bloom Rose Jar Prop|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mini Spell Shop next to Bloom Guide at [[Starlight Desert]]</small>
+|<small>[[Days of Bloom]]</small>
+|-
+|[[Days of Nature#Nature Sonorous Seashell|Nature Sonorous Seashell]]
+|{{Days Item|Nature Sonorous Seashell|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Nature Gift Box at [[Sanctuary Islands]]</small>
+|<small>[[Days of Nature]]</small> 
+|-
+|[[Days of Color#Color Bubble Machine|Color Bubble Machine]]
+|{{Days Item|Color Bubble Machine|Spell|table}}
+|<small>x2</small>
+|<small>Free</small> 
+|<small>30 mins</small>
+|<small>Color Gift Box at [[Aviary]] OR the [[Eight-Player Puzzle Area]]</small>
+|<small>[[Days of Color]]</small>
+|-
+|[[Sky Anniversary#Anniversary Plush|Anniversary Plush]]
+|{{Days Item|Anniversary Plush|Spell|table}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Spell Shop at [[Secret Area]] rooftop</small>
+|<small>[[Sky Anniversary]]</small>
+|-
+|[[Sky Anniversary#Anniversary Sonorous Seashell|Anniversary Sonorous Seashell]]
+|{{Days Item|Anniversary Sonorous Seashell|Spell|table}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Spell Shop at [[Secret Area]] rooftop</small>
+|<small>[[Sky Anniversary]]</small>
+|-
+|[[Sky Anniversary#Anniversary Party Lights|Anniversary Party Lights]]
+|{{Days Item|Anniversary Party Lights|Spell|table}}
+|<small>x2</small>
+| <small>Free</small>
+|<small>30 mins</small>
+| <small>Spell Shop at [[Secret Area]] rooftop</small>
+|<small>[[Sky Anniversary]]</small>
+|-
+|[[Sky Anniversary#SkyFest Jenova Fan|SkyFest Jenova Fan]]
+|{{Days Item|SkyFest Jenova Fan|Spell|table}}
+|<small>x3</small>
+| <small>Free</small>
+|<small>30 mins</small>
+| <small>Anniversary Gift Box at the [[Secret Area]]</small>
+|<small>[[Sky Anniversary]]</small>
+|-
+|[[Sky Anniversary#SkyFest Star Jar|SkyFest Star Jar]]
+|{{Days Item|SkyFest Star Jar|Spell|table}}
+|<small>x3</small>
+| <small>Free</small>
+|<small>30 mins</small>
+| <small>Anniversary Gift Box at the [[Secret Area]]</small>
+|<small>[[Sky Anniversary]]</small>
+|-
+|[[Tournament of Triumph#Tournament Torch|Tournament Torch]]
+|{{Days Item|Tournament Torch|Spell|table}}
+|<small>x2</small>
+| <small>Free</small>
+|<small>30 mins</small>
+| <small>Tournament Gift Box at [[Home]], [[Aviary]], and the [[Coliseum]]</small>
+|<small>[[Tournament of Triumph]]</small>
+|-
+|[[Days of Sunlight#Campfire Snack Kit|Campfire Snack Kit]]
+|{{Days Item|Campfire Snack Kit|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Sunlight Gift Box at [[Home]], [[Aviary]], OR [[Elevated Clearing]]</small>
+|<small>[[Days of Sunlight]]</small> 
+|-
+|[[Days of Sunlight#Campfire Tent|Campfire Tent]]
+|{{Days Item|Campfire Tent|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Sunlight Gift Box at [[Home]], [[Aviary]], OR [[Elevated Clearing]]</small>
+|<small>[[Days of Sunlight]]</small>
+|-
+|[[Days of Sunlight#Summer Parasol|Summer Parasol]]
+|{{Days Item|Summer Parasol|Spell|table}}
+| <small>x3</small>
+|<small>Free</small> 
+|<small>30 mins</small>
+|<small>Sunlight Gift Box at [[Home]], [[Aviary]], OR [[Elevated Clearing]]</small>
+|<small>[[Days of Sunlight]]</small>
+|-
+|[[Days of Sunlight#Lantern|Lantern]]
+|{{Days Item|Lantern|Spell|table}}
+|<small>x3</small> 
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Sunlight Gift Box at [[Home]], [[Aviary]], OR [[Elevated Clearing]]</small>
+|<small>[[Days of Sunlight]]</small>
+|-
+|[[Days of Sunlight#Sunlight Surfboard|Sunlight Surfboard]]
+|{{Days Item|Sunlight Surfboard|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+| <small>30 mins</small>
+|<small>Sunlight Gift Box at [[Home]], [[Aviary]], OR [[Elevated Clearing]]</small>
+|<small>[[Days of Sunlight]]</small>
+|-
+|[[Days of Sunlight#Sunlight Manta Float|Sunlight Manta Float]]
+|{{Days Item|Sunlight Manta Float|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+| <small>30 mins</small>
+|<small>Sunlight Gift Box at [[Home]], [[Aviary]], OR [[Elevated Clearing]]</small>
+|<small>[[Days of Sunlight]]</small>
+|-
+|[[Days of Moonlight#Moonlight Lantern Decoration|Moonlight Lantern Decoration]]
+|{{Days Item|Moonlight Lantern Decoration|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+| <small>30 mins</small>
+|<small>Moonlight Gift Box at [[Home]], [[Aviary]], OR [[Crescent Oasis#Hidden Glade|Hidden Glade]] </small>
+|<small>[[Days of Moonlight]]</small>
+|-
+|[[Days of Mischief#Mischief Pumpkin Prop|Mischief Pumpkin Prop]]
+|{{Days Item|Mischief Pumpkin Prop|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mischief Gift Box at [[Aviary]]</small>
+|<small>[[Days of Mischief]]</small>
+|-
+|[[Days of Mischief#Mischief Spooky Dining Set|Mischief Spooky Dining Set]]
+|{{Days Item|Mischief Spooky Dining Set|Spell|table}}
+|<small>x3</small>
+|<small>Free</small> 
+|<small>One time use</small>
+| <small>Mischief Gift Box at [[Aviary]]</small>
+|<small>[[Days of Mischief]]</small>
+|-
+|[[Days of Mischief#Feline Familiar Prop|Feline Familiar Prop]]
+|{{Days Item|Feline Familiar Prop|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mischief Gift Box at [[Aviary]]</small>
+|<small>[[Days of Mischief]]</small>
+|-
+|[[Days of Mischief#Mischief Withered Broom|Mischief Withered Broom]]
+|{{Days Item|Mischief Withered Broom|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mischief Gift Box at [[Aviary]]</small>
+|<small>[[Days of Mischief]]</small>
+|-
+|[[Days of Mischief#Mischief Cauldron|Mischief Cauldron]]
+|{{Days Item|Mischief Cauldron|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Mischief Gift Box at [[Aviary]]</small>
+|<small>[[Days of Mischief]]</small>
+|-
+|[[Days of Music#Jam Station|Jam Station]]
+|{{Days Item|Jam Station|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>One time use</small>
+|<small>Music Gift Box at event area in [[Aviary]] OR front counter in [[Harmony Hall]]</small>
+|<small>[[Days of Music]]</small>
+|-
+|[[Days of Music#Fledgling Upright Piano|Fledgling Upright Piano]]
+|{{Days Item|Fledgling Upright Piano|Spell|table}}
+|<small>x3</small>
+|<small>Free</small>
+|<small>One time use</small>
+|<small>Music Gift Box at event area in [[Aviary]] OR front counter in [[Harmony Hall]]</small>
+|<small>[[Days of Music]]</small>
+|-
+|[[Days of Feast#Days of Feast Table|Days of Feast Table]]
+|{{Days Item|Days of Feast Table|Spell|table}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>One time use</small>
+|<small>Snowman at the [[Secret Area]] rooftop</small>
+|<small>[[Days of Feast]]</small>
+|-
+|[[Days of Feast#Winter Feast Snowglobe|Winter Feast Snowglobe]]
+|{{Days Item|Winter Feast Snowglobe|Spell|table}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Snowman at the [[Secret Area]] rooftop</small>
+|<small>[[Days of Feast]]</small>
+|-
+|[[Days of Feast#Tournament Skyball Set|Tournament Skyball Set]]
+|{{Days Item|Tournament Skyball Set|Spell|table}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>One time use</small>
+|<small>[[Sleepy Traveling Merchant's Boat]]</small>
+|<small>[[Days of Feast]]</small>
+|-
+|[[Days of Feast#Snowkid Prop|Snowkid Prop]]
+|{{Days Item|Snowkid Prop|Spell|table}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>One time use</small>
+|<small>[[Sleepy Traveling Merchant's Boat]]</small>
+|<small>[[Days of Feast]]</small>
+|-
+|[[Days of Feast#Winter Feast Snowboard|Winter Feast Snowboard]]
+| {{Days Item|Winter Feast Snowboard|Spell|table}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+| <small>[[Sleepy Traveling Merchant's Boat]]</small>
+|<small>[[Days of Feast]]</small>
+|-
+| [[Days of Feast#Course Creation Prop|Course Creation Prop]]
+|{{Days Item|Course Creation Prop|Spell|table}}
+|<small>x2</small>
+|<small>{{Cost|1 C}}</small>
+|<small>One time use</small> 
+|<small>[[Sleepy Traveling Merchant's Boat]]</small>
+|<small>[[Days of Feast]]</small>
+|-
+! colspan="7" style="text-align:center;" |'''Random [[Traveling Spirits|Traveling Spirit]] Spells'''
+|-
+|[[Lazy Days#Double Deck Chairs|Double Deck Chairs]]
+| {{Icon|Days of summer summer chair spell.png|table|label=Double Deck Chairs|link=Lazy Days#Double Deck Chairs}} 
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+| <small>[[Sleepy Traveling Merchant's Boat]]</small>
+|<small>[[Days of Summer]]</small><ref name=":0">Placeable that originally came with Traveling Spirits during Days of Summer and Days of Summer Lights will remain with the Spirits who originally offered them.</ref>
+|-
+| [[Lazy Days#Beach Recliner|Lazy Days Beach Recliner]]
+|{{Icon|Days of summer long chair spell.png|table|label=Lazy Days Beach Recliner|link=Lazy Days#Beach Recliner}}
+| <small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>[[Sleepy Traveling Merchant's Boat]]</small>
+|<small>[[Days of Summer]]</small> <ref name=":0" />
+|-
+|[[Lazy Days#Pipe|Lazy Days Pipe]]
+|{{Icon|Days of summer pipe spell.png|table|label=Lazy Days Pipe|link=Lazy Days#Pipe}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>[[Sleepy Traveling Merchant's Boat]]</small>
+|<small>[[Days of Summer Lights]]</small> <ref name=":0" />
+|-
+|[[Lazy Days#Brazier|Lazy Days Brazier]]
+|{{Icon|Days of summer small fire spell.png|table|label=Lazy Days Brazier|link=Lazy Days#Brazier}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>[[Sleepy Traveling Merchant's Boat]]</small> 
+|<small>[[Days of Summer Lights]]</small> <ref name=":0" />
+|-
+|[[Lazy Days#Wooden Deck Chair Set|Lazy Days Wooden Deck Chair Set]]
+|{{Icon|Days of summer wood chair spell.png|table|label=Lazy Days Wooden Deck Chair Set|link=Lazy Days#Wooden Deck Chair Set}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small> 
+|<small>[[Sleepy Traveling Merchant's Boat]]</small>
+| <small>[[Days of Summer Lights]]</small> <ref name=":0" />
+|-
+! colspan="7" style="text-align:center;" |'''[[Instrument]] spells'''
+|-
+|[[Sky Anniversary#TGC Guitar Pack|TGC Guitar Pack]]
+|{{Days Item|Blue Electric Guitar|Spell|table}}
+|<small>X2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Spell Shop at the [[Secret Area]] rooftop</small>
+| <small>[[Sky Anniversary]]</small>
+|-
+|[[Days of Music#Fledgling Harp|Fledgling Harp]]
+|{{Days Item|Fledgling Harp|Spell|table}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+| <small>Front desk at [[Harmony Hall]]</small>
+|<small>[[Days of Music]]</small> 
+|-
+|[[Days of Music#Rhythm Guitar|Rhythm Guitar]]
+|{{Days Item|Rhythm Guitar|Spell|table}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Front Desk at [[Harmony Hall]]</small> 
+| <small>[[Days of Music]]</small>
+|-
+|[[Days of Music#Triumph Handpan|Triumph Handpan]]
+|{{Days Item|Triumph Handpan|Spell|table}}
+|<small>x2</small>
+| <small>Free</small>
+|<small>30 mins</small>
+|<small>Front Desk at [[Harmony Hall]]</small>
+|<small>[[Days of Music]]</small>
+|-
+|[[Days of Music#Triumph Violin|Triumph Violin]]
+|{{Days Item|Triumph Violin|Spell|table}}
+|<small>x2</small>
+|<small>Free</small>
+| <small>30 mins</small>
+| <small>Front Desk at [[Harmony Hall]]</small> 
+|<small>[[Days of Music]]</small>
+|-
+|[[Days of Music#Triumph Saxophone|Triumph Saxophone]] 
+|{{Days Item|Triumph Saxophone|Spell|table}}
+|<small>x2</small>
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Front Desk at [[Harmony Hall]]</small>
+|<small>[[Days of Music]]</small>
+|-
+! colspan="7" style="text-align:center;" |'''Other Spells'''
+|-
+|[[Days of Fortune#Days of Fortune Manta Fireworks Spell|Days of Fortune Manta Fireworks Spell]]
+| {{Icon|Days-of-Fortune-Manta-Spell-Morybel-0146.png|table|label=Days of Fortune Manta Spell|link=Days of Fortune#Days of Fortune Manta Fireworks Spell}}
+|<small>x5</small>
+|<small>{{Cost|5 C}}</small>
+|<small>One time use</small>
+|<small>[[Sleepy Traveling Merchant's Boat]]</small>
+|<small>[[Days of Fortune]]</small>
+|-
+|[[Days of Fortune#Days of Fortune Jellyfish Fireworks Spell|Days of Fortune Jellyfish Fireworks Spell]] 
+|{{Icon|Days-of-Fortune-Jellyfish-Spell-Morybel-0146.png|table|label=Days of Fortune Jellyfish Fireworks Spell|link=Days of Fortune#Days of Fortune Jellyfish Fireworks Spell}}
+|<small>x5</small>
+|<small>{{Cost|5 C}}</small> 
+| <small>One time use</small>
+|<small>[[Sleepy Traveling Merchant's Boat]]</small>
+|<small>[[Days of Fortune]]</small>
+|-
+|[[Days of Fortune#Days of Fortune Crab Fireworks Spell|Days of Fortune Crab Fireworks Spell]]
+|{{Icon|Days-of-Fortune-Crab-Spell-Morybel-0146.png|table|label=Days of Fortune Crab Fireworks Spell|link=Days of Fortune#Days of Fortune Crab Fireworks Spell}}
+|<small>x5</small> 
+|<small>{{Cost|5 C}}</small>
+|<small>One time use</small>
+|<small>[[Sleepy Traveling Merchant's Boat]]</small>
+|<small>[[Days of Fortune]]</small> 
+|-
+|[[Days of Love#Days of Love Message Crane Spell|Days of Love Message Crane Spell]]
+|{{Icon|Days-of-Love-Message-Crane-Spell-Morybel-0146.png|table|label=Days of Love Message Crane Spell|link=Days of Love#Days of Love Message Crane Spell}}
+|<small>x3</small>
+|<small>{{Cost|8 C}}</small>
+|<small>One time use</small>
+|<small>[[Sleepy Traveling Merchant's Boat]]</small>
+|<small>[[Days of Love]]</small>
+|-
+|[[Days of Love#Message Gondola Spell|Message Gondola Spell]]
+|{{Icon|Message-Gondola-Spell-icon.png|table|label=Message Gondola Spell|link=Days of Love#Message Gondola Spell}}
+|<small>x3</small>
+|<small>{{Cost|2 H}}</small>
+|<small>One time use</small>
+|<small>Mini Spell Shop in [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]]</small>
+|<small>[[Days of Love]]</small>
+|-
+|[[Sky Anniversary#Birthday Cake Spells|Small Birthday Cake Spell]]
+|{{Icon|Days of Sky - Small cake.png|table|label=Small Birthday Cake Spell|link=Sky Anniversary#Birthday Cake Spells}}
+|<small>x1</small>
+|<small>Random for {{Cost|3 C}}</small>
+|<small>One time use</small>
+|<small>Spell Shop at the [[Secret Area]] rooftop</small>
+|<small>[[Sky Anniversary]]</small>
+|-
+|[[Sky Anniversary#Birthday Cake Spells|Medium Birthday Cake Spell]]
+|{{Icon|Days of Sky - Medium cake.png|table|label=Medium Birthday Cake Spell|link=Sky Anniversary#Birthday Cake Spells}}
+| <small>x1</small> 
+|<small>Random for {{Cost|3 C}}</small>
+|<small>One time use</small>
+|<small>Spell Shop at the [[Secret Area]] rooftop</small>
+|<small>[[Sky Anniversary]]</small>
+|-
+|[[Sky Anniversary#Birthday Cake Spells|Large Birthday Cake Spell]]
+|{{Icon|Days of Sky - Large cake.png|table|label=Large Birthday Cake Spell|link=Sky Anniversary#Birthday Cake Spells}}
+|<small>x1</small>
+|<small>Random for {{Cost|3 C}}</small> 
+|<small>One time use</small>
+|<small>Spell Shop at the [[Secret Area]] rooftop</small> 
+|<small>[[Sky Anniversary]]</small>
+|-
+|[[Days of Mischief#Crab Rock Trick Spell|Crab Rock Trick Spell]]
+|{{Icon|Days of Mischief - Crab Rock Trick Spell.png|table|label=Crab Rock Trick Spell|link=Days of Mischief#Crab Rock Trick Spell}}
+|<small>x2</small>
+| <small>Free or</small>
+<small>{{Cost|5 C}}</small>
+|<small>One time use</small>
+|<small>[[Sleepy Traveling Merchant's Boat]] or<br>from Gift Crab in the [[Cackling Crab]]</small>
+|<small>[[Days of Mischief]]</small>
+|-
+|[[Days of Mischief#Candle Trick Spell|Candle Trick Spell]]
+|{{Icon|Days-of-Mischief-candle-trick-spell-Morybel-0146.png|table|label=Candle Trick Spell|link=Days of Mischief#Candle Trick Spell}} 
+|<small>x2</small>
+|<small>Free or</small>
+<small>{{Cost|5 C}}</small>
+|<small>One time use</small> 
+|<small>[[Sleepy Traveling Merchant's Boat]] or<br>from Gift Crab in the [[Cackling Crab]]</small>
+|<small>[[Days of Mischief]]</small>
+|-
+|[[Days of Mischief#Event Currency Trick Spell|Event Currency Trick Spell]]
+|{{Icon|Mischief-Event-currency-Trick-spell.png|table|label=Event Currency Trick Spell|link=Days of Mischief#Event Currency Trick Spell}}
+|<small>x2</small>
+|<small>Free or</small>
+<small>{{Cost|5 C}}</small>
+|<small>One time use</small>
+|<small>[[Sleepy Traveling Merchant's Boat]] or<br>from Gift Crab in the [[Cackling Crab]]</small>
+|<small>[[Days of Mischief]]</small>
+|-
+|[[Days of Mischief#Dark Dragon Repellent Spell|Dark Dragon Repellent Spell]]
+|{{Icon|Days of Mischief - Dark Dragon Repellant spell.png|table|label=Dark Dragon Repellent Spell|in_page=1}}
+|<small>x2</small>
+|<small>{{Cost|1 AC}} or {{Cost|3 AC}}</small>
+|<small>One time use</small> 
+|<small>From Gift Crab in the [[Cackling Crab]] or<br>[[Sleepy Traveling Merchant's Boat]]</small> 
+|<small>[[Days of Mischief]]</small>
+|-
+! colspan="7" style="text-align:center;" |'''Not Collectible'''
+|-
+|[[Tournament of Triumph#Team Cape Spells|Team Prairie Cape]]
+|{{Icon|Team-Prairie-Cape-Spell.png|table|label=Team Prairie Cape|link=Tournament of Triumph#Team Cape Spells}}
+|
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Not collectible; only available for players assigned to Team Prairie after teleporting to the event area from [[Home]] or [[Aviary]]</small>
+|<small>[[Tournament of Triumph]]</small>
+|-
+|[[Tournament of Triumph#Team Cape Spells|Team Forest Cape]]
+|{{Icon|Team-Forest-Cape-Spell.png|table|label=Team Forest Cape|link=Tournament of Triumph#Team Cape Spells}}
+|
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Not collectible; only available for players assigned to Team Forest after teleporting to the event area from [[Home]] or [[Aviary]]</small>
+|<small>[[Tournament of Triumph]]</small>
+|-
+|[[Tournament of Triumph#Team Cape Spells|Team Valley Cape]]
+|{{Icon|Team-Valley-Cape-Spell.png|table|label=Team Valley Cape|link=Tournament of Triumph#Team Cape Spells}}
+|
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Not collectible; only available for players assigned to Team Valley after teleporting to the event area from [[Home]] or [[Aviary]]</small>
+|<small>[[Tournament of Triumph]]</small>
+|-
+|[[Tournament of Triumph#Team Cape Spells|Team Wasteland Cape]]
+|{{Icon|Team-Wasteland-Cape-Spell.png|table|label=Team Wasteland Cape|link=Tournament of Triumph#Team Cape Spells}}
+|
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Not collectible; only available for players assigned to Team Wasteland after teleporting to the event area from [[Home]] or [[Aviary]]</small>
+|<small>[[Tournament of Triumph]]</small>
+|-
+| [[Days of Mischief#Krill Cat's Curse Spell|Krill Cat's Curse Spell]]
+|{{Icon|Krill-Cat-Curse-Spell-Morybel-0146.png|table|label=Krill Cat's Curse Spell|link=Days of Mischief#Krill Cat's Curse Spell}}
+|
+| <small>Free</small>
+|<small>30 mins</small>
+| <small>Only available from the Krill Cat in the [[Cackling Crab]]</small> 
+|<small>[[Days of Mischief]]</small>
+|-
+|[[Days of Mischief#Crab Curse Spell|Crab Curse Spell]]
+|{{Icon|Crab-Curse-Spell-icon.png|table|label=Crab Curse Spell|link=Days of Mischief#Crab Curse Spell}}
+|
+|<small>Free</small>
+|<small>30 mins</small>
+|<small>Only available from Jenova or the Krill Cat in the [[Cackling Crab]]</small>
+|<small>[[Days of Mischief]]</small>
+|-
+|[[Days of Mischief#Green Glow Spell|Green Glow Spell]]
+|{{Icon|Green-Glow-Spell-icon.png|table|label=Green Glow Spell|link=Days of Mischief#Green Glow Spell}}
+|
+|<small>Free</small>
+|<small>10 mins</small>
+|<small>Only available by drinking from the [[Days of Mischief#Mischief Cauldron|Mischief Cauldron Prop]]</small>
+|<small>[[Days of Mischief]]</small>
+|-
+|[[Days of Feast#Hermit Snowman Hair Spell|Hermit Snowman Hair Spell]]
+| {{Icon|Days-of-Feast-Yeti-snowman-Hair-spell-Icon-Morybel-0146.png|table|label=Hermit Snowman Hair Spell|link=Days of Feast#Hermit Snowman Hair Spell}}
+|
+|<small>Free</small>
+| <small>5 mins</small>
+|<small>Only available from sneezing Bearhug Hermit at the [[Village of Dreams]]</small>
+|<small>[[Days of Feast]]</small> 
+|-
+|[[Days of Feast#Hermit Snowman Pants Spell|Hermit Snowman Pants Spell]]
+|{{Icon|Days-of-Feast-Yeti-snowman-Pants-spell-Icon-Morybel-0146.png|table|label=Hermit Snowman Pants Spell|link=Days of Feast#Hermit Snowman Pants Spell}}
+|
+|<small>Free</small>
+|<small>5 mins</small>
+|<small>Only available from sneezing Bearhug Hermit at the [[Village of Dreams]]</small>
+|<small>[[Days of Feast]]</small>
+|-
+|[[Days of Feast#Medal Neck Accessory Spell|Medal Neck Accessory Spell]]
+|{{Icon|Course-Medal-Neck-Accessory-Spell-icon-777-Ed.png|table|label=Medal Neck Accessory Spell|link=Days of Feast#Medal Neck Accessory Spell}}
+|
+|<small>Free</small> 
+|<small>30 mins</small>
+|<small>Only available with the Bearhug Hermit's race challenges or the [[Days of Feast#Course Creation Prop|Course Creation Prop]]</small>
+|<small>[[Days of Feast]]</small>
+|}
+
+{| class="article-table"
+|+ style="white-space:nowrap" colspan="5" text-align:center; |Blessings/Spells Not Specific To A Single Special Event
+!'''Spell'''
+!'''Icon'''
+!'''Duration'''
+!'''Cost'''
+!'''Description'''
+|-
+|[[Spells#Random Dye Blessing|Random Dye Blessing]] 
+|{{Icon|Random-dye-icon-spell.png|table|label=Random Dye Spell|in_page=1}}
+| <small>One time use</small>
+| {{Cost|10 T}}
+| ''Receive one jar of a random dye.''<!--placeholder tagline-->
+|-
+|[[Spells#Specific Color Dye Blessing|Specific Color Dye Blessing]] 
+|{{Icon|Test-dye-container-icon.png|table|label=Random Dye Spell|in_page=1}}
+| <small>One time use</small>
+| {{Cost|10 T}}
+| ''Receive three jars of a specific dye color.''<!--placeholder tagline-->
+|}
+===Random Dye Blessing===
+[[File:Random-dye-icon-spell.png|left|frameless|130x130px]]
+Originally introduced in [[Days of Treasure]] 2025, this instantly gives the player one jar of a random [[Dye]] color upon purchase.
+
+{{Clear}}
+===Specific Color Dye Blessing===
+[[File:Red-dye-container-icon-spell.png|left|frameless|130x130px]]
+
+Introduced in [[Days_of_Fortune#January_2025|Days of Fortune 2025]], this instantly gives the player three jars of [[Dye]] in the specified color upon purchase. The color of dye offered often aligns with the color scheme of the event.
+{{Clear}}
+<gallery widths=75px spacing=small>
+Red-dye-container-icon-spell.png|Red Dye Spell
+Yellow-dye-container-icon-spell.png|Yellow Dye Spell
+Green-dye-container-icon-spell.png|Green Dye Spell
+Cyan-dye-container-icon-spell.png|Cyan Dye Spell
+Blue-dye-container-icon-spell.png|Blue Dye Spell
+Purple-dye-container-icon-spell.png|Purple Dye Spell
+White-dye-container-icon-spell.png|White Dye Spell
+Black-dye-container-icon-spell.png|Black Dye Spell
+</gallery>
+
+==Spells Acquired Via Bugs==
+===Relationship Spell===
+[[File:Teleport-relationship-spell-Morybel-0146.png|left|frameless|65x65px]]
+During March 2021, a '''Relationship Spell''' appeared at the Sleepy Traveler's boat giving their beholder the ability to warp to a friend for 5 minutes regardless of their friendship status. This Spell was initially released for testing out NFC STAR Pins on [[Sky Beta|Beta]] but got released by mistake on Live. This Spell was only available for a couple of days and is no longer offered, but those who had the opportunity to get it still have them on their inventory.
+
+===Umbrella Spell===
+[[File:Mimi-4117 03 laidback pioneer item.png|left|frameless|65x65px]]''"Make you and your friends carry this item for the next 30 mins."''
+
+The Umbrella Spell, initially made available with Patch {{v|0.16.0}}, temporarily allowed you to carry and use the Umbrella Prop offered by the [[Laidback Pioneer]] Traveling Spirit. The Spell could only be obtained at random through some [[Special Events|Special Event]] NPCs or through Spell nodes in the Spirit Trees of current [[Seasonal Spirits]].
+
+Like the [[#Lantern Spell|Lantern Spell]], the Umbrella Spell was a Prop Spell, which means that it was replacing anything you were carrying on your back with the umbrella for the Spell's duration. While the Spell was active, you could pull out and put away your umbrella using the icon in the [[Expression Menu]]. This Spell was only available for a couple of days and is no longer offered, but those who had the opportunity to get it still have them on their inventory.
+
+==Trivia==
+* Players cannot purchase more than 100 of each Spell at a time. However, players can continue to obtain further amounts of Spells when they are obtained from randomized sources, such as [[#Obtaining Blessings|Blessings]] from Spirits.
+* [[Sky × Cinnamoroll Pop-Up Cafe]] is the only event in Sky where free trial Spells were not available.
+* [[#Message Boat Spell|Message Boats]] are featured in a piece of merch from thatskyshop, in the form of the [[That Sky Shop/Wave 6#Message Boats Memo Pad|Message Boats Memo Pad]].
+* When using a temporary Spell on your avatar, small sparkles appear around their feet for as long as the Spell is activated.
+* Several Spells are featured in various merch items from [[That Sky Shop]]. To know more about That Sky Shop products, visit their website: https://thatskyshop.com
+
+==Video Gallery==
+[[File:Sky- Children of the Light- Blessings and Spells (including Resize Spell)|none|thumb|330x330px|link=https://sky-children-of-the-light.fandom.com/wiki/File:Sky-_Children_of_the_Light-_Blessings_and_Spells_(including_Resize_Spell)]]
+
+==References==
+<references />
+
+{{Navigation Box}}
+
+[[ru:Благословения]]
+[[fr:Bénédictions (sorts)]]
+[[pt-br:Bênçãos (Feitiços)]]
+[[ja:祝福と魔法]]
+
+[[Category: Collectibles]]
+[[Category: Advanced Guides]]

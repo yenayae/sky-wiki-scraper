@@ -1,0 +1,58 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type = none
+|image     = Caring-Companion-cutout.png
+|cosmetics = 
+|props     = {{Spirit Item|Caring Companion|prop|infobox}}
+|season    = The Two Embers - Part 1
+|realm     = Golden Wasteland
+|location  = [[The Last City]]
+|ts        = None
+}}
+<section begin="Summary" />The [[Caring Companion]] is a [[Seasonal Spirit]] from the [[Season of Two Embers Part 1]]. The Caring Companion is found in The Last City, inside a Manatee holding pen, in the back left of the area. Note that they can only be visited after completing [[Season of The Two Embers - Part 1#Quest #2|Quest #2]]. The collectible [[#Traveling Spirit|offered]] by this Spirit is a {{Spirit Item|Caring Companion|Prop|label=Butterfly Toy Prop|inline_text}} offered after finishing [[Season of The Two Embers - Part 1#Quest #5|Quest #5]].<section end="Summary" />
+<br>
+<!-- [[File:Caring-Companion-Promo-art.png|none|thumb|320px|TGC's Promo image]]-->
+
+==Memory==
+The Caring Companion can be found in The Last City, inside a Manatee holding pen, in the back left of the area.
+
+The Caring Companion has no conventional memory, but rather a cutscene and a set of interactions. After completing [[Season of The Two Embers - Part 1#Quest #5|Quest #5]] of the Season of The Two Embers - Part 1, players can view their memory and interact with this Spirit. The Caring Companion will also follow the player around in the area, though they will disappear when transitioning to another sub-area or teleporting home. The Manatee Emote Menu can be opened by selecting the {{Emote|Stern Shepherd|inline_text}} icon at the bottom of the screen.
+
+*Petting will make the Manatee fly up in front of the player's avatar, before they pet its head.
+*Cuddle will make the player's avatar sit down and pat on their lap, before the Manatee flies to them, lies down on their back, and gets patted on the belly.
+*Down will make the player's avatar make a downward motion with their hand, after which the Manatee sits down in front of them. Using the {{Emote|Herb Gatherer|inline_text}} Expression will make the Manatee get out of their sitting position and come to the player.
+
+==Cosmetics==
+===<span id="Prop">Prop</span>===
+The [[Prop]] offered by this Spirit is a carved butterfly toy in white, purple and pale pink like the one taken by the Manatee from the [[Tender Toymaker]] during [[Season of The Two Embers - Part 1#Quest #1|Quest #1]], costing {{Cost|12 H}}. It is a placable Prop that can be used to decorate [[Shared Spaces]]. When [[#Memory|visiting the Caring Companion]], the Prop can be thrown away by [[Deep Call|Deep Calling]], which will make the Manatee go and fetch it for the player—other than that, it is a purely cosmetic item with no further functionality. When carried on its owner's back, it appears in its original form. It is '''permanently available''' to all players after unlocking the Friendship Tree's first node, after completing [[Season of The Two Embers - Part 1#Quest #5|Quest #5]].
+{{#tag:gallery
+|{{Icon Name|Caring Companion|Prop|icon}} {{!}} The Prop icon
+{{Icon Name|Caring Companion|Prop|real}} {{!}} The Prop
+{{Icon Name|Caring Companion|prop|back}} {{!}} The Prop on a player's back
+Caring-Companion-Holding-Toy.png {{!}} Caring Companion holding the Prop
+|widths=125|spacing=small|captionalign=center|mode=nolines
+}}
+
+==Season Friendship Tree ==
+This [[Seasonal Spirits#Seasonal Spirit Trees|Friendship Tree]] shows all the collectibles that can be purchased from this [[Seasonal Spirit]]. Unlike typical Seasonal Spirits, all items remain available to all players who have completed the [[Season of The Two Embers - Part 1#Quest #5|Quest #5]] from the Season of The Two Embers - Part 1 and cost regular [[Currency]].
+<section begin="Season Friendship Tree" />
+{{Friendship Tree
+|spirit = Caring Companion
+|image  = Caring-Companion-cutout.png
+
+|type   = season
+|season = Two Embers Part 1
+
+|nodeC2 = prop 12 H
+
+|nodeL1 = Heart free
+|nodeC1 = quest
+|  linkC1 = Caring Companion#Memory
+}}<section end="Season Friendship Tree" />
+
+==Trivia==
+*The Caring Companion wasn't showcased in the first update of the Season of Two Embers - Part 1, but traces of its presence could be viewed in the closet in the form of the [[#Prop|Butterfly Toy Prop]].
+
+[[pt-br:Companheiro Cuidadoso]]
+[[ja:寄り添うお友だち]]
+[[fr:Compagnon attentionné]]

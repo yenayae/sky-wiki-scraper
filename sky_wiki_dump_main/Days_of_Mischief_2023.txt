@@ -1,0 +1,325 @@
+{{SkyEvent
+| image = Days-of-Mischief-promo-image-2023.png
+| previousevent = [[Days of Mischief/2022|2022]]
+| nextevent = [[Days of Mischief/2024|2024]]
+| date = October 23 to November 12, 2023
+| years = {{#lst:Days of Mischief|Mischief Years}}
+}}
+{{#ev:youtube|F5oFIHswx10||right|Days of Mischief 2023 Trailer}}
+Days of Mischief was back for a fifth year in a row! The event began on '''Monday, October 23, 2023 at 00:00 PDT (UTC-7)''' and ended on '''Sunday, November 12, 2023 at 23:59 PST (UTC-8)''', lasting '''21''' days. For the duration of the event, the Herald of Mischief appeared in [[Home]], offering to take players directly to [[The Cackling Crab]].
+
+[[The Cackling Crab]] transformed each week of the 3-week event, as Spirits moved around and even learned to play tricks of their own.
+
+For the occasion, the [[Dark Crabs|Crabs]] have taken over! Watch your step as you explore The Cackling Crab, as a new underground cave and two mazes have been added to the area, filled with tricks, treats, and even some [[Pieces of Light|Light]] to discover. There are three phases, each spanning a week:
+
+* Phase One: The Crabs have captured Skidmore and a new unnamed Spirit (wearing [[Tumbling Troublemaker#Hair|Tumbling Troublemaker]]'s Hair, [[Abyss Guide#Ultimate Headpiece|Abyss Guide]]'s Ultimate Head Accessory, [[Ceasing Commodore#Cape|Ceasing Commodore]]'s Cape, [[Anxious Angler#Outfit|Anxious Angler]]'s Outfit, the [[Lazy Days#Seashell Hairpin|Seashell Hairpin]], and the [[Remembrance Guide#Crab Plush|Crab Plush]] Prop) provides the Krill Cat's Curse Spell.
+* Phase Two: Skidmore is freed and "Jenova" escapes his own prison, transforming into a Crab that provides the Crab Curse Spell.
+* Phase Three: Samantha, Yoshi, and Nat are freed from the influence of the Crabs, while Jenova is once again back in his jail. The mischievous Krill Cat that orchestrated the devious events now provides the Crab Curse Spell.
+
+With Patch {{v|0.23.0}}, TGC originally changed how older IAP and IGC (in-game currency) event items were brought back: starting with Days of Mischief this year, each event would offer IAP and IGC from the current year and the previous year, and items older than the previous year would be made available on a separate schedule outside their related event. '''However, on October 27, they reverted this change'''<ref>https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/faq/1239-patch-notes---october-12-2023---0-23-0-232737-android-ios-huawei-232287-ps4-switch/#days-of-mischief</ref>. For Days of Mischief 2023, this means that:
+*All prior IGC items will be available for all platforms
+*All prior IAP items will be available for iOS and Android platforms (unfortunately these are the only platforms that items can be returned to within the timeframe of the event)
+*For Days of Feast and all events after Days of Mischief, all items from current and prior years will be offered together during their event.
+
+<small>Days of Mischief content is available to all players who have progressed to at least Vault of Knowledge.</small>
+
+<gallery widths="200px">
+Days-of-Mischief-2023-Mischief-Guide-mimi4117-sam6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & mimi4117
+Days-of-Mischief-2023-Tickets-mimi4117-sam6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & mimi4117
+Days-of-Mischief-2023-Available-IAP-mimi4117-sam6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & mimi4117
+Days-of-Mischief-2023-Old-IAP-mimi4117-sam6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & mimi4117
+</gallery>
+
+===Ticket Locations===
+[[File:Days-of-Mischief-Candy-Ticket.png|125px|thumb|A Days of Mischief candy Ticket]]
+A total of {{Cost|6 T|event=mischief}} candy-shaped Tickets were available each day:
+
+*{{Cost|4 T|event=mischief}} hidden throughout The Cackling Crab (see rotations below)
+*{{Cost|1 T|event=mischief}} from receiving a curse by interacting with the Spirit at the entrance (Week 1), with the Crab wearing the party hat in the underground lair (Week 2), with the Krill Cat (Week 3) 
+*{{Cost|1 T|event=mischief}} from stepping into the red spotlight of the Giant Crab in the underground lair
+{{Collapse
+|float= left
+|label= All Exact Ticket Locations
+|content=<u>'''Locations:'''</u>
+<u>'''Rotation A:'''</u>
+* {{Cost|1 T|event=mischief}}Cauldron area: Next to the tombstones, underneath the tree roots
+* {{Cost|1 T|event=mischief}}Cauldron area: Left of the big cauldron when entering the area
+* {{Cost|1 T|event=mischief}}New underground lair: Right of the Giant Crab
+* {{Cost|1 T|event=mischief}}New underground lair: Next to the Mischief Staff, stuck behind bars (Slip through the top of the gate or find a tunnel to the left)
+<u>'''Rotation B:'''</u>
+* {{Cost|1 T|event=mischief}}Past the Exit Staircase: Top left of the hill above the illuminated exit door
+* {{Cost|1 T|event=mischief}}Past the Exit Staircase: Above a white mound, behind the exit hole in the ground
+* {{Cost|1 T|event=mischief}}Past the Exit Staircase: On a little platform under the cobweb covering the hole in the ground 
+* {{Cost|1 T|event=mischief}}New underground lair: In the alcove under the Giant Crab
+<u>'''Rotation C:'''</u>
+* {{Cost|1 T|event=mischief}}Cauldron area: Left of the big cauldron, on top of the lantern
+* {{Cost|1 T|event=mischief}}Cauldron area: Left of the exit staircase, in the sewer pipe alcove with the crabs
+* {{Cost|1 T|event=mischief}}Cauldron area: Right of the exit staircase, in the tree hollow
+* {{Cost|1 T|event=mischief}}Cauldron area: Next to the trapped Jenova (Take the staircase underneath the tree roots)
+}}
+<br>
+Players could also buy additional Tickets (costing {{Cost|2 AC}} or {{Cost|6 C}} each) from the [[Spell Shops#Sleepy Traveler's Boat|Sleepy Traveler's boat]] at Home.
+{| class="article-table mw-collapsible mw-collapsed" style="float:right; text-align:center;"
+! colspan="3" | '''Ticket Rotations'''
+|-
+! '''Date'''
+! '''Rotation'''
+! '''Daily Total'''
+|-
+| October 23, 2023
+| A
+| {{Cost|{{#vardefineecho:D1|6}} T|event=mischief}}
+|-
+| October 24, 2023
+| B
+| {{Cost|{{#vardefineecho:D2|6}} T|event=mischief}}
+|-
+| October 25, 2023
+| B
+| {{Cost|{{#vardefineecho:D3|6}} T|event=mischief}}
+|-
+| October 26, 2023
+| C
+| {{Cost|{{#vardefineecho:D4|6}} T|event=mischief}}
+|-
+| October 27, 2023
+| A
+| {{Cost|{{#vardefineecho:D5|6}} T|event=mischief}}
+|-
+| October 28, 2023
+| A
+| {{Cost|{{#vardefineecho:D6|6}} T|event=mischief}}
+|-
+| October 29, 2023
+| B
+| {{Cost|{{#vardefineecho:D7|6}} T|event=mischief}}
+|-
+| October 30, 2023
+| C
+| {{Cost|{{#vardefineecho:D8|6}} T|event=mischief}}
+|-
+| October 31, 2023
+| A
+| {{Cost|{{#vardefineecho:D9|6}} T|event=mischief}}
+|-
+| November 1, 2023
+| A
+| {{Cost|{{#vardefineecho:D10|6}} T|event=mischief}}
+|-
+| November 2, 2023
+| B
+| {{Cost|{{#vardefineecho:D11|6}} T|event=mischief}}
+|-
+| November 3, 2023
+| C
+| {{Cost|{{#vardefineecho:D12|6}} T|event=mischief}}
+|-
+| November 4, 2023
+| C
+| {{Cost|{{#vardefineecho:D13|6}} T|event=mischief}}
+|-
+| November 5, 2023
+| A
+| {{Cost|{{#vardefineecho:D14|6}} T|event=mischief}}
+|-
+| November 6, 2023
+| B
+| {{Cost|{{#vardefineecho:D15|6}} T|event=mischief}}
+|-
+| November 7, 2023
+| B
+| {{Cost|{{#vardefineecho:D16|6}} T|event=mischief}}
+|-
+| November 8, 2023
+| C
+| {{Cost|{{#vardefineecho:D17|6}} T|event=mischief}}
+|-
+| November 9, 2023
+| A
+| {{Cost|{{#vardefineecho:D18|6}} T|event=mischief}}
+|-
+| November 10, 2023
+| B
+| {{Cost|{{#vardefineecho:D19|6}} T|event=mischief}}
+|-
+| November 11, 2023
+| B
+| {{Cost|{{#vardefineecho:D20|6}} T|event=mischief}}
+|-
+| November 12, 2023
+| C
+| {{Cost|{{#vardefineecho:D21|6}} T|event=mischief}}
+|-
+! colspan="2" style="text-align:center;" | '''Total so far'''
+! style="text-align:center;" | '''{{Cost|{{#expr: ({{#var:D1}} + {{#var:D2}} + {{#var:D3}} + {{#var:D4}} + {{#var:D5}} + {{#var:D6}} + {{#var:D7}} + {{#var:D8}} + {{#var:D9}} + {{#var:D10}} + {{#var:D11}} + {{#var:D12}} + {{#var:D13}} + {{#var:D14}} + {{#var:D15}} + {{#var:D16}} + {{#var:D17}} + {{#var:D18}} + {{#var:D19}} + {{#var:D20}} + {{#var:D21}}) }} T|event=mischief}}'''
+|}
+
+{{Friendship Tree
+|label  = Mischief Staff
+|event = Mischief
+|image = Days of Mischief - Skidmore.png
+
+|nodeC4 = {{Icon Name|Mischief Spooky Dining Set|icon}} 33 H
+|  labelC4 = {{Icon Name|Mischief Spooky Dining Set|name}}
+|  linkC4  = Days of Mischief#{{Icon Name|Mischief Spooky Dining Set|name}}
+|  noteC4 = <ref name="returned_items">This node was introduced later in the event (on October 27) as a result of TGC's decision to bring back items from previous years.</ref>
+
+|nodeL3 = {{Icon Name|Mischief Witch Hair|icon}} 66 C
+|  labelL3 = {{Icon Name|Mischief Witch Hair|name}}
+|  linkL3 = Days of Mischief#{{Icon Name|Mischief Witch Hair|name}}
+|  noteL3 = <ref name="returned_items"/>
+|nodeC3 = Spell5
+|  labelC3 = Spell
+|  linkC3  = Spells
+|  noteC3 = <ref name="returned_items"/>
+|nodeR3 = {{Icon Name|Mischief Withered Cape|icon}} 99 C
+|  labelR3 = {{Icon Name|Mischief Withered Cape|name}}
+|  linkR3 = Days of Mischief#{{Icon Name|Mischief Withered Cape|name}}
+|  noteR3 = <ref name="returned_items"/>
+
+|nodeL2 = {{Icon Name|Mischief Goth Boots|icon}} 16 T
+|  labelL2 = {{Icon Name|Mischief Goth Boots|name}}
+|  linkL2 = Days of Mischief#{{Icon Name|Mischief Goth Boots|name}}
+|nodeC2 = Spell5
+|  labelC2 = Spell
+|  linkC2  = Spells
+|nodeR2 = {{Icon Name|Mischief Goth Garment|icon}} 41 T
+|  labelR2 = {{Icon Name|Mischief Goth Garment|name}}
+|  linkR2 = Days of Mischief#{{Icon Name|Mischief Goth Garment|name}}
+
+|nodeL1 = {{Icon Name|Mischief Tufted Hair|icon}} 44 C
+|  labelL1 = {{Icon Name|Mischief Tufted Hair|name}}
+|  linkL1  = Days of Mischief#{{Icon Name|Mischief Tufted Hair|name}}
+|nodeC1 = Spell5
+|  labelC1 = Spell
+|  linkC1  = Spells
+|nodeR1 = {{Icon Name|Mischief Crabkin Accessory|icon}} 24 T
+|  labelR1 = {{Icon Name|Mischief Crabkin Accessory|name}}
+|  linkR1  = Days of Mischief#{{Icon Name|Mischief Crabkin Accessory|name}}
+}}
+{{Clear}}
+
+===2023 New Cosmetics and Props===
+====Mischief Gossamer Cape====
+::'''''"Light as air, heavy on elegance."'''''
+The Mischief Gossamer Cape is a transparent cape with a white spider web design. This [[Cape]] was introduced in 2023 for {{Cost|14.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>{{Dye_Details}}
+<br>
+{{#tag:gallery
+|{{Icon Name|Gossamer Cape|iap}} {{!}} {{Icon Name|Gossamer Cape|name}} IAP
+{{Icon Name|Gossamer Cape|icon}} {{!}} {{Icon Name|Gossamer Cape|name}} icon
+{{Icon Name|Gossamer Cape|front}} {{!}} {{Icon Name|Gossamer Cape|name}} front
+{{Icon Name|Gossamer Cape|interior}} {{!}} {{Icon Name|Gossamer Cape|name}} interior
+{{Icon Name|Gossamer Cape|real}} {{!}} {{Icon Name|Gossamer Cape|name}} back
+{{Icon Name|Gossamer Cape|exterior}} {{!}} {{Icon Name|Gossamer Cape|name}} exterior
+{{Icon Name|Gossamer Cape|spell}} {{!}} {{Icon Name|Gossamer Cape|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Mischief Crabula Cloak====
+::'''''"Embrace the enchanting mystique of the night."'''''
+The Mischief Crabula Cloak is a long black cloak with a high collar and red interior. This [[Cape]] was introduced in 2023 for {{Cost|14.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>{{Dye_Details
+|area1=the red interior
+|cost1=3
+}}<br><br>
+{{#tag:gallery
+|{{Icon Name|Crabula Cloak|iap}} {{!}} {{Icon Name|Crabula Cloak|name}} IAP
+{{Icon Name|Crabula Cloak|icon}} {{!}} {{Icon Name|Crabula Cloak|name}} icon
+{{Icon Name|Crabula Cloak|front}} {{!}} {{Icon Name|Crabula Cloak|name}} front
+{{Icon Name|Crabula Cloak|interior}} {{!}} {{Icon Name|Crabula Cloak|name}} interior
+{{Icon Name|Crabula Cloak|real}} {{!}} {{Icon Name|Crabula Cloak|name}} back
+{{Icon Name|Crabula Cloak|exterior}} {{!}} {{Icon Name|Crabula Cloak|name}} exterior
+{{Icon Name|Crabula Cloak|spell}} {{!}} {{Icon Name|Crabula Cloak|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Mischief Crabula Mask====
+::'''''"Transform your visage into something dark and mysterious."'''''
+The Mischief Crabula Mask is a gray, angular half-mask that resembles a [[Dark Crabs|Dark Crab]]. This [[Mask]] was introduced in 2023 for {{Cost|2.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>{{Dye_Details}}
+<br>
+{{#tag:gallery
+|{{Icon Name|Crabula Mask|iap}} {{!}} {{Icon Name|Crabula Mask|name}} IAP
+{{Icon Name|Crabula Mask|icon}} {{!}} {{Icon Name|Crabula Mask|name}} icon
+{{Icon Name|Crabula Mask|real}} {{!}} {{Icon Name|Crabula Mask|name}}
+{{Icon Name|Crabula Mask|spell}} {{!}} {{Icon Name|Crabula Mask|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Mischief Goth Garment====
+The Mischief Goth Garment is a black wrap edged with [[Dark Crabs]] layered over a gray skirt and a black long-sleeved top. This [[Outfit]] was introduced in 2023 for {{Cost|41 T|event=Mischief}} from the Mischief Staff for the duration of the event.<br>
+<br>{{Dye_Details
+|area1=the gray skirt
+|cost1=2
+}}<br><br>
+{{#tag:gallery
+|{{Icon Name|Goth Garment|icon}} {{!}} {{Icon Name|Goth Garment|name}} icon
+{{Icon Name|Goth Garment|real}} {{!}} {{Icon Name|Goth Garment|name}} front
+{{Icon Name|Goth Garment|back}} {{!}} {{Icon Name|Goth Garment|name}} back
+{{Icon Name|Goth Garment|spell}} {{!}} {{Icon Name|Goth Garment|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Mischief Crabkin Accessory====
+The Mischief Crabkin Accessory is a small [[Dark Crabs|Crab]]-shaped pumpkin that sits on your head. This [[Hair Accessory]] was introduced in 2023 for {{Cost|24 T|event=Mischief}} from the Mischief Staff for the duration of the event.<br>{{Dye_Details}}
+<br>
+{{#tag:gallery
+|{{Icon Name|Crabkin Accessory|icon}} {{!}} {{Icon Name|Crabkin Accessory|name}} icon
+{{Icon Name|Crabkin Accessory|real}} {{!}} {{Icon Name|Crabkin Accessory|name}}
+{{Icon Name|Crabkin Accessory|spell}} {{!}} {{Icon Name|Crabkin Accessory|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Mischief Goth Boots====
+The Mischief Goth Boots are a pair of tall black boots with silver straps. These [[Shoes]] were introduced in 2023 for {{Cost|16 T|event=Mischief}} from the Mischief Staff for the duration of the event.<br>{{Dye_Details}}
+<br>
+{{#tag:gallery
+|{{Icon Name|Goth Boots|icon}} {{!}} {{Icon Name|Goth Boots|name}} icon
+{{Icon Name|Goth Boots|real}} {{!}} {{Icon Name|Goth Boots|name}}
+{{Icon Name|Goth Boots|spell}} {{!}} {{Icon Name|Goth Boots|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+===2023 New Spells===
+====Event Currency Trick Spell====
+The Event Currency Trick Spell temporarily places a floating Mischief candy on the player's head for 8 minutes. Play tricks on other players by burrowing and pretending to be a {{Cost| T|event=mischief}}. Players hidden in the ground can jump back out to spook anyone who tries to claim the candy. This [[Spell]] was introduced in 2023 for free from the Gift Crab in the [[Cackling Crab]]'s main area and from the Sleepy Traveler's boat at [[Home]] for {{Cost|5 C}}.<br>
+<br>
+<gallery widths="125" spacing="small" captionalign="center">
+Mischief-Event-currency-Trick-spell.png|Event Currency Trick Spell icon
+Mischief-Event-Currency-Trick-Spell-Skykid.png|Event Currency Trick Spell
+</gallery>
+
+====<span id="Crab Hair Accessory Spell">Crab Face Accessory Spell</span>====
+The Crab Hair Accessory Spell temporarily gives players a [[Face Accessory]] of a [[Dark Crabs|Crab]] with red eyes that covers the top half of the player's head for 30 minutes. This [[Spell]] was introduced in 2023 for free from the Mini Spell shop Pumpkin in the Cackling Crab's basement and from the Sleepy Traveler's boat at [[Home]] for {{Cost|2 T|event=mischief}}. ''Note that this Face Accessory is only available as a Spell.''<br>
+<br>
+<gallery widths="125" spacing="small" captionalign="center">
+Mischief-Crab-Head-Accessory-spell.png|Crab Face Accessory Spell icon
+Mischief-Crab-Head-Accessory-Spell-Skykid.png|Crab Face Accessory Spell
+</gallery>
+
+====Crab Curse Spell====
+The Crab Curse Spell temporarily transform players into a [[Dark Crabs|Crab]] for 30 minutes. Charging into any players as a Crab will spread the curse and turn them into Crabs as well. In this form, players cannot light candles, fly, use Spells or Props, or open [[Spirit Gate|Spirit Gates]]. This [[Spell]] was introduced in 2023 and is not collectible; it is only available with Jenova in [[The Cackling Crab]]'s basement '''on the second week of the event''' or with the Krill Cat '''on the third week of the event'''. '' Note that unless you cancel the Spell, you’re still affected by the Crab Curse until it wears off, even if you leave the Days of Mischief area.''<br>
+<br>
+<gallery widths="125" spacing="small" captionalign="center">
+Crab-Curse-Spell-icon.png|Crab Curse Spell icon
+Uncorrugated-Dark-Crab.png|Crab Curse Spell
+</gallery>
+
+==Trivia==
+*The Days of Mischief Staff NPCs are based on TGC employees<ref>"Office spirits are actually just tgc employees" [https://discord.com/channels/575762611111592007/632004389137154048/702006252946849862 Ash's post]</ref>: Skidmore (Adam Skidmore), Samantha (Samantha Cruse), Yoshi (Yoshi Saito) and Nat (Natalie Nichols).
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Days-of-Mischief-promo-image-2023.png|2023 Promo Image
+DoMischief-2023-Ticket-promo-image.png|2023 Promo Image
+DoMischief-2023-Firepit-promo-image.png|2023 Promo Image
+DoMischief-2023-Crab-promo-image.jpg|2023 Promo Image
+DoMischief-2023-Curse-promo-image.jpg|2023 Promo Image
+</gallery>
+
+==References==
+'''More information about the Days of Mischief 2023 can be found on [https://www.thatskygame.com/news/days-of-mischief-2023-tricks-and-transformations ThatSkyGame's Website].'''
+<references />
+
+{{#lst:Days of Mischief|Mischief Navbox}}
+
+[[pt-br:Dias de Travessuras/2023]]

@@ -1,0 +1,113 @@
+{{Spirit Infobox
+|type      = Non
+|emote_type= None
+|image     = The-Cellists-Beginnings-Shop.png
+|cosmetics = <!--
+-->{{Spirit Item|The Cellist's Beginnings|Outfit|infobox}}<!--
+-->{{Spirit Item|The Cellist's Beginnings|Hair|infobox}}
+|props	   = {{Spirit Item|The Cellist's Beginnings|Prop|infobox}}
+|season    = Duets
+|realm     = Aviary Village
+|location  = Concert Hall
+|related   = <!--
+-->{{Spirit|Compassionate Cellist|infobox}}<!--
+-->{{Spirit|The Cellist's Flourishing|infobox}}<!--
+-->{{Spirit|The Musicians' Legacy|infobox}}<!--
+-->{{Spirit|The Pianist's Beginnings|infobox}}<!--
+-->{{Spirit|The Pianist's Flourishing|infobox}}<!--
+-->{{Spirit|Duets Guide|infobox}}
+|ts        = None
+}}
+<section begin="Summary" />'''The Cellist's Beginnings''' is a [[Ancestors#Seasonal Entities|Seasonal Shop]] from the [[Season of Duets]]. The Cellist's Beginnings is found in the [[Concert Hall]] in [[Aviary Village]], within the curtained hallway behind the stage after completing the [[Season of Duets#Quest #1|first Seasonal Quest]]. Unlike typical [[Seasonal Spirits]], there is no need to first relive a [[Spirit Memories|spirit memory]] to access this Shop and it does not offer an [[Expression]]. The collectibles offered by this Shop are an {{Spirit Item|The Cellist's Beginnings|Outfit|inline_text}}, a {{Spirit Item|The Cellist's Beginnings|Hair|inline_text}}, and a {{Spirit Item|The Cellist's Beginnings|Prop|inline_text|label=Conch Wall Poster Prop}}.<section end="Summary" />
+
+==Cosmetics==
+===<span id="Outfit">Outfit</span>===
+The [[Outfit]] offered by this Shop is a light gray sleeveless dress with a scalloped collar piece and maroon leggings. When worn, light yellow tattoos appear on the player's bare wrists. It was offered to all players for {{Cost|32 SC|season=Duets}} during the Season, from the Friendship Tree's third node ({{Cost|78 SC|season=Duets}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|The Cellist's Beginnings|outfit|icon}} {{!}} The Outfit icon
+{{Icon Name|The Cellist's Beginnings|outfit|real}} {{!}} The Outfit front
+{{Icon Name|The Cellist's Beginnings|outfit|back}} {{!}} The Outfit back
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines
+}}
+
+===<span id="Hair">Hair</span>===
+The [[Hair]] offered by this Shop is a high bun with blunt bangs and a pair of loose, curly strands that frame the player's face. It was offered to all players for {{Cost|20 SC|season=Duets}} during the Season, from the Friendship Tree's first node ({{Cost|20 SC|season=Duets}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|The Cellist's Beginnings|hair|icon}} {{!}} The Hair icon
+{{Icon Name|The Cellist's Beginnings|hair|real}} {{!}} The Hair front
+{{Icon Name|The Cellist's Beginnings|hair|side}} {{!}} The Hair side
+{{Icon Name|The Cellist's Beginnings|hair|back}} {{!}} The Hair back
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines
+}}
+
+===<span id="Prop">Prop</span>===
+The [[Prop]] offered by this Shop is a blue and white rectangular poster that depicts a bubbling conch sitting on a round base (closely resembling the [[Nesting Workshop#Music Player|Music Player Prop]]). It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, it appears as a blue bag with a yellow drawstring. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|46 SC|season=Duets}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|The Cellist's Beginnings|prop|icon}} {{!}} The Prop icon
+{{Icon Name|The Cellist's Beginnings|prop|real}} {{!}} The Prop
+{{Icon Name|The Cellist's Beginnings|prop|back}} {{!}} The Prop on a player's back
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines
+}}
+<!--   ONLY APPLICABLE ONCE SPIRIT HAS BECOME A TRAVELING SPIRIT 
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling
+|ts_dates=*MONTH DAY, YEAR (#NUMBER)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = The Cellist's Beginnings
+|image = The-Cellists-Beginnings-Shop.png
+|season = Duets
+
+|nodeC6 = Outfit 60 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Mask 30 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+The hints given before The Cellist's Beginnings' first appearance were: 
+{{Collapse
+|label=First Visit Hints
+|content=<div>
+*  [ hints can be on the official Sky Discord which are posted a few days before the traveling spirit by staff of thatgamecompany. ]
+</div>
+}}-->
+
+==Season Friendship Tree ==
+{{Friendship Tree Info | season| season=Duets}} <section begin="Season Friendship Tree" />
+{{Friendship Tree
+|spirit = The Cellist's Beginnings
+|image  = The-Cellists-Beginnings-Shop.png
+|type   = season
+|season = Duets
+
+|nodeC4 = season_heart 3 SC SP
+
+|nodeL3 = spellx SP
+|nodeC3 = Outfit 32 SC
+
+|nodeL2 = Prop SP
+|nodeC2 = spellx 26 SC
+
+|nodeL1 = spellx SP
+|nodeC1 = Hair 20 SC
+}}<section end="Season Friendship Tree" />
+
+==References==
+<references />
+
+[[de:Die Anfänge der Cellistin]]
+[[fr:Les débuts de la Violoncelliste]]
+[[pt-br:Os Primórdios da Violoncelista]]
+[[ja:駆けだしのチェリスト]]
+
+{{DEFAULTSORT:Cellist's Beginnings, The}}

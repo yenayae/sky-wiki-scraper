@@ -1,0 +1,216 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Rhythm-Spirit-Festival-Spin-Dancer.png|Standard
+Rhythm-Spirit-Festival-Spin-Dancer-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Outfit|infobox}}{{Spirit Item||Hair|infobox}}
+|props     = {{Spirit Item||Prop|infobox}}
+|music     = {{Music Sheet|5}}
+|season    = Rhythm
+|realm     = Daylight Prairie
+|location  = Bird Nest
+|ts        = December 21, 2023 (#103)<br>October 14, 2021 (#46)<br/>September 3, 2020 (#17)
+}}
+<section begin="Summary" />The '''Festival Spin Dancer''' is a [[Seasonal Spirit]] from the [[Season of Rhythm]] who offers the {{Emote|Festival Spin Dancer|inline_text}} Expression. The Festival Spin Dancer is found in the [[Bird Nest]], underneath the landing platform at the entrance when arriving from the [[Butterfly Fields]]. The collectibles [[#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Festival Spin Dancer|Outfit|inline_text}}, a {{Spirit Item|Festival Spin Dancer|Hair|inline_text}}, a {{Spirit Item|Festival Spin Dancer|Prop|label=Flag Prop|inline_text}}, and the {{Music Sheet|5|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Festival-Spin-Dancer-third-visit-promo-image.jpg|thumb|320px|none|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|eTI_5rJNQqg|200px|inline|Video Guide by Tara}}
+
+The Festival Spin Dancer can be found in the [[Bird Nest]], underneath the landing platform at the entrance of the area when arriving from the [[Butterfly Fields]]. They are located on the bottom left of the hill that supports the platform. This Spirit has a [[Standard Memory|standard memory]] with 3 memory fragments and a 3-minute overall [[Timed Memory|time limit]]. 
+
+As their memory unfolds, the Festival Spin Dancer can be seen making their way up the hill and to the stone steps to arrive at the landing platform that faces the area's many floating islands.
+
+At the end of the memory, the Festival Spin Dancer takes a bow, hands held straight at their sides, before launching into a spinning dance that they invite the player to imitate.<br>
+<br>
+[[File:01 DP Spirit - Festive Spin Dancer.png|200px|thumb|none|Relive the Festival Spin Dancer's memory]]
+</div>
+{{Clear}}
+
+== Expression ==
+{{Distinguish|type=emote|Spin Trick}}
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Festive-Spin-Dancer-spin-dance-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Festive-Spin-Dancer-spin-dance-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Festive-Spin-Dancer-spin-dance-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Festive-Spin-Dancer-spin-dance-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar throw up their right hand before completing two spins: first making a little jump before spinning to the right and then the left. The dance ends with their left hand extended above their head and the right stretched toward their right foot, face turned to follow the gesture, while rhythmic percussion sound effects play.
+*Level 2 makes the same motion as Level 1 with a pink star trailed by sparkles spinning around your dancing avatar.
+*Level 3 will make your avatar strike unique dance poses according to which buttons you press on a pop-up menu while fun, short percussion accents play. This pop-up menu is identical to the menu used by the player to hit specific notes when playing an [[Instrument]].
+*Level 4 makes the same motion as Level 3 with small sparkles appearing from your avatar's hands.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were a non-standard {{Cost|4 H}}, {{Cost|5 H}}, and {{Cost|10 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+== Cosmetics==
+=== Outfit ===
+The [[Outfit]] offered by this Spirit is a pair of puffy purple pants with boots of that same color, and a light blue wrap top, decorated with golden ornaments at the belt and boots, costing {{Cost|65 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|36 SC|season=Rhythm}} total).<br>{{Dye_Details
+|area1=the main part of the belt, boots
+|cost1=3
+|area2=the top
+|cost2=2
+}}
+<br>
+{{#tag:gallery
+|{{Icon Name||Outfit}} {{!}} The Outfit icon
+{{Icon Name||Outfit|real}} {{!}} The Outfit front
+{{Icon Name||Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Hair ===
+The [[Hair]] offered by this Spirit is a ponytail that fans upwards with a gold hair tie, costing {{Cost|34 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fourth node ({{Cost|36 SC|season=Rhythm}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair front
+{{Icon Name||Hair|side}} {{!}} The Hair side
+{{Icon Name||Hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Prop ===
+The [[Prop]] offered by this Spirit is a pole with a purple flag adorned by the [[Season of Rhythm]] emblem, costing {{Cost|30 C}} from the Traveling Spirit. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality.
+
+This item was not available during the [[Season of Rhythm]]. Instead, it was added to the Festival Spin Dancer's Friend Tree during their second visit as a Traveling Spirit on October 14, 2021.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Prop}} {{!}} The Prop icon
+{{Icon Name||Prop|real}} {{!}} The Prop
+{{Icon Name||Prop|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Music Sheet ==
+The Festival Spin Dancer offers the {{Music Sheet|5}} [[Music Sheet]] #5, costing {{Cost|15 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|10 SC|season=Rhythm}} total). It is a song in the key of C Major.<br>
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guide
+|content=
+{{#ev:youtube|tT04VyON4lA||inline|Music Sheet Video Guide by Ikejiji}}
+}}
+{{Clear}}
+
+== Traveling Spirit ==
+[[File:SoR Prairie TS placeholder.png|200px|right|thumb]]
+{{Friendship Tree Info | traveling
+|ts_dates=*December 21, 2023 (#103)
+*October 14, 2021 (With a new [[#Prop|Prop]]) (#46) 
+*September 3, 2020 (#17)
+}}
+'''Note:''' The price of the Level 3 and 4 Expression upgrades are unusually high: {{Cost|5 H}} and {{Cost|10 H}} respectively, unlike the {{Cost|3 H}} and {{Cost|6 H}} price typically seen for every other Traveling Spirit.
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Festival Spin Dancer
+|season = Rhythm
+|image  = Rhythm-Spirit-Festival-Spin-Dancer.png
+
+|nodeC6 = Outfit 65 C
+|nodeL5 = Hair 34 C
+|nodeC5 = spell5
+|nodeR5 = Prop 30 C NEW
+|nodeL4 = emote4 10 H
+|nodeC4 = emote3 5 H
+|nodeC3 = wing
+|nodeL2 = music5 15 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+No hints were given before the [[Festival Spin Dancer]]'s first appearance.
+
+The hints given before the [[Festival Spin Dancer]]'s second appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Second Visit Hints
+|content=<div>
+* Doesn't have a favorite music genre! They can jam to any kind of tune
+* Would likely be friends with Light Whisperer
+* Is an avid birdwatcher in their spare time
+* Is a great freestyle swimmer
+* Is an extrovert
+* Never gets seasick
+* Loves to sightsee!
+* Runs their own fashion line
+* Enjoys gourmet...toast?!
+* Is not afraid of heights!
+* Is allergic to dairy (don't question how spirits have dairy products shh)
+* Only drinks fancy lattes
+* Got a lot of plasma
+* Would absolutely go to Starbucks
+* Is afraid of bugs
+* Buys a lot of hair product
+* Is always looking for a scenic backdrop
+* Likes reading romance novels
+* Loves exercising 
+* Loves artificial grape flavor
+* Is never late for appointments
+* Uses aromatherapy
+* Likes fizzy drinks!
+* Is a Leo sun, Virgo moon, Capricorn rising (hasn't been examined too deeply)
+</div>
+}}
+
+The hints given before the [[Festival Spin Dancer]]'s third appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Third Visit Hints
+|content=<div>
+*Likes to experiment with style
+</div>
+}}
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Rhythm}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Festival Spin Dancer
+|type   = season
+|season = Rhythm
+|image  = Rhythm-Spirit-Festival-Spin-Dancer.png
+
+|nodeC5 = season_heart 3 SC AP
+|nodeL4 = Outfit AP
+|nodeC4 = Hair 14 SC
+|nodeL3 = emote4 AP
+|nodeC3 = emote3 12 SC
+|nodeL2 = music5 AP
+|nodeC2 = spell5 10 SC
+|nodeL1 = emote2 AP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Unique Daily Quests==
+{{#section-h:Quests/Daily Quest Spirits|{{PAGENAME}}}}
+
+==Trivia==
+*Prior to Patch {{v|0.15.5}}, the Festival Spin Dancer's Music Sheet was identified as Music Sheet #2. The pre-0.15.5 Music Sheet #5 is now labeled as Music Sheet #3.
+*After completing the [[Season_of_Revival#Quest_#4|fourth Quest]] of Season of Revival, the Festival Spin Dancer can also be found in Aviary Village's [[Aviary Village#Hair Salon|Hair Salon]] alongside the [[Rhythm Guide]] but cannot be interacted with.
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Festival-Spin-Dancer-promo-image.jpg
+Festival-Spin-Dancer-first-visit-promo-image.png
+Dance expression .jpg
+Rhythm beta group dance.png
+Rhythm spirit dance map.png
+</gallery>
+
+==References==
+<references/>
+[[de:Festlicher Drehtänzer]]
+[[pt-br:Dançarina Rodopiante de Festival]]
+[[ru:Праздничный танцовщик]]
+[[fr:Tournoyeur de festival]]
+[[ja:祝祭の旋舞家]]

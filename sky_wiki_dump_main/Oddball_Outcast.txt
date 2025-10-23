@@ -1,0 +1,139 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Passage-Oddball-Outcast-Cutout.png|Standard
+Passage-Spirit-Oddball-Outcast-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||outfit|infobox}}{{Spirit Item||Neckpiece|infobox}}{{Spirit Item||Hair|infobox}}
+|props	   = 
+|music     = 
+|season    = Passage
+|realm     = Isle of Dawn
+|location  = Passage Stone
+|ts        = January 13, 2025 (SV#7)
+}}
+<section begin="Summary" />The '''Oddball Outcast''' is a [[Seasonal Spirit]] from the [[Season of Passage]] who offers the {{Emote|Oddball Outcast|inline_text}} Expression. The Oddball Outcast is found in the [[Isle of Dawn]], on the far right side of the [[Passage Stone]], past the small cavern where [[Children_of_Light#Isle_of_Dawn_(9)|Isle WL 4]] is located, near the cloud wall. The collectibles [[#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Oddball Outcast|Outfit|inline_text}}, a {{Spirit Item|Oddball Outcast|Neckpiece|inline_text}}, and a {{Spirit Item|Oddball Outcast|Hair|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Passage-Oddball-Outcast-Introduction.png|thumb|320px|none|TGC's Promo image]]
+
+==Memory==
+<div>{{#ev:youtube|Ev1SkZRrwV0||inline|Video Guide}}
+
+The Oddball Outcast can be found in the [[Isle of Dawn]], on the far right side of the [[Passage Stone]], past the small cavern where [[Children_of_Light#Isle_of_Dawn_(9)|Isle WL 4]] is located, near the cloud wall. (''Note: Meditate next to the Passage Stone campfire and turn Isle of Dawn to nightfall in order to see this Spirit.'') This Spirit has a [[Standard Memory|standard memory]] with 6 memory fragments and a 15-minute overall [[Timed Memory|time limit]]. 
+
+As their memory unfolds, the Oddball Outcast can be seen playing alone with a small ball, tossing it between their feet like a hacky sack. The Spirit accidentally drops the ball down the nearby hill and runs to chase after it. A little bit further away, three adolescent Spirits are playing with a much larger ball and one wanders over to invite the Oddball Outcast to come join their group. The Spirit declines and so, shrugging, the group of adolescents resume their game. As the group disappears in the distance, the Oddball Outcast finds themself alone once again.
+
+At the end of the memory, the Oddball Outcast finally recovers their wayward ball and resumes their game of hacky sack, content to play alone while the group of adolescents leave.
+</div>
+
+==<span id="Expression">Expression</span>==
+This Spirit offers the {{Emote|Oddball Outcast|inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name|Oddball Outcast|emote}}|x170px]]
+<gallery heights="125">
+Oddball-Outcast-Hacky-Sack-emote-level-1.gif|{{Icon Name||emote name}} Level 1
+Oddball-Outcast-Hacky-Sack-emote-level-2.gif|{{Icon Name||emote name}} Level 2
+Oddball-Outcast-Hacky-Sack-emote-level-3.gif|{{Icon Name||emote name}} Level 3
+Oddball-Outcast-Hacky-Sack-emote-level-4.gif|{{Icon Name||emote name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar spawn a small glowing ball from their right hand before throwing it in the air and tossing it from one foot to the other a few times until it lands back in their right hand and they put it away into their side, while tinking sound effects for each ball toss movement play, as well as a bell sound effect as the light first appears. 
+*Level 2 makes the same motion as Level 1, with a thin, glowing, purple trail of light following the movement of the ball.
+*Level 3 will make your avatar spawn a small glowing ball from their right hand, while a bell sound effect plays. Then, they will throw it in the air once and reach behind to throw the ball over their back to the front, where they start to toss it between their feet as performed in Level 1, kicking it in varying moves, while tinking sound effects for each kick play. After a few tosses, they accidentally drop the ball, look around, pick up the ball and  put it away into their side.
+*Level 4 makes the same motion as Level 3, with a thin, glowing, purple trail of light following the movement of the ball.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+==Cosmetics==
+===<span id="Outfit">Outfit</span>===
+The [[Outfit]] offered by this Spirit is a beige robe with rectangle-shaped parts on the sides, and sleeves, dyed magenta, a brown belt, dull-purple pants, and brown boots with a white fur trim and purple string tied around them, costing {{Cost|65 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fifth node ({{Cost|88 SC|season=Passage}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Outfit|icon}} {{!}} The Outfit icon
+{{Icon Name||Outfit|real}} {{!}} The Outfit front
+{{Icon Name||Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Neck Accessory">Neck Accessory</span>===
+The [[Neck Accessory]] offered by this Spirit is a white, fluffy, spiky, faux fur neck collar, which is tied together in the front by a brown string, costing {{Cost|65 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's third node ({{Cost|32 SC|season=Passage}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Neckpiece|icon}} {{!}} The Neck Accessory icon
+{{Icon Name||Neckpiece|real}} {{!}} The Neck Accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Hair">Hair</span>===
+The [[Hair]] offered by this Spirit is a short cut, spiked in the front, with faded sides and back, costing {{Cost|40 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's second node ({{Cost|14 SC|season=Passage}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Traveling Spirit ==
+{{Friendship Tree Info
+| traveling
+| rs_dates= *January 13, 2025 (SV#7)
+}}
+<section begin='TS Friendship Tree' />{{Friendship Tree
+|spirit = Oddball Outcast
+|image  = Passage-Oddball-Outcast-Cutout.png
+|season = Passage
+
+|nodeC6 = outfit 65 C
+|nodeL5 = neckpiece 65 C
+|nodeC5 = spellx 5 C
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = hair 40 C
+|nodeC2 = spellx 5 C
+|nodeR2 = Heart 3 C
+|nodeC1 = emote
+|nodeL1 = emote2 4 H
+}}<section end='TS Friendship Tree' />
+
+<!--
+=== Hints ===
+The hints given before the {{PAGENAME}}'s appearance were: -->
+
+==Season Friendship Tree==
+{{Friendship Tree Info | season| season=Passage}} 
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Oddball Outcast
+|image  = Passage-Oddball-Outcast-Cutout.png
+|type   = season
+|season = Passage
+
+|nodeC6 = season_heart 3 SC SP
+|nodeL5 = spellx SP
+|nodeC5 = outfit 32 SC
+|nodeL4 = emote4 SP
+|nodeC4 = emote3 24 SC
+|nodeL3 = neckpiece SP
+|nodeC3 = spellx 18 SC
+|nodeL2 = spellx SP
+|nodeC2 = hair 14 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Personality==
+On April 16, 2023, TGC officially announced and introduced the Oddball Outcast with the following personality traits:
+
+* 🦶 Stops at every stream to dip their toe in for luck
+* 👂 They’ll notice someone calling their name…eventually
+* ☁️ Likes to start conversations by commenting on cloud shapes
+* 🎐 Daydreams intricate stories about jellyfish whenever they encounter one
+
+== References ==
+<references />
+
+[[fr:Paria farfelu]]
+[[pt-br:Pária Pateta]]
+[[ru:Чудаковатый изгой]]
+[[ja:風変わりなひとり好き]]

@@ -1,0 +1,123 @@
+{{Help|beta}}
+{{Distinguish|Pleaful Parent}}
+{{Spirit Infobox
+|type      = Seasonal
+|image     = Woodcutting-Pleaful-Parent-cutout.png
+|emote_type= none
+|cosmetics = {{Spirit Item|Woodcutting Pleaful Parent|Outfit|infobox}} {{Spirit Item|Woodcutting Pleaful Parent|Shoes|infobox}}
+|music     = {{Music Sheet|43}}
+|season    = the Blue Bird
+|realm     = Hidden Forest
+|location  = Blue Bird Theater
+|ts        = None
+}}
+<section begin="Summary" />The Woodcutting Pleaful Parent is a [[Seasonal Spirit]] from the [[Season of the Blue Bird]]. The Woodcutting Pleaful Parent is found at the Blue Bird Theater in the Elevated Clearing from [[Hidden Forest]].  The collectibles [[#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Woodcutting Pleaful Parent|Outfit|inline_text}}, a pair of {{Spirit Item|Woodcutting Pleaful Parent|Shoes|inline_text}}, 
+and the {{Music Sheet|43|inline_text}}.
+<section end="Summary" /><br><br>
+[[File:Woodcutting-Pleaful-Parent-Promo-art.png|none|thumb|320px|TGC's Promo image]]
+
+==Cosmetics==
+===<span id="Outfit">Outfit</span>===
+The [[Outfit]] offered by this Spirit is a gloved shirt and brown balloon pants with suspenders. The Y-shaped suspenders feature triangular ornaments on the front of each strap. Silver curls decorate the glove cuffs and the pants' sides. It was available to all players for {{Cost|23 SC|season=Blue Bird}} during the Season, from the Friendship Tree's fourth node ({{Cost|68 SC|season=Blue Bird}} total).<!-- Thanks Oz (ozotronic for item description--><br><br>
+{{#tag:gallery
+|{{Icon Name|Woodcutting Pleaful Parent|Outfit|icon}} {{!}} The Outfit icon
+{{Icon Name|Woodcutting Pleaful Parent|Outfit|real}} {{!}} The Outfit front
+{{Icon Name|Woodcutting Pleaful Parent|Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Shoes">Shoes</span>===
+The [[Shoes]] offered by this Spirit are large gray-brown boots with a V-shaped front that is embellished with curled, silver lining. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|27 SC|season=Blue Bird}} total).<br><br>
+{{#tag:gallery
+|{{Icon Name|Woodcutting Pleaful Parent|Shoes|icon}} {{!}} The Shoes icon
+{{Icon Name|Woodcutting Pleaful Parent|Shoes|real}} {{!}} The Shoes
+|widths=125|captionalign=center|spacing=small
+}}
+
+==<span id="Music">Music Sheet</span>==
+The Woodcutting Pleaful Parent offers the {{Music Sheet|43}} [[Music Sheet]] #43<!--, costing {{Cost| ??? C}} from the Traveling Spirit-->. It was available to all players for {{Cost|12 SC|season=Blue Bird}} during the Season, from the Friendship Tree's first node ({{Cost|12 SC|season=Blue Bird}} total). It is a song in the key of C major.<br>
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guide
+|content=
+{{#ev:youtube|blSP0A8H6Wo||inline|Music Sheet Video Guide by Ikejiji}}
+}}
+
+<!--   ONLY APPLICABLE ONCE SPIRIT HAS BECOME A TRAVELING SPIRIT 
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling
+|ts_dates=*June 19, 2019 (#01)
+*June 19, 2020 (#02)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Woodcutting Pleaful Parent
+|image = Woodcutting-Pleaful-Parent-cutout.png
+|season = season
+
+
+|nodeC6 = Outfit 60 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Mask 30 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+-->
+<!--   USE VARIABLES TO CONSTRUCT FRIENDSHIP TREE
+Cosmetics: Outfit Cape Hair Hairpiece Headpiece Facepiece Mask Necklace Outfit Shoes Instrument Prop 
+Expressions; emote emote1 emote2 emote3 emote4 
+Cost: SP for Season Pass, SC for Season Candles, C for Candle, H for Heart, free for Free
+Other: spell5 spellx heart season_heart #Quest #1 
+-->
+
+==Season Friendship Tree ==
+{{Friendship Tree Info | season| season=the Blue Bird}} <section begin="Season Friendship Tree" />
+{{Friendship Tree
+|spirit = Woodcutting Pleaful Parent
+|image  = Woodcutting-Pleaful-Parent-cutout.png
+|type   = season
+|season = Season of the Blue Bird
+
+|nodeL5 = 
+|nodeC5 = season_heart 3 SC SP
+|nodeR5 =
+
+|nodeL4 = spellx SP
+|nodeC4 = outfit 23 SC
+|nodeR4 =
+
+|nodeL3 = Green-dye-container-icon.png SP
+|nodeC3 = Green-dye-container-icon.png 18 SC
+|nodeR3 =
+
+|nodeL2 = shoes SP
+|nodeC2 = spellx 15 SC
+|nodeR2 =
+
+|nodeL1 = spellx SP
+|nodeC1 = music43 12 SC
+|nodeR1 =
+}}<section end="Season Friendship Tree" />
+
+==Personality==
+On May 7, 2025, TGC officially announced and introduced the Radiance Provoking Performer with the following personality traits<ref>[https://archive.ph/pVQE2 https://x.com/thatskygame/status/1920273064081674291]</ref>:
+
+*🥹Tried to keep a wild manta as a pet, but had to let it go when it started getting sick
+*🌲Makes a carving from wood from every forest they’ve visited
+*🪵3-time champion of the local lumberjack games
+*🪶Prefers birds to jellyfish, honestly
+
+==References==
+<references />
+
+{{DEFAULTSORT:the Blue Bird, Season of}}
+
+[[fr:Parent suppliant bûcheron]]
+[[pt-br:Pai Suplicante Lenhador]]
+[[ja:木こりの訴えかける親]]

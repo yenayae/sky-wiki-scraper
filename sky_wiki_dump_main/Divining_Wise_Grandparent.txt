@@ -1,0 +1,122 @@
+{{Help|beta}}
+{{Distinguish|Wise Grandparent}}
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= none
+|image     = Divining-Wise-Grandparent-cutout.png
+|cosmetics = {{Spirit Item|Divining Wise Grandparent|Facepiece|infobox}}{{Spirit Item|Divining Wise Grandparent|Cape|infobox}} 
+|props		= 
+|music		= 
+|season		= the Blue Bird
+|realm		= Hidden Forest
+|location	= Blue Bird Theater
+|ts			 = None
+}}
+<section begin="Summary" />The Divining Wise Grandparent is a [[Seasonal Spirit]] from the [[Season of the Blue Bird]]. The Divining Wise Grandparent is found at the Blue Bird Theater in the Elevated Clearing from [[Hidden Forest]]. The collectibles [[#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Divining Wise Grandparent|Facepiece|inline_text}}, and a {{Spirit Item|Divining Wise Grandparent|Cape|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Divining-Wise-Grandparent-Promo-art.png|none|thumb|320px|TGC's Promo image]]
+
+==Cosmetics==
+===<span id="Face Accessory">Face Accessory</span>===
+The [[Face Accessory]] offered by this Spirit is a headpiece with silver curls sprouting from a diamond-shaped base. The central vane has glowing symbols at the top. It was available to all players for {{Cost|14 SC|season=Blue Bird}} during the Season, from the Friendship Tree's second node ({{Cost|21 SC|season=Blue Bird}} total).<!-- Thanks Oz (ozotronic for item description--><br><br>
+{{#tag:gallery
+|{{Icon Name|Divining Wise Grandparent|Facepiece|icon}} {{!}} The Face Accessory icon
+{{Icon Name|Divining Wise Grandparent|Facepiece|real}} {{!}} The Face Accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Cape">Cape</span>===
+The [[Cape]] offered by this Spirit is butterfly-shaped, with a starry interior. The high-collared shoulder mantle features two silver moons and tassels. The Cape is decorated with a scalloped silver line, and trimmed in the same color. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|59 SC|season=Blue Bird}} total).<!-- Thanks Oz (ozotronic for item description--><br><br>
+{{#tag:gallery
+|{{Icon Name|Divining Wise Grandparent|Cape|icon}} {{!}} The Cape icon
+{{Icon Name|Divining Wise Grandparent|Cape|front}} {{!}} The Cape front
+{{Icon Name|Divining Wise Grandparent|Cape|interior}} {{!}} The Cape interior
+{{Icon Name|Divining Wise Grandparent|Cape|back}} {{!}} The Cape back
+{{Icon Name|Divining Wise Grandparent|Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+<!--   ONLY APPLICABLE ONCE SPIRIT HAS BECOME A TRAVELING SPIRIT 
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling
+|ts_dates=*June 19, 2019 (#01)
+*June 19, 2020 (#02)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Divining Wise Grandparent
+|image  = Divining-Wise-Grandparent-cutout.png
+|season = Season of the Blue Bird
+
+
+|nodeC6 = Outfit 60 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Mask 30 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+The hints given before the Divining Wise Grandparent's first appearance were: 
+{{Collapse
+|label=First Visit Hints
+|content=<div>
+*  [ hints can be on the official Sky Discord which are posted a few days before the traveling spirit by staff of thatgamecompany. ]
+</div>
+}}
+-->
+<!--   USE VARIABLES TO CONSTRUCT FRIENDSHIP TREE
+Cosmetics: Outfit Cape Hair Hairpiece Hairpiece Facepiece Mask Necklace Outfit Shoes Instrument Prop 
+Expressions; emote emote1 emote2 emote3 emote4 
+Cost: SP for Season Pass, SC for Season Candles, C for Candle, H for Heart, free for Free
+Other: spell5 spellx heart season_heart #Quest #1 
+-->
+
+==Season Friendship Tree ==
+{{Friendship Tree Info | season| season=the Blue Bird}} <section begin="Season Friendship Tree" />
+{{Friendship Tree
+|spirit = Divining Wise Grandparent
+|image  = Divining-Wise-Grandparent-cutout.png
+|type   = season
+|season = Season of the Blue Bird
+|nodeL5 = 
+|nodeC5 = season_heart 3 SC SP
+|nodeR5 =
+
+|nodeL4 = Cape SP
+|nodeC4 = Cyan-dye-container-icon.png 21 SC
+|nodeR4 =
+
+|nodeL3 = Random-dye-icon.png SP
+|nodeC3 = Blue-dye-container-icon.png 17 SC
+|nodeR3 =
+
+|nodeL2 = spellx SP
+|nodeC2 = Facepiece 14 SC
+|nodeR2 =
+
+|nodeL1 = Black-dye-container-icon.png SP
+|nodeC1 = Random-dye-icon.png 7 SC
+|nodeR1 =
+}}<section end="Season Friendship Tree" />
+
+==Personality==
+On May 7, 2025, TGC officially announced and introduced the Divining Wise Grandparent with the following personality traits<ref>[https://archive.ph/xDU8M https://x.com/thatskygame/status/1920273067269374166]</ref>:
+
+*🥳Buys birthday presents for people months in advance
+*💭Would rather start a project than finish their current one
+*✨Has running bets on what their grandkids will grow up to be
+*🚀Has to make a new goal as soon as they reach the old one
+
+==References==
+<references />
+
+{{DEFAULTSORT:the Blue Bird, Season of}}
+
+[[pt-br:Avô Sábio Vidente]]
+[[fr:Grand-parent sage divinateur]]
+[[ja:神聖な祖たる賢者]]

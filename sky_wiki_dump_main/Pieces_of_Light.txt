@@ -1,0 +1,1491 @@
+[[File:Piece-of-light.png|thumb|150px|One Piece of Light]]
+'''Pieces of Light''' (also called '''Wax''') are orbs that players can collect to forge [[Currency#Candles|Candles]], one of the main currencies in Sky. They are primarily collected by lighting red Candles or burning [[Darkness|Darkness Plants]] found throughout the [[Realms]]. This page documents sources of Light with permanent locations and precise Light counts. Other sources of Light that are variable, for a limited-time, or involve randomization are documented at [[Additional Light Sources]].
+
+Usually, Light appears as red fire orbs, floating above Candles that are lit or in a location where Darkness has been burned. Blue orbs may appear instead when Darkness is burned near water or when spawned by water-specific Light sources (clams, fish, etc.). Blue and red fire orbs are equivalent and functionally the same.
+
+When a player approaches these Pieces of Light, the Light will fly into their bodies and fill up the Candle meter displayed in the top left corner of the screen. When it is fully filled, the player can click on the meter to forge a Candle, adding it to their total count. Un-claimed Candles continue to stack until they are forged, so players can choose whether they wish to forge them one-by-one or all at once.
+
+Every day at 00:00 midnight Pacific Time (PST/PDT), all Light sources reset. Not all Darkness Plants are available every day, as certain Darkness only appear every other day. In [[Golden Wasteland]] (but not in any other Realm), all Darkness Plants are available on Sundays.<br>
+<br>
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+50357075-885F-493F-8D09-B1731C178F18.jpeg|Candles with and without Light
+Collecting wax.jpeg|Collecting Light on Red Candles
+Burning plant for wax.jpeg|Burning Darkness for Light
+</gallery>
+
+{{Spoilers}}
+
+== Light Sources ==
+There are several ways to collect Light. Some areas can contain their unique Light sources, such as the Small Clams in [[Treasure Reef]] or the Flower Bouquets in [[Village Theater]], but those are documented in the [[Additional Light Sources]] page.
+
+These are some Light sources, each with an estimate of how many Pieces of Light they give:<br>
+<br>
+<gallery widths="150" spacing="small" captionalign="center" hideaddbutton="true" mode="nolines">
+Individual-red-candle.png|'''Red Candle'''<br>1 Piece of Light
+<!--Individual-white-candle.png|'''White Candle'''<br>1 Piece of Light<br>'''Not all''' White Candles provide Light -->
+Candle bunch.png|'''Candle Bunch'''<br>Varies by quantity
+Candle cake.png|'''[[Treasure Candles]]'''<br>50 Pieces of Light
+Abyss-Giant-Clam.png|'''Giant Clam'''<br>6 or 10 Pieces of Light
+Small-darkness.png|'''Darkness Buds'''<br>1 to 2 Pieces of Light
+Medium-individual-darkness.png|'''Small Darkness Plant'''<br>3 Pieces of Light
+Medium-darkness.png|'''Medium Darkness Plant'''<br>12 Pieces of Light
+Large-darkness-plant.png|'''Large Darkness Tree'''<br>26 to 40 Pieces of Light<br>Requires help to burn
+Blue-orb-light.png|'''Underwater Lights'''<br>Varies by quantity
+</gallery>
+
+==Total Light Count (Spoilers)<span id="Total Light Count"></span>==
+
+[[File:Detailed Wax Count by Ceverine.png|150px|thumb|Detailed Wax Count Guide]]
+
+Pieces of Light locations are also visually shown on the non-Dailies versions of the [[Special:AllMaps|Interactive Maps]].
+
+{| class="article-table" style="float:left;"
+|+ Consistent Sources of Light
+! Source
+! Pieces of Light
+! style="text-align:center;"| {{Spoiler Button|id=breakdown|label=Seasonal<br>Area Counts}}
+|-
+| Home
+| <section begin="Home Count" />{{#vardefineecho:home|23}}<section end="Home Count" />{{Cost|L}}
+|
+|-
+| Aviary Village
+| <section begin="Aviary Village Count" />{{#vardefineecho:aviary|23}}<section end="Aviary Village Count" />{{Cost|L}}
+|
+|-
+| Isle of Dawn
+| <section begin="Isle of Dawn Count" />{{#vardefineecho:isle|923}}<section end="Isle of Dawn Count" />{{Cost|L}}
+| {{Spoiler Button|id=breakdown|
+* Cave of Prophecies: <section begin="Cave of Prophecies Count" />679<section end="Cave of Prophecies Count" />{{Cost|L}}}}
+|-
+| Daylight Prairie
+| <section begin="Daylight Prairie Count" />{{#vardefineecho:prairie|742}}<section end="Daylight Prairie Count" />{{Cost|L}}
+| {{Spoiler Button|id=breakdown|
+* Sanctuary Islands: <section begin="Sanctuary Islands Count" />299<section end="Sanctuary Islands Count" />{{Cost|L}}
+* Prairie Peaks: 0 }}
+|-
+| Hidden Forest
+| <section begin="Hidden Forest Count" />{{#vardefineecho:forest-d1|883}}<ref name="forest-offset">This is the amount for Monday, Wednesday, Friday, and Sunday. For Tuesdays, Thursday, and Saturday, the amount is 1 Piece of Light less.</ref><section end="Hidden Forest Count" />{{Cost|L}}
+| {{Spoiler Button|id=breakdown|
+* The Treehouse: <section begin="The Treehouse Count" />55<section end="The Treehouse Count" />{{Cost|L}}
+* The Wind Paths: <section begin="The Wind Paths Count" />198<section end="The Wind Paths Count" />{{Cost|L}} }}
+|-
+| Valley of Triumph
+| <section begin="Valley of Triumph Count" />{{#vardefineecho:valley|898}}+<section end="Valley of Triumph Count" />{{Cost|L}}
+| {{Spoiler Button|id=breakdown|
+* Village of Dreams: <section begin="Village of Dreams Count" />100<section end="Village of Dreams Count" />{{Cost|L}}
+* Hermit Valley: <section begin="Hermit Valley Count" />50<section end="Hermit Valley Count" />{{Cost|L}}
+* Harmony Hall: <section begin="Harmony Hall Count" />100<section end="Harmony Hall Count" />{{Cost|L}} }}
+|-
+| Golden Wasteland
+| <section begin="Golden Wasteland Count" />{{#vardefineecho:wasteland-d1|705}}<ref name="wasteland-offset">This is the amount for Monday, Wednesday, and Friday. For Tuesdays, Thursday, and Saturday, the amount is 1 Piece of Light more.</ref>+<section end="Golden Wasteland Count" />{{Cost|L}} / {{#vardefineecho:wasteland-s|820}}+{{Cost|L}}
+| {{Spoiler Button|id=breakdown|
+* Forgotten Ark: <section begin="Forgotten Ark Count" />109<section end="Forgotten Ark Count" />{{Cost|L}}
+* Treasure Reef: <section begin="Treasure Reef Count" />188<section end="Treasure Reef Count" />{{Cost|L}} }}
+|-
+| Vault of Knowledge
+| <section begin="Vault of Knowledge Count" />{{#vardefineecho:vault|736}}<section end="Vault of Knowledge Count" />{{Cost|L}}
+| {{Spoiler Button|id=breakdown|
+* Starlight Desert: <section begin="Starlight Desert Count" />140<section end="Starlight Desert Count" />{{Cost|L}}
+* Repository of Refuge: <section begin="Repository of Refuge Count" />31<section end="Repository of Refuge Count" />{{Cost|L}}
+* Crescent Oasis: <section begin="Crescent Oasis Count" />43<section end="Crescent Oasis Count" />{{Cost|L}} }}
+|-
+| Secret Area and The Office
+| {{#vardefineecho:office|57}}{{Cost|L}}
+|
+|-
+| 4 Daily Treasure Candles
+| {{#vardefineecho:cakes|200}}{{Cost|L}}
+|
+|-
+| Eye of Eden
+| Depends
+|
+|-
+! TOTAL{{#vardefine:sum|{{#expr:{{#var:home}}+{{#var:aviary}}+{{#var:isle}}+{{#var:prairie}}+{{#var:forest-d1}}+{{#var:valley}}+{{#var:vault}}+{{#var:office}}+{{#var:cakes}}}}}}
+! {{formatnum|{{#expr:{{#var:sum}}+{{#var:wasteland-d1}}}}}}{{Cost|L}} / {{formatnum|{{#expr:{{#var:sum}}+{{#var:wasteland-s}}}}}}{{Cost|L}}
+!
+|}
+{{#lst:Additional Light Sources|Summary Tables}}
+{{Clear}}
++ These subtotals do not include the additional Pieces of Light from random daily Flower Bouquets in [[Village Theater]] and Small Clams in [[Treasure Reef]]. Estimates for those are listed separately in the table  labelled "Inconsistent Sources of Light".
+
+With the new [[Daily Light]] system, players are able to collect approximately '''20''' Candles per day. (Note: Light is still stored in your inventory, even if it is not forged.)
+
+Information on this page and the [[Additional Light Sources]] page were gathered by numerous editors throughout the years ({{Userlinks|Chiychiy}}, {{Userlinks|Omicron23}}, {{Userlinks|Jet Lye}}, {{Userlinks|Numaner}}, {{Userlinks|Ray808080}}, {{Userlinks|Ghostingskies}}, etc). Special thanks to '''lonelyste''' on Discord for the initial candle count data in 2021 and the detailed verification of several under-documented sections in 2024, '''galerowfylery''' on Discord for providing data on many variable Light sources, and '''pingubot''' on Discord for collecting the Sliding and Flying Race fragment count.
+<br>
+
+==Daily Treasure Candles==
+Four Daily Treasure Candles appear in a [[Realm]] every day, each giving 50 Pieces of Light for a total of 200 Pieces of Light. The Realm where the Daily Treasure Candles appear rotates everyday in order from left to right, with the exception of [[Isle of Dawn]]. After [[Vault of Knowledge]], the Candles loop back starting again at [[Daylight Prairie]]. All Daily Treasure Candle rotations are listed on the [[Treasure Candles]] page and the Dailies version of the [[Special:AllMaps|Interactive Maps]].
+
+==[[Home]] ({{#var:home}})<span id="Home"></span>==
+
+*A) 6 Red Candles on the stone in the middle of the pond (usually surrounding the [[Traveling Spirits|Traveling Spirit]])
+*B) 4 Red Candles in front of the Instrument closet
+*C) 3 Red Candles in front of the Cape closet
+*D) 3 Red Candles in front of the Hair closet
+*E) 3 Red Candles in front of the Mask closet
+*F) 4 Red Candles in front of the Outfit closet
+
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Wax home.JPG|A) through F)
+</gallery>
+
+==[[Aviary Village]] ({{#var:aviary}})<span id="Aviary"><span id="Aviary Village"></span></span>==
+All Candles in Aviary Village except the ones at the event board are only available after the Eye of Eden Quest from the [[Season of Revival]] has been completed.
+
+*A) 3 Red Candles next to the lamp pole behind Hopeful Steward
+*B) 2 Red Candles at the bottom of the steps leading to the [[Aviary_Village#Aviary_Event_Store|Aviary Event Store]]
+*C) 3 Red Candles next to Pointing Candlemaker
+*D) 3 Red Candles to the right of the [[Nesting Workshop]] doorway
+*E) 3 Red Candles to the right of the [[Aviary_Village#Hair Salon|Hair Salon]] doorway
+*F) 3 Red Candles at the base of the light pole outside the [[Aviary Village#Harmony Hall|Harmony Hall]] doorway
+*G) 2 Red Candles to the left of the [[Aviary_Village#Cape Shop|Cape Shop]] doorway
+*H) 4 Red Candles next to the special white [[Aviary_Village#Setting Aviary Village As 'Home'|Home Candle]]
+*I) There can be additional 3 to 10 red candles at the event board
+
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Wax-Aviary-Village-flagpole.jpg|A) and B)
+Wax-Aviary-Village-Pointing-Candlemaker.jpg|C)
+Wax-Aviary-Village-shop-street.jpg|D) and E)
+Wax-Aviary-Village-tunnel.jpg|F) and G)
+Wax-Aviary-Village-special-candle.jpg|H)
+Wax-Aviary-Village-eventboard.jpg|I)
+</gallery>
+
+==[[Isle of Dawn]] ({{#var:isle}})<span id="Isle"><span id="Isle of Dawn"></span></span>==
+
+===Sand Dunes (118)<span id="Isle Main Area"><span id="Sand Dunes"></span></span>===
+''Note: The Permanent Treasure Candle in D) appears as 9 large Candles, but offers the same 50 Pieces of Light. ''
+
+* A) 18 Red Candles in the very first dune cave, at the beginning of [[Isle of Dawn]]:
+** 3 Red Candles on the left side at the entrance of the cave
+** 11 Red Candles on the left side, after passing the bench to sit at with a white candle
+** Single Red Candle on the right side of the cave, after the 11 Red Candles
+** 3 Red Candles on the left side, at the end of the cave
+
+* B) 3 Red Candles behind the boat burried in the sand with the [[Child of Light]], behind the little wall surrounded by flying Butterflies
+* C) 9 Red Candles at the bottom of Passage's stone ramp
+* D) 1 Permanent Treasure Candle at the end of the left dune cave of [[Piggyback Lightseeker]], that contains 3 light orbs, behind a Spirit Gate requiring three [[Regular Spirits]] from [[Hidden Forest]]
+* E) 5 Pieces of Light from Darkness while reliving the [[Piggyback Lightseeker]] Spirit's memory in the same left dune cave
+* F) 8 Red Candles in left dune cave of [[Pointing Candlemaker]] :
+** 5 Red Candles on the left side of the cave, entering by the left hole
+** 3 Red Candles on the right side of the cave, entering by the right hole, below a hole in the top of the cave
+* G) 10 Red Candles in the right dune cave containing a Child of Light, behind a Spirit Gate requiring one [[Regular Spirit]] from [[Isle of Dawn]]
+* H) 15 Red Candles at the entrance of the [[Cave of Prophecies]]:
+** 3 Red Candles on the left side, first step
+** 3 Red Candles on the left side, second step
+** 3 Red Candles on the left side, third step
+** 3 Red Candles on the right side, second step
+** 3 Red Candles on the right side, third step
+<gallery>
+3 Red Candles First Isle Dune Cave.jpg|A) 3 First Red Candles
+11 Red Candles First Isle Dune Cave.jpg|A) The 11 Red Candles
+Single Red Candle First Isle Cave.jpg|A) The single Red Candle
+Last 3 Red Candles First Isle Cave.jpg|A) 3 Last Red Candles
+3 Red Candles behind broken boat.jpg|B)
+9 Red Candles Passage Stone.jpg|C)
+Leftdunecavelocation.JPG|D) Outside of the cave
+Insidethecave.JPG|D) Inside of the cave
+Wax-isle-piggyback-cave-inside.png|E)
+5 Red Candles Pointing Candlemaker Cave.jpg|F) The 5 Red Candles
+3 Red Candles Pointing Candlemaker Cave.jpg|F) The 3 Red Candles
+Wax-isle-right-dune-outside.jpg|G) Outside
+Wax-isle-right-dune-inside.jpg|G)
+Wax-isle-trials-entrance.jpg|H)
+</gallery>
+
+===Isle Temple (37<span id="Isle Temple"></span>)===
+The [[Rejecting Voyager]] Spirit cave is to the left of the Temple entrance, with a Spirit Gate requiring two [[Regular Spirits]] from [[Isle of Dawn]].
+
+*A) 12 Red Candles in the [[Rejecting Voyager]] Spirit cave:
+**3 Red Candles next to the first lamp
+**3 Red Candles next to the second lamp
+**3 Red Candles on the lower step of the last alcove
+**3 Red Candles on the upper step of the last alcove
+*B) 8 Pieces of Light from Darkness in the [[Rejecting Voyager]] Spirit cave:
+**3 Pieces of Light in the first alcove
+**2 Pieces of Light in the second alcove
+**3 Pieces of Light in the last alcove
+
+* C) 17 Red Candles inside the Temple, in front of the door, leading to the Shrine:
+** 4 Red Candles on the right side of the room
+** 2 Red Candles on the left side of the room
+** 2 Red Candles in the center in front of the big cluster of Red Candles
+** 9 Red Candles in the center in front of the Temple door
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Wax-isle-temple-cave-outside.jpg|A) outside
+Wax-isle-temple-cave-candles-1.jpg|A) first two candles
+Wax-isle-temple-cave-candles-2.jpg|A) third and fourth candle
+Wax iod1.JPG|B) first alcove
+Wax iod2.JPG|B) second and third alcove
+File:Isle-of-dawn-temple-candles.png|C)
+</gallery>
+
+===Butterfly Cave (89)<span id="Butterfly Cave"></span>===
+Butterfly Cave is to the right of the Temple, through the cloud tunnel.
+''Note: The Permanent Treasure Candle in D) appears as 9 large Candles, but offers the same 50 Pieces of Light. ''
+
+*A) 8 Red Candles on the entrance stairs inside the two-player puzzle room:
+**3 Red Candles at the top
+**5 Red Candles at the bottom
+*B) 21 Red Candles around the [[Butterflies|Butterfly]] jar in the upper part of the two-player puzzle room
+*C) 10 Red Candles in the corridor above the two-player puzzle area, around a [[Child of Light]]
+*D) 1 Permanent Treasure Candle at the top of the island, in the boat near the pond
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Wax-isle-floating-island-stairs.jpg|A)
+Wax-isle-floating-island-jar.jpg|B)
+Wax-isle-floating-island-corridor.jpg|C)
+Wax-isle-floating-island-top.jpg|D)
+</gallery>
+
+===Cave of Prophecies (<section begin="Cave of Prophecies Main Count" />58<section end="Cave of Prophecies Main Count" />)<span id="Cave of Prophecies"></span>===
+The [[Cave of Prophecies]] has a Spirit Gate, requiring two [[Regular Spirits]] from [[Hidden Forest]].
+
+*A) 1 Permanent Treasure Candle in the center of main chamber
+*B) 8 Red Candles on a floating rock in the cloud room above the main chamber
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Wax-isle-trials-main-chamber.jpg|A)
+Wax-isle-trials-cloud-room.jpg|B)
+</gallery>
+
+===Trial of Water (<section begin="Trial of Water Count" />106<section end="Trial of Water Count" />)<span id="Trial of Water"></span>===
+*A) 1 Permanent Treasure Candle on an island next to a ring-like formation, just before the floating icebergs (requires blessing from the Trial to reach)
+*B) 6 Red Candles on a floating iceberg inside a crater-like formation, far off to the left from the Meditation Statue (requires blessing from the Trial to reach)
+*C) 1 Permanent Treasure Candle on the back side of the goal mountain with a [[Child of Light]] (requires blessing from the Trial to reach)
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Wax-trials-water-tc-island.jpg|A)
+Wax-trials-water-brc-iceberg.jpg|B)
+Wax-trials-water-tc-mountain.jpg|C)
+</gallery>
+
+===Trial of Earth (<section begin="Trial of Earth Count" />115<section end="Trial of Earth Count" />)<span id="Trial of Earth"></span>===
+*A) 2 Red Candles in the room after the first checkpoint and jumping over two floating cubes
+*B) 2 Red Candles in the dark room after three floating blocks (before second checkpoint)
+*C) 2 Red Candles in the dark room hidden above the sliding section (immediately before second checkpoint)
+*D) 4 Red Candles on a floating rotating block (immediately after second checkpoint)
+*E) 2 Red Candles in a room before the floating blocks at the center of the maze (immediately before fourth checkpoint)
+*F) 3 Red Candles after the center of the maze (immediately before the Blessing Altar)
+*G) 2 Permanent Treasure Candles on the platform with a [[Child of Light]]
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+trial-earth-first-room.jpg|A)
+trial-earth-second-room.jpg|B)
+trial-earth-third-room.jpg|C)
+trial-earth-floating-block-1.jpg|D)
+trial-earth-fourth-room.jpg|E)
+trial-earth-after-center.jpg|F)
+Wax-trials-earth-tc.jpg|G)
+</gallery>
+
+===Trial of Air (<section begin="Trial of Air Count" />200<section end="Trial of Air Count" />)<span id="Trial of Air"></span>===
+*A) 4 Permanent Treasure Candles between the ice pillars on the platform with a [[Child of Light]]
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Wax-trials-air.jpg|A)
+</gallery>
+
+===Trial of Fire (<section begin="Trial of Fire Count" />200<section end="Trial of Fire Count" />)<span id="Trial of Fire"></span>===
+*A) 4 Permanent Treasure Candles in the final area, before walking to the Blessing Altar
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Wax-trials-fire.jpg|A)
+</gallery>
+
+==[[Daylight Prairie]] ({{#var:prairie}})<span id="Prairie"><span id="Daylight Prairie"></span></span>==
+
+===Social Space (10)<span id="Prairie Social Space"></span>===
+*A) 4 Red Candles in the grassy patch at the center of the fountain
+*B) 3 Red Candles on the stone edge of the fountain
+*C) 3 Red Candles in front of the fountain, between the Spirit markers
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Wax dp social.JPG|A), B), and C)
+Prairie Social space map.png|Area Map
+</gallery>
+
+===Butterfly Fields (45)<span id="Butterfly Fields"></span>===
+Butterfly Fields is after the Social Space and beyond the cloud tunnel.
+
+*A) 5 Red Candles on a rock in the middle of the path
+*B) 20 Red Candles inside the small cave to the right of the path, behind the Spirit Gate requiring one [[Regular Spirit]] from [[Daylight Prairie]]
+*C) 5 Red Candles next to the [[Butterfly Charmer]] Spirit, at the entrance to the grass dome
+*D) 5 Red Candles in front of the gate leading to Prairie Villages
+*E) 5 Red Candles in front of the right Spirit Gate leading to Bird Nest
+*F) 5 Red Candles in front of the left Spirit Gate leading to Prairie Caves
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+wax_dp0.JPG|A)
+wax_dp1.JPG|B)
+wax_dp2.JPG|C)
+wax_dp3.JPG|D)
+wax_dp4.JPG|E)
+wax_dp5.JPG|F)
+Prairie Butterfly Field Map.png|Area Map
+</gallery>
+
+===Villages (109)<span id="Villages"></span>===
+*Left island with [[Applauding Bellmaker]] Spirit cave (30 Pieces of Light)
+**A) 5 Red Candles in front of the two-player door leading to the [[Applauding Bellmaker]] Spirit
+**B) 5 Red Candles on the path leading to the bell tower
+**C) 20 Pieces of Light from Darkness Plants around the bell tower:
+***7 Pieces of Light recessed with the White Candles
+***2 Pieces of Light at the bottom right (front), next to the jar
+***2 Pieces of Light at the top right (front)
+***1 Piece of Light at the top right (middle)
+***2 Pieces of Light at the top right (back)
+***4 Pieces of Light at the top left (front)
+***2 Pieces of Light at the top left (back)
+*Middle Island (54 Pieces of Light)
+**D) 5 Red Candles on a jar in a buried boat, to the left of the path to the bell tower
+**E) 23 Pieces of Light from Darkness Plants around the bell tower:
+***10 Pieces of Light recessed with the White Candles
+***3 Pieces of Light at the top right (front)
+***2 Pieces of Light at the bottom right (middle)
+***2 Pieces of Light at the middle right (back)
+***2 Pieces of Light at the top right (back)
+***1 Piece of Light at the top back
+***3 Pieces of Light at the top left (front)
+**F) 5 Red Candles at the end of the pier pointing towards the right island
+**G) 5 Red Candles in front of the two-player door leading to the [[Slumbering Shipwright]] Spirit
+**H) 6 Pieces of Light from Darkness Plant while reliving the [[Slumbering Shipwright]] Spirit's third memory fragment
+**I) 5 Red Candles on the shelf on the left wall of the room
+**J) 5 Red Candles on the table on the right wall of the room
+*Right Island with 8-player puzzle cave (25 Pieces of Light)
+**K) 5 Red Candles on a jar, in the middle of the stairs up to the bell tower
+**L) 15 Pieces of Light from Darkness Plants around the bell tower:
+***6 Pieces of Light recessed with the White Candles
+***3 Pieces of Light at the top right (front)
+***1 Pieces of Light at the top right (middle)
+***1 Piece of Light at the top right (back)
+***1 Piece of Light at the top back
+***3 Pieces of Light at the top left (front)
+**M) 5 Red Candles inside the cave, next to the [[Laughing Light Catcher]] Spirit
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Wax dpv1.JPG|A)
+Wax dpv2.JPG|B)
+Wax dpv3.JPG|C)
+Wax dpv10.JPG|D)
+Wax dpv11.JPG|E)
+Wax dpv7.JPG|F)
+Wax dpv8.JPG|G)
+wax-prairie-villages-slumbering-shipwright.png|H)
+Wax dpv9.JPG|I) and J)
+Wax dpv4.JPG|K)
+Wax dpv5.JPG|L)
+Wax dpv6.JPG|M)
+Villages.png|Area Map
+</gallery>
+
+===Eight-Player Puzzle Area (99)<span id="8-Player Puzzle Area"><span id="Puzzle Area"></span></span>===
+The 8-player puzzle area is behind a Spirit Gate, requiring six [[Regular Spirits]] from [[Daylight Prairie]].
+
+*A) 3 Red Candles on the right side of the entrance, at the bottom of the stairs
+*B) 3 Red Candles on the left side of the entrance, at the bottom of the stairs
+*C) 3 Red Candles on the right side past the entrance, at the top of the stairs
+*D) 3 Red Candles on the left side past the entrance, at the top of the stairs
+*E) 80 Red Candles (8 sets of 10 red candles) in the secret area past the 8-player puzzle
+*F) 7 Red Candles in a circle formation on top of the big hill to the right
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+wax_ep1.JPG|A), B), C), and D)
+wax_ep2.JPG|E)
+wax_ep3.JPG|F)
+8 gate.png|Area Map
+</gallery>
+
+===Koi Pond and Prairie Temple (85)<span id="Koi Pond"><span id="Prairie Temple"></span></span>===
+
+*A) 5 Red Candles on the pond to the left, under the bridge in front of the Temple
+*B) 5 Red Candles in front of the Temple entrance, on the right ledge
+*C) 15 Red Candles inside the Temple, leading up to the Shrine:
+**5 Red Candles on the bottom left big jar
+**5 Red Candles on the right sideways jar
+**5 Red Candles on the left ledge
+*D) 9 Red Candles in a smiley face formation, underneath and behind the Shrine
+*E) 51 Red Candles on the roof of the temple (through holes in the ceiling)
+**23 Red Candles on the right rock
+**28 Red Candles on the left rock
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Wax dpv12.JPG|A)
+Wax dpv13.JPG|B)
+Wax dpv14.JPG|C)
+Wax dpv15.JPG|D)
+wax-prairie-temple-roof-right.png|E)
+wax-prairie-temple-roof-left.png|E)
+</gallery>
+
+
+===Caves (45)<span id="Prairie Caves"><span id="Caves"></span></span>===
+Prairie Caves is blocked by a Spirit Gate, requiring two [[Regular Spirits]] from [[Isle of Dawn]] and three from [[Daylight Prairie]]. 
+
+*A) 5 Red Candles on a jar at the entrance
+*B) 5 Red Candles on a jar on top of the stairs, to the right of the entrance
+*C) 5 Red Candles on the left side of a cave beyond the jar room, towards the Cozy Hideout
+*D) 5 Red Candles on buried boat, after the second lake
+*E) 5 Red Candles next to the [[Exhausted Dock Worker]] Spirit behind the Spirit Gate, requiring one [[Regular Spirit]] from [[Hidden Forest]]
+*F) 5 Red Candles on the boat at the bottom of the stairs
+*G) 5 Red Candles on a shelf next to the entrance of the jar room
+*H) 5 Red Candles on the steps inside the jar room
+*I) 5 Red Candles next to the exit to Prairie Villages
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+wax_cav1.JPG|A)
+wax_cav2.JPG|B)
+wax_cav3.JPG|C)
+wax_cav4.JPG|D)
+wax_cav5.JPG|E)
+wax_cav6.JPG|F)
+wax_cav7.JPG|G) and H)
+wax_cav8.JPG|I)
+Cave.png|Area Map
+</gallery>
+
+===Bird Nest (50)<span id="Bird Nest"><span id="Bird's Nest"></span></span>===
+The Bird Nest is blocked by a Spirit Gate, requiring four [[Regular Spirits]] from [[Daylight Prairie]]. This area can be accessed both from Butterfly Fields and Prairie Villages.
+
+*A) 5 Red Candles on the pier
+*B) 5 Red Candles under and to the right of the pier
+*C) 5 Red Candles on the middle floating island, on the steps to a symbol engraved in the stone floor
+*Large Floating Island (20 Pieces of Light)
+**D) 5 Red Candles next to the tall open tower, towards the gate to Prairie Villages
+**E) 5 Red Candles on top of the tall open tower
+**F) 5 Red Candles on top of the smaller tower
+**G) 5 Red Candles in the cave underneath the island, on a jar
+*Small Floating Island (15 Pieces of Light)
+**H) 5 Red Candles at the bottom of the tower, next to the [[Bird Whisperer]] Spirit
+**I) 5 Red Candles on top of the [[Bird Whisperer]] Spirit tower
+**J) 5 Red Candles under the island, in a tunnel
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+wax_bn1.JPG|A)
+wax_bn2.JPG|B)
+wax_bn3.JPG|C)
+wax_bn4.JPG|D)
+wax_bn9.JPG|E)
+wax_bn6.JPG|F)
+wax_bn7.JPG|G)
+wax_bn8.JPG|H)
+wax_bn5.JPG|I)
+wax_bn10.JPG|J)
+Prairie Nest Map.png|Area Map
+</gallery>
+
+===Sanctuary Islands (<section begin="Sanctuary Islands Count" />299<section end="Sanctuary Islands Count" />)<span id="Sanctuary Islands"></span>===
+All Pieces of Light come from burning a Darkness Plant, unless otherwise stated.
+
+*A) 1 Permanent Treasure Candle on the first floating island, on the side facing the main island
+*B) 6 Pieces of Light on first floating island, in a cave facing the main island
+*C) 6 Pieces of Light on the front side of the main island, at the entrance of a tunnel leading to the cave with [[Dark Crabs|Crabs]]
+*D) 48 Pieces of Light from a large Darkness Tree in the center of the Crab cave
+*E) 6 Pieces of Light to the left of the Darkness Tree in the Crab cave
+*F) 6 Pieces of Light midway up the spiral in the Crab cave
+*G) 6 Pieces of Light at the top of the spiral in the Crab cave
+*H) 6 Pieces of Light in the ladders cave, across from the crab cave, on the bottom level of the waterfall
+*I) 1 Permanent Treasure Candle on the first level of the waterfall
+*J) 6 Pieces of Light on the edge of the waterfall, next to the Treasure Candles
+*K) 12 Pieces of Light on the upper level of the left side of the waterfall, at the entrance of a tunnel leading to a cave with [[Jellyfish]]
+*L) 6 Pieces of Light in the Jellyfish cave
+*M) 1  Permanent Treasure Candle behind the Bell Monument
+*N) 41 Pieces of Light at the beach, next to the [[Days of Nature]] 2021 Polluted Geyser:
+**6 Pieces of Light on the left side of the beach (facing it from the Geyser)
+**6 Pieces of Light to the left of the buried boat
+**5 Pieces of Light inside the buried boat
+**6 Pieces of Light behind and to the left of the buried boat
+**6 Pieces of Light behind and to the right of the buried boat
+**6 Pieces of Light to the right of the buried boat
+**6 Pieces of Light on the right side of the beach
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Wax snc12.JPG|A)
+Wax snc1.JPG|B)
+Wax snc2.JPG|C)
+Wax snc3.JPG|D) and E)
+Wax snc4.JPG|F)
+Wax snc5.JPG|G)
+Wax snc8.JPG|H)
+Wax snc13.JPG|I)
+Wax snc6.JPG|J)
+Wax snc9.JPG|K)
+Wax snc10.JPG|L)
+Wax snc11.JPG|M)
+Wax-prairie-sanctuary-days-of-nature-2021.jpg|N)
+</gallery>
+<br>
+
+==[[Hidden Forest]] (D1: {{#var:forest-d1}} | D2: {{#expr: {{#var:forest-d1}} - 1}})<span id="Forest"><span id="Hidden Forest"></span></span>==
+'''Important Note:''' Some Darkness Plants only appear every other day, based on two rotations which will be marked by a Day indicator (D1 or D2). D1 refers to Monday, Wednesday, Friday, and Sunday. D2 refers to Tuesday, Thursday, and Saturday. These days are in reference to Pacific Time (PST/PDT).
+
+===Forest Clearing and Walled Areas (D1/D2: 46/45)<span id="Clearing"><span id="Forest Clearing"><span id="Walled Areas"></span></span></span>===
+All Pieces of Light come from burning a Darkness Plant, unless otherwise stated. '''D1: M/W/F/Sun. D2: T/T/Sat.'''
+
+*Area before first gate:
+**A) 6 Pieces of Light near the tree to the right (D2)
+**B) 10 Pieces of Light near the gate, beside the left column
+*Area with the sewers:
+**C) 7 Pieces of Light next to the first left side column (D1)
+**D) 6 Pieces of Light along the right wall, above the sewers
+**E) 6 Pieces of Light in the back left corner, next to the [[Shivering Trailblazer]] Spirit (D2)
+*Treed area between sewers and brook:
+**F) 6 Pieces of Light inside the first tree trunk on the right (D1)
+**G) 6 Pieces of Light at the first tree on the left with a lamp (D1)
+**H) 6 Pieces of Light at the second tree on the left with a lamp
+**I) 6 Pieces of Light to the right, between the trees (D2)
+**J) 5 Pieces of Light under the tree roots to the right (D2)
+**K) 5 Pieces of Light near the exit to Forest Brook (D1)
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+wax-forest-entrance-gate-right-tree.jpg|A)
+wax-forest-entrance-gate-column.jpg|B)
+wax-forest-entrance-sewers-column.jpg|C)
+wax-forest-entrance-sewers-right-wall.jpg|D)
+wax-forest-entrance-sewers-left-corner.jpg|E)
+wax-forest-entrance-trees-first-right.jpg|F)
+wax-forest-entrance-trees-second-left.jpg|G)
+wax-forest-entrance-trees-third-left.jpg|H)
+wax-forest-entrance-trees-right-side.jpg|I) and J)
+wax-forest-entrance-tree-exit.jpg|K)
+</gallery>
+
+===Brook (227)<span id="Forest Brook"><span id="Brook"></span></span>===
+All Pieces of Light come from burning a Darkness Plant, unless otherwise stated.
+
+*A) 7 Pieces of Light at the base of the tree after the entrance
+*B) 9 Pieces of Light to the right of the first gazebo
+*C) 7 Pieces of Light below the entrance to Elevated Clearing, to the right of the first gazebo
+*D) 8 Red Candles in a gazebo on the left side, next to the [[Blushing Prospector]] Spirit
+*E) 8 Pieces of Light blocking a cave with a [[Child of Light]], beyond the second gazebo
+*F) 7 Pieces of Light in the tunnel that connects the second gazebo with the house ruins (in the path of the [[Blushing Prospector]] Spirit memory)
+*G) 10 Pieces of Light inside the house ruins
+*H) 7 Red Candles in a tree trunk on a hill, on the left side of the brook (visible from the first gazebo)
+*I) 9 Pieces of Light underneath the tree roots on the right side of the brook
+*J) 8 Pieces of Light at the broken boat on the left side of the brook, next to the octagon-shaped pipe (the area is very dark)
+*K) 1 Permanent Treasure Candle hidden in the octagon-shaped pipe
+**Continue past the house heading toward the Boneyard exit
+**Follow the left wall to find the pipe entrance (Holding your Candle will help find it)
+**The Treasure Candle will be down a small cave in the left side of the pipe tunnel
+*L) 17 Pieces of Light in the [[Dark Crabs|Crab]] cave on the right side of the brook:
+**8 Pieces of Light from a Darkness Plant covering the mouth of the cave
+**4 Red Candles in the first room
+**5 Red Candles in the second room, next to the [[Hide'n'Seek Pioneer]] Spirit
+*M) 3 Pieces of Light on the lantern at the river bank, under the bridge
+*N) 29 Red Candles around a [[Child of Light]] in the tree house above the bridge
+*O) 24 Pieces of Light from the [[Pouty Porter]] Spirit cave, on the left side of the brook and the bridge:
+**9 Pieces of Light on the left side of the upper entrance of the cave
+**3 Red Candles on the roped log behind the [[Pouty Porter]] Spirit
+**4 Pieces of Light further down the cave
+**8 Pieces of Light at cave exit
+*P) 9 Pieces of Light at the base of an elevated tree, to the right of the exit leading to Boneyard
+*Q) 9 Pieces of Light on second level, under the big green leaf to the right of the bridge
+*R) 6 Pieces of Light at the Rainbow Clock (a stone covered in Darkness Plants at the base of a tree near the campfire)
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+wax-forest-brook-entrance.jpg|A)
+wax-forest-brook-first-gazebo.jpg|B)
+wax-forest-brook-sunny-forest-entrance.jpg|C)
+wax-forest-brook-second-gazebo.jpg|D)
+wax-forest-brook-left-cave.jpg|E)
+wax-forest-brook-tunnel.jpg|F)
+wax-forest-brook-house-ruins.jpg|G)
+wax-forest-brook-left-tree.jpg|H)
+wax-forest-brook-right-tree-root.jpg|I)
+wax-forest-brook-broken-boat.jpg|J)
+wax-forest-brook-pipe.jpg|K)
+wax-forest-brook-crab-cave-mouth.jpg|L) mouth of cave
+wax-forest-brook-crab-cave-room-1.jpg|L) first room
+wax-forest-brook-crab-cave-room-2.jpg|L) second room
+wax-forest-brook-bridge-lantern.jpg|M)
+wax-forest-brook-treehouse.jpg|N)
+wax-forest-brook-pouty-spirit.jpg|O) upper entrance and candles
+wax-forest-brook-pouty-cave-lower.jpg|O) inside
+wax-forest-brook-pouty-cave-exit.jpg|O) lower entrance
+wax-forest-brook-elevated-tree.jpg|P)
+wax-forest-brook-big-leaf.jpg|Q)
+wax-forest-brook-rainbow-clock.jpg|R)
+</gallery>
+
+===Tree Tunnels and Boneyard (D1/D2: 175)<span id="Tree Tunnels"><span id="Boneyard"><span id="Broken Bridges"></span></span></span>===
+All Pieces of Light come from burning a Darkness Plant, unless otherwise stated. '''D1: M/W/F/Sun. D2: T/T/Sat.'''
+
+*A) 6 Pieces of Light right of the entrance from Forest Brook, next to the [[Dismayed Hunter]] Spirit
+*B) 9 Pieces of Light next to the tree stump on the left path, next to the [[Apologetic Lumberjack]] Spirit
+*C) 9 Pieces of Light at the tree root with a [[Light Bloom]] growing on the end
+*D) 8 Pieces of Light at the base of the tree to the left of the large fallen branch (D2)
+*E) 9 Pieces of Light under the elevated Spirit Gate tree house gazebo (D2)
+*F) 9 Pieces of Light on the large fallen branch (D1)
+*G) 9 Pieces of Light in the big skeleton, next to the edge of the broken wall (D1)
+*H) 9 Pieces of Light near the entrance of the broken house with the big skeleton (D2)
+*I) 8 Pieces of Light at the base of a tree by the bird statue (D1)
+*J) 9 Pieces of Light under the first section of the bridge (D2)
+*K) 8 Pieces of Light on the tree root between the small [[Mantas|Manta]] trapped in Darkness and the first bridge section
+*L) 8 Pieces of Light holding a small Manta, next to the a ramp
+*M) 9 Pieces of Light in a small broken building behind a fallen tree (D1)
+*N) 8 Pieces of Light next to the entrance from Tree Tunnels to the Broken Bridge area (D1)
+*O) 9 Pieces of Light under the tree before the entrance from Tree Tunnels to the Broken Bridge area
+*P) 5 Pieces of Light at the trigger of the bridge's second section
+*Q) 5 Pieces of Light at the trigger of the bridge's third section
+*R) 17 Pieces of Light in the [[Tearful Light Miner]] Spirit cave:
+**4 Pieces of Light at the right entrance to the cave
+**4 Pieces of Light at the left entrance to the cave
+**9 Pieces of Light at the back of the cave
+*S) 2 Pieces of Light from reliving the [[Tearful Light Miner]] Spirit's memory, during the third fragment
+*T) 10 Pieces of Light trapping a big Manta
+*U) 9 Pieces of Light near the gazebo on top of the [[Tearful Light Miner]] Spirit cave
+*V) 26 Pieces of Light from the small Darkness Tree on top of the [[Tearful Light Miner]] Spirit cave
+*W) 8 Pieces of Light on the corner of the broken building in front of the [[Tearful Light Miner]] Spirit cave (D2)
+*X) 9 Pieces of Light at the entrance from Elevated Clearing
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+wax-forest-broken-bridge-entrance.jpg|A)
+wax-forest-broken-bridge-tree-stump.jpg|B)
+wax-forest-broken-bridge-jelly-branch.jpg|C)
+wax-forest-broken-bridge-fallen-branch-left-tree.jpg|D)
+wax-forest-broken-bridge-under-treehouse-gazebo.jpg|E)
+wax-forest-broken-bridge-fallen-branch.jpg|F)
+wax-forest-broken-bridge-skeleton.jpg|G)
+wax-forest-broken-bridge-skeleton-building-entrance.jpg|H)
+wax-forest-broken-bridge-bird-statue.jpg|I)
+wax-forest-broken-bridge-under-first-section.jpg|J)
+wax-forest-broken-bridge-tree-root.jpg|K)
+wax-forest-broken-bridge-small-manta.jpg|L)
+wax-forest-broken-bridge-broken-house.jpg|M)
+wax-forest-broken-bridge-pipes-to-bridges.jpg|N)
+wax-forest-broken-bridge-tree-root-pipes.jpg|O)
+wax-forest-broken-bridge-second-trigger.jpg|P)
+wax-forest-broken-bridge-third-trigger.jpg|Q)
+wax-forest-broken-bridge-tearful-cave-entrances.jpg|R) entrances
+wax-forest-broken-bridge-tearful-cave-back.jpg|R) back
+wax-forest-broken-bridge-tearful-memory.png|S)
+wax-forest-broken-bridge-large-manta.jpg|T)
+wax-forest-broken-bridge-tearful-cave-top.jpg|U and V)
+wax-forest-broken-bridge-front-tearful-cave.jpg|W)
+wax-forest-broken-bridge-sunny-forest-exit.jpg|X)
+</gallery>
+
+===Elevated Clearing (D1/D2: 42)<span id="Elevated Clearing"></span>===
+Elevated Clearing can be accessed through Forest Brook or Boneyard. Both entryways have a Spirit Gate, requiring all 8 [[Regular Spirits]] from [[Hidden Forest]]. All Pieces of Light come from burning a Darkness Plant, unless otherwise stated. '''D1: M/W/F/Sun. D2: T/T/Sat.'''
+
+*A) 7 Pieces of Light on the left from the Forest Brook entrance, before the gazebo (D1)
+*B) 7 Pieces of Light to the right of the first gazebo (D2)
+*C) 7 Pieces of Light at the base of the first tree, to the right and below the boardwalk (D1)
+*D) 7 Pieces of Light to the left of the pond (D2)
+*E) 7 Pieces of Light on the hill to the left
+*F) 7 Pieces of Light on the hill to the right, next to a [[Child of Light]] (D1)
+*G) 7 Pieces of Light on the the hill to the right, past a [[Child of Light]] and in a small dip (D2)
+*H) 7 Pieces of Light next to the gazebo at the exit to Boneyard
+*I) 7 Pieces of Light at the base of a tree near the exit to Boneyard
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+wax-forest-sunny-entrance.jpg|A)
+wax-forest-sunny-gazebo-right.jpg|B)
+wax-forest-sunny-first-tree.jpg|C)
+wax-forest-sunny-left-pond.jpg|D)
+wax-forest-sunny-left-hill.jpg|E)
+wax-forest-sunny-right-hill.jpg|F)
+wax-forest-sunny-right-hill-dip.jpg|G)
+wax-forest-sunny-gazebo-exit.jpg|H)
+wax-forest-sunny-tree-exit.jpg|I)
+</gallery>
+
+===Underground Cavern (57)<span id="Underground Cavern"></span>===
+Underground Cavern requires two players to use the [[Pouty Porter]] Spirit's Expression ({{Emote|Pouty Porter|inline_text}}) simultaneously. This area can also be accessed from the Wind Paths. All Pieces of Light come from burning a Darkness Plant, unless otherwise stated.
+
+*A) 19 Pieces of Light after the fall, with the [[Butterflies|Butterfly]] jars:
+**4 Pieces of Light on the left, lower shelf
+**1 Piece of Light on the left, upper shelf
+**3 Pieces of Light to the left of the leftmost jar
+**1 Piece of Light in-between the first and second jar
+**3 Pieces of Light above the second jar
+**3 Pieces of Light below the second jar
+**1 Piece of Light between the second and rightmost jar
+**3 Pieces of Light to the right of the rightmost jar
+*B) 14 Pieces of Light up the cliff to the right of the entrance tunnel, on the door switch
+*C) 8 Pieces of Light in the cave with Butterflies, in the right alcove
+*D) 16 Pieces of Light in a cave with Butterflies, in the left alcove
+**8 Pieces of Light around the jar in front
+**8 Pieces of Light around the Butterfly jar
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+wax-forest-underground-cavern-fall.jpg|A)
+wax-forest-underground-cavern-cliff.jpg|B)
+wax-forest-underground-cavern-right-alcove.jpg|C)
+wax-forest-underground-cavern-left-alcove.jpg|D)
+</gallery>
+
+===Forest Temple (59)<span id="Forest Temple"></span>===
+All Pieces of Light come from burning a Darkness Plant, unless otherwise stated.
+
+*A) 8 Pieces of Light next to the moving platform to the left
+*B) 9 Pieces of Light below the moving platform to the left
+*C) 8 Pieces of Light at the base of a building to the right
+*D) 34 Pieces of Light from the large Darkness Tree
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+wax-forest-temple-top-left.jpg|A)
+wax-forest-temple-below-left.jpg|B)
+wax-forest-temple-below-right.jpg|C)
+wax-forest-temple-tree.jpg|D)
+</gallery>
+
+===Forest End (D1/D2: 24)<span id="Forest End"><span id="End"></span></span>===
+All Pieces of Light come from burning a Darkness Plant, unless otherwise stated. '''D1: M/W/F/Sun. D2: T/T/Sat.'''
+
+*A) 12 Pieces of Light at the base of a tree to the right (D2)
+*B) 12 Pieces of Light on top of a stump to the left (D1)
+*C) 12 Pieces of Light at the base of a tree to the back left (D2)
+*D) 12 Pieces of Light at the base of a tree to the right of the pond (D1)
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+wax-forest-clearing-right-tree.jpg|A)
+wax-forest-clearing-left-stump.jpg|B)
+wax-forest-clearing-back-left.jpg|C)
+wax-forest-clearing-right-pond.jpg|D)
+</gallery>
+
+===The Treehouse (<section begin="The Treehouse Count" />55<section end="The Treehouse Count" />)<span id="The Treehouse"><span id="Treehouse"></span></span>===
+The Treehouse can be accessed through the initial gate on the right past the Social Area, Forest Clearing, Forest Brook, and Boneyard. The initial entryway has a Spirit Gate, requiring one [[Regular Spirit]] from [[Valley of Triumph]]. Other entryways require Quest progression from [[Season of Assembly]].
+
+*A) 5 Pieces of Light in the first alcove on the right, next to a cauldron
+*B) 5 Pieces of Light in the second alcove on the left, next to a cauldron
+*C) 5 Pieces of Light under the tent at the base of the left tree, before the bridge to the Treehouse proper
+*D) 5 Pieces of Light next to the middle tunnel that leads to the second treehouse in the Forest Brook area
+*E) 5 Pieces of Light by the main entrance of the Treehouse proper
+*F) 5 Pieces of light to next to the [[Shared Spaces|Shared Space]] Shrine
+*G) 5 Pieces of Light to the right of the Treehouse, at the bank of the river
+*H) 15 Pieces of Light at the back of the treehouse, next to the pool:
+**5 Pieces of Light at the ledge next to a tree with steps
+**5 Pieces of Light at the ledge at the top of the staircase
+**5 Pieces of Light above the pool's overhang
+*I) 5 Pieces of Light on a ledge at the top of the Treehouse
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Wax-forest-treehouse-right-alcove.jpg|A)
+Wax-forest-treehouse-left-alcove.jpg|B)
+Wax-forest-treehouse-tent.jpg|C)
+Wax-forest-treehouse-middle-door.jpg|D)
+Wax-forest-treehouse-entrance.jpg|E)
+Wax-forest-treehouse-shared-space.jpg|F)
+Wax-forest-treehouse-riverbank.jpg|G)
+Wax-forest-treehouse-back-pool.jpg|H)
+Wax-forest-treehouse-top.jpg|I)
+</gallery>
+
+===The Wind Paths - Islands (<section begin="The Wind Paths Islands Count" />98<section end="The Wind Paths Islands Count" />)<span id="The Wind Paths"><span id="Wind Paths"><span id="Wind Paths Islands"><span id="The Wind Paths - Islands"></span></span></span></span>===
+*Main island (20 Pieces of Light)
+**A) 5 Red Candles on the steps next to the [[Tinkering Chimesmith]] Spirit, right above the [[Flight Guide]]
+**B) 5 Red candles at the top of the island, near the arch 
+**C) 5 Red Candles to the right of the [[Light Whisperer]] Spirit, next to the pool
+**D) 5 Red Candles on the pier at the back of the island
+*Main Island's Tunnels (38 Pieces of Light)
+**E) 4 Red Candles inside the lower-level tunnel that is to the right of the stalactite, caused by the extruding pier, and to the left an oval alcove
+*** There are 5 Red Candles inside the tunnel but, the first Red Candle in this tunnel does '''not''' give a Piece of Light
+**F) 23 Red Candles inside the higher-level tunnel that lines up with the base of the main staircase
+**G) 5 Red Candles inside the mid-level tunnel that lines up with the orange bandana stone and is situated between two holes cutout of the island
+**H) 3 Red Candles inside the mid-level tunnel that lines up with the boat building nook
+**I) 3 Red Candles inside the lower-level tunnel that has multiple small alcoves above it and is to the the left of the stalactite, caused by the extruding pier
+*Right Floating Island (20 Pieces of Light)
+**J) 5 Red Candles on the lower island, on the pier near the [[Talented Builder]] Spirit
+**K) 5 Red Candles on the lower island, on the steps to the arch
+**L) 5 Red Candles on the upper island, to the right of the columned alcove
+**M) 5 Red Candles on the upper island, on the steps above the ladder to the left of the columned alcove
+*Left Floating Island (10 Pieces of Light)
+**N) 5 Red Candles on the rock in the middle of the pool of water
+**O) 5 Red Candles above the pool area and left of the cave entrance
+*Back Floating Island (10 Pieces of Light)
+**P) 5 Red Candles on the left-side, next to a couple of jars and the ladder
+**Q) 5 Red Candles on the right-side, on the steps
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+wax-forest-wind-paths-main-island-stairs.png|A)
+wax-forest-wind-paths-main-island-top.png|B)
+wax-forest-wind-paths-main-island-light-whisperer.png|C)
+wax-forest-wind-paths-main-island-pier.png|D)
+wax-forest-wind-paths-main-island-front-tunnels.png|From left to right: E), F), G)
+wax-forest-wind-paths-main-island-back-tunnels.png|From left to right: H), I)
+wax-forest-wind-paths-right-lower-island-talented-builder.png|J)
+wax-forest-wind-paths-right-lower-island-top.png|K)
+wax-forest-wind-paths-right-upper-island-columns.png|L)
+wax-forest-wind-paths-right-upper-island-steps.png|M)
+wax-forest-wind-paths-left-island-pool.png|N)
+wax-forest-wind-paths-left-island-cave.png|O)
+wax-forest-wind-paths-back-island-ladder.png|P)
+wax-forest-wind-paths-back-island-steps.png|Q)
+</gallery>
+
+===The Wind Paths - Cloud Tunnel (<section begin="The Wind Paths Cloud Tunnel Count" />100<section end="The Wind Paths Cloud Tunnel Count" />)<span id="Cloud Tunnel"><span id="The Wind Paths - Cloud Tunnel"></span></span>===
+*Along the Cloud Tunnel (35 Pieces of Light)
+**A) 5 Red Candles in front of the Cave of Prophecies entrance
+**B) 10 Red Candles in front of the Sanctuary Islands entrance
+**C) 5 Red Candles in front of the Starlight Desert entrance
+**D) 5 Red Candles in front of the Forgotten Ark entrance
+**E) 5 Red Candles in front of the Hermit Valley entrance
+**F) 5 Red Candles in front of the Underground Cavern entrance
+*Amidst the Cloud Columns (65 Pieces of Light)
+**G) 5 Red Candles on the floating island in front of the Cave of Prophecies entrance
+**H) 5 Red Candles on the upper floating island in front of the Hermit Valley entrance 
+**I) 5 Red Candles on the lower floating island in front of the Hermit Valley entrance
+**J) 1 Permanent Treasure Candle on the floating island between the Forgotten Ark and Starlight Desert entrances
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+wax-forest-wind-paths-clouds-cave-of-prophecies-entrance.png|A)
+wax-forest-wind-paths-clouds-sanctuary-islands-entrance.png|B)
+wax-forest-wind-paths-clouds-starlight-desert-entrance.png|C)
+wax-forest-wind-paths-clouds-forgotten-ark-entrance.png|D)
+wax-forest-wind-paths-clouds-hermit-valley-entrance.png|E)
+wax-forest-wind-paths-clouds-underground-cavern-entrance.png|F)
+wax-forest-wind-paths-clouds-center-cave.png|G)
+wax-forest-wind-paths-clouds-center-upper-valley.png|H)
+wax-forest-wind-paths-clouds-center-lower-valley.png|I)
+wax-forest-wind-paths-clouds-center-cake.png|J)
+</gallery>
+<br>
+
+==[[Valley of Triumph]] ({{#var:valley}})<span id="Valley"><span id="Valley of Triumph"></span></span>==
+===First Slope (55)<span id="First Slope"></span>===
+*A) 5 Red Candles at the beginning of the left path
+*B) 6 Red Candles in a row on the right path
+*C) 4 Red Candles at the end of the right path
+*D) 5 Red Candles at the beginning of the middle path
+*E) 10 Red Candles at the end of the middle path, on the second ramp
+*F) 5 Red Candles at the entrance of the tunnel
+*G) 5 Red Candles at the end of the tunnel
+*H) 5 Red Candles at the beginning of ice path to the Ice Rink
+*I) 5 Red Candles in the middle of the ice path to the Ice Rink
+*J) 5 Red Candles at the end of the ice path, right before the Ice Rink
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+WaxValley1.JPG|A)
+WaxValley9.JPG|B)
+WaxValley10.JPG|C)
+WaxValley2.JPG|D)
+WaxValley3.JPG|E)
+WaxValley4.JPG|F)
+WaxValley5.JPG|G)
+WaxValley6.JPG|H)
+WaxValley7.JPG|I)
+WaxValley8.JPG|J)
+</gallery>
+
+===Ice Rink (64)<span id="Ice Rink"></span>===
+*A) 8 Red Candles aligned on the ice rink, under the bridge leading to the Citadel
+*B) 8 Red Candles aligned on the ice rink, in front of the entrance to the Sliding Race
+*C) 8 Red Candles aligned on the ice rink, under the [[Confident Sightseer]] Spirit
+*D) 10 Red Candles on the broken arch above the [[Confident Sightseer]] Spirit:
+**5 Red Candles on the left piece
+**3 Red Candles on the middle piece
+**2 Red Candles on the right piece
+*E) 15 Red Candles at the end of the long tunnel, to the right of the entrance of the Sliding Race
+*F) 15 Red Candles under the center of the ice rink
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+WaxValleyIcerink1.JPG|A)
+WaxValleyIcerink2.JPG|B)
+WaxValleyIcerink3.JPG|C)
+WaxValleyIcerink4.JPG|D)
+Wax-valley-rink-tunnel-outside.jpg|E) outside
+Wax-valley-rink-tunnel-inside.jpg|E) inside
+Wax-valley-rink-under.jpg|F)
+</gallery>
+
+===Sliding Race (160)<span id="Sliding Race"></span>===
+''The amount collected is shared between all participants so it is recommended to work together to collect as many Fragments to earn the maximum reward. This race can only be done once per day.''
+*A) 120 to 160 Pieces of Light for completing the Sliding Race, depending on how many Fragments are collected
+** Minimum: 1 Fragment is required to be rewarded 120 Pieces of Light
+** Maximum: All 71 Fragments are required to be rewarded 160 Pieces of Light
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Wax-valley-stadium-race-end.png|A) End of the Race
+Valley-Slide-Race-Fragments-1.png|A) Fragments
+Valley-Slide-Race-Fragments-2.png|A) Fragments
+Valley-Slide-Race-Fragments-3.png|A) Fragments
+Valley-Slide-Race-Fragments-4.png|A) Fragments
+Valley-Slide-Race-Fragments-5.png|A) Fragments
+Valley-Slide-Race-Fragments-6.png|A) Fragments
+Valley-Slide-Race-Fragments-7.png|A) Fragments
+Valley-Slide-Race-Fragments-8.png|A) Fragments
+Valley-Slide-Race-Fragments-9.png|A) Fragments
+Valley-Slide-Race-Fragments-10.png|A) Fragments
+Valley-Slide-Race-Fragments-11.png|A) Fragments
+Valley-Slide-Race-Fragments-12.png|A) Fragments
+Valley-Slide-Race-Fragments-13.png|A) Fragments
+Valley-Slide-Race-Fragments-14.png|A) Fragments
+Valley-Slide-Race-Fragments-15.png|A) Fragments
+Valley-Slide-Race-Fragments-16.png|A) Fragments
+Valley-Slide-Race-Fragments-17.png|A) Fragments
+Valley-Slide-Race-Fragments-18.png|A) Fragments
+Valley-Slide-Race-Fragments-19.png|A) Fragments
+Valley-Slide-Race-Fragments-20.png|A) Fragments
+Valley-Slide-Race-Fragments-21.png|A) Fragments
+</gallery>
+
+===Citadel (79)<span id="Citadel"></span>===
+The Citadel is behind a Spirit Gate, requiring two [[Regular Spirits]] from [[Valley of Triumph]]. 
+
+*A) 6 Red Candles in the ruins of the round building next to the two turning rings, to the right of the entrance
+*B) 6 Red Candles in the first long building to the right of the entrance, left and elevated from the ruins of the round building
+*C) 5 Red Candles in the second long building to the right of the entrance, right and lower from the ruins of the round building
+*D) 6 Red Candles in the ruins of the round building (next to a long building), above and to the left of the two turning rings left of the entrance
+*E) 6 Red Candles in the long building above the previous ruins of the round building, and next to two turning rings
+*F) 6 Red Candles on top of the lower level of the stacked arches, next to the staircase and across from a [[Message Shrines|Message Shrine]]
+*G) 9 Red Candles on top of the upper level of the stacked arches
+*H) 6 Red Candles in the round building to the right of the upper arch
+*I) 5 Red Candles in the round building below and to the right of the lower arch
+*J) 24 Red Candles (8 sets of 3 Red Candles each) on pillars in front of the entrance to the Flying Race
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+WaxValleyCitadel7.JPG|A)
+WaxValleyCitadel1.JPG|B)
+WaxValleyCitadel8.JPG|C)
+WaxValleyCitadel2.JPG|D)
+WaxValleyCitadel3.JPG|E)
+WaxValleyCitadel4.JPG|F)
+WaxValleyCitadel5.JPG|G) and H)
+WaxValleyCitadel6.JPG|I)
+WaxValleyCitadel9.JPG|J)
+</gallery>
+
+===Flying Race (175)<span id="Flying Race"></span>===
+''The amount collected is shared between all participants so it is recommended to work together to collect as many Fragments to earn the maximum reward. This race can only be done once per day.''
+*A) 5 Red Candles on the left side of the room
+*B) 5 Red Candles on the right side of the room
+*C) 120 to 165 Pieces of Light for completing the Flying Race, depending on how many Fragments are collected
+** Minimum: 1 Fragment is required to be rewarded 120 Pieces of Light
+** Maximum: 108 Fragments are required to be rewarded 165 Pieces of Light
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+WaxValleyFlyingRace1.JPG|A)
+WaxValleyFlyingRace2.JPG|B)
+Wax-valley-stadium-race-end.png|C) End of the Race
+</gallery>
+
+===Coliseum (22)<span id="Coliseum"></span>===
+*A) 5 Red Candles on the right side of the stairs leading to the Temple
+*B) 5 Red Candles on the left side of the stairs leading to the Temple
+*C) 3 Red Candles at the top of the bleachers (red tent side) closest to the Temple entrance, near the [[Proud Victor]] Spirit
+*D) 3 Red Candles at the top of the bleachers (red tent side) closest to the Race entrance
+*E) 3 Red Candles at the top of the bleachers (blue tent side) closest to the Temple entrance, near the [[Bowing Medalist]] Spirit
+*F) 3 Red Candles at the top of the bleachers (blue tent side) closest towards the Race entrance
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+WaxValleyStadium.JPG|A and B)
+Wax-valley-stadium-bleachers-purple-temple.jpg|C)
+Wax-valley-stadium-bleachers-purple-slope.jpg|D)
+Wax-valley-stadium-bleachers-red-temple.jpg|E)
+Wax-valley-stadium-bleachers-red-slope.jpg|F)
+</gallery>
+
+===Valley Temple (93)<span id="Valley Temple"></span>===
+The Temple Maze can be entered from two entryways: along the lower left wall near the entrance, and along the upper left wall between two banners. ''Note: In some photos, the [[Lazy_Days#Lantern_Pack|Lazy Days Lantern]] was used to brighten the area.''
+
+*A) 75 Red Candles around the Elder statue above the Shrine
+* Inside the maze, entering from the bottom (18 Pieces of Light from Darkness Plants)
+**B) 5 Pieces of Light at the end of the hallway, blocking the path to the room with two staircases
+**Take the right staircase.
+**C) 4 Pieces of Light at the top of the spiral staircase in the subsequent room with one [[Dark Crabs|Crab]]
+**D) 5 Pieces of Light at the same level, across and along the right wall, at the top of the stairs
+**Either go back along the same path, or drop down into the a pit with 4 Crabs. The exit of the pit will lead back to the room with two staircases.
+**E) 4 Pieces of Light at the top of the left staircase
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+WaxValleyTemple1.JPG|A)
+WaxValleyTemple2.JPG|B)
+WaxValleyTemple5.JPG|C)
+WaxValleyTemple3.JPG|D)
+WaxValleyTemple4.JPG|E)
+</gallery>
+
+===Village of Dreams (<section begin="Village of Dreams Count" />100<section end="Village of Dreams Count" />)<span id="Villages of Dreams"></span>===
+The Village of Dreams can be entered through the tunnel in Valley's Social Space or through the gate in the Coliseum, behind Spirit Gates that both require one [[Regular Spirit]] from [[Golden Wasteland]].
+
+*A) 1 Permanent Treasure Candle at the bottom of the sliding track, next to the platform to summon boats
+*B) 1 Permanent Treasure Candle at the Hotspring up in the mountains, behind the [[Dreams Guide]]
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Wax-valley-dreams-sliding-track.jpg|A)
+Wax-valley-dreams-spa.jpg|B)
+</gallery>
+
+===Hermit Valley (<section begin="Hermit Valley Count" />50<section end="Hermit Valley Count" />)<span id="Hermit Valley"></span>===
+*A) 1 Permanent Treasure Candle inside the Hermit's hideout
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Wax-valley-hermit.jpg|A)
+</gallery>
+
+===Harmony Hall (<section begin="Harmony Hall Count" />100<section end="Harmony Hall Count" />)<span id="Harmony Hall"></span>===
+*A) 50 Pieces of Light for achieving a moderate level of accuracy in the [[Harmony Hall#Music Challenge|Daily Music Sheet Challenge]]
+*B) 50 Pieces of Light for achieving a high level of accuracy in the [[Harmony Hall#Music Challenge|Daily Music Sheet Challenge]]
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Wax-valley-harmony-hall-sheet-challenge.png|A)
+Wax-valley-harmony-hall-sheet-challenge-higher.png|B)
+Wax-valley-harmony-hall-sheet-challenge-both.jpg|A) and B) if achieved higher accuracy on first try
+</gallery>
+
+==[[Golden Wasteland]] (D1: {{#var:wasteland-d1}} | D2: {{#expr: {{#var:wasteland-d1}} + 1}} | Sun: {{#var:wasteland-s}})<span id="Wasteland"><span id="Golden Wasteland"></span></span>==
+'''Important Note:''' Some Darkness Plants only appear every other day, based on two rotations which will be marked by a Day indicator (D1 or D2). D1 refers to Monday, Wednesday, and Friday. D2 refers to Tuesday, Thursday, and Saturday. All Darkness is available on Sunday. These days are in reference to Pacific Time (PST/PDT).
+
+===Broken Temple (D1/D2: 64/65 | Sun: 86)<span id="Broken Temple"></span>===
+All Pieces of Light come from burning a Darkness Plant, unless otherwise stated. '''D1: M/W/F. D2: T/T/Sat.'''
+
+*A) First broken bridge slightly to the right with gray railings:
+**3 Pieces of Light at the start (D1)
+**3 Pieces of Light next to a lamp at the end (D2)
+*B) 6 Pieces of Light on the first half of the broken bridge with gold railings:
+**3 Pieces of Light before the lamp
+**3 Pieces of Light after the lamp
+*C) 10 Pieces of Light behind the broken column to the far left
+*D) 21 Pieces of Light on the second half of the broken bridge with gold railings, beyond the [[Frightened Refugee]] Spirit
+*E) 9 Pieces of Light in front of the large pipes:
+**3 Pieces of Light in front of the right pipe (D2)
+**3 Pieces of Light in front of the middle pipe
+**3 Pieces of Light in front of the left pipe (D2)
+*F) 9 Pieces of Light inside the broken temple (D1)
+*G) Broken bridge with a gray railing between the two temples:
+**10 Pieces of Light towards the temple end (D2)
+**3 Pieces of Light in the middle (D1)
+**3 Pieces of Light towards the Forgotten Ark end (D1)
+*H) Stairs of the entrance to the First Krill Area: 
+**3 Pieces of Light on the left side of the first step
+**3 Pieces of Light on the left base of the stairs (D2)
+**3 Pieces of Light on the right side of the stairs (D1)
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+wax-wasteland-broken-temple-area-edited.jpg|Area map
+wax-wasteland-broken-temple-slight-right.jpg|A)
+wax-wasteland-broken-temple-first-gold.jpg|B)
+wax-wasteland-broken-temple-left-column.jpg|C)
+wax-wasteland-broken-temple-second-gold.jpg|D)
+wax-wasteland-broken-temple-pipes.jpg|E)
+wax-wasteland-broken-temple-inside.jpg|F)
+wax-wasteland-broken-temple-bridge-temple.jpg|G)
+wax-wasteland-broken-temple-steps.jpg|H)
+</gallery>
+
+===First Krill Area (D1/D2: 42/30 | Sun: 45)<span id="Upper Swamp"><span id="First Krill Area"></span></span>===
+All Pieces of Light come from burning a Darkness Plant, unless otherwise stated. '''D1: M/W/F. D2: T/T/Sat.'''
+
+*A) 12 Pieces of Light below the lantern near the unfortunate [[Mantas|Manta]]
+*B) 12 Pieces of Light to the left of the entrance, in the path of the [[Courageous Soldier]] Spirit (D1)
+*C) 12 Pieces of Light in the left corner, after crossing the [[Flora,_Minerals_and_Elements_of_Sky#Polluted_Water|Polluted Water]]
+*D) Small room to the left:
+**3 Pieces of Light on the right side
+**3 Pieces of Light on the left (far) side (D1)
+**3 Pieces of Light on the left (near) side (D2)
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+wax-wasteland-upper-swamp-manta.jpg|A)
+wax-wasteland-upper-swamp-courageous-spirit-path.jpg|B)
+wax-wasteland-upper-swamp-left-corner.jpg|C)
+wax-wasteland-upper-swamp-small-room.jpg|D)
+</gallery>
+
+===Graveyard (D1/D2: 88/100 | Sun: 112)<span id="Graveyard"></span>===
+All Pieces of Light come from burning a Darkness Plant, unless otherwise stated. '''D1: M/W/F. D2: T/T/Sat.'''
+
+*A) 12 Pieces of Light inside the first skull after the entrance
+*B) 38 Pieces of Light from the large Darkness Tree
+*C) 12 Pieces of Light inside the second skull (D1)
+*D) 12 Pieces of Light under the [[Butterflies|Butterfly]] tower
+*E) 4 Pieces of Light from 4 Darkness Plant leaves growing on the wall alongside the tower
+*F) 10 Pieces of Light on the second floor of the Butterfly tower
+*G) 12 Pieces of Light inside the third skull (D2)
+*H) 12 Pieces of Light at the steps to Battlefield, next to a [[Child of Light]] (D2)
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+wax-wasteland-graveyard-first-skull.jpg|A)
+wax-wasteland-graveyard-tree.jpg|B)
+wax-wasteland-graveyard-second-skull.jpg|C)
+wax-wasteland-graveyard-under-tower.jpg|D)
+wax-wasteland-graveyard-around-tower.jpg|E)
+wax-wasteland-graveyard-top-tower.jpg|F)
+wax-wasteland-graveyard-third-skull.jpg|G)
+wax-wasteland-graveyard-battlefield-steps.jpg|H)
+</gallery>
+
+===Battlefield (D1/D2: 111 | Sun: 139)<span id="Battlefield"></span>===
+Battlefield can be accessed through Graveyard and Crab Fields. The entryway from Crab Fields is blocked by a Spirit Gate requiring two [[Regular Spirits]] from [[Golden Wasteland]]. All Pieces of Light come from burning a Darkness Plant, unless otherwise stated. '''D1: M/W/F. D2: T/T/Sat.'''
+
+*A) 7 Pieces of Light in front of the broken shield and spear, near the entrance to Graveyard
+*B) 7 Pieces of Light on the right side of the roof of the building (D1)
+*C) 12 Pieces of Light at the top of the spire of the building
+*D) 7 Pieces of Light on the left side of the roof of the building (D2)
+*E) 40 Pieces of Light from the large Darkness Tree
+*F) 7 Pieces of Light next to the [[Lookout Scout]] Spirit (D1)
+*G) 12 Pieces of Light next to a block lying in the [[Flora,_Minerals_and_Elements_of_Sky#Polluted_Water|Polluted Water]]
+*H) 7 Pieces of Light next to the [[Message Shrines|Message Shrine]] (D2)
+*I) 7 Pieces of Light near wooden spikes next to the front left pillar (D1)
+*J) 7 Pieces of Light near wooden spikes next to the front right broken pillar (D2)
+*K) 7 Pieces of Light near wooden spikes next to the back right pillar (D1)
+*L) 7 Pieces of Light near wooden spikes and shield next to the back left pillar (D2)
+*M) 12 Pieces of Light at the central platform with the [[Dark Dragons|Dark Dragon]] trigger
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+wax-wasteland-battlefield-shield.jpg|A)
+wax-wasteland-battlefield-roof-right.jpg|B)
+wax-wasteland-battlefield-roof.jpg|C)
+wax-wasteland-battlefield-roof-left.jpg|D)
+wax-wasteland-battlefield-tree.jpg|E)
+wax-wasteland-battlefield-lookout-spirit.jpg|F)
+wax-wasteland-battlefield-block.jpg|G)
+wax-wasteland-battlefield-message-circle.jpg|H)
+wax-wasteland-battlefield-area-edited.jpg|Area map for I) to M)
+wax-wasteland-battlefield-left-front.jpg|I)
+wax-wasteland-battlefield-right-front.jpg|J)
+wax-wasteland-battlefield-right-back.jpg|K)
+wax-wasteland-battlefield-left-back.jpg|L)
+wax-wasteland-battlefield-trigger.jpg|M)
+</gallery>
+
+===Crab Fields (D1/D2: 63 | Sun: 101)<span id="Crab Fields"><span id="Shipwreck"></span></span>===
+Crab Fields can be accessed through multiple entryways. Some are blocked by Spirit Gates requiring one or two [[Regular Spirits]] from [[Golden Wasteland]]. All Pieces of Light come from burning a Darkness Plant, unless otherwise stated. '''D1: M/W/F. D2: T/T/Sat.'''
+
+*A) 12 Pieces of Light in front of the windy entrance pipe (D1)
+*B) 12 Pieces of Light in front of the longer pipe, to the left of the windy entrance pipe (D2)
+*C) 12 Pieces of Light in front of the big cube buried in the sand, on the small island before the ship (D2)
+*D) 12 Pieces of Light inside the top room at the back of the ship (D1)
+*E) 7 Pieces of Light outside the hull breach with the golden jars, facing the small island (D2)
+*F) 7 Pieces of Light inside the ship with [[Dark Crabs|Crabs]], on the bottom level, below the level with the [[Message Shrines|Message Shrine]] (D2)
+*G) 7 Pieces of Light outside and at the front of the ship (D1)
+*H) 7 Pieces of Light outside next to cubes in the [[Flora,_Minerals_and_Elements_of_Sky#Polluted_Water|Polluted Water]] (D1)
+*Pipes to Battlefield (25 Pieces of Light)
+**I) 2 Pieces of Light inside the bottom largest pipe
+**J) 2 Pieces of Light to the right of the largest pipe
+**K) 4 Pieces of Light on top of the bottom largest pipe
+**L) 4 Pieces of Light halfway up and tucked in along the back wall
+**M) 13 Pieces of Light at the top of the pipes
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+wax-wasteland-shipwreck-entrance-pipes.jpg|A) and B)
+wax-wasteland-shipwreck-cube-island.jpg|C)
+wax-wasteland-shipwreck-back.jpg|D)
+wax-wasteland-shipwreck-jars.jpg|E)
+wax-wasteland-shipwreck-inside-boat.jpg|F)
+wax-wasteland-shipwreck-front.jpg|G)
+wax-wasteland-shipwreck-cubes.jpg|H)
+wax-wasteland-shipwreck-pipes-bottom.jpg|I), J), and K)
+wax-wasteland-shipwreck-pipes-middle.jpg|L) and M)
+wax-wasteland-shipwreck-pipes-top.jpg|M)
+</gallery>
+
+===Wasteland Temple (40)<span id="Wasteland Temple"></span>===
+*A) 40 Red Candles around the Elder statue:
+**11 Red Candles on the left side
+**18 Red Candles at the back
+**11 Red Candles on the right side
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+wax-wasteland-temple.jpg|A)
+</gallery>
+
+===Forgotten Ark (<section begin="Forgotten Ark Count" />109<section end="Forgotten Ark Count" />)<span id="Forgotten Ark"></span>===
+Forgotten Ark can be accessed by a boat located to the rightmost part of the Broken Temple area. All Pieces of Light come from burning a Darkness Plant, unless otherwise stated.
+
+*Ark (25 Pieces of Light). All Candles on the Ark are only available after all Quests from the [[Season of Enchantment]] have been completed.
+**A) 5 Red Candles on the left end of the Ark
+**B) 5 Red Candles on the left back railing of the Ark
+**C) 5 Red Candles on the center front railing of the Ark
+**D) 5 Red Candles on the right front railing of the Ark
+**E) 5 Red Candles on the right end of the Ark, under a [[Child of Light]]
+
+*F) Broken boat to the left of the Ark (23 Pieces of Light)
+**6 Pieces of Light below the shorter end of the broken boat (left side)
+**6 Pieces of Light below the taller end of the broken boat (right side)
+**5 Pieces of Light in the middle of the taller end of the broken boat
+**6 Pieces of Light on top of the broken boat
+
+*Swampy Cave in the middle, past the Ark (29 Pieces of Light)
+**G) 6 Pieces of Light to the left of the pond
+**H) 6 Pieces of Light to the right of the pond
+**I) 5 Pieces of Light at the mouth of the cave
+**J) 6 Pieces of Light in the middle of the first room
+**K) 6 Pieces of Light on the left side, between the second and third room
+
+*Maze Cave to the right of the Ark (32 Pieces of Light)
+**L) 5 Pieces of Light in front of the cave entrance
+**M) 5 Pieces of Light after the lamp in the cave entrance
+**N) 6 Pieces of Light down the left path, straight after the cave entrance
+**O) 6 Pieces of Light after a left turn, and down a straight path
+**P) 5 Pieces of Light after a second left turn, down the dead end on the right side of the hallway
+**Q) 5 Pieces of Light in the big open room, down the left side of the hallway
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+wax-wasteland-ark.jpg|Ark with red circles labeling candle locations
+wax-wasteland-ark-left-end.jpg|A)
+wax-wasteland-ark-left-back.jpg|B)
+wax-wasteland-ark-front.jpg|C)
+wax-wasteland-ark-right-front.jpg|D)
+wax-wasteland-ark-right-end.jpg|E)
+wax-wasteland-ark-broken-boat.jpg|F)
+wax-wasteland-ark-swampy-cave-outside.jpg|G), H), and I)
+wax-wasteland-ark-swampy-cave-first-room.jpg|J)
+wax-wasteland-ark-swampy-cave-second-room.jpg|K)
+wax-wasteland-ark-maze-cave-entrance.jpg|L)
+wax-wasteland-ark-maze-cave-lamp.jpg|M)
+wax-wasteland-ark-maze-cave-first-hallway.jpg|N)
+wax-wasteland-ark-maze-cave-second-hallway.jpg|O)
+wax-wasteland-ark-maze-cave-deadend.jpg|P)
+wax-wasteland-ark-maze-cave-large-room.jpg|Q)
+</gallery>
+
+===Treasure Reef (<section begin="Treasure Reef Count" />188<section end="Treasure Reef Count" />)<span id="Treasure Reef"></span>===
+Treasure Reef can be accessed by a boat located to the right of the Social Space. Fixed-location Pieces of Light are listed here, including Red Candles found on shore, clusters of Underwater Light, and 2 Giant Clam locations. However, the majority of the Pieces of Light in Treasure Reef is found in Small Clams whose locations vary every day. More information about Small Clams can be found on the [[Additional Light Sources#Treasure Reef|Additional Light Sources]] page.
+*A) 11 Red Candles at the entrance to the area:
+**4 Red Candles in front of the gate
+**1 Red Candle on the left side of the second step
+**2 Red Candles on the right side of the third step
+**4 Red Candles on the right side of the entrance to the cave
+*B) 4 Red Candles on the ledge of the boat with the [[Abyss Guide]]
+*C) 4 Red Candles next to the sunken gazebo on the main land, near the broken short tower
+*D) 4 Red Candles in the gazebo on the left island, near to the tallest tower
+*E) 15 Underwater Lights above the end of the tunnel entering the reef
+*F) 10 Underwater Lights in one of the holes that contains a box, where resources are found during the second [[Season of Abyss]] Quest
+*G) 10 Underwater Lights in a second empty hole, where resources are found during the second [[Season of Abyss]] Quest
+*H) 10 Underwater Lights in a third hole that contains ladders, where resources are found during the second [[Season of Abyss]] quest
+*I) 5 Underwater Lights found in a passage leading to the area with H (and thereby F and G as well)
+*J) 20 Underwater Lights (5 clusters with 4 Underwater Lights each) along the large curved underwater wall, right off the coast of the [[Shared Space]] Shrine
+*K) 5 Underwater Lights at the top of the deep trench
+*L) 20 Underwater Lights inside the underwater portion of the tall tower filled with [[Dark Dragons]] (Image showcases an OOB for clarity but does not require it to collect)
+**8 Underwater Lights (2 clusters of 4 Underwater Lights each) in the upper room
+**8 Underwater Lights (2 clusters of 4 Underwater Lights each) in the middle room
+**4 Underwater Lights (1 cluster) in the lower room
+*M) 10 Underwater Lights in hidden room following the sunken gazebo's staircase, behind a liftable grate with a [[Child of Light]]
+*N) 3 Giant Clams (10 Underwater Lights each for a total of 30) in the same room with L
+*O) 5 Giant Clams (6 Underwater Lights each for a total of 30) in the inner waters of the right island, to the left of the gazebo on shore
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+wax-wasteland-treasure-reef-first-gate.jpg|A)
+wax-wasteland-treasure-reef-boat.jpg|B)
+wax-wasteland-treasure-reef-right-gazebo.jpg|C)
+wax-wasteland-treasure-reef-left-gazebo.jpg|D)
+wax-wasteland-treasure-reef-underwater-entry.JPG|E)
+wax-wasteland-treasure-reef-underwater-first-hole.jpg|F)
+wax-wasteland-treasure-reef-underwater-second-hole.jpg|G)
+wax-wasteland-treasure-reef-underwater-third-hole.jpg|H)
+wax-wasteland-treasure-reef-underwater-fourth-hole.jpg|I)
+wax-wasteland-treasure-reef-underwater-five-clusters.jpg|J)
+wax-wasteland-treasure-reef-underwater-trench.jpg|K)
+wax-wasteland-treasure-reef-underwater-tower-top.png|L) upper and middle rooms
+wax-wasteland-treasure-reef-underwater-tower-bottom.png|L) lower room
+wax-wasteland-treasure-reef-ruins-grate.png|Grate that leads to M) and N)
+wax-wasteland-treasure-reef-ruins-giant-clams.png|M) and N)
+wax-wasteland-treasure-reef-right-island-above-giant-clams.png|O) above
+wax-wasteland-treasure-reef-right-island-giant-clams.png|O) underwater
+</gallery>
+
+==[[Vault of Knowledge]] ({{#var:vault}})<span id="Vault"><span id="Vault of Knowledge"></span></span>==
+{{Mbox|image=Candle cake.png|imagewidth=50px|type=important|header=Permanent Treasure Candles in Vault do ''not'' always give 50 Pieces of Light|text=Due to the [[Daily Light]] system, the Permanent Treasure Candles in the main floors of Vault (not including the seasonal areas) do ''not'' always give 50 Pieces of Light. Vault is the only case of Treasure Candle reward variation. Their exact amounts will be listed next to their entries.}}
+===Social Space (5)<span id="Vault Social Space"></span>===
+*A) 5 Red Candles on the left pillar at the top of the stairs
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+wax-vault-social-space.jpg|A)
+</gallery>
+
+===First Floor (63)<span id="First Floor"><span id="Vault First Floor"></span></span>===
+*A) 11 Red Candles behind the main elevator
+*Behind the four-player {{Emote|Levitating Adept|inline_text}} door (52 Pieces of Light)
+**B) 1 Permanent Treasure Candle (49 Pieces of Light) in the hall
+**C) 3 Red Candles next to the [[Praying Acolyte]] Spirit
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+wax-vault-first-floor-elevator.jpg|A)
+wax-vault-first-floor-tc.jpg|B)
+wax-vault-first-floor-praying-spirit.jpg|C)
+</gallery>
+
+===Second Floor (106)<span id="Second Floor"><span id="Vault Second Floor"></span></span>===
+*A) 1 Permanent Treasure Candle (48 Pieces of Light) on the platform between the two-lantern and one-lantern platforms
+*B) 5 Red Candles on the right side of the stairs in front of the the four-player door
+*C) 5 Red Candles on the left side of the stairs in front of the the four-player door
+*D) 1 Permanent Treasure Candle (48 Pieces of Light) behind the four-player door, under the table
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+wax-vault-second-floor-tc.jpg|A)
+wax-vault-second-floor-door.jpg|B) and C)
+wax-vault-second-floor-door-tc.jpg|D)
+</gallery>
+
+===Third Floor (12)<span id="Third Floor"><span id="Vault Third Floor"></span></span>===
+*A) 3 Red Candles on the platform with a [[Map Shrine]], between the two platforms with White Candles
+*B) 9 Red Candles on the roof of the gazebo, next to a [[Child of Light]]
+
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+wax-vault-third-floor-platforms.jpg|A) 
+wax-vault-third-floor-gazebo.jpg|B)
+</gallery>
+
+===Fourth Floor (222)<span id="Fourth Floor"><span id="Vault Fourth Floor"></span></span>===
+*A) 12 Red Candles under the round building:
+**7 Red Candles towards the front
+**5 Red Candles towards the back
+*B) 8 Red Candles in a circle formation on top of the island with the [[Meditating Monastic]] Spirit's last memory
+*C) 1 Permanent Treasure Candle (50 Pieces of Light) on a floating island below the "waterfall" and [[Hidden Forest]] Constellation (anvil and hammer)
+** The unaffected reward amount for this particular Treasure Candle could be attributed to the fact that this location was a passive Social Light area that was transformed into a Permanent Treasure Candle.
+*D) 1 Permanent Treasure Candle (47 Pieces of Light) on a platform above the [[Hidden Forest]] Constellation (anvil and hammer)
+*E) 5 Red Candles in a circle formation on the [[Memory Whisperer]] Spirit island
+*F) 1 Permanent Treasure Candle (47 Pieces of Light) on a rock between the [[Memory Whisperer]] Spirit island and the highest platform
+*G) 6 Red Candles in a circle formation on the highest platform with pillars around a [[Child of Light]]
+*H) 1 Permanent Treasure Candle (47 Pieces of Light) on the highest platform with pillars
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+wax-vault-fourth-floor-round-building.jpg|A)
+wax-vault-fourth-floor-meditation-spirit.jpg|B)
+Wax - Vault Fourth Floor TC (Waterfall).jpg|C)
+wax-vault-fourth-floor-platform-tc.jpg|D)
+wax-vault-fourth-floor-manta-spirit.jpg|E)
+wax-vault-fourth-floor-rock-tc.jpg|F)
+wax-vault-fourth-floor-highest-platform.jpg|G) and H)
+</gallery>
+
+===The Summit (64)<span id="Vault Summit"><span id="The Summit"><span id="Summit"></span></span></span>===
+*A) 3 Red Candles on the right side of the symbol engraved in the stone floor
+*B) 3 Red Candles on the left side of the symbol engraved in the stone floor
+*C) 3 Red Candles at the bottom of the left stairs
+*D) 3 Red Candles in the middle of the left stairs
+*E) 3 Red Candles below the elevated platform, between the stairs, next to a [[Child of Light]]
+*F) 3 Red Candles in the middle of the right stairs
+*G) 1 Permanent Treasure Candle (46 Pieces of Light) behind the Elder statue
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+wax-vault-top-floor-stone.jpg|A) and B)
+wax-vault-top-floor-left-bottom.jpg|C)
+wax-vault-top-floor-left-middle.jpg|D)
+wax-vault-top-floor-middle.jpg|E)
+wax-vault-top-floor-right-middle.jpg|F)
+wax-vault-top-floor-behind-statue.jpg|G)
+</gallery>
+
+===Archives (50)<span id="Archives"></span>===
+The Archives are behind the two-player door and a Spirit Gate, requiring one [[Regular Spirit]] from [[Vault of Knowledge]].
+
+*A) 5 Red Candles on the left side of the entrance to the floating platforms room
+*B) 10 Red Candles in the labyrinth inside cubes Level 0 (top and first encountered):
+**5 Red Candles on the right side of the second room, on a sill
+**5 Red Candles on the left side of the eighth room, on a sill
+*C) 15 Red Candles in the labyrinth inside cubes Level -1:
+**5 Red Candles in the first room, on the floor in front of the broken tiles
+**5 Red Candles between the fifth and sixth room, on the threshold
+**5 Red Candles between the eighth and ninth room, on the threshold
+*D) 20 Red Candles in the labyrinth inside cubes Level -2:
+**5 Red Candles on the far side sill of the jar room, on the left of the fork
+**5 Red Candles on the near side sill of the jar room, on the left of the fork
+**5 Red Candles on the far side sill in the room above the one with the ladder
+**5 Red Candles on the near side sill in the room above the one with the ladder
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+wax-vault-archives-entrance.jpg|A)
+wax-vault-archives-level0-1.jpg|B) second room
+wax-vault-archives-level0-2.jpg|B) eighth room
+wax-vault-archives-level1-1.jpg|C) first room
+wax-vault-archives-level1-2.jpg|C) fifth/sixth room
+wax-vault-archives-level1-3.jpg|C) eighth/ninth room
+wax-vault-archives-level2-1.jpg|D) jar room
+wax-vault-archives-level2-2.jpg|D) ladder room
+</gallery>
+
+===Starlight Desert (<section begin="Starlight Desert Count" />140<section end="Starlight Desert Count" />)<span id="Starlight Desert"></span>===
+Starlight Desert can be accessed by a meditation circle inside the [[Vault_of_Knowledge#Collaboration_Room|Collaboration Room]], found by going through a hole in the left wall of the Social Space. It is blocked by a Spirit Gate, requiring one [[Regular Spirit]] from the [[Vault of Knowledge]].
+
+The points of interest are listed clockwise, starting at the giant jar which is located to the right of the entrance to Starlight Desert.
+
+*Inside the giant jar with the [[Slouching Soldier]] Spirit (15 Pieces of Light)
+**A) 5 Red Candles at the left side, nearby the entrance
+**B) 5 Red Candles nearby the small mountain
+**C) 5 Red Candles at the back of the small mountain
+*The amphitheater with the [[Gloating Narcissist]] Spirit (15 Pieces of Light)
+**D) 5 Red Candles at the very right side of audience seat (behind a huge statue)
+**E) 5 Red Candles at the right side of the audience seat, beside the slope
+**F) 5 Red Candles at the middle to left side of the audience seat
+*The lamp tower with the [[Stretching Lamplighter]] Spirit (15 Pieces of Light)
+**G) 5 Red Candles at the right side of the lamp tower floor
+**H) 5 Red Candles at the left side of the lamp tower floor
+**I) 5 Red Candles at the back side of the lamp tower floor
+*In the cove with the [[Star Collector]] Spirit, accessed by a cloud tunnel to the left of the Rose Garden (15 Pieces of Light)
+**J) 5 Red Candles near the stairs on the boat
+**K) 5 Red Candles near the tent on the boat
+**L) 5 Red Candles on the wharf
+*The floating castle with the [[Beckoning Ruler]] Spirit (15 Pieces of Light)
+**M) 5 Red Candles at the left side of the throne
+**N) 5 Red Candles at the back to left side of the throne
+**O) 5 Red Candles at the right side of the throne
+*The floating pile of books with the [[Sneezing Geographer]] Spirit (15 Pieces of Light)
+**P) 5 Red Candles on the left side, nearby an empty bookshelf
+**Q) 5 Red Candles on the right side, nearby a pile of small books and a compass
+**R) 5 Red Candles on the lowest position of the book level
+*S) 1 Permanent Treasure Candle to the right side of the Rose Garden maze, next to several blocks of stone bricks
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+SDJar1.jpeg|A)
+SDJar2.jpeg|B)
+SDJar3.jpeg|C)
+SDTheater1.jpeg|D)
+SDTheater3.jpeg|E)
+SDTheater2.jpeg|F)
+SDLamp1.jpeg|G)
+SDLamp2.jpeg|H)
+SDLamp3.jpeg|I)
+SDShip1.jpeg|J)
+SDShip2.jpeg|K)
+SDShip3.jpeg|L)
+SDCastle1.jpeg|M)
+SDCastle2.jpeg|N)
+SDCastle3.jpeg|O)
+SDBooks1.jpeg|P)
+SDBooks2.jpeg|Q)
+SDBooks3.jpeg|R)
+SDTreasureCandles.jpeg|S)
+</gallery>
+
+===Repository of Refuge (<section begin="Repository of Refuge Count" />31<section end="Repository of Refuge Count" />)<span id="Repository of Refuge"></span>===
+The Repository of Refuge can be entered from the stairs at the far end of the First Floor, next to the Sapling. It's behind a Spirit Gate, requiring one [[Regular Spirit]] from the [[Vault of Knowledge]].
+*A) 5 Red Candles on the second shelf above the [[Bereft Veteran]] Spirit's overhang
+*B) 5 Red Candles on the on the shelf at the platform above and slightly to the right of the [[Bereft Veteran]] Spirit's overhang 
+*C) 3 Red Candles on the bottom shelf directly left of the tall ladder
+*D) 3 Red Candles on the same shelf that the tall ladder leads to
+*E) 5 Red Candles hidden behind the tall stack of lanterns to the right of the [[Remembrance Guide]]
+*F) 5 Red Candles high above where a ceiling would have been, above the tented [[Tiptoeing Tea-Brewer]] Spirit's platform
+*G) 5 Red Candles on top of the ceiling, in the corner next to the crumbling wall
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+wax-vault-repository-above-bereft.png|A) and B)
+wax-vault-repository-left-ladder.png|C)
+wax-vault-repository-right-ladder.png|D)
+wax-vault-repository-hidden-stack.png|E)
+wax-vault-repository-hidden-stack-alt-angle.png|E) different angle
+wax-vault-repository-above-tiptoe.png|F)
+wax-vault-repository-corner-on-ceiling.png|G)
+</gallery>
+
+===Crescent Oasis (<section begin="Crescent Oasis Count" />43<section end="Crescent Oasis Count" />)<span id="Crescent Oasis"></span>===
+The Crescent Oasis can be accessed by a meditation circle inside the [[Vault_of_Knowledge#Collaboration_Room|Collaboration Room]], found by going through a hole in the left wall of the Social Space. It is blocked by a Spirit Gate, requiring one [[Regular Spirit]] from the [[Vault of Knowledge]].
+
+*A) 1 Red Candle inside the tunnel at the bottom of the crescent-shaped lake (Image showcases an OOB for clarity but does not require it to collect)
+*Inside the largest building in the city where the [[Feudal Lord]] is found, in the throne room beyond the elevator platform (41 Pieces of Light)
+**B) 3 Red Candles along the wall to the right of the room's entrance
+**C) 9 Red Candles along the wall on the left side of the room, when facing the throne
+**D) 12 Red Candles along the wall shared by the throne
+**E) 5 Red Candles on top of the chandelier that hangs in front of the throne
+**F) 9 Red Candles along the wall on the right side of the room, when facing the throne
+**G) 3 Red Candles along the wall to the left of the room's entrance
+*H) 1 Red Candle inside of the small building to the right of the largest building in the city
+
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Wax-Crescent-Oasis-tunnel-outside.jpg|A) outside
+Wax-Crescent-Oasis-tunnel.jpg|A) inside
+Wax-Crescent-Oasis-throne-entrance-right.jpg|B)
+Wax-Crescent-Oasis-throne-wall-left.jpg|C)
+Wax-Crescent-Oasis-throne-seat.jpg|D) and E)
+Wax-Crescent-Oasis-throne-wall-right.jpg|F)
+Wax-Crescent-Oasis-throne-entrance-left.jpg|G)
+Wax-Crescent-Oasis-City-Mural-Outside.png|H) outside
+Wax-Crescent-Oasis-City-Mural.png|H) inside
+</gallery>
+
+==Secret Area and [[Secret Area|The Office]] ({{#var:office}})<span id="Secret Area"></span>==
+===Secret Area before the barrier (8)<span id="Before Barrier"></span>===
+*A) 2 big Red Candles in front of the steps to the left
+*B) 3 big Red Candles on the left wall
+*C) 2 big Red Candles on the right wall on the upper shelf
+*D) 1 big Red Candle on the right wall on the lower shelf
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+wax-secret-area-before-barrier-floor.jpg|A) and B)
+wax-secret-area-before-barrier-walls.jpg|C) and D)
+</gallery>
+
+===Past the barrier (8)<span id="Past Barrier"></span>===
+Access to this area usually requires a TGC [[Secret_Area#Beta_Cape|Beta]] or [[Secret_Area#Founder's_Cape|Founder's Cape]]. It is also accessible via an NPC during certain events.
+
+*A) 2 big Red Candles on the lower half of the ping pong table
+*B) 3 big Red Candles on the upper half of the ping pong table
+*C) 3 big Red Candles in the back left corner past the gate
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+wax-secret-area-past-barrier-ping-pong.jpg|A) and B)
+wax-secret-area-past-barrier-corner.jpg|C)
+</gallery>
+
+===The Office (41)<span id="The Office"><span id="Office"></span></span>===
+Access to this area usually requires a TGC [[Secret_Area#Beta_Cape|Beta]] or [[Secret_Area#Founder's_Cape|Founders Cape]]. It is also accessible via an NPC during certain events.
+
+*A) 36 Red Candles along the right wall after opening the glass door
+*B) 5 Pieces of Light from Darkness Plants in the backroom hallway
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+wax-office-hallway.jpg|A)
+wax-office-backroom.jpg|B)
+</gallery>
+
+==[[Eye of Eden|Eye of Eden (Spoilers!)]]<span id="Eden"><span id="Eye of Eden"></span></span> ==
+On the road to the point of no return, there are occasionally Pieces of Light scattered along the path, in the spots where the small red radiant shards are located. Although it has been speculated that this phenomenon is tied to [[Shard Eruptions#Strong Eruptions|Strong Shard Eruptions]], these Pieces of Light have been observed to also appear on days with no Eruptions. While this appears to be a bug, further investigation is required to find out what exactly triggers this to occur and how much Light can be collected.
+
+===Orbit===
+There are two flying sections before entering Orbit: with all the floating [[Ancestor Spirits]] the player has collected and with a random selection of friends and favorite friends. 
+
+In the first section, the player receives 5 Pieces of Light for each Ancestor Spirit they fly into. In the second section, the player receives 5 Pieces of Light for each favorite friend they fly into. The chains of Sky Kids holding hands do not give Pieces of Light, even though they will [[Deep Call]] when flown into.<br>
+
+== Additional Light Sources ==
+Additional Light sources from Holiday Events, Social Light areas, and have randomization can be found on the [[Additional Light Sources]] page. 
+
+==References==
+<references/>
+
+
+
+[[fr:Pièces de lumières]]
+[[pt-br:Orbes de Luz]]
+[[de:Lichtstücke]]
+[[Category:Daily Content]]

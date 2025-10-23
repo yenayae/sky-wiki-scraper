@@ -1,0 +1,187 @@
+{{Distinguish|Radiance Provoking Performer}}
+{{Distinguish|Dancing Performer}}
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Gratitude-Spirit-Provoking-Performer.png|Standard
+Gratitude-Spirit-Provoking-Performer-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Mask|infobox}}{{Spirit Item||Hair|infobox}}
+|music     = {{Music Sheet|7}}
+|season    = Gratitude
+|realm     = Hidden Forest
+|location  = Forest's Brook
+|ts        = September 11, 2025 (#148)<br>March 30, 2023 (#84)<br>October 1, 2020 (#19)<br/>March 12, 2020 (#4)
+}}
+<section begin="Summary" />The '''Provoking Performer''' is a [[Seasonal Spirit]] from the [[Season of Gratitude]] who offers the {{Emote|Provoking Performer|inline_text}} Expression. The Provoking Performer is found to the left of the [[Forest's Brook]], in a tunnel entrance on ground level, semi-hidden between trees. The collectibles [[#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Provoking Performer|Mask|inline_text}}, a {{Spirit Item|Provoking Performer|Hair|inline_text}}, and the {{Music Sheet|7|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Provoking-Performer-promo-image.jpg|none|thumb|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|Plpl2MGoZYo||inline|Video Guide}}
+
+The Provoking Performer can be found to the left of the [[Forest's Brook]], in a tunnel entrance on ground level, semi-hidden between trees. This Spirit has a [[Carry Spirit Memory|carry spirit memory]] with 5 memory fragments and an unlimited overall [[Timed Memory|time limit]]. 
+
+As their memory unfolds, the Provoking Performer can be seen dancing their way through the tunnel, striking a final pose at the end. 
+
+To collect the last memory fragment, the player will have to step outside and walk over under the tree quickly, or else the poulluted rain will extinguish the Spirit's light.
+
+At the end of the memory, the Provoking Performer lifts their arms, steps forward with one leg to the player, swings one outstretched arm around, and rolls their head.<br>
+<br>
+[[File:02 HF Seasonal Spirit - Provoking Performer.png|200px|thumb|none|Relive the Provoking Performer's memory]]
+</div>
+{{Clear}}
+
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]] (officially called '''Sarcastic'''<ref name="expression_origins">According to 
+[https://discord.com/channels/575762611111592007/575827924343848960/687750049652146232 Ktjn on Discord], the expression was originally meant to be an emote that expressed sarcasm.</ref>), which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Provoking-Performer-kabuki-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Provoking-Performer-kabuki-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Provoking-Performer-kabuki-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Provoking-Performer-kabuki-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+* Level 1 will make your avatar spread their arms at their sides, parallel to the ground, before taking a big step forward with one leg, swing their arm around, and repeat the same spinning motion with their head, while a whistling sound effect plays.
+* Level 2 makes the same motion as Level 1 with small bursts of light sparkles flying all around your avatar.
+* Level 3 will make your avatar loosely lift their arms up to the sides, lift up one leg, and hop twice to the left and twice to the right, before repeating the same motion as in Level 1, while whistling sound effects play.
+* Level 4 makes the same motion as Level 3 with small light sparkles appearing at the hands, following your avatar's hopping movement.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|2 H}}<ref name="price_changes"></ref>, {{Cost|3 H}}<ref name="price_changes"></ref>, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+== Cosmetics==
+=== Mask ===
+The [[Mask]] offered by this Spirit is an orange-colored, square-shaped head of a creature with one horn on each corner, a zigzag-shaped mouth with golden teeth and two fangs sticking out, two small white eyes on each side, and square-shaped, carved-out details, costing {{Cost|42 C}}<ref name="price_changes"></ref> from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|36 SC|season=Gratitude}} total).<br>
+<br>{{Dye_Details
+|area1=the yellow details (eyebrows)
+|cost1=1
+}}<br><br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Hair ===
+The [[Hair]] offered by this Spirit is a round orange hat with a cylinder-shaped top, one decorative band at each side and the back, and yellow details, that is sitting on top of tied-up hair, costing {{Cost|34 C}}<ref name="price_changes"></ref> from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fourth node ({{Cost|36 SC|season=Gratitude}} total). Note that this item is considered a Hair, not a [[Hair Accessory]], and as such it can not be worn over other Hairstyles.<br>
+<br>{{Dye_Details
+|area1=the yellow details, including the flat top and the tip
+|cost1=2
+}}<br><br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Music Sheet ==
+The Provoking Performer offers the {{Music Sheet|7}}<ref name="price_changes"></ref> [[Music Sheet]] #7, costing {{Cost|15 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's second node ({{Cost|10 Sc|season=Gratitude}} total). It is a song in the key of C Major.<br>
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guides
+|content=
+{{#ev:youtube|BTh_5Xh_q54||inline|Music Sheet Video Guide by thatskyfox (Fox Band)}}
+{{#ev:youtube|phzdXmyyB10||inline|Music Sheet Video Guide by CactusFlowerSky}}
+}}
+
+== Traveling Spirit ==
+[[File:Traveling gratitude forest.png|200px|right|thumb]]
+{{Friendship Tree Info | traveling
+|ts_dates=*September 11, 2025 (#148)
+*March 30, 2023 (#84)
+*October 1, 2020 (#19) <ref name="price_changes">The prices during the Provoking Performer's second visit were changed: the Level 2 was decreased from {{Cost|4 H}} to {{Cost|2 H}}, the Music Sheet was increased from {{Cost|10 C}} to {{Cost|15 C}}, the Level 3 was changed from {{Cost|15 C}} to {{Cost|3 H}}, the Hair was increased from {{Cost|30 C}} to {{Cost|34 C}}, and the Mask was decreased from {{Cost|45 C}} to {{Cost|42 C}}.</ref>
+*March 12, 2020 (#4)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Provoking Performer
+|season = Gratitude
+|image  = Gratitude-Spirit-Provoking-Performer.png
+
+|nodeL5 = Mask 42 C
+|nodeC6 = Hair 34 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = music7 15 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+No hints were given before the [[Provoking Performer]]'s first appearance.
+
+The hints given before the [[Provoking Performer]]'s second appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Second Visit Hints
+|content=<div>
+* Will not be selling delicious snacks
+* Is NOT a crabstack in disguise....trust me
+* Will have at least 2 hands
+* May also even have....feet
+* Probably doesn't have a driving license 
+* Tells really good jokes
+* Always arrives to meetings right on time
+* May or may not be Oreo in a spirit robotsuit
+* Had a nice restful vacation
+</div>
+}}
+
+The hints given before the [[Provoking Performer]]'s third appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Third Visit Hints
+|content=<div>
+* Is a perfectionist
+* [wes] Remembers the 21st night of September / Love was changin' the minds of pretenders / While chasin' the clouds awaaaaaaaaay 🎺🎺🎺
+* [wes] Gets sad when you call them ugly 😰
+* [wes] Is Provoking Performer
+</div>
+}}
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Gratitude}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Provoking Performer
+|type   = season
+|season = Gratitude
+|image  = Gratitude-Spirit-Provoking-Performer.png
+
+|nodeC5 = Mask 5 H SP
+|nodeC4 = Hair 14 SC
+|nodeL3 = emote4 SP
+|nodeC3 = emote3 12 SC
+|nodeL2 = spell5 SP
+|nodeC2 = music7 10 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Trivia==
+* Provoking Performer was the very first Traveling Spirit to receive a [[Traveling_Spirits/Hints|hint]], for their second appearance on October 1, 2020.
+* Provoking Performer's third visit as a Traveling Spirit was leaked by Sky's Japanese Twitter @thatskygamejp account around 7 hours before it was announced officially.
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Sog_valley.jpg
+Gratitude Forest Emote.jpg
+SoG Forest Map2.png
+</gallery>
+{{Clear}}
+
+==References==
+<references/>
+[[de:Provokanter Performer]]
+[[pt-br:Artista Provocante]]
+[[ru:Исполнитель-провокатор]]
+[[fr:Interprète provocateur]]
+[[ja:挑戦的な表現者]]

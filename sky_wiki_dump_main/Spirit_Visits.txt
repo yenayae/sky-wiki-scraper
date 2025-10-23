@@ -1,0 +1,1173 @@
+This page lists all '''Spirit Visits''' of [[Traveling Spirits]] and [[Returning Spirits]] from Special Visits, as well as statistics based on these visits. See individual pages for information about each type of visit.
+
+==Historical Appearances==
+===Appearances by Spirit===
+[[File:Traveling_Spirit_playlist.PNG|thumb|303x303px|Video Guide Playlist (up to Season of Assembly) – videos by Tara's Sky Journey (@Ilivetowrite)|link=https://www.youtube.com/playlist?list=PLKh97ggSLvdy2pb2aa5HIA5u9k6lEqilq]]The following table summarizes all of the Spirit visits to date, with the most recent Spirits at the top. Spirits who have never returned are included at the end of the table. Details about each Spirit are provided on the linked article. See [[Timeline]] page for full chronological history.
+
+Columns include:
+*'''Visits''': Total number of official visits for the Spirit (error appearances are not included in the number of visits)
+*'''Visit#''': Traveling Spirit (TS) or the Returning Spirits' Special Visit (SV) Number. All visits for the Spirit are listed, one per line. Error appearances are also listed, but with "Error" for the # (see Spirit page for details of Error visits). Clicking on the Visit# header sorts the row according to each Spirit's '''first visit''' (whereas the Date header sorts according to each Spirit's last visit)
+*'''Date''': The start date for each visit. All visits for the Spirit are listed, one per line. For Spirits who have never been a Traveling Spirit, the date of the Season end is provided instead in italics. Clicking on the Date header sorts the row according to each Spirit's '''last visit''' which means that the top of the table lists the Spirits who have been gone for the longest (and are more likely to return soon).
+*'''Delta''': For the Spirit's first visit, it's the approximate number of 2-week gaps between that first appearance and the end of the Spirit's Season. For subsequent visits, it's the gap between the previous and current visit. For example, Daydream Forester's Delta value of &Delta;23 is calculated by taking its current visit number (TS#60) and subtracting 37 (Season of Assembly's end date of June 13, 2021 coincides with when TS#37 left). Error visits are ignored in this calculation.
+
+<!--Instructions for how to update this table:
+1. Find the spirit in the table. Every spirit should be listed here even if they have not shown up as a TS.
+2. CUT and paste the TS to the top of the table.
+
+FOR FIRST VISITS:
+3. Make the whole row bold by doing: |-style="font-weight:bold;"
+4. Update the Visits # to 1. Do NOT update the data-sort-value.
+5. Add the new TS number with a "TS#" in front. Replace the data-sort-value to the TS number ONLY.
+   - SPECIAL VISIT: Use "<u>SV#</u>". Replace the data-sort-value with "(previous TS number).5". See Ancient Darkness as an example.
+6. Replace Date in italics with the Arrival Date. Replace the data-sort-value with the Arrival Date. Use format of Mon DD, YYYY.
+7. Calculate Delta and add it with "&Delta;" in front. Replace the data-sort-value to the Delta number ONLY.
+
+FOR NON-FIRST VISIT:
+3. If the row is bold, remove style="font-weight:bold;" and make all individual first visit data '''bold'''.
+4. Update the Visits # by adding 1. Do NOT update the data-sort-value.
+5. Add the new TS number with "TS#" in front and a <br> after (newest number is listed first). Do NOT update the data-sort-value.
+   - SPECIAL VISIT: Use "<u>SV#</u>" and then <br> after (newest number is listed first). Do NOT update the data-sort-value.
+6. Add the new Date with a <br> after (newest date is listed first). Replace the data-sort-value. Use format of Mon DD, YYYY.
+7. Calculate Delta and add it with "&Delta;" in front and a <br> after (newest delta is listed first). Replace the data-sort-value to the new Delta number ONLY.
+
+How to calculate delta:
+-->
+
+{|class="sortable mw-collapsible article-table"
+|+'''Appearances by Spirit'''
+!Season||Spirit||Icon||Visits||data-sort-type="number"|Visit#||data-sort-type="date"|Date||data-sort-type="number"|Delta
+|-
+|data-sort-value="3"|{{Season Icon|Rhythm|table}}||[[Admiring Actor]]||{{Spirit|Admiring Actor|table}}||4
+|data-sort-value="20"|TS#150<br>TS#89<br>TS#38<br>'''TS#20'''
+|data-sort-value="Oct 9, 2025"|Oct 9, 2025<br>Jun 8, 2023<br>Jun 24, 2021<br>'''Oct 15, 2020'''
+|data-sort-value="61"|&Delta;61<br>&Delta;51<br>&Delta;18<br>'''&Delta;14'''
+|-
+|data-sort-value="6"|{{Season Icon|Prophecy|table}}||[[Prophet of Air]]||{{Spirit|Prophet of Air|table}}||3
+|data-sort-value="61"|TS#149<br><u>SV#2</u><br>'''TS#61'''
+|data-sort-value="Sep 25, 2025"|Sep 25, 2025<br>May 15, 2023<br>'''May 12, 2022'''
+|data-sort-value="62"|&Delta;62<br>&Delta;26<br>'''&Delta;37'''<!--SV#2 counts as TS#87 for Delta purposes-->
+|-
+|data-sort-value="0"|{{Season Icon|Gratitude|table}}||[[Provoking Performer]]||{{Spirit|Provoking Performer|table}}||4
+|data-sort-value="4"|TS#148<br>Error<br>TS#84<br>TS#19<br>'''TS#4'''
+|data-sort-value="Sep 11, 2025"|Sep 11, 2025<br>Apr 13, 2023<br>Mar 30, 2023<br>Oct 1, 2020<br>'''Mar 12, 2020'''
+|data-sort-value="64"|&Delta;64<br>Error<br>&Delta;65<br>&Delta;15<br>'''&Delta;14'''
+|-
+|data-sort-value="8"|{{Season Icon|Assembly|table}}||[[Scaredy Cadet]]||{{Spirit|Scaredy Cadet|table}}||2
+|data-sort-value="82"|TS#147<br><u>'''SV#1'''</u>
+|data-sort-value="Aug 28, 2025"|Aug 28, 2025<br>'''Mar 6, 2023'''
+|data-sort-value="45"|&Delta;65<br>&Delta;45<!--SV#1 counts as TS#82 for Delta purposes-->
+|-
+|data-sort-value="11"|{{Season Icon|Abyss|table}}||[[Anxious Angler]]||{{Spirit|Anxious Angler|table}}||2
+|data-sort-value="105"|<u>SV#10</u><br>'''TS#105'''
+|data-sort-value="Aug 18, 2025"|Aug 18, 2025<br>'''Jan 18, 2024'''
+|data-sort-value="47"|&Delta;41<br>'''&Delta;47'''
+|-style="font-weight:bold;
+|data-sort-value="15"|{{Season Icon|Remembrance|table}}||[[Wounded Warrior]]||{{Spirit|Wounded Warrior|table}}||1
+|data-sort-value="146.5"|<u>SV#10</u>
+|data-sort-value="Aug 18, 2025"|''Aug 18, 2025''
+|data-sort-value="-1"|'''&Delta;62'''
+|-
+|data-sort-value="11"|{{Season Icon|Abyss|table}}||[[Bumbling Boatswain]]||{{Spirit|Bumbling Boatswain|table}}||2
+|data-sort-value="124"|<u>SV#10</u><br>'''TS#124'''
+|data-sort-value="Aug 18, 2025"|Aug 18, 2025<br>'''Oct 10, 2024'''
+|data-sort-value="66"|&Delta;22<br>'''&Delta;66'''
+|-style="font-weight:bold;
+|data-sort-value="15"|{{Season Icon|Remembrance|table}}||[[Tiptoeing Tea-Brewer]]||{{Spirit|Tiptoeing Tea-Brewer|table}}||1
+|data-sort-value="146.5"|<u>SV#10</u>
+|data-sort-value="Aug 18, 2025"|''Aug 18, 2025''
+|data-sort-value="-1"|'''&Delta;62'''
+|-
+|data-sort-value="10"|{{Season Icon|Flight|table}}||[[Tinkering Chimesmith]]||{{Spirit|Tinkering Chimesmith|table}}||2
+|data-sort-value=87|TS#146<br>'''TS#87'''
+|data-sort-value="Aug 14, 2025"|Aug 14, 2025<br>'''May 11, 2023'''
+|data-sort-value=36|&Delta;59<br>'''&Delta;36'''
+|-
+|data-sort-value="6"|{{Season Icon|Prophecy|table}}||[[Prophet of Earth]]||{{Spirit|Prophet of Earth|table}}||4
+|data-sort-value="54"|TS#145<br>TS#121<br><u>SV#2</u><br>'''TS#54<br>Error'''
+|data-sort-value="Jul 31, 2025"|Jul 31, 2025<br>Aug 29, 2024<ref name="TS121_extended">TS#121 for Prophet of Earth lasted until [https://discord.com/channels/575762611111592007/575768778789617674/1279225263334490142 the end of Thursday, September 5 (instead of Sunday, September 1)] due to server errors.</ref><br>May 15, 2023<br>'''Feb 3, 2022<br>Jan 6, 2022'''
+|data-sort-value="34"|&Delta;24<br>&Delta;34<br>&Delta;33<br>'''&Delta;30<br>Error'''<!--SV#2 counts as TS#87 for Delta purposes-->
+|-style="font-weight:bold;"
+|data-sort-value="17"|{{Season Icon|Moments|table}}||[[Jolly Geologist]]||{{Spirit|Jolly Geologist|table}}||1
+|data-sort-value="144"|TS#144
+|data-sort-value="Jul 17, 2025"|Jul 17, 2025
+|data-sort-value="47"|&Delta;47
+|-
+|data-sort-value="8"|{{Season Icon|Assembly|table}}||[[Marching Adventurer]]||{{Spirit|Marching Adventurer|table}}||2
+|data-sort-value="82"|TS#143<br><u>'''SV#1'''</u>
+|data-sort-value="Jul 3, 2025"|Jul 3, 2025<br>'''Mar 6, 2023'''
+|data-sort-value="61"|&Delta;61<br>'''&Delta;45'''<!--SV#1 counts as TS#82 for Delta purposes-->
+|-
+|data-sort-value="2"|{{Season Icon|Belonging|table}}||[[Boogie Kid]]||{{Spirit|Boogie Kid|table}}||4
+|data-sort-value="22"|TS#142<br>TS#82<br>TS#40<br>'''TS#22'''
+|data-sort-value="Jun 19, 2025"|Jun 19, 2025<br>Mar 2, 2023<br>Jul 22, 2021<br>'''Nov 12, 2020'''
+|data-sort-value="60"|&Delta;60<br>&Delta;42<br>&Delta;18<br>'''&Delta;22'''
+|-style="font-weight:bold;"
+|data-sort-value="14"|{{Season Icon|Aurora|table}}||[[Running Wayfarer]]||{{Spirit|Running Wayfarer|table}}||1
+|data-sort-value="141.5"|<u>SV#9</u>
+|data-sort-value="Jun 9, 2025"|'''Jun 9, 2025'''
+|data-sort-value="63"|'''&Delta;63'''
+|-style="font-weight:bold;"
+|data-sort-value="14"|{{Season Icon|Aurora|table}}||[[Seed of Hope]]||{{Spirit|Seed of Hope|table}}||1
+|data-sort-value="141.5"|<u>SV#9</u>
+|data-sort-value="Jun 9, 2025"|'''Jun 9, 2025'''
+|data-sort-value="63"|'''&Delta;63'''
+|-
+|data-sort-value="14"|{{Season Icon|Aurora|table}}||[[Warrior of Love]]||{{Spirit|Warrior of Love|table}}||2
+|data-sort-value="126"|<u>SV#9</u><br>'''TS#126'''
+|data-sort-value="Jun 9, 2025"|Jun 9, 2025<br>'''Nov 7, 2024'''
+|data-sort-value="15"|&Delta;15<br>'''&Delta;48'''
+|-
+|data-sort-value="14"|{{Season Icon|Aurora|table}}||[[Mindful Miner]]||{{Spirit|Mindful Miner|table}}||2
+|data-sort-value="134"|<u>SV#9</u><br>'''TS#134'''
+|data-sort-value="Jun 9, 2025"|Jun 9, 2025<br>'''Feb 27, 2025'''
+|data-sort-value="7"|&Delta;7<br>'''&Delta;56'''
+|-
+|data-sort-value="1"|{{Season Icon|Lightseekers|table}}||[[Laidback Pioneer]]||{{Spirit|Laidback Pioneer|table}}||4
+|data-sort-value="3"|TS#141<br>TS#72<br>TS#23<br>'''TS#3'''
+|data-sort-value="Jun 5, 2025"|Jun 5, 2025<br>Oct 13, 2022<br>Nov 26, 2020<br>'''Feb 27, 2020'''
+|data-sort-value="69"|&Delta;69<br>&Delta;49<br>&Delta;20<br>'''&Delta;8'''
+|-style="font-weight:bold;"
+|data-sort-value="15"|{{Season Icon|Remembrance|table}}||[[Bereft Veteran]]||{{Spirit|Bereft Veteran|table}}||1
+|data-sort-value="140"|TS#140
+|data-sort-value="May 22, 2025"|May 22, 2025
+|data-sort-value="56"|&Delta;56
+|-
+|data-sort-value="10"|{{Season Icon|Flight|table}}||[[Lively Navigator]]||{{Spirit|Lively Navigator|table}}||2
+|data-sort-value="94"|TS#139<br>'''TS#94'''
+|data-sort-value="May 8, 2025"|May 8, 2025<br>'''Aug 17, 2023'''
+|data-sort-value="45"|&Delta;45<br>'''&Delta;43'''
+|-
+|data-sort-value="16"|{{Season Icon|Passage|table}}||[[Tumbling Troublemaker]]||{{Spirit|Tumbling Troublemaker|table}}||1
+|data-sort-value="138"|'''TS#138'''
+|data-sort-value="Apr 24, 2025"|'''Apr 24, 2025'''
+|data-sort-value="47"|'''&Delta;47'''
+|-
+|data-sort-value="0"|{{Season Icon|Gratitude|table}}||[[Stretching Guru]]||{{Spirit|Stretching Guru|table}}||3
+|data-sort-value="8"|TS#137<br>TS#57<br>'''TS#8'''
+|data-sort-value="Apr 10, 2025"|Apr 10, 2025<br>Mar 17, 2022<br>'''Apr 30, 2020'''
+|data-sort-value="80"|&Delta;80<br>&Delta;49<br>'''&Delta;18'''
+|-
+|data-sort-value="9"|{{Season Icon|The Little Prince|table}}||[[Slouching Soldier]]||{{Spirit|Slouching Soldier|table}}||2
+|data-sort-value="81"|<u>SV#8</u><br>'''TS#81'''
+|data-sort-value="Apr 7,2025"|Apr 7, 2025<br>'''Feb 16, 2023'''
+|data-sort-value="55"|&Delta;55<br>'''&Delta;37'''<!---SV#8 counts as TS#136.5 for Delta purposes-->
+|-
+|data-sort-value="9"|{{Season Icon|The Little Prince|table}}||[[Star Collector]]||{{Spirit|Star Collector|table}}||2
+|data-sort-value="96"|<u>SV#8</u><br>'''TS#96'''
+|data-sort-value="Apr 7,2025"|Apr 7, 2025<br>'''Sep 14, 2023'''
+|data-sort-value="40"|&Delta;40<br>'''&Delta;52'''<!--SV#8 counts as TS#136.5 for Delta purposes-->
+|-
+|data-sort-value="9"|{{Season Icon|The Little Prince|table}}||[[Sneezing Geographer]]||{{Spirit|Sneezing Geographer|table}}||2
+|data-sort-value="85"|<u>SV#8</u><br>'''TS#85'''
+|data-sort-value="Apr 7,2025"|Apr 7, 2025<br>'''Apr 13, 2023'''
+|data-sort-value="51"|&Delta;51<br>'''&Delta;41'''<!--SV#8 counts as TS#136.5 for Delta purposes-->
+|-
+|data-sort-value="9"|{{Season Icon|The Little Prince|table}}||[[Stretching Lamplighter]]||{{Spirit|Stretching Lamplighter|table}}||2
+|data-sort-value="102"|<u>SV#8</u><br>'''TS#102'''
+|data-sort-value="Apr 7,2025"|Apr 7, 2025<br>'''Dec 7, 2023'''
+|data-sort-value="34"|&Delta;34<br>'''&Delta;58'''<!--SV#8 counts as TS#136.5 for Delta purposes-->
+|-
+|data-sort-value="9"|{{Season Icon|The Little Prince|table}}||[[Beckoning Ruler]]||{{Spirit|Beckoning Ruler|table}}||3
+|data-sort-value="71"|<u>SV#8</u><br>TS#117<br>'''TS#71'''
+|data-sort-value="Apr 7,2025"|Apr 7, 2025<br>Jul 4, 2024<br>'''Sep 29, 2022'''
+|data-sort-value="19"|&Delta;19<br>&Delta;46<br>'''&Delta;27'''<!--SV#8 counts as TS#136.5 for Delta purposes-->
+|-
+|data-sort-value="9"|{{Season Icon|The Little Prince|table}}||[[Gloating Narcissist]]||{{Spirit|Gloating Narcissist|table}}||2
+|data-sort-value="92"|<u>SV#8</u><br>'''TS#92'''
+|data-sort-value="Apr 7,2025"|Apr 7, 2025<br>'''Jul 20, 2023'''
+|data-sort-value="44"|&Delta;44<br>'''&Delta;48'''<!--SV#8 counts as TS#136.5 for Delta purposes-->
+|-
+|data-sort-value="5"|{{Season Icon|Sanctuary|table}}||[[Rallying Thrillseeker]]||{{Spirit|Rallying Thrillseeker|table}}||3
+|data-sort-value="34"|TS#136<br>TS#79<br>'''TS#34'''
+|data-sort-value="Mar 27, 2025"|Mar 27, 2025<br>Jan 19, 2023<br>'''Apr 29, 2021'''
+|data-sort-value="57"|&Delta;57<br>&Delta;45<br>'''&Delta;16'''
+|-
+|data-sort-value="8"|{{Season Icon|Assembly|table}}||[[Chuckling Scout]]||{{Spirit|Chuckling Scout|table}}||2
+|data-sort-value="82"|TS#135<br><u>'''SV#1'''</u>
+|data-sort-value="Mar 13, 2025"|Mar 13, 2025<br>'''Mar 6, 2023'''
+|data-sort-value="53"|&Delta;53<br>'''&Delta;45'''<!--SV#1 counts as TS#82 for Delta purposes-->
+|-
+|data-sort-value="1"|{{Season Icon|Lightseekers|table}}||[[Piggyback Lightseeker]]||{{Spirit|Piggyback Lightseeker|table}}||4
+|data-sort-value="7"|TS#133<br>TS#80<br>TS#30<br>'''TS#7'''
+|data-sort-value="Feb 13, 2025"|Feb 13, 2025<br>Feb 2, 2023<br>Mar 4, 2021<br>'''Apr 16, 2020'''
+|data-sort-value="53"|&Delta;53<br>&Delta;50<br>&Delta;23<br>'''&Delta;12'''
+|-
+|-style="font-weight:bold;"
+|data-sort-value="12"|{{Season Icon|Performance|table}}||[[Forgetful Storyteller]]||{{Spirit|Forgetful Storyteller|table}}||1
+|data-sort-value="132"|TS#132
+|data-sort-value="Jan 30, 2025"|'''Jan 30, 2025'''
+|data-sort-value="68"|'''&Delta;68'''
+|-
+|data-sort-value="4"|{{Season Icon|Enchantment|table}}||[[Crab Walker]]||{{Spirit|Crab Walker|table}}||3
+|data-sort-value="29"|TS#131<br>TS#83<br>'''TS#29<br>Error'''
+|data-sort-value="Jan 16, 2025"|Jan 16, 2025<br>Mar 16, 2023<br>'''Feb 18, 2021<br>Feb 4, 2021'''
+|data-sort-value="48"|&Delta;48<br>&Delta;54<br>'''&Delta;17<br>Error'''
+|-style="font-weight:bold;"
+|data-sort-value="15"|{{Season Icon|Remembrance|table}}||[[Pleading Child]]||{{Spirit|Pleading Child|table}}||1
+|data-sort-value="130.5"|<u>'''SV#7'''</u><!--SV#7 counts as TS#130.5 for Delta purposes-->
+|data-sort-value="Jan 13, 2025"|'''Jan 13, 2025'''
+|data-sort-value="46.5"|'''&Delta;46.5'''<!--Use 84 for "zero" value when calculating first delta-->
+|-style="font-weight:bold;"
+|data-sort-value="12"|{{Season Icon|Performance|table}}||[[Modest Dancer]]||{{Spirit|Modest Dancer|table}}||1
+|data-sort-value="130.5"|<u>'''SV#7'''</u><!--SV#7 counts as TS#130.5 for Delta purposes-->
+|data-sort-value="Jan 13, 2025"|'''Jan 13, 2025'''
+|data-sort-value="66.5"|'''&Delta;66.5'''<!--Use 64 for "zero" value when calculating first delta-->
+|-
+|data-sort-value="3"|{{Season Icon|Rhythm|table}}||[[Troupe Juggler]]||{{Spirit|Troupe Juggler|table}}||3
+|data-sort-value="44"|<u>SV#7</u><br>TS#99<br>'''TS#44'''<!--SV#7 counts as TS#130.5 for Delta purposes-->
+|data-sort-value="Jan 13, 2025"|Jan 13, 2025<br>Oct 26, 2023<br>'''Sep 16, 2021'''
+|data-sort-value="31.5"|&Delta;31.5<br>&Delta;55<br>'''&Delta;38'''
+|-style="font-weight:bold;"
+|data-sort-value="16"|{{Season Icon|Passage|table}}||[[Oddball Outcast]]||{{Spirit|Oddball Outcast|table}}||1
+|data-sort-value="130.5"|<u>'''SV#7'''</u><!--SV#7 counts as TS#130.5 for Delta purposes-->
+|data-sort-value="Jan 13, 2025"|'''Jan 13, 2025'''
+|data-sort-value="40"|'''&Delta;40'''<!--Use 91 for "zero" value when calculating first delta-->
+|-
+|data-sort-value="3"|{{Season Icon|Rhythm|table}}||[[Troupe Greeter]]||{{Spirit|Troupe Greeter|table}}||4
+|data-sort-value="25"|TS#130<br><u>SV#4</u><br>TS#56<br>'''TS#25'''
+|data-sort-value="Jan 2, 2025"|Jan 2, 2025<br>Aug 7, 2023<br>Mar 3, 2022<br>'''Dec 24, 2020'''
+|data-sort-value="37"|&Delta;37<br>&Delta;37<br>&Delta;31<br>'''&Delta;19'''<!--SV#4 counts as TS#93 for Delta purposes-->
+|-
+|data-sort-value="6"|{{Season Icon|Prophecy|table}}||[[Prophet of Water]]||{{Spirit|Prophet of Water|table}}||4
+|data-sort-value="41"|TS#129<br><u>SV#2</u><br>TS#74<br>'''TS#41'''
+|data-sort-value="Dec 19, 2024"|Dec 19, 2024<br>May 15, 2023<br>Nov 10, 2022<br>'''Aug 5, 2021'''
+|data-sort-value="42"|&Delta;42<br>&Delta;13<br>&Delta;33<br>'''&Delta;17'''<!--SV#2 counts as TS#87 for Delta purposes-->
+|-
+|data-sort-value="8"|{{Season Icon|Assembly|table}}||[[Scolding Student]]||{{Spirit|Scolding Student|table}}||2
+|data-sort-value="68"| TS#128<br>'''TS#68'''
+|data-sort-value="Dec 5, 2024"|Dec 5, 2024<br>'''Aug 18, 2022'''
+|data-sort-value="60"|&Delta;60<br>'''&Delta;31'''
+|-
+|data-sort-value="0"|{{Season Icon|Gratitude|table}}||[[Saluting Protector]]||{{Spirit|Saluting Protector|table}}||2
+|data-sort-value="53"|TS#127<br>TS#53<br>Error
+|data-sort-value="Nov 21, 2024"|Nov 21, 2024<br>Jan 20, 2022<br>May 28, 2020
+|data-sort-value="64"|&Delta;64<br>&Delta;63<br>Error
+|-
+|data-sort-value="2"|{{Season Icon|Belonging|table}}||[[Pleaful Parent]]||{{Spirit|Pleaful Parent|table}}||4
+|data-sort-value="5"|TS#125<br>TS#77<br>TS#24<br>'''TS#5'''
+|data-sort-value="Oct 24, 2024"|Oct 24, 2024<br>Dec 22, 2022<br>Dec 10, 2020<br>'''Mar 26, 2020'''
+|data-sort-value="48"|&Delta;48<br>&Delta;53<br>&Delta;19<br>'''&Delta;5'''
+|-
+|data-sort-value="8"|{{Season Icon|Assembly|table}}||[[Baffled Botanist]]||{{Spirit|Baffled Botanist|table}}||3
+|data-sort-value="78"|TS#123<br><u>SV#1</u><br>'''TS#78'''
+|data-sort-value="Sep 26, 2024"|Sept 26, 2024<br>Mar 6, 2023<br>'''Jan 05, 2023'''
+|data-sort-value="41"|&Delta;41<br>&Delta;4<br>'''&Delta;41'''<!--SV#1 counts as TS#82 for Delta purposes-->
+|-style="font-weight:bold;"
+|data-sort-value="13"|{{Season Icon|Shattering|table}}<ref name=":0">Only [[Seasonal Spirits]] return as [[Traveling Spirits]], but TGC has mentioned that [[Ancestors#Guides|Season Guides]], [[Season of Shattering#Spirits_and_Cosmetics|Shattering Light and Darkness]], and the [[Season of Revival#All Revival Friendship Trees|Revival Mannequins]] will return in some form, bringing their cosmetics. While there is no confirmation about the Revival Mannequins, Ancient Light and Darkness were included in the Special Visit #6. You can find more information [[Traveling Spirits|here]].</ref>
+|[[Ancient Darkness]]||{{Spirit|Ancient Darkness|table}}||1
+|data-sort-value="122.5"|<u>'''SV#6'''</u>
+|data-sort-value="Sep 16, 2024"|'''Sep 16, 2024'''
+|data-sort-value="51"|'''&Delta;51'''<!--SV#6 counts as TS#122 for Delta purposes-->
+|-style="font-weight:bold;"
+|data-sort-value="13"|{{Season Icon|Shattering|table}}<ref name=":0" />||[[Ancient Light]]||{{Spirit|Ancient Light|table}}||1
+|data-sort-value="122.5"|<u>'''SV#6'''</u>
+|data-sort-value="Sep 16, 2024"|'''Sep 16, 2024'''
+|data-sort-value="51"|'''&Delta;51'''<!--SV#6 counts as TS#122 for Delta purposes-->
+|-
+|data-sort-value="1"|{{Season Icon|Lightseekers|table}}||[[Shushing Light Scholar]]||{{Spirit|Shushing Light Scholar|table}}||3
+|data-sort-value="16"|TS#122<br>TS#70<br>'''TS#16'''
+|data-sort-value="Sep 12, 2024"|Sep 12, 2024<br>Sep 15, 2022<br>'''Aug 20, 2020'''
+|data-sort-value="52"|&Delta;52<br>&Delta;54<br>'''&Delta;21'''
+|- 
+|data-sort-value="7"|{{Season Icon|Dreams|table}}||[[Spinning Mentor]]||{{Spirit|Spinning Mentor|table}}||3
+|data-sort-value="59"|TS#120<br>TS#91<br>'''TS#59'''
+|data-sort-value="Aug 15, 2024"|Aug 15, 2024<br>Jul 6, 2023<br>'''Apr 14, 2022'''
+|data-sort-value="29"|&Delta;29<br>&Delta;32<br>'''&Delta;28'''
+|-style="font-weight:bold;"
+|data-sort-value="12"|{{Season Icon|Performance|table}}||[[Mellow Musician]]||{{Spirit|Mellow Musician|table}}||1
+|data-sort-value="119"|'''TS#119'''
+|data-sort-value="Aug 1, 2024"|'''August 1, 2024'''
+|data-sort-value="55"|'''&Delta;55'''
+|-
+|data-sort-value="4"|{{Season Icon|Enchantment|table}}||[[Scarecrow Farmer]]||{{Spirit|Scarecrow Farmer|table}}||2
+|data-sort-value="58"|TS#118<br>'''TS#58'''
+|data-sort-value="Jul 18, 2024"|Jul 18, 2024<br>'''Mar 31, 2022'''
+|data-sort-value="60"|&Delta;60<br>'''&Delta;46'''
+|-
+|data-sort-value="3"|{{Season Icon|Rhythm|table}}||[[Thoughtful Director]]||{{Spirit|Thoughtful Director|table}}||4
+|data-sort-value="35"|TS#116<br><u>SV#3</u><br>TS#67<br>'''TS#35'''
+|data-sort-value="Jun 20, 2024"|Jun 20, 2024<br>Jul 3, 2023<br>Aug 4, 2022<br>'''May 13, 2021'''
+|data-sort-value="25"|&Delta;25<br>&Delta;24<br>&Delta;32<br>'''&Delta;29'''<!--SV#3 counts as TS#91 for Delta purposes-->
+|-
+|data-sort-value="0"|{{Season Icon|Gratitude|table}}||[[Leaping Dancer]]||{{Spirit|Leaping Dancer|table}}||4
+|data-sort-value="12"|TS#115<br><u>SV#3</u><br>TS#31<br>'''TS#12'''
+|data-sort-value="Jun 6, 2024"|Jun 6, 2024<br>Jul 3, 2023<br>Mar 18, 2021<br>'''Jun 25, 2020'''
+|data-sort-value="24"|&Delta;24<br>&Delta;60<br>&Delta;19<br>'''&Delta;22'''<!--SV#3 counts as TS#91 for Delta purposes-->
+|-
+|data-sort-value="1"|{{Season Icon|Lightseekers|table}}||[[Doublefive Light Catcher]]||{{Spirit|Doublefive Light Catcher|table}}||4
+|data-sort-value="2"|TS#114<br>TS#66<br>TS#33<br>'''TS#2'''
+|data-sort-value="May 23, 2024"|May 23, 2024<br>Jul 21, 2022<ref name="TS66_extended">TS#66 for Doublefive Light Catcher lasted until [https://discord.com/channels/575762611111592007/575768778789617674/1000213305635385524 the end of Tuesday, July 26 (instead of Sunday, July 24)] to accommodated users impacted by the DDoS server issues.</ref><br>Apr 15, 2021<br>'''Feb 14, 2020'''
+|data-sort-value="48"|&Delta;48<br>&Delta;33<br>&Delta;31<br>'''&Delta;7'''
+|- 
+|data-sort-value="5"|{{Season Icon|Sanctuary|table}}||[[Timid Bookworm]]||{{Spirit|Timid Bookworm|table}}||3
+|data-sort-value="37"|TS#113<br>TS#65<br>'''TS#37'''
+|data-sort-value="May 9, 2024"|May 9, 2024<br>Jul 7, 2022<br>'''Jun 10, 2021'''
+|data-sort-value="48"|&Delta;48<br>&Delta;28<br>'''&Delta;19'''
+|-style="font-weight:bold;"
+|data-sort-value="7"|{{Season Icon|Dreams|table}}||[[Dancing Performer]]||{{Spirit|Dancing Performer|table}}||1
+|data-sort-value="112"|'''TS#112'''
+|data-sort-value="Apr 25, 2024"|'''Apr 25, 2024'''
+|data-sort-value="81"|'''&Delta;81'''
+|-
+|data-sort-value="0"|{{Season Icon|Gratitude|table}}||[[Sassy Drifter]]||{{Spirit|Sassy Drifter|table}}||5
+|data-sort-value="1"|TS#111<br>TS#76<br>TS#39<br>TS#10<br>'''TS#1'''
+|data-sort-value="Apr 11, 2024"|Apr 11, 2024<br>Dec 8, 2022<br>Jul 8, 2021<br>May 28, 2020<br>'''Jan 31, 2020'''
+|data-sort-value="35"|&Delta;35<br>&Delta;37<br>&Delta;29<br>&Delta;9<br>'''&Delta;11'''
+|-
+|data-sort-value="2"|{{Season Icon|Belonging|table}}||[[Hairtousle Teen]]||{{Spirit|Hairtousle Teen|table}}||3
+|data-sort-value="11"|TS#110<br>TS#63<br>'''TS#11'''
+|data-sort-value="Mar 28, 2024"|Mar 28, 2024<br>Jun 9, 2022<br>'''Jun 11, 2020'''
+|data-sort-value="47"|&Delta;47<br>&Delta;52<br>'''&Delta;11'''
+|-
+|data-sort-value="8"|{{Season Icon|Assembly|table}}||[[Daydream Forester]]||{{Spirit|Daydream Forester|table}}||2
+|data-sort-value="60"|TS#109<br>'''TS#60'''
+|data-sort-value="Mar 14, 2024"|Mar 14, 2024<br>'''Apr 28, 2022'''
+|data-sort-value="49"|&Delta;49<br>'''&Delta;23'''
+|-
+|data-sort-value="4"|{{Season Icon|Enchantment|table}}||[[Indifferent Alchemist]]||{{Spirit|Indifferent Alchemist|table}}||3
+|data-sort-value="21"|<u>SV#5</u><br>TS#69<br>'''TS#21'''
+|data-sort-value="Mar 4, 2024"|Mar 4, 2024<br>Sep 1, 2022<br>'''Oct 29, 2020'''
+|data-sort-value="39"|&Delta;39<br>&Delta;48<br>'''&Delta;9'''<!--SV#5 counts as TS#108 for Delta purposes-->
+|-
+|data-sort-value="4"|{{Season Icon|Enchantment|table}}||[[Nodding Muralist]]||{{Spirit|Nodding Muralist|table}}||3
+|data-sort-value="26"|<u>SV#5</u><br>TS#73<br>'''TS#26'''
+|data-sort-value="Mar 4, 2024"|Mar 4, 2024<br>Oct 27, 2022<br>'''Jan 7, 2021'''
+|data-sort-value="35"|&Delta;35<br>&Delta;47<br>'''&Delta;14'''<!--SV#5 counts as TS#108 for Delta purposes-->
+|-style="font-weight:bold;"
+|data-sort-value="11"|{{Season Icon|Abyss|table}}||[[Ceasing Commodore]]||{{Spirit|Ceasing Commodore|table}}||1
+|data-sort-value="108.5"|<u>'''SV#5'''</u>
+|data-sort-value="Mar 4, 2024"|'''Mar 4, 2024'''
+|data-sort-value="50"|'''&Delta;50'''<!--SV#5 counts as TS#108 for Delta purposes-->
+|-style="font-weight:bold;"
+|data-sort-value="12"|{{Season Icon|Performance|table}}||[[Frantic Stagehand]]||{{Spirit|Frantic Stagehand|table}}||1
+|data-sort-value="108.5"|<u>'''SV#5'''</u>
+|data-sort-value="Mar 4, 2024"|'''Mar 4, 2024'''
+|data-sort-value="44"|'''&Delta;44'''<!--SV#5 counts as TS#108 for Delta purposes-->
+|-style="font-weight:bold;"
+|data-sort-value="10"|{{Season Icon|Flight|table}}||[[Light Whisperer]]||{{Spirit|Light Whisperer|table}}||1
+|data-sort-value="108"|'''TS#108'''
+|data-sort-value="Feb 29, 2024"|'''Feb 29, 2024'''
+|data-sort-value="57"|'''&Delta;57'''
+|-
+|data-sort-value="7"|{{Season Icon|Dreams|table}}||[[Bearhug Hermit]]||{{Spirit|Bearhug Hermit|table}}||2
+|data-sort-value="75"|TS#107<br>'''TS#75'''
+|data-sort-value="Feb 15, 2024"|Feb 15,2024<br>'''Nov 24, 2022'''
+|data-sort-value="32"|&Delta;32<br>'''&Delta;44'''
+|-
+|data-sort-value="1"|{{Season Icon|Lightseekers|table}}||[[Twirling Champion]]||{{Spirit|Twirling Champion|table}}||3
+|data-sort-value="18"|TS#106<br>TS#52<br>'''TS#18'''
+|data-sort-value="Feb 1, 2024"|Feb 1, 2024<br>Jan 6, 2022<br>'''Sep 17, 2020'''
+|data-sort-value="54"|&Delta;54<br>&Delta;34<br>'''&Delta;23'''
+|-
+|data-sort-value="5"|{{Season Icon|Sanctuary|table}}||[[Chill Sunbather]]||{{Spirit|Chill Sunbather|table}}||2
+|data-sort-value="42"|TS#104<br>'''TS#42'''
+|data-sort-value="Jan 4, 2024"|Jan 4, 2024<br>'''Aug 19, 2021'''
+|data-sort-value="62"|&Delta;62<br>'''&Delta;24'''
+|-
+|data-sort-value="3"|{{Season Icon|Rhythm|table}}||[[Festival Spin Dancer]]||{{Spirit|Festival Spin Dancer|table}}||3
+|data-sort-value="17"|TS#103<br>TS#46<br>'''TS#17'''
+|data-sort-value="Dec 21, 2023"|Dec 21, 2023<br>Oct 14, 2021<br>'''Sep 3, 2020'''
+|data-sort-value="57"|&Delta;57<br>&Delta;29<br>'''&Delta;11'''
+|-style="font-weight:bold;"
+|data-sort-value="10"|{{Season Icon|Flight|table}}||[[Talented Builder]]||{{Spirit|Talented Builder|table}}||1
+|data-sort-value="101"|'''TS#101'''
+|data-sort-value="Nov 23, 2023"|'''Nov 23, 2023'''
+|data-sort-value="50"|'''&Delta;50'''
+|-
+|data-sort-value="2"|{{Season Icon|Belonging|table}}||[[Wise Grandparent]]||{{Spirit|Wise Grandparent|table}}||3
+|data-sort-value="15"|TS#100<br>TS#48<br>'''TS#15'''
+|data-sort-value="Nov 9, 2023"|Nov 9, 2023<br>Nov 11, 2021<br>'''Aug 6, 2020'''
+|data-sort-value="52"|&Delta;52<br>&Delta;33<br>'''&Delta;15'''
+|-
+|data-sort-value="4"|{{Season Icon|Enchantment|table}}||[[Playfighting Herbalist]]||{{Spirit|Playfighting Herbalist|table}}||2
+|data-sort-value="47"|TS#98<br>'''TS#47'''
+|data-sort-value="Oct 12, 2023"|Oct 12, 2023<br>'''Oct 28, 2021'''
+|data-sort-value="51"|&Delta;51<br>'''&Delta;35'''
+|-
+|data-sort-value="2"|{{Season Icon|Belonging|table}}||[[Confetti Cousin]]||{{Spirit|Confetti Cousin|table}}||3
+|data-sort-value="13"|TS#97<br>TS#27<br>'''TS#13'''
+|data-sort-value="Sep 28, 2023"|Sep 28, 2023<br>Jan 21, 2021<br>'''Jul 9, 2020'''
+|data-sort-value="70"|&Delta;70<br>&Delta;14<br>'''&Delta;13'''
+|- 
+|data-sort-value="5"|{{Season Icon|Sanctuary|table}}||[[Jelly Whisperer]]||{{Spirit|Jelly Whisperer|table}}||2
+|data-sort-value="49"|TS#95<br>'''TS#49'''
+|data-sort-value="Aug 31, 2023"|Aug 31, 2023<br>'''Nov 25, 2021'''
+|data-sort-value="46"|&Delta;46<br>'''&Delta;31'''
+|-
+|data-sort-value="1"|{{Season Icon|Lightseekers|table}}||[[Crab Whisperer]]||{{Spirit|Crab Whisperer|table}}||3
+|data-sort-value="6"|<u>SV#4</u><br>TS#43<br>'''TS#6'''
+|data-sort-value="Aug 7, 2023"|Aug 7, 2023<br>Sep 2, 2021<br>'''Apr 9, 2020'''
+|data-sort-value="50"|&Delta;50<br>&Delta;37<br>'''&Delta;11'''<!--SV#4 counts as TS#93 for Delta purposes-->
+|-style="font-weight:bold;"
+|data-sort-value="11"|{{Season Icon|Abyss|table}}||[[Cackling Cannoneer]]||{{Spirit|Cackling Cannoneer|table}}||1
+|data-sort-value="93"|<u>'''SV#4'''</u>
+|data-sort-value="Aug 7, 2023"|'''Aug 7, 2023'''
+|data-sort-value="35"|'''&Delta;35'''<!--SV#4 counts as TS#93 for Delta purposes-->
+|-
+|data-sort-value="5"|{{Season Icon|Sanctuary|table}}||[[Hiking Grouch]]||{{Spirit|Hiking Grouch|table}}||2
+|data-sort-value="55"|<u>SV#4</u><br>'''TS#55'''
+|data-sort-value="Aug 7, 2023"|Aug 7, 2023<br>'''Feb 17, 2022'''
+|data-sort-value="38"|&Delta;38<br>'''&Delta;37'''<!--SV#4 counts as TS#93 for Delta purposes-->
+|-
+|data-sort-value="6"|{{Season Icon|Prophecy|table}}||[[Prophet of Fire]]||{{Spirit|Prophet of Fire|table}}||2
+|data-sort-value="50"|TS#93<br>'''TS#50'''
+|data-sort-value="Aug 3, 2023"|Aug 3, 2023<br>'''Dec 9, 2021'''
+|data-sort-value="43"|&Delta;43<br>'''&Delta;26'''
+|-
+|data-sort-value="0"|{{Season Icon|Gratitude|table}}||[[Greeting Shaman]]||{{Spirit|Greeting Shaman|table}}||3
+|data-sort-value="14"|<u>SV#3</u><br>TS#62<br>'''TS#14'''
+|data-sort-value="Jul 3, 2023"|Jul 3, 2023<br>May 26, 2022<br>'''Jul 23, 2020'''
+|data-sort-value="29"|&Delta;29<br>&Delta;48<br>'''&Delta;24'''<!--SV#3 counts as TS#91 for Delta purposes-->
+|-
+|data-sort-value="3"|{{Season Icon|Rhythm|table}}||[[Respectful Pianist]]||{{Spirit|Respectful Pianist|table}}||2
+|data-sort-value="28"|<u>SV#3</u><br>'''TS#28'''
+|data-sort-value="Jul 3, 2023"|Jul 3, 2023<br>'''Feb 4, 2021'''
+|data-sort-value="63"|&Delta;63<br>'''&Delta;22'''<!--SV#3 counts as TS#91 for Delta purposes-->
+|-
+|data-sort-value="2"|{{Season Icon|Belonging|table}}||[[Sparkler Parent]]||{{Spirit|Sparkler Parent|table}}||4
+|data-sort-value="9"|TS#90<br>TS#51<br>TS#32<br>'''TS#9'''
+|data-sort-value="Jun 22, 2023"|Jun 22, 2023<br>Dec 23, 2021<br>Apr 1, 2021<br>'''May 14, 2020'''
+|data-sort-value="39"|&Delta;39<br>&Delta;19<br>&Delta;23<br>'''&Delta;9'''
+|-
+|data-sort-value="5"|{{Season Icon|Sanctuary|table}}||[[Grateful Shell Collector]]||{{Spirit|Grateful Shell Collector|table}}||2
+|data-sort-value="45"|TS#88<br>'''TS#45'''
+|data-sort-value="May 25, 2023"|May 25, 2023<br>'''Sep 30, 2021'''
+|data-sort-value="43"|&Delta;43<br>'''&Delta;27'''
+|-
+|data-sort-value="4"|{{Season Icon|Enchantment|table}}||[[Snoozing Carpenter]]||{{Spirit|Snoozing Carpenter|table}}||2
+|data-sort-value="36"|TS#86<br>'''TS#36'''
+|data-sort-value="Apr 27, 2023"|Apr 27, 2023<br>'''May 27, 2021'''
+|data-sort-value="50"|&Delta;50<br>'''&Delta;24'''
+|- style="font-weight:bold;"
+|data-sort-value="7"|{{Season Icon|Dreams|table}}||[[Peeking Postman]]||{{Spirit|Peeking Postman|table}}||1
+|data-sort-value="64"|'''TS#64'''
+|data-sort-value="Jun 23, 2022"|'''Jun 23, 2022'''
+|data-sort-value="33"|'''&Delta;33'''
+|-
+|data-sort-value="16"|{{Season Icon|Passage|table}}||[[Melancholy Mope]]||{{Spirit|Melancholy Mope|table}}||0
+|data-sort-value="0"|
+|data-sort-value="Jul 2, 2023"|''Jul 2, 2023''
+|data-sort-value="-1"|<!--Use 91 for "zero" value when calculating first delta-->
+|-
+|data-sort-value="16"|{{Season Icon|Passage|table}}||[[Overactive Overachiever]]||{{Spirit|Overactive Overachiever|table}}||0
+|data-sort-value="0"|
+|data-sort-value="Jul 2, 2023"|''Jul 2, 2023''
+|data-sort-value="-1"|<!--Use 91 for "zero" value when calculating first delta-->
+|-
+|data-sort-value="17"|{{Season Icon|Moments|table}}||[[Reassuring Ranger]]||{{Spirit|Reassuring Ranger|table}}||0
+|data-sort-value="0"|
+|data-sort-value="Oct 1, 2023"|''Oct 1, 2023''
+|data-sort-value="-1"|<!--Use 97 for "zero" value when calculating first delta-->
+|-
+|data-sort-value="17"|{{Season Icon|Moments|table}}||[[Ascetic Monk]]||{{Spirit|Ascetic Monk|table}}||0
+|data-sort-value="0"|
+|data-sort-value="Oct 1, 2023"|''Oct 1, 2023''
+|data-sort-value="-1"|<!--Use 97 for "zero" value when calculating first delta-->
+|-
+|data-sort-value="17"|{{Season Icon|Moments|table}}||[[Nightbird Whisperer]]||{{Spirit|Nightbird Whisperer|table}}||0
+|data-sort-value="0"|
+|data-sort-value="Oct 1, 2023"|''Oct 1, 2023''
+|data-sort-value="-1"|<!--Use 97 for "zero" value when calculating first delta-->
+|-
+|data-sort-value="18"|{{Season Icon|Revival|table}}<ref name=":0" />||''[[Vestige of a Deserted Oasis]]||{{Spirit|Vestige of a Deserted Oasis|table}}''||0
+|data-sort-value="0"|
+|data-sort-value="Dec 31, 2023"|''Dec 31, 2023''
+|data-sort-value="-1"|<!--Use 104 for "zero" value when calculating first delta-->
+|-
+|data-sort-value="18"|{{Season Icon|Revival|table}}<ref name=":0" />||''[[Memory of a Lost Village]]||{{Spirit|Memory of a Lost Village|table}}''||0
+|data-sort-value="0"|
+|data-sort-value="Dec 31, 2023"|''Dec 31, 2023''
+|data-sort-value="-1"|<!--Use 104 for "zero" value when calculating first delta-->
+|-
+|data-sort-value="18"|{{Season Icon|Revival|table}}<ref name=":0" />||''[[Echo of an Abandoned Refuge]]||{{Spirit|Echo of an Abandoned Refuge|table}}''||0
+|data-sort-value="0"|
+|data-sort-value="Dec 31, 2023"|''Dec 31, 2023''
+|data-sort-value="-1"|<!--Use 104 for "zero" value when calculating first delta-->
+|-
+|data-sort-value="18"|{{Season Icon|Revival|table}}<ref name=":0" />||''[[Remnant of a Forgotten Haven]]||{{Spirit|Remnant of a Forgotten Haven|table}}''||0
+|data-sort-value="0"|
+|data-sort-value="Dec 31, 2023"|''Dec 31, 2023''
+|data-sort-value="-1"|<!--Use 104 for "zero" value when calculating first delta-->
+|-
+|data-sort-value="19"|{{Season Icon|Nine-Colored Deer|table}}||[[Herb Gatherer]]||{{Spirit|Herb Gatherer|table}}||0
+|data-sort-value="0"|
+|data-sort-value="Mar 31, 2024"|''Mar 31, 2024''
+|data-sort-value="-1"|<!--Use 110 for "zero" value when calculating first delta-->
+|-
+|data-sort-value="19"|{{Season Icon|Nine-Colored Deer|table}}||[[Hunter]]||{{Spirit|Hunter|table}}||0
+|data-sort-value="0"|
+|data-sort-value="Mar 31, 2024"|''Mar 31, 2024''
+|data-sort-value="-1"|<!--Use 110for "zero" value when calculating first delta-->
+|-
+|data-sort-value="19"|{{Season Icon|Nine-Colored Deer|table}}||[[Feudal Lord]]||{{Spirit|Feudal Lord|table}}||0
+|data-sort-value="0"|
+|data-sort-value="Mar 31, 2024"|''Mar 31, 2024''
+|data-sort-value="-1"|<!--Use 110 for "zero" value when calculating first delta-->
+|-
+|data-sort-value="19"|{{Season Icon|Nine-Colored Deer|table}}||[[Princess]]||{{Spirit|Princess|table}}||0
+|data-sort-value="0"|
+|data-sort-value="Mar 31, 2024"|''Mar 31, 2024''
+|data-sort-value="-1"|<!--Use 110 for "zero" value when calculating first delta-->
+|-
+|data-sort-value="20"|{{Season Icon|Nesting|table}}<ref name=":0" />||''[[Nesting Solarium]]||{{Spirit|Nesting Solarium|table}}''||0
+|data-sort-value="0"|
+|data-sort-value="Jun 30, 2024"|''Jun 30, 2024''
+|data-sort-value="-1"|<!--Use 117 for "zero" value when calculating first delta-->
+|-
+|data-sort-value="20"|{{Season Icon|Nesting|table}}<ref name=":0" />||''[[Nesting Loft]]||{{Spirit|Nesting Loft|table}}''||0
+|data-sort-value="0"|
+|data-sort-value="Jun 30, 2024"|''Jun 30, 2024''
+|data-sort-value="-1"|<!--Use 117 for "zero" value when calculating first delta-->
+|-
+|data-sort-value="20"|{{Season Icon|Nesting|table}}<ref name=":0" />||''[[Nesting Atrium]]||{{Spirit|Nesting Atrium|table}}''||0
+|data-sort-value="0"|
+|data-sort-value="Jun 30, 2024"|''Jun 30, 2024''
+|data-sort-value="-1"|<!--Use 117 for "zero" value when calculating first delta-->
+|-
+|data-sort-value="20"|{{Season Icon|Nesting|table}}<ref name=":0" />||''[[Nesting Nook]]||{{Spirit|Nesting Nook|table}}''||0
+|data-sort-value="0"|
+|data-sort-value="Jun 30, 2024"|''Jun 30, 2024''
+|data-sort-value="-1"|<!--Use 117 for "zero" value when calculating first delta-->
+|-
+|data-sort-value="21"|{{Season Icon|Duets|table}}<ref name=":0" />||''[[The Pianist's Beginnings]]||{{Spirit|The Pianist's Beginnings|table}}''||0
+|data-sort-value="0"|
+|data-sort-value="Sep 29, 2024"|''Sep 29, 2024''
+|data-sort-value="-1"|<!--Use 123 for "zero" value when calculating first delta-->
+|-
+|data-sort-value="21"|{{Season Icon|Duets|table}}<ref name=":0" />||''[[The Cellist's Beginnings]]||{{Spirit|The Cellist's Beginnings|table}}''||0
+|data-sort-value="0"|
+|data-sort-value="Sep 29, 2024"|''Sep 29, 2024''
+|data-sort-value="-1"|<!--Use 123 for "zero" value when calculating first delta-->
+|-
+|data-sort-value="21"|{{Season Icon|Duets|table}}<ref name=":0" />||''[[The Musicians' Legacy]]||{{Spirit|The Musicians' Legacy|table}}''||0
+|data-sort-value="0"|
+|data-sort-value="Sep 29, 2024"|''Sep 29, 2024''
+|data-sort-value="-1"|<!--Use 123 for "zero" value when calculating first delta-->
+|-
+|data-sort-value="21"|{{Season Icon|Duets|table}}<ref name=":0" />||''[[The Cellist's Flourishing]]||{{Spirit|The Cellist's Flourishing|table}}''||0
+|data-sort-value="0"|
+|data-sort-value="Sep 29, 2024"|''Sep 29, 2024''
+|data-sort-value="-1"|<!--Use 123 for "zero" value when calculating first delta-->
+|-
+|data-sort-value="21"|{{Season Icon|Duets|table}}<ref name=":0" />||''[[The Pianist's Flourishing]]||{{Spirit|The Pianist's Flourishing|table}}''||0
+|data-sort-value="0"|
+|data-sort-value="Sep 29, 2024"|''Sep 29, 2024''
+|data-sort-value="-1"|<!--Use 123 for "zero" value when calculating first delta-->
+|-
+|data-sort-value="22"|{{Season Icon|Moomin|table}}<ref name=":0" />||''[[Comfort of Kindness]]||{{Spirit|Comfort of Kindness|table}}''||0
+|data-sort-value="0"|
+|data-sort-value="Dec 29, 2024"|''Dec 29, 2024''
+|data-sort-value="-1"|<!--Use 130 for "zero" value when calculating first delta-->
+|-
+|data-sort-value="22"|{{Season Icon|Moomin|table}}<ref name=":0" />||''[[Inspiration of Inclusion]]||{{Spirit|Inspiration of Inclusion|table}}''||0
+|data-sort-value="0"|
+|data-sort-value="Dec 29, 2024"|''Dec 29, 2024''
+|data-sort-value="-1"|<!--Use 130 for "zero" value when calculating first delta-->
+|-
+|data-sort-value="22"|{{Season Icon|Moomin|table}}<ref name=":0" />||''[[Sense of Self]]||{{Spirit|Sense of Self|table}}''||0
+|data-sort-value="0"|
+|data-sort-value="Dec 29, 2024"|''Dec 29, 2024''
+|data-sort-value="-1"|<!--Use 130 for "zero" value when calculating first delta-->
+|-
+|data-sort-value="22"|{{Season Icon|Moomin|table}}<ref name=":0" />||''[[Spirit of Adventure]]||{{Spirit|Spirit of Adventure|table}}''||0
+|data-sort-value="0"|
+|data-sort-value="Dec 29, 2024"|''Dec 29, 2024''
+|data-sort-value="-1"|<!--Use 130 for "zero" value when calculating first delta-->
+|-
+|data-sort-value="23"|{{Season Icon|Radiance|table}}||''[[Radiance Greeting Shaman]]||{{Spirit|Radiance Greeting Shaman|table}}''||0
+|data-sort-value="0"|
+|data-sort-value="Apr 6, 2025"|''Apr 6, 2025''
+|data-sort-value="-1"|<!--Use 137 for "zero" value when calculating first delta-->
+|-
+|data-sort-value="23"|{{Season Icon|Radiance|table}}||''[[Radiance Leaping Dancer]]||{{Spirit|Radiance Leaping Dancer|table}}''||0
+|data-sort-value="0"|
+|data-sort-value="Apr 6, 2025"|''Apr 6, 2025''
+|data-sort-value="-1"|<!--Use 137 for "zero" value when calculating first delta-->
+|-
+|data-sort-value="23"|{{Season Icon|Radiance|table}}||''[[Radiance Provoking Performer]]||{{Spirit|Radiance Provoking Performer|table}}''||0
+|data-sort-value="0"|
+|data-sort-value="Apr 6, 2025"|''Apr 6, 2025''
+|data-sort-value="-1"|<!--Use 137 for "zero" value when calculating first delta-->
+|-
+|data-sort-value="24"|{{Season Icon|Blue Bird|table}}||''[[Costumed Confetti Cousin]]||{{Spirit|Costumed Confetti Cousin|table}}''||0
+|data-sort-value="0"|
+|data-sort-value="Jul 6, 2025"|''Jul 6, 2025''
+|data-sort-value="-1"|<!--Use 143 for "zero" value when calculating first delta-->
+|-
+|data-sort-value="24"|{{Season Icon|Blue Bird|table}}||''[[Divining Wise Grandparent]]||{{Spirit|Divining Wise Grandparent|table}}''||0
+|data-sort-value="0"|
+|data-sort-value="Jul 6, 2025"|''Jul 6, 2025''
+|data-sort-value="-1"|<!--Use 143 for "zero" value when calculating first delta-->
+|-
+|data-sort-value="24"|{{Season Icon|Blue Bird|table}}||''[[Nostalgic Sparkler Parent]]||{{Spirit|Nostalgic Sparkler Parent|table}}''||0
+|data-sort-value="0"|
+|data-sort-value="Jul 6, 2025"|''Jul 6, 2025''
+|data-sort-value="-1"|<!--Use 143 for "zero" value when calculating first delta-->
+|-
+|data-sort-value="24"|{{Season Icon|Blue Bird|table}}||''[[Royal Hairtousle Teen]]||{{Spirit|Royal Hairtousle Teen|table}}''||0
+|data-sort-value="0"|
+|data-sort-value="Jul 6, 2025"|''Jul 6, 2025''
+|data-sort-value="-1"|<!--Use 143 for "zero" value when calculating first delta-->
+|-
+|data-sort-value="24"|{{Season Icon|Blue Bird|table}}||''[[Woodcutting Pleaful Parent]]||{{Spirit|Woodcutting Pleaful Parent|table}}''||0
+|data-sort-value="0"|
+|data-sort-value="Jul 6, 2025"|''Jul 6, 2025''
+|data-sort-value="-1"|<!--Use 143 for "zero" value when calculating first delta-->
+|-
+|data-sort-value="24"|{{Season Icon|Two Embers - Part 1|table}}||''[[Resourceful Recluse]]||{{Spirit|Resourceful Recluse|table}}''||0
+|data-sort-value="0"|
+|data-sort-value="Oct 5, 2025"|''Oct 5, 2025''
+|data-sort-value="-1"|<!--Use 150 for "zero" value when calculating first delta-->
+|-
+|data-sort-value="24"|{{Season Icon|Two Embers - Part 1|table}}||''[[Scarred Sentry]]||{{Spirit|Scarred Sentry|table}}''||0
+|data-sort-value="0"|
+|data-sort-value="Oct 5, 2025"|''Oct 5, 2025''
+|data-sort-value="-1"|<!--Use 150 for "zero" value when calculating first delta-->
+|-
+|data-sort-value="24"|{{Season Icon|Two Embers - Part 1|table}}||''[[Stern Shepherd]]||{{Spirit|Stern Shepherd|table}}''||0
+|data-sort-value="0"|
+|data-sort-value="Oct 5, 2025"|''Oct 5, 2025''
+|data-sort-value="-1"|<!--Use 150 for "zero" value when calculating first delta-->
+|-
+|data-sort-value="24"|{{Season Icon|Two Embers - Part 1|table}}||''[[Tender Toymaker]]||{{Spirit|Tender Toymaker|table}}''||0
+|data-sort-value="0"|
+|data-sort-value="Oct 5, 2025"|''Oct 5, 2025''
+|data-sort-value="-1"|<!--Use 150 for "zero" value when calculating first delta-->
+|}
+
+=== Appearances by Date===
+Expand the following table to see a list of all spirit appearances per date (one visit per row). See [[#Appearances by Spirit|Appearances by Spirit]] for more information on the columns.
+{|class="sortable mw-collapsible mw-collapsed article-table"
+|+Appearances by Date
+!Season||Spirit||Visit
+!data-sort-type="number"|Visit#
+!data-sort-type="date"|Date
+|-
+|data-sort-value="3"|{{Season Icon|Rhythm|table}}||[[Admiring Actor]]||4th||data-sort-value=150|TS#150||Oct 9, 2025
+|-
+|data-sort-value="6"|{{Season Icon|Prophecy|table}}||[[Prophet of Air]]||3rd||data-sort-value=149|TS#149||Sep 25, 2025
+|-
+|data-sort-value="0"|{{Season Icon|Gratitude|table}}||[[Provoking Performer]]||4th||data-sort-value=148|TS#148||Sep 11, 2025
+|-
+|data-sort-value="8"|{{Season Icon|Assembly|table}}||[[Scaredy Cadet]]||2nd||data-sort-value=147|TS#147||Aug 28, 2025
+|-
+|data-sort-value="11"|{{Season Icon|Abyss|table}}||[[Anxious Angler]]||2nd||data-sort-value=146.5|SV#10||Aug 18, 2025
+|-style="font-weight:bold;"
+|data-sort-value="15"|{{Season Icon|Remembrance|table}}||[[Wounded Warrior]]||1st||data-sort-value=146.5|SV#10||Aug 18, 2025
+|-
+|data-sort-value="11"|{{Season Icon|Abyss|table}}||[[Bumbling Boatswain]]||2nd||data-sort-value=146.5|SV#10||Aug 18, 2025
+|-style="font-weight:bold;"
+|data-sort-value="15"|{{Season Icon|Remembrance|table}}||[[Tiptoeing Tea-Brewer]]||1st||data-sort-value=146.5|SV#10||Aug 18, 2025
+|-
+|data-sort-value="10"|{{Season Icon|Flight|table}}||[[Tinkering Chimesmith]]||2nd||data-sort-value=146|TS#146||Aug 14, 2025
+|-
+|data-sort-value="6"|{{Season Icon|Prophecy|table}}||[[Prophet of Earth]]||4th||data-sort-value=145|TS#145||Jul 31, 2025
+|-style="font-weight:bold;"
+|data-sort-value="17"|{{Season Icon|Moments|table}}||[[Jolly Geologist]]||1st||data-sort-value=144|TS#144||Jul 17, 2025
+|-
+|data-sort-value="8"|{{Season Icon|Assembly|table}}||[[Marching Adventurer]]||2nd||data-sort-value=82.1|TS#143||Jul 3, 2025
+|-
+|data-sort-value="2"|{{Season Icon|Belonging|table}}||[[Boogie Kid]]||4th||data-sort-value=82|TS#142||Jun 19, 2025
+|-style="font-weight:bold;"
+|data-sort-value="14"|{{Season Icon|Aurora|table}}||[[Running Wayfarer]]||1st||data-sort-value=134|SV#9||Jun 9, 2025
+|-style="font-weight:bold;"
+|data-sort-value="14"|{{Season Icon|Aurora|table}}||[[Seed of Hope]]||1st||data-sort-value=126|SV#9||Jun 9, 2025
+|-
+|data-sort-value="14"|{{Season Icon|Aurora|table}}||[[Mindful Miner]]||2nd||data-sort-value=134|SV#9||Jun 9, 2025
+|-
+|data-sort-value="14"|{{Season Icon|Aurora|table}}||[[Warrior of Love]]||2nd||data-sort-value=126|SV#9||Jun 9, 2025
+|-
+|data-sort-value="1"|{{Season Icon|Lightseekers|table}}||[[Laidback Pioneer]]||4th||data-sort-value=141|TS#141||Jun 5, 2025
+|-style="font-weight:bold;"
+|data-sort-value="15"|{{Season Icon|Remembrance|table}}||[[Bereft Veteran]]||1st||data-sort-value=140|TS#140||May 22, 2025
+|-
+|data-sort-value="10"|{{Season Icon|Flight|table}}||[[Lively Navigator]]||2nd||data-sort-value=139|TS#139||May 8, 2025
+|-style="font-weight:bold;"
+|data-sort-value="16"|{{Season Icon|Passage|table}}||[[Tumbling Troublemaker]]||1st||data-sort-value=138|TS#138||Apr 24, 2025
+|-
+|data-sort-value="0"|{{Season Icon|Gratitude|table}}||[[Stretching Guru]]||3rd||data-sort-value=137|TS#137||Apr 10, 2025
+|-
+|data-sort-value="9"|{{Season Icon|The Little Prince|table}}||[[Slouching Soldier]]||2nd||data-sort-value=135.5|SV#8||Apr 7, 2025
+|- 
+|data-sort-value="9"|{{Season Icon|The Little Prince|table}}||[[Star Collector]]||2nd||data-sort-value=135.5|SV#8||Apr 7, 2025
+|-
+|data-sort-value="9"|{{Season Icon|The Little Prince|table}}||[[Sneezing Geographer]]||2nd||data-sort-value=135.5|SV#8||Apr 7, 2025
+|-
+|data-sort-value="9"|{{Season Icon|The Little Prince|table}}||[[Stretching Lamplighter]]||2nd||data-sort-value=135.5|SV#8||Apr 7, 2025
+|-
+|data-sort-value="9"|{{Season Icon|The Little Prince|table}}||[[Beckoning Ruler]]||3rd||data-sort-value=135.5|SV#8||Apr 7, 2025
+|-
+|data-sort-value="9"|{{Season Icon|The Little Prince|table}}||[[Gloating Narcissist]]||2nd||data-sort-value=135.5|SV#8||Apr 7, 2025
+|-
+|data-sort-value="5"|{{Season Icon|Sanctuary|table}}||[[Rallying Thrillseeker]]||3rd||data-sort-value=136|TS#136||Mar 27, 2025
+|-
+|data-sort-value="8"|{{Season Icon|Assembly|table}}||[[Chuckling Scout]]||2nd||data-sort-value=135|TS#135||Mar 13, 2025
+|-style="font-weight:bold;"
+|data-sort-value="14"|{{Season Icon|Aurora|table}}||[[Mindful Miner]]||1st||data-sort-value=134|TS#134||Feb 27, 2025
+|-
+|data-sort-value="1"|{{Season Icon|Lightseekers|table}}||[[Piggyback Lightseeker]]||4th||data-sort-value=133|TS#133||Feb 13, 2025
+|-style="font-weight:bold;"
+|data-sort-value="12"|{{Season Icon|Performance|table}}||[[Forgetful Storyteller]]||1st||data-sort-value=132|TS#132||Jan 30, 2025
+|-
+|data-sort-value="4"|{{Season Icon|Enchantment|table}}||[[Crab Walker]]||3rd||data-sort-value=131|TS#131||Jan 16, 2025
+|-style="font-weight:bold;"
+|data-sort-value="15"|{{Season Icon|Remembrance|table}}||[[Pleading Child]]||1st||data-sort-value=130.5|SV#7||Jan 13, 2025
+|-style="font-weight:bold;"
+|data-sort-value="12"|{{Season Icon|Performance|table}}||[[Modest Dancer]]||1st||data-sort-value=130.5|SV#7||Jan 13, 2025
+|-
+|data-sort-value="3"|{{Season Icon|Rhythm|table}}||[[Troupe Juggler]]||3rd||data-sort-value=130.5|SV#7||Jan 13, 2025
+|-style="font-weight:bold;"
+|data-sort-value="16"|{{Season Icon|Passage|table}}||[[Oddball Outcast]]||1st||data-sort-value=130.5|SV#7||Jan 13, 2025
+|-
+|data-sort-value="3"|{{Season Icon|Rhythm|table}}||[[Troupe Greeter]]||4th||data-sort-value=130|TS#130||Jan 2, 2025
+|-
+|data-sort-value="6"|{{Season Icon|Prophecy|table}}||[[Prophet of Water]]||4th||data-sort-value=129|TS#129||Dec 19, 2024
+|-
+|data-sort-value="8"|{{Season Icon|Assembly|table}}||[[Scolding Student]]||2nd||data-sort-value=128|TS#128||Dec 5, 2024
+|-
+|data-sort-value="0"|{{Season Icon|Gratitude|table}}||[[Saluting Protector]]||2nd||data-sort-value=127|TS#127||Nov 21, 2024
+|-style="font-weight:bold;"
+|data-sort-value="14"|{{Season Icon|Aurora|table}}||[[Warrior of Love]]||1st||data-sort-value=126|TS#126||Nov 7, 2024
+|-
+|data-sort-value="2"|{{Season Icon|Belonging|table}}||[[Pleaful Parent]]||4th||data-sort-value=125|TS#125||Oct 24, 2024
+|-style="font-weight:bold;"
+|data-sort-value="11"|{{Season Icon|Abyss|table}}||[[Bumbling Boatswain]]||1st||data-sort-value=124|TS#124||Oct 10, 2024
+|-
+|data-sort-value="8"|{{Season Icon|Assembly|table}}||[[Baffled Botanist]]||3rd||data-sort-value=123|TS#123||Sep 26, 2024
+|-style="font-weight:bold;"
+|data-sort-value="13"|{{Season Icon|Shattering|table}}||[[Ancient Darkness]]||1st||data-sort-value=122.5|SV#6||Sep 16, 2024
+|-style="font-weight:bold;"
+|data-sort-value="13"|{{Season Icon|Shattering|table}}||[[Ancient Light]]||1st||data-sort-value=122.5|SV#6||Sep 16, 2024
+|-
+|data-sort-value="1"|{{Season Icon|Lightseekers|table}}||[[Shushing Light Scholar]]||3rd||data-sort-value=122|TS#122||Sep 12, 2024
+|-
+|data-sort-value="6"|{{Season Icon|Prophecy|table}}||[[Prophet of Earth]]||3rd||data-sort-value=121|TS#121||Aug 29, 2024
+|-
+|data-sort-value="7"|{{Season Icon|Dreams|table}}||[[Spinning Mentor]]||3rd||data-sort-value=120|TS#120||Aug 15, 2024
+|-style="font-weight:bold;"
+|data-sort-value="12"|{{Season Icon|Performance|table}}||[[Mellow Musician]]||1st||data-sort-value=119|TS#119||Aug 1, 2024
+|-
+|data-sort-value="4"|{{Season Icon|Enchantment|table}}||[[Scarecrow Farmer]]||2nd||data-sort-value=118|TS#118||Jul 18, 2024
+|-
+|data-sort-value="9"|{{Season Icon|The Little Prince|table}}||[[Beckoning Ruler]]||2nd||data-sort-value=117|TS#117||Jul 4, 2024
+|-
+|data-sort-value="3"|{{Season Icon|Rhythm|table}}||[[Thoughtful Director]]||4th||data-sort-value=116|TS#116||Jun 20, 2024
+|-
+|data-sort-value="0"|{{Season Icon|Gratitude|table}}||[[Leaping Dancer]]||4th||data-sort-value=115|TS#115||Jun 6, 2024
+|-
+|data-sort-value="1"|{{Season Icon|Lightseekers|table}}||[[Doublefive Light Catcher]]||4th||data-sort-value=114|TS#114||May 23, 2024
+|-
+|data-sort-value="5"|{{Season Icon|Sanctuary|table}}||[[Timid Bookworm]]||3rd||data-sort-value=113|TS#113||May 9, 2024
+|-style="font-weight:bold;"
+|data-sort-value="7"|{{Season Icon|Dreams|table}}||[[Dancing Performer]]||1st||data-sort-value=112|TS#112||Apr 25, 2024
+|-
+|data-sort-value="0"|{{Season Icon|Gratitude|table}}||[[Sassy Drifter]]||5th||data-sort-value=111|TS#111||Apr 11, 2024
+|-
+|data-sort-value="2"|{{Season Icon|Belonging|table}}||[[Hairtousle Teen]]||3rd||data-sort-value=110|TS#110||Mar 28, 2024
+|-
+|data-sort-value="8"|{{Season Icon|Assembly|table}}||[[Daydream Forester]]||2nd||data-sort-value=109|TS#109||Mar 14, 2024
+|-
+|data-sort-value="4"|{{Season Icon|Enchantment|table}}||[[Indifferent Alchemist]]||3rd||data-sort-value=108.5|SV#5||Mar 4, 2024
+|-
+|data-sort-value="4"|{{Season Icon|Enchantment|table}}||[[Nodding Muralist]]||3rd||data-sort-value=108.5|SV#5||Mar 4, 2024
+|-style="font-weight:bold;"
+|data-sort-value="11"|{{Season Icon|Abyss|table}}||[[Ceasing Commodore]]||1st||data-sort-value=108.5|SV#5||Mar 4, 2024
+|-style="font-weight:bold;"
+|data-sort-value="12"|{{Season Icon|Performance|table}}||[[Frantic Stagehand]]||1st||data-sort-value=108.5|SV#5||Mar 4, 2024
+|-style="font-weight:bold;"
+|data-sort-value="10"|{{Season Icon|Flight|table}}||[[Light Whisperer]]||1st||data-sort-value=108|TS#108||Feb 29, 2024
+|-
+|data-sort-value="7"|{{Season Icon|Dreams|table}}||[[Bearhug Hermit]]||2nd||data-sort-value=107|TS#107||Feb 15, 2024
+|-
+|data-sort-value="1"|{{Season Icon|Lightseekers|table}}||[[Twirling Champion]]||3rd||data-sort-value=106|TS#106||Feb 1, 2024
+|-style="font-weight:bold;"
+|data-sort-value="11"|{{Season Icon|Abyss|table}}||[[Anxious Angler]]||1st||data-sort-value=105|TS#105||Jan 18, 2024
+|-
+|data-sort-value="5"|{{Season Icon|Sanctuary|table}}||[[Chill Sunbather]]||2nd||data-sort-value=104|TS#104||Jan 4, 2024
+|- 
+|data-sort-value="3"|{{Season Icon|Rhythm|table}}||[[Festival Spin Dancer]]||3rd||data-sort-value=103|TS#103||Dec 21, 2023
+|-style="font-weight:bold;"
+|data-sort-value="9"|{{Season Icon|The Little Prince|table}}||[[Stretching Lamplighter]]||1st||data-sort-value=102|TS#102||Dec 7, 2023
+|-style="font-weight:bold;"
+|data-sort-value="10"|{{Season Icon|Flight|table}}||[[Talented Builder]]||1st||data-sort-value=101|TS#101||Nov 23, 2023
+|-
+|data-sort-value="2"|{{Season Icon|Belonging|table}}||[[Wise Grandparent]]||3rd||data-sort-value=100|TS#100||Nov 9, 2023
+|- 
+|data-sort-value="3"|{{Season Icon|Rhythm|table}}||[[Troupe Juggler]]||2nd||data-sort-value=99|TS#99||Oct 26, 2023
+|-
+|data-sort-value="4"|{{Season Icon|Enchantment|table}}||[[Playfighting Herbalist]]||2nd||data-sort-value=98|TS#98||Oct 12, 2023
+|-
+|data-sort-value="2"|{{Season Icon|Belonging|table}}||[[Confetti Cousin]]||3rd||data-sort-value=97|TS#97||Sep 28, 2023
+|-style="font-weight:bold;"
+|data-sort-value="9"|{{Season Icon|The Little Prince|table}}||[[Star Collector]]||1st||data-sort-value=96|TS#96||Sep 14, 2023
+|-
+|data-sort-value="5"|{{Season Icon|Sanctuary|table}}||[[Jelly Whisperer]]||2nd||data-sort-value=95|TS#95||Aug 31, 2023
+|-style="font-weight:bold;"
+|data-sort-value="10"|{{Season Icon|Flight|table}}||[[Lively Navigator]]||1st||data-sort-value=94|TS#94||Aug 17, 2023
+|- 
+|data-sort-value="3"|{{Season Icon|Rhythm|table}}||[[Troupe Greeter]]||3rd||data-sort-value=93.4|SV#4||Aug 7, 2023
+|- 
+|data-sort-value="1"|{{Season Icon|Lightseekers|table}}||[[Crab Whisperer]]||3rd||data-sort-value=93.4|SV#4||Aug 7, 2023
+|-style="font-weight:bold;"
+|data-sort-value="11"|{{Season Icon|Abyss|table}}||[[Cackling Cannoneer]]||1st||data-sort-value=93.4|SV#4||Aug 7, 2023
+|- 
+|data-sort-value="5"|{{Season Icon|Sanctuary|table}}||[[Hiking Grouch]]||2nd||data-sort-value=93.4|SV#4||Aug 7, 2023
+|-
+|data-sort-value="6"|{{Season Icon|Prophecy|table}}||[[Prophet of Fire]]||2nd||data-sort-value=93|TS#93||Aug 3, 2023
+|-style="font-weight:bold;"
+|data-sort-value="9"|{{Season Icon|The Little Prince|table}}||[[Gloating Narcissist]]||1st||data-sort-value=92|TS#92||Jul 20, 2023
+|-
+|data-sort-value="7"|{{Season Icon|Dreams|table}}||[[Spinning Mentor]]||2nd||data-sort-value=91|TS#91||Jul 6, 2023
+|-
+|data-sort-value="0"|{{Season Icon|Gratitude|table}}||[[Greeting Shaman]]||3rd||data-sort-value=90.3|SV#3||Jul 3, 2023
+|-
+|data-sort-value="0"|{{Season Icon|Gratitude|table}}||[[Leaping Dancer]]||3rd||data-sort-value=90.3|SV#3||Jul 3, 2023
+|-
+|data-sort-value="3"|{{Season Icon|Rhythm|table}}||[[Respectful Pianist]]||2nd||data-sort-value=90.3|SV#3||Jul 3, 2023
+|-
+|data-sort-value="3"|{{Season Icon|Rhythm|table}}||[[Thoughtful Director]]||3rd||data-sort-value=90.3|SV#3||Jul 3, 2023
+|-
+|data-sort-value="2"|{{Season Icon|Belonging|table}}||[[Sparkler Parent]]||4th||data-sort-value=90|TS#90||Jun 22, 2023
+|-
+|data-sort-value="3"|{{Season Icon|Rhythm|table}}||[[Admiring Actor]]||3rd||data-sort-value=89|TS#89||Jun 8, 2023
+|-
+|data-sort-value="5"|{{Season Icon|Sanctuary|table}}||[[Grateful Shell Collector]]||2nd||data-sort-value=88|TS#88||May 25, 2023
+|-
+|data-sort-value="6"|{{Season Icon|Prophecy|table}}||[[Prophet of Air]]||2nd||data-sort-value=87.2|SV#2||May 15, 2023
+|-
+|data-sort-value="6"|{{Season Icon|Prophecy|table}}||[[Prophet of Earth]]||2nd||data-sort-value=87.2|SV#2||May 15, 2023
+|-
+|data-sort-value="6"|{{Season Icon|Prophecy|table}}||[[Prophet of Water]]||3rd||data-sort-value=87.2|SV#2||May 15, 2023
+|-style="font-weight:bold;"
+|data-sort-value="10"|{{Season Icon|Flight|table}}||[[Tinkering Chimesmith]]||1st||data-sort-value=87|TS#87||May 11, 2023
+|-
+|data-sort-value="4"|{{Season Icon|Enchantment|table}}||[[Snoozing Carpenter]]||2nd||data-sort-value=86|TS#86||Apr 27, 2023
+|-style="font-weight:bold;"
+|data-sort-value="9"|{{Season Icon|The Little Prince|table}}||[[Sneezing Geographer]]||1st||data-sort-value=85|TS#85||Apr 13, 2023
+|-
+|data-sort-value="0"|{{Season Icon|Gratitude|table}}||[[Provoking Performer]]||Error||data-sort-value=0|Error||Apr 13, 2023
+|-
+|data-sort-value="0"|{{Season Icon|Gratitude|table}}||[[Provoking Performer]]||3rd||data-sort-value=84|TS#84||Mar 30, 2023
+|-
+|data-sort-value="4"|{{Season Icon|Enchantment|table}}||[[Crab Walker]]||2nd||data-sort-value=83|TS#83||Mar 16, 2023
+|-
+|data-sort-value="8"|{{Season Icon|Assembly|table}}||[[Baffled Botanist]]||2nd||data-sort-value=82.1|SV#1||Mar 6, 2023
+|-style="font-weight:bold;"
+|data-sort-value="8"|{{Season Icon|Assembly|table}}||[[Chuckling Scout]]||1st||data-sort-value=82.1|SV#1||Mar 6, 2023
+|-style="font-weight:bold;"
+|data-sort-value="8"|{{Season Icon|Assembly|table}}||[[Marching Adventurer]]||1st||data-sort-value=82.1|SV#1||Mar 6, 2023
+|-style="font-weight:bold;"
+|data-sort-value="8"|{{Season Icon|Assembly|table}}||[[Scaredy Cadet]]||1st||data-sort-value=82.1|SV#1||Mar 6, 2023
+|-
+|data-sort-value="2"|{{Season Icon|Belonging|table}}||[[Boogie Kid]]||3rd||data-sort-value=82|TS#82||Mar 2, 2023
+|- style="font-weight:bold;"
+|data-sort-value="9"|{{Season Icon|The Little Prince|table}}||[[Slouching Soldier]]||1st||data-sort-value=81|TS#81||Feb 16, 2023
+|- 
+|data-sort-value="1"|{{Season Icon|Lightseekers|table}}||[[Piggyback Lightseeker]]||3rd||data-sort-value=80|TS#80||Feb 2, 2023
+|-
+|data-sort-value="5"|{{Season Icon|Sanctuary|table}}||[[Rallying Thrillseeker]]||2nd||data-sort-value=79|TS#79||Jan 19, 2023
+|- style="font-weight:bold;"
+|data-sort-value="8"|{{Season Icon|Assembly|table}}||[[Baffled Botanist]]||1st||data-sort-value=78|TS#78||Jan 5, 2023
+|-
+|data-sort-value="2"|{{Season Icon|Belonging|table}}||[[Pleaful Parent]]||3rd||data-sort-value=77|TS#77||Dec 22, 2022
+|-
+|data-sort-value="0"|{{Season Icon|Gratitude|table}}||[[Sassy Drifter]]||4th||data-sort-value=76|TS#76||Dec 8, 2022
+|- style="font-weight:bold;"
+|data-sort-value="7"|{{Season Icon|Dreams|table}}||[[Bearhug Hermit]]||1st||data-sort-value=75|TS#75||Nov 24, 2022
+|-
+|data-sort-value="6"|{{Season Icon|Prophecy|table}}||[[Prophet of Water]]||2nd||data-sort-value=74|TS#74||Nov 10, 2022
+|-
+|data-sort-value="4"|{{Season Icon|Enchantment|table}}||[[Nodding Muralist]]||2nd||data-sort-value=73|TS#73||Oct 27, 2022
+|- 
+|data-sort-value="1"|{{Season Icon|Lightseekers|table}}||[[Laidback Pioneer]]||3rd||data-sort-value=72|TS#72||Oct 13, 2022
+|- style="font-weight:bold;"
+|data-sort-value="9"|{{Season Icon|The Little Prince|table}}||[[Beckoning Ruler]]||1st||data-sort-value=71|TS#71||Sep 29, 2022
+|- 
+|data-sort-value="1"|{{Season Icon|Lightseekers|table}}||[[Shushing Light Scholar]]||2nd||data-sort-value=70|TS#70||Sep 15, 2022
+|-
+|data-sort-value="4"|{{Season Icon|Enchantment|table}}||[[Indifferent Alchemist]]||2nd||data-sort-value=69|TS#69||Sep 1, 2022
+|- style="font-weight:bold;"
+|data-sort-value="8"|{{Season Icon|Assembly|table}}||[[Scolding Student]]||1st||data-sort-value=68|TS#68||Aug 18, 2022
+|-
+|data-sort-value="3"|{{Season Icon|Rhythm|table}}||[[Thoughtful Director]]||2nd||data-sort-value=67|TS#67||Aug 4, 2022
+|-
+|data-sort-value="1"|{{Season Icon|Lightseekers|table}}||[[Doublefive Light Catcher]]||3rd||data-sort-value=66|TS#66||Jul 21, 2022
+|-
+|data-sort-value="5"|{{Season Icon|Sanctuary|table}}||[[Timid Bookworm]]||2nd||data-sort-value=65|TS#65||Jul 7, 2022 
+|- style="font-weight:bold;"
+|data-sort-value="7"|{{Season Icon|Dreams|table}}||[[Peeking Postman]]||1st||data-sort-value=64|TS#64||Jun 23, 2022
+|-
+|data-sort-value="2"|{{Season Icon|Belonging|table}}||[[Hairtousle Teen]]||2nd||data-sort-value=63|TS#63||Jun 9, 2022
+|-
+|data-sort-value="0"|{{Season Icon|Gratitude|table}}||[[Greeting Shaman]]||2nd||data-sort-value=62|TS#62||May 26, 2022
+|- style="font-weight:bold;"
+|data-sort-value="6"|{{Season Icon|Prophecy|table}}||[[Prophet of Air]]||1st||data-sort-value=61|TS#61||May 12, 2022
+|- style="font-weight:bold;"
+|data-sort-value="8"|{{Season Icon|Assembly|table}}||[[Daydream Forester]]||1st||data-sort-value=60|TS#60||Apr 28, 2022
+|- style="font-weight:bold;"
+|data-sort-value="7"|{{Season Icon|Dreams|table}}||[[Spinning Mentor]]||1st||data-sort-value=59|TS#59||Apr 14, 2022
+|- style="font-weight:bold;"
+|data-sort-value="4"|{{Season Icon|Enchantment|table}}||[[Scarecrow Farmer]]||1st||data-sort-value=58|TS#58||Mar 31, 2022
+|-
+|data-sort-value="0"|{{Season Icon|Gratitude|table}}||[[Stretching Guru]]||2nd||data-sort-value=57|TS#57||Mar 17, 2022
+|-
+|data-sort-value="3"|{{Season Icon|Rhythm|table}}||[[Troupe Greeter]]||2nd||data-sort-value=56|TS#56||Mar 3, 2022
+|- style="font-weight:bold;"
+|data-sort-value="5"|{{Season Icon|Sanctuary|table}}||[[Hiking Grouch]]||1st||data-sort-value=55|TS#55||Feb 17, 2022
+|- style="font-weight:bold;"
+|data-sort-value="6"|{{Season Icon|Prophecy|table}}||[[Prophet of Earth]]||1st||data-sort-value=54|TS#54||Feb 3, 2022
+|- style="font-weight:bold;"
+|data-sort-value="0"|{{Season Icon|Gratitude|table}}||[[Saluting Protector]]||1st||data-sort-value=53|TS#53||Jan 20, 2022
+|-
+|data-sort-value="1"|{{Season Icon|Lightseekers|table}}||[[Twirling Champion]]||2nd||data-sort-value=52|TS#52||Jan 6, 2022
+|-style="font-weight:bold;"
+|data-sort-value="6"|{{Season Icon|Prophecy|table}}||[[Prophet of Earth]]||Error||Error||Jan 6, 2022
+|-
+|data-sort-value="2"|{{Season Icon|Belonging|table}}||[[Sparkler Parent]]||3rd||data-sort-value=51|TS#51||Dec 23, 2021
+|- style="font-weight:bold;"
+|data-sort-value="6"|{{Season Icon|Prophecy|table}}||[[Prophet of Fire]]||1st||data-sort-value=50|TS#50||Dec 9, 2021
+|- style="font-weight:bold;"
+|data-sort-value="5"|{{Season Icon|Sanctuary|table}}||[[Jelly Whisperer]]||1st||data-sort-value=49|TS#49||Nov 25, 2021
+|-
+|data-sort-value="2"|{{Season Icon|Belonging|table}}||[[Wise Grandparent]]||2nd||data-sort-value=48|TS#48||Nov 11, 2021
+|- style="font-weight:bold;"
+|data-sort-value="4"|{{Season Icon|Enchantment|table}}||[[Playfighting Herbalist]]||1st||data-sort-value=47|TS#47||Oct 28, 2021
+|-
+|data-sort-value="3"|{{Season Icon|Rhythm|table}}||[[Festival Spin Dancer]]||2nd||data-sort-value=46|TS#46||Oct 14, 2021
+|- style="font-weight:bold;"
+|data-sort-value="5"|{{Season Icon|Sanctuary|table}}||[[Grateful Shell Collector]]||1st||data-sort-value=45|TS#45||Sep 30, 2021
+|- style="font-weight:bold;"
+|data-sort-value="3"|{{Season Icon|Rhythm|table}}||[[Troupe Juggler]]||1st||data-sort-value=44|TS#44||Sep 16, 2021
+|-
+|data-sort-value="1"|{{Season Icon|Lightseekers|table}}||[[Crab Whisperer]]||2nd||data-sort-value=43|TS#43||Sep 2, 2021
+|- style="font-weight:bold;"
+|data-sort-value="5"|{{Season Icon|Sanctuary|table}}||[[Chill Sunbather]]||1st||data-sort-value=42|TS#42||Aug 19, 2021
+|- style="font-weight:bold;"
+|data-sort-value="6"|{{Season Icon|Prophecy|table}}||[[Prophet of Water]]||1st||data-sort-value=41|TS#41||Aug 5, 2021
+|-
+|data-sort-value="2"|{{Season Icon|Belonging|table}}||[[Boogie Kid]]||2nd||data-sort-value=40|TS#40||Jul 22, 2021
+|-
+|data-sort-value="0"|{{Season Icon|Gratitude|table}}||[[Sassy Drifter]]||3rd||data-sort-value=39|TS#39||Jul 8, 2021
+|-
+|data-sort-value="3"|{{Season Icon|Rhythm|table}}||[[Admiring Actor]]||2nd||data-sort-value=38|TS#38||Jun 24, 2021
+|- style="font-weight:bold;"
+|data-sort-value="5"|{{Season Icon|Sanctuary|table}}||[[Timid Bookworm]]||1st||data-sort-value=37|TS#37||Jun 10, 2021
+|- style="font-weight:bold;"
+|data-sort-value="4"|{{Season Icon|Enchantment|table}}||[[Snoozing Carpenter]]||1st||data-sort-value=36|TS#36||May 27, 2021
+|- style="font-weight:bold;"
+|data-sort-value="3"|{{Season Icon|Rhythm|table}}||[[Thoughtful Director]]||1st||data-sort-value=35|TS#35||May 13, 2021
+|- style="font-weight:bold;"
+|data-sort-value="5"|{{Season Icon|Sanctuary|table}}||[[Rallying Thrillseeker]]||1st||data-sort-value=34|TS#34||Apr 29, 2021
+|-
+|data-sort-value="1"|{{Season Icon|Lightseekers|table}}||[[Doublefive Light Catcher]]||2nd||data-sort-value=33|TS#33||Apr 15, 2021
+|-
+|data-sort-value="2"|{{Season Icon|Belonging|table}}||[[Sparkler Parent]]||2nd||data-sort-value=32|TS#32||Apr 1, 2021
+|-
+|data-sort-value="0"|{{Season Icon|Gratitude|table}}||[[Leaping Dancer]]||2nd||data-sort-value=31|TS#31||Mar 18, 2021
+|-
+|data-sort-value="1"|{{Season Icon|Lightseekers|table}}||[[Piggyback Lightseeker]]||2nd||data-sort-value=30|TS#30||Mar 4, 2021
+|- style="font-weight:bold;"
+|data-sort-value="4"|{{Season Icon|Enchantment|table}}||[[Crab Walker]]||1st||data-sort-value=29|TS#29||Feb 18, 2021
+|- style="font-weight:bold;"
+|data-sort-value="3"|{{Season Icon|Rhythm|table}}||[[Respectful Pianist]]||1st||data-sort-value=28|TS#28||Feb 4, 2021
+|-style="font-weight:bold;"
+|data-sort-value="4"|{{Season Icon|Enchantment|table}}||[[Crab Walker]]||Error||Error||Feb 4, 2021
+|-
+|data-sort-value="2"|{{Season Icon|Belonging|table}}||[[Confetti Cousin]]||2nd||data-sort-value=27|TS#27||Jan 21, 2021
+|- style="font-weight:bold;"
+|data-sort-value="4"|{{Season Icon|Enchantment|table}}||[[Nodding Muralist]]||1st||data-sort-value=26|TS#26||Jan 7, 2021
+|- style="font-weight:bold;"
+|data-sort-value="3"|{{Season Icon|Rhythm|table}}||[[Troupe Greeter]]||1st||data-sort-value=25|TS#25||Dec 24, 2020
+|-
+|data-sort-value="2"|{{Season Icon|Belonging|table}}||[[Pleaful Parent]]||2nd||data-sort-value=24|TS#24||Dec 10, 2020
+|-
+|data-sort-value="1"|{{Season Icon|Lightseekers|table}}||[[Laidback Pioneer]]||2nd||data-sort-value=23|TS#23||Nov 26, 2020
+|- style="font-weight:bold;"
+|data-sort-value="2"|{{Season Icon|Belonging|table}}||[[Boogie Kid]]||1st||data-sort-value=22|TS#22||Nov 12, 2020
+|- style="font-weight:bold;"
+|data-sort-value="4"|{{Season Icon|Enchantment|table}}||[[Indifferent Alchemist]]||1st||data-sort-value=21|TS#21||Oct 29, 2020
+|- style="font-weight:bold;"
+|data-sort-value="3"|{{Season Icon|Rhythm|table}}||[[Admiring Actor]]||1st||data-sort-value=20|TS#20||Oct 15, 2020
+|-
+|data-sort-value="0"|{{Season Icon|Gratitude|table}}||[[Provoking Performer]]||2nd||data-sort-value=19|TS#19||Oct 1, 2020
+|- style="font-weight:bold;"
+|data-sort-value="1"|{{Season Icon|Lightseekers|table}}||[[Twirling Champion]]||1st||data-sort-value=18|TS#18||Sep 17, 2020
+|- style="font-weight:bold;"
+|data-sort-value="3"|{{Season Icon|Rhythm|table}}||[[Festival Spin Dancer]]||1st||data-sort-value=17|TS#17||Sep 3, 2020
+|- style="font-weight:bold;"
+|data-sort-value="1"|{{Season Icon|Lightseekers|table}}||[[Shushing Light Scholar]]||1st||data-sort-value=16|TS#16||Aug 20, 2020
+|- style="font-weight:bold;"
+|data-sort-value="2"|{{Season Icon|Belonging|table}}||[[Wise Grandparent]]||1st||data-sort-value=15|TS#15||Aug 6, 2020
+|- style="font-weight:bold;"
+|data-sort-value="0"|{{Season Icon|Gratitude|table}}||[[Greeting Shaman]]||1st||data-sort-value=14|TS#14||Jul 23, 2020
+|- style="font-weight:bold;"
+|data-sort-value="2"|{{Season Icon|Belonging|table}}||[[Confetti Cousin]]||1st||data-sort-value=13|TS#13||Jul 9, 2020
+|- style="font-weight:bold;"
+|data-sort-value="0"|{{Season Icon|Gratitude|table}}||[[Leaping Dancer]]||1st||data-sort-value=12|TS#12||Jun 25, 2020
+|- style="font-weight:bold;"
+|data-sort-value="2"|{{Season Icon|Belonging|table}}||[[Hairtousle Teen]]||1st||data-sort-value=11|TS#11||Jun 11, 2020
+|-
+|data-sort-value="0"|{{Season Icon|Gratitude|table}}||[[Sassy Drifter]]||2nd||data-sort-value=10|TS#10||May 28, 2020
+|-style="font-weight:bold;"
+|data-sort-value="0"|{{Season Icon|Gratitude|table}}||[[Saluting Protector]]||Error||Error||May 28, 2020
+|- style="font-weight:bold;"
+|data-sort-value="2"|{{Season Icon|Belonging|table}}||[[Sparkler Parent]]||1st||data-sort-value=9|TS#9||May 14, 2020
+|- style="font-weight:bold;"
+|data-sort-value="0"|{{Season Icon|Gratitude|table}}||[[Stretching Guru]]||1st||data-sort-value=8|TS#8||Apr 30, 2020
+|- style="font-weight:bold;"
+|data-sort-value="1"|{{Season Icon|Lightseekers|table}}||[[Piggyback Lightseeker]]||1st||data-sort-value=7|TS#7||Apr 16, 2020
+|- style="font-weight:bold;"
+|data-sort-value="1"|{{Season Icon|Lightseekers|table}}||[[Crab Whisperer]]||1st||data-sort-value=6|TS#6||Apr 9, 2020
+|- style="font-weight:bold;"
+|data-sort-value="2"|{{Season Icon|Belonging|table}}||[[Pleaful Parent]]||1st||data-sort-value=5|TS#5||Mar 26, 2020
+|- style="font-weight:bold;"
+|data-sort-value="0"|{{Season Icon|Gratitude|table}}||[[Provoking Performer]]||1st||data-sort-value=4|TS#4||Mar 12, 2020
+|- style="font-weight:bold;"
+|data-sort-value="1"|{{Season Icon|Lightseekers|table}}||[[Laidback Pioneer]]||1st||data-sort-value=3|TS#3||Feb 27, 2020
+|- style="font-weight:bold;"
+|data-sort-value="1"|{{Season Icon|Lightseekers|table}}||[[Doublefive Light Catcher]]||1st||data-sort-value=2|TS#2||Feb 14, 2020
+|- style="font-weight:bold;"
+|data-sort-value="0"|{{Season Icon|Gratitude|table}}||[[Sassy Drifter]]||1st||data-sort-value=1|TS#1||Jan 31, 2020
+|}
+
+===First Appearance Statistics===
+This table provides the number of days between the end of a Season and the first appearance of a Spirit from that Season.
+{| class="article-table mw-collapsible" style="font-size:small;"
+|+First Appearance Statistics
+!Season||End date||First appearance||Days after End date||First reappearance||Days after first visit
+|-
+|Gratitude||September 2, 2019||January 31, 2020||151 days (or 5 months)||May 28, 2020||118 days (3.9 months)
+|-
+|Lightseekers||November 10, 2019||February 14, 2020||96 days (or 3.2 months)||November 26, 2020||286 days (9.4 months)
+|-
+|Belonging||January 12, 2020||March 26, 2020||74 days (or 2.5 months)||December 10, 2020||259 days (8.5 months)
+|-
+|Rhythm||April 5, 2020||September 3, 2020||151 days (or 5 months)||June 24, 2021||294 days (9.7 months)
+|-
+|Enchantment||June 21, 2020||October 29, 2020||130 days (or 4.3 months)||September 1, 2022||672 days (22 months)
+|-
+|Sanctuary||September 21, 2020||April 29, 2021||220 days (or 7.3 months)||July 7, 2022||434 days (14.3 months)
+|-
+|Prophecy||December 13, 2020||August 5, 2021||235 days (or 7.8 months)||November 10, 2022||462 days (15.2 months)
+|-
+|Dreams||March 15, 2021||April 14, 2022||395 days (or 13 months)||July 6, 2023||448 days (14.7 months)
+|-
+|Assembly||June 13, 2021||April 28, 2022||319 days (or 10.5 months)||March 6, 2023||312 days (10.3 months)
+|-
+|The Little Prince||September 19, 2021||September 29, 2022||375 days (or 12.3 months)||July 4, 2024||644 days (21.2 months)
+|-
+|Flight||December 19, 2021||May 11, 2023||508 days (or 16.7 months)||May 8, 2025||728 days (or 24.3 months)
+|-
+|Abyss||March 27, 2022||August 7, 2023||498 days (or 16.4 months)||Aug 18, 2025||742 days (or 24.7 months)
+|-
+|Performance||June 26, 2022||March 4, 2024||617 days (or 20.3 months)||No reoccurrence yet||No reoccurrence yet
+|-
+|Shattering<ref name=":0" />||September 27, 2022||September 16, 2024||721 days (or 23.7 months)||No reoccurrence yet||No reoccurrence yet
+|-
+|AURORA||January 2, 2023||November 7, 2024||675 days (or 22.2 months)||June 9, 2025||214 days (or 7.1 months)
+|-
+|Remembrance||April 2, 2023||January 13, 2025||652 days (or 21.4 months)||No reoccurrence yet||No reoccurrence yet
+|-
+|Passage||July 2, 2023||January 13, 2025||561 days (or 18.4 months)||No reoccurrence yet||No reoccurrence yet
+|-
+|Moments||October 1, 2023||July 17, 2025||655 days (or 21.8 months)||No reoccurrence yet||No reoccurrence yet
+|-
+|Revival<ref name=":0" />||December 31, 2023||No returning Spirit yet||No returning Spirit yet||No reoccurrence yet||No reoccurrence yet
+|-
+|The Nine-Colored Deer||March 31, 2024||No returning Spirit yet||No returning Spirit yet||No reoccurrence yet||No reoccurrence yet
+|-
+|Nesting<ref name=":0" />||June 30, 2024||No returning Spirit yet||No returning Spirit yet||No reoccurrence yet||No reoccurrence yet
+|-
+|Duets<ref name=":0" />||September 29, 2024||No returning Spirit yet||No returning Spirit yet||No reoccurrence yet||No reoccurrence yet
+|-
+|Moomin<ref name=":0" />||December 29, 2024||No returning Spirit yet||No returning Spirit yet||No reoccurrence yet||No reoccurrence yet
+|-
+|Radiance||April 6, 2025||No returning Spirit yet||No returning Spirit yet||No reoccurrence yet||No reoccurrence yet
+|-
+|Blue Bird||July 6, 2025||No returning Spirit yet||No returning Spirit yet||No reoccurrence yet||No reoccurrence yet
+|}
+
+===Visit Statistics===
+When Spirits visit after their first time, this gives players who missed out during previous visits a chance to catch up. Second and onward visits do not increase maximum [[Winged Light]]. This means that when a Spirit visits again as a Traveling Spirit or in a group of Returning Spirits, players can get closer to the maximum possible Winged Light. The latest start allowing [[Winged Light#Maximum Possible Winged Light|Maximum Winged Light]] is the 64th Traveling Spirit on June 23, 2022 until [[Peeking Postman]] revisits and will then be the 72nd Traveling Spirit on October 13, 2022. Maximum Winged Light from Spirit visits is currently '''{{Game Stat|wings_buff_ts}}'''. This number only doesn't correspond to the number of '''unique''' visits due to the fact that [[Ancient Light]] and [[Ancient Darkness]] from Season of Shattering are counted as 2 Entities instead of 4, although in total they have 4 Friendship Trees and provide 4 [[Wing Buffs]].
+{| class="article-table" style="font-size:small;"
+|+Occurrences by visit number
+!1st Visit||2nd Visit||3rd Visit||4th Visit||5th Visit||6th Visit
+|-
+|{{#expr: {{Game Stat|wings_buff_ts}} - 2 }}<!--Subtracting two to consider the Shattering Entities as "2 Spirits"-->
+|{{#vardefineecho:2nd visit|60}}<!--Change the number on the right in source edit "|number here}}"-->
+|{{#vardefineecho:3rd visit|33}}
+|{{#vardefineecho:4th visit|14}}
+|{{#vardefineecho:5th visit|1}}
+|{{#vardefineecho:6th visit|0}}
+|}
+Average number of visits until reoccurrence: {{#expr:(61+62+64+65+41+22+59+24+61+60+15+7+69+45+80+55+40+51+34+19+44+57+53+53+48+31.5+37+42+60+64+48+41+52+34+29+60+46+25+24+48+48+35+47+49+39+35+32+54+62+57+52+55+51+70+46+37+50+38+43+32+29+60+63+24+39+51+43+26+33+13+50+65+54+4+42+50+45+53+37+33+47+49+54+48+32+33+28+52+48+49+31+34+19+33+29+37+18+29+18+31+23+19+23+14+19+20+15)/({{#var:2nd visit}}+{{#var:3rd visit}}+{{#var:4th visit}}+{{#var:5th visit}})round2}} (as of TS#150 on Oct 9, 2025)<!--In source, add new "delta" number for reoccurrence to left in parenthesis "(here+" and change name and date-->
+
+Average wait for last 10 reoccurrences: {{#expr:(61+62+64+65+41+22+59+24+61+60)/10}}<!--Delete last number "+here)/" in parenthesis and add new number to left ":(here+"-->
+
+Longest wait for a visit: 81 visits waited by [[Dancing Performer]]
+
+Longest wait for a reoccurrence: 80 visits waited by [[Stretching Guru]]
+
+As more Spirits enter the pool of those that can visit, they take longer to revisit. Generally, Spirits don't revisit much sooner than a year and a half to 2 years after a previous visit. Please don't expect a Spirit to revisit much sooner. See [[Traveling Spirits#Visit Randomness|Visit Randomness]] for more details.
+{| class="article-table" style="font-size:small;"
+|+Percent of visits that are reoccurrences
+!Last 10||Last 20||All
+|-
+|{{#expr:(1+1+1+1+1+0+1+0+1+1)*10}}%<!--Delete last number "+here)*" in parenthesis and add new number to left ":(here+". 1=revisit, 0=first visit-->
+|{{#expr:(1+1+1+1+1+0+1+0+1+1+0+1+1+1+1+0+0+1+0+1)*5}}%<!--Delete last number "+here)*" in parenthesis and add new number to left ":(here+". 1=revisit, 0=first visit-->
+|{{#expr:({{#var:2nd visit}}+{{#var:3rd visit}}+{{#var:4th visit}}+{{#var:5th visit}})/({{Game Stat|wings_buff_ts}}-2+{{#var:2nd visit}}+{{#var:3rd visit}}+{{#var:4th visit}}+{{#var:5th visit}})*100round2}}%
+|}
+{|class="article-table mw-collapsible" style="font-size:small;"
+|+Visits by Season
+! colspan="4"|Seasons in 2019
+|-
+| Gratitude||Lightseekers||Belonging||
+|-
+| 21       ||21          ||21       ||
+|-
+! colspan="4"|Seasons in 2020
+|-
+|Rhythm||Enchantment||Sanctuary||Prophecy
+|-
+|20    || 15        ||14       ||13
+|-
+! colspan="4"|Seasons in 2021
+|-
+|Dreams||Assembly||Little Prince||Flight
+|-
+|7     ||13      ||13           || 6  
+|-
+! colspan="4"|Seasons in 2022
+|-
+|Abyss||Performance||Shattering||AURORA
+|-
+|6    ||4          ||2         ||6
+|-
+! colspan="4"|Seasons in 2023
+|-
+|Remembrance||Passage||Moments||Revival
+|-
+| 4         ||2      ||1      ||-
+|-
+!colspan="4"|Seasons in 2024
+|-
+|The Nine-Colored Deer||Nesting||Duets||Moomin
+|-
+| -                   ||-      ||-    ||-
+|-
+!colspan="4"|Seasons in 2025
+|-
+|Radiance||Blue Bird|| || 
+|-
+| -      ||-        || ||
+|}
+
+==References==
+<references/>
+
+[[pt-br:Visitas Espirituais]]
+[[fr:Visites des Esprits]]
+[[ja:再訪データ]]
+[[de:Besuche von Geistern]]
+
+[[Category:Periodical Content]]

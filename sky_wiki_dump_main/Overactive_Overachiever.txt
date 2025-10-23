@@ -1,0 +1,119 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = Passage-Overactive-Overachiever-Cutout.png
+|cosmetics = {{Spirit Item||Hair|infobox}}{{Spirit Item||Cape|infobox}}
+|instruments = {{Spirit Item||Instrument|infobox}}
+|props	   = 
+|music     = 
+|season    = Passage
+|realm     = Isle of Dawn
+|location  = Passage Stone
+|ts        = None
+}}
+<section begin="Summary" />The '''Overactive Overachiever''' is a [[Seasonal Spirit]] from the [[Season of Passage]] who offers the {{Emote|Overactive Overachiever|inline_text}} Expression. The Overactive Overachiever is found in the [[Isle of Dawn]], between the entrance of a semi-hidden cave on the left side of the area, and a pillar near another cave. The collectibles [[#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Overactive Overachiever|Hair|inline_text}}, a {{Spirit Item|Overactive Overachiever|Cape|inline_text}}, and the {{Spirit Item|Overactive Overachiever|Instrument|label=Manta Ocarina Instrument|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Passage-Overactive-Overachiever-Introduction.png|thumb|320px|none|TGC's Promo image]]
+
+==Memory==
+<div>{{#ev:youtube|JJGW3koPH3Y||inline|Video Guide}}
+
+The Overactive Overachiever can be found in the [[Isle of Dawn]], between the entrance of a semi-hidden cave on the left side of the area, and a pillar near another cave. (''Note: Meditate next to the Passage Stone campfire and turn Isle of Dawn to nightfall in order to see this Spirit.'')  This Spirit has a [[Standard Memory|standard memory]] with 7 memory fragments and a 15-minute overall [[Timed Memory|time limit]]. 
+
+As their memory unfolds, two young Spirits can be seen racing each other up a hill, with the Overactive Overachiever watching from a distance. At the end of the race, the victor jumps in the air in celebration of their win. The Overactive Overachiever then steps closer to wave and invite the pair to another race.  All three Spirits return to the bottom of the hill to begin the race, with the Overactive Overachiever quickly passing them and taking the lead. At the top of the hill, the two defeated young Spirits rest, winded after their tiring race, while the Overactive Overachiever climbs a bar that is protruding from a tall rock nearby.
+
+At the end of the memory, the Overactive Overachiever shows off their boundless energy by performing one-handed pull-ups. The other young Spirits watch on in disbelief, glancing at each other with a defeated expression.
+</div>
+
+==<span id="Expression">Expression</span>==
+This Spirit offers the {{Emote|Overactive Overachiever|inline_text}} [[Expression]], which has 4 Levels.
+<br>
+[[File:{{Icon Name|Overactive Overachiever|emote}}|x170px]]
+<gallery heights="125">
+Overactive-Overachiever-Pull-Up-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Overactive-Overachiever-Pull-Up-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Overactive-Overachiever-Pull-Up-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Overactive-Overachiever-Pull-Up-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar look to the left, rub their hands together, and shake them out again, before a white, horizontal bar of light appears above them. A realistic hand-rubbing sound effect plays as they rub their hands, a quick row of xylophone notes plays as they shake put their hands, and a high-pitched sound effect plays as the bar of light spawns. Your avatar will then hop up to grab the bar with both hands and start doing pull-ups while a few quick xylophone notes play with each pull. This action is continued for as long as you don't move your avatar. Upon doing so, your avatar will start to struggle and wiggle their legs before hanging down the bar and letting themselves fall on their feet.
+*Level 2 makes the same motion as Level 1, with glowing, blue sparkles raining down from your avatar's head with each pull.
+*Level 3 will make your avatar jump up at a horizontal, white bar of light and make a full rotation around it, before letting themselves hang down, place one of their hands on their other arm, and perform pull-ups with one hand. A high-pitched sound effect plays as the bar of light spawns, a row of quick xylophone notes plays as your avatar performs the full rotation and with each pull-up. Additionally, small, blue sparks fizzle around each end of the bar of light, and a trail of small, golden sparkles flies up on each side next to your avatar with each pull-up. This action is continued for as long as you don't move your character. Upon doing so, your avatar will perform a full reverse rotation and finish with a gymnastic dismount by stretching their arms up at an angle as if they were making a "Y" with their body.
+*Level 4 makes the same motion as Level 3, with white trails of light following the movement of your avatar's feet, only on the forward and backward rotations at the beginning and end of the Expression, respectively.
+
+<!--As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.-->
+
+==Cosmetics==
+===<span id="hair">Hair</span>===
+The [[Hair]] offered by this Spirit includes layered side-bangs, which hang a bit into the face, and hair that reaches past the chin, is curled outwards at the ends, and is tied up in a half-up, half-down hairstyle with a magenta and golden band. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fifth node ({{Cost|98 SC|season=Passage}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair front
+{{Icon Name||Hair|side}} {{!}} The Hair side
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="cape">Cape</span>===
+The [[Cape]] offered by this Spirit is made of fur and consists of multiple black and brown layers, as well as a white, furry collar piece with small, decorative, red and golden pieces of fabric hanging down under it in the front, and red inner lining. It was available to all players during the Season from the Friendship Tree's fourth node ({{Cost|66 SC|season=Passage}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||Cape|back}} {{!}} The Cape back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="instrument">Instrument</span>===
+The [[Instrument]] offered by this Spirit is the '''Manta Ocarina'''. It is a [[Manta]]-shaped, white vessel flute with yellow and blue accents. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|14 SC|season=Passage}} total). The player is standing while playing the Instrument, which plays 15 notes. 
+
+The Manta Ocarina plays the wind [[Music Sheet Parts|part]] on Music Sheets. Its [[Instrument Pitch|pitch]] is the same as the standard {{Spirit Item|Cheerful Spectator|Instrument|inline_text}} (in C major, it covers C<sub>4</sub> to C<sub>6</sub>).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Instrument|icon}} {{!}} The Instrument icon
+{{Icon Name||Instrument|real}} {{!}} The Instrument
+{{Icon Name||Instrument|back}} {{!}} The Instrument on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Traveling Spirit==
+{{Friendship Tree Info | traveling}}
+<!--
+===Hints===
+The hints given before the {{PAGENAME}}'s first appearance were:
+-->
+==Season Friendship Tree==
+{{Friendship Tree Info | season| season=Passage}} 
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Overactive Overachiever
+|image  = Passage-Overactive-Overachiever-Cutout.png
+|type   = season
+|season = Passage
+
+|nodeC6 = season_heart 3 SC SP
+|nodeL5 = hair SP
+|nodeC5 = spellx 32 SC
+|nodeL4 = spellx SP
+|nodeC4 = cape 30 SC
+|nodeL3 = emote4 SP
+|nodeC3 = emote3 22 SC
+|nodeL2 = instrument SP
+|nodeC2 = spellx 14 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote Free
+}}<section end="Season Friendship Tree" />
+
+==Personality==
+On April 13, 2023, TGC officially announced and introduced the Overactive Achiever with the following personality traits:
+
+* ✏️ May spend weeks redrawing pictures to get them exactly right
+* 💪 Has a tendency to just take over group projects
+* 🤔 Prone to believing their first impressions of people
+* 📚 Their favorite book: the biggest one they can show others
+
+==References==
+<references />
+
+[[fr:Prodige performant]]
+[[ru:Гиперактивный трудяга]]
+[[pt-br:Empolgante Exigente]]

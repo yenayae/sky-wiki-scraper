@@ -1,0 +1,263 @@
+{{WIP
+|comment= Please excuse the fact that this page is a work-in-progress as editors work to update outdated information and images. Thank you for your patience!
+}}
+<section begin="Summary" />'''Shared Spaces''' were introduced to the world of ''Sky'' on {{v|0.13.4|May 31, 2021}} as a new way to play together with others and express yourself using [[Props]], available to players who have progressed to [[Daylight Prairie]]. This feature allows players to decorate a small area, either with the [[Shared Spaces#Shared Space Shrines|Shared Space Shrines]] found in set locations or with [[Shared Spaces#Shared Space Spells|Shared Space Spells]] that can be placed almost anywhere within the [[Realms]]. Once a player has finished decorating and publishes it, a special lantern appears in the world representing the Shared Space. Friends and other players who find it can then view the created Shared Space and interact with the items it contains.<section end="Summary" /><br>
+<br>
+<gallery spacing="small" captionalign="center" position="center">
+File:Shared-Space-Tips-1-Share-the-Magic.png|Share the magic
+File:Shared-Space-Tips-2-Explore-the-World.png|Explore the world
+File:Shared-Space-Tips-3-Unique-Items.png|Unique Items
+File:Shared-Space-Tips-4-Be-Creative.png|Be Creative
+File:Shared-Space-Tips-5-Activate-the-Crystal.png|Activate the Crystal
+File:Shared-Space-Tips-6-Browse-the-Memory-Lanterns.png|Browse the memory
+File:Shared-Space-Tips-7-Join-Players.png|Join Players
+File:Shared-Space-Tips-8-Place-the-decorations.png|Place the decorations
+</gallery>
+
+==Overview==
+<section begin="Shared Spaces" />Shared Spaces are a type of [[Player Creations|Player Creation]] that offer the ability to decorate an area with [[Props]] in order to craft a customizable, cozy space for you and your friends. While decorating, players have access to all the Props they have purchased and a handful of bonus [[Shared Spaces#Featured Props|Featured Props]] that vary depending on location. In addition to being able to place different Props, Shared Spaces allow multiple copies of a Prop to be placed.
+
+Multiple Shared Spaces can exist at one time, although only one can placed per area. For example, if you already have an existing Shared Space in [[Butterfly Fields]], publishing another there will result in it replacing the previous one. A [[Shared Spaces#Shared Space Spell|Shared Space Spell]] ''can'' exist in the same area as a [[Shared Spaces#Shared Space Shrines|Shared Space Shrine]], however.
+
+There is a limit to the number of Props that can be placed in a Shared Space, which depends on the total "volume" of the items used. Placeable items are sorted in the menu by how much “volume” they use in a Shared Space, listed from left to right. The circular bar surrounding the {{Icon|Shared-space-hammer-Credit-Ray.png|link=}} hammer icon at the top of the screen indicates how full a Shared Space is before no further items can be placed. Props cannot be placed outside the borders of a Shared Space, indicated by glowing blue walls.
+
+The items available for use in Shared Spaces are independent of each other. This means that you can place a Prop in one Shared Space and still have the ability to use that same Prop in another Shared Space without removing it from the first. Props obtained through [[Spells]], such as the [[That Sky Shop/Wave 10#Manta Plush (38")|Big Manta Plush]], cannot be placed in a Shared Space.
+
+A Shared Space must receive one {{Icon|Thumbs-Up-Like.png|link=}} "like" from a player's friends before it becomes public to all players. After giving another player's Shared Space a "like," you can gift the creator a [[Heart]] once per day by spending {{Cost|3 C}}, even if you aren't friends.<section end="Shared Spaces" />
+
+==Creating a Shared Space==
+[[File:Shared-Spaces-menu-UI-2.png|right|thumb|200px|Naming a Shared Space]]
+There are two ways to create a Shared Space: with a [[#Shared Space Shrines|Shared Space Shrine]] or a [[#Shared Space Spells|Shared Space Spell]]. Using either method, the player will enter "edit mode" which offers several specialized options for designing a Shared Space.
+
+Note that while in this mode, several features are disabled to avoid interfering with the designing process. Other nearby players are hidden from view, special interactions with [[Props]] placed in the Shared Space (such as sitting on chairs or hugging plushies) are disabled, other nearby [[Player Creations]] cannot be interacted with, the [[Expression Menu]] cannot be accessed, and the player cannot bring out their {{Icon|Icon_flame.png|link=}} [[Flame]].<br>
+<br>
+[[File:Shared-Spaces-menu-UI-1.png|none|thumb|x200px|Shared Space "Edit Mode" UI]]
+
+<br>
+The vertical menu in the top left corner of the screen in "edit mode" contains several icons, detailed below. This menu can toggle between being collapsed and expanded by selecting the arrow found at the bottom of the menu. 
+
+*{{Icon|Publish-Space-icon.png|link=}} '''Save and Publish:''' When the player is ready to finish, they will be prompted to give their Shared Space a name before saving and publishing it for others to discover.
+**{{Icon|Exit-Ray.png|link=}} '''Leave:''' Exit "edit mode" without saving the Shared Space. This is also done automatically when the player moves far enough away from the boundaries of the Shared Space.
+*{{Icon|Clear-All-icon.png|link=}} '''Clear All:''' Removes all Props placed within the Shared Space and returns them to the player's inventory to start again from scratch.
+*{{Icon|Edit friend name.png|link=}} '''Preview Mode:''' Toggles "preview mode," which disables the player's ability to move and place Props in exchange for reenabling special interactions with Props placed in the Shared Space and returning access to the Expression Menu. 
+*{{Icon|Snap-to-Grid-icon.png|link=}} '''Snapping:''' Toggles "snapping," which aligns placed Props to a grid by snapping them into set positions instead of freely placing them anywhere.<br>
+<br>
+[[File:Shared Space placeable props.png|none|thumb|x200px|Placeable Props Menu]]
+<br>
+At the top center of the screen is a {{Icon|Shared-space-hammer-Credit-Ray.png|link=}} hammer icon surrounded by a circular white bar. This bar indicates the total "volume" available in the Shared Space before no further items can be placed. As more items are added to the Space, the bar drains and turns red as it nears empty.
+
+Selecting the {{Icon|Shared-space-hammer-Credit-Ray.png|link=}} hammer icon opens a menu that holds all of the player's [[Props#Placeable Props|placeable Props]] that can be used in a Shared Space. These placeable Props are categorized into three separate tabs, similar to the [[Cosmetics|Prop Outfit Shrine]].
+
+*<!--To be replaced with a more accurate version of the icon-->{{Icon|Quest-star-icon.png|link=}} '''Featured Props:''' This tab contains Props that are available by default within a given region's Shared Spaces, even if the player has not previously purchased them. (''For more information, see the [[#Featured Props|Featured Props]] section below.'')
+*{{Icon|Bookcase-icon.png|link=}} '''Large Props:''' This tab contains all Props the game categorizes as "large" and have more "volume" in a Shared Space compared to other items.
+*{{Icon|Teacup-icon.png|link=}} '''Small Props:''' This tab contains all Props the game categorizes as "small" and have less "volume" in a Shared Space compared to other items.
+
+===Shared Space Shrines===
+Shared Space Shrines are glowing blue crystals found in fixed locations where players can create a Shared Space. Unlike a [[#Shared Space Spells|Shared Space Spell]], the items in these Shared Spaces are saved indefinitely. A published shared space becomes unpublished after 7 days but can be published again. 
+
+Select the {{Icon|Edit friend name.png|link=}} pencil icon on the crystal to begin creating a Shared Space. Once a Shared Space has been saved and published, the pencil icon on the crystal will be replaced by a {{Icon|Four-point-star-Ray.png|link=}} star icon that allows you to edit the existing Shared Space.
+
+A total of 11 Shared Space Shrines are currently available: 
+
+*[[Aviary Village]]: inside the [[Nesting Workshop]], to the right of the front counter (''Only available after completing the [[Season of Nesting#Quest #1|first Seasonal Quest]] from Season of Nesting'')
+*[[Aviary Village]]: inside the player's [[Season of Nesting#Nest|Nest]] (''Only available after completing the [[Season of Nesting#Quest #2|second Seasonal Quest]] from Season of Nesting'')
+*[[Daylight Prairie]]: on the left side of the [[Daylight Prairie#Social Space|Social Space]], across from the [[Cosmetics#Outfit Shrines|Closets]]
+*[[Hidden Forest]]: on a grassy ledge behind the [[The Treehouse|Treehouse]]
+*[[Hidden Forest]]: on the highest floating island in the [[Wind Paths]]
+*[[Valley of Triumph]]: in the stands of the [[Coliseum]], left of the Temple entrance
+*[[Valley of Triumph]]: on top of the Hermit's cave in [[Hermit Valley]]
+*[[Golden Wasteland]]: on the far-left shore of [[Treasure Reef]]
+*[[Secret Area]]: in the studio room on the second level of the Office building
+*[[Vault of Knowledge]]: on the ground floor of the [[Repository of Refuge]] (''Only available after completing the [[Season of Remembrance#Quest #7|seventh Seasonal Quest]] from Season of Remembrance'')
+*[[Map:Alice's Wonderland Cafe|Alice's Wonderland Cafe]]: on the coffee table next to the Snow Globe, in the [[Map:Alice's Wonderland Cafe|Wonderland Cafe]] which can be reached via the [[Days of Feast#Wonderland Cafe Corridor|Wonderland Cafe Corridor]].
+
+<gallery widths="150" spacing="small" captionalign="center">
+File:Shared-Space-Shrine-Nesting-Workshop.png|Shared Space Shrine in the Nesting Workshop
+File:Shared-Space-Shrine-Nest.png|Shared Space Shrine in the Nest
+File:Shared-spaces-Daylight-Prairie-social-space.jpg|Shared Space Shrine in Prairie's Social Space
+File:Shared-spaces-Forest-Assembly.jpg|Shared Space Shrine in the Treehouse
+File:Shared-spaces-Forest-Flight.jpg|Shared Space Shrine in the Wind Paths
+File:Shared-spaces-Valley-AURORA.jpg|Shared Space Shrine in the Coliseum
+File:Shared-spaces-Valley-Dreams.jpg|Shared Space Shrine in Hermit Valley
+File:Shared-spaces-Wasteland-Abyss.jpg|Shared Space Shrine in Treasure Reef
+File:Shared-spaces-Secret-Area-Office.jpg|Shared Space Shrine in the Secret Area
+File:Shared-Spaces-Repository-of-Refuge.jpg|Shared Space Shrine in the Repository of Refuge
+File:Shared Space Shrine in the Wonderland Cafe.jpg|Shared Space Shrine in the Wonderland Cafe
+</gallery>
+
+===Shared Space Spells===
+<section begin="Shared Space Spell" />Introduced on February 23, 2023 with the {{v|0.20.5}} Update, Shared Space Spells are a type of [[Spell]] that allow players to create a Shared Space almost anywhere within the [[Realms]]. Unlike [[Shared Spaces#Shared Space Shrines|Shared Space Shrines]], these Shared Spaces last for 7 days before expiring. When placed down, they look like a transparent version of the memory lanterns found throughout the [[Vault of Knowledge]].
+
+Similar to other types of [[Player Creations]], after giving another player's Shared Space a "like," the creator can be gifted a [[Heart]] for {{Cost|3 C}} once per day, even if you aren't friends. This can be given in addition to [[Friendship Menu#Heart Gift|regular Heart gifts]]. Note that you can only send an individual player a maximum of one Heart through one of their Player Creations each day, regardless of how many they have placed in the Realms.<br>
+<br>
+<gallery widths="125" captionalign="center">
+Shared Space Spell Icon.png|Shared Space Spell icon
+Shared Space Spell Placed Down.png|Shared Space Spell
+Shared Space Spell confirmation screen.png|Shared Space Spell confirmation menu
+</gallery>
+
+Shared Space Spells can be placed almost everywhere in ''Sky'', other than: 
+
+*[[Home]]
+*[[Nest]]
+*Parts of [[Nesting Workshop]]
+*Near [[Belonging Guide|Grandma]]'s table at [[Elevated Clearing]]
+*Near the [[Additional Light Sources#Polluted Geyser|Polluted Geyser]] at [[Sanctuary Islands]]
+*Inside the [[Season of Prophecy#The Trials|Prophecy Trials]]
+*[[Season of Remembrance|Repository of Refuge]]
+*In bounds of a [[Shared Spaces#Shared Space Shrines|Shared Space Shrine]]
+*Parts of the [[Eye of Eden]] before [[Eye of Eden#Ascent and Orbit|Orbit]]
+
+Players can buy Shared Space Spells for {{Cost|4 C}} from the [[Home#The Sleepy Traveling Merchant's Boat|Sleepy Traveling's Boat]] at [[Home]], the [[Spell Shops#Forgotten Ark Shops|Forgotten Ark Spell Shop]], or the [[Aviary Village#Spell Shop|Aviary Village Spell Shop]]. Free Shared Space Spells can be obtained as rewards for completing Seasonal Quests from the [[Season of Remembrance]] and [[Nesting Workshop#Nesting Challenges: Workshop|Nesting Challenges]]. During the Season of Remembrance, a free Shared Space Spell was added to the [[Assembly Guide]]'s Friendship Tree as well.<section end="Shared Space Spell" />
+
+==Viewing Others Shared Spaces==
+{{WIP
+}}
+
+==<span id="Where to get Props for your Shared Spaces"></span>Placeable Props==
+Placeable [[Props]] can be obtained through [[Regular Spirits]], [[Traveling Spirits]], [[Special Events]], and [[Seasonal Spirits]].
+
+The following table lists all the placeable Props that have ever been available in ''Sky''; only a small subset of them are [[#Availability Legend|available]] for purchase at any given time. The default order is icon order, as used in the in-game [[Props]] [[Closet Shrine]]. The table sort order can be changed by clicking on the header of any column. The # column indicates the number of that item that can be placed at one time in a Shared Space. The last column provides the Prop's purpose:
+* Chat: an item that allows players to [[Chat]] with each other; the number of players who can sit and chat at one time is provided in parentheses.
+* Light: an item that provides light AND allows players to recharge their [[Capes#Cape Energy|Cape Energy]].
+* Covering: an item that can protect players from the rain.
+* Decoration: an item that has no useful purpose. This includes lights that do '''not''' recharge [[Capes#Cape Energy|Cape Energy]].
+{{#lst:Props|placeable_props}}
+===<span id="Featured Props for Shared Spaces"> </span>Featured Props===
+Introduced on January 10, 2023 with the {{v|0.20.0}} Update, Featured Props are [[Props]] available by default within a given region's Shared Spaces, even if the player has not previously purchased them. Several Featured Props are items exclusive to Shared Spaces and cannot be used or obtained elsewhere, such as the {{Icon|Shared-Spaces-Brick-prop-icon-Morybel-0146.png|link=}} [[#Shared_Spaces_Brick|Brick]] and {{Icon|Shared-Spaces-Standing-Lantern-prop-icon-Morybel-0146.png|link=}} [[#Shared Spaces Standing Lantern|Standing Lantern]].
+
+These items can be found within the first tab <!--not actually the same icon; it's similar but will need a new vector for accuracy-->(the {{Icon|Quest-star-icon.png|link=}} star icon) of the Placeable Props menu while editing a Shared Space. The following table lists all Featured Props and the locations where they are available to use.
+
+{| class="article-table mw-collapsible mw-collapsed" style="width: 75%"
+!style="text-align:center;" colspan=2|Featured Props for Shared Spaces
+|-
+! Location
+! style="text-align:center;"| Featured Props
+|-
+|[[Aviary Village]]<br>[[Isle of Dawn]]
+|{{Spirit Item| Assembly Guide | prop_l | table | link=Assembly Guide#Brazier Prop }} {{Spirit Item| Playfighting Herbalist | Prop | table }} {{Icon| Shared-Spaces-Brick-prop-icon-Morybel-0146.png| table | link=#Shared Spaces Brick | label=Shared Spaces Brick }}
+|-
+|[[Daylight Prairie]]
+|{{Icon| Shared-Spaces-Stool-prop-icon-Morybel-0146.png| table | link=Nesting Workshop#Stone Stool | label=Stone Stool }} {{Spirit Item| Assembly Guide | prop_l | table | link=Assembly Guide#Brazier Prop }} {{Icon| Shared-Spaces-Brick-prop-icon-Morybel-0146.png| table | link=#Shared Spaces Brick | label=Shared Spaces Brick }}
+|-
+|[[Sanctuary Islands]]
+|{{Spirit Item| Jelly Whisperer | Prop | table }} {{Spirit Item| Hiking Grouch | Prop | table }} {{Spirit Item| Grateful Shell Collector | Prop | table }} {{Spirit Item| Chill Sunbather | Prop | table }} {{Icon| Shared-Spaces-Stool-prop-icon-Morybel-0146.png| table | link=Nesting Workshop#Stone Stool | label=Stone Stool }} {{Spirit Item| Assembly Guide | prop_l | table | link=Assembly Guide#Brazier Prop }} {{Icon| Shared-Spaces-Brick-prop-icon-Morybel-0146.png| table | link=#Shared Spaces Brick | label=Shared Spaces Brick }}
+|-
+|[[Hidden Forest]]
+|{{Spirit Item| Scaredy Cadet | Prop | table }} {{Icon| Shared-Spaces-Standing-Lantern-prop-icon-Morybel-0146.png | table | link=#Shared Spaces Standing Lantern | label=Shared Spaces Standing Lantern }} {{Spirit Item| Assembly Guide | prop_t | table | link=Assembly Guide#Tent Prop }}
+|-
+|[[Hidden Forest#The Treehouse|The Treehouse]]
+|{{Spirit Item| Hiking Grouch | Prop | table }} {{Spirit Item| Scaredy Cadet | Prop | table }} {{Spirit Item| Assembly Guide | prop_b | table | link=Assembly Guide#Bookcase Prop }} {{Icon| Shared-Spaces-Standing-Lantern-prop-icon-Morybel-0146.png | table | link=#Shared Spaces Standing Lantern | label=Shared Spaces Standing Lantern }} {{Spirit Item| Prophet of Fire | Prop | table }} {{Spirit Item| Assembly Guide | prop_t | table | link=Assembly Guide#Tent Prop }} {{Days Item| Campfire Tent | icon | table }} {{Spirit Item| Chuckling Scout | Prop | table }} {{Spirit Item| Assembly Guide | prop_p | table | link=Assembly Guide#Pillow Prop }}
+|-
+|[[Wind Paths]]
+|{{Spirit Item| Scaredy Cadet | Prop | table }} {{Icon| Shared-Spaces-Stool-prop-icon-Morybel-0146.png| table | link=Nesting Workshop#Stone Stool | label=Stone Stool }} {{Spirit Item| Belonging Guide | prop_u | table | link=Belonging Guide#Belonging Ultimate Prop }} {{Icon| Shared-Spaces-Standing-Lantern-prop-icon-Morybel-0146.png | table | link=#Shared Spaces Standing Lantern | label=Shared Spaces Standing Lantern }} {{Spirit Item| Assembly Guide | prop_t | table | link=Assembly Guide#Tent Prop }} {{Spirit Item| Festival Spin Dancer | Prop | table }} {{Spirit Item| Assembly Guide | prop_p | table | link=Assembly Guide#Pillow Prop }} {{Icon| Shared-Spaces-Bucket-prop-icon.png | table | link=#Shared Spaces Bucket | label=Shared Spaces Bucket }}
+|-
+|[[Valley of Triumph]]
+|{{Icon| Shared-Spaces-Sparkler-prop-icon-0-aliferous-twiq-0.png| table | link=#Shared Spaces Sparkler | label=Shared Spaces Sparkler }}
+|-
+|[[Village Theater]]
+|{{Spirit Item| Performance Guide | Prop | table | link=Performance Guide#Flower Pot Prop }} {{Icon| Shared-Spaces-Brick-prop-icon-Morybel-0146.png| table | link=#Shared Spaces Brick | label=Shared Spaces Brick }} {{Icon| Shared-Spaces-Sparkler-prop-icon-0-aliferous-twiq-0.png| table | link=#Shared Spaces Sparkler | label=Shared Spaces Sparkler }}
+|-
+|[[Hermit Valley]]
+|{{Days Item| Course Creation Prop | icon | table }} {{Icon| Shared-Spaces-Sparkler-prop-icon-0-aliferous-twiq-0.png| table | link=#Shared Spaces Sparkler | label=Shared Spaces Sparkler }}
+|-
+|[[Golden Wasteland]]
+|{{Spirit Item| Troupe Juggler | Prop | table }} {{Spirit Item| Crab Whisperer | Prop | table }} {{Icon| Shared-Spaces-Brick-prop-icon-Morybel-0146.png| table | link=#Shared Spaces Brick | label=Shared Spaces Brick }}
+|-
+|[[Treasure Reef]]
+|{{Spirit Item| Jelly Whisperer | Prop | table }} {{Spirit Item| Chill Sunbather | Prop | table }} {{Spirit Item| Assembly Guide | prop_b | table | link=Assembly Guide#Bookcase Prop }} {{Spirit Item| Troupe Juggler | Prop | table }} {{Spirit Item| Prophet of Fire | Prop | table }} {{Spirit Item| Assembly Guide | prop_t | table | link=Assembly Guide#Tent Prop }} {{Spirit Item| Crab Whisperer | Prop | table }} {{Icon| Shared-Spaces-Bucket-prop-icon.png | table | link=#Shared Spaces Bucket | label=Shared Spaces Bucket }} {{Icon| Shared-Spaces-Brick-prop-icon-Morybel-0146.png| table | link=#Shared Spaces Brick | label=Shared Spaces Brick }} {{Icon| Shared-Spaces-Round-Jar-prop-icon-Morybel-0146.png | table | link=#Shared Spaces Round Jar | label=Shared Spaces Round Jar }} {{Icon| Shared-Spaces-Tall-Jar-prop-icon-Morybel-0146.png | table | link=#Shared Spaces Tall Jar | label=Shared Spaces Tall Jar }}
+|-
+|[[Vault of Knowledge]]
+|{{Spirit Item| Baffled Botanist | Prop | table }} {{Icon| Shared-Spaces-Standing-Lantern-prop-icon-Morybel-0146.png | table | link=#Shared Spaces Standing Lantern | label=Shared Spaces Standing Lantern }} {{Spirit Item| Wise Grandparent | Prop | table }}
+|-
+|[[Repository of Refuge]]
+|{{Spirit Item| Grateful Shell Collector | Prop | table }} {{Spirit Item| Remembrance Guide | prop_k | table | link=Remembrance Guide#Kettle Prop }} {{Spirit Item| Assembly Guide | prop_b | table | link=Assembly Guide#Bookcase Prop }} {{Spirit Item| Baffled Botanist | Prop | table }} {{Icon| Shared-Spaces-Standing-Lantern-prop-icon-Morybel-0146.png | table | link=#Shared Spaces Standing Lantern | label=Shared Spaces Standing Lantern }} {{Spirit Item| Assembly Guide | prop_l | table | link=Assembly Guide#Brazier Prop }} {{Spirit Item| Remembrance Guide | prop_p | table | link=Remembrance Guide#Potted Plant Prop }} {{Spirit Item| Wise Grandparent | Prop | table }} {{Days Item| Feast Pillow | icon | table }} {{Spirit Item| Assembly Guide | prop_p | table | link=Assembly Guide#Pillow Prop }} {{Spirit Item| Remembrance Guide | prop_q | table | link=Remembrance Guide#Crab Plush Prop }} {{Spirit Item| Remembrance Guide | prop_m | table | link=Remembrance Guide#Manta Plush Prop }} {{Spirit Item| Remembrance Guide | prop_c | table | link=Remembrance Guide#Chimes Prop }} {{Spirit Item| Sparkler Parent | Prop | table }}
+|-
+|[[Orbit]]
+|{{Spirit Item| Playfighting Herbalist | Prop | table }}
+|-
+|[[Season of Nesting#Nest|The Nest]]
+|{{Icon| Shared-Spaces-Stool-prop-icon-Morybel-0146.png | table | link=Nesting Workshop#Stone Stool| label=Stone Stool }} {{Spirit Item|Nesting Stone Table| prop_s| table | link=Nesting Workshop#Stone Small Table }} {{Spirit Item|Nesting Stone Furniture| prop_b| table | link=Nesting Workshop#Stone Small Cube }} {{Spirit Item|Nesting Stone Room|prop_d| table | link=Nests#Stone Dresser }} {{Spirit Item| Assembly Guide | prop_l | table | link=Assembly Guide#Brazier Prop }} {{Spirit Item| Playfighting Herbalist | Prop | table }} {{Spirit Item|Nesting Stone Furniture| prop_h| table | link=Nesting Workshop#Stone Candle Holder }} {{Spirit Item|Nesting Decor Set|prop_i| table | link=Nesting Workshop#Small Solid Rug }} {{Spirit Item|Nesting Decor Set| prop_p| table | link=Nesting Workshop#Decor Pillow One Color }} {{Icon| Shared-Spaces-Brick-prop-icon-Morybel-0146.png| table | link=#Shared Spaces Brick | label=Shared Spaces Brick }}
+<!-- Nesting Workshop Featured Props TBA -->
+|}
+
+===<span id="Temporary Featured Props for Shared Spaces"> </span>Temporary Featured Props===
+Similar to [[#Featured Props|Featured Props]], Temporary Featured Props are [[Props]] available by default within a given region's Shared Spaces, even if the player has not previously purchased them. However, these items are only available for a limited time, such as for the duration of a [[Special Event]].
+
+Temporary Featured Props were introduced on March 4, 2024 with the [[Spring Camping]] event, which added a special Shared Space Shrine in the [[Eight-Player Puzzle Area]] that offered several themed decorative Props. The following table lists all Temporary Featured Props and their associated events where they are available to use.
+
+{| class="article-table mw-collapsible mw-collapsed" style="width: 50%"
+!style="text-align:center;" colspan=2|Temporary Featured Props for Shared Spaces
+|-
+!Event
+!style="text-align:center;"| Temporary Featured Props
+|-
+|[[Spring Camping]]
+|{{Days Item| Windowed Tent Wall | icon | table }} {{Days Item| Tent Cover | icon | table }} {{Days Item| Tent Wall Entrance | icon | table }} {{Days Item| Tent Wall | icon | table }}
+|}
+
+==Trivia==
+*The [[#Shared Space Shrines|Shared Space Shrine]] in the [[Season of Nesting#Nest|Nest]] has a unique appearance compared to the rest, with its crystal being noticeably thinner to fit into the wall nook.
+*Creating Shared Spaces at Shared Space Shrines does not count towards the [[Nesting Workshop#Nesting Challenges: Workshop|Nesting Challenges]] completion.
+
+===Change History===
+{{Scrollbox|height=400px|text=<div>
+{{v|0.13.4}}
+* First introduced during the last weeks of the [[Season of Assembly]], available starting May 31, 2021 for players who have completed the [[Season_of_Assembly#Quest #6|sixth Seasonal Quest]] from Season of Assembly.
+* The very first Shared Space Shrine was added to the [[The Treehouse|Treehouse]] in [[Hidden Forest]].
+----
+{{v|0.14.5}}
+* With the [[Season of the Little Prince]], two additional Shared Space Shrines were added: one in [[Daylight Prairie#Social Space|Daylight Prairie's Social Space]] and one in the [[Secret Area]] in the [[Vault of Knowledge]].
+----
+{{v|0.15.5}}
+* With the [[Season of Flight]], one additional Shared Space Shrine was added to the [[Wind Paths]].
+* Various improvements made, such as a "clear-all" button in edit mode and a bar indicating how full a Shared Space is before no further items can be placed.
+----
+{{v|0.16.5.0}}
+* With the [[Season of Abyss]], one additional Shared Space Shrine was added to [[Treasure Reef]] in [[Golden Wasteland]].
+* The appearance of Shared Space Shrines changed from resembling a [[Home#Return Shrine|Return Shrine Statue]] to a stone engraved with the [[Season of Assembly]] emblem.
+* The ability to place multiple copies of one type of placeable in a Shared Space was enabled.
+* White candles added around Shared Space Shrines to represent players' Shared Spaces, which can be viewed and "liked."
+----
+{{v|0.17.0}}
+* Players no longer need to complete the [[Season_of_Assembly#Quest #6|sixth Seasonal Quest]] from Season of Assembly to access the Shared Space Shrine in the [[The Treehouse|Treehouse]].
+* Shared Spaces are now accessible to players who have progressed to [[Daylight Prairie]], but must own at least two [[Props]] to access edit mode.
+----
+{{v|0.19.0}}
+* With the [[Season of AURORA]], one additional Shared Space Shrine was added to the [[Coliseum]] in the [[Valley of Triumph]].
+
+{{v|0.19.6}}
+* The Shared Space Shrine in the [[Coliseum]] was removed.
+----
+{{v|0.20.0}}
+* With the [[Season of Remembrance]], the appearance of Shared Space Shrines changed from a stone engraved with the [[Season of Assembly]] emblem to a glowing blue crystal.
+* [[#Featured Props|Featured Props]] were added to the Shared Space Shrines in the [[Secret Area]] and [[Daylight Prairie#Social Space|Daylight Prairie's Social Space]].
+* Various improvements made, such as new tutorial images and UI updates to make Shared Spaces more streamlined to use.
+
+{{v|0.20.5}}
+* One additional Shared Space Shrine was added to the [[Repository of Refuge]] in the [[Vault of Knowledge]] for players who have completed the [[Season_of_Remembrance#Quest #7|seventh Seasonal Quest]] from Season of Remembrance.
+* [[#Featured Props|Featured Props]] were added to the Shared Space Shrines in the [[The Treehouse|Treehouse]], the [[Wind Paths]], and [[Treasure Reef]].
+* Introduced [[#Shared Space Spells|Shared Space Spells]] for creating Shared Spaces almost anywhere throughout the [[Realms]].
+* Various improvements made, such as more precise controls for placing items and indicating players in a Shared Space by highlighting them in blue.
+----
+{{v|0.22.0}}
+* The Shared Space Shrine in the [[Coliseum]] was added back.
+----
+{{v|0.23.5}}
+* With [[Days of Feast]] 2023, one additional Shared Space Shrine was added to [[Hermit Valley]] in the [[Valley of Triumph]].
+----
+{{v|0.24.5}}
+* With [[Spring Camping]], one '''temporary''' Shared Space Shrine with themed [[#Temporary Featured Props|Featured Props]] was added to the [[Eight-Player Puzzle Area]] in [[Daylight Prairie]] for the duration of the event.
+----
+{{v|0.25.0}}
+* With the [[Season of Nesting]], two additional Shared Space Shrines were added in [[Aviary Village]]: one in the [[Nesting Workshop]] and one in the [[Aviary Village#Aviary Village Nests|Nest]], available for players who have completed the [[Season of Nesting#Quest #1|first]] and [[Season of Nesting#Quest #2|second Seasonal Quest]] from Season of Nesting respectively.
+</div>}}
+
+==References==
+<references />
+
+[[pt-br:Espaços Compartilhados]]
+[[fr:Espaces Partagés]]
+
+[[Category:Cosmetics]]
+[[Category:Social Features]]

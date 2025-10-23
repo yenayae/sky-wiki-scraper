@@ -1,0 +1,142 @@
+{{WIP|pagetype = spirit}}
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Action
+|image     = Migrating-Jelly-Whisperer-Spirit-cutout.png
+|cosmetics = {{Spirit Item|Migrating Jelly Whisperer|Outfit|infobox}}<!--
+-->{{Spirit Item|Migrating Jelly Whisperer|Headpiece|infobox}} 
+|season    = Season of Migration
+|realm     = Forest
+|location  = Wind Paths
+|ts        = None
+}}
+<section begin="Summary" />The Migrating Jelly Whisperer is a [[Seasonal Spirit]] from the [[Season of Migration]] who offers the {{Emote|Migrating Jelly Whisperer|inline_text}} Expression. The Migrating Jelly Whisperer is found in the [[Wind Paths]], on the main island, to the left of the [[Flight Guide]], behind an opening in the ground. The collectibles [[#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Migrating Jelly Whisperer|Outfit|inline_text}} and a {{Spirit Item|Migrating Jelly Whisperer|Hairpiece|inline_text}}.<section end="Summary" /><br>
+<br><!--
+[[File:Migrating-Jelly-Whisperer-Promo-art.png|none|thumb|320px|TGC's Promo image]]-->
+
+== Memory ==
+<div>{{#ev:youtube|Hk6kwA7ehWA|200px|inline|Video Guide}}
+
+The Migrating Jelly Whisperer can be found in the [[Wind Paths]], on the main island, to the left of the [[Flight Guide]], behind an opening in the ground. This Spirit has a [[Standard Memory|standard memory]] with 9 memory fragments and a 12-minute overall [[Timed Memory|time limit]].
+
+As their memory unfolds, the Migrating Jelly Whisperer can be seen sneaking up on some [[Jellyfish]]. Once they're close, they climb up a ledge and jump into the middle of the unsuspecting Jellyfish flock, which immeditately scurry away, though not very far. The Whisperer watches as the Jellyfish leave, before the trying their luck again as they carefully follow the creatures to their new spot. This time, the Jellyfish spot the Spirit earlier, but as they begin to fly away, the Whisperer reaches out after them. The flock stops and turns around, coming back to the Migrating Jelly Whisperer. At last, their wish is granted as the flock lifts them up in the air, where the Spirit floats and dances amongst their newly found friends.
+
+At the end of the memory, the Migrating Jelly Whisperer stands by the Jellyfish, jumping and performing pirouettes in the air. They stop their joyous dance to watch another group of small and big Jellyfish pass by and fly high up into the sky.
+</div>
+
+==<span id="Expression">Expression</span>==
+This Spirit offers the {{Emote|Migrating Jelly Whisperer|inline_text}} [[Expression]], which has 4 Levels. Level 1 is free and Level 3 is offered for {{Cost|24 SC|season=Season of Migration}} to all players. Level 2 and 4 are available for [[Season Pass]] holders exclusively.
+
+[[File:{{Icon Name||emote}}|x170px|left]]<!--
+<gallery heights="125" captionalign="center">
+Migrating-Jelly-Whisperer-emote-level-1.gif|{{Icon Name|Migrating Jelly Whisperer|emote_name}} Level 1
+Migrating-Jelly-Whisperer-emote-level-2.gif|{{Icon Name|Migrating Jelly Whisperer|emote_name}} Level 2
+Migrating-Jelly-Whisperer-emote-level-3.gif|{{Icon Name|Migrating Jelly Whisperer|emote_name}} Level 3
+Migrating-Jelly-Whisperer-emote-level-4.gif|{{Icon Name|Migrating Jelly Whisperer|emote_name}} Level 4
+</gallery>-->
+*Level 1 will make your avatar imitate a Jellyfish by jumping up and down, their feet pointed and their arms moving gracefully with each motion, while high-pitched tinkling sound effects play. After every second jump, the avatar will quickly turn around themselves once, before continuing to jump again. This action is continued for as long as you don't move your avatar.
+*Level 2 makes the same motion as Level 1 with blue orbs flying up from the arms with each jump and turn, as well as a pink glowing lines trailing around the avatar's body on the latter.
+*Level 3 will make your avatar dance on the spot, by smoothly moving their arms and knees in a fast-paced, wave-like motion, while an upbeat, laid-back melody plays.
+*Level 4 makes the same motion as Level 3 with white bubbles rising from the spot where the avatar stands.
+<!--As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Heart|4}}, {{Heart|3}}, and {{Heart|6}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.-->
+
+==Cosmetics==
+===<span id="Outfit">Outfit</span>===
+The [[Outfit]] offered by this Spirit is a square-neck top and apron over cinched shorts. The cap-sleeved top has a zig-zag crop that reveals a yellow undershirt. The waist cloth is apron-like, colored orange with blue and yellow edges. One wrist has golden bands, and the ankles feature leg scrunches with ball-shaped decorations. <!--description by Ozotronic-->It is a [[Season Pass]] exclusive item during the Season.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Migrating Jelly Whisperer|Outfit|icon}} {{!}} The Outfit icon
+{{Icon Name|Migrating Jelly Whisperer|Outfit|real}} {{!}} The Outfit front
+{{Icon Name|Migrating Jelly Whisperer|Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Head accessory">Hair Accessory</span>===
+The [[Hair Accessory]] offered by this Spirit is a pair of golden, dome-shaped earmuffs. The earmuffs are not connected by a headband. Each muff is lined with fur and features a pair of red and blue pointed ribbons attached to the center. <!--description by Ozotronic-->It is offered to all players for {{Cost|36 SC|season=Season of Migration}} during the Season.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Migrating Jelly Whisperer|Hairpiece|}} {{!}} The Hair Accessory icon
+{{Icon Name|Migrating Jelly Whisperer|Hairpiece|real}} {{!}} The Hair Accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+<!--   ONLY APPLICABLE ONCE SPIRIT HAS BECOME A TRAVELING SPIRIT 
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling
+|ts_dates=*June 19, 2019 (#01)
+*June 19, 2020 (#02)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Migrating Jelly Whisperer
+|image = 
+|season = season
+
+|nodeC6 = Outfit 60 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Mask 30 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+The hints given before the Migrating Jelly Whisperer's first appearance were: 
+{{Collapse
+|label=First Visit Hints
+|content=<div>
+*  [ hints can be on the official Sky Discord which are posted a few days before the traveling spirit by staff of thatgamecompany. ]
+</div>
+}}
+
+-->
+<!--   USE VARIABLES TO CONSTRUCT FRIENDSHIP TREE
+Cosmetics: Outfit Cape Hair Hairpiece Headpiece Facepiece Mask Necklace Outfit Shoes Instrument Prop 
+Expressions; emote emote1 emote2 emote3 emote4 
+Cost: SP for Season Pass, SC for Season Candles, C for Candle, H for Heart, free for Free
+Other: spell5 spellx heart season_heart #Quest #1 
+-->
+==Season Friendship Tree ==
+{{Friendship Tree Info | season| season=Season of Migration}}<br><br>
+{{Mbox
+|type=moderate
+|header=New Friendship Tree System
+|image=Reassuring-Ranger-Action-icon-Credit-Morybel.png
+|text=With the Season of Migration, TGC introduced a [https://www.thatskygame.com/news/the-season-of-migration-is-upon-us new Friendship Tree system]; instead of unlocking items through a single linear path, players can now spend time with Spirits to build Friendship. '''A template to display this new system on the Spirit pages is in the works and will be added soon.''' Thank you for your patience!
+}}
+
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Migrating Jelly Whisperer
+|image  = Migrating-Jelly-Whisperer-Spirit-cutout.png
+|type   = season
+|season = Season of Migration
+|friendship_update = 1
+
+|nodeR6 = season_heart 3 SC SP
+
+|nodeR5 = spellx SP
+
+|nodeL4 = hair_accessory 36 SC
+|nodeC4 = relationship
+|nodeR4 = emote4 SP
+
+|nodeL3 = emote3 24 SC
+|nodeC3 = cyan_dye 9 SC
+|nodeR3 = outfit SP
+
+|nodeL2 = spellx 4 SC
+|nodeC2 = 
+|nodeR2 = emote2 SP
+
+|nodeL1 = emote 
+|nodeC1 = spellx 2 SC
+|nodeR1 = follow
+}}<section end="Season Friendship Tree" />
+
+==References==
+<references />
+
+[[pt-br:Água-Viva Sussurrante Migratória]]

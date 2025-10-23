@@ -1,0 +1,132 @@
+{{Location
+|image      = Prairie_PrairiePeaks3.jpg
+|realm      = Daylight Prairie
+|access     = [[Prairie Caves]]
+|season     = Moments
+|seasonal_spirits  = {{Spirit Group|Moments|format=infobox}}
+|children_of_light = 3
+|pieces_of_light   = 0
+|map= 14prairie peaks .jpg
+|mapcaption=Prairie Peaks Map by @sky_solsuga
+}}
+<section begin="Quote" />{{Quote|<br>'''''A pristine landscape.'''''|Prairie Peaks Opening}}<section end="Quote" />
+
+<section begin="Summary" />'''Prairie Peaks''' is a Seasonal area added to [[Daylight Prairie]], introduced along with the [[Season of Moments]] in Patch {{v|0.22.0}} All the Quests, Spirits, and activities can be found in this area. To enter Prairie Peaks, head to [[Prairie Caves]] in Daylight Prairie and turn left of the main cave entrance, where a boat inside an opening within the walls can be found. The opening is blocked by a Spirit Gate requiring 1 [[Regular Spirits|Regular Spirit]] from [[Hidden Forest]] to be relived. Take sail through the clouds and enter the vast beauty of Prairie Peaks.<section end="Summary" />
+__TOC__
+{{Clear}}
+
+==Overview==
+Prairie Peaks is a serene and enchanting location within [[Daylight Prairie]]. As you venture through this area, you'll find yourself amidst vast prairies and swaying grasslands. The landscape is adorned with vibrant wildflowers surrounded by peaks of stone. Additionally, a river flows through this area with [[Light Creatures]] swimming past it. Light Creatures are abundant in the Prairie Peaks, from [[Birds]] to [[Butterflies]] to [[Light Creatures|Manatees]], they roam all throughout the area, from the rough luminescent caves to the gentle rolling plains.
+
+As real time progresses in Prairie Peaks, the area will adjust with different lighting to reflect the passage of time. Every few minutes, the area will go from Sunrise, Morning, Day, Sunset, Evening, and Night in intervals of 12 minutes.
+<gallery widths="150" spacing="small">
+Prairie PrairiePeaks1.png|Sunrise (Pink)
+Prairie PrairiePeaks2.png|Morning (Foggy)
+Prairie PrairiePeaks3.png|Day (Clear)
+Prairie PrairiePeaks4.png|Sunset (Orange)
+Prairie PrairiePeaks2.png|Evening (Foggy)
+Prairie PrairiePeaks5.png|Night (Navy)
+</gallery>
+<div>
+{| class="fandom-table mw-collapsible mw-collapsed"
+!colspan=3|Full Schedule
+|-
+!Lighting
+!Real Time
+!Duration
+|-
+|Sunrise (Pink)
+|xx:00, xx:12, xx:24, xx:36, xx:48 
+|2 minutes
+|-
+|Morning (Foggy)
+|xx:02, xx:14, xx:26, xx:38, xx:50 
+|1 minute
+|-
+|Day (Clear)
+|xx:03, xx:15, xx:27, xx:39, xx:51 
+|3 minutes
+|-
+|Sunset (Orange)
+|xx:06, xx:18, xx:30, xx:42, xx:54 
+|1 minute
+|-
+|Evening (Foggy)
+|xx:08, xx:20, xx:32, xx:44, xx:56 
+|1 minute
+|-
+|Night (Navy)
+|xx:09, xx:21, xx:33, xx:45, xx:57 
+|3 minutes
+|-
+!colspan=3|Note this is assuming a timezone that does not have a half hour offset.
+|}
+</div>
+
+Near the entrance stands the [[Moments Guide]] offering the player the [[Moments_Guide#Additional_Cosmetics|Camera]] Prop, allowing manipulation of depth of field, zoom, exposure, luminosity, and focus. With the Camera, the Guide invites players to take photos of various subjects in four Quests. In the area surrounding the Guide are 4 Seasonal Spirits, which upon completing, will give you their unique [[Expression]].
+
+===Child of Light Locations===
+There are a total of '''3''' [[Children of Light#Prairie Peaks|Children of Light]] in Prairie Peaks.
+{{#lst:Children of Light|PrairiePeaks Children}}
+
+===Spirits in Prairie Peaks===
+Prairie Peaks holds 4 [[Seasonal Spirits]] ({{Spirit|Reassuring Ranger|Inline_text}}, {{Spirit|Jolly Geologist|Inline_text}}, {{Spirit|Ascetic Monk|Inline_text}}, {{Spirit|Nightbird Whisperer|Inline_text}}).
+<section begin="SpiritTabber" />{{Mobile Tabber
+|tab1 = {{Spirit|Reassuring Ranger|tab}}
+|c1   = <div> {{#ev:youtube| MN1DV_iu7EQ |400|right}} {{#lst:Reassuring Ranger|Summary}} {{#if: {{#lst:Reassuring Ranger|TS Friendship Tree}} | {{#lst:Reassuring Ranger|TS Friendship Tree}} | {{#lst:Reassuring Ranger|Season Friendship Tree}} }} </div>
+|type1=seasonal
+
+|tab2 = {{Spirit|Jolly Geologist|tab}}
+|c2   = <div> {{#ev:youtube| PSttOiSBiys |400|right}} {{#lst:Jolly Geologist|Summary}} {{#if: {{#lst:Jolly Geologist|TS Friendship Tree}} | {{#lst:Jolly Geologist|TS Friendship Tree}} | {{#lst:Jolly Geologist|Season Friendship Tree}} }} </div>
+|type2= seasonal
+
+|tab3 = {{Spirit|Ascetic Monk|tab}}
+|c3   = <div> {{#ev:youtube| v8ecSqd3NOA |400|right}} {{#lst:Ascetic Monk|Summary}} {{#if: {{#lst:Ascetic Monk|TS Friendship Tree}} | {{#lst:Ascetic Monk|TS Friendship Tree}} | {{#lst:Ascetic Monk|Season Friendship Tree}} }} </div>
+|type3= seasonal
+
+|tab4  = {{Spirit|Nightbird Whisperer|tab}}
+|c4    = <div> {{#ev:youtube| C8otHgCYJ7U |400|right}} {{#lst:Nightbird Whisperer|Summary}} {{#if: {{#lst:Nightbird Whisperer|TS Friendship Tree}} | {{#lst:Nightbird Whisperer|TS Friendship Tree}} | {{#lst:Nightbird Whisperer|Season Friendship Tree}} }} </div>
+|type4= seasonal
+}}<section end="SpiritTabber" />
+
+==Activities==
+===Moments Quests===
+<div style="float:right">{{Mobile Tabber|textonly=1
+|tab1 = 1
+|c1   = <div> {{#ev:youtube|MBEFPWhOTDY|300|right}} </div>
+
+|tab2 = 2
+|c2   = <div> {{#ev:youtube|2hKXqqHz9uY|300|right}} </div>
+
+|tab3 = 3
+|c3   = <div> {{#ev:youtube|y2IHN1jZNjg|300|right}} </div>
+
+|tab4 = 4
+|c4   = <div> {{#ev:youtube|fSmyTLzqs3A|300|right}} </div>
+}}</div>
+In Prairie Peaks players are able to do Seasonal Quests from [[Season of Moments]], a series of tasks challenging the player to take photos of various subjects and locations using the [[Moments_Guide#Additional_Cosmetics|Camera]] Prop. From photographing the Birds to taking a photo of the surroundings at a specific time of day, follow in the Spirits' footsteps to experience the vast beauty of Prairie Peaks.
+{{Clear}}
+
+<!--
+==Gallery==
+<gallery widths="225" spacing="small" captionalign="center" hideaddbutton="true" mode="nolines">
+En-credit-1.jpg
+En-credit-1.jpg
+En-credit-1.jpg
+</gallery>-->
+
+== Trivia ==
+
+* Prairie Peaks was used as the [[Days of Bloom#March 2024|Days of Bloom 2024]] event space, with a raging thunderstorm in the first week before the river flooded in the following two weeks.
+
+==References==
+<references/>
+
+{{GameLevelsNav}}
+
+[[fr:Pics de la Prairie]]
+[[pt-br:Picos da Campina]]
+[[de:Präriegipfel]]
+[[ja:草原連峰]]
+
+[[Category:Daylight Prairie]]

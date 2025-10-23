@@ -1,0 +1,187 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Dreams-Spirit-Peeking-Postman.png|Standard
+Dreams-Spirit-Peeking-Postman-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Outfit|infobox}}{{Spirit Item||Shoes|infobox}}{{Spirit Item||Mask|infobox}}{{Spirit Item||Cape|infobox}}
+|music     = {{Music Sheet|18}}
+|season    = Dreams
+|realm     = Valley of Triumph
+|location  = Village of Dreams
+|ts        = June 23, 2022 (#64)
+}}
+<section begin="Summary" />The '''Peeking Postman''' is a [[Seasonal Spirit]] from the [[Season of Dreams]] who offers the {{Emote|Peeking Postman|inline_text}} Expression. The Peeking Postman is found in the [[Village of Dreams]], behind a building in front of the [[Dreams Guide]]. The collectibles [[Peeking Postman#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Peeking Postman|Outfit|inline_text}}, {{Spirit Item|Peeking Postman|Shoes|inline_text}}, a {{Spirit Item|Peeking Postman|Mask|inline_text}}, a {{Spirit Item|Peeking Postman|Cape|inline_text}}, and the {{Music Sheet|18|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Peeking-Postman-promo-image.jpg|thumb|320px|none|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|x7GGq7Ef_cQ||inline|Video Guide by Tara}}
+
+The Peeking Postman can be found in the [[Village of Dreams]], behind a building in front of the [[Dreams Guide]]. This Spirit has a [[Standard Memory|standard memory]] with 7 memory fragments and a 15-minute [[Timed Memory|time limit]].<br>
+<br>
+As their memory unfolds, the Peeking Postman can be seen striding alongside the back of the buildings in the Village with a sled full of packages to be delivered. They coincidentally spot the [[Bearhug Hermit]] walking in the snow and promptly hide behind a building, peeking at the Spirit. After the Hermit has gone a bit further, the Peeking Postman is greeted by the young Skater, and the two unite in their pursuit of the Bearhug Hermit. They carefully follow the Spirit on their hike up a hill, when the Hermit suddenly turns around and spots their two pursuers, making them jump up in surprise.
+
+At the end of the memory, the Bearhug Hermit waves at the young Skater and the Peeking Postman. The Peeking Postman immediately hides under their Cape and takes a few moments before regaining confidence and letting their temporary shelter fall.<br>
+<br>
+[[File:03 VT Seasonal Spirit - Peeking Postman.png|200px|thumb|none|Relive the Peeking Postman's memory]]
+</div>
+{{Clear}}
+
+==Expression==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.  
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Peeking-Postman-peek-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Peeking-Postman-peek-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Peeking-Postman-peek-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Peeking-Postman-peek-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar lift up their left arm and hide behind their cape, before peeking outside. Your avatar will remain in this peeking position until you move; when you do, your avatar will bring down their arms, joining their hands at their chest. Each motion is accompanied by high whisle notes, except for when the avatar is not moved during the Expression.
+*Level 2 makes the same motion as Level 1 with light pink circles adorning your avatar's cheeks and two red heart flying up during the last part of the Expression, once the avatar has been moved.
+*Level 3 will make your avatar hesitantly take a small step to the side, before turning their back and lifting up their cape just enough so they can hide behind but still peek over it. Your avatar will remain in this peeking position until you move; when you do, your avatar will move down their cape and timidly wave their left hand in greeting. Each motion is accompanied by high whisle notes, except for when the avatar is not moved during the Expression.
+*Level 4 makes the same motion as Level 3 with lots of red hearts flying up before your avatar hides under their cape, as well as two pink circles adoring their cheeks, and a small trail of white sparkles appearing at their hands at the end.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+==Cosmetics==
+===<span id="Shoes">Outfit</span>===
+The [[Outfit]] offered by this Spirit is a black tunic with a red collar and three straps across the chest paired with knee-length red pants, all featuring gold accents, costing {{Cost|70 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fourth node ({{Cost|49 SC|season=Dreams}} total).<br>{{Dye_Details
+|area1=the collar and pants
+|cost1=3
+}}
+
+In the {{v|0.24.5}} Patch, the boots attached to the Outfit were removed and became a separate cosmetic item. The [[Shoes]] offered by this Spirit are knee-length black boots with a gray crisscross pattern and gold accents.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Outfit|icon}} {{!}} The Outfit icon
+{{Icon Name||Outfit|real}} {{!}} The Outfit front
+{{Icon Name||Outfit|back}} {{!}} The Outfit back
+{{Icon Name||Shoes|icon}} {{!}} The Shoes icon
+{{Icon Name||Shoes|real}} {{!}} The Shoes front
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Mask=== 
+The [[Mask]] offered by this Spirit is shaped like the head of a rabbit and colored red, with black and yellow accents, costing {{Cost|54 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fifth node ({{Cost|76 SC|season=Dreams}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Cape===
+The [[Cape]] offered by this Spirit features a red zigzag scale pattern, adorned with a few thin red pieces of fabric evenly spaced out along the Cape's trim, yellow accents, as well as a straight, fluffy black scarf hanging down the back that is adorned with a big pom-pom at the bottom, costing {{Cost|65 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fifth node ({{Cost|76 SC|season=Dreams}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||Cape|interior}} {{!}} The Cape interior
+{{Icon Name||Cape|back}} {{!}} The Cape back
+<!--{{Icon Name||Cape|exterior}} {{!}} The Cape exterior-->
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Music Sheet==
+The Peeking Postman offers the {{Music Sheet|18}} [[Music Sheet]] #18, costing {{Cost|15 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's second node ({{Cost|12 SC|season=Dreams}} total). It is a song in the key of C Major.<br>
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guide
+|content=
+{{#ev:youtube|Sx3k1SzruN0||inline|Music Sheet Video Guide by Ikejiji}}
+}}
+
+==Traveling Spirit==
+[[File:Peeking-postman-Traveling-Spirit.png|200px|thumb|right]]
+{{Friendship Tree Info|traveling|ts_dates=*June 23, 2022 (#64)}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Peeking Postman
+|season = Dreams
+|image   = Dreams-Spirit-Peeking-Postman.png
+
+|nodeC6 = Outfit 70 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeR4 = Cape 65 C
+|nodeC3 = wing
+|nodeL2 = Mask 54 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+|nodeR1 = music18 15 C
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+The hints given before the [[Peeking Postman]]'s first appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=First Visit Hints
+|content=<div>
+* Lands in the infirmary for accidental bumps and bruises the most out of their friends
+* Is the reigning Mario Kart champion 
+* Pretends like they don't have a soft spot for cute things
+* Wakes up early on weekends
+* Gets stage fright, but pushes through their anxiety
+* Loves a good cup of coffee... or several!
+* Knows the best aerial updrafts for travel
+* Has a dedicated sense of duty
+* Is always up for a challenge!
+* Has a hard time talking about themselves
+* Dislikes sour foods
+* Has a hard time taking vacation
+* Is great at ping pong
+* [ikô] Likes sharing snacks if they can't think of a conversion starter
+</div>
+}}
+
+==Season Friendship Tree ==
+{{Friendship Tree Info|season|season=Dreams}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Peeking Postman
+|type   = season
+|season = Dreams
+|image   = Dreams-Spirit-Peeking-Postman.png
+
+|nodeC6 = season_heart 3 SC SP
+|nodeL5 = Mask SP
+|nodeC5 = Cape 27 SC
+|nodeL4 = spell5 SP
+|nodeC4 = Outfit 21 SC
+|nodeL3 = emote4 SP
+|nodeC3 = emote3 16 SC
+|nodeL2 = spell5 SP
+|nodeC2 = music18 12 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Trivia==
+*The Peeking Postman's Cape is inspired by TGC's previous game, "Journey".
+* The Peeking Postman is featured in a piece of merch from thatskyshop, in the form of the [[That Sky Shop/Wave 3#Dreams Bearhug Pin|Dreams Bearhug Pin]]. It has a STAR feature which allows you to offer a bearhug to your friend regardless of your friendship level.
+* The Peeking Postman Cape is featured in a piece of merch from thatskyshop, in the form of the [[That Sky Shop/Wave 3#Dreams Postman Cape Pin|Dreams Postman Cape Pin]]. It has a STAR feature which allows you to wear a Dreams Postman Cape with the friends that you're holding hands with for a limited duration.
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Season of dreams peeking postman emote.JPG
+Season of dreams peek emote 1.png
+season of dreams peek emote group 1.png
+season of dreams peek emote twilight stadium.JPG
+Season of dreams peeking postman map.PNG
+</gallery>
+
+==References==
+<references />
+
+[[de:Guckender Postbote]]
+[[pt-br:Carteira Tímida]]
+[[ru:Робкая почтальонка]]
+[[fr:Factrice timide]]

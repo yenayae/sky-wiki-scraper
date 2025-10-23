@@ -1,0 +1,146 @@
+{{Help|beta}}
+{{Distinguish|Confetti Cousin}}
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= none
+|image     = Costumed-Confetti-Cousin-cutout.png
+|cosmetics = {{Spirit Item|Costumed Confetti Cousin|Outfit|infobox}} {{Spirit Item|Costumed Confetti Cousin|Mask|infobox}} {{Spirit Item|Costumed Confetti Cousin|Hair|infobox}} {{Spirit Item|Costumed Confetti Cousin|Hairpiece|infobox}}
+|season    = the Blue Bird
+|realm     = Hidden Forest
+|location  = Blue Bird Theater
+|ts        = None
+}}
+<section begin="Summary" />The Costumed Confetti Cousin is a [[Seasonal Spirit]] from the [[Season of the Blue Bird]]. The Costumed Confetti Cousin is found at the Blue Bird Theater in the Elevated Clearing from [[Hidden Forest]]. The collectibles [[#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Costumed Confetti Cousin|Outfit|inline_text}}, a {{Spirit Item|Costumed Confetti Cousin|Mask|inline_text}}, a {{Spirit Item|Costumed Confetti Cousin|Hair|inline_text}}, and a {{Spirit Item|Costumed Confetti Cousin|Hairpiece|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Costumed-Confetti-Cousin-Promo-art.png|none|thumb|320px|TGC's Promo image]]
+
+==Cosmetics==
+===<span id="Outfit">Outfit</span>===
+The [[Outfit]] offered by this Spirit is a red knee-length dress with high-collared undershirt, white stockings, and red shoes. It features puffed sleeves, a V-shaped waistband, and diamond decorations hanging off the hem. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|69 SC|season=Blue Bird}} total). <!-- Thanks Oz (ozotronic for item description--><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Costumed Confetti Cousin|Outfit|icon}} {{!}} The Outfit icon
+{{Icon Name|Costumed Confetti Cousin|Outfit|real}} {{!}} The Outfit front
+{{Icon Name|Costumed Confetti Cousin|Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Mask">Mask</span>===
+The [[Mask]] offered by this Spirit is a teal, bird-themed masquerade mask. The top, bottom, and eyes are trimmed in silver, and it features a small pointed beak and forehead diamond. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|27 SC|season=Blue Bird}} total).<!-- Thanks Oz (ozotronic for item description--><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Costumed Confetti Cousin|Mask|icon}} {{!}} The Mask icon
+{{Icon Name|Costumed Confetti Cousin|Mask|real}} {{!}} The Mask 
+{{Icon Name|Costumed Confetti Cousin|Mask|side}} {{!}} The Mask side
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Hair">Hair</span>===
+The [[Hair]] offered by this Spirit is a wide-brimmed red hat with a round bob underneath. The hat has a silver rim and band, and diamond with a large feather. It was available to all players for {{Cost|25 SC|season=Blue Bird}} during the Season, from the Friendship Tree's fifth node ({{Cost|94 SC|season=Blue Bird}} total).<!-- Thanks Oz (ozotronic for item description--><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Costumed Confetti Cousin|Hair|icon}} {{!}} The Hair icon
+{{Icon Name|Costumed Confetti Cousin|Hair|real}} {{!}} The Hair 
+{{Icon Name|Costumed Confetti Cousin|Hair|side}} {{!}} The Hair side
+{{Icon Name|Costumed Confetti Cousin|Hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Hair accessory">Hair Accessory</span>===
+The [[Hair Accessory]] offered by this Spirit is a large, off-center red bow. It was available to all players for {{Cost|12 SC|season=Blue Bird}} during the Season, from the Friendship Tree's first node ({{Cost|12 SC|season=Blue Bird}} total).<!-- Thanks Oz (ozotronic for item description--><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Costumed Confetti Cousin|Hairpiece|icon}} {{!}} The Hair Accessory icon
+{{Icon Name|Costumed Confetti Cousin|Hairpiece|real}} {{!}} The Hair Accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+<!--   ONLY APPLICABLE ONCE SPIRIT HAS BECOME A TRAVELING SPIRIT 
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling
+|ts_dates=*June 19, 2019 (#01)
+*June 19, 2020 (#02)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Costumed Confetti Cousin
+|image  = Costumed-Confetti-Cousin-cutout.png
+|season = season
+
+|nodeC6 = Outfit 60 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Mask 30 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+The hints given before the Costumed Confetti Cousin's first appearance were: 
+{{Collapse
+|label=First Visit Hints
+|content=<div>
+*  [ hints can be on the official Sky Discord which are posted a few days before the traveling spirit by staff of thatgamecompany. ]
+</div>
+}}
+
+-->
+<!--   USE VARIABLES TO CONSTRUCT FRIENDSHIP TREE
+Cosmetics: Outfit Cape Hair Hairpiece Headpiece Facepiece Mask Necklace Outfit Shoes Instrument Prop 
+Expressions; emote emote1 emote2 emote3 emote4 
+Cost: SP for Season Pass, SC for Season Candles, C for Candle, H for Heart, free for Free
+Other: spell5 spellx heart season_heart #Quest #1 
+-->
+
+==Season Friendship Tree ==
+{{Friendship Tree Info | season| season=the Blue Bird}} <section begin="Season Friendship Tree" />
+{{Friendship Tree
+|spirit = Costumed Confetti Cousin
+|image  = Costumed-Confetti-Cousin-cutout.png
+|type   = season
+|season = Season of the Blue Bird
+
+|nodeL6 = 
+|nodeC6 = season_heart 3 SC SP
+|nodeR6 =
+
+|nodeL5 = spellx SP
+|nodeC5 = hair 25 SC
+|nodeR5 =
+
+|nodeL4 = outfit SP
+|nodeC4 = spellx 23 SC
+|nodeR4 =
+
+|nodeL3 = Yellow-dye-container-icon.png SP
+|nodeC3 = Red-dye-container-icon.png 19 SC
+|nodeR3 =
+
+|nodeL2 = mask SP
+|nodeC2 = spellx 15 SC
+|nodeR2 =
+
+|nodeL1 = spellx SP
+|nodeC1 = hairpiece 12 SC
+|nodeR1 =
+}}<section end="Season Friendship Tree" />
+
+==Personality==
+On May 7, 2025, TGC officially announced and introduced the Costumed Confetti Cousin with the following personality traits<ref>[https://archive.ph/Wh7tD https://x.com/thatskygame/status/1920273061040808011]</ref>:
+
+*🌟Won’t be in a show unless they get the lead role
+*👀Keeps meticulous tabs on current fads and trends
+*🎨 Signs their art only after it gets at least 5 compliments
+*🫂Has a trusted friend who tells them what others say behind their back
+
+==References==
+<references />
+
+{{DEFAULTSORT:the Blue Bird, Season of}}
+
+[[fr:Cousine des confettis costumée]]
+[[pt-br:Prima do Confete Fantasiada]]
+[[ja:衣装をまとう紙ふぶき好きのいとこ]]

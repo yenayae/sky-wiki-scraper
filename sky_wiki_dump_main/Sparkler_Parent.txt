@@ -1,0 +1,236 @@
+{{Distinguish|Nostalgic Sparkler Parent}}
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Belonging-Spirit-Sparkler-Parent.png|Standard
+Belonging-Spirit-Sparkler-Parent-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Mask|infobox}}{{Spirit Item||Hair|infobox}}
+|props     = {{Spirit Item||Prop|infobox}}
+|season    = Belonging
+|realm     = Valley of Triumph
+|location  = Valley Temple
+|ts        = June 22, 2023 (#90)<br>December 23, 2021 (#51)<br>April 1, 2021 (#32)<br>May 14, 2020 (#9)
+}}
+<section begin="Summary" />The '''Sparkler Parent''' is a [[Seasonal Spirit]] from the [[Season of Belonging]] who offers the {{Emote|Sparkler Parent|inline_text}} Expression. The Sparkler Parent is found at the entrance of the maze in the [[Valley Temple]]. The collectibles [[#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Sparkler Parent|Mask|inline_text}}, a {{Spirit Item|Sparkler Parent|Hair|inline_text}}, and a {{Spirit Item|Sparkler Parent|Prop|label=Pinwheel Prop|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Sparkler-Parent-promo-image.jpg|none|thumb|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|rUjIYqEcG7M||inline|Video Guide by Tara}}
+
+The Sparkler Parent is found in the [[Valley of Triumph#Temple Maze|Maze]] in the Valley Temple, on the player's left as soon as they enter the Temple, blocked by a Spirit Gate that requires the player to have relived at least one Regular Spirit from [[Golden Wasteland]]. This Spirit has a [[Carry Spirit Memory|carry spirit memory]] with 10 memory fragments and a 20-minute overall [[Timed Memory|time limit]]. 
+
+If the player has not relived at least one Regular Spirit from Golden Wasteland yet, they can also enter through the Maze's exit, which is not blocked by any barrier. The Maze's exit is also located at the player's left when entering the Temple, but higher up on the third section from left to right.
+
+To relive the Sparkler Parent's memory, players will journey through the dark Maze. To help see more clearly through the darkness, players can bring out their candle from the Menu, or activate a [[Blessings (Spells)#Glow Spell|Glow Spell]]. At several points throughout the memory, it is required to drop down a level, which can best be done by carefully dropping or flying down a wall or edge while pulling the light with them. Crabs can also be found in some areas, which can be stunned by letting out a [[Deep Call]].
+
+As their memory unfolds, the Sparkler Parent can be seen making their way through the maze while holding a lantern to light the way. Having reached their destination in a small room with several boxes, pots, and decorative candles, they pick up a box with small fireworks, candles, and sparklers in it. Outside of the maze, they showcase some sparklers to the Boogie Kid and Confetti Cousin, who each have their hands brought together and lean forward in awe.
+
+At the end of the memory, the Sparkler Parent lights sparklers and waves them through the air, before the Boogie Kid and Confetti Cousin repeat the same. The player then grabs a bell from underneath their cape and rings it, causing the Sparkler Parent to stop. They bring their hand to their chin and think for a short while, before they raise up their arm in epiphany, with a glowing exclamation mark blinking above their head.<br>
+<br>
+[[File:03 VT Seasonal Spirit - Sparkler Parent.jpg|200px|thumb|none|Relive the Sparkler Parent's memory]]
+</div>
+{{Clear}}
+
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Sparkler-Parent-sparkler-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Sparkler-Parent-sparkler-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Sparkler-Parent-sparkler-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Sparkler-Parent-sparkler-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar position themselves sideways, before pulling out a sparkler from their hands and waving it through the air like the infinity symbol with their outstretched left arm, with their focus locking on their hand's motion, while a sound similar to igniting a match and a sparkler burning down and twinkling sound effects play. This action is continued for as long as you don't move your avatar.
+*Level 2 makes the same motion as Level 1, with a glowing white trail of light following the motion your avatar's left hand.
+*Level 3 will make your avatar pose in certain directions with their sparkler, according to which buttons you press on a 3x3 pop-up menu while sparkler sound effects and varying calm notes, similar to the {{Spirit Item|Tinkering Chimesmith|Instrument|inline_text}}, play. This pop-up menu is similar to the menu used by the player to hit specific notes when playing an [[Instrument]], but smaller.
+*Level 4 makes the same motion as Level 3, with a glowing white trail of light following the motion of your avatar's left hand.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+== Cosmetics ==
+=== Mask ===
+The [[Mask]] offered by this Spirit is round and plain beige, similar to the [[Masks#Base Mask|Base Mask]], with yellow ornaments decorating the forehead, costing {{Cost|36 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|10 SC|season=Belonging}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Hair ===
+The [[Hair]] offered by this Spirit is medium-lengthed, with a rounded look at the bottom, side bangs to the left, and a pair of red hair clips pinning back hair above the ear on the right side, costing {{Cost|34 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fourth node ({{Cost|36 SC|season=Belonging}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Prop ===
+The [[Prop]] offered by this Spirit is a pinwheel with a white stick and four sections colored white, blue, yellow, and red respectively, costing {{Cost|33 C}} from the Traveling Spirit. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on a player's back, the Prop appears in its original form, but without the stick.
+
+This item was not available during the Season of Belonging. Instead, it was added to the Sparkler Parent's Friendship Tree, during their third visit as Traveling Spirit on December 23rd, 2021.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Prop|icon}} {{!}} The Prop icon
+{{Icon Name||Prop|real}} {{!}} The Prop
+{{Icon Name||Prop|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Traveling Spirit ==
+[[File:Belonging sparkler prices.png|200px|right|thumb]]
+{{Friendship Tree Info | traveling
+|ts_dates=*June 22, 2023 (#90)
+*December 23, 2021 (With a new [[#Prop|Prop]]) (#51) 
+*April 1, 2021 (#32)
+*May 14, 2020 (#9)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Sparkler Parent
+|season = Belonging
+|image  = Belonging-Spirit-Sparkler-Parent.png
+
+|nodeC6 = Prop 33 C NEW
+|nodeL5 = Hair 34 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Mask 36 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+No hints were given from the [[Sparkler Parent]]'s first appearance.
+
+The hints given before the [[Sparkler Parent]]'s second appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Second Visit Hints
+|content=<div>
+* (from previous TS hints) Was lactose intolerant
+* Has adopted some crabs as pets
+* Is usually the one pranked, not the pranker
+* Does like to bake!
+* Is not a very good baker...
+* Likes to dazzle spirits and Skykids alike
+* Is a better cook than baker
+* Has hands
+* Has two (hands)
+* Their lucky number is 15
+* Likes to birdwatch
+* Likes to stay up late
+* Hosts monthly potlucks
+* Gossips with Yeti spirit every week
+* Used to be nervous in crowds, but has overcome their fears
+* Loves being given flowers
+* Loves math
+* Is an artist performer as well
+* Is a bit of a homebody
+* But secretly dreams of adventure
+* Has a sweet tooth for goodness sake!
+* Is very excited to see you all!
+* Has tea at 4PM sharp every day
+* Is trying to learn how to garden!
+* Doesn't like seafood
+* Is also a vegetarian!
+* Is Mittens the Crab
+* [ktjn] Is Toilet krill from the office
+</div>
+}}
+
+The hints given before the [[Sparkler Parent]]'s third appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Third Visit Hints
+|content=<div>
+* Loves baking muffins for the people in their life (or I suppose, afterlife?)
+* Never uses a GPS
+* Invites Juggler spirit over for parties
+* Always makes sure to dress appropriately before heading out
+* Is surprisingly good at volleyball
+* Loves puzzles
+* Would also love mystery and horror movies
+* Is one of the most generous souls you can find
+* Is pretty good at climbing
+* Doesn't know how to use a phonebook
+* Enjoys doing ceramics
+* Thinks small animals are the cutest!
+* Believes in hypnotism
+* Can't live without their morning coffee
+* Can't wait to spend time with all the Skykids
+* Thinks you could use some mittens for the cold weather right now in Sky!
+* Is a Virgo sun, Taurus moon
+</div>
+}}
+
+The hints given before the [[Sparkler Parent]]'s fourth appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Fourth Visit Hints
+|content=<div>
+* Crushes on adventurers
+* Thinks adventurers are Really Cool™
+* Prefers puzzle games over combat games
+* Wants to adopt every cute crab they see
+* Has an eye for artistry
+* Lives humbly outside of the limelight
+* Got tickets to the Aurora Concert
+* Never gets lost, they have a great sense of direction
+* Is branching out into baking scones
+* Is happy to see you all soon
+* [wes] (emojis of a skykid with pleading eyes thinking about a croissant)
+* [ikô] Enjoys competition
+</div>
+}}
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Belonging}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Sparkler Parent
+|type   = season
+|season = Belonging
+|image  = Belonging-Spirit-Sparkler-Parent.png
+
+|nodeC5 = season_heart 3 SC AP
+|nodeL4 = spell5 AP
+|nodeC4 = Hair 14 SC
+|nodeL3 = emote4 AP
+|nodeC3 = emote3 12 SC
+|nodeL2 = Mask AP
+|nodeC2 = spell1 10 SC
+|nodeL1 = emote2 AP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Unique Daily Quests==
+{{#section-h:Quests/Daily Quest Spirits|{{PAGENAME}}}}
+
+== Other Appearances ==
+Sparkler Parent also appeared in the [[Season of the Blue Bird]] as the [[Nostalgic Sparkler Parent]].
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+valley emote outfit.jpg
+Group Emote Sparkler.jpg
+Belonging Valley Map Preview.png
+</gallery>
+
+==References==
+<references/>
+[[de:Wunderkerzen-Mutter]]
+[[fr:Parente étincelante]]
+[[pt-br:Mãe Cintilante]]
+[[ru:Блестящий родитель]]
+[[ja:煌きを放つ親]]

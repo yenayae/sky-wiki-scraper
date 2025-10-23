@@ -1,0 +1,111 @@
+{{Location
+|image      = Valley_VillageTheater1.png
+|realm      = Valley of Triumph
+|access     = [[Village of Dreams]], [[Harmony Hall]]
+|season     = Performance
+|seasonal_spirits  = {{Spirit Group|Performance|format=infobox}}
+|children_of_light = 1 {{Icon|Map-Shrine-flashing-Star-WL-indicator.png|link=Children of Light#{{{title|{{PAGENAME}}}}}}}
+|pieces_of_light   = TBD {{Cost|L}}
+|map        = Valley_of_Triumph_-_Village_Theater_Map_by_sky_solsuga.jpg
+|mapcaption = Village Theater Map by @sky_solsuga
+}}
+<section begin="Quote" />{{Quote|<br>'''A place to play many parts.'''|Village Theater Opening}}<section end="Quote" />
+<section begin="Summary"/>The Village Theater was added during the [[Season of Performance]]. Take a right after entering Village of Dreams and enter a small area surrounded by hills and clouds, featuring a theater where players can have fun recreating a play or simply giving an instrumental performance on stage. Note that this area is also accessible via the [[Harmony Hall]], however completion of [[Season of Performance#Quest 4|Performance Quest #4]] is required to open the route. Through quests given by the [[Performance Guide]] in the audience, players activate many additional features to improve the theater, the experience of the performers, and the audience. Each completed quest also adds to the spirits in the audience, who can react to a performance in progress if prompted by the players. Follow the adventures of four Performance Spirits who share their imagination and passion for the stage.<section end="Summary"/>
+__TOC__
+{{Clear}}
+==Overview==
+The Village Theater features a stage, which allows players to roleplay and produce shows by using various backstage controls unlocked by completing Performance Quests from the Performance Guide. On this stage, all privacy barriers are removed, meaning players in the audience see all players on the stage without lighting them and text by any players on the stage is public to players sitting on the audience benches.
+
+===Child of Light Locations===
+There are a total of 1 [[Children of Light#Village Theater|Children of Light]] in the area.
+{{#lst:Children of Light|VillageTheater Children}}
+
+===Spirits in the Village Theater===
+In the Village Theater, there are 4 [[Seasonal Spirits]] ({{Emote|Frantic Stagehand}}[[Frantic Stagehand]],{{Emote|Forgetful Storyteller}}[[Forgetful Storyteller]],{{Emote|Mellow Musician}}[[Mellow Musician]],{{Emote|Modest Dancer}}[[Modest Dancer]]).
+<section begin="SpiritTabber"/>
+{{Mobile Tabber 
+|tab1 = {{Emote|Frantic Stagehand|tab}}
+|c1   = <div> {{#ev:youtube|Pt1r-tEemZY|400|right}} {{#lst:Frantic Stagehand|Summary}} {{#if: {{#lst:Frantic Stagehand|TS Friendship Tree}} | {{#lst:Frantic Stagehand|TS Friendship Tree}} | {{#lst:Frantic Stagehand|Season Friendship Tree}} }} </div>
+|type1= seasonal
+
+|tab2 = {{Emote|Forgetful Storyteller|tab}}
+|c2   = <div> {{#ev:youtube|lCphLOCgLWA|400|right}} {{#lst:Forgetful Storyteller|Summary}} {{#if: {{#lst:Forgetful Storyteller|TS Friendship Tree}} | {{#lst:Forgetful Storyteller|TS Friendship Tree}} | {{#lst:Forgetful Storyteller|Season Friendship Tree}} }} </div>
+|type2= seasonal
+
+|tab3 = {{Emote|Mellow Musician|tab}}
+|c3   = <div> {{#ev:youtube| rOrdVv7qGM8 |400|right}} {{#lst:Mellow Musician|Summary}} {{#if: {{#lst:Mellow Musician|TS Friendship Tree}} | {{#lst:Mellow Musician|TS Friendship Tree}} | {{#lst:Mellow Musician|Season Friendship Tree}} }} </div>
+|type3= seasonal
+
+|tab4 = {{Emote|Modest Dancer|tab}}
+|c4   = <div> {{#ev:youtube|rHWtoe56b2g|400|right}} {{#lst:Modest Dancer|Summary}} {{#if: {{#lst:Modest Dancer|TS Friendship Tree}} | {{#lst:Modest Dancer|TS Friendship Tree}} | {{#lst:Modest Dancer|Season Friendship Tree}} }} </div>
+|type4= seasonal
+}}
+<section end="SpiritTabber"/>
+
+==The Stage==
+The Village Theater features a stage, which allows players to roleplay and produce shows by using various backstage controls unlocked by completing Performance Quests from the Performance Guide. On this stage, all privacy barriers are removed, meaning players in the audience see all players on the stage without lighting them and text by any players on the stage is public to players sitting on the audience benches.
+
+Behind the Theater are a number of backstage controls that are enabled by completing the first Seasonal Quest after visiting the Season Guide. 
+[[File:Village Theater Backstage Controls.png|alt=Backstage controls and options for the Village Theater|thumb|300x300px|Village Theater Backstage Controls]]
+
+These include (facing from backstage out to the "house"):
+
+* Curtain control: a lever to raise/lower the curtain
+* High left above stage: Backdrop control with 6 stage backdrop/prop sets, one for each realm of Sky, plus a blank backdrop
+* Above front of stage: audience prompter with 5 expressions - The Spirits in the audience will automatically react with these expressions when triggered, and player participants will see an expression icon they can tap to use the expression
+* Right of stage next to stage entrance: Earthquake control to shake stage and tumble rocks
+* Left of stage next to stage entrance: Front Stage effect, with Fire, Waves, and Fog
+* Left next to closet: house lights: this turns on lights backstage and also lights around the front of the theater, helping to call attention to a performance about to start.
+* High Right above stage: Wind machine
+* Platform above Closet Space: Spotlights: 3 on/off levers for Left, Center, and Right spotlights
+* Platform behind/above Spotlights: two levers to raise and lower groups of blocks on stage to make simple scenery
+* High right rear: Effects including rain, snow, falling petals, and red and blue sparks
+
+After completing the second quest, players have access to the '''Narrator's chair''' and the '''Daily prompter'''.  
+
+* The Narrator's chair will position your Sky kid behind the scene and let you whisper the "line" to your actors or give direction to those on the stage. This text is not visible to the audience, only to those on the stage. 
+* The Daily prompter will give you advice or ideas for your play.
+
+There is also a [[Closet Shrine]] backstage that facilitates changing costumes and props for a performance. 
+
+After the completion of the third seasonal quest, two instruments are available for player use in the theater area: an [[Pleaful_Parent#Instrument|acoustic guitar]] and a [[Prophecy_Guide#Prophecy_Drum|drum]].
+
+On the stage, all privacy barriers are removed, meaning you now see all players without lighting them and your conversations are now public. Players sitting on the audience benches can also see you and your conversations as well. It's a great way to introduce yourself to potential new friends but also to facilitate the act you're taking part in.
+[[File:TGC-Theater-Village-Promo-image.jpg|none|thumb|300x300px|TGC's Village Theater Promo image]]
+
+==Activities==
+===Performance Quests===
+<div style="float:right">{{Mobile Tabber|textonly=1
+|tab1 = 1
+|c1   = <div> {{#ev:youtube|DLyxF61dpHg|300|right}} </div>
+|tab2 = 2
+|c2   = <div> {{#ev:youtube|shhelGVbIxc|300|right}} </div>
+|tab3 = 3
+|c3   = <div> {{#ev:youtube|Qa6uJD_4OYI|300|right}} </div>
+|tab4 = 4
+|c4   = <div> {{#ev:youtube|ymZXCGlma5w|300|right}} </div>
+|tab5 = 5
+|c5   = <div> {{#ev:youtube|KjFRo9cccBk|300|right}} </div>
+}}</div>
+In the Village Theater, Seasonal Quests from the [[Season of Performance]], a series of quests following the adventure of the Spirits to perform on stage. Complete each one to support the cast and crew as they hone their parts - and to also discover for yourself how to operate the stage controls. Lights, scenery, sound effects, and more: From backstage or to centerstage create and share new performances of your own with friends.
+{{Clear}}
+
+===Additional Light Source===
+{{#lst:Additional Light Sources|Theater Summary}}
+
+Once the [[Season_of_Performance#Act_V:_Finale_Act|final quest]] of the ''Season of Performance'' has been completed, fiver flower bouquets appear on either side of the stage every day. Picking up the bouquets grants 3 [[Pieces of Light]] per bouquet, meaning 30 pieces of light per day total are possible.
+<!--
+==Gallery==
+
+==Trivia==
+-->
+
+{{RealmsNav}}
+
+[[fr:Théâtre du Village]]
+[[de:Dorftheater]]
+[[pt-br:Teatro da Aldeia]]
+[[ru:Деревенский театр]]
+[[ja:夢見の劇場]]
+
+[[Category:Valley of Triumph]]

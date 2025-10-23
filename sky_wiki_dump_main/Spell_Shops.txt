@@ -1,0 +1,99 @@
+[[File:All About Spell Shops New.png|thumb|336x336px|Infographic by clement8978 on Discord]]'''Spell Shops''' are locations where players can obtain [[Blessings (Spells)]]. Each Shop offers certain Spells, which are available either daily or every weekend, from Friday through Sunday. Spell Shops refresh with the daily reset each day.
+==Forgotten Ark Shops==
+After restoring the [[Golden Wasteland#Forgotten Ark|Forgotten Ark]] by completing all of the [[Season of Enchantment|Enchantment Light Quests]], players unlock permanent Shops, where bundles of specific Spells, Potions, and Scrolls may be bought for a variety of Currencies. These Spell Shops made many existing Spells available permanently and introduced entirely new Spells like the Grow Spell, the Tiny Spell, and the Huge Spell.
+
+Each Spell is sold in one of three small Shops and can be bought at most once per day. Some Spells are available to buy every day, while others are only available for three days a week, from Friday through Sunday.<br>
+<br>
+[[File:Forgotten Ark.jpg|alt=The Forgotten Ark in Golden Wasteland|none|thumb|400px|Restored Forgotten Ark in Golden Wasteland]]
+
+===Scroll Shop===
+This Shop allows players to purchase one-time use Spells for objects – items that can be placed down and interacted with. The Spells in this shop can be bought using {{Cost|C}} [[Currency#Candles|Regular Candles]], {{Cost|AC}} [[Currency#Ascended Candles|Ascended Candles]], or {{Cost|H}} [[Currency#Hearts|Hearts]].<br>
+<br>
+[[File:Forgotten Ark Scroll Shop.jpg|alt=Scroll Shop in the Forgotten Ark|left|thumb|300px|Scroll Shop in the Forgotten Ark]]
+{{Clear}}
+{| class="fandom-table"
+!'''Every Day'''
+!'''Friday through Sunday'''
+|-
+|
+*2x [[Spells#Fireworks Spell|Fireworks Spells]] for {{Cost|5 C}}
+*2x [[Spells#Chat Table Spell|Chat Table Spells]] for {{Cost|12 C}}
+*3x [[Spells#Message Boat Spell|Message Boat Spells]] for {{Cost|6 C}}
+*3x [[Spells#Message Crane Spell|Message Crane Spells]] for {{Cost|8 C}}
+*5x [[Spells#Pinwheel Spell|Pinwheel Spells]] for {{Cost|2 C}}
+*1x [[Spells#Shared Memory Spell|Shared Memory Spell]] for {{Cost|5 C}}
+*1x [[Spells#Shared Space Spell|Shared Space Spell]] for {{Cost|5 C}}
+|
+*2x [[Spells#Swing Spell|Swing Spells]] for {{Cost|8 H}}
+*2x [[Spells#Seesaw Spell|Seesaw Spells]] for {{Cost|8 H}}
+*2x [[Spells#Gondola Spell|Gondola Spells]] for {{Cost|8 H}}
+*2x [[Spells#Bonfire Spell|Bonfire Spells]] for {{Cost|10 AC}}
+*3x [[Spells#Rainbow Spell|Rainbow Spells]] for {{Cost|9 AC}}
+*1x [[Spells#Shared Memory Spell|Shared Memory Spell]] for {{Cost|4 C}}
+*1x [[Spells#Shared Space Spell|Shared Space Spell]] for {{Cost|4 C}}
+|}
+===Spell Shop===
+In this Shop players may purchase a few limited-duration Spells. All of these Spells are bought in bundles for either White or Ascended Candles.
+
+Many of the free Spells added for new Event items appear in this shop.<br>
+<br>
+[[File:Forgotten Ark Spell Shop.jpg|alt=Spell Shop in the Forgotten Ark|left|thumb|300px|Spell Shop in the Forgotten Ark]]
+{{Clear}}
+{| class="fandom-table"
+!'''Every Day'''
+!'''Friday through Sunday'''
+!During event
+|-
+|
+*2x [[Spells#Glow Spell|Glow Spells]] for {{Cost|5 C}}
+*2x [[Spells#Fast Recharge Spell|Fast Recharge Spells]] for {{Cost|5 C}}
+*2x [[Spells#Anti-Gravity Spell|Anti-Gravity Spells]] for {{Cost|5 C}}
+|
+*2x [[Spells#Lantern Spell|Lantern Spells]] for {{Cost|10 AC}}
+|Random [[Blessings (Spells)|spell]] for {{Cost|2 T}}<!-- Limit of (blank) -->
+|}
+===Potion Shop===
+The last of the three Shops in Forgotten Ark is the Potion Shop. Most of the Spells in this Shop alter the player's height or size. <br>
+<br>
+[[File:Forgotten Ark Potion Shop.jpg|alt=Potion Shop in the Forgotten Ark|left|thumb|300px|Potion Shop in the Forgotten Ark]]
+{{Clear}}
+{| class="fandom-table"
+!'''Every Day'''
+!'''Friday through Sunday'''
+|-
+|
+*3x [[Spells#Resize Potion|Resize Potions]] for {{Cost|10 AC}}
+*2x [[Spells#Instant Recharge Potion|Instant Recharge Potions]] for {{Cost|5 C}}
+|
+*1x [[Spells#Instant Recharge Potion|Instant Recharge Potion]] for {{Cost|1 AC}}
+*2x [[Spells#Shrink Spell|Shrink Spells]] for {{Cost|5 C}}
+*2x [[Spells#Grow Spell|Grow Spells]] for {{Cost|5 C}}
+*2x [[Spells#Tiny Spell|Tiny Spells]] for {{Cost|10 C}}
+*2x [[Spells#Huge Spell|Huge Spells]] for {{Cost|10 C}}
+|}
+==Sleepy Traveler's Boat==
+The Sleepy Traveler's Boat is a temporary Spell Shop that appears during [[Special Events]] or [[That Sky Shop]] merchandise pre-orders. During its visit, players are able to acquire the same spells, scrolls, and potions that are available at the Ark.<br>
+<br>
+[[File:Wish Sleepy Traveller Boat.jpg|none|thumb|300px|The Sleepy Traveler's boat at Home]]
+
+==Harmony Hall Shop==
+[[Spells#Shared Memory Spell|Shared Memory Spells]] can be bought every day from the scrolls on the ground-floor desk facing the entrance of [[Harmony Hall]]. These Spells are available for the same price and on the same schedule as the Shared Memory Spells in the Forgotten Ark and the Sleepy Traveler's Boat.<br>
+<br>
+[[File:Harmony Hall Shop.png|alt=Shop's location on the desk facing the entrance of Harmony Hall|none|thumb|300px|Shop's location in Harmony Hall]]
+
+== Village Skyball Shop ==
+A new small shop was added to the [[Valley of Triumph#Village of Dreams|Village of Dreams]] in {{v|0.19.5}}. Located in a stack of boxes at the base of the stairs leading to Harmony Hall and near the yellow goal of the permanent Skyball Set, this shop sells only [[Spells#Skyball Set Spell|Skyball Set Spells]].<br>
+<br>
+[[File:Village Skyball Shop.jpg|alt=Spell Shop's location near the yellow goal of the Village's permanent Skyball Set|none|thumb|300px|Shop's location in the Village of Dreams]]
+
+==Event Spell Shops==
+While Spells for new items introduced during [[Special Events]] can typically be found in the Forgotten Ark or Sleepy Traveler's Boat, Spells for returning items are often found in small Spell Shops near Event Guides or in areas like the [[The Cackling Crab|Cackling Crab]] or the [[Secret Area]]. Although some Event-related spells in these shops cost Currency and can be bought daily, most of the free Spells available during Events can be obtained at most once per week and refresh on Mondays.
+
+Event Spell Shops have taken a number of forms, from a large gift box to a wandering crab.<br>
+<br>
+{{WIP 
+|comment= We would like to add descriptions and pictures of the different Event Spell Shops.
+}}
+
+[[fr:Boutiques de Sorts]]
+[[pt-br:Lojas de Feitiço]]

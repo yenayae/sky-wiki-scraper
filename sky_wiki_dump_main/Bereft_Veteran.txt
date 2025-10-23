@@ -1,0 +1,144 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Remembrance-Spirit-Bereft-Veteran.png|Standard
+Remembrance-Spirit-Bereft-Veteran-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Mask|infobox}}{{Spirit Item||Hair|infobox}}{{Spirit Item||Cape|infobox}}
+|props	   = 
+|music     = 
+|season    = Remembrance
+|realm     = Vault of Knowledge
+|location  = Repository of Refuge
+|ts        = May 22, 2025 (#140)
+}}
+<section begin="Summary" />The '''Bereft Veteran''' is a [[Seasonal Spirit]] from the [[Season of Remembrance]] who offers the {{Emote|Bereft Veteran|inline_text}} Expression. The Bereft Veteran is found in the [[Repository of Refuge]] in an opening in the wall, on the player's left when entering the area. The collectibles [[#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Bereft Veteran|Mask|inline_text}}, a {{Spirit Item|Bereft Veteran|Hair|inline_text}}, and a {{Spirit Item|Bereft Veteran|Cape|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:SoRemembrance-Bereft-Veteran-TGC-promo-image.png|thumb|320px|none|TGC's Promo image]]
+
+==Memory==
+<div>{{#ev:youtube|zVVzjA1x4S0||inline|Video Guide}}
+
+The Bereft Veteran can be found in the [[Repository of Refuge]] in an opening in the wall, on the player's left when entering the area. This Spirit has a [[Standard Memory|standard memory]] with 8 memory fragments and a 15-minute overall [[Timed Memory|time limit]].
+
+As their memory unfolds, the Bereft Veteran can be seen as their younger self, standing on a ladder and hanging Chimes on the front porch of their home while their little child watches from below. As the memories progress, the child progresses from being a young kid to an adult and the Bereft Veteran gets older. The child soon leaves home on their own to become a soldier, holding a spear in their hand as they wave goodbye. On a snowy day, the Bereft Veteran sits on a chair inside their home when a soldier comes knocking at their door. They show the Veteran a notice and it is apparent that they've lost their child to the war. Filled with grief, the Bereft Veteran is left standing, crumpled over, next to the Chimes that the two installed together many years ago.
+
+At the end of the memory, the Bereft Veteran looks at the Chimes in front of them, remembering their forever-lost child and mourning them with one hand on their heart and the other touching their forehead.
+</div>
+
+==<span id="Expression">Expression</span>==
+This Spirit offers the {{Emote|Bereft Veteran|inline_text}} [[Expression]], which has 4 Levels. 
+
+[[File:{{Icon Name|Bereft Veteran|emote}}|x170px]]
+<gallery heights="125">
+Bereft-Veteran-grieving-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Bereft-Veteran-grieving-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Bereft-Veteran-grieving-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Bereft-Veteran-grieving-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar turn to the side while lowering their head and touching their forehead with their right hand and their heart with the other hand, before shaking their head a few times, while a few high-pitched xylophone notes play.
+*Level 2 makes the same motion as Level 1, with rippling circles of light glowing around the right hand.
+*Level 3 will make your avatar raise their hands to their head in despair and step from side to side a few times before dropping their upper body so they stand in a semi-crouched position, while high-pitched descending xylophone notes play.
+*Level 4 makes the same motion as Level 3, with a large black cloud appearing above your avatar's head when they lower their body during the second half of the Expression.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+==Cosmetics==
+===<span id="Mask">Mask</span>===
+The [[Mask]] offered by this Spirit is similar to the [[Masks#Base Mask|Base Mask]] but colored dark grey, with a big, bushy mustache, costing {{Cost|35 C}} from the Traveling Spirit. It was offered to all players during the Season from the Friendship Tree's second node ({{Cost|6 SC|season=Remembrance}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Hair">Hair</span>===
+The [[Hair]] offered by this Spirit is a messy short-medium hairstyle that covers the left half of the face, costing {{Cost|60 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's third node ({{Cost|24 SC|season=Remembrance}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Cape">Cape</span>===
+The [[Cape]] offered by this Spirit is a long olive-green coat with a darker shoulder scarf, small white buttons, and beige horizontal lines near the Cape's tattered trim, costing {{Cost|80 C}} from the Traveling Spirit. It was offered to all players during the Season from the Friendship Tree's fifth node ({{Cost|88 SC|season=Remembrance}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||Cape|interior}} {{!}} The Cape interior
+{{Icon Name||Cape|back}} {{!}} The Cape back
+{{Icon Name||Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling
+|ts_dates=* May 22, 2025 (#140)
+}}
+<section begin='TS Friendship Tree' />{{Friendship Tree
+|spirit = Bereft Veteran
+|image  = Remembrance-Spirit-Bereft-Veteran.png
+|season = Remembrance
+
+|nodeC6 = cape 80 C
+
+|nodeL5 = hair 60 C
+|nodeC5 = spellx 5 C
+
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+
+|nodeC3 = wing
+
+|nodeL2 = mask 35 C
+|nodeC2 = spellx 5 C
+|nodeR2 = Heart 3 C
+
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end='TS Friendship Tree' />
+
+<!---=== Hints ===
+The hints given before the {{PAGENAME}}'s appearance were: -->
+
+==Season Friendship Tree==
+{{Friendship Tree Info | season| season=Remembrance}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Bereft Veteran
+|image  = SoRemembrance-Bereft-Veteran.png
+|type   = season
+|season = Remembrance
+
+|nodeC6 = season_heart 3 SC SP
+|nodeL5 = spellx SP
+|nodeC5 = cape 34 SC
+|nodeL4 = emote4 SP
+|nodeC4 = emote3 30 SC
+|nodeL3 = hair SP
+|nodeC3 = spellx 18 SC
+|nodeL2 = spellx SP
+|nodeC2 = mask 6 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Personality==
+On January 10th, 2023, TGC officially announced and introduced the Bereft Veteran with the following personality traits:
+
+*Spends entire afternoons rethinking old conversations with their son
+*Wants to just sit quietly, listening to the wind blow around them
+*Surprisingly handy at fixing things
+*Brainstorms dozens of riddles to keep their mind busy
+
+==References==
+<references />
+
+[[fr:Vétéran endeuillé]]
+[[pt-br:Veterano Despojado]]
+[[ru:Обездоленный ветеран]]
+[[ja:喪失の初老]]

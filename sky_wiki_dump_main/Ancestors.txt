@@ -1,0 +1,345 @@
+{{Spoilers}}
+[[File:Spirit-Tips-1-Find-all-the-spirits.jpg|thumb|300px]]
+'''Ancestors''' are game characters who provide the player with [[Expressions]], [[Cosmetics]], and other [[Collectibles]]. Most Ancestors are semi-translucent people who are much larger than Sky Kids (because they represent adults)<ref>Some spirits are smaller than most and can appear throughout Sky as [[#Regular Spirits|Regular Spirits]], [[#Current Season Spirits|Current Season Spirits]], Seasonal Guides as well as unnamed spirits in spirit memories. Some smaller spirits include but are not limited to [[Hide'n'Seek Pioneer]], [[Nightbird Whisperer]], [[Hopeful Steward]] and the small companion in [[Confident Sightseer]]'s memories.</ref>. There are several different types of Ancestors. This article summarizes and defines these different types; full details are provided on separate articles.
+
+Ancestors should not be confused, however, with [[Children of Light]] -- who are child-size characters (same size as Sky Kids) and are a bright white or golden color.
+
+== Spirits ==
+[[File:Spirit-tips-2-Bring-them-light.jpg|thumb|300px]]
+'''Spirits''' (sometimes called '''Ancestor Spirits''' or '''Ancient Spirits''') are the most common type of Ancestor. They are found scattered throughout the game's Realms, as kneeling or sitting characters. A flame icon appears over a Spirit, allowing you to relive the [[Spirit Memories]] and learn that Spirit's [[Expression]]. Expression upgrades, [[Cosmetics]], and other [[Collectibles]] can be purchased from a Spirit's [[Friendship Tree (Regular)|Friendship Tree]].
+
+New Spirits (ones whose memory you have not relived) glow blue and are highlighted by a colored lens flare resembling a parhelion/sundog.
+* '''Blue''' is used for [[#Regular Spirits|Regular Spirits]]
+* '''Orange''' is used for [[#Current Season Spirits|Current Season Spirits]]. An orange flare also highlights any current [[Traveling Spirit]] or Spirit who is featured in the [[Daily Quests]], however the Spirit's body glows pale white or yellow instead of blue or gold if you have previously collected the Spirit's memory.
+* '''Purple''' is used for all other past-Season [[#Seasonal Spirits|Seasonal Spirits]].
+
+Once you have saved a regular Spirit, you can also find them standing by their gravestone in their Realm's social space.
+
+Spirits can occasionally appear in places other than their Spirit memory or gravestone. Spirits can participate in [[Special Events]] -- where they might act as [[#Guides|Guides]] from whom event items can be purchased; or, they might simply congregate to enjoy the festivities. One Spirit will show up at a Realm's [[Days of Bloom#Saplings|Sapling]] for the Admire the Sapling Daily Quest. Spirits also watch performances at the [[Village Theater]]. Some Spirits have found a home in [[Aviary Village]].
+
+===Gender===
+The Spirits are referred to with gender neutral pronouns in the original English version of the game. In other languages which the game has been localized to, all Spirits are given a grammatical gender if the language necessitates it. ''This is not indicative of a Spirit's canonical gender, and only serves to follow a language's grammar rules properly.''<ref>TGC Staff, [https://discord.com/channels/575762611111592007/632004389137154048/1084920188291526759 Sagomay on Discord], said the following:
+<pre>Hey all! I was scrolling past earlier and wanted to clarify something that looks like it’s been somewhat misunderstood at times.
+
+In our storytelling, we purposely do not announce what gender spirits and elders do or don’t have. We don't state their place on the gender spectrum, nor does the game say that they are canonically one thing or another or all of the above or none of the above. That is 100% up for each player to interpret however they like for whatever reason they like, and there is room for all interpretations on that matter. ❤️ 
+
+I’ve seen that comment from Ktjn [TGC Staff], posted two and a half years ago, shared out of context, often framed explicitly or implicitly as a canonical statement. However, our non-definition of this aspect of spirits’ identities is the same now as it has been since the game launched.</pre>
+This expands upon this [https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/faq/512-how-do-i-change-the-gender-of-my-character/ official TGC Helpshift page regarding gender of spirits].</ref>
+
+Certain characters, however, are referred to with gendered pronouns through in-game dialogue. Only the following characters have been referred to with gendered pronouns:
+*[[The Rose]] from the [[Season of The Little Prince]] is referred to as "she" in seasonal quests.<ref>During the Fourth quest in the [[Season of The Little Prince]], the Little Prince says "I listened to my rose when she grumbled, or boasted... or even sometimes when she said nothing."</ref>
+*The Little Prince from the same season is referred to as "he" in seasonal quests.<ref>During the First quest in the [[Season of The Little Prince]], the story reads "Once upon a time there was a little prince who lived on a planet hardly bigger than he was, and who needed a friend..."</ref>
+* [[AURORA Guide|AURORA]] from the [[Season of AURORA]] is referred to as "she" in the [[AURORA Concert]]'s prompt in [[Home]].<ref>The prompt reads, "AURORA's light grows brighter. It's time for her Musical Voyage. Would you like to travel there?"</ref>
+*The [[Herb Gatherer]] from the [[Season of the Nine-Colored Deer]] is referred to as "he" in a seasonal quest.<ref>During the Third quest in the [[Season of the Nine-Colored Deer]], the story reads "but the villager knew that he could be rewarded."</ref>
+
+===Regular Spirits===
+The first Spirits encountered by new players are [[Regular Spirits]]. Regular Spirits are tied to specific Realms, and allow the Realm's [[Constellations|Constellation]] be completed. They are the primary source of Expression upgrades (purchased using {{Candle}} Candles) and cosmetics (purchased using {{Heart}} Hearts).
+{{Collapse
+|state=open
+|label=Regular Spirits Gallery
+|content=
+<gallery widths="150px" captionalign="center">
+Isle-Spirit-Pointing-Candlemaker.png|{{Icon|Constellation-isle-icon-Ray.png|inline_text|label=Isle of Dawn|link=}}<br>[[Pointing Candlemaker]]
+Isle-Spirit-Ushering-Stargazer.png|{{Icon|Constellation-isle-icon-Ray.png|inline_text|label=Isle of Dawn|link=}}<br>[[Ushering Stargazer]]
+Isle-Spirit-Rejecting-Voyager.png|{{Icon|Constellation-isle-icon-Ray.png|inline_text|label=Isle of Dawn|link=}}<br>[[Rejecting Voyager]]
+
+Prairie-Spirit-Butterfly-Charmer.png|{{Icon|Constellation-prairie-icon-Ray.png|inline_text|label=Daylight Prairie|link=}}<br>[[Butterfly Charmer]]
+Prairie-Spirit-Applauding-Bellmaker.png|{{Icon|Constellation-prairie-icon-Ray.png|inline_text|label=Daylight Prairie|link=}}<br>[[Applauding Bellmaker]]
+Prairie-Spirit-Waving-Bellmaker.png|{{Icon|Constellation-prairie-icon-Ray.png|inline_text|label=Daylight Prairie|link=}}<br>[[Waving Bellmaker]]
+Prairie-Spirit-Slumbering-Shipwright.png|{{Icon|Constellation-prairie-icon-Ray.png|inline_text|label=Daylight Prairie|link=}}<br>[[Slumbering Shipwright]]
+Prairie-Spirit-Laughing-Light-Catcher.png|{{Icon|Constellation-prairie-icon-Ray.png|inline_text|label=Daylight Prairie|link=}}<br>[[Laughing Light Catcher]]
+Prairie-Spirit-Bird-Whisperer.png|{{Icon|Constellation-prairie-icon-Ray.png|inline_text|label=Daylight Prairie|link=}}<br>[[Bird Whisperer]]
+Prairie-Spirit-Exhausted-Dock-Worker.png|{{Icon|Constellation-prairie-icon-Ray.png|inline_text|label=Daylight Prairie|link=}}<br>[[Exhausted Dock Worker]]
+Prairie-Spirit-Ceremonial-Worshiper.png|{{Icon|Constellation-prairie-icon-Ray.png|inline_text|label=Daylight Prairie|link=}}<br>[[Ceremonial Worshiper]]
+
+Forest-Spirit-Shivering-Trailblazer.png|{{Icon|Constellation-forest-icon-Ray.png|inline_text|label=Hidden Forest|link=}}<br>[[Shivering Trailblazer]]
+Forest-Spirit-Blushing-Prospector.png|{{Icon|Constellation-forest-icon-Ray.png|inline_text|label=Hidden Forest|link=}}<br>[[Blushing Prospector]]
+Forest-Spirit-Hide-n-Seek-Pioneer.png|{{Icon|Constellation-forest-icon-Ray.png|inline_text|label=Hidden Forest|link=}}<br>[[Hide'n'Seek Pioneer]]
+Forest-Spirit-Pouty-Porter.png|{{Icon|Constellation-forest-icon-Ray.png|inline_text|label=Hidden Forest|link=}}<br>[[Pouty Porter]]
+Forest-Spirit-Dismayed-Hunter.png|{{Icon|Constellation-forest-icon-Ray.png|inline_text|label=Hidden Forest|link=}}<br>[[Dismayed Hunter]]
+Forest-Spirit-Apologetic-Lumberjack.png|{{Icon|Constellation-forest-icon-Ray.png|inline_text|label=Hidden Forest|link=}}<br>[[Apologetic Lumberjack]]
+Forest-Spirit-Tearful-Light-Miner.png|{{Icon|Constellation-forest-icon-Ray.png|inline_text|label=Hidden Forest|link=}}<br>[[Tearful Light Miner]]
+Forest-Spirit-Whale-Whisperer.png|{{Icon|Constellation-forest-icon-Ray.png|inline_text|label=Hidden Forest|link=}}<br>[[Whale Whisperer]]
+
+Valley-Spirit-Confident-Sightseer.png|{{Icon|Constellation-valley-icon-Ray.png|inline_text|label=Valley of Triumph|link=}}<br>[[Confident Sightseer]]
+Valley-Spirit-Handstanding-Thrillseeker.png|{{Icon|Constellation-valley-icon-Ray.png|inline_text|label=Valley of Triumph|link=}}<br>[[Handstanding Thrillseeker]]
+Valley-Spirit-Manta-Whisperer.png|{{Icon|Constellation-valley-icon-Ray.png|inline_text|label=Valley of Triumph|link=}}<br>[[Manta Whisperer]]
+Valley-Spirit-Backflipping-Champion.png|{{Icon|Constellation-valley-icon-Ray.png|inline_text|label=Valley of Triumph|link=}}<br>[[Backflipping Champion]]
+Valley-Spirit-Cheerful-Spectator.png|{{Icon|Constellation-valley-icon-Ray.png|inline_text|label=Valley of Triumph|link=}}<br>[[Cheerful Spectator]]
+Valley-Spirit-Bowing-Medalist.png|{{Icon|Constellation-valley-icon-Ray.png|inline_text|label=Valley of Triumph|link=}}<br>[[Bowing Medalist]]
+Valley-Spirit-Proud-Victor.png|{{Icon|Constellation-valley-icon-Ray.png|inline_text|label=Valley of Triumph|link=}}<br>[[Proud Victor]]
+
+Wasteland-Spirit-Frightened-Refugee.png|{{Icon|Constellation-wasteland-icon-Ray.png|inline_text|label=Golden Wasteland|link=}}<br>[[Frightened Refugee]]
+Wasteland-Spirit-Fainting-Warrior.png|{{Icon|Constellation-wasteland-icon-Ray.png|inline_text|label=Golden Wasteland|link=}}<br>[[Fainting Warrior]]
+Wasteland-Spirit-Courageous-Soldier.png|{{Icon|Constellation-wasteland-icon-Ray.png|inline_text|label=Golden Wasteland|link=}}<br>[[Courageous Soldier]]
+Wasteland-Spirit-Stealthy-Survivor.png|{{Icon|Constellation-wasteland-icon-Ray.png|inline_text|label=Golden Wasteland|link=}}<br>[[Stealthy Survivor]]
+Wasteland-Spirit-Saluting-Captain.png|{{Icon|Constellation-wasteland-icon-Ray.png|inline_text|label=Golden Wasteland|link=}}<br>[[Saluting Captain]]
+Wasteland-Spirit-Lookout-Scout.png|{{Icon|Constellation-wasteland-icon-Ray.png|inline_text|label=Golden Wasteland|link=}}<br>[[Lookout Scout]]
+
+Vault-Spirit-Levitating-Adept.png|{{Icon|Constellation-vault-icon-Ray.png|inline_text|label=Vault of Knowledge|link=}}<br>[[Levitating Adept]]
+Vault-Spirit-Meditating-Monastic.png|{{Icon|Constellation-vault-icon-Ray.png|inline_text|label=Vault of Knowledge|link=}}<br>[[Meditating Monastic]]
+Vault-Spirit-Memory-Whisperer.png|{{Icon|Constellation-vault-icon-Ray.png|inline_text|label=Vault of Knowledge|link=}}<br>[[Memory Whisperer]]
+Vault-Spirit-Polite-Scholar.png|{{Icon|Constellation-vault-icon-Ray.png|inline_text|label=Vault of Knowledge|link=}}<br>[[Polite Scholar]]
+Vault-Spirit-Praying-Acolyte.png|{{Icon|Constellation-vault-icon-Ray.png|inline_text|label=Vault of Knowledge|link=}}<br>[[Praying Acolyte]]
+</gallery>
+}}
+
+===Seasonal Spirits===
+[[Seasonal Spirits]] is a general term for all Spirits introduced by [[Seasonal Events]].
+
+All past-Season Spirits still appear in the game, but access to Seasonal Spirits is more restricted than Regular Spirits. Typically, new players must complete the game once (travel to the end of each Realm) before being able to relive the memories of past-Season Spirits. Even then, only the Spirit's base Expression is available -- other items cannot be purchased until the Spirit returns as a [[#Traveling Spirit|Traveling Spirit]].
+{{Collapse
+|state=open
+|label=Seasonal Spirits Gallery
+|content=
+<gallery widths="150px" captionalign="center">
+Gratitude-Spirit-Sassy-Drifter.png|{{Season Icon|Gratitude|inline_text|label=Gratitude|link=}}<br>[[Sassy Drifter]]
+Gratitude-Spirit-Stretching-Guru.png|{{Season Icon|Gratitude|inline_text|label=Gratitude|link=}}<br>[[Stretching Guru]]
+Gratitude-Spirit-Provoking-Performer.png|{{Season Icon|Gratitude|inline_text|label=Gratitude|link=}}<br>[[Provoking Performer]]
+Gratitude-Spirit-Leaping-Dancer.png|{{Season Icon|Gratitude|inline_text|label=Gratitude|link=}}<br>[[Leaping Dancer]]
+Gratitude-Spirit-Saluting-Protector.png|{{Season Icon|Gratitude|inline_text|label=Gratitude|link=}}<br>[[Saluting Protector]]
+Gratitude-Spirit-Greeting-Shaman.png|{{Season Icon|Gratitude|inline_text|label=Gratitude|link=}}<br>[[Greeting Shaman]]
+
+Lightseeker-Spirit-Piggyback-Lightseeker.png|{{Season Icon|Lightseekers|inline_text|label=Lightseekers|link=}}<br>[[Piggyback Lightseeker]]
+Lightseekers-Spirit-Doublefive-Light-Catcher.png|{{Season Icon|Lightseekers|inline_text|label=Lightseekers|link=}}<br>[[Doublefive Light Catcher]]
+Lightseekers-Spirit-Laidback-Pioneer.png|{{Season Icon|Lightseekers|inline_text|label=Lightseekers|link=}}<br>[[Laidback Pioneer]]
+Lightseekers-Spirit-Twirling-Champion.png|{{Season Icon|Lightseekers|inline_text|label=Lightseekers|link=}}<br>[[Twirling Champion]]
+Lightseekers-Spirit-Crab-Whisperer.png|{{Season Icon|Lightseekers|inline_text|label=Lightseekers|link=}}<br>[[Crab Whisperer]]
+Lightseekers-Spirit-Shushing-Light-Scholar.png|{{Season Icon|Lightseekers|inline_text|label=Lightseekers|link=}}<br>[[Shushing Light Scholar]]
+
+Belonging-Spirit-Boogie-Kid.png|{{Season Icon|Belonging|inline_text|label=Belonging|link=}}<br>[[Boogie Kid]]
+Belonging-Spirit-Confetti-Cousin.png|{{Season Icon|Belonging|inline_text|label=Belonging|link=}}<br>[[Confetti Cousin]]
+Belonging-Spirit-Hairtousle-Teen.png|{{Season Icon|Belonging|inline_text|label=Belonging|link=}}<br>[[Hairtousle Teen]]
+Belonging-Spirit-Sparkler-Parent.png|{{Season Icon|Belonging|inline_text|label=Belonging|link=}}<br>[[Sparkler Parent]]
+Belonging-Spirit-Pleaful-Parent.png|{{Season Icon|Belonging|inline_text|label=Belonging|link=}}<br>[[Pleaful Parent]]
+Belonging-Spirit-Wise-Grandpa.png|{{Season Icon|Belonging|inline_text|label=Belonging|link=}}<br>[[Wise Grandparent]]
+
+Rhythm-Spirit-Troupe-Greeter.png|{{Season Icon|Rhythm|inline_text|label=Rhythm|link=}}<br>[[Troupe Greeter]]
+Rhythm-Spirit-Festival-Spin-Dancer.png|{{Season Icon|Rhythm|inline_text|label=Rhythm|link=}}<br>[[Festival Spin Dancer]]
+Rhythm-Spirit-Admiring-Actor.png|{{Season Icon|Rhythm|inline_text|label=Rhythm|link=}}<br>[[Admiring Actor]]
+Rhythm-Spirit-Troupe-Juggler.png|{{Season Icon|Rhythm|inline_text|label=Rhythm|link=}}<br>[[Troupe Juggler]]
+Rhythm-Spirit-Respectful-Pianist.png|{{Season Icon|Rhythm|inline_text|label=Rhythm|link=}}<br>[[Respectful Pianist]]
+Rhythm-Spirit-Thoughtful-Director.png|{{Season Icon|Rhythm|inline_text|label=Rhythm|link=}}<br>[[Thoughtful Director]]
+
+Enchantment-Spirit-Nodding-Muralist.png|{{Season Icon|Enchantment|inline_text|label=Enchantment|link=}}<br>[[Nodding Muralist]]
+Enchantment-Spirit-Indifferent-Alchemist.png|{{Season Icon|Enchantment|inline_text|label=Enchantment|link=}}<br>[[Indifferent Alchemist]]
+Enchantment-Spirit-Crab-Walker.png|{{Season Icon|Enchantment|inline_text|label=Enchantment|link=}}<br>[[Crab Walker]]
+Enchantment-Spirit-Scarecrow-Farmer.png|{{Season Icon|Enchantment|inline_text|label=Enchantment|link=}}<br>[[Scarecrow Farmer]]
+Enchantment-Spirit-Snoozing-Carpenter.png|{{Season Icon|Enchantment|inline_text|label=Enchantment|link=}}<br>[[Snoozing Carpenter]]
+Enchantment-Spirit-Playfighting-Herbalist.png|{{Season Icon|Enchantment|inline_text|label=Enchantment|link=}}<br>[[Playfighting Herbalist]]
+
+Sanctuary-Spirit-Jelly-Whisperer.png|{{Season Icon|Sanctuary|inline_text|label=Sanctuary|link=}}<br>[[Jelly Whisperer]]
+Sanctuary-Spirit-Timid-Bookworm.png|{{Season Icon|Sanctuary|inline_text|label=Sanctuary|link=}}<br>[[Timid Bookworm]]
+Sanctuary-Spirit-Rallying-Thrillseeker.png|{{Season Icon|Sanctuary|inline_text|label=Sanctuary|link=}}<br>[[Rallying Thrillseeker]]
+Sanctuary-Spirit-Hiking-Grouch.png|{{Season Icon|Sanctuary|inline_text|label=Sanctuary|link=}}<br>[[Hiking Grouch]]
+Sanctuary-Spirit-Grateful-Shell-Collector.png|{{Season Icon|Sanctuary|inline_text|label=Sanctuary|link=}}<br>[[Grateful Shell Collector]]
+Sanctuary-Spirit-Chill-Sunbather.png|{{Season Icon|Sanctuary|inline_text|label=Sanctuary|link=}}<br>[[Chill Sunbather]]
+
+Prophecy-Spirit-Prophet-of-Water.png|{{Season Icon|Prophecy|inline_text|label=Prophecy|link=}}<br>[[Prophet of Water]]
+Prophecy-Spirit-Prophet-of-Earth.png|{{Season Icon|Prophecy|inline_text|label=Prophecy|link=}}<br>[[Prophet of Earth]]
+Prophecy-Spirit-Prophet-of-Air.png|{{Season Icon|Prophecy|inline_text|label=Prophecy|link=}}<br>[[Prophet of Air]]
+Prophecy-Spirit-Prophet-of-Fire.png|{{Season Icon|Prophecy|inline_text|label=Prophecy|link=}}<br>[[Prophet of Fire]]
+
+Dreams-Spirit-Spinning-Mentor.png|{{Season Icon|Dreams|inline_text|label=Dreams|link=}}<br>[[Spinning Mentor]]
+Dreams-Spirit-Dancing-Performer.png|{{Season Icon|Dreams|inline_text|label=Dreams|link=}}<br>[[Dancing Performer]]
+Dreams-Spirit-Peeking-Postman.png|{{Season Icon|Dreams|inline_text|label=Dreams|link=}}<br>[[Peeking Postman]]
+Dreams-Spirit-Bearhug-Hermit.png|{{Season Icon|Dreams|inline_text|label=Dreams|link=}}<br>[[Bearhug Hermit]]
+
+Assembly-Spirit-Baffled-Botanist.png|{{Season Icon|Assembly|inline_text|label=Assembly|link=}}<br>[[Baffled Botanist]]
+Assembly-Spirit-Scolding-Student.png|{{Season Icon|Assembly|inline_text|label=Assembly|link=}}<br>[[Scolding Student]]
+Assembly-Spirit-Scaredy-Cadet.png|{{Season Icon|Assembly|inline_text|label=Assembly|link=}}<br>[[Scaredy Cadet]]
+Assembly-Spirit-Marching-Adventurer.png|{{Season Icon|Assembly|inline_text|label=Assembly|link=}}<br>[[Marching Adventurer]]
+Assembly-Spirit-Chuckling-Scout.png|{{Season Icon|Assembly|inline_text|label=Assembly|link=}}<br>[[Chuckling Scout]]
+Assembly-Spirit-Daydream-Forester.png|{{Season Icon|Assembly|inline_text|label=Assembly|link=}}<br>[[Daydream Forester]]
+
+Little-Prince-Spirit-Beckoning-Ruler.png|{{Season Icon|Prince|inline_text|label=Little Prince|link=}}<br>[[Beckoning Ruler]]
+Little-Prince-Spirit-Gloating-Narcissist.png|{{Season Icon|Prince|inline_text|label=Little Prince|link=}}<br>[[Gloating Narcissist]]
+Little-Prince-Spirit-Stretching-Lamplighter.png|{{Season Icon|Prince|inline_text|label=Little Prince|link=}}<br>[[Stretching Lamplighter]]
+Little-Prince-Spirit-Slouching-Soldier.png|{{Season Icon|Prince|inline_text|label=Little Prince|link=}}<br>[[Slouching Soldier]]
+Little-Prince-Spirit-Sneezing-Geographer.png|{{Season Icon|Prince|inline_text|label=Little Prince|link=}}<br>[[Sneezing Geographer]]
+Little-Prince-Spirit-Star-Collector.png|{{Season Icon|Prince|inline_text|label=Little Prince|link=}}<br>[[Star Collector]]
+
+Flight-Spirit-Lively-Navigator.png|{{Season Icon|Flight|inline_text|label=Flight|link=}}<br>[[Lively Navigator]]
+Flight-Spirit-Light-Whisperer.png|{{Season Icon|Flight|inline_text|label=Flight|link=}}<br>[[Light Whisperer]]
+Flight-Spirit-Tinkering-Chimesmith.png|{{Season Icon|Flight|inline_text|label=Flight|link=}}<br>[[Tinkering Chimesmith]]
+Flight-Spirit-Talented-Builder.png|{{Season Icon|Flight|inline_text|label=Flight|link=}}<br>[[Talented Builder]]
+
+Abyss-Spirit-Anxious-Angler.png|{{Season Icon|Abyss|inline_text|label=Abyss|link=}}<br>[[Anxious Angler]]
+Abyss-Spirit-Ceasing-Commodore.png|{{Season Icon|Abyss|inline_text|label=Abyss|link=}}<br>[[Ceasing Commodore]]
+Abyss-Spirit-Bumbling-Boatswain.png|{{Season Icon|Abyss|inline_text|label=Abyss|link=}}<br>[[Bumbling Boatswain]]
+Abyss-Spirit-Cackling-Cannoneer.png|{{Season Icon|Abyss|inline_text|label=Abyss|link=}}<br>[[Cackling Cannoneer]]
+
+Performance-Spirit-Frantic-Stagehand.png|{{Season Icon|Performance|inline_text|label=Performance|link=}}<br>[[Frantic Stagehand]]
+Performance-Spirit-Forgetful-Storyteller.png|{{Season Icon|Performance|inline_text|label=Performance|link=}}<br>[[Forgetful Storyteller]]
+Performance-Spirit-Mellow-Musician.png|{{Season Icon|Performance|inline_text|label=Performance|link=}}<br>[[Mellow Musician]]
+Performance-Spirit-Modest-Dancer.png|{{Season Icon|Performance|inline_text|label=Performance|link=}}<br>[[Modest Dancer]]
+
+Aurora-Spirit-Running-Wayfairer.png|{{Season Icon|AURORA|inline_text|label=AURORA|link=}}<br>[[Running Wayfarer]]
+Aurora-Spirit-Mindful-Miner.png|{{Season Icon|AURORA|inline_text|label=AURORA|link=}}<br>[[Mindful Miner]]
+Aurora-Spirit-Warrior-of-Love.png|{{Season Icon|AURORA|inline_text|label=AURORA|link=}}<br>[[Warrior of Love]]
+Aurora-Spirit-Seed-of-Hope.png|{{Season Icon|AURORA|inline_text|label=AURORA|link=}}<br>[[Seed of Hope]]
+
+Remembrance-Spirit-Bereft-Veteran.png|{{Season Icon|Remembrance|inline_text|label=Remembrance|link=}}<br>[[Bereft Veteran]]
+Remembrance-Spirit-Tiptoeing-Tea-Brewer.png|{{Season Icon|Remembrance|inline_text|label=Remembrance|link=}}<br>[[Tiptoeing Tea-Brewer]]
+Remembrance-Spirit-Wounded-Warrior.png|{{Season Icon|Remembrance|inline_text|label=Remembrance|link=}}<br>[[Wounded Warrior]]
+Remembrance-Spirit-Pleading-Child.png|{{Season Icon|Remembrance|inline_text|label=Remembrance|link=}}<br>[[Pleading Child]]
+
+Passage-Oddball-Outcast-Cutout.png|{{Season Icon|Passage|inline_text|label=Passage|link=}}<br>[[Oddball Outcast]]
+Passage-Tumbling-Troublemaker-Cutout.png|{{Season Icon|Passage|inline_text|label=Passage|link=}}<br>[[Tumbling Troublemaker]]
+Passage-Melancholy-Mope-Cutout.png|{{Season Icon|Passage|inline_text|label=Passage|link=}}<br>[[Melancholy Mope]]
+Passage-Overactive-Overachiever-Cutout.png|{{Season Icon|Passage|inline_text|label=Passage|link=}}<br>[[Overactive Overachiever]]
+
+Moments-Spirit-Reassuring-Ranger.png|{{Season Icon|Moments|inline_text|label=Moments|link=}}<br>[[Reassuring Ranger]]
+Moments-Spirit-Nightbird-Whisperer.png|{{Season Icon|Moments|inline_text|label=Moments|link=}}<br>[[Nightbird Whisperer]]
+Moments-Spirit-Jolly-Geologist.png|{{Season Icon|Moments|inline_text|label=Moments|link=}}<br>[[Jolly Geologist]]
+Moments-Spirit-Ascetic-Monk.png|{{Season Icon|Moments|inline_text|label=Moments|link=}}<br>[[Ascetic Monk]]
+
+Nine-Colored-Deer-Herb-Gatherer.png|{{Season Icon|Nine-Colored Deer|inline_text|label=Nine-Colored Deer|link=}}<br>[[Herb Gatherer]]
+Nine-Colored-Deer-Hunter.png|{{Season Icon|Nine-Colored Deer|inline_text|label=Nine-Colored Deer|link=}}<br>[[Hunter]]
+Nine-Colored-Deer-Feudal-Lord.png|{{Season Icon|Nine-Colored Deer|inline_text|label=Nine-Colored Deer|link=}}<br>[[Feudal Lord]]
+Nine-Colored-Deer-Princess.png|{{Season Icon|Nine-Colored Deer|inline_text|label=Nine-Colored Deer|link=}}<br>[[Princess]]
+
+Duets-Spirit-Compassionate-Cellist.png|{{Season Icon|Duets|inline_text|label=Duets|link=}}<br>[[Compassionate Cellist]]
+
+Radiance-Leaping-Dancer-spirit-cutout-undyed.png|{{Season Icon|Radiance|inline_text|label=Radiance|link=}}<br>[[Radiance Leaping Dancer]]
+Radiance-Provoking-Performer-spirit-cutout-undyed.png|{{Season Icon|Radiance|inline_text|label=Radiance|link=}}<br>[[Radiance Provoking Performer]]
+Radiance-Greeting-Shaman-spirit-cutout-original.png|{{Season Icon|Radiance|inline_text|label=Radiance|link=}}<br>[[Radiance Greeting Shaman]]
+
+Costumed-Confetti-Cousin-cutout.png|{{Season Icon|Blue Bird|inline_text|label=Blue Bird|link=}}<br>[[Costumed Confetti Cousin]]
+Divining-Wise-Grandparent-cutout.png|{{Season Icon|Blue Bird|inline_text|label=Blue Bird|link=}}<br>[[Divining Wise Grandparent]]
+Nostalgic-Sparkler-Parent-cutout.png|{{Season Icon|Blue Bird|inline_text|label=Blue Bird|link=}}<br>[[Nostalgic Sparkler Parent]]
+Royal-Hairtousle-Teen-cutout.png|{{Season Icon|Blue Bird|inline_text|label=Blue Bird|link=}}<br>[[Royal Hairtousle Teen]]
+Woodcutting-Pleaful-Parent-cutout.png|{{Season Icon|Blue Bird|inline_text|label=Blue Bird|link=}}<br>[[Woodcutting Pleaful Parent]]
+
+Tender-Toymaker-Spirit-cutout.png|{{Season Icon|Two Embers Part 1|inline_text|label=Two Embers Part 1|link=}}<br>[[Tender Toymaker]]
+Resourceful-Recluse-Spirit-cutout.png|{{Season Icon|Two Embers Part 1|inline_text|label=Two Embers Part 1|link=}}<br>[[Resourceful Recluse]]
+Stern-Shepherd-Spirit-cutout.png|{{Season Icon|Two Embers Part 1|inline_text|label=Two Embers Part 1|link=}}<br>[[Stern Shepherd]]
+Scarred-Sentry-Spirit-cutout.png|{{Season Icon|Two Embers Part 1|inline_text|label=Two Embers Part 1|link=}}<br>[[Scarred Sentry]]
+
+</gallery>
+}}
+
+====Seasonal Entities====
+Seasonal Entities is a general term for all Seasonal Shops and Entities that are not [[Seasonal Spirits]], introduced by [[Season of Shattering]].
+
+Unlike Seasonal Spirits, none of the past-Season Entities still appear in the game. The seasons that have had Seasonal Entities instead of Spirits include [[Season of Shattering]], [[Season of Revival]], [[Season of Nesting]] and [[Season of Duets]]. 
+
+{{Collapse
+|state=open
+|label=Seasonal Entities Gallery
+|content=
+<gallery widths="150px" captionalign="center">
+Shattering-Ancient Darkness.png|{{Season Icon|Shattering|inline_text|label=Shattering|link=}}<br>[[Ancient Darkness]]
+Shattering-Ancient Light.png|{{Season Icon|Shattering|inline_text|label=Shattering|link=}}<br>[[Ancient Light]]
+
+Vestige-of-a-Deserted-Oasis-Shop.png|{{Season Icon|Revival|inline_text|label=Revival|link=}}<br>[[Vestige of a Deserted Oasis]]
+Memory-of-a-Lost-Village-Shop.png|{{Season Icon|Revival|inline_text|label=Revival|link=}}<br>[[Memory of a Lost Village]]
+Echo-of-an-Abandoned-Refuge-Shop.png|{{Season Icon|Revival|inline_text|label=Revival|link=}}<br>[[Echo of an Abandoned Refuge]]
+Remnant-of-a-Forgotten-Haven-Shop.png|{{Season Icon|Revival|inline_text|label=Revival|link=}}<br>[[Remnant of a Forgotten Haven]]
+
+Nesting-Solarium-Shop.png|{{Season Icon|Nesting|inline_text|label=Nesting|link=}}<br>[[Nesting Solarium]]
+Nesting-Loft-Shop.png|{{Season Icon|Nesting|inline_text|label=Nesting|link=}}<br>[[Nesting Loft]]
+Nesting-Atrium-Shop.png|{{Season Icon|Nesting|inline_text|label=Nesting|link=}}<br>[[Nesting Atrium]]
+Nesting-Nook-Shop.png|{{Season Icon|Nesting|inline_text|label=Nesting|link=}}<br>[[Nesting Nook]]
+
+The-Cellists-Beginnings-Shop.png|{{Season Icon|Duets|inline_text|label=Duets|link=}}<br>[[The Cellist's Beginnings]]
+The-Pianists-Beginnings-Shop.png|{{Season Icon|Duets|inline_text|label=Duets|link=}}<br>[[The Pianist's Beginnings]]
+The-Musicians-Legacy-Shop.png|{{Season Icon|Duets|inline_text|label=Duets|link=}}<br>[[The Musicians' Legacy]]
+The-Cellists-Flourishing-Shop.png|{{Season Icon|Duets|inline_text|label=Duets|link=}}<br>[[The Cellist's Flourishing]]
+The-Pianists-Flourishing-Shop.png|{{Season Icon|Duets|inline_text|label=Duets|link=}}<br>[[The Pianist's Flourishing]]
+
+Comfort-of-Kindness-Shop.png|{{Season Icon|Moomin|inline_text|label=Moomin|link=}}<br>[[Comfort of Kindness]]
+Sense-of-Self-Shop.png|{{Season Icon|Moomin|inline_text|label=Moomin|link=}}<br>[[Sense of Self]]
+Spirit-of-Adventure-Shop.png|{{Season Icon|Moomin|inline_text|label=Moomin|link=}}<br>[[Spirit of Adventure]]
+Inspiration-of-Inclusion-Shop.png|{{Season Icon|Moomin|inline_text|label=Moomin|link=}}<br>[[Inspiration of Inclusion]]
+
+</gallery>
+}}
+
+====Current Season Spirits====
+Seasonal Spirits who are part of the current [[Seasonal Events|Season]] are different from other Season Spirits. New players must progress far enough in the game to unlock the Seasonal content (but do not need to complete all Realms). Once saved, the current Season Spirits can be seen in the Season's Constellation, where players can access their Friendship Trees. Current-Season items are purchased exclusively with [[Season Candle]]s; half of the items are exclusively available to [[Season Pass]] holders. These Friendship Trees are only available for the duration of the current Season; once the Season ends, it is no longer possible to purchase any upgrades or cosmetics from the Spirits (until they return as [[#Traveling Spirits|Traveling Spirits]]).
+
+====Traveling Spirits====
+Once every two weeks, one Spirit from a past Season returns as a [[Traveling Spirit]]. This is the only time when newer players can purchase upgraded Expressions and cosmetics from past-Season Spirits. The items available for purchase from Traveling Spirits are typically the same items they offered during their Season (including [[Season Pass]]-exclusive items), but they can be purchased using non-Seasonal currency. The currencies used by Traveling Spirits are effectively the reverse of Regular Spirits: Expression upgrades cost Hearts and cosmetics cost Candles.
+
+==Guides ==
+'''Guides''' are Ancestors who provide access to [[Seasonal Events|Seasonal]] or [[Special Events|Special Event]] content. They are found in various locations throughout Sky. They can be distinguished from standard Spirits by the fact that they are always standing (not kneeling/sitting), and they have a multiple-star icon allowing players to interact with them.
+
+Most Guides are Season Guides, who act as Quest-givers for the Season Quests. During the Season, Ultimate Gifts can be purchased from Season Guides. Season Guides are separate characters from any of the Seasonal Spirits.
+
+Special Event Guides, however, are frequently Spirits acting in a temporary role. You can interact with Event Guides even if you have not previously met the Spirit or relived their memories.
+
+<gallery widths="170px" captionalign="center">
+Gratitude-Guide-Spirit.png|[[Gratitude Guide]]
+Lightseekers-Guide-Spirit.png|[[Lightseeker Guide]]
+Belonging-Guide-Spirit.png|[[Belonging Guide]]
+Rhythm-Guide-Spirit.png|[[Rhythm Guide]]
+Enchantment-Guide-Spirit.png|[[Enchantment Guide]]
+Sanctuary-Guide-Spirit.png|[[Sanctuary Guide]]
+Prophecy-Guide-Spirit.png|[[Prophecy Guide]]
+Dreams-Guide-Spirit.png|[[Dreams Guide]]
+Assembly-Guide-Spirit.png|[[Assembly Guide]]
+Little-Prince-Guide-Spirit.png|[[The Rose]]
+Flight Guide.png|[[Flight Guide]]
+SOAbyss-Abyss-Guide.png|[[Abyss Guide]]
+SOP-Ultimate-guide.png|[[Performance Guide]]
+Shattering-Guide-The-Void-of-Shattering.png|[[The Void of Shattering]]
+SoAurora-Seasonal-guide.png|[[AURORA Guide]]
+SoRemembrance-Ultimate-guide.png|[[Remembrance Guide]]
+Passage-Ultimate-guide.png|[[Passage Guide]]
+Moments-Ultimate-Guide.png|[[Moments Guide]]
+Hopeful-Steward-Revival-Guide.png|[[Hopeful Steward]]
+Nine-Colored-Deer-Guide-Spirit.png|[[Spirit of Mural]]
+Nesting-Ultimate-Guide.png|[[Nesting Guide]]
+Duets-Ultimate-Guide.png|[[Duets Guide]]
+Moomin-Ultimate-guide.png|[[The Moomin Storybook]]
+Radiance-Ultimate-Guide.png|[[Radiance Guide]]
+Blue-Bird-Ultimate-Guide.png|[[Blue Bird Guide]]
+Vault-Elder-Lantern-Ultimate-Guide-cutout.png|[[Vault Elder's Lantern]]
+</gallery>
+
+==Elders==
+'''Elders''' are the Ancestors specifically found in the temples at the end of each Realm. The only interaction with Elders normally is watching a cutscene after lighting the temple's altar.
+
+However, once a Realm's [[Constellations|Constellation]] is completed, it is possible to interact directly with an Elder at [[Eye of Eden|Orbit]] and purchase their [[Elder Hair|Elder Hair and Face Accessory]].
+
+See more information on the [[Elders]] page.
+<gallery widths="170px" captionalign="center">
+Elder-Spirit-Isle.png|[[Elder of the Isle]]
+Elder-Spirit-Prairie.png|[[Elder of the Prairie]]
+Elder-Spirit-Forest.png|[[Elder of the Forest]]
+Elder-Spirits-Valley.png|[[Elder of the Valley]]
+Elder-Spirit-Wasteland.png|[[Elder of the Wasteland]]
+Elder-Spirit-Vault.png|[[Elder of the Vault]]
+</gallery>
+==Auspicious Visitor==
+The '''Auspicious Visitor''' is an Ancestor who appears at [[Home]] during some [[Special Events]] to sell event specific-items. The visitor is found at the end of a pier that is temporarily added to Home, to the left of the outfit closets. Events featuring the visitor have included [[Days of Fortune]] and [[Days of Love]].
+
+The visitor first appeared during the [[Season of Gratitude]], acting as the Season Guide. They are wearing the deer mask that was the Season's Ultimate Gift. The other Gratitude Seasonal Spirits generally appear on the pier along with the Auspicious Visitor, but you cannot interact with the other Spirits besides using friendship Emotes with them.
+
+==Sleepy Traveling Merchant==
+The '''Sleepy Traveling Merchant'''<ref name="sleepy">https://thatgamecompany.helpshift.com/a/sky-children-of-the-light/?p=all&s=gameplay-features&f=who-is-the-sleepy-traveling-merchant-and-what-does-the-boat-in-home-do&l=en</ref> and their boat appear in [[Home]] and [[Aviary Village]] during most [[Special Events]], in between the outfit closets and the portal for the Isle of Dawn and in front of the Spell Shop in Aviary Village respectively.
+
+The merchant's boat has containers where players can obtain various [[Blessings]]. Specifically there are containers for the [[Scroll Shop]], the [[Potion Shop]], and the [[Spell Shop]] (from left to right). These are the same shops found on the [[Forgotten Ark]], but they are available even to players who have not restored the Ark. The Sleepy Merchant's shops and the Ark shops share the same inventory, meaning that if you buy all available copies of a Spell from the Sleepy Merchant, you cannot then obtain more of the Spell from the Ark.
+
+Most events provide free Spells allowing players to try out the event cosmetics for 30 minutes. These Spells can be obtained from the Sleepy Merchant's Spell Shop (or equally the Forgotten Ark Spell Shop), in addition to the regular Spell shop inventory.
+
+If [[thatskyshop]] has new items available for purchase, a meditation circle will appear next to the Sleepy Merchant's boat allowing players to access the shop.
+
+The Sleepy Traveler can also be found sleeping in the [[Aviary Village#Spell Shop|back room of the Spell Shop in Aviary Village]] when there isn't an active event or That Sky Shop wave.
+
+==Trivia==
+* The Sleepy Traveling Merchant is depicted in several merch items from [[That Sky Shop]]. To know more about That Sky Shop products, visit their website: https://thatskyshop.com
+
+==References ==
+<references />
+{{Navigation Box}}
+
+[[ru:Духи и Старейшины]]
+[[fr:Ancêtres]]
+[[de:Vorfahren]]
+[[pt-br:Ancestrais]]
+[[ja:精霊たち]]
+
+[[Category:Advanced Guides]]
+[[Category:Ancestor Spirits]]

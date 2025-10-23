@@ -1,0 +1,767 @@
+{{Icon List
+|caption=Available Music Sheets
+|cols=3
+| {{Music Sheet|1|link=Music Sheets#Music Sheet 1}}<br />[[#Music Sheet 1|1]]
+| {{Music Sheet|2|link=Music Sheets#Music Sheet 2}}<br />[[#Music Sheet 2|2]]
+| {{Music Sheet|3|link=Music Sheets#Music Sheet 3}}<br />[[#Music Sheet 3|3]]
+| {{Music Sheet|4|link=Music Sheets#Music Sheet 4}}<br />[[#Music Sheet 4|4]]
+| {{Music Sheet|5|link=Music Sheets#Music Sheet 5}}<br />[[#Music Sheet 5|5]]
+| {{Music Sheet|6|link=Music Sheets#Music Sheet 6}}<br />[[#Music Sheet 6|6]]
+| {{Music Sheet|7|link=Music Sheets#Music Sheet 7}}<br />[[#Music Sheet 7|7]]
+| {{Music Sheet|8|link=Music Sheets#Music Sheet 8}}<br />[[#Music Sheet 8|8]]
+| {{Music Sheet|9|link=Music Sheets#Music Sheet 9}}<br />[[#Music Sheet 9|9]]
+| {{Music Sheet|10|link=Music Sheets#Music Sheet 10}}<br />[[#Music Sheet 10|10]]
+| {{Music Sheet|11|link=Music Sheets#Music Sheet 11}}<br />[[#Music Sheet 11|11]]
+| {{Music Sheet|12|link=Music Sheets#Music Sheet 12}}<br />[[#Music Sheet 12|12]]
+| {{Music Sheet|13|link=Music Sheets#Music Sheet 13}}<br />[[#Music Sheet 13|13]]
+| {{Music Sheet|14|link=Music Sheets#Music Sheet 14}}<br />[[#Music Sheet 14|14]]
+| {{Music Sheet|15|link=Music Sheets#Music Sheet 15}}<br />[[#Music Sheet 15|15]]
+| {{Music Sheet|16|link=Music Sheets#Music Sheet 16}}<br />[[#Music Sheet 16|16]]
+| {{Music Sheet|17|link=Music Sheets#Music Sheet 17}}<br />[[#Music Sheet 17|17]]
+| {{Music Sheet|18|link=Music Sheets#Music Sheet 18}}<br />[[#Music Sheet 18|18]]
+| {{Music Sheet|19|link=Music Sheets#Music Sheet 19}}<br />[[#Music Sheet 19|19]]
+| {{Music Sheet|20|link=Music Sheets#Music Sheet 20}}<br />[[#Music Sheet 20|20]]
+| {{Music Sheet|21|link=Music Sheets#Music Sheet 21}}<br />[[#Music Sheet 21|21]]
+| {{Music Sheet|22|link=Music Sheets#Music Sheet 22}}<br />[[#Music Sheet 22|22]]
+| {{Music Sheet|23|link=Music Sheets#Music Sheet 23}}<br />[[#Music Sheet 23|23]]
+| {{Music Sheet|24|link=Music Sheets#Music Sheet 24}}<br />[[#Music Sheet 24|24]]
+| {{Music Sheet|25|link=Music Sheets#Music Sheet 25}}<br />[[#Music Sheet 25|25]]
+| {{Music Sheet|26|link=Music Sheets#Music Sheet 26}}<br />[[#Music Sheet 26|26]]
+| {{Music Sheet|27|link=Music Sheets#Music Sheet 27}}<br />[[#Music Sheet 27|27]]
+| {{Music Sheet|28|link=Music Sheets#Music Sheet 28}}<br />[[#Music Sheet 28|28]]
+| {{Music Sheet|29|link=Music Sheets#Music Sheet 29}}<br />[[#Music Sheet 29|29]]
+| {{Music Sheet|30|link=Music Sheets#Music Sheet 30}}<br />[[#Music Sheet 30|30]]
+| {{Music Sheet|31|link=Music Sheets#Music Sheet 31}}<br />[[#Music Sheet 31|31]]
+| {{Music Sheet|32|link=Music Sheets#Music Sheet 32}}<br />[[#Music Sheet 32|32]]
+| {{Music Sheet|33|link=Music Sheets#Music Sheet 33}}<br />[[#Music Sheet 33|33]]
+| {{Music Sheet|34|link=Music Sheets#Music Sheet 34}}<br />[[#Music Sheet 34|34]]
+| {{Music Sheet|35|link=Music Sheets#Music Sheet 35}}<br />[[#Music Sheet 35|35]]
+| {{Music Sheet|36|link=Music Sheets#Music Sheet 36}}<br />[[#Music Sheet 36|36]]
+| {{Music Sheet|37|link=Music Sheets#Music Sheet 37}}<br />[[#Music Sheet 37|37]]
+| {{Music Sheet|38|link=Music Sheets#Music Sheet 38}}<br />[[#Music Sheet 38|38]]
+| {{Music Sheet|39|link=Music Sheets#Music Sheet 39}}<br />[[#Music Sheet 39|39]]
+| {{Music Sheet|40|link=Music Sheets#Music Sheet 40}}<br />[[#Music Sheet 40|40]]
+| {{Music Sheet|41|link=Music Sheets#Music Sheet 41}}<br />[[#Music Sheet 41|41]]
+| {{Music Sheet|42|link=Music Sheets#Music Sheet 42}}<br />[[#Music Sheet 42|42]]
+| {{Music Sheet|43|link=Music Sheets#Music Sheet 43}}<br />[[#Music Sheet 43|43]]
+| {{Music Sheet|44|link=Music Sheets#Music Sheet 44}}<br />[[#Music Sheet 44|44]]
+| {{Music Sheet|HH5|link=Music Sheets#Music Sheet HH5}}<br />[[#Music Sheet HH5|HH5]]<!--Respect placement order in sheet menu-->
+| {{Music Sheet|HH1|link=Music Sheets#Music Sheet HH1}}<br />[[#Music Sheet HH1|HH1]]
+| {{Music Sheet|HH2|link=Music Sheets#Music Sheet HH2}}<br />[[#Music Sheet HH2|HH2]]
+| {{Music Sheet|HH3|link=Music Sheets#Music Sheet HH3}}<br />[[#Music Sheet HH3|HH3]]
+| {{Music Sheet|HH4|link=Music Sheets#Music Sheet HH4}}<br />[[#Music Sheet HH4|HH4]]
+| {{Music Sheet|E1|link=Music Sheets#Music Sheet E1}}<br />[[#Music Sheet E1|E1]]
+| {{Music Sheet|E2|link=Music Sheets#Music Sheet E2}}<br />[[#Music Sheet E2|E2]]
+| {{Music Sheet|E3|link=Music Sheets#Music Sheet E3}}<br />[[#Music Sheet E3|E3]]
+| {{Music Sheet|E4|link=Music Sheets#Music Sheet E4}}<br />[[#Music Sheet E4|E4]]
+}}
+
+'''Music Sheets''' are [[Collectibles|collectible items]] that simplify playing [[music]] on an [[Instrument]], by allowing you to play along to a song, like a rhythm mini-game. Multiple people can play a Music Sheet together, each playing a different [[#Music Sheet Parts|part]] according to their selected Instrument. A [[Harmony Hall#Music Challenge|Music Sheet Challenge]] rewards [[Pieces of Light]] based on your ability to play a featured Music Sheet.
+
+Each Music Sheet has a pre-assigned [[Music Key|music key]]. Your Instrument will automatically change key to match any selected Music Sheet (overriding the music key associated with a given Realm).
+
+'''Most Music Sheet videos showcased in the [[Music Sheets|Music Sheet menu]] section are from [https://www.youtube.com/@RaySkyIkejiji Ray’s Ikejiji Sky] music channel. We thank them for giving us permission to share their useful music guides.'''  
+<!--Numerical index should be assigned in order of release date, with position in sheet menu as tiebreaker-->
+{| class="article-table"
+|+ Music Sheets Order in Menu
+|1||4||7||10||...||37
+|40||E4||HH2||E1
+|-
+|2||5||8||11||...||38
+|41||HH5||HH3||E2
+|-
+|3||6||9||12||...||39
+|42||HH1||HH4||E3
+|}
+
+(The letter prefixes indicate where the Music Sheets are acquired from: HH for Harmony Hall, and E for event.)
+
+== Purchasing Music Sheets ==
+Most Music Sheets are purchased from Spirits, and occasionally from event Guides, similarly to [[cosmetics]]. However, unlike cosmetics, there is no [[Outfit Shrine]] where you select an active Music Sheet. Instead, Music Sheets are only visible after you have equipped an [[Instrument]]. A Music Sheet icon is then visible in the upper right corner; clicking on it takes you to the Music Sheet menu, where all possible Music Sheets are listed. Only those you have purchased can be selected; the others are all dimmed out. An orbiting circle around a Music Sheet means it is currently being played.
+
+You are able to purchase Music Sheets even if you have not purchased any Instruments. However, the only way to use Music Sheets in that case is by using one of the demonstration Instruments in [[Harmony Hall]].
+
+One source of confusion with Music Sheets can be the "new item" red dot that encourages you to equip any newly purchased item. In the case of Music Sheets, the red dot will not appear until you have equipped an Instrument. However, unless you select the new Music Sheet, the red dot remains present on top of your wing icon even after you unequip the Instrument. Without an Instrument, there is no way to get rid of the red icon -- opening the Expression menu shows no follow-up action. The only way to clear the red dot is to equip an Instrument, select it in the Expression menu (where there is now a red dot over that icon), open the Music Sheet menu, and finally select the new Music Sheet(s).
+
+== Playing Music Sheets ==
+When a Music Sheet is selected, multiple cues are provided to tell you which notes to play and give you feedback on how well you are performing. The system has been evolving based on user feedback; this description is based on Patch {{v|0.17.5.0}}.
+
+Note that often when you first equip a Music Sheet nothing seems to happen: you are just shown the standard grid of notes. This happens whenever your current Instrument's [[#Music Sheet Parts|part]] is silent; it is more common when secondary Instruments (wind, bass) are equipped. When this happens, you need to wait for the background music (and/or other Instrument parts) to play and reach the point where your Instrument is supposed to join in.
+
+Upcoming notes are highlighted by enlarging the standard note icon and adding a superimposed square. These cues first appear five seconds before you are supposed to play a given note. The superimposed square is small initially, but grows in size as the note's time approaches. Especially during fast-paced music, there will end up being multiple squares of varying sizes on the screen, which are the upcoming notes in order from largest to smallest -- although processing the details of all the square sizes in real time is impossible.
+
+To help you focus on the immediate next note, there is an additional layer of bright white cues. First, the expanding square on the next note is changed to bright white. Second, a fixed-size off-white large square is added around the outside of that note's icon: the exact moment when you are supposed to click the note happens when the bright white square grows to the size of the outside square. Third, curving arcs acting as the track for a bouncing white star connect the current note to the previous and next note. The star reaches the exact center of the note at the moment when you are supposed to click on it.
+
+Whenever you play a note, its icon spins. If you played the correct note at the correct time, the icon's background lights up (turns gray) with a shimmering star. Also, the accuracy meter (the blue dial at the bottom left of the screen) will fill, with the filled amount depending on the accuracy and the number of notes in the Sheet. If you miss a note or play the wrong note, the accuracy meter will stay the same. The pulsing line around the accuracy dial serves as a progress meter, indicating the percentage of time passed in terms of total duration of the Sheet.
+
+[[File:Music-Sheet-example.png|thumb|right|300px|Music Sheet cues while playing Music Sheet 7 (C Major), melody part on [[Kalimba]]]]
+The accompanying screenshot demonstrates all of these features. In order, the notes that are supposed to be played during this fast-paced section are:
+* Note 7 (B<sub>4</sub>): gray square with star indicates it was played correctly, about 1 second ago. The purple diamond shows that another person also played this note (in this case, the [[Mellow Musician]]).
+* Note 8 (C<sub>5</sub>): icon in mid-spin, indicating it was just played (about 0.5 seconds ago), but it was not played at the right time.
+* Note 9 (D<sub>5</sub>): bright white square at maximum size and bouncing star almost at center: this note needs to be played very soon.
+* Note 10 (E<sub>5</sub>): large square connected by arc: next note to play
+* Ever-smaller squares indicate subsequent notes will be: 12 (G<sub>5</sub>), 5 (G<sub>4</sub>), 5 (G<sub>4</sub>), 6 (A<sub>4</sub>), 1 (C<sub>4</sub>)
+At the moment of this screenshot, the progress meter is only about 10% filled, because this is very early in the Music Sheet.
+
+The bouncing star tends to be the primary cue you focus on while playing a Music Sheet. However, the bouncing star is bad at notifying you when there are double notes -- times when the same note is played twice (or more) in succession. To catch double notes, you need to also pay attention to the squares over each note, and notice whether there are multiple squares, especially if the squares are very close in size. (Larger gaps between the squares often mean there is an intervening note).
+
+== Music Sheet Parts ==
+[[File:Music_Sheets_and_Instruments_guide_by_Laila-page-2.png|thumb|right|300px|Instrument Music Sheet parts, by Laila#3759 on Discord]]
+Each Music Sheet represents a song which can be played by multiple Instruments simultaneously. The different Instruments will play different parts of the song. This means that depending upon the Instrument you are playing, you the notes you are told to play will be different. This table shows which part is played by each Instrument.
+<br clear="all"/>
+{| class="article-table"
+|+ Part Played by Instrument
+! Melody
+| {{Instrument|Harp|inline_text}}, {{Instrument|Fledgling Harp|inline_text}}, {{Instrument|Piano|inline_text}}, {{Instrument|Guitar|inline_text}}, {{Instrument|Rhythm Guitar|inline_text}}, {{Instrument|Ukulele|inline_text}}, {{Instrument|Xylophone|inline_text}}, {{Instrument|Winter Piano|inline_text}}, {{Instrument|Lute|inline_text}}, {{Instrument|Kalimba|inline_text}}, {{Instrument|Electric Guitar|inline_text}}, {{Instrument|Blue Electric Guitar|inline_text}}, {{Instrument|Voice of AURORA|inline_text}}, {{Instrument|Triumph Violin|inline_text}}, {{Instrument|Grand Piano|inline_text|}}, {{Instrument|Duets Grand Piano|inline_text|label=Duets Grand Piano}}
+|-
+! Wind
+| {{Instrument|Horn|inline_text}}, {{Instrument|Flute|inline_text}}, {{Instrument|Panflute|inline_text}}, {{Instrument|Bugle|inline_text}}, {{Instrument|Manta Ocarina|inline_text}}, {{Instrument|Harmonica|inline_text}}, {{Instrument|Vessel Flute|label=Vessel Flute (Nintendo exclusive)|inline_text}},  {{Instrument|Triumph Saxophone|inline_text}}
+|-
+! Bass
+| {{Instrument|Contrabass|inline_text}}, {{Instrument|Cello|inline_text}}, {{Instrument|Duets Cello|inline_text}}
+|-
+! Percussion
+| {{Instrument|Drum|inline_text}}, {{Instrument|Small Bell|inline_text}}, {{Instrument|Large Bell|inline_text}}, {{Instrument|Sanctuary Handpan|inline_text}}, {{Instrument|Triumph Handpan|inline_text}}, {{Instrument|Prophecy Drum|inline_text}}, {{Instrument|Fortune Drum|inline_text}}
+|}
+
+== Music Sheet Menu ==
+[[File:Music Sheets and Instruments guide by Laila.png|thumb|right|300px|List of available Music Sheets, by Laila#3759 on Discord]]
+The Music Sheet menu displays all the possible Music Sheets. Many of the Music Sheets share the same basic icon, but a superimposed symbol allows each Sheet to be uniquely identified. The symbol identifies the Sheet's source:
+* Music Sheets without any extra symbol are provided by [[Regular Spirits]].
+* Any Music Sheet added by a [[Seasonal Events & Adventure Pass|Season]] is displayed with its Seasonal symbol.
+* Sheets available from [[Harmony Hall]] are displayed with a star symbol; an "HH" prefix is used in the ID for these Sheets.
+* Sheets introduced during [[Holidays and Special Events|Holiday Events]] are displayed with a unique symbol representing the event, such as an icon of the Winter Feast Snowglobe for [[Days of Feast]]. An "E" prefix is used in the ID for these Sheets.
+{{Clear}}
+<small>Note: The performers on the videos are those of Youtube, not the contributors uploading them. Most Music Sheet videos showcased in the Music Sheet menu section are from [https://www.youtube.com/@RaySkyIkejiji Ray’s Ikejiji Sky music] channel.</small>
+
+{| class="article-table sortable"
+! class="unsortable" | Icon
+! Name
+! [[#Availability Legend|Avail.]]
+! [[#Availability Legend|Source]]
+! Cost
+! Melody Difficulty
+! Wind Difficulty
+! Bass Difficulty
+! Percussion Difficulty
+! [[Music Key|Key]]
+! Video
+|- id="Music Sheet 1"
+| {{Music Sheet|1}}
+| Bounding About
+| {{Avail Summary | regular | spirit=Bird Whisperer }}
+| {{Cost|1 H}}
+| 4[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 4[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="0" | C Major
+| [[File:Fox Band — Music Sheet 1 (Sky- Children of Light)|x50px]]
+|- id="Music Sheet 2"
+| {{Music Sheet|2}}
+| Boundaries
+| {{Avail Summary | regular | spirit=Whale Whisperer }}
+| {{Cost|2 H}}
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="0" | C Major
+| [[File:Music Sheet 2 (Piano, Panflute, Low Harp, and Bell Instrument) (Sky- Children of The Light)|x50px]] [[File:Music Sheet 2 on Xylophone|x50px]]
+|- id="Music Sheet 3"
+| {{Music Sheet|3}}
+| Aperture
+| {{Avail Summary | regular | spirit=Manta Whisperer }}
+| {{Cost|3 H}}
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="0" | C Major
+|[[File:Sheet 3 (old 5) -Ikejiji’s Sky music sheet guideいけじじのSky楽譜解説3番（ 旧5番）|90px]]
+|- id="Music Sheet 4"
+|{{Music Sheet|4}}
+| Floating Bubbles
+| {{Avail Summary | season | spirit=Troupe Greeter | season=Rhythm }}
+|{{Cost|15 C}}
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="0" | C Major
+|[[File:Sheet 4(old 1) -Ikejiji’s Sky music sheet guideいけじじのSky楽譜解説4番( 旧1番）|90px]]
+|- id="Music Sheet 5"
+|{{Music Sheet|5}}
+| Spinning Thoughts
+| {{Avail Summary | season | spirit=Festival Spin Dancer | season=Rhythm }}
+|{{Cost|15 C}}
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="0" |C Major
+|[[File:Sheet 5(Old 2)- Ikejiji’s Sky music sheet guide- いけじじSky楽譜解説5番(旧2番）|90px]]
+|- id="Music Sheet 6"
+|{{Music Sheet|6}}
+| Lighting the Way
+| {{Avail Summary | season | spirit=Admiring Actor | season=Rhythm }}
+|{{Cost|15 C}}
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="0" |C Major
+|[[File:Sheet 6- Ikejiji’s Sky music sheet guideいけじじSky楽譜解説6番|90px]]
+|- id="Music Sheet 7"
+|{{Music Sheet|7}}
+| Wide Stance
+| {{Avail Summary | season | spirit=Provoking Performer | season=Gratitude }}
+|{{Cost|15 C}}
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="0" |C Major
+|[[File:Fox Band — Music Sheet 7 (Sky- Children of light)|x50px]] [[File:Harp|x50px]]
+|- id="Music Sheet 8"
+|{{Music Sheet|8}}
+| Waltzing in the Rain
+| {{Avail Summary | season | spirit=Saluting Protector | season=Gratitude }}
+|{{Cost|15 C}}
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="3" |E♭ Major
+|[[File:Music Sheet 8 - Piano - Sky-Music Sheet 8 Piano|x50px]] [[File:Music Sheet 8 - Bell - Sky-music sheet 8 bell|x50px]]
+|- id="Music Sheet 9"
+|{{Music Sheet|9}}
+| Finding the Horizon
+| {{Avail Summary | season | spirit= Laidback Pioneer | season=Lightseekers }}
+|{{Cost|15 C}}
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="0" |C Major
+|[[File:Sheet 9 -Ikejiji’s Sky music sheet guideいけじじのSky楽譜解説9番|90px]]
+|- id="Music Sheet 10"
+|{{Music Sheet|10}}
+| Relaxed Steps
+| {{Avail Summary | season | spirit=Crab Whisperer | season=Lightseekers }}
+|{{Cost|15 C}}
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="0" |C Major
+|[[File:Fox Band — Music Sheet 10 (Sky- Children of Light)|x50px]]
+|- id="Music Sheet 11"
+|{{Music Sheet|11}}
+| Support From Above
+| {{Avail Summary | season | spirit=Wise Grandparent | season=Belonging }}
+|{{Cost|15 C}}
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 4[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="10" |B♭ Major
+|[[File:Fox Band — Sheet 11 (Sky- Children of Light)|x50px]] [[File:Music Sheet 11 on Piano - Sky-Music Sheet 11 on piano|x50px]]
+|- id="Music Sheet 12"
+|{{Music Sheet|12}}
+| Wavy Hair
+| {{Avail Summary | season | spirit=Hairtousle Teen | season=Belonging }}
+|{{Cost|15 C}}
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="3" |E♭ Major
+|[[File:Fox Band — Music Sheet 12 (Sky Children of the light)|x50px]]
+|- id="Music Sheet 13"
+|{{Music Sheet|13}}
+| Drifting Over Sand
+| {{Avail Summary | season | spirit=Playfighting Herbalist | season=Enchantment }}
+|{{Cost|15 C}}
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="3" |E♭ Major
+|[[File:Fox Band — Music Sheet 13 (Sky Children of the light)|x50px]] [[File:Sky Children of the Light Music Sheet 13 (Season of Enchantment) Harp|x50px]]
+|- id="Music Sheet 14"
+|{{Music Sheet|14}}
+| Uneven Rhythms
+| {{Avail Summary | season | spirit=Jellyfish Whisperer | season=Sanctuary }}
+|{{Cost|15 C}}
+| 4[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="0" |C Major
+|[[File:Fox Band — Music Sheet 14 (Sky- Children of the light)|x50px]]
+|- id="Music Sheet 15"
+|{{Music Sheet|15}}
+| Back and Forth
+| {{Avail Summary | season | spirit=Timid Bookworm | season=Sanctuary }}
+|{{Cost|15 C}}
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="0" |C Major
+|[[File:Sheet 15 -Ikejiji’s Sky music sheet guideいけじじのSky楽譜解説15番|90px]]
+|- id="Music Sheet 16"
+|{{Music Sheet|16}}
+| Soft Blanket
+| {{Avail Summary | season | spirit=Prophet of Earth | season=Prophecy }}
+|{{Cost|15 C}}
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="4" |E Major
+|[[File:Fox Band — Music Sheet 16 (Sky- Children of the Light)|90px]]
+|- id="Music Sheet 17"
+|{{Music Sheet|17}}
+| Disappearing Ashes
+| {{Avail Summary | season | spirit=Prophet of Fire | season=Prophecy }}
+|{{Cost|15 C}}
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="0" |C Major
+|[[File:Sheet 17 Percussion added- Ikejiji’s Sky music sheet guide 打楽器追加：17番 いけじじSky楽譜解説|90px]]
+|- id="Music Sheet 18"
+|{{Music Sheet|18}}
+| Springing Step
+| {{Avail Summary | season | spirit=Peeking Postman | season=Dreams }}
+|{{Cost|15 C}}
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="0" |C Major
+|[[File:Sheet 18- Ikejiji’s Sky music sheet guide- いけじじのSky楽譜解説18番|90px]]
+|- id="Music Sheet 19"
+|{{Music Sheet|19}}
+| Forgotten Dance
+| {{Avail Summary | season | spirit=Bearhug Hermit | season=Dreams }}
+|{{Cost|15 C}}
+| 4[[File:Four-point-star-Ray.png|x50px]]
+| 4[[File:Four-point-star-Ray.png|x50px]]
+| 4[[File:Four-point-star-Ray.png|x50px]]
+| 4[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="0" |C Major
+|[[File:【改訂版】Sky夢かなう季節 楽譜19番- いけじじSky楽譜解説|90px]]
+|- id="Music Sheet 20"
+|{{Music Sheet|20}}
+| Forest Walk
+| {{Avail Summary | season | spirit=Daydream Forester | season=Assembly }}
+|{{Candle|15}}
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="11" |B Major
+|[[File:【SQ-高音質】Music Sheet 20 (Sky- Children of the Light -星を紡ぐ子どもたち)|90px]]
+|- id="Music Sheet 21"
+|{{Music Sheet|21}}
+| Keeping Myself Together
+| {{Avail Summary | season | spirit= Scaredy Cadet | season=Assembly }}
+|{{Cost|15 C}}
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="0" |C Major
+|[[File:Sheet 21 -Ikejiji’s Sky music sheet guideいけじじのSky楽譜解説21番|90px]]
+|- id="Music Sheet 22"
+|{{Music Sheet|22}}
+| Looking Up to the Stars
+| {{Avail Summary | season | spirit=Gloating Narcissist | season=The Little Prince }}
+|{{Cost|15 C}}
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="5" |F Major
+|[[File:Sheet 22- Ikejiji’s Sky music sheet guide- いけじじSky楽譜解説22番|90px]]
+|- id="Music Sheet 23"
+|{{Music Sheet|23}}
+| A Glimpse Within
+| {{Avail Summary | season | spirit=Slouching Soldier | season=The Little Prince }}
+|{{Cost|15 C}}
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="0" |C Major
+|[[File:Sheet 23- Ikejiji’s Sky music sheet guide- いけじじSky楽譜解説23番|90px]]
+|- id="Music Sheet 24"
+|{{Music Sheet|24}}
+| Everything Around Us
+| {{Avail Summary | season | spirit=Lively Navigator | season=Flight }}
+|{{Cost|15 C}}
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="0" |C Major
+|[[File:Sheet 24- Ikejiji’s Sky music sheet guide- いけじじSky楽譜解説24番|90px]]
+|- id="Music Sheet 25"
+|{{Music Sheet|25}}
+| Flying Among the Stars
+| {{Avail Summary | season | spirit=Talented Builder | season=Flight }}
+|{{Cost|15 C}}
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="5" |F Major
+|[[File:Sheet 25- Ikejiji’s Sky music sheet guide- いけじじSky楽譜解説25番|90px]]
+|- id="Music Sheet 26"
+|{{Music Sheet|26}}
+| Sowing Mischief
+| {{Avail Summary | season | spirit=Cackling Cannoneer | season=Abyss }}
+|{{Cost|15 C}}
+| 4[[File:Four-point-star-Ray.png|x50px]]
+| 4[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 4[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="0" |C Major
+|[[File:Sheet 26- Ikejiji’s Sky music sheet guide- いけじじSky楽譜解説26番|90px]]
+|- id="Music Sheet 27"
+|{{Music Sheet|27}}
+| Without a Paddle
+| {{Avail Summary | season | spirit=Bumbling Boatswain | season=Abyss }}
+|{{Cost|15 C}}
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="5" |F Major
+|[[File:Sheet 27- Ikejiji’s Sky music sheet guide- いけじじSky楽譜解説27番|90px]]
+|- id="Music Sheet 28"
+|{{Music Sheet|28}}
+| Hidden Dance
+| {{Avail Summary | season | spirit=Modest Dancer | season=Performance }}
+|{{Cost|15 C}}
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="2" |D Major
+|[[File:Sheet 28(Old 29)- Ikejiji’s Sky music sheet guide- いけじじSky楽譜解説28番(元29番）|90px]]
+|- id="Music Sheet 29"
+|{{Music Sheet|29}}
+| Step by Step
+| {{Avail Summary | season | spirit=Frantic Stagehand | season=Performance }}
+|{{Cost|22 C}}
+| 4[[File:Four-point-star-Ray.png|x50px]]
+| 4[[File:Four-point-star-Ray.png|x50px]]
+| 4[[File:Four-point-star-Ray.png|x50px]]
+| 4[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="5" |F Major
+|[[File:Sheet 29(old 30)- Ikejiji’s Sky music sheet guide- いけじじSky楽譜解説29(元30)番 Sky COTL|90px]]
+|- id="Music Sheet 30"
+|{{Music Sheet|30}}
+| Earnest Looks
+| {{Avail Summary | season | spirit=Ancient Darkness | season=Shattering }}
+|{{Cost|15 C}}
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="9" |A Major
+|[[File:Sky music sheet 30 Guide 砕ケル闇ノ季節30番楽譜解説いけじじSky楽譜解説 Season of Shattering - Ikejiji’s Sky music guide|90px]]
+|- id="Music Sheet 31"
+|{{Music Sheet|31}}
+| Searching for Questions
+| {{Avail Summary | season | spirit=Ancient Light | season=Shattering }}
+|{{Cost|15 C}}
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| 4[[File:Four-point-star-Ray.png|x50px]]
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="0" |C Major
+|[[File:Sky music sheet 31 Guide砕ケル闇ノ季節31番楽譜解説 いけじじSky楽譜解説 Season of Shattering - Ikejiji’s Sky music guide|90px]]
+|- id="Music Sheet 32"
+| {{Music Sheet|32}}
+| Through the Eyes of a Child
+| {{Avail Summary | permanent | spirit=AURORA Guide | season=Aurora }}
+| {{Cost| 20 C }}
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="0" |C Major
+|[[File:Sky music sheet 32 Guide AURORAの季節32番楽譜解説いけじじSky楽譜解説 Season of AURORA - Ikejiji’s Sky music guide|90px]]
+|- id="Music Sheet 33"
+|{{Music Sheet|33}}
+| The Seed
+| {{Avail Summary | season | spirit=Seed of Hope | season=Aurora }}
+|{{Cost|15 C}}
+| 4[[File:Four-point-star-Ray.png|x50px]]
+| 4[[File:Four-point-star-Ray.png|x50px]]
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| 4[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="3" |E♭ Major
+|[[File:Sky music sheet 33 Guide AURORAの季節33番楽譜解説いけじじSky楽譜解説 Season of AURORA - Ikejiji’s Sky music guide|90px]]
+|- id="Music Sheet 34"
+| {{Music Sheet|34}}
+| Queendom
+| {{Avail Summary | permanent | spirit=AURORA Guide | season=Aurora }}
+| {{Cost| 20 C }}
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="1" | D♭ Major
+|[[File:Sky music sheet 34 Guide AURORAの季節34番楽譜解説いけじじSky楽譜解説 Season of AURORA - Ikejiji’s Sky music guide|90px]]
+|- id="Music Sheet 35"
+|{{Music Sheet|35}}
+| Warrior
+| {{Avail Summary | season | spirit=Warrior of Love | season=Aurora }}
+|{{Cost|15 C}}
+| 4[[File:Four-point-star-Ray.png|x50px]]
+| 4[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="7" |G Major
+|[[File:Sky music sheet 35 Guide AURORAの季節35番楽譜解説いけじじSky楽譜解説 Season of AURORA - Ikejiji’s Sky music guide|90px]]
+|- id="Music Sheet 36"
+|{{Music Sheet|36}}
+| Runaway
+| {{Avail Summary | season | spirit=Running Wayfarer | season=Aurora }}
+|{{Cost|15 C}}
+| 4[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="11" | B Major
+|[[File:【改訂版】Sky_36番楽譜解説_AURORAの季節_いけじじSky楽譜解説_Runaway_music_sheet_guide_(sheet_36)|90px]]
+|- id="Music Sheet 37"
+| {{Music Sheet|37}}
+| Waltz of the Plains
+| {{Avail Summary | season | spirit=Jolly Geologist | season=Moments }}
+| {{Cost|unknown}}
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="2" | D Major
+|[[File:いけじじのSky楽譜解説_37番【Sky星を紡ぐ子どもたち】瞬きの季節・上機嫌な地質学者|90px]]
+|- id="Music Sheet 38"
+| {{Music Sheet|38}}
+| A Quiet Walk
+| {{Avail Summary | season | spirit=Echo of an Abandoned Refuge | season=Revival }}
+| {{Cost|unknown}}
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="0" | C Major
+| [[File:いけじじのSky楽譜解説 38番【Sky星を紡ぐ子どもたち】復古の季節・見捨てられた隠れ家の残響|90px]]
+|- id="Music Sheet 39"
+| {{Music Sheet|39}}
+| Deer Song
+| {{Avail Summary | season | spirit=Feudal Lord | season=Nine-Colored Deer }}
+| {{Cost| unknown}}
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="0" | C Major
+| [[File:いけじじのSky楽譜解説 39番【Sky星を紡ぐ子どもたち】九色の鹿の季節・国王所持|90px]]
+|- id="Music Sheet 40"
+| {{Music Sheet|40}}
+| Old Friends
+| {{Avail Summary | season | spirit=The Musicians' Legacy | season=Duets }}
+| {{Cost| unknown }}
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="0" | C Major
+| [[File:［チェロ改訂版］いけじじのSky楽譜解説 40番【Sky星を紡ぐ子どもたち】重なる音色の季節・音楽家たちの遺産所持|90px]]
+|- id="Music Sheet 41"
+| {{Music Sheet|41}}
+| Worlds Between
+| {{Avail Summary | season | spirit=Spirit of Adventure | season=Moomin }}
+| {{Cost| unknown | season=Moomin }}
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="0" | C Major
+| [[File:いけじじのSky楽譜解説 41番【Sky星を紡ぐ子どもたち】ムーミンの季節・冒険の心所持-2|90px]]
+|- id="Music Sheet 42"
+| {{Music Sheet|42}}
+| Finding Happiness
+| {{Avail Summary | season | spirit=Sense of Self | season=Moomin }}
+| {{Cost| unknown | season=Moomin }}
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 4[[File:Four-point-star-Ray.png|x50px]]
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="0" | C Major
+|[[File:いけじじのSky楽譜解説 42番【Sky星を紡ぐ子どもたち】ムーミンの季節・自己の確立所持|90px]]
+|- id="Music Sheet 43"
+| {{Music Sheet|43}}
+| Blue Bird of Happiness
+| {{Avail Summary | season | spirit=Woodcutting Pleaful Parent | season=Season of the Blue Bird }}
+| {{Cost| unknown }}
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="0" | C Major
+|[[File:Sheet 43- いけじじのSky楽譜解説４３番 木こりの訴えかける親 青い鳥の季節 Sky星を紡ぐ子どもたち|90px]]
+|- id="Music Sheet 44"
+| {{Music Sheet|44}}
+| Life and Sanctuary
+| {{Avail Summary | season | spirit=Stern Shepherd | season=The Two Embers - Part 1 }}
+| {{Cost| unknown }}
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| 4[[File:Four-point-star-Ray.png|x50px]]
+| 4[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="0" | 
+| 
+|- id="Music Sheet HH5"
+|{{Music Sheet|HH5}}
+| Music's Embrace
+| {{Avail Summary | permanent | source={{Icon|Harmony-hall-icon-Ray.png|table|link=Harmony Hall}} }}
+|{{Cost|5 C}}
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="0" | C Major
+|[[File:いけじじのSky楽譜解説 奏0番【Sky星を紡ぐ子どもたち】奏の音楽堂|90px]]
+|- id="Music Sheet HH1"
+|{{Music Sheet|HH1}}
+| Etude No. 1
+| {{Avail Summary | permanent | source={{Icon|Harmony-hall-icon-Ray.png|table|link=Harmony Hall}} }}
+|{{Cost|10 C}}
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="2" | D Major
+|[[File:Sheet H1(Harmony Hall)- Ikejiji’s Sky music sheet guide- いけじじSky楽譜解説奏1（奏の音楽堂でもらえる1番目の楽譜）|90px]]
+|- id="Music Sheet HH2"
+|{{Music Sheet|HH2}}
+| Etude No. 2
+| {{Avail Summary | permanent | source={{Icon|Harmony-hall-icon-Ray.png|table|link=Harmony Hall}} }}
+|{{Cost|10 C}}
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="7" | G Major 
+|[[File:Sheet H2(Harmony Hall)- Ikejiji’s Sky music sheet guide- いけじじSky楽譜解説奏２（奏の音楽堂でもらえる2番目の楽譜）|90px]]
+|- id="Music Sheet HH3"
+|{{Music Sheet|HH3}}
+| Etude No. 3
+| {{Avail Summary | permanent | source={{Icon|Harmony-hall-icon-Ray.png|table|link=Harmony Hall}} }}
+|{{Cost|10 C}}
+| 4[[File:Four-point-star-Ray.png|x50px]]
+| 4[[File:Four-point-star-Ray.png|x50px]]
+| 4[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="0" | C Major
+|[[File:Sheet H3(Harmony Hall)- Ikejiji’s Sky music sheet guide- いけじじSky楽譜解説奏３（奏の音楽堂でもらえる3番目の楽譜）|90px]]
+|- id="Music Sheet HH4"
+|{{Music Sheet|HH4}}
+| Etude No. 4
+| {{Avail Summary | permanent | source={{Icon|Harmony-hall-icon-Ray.png|table|link=Harmony Hall}} }}
+|{{Cost|10 C}}
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="0" | C Major
+|[[File:Sheet H4(Harmony Hall)- Ikejiji’s Sky music sheet guide- いけじじSky楽譜解説奏４（奏の音楽堂でもらえる4番目の楽譜）|90px]]
+|- id="Music Sheet E1"
+|{{Music Sheet|E1}}
+| Ode to Joy
+| {{Avail Summary | days | days=Feast | source={{Icon|Days-of-Feast-event-symbol-Ray.png|table|link=Days of Feast}} }}
+|{{Cost|10 C}}
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="2" | D Major
+|[[File:Sky Music Sheet Ode to Joy - Ikejiji’s Sky music sheet guide- いけじじSky楽譜解説 歓喜の歌(old 26, E1, 旧26番 )|90px]]
+|- id="Music Sheet E2"
+|{{Music Sheet|E2}}<ref name="sheet_e2">The icon for Music Sheet E2 was added to the menu during patch {{v|0.17.5.0}}, but the corresponding Music Sheet was not available in game until [[Sky Anniversary]] 2022.</ref>
+| Happy Birthday to You
+| {{Avail Summary | days | days=Sky | source={{Icon|Sky-Anniversary-event-symbol-Ray.png|table|link=Sky Anniversary}} }}
+|{{Cost| 10 H }}
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 1[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="7" | G Major
+|[[File:Sky Happy Birthday Music Sheet Guide ハッピーバースデー楽譜解説いけじじSky楽譜解説 Ikejiji’s- Sheet E2 E2番|90px]]
+|- id="Music Sheet E3"
+|{{Music Sheet|E3}}
+| Days of Love
+| {{Avail Summary | days | days=Love | source={{Icon|Days-of-Love-event-symbol.png|table|link=Days of Love}} }}
+|{{Cost| 15 C}}
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| 2[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="11" | C major
+|[[File:【Sky楽譜合奏】 「愛しみの日々」 2024 (E3) Sky星を紡ぐ子どもたち|90px]]
+|- id="Music Sheet E4"
+|{{Music Sheet|E4}}
+| Dragon Dance
+| {{Avail Summary | days | days=Fortune | source={{Icon|Days-of-Fortune-event-symbol-777-Ed.png|table|link=Days of Fortune}} }}
+|{{Cost| 8 T |event=Fortune}}
+| 4[[File:Four-point-star-Ray.png|x50px]]
+| 4[[File:Four-point-star-Ray.png|x50px]]
+| 3[[File:Four-point-star-Ray.png|x50px]]
+| 4[[File:Four-point-star-Ray.png|x50px]]
+| data-sort-value="11" | B Major
+|[[File:"Dragon Dance" いけじじのSky楽譜解説 来福の日々 Sky星を紡ぐ子どもたち|90px]]
+|}
+
+{| class="article-table" id="Availability Legend"
+|+Availability Legend
+| {{Avail Summary | regular | legend=1 }}
+|-
+| {{Avail Summary | permanent | legend=1 }}
+|-
+| {{Avail Summary | s+ | legend=1 }}
+|-
+| {{Avail Summary | t* | legend=1 }}
+|-
+| {{Avail Summary | d* | legend=1 }}
+|-
+| {{Avail Summary | days | legend=1 }}
+|-
+| {{Avail Summary | season | legend=1 }}
+|}
+
+==Featured Music Sheet==
+<!-- This list of Music Sheets is transcluded from the Harmony Hall article. Any updates should be made on that article; they will then automatically appear here.-->
+{{#section-h:Harmony Hall|Featured Music Sheet}}
+
+==Notes==
+*In Patch {{v|0.15.5}}, the display order of the first five Music Sheets changed so that all Music Sheets would be shown "in the order they were released, starting with [those] from the level constellations." Previously Music Sheets 4 and 5, originally introduced during the [[Winter 2018|Winter Season]] of Sky: Light Awaits, were displayed first.
+<references />
+
+
+[[fr:Partitions]]
+[[zh-hant:樂譜]]
+[[pt-br:Partituras]]
+[[ru:Ноты]]
+[[de:Notenblätter]]
+[[ja:楽譜]]
+
+[[Category:Music]]

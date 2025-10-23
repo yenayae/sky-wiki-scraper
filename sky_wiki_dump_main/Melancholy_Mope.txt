@@ -1,0 +1,118 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = Passage-Melancholy-Mope-Cutout.png
+|cosmetics = {{Spirit Item||Outfit|infobox}}{{Spirit Item||headpiece|infobox}}{{Spirit Item||Hair|infobox}}
+|props	   = 
+|music     = 
+|season    = Passage
+|realm     = Isle of Dawn
+|location  = Passage Stone
+|ts        = None
+}}
+<section begin="Summary" />The '''Melancholy Mope''' is a [[Seasonal Spirit]] from the [[Season of Passage]] who offers the {{Emote|Melancholy Mope|inline_text}} Expression. The Melancholy Mope is found in the [[Isle of Dawn]], hidden behind a tall stone between the [[Passage Stone]] and the main ramp. The collectibles [[#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Melancholy Mope|Outfit|inline_text}},  a {{Spirit Item|Melancholy Mope|headpiece|inline_text}}, and a {{Spirit Item|Melancholy Mope|Hair|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Passage-Melancholy-Mope-Introduction.png|thumb|320px|none|TGC's Promo image]]
+
+==Memory==
+<div>{{#ev:youtube|dj5NMRkGBoo||inline|Video Guide}}
+
+The Melancholy Mope can be found in the [[Isle of Dawn]], hidden behind a tall stone between the [[Passage Stone]] and the main ramp. (''Note: Meditate next to the Passage Stone campfire and turn Isle of Dawn to nightfall in order to see this Spirit.'') This Spirit has a [[Standard Memory|standard memory]] with 9 memory fragments and a 15-minute overall [[Timed Memory|time limit]]. 
+
+As their memory unfolds, the Melancholy Mope can be seen sitting in a field, gazing longingly at the blossoming flowers.  Two other young Spirits invite them to join in chasing a Butterfly, but before Melancholy Mope can refuse, one of the Spirits takes their hand and drags them by force towards the Butterflies. The Melancholy Mope remains reluctant to play, wanting to stay behind, but both Spirits take their hands and force them to climb the hill in search of the Butterflies. The Melancholy Mope spots more flowers nearby and quickly loses interest in the chase. As the other two Spirits continue running ahead, the Melancholy Mope quietly turns back to their initial location.  
+
+At the end of the memory, the oblivious young Spirits chase the Butterfly beneath a moonlit sky as the Melancholy Mope morosely watches them from afar.
+</div>
+
+==<span id="Expression">Expression</span>==
+This Spirit offers the {{Emote|Melancholy Mope|inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name|Melancholy Mope|emote}}|x170px]]
+<gallery heights="125">
+Melancholy-Mope-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Melancholy-Mope-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Melancholy-Mope-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Melancholy-Mope-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar cross their arms across their chest and tilt their head down, looking up occasionally, while sad, quickly descending flute sound effects play. This Expression will temporarily replace your basic walk and can be canceled by jumping or flying up once. When moved, your avatar will start walking slowly with a slumped forward pose, their head bopping up and down and their arms swinging from side to side with the motion. A few sad flute and pizzicato sound effects play with each step your avatar takes.
+*Level 2 makes the same motion as Level 1, with a large white cloud appearing over your avatar's head, pouring big, glowing, blue light particles over them, while additional rain sound effects play. If the avatar stops walking, the cloud will disappear but reappear as soon as they start moving again.
+*Level 3 will make your avatar drop their shoulders and hands down apathetically, while occasionally looking left and right. This Expression will temporarily replace your basic walk and can be canceled by jumping or flying up once. When moved, your avatar will start walking with their shoulders and arms dropped but their head held up, and their legs lifted up with each step, which happens at a faster pace than in Level 1. A few sad flute and pizzicato sound effects play with each step your avatar takes, the same as in Level 1.
+*Level 4 makes the same motion as Level 3, with a cloud of white sparkles appearing on the ground around your avatar's feet with each step they take, while additional water splashing sound effects play. If the avatar stops walking, the sparkles will disappear but reappear as soon as they start moving again.
+
+<!--As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.-->
+
+==Cosmetics==
+===<span id="outfit">Outfit</span>===
+The [[Outfit]] offered by this Spirit includes a dark-beige, long-sleeved underdress with a long, light-yellow vest on top, tied just under the chest with a broad, magenta belt whose end hand down the front and are decorated with a beige emblem, as well as dark-purple pants, high, magenta boots with a turned over cuff and decorated with a lighter string, and magenta wrist wraps with the same string as found on the boots. It was available to all players during the Season from the Friendship Tree's fifth node ({{Cost|78 SC|season=Passage}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Outfit|icon}} {{!}} The Outfit icon
+{{Icon Name||Outfit|real}} {{!}} The Outfit front
+{{Icon Name||Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="hair accessory">Head Accessory</span>===
+The [[Head Accessory]] <ref name="Face Accessory recategorized">This item was recategorized from a [[Hair Accessory]] to a [[Face Accessory]] as a result of the [[Outfit Shrine|Closet]] category expansion in Patch {{v|0.22.0}}. It became a [[Head Accessory]] after the split of the [[Face Accessory]] category in Patch {{v|0.27.0|0.27.0}}.</ref> offered by this Spirit is a pair of brown, tusk-shaped ear pendants. It was available to all players during the Season from the Friendship Tree's second node ({{Cost|6 SC|season=Passage}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||headpiece|icon}} {{!}} The Head Accessory icon
+{{Icon Name||headpiece|real}} {{!}} The Head Accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="hair">Hair</span>===
+The [[Hair]] offered by this Spirit is a shaggy style, with side-swept bangs that end just over the eyes, shorter hair in the front and sides, and longer hair in the back. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's third node ({{Cost|24 SC|season=Passage}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Traveling Spirit==
+{{Friendship Tree Info | traveling}}
+<!--<section begin='TS Friendship Tree' />
+{{Friendship Tree
+
+|nodeC6 = Outfit ? C
+|nodeC2 = spell5
+
+=== Hints ====
+The hints given before the {{PAGENAME}}'s appearance were:
+-->
+==Season Friendship Tree==
+{{Friendship Tree Info | season| season=Passage}} <section begin="Season Friendship Tree" />
+{{Friendship Tree
+|spirit = Melancholy Mope
+|image  = Passage-Melancholy-Mope-Cutout.png
+|type   = season
+|season = Passage
+
+|nodeC6 = season_heart 3 SC SP
+|nodeL5 = spellx SP
+|nodeC5 = outfit 28 SC
+|nodeL4 = emote4 SP
+|nodeC4 = emote3 26 SC
+|nodeL3 = hair SP
+|nodeC3 = spellx 18 SC
+|nodeL2 = spellx
+|nodeC2 = headpiece 6 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Personality==
+On April 14, 2023, TGC officially announced and introduced the Melancholy Mope with the following personality traits:
+
+* 😶 Reacts epically when forced to eat food they don't like
+* 🚶 Once walked home for 2 hours over disagreement on a game's rules
+* ✍️ Writes mountains of poetry but won’t show it to anyone
+* ⏰ Ends up late to things even when they try to leave early
+
+==References==
+<references />
+[[fr:Mélancolie morose]]
+[[pt-br:Jeca Jururu]]
+[[ru:Меланхолик]]

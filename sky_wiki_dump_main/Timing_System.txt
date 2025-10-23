@@ -1,0 +1,189 @@
+Events in Sky are controlled by the server side clock. The server's clock is set to the time zone of TGC headquarters<ref>The Mainland China version of Sky ([https://sky.163.com/ Sky 光·遇]), published by NetEase, has a different server time zone. It is on the time zone of China Standard Time (UTC+8) year-round.</ref> in California, USA (Pacific Time), or <code>America/Los_Angeles</code> in the tz database. Thus, the relationship between time in Sky and time in the real-world can be established as:
+::<big>'''"Sky Time"''' ≡ Local Time in TGC's headquarters ≡ Pacific Time ≡ '''Time in <code>America/Los_Angeles</code>'''</big>
+Visit [https://time.gov/?t=24 time.gov]<ref>For your convenience only. Subject to NIST Terms and [https://www.nist.gov/oism/site-privacy Privacy Policies]. This Wiki does not endorse or imply the accuracy or reliability of the link or service. ([https://www.nist.gov/pml/time-and-frequency-division/about-timegov About Time.gov]) </ref> for accurate current time in Pacific Time Zone (on the west coast in the area colored <span style="color:#F2682B">'''vermilion'''</span> on the map). TGC is located in California, abbreviation “CA”. Time.gov will show correct time (±1 sec under normal network conditions) even if your device's clock is inaccurate.  
+
+== Daylight Saving Time ==
+Just like in the real world, Sky also observes Daylight Saving Time during parts of the year, during which the local time is advanced by one hour. DST starts on the second Sunday of March (the Sunday between March 8 to 14) at 02:00 PST (10:00 UTC), and ends on the first Sunday in November (the Sunday between November 1 to 7) at 02:00 PDT (09:00 UTC). The details of the clock change are shown below:
+{| class="fandom-table"
+!<big>UTC</big>
+!Pacific Time
+(Sky Time)
+!Offset from UTC
+(Sky Time)
+!Time Zone Abbreviation
+(PST/PDT)
+|-
+|2024-03-10 09:59:59
+|2024-03-10 01:59:59
+|UTC-08:00
+|P'''<u>S</u>'''T
+|-
+|2024-03-10 10:00:00
+|2024-03-10 03:00:00
+|UTC-07:00
+|P'''<u>D</u>'''T
+|-
+|2024-03-10 10:00:01
+|2024-03-10 03:00:01
+|UTC-07:00
+|P'''<u>D</u>'''T
+|-
+! colspan="4" |⋯⋯
+|-
+|2024-11-03 08:59:59
+|2024-11-03 01:59:59
+|UTC-07:00
+|P'''<u>D</u>'''T
+|-
+|2024-11-03 09:00:00
+|2024-11-03 01:00:00
+|UTC-08:00
+|P'''<u>S</u>'''T
+|-
+|2024-11-03 09:00:01
+|2024-11-03 01:00:01
+|UTC-08:00
+|P'''<u>S</u>'''T
+|}
+
+=== Effects of Daylight Saving Time ===
+If you are in the contiguous United States or Canada (except Hawaii and most of Arizona), Daylight Saving Time should not have a noticeable effect most of the time, as DST begins and ends on the same day in your location and in Sky (only a few hours apart in the night). In the rest of the world, events in Sky will shift one or two hours earlier in July than in January. If your location does not observe DST, then during DST in Sky, you will find that events happen one hour earlier than in the winter. If you are in a southern hemisphere country that observes DST in December/January, you would find that the events in Sky are 2 hours earlier in July than in January. 
+
+For example, the Daily Reset at midnight New Year's Day (Sky time) is 08:00 UTC on January 1, which is 21:00 NZDT in New Zealand. On April 1 (after DST started in Sky but has not ended in New Zealand), the midnight Daily Reset will happen at 07:00 UTC, which is 20:00 NZDT. Later, on July 1, the daily reset will happen at 07:00 UTC / 19:00 NZST.
+
+If the net result is that the time in Sky shifted one hour relative to your local time, then bi-hourly Social Light Events will happen on odd-numbered hours if it happened on even-numbered hours for you before the change, and vice versa.
+
+Besides these, DST will have some effects on the two days in the year when the time changes between DST and Standard Time.
+
+=== Effects on DST Transition Day ===
+On the day of the beginning of DST (in March), there are only 23 hours in a Sky day. Contrarily, on the day when DST ends, there are 25 hours in that day in Sky, which means:
+
+* Any event that is timed referring to a specific date or time of day ("clock" or "calendar" time) are delayed, advanced, shortened, or lengthened by one hour. Any event that refers to a time period ("timer" or "stopwatch" time), rather than a specific time of day, are not affected.
+* You can have 25 hours or only 23 hours to collect [[Pieces of Light|Light]] or complete the [[Daily Quests]].
+* [[Treasure Candles]] can have weird behavior on the day of DST change:
+** In March 2022, the Treasure Candles for Sunday March 13 was spawned at 00:00 PST on March 13 (08:00 UTC on Sunday). Two hours later DST become active and the time in Sky skips ahead one hour from 01:59:59 (09:59:59 UTC) to 03:00:00 (10:00:00 UTC). The Treasure candles for Sunday stayed for 24 hours despite there were only 23 hours in that day in Sky. At 00:00 PDT (07:00 UTC) on Monday (23 hours after last reset), the Treasure Candles for Monday were spawned in the next area, while the Treasure Candles for Sunday stayed for an "additional" hour until 01:00 PDT on Monday. From 00:00 to 01:00 PDT (07:00 to 08:00 UTC) on Monday, Treasure Candles from two days were present simultaneously.
+* [[Traveling Spirits]] that come on the weekend of DST change will stay for 95 or 97 hours.
+* [[Additional Light Sources|Social Light Events]], which always happen on even-numbered hours, will be skipped at the beginning of DST when the time skipped the hour of 02:00-02:59. It will NOT be made up in November as the repeated hour will be 01:00 to 01:59, an odd-numbered hour.
+* Although not verified, [[Spells]] with a timer may exhibit undesired behavior when the time period of the Spell crosses the DST change. If you don't want to waste your Spells due to any glitches or unexpected behavior that may happen, avoid using Spells with a timer when the duration of the Spell will cross 02:00 on the day of the DST change.
+
+== Schedule of Events in Sky ==
+There are many events in Sky that are controlled by the server clock. As mentioned above, the server clock is set to USA Pacific Time. All times listed below are in Pacific Time.
+
+=== Daily ===
+* 00:00 (Midnight)
+** [[Treasure Candles]] reset, moves to the next [[Realm]] in the cycle
+** [[Daily Light]] refreshes. All Pieces of Light from Candles and Darkness Plants are reset and can be collected again, and the rate of forging Candles are reset to default (three chevrons). 
+*** However, the "Daily Light Refreshed" notification will not be displayed until you collect some Wax or other sources of Light. 
+** [[Quests]] reset.
+*** Quests from the previous day are due by midnight. You must submit the Quest at the Return Shrine in [[Home]] or [[Aviary Village]] to receive the rewards of regular or Seasonal Candles — simply completing the Quests won't automatically grant you the rewards.
+*** You must activate the Quests after midnight before going to complete them. Tasks completed before the activation of the Quests are not counted towards the completion of the Quest.
+** Spirits in the [[Secret Area]] changes. 
+** Anything that refers to a specific date (without a specific time) starts or ends.
+*** [[Seasons]] starts or ends.
+*** Traveling Spirits arrive or depart.
+*** [[Special Events]] start or end.
+** Friends: The [[Constellation Table#Send or Collect Gifts of Light|Gifts of Light]] and [[Friendship Menu#Heart Gift|Heart Gifts]] are reset. You can send another Gift of Light or a Heart to the same friend (if your friend has already collected the previous one you sent).
+* 05:00 and 17:00: 
+** A rainbow appears in [[Forest's Brook]].
+* 12:00 (Noon)
+** Some events that require manual activation by the TGC team will start and end at approximately 12:00, which is during TGC's business hours.
+
+=== Weekly ===
+* Sunday 00:00
+** [[Eye of Eden]] resets (will not happen if player is already past the Point of No Return, or in Storm Lock). The Statues in the Eye of Eden are reset so that players can make another trip to Eden and gift [[Winged Light|Winged Lights]] to the Statues. A player can only gift Winged Light to a statue only once between resets. If you entered the No-Return Area of Eden and not having enough Statues left, you will be forced to give up all your Winged Lights in the stone rain — the reset will never happen as long as you are still in Storm Lock. It will happen immediately after you complete your current trip to Eden.
+* Monday 00:00
+** [[Traveling Spirits]], if any, will depart at this time. 
+** The Featured Music Sheet from [[Harmony Hall]] in the [[Valley of Triumph]] changes.
+* Thursday 00:00
+** Traveling Spirits, if any, will arrive at this time.
+
+=== Hourly/Bi-hourly ===
+The following events happen multiple times a day, even hourly or several times an hour. For some of the times listed here, the variable "n" is used, which should be interpreted as an arbitrary integer (n≥0, e.g. 2n = 0, 2,4, 6, …), multiplied by the number before. The variable "x" is a placeholder, which holds a number place that can be any digit from 0 to 9 (e.g. 2x = 21, 22, 23, …; x3 = 03, 13, 23, …)
+
+* Bell Chimes in [[Home]]: xx:15n
+** Long Chimes with hourly bell tolls: xx:00
+** The chime sequence begins at the time indicated, not shortly before. The musical "prelude" for the hourly chime begins on the hour. That means, if you hear/see the chimes, the actual time indicated has already passed. You will not hear/see anything before the actual moment. 
+* [[Additional Light Sources#Grandma's Dinner Event|Grandma's Dinner]] in Hidden Forest: 2n:30 to 2n:45
+* [[Additional Light Sources#Polluted Geyser|Geyser]] in Sanctuary Islands, Daylight Prairie: 2n:00
+* [[Additional Light Sources#Sunset Sanctuary Turtle|Turtle]] in Sanctuary Islands, Daylight Prairie: 2n:50
+
+=== Device Clock ===
+There are only two things in Sky that are controlled by the player's device clock (instead of the server's clock):
+
+* The lighting and appearance of [[Home]]. This changes according to the player's device clock and time zone, so that the day/night in Home approximately matches the real-world day/night at the user's physical location.
+* The time shown when opening the [[Gear Menu|Settings menu]] from the top-right corner. There is a delay of about one second from the actual device clock. 
+
+== In-Game Clocks ==
+There are two in-game clocks can be found in the Kingdom of Sky, located in Daylight Prairie and Hidden Forest. '''It is a common myth''' that these clocks indicate the current time, and/or that the corresponding events happen when the two dots are aligned. Careful observation at different times of day has refuted this. The truth is that these clocks are static and indicate the schedule rather than providing a "countdown," telling the player when to come back for a surprise.<br>
+<br>
+[[File:Daylight Prairie clock 20-27 PST.jpg|thumb|Clock in Daylight Prairie at 20:27 PST]]
+The one in Daylight Prairie is located on the middle island in the [[Prairie Villages|Villages]] area. This island is the closest to the Prairie Temple island and features two piers. At the end of the pier on the right side, closest to the two-player door containing the [[Slumbering Shipwright]], sits a tall stone. This stone with two dots and a round "disk" is the clock, with the dot representing the hour hand aligned at the 12 o'clock position.
+
+While it is often thought that this clock corresponds with the appearance of the Fairy Ring which occurs at xx:50 (where xx is the hour) and lasts for 10 minutes, '''that is also a myth'''. The event tied to this clock is no longer functional and now simply remains as a remanent from the [[Sky: Light Awaits#Plains of Day|pre-launch version]] of the game. As indicated by the clock, at 12 o'clock PDT/PST (both AM and PM) a boat with chat benches would appear at the dock and begin circling around Villages when activated. Although the boat has since been removed, an [[Out of Bounds#The Invisible Boat|invisible version]] of it can still be found - and activated - by exploring Out of Bounds.<br>
+<br>
+[[File:Hidden Forest clock 1.jpg|thumb|Clock in Hidden Forest at 21:32 PST]]
+The other clock is located in [[Forest's Brook]], on the elevated hill to the right of the area's entrance when arriving from the [[Forest Clearing]]. Near the stone gazebo housing a [[Message Shrines#Hidden Forest|Message Shrine]] is a tree with [[Flora, Minerals and Elements of Sky#Light Bloom|Light Blooms]] growing on it that allows the player to ascend to another gazebo containing a [[Children of Light#Brook (4)|Child of Light]]. To the right of this tree are some elevated hills where a sheltered campfire can be found. Further down from this campfire is a tall stone surrounded by small [[Darkness|Darkness Plants]] at the base of a tree. This stone with two dots and a round "disk" is the clock, with the dot representing the hour hand aligned at the 5 o'clock position.
+
+As indicated by the clock, at 5 o'clock PDT/PST (both AM and PM) a rainbow appears for 30 minutes, stretching across the right side of Forest's Brook. Be aware of your Cape Energy when investigating the clock as it is exposed to the [[Flora, Minerals and Elements of Sky#Rain|rain]]. Return to the nearby campfire for a speedy recharge to avoid being extinguished and lose your [[Winged Light]].
+
+== Precision Timing and Synchronization ==
+The clock on the servers of Sky, just like the vast majority of servers on the Internet, are synchronized to NIST standard time with great precision (server's own clock uncertainties are negligible compared to network and processing latencies). However, network delays can cause the events in Sky (such as the Home chimes and the daily reset) to appear up to 1 to 2 seconds late when viewed from the player's side. Similarly, the servers view the actions of players to be 1 to 2 seconds late for the same reason. (Sky does not display a network latency or “ping” under regular settings) Plus, your device clock, even with automatic/network time enabled, is usually not as precise as the server's clock and can be off by several seconds. 
+
+If you need precise timing in Sky (such as completing a Quest/interacting with Traveling Spirits at the very last moments), then please keep the following in mind:
+
+* Try to complete any tasks at least 5 to 10 seconds before their "deadline." 
+* If you are waiting for the reset to make another trip through the [[Eye of Eden]], DO NOT cross the Point of No Return UNTIL you see "Daily Light Refreshed" notification or hear the bell chimes in Home.
+** Be sure to verify that it is on '''Sunday after''' '''00:00 PT''' e.g. by checking [https://time.gov/?t=24 time.gov]. Bell chimes in Home sounds the same (10 tolls) for 22:00, 23:00, and midnight.
+* The Home chimes, the [[Treasure Candles]] (along with the two small red candles on the side of the Home portal), and the [[Daily Quests]] changeover all provide clear indication of time in the kingdom of Sky.
+** However, do not use any of these as a reference for any real-world timing. These are far less accurate than other method of obtaining time, such as [https://Time.gov/?t=24 time.gov]. Though, you can use a real-world clock to time events in Sky.
+** These does not provide any "countdown" or cues before the moment in question: If you see it, it has already happened.
+
+== Timers in Sky ==
+Many events are controlled by the time elapsed since a certain event, rather than the date or time of day ("countdown timer/stopwatch time" rather than "clock time") Here is an incomplete list of these events, particularly those that affects game progress rather than just aesthetic/non-functional.
+
+=== Damage ===
+* Lost [[Winged Light|Winged Lights]] disappear: '''0 seconds''' (instantly) in [[Flora, Minerals and Elements of Sky#Polluted Water|polluted water]] and the second section of the [[Eye of Eden]], '''20 seconds''' otherwise.
+* Rain (in [[Hidden Forest]]): '''11 seconds''' per wedge of Wing Power, regardless of area and rain intensity.
+* Polluted Water: '''9.57 seconds''' per wedge of Wing Power.
+* [[Dark Dragons]]: '''Maximum of 7 seconds''' before attack since searchlight turns red.
+* Diving:
+** '''15 seconds''' (Green arc) with the Oxygen Mask (from the [[Season of Abyss]]) before starting to use character's 60-second blue arc.
+** '''60 seconds''' of the blue air arc below the Cape meter. 
+** '''60 additional seconds''' before losing first Winged Light. (Maximum 135 seconds underwater before losing a Winged Light)
+*** Note: Character will enter idle/snooze mode if no movement for 120 seconds, thus no WL lost if wearing mask & no movement since start of dive.
+** '''60 seconds''' before losing each subsequent Winged Light. 
+** All timers instantly reset when returned to the surface.
+
+=== Trial of Water ===
+The tides have a period of '''12 seconds''', following a sine-wave pattern. The highest tide and the lowest tide are 6 seconds apart.
+
+=== Trial of Fire ===
+The character will be teleported to the last checkpoint after '''4.5 seconds''' in the darkness. The cycle period of Dark Worms varies, as they have different path lengths but similar speeds. 
+
+=== Eden ===
+The interval between each wave of rock rain is '''16 seconds'''.
+
+== Leap Seconds ==
+Leap seconds can occur on either June 30 or December 31, at the last second of the day in UTC. It can be either positive or negative. A positive leap second adds 23:59:60 into UTC, and a negative leap second skips 23:59:59. All leap seconds in history so far has been positive leap seconds.
+
+Since the game server's clock is set to Pacific Time (UTC-7/-8), the leap second will occur in the afternoon of Pacific Time at either 17:00 PDT on June 30, or 16:00 PST on December 31. Neither are important times in Sky. Most likely, the leap second will come and go unnoticed, just like in real-world daily life. However, the following in-game elements may be affected by leap seconds. They may be delayed or advanced, or even skipped altogether due to bugs or glitches.
+
+* The Geyser in Sanctuary Islands (16:00, also every even hour on the hour).
+* The Rainbow in Hidden Forest (17:00, also 05:00).
+* The Home bell chimes (every hour on the hour)
+
+Spells with a timer may also be affected by leap seconds. For example, the Dark Dragon Repellent Spell (60 seconds) may last 59 or 61 seconds when its active period crosses the leap second. To avoid any potential problems or undesired behaviors, avoid using a Spell with timer when the timer crosses an upcoming leap second. 
+
+If Sky's servers uses something similar to Google's “leap-smear”, players may notice that the time of in-game events be off by up to 1 second during the entire day before and after a leap second. But it is unclear how Sky's servers handle leap seconds and whether use “leap-smear” or similar is used. 
+
+However, the Kingdom of Sky runs on real-world servers and IT systems, which are not immune to bugs and glitches. A leap second, if not handled correctly, may cause unknown problems or outages of Sky servers.
+
+The most recent leap second occurred on 2016-12-31 at 23:59:60 UTC (15:59:60 PST), and there will be no leap second in or before June 2024. Leap seconds further in the future can't be surely predicted by now, as it depends on actual observations of Earth's rotation, and IERS announce them only up to 6 months in advance. There has been NO leap seconds since the very first external Alpha/Beta testing of Sky in late 2017. So, no one except maybe TGC developers has actually witnessed a leap second in action in the game.
+
+==References==
+<references/>
+
+[[fr:Système de chronométrage]]
+[[pt-br:Sistema de Tempo]]
+[[ru:Время]]
+[[Category:Dynamic Content]]

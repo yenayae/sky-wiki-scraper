@@ -1,0 +1,76 @@
+{{Spirit Infobox
+|type      = Regular
+|emote_type= Call
+|image     = <gallery>
+Forest-Spirit-Whale-Whisperer.png|Standard
+Forest-Spirit-Whale-Whisperer-Gold.png|Ascended
+</gallery>
+|music     = {{Music Sheet|2}}
+|realm     = Hidden Forest
+|location  = Forest Boneyard
+}}
+<section begin="Summary" />The '''Whale Whisperer''' is a [[Regular Spirit]] in [[Hidden Forest]] who offers the {{Emote|Whale Whisperer|inline_text}}. The Whale Whisperer is found in the [[Boneyard]], at the large [[Whales|Whale]] skeleton found to the left of the broken bridges, by the ruins of a building. The only collectible [[Whale Whisperer#Friendship Tree|offered]] by this Spirit is {{Music Sheet|2|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Whale-Whisperer-Guide-777-Ed.png|320x320px|thumb|none|Image Guide by 777.Ed]]
+
+== Memory ==
+<div>{{#ev:youtube|https://www.youtube.com/watch?v=5DNs9K-zeeI|||Video Guide by Tara||start=1108&end=1132&loop=1}}
+<br>
+The Whale Whisperer can be found in the [[Boneyard]], at the large [[Whales|Whale]] skeleton found to the left of the broken bridges, by the ruins of a building. This Spirit does not have a conventional [[Spirit Memories|memory]] quest; there is no kneeling figure that needs to be lit up.
+
+Instead, the Spirit is triggered once all the [[Darkness|Darkness Plants]] covering the skeletal remains have been burned away. As it is exposed to the [[Flora,_Minerals_and_Elements_of_Sky#Rain|rain]], take care not to run out of light while burning the Darkness. All players in the area are then automatically granted the [[#Call|Whale Call]].<br>
+<br>
+[[File:02 HF Spirit - Whale Whisperer.png|200px|thumb|none|Relive the Whale Whisperer's memory]]
+</div>
+{{Clear}}
+
+==<span id="Expression">Call</span>==
+The Whale Whisperer does not offer an [[Expression]], but instead offers a [[Call]]. The {{Emote||inline_text}} modifies the player's voice to a gentle honk.<br>
+<br>
+[[File:{{Icon Name||emote}}|x170px|left]]
+[[File:Whale-Whisperer-whale-call-emote.mp4|300px]]
+{{Clear}}
+
+==Music Sheet==
+The Whale Whisperer offers the {{Music Sheet|2}} [[Music Sheet]] #2, costing {{Cost|2 H}}. It is permanently available after unlocking the Spirit's [[Wing Buff]] and the Friendship Tree's fourth node. It is a song in the key of C Major.
+
+Prior to Patch {{v|0.15.5}}, this was identified as Music Sheet #4. The pre-0.15.5 Music Sheet #2 is now labeled Music Sheet #5.<br>
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guides
+|content=
+{{#ev:youtube|32KroRdxxsk||inline|Music Sheet Video Guide by Jane Sky}}
+{{#ev:youtube|Ustkdc6I85I||inline|Music Sheet Video Guide by CactusFlowerSky}}
+}}
+{{Clear}}
+
+== Friendship Tree==
+{{Friendship Tree Info | regular}}
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Whale Whisperer
+|image  = Forest-Spirit-Whale-Whisperer.png
+
+|nodeC5 = music2 2 H
+|nodeC4 = spell5
+|nodeC3 = wing 1 AC
+|nodeL2 = heart
+|nodeC2 = spell1
+|nodeC1 = emote
+}}<section end="Friendship Tree" />
+
+==Unique Daily Quests==
+{{#section-h:Quests/Daily Quest Spirits|{{PAGENAME}}}}
+
+==Trivia==
+*[[Darkness|Darkness Plants]] covering the two ground entrances to the [[Tearful Light Miner]]'s cave, Darkness Plants on the [[Whale Whisperer]] covering the skeleton of the [[Boneyard]], and in the Rejecting Voyager's cave Darkness Plants in [[Isle of Dawn]] are Darknesses that cannot be burned by players with not enough [[Winged Lights]]. If a player try to burn Darkness Plants with less than 3 wedges for Whale Whisperer, less than 2 for Rejecting Voyager, and less than 1 for Tearful Light Miner, will receive a message that says, "You need more {{Icon|Four-point-star-Ray.png|link=}} to melt this."
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Emote Loc-Whale call.png
+</gallery>
+
+[[de:Walsprecher]]
+[[fr:Orateur de baleines]]
+[[pt-br:Comunicador de Baleias]]
+[[ja:鯨の語り部]]

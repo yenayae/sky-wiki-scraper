@@ -1,0 +1,180 @@
+SOP = Standard Operating Procedure
+
+==SOP for Seasons==
+===Drafting Beta Season===
+* [[Sky Beta/Season Draft]]
+** Use the [[Sky_Children_of_the_Light_Wiki:Boilerplate_for_Seasons|Boilerplate for Seasons]] to create this draft
+*** Draft the Season's page contents, individual Seasonal Spirit pages and if applicable, area subpage
+* [[Module:Seasons/data]]
+** Add new Season's data using the guide at the bottom of the page
+* [[Module:Spirits/data]]
+** Add new Season's spirits using the guide at the bottom of the page
+
+===Upcoming Season===
+* Season of {SEASON}
+** Create and use below boilerplate until [[Sky_Beta/Season_Draft|contents]] can be put out once season is fully released
+<pre> 
+{{Season
+| title = Season of SKYSEASON
+| image = SoSKYSEASON-Promo-image-wide.png
+| start = January 1, 2023
+| end = January 1, 2023
+| spirits = 
+| previousSeason = [[Season of OLDSEASON]]
+| nextSeason = TBA
+| constellation = 
+| symbol = 
+}}
+The '''Season of SKYSEASON''' is the xxx seasonal event in the live version of Sky since the global release, following [[Season of OLDSEASON]]. It begins '''at  January 1, 2023 at 00:00 PST (UTC -7)''' and ends on '''23:59 January 1, 2023 PDT (UTC -7)''' lasting '''yy''' days. 
+
+~~COPY AND PASTE ONE SENTENCE COPYWRITING FROM SEASON BLOG~~
+----
+<big>'''No other information will be added to the Season of SKYSEASON until it's live.  Thank you for your patience.'''</big>
+https://www.thatskygame.com/news/........
+
+{{Clear}}
+{{Seasonal Navbox}}
+</pre>
+
+* Season of {OLDSEASON}
+** Update previous Season's mentions of 'TBA Next season'
+
+* [[Seasonal Events#Overview of Seasonal Events]]
+** Update table using below
+<pre>|- style="font-style:italic;"
+| style="text-align:center;" |{{Season Icon|NEW SEASON|table}}
+| [[NEW SEASON]]
+| START DATE - END DATE, YEAR
+| COMMENT ABOUT SOMETHING SPECIAL WITH NEW SEASON</pre>
+
+* [[Template:Seasonal_Navbox]] 
+** Add new season in "Upcoming/Current" and move previous season to "Previous" (make sure to use the • divider)
+<pre>''{{Season Icon|NEW SEASON|inline_text|label=NEW SEASON}}''</pre>
+* [[Module:Game Stat/data]]
+** Update name of Season, start date of season and end date of season
+<pre>
+	season = 'SKYSEASON',
+	season_start = 'January 1 2023 PDT',
+	season_end = 'January 1 2023 PDT',
+</pre>
+
+* [[Timeline]] - Add new season and TBAs for Traveling Spirits
+<pre>== [[NEW SEASON]] Begins (START DATE, YEAR) ==
+* (MON DD - MON DD) Traveling Spirit - TBA
+* (MON DD - MON DD) Traveling Spirit - TBA
+* (MON DD - MON DD) Traveling Spirit - TBA</pre>
+
+<big> Contact an Admin to edit these pages: </big>
+* [[Sky: Children of the Light Wiki‎]]
+**Update Event block for upcoming season
+* [[MediaWiki:Wiki-navigation]]
+** Add navigation towards the [[Season of SKYSEASON]] with 'Upcoming:' before it
+
+===Released Season===
+* Season of {SEASON}
+** Update the new Season's page using [[Sky Beta/Season Draft|Season Draft in the Beta page]]. '''Ensure to remove unreleased content, such as quests'''
+
+* Create new Season's spirit & Season Guide's pages 
+** Create the new Season's spirits using  [[Sky Beta/Season Draft|Season Draft in the Beta page]] in the Spirit subheadings
+
+<big> IF new season has a new area: </big>
+* Add new area in related Realms page
+** Use [[Sky_Beta/Season_Draft]] to copy and paste information
+* [[Template:RealmsNav]]
+** Add new area with icon
+* [[Map Shrines]]
+
+<big> Pages that likely need to updated: </big>
+* [[Winged Light]]
+* [[Outfit Shrine]]
+* [[Premium Candle Shop]]
+* [[Candle Farming]]
+
+<big> Pages that may need updating: </big>
+* [[Cosmetics]]
+* [[Creatures]]
+* [[Additional Light Sources]]
+* [[Shared Space]]
+<big> Pages that are fairly tedious to update: </big>
+* [[Seasonal Events/Calculator]] & [[MediaWiki:SkySeasonCandleCalculator.js]]
+** Update the calculator with the new Season
+<pre>|SEASON_NAME   	= NEW SEASON
+|SEASON_START  	= START DATE, YEAR 00:00:00 PDT/PST
+|SEASON_END    	= END DATE, YEAR 23:59:59 PDT/PST
+|NEED_NO_PASS  	= AMOUNT OF SC NEEDED TO GET ALL COSMETICS ONLY WITHOUT THE SEASON PASS (IGNORE NONESSENTIAL BLESSINGS)
+|NEED_WITH_PASS	= AMOUNT OF SC NEEDED TO GET ALL COSMETICS WITH THE SEASON PASS
+|SKIPPABLE_MESSAGE = (There are # skippable blessings.)
+|DOUBLE_EVENT  	= false
+|DOUBLE_START  	= March 6, 2023 00:00:00 PST
+|DOUBLE_END    	= March 12, 2023 23:59:59 PST
+|DOUBLE_2_EVENT	= false
+|DOUBLE_2_START	= September 12, 2022 00:00:00 PDT
+|DOUBLE_2_END  	= September 26, 2022 23:59:59 PDT</pre>
+* [[The Rock]]
+** Add new entry from Patch Notes from https://thatgamecompany.helpshift.com/hc/en/ 
+* [[Traveling Spirits]]
+** Update "Thus, Spirits from the Season of [Previous] will not appear until Season of [Current] is over."
+* [[Spirit Visits]]
+** Update the tables "First Appearance Statistics" and "Visits by Season"
+<pre>|-
+|NEW SEASON||START DATE, YEAR||No returning spirit yet||No returning spirit yet||No reoccurrence yet||No reoccurrence yet</pre>
+* Add all the previous season's spirits under "The Spirits"
+<pre>|-
+|data-sort-value="SEASON #"|{{Season Icon|PREV SEASON|table}}||[[PREV SPIRITS]]||{{Spirit|PREV SPIRITS|table}}||0
+|data-sort-value="0"|
+|data-sort-value="ENDMON DAY, YEAR"|''ENDMON DAY, YEAR''
+|data-sort-value="-1"|</pre>
+* [[Currency]] 
+** Update "Hearts Sold by Season Guides" table
+<pre>|[[NEW SEASON'S GUIDE]]||#|| [[LOCATION]]||[[NEW SEASON]]</pre>
+* [[Seasonal Spirits]]
+* [[Ancestors]]
+* [[Message of the Day]]
+* [[Opening Quotes]]
+* [[Opening Quotes/Translations]]
+----
+==SOP for a New Event==
+* ☐ Event page -
+* ☐ Home page -
+* ☐ MediaWiki:Wiki-navigation -
+
+==SOP for a New Double Currency Event==
+* ☐ 
+* ☐ 
+* ☐ 
+* ☐ 
+
+==SOP for a New TS==
+* ☐ 
+* ☐ 
+* ☐ 
+* ☐ 
+
+==SOP for a New Patch==
+NOTE: For patches with the same number, differentiate them when making links by adding the additional Switch/Android/Huawei/iOS and build number in the parenthesis.
+
+* ☐ Create a new page following the format: <code>Update:Live 0.xx.xx (xxxx)</code>
+* ☐ Begin the page with: <code>'''Released:''' Month Day, Year</code>
+* ☐ Followed with: 
+<pre>{{Updates
+  | title=
+  | previousupdate=
+  | nextupdate=
+}}</pre>
+* ☐ For Patches, format the information with headers
+* ☐ For Hot Fixes, add <code>==Hot Fix Notes==</code> to the start
+* ☐ Finish the page with:
+<pre>{{PatchNav}}
+[[Category:Patch Notes/Live]]</pre>
+* ☐ [[Module:Version History/data]] - Add the new patch using the following format:
+<pre>live_!0.xx.x = {
+	-- 	id   = "0.xx.x",
+	-- 	link = "Update:Live 0.xx.x (.......)",
+	-- },</pre>
+* ☐ [[Version History]] - Add new patch using the following format:
+<pre>==<span id="0.xx.xx">0.xx.xx - Month Day, Year</span>==
+This was a hotfix for ...
+This update contains ...
+[[Update:Live 0.xx.xx (xxxx)|Read the full patch notes here.]]</pre>
+* ☐ Open previous patch's page and add the new patch link under the Updates Template in the "nextupdate" parameter
+* ☐ [[Template:PatchNav]] - Add the new patch link. Each section is in reverse order. If the middle number increases, create a new row for the patch.

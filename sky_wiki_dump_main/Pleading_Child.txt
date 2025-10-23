@@ -1,0 +1,159 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Remembrance-Spirit-Pleading-Child.png|Standard
+Remembrance-Spirit-Pleading-Child-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Outfit|infobox}}{{Spirit Item||Footwear|infobox}}{{Spirit Item||Neckpiece|infobox}}{{Spirit Item||Hair|infobox}}
+|props	   = 
+|music     = 
+|season    = Remembrance
+|realm     = Vault of Knowledge
+|location  = Repository of Refuge
+|ts        = January 13, 2025 (SV#7)
+}}
+<section begin="Summary" />The '''Pleading Child''' is a [[Seasonal Spirit]] from the [[Season of Remembrance]] who offers the {{Emote|Pleading Child|inline_text}} Expression. The Pleading Child is found in the [[Repository of Refuge]], on the player's right upon entering, at the very top of the area on the perimeter after flying through the opening in the ceiling. The collectibles [[#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Pleading Child|Outfit|inline_text}}, {{Spirit Item|Pleading Child|Footwear|inline_text}}, a {{Spirit Item|Pleading Child|Neckpiece|inline_text}}, and a {{Spirit Item|Pleading Child|Hair|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:SoRemembrance-Pleading-Child-TGC-Promo-image.jpg|thumb|320px|none|TGC's Promo image]]
+
+==Memory==
+<div>{{#ev:youtube|78M5OvlyGBE||inline|Video Guide}}
+
+The Pleading Child is found in the [[Repository of Refuge]], on the player's right upon entering, at the very top of the area on the perimeter after flying through the opening in the ceiling. This Spirit has a [[Standard Memory|standard memory]] with 5 memory fragments and a 15-minute overall [[Timed Memory|time limit]].<br>
+<br>
+As their memory unfolds, the Pleading Child goes out to play with another taller Spirit, presuembly their friend or guardian, which carries a square-shaped portable table on their back. The two Spirit settle down on the ground and begin playing with their plush toys over the table, the Pleading Child with a Crab plush, and the other Spirit with a Manta one. Suddenly, the accompanying Spirit spots two soldiers from afar, one of which points at the two and the other carrying a big spear in their hands. Quickly they are besides their targets and arrest the older Spirit to take them away, while the Pleading Child tries to go after and beg the soldiers to let the Spirit go, but they have no chance against the big soldier with the spear keeping them from following. At last, the soldiers and the other Spirit are gone, leaving the Pleading Child alone, sobbing besides their destroyed table and the plush toys laying on the ground.
+
+At the end of the memory, the Pleading Child puts their palms together and pleads with all their might at the soldiers, but they ignore the little Spirit and leave them behind, making them realize that all their pleading has no effect. Defeated and hopeless, the Pleading Child lets their head fall and covers their face with their hands, crying.
+</div>
+{{Clear}}
+
+==<span id="Expression">Expression</span>==
+This Spirit offers the {{Emote|Pleading Child|inline_text}} [[Expression]], which has 4 Levels.<br>
+<br>
+[[File:{{Icon Name|Pleading Child|emote}}|x170px]]
+<gallery heights="125">
+Pleading-Child-pleading-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Pleading-Child-pleading-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Pleading-Child-pleading-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Pleading-Child-pleading-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar lean forward and put their flat palms together infront of their face, before shaking their hands a bit and leaning forward even more a few times, while high-pitched ascending violin notes play with each plead.
+*Level 2 makes the same motion as Level 1, with trails of small, glowing golden clouds following the movement of your avatar's hands, as well as a slow consistent burst of small white light particles streaming outwards in all directions from the hands.
+*Level 3 will make your avatar fall to their knees and clasp their hands together in front of their face, before looking up and shaking their hands in plead, looking down and repeating the same motion, and finally looking up again and stretching up a bit, shaking their hands and pleading with all their might, while high-pitched ascending violin notes play with each plead.
+*Level 4 makes the same motion as Level 3, with a short burst of golden glowing sparkles coming from your avatar's hands at the beginning of the Expression, and a golden glowing circle appearing at their hands for the remaining Expression. 
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+==Cosmetics==
+===<span id="Outfit">Outfit</span>===
+The [[Outfit]] offered by this Spirit is composed of a pale yellow long sleeve shirt with darker yellow accents, and a pair of green, knee-lenghted shorts over orange leggings, costing {{Cost|40 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fifth node ({{Cost|98 SC|season=Remembrance}} total).
+
+<br>
+{{#tag:gallery
+|{{Icon Name||Outfit|icon}} {{!}} The Outfit icon
+{{Icon Name||Outfit|real}} {{!}} The Outfit front
+{{Icon Name||Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Shoes">Shoes</span>===
+The [[Shoes]] offered by this Spirit are ankle-high brown boots with orange shoelaces, crossed once, costing {{Cost|30 C}} from the Traveling Spirit.
+
+In the {{v|0.22.0}} Patch, the boots attached to the Outfit were removed and became a separate cosmetic item.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Footwear|icon}} {{!}} The Shoes icon
+{{Icon Name||Footwear|real}} {{!}} The Shoes
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== <span id="Necklace">Neck Accessory</span>===
+The [[Neck Accessory]] offered by this Spirit is a large orange scarf that is completely wrapped around the neck and tied off to one side, with faint triangle markings near frayed ends, costing {{Cost|50 C}} from the Traveling Spirit. It was offered to all players during the Season from the Friendship Tree's second node ({{Cost|16 SC|season=Remembrance}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Neckpiece|icon}} {{!}} The Neck Accessory icon
+{{Icon Name||Neckpiece|real}} {{!}} The Neck Accessory front
+{{Icon Name||Neckpiece|side}} {{!}} The Neck Accessory side
+{{Icon Name||Neckpiece|back}} {{!}} The Neck Accessory back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Hair">Hair</span>===
+The [[Hair|Hairstyle]] offered by this Spirit is a round brown cap with a short visor that sits crookedly on top of short hair, costing {{Cost|60 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's third node ({{Cost|36 SC|season=Remembrance}} total). Note that this item is considered a Hair, not a [[Hair Accessory]], and as such it can not be worn over other Hairstyles.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+SoRemembrance-Pleading-Child-Hair-front.png {{!}} The Hair front 
+{{Icon Name||Hair|real}} {{!}} The Hair side 
+{{Icon Name||Hair|back}} {{!}} The Hair side 
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Traveling Spirit ==
+{{Friendship Tree Info
+| traveling
+| rs_dates= *January 13, 2025 (SV#7)
+}}
+<section begin='TS Friendship Tree' />{{Friendship Tree
+|spirit = Pleading Child
+|image  = Remembrance-Spirit-Pleading-Child.png
+|season = Remembrance
+
+|nodeC6 = hair 60 C
+|nodeL5 = outfit 40 C
+|nodeC5 = spellx 5 C
+|nodeR5 = footwear 30 C
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Neckpiece 50 C
+|nodeC2 = spellx 5 C
+|nodeR2 = Heart 3 C
+|nodeC1 = emote
+|nodeL1 = emote2 4 H
+}}<section end='TS Friendship Tree' />
+
+<!---
+=== Hints ===
+The hints given before the {{PAGENAME}}'s appearance were: -->
+
+==Season Friendship Tree==
+{{Friendship Tree Info|season|season=Remembrance}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Pleading Child
+|image  = SoRemembrance-Pleading-Child.png
+|type   = season
+|season = Remembrance
+
+|nodeC6 = season_heart 3 SC SP
+|nodeL5 = spellx SP
+|nodeC5 = outfit 36 SC
+|nodeL4 = emote4 SP
+|nodeC4 = emote3 26 SC
+|nodeL3 = hair SP
+|nodeC3 = spellx 20 SC
+|nodeL2 = spellx SP
+|nodeC2 = Neckpiece 16 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Unique Daily Quests==
+{{#section-h:Quests/Daily Quest Spirits|{{PAGENAME}}}}
+
+==Personality==
+On January 13th, 2023, TGC officially announced and introduced the Pleading Child with the following personality traits:
+*Frustrated that grown-ups don’t answer their questions about what’s happened.
+*Daydreams about being a manta rider.
+*Able to explain the rules to at least thirty games.
+*Collects trivia about all kinds of animals.
+
+==References==
+<references />
+
+[[fr:Enfant implorant]]
+[[pt-br:Criança Suplicante]]
+[[ru:Молящее дитя]]
+[[ja:懇願する幼子]]

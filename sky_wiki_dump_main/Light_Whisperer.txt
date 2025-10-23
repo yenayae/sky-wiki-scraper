@@ -1,0 +1,162 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Call
+|image     = <gallery>
+Flight-Spirit-Light-Whisperer.png|Standard
+Flight-Spirit-Light-Whisperer-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Outfit|infobox}}{{Spirit Item||Hair|infobox}}{{Spirit Item||Hairpiece|infobox}}{{Spirit Item||Cape|infobox}}
+|season    = Flight
+|realm     = Hidden Forest
+|location  = The Wind Paths
+|ts        = February 29, 2024 (#108)
+}}
+<section begin="Summary" />The '''Light Whisperer''' is a [[Seasonal Spirit]] from the [[Season of Flight]] who offers the {{Emote|Light Whisperer|inline_text}}. The Light Whisperer is found in the [[Wind Paths]], on the bottom left side of the main island when facing it from the area's main entrance. The collectibles [[Light Whisperer#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Light Whisperer|Outfit|inline_text}}, a {{Spirit Item|Light Whisperer|Hair|inline_text}}, a {{Spirit Item|Light Whisperer|Hairpiece|inline_text}}, and a {{Spirit Item|Light Whisperer|Cape|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Sky-sof-light-whisperer.png|thumb|320px|none|TGC's Promo image]]
+
+==Memory==
+<div>{{#ev:youtube|Kam3kuo2UPU||inline|Video Guide}}
+
+The Light Whisperer can be found in the [[Wind Paths]], on the bottom left side of the main island when facing it from the area's main entrance, next to a pond, with a waterfall above. This Spirit has a [[Standard Memory|standard memory]] with 9 memory fragments and a 15-minute overall [[Timed Memory|time limit]]. 
+
+As their memory unfolds, the Light Whisperer can be seen strolling around the pond as they spot an injured baby [[Mantas|Manta]]. The Spirit hurries to its side and immediately takes the injured creature to a nearby island in a boat pulled by a second, larger Manta. The Light Whisperer urgently carries the Light Creature towards a care station set up on the smaller island, where they tend to the baby Manta. After the Light Whisperer's good care, the baby Manta is able to fly again with help of their caretaker, taking off into the sky as the Spirit watches.
+
+At the end of the memory, the Light Whisperer releases the baby Manta into the air, which calls back to the Spirit as it flies away. The Light Whisperer returns the farewell call and watches as the creature flies off.<br>
+<br>
+[[File:02 HF Seasonal Spirit - Light Whisperer.jpg|200px|thumb|none|Relive the Light Whisperer's memory]]
+</div>
+{{Clear}}
+
+==<span id="Expression">Call</span>==
+The Light Whisperer offers the {{Emote||inline_text}}, which modifies the player's voice to a high pitched squeak.<br>
+<br>
+[[File:{{Icon Name||emote}}|x170px|left]]
+[[File:Light-Whisperer-baby-manta-call-emote.mp4|300px]]
+{{Clear}}
+
+==Cosmetics==
+===Outfit===
+The [[Outfit]] offered by this Spirit consists of a long-sleeved tunic in varying shades of blue with a beige belt, one rolled-up sleeve, simple white pants with beige boots overneath, and decorative strings around the right arm and boots, costing {{Cost|65 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fifth node ({{Cost|90 SC|season=Flight}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Outfit|icon}} {{!}} The Outfit icon
+{{Icon Name||Outfit|real}} {{!}} The Outfit front
+{{Icon Name||Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Hair===
+The [[Hair]] offered by this Spirit is messy and short, with a longer part on the right side tied together by a wide blue band, costing {{Cost|50 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's third node ({{Cost|36 SC|season=Flight}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Hairpiece">Hair Accessory</span>===
+The [[Hair Accessory]] offered by this Spirit is a simple white bird with a yellow head and tail tip, that sits on top of the player's head, costing {{Cost|45 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|14 SC|season=Flight}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hairpiece|icon}} {{!}} The Hair Accessory icon
+{{Icon Name||hairpiece|real}} {{!}} The Hair Accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Cape===
+The [[Cape]] offered by this Spirit is light blue and shaped like a bird's plumage, with yellow details on the sides and the tail end that make it look like the Cape is made out of feathers, costing {{Cost|70 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|62 SC|season=Flight}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||Cape|interior}} {{!}} The Cape interior
+{{Icon Name||Cape|back}} {{!}} The Cape back
+{{Icon Name||Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Traveling Spirit==
+{{Friendship Tree Info | traveling
+|ts_dates=* February 29, 2024 (#108)
+}}<section begin='TS Friendship Tree' />{{Friendship Tree
+|spirit = Light Whisperer
+|image  = Flight-Spirit-Light-Whisperer.png
+|season = Flight
+
+|nodeR4 = Outfit 65 C
+|nodeC5 = Cape 70 C
+|nodeL4 = Hair 50 C
+|nodeC4 = spell5
+
+|nodeC3 = wing
+
+|nodeL2 = Hairpiece 45 C
+|nodeC2 = spell5
+|nodeR2 = Heart 3 C
+
+|nodeC1 = emote
+}}<section end='TS Friendship Tree' />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+The hints given before the [[Light Whisperer]]'s first appearance were: 
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=First Visit Hints
+|content=<div>
+* Knows a lot about various plants
+* Makes all their clothing 
+* Doesn't like staying indoors long
+* Is firm about their opinions
+* Would be a great cosplayer IRL
+* Likes to send letters to their distant family members
+* Likes to keep things organized
+* Can do a great voice impression of a dark crab
+* Is not immune to puppy eyes
+* Is great singer...if you're lucky enough to hear it!
+</div>}}
+
+==Season Friendship Tree==
+{{Friendship Tree Info | season | season=Flight}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Light Whisperer
+|image  = Flight-Spirit-Light-Whisperer.png
+|type   = season
+|season = Flight
+
+|nodeC6 = season_heart 3 SC SP
+|nodeL5 = trail_spell SP
+|nodeC5 = Outfit 28 SC
+|nodeL4 = Cape SP
+|nodeC4 = trail_spell 26 SC
+|nodeL3 = spell5 SP
+|nodeC3 = Hair 22 SC
+|nodeL2 = Hairpiece SP
+|nodeC2 = spell5 14 SC
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Unique Daily Quests==
+{{#section-h:Quests/Daily Quest Spirits|{{PAGENAME}}}}
+
+== Personality ==
+On September 27 2021, TGC officially announced <ref name="Personality Tweet">https://twitter.com/thatskygame/status/1442647746758938625</ref> and introduced {{PAGENAME}} with the following personality traits:
+*🧑‍⚕️ Caretaker of [[Creatures#Light Creatures|Light creatures]]
+*❤️‍🩹 Some of the creatures they've healed now call the Islands home
+*✨ Some mantas they've nurtured hang around
+*🐣 Youngest of the group
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+season of flight spirit map light whisperer.png
+</gallery>
+
+==References==
+<references />
+
+[[fr:Chuchoteuse de lumières]]
+[[de:Lichtflüsterer]]
+[[pt-br:Domadora de Luzes]]
+[[ru:Заклинательница света]]

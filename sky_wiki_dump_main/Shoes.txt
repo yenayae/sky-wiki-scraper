@@ -1,0 +1,241 @@
+[[File:Sky-Closet-Pants-Morybel-0146.png|thumb|left|x200px|Icon used for Outfit Shrine]]
+
+'''Shoes''' are [[Cosmetics]] that alter the appearance of the player's feet. They come in a variety of styles and designs and can be paired with any [[Outfit]] you choose, excluding those that already include footwear. (''To see what can and cannot be worn with Shoes, view the availability table on the [[Outfits#Available_Outfits|Outfit]] page.'') Shoes share the left-most [[Outfit Shrine]] with Outfits, where they are listed in the second tab (the boot {{Spirit Item|Chuckling Scout|footwear}} icon).
+
+Shoes were first introduced in the game with Patch {{v|0.22.0}} in July 2023. For players that have the [[Days of Mischief#Mischief Witch Jumper|Mischief Witch Jumper]], the Season of Remembrance’s [[Pleading Child]] Outfit, or the Season of Assembly’s [[Chuckling Scout]] Outfit, the Shoes that were included with the Outfit are now found within a separate tab in the Outfit Shrine. With Patch {{v|0.24.5}} in February 2024, the [[Peeking Postman]] Outfit also received this change. 
+{{clear}}
+==Base Shoes==
+This is the footwear worn by the player at the start of the game. These are not actually Shoes, but instead the player's bare feet.
+{{#tag:gallery
+|{{Icon Name| Default | footwear_real}} {{!}} The Shoes
+|widths=125|captionalign=center|spacing=small
+}}
+{{clear}}
+
+== Display ==
+<section begin="Display" />{{Cosmetics Tabber
+| {{Spirit Item| Default | footwear | tab | link= }}
+| {{Spirit Item| Default | footwear_real | closet_display | link= Shoes#Base Shoes}}
+| {{Spirit Item| Peeking Postman | shoes | tab | link= }}
+| {{Spirit Item| Peeking Postman | shoes_real | closet_display }}
+| {{Spirit Item| Chuckling Scout | footwear | tab | link= }}
+| {{Spirit Item| Chuckling Scout | footwear_real | closet_display }}
+| {{Spirit Item| Pleading Child | footwear | tab | link= }}
+| {{Spirit Item| Pleading Child | footwear_real | closet_display }}
+| {{Spirit Item| Nightbird Whisperer | footwear | tab | link= }}
+| {{Spirit Item| Nightbird Whisperer | footwear_real | closet_display }}
+| {{Spirit Item| Vestige of a Deserted Oasis | shoes | tab | link= }}
+| {{Spirit Item| Vestige of a Deserted Oasis | shoes_real | closet_display }}
+| {{Spirit Item| Echo of an Abandoned Refuge | shoes | tab | link= }}
+| {{Spirit Item| Echo of an Abandoned Refuge | shoes_real | closet_display }}
+| {{Spirit Item| Remnant of a Forgotten Haven | shoes | tab | link= }}
+| {{Spirit Item| Remnant of a Forgotten Haven | shoes_real | closet_display }}
+| {{Spirit Item| The Pianist's Flourishing | shoes | tab | link= }}
+| {{Spirit Item| The Pianist's Flourishing | shoes_real | closet_display }}
+| {{Spirit Item| Sense of Self | shoes | tab | link= }}
+| {{Spirit Item| Sense of Self | shoes_real | closet_display }}
+| {{Spirit Item| Radiance Provoking Performer | shoes | tab | link= }}
+| {{Spirit Item| Radiance Provoking Performer | shoes_real | closet_display }}
+| {{Spirit Item| Radiance Leaping Dancer | shoes | tab | link= }}
+| {{Spirit Item| Radiance Leaping Dancer | shoes_real | closet_display }}
+| {{Spirit Item| Woodcutting Pleaful Parent | shoes | tab | link= }}
+| {{Spirit Item| Woodcutting Pleaful Parent | shoes_real | closet_display }}
+| {{Spirit Item| Scarred Sentry | shoes | tab | link= }}
+| {{Spirit Item| Scarred Sentry | shoes_real | closet_display }}
+| {{Days Item| Dark Rainbow Loafers | icon | tab | link= }}
+| {{Days Item| Dark Rainbow Loafers | real | closet_display | link=Days_of_Color/2024#Dark_Rainbow_Loafers }}
+| {{Days Item| Sunlight Chunky Sandals | icon | tab | link= }}
+| {{Days Item| Sunlight Chunky Sandals | real | closet_display }}
+| {{Days Item| Mischief Witch Jumper Shoes | icon | tab | link= }}
+| {{Days Item| Mischief Witch Jumper Shoes | real | closet_display }}
+| {{Days Item| Mischief Goth Boots | icon | tab | link= }}
+| {{Days Item| Mischief Goth Boots | real | closet_display }}
+| {{Days Item| Style Silk Ballet Slippers | icon | tab | link= }}
+| {{Days Item| Style Silk Ballet Slippers | real | closet_display }}
+| {{Days Item| Style Bunny Slippers | icon | tab | link= }}
+| {{Days Item| Style Bunny Slippers | real | closet_display | link=Days_of_Moonlight#Moonlight_Bunny_Slippers }}
+| {{Days Item| Cozy Hermit Boots | icon | tab | link= }}
+| {{Days Item| Cozy Hermit Boots | real | closet_display }}
+| {{Days Item| Musical Voyage Sneakers | icon | tab | link= }}
+| {{Days Item| Musical Voyage Sneakers | real | closet_display }}
+| {{Days Item| Treasure Cavalier Boots | icon | tab | link= }}
+| {{Days Item| Treasure Cavalier Boots | real | closet_display }}
+| {{Days Item| Ocean Sea Foam Boots | icon | tab | link= }}
+| {{Days Item| Ocean Sea Foam Boots | real | closet_display }}
+| {{Days Item| Anniversary Slippers | icon | tab | link= }}
+| {{Days Item| Anniversary Slippers | real | closet_display | link=Sky_Anniversary#Anniversary_Gown_Ensemble }}
+}}<section end="Display" />
+
+== Available Shoes ==
+This table lists all the Shoes that have ever been available in Sky; only a small subset of them are [[#Availability Legend|available]] for purchase at any given time. The default order is icon order, as used in the in-game [[Outfit Shrine]]. The table sort order can be changed by clicking on the header of any column. The Dye column lists whether the Shoes can be dyed or not.
+{| class="article-table sortable"
+! class="unsortable" | Image
+! Icon
+! [[#Availability Legend|Avail.]]
+! Source
+! Cost
+! [[Dyes|Dye]]
+|- id="Peeking Postman"
+| style="text-align: center;"| {{Spirit Item| Peeking Postman | shoes_real | table  }}
+| {{Spirit Item| Peeking Postman | shoes | table | sort=1 }}
+| {{Avail Summary | season | spirit=Peeking Postman | season=Dreams }}
+| {{Cost | 70 C }}
+| No
+|- id="Chuckling Scout"
+| style="text-align: center;"| {{Spirit Item| Chuckling Scout | footwear_real | table }}
+| {{Spirit Item| Chuckling Scout | footwear | table | sort=2 }}
+| {{Avail Summary | season | spirit=Chuckling Scout | season=Assembly }}
+| {{Cost | 32 C }}
+| No
+|- id="Pleading Child"
+| style="text-align: center;"| {{Spirit Item| Pleading Child | footwear_real | table }}
+| {{Spirit Item| Pleading Child | footwear | table | sort=3 }}
+| {{Avail Summary | season | spirit=Pleading Child | season=Remembrance}}
+| {{Cost | 30 C }}
+| No
+|- id="Nightbird Whisperer"
+| style="text-align: center;"| {{Spirit Item| Nightbird Whisperer | footwear_real | table }}
+| {{Spirit Item| Nightbird Whisperer | footwear | table | sort=4 }}
+| {{Avail Summary | season | spirit=Nightbird Whisperer | season=Moments }}
+| {{Cost | ? }}
+| No
+|- id="Vestige of a Deserted Oasis"
+| style="text-align: center;"| {{Spirit Item| Vestige of a Deserted Oasis | shoes_real | table }}
+| {{Spirit Item| Vestige of a Deserted Oasis | shoes | table | sort=5 }}
+| {{Avail Summary | season | spirit=Vestige of a Deserted Oasis | season=Revival }}
+| {{Cost | ? }}
+| No
+|- id="Echo of an Abandoned Refuge"
+| style="text-align: center;"| {{Spirit Item| Echo of an Abandoned Refuge | shoes_real | table }}
+| {{Spirit Item| Echo of an Abandoned Refuge | shoes | table | sort=6 }}
+| {{Avail Summary | season | spirit=Echo of an Abandoned Refuge | season=Revival }}
+| {{Cost | ? }}
+| No
+|- id="Remnant of a Forgotten Haven"
+| style="text-align: center;"| {{Spirit Item| Remnant of a Forgotten Haven | shoes_real | table }}
+| {{Spirit Item| Remnant of a Forgotten Haven | shoes | table | sort=7 }}
+| {{Avail Summary | season | spirit=Remnant of a Forgotten Haven | season=Revival }}
+| {{Cost | ? }}
+| No
+|- id="The Pianist's Flourishing"
+| style="text-align: center;"| {{Spirit Item| The Pianist's Flourishing | shoes_real | table }}
+| {{Spirit Item| The Pianist's Flourishing | shoes | table | sort=8  }}
+| {{Avail Summary | season | spirit=The Pianist's Flourishing | season=Duets }}
+| {{Cost | unknown }}
+| No
+|- id="Sense of Self"
+| style="text-align: center;"| {{Spirit Item| Sense of Self | shoes_real | table }}
+| {{Spirit Item| Sense of Self | shoes | table | sort=9 }}
+| {{Avail Summary | season | spirit=Sense of Self | season=Moomin }}
+| {{Cost | ? }}
+| No
+|- id="Radiance Provoking Performer"
+| style="text-align: center;"| {{Spirit Item| Radiance Provoking Performer | shoes_real | table }}
+| {{Spirit Item| Radiance Provoking Performer | shoes | table | sort=10 }}
+| {{Avail Summary | season | spirit=Radiance Provoking Performer | season=Radiance }}
+| {{Cost | ? | season=radiance}}
+| Yes
+|- id="Radiance Leaping Dancer"
+| style="text-align: center;"| {{Spirit Item| Radiance Leaping Dancer | shoes_real | table }}
+| {{Spirit Item| Radiance Leaping Dancer | shoes | table | sort=11 }}
+| {{Avail Summary | season | spirit=Radiance Leaping Dancer | season=Radiance }}
+| {{Cost | ? }}
+| Yes
+|- id="Woodcutting Pleaful Parent"
+| style="text-align: center;"| {{Spirit Item| Woodcutting Pleaful Parent | shoes_real | table }}
+| {{Spirit Item| Woodcutting Pleaful Parent | shoes | table | sort=12 }}
+| {{Avail Summary | season | spirit=Woodcutting Pleaful Parent | season=Blue bird}}
+| {{Cost | ? }}
+| Yes
+|- id="Scarred Sentry"
+| style="text-align: center;"| {{Spirit Item| Scarred Sentry | shoes_real | table }}
+| {{Spirit Item| Scarred Sentry | shoes | table | sort=12 }}
+| {{Avail Summary | season | spirit=Scarred Sentry | season=Two Embers - Part 1}}
+| {{Cost | ? }}
+| No
+|- id="Dark Rainbow Loafers"
+| style="text-align: center;"| {{Days Item| Dark Rainbow Loafers | real | table | link=Days_of_Color/2024#Dark_Rainbow_Loafers }}
+| {{Days Item| Dark Rainbow Loafers | icon | table | sort=500 | link=Days_of_Color/2024#Dark_Rainbow_Loafers }}
+| {{Avail Summary | days | days=color }}
+| {{Cost | 19.99 USD }}
+| No
+|- id="Sunlight Chunky Sandals"
+| style="text-align: center;"| {{Days Item| Sunlight Chunky Sandals | real | table }}
+| {{Days Item| Sunlight Chunky Sandals | icon | table | sort=511 }}
+| {{Avail Summary | days | days=sunlight }}
+| {{Cost | 9.99 USD }}
+| No
+|- id="Mischief Witch Jumper Shoes"
+| style="text-align: center;"| {{Days Item| Mischief Witch Jumper Shoes | real | table | link=Days of Mischief#Mischief Witch Jumper}}
+| {{Days Item| Mischief Witch Jumper Shoes | icon | table | sort=522 | link=Days of Mischief#Mischief Witch Jumper}}
+| {{Avail Summary | days | days=Mischief }}
+| {{Cost | 9.99 USD }}<ref name="witch\_jumper\_pack">The $9.99 cost of the Mischief Witch Jumper includes 2 cosmetics (an Outfit and Shoes).</ref>
+| No
+|- id="Mischief Goth Boots"
+| style="text-align: center;"| {{Days Item| Mischief Goth Boots | real | table }}
+| {{Days Item| Mischief Goth Boots | icon | table | sort=523 }}
+| {{Avail Summary | days | days=Mischief }}
+| {{Cost| 38 C }}
+| No
+|- id="Style Silk Ballet Slippers"
+| style="text-align: center;"| {{Days Item| Style Silk Ballet Slippers | real | table }}
+| {{Days Item| Style Silk Ballet Slippers | icon | table | sort=520 }}
+| {{Avail Summary | days | days=Style }}
+| {{Cost| 13 H}}
+| No
+|- id="Style Bunny Slippers"
+| style="text-align: center;"| {{Days Item| Style Bunny Slippers | real | table | link=Days_of_Moonlight#Moonlight_Bunny_Slippers }}
+| {{Days Item| Style Bunny Slippers | icon | table | sort=521 | link=Days_of_Moonlight#Moonlight_Bunny_Slippers }}
+| {{Avail Summary | days | days=Moonlight }}
+| {{Cost| 6.99 USD }}
+| No
+|- id="Cozy Hermit Boots"
+| style="text-align: center;"| {{Days Item| Cozy Hermit Boots | real | table }}
+| {{Days Item| Cozy Hermit Boots | icon | table | sort=530 }}
+| {{Avail Summary | days | days=Feast }}
+| {{Cost| 6.99 USD }}
+| No
+|- id="Musical Voyage Sneakers"
+| style="text-align: center;"| {{Days Item| Musical Voyage Sneakers | real | table }}
+| {{Days Item| Musical Voyage Sneakers | icon | table | sort=510 }}
+| {{Avail Summary | limited | days=Aurora | limited=AURORA Encore Concerts}}
+| {{Cost| 6.99 USD }}
+| No
+|- id="Treasure Cavalier Boots"
+| style="text-align: center;"| {{Days Item| Treasure Cavalier Boots | real | table }}
+| {{Days Item| Treasure Cavalier Boots | icon | table | sort=510 }}
+| {{Avail Summary | days | days=Treasure}}
+| {{Cost| ? | event=Treasure }}
+| Yes
+|- id="Ocean Sea Foam Boots"
+| style="text-align: center;"| {{Days Item| Ocean Sea Foam Boots | real | table }}
+| {{Days Item| Ocean Sea Foam Boots | icon | table | sort=510 }}
+| {{Avail Summary | days | days=nature}}
+| {{Cost| 24.99 USD }}<ref name="Ocean\_Sea\_Foam\_Set">The $24.99 cost of the Ocean Sea Foam Set includes 2 cosmetics (Shoes and a Cape).</ref>
+| No
+|- id="Anniversary Slippers"
+| style="text-align: center;"| {{Days Item| Anniversary Slippers | real | table | link=Sky_Anniversary#Anniversary_Gown_Ensemble }}
+| {{Days Item| Anniversary Slippers | icon | table | sort=510 | link=Sky_Anniversary#Anniversary_Gown_Ensemble }}
+| {{Avail Summary | days | days=Sky}}
+| {{Cost| 9.99 USD }}<ref name="Anniversary\_Gown\_Ensemble">The $9.99 cost of the Anniversary Gown Ensemble includes 2 cosmetics (an Outfit and Shoes).</ref>
+| No
+|}
+{{Avail Legend
+| s+
+| t*
+| r*
+| d*
+| days
+| season
+| limited
+}}
+
+==References==
+<references />
+
+[[Category:Cosmetics]]
+
+[[fr:Chaussures]]
+[[de:Schuhe]]
+[[pt-br:Calçados]]
+[[ja:シューズ]]

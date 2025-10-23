@@ -1,0 +1,152 @@
+{{Spirit Infobox
+|title     = Hunter
+|type      = Seasonal
+|emote_type= Emote
+|image     = Nine-Colored-Deer-Hunter.png
+|cosmetics = {{Spirit Item|Hunter|Outfit|infobox}}{{Spirit Item|Hunter|Hair|infobox}}{{Spirit Item|Hunter|Cape|infobox}}
+|props	   = 
+|music     =
+|season    = Nine-Colored Deer
+|realm     = Vault of Knowledge
+|location  = [[Crescent Oasis]]
+|ts        = None
+}}
+<section begin="Summary" />The '''Hunter''' is a [[Seasonal Spirit]] from the [[Season of the Nine-Colored Deer]] who offers the {{Emote|Hunter|inline_text}} Expression. The Hunter is found in the [[Crescent Oasis]], on top of the stone ledge that features a [[Murals|Mural]] near the pool of water. The collectibles [[Hunter#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Hunter|Outfit|inline_text}}, a {{Spirit Item|Hunter|Hair|inline_text}}, and a {{Spirit Item|Hunter|Cape|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Hunter Herb Gatherer Promo art.png|none|thumb|320px|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|BxsqFIA5pYs|200px|inline|Video Guide}}
+
+The Hunter can be found in the [[Crescent Oasis]], on top of the stone ledge that features a [[Murals|Mural]] near the pool of water. This Spirit has a [[Standard Memory|standard memory]] with 5 memory fragments and a 10-minute overall [[Timed Memory|time limit]].
+
+As their memory unfolds, the Hunter spots a pair of [[Mantas]] flying nearby and begins to hunt them, carefully sneaking closer with a net in hand. As the Spirit closes in, they start running and launch the net towards the fleeing creatures.
+
+At the end of the memory, the Hunter has managed to net one of the Mantas while the other escapes, safe from capture. Pleased by this success, the Hunter stands over their quarry and strikes a pose, proudly flexing both arms.
+</div>
+{{Clear}}
+
+==<span id="Expression">Expression</span>==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.<br> <!-- ...Levels 3 and 4 of the Expression use a unique button pad menu to control the motions... -->
+<br>
+[[File:{{Icon Name|Hunter|emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Hunter-flex-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Hunter-flex-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Hunter-flex-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Hunter-flex-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar perform the iconic front double biceps pose; puffing out their chest and stretching out both arms, flexed at the elbows, while a short drum sound effect plays.
+*Level 2 makes the same motion as Level 1 with a white glow around your avatar's hands and a bright pink star near their head.
+*Level 3 will make your avatar strike unique flexing poses according to which buttons are pressed on a pop-up menu while short drum sound effects play. This pop-up menu is identical to the menu used by the player to hit specific notes when playing an [[Instrument]].
+*Level 4 makes the same motion as Level 3, with the addition of small sparkles surrounding your avatar's hands as they pose, and a bright pink star when pressing the button in the center of the popup menu.
+<!--
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Coat|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.-->
+
+==Cosmetics==
+===<span id="Outfit">Outfit</span>===
+The [[Outfit]] offered by this Spirit is a wide, salmon colored long-sleeve robe with black boots, a dark red waist wrap, and yellow accents.<!--, costing {{Cost|?? C}} from the Traveling Spirit.--> It was available to all players during the Season from the Friendship Tree's second node ({{Cost|8 SC|season=Nine-Colored Deer}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Outfit|icon}} {{!}} The Outfit icon
+{{Icon Name||Outfit|real}} {{!}} The Outfit front
+{{Icon Name||Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Hair">Hair</span>===
+The [[Hair]] offered by this Spirit is long, curly hairstyle with a small layer pulled up into a bun and a thin red forehead band.<!--, costing {{Cost|?? C}} from the Traveling Spirit.--> It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|56 SC|season=Nine-Colored Deer}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Cape">Cape</span>===
+The [[Cape]] offered by this Spirit is a tattered, loosely wrapped tan scarf with brown accents that drapes over the player's back and is tied in the front with a string.<!--, costing {{Cost|?? C}} from the Traveling Spirit.--> It was available to all players during the Season from the Friendship Tree's fifth node ({{Cost|90 SC|season=Nine-Colored Deer}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||Cape|interior}} {{!}} The Cape interior
+{{Icon Name||Cape|real}} {{!}} The Cape back
+{{Icon Name||Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling}}<!--
+|ts_dates=*DATE (# )
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Hunter
+|image = Nine-Colored Deer-Hunter.png
+|season= Nine-Colored Deer
+
+|nodeL6 = Hair ? C
+|nodeC6 = Outfit ? C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Cape ? C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+The hints given before the Hunter's first appearance were: 
+{{Collapse
+|label=First Visit Hints
+|content=<div>
+*  [ hints can be on the official Sky Discord which are posted a few days before the traveling spirit by staff of thatgamecompany. ]
+</div>
+}} -->
+
+==Season Friendship Tree ==
+{{Friendship Tree Info | season| season=the Nine-Colored Deer}} <section begin="Season Friendship Tree" />
+{{Friendship Tree
+|spirit = Hunter
+|image  = Nine-Colored-Deer-Hunter.png
+|type   = season
+|season = Nine-Colored Deer
+
+|nodeC6 = season_heart 3 SC SP
+
+|nodeL5 = spellx SP
+|nodeC5 = cape 34 SC
+
+|nodeL4 = hair SP
+|nodeC4 = spellx 28 SC
+
+|nodeL3 = emote4 SP
+|nodeC3 = emote3 20 SC
+
+|nodeL2 = spellx SP
+|nodeC2 = outfit 8 SC
+
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Personality==
+On January 12, 2024, TGC officially announced and introduced the Hunter with the following personality traits:
+
+* 🏹 Not as humble as they think they are
+* 🏹 Admires what the [[Feudal Lord]] does
+* 🏹 The harder a creature is to track, the more they respect it
+* 🏹 Invigorated by taking the longer path somewhere
+
+==References==
+<references />
+
+[[fr:Chasseur]]
+[[pt-br:Caçador]]
+[[de:Jäger]]
+[[ja:狩人]]
+
+[[Category:Season of the Nine-Colored Deer]]

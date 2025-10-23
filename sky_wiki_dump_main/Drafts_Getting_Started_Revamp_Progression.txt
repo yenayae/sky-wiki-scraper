@@ -1,0 +1,142 @@
+{{Getting Started Nav|3}}
+
+==Realms==
+In the "main story" or "base game" of Sky, you journey through the realms, freeing spirits and restoring light to the realms. You also collect winged light to upgrade your cape and enter the Eye of Eden, the last realm. There are seven realms in total, each with a unique atmosphere.
+* For details, see [[Realms]].
+
+===Windwalls===
+Outdoor areas are walled in by impassable winds. They help prevent you from going past the playable region of the area. Advanced fliers can use these windwalls to boost.
+* For details, see [[Barriers#Wind_Walls]].
+
+===Spirit Gates===
+[[File:Gameplay-tips-4-Unlock-the-spirit-gates.jpg|thumb|right]]
+You do not need to collect all spirits on your first go-through. However, various areas in each Realm are locked behind Spirit Gates, which will not let you pass through until you've unlocked the required amount of Spirits from the specific constellation on the forcefield. Going through realms multiple times allows you to open gates you couldn't unlock on your first trip through.
+* For details, see [[Barriers#Spirit_Gates]].
+
+===Realm Portals===
+[[File:Aviary_Realm_Entry_Portals.png|thumb|right]]
+At Old Home or Aviary, you will find six portals (or portal frames, if you haven't unlocked the Realm yet!). These are the "Realm Portals". Going through them brings you to the start of the relevant realm.
+[[File:Realm-Marked-with-Shard-Eruption-at-Aviary.jpg|thumb|right|Your portal looks like this? See Rotating#Shard Eruptions.]]
+
+You can teleport (TP) back here from anywhere in the Realms by using the {{Icon|Icon_home.png}}Home Action. Find it through the Gear Menu, or your Emote Menu.
+Your skykid will sit down and you will TP soon. To interrupt the TP, just move your skykid.
+* For details, see [[Menus_and_Controls#Home]].
+
+{{Clear}}
+===Return Shrines===
+[[File:Return-Shrine-Aviary-Village.png|thumb|right]]
+A "Return Shrine" can be found in the center of the Realm Portals. Meditating here will bring you back to your most recently-entered area in the Realms.
+* For details, see [[Aviary_Village#Return_Shrine]].
+Scattered in corners of the Realms, you might find additional Return Shrines! These will instead return you Home.
+
+===Where to go???===
+If lost, honk/deep call to show the way to the Realm's temple. A {{Icon|Map-Shrine-Realm-Temple-Indicator.png}}star icon will appear at the next exit/Point of Interest to head to.<br>
+If you're looking for a specific location, check out the [[Interactive Maps]]. These also have the names of all the areas.
+
+===Hostile Dark Creatures===
+You will run into crabs and dark dragons in your time in the realms. While they telegraph their attacks, it's often tricky to deal with them.
+
+'''Crabs.''' When you get close enough to aggro a crab, it will start to shake. You have a few seconds before it charges at you in a straight line. If hit, you will lose approximately 1-2 wedges of light and get knocked over. Once the crab starts charging, you can simply jump out of the way.
+
+'''Dark Dragons ("Krill").''' If you get caught in the krill's spotlight, it will turn red and follow you. You have a few seconds before it dives down at you. If hit, you will lose between 1-6 wedges of light, depending on your current WL count. To avoid getting hit, the best way is to hide behind/under something to break line of light with the krill.
+
+* For details, see [[Dark Crabs]] and [[Dark Dragons]].
+
+==Spirits==
+''Free the trapped spirits!''<br>
+[[File:Tearful-in-darkness-plants.jpg|thumb|right]]
+Spirits are scattered through the Realms, which take the form of glowing blue figures entangled in dark plants. Light a spirit with your candle and relive their memory to earn an Expression as reward: either an Emote, Stance, or Call. Once you relive their memory for the first time, the Spirit will follow you until you bring them to the Realm temple and watch the Elder cutscene.
+* For more details, see [[Ancestors]].
+{{Tip|Each realm culminates in a temple. By meditating at the Temple and watching the cutscene, you can venture on to the next realm.}}
+
+The Spirit will also now appear in your Constellation at Home.
+* See [[Constellations]] for what they do and how to access them.
+{{Tip|"Home" sometimes refers to the location you spawn in when you open the game. By default it is the [[Aviary Village]], or "Aviary". The [[Home|original spawn lobby]], is now commonly referred to as "Old Home" to avoid confusion.}}
+
+{{Clear}}
+===Reliving Spirit Memories===
+''Learn their story!''<br>
+For most spirits, you simply follow the Spirit's trail through multiple flashbacks shown through shimmering blue images of the spirit. You will reach a kneeling Husk at the end, which you light to earn their Expression.
+* For more details, see [[Regular_Spirits#Spirit_Memories]].
+* If lost, honk to see a pale blue star showing you the location of the next image!
+Some spirits, such as the [[Whale Whisperer]], have no memory. To unlock their reward, you must interact with the environment, like burning specific darkness plants. Each spirit's wiki entry will have instructions on where they are, if you're looking for a specific one!
+
+==The Eye of Eden (SPOILER WARNING!)==
+Information on Eden is to be put in a spoiler warning, as the realm is often most impactful experienced blind. However, it is quite an intense experience.
+Details about the Eden experience has been split into multiple spoilered sections, so you can look at some information and keep others for first-hand learning.
+{{Eden|spoilerbutton=1}}
+<div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-eden-spoilers">
+If you're reading this after your first time completing Eden, congratulations! Eden is tough, and you got through it.
+
+'''Eden will be difficult.'''
+Eden is a trial of your skills, the last of seven realms. It is much more difficult than the other realms, with all sorts of obstacles during the climb that will drain your light, such as red shards, rock rain, and dark dragons.
+Take on the realm with other skykids to help each other along! If you have access to it, the most convenient place to ask for help would probably be the official Sky Discord. Teleport back Home and take a break if you need.
+<br>
+{{Collapse
+|float=left
+|label=Section 1 Information
+|content=The first section of Eden is a windy but straightforward trek up rocky inclines. Dodge or take shelter from cascading rocks with some careful timing. An extra Winged Light awaits at the gate to the second section of Eden.
+}}<br>
+{{Collapse
+|float=left
+|label=Section 2 Information
+|content=The second section of Eden contains patrolling krill, as you clamber up a maze of pipes. Then, a trickier section of rocks, alongside a final krill. In the corridor between here and the third section of Eden, you will find eight (8) bonus Winged Lights.
+}}<br>
+{{Collapse
+|float=left
+|label=Section 3 Information
+|content=Near the summit is a place marking the Point of No Return (commonly shortened to PNR).
+{{Tip|A pop-up will appear to confirm that you want to enter. Past here, you find yourself in "[[Glossary_of_Terms#Storm_Lock]]" and must complete Eden to progress.}}
+In the area past the PNR, you find yourself in the final section of Eden. Here, sacrifice your winged light to the kneeling figures of husked skykids, while being battered by a relentless red shard rain. You MUST lose all your winged light to progress. After you lose all your light, you enter Orbit, a beautiful place that also allows you to purchase Elder items, as well as receive your Wing Buffs and Ascended Candles. The credits play and you return to Home.
+(QUESTION: should we elaborate on the losing all your winged light to prep new players for it? I've seen some folks on reddit be upset because their player chara died)
+* Wing Buffs are bonus WL you receive upon exiting Orbit. Purchase them from Spirits!
+* The number of ascended candles you receive depends on how many husked skykids you manage to deposit your WL with.
+}}
+</div>
+<br>
+Note that Eden is effectively optional from here on out. Ascended candles are available through other means, but Elder items and Wing Buffs are only obtainable in Orbit. Some seasonal quests may also take place in Eden.
+* For more details, see [[Eye of Eden]] and [[Eye_of_Eden#Ascension_and_Orbit]].
+
+{{Clear}}
+
+==Seasonal Spirits==
+Upon completing Eden, Seasonal Spirits — spirits introduced in previous seasons — will become visible to you. Similar to regular spirits, they will give you an expression or stance upon reliving their memory.
+There are two rarer variants of spirit memory: carry and collection. In carry memories, you must escort a floating spark through the spirit's images. When starting a carry memory, a circle will appear below you and your speed will be limited; stay within the circle to avoid dropping the spark. In collection memories, all images will appear at the same time, instead of one at a time. Additionally, the images will normally be of something other than the spirit itself. You must collect all the fragments of light to relive the memory.
+The two variants are much easier to complete with assistance.
+* For more details, see [[Seasonal_Spirits#Spirit_Memories]].
+
+Seasonal spirits' trees only available for limited periods of time: their original season, a Traveling Spirit recurring event, or a Returning Spirits event.
+* For more details, see [[Getting Started/Recurring]].
+
+==Winged Light==
+''Upgrade your cape and fly further!''<br>
+Along your journey, light-granting Children of Light are scattered throughout the realms. [TODO: add picture of it from afar?] Upon collecting your first Winged Light (WL) in the Isle of Dawn, you will earn your cape. Collect more to upgrade your cape and fly further! Collect Winged Light from the six main Realms and bring them to the Eye of Eden (Spoiler Warning!).
+* See [[Winged Light]].
+* See [[Children of Light]] for a full list of children of light locations.
+
+===Losing Winged Light===
+Running out of light doesn’t mean you die or lose winged light forever. Upon burning through all the light stored in your cape wedges (your wing meter will flash red), get to your closest light source! Honk for help — others in your area will also see an icon above you.
+
+Since the [[Season of Shattering]], losing all your WL will force you to crawl.
+
+Losing more light will cause the winged light to fly out of your player character; collect them quickly. Other players in the area can also see where the WL have gone to and can help collect, especially if you're crawling. If your WL vanishes before you can get to it, they simply turn back into Children of Light and are randomly scattered throughout the Realms, where you can re-collect them.
+
+Your in-realm WL will be lost first, then your Wing Buffs. Losing all your WL spawns you in a room with one winged light before returning you to Home.
+
+To avoid losing WL, gather more winged light, stick with others, or keep one flap as a buffer. Crossing polluted water/rain on foot conserves light better than flying.
+* See [[Winged_Light#Losing_Winged_Light]].
+
+==Map Shrines==
+[[File:Map-shrine-in-Prairie.png|right|thumb]]
+''A bird's-eye view of the area's points of interest.''<br>
+You will have unlocked the Aviary Village map Shrine in the tutorial. Others are scattered across the realms! By lighting the candles and meditating at the shrine, you can unlock a map of the area with things to find in the area, like unlived spirits or uncollected WL.
+{{Tip|"Meditating" refers to selecting the {{Icon|Emote-basic_sit.png}} "sit" interaction at a shining circle, which will start a short cutscene.}}
+Map Shrines you've already unlocked are viewable through the {{Icon|Eye-Ray.png}}eye icon above it.
+* See [[Map Shrines]].
+
+==Past Season Guides==
+''Expand the realms of Sky by aiding specific Spirits.''<br>
+Scattered around the realms of Sky are seasonal guides from past seasons (sometimes referred to as "permanent questgivers"), who offer quest lines and some permanently-available purchasables. Upon interacting with them through the {{Icon|Merch-Ray.png}} multi-star icon over their heads, you can accept their quest by selecting the {{Icon|Exclamation-mark-Ray.png}} exclamation mark in their Spirit tree. The quest you're currently progressing through will have a dot orbiting it.
+
+If you want a structured activity, try playing through some quests! Further information about each Season Guide can be found on the specific Guide/Season's wiki page.
+* The Hopeful Steward is actually the guide for the Season of Revival! The tutorial consists of the first three Revival quests, and you can come back at any time to finish the rest, which will lead you to more season guides. For more information on their quests, see [[Hopeful_Steward#Quest_Tree]].

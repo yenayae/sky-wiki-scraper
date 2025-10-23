@@ -1,0 +1,619 @@
+{{Location
+|image      = Harmony Hall - The main room.jpg
+|realm      = Valley of Triumph
+|access     = [[Village of Dreams]], [[Village Theater]]
+|season     = Performance
+|seasonal_spirits  = None
+|children_of_light = 0
+|pieces_of_light   = 100
+|map        = Valley of Triumph - Village Theater Map by sky solsuga.jpg
+|mapcaption = Map of Village Theater and Harmony Hall by @sky_solsuga
+}}
+<section begin="Quote" />{{Quote|<br>'''''Melodies in the making'''''|Harmony Hall opening}}<section end="Quote" />
+<section begin="Summary" />The '''Harmony Hall''' (formerly called the '''Music Shop''') is a building introduced in [[Season of Performance]] that specializes in [[music]] and musical [[Instruments]]. Nearly every Instrument in the game is [[#Demonstration Instruments|available]] in Harmony Hall, so players can try playing them regardless of whether or not they have acquired them.<section end="Summary" /> A [[#Music Challenge|Music Challenge]], [[#Song Demonstration|song demonstration]], and [[#Jam Session|jam session]] help players perfect a weekly [[#Featured Music Sheet|featured Music Sheet]]. [[#Premium Candle Shop|Four Instruments]] can be purchased, as can [[#New Music Sheets|five Music Sheets]] and some [[#Spell Shop|Spells]].
+__TOC__
+{{Clear}}
+== Overview ==
+{{#ev:youtube|g_CigJT9G5Q||right|Harmony Hall Trailer}}
+<section begin="Summary 2" />Harmony Hall is a two-story building with two possible entrances, both of which lead to the building's first floor. The front entrance is in [[Village of Dreams]], in a building with a red flag depicting a clef symbol, near the skating statue. All players who can access Village of Dreams can enter via the front entrance. The back entrance is via a passage between two buildings in the [[Village Theater]], only available to players who have completed the [[Season of Performance#Quest #4|fourth Quest]] of Season of Performance.<section end="Summary 2" />
+
+No [[Children of Light]] are found here, however 100 [[Pieces of Light]] per day are possible:<ref name="white_candle_light">Before Patch {{v|0.25.5}}, players could collect 3 [[Pieces of Light]] by lighting the White Candles that activated the displayed Triumph Saxophone.</ref><ref name="social_light">During the Grand Opening, [[#Social Light|Social Light]] could also be collected, but that was a limited-time feature.</ref> 
+* 50 for achieving a moderate level of accuracy in the [[#Music Challenge|Music Sheet Challenge]]
+* 50 pieces for achieving a higher level of accuracy in the [[#Music Challenge|Music Sheet Challenge]] (indicated by a swarm of [[Butterflies]] that appear around the player's avatar)
+
+All of the Ancestors from [[Season of Performance]] are found wandering in Harmony Hall. They are present and visible even if players have never been to the [[Village Theater]] before or done any of the Season of Performance [[Season of Performance#Quests|Quests]] (the Quests only affect whether players can use the back entrance). 
+
+''However, none of the usual Spirits or Season Guide interactions are possible here; meaning that it is not possible to relive their memories nor access their [[Friendship Tree (Seasonal)|Friendship Trees]]. The Spirit's memories can all be relived in the Village Theater, while their Friendship Trees can only be accessed once they come back as [[Traveling Spirit]]; the [[Performance Guide]]'s Friendship Tree can be accessed in the Village Theater.''<br>
+<br>
+<gallery widths="200" spacing="small" captionalign="center" mode="nolines">
+Harmony Hall - Main entrance.jpg|The main entrance from Village of Dreams
+Harmony Hall - The back entrance.jpg|The back entrance
+Harmony Hall - The main room.jpg|The main room
+Harmony Hall - Welcome.jpg|Welcome
+Harmony Hall - Instrument showcase.jpg|Instruments showcase
+Harmony Hall - workshop.jpg|The Workshop
+Harmony Hall - Upstair.jpg|Upstairs
+Harmony Hall - Painting workshop.jpg|The Painting workshop
+</gallery>
+
+=== First Floor ===
+Both entrances are at the same end of the first floor, on either side of a [[Prop]] [[Outfit Shrine]]: The entrance from [[Village of Dreams]] is through the tall, grated panel; the entrance from the [[Village Theater]] is in the corner behind the stairs (only available once the [[Season of Performance#Quest #4|fourth Quest]] of Season of Performance has been completed). The entrances are at one end of a large central area; the [[#Front Counter|Front Counter]] is at the other end. On the right side of the central area are the stairs leading to the [[#Second Floor|second floor]]. The left side has a workshop area near the entrance and an alcove filled with decorative Music Sheets past the front counter. Various [[#Demonstration Instruments|demonstration musical Instruments]] fill the walls throughout the entire first floor.
+
+The large table at the far end of the central area, named the <span id="Front Counter">'''Front Counter'''</span>, has a violin sitting on it. This violin cannot be played; clicking on it accesses the [[#Premium Candle Shop|in-app purchase]] Instruments. A scroll sitting at the other end of table acts as a mini [[#Spell Shop|Spell Shop]].
+
+A decorative panel hanging on the wall behind the Front Counter showcases five Instruments, all of which are purely decorative and cannot be played. The Instruments seen here are, from left to right, the {{Spirit Item|Pleaful Parent|Instrument|inline_text}}, the {{Spirit Item|Mellow Musician|Instrument|inline_text}}, the {{Instrument|Triumph Handpan|inline_text}}, a variant of the {{Spirit Item|Assembly Guide|Instrument_u|inline_text}}, and a variant of the {{Spirit Item|Prophecy Guide|Instrument_u|inline_text}}. The last two are similar in shape to past Season Ultimate Gifts, but are colored/decorated differently.
+
+The [[Forgetful Storyteller]] sits to the right of the front counter, under the stairs, where they act as the [[#Harmony Hall Guide|Harmony Hall Guide]]. The other four Ancestors from the Season of Performance are also found in Harmony Hall. The [[Performance Guide]] and the [[Frantic Stagehand]] wander throughout the entire building, acting out various [[Expressions]] and occasionally offering [[#Jam Session|jam sessions]]. The [[Modest Dancer]] is generally found in the workshop area. The [[Mellow Musician]] is always upstairs offering to [[#Song Demonstration|demonstrate]] the weekly featured Music Sheet, which players can join them in.
+
+Left of the Front Counter, in a corner, a small stool offers players a [[#Music Challenge|Music Challenge]], by clicking on the {{Icon|Exclamation-mark-Ray.png}} exclamation mark. The walls of this area display many music sheets, though they are purely decorative. Some of the curtains automatically move and reveal more music sheets when the player comes near.
+
+To the right of the Front Counter, a door leads to the [[#Rehearsal Room|Rehearsal Room]], where players can practice with their equipped Instrument, in a quiet, private setting.
+
+=== Second Floor===
+[[File:mural-valley-harmony-hall-second-floor.png|thumb|250px|The Second Floor Mural]]
+The Second Floor has two areas where players can jam alongside some Performance Spirits. 
+
+The [[Mellow Musician]] is standing in the middle of the second floor balcony, with a {{Icon|Music-note-icon.png}} music note icon that activates their [[#Song Demonstration|song demonstration]]. Past the Mellow Musician, in the right corner, a bouquet and a guitar can be found near some stools; this is where the [[#Jam Session|jam session]] with the [[Performance Guide]] and [[Frantic Stagehand]] is periodically available, once the Spirits have gone up to the second floor and arrive in this corner.
+
+In the center of the second floor, in the double height area, there are three large, golden balls swinging in a [[wp:Newton's cradle|Newton's cradle]] pendulum; their regular rhythmic movement acts like a metronome. On the far wall there is a [[Murals|mural]] with a stylized representation of the Village Theater with people cheering and looking up to a stage where [[Season of AURORA|AURORA]] stands. A side room near the top of the stairs leads to a painting workshop where the theater backdrops are being touched up.
+
+A Jam Station can be found at the end of the long hallway near the stairs. Walls of the hallway are adorned by work in progress backdrops for the [[Village Theater]] made by [[Frantic Stagehand]]. The machine can be used to create short musical bits with four separate Instrument tracks for the {{Spirit Item|Cheerful Spectator|Instrument|inline_text}}, {{Spirit Item|Frightened Refugee|Instrument|inline_text}}, {{Spirit Item|Blushing Prospector|Instrument|inline_text}} and {{Spirit Item|Doublefive Light Catcher|Instrument|inline_text}} accordingly. The notes are arranged vertically and the player can select which notes to play for each row. The total number of rows that can be programmed for each track is 16, the pitch range of Instruments is only one [[Music Key|octave]], and the tempo of playback is fixed.
+
+== Activities ==
+=== Demonstration Instruments ===
+[[File:Valley of Triumph - Village Theater Map by sky solsuga.jpg|thumb|300px|Map of Village Theater and Harmony Hall, by @sky_solsuga]]
+In Harmony Hall, some of the game's Instruments are displayed as working copies.
+
+Any of the displayed Instruments can be picked up and played until they are unequipped again. When returning the Instrument to their place, a text promt at the bottom of the screen tells players where the Spirit which offers the Instrument is located (though no further information except the Spirit's location is given).
+
+Note that in addition, there is a Prop Closet on the first floor (between the two entrances), where players can equip any of their already purchased Instruments.
+
+The first floor's workshop on the left side when entering Harmony Hall through the Village of Dreams, is where working copies of some of the percussion and string Instruments are located.
+
+The '''Percussion''' Instruments are:
+* The {{Instrument|Triumph Saxophone|inline_text}} is displayed on a counter in an opening in the wall, on the player's immediate left when entering from the Village of Dreams. Three white candles on the floor in front of the counter need to be lit in order for the Instrument to appear. 
+* In the corner behind the Triumph Saxophone: the {{Spirit Item|Blushing Prospector|Instrument|inline_text}}, the {{Spirit Item|Greeting Shaman|Instrument|inline_text}}, and the {{Spirit Item|Leaping Dancer|Instrument|inline_text}}.
+
+The '''String''' Instruments are displayed against the back wall of the workshop. From left to right:
+* The {{Spirit Item|Pleaful Parent|Instrument|inline_text}}, the {{Spirit Item|Hairtousle Teen|Instrument|inline_text}}, and the {{Spirit Item|Dancing Performer|Instrument|inline_text}}
+* The {{Spirit Item|Mellow Musician|Instrument|inline_text}} in an alcove by itself
+* The {{Spirit Item|Laughing Light Catcher|Instrument|inline_text}} in a shelf, the {{Spirit Item|Frightened Refugee|Instrument|inline_text}} on the floor, leaning against some boxes
+
+
+Behind and respectively left and right of the Front Counter, more Instruments are displayed.
+
+On a wall behind and left of the Front Counter, left to right:
+* The {{Spirit Item|Tinkering Chimesmith|Instrument|inline_text}}
+* In an alcove in the wall, the {{Spirit Item|Cheerful Spectator|Instrument|inline_text}} above the {{Spirit Item|Respectful Pianist|Instrument|inline_text}}
+* The {{Spirit Item|Thoughtful Director|Instrument|inline_text}}
+
+The '''Wind''' Instruments are displayed on the wall behind and to the right of the Front Counter. From left to right:
+* The {{Spirit Item|Doublefive Light Catcher|Instrument|inline_text}}, propped up against a beam
+* An alcove displaying the {{Spirit Item|Twirling Champion|Instrument|inline_text}} above the {{Spirit Item|Lookout Scout|Instrument|inline_text}}
+
+=== Rehearsal Room ===
+[[File:Harmony-Hall-Rehearsal-Room-Entrance.png|thumb|x150px|Rehearsal Room Entrance]]
+In the far right corner on the first floor, there is a door leading to the Rehearsal Room, also known as the Practice Room. The room is empty except for a few decorative elements and a big, golden treble clef at the back of the wall, bent towards the ground. Once approached, a  {{Icon|Grab-Ray.png}}  hand icon appears on it, putting the treble clef upright once selected. Upon doing so, a {{Icon|Music-note-icon.png}} music note icon appears above the player's head, which enables them to practice their equipped Instrument with no additional background noise.<br>
+<br>
+[[File:Harmony-Hall-Rehearsal-Room.png|thumb|x150px|left|Rehearsal Room Interior]]
+This function is only available inside the Rehearsal Room and can only be performed if the player already has one of their owned Instruments equipped on their back. During practice, other players cannot be seen in the room, there will be no sounds from other players, and other players can't hear the player using their Instrument. However, any other sound will still be audible, including ambient noises and in-game alerts, so muting the sound effects for further silence is advised.
+{{Clear}}
+=== Featured Music Sheet ===
+Each week a set of three specific parts of different Music Sheets is featured in [[Harmony Hall]]. Each Music Sheet part is used for one of the music performances in the Hall: the [[#Music Challenge|Music Challenge]] to the left of the Front Counter, the [[#Song Demonstration|Song Demonstration]] by the [[Mellow Musician]], and the [[#Jam Session|Jam Session]] with the [[Performance Guide]] and [[Frantic Stagehand]].
+
+The featured Music Sheets change at reset ''11:59 PM (UTC-8) Sunday night''; each set of sheets is featured ''from Monday to Sunday''. Currently only 5 possible sets of Music Sheet parts can be featured, in rotation.
+
+In the tables below, the currently featured Music Sheet parts are labelled in the "ID" column.''
+<!-- Calculate ID based on number of weeks passed since 2023-05-29, assuming 5 sheet parts per rotation -->
+<section begin="music_challenge"/>{{#vardefine:featured_rotation_id
+| {{#expr:{{Game Stat|datediff|from=2023-05-29 PST}} / 7 mod 5 + 11}}
+}} {{#if: {{CURRENTDAY}} }} <!--hidden string to reduce cache expiry-->
+{| class="sortable article-table"
+|+ Current Music Challenge Sheet Part Rotations
+! ID
+! Music Sheet
+! Part
+! Instrument
+|-
+| 11 {{#ifeq:{{#var:featured_rotation_id}}|11|(current)}}
+| data-sort-value="8"| {{Music Sheet|8|table}} #8
+| Melody
+| {{Instrument|Piano|table}}
+|-
+| 12 {{#ifeq:{{#var:featured_rotation_id}}|12|(current)}}
+| data-sort-value="14"| {{Music Sheet|14|table}} #14
+| Wind
+| {{Instrument|Flute|table}}
+|-
+| 13 {{#ifeq:{{#var:featured_rotation_id}}|13|(current)}}
+| data-sort-value="7"| {{Music Sheet|7|table}} #7
+| Bass
+| {{Instrument|Contrabass|table}}
+|-
+| 14 {{#ifeq:{{#var:featured_rotation_id}}|14|(current)}}
+| data-sort-value="15"| {{Music Sheet|15|table}} #15
+| Percussion
+| {{Instrument|Large Bell|table}}
+|-
+| 15 {{#ifeq:{{#var:featured_rotation_id}}|15|(current)}}
+| data-sort-value="30"| {{Music Sheet|30|table}} #30
+| Melody
+| {{Instrument|Electric Guitar|table}}
+|}<section end="music_challenge"/>
+
+{| class="sortable article-table"
+|+ Current Song Demonstration Sheet Part Rotations <ref name="inaccessible">Due to a bug in patch {{V|0.21.5}}, Song Demonstration is unavailable before {{V|0.24.0}}</ref>
+! ID
+! Music Sheet
+! Part
+! Instrument
+|-
+| 11 {{#ifeq:{{#var:featured_rotation_id}}|11|(current)}}
+| data-sort-value="13"| {{Music Sheet|13|table}} #13
+| Percussion
+| {{Instrument|Drum|table}}
+|-
+| 12 {{#ifeq:{{#var:featured_rotation_id}}|12|(current)}}
+| data-sort-value="2"| {{Music Sheet|2|table}} #2
+| Melody
+| {{Instrument|Ukulele|table}}
+|-
+| 13 {{#ifeq:{{#var:featured_rotation_id}}|13|(current)}}
+| data-sort-value="3"| {{Music Sheet|3|table}} #3
+| Melody
+| {{Instrument|Kalimba|table}}
+|-
+| 14 {{#ifeq:{{#var:featured_rotation_id}}|14|(current)}}
+| data-sort-value="23"| {{Music Sheet|23|table}} #23
+| Melody
+| {{Instrument|Xylophone|table}}
+|-
+| 15 {{#ifeq:{{#var:featured_rotation_id}}|15|(current)}}
+| data-sort-value="11"| {{Music Sheet|11|table}} #11
+| Melody
+| {{Instrument|Harp|table}}
+|}
+
+{| class="sortable article-table"
+|+ Current Jam Session Sheet Part Rotations
+! ID
+! Music Sheet
+! Part
+! Player
+! Guide
+! Stagehand
+|-
+| 11 {{#ifeq:{{#var:featured_rotation_id}}|11|(current)}}
+| data-sort-value="34"| {{Music Sheet|34|table}} #34
+| Percussion
+| {{Instrument|Small Bell|table}}
+| {{Instrument|Prophecy Drum|table}}
+| {{Instrument|Panflute|table}}
+|-
+| 12 {{#ifeq:{{#var:featured_rotation_id}}|12|(current)}}
+| data-sort-value="33"| {{Music Sheet|33|table}} #33
+| Melody
+| {{Instrument|Guitar|table}}
+| {{Instrument|Guitar|table}}
+| {{Instrument|Sanctuary Handpan|table}}
+|-
+| 13 {{#ifeq:{{#var:featured_rotation_id}}|13|(current)}}
+| data-sort-value="5"| {{Music Sheet|5|table}} #5
+| Melody
+| {{Instrument|Lute|table}}
+| {{Instrument|Lute|table}}
+| {{Instrument|Contrabass|table}}
+|-
+| 14 {{#ifeq:{{#var:featured_rotation_id}}|14|(current)}}
+| data-sort-value="4"| {{Music Sheet|4|table}} #4
+| Wind
+| {{Instrument|Panflute|table}}
+| {{Instrument|Large Bell|table}}
+| {{Instrument|Horn|table}}
+|-
+| 15 {{#ifeq:{{#var:featured_rotation_id}}|15|(current)}}
+| data-sort-value="36"| {{Music Sheet|36|table}} #36
+| Melody
+| {{Instrument|Ukulele|table}}
+| {{Instrument|Xylophone|table}}
+| {{Instrument|Winter Piano|table}}
+|}
+
+{| class="article-table mw-collapsible mw-collapsed"
+|+ style="white-space:nowrap;" | Previous Music Challenge Sheet Part Rotations
+! ID
+! Music Sheet
+! Part
+! Instrument
+|-
+! colspan="4" | Rotation 1: since grand opening of Harmony Hall on May 23, 2022
+|-
+| 1
+| data-sort-value="1"| {{Music Sheet|1|table}} #1
+| Percussion
+| {{Instrument|Large Bell|table}}
+|-
+| 2
+| data-sort-value="7"| {{Music Sheet|7|table}} #7
+| Melody
+| {{Instrument|Guitar|table}}
+|-
+| 3
+| data-sort-value="10"| {{Music Sheet|10|table}} #10
+| Melody
+| {{Instrument|Lute|table}}
+|-
+| 4
+| data-sort-value="13"| {{Music Sheet|13|table}} #13
+| Melody
+| {{Instrument|Piano|table}}
+|-
+| 5
+| data-sort-value="16"| {{Music Sheet|16|table}} #16
+| Bass
+| {{Instrument|Contrabass|table}}
+|-
+! colspan="4" | Rotation 2: since patch {{V|0.18.5}} on August 17, 2022
+|-
+| 6
+| data-sort-value="28"| {{Music Sheet|28|table}} #28
+| Wind
+| {{Instrument|Vessel Flute|table}}
+|-
+| 7
+| data-sort-value="21"| {{Music Sheet|21|table}} #21
+| Wind
+| {{Instrument|Bugle|table}}
+|-
+| 8
+| data-sort-value="18"| {{Music Sheet|18|table}} #18
+| Melody
+| {{Instrument|Winter Piano|table}}
+|-
+| 9
+| data-sort-value="22"| {{Music Sheet|22|table}} #22
+| Wind
+| {{Instrument|Horn|table}}
+|-
+| 10
+| data-sort-value="11"| {{Music Sheet|11|table}} #11
+| Melody
+| {{Instrument|Ukulele|table}}
+|}
+
+{| class="article-table mw-collapsible mw-collapsed"
+|+ style="white-space:nowrap;" | Previous Song Demonstration Sheet Part Rotations
+! ID
+! Music Sheet
+! Part
+! Instrument
+|-
+! colspan="4" | Rotation 1: since grand opening of Harmony Hall on May 23, 2022
+|-
+| 1
+| data-sort-value="1"| {{Music Sheet|1|table}} #1
+| Percussion
+| {{Instrument|Triumph Handpan|table}}
+|-
+| 2
+| data-sort-value="7"| {{Music Sheet|7|table}} #7
+| Melody
+| {{Instrument|Kalimba|table}}
+|-
+| 3
+| data-sort-value="10"| {{Music Sheet|10|table}} #10
+| Melody
+| {{Instrument|Winter Piano|table}}
+|-
+| 4
+| data-sort-value="13"| {{Music Sheet|13|table}} #13
+| Melody
+| {{Instrument|Xylophone|table}}
+|-
+| 5
+| data-sort-value="16"| {{Music Sheet|16|table}} #16
+| Bass
+| {{Instrument|Contrabass|table}}
+|-
+! colspan="4" | Rotation 2: since patch {{V|0.18.5}} on August 17, 2022
+|-
+| 6
+| data-sort-value="28"| {{Music Sheet|28|table}} #28
+| Wind
+| {{Instrument|Bugle|table}}
+|-
+| 7
+| data-sort-value="21"| {{Music Sheet|21|table}} #21
+| Wind
+| {{Instrument|Horn|table}}
+|-
+| 8
+| data-sort-value="18"| {{Music Sheet|18|table}} #18
+| Melody
+| {{Instrument|Piano|table}}
+|-
+| 9
+| data-sort-value="22"| {{Music Sheet|22|table}} #22
+| Wind
+| {{Instrument|Flute|table}}
+|-
+| 10
+| data-sort-value="11"| {{Music Sheet|11|table}} #11
+| Melody
+| {{Instrument|Lute|table}}
+|}
+
+{| class="article-table mw-collapsible mw-collapsed"
+|+ style="white-space:nowrap;" | Previous Jam Session Sheet Part Rotations
+! ID
+! Music Sheet
+! Part
+! Player
+! Guide
+! Stagehand
+|-
+! colspan="6" | Rotation 1: since grand opening of Harmony Hall on May 23, 2022
+|-
+| 1
+| data-sort-value="1"| {{Music Sheet|1|table}} #1
+| Percussion
+| {{Instrument|Small Bell|table}}
+| {{Instrument|Electric Guitar|table}}
+| {{Instrument|Vessel Flute|table}}
+|-
+| 2
+| data-sort-value="7"| {{Music Sheet|7|table}} #7
+| Melody
+| {{Instrument|Electric Guitar|table}}
+| {{Instrument|Panflute|table}}
+| {{Instrument|Contrabass|table}}
+|-
+| 3
+| data-sort-value="10"| {{Music Sheet|10|table}} #10
+| Melody
+| {{Instrument|Winter Piano|table}}
+| {{Instrument|Prophecy Drum|table}}<ref name="unreleased_drum">The Instrument used is a unreleased variant of the Prophecy Drum, which can be seen on the Instrument display</ref> <!-- Change this after the drum is available for purchase -->
+| {{Instrument|Horn|table}}
+|-
+| 4
+| data-sort-value="13"| {{Music Sheet|13|table}} #13
+| Melody
+| {{Instrument|Lute|table}}
+| {{Instrument|Triumph Handpan|table}}
+| {{Instrument|Bugle|table}}<ref name="unreleased_bugle">The Instrument used is a unreleased variant of the Bugle, which can be seen on the Instrument display</ref> <!-- Change this after the bugle is available for purchase -->
+|-
+| 5
+| data-sort-value="16"| {{Music Sheet|16|table}} #16
+| Bass
+| {{Instrument|Contrabass|table}}
+| {{Instrument|Electric Guitar|table}}
+| {{Instrument|Flute|table}}
+|-
+! colspan="6" | Rotation 2: since patch {{V|0.18.5}} on August 17, 2022
+|-
+| 6
+| data-sort-value="21"| {{Music Sheet|21|table}} #21
+| Wind
+| {{Instrument|Bugle|table}}
+| {{Instrument|Xylophone|table}}
+| {{Instrument|Winter Piano|table}}
+|-
+| 7
+| data-sort-value="27"| {{Music Sheet|27|table}} #27
+| Melody
+| {{Instrument|Ukulele|table}}
+| {{Instrument|Prophecy Drum|table}}
+| {{Instrument|Panflute|table}}
+|-
+| 8
+| data-sort-value="28"| {{Music Sheet|28|table}} #28
+| Wind
+| {{Instrument|Flute|table}}
+| {{Instrument|Guitar|table}}
+| {{Instrument|Sanctuary Handpan|table}}
+|-
+| 9
+| data-sort-value="22"| {{Music Sheet|22|table}} #22
+| Wind
+| {{Instrument|Vessel Flute|table}}
+| {{Instrument|Lute|table}}
+| {{Instrument|Contrabass|table}}
+|-
+| 10
+| data-sort-value="24"| {{Music Sheet|24|table}} #24
+| Melody
+| {{Instrument|TGC Guitar|table}}
+| {{Instrument|Large Bell|table}}
+| {{Instrument|Horn|table}}
+|}
+
+=== Music Challenge ===
+In the far left corner on the first floor of Harmony Hall, a small stool offers players the '''Music Challenge''', activated by clicking on the {{Icon|Exclamation-mark-Ray.png}} exclamation mark above it. The challenge requires players to play the current week's [[#Featured Music Sheet|featured]] Music Sheet [[Music Sheet Parts|part]]. The Instrument the player uses during the challenge is predetermined and cannot be changed. If the Music Sheet is played accurately enough, the player will be rewarded with up to 100 [[Pieces of Light]] per day. Players can make multiple attempts to complete the challenge if they don’t receive the full quantity the first time. 
+
+The quantity of Light is awarded in two halves. 50 Pieces of Light are awarded for a moderate level of accuracy, which appear as a cluster of light floating near the floor. Another 50 Pieces of Light are awarded if a higher level of accuracy is achieved, appearing as a cluster higher up in the air. The challenge can be repeated as many times as one likes per day, but each Light reward can only be received once per day.
+
+<gallery widths="200" spacing="small" captionalign="center" mode="nolines">
+Harmony Hall - Muscial quest corner.jpg|The Music Challenge corner
+music-challenge-perfect-accuracy.png|Player glows when achieving perfect accuracy in the music challenge
+</gallery>
+
+=== Song Demonstration ===
+On the second floor, the [[Mellow Musician]] can be found standing on a small stage. Upon approaching the Spirit, players are given a chance to "Play along while the Spirit demonstrates a song". Both the player and Spirit use the same Instrument that is selected by default with the current week's [[#Featured Music Sheet|featured]] Music Sheet. A different Music Sheet can be selected at any time during the performance. Once the performance is over (or has been cancelled), the Mellow Musician claps and offers the player a {{Icon|Icon hug.png|link=Friendship Menu#Hug}} Hug. After each performance, players are able to request another demonstration. No reward is given for this task.
+
+=== Jam Session ===
+On the second floor, in the right corner by a flower bouquet near some stools, is where players can participate in a Jam Session with the [[Performance Guide]] and the [[Frantic Stagehand]]. This activity is only possible when the Ancestors are standing in front of the bouquet, which first happens 8.5 minutes after the player enters Harmony Hall. They stand there for 3.5 minutes, then repeat their 18.5 minute-long cycle of walking through the Hall, before returning to the bouquet once again.
+
+When selecting the {{Icon|Music-note-icon.png}} music note icon, the player is asked, "Do you want to jam together?". By default, the player plays the current week's [[#Featured Music Sheet|featured]] Music Sheet part, while the Spirits play two other parts from the same Music Sheet. The player may instead choose a different Music Sheet (any purchased one) to play at anytime during the Jam Session.
+
+== Purchases ==
+=== <span id="Three new instruments">Premium Candle Shop</span> ===
+Four Instruments are '''''permanently available''''' in Harmony Hall as in-app purchases, some of which are inspired by previously released Instruments. The Instruments can be purchased by selecting the the {{Icon|Gift-box-icon.png}} gift icon over the violin on the Front Counter. <!--[[#Spell Shop|Spell versions]] of each Instrument are available for a limited time, allowing you to try out the Instruments.--> 
+
+====Fledgling Harp====
+<section begin="fledgling-harp" />
+::'''''"Crafted to inspire any beginner artist to shine."'''''
+The Fledgling Harp is inspired by the {{Instrument|Laughing Light Catcher|inline_text}} with a new visual design; a white wing shape, marked with a blue {{Icon|SOPerformance-hair-accessory-icon-Morybel-0146.png}} treble clef on the front. Both Harps share the same sound. This Instrument was introduced in 2022 and is permanently available for {{Cost|4.99 USD|refnote}} from the Front Counter in [[Harmony Hall]].<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Fledgling Harp|iap}} {{!}} {{Icon Name|Fledgling Harp|name}} IAP
+{{Icon Name|Fledgling Harp|icon}} {{!}} {{Icon Name|Fledgling Harp|name}} icon
+{{Icon Name|Fledgling Harp|real}} {{!}} {{Icon Name|Fledgling Harp|name}}
+Performance-Fledgling-harp-playing.png {{!}} Playing the {{Icon Name|Fledgling Harp|name}}
+Performance-Fledgling-harp-on-back.png {{!}} {{Icon Name|Fledgling Harp|name}} on a player's back
+{{Icon Name|Fledgling Harp|spell}} {{!}} {{Icon Name|Fledgling Harp|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}<section end="fledgling-harp" />
+
+====Rhythm Guitar====
+<section begin="rhythm-guitar" />::'''''"Retrieved unharmed by the crabs, [[Pleaful Parent]] knows you'll put it to good use."'''''
+The Rhythm Guitar is inspired by the {{Instrument|Pleaful Parent|inline_text}} with a new visual design; white, with the sound hole shaped like a {{Icon|SOPerformance-hair-accessory-icon-Morybel-0146.png}} treble clef, a blue fretboard, and golden ornaments. Both Guitars share the same sound. This Instrument was introduced in 2022 and is permanently available for {{Cost|14.99 USD|refnote}} from the Front Counter in [[Harmony Hall]].<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Rhythm Guitar|iap}} {{!}} {{Icon Name|Rhythm Guitar|name}} IAP
+{{Icon Name|Rhythm Guitar|icon}} {{!}} {{Icon Name|Rhythm Guitar|name}} icon
+{{Icon Name|Rhythm Guitar|real}} {{!}} {{Icon Name|Rhythm Guitar|name}}
+Performance-Rhythm-Guitar-white-guitar-playing.png {{!}} Playing the {{Icon Name|Rhythm Guitar|name}}
+Performance-Rhythm-Guitar-white-guitar-on-back.png {{!}} {{Icon Name|Rhythm Guitar|name}} on a player's back
+{{Icon Name|Rhythm Guitar|spell}} {{!}} {{Icon Name|Rhythm Guitar|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}<section end="rhythm-guitar" />
+
+====Triumph Handpan====
+<section begin="triumph-handpan" />::'''''"Tuned to perfection from materials imbued with the dulcet tones of the [[Sanctuary Islands]] bell tower."'''''
+The Triumph Handpan is inspired by the {{Instrument|Sanctuary Handpan|inline_text}} with a new design; a dark blue body with yellow tassels and a {{Icon|SOPerformance-hair-accessory-icon-Morybel-0146.png}} treble clef symbol on its center. Compared to the original Handpan, it has a hollower sound. This Instrument was introduced in 2022 and is permanently available for {{Cost|19.99 USD|refnote}} from the Front Counter in [[Harmony Hall]].<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Triumph Handpan|iap}} {{!}} {{Icon Name|Triumph Handpan|name}} IAP
+{{Icon Name|Triumph Handpan|icon}} {{!}} {{Icon Name|Triumph Handpan|name}} icon
+{{Icon Name|Triumph Handpan|real}} {{!}} {{Icon Name|Triumph Handpan|name}}
+Performance-Triumph-Handpan-playing.png {{!}} Playing the {{Icon Name|Triumph Handpan|name}}
+Performance-Triumph-Handpan-on-back.png {{!}} {{Icon Name|Triumph Handpan|name}} on a player's back
+{{Icon Name|Triumph Handpan|spell}} {{!}} {{Icon Name|Triumph Handpan|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}<section end="triumph-handpan" />
+<br>
+<section begin="handpan_notes" />''<!-- NOTE: This chunk of text is exactly duplicated for the Sanctuary Handpan -->
+[[File:Handpan Aeras MochiDaifuku Tracey.png|thumb|right|300px|Handpan notes relative to base major scale, by Kathykitty#8028]]
+The Handpan plays the percussion [[Music Sheet Parts|part]] on Music Sheets. As with all percussion Instruments, it only has 8 notes. These notes are a subset (DACDFGAC in C major) of two medium-[[Instrument Pitch|pitch]] octaves: i.e., the first row notes are D<sub>3</sub>, A<sub>3</sub>, C<sub>4</sub>, and D<sub>4</sub> (from left to right); the second row notes are F<sub>4</sub>, G<sub>4</sub>, A<sub>4</sub>, and C<sub>5</sub>. These are a subset of the notes played by the {{Spirit Item|Laughing Light Catcher|Instrument|inline_text}}. The notes shift based upon the current key, as with all Instruments, so more generally the Handpan's notes correspond to notes 2, 6, 8, 9, 11, 12, 13, and 15 of the Harp. These notes are the [https://en.wikipedia.org/wiki/Pentatonic_scale pentatonic scale] of the 4th note of the major scale, i.e., when playing C Major Music Sheet, the Handpan is F Major pentatonic. When playing in the keys of G, A♭, A, B♭ or B Major, the Handpan's notes are shifted down by one octave, correspond to notes of the Horn instead.
+
+Note that when playing with other Instruments, other players' notes (the purple notes) are shown based on location, not pitch. So in C Major, if a Harp plays A<sub>4</sub> (its 6th note), the note that turns purple for the Handpan is its 6th note, which is G<sub>4</sub> instead of A<sub>4</sub>.
+<section end="handpan_notes"/>
+====Triumph Violin====
+<section begin="triumph-violin" />::'''''"Finely crafted for the aspiring virtuoso."'''''
+The Triumph Violin is blue with a yellow trim and red shoulder rest marked with a {{Icon|SOPerformance-hair-accessory-icon-Morybel-0146.png}} treble clef. It has the sustained notes feature, similar to i.e. the {{Spirit Item|Voice of AURORA|icon|label=Voice of AURORA|inline_text}}. This [[Instrument]] was introduced in 2023 during [[Days of Music]] and is permanently available for {{Cost|19.99 USD|refnote}} from the Front Counter in [[Harmony Hall]].
+
+The Triumph Violin plays the [[Music Sheet Parts|string part]] on [[Music Sheets]]. Its [[Instrument Pitch|pitch]] is the same as the standard {{Spirit Item|Cheerful Spectator|Instrument|inline_text}} (in C Major, it covers C<sub>4</sub> to C<sub>6</sub>).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Triumph Violin|iap}} {{!}} {{Icon Name|Triumph Violin|name}} IAP
+{{Icon Name|Triumph Violin|icon}} {{!}} {{Icon Name|Triumph Violin|name}} icon
+{{Icon Name|Triumph Violin|real}} {{!}} {{Icon Name|Triumph Violin|name}}
+Triumph-Violon-Instrument-playing.png {{!}} Playing the {{Icon Name|Triumph Violin|name}}
+Triumph-Violon-Instrument-wearing.png {{!}} {{Icon Name|Triumph Violin|name}} on a player's back
+{{Icon Name|Triumph Violin|spell}} {{!}} {{Icon Name|Triumph Violin|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}<section end="triumph-violin" />
+
+====Fledgling Upright Piano====
+{{#lst:Days of Music|fledgling-upright-piano}}
+
+=== <span id="Spells">Spell Shop</span> ===
+[[Spells#Shared Memory Spell|Shared Memory Spells]] are available by clicking on the {{Icon|Spell-Shop-icon-Morybel-0146.png}} Spell Shop icon above the scroll on the right of the Front Counter. One Shared Memory Spell is always available for {{Cost|5 C}}, and another is only available from ''Friday through Sunday'' for {{Cost|4 C}}.
+
+=== <span id="New Music Sheets">Harmony Hall Guide</span> ===
+[[File:Harmony-Hall-Guide-Table.png|thumb|x150px|Harmony Hall Guide Table]]
+Acting as the '''Harmony Hall Guide''', the [[Forgetful Storyteller]] sits at a table under the stairs on Harmony Hall's first floor. Their Friendship Tree can only be accessed once the player has {{Emote|Sit}} sat down on the small stool in front of the table. Five [[Music Sheets]] can be purchased from them, four of which are available for {{Cost|10 C}}, and one for {{Cost|5 C}}. For a ''[[Harmony Hall#The 2022 Grand Opening|limited time only]]'', the [[#Musical Hairpin|Musical Hairpin]] was available to purchase for {{Cost|50 C}}. It later returned for [[Days of Music#June 2023|Days of Music 2023]].
+
+<small>''Note that the Forgetful Storyteller and the Harmony Hall Guide have two separate Friendship Trees; the former can only be accessed once they return as [[Traveling Spirit]].''</small>
+{{Friendship Tree
+|image  = Performance-Spirit-Forgetful-Storyteller.png
+|label  = Harmony Hall Guide
+
+|nodeC6 =
+|nodeL5 = {{Icon Name|Triumph Saxophone|icon}} 125 C
+|  labelL5 = Triumph Saxophone
+|  linkL5 = Harmony Hall#Triumph Saxophone
+|nodeC5 = spell5
+
+|nodeL4 = {{Icon Name|Jam Station|icon}} 250 C
+|  labelL4 = Jam Station
+|  linkL4 = Harmony Hall#Jam Station
+|nodeC4 = spell5
+
+|nodeL3 = musicHH4 10 C
+|nodeC3 = spell5
+|nodeL2 = musicHH2 10 C
+|nodeC2 = spell5
+|nodeR2 = musicHH3 10 C
+|nodeL1 = musicHH5 5 C
+|nodeC1 = spell5
+|nodeR1 = musicHH1 10 C
+}}
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guides
+|content=
+<br>
+{{#ev:youtube|BP2Lo1pDr2E|300|inline|Music Sheet #HH1 Video Guide by Ikejiji}}&nbsp;
+{{#ev:youtube|YfctrDSVt_Q|300|inline|Music Sheet #HH2 Video Guide by Ikejiji}}&nbsp;
+{{#ev:youtube|K2M1s8SJ_cM|300|inline|Music Sheet #HH3 Video Guide by Ikejiji}}&nbsp;
+{{#ev:youtube|Ij6XaUGyjrc|300|inline|Music Sheet #HH4 Video Guide by Ikejiji}}&nbsp;
+{{#ev:youtube|ZLk1dCpq8HM|300|inline|Music Sheet #HH5 Video Guide by Ikejiji}}&nbsp;
+}}
+
+====Triumph Saxophone====
+{{#lst:Days of Music|triumph-saxophone}}
+
+====Jam Station====
+{{#lst:Days of Music|jam-station}}
+{{Clear}}
+
+== The 2022 Grand Opening ==
+[[File:SOPerformance-Harmony-Hall-Guide-Morybel-0146.jpg|thumb|right|300px|The Harmony Hall Guide with the Hairpin available during the Grand Opening]]
+<section begin="Summary-opening" />To celebrate its arrival, the Harmony Hall had a special '''2-week Grand Opening event''', from '''00:00 Monday May 23''' until '''23:59 Sunday June 5, 2022'''.<ref name="grand_opening_dates">Note that the [https://thatgamecompany.helpshift.com/a/sky-children-of-the-light/?p=all&s=patch-notes&f=patch-notes---may-17-2022---0-17-5-191024&l=en 0.17.5] patch notes stated the Grand Opening would end at "23:59 Monday June 5". The date was mistakenly labeled Monday (June 5 is a Sunday).</ref> A limited-time [[#Musical Hairpin|Musical Hairpin]] was available to commemorate the opening, and [[#Social Light|Social Light]] was added to the central hall. During the event, players could also obtain Spells for each of the [[#Purchases|three new Instruments]]. All other features of Harmony Hall are permanent and remained available after the end of the Grand Opening. The Instrument Spells and the Hairpin later returned in 2023, but not the Social Lights.<br>
+<br>
+{{Friendship Tree
+|image  = Performance-Spirit-Forgetful-Storyteller.png
+|label  = Harmony Hall Guide at The Grand Opening
+|nodeC3 = {{Icon Name|Musical Hairpin|icon}} 50 C
+|linkC3 = Harmony Hall#Musical Hairpin
+|labelC3= {{Icon Name|Musical Hairpin|name}}
+|noteC3 = <ref name="hairpin">The Musical Hairpin was a special item for the Harmony Hall [[#The 2022 Grand Opening|Grand Opening]] but later returned for [[Days of Music#June 2023|Days of Music 2023]] and is only available then.</ref>
+|nodeL2 = musicHH3 10 C
+|nodeC2 = spell5
+|nodeR2 = musicHH4 10 C
+|nodeL1 = musicHH1 10 C
+|nodeC1 = spell5
+|nodeR1 = musicHH2 10 C
+}}
+===Musical Hairpin===
+The Musical Hairpin [[Hair Accessory]] is a small blue hairpin in the shape of a {{Icon|SOPerformance-hair-accessory-icon-Morybel-0146.png}} treble clef, attached to the player's left ear. This item was introduced as a limited-time offer in 2022 during the Grand Opening for {{Cost|50 C}} from the [[#Harmony Hall Guide|Harmony Hall Guide]]. The Hairpin later returned in 2023 during [[Days of Music]].<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Musical Hairpin|icon}} {{!}} {{Icon Name|Musical Hairpin|name}} icon
+{{Icon Name|Musical Hairpin|real}} {{!}} {{Icon Name|Musical Hairpin|name}}
+|widths=125|spacing=small|captionalign=center
+}}<section end="Summary-opening" />
+
+===Social Light===
+Players who gathered in Harmony Hall were able to collect social light — [[Pieces of Light]] that would periodically appear and fall inside the hall. This social light shared the same maximum as most of the game's [[Additional Light Sources#Social Light Timed Events|Social Light]].
+
+==Trivia==
+* The Musical Hairpin is a recolor of a Chinese server-exclusive Hair Accessory. It was originally colored gold.
+* The mural found on the second floor was a teaser for [[Season of AURORA]] and was later shown in the [https://youtu.be/5LKhTBECETY?si=sXy7y4DEKkBmAR6d AURORA Teaser Trailer] released by TGC.
+* Before [[Days of Music#July 2023|Days of Music 2023]], the [[#Rhythm Guitar|Rhythm Guitar]] used to be displayed on the Front Counter, and the [[Triumph Handpan]] was placed where now the [[Triumph Saxophone]] is.
+
+== Notes ==
+<references />
+
+{{GameLevelsNav}}
+
+[[fr:Hall de l'Harmonie]]
+[[pt-br:Salão da Harmonia]]
+[[ja:奏の音楽堂]]
+[[de:Harmoniesaal]]
+
+[[Category:Weekly Content]]
+[[Category:Music]]
+[[Category:Valley of Triumph]]

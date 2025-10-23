@@ -1,0 +1,189 @@
+{{Getting Started Nav|2}}
+
+==Movement/Controls==
+Your movement consists of '''walking/running/skating''', '''swimming''', '''jumping''', and '''flying'''. You can also '''emote''', '''interact''' with your environment, and '''honk/deep call'''.
+{{Tip|"Honking" refers to your player character's short call, also known as "chirp". To honk, tap on yourself.<br>To make a "big call", "deep call", "yell", or "long call", hold instead of tapping.}}
+In the tutorial, you unlock flying shortly into the Isle of Dawn, the first realm.
+* For flight, see [[Menus_and_Controls#Flight_and_Movement_Controls:_iOS_and_Android]] and [[Advanced Flying]].
+* For swimming/diving, see [[Season_of_Abyss#Dive_Mechanic]].
+
+===What can I interact with?===
+Most interactions are shown via a dark grey circle above the item/spirit/etc you can interact with. The icon in the circle shows you what type of interaction it is. A non-exhaustive list:
+* {{Icon|Icon_flame.png}} — bring out your candle and slowly walk towards the item to light,
+** {{Icon|Light-someone-Ray.png}} — the same, but when lighting a player.
+* {{Icon|Grab-Ray.png}} — collect the wax from/pick up items,
+* {{Icon|ButterflyCharmer-1.png}}(any emote) — perform that emote to affect something in your environment (you must have learned the expression first),
+* {{Icon|Icon high five.png}}(any 2-player emote) — perform that emote with the Spirit or player,
+* {{Icon|Merch-Ray.png}} — access the spirit's friendship tree.
+If you're in a spot with multiple possible interactions, you might need to shimmy around a little to have the right item's interaction pop up.
+
+Aside from that, you can 
+* deep call to get a boost from nearby butterflies.
+
+===Navigating the UI===
+{{Mobile Tabber
+|tab1 = Mobile
+|c1   =
+[[File:Menus.png|thumb]] Note: maybe have to grab a more updated img; when do daily quests unlock?
+<br>
+|tab2 = Keyboard
+|c2   = <br>
+???
+<br>
+|tab3 = Controller
+|c3   = <br>
+???
+<br>
+|tab4 = Switch
+|c4   = <br>
+???
+<br>
+}}
+<hr/>
+
+
+
+TBA FOR OTHER PLATFORMS
+* For more details, see [[Menus_and_Controls#Hidden_Icons_and_Menus_(iOS_and_Android)]].
+
+====Gear Menu/Settings====
+The settings, also known as the "gear menu" can be found:
+* (mobile) tap in the upper-right corner, the select the gear icon.
+* (keyboard) Esc.
+* (controller) options.
+* (switch) +.
+{{Tip|In Gear Menu > Control > Mouse&Keyboard/Controller > View Controls, you can see a picture of all your platform's keybinds!}}
+* For more details, see [[Menus and Controls#Gear_Menu]].
+
+====The Wing Menu====
+You can access the wing menu by:
+* (mobile) tap the wedges at the top-center of the screen.
+* (keyboard) ???.
+* (controller) ???.
+* (switch) ???.
+It will open to right half of the screen. There are three tabs to the wing menu: {{Icon|PointingCandlemaker-1.png}} Expressions, {{Icon|ConfidentSightseer-1.png}} Stances & Calls, and {{Icon|Pouch-icon.png}} Inventory (previously known as {{Icon|5CandlesSpell.png}} Blessings.
+
+=====Expressions Submenu=====
+''Express yourself!''
+Spirits will teach you an expression when you relive them. Your skykid can henceforth use the emote, call, or stance through the Expressions submenu.
+* For a list of emotes, stances, and calls, see [[Expressions]].
+
+=====Stances and Calls Submenu=====
+The Stances and Calls submenu lets you equip your skykid's stance and call! You can collect stances & calls from Spirits, just like Expressions.
+* For a list of emotes, stances, and calls, see [[Expressions#Stances]].
+
+=====Inventory Submenu=====
+The Inventory submenu holds your [[Dyes]] and [[Blessings (Spells)]], which are all consumable items. The number of any given item you have is shown in the number above the icon.
+
+* Prior to the [[Season of Radiance]], the Inventory submenu was known as the "Blessings submenu".
+
+==Currencies==
+Sky has three main categories of currency: candles, hearts, and event tickets. Each currency can be "forged" after collecting a specific amount of each's Wax or Fragments. Some can also be obtained in whole from specific locations, such as Spell Shops, Heart Gifts, or Daily Quests.<br>Some currencies have a seasonal version.  Seasonal currencies are only used to purchase items from the current Season. At the end of a season, remaining seasonal currencies will be converted to their regular variants.
+
+{| class="wikitable"
+! colspan="2" | Type
+! Uses
+! Obtained from...
+|-
+| rowspan="3" style="text-align:center" | {{Icon|Regular-candle-icon-Morybel-0146.png}}{{Icon|Question-mark-candle-Ray.png}}{{Icon|Ascended-candle-icon-Morybel-0146.png}}Candles
+| {{Icon|Regular-candle-icon-Morybel-0146.png}} '''[[Currency#Candles|Candles]]:''' the basic currency.
+| Used in Spirit and friendship trees.
+|
+*[[Daily Quests]] (off-season),
+*[[Pieces of Light]] found around the realms.
+|-
+| {{Icon|Question-mark-candle-Ray.png}} '''[[Currency#Season_Candles|Seasonal Candles]]:''' special variant of regular candles available during a Season.
+| Used in the Season's new spirit trees.
+|
+*[[Daily Quests]] (during a season),
+*seasonal candle bunches.
+|-
+| '''{{Icon|Ascended-candle-icon-Morybel-0146.png}} [[Currency#Ascended_Candles|Ascended Candles]]:''' a very rare currency.
+| Used in Spirit trees to buy wing buffs, or Elder cosmetics. No seasonal variant.
+|
+*[[Eye_of_Eden#Ascension_and_Orbit|[EDEN SPOILER!] Orbit]],
+*[[Shard_Eruptions#Strong_Eruptions|Red Shard Eruption events]].
+|-
+| rowspan="2" style="text-align:center" | {{Icon|Heart.png}}{{Icon|Question-mark-heart-Ray.png}}Hearts
+| '''{{Icon|Heart.png}} [[Currency#Hearts|Hearts]]:''' a rare currency built from your relationship with Spirits and friends.
+| Used in Spirit and friendship trees to unlock higher levels of expressions; or for rare cosmetics.
+|
+*Guide and [[Regular_Spirits#Friendship_Trees|Spirit friendship trees]],
+*the Friend Constellation by sending [[Constellation_Table#Send_or_Collect_Gifts_of_Light|fragments]] or [[Constellation_Table#Mail_or_Collect_Heart_Gift|hearts]].
+|-
+| '''{{Icon|Question-mark-heart-Ray.png}} [[Currency#Hearts|Seasonal Hearts]]:''' variant of regular hearts only available to Season Pass holders.
+| Used to purchase "ultimate gifts" from the Seasonal Guide.
+|
+*the [[Seasonal_Spirits#Seasonal_Spirit_Trees|season's spirits' trees]].
+|-
+| style="text-align:center" | {{Icon|Question-mark-ticket-Ray.png}}<br>[[Currency#Event_Currency|Event Tickets]]
+| A currency specifically for Special/"Days of ..." Events.
+| Used to purchase that year's new event items.
+|
+*participating in the event activities.
+|}
+
+<!--
+<br>'''{{Icon|Regular-candle-icon-Morybel-0146.png}} [[Currency#Candles|Candles]]:''' the basic currency. Obtainable from daily quests (off-season), as well as wax found around the realms. Used in Spirit and friendship trees.
+<br>'''{{Icon|Question-mark-candle-Ray.png}} [[Currency#Season_Candles|Seasonal Candles]]:''' special variant of regular candles available during a Season. Obtainable from seasonal candle bunches and daily quests. Used in the Season's new spirit trees.
+<br>'''{{Icon|Heart.png}} [[Currency#Hearts|Hearts]]:''' a rare currency built from your relationship with Spirits and friends. Hearts are obtainable through Spirit trees, or gained over time from friends. Used in Spirit and friendship trees to unlock higher levels of expressions; or for rare cosmetics.
+<br>'''{{Icon|Question-mark-heart-Ray.png}} [[Currency#Hearts|Seasonal Hearts]]:''' variant of regular hearts only available to Season Pass holders. Used to purchase "ultimate gifts" from the Seasonal Guide.
+<br> '''{{Icon|Ascended-candle-icon-Morybel-0146.png}} [[Currency#Ascended_Candles|Ascended Candles]]:''' a very rare currency earned from Orbit or Red Shard Events. Used in Spirit trees to buy wing buffs, or Elder cosmetics. No seasonal variant.
+<br>'''{{Icon|Question-mark-ticket-Ray.png}} [[Currency#Event_Currency|Event Tickets]]:''' a currency specifically for Special/"Days of ..." Events. Found in the event area.
+<br>-->
+* For all seasonal/event currencies, the question mark is replaced by the season/event icon.
+* For more details, see [[Currency]].
+* For a general guide on obtaining currencies, see [[Getting Started Guide/Rotating]].
+
+==In-App Purchases (IAP)==
+A small subset of in-game items are only available for real-life currencies. These are referred to as "IAPs".
+
+You can access the main [[Premium Candle Shop]] from anywhere, but some items might only be found in {{Icon|Gift-box-icon.png}} special shops in the event area. The purchase is made through the app store/digital marketplace of your specific platform — for example, on iOS you buy through the App Store, Switch through the eShop.
+
+* The only sources of in-game items are through the app or thatskyshop.com. Be careful about scams!
+* There is no in-game way of disabling purchases; you will have to check your platform's digital marketplace settings.
+* Receipts are similarly only available through the platform marketplace you purchased them on.
+
+==Managing Your Account==
+Most account-related utility can be found in the Account menu, found at: {{Icon|Settings-gear-Ray.png}}Settings->{{Icon|Checkmark-Ray.png}}Account.<br>
+Your "Sky ID" is a unique identifier for your account, as Sky doesn't have usernames. It can be found in Account->Account Information.
+<br>
+{{Tip|To help with recovering your account, or other support ticket items, save your Sky ID somewhere secure! Do NOT share your ID, except with Customer Support!}}
+
+===Saving Your Progress/Linking Your Account===
+Your progress is saved locally to your device. However, to play on the same account across platforms, or if you uninstall the game, you must '''link your account'''.<br>
+You link your Sky game progress to an account on an external platform. As of 07 December 2024, the types of accounts you can link to are: Game Center, Gmail, Facebook, Apple, Nintendo, HUAWEI, Playstation, Steam, and Twitch. The easiest might be Gmail, if you have it.
+* One Sky account can be linked to multiple external accounts, as long as they're different types.
+* One external account cannot be linked to multiple Sky accounts; you must first unlink it from the old Sky account ([https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/faq/1292-i-accidentally-created-a-new-sky-account-on-steam-before-linking-my-existing-sky-account-how-do-i-unlink-the-new-sky-account-and-link-my-existing-account/ how to unlink]).
+* On a new device, log into your external account '''first''', or else a fresh savefile and account will be made locally.
+
+To link an account, go to {{Icon|Checkmark-Ray.png}}Account, then select your desired external account type, and log in.
+
+Then, on the login screen (with the message of the day and the Play button), select "Sign In Method" at the bottom and sign into that same account.
+
+'''Important Notes:'''
+* After making a purchase on a game account, you may be unable to unlink its external accounts.
+* Customer Support cannot help you manually unlink accounts.
+* When playing on Switch/PC/Playstation, your account is automatically linked to the Nintendo/Steam/Playstation account logged into.
+* You may need to download Sky on mobile for the ability to link to the other types of external account.
+* By linking to a Game Service (ex: Game Center), Support may be unable to recover your account should you lose it.
+
+===Contacting Support===
+The fastest way to contact TGC Support for account-related things is through the game. Go to Settings->Support; the FAQ/Support page will then open. In the top-right, click on the speech bubble and select your issue category to begin the chat.<br>
+Other ways include using the "Contact Us" form at the bottom of the [https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/ web version of the FAQ] or through email.
+
+===Recovering An Account===
+To recover an account, you must contact Support. They will then request the following information:
+* your new Sky ID,
+* the Sky ID for the account you wish to recover,
+* the nicknames of 5 friends on your account.
+
+If you do not have your ID, please contact someone who you’re friends with in Sky who can submit a ticket on your behalf including the nickname they’ve given you on their account as well as your ticket number. This will be used to locate your account in our system.<ref>https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/faq/931-what-does-tgc-need-to-recover-my-lost-sky-account/</ref>
+
+'''Note that if the account was linked with a Game Service, they cannot recover it.'''
+
+===Deleting An Account===
+Deleting an account is '''permanent''', and the account can no longer be restored. It will remove all your personal and game data from Sky and its servers. To do this, go to Account->Account Info->Delete Account.
+
+==Common Terms/Abbreviations==
+TBA

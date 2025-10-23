@@ -1,0 +1,144 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Passage-Tumbling-Troublemaker-Cutout.png|Original
+Passage-Spirit-Tumbling-Troublemaker-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||headpiece|infobox}}{{Spirit Item||Hair|infobox}}{{Spirit Item||Cape|infobox}}
+|props	   = 
+|music     = 
+|season    = Passage
+|realm     = Isle of Dawn
+|location  = Passage Stone
+|ts        = April 24, 2025 (#138)
+}}
+<section begin="Summary" />The '''Tumbling Troublemaker''' is a [[Seasonal Spirit]] from the [[Season of Passage]] who offers the {{Emote|Tumbling Troublemaker|inline_text}} Expression. The Tumbling Troublemaker is found in the [[Isle of Dawn]], on the far right side of the [[Passage Stone]], past the small cavern where [[Children_of_Light#Isle_of_Dawn_(9)|Isle WL 4]] is located. The collectibles [[#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Tumbling Troublemaker|headpiece|inline_text}}, a {{Spirit Item|Tumbling Troublemaker|Hair|inline_text}}, and a {{Spirit Item|Tumbling Troublemaker|Cape|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Passage-Tumbling-Troublemaker-Introduction.png|thumb|320px|none|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|LQAdsM3l6vg||inline|Video Guide}}
+
+The Tumbling Troublemaker can be found in the [[Isle of Dawn]], on the far right side of the [[Passage Stone]], past the small cavern where [[Children_of_Light#Isle_of_Dawn_(9)|Isle WL 4]] is located. (''Note: Meditate next to the Passage Stone campfire and turn Isle of Dawn to nightfall in order to see this Spirit.'') This Spirit has a [[Standard Memory|standard memory]] with 6 memory fragments and a 15-minute overall [[Timed Memory|time limit]]. 
+
+As their memory unfolds, the Tumbling Troublemaker can be seen dancing while two other young Spirits are busy collecting stones in a basket. The playful Spirit then juggles two stones while the other two carry their basket onwards across the dunes. Halfway down a small incline, the Tumbling Troublemaker trips and starts rolling alongside the stones they dropped. At the bottom of the slope, the Tumbling Troublemaker and the stones crash into the other two Spirits, knocking them down and causing their basket to go flying.
+
+At the end of the memory, the Tumbling Troublemaker raises their head, a little dazed, as the other two Spirits burst into laughter and shake their heads in dismay.
+</div>
+
+==<span id="Expression">Expression</span>==
+This Spirit offers the {{Emote|Tumbling Troublemaker|inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name|Tumbling Troublemaker|emote}}|x170px]]
+<gallery heights="125">
+Tumbling-Troublemaker-emote-level-1.gif|{{Icon Name||emote name}} Level 1
+Tumbling-Troublemaker-emote-level-2.gif|{{Icon Name||emote name}} Level 2
+Tumbling-Troublemaker-emote-level-3.gif|{{Icon Name||emote name}} Level 3
+Tumbling-Troublemaker-emote-level-4.gif|{{Icon Name||emote name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar squat down with both arms stretched out in front of them, while a squeaky toy sound effect plays. This Expression will temporarily replace your basic walk and can be canceled by jumping or flying up once. When moved, your avatar will start rolling forward along the ground, bringing their feet over their head. A squeaky toy sound effect plays at each completed revolution.
+*Level 2 makes the same motion as Level 1, with a trail of small, glowing, orange particles of light flying vertically around your avatar with each roll.
+*Level 3 will make your avatar squat down with their arms held close to their body and their hands placed on their knees, while a squeaky toy sound effect plays. This Expression will temporarily replace your basic walk and can be canceled by jumping or flying up once. When moved, your avatar will start rolling forward just as in Level 1, but at a much faster pace with their body held closely together, making them look like a blurred ball. A squeaky toy sound effect will play at each completed revolution.
+*Level 4 makes the same motion as Level 3, with a wide trail of small, glowing, golden particles of light following your avatar's trail on the ground.
+
+<!--As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.-->
+
+==Cosmetics==
+===<span id="hair accessory">Head Accessory</span>===
+The [[Head Accessory]] <ref name="Hair Accessory recategorized">This item was recategorized from a [[Hair Accessory]] to a [[Face Accessory]] as a result of the [[Outfit Shrine|Closet]] category expansion in Patch {{v|0.22.0}}. It became a [[Head Accessory]] after the split of the [[Face Accessory]] category in Patch {{v|0.27.0|0.27.0}}.</ref> offered by this Spirit is a pair of earrings that reach till shoulder level, consisting of a silver, crescent-shaped piece near the ear and two pieces of thin fabric tied to it, one piece colored maroon, the other yellow, costing {{Cost|55 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fifth node ({{Cost|86 SC|season=Passage}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||headpiece|icon}} {{!}} The Head Accessory icon
+{{Icon Name||headpiece|real}} {{!}} The Head Accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="hair">Hair</span>===
+The [[Hair]] offered by this Spirit includes short, spiky hair, and a wide maroon forehead band, costing {{Cost|40 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|8 SC|season=Passage}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="cape">Cape</span>===
+The [[Cape]] offered by this Spirit includes a beige cape made of fur that goes to chest level and has two pom-poms attached on maroon drawstrings on the front, and a separate raccoon tail attached to the lower torso, colored in beige and brown stripes, costing {{Cost|80 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|54 SC|season=Passage}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||Cape|interior}} {{!}} The Cape interior
+{{Icon Name||Cape|back}} {{!}} The Cape back
+{{Icon Name||Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Traveling Spirit==
+{{Friendship Tree Info | traveling
+|ts_dates=*April 24, 2025 (#138)
+}}
+<section begin='TS Friendship Tree' />{{Friendship Tree
+|spirit = Tumbling Troublemaker
+|image  = Passage-Tumbling-Troublemaker-Cutout.png
+|season = Passage
+
+|nodeC6 = cape 80 C
+
+|nodeL5 = headpiece 55 C
+|nodeC5 = spellx 5 C
+
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+
+|nodeC3 = wing
+
+|nodeL2 = hair 40 C
+|nodeC2 = spellx 5 C
+|nodeR2 = Heart 3 C
+
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end='TS Friendship Tree' />
+
+==Season Friendship Tree==
+{{Friendship Tree Info | season| season=Passage}} 
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Tumbling Troublemaker
+|image  = Passage-Tumbling-Troublemaker-Cutout.png
+|type   = season
+|season = Passage
+
+|nodeC6 = season_heart 3 SC SP
+|nodeL5 = headpiece SP
+|nodeC5 = spellx 32 SC
+|nodeL4 = cape SP
+|nodeC4 = spellx 28 SC
+|nodeL3 = emote4 SP
+|nodeC3 = emote3 18 SC
+|nodeL2 = hair SP
+|nodeC2 = spellx 8 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Unique Daily Quests==
+{{#section-h:Quests/Daily Quest Spirits|{{PAGENAME}}}}
+
+==Personality==
+On April 16, 2023, TGC officially announced and introduced the Tumbling Troublemaker with the following personality traits:
+
+* 😗 Taught themselves to imitate bird calls, mainly to play tricks on people
+* 💤 Sleeps until noon if left to their own devices
+* 🤷 Isn’t sure why other people think their procrastination is a problem
+* 🪄 Spends hours and hours practicing magic tricks
+
+==References==
+<references />
+
+[[fr:Trublion virevoltant]]
+[[ru:Кувыркун-проказник]]
+[[pt-br: Instigante Instável]]
+[[ja:ぐるぐる回るいたずらっ子]]

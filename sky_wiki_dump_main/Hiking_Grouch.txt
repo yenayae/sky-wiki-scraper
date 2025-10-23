@@ -1,0 +1,192 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = Sanctuary-Spirit-Hiking-Grouch.png
+|cosmetics = {{Spirit Item||Mask|infobox}}{{Spirit Item||Neckpiece|infobox}}{{Spirit Item||Hair|infobox}}
+|props = {{Spirit Item||Prop|infobox}}
+|season    = Sanctuary
+|realm     = Daylight Prairie
+|location  = Sanctuary Islands
+|ts        = August 7, 2023 (SV#4)<br/>February 17, 2022 (#55)
+}}
+<section begin="Summary" />The '''Hiking Grouch''' is a [[Seasonal Spirit]] from the [[Season of Sanctuary]] who offers the {{Emote|Hiking Grouch|inline_text}} Expression. The Hiking Grouch is found in the [[Sanctuary Islands]], on a grassy outcrop to the right of the main island when facing its front. The collectibles [[#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Hiking Grouch|Mask|inline_text}}, a {{Spirit Item|Hiking Grouch|Neckpiece|inline_text}}, a {{Spirit Item|Hiking Grouch|Hair|inline_text}}, and a {{Spirit Item|Hiking Grouch|Prop|label=Double Deck Chairs Prop|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Hiking-Grouch-promo-image.jpg|thumb|320px|none|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|fILkeV1zji4||inline|Video Guide}}
+
+The Hiking Grouch can be found in the [[Sanctuary Islands]], on a grassy outcrop to the right of the main island when facing its front. This Spirit has a [[Carry Spirit Memory|carry spirit memory]] with 6 memory fragments and a 25-minute overall [[Timed Memory|time limit]].
+
+During the memory, the Spirit must be carried all the way up the mountain. Certain sections of the path require flying while carrying the Spirit, making this one of the more difficult memories to complete - particularly for players with little [[Winged Light]]. The best way to complete this memory is to slowly fly up against the wall while carrying the light - this ensures that the light does not fall down but instead "climbs up the wall" with the player.
+
+As their memory unfolds, the Hiking Grouch can be seen being lead up the mountain by the [[Sanctuary Guide]]. Together, the two Spirits climb the steps winding around the steep peaks to reach the summit - with the Hiking Grouch looking sullen throughout the entire trek. 
+
+At the end of the memory, the Sanctuary Guide gestures towards the stunning view from the top of the mountain, encouraging their companion to admire the islands' natural beauty. Utterly unimpressed, the Hiking Grouch crosses their arms and turns away, snubbing the Sanctuary Guide's efforts.<br>
+<br>
+[[File:01 DP Spirit - Hiking Grouch.png|200px|thumb|none|Relive the Hiking Grouch's memory]]
+</div>
+{{Clear}}
+
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Hiking-Grouch-grumpy-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Hiking-Grouch-grumpy-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Hiking-Grouch-grumpy-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Hiking-Grouch-grumpy-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar twist their upper body to the side, cross both arms, and turn their head away, before looking back and turning to the side again, while a squeaky sound effect resembling an infant's cry plays. This action is continued for as long as you don't move your character.
+*Level 2 makes the same motion as Level 1 with a red symbol portraying a popped vein appearing near the head.
+*Level 3 will make your avatar take an exaggeratedly big step to the side, their arms with balled fists swinging with the motion, before crossing their arms in a dramatically offended manner and periodically and abruptly looking over their shoulder, while a deeper squeaky sound effect resembling an infant's cry plays. This action is continued for as long as you don't move your character.
+*Level 4 makes the same motion as Level 3 with red symbol portraying a popped vein appearing near the head and white light sparkles flying out at the beginning of the motion.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+== Cosmetics==
+=== Mask ===
+This [[Mask]] offered by this Spirit includes a [[Masks#Base Mask|Base Mask]] and a set of bushy eyebrows and mustache, costing {{Cost|34 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|12 SC|season=Sanctuary}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Neck Accessory <span id="Necklace"></span>===
+The [[Neck Accessory]] offered by this Spirit is a black bowtie, costing {{Cost|50 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fifth node ({{Cost|60 SC|season=Sanctuary}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Neckpiece|icon}} {{!}} The Neck Accessory icon
+{{Icon Name||Neckpiece|real}} {{!}} The Neck Accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Hair ===
+The [[Hair]] offered by this Spirit is a bald crown with a u-shaped pattern of hair around the head, costing {{Cost|42 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fourth node ({{Cost|42 SC|season=Sanctuary}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Prop ===
+The [[Prop]] offered by this Spirit is a pair of blue folding beach chairs with faint triangle markings, costing {{Cost|16 H}} from the Traveling Spirit. It is a placeable Prop that can be used to decorate [[Shared Spaces]], and allows two players to sit and chat at the same time. The Prop appears as a miniature version of the beach chairs on its owner's back when carried.
+
+This item was not available during the [[Season of Sanctuary]]. Instead, it was first introduced as an [[Special Events|event]] item for [[Days of Summer]] in August 2021 (costing the same {{Cost|16 H}}). It was then added to the Hiking Grouch's Friendship Tree during their first return as a [[Traveling Spirit]] on February 17, 2022.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Prop|icon}} {{!}} The Prop icon
+{{Icon Name||Prop|real}} {{!}} The Prop
+{{Icon Name||Prop|back}} {{!}} The Prop on a player's back
+{{Icon Name||Prop|held}} {{!}} A player sitting on the Prop
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Traveling Spirit ==
+[[File:Traveling Spirit 055 Summary.png|200px|right|thumb]]
+{{Friendship Tree Info | traveling
+|ts_dates=*February 17, 2022 (With a new [[#Prop|Prop]]) (#55)
+|rs_dates=*August 7, 2023 (SV#4)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Hiking Grouch
+|season = Sanctuary
+|image  = Sanctuary-Spirit-Hiking-Grouch.png
+
+|nodeC6 = Neckpiece 50 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeR4 = Hair 42 C
+|nodeC3 = wing
+|nodeL2 = Mask 34 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+|nodeR1 = Prop 16 H NEW
+}}<section end="TS Friendship Tree" />
+
+=== Hints ===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+The hints given before the [[Hiking Grouch]]'s first appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=First Visit Hint
+|content=<div>
+* Doesn't like being told what to do
+* Has great dental hygiene
+* Likes watching game shows and reality TV
+* Has clear skin 
+* Likes getting hugs
+* Makes great cookies...but never eats them!
+* Dislikes sunny days. They like cloudy ones instead!
+* Drinks espresso with no sugar or cream
+* Is a great artist, but they're secretive about their drawings
+* Once dreamed of being an actor 
+* Dislikes running
+* Likes playing strategy games
+* Would live in fear of genchat tbh
+* Enjoys dancing the Polka
+* Enjoys taking siestas
+* Gets seasick on long voyages
+* Enjoys reading research papers
+* Has never watched anime
+* Is allergic to pollen
+* Is not a season guide
+* Enjoys reading poetry
+* LOVES quiche with a passion
+* Is bad at 2player competitive video games
+* Has a world record achievement, but they won't tell anyone what it is
+* Enjoys typical elevator music
+* Is scared of small creatures
+* Is a Scorpio sun, Capricorn moon
+</div>
+}}
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Sanctuary}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Hiking Grouch
+|type   = season
+|season = Sanctuary
+|image  = Sanctuary-Spirit-Hiking-Grouch.png
+
+|nodeC6 = season_heart 3 SC AP
+|nodeL5 = Neckpiece AP
+|nodeC5 = spell5 18 SC
+|nodeL4 = spell5 AP
+|nodeC4 = Hair 16 SC
+|nodeL3 = emote4 AP
+|nodeC3 = emote3 14 SC
+|nodeL2 = Mask AP
+|nodeC2 = spell5 12 SC
+|nodeL1 = emote2 AP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Trivia==
+*The Hiking Grouch is featured in a piece of merch from thatskyshop, in the form of the [[That Sky Shop/Wave 11#Sanctuary Grouch Coin Pouch|Sanctuary Grouch Coin Pouch]].
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Grouchy expression .jpg
+Sanctuary Images recap-grouch how to.jpg
+Sanctuary Images recap-grouch group.jpg
+AP Sanctuary 9.png
+Hiking grouch map .png
+</gallery>
+
+==References==
+<references />
+
+[[de:Wandermuffel]]
+[[pt-br:Caminhante Resmungão]]
+[[ru:Странствующий ворчун]]
+[[fr:Râleur de randonnée]]

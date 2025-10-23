@@ -1,0 +1,101 @@
+{{Spirit Infobox
+|type      = Non
+|image     = Memory-of-a-Lost-Village-Shop.png
+|emote_type= None
+|cosmetics = {{Spirit Item|Memory of a Lost Village|Outfit|infobox}}{{Spirit Item|Memory of a Lost Village|Hair|infobox}}{{Spirit Item|Memory of a Lost Village|Cape|infobox}}
+|season    = Revival
+|location  = Aviary Village
+|ts        = None
+}}
+<section begin="Summary" />The '''Memory of a Lost Village''' is a [[Ancestors#Seasonal Entities|Seasonal Shop]] from the [[Season of Revival]]. The Memory of a Lost Village is found within the left-most building in [[Aviary Village]], marked outside by a sign with Revival's emblem. The collectibles offered by this Shop are an {{Spirit Item|Memory of a Lost Village|Outfit|inline_text}}, a {{Spirit Item|Memory of a Lost Village|hair|inline_text}}, and a {{Spirit Item|Memory of a Lost Village|Cape|inline_text}}.<section end="Summary" />
+
+==Cosmetics==
+===<span id="Outfit">Outfit</span>===
+The [[Outfit]] offered at this Shop is a slim, sleeveless beige robe with a matching sash around the waist. It was available to all players during the Season from the Friendship Tree's second node ({{Cost|52 SC|season=Revival}} total).
+{{#tag:gallery
+|{{Icon Name|Lost Village|outfit}} {{!}} The Outfit icon
+{{Icon Name|Lost Village|outfit|real}} {{!}} The Outfit front
+{{Icon Name|Lost Village|outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Hair">Hair</span>===
+The [[Hair]] offered at this Shop is a shoulder-length locs hairstyle decorated with colorful beads. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's third node ({{Cost|90 SC|season=Revival}} total).
+{{#tag:gallery
+|{{Icon Name|Lost Village|Hair}} {{!}} The Hair icon
+{{Icon Name|Lost Village|Hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Cape">Cape</span>===
+The [[Cape]] offered at this Shop is navy colored and tattered with a red trim featuring a pronged design, two large rips at the left shoulder, and a red gradient interior. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's first node ({{Cost|20 SC|season=Revival}} total).
+{{#tag:gallery
+|{{Icon Name|Lost Village|Cape}} {{!}} The Cape icon
+{{Icon Name|Lost Village|Cape|front}} {{!}} The Cape front
+{{Icon Name|Lost Village|Cape|interior}} {{!}} The Cape interior
+{{Icon Name|Lost Village|Cape|real}} {{!}} The Cape back
+{{Icon Name|Lost Village|Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Season Friendship Tree==
+This [[Friendship Tree (Seasonal)|Friendship Tree]] provides the [[collectibles]] sold by this [[Season of Revival#Shops_&_Cosmetics|Shop]] during the [[Season of Revival]]. This Tree can no longer be accessed. However, the items listed here will be available for purchase when the Shop returns as a [[Traveling Spirit]] - or in some other form.
+
+It is currently unknown how these items will return after the Season of Revival has ended. Because the Memory of a Lost Village was not a Seasonal Spirit, either the Traveling Spirit system would have to be modified to allow for non-Spirits, or else thatgamecompany will have to introduce another mechanism for obtaining past-Season cosmetics.
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Memory of a Lost Village
+|image  = Memory-of-a-Lost-Village-Shop.png
+|type   = season
+|season = Revival
+
+|nodeC4 = season_heart 3 SC SP
+
+|nodeL3 = hair SP
+|nodeC3 = spellx 38 SC
+
+|nodeL2 = spellx SP
+|nodeC2 = outfit 32 SC
+
+|nodeL1 = cape SP
+|nodeC1 = spellx 20 SC
+
+}}<section end="Season Friendship Tree" />
+
+==In Other Languages==
+{{Help|lang}}
+{{Other Languages|title=Memory of a Lost Village
+|fr            = Souvenir d'un village perdu
+|fr_meaning    = Memory of a Lost Village
+|ja            = 失われし村の記憶
+|ja_rom        = Ushinawareshi Mura-no Kioku
+|ja_meaning    = Memory of a Lost Village
+|id            =
+|id_meaning    =
+|de            = Erinnerung eines verlorenen Dorfes
+|de_meaning    = Memory of a Lost Village
+|vi            =
+|vi_meaning    =
+|ko            = 사라진 마을의 기억
+|ko_rom        = Salajin Ma-eul-ui Gieog
+|ko_meaning    = Memories of a Lost Village
+|es            = Recuerdo de una aldea perdida
+|es_meaning    = Memory of a Lost Village
+|it            = Memoria di un villaggio perduto
+|it_meaning    = Memory of a Lost Village
+|pt            = Lembrança de uma Aldeia Perdida
+|pt_meaning    = Memory of a Lost Village
+|ru            = Память об оставленной деревне
+|ru_rom        = Pamyat' ob ostavlennoy derevne
+|ru_meaning    = Memory of an Abandoned Village
+|zh_cn         =
+|zh_cn_meaning =
+|zh_tw         =
+|zh_tw_meaning =
+}}
+
+==References==
+<references />
+
+[[pt-br:Lembrança de uma Aldeia Perdida]]
+[[fr:Souvenir d'un village perdu]]
+[[Category:Season of Revival]]

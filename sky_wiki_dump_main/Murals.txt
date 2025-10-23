@@ -1,0 +1,250 @@
+{{Stub}}
+[[File:Hidden-forest-murals.png|thumb|A collection of murals]]
+Murals are found all across the realms depicting the lore of Sky. Each mural is labeled with what type they are (Glowing, Dim, Carving), what color they are (Gray, White, Yellow, Blue), what triggers them to appear or to be completed (Candles, Quest, Proximity, Memory) and the main depicted elements (Creatures, Symbols, Diamond, Spirits, Elder, Boat, Constellation, Temple, Skykid, Eden Elder, Spherelight, Colorlights, Environmental, Functionality).
+
+Compilation, descriptions, and main screenshot credit to salemango on Discord. A Retconned, some Isle, some Vault screenshots taken by eclipsethecoyote on Discord, the Office Portal and some Treasure Reef screenshots taken by alasdair_pl on Discord and some Isle screenshots taken by vela_pulsar on Discord. Transferring information to wiki and some missing Forgotten Ark screenshots taken by Ray808080.
+
+==Home Murals==
+<gallery widths="250" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+mural-home-portal-isle.png|{{Mural Caption|name=Isle Portal|type=Carving|elements=Elder}}
+mural-home-portal-prairie.png|{{Mural Caption|name=Prairie Portal|type=Carving|elements=Elder}}
+mural-home-portal-forest.png|{{Mural Caption|name=Forest Portal|type=Carving|elements=Elder}}
+mural-home-portal-valley.png|{{Mural Caption|name=Valley Portal|type=Carving|elements=Elder}}
+mural-home-portal-wasteland.png|{{Mural Caption|name=Wasteland Portal|type=Carving|elements=Elder}}
+mural-home-portal-vault.png|{{Mural Caption|name=Vault Portal|type=Carving|elements=Elder}}
+mural-home-portal-eden.png|{{Mural Caption|name=Eden Portal|type=Carving|elements=Elder}}
+mural-home-constellation-table.png|{{Mural Caption|name=Constellation Table|type=Dim, White|elements=Symbols}}
+mural-home-sleepy-traveler-boat.png|{{Mural Caption|name=Sleepy Traveling Merchant's Boat|type=Dim, White|elements=Symbols, Diamond}}
+mural-home-portal-aviary.png|{{Mural Caption|name=Aviary Portal|type=Carving|elements=Symbols}}
+</gallery>
+
+==Isle of Dawn Murals==
+===Main Area===
+<gallery widths="250" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+mural-isle-starting-cave-01.png|{{Mural Caption|name=Starting Cave - First|description=Isle Constellation with four spirits beneath|type=Glowing, Blue|trigger=Candles|elements=Constellation, Spirits}}
+mural-isle-starting-cave-02.png|{{Mural Caption|name=Starting Cave - Second|description=Isle temple and constellation with many spirits beneath|type=Glowing, Blue|trigger=Candles|elements=Constellation, Spirits, Temple}}
+mural-isle-starting-cave-03.png|{{Mural Caption|name=Starting Cave - Third|description=An empty sky except for five stars, four kneeling spirits beneath|type=Glowing, Blue|trigger=Candles|elements=Spirits}}
+mural-isle-starting-cave-04.png|{{Mural Caption|name=Starting Cave - Fourth|description=Falling stars with us forming from one of them, kneeling spirits in same location|type=Glowing, Blue|trigger=Candles|elements=Skykid, Spirits}}
+mural-isle-side-of-stone.png|{{Mural Caption|name=Side of Stone in Dunes|description=Four spirits holding spherelights, going upwards in boats|type=Glowing, Blue|trigger=Candles|elements=Spherelight, Spirits, Boat}}
+mural-isle-ushering-stargazer-stone.png|{{Mural Caption|name=Ushering Stargazer Stone|description=Four spirits holding spherelights, going to Isle Temple|type=Glowing, Blue|trigger=Memory|elements=Spherelight, Spirits, Temple}}
+mural-isle-pointing-candlemaker-cave-01.png|{{Mural Caption|name=Pointing Candlemaker Cave - First|description=Six spirits rejoice over an arrangement of candles|type=Glowing, Blue|trigger=Memory|elements=Spirits}}
+mural-isle-pointing-candlemaker-cave-02.png|{{Mural Caption|name=Pointing Candlemaker Cave - Second|description=A panorama of what Isle is|type=Glowing, Blue|trigger=Memory|elements=Spirits, Elder, Boat, Temple}}
+</gallery>
+===Isle Temple===
+<gallery widths="250" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Mural-isle-refusing-voyager-cave.png|{{Mural Caption|name=Rejecting Voyager Cave|description=Isle Elder directs mantas to what seems to be the sun or a more important spherelight - the Light?|type=Glowing, Yellow|trigger=Memory|elements=Elder, Creatures, Spherelight}}
+Mural-isle-temple-01.png|{{Mural Caption|name=Temple Wall - First|description=Visuals of first three temples in game after Isle. Frod bottom up: Prairie temple, Forest temple, Valley temple|type=Glowing, Blue|trigger=Candles|elements=Temple}}
+Mural-isle-temple-02.png|{{Mural Caption|name=Temple Wall - Second|description=Visuals of three places in rapid succession. From bottom up: Wasteland temple, Vault, Eden castle|type=Glowing, Blue|trigger=Candles|elements=Temple}}
+Mural-isle-temple-ceiling.png|{{Mural Caption|name=Temple Ceiling||type=Glowing, White|trigger=Opening door|elements=Creatures, Symbols}}
+Mural-isle-temple-door.png|{{Mural Caption|name=Temple Door||type=Glowing, White|trigger=Opening door|elements=Creatures, Symbols}}
+Mural-isle-temple-door-above.png|{{Mural Caption|name=Above Temple Door||type=Carving, Glowing, Yellow|elements=Symbols, Boat}}
+Mural-isle-temple-foot-of-statue.png|{{Mural Caption|name=Foot of Statue||type=Dim, White|elements=Symbols, Constellation}}
+</gallery>
+
+===Cave of Prophecies===
+<gallery widths="250" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Mural-isle-cave-of-prophecy-tunnel-01.png|{{Mural Caption|name=Tunnel Wall - First|description=The Blue Light sits on an island in the ocean|type=Glowing, Blue|trigger=Proximity|elements=Colorlights, Environmental}}
+Mural-isle-cave-of-prophecy-tunnel-02.png|{{Mural Caption|name=Tunnel Wall - Second|description=The Green Light sits on plateaus in Prairie, surrounded by flowers|type=Glowing, Blue|trigger=Proximity|elements=Colorlights, Environmental}}
+Mural-isle-cave-of-prophecy-tunnel-03.png|{{Mural Caption|name=Tunnel Wall - Third|description=The Cyan Light floats above floating islands in Prairie|type=Glowing, Blue|trigger=Proximity|elements=Colorlights, Environmental}}
+Mural-isle-cave-of-prophecy-tunnel-04.png|{{Mural Caption|name=Tunnel Wall - Fourth|description=The orange light rests in the Forest, starting a fire with curling smoke around it|type=Glowing, Blue|trigger=Proximity|elements=Colorlights, Environmental}}
+Mural-isle-cave-of-prophecy-caldron-01-lower.png|{{Mural Caption|name=Water Trial - Lower|description=Golden figure leaving Isle|type=Glowing, Blue|trigger=Floating rock with caldron|elements=Boat, Spirits}}
+Mural-isle-cave-of-prophecy-caldron-01-upper.png|{{Mural Caption|name=Water Trial - Upper|description=Golden figure entering the cave to begin trials|type=Glowing, Blue|trigger=Floating rock with caldron|elements=Boat}}
+Mural-isle-cave-of-prophecy-caldron-02.png|{{Mural Caption|name=Earth Trial|description=Golden figure completing trials|type=Glowing, Blue|trigger=Floating rock with caldron|elements=Colorlights, Boat, Environmental, Symbols}}
+Mural-isle-cave-of-prophecy-caldron-03-lower.png|{{Mural Caption|name=Air Trial - Lower|description=Golden figure distributing colored lights to different realms|type=Glowing, Blue|trigger=Floating rock with caldron|elements=Colorlights, Eden Elder, Boat, Spirits, Symbols}}
+Mural-isle-cave-of-prophecy-caldron-03-upper.png|{{Mural Caption|name=Air Trial - Upper|description=Shows different elders using lights|type=Glowing, Blue|trigger=Floating rock with caldron|elements=Colorlights, Spirits, Elder, Symbols}}
+Mural-isle-cave-of-prophecy-caldron-04.png|{{Mural Caption|name=Fire Trial|description=Overview of the kingdom with all the realms and elders, shows who got what light|type=Glowing, Blue|trigger=Floating rock with caldron|elements=Colorlights, Boat, Spirits, Elder, Creatures, Constellation, Symbols}}
+</gallery>
+
+==Daylight Prairie Murals==
+===Villages===
+<gallery widths="250" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+mural-prairie-villages-left-island.png|{{Mural Caption|name=Left Island Stone|description=Turtle Constellation|type=Glowing, White|elements=Creatures, Constellation}}
+mural-prairie-villages-small-middle-island.png|{{Mural Caption|name=Small Middle Island Stone|description=Manta Constellation|type=Dim, Gray|elements=Creatures, Constellation}}
+mural-prairie-villages-dock.png|{{Mural Caption|name=Docks|description=Symbol possibly representing light|type=Dim, Gray|elements=Symbols, Spherelight, Functionality}}
+mural-prairie-villages-bell-tower.png|{{Mural Caption|name=Bell Towers|description=Manta Symbol|type=Glowing, White|trigger=Candles|elements=Creatures, Constellation}}
+</gallery>
+===Caves===
+<gallery widths="250" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+mural-prairie-caves-jars.png|{{Mural Caption|name=Cave opening|description=Pots with dots inside|type=Dim, Gray|elements=Functionality}}
+mural-prairie-caves-pond.png|{{Mural Caption|name=Pond Stone|description=Eel Constellation|type=Glowing, White|elements=Creatures, Constellation}}
+</gallery>
+===Bird's Nest===
+<gallery widths="250" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+mural-prairie-birds-nest-stone.png|{{Mural Caption|name=Stone on Island|description=Sparrow Constellation|type=Glowing, White|elements=Constellation, Creatures, Functionality}}
+mural-prairie-birds-nest-tower.png|{{Mural Caption|name=Inside Tower|description=Manta murals painted along inner walls|type=Glowing, Yellow|elements=Creatures}}
+mural-prairie-wind-vane.png|{{Mural Caption|name=Wind Vanes|description=Mantas pointing in different directions|type=Dim, Gray|elements=Creatures}}
+</gallery>
+===Sanctuary Islands===
+<gallery widths="250" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+mural-prairie-sanctuary-islands-quest-01.png|{{Mural Caption|name=Offshore Archipelago|description=Sanctuary Quest 1|type=Dim, Yellow|trigger=Candles|elements=Environmental}}
+mural-prairie-sanctuary-islands-quest-02.png|{{Mural Caption|name=Large Boulder Island|description=Sanctuary Quest 2|type=Dim, Blue|trigger=Candles|elements=Environmental}}
+mural-prairie-sanctuary-islands-quest-03.png|{{Mural Caption|name=Main Island Wall|description=Sanctuary Quest 3|type=Dim, Blue|trigger=Candles|elements=Environmental}}
+mural-prairie-sanctuary-islands-quest-04.png|{{Mural Caption|name=Main Island Wall|description=Sanctuary Quest 4|type=Dim, Blue|trigger=Candles|elements=Environmental}}
+mural-prairie-sanctuary-islands-quest-05.png|{{Mural Caption|name=Timid Bookworm Floating Island|description=Sanctuary Quest 5|type=Dim, Blue|trigger=Candles|elements=Environmental}}
+mural-prairie-sanctuary-islands-quest-06.png|{{Mural Caption|name=Jellyfish Cave - First|description=Sanctuary Quest 6|type=Dim, Blue|trigger=Candles|elements=Environmental}}
+mural-prairie-sanctuary-islands-jellyfish-cave.png|{{Mural Caption|name=Jellyfish Cave - Second|description=Small mural of three jellyfish, hard to find|type=Glowing, Yellow|elements=Creatures}}
+</gallery>
+
+==Hidden Forest Murals==
+===Walled Area===
+<gallery widths="250" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+mural-forest-gate-hallway-01.png|{{Mural Caption|name=Gate Hallway - First|description=Boats filled with pots|type=Glowing, Yellow|trigger=Proximity|elements=Boat, Functionality}}
+mural-forest-gate-hallway-02.png|{{Mural Caption|name=Gate Hallway - Second|description=Boats filled with pots|type=Glowing, Yellow|trigger=Proximity|elements=Boat, Functionality}}
+mural-forest-walled-area-tunnel-01.png|{{Mural Caption|name=Tunnel - First|description=A boat filled with pots, traversing through trees|type=Glowing, Yellow|trigger=Proximity|elements=Boat, Environmental}}
+mural-forest-walled-area-tunnel-02.png|{{Mural Caption|name=Tunnel - Second|description=A boat filled with pots, traversing through clouds|type=Glowing, Yellow|trigger=Proximity|elements=Boat, Environmental}}
+mural-forest-walled-area-tunnel-03.png|{{Mural Caption|name=Tunnel - Third|description=A landscape of trees shrouded in clouds|type=Glowing, Yellow|trigger=Proximity|elements=Boat, Environmental}}
+mural-forest-walled-area-tunnel-04.png|{{Mural Caption|name=Tunnel - Fourth|description=Boats filled with pots, traversing through trees|type=Glowing, Yellow|trigger=Proximity|elements=Boat, Environmental}}
+mural-forest-walled-area-tunnel-05.png|{{Mural Caption|name=Tunnel - Fifth|description=Boats filled with pots converge on the Forest temple, surrounded by clouds|type=Glowing, Yellow|trigger=Proximity|elements=Boat, Environmental, Temple}}
+</gallery>
+===Boneyard===
+<gallery widths="250" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+mural-forest-boneyard-final-bridge.png|{{Mural Caption|name=Last Bridge|description=Jellyfish Constellation|type=Glowing, Yellow|trigger=Candles|elements=Creatures, Constellation}}
+</gallery>
+===Forest Temple===
+<gallery widths="250" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+mural-forest-temple-doors.png|{{Mural Caption|name=Outside Doors|description=Four figures arriving on boats to the temple|type=Dim, Gray|elements=Diamond, Environmental, Elder}}
+mural-forest-temple-inside-01.png|{{Mural Caption|name=Inside Temple - First|description=Diamond with dot symbol|type=Dim, Gray|elements=Diamond, Symbols, Functionality}}
+mural-forest-temple-inside-02.png|{{Mural Caption|name=Inside Temple - Second|description=Manta symbol|type=Dim, Gray|elements=Creatures, Symbols, Functionality}}
+</gallery>
+===The Treehouse===
+<gallery widths="250" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+mural-forest-assembly-treehouse.png|{{Mural Caption|name=Assembly Hideout|description=Map of Forest Brook (boneyard and temple in the distance)|type=Glowing, Yellow|elements=Environmental, Symbols}}
+</gallery>
+===The Wind Paths===
+<gallery widths="200" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+mural-forest-wind-paths-entrance-arch.png|{{Mural Caption|name=Entrance Arch|description=A landscape of clouds with birds flying over them|type=Glowing, Yellow|trigger=Candles|elements=Creatures, Environmental}}
+mural-forest-wind-paths-main-island-arch.png|{{Mural Caption|name=Main Island Arch|description=A landscape of clouds with birds and mantas flying over them|type=Glowing, Yellow|trigger=Candles|elements=Creatures, Environmental}}
+mural-forest-wind-paths-left-island-arch.png|{{Mural Caption|name=Left Island Arch|description=A landscape of clouds with birds and mantas flying over them|type=Glowing, Yellow|trigger=Candles|elements=Creatures, Environmental}}
+mural-forest-wind-paths-right-island-upper-arch.png|{{Mural Caption|name=Right Island Upper Arch|description=A landscape of clouds with birds flying over them|type=Glowing, Yellow|trigger=Candles|elements=Creatures, Environmental}}
+</gallery>
+
+==Valley of Triumph Murals==
+===Citadel===
+<gallery widths="250" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+mural-valley-citadel-manta-wisperer.png|{{Mural Caption|name=Manta Whisperer Start|description=Sparrow Constellation|type=Glowing, White|elements=Creatures, Constellation}}
+</gallery>
+===Valley Temple===
+<gallery widths="250" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+mural-valley-temple-doors.png|{{Mural Caption|name=Exit Doors|description=Resembles ruins of Eden?|type=Metal Relief|elements=Temple}}
+</gallery>
+===Harmony Hall===
+<gallery widths="250" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+mural-valley-harmony-hall-above-closet.png|{{Mural Caption|name=Above Closet Shrine|description=Spherelight surrounded by triangles|type=Dim, White|elements=Spherelight, Symbols}}
+mural-valley-harmony-hall-fireplace.png|{{Mural Caption|name=Above Fireplace|description=Spherelight surrounded by triangles|type=Dim, White|elements=Spherelight, Symbols}}
+mural-valley-harmony-hall-second-floor.png|{{Mural Caption|name=Second Floor Wall|description=Group of people with raised arms under falling stars, large figure resembles AURORA is center|type=Glowing, Yellow|trigger=Candles|elements=Temple, Environmental, Spirits, Symbols}}
+mural-valley-harmony-hall-second-floor-stage.png|{{Mural Caption|name=Second Floor Stage|description=Treble Clef|type=Glowing, Yellow|elements=Symbols, Functionality}}
+mural-valley-harmony-hall-stagehand-room-vault.png|{{Mural Caption|name=Background picture's Room - Vault|type=Dim, Painting|elements=Environmental}}
+mural-valley-harmony-hall-stagehand-room-eden.png|{{Mural Caption|name=Bacteria picture's Room - Eden|type=Dim, Painting|elements=Environmental}}
+</gallery>
+
+==Golden Wasteland Murals==
+===Broken Temple===
+<gallery widths="250" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+mural-wasteland-broken-temple-roof.png|{{Mural Caption|name=Broken Temple Roof|description=Three-diamond symbol|type=Dim, Gray|elements=Diamond, Symbols}}
+</gallery>
+===First Krill Area===
+<gallery widths="250" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+mural-wasteland-first-krill-area-broken-gold-wheel.png|{{Mural Caption|name=Near Gold Wheel|description=Diamond with dot symbol|type=Dim, Gray|elements=Diamond, Symbols, Functionality}}
+</gallery>
+===Battlefield===
+<gallery widths="250" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+mural-wasteland-battlefield-fortress-front.png|{{Mural Caption|name=Fortress Front|description=Alternate diamond symbol|type=Dim, Gray|elements=Diamond, Symbols}}
+mural-wasteland-battlefield-fortress-side.png|{{Mural Caption|name=Fortress Side|description=Alternate diamond symbol|type=Dim, Gray|elements=Diamond, Symbols}}
+mural-wasteland-battlefield-shield-square.png|{{Mural Caption|name=Diamond Shield in Sand|description=Diamond|type=Dim, Gray|elements=Symbols}}
+mural-wasteland-battlefield-shield-round.png|{{Mural Caption|name=Round Shield in Sand|description=Sun symbol|type=Dim, Gray|elements=Spherelight, Symbols}}
+</gallery>
+===Forgotten Ark===
+Parts of the ark are numbered from left to right.
+<gallery widths="250" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+mural-wasteland-forgotten-ark-part-01-front.png|{{Mural Caption|name=First Part - Front|description=Spirits with umbrellas look at the sky. One has a yellow color light.|type=Glowing, Yellow|trigger=Quest|elements=Colorlights, Symbols, Spirits}}
+mural-wasteland-forgotten-ark-part-01-back.png|{{Mural Caption|name=First Part - Back|description=Mantas fly through the clouds|type=Glowing, Yellow|trigger=Quest|elements=Creatures}}
+mural-wasteland-forgotten-ark-part-02-deck.png|{{Mural Caption|name=Second Part - Deck|description=Spirits with umbrellas run through the forest, chasing lights|type=Glowing, Yellow|trigger=Quest|elements=Colorlights, Symbols, Spirits, Environmental}}
+mural-wasteland-forgotten-ark-part-03-front.png|{{Mural Caption|name=Third Part - Front|description=Manta and stars|type=Glowing, Yellow|trigger=Quest|elements=Creatures}}
+mural-wasteland-forgotten-ark-part-03-deck.png|{{Mural Caption|name=Third Part - Deck|description=Colorlights being traded and then converted to elements|type=Glowing, Yellow|trigger=Quest|elements=Colorlights, Spirits}}
+mural-wasteland-forgotten-ark-part-03-back.png|{{Mural Caption|name=Third Part - Back|description=Mantas fly through the clouds|type=Glowing, Yellow|trigger=Quest|elements=Creatures}}
+mural-wasteland-forgotten-ark-part-03-inside.png|{{Mural Caption|name=Third Part - Inside|description=Spirits praying at the sky|type=Glowing, Yellow|trigger=Quest|elements=Spirits}}
+mural-wasteland-forgotten-ark-part-04-front.png|{{Mural Caption|name=Fourth Part - Front|description=Mantas flying|type=Glowing, Yellow|trigger=Quest|elements=Creatures}}
+mural-wasteland-forgotten-ark-part-04-deck.png|{{Mural Caption|name=Fourth Part - Deck|description=Spirits use spells for various purposes|type=Glowing, Yellow|trigger=Quest|elements=Spirits}}
+mural-wasteland-forgotten-ark-part-04-back.png|{{Mural Caption|name=Fourth Part - Back|description=Mantas fly through the clouds|type=Glowing, Yellow|trigger=Quest|elements=Creatures}}
+mural-wasteland-forgotten-ark-part-04-inside.png|{{Mural Caption|name=Fourth Part - Inside|description=Starry night sky|type=Glowing, Yellow|trigger=Quest|elements=Environmental}}
+mural-wasteland-forgotten-ark-part-05-front.png|{{Mural Caption|name=Fifth Part - Front|description=Spirits on the ark, carrying colorlights|type=Glowing, Yellow|trigger=Quest|elements=Colorlights, Spirits, Boat}}
+mural-wasteland-forgotten-ark-part-05-back.png|{{Mural Caption|name=Fifth Part - Back|description=Lightning|type=Glowing, Yellow|trigger=Quest|elements=Environmental}}
+mural-wasteland-forgotten-ark-part-06-front.png|{{Mural Caption|name=Sixth Part - Front|description=Spirits fall out of the boat|type=Glowing, Yellow|trigger=Quest|elements=Spirits, Boat, Colorlights}}
+mural-wasteland-forgotten-ark-part-06-back.png|{{Mural Caption|name=Sixth Part - Back|description=Krill surrounded by clouds|type=Glowing, Yellow|trigger=Quest|elements=Creatures}}
+mural-wasteland-forgotten-ark-caves-01.png|{{Mural Caption|name=Cave - First|description=Crabs in a pond with mantas flying above|type=Glowing, Yellow|elements=Creatures}}
+mural-wasteland-forgotten-ark-caves-02.png|{{Mural Caption|name=Cave - Second|description=Mantas|type=Glowing, Yellow|elements=Creatures}}
+mural-wasteland-forgotten-ark-caves-03.png|{{Mural Caption|name=Cave - Third|description=Crabs under the stars|type=Glowing, Yellow|elements=Creatures}}
+mural-wasteland-forgotten-ark-caves-04.png|{{Mural Caption|name=Cave - Fourth|description=Mantas|type=Glowing, Yellow|elements=Creatures}}
+mural-wasteland-forgotten-ark-caves-05.png|{{Mural Caption|name=Cave - Fifth|description=Spirits carry pots|type=Glowing, Yellow|elements=Spirits}}
+mural-wasteland-forgotten-ark-caves-06.png|{{Mural Caption|name=Cave - Sixth|description=Spirits filling their pots at pond with crabs|type=Glowing, Yellow|elements=Creatures, Spirits}}
+mural-wasteland-forgotten-ark-caves-07.png|{{Mural Caption|name=Cave - Seventh|description=Crabs scaring off spirits|type=Glowing, Yellow|elements=Creatures, Spirits}}
+</gallery>
+===Treasure Reef===
+<gallery widths="250" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+mural-wasteland-treasure-reef-map.png|{{Mural Caption|name=Abyss Ship Map|description=Map of Treasure Reef|type=Dim, White|trigger=Quests|elements=Environmental}}
+mural-wasteland-treasure-reef-mining-cave.png|{{Mural Caption|name=Mining Cave|description=Ancestors mining out diamonds and taking their haul to the lighthouse|type=Glowing, Yellow|elements=Spirits, Boat, Functionality, Diamond, Environmental}}
+mural-wasteland-treasure-reef-boat-cave.png|{{Mural Caption|name=Cave Near Boat|description=Attack of leviathan|type=Glowing, Blue|elements=Spirits, Creatures, Boat}}
+mural-wasteland-treasure-reef-manta-tanks-alasdair-8513.png|{{Mural Caption|name=Manta Tanks|description=Manta imprisonment|type=Glowing, Blue|elements=Spirits, Creatures, Functionality, Diamond, Environmental}}
+mural-wasteland-treasure-reef-underwater-alasdair-8513.png|{{Mural Caption|name=Deep Underwater|description=|type=Glowing, Blue|elements=Spirits, Creatures, Functionality, Diamond}}
+</gallery>
+
+==Vault of Knowledge Murals==
+===Second Floor===
+<gallery widths="250" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+mural-vault-second-floor-door.png|{{Mural Caption|name=Door|description=Four diamond symbol|type=Dim, Gray|elements=Diamond, Symbols}}
+</gallery>
+===Third/Fourth Floor===
+<gallery widths="250" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+mural-vault-third-fourth-floor-platforms.png|{{Mural Caption|name=Floating platforms|description=Starburst symbol painted onto stone|type=Dim, Gray|elements=Symbols}}
+</gallery>
+===The Summit===
+<gallery widths="250" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+mural-vault-summit-ceiling.png|{{Mural Caption|name=Ceiling|description=Every realm constellation but Vault|type=Glowing, Blue|elements=Constellations, Symbols}}
+mural-vault-cutscene-isle-elder-haunted-biskut-4891.png|{{Mural Caption|name=Isle Elder Projection|type=Glowing, Blue|elements=Elder, Spirits, Boat, Creatures}}
+mural-vault-cutscene-prairie-elder-haunted-biskut-4891.png|{{Mural Caption|name=Prairie Elder Projection|type=Glowing, Blue|elements=Elder, Spirits, Creatures}}
+mural-vault-cutscene-forest-elder-haunted-biskut-4891.png|{{Mural Caption|name=Forest Elder Projection|type=Glowing, Blue|elements=Elder, Spirits, Diamond}}
+mural-vault-cutscene-valley-elder-haunted-biskut-4891.png|{{Mural Caption|name=Valley Elder Projection|type=Glowing, Blue|elements=Elder, Spirits, Creatures}}
+mural-vault-cutscene-wasteland-elder-haunted-biskut-4891.png|{{Mural Caption|name=Wasteland Elder Projection|type=Glowing, Blue|elements=Elder, Spirits}}
+mural-vault-cutscene-vault-elder-haunted-biskut-4891.png|{{Mural Caption|name=Vault Elder Projection|type=Glowing, Blue|elements=Elder, Spirits}}
+mural-vault-cutscene-eden-haunted-biskut-4891.png|{{Mural Caption|name=Eden Projection|type=Glowing, Blue|elements=Spirits, Eden Elder}}
+</gallery>
+===Repository of Refuge===
+<gallery widths="250" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+Vault-Repository-Mural.png|{{Mural Caption|name=Memory Lanterns|description=Spirits collecting memories into lanterns|type=Glowing, White, Blue|trigger=Candles|elements=Spirits, Creatures}}
+</gallery>
+
+==Secret Area Murals==
+<gallery widths="250" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+mural-office-portal-alasdair-8513.png|{{Mural Caption|name=Surrounding Office Portal|description=Megabird granting flame|type=Glowing, Yellow|elements=Creatures, Environmental, Eden Elder, Boat}}
+</gallery>
+
+==Eye of Eden Murals==
+===Before Point of No Return===
+<gallery widths="250" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+mural-eden-boat-before-first-door.png|{{Mural Caption|name=Boat Before First Door|description=Has diamond with dot symbol on the side|type=Dim, Gray|elements=Diamond, Symbols}}
+mural-eden-first-door.png|{{Mural Caption|name=First Door|description=Diamonds and stars|type=Dim, Gray|elements=Symbols, Diamonds}}
+mural-eden-room-before-second-door-01.png|{{Mural Caption|name=Round Shield Before Second Door|description=Sun shield|type=Carving|elements=Spherelight, Symbols}}
+mural-eden-room-before-second-door-02.png|{{Mural Caption|name=Broken Shield Before Second Door|description=Broken sun shield|type=Carving|elements=Spherelight, Symbols}}
+mural-eden-second-room-wall.png|{{Mural Caption|name=Second Room Wall|description=Giant figure with outstretched arms under a glowing diamond, with many spirits praying beneath them|type=Glowing, White|trigger=Candles|elements=Spirits, Diamond, Environmental}}
+mural-eden-second-door.png|{{Mural Caption|name=Second Door|description=Chipped away diamond symbol|type=Dim, Gray|elements=Diamond, Symbols}}
+mural-eden-second-door-above.png|{{Mural Caption|name=Above Second Door|description=Similar layout to home|type=Carving|elements=Environmental}}
+mural-eden-hallway-before-storm-statues.png|{{Mural Caption|name=Hallway Statues|description=Triangle pattern along shrine statues (same pattern is on other statues like at home)|type=Carving|elements=Symbols}}
+</gallery>
+===Orbit===
+<gallery widths="250" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+mural-eden-orbit.png|{{Mural Caption|name=Flying in Orbit|description=Constellation of us and the Light|type=Glowing, Blue|elements=Constellation}}
+mural-eden-orbit-constellation-table.png|{{Mural Caption|name=Orbit Stone|description=Realm symbol, Closet Shrine symbols|type=Glowing, Blue|elements=Constellation, Symbols}}
+</gallery>
+
+==Retconned Murals==
+<gallery widths="250" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+mural-retcon-jellyfish-cave-haunted-biskut-4891.png|{{Mural Caption|name=Retcon: Jellyfish Cave|description=Was later removed entirely, speculated to be an early prophecy mural that glitched into the area}}
+mural-retcon-treasure-reef.png|{{Mural Caption|name=Retcon: Treasure Reef|description=The whale tail statue was removed in a later update}}
+</gallery>
+
+==Trivia==
+Murals are featured in a piece of merch from thatskyshop, in the form of the [[That Sky Shop/Wave 14#Sky Murals Washi Tape|Sky Murals Washi Tape]].
+
+[[fr:Fresques]]
+[[pt-br:Murais]]
+[[Category:Lore]]

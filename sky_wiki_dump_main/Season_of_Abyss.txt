@@ -1,0 +1,250 @@
+{{Season
+| title = Season of Abyss
+| image = SoAbyss-PromoImage.png
+| start = January 17, 2022
+| end = March 27, 2022
+| spirits = {{Spirit|Anxious Angler|infobox}}{{Spirit|Bumbling Boatswain|infobox}}{{Spirit|Cackling Cannoneer|infobox}}{{Spirit|Ceasing Commodore|infobox}}
+| previousSeason = [[Season of Flight]]
+| nextSeason = [[Season of Performance]]
+| constellation = SOAbyss-constellation.png
+| symbol = 12 Abyss.png
+}}
+
+The '''Season of Abyss''' was the twelfth seasonal event in the live version of Sky since the global release, following the [[Season of Flight]]. It began on January 17, 2022 and ended on March 27, 2022, lasting 70 days. It was the first season to introduce a Diving and Swimming mechanic and also the first to make an underwater location for players to explore. The Season of Abyss takes place in the [[Golden Wasteland]]. Meet a scrappy crew of scavengers and explore the mysteries of Sky’s seas as they search for treasure. 
+
+{{#ev:youtube|2xqr8HRXTpw||inline|Season of Abyss Trailer}}
+
+==Welcome==
+<center class="title-text-welcome">[https://www.thatskygame.com/news/venture-into-the-deep-season-of-abyss Welcome to the Season of Abyss!]</center>{{Quote|<br/>'''''Dive into Season of Abyss!'''''}}
+Season of Abyss follows the adventures of four scrappy spirits who scavenge the realm for resources. Throughout the course of the season, players were prompted to discover the mysteries and surprises that awaited in the sapphire depths of Season of Abyss in a brand new area called '''The Treasure Reef.'''
+
+Meet the Abyss Guide and a crew of four Spirits who braved rugged seas in search of treasures—or venture beyond the shallows for secrets that lurk far below. Relive their memories and complete [[#Spirit Memory Quests|quests]] to unlock new capes, masks, outfits, and other useful items. 
+==The Treasure Reef==
+{{Quote|<br />'''''What lies beneath the water?'''''|Treasure Reef Opening}}
+[[File:Treasure-Reef-Underwater-Entrance.png|thumb|300px|Treasure Reef]]
+The Season of Abyss took place in a brand new area called [[Treasure Reef]], accessible from the Wasteland's Social space to the right, where there is a dock. Take the boat and sail through the dark cloud of Wasteland into a crystal clear water paradise. Players uncovered a new game mechanic and experienced new creatures hiding beneath the depths of Sky. 
+
+''<small>*Note that the boat will display only if a player has progressed at least to Vault of Knowledge.</small>''
+
+===Dive Mechanic===
+The season introduced a brand new mechanic in the world of Sky; the ability to Dive underwater. Before the Season of Abyss, swimming was possible in many Realms but players were unable to dive and swim under water. Once in water, the "Open wing" and "Closed wing" icons are replaced with the Swim and Dive icons.
+<gallery widths="100" spacing="small">
+File:SOAbyss-swim-mecanism-icon.png|Swim icon 
+File:SOAbyss-Dive-mecanism-icon.png|Dive icon
+</gallery>
+
+Swimming underwater is a bit difficult to master at first, but with a little practice, it becomes easier! Once in the water, select the Dive toggle, set your camera angle to point in the direction you wants to move, then swipe your finger across your screen to direct your avatar in the direction you want to go. Tap the star icon to propel yourself forward (A press hold will propel you faster but will use your wing power).
+
+The amount of time you can spend underwater is limited by the availability of oxygen. If you are underwater but not adjacent to an air source (e.g., pockets of bubbles), a blue oxygen meter appears beneath your wing level. Your oxygen timer is set to 60 seconds by default. After this time, a star icon appears and starts draining. If you don't receive air within the next 60 seconds, you will start to lose winged lights. In total, you can go two minutes underwater without breathing. Oxygen can be replenished by returning to the surface, or by swimming to various underwater plants, pockets of bubbles, or sea creatures.
+[[File:SOAbyss-oxygen-level.gif|thumb|150x150px|alt=|Oxygen meter 10 times faster (with mask)]]
+
+You can expand this oxygen time by 15 additional seconds if you wear an oxygen mask. Two oxygen masks are available: one is an [[#Ultimate Gifts|Ultimate Gift]] (only available during the season); one can be [[#Additional Cosmetics|purchased for 48 candles]] after completing the Abyss quests. Wearing either mask increases your maximum time without breathing to <u>2 minutes 15 seconds</u>. 
+
+To participate in the Season of Abyss, players must learn how to dive. All players automatically learn how to dive after reaching [[Hidden Forest]], at which point simply entering into any water deep enough for swimming causes the Swim/Dive icons to appear, along with the prompt to "Tap [[File:SOAbyss-swim-mecanism-icon.png|20px]] to start diving". In addition, there is a meditation circle in the Treasure Cave entry cave when you first visit it. Meditating in the circle triggers a cutscene, after which you are told that "You have learned the ability to dive". As of version 0.17.0 (after Season of Abyss finished), this cutscene is purely cosmetic and is not necessary before diving.
+
+==Daily Quests and Seasonal Candles==
+
+===Daily Quests===
+Collect Seasonal Candles throughout the Season to trade with the new spirits for their cosmetics. A total of 6 seasonal candles are available to gather, as follow:
+
+*Each day the Abyss guide stands next to a Realm's portal, indicating where the day's daily quests may be completed. Players will earn one seasonal candle per quest completed. Complete your quests and claim your reward to the meditation shrine at home. (4 candles)
+*Players may also collect an extra candle by collecting the 4 seasonal bunches <small>(more information on the "Seasonal bunches locations" below).</small> (1 candle)
+* Players who have the [[Season Pass]] can claim a Seasonal Candle at Home as a free daily bonus. (1 candle)
+
+===Seasonal Candle Bunches Locations===
+The seasonal candle bunches are found towards the beginning of each realm again. 
+
+*[[Daylight Prairie]]: 1 in the Social Space, and 3 in Butterfly Fields
+*[[Hidden Forest]]: 1 in the Social Space, and 3 in Forest's Clearing
+*[[Valley of Triumph]]: 1 in the Social Space, and 3 at the Ice Rink (One under the ice rink on rotation day)
+*[[Golden Wasteland]]: 4 in the Broken Temple area
+*[[Vault of Knowledge]]: 3 around the entrance, and 1 on the first floor up
+
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" hideaddbutton="true" mode="nolines">
+File:SOAbyss-Seasonal-candles-bunch.png|A Season of Abyss Candle bunch
+File:SOAbyss-Adventure pass-1.png|Adventure pass - Page 1
+File:SOAbyss-Adventure pass-2.png|Adventure pass - Page 2
+</gallery>
+
+==Child of Light Locations<span id="Winged Light Locations"></span>==
+There are 2 Winged Lights (WL) added to the Treasure Reef area. 
+
+*[[Children of Light#Treasure Reef|Treasure Reef (2)]]
+
+==Spirit Memory Quests==
+The Abyss Guide is the spirit who assigns the Season of Abyss quests. The guide can be found on the ship floating in Treasure Reef (on the left-hand side of the reef). A map of the reef is laid out on a table next to the guide. Each quest adds an X to this map indicating approximately where the player needs to go for that quest.
+
+Completing all quests allows the player to purchase an [[#Oxygen Mask|Oxygen Mask]], granting 15 extra seconds of underwater time, for 48 candles.
+
+====Quest #1<span id="Quest 1"></span>====
+In the first quest, you are tasked to retrieve '''resources'''. When you start the quest, you are shown the Abyss Guide and three other spirits saluting the "elder" spirit of the group. An X showing the resource location is added to the map on the table.
+
+Dive near the Pyramid monument (located in the middle of Treasure Reef) to enter the temple below. All entries will be locked but only a small window on the side is accessible to reach it. Collect the resources and bring them back to the Spirits on the Ship. One by one, the spirits will hand over their "resources" to the captain and once done, the first location on the map is marked with an X.
+{{#ev:youtube|_zKj0ZiaH7s||inline|Video Guide by nastymold}}
+
+====Quest #2<span id="Quest 2"></span>====
+In the second quest, your task is to retrieve '''more resources''' for the group.
+
+Once more, the quest giver and the three other spirits salute the "elder" spirit of the group. On the table, the map of the islands show the location of the first quest marked with an X and we can see the location to find more resource, this time on the left island.
+
+From the boat, fly or walk to the left island and go down the first water entrance located in the middle of the island. As you dive below the first resource will be right at the bottom, between two ladders. Explore the caves to find the two others. If you get lost, honk and blue indicators will help get the locations. Return to the Abyss Guide once done. One by one, the spirits will hand over their "resources" to the captain and once done, the second location is marked with an X.
+{{#ev:youtube|6LJIkjxd8gU||inline|Video Guide by nastymold}}
+
+====Quest #3<span id="Quest 3"></span>====
+For the third quest, you are again requested to find '''even more resources'''.
+
+Dive down the hexagonal ruins located behind the Pyramid in the Treasure Reef and swim down the stairs at the bottom going even more further below. Once there you will find a large room with bubbles that will refuel your oxygen. Swim to the next room where you'll find 2 large tanks with trapped Mantas. Unlock the barrier by clicking the hand icon in front of them. Each tank has a lock in front and in the back, so be sure to swim around the tank to free the Mantas of both tanks. 
+
+Return to the Abyss Guide on the ship to complete your mission. The third location is marked with an X.
+{{#ev:youtube|M26udC_RzXQ||inline|Video Guide by nastymold}}
+
+==== Quest #4<span id="Quest 4"></span>====
+To find more resources, the quest giver will instruct you to go to the tallest tower. When honking you will see that you have to dive in the depth of the Treasure Reef. Find the first Gem located above a locked door. Doing this will unlock the door leading you in a series of hallway straight into a large circular room where you will find your second Gem. This action will release three Dark Dragons and a massive, many-finned creature with numerous red eyes from a gigantic 2-doored passageway that was previously closed. Go up one level and find 2 more Gems to complete the quest, meeting along the way 2 Krill(caution is advised). Return to the Abyss Guide on the ship. All the other spirits returned to the ship empty handed but this time you hand over the biggest Resources they've seen. The fourth location is marked with an X on the map.
+{{#ev:youtube|7klhTG3RzMc||inline|Video Guide by nastymold}}
+
+====Quest #5<span id="Quest 5"></span>====
+During the final quest of the season, the crew worries about the Cackling Cannoneer's disappearance. Next to the high tower, a small bark is moored in the bay. Fly to the bark and dive below to see a rope with flags that leads to the bottom of the Abyss.
+
+Following that rope you will find the Cackling Cannoneer that seems to have passed out. As the player is prompted to rescue the stranded spirit, a large stream of light from the depth rises and awakens the Cannoneer, now ready for the player to grab (hand icon). As you both rise to the surface, you are swallowed by the many-eyed creature that was released in the previous quest. Next, the both of you are in a black room (Void) with a manta trapped by a large dark plant. Burning the dark plant will give you the ability to revive the manta ''(the one that gave you the ability to swim)''.
+
+The next scene shows the Many-Eyed Creature releasing all of the Abyssal Creatures it has previously swallowed up, creating a wonderful path of colorful fishes where you can bring the Cannoneer to the surface in safety. Back at the boat, the crew is relieved that the Cannoneer is safe as they deliver the largest resources found. The Cannoneer and crew are grateful and all salute you as they vanish into thin air to conclude the adventure.
+{{#ev:youtube|kqTdJMDwkxM||inline|Video Guide by nastymold}}
+
+== Spirits and Cosmetics==
+All of the Season of Abyss Spirits can be found in the Treasure Reef area in Golden Wasteland. There are 4 new Expressions to gather - overall, 4 spirits.
+{{#tag:gallery
+|{{Icon Name|Anxious Angler|emote}} {{!}} {{Icon Name|Anxious Angler|emote_name}}
+{{Icon Name|Ceasing Commodore|emote}} {{!}} {{Icon Name|Ceasing Commodore|emote_name}}
+{{Icon Name|Bumbling Boatswain|emote}} {{!}} {{Icon Name|Bumbling Boatswain|emote_name}}
+{{Icon Name|Cackling Cannoneer|emote}} {{!}} {{Icon Name|Cackling Cannoneer|emote_name}}
+|widths=75|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+[[File:Map of the Treasure Reef Surface.png|thumb|300x300px|A map of the Spirits by Clement]]
+===All Abyss Friendship Trees===
+{{Mobile Tabber
+|tab1 = {{Season Icon|abyss|tab}}
+|c1   = {{#lst:Abyss Guide|Friendship Tree}}
+|tab2 = {{Icon|Quest-icon.png|link=Quests|tab}}
+|c2   = {{#lst:Abyss Guide|Quest Tree}}
+|tab3 = {{Emote|Anxious Angler|tab}}
+|c3   = {{#lst:Anxious Angler|Season Friendship Tree}}
+|tab4 = {{Emote|Ceasing Commodore|tab}}
+|c4   = {{#lst:Ceasing Commodore|Season Friendship Tree}}
+|tab5 = {{Emote|Bumbling Boatswain|tab}}
+|c5   = {{#lst:Bumbling Boatswain|Season Friendship Tree}}
+|tab6 = {{Emote|Cackling Cannoneer|tab}}
+|c6   = {{#lst:Cackling Cannoneer|Season Friendship Tree}}
+}}
+
+===[[Anxious Angler]]===
+{{#lst:Anxious Angler|Summary}}
+{{#tag:gallery
+|{{Icon Name|Anxious Angler|mask|real}} {{!}} Mask
+{{Icon Name|Anxious Angler|hair|real}} {{!}} Hair
+{{Icon Name|Anxious Angler|cape|real}} {{!}} Cape
+{{Icon Name|Anxious Angler|outfit|real}} {{!}} Outfit
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+===[[Ceasing Commodore]]===
+{{#lst:Ceasing Commodore|Summary}}
+{{#tag:gallery
+|{{Icon Name|Ceasing Commodore|mask|real}} {{!}} Mask
+{{Icon Name|Ceasing Commodore|hair|real}} {{!}} Hair
+{{Icon Name|Ceasing Commodore|cape|real}} {{!}} Cape
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+===[[Bumbling Boatswain]]===
+{{#lst:Bumbling Boatswain|Summary}}
+{{#tag:gallery
+|{{Icon Name|Bumbling Boatswain|mask|real}} {{!}} Mask
+{{Icon Name|Bumbling Boatswain|hairpiece|real}} {{!}} Hair Accessory
+{{Icon Name|Bumbling Boatswain|cape|real}} {{!}} Cape
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===[[Cackling Cannoneer]]===
+{{#lst:Cackling Cannoneer|Summary}}
+{{#tag:gallery
+|{{Icon Name|Cackling Cannoneer|mask|real}} {{!}} Mask
+{{Icon Name|Cackling Cannoneer|hair|real}} {{!}} Hair
+{{Icon Name|Cackling Cannoneer|cape|real}} {{!}} Cape
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+===[[Abyss Guide]]===
+{{#lst:Abyss Guide|Summary}}
+{{#tag:gallery
+|{{Icon Name|Abyss Guide|necklace_u|real}} {{!}} Abyss Ultimate Pendant
+{{Icon Name|Abyss Guide|mask_u|real}} {{!}} Abyss Ultimate Oxygen Mask
+{{Icon Name|Abyss Guide|headpiece_u|real}} {{!}} Abyss Ultimate Hair Accessory
+{{Icon Name|Abyss Guide|cape_u|real}} {{!}} Abyss Ultimate Cape
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+==Additional Cosmetics==
+After completing the [[Season of Abyss#Quest #5|final quest]] of the [[Season of Abyss]], an oxygen mask can be purchased for 48 regular [[Currency#Candles|Candles]], offering players an additional 15 seconds of oxygen when underwater. It can be found at the top of the Abyss Guide's friendship tree and '''remains available for purchase even after the end of the [[Seasonal Events|Season]].''' <ref name="o2mask">See Patch {{v|0.16.5.0}}</ref> This mask has a slightly different appearance than the [[#Ultimate Gifts|Ultimate Gift]] oxygen mask, but provides the '''same benefits.''' 
+{{#tag:gallery
+|{{Icon Name|Abyss Guide|mask|real}} {{!}} Oxygen Mask
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+==Price Chart==
+{| class="article-table"
+!Spirits
+! colspan="6" |Candle Cost
+!Total Seasonal Candles
+|-
+|[[Anxious Angler]]
+|{{#vardefineecho:A1| 8 }}
+| {{#vardefineecho:A2| 14 }}
+| {{#vardefineecho:A3| 18 }}
+| {{#vardefineecho:A4| 22 }}
+|{{#vardefineecho:A5| 38 }}
+|3*
+|{{Cost| {{#vardefineecho:Asum| {{#expr: {{#var:A1}} + {{#var:A2}} + {{#var:A3}} + {{#var:A4}} + {{#var:A5}} + 3 }} }} SC|season=Abyss}}
+|-
+|[[Ceasing Commodore]]
+|{{#vardefineecho:B1| 6 }}
+| {{#vardefineecho:B2| 8 }}
+|{{#vardefineecho:B3| 16 }}
+|{{#vardefineecho:B4| 20 }}
+|{{#vardefineecho:B5|  }}
+|3*
+|{{Cost| {{#vardefineecho:Bsum| {{#expr: {{#var:B1}} + {{#var:B2}} + {{#var:B3}} + {{#var:B4}} + {{#var:B5}} + 3 }} }} SC|season=Abyss}}
+|-
+|[[Bumbling Boatswain]]
+|{{#vardefineecho:C1| 8 }}
+| {{#vardefineecho:C2| 12 }}
+| {{#vardefineecho:C3| 16 }}
+| {{#vardefineecho:C4| 20 }}
+|{{#vardefineecho:C5| 24 }}
+|3*
+|{{Cost| {{#vardefineecho:Csum| {{#expr: {{#var:C1}} + {{#var:C2}} + {{#var:C3}} + {{#var:C4}} + {{#var:C5}} + 3 }} }} SC|season=Abyss}}
+|-
+|[[Cackling Cannoneer]]
+|{{#vardefineecho:D1| 12 }}
+| {{#vardefineecho:D2| 16 }}
+| {{#vardefineecho:D3| 20 }}
+| {{#vardefineecho:D4| 26 }}
+|{{#vardefineecho:D5| 34 }} 
+|3* 
+|{{Cost| {{#vardefineecho:Dsum| {{#expr: {{#var:D1}} + {{#var:D2}} + {{#var:D3}} + {{#var:D4}} + {{#var:D5}} + 3 }} }} SC|season=Abyss}}
+|-
+! colspan="7" |Total for Season
+!{{Cost| {{#expr: {{#var:Asum}} + {{#var:Bsum}} + {{#var:Csum}} + {{#var:Dsum}} }} SC|season=Abyss}}
+|}
+<small>''* Only available with [[Season Pass]] (Seasonal Hearts) (subtract when calculating without)''</small>
+
+==Trivia==
+*The first access point to the Treasure Reef in [[Sky Beta|Beta]] was in the [[Crab Fields]] in [[Golden Wasteland]]. It was later relocated to the [[Golden Wasteland#Wasteland Social Space|Social Space]] after a new build.
+* In Beta, the Treasure Reef was first referred to as Crystal Bay.
+*A turtle could previously be seen in the shallow water of Treasure Reef in Beta, but was removed in a later build and, even later, added to the Sanctuary area during the [[Days of Nature]] event.
+
+==Video Gallery==
+{{#ev:youtube|1s65dm0-uh8||inline|Season of Abyss Developer Update}}
+
+==References== 
+<references /> 
+{{Seasonal Navbox}} 
+{{Navigation Box}}
+
+[[es:Temporada del Abismo]]
+[[de:Saison der Tiefsee (Saison des Abgrunds)]]
+[[fr:Saison des Abysses]]
+[[pt-br:Temporada do Abismo]]
+[[ru:Сезон_Бездны]]
+[[ja:深淵の季節]]
+
+{{DEFAULTSORT:Abyss, Season of}}
+[[Category:Voids]]

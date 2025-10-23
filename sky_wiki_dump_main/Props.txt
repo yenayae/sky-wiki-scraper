@@ -1,0 +1,2558 @@
+[[File:Sky-Closet-accessories-Morybel-0146.png|thumb|left|x200px|Icon used for Props Outfit Shrine]]
+'''Props''' (or '''Accessories''') are [[Cosmetics]] that are carried on the player's back and can be equipped to use in various ways. While the majority of Props are simply decorative, some items offer special interactions or useful functions. The current Prop is selected in the right-hand [[Outfit Shrine]].
+{{Clear|left}}
+The Props Outfit Shrine has three tabs: 
+*{{Instrument|Harp|link=}} The Harp icon is used for the [[Instrument]] tab. Most of these are musical Instruments, but it also includes several non-musical held Props (items that can be equipped in your hands and used, but can not be placed on the ground).
+*{{Icon| Bookcase-icon.png | label= | link= }} The Bookcase icon is used for the large placeable Props tab, which includes all items the game categorizes as "large" that can be put down, including in [[Shared Spaces]].
+*{{Icon| Teacup-icon.png | label= | link= }} The Teacup icon is used for the small placeable Props tab, which includes all items the game categorizes as "small" that can be put down, including in Shared Spaces.
+
+Even though these items are split across three tabs, only '''one Prop''' can be selected at a time.
+
+As a type of Prop, all musical [[Instruments]] are included on this article. However, there is also a separate article with music-specific characteristics of each Instrument, as well as information on how to play music.
+
+==Placeable Props==
+Most non-Instrument Props are placeable, meaning that when you select the item from the [[Expression Menu]], it is placed on the ground in front of you. If you hold the item's icon and drag it, you can choose where to place the item. If you are in mid-air when you select the Prop, it is placed, floating, in the air in front of you. You can then land on the floating Prop (although some skill is required to land on smaller Props).
+
+In addition, all placeable Props can be used to decorate [[Shared Spaces]]. While some placeable Props offer special interactions or functions, most are purely decorative. Note that the [[#Days of Love Gondola|Days of Love Gondola]] and [[#Sunlight Surfboard|Sunlight Surfboard]] can only be placed in water, so they cannot be used in a Shared Space unless it contains water.
+{{clear}}
+
+==Held Props Display==
+<section begin="Instrument Display" />{{#invoke:Cosmetics Tabber|tabber
+| {{Spirit Item| Laughing Light Catcher | instrument | tab | link= }}
+| {{Spirit Item| Laughing Light Catcher | instrument_real | closet_display }}
+| {{Instrument| Fledgling Harp | tab | link= }}
+| {{Icon| Performance-Fledgling-harp.png | closet_display | link=Fledgling Harp | label=Fledgling Harp }}
+| {{Spirit Item| Frightened Refugee | instrument | tab | link= }}
+| {{Spirit Item| Frightened Refugee | instrument_real | closet_display }}
+| {{Spirit Item| Cheerful Spectator | instrument | tab | link= }}
+| {{Spirit Item| Cheerful Spectator | instrument_real | closet_display }}
+| {{Spirit Item| Lookout Scout | instrument | tab | link= }}
+| {{Spirit Item| Lookout Scout | instrument_real | closet_display }}
+| {{Spirit Item| Leaping Dancer | instrument | tab | link= }}
+| {{Spirit Item| Leaping Dancer | instrument_real | closet_display }}
+| {{Spirit Item| Greeting Shaman | instrument | tab | link= }}
+| {{Spirit Item| Greeting Shaman | instrument_real | closet_display }}
+| {{Spirit Item| Doublefive Light Catcher | instrument | tab | link= }}
+| {{Spirit Item| Doublefive Light Catcher | instrument_real | closet_display }}
+| {{Spirit Item| Twirling Champion | instrument | tab | link= }}
+| {{Spirit Item| Twirling Champion | instrument_real | closet_display }}
+| {{Spirit Item| Pleaful Parent | instrument | tab | link= }}
+| {{Spirit Item| Pleaful Parent | instrument_real | closet_display }}
+| {{Instrument| Rhythm Guitar | tab | link= }}
+| {{Icon| Performance-Rhythm-Guitar-white-guitar.png | closet_display | link=Rhythm Guitar | label=Rhythm Guitar }}
+| {{Spirit Item| Hairtousle Teen | instrument | tab | link= }}
+| {{Spirit Item| Hairtousle Teen | instrument_real | closet_display }}
+| {{Spirit Item| Thoughtful Director | instrument | tab | link= }}
+| {{Spirit Item| Thoughtful Director | instrument_real | closet_display }}
+| {{Spirit Item| Respectful Pianist | instrument | tab | link= }}
+| {{Spirit Item| Respectful Pianist | instrument_real | closet_display }}
+| {{Spirit Item| Sanctuary Guide | instrument_u | tab | link= }}
+| {{Spirit Item| Sanctuary Guide | instrument_u_real | closet_display | link=Sanctuary_Guide#Sanctuary_Ultimate_Instrument }}
+| {{Instrument| Triumph Handpan | tab | link= }}
+| {{Icon| Performance-Triumph-Handpan.png | closet_display | link=Triumph Handpan | label=Triumph Handpan }}
+| {{Spirit Item| Prophecy Guide | instrument_u | tab | link= }}
+| {{Spirit Item| Prophecy Guide | instrument_u_real | closet_display | link=Prophecy_Guide#Prophecy_Ultimate_Instrument }}
+| {{Spirit Item| Dancing Performer | instrument | tab | link= }}
+| {{Spirit Item| Dancing Performer | instrument_real | closet_display }}
+| {{Spirit Item| Assembly Guide | instrument_u | tab | link= }}
+| {{Spirit Item| Assembly Guide | instrument_u_real | closet_display | link=Assembly_Guide#Assembly_Ultimate_Instrument }}
+| {{Spirit Item| Tinkering Chimesmith | instrument | tab | link= }}
+| {{Spirit Item| Tinkering Chimesmith | instrument_real | closet_display }}
+| {{Spirit Item| Mellow Musician | instrument | tab | link= }}
+| {{Spirit Item| Mellow Musician | instrument_real | closet_display }}
+| {{Days Item| Blue Electric Guitar | icon | tab | link= }}
+| {{Days Item| Blue Electric Guitar | real | closet_display | link=Sky_Anniversary/2022#TGC_Guitar_Pack }}
+| {{Spirit Item| Ancient Darkness | prop | tab | label=Dark Horn | link= }}
+| {{Spirit Item| Ancient Darkness | prop_real | closet_display | label=Dark Horn }}
+| {{Instrument| Voice of AURORA | tab | link= }}
+| {{Icon| Aurora-Voice-of-Aurora-Instrument.png | closet_display | link=Voice of AURORA | label=Voice of AURORA }}
+| {{Spirit Item| Overactive Overachiever | instrument | tab | link= }}
+| {{Spirit Item| Overactive Overachiever | instrument_real | closet_display }}
+| {{Spirit Item| The Musicians' Legacy | instrument_c | tab | link= }}
+| {{Spirit Item| The Musicians' Legacy | instrument_c_real | closet_display }}
+| {{Spirit Item| Compassionate Cellist | instrument | tab | link= }}
+| {{Spirit Item| Compassionate Cellist | instrument_real | closet_display }}
+| {{Spirit Item| Spirit of Adventure | instrument | tab | link= }}
+| {{Spirit Item| Spirit of Adventure | instrument_real | closet_display }}
+| {{Spirit Item| Radiance Provoking Performer | instrument | tab | link= }}
+| {{Spirit Item| Radiance Provoking Performer | instrument_real | closet_display }}
+| {{Instrument| Vessel Flute | tab | link= }}
+| {{Icon| Vessel-flute-Ocarina-Nintendo-IAP.png | closet_display | link=Vessel Flute | label=Vessel Flute }}
+| {{Spirit Item| Blushing Prospector | instrument | tab | link= }}
+| {{Spirit Item| Blushing Prospector | instrument_real | closet_display }}
+| {{Days Item| Triumph Violin | icon | tab | link= }}
+| {{Days Item| Triumph Violin | real | closet_display }}
+| {{Days Item| Triumph Saxophone | icon | tab | link= }}
+| {{Days Item| Triumph Saxophone | real | closet_display }}
+| {{Days Item| Fortune Drum | icon | tab | link= }}
+| {{Days Item| Fortune Drum | real | closet_display }}
+| {{Spirit Item| Saluting Captain | prop | tab | link= }}
+| {{Spirit Item| Saluting Captain | prop_real | closet_display }}
+| {{Spirit Item| Laidback Pioneer | Prop | tab | link= }}
+| {{Spirit Item| Laidback Pioneer | Prop_real | closet_display }}
+| {{Days Item| Festival Scepter | icon | tab | link= }}
+| {{Days Item| Festival Scepter | real | closet_display }}
+| {{Spirit Item| Lightseekers | prop_u | tab | link= }}
+| {{Spirit Item| Lightseekers | prop_u_real | closet_display | link=Lightseeker_Guide#Ultimate_Gifts }}
+| {{Icon| Icon-prop-lightseekers-large-transparent-IAP-umbrella.png | tab | link= | label=Lightseeker IAP Umbrella }}
+| {{Icon| Transparent-Lightseeker-Umbrella-Credit-Nastymold.png | closet_display | link=That_Sky_Shop#Lightseeker_Umbrella | label=Lightseeker IAP Umbrella }}
+| {{Spirit Item| Moments Guide | prop_u | tab | link= }}
+| {{Spirit Item| Moments Guide | prop_u_real | closet_display | link=Moments_Guide#Moments_Ultimate_Prop }}
+| {{Spirit Item| Moments Guide | prop | tab | link= }}
+| {{Spirit Item| Moments Guide | prop_real | closet_display | link=Moments Guide#Camera Prop }}
+| {{Spirit Item| Moomin Guide | prop_u | tab | link= }}
+| {{Spirit Item| Moomin Guide | prop_u_real | closet_display | link=Moomin Guide#Ultimate Umbrella }}
+| {{Spirit Item| Stern Shepherd | Prop | tab | link= }}
+| {{Spirit Item| Stern Shepherd | Prop_real | closet_display }}
+| {{Spirit Item| Tender Toymaker | Prop_m | tab | link= }}
+| {{Spirit Item| Tender Toymaker | Prop_m_real | closet_display }}
+| {{Spirit Item| Scarred Sentry | Prop_s | tab | link= }}
+| {{Spirit Item| Scarred Sentry | Prop_s_real | closet_display }}
+| {{Spirit Item| Scarred Sentry | Prop_c | tab | link= }}
+| {{Spirit Item| Scarred Sentry | Prop_c_real | closet_display }}
+| {{Days Item| Days of Fortune Enchanted Umbrella | icon | tab | link= }}
+| {{Days Item| Days of Fortune Enchanted Umbrella | real | closet_display }}
+| {{Days Item| Days of Love Serendipitous Scepter | icon | tab | link= }}
+| {{Days Item| Days of Love Serendipitous Scepter | real | closet_display }}
+| {{Days Item| Bloom Lilypad Umbrella | icon | tab | link= }}
+| {{Days Item| Bloom Lilypad Umbrella | real | closet_display }}
+| {{Days Item| Jenova Fan | icon | tab | link= }}
+| {{Days Item| Jenova Fan | real | closet_display | link=Sky_Anniversary/2024#SkyFest_Jenova_Fan }}
+| {{Days Item| Anniversary Clapboard | icon | tab | link= }}
+| {{Days Item| Anniversary Clapboard | real | closet_display }}
+| {{Days Item| Tournament Torch | icon | tab | link= }}
+| {{Days Item| Tournament Torch | real | closet_display }}
+| {{Days Item| Lantern | icon | tab | link= }}
+| {{Days Item| Lantern | real | closet_display | link=Days_of_Moonlight#Moonlight_Lantern_Pack }}
+| {{Days Item| Summer Parasol | icon | tab | link= }}
+| {{Days Item| Summer Parasol | real | closet_display }}
+| {{Days Item| Mischief Broom | icon | tab | link= }}
+| {{Days Item| Mischief Broom | real | closet_display }}
+| {{Days Item| Treasure Shovel | icon | tab | link= }}
+| {{Days Item| Treasure Shovel | real | closet_display }}
+| {{Days Item| Anniversary Popcorn Prop | icon | tab | link= }}
+| {{Days Item| Anniversary Popcorn Prop | real | closet_display | link=Sky_Anniversary#Anniversary_Cinema_Set }}
+| {{Days Item| Winter Feast Snowboard | icon | tab | link= }}
+| {{Days Item| Winter Feast Snowboard | real | closet_display }}
+| {{Days Item| Days of Fortune Hand Fan | icon | tab | link= }}
+| {{Days Item| Days of Fortune Hand Fan | real | closet_display }}
+}}<section end="Instrument Display" />
+
+==Large Placeable Props Display==
+<section begin="Large Prop Display" />{{#invoke:Cosmetics Tabber|tabber
+| {{Days Item| Sunlight Manta Float | icon | tab | link= }}
+| {{Days Item| Sunlight Manta Float | real | closet_display }}
+| {{Spirit Item| Meditating Monastic | prop | tab | link= }}
+| {{Spirit Item| Meditating Monastic | prop_real | closet_display }}
+| {{Spirit Item| Festival Spin Dancer | Prop | tab | link= }}
+| {{Spirit Item| Festival Spin Dancer | prop_real | closet_display }}
+| {{Spirit Item| Playfighting Herbalist | Prop | tab | link= }}
+| {{Spirit Item| Playfighting Herbalist | prop_real | closet_display }}
+| {{Spirit Item| Crab Whisperer | Prop | tab | link= }}
+| {{Spirit Item| Crab Whisperer | prop_real | closet_display }}
+| {{Spirit Item| Belonging Guide | prop_u | tab | label=Belonging Ultimate Bonfire | link= }}
+| {{Spirit Item| Belonging Guide | prop_u_real | closet_display | link=Belonging_Guide#Belonging_Ultimate_Prop | label=Belonging Ultimate Bonfire }}
+| {{Spirit Item| Troupe Juggler | Prop | tab | link= }}
+| {{Spirit Item| Troupe Juggler | prop_real | closet_display }}
+| {{Spirit Item| Prophet of Fire | Prop | tab | link= }}
+| {{Spirit Item| Prophet of Fire | prop_real | closet_display }}
+| {{Spirit Item| Assembly Guide | prop_l | tab | label=Assembly Brazier | link= }}
+| {{Spirit Item| Assembly Guide | prop_l_real | closet_display | label=Assembly Brazier | link=Assembly Guide#Brazier_Prop }}
+| {{Spirit Item| Assembly Guide | prop_b | tab | label=Assembly Bookcase | link= }}
+| {{Spirit Item| Assembly Guide | prop_b_real | closet_display | label=Assembly Bookcase | link=Assembly Guide#Bookcase_Prop }}
+| {{Spirit Item| Scaredy Cadet | Prop | tab | link= }}
+| {{Spirit Item| Scaredy Cadet | prop_real | closet_display }}
+| {{Spirit Item| Marching Adventurer | Prop | tab | link= }}
+| {{Spirit Item| Marching Adventurer | prop_real | closet_display }}
+| {{Spirit Item| Assembly Guide | prop_t | tab | label=Assembly Tent | link= }}
+| {{Spirit Item| Assembly Guide | prop_t_real | closet_display | label=Assembly Tent | link=Assembly Guide#Tent_Prop}}
+| {{Spirit Item| Baffled Botanist | Prop | tab | link= }}
+| {{Spirit Item| Baffled Botanist | prop_real | closet_display }}
+| {{Spirit Item| Chuckling Scout | Prop | tab | link= }}
+| {{Spirit Item| Chuckling Scout | prop_real | closet_display }}
+| {{Spirit Item| Star Collector | Prop | tab | link= }}
+| {{Spirit Item| Star Collector | prop_real | closet_display }}
+| {{Spirit Item| Performance Guide | prop | tab | label=Performance Flower Pot | link= }}
+| {{Spirit Item| Performance Guide | prop_real | closet_display | link=Performance_Guide#Flower_Pot_Prop | label=Performance Flower Pot }}
+| {{Spirit Item| Remembrance Guide | prop_p | tab | label=Remembrance Potted Plant | link= }}
+| {{Spirit Item| Remembrance Guide | prop_p_real | closet_display | label=Remembrance Potted Plant | link=Remembrance_Guide#Potted_Plant_Prop }}
+| {{Spirit Item| Remembrance Guide | prop_k | tab | label=Remembrance Kettle | link= }}
+| {{Spirit Item| Remembrance Guide | prop_k_real | closet_display | label=Remembrance Kettle | link=Remembrance_Guide#Kettle_Prop }}
+| {{Spirit Item| Remembrance Guide | prop_u | tab | label=Remembrance Ultimate Manta Projector | link= }}
+| {{Spirit Item| Remembrance Guide | prop_u_real | closet_display | link=Remembrance_Guide#Remembrance_Ultimate_Prop | label=Remembrance Ultimate Manta Projector }}
+| {{Spirit Item| Spirit of Adventure | Prop | tab | link= }}
+| {{Spirit Item| Spirit of Adventure | prop_real | closet_display }}
+| {{Spirit Item| Radiance Leaping Dancer | Prop | tab | link= }}
+| {{Spirit Item| Radiance Leaping Dancer | prop_real | closet_display }}
+| {{Spirit Item| Blue Bird Guide | Prop_a | tab | link= }}
+| {{Spirit Item| Blue Bird Guide | prop_a_real | closet_display | link=Blue_Bird_Guide#Prop}}
+| {{Spirit Item| Resourceful Recluse | Prop_p | tab | link= }}
+| {{Spirit Item| Resourceful Recluse | prop_p_real | closet_display }}
+| {{Spirit Item| Resourceful Recluse | Prop_t | tab | link= }}
+| {{Spirit Item| Resourceful Recluse | prop_t_real | closet_display }}
+| {{Days Item| Moonlight Basin | icon | tab | link= }}
+| {{Days Item| Moonlight Basin | real | closet_display }}
+| {{Days Item| Anniversary Movie Seats | icon | tab | link= }}
+| {{Days Item| Anniversary Movie Seats | real | closet_display }}
+| {{Days Item| Sky Balloon prop | icon | tab | link= }}
+| {{Days Item| Sky Balloon prop | real | closet_display }}
+| {{Days Item| Balloon Arch prop | icon | tab | link= }}
+| {{Days Item| Balloon Arch prop | real | closet_display }}
+| {{Days Item| Days of Love Swing | icon | tab | link= }}
+| {{Days Item| Days of Love Swing | real | closet_display }}
+| {{Days Item| Days of Love Seesaw | icon | tab | link= }}
+| {{Days Item| Days of Love Seesaw | real | closet_display }}
+| {{Days Item| Days of Love Flowery Archway | icon | tab | link= }}
+| {{Days Item| Days of Love Flowery Archway | real | closet_display }}
+| {{Days Item| Bloom Teaset | icon | tab | link= }}
+| {{Days Item| Bloom Teaset | real | closet_display }}
+| {{Days Item| Campfire Tent | icon | tab | link= }}
+| {{Days Item| Campfire Tent | real | closet_display }}
+| {{Days Item| Purple Bloom Teaset | icon | tab | link= }}
+| {{Days Item| Purple Bloom Teaset | real | closet_display }}
+| {{Days Item| Picnic Basket | icon | tab | link= }}
+| {{Days Item| Picnic Basket | real | closet_display }}
+| {{Days Item| Sky Anniversary Light Fence Prop | icon | tab | link= }}
+| {{Days Item| Sky Anniversary Light Fence Prop | real | closet_display | link=Sky_Anniversary/2022#Anniversary_Light_Fence }}
+| {{Spirit Item| Jelly Whisperer | Prop | tab | link= }}
+| {{Spirit Item| Jelly Whisperer | prop_real | closet_display }}
+| {{Spirit Item| Chill Sunbather | Prop | tab | link= }}
+| {{Spirit Item| Chill Sunbather | prop_real | closet_display }}
+| {{Spirit Item| Grateful Shell Collector | Prop | tab | link= }}
+| {{Spirit Item| Grateful Shell Collector | prop_real | closet_display }}
+| {{Spirit Item| Hiking Grouch | Prop | tab | link= }}
+| {{Spirit Item| Hiking Grouch | prop_real | closet_display }}
+| {{Days Item| Mischief Spooky Dining Set | icon | tab | link= }}
+| {{Days Item| Mischief Spooky Dining Set | real | closet_display }}
+| {{Days Item| Days of Feast Table | icon | tab | link= }}
+| {{Days Item| Days of Feast Table | real | closet_display }}
+| {{Days Item| Days of Music Jam Station | icon | tab | link= }}
+| {{Days Item| Days of Music Jam Station | real | closet_display }}
+| {{Days Item| Snowkid Prop | icon | tab | link= }}
+| {{Days Item| Snowkid Prop | real | closet_display }}
+| {{Days Item| Sky Anniversary Disco Light Prop | icon | tab | link= }}
+| {{Days Item| Sky Anniversary Disco Light Prop | real | closet_display | link=Sky_Anniversary/2023#Anniversary_Party_Lights }}
+| {{Icon| Shared-Spaces-Stool-prop-icon-Morybel-0146.png | tab | link= | label=Stone Stool }}
+| {{Icon| Shared-Spaces-Stool-prop.png | closet_display | link=Nesting Workshop#Stone Stool | label=Stone Stool }}
+| {{Spirit Item| Nesting Stone Seating | Prop_d | tab | link= }}
+| {{Spirit Item| Nesting Stone Seating | prop_d_real | closet_display | link=Nesting Workshop#Stone Single Bench }}
+| {{Spirit Item| Nesting Stone Seating | Prop_c | tab | link= }}
+| {{Spirit Item| Nesting Stone Seating | prop_c_real | closet_display | link=Nesting Workshop#Stone Chair }}
+| {{Spirit Item| Nesting Stone Seating | Prop_a | tab | link= }}
+| {{Spirit Item| Nesting Stone Seating | prop_a_real | closet_display | link=Nesting Workshop#Stone Armchair }}
+| {{Spirit Item| Nesting Stone Seating | Prop_l | tab | link= }}
+| {{Spirit Item| Nesting Stone Seating | prop_l_real | closet_display | link=Nesting Workshop#Stone Loveseat  }}
+| {{Spirit Item| Nesting Stone Seating | prop_b | tab | link= }}
+| {{Spirit Item| Nesting Stone Seating | prop_b_real | closet_display | link=Nesting Workshop#Stone Bench }}
+| {{Spirit Item| Nesting Stone Seating | prop_r | tab | link= }}
+| {{Spirit Item| Nesting Stone Seating | prop_r_real | closet_display | link=Nesting Workshop#Stone Sofa Corner }}
+| {{Spirit Item| Nesting Stone Seating | prop_s | tab | link= }}
+| {{Spirit Item| Nesting Stone Seating | prop_s_real | closet_display | link=Nesting Workshop#Stone Sofa Side }}
+| {{Spirit Item| Nesting Stone Table | Prop_s | tab | link= }}
+| {{Spirit Item| Nesting Stone Table | prop_s_real | closet_display | link=Nesting Workshop#Stone Small Table }}
+| {{Spirit Item| Nesting Stone Table | Prop_q | tab | link= }}
+| {{Spirit Item| Nesting Stone Table | prop_q_real | closet_display | link=Nesting Workshop#Stone Square Dining Table }}
+| {{Spirit Item| Nesting Stone Table | Prop_r | tab | link= }}
+| {{Spirit Item| Nesting Stone Table | prop_r_real | closet_display | link=Nesting Workshop#Stone Round Dining Table }}
+| {{Spirit Item| Nesting Stone Table | Prop_l | tab | link= }}
+| {{Spirit Item| Nesting Stone Table | prop_l_real | closet_display | link=Nesting Workshop#Stone Long Dining Table }}
+| {{Spirit Item| Nesting Stone Table | Prop_d | tab | link= }}
+| {{Spirit Item| Nesting Stone Table | prop_d_real | closet_display | link=Nesting Workshop#Stone Desk }}
+| {{Spirit Item| Nesting Stone Table | Prop_t | tab | link= }}
+| {{Spirit Item| Nesting Stone Table | prop_t_real | closet_display | link=Nesting Workshop#Stone Console Table }}
+| {{Spirit Item| Nesting Stone Table | Prop_c | tab | link= }}
+| {{Spirit Item| Nesting Stone Table | prop_c_real | closet_display | link=Nesting Workshop#Stone Coffee Table }}
+| {{Spirit Item| Nesting Stone Room | Prop_b | tab | link= }}
+| {{Spirit Item| Nesting Stone Room | prop_b_real | closet_display | link=Nesting Workshop#Stone Single Bed }}
+| {{Spirit Item| Nesting Stone Room | Prop_t | tab | link= }}
+| {{Spirit Item| Nesting Stone Room | prop_t_real | closet_display | link=Nesting Workshop#Stone Tall Shelf }}
+| {{Spirit Item| Nesting Stone Room | Prop_s | tab | link= }}
+| {{Spirit Item| Nesting Stone Room | prop_s_real | closet_display | link=Nesting Workshop#Stone Small Bathtub }}
+| {{Spirit Item| Nesting Stone Room | prop_l | tab | link= }}
+| {{Spirit Item| Nesting Stone Room | prop_l_real | closet_display | link=Nesting Workshop#Stone Large Bathtub }}
+| {{Spirit Item| Nesting Stone Room | Prop_w | tab | link= }}
+| {{Spirit Item| Nesting Stone Room | prop_w_real | closet_display | link=Nesting Workshop#Stone Washstand}}
+| {{Spirit Item| Nesting Stone Kitchen | prop_v | tab | link= }}
+| {{Spirit Item| Nesting Stone Kitchen | prop_v_real | closet_display | link=Nesting Workshop#Stone Kitchen Stove }}
+| {{Spirit Item| Nesting Stone Kitchen | Prop_f | tab | link= }}
+| {{Spirit Item| Nesting Stone Kitchen | prop_f_real | closet_display | link=Nesting Workshop#Stone Wood-Fired Oven }}
+| {{Spirit Item| Nesting Stone Kitchen | Prop_d | tab | link= }}
+| {{Spirit Item| Nesting Stone Kitchen | prop_d_real | closet_display | link=Nesting Workshop#Stone Kitchen Drawers }}
+| {{Spirit Item| Nesting Stone Kitchen | prop_c | tab | link= }}
+| {{Spirit Item| Nesting Stone Kitchen | prop_c_real | closet_display | link=Nesting Workshop#Stone Kitchen Cabinet }}
+| {{Spirit Item| Nesting Stone Furniture | prop_w | tab | link= }}
+| {{Spirit Item| Nesting Stone Furniture | prop_w_real | closet_display | link=Nesting Workshop#Stone Wide Cube　}}
+| {{Spirit Item| Nesting Stone Furniture | prop_t | tab | link= }}
+| {{Spirit Item| Nesting Stone Furniture | Prop_t_real | closet_display | link=Nesting Workshop#Stone Tall Cube　}}
+| {{Spirit Item| Nesting Stone Furniture | Prop_p | tab | link= }}
+| {{Spirit Item| Nesting Stone Furniture | prop_p_real | closet_display | link=Nesting Workshop#Stone Plant Stand }}
+| {{Spirit Item| Nesting Stone Furniture | Prop_l | tab | link= }}
+| {{Spirit Item| Nesting Stone Furniture | prop_l_real | closet_display | link=Nesting Workshop#Stone Candle Light }}
+| {{Spirit Item| Nesting Loft | prop_b | tab | link= }}
+| {{Spirit Item| Nesting Loft | prop_b_real | closet_display }}
+| {{Spirit Item| Nesting Loft | prop_c | tab | link= }}
+| {{Spirit Item| Nesting Loft | prop_c_real | closet_display }}
+| {{Spirit Item| Nesting Solarium | prop_t | tab | link= }}
+| {{Spirit Item| Nesting Solarium | prop_t_real | closet_display }}
+| {{Spirit Item| Nesting Nook | prop_c | tab | link= }}
+| {{Spirit Item| Nesting Nook | prop_c_real | closet_display }}
+| {{Spirit Item| Nesting Atrium | prop_h | tab | link= }}
+| {{Spirit Item| Nesting Atrium | prop_h_real | closet_display }}
+| {{Spirit Item| Nesting Solarium | prop_b | tab | link= }}
+| {{Spirit Item| Nesting Solarium | prop_b_real | closet_display }}
+| {{Spirit Item| Nesting Atrium | prop_b | tab | link= }}
+| {{Spirit Item| Nesting Atrium | prop_b_real | closet_display }}
+| {{Spirit Item| Nesting Solarium | prop_h | tab | link= }}
+| {{Spirit Item| Nesting Solarium | prop_h_real | closet_display }}
+| {{Days_Item | Dressing Table | prop | table | link=}}
+| {{Days_Item | Dressing Table prop | real | closet_display | link=Workshop_Show_%26_Tell#Dressing_Table}}
+| {{Days_Item | floor_curtain | prop | table | link=}}
+| {{Days_Item | floor_curtain prop | real | closet_display | link=Workshop_Show_%26_Tell#Floor_Curtain}}
+| {{Days_Item | left_curtain | prop | table | link=}}
+| {{Days_Item | left_curtain prop | real | closet_display | link=Workshop_Show_%26_Tell#Left_Curtain}}
+| {{Days_Item | Blue Stool | prop | table | link=}}
+| {{Days_Item | Blue Stool prop | real | closet_display | link=Workshop_Show_%26_Tell#Blue_Stool}}
+| {{Spirit Item| Comfort of Kindness | prop_c | tab | link= }}
+| {{Spirit Item| Comfort of Kindness | prop_c_real | closet_display }}
+| {{Spirit Item| Inspiration of Inclusion | prop_c | tab | link= }}
+| {{Spirit Item| Inspiration of Inclusion | prop_c_real | closet_display }}
+| {{Days Item| Moonlight Lantern Decoration | icon | tab | link= }}
+| {{Days Item| Moonlight Lantern Decoration | real | closet_display }}
+| {{Days Item| Cozy Cafe Table | icon | tab | link= }}
+| {{Days Item| Cozy Cafe Table | real | closet_display }}
+| {{Days Item| Mischief Cauldron | icon | tab | link= }}
+| {{Days Item| Mischief Cauldron | real | closet_display }}
+| {{Days Item| Wonderland Teacup Bath | icon | tab | link= }}
+| {{Days Item| Wonderland Teacup Bath | real | closet_display }}
+| {{Days Item| Fortune Plant Prop | icon | tab | link= }}
+| {{Days Item| Fortune Plant Prop | real | closet_display }}
+| {{Days Item| Fortune Vertical Poster Prop | icon | tab | link= }}
+| {{Days Item| Fortune Vertical Poster Prop | real | closet_display }}
+| {{Days Item| Fortune Candle Flags Prop | icon | tab | link= }}
+| {{Days Item| Fortune Candle Flags Prop | real | closet_display }}
+| {{Spirit Item|Nesting Stone Room|prop_d| tab | link= }}
+| {{Spirit Item|Nesting Stone Room|prop_d_real | closet_display | link=Nests#Stone_Dresser }}<ref name="event_shared_space_only">This item is only available in a [[Shared Space]] during an event and is not accessible via the Outfit Shrine.</ref>
+| {{Spirit Item|Nesting Stone Furniture | prop_b | tab | link= }}
+| {{Spirit Item|Nesting Stone Furniture| prop_b_real| closet_display | link=Nesting Workshop#Stone Small Cube }}<ref name="shared_space_only"></ref>
+| {{Days Item| Windowed Tent Wall | icon | tab | link= }}
+| {{Days Item| Windowed Tent Wall | real | closet_display }}<ref name="event_shared_space_only"></ref>
+| {{Days Item| Tent Cover | icon | tab | link= }}
+| {{Days Item| Tent Cover | real | closet_display }}<ref name="event_shared_space_only" />
+| {{Days Item| Tent Wall Entrance | icon | tab | link= }}
+| {{Days Item| Tent Wall Entrance | real | closet_display }}<ref name="event_shared_space_only" />
+| {{Days Item| Tent Wall | icon | tab | link= }}
+| {{Days Item| Tent Wall | real | closet_display }}<ref name="event_shared_space_only" />
+}}<section end="Large Prop Display" />
+
+==Small Placeable Props Display==
+<section begin="Small Prop Display" />{{#invoke:Cosmetics Tabber|tabber
+| {{Spirit Item| Wise Grandparent | Prop | tab | link= }}
+| {{Spirit Item| Wise Grandparent | prop_real | closet_display }} 
+| {{Spirit Item| Prophet of Water | Prop | tab | link= }}
+| {{Spirit Item| Prophet of Water | prop_real | closet_display }}
+| {{Spirit Item| Prophet of Earth | Prop | tab | link= }}
+| {{Spirit Item| Prophet of Earth | prop_real | closet_display }}
+| {{Spirit Item| Prophet of Air | Prop | tab | link= }}
+| {{Spirit Item| Prophet of Air | prop_real | closet_display }}
+| {{Spirit Item| Prophet of Fire | Prop_s | tab | link= }}
+| {{Spirit Item| Prophet of Fire | prop_s_real | closet_display }}
+| {{Spirit Item| Assembly Guide | prop_j | tab | label=Assembly Jar | link= }}
+| {{Spirit Item| Assembly Guide | prop_j_real | closet_display | label=Assembly Jar | link=Assembly Guide#Jar_Prop}}
+| {{Spirit Item| Assembly Guide | prop_p | tab | label=Assembly Pillow | link= }}
+| {{Spirit Item| Assembly Guide | prop_p_real | closet_display | label=Assembly Pillow | link=Assembly Guide#Pillow_Prop}}
+| {{Spirit Item| Little Prince | Prop_u | tab | label=Little Prince Ultimate Rose | link= }}
+| {{Spirit Item| Little Prince | prop_u_real | closet_display | link=The_Rose#Little_Prince_Ultimate_Prop | label=Little Prince Ultimate Rose }}
+| {{Spirit Item| Little Prince | Prop_i | tab | label=Little Prince Fox | link= }}
+| {{Spirit Item| Little Prince | Prop_i_real | closet_display | label=Little Prince Fox | link=Season of The Little Prince#Little Prince Fox Prop}}
+| {{Icon| Fox-Plush-icon-STAR.png | tab | link= | label=Sky x Le Petit Prince Plush Pin Keychain Charm - The Fox }}
+| {{Icon| Fox-Plush-STAR-held.png | closet_display | link=That Sky Shop/Wave 16#Sky x Le Petit Prince Plush Pin Keychain Charm - The Fox | label=Sky x Le Petit Prince Plush Pin Keychain Charm - The Fox}}
+| {{Spirit Item| Remembrance Guide | prop_c | tab | label=Remembrance Chimes | link= }}
+| {{Spirit Item| Remembrance Guide | prop_c_real | closet_display | label=Remembrance Chimes | link=Remembrance_Guide#Chimes_Prop}}
+| {{Spirit Item| Remembrance Guide | prop_q | tab | label=Remembrance Crab Plush | link= }}
+| {{Spirit Item| Remembrance Guide | prop_q_real | closet_display | label=Remembrance Crab Plush | link=Remembrance_Guide#Crab_Plush_Prop}}
+| {{Spirit Item| Remembrance Guide | prop_m | tab | label=Remembrance Manta Plush | link= }}
+| {{Spirit Item| Remembrance Guide | prop_m_real | closet_display | label=Remembrance Manta Plush | link=Remembrance_Guide#Manta_Plush_Prop}}
+| {{Icon| Manta-Plush-icon-STAR.png | tab | link= | label=Manta Plush (38") }}
+| {{Icon| Manta-Plush-STAR.png | closet_display | link=That Sky Shop/Wave 10#Manta Plush (38") | label=Manta Plush (38") }}
+| {{Icon| The-Art-of-Sky-STAR-Prop-icon.png | tab | link=The Art of Sky | label=The Art of Sky STAR Prop}}
+| {{Icon| The-Art-of-Sky-STAR-Prop-Placed-Down.png | closet_display | link=The Art of Sky | label=The Art of Sky STAR Prop}}
+| {{Spirit Item| Passage Guide | prop_h | tab | label=Passage Footbag Prop | link= }}
+| {{Spirit Item| Passage Guide | prop_h_real | closet_display | label=Passage Footbag Prop | link=Passage_Guide#Footbag_Prop}}
+| {{Spirit Item| Jolly Geologist | Prop | tab | link= }}
+| {{Spirit Item| Jolly Geologist | prop_real | closet_display }}
+| {{Spirit Item| Herb Gatherer | Prop | tab | link= }}
+| {{Spirit Item| Herb Gatherer | prop_real | closet_display }}
+| {{Spirit Item| Moomin Guide | Prop_m | tab | link= }}
+| {{Spirit Item| Moomin Guide | prop_m_real | closet_display | link=The_Moomin_Storybook#Moomin_Ultimate_Plush }}
+| {{Icon| Moomin-Plush-icon-STAR.png | tab | link= | label=Sky x Moomin Plush Keychain Charm }}
+| {{Icon| Moomin-Plush-STAR-held.png | closet_display | link=That Sky Shop/Wave 16#Sky x Moomin Plush Keychain Charm | label=Sky x Moomin Plush Keychain Charm }}
+| {{Spirit Item| Caring Companion | Prop | tab | link= }}
+| {{Spirit Item| Caring Companion | Prop_real | closet_display }}
+| {{Spirit Item| Vault Elder's Lantern | Prop_p | tab | link= }}
+| {{Spirit Item| Vault Elder's Lantern | prop_p_real | closet_display | link=Season_of_The_Two_Embers_-_Part_1#Manatee_Plush }}
+| {{Spirit Item| Tender Toymaker | Prop_c | tab | link= }}
+| {{Spirit Item| Tender Toymaker | Prop_c_real | closet_display }}
+| {{Spirit Item| Vault Elder's Lantern | Prop_a | tab | link= }}
+| {{Spirit Item| Vault Elder's Lantern | prop_a_real | closet_display | link=Vault_Elder%27s_Lantern#Prop }}
+| {{Icon| Projector-of-Memories-Icon.png | tab | link= | label=Projector of Memories }}
+| {{Icon| Projector-of-Memories-prop.png | closet_display | link=Season_of_The_Two_Embers_-_Part_1#Projector_of_Memories | label=Projector of Memories }}
+| {{Days Item| Sunlight Wave Projector | icon | tab | link= }}
+| {{Days Item| Sunlight Wave Projector | real | closet_display }}
+| {{Days Item| Sandcastle Small Tower Piece | icon | tab | link= }}
+| {{Days Item| Sandcastle Small Tower Piece | real | closet_display }}
+| {{Days Item| Sandcastle Large Tower Piece | icon | tab | link= }}
+| {{Days Item| Sandcastle Large Tower Piece | real | closet_display }}
+| {{Days Item| Sandcastle Small Gate Piece | icon | tab | link= }}
+| {{Days Item| Sandcastle Small Gate Piece | real | closet_display }}
+| {{Days Item| Sandcastle Wall Piece | icon | tab | link= }}
+| {{Days Item| Sandcastle Wall Piece | real | closet_display }}
+| {{Days Item| Sandcastle Large Gate Piece | icon | tab | link= }}
+| {{Days Item| Sandcastle Large Gate Piece | real | closet_display }}
+| {{Days Item| Sandcastle Sand Lot | icon | tab | link= }}
+| {{Days Item| Sandcastle Sand Lot | real | closet_display }}
+| {{Days Item| Sandcastle Flag | icon | tab | link= }}
+| {{Days Item| Sandcastle Flag | real | closet_display }}
+| {{Days Item| Moonlight Banner | icon | tab | link= }}
+| {{Days Item| Moonlight Banner | real | closet_display }}
+| {{Days Item| Anniversary Blue Carpet | icon | tab | link= }}
+| {{Days Item| Anniversary Blue Carpet | real | closet_display }}
+| {{Days Item| Days of Love Gondola | icon | tab | link= }}
+| {{Days Item| Days of Love Gondola | real | closet_display }}
+| {{Spirit Item| Sparkler Parent | Prop | tab | link= }}
+| {{Spirit Item| Sparkler Parent | prop_real | closet_display }}
+| {{Days Item| Sky Anniversary Birthday Flag Prop | icon | tab | link= }}
+| {{Days Item| Sky Anniversary Birthday Flag Prop | real | closet_display | link=Sky_Anniversary/2021#Anniversary_Birthday_Flag }}
+| {{Days Item| Sky Anniversary Balloons Prop | icon | tab | link= }}
+| {{Days Item| Sky Anniversary Balloons Prop | real | closet_display | link=Sky_Anniversary/2022#Anniversary_Balloons }}
+| {{Days Item| Sky Anniversary Confetti Launcher Prop | icon | tab | link= }}
+| {{Days Item| Sky Anniversary Confetti Launcher Prop | real | closet_display | link=Sky_Anniversary/2022#Anniversary_Confetti_Launcher }}
+| {{Days Item| Color Bubble Machine | icon | tab | link= }}
+| {{Days Item| Color Bubble Machine | real | closet_display | link=Days_of_Color/2024#Color_Bubble_Machine }}
+| {{Days Item| Mischief Pumpkin Prop | icon | tab | link= }}
+| {{Days Item| Mischief Pumpkin Prop | real | closet_display }}
+| {{Days Item| Feline Familiar Prop | icon | tab | link= }}
+| {{Days Item| Feline Familiar Prop | real | closet_display }}
+| {{Days Item| Winter Feast Pillow | icon | tab | link= }}
+| {{Days Item| Winter Feast Pillow | real | closet_display }}
+| {{Days Item| Winter Feast Snowglobe | icon | tab | link= }}
+| {{Days Item| Winter Feast Snowglobe | real | closet_display }}
+| {{Days Item| Campfire Snack Kit | icon | tab | link= }}
+| {{Days Item| Campfire Snack Kit | real | closet_display }}
+| {{Days Item| Tournament Skyball Set| icon | tab | link= }}
+| {{Days Item| Tournament Skyball Set| real | closet_display }}
+| {{Days Item| Butterfly Fountain | icon | tab | link= }}
+| {{Days Item| Butterfly Fountain | real | closet_display }}
+| {{Days Item| Nature Sonorous Seashell | icon | tab | link= }}
+| {{Days Item| Nature Sonorous Seashell | real | closet_display }} 
+| {{Days Item| Anniversary Sonorous Seashell prop | icon | tab | link= }}
+| {{Days Item| Anniversary Sonorous Seashell prop | real | closet_display | link=Sky_Anniversary/2023#Anniversary_Sonorous_Seashell}}
+| {{Spirit Item| Nesting Stone Furniture | Prop_r | tab | link= }}
+| {{Spirit Item| Nesting Stone Furniture | prop_r_real | closet_display | link=Nesting Workshop#Music Player}}
+| {{Days Item| Oreo Plush | icon | tab | link= }}
+| {{Days Item| Oreo Plush | real | closet_display | link=Sky_Anniversary/2023#Anniversary_Plush }}
+| {{Icon| Oreo-Plush-icon-STAR.png | tab | link= | label=Little Oreo Plush}}
+| {{Icon| Oreo-Plush-STAR.png | closet_display | link=That Sky Shop/Wave 12#Little Oreo Plush | label=Little Oreo Plush }}
+| {{Days Item| Love Heart Plushie | icon | tab | link= }}
+| {{Days Item| Love Heart Plushie | real | closet_display }}
+| {{Days Item| Sunlight Surfboard | icon | tab | link= }}
+| {{Days Item| Sunlight Surfboard | real | closet_display }}
+| {{Icon| Companion-Cube-icon.png | tab | link= | label=Companion Cube }}
+| {{Icon| Companion-Cube-Plushie-Owl.png | closet_display | link=Companion Cube | label=Companion Cube }}
+| {{Days Item| Course Creation Prop | icon | tab | link= }}
+| {{Days Item| Course Creation Prop | real | closet_display }}
+| {{Spirit Item| Nesting Stone Furniture | prop_m | tab | link= }}
+| {{Spirit Item| Nesting Stone Furniture | prop_m_real | closet_display | link=Nesting Workshop#Stone Wall Mirror }}
+| {{Spirit Item| Nesting Stone Room | prop_r | tab | link= }}
+| {{Spirit Item| Nesting Stone Room | prop_r_real | closet_display | link=Nesting Workshop#Stone Wall Towel Rack }}
+| {{Spirit Item| Nesting Stone Kitchen | prop_p | tab | link= }}
+| {{Spirit Item| Nesting Stone Kitchen | prop_p_real | closet_display | link=Nesting Workshop#Stone Wall Pot Rack }}
+| {{Spirit Item| Nesting Stone Kitchen | prop_m | tab | link= }}
+| {{Spirit Item| Nesting Stone Kitchen | prop_m_real | closet_display | link=Nesting Workshop#Stone Wall Mug Rack }}
+| {{Spirit Item| Nesting Stone Furniture | prop_e | tab | link= }}
+| {{Spirit Item| Nesting Stone Furniture | prop_e_real | closet_display | link=Nesting Workshop#Stone Empty Box }}
+| {{Spirit Item| Nesting Stone Furniture | prop_x | tab | link= }}
+| {{Spirit Item| Nesting Stone Furniture | prop_x_real | closet_display | link=Nesting Workshop#Stone Closed Box }}
+| {{Spirit Item| Nesting Stone Kitchen | prop_w | tab | link= }}
+| {{Spirit Item| Nesting Stone Kitchen | prop_w_real | closet_display | link=Nesting Workshop#Stone Wall Shelf }}
+| {{Spirit Item| Nesting Decor Set| prop_p | tab | link= }}
+| {{Spirit Item| Nesting Decor Set| prop_p_real | closet_display | link=Nesting Workshop#Decor Pillow One Color }}
+| {{Spirit Item| Nesting Decor Set| prop_t | tab | link= }}
+| {{Spirit Item| Nesting Decor Set| prop_t_real | closet_display | link=Nesting Workshop#Decor Pillow Two Colors }}
+| {{Spirit Item| Nesting Decor Set| prop_f | tab | link= }}
+| {{Spirit Item| Nesting Decor Set| prop_f_real | closet_display | link=Nesting Workshop#Decor Folded Cloth }}
+| {{Spirit Item| Nesting Stone Furniture| prop_s | tab | link= }}
+| {{Spirit Item| Nesting Stone Furniture| prop_s_real | closet_display | link=Nesting Workshop#Stone Wall Sconce }}
+| {{Spirit Item| Nesting Decor Set| prop_i | tab | link= }}
+| {{Spirit Item| Nesting Decor Set| prop_i_real | closet_display | link=Nesting Workshop#Small Solid Rug }}
+| {{Spirit Item| Nesting Decor Set| prop_l | tab | link= }}
+| {{Spirit Item| Nesting Decor Set| prop_l_real | closet_display | link=Nesting Workshop#Small Stripes Rug }}
+| {{Spirit Item| Nesting Decor Set| prop_m | tab | link= }}
+| {{Spirit Item| Nesting Decor Set| prop_m_real | closet_display | link=Nesting Workshop#Small Classic Rug }}
+| {{Spirit Item| Nesting Decor Set| prop_n | tab | link= }}
+| {{Spirit Item| Nesting Decor Set| prop_n_real | closet_display | link=Nesting Workshop#Small Half-Circle Rug }}
+| {{Spirit Item| Nesting Decor Set| prop_o | tab | link= }}
+| {{Spirit Item| Nesting Decor Set| prop_o_real | closet_display | link=Nesting Workshop#Medium Solid Rug }}
+| {{Spirit Item| Nesting Decor Set| prop_s | tab | link= }}
+| {{Spirit Item| Nesting Decor Set| prop_s_real | closet_display | link=Nesting Workshop#Medium Stripes Rug }}
+| {{Spirit Item| Nesting Decor Set| prop_d | tab | link= }}
+| {{Spirit Item| Nesting Decor Set| prop_d_real | closet_display | link=Nesting Workshop#Medium Diamonds Rug }}
+| {{Spirit Item| Nesting Decor Set| prop_a | tab | link= }}
+| {{Spirit Item| Nesting Decor Set| prop_a_real | closet_display | link=Nesting Workshop#Medium Argyle Rug }}
+| {{Spirit Item| Nesting Decor Set| prop_c | tab | link= }}
+| {{Spirit Item| Nesting Decor Set| prop_c_real | closet_display | link=Nesting Workshop#Medium Circle Rug }}
+| {{Spirit Item| Nesting Decor Set| prop_z | tab | link= }}
+| {{Spirit Item| Nesting Decor Set| prop_z_real | closet_display | link=Nesting Workshop#Large Solid Rug }}
+| {{Spirit Item| Nesting Decor Set| prop_x | tab | link= }}
+| {{Spirit Item| Nesting Decor Set| prop_x_real | closet_display | link=Nesting Workshop#Large Circle Rug }}
+| {{Spirit Item| Nesting Stone Furniture | prop_q | tab | link= }}
+| {{Spirit Item| Nesting Stone Furniture | prop_q_real | closet_display | link=Nesting Workshop#Stone Figurine }}
+| {{Spirit Item| Nesting Stone Furniture | prop_a | tab | link= }}
+| {{Spirit Item| Nesting Stone Furniture | prop_a_real | closet_display | link=Nesting Workshop#Mask Hanger }}
+| {{Spirit Item| Nesting Nook | prop_s | tab | link= }}
+| {{Spirit Item| Nesting Nook | prop_s_real | closet_display }}
+| {{Spirit Item| Nesting Loft | prop_p | tab | link= }}
+| {{Spirit Item| Nesting Loft | prop_p_real | closet_display }}
+| {{Spirit Item| Nesting Solarium | prop_p | tab | link= }}
+| {{Spirit Item| Nesting Solarium | prop_p_real | closet_display }}
+| {{Spirit Item| Nesting Nook | prop_r | tab | link= }}
+| {{Spirit Item| Nesting Nook | prop_r_real | closet_display }}
+| {{Spirit Item| Nesting Atrium | prop_f | tab | link= }}
+| {{Spirit Item| Nesting Atrium | prop_f_real | closet_display }}
+| {{Spirit Item| Duets Guide | prop_u | tab | link= }}
+| {{Spirit Item| Duets Guide | prop_u_real | closet_display | link=Duets_Guide#Duets_Ultimate_Prop }}
+| {{Spirit Item| The Pianist's Flourishing | prop | tab | link= }}
+| {{Spirit Item| The Pianist's Flourishing | prop_real | closet_display }}
+| {{Spirit Item| The Cellist's Flourishing | prop_p | tab | link= }}
+| {{Spirit Item| The Cellist's Flourishing | prop_p_real | closet_display }}
+| {{Spirit Item| The Cellist's Beginnings | prop | tab | link= }}
+| {{Spirit Item| The Cellist's Beginnings | prop_real | closet_display }}
+| {{Spirit Item| The Pianist's Beginnings | prop_p | tab | link= }}
+| {{Spirit Item| The Pianist's Beginnings | prop_p_real | closet_display }}
+| {{Days_Item | c_rug | prop | table | link=}}
+| {{Days_Item | c_rug | real | closet_display | link=Workshop_Show_%26_Tell#Small_C_Rug}}
+| {{Days_Item | flower_vase | prop | table | link=}}
+| {{Days_Item | flower_vase prop | real | closet_display | link=Workshop_Show_%26_Tell#Flower_Vase}}
+| {{Days_Item | stick_jar | prop | table | link=}}
+| {{Days_Item | stick_jar | real | closet_display | link=Workshop_Show_%26_Tell#Decorative_Stick_Jar}}
+| {{Spirit Item| The Musicians' Legacy | instrument_p | tab | link= }}
+| {{Spirit Item| The Musicians' Legacy | instrument_p_real | closet_display }}
+| {{Spirit Item| Duets Guide | instrument_u | tab | link= }}
+| {{Spirit Item| Duets Guide | instrument_u_real | closet_display | link=Duets_Guide#Duets_Ultimate_Instrument }}
+| {{Spirit Item| The Pianist's Beginnings | Prop_r | tab | link= }}
+| {{Spirit Item| The Pianist's Beginnings | prop_r_real | closet_display }}
+| {{Spirit Item| The Cellist's Flourishing | Prop_r | tab | link= }}
+| {{Spirit Item| The Cellist's Flourishing | prop_r_real | closet_display }}
+| {{Spirit Item| Moomin Guide | prop_p | tab | link= }}
+| {{Spirit Item| Moomin Guide | prop_p_real | closet_display }}
+| {{Spirit Item| Inspiration of Inclusion | prop_p | tab | link= }}
+| {{Spirit Item| Inspiration of Inclusion | prop_p_real | closet_display }}
+| {{Spirit Item| Comfort of Kindness | prop_p | tab | link= }}
+| {{Spirit Item| Comfort of Kindness | prop_p_real | closet_display }}
+| {{Spirit Item| Nesting Guide | prop_u | tab | link= }}
+| {{Spirit Item| Nesting Guide | prop_u_real | closet_display | link=Nesting_Guide#Nesting_Ultimate_Prop }}
+| {{Spirit Item| Nesting Stone Furniture | prop_i | tab | link= }}
+| {{Spirit Item| Nesting Stone Furniture | prop_i_real | closet_display | link=Nesting Workshop#Instrument Stand }}
+| {{Days Item| SkyFest Star Jar | icon | tab | link= }}
+| {{Days Item| SkyFest Star Jar | real | closet_display | link=Sky_Anniversary/2024#SkyFest_Star_Jar }}
+| {{Days Item| Cinnamoroll Plushie | icon | tab | link= }}
+| {{Days Item| Cinnamoroll Plushie | real | closet_display }}
+| {{Days Item| Wonderland Cafe Corridor | icon | tab | link= }}
+| {{Days Item| Wonderland Cafe Corridor | real | closet_display }}
+| {{Days Item| Fledgling Upright Piano | icon | tab | link= }}
+| {{Days Item| Fledgling Upright Piano | real | closet_display }}
+| {{Days Item| Violet Crystal Prop | icon | tab | link= }}
+| {{Days Item| Violet Crystal Prop | real | closet_display }}
+| {{Days Item| Rose Bloom Jar | icon | tab | link= }}
+| {{Days Item| Rose Bloom Jar | real | closet_display }}
+| {{Spirit Item|Nesting Stone Furniture| prop_h| table | link= }}
+| {{Spirit Item|Nesting Stone Furniture| prop_h_real | closet_display | link=Nesting Workshop#Stone Candle Holder }}<ref name="shared_space_only">This item is only available in a [[Shared Space]] and is not accessible via the Outfit Shrine.</ref>
+| {{Icon| Shared-Spaces-Brick-prop-icon-Morybel-0146.png | tab | link= | label=Shared Space Brick }}
+| {{Icon| Shared-Spaces-Brick-prop.png | closet_display | link=Shared Spaces#Featured Props | label=Shared Space Brick }}<ref name="shared_space_only"></ref>
+| {{Icon| Shared-Spaces-Round-Jar-prop-icon-Morybel-0146.png | tab | link= | label=Shared Spaces Round Jar }}
+| {{Icon| Shared-Spaces-Round-Jar-prop.png | closet_display | link=Shared Spaces#Featured Props | label=Shared Spaces Round Jar }}<ref name="shared_space_only" />
+| {{Icon| Shared-Spaces-Tall-Jar-prop-icon-Morybel-0146.png | tab | link= | label=Shared Spaces Tall Jar }}
+| {{Icon| Shared-Spaces-Tall-Jar-prop.png | closet_display | link=Shared Spaces#Featured Props | label=Shared Spaces Tall Jar }}<ref name="shared_space_only" />
+| {{Icon| Shared-Spaces-Bucket-prop-icon.png | tab | link= | label=Shared Space Bucket }}
+| {{Icon| Shared-Spaces-Bucket-prop.png | closet_display | link=Shared Spaces#Featured Props | label=Shared Space Bucket }}<ref name="shared_space_only" />
+| {{Icon| Shared-Spaces-Standing-Lantern-prop-icon-Morybel-0146.png | tab | link= | label=Shared Space Standing Lantern }}
+| {{Icon| Shared-Spaces-Standing-Lantern-prop.png | closet_display | link=Shared Spaces#Featured Props | label=Shared Space Standing Lantern }}<ref name="shared_space_only" />
+| {{Icon| Shared-Spaces-Sparkler-prop-icon-0-aliferous-twiq-0.png | tab | link= | label=Shared Space Sparkler }}
+| {{Icon| Shared-Spaces-Sparkler-prop.png | closet_display | link=Shared Spaces#Featured Props | label=Shared Space Sparkler }}<ref name="shared_space_only" />
+}}<section end="Small Prop Display" />
+
+==Available Props==
+This table lists all the Props have ever been available in Sky; only a small subset of them are [[#Availability Legend|available]] for purchase at any given time. The default order is icon order, as used in the in-game Props [[Outfit Shrine]]. The table sort order can be changed by clicking on the header of any column. The # column indicates the number of that item that can be placed at one time in a [[Shared Spaces|Shared Space]]. The last column provides the Prop type and purpose: 
+*[[Instrument]]: a musical Instrument (non-placeable)
+*Held: used for all other (non-instrument) non-placeable Props
+*Placeable: any item that can be placed on the ground or used in [[Shared Spaces]]
+*[[Chat]]: an item that allows players to chat with each other; the number of players who can sit and chat at one time is provided in parentheses.
+*Light: an item that provides light AND allows players to recharge their [[Capes#Cape Energy|Cape Energy]].
+*Covering: an item that can protect players from the rain.
+*Decoration: an item that has no useful purpose. This includes lights that do '''not''' recharge player Capes.
+<!-- There are two pairs of "placeable_props" section tags in this table (one for the header, another for ONLY the placeable prop rows) that are used to transclude the contents of this table into the Shared Spaces article. -->
+<section begin="placeable_props" />
+{| class="article-table sortable"
+! class="unsortable" | Image
+! class="unsortable" | Icon
+! [[#Availability Legend|Avail.]]
+! Source
+! Cost
+! #
+! Type
+<section end="placeable_props" />
+|- id="Harp"
+| style="text-align: center;" |{{Icon| Laughing-Light-Catcher-harp.png | link=Harp | table }}
+| {{Instrument|Harp|table}}
+| {{Avail Summary | regular | spirit=Laughing Light Catcher | realm=Daylight Prairie }}
+| {{Cost | 5 H }}
+| 
+| Instrument
+|- id="Fledgling Harp"
+| style="text-align: center;" |{{Icon| Performance-Fledgling-harp.png | table | link=Fledgling Harp}}
+| {{Instrument|Fledgling Harp|table}}
+| {{Avail Summary | permanent | source={{Icon|Harmony-hall-icon-Ray.png|table|link=Harmony Hall}} }}
+| {{Cost | 4.99 USD }}
+| 
+| Instrument
+|- id="Contrabass"
+| style="text-align: center;" |{{Icon| Frightened-Refugee-Contrabass-harp.png | link=Contrabass | table }}
+| {{Instrument|Contrabass|table}}
+| {{Avail Summary | regular | spirit=Frightened Refugee | realm=Golden Wasteland }}
+| {{Cost | 5 H }}
+| 
+| Instrument
+|- id="Piano"
+| style="text-align: center;" |{{Icon| Cheerful-Spectator-Piano.png | link=Piano | table }}
+| {{Instrument|Piano|table}}
+| {{Avail Summary | regular | spirit=Cheerful Spectator | realm=Valley of Triumph }}
+| {{Cost | 10 H }}
+| 
+| Instrument
+|- id="Horn"
+| style="text-align: center;" | {{Icon| Lookout-Scout-Horn.png | link=Horn | table }}
+| {{Instrument|Horn|table}}
+| {{Avail Summary | regular | spirit=Lookout Scout | realm=Golden Wasteland }}
+| {{Cost | 5 H }}
+| 
+| Instrument
+|- id="Small Bell"
+| style="text-align: center;" |{{Icon| Gratitude-Leaping-Dancer-Small-Bell.png | link=Small Bell | table }}
+| {{Instrument|Small Bell|table}}
+| {{Avail Summary | season | spirit=Leaping Dancer | season=Gratitude }}
+| {{Cost | 40 C }}
+| 
+| Instrument
+|- id="Large Bell"
+| style="text-align: center;" |{{Icon| Gratitude-Greeting-Shaman-Large bell.png | link=Large Bell | table }}
+| {{Instrument|Large Bell|table}}
+| {{Avail Summary | season | spirit=Greeting Shaman | season=Gratitude }}
+| {{Cost | 45 C }}
+| 
+| Instrument
+|- id="Flute"
+| style="text-align: center;" |{{Icon| Lightseekers-Doublefive-Light-Catcher-Flute.png | link=Flute | table }}
+| {{Instrument|Flute|table}}
+| {{Avail Summary | season | spirit=Doublefive Light Catcher | season=Lightseekers }}
+| {{Cost | 55 C }}
+| 
+| Instrument
+|- id="Panflute"
+| style="text-align: center;" |{{Icon| Lightseekers-Twirling-Champion - Panpipes-Panflute.png | link=Panflute | table }}
+| {{Instrument|Panflute|table}}
+| {{Avail Summary | season | spirit=Twirling Champion | season=Lightseekers }}
+| {{Cost | 60 C }}
+| 
+| Instrument
+|- id="Guitar"
+| style="text-align: center;" |{{Icon| Belonging-Pleaful-Parent-Guitar.png | link=Guitar | table }}
+| {{Instrument|Guitar|table}}
+| {{Avail Summary | season | spirit=Pleaful Parent | season=Belonging }}
+| {{Cost | 75 C }}
+| 
+| Instrument
+|- id="Rhythm Guitar"
+| style="text-align: center;" |{{Icon| Performance-Rhythm-Guitar-white-guitar.png | table | link=Rhythm Guitar}}
+| {{Instrument|Rhythm Guitar|table}}
+| {{Avail Summary | permanent | source={{Icon|Harmony-hall-icon-Ray.png|table|link=Harmony Hall}} }}
+| {{Cost | 14.99 USD}}
+| 
+| Instrument
+|- id="Ukulele"
+| style="text-align: center;" |{{Icon| Belonging-Hairtousle-teen-Ukulele.png | link=Ukulele | table }}
+| {{Instrument|Ukulele|table}}
+| {{Avail Summary | season | spirit=Hairtousle Teen | season=Belonging }}
+| {{Cost | 70 C }}
+| 
+| Instrument
+|- id="Xylophone"
+| style="text-align: center;" |{{Icon| Rhythm-Thoughtful-Director-xylophone.png | link=Xylophone | table }}
+| {{Instrument|Xylophone|table}}
+| {{Avail Summary | season | spirit=Thoughtful Director | season=Rhythm }}
+| {{Cost | 65 C }}
+| 
+| Instrument
+|- id="Winter Piano"
+| style="text-align: center;" |{{Icon| Rhythm-Respectul-Pianist-Piano.png | link=Winter Piano | table }}
+| {{Instrument|Winter Piano|table}}
+| {{Avail Summary | season | spirit=Respectful Pianist | season=Rhythm }}
+| {{Cost | 75 C }}
+| 
+| Instrument
+|- id="Sanctuary Handpan"
+| style="text-align: center;" | {{Icon| Sanctuary-Handpan-ultimate.png | link=Sanctuary_Guide#Sanctuary_Ultimate_Instrument | table }}
+| {{Instrument | Sanctuary Handpan | link=Sanctuary_Guide#Sanctuary_Ultimate_Instrument | table}}
+| {{Avail Summary | ultimate | season=Sanctuary }}
+| {{Cost | N/A }}
+| 
+| Instrument
+|- id="Triumph Handpan"
+| style="text-align: center;" |{{Icon| Performance-Triumph-Handpan.png | table | link=Triumph Handpan }}
+| {{Instrument|Triumph Handpan|table}}
+| {{Avail Summary | permanent | source={{Icon|Harmony-hall-icon-Ray.png|table|link=Harmony Hall}} }}
+| {{Cost | 19.99 USD }}
+| 
+| Instrument
+|- id="Prophecy Drum"
+| style="text-align: center;" |{{Icon| Prophecy-ultimate-_drum.png | link=Prophecy Drum | table }}
+| {{Instrument | Prophecy Drum | link=Prophecy Drum | table }}
+| {{Avail Summary | ultimate | season=Prophecy }}
+| {{Cost|N/A}}
+| 
+| Instrument
+|- id="Lute"
+| style="text-align: center;" |{{Icon| Dreams-Dancing-Performer-Guitar.png | link=Lute | table }}
+| {{Instrument|Lute|table}}
+| {{Avail Summary | season | spirit=Dancing Performer | season=Dreams }}
+| {{Cost | 70 C }}
+| 
+| Instrument
+|- id="Bugle"
+| style="text-align: center;" |{{Icon| Assembly-ultimate-Buggle.png | link=Bugle | table }}
+| {{Instrument | Bugle | link=Bugle | table}}
+| {{Avail Summary | ultimate | season=Assembly }}
+| {{Cost|N/A}}
+| 
+| Instrument
+|- id="Kalimba"
+| style="text-align: center;" | {{Icon| Flight-Tinkering-Chimesmith-Kalimba.png | link=Kalimba | table }}
+| {{Instrument|Kalimba|table}}
+| {{Avail Summary | season | spirit=Tinkering Chimesmith | season=Flight }}
+| {{Cost | 75 C }}
+| 
+| Instrument
+|- id="Electric Guitar"
+| style="text-align: center;" |{{Icon| Performance-Electric-guitar.png | link=Electric Guitar | table }}
+| {{Instrument|Electric Guitar|table}}
+| {{Avail Summary | season | spirit=Mellow Musician | season=Performance }}
+| {{Cost | 80 C }}
+| 
+| Instrument
+|- id="TGC Guitar"
+| style="text-align: center;" |{{Icon| Days-of-Sky-2022-instrument-blue-electric-guitar.png | link=Sky_Anniversary/2022#TGC_Guitar_Pack | table }}
+| {{Instrument | TGC Guitar | link=Sky_Anniversary/2022#TGC_Guitar_Pack | table }}
+| {{Avail Summary | permanent | source={{Icon|Icon_shop.png|table|link=The Office}} }}
+| {{Cost| 29.99 USD }}
+| 
+| Instrument
+|- id="Dark Horn"
+| style="text-align: center;" |{{Icon| SOShattering-Dark-Horn-Instrument.png | link=Ancient Darkness#Prop | label=Dark Horn | table }}
+| {{Spirit Item| Ancient Darkness | prop | label=Dark Horn | table }}
+| {{Avail Summary | season | spirit=Ancient Darkness | season=Shattering }}
+| {{Cost| 50 C }}
+| 
+| Held Decoration<ref name="Dark Horn">The Dark Horn is not considered an [[Instrument]] since you cannot play [[Music Sheets]] with it, and you cannot practice with it in the [[Harmony Hall#Rehearsal Room|Harmony Hall Rehearsal Room]].</ref>
+|- id="Voice of AURORA"
+| style="text-align: center;" |{{Icon| Aurora-Voice-of-Aurora-Instrument.png | link=Season of AURORA#Voice of AURORA | table }}
+| {{Instrument|Voice of AURORA|table}}
+| {{Avail Summary | limited | season=AURORA }}
+| {{Cost | $14.99 }}
+| 
+| Instrument
+|- id="Manta Ocarina"
+| style="text-align: center;" |{{Icon| Passage-Overactive-Overachiever-Instrument.png | link=Manta Ocarina | table }}
+| {{Instrument|Manta Ocarina|table}}
+| {{Avail Summary | season | spirit=Overactive Overachiever | season=Passage }}
+| {{Cost | ? }}
+| 
+| Instrument
+|- id="Cello"
+| style="text-align: center;" | {{Spirit Item| The Musicians' Legacy | Instrument_c real | link=The_Musicians%27_Legacy#Cello | table }}
+| {{Spirit Item| The Musicians' Legacy | Instrument_c | link=The_Musicians%27_Legacy#Cello | table }}
+| {{Avail Summary | season | spirit=The Musicians' Legacy | season=Duets }}
+| {{Cost | unknown }}
+| 
+| Instrument
+|- id="Duets Cello"
+| style="text-align: center;" | {{Spirit Item| Compassionate Cellist | Instrument real | table }}
+| {{Spirit Item| Compassionate Cellist | Instrument | table }}
+| {{Avail Summary | guide| spirit=Compassionate Cellist | season=Duets }}
+| {{Cost | 200 C }}
+| 
+| Instrument
+|- id="Harmonica"
+| style="text-align: center;" | {{Spirit Item| Spirit of Adventure | Instrument real | table }}
+| {{Spirit Item| Spirit of Adventure | Instrument | table }}
+| {{Avail Summary | season | spirit=Spirit of Adventure | season=Moomin }}
+| {{Cost | ? }}
+| 
+| Instrument
+|- id="Cymbals"
+| style="text-align: center;" | {{Spirit Item| Radiance Provoking Performer | Instrument real | table }}
+| {{Spirit Item| Radiance Provoking Performer | Instrument | table }}
+| {{Avail Summary | season | spirit=Radiance Provoking Performer | season=Radiance }}
+| {{Cost | ? }}
+| 
+| Instrument
+|- id="Vessel Flute"
+| style="text-align: center;" | {{Icon| Vessel-flute-Ocarina-Nintendo-IAP.png | link=Vessel Flute | table }}
+| {{Instrument|Vessel Flute|table}}
+| {{Avail Summary | conditional | source= {{Icon|Switch_Icon.png|table|label=Nintendo Pack|link=Sky_for_Nintendo_Switch#Nintendo_Pack}} }}
+| {{Cost | 29.99 USD }}<ref name="Nintendo Pack">The $29.99 cost of the Nintendo Starter Pack includes 4 cosmetics (two Capes, a Hairstyle, and an Instrument), plus 75 candles.</ref>
+| 
+| Instrument
+|- id="Drum"
+| style="text-align: center;" |{{Icon| Blushing_Prospector-Drum.png | link=Drum | table }}
+| {{Instrument|Drum|table}}
+| {{Avail Summary | regular | spirit=Blushing Prospector | realm=Hidden Forest }}
+| {{Cost | 5 H }}
+| 
+| Instrument
+|- id="Triumph Violin"
+| style="text-align: center;"| {{Days Item| Triumph Violin | real | table }}
+| {{Days Item| Triumph Violin | icon | table }}
+| {{Avail Summary | permanent | source={{Icon|Harmony-hall-icon-Ray.png|table|link=Harmony Hall}} }}
+| {{Cost | 19.99 USD }}
+| 
+| Instrument
+|- id="Triumph Saxophone"
+| style="text-align: center;" | {{Days Item| Triumph Saxophone | real | table }}
+| {{Days Item| Triumph Saxophone | icon | table }}
+| {{Avail Summary | permanent | source={{Icon|Harmony-hall-icon-Ray.png|table|link=Harmony Hall}}}}
+| {{Cost | 125 C }}
+| 
+| Instrument
+|- id="Fortune Drum"
+| style="text-align: center;"| {{Days Item| Fortune Drum | real | table }}
+| {{Days Item| Fortune Drum | icon | table }}
+| {{Avail Summary | days | days=Fortune }}
+| {{Cost | 36 H | event=Fortune }}
+|
+| Instrument
+|- id="Saluting Captain"
+| style="text-align: center;" |{{Icon| Instrument_firework_staff_in_hand.png | link=Saluting Captain#Prop | label=Saluting Captain | table }}
+| {{Spirit Item| Saluting Captain | prop | table | link=Saluting Captain#Prop | label=Saluting Captain }}
+| {{Avail Summary | regular | spirit=Saluting Captain | realm=Golden Wasteland }}
+| {{Cost | 20 H }}
+| 
+| Held Decoration
+|- id="Laidback Pioneer"
+| style="text-align: center;" |{{Icon| Instrument_lightseekers_small_umbrella.png | link=Laidback Pioneer#Prop | label=Laidback Pioneer | table }}
+| {{Spirit Item| Laidback Pioneer | Prop | table | link=Laidback Pioneer#Prop | label=Laidback Pioneer }}
+| {{Avail Summary | season | spirit=Laidback Pioneer | season=Lightseekers }}
+| {{Cost | 75 C }}
+| 
+| Held Covering
+|- id="Festival Scepter"
+| style="text-align: center;"| {{Days Item| Festival Scepter | real | table }}
+| {{Days Item| Festival Scepter | icon | table }}
+| {{Avail Summary | days | days=fireworks }}
+| {{Cost| ? }}
+|
+| Held Decoration
+|- id="Lightseekers Ultimate Prop"
+| style="text-align: center;" | {{Icon| Lightseekers_ultimate_umbrella_v2.png | link=Lightseeker_Guide#Lightseekers_Ultimate_Prop | table }}
+| {{Spirit Item| Lightseekers | prop_u | table | link=Lightseeker_Guide#Lightseekers_Ultimate_Prop }}
+| {{Avail Summary | ultimate | season=Lightseekers }}
+| {{Cost | N/A }}
+| 
+| Held Covering
+|- id="Lightseekers IAP Umbrella"
+| style="text-align: center;" |{{Icon| Transparent-Lightseeker-Umbrella-Credit-Nastymold.png | link=That_Sky_Shop#Lightseeker_Umbrella | table }}
+| {{Icon| Icon-prop-lightseekers-large-transparent-IAP-umbrella.png| table | link=That_Sky_Shop#Lightseeker_Umbrella | label=Lightseeker IAP Umbrella }}
+| {{Avail Summary | IAP | source={{Icon| That-sky-shop-logo.png | table | link=That_Sky_Shop#Lightseeker_Umbrella}} }}
+| {{Cost | 105.00 USD }}
+| 
+| Held Covering
+|- id="Moments Ultimate Prop"
+| style="text-align: center;" | {{Icon| Moments-Guide-Prop-Ultimate-Camera.png | link=Moments_Guide#Moments_Ultimate_Prop | table }}
+| {{Spirit Item| Moments | prop_u | link=Moments_Guide#Moments_Ultimate_Prop | table }}
+| {{Avail Summary | ultimate | season=Moments }}
+| {{Cost | N/A }}
+| 
+| Camera
+|- id="Camera Prop"
+| style="text-align: center;" | {{Icon| Moments-Guide-Prop-Camera.png | link=Moments Guide#Camera Prop | table }}
+| {{Spirit Item| Moments | prop | table | link=Moments Guide#Camera Prop }}
+| {{Avail Summary | guide | season=Moments }}
+| {{Cost | free }}
+| 
+| Camera
+|- id="Moomin Ultimate Umbrella"
+| style="text-align: center;" | {{Spirit Item| Moomin Guide | prop_u_real | link=Moomin Guide#Ultimate Umbrella | table }}
+| {{Spirit Item| Moomin Guide | prop_u | table | link=Moomin Guide#Ultimate Umbrella }}
+| {{Avail Summary | ultimate | season=Moomin }}
+| {{Cost | N/A }}
+| 
+| Held Covering
+|- id="Stern Shepherd"
+| style="text-align: center;" |{{Spirit Item| Stern Shepherd | prop_real | table }}
+| {{Spirit Item| Stern Shepherd | Prop | table }}
+| {{Avail Summary | season | spirit=Stern Shepherd | season=Two Embers - Part 1 }}
+| {{Cost | ? }}
+| 
+| Held decoration
+|- id="Tender Toymaker M"
+| style="text-align: center;" |{{Spirit Item| Tender Toymaker | prop_m_real | table }}
+| {{Spirit Item| Tender Toymaker | Prop_m | table }}
+| {{Avail Summary | season | spirit=Tender Toymaker | season=Two Embers - Part 1 }}
+| {{Cost | ? }}
+| 
+| Held decoration
+|- id="Scarred Sentry S"
+| style="text-align: center;" |{{Spirit Item| Scarred Sentry | prop_s_real | table }}
+| {{Spirit Item| Scarred Sentry | Prop_s | table }}
+| {{Avail Summary | season | spirit=Scarred Sentry | season=Two Embers - Part 1 }}
+| {{Cost | ? }}
+| 
+| Held decoration
+|- id="Scarred Sentry C"
+| style="text-align: center;" |{{Spirit Item| Scarred Sentry | prop_c_real | table }}
+| {{Spirit Item| Scarred Sentry | Prop_c | table }}
+| {{Avail Summary | season | spirit=Scarred Sentry | season=Two Embers - Part 1 }}
+| {{Cost | ? }}
+| 
+| Held decoration
+|- id="Days of Fortune Enchanted Umbrella"
+| style="text-align: center;" | {{Days Item| Days of Fortune Enchanted Umbrella | real | table }}
+| {{Days Item| Days of Fortune Enchanted Umbrella | icon | table }}
+| {{Avail Summary | days | days=Fortune }}
+| {{Cost| 14.99 USD }}
+| 
+| Held Covering
+|- id="Days of Love Serendipitous Scepter"
+| style="text-align: center;"| {{Days Item| Days of Love Serendipitous Scepter | real | table }}
+| {{Days Item| Days of Love Serendipitous Scepter | icon | table }}
+| {{Avail Summary | days | days=Love }}
+| {{Cost | 14.99 USD }}
+| 
+| Held Decoration
+|- id="Bloom Lilypad Umbrella"
+| style="text-align: center;" | {{Days Item| Bloom Lilypad Umbrella | Held | table }}
+| {{Days Item| Bloom Lilypad Umbrella | icon | table }}
+| {{Avail Summary | days | days=Bloom }}
+| {{Cost| 14.99 USD }}
+| 
+| Held Covering
+|- id="SkyFest Jenova Fan"
+| style="text-align: center;"| {{Days Item| SkyFest Jenova Fan | real | link=Sky_Anniversary/2024#SkyFest_Jenova_Fan | table }}
+| {{Days Item| SkyFest Jenova Fan | icon | link=Sky_Anniversary/2024#SkyFest_Jenova_Fan | table }}
+| {{Avail Summary | days | days=Sky }}
+| {{Cost | 21 C }}
+|
+| Held Decoration
+|- id="Anniversary Clapboard"
+| style="text-align: center;"| {{Days Item| Anniversary Clapboard | real | table }}
+| {{Days Item| Anniversary Clapboard | icon | table }}
+| {{Avail Summary | days | days=Sky }}
+| {{Cost | ? }}
+|
+| Held Decoration
+|- id="Tournament Torch"
+| style="text-align: center;"| {{Days Item| Tournament Torch | real | table }}
+| {{Days Item| Tournament Torch | icon | table }}
+| {{Avail Summary | days | days=Tournament }}
+| {{Cost | ? }}
+|
+| Held Decoration and Light
+|- id="Moonlight Lantern"
+| style="text-align: center;" | {{Days Item| Lantern | real | link=Days_of_Moonlight#Moonlight_Lantern_Pack | label=Moonlight Lantern | table }}
+| {{Days Item| Lantern | icon | table | link=Days_of_Moonlight#Moonlight_Lantern_Pack | label=Moonlight Lantern }}
+| {{Avail Summary | days | days=Moonlight }}
+| {{Cost| 19.99 USD }}
+| 
+| Held Light
+|- id="Days of Summer Umbrella"
+| style="text-align: center;" | {{Days Item| Summer Parasol | real | table }}
+| {{Days Item| Summer Parasol | icon | table }}
+| {{Avail Summary | days | days=Lazy }}
+| {{Cost| 19.99 USD }}
+| 
+| Held Covering
+|- id="Mischief Withered Broom"
+| style="text-align: center;" | {{Days Item| Mischief Broom | real | table }}
+| {{Days Item| Mischief Broom | icon | table }}
+| {{Avail Summary | days | days=Mischief }}
+| {{Cost| 19.99 USD }}
+| 
+| Held Decoration, Ridable
+|- id="Treasure Shovel"
+| style="text-align: center;"| {{Days Item| Treasure Shovel | real | table }}
+| {{Days Item| Treasure Shovel | icon | table }}
+| {{Avail Summary | days | days=Treasure }}
+| {{Cost| ? }}
+|
+| Held Decoration
+|- id="Anniversary Popcorn Prop"
+| style="text-align: center;"| {{Days Item| Anniversary Popcorn Prop | real | link=Sky_Anniversary#Anniversary_Cinema_Set | table }}
+| {{Days Item| Anniversary Popcorn Prop | icon | link=Sky_Anniversary#Anniversary_Cinema_Set | table }}
+| {{Avail Summary | days | days=Sky }}
+| {{Cost | 4.99 USD }}<ref name="Style Dapper Monocle">The $4.99 cost of the Anniversary Cinema Set includes the Cinema 3D Glasses and Cinema Popcorn Bucket.</ref>
+|
+| Held Decoration
+|- id="Winter Feast Snowboard"
+| style="text-align: center;"| {{Days Item| Winter Feast Snowboard | real | table }}
+| {{Days Item| Winter Feast Snowboard | icon | table }}
+| {{Avail Summary | days | days=feast }}
+| {{Cost| 145 C}}
+|
+| Held Decoration, Rideable
+|- id="Fortune Hand Fan"
+| style="text-align: center;"| {{Days Item| Fortune Hand Fan | real | link=Days_of_Fortune#Fortune_Hand_Fan | table }}
+| {{Days Item| Fortune Hand Fan | icon | link=Days_of_Fortune#Fortune_Hand_Fan | table }}
+| {{Avail Summary | days | days=fortune }}
+| {{Cost| 4.99 USD }}
+|
+| Held Decoration
+<section begin="placeable_props" />
+|- id="Sunlight Manta Float"
+| style="text-align: center;" | {{Days Item| Sunlight Manta Float | real | table }}
+| {{Days Item| Sunlight Manta Float | icon | table }}
+| {{Avail Summary | days | days=Sunlight }}
+| {{Cost | 65 C }}
+| 1
+| Placeable Decoration
+|- id="Meditating Monastic"
+| style="text-align: center;" |{{Icon| Instrument-Chat Table Chair.png | link=Meditating Monastic#Prop | label=Meditating Monastic | table }}
+| {{Spirit Item| Meditating Monastic | prop | table }}
+| {{Avail Summary | regular | spirit=Meditating Monastic | realm=Vault of Knowledge }}
+| {{Cost | 30 H }}
+| 2
+| Placeable Chat (4)
+|- id="Festival Spin Dancer"
+| style="text-align: center;" |{{Icon| Festival_spin_dancers_flag.png | link=Festival Spin Dancer#Prop | label=Festival Spin Dancer | table }}
+| {{Spirit Item| Festival Spin Dancer | Prop | table | link=Festival Spin Dancer#Prop | label=Festival Spin Dancer }}
+| {{Avail Summary | season | spirit=Festival Spin Dancer | season=Rhythm }}
+| {{Cost | 30 C }}
+| 4
+| Placeable Decoration
+|- id="Playfighting Herbalist"
+| style="text-align: center;" |{{Icon| Playfighting-herbalist-orb-prop.png | link=Playfighting Herbalist#Prop | label=Playfighting Herbalist | table }}
+| {{Spirit Item| Playfighting Herbalist | Prop | table | link=Playfighting Herbalist#Prop | label=Playfighting Herbalist }}
+| {{Avail Summary | season | spirit=Playfighting Herbalist | season=Enchantment }}
+| {{Cost | 20 C }}
+| 4
+| Placeable Decoration
+|- id="Crab Whisperer"
+| style="text-align: center;" |{{Icon| Summer_prop_tube_down.png | link=Crab Whisperer#Prop | label=Crab Whisperer | table }}
+| {{Spirit Item| Crab Whisperer | Prop | table | link=Crab Whisperer#Prop | label=Crab Whisperer }}
+| {{Avail Summary | season | spirit=Crab Whisperer | season=Lightseekers }}
+| {{Cost | 20 C }}
+| 3
+| Placeable Decoration
+|- id="Belonging Ultimate Prop"
+| style="text-align: center;" |{{Icon| Season_of_belonging_ultimate_bonfire.png | link=Belonging_Guide#Belonging_Ultimate_Prop | label=Belonging Bonfire | table }}
+| {{Spirit Item| Belonging Guide | prop_u | table | link=Belonging_Guide#Belonging_Ultimate_Prop | label=Belonging Bonfire }}
+| {{Avail Summary | ultimate | season=Belonging }}
+| {{Cost | N/A }}
+| 2
+| Placeable Chat (4) and Light
+|- id="Troupe Juggler"
+| style="text-align: center;" |{{Icon| Summer_prop_lantern_out.png | link=Troupe Juggler#Prop | label=Troupe Juggler | table }}
+| {{Spirit Item| Troupe Juggler | Prop | table | link=Troupe Juggler#Prop | label=Troupe Juggler }}
+| {{Avail Summary | season | spirit=Troupe Juggler | season=Rhythm }}
+| {{Cost | 14 H }}
+| 6
+| Placeable Light
+|- id="Prophet of Fire"
+| style="text-align: center;" |{{Icon| Fire_prophet?s_cauldron_.png | link=Prophet of Fire#Prop | label=Prophet of Fire | table }}
+| {{Spirit Item| Prophet of Fire | Prop | table | link=Prophet of Fire#Prop | label=Prophet of Fire }}
+| {{Avail Summary | season | spirit=Prophet of Fire | season=Prophecy }}
+| {{Cost | 13 H }}
+| 6
+| Placeable Light
+|- id="Assembly Guide Brazier"
+| style="text-align: center;" |{{Icon| Prop_forest_treehouse_brazier.png | table | link=Assembly Guide#Brazier_Prop | label=Assembly Brazier }}
+| {{Spirit Item| Assembly Guide | prop_l | table | link=Assembly Guide#Brazier_Prop | label=Assembly Brazier }}
+| {{Avail Summary | guide | season=Assembly }}
+| {{Cost| 12 H }}
+| 6
+| Placeable Light
+|- id="Assembly Guide Bookcase"
+| style="text-align: center;" | {{Icon| Assembly_prop_bookcase_2.png | table | link=Assembly Guide#Bookcase_Prop | label=Assembly Bookcase }}
+| {{Spirit Item| Assembly Guide | prop_b | table | link=Assembly Guide#Bookcase_Prop | label=Assembly Bookcase }}
+| {{Avail Summary | guide | season=Assembly }}
+| {{Cost| 30 C }}
+| 3
+| Placeable Decoration
+|- id="Scaredy Cadet"
+| style="text-align: center;" |{{Icon| Assembly_prop_hammock_down.png | link=Scaredy Cadet#Prop | label=Scaredy Cadet | table }}
+| {{Spirit Item| Scaredy Cadet | Prop | table | link=Scaredy Cadet#Prop | label=Scaredy Cadet }}
+| {{Avail Summary | season | spirit=Scaredy Cadet | season=Assembly }}
+| {{Cost| 55 C }}
+| 3
+| Placeable Chat (1)
+|- id="Marching Adventurer"
+| style="text-align: center;" |{{Icon| Assembly_prop_torch_lit_2.png | link=Marching Adventurer#Prop | label=Marching Adventurer | table }}
+| {{Spirit Item| Marching Adventurer | Prop | table | link=Marching Adventurer#Prop | label=Marching Adventurer }}
+| {{Avail Summary | season | spirit=Marching Adventurer | season=Assembly }}
+| {{Cost| 55 C }}
+| 4
+| Placeable Light
+|- id="Assembly Guide Tent"
+| style="text-align: center;" |{{Icon| Prop_forest_treehouse_tent.png | table | link=Assembly Guide#Tent_Prop | label=Assembly Tent }}
+| {{Spirit Item| Assembly Guide | prop_t | table | link=Assembly Guide#Tent_Prop | label=Assembly Tent }}
+| {{Avail Summary | guide | season=Assembly }}
+| {{Cost| 24 H }}
+| 1
+| Placeable Covering
+|- id="Baffled Botanist"
+| style="text-align: center;" |{{Icon| Baffled-botanist-spotlight-prop-closeup.png | link=Baffled Botanist#Prop | label=Baffled Botanist | table }}
+| {{Spirit Item| Baffled Botanist | Prop | table | link=Baffled Botanist#Prop | label=Baffled Botanist }}
+| {{Avail Summary | season | spirit=Baffled Botanist | season=Assembly }}
+| {{Cost| 45 C }}
+| 4
+| Placeable Decoration
+|- id="Chuckling Scout"
+| style="text-align: center;" |{{Icon| Assembly_prop_hoop_down.png | link=Chuckling Scout#Prop | label=Chuckling Scout | table }}
+| {{Spirit Item| Chuckling Scout | Prop | table | link=Chuckling Scout#Prop | label=Chuckling Scout }}
+| {{Avail Summary | season | spirit=Chuckling Scout | season=Assembly }}
+| {{Cost| 45 C }}
+| 3
+| Placeable Decoration
+|- id="Star Collector"
+| style="text-align: center;" |{{Icon| Star-collector-star-lamp-prop-closeup.png | link=Star Collector#Prop | label=Star Collector | table }}
+| {{Spirit Item| Star Collector | Prop | table | link=Star Collector#Prop | label=Star Collector }}
+| {{Avail Summary | season | spirit=Star Collector | season=The Little Prince }}
+| {{Cost | 70 C }}
+| 1
+| Placeable Decoration
+|- id="Performance Guide Prop"
+| style="text-align: center;" |{{Icon| SOPerformance-flower-pot.png | table | link=Performance_Guide#Flower_Pot_Prop}}
+| {{Spirit Item| Performance Guide | prop | table | link=Performance_Guide#Flower_Pot_Prop }}
+| {{Avail Summary | guide | season=Performance }}
+| {{Cost| 52 C }}
+| 4
+| Placeable Decoration
+|- id="Remembrance Guide Potted Plant"
+| style="text-align: center;" |{{Icon| SoRemembrance-Prop-Plants.png| link=Remembrance_Guide#Potted_Plant_Prop | label=Potted Plant | table }}
+|{{Icon| SoRemembrance-Prop-Plants-Morybel-0146.png| table | link=Remembrance_Guide#Potted_Plant_Prop | label=Potted Plant }}
+| {{Avail Summary | guide | season=Remembrance}}
+|{{Cost| 40 C }}
+|3
+|Placeable Decoration
+|- id="Remembrance Guide Kettle"
+| style="text-align: center;" |{{Icon| SoRemembrance-Prop-Kettle.png| link=Remembrance_Guide#Kettle_Prop | label=Kettle | table }}
+|{{Icon| SoRemembrance-Prop-Kettle-Morybel-0146.png| table | link=Remembrance_Guide#Kettle_Prop | label=Kettle }}
+| {{Avail Summary | guide | season=Remembrance}}
+|{{Cost| 50 C }}
+|1
+|Placeable Chat (4)
+|- id="Remembrance Ultimate Prop"
+| style="text-align: center;" |{{Icon| SoRemembrance-Ultimate-Gift-Manta-Projector.png | link=Remembrance_Guide#Remembrance_Ultimate_Prop | label=Remembrance Ultimate Prop | table }}
+| {{Spirit Item| Remembrance Guide | prop_u | link=Remembrance_Guide#Remembrance_Ultimate_Prop | table }}
+| {{Avail Summary | ultimate | season=Remembrance}}
+|{{Cost| N/A }}
+| 1
+|Placeable Decoration
+|- id="Snufkin Tent"
+| style="text-align: center;" | {{Spirit Item| Spirit of Adventure | prop_real | table }}
+| {{Spirit Item| Spirit of Adventure | prop | table }}
+| {{Avail Summary | season | spirit=Spirit of Adventure | season=Moomin}}
+| {{Cost| ? }}
+| 2
+|Placeable Decoration
+|- id="Curtain Wall"
+| style="text-align: center;" | {{Spirit Item| Radiance Leaping Dancer | prop_real | table }}
+| {{Spirit Item| Radiance Leaping Dancer | prop | table }}
+| {{Avail Summary | season | spirit=Radiance Leaping Dancer | season=Radiance}}
+| {{Cost| ? }}
+| 1
+|Placeable Decoration
+|- id="Blue Bird Additional Prop"
+| style="text-align: center;" | {{Spirit Item| Blue bird Guide | prop_a_real | table | link=Blue_Bird_Guide#Prop}}
+| {{Spirit Item| Blue bird Guide | prop_a | table | link=Blue_Bird_Guide#Prop}}
+| {{Avail Summary | permanent | spirit=Blue bird Guide | season=Blue bird}}
+| {{Cost| 18 H }}
+| 1
+|Placeable Chat (2)
+|- id="Vine Prop"
+| style="text-align: center;" | {{Spirit Item| Resourceful Recluse | prop_p_real | table }}
+| {{Spirit Item| Resourceful Recluse | prop_p | table }}
+| {{Avail Summary | season | spirit=Resourceful Recluse | season=Two Embers - Part 1}}
+| {{Cost| ? }}
+| 4
+|Placeable Decoration
+|- id="Tea Shop"
+| style="text-align: center;" | {{Spirit Item| Resourceful Recluse | prop_t_real | table }}
+| {{Spirit Item| Resourceful Recluse | prop_t | table }}
+| {{Avail Summary | season | spirit=Resourceful Recluse | season=Two Embers - Part 1}}
+| {{Cost| ? }}
+| 2
+|Placeable Chat (3)
+|- id="Moonlight Basin"
+| style="text-align: center;" | {{Days Item| Moonlight Basin | real | table }}
+| {{Days Item| Moonlight Basin | icon | table }}
+| {{Avail Summary | days | days=Moonlight }}
+| {{Cost | 75 C }}
+| ?
+|Placeable Decoration
+|- id="Anniversary Movie Seats"
+| style="text-align: center;"| {{Days Item| Anniversary Movie Seats | real | table }}
+| {{Days Item| Anniversary Movie Seats | icon | table }}
+| {{Avail Summary | days | days=Sky }}
+| {{Cost | ? }}
+| 1
+| Placeable Chat (2)
+|- id="Sky Balloon Prop"
+| style="text-align: center;"| {{Days Item| Sky Balloon Prop | real | table }}
+| {{Days Item| Sky Balloon Prop | icon | table }}
+| {{Avail Summary | days | days=Sky }}
+| {{Cost | ? }}
+| 1
+| Placeable Decoration
+|- id="Balloon Arch Prop"
+| style="text-align: center;"| {{Days Item| Balloon Arch Prop | real | table }}
+| {{Days Item| Balloon Arch Prop | icon | table }}
+| {{Avail Summary | days | days=Sky }}
+| {{Cost | 20 C }}
+| ?
+| Placeable Decoration
+|- id="Days of Love Swing Pack"
+| style="text-align: center;"| {{Days Item| Days of Love Swing | real | table }}
+| {{Days Item| Days of Love Swing | icon | table }}
+| {{Avail Summary | days | days=Love }}
+| {{Cost| 19.99 USD }}
+| 1
+|Placeable Chat (2)
+|- id="Days of Love Seesaw Pack"
+| style="text-align: center;"| {{Days Item| Days of Love Seesaw | real | table }}
+| {{Days Item| Days of Love Seesaw | icon | table }}
+| {{Avail Summary | days | days=Love }}
+|{{Cost| 19.99 USD }}
+| 1
+|Placeable Chat (2)
+|- id="Days of Love Flowery Archway"
+| style="text-align: center;"| {{Days Item| Days of Love Flowery Archway | real | table }}
+| {{Days Item| Days of Love Flowery Archway | icon | table }}
+| {{Avail Summary | days | days=Love }}
+| {{Cost| 100 C }}
+|2
+| Placeable Decoration
+|- id="Bloom Teaset"
+| style="text-align: center;"| {{Days Item| Bloom Teaset | real | link=Days_of_Bloom#Bloom_Teaset | table }}
+| {{Days Item| Bloom Teaset | icon | link=Days_of_Bloom#Bloom_Teaset | table }}
+| {{Avail Summary | days | days=Bloom }}
+| {{Cost | 19.99 USD }}
+|2
+| Placeable Chat (2)
+|- id="Campfire Tent"
+| style="text-align: center;"| {{Days Item| Campfire Tent | real | table }}
+| {{Days Item| Campfire Tent | icon | table }}
+| {{Avail Summary | days | days=Sunlight }}
+|{{Cost | 90 C }}
+|2
+|Placeable Covering
+|- id="Purple Bloom Teaset"
+| style="text-align: center;"| {{Days Item| Purple Bloom Teaset | real | table }}
+| {{Days Item| Purple Bloom Teaset | icon | table }}
+| {{Avail Summary | days | days=Bloom }}
+|{{Cost | 19.99 USD }}
+|2
+|Placeable Chat (3)
+|- id="Bloom Picnic Basket"
+| style="text-align: center;"| {{Days Item| Bloom Picnic Basket | real | table }}
+| {{Days Item| Bloom Picnic Basket | icon | table }}
+| {{Avail Summary | days | days=Bloom }}
+|{{Cost | 19.99 USD }}
+|2
+|Placeable Chat (3)
+|- id="Anniversary Light Fence"
+| style="text-align: center;"| {{Days Item| Anniversary Light Fence | real | link=Sky_Anniversary/2022#Anniversary_Light_Fence | table }}
+| {{Days Item| Anniversary Light Fence | icon | link=Sky_Anniversary/2022#Anniversary_Light_Fence | table }}
+| {{Avail Summary | days | days=Sky }}
+|{{Cost| 20 C }}
+|3
+|Placeable Decoration
+|- id="Jelly Whisperer"
+| style="text-align: center;" |{{Icon| Jelly_whisperers_beach_umbrella.png | link=Jelly Whisperer#Prop | label=Jelly Whisperer | table }}
+|{{Spirit Item| Jelly Whisperer | Prop | table | link=Jelly Whisperer#Prop | label=Jelly Whisperer }}
+| {{Avail Summary | season | spirit=Jelly Whisperer | season=Sanctuary }}
+| {{Cost | 15 H }}
+|2
+|Placeable Covering
+|- id="Chill Sunbather"
+| style="text-align: center;" |{{Icon| Prop_beach_lounger.png | link=Chill Sunbather#Prop | label=Chill Sunbather | table }}
+|{{Spirit Item| Chill Sunbather | Prop | table | link=Chill Sunbather#Prop | label=Chill Sunbather }}
+| {{Avail Summary | season | spirit=Chill Sunbather | season=Sanctuary }}
+| {{Cost | 20 C }}
+|3
+|Placeable Decoration
+|- id="Grateful Shell Collector"
+| style="text-align: center;" |{{Icon| Summer_prop_chairs.png | link=Grateful Shell Collector#Prop | label=Grateful Shell Collector | table }}
+|{{Spirit Item| Grateful Shell Collector | Prop | table | link=Grateful Shell Collector#Prop | label=Grateful Shell Collector }}
+| {{Avail Summary | season | spirit=Grateful Shell Collector | season=Sanctuary }}
+|{{Cost | 45 C }}
+|2
+|Placeable Chat (2)
+|- id="Hiking Grouch"
+| style="text-align: center;" |{{Icon| Summer_beach_chairs.png | link=Hiking Grouch#Prop | label=Hiking Grouch | table }}
+|{{Spirit Item| Hiking Grouch | Prop | table | link=Hiking Grouch#Prop | label=Hiking Grouch }}
+| {{Avail Summary | season | spirit=Hiking Grouch | season=Sanctuary }}
+|{{Cost | 16 H }}
+|2
+|Placeable Chat (2)
+|- id="Mischief Spooky Dining Set"
+| style="text-align: center;"| {{Days Item| Mischief Spooky Dining Set | real | table }}
+| {{Days Item| Mischief Spooky Dining Set | icon | table }}
+| {{Avail Summary | days | days=Mischief }}
+|{{Cost| 33 H }}
+|2
+|Placeable Chat (2) and Light
+|- id="Days of Feast Table"
+| style="text-align: center;"| {{Days Item| Days of Feast Table | real | table }}
+| {{Days Item| Days of Feast Table | icon | table }}
+| {{Avail Summary | days | days=Feast }}
+|{{Cost| 150 C }}
+|2
+|Placeable Chat (4) and Light
+|- id="Days of Music Jam Station"
+| style="text-align: center;"| {{Days Item| Days of Music Jam Station | real | table }}
+| {{Days Item| Days of Music Jam Station | icon | table }}
+| {{Avail Summary | permanent | source={{Icon|Harmony-hall-icon-Ray.png|table|link=Harmony Hall }}}}
+|{{Cost| 250 C }}
+|1
+|Placeable Instrument
+|- id="Snowkid Prop"
+| style="text-align: center;"| {{Days Item| Snowkid Prop | real | table }}
+| {{Days Item| Snowkid Prop | icon | table }}
+| {{Avail Summary | days | days=Feast }}
+|{{Cost| 120 C }}
+|1
+|Placeable Decoration
+|- id="Anniversary Party Lights"
+| style="text-align: center;"| {{Days Item| Anniversary Party Lights | real | link=Sky_Anniversary/2023#Anniversary_Party_Lights | table }}
+| {{Days Item| Anniversary Party Lights | icon | link=Sky_Anniversary/2023#Anniversary_Party_Lights | table }}
+| {{Avail Summary | days | days=Sky }}
+| {{Cost| 33 H }}
+|1
+|Placeable Decoration
+|- id="Stone Stool"
+| style="text-align: center;"| {{Icon| Shared-Spaces-Stool-prop.png  | table | link=Nesting Workshop#Stone Stool | label=Stone Stool }}
+| {{Icon| Shared-Spaces-Stool-prop-icon-Morybel-0146.png | tab | link=Nesting Workshop#Stone Stool | label=Stone Stool }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost | Free }}
+|4
+|Placeable Decoration
+|- id="Stone Single Bench"
+| style="text-align: center;"| {{Spirit Item| Nesting Stone Seating | prop_d_real | table | link=Nesting Workshop#Stone Single Bench }}
+| {{Spirit Item| Nesting Stone Seating | prop_d | table | link=Nesting Workshop#Stone Single Bench }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 8 C }}<sup>(×4)</sup>
+|4
+|Placeable Decoration
+|- id="Stone Chair"
+| style="text-align: center;"| {{Spirit Item| Nesting Stone Seating | prop_c_real | table | link=Nesting Workshop#Stone Chair }}
+| {{Spirit Item| Nesting Stone Seating | prop_c | table | link=Nesting Workshop#Stone Chair }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 16 C }}<sup>(×4)</sup>
+|4
+|Placeable Decoration
+|- id="Stone Armchair"
+| style="text-align: center;"| {{Spirit Item| Nesting Stone Seating | prop_a_real | table | link=Nesting Workshop#Stone Armchair }}
+| {{Spirit Item| Nesting Stone Seating | prop_a | table | link=Nesting Workshop#Stone Armchair }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 10 H }} <sup>(×2)</sup>
+|2
+|Placeable Decoration
+|- id="Stone Loveseat"
+| style="text-align: center;"| {{Spirit Item| Nesting Stone Seating | prop_l_real | table | link=Nesting Workshop#Stone Loveseat }}
+| {{Spirit Item| Nesting Stone Seating | prop_l | table | link=Nesting Workshop#Stone Loveseat }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 33 H }}
+|1
+|Placeable Decoration
+|- id="Stone Bench"
+| style="text-align: center;"| {{Spirit Item| Nesting Stone Seating | prop_b_real | table | link=Nesting Workshop#Stone Bench }}
+| {{Spirit Item| Nesting Stone Seating | prop_b | table | link=Nesting Workshop#Stone Bench }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 60 C }}
+|1
+|Placeable Decoration
+|- id="Stone Sofa Corner"
+| style="text-align: center;"| {{Spirit Item| Nesting Stone Seating | prop_r_real | table | link=Nesting Workshop#Stone Sofa Corner }}
+| {{Spirit Item| Nesting Stone Seating | prop_r | table | link=Nesting Workshop#Stone Sofa Corner }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 25 C }}
+|1
+|Placeable Decoration
+|- id="Stone Sofa Side"
+| style="text-align: center;"| {{Spirit Item| Nesting Stone Seating | prop_s_real | table | link=Nesting Workshop#Stone Sofa Side }}
+| {{Spirit Item| Nesting Stone Seating | prop_s | table | link=Nesting Workshop#Stone Sofa Side }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 20 C }}<sup>(×4)</sup>
+|4
+|Placeable Decoration
+|- id="Stone Small Table"
+| style="text-align: center;"| {{Spirit Item| Nesting Stone Table | prop_s_real | table | link=Nesting Workshop#Stone Small Table }}
+| {{Spirit Item| Nesting Stone Table | prop_s | table | link=Nesting Workshop#Stone Small Table }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 20 C }}
+|1
+|Placeable Decoration
+|- id="Stone Square Dining Table"
+| style="text-align: center;"| {{Spirit Item| Nesting Stone Table | prop_q_real | table | link=Nesting Workshop#Stone Square Dining Table }}
+| {{Spirit Item| Nesting Stone Table | prop_q | table | link=Nesting Workshop#Stone Square Dining Table }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 23 H }}
+|1
+|Placeable Decoration
+|- id="Stone Round Dining Table"
+| style="text-align: center;"| {{Spirit Item| Nesting Stone Table | prop_r_real | table | link=Nesting Workshop#Stone Round Dining Table }}
+| {{Spirit Item| Nesting Stone Table | prop_r | table | link=Nesting Workshop#Stone Round Dining Table }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 18 H }}
+|1
+|Placeable Decoration
+|- id="Stone Long Dining Table"
+| style="text-align: center;"| {{Spirit Item| Nesting Stone Table | prop_l_real | table | link=Nesting Workshop#Stone Long Dining Table }}
+| {{Spirit Item| Nesting Stone Table | prop_l | table | link=Nesting Workshop#Stone Long Dining Table }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 33 H }}
+|1
+|Placeable Decoration
+|- id="Stone Desk"
+| style="text-align: center;"| {{Spirit Item| Nesting Stone Table | prop_d_real | table | link=Nesting Workshop#Stone Desk }}
+| {{Spirit Item| Nesting Stone Table | prop_d | table | link=Nesting Workshop#Stone Desk }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 50 C }}
+|1
+|Placeable Decoration
+|- id="Stone Console Table"
+| style="text-align: center;"| {{Spirit Item| Nesting Stone Table | prop_t_real | table | link=Nesting Workshop#Stone Console Table }}
+| {{Spirit Item| Nesting Stone Table | prop_t | table | link=Nesting Workshop#Stone Console Table }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 45 C }}
+|1
+|Placeable Decoration
+|- id="Stone Coffee Table"
+| style="text-align: center;"| {{Spirit Item| Nesting Stone Table | prop_c_real | table | link=Nesting Workshop#Stone Coffee Table }}
+| {{Spirit Item| Nesting Stone Table | prop_c | table | link=Nesting Workshop#Stone Coffee Table }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 28 AC }}
+|1
+|Placeable Decoration
+|- id="Stone Single Bed"
+| style="text-align: center;"| {{Spirit Item| Nesting Stone Room | prop_b_real | table | link=Nesting Workshop#Stone Single Bed }}
+| {{Spirit Item| Nesting Stone Room | prop_b | table | link=Nesting Workshop#Stone Single Bed }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 24 H }}
+|1
+|Placeable Decoration
+|- id="Stone Tall Shelf"
+| style="text-align: center;"| {{Spirit Item| Nesting Stone Room | prop_t_real | table | link=Nesting Workshop#Stone Tall Shelf }}
+| {{Spirit Item| Nesting Stone Room | prop_t | table | link=Nesting Workshop#Stone Tall Shelf }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 15 AC }}<sup>(×2)</sup>
+|2
+|Placeable Decoration
+|- id="Stone Small Bathtub"
+| style="text-align: center;"| {{Spirit Item| Nesting Stone Room | prop_s_real | table | link=Nesting Workshop#Stone Small Bathtub }}
+| {{Spirit Item| Nesting Stone Room | prop_s | table | link=Nesting Workshop#Stone Small Bathtub }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 25 H }}
+|1
+|Placeable Decoration
+|- id="Stone Large Bathtub"
+| style="text-align: center;"| {{Spirit Item| Nesting Stone Room | prop_l_real | table | link=Nesting Workshop#Stone Large Bathtub }}
+| {{Spirit Item| Nesting Stone Room | prop_l | table | link=Nesting Workshop#Stone Large Bathtub }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 45 H }}
+|1
+|Placeable Decoration
+|- id="Stone Washstand"
+| style="text-align: center;"| {{Spirit Item| Nesting Stone Room | prop_w_real | table | link=Nesting Workshop#Stone Washstand }}
+| {{Spirit Item| Nesting Stone Room | prop_w | table | link=Nesting Workshop#Stone Washstand }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 40 C }}
+|1
+|Placeable Decoration
+|- id="Stone Kitchen Stove"
+| style="text-align: center;"| {{Spirit Item| Nesting Stone Kitchen | prop_v_real | table | link=Nesting Workshop#Stone Kitchen Stove }}
+| {{Spirit Item| Nesting Stone Kitchen | prop_v | table | link=Nesting Workshop#Stone Kitchen Stove }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 25 AC }}
+|1
+|Placeable Decoration and Light
+|- id="Stone Wood-Fired Oven"
+| style="text-align: center;"| {{Spirit Item| Nesting Stone Kitchen | prop_f_real | table | link=Nesting Workshop#Stone Wood-Fired Oven }}
+| {{Spirit Item| Nesting Stone Kitchen | prop_f | table | link=Nesting Workshop#Stone Wood-Fired Oven }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 35 AC }}
+|1
+|Placeable Decoration and Light
+|- id="Stone Kitchen Drawers"
+| style="text-align: center;"| {{Spirit Item| Nesting Stone Kitchen | prop_d_real | table | link=Nesting Workshop#Stone Kitchen Drawers }}
+| {{Spirit Item| Nesting Stone Kitchen | prop_d | table | link=Nesting Workshop#Stone Kitchen Drawers }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 25 C }}<sup>(×2)</sup>
+|2
+|Placeable Decoration
+|- id="Stone Kitchen Cabinet"
+| style="text-align: center;"| {{Spirit Item| Nesting Stone Kitchen | prop_c_real | table | link=Nesting Workshop#Stone Kitchen Cabinet }}
+| {{Spirit Item| Nesting Stone Kitchen | prop_c | table | link=Nesting Workshop#Stone Kitchen Cabinet }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 20 C }}<sup>(×1)</sup>
+|2
+|Placeable Decoration
+|- id="Stone Wide Cube"
+| style="text-align: center;" | {{Spirit Item| Nesting Stone Furniture | prop_w_real | table | link=Nesting Workshop#Stone Wide Cube }}
+| {{Spirit Item| Nesting Stone Furniture | prop_w | table | link=Nesting Workshop#Stone Wide Cube }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 10 C }}<sup>(×8)</sup>
+|8
+|Placeable Decoration
+|- id="Stone Tall Cube"
+| style="text-align: center;" | {{Spirit Item| Nesting Stone Furniture | prop_t_real | table | link=Nesting Workshop#Stone Tall Cube }}
+| {{Spirit Item| Nesting Stone Furniture | prop_t | table | link=Nesting Workshop#Stone Tall Cube }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 11 C }}<sup>(×8)</sup>
+|8
+|Placeable Decoration
+|- id="Stone Plant Stand"
+| style="text-align: center;"| {{Spirit Item| Nesting Stone Furniture | prop_p_real | table | link=Nesting Workshop#Stone Plant Stand }}
+| {{Spirit Item| Nesting Stone Furniture | prop_p | table | link=Nesting Workshop#Stone Plant Stand }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 12 H }} <sup>(×2)</sup>
+|2
+|Placeable Decoration
+|- id="Stone Candle Light"
+| style="text-align: center;"| {{Spirit Item| Nesting Stone Furniture | prop_l_real | table | link=Nesting Workshop#Stone Candle Light }}
+| {{Spirit Item| Nesting Stone Furniture | prop_l | table | link=Nesting Workshop#Stone Candle Light }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 16 AC }}<sup>(×2)</sup>
+|2
+|Placeable Decoration
+|- id="Nesting Loft"
+| style="text-align: center;"| {{Spirit Item| Nesting Loft| prop_b_real | table }}
+| {{Spirit Item| Nesting Loft| prop_b | table }}
+| {{Avail Summary | season | spirit=Nesting Loft | season=Nesting }}
+| {{Cost| ? }}
+|1
+|Placeable Decoration
+|- id="Nesting Loft"
+| style="text-align: center;"| {{Spirit Item| Nesting Loft| prop_c_real | table }}
+| {{Spirit Item| Nesting Loft| prop_c | table }}
+| {{Avail Summary | season | spirit=Nesting Loft | season=Nesting }}
+| {{Cost| ? }}
+|2
+|Placeable Decoration
+|- id="Nesting Solarium"
+| style="text-align: center;"| {{Spirit Item| Nesting Solarium| prop_t_real | table }}
+| {{Spirit Item| Nesting Solarium| prop_t | table }}
+| {{Avail Summary | season | spirit=Nesting Solarium | season=Nesting }}
+| {{Cost| ? }}
+|1
+|Placeable Decoration
+|- id="Nesting Nook"
+| style="text-align: center;"| {{Spirit Item| Nesting Nook| prop_c_real | table }}
+| {{Spirit Item| Nesting Nook| prop_c | table }}
+| {{Avail Summary | season | spirit=Nesting Nook | season=Nesting }}
+| {{Cost| ? }}
+|1
+|Placeable Decoration
+|- id="Nesting Atrium"
+| style="text-align: center;"| {{Spirit Item| Nesting Atrium| prop_h_real | table }}
+| {{Spirit Item| Nesting Atrium| prop_h | table }}
+| {{Avail Summary | season | spirit=Nesting Atrium | season=Nesting }}
+| {{Cost| ? }}
+|4
+|Placeable Decoration
+|- id="Nesting Solarium"
+| style="text-align: center;"| {{Spirit Item| Nesting Solarium| prop_b_real | table }}
+| {{Spirit Item| Nesting Solarium| prop_b | table }}
+| {{Avail Summary | season | spirit=Nesting Solarium | season=Nesting }}
+| {{Cost| ? }}
+|1
+|Placeable Decoration
+|- id="Nesting Atrium"
+| style="text-align: center;"| {{Spirit Item| Nesting Atrium| prop_b_real | table }}
+| {{Spirit Item| Nesting Atrium| prop_b | table }}
+| {{Avail Summary | season | spirit=Nesting Atrium | season=Nesting }}
+| {{Cost| ? }}
+|1
+|Placeable Decoration
+|- id="Nesting Solarium"
+| style="text-align: center;"| {{Spirit Item| Nesting Solarium| prop_h_real | table }}
+| {{Spirit Item| Nesting Solarium| prop_h | table }}
+| {{Avail Summary | season | spirit=Nesting Solarium | season=Nesting }}
+| {{Cost| ? }}
+|4
+|Placeable Decoration
+|- id="Dressing Table"
+| style="text-align: center;"| {{Days_Item | Dressing_Table | real | table | link=Workshop_Show_%26_Tell#Dressing_Table}}
+| {{Days_Item | Dressing_Table | prop | table | link=Workshop_Show_%26_Tell#Dressing_Table}}
+| {{Avail Summary | limited | days= Workshop Show & Tell}}
+| {{Cost| 9 H }}<sup>(×2)</sup>
+|2
+|Placeable Decoration
+|- id="Floor Curtain"
+| style="text-align: center;"| {{Days_Item | floor_curtain | real | table | link=Workshop_Show_%26_Tell#Floor_Curtain}}
+| {{Days_Item | floor_curtain | prop | table | link=Workshop_Show_%26_Tell#Floor_Curtain}}
+| {{Avail Summary | limited | days= Workshop Show & Tell}}
+| {{Cost| 20 C }}<sup>(×4)</sup>
+|4
+|Placeable Decoration
+|- id="Left Curtain"
+| style="text-align: center;"| {{Days_Item | Left_Curtain | real | table | link=Workshop_Show_%26_Tell#Left_Curtain}}
+| {{Days_Item | Left_Curtain | prop | table | link=Workshop_Show_%26_Tell#Left_Curtain}}
+| {{Avail Summary | limited | days= Workshop Show & Tell}}
+| {{Cost| 3 H }}<sup>(×4)</sup>
+|4
+|Placeable Decoration
+|- id="Blue Stool"
+| style="text-align: center;"| {{Days_Item | Blue_Stool | real | table | link=Workshop_Show_%26_Tell#Blue_Stool}}
+| {{Days_Item | Blue_Stool | prop | table | link=Workshop_Show_%26_Tell#Blue_Stool}}
+| {{Avail Summary | limited | days= Workshop Show & Tell}}
+| {{Cost| 10 AC }}<sup>(×4)</sup>
+|4
+|Placeable Decoration
+|- id="Comfort of Kindness"
+| style="text-align: center;"| {{Spirit Item| Comfort of Kindness | prop_c_real | table }}
+| {{Spirit Item| Comfort of Kindness | prop_c | table }}
+| {{Avail Summary | season | spirit=Comfort of Kindness | season=Moomin }}
+| {{Cost| ? }}
+|1
+|Placeable Decoration
+|- id="Inspiration of Inclusion"
+| style="text-align: center;"| {{Spirit Item| Inspiration of Inclusion | prop_c_real | table }}
+| {{Spirit Item| Inspiration of Inclusion | prop_c | table }}
+| {{Avail Summary | season | spirit=Inspiration of Inclusion | season=Moomin }}
+| {{Cost| ? }}
+|1
+|Placeable Decoration
+|- id="Moonlight Lantern Decoration"
+| style="text-align: center;"| {{Days Item| Moonlight Lantern Decoration | real | table }}
+| {{Days Item| Moonlight Lantern Decoration | icon | table }}
+| {{Avail Summary | days | days=Moonlight }}
+| {{Cost| 70 C }}
+|1
+|Placeable Decoration and Light
+|- id="Cozy Cafe Table"
+| style="text-align: center;"| {{Days Item| Cozy Cafe Table | real | table }}
+| {{Days Item| Cozy Cafe Table | icon | table }}
+| {{Avail Summary | limited | days=Cinnamoroll }}
+| {{Cost| N/A }}
+|2
+|Placeable Chat (2)
+|- id="Mischief Cauldron"
+| style="text-align: center;"| {{Days Item| Mischief Cauldron | real | table }}
+| {{Days Item| Mischief Cauldron | icon | table }}
+| {{Avail Summary | days | days=Mischief }}
+| {{Cost| ? }}
+|1
+|Placeable Chat (3)
+|- id="Wonderland Teacup Bath"
+| style="text-align: center;"| {{Days Item| Wonderland Teacup Bath | real | table }}
+| {{Days Item| Wonderland Teacup Bath | icon | table }}
+| {{Avail Summary | l | days=Feast }}
+| {{Cost| N/A }}
+|1
+|Placeable Decoration
+|- id="Fortune Plant Prop"
+| style="text-align: center;"| {{Days Item| Fortune Plant Prop | real | table }}
+| {{Days Item| Fortune Plant Prop | icon | table }}
+| {{Avail Summary | days | days=fortune }}
+| {{Cost| 20 C | event=fortune }}<sup>(×2)</sup>
+|2
+|Placeable Decoration
+|- id="Fortune Vertical Poster Prop"
+| style="text-align: center;"| {{Days Item| Fortune Vertical Poster Prop | real | table }}
+| {{Days Item| Fortune Vertical Poster Prop | icon | table }}
+| {{Avail Summary | days | days=fortune }}
+| {{Cost| 5 C | event=fortune }}<sup>(×8)</sup>
+|8
+|Placeable Decoration
+|- id="Fortune Candle Flags Prop"
+| style="text-align: center;"| {{Days Item| Fortune Candle Flags Prop | real | table }}
+| {{Days Item| Fortune Candle Flags Prop | icon | table }}
+| {{Avail Summary | days | days=fortune }}
+| {{Cost| 10 C | event=fortune }}<sup>(×4)</sup>
+|4
+|Placeable Decoration
+|- id="Stone Dresser"
+| style="text-align: center;"| {{Spirit Item| Nesting Stone Room | prop_d_real | table | link=Nests#Stone_Dresser| label=Shared Spaces Stone Dresser | table }}
+| {{Spirit Item| Nesting Stone Room | prop_d | table | link=Nests#Stone_Dresser| label=Shared Spaces Stone Dresser }}
+| {{Avail Summary | o | source={{Icon| Shared-space-map-icon-Ray.png | table | link=Shared Spaces#Featured Props For Shared Spaces}}}}
+| {{Cost| N/A }}
+|1
+|Placeable Decoration
+|- id="Stone Small Cube"
+| style="text-align: center;" | {{Spirit Item|Nesting Stone Furniture| prop_b_real| table | link=Nesting Workshop#Stone Small Cube }}
+| {{Spirit Item|Nesting Stone Furniture| prop_b| table | link=Nesting Workshop#Stone Small Cube }}
+| {{Avail Summary | o | source={{Icon| Shared-space-map-icon-Ray.png | table | link=Shared Spaces#Featured Props For Shared Spaces}} }}
+| {{Cost| N/A }}
+|8
+|Placeable Decoration
+|- id="Spring Camping Windowed Tent Wall"
+| style="text-align: center;"| {{Days Item| Windowed Tent Wall | real | table }}
+| {{Days Item| Windowed Tent Wall | icon | table }}
+| {{Avail Summary | o | source={{Icon| Shared-space-map-icon-Ray.png | table | link=Shared Spaces#Temporary Featured Props For Shared Spaces | label=Shared Spaces (Temporary)}}}}
+| {{Cost| N/A }}
+|8
+|Placeable Decoration
+|- id="Spring Camping Tent Cover"
+| style="text-align: center;"| {{Days Item| Tent Cover | real | table }}
+| {{Days Item| Tent Cover | icon | table }}
+| {{Avail Summary | o | source={{Icon| Shared-space-map-icon-Ray.png | table | link=Shared Spaces#Temporary Featured Props For Shared Spaces | label=Shared Spaces (Temporary)}}}}
+| {{Cost| N/A }}
+|8
+|Placeable Decoration
+|- id="Spring Camping Tent Wall Entrance"
+| style="text-align: center;"| {{Days Item| Tent Wall Entrance | real | table }}
+| {{Days Item| Tent Wall Entrance | icon | table }}
+| {{Avail Summary | o | source={{Icon| Shared-space-map-icon-Ray.png | table | link=Shared Spaces#Temporary Featured Props For Shared Spaces | label=Shared Spaces (Temporary)}}}}
+| {{Cost| N/A }}
+|8
+|Placeable Decoration
+|- id="Spring Camping Tent Wall"
+| style="text-align: center;"| {{Days Item| Tent Wall | real | table }}
+| {{Days Item| Tent Wall | icon | table }}
+| {{Avail Summary | o | source={{Icon| Shared-space-map-icon-Ray.png | table | link=Shared Spaces#Temporary Featured Props For Shared Spaces | label=Shared Spaces (Temporary)}}}}
+| {{Cost| N/A }}
+|32
+|Placeable Decoration
+|- id="Wise Grandparent"
+| style="text-align: center;" | {{Icon| Wise_grandparent_book.png | link=Wise Grandparent#Prop | label=Wise Grandparent | table }}
+| {{Spirit Item| Wise Grandparent | Prop | table | link=Wise Grandparent#Prop | label=Wise Grandparent }}
+| {{Avail Summary | season | spirit=Wise Grandparent | season=Belonging }}
+| {{Cost | 10 C }}
+| 8
+| Placeable Decoration
+|- id="Prophet of Water"
+| style="text-align: center;" |{{Icon| SoProphecy-Prophet-of-Water-Prop-image-Morybel-0146.png | link=Prophet of Water#Prop | label=Prophet of Water | table }}
+| {{Spirit Item| Prophet of Water | Prop | table | link=Prophet of Water#Prop | label=Prophet of Water }}
+| {{Avail Summary | season | spirit=Prophet of Water | season=Prophecy }}
+| {{Cost | 15 C }}
+| 4
+| Placeable Decoration
+|- id="Prophet of Earth"
+| style="text-align: center;" |{{Icon| Prophet_of_earth_prop.png | link=Prophet of Earth#Prop | label=Prophet of Earth | table }}
+| {{Spirit Item| Prophet of Earth | Prop | table | link=Prophet of Earth#Prop | label=Prophet of Earth }}
+| {{Avail Summary | season | spirit=Prophet of Earth | season=Prophecy }}
+| {{Cost | 15 C }}
+| 4
+| Placeable Decoration
+|- id="Prophet of Air"
+| style="text-align: center;" | {{Icon| Prophet of air sticker.png | link=Prophet of Air#Prop | label=Prophet of Air | table }}
+| {{Spirit Item| Prophet of Air | Prop | table | link=Prophet of Air#Prop | label=Prophet of Air }}
+| {{Avail Summary | season | spirit=Prophet of Air | season=Prophecy }}
+| {{Cost | 15 C }}
+| 4
+| Placeable Decoration
+|- id="Prophet of Fire"
+| style="text-align: center;" | {{Icon| SoProphecy-Prophet-of-Fire-Prop-Sticker-image-Ed.png | link=Prophet of Fire#Prop | label=Prophet of Fire | table }}
+| {{Spirit Item| Prophet of Fire | Prop_s | table | link=Prophet of Fire#Prop | label=Prophet of Fire }}
+| {{Avail Summary | season | spirit=Prophet of Fire | season=Prophecy }}
+| {{Cost | 15 C }}
+| 4
+| Placeable Decoration
+|- id="Assembly Guide Jar"
+| style="text-align: center;" | {{Icon| Assembly_prop_pot_down.png | table | link=Assembly Guide#Jar_Prop | label=Assembly Jar }}
+| {{Spirit Item| Assembly Guide | prop_j | table | link=Assembly Guide#Jar_Prop | label=Assembly Jar }}
+| {{Avail Summary | guide | season=Assembly }}
+| {{Cost| 8 C }}
+| 8
+| Placeable Decoration
+|- id="Assembly Guide Pillow"
+| style="text-align: center;" |{{Icon| Prop_forest_treehouse_pillow.png | table | link=Assembly Guide#Pillow_Prop | label=Assembly Pillow }}
+| {{Spirit Item| Assembly Guide | prop_p | table | link=Assembly Guide#Pillow_Prop | label=Assembly Pillow }}
+| {{Avail Summary | guide | season=Assembly }}
+| {{Cost| 5 C }}
+| 8
+| Placeable Decoration
+|- id="Little Prince Rose"
+| style="text-align: center;" |{{Icon| Season_of_little_prince_inst2rose_ultimate.PNG | link=The_Rose#Little_Prince_Ultimate_Prop | label=Little Prince Rose | table }}
+| {{Icon| Icon_prop_little_prince_rose.png | table | link=The_Rose#Little_Prince_Ultimate_Prop | label=Little Prince Rose }}
+| {{Avail Summary | ultimate | season=The Little Prince }}
+| {{Cost | N/A }}
+| 1
+| Placeable Decoration, Plays Music
+|- id="Little Prince Fox"
+| style="text-align: center;" | {{Icon| Season_of_little_prince_iap_fox_inst.png | link=Season of The Little Prince#Little Prince Fox Prop | label=Little Prince Fox | table }}
+| {{Icon| Icon_prop_little_prince_fox.png | table | link=Season of The Little Prince#Little Prince Fox Prop | label=Little Prince Fox }}
+| {{Avail Summary | limited | season=The Little Prince | limited=Season of the Little Prince | source={{Season Icon|The Little Prince|table}} }}
+| {{Cost | 9.99 USD }}
+| 1
+| Placeable Decoration, Huggable
+|- id="Remembrance Guide Chimes"
+| style="text-align: center;" |{{Icon| SoRemembrance-Prop-Chimes.png| link=Remembrance_Guide#Chimes_Prop| label=Chimes | table }}
+| {{Icon| SoRemembrance-Prop-Chimes-Morybel-0146.png| table | link=Remembrance_Guide#Chimes_Prop| label=Chimes }}
+| {{Avail Summary | guide | season=Remembrance}}
+|{{Cost| 30 C }}
+|1
+|Placeable Decoration
+|- id="Remembrance Guide Crab Plush"
+| style="text-align: center;" |{{Icon|Remembrance-Prop-Crab-Plush.png| link=Remembrance_Guide#Crab_Plush_Prop| label=Crab-Plush | table }}
+| {{Icon| SoRemembrance-Prop-Crab-Plush-icon-Morybel-0146.png| table | link=Remembrance_Guide#Crab_Plush_Prop| label=Crab-Plush }}
+| {{Avail Summary | guide | season=Remembrance}}
+| {{Cost| 19 H }}
+| 1
+|Placeable Decoration, Huggable
+|- id="Remembrance Guide Manta Plush"
+| style="text-align: center;" |{{Icon|Remembrance-Prop-Manta-Plush.png| link=Remembrance_Guide#Manta_Plush_Prop| label=Manta-Plush | table }}
+| {{Icon| SoRemembrance-Prop-Manta-Plush-icon-Morybel-0146.png| table | link=Remembrance_Guide#Manta_Plush_Prop| label=Manta-Plush }}
+| {{Avail Summary | guide | season=Remembrance}}
+| {{Cost| 17 H }}
+| 1
+|Placeable Decoration, Huggable
+|- id="Manta Plush (38")"
+| style="text-align: center;" |{{Icon| Manta-Plush-STAR.png | table | link=That Sky Shop/Wave 10#Manta Plush (38") | label=Manta Plush (38") |table}}
+| {{Icon| Manta-Plush-icon-STAR.png | table | link=That Sky Shop/Wave 10#Manta Plush (38") | label=Manta Plush (38") }}
+| {{Avail Summary | IAP | source={{Icon| That-sky-shop-logo.png | table | link=That Sky Shop/Wave 10#Manta Plush (38") }} }}
+| {{Cost | 65 USD }}
+|
+|Placeable Decoration, Huggable
+|- id="The Art of Sky STAR Prop"
+| style="text-align: center;" |{{Icon| The-Art-of-Sky-STAR-Prop-Placed-Down.png | table | link=The Art of Sky | label=The Art of Sky STAR Prop |table}}
+| {{Icon| The-Art-of-Sky-STAR-Prop-icon.png | table | link=The Art of Sky | label=The Art of Sky STAR Prop }}
+| {{Avail Summary | IAP | source={{Icon| That-sky-shop-logo.png | table | link=The Art of Sky }} }}
+| {{Cost | 125 USD }}
+|
+|Placeable Decoration, Intractable, Shareable Prop
+|- id="Footbag Prop"
+| style="text-align: center;" |{{Icon|Passage-Hacky-Sack-prop.png| link=Passage_Guide#Footbag_Prop | table | label=Passage Footbag Prop }}
+| {{Icon| Passage-Hacky-Sack-prop-icon-Morybel-0146.png| table |  link=Passage_Guide#Footbag_Prop | label=Passage Footbag Prop }}
+| {{Avail Summary | guide | season=Passage}}
+| {{Cost| 39 H }}
+|
+|Shareable Prop
+|- id="Jolly Geologist"
+| style="text-align: center;"| {{Icon| Jolly-Geologist-Prop.png | link=Jolly Geologist#Prop | table }}
+| {{Spirit Item| Jolly Geologist | prop | table | label=Jolly Geologist}}
+| {{Avail Summary | season | spirit=Jolly Geologist | season=Moments }}
+| {{Cost | ? }}
+| 3
+|Placeable Decoration
+|- id="Herb Gatherer"
+| style="text-align: center;"| {{Spirit Item| Herb Gatherer | prop_real | table }}
+| {{Spirit Item| Herb Gatherer | prop | table }}
+| {{Avail Summary | season | spirit=Herb Gatherer | season=Nine-Colored Deer }}
+| {{Cost | ? }}
+| 3
+|Placeable Decoration
+|- id="Moomin Ultimate Plush"
+| style="text-align: center;"| {{Spirit Item| Moomin Guide | prop_m_real | link=The_Moomin_Storybook#Moomin_Ultimate_Plush | table }}
+| {{Spirit Item| Moomin Guide | prop_m | link=The_Moomin_Storybook#Moomin_Ultimate_Plush | table }}
+| {{Avail Summary | ultimate | season=Moomin }}
+| {{Cost | N/A }}
+| 1
+|Placeable Decoration, Huggable
+|- id="Caring Companion"
+| style="text-align: center;" |{{Spirit Item| Caring Companion | prop_real | table }}
+| {{Spirit Item| Caring Companion | Prop | table }}
+| {{Avail Summary | p | spirit=Caring Companion | season=Two Embers - Part 1 }}
+| {{Cost | 12 H }}
+| 1
+| Placeable Decoration
+|- id="Manatee Plush"
+| style="text-align: center;"| {{Spirit Item| Vault Elder's Lantern | prop_p_real | link=Season_of_The_Two_Embers_-_Part_1#Manatee_Plush | table }}
+| {{Spirit Item| Vault Elder's Lantern | prop_p | link=Season_of_The_Two_Embers_-_Part_1#Manatee_Plush | table }}
+| {{Avail Summary | limited | season=Two Embers - Part 1 }}
+| {{Cost | 6.99 USD }}
+| 1
+|Placeable Decoration, Huggable
+|- id="Tender Toymaker C"
+| style="text-align: center;" |{{Spirit Item| Tender Toymaker | prop_c_real | table }}
+| {{Spirit Item| Tender Toymaker | Prop_c | table }}
+| {{Avail Summary | season | spirit=Tender Toymaker | season=Two Embers - Part 1 }}
+| {{Cost | ? }}
+| 1
+| Placeable Decoration
+|- id="Two Embers Poster"
+| style="text-align: center;"| {{Spirit Item| Vault Elder's Lantern | prop_a_real | table | link=Vault_Elder%27s_Lantern#Prop }}
+| {{Spirit Item| Vault Elder's Lantern | Prop_a | tab | link=Vault_Elder%27s_Lantern#Prop }}
+| {{Avail Summary | p | season=Two Embers - Part 1 }}
+| {{Cost | 27 C }}
+| 1
+|Placeable Decoration
+|- id="Projector of Memories"
+| style="text-align: center;"| {{Icon| Projector-of-Memories-prop.png | table | link=Season_of_The_Two_Embers_-_Part_1#Projector_of_Memories | label=Projector of Memories }}
+| {{Icon| Projector-of-Memories-Icon.png | tab | link=Season_of_The_Two_Embers_-_Part_1#Projector_of_Memories | label=Projector of Memories }}
+| {{Avail Summary | permanent | season=Two Embers - Part 1 }}
+| {{Cost | 24.99 USD }}
+| 1
+|Placeable Decoration, Streams Videos
+|- id="Sunlight Wave Projector"
+| style="text-align: center;"| {{Days Item| Sunlight Wave Projector | real | table }}
+| {{Days Item| Sunlight Wave Projector | icon | table }}
+| {{Avail Summary | days | days=Sunlight }}
+|{{Cost| ? }}
+|1
+|Placeable Decoration
+|- id="Sandcastle Small Tower Piece"
+| style="text-align: center;"| {{Days Item| Sandcastle Small Tower Piece | real | table }}
+| {{Days Item| Sandcastle Small Tower Piece | icon | table }}
+| {{Avail Summary | days | days=Sunlight }}
+|{{Cost| 5 C }}<sup>(×8)</sup>
+|8
+|Placeable Decoration
+|- id="Sandcastle Large Tower Piece"
+| style="text-align: center;"| {{Days Item| Sandcastle Large Tower Piece | real | table }}
+| {{Days Item| Sandcastle Large Tower Piece | icon | table }}
+| {{Avail Summary | days | days=Sunlight }}
+|{{Cost| 5 C }}<sup>(×8)</sup>
+|8
+|Placeable Decoration
+|- id="Sandcastle Small Gate Piece"
+| style="text-align: center;"| {{Days Item| Sandcastle Small Gate Piece | real | table }}
+| {{Days Item| Sandcastle Small Gate Piece | icon | table }}
+| {{Avail Summary | days | days=Sunlight }}
+|{{Cost| 6 C }}<sup>(×8)</sup>
+|8
+|Placeable Decoration
+|- id="Sandcastle Wall Piece"
+| style="text-align: center;"| {{Days Item| Sandcastle Wall Piece | real | table }}
+| {{Days Item| Sandcastle Wall Piece | icon | table }}
+| {{Avail Summary | days | days=Sunlight }}
+|{{Cost| 7 C }}<sup>(×8)</sup>
+|8
+|Placeable Decoration
+|- id="Sandcastle Large Gate Piece"
+| style="text-align: center;"| {{Days Item| Sandcastle Large Gate Piece | real | table }}
+| {{Days Item| Sandcastle Large Gate Piece | icon | table }}
+| {{Avail Summary | days | days=Sunlight }}
+|{{Cost| 5 C }}<sup>(×8)</sup>
+|8
+|Placeable Decoration
+|- id="Sandcastle Sand Lot"
+| style="text-align: center;"| {{Days Item| Sandcastle Sand Lot | real | table }}
+| {{Days Item| Sandcastle Sand Lot | icon | table }}
+| {{Avail Summary | days | days=Sunlight }}
+|{{Cost| 8 C }}<sup>(×8)</sup>
+|8
+|Placeable Decoration
+|- id="Sandcastle Flag"
+| style="text-align: center;"| {{Days Item| Sandcastle Flag | real | table }}
+| {{Days Item| Sandcastle Flag | icon | table }}
+| {{Avail Summary | days | days=Sunlight }}
+|{{Cost| 5 C }}<sup>(×8)</sup>
+|8
+|Placeable Decoration
+|- id="Moonlight Banner"
+| style="text-align: center;"| {{Days Item| Moonlight Banner | real | table }}
+| {{Days Item| Moonlight Banner | icon | table }}
+| {{Avail Summary | days | days=Moonlight }}
+|{{Cost| 18 T | event=Moonlight }}<sup>(×4)</sup><br>{{Cost| 5 C }}<sup>(×4)</sup><ref name="Moonlight Banner" >Four copies of the Moonlight Banner can be purchased for {{Cost| 18 T | event=Moonlight }} at once, and four additional copies can be purchased for {{Cost| 5 C }} each</ref>
+|8
+|Placeable Decoration
+|- id="Days of Love Gondola"
+| style="text-align: center;"| {{Days Item| Days of Love Gondola | real | table }}
+| {{Days Item| Days of Love Gondola | icon | table }}
+| {{Avail Summary | days | days=Love }}
+|{{Cost| 19.99 USD }}
+|2
+|Placeable Chat (2), Water Only
+|- id="Sparkler Parent"
+| style="text-align: center;" |{{Icon| Pinwheel_.png | link=Sparkler Parent#Prop | label=Sparkler Parent | table }}
+|{{Spirit Item| Sparkler Parent | Prop | table | link=Sparkler Parent#Prop | label=Sparkler Parent }}
+| {{Avail Summary | season | spirit=Sparkler Parent | season=Belonging }}
+| {{Cost | 33 C }}
+|4
+|Placeable Decoration
+|- id="Anniversary Blue Carpet"
+| style="text-align: center;"| {{Days Item| Anniversary Blue Carpet | real | table }}
+| {{Days Item| Anniversary Blue Carpet | icon | table }}
+| {{Avail Summary | days | days=Sky }}
+|{{Cost | ? }}
+|1
+|Placeable Decoration
+|- id="Anniversary Birthday Flag"
+| style="text-align: center;"| {{Days Item| Anniversary Birthday Flag | real | link=Sky_Anniversary/2021#Anniversary_Birthday_Flag | table }}
+| {{Days Item| Anniversary Birthday Flag | icon | link=Sky_Anniversary/2021#Anniversary_Birthday_Flag | table }}
+| {{Avail Summary | days | days=Sky }}
+|{{Cost | 20 C }}
+|3
+|Placeable Decoration
+|- id="Anniversary Balloons"
+| style="text-align: center;"| {{Days Item| Anniversary Balloons | real | link=Sky_Anniversary/2022#Anniversary_Balloons | table }}
+| {{Days Item| Anniversary Balloons | icon | link=Sky_Anniversary/2022#Anniversary_Balloons | table }}
+| {{Avail Summary | days | days=Sky }}
+|{{Cost| 30 C }}
+|2
+|Placeable Decoration
+|- id="Anniversary Confetti Launcher"
+| style="text-align: center;"| {{Days Item| Anniversary Confetti Launcher | real | link=Sky_Anniversary/2022#Anniversary_Confetti_Launcher | table }}
+| {{Days Item| Anniversary Confetti Launcher | icon | link=Sky_Anniversary/2022#Anniversary_Confetti_Launcher | table }}
+| {{Avail Summary | days | days=Sky }}
+|{{Cost| 20 H }}
+|3
+|Placeable Decoration
+|- id="Color Bubble Machine"
+| style="text-align: center;"| {{Days Item| Color Bubble Machine | real | link=Days_of_Color/2024#Color_Bubble_Machine | table }}
+| {{Days Item| Color Bubble Machine | icon | link=Days_of_Color/2024#Color_Bubble_Machine | table }}
+| {{Avail Summary | days | days=Color }}
+| {{Cost| 14.99 }}
+|3
+|Placeable Decoration
+|- id="Mischief Pumpkin Prop"
+| style="text-align: center;"| {{Days Item| Mischief Pumpkin Prop | real | table }}
+| {{Days Item| Mischief Pumpkin Prop | icon | table }}
+| {{Avail Summary | days | days=Mischief }}
+|{{Cost| 1.99 USD }}
+|1
+|Placeable Decoration
+|- id="Feline Familiar Prop"
+| style="text-align: center;"| {{Days Item| Feline Familiar Prop | real | table }}
+| {{Days Item| Feline Familiar Prop | icon | table }}
+| {{Avail Summary | days | days=Mischief }}
+| {{Cost| 9.99 USD }}
+| 1
+|Placeable Decoration
+|- id="Winter Feast Pillow"
+| style="text-align: center;"| {{Days Item| Winter Feast Pillow | real | table }}
+| {{Days Item| Winter Feast Pillow | icon | table }}
+| {{Avail Summary | days | days=Feast }}
+|{{Cost| 10 C }}
+|8
+|Placeable Decoration
+|- id="Winter Feast Snowglobe"
+| style="text-align: center;"| {{Days Item| Winter Feast Snowglobe | real | table }}
+| {{Days Item| Winter Feast Snowglobe | icon | table }}
+| {{Avail Summary | days | days=Feast }}
+| {{Cost| 9.99 USD }}
+|1
+|Placeable Decoration
+|- id="Campfire Snack Kit"
+| style="text-align: center;"| {{Days Item| Campfire Snack Kit | real | table }}
+| {{Days Item| Campfire Snack Kit | icon | table }}
+| {{Avail Summary | days | days=Sunlight }}
+|{{Cost| 19.99 USD }}
+|2
+|Placeable Decoration
+|- id="Tournament Skyball Set"
+| style="text-align: center;"| {{Days Item| Tournament Skyball Set | real | table }}
+| {{Days Item| Tournament Skyball Set | icon | table }}
+| {{Avail Summary | days | days=Feast }}
+|{{Cost| 14.99 USD }}
+|2
+|Placeable Decoration
+|- id="Bloom Butterfly Fountain"
+| style="text-align: center;"| {{Days Item| Bloom Butterfly Fountain | real | table }}
+| {{Days Item| Bloom Butterfly Fountain | icon | table }}
+| {{Avail Summary | days | days=Bloom }}
+|{{Cost | 80 C }}
+|3
+|Placeable Decoration
+|- id="Nature Sonorous Seashell"
+| style="text-align: center;"| {{Days Item| Nature Sonorous Seashell | real | table }}
+| {{Days Item| Nature Sonorous Seashell | icon | table }}
+| {{Avail Summary | days | days=Nature }}
+|{{Cost| 4.99 USD }}
+|1
+|Placeable Decoration
+|- id="Anniversary Sonorous Seashell"
+| style="text-align: center;"| {{Days Item| Anniversary Sonorous Seashell | real | link=Sky_Anniversary/2023#Anniversary_Sonorous_Seashell | table }}
+| {{Days Item| Anniversary Sonorous Seashell | icon | link=Sky_Anniversary/2023#Anniversary_Sonorous_Seashell | table }}
+| {{Avail Summary | days | days=Sky }}
+|{{Cost| 33 AC }}
+|1
+|Placeable Decoration, Plays Music
+|- id="Music Player"
+| style="text-align: center;"| {{Spirit Item| Nesting Stone Furniture | prop_r_real | table | link=Nesting Workshop#Music Player }}
+| {{Spirit Item| Nesting Stone Furniture | prop_r | table | link=Nesting Workshop#Music Player }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 66 AC }}
+|1
+|Placeable Decoration, Plays Music
+|- id="Anniversary Plush"
+| style="text-align: center;"| {{Days Item| Anniversary Plush | real | link=Sky_Anniversary/2023#Anniversary_Plush | table }}
+| {{Days Item| Anniversary Plush | icon | link=Sky_Anniversary/2023#Anniversary_Plush | table }}
+| {{Avail Summary | days | days=Sky }}
+|{{Cost| 9.99 USD }}
+|1
+|Placeable Decoration, Huggable
+|- id="Little Oreo Plush"
+| style="text-align: center;" |{{Icon| Oreo-Plush-STAR.png | table | link=That Sky Shop/Wave 12#Little Oreo Plush | label=Little Oreo Plush |table}}
+| {{Icon| Oreo-Plush-icon-STAR.png | table | link=That Sky Shop/Wave 12#Little Oreo Plush | label=Little Oreo Plush }}
+| {{Avail Summary | IAP | source={{Icon| That-sky-shop-logo.png | table | link=That Sky Shop/Wave 12#Little Oreo Plush }} }}
+| {{Cost | 42 USD }}
+|
+|Placeable Decoration, Huggable
+|- id="Love Heart Plushie"
+| style="text-align: center;"| {{Days Item| Love Heart Plushie | real | table }}
+| {{Days Item| Love Heart Plushie | icon | table }}
+| {{Avail Summary | days | days=Love }}
+|{{Cost| 12 H }}
+|1
+|Placeable Decoration, Huggable
+|- id="Sunlight Surfboard"
+| style="text-align: center;"| {{Days Item| Sunlight Surfboard | real | table }}
+| {{Days Item| Sunlight Surfboard | icon | table }}
+| {{Avail Summary | days | days=Sunlight }}
+| {{Cost| 14.99 USD }}
+|2
+|Placeable Prop, Players can ride when placed in water
+|- id="Companion Cube"
+| style="text-align: center;"| {{Icon| Companion-Cube-Plushie-Owl.png | table | link=Companion Cube | label=Companion Cube }}
+| {{Icon| Companion-Cube-icon.png | tab | link=Companion Cube | label=Companion Cube }}
+| {{Avail Summary | conditional | source={{Icon|Steam-Logo.png | tab | link=Sky for Steam}}}} 
+| {{Cost| 50 C }} <ref name="Companion Cube" >The Companion Cube can only be purchased for {{Cost| 50 C }} while playing on the [[Sky for Steam|Steam version]] of Sky.</ref>
+|1
+|Placeable Decoration, Huggable
+|- id="Course Creation Prop"
+| style="text-align: center;"| {{Days Item| Course Creation Prop | real | table }}
+| {{Days Item| Course Creation Prop | icon | table }}
+| {{Avail Summary | permanent | days=Feast }}
+| {{Cost| 150 C }}
+|1
+|Placeable Prop
+|- id="Stone Wall Mirror"
+| style="text-align: center;"| {{Spirit Item| Nesting Stone Furniture | prop_m_real | table | link=Nesting Workshop#Stone Wall Mirror }}
+| {{Spirit Item| Nesting Stone Furniture | prop_m | table | link=Nesting Workshop#Stone Wall Mirror }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 30 C }}<sup>(×2)</sup>
+|2
+|Placeable Decoration
+|- id="Stone Wall Towel Rack"
+| style="text-align: center;"| {{Spirit Item| Nesting Stone Room | prop_r_real | table | link=Nesting Workshop#Stone Wall Towel Rack }}
+| {{Spirit Item| Nesting Stone Room | prop_r | table | link=Nesting Workshop#Stone Wall Towel Rack }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 15 C }}<sup>(×2)</sup>
+|2
+|Placeable Decoration
+|- id="Stone Wall Pot Rack"
+| style="text-align: center;"| {{Spirit Item| Nesting Stone Kitchen | prop_p_real | table | link=Nesting Workshop#Stone Wall Pot Rack }}
+| {{Spirit Item| Nesting Stone Kitchen | prop_p | table | link=Nesting Workshop#Stone Wall Pot Rack }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 25 C }}<sup>(×2)</sup>
+|2
+|Placeable Decoration
+|- id="Stone Wall Mug Rack"
+| style="text-align: center;"| {{Spirit Item| Nesting Stone Kitchen | prop_m_real | table | link=Nesting Workshop#Stone Wall Mug Rack }}
+| {{Spirit Item| Nesting Stone Kitchen | prop_m | table | link=Nesting Workshop#Stone Wall Mug Rack }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 20 C }}<sup>(×2)</sup>
+|2
+|Placeable Decoration
+|- id="Stone Empty Box"
+| style="text-align: center;"| {{Spirit Item| Nesting Stone Furniture | prop_e_real | table | link=Nesting Workshop#Stone Empty Box }}
+| {{Spirit Item| Nesting Stone Furniture | prop_e | table | link=Nesting Workshop#Stone Empty Box }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 10 C }}<sup>(×3)</sup>
+|3
+|Placeable Decoration
+|- id="Stone Closed Box"
+| style="text-align: center;"| {{Spirit Item| Nesting Stone Furniture | prop_x_real | table | link=Nesting Workshop#Stone Closed Box }}
+| {{Spirit Item| Nesting Stone Furniture | prop_x | table | link=Nesting Workshop#Stone Closed Box }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 10 C }}<sup>(×3)</sup>
+|3
+|Placeable Decoration
+|- id="Stone Wall Shelf"
+| style="text-align: center;"| {{Spirit Item| Nesting Stone Kitchen | prop_w_real | table | link=Nesting Workshop#Stone Wall Shelf }}
+| {{Spirit Item| Nesting Stone Kitchen | prop_w | table | link=Nesting Workshop#Stone Wall Shelf }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 10 C }}<sup>(×3)</sup>
+|4
+|Placeable Decoration
+|- id="Decor Pillow One Color"
+| style="text-align: center;"| {{Spirit Item| Nesting Decor Set | prop_p_real | table | link=Nesting Workshop#Decor Pillow One Color }}
+| {{Spirit Item| Nesting Decor Set | prop_p | table | link=Nesting Workshop#Decor Pillow One Color }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 8 C }}<sup>(×4)</sup>
+|4
+|Placeable Decoration
+|- id="Decor Pillow Two Colors"
+| style="text-align: center;"| {{Spirit Item| Nesting Decor Set | prop_t_real | table | link=Nesting Workshop#Decor Pillow Two Colors }}
+| {{Spirit Item| Nesting Decor Set | prop_t | table | link=Nesting Workshop#Decor Pillow Two Colors }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 12 C }}<sup>(×4)</sup>
+|4
+|Placeable Decoration
+|- id="Decor Folded Cloth"
+| style="text-align: center;"| {{Spirit Item| Nesting Decor Set | prop_f_real | table | link=Nesting Workshop#Decor Folded Cloth }}
+| {{Spirit Item| Nesting Decor Set | prop_f | table | link=Nesting Workshop#Decor Folded Cloth }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 10 C }}<sup>(×4)</sup>
+|4
+|Placeable Decoration
+|- id="Stone Wall Sconce"
+| style="text-align: center;"| {{Spirit Item| Nesting Stone Furniture | prop_s_real | table | link=Nesting Workshop#Stone Wall Sconce }}
+| {{Spirit Item| Nesting Stone Furniture | prop_s | table | link=Nesting Workshop#Stone Wall Sconce }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 8 AC }}<sup>(×4)</sup>
+|4
+|Placeable Decoration and Light
+|- id="Small Solid Rug"
+| style="text-align: center;"| {{Spirit Item| Nesting Decor Set | prop_i_real | table | link=Nesting Workshop#Small Solid Rug }}
+| {{Spirit Item| Nesting Decor Set | prop_i | table | link=Nesting Workshop#Small Solid Rug }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 12 C }}<sup>(×2)</sup>
+|2
+|Placeable Decoration
+|- id="Small Stripes Rug"
+| style="text-align: center;"| {{Spirit Item| Nesting Decor Set | prop_l_real | table | link=Nesting Workshop#Small Stripes Rug }}
+| {{Spirit Item| Nesting Decor Set | prop_l | table | link=Nesting Workshop#Small Stripes Rug }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 17 C }}<sup>(×2)</sup>
+|2
+|Placeable Decoration
+|- id="Small Classic Rug"
+| style="text-align: center;"| {{Spirit Item| Nesting Decor Set | prop_m_real | table | link=Nesting Workshop#Small Classic Rug }}
+| {{Spirit Item| Nesting Decor Set | prop_m | table | link=Nesting Workshop#Small Classic Rug }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 8 H }} <sup>(×2)</sup>
+|2
+|Placeable Decoration
+|- id="Small Half-Circle Rug"
+| style="text-align: center;"| {{Spirit Item| Nesting Decor Set | prop_n_real | table | link=Nesting Workshop#Small Half-Circle Rug }}
+| {{Spirit Item| Nesting Decor Set | prop_n | table | link=Nesting Workshop#Small Half-Circle Rug }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 22 C }}<sup>(×2)</sup>
+|2
+|Placeable Decoration
+|- id="Medium Solid Rug"
+| style="text-align: center;"| {{Spirit Item| Nesting Decor Set | prop_o_real | table | link=Nesting Workshop#Medium Solid Rug }}
+| {{Spirit Item| Nesting Decor Set | prop_o | table | link=Nesting Workshop#Medium Solid Rug }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 40 C }}
+|1
+|Placeable Decoration
+|- id="Medium Stripes Rug"
+| style="text-align: center;"| {{Spirit Item| Nesting Decor Set | prop_s_real | table | link=Nesting Workshop#Medium Stripes Rug }}
+| {{Spirit Item| Nesting Decor Set | prop_s | table | link=Nesting Workshop#Medium Stripes Rug }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 50 C }}
+|1
+|Placeable Decoration
+|- id="Medium Diamonds Rug"
+| style="text-align: center;"| {{Spirit Item| Nesting Decor Set | prop_d_real | table | link=Nesting Workshop#Medium Diamonds Rug }}
+| {{Spirit Item| Nesting Decor Set | prop_d | table | link=Nesting Workshop#Medium Diamonds Rug }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 18 H }}
+|1
+|Placeable Decoration
+|- id="Medium Argyle Rug"
+| style="text-align: center;"| {{Spirit Item| Nesting Decor Set | prop_a_real | table | link=Nesting Workshop#Medium Argyle Rug }}
+| {{Spirit Item| Nesting Decor Set | prop_a | table | link=Nesting Workshop#Medium Argyle Rug }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 20 H }}
+|1
+|Placeable Decoration
+|- id="Medium Circle Rug"
+| style="text-align: center;"| {{Spirit Item| Nesting Decor Set | prop_c_real | table | link=Nesting Workshop#Medium Circle Rug }}
+| {{Spirit Item| Nesting Decor Set | prop_c | table | link=Nesting Workshop#Medium Circle Rug }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 70 C }}
+|1
+|Placeable Decoration
+|- id="Large Solid Rug"
+| style="text-align: center;"| {{Spirit Item| Nesting Decor Set | prop_z_real | table | link=Nesting Workshop#Large Solid Rug }}
+| {{Spirit Item| Nesting Decor Set | prop_z | table | link=Nesting Workshop#Large Solid Rug }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 80 C }}
+|1
+|Placeable Decoration
+|- id="Large Circle Rug"
+| style="text-align: center;"| {{Spirit Item| Nesting Decor Set | prop_x_real | table | link=Nesting Workshop#Large Circle Rug }}
+| {{Spirit Item| Nesting Decor Set | prop_x | table | link=Nesting Workshop#Large Circle Rug }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 90 C }}
+|1
+|Placeable Decoration
+|- id="Stone Figurine"
+| style="text-align: center;"| {{Spirit Item| Nesting Stone Furniture | prop_q_real | link=Nesting_Workshop#Stone_Figurine | table }}
+| {{Spirit Item| Nesting Stone Furniture | prop_q | link=Nesting_Workshop#Stone_Figurine | table }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop#Nesting Challenges|label=Nesting Challenges}} }}
+| {{Cost| 99 AC }}
+|1
+|Placeable Decoration
+|- id="Mask Hanger"
+| style="text-align: center;"| {{Spirit Item| Nesting Stone Furniture | prop_a_real | table | link=Nesting Workshop#Mask Hanger }}
+| {{Spirit Item| Nesting Stone Furniture | prop_a | table | link=Nesting Workshop#Mask Hanger }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop}} }}
+| {{Cost| 33 AC }}
+|1
+|Placeable Decoration
+|- id="Nesting Nook"
+| style="text-align: center;"| {{Spirit Item| Nesting Nook| prop_s_real | table }}
+| {{Spirit Item| Nesting Nook| prop_s | table }}
+| {{Avail Summary | season | spirit=Nesting Nook | season=Nesting }}
+| {{Cost| ? }}
+|1
+|Placeable Decoration
+|- id="Nesting Loft"
+| style="text-align: center;"| {{Spirit Item| Nesting Loft | prop_p_real | table }}
+| {{Spirit Item| Nesting Loft | prop_p | table }}
+| {{Avail Summary | season | spirit=Nesting Loft | season=Nesting }}
+| {{Cost| ? }}
+|1
+|Placeable Decoration
+|- id="Nesting Solarium"
+| style="text-align: center;"| {{Spirit Item| Nesting Solarium | prop_p_real | table }}
+| {{Spirit Item| Nesting Solarium | prop_p | table }}
+| {{Avail Summary | season | spirit=Nesting Solarium | season=Nesting }}
+| {{Cost| ? }}
+|1
+|Placeable Decoration
+|- id="Nesting Nook"
+| style="text-align: center;"| {{Spirit Item| Nesting Nook | prop_r_real | table }}
+| {{Spirit Item| Nesting Nook | prop_r | table }}
+| {{Avail Summary | season | spirit=Nesting Nook | season=Nesting }}
+| {{Cost| ? }}
+|1
+|Placeable Decoration
+|- id="Nesting Atrium"
+| style="text-align: center;"| {{Spirit Item| Nesting Atrium | prop_f_real | table }}
+| {{Spirit Item| Nesting Atrium | prop_f | table }}
+| {{Avail Summary | season | spirit=Nesting Atrium | season=Nesting }}
+| {{Cost| ? }}
+|4
+|Placeable Decoration
+|- id="Duets Ultimate Prop"
+| style="text-align: center;"| {{Spirit Item| Duets Guide | prop_u_real | link=Duets_Guide#Duets_Ultimate_Prop | table }}
+| {{Spirit Item| Duets Guide | prop_u | link=Duets_Guide#Duets_Ultimate_Prop | table }}
+| {{Avail Summary | ultimate | season=Duets }}
+| {{Cost| N/A }}
+|1
+|Placeable Decoration
+|- id="The Pianist's Flourishing"
+| style="text-align: center;"| {{Spirit Item| The Pianist's Flourishing | prop_real | table }}
+| {{Spirit Item| The Pianist's Flourishing | prop | table }}
+| {{Avail Summary | season | spirit=The Pianist's Flourishing | season=Duets }}
+| {{Cost| unknown }}
+|1
+|Placeable Decoration
+|- id="The Cellist's Flourishing"
+| style="text-align: center;"| {{Spirit Item| The Cellist's Flourishing | prop_p_real | table }}
+| {{Spirit Item| The Cellist's Flourishing | prop_p | table }}
+| {{Avail Summary | season | spirit=The Cellist's Flourishing | season=Duets }}
+| {{Cost| unknown }}
+|1
+|Placeable Decoration
+|- id="The Cellist's Beginnings"
+| style="text-align: center;"| {{Spirit Item| The Cellist's Beginnings | prop_real | table }}
+| {{Spirit Item| The Cellist's Beginnings | prop | table }}
+| {{Avail Summary | season | spirit=The Cellist's Beginnings | season=Duets }}
+| {{Cost| unknown }}
+|1
+|Placeable Decoration
+|- id="The Pianist's Beginnings"
+| style="text-align: center;"| {{Spirit Item| The Pianist's Beginnings | prop_p_real | table }}
+| {{Spirit Item| The Pianist's Beginnings | prop_p | table }}
+| {{Avail Summary | season | spirit=The Pianist's Beginnings | season=Duets }}
+| {{Cost| unknown }}
+|1
+|Placeable Decoration
+|- id="C Rug"
+| style="text-align: center;"| {{Days_Item | c_rug | real | table | link=Workshop_Show_%26_Tell#Small_C_Rug}}
+| {{Days_Item | c_rug | prop | table | link=Workshop_Show_%26_Tell#Small_C_Rug}}
+| {{Avail Summary | limited | days=Workshop Show & Tell}}
+| {{Cost| 15 C }}<sup>(×4)</sup>
+|4
+|Placeable Decoration
+|- id="Flower Vase"
+| style="text-align: center;"| {{Days_Item | flower_vase | real | table | link=Workshop_Show_%26_Tell#Flower_Vase}}
+| {{Days_Item | flower_vase | prop | table | link=Workshop_Show_%26_Tell#Flower_Vase}}
+| {{Avail Summary | limited | days=Workshop Show & Tell}}
+| {{Cost| 10 C }}<sup>(×4)</sup>
+|4
+|Placeable Decoration
+|- id="Stick Jar"
+| style="text-align: center;"| {{Days_Item | stick_jar | real | table | link=Workshop_Show_%26_Tell#Decorative_Stick_Jar}}
+| {{Days_Item | stick_jar | prop | table | link=Workshop_Show_%26_Tell#Decorative_Stick_Jar}}
+| {{Avail Summary | limited | days=Workshop Show & Tell}}
+| {{Cost| 1 H }}<sup>(×4)</sup>
+|4
+|Placeable Decoration
+|- id="The Musicians' Legacy"
+| style="text-align: center;"| {{Spirit Item| The Musicians' Legacy | instrument_p_real | link=The_Musicians%27_Legacy#Grand_Piano | table }}
+| {{Spirit Item| The Musicians' Legacy | instrument_p | link=The_Musicians%27_Legacy#Grand_Piano | table }}
+| {{Avail Summary | season | spirit=The Musicians' Legacy | season=Duets }}
+| {{Cost| unknown }}
+|1
+|Placeable Instrument
+|- id="Duets Ultimate Prop"
+| style="text-align: center;"| {{Spirit Item| Duets Guide | instrument_u_real | link=Duets_Guide#Duets_Ultimate_Instrument | table }}
+| {{Spirit Item| Duets Guide | instrument_u | link=Duets_Guide#Duets_Ultimate_Instrument | table }}
+| {{Avail Summary | ultimate | season=Duets }}
+| {{Cost| N/A }}
+|1
+|Placeable Instrument
+|- id="The Pianist's Beginnings"
+| style="text-align: center;"| {{Spirit Item| The Pianist's Beginnings | prop_r_real | table }}
+| {{Spirit Item| The Pianist's Beginnings | prop_r | table }}
+| {{Avail Summary | season | spirit=The Pianist's Beginnings | season=Duets }}
+| {{Cost| unknown }}
+|2
+|Placeable Decoration
+|- id="The Cellist's Flourishing"
+| style="text-align: center;"| {{Spirit Item| The Cellist's Flourishing | prop_r_real | table }}
+| {{Spirit Item| The Cellist's Flourishing | prop_r | table }}
+| {{Avail Summary | season | spirit=The Cellist's Flourishing | season=Duets }}
+| {{Cost| unknown }}
+|2
+|Placeable Decoration
+|- id="Moomin Family Painting"
+| style="text-align: center;"| {{Spirit Item| Moomin Guide | prop_p_real | table }}
+| {{Spirit Item| Moomin Guide | prop_p | table }}
+| {{Avail Summary | permanent | season=Moomin }}
+| {{Cost| 35 C }}
+|1
+|Placeable Decoration
+|- id="Inspiration of Inclusion"
+| style="text-align: center;"| {{Spirit Item| Inspiration of Inclusion | prop_p_real | table }}
+| {{Spirit Item| Inspiration of Inclusion | prop_p | table }}
+| {{Avail Summary | season | spirit=Inspiration of Inclusion | season=Moomin }}
+| {{Cost| ? }}
+|1
+|Placeable Decoration
+|- id="Comfort of Kindness"
+| style="text-align: center;"| {{Spirit Item| Comfort of Kindness | prop_p_real | table }}
+| {{Spirit Item| Comfort of Kindness | prop_p | table }}
+| {{Avail Summary | season | spirit=Comfort of Kindness | season=Moomin }}
+| {{Cost| ? }}
+|1
+|Placeable Decoration
+|- id="Nesting Ultimate Prop"
+| style="text-align: center;"| {{Spirit Item| Nesting Guide | prop_u_real | link=Nesting_Guide#Nesting_Ultimate_Prop | table }}
+| {{Spirit Item| Nesting Guide | prop_u | link=Nesting_Guide#Nesting_Ultimate_Prop | table }}
+| {{Avail Summary | ultimate | season=Nesting }}
+| {{Cost| N/A }}
+|1
+|Placeable Decoration
+|- id="Instrument Stand"
+| style="text-align: center;"| {{Spirit Item| Nesting Stone Furniture | prop_i_real | link=Nesting_Workshop#Instrument_Stand | table }}
+| {{Spirit Item| Nesting Stone Furniture | prop_i | link=Nesting_Workshop#Instrument_Stand | table }}
+| {{Avail Summary | permanent | source={{Icon|Season-of-Nesting-icon.png|table|link=Nesting Workshop#Nesting Challenges|label=Nesting Challenges}} }}
+| {{Cost| 33 AC }}
+|1
+|Placeable Decoration, Displays Instruments
+|- id="SkyFest Star Jar"
+| style="text-align: center;"| {{Days Item| SkyFest Star Jar | real | link=Sky_Anniversary/2024#SkyFest_Star_Jar | table }}
+| {{Days Item| SkyFest Star Jar | icon | link=Sky_Anniversary/2024#SkyFest_Star_Jar | table }}
+| {{Avail Summary | days | days=Sky }}
+| {{Cost| 35 C }}
+|1
+|Placeable Decoration, Holdable
+|- id="Cinnamoroll Pop-Up Cafe Plushie"
+| style="text-align: center;"| {{Days Item| Cinnamoroll Plushie | real | table }}
+| {{Days Item| Cinnamoroll Plushie | icon | table }}
+| {{Avail Summary | limited | days=Cinnamoroll }}
+| {{Cost| 14.99 USD }}
+|1
+|Placeable Decoration, Huggable
+|- id="Wonderland Cafe Corridor"
+| style="text-align: center;"| {{Days Item| Wonderland Cafe Corridor | real | table }}
+| {{Days Item| Wonderland Cafe Corridor | icon | table }}
+| {{Avail Summary | l | days=Feast }}
+| {{Cost| 19.99 USD }}
+|1
+|Placeable Decoration, Interactable, Teleports to the Wonderland Cafe
+|- id="Fledgling Upright Piano"
+| style="text-align: center;"| {{Days Item| Fledgling Upright Piano | real | table }}
+| {{Days Item| Fledgling Upright Piano | icon | table }}
+| {{Avail Summary | permanent | source={{Icon|Harmony-hall-icon-Ray.png|table|link=Harmony Hall }}}}
+| {{Cost| 4.99 USD }}
+|1
+|Placeable Instrument
+|- id="Violet Crystal Prop"
+| style="text-align: center;"| {{Days Item| Violet Crystal Prop | real | table }}
+| {{Days Item| Violet Crystal Prop | icon | table }}
+| {{Avail Summary | days | days=Love }}
+| {{Cost| ? }}
+|1
+|Placeable Decoration
+|- id="Rose Bloom Jar"
+| style="text-align: center;"| {{Days Item| Rose Bloom Jar | real | table }}
+| {{Days Item| Rose Bloom Jar | icon | table }}
+| {{Avail Summary | days | days=Bloom }}
+| {{Cost| ? }}
+|1
+|Placeable Decoration
+|- id="Candle Holder"
+| style="text-align: center;"| {{Spirit Item| Nesting Stone Furniture | prop_h_real | table | link=Nesting Workshop#Stone Candle Holder }}
+| {{Spirit Item| Nesting Stone Furniture | prop_h | table | link=Nesting Workshop#Stone Candle Holder }}
+| {{Avail Summary | o | source={{Icon| Shared-space-map-icon-Ray.png|table|link=Shared Spaces#Featured Props For Shared Spaces}} }}
+| {{Cost| N/A }}
+|4
+|Placeable Decoration
+|- id="Shared Spaces Brick"
+| style="text-align: center;" |{{Icon| Shared-Spaces-Brick-prop.png| link=Shared Spaces| label=Shared Spaces | table }}
+| {{Icon| Shared-Spaces-Brick-prop-icon-Morybel-0146.png| table | link=Shared Spaces| label=Shared Spaces }}
+| {{Avail Summary | o | source={{Icon| Shared-space-map-icon-Ray.png | table | link=Shared Spaces#Featured Props For Shared Spaces}}}}
+| {{Cost| N/A }}
+|8
+|Placeable Decoration
+|- id="Shared Spaces Round Jar"
+| style="text-align: center;" |{{Icon| Shared-Spaces-Round-Jar-prop.png| link=Shared Spaces| label=Shared Spaces Round Jar | table }}
+| {{Icon| Shared-Spaces-Round-Jar-prop-icon-Morybel-0146.png| table | link=Shared Spaces| label=Shared Spaces Round Jar }}
+| {{Avail Summary | o | source={{Icon| Shared-space-map-icon-Ray.png | table | link=Shared Spaces#Featured Props For Shared Spaces}}}}
+| {{Cost| N/A }}
+|8
+|Placeable Decoration
+|- id="Shared Spaces Tall Jar"
+| style="text-align: center;" |{{Icon| Shared-Spaces-Tall-Jar-prop.png| link=Shared Spaces| label=Shared Spaces Tall Jar | table }}
+| {{Icon| Shared-Spaces-Tall-Jar-prop-icon-Morybel-0146.png| table | link=Shared Spaces| label=Shared Spaces Tall Jar }}
+| {{Avail Summary | o | source={{Icon| Shared-space-map-icon-Ray.png | table | link=Shared Spaces#Featured Props For Shared Spaces}}}}
+| {{Cost| N/A }}
+|8
+|Placeable Decoration
+|- id="Shared Spaces Bucket"
+| style="text-align: center;" |{{Icon| Shared-Spaces-Bucket-prop.png| link=Shared Spaces| label=Shared Spaces Bucket | table }}
+| {{Icon| Shared-Spaces-Bucket-prop-icon.png| table | link=Shared Spaces| label=Shared Spaces Bucket}}
+| {{Avail Summary | o | source={{Icon| Shared-space-map-icon-Ray.png | table | link=Shared Spaces#Featured Props For Shared Spaces}}}}
+| {{Cost| N/A }}
+|2
+|Placeable Decoration
+|- id="Shared Spaces Standing Lantern"
+| style="text-align: center;" |{{Icon| Shared-Spaces-Standing-Lantern-prop.png| link=Shared Spaces| label=Shared Spaces Standing Lantern | table }}
+| {{Icon| Shared-Spaces-Standing-Lantern-prop-icon-Morybel-0146.png| table | link=Shared Spaces| label=Shared Spaces Standing Lantern}}
+| {{Avail Summary | o | source={{Icon| Shared-space-map-icon-Ray.png | table | link=Shared Spaces#Featured Props For Shared Spaces}}}}
+| {{Cost| N/A }}
+|4
+|Placeable Decoration
+|- id="Shared Spaces Sparkler"
+| style="text-align: center;" |{{Icon| Shared-Spaces-Sparkler-prop.png| link=Shared Spaces| label=Shared Spaces Sparkler | table }}
+| {{Icon| Shared-Spaces-Sparkler-prop-icon-0-aliferous-twiq-0.png| table | link=Shared Spaces| label=Shared Spaces Sparkler}}
+| {{Avail Summary | o | source={{Icon| Shared-space-map-icon-Ray.png | table | link=Shared Spaces#Featured Props For Shared Spaces}}}}
+| {{Cost| N/A }}
+|4
+|Placeable Decoration
+|}
+{{Avail Legend
+| regular
+| permanent
+| guide
+| s+
+| u+
+| t*
+| r*
+| d*
+| l*
+| days
+| season
+| ultimate
+| limited
+| conditional
+| o
+}}<section end="placeable_props" />
+
+==Trivia==
+* Some Props are visible on [[Ancestors]] but have never been available to players. These include: 
+**The pot on the backs of the [[Rejecting Voyager]], [[Prairie Elder|Elder of the Prairie]], [[Troupe Greeter]] from the Season of Rhythm, and one of the [[Secret Area|Secret Area]]'s Spirits. The pots may carry butterflies that maybe presumed to recharge the player or give a boost.
+**The spear that the Cat Spirit from the [[Secret Area]] previously had on their back (now replaced by the [[Saluting_Captain#Prop|Fireworks Staff]]), along with the one the Elder of the Wasteland wields.
+**The small hammer held by the [[Slumbering Shipwright]] and the Elder of the Forest.
+**The shield held by the [[Elder of the Wasteland]] and the [[Season of The Two Embers - Part 1#Scarred Sentry|Scarred Sentry]] from the Season of the Two Embers - Part 1. As seen in Quest #4, this prop has the unique ability to protect anyone holding hands with the wielder as well as flip [[Dark Crabs#Red Shattering Crabs|Red Shattering Crabs]].
+*The Props closet was reorganized in the {{v|0.18.0}} Patch. The [[Necklaces]] (which had previously been in the Props closet) were moved to the [[Masks]] closet. The Props were separated into two tabs, and the order of the icons within each tab was reorganized.
+*The Props closet was reorganized once again in the {{v|0.25.0}} Patch. Placeable Props were further separated into two tabs based on their size (large and small) in [[Shared Spaces]].
+
+==References==
+<references />
+
+[[de:Requisiten]]
+[[pt-br:Apetrechos]]
+[[ja:持ち物アイテム]]
+[[fr:Accessoires]]
+
+[[Category:Cosmetics]]

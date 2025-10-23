@@ -1,0 +1,37 @@
+<section begin="Summary" />The Collaboration Room (often called the "Collab Room" by players) is a gateway area to the various areas linked to collaboration Seasons. The entrance is now found through the Cinema doorway, which was restored in [[Version_History#0.29.5_-_May_29,_2025|update 0.29.5]]. 
+
+Inside the Collaboration Room you’ll find a large, circular chamber with a sparkling translucent floor at its center and stepping stones leading to different exit: to the Cinema, to [[Vault of Knowledge|Vault of knowledge]] and to [[Aviary Village]].  
+<gallery widths="300" spacing="small" captionalign="center" >
+The-Collaboration-Room-1.jpg|View from the second level
+The-Collaboration-Room-2.jpg|View from the second level
+</gallery>
+<section end="Summary" />
+A transparent elevator made entirely of sparkles connects the first floor to the second and a floating lantern illuminate the Cinema entrance. The walls are lined with alcoves, some marked with glowing emblems representing different collaboration Seasons.  There are currently 18 alcoves on the first floor, and 20 on each subsequent floor in an endlessly rising structure filled with star-like lights shimmering overhead.
+Five of the alcoves are currently occupied by the following Seasonal area:
+
+*{{Season Icon|Nine Colored Deer}}[[Crescent Oasis|Crescent Oasis from the Season of the Nine Colored Deer]]
+*{{Season Icon|Little Prince}}[[Starlight Desert|Starlight Desert from the Season of The Little Prince]]
+*{{Season Icon|AURORA}}[[Valley of Triumph#Coliseum|Valley's Coliseum from Season of Aurora]]
+*{{Season Icon|Moomin}}[[Moominvalley|Moominvalley from Season of Moomin]]
+*{{Season Icon|Two Embers Part 1}}[[Season_of_The_Two_Embers_-_Part_1#The_Last_City|The Last City from Season of The Two Embers - Part 1]]
+
+Sitting at the Season's respective meditation circle teleport the player to its corresponding seasonal area.
+
+There are now two entrances to the Collaboration Room:
+*From the Vault of Knowledge, turn left from the spawn point after entering the portal. A Spirit Gate (requiring one Vault Spirit) guards this path.
+*From Aviary Village, through the Cinema doorway.
+
+This space functions as a timeless archive of Sky’s creative collaborations, allowing players to revisit them at any time.
+
+==Gallery==
+<gallery>
+Vault CollaborationRoom1.png|The old Collaboration Room
+Directions to collaboration room.gif||Reaching the old "Collaboration Room"
+</gallery>
+
+{{RealmsNav}}
+
+[[pt-br:Sala de Colaborações]]
+
+[[Category:Locations]]
+[[Category:Collaborations]]

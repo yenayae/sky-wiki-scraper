@@ -1,0 +1,208 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Action
+|image     = <gallery>
+Lightseekers-Spirit-Doublefive-Light-Catcher.png|Standard
+Lightseekers-Spirit-Doublefive-Light-Catcher-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Mask|infobox}}{{Spirit Item||Hair|infobox}}
+|instruments = {{Spirit Item||Instrument|infobox}}
+|season    = Lightseekers
+|realm     = Daylight Prairie
+|location  = Bird Nest
+|ts        = May 23, 2024 (#114)<br>July 21, 2022<ref name="TS66_extended"/> (#66)<br>April 15, 2021 (#33)<br>February 14, 2020 (#2)
+}}
+<section begin="Summary" />The '''Doublefive Light Catcher''' is a [[Seasonal Spirit]] from the [[Season of Lightseekers]] who offers the {{Emote|Doublefive Light Catcher|inline_text}}. The Doublefive Light Catcher is found on the central floating island of the [[Bird Nest]], behind the small tower. The collectibles [[Doublefive Light Catcher#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Doublefive Light Catcher|Mask|inline_text}}, a {{Spirit Item|Doublefive Light Catcher|Hair|inline_text}}, and the {{Spirit Item|Doublefive Light Catcher|Instrument|label=Flute Instrument|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Doublefive-Light-Catcher-promo-image.jpg|thumb|320px|none|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|2aG82OgzAaI||inline|Video Guide}}
+
+The Doublefive Light Catcher is found on the central floating island of the [[Daylight Prairie#Bird's Nest|Bird's Nest]], behind the smallest tower, on the player's left when entering by the Butterfly Fields entrance. This Spirit has a [[Carry Spirit Memory|carry spirit memory]] with 4 memory fragements and a 6-minute overall [[Timed Memory|time limit]].<br>
+<br>
+This Spirit memory is relatively easy, with the only difficult portion involving carrying the light to the top of the broken tower, since part of the wall is missing. This portion can either be completed by using the advanced technique of carrying the light by flying, or by making their way up from inside the broken tower, jumping across a series of planks. 
+
+As their memory unfolds, the Doublefive Light Catcher can be seen playing the flute with a friend as they make their way to the top of the broken tower. The last fragment shows the Spirits sharing a double high five. <br>
+<br>
+[[File:01 DP Spirit - Doublefive Light Catcher.png|200px|thumb|none|Relive the Doublefive Light Catcher's memory]]
+</div>
+{{Clear}}
+
+== <span id="Expression">Friend Action</span> ==
+''Note: While this Spirit can be found in Isle, the upgrade to the "Double-Five" Friend Action will not be available for those who missed the Season or those who did not purchase the [[Season Pass]] until the Spirit returns as a Traveling Spirit.''
+
+This Spirit offers the {{Emote||inline_text}}, which has 2 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Doublefive-Light-Catcher-double-five-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Doublefive-Light-Catcher-double-five-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+</gallery>
+*Level 1 will make your avatar hold out their hands, palms facing up, and crouch infront of your friend, which will raise their arms and slam them down to slap both your avatar's hands, before turning with a little jump, their back facing you, and face their palms up behind their back, before your avatar slaps your friend's hands after raising their arms and slamming them down.
+* Level 2 makes the same motion as Level 1, with white sparkles bursting from the avatar's hands on impact of the slaps.
+
+Like any [[Friendship Menu#Extended Two-Player Abilities|Extended Two-Player Abilities]], this ability can be upgraded by opening your friend's Friendship Menu. To reach the 5th node before the ability, it will cost you {{Cost|6 C}} and {{Cost|1 AC}}. (See [[Friendship Menu]] to view the entire Friendship Tree). Unlocking the Level 1 ability will cost you {{Cost|3 C}}. After unlocking Level 1, it will cost you {{Cost|4 C}} more to upgrade to Level 2.
+
+As a Traveling Spirit, the price of the Friend Action upgrade was {{Cost|7 H}}. During the Season, Level 1 was free, but Level 2 was only available to [[Season Pass]] holders.
+
+== Cosmetics ==
+=== Mask ===
+The [[Mask]] offered by this Spirit is plain and beige, with one blue line under each eye, bent in the middle, costing {{Cost|24 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's third node ({{Cost|10 SC|season=Lightseekers}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Hair ===
+The [[Hair]] offered by this Spirit is a wide, round hat with a brown top, blue underside and chin strap, as well as small glowing light-balls around the edge and tied up hair underneath, costing {{Cost|34 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|4 SC|season=Lightseekers}} total). Note that this item is considered a Hair, not a [[Hair Accessory]], and as such it can not be worn over other Hairstyles.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair front
+{{Icon Name||Hair|side}} {{!}} The Hair side
+{{Icon Name||Hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Instrument ===
+The [[Instrument]] offered by the Doublefive Light Catcher is the '''Flute''', costing {{Cost|55 C}} from the Traveling Spirit. It is purple with lighter-colored triangles on the sides and is held horizontally. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|18 SC|season=Lightseekers}} total). The player is standing up while playing the Instrument, which plays 15 notes.
+
+The Flute plays the wind [[Music Sheet Parts|part]] on Music Sheets. Its [[Instrument Pitch|pitch]] the same as the standard {{Spirit Item|Cheerful Spectator|Instrument|inline_text}} (in C major, it covers C<sub>4</sub> to C<sub>6</sub>).
+
+In [[Harmony Hall]], the Flute can be found on the back wall, behind and to the right of the front counter, propped up against the wall next to the alcove containing the [[Panflute]] and [[Horn]].<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Instrument|icon}} {{!}} The Instrument icon
+{{Icon Name||Instrument|real}} {{!}} The Instrument
+{{Icon Name||Instrument|held}} {{!}} Playing the Instrument
+{{Icon Name||Instrument|back}} {{!}} The Instrument on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Traveling Spirit ==
+[[File:Traveling Lightseekers Prairie.png|200px|right|thumb]]
+{{Friendship Tree Info | traveling
+|ts_dates=*May 23, 2024 (#114)
+*July 21, 2022<ref name="TS66_extended">The July 21 visit lasted until [https://discord.com/channels/575762611111592007/575768778789617674/1000213305635385524 the end of Tuesday, July 26 (instead of Sunday, July 24)] to accommodate users impacted by the DDoS server issues.</ref> (#66)
+*April 15, 2021 (#33)
+*February 14, 2020 (#2)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Doublefive Light Catcher
+|season = Lightseekers
+|image  = Lightseekers-Spirit-Doublefive-Light-Catcher.png
+
+|nodeC5 = Hair 34 C
+|nodeL4 = emote2 7 H
+|nodeC4 = spell5
+|nodeR4 = Instrument 55 C
+|nodeC3 = wing
+|nodeL2 = Mask 24 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+No hints were given before the [[Doublefive Light Catcher]]'s first appearance.
+
+The hints given before the [[Doublefive Light Catcher]]'s second appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Second Visit Hints
+|content=<div>
+* Is not my cat
+* Likes to write sad poetry
+* Hates being late to meetings
+* Is a vegetarian
+* Enjoys romcom movies
+* Is NOT from a future season in 2022
+* Likes strawberry ice cream
+* Breathes
+* Reminds you to stay hydrated
+* Likes collecting rocks
+* Has never done the 8 gate successfully
+* Prefers cloudy days
+* Prefers tea over coffee
+* Likes birdwatching together with Sparkler Spirit
+* Needs a chair, they're standing for 4 days straight!
+* Is actually nervous around crabs
+* Reads the morning paper
+* Likes to explore hidden ruins
+* Likes singalong songs
+* Prefers strawberry ice cream
+* Is great at playing dominoes
+* Can't wait to be your friend 
+* May even have star patterns in its body too
+* Loves music, but sings off key
+* Is a cheerleader for their friends!
+* Is making lunch for the Assembly kids
+* Loves Skykids
+* Loves blueberry muffins
+</div>}}
+
+The hints given before the [[Doublefive Light Catcher]]'s third appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Third Visit Hints
+|content=<div>
+* Has the loudest whistle of their group
+* Is always willing to lend a hand
+* Is an extrovert
+* Enjoys making their friends laugh
+* Is reminding you to use sunscreen!
+* Enjoys freestyle music
+* Has identified 21 species of birds!
+* Is mildly afraid of one spirit in their season group (crab call due to Days of Bloom)
+* Gets sunburned easily
+* Is nervous about their singing voice
+* Thinks plants with flowers are better than other plants
+* Their favorite snack is light mochi
+* Has hands
+* Likes jamming to music with others
+* Is proud of their rock collection
+* Is still waiting for help at the 8 gate
+* Makes lightsaber noises when they pretend swordfight
+* Loves seeing you succeed at your goals
+</div>}}
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Lightseekers}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Doublefive Light Catcher
+|type   = season
+|season = Lightseekers
+|image  = Lightseekers-Spirit-Doublefive-Light-Catcher.png
+
+|nodeC5 = Instrument AP
+|nodeC4 = spell5 8 SC
+|nodeL3 = emote2 AP
+|nodeC3 = Mask 6 SC
+|nodeL2 = Hair AP
+|nodeC2 = spell5 4 SC
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Image Gallery==
+<gallery widths="125" spacing="small" captionalign="center" >
+lightseekers prairie emote.GIF
+lightseekers prairie FULL.png
+</gallery>
+
+==Video Gallery==
+{{#ev:youtube|nQUnUlwujMc|175|inline|Video Guide by Tara}}
+
+==References==
+<references/>
+[[fr:Attrapeur de lumière amical]]
+[[de:Doppel-Five-Lichtfänger]]
+[[pt-br:Caçador de Luz Celebrante]]
+[[ru:Ловец света «дай пять»]]
+[[ja:ダブルタッチの光採取者]]
+
+[[Category:Season of Lightseekers]]

@@ -1,0 +1,46 @@
+{{WIP
+|pagetype = creature
+|placedby = 
+|comment  = You can help expanding this page by adding more details.  
+}}
+{{Creature Infobox
+|title    = Jellyfish
+|type     = light
+|image    = A-Royal-Jellyfish.png
+}}<section begin="Summary" />Jellyfish in Sky are translucent creatures with many tentacules-legs that can replenish your cape energy. A Call that mimics the Jellyfish can be learned from the [[Jelly Whisperer]] spirit, introduced in the Season of Sanctuary.<section end="Summary" />
+
+==Locations==
+Jellyfish are most common in [[Hidden Forest]] and [[Sanctuary Islands]], but can also be found in the entrance to the [[Daylight Prairie#Eight Player Puzzle|eight player puzzle area]], under the frozen lake in [[Valley of Triumph]], during certain parts of the [[AURORA Concert]], in the [[Jellyfish Cove]], and in the final parts of Eden.
+
+==Appearance==
+Jellyfish are semi-transparent, with golden markings on their bells and six tentacles. Smaller jellyfish can be found in many areas of the game, and larger ones<!-- (that a player is able to ride)--> appear only in certain areas of the Hidden Forest, Sanctuary Islands, Vault of Knowledge, and the Eye of Eden.
+
+There are also cosmetics inspired by these creatures. The [[Jelly Whisperer]] spirit offers a hairstyle that mimics the appearance of a jellyfish, and the Jellyfish Tree of the [[Ancient Light]] offers a jellyfish-shaped cape and a hairstyle reminiscing of a [[#Large/Royal Jellyfish|Royal Jellyfish]].
+
+==Abilities==
+Large jellyfish are able to recharge players who land on them, and help them remain afloat. Upon being dismounted, they produce a call that restores cape energy further. Jellyfish can therefore be used to get to hard-to-reach areas of the game, and are needed in order to reach the Hidden Forest's temple.
+
+Not all Jellyfish can be landed on, nor recharge Wing Power. In that case they're simply floating for scenery and have no impact to the gameplay at all. Both of these variants can be found inside Sanctuary Islands, although the smaller ones will float up a noticeable distance when being approached by a player.
+
+Jellyfish in the Sanctuary cove (with the [[Jelly Whisperer]] spirit), the [[Jellyfish Cove]], and before the Forest temple will answer when players honk.
+
+During certain parts of the [[AURORA Concert]], players are transformed into jellyfish. Flight is awkward in this form, but cape energy can still be expended to give the player a flight boost.
+
+<gallery widths="220" spacing="small" captionalign="center" >
+File:Jellyfish.JPG|Jellyfish summoned at the steps of the Hidden Forest's temple
+File:AuroraConcertPlayerJellyfish.jpg|Players transformed into jellyfish during the AURORA Concert
+</gallery>
+
+==Large/Royal Jellyfish==
+This variant of Jellyfish is found exclusively in [[Eye of Eden#Ascent and Orbit|Eye of Eden (Spoilers!)]] and during certain parts of the [[AURORA Concert]]. They look and act similarly to their standard counterparts, aside from their significantly larger size, a lack of speckled stars or trim, eight tentacles, and a "crown" atop their heads. Players were able to purchase a hairstyle that is similar in appearance to the royal jellyfish from the [[Ancient Light]].
+
+<gallery widths="220" spacing="small" captionalign="center" hideaddbutton="true">
+Jelly Row.jpeg|A row of "royal" Jellyfish
+File:A-royal-jellyfish-in-Eden.jpg|A single jellyfish in Eden
+File:RoyalJelliesAurora.png|Royal jellyfish in the AURORA Concert
+</gallery>
+
+[[fr:Méduse]]
+[[de:Quallen]]
+[[pt-br:Águas-Vivas]]
+[[ja:光の海月]]

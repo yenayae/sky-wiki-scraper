@@ -1,0 +1,158 @@
+{{Guide Infobox
+|image     = <gallery>
+Shattering-Guide-The-Void-of-Shattering.png|Standard
+The-Void-of-Shattering-Blue.png|Memory Variant
+</gallery>
+|ultimates = {{Spirit Item||cape_m|link=#Shattering Ultimate Manta Cape|infobox}}{{Spirit Item||cape_k|link=#Shattering Ultimate Krill Cape|infobox}}
+|season    = Shattering
+|location  = Void
+}}
+<section begin="Summary" />'''{{PAGENAME}}''' is a Seasonal Guide (also known as Quest Giver) from the [[Season of Shattering]] who offered quests and [[The Void of Shattering#Ultimate Gifts|cosmetics]]. {{PAGENAME}} was available at Home during the Season. It is now only accessible on days with '''Red''' [[Shard Eruptions]] after cleansing the Darkness and meditating to enter the Ancient Memory. The Ultimate Guide offered a {{Spirit Item||necklace_u|link=#Shattering Ultimate Pendant|inline_text}}, a {{Spirit Item||cape_m|label=Shattering Ultimate Manta Cape|link=#Shattering Ultimate Manta Cape|inline_text}}, and a {{Spirit Item||cape_k|label=Shattering Ultimate Krill Cape|link=#Shattering Ultimate Krill Cape|inline_text}} for [[Season Pass]] holders.<section end="Summary" />
+
+==<span id="Ultimate Pendant"><span id="Shattering Ultimate Pendant">Seasonal Pendant</span></span>==
+The Shattering Ultimate [[Necklaces|Pendant]] is the usual gold pendant featuring the Season's emblem attached to a necklace. It was a [[Season Pass]] exclusive item during the Season, available for free from the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||necklace_u}} {{!}} Shattering Ultimate Pendant icon
+SOShattering-pendant.png {{!}} Shattering Ultimate Pendant
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Ultimate Gifts==
+The Void of Shattering Guide offered 2 Ultimate Gifts, available to be purchased by [[Season Pass]] holders with [[Currency#Season Hearts|Seasonal Hearts]] during the Season of Shattering only.
+
+===Shattering Ultimate Manta Cape===
+The Shattering Ultimate Manta [[Cape]] is white and in the shape of a [[manta]], with golden accents around the tail, wings and neck. It was a [[Season Pass]] exclusive item during the Season, available for {{Season Heart|2|season=Shattering}} after unlocking the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||cape_m}} {{!}} Shattering Ultimate Manta Cape icon
+{{Icon Name||cape_m|front}} {{!}} Shattering Ultimate Manta Cape front
+SOShattering-ultimate-Cape-manta-front-butterfly.png {{!}} Shattering Ultimate Manta Cape interior
+{{Icon Name||cape_m|back}} {{!}} Shattering Ultimate Manta Cape back
+SOShattering-ultimate-Cape-manta-back-butterfly.png {{!}} Shattering Ultimate Manta Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Shattering Ultimate Krill Cape===
+The Shattering Ultimate Krill [[Cape]] is black and spiky, in the shape similar to a [[Krill]] with bat-like wings, a spiky tail and a fluffy neckpiece. It was a [[Season Pass]] exclusive item during the Season, available for {{Season Heart|2|season=Shattering}} after unlocking the Friendship Tree's second node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||cape_k}} {{!}} Shattering Ultimate Krill Cape icon
+{{Icon Name||cape_k|front}} {{!}} Shattering Ultimate Krill Cape front
+SOShattering-ultimate-Cape-krill-front-butterfly.png {{!}} Shattering Ultimate Krill Cape interior
+{{Icon Name||cape_k|back}} {{!}} Shattering Ultimate Krill Cape back
+SOShattering-ultimate-Cape-krill-back-butterfly.png {{!}} Shattering Ultimate Krill Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Friendship Tree==
+The Void of Shattering Guide's Friendship Tree was available on the right of the Quest Tree during the Season of Shattering only. Now that the Season is over, these Cosmetics are no longer available.  
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = The Void of Shattering
+|image  = Shattering-Guide-The-Void-of-Shattering.png
+|type   = season
+|season = Shattering
+
+|nodeC3 = cape_k 2 SH AP
+|  linkC3 = The Void of Shattering#Shattering Ultimate Krill Cape
+
+|nodeC2 = cape_m 2 SH AP
+|  linkC2 = The Void of Shattering#Shattering Ultimate Manta Cape
+
+|nodeC1 = necklace_u AP
+|  linkC1 = The Void of Shattering#Shattering Ultimate Pendant
+}}<section end="Friendship Tree" />
+
+==Quest Tree==
+The Void of Shattering Guide's Quest Tree is available for all players to complete quests from the [[Season of Shattering]]. Once you completed a quest, a heart was available to be collected for free during the Season of Shattering only. Since the end of the Season, players completing the Quests for the first time have to pay {{Candle|3}} to obtain these Hearts. Players can only access the Guide in the Ancient Memory on days with '''Red''' [[Shard Eruptions]].
+<section begin="Quest Tree" />{{Mobile Tabber
+|tab1 = Post-season
+|c1   = {{Friendship Tree
+|spirit = The Void of Shattering
+|image  = Shattering-Guide-The-Void-of-Shattering.png
+
+|nodeC7 = heart
+|  noteC7 = <ref name="quest_heart"/>
+
+|nodeC6 = quest
+|  linkC6 = Season_of_Shattering#Quest_#6
+|  labelC6 = Quest 6
+
+|nodeL5 = heart
+|  noteL5 = <ref name="quest_heart"/>
+|nodeC5 = quest
+|  linkC5 = Season_of_Shattering#Quest_#5
+|  labelC5 = Quest 5
+
+|nodeL4 = heart
+|  noteL4 = <ref name="quest_heart"/>
+|nodeC4 = quest
+|  linkC4 = Season_of_Shattering#Quest_#4
+|  labelC4 = Quest 4
+
+|nodeL3 = heart
+|  noteL3 = <ref name="quest_heart"/>
+|nodeC3 = quest
+|  linkC3 = Season_of_Shattering#Quest_#3
+|  labelC3 = Quest 3
+
+|nodeL2 = heart
+|  noteL2 = <ref name="quest_heart"/>
+|nodeC2 = quest
+|  linkC2 = Season_of_Shattering#Quest_#2
+|  labelC2 = Quest 2
+
+|nodeL1 = heart
+|  noteL1 = <ref name="quest_heart">During the Season of Shattering, the hearts available from the The Void of Shattering after completing each quest were free.</ref>
+|nodeC1 = quest
+|  linkC1 = Season_of_Shattering#Quest_#1
+|  labelC1 = Quest 1
+}}
+
+|tab2 = Mid-season
+|c2   = {{Friendship Tree
+|spirit = The Void of Shattering
+|image  = Shattering-Guide-The-Void-of-Shattering.png
+|type   = season
+|season = Shattering
+
+|nodeC7 = heart free
+
+|nodeC6 = quest
+|  linkC6 = Season_of_Shattering#Quest_#6
+|  labelC6 = Quest 6
+
+|nodeL5 = heart free
+|nodeC5 = quest
+|  linkC5 = Season_of_Shattering#Quest_#5
+|  labelC5 = Quest 5
+
+|nodeL4 = heart free
+|nodeC4 = quest
+|  linkC4 = Season_of_Shattering#Quest_#4
+|  labelC4 = Quest 4
+
+|nodeL3 = heart free
+|nodeC3 = quest
+|  linkC3 = Season_of_Shattering#Quest_#3
+|  labelC3 = Quest 3
+
+|nodeL2 = heart free
+|nodeC2 = quest
+|  linkC2 = Season_of_Shattering#Quest_#2
+|  labelC2 = Quest 2
+
+|nodeL1 = heart free
+|nodeC1 = quest
+|  linkC1 = Season_of_Shattering#Quest_#1
+|  labelC1 = Quest 1
+}}
+}}<section end="Quest Tree" />
+
+==References==
+<references />
+
+[[pt-br:O Vazio Despedaçado]]
+[[ja:砕ける闇の虚]]
+[[fr:Le Néant de l'Éclatement]]
+[[de:Die Leere der Zertrümmerung]]

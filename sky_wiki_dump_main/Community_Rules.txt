@@ -1,0 +1,167 @@
+'''Welcome to the ''Sky: Children of the Light'' Wiki!''' Please familiarize yourself with the Rules and Guidelines outlined below. These rules apply to the Discussions, User Blogs, User Profiles, Wall messages, and all comments. The consequences for violating the rules are outlined in [[Help:Blocking Policy]].
+
+If you need help, you can contact an [[Help:Admins_and_Moderators|admins and mods]] via our Walls, through {{Sky Wiki Socials|Discord|format=inline}}, or use the {{Sky Wiki Socials|Report|format=inline}}.
+
+==Editing==
+If you see something that needs updating, don't assume it was left there on purpose. Contributors and Administrators are real people who are editing <u>voluntarily</u>. '''TGC does not manage this wiki.'''
+
+When you're ready, please read our '''[[Wiki Guidelines for Editing|Editing Guidelines]]''' to get started. Anyone is free to edit here, so make an account, click edit, and get started!
+
+===Practice open-mindedness & assume good faith===
+Since this wiki is open to edit by anyone, users of all skill levels and opinions are welcome to participate. We assume that most people who work on a wiki are trying to help it, not hurt it. If this wasn't true, any collaborative project would be doomed from the start. If you think there is a problem, it's best to ask the user about the issue first, then take any additional steps if necessary.
+
+=== Don't plagiarize content ===
+If you are bringing content to Fandom or taking it from here (or to another site), please remember to '''cite the authors properly'''. Don't assume that everything on the Internet is open for the taking. Make sure you have permission by the creator and follow the proper attribution rules. Everyone likes credit for their hard work!
+
+== Behavior ==
+=== Be nice ===
+Being friendly and nice goes a long way, no matter where you are. Say hello to others, provide help where you can, and ask others if you need assistance. Simply being nice can greatly impact the growth and success of a community.
+
+=== Always remember online communities still involve real people ===
+Even though you are online, this is still a community made up of real people. Mean comments, aggressive behavior, and vandalism all affect real people. If you wouldn't say it in person, don't say it here. If it breaks [https://www.fandom.com/terms-of-use Fandom's Terms of Use], please don't say it at all.
+
+=== Keep things family-friendly and inclusive ===
+All inappropriate content and discriminatory behavior (outlined below) is prohibited. This includes usernames, nicknames, and profile pictures. No profanity, inappropriate gestures, adult themes, drugs, smoking, alcohol, violence, and other NSFW topics. Your posts will be deleted and your account will '''be banned'''.
+
+An excerpt from [https://www.fandom.com/terms-of-use Fandom's Terms of Use]:
+::You agree not to post, link or transmit any written, visual, or symbolic content that is obscene, pornographic, abusive, offensive, profane, or otherwise violates any law or right of any third party, or encourages criminal conduct, or contains slurs, hate speech, dog whistles, and/or incitement of violence. This includes, but is not limited to: ableism, ageism, biphobia, discrimination based on family structure(s), ethnocultural discrimination, exorsexism, gender essentialism, homophobia, misogyny, polyphobia, racism, religious or areligious intolerance, sexism, and transphobia.
+
+=== Minimal Politics and Avoid Misinformation ===
+Political comments should be relevant, factual, and respectful. "Politics" includes anything related to governance, public policy, international relations, rights, social justice, and more. We don't have a strict "no politics" rule, as that would prohibit all of the previously listed topics from being mentioned. We will review mentions of specific political figures, places, or events to ensure they align with our family-friendly guidelines and don't spread misinformation. Mods may remove or lock discussions if they become disruptive at their own discretion.
+
+==Content==
+=== Stay on topic and in English ===
+Please keep all discussions in English and about the game, TGC (thatgamecompany), or the ''Sky'' Wiki. Off-topic and non-English conversations will be deleted. To address specific concerns:
+* Sky kid introductions and farewells may be posted under the "General" category.
+* Lore and creative writing are welcome, as long as they are about ''Sky''.
+* Any crossover content must prominently feature ''Sky'' elements.
+* We allow more flexibility for User Profile and Wall messages, but they should still be respectful and appropriate for our community.
+
+=== No AI-generated content ===
+No AI-generated artwork, writing, character conversations, or other works are allowed in Discussions. We believe a majority of AI models are unethically trained on data without consent, so we've decided to remove all posts, blogs, comments related to AI creations.
+
+=== No hacked content ===
+No posts, images, tutorials, or instructions related to exploiting, cheating, hacked content, or modded versions of the game. It's against [https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/faq/460-eula-terms-of-service/ TGC's Terms of Service]. For more information, read the following TGC's Code of Conduct help pages:
+*[https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/faq/1250-can-i-use-or-create-third-party-applications-like-mods-or-bots/ Do not use mods or bots]
+*[https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/faq/696-can-i-create-games-or-mods-for-sky/ Do not make mods for Sky]
+*[https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/faq/470-what-are-the-consequences-of-hacking-or-using-an-exploit/ Consequences of hacking]
+
+Discussions about Out of Bounds (OOBs) are allowed, as these are achieved in-game '''without hacking'''. For more information, see the [[Out of Bounds]] page.
+
+=== Mark your spoilers ===
+Any posts discussing upcoming or unannounced content from the Beta, or end-game content, easter eggs, and secret areas or levels needs to: 
+* Have a title that does not reveal the spoiler content
+* Be titled with a "Spoilers" warning
+* Be posted under the "Beta (Spoilers)" tag
+* Include a few newlines (at least 27) at the start your post, so the full content won't show when scrolling through Discussions
+
+=== No promoting or advertising ===
+No promoting and advertising other social media accounts, websites, and external communities. This includes, but is not limited to: other Discord servers, Twitch channels, YouTube channels, buying, trading, or selling goods and services, with some exceptions, explained in the section below. If it is a Sky-related community, you can [[#Ask for Help|request permission from the admins]] and specific exceptions can be made.
+
+=== No soliciting or exchanging for IAP ===
+For security reasons, soliciting, requesting, or exchanging with others for '''real life currency''' such as '''IAPs and Season Passes''' are not permitted in the community Discussions or on personal profiles. This includes but is not limited to:
+* Requests to buy a Season Pass or IAP
+* Requests to heart exchange for a Season Pass or IAP
+* Requests for commissions in exchange for a Season Pass or IAP
+
+<u>'''Exceptions:'''</u> Heart exchanges for any other non-monetary item, such as an art commission, between players are permitted under the "QR and Heart Exchange" Discussion tag. Art trades and free commissions are also allowed.
+
+=== No spamming ===
+No spamming, trolling, or vandalizing. Don't use the wiki to spam your own links. This includes making a chain of comments and pasting the same message multiple times to where it can be considered as "flooding," in articles, comments, and posts. Spam will be removed and your account will '''be banned'''.
+
+=== No necroposting ===
+No necroposting or necroupvoting in Discussions. Please do not reply to or upvote a Discussions thread with an original post date from more than '''three months ago'''. For your convenience, [[User:PyriBot|PyriBot]], our Sky Wiki bot, will be automatically locking the threads that are too old and should not be interacted with. [[User:PyriBot|PyriBot]] is not running 24/7 so there may be old threads that aren't locked immediately. You will not be penalized for interacting with those threads, but it is recommended to start a new thread if you want to discuss that topic. The main intention of the rule is to reduce the amount of notification spam for our users.
+
+==Account and Profile==
+=== Respect people's privacy ===
+Users are entitled to their privacy. Do not solicit other users for personal information.
+
+=== Limit your profile details especially for underage members ===
+'''Please do not identify yourself as a minor''' as Fandom has restriction regarding underage identification (Read Fandom's [https://www.fandom.com/terms-of-use Terms of Use]). There isn't an age limit for reading the information on this wiki.
+
+Do not give out personal information on your profile or anywhere else. Avoid mentioning details such as your ''full name, full age or age group, exact address, phone number, email address, etc''. At your own risk, you may state your gender, gender identity, sexual orientation, timezone, country, or other broad details. Failing to respect can result in your account '''being banned by Fandom'''.
+
+If you want to share Sky cosplay, please ensure no identifying details are visible, such as street signs, and that your face is covered or cropped out.
+
+=== No impersonating or sockpuppeting ===
+Impersonation of other users or famous people will not be tolerated. If you have been banned and return on a new account, your posts will be deleted and your new account(s) will '''be banned'''.
+
+Multiple accounts are allowed as long as they are not used for deceit and should clearly state which user originally owns them.
+
+==Communication and Moderation==
+===Message Filters===
+The community has a [[w:Help:DiscussionsAbuseFilter|Discussions Abuse Filter]] feature enabled. It automatically checks for profanity and harassment and prevents those messages from being posted. From a user's perspective, you'll click the post button and then nothing happens. A notice should pop-up in the bottom left corner when a message gets caught by the filter. 
+
+The feature also prevents non-admins from posting in the "Admin Notices" category. 
+
+We'll periodically check message caught in the filter and address any severe cases. If you believe you had a message incorrectly impacted by the filter, you can [[#Ask for Help|contact an admin]]! 
+
+===Communication===
+Here are some key communication guidelines and information on how to approach disagreements. Friend groups can have misunderstandings, but it’s important to handle these situations with empathy and a level head:
+
+* '''Be Respectful''' — In face-to-face conversations, we rely on body language, eye contact, and tone, but in written messages, all we have is text. There’s a real person behind the screen who can make mistakes, typos, or skip over words. In disagreements, be mindful that there could have been a misunderstanding. Stay calm, but if you need to, step back from the situation. Express your opinions without using aggressive language.
+
+* '''Listen to Both Sides of the Story''' — If you're in a disagreement, try to understand the other person’s point of view before jumping to conclusions. Clarify and listen to their full explanation. If you’re hearing about a disagreement secondhand, approach it with an open mind. It's not about distrusting your friend but ensuring you're seeing the full picture—your friend may have missed something in the heat of the moment.
+
+* '''Agree to Disagree''' — Friends don’t need to agree on everything. You can have different opinions while still being friends. Agreeing to disagree is perfectly fine as long as mutual respect remains intact.
+
+* '''Recognize Gossip''' — Be mindful when a conversation shifts toward gossip. If it’s about talking negatively or judgmentally about someone behind their back, it’s gossip. If you're unsure, ask yourself if the conversation is respectful and if the person being discussed would feel comfortable with it.
+
+* '''Put Yourself in Their Shoes''' — Imagine receiving your response from their perspective. Before hitting send, take a moment to re-read your message and consider whether you'd be comfortable receiving it yourself. Would it make you feel understood or frustrated?
+
+===Setting Boundaries<span id="DNI"></span>===
+;''For reference, this section can be link directly using: [[Help:DNI]] or [[Help:Mute]].''
+For regular users, Fandom does not offer a way to block or mute other users. If there is a need for a boundary to be set, please follow these guidelines when sending a "Do Not Interact" (DNI) message to another person. Your message:
+
+* Should be sent '''privately, if possible'''. Otherwise, you may post it to this person's Message Wall
+* Should have a valid and clear reason based on firsthand conflict between you and this person. Do '''NOT''' disclose the explicit details
+* Must state a definitive period of time '''up to 2 weeks'''
+* Should be worded politely
+* Must allow some initial leeway for questions on clarifications and potential to clear the air if there's been a misunderstanding
+* Prevents this person from messaging your wall, responding to your posts or comments, pinging you, and editing your profile page
+* Means that both you and the person are permitted to comment on a third-party's post
+* Implies that this person is blocked on Sky
+
+Reasons to escalate to a [[#Ask for Help|mod or admin]]:
+* If the reason is a serious matter and would be a Community Rule violation
+* If a longer period of time is desired
+* If you feel unsafe or uncomfortable
+
+All violations of your boundaries should also be [[#Ask for Help|reported to a mod or admin]] to verify and handle. Confrontation is prohibited and will only escalate the situation.
+
+Example: "Please do not interact with me on the wiki or in Sky for one week. I feel uncomfortable being around you after our argument yesterday and need some time to myself. Thank you for understanding."
+
+===Online Harassment===
+What is considered harassment? If someone is: 
+* making repeated unwanted and rude comments or messages,
+* contacting someone despite being asked to stop,
+* revealing someone else's personal information without their permission, or
+* following someone to another community to continue unwanted messages or to circumvent a block in another community.
+
+If you don't want to directly reach out to [[#Ask for Help|a mod or an admin]] or and see an upsetting message, you can always report a message by clicking the 3-dot menu. An admin or mod will definitely see it. We'll take note of any repeated negative behavior and act accordingly. 
+
+We cannot directly remedy the harassment in-game or on other social media. You should know that you should use the tools available to you to combat harassment and protect yourself. In Sky, the Block and Report a Friend buttons are in the Friendship menu and can also be accessed in your Constellation Table (scroll down). You can also report lit strangers in the Friendship menu's right branch's top icon, or their chat message if you're at a table with someone. See this page for more info: [[Constellation_Table#Block_a_Friend]].
+
+Remember, the best course of action against sources of harassment is to report them, block them, and move on. Further interactions with them in order to defend yourself or to retaliate is exactly what the harasser is looking for. Don't add fuel to their fire. Don't feed the trolls.
+
+Here are resources for some of the other social media platforms:
+* Fandom: https://support.fandom.com
+* Discord: https://discord.com/safety/360044103651-reporting-abusive-behavior-to-discord
+* YouTube: https://support.google.com/youtube/topic/2803138?hl=en&ref_topic=6151248
+* Twitter/X: https://help.twitter.com/en/safety-and-security/report-abusive-behavior
+* Facebook: https://www.facebook.com/help/263149623790594/
+* Instagram: https://help.instagram.com/192435014247952
+* Threads: https://www.facebook.com/help/instagram/6602413966453273
+* TikTok: https://support.tiktok.com/en/safety-hc/report-a-problem
+* Reddit: https://www.reddithelp.com/en/categories/rules-reporting
+* Bluesky: https://bsky.social/about/blog/5-19-2023-user-faq
+* WhatsApp: https://faq.whatsapp.com/general/security-and-privacy/staying-safe-on-whatsapp/
+* Snapchat: https://www.snap.com/en-US/safety/safety-reporting
+
+== Ask for Help ==
+If you are confused or need help, just ask! There is a lot of help all around you on Fandom, including our [https://sky-children-of-the-light.fandom.com/wiki/Special:PrefixIndex?prefix=&namespace=12&hideredirects=1 Help pages], [[w:Help:Contents|Fandom's Help pages]], [https://sky-children-of-the-light.fandom.com/f Discussions], local [[Help:Admins_and_Moderators|admins and mods]], {{Sky Wiki Socials|Discord|format=inline}}, {{Sky Wiki Socials|Report|format=inline}}, and [[w:Special:Contact|Fandom staff]]. No question is too small!
+
+== Never forget to have fun! ==
+Community sites are places to have fun, meet new people, and learn more about your favorite topics. There is serious work to be done, but you should always remember to enjoy what you are doing!
+
+[[Category:About Sky Wiki]]

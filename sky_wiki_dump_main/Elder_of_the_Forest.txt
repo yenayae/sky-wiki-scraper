@@ -1,0 +1,81 @@
+{{WIP
+|pagetype = elder
+|placedby =
+|comment  =
+}}
+{{Spirit Infobox
+|type       = Elder
+|image      = Elder-Spirit-Forest.png
+|emote_type  = none
+|cosmetics  = {{Spirit Item||facepiece|infobox|label=Forest Elder Face Accessory}}{{Spirit Item||Hair|infobox|label=Forest Elder Hair}}
+|realm      = Hidden Forest
+|location   = Forest Temple
+|related    = {{Spirit Group|elder|infobox|exclude={{PAGENAME}}}}
+}}
+
+The '''Elder of the Forest''' (also known as '''Forest Elder''') can be found at the [[Forest Temple]] at the end of the [[Tree Tunnels]] and [[Boneyard]] in [[Hidden Forest]]. Relive the Elder's memory to activate all the Spirits that you previously found in the [[Hidden Forest]] and open the way to [[Valley of Triumph]]. 
+
+==Memory==
+<div>
+{{#ev:youtube|BENMCD78QRY||inline|Forest Elder Cutscene}}
+The Elder is sitting on an anvil in front of the altar, looking at the broken stone fragments floating in their hand. They let the shards fall away as they rub their wrist.
+
+The small child (you) walks up from behind with a flame in hand. The Elder turns around after sensing your presence. They hop off the anvil and land in front of the child. You timidly look up at them towering over you and back at the flame in your hands. The Elder snatches the flame and brings it to the anvil. With their robe now glowing, the Elder stretches their left hand towards the sky to call forth a radiant hammer. They strike the flame twice, throw the hammer aside, and summon the stone fragments to encase the flame in a octahedron container. 
+
+The octahedron ascends.
+</div>
+{{Clear}}
+
+==Cosmetics==
+===<span id="Face Accessory">Ultimate Shield Face Accessory</span>===
+The Ultimate Shield Face Accessory<ref name="Mask recategorized">This item was recategorized from a [[Mask]] to a [[Face Accessory]] as a result of the [[Outfit Shrine|Closet]] category expansion in Patch {{v|0.22.0}}.</ref> costs {{Cost|250 AC}} and is only available once you have acquired the above Elder's Ultimate Hair.
+
+<gallery widths="125px">
+Elder-Mask-Icon-Forest-Morybel-0146.png|Face Accessory icon
+Elder-of-the-Forest-Face-Accessory.png|Face Accessory in its original state
+Elder-of-the-Forest-Face-Accessory-Shattered.png|Face Accessory in its shattered state
+</gallery>
+This mask is an extended version of the [[Apologetic Lumberjack]]'s Face Accessory from Hidden Forest.<br>
+<br>
+[[File:Elder Mask-Forest breaking animation.gif|250px|thumb]]
+
+Unlike other Face Accessories, the Elder Face Accessory is paired with almond shaped eyes. Each Elder Face Accessory comes with a shield function that will protect you from damage from Crabs, Dark Dragons, or rocks. The Face Accessory will not protect you from rain or wastewater. The protection lasts for only one hit or until it's shattered, and then it will need to be recharged. While undergoing your first hit, a blue spherical barrier will appear around you to protect you from losing your [[Winged Light]].
+
+Once you get hit, the Face Accessory appears "shattered", turning it transparent, brown, and no longer luminous. A cracked shield icon will also appear in the Closet next to the used Face Accessory, showing you which one needs to be recharged.
+
+To recharge the Face Accessory, visit the Elder of Forest at their temple and relive the ancient memory animation or summon the Forest Elder from the Orbit Constellation.
+
+===<span id="Hair">Ultimate Hair</span>===
+The Ultimate Hair costs {{Cost|6 AC}} and is only available once you have completed the Hidden Forest [[Constellation]]. It is made of long hair that hangs over the eyes and is tied in sections at the bottom, a few of which are laid over the shoulders in the front, each tied by a wide, blue, ring-shaped hair accessory with silver edges.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||hair|icon}} {{!}} Ultimate Hair icon
+{{Icon Name||hair|real}} {{!}} Ultimate Hair front
+Elder-of-the-Forest-Hair-side.png {{!}} Ultimate Hair side
+Elder-of-the-Forest-Hair-back.png {{!}} Ultimate Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Friendship Tree==
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Forest Elder
+<!--|image = Forest Elder asc.jpg-->
+
+|nodeC2 = facepiece 250 AC
+|nodeC1 = hair 6 AC
+}}<section end="Friendship Tree" />
+
+==Trivia==
+*The Elder of the Forest is featured in a piece of merch from thatskyshop, in the form of the [[That Sky Shop/Wave 2#Elder of the Forest Pin|Elder of the Forest Pin]]. It has a STAR feature which allows you and the friends that you're holding hands with to teleport to the Elder Temple in the Hidden Forest.
+
+==Gallery==
+<gallery widths="200">
+Forest Elder asc.jpg
+</gallery>
+
+==References==
+<references />
+
+[[fr:Ancien de la Forêt]]
+[[pt-br:Anciã da Floresta]]
+[[de:Älteste des Waldes]]

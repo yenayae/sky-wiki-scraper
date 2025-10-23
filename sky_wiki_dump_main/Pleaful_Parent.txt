@@ -1,0 +1,204 @@
+{{Distinguish|Woodcutting Pleaful Parent}}
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Belonging-Spirit-Pleaful-Parent.png|Standard
+Belonging-Spirit-Pleaful-Parent-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Mask|infobox}}{{Spirit Item||Cape|infobox}}
+|instruments = {{Spirit Item||Instrument|infobox}}
+|season    = Belonging
+|location  = Graveyard
+|ts        = October 24, 2024 (#125)<br>December 22, 2022 (#77)<br>December 10, 2020 (#24)<br>March 26, 2020 (#5)
+}}
+<section begin="Summary" />The '''Pleaful Parent''' is a [[Seasonal Spirit]] from the [[Season of Belonging]] who offers the {{Emote|Pleaful Parent|inline_text}} Expression. The Pleaful Parent is found to the right of the slope at the entrance of the [[Graveyard]], past the rock cliffs with a [[Children of Light#Graveyard (6)|Child of Light]] and next to the [[Golden Wasteland#Social Light Areas|Bonfire]]. The collectibles [[Pleaful Parent#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Pleaful Parent|Mask|inline_text}}, a {{Spirit Item|Pleaful Parent|Cape|inline_text}}, and the {{Spirit Item|Pleaful Parent|Instrument|label=Guitar Instrument|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Pleaful-Parent-promo-image.jpg|thumb|320px|none|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|GjUfabmBwvE||inline|Video Guide}}
+
+The Pleaful Parent can be found near the slope at the entrance of the [[Graveyard]], next to the [[Golden Wasteland#Social Light Areas|Bonfire]] surrounded by [[Dark Crabs]] on the player's right when entering from the [[Graveyard Entrance]]. This Spirit has a [[Carry Spirit Memory|carry spirit memory]] with 5 memory fragments and a 15-minute overall [[Timed Memory|time limit]].
+
+This Spirit memory requires players to make their way through territory patrolled by several [[Dark Dragons]]. To complete this memory safely, it is advised to bring at least one friend who can either draw away the Dark Dargons from the player or help collect lost [[Winged Light]] if they have been hit. Another strategy could be to learn the Dark Dargons' routes and act accordingly, however, there are certain stretches where the player will be exposed and unprotected for a prolonged time, making it difficult to avoid the Dark Dragons.
+
+As their memory unfolds, the Pleaful Parent can be seen chasing their companion [[Crabs|Crab]] through the Graveyard, occasionally hiding from the watchful eyes of the Dark Dragons. When they reach the far side of the area, the Spirit can be seen diving after the Crab and missing. They return back to the bonfire, where the Crab stands on top of the Pleaful Parent's head.
+
+At the end of the memory, the companion Crab runs off as the Pleaful Parent puts their hands on their head in shock. The Spirit tries to run after the Crab, but it disappears into the dense green fog. The Pleaful Parent then drops to their knees and extends their left arm, as if they were pleading, "Don't go!".
+
+The player then comes up behind the Pleaful Parent and rings a small bell; when the Pleaful Parent turns around and is surprised to see the player, the player is prompted to copy (and, thus, learn) the same pleaful expression.<br>
+<br>
+[[File:04 GW Seasonal Spirit - Pleaful Parent.jpg|200px|thumb|none|Relive the Pleaful Parent's memory]]
+</div>
+{{Clear}}
+
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.<br>
+<br>
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Pleaful-Parent-don't-go-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Pleaful-Parent-don't-go-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Pleaful-Parent-don't-go-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Pleaful-Parent-don't-go-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar hold their hands to their chest and drop down to their knees with a dropped head, before raising it again and stretching their trembling left arm forward, while a prolonged dramatic violin sound effect plays.
+*Level 2 makes the same motion as Level 1 with a glowing blue trail of light following the motion of your avatar's left hand.
+*Level 3 will make your avatar hold their hands to their chest and let themselves fall down to their knees with a dropped head, letting their arms go with the impact of the fall, after which their upper body drops forward once again, with their hands weakly supporting their weight on the ground, before stretching their trembling left arm forward, while a prolonged dramatic orchestra sound effect plays.
+*Level 4 makes the same motion as Level 3 with a glowing blue trail of light following the motion of your avatar's left hand.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+== Cosmetics ==
+=== Mask ===
+The [[Mask]] offered by this Spirit is round and plain beige, similar to the [[Masks#Base Mask|Base Mask]], with a mustache on the lower half of the face and yellow ornaments decorating the forehead, costing {{Cost|42 C}} from the Traveling Spirit. It was available to all players during the Season, from the Friendship Tree's fourth node ({{Cost|48 SC|season=Belonging}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Cape ===
+The [[Cape]] offered by this Spirit is a dark blue-green with faint diamond markings near the collar, a beige interior, and two golden horizontal lines around the bottom edge, costing {{Cost|65 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|48 SC|season=Belonging}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||Cape|interior}} {{!}} The Cape interior
+{{Icon Name||Cape|back}} {{!}} The Cape back
+{{Icon Name||Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Instrument ===
+The [[Instrument]] offered by this Spirit is the '''Guitar''', costing {{Cost|75 C}} from the Traveling Spirit. It is colored red with yellow ornaments in the shape of the {{Season Icon|Belonging|inline_text}} symbol in the front, and black in the back. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|14 SC|season=Belonging}} total). The player sits while playing the Instrument, which plays 15 notes.
+
+The Guitar plays the melody [[Music Sheet Parts|part]] on Music Sheets. Its [[Instrument Pitch|pitch]] is one octave below the standard {{Spirit Item|Cheerful Spectator|Instrument|inline_text}} (in C major, it covers C<sub>3</sub> to C<sub>5</sub>).
+
+In [[Harmony Hall]], the Guitar can be found in the left room with all the other stringed Instruments, on the left-most side. It is also available in the [[Village Theater]], at the front left of the stage, where it can be used by all players who have completed the [[Season of Performance#Quest 3|third Quest]] of the Season of Performance.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Instrument}} {{!}} The Instrument icon
+{{Icon Name||Instrument|real}} {{!}} The Instrument
+{{Icon Name||Instrument|held}} {{!}} Playing the Instrument
+{{Icon Name||Instrument|back}} {{!}} The Instrument on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Traveling Spirit ==
+[[File:Belonging Wasteland.png|200px|right|thumb]]
+{{Friendship Tree Info | traveling
+|ts_dates=*October 24, 2024 (#125)
+*December 22, 2022 (#77)
+*December 10, 2020 (#24)
+*March 26, 2020 (#5)
+}}<section begin="TS Friendship Tree" />
+{{Friendship Tree
+|spirit = Pleaful Parent
+|season = Belonging
+|image  = Belonging-Spirit-Pleaful-Parent.png
+
+|nodeC6 = Instrument 75 C
+|nodeL5 = Cape 65 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Mask 42 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+No hints were given from the [[Pleaful Parent]]'s first appearance.
+
+The hints given before the [[Pleaful Parent]]'s second appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Second Visit Hints
+|content=<div>
+* Is NOT alexdolly
+* Us in a local birdwatching club
+* Makes handmade knitwear for their friends
+* Has legs
+* Has had enough caffeine to stay awake for 4 days
+* Made cookies for everyone, but accidentally dropped them off the boat
+* Has named every crab in Wasteland
+* Has seasonal allergies
+* Has bad jokes
+* Is addicted to coffee
+* Is an arm wrestling champ
+* Is ready to be your friend
+* Is rowing to Home at this moment
+</div>
+}}
+
+The hints given before the [[Pleaful Parent]]'s third appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Third Visit Hints
+|content=<div>
+* Can never decide what color clothes to wear
+* Is a decent survivalist, but only through luck
+* Cares a lot about what others think of their cooking
+* Went to boating school
+* Takes care of their appearance
+* Has had bad experiences trying to bond with creatures
+* Likes to survive with their own skills in the outdoors
+* Is afraid of large mantas
+</div>
+}}
+
+No hints were given before the [[Pleaful Parent]]'s fourth appearance.
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Belonging}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Pleaful Parent
+|type   = season
+|season = Belonging
+|image  = Belonging-Spirit-Pleaful-Parent.png
+
+|nodeC5 = season_heart 3 SC SP
+|nodeL4 = Cape SP
+|nodeC4 = Mask 18 SC
+|nodeL3 = emote4 SP
+|nodeC3 = emote3 16 SC
+|nodeL2 = Instrument SP
+|nodeC2 = spell5 14 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+== Other Appearances ==
+Pleaful Parent also appeared in the [[Season of the Blue Bird]] as the [[Woodcutting Pleaful Parent]].
+
+==Trivia==
+*Because of the [[#Instrument|Guitar]]'s popularity, an [[IAP]] variant, the [[Rhythm Guitar]], was introduced with [[Harmony Hall]]. The two guitars have the same sound but different visuals.
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Pleaful-Parent-TS-promo-image.png
+wasteland emote outfit.jpg
+Group Emote Don't Go Front.jpg
+Belonging wasteland map preview.png
+Pleaful-Parent-mid-Season-promo-image.png
+Pleaful-Parent-Memory-Bell.jpg
+</gallery>
+{{Clear}}
+
+==References==
+<references/>
+
+[[de:Erfreulicher Elternteil]]
+[[fr:Parent Suppliant]]
+[[pt-br:Pai Suplicante]]
+[[ru:Умоляющий родитель]]
+[[ja:訴えかける親]]

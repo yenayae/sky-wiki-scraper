@@ -1,0 +1,46 @@
+{{Creature Infobox
+|title    = Fishes
+|type     = light
+|image    = Knife-fish-in-Treasure-Reef.jpg
+}}
+<section begin="Summary" />There are tons of fish in Sky and most of them are for recharging players or providing lights while others are just part of the scenery. Most of them represent real-life fish; in particular, [[Fishes#Angelfish|Angelfish]], [[Fishes#Sunfish|Sunfish]], [[Fishes#Knife Fish|Knife fish]], and [[Fishes#Koi/Swordtails|Swordtails]].<section end="Summary" />
+{{Clear}}
+==Angelfish==
+In [[Treasure Reef]], you can find schools of triangular angelfish-like fish that will recharge your oxygen level when nearby. The angelfish light up the tips of their "noses" and then swirl around the player multiple times to replenish your oxygen meter until it's full.
+<gallery widths="220" spacing="small" captionalign="center" hideaddbutton="true">
+File:SOAbyss-triangle-recharging-fishes.jpg|A shoal of triangular angelfish-shaped
+</gallery>
+
+==Sunfish==
+In [[Treasure Reef]], among the schools of triangular angelfish-shaped fish, you'll find one or two sunfish-shaped creatures. More can be found in the depth of the Abyss. They are white and yellow in appearance with a diamond shape on their body. Much like the triangle fish, they will light up the tips of their "noses" when you approach them and then swirl around you multiple times until you are fully charged, all the while giving you a boost forward.
+
+These fish can also be found in small numbers in the trench off the coast of [[Sanctuary Islands]].
+<gallery widths="220" spacing="small" captionalign="center" hideaddbutton="true">
+File:Sunfish-shaped-creature-recharging-fish.jpg|A sunfish-shaped recharging creature
+</gallery>
+
+==Knife Fish ==
+In [[Treasure Reef]], a school of knife fish can recharge your oxygen in the same manner that the triangle-shaped angelfish and the sunfish-shaped creature does.
+<gallery widths="220" spacing="small" captionalign="center" hideaddbutton="true">
+File:Knife-fish-in-Treasure-Reef.jpg|A school of knife fish in Treasure Reef
+</gallery>
+
+==Koi/Swordtails==
+Based off real-life fish, these Creatures are first discovered by the player at [[Home]] inside the little pond where [[Traveling Spirits]] will appear. Later, they are seen in the body of water outside the [[Prairie Temple]], then in the [[Forgotten Ark]] (summoned by the Blue Light), and are finally found floating around in one of the [[Secret Area]]'s rooms. They don't have any practical function, but are still able to be interacted with. Normally, the fish swim in a group around the pool of water. They will swim away quickly and/or scatter when Sky Children approach or try to touch them.
+
+In the Aviary Village, if a player has completed the fourth quest, on some days the Levitating Adept may be seen by the pond to the right. If a player stands near them and uses the telekinesis emote (levels one or two), eventually a small koi will be lifted out of the pond.
+
+Though the Message Candle Spot outside the Prairie Temple is named "The Koi Pond", it is the pond that is a traditional koi pond, not the fish. The fish resemble female swordtails, a tropical fresh water fish.
+<gallery widths="152" spacing="small" captionalign="center" hideaddbutton="true">
+KoiHome.jpg|Fish at Home
+KoiPrairie.jpg|Fish at the Prairie Temple
+KoiArk.jpg|Fish at the Forgotten Ark
+</gallery>
+[[Category:Creatures]]
+
+[[fr:Poissons]]
+[[pt-br:Peixes]]
+[[de:Fische]]
+[[ja:魚]]
+
+[[Category:Lore]]

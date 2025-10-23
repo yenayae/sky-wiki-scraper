@@ -1,0 +1,493 @@
+{{SkyEvent
+| image = DoMischief-2024-Broom-Flying-promo-image.png
+| previousevent = [[Days of Mischief/2023|2023]]
+| nextevent = [[Days of Mischief/2025|2025]]
+| date = October 21 to November 10, 2024
+| years = {{#lst:Days of Mischief|Mischief Years}}
+}}
+{{#ev:youtube|SVSR8vi5dPM||right|Days of Mischief 2024 Trailer}}
+Days of Mischief returned for a sixth year in a row—and this time, the Spirits of the [[Cackling Crab]] have gotten in over their heads and need your help! The event began on '''Monday, October 21, 2024 at 00:00 PDT (UTC-7)''' and continued until '''Sunday, November 10, 2024 at 23:59 PST (UTC-8)''', lasting '''21''' days. For the duration of the event, the Herald of Mischief appeared in [[Home]] and [[Aviary Village]], offering to take players directly to the [[Cackling Crab]]. In addition, the [[Secret Area]] was open to everyone through a friendly NPC at the gate.
+
+The [[The Cackling Crab#NPC Shopkeepers|Mischief Spirits]] tried to bring a new guest to the skies above the caves, but unfortunately something went wrong, and now creatures that were far more [[#Dark Shadows|dark and shadowy]] had shown up. In each of the event’s three weekly phases, the Spirits asked players to lend a hand to keep the chaos at bay:
+
+* '''1st Week:''' The Spirits' attempt to summon the Mischief Raven goes wrong, unleashing [[Dark Shadows]] upon the Cackling Crab. While the Spirits work to prepare [[#Mischief Withered Broom|flying brooms]] to rescue the Raven, players are tasked with confronting the shadowy creatures using cannons.
+* '''2nd Week:''' Players can freely borrow a broom from the [[#The Cackling Crab#Underground Lair|underground lair]] in the Cackling Crab, and [[The Cackling Crab#Nat|Nat]] offers flying practice that rewards a bit of [[Pieces of Light|Light]].
+* '''3rd Week:''' The Spirits lead a final charge against the Dark Shadows, gathering a fleet of Sky Kids on brooms with [[Festival Tech]] to banish the Dark Shadows for good and free their beloved Raven.
+<div style="text-align: center;">
+{{#ev:youtube|dmYv6jFw42g|300|inline|Days of Mischief Week 1}}
+{{#ev:youtube|cLJFC6D9zdY|300|inline|Days of Mischief Week 2}}
+{{#ev:youtube|QwoQR_oywd8|300|inline|Days of Mischief Week 3}}
+</div>
+Help them take care of what they’ve brought in, and you can find [[#Ticket Locations|Event Currency Light]] in the process too! There are plenty of activities above the Cackling Crab to enjoy, but don’t forget to also explore what the caves below hold. You’ll find new and returning favorites from years past in every nook and cranny. With tricks, pranks, Spells, and transformations galore, there’s plenty for everyone to enjoy during ''Sky''’s spookiest event of the year!
+{{Clear}}
+
+===Dark Shadows===
+[[File:Days-of-Mischief-Cannon-Blast-Dark-Shadow.gif|thumb|250px|right|Blasting a Dark Shadow]]
+This year, the [[The Cackling Crab#NPC_Shopkeepers|Mischief Spirits]] have accidentally unleashed something that is far more dark and shadowy than they intended: multiple [[Dark Shadows]] that now swirl in the skies above the [[Cackling Crab]]. Unlike the Dark Shadows found in the [[Season of Prophecy#The Trial of Fire|Trial of Fire]], these Dark Shadows do not extinguish the player's Light. Instead, they place the [[#Krill Cat's Curse Spell|Krill Cat's Curse Spell]] on any players they touch, the effects of which can be cancelled at any time by double tapping the [[Spell]]'s icon, found in the bottom left corner of the screen or by viewing the top of the [[Expression Menu|Blessing Submenu]].
+
+Help the Mischief Spirits fight back against the Dark Shadows by using the three cannons placed on the cliffs behind the [[The Cackling Crab#The Entrance|entrance pit]], near where players initially arrive when teleporting to the area. Interact with the mouth of a cannon to load it up with coal and then wait for a Dark Shadow to approach. When the light on the back of the cannon begins to flash red, quickly use your [[Flame]] to light the cannon and blast the shadowy creature. Each day, all three Dark Shadows will drop a one-time reward of regular [[Pieces of Light|Light]] when defeated, and then begin to drop green [[#Ticket Locations|Event Currency Light]] for a short period of time. Once they recover, the Dark Shadows can be blasted again to continue collecting Event Currency Light for a total of 5 Tickets each day.
+
+===Ticket Locations===
+[[File:Days-of-Mischief-Event-Currency-Light.png|125px|thumb|Days of Mischief Event Currency Light]]
+For the duration of the event, '''all [[Currency#Event Currency|Event Currency]] were available as Event Currency Light'''. They appeared as green orbs that are similar in appearance to [[Pieces of Light|Light]] from Candles. It filled up the Event Currency meter the same way that regular Light fills the [[Currency#Candles|Candle]] meter, and players could forge a unit of Event Currency once the meter was full.
+
+A total of {{Cost|5 T|event=mischief}} Tickets could be collected each day by participating in activities that help the Mischief Spirits:
+
+*{{Cost|5 T|event=mischief}} by blasting [[#Dark Shadows|Dark Shadows]] with the cannons above the [[Cackling Crab]] (Week 1)<!--
+*{{Cost|5 T|event=mischief}} ... method to obtain ... (Week 2)
+*{{Cost|5 T|event=mischief}} ... method to obtain ... (Week 3) -->
+
+Players could also buy additional Tickets (costing {{Cost|2 AC}} or {{Cost|6 C}} each) from the Spell Shop at [[Aviary Village#Spell Shop|Aviary Village]] and Sleepy Traveler's boat at [[Home]].
+{{Friendship Tree
+|label  = Herald of Mischief
+|event = Mischief
+|image = Days of Mischief - Samantha.png
+
+|nodeC6 = {{Icon Name|Mischief Spooky Dining Set|icon}} 33 H
+|  labelC6 = {{Icon Name|Mischief Spooky Dining Set|name}}
+|  linkC6  = Days of Mischief#{{Icon Name|Mischief Spooky Dining Set|name}}
+
+|nodeL5 = {{Icon Name|Mischief Withered Cape|icon}} 99 C
+|  labelL5 = {{Icon Name|Mischief Withered Cape|name}}
+|  linkL5 = Days of Mischief#{{Icon Name|Mischief Withered Cape|name}}
+|nodeC5 = Spell5
+|  labelC5 = Spell
+|  linkC5  = Spells
+
+|nodeR4 = {{Icon Name|Mischief Witch Hair|icon}} 66 C
+|  labelR4 = {{Icon Name|Mischief Witch Hair|name}}
+|  linkR4 = Days of Mischief#{{Icon Name|Mischief Witch Hair|name}}
+|nodeL4 = {{Icon Name|Mischief Goth Garment|icon}} 58 C
+|  labelL4 = {{Icon Name|Mischief Goth Garment|name}}
+|  linkL4 = Days of Mischief#{{Icon Name|Mischief Goth Garment|name}}
+|nodeC4 = Spell5
+|  labelC4 = Spell
+|  linkC4  = Spells
+
+|nodeR3 = {{Icon Name|Mischief Goth Boots|icon}} 38 C
+|  labelR3 = {{Icon Name|Mischief Goth Boots|name}}
+|  linkR3 = Days of Mischief#{{Icon Name|Mischief Goth Boots|name}}
+|nodeL3 = {{Icon Name|Mischief Crabkin Accessory|icon}} 36 C
+|  labelL3 = {{Icon Name|Mischief Crabkin Accessory|name}}
+|  linkL3  = Days of Mischief#{{Icon Name|Mischief Crabkin Accessory|name}}
+|nodeC3 = Spell5
+|  labelC3 = Spell
+|  linkC3  = Spells
+
+|nodeR2 = {{Icon Name|Mischief Tufted Hair|icon}} 44 C
+|  labelR2 = {{Icon Name|Mischief Tufted Hair|name}}
+|  linkR2 = Days of Mischief#{{Icon Name|Mischief Tufted Hair|name}}
+|nodeL2 = {{Icon Name|Mischief Cauldron|icon}} 36 T
+|  labelL2 = {{Icon Name|Mischief Cauldron|name}}
+|  linkL2 = Days of Mischief#{{Icon Name|Mischief Cauldron|name}}
+|nodeC2 = Spell5
+|  labelC2 = Spell
+|  linkC2  = Spells
+
+|nodeR1 = {{Icon Name|Spider Hair|icon}} 22 T
+|  labelR1 = {{Icon Name|Spider Hair|name}}
+|  linkR1  = Days of Mischief#{{Icon Name|Spider Hair|name}}
+|nodeL1 = {{Icon Name|Star Sticker|icon}} 16 T
+|  labelL1 = {{Icon Name|Star Sticker|name}}
+|  linkL1  = Days of Mischief#{{Icon Name|Star Sticker|name}}
+|nodeC1 = Spell5
+|  labelC1 = Spell
+|  linkC1  = Spells
+}}
+{{Clear}}
+
+===<big>All Available Collectibles in 2024</big>===<!-- Need to double-check item/spell sources when event is Live -->
+{| class="article-table"
+!Name!!Icon!!Type !!Cost !!Location!!Spell!!Spell Cost & Locations
+
+|-
+! colspan="7" style="text-align:center;" |From Days of Mischief 2024
+|-
+| [[Days of Mischief#{{Icon Name|Withered Broom|name}}|{{Icon Name|Withered Broom|name}}]]
+| {{Days Item|Withered Broom||table}}
+| [[Prop]]
+| {{Cost|19.99 USD|refnote}}
+| <small>[[Premium Candle Shop]]</small>
+| {{Days Item|Withered Broom|spell|table}}<small>x3</small>
+| <small>Mischief Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] for free</small>
+|-
+| [[Days of Mischief#{{Icon Name|Raven Cloak|name}}|{{Icon Name|Raven Cloak|name}}]]
+| {{Days Item|Raven Cloak||table}}
+| [[Cape]]
+| {{Cost|17.99 USD|refnote}}
+| <small>[[Premium Candle Shop]]</small>
+| {{Days Item|Raven Cloak|spell|table}}<small>x3</small>
+| <small>Mischief Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] for free</small>
+|-
+| [[Days of Mischief#{{Icon Name|Spider Hair|name}}|{{Icon Name|Spider Hair|name}}]]
+| {{Days Item|Spider Hair||table}}
+| [[Hair]]
+| {{Cost|22 T|event=Mischief}}
+| <small>Herald of Mischief at [[Aviary Village#Aviary Event Store|Aviary]]</small>
+| {{Days Item|Spider Hair|spell|table}}<small>x3</small>
+| <small>Mischief Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] for free</small>
+|-
+| [[Days of Mischief#{{Icon Name|Mischief Cauldron|name}}|{{Icon Name|Mischief Cauldron|name}}]]
+| {{Days Item|Mischief Cauldron||table}}
+| [[Prop]]
+| {{Cost|36 T|event=Mischief}}
+| <small>Herald of Mischief at [[Aviary Village#Aviary Event Store|Aviary]]</small>
+| {{Days Item|Mischief Cauldron|spell|table}}<small>x3</small>
+| <small>Mischief Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] for free</small>
+|-
+| [[Days of Mischief#{{Icon Name|Star Sticker|name}}|{{Icon Name|Star Sticker|name}}]]
+| {{Days Item|Star Sticker||table}}
+| [[Face Accessory]]
+| {{Cost|16 T|event=Mischief}}
+| <small>Herald of Mischief at [[Aviary Village#Aviary Event Store|Aviary]]</small>
+| {{Days Item|Star Sticker|spell|table}}<small>x3</small>
+| <small>Mischief Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] for free</small>
+|-
+| [[Days of Mischief#Green Glow Spell|Green Glow Spell]]
+|
+| [[Spell]]
+|
+|
+| {{Icon|Green-Glow-Spell-icon.png|table|label=Green Glow Spell|in_page=1}}
+| <small>Not collectible; only available by drinking from the [[#Mischief Cauldron|Mischief Cauldron Prop]]</small>
+|-
+! colspan="7" style="text-align:center;" |From Days of Mischief 2023
+|-
+| [[Days of Mischief#{{Icon Name|Mischief Gossamer Cape|name}}|{{Icon Name|Mischief Gossamer Cape|name}}]]
+| {{Days Item|Mischief Gossamer Cape||table}}
+| [[Cape]]
+| {{Cost|14.99 USD|refnote}}
+| <small>Mischief Staff ([[The Cackling Crab#Yoshi|Yoshi]]) at [[Aviary Village#Aviary Event Store|Aviary]]</small>
+| {{Days Item|Mischief Gossamer Cape|spell|table}}<small>x3</small>
+| <small>Mischief Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] for free</small>
+|-
+| [[Days of Mischief#{{Icon Name|Mischief Crabula Cloak|name}}|{{Icon Name|Mischief Crabula Cloak|name}}]]
+| {{Days Item|Mischief Crabula Cloak||table}}
+| [[Cape]]
+| {{Cost|14.99 USD|refnote}}
+| <small>Mischief Staff ([[The Cackling Crab#Yoshi|Yoshi]]) at [[Aviary Village#Aviary Event Store|Aviary]]</small>
+| {{Days Item|Mischief Crabula Cloak|spell|table}}<small>x3</small>
+| <small>Mischief Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] for free</small>
+|-
+| [[Days of Mischief#{{Icon Name|Mischief Crabula Mask|name}}|{{Icon Name|Mischief Crabula Mask|name}}]]
+| {{Days Item|Mischief Crabula Mask||table}}
+| [[Mask]]
+| {{Cost|2.99 USD|refnote}}
+| <small>Mischief Staff ([[The Cackling Crab#Yoshi|Yoshi]]) at [[Aviary Village#Aviary Event Store|Aviary]]</small>
+| {{Days Item|Mischief Crabula Mask|spell|table}}<small>x3</small>
+| <small>Mischief Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] for free</small>
+|-
+| [[Days of Mischief#{{Icon Name|Mischief Goth Garment|name}}|{{Icon Name|Mischief Goth Garment|name}}]]
+| {{Days Item|Mischief Goth Garment||table}}
+| [[Outfit]]
+| {{Cost|58 C}}
+| <small>Herald of Mischief at [[Aviary Village#Aviary Event Store|Aviary]]</small>
+| {{Days Item|Mischief Goth Garment|spell|table}}<small>x3</small>
+| <small>Mischief Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] for free</small>
+|-
+| [[Days of Mischief#{{Icon Name|Mischief Crabkin Accessory|name}}|{{Icon Name|Mischief Crabkin Accessory|name}}]]
+| {{Days Item|Mischief Crabkin Accessory||table}}
+| [[Hair Accessory]]
+| {{Cost|36 C}}
+| <small>Herald of Mischief at [[Aviary Village#Aviary Event Store|Aviary]]</small>
+| {{Days Item|Mischief Crabkin Accessory|spell|table}}<small>x3</small> 
+| <small>Mischief Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] for free</small>
+|-
+| [[Days of Mischief#{{Icon Name|Mischief Goth Boots|name}}|{{Icon Name|Mischief Goth Boots|name}}]]
+| {{Days Item|Mischief Goth Boots||table}}
+| [[Shoes]]
+| {{Cost|38 C}}
+| <small>Herald of Mischief at [[Aviary Village#Aviary Event Store|Aviary]]</small>
+| {{Days Item|Mischief Goth Boots|spell|table}}<small>x3</small>
+| <small>Mischief Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] for free</small>
+|-
+| [[Days of Mischief#Crab Face Accessory Spell|Crab Face Accessory Spell]]
+|
+| [[Spell]]
+|
+|
+| {{Icon|Mischief-Crab-Head-Accessory-spell.png|table|label=Crab Face Accessory Spell|in_page=1}}<small>x2</small>
+| <small>Gift Crab shop at the [[Cackling Crab]] for free<!-- OR Sleepy Traveler's boat at [[Home]] for {{Cost|2 T|event=Mischief}}--></small>
+|-
+| [[Days of Mischief#Event Currency Trick Spell|Event Currency Trick Spell]]
+|
+| [[Spell]]
+|
+|
+| {{Icon|Mischief-Event-currency-Trick-spell.png|table|label=Event Currency Trick Spell|in_page=1}}<small>x2</small>
+| <small>Gift Crab shop at the [[Cackling Crab]] for free OR Sleepy Traveler's boat at [[Home]] for {{Cost|5 C}}</small>
+|-
+| [[Days of Mischief#Crab Curse Spell|Crab Curse Spell]]
+|
+| [[Spell]]
+|
+|
+| {{Icon|Crab-Curse-Spell-icon.png|table|label=Crab Curse Spell|in_page=1}}
+| <small>Not collectible; only available with Crab Jenova in the [[Cackling Crab]]</small>
+|-
+! colspan="7" style="text-align:center;" |From Days of Mischief 2022
+|-
+| [[Days of Mischief#{{Icon Name|Feline Familiar Prop|name}}|{{Icon Name|Feline Familiar Prop|name}}]]
+| {{Days Item|Feline Familiar Prop||table}}
+| [[Prop]]
+| {{Cost| 9.99 USD|refnote}}
+| <small>Mischief Staff ([[The Cackling Crab#Skidmore|Skidmore]]) at [[Aviary Village#Aviary Event Store|Aviary]]</small>
+| {{Days Item|Feline Familiar Prop|spell|table}}<small>x3</small>
+| <small>Mischief Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] for free</small>
+|-
+| rowspan="2" |[[Days of Mischief#Cat Costume Pack|Cat Costume Pack]]
+| {{Days Item|Cat Cape||table}}
+| [[Cape]]
+| rowspan="2" |{{Cost| 19.99 USD|refnote}}
+| rowspan="2" |<small>Mischief Staff ([[The Cackling Crab#Skidmore|Skidmore]]) at [[Aviary Village#Aviary Event Store|Aviary]]</small>
+| {{Days Item|Cat Cape|spell|table}}<small>x3</small>
+| <small>Mischief Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] for free</small>
+|-
+| {{Days Item|Cat Mask||table}}
+| [[Mask]]
+| {{Days Item|Cat Mask|spell|table}}<small>x3</small>
+| <small>Mischief Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] for free</small>
+|-
+| [[Days of Mischief#{{Icon Name|Mischief Tufted Hair|name}}|{{Icon Name|Mischief Tufted Hair|name}}]]
+| {{Days Item|Mischief Tufted Hair||table}}
+| [[Hair]]
+| {{Cost|44 C}}
+| <small>Herald of Mischief at [[Aviary Village#Aviary Event Store|Aviary]]</small>
+| {{Days Item|Mischief Tufted Hair|spell|table}}<small>x3</small>
+| <small>Mischief Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] for free</small>
+|-
+| [[Days of Mischief#Candle Trick Spell|Candle Trick Spell]]
+|
+| [[Spell]]
+|
+|
+| {{Icon|Days-of-Mischief-candle-trick-spell-Morybel-0146.png|table|label=Candle Trick Spell|in_page=1}}<small>x2</small>
+| <small>Gift Crab shop at the [[Cackling Crab]] for free OR Sleepy Traveler's boat at [[Home]] for {{Cost|5 C}}</small>
+|-
+| [[Days of Mischief#Krill Cat's Curse Spell|Krill Cat's Curse Spell]]
+|
+| [[Spell]]
+|
+|
+| {{Icon|Krill-Cat-Curse-Spell-Morybel-0146.png|table|label=Krill Cat's Curse Spell|in_page=1}}
+| <small>Not collectable; only available with the Krill Cat and [[Dark Shadows]] in the [[Cackling Crab]]</small>
+|-
+! colspan="7" style="text-align:center;" |From Days of Mischief 2021
+|-
+| [[Days of Mischief#{{Icon Name|Mischief Withered Antlers|name}}|{{Icon Name|Mischief Withered Antlers|name}}]]
+| {{Days Item|Mischief Withered Antlers||table}}
+| [[Head Accessory]]
+| {{Cost|9.99 USD|refnote}}
+| <small>Mischief Staff ([[The Cackling Crab#Skidmore|Skidmore]]) at [[Aviary Village#Aviary Event Store|Aviary]]</small>
+| {{Days Item|Mischief Withered Antlers|spell|table}}<small>x3</small>
+| <small>Mischief Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] for free</small>
+|-
+| rowspan="2" |[[Days of Mischief#{{Icon Name|Witch Jumper|name}}|{{Icon Name|Witch Jumper|name}}]]
+| {{Days Item|Witch Jumper||table}}
+| [[Outfit]]
+| rowspan="2" |{{Cost|9.99 USD|ref}}
+| rowspan="2" |<small>Mischief Staff ([[The Cackling Crab#Skidmore|Skidmore]]) at [[Aviary Village#Aviary Event Store|Aviary]]</small>
+| {{Days Item|Witch Jumper|spell|table}}<small>x3</small>
+| <small>Mischief Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] for free</small>
+|-
+| {{Days Item|Witch Jumper Shoes||table}}
+| [[Shoes]]
+| {{Days Item|Witch Jumper Shoes|spell|table}}<small>x3</small>
+| <small>Mischief Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] for free</small>
+|-
+| [[Days of Mischief#{{Icon Name|Mischief Spider Quiff|name}}|{{Icon Name|Mischief Spider Quiff|name}}]]
+| {{Days Item|Mischief Spider Quiff||table}}
+| [[Hair]]
+| {{Cost|4.99 USD|ref}}
+| <small>Mischief Staff ([[The Cackling Crab#Skidmore|Skidmore]]) at [[Aviary Village#Aviary Event Store|Aviary]]</small>
+| {{Days Item|Mischief Spider Quiff|spell|table}}<small>x3</small>
+| <small>Mischief Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] for free</small>
+|-
+| [[Days of Mischief#{{Icon Name|Mischief Pumpkin Prop|name}}|{{Icon Name|Mischief Pumpkin Prop|name}}]]
+| {{Days Item|Mischief Pumpkin Prop||table}}
+| [[Prop]]
+| {{Cost|1.99 USD|ref}}
+| <small>Mischief Staff ([[The Cackling Crab#Skidmore|Skidmore]]) at [[Aviary Village#Aviary Event Store|Aviary]]</small>
+| {{Days Item|Mischief Pumpkin Prop|spell|table}}<small>x3</small>
+| <small>Mischief Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] for free</small>
+|-
+| [[Days of Mischief#{{Icon Name|Mischief Withered Cape|name}}|{{Icon Name|Mischief Withered Cape|name}}]]
+| {{Days Item|Mischief Withered Cape||table}}
+| [[Cape]]
+| {{Cost|99 C}}
+| <small>Herald of Mischief at [[Aviary Village#Aviary Event Store|Aviary]]</small>
+| {{Days Item|Mischief Withered Cape|spell|table}}<small>x3</small>
+| <small>Mischief Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] for free</small>
+|-
+| [[Days of Mischief#{{Icon Name|Mischief Witch Hair|name}}|{{Icon Name|Mischief Witch Hair|name}}]]
+| {{Days Item|Mischief Witch Hair||table}}
+| [[Hair]]
+| {{Cost|66 C}}
+| <small>Herald of Mischief at [[Aviary Village#Aviary Event Store|Aviary]]</small>
+| {{Days Item|Mischief Witch Hair|spell|table}}<small>x3</small>
+| <small>Mischief Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] for free</small>
+|-
+| [[Days of Mischief#{{Icon Name|Mischief Spooky Dining Set|name}}|{{Icon Name|Mischief Spooky Dining Set|name}}]]
+| {{Days Item|Mischief Spooky Dining Set||table}}
+| [[Prop]]
+| {{Cost|33 H}}
+| <small>Herald of Mischief at [[Aviary Village#Aviary Event Store|Aviary]]</small>
+| {{Days Item|Mischief Spooky Dining Set|spell|table}}<small>x3</small>
+| <small>Mischief Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] for free</small>
+|-
+| [[Days of Mischief#Dark Dragon Repellent Spell|Dark Dragon Repellent Spell]]
+|
+| [[Spell]]
+|
+|
+| {{Icon|Days of Mischief - Dark Dragon Repellant spell.png|table|label=Dark Dragon Repellent Spell|in_page=1}}<small>x2</small>
+| <small>Gift Crab in the [[Cackling Crab]] for {{Cost|1 AC}} OR Sleepy Traveler's boat at [[Home]] for {{Cost|3 AC}}</small>
+|-
+| [[Days of Mischief#Crab Rock Trick Spell|Crab Rock Trick Spell]]
+|
+| [[Spell]]
+|
+|
+| {{Icon|Days of Mischief - Crab Rock Trick Spell.png|table|label=Crab Rock Trick Spell|in_page=1}}<small>x2</small>
+| <small>Gift Crab in the [[Cackling Crab]] for free OR Sleepy Traveler's boat at [[Home]] for {{Cost|5 C}}</small>
+|-
+!colspan="7" style="text-align:center;" |From Days of Mischief 2020
+|-
+| [[Days of Mischief#{{Icon Name|Mischief Web Cape|name}}|{{Icon Name|Mischief Web Cape|name}}]]
+| {{Days Item|Mischief Web Cape||table}}
+| [[Cape]]
+| {{Cost|14.99 USD|ref}}
+| <small>Mischief Staff ([[The Cackling Crab#Yoshi|Yoshi]]) at [[Aviary Village#Aviary Event Store|Aviary]]</small>
+| {{Days Item|Mischief Web Cape|spell|table}}<small>x3</small>
+| <small>Mischief Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] for free</small>
+|-
+| [[Days of Mischief#{{Icon Name|Mischief Witch Hat|name}}|{{Icon Name|Mischief Witch Hat|name}}]]
+| {{Days Item|Mischief Witch Hat||table}}
+| [[Hair]]
+| {{Cost|9.99 USD|ref}}
+| <small>Mischief Staff ([[The Cackling Crab#Yoshi|Yoshi]]) at [[Aviary Village#Aviary Event Store|Aviary]]</small>
+| {{Days Item|Mischief Witch Hat|spell|table}}<small>x3</small>
+| <small>Mischief Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] for free</small>
+|-
+| [[Days of Mischief#Witch Hat Accessory Spell|Witch Hat Accessory Spell]]
+|
+| [[Spell]]
+|
+|
+| {{Icon|Days of Mischief - Witch hat accessory spell.png|table|label=Witch Hat Accessory Spell|in_page=1}}<small>x2</small>
+| <small>Mischief Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] for free OR Sleepy Traveler's boat at [[Home]] for {{Cost|2 C}}
+|-
+! colspan="7" style="text-align:center;" |From Days of Mischief 2019
+|-
+| [[Days of Mischief#{{Icon Name|Hungry Pumpkin Hat|name}}|{{Icon Name|Hungry Pumpkin Hat|name}}]] + {{Cost|8 C}}
+| {{Days Item|Hungry Pumpkin Hat||table}}
+| [[Hair]]
+| {{Cost|11.99 USD|ref}}
+| <small>Mischief Staff ([[The Cackling Crab#Yoshi|Yoshi]]) at [[Aviary Village#Aviary Event Store|Aviary]]</small>
+| {{Days Item|Hungry Pumpkin Hat|spell|table}}<small>x3</small>
+| <small>Mischief Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] for free</small>
+|-
+| [[Days of Mischief#{{Icon Name|Spooky Bat Cape|name}}|{{Icon Name|Spooky Bat Cape|name}}]] + {{Cost|12 C}}
+| {{Days Item|Spooky Bat Cape||table}}
+| [[Cape]]
+| {{Cost|17.99 USD|ref}}
+| <small>Mischief Staff ([[The Cackling Crab#Yoshi|Yoshi]]) at [[Aviary Village#Aviary Event Store|Aviary]]</small>
+| {{Days Item|Spooky Bat Cape|spell|table}}<small>x3</small>
+| <small>Mischief Gift Box at [[Aviary Village#Aviary Event Store|Aviary]] for free</small>
+|}
+
+===2024 New Cosmetics and Props===
+====Mischief Withered Broom====
+::'''''"Let your bewitching dreams take flight!"'''''
+The Mischief Withered Broom has a dark branch handle with a few orange leaves still attached and light brown bristles. When equipped, it allows the player to ride the broom while flying and moving on the ground. Although this item does not provide any additional speed, it does allow the player to glide farther without losing as much height compared to regular flying. It also allows players to remain seated on the broom while moving between different areas and while holding out their [[Flame]]. This [[Prop]] cannot be placed and therefore cannot be used in [[Shared Spaces]]. When carried on its owner's back, the Prop appears in its original form. This Prop was introduced in 2024 and was available for {{Cost|19.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Withered Broom|iap}} {{!}} {{Icon Name|Withered Broom|name}} IAP
+{{Icon Name|Withered Broom|icon}} {{!}} {{Icon Name|Withered Broom|name}} icon
+{{Icon Name|Withered Broom|real}} {{!}} {{Icon Name|Withered Broom|name}} 
+{{Icon Name|Withered Broom|using}} {{!}} Using the {{Icon Name|Withered Broom|name}}
+{{Icon Name|Withered Broom|back}} {{!}} {{Icon Name|Withered Broom|name}} on a player's back
+{{Icon Name|Withered Broom|spell}} {{!}} {{Icon Name|Withered Broom|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Mischief Raven-Feathered Cloak====
+::'''''"Said to carry the whispers of ancient shadows."'''''
+The Mischief Raven-Feathered Cloak is made of ragged black feathers with a purple sheen arranged in the shape of a bird's wings and tail and a large collar piece with red diamond clasps near the neck. This [[Cape]] was introduced in 2024 and was available for {{Cost|17.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>{{Dye_Details}}
+<br>
+{{#tag:gallery
+|{{Icon Name|Raven Cloak|iap}} {{!}} {{Icon Name|Raven Cloak|name}} IAP
+{{Icon Name|Raven Cloak|icon}} {{!}} {{Icon Name|Raven Cloak|name}} icon
+{{Icon Name|Raven Cloak|front}} {{!}} {{Icon Name|Raven Cloak|name}} front
+{{Icon Name|Raven Cloak|interior}} {{!}} {{Icon Name|Raven Cloak|name}} interior
+{{Icon Name|Raven Cloak|real}} {{!}} {{Icon Name|Raven Cloak|name}} back
+{{Icon Name|Raven Cloak|exterior}} {{!}} {{Icon Name|Raven Cloak|name}} exterior
+{{Icon Name|Raven Cloak|spell}} {{!}} {{Icon Name|Raven Cloak|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Mischief Spider Bun====
+The Mischief Spider Bun is a messy high bun shaped to resemble the head and body of a spider, with loose strands of hair featuring a red dip-dye forming the spider's legs. This [[Hair]] was introduced in 2024 and was available for {{Cost|22 T|event=Mischief}} from the Herald of Mischief at [[Aviary Village#Aviary Event Store|Aviary Village]] for the duration of the event.<br>{{Dye_Details}}
+<br>
+{{#tag:gallery
+|{{Icon Name|Spider Hair|icon}} {{!}} {{Icon Name|Spider Hair|name}} icon
+{{Icon Name|Spider Hair|real}} {{!}} {{Icon Name|Spider Hair|name}} front
+{{Icon Name|Spider Hair|side}} {{!}} {{Icon Name|Spider Hair|name}} side
+{{Icon Name|Spider Hair|back}} {{!}} {{Icon Name|Spider Hair|name}} back
+{{Icon Name|Spider Hair|spell}} {{!}} {{Icon Name|Spider Hair|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Mischief Cauldron====
+The Mischief Cauldron is a large, round, gray cauldron filled with a bubbling green liquid that sits on a pile of logs, decorated with three stone cups on the rim. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]], and functions as a three-player [[Chat]] item. Once placed, the logs under the cauldron can be lit, allowing three players to stand and drink from the cups after a short wait. Any players that drink from the cauldron's cups will receive both the [[#Green Glow Spell|Green Glow Spell]] and a [[Spells#Trail Spells|Green Trail Spell]] for 10 minutes. When carried on its owner's back, the Prop appears in its original form. This Prop was introduced in 2024 and was available for {{Cost|36 T|event=Mischief}} from the Herald of Mischief at [[Aviary Village#Aviary Event Store|Aviary Village]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Mischief Cauldron|icon}} {{!}} {{Icon Name|Mischief Cauldron|name}} icon
+{{Icon Name|Mischief Cauldron|real}} {{!}} {{Icon Name|Mischief Cauldron|name}} 
+<!--{{Icon Name|Mischief Cauldron|using}} {{!}} Using the {{Icon Name|Mischief Cauldron|name}}-->
+{{Icon Name|Mischief Cauldron|back}} {{!}} {{Icon Name|Mischief Cauldron|name}} on a player's back
+{{Icon Name|Mischief Cauldron|spell}} {{!}} {{Icon Name|Mischief Cauldron|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Mischief Star Sticker====
+The Mischief Star Sticker is a rectangular slip of yellow paper with a red star design taped to the player's forehead. This [[Face Accessory]] was introduced in 2024 and was available for {{Cost|16 T|event=Mischief}} from the Herald of Mischief at [[Aviary Village#Aviary Event Store|Aviary Village]] for the duration of the event.<br>
+<br>{{Dye_Details
+|area1=the red star design
+|cost1=1
+}}<br><br>
+{{#tag:gallery
+|{{Icon Name|Star Sticker|icon}} {{!}} {{Icon Name|Star Sticker|name}} icon
+{{Icon Name|Star Sticker|real}} {{!}} {{Icon Name|Star Sticker|name}}
+{{Icon Name|Star Sticker|spell}} {{!}} {{Icon Name|Star Sticker|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+===2024 New Spells===
+====Green Glow Spell====
+The Green Glow Spell temporarily illuminates both the player and the area around them with a green glow for 10 minutes, similar to the regular [[Spell#Glow Spell|Glow Spell]]. This [[Spell]] was introduced in 2024 and was '''not collectible'''; it is only available by drinking from the [[#Mischief Cauldron|Mischief Cauldron Prop]].<br>
+<br>
+{{#tag:gallery
+|Green-Glow-Spell-icon.png {{!}} Green Glow Spell icon
+Green-Glow-Spell.png {{!}} Green Glow Spell
+|widths=125|spacing=small|captionalign=center
+}}
+
+==Trivia==
+*The Days of Mischief Staff NPCs are based on TGC employees<ref>"Office spirits are actually just tgc employees" [https://discord.com/channels/575762611111592007/632004389137154048/702006252946849862 Ash's post]</ref>: Skidmore (Adam Skidmore), Samantha (Samantha Cruse), Yoshi (Yoshi Saito) and Nat (Natalie Nichols).
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+DoMischief-2024-Cauldron-Glow-promo-image.png|2024 Promo Image
+DoMischief-2024-Ticket-Wax-promo-image.png|2024 Promo Image
+DoMischief-2024-Cannon-Blast-promo-image.png|2024 Promo Image
+Days-of-Mischief-promo-image-2024.png|2024 Promo Image
+</gallery>
+
+==References==
+'''More information about the Days of Mischief 2024 can be found on [https://www.thatskygame.com/news/spirits-tricks-and-more-in-days-of-mischief-2024 ThatSkyGame's Website].'''
+<references />
+
+{{#lst:Days of Mischief|Mischief Navbox}}
+
+[[pt-br:Dias de Travessuras/2024]]

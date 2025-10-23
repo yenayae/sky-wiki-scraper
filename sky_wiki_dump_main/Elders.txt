@@ -1,0 +1,88 @@
+Elders are the ancestors specifically found in the temples at the end of each realm. The only interaction with Elders normally is watching a cutscene after lighting the temple's altar.
+
+However, once a realm's Constellation is completed, it is possible to interact directly with an elder in Orbit. 
+
+List of all the Elder pages: 
+*[[Elder of the Isle]]
+*[[Elder of the Prairie]]
+*[[Elder of the Forest]]
+*[[Elder of the Valley]]
+*[[Elder of the Wasteland]]
+*[[Elder of the Vault]]
+
+<!--Currently some of the Friendship Tree functionality is missing because their info needs to be added into Module:Friendship Tree and other locations.-->
+<section begin="Friendship Trees" /><div style="display:flex;flex-wrap:wrap;">
+<div style="min-width:150px;flex: 1 1 15%;">{{#lst:Elder of the Isle|Friendship Tree}}</div>
+<div style="min-width:150px;flex: 1 1 15%;">{{#lst:Elder of the Prairie|Friendship Tree}}</div>
+<div style="min-width:175px;flex: 1 1 15%;">{{#lst:Elder of the Forest|Friendship Tree}}</div>
+<div style="min-width:150px;flex: 1 1 15%;">{{#lst:Elder of the Valley|Friendship Tree}}</div>
+<div style="min-width:175px;flex: 1 1 15%;">{{#lst:Elder of the Wasteland|Friendship Tree}}</div>
+<div style="min-width:150px;flex: 1 1 15%;">{{#lst:Elder of the Vault|Friendship Tree}}</div>
+</div>{{Clear}}<section end="Friendship Trees" />
+
+==STAR Pins==
+[[File:Batch of Cheer.jpg|thumb|Batch of Cheer]]
+The STAR Elder Pins from the [[That Sky Shop]] online store can also teleport you to their Elder Temple.
+*[[That Sky Shop/Wave 1#Elder of the Isle Pin|Elder of the Isle Pin]] (from Wave 1)
+*[[That Sky Shop/Wave 1#Elder of the Prairie Pin|Elder of the Prairie Pin]] (from Wave 1)
+*[[That Sky Shop/Wave 2#Elder of the Forest Pin|Elder of the Forest Pin]] (from Wave 2)
+*[[That Sky Shop/Wave 3#Elder of the Valley Pin|Elder of the Valley Pin]] (from Wave 3)
+*[[That Sky Shop/Wave 5#Elder of the Wasteland Pin|Elder of the Wasteland Pin]] (from Wave 5)
+*[[That Sky Shop/Wave 10#Elder of the Vault Pin|Elder of the Vault Pin]] (from Wave 10)
+
+==Ultimate Gifts==
+{{#lst:Constellations|Ultimate Gifts}}
+
+<section begin="Ultimate Gifts Gallery" /><gallery widths="75" captionalign="center" spacing="small">
+Hair19-Isle Elder.png|Elder of the Isle Hair
+Hair20-Prairie Elder.png|Elder of the Prairie Hair
+Hair21-Forest Elder.png|Elder of the Forest Hair
+Hair23-Valley Elder 2.png|Elder of the Valley 1 Hair
+Hair22-Valley Elder 1.png|Elder of the Valley 2 Hair
+Hair24-Wasteland Elder.png|Elder of the Wasteland Hair
+Hair25-Vault Elder.png|Elder of the Vault Hair
+</gallery><gallery widths="75" captionalign="center" spacing="small">
+Elder-of-the-Isle-Face-Accessory.png|Elder of the Isle Face Accessory
+File:Elder-of-the-Prairie-Face-Accessory.png|Elder of the Prairie Face Accessory
+File:Elder-of-the-Forest-Face-Accessory.png|Elder of the Forest Face Accessory
+</gallery>
+<section end="Ultimate Gifts Gallery" />
+
+==Trivia==
+The Elders (plus the king & prince) have names based off Hebrew letters from concept development that are no longer canon, though the fandom sometimes refers to them as such:
+
+*Isle – Daleth (ד)
+*Prairie – Ayin (ע)
+*Forest – Teth (ט)
+*Valley – Samekh (ס) (They share a name, though the fandom refers to the spiky hair twin as Sah and the bobbed hair twin as Mekh.)<ref name="valley-elders-alt-names">Because of their haircuts, they are sometimes referred to as Kakashi and Dora, respectively.</ref>
+*Wasteland – Tsadi (צ)
+* Vault – Lamed (ל)
+*Prince – Alef (א)
+*King – Resh (ר)
+
+However, it seems the devs refer to the Elders by the times of day their realms represent:
+
+*Isle – Dawn
+*Prairie – Day
+*Forest – Rain
+*Valley – Sunset
+*Wasteland – Dusk
+*Vault – Night
+*Eden – Storm
+
+Credit to Alasdair#8513 on Discord for the info.  
+
+Those names can be found on [https://www.tomzhao.com/sky1 Tom Zhao's graphics] that was revealed during the [[Seven Days of Sky|Seven Days of Sky.]]
+[[File:Tom-Zhao-Elders.png|none|thumb|300x300px|Tom Zhao's graphic representation of the Elders with their names]]
+
+* The Elders are depicted in several merch items from [[That Sky Shop]]. To know more about That Sky Shop products, visit their website: https://thatskyshop.com
+
+==References==
+<references/>
+
+[[fr:Anciens]]
+[[pt-br:Anciões]]
+[[ja:大精霊たち]]
+[[de:Älteste]]
+
+[[Category:Elders]]

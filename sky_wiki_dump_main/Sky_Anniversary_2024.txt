@@ -1,0 +1,777 @@
+{{mbox
+|header  = This page focuses more on the in-game SkyFest celebration. 
+|text    = For more information about the simultaneous in-person experience in Tokyo, please check out the [[SkyFest]] page! 
+|image   = Days-of-Sky-Star-Ticket.png
+}}
+{{SkyEvent
+| image = Days-of-Sky-2024-promo-image.jpg
+| previousevent = [[Sky Anniversary/2023|2023]]
+| nextevent = [[Sky Anniversary/2025|2025]]
+| date = July 12 to July 26, 2024
+| years = {{#lst:Sky Anniversary|Anniversary Years}}
+}}
+{{#ev:youtube|KCXrZU2KOuA||right|5th Anniversary Trailer}}
+This year, ''Sky'' turns 5! And in case you haven't heard, TGC is throwing an extra special party for the occasion. ''Sky'''s 5th Anniversary was called '''SkyFest''', beginning '''Friday, July 12, 2024 at 17:00 PDT (UTC-7)''' and continuing until '''Friday, July 26, 2024 at 23:59 PDT (UTC-7)''', lasting '''15''' days. It featured the first-ever simultaneous in-game and in-person [[Sky Assembly]] event for everyone to be a part of. For the duration of the event, the Anniversary Guide appeared in [[Home]] and [[Aviary Village]]. In addition, the [[Secret Area]] in the Vault of Knowledge was open to everyone through a friendly NPC at the gate, with an additional entrance available through the [[Aviary Village#Aviary Event Store|Aviary Event Store]].
+
+Meditate at circles in [[Aviary Village]] near the [[Friendship Constellation]] statue or the gates to the levels. That will take you to a special version of [[Aviary Village]] which will be the center of the [[SkyFest]] party. The town is decorated just for the occasion, and periodically you can watch or even be part of a parade of Spirits who have made their mark on the realms over the years. Three familiar portals will take you to these locations made just for SkyFest:
+* History of Sky Gallery (Isle of Dawn gate)
+* Art of Sky Gallery (Hidden Forest gate)
+* SkyFest Cinema (Eye of Eden gate)
+
+=== SkyFest Livestream Schedule ===
+<gallery captionalign="center">
+SkyFest-2024-In-Game-Program-Fri.jpg|Friday, July 12 Livestreams
+SkyFest-2024-In-Game-Program-Sat.jpg|Saturday, July 13 Livestreams
+SkyFest-2024-In-Game-Program-Sun.jpg|Sunday, July 14 Livestreams
+</gallery>
+{| class="article-table mw-collapsible mw-collapsed" style="padding: 10px"
+! style="text-align:center" colspan=5 | In-Game Program in PDT
+|-
+! width="10%" | Day 
+! width="10%" | Time (PDT)
+! width="50%" | Event
+! width="15%" | Location
+! width="15%" | Gate
+|-
+| rowspan=9 | July 12
+| 6:00 PM
+| '''An Exploration of the Art of Sky with Yui Tanabe'''
+| SkyFest Cinema
+| Eye of Eden
+|-
+| rowspan=2 | 7:00 PM
+| '''Guided Tour of Sky's History with our Devs'''
+| History Gallery
+| Isle of Dawn
+|-
+| colspan=3 | Join us on a live tour through the History Gallery as we share stories and more about how Sky became what it is today!
+|- 
+| rowspan=2 | 8:00 PM
+| '''SkyFest 2024 Keynote with Jenova Chen'''
+| SkyFest Cinema 
+| Eye of Eden
+|-
+| colspan=3 | Featuring a special animation from the lovely [https://www.youtube.com/@Cocowoll Cocowoll]! As for the keynote itself, let’s just say, you don’t want to miss this one…
+|-
+| 9:00 PM
+| '''Design at Record-Breaking Scale with Nicolas Oueijan'''
+| SkyFest Cinema 
+| Eye of Eden
+|-
+| 10:00 PM
+| '''Guided Tour of Sky's Art with our Devs'''
+| Art Gallery 
+| Hidden Forest
+|-
+| rowspan=2 | 11:00 PM
+| '''How We Got 10,000 Players into a Level'''
+| SkyFest Cinema 
+| Eye of Eden
+|-
+| colspan=3 | Here’s a peek at how our engineering team created the tech that helped us set a GUINNESS WORLD RECORDS™ title!
+|-
+| rowspan=9 | July 13
+| rowspan=2 | 6:00 PM
+| '''Design at Record-Breaking Scale in Sky: Children of the Light'''
+| SkyFest Cinema 
+| Eye of Eden
+|-
+| colspan=3 | It’s okay, you can cry! Learn how the team designed the AURORA Concert to make it a memorable and moving experience.
+|-
+| rowspan=2 | 7:00 PM
+| '''Guided Tour of Sky’s Art with the devs'''
+| Art Gallery 
+| Hidden Forest
+|-
+| colspan=3 | Take a tour through the Art Gallery as we talk about some of the art that played a key role in Sky’s development.
+|-
+| 8:00 PM
+| '''How We Got 10,000 Players into a Level with Sam McGrath'''
+| SkyFest Cinema
+| Eye of Eden
+|-
+| 9:00 PM
+| '''SkyFest 2024 KeyNote with Jenova Chen'''
+| SkyFest Cinema
+| Eye of Eden
+|-
+| rowspan=2 | 10:00 PM
+| '''An Exploration of the Art of Sky with Yui Tanabe'''
+| SkyFest Cinema 
+| Eye of Eden
+|-
+| colspan=3 | How did Sky first come to life in its earliest days? See how art played a key role in the ideas that ultimately evolved into Sky’s world and lore.
+|-
+| 11:00 PM
+| '''Guided Tour of Sky's History with the devs'''
+| History Gallery
+| Isle of Dawn
+|-
+| rowspan=4 | July 14
+| rowspan=2 | 12:00 AM (midnight)
+| '''Designing to Reduce Toxicity in Online Games'''
+| SkyFest Cinema 
+| Eye of Eden
+|-
+| colspan=3 | How do you make a game that welcomes everybody, with a world that allows compassion and generosity to blossom?
+|-
+| rowspan=2 | 01:00
+| '''SkyFest LIVE Community Concert'''<br>with Snowprism, Thatskyfox, Sky Solar, Leo, YamKum
+| SkyFest Cinema 
+| Eye of Eden
+|-
+| colspan=3 | Sky’s first-ever live in-game concert! Player musicians from around the world will share a memorable performance on their Sky instruments. Join the show to hear classic favorites, original compositions, and of course, some of the community’s most beloved Sky songs, played live for you!<br><br>This is a '''one-time-only concert'''! '''It won’t replay after July 14th''', so be sure to join us at the SkyFest Cinema to see it!
+|}
+
+{| class="article-table mw-collapsible mw-collapsed"
+! Sky Creator Troupe Livestream Schedule (All times in PDT, UTC-7) <ref>https://twitter.com/thatskygame/status/1811706486277677110</ref>
+|-
+| 
+* '''JULY 12 / FRIDAY '''
+** StarlitSiren on Twitch @ 1:00 PM 
+** Snowprism on Twitch @ 5:00 PM
+** skyjerald on Twitch @ 5:00 PM
+** Iridaze on Twiter @ 6:00 PM
+|-
+| 
+*'''JULY 14 / SUNDAY '''
+** StarlitSiren on Twitch @ 12:30 AM
+** PredatorXVish on YouTube @ 1:00 AM
+** maverick_crossing on Twitch @ 7:00 AM
+|-
+| 
+*'''JULY 14 / SUNDAY'''
+** StarlitSiren on Twitch @ 12:30 AM
+** PredatorXVish on YouTube @ 1:00 AM
+** maverick_crossing on Twitch @ 7:00 AM
+|}
+
+=== SkyFest Program Schedule ===
+<gallery>
+File:SkyFest-2024-Aviary-Schedule.jpg|Aviary Village Carnival Schedule
+File:SkyFest-2024-Gallery-Meditation-Schedule.jpg|Galleries and Meditation Room Schedule
+File:SkyFest-2024-Cinema-Schedule.jpg|Cinema Schedule
+</gallery>
+{| class="mw-collapsible article-table"
+!'''Event'''
+!'''Time''' (All times in PDT, UTC-7)
+|-
+|Aviary Village Carnival
+|
+*1:00 AM/PM
+*3:00 AM/PM
+*5:00 AM/PM
+*7:00 AM/PM
+*9:00 AM/PM
+*11:00 AM/PM
+|-
+|Galleries and Meditation Room 
+| 
+*2:00 AM
+*4:00 AM/PM
+*8:00 AM/PM
+*10:00 AM/PM
+*12:00 AM/PM
+|}
+
+{| class="mw-collapsible mw-collapsed article-table"
+! colspan="3" |Aviary Village Carnival (Every 2 hours, starting 1 hour after reset)
+|-
+!'''Activity'''
+!'''Time'''
+!'''Duration'''
+|-
+|Ball Game
+|xx:00 - xx:12 
+|12 minutes
+|-
+|Oreo
+|xx:15 - xx:27 
+|12 minutes 
+|-
+|Parade
+|xx:30 - xx:47
+|17 minutes
+|-
+|Fireworks
+|xx:46 - xx:00
+|14 minutes
+|}
+
+{| class="article-table mw-collapsible mw-collapsed"
+! colspan="3" |SkyFest Cinema Schedule (All times in PDT, UTC-7)
+|-
+! colspan="2" |'''Time'''
+!'''Event'''
+|-
+| rowspan="7" |AM Programming
+|1:00 AM
+| How We Got 10,000 Players into a Level with Sam McGrath
+|-
+|3:00 AM 
+| Designing to Reduce Toxicity in Online Games with Jenova Chen
+|-
+|5:00 AM 
+|An Exploration of the Art of Sky with Yui Tanabe
+|-
+|6:00 AM
+|SkyFest 2024 KeyNote with Jenova Chen
+|-
+|7:00 AM
+| Design at Record-Breaking Scale in Sky: Children of the Light with Nicolas Oueijan
+|-
+|9:00 AM
+| How We Got 10,000 Players into a Level with Sam McGrath
+|-
+|11:00 AM 
+| Designing to Reduce Toxicity in Online Games with Jenova Chen
+|-
+| rowspan="8" |PM Programming
+|1:00 PM 
+|An Exploration of the Art of Sky with Yui Tanabe
+|-
+|2:00 PM
+|SkyFest 2024 KeyNote with Jenova Chen
+|-
+|3:00 PM
+| Design at Record-Breaking Scale in Sky: Children of the Light with Nicolas Oueijan
+|-
+|5:00 PM
+| How We Got 10,000 Players into a Level with Sam McGrath
+|-
+|7:00 PM 
+| Designing to Reduce Toxicity in Online Games with Jenova Chen
+|-
+|9:00 PM 
+|An Exploration of the Art of Sky with Yui Tanabe
+|-
+|10:00 PM
+|SkyFest 2024 KeyNote with Jenova Chen
+|-
+|11:00 PM
+| Design at Record-Breaking Scale in Sky: Children of the Light with Nicolas Oueijan
+|}
+
+=== Office Performance Schedule ===
+Every hour starting at reset, there were several performances by Spirits on the rooftop stage in the area, with a different lineup each day.
+{| class="article-table mw-collapsible mw-collapsed"
+|-
+!'''Days in July'''
+!'''Time & Event''' 
+|-
+|Daily
+|Every hour
+
+* xx:30 - Happy Birthday Song
+* xx:40 - Dance Party
+|-
+|13
+|Every 2 hours (starting at reset)
+* xx:00 - Mini Mode Cosplay with Nicolas
+* xx:10 - Blood Moon Summoning Ritual with Atlas
+* xx:20 - Skidmore Solo Performance with Jenova, Kyle, and Yoshi joining in for Encore
+Every 2 hours (starting 1 hour after reset)
+* xx:00 - Chase the Light with Morgan
+* xx:10 - Floating Giant Objects from Sam
+* xx:20 - Trio Performance from Skidmore, Vince, and Dylan
+|-
+|14
+|Every 2 hours (starting at reset)
+
+* xx:00 - Jenova Piano Solo
+*xx:10 - Running Around with Ktjn
+*xx:20 - Creature Summoning with Julian
+
+Every 2 hours (starting 1 hour after reset)
+
+*xx:00 - Through the Eyes of a Child with Yoshi, Ktjn, and Skidmore
+*xx:10 - The Fantastic Four Performance
+*xx:20 - Hardcore Parkour/Fall Guys but Sky with Luke
+|-
+|15, 19, 23
+| Every hour
+
+*xx:00 - Skidmore Solo Performance with Jenova, Kyle, and Yoshi joining in for Encore
+*xx:10 - Jenova Piano Solo
+*xx:20 - Blood Moon Summoning Ritual with Atlas
+|-
+|16, 20, 24 
+|Every hour
+
+*xx:00 - Creature Summoning with Julian
+* xx:10 - Mini Mode Cosplay with Nicolas
+*xx:20 - Running Around with Ktjn
+|-
+|17, 21, 25
+| Every hour
+
+*xx:00 - Trio Performance from Skidmore, Vince, and Dylan
+*xx:10 - Through the Eyes of a Child with Yoshi, Ktjn, and Skidmore
+*xx:20 - Floating Giant Objects from Sam
+|-
+|18, 22, 26 
+|Every hour
+
+*xx:00 - Hardcore Parkour/Fall Guys but Sky with Luke
+*xx:10 - Chase the Light with Morgan
+*xx:20 - The Fantastic Four Performance
+|}
+
+===Ticket Locations===
+[[File:Days-of-Sky-Star-Ticket.png|125px|thumb|A Days of Sky Star Ticket]]
+A total of {{Cost|4 T|event=Skyfest}} star-shaped Tickets were available each day:
+
+*{{Cost|4 T|event=Skyfest}} hidden throughout [[Aviary Village]] (see locations below)
+{{Collapse
+|float= left
+|label= All Exact Ticket Locations
+|content=<u>'''Locations:'''</u>
+*'''1''' - Back of the village
+**A) {{Cost|1 T|event=Skyfest}} near the [[Aviary Village#Aviary Event Store|Event Store]] on the left side, behind the long blue banner to the right of the entrance
+**B) {{Cost|1 T|event=Skyfest}} on the hill above the [[Aviary Village#Hair Salon|Hair Salon]], near some large pots
+**C) {{Cost|1 T|event=Skyfest}} on the hill above the [[Aviary Village#Harmony Hall|Harmony Hall]] building, in front of the windows
+**D) {{Cost|1 T|event=Skyfest}} near the back of the village, left of the tunnel leading to the [[Aviary Village#Realm Entry Portals|Realm portals]]
+**E) {{Cost|1 T|event=Skyfest}} near the back of the village, to the right of the main [[Aviary Village#Aviary Village Cafe|Cafe]] entrance
+**F) {{Cost|1 T|event=Skyfest}} to the right of the entrance to the [[Aviary Village#Harmony Hall|Harmony Hall]] building
+**G) {{Cost|1 T|event=Skyfest}} in the middle of the hill above the [[Aviary Village#Hair Salon|Hair Salon]] building, in front of the windows
+**H) {{Cost|1 T|event=Skyfest}} near the back of the village, following the right path from the [[Aviary Village#Aviary Village Cafe|Cafe]], in front of the portal to the [[#SkyFest Program Schedule|Meditation Room]]
+
+*'''2''' - Central plaza 
+**A) {{Cost|1 T|event=Skyfest}} near the [[Aviary Village#Season of Revival Cosmetics Shop|first shop]] on the left side, on the left railing
+**B) {{Cost|1 T|event=Skyfest}} near the [[Aviary Village#Spell Shop|Spell Shop]] on the right side, in front of the [[Sleepy Traveling Merchant]]
+**C) {{Cost|1 T|event=Skyfest}} to the right of the stairs at the entrance, on top of the small belltower
+**D) {{Cost|1 T|event=Skyfest}} to the left of the crumbling belltower by the entrance, next to the river on the raised ledge by the clouds
+**E) {{Cost|1 T|event=Skyfest}} at the center of the bridge that leads to the [[Aviary Village#Aviary Village Nests|Nest]]
+
+*'''3''' - Front entrance
+**A) {{Cost|1 T|event=Skyfest}} between the belltower and the [[Aviary Village#Aviary Village Nests|Nest]], on the ledge by the columned hallway
+**B) {{Cost|1 T|event=Skyfest}} in the crumbling belltower by the entrance, on the second ledge up and towards the right side
+**C) {{Cost|1 T|event=Skyfest}} to the right of the stairs at the entrance, next to the stone railing
+**D) {{Cost|1 T|event=Skyfest}} in the crumbling belltower by the entrance, on the second ledge up and towards the left side}}
+
+Players could also buy additional Tickets (costing {{Cost|2 AC}} or {{Cost|6 C}} each) from the Anniversary Gift Box next to the Anniversary Guide in the [[Secret Area]].
+
+{| class="article-table mw-collapsible mw-collapsed" style="float:right; text-align:center;"
+! colspan="3" style="text-align:center" |'''Ticket Locations'''
+|-
+!'''Date'''
+!'''Rotations'''
+!'''Daily Total'''
+|-
+|July 12, 2024
+|1A, 2A, 2B, 3A
+|{{Cost|{{#vardefineecho:D1|4}} T|event=SkyFest}}
+|-
+|July 13, 2024
+| 1B, 1C, 2C, 3B
+|{{Cost|{{#vardefineecho:D2|4}} T|event=SkyFest}}
+|-
+|July 14, 2024
+|1D, 2B, 3C, 3D
+|{{Cost|{{#vardefineecho:D3|4}} T|event=SkyFest}}
+|-
+| July 15, 2024
+| 1B, 1E, 2C, 3B 
+|{{Cost|{{#vardefineecho:D4|4}} T|event=SkyFest}}
+|-
+|July 16, 2024
+|1F, 1G, 2D, 2E 
+|{{Cost|{{#vardefineecho:D5|4}} T|event=SkyFest}}
+|-
+|July 17, 2024
+| 1A, 1H, 2A, 3A
+|{{Cost|{{#vardefineecho:D6|4}} T|event=SkyFest}}
+|-
+|July 18, 2024
+| 1C, 1G, 2D, 2E
+|{{Cost|{{#vardefineecho:D7|4}} T|event=SkyFest}}
+|-
+|July 19, 2024
+| 1A, 2A, 2B, 3A
+|{{Cost|{{#vardefineecho:D8|4}} T|event=SkyFest}}
+|-
+|July 20, 2024
+| 1B, 1C, 2C, 3B
+|{{Cost|{{#vardefineecho:D9|4}} T|event=SkyFest}}
+|-
+|July 21, 2024
+| 1D, 1F, 3C, 3D
+|{{Cost|{{#vardefineecho:D10|4}} T|event=SkyFest}}
+|-
+| July 22, 2024
+| 1B, 1H, 2C, 3B
+|{{Cost|{{#vardefineecho:D11|4}} T|event=SkyFest}}
+|-
+|July 23, 2024
+| 1F, 1G, 2D, 2E
+|{{Cost|{{#vardefineecho:D12|4}} T|event=SkyFest}}
+|-
+|July 24, 2024 
+| 1A, 1H, 2A, 3A
+|{{Cost|{{#vardefineecho:D13|4}} T|event=SkyFest}}
+|-
+|July 25, 2024
+| 1C, 1G, 2D, 2E
+|{{Cost|{{#vardefineecho:D14|4}} T|event=SkyFest}}
+|-
+|July 26, 2024
+| 1D, 2B, 3C, 3D
+|{{Cost|{{#vardefineecho:D15|4}} T|event=SkyFest}}
+|-
+! colspan="2" style="text-align:center;" |'''Total so far'''
+! style="text-align:center;" |'''{{Cost|{{#expr: ({{#var:D1}} + {{#var:D2}} + {{#var:D3}} + {{#var:D4}} + {{#var:D5}} + {{#var:D6}} + {{#var:D7}} + {{#var:D8}} + {{#var:D9}} + {{#var:D10}} + {{#var:D11}} + {{#var:D12}} + {{#var:D13}} + {{#var:D14}} + {{#var:D15}}) }} T|event=SkyFest}}'''
+|}
+
+{{Friendship Tree
+|label  = Anniversary Guide
+|event = Skyfest
+|image = Sky-Anniversary-Staff-2024.png
+
+|nodeC6 = {{Icon Name|Anniversary Confetti Launcher|icon}} 20 H
+|  labelC6 = {{Icon Name|Anniversary Confetti Launcher|name}}
+|  linkC6  = Sky Anniversary#{{Icon Name|Anniversary Confetti Launcher|name}}
+
+|nodeL5 = {{Icon Name|Anniversary Balloons|icon}} 30 C
+|  labelL5 = {{Icon Name|Anniversary Balloons|name}}
+|  linkL5  = Sky Anniversary#{{Icon Name|Anniversary Balloons|name}}
+|nodeC5 = Days_of_Sky_-_Medium_cake-spell-icon-Morybel-0146.png 4 C
+|  labelC5 = Medium Cake Spell
+|  linkC5  = Sky Anniversary#Birthday Cake Spells
+
+|nodeL4 = {{Icon Name|Anniversary Light Fence|icon}} 20 C
+|  labelL4 = {{Icon Name|Anniversary Light Fence|name}}
+|  linkL4  = Sky Anniversary#{{Icon Name|Anniversary Light Fence|name}}
+|nodeC4 = Days_of_Sky_-_Medium_cake-spell-icon-Morybel-0146.png 4 C
+|  labelC4 = Medium Cake Spell
+|  linkC4  = Sky Anniversary#Birthday Cake Spells
+|nodeR4 = {{Icon Name|Anniversary Party Lights|icon}} 33 H
+|  labelR4 = {{Icon Name|Anniversary Party Lights|name}}
+|  linkR4 = Sky Anniversary#{{Icon Name|Anniversary Party Lights|name}}
+
+|nodeL3 = {{Icon Name|Anniversary Birthday Flag|icon}} 20 C
+|  labelL3 = {{Icon Name|Anniversary Birthday Flag|name}}
+|  linkL3 = Anniversary#{{Icon Name|Anniversary Birthday Flag|name}}
+|nodeC3 = Days_of_Sky_-_Medium_cake-spell-icon-Morybel-0146.png 4 C
+|  labelC3 = Medium Cake Spell
+|  linkC3  = Sky Anniversary#Birthday Cake Spells
+|nodeR3 = {{Icon Name|Anniversary Sonorous Seashell|icon}} 33 AC
+|  labelR3 = {{Icon Name|Anniversary Sonorous Seashell|name}}
+|  linkR3 = Sky Anniversary#{{Icon Name|Anniversary Sonorous Seashell|name}}
+
+|nodeR2 = musicE2 10 H
+|nodeL2 = {{Icon Name|Jenova Fan|icon}} 7 T
+|  labelL2 = {{Icon Name|Jenova Fan|name}}
+|  linkL2 = Sky Anniversary#{{Icon Name|Jenova Fan|name}}
+|nodeC2 = {{Icon Name|5th Anniversary Hat|icon}} 3 T
+|  labelC2 = {{Icon Name|5th Anniversary Hat|name}}
+|  linkC2 = Sky Anniversary#{{Icon Name|5th Anniversary Hat|name}}
+
+|nodeR1 = {{Icon Name|Anniversary Outfit|icon}} 10 T
+|  labelR1 = {{Icon Name|Anniversary Outfit|name}}
+|  linkR1 = Sky Anniversary#{{Icon Name|Anniversary Outfit|name}}
+|nodeL1 = {{Icon Name|Star Jar|icon}} 15 T
+|  labelL1 = {{Icon Name|Star Jar|name}}
+|  linkL1 = Sky Anniversary#{{Icon Name|Star Jar|name}}
+|nodeC1 = Days_of_Sky_-_Small_cake-spell-icon-Morybel-0146.png
+|  labelC1 = Small Cake Spell
+|  linkC1  = Sky Anniversary#Birthday Cake Spells
+}}
+
+{{Clear}}
+
+===<big>All Available Collectibles in 2024</big>===
+{| class="article-table"
+|+
+!Name!!Icon!!Type !!Cost !!Location!!Spell!!Spell Cost & Locations
+|-
+! colspan="7" style="text-align:center;" |From the 2024 SkyFest Event
+|-
+|[[Sky Anniversary#{{Icon Name|SkyFest Wireframe Cape|name}}|{{Icon Name|SkyFest Wireframe Cape|name}}]]
+|{{Days Item|SkyFest Wireframe Cape||table}}
+|[[Cape]]
+|{{Cost|19.99 USD|refnote}} 
+|<small>[[Premium Candle Shop]]</small>
+|{{Days Item|SkyFest Wireframe Cape|spell|table}}<small>x3</small>
+|<small>Anniversary Gift Box at the [[Secret Area]] for free</small>
+|-
+|[[Sky Anniversary#{{Icon Name|SkyFest Oreo Headband|name}}|{{Icon Name|SkyFest Oreo Headband|name}}]]
+|{{Days Item|SkyFest Oreo Headband||table}}
+|[[Hair Accessory]]
+|{{Cost|4.99 USD|refnote}}
+|<small>[[Premium Candle Shop]]</small>
+|{{Days Item|SkyFest Oreo Headband|spell|table}}<small>x3</small>
+|<small>Anniversary Gift Box at the [[Secret Area]] for free</small>
+|-
+|[[Sky Anniversary#{{Icon Name|5th Anniversary Hat|name}}|{{Icon Name|5th Anniversary Hat|name}}]]
+|{{Days Item|5th Anniversary Hat||table}}
+|[[Hair Accessory]]
+|{{Cost|3 T|event=Skyfest}}
+|<small>Anniversary Guide at [[Home]] and the [[Secret Area]]</small>
+|{{Days Item|5th Anniversary Hat|spell|table}}<small>x3</small>
+|<small>Anniversary Gift Box at the [[Secret Area]] for free</small>
+|-
+|[[Sky Anniversary#{{Icon Name|SkyFest Outfit|name}}|{{Icon Name|SkyFest Outfit|name}}]]
+|{{Days Item|SkyFest Outfit||table}}
+|[[Outfit]]
+|{{Cost|10 T|event=Skyfest}}
+|<small>Anniversary Guide at [[Home]] and the [[Secret Area]]</small>
+|{{Days Item|SkyFest Outfit|spell|table}}<small>x3</small>
+|<small>Anniversary Gift Box at the [[Secret Area]] for free</small>
+|-
+|[[Sky Anniversary#{{Icon Name|Star Jar|name}}|{{Icon Name|Star Jar|name}}]]
+|{{Days Item|Star Jar||table}}
+|[[Prop]]
+|{{Cost|15 T|event=Skyfest}}
+|<small>Anniversary Guide at [[Home]] and the [[Secret Area]]</small>
+|{{Days Item|Star Jar|spell|table}}<small>x3</small>
+|<small>Anniversary Gift Box at the [[Secret Area]] for free</small>
+|-
+|[[Sky Anniversary#{{Icon Name|Jenova Fan|name}}|{{Icon Name|Jenova Fan|name}}]]
+|{{Days Item|Jenova Fan||table}}
+|[[Prop]]
+|{{Cost|7 T|event=Skyfest}}
+|<small>Anniversary Guide at [[Home]] and the [[Secret Area]]</small>
+|{{Days Item|Jenova Fan|spell|table}}<small>x3</small>
+|<small>Anniversary Gift Box at the [[Secret Area]] for free</small>
+|-
+! colspan="7" style="text-align:center;" |From the 2023 Sky Anniversary Event 
+|-
+|[[Sky Anniversary#{{Icon Name|Sky Anniversary Oreo Plush|name}}|{{Icon Name|Sky Anniversary Oreo Plush|name}}]]
+|{{Days Item|Sky Anniversary Oreo Plush||table}}
+|[[Prop]]
+|{{Cost|9.99 USD|refnote}}
+|<small>Anniversary Mannequin at the [[Secret Area]]</small>
+|{{Days Item|Sky Anniversary Oreo Plush|spell|table}}<small>x2</small>
+|<small>Anniversary Gift Box at the [[Secret Area]] for free</small>
+|-
+|[[Sky Anniversary#{{Icon Name|Sky Anniversary Musical Shell Prop|name}}|{{Icon Name|Sky Anniversary Musical Shell Prop|name}}]]
+|{{Days Item|Sky Anniversary Musical Shell Prop||table}}
+|[[Prop]]
+|{{Cost|33 AC}}
+|<small>Anniversary Guide at [[Home]] and the [[Secret Area]]</small>
+|{{Days Item|Sky Anniversary Musical Shell Prop|spell|table}}<small>x2</small>
+|<small>Anniversary Gift Box at the [[Secret Area]] for free</small>
+|-
+|[[Sky Anniversary#{{Icon Name|Sky Anniversary Disco Light Prop|name}}|{{Icon Name|Sky Anniversary Disco Light Prop|name}}]]
+|{{Days Item|Sky Anniversary Disco Light Prop||table}}
+|[[Prop]]
+|{{Cost|33 H}}
+|<small>Anniversary Guide at [[Home]] and the [[Secret Area]]</small>
+|{{Days Item|Sky Anniversary Disco Light Prop|spell|table}}<small>x2</small>
+|<small>Anniversary Gift Box at the [[Secret Area]] for free</small>
+|-
+|[[Sky Anniversary#Confetti Collar Spell|Confetti Collar Spell]]
+|
+|[[Spell]]
+|{{Cost|4 C}}
+|
+|{{Icon|Sky-Anniversary-Confetti-Collar-Spell-credit-Morybel.png|table|label=Confetti Collar Spell|in_page=1}}<small>x2</small>
+|<small>Anniversary Gift Box at the [[Secret Area]]</small>
+|-
+|[[Sky Anniversary#Balloon Spell Shop|Balloon Krill Hat Spell]]
+|
+|[[Spell]]
+|<small>Free and Random</small> 
+<small>for {{Cost|4 C}} or {{Cost|2 T|event=SkyFest}}</small>
+|
+|{{Icon|Sky-Anniversary-Hair-accessory-Balloon-Krill-icon-Morybel-0146.png|table|label=Balloon Krill Hat Spell|in_page=1}}<small>x3</small>
+|<small>Anniversary Gift Box at the [[Secret Area]]</small>
+|-
+|[[Sky Anniversary#Balloon Spell Shop|Balloon Manta Hat Spell]]
+|
+|[[Spell]]
+|<small>Free and Random</small> 
+<small>for {{Cost|4 C}} or {{Cost|2 T|event=SkyFest}}</small>
+|
+|{{Icon|Sky-Anniversary-Hair-accessory-Balloon-Manta-icon-Morybel-0146.png|table|label=Balloon Manta Hat Spell|in_page=1}}<small>x3</small>
+|<small>Anniversary Gift Box at the [[Secret Area]]</small>
+|-
+|[[Sky Anniversary#Balloon Spell Shop|Balloon Jellyfish Hat Spell]]
+|
+|[[Spell]]
+|<small>Free and Random</small> 
+<small>for {{Cost|4 C}} or {{Cost|2 T|event=SkyFest}}</small>
+|
+|{{Icon|Sky-Anniversary-Hair-Accessory-Balloon-Jellyfish-icon-Morybel-0146.png|table|label=Balloon Jellyfish Hat Spell|in_page=1}}<small>x3</small>
+|<small>Anniversary Gift Box at the [[Secret Area]]</small>
+|-
+|[[Sky Anniversary#Balloon Spell Shop|Balloon Crab Hat Spell]]
+|
+|[[Spell]]
+|<small>Free and Random</small> 
+<small>for {{Cost|4 C}} or {{Cost|2 T|event=SkyFest}}</small>
+|
+|{{Icon|Sky-Anniversary-Hair-Accessory-Balloon-Crab-icon-Morybel-0146.png|table|label=Balloon Crab Hat Spell|in_page=1}}<small>x3</small>
+|<small>Anniversary Gift Box at the [[Secret Area]]</small>
+|-
+|[[Sky Anniversary#Balloon Spell Shop|Balloon Crown Hat Spell]]
+|
+|[[Spell]]
+|<small>Free and Random</small> 
+<small>for {{Cost|4 C}} or {{Cost|2 T|event=SkyFest}}</small>
+|
+|{{Icon|Sky-Anniversary-Hair-Accessory-Balloon-Crown-icon-Morybel-0146.png|table|label=Balloon Crown Hat Spell|in_page=1}}<small>x3</small>
+|<small>Anniversary Gift Box at the [[Secret Area]]</small>
+|-
+! colspan="7" style="text-align:center;" |From the 2022 Sky Anniversary Event
+|-
+|[[#{{Icon Name|Anniversary Light Fence|name}}|{{Icon Name|Anniversary Light Fence|name}}]]
+|{{Days Item|Anniversary Light Fence||table}}
+|[[Prop]]
+|{{Cost| 20 C}}
+|<small>Anniversary Guide at [[Home]] and the [[Secret Area]]</small>
+|
+|
+|-
+|[[#{{Icon Name|Anniversary Balloons|name}}|{{Icon Name|Anniversary Balloons|name}}]]
+|{{Days Item|Anniversary Balloons||table}}
+|[[Prop]]
+|{{Cost| 30 C}}
+|<small>Anniversary Guide at [[Home]] and the [[Secret Area]]</small>
+|
+|
+|-
+|[[#{{Icon Name|Anniversary Confetti Launcher|name}}|{{Icon Name|Anniversary Confetti Launcher|name}}]]
+|{{Days Item|Anniversary Confetti Launcher||table}}
+|[[Prop]]
+|{{Cost| 20 H}}
+|<small>Anniversary Guide at [[Home]] and the [[Secret Area]]</small>
+|
+|
+|-
+|[[#Happy Birthday Music Sheet|Happy Birthday Music Sheet]]
+|{{Music Sheet|E2}}
+|[[Music Sheet]]
+|{{Cost| 10 H }}
+|<small>Anniversary Guide at [[Home]] and the [[Secret Area]]</small>
+|
+|
+|-
+|[[#TGC Guitar Pack|TGC Guitar Pack]] + {{Cost|115 C}}
+|{{Days Item|Blue Electric Guitar||table}}
+|[[Instrument]]
+|{{Cost | 29.99 USD | refnote}}
+|<small>From the Office Guide</small>
+|{{Days Item|Blue Electric Guitar|spell|table}}
+|<small>Anniversary Gift Box at the [[Secret Area]] for free</small>
+|-
+! colspan="7" style="text-align:center;" |From the 2021 Sky Anniversary Event
+|-
+|[[#{{Icon Name|Anniversary Birthday Flag|name}}|{{Icon Name|Anniversary Birthday Flag|name}}]]
+|{{Days Item|Anniversary Birthday Flag||table}}
+|[[Prop]]
+|{{Cost| 20 C}}
+|<small>Anniversary Guide at [[Home]] and the [[Secret Area]]</small>
+|
+|
+|-
+|[[#Birthday Cake Spells|Small Birthday Cake Spell]]
+|
+|[[Spell]]
+|<small>Random for {{Cost|3 T|event=SkyFest}}</small>
+|
+|{{Icon|Days_of_Sky_-_Small_cake.png|table|label=Small Birthday Cake Spell|in_page=1}}
+|<small>Anniversary Guide and Anniversary Gift Box at the [[Secret Area]]</small>
+|-
+|[[#Birthday Cake Spells|Medium Birthday Cake Spell]]
+|
+|[[Spell]]
+|<small>Random for {{Cost|3 T|event=SkyFest}}</small>
+|
+|{{Icon|Days_of_Sky_-_Medium_cake.png|table|label=Medium Birthday Cake Spell|in_page=1}}
+|<small>Anniversary Guide and Anniversary Gift Box at the [[Secret Area]]</small>
+|-
+|[[#Birthday Cake Spells|Large Birthday Cake Spell]]
+|
+|[[Spell]]
+|<small>Random for {{Cost|3 T|event=SkyFest}}</small>
+|
+|{{Icon|Days_of_Sky_-_Large_cake.png|table|label=Large Birthday Cake Spell|in_page=1}}
+|<small>Anniversary Guide and Anniversary Gift Box at the [[Secret Area]]</small>
+|}
+
+===2024 New Cosmetics and Props===
+
+====SkyFest Wireframe Cape====
+::'''''"A special commemoration of Sky's fifth Anniversary. Allows revising the festive transformation of Aviary Village, History of Sky gallery, Art of Sky gallery, and Developer Talk stage."'''''
+The SkyFest Wireframe Cape is a blue gradient version of the [[Capes#Base Cape|Base Cape]] with a [[wp:Wire-frame_model|wireframe]] pattern along the edges and a lopsided scarf wrapped around the player's neck. The scarf is a matching blue color with a pale trim, and features a constellation design shaped like a "5". This [[Cape]] was introduced in 2024 and was available for {{Cost|19.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.
+
+This item gives the wearer and the friends they hold hands with a special ability to revisit the festive transformation of [[Aviary Village]], including the Ball Game, Oreo, Parade, and Fireworks events, alongside the History of Sky gallery, Art of Sky gallery, and Developer Talk Stage. The Cape provides access to SkyFest event spaces only, so it '''does not include''' access to the [[Secret Area]] or Meditation Area. The option to revisit the SkyFest festivities is enabled in the [[Expression Menu]]; simply open the [[Menus_and_Controls#Emote_Submenu|Emote Submenu]] with the item equipped and select the Cape's icon to be teleported to the SkyFest version of Aviary Village. <small>(Since this is a numbered item for a specific birthday year, it is not scheduled to return in future years.)<ref name="Numbered items">"As you may know from past events, numbered items for specific birthday years are only available for their given year. After all, you can’t turn five twice!" - {{v|0.26.0}} Patch Notes</ref><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|SkyFest Wireframe Cape|iap}} {{!}} {{Icon Name|SkyFest Wireframe Cape|name}} IAP
+{{Icon Name|SkyFest Wireframe Cape|icon}} {{!}} {{Icon Name|SkyFest Wireframe Cape|name}} icon
+{{Icon Name|SkyFest Wireframe Cape|front}} {{!}} {{Icon Name|SkyFest Wireframe Cape|name}} front
+{{Icon Name|SkyFest Wireframe Cape|interior}} {{!}} {{Icon Name|SkyFest Wireframe Cape|name}} interior
+{{Icon Name|SkyFest Wireframe Cape|real}} {{!}} {{Icon Name|SkyFest Wireframe Cape|name}} back
+{{Icon Name|SkyFest Wireframe Cape|exterior}} {{!}} {{Icon Name|SkyFest Wireframe Cape|name}} exterior
+{{Icon Name|SkyFest Wireframe Cape|spell}} {{!}} {{Icon Name|SkyFest Wireframe Cape|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====SkyFest Oreo Headband==== 
+::'''''"You too can sport Oreo's iconic ears."'''''
+The SkyFest Oreo Headband is inspired by [[Oreo]], featuring a pair of black ears and a small white muzzle with a pink tongue poking out. This [[Hair Accessory]] was introduced in 2024 and was available for {{Cost|4.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br> 
+<br>
+{{#tag:gallery
+|{{Icon Name|SkyFest Oreo Headband|iap}} {{!}} {{Icon Name|SkyFest Oreo Headband|name}} IAP
+{{Icon Name|SkyFest Oreo Headband|icon}} {{!}} {{Icon Name|SkyFest Oreo Headband|name}} icon
+{{Icon Name|SkyFest Oreo Headband|real}} {{!}} {{Icon Name|SkyFest Oreo Headband|name}}
+{{Icon Name|SkyFest Oreo Headband|spell}} {{!}} {{Icon Name|SkyFest Oreo Headband|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====5th Anniversary Headband ====
+The 5th Anniversary Headband is a thin, light blue headband adorned with five white floating diamonds. This [[Hair Accessory]] was introduced in 2024 and was available for {{Cost|3 T|event=Skyfest}} from the Anniversary Guide in [[Home]] and the [[Secret Area]] for the duration of the event. <small>(Since this is a numbered item for a specific birthday year, it is not scheduled to return in future years.)<ref name="Numbered items" /></small><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|5th Anniversary Hat|icon}} {{!}} {{Icon Name|5th Anniversary Hat|name}} icon
+{{Icon Name|5th Anniversary Hat|real}} {{!}} {{Icon Name|5th Anniversary Hat|name}}
+{{Icon Name|5th Anniversary Hat|spell}} {{!}} {{Icon Name|5th Anniversary Hat|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====SkyFest Star Jar====
+The SkyFest Star Jar is a transparent jar shaped like an 8-pointed star with a cork and a gold handle attached to the top. Inside, it contains five small stars. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]]. When placed down, it can be picked up and held by the handle. This Prop was introduced in 2024 for {{Cost|15 T|event=Skyfest}} from the Anniversary Guide in [[Home]] and the [[Secret Area]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Star Jar|icon}} {{!}} {{Icon Name|Star Jar|name}} icon
+{{Icon Name|Star Jar|real}} {{!}} {{Icon Name|Star Jar|name}}
+{{Icon Name|Star Jar|back}} {{!}} {{Icon Name|Star Jar|name}} on a player's back
+{{Icon Name|Star Jar|held}} {{!}} Holding the {{Icon Name|Star Jar|name}}
+{{Icon Name|Star Jar|spell}} {{!}} {{Icon Name|Star Jar|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+==== SkyFest 5th Anniversary T-shirt====
+The SkyFest 5th Anniversary T-shirt is a pair of blue shorts paired with a white tee that features a constellation shaped like a "5" and a light blue tag on the front hem. This [[Outfit]] was introduced in 2024 for {{Cost|10 T|event=Skyfest}} from the Anniversary Guide in [[Home]] and the [[Secret Area]] for the duration of the event. <small>(Since this is a numbered item for a specific birthday year, it is not scheduled to return in future years.)<ref name="Numbered items" /></small><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|SkyFest Outfit|icon}} {{!}} {{Icon Name|SkyFest Outfit|name}} icon
+{{Icon Name|SkyFest Outfit|real}} {{!}} {{Icon Name|SkyFest Outfit|name}} front
+{{Icon Name|SkyFest Outfit|back}} {{!}} {{Icon Name|SkyFest Outfit|name}} back
+{{Icon Name|SkyFest Outfit|spell}} {{!}} {{Icon Name|SkyFest Outfit|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====SkyFest Jenova Fan ====
+The SkyFest Jenova Fan is a light blue, square-shaped hand fan with the face of Jenova Chen's [[Spirit]] on both sides. When equipped, it is held by the player in a pose similar to the [[Saluting_Captain#Prop|Fireworks Staff]]. It cannot be placed and therefore cannot be used in [[Shared Spaces]]. This [[Prop]] was introduced in 2024 for {{Cost|7 T|event=Skyfest}} from the Anniversary Guide in [[Home]] and the [[Secret Area]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Jenova Fan|icon}} {{!}} {{Icon Name|Jenova Fan|name}} icon
+{{Icon Name|Jenova Fan|real}} {{!}} {{Icon Name|Jenova Fan|name}}
+{{Icon Name|Jenova Fan|back}} {{!}} {{Icon Name|Jenova Fan|name}} on a player's back
+{{Icon Name|Jenova Fan|held}} {{!}} Holding the {{Icon Name|Jenova Fan|name}}
+{{Icon Name|Jenova Fan|spell}} {{!}} {{Icon Name|Jenova Fan|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+==References==
+'''More information about Skyfest 2024 can be found on [https://www.thatskygame.com/news/skyfest-2024-an-anniversary-celebration-like-no-other/ ThatSkyGame's Website].'''
+<references />
+
+{{#lst:Sky Anniversary|Anniversary Navbox}}
+
+[[ja:Skyアニバーサリー/2024]]
+[[pt-br:Aniversário do Sky/2024]]
+[[ru:Годовщина Sky/2024]]

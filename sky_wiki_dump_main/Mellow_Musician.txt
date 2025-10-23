@@ -1,0 +1,187 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Performance-Spirit-Mellow-Musician.png|Standard
+Performance-Spirit-Mellow-Musician-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Mask|infobox}}{{Spirit Item||Hair|infobox}}{{Spirit Item||Cape|infobox}}
+|instruments = {{Spirit Item||Instrument|infobox}}
+|season    = Performance
+|realm     = Valley of Triumph
+|location  = Village Theater
+|ts        = August 1, 2024 (#119)
+}}
+<section begin="Summary" />The '''Mellow Musician''' is a [[Seasonal Spirit]] from the [[Season of Performance]] who offers the {{Emote|Mellow Musician|inline_text}} Expression. The Mellow Musician is found left of the main entrance to the [[Village Theater]], at the top of some steps between two buildings. The collectibles [[Mellow Musician#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Mellow Musician|Mask|inline_text}}, a {{Spirit Item|Mellow Musician|Hair|inline_text}}, a {{Spirit Item|Mellow Musician|Cape|inline_text}}, and the {{Spirit Item|Mellow Musician|Instrument|label=Electric Guitar Instrument|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:SOPerformance - Mellow Musician spirit reveal.jpg|thumb|320px|none|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|rOrdVv7qGM8||inline|Video Guide}}
+
+The Mellow Musician can be found left of the main entrance to the [[Village Theater]], at the top of some steps between two buildings. This Spirit has a [[Standard Memory|standard memory]] with 7 memory fragments and a 15-minute overall [[Timed Memory|time limit]]. 
+
+As their memory unfolds, the Mellow Musician and the [[Frantic Stagehand]] can be seen carrying a stack of props over towards the Theater. The Frantic Stagehand loads the props onto a sled for easier transport, but the Musician is distracted by something on the other side of the row of buildings. The Musician finds the [[Twirling Champion]] and the [[Cheerful Spectator]] playing music together on their instruments, and forgets about the task at hand. The Stagehand looks around, confused as to where the Musician went. Eventually, the Stagehand finds the Musician bouncing along to the beat of the music that the Champion and Spectator are playing.
+
+At the end of the memory, the Stagehand is seen running over to the Musician, who is bobbing their head along to the song. The Stagehand puts their hands on their hips in response to the sight before them.
+{{Clear}}
+
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Mellow-Musician-headbob-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Mellow-Musician-headbob-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Mellow-Musician-headbob-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Mellow-Musician-headbob-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar bob their head back and forth as if listening to a fun song, while a distinct, faintly electronic beat plays. This action is continued for as long as you don't move your avatar.
+*Level 2 makes the same motion as Level 1, with a white glowing circle around your avatar's head and a small burst of light particles spreading and following the head's movement.
+*Level 3 will make your avatar close their eyes, sway back a little, and lift up their right leg, before letting it step forward and then bopping their whole body up and down while slowly moving from side to side in rhythm with the music, while a similar beat with a slower tempo plays. This action is continued for as long as you don't move your avatar.
+*Level 4 makes the same motion as Level 3, with a white glowing circle around your avatar's head and a burst of small light particles spreading and following the head's movement.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+== Cosmetics ==
+=== Mask ===
+The [[Mask]] offered by this Spirit is oval and stone gray, with a pointy nose, almond-shaped, nearly closed eyes, and one white, curved stroke along each side of the Mask, curving from the chin up into eyebrow shapes, costing {{Cost|32 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's second node ({{Cost|12 SC|season=Performance}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask front
+{{Icon Name||Mask|side}} {{!}} The Mask side
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Hair ===
+The [[Hair]] offered by this Spirit includes voluminous, fluffy hair that goes past the shoulders, and a red hairband tied around the forehead, with fluffy, messy bangs hanging over it on one side, costing {{Cost|42 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's sixth node ({{Cost|102 SC|season=Performance}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair front
+{{Icon Name||Hair|side}} {{!}} The Hair side
+{{Icon Name||Hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Cape ===
+The [[Cape]] offered by this Spirit is a long, red scarf with yellow stitching, mostly falling around the player's left shoulder, costing {{Cost|70 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's third node ({{Cost|26 SC|season=Performance}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||Cape|interior}} {{!}} The Cape interior
+{{Icon Name||Cape|back}} {{!}} The Cape back
+{{Icon Name||Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Instrument ===
+The [[Instrument]] offered by this Spirit is the '''Electric Guitar'''. It is mainly colored black, with blue and yellow accents, as well as glowing blue strings, costing {{Cost|80 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fifth node ({{Cost|66 SC|season=Performance}} total). The player stands while playing the Instrument, which plays 15 notes. Note that the player cannot move around while playing the Instrument, unlike all other Instruments played standing.
+
+The icon for this Instrument features a "[https://en.wikipedia.org/wiki/Fermata fermata]" symbol in its upper left corner. In music notation, this symbol indicates that one can play and hold a note for as long as one wants. The same principle applies to this Guitar, and players are able to hold any note for as long as they want as well. Once the sound of the initial strum fades away, a pleasant hum takes its place for as long as the note is held.
+
+The Electric Guitar plays the melody [[Music Sheet Parts|part]] on Music Sheets. Its [[Instrument Pitch|pitch]] is the one octave lower than the standard {{Spirit Item|Cheerful Spectator|Instrument|inline_text}} (in C major, it covers C<sub>3</sub> to C<sub>5</sub>).
+
+In [[Harmony Hall]], the Electric Guitar can be found in the left room with all the other stringed Instruments, in its own niche in the center of the wall.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Instrument|icon}} {{!}} The Instrument icon
+{{Icon Name||Instrument|real}} {{!}} The Instrument
+{{Icon Name||Instrument|held}} {{!}} Playing the Instrument
+{{Icon Name||Instrument|back}} {{!}} The Instrument on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling
+|ts_dates=*August 1, 2024 (#119)
+}}
+<section begin='TS Friendship Tree' />{{Friendship Tree
+|spirit = Mellow Musician
+|image  = SoPerformance - Mellow Musician.png
+|season = Performance
+
+|nodeC6 = Instrument 80 C
+|nodeL5 = Hair 42 C
+|nodeC5 = spellx 5 C
+
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeR4 = Cape 70 C
+
+|nodeC3 = wing
+
+|nodeL2 = Mask 32 C
+|nodeC2 = spellx 5 C
+|nodeR2 = Heart 3 C
+
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end='TS Friendship Tree' />
+
+===Hints===
+The hints given before the [[Mellow Musician]]'s first appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=First Visit Hints
+|content=<div>
+* Takes the longest getting ready in the mornings compared to their friends
+* Easily gets distracted by their own thoughts
+* Is their own worst critic
+* Has a lot of hopes and dreams
+* Found their outfit's materials in an unexpected place
+* Can fall asleep anywhere
+* Is actually pretty competitive
+* Is a bit lazy when they're not interested in something...
+* Would probably end up on [[Tournament of Triumph|Team Wasteland or Team Valley]] based on their personality
+* Tries to keep their cool in any situation
+</div>
+}}
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Performance}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Mellow Musician
+|image  = SoPerformance - Mellow Musician.png
+|type   = season
+|season = Performance
+
+|nodeC7 = season_heart 3 SC SP
+|nodeL6 = spellx SP
+|nodeC6 = Hair 36 SC
+|nodeL5 = Instrument SP
+|nodeC5 = spellx 22 SC
+|nodeL4 = emote4 SP
+|nodeC4 = emote3 18 SC
+|nodeL3 = Cape SP
+|nodeC3 = spellx 14 SC
+|nodeL2 = spellx SP
+|nodeC2 = Mask 12 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Unique Daily Quests==
+{{#section-h:Quests/Daily Quest Spirits|{{PAGENAME}}}}
+
+== Personality ==
+On April 8 2022, TGC officially announced <ref name="Personality Tweet">https://twitter.com/thatskygame/status/1512581068762849289</ref> and introduced {{PAGENAME}} with the following personality traits: 
+*'''{{PAGENAME}}, cast when they “just happened” to play where the director overheard them'''
+* 🎸 Knows the best chord for any occasion
+* 💨 Memorized every shortcut in the Village
+* 🛏️ Never makes their bed
+* 🎵 Can imitate manta calls perfectly on their instrument
+
+On February 27, 2023, a Discord user asked, "If Performance gang went on tour in an RV, who's driving?" and another user replied, "<s>If Mellow drives they're dead</s>". Ash replied "I'd pick Mellow last I agree"<ref>[https://discord.com/channels/575762611111592007/575827782144098304/1079837326508826624 Ash's Discord message about Mellow Musician]</ref> .
+
+==References==
+<references />
+
+[[de:Entspannter Musiker]]
+[[pt-br:Músico Meloso]]
+[[ja:のんびり屋の音楽家]]
+[[fr:Musicien serein]]
+[[ru:Благодушный музыкант]]

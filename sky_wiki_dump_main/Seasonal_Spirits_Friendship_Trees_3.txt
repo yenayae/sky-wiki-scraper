@@ -1,0 +1,127 @@
+Due to the increasing amount of information, the [[Friendship Tree]]s of the [[Seasonal Spirits]] will be split over multiple pages.
+{| class="wikitable"
+|- style="text-align:center"
+! {{#ifeq: {{PAGENAME}} | Seasonal Spirits/Friendship Trees | This Page | [[Seasonal Spirits/Friendship Trees]]}} !! {{#ifeq: {{PAGENAME}} | Seasonal Spirits/Friendship Trees 2 | This Page | [[Seasonal Spirits/Friendship Trees 2]]}} !! {{#ifeq: {{PAGENAME}} | Seasonal Spirits/Friendship Trees 3 | This Page | [[Seasonal Spirits/Friendship Trees 3]]}}
+|-
+| {{Cols|2|
+* Gratitude
+* Lightseekers
+* Belonging
+* Rhythm
+* Enchantment
+* Sanctuary
+* Prophecy
+* Dreams
+* Assembly
+* The Little Prince
+}}
+| {{Cols|2| 
+* Flight
+* Abyss
+* Performance
+* Shattering
+* AURORA
+* Remembrance
+* Passage
+* Moments
+* Revival
+* The Nine-Colored Deer
+}}
+| {{Cols|2|
+* Nesting
+* Duets
+* Moomin
+* Radiance
+* Blue Bird
+* Two Embers - Part 1
+}}
+|}
+
+==Season of Nesting==
+See their Seasonal Friendship Tree on the [[Season of Nesting#All Nesting Friendship Trees|Season of Nesting]] page.
+{{Mobile Tabber
+|tab1 = {{Emote|Nesting Solarium|tab}}
+|c1   = {{#if:{{#lst:Nesting Solarium|TS Friendship Tree}}|{{#lst:Nesting Solarium|TS Friendship Tree}}|[[Nesting Solarium]] has not returned as a TS.}}
+|tab2 = {{Emote|Nesting Loft|tab}}
+|c2   = {{#if:{{#lst:Nesting Loft|TS Friendship Tree}}|{{#lst:Nesting Loft|TS Friendship Tree}}|[[Nesting Loft]] has not returned as a TS.}}
+|tab3 = {{Emote|Nesting Atrium|tab}}
+|c3   = {{#if:{{#lst:Nesting Atrium|TS Friendship Tree}}|{{#lst:Nesting Atrium|TS Friendship Tree}}|[[Nesting Atrium]] has not returned as a TS.}}
+|tab4 = {{Emote|Nesting Nook|tab}}
+|c4   = {{#if:{{#lst:Nesting Nook|TS Friendship Tree}}|{{#lst:Nesting Nook|TS Friendship Tree}}|[[Nesting Nook]] has not returned as a TS.}}
+}}
+
+==Season of Duets==
+See their Seasonal Friendship Tree on the [[Season of Duets#All Duets Friendship Trees|Season of Duets]] page.
+{{Mobile Tabber
+|tab1 = {{Emote|The Cellist's Beginnings|tab}}
+|c1   = {{#if:{{#lst:The Cellist's Beginnings|TS Friendship Tree}}|{{#lst:The Cellist's Beginnings|TS Friendship Tree}}|[[The Cellist's Beginnings]] has not returned as a TS.}}
+|tab2 = {{Emote|The Pianist's Beginnings|tab}}
+|c2   = {{#if:{{#lst:The Pianist's Beginnings|TS Friendship Tree}}|{{#lst:The Pianist's Beginnings|TS Friendship Tree}}|[[The Pianist's Beginnings]] has not returned as a TS.}}
+|tab3 = {{Emote|The Musicians' Legacy|tab}}
+|c3   = {{#if:{{#lst:The Musicians' Legacy|TS Friendship Tree}}|{{#lst:The Musicians' Legacy|TS Friendship Tree}}|[[The Musicians' Legacy]] has not returned as a TS.}}
+|tab4 = {{Emote|The Cellist's Flourishing|tab}}
+|c4   = {{#if:{{#lst:The Cellist's Flourishing|TS Friendship Tree}}|{{#lst:The Cellist's Flourishing|TS Friendship Tree}}|[[The Cellist's Flourishing]] has not returned as a TS.}}
+|tab5 = {{Emote|The Pianist's Flourishing|tab}}
+|c5   = {{#if:{{#lst:The Pianist's Flourishing|TS Friendship Tree}}|{{#lst:The Pianist's Flourishing|TS Friendship Tree}}|[[The Pianist's Flourishing]] has not returned as a TS.}}
+}}
+
+==Season of Moomin==
+See their Seasonal Friendship Tree on the [[Season of Moomin#All Moomin Friendship Trees|Season of Moomin]] page.
+{{Mobile Tabber
+|tab1 = {{Emote|Comfort of Kindness|tab}}
+|c1   = {{#if:{{#lst:Comfort of Kindness|TS Friendship Tree}}|{{#lst:Comfort of Kindness|TS Friendship Tree}}|[[Comfort of Kindness]] has not returned as a TS.}}
+|tab2 = {{Emote|Inspiration of Inclusion|tab}}
+|c2   = {{#if:{{#lst:Inspiration of Inclusion|TS Friendship Tree}}|{{#lst:Inspiration of Inclusion|TS Friendship Tree}}|[[Inspiration of Inclusion]] has not returned as a TS.}}
+|tab3 = {{Emote|Sense of Self|tab}}
+|c3   = {{#if:{{#lst:Sense of Self|TS Friendship Tree}}|{{#lst:Sense of Self|TS Friendship Tree}}|[[Sense of Self]] has not returned as a TS.}}
+|tab4 = {{Emote|Spirit of Adventure|tab}}
+|c4   = {{#if:{{#lst:Spirit of Adventure|TS Friendship Tree}}|{{#lst:Spirit of Adventure|TS Friendship Tree}}|[[Spirit of Adventure]] has not returned as a TS.}}
+}}
+
+==Season of Radiance==
+See their Seasonal Friendship Tree on the [[Season of Radiance#All Radiance Friendship Trees|Season of Radiance]] page.
+{{Mobile Tabber
+|tab1 = {{Emote|Radiance Greeting Shaman|tab}}
+|c1   = {{#if:{{#lst:Radiance Greeting Shaman|TS Friendship Tree}}|{{#lst:Radiance Greeting Shaman|TS Friendship Tree}}|[[Radiance Greeting Shaman]] has not returned as a TS.}}
+|tab2 = {{Emote|Radiance Leaping Dancer|tab}}
+|c2   = {{#if:{{#lst:Radiance Leaping Dancer|TS Friendship Tree}}|{{#lst:Radiance Leaping Dancer|TS Friendship Tree}}|[[Radiance Leaping Dancer]] has not returned as a TS.}}
+|tab3 = {{Emote|Radiance Provoking Performer|tab}}
+|c3   = {{#if:{{#lst:Radiance Provoking Performer|TS Friendship Tree}}|{{#lst:Radiance Provoking Performer|TS Friendship Tree}}|[[Radiance Provoking Performer]] has not returned as a TS.}}
+}}
+
+==Season of the Blue Bird==
+See their Seasonal Friendship Tree on the [[Season of the Blue Bird#All Season of the Blue Bird Friendship Trees|Season of the Blue Bird]] page.
+{{Mobile Tabber
+|tab1 = {{Emote|Costumed Confetti Cousin|tab}}
+|c1   = {{#if:{{#lst:Costumed Confetti Cousin|TS Friendship Tree}}|{{#lst:Costumed Confetti Cousin|TS Friendship Tree}}|[[Costumed Confetti Cousin]] has not returned as a TS.}}
+|tab2 = {{Emote|Divining Wise Grandparent|tab}}
+|c2   = {{#if:{{#lst:Divining Wise Grandparent|TS Friendship Tree}}|{{#lst:Divining Wise Grandparent|TS Friendship Tree}}|[[Divining Wise Grandparent]] has not returned as a TS.}}
+|tab3 = {{Emote|Nostalgic Sparkler Parent|tab}}
+|c3   = {{#if:{{#lst:Nostalgic Sparkler Parent|TS Friendship Tree}}|{{#lst:Nostalgic Sparkler Parent|TS Friendship Tree}}|[[Nostalgic Sparkler Parent]] has not returned as a TS.}}
+|tab4 = {{Emote|Royal Hairtousle Teen|tab}}
+|c4   = {{#if:{{#lst:Royal Hairtousle Teen|TS Friendship Tree}}|{{#lst:Royal Hairtousle Teen|TS Friendship Tree}}|[[Royal Hairtousle Teen]] has not returned as a TS.}}
+|tab5 = {{Emote|Woodcutting Pleaful Parent|tab}}
+|c5   = {{#if:{{#lst:Woodcutting Pleaful Parent|TS Friendship Tree}}|{{#lst:Woodcutting Pleaful Parent|TS Friendship Tree}}|[[Woodcutting Pleaful Parent]] has not returned as a TS.}}
+}}
+
+==Season of the Two Embers - Part 1==
+See their Seasonal Friendship Tree on the [[Season_of_The_Two_Embers_-_Part_1#All_Season_of_the_Two_Embers_Part_1_Friendship_Trees|Season of the Two Embers - Part 1]] page.
+{{Mobile Tabber
+|tab1 = {{Emote|Tender Toymaker|tab}}
+|c1   = {{#if:{{#lst:Tender Toymaker|TS Friendship Tree}}|{{#lst:Tender Toymaker|TS Friendship Tree}}|[[Tender Toymaker]] has not returned as a TS.}}
+|tab2 = {{Emote|Resourceful Recluse|tab}}
+|c2   = {{#if:{{#lst:Resourceful Recluse|TS Friendship Tree}}|{{#lst:Resourceful Recluse|TS Friendship Tree}}|[[Resourceful Recluse]] has not returned as a TS.}}
+|tab3 = {{Emote|Stern Shepherd|tab}}
+|c3   = {{#if:{{#lst:Stern Shepherd|TS Friendship Tree}}|{{#lst:Stern Shepherd|TS Friendship Tree}}|[[Stern Shepherd]] has not returned as a TS.}}
+|tab4 = {{Emote|Scarred Sentry|tab}}
+|c4   = {{#if:{{#lst:Scarred Sentry|TS Friendship Tree}}|{{#lst:Scarred Sentry|TS Friendship Tree}}|[[Scarred Sentry]] has not returned as a TS.}}
+}}
+
+==References==
+<references />
+
+[[fr:Esprits Saisonniers/Arbres d'Amitié 3]]
+[[pt-br:Espíritos Sazonais/Árvores de Amizade 3]]
+[[ja:季節精霊/メニュー3]]
+
+[[Category:Seasonal Spirits]]

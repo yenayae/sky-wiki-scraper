@@ -1,0 +1,177 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Little-Prince-Spirit-Star-Collector.png|Standard
+Little-Prince-Spirit-Star-Collector-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Neckpiece|infobox}}{{Spirit Item||Cape|infobox}}
+|props     = {{Spirit Item||Prop|infobox}}
+|season    = The Little Prince
+|realm     = Vault of Knowledge
+|location  = Starlight Desert
+|ts        = April 7, 2025 (SV#8)<br>September 14, 2023 (#96)
+}}
+<section begin="Summary" />The '''Star Collector''' (formerly the '''Shrewd Merchant''') is a [[Seasonal Spirit]] from the [[Season of The Little Prince]] who offers the {{Emote|Star Collector|inline_text}} Expression.  The Star Collector is found on the broken boat in the [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]] sub-area within [[Starlight Desert]], accessed through a cloud tunnel to the left of the Garden of Roses. The collectibles [[#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Star Collector|Neckpiece|inline_text}}, a {{Spirit Item|Star Collector|Cape|inline_text}}, and a {{Spirit Item|Star Collector|Prop|label=Star Lamp Prop|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Star-Collector-first-visit-promo-image.png|thumb|320px|none|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|UcGjJNQoyG4||inline|Video Guide by Tara}}
+
+The Star Collector can be found on the broken boat in the [[Starlight Desert#Jellyfish Cove|Jellyfish Cove]] sub-area within [[Starlight Desert]], accessed through a cloud tunnel to the left of the Garden of Roses. This Spirit has a [[Collection Memory|collection memory]] with 8 memory fragments and a 15-minute overall [[Timed Memory|time limit]].
+
+As their memory unfolds, the Star Collector can be seen dashing between the two split halves of the broken boat as stars twinkle merrily in the night sky.
+
+At the end of the memory, the Star Collector sits at a desk covered in [[#Prop|star lamps]] and counts the many stars overhead, chuckling to themself with glee at the numbers.
+
+The Little Prince then enters the scene and asks the Spirit, "What do you do with these stars?"
+
+The Star Collector puts their hands on their hips, nodding as they proudly answer, "I own them. Five-hundred-and-one millions of them."
+
+"Why owning the stars?" The curious Little Prince asks as the Spirit continues to count. 
+
+"It makes me rich," The Star Collector says.
+
+Unsatisfied with their response, the Little Prince questions them once more, "Why do you want to be rich?"
+
+Chuckling as if the answer was obvious, the Star Collector replies, "To buy more stars."
+
+The Little Prince tilts his head and contemplates aloud, "The grown-ups are certainly altogether extraordinary."<br>
+<br>
+[[File:05 VK Seasonal Spirit - Star Collector.jpg|200px|thumb|none|Relive the Star Collector's memory]]
+</div>
+{{Clear}}
+
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Star-Collector-hand-rub-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Star-Collector-hand-rub-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Star-Collector-hand-rub-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Star-Collector-hand-rub-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar hunch slightly and bring both hands up to chest level to rub them together a few times with their eyes squinted, while a light flute sound effect plays.
+*Level 2 makes the same motion as Level 1, with trails of glowing, yellow sparkles following your avatar's hands, and a few small, white sparkles fizzling widely around their head.
+*Level 3 will make your avatar look over both shoulders with their hands held at chest-level, before then hunching forward to rub them together next to their head with their eyes squinted, while a low flute sound effect plays.
+*Level 4 makes the same motion as Level 3, with trails of glowing, yellow sparkles following your avatar's hands, and a few small, white sparkles fizzling widely around their head.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+== Cosmetics==
+=== Neck Accessory <span id="Necklace"></span>===
+The [[Neck Accessory]] offered by this Spirit is a black necktie with a silver pendant shaped like the {{Season Icon|Prince|inline_text}}'s symbol, costing {{Cost|40 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's second node ({{Cost|12 SC|season=The Little Prince}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Neckpiece|icon}} {{!}} The Neck Accessory icon
+{{Icon Name||Neckpiece|real}} {{!}} The Neck Accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Cape ===
+The [[Cape]] offered by this Spirit is a black cape with a matching fluffy fur trim and collar, costing {{Cost|75 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|48 SC|season=The Little Prince}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||Cape|interior}} {{!}} The Cape interior
+{{Icon Name||Cape|back}} {{!}} The Cape back
+{{Icon Name||Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Prop ===
+The [[Prop]] offered by this Spirit is a gray lamp shaped like a four-pointed star, costing {{Cost|70 C}} from the Traveling Spirit. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. When activated, the lamp glows gently and fills the surrounding space with luminescent particles, like little stars. Upon being touched on the screen, these particles will burst outwards from the touching point and slowly recover back. Other players can ''not'' see that another player has touched the particles. Note that this Prop does not illuminate the area or recharge the player's Cape. It was available to all players during the Season from the Friendship Tree's fifth node ({{Cost|72 SC|season=The Little Prince}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Prop|icon}} {{!}} The Prop icon
+{{Icon Name||Prop|real}} {{!}} The Prop
+{{Icon Name||Prop|held}} {{!}} The Prop when activated
+{{Icon Name||Prop|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling
+|ts_dates=*September 14, 2023 (#96)
+|rs_dates=*April 7, 2025 (SV#8)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Star Collector
+|image  = Little-Prince-Spirit-Star-Collector.png
+
+|nodeC6 = Prop 70 C
+|nodeL5 = Cape 75 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Neckpiece 40 C
+|nodeC2 = spell5
+|nodeL1 = emote2 4 H
+|nodeR1 = heart 3 C
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+The hints given before the [[Star Collector]]'s first appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=First Visit Hints
+|content=<div>
+* Would rather mind their own business
+* Curious about skykids' winged light
+* Enjoys watching storms
+* Their favorite flavor is black sesame
+* Would have a big fluffy cat IRL
+* Thinks the color gold is overrated
+* Has had their boating license from a young age
+* Gets lost in the big picture and forgets to admire the details
+* Favorite candy is [[wikipedia:Konpeit%C5%8D|konpeitō]]
+</div>
+}}
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=The Little Prince}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Star Collector
+|image  = Little-Prince-Spirit-Star-Collector.png
+|type   = season
+|season = The Little Prince
+
+|nodeC6 = season_heart 3 SC SP
+|nodeL5 = spell5 SP
+|nodeC5 = Prop 24 SC
+|nodeL4 = Cape SP
+|nodeC4 = spell5 20 SC
+|nodeL3 = emote4 SP
+|nodeC3 = emote3 16 SC
+|nodeL2 = spell5 SP
+|nodeC2 = Neckpiece 12 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+== Trivia ==
+* The Star Collector is inspired by the Businessman in ''[[wp:The_Little_Prince|Le Petit Prince]]'', written by Antoine de Saint-Exupéry.
+* The Star Collector was originally called the Shrewd Merchant during [[Sky Beta|Beta]] testing. The reason this was changed is because of the antisemitic implications of the 'Hand Rub' Emote belonging to a mercantile Spirit. Interestingly, the icon showing the gesture itself and the matching Lvl. 3 and 4 animations were unchanged.
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+SOTLP photos shrewd emote.png
+SOTLP photos group shrewd.png
+</gallery>
+
+==References==
+<references/>
+
+[[de:Sternensammler]]
+[[fr:Collectionneur d'étoiles]]
+[[pt-br:Contador de Estrelas]]
+[[ru:Собиратель звезд]]
+[[ja:星の収集家]]

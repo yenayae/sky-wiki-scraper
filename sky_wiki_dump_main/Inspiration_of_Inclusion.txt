@@ -1,0 +1,110 @@
+{{Spirit Infobox
+|type      = Non
+|emote_type= None
+|image     = Inspiration-of-Inclusion-Shop.png
+|cosmetics = <!--
+-->{{Spirit Item|Inspiration of Inclusion|Outfit|infobox}}<!--
+-->{{Spirit Item|Inspiration of Inclusion|Neckpiece|infobox}}<!--
+-->{{Spirit Item|Inspiration of Inclusion|Hairpiece|infobox}}
+|props	   = <!--
+-->{{Spirit Item|Inspiration of Inclusion|Prop_c|infobox}}<!--
+-->{{Spirit Item|Inspiration of Inclusion|Prop_p|infobox}}
+|season    = Moomin
+|realm     = Vault of Knowledge
+|location  = [[Moominvalley Glade]]
+|ts        = None
+}}
+<section begin="Summary" />The '''Inspiration of Inclusion''' is a [[Ancestors#Seasonal Entities|Seasonal Shop]] from the [[Season of Moomin]]. The Inspiration of Inclusion is found on a grassy mound to the right in [[Moominvalley Glade]]. Unlike typical [[Seasonal Spirits]], there is no need to first relive a [[Spirit Memories|Spirit memory]] to access this Shop and it does not offer an [[Expression]]. The collectibles offered by this Shop are an {{Spirit Item|Inspiration of Inclusion|Outfit|inline_text}}, a {{Spirit Item|Inspiration of Inclusion|Neckpiece|inline_text}}, a {{Spirit Item|Inspiration of Inclusion|Hairpiece|inline_text}}, a {{Spirit Item|Inspiration of Inclusion|Prop_c|inline_text|label=Grandfather Clock Prop}}, and a {{Spirit Item|Inspiration of Inclusion|Prop_p|inline_text|label=Moominhouse Painting Prop}}.<section end="Summary" /><br>
+<br>
+[[File:Spirit-of-Adventure-and-Inspiration-of-Inclusion-Shops.png|thumb|320px|none|The Spirit of Adventure and Inspiration of Inclusion]]
+
+==Cosmetics==
+
+===<span id="Outfit">Outfit</span>===
+The [[Outfit]] offered by this Shop is a white, sleeveless romper with a puffy lower half, closely resembling the body shape of [https://www.moomin.com/en/characters/moomintroll/ Moomintroll]<!--, costing {{Cost| ??? C}} from the Traveling Spirit-->. It was offered to all players for {{Cost|36 SC|season=Moomin}} during the Season, from the Friendship Tree's fifth node.
+<br>
+{{#tag:gallery
+|{{Icon Name|Inspiration of Inclusion|Outfit}} {{!}} The Outfit icon
+{{Icon Name|Inspiration of Inclusion|Outfit|real}} {{!}} The Outfit front
+{{Icon Name|Inspiration of Inclusion|Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Necklace">Neck Accessory</span>===
+The [[Neck Accessory]] offered by this Shop is a red and white striped scarf with a thick fringe that drapes over the player's back<!--, costing {{Cost| ??? C}} from the Traveling Spirit-->. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|74 SC|season=Moomin}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Inspiration of Inclusion|Neckpiece|icon}} {{!}} The Neck Accessory icon
+{{Icon Name|Inspiration of Inclusion|Neckpiece|real}} {{!}} The Neck Accessory front
+{{Icon Name|Inspiration of Inclusion|Neckpiece|back}} {{!}} The Neck Accessory back
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines
+}}
+
+===<span id="Hair Accessory">Hair Accessory</span>===
+The [[Hair Accessory]] offered by this Shop is a wreath of colorful flowers that sits on top of the player's head<!--, costing {{Cost| ??? C}} from the Traveling Spirit-->. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|28 SC|season=Moomin}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Inspiration of Inclusion|Hairpiece|icon}} {{!}} The Hair Accessory icon
+{{Icon Name|Inspiration of Inclusion|Hairpiece|real}} {{!}} The Hair Accessory
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines
+}}
+
+===<span id="Prop">Props</span>===
+This Seasonal Shop offers a total of two [[Props]]: a [[#Grandfather Clock|Grandfather Clock]] and a [[#Moominhouse Painting|Moominhouse Painting]].
+
+====Grandfather Clock====
+The first [[Prop]] offered by this Shop is a tall wooden grandfather clock with a pair of four-pointed stars that function as the clock hands<!--, costing {{Cost| ??? C}} from the Traveling Spirit-->. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. When placed, the smaller star on the clock face moves to indicate the minute of the current hour and continually produces a soft ticking sound. When carried on its owner's back, it appears as a blue bag with a yellow drawstring. It was offered to all players for {{Cost|12 SC|season=Moomin}} during the Season, from the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Inspiration of Inclusion|Prop_c|icon}} {{!}} The Prop icon
+{{Icon Name|Inspiration of Inclusion|Prop_c|real}} {{!}} The Prop
+{{Icon Name|Inspiration of Inclusion|Prop_c|back}} {{!}} The Prop on a player's back
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines
+}}
+
+====Moominhouse Painting====
+The second [[Prop]] offered by this Shop is a square painting depicting the brightly colored Moominhouse sitting on a hill with a thick wooden frame<!--, costing {{Cost| ??? C}} from the Traveling Spirit-->. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, it appears as a blue bag with a yellow drawstring. It was offered to all players for {{Cost|20 SC|season=Moomin}} during the Season, from the Friendship Tree's third node.
+<br>
+{{#tag:gallery
+|{{Icon Name|Inspiration of Inclusion|Prop_p|icon}} {{!}} The Prop icon
+{{Icon Name|Inspiration of Inclusion|Prop_p|real}} {{!}} The Prop
+{{Icon Name|Inspiration of Inclusion|Prop_p|back}} {{!}} The Prop on a player's back
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines
+}}
+
+==Season Friendship Tree==
+{{Friendship Tree Info | season| season=Moomin}}<section begin="Season Friendship Tree" />
+{{Friendship Tree
+|spirit = Inspiration of Inclusion
+|image  = Inspiration-of-Inclusion-Shop.png
+|type   = season
+|season = Moomin
+
+|nodeC6 = season_heart 3 SC SP
+
+|nodeL5 = spellx SP
+|nodeC5 = Outfit 36 SC
+
+|nodeL4 = Neckpiece SP
+|nodeC4 = spellx 26 SC
+
+|nodeL3 = spellx SP
+|nodeC3 = Prop_p 20 SC
+
+|nodeL2 = Hairpiece SP
+|nodeC2 = spellx 16 SC
+
+|nodeL1 = spellx SP
+|nodeC1 = Prop_c 12 SC
+}}<section end="Season Friendship Tree" />
+
+==Trivia==
+*The Inspiration of Inclusion takes inspiration from both the [https://www.moomin.com/en/characters/moomintroll/ Moomintroll] family and [https://www.moomin.com/en/characters/too-ticky/ Too-Ticky] in Tove Jansson's [[wp:Moomins|''Moomins'']] series.
+
+==References==
+<references />
+
+[[pt-br:Inspiração de Inclusão]]
+[[ja:包容力の源]]
+[[zh:包容的啟發]]
+[[fr:L’inspiration de l’inclusion]]

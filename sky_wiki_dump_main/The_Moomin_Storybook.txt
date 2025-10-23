@@ -1,0 +1,204 @@
+{{Guide Infobox
+|image     = Moomin-Ultimate-guide.png
+|type      = Seasonal
+|ultimates = 
+{{Spirit Item|Moomin Guide|outfit_u|infobox|link=#Moomin_Ultimate_Outfit}}
+{{Spirit Item|Moomin Guide|prop_u|infobox|link=#Moomin_Ultimate_Umbrella}}
+{{Spirit Item|Moomin Guide|prop_m|infobox|link=#Moomin_Ultimate_Plush}}
+|cosmetics = {{Spirit Item|Moomin Guide|outfit_i|infobox|link=#Outfit}}
+|props     = {{Spirit Item|Moomin Guide|prop_p|infobox|link=#Prop}}
+|emote     = {{Spirit Item|Moomin Guide|emote|infobox|link=#Expression}}
+|season    = Moomin
+|realm     = Vault of Knowledge
+|location  = [[Moominvalley Glade]]
+}}
+<section begin="Summary" />'''The Moomin Storybook''' is a Seasonal Guide (also known as Quest Giver) from the [[Season of Moomin]] who offers Quests and [[Moomin Guide#Ultimate Gifts|cosmetics]]. The Moomin Storybook is found resting on a stone pedestal at the center of [[Moominvalley Glade]]. The Ultimate Guide offered a {{Spirit Item|Moomin Guide|necklace_u|inline_text}}, a {{Spirit Item|Moomin Guide|outfit_u|inline_text}}, a {{Spirit Item|Moomin Guide|prop_u|inline_text}}, and a {{Spirit Item|Moomin Guide|prop_m|inline_text}} for [[Season Pass]] holders. This Ultimate Guide also provides new cosmetics and an [[Expression]] in their Quest Tree, permanently available to all players: an {{Spirit Item|Moomin Guide|outfit_i|inline_text}}, a {{Spirit Item|Moomin Guide|prop_p|inline_text|label=Moomin Family Painting Prop}}, and the {{Spirit Item|Moomin Guide|emote|inline_text}} Expression.<section end="Summary" /><!--<br>
+<br>
+[[File:SoMoomin-Guide-promo-image.png|none|thumb|300x300px|TGC's Promo image]] -->
+
+==<span id="Ultimate Pendant"><span id="Moomin Ultimate Pendant">Seasonal Pendant</span></span>==
+The Moomin Ultimate [[Necklaces|Pendant]] is the usual pendant featuring the Season's emblem attached to a necklace, but colored silver instead of gold. It is a [[Season Pass]] exclusive item<!--(Post-Season:) during the Season-->, available for free from the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Moomin Guide|Necklace_u|icon}} {{!}} Moomin Ultimate Pendant icon
+{{Icon Name|Moomin Guide|Necklace_u|real}} {{!}} Moomin Ultimate Pendant
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Ultimate Gifts==
+The Season of Moomin Guide offered 3 Ultimate Gifts, available to be purchased by [[Season Pass]] holders with [[Currency#Season Hearts|Seasonal Hearts]] during the Season of Moomin only.
+
+===<span id="Ultimate Outfit">Moomin Ultimate Outfit</span>===
+The Moomin Ultimate [[Outfit]] is a peach knee-length dress with a white ruffled collar and a special effect that renders the player's limbs partially transparent, reflecting the colors of the surrounding environment. This Outfit closely resembles the dress [https://www.moomin.com/en/characters/moominmamma/ Moominmamma] gifts to [https://www.moomin.com/en/characters/ninny-the-invisible-child/ Ninny] upon her arrival to the Moominhouse. It was a [[Season Pass]] exclusive item during the Season, available to be purchased for {{Cost|2 SH|season=Moomin}} after unlocking the Friendship Tree's fourth node. When combined with the {{Spirit Item|Proud Victor|Mask|inline_text|label=Proud Victor Mask}}, {{Spirit Item|Sense of Self|Neckpiece|inline_text|label=Sense of Self Neck Accessory}}, and the {{Icon|Voice_basic_call.png|inline_text|link=Base Call|label=Base Call}}, the player's voice is modified to a chiming bell.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Moomin Guide|Outfit_u}} {{!}} Moomin Ultimate Outfit icon
+{{Icon Name|Moomin Guide|Outfit_u|real}} {{!}} Moomin Ultimate Outfit front
+{{Icon Name|Moomin Guide|Outfit_u|back}} {{!}} Moomin Ultimate Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Ultimate Umbrella">Moomin Ultimate Umbrella</span>===
+The Moomin Ultimate [[Prop|Umbrella]] is red with a black handle that's decorated with white diamonds and Moomin silhouettes. When equipped, this umbrella is held by the player and provides protection from the [[Flora, Minerals and Elements of Sky#Rain|rain]]. It cannot be placed and therefore cannot be used in [[Shared Spaces]]. This Prop closely resembles the umbrella carried by [https://www.moomin.com/en/characters/too-ticky/ Too-Ticky] while guiding [https://www.moomin.com/en/characters/ninny-the-invisible-child/ Ninny] through the rain to the Moomintroll family in the [https://moomin.fandom.com/wiki/Moomin_(1990_TV_series) 1990s animated cartoon]. When carried on its owner's back, the Prop appears folded up in its original form. It was a [[Season Pass]] exclusive item during the Season, available to be purchased for {{Cost|1 SH|season=Moomin}} after unlocking the Friendship Tree's second node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Moomin Guide|Prop_u|icon}} {{!}} Moomin Ultimate Umbrella icon
+{{Icon Name|Moomin Guide|Prop_u|real}} {{!}} Moomin Ultimate Umbrella
+{{Icon Name|Moomin Guide|Prop_u|held}} {{!}} Holding the Moomin Ultimate Umbrella
+{{Icon Name|Moomin Guide|Prop_u|back}} {{!}} Moomin Ultimate Umbrella on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Ultimate Plush">Moomin Ultimate Plush</span>===
+<!-- ::'''''"A brave companion for the adventures that await you."''''' -->
+The Moomin Ultimate [[Prop|Plush]] is a stuffed toy shaped like a sitting [https://www.moomin.com/en/characters/moomintroll/ Moomintroll] that can be hugged and tossed around for other players to squeeze as well. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]]. When carried on its owner's back, the Prop appears in its original form. It was a [[Season Pass]] exclusive item  during the Season, available to be purchased for {{Cost|1 SH|season=Moomin}} after unlocking the Friendship Tree's third node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Moomin Guide|Prop_m}} {{!}} Moomin Ultimate Plush icon
+{{Icon Name|Moomin Guide|Prop_m|real}} {{!}} Moomin Ultimate Plush
+{{Icon Name|Moomin Guide|Prop_m|held}} {{!}} Holding the Moomin Ultimate Plush
+{{Icon Name|Moomin Guide|Prop_m|back}} {{!}} Moomin Ultimate Plush on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Additional Collectibles==
+Upon completing Quests from the Season of Moomin, additional collectibles are available to be collected for {{Candle}} [[Currency#Candles|regular Candles]] or {{Heart}} [[Currency#Hearts|Hearts]] through the Moomin Storybook's [[#Quest Tree|Quest Tree]]. No [[Season Pass]] or other [[IAP]] purchase is necessary for these collaboration items. '''All items WILL remain in the Ultimate Guide's Quest Tree after the Season ends.'''
+
+===Outfit===
+The [[Outfit]] offered by The Moomin Storybook is the [[Outfits#Base_Outfit|Base Outfit]] with a special effect that renders the player's limbs partially transparent, reflecting the colors of the surrounding environment, costing {{Cost|190 C}}. When combined with the {{Spirit Item|Proud Victor|Mask|inline_text|label=Proud Victor Mask}}, {{Spirit Item|Sense of Self|Neckpiece|inline_text|label=Sense of Self Neck Accessory}}, and the {{Icon|Voice_basic_call.png|inline_text|link=Base Call|label=Base Call}}, the player's voice is modified to a chiming bell. It is '''permanently available''' to all players after completing [[Season of Moomin#Quest #6|Quest #6]] of the Season of Moomin, from the Quest Tree's seventh node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Moomin Guide|Outfit_i}} {{!}} The Outfit icon
+{{Icon Name|Moomin Guide|Outfit_i|real}} {{!}} The Outfit front
+{{Icon Name|Moomin Guide|Outfit_i|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Prop===
+The [[Prop]] offered by The Moomin Storybook is a large rectangular painting depicting the Moomintroll family and [https://www.moomin.com/en/characters/ninny-the-invisible-child/ Ninny] sitting together on a stone cliff facing the sea, framed by thick wood that's adorned by a small bundle of flowers, costing {{Cost|35 C}}. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, it appears as a blue bag with a yellow drawstring. It is '''permanently available''' to all players after completing [[Season of Moomin#Quest #6|Quest #6]] of the Season of Moomin, after unlocking the Quest Tree's sixth node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Moomin Guide|Prop_p|icon}} {{!}} The Prop icon
+{{Icon Name|Moomin Guide|Prop_p|real}} {{!}} The Prop
+{{Icon Name|Moomin Guide|Prop_p|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Expression===
+This Ultimate Guide offers the {{Emote|Moomin Guide|inline_text}} [[Expression]], which has 4 Levels.<br>
+<br>
+[[File:{{Icon Name|Moomin Guide|emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Moomin-Guide-read-emote-level-1.gif|{{Icon Name|Moomin Guide|emote_name}} Level 1
+Moomin-Guide-read-emote-level-2.gif|{{Icon Name|Moomin Guide|emote_name}} Level 2
+Moomin-Guide-read-emote-level-3.gif|{{Icon Name|Moomin Guide|emote_name}} Level 3
+Moomin-Guide-read-emote-level-4.gif|{{Icon Name|Moomin Guide|emote_name}} Level 4
+Moomin-Guide-read-emote-book.png|Book close-up
+</gallery>
+
+*Level 1 will make your avatar pull out a small book from behind their back and sit down with crossed legs to begin reading it, their head subtly moving side-to-side as they scan the pages. Your avatar will continue reading until you move; when you do, your avatar will close the book before standing up and putting away the book behind their back.
+*Level 2 makes the same motion as Level 1, with a white halo over the book as your avatar pulls it out and sparkles swirling above the open book's pages as it is read, with a puff of dust appearing from the book when it is closed.
+*Level 3 will make your avatar pull out a small book from behind their back and lay down on their belly with their feet raised and ankles crossed, their head subtly moving side-to-side as they scan the pages. Your avatar will continue reading until you move; when you do, your avatar will close the book before standing up and putting away the book behind their back.
+*Level 4 makes the same motion as Level 3, with a light blue halo over the book as your avatar pulls it out and sparkles swirling above the open book's pages as it is read.
+
+===Bell Call===
+{{#ev:youtube|Q4KIU0uKoYY||right|}}
+When players wear the {{Spirit Item|Moomin Guide|outfit_u|inline_text}} or the {{Spirit Item|Moomin Guide|outfit_i|inline_text}} offered by the [[The Moomin Storybook]] in combination with the {{Spirit Item|Proud Victor|Mask|inline_text|label=Proud Victor Mask}}, {{Spirit Item|Sense of Self|Neckpiece|inline_text|label=Sense of Self Neck Accessory}}, and the {{Icon|Voice_basic_call.png|inline_text|link=Base Call|label=Base Call}}, the player's voice is modified to a chiming bell. Unlike regular [[calls]], the Bell Call '''cannot''' be accessed through the Expression Menu.
+{{Clear}}
+
+==Friendship Tree==
+The Moomin Storybook's Friendship Tree is available to the right of the Quest Tree during the Season of Moomin only. Now that the Season is over, these cosmetics are no longer available.
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = The Moomin Storybook
+|image  = Moomin-Ultimate-guide.png
+|type   = season
+|season = Moomin
+
+|nodeC4 = outfit_u 2 SH AP
+|  linkC4 = The Moomin Storybook#Ultimate Outfit
+
+|nodeC3 = prop_m 1 SH AP
+|  linkC3 = The Moomin Storybook#Ultimate Plush
+
+|nodeC2 = prop_u 1 SH AP
+|  linkC2 = The Moomin Storybook#Ultimate Umbrella
+
+|nodeC1 = necklace AP
+|  linkC1 = The Moomin Storybook#Seasonal Pendant
+}}<section end="Friendship Tree" />
+
+==Quest Tree==
+The Moomin Storybook's Quest Tree is available for all players to complete Quests from the [[Season of Moomin]]. Once you complete a Quest, an [[#Expression|Expression]] Level is available to be collected for either {{Candle}} [[Currency#Candles|regular Candles]] or {{Heart}} [[Currency#Hearts|Hearts]], and a Heart is available to be collected for free.<!--(Post-Season (if applies):) Since the end of the Season, players completing these Quests for the first time have to pay 3 {{Candle}} to obtain these Hearts.--> The additional collectibles are available to collect once you have completed all the [[Season of Moomin#Spirit Memory Quests|Quests]].
+<section begin="Quest Tree" />  {{Friendship Tree
+|spirit = The Moomin Storybook
+|image  = Moomin-Ultimate-guide.png
+
+|type   = season
+|season = Moomin
+
+|nodeC8 = Outfit_i 190 C
+|  linkC8 = The Moomin Storybook#Outfit
+
+|nodeR7 = Prop_p 35 C
+|  linkR7 = The Moomin Storybook#Prop
+|nodeL7 = Heart free
+|nodeC7 = quest
+|  linkC7 = Season of Moomin#Quest #6
+|  labelC7 = Quest 6
+
+|nodeC6 = quest
+|  linkC6 = Season of Moomin#Quest #5
+|  labelC6 = Quest 5
+
+|nodeL6 = emote 5 H
+|  linkL6 = The Moomin Storybook#Expression
+|  noteL6 = Lv4
+|  vertL6 = 1
+|nodeL5 = emote 5 C
+|  linkL5 = The Moomin Storybook#Expression
+|  noteL5 = Lv3
+
+|nodeC5 = quest
+|  linkC5 = Season of Moomin#Quest #4
+|  labelC5 = Quest 4
+
+|nodeL4 = Heart free
+|nodeC4 = quest
+|  linkC4 = Season of Moomin#Quest #3
+|  labelC4 = Quest 3
+
+|nodeC3 =  quest
+|  linkC3 = Season of Moomin#Quest #2
+|  labelC3 = Quest 2
+
+|nodeL3 = emote 3 H
+|  linkL3 = The Moomin Storybook#Expression
+|  noteL3 = Lv2
+|  vertL3 = 1
+|nodeL2 = emote free
+|  linkL2 = The Moomin Storybook#Expression
+
+|nodeC2 = quest
+|  linkC2 = Season of Moomin#Quest #1
+|  labelC2 = Quest 1
+
+|nodeC1 = Icon_warp.png
+|  labelC1 = Teleport to Moominvalley Glade
+|  linkC1  = Moominvalley Glade
+}}<section end="Quest Tree" />
+
+==Trivia==
+* The {{Spirit Item|Moomin Guide|prop_u|inline_text}} and the {{Spirit Item|Lightseeker Guide|prop_u|inline_text}} share the same sound when opening either Prop.
+{{Clear}}
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center" >
+The-Moomin-Storybook-Open.png
+</gallery>
+
+==References==
+<references/>
+
+[[fr:Le Livre des Moomins]]
+[[pt-br:Livro de Histórias dos Mumins]]
+[[ja:ムーミンの本]]

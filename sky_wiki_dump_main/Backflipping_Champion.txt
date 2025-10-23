@@ -1,0 +1,103 @@
+{{Spirit Infobox
+|type      = Regular
+|emote_type= Emote
+|image     = <gallery>
+Valley-Spirit-Backflipping-Champion.png|Standard
+Valley-Spirit-Backflipping-Champion-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Facepiece|infobox}}{{Spirit Item||Hair|infobox}}
+|realm     = Valley of Triumph
+|location  = Citadel
+}}
+<section begin="Summary" />The '''Backflipping Champion''' is a [[Regular Spirit]] in the [[Valley of Triumph]] who offers the {{Emote|Backflipping Champion|inline_text}} Expression. The Backflipping Champion is found in the [[Citadel]], in one of the small outer towers to the left of the main structure.  The collectibles [[Backflipping Champion#Friendship Tree|offered]] by this Spirit are a {{Spirit Item|Backflipping Champion|Facepiece|inline_text}} and a {{Spirit Item|Backflipping Champion|Hair|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Backflipping-Champion-Guide-777-Ed.png|320x320px|thumb|none|Image Guide by 777.Ed]]
+
+==Memory==
+<div>{{#ev:youtube|VrC9HR4wA7A||inline|Video Guide by Tara}}
+<br>
+The Backflipping Champion can be found in the [[Citadel]], in one of the small outer towers to the left of the main structure, beneath an intact roof. This Spirit is a [[Standard Memory|standard memory]] quest with 10 memory fragments and a 4-minute overall [[Timed Memory|time limit]].
+
+As their memory unfolds, the Backflipping Champion hops onto a [[Mantas|Manta]] and rides it around the main Citadel structure. The pair then pass through the large floating ring at the center of the area before heading towards the tallest towers, where the Spirit dismounts.
+
+At the end of the memory, the Backflipping Champion warms up with a quick stretch and then performs a backflip that smoothly transitions into a proud pose as the Spirit shows off for their onlookers.<br>
+<br>
+[[File:03 VT Spirit - Backflipping Champion.jpg|200px|thumb|none|Relive the Backflipping Champion's memory]]
+</div>
+{{Clear}}
+
+==Expression==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.<br>
+<br>
+[[File:{{Icon Name||Emote}}|170px|left]]
+<gallery heights="125" captionalign="center">
+Backflipping-Champion-backflip-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Backflipping-Champion-backflip-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Backflipping-Champion-backflip-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Backflipping-Champion-backflip-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar hop into a crouch before pushing off into a backflip, then land in a crouch before standing up.
+*Level 2 makes the same motion as Level 1 with sparkles following both feet and light particles bursting out from your avatar's hand upon landing.
+*Level 3 will make your avatar curl forward and push off from their right leg into a front flip, then land in a crouch before standing back up with a hop.
+*Level 4 makes the same motion as Level 3 with sparkles following both feet and red light particles bursting out from your avatar's feet upon landing.
+
+The prices of the three Expression upgrades are {{Cost|3 C}}, {{Cost|4 C}}, and {{Cost|4 C}}. Levels 3 and 4 are only available after unlocking the Spirit's [[Wing Buff]].
+
+==Cosmetics==
+===<span id="Mask">Face Accessory</span>===
+The [[Face Accessory]]<ref name="Mask recategorized">This item was recategorized from a [[Mask]] to a [[Face Accessory]] as a result of the [[Outfit Shrine|Closet]] category expansion in Patch {{v|0.22.0}}.</ref> offered by this Spirit is a silver head guard with long pointed horns, costing {{Heart|5}}. It is permanently available to all players after unlocking the Spirit's [[Wing Buff]] and the Friendship Tree's fifth node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||facepiece}} {{!}} The Face Accessory icon
+{{Icon Name||facepiece|real}} {{!}} The Face Accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Hair===
+The [[Hair]] offered by this Spirit is a large mane resembling daisy petals, costing {{Heart|5}}. It is permanently available to all players after unlocking the Friendship Tree's second node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair front
+{{Icon Name||Hair|side}} {{!}} The Hair side
+{{Icon Name||Hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Friendship Tree ==
+{{Friendship Tree Info | regular}}
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Backflipping Champion
+|image  = Valley-Spirit-Backflipping-Champion.png
+
+|nodeC6 = facepiece 5 H
+|nodeC5 = spell5
+|nodeL4 = emote4 4 C
+|nodeC4 = emote3 4 C
+|nodeC3 = wing 2 AC
+|nodeL2 = hair 5 H
+|nodeC2 = spell1
+|nodeR2 = heart
+|nodeL1 = emote2 3 C
+|nodeC1 = emote
+}}<section end="Friendship Tree" />
+
+==Unique Daily Quests==
+{{#section-h:Quests/Daily Quest Spirits|{{PAGENAME}}}}
+
+==Trivia== 
+*Before December 2020, the Backflipping Champion was one of two Spirits (the other being [[Bowing Medalist]]) found in the [[Flying Race]]. Players would have to fly into the Spirit during the race and could then receive their Expression at the end of the race in the [[Coliseum]]. After Patch {{v|0.13.0}}, both the Backflipping Champion and Bowing Medalist were relocated and given memories to relive.
+*The Backflipping Champion is one of only four [[Regular Spirits]] (the others being [[Manta Whisperer]], [[Bowing Medalist]], and [[Proud Victor]]) whose memory has a [[Timed Memory|time limit]].
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Backflipping Champion.jpg
+</gallery>
+
+==References==
+<references />
+
+[[de:Rückwärtssalto-Champion]]
+[[pt-br:Campeão dando Cambalhota]]
+[[fr:Champion du salto arrière]]

@@ -1,0 +1,111 @@
+{{Spirit Infobox
+|type      = Non
+|emote_type= None
+|image     = Spirit-of-Adventure-Shop.png
+|cosmetics = <!--
+-->{{Spirit Item|Spirit of Adventure|Hair|infobox}}<!--
+-->{{Spirit Item|Spirit of Adventure|Cape|infobox}}
+|props	   = {{Spirit Item|Spirit of Adventure|Prop|infobox}}
+|instruments = {{Spirit Item|Spirit of Adventure|Instrument|infobox}}
+|music     = {{Music Sheet|41}}
+|season    = Moomin
+|realm     = Vault of Knowledge
+|location  = [[Moominvalley Glade]]
+|ts        = None
+}}
+<section begin="Summary" />The '''Spirit of Adventure''' is a [[Ancestors#Seasonal Entities|Seasonal Shop]] from the [[Season of Moomin]]. The Spirit of Adventure is found on a grassy mound to the right in [[Moominvalley Glade]]. Unlike typical [[Seasonal Spirits]], there is no need to first relive a [[Spirit Memories|Spirit memory]] to access this Shop and it does not offer an [[Expression]]. The collectibles offered by this Shop are a {{Spirit Item|Spirit of Adventure|Hair|inline_text}}, a {{Spirit Item|Spirit of Adventure|Cape|inline_text}}, a {{Spirit Item|Spirit of Adventure|Instrument|inline_text|label=Harmonica Instrument}}, a {{Spirit Item|Spirit of Adventure|Prop|inline_text|label=Snufkin Tent Prop}}, and {{Music Sheet|41|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Spirit-of-Adventure-and-Inspiration-of-Inclusion-Shops.png|thumb|320px|none|The Spirit of Adventure and Inspiration of Inclusion]]
+
+==Cosmetics==
+
+===<span id="Hairstyle">Hair</span>===
+The [[Hair]] offered by this Shop is a short, feathered cut with side-swept bangs<!--, costing {{Cost| ??? C}} from the Traveling Spirit-->. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's first node ({{Cost|12 SC|season=Moomin}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Spirit of Adventure|Hair|icon}} {{!}} The Hair icon
+{{Icon Name|Spirit of Adventure|Hair|real}} {{!}} The Hair front
+{{Icon Name|Spirit of Adventure|Hair|side}} {{!}} The Hair side
+{{Icon Name|Spirit of Adventure|Hair|back}} {{!}} The Hair back
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines
+}}
+
+===<span id="Cape">Cape</span>===
+The [[Cape]] offered by this Shop has a green-brown gradient and worn-down appearance, featuring a collar and a pair of pockets stitched to the front<!--, costing {{Cost| ??? C}} from the Traveling Spirit-->. It was offered to all players for {{Cost|38 SC|season=Moomin}} during the Season, from the Friendship Tree's fourth node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Spirit of Adventure|Cape|icon}} {{!}} The Cape icon
+{{Icon Name|Spirit of Adventure|Cape|front}} {{!}} The Cape front
+{{Icon Name|Spirit of Adventure|Cape|interior}} {{!}} The Cape interior
+{{Icon Name|Spirit of Adventure|Cape|real}} {{!}} The Cape back
+{{Icon Name|Spirit of Adventure|Cape|exterior}} {{!}} The Cape exterior
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines
+}}
+
+===<span id="Harmonica">Instrument</span>===
+The [[Instrument]] offered by this Shop is the '''Harmonica'''<!--, costing {{Cost| ??? C}} from the Traveling Spirit-->. It has a gray rectangular body and is decorated by a lighter gray {{Season Icon|Belonging|inline_text}} symbol. When carried on its owner's back, the Instrument appears in its original form. It was offered to all players for {{Cost|20 SC|season=Moomin}} during the Season, from the Friendship Tree's second node. The player is standing while playing the Instrument, which plays 15 notes.
+
+The Harmonica plays the [[Music Sheet Parts|wind part]] on Music Sheets. Its [[Instrument Pitch|pitch]] is the same as the standard [[Piano]] (in C major, it covers C<sub>4</sub> to C<sub>6</sub>).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Spirit of Adventure|Instrument|icon}} {{!}} The Instrument icon
+{{Icon Name|Spirit of Adventure|Instrument|real}} {{!}} The Instrument
+{{Icon Name|Spirit of Adventure|Instrument|held}} {{!}} Playing the Instrument
+{{Icon Name|Spirit of Adventure|Instrument|back}} {{!}} The Instrument on a player's back
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines
+}}
+{{#ev:youtube|KIbzB0jkrmE||inline|Item Showcase}}
+
+===<span id="Prop">Prop</span>===
+The [[Prop]] offered by this Shop is a tall, conical green tent with light green accents<!--, costing {{Cost| ??? C}} from the Traveling Spirit-->. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. Once placed, the player can enter the tent and crawl around inside on their elbows and knees. When carried on its owner's back, it appears as an oversized brown bag with a rolled-up green canvas secured beneath the top flap. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's third node ({{Cost|58 SC|season=Moomin}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Spirit of Adventure|Prop|icon}} {{!}} The Prop icon
+{{Icon Name|Spirit of Adventure|Prop|real}} {{!}} The Prop
+{{Icon Name|Spirit of Adventure|Prop|back}} {{!}} The Prop on a player's back
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines
+}}
+
+==<span id="Music">Music Sheet</span>==
+The Spirit of Adventure offers {{Music Sheet|41}} [[Music Sheet]] #41<!--, costing {{Cost| ??? C}} from the Traveling Spirit-->. It was offered to all players for {{Cost|8 SC|season=Moomin}} during the Season, from the Friendship Tree's first node. It is a song in the key of C major.<br>
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guide
+|content=
+{{#ev:youtube|67LONatp1Rg||inline|Music Sheet Video Guide by Ikejiji}}
+}}
+
+==Season Friendship Tree==
+{{Friendship Tree Info | season| season=Moomin}}<section begin="Season Friendship Tree" />
+{{Friendship Tree
+|spirit = Spirit of Adventure
+|image  = Spirit-of-Adventure-Shop.png
+|type   = season
+|season = Moomin
+
+|nodeC5 = season_heart 3 SC SP
+
+|nodeL4 = spellx SP
+|nodeC4 = Cape 38 SC
+
+|nodeL3 = Prop SP
+|nodeC3 = spellx 26 SC
+
+|nodeL2 = spellx SP
+|nodeC2 = Instrument 20 SC
+
+|nodeL1 = Hair SP
+|nodeC1 = music41 8 SC
+}}<section end="Season Friendship Tree" />
+
+==Trivia==
+*The Spirit of Adventure is inspired by [https://www.moomin.com/en/characters/snufkin/ Snufkin] in Tove Jansson's [[wp:Moomins|''Moomins'']] series.
+
+==References==
+<references />
+
+[[pt-br:Espírito de Aventura]]
+[[ja:冒険の心]]
+[[zh:冒險的精神]]
+[[fr:Esprit d’aventure]]

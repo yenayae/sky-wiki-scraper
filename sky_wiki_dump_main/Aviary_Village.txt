@@ -1,0 +1,434 @@
+{{Quote|<br>'''''A hidden refuge.'''''|Aviary Village Opening}}
+{{Realm
+| image = Aviary_Village_Main.png
+| map = 15aviary village 20231210.jpg
+| mapcaption = Aviary Village Map by @sky_solsuga
+}}
+
+Aviary Village brought a new portal to [[Home]] leading to a new area that first appeared with Update {{v|0.23.0}} with the beginning of [[Season of Revival]]. It is based around the tower once present in the [[Sky: Light Awaits]] version of the game and functions as a larger and more interactive Home space. Through the Season of Revival's Quests, the village grows and develops to become a fully functioning village.
+
+==Overview==
+{{Quote|<br>'''''A hidden refuge, lost to time.'''''|Aviary Opening}}
+When players first enter the portal to Aviary Village, they arrive on a dais in a place called "???". At the request of the Revival Guide, also known as the [[Hopeful Steward]], players open the gate leading further into the area. At first glance, players discover the ruin-strewn village is covered in fog, all of the shops are closed, and the [[Realm]] Entry Portals are deactivated, but through the Season of Revival's Quests, players can restore the village to its former glory.
+
+Aviary Village is a remake of a nostalgic space well known from [[Sky: Light Awaits]] players; the [[Sky: Light Awaits#The Aviary|Aviary]], a sprawling hub space that functioned similarly to Home and also featured a tall, broken bell tower.
+
+Once players complete the [[Season of Revival#Quest #3|third Quest]] from the [[Season of Revival]], they restore Aviary Village and the area develops into a fully functioning village. New features, shops, and hidden treasures unlock as the Season of Revival's Quests are completed. When Aviary Village is fully restored, players can also set the area as their 'Home' by interacting with a special white candle near the [[#Realm Entry Portals|Realm portals]].
+
+After Patch {{v|0.23.5}}, some new players start their journey in Aviary Village instead of [[Home]], and they have to start the [[Season of Revival#Quest #3|third Quest]] from Season of Revival and unlock the area's [[Map Shrines#Aviary Village|Map Shrine]] to able to continue to the [[Isle of Dawn]].
+
+===Setting Aviary Village As 'Realm Portals'<span id="Setting Aviary Village As 'Home'"></span>===
+[[File:Special-Home-Candle-At-Aviary-Village.png|thumb|200px|home candle In Aviary Village]]
+Upon starting the [[Season of Revival#Quest #3|third Quest]] from the [[Season of Revival]] and unlocking the Aviary Village Map Shrine, a home candle (a special white candle) appears near the Realm Entry Portals in Aviary Village and by the Closets in [[Home]]. Players can use this home candle to set Aviary Village as their 'starting point' instead of the previous Realm Portals (homespace) located in [[Home]]. If set, players will teleport to Aviary Village when using the menu's {{Icon|Icon_home.png|link=}} Realm Portals button and when opening the game.
+
+Players are still able to return to the original Home as in Patch {{v|0.23.5}}, a new meditation circle was added on the left side of the Village Square behind the [[Shared Memories Candles|Shared Memory Shrine]].
+{{Clear}}
+
+===Map Shrine Location===
+{{#lst:Map Shrines|AviaryShrines}}
+{{Clear}}
+
+==Realm Entry Portals==
+[[File:Aviary Realm Entry Portals.png||thumb|300px|The seven portals at Aviary Village.]]
+Like [[Home]], Aviary Village contains portals into every [[Realm]] in the game.
+
+Before starting the [[Season of Revival#Quest #3|third Quest]] from the [[Season of Revival]], the player will only see the portals in an empty, incomplete form that renders them unusable. After starting the third Quest and unlocking the area's [[Map Shrines#Aviary Village|Map Shrine]], players will then see the portals activate for Realms that they have completed or are currently progressing through. Other more experienced players will seem to disappear when entering portals that the player does not have access to.
+
+While the Realm Entry Portals in Aviary Village look similar to the ones found at Home, they are several times bigger - particularly the portal to [[Eye of Eden]].
+
+==Return Shrine==
+[[File:Return-Shrine-Aviary-Village.png|thumb|200px|The Return Shrine in Aviary Village]]
+Directly in front of the [[Constellation Table]] by the [[#Realm Entry Portals|Realm portals]] is the Return Shrine. Kneeling at the Shrine, after several seconds, teleports the player to their previous location among the seven Realms. This allows players to easily finish interrupted play-sessions at a more convenient time. Unlike the Return Shrine at [[Home]], this Return Shrine doesn't have a face and is slightly smaller than its counterpart.
+
+When idle, a faint beam of light can be seen projecting from the meditation circle in the Shrine. The color of the beam is based off the main color theme of the Realm the player last entered. For example, the [[Golden Wasteland]] results in a green colored beam while the [[Valley of Triumph]] results in a pinkish-red colored beam.
+
+After Patch {{v|0.27.5}}, players can receive [[Currency#Hearts|Hearts]] from [[Player Creations]], and [[Season Pass]] holders their daily bonus [[Currency#Season Candle|Season Candle]] at the Return Shine in Aviary Village.
+{{Clear}}
+
+==Constellation Table==
+For more information, please visit the [[Constellation Table]] page.
+
+===Friendship Constellation Statue===
+[[File:Aviary Village Friendship Constellation Statue.png|thumb|300px|The Constellation Statue in Aviary Village]]
+Similar to a Constellation Table, the Friendship Constellation Statue allows players to access your [[Constellation Table#Friendship Constellations|Friendship Constellations]]. It does not, however, allow you to interact with the Realm [[Constellations]]. This statue was added in Patch {{v|0.23.5}} to provide quicker access to players' Friendship Constellations if they have set their 'Home' as Aviary Village. The statue resides in front of the Village Plaza and directly in front of where players load in. It was removed in Patch 0.28.0.
+
+{{Clear}}
+
+==Firework Festival Finale==
+[[File:Aviary-Festival-Meditation-Circle.jpg|thumb|250px|The Firework Festival meditation circle]]
+The Firework Festival Finale is a celebratory fireworks show that was introduced with [[Aviary’s Firework Festival]] and periodically allows players to enjoy a dazzling spectacle of lights and colors. After completing the [[Season of Revival#Quest #9|final Quest]] from the Season of Revival, boxes filled with fireworks and a meditation circle appear near the [[#Realm Entry Portals|Realm portals]] on the '''first day of every month,''' where players can sit to join in the celebration. 
+
+The show starts at reset at '''00:00 PST/PDT''', then repeats every '''four hours''', and lasts around 10 minutes. [[Festival Tech]] is enabled for the duration of the show, during which players can watch the [[Hopeful Steward]] lead the residents of Aviary Village through the festivities. See the [[Aviary’s Firework Festival#The Finale|Aviary’s Firework Festival]] page for more detailed information.
+{{Clear}}
+
+==<span id="Nest">Aviary Village Nests</span>==
+{{Main|Nests}}
+[[File:Aviary-Village-Nests-Exterior.png|thumb|300px|Entrance to the Nest]]
+The [[Season of Nesting]] further expanded upon Aviary Village by introducing Nests, a personal space that can be customized with [[Props]], which can be found in a newly constructed building to the left of the [[#Season of Revival Cosmetics Shop|Revival Cosmetics Shop]]. This feature is unlocked during the [[Season of Nesting#Quest 2|second Quest]] from the Season of Nesting. 
+
+This cozy, apartment-like space features several windows that peer out into a cloudy landscape, allowing players to enjoy the same [[#Day/Night_Cycle|atmospheric lighting]] seen in Aviary Village. The special [[Shared Spaces|Shared Space Shrine]] that's used to decorate the Nest also features unique privacy settings that allow players to welcome friends inside for a visit or enjoy a quiet break in private mode. A small balcony overlooks the landing plaza, allowing players a fast way back to Aviary Village by flying down from it.<br>
+<br>
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape">
+Aviary-Village-Nest-Entrance-Elevator.png|The Nest's entrance elevator
+Aviary-Village-Nest-Inside-Elevator-Room.png|The Nest's interior elevator
+Aviary-Village-Nest-Inside-1.png|The Nest's interior entranceway
+Aviary-Village-Nest-Inside-2.png|The Nest's interior main room
+Aviary-Village-Nest-Inside-3.png|The Nest's interior main room
+Aviary-Village-Nest-Inside-4.png|The Nest's interior Shared Space
+</gallery>
+
+==Traveling Spirits==
+Every two weeks, a [[Traveling Spirits|Traveling Spirit]] will appear in Aviary Village and [[Home]] for players who have at least progressed to the [[Season of Revival#Quest #3|third Seasonal Quest]] from [[Season of Revival]]. These Spirits allow the player to collect [[Expression]] upgrades and cosmetics from previous [[Seasons]]. See the [[Traveling Spirits]] page for more detailed information.
+
+==Day/Night Cycle== 
+Unlike the lighting at [[Home]], the lighting in Aviary Village changes depending on a set schedule that rotates every hour,<ref name="Cycle change">The schedule for the lighting in Aviary Village initially rotated every four hours before being shortened to a single hour with Patch {{v|0.25.0}}.</ref> starting at reset at 00:00 PST/PDT. This was added in Patch {{v|0.23.5}}, however, players need to have at least started the [[Season of Revival#Quest #3|third Quest]] from the [[Season of Revival]] to experience the lighting changes. The various lightings can also be observed while inside the various shops and buildings within Aviary Village, including the [[#Nest|Nest]].<br>
+<br>
+{| class="fandom-table"
+|+ style="text-align:center;" | Full Day/Night Cycle Schedule
+!Lighting
+!Real Time
+!Duration
+|-
+|Sunrise
+|xx:00 - xx:09
+|10 minutes
+|-
+|Fog
+|xx:10 - xx:14
+|5 minutes
+|-
+|Daytime
+|xx:15 - xx:39
+|25 minutes
+|-
+|Sunset
+|xx:40 - xx:49
+|10 minutes
+|-
+|Nighttime
+|xx:50 - xx:59
+|10 minutes
+|-
+!colspan=3|<small>Note: this is assuming a time zone that does not have a half hour offset.</small>
+|}
+<br>
+<gallery spacing="small" captionalign="center">
+File:Aviary-Sunrise-0-28-0.JPG|Aviary Village at Sunrise
+File:Aviary-Fog-0-28-0.JPG|Aviary Village with Fog
+File:Aviary-Daytime-0-28-0.JPG|Aviary Village at Daytime
+File:Aviary-Sunset-0-28-0.JPG|Aviary Village at Sunset
+File:Aviary-Nighttime-0-28-0.JPG|Aviary Village at Nighttime
+</gallery>
+
+==Event Announcement Board==
+[[File:Days of Sunlight 2025 aviary board.JPG|thumb|right|300px|The Event Board during Days of Sunlight 2025]]
+The Event Announcement Board was added with Patch {{v|0.28.0}} and can be found next to the [[#Aviary Event Store|Aviary Event Store]]. When coming near the board, a prompt appears; it will either prompt how many days are left of an event or how many there are until the next one begins. Event Guide Spirits will appear near the board when their event is active, offering players the option to {{Icon|Icon warp.png}} teleport to their event area. Additionally, event-themed decorations and event Spell boxes may be placed around the board. The Sky Event Calender can be accessed through the board as well, by selecting the {{Icon|News-icon.png}} news icon. It displays upcoming social events, such as the [[Additional_Light_Sources#Polluted_Geyser|Sanctuary Geyseir]], and more. It was added in Patch {{v|0.29.5}}.
+*''[Event name] is here! Event ends in x days.''
+*An event starts in x days.
+
+==Aviary Shops==
+Starting with the release of Aviary Village during the [[Season of Revival]], several shops were introduced to the village. Each shop can be unlocked by completing the [[Season of Revival#Spirit Memory Quests|Seasonal Quests]]. The various shops function as [[Cosmetics#Outfit Shrines|Closets]] where players are able to change their outfit and try on cosmetics that are currently available through [[Special Events]], [[Seasons]], etc. There are a total of eight shop buildings in the Live version so far.
+
+<small>Note that when wearing a cosmetic inside a shop that a player does not possess, upon leaving the building the player's cosmetics will revert back to whichever owned items they last tried on.</small> 
+
+===Aviary Event Store===
+During [[Aviary’s Firework Festival]] event, a new, permanent event store was opened in Aviary Village. It is located on the left side of the shopping alley, after the Revival Cosmetics Shop. Over time, players will be able to find different kinds of [[Premium Candle Shop|IAP]] and IGC (in-game currency) cosmetics here—some during a set event window, and others as permanent, evergreen items available throughout the year.
+
+Once the preparations for the Firework Festival began, two new cosmetics sets were permanently introduced in the event store to commemorate the occasion. The [[Aviary’s Firework Festival#Moth Appreciation Pack|Moth Appreciation Pack]] and [[Aviary’s Firework Festival#Sparrow Appreciation Pack|Sparrow Appreciation Pack]] are both special starter bundles and a tribute to the community of players who have made Aviary Village and Sky itself vibrant and welcoming to everyone.
+
+An Equipment Rack, sitting to the right of the Appreciation Packs display inside, opened for [[Days of Feast]] 2023 to permanently offer the newly added [[Days of Feast#Course Creation Prop|Course Creation Prop]] for {{Cost|150 C}}.
+
+With the release of Early Access on Steam, players on [[Sky for Steam|Steam PC and Steam Deck]] can find a special item in the Aviary event shop to commemorate their adventures: a [[Sky for Steam#Companion Cube|Companion Cube]], which can be unlocked for {{Cost|50 C}} and will be available permanently in the Event Shop.
+
+The [[Sky for PlayStation#Journey Pack|Journey Pack]] was introduced to the Aviary Event Shop with Patch {{v|0.25.5}}. The [[Sky for PlayStation#Transcendent Journey Pack|Transcendent Journey Pack]] was added for Journey's 13th anniversary.
+
+With Patch {{v|0.27.5}}, the Event Store was moved to where the Revival Cosmetics Shop used to be, and the Event Store area is now used for Event Guides to offer teleportation to Event areas.
+<gallery widths="250" spacing="small" captionalign="center">
+Companion-Cube-Aviary-Silverfeelin.png|Companion Cubes in the Aviary Event Store
+File:Hakunamatata-enter.jpg|Entrance to Aviary Event Shop
+File:Aviary event shop inside.jpg|Equipment Rack in Aviary Event Shop 
+File:Aviary event store inside.jpg|The Sparrow, Journey and Moth pack in Aviary Event Shop
+</gallery>
+{{Mobile Tabber
+|tab1 = Equipment Rack
+|c1   = {{Friendship Tree
+|label = Equipment Rack
+
+|nodeC2 = Course-Creation-Prop-icon.png 150 C
+|linkC2 = Days of Feast#Course Creation Prop
+|nodeC1 = spell5 free}}
+
+|tab2 = Pile of Companion Cubes
+|c2   = {{Friendship Tree
+|label = Pile of Companion Cubes
+
+|nodeC1 = Companion-Cube-icon.png 50 C
+|linkC1 = Companion Cube
+}}
+}}
+{{Clear}}
+
+===Spell Shop===
+The [[Spell]] Shop is unlocked after completing the [[Season of Revival#Quest #3|third Quest]] from the [[Season of Revival]]. It is the first shop on the right side of the shop alley and is run by the [[Enchantment Guide]]. At first, players are only able to purchase [[Blessings (Spells)#Message Crane Spell|Message Cranes]], Message Lanterns, and [[Blessings (Spells)#Message Boat Spell|Message Boat Spells]] but after completion of the [[Season of Revival#Quest #7|seventh Seasonal Quest]], the shop's stock is expanded to include the same Spells offered at the [[Spell Shops#Sleepy Traveler's Boat|Sleepy Traveler's Boat]] and the [[Spell Shops#Forgotten Ark Shops|Forgotten Ark]]. Within a back room of the shop, players can plant Message Boats in a little body of water. The Sleepy Traveler can also be found sleeping in the back room when there isn't an active [[Special Events|event]] or [[That Sky Shop]] wave.<br>
+<br>
+<gallery widths="250" spacing="small" captionalign="center">
+Aviary-Spell-Shop-Exterior.png|Entrance to the Spell Shop
+Aviary-Spell-Shop-Interior.png|The Spell Shop interior
+Aviary-Spell-Shop-Backroom.png|The Spell Shop Backroom
+</gallery>
+
+===Hair Salon===
+The Hair Salon is unlocked after completing the [[Season of Revival#Quest #1|first Quest]] from the [[Season of Revival]]. It is located on the left side of the shopping alley, after the Aviary Event Store and is run by the [[Rhythm Guide]] together with the [[Festival Spin Dancer]]. To change or try on a different [[Hair]], the player must select the {{Icon| Icon_hair_default.png | label=}} Hairstyle icon on one of the three floating chairs. The Hair Salon is located within the same building as the [[#Hat Workshop|Hat Workshop]], the [[#Cape Workshop|Cape Workshop]], and the [[#Outfit Workshop|Outfit Workshop]].<br>
+<br>
+<gallery widths="250" spacing="small" captionalign="center">
+Aviary-Hair-Salon-Exterior.png|Entrance to the Hair Salon
+Aviary-Hair-Salon-Interior.png|The Hair Salon interior
+</gallery>
+
+===Hat Workshop<span id="Hair Accessories Shop"></span>===
+[[File:Aviary-Hair-Accessories-Shop-Interior.png|thumb|250px|right|The Hat Workshop interior]]
+The Hat Workshop is unlocked after completing the [[Season of Revival#Quest #5|fifth Quest]] from the [[Season of Revival]]. It is located on the left side of the shopping alley, in the same entrance as the [[#Hair Salon|Hair Salon]] and is run by the [[Moments Guide]]. To change or try on a different [[Hair Accessory]], the player must select the {{Icon|Four-point-star-Ray.png | label=}} star icon on the table with hats on it. The Hat Workshop is located within the same building as the [[#Hair Salon|Hair Salon]], the [[#Cape Workshop|Cape Workshop]], and the [[#Outfit Workshop|Outfit Workshop]].<br>
+{{Clear}}
+
+===Mask Workshop<span id="Mask Shop"></span>===
+[[File:Aviary-Mask-Shop.png|thumb|250px|right|The Mask Workshop]]
+The Mask Workshop is unlocked after completing the [[Season of Revival#Quest #9|ninth Quest]] from the [[Season of Revival]]. The Shop can be found besides the passage that's connecting the [[#Hair Salon|Hair Salon]] and [[#Hat Workshop|Hat Workshop]] with the [[#Cape Workshop|Cape Workshop]] and [[#Outfit Workshop|Outfit Workshop]]. The Mask Workshop is run by the [[Passage Guide]]. It can be accessed through the main entrances to the Hair Salon, and the Cape Workshop. To change or try on a different [[Mask]], the player must select the {{Icon| Icon_mask_default.png | link= }} Mask icon on a pillow under a floating Mask.<br>
+{{Clear}}
+
+===Head Accessories Shop===
+[[File:Aviary-Head-Accessories-Shop.png|thumb|250px|right|The Head Accessories Shop]]
+The Head Accessories Shop is unlocked after completing the [[Season of Revival#Quest #9|ninth Quest]] from the [[Season of Revival]] as well. It is located in the same shop area as the [[#Mask Workshop|Mask Workshop]] and can be accessed through the same ways. To change or try on a different [[Head Accessories|Head Accessory]], the player must select the {{Icon|Four-point-star-Ray.png | label=}} star icon on a rotating stand, filled up with several decorative accessories.<br>
+{{Clear}}
+
+===Face Accessories Shop===
+[[File:Aviary-Face-Accessories-Shop.png|thumb|250px|right|The Face Accessories Shop]]
+The Face Accessories Shop is unlocked after completing the [[Season of Revival#Quest #9|ninth Quest]] from the [[Season of Revival]] as well. It is located in the same shop area as the [[#Mask Workshop|Mask Workshop]] and can be accessed through the same ways. To change or try on a different [[Face Accessory]], the player must select the {{Icon|Four-point-star-Ray.png}} star icon on the stones displaying several decorative glasses.
+{{Clear}}
+
+===Nesting Workshop===
+{{Main|Nesting Workshop}}
+The Nesting Workshop is a Seasonal Area added to Aviary Village, introduced along with the [[Season of Nesting]] in Patch {{v|0.25.0}}. It is the second shop on the right side of the shop alley and is run by the [[Nesting Guide]], marked by a sign outside with the Season's emblem. Inside, players are able to purchase the [[Season of Nesting#All Nesting Friendship Trees|Season of Nesting's cosmetics]] from special display stands. Players can also purchase a permanent rotating selection of furniture from the main counter of the Nesting Workshop. Lastly, players can access [[Season of Nesting#Nesting Challenges|Nesting Challenges]] once they start the [[Season of Nesting#Quest #3|third Seasonal Quest]] from [[Season of Nesting]].<br>
+<br>
+<gallery widths="250" spacing="small" captionalign="center"> 
+Aviary-Village-Nesting-Cosmetics-Shop-Entrance.png|Entrance to the Nesting Workshop
+Nesting-Cosmetics-Shop.png|Nesting Workshop interior
+Nesting-Challenge-Board.png|The Challenge Board
+</gallery>
+
+===Cape Workshop<span id="Cape Shop"></span>===
+The Cape Workshop is unlocked after completing the [[Season of Revival#Quest #4|fourth Quest]] from the [[Season of Revival]]. It is located on the left side of the shopping alley, towards the back of the village and is run by the [[Dreams Guide]]. Inside the shop is a round, spinning platform surrounded by cushioned seating, intended to be used to showcase outfits. To change or try on a different [[Cape]], the player must select the {{Icon|Cape-category-Ray.png | label=}} Cape icon on the closet next to the desk. The Cape Workshop is located within the same building as the [[#Hair Salon|Hair Salon]], the [[#Hat Workshop|Hat Workshop]], and the [[#Outfit Workshop|Outfit Workshop]].<br>
+<br>
+<gallery widths="250" spacing="small" captionalign="center"> 
+Aviary-Cape-Shop-Exterior.png|Entrance to the Cape Workshop
+Aviary-Cape-Shop-Interior.png|The Cape Workshop interior
+</gallery>
+
+===Outfit Workshop<span id="Outfit Shop"></span>===
+The Outfit Workshop is unlocked after completing the [[Season of Revival#Quest #8|eighth Quest]] from the [[Season of Revival]]. It is located on the left side of the shopping alley, in the same entrance as the [[#Cape Workshop|Cape Workshop]] and is run by the [[Flight Guide]]. To change or try on a different [[Outfit]], the player must select the {{Icon|Icon pants default.png | label=}} Outfit icon on the little stool next to the dresser. The Outfit Workshop is located within the same building as the [[#Hair Salon|Hair Salon]], the [[#Hat Workshop|Hat Workshop]], and the [[#Cape Workshop|Cape Workshop]].<br>
+<br>
+<gallery widths="250" spacing="small" captionalign="center">
+Aviary-Outfit-Shop-Exterior.png|Entrance to the Outfit Workshop
+Aviary-Outfit-Shop-Interior.png|The Outfit Workshop interior
+</gallery>
+
+===Dye Workshop===
+The Dye Workshop is a Seasonal Area added to [[Aviary Village]], introduced along with the [[Season of Radiance]] in Patch {{v|0.28.0}}. Located above the [[Aviary_Village#Hair_Salon|Hair Salon]], the workshop is unlocked after teleporting to the workshop from the Radiance Guide at [[Home]]. There players can find the [[Radiance Guide]] and the station to recolor their cosmetics. The shop's entrance is marked by a sign with a dye jar with a colorful drop inside. When standing on the draped backdrop at the dye station, players can use colors they've unlocked to dye currently-equipped cosmetics.
+
+An extra exit from the workshop can be found in the waterway in front of the dye bath. The player emerges through a grate leading to the [[Aviary_Village#Aviary_Village_Nests|Nest]]-front pond, which can be spotted from the color spilling out.
+<br>
+<gallery widths="250" spacing="small" captionalign="center">
+Village-Radiance-Dye-Workshop-Entrance.png|Entrance to the Dye Workshop
+Village-Radiance-Dye-Workshop-interior.png|The Dye Workshop interior
+Village-Radiance-Dye-Workshop-Station.png|The Workshop Dye Station
+</gallery>
+
+===Harmony Hall===
+[[File:Aviary-Harmony-Hall-Entrance.png|thumb|300px|Entrance to Harmony Hall]]
+The [[Harmony Hall]] building is unlocked after completing the [[Season of Revival#Quest #6|sixth Quest]] from the [[Season of Revival]]. It is located on the back right side of the shopping alley, marked by the sign with a {{Icon|SOPerformance-hair-accessory-icon-Morybel-0146.png}} treble clef symbol, and is run by the [[Performance Guide]].
+
+This building acts as a shortcut to Harmony Hall in the [[Village of Dreams]], teleporting players directly inside upon entering the doorway. Players can then return back to Aviary Village by passing through the main entrance of the Harmony Hall building. Note that the return teleport to Aviary Village will no longer be available should the player leave through the exit to the [[Village Theater]] and re-enter the building again.
+{{Clear}}
+
+===<span id="Cafe">Aviary Village Cafe</span>===
+During the [[Sky × Cinnamoroll Pop-Up Cafe]] event, a new, permanent cafe was opened in Aviary Village. It is located on the back right side of the shopping alley, after the [[#Harmony Hall|Harmony Hall]] building, and is run by the [[Tiptoeing Tea-Brewer]].
+
+This cozy cafe serves as a gathering spot for players looking to request or offer in-game help, with multiple comfy seats inside offering the ability to [[Chat]]. Hungry Sky Kids can also grab a freshly baked [[Pieces of Light|Light]] pastry each day by sitting at the counter by the oven.
+
+Players who own the {{Days Item|Cinnamoroll Plushie||inline_text}} can use the item's special ability to view all the Cinnamoroll decorations that were featured in the cafe during the event. To do so, open the [[Expression Menu]] with the item equipped and select the [[Prop]]'s icon to place it on the mantle of the fireplace next to the door.<br>
+<br>
+<gallery widths="250" spacing="small" captionalign="center">
+Aviary-Village-Cafe-Front-Entrance.png|Main Entrance to the Aviary Village Cafe
+Aviary-Village-Cafe-Interior.png|Aviary Village Cafe interior
+Aviary-Village-Cafe-Kitchen-Counter.png|Aviary Village Cafe kitchen
+</gallery>
+
+===Aviary Village Archway Cafe Counter===
+[[File:Aviary-Village-Cafe-Counter.png|thumb|300px|Aviary Village Archway Cafe Counter]]
+The outdoor part of the Cafe opened with the release of Patch {{v|0.26.5}}. It serves as the [[Daily Quest]] hub for Aviary Village, replacing the use of the area's [[#Return Shrine|Return Shrine Statue]] for collecting Daily Quests. 
+
+Several [[Ancestors#Spirits|Ancestor Spirits]], generally four, wait for you at the archway counter, who will ask for your help with something that they care about. Once a Daily Quest has been completed, interacting with the Ancestor Spirits again will reward players with one [[Currency#Candles|Candle]] per completed Quest. Each of the Ancestor Spirits will leave once their associated Daily Quest is completed. Once all Daily Quests have been completed, the player will be rewarded with a treat if they sit at one of the stools by the counter. Then, the Cafe Manager will clean up, turn off the lights, and leave for the day.
+
+''Tip: You can accept and claim all [[Quests|Daily Quests]] at once by performing a Level 1 or 2 {{Emote|Bow|inline_text}} near the Ancestor Spirits at the Cafe.''
+
+===Season of Revival Cosmetics Shop===
+The Revival Cosmetics Shop was unlocked after completing the [[Season of Revival#Quest #1|first Quest]] from the [[Season of Revival]]. It is the first shop on the left side of the shop alley, previously marked by a sign with the Season's emblem. Inside, players were able to purchase the [[Season of Revival#All Revival Friendship Trees|Season of Revival's cosmetics]], displayed by wooden mannequins. After the [[Season of Revival]] ended, the entrance to the shop was blocked off. With Patch {{v|0.27.5}},  the [[#Aviary Event Store|Event Store]] was moved to the previous location of the Revival Cosmetics Shop.<br>
+<br>
+<gallery widths="250" spacing="small" captionalign="center">
+Revival-Cosmetics-Shop-Entrance.jpg|Entrance to the Revival Cosmetics Shop
+Revival-Cosmetics-Shop.jpg|The Revival Cosmetics Shop interior
+</gallery>
+{{Clear}}
+
+==Collaboration Room==
+{{Main|Collaboration Room}}
+[[File:Aviary_cinema_restored.JPG|thumb|right|Entrance to the Collaboration Room]]
+An entrance to the Collaboration Room can be found by the [[#Cape Workshop|Cape Workshop]]. During the first half of [[Sky Anniversary|Sky Anniversary 2025]] ({{v|0.29.5}} to {{v|0.30.0}}), this doorway led directly to the Sky Cinema.
+{{Clear}}
+
+==Cinema==
+{{Main|Sky Cinema}}
+To find the Sky Cinema, enter the [[Collaboration Room]] and continue through the illuminated swirling door on the far side. The Cinema contains the [[Vault Elder's Lantern]] and a large screen used for special in-game broadcast events like the [[Sky Creator Awards Ceremony 2025]].
+{{Clear}}
+
+==Tranquil Garden==
+{{Quote|A space to just be.|Tranquil Garden Opening}}
+The Tranquil Garden can be found just past the [[#Aviary_Village_Cafe|Aviary Cafe Entrance]]. It was initially introduced for [[Sky Anniversary/2024|Sky Anniversary 2024]], but only permanently added in Update {{v|0.30.0}}. The garden is a quiet contemplative space that features a breathing exercise meditation circle, a labyrinth pattern rock maze, and a timed relaxation activity, as well as some chat tables.
+<gallery widths="250" spacing="small" captionalign="center">
+Tranquil_garden_entrance_aviary.JPG|Entrance to the Tranquil Garden
+Tranquil_garden_area.jpg|The Tranquil Garden Area
+</gallery>
+{{Clear}}
+
+==Sleepy Traveling Merchant==
+[[File:Sleepy-Traveling-Merchant-Aviary-Village.jpeg|thumb|right|300px|The Sleepy Traveling Merchant with their boat in Aviary Village]]
+
+The Sleepy Traveling Merchant can be found just outside of the Aviary's [[#Spell Shop|Spell Shop]], periodically appearing for several weeks whenever there's a new wave of products released on [[thatskyshop]] - an official merchandise website made by thatgamecompany. Unlike in [[Home]], the Sleepy Traveling Merchant in Aviary Village ''does not'' offer any [[Spells]].
+
+Upon selecting the {{Icon|Icon_shop.png}} shopping cart icon above their head, the Merchant will perform the {{Emote|Levitating Adept|inline_text}} Expression to summon a meditation circle on their boat, on which the player may {{Emote|Sit|link=Menus and Controls#Sit|label=Sit|inline_text}} down on to visit the thatskyshop website on the device's external browser. The website remains accessible even after the Sleepy Traveling Merchant's departure.  <small>(Note that this function is only available on devices which have access to an external browser.)</small>
+
+A small sign in front of the boat, depicting an unlit candle, shows a clock icon, that once selected, will inform the player of how many days there are left until the Sleepy Traveling Merchant departs.
+{{Clear}}
+
+==Shared Memory Shrine==
+[[File:Shared-Memory-Shrine-Aviary-Village.png|thumb|250px|The Shared Memory Shrine]]
+In Aviary Village, there is one [[Shared Memory Shrines|Shared Memory Shrine]] on the left of the Village Plaza. A way to allow players to show a glimpse of their past for others to see, this Shared Memory Shrine is accessible to all players who have started the [[Season of Revival#Quest #3|third Quest]] from the [[Season of Revival]].
+
+Unlike other Shrines, this one will automatically play some of the recordings made there if a player is close to it, as a sort of village stage for players to stop by as they’re going through the area. This Shrine will also have weekly prompts, for players looking for ideas for their Shared Memories.
+{{Clear}}
+
+==Spirit Interactions and Locations==
+[[File:Aviary-Spirit-interactions-and-locations.jpg|right|thumb|300px|Credit: syuan_syuan_ and nagi.1373]]
+Upon the completion of the [[Season of Revival#Quest #3|third Quest]] from the [[Season of Revival]], numerous Spirits descended from the stars and transform the abandoned refuge into a thriving village. Players can interact with most of these Spirits by using their associated [[Expressions]].<br>
+<br>
+{| class="fandom-table"
+!Spirits
+!Interaction
+|-
+|{{Spirit Item|Pointing Candlemaker|emote|table|sort=2|link=Expressions#Point|label=Point}}
+| When the player first approaches, they will wave to the player.
+|-
+|{{Spirit Item|Ushering Stargazer|emote|table|sort=3|link=Expressions#Come|label=Come}}{{Spirit Item|Rejecting Voyager|emote|table|sort=4|link=Expressions#No Thanks|label=No Thanks}}
+|Get close to the Spirits and use the [[Ushering Stargazer#Expression|Come]] Expression to make the two Spirits hold the player's hand and follow them around. Use the [[Rejecting Voyager#Expression|No Thanks]] Expression to make the Spirits let go and stand by in place.
+|-
+|{{Spirit Item|Applauding Bellmaker|emote|table|sort=9|link=Expressions#Clap|label=Clap}}
+|Ring the bell next to the Spirit and they will applaud.
+|-
+|{{Spirit Item|Butterfly Charmer|emote|table|sort=8|link=Expressions#Butterfly|label=Butterfly}}
+|Free the [[Butterflies]] using your [[Flame]] from the nearby jars to make the Spirit cheer. After freeing the Butterflies, use the [[Butterfly Charmer#Expression|Butterfly]] Expression (only Levels 1 and 2) to make the Spirit happy.
+|-
+|{{Spirit Item|Proud Victor|emote|table|sort=5|link=Expressions#Proud Stance|label=Proud Stance}}
+|When the player imitates the Spirit by using the [[Expressions#Proud Stance|Proud Stance]], the camera will lock onto the player and cinematically pan around them. It will be canceled when the player moves away.
+|-
+|{{Spirit Item|Cheerful Spectator|emote|table|sort=35|link=Expressions#Cheer|label=Cheer}}{{Spirit Item|Backflipping Champion|emote|table|sort=33|link=Expressions#Backflip|label=Backflip}}
+|Use the [[Backflipping Champion#Expression|Backflip]] Expression to make the standing Spirit perform a flip together with the player, causing the three seated Spirits to cheer.
+|-
+|{{Spirit Item|Frightened Refugee|emote|table|sort=46|link=Expressions#Duck|label=Duck}}
+|When the player approaches the Spirit and uses any [[Calls|Call]], the Spirit will be frightened and wait until the player is far away before they get back up to their feet.
+|-
+|{{Spirit Item|Stealthy Survivor|emote|table|sort=4|link=Expressions#Sneaky Stance|label=Sneaky Stance}}
+|When approached for the first time, the Spirit will signal the player to stay quiet as they play [[Hide'n'Seek Pioneer#Expression|hide and seek]].
+|-
+|{{Spirit Item|Praying Acolyte|emote|table|sort=60|link=Expressions#Pray|label=Pray}}
+|When the player stands in front of the Spirit, they will begin to pray. Use the [[Praying Acolyte#Expression|Pray]] Expression (only Levels 1 and 2) to make particle effects appear.
+|-
+|{{Spirit Item|Meditating Monastic|emote|table|sort=59|link=Expressions#Float|label=Float}}
+|Use the [[Meditating Monastic#Expression|Float]] Expression to make the Spirit float together with the player.
+|-
+|{{Spirit Item|Memory Whisperer|emote|table|sort=5|link=Expressions#Cosmic Manta Call|label=Cosmic Manta Call}}
+|When the player uses the [[Memory Whisperer#Expression|Cosmic Manta Call]], the Spirit will respond back.
+|-
+|{{Spirit Item|Polite Scholar|emote|table|sort=6|link=Expressions#Polite Stance|label=Polite Stance}}
+|When the player imitates the Spirit by using the [[Polite Scholar#Expression|Polite Stance]], flower petals will fall around the player until the player leaves (switching Stances along the way will not affect it).
+|-
+|{{Spirit Item|Waving Bellmaker|emote|table|sort=10|link=Expressions#Wave|label=Wave}}
+|Use the [[Waving Bellmaker#Expression|Wave]] Expression to make the Spirit wave back.
+|-
+|{{Spirit Item|Fainting Warrior|emote|table|sort=47|link=Expressions#Faint|label=Faint}}
+|When the player approaches the Spirit and uses the [[Fainting Warrior#Expression|Faint]] Expression, the camera will lock onto the player and pan to an arial shot.
+|-
+|{{Spirit Item|Levitating Adept|emote|table|sort=58|link=Expressions#Telekinesis|label=Telekinesis}}
+|Use the [[Levitating Adept#Expression|Telekinesis]] Expression Levels 1 and 2 to make the Spirit raise a fish out of the pond using telekinesis, and Levels 3 and 4 to raise a [[Dark Crabs|Crab]].
+|-
+|{{Spirit Item|Bowing Medalist|emote|table|sort=34|link=Expressions#Bow|label=Bow}}
+|Use the [[Bowing Medalist#Expression|Bow]] Expression to make the Spirit bow back.
+|}
+
+==Map==
+{{Map:Aviary Village}}
+
+Unlike any other [[Map Shrines|Map Shrine]] in Sky, players can only activate the [[Map Shrines#Aviary Village|Map Shrine in Aviary Village]] after starting the [[Season of Revival#Quest #3|third Quest]] from the [[Season of Revival]].<br>
+<br>
+[[File:Ingame-map-aviary.png|none|thumb|300px|The Shrine Map of Aviary Village]]
+
+==Trivia==
+*The Constellation Statue was originally located on the center island in the [[Daylight Prairie#Villages|Villages]] of [[Daylight Prairie]]. Its original purpose was an experimental feature that made it easier for new players to [[Menus and Controls#Expression Menu|request a guide]].
+*While the Tranquil Garden is only accessible through Aviary Village, it is technically located in the [[Valley of Triumph]].
+
+==In Other Languages==
+{{Help|lang}} 
+{{Other Languages|title=Aviary Village
+|fr            = Village volière
+|fr_meaning    = Aviary village <!-- Machine Translated -->
+|ja            = 花鳥郷 (Kana: かちょうきょう)
+|ja_rom        = Kachokyo
+|ja_meaning    = Village of flowers and birds <!-- Translated by @Fanlinger -->
+|id            = Desa Aviary
+|id_meaning    = Aviary Village <!-- Machine Translated -->
+|de            = Volieren-Dorf
+|de_meaning    = Aviary Village <!-- Verified by Native Speaker Maymuun -->
+|vi            = Làng Chuồng Chim
+|vi_meaning    = Birdhouse Village <!-- Machine Translated -->
+|ko            = 새들의 정원 마을 (Hanja: 새들의 庭園 마을)
+|ko_rom        = Saedeul-ui Jeong-won Ma-eul
+|ko_meaning    = Garden Village of Birds<!-- Machine Translated -->
+|es            = Aldea aviaria
+|es_meaning    = Bird village <!-- Machine Translated -->
+|it            = Villaggio degli Uccelli
+|it_meaning    = Village of Birds <!-- Machine Translated -->
+|pt            = Aldeia Aviária
+|pt_meaning    = Aviary Village <!-- Machine Translated -->
+|ru            = Птичья деревня
+|ru_rom        = Ptich’ya derevnya
+|ru_meaning    = Bird Village <!-- Machine Translated -->
+|zh_cn         = 云巢 
+|zh_cn_rom     = Mandarin: Yún Cháo / Cantonese: Wan4 Caau4
+|zh_cn_meaning = Nest in Clouds <!-- Verified by Native Speaker @Fanlinger -->
+|zh_tw         = 雲巢 
+|zh_tw_rom     = Mandarin: Yún Cháo / Cantonese: Wan4 Caau4
+|zh_tw_meaning = Nest in Clouds <!-- Verified by Native Speaker @Fanlinger -->
+|zh_netease         = 云巢 
+|zh_netease_rom     = Mandarin: Yún Cháo / Cantonese: Wan4 Caau4
+|zh_netease_meaning = Nest in Clouds <!-- Verified by Native Speaker @Fanlinger -->
+}}
+
+==References==
+<references />
+
+{{GameLevelsNav}}
+{{Navigation Box}}
+
+[[fr:Village Volière]]
+[[pt-br:Aldeia Aviária]]
+[[ja:花鳥郷]]
+[[ru:Птичья деревня]]
+[[de:Volieren-Dorf]]

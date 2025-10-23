@@ -1,0 +1,160 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Little-Prince-Spirit-Stretching-Lamplighter.png|Standard
+Little-Prince-Spirit-Stretching-Lamplighter-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Hair|infobox}}{{Spirit Item||Cape|infobox}}
+|season    = The Little Prince
+|realm     = Vault of Knowledge
+|location  = Starlight Desert
+|ts        = April 7, 2025 (SV#8)<br>December 7, 2023 (#102)
+}}
+<section begin="Summary" />The '''Stretching Lamplighter''' is a [[Seasonal Spirit]] from the [[Season of The Little Prince]] who offers the {{Emote|Stretching Lamplighter|inline_text}} Expression. The Stretching Lamplighter is found in the [[Starlight Desert]], in the left front hole of a giant lamp tower hidden in the clouds, towards the left side of the area. The collectibles [[#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Stretching Lamplighter|Hair|inline_text}} and a {{Spirit Item|Stretching Lamplighter|Cape|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Stretching-Lamplighter-first-visit-promo-image.png|thumb|320px|none|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|lUNfBOpnDIk||inline|Video Guide by Tara}}
+
+The Stretching Lamplighter can be found in the [[Starlight Desert]], in the left front hole of a giant lamp tower hidden in the clouds, towards the left side of the area. This Spirit has a [[Standard Memory|standard memory]] with 9 memory fragments and a 15-minute overall [[Timed Memory|time limit]].
+
+As their memory unfolds, the Stretching Lamplighter can be seen stretching before running about the lamp with a long, blue pole in hand, repeatedly turning the light on and off. Eventually they pause to take a break from their tireless work, pole leaning against the wall as the Spirit bends over their knees to catch their breath.
+
+At the end of the memory, the Stretching Lamplighter straightens to stretch their arms out forward and then backwards. The Little Prince enters the scene and exclaims, "You look exhausted! Why do you keep turning the light on?"
+
+The Spirit continues to stretch as they explain, "I have an order to turn the light on when it is off."
+
+Head tilting with confusion, the Little Prince asks, "Then why do you turn it off after turning it on?"
+
+"I have another order to turn the light off when it is on," the Stretching Lamplighter replies.
+
+"Then you are unlucky," concludes the Little Prince with a hand to his chin.
+
+The Stretching Lamplighter continues to stretch out their sore muscles, unbothered by their endless task. "Orders are orders."<br>
+<br>
+[[File:05 VK Seasonal Spirit - Stretching Lamplighter.jpg|200px|thumb|none|Relive the Stretching Lamplighter's memory]]
+</div>
+{{Clear}}
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Stretching-Lamplighter-stretch-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Stretching-Lamplighter-stretch-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Stretching-Lamplighter-stretch-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Stretching-Lamplighter-stretch-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar stretch their arm across their neck by bending one arm around their neck and holding its upper part with their other hand, repeat it on the other side, before twisting their upper torso to one side, then the other, while a squeaky sound effect followed by simple guitar strums plays.
+*Level 2 makes the same motion as Level 1, with a trail of glowing, golden sparkles following the movement of each of your avatar's hands.
+*Level 3 will make your avatar lean backwards with both hands holding their lower back, before falling into a sideways crouch to first stretch their left, and then the right leg, and finally crouch down, and push themselves up straight with their hands supporting their weight on their knees, while a deeper squeaky sound effect followed by jaunty guitar strums plays.
+*Level 4 makes the same motion as Level 3, a trail of glowing, golden sparkles following the movement of each of your avatar's hands.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+== Cosmetics==
+=== Hair ===
+The [[Hair]] offered by this Spirit is a straight, dark blue cap with gray accents, a chin strap, and a short visor, sitting on top of closely trimmed hair, costing {{Cost|44 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|10 SC|season=The Little Prince}} total). Note that this item is considered a Hair, not a [[Hair Accessory]], and as such cannot be worn over other Hairstyles.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Cape ===
+The [[Cape]] offered by this Spirit is black with a gray interior and accents, and a collar piece that covers the neck, costing {{Cost|70 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fourth node ({{Cost|48 SC|season=The Little Prince}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||cape|interior}} {{!}} The Cape interior
+{{Icon Name||Cape|real}} {{!}} The Cape back
+{{Icon Name||Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling
+|ts_dates=*December 7, 2023 (#102)
+|rs_dates=*April 7, 2025 (SV#8)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Stretching Lamplighter
+|image  = Little-Prince-Spirit-Stretching-Lamplighter.png
+|season = The Little Prince
+
+|nodeC6 = Cape 70 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Hair 44 C
+|nodeC2 = spell5
+|nodeR1 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+The hints given before the [[Stretching Lamplighter]]'s first appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=First Visit Hints
+|content=<div>
+* Often forgets to smile
+* Their expressions are hard to read
+* Doesn't have a regular sleep schedule
+* Doesn't like eating breakfast
+* Doesn't stand up for themselves as much as they should
+* Their secret hobby is fashion and tailoring
+* Has sensitive eyes in bright light
+* Doesn't like causing problems for others
+* Has never heard of Josh
+* [ikô] Likes to whistle while they work
+</div>
+}}
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=The Little Prince}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Stretching Lamplighter
+|image  = Little-Prince-Spirit-Stretching-Lamplighter.png
+|type   = season
+|season = The Little Prince
+
+|nodeC5 = season_heart 3 SC SP
+|nodeL4 = spell5 SP
+|nodeC4 = Cape 22 SC
+|nodeL3 = emote4 SP
+|nodeC3 = emote3 16 SC
+|nodeL2 = Hair SP
+|nodeC2 = spell5 10 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+== Trivia ==
+* The Stretching Lamplighter is inspired by the Lamplighter in ''[[wp:The_Little_Prince|Le Petit Prince]]'', written by Antoine de Saint-Exupéry.
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+SOTLP photos stretch emote.png
+SOTLP photos group stretch.png
+SOTLP photos group stretching.jpeg
+</gallery>
+
+==References==
+<references/>
+
+[[de:Sich streckender Laternenanzünder]]
+[[pt-br:Acendedor de Lampiões se Esticando]]
+[[fr:Allumeur de réverbère qui s'étire]]
+[[ru:Потягивающийся фонарщик]]
+[[ja:体をほぐす点燈夫]]

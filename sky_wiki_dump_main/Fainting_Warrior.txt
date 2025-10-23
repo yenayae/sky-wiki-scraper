@@ -1,0 +1,94 @@
+{{Spirit Infobox
+|type      = Regular
+|emote_type= Emote
+|image     = <gallery>
+Wasteland-Spirit-Fainting-Warrior.png|Standard
+Wasteland-Spirit-Fainting-Warrior-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Mask|infobox}}{{Spirit Item||Hair|infobox}}
+|realm     = Golden Wasteland
+|location  = Broken Temple
+}}
+<section begin="Summary" />The '''Fainting Warrior''' is a [[Regular Spirit]] in the [[Golden Wasteland]] who offers the {{Emote|Fainting Warrior|inline_text}} Expression. The Fainting Warrior is found on the left side of [[Broken Temple]], behind one of the ruined columns. The collectibles [[Fainting Warrior#Friendship Tree|offered]] by this Spirit are a {{Spirit Item|Fainting Warrior|Mask|inline_text}} and a {{Spirit Item|Fainting Warrior|Hair|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Fainting-Warrior-Guide-777-Ed.png|320x320px|thumb|none|Image Guide by 777.Ed]]
+
+== Memory ==
+<div>{{#ev:youtube|https://www.youtube.com/watch?v=X0dj10tnvpQ|||Video Guide by Tara||start=154&end=245&loop=1}}
+<br>
+The Fainting Warrior can be found on the left side of [[Broken Temple]], behind one of the ruined columns. This Spirit is a [[Standard Memory|standard memory]] quest with 2 memory fragments and an unlimited overall [[Timed Memory|time limit]].
+
+As their memory unfolds, the Fainting Warrior stumbles across the sandy dunes towards another ruined column farther ahead.
+
+At the end of the memory, the Fainting Warrior staggers alongside the column, clutching their left shoulder as if they were wounded. Eventually, unable to keep moving, they collapse onto all fours and pass out.<br>
+<br>
+[[File:04 GW Spirit - Fainting Warrior.jpg|200px|thumb|none|Relive the Fainting Warrior's memory]]
+</div>
+{{Clear}}
+
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.<br>
+<br>
+[[File:{{Icon Name||Emote}}|170px|left]]
+<gallery heights="125" captionalign="center">
+Fainting-Warrior-faint-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Fainting-Warrior-faint-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Fainting-Warrior-faint-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Fainting-Warrior-faint-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+* Level 1 will make your avatar sway sideways on their right foot, right hand held to their forehead, before collapsing onto their back. This action is continued for as long as you don't move your character.
+* Level 2 makes the same motion as Level 1 with white clouds and the letter "z" continuously appearing from your avatar's head.
+* Level 3 will make your avatar slouch forward, then backward, before collapsing back onto their right side. This action is continued for as long as you don't move your character.
+* Level 4 makes the same motion as Level 3 with white clouds and the letter "z" continuously appearing from your avatar's head, with a circling ring of sparkles overhead.
+
+The prices of the three Expression upgrades are {{Cost|4 C}}, {{Cost|5 C}}, and {{Cost|5 C}}. Levels 3 and 4 are only available after unlocking the Spirit's [[Wing Buff]].
+
+== Cosmetics ==
+=== Mask ===
+The [[Mask]] offered by this Spirit is a silver head guard with pointed horns and a mouthpiece that obscures most of the face (closely resembling the [[Elder of the Wasteland]]'s Mask), costing {{Cost|15 H}}. It is permanently available to all players after unlocking the Spirit's [[Wing Buff]] and the Friendship Tree's fifth node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask front
+{{Icon Name||Mask|side}} {{!}} The Mask side
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Hair ===
+The [[Hair]] offered by this Spirit is a long length of hair on the right side of a shaved head, costing {{Cost|5 H}}. It is permanently available to all players after unlocking the Friendship Tree's second node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair front
+{{Icon Name||Hair|side}} {{!}} The Hair side
+{{Icon Name||Hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Friendship Tree ==
+{{Friendship Tree Info | regular}}
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Fainting Warrior
+|image  = Wasteland-Spirit-Fainting-Warrior.png
+
+|nodeC6 = mask 15 H
+|nodeC5 = spell5
+|nodeL4 = emote4 5 C
+|nodeC4 = emote3 5 C
+|nodeC3 = wing 2 AC
+|nodeL2 = hair 5 H
+|nodeC2 = spell1
+|nodeR2 = heart
+|nodeL1 = emote2 4 C
+|nodeC1 = emote
+}}<section end="Friendship Tree" />
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Emote Loc-Fall Down.png
+</gallery>
+
+[[de:Ohnmächtige Kriegerin]]
+[[pt-br:Guerreira Desmaiada]]
+[[fr:Guerrière affaiblie]]

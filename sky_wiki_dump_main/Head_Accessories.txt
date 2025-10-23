@@ -1,0 +1,242 @@
+{{Distinguish|Hair Accessories}}
+__FORCETOC__
+[[File:Sky-Closet-Hairstyles-Morybel-0146.png|thumb|left|x200px|Icon used for Hair Outfit Shrine]]
+'''Head Accessories''' are [[Cosmetics]] that are worn on the head in addition to any selected [[Hair Accessories]]. This includes items such as earrings, horns or antlers, and earmuffs, with the majority only obtainable as an [[IAP]]. Head Accessories share the middle [[Outfit Shrine]] with [[Hair]], where they are listed in the third tab (the horns {{Icon| Icon hair dreams hermit horns.png | label= }} icon). 
+
+Head Accessories were first introduced in the game with Patch [[Update:Live_0.27.0_(294170_Android,_Huawei)_(292054_iOS,_PlayStation,_Steam,_Switch)|0.27.0]] in October 2024, recategorizing multiple existing [[Face Accessories]] and further expanding the customization options available to players after the first the [[Cosmetics#Types of Cosmetics|Closet]] category expansion in Patch {{v|0.22.0}}.
+{{Clear}}
+
+==Display==
+<section begin="Display" />
+{{Cosmetics Tabber
+| {{Spirit Item| Hairtousle Teen | headpiece | tab | link= }}
+| {{Spirit Item| Hairtousle Teen | headpiece_real | closet_display }}
+| {{Spirit Item| Enchantment Guide | headpiece_u | tab | link= }}
+| {{Spirit Item| Enchantment Guide | headpiece_u_real | closet_display | link=Enchantment_Guide#Enchantment_Ultimate_Head_Accessory }}
+| {{Spirit Item| Bearhug Hermit | headpiece | tab | link= }}
+| {{Spirit Item| Bearhug Hermit | headpiece_real | closet_display }}
+| {{Spirit Item| Abyss Guide | headpiece_u | tab | link= }}
+| {{Spirit Item| Abyss Guide | headpiece_u_real | closet_display | link=Abyss_Guide#Abyss_Ultimate_Head_Accessory }}
+| {{Spirit Item| AURORA Guide | headpiece_i | tab | link= | label=Tiara We Can Touch }}
+| {{Spirit Item| AURORA Guide | headpiece_i_real | closet_display | link=Season of AURORA#Tiara We Can Touch | label=Tiara We Can Touch }}
+| {{Spirit Item| Melancholy Mope | headpiece | tab | link= }}
+| {{Spirit Item| Melancholy Mope | headpiece_real | closet_display }}
+| {{Spirit Item| Tumbling Troublemaker | headpiece | tab | link= }}
+| {{Spirit Item| Tumbling Troublemaker | headpiece_real | closet_display }}
+| {{Spirit Item| Spirit of Mural | headpiece_g | tab | link= | label=Gift of the Nine-Colored Deer Head Accessory }}
+| {{Spirit Item| Spirit of Mural | headpiece_g_real | closet_display | link=Season of the Nine-Colored Deer#Gift of the Nine-Colored Deer | label=Gift of the Nine-Colored Deer Head Accessory }}
+| {{Spirit Item| Radiance Provoking Performer | headpiece | tab | link= }}
+| {{Spirit Item| Radiance Provoking Performer | headpiece_real | closet_display }}
+| {{Spirit Item| Royal Hairtousle Teen | headpiece | tab | link= }}
+| {{Spirit Item| Royal Hairtousle Teen | headpiece_real | closet_display }}
+| {{Spirit Item| Vault Elder's Lantern | headpiece_v | tab | label=Krill Tail | link= }}
+| {{Spirit Item| Vault Elder's Lantern | headpiece_v_real | closet_display | label=Krill Tail | link=Season_of_The_Two_Embers_-_Part_1#Vestige_of_Dark_Dragons }}
+| {{Spirit Item| Vault Elder's Lantern | headpiece_s | tab | label=Manatee Tail | link= }}
+| {{Spirit Item| Vault Elder's Lantern | headpiece_s_real | closet_display | label=Manatee Tail | link=Season_of_The_Two_Embers_-_Part_1#Spirited_Manatee_Ensemble }}
+| {{Days Item| Dragon Bangles | icon | tab | link= }}
+| {{Days Item| Dragon Bangles | real | closet_display }}
+| {{Days Item| Rainbow Braid | icon | tab | link= }}
+| {{Days Item| Rainbow Braid | real | closet_display | link=Days_of_Color/2021#Rainbow_Braid_Accessory }}
+| {{Days Item| Rainbow Earring | icon | tab | link= }}
+| {{Days Item| Rainbow Earring | real | closet_display | link=Days_of_Color/2022#Rainbow_Earring }}
+| {{Days Item| Rainbow Headphones | icon | tab | link= }}
+| {{Days Item| Rainbow Headphones | real | closet_display | link=Days_of_Color/2022#Rainbow_Headphones }}
+| {{Days Item| Dark Rainbow Earrings | icon | tab | link= }}
+| {{Days Item| Dark Rainbow Earrings | real | closet_display | link=Days_of_Color/2023#Dark_Rainbow_Pack }}
+| {{Days Item| Sunlight Helios Hoops | icon | tab | link= }}
+| {{Days Item| Sunlight Helios Hoops | real | closet_display }}
+| {{Days Item| Moonlight Earrings | icon | tab | link= }}
+| {{Days Item| Moonlight Earrings | real | closet_display }}
+| {{Days Item| Mischief Withered Antlers | icon | tab | link= }}
+| {{Days Item| Mischief Withered Antlers | real | closet_display }}
+| {{Days Item| Days of Feast Horns | icon | tab | link= }}
+| {{Days Item| Days of Feast Horns | real | closet_display }}
+| {{Days Item| Festival Earrings | icon | tab | link= }}
+| {{Days Item| Festival Earrings | real | closet_display }} 
+}}<section end="Display" />
+
+==Headphones==
+A special Head Accessory <ref>After the [[Outfit Shrine|Closet]] category expansion in Patch {{v|0.22.0}}, several Cosmetics were recategorized, including the Headphones. At that time, the headphones were considered a Face Accessory instead of a [[Hair Accessory]]. After Patch {{v|0.27.0}} some Cosmetics, including the Headphones, were again recategorized into a new Head Accessories section.</ref>, only available when playing on IOS devices, will appear when external audio outside of Sky – e.g. Apple Music, YouTube, Spotify, a phone call, etc. - plays. This item will only appear if the player is not wearing any other Head Accessory<ref>Before the [[Update:Live_0.12.2_(160278)|January 19, 2021 Hot Fix]], the Headphones would override other Head Accessories.</ref>. The Headphones are a pair of white rings with three spikes, a yellow accent ring which glows in the dark, and a white, four-pointed star placed in the center, attached to a beige headband with an orange interior.
+
+*The game's background music will be muted while there is external audio
+*There is no notification once it's on or removed
+*The Headphones will disappear once the external audio is stopped
+*Does not work on Macs with M1 chip or later
+
+<small>There is no icon associated with this Cosmetic, as it can not be selected in the Outfit Shrine.</small><br>
+<br>
+<gallery widths="125" spacing="small" captionalign="center" >
+External-headphones-iOS.png|The Headphones
+External-headphones-iOS-front.png|The Headphones front
+External-headphones-iOS-side.png|The Headphones side
+External-headphones-iOS-back.png|The Headphones back
+</gallery>
+
+==Available Head Accessories==
+This table lists all the Head Accessories that have ever been available in ''Sky''; only a small subset of them are [[#Availability Legend|available]] for purchase at any given time. The default order is icon order, as used in the in-game [[Outfit Shrine]]. The table sort order can be changed by clicking on the header of any column.
+
+{| class="article-table sortable"
+! class="unsortable" | Image
+! Icon
+! [[#Availability Legend|Avail.]]
+! Source
+! Cost
+! [[Dyes|Dye]]
+|- id="Hairtousle Teen"
+| style="text-align; center;"| {{Spirit Item| Hairtousle Teen | headpiece_real | table }}
+| {{Spirit Item| Hairtousle Teen | headpiece | table | sort=14 }}
+| {{Avail Summary | season | spirit=Hairtousle Teen | season=Belonging }}
+| {{Cost | 50 C }}
+| Yes
+|- id="Enchantment Ultimate Head Accessory"
+| style="text-align: center;"| {{Spirit Item| Enchantment Guide | headpiece_u_real | table | link=Enchantment Guide#Enchantment Ultimate Head Accessory }}
+| {{Spirit Item| Enchantment Guide | headpiece_u | table | link=Enchantment Guide#Enchantment Ultimate Head Accessory | sort=15 }}
+| {{Avail Summary | ultimate | season=Enchantment }}
+| {{Cost | N/A }}
+| Yes
+|- id="Bearhug Hermit"
+| style="text-align; center;"| {{Spirit Item| Bearhug Hermit | headpiece_real | table }}
+| {{Spirit Item| Bearhug Hermit | headpiece | table | sort=17 }}
+| {{Avail Summary | season | spirit=Bearhug Hermit | season=Dreams }}
+| {{Cost | 42 C }}
+| Yes
+|- id="Abyss Ultimate Head Accessory"
+| style="text-align; center;"| {{Spirit Item| Abyss Guide | headpiece_u_real | table | link=Abyss Guide#Abyss Ultimate Head Accessory }}
+| {{Spirit Item| Abyss Guide | headpiece_u | table | link=Abyss Guide#Abyss Ultimate Head Accessory | sort=18 }}
+| {{Avail Summary | ultimate | season=Abyss }}
+| {{Cost | N/A }}
+| No
+|- id="Tiara We Can Touch"
+| style="text-align; center;"| {{Spirit Item| AURORA Guide | headpiece_i_real | table | link=Season of AURORA#Tiara We Can Touch | label=Tiara We Can Touch }}
+| {{Spirit Item| AURORA Guide | headpiece_i | table | sort=19 | link=Season of AURORA#Tiara We Can Touch | label=Tiara We Can Touch }}
+| {{Avail Summary | l | season=AURORA }}
+| {{Cost | $4.99 }}
+| No
+|- id="Melancholy Mope"
+| style="text-align; center;"| {{Spirit Item| Melancholy Mope | headpiece_real | table }}
+| {{Spirit Item| Melancholy Mope | headpiece | table | sort=20 }}
+| {{Avail Summary | season | spirit=Melancholy Mope | season=Passage }}
+| {{Cost | ? }}
+| No
+|- id="Tumbling Troublemaker"
+| style="text-align; center;"| {{Spirit Item| Tumbling Troublemaker | headpiece_real | table }}
+| {{Spirit Item| Tumbling Troublemaker | headpiece | table | sort=21 }}
+| {{Avail Summary | season | spirit=Tumbling Troublemaker | season=Passage }}
+| {{Cost | 55 C }}
+| Yes
+|- id="Gift of the Nine-Colored Deer"
+| style="text-align: center;"| {{Spirit Item| Spirit of Mural | headpiece_g_real | table | link=Season of the Nine-Colored Deer#Gift of the Nine-Colored Deer | label=Gift of the Nine-Colored Deer Head Accessory }}
+| {{Spirit Item| Spirit of Mural | headpiece_g | table | sort=25 | link=Season of the Nine-Colored Deer#Gift of the Nine-Colored Deer | label=Gift of the Nine-Colored Deer Head Accessory }}
+| {{Avail Summary | limited | season=Nine-Colored Deer }}
+| {{Cost | 14.99 USD }}<ref name="Gift of the Nine-Colored Deer">The $14.99 cost of the Gift of the Nine-Colored Deer includes 2 cosmetics (a Mask and a Head Accessory).</ref>
+| No
+|- id="Radiance Provoking Performer"
+| style="text-align; center;"| {{Spirit Item| Radiance Provoking Performer | headpiece_real | table }}
+| {{Spirit Item| Radiance Provoking Performer | headpiece | table | sort=26 }}
+| {{Avail Summary | season | spirit=Radiance Provoking Performer | season=Radiance }}
+| {{Cost | ? }}
+| Yes
+|- id="Royal Hairtousle Teen"
+| style="text-align; center;"| {{Spirit Item| Royal Hairtousle Teen | headpiece_real | table }}
+| {{Spirit Item| Royal Hairtousle Teen | headpiece | table | sort=26 }}
+| {{Avail Summary | season | spirit=Royal Hairtousle Teen | season=Blue Bird }}
+| {{Cost | ? }}
+| Yes
+|- id="Manatee Head Accessory"
+| style="text-align; center;"| {{Spirit Item| Vault Elder's Lantern | headpiece_s_real | table | link=Season_of_The_Two_Embers_-_Part_1#Spirited_Manatee_Ensemble }}
+| {{Spirit Item| Vault Elder's Lantern | headpiece_s | table | sort=26 | link=Season_of_The_Two_Embers_-_Part_1#Spirited_Manatee_Ensemble }}
+| {{Avail Summary | limited | season=Two Embers - Part 1 }}
+| {{Cost | 9.99 USD }}<ref name="Spirited Manatee Ensemble">The $9.99 cost of the Spirited Manatee Ensemble includes 2 cosmetics (a Necklace and a Head Accessory).</ref>
+| No
+|- id="Krill Head Accessory"
+| style="text-align; center;"| {{Spirit Item| Vault Elder's Lantern | headpiece_v_real | table | link=Season_of_The_Two_Embers_-_Part_1#Vestige_of_Dark_Dragons }}
+| {{Spirit Item| Vault Elder's Lantern | headpiece_v | table | sort=26 | link=Season_of_The_Two_Embers_-_Part_1#Vestige_of_Dark_Dragons }}
+| {{Avail Summary | limited | season=Two Embers - Part 1 }}
+| {{Cost | 11.99 USD }}<ref name="Vestige of Dark Dragons">The $11.99 cost of the Vestige of Dark Dragons includes 2 cosmetics (a Necklace and a Head Accessory).</ref>
+| No
+|- id="Dragon Bangles"
+| style="text-align; center;"| {{Days Item| Dragon Bangles | real | table }}
+| {{Days Item| Dragon Bangles | icon | table | sort=26 }}
+| {{Avail Summary | days | days=Fortune }}
+| {{Cost| $1.99 }}
+| Yes
+|- id="Rainbow Braid"
+| style="text-align; center;"| {{Days Item| Rainbow Braid | real | table | link=Days_of_Color/2021#Rainbow_Braid_Accessory }}
+| {{Days Item| Rainbow Braid | icon | table | link=Days_of_Color/2021#Rainbow_Braid_Accessory }}
+| {{Avail Summary | days | days=Color }}
+| {{Cost| 20 H }}
+| No
+|- id="Rainbow Earring"
+| style="text-align; center;"| {{Days Item| Rainbow Earring | real | table | link=Days_of_Color/2022#Rainbow_Earring }}
+| {{Days Item| Rainbow Earring | icon | table | link=Days_of_Color/2022#Rainbow_Earring }}
+| {{Avail Summary | days | days=Color }}
+| {{Cost| $2.99 }}
+| No
+|- id="Rainbow Headphones"
+| style="text-align; center;"| {{Days Item| Rainbow Headphones | real | table | link=Days_of_Color/2022#Rainbow_Headphones }}
+| {{Days Item| Rainbow Headphones | icon | table | link=Days_of_Color/2022#Rainbow_Headphones }}
+| {{Avail Summary | days | days=Color }}
+| {{Cost| $9.99 }}
+| No
+|- id="Dark Rainbow Earrings"
+| style="text-align; center;"| {{Days Item| Dark Rainbow Earrings | real | table | link=Days_of_Color/2023#Dark_Rainbow_Pack }}
+| {{Days Item| Dark Rainbow Earrings | icon | table | link=Days_of_Color/2023#Dark_Rainbow_Pack }}
+| {{Avail Summary | days | days=Color }}
+| {{Cost| $9.99 }}<ref name="Dark Rainbow Pack">The Dark Rainbow Pack includes the Dark Rainbow Earrings and 40 regular Candles.</ref>
+| No
+|- id="Sunlight Helios Hoops"
+| style="text-align; center;"| {{Days Item| Sunlight Helios Hoops | real | table }}
+| {{Days Item| Sunlight Helios Hoops | icon | table }}
+| {{Avail Summary | days | days=Sunlight }}
+| {{Cost| $2.99 }}
+| No
+|- id="Moonlight Earrings"
+| style="text-align; center;"| {{Days Item| Moonlight Earrings | real | table }}
+| {{Days Item| Moonlight Earrings | icon | table }}
+| {{Avail Summary | days | days=Moonlight }}
+| {{Cost| $2.99 }}
+| No
+|- id="Mischief Withered Antlers"
+| style="text-align; center;"| {{Days Item| Mischief Withered Antlers | real | table }}
+| {{Days Item| Mischief Withered Antlers | icon | table }}
+| {{Avail Summary | days | days=Mischief }}
+| {{Cost| $9.99 }}
+| No
+|- id="Days of Feast Horns"
+| style="text-align; center;"| {{Days Item| Days of Feast Horns | real | table }}
+| {{Days Item| Days of Feast Horns | icon | table }}
+| {{Avail Summary | days | days=Feast }}
+| {{Cost| $14.99 }}
+| Yes
+|- id="Festival Earrings"
+| style="text-align: center;"| {{Days Item| Festival Earrings | real | table }}
+| {{Days Item| Festival Earrings | icon | table }}
+| {{Avail Summary | days | days=fireworks }}
+| {{Cost| ? }}
+| Yes
+|}
+{{Avail Legend
+| regular
+| permanent
+| guide
+| s+
+| u+
+| t*
+| r*
+| d*
+| l*
+| days
+| season
+| ultimate
+| limited
+}}
+
+==References==
+<references />
+
+[[fr:Accessoires de Tête]]
+[[pt-br:Acessórios de Cabeça]]
+[[ja:ヘッドアクセサリー]]
+[[de:Kopfschmuck]]
+
+[[Category:Cosmetics]]

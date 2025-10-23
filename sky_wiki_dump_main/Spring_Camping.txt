@@ -1,0 +1,69 @@
+__FORCETOC__
+{{SkyEvent
+|image= Spring-Camping-Eight-Player-Puzzle-Area.png
+|date= March 4 to March 10, 2024
+}}
+<section begin="Summary" />Fancy a relaxing little camping getaway? From '''Monday, March 4, 2024 at 00:00 PST (UTC-8)''' until '''Sunday, March 10, 2024 at 23:59 PDT (UTC-7)''', join Spirits from the [[Season of Assembly]] for a short '''Spring Camping''' trip in Daylight Prairie above the [[Daylight Prairie#Eight-Player Puzzle Area|eight-player door]] to see them and make a campsite of your own! For the duration of the event, [[Scaredy Cadet]] appears in [[Aviary Village]], offering to teleport players directly to the campsite.
+
+During their week-long camping trip, the Assembly crew will bring a fire that shares [[Social Light]] with everyone<!--include wax limit of bonfire; potentially 500?-->, as well as a special [[Shared Spaces|Shared Spaces Shrine]] that encompasses the entirety of the area and offers a range of items for everyone to use—including a couple of new [[Props]] that could build something a little sturdier than just a tent. Head over with friends or find new ones there, and you might also catch a glimpse of a [[Daylight_Prairie#Oreo|mysterious creature]] who sometimes can be spotted in the area, too.<section end="Summary" />
+
+<gallery widths="200" spacing="small" captionalign="center" position="center">
+Spring-Camping-Spirits-at-Aviary.png|Spirits at Aviary Village
+Spring-Camping-Scaredy-Cadet-at-Aviary.png|Scaredy Cadet at Aviary Village
+Spring-Camping-Scaredy-Cadet-at-Prairie.png|Scaredy Cadet in Eight-Player Puzzle Area
+Spring-Camping-Spirits-by-Campfire.png|Chuckling Scout and Daydream Forester by Campfire
+</gallery>
+
+== [[Returning Spirits]] ==
+[[File:Returning-spirits-March-2024.png|thumb|200px|right|Promotional image - March 2024 Returning Spirits]]
+Speaking of Spirits who will be paying a special visit—for two weeks from '''Monday, March 4, 2024 at 00:00 PST (UTC-8)''' until '''Sunday, March 17, 2024 at 23:59 PDT (UTC-7)''', four [[Returning Spirits#March 4, 2024|Returning Spirits]] from past Seasons: [[Indifferent Alchemist]], [[Nodding Muralist]], [[Ceasing Commodore]], and [[Frantic Stagehand]] are also heading to the area in Daylight Prairie above the [[Daylight Prairie#Eight-Player Puzzle Area|eight-player door]] where the Spring Camping will be. For the duration of their visit, Frantic Stagehand appears in [[Aviary Village]], offering to teleport players directly to the Returning Spirits at the Eight-Player Puzzle Area.
+
+Similar to [[Traveling Spirits]], their Friendship Trees include items they originally brought when they were introduced as Seasonal Spirits, so you can choose to unlock the items you're interested in using [[Heart]]s, [[Currency#Candles|Candles]], or [[Ascended Candle]]s. So while you're in Daylight Prairie, head over to say hello to the group, snap a photo with everyone, or perhaps pick up an item you'd been hoping to find!
+
+==New Shared Space Props==
+===<span id="Spring Camping Windowed Tent Wall"> </span>Windowed Tent Wall===
+The Windowed Tent Wall is a large beige canvas with yellow accents and featuring a rolled-up window, stretched between two poles. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. This Prop was introduced in 2024 and is '''not collectible'''; it is only available while using the Shared Space Shrine in the [[Daylight Prairie#Eight-Player Puzzle Area|Eight-Player Puzzle Area]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Windowed Tent Wall}} {{!}} Windowed Tent Wall icon
+{{Icon Name|Windowed Tent Wall|real}} {{!}} Windowed Tent Wall
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Spring Camping Tent Cover"> </span>Tent Cover===
+The Tent Cover is a large, sloped beige canvas with yellow accents stretched on top of four poles. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. This Prop was introduced in 2024 and is '''not collectible'''; it is only available while using the Shared Space Shrine in the [[Daylight Prairie#Eight-Player Puzzle Area|Eight-Player Puzzle Area]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Tent Cover}} {{!}} Tent Cover icon
+{{Icon Name|Tent Cover|real}} {{!}} Tent Cover
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Spring Camping Tent Wall Entrance"> </span>Tent Wall Entrance===
+The Tent Wall Entrance is a pair of beige canvas curtains with yellow accents stretched between two poles and tied open with a brown fabric strip. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. This Prop was introduced in 2024 and is '''not collectible'''; it is only available while using the Shared Space Shrine in the [[Daylight Prairie#Eight-Player Puzzle Area|Eight-Player Puzzle Area]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Tent Wall Entrance}} {{!}} Tent Wall Entrance icon
+{{Icon Name|Tent Wall Entrance|real}} {{!}} Tent Wall Entrance
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Spring Camping Tent Wall"> </span>Tent Wall===
+The Tent Wall is a large beige canvas with yellow accents stretched between two poles. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. This Prop was introduced in 2024 and is '''not collectible'''; it is only available while using the Shared Space Shrine in the [[Daylight Prairie#Eight-Player Puzzle Area|Eight-Player Puzzle Area]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Tent Wall}} {{!}} Tent Wall icon
+{{Icon Name|Tent Wall|real}} {{!}} Tent Wall
+|widths=125|captionalign=center|spacing=small
+}}
+
+==References==
+'''More information about Spring Camping can be found on [https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/faq/1278-patch-notes---february-22-2024---0-24-5-246913-android-huawei-ios-playstation-switch/ ThatSkyGame's Patch Notes].'''
+<references />
+
+[[fr:Camping de Printemps]]
+[[pt-br:Acampamento de Primavera]]
+[[ja:春のキャンプ]]
+
+[[Category:Events]]
+[[Category:Non-Recurring Events]]

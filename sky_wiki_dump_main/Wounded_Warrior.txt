@@ -1,0 +1,130 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Stance
+|image     = Remembrance-Spirit-Wounded-Warrior.png
+|cosmetics = {{Spirit Item||Outfit|infobox}}{{Spirit Item||Mask|infobox}}{{Spirit Item||Cape|infobox}}
+|props	   = 
+|music     = 
+|season    = Remembrance
+|realm     = Vault of Knowledge
+|location  = Repository of Refuge
+|ts        = August 18, 2025 (SV#10)
+}}
+<section begin="Summary" />The '''Wounded Warrior''' is a [[Seasonal Spirit]] from the [[Season of Remembrance]] who offers the {{Emote|Wounded Warrior|inline_text}}. The Wounded Warrior is found in an opening in the wall behind the [[Remembrance Guide]]. The collectibles [[#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Wounded Warrior|Outfit|inline_text}}, a {{Spirit Item|Wounded Warrior|Mask|inline_text}}, and a {{Spirit Item|Wounded Warrior|Cape|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:SoRemembrance-Wounded-Warrior-TGC-Promo-image.jpg|thumb|320px|none|TGC's Promo image]]
+==Memory==
+<div>{{#ev:youtube|IfokV7jUPZ4||inline|Video Guide}}
+
+The Wounded Warrior can be found in an opening in the wall behind the Remembrance Guide. This Spirit has a [[Standard Memory|standard memory]] with 7 memory fragments and a 15-minute overall [[Timed Memory|time limit]].
+
+As their memory unfolds, the Wounded Warrior can be seen at the war with another soldier. Their first battle is triumphant and they celebrate by waving their spears in the air and doing high fives. Along the way, they stop at a merchant. While the Wounded Warrior is selecting a potted plant to take home, they are attacked by two other enemies. Spears send pots flying everywhere, also killing the merchant instantly. The last scene shows the Wounded Warrior looking at the innocent deceased merchant, while the other compatriot encourages them to leave the scene.
+
+At the end of the memory, we can see a scene closer to the Wounded Warrior, kneeling and wounded, watching the disaster they have just witnessed, the death of an innocent, caught in the wrong place, at the wrong moment.
+</div>
+
+== <span id="Expression">Stance</span>==
+This Spirit offers the {{Emote|Wounded Warrior|inline_text}}. Stance affects your avatar's position when standing, kneeling, sitting, or lying down.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Emote}}
+Wounded-Warrior-injured-stance-emote.gif {{!}} {{Icon Name||emote_name}} 
+Wounded-Warrior-Stance-up.png {{!}} {{Icon Name||emote_name}} (Standing)
+Wounded-Warrior-Stance-kneeling.png {{!}} {{Icon Name||emote_name}} (Kneeling)
+Wounded-Warrior-Stance-sitting.png {{!}} {{Icon Name||emote_name}} (Sitting)
+Wounded-Warrior-Stance-Laying-down.png {{!}} {{Icon Name||emote_name}} (Lying down)
+|heights=170px|captionalign=center|spacing=small
+}}
+
+*Standing up will make your avatar tilt to the left as if injured and hold their left arm while looking down slightly.
+*Kneeling will make your avatar fall to their knees with their legs shifted outwards and their body tilted to the left while holding their left arm and looking down slightly.
+*Sitting will make your avatar sit on the ground with bent up legs while holding their left knee, looking up slightly with their eyes half closed.
+*Lying down will make your avatar lie down on their left side with their right leg outstretched and their left pulled up and held with their arms, while their head faces the ground and their eyes are closed.
+
+==Cosmetics==
+===<span id="Outfit">Outfit</span> ===
+The [[Outfit]] offered by this Spirit consists of a muddy-green long-sleeved top and balloon pants. The waist and left leg are wrapped in dressings, the other foot is dressed in a brown, high boot, and the top is ripped around the bottom hem, costing {{Cost|60 C}} from the Traveling Spirit. It was offered to all players during the Season from the Friendship Tree's third node ({{Cost|44 SC|season=Remembrance}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Outfit|icon}} {{!}} The Outfit icon
+{{Icon Name||Outfit|real}} {{!}} The Outfit front
+{{Icon Name||Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Mask">Mask</span> ===
+The [[Mask]] offered by this Spirit is a stone-gray mask with a crack, filled with blue crystal, coming from the left eye and partially going over the forehead, costing {{Cost|45 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|14 SC|season=Remembrance}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Cape">Cape</span> ===
+The [[Cape]] offered by this Spirit is a short dark-brown, torn cape with black, broken armored shoulder padding, costing {{Cost|80 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|80 SC|season=Remembrance}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||Cape|interior}} {{!}} The Cape interior
+{{Icon Name||Cape|back}} {{!}} The Cape back
+{{Icon Name||Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Traveling Spirit ==
+{{Friendship Tree Info
+| traveling
+| rs_dates= *August 18, 2025 (SV#10)
+}}
+<section begin='TS Friendship Tree' />{{Friendship Tree
+|spirit = Wounded Warrior
+|image  = Remembrance-Spirit-Wounded-Warrior.png
+|season = Remembrance
+
+|nodeC5 = Cape 80 C
+|nodeL4 = Outfit 60 C
+|nodeC4 = spellx 5 C
+|nodeC3 = wing
+|nodeL2 = Mask 45 C
+|nodeC2 = spellx 5 C
+|nodeR2 = Heart 3 C
+|nodeC1 = emote
+}}<section end='TS Friendship Tree' />
+<!---
+=== Hints ===
+The hints given before the {{PAGENAME}}'s appearance were: -->
+
+==Season Friendship Tree==
+{{Friendship Tree Info | season| season=Remembrance}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Wounded Warrior
+|image  = Remembrance-Spirit-Wounded-Warrior.png
+|type   = season
+|season = Remembrance
+
+|nodeC5 = season_heart 3 SC SP
+|nodeL4 = cape SP
+|nodeC4 = spellx 36 SC
+|nodeL3 = spellx SP
+|nodeC3 = outfit 30 SC
+|nodeL2 = mask SP
+|nodeC2 = spellx 14 SC
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Personality==
+On January 10th, 2023, TGC officially announced and introduced the Wounded Warrior with the following personality traits:
+*Refuses to give advice anymore, so that people won't rely on it
+*Carefully tends and protects the plant they received as a gift
+*Has a knack for picking up regional accents
+* Daydreams about having their own cabin in the forest
+
+==References==
+<references />
+
+[[fr:Guerrier blessé]]
+[[pt-br:Guerreiro Ferido]]
+[[ru:Раненый воин]]
+[[ja:傷ついた戦士]]

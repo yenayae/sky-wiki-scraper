@@ -1,0 +1,1932 @@
+{{Spoilers}}
+
+This page is a master list of all 602 Opening Quotes for all the languages currently supported by Sky. They are listed here exactly as they appear in the game, including punctuation and capitalization, as well as any typos and errors that are present in the game<!-- If you see a typo or error in any translations of the Opening Quotes, please DO NOT correct it. Check if it has been fixed in the ACTUAL GAME before editing this page. This page is meant to display all Opening Quotes exactly as shown in the game — without modifications or corrections. -->. New areas may be added and existing Opening Quotes may change at any time. For the list of only English Opening Quotes, see the main page [[Opening Quotes]].
+
+For languages with non-Latin based scripts (Russian, Chinese, Japanese, Korean, Thai), the romanization of the names and quotes are included in square brackets (“<code>[abc]</code>”). 
+
+Notes on romanizations:
+
+* For Chinese, the romanisations for Chinese (Simplified) are based on the Mandarin dialect and the Hanyu Pinyin romanization scheme, whereas romanizations for Chinese (Traditional) are based on the Cantonese dialect and the Jyutping (LSHK) scheme.
+
+* For Japanese, all-Kana script (Hiragana and Katakana) is also included in parentheses  (“<code>(かな)</code>”).
+
+* For Korean and Vietnamese, the traditional ideographic scripts of these languages (Hanja/漢字 for Korean, Chữ Nôm/𡨸喃 for Vietnamese) are included in parentheses  (“<code>(字)</code>”).
+
+* The romanizations and Hanja/Chữ Nôm on this page are NOT part of the official content of the game. It is provided here for your reference only as aids for pronunciation, understanding, and language learning.
+
+<!--The codenames listed here are found from the localization files (<code>Localizable.strings</code>) in the macOS version of Sky, as unique identifiers of each OQ across translations. These files are accessible through Finder on macOS by pressing ⌘⇧G then enter the path <code>/Applications/Sky.app/Wrapper/Sky.app/*.lproj/Localizable.strings</code> , where the <code>*</code> represents the 2-letter language code (Exception: “<code>Base.lproj/</code>” for English). You can use it as the key to find a certain quote in other languages. Quotes and other text with the same codename will be displayed in the same location in different language versions of the game.-->
+
+== Realms ==
+Below is a list of all Opening Quotes for each of the 7 main [[Realms]] (plus Aviary Village and the second part of Eye of Eden), in all 14 localized version currently included in the iOS version of Sky. These localizations do sometimes change in updates. These are shown as of the 0.29.2 version. 
+
+The Isle of Dawn had a recent update to its Opening Quote with the addition of a call to action to "free lost spirits." The previous version was "Follow the bell and find your way to the temple."<br>
+<br>
+{| class="fandom-table"
+<!--! colspan="10" |Codenames
+|-
+!<code>name_dawn</code>
+!<code>name_day</code>
+!<code>name_rain</code>
+!<code>name_sunset</code>
+!<code>name_dusk</code>
+!<code>name_night</code>
+!<code>name_storm</code>
+!<code>storm_endtitle_01</code>
+! colspan="2" |<code>name_mainstreet</code>
+|-
+|<code>intro_dawn_01</code>
+|<code>intro_day_01</code>
+|<code>intro_rain_01</code>
+|<code>intro_sunset_01</code>
+|<code>intro_dusk_01</code>
+|<code>intro_night_01</code>
+|<code>intro_storm_01</code>
+|<code>storm_endtitle_02</code>
+|<code>intro_mainstreet_01</code>
+|<code>intro_mainstreet_02</code>
+|--->
+! colspan="10" | '''English'''
+|-
+! Isle of Dawn
+! Daylight Prairie
+! Hidden Forest
+! Valley of Triumph
+! Golden Wasteland
+! Vault of Knowledge
+! Eye of Eden
+! Eye of Eden (Second Part)
+! colspan="2" |Aviary Village
+|-
+| Free lost spirits and follow the bell to the temple
+| Ring the bell towers and reveal your path
+| Protect your light and find the source of Ancient Power
+| Race down the ridge, and the city gates will open to honor you
+| Beyond the barren wastes, the Vault of Knowledge awaits
+| Climb the Vault, its wisdom awaits
+| Push into the darkness
+| Return the light of the fallen
+|A hidden refuge, lost to time.
+|A hidden refuge.
+|-
+! colspan="10" | French<br>Français
+|-
+! Île de l'aube
+! Prairie illuminée
+! Forêt cachée
+! Vallée du triomphe
+! Désert d'or
+! Chambre forte de connaissance
+! Œil d'Éden
+! Œil d'Éden
+! colspan="2" |Village volière
+|-
+| Libérez les esprits perdus et suivez la cloche jusqu'au temple
+| Faites sonner les cloches de la tour et révélez votre chemin
+| Protégez votre lumière et trouvez la source de puissance ancienne
+| Foncez sur le faîte, et les portes de la ville s'ouvriront pour vous honorer
+| Au-delà de la friche aride, la Chambre forte de connaissance vous attend
+| Rejoignez la Chambre forte, son savoir vous attend
+| Avancez dans l'obscurité
+| Rapporter la lumière des morts
+|Un refuge caché et oublié avec le temps.
+|Un refuge caché.
+|-
+! colspan="10" | Spanish<br>Español
+|-
+! Isla del Amanecer
+! Planicie Luz de Dia
+! Bosque Escondido
+! Valle del Triunfo
+! Páramo Dorado
+! Bóveda de Conocimiento
+! Ojo de edén
+! Ojo de Edén
+! colspan="2" |Aldea aviaria
+|-
+| Libera a los espíritus perdidos y sigue la campana hasta el templo.
+| Toca los campanarios y descubre tu camino
+| Protege tu luz y encuentra la fuente de poder antiguo
+| Corre cuesta abajo y las puertas de la ciudad se abrirán para honrarte.
+| Más allá de los yermos, la Bóveda de Conocimiento te espera
+| Escala la Bóveda, su sabiduría está esperando
+| Empuja hacia la oscuridad
+| Regresa la luz de los caídos
+|Un refugio oculto, perdido en el tiempo.
+|Un refugio oculto.
+|-
+! colspan="10" | Portuguese<br>Português
+|-
+! Ilha do Alvorecer
+! Campina da Aurora
+! Floresta Oculta
+! Vale do Triunfo
+! Sertão Dourado
+! Relicário do Conhecimento
+! Olho de Éden
+! Olho de Éden
+! colspan="2" |Aldeia Aviária
+|-
+| Liberte os espíritos perdidos e siga o sino até a igreja
+| Toque o sino e revele seu caminho
+| Proteja sua luz e encontre a fonte do poder ancestral
+| Corra pela cumeeira para fazer os portões da cidade abrirem em sua honra
+| Para além do sertão desértico, há o Relicário do Conhecimento
+| Escale o Relicário, a sabedoria aguarda você
+| Invada a escuridão
+| Devolva a luz dos caídos
+|Um refúgio oculto perdido no tempo.
+|Um refúgio oculto.
+|-
+! colspan="10" | Italian<br>Italiano
+|-
+! Isola dell'Alba
+! Prateria Diurna
+! Foresta Nascosta
+! Valle del Trionfo
+! Deserto Dorato
+! Cupola della Conoscenza
+! Occhio di Eden
+! Occhio di Eden
+! colspan="2" |Villaggio degli Uccelli
+|-
+| Libera gli spiriti perduti e segui la campana fino al tempio
+| Suona i campanili e svela il tuo percorso
+| Proteggi la tua luce e trova l'origine del potere antico
+| Corri giù per il dorsale e le porte della città si apriranno in tuo onore
+| Al di là del deserto arido, ti attende la Cupola della Conoscenza
+| Sali sulla Cupola, ti attende la conoscenza
+| Spingiti nelle tenebre
+| Riporta la luce dei caduti
+|Un rifugio nascosto, perduto nel tempo.
+|Un rifugio nascosto.
+|-
+! colspan="10" | German<br>Deutsch
+|-
+! Insel der Dämmerung
+! Tageslichtprärie
+! Verborgener Wald
+! Tal des Triumphs
+! Goldene Ödnis
+! Tresor des Wissens
+! Auge von Eden
+! Auge von Eden
+! colspan="2" |Volieren-Dorf
+|-
+| Befreie verlorene Geister und folge der Glocke zum Tempel
+| Lasse die Glockentürme erklingen und enthülle deinen Weg
+| Beschütze dein Licht und finde die Quelle der uralten Macht
+| Renne die Klippe hinunter und die Stadttore werden sich zu deinen Ehren öffnen
+| Jenseits der kargen Ödnis wartet der Tresor des Wissens auf dich
+| Erklimme den Tresor, sein Wissen wartet auf dich
+| Vorstoß in die Dunkelheit
+| Bringe das Licht der Gefallenen zurück
+|Ein versteckter Zufluchtsort, von der Zeit vergessen.
+|Ein versteckter Zufluchtsort.
+|-
+! colspan="10" | Russian<br>Русский
+|-
+! Остров рассвета<br>''[Ostrov rassveta]''
+! Полуденная прерия<br>''[Poludennaya preriya]''
+! Тайный лес<br>''[Taynyy les]''
+! Долина триумфа<br>''[Dolina triumfa]''
+! Золотая пустошь<br>''[Zolotaya pustosh']'' 
+! Хранилище знаний<br>''[Khranilishche znaniy]''
+! Сердце Эдема<br>''[Serdtse Edema]''
+! Сердце Эдема<br>''[Serdtse Edema]''
+! colspan="2" |Птичья деревня
+|-
+| Освободите потерявшихся духов и идите к храму на звук колокола<br>''[Osvobodite poteryavshikhsya dukhov i idite k khramu na zvuk kolokola]''
+| Позвоните в колокола и найдите путь<br>''[Pozvonite v kolokola i naydite put']''
+| Защитите свой свет и найдите источник древней силы<br>''[Zashchitite svoy svet i naydite istochnik drevney sily]''
+| Спешите вниз по хребту, и врата города откроются в вашу честь<br>''[Speshite vniz po khrebtu, i vrata goroda otkroyutsya v vashu chest']''
+| За бесплодными пустошами ждет Хранилище знаний<br>''[Za besplodnymi pustoshami zhdet Khranilishche znaniy]''
+| Заберитесь в Хранилище, его мудрость ждет вас<br>''[Zaberites' v Khranilishche, yego mudrost' zhdet vas]''
+| Идите дальше во тьму<br>''[Idite dal'she vo t'mu]''
+| Верните свет павших<br>''[Vernite svet pavshikh]''
+|Потайное убежище, скрытое во времени.<br>''[Potaynoye ubezhishche, skrytoye vo vremeni.]''
+|Потайное убежище.<br>''[Potaynoye ubezhishche.]''
+|-
+! colspan="10" | Chinese (Simplified)<br>简体中文
+|-
+! 晨岛<br>''[Chén Dǎo]''
+! 云野<br>''[Yún Yě]''
+! 雨林<br>''[Yǔ Lín]''
+! 霞谷<br>''[Xiá Gǔ]''
+! 暮土<br>''[Mù Tǔ]''
+! 禁阁<br>''[Jìn Gé]''
+! 暴风眼<br>''[Bào Fēng Yǎn]''
+! 暴风眼<br>''[Bào Fēng Yǎn]''
+! Colspan="2" |云巢<br>''[Yún Cháo]''
+|-
+| 释放迷失的先灵，跟随钟声前往神庙。<br>''[Shì fàng mí shī ·de xiān líng, gēn suí zhōng shēng qián wǎng shén miào]''
+| 敲响钟塔，呼唤光鳐<br>''[Qiāo xiǎng zhōng tǎ, hū huàn Guāng Yáo]''
+| 护佑心火，探索秘林<br>''[Hù yòu Xīn Huǒ, tàn suǒ mì lín]''
+| 竞逐落城，再遇荣耀<br>''[jìng zhú luò chéng, zài yù róng yào]''
+| 大漠之尽，光之所隐<br>''[Dà mò zhī jìn, guāng zhī suǒ yǐn]'' 
+| 攀爬禁阁，揭开奥秘<br>''[Pān pá Jìn Gé, jiē kāi ào mì]''
+| 推进黑暗，解放灵魂<br>''[Tuī jìn hēi àn, jiě fàng líng hún]'' 
+| 重燃熄灭的心光<br>''[Chóng rán xī miè ·de xīn guāng]'' 
+|一个被时间所遗忘的世外桃源。<br>''[Yí gè bèi shí jiān suǒ yí wàng ·de shì wài táo yuán]''
+|一处世外桃源。<br>''[Yí chù shì wài táo yuán]''
+|-
+! colspan="10" | Chinese (Simplified, NetEase China Version)<br>简体中文（网易国服版）
+|-
+! 晨岛<br>''[Chén Dǎo]''
+! 云野<br>''[Yún Yě]''
+! 雨林<br>''[Yǔ Lín]''
+! 霞谷<br>''[Xiá Gǔ]''
+! 暮土<br>''[Mù Tǔ]''
+! 禁阁<br>''[Jìn Gé]''
+! 伊甸<br>''[Yī Diàn]''
+! 伊甸之眼<br>''[Yī Diàn Zhī Yǎn]''
+! colspan="2" |云巢<br>''[Yún Cháo]''
+|-
+| 追随钟声，前往神殿<br>''[Zhuī suí zhōng shēng, qián wǎng shén diàn]''
+| 敲响钟塔，呼唤遥鲲<br>''[Qiāo xiǎng zhōng tǎ, hū huàn Yáo Kūn]''
+| 护佑心火，探索秘林<br>''[Hù yòu Xīn Huǒ, tàn suǒ mì lín]''
+| 竞逐落城，再遇荣耀<br>''[jìng zhú luò chéng, zài yù róng yào]''
+| 大漠之尽，光之所隐<br>''[Dà mò zhī jìn, guāng zhī suǒ yǐn]'' 
+| 攀爬禁塔，揭开奥秘<br>''[Pān pá Jìn Tǎ, jiē kāi ào mì]''
+| 踏入黑暗，解放灵魂<br>''[Tà rù hēi àn, jiě fàng líng hún]'' 
+| 失落之光，回归天际<br>''[Shī luò zhī guāng, huí guī tiān jì]''
+| 世外桃源。<br>''[Shì wài táo yuán]''
+| 世外桃源。<br>''[Shì wài táo yuán]''
+|-
+! colspan="10" | Chinese (Traditional)<br>正體中文
+|-
+! 晨島<br>''[san4 dou2]''
+! 雲野<br>''[wan4 je5]''
+! 雨林<br>''[jyu5 lam4]''
+! 霞谷<br>''[haa4 guk1]''
+! 暮土<br>''[mou6 tou2]''
+! 禁閣<br>''[gam3 gok3]''
+! 暴風眼<br>''[bou6 fung1 ngaan5]''
+! 暴風眼<br>''[bou6 fung1 ngaan5]''
+! colspan="2" |雲巢<br>''[wan4 caau4]''
+|-
+| 釋放迷失的先靈，並追隨鐘聲，前往神殿。<br>''[sik1 fong3 mai4 sat1 dik1 sin1 ling4, bing6 zeoi1 ceoi4 zung1 sing1]''
+| 敲響鐘塔，呼喚光鰩<br>''[haau1 hoeng2 zung1 taap3, fu1 wun6 gwong1 jiu4]''
+| 護佑心火，探索秘林<br>''[wu6 jau6 sam1 fo2, taam3 sok3 bei3 lam4]''
+| 競逐落城，再遇榮耀<br>''[ging6 zuk6 lok6 sing4, zoi3 jyu6 wing4 jiu6]''
+| 大漠之盡，光之所隱<br>''[daai6 mok6 zi1 zeon6, gwong1 zi1 so2 jan2]''
+| 攀爬禁閣，揭開奧秘<br>''[paan1 paa4 gam3 gok3, kit3 hoi1 ou3 bei3]''
+| 推進黑暗，解放靈魂<br>''[zeon3 jap6 hak1 am3, gaai2 fong3 ling4 wan4]''
+| 重燃熄滅的心光<br>''[cung4 jin4 sik1 mit6 dik1 sam1 gwong1]''
+|一個被時間所遺忘的世外桃源。<br>''[jat1 go3 bei3 si4 gaan3 so2 wai4 mong4 dik1 sai3 ngoi6 tou4 jyun4]''
+|一處世外桃源。<br>''[jat1 cyu3 sai3 ngoi6 tou4 jyun4]''
+|-
+! colspan="10" | Japanese<br>日本語
+|-
+! 孤島<br>[kotō]''
+! 草原<br>[kusahara]''
+! 雨林<br>[urin]''
+! 峡谷<br>[kyōkoku]''
+! 捨てられた地<br>[suteraretati]''
+! 書庫<br>''[syoko]''
+! 暴風域<br>''[bōfūiki]''
+! 原罪<br>''[genzai]''
+! colspan="2" |花鳥郷<br>''[katyō gō]''
+|-
+| − 迷っている精霊たちを解放し、鐘の音を辿り神殿に向かいましょう − <br>''(まよっているせいれいたちをかいほうし、かねのおねをたどりしんでんにむかいましょう)<br>[Mayotte iru seirei-tati o kaihō si, ka'ne no ne o tadori sinden ni mukaimasyō]''
+| − 鐘が鳴る時、案内人たちは行先を指し示す −<br>''(かねがなるとき、あんないびとたちはゆくさきをさししめす)<br>[Kane ga naru-toki, an'naibito-tati wa yukusaki o sasisimesu]''
+| − 光を護り、太古の技巧を追い求める − <br>''(ひかりをまもり、たいこのぎこうをおいもおめる)<br>[Hikari o mamori, taiko no gikō o oimotomeru]''
+| − 急峻を恐れず競り勝て、待ち受けるは凱旋の門 − <br>''(きゅうしゅんをおそれずせりかて、まちうけるはがいせんのもん)<br>[Kyūsyun o osorezu serikate, matiukeru wa gaisen no mon]''
+| − 遺構の先に佇む、光の伽藍 − <br>''(いこうのさきにたたずむ、ひかりのがらん)<br>[Ikō no saki ni tatazumu, hikari no garan]''
+| − 頂きにて訪れを待つ、未だ見ぬ叡智 −<br>''(いただきにておとずれをまつ、いまだみぬえいち)<br>[Itadaki nite otozure o matu, imada mi'nu eiti]''
+| − 闇を切り開き、前へ − <br>''(やみをきりひらき、まえへ)<br>[yami o kirihiraki, mae e]''
+| − 失われし者たちに光を − <br>''(うしなわれしものたちにひかりを)<br>[Usi'nawaresi mo'notati ni hikari o]''
+|時の流れに消えた隠れ郷 <br>''(ときのながれにきえたかくれごう)<br>[Toki no nagare ni kieta kakure gō]''
+|隠れ郷 <br>''(かくれごう)<br>[Kakure gō]''
+|-
+! colspan="10" | Korean<br>한국어<br>(韓國語)
+|-
+! 여명의 섬 ''<br>(黎明의 섬) <br>[Yeomyeong-ui seom]'' 
+! 햇빛 초원 ''<br>(햇빛 草原)<br>[Haesbich chowon]''
+! 비밀의 숲 ''<br>(秘密의 숲) <br>[bimil-ui sup]''
+! 승리의 계곡 ''<br>(勝利의 溪谷) <br>[seungliui gyegog]''
+! 황금 황무지 ''<br>(黃金 荒蕪地) <br>[hwang-geum hwangmuji]''
+! 지식의 도서관 ''<br>(知識의 圖書館) <br>[jisig-ui doseogwan]''
+! 에덴의 눈 ''<br>(Eden의 눈) <br>[eden-ui nun]''
+! 에덴의 눈 ''<br>(Eden의 눈) <br>[eden-ui nun]''
+! colspan="2" |새들의 정원 마을 ''<br>(새들의 庭園 마을) <br>[saedeul-ui jeong-won ma-eul]''
+|-
+| 길 잃은 영혼을 해방시키고 종소리를 따라 사원을 찾아가세요 <br>''(길 잃은 靈魂을 解放시키고 鐘소리를 따라 寺院을 찾아가세요) <br>[gil ilh-eun yeonghon-eul haebangsikigo jongsolileul ttala sawon-eul chaj-agaseyo]''
+| 종탑을 울려 길을 드러내세요 <br>''(鐘塔을 울려 길을 드러내세요) <br>[jongtab-eul ullyeo gil-eul deuleonaeseyo]''
+| 빛을 지키며 고대 에너지원을 찾아보세요 <br>''(빛을 지키며 古代 Energy源을 찾아보세요) <br>[bich-eul jikimyeo godae eneojiwon-eul chaj-aboseyo]''
+| 계곡을 따라 질주하면 성문이 활짝 열립니다 <br>''(溪谷을 따라 疾走하면 城門이 활짝 列立니다) <br>[gyegog-eul ttala jiljuhamyeon seongmun-i hwaljjag yeollibnida]''
+| 메마른 황무지 너머에서 지식의 도서관이 기다립니다 <br>''(메마른 荒蕪地 너머에서 知識의 圖書館이 기다립니다) <br>[memaleun hwangmuji neomeoeseo jisig-ui doseogwan-i gidalibnida]''
+| 도서관을 올라 지혜를 얻으세요 <br>''(圖書館을 올라 智慧를 얻으세요) <br>[doseogwan-eul olla jihyeleul eod-euseyo]''
+| 어둠 속으로 뛰어드세요 <br>''[eodum sog-eulo ttwieodeuseyo]''
+| 길 잃은 빛을 돌려보내주세요 <br>''[gil ilh-eun bich-eul dollyeobonaejuseyo]''
+|시간의 흐름에 묻힌 비밀 피난처 <br>''(時間의 흐름에 묻힌 秘密 避難處)'' <br>''[sigan-ui heuleum-e mudhin bimil pinancheo]''
+|비밀 피난처 <br>''(秘密 避難處) <br>[bimil pinancheo]''
+|-
+! colspan="10" | Vietnamese<br>Tiếng Việt<br>(㗂越)
+|-
+! Đảo Bình Minh<br>''（島平明）''
+! Thảo Nguyên Ánh Sáng<br>''（草原映𤏬）''
+! Rừng Mưa<br>''（𡹃𩄎）''
+! Thung Lũng Vinh Quang<br>''（舂壟榮光）''
+! Hoang Mạc Hoàng Kim<br>''（荒漠黃金）''
+! Kho Tri Thức<br>''（庫知識）''
+! Mắt Địa Đàng<br>''（眜天堂）''
+! Mắt Địa Đàng<br>''（眜天堂）''
+! colspan="2" |Làng Chuồng Chim<br>''（廊㮔𪀄）''
+|-
+| Giải thoát những tinh linh lạc lối và theo tiếng chuông đến chùa<br>''（解脫仍精靈落𡓃吧蹺㗂鍾𦤾𫷨）''
+| Rung chuông và khám phá con đường của bạn<br>''（搈鐘吧𠥈破𡥵塘𧵑伴）''
+| Bảo vệ ánh sáng của bạn và tìm ra nguồn sức mạnh cổ đại<br>''（保衛映𤏬𧵑伴吧尋𦋦源飭猛古代）''
+| Chạy xuống sườn núi, cổng thành sẽ chào đón bạn
+（𧼋𬺗𦘹𡶀，𨶛城仕嘲迍伴）
+| Vượt qua những vùng đất cằn cỗi, Kho Tri Thức đang chờ đợi<br>''（越過仍漨𡐙𣝀𦓊, 庫知識當䟻待）''
+| Leo lên Kho Tri Thức, mở ra bí mật<br>''（𣱾𨖲庫知識，𢲫𫥨秘密）''
+| Lào vào bóng tối<br>''（嘮𠓨𣈖𣋁）''
+| Thắp lên ánh sáng đã bị dập tắt<br>''（𤏧𨖲映𤏬㐌被𡏽𤎕）''
+|Một nơi ẩn náu bị lãng quên.<br>''（𠬠尼隱蓐被𢥉悁）''
+|Một nơi ẩn náu.<br>''（𠬠尼隱蓐）''
+|-
+! colspan="10" | Indonesian<br>Bahasa Indonesia
+|-
+! Pulau Fajar
+! Padang Rumput Siang
+! Hutan Tersembunyi
+! Lembah Kejayaan
+! Gurun Emas
+! Kubah Pengetahuan
+! Pusat Eden
+! Pusat Eden
+! colspan="2" |Desa Aviary
+|-
+| Bebaskan arwah yang tersesat dan ikuti lonceng ke kuil
+| Bunyikan menara lonceng dan buka jalanmu
+| Lindungi cahayamu dan temukan sumber Kekuatan Kuno
+| Berlomba menuruni punggung bukit, dan gerbang kota akan terbuka untuk menghormatimu
+| Di luar gurun tandus, Kubah Pengetahuan menunggu
+| Panjat Kubah, kebijaksanaannya menanti
+| Lewati terjangan badai
+| Kembalikan cahaya yang telah gugur
+|Pengungsian tersembunyi, hilang ditelan waktu.
+|Pengungsian tersembunyi.
+|-
+! colspan="10" |Thai<br>ภาษาไทย
+|-
+!เกาะรุ่งอรุณ <br>''[Keāa rùngxruṇ]''
+!ทุ่งหญ้าแสงตะวัน <br>''[Thùng h̄ỵ̂ā s̄æng tawạn]''
+!ป่าลับ <br>''[P̀ā lạb]''
+!หุบเขาแห่งชัยชนะ <br>''[H̄ubk̄heā h̄æ̀ng chạychna]''
+!แดนร้างทองอร่าม <br>''[Dæn r̂āng thxng xr̀ām]''
+!กรุสมบัติแห่งปัญญา <br>''[Kru s̄mbạti h̄æ̀ng pạỵỵā] ''
+!ดวงตาแห่งเอเดน <br>''[Dwngtā h̄æ̀ng xeden]''
+!ดวงตาแห่งเอเดน <br>''[Dwngtā h̄æ̀ng xeden]''
+! colspan="2" |หมู่บ้านเอเวียรี <br>''[H̄mū̀b̂ān xe weīyrī]''
+|-
+|ปลดปล่อยเหล่าสปิริตที่หลงทาง และตามเสียงระฆังไปยังวิหาร <br>''[Pld pl̀xy h̄el̀ā s̄pirit thī̀ h̄lng thāng læa tām s̄eīyng raḳhạng pị yạng wih̄ār]''
+|ตีหอระฆัง และเปิดเผยเส้นทางของคุณ <br>''[tī h̄x raḳhạng læa peid p̄hey s̄ên thāng k̄hxng khuṇ]''
+|ปกป้องแสงของคุณ และค้นหาแหล่งพลังโบราณ <br>''[pkp̂xng s̄æng k̄hxng khuṇ læa kĥnh̄ā h̄æl̀ng phlạng borāṇ]''
+|แข่งลงสันเขา แล้วประตูเมืองจะเปิดออกเพื่อเป็นเกียรติแก่คุณ <br>''[k̄hæ̀ng lng s̄ạnk̄heā læ̂w pratū meụ̄xng ca peid xxk pheụ̄̀x pĕn keīyrti kæ̀ khuṇ]''
+|กรุสมบัติแห่งปัญญารออยู่เหนือดินแดนรกร้างอันวางเปล่า <br>''[kru s̄mbạti h̄æ̀ng pạỵỵā rx xyū̀ h̄enụ̄x din dæn rkr̂āng xạn wāng pel̀ā]''
+|ปีนขึ้นไปบนกรุสมบัติ สติปัญญาของมันกำลังรอคอยอยู่ <br>''[pīn k̄hụ̂n pị bn kru s̄mbạti s̄ti pạỵỵā k̄hxng mạn kảlạng rx khxy xyū̀]''
+|ผลักเข้าไปสู่ความมืดมิด <br>''[p̄hlạk k̄hêāpị s̄ū̀ khwām mụ̄d mid]''
+|นำแสงสว่างกลับคืนสู่ผู้ที่ล้มลง <br>''[nả s̄æng s̄ẁāng klạb khụ̄n s̄ū̀ p̄hū̂ thī̀ l̂m lng]''
+|ที่หลบภัยที่ซ่อนอยู่ ซึ่งสูญหายไปตามกาลเวลา <br>''[thī̀ h̄lb p̣hạy thī̀ s̀xn xyū̀ sụ̀ng s̄ūỵh̄āy pị tām kāl welā]''
+|ที่หลบภัยที่ซ่อนอยู่ <br>''[thī̀ h̄lb p̣hạy thī̀ s̀xn xyū̀]''
+|}
+
+== Seasonal Areas ==
+These are Opening Quotes for all the Seasonal Areas and other hidden areas (often blocked by a Spirit Gate).<!-- '''The codenames below, unless otherwise noted, should prefixed with <code>title_</code> followed by the codename shown in the charts below, to avoid repeating the <code>title_</code>  prefix in the charts.''' For example, the full codename for the OQ of Cave of Prophecies ("Beware The Ancient Trials") is <code>title_dawncave_02</code>.-->
+
+=== Isle of Dawn ===
+The Cave of Prophecies was introduced in the [[Season of Prophecy]] (2020-10-05 to 2020-12-13). It has an Opening Quote upon entrance to the Cave. In addition, each of the four Trials have their own Opening Quotes at the beginning of each Trial.<br>
+<br>
+{| class="fandom-table"
+<!--! rowspan="2" |Codename
+!<code>dawncave_01</code>
+!<code>water_trial_01</code>
+!<code>earth_trial_01</code>
+!<code>air_trial_01</code>
+!<code>fire_trial_01</code>
+!<code>dawn_night_01</code>
+|-
+|<code>dawncave_02</code>
+|<code>water_trial_02</code>
+|<code>earth_trial_02</code>
+|<code>air_trial_02</code>
+|<code>fire_trial_02</code>
+|<code>dawn_night_02</code>
+|--->
+! rowspan="2" | English
+! Cave of Prophecies
+! Trial of Water
+! Trial of Earth
+! Trial of Air
+! Trial of Fire
+!Passage Stone
+|-
+| Beware The Ancient Trials
+| Time divides each contender.
+| Tenacity reveals the way home.
+| Master the harmony of heights.
+| Only the brave will attain the light.
+|A place of learning and cooperation.
+|-
+! rowspan=2 | French<br>Français
+! Grotte des prophéties
+! Épreuve de l'Eau
+! Épreuve de la Terre
+! Épreuve de l'Air
+! Épreuve du Feu
+!Pierre d'Initiation
+|-
+| Méfiez-vous des anciennes épreuves
+| Le temps sépare les concurrents.
+| La ténacité révèle le chemin du retour.
+| Maîtrisez l'harmonie des hauteurs.
+| Seuls les braves atteindront la lumière.
+|Un lieu d'apprentissage et de collaboration.
+|-
+! rowspan=2 | Spanish<br>Español
+! Cueva de las Profecías
+! Prueba de Agua
+! Prueba de Tierra
+! Prueba de Aire
+! Prueba de Fuego
+!Roca de iniciación
+|-
+| Teme las Antiguas Pruebas
+| El tiempo divide a cada contendiente.
+| La tenacidad te mostrará el camino a casa.
+| Domina la armonía de las alturas.
+| Solo los valientes obtendrán la luz.
+|Un lugar de aprendizaje y cooperación
+|-
+! rowspan=2 | Portuguese<br>Português
+! Caverna das Profecias
+! Provação da Água
+! Provação da Terra
+! Provação do Ar
+! Provação do Fogo
+!Pedra da Passagem
+|-
+| Cuidado com as Provações dos Anciões
+| O tempo divide cada concorrente.
+| A tenacidade revela o caminho para o lar.
+| Mestre da harmonia das alturas.
+| Somente o mais bravo alcançará a luz.
+|Um lugar de cooperação e aprendizado.
+|-
+! rowspan=2 | Italian<br>Italiano
+! Grotta delle Profezie
+! Prova dell'Acqua
+! Prova della Terra
+! Prova dell'Aria
+! Prova del Fuoco
+!Pietra della Transizione
+|-
+| Fai attenzione alle prove degli antichi
+| Il tempo divide ogni concorrente.
+| La tenacia rivela la strada verso casa.
+| Padroneggia l'armonia ad alta quota.
+| Solo chi è coraggioso raggiungerà la luce.
+|Un luogo di apprendimento e cooperazione.
+|-
+! rowspan=2 | German<br>Deutsch
+! Höhle der Prophezeiungen
+! Prüfung des Wassers
+! Prüfung der Erde
+! Prüfung der Luft
+! Prüfung des Feuers
+!Übergangsstein
+|-
+| Achtung vor den uralten Prüfungen
+| Die Zeit trennt die Wettkämpfer.
+| Beharrlichkeit enthüllt den Weg nach Hause.
+| Meistere die Harmonie der Höhen.
+| Nur die Tapferen erhalten das Licht.
+|Ein Ort des Lernens und der Zusammenarbeit.
+|-
+! rowspan=2 | Russian<br>Русский
+! Пещера пророчеств <br>''[Peshchera prorochestv]''
+! Испытание воды <br>''[Ispytaniye vody]''
+! Испытание земли <br>''[Ispytaniye zemli]''
+! Испытание воздуха <br>''[Ispytaniye vozdukha]''
+! Испытание огня <br>''[Ispytaniye ognya]''
+!Камень посвящения <br>''[Kamen' posvyashcheniya]''
+|-
+| Вас ждут древние испытания <br>''[Vas zhdut drevniye ispytaniya]''
+| Время разделит всех. <br>''[Vremya razdelit vsekh.]''
+| Упорство открывает дороги. <br>''[Uporstvo otkryvayet dorogi.]''
+| Овладейте гармониями высот. <br>''[Ovladeyte garmoniyami vysot.]''
+| Лишь храбрый обретет свет. <br>''[Lish' khrabryy obretet svet.]''
+|Место обучения и сотрудничества. <br>''[Mesto obucheniya i sotrudnichestva.]]''
+|-
+! rowspan=2 | Chinese (Simplified) <br>简体中文
+! 预言山谷 <Br>''[Yù Yán Shān Gǔ]'' 
+! 水之试炼 <Br>''[Shuǐ Zhī Shì Liàn]'' 
+! 土之试炼 <Br>''[Tǔ Zhī Shì Liàn]'' 
+! 风之试炼 <Br>''[Fēng Zhī Shì Liàn]'' 
+! 火之试炼 <Br>''[Huǒ Zhī Shì Liàn]'' 
+!夜行石 <Br>''[Yè Xíng Shí]''
+|-
+| 远古试炼，重现预言 <br>''[Yuǎn gǔ shì liàn, chóng xiàn yù yán]'' 
+| 耐心之道，跬步致远 <br>''[Nài xīn zhī dào, kuǐ bù zhì yuǎn]'' 
+| 坚韧之心，指引归途 <br>''[Jiān rèn zhī xīn, zhǐ yǐn guī tú]'' 
+| 平衡之力，扶摇直上 <br>''[Píng héng zhī lì, fú yáo zhí shàng]'' 
+| 勇毅之魄，连接光明 <br>''[Yǒng yì zhī pò, lián jiē guāng míng]'' 
+|合作学习之处 <br>''[Hé zuò xué xí zhī chù]''
+|-
+! rowspan=2 | Chinese (Simplified, NetEase)<br>简体中文（国服）
+! 预言山谷 <Br>''[Yù Yán Shān Gǔ]'' 
+! 湖水的试炼 <Br>''[Hú Shuǐ ·De Shì Liàn]'' 
+! 土地的试炼 <Br>''[Tǔ Dì ·De Shì Liàn]'' 
+! 空气的试炼 <Br>''[Kōng Qì ·De Shì Liàn]'' 
+! 火焰的试炼 <Br>''[Huǒ Yàn ·De Shì Liàn]'' 
+!夜行石 <Br>''[Yè Xíng Shí]''
+|-
+| 远古试炼，重现预言 <br>''[Yuǎn gǔ shì liàn, chóng xiàn yù yán]'' 
+| 耐心之道，跬步致远 <br>''[Nài xīn zhī dào, kuǐ bù zhì yuǎn]'' 
+| 坚韧之心，指引归途 <br>''[Jiān rèn zhī xīn, zhǐ yǐn guī tú]'' 
+| 平衡之力，扶摇直上 <br>''[Píng héng zhī lì, fú yáo zhí shàng]'' 
+| 勇毅之魄，连接光明 <br>''[Yǒng yì zhī pò, lián jiē guāng míng]'' 
+|合作成长之地 <br>''[Hé zuò chéng zhǎng zhī dì]''
+|-
+! rowspan=2 | Chinese (Traditional)<br>正體中文
+! 預言山谷 <br>''[jyu6 jin4 saan1 guk1]'' 
+! 水之試煉 <br>''[seoi2 zi1 si3 lin6]'' 
+! 土之試煉 <br>''[tou2 zi1 si3 lin6]'' 
+! 風之試煉 <br>''[fung1 zi1 si3 lin6]'' 
+! 火之試煉 <br>''[fo2 zi1 si3 lin6]'' 
+!夜行石 <br>''[je6 hang4 sek3]'' 
+|-
+| 遠古試煉，重現預言 <br>''[jyun5 gu2 si3 lin6, cung4 jin6 jyu6 jin4]'' 
+| 耐心之道，跬步致遠 <br>''[noi6 sam1 zi1 dou6 kwai2 bou6 zi3 jyun5]'' 
+| 堅韌之心，指引歸途 <br>''[gin1 ngan6 zi1 sam1 , zi2 jan5 gwai1 tou4]'' 
+| 平衡之力，扶搖直上 <br>''[ping4 hang4 zi1 lik6 , fu4 jiu4 zik6 soeng5]'' 
+| 勇毅之魄，連接光明 <br>''[jung5 ngai6 zi1 paak3, lin4 zip3 gwong1 ming4]'' 
+|合作學習的所在 <br>''[hap6 zok3 hok6 zaap6 ge3 so2 zoi6]''
+|-
+! rowspan=2 | Japanese<br>日本語
+! 預言者の石窟 <br>''(よげんしゃのせっくつ)<br>[Yogen-sya no sekkutu]'' 
+! 水の試練 <br>''(みずのしれん)<br>[Mizu-no siren]'' 
+! 地の試練 <br>''(じのしれん)<br>[Zi-no siren]'' 
+! 風の試練 <br>''(かぜのしれん)<br>[Kaze-no siren]'' 
+! 火の試練 <br>''(ひのしれん)<br>[Hi-no siren]'' 
+!ならいの大岩 <br>''(ならいのおおいわ)<br>[Narai-no ōiwa]'' 
+|-
+| − 空洞に眠る古の試練と啓示 − <br>''(くうどうにねむるいにしえのしれんとけいじ)<br>[Kūdō ni nemuru inisie no siren to keizi]'' 
+| − 耐えよ、時が汝らを断とうとも − <br>''(たえよ、ときがなんじらをたとうとも)<br>[Taeyo, toki ga nanzi-ra o tatoutomo]'' 
+| − 屈せず進め、必ず道は開かれる − <br>''(くっせずすすめ、かならずみちはあかれる)<br>[Kussezu susume, kanarazu miti wa aka reru]'' 
+| − 調和を学び、高みを抱け − <br>''(ちょうわをまなび、たかみをだけ)<br>[Tyōwa o manabi, takami o dake]'' 
+| − 勇気を示せ、さすれば光を掴めるだろう −  <br>''(ゆうきをしめせ、さすればひかりをつかめるだろう)<br>[Yūki o simese, sasureba hikari o tukameru darou]'' 
+|− 学びと助け合いの足あと − <br>''(まなびとたすけあいのあしあと)<br>[manabi to tasukeai no asi ato]''
+|-
+! rowspan=2 | Korean<br>한국어<br>(韓國語)
+! 예언의 동굴 <br>'' (豫言의 洞窟) <br> [yeeon-ui dong-gul]''
+! 물의 시련 <br>'' (물의 試練) <br> [mul-ui silyeon]''
+! 땅의 시련 <br>'' (땅의 試練) <br> [ttang-ui silyeon]''
+! 공기의 시련 <br>'' (空氣의 試練) <br> [gong-giui silyeon]''
+! 불의 시련 <br>'' (불의 試練) <br> [bul-ui silyeon]''
+!성장의 돌 <br>'' (成長의 乭) <br> [seongjang-ui dol]''
+|-
+| 고대의 시련을 조심하세요. <br>'' (古代의 試練을 操心하세요.) <br> [godaeui silyeon-eul josimhaseyo.]''
+| 시간이 도전자를 갈라놓습니다 <br>'' (時間이 挑戰者를 갈라놓습니다) <br> [sigan-i dojeonjaleul gallanohseubnida]''
+| 끈기를 발휘하여 길을 찾으세요 <br>'' (끈기를 發揮하여 길을 찾으세요) <br> [kkeungileul balhwihayeo gil-eul chaj-euseyo]''
+| 높이의 조화를 익히세요 <br>'' (높이의 調和를 익히세요) <br> [nop-iui johwaleul ighiseyo]''
+| 용감한 자만이 빛을 얻습니다 <br>'' (勇敢한 自慢이 빛을 얻습니다) <br> [yong-gamhan jaman-i bich-eul eodseubnida]''
+|배움과 협동의 장 <br>'' (배움과 協同의 場) <br> [baeumgwa hyeobdong-ui jang]''
+|-
+! rowspan=2 | Vietnamese<br>Tiếng Việt<br>(㗂越)
+! Hang Bình Minh <br>''（𡎟平明）''
+! Thử Thách Nước <br>''（㧗𡂓渃）''
+! Thử Thách Đất <br>''（㧗𡂓𡐙）''
+! Thử Thách Không Khí <br>''（㧗𡂓空氣）''
+! Thử Thách Lửa <br>''（㧗𡂓焒）''
+!Đá Thử Thách <br>''（𥒥㧗𡂓）''
+|-
+| Hãy coi chừng những thử nghiệm cổ xưa <br>''（駭𥋳澄仍㧗驗古初）''
+| Thời gian phân chia từng đối thủ. <br>''（時間分𢺺層對手）''
+| Sự bền bỉ dẫn lối về nhà. <br>''（事𥾽比引𡓃𧗱茹）''
+| Làm chủ sự hài hòa của độ cao. <br>''（𫜵主事諧和𧵑度高）''
+| Chỉ người dũng cảm mới có được ánh sáng. <br>''（只𠊛勇敢㵋固得映𤏬）''
+|Địa điểm học tập và hợp tác. <br>''（地點學習吧合作）''
+|-
+! rowspan=2 | Indonesian<br>Bahasa Indonesia
+! Gua Nubuat
+! Ujian Air<!-- This is not an error. In Indonesian, the word "air" is equivalent to the English word "water". It is just a linguistic coincidence.. -->
+! Ujian Bumi
+! Ujian Udara
+! Ujian Api
+!Kuil Batu Inisiasi
+|-
+| Hati-hati dengan Ujian kuno
+| Waktu membagi setiap pesaing.
+| Kegigihan mengungkap jalan pulang.
+| Kuasai harmoni ketinggian.
+| Hanya pemberani yang akan mendapatkan cahaya.
+|Tempat untuk belajar dan bekerjasama
+|-
+! rowspan="2" |Thai<br>ภาษาไทย
+!ถ้ำแห่งคำพยากรณ์ <br>''[T̄ĥả h̄æ̀ng khả phyākrṇ̒]''
+!บททดสอบแห่งน้ำ <br>''[Bth thds̄xb h̄æ̀ng n̂ả]''
+!บททดสอบแห่งดิน <br>''[Bth thds̄xb h̄æ̀ng din]''
+!บททดสอบแห่งลม <br>''[Bth thds̄xb h̄æ̀ng lm]''
+!บททดสอบแห่งไฟ <br>''[Bth thds̄xb h̄æ̀ng fị]''
+!ศิลาเส้นทาง <br>''[Ṣ̄ilā s̄ên thāng]''
+|-
+|จงระวังบททดสอบโบราณ <br>''[cng rawạng bth thds̄xb borāṇ]''
+|เวลาเป็นสิ่งที่แยกผู้แข่งขันแต่ละคนออกจากกัน <br>''[welā pĕn s̄ìng thī̀ yæk p̄hū̂ k̄hæ̀ngk̄hạn tæ̀la khn xxk cāk kạn]''
+|ความดื้อรั้นเผยให้เห็นเส้นทางกลับบ้าน <br>''[khwām dụ̄̂x rận p̄hey h̄ı̂ h̄ĕn s̄ên thāng klạb b̂ān]''
+|ฝึกฝนที่จะกลมกลืนกับความสูง <br>''[f̄ụkf̄n thī̀ ca klmklụ̄n kạb khwām s̄ūng]''
+|ผู้กล้าเท่านั้นที่จะได้แสงสว่างมาครอบครอง <br>''[p̄hū̂ kl̂ā thèānận thī̀ ca dị̂ s̄æng s̄ẁāng mā khrxb khrxng]''
+|สถานที่แห่งการเรียนรู้และความร่วมมือ <br>''[s̄t̄hān thī̀ h̄æ̀ng kār reīyn rū̂ læa khwām r̀wm mụ̄x]''
+|}
+
+=== Daylight Prairie ===
+Daylight Prairie has three Seasonal Areas with an Opening Quote: Sanctuary Islands ([[Season of Sanctuary]], 2020-07-13 to 2020-09-21), The Sanctuary Vortex ([[Days of Nature]] 2023, 2023-04-20 to 2023-05-07), and Prairie Peaks ([[Season of Moments]], 2023-07-17 to 2023-10-01).<br>
+<br>
+{| class="fandom-table"
+<!--! rowspan="2" |Codename
+!<code>prairie_island_01</code>
+!<code>islandvortex_01</code>
+!<code>prairie_wildlifepark_01</code>
+!<code>prairie_soundbath_01</code>
+|-
+|<code>prairie_island_02</code>
+|<code>islandvortex_02</code>
+|<code>prairie_wildlifepark_02</code>
+|<code>prairie_soundbath_02</code>
+|--->
+! rowspan=2 | English
+! Sanctuary Islands
+!The Sanctuary Vortex
+!Prairie Peaks
+!Garden of Tranquility
+|-
+| An escape from daily civilization
+|Darkness trapped in the middle of the ocean
+|A pristine landscape
+|Unwind with soothing sounds.
+|-
+! rowspan=2 | French<br>Français
+! Îles du sanctuaire
+!Le Vortex du sanctuaire
+!Pics de la Prairie
+!Jardin de la Sérénité
+|-
+| Une échappatoire à la civilisation quotidienne
+|Les ténèbres sont piégées au milieu de l'océan
+|Un paysage vierge
+|Détendez-vous grâce à des sons apaisants.
+|-
+! rowspan=2 | Spanish<br>Español
+! Islas Santuario
+!El vórtice del santuario
+!Un paisaje inmaculado
+!Jardín de la tranquilidad
+|-
+| Un escape de la civilización diaria
+|Oscuridad atrapada en el medio del océano
+|Cumbres de la planicie
+|Desconectarse con sonidos reconfortantes.
+|-
+! rowspan=2 | Portuguese<br>Português
+! Ilhas do Santuário
+!O Vórtice do Santuário
+!Picos da Campina
+!Jardim da Tranquilidade
+|-
+| Uma saída da civilização diária
+|Escuridão presa no meio do oceano
+|Uma paisagem intocada
+|Relaxe com sons suaves.
+|-
+! rowspan=2 | Italian<br>Italiano
+! Arcipelago Paradiso
+!Il Vortice dell'Arcipelago
+!Un paesaggio incontaminato
+!Giardino della Tranquillità
+|-
+| Una fuga dalla civiltà quotidiana
+|Oscurità intrappolata nel mezzo dell'oceano
+|Vette della Prateria
+|Rilassati con suoni rilassanti.
+|-
+! rowspan=2 | German<br>Deutsch
+! Zufluchtsinseln
+!Der Zufluchtsvortex
+!Präriegipfel
+!Garten der Stille
+|-
+| Eine Flucht aus der täglichen Zivilisation
+|Gefangene Finsternis mitten im Ozean
+|Eine unberührte Landschaft
+|Entspanne dich mit beruhigenden Klängen.
+|-
+! rowspan=2 | Russian<br>Русский
+! Острова укрытия <br>''[Ostrova ukrytiya]''
+!Воронка Укрытия <br>''[Voronka Ukrytiya]''
+!Степные вершины <br>''[Stepnyye vershiny]''
+!Сад спокойствия <br>''[Sad spokoystviya]''
+|-
+| Бегство от рутины <br>''[Begstvo ot rutiny]''
+|Ловушка тьмы в середине океана <br>''[Lovushka t'my v seredine okeana]''
+|Первозданный пейзаж <br>''[Pervozdannyy peyzazh]''
+|Пусть успокаивающие звуки расслабят вас. <br>''[Pust' uspokaivayushchiye zvuki rasslabyat vas]''
+|-
+! rowspan=2 | Chinese (Simplified)<br>简体中文
+! 圣域群岛 <br>''[Shèng Yù Qún Dǎo]''
+!圣域漩涡 <br>''[Shèng Yù Xuán Wō]''
+!云野峻岭 <Br>''[Yún Yě Jun4 Lǐng]''
+!宁静花园 <Br>''[Níng Jìng Huā Yuán]''
+|-
+| 远离尘嚣的胜地 <br>''[Yuǎn lí chén xiāo ·de shèng dì]''
+|缠困在海中的黑暗 <br>''[Chán kùn zài hǎi zhōng ·de hēi àn]''
+|纯净的世外桃源 <br>''[Chún jìng ·de shì wài táo yuán]''
+|在舒缓的声音中放松身心。 <br>''[Zài shū huǎn ·de shēng yīn zhōng fàng sōng shēn xīn]''
+|-
+! rowspan=2 | Chinese (Simplified, NetEase)<br>简体中文（国服）
+! 圣岛 <br>''[Shèng Dǎo]''
+!圣岛漩涡 <br>''[Shèng Dǎo Xuán Wō]''
+!云峰 <br>''[Yún Fēng]''
+!宁静花园 <br>''[Níng Jìng Huā Yuán]''
+|-
+| 远离尘嚣的度假胜地  <br>''[Yuǎn lí chén xiāo ·de dù jiǎ shèng dì]''
+|黑暗被卷入了海洋中央 <br>''[Hēi àn bèi juàn rù ·le hǎi yáng zhōng yāng]''
+|原始自然的风景 <br>''[Yuán shǐ zì rán ·de fēng jǐng]''
+|放松心情，聆听舒缓的声音 <br>''[Fàng sōng xīn qíng, líng tīng shū huǎn ·de shēng yīn]''
+|-
+! rowspan=2 | Chinese (Traditional)<br>正體中文
+! 聖域群島 <br>''[Sing3 wik6 kwan4 dou2]''
+!聖域漩渦 <br>''[sing3 wik6 syun4 wo1]''
+!雲野峻嶺 <br>''[wan4 je5 zeon3 ling5]''
+!寧靜花園 <br>''[ning4 zing6 faa1 jyun4]''
+|-
+| 遠離塵囂的勝地 <br>''[jyun5 lei4 can4 hiu1 ge3 sing3 dei6]''
+|纏困在海中的黑暗 <br>''[cin4 kwan3 zoi6 hoi2 zung1 ge3 hak1 am3]''
+|純淨的世外桃源 <br>''[seon4 zing6 ge3 sai3 ngoi6 tou4 jyun4]''
+|隨著舒緩的聲音放鬆身心。 <br>''[ceoi4 zoek6 syu1 wun6 ge3 sing1 jam1 fong3 sung1 san1 sam1]''
+|-
+! rowspan=2 | Japanese<br>日本語
+! 楽園の島々 <br>''(らくえんのしまじま)<br>[Raku'en no simazima]''
+!楽園の渦潮 <br>''(らくえんのうずしお)<br>[Raku'en no uzusio]''
+!草原連峰 <br>''(そうげんれんぽう)<br>[sōgen renpō]''
+!静けさの庭 <br>''(しずけさのにわ)<br>[sizukesa no niwa]''
+|-
+| − 喧騒より逃れ、羽伸ばす憩いの地へ − <br>''(けんそうよりのがれ、はねのばすいこいのちへ)<br>[Kensō yori nogare, hane nobasu ikoi no ti e]''
+|− 海洋に渦巻く闇の澱み − <br>''(かいようにうずまくやみのよどみ)<br>[Kaiyō ni uzumaku yami no yodomi]''
+|− 未踏の絶景を一望に − <br>''(みとうのぜっけいをいちぼうに)<br>[Mitō no zekkei o itibō ni]''
+| - 平穏は心地よい音の中に - <br>''(へいおんはここちよいおとのなかに)<br>[Heion wa kokotiyoi oto no naka ni]''
+|-
+! rowspan=2 | Korean<br>한국어<br>(韓國語)
+! 낙원의 섬 <br>''(樂園의 섬) <br> [nag-won-ui seom]''
+!낙원의 소용돌이 <br>'' (樂園의 소용돌이) <br> [nag-won-ui soyongdol-i]''
+!초원 봉우리 <br>'' (草原 峯우리) <br> [chowon bong-uli]''
+!평온의 정원 <br>'' (平穩의 庭園) <br> [pyeong-on-ui jeong-won]''
+|-
+| 일상 문명으로부터 잠시 벗어나보세요 <br>'' (日常 文明으로부터 暫時 벗어나보세요) <br> [ilsang munmyeong-eulobuteo jamsi beos-eonaboseyo]''
+|바다의 한가운데에 갇혀 있는 어둠 <br>'' [badaui hangaundee gadhyeo issneun eodum]''
+|자연이 고스란히 담긴 풍경 <br>'' (自然이 고스란히 담긴 風景) <br> [jayeon-i goseulanhi damgin pung-gyeong]''
+|마음이 편안해지는 소리로 긴장을 풀어보세요. <br>'' (마음이 便安해지는 소리로 緊張을 풀어보세요.) <br> [ma-eum-i pyeon-anhaejineun solilo ginjang-eul pul-eoboseyo]''
+|-
+! rowspan=2 | Vietnamese<br>Tiếng Việt<br>(㗂越)
+! Quần Đảo Thánh Địa <br>''(群島聖地)''
+!Dòng Xoáy Thánh Địa <br>''(𣳔鬠聖地)''
+!Đỉnh Thảo Nguyên <br>''(頂草原)''
+!Vườn Tĩnh Lặng <br>''(園静朗)''
+|-
+| Một lối thoát thoát khỏi nền văn minh hàng ngày <br>''(𠬠𡓃脱脱𠺌𡋂文明亙𣈜)''
+|Bóng tối bị giam cầm giữa đại dương <br>''(𣈖最被監擒𡧲大洋)''
+|Một cảnh quan nguyên sơ <br>''(𠬠景觀原初)''
+|Thư giãn với những âm thanh êm dịu. <br>''(舒僴貝仍音聲淹妙)''
+|-
+! rowspan=2 | Indonesian<br>Bahasa Indonesia
+! Pulau Tempat Suci
+!Kuil Suci Pusaran Hitam
+!Puncak Padang Rumput
+!Taman Ketenangan
+|-
+| Pelarian dari peradaban sehari-hari
+|Kegelapan terperangkap di tengah samudra
+|Pemandangan yang asri
+|Bersantai dengan suara yang menenangkan.
+|-
+! rowspan="2" |Thai<br>ภาษาไทย
+!เกาะสวรรค์ <br>''[Keāa s̄wrrkh̒]''
+!น้ำวนสรวงสวรรค์ <br>''[N̂ảwn s̄rwng s̄wrrkh̒]''
+!ยอดเขาแห่งทุ่งหญ้า <br>''[Yxd k̄heā h̄æ̀ng thùng h̄ỵ̂ā]''
+!สวนแห่งความสงบ <br>''[S̄wn h̄æ̀ng khwām s̄ngb]''
+|-
+|การหลีกหนีจากอารยธรรมในแต่ละวัน <br>''[Kār h̄līk h̄nī cāk xāryṭhrrm nı tæ̀la wạn]''
+|ความมืดมิดที่อยู่ใจกลางมหาสมุทร <br>''[Khwām mụ̄d mid thī̀ xyū̀ cıklāng mh̄ās̄muthr]''
+|ทิวทัศน์อันบริสุทธิ์ <br>''[Thiwthạṣ̄n̒ xạn bris̄uthṭhi̒]''
+|คลายเครียดด้วยเสียงที่ผ่อนคลาย <br>''[Khlāy kherīyd d̂wy s̄eīyng thī̀ p̄h̀xn khlāy]''
+|}
+
+=== Hidden Forest ===
+Hidden Forest has two Seasonal Areas with an Opening Quote: The Treehouse ([[Season of Assembly]], 2021-04-05 to 2021-06-13) and The Wind Paths ([[Season of Flight]], 2021-10-04 to 2021-12-19). The Opening Quotes here change with the completion status of the Quests. The first column listed below is the Opening Quote before completing the Seasonal Quests, and the second column listed is the Openings after the player completed the Quests.<br>
+<br>
+{| class="fandom-table"
+<!--! rowspan="2" |Codename
+!<code>rain_basecamp_01</code>
+!(After Completed Treehouse Quests)
+!<code>skyway_01</code>
+!(After Completed Wind Paths Quests)
+|-
+|<code>rain_basecamp_02</code>
+|<code>rain_basecamp_03</code>
+|<code>skyway_02</code>
+|<code>skyway_03</code>
+|--->
+! rowspan="2" | English
+! colspan="2" | The Treehouse
+! colspan="2" | The Wind Paths
+|-
+| A secret hideaway in the making.
+| A home away from home.
+| Abandoned paths of the ancient kingdom.
+| Chimes guide creatures to clear passage through the realms.
+|-
+! rowspan=2 | French<br>Français
+! colspan="2" | La cabane dans l'arbre
+! colspan="2" | Les Chemins de vent
+|-
+| Une cachette secrète en cours de construction.
+| Un foyer loin de chez soi.
+| Les chemins abandonnés de l'ancien royaume.
+| Des carillons guident les créatures pour libérer le passage à travers les royaumes.
+|-
+! rowspan=2 | Spanish<br>Español
+! colspan="2" | La casa del árbol
+! colspan="2" | Los Caminos del viento
+|-
+| Un pasadizo secreto a medio hacer.
+| Un hogar lejos de casa.
+| Caminos abandonados del antiguo reino.
+| Las campanillas guían a las criaturas para despejar el paso a través de los reinos.
+|-
+! rowspan=2 | Portuguese<br>Português
+! colspan="2" | Casa da Árvore
+! colspan="2" | As Trilhas do Vento
+|-
+| Um esconderijo secreto em fase de construção.
+| Uma casa longe de casa.
+| Estradas abandonadas do antigo reino.
+| Os sinos guiam as criaturas para limpar a passagem através dos reinos.
+|-
+! rowspan=2 | Italian<br>Italiano
+! colspan="2" | La casa sull'albero
+! colspan="2" | I Sentieri del Vento
+|-
+| Un nascondiglio segreto da costruire.
+| La tua seconda casa.
+| Strade abbandonate dell'antico regno.
+| Gli scacciapensieri guidano le creature per liberare la strada attraverso i regni.
+|-
+! rowspan=2 | German<br>Deutsch
+! colspan="2" | Das Baumhaus
+! colspan="2" | Die Windpfade
+|-
+| Die Entstehung eines Geheimverstecks.
+| Ein Zuhause fern der Heimat
+| Verlassene Straßen des alten Königreichs.
+| Die Glocken leiten die Kreaturen an, den Weg durch die Reiche freizumachen.
+|-
+! rowspan=2 | Russian<br>Русский
+! colspan="2" | Домик на дереве <br>''[Domik na dereve]''
+! colspan="2" | Пути ветра <br>''[Puti vetra]''
+|-
+| Строящееся Тайное укрытие <br>''[Stroyashcheyesya Taynoye ukrytiye]''
+| Дом вдали от дома. <br>''[Dom vdali ot doma.]''
+| Заброшенные тропы древнего королевства. <br>''[Zabroshennyye tropy drevnego korolevstva.]''
+| Колокольчики указывают обитателям проход через миры. <br>''[Kolokol'chiki ukazyvayut obitatelyam prokhod cherez miry.]''
+|-
+! rowspan=2 | Chinese (Simplified)<br>简体中文
+! colspan="2" | 大树屋 <br>''[Dà Shù Wū]''
+! colspan="2" | 风之大道 <br>''[Fēng Zhī Dà Dào]''
+|-
+| 一个正在重建的藏身之处。 <br>''[Yī gè zhèng zài zhòng jiàn ·de cáng shēn zhī chù]''
+| 家外之家。 <br>''[Jiā wài zhī jiā]''
+| 来自远古王国的荒废通道 <br>''[Lái zì yuǎn gǔ wáng guó ·de huāng fèi tōng dào]''
+| 乐钟将导引光之生物疏通前往王国各处的通道 <br>''[Yuè zhōng jiāng dǎo yǐn guāng zhī shēng wù shū tōng qián wǎng wáng guó gè chù ·de tōng dào]''
+|-
+! rowspan=2 | Chinese (Simplified, NetEase)<br>简体中文（国服）
+! colspan="2" | 大树屋 <br>''[Dà Shù Wū]''
+! colspan="2" | 风行网道 <br>''[Fēng Xíng Wǎng Dào]''
+|-
+| 小队集结的秘密基地！ <br>''[Xiǎo duì jí jié ·de mì mì jī dì]''
+| 一个新的家园 <br>''[Yī gè xīn ·de jiā yuán]''
+| 狂风干扰着网道的秩序 <br>''[Kuáng fēng gàn rǎo ·zhe wǎng dào ·de zhì xù]''
+| 光和风和谐交融 <br>''[Guāng hé fēng hé xié jiāo róng]''
+|-
+! rowspan=2 | Chinese (Traditional)<br>正體中文
+! colspan="2" | 大樹屋 <br>''[daai6 syu6 uk1]''
+! colspan="2" | 風之大道 <br>''[fung1 zi1 daai6 dou6]''
+|-
+| 一個正在重建的藏身之處。 <br>''[jat1 go3 zing3 zoi6 cung4 gin3 ge3 cong4 san1 zi1 cyu3]''
+| 家外之家。 <br>''[gaa1 ngoi6 zi1 gaa1]''
+| 來自遠古王國的荒廢通道 <br>''[loi4 zi6 jyun5 gu2 wong4 gwok3 ge3 fong1 fai3 tung1 dou6]''
+| 樂鐘將導引光之生物疏通前往王國各處的通道 <br>''[ngok6 zung1 zoeng1 dou6 jan5 gwong1 zi1 saang1 mat6 so1 tung1 cin4 wong5 wong4 gwok3 gok3 cyu3 ge3 tung1 dou6]''
+|-
+! rowspan=2 | Japanese<br>日本語
+! colspan="2" | ツリーハウス <br>''[turīhaosu]''
+! colspan="2" | 風の街道 <br>''(かぜのかいどう)<br>[kaze no kaidō]''
+|-
+| − 秘密の隠れ家、建設中 − <br>''(ひみつのかくれが、けんせつちゅう)<br>[Himitu no kakurega, kensetu-tyū]''
+| − 秘密の隠れ家へ、ようこそ − <br>''(ひみつのかくれがへ、ようこそ)<br>[Himitu no kakurega e, yōkoso]''
+| − とうに通う者なき、千古の道跡 − <br>''(とうにかようものなき、せんこのみちあと)<br>[Tōni kayou mono naki, senko no miti ato]''
+| − 風の導に唱和し、雲脈行き交う光たち − <br>''(かぜのしるべにしょうわし、くもみゃくいきかうひかりたち)<br>[Kaze no sirube ni shōwa si, kumo myaku ikikau hikari-tati]''
+|-
+! rowspan=2 | Korean<br>한국어<br>(韓國語)
+! colspan="2" | 나무집 <br>''[namujib]''
+! colspan="2" | 바람길 <br>''[balamgil]''
+|-
+| 완성을 기다리는 비밀 아지트 <br>''(完成을 기다리는 秘密 Агитпу́нкт) <br> [wanseong-eul gidalineun bimil ajiteu]''
+| 안식처 밖의 안식처 <br>''(安息處 밖의 安息處) <br> [ansigcheo bakk-ui ansigcheo]''
+| 고대 왕국의  버려진 통로 <br>''(古代 王國의  버려진 通路) <br> [godae wang-gug-ui  beolyeojin tonglo]''
+| 종소리 덕분에 크리처들이 안전하게 이동하고 있어요 <br>''(鐘소리 德分에 creature들이 安全하게 移動하고 있어요) <br> [jongsoli deogbun-e keulicheodeul-i anjeonhage idonghago iss-eoyo]''
+|-
+! rowspan=2 | Vietnamese<br>Tiếng Việt<br>(㗂越)
+! colspan="2" | Ngôi Nhà Trên Cây <br>''（𡾵茹𨑗𣘃）''
+! colspan="2" | Con Đường Gió <br>''（𡥵塘𩙍）''
+|-
+| Một nơi ẩn náu bí mật đang được xây dựng. <br>''（𠬠尼隱蓐秘密當得𡏦𥩯。）''
+| Một ngôi nhà ở ngoài ngôi nhà. <br>''（𠬠𡾵茹於外𡾵茹。）''
+| Những con đường bị bỏ hoang của vương quốc cổ đại. <br>''（仍𡥵塘被𠬃荒𧵑王國古代。）''
+| Chuông hướng dẫn sinh vật đi qua các vương quốc. <br>''（鐘向引生物𠫾過各王國.）''
+|-
+! rowspan=2 | Indonesian<br>Bahasa Indonesia
+! colspan="2" | Rumah Pohon
+! colspan="2" | Jalur Angin
+|-
+| Persembunyian rahasia yang sedang dibangun.
+| Sebuah rumah yang jauh dari rumah.
+| Jalur kerajaan kuno yang terbengkalai.
+| Lonceng memandu makhluk untuk membersihkan jalan melewati berbagai dunia.
+|-
+! rowspan="2" |Thai<br>ภาษาไทย
+! colspan="2" |บ้านต้นไม้ <br>''[B̂ān t̂nmị̂]''
+! colspan="2" |เส้นทางสายลม <br>''[s̄ên thāng s̄āylm]''
+|-
+|ที่ซ่อนเร้นลับ ซึ่งกำลังอยู่ระหว่างก่อสร้าง <br>''[thī̀ s̀xn rên lạb sụ̀ng kảlạng xyū̀ rah̄ẁāng k̀xs̄r̂āng]''
+|บ้านที่อยู่ห่างไกลจากบ้าน <br>''[b̂ān thī̀ xyū̀ h̄̀āng kịl cāk b̂ān]''
+|เส้นทางที่ถูกทิ้งร้างของอาณาจักรโบราณ <br>''[s̄ên thāng thī̀ t̄hūk thîng r̂āng k̄hxng xāṇācạkr borāṇ]''
+|เสียงระฆังนำทางสิ่งมีชีวิตเพื่อเปิดเส้นทางผ่านดินแดนต่างๆ <br>''[s̄eīyng raḳhạng nảthāng s̄ìng mī chīwit pheụ̄̀x peid s̄ên thāng p̄h̀ān din dæn t̀āng]''
+|}
+
+=== Valley of Triumph ===
+The Valley of Triumph has four Seasonal Areas with an Opening Quote: Village of Dreams and Hermit Valley (both introduced in the [[Season of Dreams]], 2021-01-04 to 2021-03-15), and Village Theater and Harmony Hall (both introduced in the [[Season of Performance]], 2022-04-11 to 2022-06-26).
+
+Note: In the localized versions of the Opening Quotes for Hermit Valley, a number of them are not a direct translation of the English version but a completely different version roughly meaning "A perilous place for the audacious artists." These versions are marked with a <ref name="not a direct translation">Not a direct translation of the English version but a completely different version that roughly means "A perilous place for the audacious artists."</ref>.<br>
+<br>
+{| class="fandom-table"
+<!--! rowspan="2" |Codename
+!<code>sunsetvillage_01</code>
+!<code>yetipark_01</code>
+!<code>sunset_theater_01</code>
+!<code>sunsetmusicshop_01</code>
+|-
+|<code>sunsetvillage_02</code>
+|<code>yetipark_02</code>
+|<code>sunset_theater_02</code>
+|<code>sunsetmusicshop_02</code>
+|--->
+! rowspan=2 | English
+! Village of Dreams
+! Hermit Valley
+! Village Theater
+! Harmony Hall
+|-
+| A new spark inspires a humble community
+| Home of the giant with a gentle heart
+| A place to play many parts.
+| Melodies in the making
+|-
+! rowspan=2 | French<br>Français
+! Village des Rêves
+! Pente du Yéti
+! Théâtre du village
+! Hall d'harmonie
+|-
+| Une nouvelle étincelle inspire une humble communauté
+| Un endroit périlleux pour les artistes audacieux<ref name="not a direct translation" />
+| Un lieu où l'on peut jouer plusieurs rôles.
+| Des mélodies en composition
+|-
+! rowspan=2 | Spanish<br>Español
+! Aldea de los sueños
+! Ladera del yeti
+! Teatro de la aldea
+! Salón de Armonía
+|-
+| Una nueva chispa inspira a la humilde comunidad
+| Hogar de el gigante con corazón noble.<ref>In Spanish, the words “de” and “el” should be written as a contraction “del.” The “de&nbsp;el” here may be a typo or mistake by TGC. Since this page's purpose is to display the Opening Quotes EXACTLY as in the game, any errors or typos should NOT be fixed here unless TGC fixes it in the Live version of the game itself.
+<br>
+En español, las palabras "de" y "el" deben escribirse como contracción "del." El "de el" aquí puede ser una errata o un error de TGC. Dado que el propósito de esta página es mostrar las Citas de Apertura EXACTAMENTE como en el juego, cualquier error o errata NO debe arreglarse aquí a menos que TGC lo arregle en la propia versión Live del juego.</ref>
+| Un lugar para interpretar muchos papeles.
+| Melodías en proceso
+|-
+! rowspan=2 | Portuguese<br>Português
+! Aldeia dos Sonhos
+! Desfiladeiro do Iéti
+! Teatro da Aldeia
+! Salão da Harmonia
+|-
+| Uma nova fagulha inspira uma humilde comunidade
+| Um lugar perigoso para espetáculos ousados<ref name="not a direct translation" />
+| Um lugar para viver vários personagens.
+| Melodias em formação
+|-
+! rowspan=2 | Italian<br>Italiano
+! Villaggio dei Sogni
+! Pendio dello Yeti
+! Teatro del Villaggio
+! Salone dell'Armonia
+|-
+| Una nuova scintilla ispira una comunità umile
+| Un luogo pericoloso per artisti audaci<ref name="not a direct translation" />
+| Un posto in cui recitare molte parti.
+| Nascita delle melodie
+|-
+! rowspan=2 | German<br>Deutsch
+! Dorf der Träume
+! Yetihang
+! Dorftheater
+! Harmoniesaal
+|-
+| Ein neuer Funke inspiriert eine bescheidene
+| Ein gefährlicher Ort für wagemutige Künstler<ref name="not a direct translation" />
+| Ein Ort, an dem man viele Rollen spielen kann.
+| Melodien werden zum Leben erweckt
+|-
+! rowspan=2 | Russian<br>Русский
+! Деревушка Мечтаний <br>''[Derevushka Mechtaniy]''
+! Долина Отшельника <br>''[Dolina Otshel'nika]''
+! Деревенский театр <br>''[Derevenskiy teatr]''
+! Зал гармонии <br>''[Zal garmonii]''
+|-
+| Юное дарование впечатлило жителей деревушки <br>''[Yunoye darovaniye vpechatlilo zhiteley derevushki]''
+| Здесь обитает добродушный Отшельник <br>''[Zdes' obitayet dobrodushnyy Otshel'nik]''
+| Здесь было и будет поставлено немало пьес. <br>''[Zdes' bylo i budet postavleno nemalo p'yes.]''
+| Здесь рождаются мелодии <br>''[Zdes' rozhdayutsya melodii]''
+|-
+! rowspan=2 | Chinese (Simplified)<br>简体中文
+! 圆梦村 <Br>''[Yuán Mèng Cūn]''
+! 隐士山谷 <Br>''[Yǐn Shì Shān Gǔ]''
+! 乡村剧场 <Br>''[Xiāng Cūn Jù Chǎng]''
+! 和声大厅 <Br>''[Hé Shēng Dà Tīng]''
+|-
+| 圆梦之旅，并力同心 <br>''[Yuán mèng zhī lǚ, bìng lì tóng xīn]''
+| 温柔巨人的家 <br>''[Wēn róu jù rén ·de jiā]''
+| 扮演许多角色的地方。 <br>''[Bàn yǎn xǔ duō jué sè ·de dì fāng]''
+| 酝酿中的旋律 <br>''[Yùn niàng zhōng ·de xuán lǜ]''
+|-
+! rowspan=2 | Chinese (Simplified, NetEase)<br>简体中文（国服）
+! 圆梦村 <Br>''[Yuán Mèng Cūn]''
+! 雪隐峰 <br>''[xuě yǐn fēng]''
+! 乡村剧场 <br>''[Xiāng Cūn Jù Chǎng]''
+! 音乐大厅 <br>''[Yīn Yuè Dà Tīng]''
+|-
+| 圆梦之旅，并力同心 <br>''[Yuán mèng zhī lǚ, bìng lì tóng xīn]''
+| 大胆的旅人心驰神往的地方 <br>''[Dà dǎn ·de lǚ rén xīn chí shén wǎng ·de dì fāng]''
+| 一个演绎精彩故事的地方 <br>''[Yī gè yǎn yì jīng cǎi gù shì ·de dì fāng]''
+| 一个共奏优雅旋律的地方 <br>''[Yī gè gòng zòu yōu yǎ xuán lǜ ·de dì fāng]''
+|-
+! rowspan=2 | Chinese (Traditional)<br>正體中文
+! 圓夢村 <br>''[jyun4 mung6 cyun1]''
+! 隱士山谷 <br>''[jan2 si6 saan1 guk1]''
+! 鄉村劇院 <br>''[hoeng1 cyun1 kek6 jyun2]''
+! 和聲大廳 <br>''[wo4 sing1 daai6 teng1]''
+|-
+| 圓夢之旅，併力同心 <br>''[jyun4 mung6 zi1 leoi5, bing6 lik6 tung4 sam1]''
+| 溫柔巨人的家 <br>''[wan1 jau4 geoi6 jan4 ge3 gaa1]''
+| 一個可扮演許多角色的所在。 <br>''[jat1 go3 ho2 baan3 jin2 heoi2 do1 gok3 sik1 ge3 so2 zoi6]''
+| 譜寫中的旋律 <br>''[pou2 se2 zung1 ge3 syun4 leot6-2]''
+|-
+! rowspan=2 | Japanese<br>日本語
+! 夢見の町 <br>''(ゆめみのまち)<br>[Yumemi no mati]''
+! 隠者の峠 <br>''(いんじゃのとうげ)<br>[Inja no tōge]''
+! 夢見の劇場 <br>''(ゆめみのげきじょう)<br>[Yumemi no gekizyō]''
+! 奏の音楽堂 <br>''(かなでのおんがくどう)<br>[Kanade no ongaku-dō]''
+|-
+| − 若き希望は、雪嶺に互恵の温もりを灯す − <br>''(わかききぼうは、せつれいにごけいのぬくもりをともす)<br>[Wakaki kibō wa, Seturei ni gokei no nukumori o tomosu]''
+| − 心優しき巨人の棲み処 − <br>''(こころやさしききょじんのすみしょ)<br>[kokoro yasasiki kyojin no sumi syo]''
+| 一人ひとりが輝く、夢の舞台 <br>''(ひとりひとりがかがやく、ゆめのぶたい)<br>[hitori hitori ga kagayaku, yume no butai]''
+| − 織りなす音色は、夢の調べ − <br>''(おりなすねいろは、ゆめのしらべ)<br>[orinasu neiro wa, yume no sirabe]''
+|-
+! rowspan=2 | Korean<br>한국어<br>(韓國語)
+! 꿈의 마을 <br>''[kkum-ui ma-eu]''
+! 은둔자의 언덕 <br>''(隱遁者의 언덕) <br> [eundunjaui eondeog]''
+! 마을극장 <br>''(마을劇場) <br> [ma-eul geugjang]''
+! 음악의 전당 <br>''(音樂의 殿堂) <br> [eum-ag-ui jeondang]''
+|-
+| 소박한 마을에 피어난 새 불씨 <br>''(素朴한 마을에 피어난 새 불씨) <br> [sobaghan ma-eul-e pieonan sae bulssi]''
+| 다정한 마음을 가진 거인의 집 <br>''(多情한 마음을 가진 巨人의 집) <br> [dajeonghan ma-eum-eul gajin geoin-ui jib]''
+| 다양한 공연이 펼쳐지는 곳 <br>''(多樣한 公演이 펼쳐지는 곳) <br> [dayanghan gong-yeon-i pyeolchyeojineun gos]''
+| 선율이 탄생하는 공방 <br>''(旋律이 誕生하는 空房) <br> [seon-yul-i tansaenghaneun gongbang]''
+|-
+! rowspan=2 | Vietnamese<br>Tiếng Việt<br>(㗂越)
+! Làng Giấc Mơ <br>''（廊𥋏𢠩）''
+! Thung Lũng Hermit <br>''（舂壟 Hermit）''
+! Nhà hát Làng <br>''（茹欱廊）''
+! Cửa hàng Âm nhạc <br>''（𨷯行音樂）''
+|-
+| Một tia lửa mới truyền cảm hứng cho một cộng đồng khiêm tốn <br>''（𠬠𣈢焒㵋傳感興朱𠬠共同謙遜）''
+| Ngôi nhà của người khổng lồ với trái tim hiền lành <br>''（𡾵茹𧵑𠊛孔路𠇍𬃻心䝨伶）''
+| Một địa điểm có nhiều vai trò. <br>''（𠬠地點固𡗉𦠘𠻀.）''
+| Những giai điệu đang được viết nên <br>''（仍階調當特𢪏𢧚）''
+|-
+! rowspan=2 | Indonesian<br>Bahasa Indonesia
+! Desa Impian
+! Lembah Pertapa
+! Teater Desa
+! Aula Harmoni
+|-
+| Percikan baru menginspirasi komunitas yang sederhana
+| Rumah sang raksasa dengan hati lembut
+| Teman untuk memainkan banyak bagian.
+| Melodi sedang disusun
+|-
+! rowspan="2" |Thai<br>ภาษาไทย
+!หมู่บ้านแห่งความฝัน <br>''[H̄mū̀b̂ān h̄æ̀ng khwām f̄ạn]''
+!หุบเขานักบวช <br>''[H̄ubk̄heā nạkbwch]''
+!โรงละครหมู่บ้าน <br>''[Rong lakhr h̄mū̀b̂ān]''
+!โถงแห่งความปรองดอง <br>''[T̄hong h̄æ̀ng khwām prxngdxng]''
+|-
+|ประกายแสงใหม่ที่สร้างแรงบันดาลใจให้กับชุมชนที่ถ่อมตัว <br>''[prakāy s̄æng h̄ım̀ thī̀ s̄r̂āng ræng bạndāl cı h̄ı̂ kạb chumchn thī̀ t̄h̀xm tạw]''
+|บ้านของยักษ์ผู้มีจิตใจอันอ่อนโยน <br>''[b̂ān k̄hxng yạks̄ʹ̒ p̄hū̂ mī citcı xạn x̀xn yon]''
+|สถานที่ที่มีหลายส่วนให้เล่น <br>''[s̄t̄hān thī̀ thī̀ mī h̄lāy s̄̀wn h̄ı̂ lèn]''
+|กำลังเรียบเรียงท่วงทำนอง <br>''[kảlạng reīyb reīyng th̀wngthảnxng]''
+|}
+
+=== Golden Wasteland ===
+The Golden Wasteland has two Seasonal Areas with an Opening Quote: Forgotten Ark ([[Season of Enchantment]], 2020-04-20 to 2020-04-21) and the Treasure Reef ([[Season of Abyss]], 2022-01-17 to 2022-03-27). The Opening Quote for the Forgotten Ark change with the completion status of the Quests.<br>
+<br>
+{| class="fandom-table"
+<!--! rowspan="2" |Codename
+!<code>oasis_01</code>
+!(After Completed Quests)
+!<code>title_dusk_triangle_01</code> and <code>name_dusktriangle</code>*
+|-
+|<code>oasis_02</code>
+|<code>oasis_03</code>
+|<code>itle_dusk_triangle_02</code>
+|--->
+! rowspan="2" | English
+! colspan="2" | Forgotten Ark
+! Treasure Reef
+|-
+| What was covered in the sand?
+| An enchanted pearl in the Golden Wasteland
+| What lies beneath the water?
+|-
+! rowspan=2 | French<br>Français 
+! colspan="2" | Arche oubliée
+! Récif du trésor
+|-
+| Qu'est-ce qui était recouvert par le sable ?
+| Une perle enchantée dans le Désert d'or
+| Qu'est-ce qui se cache sous la surface ?
+|-
+! rowspan=2 | Spanish<br>Español
+! colspan="2" | Arca Olvidada
+! Coral del tesoro
+|-
+| ¿Qué cubría la arena?
+| Una perla encantada en el Páramo Dorado
+| ¿Qué hay debajo del agua?
+|-
+! rowspan=2 | Portuguese<br>Português
+! colspan="2" | Arca esquecida
+! Recife do Tesouro
+|-
+| O que a areia cobria?
+| Uma pérola encantada no Sertão Dourado
+| O que há sob a água?
+|-
+! rowspan=2 | Italian<br>Italiano
+! colspan="2" | Arca Dimenticata
+! Scogliera del Tesoro
+|-
+| Cosa c'era sotto la sabbia?
+| Una perla incantata nel Deserto Dorato
+| Cosa c'è sotto la superficie?
+|-
+! rowspan=2 | German<br>Deutsch
+! colspan="2" | Vergessene Arche
+! Schatzriff
+|-
+| Was lag im Sand begraben?
+| Eine verzauberte Perle in der goldenen Ödnis
+| Was verbirgt sich unter dem Wasser?
+|-
+! rowspan=2 | Russian<br>Русский
+! colspan="2" | Забытый ковчег <br>''[Zabytyy kovcheg]''
+! Остров сокровищ <br>''[Ostrov sokrovishch]''
+|-
+| Что скрывалось под песком? <br>''[Chto skryvalos' pod peskom?]''
+| Волшебная жемчужина Золотой пустоши <br>''[Volshebnaya zhemchuzhina Zolotoy pustoshi]''
+| Что скрыто под водой? <br>''[Chto skryto pod vodoy?]''
+|-
+! rowspan=2 | Chinese (Simplified)<br>简体中文
+! colspan="2" | 失落方舟 <br>''[Shī Luò Fāng Zhōu]''
+! 宝藏暗礁 <Br>''[Bǎo Zàng Àn Jiāo]''
+|-
+| 沙漠中藏着何等珍宝？ <br>''[Shā mò zhōng cáng ·zhe hé děng zhēn bǎo?]''
+| 暮土之珠 <br>''[Mù tǔ zhī zhū]''
+| 水下藏着些什么？ <br>''[Shuǐ xià cáng ·zhe xiē shén ·me?]''
+|-
+! rowspan=2 | Chinese (Simplified, NetEase)<br>简体中文（国服）
+! colspan="2" | 失落方舟 <br>''[Shī Luò Fāng Zhōu]''
+! 藏宝岛礁 <br>''[Cáng Bǎo Dǎo Jiāo]''
+|-
+| 在黄沙之下，掩埋着什么呢？ <br>''[Zài huáng shā zhī xià, yǎn mái ·zhe shén ·me ·ne?]''
+| 黄沙下的魔法珍珠 <br>''[Huáng shā xià ·de mó fǎ zhēn zhū]''
+| 水下会藏着什么秘密呢？ <br>''[Shuǐ xià huì cáng ·zhe shén me mì ·mi ·ne?]''
+|-
+! rowspan=2 | Chinese (Traditional)<br>正體中文
+! colspan="2" | 失落方舟 <br>''[sat1 lok6 fong1 zau1]''
+! 寶礁 <br>''[bou2 ziu1]''
+|-
+| 沙漠中藏著何等珍寶？ <br>''[saa1 mok6 zung1 cong4 zoek6 ho4 dang2 zan1 bou2?]''
+| 暮土之珠 <br>''[mou6 tou2 zi1 zyu1]''
+| 水下有什麼？ <br>''[seoi2 haa6 jau5 mat1 je5?]''
+|-
+! rowspan=2 | Japanese<br>日本語
+! colspan="2" |忘れられた方舟 <br>''(わすれられたはこぶね)<br>[Wasure rareta hakobune]''
+!秘宝の環礁 <br>''(ひほうのかんしょう)<br>[Hihō no kansyō]''
+|-
+| − 遠い昔日は、砂にうずもれたまま − <br>''(とおいせきじつは、すなにうずもれたまま)<br>[Tōi sekizitu wa, suna ni uzumoreta mama]''
+| − 魔法を追い風に、舟は再び帆走る − <br>''(まほうのおいかぜに、ふねはふたたびほはしる)<br>[Mahō o oikaze ni, hune wa hutatabi ho hasiru]''
+| − 深奥に沈む、悠久の未知 − <br>''(しんおうにしずむ、ゆうきゅうのみち)<br>[Sin'ō ni sizumu, yūkyū no miti]''
+|-
+! rowspan=2 | Korean<br>한국어<br>(韓國語)
+! colspan="2" | 잊혀진 방주 <br>''(잊혀진 方舟) <br> [ijhyeojin bangju]''
+! 보물섬 <br>''(寶物섬) <br> [bomulseom]''
+|-
+| 모래 속에 무엇이 묻혀 있을까요? <br>''[molae sog-e mueos-i mudhyeo iss-eulkkayo?]''
+| 황금 황무지에 묻힌 마법의 진주 <br>''(黃金 荒蕪地에 묻힌 魔法의 眞珠) <br> [hwang-geum hwangmujie mudhin mabeob-ui jinju]''
+| 물 속에 무엇이 잠겨 있을까요? <br>''(沕 속에 무엇이 잠겨 있을까요?) <br> [mul sog-e mueos-i jamgyeo iss-eulkkayo?]''
+|-
+! rowspan=2 | Vietnamese<br>Tiếng Việt<br>(㗂越)
+! colspan="2" | Hòm Lãng Quên <br>''（函𢥉悁）''
+! Rạn San Hô Kho Báu <br>''（䃹珊瑚庫寶）''
+|-
+| Thứ gì được phủ dưới lớp cát? <br>''（次之特撫𠁑笠𡋥?）''
+| Một viên ngọc trai mê hoặc ở Hoang Mạc Hoàng Kim <br>''（𠬠圓玉𧕚迷惑於荒漠黃金）''
+| Thứ gì nằm bên dưới mặt nước? <br>''（次之𦣰边𠁑𩈘渃?）''
+|-
+! rowspan=2 | Indonesian<br>Bahasa Indonesia
+! colspan="2" | Tabut Terlupakan
+! Karang Harta Karun
+|-
+| Apa yang terkubur dalam pasir?
+| Mutiara ajaib di Gurun Emas
+|Apa yang tersimpan di kedalaman air?
+|-
+! rowspan="2" |Thai<br>ภาษาไทย
+! colspan="2" |เรือที่ถูกลืม <br>''[Reụ̄x thī̀ t̄hūk lụ̄m]''
+!แนวปะการังสมบัติ <br>''[Næw pakārạng s̄mbạti]''
+|-
+|สิ่งใดถูกผืนทรายปกคลุมอยู่ <br>''[S̄ìng dı t̄hūk p̄hụ̄n thrāy pkkhlum xyū̀]''
+|ไข่มุกอันน่าหลงใหลในแดนร้างทองอร่าม <br>''[K̄hị̀muk xạn ǹā h̄lngh̄ıl nı dæn r̂āng thxng xr̀ām]''
+|อะไรอยู่ใต้น้ำกันนะ <br>''[Xarị xyū̀ tı̂ n̂ả kạn na]''
+|}
+<!--<nowiki>*:</nowiki> Not prefixed with <code>title_</code>.-->
+
+=== Vault of Knowledge ===
+The Vault of Knowledge has four areas with an Opening Quote: Starlight Desert, Dream of A Little Friend, and Land of Tears (all added in the [[Season of The Little Prince]], 2021-07-06 to 2021-09-19), and Repository of Refuge ([[Season of Remembrance]], 2023-01-16 to 2023-04-02). 
+
+The Sky Memorial was added to the Starlight Desert in June 2023 after the passing of Don Heim, TGC's IT Security Manager.
+
+The Dream of A Little Friend seasonal area changed its name to Belt of Asteroids some time between 0.24.2 to 0.29.2.<br>
+<br>
+{| class="fandom-table"
+<!--! rowspan="2" |Codename
+!<code>nightdesert_01</code>
+!<code>sky_memorial_01</code>
+!<code>lp_planet_01</code>
+!<code>infinitedesert_01</code>
+!<code>night_shelter_01</code>
+!<code>night_paintedworld_01</code>
+!<code>night_paintedworld_03</code>
+|-
+|<code>nightdesert_02</code>
+|<code>sky_memorial_02</code>
+|<code>lp_planet_02</code>
+|<code>infinitedesert_02</code>
+|<code>night_shelter_02</code>
+|<code>night_paintedworld_02</code>
+|<code>night_paintedworld_04</code>
+|--->
+! rowspan="2" | English
+! Starlight Desert
+!Sky Memorial
+! Belt of Asteroids
+! Land of Tears
+! Repository of Refuge
+!Crescent Oasis
+!Royal Palace
+|-
+| Where dreamlike worlds collide.
+|In loving memory of Don Heim and all the loved ones we've lost
+| For travelers, the stars are guides.
+| The loveliest and saddest landscape in the world.
+| Where the past meets the present
+|Home of the Nine-Colored Deer
+|Heart of the Kingdom
+|-
+! rowspan="2" | French<br>Français
+! Désert stellaire
+!Mémorial de Sky
+! Ceinture d'astéroïdes
+! Terre de larmes
+! Dépôt du refuge
+!Oasis du croissant
+!Palais Royal
+|-
+| Où les mondes oniriques se rencontrent.
+|À notre très cher Don Heim et à tous les êtres chers que nous avons perdus
+| Pour les uns, qui voyagent, les étoiles sont des guides.
+| Le paysage le plus beau et le plus triste au monde.
+| Aidez les esprits en peine à trouver la paix
+|Territoire du cerf au neuf couleurs
+|Cœur du Royaume
+|-
+! rowspan="2" | Spanish<br>Español
+! Desierto luz de estrellas
+!Monumento de conmemoración de Sky
+! Cinturón de asteroides
+! País de las lágrimas
+! Almacén de refugio
+!Oasis creciente
+!Palacio Real
+|-
+| Donde los mundos de ensueño se encuentran.
+|En memoria de Don Heim y todos los seres queridos que perdimos.
+| Para los que viajan, las estrellas son sus guías.
+| El paisaje más hermoso y el más triste del mundo.
+| Ayuda a los espíritus afligidos a encontrar la paz
+|Hogar del ciervo de los nueve colores
+|Corazón del Reino
+|-
+! rowspan="2" | Portuguese<br>Português
+! Deserto da Luz Estelar
+!Memorial do Sky
+! Cinturão de Asteroides
+! País das Lágrimas
+! Repositório do Refúgio
+!Oásis Crescente
+!Palácio Real
+|-
+| Onde mundos de sonhos se encontram.
+|Em homenagem a Don Heim e todos os entes queridos que se foram
+| Para os viajantes, as estrelas são guias.
+| A mais bela paisagem do mundo... e também a mais triste.
+| Ajude os espíritos aflitos a encontrar a paz
+|Lar do Cervo de Nove Cores
+|Coração do Reino
+|-
+! rowspan="2" | Italian<br>Italiano
+! Deserto Stellare
+!Monumento di Sky
+! Fascia di asteroidi
+! Paese delle lacrime
+! Cripta di rifugio
+!Oasi a Mezzaluna
+!Palazzo Reale
+|-
+| Dove i mondi da sogno si scontrano.
+|Nel ricordo affettuoso di Don Heim e di tutti i cari che abbiamo perso
+| Per quelli che viaggiano, le stelle sono delle guide.
+| Il più bello e il più triste paesaggio del mondo.
+| Aiuta gli spiriti addolorati a trovare la pace
+|Casa del Cervo dai nove colori
+|Cuore del Regno
+|-
+! rowspan="2" | German<br>Deutsch
+! Sternenlichtwüste
+!Sky-Denkmal
+! Asteroidengürtel
+! Land der Tränen
+! Archiv der Zuflucht
+!Sicheloase
+!Königspalast
+|-
+| Wo traumähnliche Welten aufeinandertreffen.
+|In liebevoller Erinnerung an Don Heim und alle geliebten Menschen, die wir verloren haben
+| Für Reisende sind die Sterne Helfer.
+| Die wunderbarste und traurigste Landschaft, die es gibt.
+| Hilf den trauernden Geistern, Frieden zu finden
+|Zuhause des Neunfarbigen Hirsches
+|Herz des Königreichs
+|-
+! rowspan="2" | Russian<br>Русский
+! Звездная пустыня <br>''[Zvezdnaya pustynya]''
+!Памятник Неба <br>''[Pamyatnik Neba]''
+! Пояс астероидов <br>''[Poyas asteroidov]''
+! Страна слез <br>''[Strana slez]''
+! Защищенный тайник <br>''[Zashchishchennyy taynik]''
+!Лунный оазис <br>''[Lunnyy oazis]''
+!Королевский дворец <br>''[Korolevskiy dvorets]''
+|-
+| Место, где пересекаются удивительные миры. <br>''[Mesto, gde peresekayutsya udivitel'nyye miry.]''
+|Светлая память Дону Хайму (Don Heim) и всем, кого мы потеряли <br>''[Svetlaya pamyat' Donu Khaymu (Don Heim) i vsem, kogo my poteryali]''
+| Тем, кто странствует, звезды указывают путь <br>''[Tem, kto stranstvuyet, zvezdy ukazyvayut put']''
+| Самый прекрасный и самый печальный пейзаж в мире. <br>''[Samyy prekrasnyy i samyy pechal'nyy peyzazh v mire.]''
+| Помогите горюющему духу обрести покой <br>''[Pomogite goryuyushchemu dukhu obresti pokoy]''
+|Дом Девятицветного оленя <br>''[Dom Devyatitsvetnogo olenya]''
+|Сердце Королевства <br>''[Serdtse Korolevstva]''
+|-
+! rowspan="2" | Chinese (Simplified)<br>简体中文
+! 星漠 <Br>''[Xīng Mò]''
+!Sky 纪念碑 <Br>''[Sky Jì Niàn Bēi]''
+! 小行星带 <Br>''[Xiǎo Háng Xīng Dài]''
+! 泪水的世界 <Br>''[Lèi Shuǐ ·De Shì Jiè]''
+! 难民贮藏室 <Br>''[Nàn Mín Zhù Cáng Shì]''
+!月牙绿洲 （Previously “新月绿洲”） <Br>''[Yuè Yá Lǜ Zhōu]''
+!皇宫 <Br>''[Huáng Gōng]''
+|-
+| 梦幻般的世界在此交汇。 <br>''[Mèng huàn bān ·de shì jiè zài cǐ jiāo huì]''
+|以此纪念 Don Heim 以及所有逝去的至親好友  <br>''[Yǐ cǐ jì niàn  Don Heim yǐ jí suǒ yǒu shì qù ·de zhì qīn hǎo yǒu]'' <ref>There is a typo in this Quote. The phrase “至親好友” (“loved ones”) were in Traditional Chinese instead of Simplified Chinese. The correct Simplified Chinese phrase should be “至亲好友,” and TGC staff forgot to convert it. This error is preserved here in this page until TGC corrects it in the Live version of the game.
+<br>
+此处存在一个错别字。「至親好友」中的「親」字误用了繁体字，应为简体字「至亲好友」。TGC员工忘记了将其转换为简体中文。此错误在此予以保留，直至TGC在正式版游戏中将其更正。</ref>
+| 对于旅行者而言，星星就是向导。 <br>''[Duì yú lǚ háng zhě ér yán, xīng ·xing jiù shì xiàng dǎo.]''
+| 世界上最迷人，也是最悲伤的风景。 <br>''[Shì jiè shàng zuì mí rén, yě shì zuì bēi shāng ·de fēng jǐng]''
+| 帮助悲伤的先灵得到安宁 <br>''[Bāng zhù bēi shāng ·de xiān líng dé dào ān níng]''
+|瑰丽的异域世界（previously “九色鹿的家园”） <br>''[Guī lì ·de yì yù shì jiè]''
+|王国的心脏 <br>''[Wáng guó ·de xīn zāng]''
+|-
+! rowspan="2" | Chinese (Simplified, NetEase)<br>简体中文（国服）
+! 星光沙漠 <Br>''[Xīng Guāng Shā Mò]''
+!光遇纪念馆 <Br>''[Guāng Yù Jì Niàn Guǎn]''
+! 小王子的梦 <Br>''[Xiǎo Wáng Zǐ ·De Mèng]''
+! 泪水的世界 <Br>''[Lèi Shuǐ ·De Shì Jiè]''
+! 庇护所 <Br>''[Bì Hù Suǒ]''
+!月牙绿洲 <Br>''[Yuè Yá Lǜ Zhōu]''
+!宫殿 <Br>''[Gōng Diàn]''
+|-
+| 梦幻般的世界在此碰撞 <br>''[Mèng huàn bān ·de shì jiè zài cǐ pèng zhuàng]''
+|以纪念多恩·海姆以及所有我们失去的所爱之人 <br>''[Yǐ jì niàn duō ēn · hǎi mǔ yǐ jí suǒ yǒu wǒ ·men shī qù ·de suǒ ài zhī rén]''
+| 对于旅行者而言，星星就是向导 <br>''[Duì yú lǚ háng zhě ér yán, xīng ·xing jiù shì xiàng dǎo.]''
+| 世界上最迷人，也是最悲伤的风景 <br>''[Shì jiè shàng zuì mí rén, yě shì zuì bēi shāng ·de fēng jǐng.]''
+| 过去与现在相遇之处 <br>''[Guò qù yǔ xiàn zài xiàng yù zhī chù.]''
+|瑰丽的异域世界 <br>''[Guī lì ·de yì yù shì jiè]''
+|王国的中心 <br>''[Wáng guó ·de zhōng xīn]''
+|-
+|-
+! rowspan="2" | Chinese (Traditional)<br>正體中文
+! 星漠 <br>''[sing1 mok6]''
+!Sky 紀念碑 <br>''[Sky gei2 nim6 bei1]''
+! 小行星帶 <br>''[siu2 hang4 sing1 daai3]''
+! 淚水的世界 <br>''[leoi6 seoi2 ge3 sai3 gaai3]''
+! 知識庫避難所 <br>''[zi1 sik fu3 bei3 naan6 so2]''
+!新月綠洲 <br>''[san1 jyut6 luk6 zau1]''
+!皇宮 <br>''[wong4 gung1]''
+|-
+| 夢幻般的世界在此交匯。 <br>''[mung6 waan6 bun1 ge3 sai3 gaai3 zoi6 ci2 gaau1 wui6]''
+|以此紀念 Don Heim 以及所有逝去的至親好友 <br>''[ji5 ci2 gei2 nim6 Don Heim ji5 kap6 so2 jau5 sai6 heoi3 ge3 zi3 can1 hou2 jau5]''
+| 對於旅行者而言，星星就是嚮導。 <br>''[deoi3 jyu1 leoi5 hang4 ze2 ji4 jin4, sing1 sing1 zau6 si6 hoeng3 dou6.]''
+| 世界上最迷人，也是最悲傷的風景。 <br>''[sai3 gaai3 soeng6 zeoi3 mai4 jan4, jaa5 si6 zeoi3 bei1 soeng1 ge3 fung1 ging2]''
+| 幫助哀傷的先靈找到平靜 <br>''[bong1 zo6 oi1 soeng1 dik1 sin1 ling4 zaau2 dou3 ping4 zing6]''
+|九色鹿的家園 <br>''[gau2 sik1 luk6 ge3 gaa1 jyun4]''
+|王國的心臟 <br>''[wong4 gwok3 ge3 sam1 zong6]''
+|-
+! rowspan="2" | Japanese<br>日本語
+! 星月夜の砂漠 <br>''(ほしづきよのさばく)<br>[Hosidukiyo no sabaku]''
+!Sky 憶いの碑 <br>''(Sky おもいのいしぶみ)<br>[Sky omoi No Isibumi]''
+! 小惑星帯 <br>''(しょうわくせいおび)<br>[Syōwakusei obi]''
+! 涙の国 <br>''(なみだのくに)<br>[Namida no kuni]''
+! 君憶う保存庫 <br>''(きみおもうほぞんこ)<br>[Kimiomou hozon ko]''
+!三日月オアシス <br>''(みかづにオアシス)<br>[Mikaduki oasisu]''
+!宮殿 <br>''(きゅうでん)<br>[Kyūden]''
+|-
+| − 巡り合う、二つの美しき世界 − <br>''(めぐりあう、ふたつのうつくしきせかい)<br>[Meguriau, hutatu no utukusiki sekai]''
+|− 親愛なるドン・ハイムと、旅立ったすべての愛しい光を偲んで − <br>''(しんあいなるドン・ハイムと、たびだったすべてのいとしいひかりをしのんで)<br>[Sin'ainaru don haimu to, tabidatta subete no itosī hikari o sinonde]''
+| − 星々は、旅人たちの案内者 − <br>''(ほしぼしは、たびびとたちのあんないしゃ)<br>[hosibosi wa, tabibito-tati no an'nai-sya]''
+| − この世の中で一番美しく、一番悲しい景色 − <br>''(このよのなかでいちばんうつくしく、いちばんかなしいけしき)<br>[kono yo no naka de itiban utukusiku, itiban kanashī kesiki]'' 
+| − 過去と今とが交叉する場所 − <br>''(かこといまとがこうさするばしょ)<br>[kako to ima to ga kōsa suru basyo]''
+|九色の鹿の在り処 <br>''(きゅうしょくのしかのありか)<br>[kyū-syoku no sika no arika]''
+|国の中枢を担う地 <br>''(くにのちゅうすうをになうち)<br>[kuni no tyūsū o ninau ti]''
+|-
+! rowspan="2" | Korean<br>한국어<br>(韓國語)
+! 별빛 사막 <br>''(별빛 沙漠) <br> [byeolbich samag]''
+!Sky 기념비 <br>''(Sky 記念碑) <br> [Sky ginyeombi]''
+! 소행성대 <br>''(小行星帶) <br> [sohaengseongdae]''
+! 눈물의 땅 <br>''[nunmul-ui ttang]''
+! 피난의 보관소 <br>''(避難의 保管所) <br> [pinan-ui bogwanso]''
+!초승달 오아시스 <br>''(初升달 Oasis) <br> [choseungdal oasiseu]''
+!왕궁 <br>''(王宮) <br> [wang-gung]''
+|-
+| 몽환적인 세계들이 만나는 공간 <br>''(夢幻的인 世界들이 만나는 空間) <br> [monghwanjeog-in segyedeul-i mannaneun gong-gan]''
+|던 하임을 비롯해 우리 곁을 떠난 사랑하는 이 모두를 추모합니다 <br>''(Don Heim을 비롯해 우리 곁을 떠난 사랑하는 이 모두를 追慕합니다) <br> [deon haim-eul biloshae uli gyeot-eul tteonan salanghaneun i moduleul chumohabnida]''
+| 별이 여행자를 인도합니다 <br>''(별이 旅行者를 引導합니다) <br> [byeol-i yeohaengjaleul indohabnida]''
+| 세상에서 가장 아름답고 가장 쓸쓸한 풍경 <br>''(世上에서 가장 아름답고 가장 쓸쓸한 風景) <br> [sesang-eseo gajang aleumdabgo gajang sseulsseulhan pung-gyeong]''
+| 비탄에 잠긴 영혼이 마음의 평화를 찾도록 도와주세요 <br>''(悲嘆에 잠긴 靈魂이 마음의 平和를 찾도록 도와주세요) <br> [bitan-e jamgin yeonghon-i ma-eum-ui pyeonghwaleul chajdolog dowajuseyo]''
+|아홉 빛깔 사슴의 안식처 <br>''(아홉 빛깔 사슴의 安息處) <br> [ahob bichkkal saseum-ui ansigcheo]''
+|왕국의 심장 <br>''(王國의 心臟) <br> [wang-gug-ui simjang]''
+|-
+! rowspan="2" | Vietnamese<br>Tiếng Việt<br>(㗂越)
+! Hoang Mạc Ánh Sao <br>''（荒漠映𣇟）''
+!Đài Tưởng Niệm Sky <br>''（臺想念 Sky）''
+! Vành Đai Tiểu Hành Tinh <br>''（鑅墆小行星）''
+! Thế Giới Nước Mắt <br>''（世界渃眜）''
+! Kho Trú Ẩn <br>''（庫住隱）''
+!Ốc Đảo Trăng Khuyết <br>''（屋島𦝄缺）''
+!Cung điện Hoàng gia <br>''（宮殿皇家）''
+|-
+| Nơi giao nhau của thế giới mộng mơ. <br>''（尼交僥𧵑世界夢𥊚）''
+|Tưởng nhớ Don Heim và những người thân yêu đã khuất của chúng ta <br>''（想𢖵Don Heim吧仍𠊛身㤇㐌闃𧵑眾些）''
+| Đối với các lữ khách, những ngôi sao là người dẫn đường. <br>''（対𠇍各旅客，仍𡾵𣇟羅𠊛引塘）''
+| Phong cảnh đáng yêu nhất và buồn nhất trên thế gian. <br>''（風景當㤇一吧𢞂一𨕭世間）''
+| Nơi quá khứ và hiện tại giao nhau <br>''（尼過去吧現在交僥）''
+|Nhà của Cửu Sắc Lộc <br>''（茹𧵑九色鹿）''
+|Trái tim của Vương quốc <br>''（𬃻心𧵑王國）''
+|-
+! rowspan="2" | Indonesian<br>Bahasa Indonesia
+! Gurun Cahaya Bintang
+!Tugu Peringatan Langit
+! Sabuk Asteroid
+! Negeri Air Mata
+! Gudang Pengungsi
+!Oasis Bulan Sabit
+!Istana Kerajaan
+|-
+| Tempat dunia seperti mimpi bertabrakan.
+|Untuk mengenang Don Heim dan semua orang tercinta yang telah tiada
+| Bagi pengembara, bintang adalah pemandu.
+| Lanskap paling indah dan paling sendu di dunia.
+| Bantu para arwah yang berduka menemukan kedamaian
+|Rumah bagi Rusa Sembilan Warna
+|Jantung Kerajaan
+|-
+! rowspan="2" |Thai<br>ภาษาไทย
+!ทะเลทรายแสงดาว <br>''[Thale thrāy s̄æng dāw]''
+!อนุสรณ์สถานแห่ง Sky <br>''[Xnus̄rṇ̒ s̄t̄hān h̄æ̀ng Sky]''
+!เข็มขัดดาวเคราะห์น้อย <br>''[K̄hĕmk̄hạd dāw kherāah̄̒ n̂xy]''
+!ดินแดนแห่งน้ำตา <br>''[Din dæn h̄æ̀ng n̂ảtā]''
+!โกดังลี้ภัย <br>''[Kodạng lī̂ p̣hạy]''
+!โอเอซิสจันทร์เสี้ยว <br>''[Xoxesis̄ cạnthr̒ s̄eī̂yw]''
+!พระราชวัง <br>''Phrarāchwạng]''
+|-
+|สถานที่ซึ่งโลกแห่งความฝันมาบรรจบกัน <br>''[S̄t̄hān thī̀ sụ̀ng lok h̄æ̀ng khwām f̄ạn mā brrcb kạn]''
+|ด้วยความรักและความทรงจำถึงดอน เฮม และทุกคนที่เรารักซึ่งได้จากเราไป <br>''[d̂wy khwām rạk læa khwām thrng cả t̄hụng dxn ḥem læa thuk khn thī̀ reā rạk sụ̀ng dị̂ cāk reā pị]''
+|สำหรับนักเดินทางแล้ว ดวงดาวนั้นเปรียบเสมือนเครื่องนำทาง <br>''[s̄ảh̄rạb nạk dein thāng læ̂w dwngdāw nận perīyb s̄emụ̄xn kherụ̄̀xng nảthāng]''
+|ทิวทัศน์น่ารื่นรมย์และเศร้าโศกที่สุดในโลก <br>''[thiwthạṣ̄n̒ ǹā rụ̄̀nrmy̒ læa ṣ̄er̂ā ṣ̄ok thī̀s̄ud nı lok]''
+|สถานที่ซึ่งอดีตและปัจจุบันมาบรรจบกัน <br>''[s̄t̄hān thī̀ sụ̀ng xdīt læa pạccubạn mā brrcb kạn]''
+|บ้านของกวางเก้าสี <br>''[b̂ān k̄hxng kwāng kêā s̄ī]''
+|หัวใจของอาณาจักร <br>''[h̄ạwcı k̄hxng xāṇācạkr]''
+|}
+
+=== Secret Area ===
+The Cackling Crab is a special area in the [[Secret Area]] (Office) that is accessible only during [[Days of Mischief]].<br>
+<br>
+{| class="fandom-table"
+<!--! rowspan="2" |Codename
+!<code>mischief_01</code>
+|-
+|<code>mischief_02</code>
+|--->
+! rowspan=2 | English
+! The Cackling Crab
+|-
+| Sweets and secrets in spooky places
+|-
+! rowspan=2 | French<br>Français
+! Le crabe caquetant
+|-
+| Des sucreries et secrets dans des endroits effrayants
+|-
+! rowspan=2 | Spanish<br>Español
+! El cangrejo carcajeante
+|-
+| Dulces y secretos en lugares tenebrosos
+|-
+! rowspan=2 | Portuguese<br>Português
+! O caranguejo cacarejante
+|-
+| Doces e segredos em lugares assustadores
+|-
+! rowspan=2 | Italian<br>Italiano
+! Il granchio schiamazzante
+|-
+| Dolcetti e segreti in luoghi spettrali
+|-
+! rowspan=2 | German<br>Deutsch
+! Der gackernde Krebs
+|-
+| Süßes und Geheimnisse an gruseligen Orten
+|-
+! rowspan=2 | Russian<br>Русский
+! Клацающий краб <br>''[Klatsayushchiy krab]''
+|-
+| Сладости и секреты в жутких местах <br>''[Sladosti i sekrety v zhutkikh mestakh]''
+|-
+! rowspan=2 | Chinese (Simplified)<br>简体中文
+! 嘎吱嘎吱的螃蟹 <br>''[Gā Zhī Gā Zhī ·De Páng Xiè]''
+|-
+| 藏在恐怖之地的糖果与秘密 <br>''[Cáng zài kǒng bù zhī dì ·de táng guǒ yǔ mì mì]''
+|-
+! rowspan=2 | Chinese (Simplified, NetEase)<br>简体中文（国服）
+! 螃蟹的恶搞派对 <br>''[Páng Xiè ·De È Gǎo Pài Duì]''
+|-
+| 趣味纷呈的恶搞派对 <br>''[Qù wèi fēn chéng ·de è gǎo pài duì]''
+|-
+! rowspan=2 | Chinese (Traditional)<br>正體中文
+! 嘎吱嘎吱的螃蟹 <br>''[gaa1 zi1 gaa1 zi1 ge3 pong4 haai6]''
+|-
+| 藏在恐怖之地的糖果與祕密 <br>''[cong4 zoi6 hung2 bou6 zi1 dei6 ge3 tong4 gwo2 jyu5 bei3 mat6]''
+|-
+! rowspan=2 | Japanese<br>日本語
+! カチカチ蟹穴 <br>''(かちかちかにあな)<br>[kati-kati kani-ana]''
+|-
+| − スウィーツもヒミツも、全ては不気味な穴の底 − <br>''(スウィーツもヒミツも、すべてはぶきみなあなのそこ)<br>[Suwītu mo himitu mo, subete wa bukimina ana no soko]''
+|-
+! rowspan=2 | Korean<br>한국어<br>(韓國語)
+! 수다쟁이 게 <br>''(수다쟁이 蟹) <br> [sudajaeng-i ge]''
+|-
+| 으스스한 곳에 숨겨진 달콤한 간식과 비밀 <br>''(으스스한 곳에 숨겨진 달콤한 間食과 秘密) <br> [euseuseuhan gos-e sumgyeojin dalkomhan gansiggwa bimil]''
+|-
+! rowspan=2 | Vietnamese<br>Tiếng Việt<br>(㗂越)
+! Cua Lải Nhải <br>''（𧍆唻耳）''
+|-
+| Kẹo và bí mật ở nơi ma quái <br>''（𥼱吧秘密於尼魔怪）''
+|-
+! rowspan=2 | Indonesian<br>Bahasa Indonesia
+! Kepiting Terkekeh
+|-
+| Permen dan rahasia di tempat menyeramkan
+|-
+! rowspan="2" |Thai<br>ภาษาไทย
+!ปูผู้ขบขัน <br>''[Pū p̄hū̂ k̄hbk̄hạn]''
+|-
+|ขนมหวานและความลับในสถานที่อันน่ากลัว <br>''[K̄hnm h̄wān læa khwām lạb nı s̄t̄hān thī̀ xạn ǹā klạw]''
+|}
+
+=== Ancient Memory ===
+The [[Season of Shattering]] introduced a special void space, the Ancient Memory, which also has an Opening Quote.<br>
+<br>
+{| class="fandom-table"
+<!--! rowspan="2" |Codename
+!<code>stormy_void_memeory_01</code>
+|-
+|<code>stormy_void_memeory_02</code>
+|--->
+! rowspan=2 | English
+! Ancient Memory
+|-
+| A piece of frozen memory from Eye of Eden.
+|-
+! rowspan=2 | French<br>Français 
+! Souvenir ancien
+|-
+| Un fragment de souvenir gelé de l'Œil d'Éden.
+|-
+! rowspan=2 | Spanish<br>Español
+! Recuerdo ancestral
+|-
+| Una recuerdo congelado del Ojo de Edén.
+|-
+! rowspan=2 | Portuguese<br>Português
+! Lembrança Antiga
+|-
+| Uma parte de lembrança congelada do Olho de Éden.
+|-
+! rowspan=2 | Italian<br>Italiano
+! Ricordo antico
+|-
+| Frammento di un ricordo congelato dall'Occhio di Eden.
+|-
+! rowspan=2 | German<br>Deutsch
+! Uralte Erinnerung
+|-
+| Ein gefrorenes Erinnerungsstück aus dem Auge von Eden.
+|-
+! rowspan=2 | Russian<br>Русский
+! Древнее воспоминание <br>''[Drevneye vospominaniye]''
+|-
+| Отрывок замерзшего воспоминания из Сердца Эдема. <br>''[Otryvok zamerzshego vospominaniya iz Serdtsa Edema.]''
+|-
+! rowspan=2 | Chinese (Simplified)<br>简体中文
+! 上古记忆 <br>''[Shàng Gǔ Jì Yì]''
+|-
+| 一段来自暴风眼的冻结记忆。 <br>''[Yí duàn lái zì bào fēng yǎn ·de dòng jié jì yì.]''
+|-
+! rowspan=2 | Chinese (Simplified, NetEase)<br>简体中文（国服）
+! 远古回忆 <br>''[Yuǎn Gǔ Huí Yì]'' 
+|-
+| 一段冻结在伊甸之眼的远古回忆 <br>''[Yí duàn dòng jié zài yī diàn zhī yǎn ·de yuǎn gǔ huí yì]''
+|-
+! rowspan=2 | Chinese (Traditional)<br>正體中文
+! 上古記憶  <br>''[soeng6 gu2 gei3 jik1]''
+|-
+| 來自暴風眼的一段冰封記憶。 <br>''[loi4 zi6 bou6 fung1 ngaan5 ge3 jat1 dyun6 bing1 fung1 gei3 jik1]''
+|-
+! rowspan=2 | Japanese<br>日本語
+! いにしえの追想 <br>''(いにしえのついそう)<br>[inisie no tuisō]''
+|-
+| − 原罪に継がれし、凍てつく伝承 − <br>''(げんざいにつがれし、いてつくでんしょう)<br>[Genzai ni tugaresi, itetuku densyō]''
+|-
+! rowspan=2 | Korean<br>한국어<br>(韓國語)
+! 고대의 기억 <br>''(古代의 記憶) <br> [godaeui gieog]''
+|-
+| 에덴의 눈에서 떨어진 얼어붙은 기억 조각. <br>''(Eden의 눈에서 떨어진 얼어붙은 記憶 조각.) <br> [eden-ui nun-eseo tteol-eojin eol-eobut-eun gieog jogag.]''
+|-
+! rowspan=2 | Vietnamese<br>Tiếng Việt<br>(㗂越)
+! Ký ức Cổ xưa <br>''（記憶古初）''
+|-
+| Một phần ký ức đóng băng từ Mắt Địa Đàng. <br>''（𠬠份記憶㨂氷徐眜天堂）''
+|-
+! rowspan=2 | Indonesian<br>Bahasa Indonesia
+! Memori Kuno
+|-
+| Sepotong memori beku dari Mata Eden.
+|-
+! rowspan="2" |Thai<br>ภาษาไทย
+!ความทรงจำโบราณ <br>''[Khwām thrng cả borāṇ]''
+|-
+|ชิ้นส่วนความทรงจำที่ถูกแช่แข็งจากดวงตาแห่งเอเดน <br>''[Chîn s̄̀wn khwām thrng cả thī̀ t̄hūk chæ̀ k̄hæ̆ng cāk dwngtā h̄æ̀ng xeden]''
+|}
+
+== Not Currently Visible Opening Quotes ==
+These Opening Quotes are not currently visible, nor can they be triggered in any normal way, in the current version of Sky. (However, the title of Home is visible every time the player launches the game.) Some of them have appeared in [[Sky: Light Awaits]], or in some [[Beta]] or non-Live versions. They may be re-introduced or completely removed in the future.
+<!--
+The title for Home is shown in '''bold''' in the game and shown as “<nowiki><b>Home</b></nowiki>” in the localization files. It is also shown in bold here. --><br>
+<br>
+{| class="fandom-table"
+<!--! rowspan="2" |Codename
+!<code>name_home</code>
+!<code>name_aviary</code>
+!<code>name_orbit</code>
+|-
+|<code>intro_home_01</code>
+|<code>intro_skyhub_01</code>
+|<code>intro_orbit_01</code>
+|--->
+! rowspan="2" | English
+! '''Home'''
+! Aviary
+! The Ascent
+|-
+| Port to friends & kingdoms discovered
+| Crossroads to the Clouds
+| The Light awaits
+|-
+! rowspan="2" | French<br>Français 
+! '''Maison'''
+! Volière
+! L'ascension
+|-
+| Téléportez-vous vers vos amis et les royaumes découverts
+| Carrefour vers les nuages
+| La lumière vous attend
+|-
+! rowspan="2" | Spanish<br>Español
+! '''Hogar'''
+! Aviario
+! El ascenso
+|-
+| Transportar hacia amigos y reinos descubiertos
+| Encrucijada a las nubes
+| La Luz te espera
+|-
+! rowspan="2" | Portuguese<br>Português
+! '''Lar'''
+! Aviário
+! A subida
+|-
+| Teletransportar para amigos & reinos descobertos
+| Encruzilhada para as nuvens
+| A luz espera
+|-
+! rowspan="2" | Italian<br>Italiano
+! '''Base'''
+! Voliera
+! L'Ascesa
+|-
+| Base per raggiungere amici e regni scoperti
+| Crocevia verso le nuvole
+| La luce ti attende
+|-
+! rowspan="2" | German<br>Deutsch
+! '''Zuhause'''
+! Voliere
+! Der Aufstieg
+|-
+| Teleportiere dich zu entdeckten Freunden & Königreichen
+| Kreuzung zu den Wolken
+| Das Licht wartet
+|-
+! rowspan="2" | Russian<br>Русский
+! '''Дом''' <br>''[Dom]''
+! Вольер <br>''[Vol'yer]''
+! Восхождение <br>''[Voskhozhdeniye]''
+|-
+| Найден портал к друзьям и открытым царствам <br>''[Nayden portal k druz'yam i otkrytym tsarstvam]''
+| Облачный перекресток <br>''[Oblachnyy perekrestok]''
+| Свет ждет <br>''[Svet zhdet]''
+|-
+! rowspan="2" | Chinese (Simplified)<br>简体中文
+! '''遇境''' <br>''[Yù Jìng]''
+! 空巢 <Br>''[Kōng Cháo]''
+! 光遇 <Br>''[Guāng Yù]''
+|-
+| 寻找好友前往不同国度的渡口 <br>''[Xún zhǎo hǎo yǒu qián wǎng bú tóng guó dù ·de dù kǒu]''
+| 去往不同世界的渡口 <br>''[Qù wǎng bú tóng shì jiè ·de dù kǒu]''
+| 轮回转世，普渡众生 <br>''[Lún huí zhuǎn shì, pǔ dù zhòng shēng]''
+|-
+! rowspan="2" | Chinese (Simplified, NetEase)<br>简体中文（国服）
+! '''遇境''' <br>''[Yù Jìng]''
+! 空巢 <br>''[Kōng Cháo]''
+! 星轨 <br>''[Xīng Guǐ]''
+|-
+| 寻找好友，通往不同世界的渡口 <br>''[Xún zhǎo hǎo yǒu, tōng wǎng bú tóng shì jiè ·de dù kǒu]''
+| 去往不同世界的渡口 <br>''[Qù wǎng bú tóng shì jiè ·de dù kǒu]''
+| 轮回转世，普渡众生 <br>''[Lún huí zhuǎn shì, pǔ dù zhòng shēng]''
+|-
+! rowspan="2" | Chinese (Traditional)<br>正體中文
+! '''遇境''' <br>''[jyu6 ging2]''
+! 空巢 <br>''[hung1 caau4]''
+! 光遇 <br>''[gwong1 jyu6]''
+|-
+| 尋找好友前往不同國度的渡口 <br>''[cam4 zaau2 hou2 jau5 cin4 wong5 bat1 tung4 gwok3 dou6 ge3 dou6 hau2]''
+| 去往不同世界的渡口 <br>''[heoi3 wong5 bat1 tung4 sai3 gaai3 ge3 dou6 hau2]''
+| 輪回轉世，普渡眾生 <br>''[leon4 wui4 zyun2 sai3, pou2 dou6 zung3 saang1]''
+|-
+! rowspan="2" | Japanese<br>日本語
+! '''ホーム''' <br>''[Hōmu]''
+! 花鳥庭園 <br>''(かちょうていえん)<br>[Katyō Teien]''
+! 天空 <br>''(てんくう)<br>[Tenkū]''
+|-
+| − 巡り逢った思い出、訪れた足跡 − <br>''(めぐりあったおもいで、おとずれたあしあと)<br>[Meguri atta omoide, otozureta asiato]''
+| − 記憶への拠点 − <br>''(きおくへのきょてん)<br>[Kioku e no kyoten]''
+| − 光をともに − <br>''(ひかりをともに)<br>[Hikari o tomoni]''
+|-
+! rowspan="2" | Korean<br>한국어<br>(韓國語)
+! '''안식처''' <br>''(安息處) <br> [Ansigcheo]''
+! 새장 <br>''(새欌) <br> [Saejang]''
+! 오르막 <br>''[Oleumag]''
+|-
+| 친구에게 워프하여 새로운 왕국을 찾아가세요 <br>''(親舊에게 워프하여 새로운 王國을 찾아가세요) <br> [chinguege wopeuhayeo saeloun wang-gug-eul chaj-agaseyo]''
+| 구름으로 가는 교차로 <br>''(구름으로 가는 交叉路) <br> [guleum-eulo ganeun gyochalo]''
+| 기다리는 빛 <br>''[gidalineun bich]''
+|-
+! rowspan="2" | Vietnamese<br>Tiếng Việt<br>(㗂越)
+! '''Nhà''' <br>''（茹）''
+! Lồng Rỗng <br>''（篭筩）''
+! Thăng Hoa <br>''（昇華）''
+|-
+| Cổng đến bạn bè và các vương quốc được khám phá <br>''（𨶛𦤾伴佊吧各王國特𠥈破）''
+| Giao lộ lên Mây <br>''（交路𨖲𩄲）''
+| Ánh sáng đang chờ <br>''（映𤏬當䟻）''
+|-
+! rowspan="2" | Indonesian<br>Bahasa Indonesia
+! '''Rumah'''
+! Kandang Burung
+! Kenaikan
+|-
+| Dermaga menuju teman & kerajaan ditemukan
+| Persimpangan menuju Awan
+| Cahaya menanti
+|-
+! rowspan="2" |Thai<br>ภาษาไทย
+!'''บ้าน''' <br>''[B̂ān]''
+!เอเวียรี <br>''[Xe weīyrī]''
+!ดิ แอสเซ็นต์ <br>''[Di xæ s̄ sĕn t̒]''
+|-
+|ค้นพบท่าสำหรับไปหาเพื่อน และไปเยือนอาณาจักรต่างๆ แล้ว <br>''[Kĥn phb th̀ā s̄ảh̄rạb pị h̄ā pheụ̄̀xn læa pị yeụ̄xn xāṇācạkr t̀āng«læ̂w]''
+|ทางแยกสู่หมู่เมฆ <br>''[Thāng yæk s̄ū̀ h̄mū̀ meḳh]''
+|แสงสว่างกำลังรอคอยอยู่ <br>''[S̄æng s̄ẁāng kảlạng rx khxy xyū̀]''
+|}
+
+
+== Location of the Opening Quotes ==
+* '''Isle of Dawn:''' The Opening Quote is displayed after passing the first ledge in the Sand Dunes area, after passing the first [[Map Shrine]] and [[Child of Light]].
+* '''Daylight Prairie''': The Opening Quote is displayed '''only once''', before the flight into the Villages. 
+* '''Hidden Forest''': The Opening Quote is displayed in the Forest Clearing, when opening the second gate.
+* '''Valley of Triumph''': The Opening Quote is displayed after the cutscenes of the opening of the gates just before the start of the Sliding Race or the Flying Race. 
+* '''Golden Wasteland''': The Opening Quote is displayed during the black cutscenes before landing flat on the ground in the Broken Temple area.
+* '''Vault of Knowledge''': The Opening Quote is displayed after leaving the Social Space and upon entering the First Floor of the Vault.
+* '''Eye of Eden:''' The first Opening Quote ("Push into the darkness") is displayed after passing through the first section (Wind and Rocks), when the gate to the second section ([[Dark Dragons]]) opens.
+* '''Eye of Eden''' (Second Part/After Storm Lock): The second Opening Quote ("Return the light of the fallen") is displayed immediately after the cutscenes of entry into the Statues section.
+
+== Trivia ==
+* The Opening Quote for Daylight Prairie is displayed only once for each Sky account, meaning that to view this Opening Quote again, you will need to create a new Sky account and play from the beginning. 
+* The Valley of Triumph opening quote appears relatively late in the Realm, allowing players to explore the Sliding Track (after the Social Space), the Ice Rink, and the Citadel, before seeing the Opening Quote. 
+* Players can take damage (and potentially lose [[Winged Light]]) before seeing the Opening Quotes in Hidden Forest (from the rain) and Eye of Eden (from the flying rocks).
+* Localizations:
+** Eye of Eden has different names/titles between the first and second Opening in Japanese. The first title is "暴風域" which literally means "Storm Zone," and the second title (after passing the Point of No Return) is "原罪," which means "Original Sin." 
+*** Similar differences also happen in Mainland China, on the Simplified Chinese version of Sky operated by NetEase. The first title is the same as the international version ("暴风眼," Eye of the Storm), but the second title is "伊甸之眼," which is a literal translation from the English "Eye of Eden."
+** In four localizations, the translations of "Eye of Eden" do not include a direct or phonetic transliteration of the word "Eden."
+*** The Simplified and Traditional Chinese versions have "暴风眼/暴風眼," which means "Eye of the Storm."
+*** The Japanese version, as mentioned above, have "Storm Zone" and "Original Sin," with the latter mentioned another Biblical term.
+*** The Vietnamese version has "Mắt Địa Đàng," which means "Eye of the Heaven."
+** The Chinese and Japanese versions of Wasteland's Opening Quote do not mention the Vault of Knowledge, as did the original English version.
+<!--* Even though the Opening Quotes for the Home and Aviary are no longer displayed, they are still included in the <code>Localizable.strings</code> file in the macOS version package and translated into the newly added languages (Vietnamese and Indonesian).-->
+* Some sub-areas within a Realm do not have an Opening Quote, such as the Sand Dune Cave in Isle of Dawn, the Cave in Prairie, the Underground Cavern in Forest, the Archives and Office in Vault of Knowledge, and the Orbit after Eye of Eden.
+* Some localization of the Opening Quote of Hermit Valley is a completely different sentence than the English version ("A perilous place for the audacious artists"). This may be a leftover from previous versions of this opening.
+<!--* The Village Theatre seems to have a second OQ <code>title_sunset_theater_03</code> in the English localization file (in a manner similar to some areas that have a different OQ depending on Quests completion status), but the content of this OQ is completely blank. This entry is not present in any other language's localization file. -->
+
+==Notes==
+<references/>There is no external references. The only trusted reference for all Opening Quotes is the in-game display in the Live version of the game.
+
+[[Category:Realms]]
+[[Category:Menus]]

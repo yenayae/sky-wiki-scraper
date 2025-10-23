@@ -1,0 +1,320 @@
+__FORCETOC__
+{{SkyEvent
+|image= Aurora-Encore-2023-gamescom-promo-image.png
+|date= August 23 to September 3, 2023
+}}
+<section begin="Summary" />Sky is collaborating once more with acclaimed vocal artist [[Season of AURORA|AURORA]] to guide players through a musical journey! The '''AURORA Encore Concerts''' run from '''August 23, 2023 at 00:00 PDT (UTC-7)''' through '''September 3, 2023 at 23:59 PDT (UTC-7)''', during which the [[AURORA Concert]] will be open to everyone as part of a celebration for Sky's attendance at [https://www.thatskygame.com/news/new-sky-milestones-for-gamescom-2023/ gamescon] in Cologne, Germany. For the duration of the event, the AURORA Guide appears in [[Home]], offering to teleport players directly to the [[Coliseum]].<section end="Summary" />
+
+<section begin="Available Cosmetics" />During this Encore event, the original Season of AURORA [[Season_of_AURORA#Premium_Packs_(In-App_Purchases)|IAPs]] were available to purchase again, in addition to the "Cure for Me" [[AURORA_Guide#Cure_for_Me_Outfit|Outfit]] and [[AURORA_Guide#Cure_for_Me_Mask|Mask]] originally offered by the [[AURORA Guide]]. There were two new items to collect as well, including an [[AURORA Encore Concerts#Cure for Me Expression|Expression]] available for Tickets and a pair of [[AURORA Encore Concerts#Musical Voyage Sneakers|Sneakers]] as an IAP!<section end="Available Cosmetics" />
+
+The [[AURORA Concert|Concerts]] ran daily on a special schedule throughout the Encore, with each performance lasting approximately 50 minutes. To quickly convert PDT to your timezone, try using [https://savvytime.com/converter/pdt this site].
+* From '''Wednesday, August 23''' through '''Friday, August 25''', Concerts begin every '''eight hours''', starting at '''06:00 PDT (UTC-7)'''.
+* Then, from '''Saturday, August 26''' through '''Sunday, September 3''', Concerts begin every '''four hours''', starting at '''02:00 PDT (UTC-7)'''.
+
+{{#lst:AURORA Concert|AURORA Concert Navbox}}
+
+==Record Breaking Concert==
+TGC called all Sky Kids to gather on '''Friday, August 25 at 06:00 (PDT UTC-7)''' to join the AURORA Concert and make history by breaking the '''GUINNESS WORLD RECORDS™️''' for '''Most Users in a Concert Themed Virtual World'''. The engineers pulled out all the stops to expand the Coliseum capacity to over ''ten thousand (10 000)'' players at once!
+
+The actual record was 10061 players in one server while the total amount across all servers was 1.25 million players attending the concert. The concert broke another record for '''Most Avatars Emoting Simultaneously''' during AURORA's line "It's okay, you can cry."
+
+This special World Record Concert was hosted by the ever-awesome Sky content creator Sarah "[https://www.twitch.tv/nastymold NastyMold]" Hayes, with new [[#Mini-Games|mini-games]] like tug-of-war to play with thousands of your fellow Sky Kids.<br>
+<br>
+{{#ev:youtube|Vav8RChpCqw|350px||AURORA Encore Concerts Trailer}}
+
+During the [https://b2b.gamescom.global/ gamescom 2023] events, TGC won awards for "Games for Impact" and "Best Mobile Game" while successfully achieving their bet for the '''Most Users in a Concert Themed Virtual World''' record.
+
+'''More information about the Record Breaking Concert can be found on [https://www.thatskygame.com/worldrecord ThatSkyGame's Website].'''
+
+== Ticket Locations ==
+[[File:Aurora-ticket-for-encore-event.png|125px|thumb|A Ticket from the AURORA Encore Concert]]
+Every day players could find {{Cost|5 T|event=aurora|inline}} AURORA Tickets:
+* {{Cost|4 T|event=aurora|inline}} hidden throughout the Coliseum (visible in both the regular daytime and Concert nighttime versions of the Coliseum)
+* {{Cost|1 T|event=aurora|inline}} per day at '''XX:00''' or '''XX:15''' or '''XX:30''' or '''XX:45''' every hour in-between Concerts, which appears at the entrance of the Coliseum where players arrive from the [[Flying Race|races]]
+Players could also collect a bonus Ticket worth {{Cost|10 T|event=aurora|inline}} by participating in at least the Concert's final performance,  "[[AURORA_Concert#Last_Performance:_Queendom|Queendom]]." This bonus Ticket could only be claimed '''once''' for the entire event, and appeared in the same spot as the single timed Ticket mentioned above.
+
+Weekends (Friday - Sunday): Players could buy additional Tickets (worth {{Cost|2 AC}}) at the Traveling Merchant's Boat at Home.
+{{Collapse
+|float= left
+|label= All Exact Ticket Locations
+|content=<u>'''Locations:'''</u>
+<small>'''IMPORTANT: All the locations mentioned in the Rotations below are instructed while facing the Valley Temple.'''</small>
+[[File:Sky-Aurora-Encore-Concerts-TicketRotation-by-AztroMens.png|thumb|274x274px|Ticket Rotations by AztroMens]]
+
+<u>'''Rotation A:'''</u>
+* {{Cost|1 T|event=aurora|inline}} Right side of the canopy tent entering the AURORA Coliseum, at the upper end of the first carpeted aisle, closer to the giant guardian
+* {{Cost|1 T|event=aurora|inline}} Right side of the canopy tent entering the AURORA Coliseum, at the upper end of the second carpeted aisle
+* {{Cost|1 T|event=aurora|inline}} At the seating area under the left canopy tent with the Bloom tree
+* {{Cost|1 T|event=aurora|inline}} Right side of the Coliseum, halfway to the second carpeted aisle, near the relaxation/quiet room
+
+<u>'''Rotation B:'''</u>
+* {{Cost|1 T|event=aurora|inline}} Near the Skater statue
+* {{Cost|1 T|event=aurora|inline}} At the very top of the giant guardian on the right
+* {{Cost|1 T|event=aurora|inline}} At the top right side of the canopy tent exiting to Village of Dreams, upper end of the carpeted aisle  
+* {{Cost|1 T|event=aurora|inline}} At the seating area under the right canopy tent (Area with bonfires/marshmallow props)
+
+<u>'''Rotation C:'''</u>
+* {{Cost|1 T|event=aurora|inline}} Next to the AURORA Guide orb
+* {{Cost|1 T|event=aurora|inline}} At the top left side of the canopy tent entering the AURORA Coliseum, upper end of the carpeted aisle  
+* {{Cost|1 T|event=aurora|inline}} To the far right side of the Temple entrance (at the feet of the right giant guardian)
+* {{Cost|1 T|event=aurora|inline}} To the far left side of the Temple entrance (at the feet of the left giant guardian)}}
+
+{| class="article-table mw-collapsible mw-collapsed" style="float:right; text-align:center;"
+! colspan="3" | Ticket Rotations and Bonus Locations
+|-
+! Date
+! Rotation
+! Daily Total
+|-
+| August 23, 2023
+| A
+| {{Cost|{{#vardefineecho:D1|15}} T|event=aurora|inline}}<ref name="10 Ticket bonus">The Ticket total shown for August 23 includes the one-time 10 Ticket bonus. Note that this Ticket bonus could be claimed on any day during the event, and was not exclusive to August 23.</ref>
+|-
+| August 24, 2023
+| B
+| {{Cost|{{#vardefineecho:D2|05}} T|event=aurora|inline}}
+|-
+| August 25, 2023
+| C
+| {{Cost|{{#vardefineecho:D3|05}} T|event=aurora|inline}}
+|-
+| August 26, 2023
+| A
+| {{Cost|{{#vardefineecho:D4|05}} T|event=aurora|inline}}
+|-
+| August 27, 2023
+| B
+| {{Cost|{{#vardefineecho:D5|05}} T|event=aurora|inline}}
+|-
+| August 28, 2023
+| C
+| {{Cost|{{#vardefineecho:D6|05}} T|event=aurora|inline}}
+|-
+| August 29, 2023
+| A
+| {{Cost|{{#vardefineecho:D7|05}} T|event=aurora|inline}}
+|-
+| August 30, 2023
+| B
+| {{Cost|{{#vardefineecho:D8|05}} T|event=aurora|inline}}
+|-
+| August 31, 2023
+| C
+| {{Cost|{{#vardefineecho:D9|05}} T|event=aurora|inline}}
+|-
+| September 1, 2023
+| A
+| {{Cost|{{#vardefineecho:D10|05}} T|event=aurora|inline}}
+|-
+| September 2, 2023
+| B
+| {{Cost|{{#vardefineecho:D11|05}} T|event=aurora|inline}}
+|-
+| September 3, 2023
+| C
+| {{Cost|{{#vardefineecho:D12|05}} T|event=aurora|inline}}
+|-
+! colspan="2" style="text-align:center;" | Total so far
+! style="text-align:center;" | {{Cost|{{#expr: ({{#var:D1}} + {{#var:D2}} + {{#var:D3}} + {{#var:D4}} + {{#var:D5}} + {{#var:D6}} + {{#var:D7}} + {{#var:D8}} + {{#var:D9}} + {{#var:D10}} + {{#var:D11}} + {{#var:D12}}) }} T|event=aurora|inline}}
+|}
+{{Friendship Tree
+|spirit = aurora guide
+|image  = SoAurora-Seasonal-guide.png
+|event  = AURORA
+
+|nodeC10 = mask 50 C
+|  noteC10 = <ref name="mask">The Cure for Me Mask was a special item only available during the [[Season of AURORA]] and the [[AURORA Encore Concerts]].</ref> 
+
+|nodeL9 = music34 20 C
+|nodeC9 = quest
+|  linkC9 = Season of AURORA#Musical Voyage
+|  labelC9 = Quest 5
+|nodeR9 = outfit 200 C
+|  noteR9= <ref name="outfit">The Cure for Me Outfit was a special item only available during the [[Season of AURORA]] and the [[AURORA Encore Concerts]].</ref> 
+
+|nodeL8 = music32 20 C
+|nodeC8 = quest
+|  linkC8 = Season of AURORA#Quest #4
+|  labelC8 = Quest 4
+|nodeR8 = emote_s 5 H
+|  noteR8 = Lv4
+|  vertR8 = 1
+
+|nodeL7 = emote_s 3 H
+|  noteL7 = Lv2
+|nodeC7 = emote_s
+|nodeR7 = emote_s 5 C
+|  noteR7 = Lv3
+|nodeL6 = heart 3 C
+|nodeC6 = quest
+|  linkC6 = Season of AURORA#Quest #3
+|  labelC6 = Quest 3
+
+|nodeR6 = emote_k 5 H
+|  noteR6 = Lv4
+|  vertR6 = 1
+|nodeL5 = emote_k 3 H
+|  noteL5 = Lv2 
+|nodeC5 = emote_k
+|  labelC5 = Quest 3
+|nodeR5 = emote_k 5 C
+|  noteR5 = Lv3
+|nodeL4 = emote_c 5 H
+|  noteL4 = Lv4 
+|  vertL4 = 1
+
+|nodeC4 = quest
+|  linkC4 = Season of AURORA#Quest #2
+|  labelC4 = Quest 2
+|nodeL3 = emote_c 5 C
+|  noteL3 = Lv3
+|nodeC3 = emote_c
+
+|nodeL2 = emote_c 3 H
+|  noteL2 = Lv2
+|nodeC2 = quest
+|  linkC2 = Season of AURORA#Quest #1
+|  labelC2 = Quest 1
+
+|nodeL1 = emote_e 12 T<ref name="emote">The Cure for Me Expression was a special item only available during the [[AURORA Encore Concerts]].</ref>
+|nodeC1 = Icon_warp.png
+|nodeR1 = emote_e 33 T<ref name="emote"></ref> 
+|  noteR1 = Lv2
+
+}}
+{{Clear}}
+
+==2023 New Cosmetics and Expressions==
+===Cure for Me Expression===
+<section begin="Expression" />
+The Cure for Me [[Expression]] is a reproduction of the iconic dance move done by AURORA during the "[https://youtu.be/K17df81RL9Y Cure for Me]" music video and has 2 Levels. Level 1 was available for {{Cost|12 T|event=Aurora|inline}} and Level 2 for {{Cost|33 T|event=Aurora|inline}} from the [[AURORA Guide]] for the duration of the event.  It later returned in 2025 during [[AURORA: Homecoming]], where Level 1 was available for {{Cost|4 H|inline}} and Level 2 for {{Cost|6 H|inline}}.
+
+[[File:{{Icon Name|AURORA Guide|emote_e}}|x170px|left]]
+<gallery widths="300" captionalign="center">
+cure-for-me-dance.gif|Cure for Me dance routine
+</gallery>
+
+*Level 1 will make your avatar hold your arms to the side with your open palms facing the ground and alternate between swinging each leg out to the side in a bouncy dance while the beat of the "Cure for Me" song plays. This action is continued for as long as you don't move your character. Exiting this Expression will make your avatar raise your arms and hands to shoulder level and shake your head side to side.
+*Level 2 makes the same motion as Level 1 with sparkles by the feet and hearts appearing from the hands during the ending gesture.<section end="Expression" />
+
+===Musical Voyage Sneakers===
+<section begin="sneakers" />
+::'''''"Commemorate the record-breaking assembly of more than 10,000 attendees of AURORA'S Musical Voyage!"'''''
+The Musical Voyage Sneakers are a pair of white sneakers with red laces tied to form the letters "XK" (i.e., 10k) together. These [[Shoes]] were introduced in 2023 for {{Cost|6.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event. It later returned in 2025 during [[AURORA: Homecoming]].
+<gallery widths="125" spacing="small" captionalign="center">
+Musical-Voyage-Sneakers-IAP.png|Musical Voyage Sneakers
+Aurora-Record-Breaker-Sneakers-icon-Credit-Morybel.png|Musical Voyage Sneakers icon
+Musical-Voyage-Sneakers.png|Musical Voyage Sneakers
+</gallery>
+<section end="sneakers" />
+
+==Returning Cosmetics and Props==
+
+===[[AURORA Guide#Cure for Me Mask|Cure for Me Mask]]===
+{{#lst:AURORA_Guide|CfM-Mask}}
+
+===[[AURORA Guide#Cure for Me Outfit|Cure for Me Outfit]]===
+{{#lst:AURORA_Guide|CfM-Outfit}}
+
+===[[Season of AURORA#Tiara We Can Touch|Tiara We Can Touch]]===
+{{#lst:Season of AURORA|tiara}}
+
+===[[Season of AURORA#Runaway Hair|Runaway Hair]]===
+{{#lst:Season of AURORA|runaway-hair}}
+
+===[[Season of AURORA#Runaway Outfit|Runaway Outfit]]===
+{{#lst:Season of AURORA|runaway-outfit}}
+
+===[[Season of AURORA#Voice of AURORA|Voice of AURORA]]===
+{{#lst:Season of AURORA|voice-aurora}}
+
+===[[AURORA Concert#To The Love Outfit|To The Love Outfit]]===
+{{#lst:AURORA Concert|Love Outfit}}
+
+===[[AURORA Concert#Giving In Cape|Giving In Cape]]===
+{{#lst:AURORA Concert|Giving Cape}}
+
+===[[AURORA Concert#Wings of AURORA|Wings of AURORA]]===
+{{#lst:AURORA Concert|AURORA Wings}}
+
+== Mini-Games ==
+The pre-Concert activities are mini-games happening between the Concerts.   
+
+* The Duel
+* The Voting Towers
+* The Light Parade
+* The Great Spheres
+
+===The Duel===
+::'''''"Which side will prevail"'''''
+The Duel is a game that involves two teams on opposite ends of the Stage. Players can gather in the left or right dome, each featuring a different Expression. Players are invited to honk (spamming the corresponding Emote) - the loudest team will move the center marker beyond the goal line and burst the opposite team's dome, thus winning the competition. All players are propelled back into the Coliseum at the end and new players can join to restart the game. 
+<gallery widths="300" spacing="small" captionalign="center">
+Aurora-The-Duel-mini-games-1.jpg
+</gallery>
+
+===The Voting Towers===
+::'''''"Make your voice heard"'''''
+The Voting Towers are four (4) colored columns on the Stage showcasing different preferences on a particular topic. Players are invited to gather on one choice, making the most liked Tower (or Towers) grow with the number of players. There is no winning or losing in this mini-game; the goal is simply to share preferences with your peers. Choices are refreshed every 2 minutes and players are expelled from the Towers between each topics.
+
+Here are some of the topics seen during the pre-concerts activities: 
+
+* Flow, Flower, Journey, Sky
+* Humility, Graciousness, Thoroughness, Patience 
+* Butterflies, Birds, Jellies, Mantas
+* The Treehouse, Harmony Hall, The Treasure Reef, Starlight Desert
+* Earth, Fire, Water, Wind
+* Swings, Seesaws, Hammocks, Boats
+* Creative, Emotional, Social, Logical
+* Cake, Cookies, Candy, Chocolate
+* Running, Flying, Surfing, Swimming
+* Prophecy Trials, Shard Eruptions, Passages, Assembly Quests
+* Honesty, Respect, Loyalty, Compassion
+* Sweet, Bitter, Sour, Salty
+* Art, Nature, Friendship, Charity
+* Invisibility, Flight, Telekinesis, Shapeshifting
+* Beach, Mountains, Desert, Lake
+* Dancing, Singing, Sitting, Sleeping
+* Sunrise, Midday, Sunset, Midnight
+* Solo, Collaborative, Competitive, Social
+
+
+<gallery widths="300" spacing="small" captionalign="center">
+Aurora-The-Voting-Towers-mini-game-1.jpg
+</gallery>
+
+===The Light Parade===
+::'''''"A moving procession of lights and sounds"'''''
+The Light Parade adds a colorful portal to the center of the Stage, transporting players to a path with arches circling around the Coliseum.  Passing through the arches, players are presented with a certain Emote to spam, thus creating a chain of moving players all using the same Emotes. Expressions are refreshed every 2 minutes. This activity is based around the natural highway that players made during the first iterations of the Concert on December 2022. 
+<gallery widths="300" spacing="small" captionalign="center">
+Aurora-The-Light-Parade-mini-game-1.jpg|The portal
+Aurora-The-Light-Parade-mini-game-2.jpg|The heart path
+</gallery>
+
+===The Great Spheres===
+::'''''"Largest ballgame in the realms"'''''
+Two (2) large Spheres and two (2) large goals are set up at each end of the Coliseum. Using the {{Emote|Levitating Adept|inline_text}} Expression, players can guide the Spheres to their corresponding goals. Each team can score up to 10 total goals. Over time, the Spheres reduce in size and become much more difficult to maneuver as they can get stuck in smaller areas.   The Spheres return to their normal size and to the center of the Coliseum after a team scores a goal. 
+<gallery widths="300" spacing="small" captionalign="center">
+Aurora-The-Great-Spheres-mini-game-1.jpg
+</gallery>
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Aurora-Encore-2023-10k-flyover-promo-image.png
+Aurora-Encore-2023-Ticket-promo-image.png
+Aurora-Encore-2023-the-duel-promo-image.png
+Aurora-Encore-2023-sneakers-promo-image.png
+Aurora-Encore-2023-GWR-promo-image.png
+Aurora-Encore-2023-farewell-promo-image.png
+</gallery>
+
+==References==
+<references />
+
+[[pt-br:Shows de Bis da AURORA]]
+[[ja:AURORA アンコール・コンサート]]
+[[fr:Concert d'AURORA : Le Rappel]]
+
+[[Category:Events]]
+[[Category:Non-Recurring Events]]
+[[Category:Collaborations]]
+[[Category:Season of AURORA]]

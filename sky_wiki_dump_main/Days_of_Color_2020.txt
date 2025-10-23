@@ -1,0 +1,28 @@
+{{SkyEvent
+| image = Days_of_Rainbow.jpg
+| nextevent = [[Days of Color/2021|2021]]
+| date = June 10 to June 14, 2020
+| years = {{#lst:Days of Color|Color Years}}
+}}
+The first Days of Rainbow event began on '''Wednesday, June 10, 2020''' and ended on '''Sunday, June 14, 2020''', lasting '''five''' days. It introduced the [[Quests#Days of Color|Daily Quest Rainbows]]. It also introduced the [[#Rainbow_Spell|Rainbow Spell]], four of which could be obtained for free at the [[Forgotten Ark]].
+{{Clear}}
+
+=== Rainbow Spell ===
+[[File:Spell - Days of rainbow spell.png|left|frameless|80x80px]]
+The [[Spells#Rainbow_Spell|Rainbow Spell]] was introduced during Days of Rainbow 2020. Each year during the event, multiple free copies of this [[Spell]] are available from the [[Spell Shop]] (either at [[Forgotten Ark]] or the [[Sleepy Traveling Merchant]]). These free Spells are in addition to the for-purchase Rainbow Spells that are always available (Friday-Sunday) from the [[Scroll Shop]].
+
+You can view a video of each of the Daily Quest Rainbows here:
+
+*[https://youtu.be/fCtpCZFJLmE Daylight Prairie] ~ [https://youtu.be/otI3wuLQKis Hidden Forest] ~ [https://youtu.be/nAQKhaiwhjc Valley of Triumph] ~ [https://youtu.be/rVcwi1pH-YA Golden Wasteland] ~ [https://youtu.be/oiUQPs3E7GE Vault of Knowledge]
+
+==Trivia==
+*Days of Rainbow 2020 was not available in the [[NetEase|Chinese version]] of ''Sky'': instead, the Days of Dragon Boat took its place. In 2021, Days of Rainbow was introduced in the Chinese version of ''Sky'', renamed 缤纷飞行日 (roughly translates to "Colorful Flight Day"), from November 18 to December 1, 2021. The Chinese version does not include the [[#Rainbow Pack|Rainbow Pack]] IAP.
+
+==References==
+'''More information about Days of Rainbow 2020 can be found on [https://www.thatskygame.com/news/welcome-to-the-season-of-enchantment ThatSkyGame's Website].'''
+<references />
+
+{{#lst:Days of Color|Color Navbox}}
+
+[[fr:Jours des Couleurs 2020]]
+[[ja:虹かける日々/2020]]

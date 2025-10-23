@@ -1,0 +1,22 @@
+{{Creature Infobox
+|title    = Manatee
+|type     = light
+|image    = Manatee-Porpoise.png
+}}<section begin="Summary" />This yellow and white creature is a blend of manatee, porpoise, and seal. It first appeared during [[Days of Nature]] 2023 and is now a permanent resident in [[Prairie Peaks]] where a herd of these peaceful manatees can be found sunbathing at the flowing river.<section end="Summary" />
+
+During [[Days of Nature]] 2023 players found it trapped in the sand by a Darkness Plant in Sanctuary Island at the shore of the Island that the turtle lives close to. After freeing the manatee, it guided the player to a massive water vortex.
+
+In the following year, it could be spotted in Sanctuary Islands again as part of the Days of Nature 2024 [[Days of Nature#Daily Quest|daily quests]].
+
+More recently, the manatee has taken on a significant role in the [[Season of The Two Embers - Part 1|Season of the Two Embers]] and its related animation, becoming a memorable part of the unfolding story. A {{Emote|Stern Shepherd|inline_text}} is now available through the [[Stern Shepherd]]. Using the [[Stern Shepherd#Prop|Stern Shepherd Staff]], an item locked behind the [[Seasonal Events#Season Pass|Season Pass]], in a place where manatees live makes them fly over and accompany the player until told to stop or when leaving the area.
+==Variants==
+<gallery width="125">
+A-Manatee-with-bow.png|During Sky x Alice events
+</gallery>
+
+==Trivia==
+*The unofficial name "Mantatee" was proposed by [https://discord.com/channels/575762611111592007/575827782144098304/1098762418651410523 Ash on Discord]. Later, in patch {{v|0.22.5}}, it was specified as Manatee.
+*Manatees are depicted in several merch items from [[That Sky Shop]]. To know more about That Sky Shop products, visit their website: https://thatskyshop.com
+
+[[ja:マナティ]]
+[[pt-br:Peixes-Boi]]

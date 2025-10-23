@@ -1,0 +1,176 @@
+{{Distinguish|Costumed Confetti Cousin}}
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Belonging-Spirit-Confetti-Cousin.png|Standard
+Belonging-Spirit-Confetti-Cousin-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Hair|infobox}}{{Spirit Item||Cape|infobox}}
+|season    = Belonging
+|realm     = Daylight Prairie
+|location  = Butterfly Fields
+|ts        = September 28, 2023 (#97)<br/>January 21, 2021 (#27)<br/>July 9, 2020 (#13)
+}}
+<section begin="Summary"/>The '''Confetti Cousin''' is a [[Seasonal Spirit]] from the [[Season of Belonging]] who offers the {{Emote|Confetti Cousin|inline_text}} Expression. The Confetti Cousin is found in [[Butterfly Fields]] on top of the round, hollow dome containing the [[Butterfly Charmer]]. The collectibles [[#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Confetti Cousin|Hair|inline_text}} and a {{Spirit Item|Confetti Cousin|Cape|inline_text}}. <section end="Summary" /><br>
+<br>
+[[File:Confetti-Cousin-promo-image.jpg|thumb|320px|none|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|bBjri4XwR2c||inline|Video Guide by Tara}}
+
+The Confetti Cousin can be found in [[Butterfly Fields]] on top of the round, hollow dome containing the [[Butterfly Charmer]]. This Spirit has a [[Collection Memory|collection memory]] with 9 memory fragments and an 8-minute overall [[Timed Memory|time limit]].
+
+As their memory unfolds, the Confetti Cousin can be seen playfully exploring the grassy hills of the Butterfly Fields, stopping frequently to admire blooming flowers.
+
+At the end of the memory, the carefree Confetti Cousin launches colorful scraps of confetti into the air several times, using a small popper. The player steps closer, grabs a bell from underneath their cape and rings it, causing the Confetti Cousin to stop. They bring their hand to their chin and think for a short while, before they raise up their arm in epiphany, with a glowing exclamation mark blinking above their head.<br>
+<br>
+[[File:01 DP Spirit - Confetti Cousin.png|200px|thumb|none|Relive the Confetti Cousin's memory]]
+</div>
+{{Clear}}
+
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]] (officially called '''Celebrate'''), which has 4 Levels.<br>
+<br>
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Confetti-Cousin-confetti-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Confetti-Cousin-confetti-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Confetti-Cousin-confetti-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Confetti-Cousin-confetti-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar raise their hands to shoulder level, before performing a pulling gesture as if popping a confetti popper, launching yellow confetti into the air, which turns pink as it falls down, while a popping sound and bell jingling sound effects play.
+*Level 2 makes the same motion as Level 1, but with yellow confetti that turns into different shades of pink and blue, while popping, bell jingling, and quiet firework sound effects play.
+*Level 3 makes the same motion as Level 1, but with green confetti that turns into different shades of orange and red, while popping, bell jingling, and firework launch sound effects play.
+*Level 4 makes the same motion as Level 1, but with yellow confetti that turns red and white, while popping, bell jingling, and firework explosion sound effects play.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+== Cosmetics==
+=== Hair ===
+The [[Hair]] offered by this Spirit is a medium length hairstyle with full, short bangs and a large red bow at the top of a thin hairband of that same color, costing {{Cost|42 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|30 SC|season=Belonging}} total). Note that this item is considered a Hair, not a [[Hair Accessory]], and as such cannot be worn over other Hairstyles.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||hair|icon}} {{!}} The Hair icon
+{{Icon Name||hair|real}} {{!}} The Hair front
+{{Icon Name||hair|side}} {{!}} The Hair side
+{{Icon Name||hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Cape ===
+The [[Cape]] offered by this Spirit is red with faint diamond markings near the collar, and a straight yellow trim and inner lining, costing {{Cost|60 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fourth node ({{Cost|30 SC|season=Belonging}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||cape|front}} {{!}} The Cape front
+{{Icon Name||cape|interior}} {{!}} The Cape interior
+{{Icon Name||cape|back}} {{!}} The Cape back
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Traveling Spirit ==
+[[File:Traveling Spirit 97 - Confetti Cousin by myseljo.png|200px|right|thumb]]
+{{Friendship Tree Info | traveling
+|ts_dates=*September 28, 2023 (#97)
+*January 21, 2021 (#27)
+*July 9, 2020 (#13)
+}}<section begin="TS Friendship Tree" />
+{{Friendship Tree
+|spirit = Confetti Cousin
+|season = Belonging
+|image  = Belonging-Spirit-Confetti-Cousin.png
+
+|nodeC6 = Cape 60 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Hair 42 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+No hints were given from the [[Confetti Cousin]]'s first appearance.
+
+The hints given before the [[Confetti Cousin]]'s second appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Second Visit Hints
+|content=<div>
+* Has never eaten Italian food
+* Loves ice cream, but dislikes chocolate
+* Puts sprinkles on all their cupcakes
+* Has a celebrity crush
+* Gets seasonal allergies
+* Is practicing for their theater debut
+* Wants you all to have a good day today
+* Is making a cake for you all, be patient!
+* Is making a manta out of fondant
+* Is lost in a daydream
+* Is very excited to say hello to everyone!
+</div>
+}}
+
+The hints given before the [[Confetti Cousin]]'s third appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Third Visit Hints
+|content=<div>
+* Has a signed picture of Performance Guide
+* Loves cherry flavored jellybeans
+* Feels nostalgic at the sound of bells
+* Is afraid of getting pricked by dark plant thorns
+* [wes] Does not enjoy heavy gusts
+* [wes] Dislikes strong winds
+* [tio] You ask me for the TS <br>And my answer is NO <br>Here comes a little tip <br>They MAY wear a... <br>Speculate and fill in the blank
+</div>
+}}
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Belonging}}<section begin="Season Friendship Tree" />
+{{Friendship Tree
+|spirit = Confetti Cousin
+|type   = season
+|season = Belonging
+|image  = Belonging-Spirit-Confetti-Cousin.png
+
+|nodeC5 = season_heart 3 SC SP
+|nodeL4 = Hair SP
+|nodeC4 = Cape 12 SC
+|nodeL3 = emote4 SP
+|nodeC3 = emote3 10 SC
+|nodeL2 = spell5 SP
+|nodeC2 = spell1 8 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+
+== Other Appearances ==
+The Confetti Cousin also appeared in the [[Season of the Blue Bird]] as the [[Costumed Confetti Cousin|Costumed Confetti Cousin.]]
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Confetti-Cousin-third-visit-promo-image.png
+DaylighttPrairie AP.png
+Confetti-Cousin-first-visit-promo-image.png
+Prairie emote outfit.jpg
+Belonging Prairie Map Preview.png
+Group Emote Celebrate.jpg
+</gallery>
+
+==References==
+<references/>
+
+[[de:Konfetti-Cousine]]
+[[pt-br:Prima do Confete]]
+[[ru:Конфетти-кузен]]
+[[fr:Cousine des confettis]]
+[[ja:紙ふぶき好きのいとこ]]

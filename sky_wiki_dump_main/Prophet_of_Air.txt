@@ -1,0 +1,216 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Prophecy-Spirit-Prophet-of-Air.png|Standard
+Prophecy-Spirit-Prophet-of-Air-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Mask|infobox}}{{Spirit Item||Hair|infobox}}{{Spirit Item||Cape|infobox}}
+|props     = {{Spirit Item||Prop|infobox}}
+|season    = Prophecy
+|realm     = Isle of Dawn
+|location  = Cave of Prophecies
+|ts        = September 25, 2025 (#149)<br>May 15, 2023 (SV#2)<br>May 12, 2022 (#61)
+}}
+<section begin="Summary" />The '''Prophet of Air''' is a [[Seasonal Spirit]] from the [[Season of Prophecy]] who offers the {{Emote|Prophet of Air|inline_text}} Expression. The Prophet of Air is found in the [[Cave of Prophecies]], near the entrance to the [[Season_of_Prophecy#The_Trial_of_Air|Trial of Air]]. The collectibles [[#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Prophet of Air|Mask|inline_text}}, a {{Spirit Item|Prophet of Air|Hair|inline_text}}, a {{Spirit Item|Prophet of Air|Cape|inline_text}}, and an {{Spirit Item|Prophet of Air|Prop|label=Air Sticker Prop|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Prophet-of-Air-promo-image.jpg|thumb|320px|none|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|686khkYa93w||inline|Video Guide}}
+
+The Prophet of Air can be found in the [[Cave of Prophecies]], near the entrance to the [[Season_of_Prophecy#The_Trial_of_Air|Trial of Air]]. This Spirit has a [[Standard Memory|standard memory]] with 8 memory fragments and a 5-minute overall [[Timed Memory|time limit]]. 
+
+As their memory unfolds, the Prophet of Air can be seen educating a younger pair of Spirits about the history of the Cave. The Prophet of Air first scolds the young Spirits for arriving late before directing them to a seating area at the center of the Cave of Prophecies. Together, they sit with a larger group of Spirits listening intently to the lessons being provided by all four of the [[Season_of_Prophecy#All_Prophecy_Friendship_Trees|Prophets]]. The group then splits up as the Prophet of Air takes their students aside, leading them towards the entrance of the [[Season_of_Prophecy#The_Trial_of_Air|Trial of Air]]. The lesson continues as all three Spirits test their equilibrium on top of the floating rock platforms.
+
+At the end of the memory, the Prophet of Air teaches the younger Spirits about balance by demonstrating how to perform a handstand.<br>
+<br>
+[[File:00 ID Seasonal Spirit - Prophet of Air.png|200px|thumb|none|Relive the Prophet of Air's memory]]
+</div>
+{{Clear}}
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Prophet-of-Air-balance-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Prophet-of-Air-balance-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Prophet-of-Air-balance-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Prophet-of-Air-balance-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar lean forward into a handstand while a wooden tapping sound effect plays. This action is continued for as long as you don't move your character. Exiting this Expression will make your avatar split their legs to bring them back down in a gymnastic dismount.
+*Level 2 makes the same motion as Level 1 with sparkles following your avatar's feet and a blue trail light following their hands on the dismount.
+*Level 3 will make your avatar lean backwards into a handstand and repeatedly complete a full turn while a metallic tapping sound effect plays. This action is continued for as long as you don't move your character. Exiting this Expression will make your avatar split their legs to bring them back down over their head in a gymnastic dismount.
+*Level 4 makes the same motion as Level 3 with trails of golden sparkles following your avatar's feet.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were {{Cost|3 H}}<ref name="Lvl 2 Emote price">The cost of the Level 2 [[#Expression|Expression]] is {{Cost|3 H}} &mdash; unlike the {{Cost|4 H}} cost for every other Traveling Spirit that has the standard three Expression upgrades.</ref>, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+== Cosmetics ==
+=== Mask ===
+The [[Mask]] offered by this Spirit is shaped like the head of a bat and made of is stone, with cyan-colored markings all over it, as well as small sections of hair near the ears, costing {{Cost|54 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|54 SC|season=Prophecy}} total).<br>
+{{Dye Details
+|area1=the cyan markings
+|cost1=2
+}}<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Hair ===
+The [[Hair]] offered by this Spirit is parted down the middle and consists out of two high twisted buns whose braided ends hang down the back of the head and are decoratively tied with several little blue hair bands, as well as a small chin-long braid on each side at the front of the face, tied off with a blue hairband, costing {{Cost|44 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's second node ({{Cost|13 SC|season=Prophecy}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Cape ===
+The [[Cape]] offered by this Spirit is purple with a dark purple furry collar and a trim in a similar shape as that of bat wings, that is bordered by a darker purple line and has little decorative stones hanging from the the tips, costing {{Cost|75 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fifth node ({{Cost|83 SC|season=Prophecy}} total).<br>
+{{Dye Details
+|area1=the trim and underside
+|area2=the white tail
+|cost1=3
+|cost2=1
+}}<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||Cape|interior}} {{!}} The Cape interior
+{{Icon Name||Cape|back}} {{!}} The Cape back
+<!--{{Icon Name||Cape|exterior}} {{!}} The Cape exterior-->
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Prop ===
+The [[Prop]] offered by this Spirit is a glowing blue wall painting of the air element symbol, i.e., a small decoration that appears on the targeted surface, costing {{Cost|15 C}} from the Traveling Spirit. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. The Prop appears as a backpack on its owner's back when carried.
+
+This item was not available during the [[Season of Prophecy]]. Instead, it was first introduced during the Prophet of Air's first visit as a [[#Traveling Spirit|Traveling Spirit]] on May 12, 2022.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Prop|icon}} {{!}} The Prop icon
+{{Icon Name||Prop|real}} {{!}} The Prop
+{{Icon Name||Prop|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Traveling Spirit==
+[[File:Traveling Spirit 061.png|200px|right|thumb]]
+{{Friendship Tree Info | traveling
+|ts_dates=*September 25, 2025 (#149)
+*May 12, 2022 (With a new [[#Prop|Prop]]) (#61)
+|rs_dates=*May 15, 2023 (SV#2)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Prophet of Air
+|season = Prophecy
+|image  = Prophecy-Spirit-Prophet-of-Air.png
+
+|nodeC6 = Cape 75 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeR4 = Mask 54 C
+|nodeC3 = wing
+|nodeL2 = Hair 44 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 3 H
+|nodeC1 = emote
+|nodeR1 = Prop 15 C
+| specialR1 = NEW
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+The hints given before the [[Prophet of Air]]'s first appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=First Visit Hints
+|content=<div>
+* Almost never stumbles
+* Is a spirit from a past sky season
+* Always keeps their space in an "organized disarray"
+* Always keeps the windows open
+* Their utilities bill must be terrible
+* Enjoys watching funny fail compilation videos
+* Hates things getting dusty
+* Their favorite food is fresh fruit
+* Laughs at corny jokes
+* Is great at rock climbing
+* Always goes through with a dare
+* Has a hard time staying still
+* Hates the dentist
+* Will always have a midnight snack
+* Likes to challenge themselves
+* Has the loudest voice in their group
+* Is a good listener
+* Is good at meditation
+* Their favorite color is black
+* Keeps the air conditioning on
+* Loves to meet new people
+* Knows how to skate
+* Would love electro-pop music instead
+* Enjoys adrenaline thrills
+* Is not afraid of heights
+* Would eat a bug
+* Has the nickname, Aleyu
+* Their fursona is a hyena
+* Their favorite tea is anything with a lot of sugar in it!
+* Could be a kpop fan
+* Would watch anime with their friend
+* Is a Gemini sun
+</div>
+}}
+
+==Season Friendship Tree==
+{{Friendship Tree Info | season | season=Prophecy}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Prophet of Air
+|type   = season
+|season = Prophecy
+|image  = Prophecy-Spirit-Prophet-of-Air.png
+
+|nodeC6 = season_heart 3 SC SP
+|nodeL5 = spell5 SP
+|nodeC5 = Cape 29 SC
+|nodeL4 = Mask SP
+|nodeC4 = spell5 23 SC
+|nodeL3 = emote4 SP
+|nodeC3 = emote3 18 SC
+|nodeL2 = spell5 SP
+|nodeC2 = Hair 13 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Trivia==  
+*Each [[Season_of_Prophecy#All_Prophecy_Friendship_Trees|Prophet]] is inspired by an animal and represented by an element of nature. The Prophet of Air is inspired by a bat, wearing a bat mask and bat wing cape. The "Balance" Expression may also be based on bats hanging upside down when at rest.
+*By using the Prophet of Air's Expression, it is possible to avoid losing light in [[Flora,_Minerals_and_Elements_of_Sky#Polluted_Water|Polluted Water]], as the player's hitbox in which they get harmed is only on their lower half.
+
+==Image Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Prophet of Air promo image (mid Season).png
+Air balance.jpeg
+Season of prophecy handstand emote 1.png
+Season of prophecy group handstand emote 1.png
+Prophecy-Prophet of Air.png
+</gallery>
+
+==Video Gallery==
+{{#ev:youtube|eJ1XmXur2E4|170|inline|Video Guide by Tara}}
+
+==References==
+<references/>
+
+[[de:Prophet der Luft]]
+[[pt-br:Profeta do Ar]]
+[[ru:Пророк воздуха]]
+[[fr:Prophète de l'air]]
+[[ja:風の預言者]]

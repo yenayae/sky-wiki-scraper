@@ -1,0 +1,110 @@
+{{Location
+|image      = Wish_Front_of_Sanctuary.jpg
+|realm      = Daylight Prairie
+|access     = [[Bird Nest]], [[The Wind Paths]]
+|season     = Sanctuary
+|seasonal_spirits  = {{Spirit Group|Sanctuary|format=infobox}}
+|children_of_light = 8 {{Icon|Map-Shrine-flashing-Star-WL-indicator.png|link=Children of Light#{{{title|{{PAGENAME}}}}}}}
+|pieces_of_light   = 299 {{Cost|L}}
+}}
+<section begin="Quote" />{{Quote|<br>'''''An escape from daily civilization.'''''|Sanctuary Islands opening}}<section end="Quote" />
+
+<section begin="Summary"/>The '''Sanctuary Islands''' is a Seasonal area added to [[Daylight Prairie]], introduced along with the [[Season of Sanctuary]] in [[Version History#0.10.0|Patch 0.10.0]]. All the quests, spirits, and activities can be found in this area. To reach Sanctuary Islands, head to the Bird Nest (behind the Spirit Gate on the right in Butterfly Fields). Just beyond, there is an opening in the clouds to explore. {{Wind Pathway|3}}, found on the highest island where the final Quest #6 bell is found.<section end="Summary"/>
+__TOC__
+{{Clear}}
+==Overview==
+The Sanctuary Islands evoke the feeling of a summer island paradise – inhabited by numerous Jellyfish, Crabs, and Mantas. Fresh features include waterfalls, sandy shores, geysers, beach chairs, sea caves, and floating islands that hang from the surrounding skies. A unique feature to the area are the geysers, allowing players to rocket high up while also recharging their capes.
+
+On the far side of the main island, players will see a mysterious stone monument which houses six broken bells. Standing nearby is the [[Sanctuary Guide]] who longingly watches over the ruined structure. There are 6 Seasonal Spirits, which upon completing, will give you their unique [[Expression]]. Additionally, there is a [https://sky-children-of-the-light.fandom.com/wiki/Map_Shrines?file=Prairie-Sanctuary-Island-Map-Shrine.jpg Map Shrine] located next to the Sanctuary Guide.
+
+===Child of Light Locations===
+There are '''8''' [[Children of Light#Sanctuary Islands|Children of Light]] scattered all over the area.
+{{#lst:Children_of_Light|SanctuaryIslands Children}}
+
+===Spirits in Sanctuary Islands===
+In the Sanctuary Islands, there are 6 [[Seasonal Spirits]] ({{Emote|Jelly Whisperer|inline_text}}, {{Emote|Timid Bookworm|inline_text}}, {{Emote|Rallying Thrillseeker|inline_text}}, {{Emote|Hiking Grouch|inline_text}}, {{Emote|Grateful Shell Collector|inline_text}}, {{Emote|Chill Sunbather|inline_text}}).
+<section begin="SpiritTabber" />{{Mobile Tabber 
+|tab1 = {{Emote|Jelly Whisperer|tab}}
+|c1   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Jelly Whisperer|Summary}} {{#lst:Jelly Whisperer|TS Friendship Tree}}</div>
+|type1= seasonal
+
+|tab2 = {{Emote|Timid Bookworm|tab}}
+|c2   = <div> {{#ev:youtube|fBs1TfQLRPM|400|right}} {{#lst:Timid Bookworm|Summary}} {{#lst:Timid Bookworm|TS Friendship Tree}}</div>
+|type2= seasonal
+
+|tab3 = {{Emote|Rallying Thrillseeker|tab}}
+|c3   = <div> {{#ev:youtube|vqDrzq5MZ9k|400|right}} {{#lst:Rallying Thrillseeker|Summary}} {{#lst:Rallying Thrillseeker|TS Friendship Tree}}</div>
+|type3= seasonal
+
+|tab4 = {{Emote|Hiking Grouch|tab}}
+|c4   = <div> {{#ev:youtube|fILkeV1zji4|400|right}} {{#lst:Hiking Grouch|Summary}} {{#lst:Hiking Grouch|TS Friendship Tree}}</div>
+|type4= seasonal
+
+|tab5 = {{Emote|Grateful Shell Collector|tab}}
+|c5   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Grateful Shell Collector|Summary}} {{#lst:Grateful Shell Collector|TS Friendship Tree}} </div>
+|type5= seasonal
+
+|tab6 = {{Emote|Chill Sunbather|tab}}
+|c6   = <div> {{#ev:youtube|197tor-WWVo|400|right}} {{#lst:Chill Sunbather|Summary}} {{#lst:Chill Sunbather|TS Friendship Tree}} </div>
+|type6= seasonal
+}}<section end="SpiritTabber" />
+
+==Activities==
+===Sanctuary Quests===
+<div style="float:right">{{Mobile Tabber|textonly=1
+|tab1 = 1
+|c1   = <div> {{#ev:youtube|RE_Ffe9Ifog|300|right}} </div>
+|tab2 = 2
+|c2   = <div> {{#ev:youtube|mblaRJ5k6qE|300|right}} </div>
+|tab3 = 3
+|c3   = <div> {{#ev:youtube|mMSAeNZQQ5s|300|right}} </div>
+|tab4 = 4
+|c4   = <div> {{#ev:youtube|wmzowrgispQ|300|right}} </div>
+|tab5 = 5
+|c5   = <div> {{#ev:youtube|H1bV1Q7w2m4|300|right}} </div>
+|tab6 = 6
+|c6   = <div> {{#ev:youtube|ltts7StUHvg|300|right}} </div>
+}}</div>
+In the Sanctuary Islands, Seasonal Quests from [[Season of Sanctuary]] are available to do, a series of treasure hunts to find bells to bring [[Light Creatures]] to the islands. There are 6 quests, each trial brings a new light creature to the islands, and cannot be replayed. Players must gather Memory Fragments to help the Spirit restore the ruined stone monument nearby. The fragments are found in the form of large golden bells which are strewn throughout the islands. Embark on a treasure hunt to find them all.
+{{clear}}
+===Social Light===
+<span id="Polluted Geyser"></span>
+<span id="Sunset Sanctuary Turtle"></span>
+{{Mobile Tabber|textonly=1
+|tab1 = Polluted Geyser
+|c1   = <div>
+{{#lst:Additional Light Sources|Polluted Geyser Summary}}[[Additional_Light_Sources#Polluted_Geyser|For more information, see here]]. </div>
+|tab2 = Sunset Sanctuary Turtle
+|c2   = <div>
+{{#lst:Additional Light Sources|Sunset Turtle Summary}}[[Additional_Light_Sources#Sunset_Sanctuary_Turtle|For more information, see here]]. </div>}}
+
+==Trivia==
+*The Sanctuary Islands came out July 6, 2020
+*The Polluted Geyser is supposed to mimic the pollution of real oceans
+*Sanctuary Islands were used as the [[Days of Nature|Days of Nature 2021-2023]] event space, adding the Polluted Geyser, Sunset Turtle, and [[Days of Nature#Daily Quest|The Great Vortex]] to the area.
+* The Sanctuary Islands area is featured in a piece of merch from thatskyshop, in the form of the [[That Sky Shop/Wave 12#Sanctuary Islands Pin|Sanctuary Islands Pin]]. It has a STAR feature which allows you and the friends holding your hand to teleport to the Sanctuary Islands.
+
+==Video Guide==
+[[File:Sanctuary_Islands_Bell_Quests_-_Sky_Children_of_the_Light|350px|thumb|left]]
+{{Clear}}
+==Gallery==
+<gallery widths="225" spacing="small" captionalign="center" hideaddbutton="true" mode="nolines">
+ClementMapWL.jpg|A guide made by @Clement#8978 on Discord
+SoS new area 1.JPG|Flying in from Bird Nest
+SoS new area 4.JPG|The main island, front side
+SoS new area 3.JPG|Main island, right side
+IMG 2154.png|Location map
+MMap - G Paradise.PNG|Another map
+C7B97D4B-EE16-4657-A4A3-BC766FEA1E1B.jpeg|A view of the islands from over the water
+</gallery>
+
+==References==
+<references />
+
+{{GameLevelsNav}}
+
+[[fr:Îles du Sanctuaire]]
+[[pt-br:Ilhas do Santuário]]
+[[ja:楽園の島々]]
+
+[[Category:Daylight Prairie]]

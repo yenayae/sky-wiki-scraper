@@ -1,0 +1,91 @@
+{{Spirit Infobox
+|type      = Non
+|emote_type= None
+|image     = Nesting-Nook-Shop.png
+|cosmetics = {{Spirit Item|Nesting Nook|Hairpiece|infobox}}
+|props	   = {{Spirit Item|Nesting Nook|prop_c|link=Nesting Nook#Couch|infobox}}{{Spirit Item|Nesting Nook|prop_s|link=Nesting Nook#Shelf|infobox}}{{Spirit Item|Nesting Nook|prop_r|link=Nesting Nook#Spice Rack|infobox}}
+|season    = Nesting
+|realm     = Aviary Village
+|location  = [[Nesting Workshop]]
+|ts        = None
+}}
+<section begin="Summary" />The '''Nesting Nook''' is a [[Ancestors#Seasonal Entities|Seasonal Shop]] from the [[Season of Nesting]]. The Nesting Nook was found within the [[Nesting Workshop]] in [[Aviary Village]], marked outside by a sign with Nesting's emblem. Unlike typical [[Seasonal Spirits]], there is no need to first relive a [[Spirit Memories|spirit memory]] to access this Shop and it does not offer an [[Expression]]. The collectibles offered by this Shop are a {{Spirit Item|Nesting Nook|Hairpiece|inline_text}}, a {{Spirit Item|Nesting Nook|prop_c|inline_text|link=Nesting Nook#Couch|label=Couch Prop}}, a {{Spirit Item|Nesting Nook|prop_s|inline_text|link=Nesting Nook#Shelf|label=Shelf Prop}}, and a {{Spirit Item|Nesting Nook|prop_r|inline_text|link=Nesting Nook#Spice Rack|label=Spice Rack Prop}}.<section end="Summary" />
+
+==Cosmetics==
+===<span id="Hair Accessory">Hair Accessory</span>===
+The [[Hair Accessory]] offered by this Shop is a chunky yellow pencil placed behind the player's left ear. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|92 SC|season=Nesting}} total).
+{{#tag:gallery
+|{{Icon Name|Nesting Nook|Hairpiece}} {{!}} The Hair Accessory icon
+{{Icon Name|Nesting Nook|Hairpiece|real}} {{!}} The Hair Accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Prop">Props</span>===
+This Seasonal Shop offers a total of three [[Props]]: a [[#Couch|Couch]], a [[#Shelf|Shelf]], and a [[#Spice Rack|Spice Rack]].
+
+====Couch====
+The [[Prop]] offered by this Shop is a double-seater couch made of pale wood, featuring a curved back and three yellow pillows on its seats. It is a placeable Prop that can be used to decorate [[Shared Spaces]] and seats two players. Unlike most other chairs, this item does not offer the ability to [[Chat]] with other players. When carried on its owner's back, it appears in its original form. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|36 SC|season=Nesting}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Nook|prop_c|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Nook|prop_c|real}} {{!}} The Prop
+Nesting-Nook-Loveseat-Prop-Using.png {{!}} The Prop in use
+{{Icon Name|Nesting Nook|prop_c|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Shelf====
+The [[Prop]] offered by this Shop is a short shelf made of pale wood with two small jars and a folded yellow towel on the lower rack. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, it appears in its original form. It was offered to all players for {{Cost|16 SC|season=Nesting}} during the Season, from the Friendship Tree's first node ({{Cost|16 SC|season=Nesting}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Nook|prop_s|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Nook|prop_s|real}} {{!}} The Prop
+{{Icon Name|Nesting Nook|prop_s|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Spice Rack====
+The [[Prop]] offered by this Shop is a wall-mounted spice rack made of pale wood, decorated with three small jars, hanging wooden spoons, and a hanging herb sprig. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, it appears in its original form. It was offered to all players for {{Cost|26 SC|season=Nesting}} during the Season, from the Friendship Tree's third node ({{Cost|62 SC|season=Nesting}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Nook|prop_r|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Nook|prop_r|real}} {{!}} The Prop
+{{Icon Name|Nesting Nook|prop_r|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Season Friendship Tree ==
+{{Friendship Tree Info | season| season=Nesting}}<section begin="Season Friendship Tree" />
+{{Friendship Tree
+|spirit = Nesting Nook
+|image  = Nesting-Nook-Shop.png
+|type   = season
+|season = Nesting
+
+|nodeC5 = season_heart 3 SC SP
+
+|nodeL4 = Hairpiece SP
+|nodeC4 = spellx 30 SC
+
+|nodeL3 = spellx SP
+|nodeC3 = prop_r 26 SC
+|  linkC3 = Nesting Nook#Spice Rack
+
+|nodeL2 = prop_c SP
+|  linkL2 = Nesting Nook#Couch
+|nodeC2 = spellx 20 SC
+
+|nodeL1 = spellx SP
+|nodeC1 = prop_s 16 SC
+|  linkC1 = Nesting Nook#Shelf
+}}<section end="Season Friendship Tree" />
+
+==References==
+<references />
+
+[[fr:Recoin de la Nidification]]
+[[pt-br:Recanto do Ninho]]
+[[ja:巣づくりの小部屋]]
+[[de:Nistecke]]
+
+[[Category:Season of Nesting]]

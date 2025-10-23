@@ -1,0 +1,210 @@
+Due to the increasing amount of information, the [[Friendship Tree]]s of the [[Seasonal Spirits]] will be split over multiple pages.
+{| class="wikitable"
+|- style="text-align:center"
+! {{#ifeq: {{PAGENAME}} | Seasonal Spirits/Friendship Trees | This Page | [[Seasonal Spirits/Friendship Trees]]}} !! {{#ifeq: {{PAGENAME}} | Seasonal Spirits/Friendship Trees 2 | This Page | [[Seasonal Spirits/Friendship Trees 2]]}} !! {{#ifeq: {{PAGENAME}} | Seasonal Spirits/Friendship Trees 3 | This Page | [[Seasonal Spirits/Friendship Trees 3]]}}
+|-
+| {{Cols|2|
+* Gratitude
+* Lightseekers
+* Belonging
+* Rhythm
+* Enchantment
+* Sanctuary
+* Prophecy
+* Dreams
+* Assembly
+* The Little Prince
+}}
+| {{Cols|2| 
+* Flight
+* Abyss
+* Performance
+* Shattering
+* AURORA
+* Remembrance
+* Passage
+* Moments
+* Revival
+* The Nine-Colored Deer
+}}
+| {{Cols|2|
+* Nesting
+* Duets
+* Moomin
+* Radiance
+* Blue Bird
+* Two Embers - Part 1
+}}
+|}
+
+==Season of Gratitude==
+See their Seasonal Friendship Tree on the [[Season of Gratitude#All Gratitude Friendship Trees|Season of Gratitude]] page.
+{{Mobile Tabber
+|tab1 = {{Emote|Sassy Drifter|tab}}
+|c1   = {{#lst:Sassy Drifter|TS Friendship Tree}}
+|tab2 = {{Emote|Stretching Guru|tab}}
+|c2   = {{#lst:Stretching Guru|TS Friendship Tree}}
+|tab3 = {{Emote|Provoking Performer|tab}}
+|c3   = {{#lst:Provoking Performer|TS Friendship Tree}}
+|tab4 = {{Emote|Leaping Dancer|tab}}
+|c4   = {{#lst:Leaping Dancer|TS Friendship Tree}}
+|tab5 = {{Emote|Saluting Protector|tab}}
+|c5   = {{#lst:Saluting Protector|TS Friendship Tree}}
+|tab6 = {{Emote|Greeting Shaman|tab}}
+|c6   = {{#lst:Greeting Shaman|TS Friendship Tree}}
+}}
+
+==Season of Lightseekers==
+See their Seasonal Friendship Tree on the [[Season of Lightseekers#All Lightseekers Friendship Trees|Season of Lightseekers]] page.
+{{Mobile Tabber
+|tab1 = {{Emote|Piggyback Lightseeker|tab}}
+|c1   = {{#lst:Piggyback Lightseeker|TS Friendship Tree}}
+|tab2 = {{Emote|Doublefive Light Catcher|tab}}
+|c2   = {{#lst:Doublefive Light Catcher|TS Friendship Tree}}
+|tab3 = {{Emote|Laidback Pioneer|tab}}
+|c3   = {{#lst:Laidback Pioneer|TS Friendship Tree}}
+|tab4 = {{Emote|Twirling Champion|tab}}
+|c4   = {{#lst:Twirling Champion|TS Friendship Tree}}
+|tab5 = {{Emote|Crab Whisperer|tab}}
+|c5   = {{#lst:Crab Whisperer|TS Friendship Tree}}
+|tab6 = {{Emote|Shushing Light Scholar|tab}}
+|c6   = {{#lst:Shushing Light Scholar|TS Friendship Tree}}
+}}
+
+==Season of Belonging==
+See their Seasonal Friendship Tree on the [[Season of Belonging#All Belonging Friendship Trees|Season of Belonging]] page.
+{{Mobile Tabber
+|tab1 = {{Emote|Boogie Kid|tab}}
+|c1   = {{#lst:Boogie Kid|TS Friendship Tree}}
+|tab2 = {{Emote|Confetti Cousin|tab}}
+|c2   = {{#lst:Confetti Cousin|TS Friendship Tree}}
+|tab3 = {{Emote|Hairtousle Teen|tab}}
+|c3   = {{#lst:Hairtousle Teen|TS Friendship Tree}}
+|tab4 = {{Emote|Sparkler Parent|tab}}
+|c4   = {{#lst:Sparkler Parent|TS Friendship Tree}}
+|tab5 = {{Emote|Pleaful Parent|tab}}
+|c5   = {{#lst:Pleaful Parent|TS Friendship Tree}}
+|tab6 = {{Emote|Wise Grandparent|tab}}
+|c6   = {{#lst:Wise Grandparent|TS Friendship Tree}}
+}}
+
+==Season of Rhythm==
+See their Seasonal Friendship Tree on the [[Season of Rhythm#All Rhythm Friendship Trees|Season of Rhythm]] page.
+{{Mobile Tabber
+|tab1 = {{Emote|Troupe Greeter|tab}}
+|c1   = {{#lst:Troupe Greeter|TS Friendship Tree}}
+|tab2 = {{Emote|Festival Spin Dancer|tab}}
+|c2   = {{#lst:Festival Spin Dancer|TS Friendship Tree}}
+|tab3 = {{Emote|Admiring Actor|tab}}
+|c3   = {{#lst:Admiring Actor|TS Friendship Tree}}
+|tab4 = {{Emote|Troupe Juggler|tab}}
+|c4   = {{#lst:Troupe Juggler|TS Friendship Tree}}
+|tab5 = {{Emote|Respectful Pianist|tab}}
+|c5   = {{#lst:Respectful Pianist|TS Friendship Tree}}
+|tab6 = {{Emote|Thoughtful Director|tab}}
+|c6   = {{#lst:Thoughtful Director|TS Friendship Tree}}
+}}
+
+==Season of Enchantment==
+See their Seasonal Friendship Tree on the [[Season of Enchantment#All Enchantment Friendship Trees|Season of Enchantment]] page.
+{{Mobile Tabber
+|tab1 = {{Emote|Nodding Muralist|tab}}
+|c1   = {{#lst:Nodding Muralist|TS Friendship Tree}}
+|tab2 = {{Emote|Indifferent Alchemist|tab}}
+|c2   = {{#lst:Indifferent Alchemist|TS Friendship Tree}}
+|tab3 = {{Emote|Crab Walker|tab}}
+|c3   = {{#lst:Crab Walker|TS Friendship Tree}}
+|tab4 = {{Emote|Scarecrow Farmer|tab}}
+|c4   = {{#lst:Scarecrow Farmer|TS Friendship Tree}}
+|tab5 = {{Emote|Snoozing Carpenter|tab}}
+|c5   = {{#lst:Snoozing Carpenter|TS Friendship Tree}}
+|tab6 = {{Emote|Playfighting Herbalist|tab}}
+|c6   = {{#lst:Playfighting Herbalist|TS Friendship Tree}}
+}}
+
+==Season of Sanctuary==
+See their Seasonal Friendship Tree on the [[Season of Sanctuary#All Sanctuary Friendship Trees|Season of Sanctuary]] page.
+{{Mobile Tabber
+|tab1 = {{Emote|Jellyfish Whisperer|tab}}
+|c1   = {{#lst:Jelly Whisperer|TS Friendship Tree}}
+|tab2 = {{Emote|Timid Bookworm|tab}}
+|c2   = {{#lst:Timid Bookworm|TS Friendship Tree}}
+|tab3 = {{Emote|Rallying Thrillseeker|tab}}
+|c3   = {{#lst:Rallying Thrillseeker|TS Friendship Tree}}
+|tab4 = {{Emote|Hiking Grouch|tab}}
+|c4   = {{#lst:Hiking Grouch|TS Friendship Tree}}
+|tab5 = {{Emote|Grateful Shell Collector|tab}}
+|c5   = {{#lst:Grateful Shell Collector|TS Friendship Tree}}
+|tab6 = {{Emote|Chill Sunbather|tab}}
+|c6   = {{#lst:Chill Sunbather|TS Friendship Tree}}
+}}
+
+==Season of Prophecy==
+See their Seasonal Friendship Tree on the [[Season of Prophecy#All Prophecy Friendship Trees|Season of Prophecy]] page.
+{{Mobile Tabber
+|tab1 = {{Emote|Prophet of Water|tab}}
+|c1   = {{#lst:Prophet of Water|TS Friendship Tree}}
+|tab2 = {{Emote|Prophet of Earth|tab}}
+|c2   = {{#lst:Prophet of Earth|TS Friendship Tree}}
+|tab3 = {{Emote|Prophet of Air|tab}}
+|c3   = {{#lst:Prophet of Air|TS Friendship Tree}}
+|tab4 = {{Emote|Prophet of Fire|tab}}
+|c4   = {{#lst:Prophet of Fire|TS Friendship Tree}}
+}}
+
+==Season of Dreams==
+See their Seasonal Friendship Tree on the [[Season of Dreams#All Dreams Friendship Trees|Season of Dreams]] page.
+{{Mobile Tabber
+|tab1 = {{Emote|Spinning Mentor|tab}}
+|c1   = {{#lst:Spinning Mentor|TS Friendship Tree}}
+|tab2 = {{Emote|Dancing Performer|tab}}
+|c2   = {{#if:{{#lst:Dancing Performer|TS Friendship Tree}}|{{#lst:Dancing Performer|TS Friendship Tree}}|[[Dancing Performer]] has not returned as a TS.}}
+|tab3 = {{Emote|Peeking Postman|tab}}
+|c3   = {{#lst:Peeking Postman|TS Friendship Tree}}
+|tab4 = {{Emote|Bearhug Hermit|tab}}
+|c4   = {{#lst:Bearhug Hermit|TS Friendship Tree}}
+}}
+
+
+==Season of Assembly==
+See their Seasonal Friendship Tree on the [[Season of Assembly#All Assembly Friendship Trees|Season of Assembly]] page.
+{{Mobile Tabber
+|tab1 = {{Emote|Baffled Botanist|tab}}
+|c1   = {{#lst:Baffled Botanist|TS Friendship Tree}}
+|tab2 = {{Emote|Scolding Student|tab}}
+|c2   = {{#lst:Scolding Student|TS Friendship Tree}}
+|tab3 = {{Emote|Scaredy Cadet|tab}}
+|c3   = {{#lst:Scaredy Cadet|TS Friendship Tree}}
+|tab4 = {{Emote|Marching Adventurer|tab}}
+|c4   = {{#lst:Marching Adventurer|TS Friendship Tree}}
+|tab5 = {{Emote|Chuckling Scout|tab}}
+|c5   = {{#lst:Chuckling Scout|TS Friendship Tree}}
+|tab6 = {{Emote|Daydream Forester |tab}}
+|c6   = {{#lst:Daydream Forester|TS Friendship Tree}}
+}}
+
+==Season of The Little Prince==
+See their Seasonal Friendship Tree on the [[Season of The Little Prince#All The Little Prince Friendship Trees|Season of The Little Prince]] page.
+{{Mobile Tabber
+|tab1 = {{Emote|Beckoning Ruler|tab}}
+|c1   = {{#lst:Beckoning Ruler|TS Friendship Tree}}
+|tab2 = {{Emote|Gloating Narcissist|tab}}
+|c2   = {{#lst:Gloating Narcissist|TS Friendship Tree}}
+|tab3 = {{Emote|Stretching Lamplighter|tab}}
+|c3   = {{#if:{{#lst:Stretching Lamplighter|TS Friendship Tree}}|{{#lst:Stretching Lamplighter|TS Friendship Tree}}|[[Stretching Lamplighter]] has not returned as a TS.}}
+|tab4 = {{Emote|Slouching Soldier|tab}}
+|c4   = {{#lst:Slouching Soldier|TS Friendship Tree}}
+|tab5 = {{Emote|Sneezing Geographer|tab}}
+|c5   = {{#lst:Sneezing Geographer|TS Friendship Tree}}
+|tab6 = {{Emote|Star Collector|tab}}
+|c6   = {{#lst:Star Collector|TS Friendship Tree}}
+}}
+
+==References==
+<references />
+
+[[fr:Esprits Saisonniers/Arbres d'Amitié]]
+[[pt-br:Espíritos_Sazonais/Árvores_de_Amizade]]
+[[ja:季節精霊/メニュー]]
+
+[[Category:Seasonal Spirits]]

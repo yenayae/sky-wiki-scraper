@@ -1,0 +1,446 @@
+
+==Dyeable Outfits==
+
+<section begin="Table" />
+{| class="article-table sortable"
+!class="unsortable" | Image
+!Icon
+![[#Availability Legend|Avail.]]
+!Source
+!Price
+!# of<br>Sections
+!Dye Cost
+|-
+|- id="Boogie Kid"
+| style="text-align: center;"| {{Spirit Item| Boogie Kid | outfit_real | table }}
+| {{Spirit Item| Boogie Kid | Outfit | table | sort=15 }}
+| {{Avail Summary | season | spirit=Boogie Kid | season=Belonging }}
+| {{Cost | 60 C }}
+| 2
+| 2 or 4 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="Troupe Greeter"
+| style="text-align: center;"| {{Spirit Item| Troupe Greeter | outfit_real | table }}
+| {{Spirit Item| Troupe Greeter | Outfit | table | sort=16 }}
+| {{Avail Summary | season | spirit=Troupe Greeter | season=Rhythm }}
+| {{Cost | 70 C }}
+| 2
+| 3 or 6 {{Cost | D}}<hr>2 or 4 {{Cost | D}}
+|- id="Troupe Juggler"
+| style="text-align: center;"| {{Spirit Item| Troupe Juggler | outfit_real | table }}
+| {{Spirit Item| Troupe Juggler | Outfit | table | sort=19 }}
+| {{Avail Summary | season | spirit=Troupe Juggler | season=Rhythm }}
+| {{Cost | 75 C }}
+| 2
+| 3 or 6 {{Cost | D}}<hr>2 or 4 {{Cost | D}}
+|- id="Festival Spin Dancer"
+| style="text-align: center;"| {{Spirit Item| Festival Spin Dancer | outfit_real | table }}
+| {{Spirit Item| Festival Spin Dancer | Outfit | table | sort=17 }}
+| {{Avail Summary | season | spirit=Festival Spin Dancer | season=Rhythm }}
+| {{Cost | 65 C }}
+| 2
+| 3 or 6 {{Cost | D}}<hr>2 or 4 {{Cost | D}}
+|- id="Admiring Actor"
+| style="text-align: center;"| {{Spirit Item| Admiring Actor | outfit_real | table }}
+| {{Spirit Item| Admiring Actor | Outfit | table | sort=18 }}
+| {{Avail Summary | season | spirit=Admiring Actor | season=Rhythm }}
+| {{Cost | 65 C }}
+| 2
+| 3 or 6 {{Cost | D}}<hr>2 or 4 {{Cost | D}}
+|- id="Jelly Whisperer"
+| style="text-align: center;"| {{Spirit Item| Jelly Whisperer | outfit_real | table }}
+| {{Spirit Item| Jelly Whisperer | Outfit | table | sort=21 }}
+| {{Avail Summary | season | spirit=Jelly Whisperer | season=Sanctuary }}
+| {{Cost | 65 C }}
+| 1
+| 3 or 6 {{Cost | D}}
+|- id="Prophet of Fire"
+| style="text-align: center;"| {{Spirit Item| Prophet of Fire | outfit_real | table }}
+| {{Spirit Item| Prophet of Fire | Outfit | table | sort=22 }}
+| {{Avail Summary | season | spirit=Prophet of Fire | season=Prophecy }}
+| {{Cost | 75 C }}
+| 2
+| 3 or 6 {{Cost | D}} <hr>1 or 2 {{Cost | D}}
+|- id="Peeking Postman"
+| style="text-align: center;"| {{Spirit Item| Peeking Postman | outfit_real | table }}
+| {{Spirit Item| Peeking Postman | Outfit | table | sort=23 }}
+| {{Avail Summary | season | spirit=Peeking Postman | season=Dreams }}
+| {{Cost | 70 C }}
+| 1
+| 3 or 6 {{Cost | D}}
+|- id="Bearhug Hermit"
+| style="text-align: center;"| {{Spirit Item| Bearhug Hermit | outfit_real | table }}
+| {{Spirit Item| Bearhug Hermit | Outfit | table | sort=24 }}
+| {{Avail Summary | season | spirit=Bearhug Hermit | season=Dreams }}
+| {{Cost | 70 C }}
+| 2
+| 2 or 4 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="Chuckling Scout"
+| style="text-align: center;"| {{Spirit Item| Chuckling Scout | outfit_real | table }}
+| {{Spirit Item| Chuckling Scout | Outfit | table | sort=25 }}
+| {{Avail Summary | season | spirit=Chuckling Scout | season=Assembly }}
+| {{Cost | 46 C }}
+| 2
+| 2 or 4 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="Flight Ultimate Outfit"
+| style="text-align: center;"| {{Spirit Item| Flight Guide | outfit_u_real | table | link=Flight Guide#Ultimate Outfit }}
+| {{Spirit Item| Flight Guide | outfit_u | table | sort=32 | link=Flight Guide#Ultimate Outfit }}
+| {{Avail Summary | ultimate | season=Flight }}
+| {{Cost | N/A }}
+| 2
+| 3 or 6 {{Cost | D}} <hr>1 or 2 {{Cost | D}}
+|- id="Talented Builder"
+| style="text-align: center;"| {{Spirit Item| Talented Builder | outfit_real | table }}
+| {{Spirit Item| Talented Builder | Outfit | table | sort=31 }}
+| {{Avail Summary | season | spirit=Talented Builder | season=Flight }}
+| {{Cost | 70 C }}
+| 2
+| 2 or 4 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="Tinkering Chimesmith"
+| style="text-align: center;"| {{Spirit Item| Tinkering Chimesmith | outfit_real | table }}
+| {{Spirit Item| Tinkering Chimesmith | Outfit | table | sort=30 }}
+| {{Avail Summary | season | spirit=Tinkering Chimesmith | season=Flight }}
+| {{Cost | 70 C }}
+| 2
+| 3 or 6 {{Cost | D}} <hr>1 or 2 {{Cost | D}}
+|- id="Light Whisperer"
+| style="text-align: center;"| {{Spirit Item| Light Whisperer | outfit_real | table }}
+| {{Spirit Item| Light Whisperer | Outfit | table | sort=29 }}
+| {{Avail Summary | season | spirit=Light Whisperer | season=Flight }}
+| {{Cost | 65 C }}
+| 2
+| 3 or 6 {{Cost | D}}<hr>2 or 4 {{Cost | D}}
+|- id="Anxious Angler"
+| style="text-align: center;"| {{Spirit Item| Anxious Angler | outfit_real | table }}
+| {{Spirit Item| Anxious Angler | Outfit | table | sort=33 }}
+| {{Avail Summary | season | spirit=Anxious Angler | season=Abyss }}
+| {{Cost | 65 C }}
+| 2
+| 2 or 4 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="Modest Dancer"
+| style="text-align: center;"| {{Spirit Item| Modest Dancer | outfit_real | table }}
+| {{Spirit Item| Modest Dancer | Outfit | table | sort=35 }}
+| {{Avail Summary | season | spirit=Modest Dancer | season=Performance }}
+| {{Cost | 70 C }}
+| 2
+| 2 or 4 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="Frantic Stagehand"
+| style="text-align: center;"| {{Spirit Item| Frantic Stagehand | outfit_real | table }}
+| {{Spirit Item| Frantic Stagehand | Outfit | table | sort=34 }}
+| {{Avail Summary | season | spirit=Frantic Stagehand | season=Performance }}
+| {{Cost | 70 C }}
+| 1
+| 2 or 4 {{Cost | D}}
+|- id="Forgetful Storyteller"
+| style="text-align: center;"| {{Spirit Item| Forgetful Storyteller | outfit_real | table }}
+| {{Spirit Item| Forgetful Storyteller | Outfit | table | sort=36 }}
+| {{Avail Summary | season | spirit=Forgetful Storyteller | season=Performance }}
+| {{Cost |  70 C }}
+| 2
+| 3 or 6 {{Cost | D}}<hr>2 or 4 {{Cost | D}}
+|- id="Pleading Child"
+| style="text-align: center;"| {{Spirit Item| Pleading Child | outfit_real | table }}
+| {{Spirit Item| Pleading Child | outfit | table | sort=43 }}
+| {{Avail Summary | season | spirit=Pleading Child | season=Remembrance }}
+| {{Cost | 40 C }}
+| 2
+| 2 or 4 {{Cost | D}} <hr>2 or 4 {{Cost | D}}
+|- id="Wounded Warrior"
+| style="text-align: center;"| {{Spirit Item| Wounded Warrior | outfit_real | table }}
+| {{Spirit Item | Wounded Warrior | outfit | table | sort=45 }}
+| {{Avail Summary | season | spirit=Wounded Warrior | season=Remembrance }}
+| {{Cost| 60 C }}
+| 2
+| 2 or 4 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="Tiptoeing Tea-Brewer"
+| style="text-align: center;"| {{Spirit Item| Tiptoeing Tea-Brewer | outfit_real | table }}
+| {{Spirit Item | Tiptoeing Tea-Brewer | outfit | table | sort=44 }}
+| {{Avail Summary | season | spirit=Tiptoeing Tea-Brewer | season=Remembrance }}
+| {{Cost | 55 C }}
+| 2
+| 3 or 6 {{Cost | D}} <hr>1 or 2 {{Cost | D}}
+|- id="Melancholy Mope"
+| style="text-align: center;"| {{Spirit Item| Melancholy Mope | outfit_real | table }}
+| {{Spirit Item | Melancholy Mope | outfit | table | sort=47 }}
+| {{Avail Summary | season | spirit=Melancholy Mope | season=Passage }}
+| {{Cost | unknown }}
+| 2
+| 2 or 4 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="Oddball Outcast"
+| style="text-align: center;"| {{Spirit Item| Oddball Outcast | outfit_real | table }}
+| {{Spirit Item | Oddball Outcast | outfit | table | sort=46 }}
+| {{Avail Summary | season | spirit=Oddball Outcast | season=Passage }}
+| {{Cost | 65 C }}
+| 2
+| 3 or 6 {{Cost | D}} <hr>1 or 2 {{Cost | D}}
+|- id="Ascetic Monk"
+| style="text-align: center;"| {{Spirit Item| Ascetic Monk | outfit_real | table }}
+| {{Spirit Item| Ascetic Monk | outfit | table | sort=49 }}
+| {{Avail Summary | season | spirit=Ascetic Monk | season=Moments }}
+| {{Cost | ? }}
+| 2
+| 2 or 4 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="Nightbird Whisperer"
+| style="text-align: center;"| {{Spirit Item| Nightbird Whisperer | outfit_real | table }}
+| {{Spirit Item| Nightbird Whisperer | outfit | table | sort=48 }}
+| {{Avail Summary | season | spirit=Nightbird Whisperer | season=Moments }}
+| {{Cost | ? }}
+| 2
+| {{Cost | 1 D }}<hr>{{Cost | 1 D }}
+|- id="Nesting Guide"
+| style="text-align: center;"| {{Spirit Item| Nesting Guide | outfit_u_real | table }}
+| {{Spirit Item| Nesting Guide | outfit_u | table | sort=49 }}
+| {{Avail Summary | u | spirit=Nesting Guide | season=Nesting }}
+| {{Cost | N/A }}
+| 2
+| 2 or 4 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="The Pianist's Beginnings"
+| style="text-align: center;"| {{Spirit Item| The Pianist's Beginnings | outfit_real | table }}
+| {{Spirit Item| The Pianist's Beginnings | outfit | table | sort=56 }}
+| {{Avail Summary | season | spirit=The Pianist's Beginnings | season=Duets }}
+| {{Cost | unknown }}
+| 2
+| 2 or 4 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="The Pianist's Flourishing"
+| style="text-align: center;"| {{Spirit Item| The Pianist's Flourishing | outfit_real | table }}
+| {{Spirit Item| The Pianist's Flourishing | outfit | table | sort=57 }}
+| {{Avail Summary | season | spirit=The Pianist's Flourishing | season=Duets }}
+| {{Cost | unknown }}
+| 2
+| 3 or 6 {{Cost | D}} <hr>1 or 2 {{Cost | D}}
+|- id="The Cellist's Beginnings"
+| style="text-align: center;"| {{Spirit Item| The Cellist's Beginnings | outfit_real | table }}
+| {{Spirit Item| The Cellist's Beginnings | outfit | table | sort=58 }}
+| {{Avail Summary | season | spirit=The Cellist's Beginnings | season=Duets }}
+| {{Cost | unknown }}
+| 2
+| 2 or 4 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="The Cellist's Flourishing"
+| style="text-align: center;"| {{Spirit Item| The Cellist's Flourishing | outfit_real | table }}
+| {{Spirit Item| The Cellist's Flourishing | outfit | table | sort=59 }}
+| {{Avail Summary | season | spirit=The Cellist's Flourishing | season=Duets }}
+| {{Cost | unknown }}
+| 2
+| {{Cost | 1 D }}<hr>{{Cost | 1 D }}
+|- id="Radiance Provoking Performer"
+| style="text-align: center;"| {{Spirit Item| Radiance Provoking Performer | outfit_real | table }}
+| {{Spirit Item| Radiance Provoking Performer | outfit | table | sort=64 }}
+| {{Avail Summary | season | spirit=Radiance Provoking Performer | season=Radiance }}
+| {{Cost | ?}}
+| 2
+| 3 or 6 {{Cost | D}}<hr>2 or 4 {{Cost | D}}
+|- id="Radiance Leaping Dancer"
+| style="text-align: center;"| {{Spirit Item| Radiance Leaping Dancer | outfit_real | table }}
+| {{Spirit Item| Radiance Leaping Dancer | outfit | table | sort=65 }}
+| {{Avail Summary | season | spirit=Leaping Dancer | season=Radiance }}
+| {{Cost | ? }}
+| 2
+| 3 or 6 {{Cost | D}}<hr>2 or 4 {{Cost | D}}
+|- id="Radiance Greeting Shaman"
+| style="text-align: center;"| {{Spirit Item| Radiance Greeting Shaman | outfit_real | table }}
+| {{Spirit Item| Radiance Greeting Shaman | outfit | table | sort=66 }}
+| {{Avail Summary | season | spirit=Radiance Greeting Shaman | season=Radiance }}
+| {{Cost | ? }}
+| 2
+| 3 or 6 {{Cost | D}}<hr>2 or 4 {{Cost | D}}
+|- id="Woodcutting Pleaful Parent"
+| style="text-align: center;"| {{Spirit Item| Woodcutting Pleaful Parent | outfit_real | table }}
+| {{Spirit Item| Woodcutting Pleaful Parent | outfit | table | sort=67 }}
+| {{Avail Summary | season | spirit=Woodcutting Pleaful Parent | season=Blue bird }}
+| {{Cost | ? }}
+| 1
+| 2 or 4 {{Cost | D}}
+|- id="Costumed Confetti Cousin"
+| style="text-align: center;"| {{Spirit Item| Costumed Confetti Cousin | outfit_real | table }}
+| {{Spirit Item| Costumed Confetti Cousin | outfit | table | sort=68 }}
+| {{Avail Summary | season | spirit=Costumed Confetti Cousin | season=Blue bird }}
+| {{Cost | ?}}
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Royal Hairtousle Teen"
+| style="text-align: center;"| {{Spirit Item| Royal Hairtousle Teen | outfit_real | table }}
+| {{Spirit Item| Royal Hairtousle Teen | outfit | table | sort=67 }}
+| {{Avail Summary | season | spirit=Royal Hairtousle Teen | season=Blue bird }}
+| {{Cost | ?}}
+| 2
+| 2 or 4 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="Stern Shepherd"
+| style="text-align: center;"| {{Spirit Item| Stern Shepherd | outfit_real | table }}
+| {{Spirit Item| Stern Shepherd | outfit | table | sort=67 }}
+| {{Avail Summary | season | spirit=Stern Shepherd | season=Two Embers - Part 1 }}
+| {{Cost | 18 SC | season=Two Embers - Part 1}}
+| 2
+| 2 or 4 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="Resourceful Recluse"
+| style="text-align: center;"| {{Spirit Item| Resourceful Recluse | outfit_real | table }}
+| {{Spirit Item| Resourceful Recluse | outfit | table | sort=67 }}
+| {{Avail Summary | season | spirit=Resourceful Recluse | season=Two Embers - Part 1 }}
+| {{Cost | SP}}
+| 2
+| 2 or 4 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="Scarred Sentry"
+| style="text-align: center;"| {{Spirit Item| Scarred Sentry | outfit_real | table }}
+| {{Spirit Item| Scarred Sentry | outfit | table | sort=67 }}
+| {{Avail Summary | season | spirit=Scarred Sentry | season=Two Embers - Part 1 }}
+| {{Cost | 22 SC | season=Two Embers - Part 1}}
+| 2
+| 3 or 6 {{Cost | D}}<hr>2 or 4 {{Cost | D}}
+|- id="Tender Toymaker"
+| style="text-align: center;"| {{Spirit Item| Tender Toymaker | outfit_real | table }}
+| {{Spirit Item| Tender Toymaker | outfit | table | sort=67 }}
+| {{Avail Summary | season | spirit=Tender Toymaker | season=Two Embers - Part 1 }}
+| {{Cost | SP}}
+| 2
+| 2 or 4 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="Days of Fortune Muralist's Smock"
+| style="text-align: center;"| {{Days Item| Smock | real | table }}
+| {{Days Item| Smock | icon | table | sort=500 }}
+| {{Avail Summary | days | days=Fortune }}
+| {{Cost| 9.99 USD }}
+| 1
+| 3 or 6 {{Cost | D}}
+|- id="Days of Fortune Dragon Vestment"
+| style="text-align: center;"| {{Days Item| Dragon Vestment | real | table }}
+| {{Days Item| Dragon Vestment | icon | table | sort=501 }}
+| {{Avail Summary | days | days=Fortune }}
+| {{Cost| 9.99 USD }}
+| 1
+| 3 or 6 {{Cost | D}}
+|- id="Bloom Gardening Tunic"
+| style="text-align: center;"| {{Days Item| Bloom Gardening Tunic | real | table }}
+| {{Days Item| Bloom Gardening Tunic | icon | table | sort=520 }}
+| {{Avail Summary | days | days=Bloom }}
+| {{Cost| 9.99 USD }}
+| 2
+| 2 or 4 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="Ocean Waves Outfit"
+| style="text-align: center;"| {{Days Item| Ocean Waves Outfit | real | table }}
+| {{Days Item| Ocean Waves Outfit | icon | table | sort=530 }}
+| {{Avail Summary | days | days=Nature }}
+| {{Cost | ? }}
+| 1
+| 2 or 4 {{Cost | D}}
+|- id="Rainbow Trousers"
+| style="text-align: center;"| {{Days Item| Rainbow Trousers | real | table }}
+| {{Days Item| Rainbow Trousers | icon | table | sort=540 }}
+| {{Avail Summary | days | days=Rainbow }}
+| {{Cost | 95 C }}
+| 2
+| 2 or 4 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="Rainbow Smock"
+| style="text-align: center;"| {{Days Item| Rainbow Smock | real | table }}
+| {{Days Item| Rainbow Smock | icon | table | sort=540 }}
+| {{Avail Summary | days | days=Color }}
+| {{Cost | ? }}
+| 2
+| 3 or 6 {{Cost | D}}<hr>3 or 6 {{Cost | D}}
+|- id="Dark Rainbow Tunic"
+| style="text-align: center;"| {{Days Item| Dark Rainbow Tunic | real | table }}
+| {{Days Item| Dark Rainbow Tunic | icon | table | sort=541 }}
+| {{Avail Summary | days | days=Rainbow }}
+| {{Cost | 14.99 USD }}
+| 2
+| 1 or 2 {{Cost | D}}
+|- id="Tournament Tunic"
+| style="text-align: center;"| {{Days Item| Tournament Tunic | real | table }}
+| {{Days Item| Tournament Tunic | icon | table | sort=560 }}
+| {{Avail Summary | days | days=Tournament }}
+| {{Cost | 9.99 USD }}
+| 1
+| 2 or 4 {{Cost | D}}
+|- id="Treasure Seeker's Bounty outfit"
+| style="text-align: center;"| {{Days Item| Treasure Seeker's Bounty outfit | real | table }}
+| {{Days Item| Treasure Seeker's Bounty outfit | icon | table | sort=560 }}
+| {{Avail Summary | days | days=Treasure }}
+| {{Cost | 14.99 USD }}<ref name="Treasure Seeker's Bounty">The $14.99 cost of the Treasure Seeker's Bounty includes 2 cosmetics (an Outfit and Mask).</ref>
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Sunlight Beach Shorts"
+| style="text-align: center;"| {{Days Item| Sunlight Beach Shorts | real | table }}
+| {{Days Item| Sunlight Beach Shorts | icon | table | sort=570 }}
+| {{Avail Summary | days | days=Sunlight }}
+| {{Cost | 70 C }}
+| 2
+| 2 or 4 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="Sunlight Dress"
+| style="text-align: center;"| {{Days Item| Sunlight Dress | real | table }}
+| {{Days Item| Sunlight Dress | icon | table | sort=570 }}
+| {{Avail Summary | days | days=Sunlight }}
+| {{Cost | 14.99 }}<ref name="Sunlight_Bonnet_Bundle">The $14.99 cost of the Sunlight Bonnet Bundle includes 2 cosmetics (an Outfit and Hair Accessory).</ref>
+| 1
+| 3 or 6 {{Cost | D}}
+|- id="Moonlight Frock"
+| style="text-align: center;"| {{Days Item| Moonlight Frock | real | table }}
+| {{Days Item| Moonlight Frock | icon | table | sort=580 }}
+| {{Avail Summary | days | days=Moonlight }}
+| {{Cost| 14.99 USD }}<ref name="moonlight_frock_and_updo">The $14.99 cost of the Moonlight Frock and Updo includes 2 cosmetics (an Outfit and Hair).</ref>
+| 2
+| 2 or 4 {{Cost | D}} <hr>2 or 4 {{Cost | D}}
+|- id="Style Wide-Leg Jeans"
+| style="text-align: center;"| {{Days Item| Style Wide-Leg Jeans | real | table }}
+| {{Days Item| Style Wide-Leg Jeans | icon | table | sort=590 }}
+| {{Avail Summary | days | days=Style }}
+| {{Cost| 9.99 USD }}
+| 2
+| 2 or 4 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="Style Dress"
+| style="text-align: center;"| {{Days Item| Style Dress | real | table }}
+| {{Days Item| Style Dress | icon | table | sort=591 }}
+| {{Avail Summary | days | days=Style }}
+| {{Cost| ? }}
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Style Dapper Suit"
+| style="text-align: center;"| {{Days Item| Style Dapper Suit | real | table }}
+| {{Days Item| Style Dapper Suit | icon | table | sort=592 }}
+| {{Avail Summary | days | days=Style }}
+| {{Cost| 14.99 USD }}<ref name="Style Dapper Suit">The $14.99 cost of the Style Dapper Trio includes 3 cosmetics (an Outfit, a Face Accessory, and a Neck Accessory).</ref>
+| 2
+| 2 or 4 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|- id="Mischief Witch Jumper"
+| style="text-align: center;"| {{Days Item| Mischief Witch Jumper | real | table }}
+| {{Days Item| Mischief Witch Jumper | icon | table | sort=600 }}
+| {{Avail Summary | days | days=Mischief }}
+| {{Cost| 9.99 USD }} <ref name="witch_jumper_pack">The $9.99 cost of the Mischief Witch Jumper includes 2 cosmetics (an Outfit and Shoes).</ref>
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Mischief Goth Garment"
+| style="text-align: center;"| {{Days Item| Mischief Goth Garment | real | table }}
+| {{Days Item| Mischief Goth Garment | icon | table | sort=601 }}
+| {{Avail Summary | days | days=Mischief }}
+| {{Cost| 58 C }}
+| 1
+| 2 or 4 {{Cost | D}}
+|- id="Marching Band Outfit"
+| style="text-align: center;"| {{Days Item| Marching Band Outfit | real | table }}
+| {{Days Item| Marching Band Outfit | icon | table | sort=601 }}
+| {{Avail Summary | days | days=Music }}
+| {{Cost| 9.99 USD }}
+| 2
+| 2 or 4 {{Cost | D}} <hr>2 or 4 {{Cost | D}}
+|- id="Fortune Snake Pants"
+| style="text-align: center;"| {{Days Item| Fortune Snake Pants | real | table }}
+| {{Days Item| Fortune Snake Pants | icon | table | sort=602 }}
+| {{Avail Summary | days | days=Fortune }}
+| {{Cost| ? }}
+| 2
+| 3 or 6 {{Cost | D}} <hr>1 or 2 {{Cost | D}}
+|- id="Anniversary Suit"
+| style="text-align: center;"| {{Days Item| Anniversary Suit | real | table }}
+| {{Days Item| Anniversary Suit | icon | table | sort=603 }}
+| {{Avail Summary | days | days=Sky }}
+| {{Cost| ? | event=Sky }}
+| 2
+| 1 or 2 {{Cost | D}} <hr>1 or 2 {{Cost | D}}
+|- id="Anniversary Gown"
+| style="text-align: center;"| {{Days Item| Anniversary Gown | real | table }}
+| {{Days Item| Anniversary Gown | icon | table | sort=603 }}
+| {{Avail Summary | days | days=Sky }}
+| {{Cost| $9.99 }}<ref name="anniversary gown ensemble">The $9.99 cost of the Anniversary Gown Ensemble includes 2 cosmetics (an Outfit and Shoes).</ref>
+| 1
+| 2 or 4 {{Cost | D}}
+
+|}
+<section end="Table" />
+
+[[fr:Tous les Cosmétiques Teintables/Toutes les Tenues Teintables]]
+[[ja:染色価格表/アウトフィット染料価格表]]

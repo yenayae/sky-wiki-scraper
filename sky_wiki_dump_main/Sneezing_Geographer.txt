@@ -1,0 +1,153 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Little-Prince-Spirit-Sneezing-Geographer.png|Standard
+Little-Prince-Spirit-Sneezing-Geographer-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Hair|infobox}}{{Spirit Item||Cape|infobox}}
+|season    = The Little Prince
+|realm     = Vault of Knowledge
+|location  = Starlight Desert
+|ts        = April 7, 2025 (SV#8)<br>April 13, 2023 (#85)
+}}
+<section begin="Summary" />The '''Sneezing Geographer''' is a [[Seasonal Spirit]] from the [[Season of The Little Prince]] who offers the {{Emote|Sneezing Geographer|inline_text}} Expression. The Sneezing Geographer is found in the [[Starlight Desert]], on top of the giant pile of books floating in the clouds at the far end of the area, relative to the [[Vault of Knowledge]]'s entrance. The collectibles [[#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Sneezing Geographer|Hair|inline_text}} and a {{Spirit Item|Sneezing Geographer|Cape|inline_text}}.<section end="Summary" />
+
+== Memory ==
+<div>{{#ev:youtube|zR55gSf77vs||inline|Video Guide by Tara}}
+
+The Sneezing Geographer can be found in the [[Starlight Desert]], on top of the giant pile of books floating in the clouds at the far end of the area, relative to the [[Vault of Knowledge]]'s entrance. This Spirit has a [[Carry Spirit Memory|carry spirit memory]] with 6 memory fragments and a 15-minute overall [[Timed Memory|time limit]]. 
+
+As their memory unfolds, the Sneezing Geographer can be seen studying illustrations of the stars, clouds, and the mountain on which the [[Eye of Eden]] rests. They look out in the sky and wander from book to book, deep in thought. The Spirit then climbs up a flight of stairs to gaze at the open pages of a book as big as themself, which shows an illustration of the Little Prince, speaking with another Spirit, and each of the Spirits of the [[Season of The Little Prince]], as well as the Seasonal Guide, [[The Rose]], on the Prince's home planet.
+
+At the end of the memory, the Geographer sneezes before continuing to pore over the book. 
+
+The Little Prince approaches the Geographer, says hello, and asks, "What are you reading?"
+
+The Geographer then admonishes the Prince. "Don't interrupt please. I'm studying a visitor from another planet."
+
+The Prince scratches his head in confusion, as the illustration in the book depicts him, the "visitor from another planet", and mentions that "Grown-ups sure are interesting."<br>
+<br>
+[[File:05 VK Seasonal Spirit - Sneezing Geographer.jpg|200px|thumb|none|Relive the Sneezing Geographer's memory]]
+</div>
+{{Clear}}
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Sneezing-Geographer-sneeze-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Sneezing-Geographer-sneeze-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Sneezing-Geographer-sneeze-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Sneezing-Geographer-sneeze-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar hold their hands to their chest and lean back quickly further and further with their eyes closing as they prepare to sneeze, before sneezing once. During the sneeze, their arms fly up to the sides and their Cape lifts up, before they stand still and finally wipe across their face with their right arm. Three high-pitched notes play while your avatar leans back, and finally, a fourth, louder eighth note plays as they sneeze, ended with a quieter note as they wipe their face.
+*Level 2 makes the same motion as Level 1, with a bunch of round, green light particles bursting out from your avatar's face as they sneeze, which quickly turn yellow, then orange, and finally a red color as they fall to the ground.
+*Level 3 will make your avatar lean far back and cover their face with their left hand to prepare to sneeze, before pausing briefly. Right after, they will sneeze so heavily that they jump up in the air with their feet spread wide apart and their arms lifted straight to the sides, before landing again and shaking out their head. A similar 3-note procession will play, but the fourth note that can be heard as your avatar sneezes is a much louder triplet note.
+*Level 4 makes the same motion as Level 3, with a trail of glowing, golden light particles following the motion of your avatar's hands as they prepare to sneeze, and a bunch of round, green light particles bursting out from their face as they sneeze, which quickly turn yellow, then orange, and finally a red color as they fall to the ground.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+== Cosmetics==
+=== Hair ===
+The [[Hair]] offered by this Spirit is a tall, cone-shaped, blue-gray, pointed hat with long ear flaps, and a wide, black band around the lower half of the hat, embellished with lighter blue-gray, symmetrical detailing, costing {{Cost|40 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's second node ({{Cost|14 SC|season=The Little Prince}} total). Note that this item is considered a Hair, not a [[Hair Accessory]], and as such it can not be worn over other Hairstyles.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Cape ===
+The [[Cape]] offered by this Spirit is heavy and dark-gray, with fabric pooling up towards the top in the back, and a black band on each opening side of the Cape, decorated with light blue-gray, symmetrical detailing, costing {{Cost|70 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|54 SC|season=The Little Prince}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+<!--{{Icon Name||Cape|interior}} {{!}} The Cape interior-->
+{{Icon Name||Cape|back}} {{!}} The Cape back
+<!--{{Icon Name||Cape|exterior}} {{!}} The Cape exterior-->
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling
+|ts_dates=*April 13, 2023 (#85)
+|rs_dates=*April 7, 2025 (SV#8)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Sneezing Geographer
+|season = Little Prince
+|image  = Sneezing Geographer Sprite.png
+
+|nodeC6 = Cape 70 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing 2 AC
+|nodeL2 = Hair 40 C
+|nodeC2 = spell5
+|nodeR1 = Heart 3 C
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+The hints given before the [[Sneezing Geographer]]'s first appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=First Visit Hints
+|content=<div>
+*Gets lost in thought
+*Has a hard time socializing
+*Is a compulsive list maker
+*Isn't wholly fond of children
+*Is fascinated by myths and legends
+*Is interested in meeting skykids
+*Doesn't want strangers touching their things
+*Hates how dust gets EVERYWHERE
+*Would like to travel to interesting places
+*Enjoys being told stories
+*Loves fine cheeses
+* [tio] Will be revealed in 15 minutes.
+</div>
+}}
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=The Little Prince}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Sneezing Geographer
+|image  = Sneezing Geographer Sprite.png
+|type   = season
+|season = The Little Prince
+
+|nodeC5 = season_heart 3 SC AP
+|nodeL4 = Cape AP
+|nodeC4 = spell5 22 SC
+|nodeL3 = emote4 AP
+|nodeC3 = emote3 18 SC
+|nodeL2 = spell5 AP
+|nodeC2 = Hair 14 SC
+|nodeL1 = emote2 AP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+== Trivia ==
+* The Sneezing Geographer is inspired by the Geographer in ''[[wp:The_Little_Prince|Le Petit Prince]]'' written by Antoine de Saint-Exupéry.
+
+== Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+SOTLP photos sneeze emote.png
+SOTLP photos group sneeze.png
+</gallery>
+
+==References==
+<references/>
+[[de:Niesender Geograf]]
+[[fr:Géographe qui éternue]]
+[[pt-br:Geógrafo Espirrando]]
+[[ru:Чихающий географ]]
+[[ja:くしゃみする地理学者]]

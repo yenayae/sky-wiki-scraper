@@ -1,0 +1,185 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Lightseekers-Spirit-Twirling-Champion.png|Standard
+Lightseekers-Spirit-Twirling-Champion-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Mask|infobox}}{{Spirit Item||Hair|infobox}}
+|instruments = {{Spirit Item||Instrument|infobox}}
+|season    = Lightseekers
+|realm     = Valley of Triumph
+|location  = Ice Rink
+|ts        = February 1, 2024 (#106)<br/>January 6, 2022 (#52)<br/>September 17, 2020 (#18)
+}}
+<section begin="Summary" />The '''Twirling Champion''' is a [[Seasonal Spirit]] from the [[Season of Lightseekers]] who offers the {{Emote|Twirling Champion|inline_text}} Expression. The Twirling Champion is found on the left side of the [[Ice Rink]], near the rock wall that surrounds the area. The collectibles [[#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Twirling Champion|Mask|inline_text}}, a {{Spirit Item|Twirling Champion|Hair|inline_text}}, and the {{Spirit Item|Twirling Champion|Instrument|label=Panflute Instrument|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Twirling-Champion-promo-image.jpg|thumb|320px|none|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|crKnfLTGvvM||inline|Video Guide by Tara}}
+
+The Twirling Champion can be found on the left side of the [[Ice Rink|Valley of Triumph's Ice Rink]], near the rock wall that surrounds the area. This Spirit has a [[Standard Memory|standard memory]] with 6 memory fragments and a 6-minute overall [[Timed Memory|time limit]]. 
+
+As their memory unfolds, the Twirling Champion can be seen performing a series of complicated leaps and twirls all around the rink, repeatedly launching themself several feet into the air. After the impressive display ends, the [[Confident Sightseer]] and the [[Leaping Dancer]] are seen standing side-by-side with the Twirling Champion as all three Spirits wave to unseen onlookers and celebrate their skill.
+
+At the end of the memory, the Twirling Champion performs one last move, hopping into a simple twirl.<br>
+<br>
+[[File:03 VT Seasonal Spirit - Twirling Champion.jpg|200px|thumb|none|Relive the Twirling Champion's memory]]
+</div>
+{{Clear}}
+
+== Expression ==
+{{Distinguish|type=emote|Twirl|Float Spin}}
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.<br>
+<br>
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Twirling-Champion-triple-axel-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Twirling-Champion-triple-axel-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Twirling-Champion-triple-axel-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Twirling-Champion-triple-axel-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar hop into a small twirl that finishes with their arms extended and their left leg swept out to the side while a short percussion accent plays.
+*Level 2 makes the same motion as Level 1 with a white ray of light and sparkles following the avatar's hands.
+*Level 3 will make your avatar leap into a higher, faster twirl with more revolutions, finishing with their arms extended and their left leg swept even further out to the side while a longer, ascending percussion accent plays.
+*Level 4 makes the same motion as Level 3 with a white ray of light following the avatar's hands and a burst of white light particles coming from the feet as they hit the ground.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+== Cosmetics ==
+=== Mask ===
+The [[Mask]] offered by this Spirit is light gray and round with a blue triangle under each eye, costing {{Cost|24 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|12 SC|season=Lightseekers}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Hair ===
+The [[Hair]] offered by this Spirit is a topknot tied with a blue band and a long tail that's draped over a shaved section on the top of the head, costing {{Cost|34 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fourth node ({{Cost|42 SC|season=Lightseekers}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|front}} {{!}} The Hair front
+{{Icon Name||Hair|real}} {{!}} The Hair side
+{{Icon Name||Hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Instrument ===
+The [[Instrument]] offered by the Twirling Champion is the '''Pan flute'''<ref>patch {{v|0.17.5.0}}</ref> ('''Panflute''' or '''Panpipes'''), costing {{Cost|60 C}} from the Traveling Spirit. It is colored purple, fades into a dark gray tone towards the top, and has triangle-shaped accents on it. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|42 SC|season=Lightseekers}} total). The player is standing up while playing the Instrument, which plays 15 notes. Its sound is similar to the [[Flute]] but the Panflute's sound is deeper and echoes more.
+
+The Panflute plays the [[Music Sheet Parts|wind part]] on Music Sheets. Its [[Instrument Pitch|pitch]] is the same as the standard {{Spirit Item|Cheerful Spectator|Instrument|inline_text}} (in C Major, it covers C<sub>4</sub> to C<sub>6</sub>).
+
+In [[Harmony Hall]], the Panflute can be found on the back wall, behind and to the right of the front counter in an alcove above the [[Horn]].<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Instrument|icon}} {{!}} The Instrument icon
+{{Icon Name||Instrument|real}} {{!}} The Instrument
+{{Icon Name||Instrument|held}} {{!}} Playing the Instrument
+{{Icon Name||Instrument|back}} {{!}} The Instrument on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Traveling Spirit ==
+[[File:SoL Valley TS placeholder.PNG|200px|right|thumb]]
+{{Friendship Tree Info | traveling
+|ts_dates=*February 1, 2024 (#106)
+*January 6, 2022 (#52)
+*September 17, 2020 (#18)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Twirling Champion
+|season = Lightseekers
+|image  = Lightseekers-Spirit-Twirling-Champion.png
+
+|nodeC6 = Hair 34 C
+|nodeL5 = Instrument 60 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Mask 24 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+No hints were given before the [[Twirling Champion]]'s first appearance.
+
+The hints given before the [[Twirling Champion]]'s second appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Second Visit Hints
+|content=<div>
+* Is never shy meeting new people!
+* Is a bit of a showoff
+* Only eats health foods
+* Reminds you to brush your teeth for a gleaming smile 
+* Says a minty fresh breath is best
+* Didn't skip leg day 
+* Is able to see beyond the 4th wall and see the player behind the Skykid
+* Has really good hearing
+* Is afraid of failure
+* Is always early to appointments
+* Is a social butterfly
+* Loves playing tag! 
+* Is constantly moving, they can't stay still
+* Wishes to be known for their skill all across the realms
+* Gets by with the support of their friends
+* Is ticklish
+* Can leap over buildings in a single bound
+* Does not have heat vision
+* Is totally not a krill
+* Stubbed their toe this morning
+* Is a silent and steady kind of spirit
+* Has many diverse hobbies
+</div>}}
+
+The hints given before the [[Twirling Champion]]'s third appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Third Visit Hints
+|content=<div>
+*Always ends up seeing someone they know when they travel
+</div>}}
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Lightseekers}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Twirling Champion
+|type   = season
+|season = Lightseekers
+|image  = Lightseekers-Spirit-Twirling-Champion.png
+
+|nodeC5 = Instrument AP
+|nodeC4 = Hair 16 SC
+|nodeL3 = emote4 AP
+|nodeC3 = emote3 14 SC
+|nodeL2 = Mask AP
+|nodeC2 = spell5 12 SC
+|nodeL1 = emote2 AP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Twirl expression .jpg
+Twirling-Champion-mid-Season-promo-image.jpeg
+Lightseekers-valley.png
+</gallery>
+
+==References==
+<references/>
+
+[[de:Wirbelnder Champion]]
+[[pt-br:Campeão de Giros]]
+[[ru:Кружащийся чемпион]]
+[[fr:Champion virevoltant]]

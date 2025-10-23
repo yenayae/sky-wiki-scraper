@@ -1,0 +1,73 @@
+{{Location
+|image      = Blue Bird seasonal area.jpg
+|realm      = Hidden Forest
+|access     = [[Hidden_Forest#Elevated_Clearing|Elevated Clearing]]
+|season     = Blue Bird
+|seasonal_spirits  = {{Spirit Group|Blue Bird|format=infobox}}
+|children_of_light = 1 {{Icon|Map-Shrine-flashing-Star-WL-indicator.png|link=Children of Light#{{{title|{{PAGENAME}}}}}}}
+|pieces_of_light   = 0 {{Cost|L}}
+}}
+<section begin="Summary" />The '''Blue Bird Theater (Unofficial Name)<ref>Unofficial name; "Blue Bird Theater" was chosen since the Season is inspired by Maurice Maeterlinck's play.</ref>''' is a Seasonal area added to [[Hidden Forest]], introduced with the [[Season of the Blue Bird]] in Update {{v|0.29.0}}. All the Quests, Spirits, and activities can be found in the area. The Theater can be accessed through the meditation circle beside the [[Despondent Boogie Kid]] in the [[Elevated Clearing]].<section end="Summary" />
+
+==Overview==
+The Blue Bird Theater is a dark room, with a stone stage atop a mirrored floor. The stage is decorated with a leafless, crooked tree wrapped in a silver vine. A blue spotlight shines on center stage, where the child and Blue Bird Guide can be found. The Season's Spirits stand along the back.
+
+A [[Map Shrines|Map Shrine]] and Return Shrine can be found across from the stage.
+
+===Child of Light Locations===
+One (1) [[Child of Light]] has been added to the new Blue Bird Theater area.<br>
+{{#lst:Children of Light|BlueBirdTheater Children}}
+
+===Spirits in the Blue Bird Theater===
+{{Mobile Tabber
+|tab1 = {{Season Icon|Season of the Blue Bird|tab}}
+|c1   = {{#lst:Blue Bird Guide|Friendship Tree}}
+|tab2 = {{Icon|Quest-icon.png|link=Quests|tab}}
+|c2   = {{#lst:Blue Bird Guide|Quest Tree}}
+|tab3 = {{Emote|Divining Wise Grandparent|tab}}
+|c3   = {{#lst:Divining Wise Grandparent|Season Friendship Tree}}
+|tab4 = {{Emote|Costumed Confetti Cousin|tab}}
+|c4   = {{#lst:Costumed Confetti Cousin|Season Friendship Tree}}
+|tab5 = {{Emote|Royal Hairtousle Teen|tab}}
+|c5   = {{#lst:Royal Hairtousle Teen|Season Friendship Tree}}
+|tab6 = {{Emote|Nostalgic Sparkler Parent|tab}}
+|c6   = {{#lst:Nostalgic Sparkler Parent|Season Friendship Tree}}
+|tab7 = {{Emote|Woodcutting Pleaful Parent|tab}}
+|c7   = {{#lst:Woodcutting Pleaful Parent|Season Friendship Tree}}
+}}
+==Activities==
+===Blue Bird Quests===
+<div style="float:right">{{Mobile Tabber|textonly=1
+|tab1 = 1
+|c1   = <div> {{#ev:youtube|YaHBIShxDfk|300|right}} </div>
+
+|tab2 = 2
+|c2   = <div> {{#ev:youtube|3wDNX28Tulg|300|right}} </div>
+
+|tab3 = 3
+|c3   = <div> {{#ev:youtube|pvv6Zf928xg|300|right}} </div>
+
+|tab4 = 4
+|c4   = <div> {{#ev:youtube|tbYznmEJSx8|300|right}} </div>
+
+|tab5 = 5
+|c5   = <div> {{#ev:youtube|hDwDQW7HbvU|300|right}} </div>
+
+|tab6 = 6
+|c6   = <div> {{#ev:youtube|BUSc4RL5WQU|300|right}} </div>
+}}</div>
+In the Blue Bird Theater, players are able to do Seasonal Quests from the [[Season of the Blue Bird]], a series of tasks challenging the player to help a sorrowful child and their family find the Blue Bird and uncover its true nature as they journey through memories which once brought them joy.
+{{Clear}}
+
+==Gallery==
+<gallery spacing="small" captionalign="center" widths="125">
+Blue Bird Map Shrine.jpg|The Blue Bird Theater on the Map
+</gallery>
+
+==References==
+<references />
+
+[[pt-br:Teatro do Pássaro Azul]]
+
+{{RealmsNav}}
+[[Category:Voids]]

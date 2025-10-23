@@ -1,0 +1,72 @@
+<!--{| class="wikitable"
+|-
+! General Realm Maps !! Dailies Maps
+|-
+| 
+* Regular and Seasonal Spirits
+* Seasonal Guides and their Quest locations
+* Children of Light
+* Pieces of Light sources such as Candles, Treasure Candles, Darkness, and Social Light areas
+* Shrines such as Return, Message, Shared Spaces, Shared Memory
+| 
+* Shard Eruption locations
+* Seasonal Candle and Treasure Candle rotations
+* Saplings, Rainbows, Regular Lights, Colored Lights
+* Chat Benches, Meditation Shrines, Social Light areas
+* Quest locations
+|}-->
+==General Realm Maps==
+{{Mobile Tabber
+|tab1 = [[File:{{Icon Name|Revival}}|frameless|51x51px|link=Aviary Village]]
+|c1   = {{Map:Aviary Village}}
+|tab2 = [[File:Constellation-isle-icon-Ray.png|frameless|51x51px|link=Isle]]
+|c2   = {{Map:Isle of Dawn}}
+|tab3 = [[File:Constellation-prairie-icon-Ray.png|frameless|51x51px|link=Prairie]]
+|c3   = {{Map:Daylight Prairie}}
+|tab4 = [[File:{{Icon Name|Moments}}|frameless|51x51px|link=Prairie Peaks]]
+|c4   = {{Map: Prairie Peaks}}
+|tab5 = [[File:Constellation-forest-icon-Ray.png|frameless|51x51px|link=Forest]]
+|c5   = {{Map:Hidden Forest}}
+|tab6 = [[File:{{Icon Name|Flight}}|frameless|51x51px|link=The Wind Paths]]
+|c6   = {{Map:The Wind Paths}}
+|tab7 = [[File:Constellation-valley-icon-Ray.png|frameless|51x51px|link=Valley]]
+|c7   = {{Map:Valley of Triumph}}
+|tab8 = [[File:{{Icon Name|Performance}}|frameless|51x51px|link=Village Theater]]
+|c8   = {{Map:Village Theater}}
+|tab9 = [[File:Constellation-wasteland-icon-Ray.png|frameless|51x51px|link=Wasteland]]
+|c9   = {{Map:Golden Wasteland}}
+|tab10 = [[File:{{Icon Name|Abyss}}|frameless|51x51px|link=Treasure Reef]]
+|c10   = {{Map:Treasure Reef}}
+|tab11 = [[File:Constellation-vault-icon-Ray.png|frameless|51x51px|link=Vault]]
+|c11   = {{Map:Vault of Knowledge}}
+|tab12 = [[File:{{Icon Name|Remembrance}}|frameless|51x51px|link=Repository of Refuge]]
+|c12   = {{Map:Repository of Refuge}}
+|tab13 = [[File:{{Icon Name|Nine-Colored Deer}}|frameless|51x51px|link=Crescent Oasis]]
+|c13   = {{Map:Crescent Oasis}}
+|tab14 = Eden
+|c14   = {{Map:Eye of Eden}}
+|tab15 = Eden PNR
+|c15   = {{Map:Eye of Eden PNR}}
+|tab16 = Secret Area
+|c16   = {{Map:Secret Area}}
+}}
+
+==Daily Quest Maps==
+{{Mobile Tabber
+|tab1 = [[File:Constellation-prairie-icon-Ray.png|frameless|51x51px|link=Prairie]]
+|c1   = {{Map:Dailies - Daylight Prairie}}
+|tab2 = [[File:Constellation-forest-icon-Ray.png|frameless|51x51px|link=Forest]]
+|c2   = {{Map:Dailies - Hidden Forest}}
+|tab3 = [[File:Constellation-valley-icon-Ray.png|frameless|51x51px|link=Valley]]
+|c3   = {{Map:Dailies - Valley of Triumph}}
+|tab4 = [[File:Constellation-wasteland-icon-Ray.png|frameless|51x51px|link=Wasteland]]
+|c4   = {{Map:Dailies - Golden Wasteland}}
+|tab5 = [[File:Constellation-vault-icon-Ray.png|frameless|51x51px|link=Vault]]
+|c5   = {{Map:Dailies - Vault of Knowledge}}
+}}
+<noinclude>
+{{Navigation Box}}</noinclude>
+[[Category:Maps]]
+
+[[pt-br:Mapas Interativos]]
+[[fr:Cartes Interactives]]

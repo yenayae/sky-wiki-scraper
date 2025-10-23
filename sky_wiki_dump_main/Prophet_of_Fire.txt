@@ -1,0 +1,246 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Prophecy-Spirit-Prophet-of-Fire.png|Standard
+Prophecy Spirit Prophet of Fire Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Outfit|infobox}}{{Spirit Item||Mask|infobox}}{{Spirit Item||Hair|infobox}}
+|props     = {{Spirit Item||Prop|infobox}}{{Spirit Item||Prop_s|infobox}}
+|music     = {{Music Sheet|17}}
+|season    = Prophecy
+|realm     = Isle of Dawn
+|location  = Cave of Prophecies
+|ts        = August 3, 2023 (#93)<br/>December 9, 2021 (#50)
+}}
+<section begin="Summary" />The '''Prophet of Fire''' is a [[Seasonal Spirit]] from the [[Season of Prophecy]] who offers the {{Emote|Prophet of Fire|inline_text}} Expression. The Prophet of Fire is found in the [[Cave of Prophecies]], near the entrance to the [[Season_of_Prophecy#The_Trial_of_Fire|Trial of Fire]]. The collectibles [[#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Prophet of Fire|Outfit|inline_text}}, a {{Spirit Item|Prophet of Fire|Mask|inline_text}}, a {{Spirit Item|Prophet of Fire|Hair|inline_text}}, a {{Spirit Item|Prophet of Fire|Prop|label=Cauldron Prop|inline_text}}, a {{Spirit Item|Prophet of Fire|Prop_s|label=Fire Sticker Prop|inline_text}}, and the {{Music Sheet|17|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Prophet-of-Fire-promo-image.jpg|thumb|320px|none|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|wup0dXxlEn4||inline|Video Guide by Tara}}
+
+The Prophet of Fire can be found in the [[Cave of Prophecies]], near the entrance to the [[Season_of_Prophecy#The_Trial_of_Fire|Trial of Fire]]. This Spirit has a [[Standard Memory|standard memory]] with 8 memory fragments and a 5-minute overall [[Timed Memory|time limit]].
+
+As their memory unfolds, the Prophet of Fire can be seen educating a pair of younger Spirits about the history of the Cave. The Prophet of Fire first greets the young Spirits before directing them to a seating area at the center of the Cave of Prophecies. Together, they sit with a larger group of Spirits listening intently to the lessons being provided by all four of the [[Season_of_Prophecy#All_Prophecy_Friendship_Trees|Prophets]]. The group then splits up as the Prophet of Fire takes their students aside, enthusiastically leading them towards the entrance of the [[Season_of_Prophecy#The_Trial_of_Fire|Trial of Fire]]. The Spirit takes a seat on a rocky ledge to continue the lesson.
+
+At the end of the memory, the Prophet of Fire teaches the younger Spirits about courage by pounding their chest and pumping a fist with pride.<br>
+<br>
+[[File:00 ID Seasonal Spirit - Prophet of Fire.jpg|200px|thumb|none|Relive the Prophet of Fire's memory]]
+</div>
+{{Clear}}
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Prophet-of-Fire-chest-pound-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Prophet-of-Fire-chest-pound-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Prophet-of-Fire-chest-pound-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Prophet-of-Fire-chest-pound-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar pound on their chest twice with one hand and then raise the other to flex their biceps, while drum and cymbal sound effects play.
+*Level 2 makes the same motion as Level 1, with a golden glowing sparkles bursting from your avatar's hand as they pound their chest, and white sparkles bursting from their other hand as they flex their muscles.
+*Level 3 will make your avatar hunch forward to flex both arms downwards, lean back to pound their chest with both hands a few times, and lastly give a slight nod, while drum sound effects play.
+*Level 4 makes the same motion as Level 3, with trails of golden sparkles following the motion of your avatar's hands as they flex their muscles, and several purple starburst effects appearing on their chest as they pound on it.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+== Cosmetics ==
+=== Outfit ===
+The [[Outfit]] offered by this Spirit is a pair of wide, baggy gray pants with a light blue wrap-top with mid-lengthed sleeves, as well as simple dark-gray boots with pointy tips, costing {{Cost|75 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fifth node ({{Cost|83 SC|season=Prophecy}} total).<br>{{Dye_Details
+|area1=the top
+|cost1=3
+|area2=the boots' top rim and pointy ornament
+|cost2=1
+}}
+<br>
+{{#tag:gallery
+|{{Icon Name||Outfit|icon}} {{!}} The Outfit icon
+{{Icon Name||Outfit|real}} {{!}} The Outfit front
+{{Icon Name||Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Mask ===
+The [[Mask]] offered by this Spirit is stone-gray and shaped like a lion's head, with decorative red markings all over it, costing {{Cost|54 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fifth node ({{Cost|83 SC|season=Prophecy}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Hair ===
+The [[Hair]] offered by this Spirit consists of short dreadlocks, some of which poke up from the head, as well as shaved sides which fade as they come closer to the ears, costing {{Cost|44 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|13 SC|season=Prophecy}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== <span id="Prop">Props</span> ===
+===Fire Cauldron===
+The [[Prop]] offered by this Spirit is a round, stone-gray fire cauldron like those seen throughout the Cave of Prophecies, costing {{Cost|13 H}} from the Traveling Spirit. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. When lit, its flame will recharge the player's wings. It appears as a miniature cauldron on its owner's back when carried.
+
+This item was not available during the [[Season of Prophecy]].  Instead, it was introduced during the Prophet of Fire's first visit as a [[#Traveling_Spirit|Traveling Spirit]] on December 9, 2021.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Prop|icon}} {{!}} The Prop icon
+{{Icon Name||Prop|real}} {{!}} The Prop
+{{Icon Name||Prop|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Fire Sticker===
+The [[Prop]] offered by this Spirit is a glowing wall painting of the fire element symbol, i.e., a small decoration that appears on the targeted surface, costing {{Cost|15 C}} from the Traveling Spirit. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. The Prop appears as a backpack on its owner's back when carried.
+
+This item was not available during the [[Season of Prophecy]]. Instead, it was first introduced during the Prophet of Fire's second visit as a [[#Traveling_Spirit|Traveling Spirit]] on August 3, 2023.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Prop_s|icon}} {{!}} The Prop icon
+{{Icon Name||Prop_s|real}} {{!}} The Prop
+{{Icon Name||Prop_s|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Music Sheet ==
+The Prophet of Fire offers the {{Music Sheet|17}} [[Music Sheet]] #17, costing {{Cost|15 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|54 SC|season=Prophecy}} total). It is a song in the key of C Major.<br>
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guide
+|content=
+{{#ev:youtube|4OGVx7cNSw4||inline|Music Sheet Video Guide by Ikejiji}}
+}}
+
+== Traveling Spirit ==
+[[File:Traveling Spirit 93 - Prophet of Fire by myseljo.png|200px|right|thumb]]
+{{Friendship Tree Info | traveling
+|ts_dates=*August 3, 2023 (With a new [[#Fire Sticker|Prop]]) (#93)<ref name="TS #93">The [[#Mask|Mask]]'s price decreased from {{Cost|55 C}} to {{Cost|54 C}} during the Prophet of Fire's second visit as a Traveling Spirit.</ref>
+*December 9, 2021 (With a new [[#Fire Cauldron|Prop]]) (#50)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Prophet of Fire
+|season = Prophecy
+|image  = Prophecy-Spirit-Prophet-of-Fire.png
+
+|nodeC6 = Outfit 75 C
+|nodeL5 = Mask 54 C
+|nodeC5 = spell5
+|nodeR5 = Prop 13 H NEW
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeR4 = music17 15 C
+|nodeC3 = wing
+|nodeL2 = Hair 44 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeR1 = prop_s 15 C NEW
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+=== Hints ===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+The hints given before the [[Prophet of Fire]]'s first appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=First Visit Hints
+|content=<div>
+* Wears socks to bed
+* Is a huge anime fan
+* Is not afraid to cry
+* Stands against cyberbullies
+* Tells you to go to BED
+* Doesn't know how to wear sunglasses
+* Likes slice of life shows and comics
+* Doesn't have an indoor voice 
+* Has broken a bone before
+* Is vegetarian
+* Would prefer me not to answer the question "....would they eat socks? And would it be holiday socks?"
+* Says Zoinks when surprised
+* Doesn't like playing rock paper scissors because they lose a lot
+* Would enjoy watching high-stakes cooking shows
+* Is a Leo sun, Aries moon, Pisces rising
+* [ikô] Is really good at roasting marshmallows
+* [ikô] Is up to date with the Jujutsu Kaisen manga
+* [ikô] Actually enjoys the anime more because since they're the active one who likes to get pumped up for exercises, they enjoy studying the character's movement when they're fighting. story-wise? The manga is their go-to.
+* [ikô] Doesn't like guacamole
+* [ikô] Owns a bumble bee pillow pet
+</div>
+}}
+
+The hints given before the [[Prophet of Fire]]'s second appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Second Visit Hints
+|content=<div>
+* Enjoys listening to 80's pop new wave music the most
+* Is learning to knit
+* Doesn't like to use air conditioning
+* Thinks legwarmers could be the next fashion trend
+* Is more acrobatic than you think
+* Burns soup
+* Is a shy artist
+* Missed their Sky plane once
+* Enjoys getting dizzy
+* "The 80's song I was thinking of was 'You spin me right round'!"
+* "What's their favorite color?"
+** "I would tell you but it would be obvious once the TS is revealed"
+** "So is it red?"
+** "Yes, probably an obnoxiously bright-colored shade of it too"
+* [wes] Is not Nicolas Cage, probably
+* [reika] I think it's about time to not trust what Ash says about TS
+* [reika] Is more acrobatic than you
+* [reika] I'm still waiting to be exempt from slow mode
+* [wes] Is a little bit concerned about how feral gen-chat gets for the TS reveal
+* [wes] As an AI language model, I cannot generate Sky TS hints for you. That responsibility lies solely with Ash.
+</div>
+}}
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Prophecy}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Prophet of Fire
+|type   = season
+|season = Prophecy
+|image  = Prophecy-Spirit-Prophet-of-Fire.png
+
+|nodeC6 = season_heart 3 SC SP
+|nodeL5 = Outfit SP
+|nodeC5 = Mask 29 SC
+|nodeL4 = music17 SP
+|nodeC4 = spell5 23 SC
+|nodeL3 = emote4 SP
+|nodeC3 = emote3 18 SC
+|nodeL2 = Hair SP
+|nodeC2 = spell5 13 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Trivia==
+* Each [[Season_of_Prophecy#All_Prophecy_Friendship_Trees|Prophet]] is inspired by an animal and represented by an element of nature. The Prophet of Fire is inspired by a lion, wearing a lion mask and with a chest-pounding Expression that might symbolize a proud lion.
+* The Prophet of Fire is the first [[Spirits|Spirit]] that offers two [[#Prop|Props]]; the Fire Cauldron and the Fire Sticker.
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Prophet of Fire promo image (second visit).png
+Prophet of Fire promo image (mid Season).png
+Fire chest pound better.png
+Season of prophecy chest point emote 1.png
+Season of prophecy group chest pound emote 1.png
+Prophecy prophet of fire.png
+</gallery>
+
+==References==
+<references/>
+[[de:Prophet des Feuers]]
+[[fr:Prophète du feu]]
+[[pt-br:Profeta do Fogo]]
+[[ru:Пророк огня]]
+[[ja:火の預言者]]

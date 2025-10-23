@@ -1,0 +1,347 @@
+{{Spoilers}} {{Quote|<br/>Beyond the barren wastes, the Vault of Knowledge awaits|Golden Wasteland opening}}
+{{Realm
+|image         = Wasteland Thumbnail.png
+|previousRealm = [[Valley of Triumph]]
+|nextRealm     = [[Vault of Knowledge]]
+|constellation = 05_Wasteland_Constellation.png
+}}
+'''Golden Wasteland''', often shortened to ''Wasteland'', is a desolate land bathed in the fading glow of a once-mighty civilization. It is the fifth realm the player visits, being the first encounter with light-draining dark water. If the player is in contact with the water, their light begins to drain - similar to Rainfall. The light can be recharged by standing near a light source, or interacting with a friend. Golden Wasteland is separated into eight areas<ref>not including the [[Hidden Forest#The Wind Paths|The Wind Paths]]</ref>, with loading screens between them all. It can well be positioned as the second hardest realm, only after [[Eye of Eden]]. This is also a place where help can be extremely valuable.
+
+Golden Wasteland holds 6 [[Regular Spirits]] and 14 [[Seasonal Spirits]]. Locations of all available Children of Light, which hold Winged Light, can be found of the [[Children_of_Light#Golden_Wasteland_(18)|Children of Light]] page.
+
+==Social Space==
+[[File:Wasteland SocialSpace1.png|right|300px]]
+After leaving the [[Valley of Triumph#Valley Temple|Valley Temple]], the player flies through the clouds, turns left and eventually lands in this area. The Social Space has a bonfire surrounded by two benches in the center, an [[Outfit Shrine]] to the left, and an entrance to the [[#Nintendo Switch Area|Nintendo Switch Area]] to the left as well. To the right is a port, acting as the entrance to [[#Treasure Reef|Treasure Reef]]. Scattered around the whole space are Regular Spirits that have been relived in the current realm. There is a jump-off point onwards, where you are able to dive down to the [[#Broken Temple|Broken Temple]] area via the large tornado. There is a [[Map Shrine]] on the jump-off point.
+
+In the Social Space, players can find:
+* 1 [[Map Shrine#Golden Wasteland|Map Shrine]]
+
+===Nintendo Switch Area===
+With the release of Sky on Nintendo Switch, thatgamecompany added a small playground area that takes on the character and play-style of Nintendo's Super Mario series of games, turning the camera to a stationary angle to mimic the 2D style of the early Super Mario games and featuring the iconic ? Blocks, Warp Pipes and other hallmarks of the Mario franchise.
+
+The entrance of the area lies behind the [[Outfit Shrine]] (around the left-hand side), in the form of a pipe blocked by a Spirit Gate. A player needs either the red or blue cape from the [[Nintendo Pack]] in order to enter. As with other specialty capes, a person with the cape can lead players without the cape inside while holding hands with them. There is a red side and a blue side of the Spirit Gate to represent two Joycons, and you can only enter using the side that corresponds with the cape you are wearing.
+<gallery widths="150" spacing="small" mode="nolines">
+File:Nintendo Switch Area-0.jpg
+File:Nintendo Switch Area-1.jpg
+File:Nintendo Switch Area-2.jpg
+File:Nintendo Switch Area-3.jpg
+File:Nintendo Switch Area-4.jpg
+File:Nintendo Switch Area-5.jpg
+</gallery>
+
+==Treasure Reef==
+{{Main|Treasure Reef}} [[File:Wasteland TreasureReef1.png|right|300px]] {{#lst:Treasure Reef|Quote}}
+{{#lst:Treasure Reef|Summary}}
+
+In the Treasure Reef, players can find:
+* 2 [[Children_of_Light#Treasure Reef|Children of Light]]
+* 1 [[Map Shrine#Golden Wasteland|Map Shrine]]
+* 4 [[Seasonal Spirits]] ({{Emote|Anxious Angler}}[[Anxious Angler]],{{Emote|Ceasing Commodore}}[[Ceasing Commodore]],{{Emote|Bumbling Boatswain}}[[Bumbling Boatswain]],{{Emote|Cackling Cannoneer}}[[Cackling Cannoneer]])
+
+{{#lst:Treasure Reef|SpiritTabber}}
+
+==Broken Temple==
+[[File:Wasteland BrokenTemple1.png|right|300px]]
+This is the area you land in after jumping into the tornado in the [[#Social Space|Social Space]]: a desolate landscape of crumbling walls and weathered structures. Here the player first encounters dark water, which drains the player's light when touched. This light can be recovered by surrounding braziers or by burning dark plants for their wax. Additionally, the player will have their second encounter with [[Crabs]], and which will be continually encountered throughout Wasteland. The path to the [[#Graveyard Entrance|Graveyard Entrance]] is available by walking or flying straight forward, passing near the broken temple structure. To the far right of the area is a pier hosting a boat that can take players to [[#The Forgotten Ark|The Forgotten Ark]].
+
+In the Broken Temple area, players can find:
+* 2 [[Children_of_Light#Broken Temple|Children of Light]]
+* 1 [[Map Shrine#Golden Wasteland|Map Shrine]]
+* 2 [[Regular Spirits]] ({{Emote|Frightened Refugee}}[[Frightened Refugee]],{{Emote|Fainting Warrior}}[[Fainting Warrior]])
+
+{{Mobile Tabber
+|tab1 = {{Emote|Frightened Refugee|tab}}
+|c1   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Frightened Refugee|Summary}} {{#lst:Frightened Refugee|Friendship Tree}} </div>
+|type1= regular
+
+|tab2 = {{Emote|Fainting Warrior|tab}}
+|c2   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Fainting Warrior|Summary}} {{#lst:Fainting Warrior|Friendship Tree}} </div>
+|type2= regular
+}}
+
+==<span id="Forgotten Ark">The Forgotten Ark</span>==
+{{Main|The Forgotten Ark}} [[File:Wasteland ForgottenArk1.png|right|300px]] {{#lst:The Forgotten Ark|Quote}} 
+{{#lst:The Forgotten Ark|Summary}} [[The Forgotten Ark|For more information, see here]].
+
+In The Forgotten Ark, players can find:
+* 2 [[Children_of_Light#Forgotten Ark|Children of Light]]
+* 1 [[Map Shrine#Golden Wasteland|Map Shrine]]
+* 6 [[Seasonal Spirits]] ({{Emote|Nodding Muralist}}[[Nodding Muralist]],{{Emote|Indifferent Alchemist}}[[Indifferent Alchemist]],{{Emote|Crab Walker}}[[Crab Walker]],{{Emote|Scarecrow Farmer}}[[Scarecrow Farmer]],{{Emote|Snoozing Carpenter}}[[Snoozing Carpenter]],{{Emote|Playfighting Herbalist}}[[Playfighting Herbalist]])
+
+{{#lst:The Forgotten Ark|SpiritTabber}}
+
+==<span id="First Krill area"> <span id="First-Krill area">Graveyard Entrance</span></span>==
+[[File:Wasteland GraveyardEntrance1.png|right|300px]]
+Graveyard Entrance, referred to as 'First Krill Area' by the community, is combined with the next area, [[#Graveyard|Graveyard]], in-game. However, for reading simplicity they have been split into two areas for this article. The area is surrounded by gigantic walls and pillars corroded to time. Familiar structures can be seen, similar to the one in the [[Hidden_Forest#Forest_Temple|Forest Temple]]. The Graveyard Entrance serves as the player's first encounter with [[Dark Dragons]], a formidable opponent that players are recommended to avoid. Being seen and hit by one causes the player to lose 1-6 Winged Light and have their light extinguished. The Winged Light can be recollected for a short time after they drop, but it is generally difficult to do so alone.
+
+In the Graveyard Entrance, players can find:
+* 2 [[Children_of_Light#Graveyard|Children of Light]]
+* 1 [[Regular Spirit]] ({{Emote|Courageous Soldier}}[[Courageous Soldier]])
+* 1 [[Seasonal Spirit]] ({{Emote|Saluting Protector}}[[Saluting Protector]])
+
+{{Mobile Tabber
+|tab1 = {{Emote|Courageous Soldier|tab}}
+|c1   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Courageous Soldier|Summary}} {{#lst:Courageous Soldier|Friendship Tree}} </div>
+|type1= regular
+
+|line2= true
+|tab2 = {{Emote|Saluting Protector|tab}}
+|c2   = <div> {{#ev:youtube|5VM8mJZVJ-A|400|right}} {{#lst:Saluting Protector|Summary}} {{#lst:Saluting Protector|TS Friendship Tree}} </div>
+|type2= seasonal
+}}
+
+==Graveyard==
+[[File:Wasteland Graveyard1.png|right|300px]]
+Once the player has made it past the first Dark Dragon in the [[#Graveyard Entrance|Graveyard Entrance]], a slope leads them into the lower swamp, the Graveyard. The area is teeming with Dark Dragons and Crabs, surrounded by gigantic bones emerging from the unnatural landscape. It is recommended to remain vigilant and cautious in this area, as attacks from Dark Dragons can be devastating. In addition to the dark creatures, it's also filled with Dark Plants, with a large one in the center requiring multiple players to burn. Beware while burning this, as it is in the middle of a Dark Dragon's path.
+
+To continue onwards, move straight ahead, towards where streaks of wind can be seen leading to the next area: [[#Battlefield|Battlefield]]. Alternatively, the player can enter the [[#Crab Fields|Crab Fields]] via a pipe near the beginning slope blocked by a Spirit Gate requiring one [[Regular Spirit]] from Wasteland to have been relived, or through an entrance to the far right, also blocked by a Spirit Gate with the same requirements.
+
+In the Graveyard, players can find:
+* 4 [[Children_of_Light#Graveyard|Children of Light]]
+* 1 [[Map Shrine#Golden Wasteland|Map Shrine]]
+* 1 [[Regular Spirit]] ({{Emote|Stealthy Survivor}}[[Stealthy Survivor]])
+* 2 [[Seasonal Spirits]] ({{Emote|Pleaful Parent}}[[Pleaful Parent]],{{Emote|Respectful Pianist}}[[Respectful Pianist]])
+
+{{Mobile Tabber
+|tab1 = {{Emote|Stealthy Survivor|tab}}
+|c1   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Stealthy Survivor|Summary}} {{#lst:Stealthy Survivor|Friendship Tree}} </div>
+|type1= regular
+
+|line2= true
+|tab2 = {{Emote|Pleaful Parent|tab}}
+|c2   = <div> {{#ev:youtube|GjUfabmBwvE|400|right}} {{#lst:Pleaful Parent|Summary}} {{#lst:Pleaful Parent|TS Friendship Tree}} </div>
+|type2= seasonal
+
+|tab3 = {{Emote|Respectful Pianist|tab}}
+|c3   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Respectful Pianist|Summary}} {{#lst:Respectful Pianist|TS Friendship Tree}} </div>
+|type3= seasonal
+}}
+
+==<span id="Shipwreck"><span id="Crab Field">Crab Fields</span></span>==
+[[File:Wasteland CrabFields1.png|right|300px]]
+Crab Fields is a Dark Crab-infested area, as per the name, with a patrolling Dark Dragon. The area holds an abandoned ship in the center which the dragon orbits, with a large amount of pipes along the walls of the area.
+
+There are four ways to access the Crab Fields area. For two of them you will need to have found either one or two Regular Spirits from Golden Wasteland.
+
+*First way: when you exit the [[#Graveyard Entrance|Graveyard Entrance]], go through the Spirit Gate in the pipe to the right as you slide down the hill. This barrier requires one Ancestor Spirit from Wasteland
+*Second way: above the previously mentioned barrier, there is another pipe which also leads into Crab Fields. Entering this way will recharge your light. However, this pipe may be slightly difficult to reach on your own.
+* Third way: In the [[#Graveyard|Graveyard]], go right along the rocks until you find an elevated platform made out of bricks. There should be a round pipe with a Spirit Gate on this platform that requires one Regular Spirit from Wasteland to open.
+* Fourth way: in the [[#Battlefield|Battlefield]], go to the right along the rocks/wall until you find some large pipes. It may help to first head towards the [[#Temple|Temple]], and then take a sharp right. There you will find a Spirit Gate which requires 2 Regular Spirits from Wasteland.
+
+In the Crab Fields, players can find:
+* 3 [[Children_of_Light#Crab Fields|Children of Light]]
+* 1 [[Map Shrine#Golden Wasteland|Map Shrine]]
+* 1 [[Regular Spirit]] ({{Emote|Saluting Captain}}[[Saluting Captain]])
+* 1 [[Seasonal Spirit]] ({{Emote|Crab Whisperer}}[[Crab Whisperer]])
+
+{{Mobile Tabber
+|tab1 = {{Emote|Saluting Captain|tab}}
+|c1   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Saluting Captain|Summary}} {{#lst:Saluting Captain|Friendship Tree}}</div>
+|type1= regular
+
+|line2= true
+|tab2 = {{Emote|Crab Whisperer|tab}}
+|c2   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Crab Whisperer|Summary}} {{#lst:Crab Whisperer|TS Friendship Tree}}</div>
+|type2= seasonal
+}}
+
+==Battlefield==
+[[File:Wasteland Battlefield1.png|right|300px]]
+Battlefield is the final open area of Wasteland before entering the [[#Temple|Temple]]. It is a barren wilderness scattered with buried structures, spears, and shields. This area is connected to both the Graveyard and the Crab Fields areas. The exit to the [[#Crab Fields|Crab Fields]] is hidden in a corner, and blocked by a Spirit Gate that requires 2 Regular Spirits from Wasteland.
+
+In the center of the area is a large, scattered structure, with a large Darkness plant requiring multiple players to burn found in the middle. At the very end of the area, just before the temple, there is a closed gate with a button that needs to be activated with the player's candle in order to open the gate. Be warned that upon activating, the gate will open, but three Dark Dragons will also appear and patrol the area. Thus, it is highly recommended to finish exploring and only activate the switch when you are ready to leave and enter the Temple.
+
+In the Battlefield, players can find:
+* 2 [[Children_of_Light#Battlefield|Children of Light]]
+* 1 [[Map Shrine#Golden Wasteland|Map Shrine]]
+* 1 [[Regular Spirit]] ({{Emote|Lookout Scout}}[[Lookout Scout]])
+
+{{Mobile Tabber
+|tab1 = {{Emote|Lookout Scout|tab}}
+|c1   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Lookout Scout|Summary}} {{#lst:Lookout Scout|Friendship Tree}}</div>
+|type1= regular
+}}
+
+==<span id="Temple">Wasteland Temple</span>==
+[[File:Wasteland Temple1.png|right|300px]]
+The Wasteland Temple is a gigantic structure overlooking the entire [[#Battlefield|Battlefield]] despite the fog. The interior is similarly large, with an octagonal shape to each side, along with an arch. The [[Elder of the Wasteland]]'s altar sits in the center, surrounded by red candles and a set of white candles that can be lit to summon the meditation circle. Sitting down will trigger the Elder Cutscene, which afterwards opens the gates that lead the player to the next realm, [[Vault of Knowledge]].
+
+In the Wasteland Temple, players can find:
+* 1 [[Children_of_Light#Wasteland Temple|Children of Light]]
+* 1 [[Map Shrine#Golden Wasteland|Map Shrine]]
+
+==Points of Interest==
+===Social Light Areas ===
+<span id="Crab Barbecue"></span>
+<span id="Abyss Blue Eel"></span> <span id="Abyss Eel"></span>
+{{Mobile Tabber|textonly = 1
+|tab1 = Crab Barbecue
+|c1   = <div>
+{{#lst:Additional Light Sources|Crab Barbecue Summary}}[[Additional_Light_Sources#Crab Barbecue|For more information, see here]]. </div>
+|tab2 = Abyss Blue Eel
+|c2   = <div>
+{{#lst:Additional Light Sources|Abyss Eel Summary}}[[Additional_Light_Sources#Abyss BlueEel|For more information, see here]]. </div>
+}}
+
+===World Events===
+<span id="Shared Space Shrines"></span> <span id="Shared Space Shrines"></span>
+<span id="Shard Eruptions"></span>
+{{Mobile Tabber|textonly = 1
+|tab1 = Shared Space Shrine
+|c1  = <div>
+[[File:Shared-spaces-Wasteland-Abyss.jpg|thumb|250px]]
+In Golden Wasteland, there is one [[Shared Space Shrines|Shared Space Shrine]] in [[#Treasure Reef|Treasure Reef]]. Shared Space Shrines are a way to play in private or public with friends using props. Shared Space Shrines are accessible to all players who have access to Daylight Prairie, but they must have at least two props to access edit mode. You can have up to 16 props available at a time in your Shared Space, but can be much less depending on the "load" of the props as determined by how much the top bar fills up. Within the Wasteland Shared Spaces, there are featured props given to the player to place regardless of if it is owned, being {{Spirit Item|Crab Whisperer|Prop|Inline_text|label=Crab Whisperer Pipe}}, {{Spirit Item|Troupe Juggler|Prop|Inline_text|label=Troupe Juggler Brazier}}, and {{Icon|Shared-Spaces-Brick-prop-icon-Morybel-0146.png|Inline_text|link=Shared Spaces|label=Shared Spaces Brick}}. Once a prop is in use, it will stay where you left it as long as you don't move it or remove it. The items are sorted by how much "load” they use in a Shared Space, listed from left to right.</div>
+
+|tab2 = Shard Eruptions
+|c2   = <div>A mechanic implemented with the [[Season of Shattering]], shards periodically erupt from the mountain on the horizon, falling multiple times a day in one predetermined location, determined with the daily quest realm (the top of the realm's portal will also have shards embedded). See more in the [[Shard Eruptions]] page. Eruptions in Wasteland can occur in the following areas:
+* Regular Eruptions
+** Broken Temple, in the center of the whole area nearby the [[#Broken Temple|Broken Temple]]
+** Broken Temple, on the far left side near the [[Fainting Warrior]]
+** Broken Temple, on the far right side, towards the path to [[#The Forgotten Ark|The Forgotten Ark]]
+** Battlefield, outside of the central ruined structure, on the left
+** Battlefield, outside of the central ruined structure, on the right
+** Battlefield, to the left of the central ruined structure, besides the large Darkness Plants
+* Strong Eruptions
+** The Forgotten Ark, in the far distance in the farming subarea, besides the [[Scarecrow Farmer]]
+** The Forgotten Ark, beside the half-submerged ship, to the left near the [[Playfighting Herbalist]]
+** The Forgotten Ark, on the right side of the Ark towards the crab caves
+** The Forgotten Ark, beside the circular pond near the Ark
+** Graveyard, near the slope from the [[#Graveyard Entrance|Graveyard Entrance]]
+** Graveyard, on the far left near the [[Stealthy Survivor]]
+** Graveyard, atop the ledge to the right near the [[#Crab Barbecue|Crab Barbecue]] and [[Children_of_Light#Graveyard_(6)|Winged Light #6]]
+** Crab Fields, to the far distance opposite the [[#Battlefield|Battlefield]] transition
+** Crab Fields, near the transition to [[#Graveyard]], towards the Shipwreck</div>
+}} {{Clear}}
+
+
+===Easter Eggs===
+<span id="Catapult"></span>
+{{Mobile Tabber|textonly = 1
+|tab1 = Catapult
+|c1   = <div>After the [[#Graveyard Entrance|Graveyard Entrance]], slide down the slope to [[#Graveyard|Graveyard]] and you will find the catapult on your right, at the bottom of the hill. You can activate the catapult by lighting the candle next to the kneeling man statue. Once done, the catapult will be ready to use. 7 players can sit in the basket, and if no one activate the arm within 90 seconds, it will break into pieces. To restart the catapult, give a light to the kneeling statue once more. When you are ready to launch your victims, activate the lever by clicking on the hand icon. Although you won't get thrown far, it's a fun way to play with your friends - if you are not afraid of the Dark Dragons. <gallery>
+File:Catapult-activate-with-candle.jpg|Catapult before activation
+File:Catapult-ready.jpg|Catapult activated
+File:Catapult-promotional-image.jpg|Promotional image from TGC'S Twitter on June 7th, 2018
+</gallery></div>
+}} {{Clear}}
+==Seasonal Content==
+In the Golden Wasteland, [[Seasonal Spirits]] from Season of {{Season Icon|gratitude|inline_text|label=Gratitude}}, {{Season Icon|lightseekers|inline_text|label=Lightseekers}}, {{Season Icon|belonging|inline_text|label=Belonging}}, {{Season Icon|rhythm|inline_text|label=Rhythm}}, {{Season Icon|enchantment|inline_text|label=Enchantment}}, and {{Season Icon|abyss|inline_text|label=Abyss}} can be found scattered around the realm. Collecting the Seasonal Spirits does not count towards Realm Constellation Spirit Gates. You will be able to collect their base level emotes, but in order to collect the cosmetics or expression upgrades, you will have to wait for the Spirit to return as a [[Traveling Spirit]]. Anything bought from their Friendship Trees do not count towards Realm Constellation Progression.
+{{Spirit Group|wasteland|type=seasonal|format=gallery}}
+In addition, Seasonal Quests from {{Season Icon|Enchantment|inline_text}} can be played to revitalize the Forgotten Ark, and {{Season Icon|Abyss|inline_text}} quests can be played in order to discover the discover the mysteries of the [[Treasure Reef]]. Additionally, {{Season Icon|AURORA|inline}} [[Season of AURORA#Quest #4|AURORA's Quest #4]] is available to play. Neither of the former two quests are replayable, with only AURORA's being so - however, Enchantments quests can occasionally be featured as [[Daily Quests]].
+
+==Constellation Summary==
+{{Constellation Summary}}
+{{#lst:Regular Spirits/Friendship Trees|Constellation Summary Header}}
+{{#lst:Regular Spirits/Friendship Trees|Wasteland Constellation Summary}}
+|} <!--These are needed to close the table from the LSTs above-->
+[[File:5-Wasteland-Printable.jpg|none|thumb|Printable chart]]
+
+==Video Walkthrough==
+<gallery>
+Sky- Children of the Light New Walkthrough Golden Wasteland- Spirits and Winged Light
+Sky- Children of the Light- Emotes, Upgrades, and Cosmetics in Golden Wasteland
+</gallery>
+
+==Map==
+{{Mobile Tabber
+|tab1 = {{Icon|Location-map-icon-Ray.png|tab}}
+|c1   = {{Map:Golden Wasteland}}
+|tab2 = {{Icon|Map-Shrine-Realm-Temple-Indicator.png|tab}}
+|c2   = {{Map:Whole Shrine Map}}
+}}
+
+==Trivia==
+===Change History===
+{{Scrollbox|height=400px|text= <div>
+Pre-2019
+* First called ''Dusk'', then later changed to ''Forsaken Desert'', then to ''Shores of Manna'', then finally '''Golden Wasteland''' in June 2019.
+----
+{{v|0.6.0}}
+* With [[Season of Lightseekers]], [[Crab Whisperer]] has been added to [[#Crab Fields|Crab Fields]] as a Seasonal Spirit.
+----
+{{v|0.7.0}}
+* With [[Season of Belonging]], [[Pleaful Parent]] has been added into [[#Graveyard|Graveyard]] as a Seasonal Spirit - with the [[Additional_Light_Sources#Crab_Barbecue|Crab Barbecue]] (yet to be a social light area).
+----
+{{v|0.8.0}}
+* With [[Season of Rhythm]], [[Respectful Pianist]] has been added to [[#Graveyard|Graveyard]] as a Seasonal Spirit.
+* The portal to Home within the [[#Social Space|Social Space]] has been replaced by a Return Shrine.
+----
+{{v|0.9.0}}
+* With [[Season of Enchantment]], [[#The Forgotten Ark|The Forgotten Ark]] with 6 Seasonal Spirits was introduced, in addition with a pier in the [[#Broken Temple|Broken Temple]] area.
+{{v|0.9.5}}
+* Changes to Ancestor Tombstones in [[#Social Space|Social Space]], now showcase Wasteland's Regular Spirits instead of [[Valley of Triumph|Valley]]'s.
+----
+{{v|0.13.0}}
+* Addition of [[Treasure Candles]] throughout Wasteland with introduction of [[Daily Light]].
+----
+{{v|0.14.0}}
+* Past Seasonal spirits now [[Seasonal_Spirits#Finding_Seasonal_Spirits|permanently available to relive]].
+----
+{{v|0.15.0}}
+* A Wind Path from [[Wind Paths]] area in [[Hidden Forest]] to [[#The Forgotten Ark|The Forgotten Ark]] added.
+----
+{{v|0.16.0}}
+* With [[Season of Abyss]], the [[#Treasure Reef|Treasure Reef]] with 4 Seasonal Spirits introduced, along with a pier in the [[#Social Space|Social Space]].
+----
+{{v|0.18.0}}
+* With [[Season of Shattering]], some areas have been slightly adjusted for the periodically falling [[Shard Eruptions]].
+----
+{{v|0.19.0}}
+* With [[Season of AURORA]], [[Season_of_AURORA#Quest_#4|Quest #4]]'s meditation ring was added in [[#Battlefield|Battlefield]].
+* Addition of [[Map Shrines]] throughout Wasteland.
+----
+{{v|0.21.0}}
+* Home Shrines, including any redundant Bird Statues, was removed.
+</div>}}
+
+==In Other Languages==
+{{Help|lang}} 
+{{Other Languages|title=Golden Wasteland
+|fr            = Désert d’or
+|fr_meaning    = Golden Desert <!-- Machine Translated -->
+|ja            = 捨てられた地 (Kana: すてられたち)
+|ja_rom        = Suteraretachi
+|ja_meaning    = Waste Land
+|id            = Gurun Emas
+|id_meaning    = Golden Desert <!-- Machine Translated -->
+|de            = Goldene Ödnis
+|de_meaning    = Golden Wasteland <!-- Machine Translated -->
+|vi            = Hoang Mạc Hoàng Kim (Hán Nôm: 荒漠黃金)
+|vi_meaning    = Golden Desert <!-- Machine Translated -->
+|ko            = 황금 황무지 (Hanja: 黃金 荒蕪地)
+|ko_rom        = Hwang-geum Hwangmuji
+|ko_meaning    = Golden Wasteland <!-- Machine Translated -->
+|es            = Páramo Dorado
+|es_meaning    = Golden Moorland <!-- Machine Translated -->
+|it            = Deserto Dorato
+|it_meaning    = Golden Desert <!-- Machine Translated -->
+|pt            = Sertão Dourado
+|pt_meaning    = Golden Hinterland <!-- Machine Translated -->
+|ru            = Золотая пустошь
+|ru_rom        = Zolotaya pustosh
+|ru_meaning    = Golden Wasteland <!-- Machine Translated -->
+|zh_cn         = 暮土 
+|zh_cn_rom     = Mandarin: Mù Tǔ / Cantonese: Mou6 Tou2
+|zh_cn_meaning = Land of Dusk <!-- Verified by Native Speaker @Fanlinger -->
+|zh_netease    = 暮土 
+|zh_netease_rom = Mandarin: Mù Tǔ / Cantonese: Mou6 Tou2
+|zh_netease_meaning = Land of Dusk <!-- Verified by Native Speaker @Fanlinger -->
+|zh_tw         = 暮土 
+|zh_tw_rom     = Mandarin: Mù Tǔ / Cantonese: Mou6 Tou2
+|zh_tw_meaning = Land of Dusk <!-- Verified by Native Speaker @Fanlinger -->
+}}
+
+==References==
+<references />
+
+{{GameLevelsNav}} {{Navigation Box}}
+
+[[ru:Золотая пустошь]]
+[[fr:Désert d'or]]
+[[es:Páramo Dorado]]
+[[pt-br:Sertão Dourado]]
+[[de:Goldene Ödnis]]
+[[ja:捨てられた地]]
+
+[[Category:Realms]]  
+[[Category:Golden Wasteland]]

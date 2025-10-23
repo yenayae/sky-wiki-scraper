@@ -1,0 +1,174 @@
+'''Returning Spirits''' is a system where a group of [[Seasonal Spirits]] with a specific theme<ref name="theme-based visit">The selected Spirits are based on a theme, not a [[Season]], as confirmed by [https://twitter.com/thatskygame/status/1658025739445473280 this tweet].</ref> return for 1-2 weeks to offer their collectibles, appearing together in specific locations within the [[Realms]]. Similarly to [[Traveling Spirits]], these visits are the only way for players to obtain [[Expression]] upgrades, [[Cosmetics]], and a [[Wing Buff]]<ref name="wing buff">The Wing Buff offered from a Returning Spirit is the same one offered as a [[Traveling Spirit]].</ref> from past-Season Spirits. This event is called a "'''Special Visit'''" (also known as a "'''Group Visit'''" by the community).
+
+While it is not to be confused with Traveling Spirits, the Returning Spirit system is essentially a group of Traveling Spirits that return all at once and for longer than 4 days. In addition, both systems can overlap and run together, meaning a Traveling Spirit could happen while a Special Visit is occurring.
+
+See [[Spirit Visits]] for all Spirit appearances and statistics based on them. 
+
+== Overview==
+On March 3 2023, TGC made an announcement about trying something new that will complement the current [[Traveling Spirits]] system that would allow players to be able to interact with past [[Seasonal Spirits]] more frequently, without overwhelming players.<ref>For more information, see the [https://www.thatskygame.com/news/updates-to-shared-spaces-and-returning-spirits/ announcement on TGC's website].</ref> TGC will be testing out different solutions over the course of the year. 
+
+Similar to Traveling Spirits, Special Visits occur when past-Seasonal Spirits return for a limited time, allowing players to purchase items they have previously missed. Even players who have completed the Spirit's [[Friendship Tree]] during its Season can benefit, acquiring one new [[Wing Buff]]<ref name="wing buff" /> with each Spirit. At times, new items may be added to a Spirit's offerings; such as [[Props]] for [[Shared Spaces]].
+
+Returning Spirits provide an opportunity for new players to (eventually) acquire all of the [[collectibles]] offered by Seasonal Spirits. This does not include Seasonal Pendants or Ultimate Gifts from past Seasons (all of which were offered by the Season Guides, not the Season Spirits).<ref name="ultimates">thatgamecompany has mentioned [https://thatgamecompany.helpshift.com/hc/en/17-sky-mobile-switch/faq/609-what-are-traveling-spirits/ future plans to bring back Ultimate Gifts using some other mechanism], but details have not been announced.</ref>
+
+Only players who have completed [[Valley of Triumph]] can see the Returning Spirit's Season Guide at [[Home]]. This means you must have been to the [[Valley Temple]] and must have meditated at its altar; you do '''not''' have to find any Spirits, unlock any Expressions, or buy any Cosmetics.
+
+Players who have previously purchased items from a Returning Spirit or Traveling Spirit (either during their Season or a previous visit) will see those as unlocked items in the Spirit's Friendship Tree. This includes Cosmetics, higher level [[Expressions]], [[Heart]]s, [[Wing Buffs]], and some [[Blessings]].
+
+Only Seasonal Spirits return as Returning Spirits, so [[Ancestors#Guides|Season Guides]] will not return as Returning Spirits, but TGC has mentioned that they will return in some form, bringing their cosmetics.
+
+==Schedule==
+'''As of August 22 2024, there is no clear schedule of Special Visits as announced by ThatGameCompany'''. However, it can be ''<u>assumed</u>'' that Special Visits will occur approximately every Season. 
+
+==Friendship Tree Information==
+{{#lst:Seasonal Spirits|TS Tree Info}}
+
+To read more about the Friendship Tree, [[Seasonal Spirits|visit the Seasonal Spirits page.]]
+
+{{#if:{{Game Stat|rs}}|
+
+==Current Returning Spirits==
+The current Returning Spirits are: '''{{Game Stat|rs}}'''.
+{{Mobile Tabber
+|{{#if:{{Game Stat|rs|1}}|tab1|1}}={{Emote|{{Game Stat|rs|1}}|tab}}
+|{{#if:{{Game Stat|rs|1}}|c1|2}}={{#lst:{{Game Stat|rs|1}}|TS Friendship Tree}}
+|{{#if:{{Game Stat|rs|2}}|tab2|3}}={{Emote|{{Game Stat|rs|2}}|tab}}
+|{{#if:{{Game Stat|rs|2}}|c2|4}}={{#lst:{{Game Stat|rs|2}}|TS Friendship Tree}}
+|{{#if:{{Game Stat|rs|3}}|tab3|5}}={{Emote|{{Game Stat|rs|3}}|tab}}
+|{{#if:{{Game Stat|rs|3}}|c3|6}}={{#lst:{{Game Stat|rs|3}}|TS Friendship Tree}}
+|{{#if:{{Game Stat|rs|4}}|tab4|7}}={{Emote|{{Game Stat|rs|4}}|tab}}
+|{{#if:{{Game Stat|rs|4}}|c4|8}}={{#lst:{{Game Stat|rs|4}}|TS Friendship Tree}}
+|{{#if:{{Game Stat|rs|5}}|tab5|9}}={{Emote|{{Game Stat|rs|5}}|tab}}
+|{{#if:{{Game Stat|rs|5}}|c5|10}}={{#lst:{{Game Stat|rs|5}}|TS Friendship Tree}}
+|{{#if:{{Game Stat|rs|6}}|tab6|11}}={{Emote|{{Game Stat|rs|6}}|tab}}
+|{{#if:{{Game Stat|rs|6}}|c6|12}}={{#lst:{{Game Stat|rs|6}}|TS Friendship Tree}}
+}}
+}}
+
+==Upcoming Visits==
+There are currently no planned Returning Spirit visits.
+<!--==Current Visits==-->
+
+
+==Historical Appearances==
+===August 18, 2025===
+Mark your calendars for these visitors! A group of past Seasonal Spirits will visit Sky: [[Anxious Angler]], [[Wounded Warrior]], [[Bumbling Boatswain]], and [[Tiptoeing Tea-Brewer]].
+
+From '''Monday, August 18 through Sunday, August 31, 2025''', one of the Spirits will appear in [[Aviary Village]] and [[Home]] to teleport players to where the group will gather. 
+
+<gallery widths="260px" spacing="small" captionalign="center">
+Returning-spirits-August-2025.png|Promo Image
+Returning-Group-August-2025-Aviary.jpeg|Remembrance Guide at Aviary Village
+Returning-Group-August-2025.gif|Returning Group in Vault of Knowledge
+</gallery>
+
+===June 9, 2025===
+Mark your calendars for these visitors! All four Spirits from the [[Season of AURORA]]: [[Running Wayfarer]], [[Seed of Hope]], [[Warrior of Love]] and [[Mindful Miner]], will arrive in Sky to celebrate [[Special_Events#AURORA_Homecoming|Sky X AURORA Homecoming]].
+
+From '''Monday, June 9 through Sunday, June 22, 2025''', one of the Spirits will appear in [[Aviary Village]] and [[Home]] to teleport players to where the group will gather. 
+<gallery widths="260px" spacing="small" captionalign="center">
+Returning-spirits-June-2025.png|Promo Image
+Running-Wayfarer-At-Avairy.png|Running Wayfarer at Aviary Village
+AURORA-Returning-Group.gif|AURORA Returning Spirits Group at Coliseum
+</gallery>
+
+===April 7, 2025===
+Special Group of Visiting Spirits Arriving in April!<br>
+Just in time to enjoy the final week of the [[Sky x Le Petit Prince Encore]], all six Spirits from the [[Season of The Little Prince]]: [[Beckoning Ruler]], [[Gloating Narcissist]], [[Stretching Lamplighter]], [[Slouching Soldier]], [[Sneezing Geographer]] and [[Star Collector]], will pay Sky children a special visit in April! Mark your calendars for their visit from '''Monday, April 7 through Sunday, April 20, 2025'''.
+<gallery widths="260px" spacing="small" captionalign="center">
+Returning-spirits-April-2025.png|Promo Image
+</gallery>
+
+===January 13, 2025===
+Four Seasonal Spirits from past Seasons: [[Pleading Child]], [[Modest Dancer]], [[Troupe Juggler]] and [[Oddball Outcast]] arrived in the [[Village of Dreams]]' ice rink to add extra energy to the start of the new year! Players could meet them from '''Monday, January 13 to Sunday, January 26, 2025'''.
+
+<gallery widths="260px" spacing="small" captionalign="center">
+Returning-spirits-January-2025.png|Promo Image
+Pleading-child-at-aviary.jpg|Pleading Child by the Aviary Friendship Table
+</gallery>
+
+===September 16, 2024===
+Two Seasonal Entities from the [[Season of Shattering]]: the Memories of [[Ancient Light]] and [[Ancient Darkness]] paid a special visit to the Realms from '''Monday, September 16 through Sunday, September 29, 2024'''. The [[The Void of Shattering|Shattering Guide]] appeared in [[Home]] and the [[Aviary Village#Aviary Event Store|Aviary Village Event Store]] to teleport players directly to [[The Void of Shattering (Location)|the Void of Shattering]] to meet them.
+
+<gallery widths="260px" spacing="small" captionalign="center">
+The void of Shattering.jpg|Promo Image
+Returning-spirits-September-2024.png|Promo Image
+Shattering Guide at Home.png|The Void of Shattering at Home
+Shattering-Returning-Group.gif|Special Visit group in the Void of Shattering
+</gallery>
+
+===March 4, 2024===
+Four Seasonal Spirits from past Seasons: [[Indifferent Alchemist]], [[Nodding Muralist]], [[Ceasing Commodore]] and [[Frantic Stagehand]] headed to the area of Daylight Prairie where the [[Spring Camping]] took place from '''Monday, March 4 to Sunday, March 17, 2024'''.
+
+<gallery widths="260px" spacing="small" captionalign="center">
+Returning-spirits-March-2024.png|Promo image
+Frantic Stagehand at Home.jpg|Frantic Stagehand at Aviary Village
+Spring-Camping-Returning-Group.gif|Returning Spirits group in Daylight Prairie above the eight-player puzzle
+</gallery>
+
+===August 7, 2023===
+Four Seasonal Spirits from different Seasons: [[Hiking Grouch]], [[Cackling Cannoneer]], [[Crab Whisperer]], and [[Troupe Greeter]] couldn't help but return to the Realms for a special visit to [[Prairie Peaks]]. Players could meet them from '''Monday, August 7 to Sunday, August 13, 2023'''.
+<gallery widths="260px" spacing="small" captionalign="center">
+Returning-spirits-August-2023.png|Promo image
+Returning Spirits - August 2023 (Promo image 2).png|Promo image
+PrairiePeaksGroup.gif|Returning Spirits group in Prairie Peaks
+</gallery>
+
+===July 3, 2023===
+Four Seasonal Spirits from different Seasons: [[Thoughtful Director]], [[Respectful Pianist]], [[Leaping Dancer]], and [[Greeting Shaman]] gathered to jam with players and offer items in their Friendship Trees from '''Monday, July 3 to Sunday, July 16, 2023'''. The [[Harmony Hall Guide]] was standing at [[Home]] and was able to teleport players directly to the Harmony Hall. 
+<gallery widths="260px" spacing="small" captionalign="center">
+Returning-spirits-July-2023.jpg|Promo image
+File:HH Guide at Home.png|Harmony Hall Guide at Home 
+File:DaysofMusicGroup.GIF|Returning Spirits group in Harmony Hall
+</gallery>
+
+===May 15, 2023===
+Three Seasonal Spirits from the [[Season of Prophecy]] returned from '''Monday, May 15 to Sunday, May 21, 2023'''. [[Prophet of Air]], [[Prophet of Water]], and [[Prophet of Earth]] hung out at the top of the [[Cave of Prophecies]]. The [[Prophecy Guide]] was standing at [[Home]] and was able to teleport players directly to the Cave of Prophecies. 
+<gallery widths="260px" spacing="small" captionalign="center">
+File:Prophecy-spirits-promo-image.jpg|Promo image
+File:Prophecy Guide at home.png|Prophecy Guide at Home 
+File:ProphecyGroup.GIF|Prophecy Spirits in the Cave of Prophecies
+</gallery>
+
+Because this Special Visit was based on the "Twilight Gloaming" theme, the Cave of Prophecies had a special lighting during the visit. According to [https://twitter.com/thatskygame/status/1658025739445473280?s=20 TGC on twitter], "Back in March, the community voted for a Special Visit themed under “Twilight Gloaming,” hence the beautiful hues of blue and purple on these special visitors!". 
+<gallery widths="175px" spacing="small" captionalign="center">
+File:Special visit prophecy cave-1.jpg|Cave of Prophecies Lighting during Special Visit
+File:Special visit prophecy cave-2.jpg
+File:Special visit prophecy cave-3.jpg
+File:Special visit prophecy cave-4.jpg
+</gallery>
+There was also a [[Double Currency Events|Double Currency]] Event during the Special Visit week, where players were able to enjoy twice as many [[Treasure Candles|Daily Treasure Candles]] and [[Currency#Season_Candles|Seasonal Candle Bunches]] scattered across one Realm each day.
+
+===March 6, 2023===
+Four Seasonal Spirits from the [[Season of Assembly]] returned from '''Monday, March 6 to Sunday, March 19, 2023'''. [[Baffled Botanist]], [[Chuckling Scout]], [[Marching Adventurer]], and [[Scaredy Cadet]] hung out at the [[Hidden Forest#Forest End|end of Hidden Forest]], past the Temple. The [[Assembly Guide]] was standing at [[Home]] and was able to teleport players directly to the Forest End. They also offered a free [[Shared Space]] Spell for players to try out.
+<gallery widths="280px" spacing="small" captionalign="center">
+RS AssemblyGroup.png|Assembly Spirits in Forest End
+RS-Assembly-spirits-promo-image.png|Promo image
+</gallery>
+
+==Future Returning Spirits ==
+On March 9 2023, TGC created a Twitter poll<ref>[https://twitter.com/thatskygame/status/1634011356184862721 Twitter poll]</ref> to allow the community to choose the next group of Returning Spirits. The final result after 9,912 votes were:
+{| class="article-table"
+|Sunset Eventide||26.6%
+|-
+!Twilight Gloaming||44.7%
+|-
+|Verdant Seascape||15.6%
+|-
+|Grassy Loam||13.1%
+|}
+Later, the May 15 2023 visit, Twilight Gloaming, was revealed to be a group of [[Returning Spirits#May 15 2023|Season of Prophecy]] Spirits. TGC also elaborated on the hints given above, that the Twilight Gloaming visit was based on a theme, ''not'' on a Season <ref name="theme-based visit" />. 
+
+==Trivia== 
+* The May 15, 2023 "Twilight Gloaming" Returning Spirit group is the only group to only have three Returning Spirits rather than the typical four.
+
+==References==
+<references />
+
+[[pt-br:Espíritos Retornantes]]
+[[de:Zurückkehrende Geister]]
+[[fr:Esprits de retour]]
+[[ja:来訪する精霊団]]
+
+[[Category:Seasonal Spirits]]
+[[Category:Periodical Content]]

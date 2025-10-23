@@ -1,0 +1,109 @@
+{{Spirit Infobox
+|type      = Regular
+|emote_type= Emote
+|image     = <gallery>
+Prairie-Spirit-Laughing-Light-Catcher.png|Standard
+Prairie-Spirit-Laughing-Light-Catcher-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Hair|infobox}}
+|instruments = {{Spirit Item||Instrument|infobox}}
+|realm     = Daylight Prairie
+|location  = Prairie Villages
+}}
+<section begin="Summary" />The '''Laughing Light Catcher''' is a [[Regular Spirit]] in [[Daylight Prairie]] who offers the {{Emote|Laughing Light Catcher|inline_text}} Expression. The Laughing Light Catcher is found in [[Prairie Villages]] on the right-hand island, inside a large cave. The collectibles [[Laughing Light Catcher#Friendship Tree|offered]] by this Spirit are a {{Spirit Item|Laughing Light Catcher|Hair|inline_text}} and a {{Spirit Item|Laughing Light Catcher|Instrument|inline_text}} Instrument.<section end="Summary" /><br>
+<br>
+[[File:Laughing-Light-Catcher-Guide-777-Ed.png|320x320px|thumb|none|Image Guide by 777.Ed]]
+
+== Memory ==
+<div>
+{{#ev:youtube|bxbQ0E0-6P0|350px|inline|Video Guide}}
+<br>
+The {{PAGENAME}} can be found in [[Prairie Villages]] on the right-hand island, inside a large cave with a hole in the ceiling. This Spirit is a [[Standard Memory|standard memory]] quest with 4 memory fragments and an unlimited overall [[Timed Memory|time limit]].
+
+As their memory unfolds, the Laughing Light Catcher and another Spirit are seen picking up large jars inside the cave. Together, they proceed to carry them outside and up a hill, towards the bell tower that sits atop the small island. 
+
+At the end of the memory, both Spirits have set down their jars as a flock of [[Birds]] passes overhead. The Laughing Light Catcher watches curiously as several balls of light float nearby, while the other Spirit attempts to catch one with a [[Saluting_Captain#Prop|staff]]. They fail at this task, causing the Laughing Light Catcher to burst into laughter, amused by their companion's clumsy flailing.<br>
+<br>
+[[File:01 DP Spirit - Laughing Light Catcher.png|200px|thumb|none|Relive the Laughing Light Catcher's memory]]
+</div>
+{{Clear}}
+
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.<br>
+<br>
+[[File:{{Icon Name||emote}}|170px|left]]
+<gallery heights="125" captionalign="center">
+Laughing-Light-Catcher-laugh-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Laughing-Light-Catcher-laugh-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Laughing-Light-Catcher-laugh-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Laughing-Light-Catcher-laugh-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar clutch their stomach with one hand and slap their knee with the other, laughing, and then swipe a hand across their face as if wiping away tears.
+*Level 2 makes the same motion as Level 1 with white starburst effects near your avatar's head.
+*Level 3 will make your avatar put their hands on their hips and throw back their head with laughter, then lean forward and drum both hands on their knees while stomping both feet, as if they can't contain their amusement.
+*Level 4 makes the same motion as Level 3 with many pink starburst effects near your avatar's head.
+
+The prices of the three Expression upgrades are {{Cost|1 C}}, {{Cost|5 C}}, and {{Cost|5 C}}. Levels 3 and 4 are only available after unlocking the Spirit's [[Wing Buff]].
+
+== Cosmetics==
+=== Hair ===
+This [[Hair]] offered by this Spirit is a pair of puffy pigtails with blue hair ties, costing {{Cost|5 H}}. It is permanently available to all players after unlocking the Spirit's [[Wing Buff]] and the Friendship Tree's fourth node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair}} {{!}} The Hair icon
+{{Icon Name||hair|real}} {{!}} The Hair front
+{{Icon Name||hair|side}} {{!}} The Hair side
+{{Icon Name||hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Instrument ===
+The [[Instrument]] offered by this Spirit is a wooden hand-held harp, costing {{Heart|5}}. It is a seven-string Instrument that plays 15 notes and is played standing up. The [[Premium Candle Shop|IAP]] variant inspired by this item, the [[Fledgling Harp]], was later introduced with [[Harmony Hall]]. The two harps have the same sound, but different visuals.
+
+The Harp plays the [[Music Sheet Parts|melody part]] on Music Sheets. Its [[Instrument Pitch|pitch]] is one octave below the standard [[Piano]] (in C Major, it covers C<sub>3</sub> to C<sub>5</sub>).
+
+In [[Harmony Hall]], this Instrument can be found in the left-hand room, on the same wall as the guitars, sitting on a shelf behind the {{Instrument|Contrabass|inline_text}}.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Instrument}} {{!}} The Instrument icon
+{{Icon Name||Instrument_real}} {{!}} The Instrument
+{{Icon Name||Instrument_back}} {{!}} The Instrument on a player's back
+{{Icon Name||Instrument_held}} {{!}} Playing the Instrument
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Friendship Tree ==
+{{Friendship Tree Info | regular}}
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Laughing Light Catcher
+|image  = Prairie-Spirit-Laughing-Light-Catcher.png
+
+|nodeC5 = spell5
+|nodeL4 = emote4 5 C
+|nodeC4 = emote3 5 C
+|nodeR4 = hair 5 H
+|nodeC3 = wing 2 AC
+|nodeL2 = instrument 5 H
+|nodeC2 = spell1
+|nodeR2 = heart
+|nodeL1 = emote2 1 C
+|nodeC1 = emote
+}}<section end="Friendship Tree" />
+
+==Unique Daily Quests==
+{{#section-h:Quests/Daily Quest Spirits|{{PAGENAME}}}}
+
+==Trivia==
+*The sound effect during {{Emote||inline_text}} and four other particular Expressions ({{Emote|Slumbering Shipwright|inline_text}}, {{Emote|Chuckling Scout|inline_text}}, {{Emote|Sneezing Geographer|inline_text}}, and {{Emote|Cackling Cannoneer|inline_text}}) are different when heard from unlit (gray) and extinguished players. This difference extends to all Levels of the Expression.
+*The Laughing Light Catcher Instrument is featured in a piece of merch from thatskyshop, in the form of the [[That Sky Shop/Wave 1#Harmony Harp Pin|Harmony Harp Pin]]. It has a [[STAR]] feature which allows you to wear a Harmony Harp with the friends that you're holding hands with for a limited duration.
+*The official name of the spirit's instrument is "Harp". The community sometimes refers to it as "Lyre" due to the icon's resemblance to one.
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Emote Loc-Laugh.png
+</gallery>
+
+[[de:Lachende Lichtfarmerin]]
+[[pt-br:Caçadora de Luz Risonha]]
+[[fr:Attrapeuse de lumière riant]]

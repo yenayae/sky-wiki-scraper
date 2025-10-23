@@ -1,0 +1,173 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Enchantment-Spirit-Snoozing-Carpenter.png|Standard
+Enchantment-Spirit-Snoozing-Carpenter-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Hair|infobox}}{{Spirit Item||Cape|infobox}}
+|season    = Enchantment
+|location  = Forgotten Ark
+|ts        = April 27, 2023 (#86)<br>May 27, 2021 (#36)
+}}
+<section begin="Summary" />The '''Snoozing Carpenter''' is a [[Seasonal Spirit]] from the [[Season of Enchantment]] who offers the {{Emote|Snoozing Carpenter|inline_text}} Expression. The Snoozing Carpenter is found in front of the [[Forgotten Ark]], on the player's left side when entering the area. The collectibles [[#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Snoozing Carpenter|Hair|inline_text}} and a {{Spirit Item|Snoozing Carpenter|Cape|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Snoozing-Carpenter-promo-image.jpg|none|thumb|TGC's Promo image]]
+== Memory ==
+<div>{{#ev:youtube|3ap3tbxOdFM||inline|Video Guide by Tara}}
+
+The Snoozing Carpenter can be found in front of the [[Forgotten Ark]], on the player's left side when entering the area. This Spirit has a [[Carry Spirit Memory|carry spirit memory]] with 6 memory fragments and a 10-minute overall [[Timed Memory|time limit]]. 
+
+As their memory unfolds, the Snoozing Carpenter can be seen reading an instruction manual on how to build the cloth coverings seen across the Ark. The Spirit then gets to work building more tent-like coverings, and works down the length of the Ark until they get closer to the bow of the ship. Once they reach the front end of the ship, they lean against a large stone vase for support.
+
+At the end of the memory, the Snoozing Carpenter looks out across the Ark, seeing all the work they have done. They turn around afterwards and prop themself up against the large vase, nodding off as they do.<br>
+<br>
+[[File:04 GW Seasonal Spirit - Snoozing Carpenter.jpg|200px|thumb|none|Relive the Snoozing Carpenter's memory]]
+</div>
+{{Clear}}
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Snoozing-Carpenter-doze-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Snoozing-Carpenter-doze-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Snoozing-Carpenter-doze-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Snoozing-Carpenter-doze-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar repeatedly and slowly let their head fall and lift it up again, each time letting it fall deeper and softly sway it from side to side, while gentle lullaby plays until reaching the end position. Your avatar will remain like this until they are moved, causing them to quickly shoot up straight to the sound of an alarm and look around with their arms slightly lifted in front of them.
+*Level 2 makes the same motion as Level 1, with a flock of small light particles spiraling around your avatar's head, spreading out more and more during the Expression. Once your avatar has finally let their head fall and does not lift it again, several "Z" letters will quickly flicker and overlap each other in front of your avatar, accompanied by a soft snoring sound. When they wake up, a flock of small white clouds will sudddenly appear.
+*Level 3 will make your avatar let their head fall on their chest, collapse to the ground with their arms weakly supporting them, and let their head touch the ground, while a longer lullaby plays. Your avatar will remain in this position until they are moved, causing them to wake up to an alarm sound effect, put their palms on the ground and look around left and right before assuming a crouched position and finally standing up, still looking from side to side while squeaking sound effects play.
+*Level 4 makes the same motion as Level 3, with a trail of white light particles following your avatar's head, as well as small, white, individual "Z"-shaped letters floating up from their head, with snoring sound effects.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+== Cosmetics==
+=== Hair ===
+The [[Hair]] offered by this Spirit a half-up half-down bun hairstyle of wavy hair with a decorative thin purple band tied around the head horizontally, and a golden band coming from the bun in the back over the middle-part, and ending with a small tassel hanging down the forehead, costing {{Cost|34 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|10 SC|season=Enchantment}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Cape ===
+The [[Cape]] offered by this Spirit is yellow-orange with a purple interior, a wide purple band at the end, embroidered with yellow thread, and evenly spaced out, small yellow tassels hanging down the trim, costing {{Cost|65 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fourth node ({{Cost|36 SC|season=Enchantment}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||Cape|interior}} {{!}} The Cape interior
+{{Icon Name||Cape|back}} {{!}} The Cape back
+<!--{{Icon Name||Cape|exterior}} {{!}} The Cape exterior-->
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Traveling Spirit ==
+[[File:Golden Wasteland - Snoozing Carpenter.png|200px|right|thumb]]
+{{Friendship Tree Info | traveling
+|ts_dates=*April 27, 2023 (#86)
+*May 27, 2021 (#36)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Snoozing Carpenter
+|season = Enchantment
+|image  = Enchantment-Spirit-Snoozing-Carpenter.png
+
+|nodeC6 = Cape 65 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Hair 34 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+The hints given before the [[Snoozing Carpenter]]'s first appearance were: 
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=First Visit Hints
+|content=<div>
+* Thinks krills are boring  
+* Reads their friends zodiac charts 
+* Likes shiny things 
+* Drinks chamomile tea in the evenings 
+* Is a messy roommate 
+* Also likes being warm over being cold 
+* Is unafraid of heights 
+* Likes obscure music 
+* Is an introvert 
+* Forgets their login passwords  
+* Has a rock collection 
+* Doesn't like spicy food 
+* Is an excellent cook 
+* Likes making miniature dioramas 
+* Has the quietest sneeze 
+* Has problems with jetlag 
+* Prefers pancakes over waffles 
+</div>
+}}
+
+The hints given before the [[Snoozing Carpenter]]'s second appearance were: 
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Second Visit Hints
+|content=<div>
+* Once had a terrible experience with a spicy pepper
+* Gets sentimental about old memories
+* Has broken a bone before
+* Recently discovered they have a pollen allergy
+* Likes to decorate with colorful things
+* Has a hard time letting go of old possessions
+* Is reminding you to drink water!
+* Really loves the taste of mushrooms
+* Tries to look on the bright side of life
+* Has .... never tried spaghetti
+* [wes] Has at least two legs
+* [wes] Has at most six hundred legs
+</div>
+}}
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Enchantment}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Snoozing Carpenter
+|type   = season
+|season = Enchantment
+|image  = Enchantment-Spirit-Snoozing-Carpenter.png
+
+|nodeC5 = season_heart 3 SC SP
+|nodeL4 = spell5 SP
+|nodeC4 = Cape 14 SC
+|nodeL3 = emote4 SP
+|nodeC3 = emote3 12 SC
+|nodeL2 = Hair SP
+|nodeC2 = spell5 10 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Doze expression .jpg
+Nodding off spirit.png
+enchantment watching sleepy spirit 2 - ase.jpeg
+enchantment group sleepy spirit - ase.jpeg
+Nodding off spirit map.png
+</gallery>
+
+==References==
+<references/>
+
+[[de:Dösender Zimmermann]]
+[[fr:Charpentière ensommeillée]]
+[[pt-br:Carpinteira Dorminhoca]]
+[[ru:Засыпающий плотник]]

@@ -1,0 +1,165 @@
+{{Spirit Infobox
+|title     = Feudal Lord
+|type      = Seasonal
+|emote_type= Action
+|image     = Nine-Colored-Deer-Feudal-Lord.png
+|cosmetics = {{Spirit Item||Mask|infobox}}{{Spirit Item||Hairpiece|infobox}}{{Spirit Item||Cape|infobox}}
+|props	   = 
+|music     = {{Music Sheet|39}}
+|season    = Nine-Colored Deer
+|realm     = Vault of Knowledge
+|location  = [[Crescent Oasis]]
+|ts        = None
+}}
+<section begin="Summary" />The '''Feudal Lord''', also known as the '''King''', is a [[Seasonal Spirit]] from the [[Season of the Nine-Colored Deer]] who offers the {{Emote|Feudal Lord|inline_text}} Expression. The Feudal Lord is found in the [[Crescent Oasis]], to the left of the doorway of the Royal Palace in the village. The collectibles [[Feudal Lord#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Feudal Lord|Mask|inline_text}}, a {{Spirit Item|Feudal Lord|Hairpiece|inline_text}}, a {{Spirit Item|Feudal Lord|Cape|inline_text}}, and the {{Music Sheet|39|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Feudal Lord Princess Promo art.png|thumb|320px|none|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|94yqho_p9dQ|200px|inline|Video Guide}}
+
+The Feudal Lord can be found in the [[Crescent Oasis]], to the left of the doorway of the Royal Palace in the village. This Spirit has a [[Standard Memory|standard memory]] with 6 memory fragments and a 10-minute overall [[Timed Memory|time limit]].
+
+As their memory unfolds, the Feudal Lord can be seen standing arm-in-arm with the [[Princess]] at the entrance of the Royal Palace, ready to deliver an announcement in front of a crowd of gathered Spirits. They seek the capture of the Nine-Colored Deer and are calling upon the public for help. As the Feudal Lord hangs up a notice with details of their request outside the building, the [[Herb Gatherer]] arrives to the scene, drawn in by the crowd.
+
+At the end of the memory, the crowd has dispersed and the Feudal Lord walks back to the Princess waiting on the steps in front of the Palace's entrance. The Feudal Lord stumbles and trips as they climb the stairs, resulting in the Princess picking them up and carrying them back inside.
+</div>
+{{Clear}}
+
+==<span id="Expression">Friend Action</span>==
+''Note: While this Spirit can be found in the Crescent Oasis, the upgrade to the "Cradle Carry" Friend Action will not be available for those who missed the Season or those who did not purchase the [[Season Pass]] until the Spirit returns as a Traveling Spirit.''
+
+This Spirit offers the {{Emote||inline_text}}, which has 2 Levels.<br>
+<br>
+[[File:{{Icon Name|Feudal Lord|emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Feudal-Lord-cradle-carry-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Feudal-Lord-cradle-carry-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+</gallery>
+
+*Level 1 will make your avatar pick up and carry your friend, cradling them sideways with their arms wrapped around your avatar's neck, periodically kicking their legs.
+* Level 2 makes the same motion as Level 1 but your avatar will spin in place and then look directly at your carried friend for a few seconds after they jump on.
+
+Like any [[Friendship Menu#Extended Two-Player Abilities|Extended Two-Player Abilities]], this ability can be upgraded by opening your friend's Friendship Menu. Unlocking the Level 1 ability will cost you {{Cost|28 C}}. After unlocking Level 1, it will cost you {{Cost|30 C}} more to upgrade to Level 2. (See [[Friendship Menu]] to view the entire Friendship Tree.)
+<!--
+As a Traveling Spirit, the price of the Friend Action upgrade was {{Heart|?}}. During the Season, Level 1 was free, but Level 2 was only available to [[Season Pass]] holders. -->
+
+==Cosmetics==
+===<span id="Mask">Mask</span>===
+The [[Mask]] offered by this Spirit is a pair of large, curved eyebrows on the player's bare face.<!--, costing {{Cost|?? C}} from the Traveling Spirit.--> It was available to all players during the Season from the Friendship Tree's third node ({{Cost|24 SC|season=Nine-Colored Deer}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Hairpiece">Hair Accessory</span>===
+The [[Hair Accessory]] offered by this Spirit is a tall, golden forehead piece with a small blue gem embedded in the base.<!--, costing {{Cost|?? C}} from the Traveling Spirit.--> It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|6 SC|season=Nine-Colored Deer}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hairpiece|icon}} {{!}} The Hair Accessory icon
+{{Icon Name||Hairpiece|real}} {{!}} The Hair Accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Cape">Cape</span>===
+The [[Cape]] offered by this Spirit is a red cloak that only covers the player's back, with a black and gold drape over the shoulders that features three yellow tassels on the back<!--, costing {{Cost|?? C}} from the Traveling Spirit-->. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|50 SC|season=Nine-Colored Deer}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||cape|front}} {{!}} The Cape front
+{{Icon Name||cape|interior}} {{!}} The Cape interior
+{{Icon Name||cape|real}} {{!}} The Cape back
+{{Icon Name||cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+==<span id="Music">Music Sheet</span>==
+The Feudal Lord offers the {{Music Sheet|39}} [[Music Sheet]] #39. It was available to all players during the Season from the Friendship Tree's fifth node ({{Cost|82 SC|season=Nine-Colored Deer}} total). It is a song in the key of C Major.<br>
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guide
+|content=
+{{#ev:youtube|kQi6ReGkNhk||inline|Music Sheet Video Guide by Ikejiji}}
+}}
+
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling}}<!--
+|ts_dates=*DATE (# )
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Feudal Lord
+|image = Nine-Colored-Deer-Feudal-Lord.png
+|season = Nine-Colored Deer
+
+|nodeL6 = Hairpiece ? C
+|nodeC6 = Cape ? C
+|nodeR5 = music39 15 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Mask ? C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+The hints given before the Feudal Lord's first appearance were: 
+{{Collapse
+|label=First Visit Hints
+|content=<div>
+*  [ hints can be on the official Sky Discord which are posted a few days before the traveling spirit by staff of thatgamecompany. ]
+</div>
+}}-->
+
+==Season Friendship Tree ==
+{{Friendship Tree Info | season| season=the Nine-Colored Deer}} <section begin="Season Friendship Tree" />
+{{Friendship Tree
+|spirit = Feudal Lord
+|image  = Nine-Colored-Deer-Feudal-Lord.png
+|type   = season
+|season= Nine-Colored Deer
+
+|nodeC6 = season_heart 3 SC SP
+
+|nodeL5 = spellx SP
+|nodeC5 = music39 32 SC
+
+|nodeL4 = cape SP
+|nodeC4 = spellx 26 SC
+
+|nodeL3 = spellx SP
+|nodeC3 = mask 18 SC
+
+|nodeL2 = Hairpiece SP
+|nodeC2 = spellx 6 SC
+
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Personality==
+On January 12, 2024, TGC officially announced and introduced the Feudal Lord with the following personality traits:
+
+* 👑 Relishes trying out new contraptions
+* 👑 Cannot tolerate seeing loved ones upset
+* 👑 Thinks about public perception more than they realize
+* 👑 Remembers the names of all the palace guards
+
+==Trivia==
+* The Feudal Lord is also referred to as the King in the third Seasonal Quest of the [[Season of the Nine-Colored Deer]].
+
+==References==
+<references />
+
+[[pt-br:Senhor Feudal]]
+[[de:Feudalherr]]
+[[ja:国王]]
+[[fr:Seigneur Féodal]]
+
+[[Category:Season of the Nine-Colored Deer]]

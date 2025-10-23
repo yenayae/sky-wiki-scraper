@@ -1,0 +1,1123 @@
+{{Icon List
+|caption=Available Expressions
+|h1=Emotes
+|h1
+| {{Icon|Emote-basic sit.png|table|link=Expressions#Sit|sort=1}}
+| {{Spirit Item|Pointing Candlemaker|emote|table|sort=2|in_page=1}}
+| {{Spirit Item|Ushering Stargazer|emote|table|sort=3|in_page=1}}
+| {{Spirit Item|Rejecting Voyager|emote|table|sort=4|in_page=1}}
+| {{Spirit Item|Troupe Greeter|emote|table|sort=5|in_page=1}}
+| {{Spirit Item|Nodding Muralist|emote|table|sort=6|in_page=1}}
+| {{Spirit Item|Scolding Student|emote|table|sort=7|in_page=1}}
+| {{Spirit Item|Butterfly Charmer|emote|table|sort=8|in_page=1}}
+| {{Spirit Item|Applauding Bellmaker|emote|table|sort=9|in_page=1}}
+| {{Spirit Item|Waving Bellmaker|emote|table|sort=10|in_page=1}}
+| {{Spirit Item|Laughing Light Catcher|emote|table|sort=11|in_page=1}}
+| {{Spirit Item|Slumbering Shipwright|emote|table|sort=12|in_page=1}}
+| {{Spirit Item|Exhausted Dock Worker|emote|table|sort=13|in_page=1}}
+| {{Spirit Item|Ceremonial Worshiper|emote|table|sort=14|in_page=1}}
+| {{Spirit Item|Admiring Actor|emote|table|sort=15|in_page=1}}
+| {{Spirit Item|Grateful Shell Collector|emote|table|sort=16|in_page=1}}
+| {{Spirit Item|Chill Sunbather|emote|table|sort=17|in_page=1}}
+| {{Spirit Item|Chuckling Scout|emote|table|sort=18|in_page=1}}
+| {{Spirit Item|Shivering Trailblazer|emote|table|sort=19|in_page=1}}
+| {{Spirit Item|Hide'n'Seek Pioneer|emote|table|sort=20|in_page=1}}
+| {{Spirit Item|Pouty Porter|emote|table|sort=21|in_page=1}}
+| {{Spirit Item|Blushing Prospector|emote|table|sort=22|in_page=1}}
+| {{Spirit Item|Dismayed Hunter|emote|table|sort=23|in_page=1}}
+| {{Spirit Item|Apologetic Lumberjack|emote|table|sort=24|in_page=1}}
+| {{Spirit Item|Tearful Light Miner|emote|table|sort=25|in_page=1}}
+| {{Spirit Item|Provoking Performer|emote|table|sort=26|in_page=1}}
+| {{Spirit Item|Indifferent Alchemist|emote|table|sort=27|in_page=1}}
+| {{Spirit Item|Hiking Grouch|emote|table|sort=28|in_page=1}}
+| {{Spirit Item|Peeking Postman|emote|table|sort=29|in_page=1}}
+| {{Spirit Item|Scaredy Cadet|emote|table|sort=30|in_page=1}}
+| {{Spirit Item|Baffled Botanist|emote|table|sort=31|in_page=1}}
+| {{Spirit Item|Handstanding Thrillseeker|emote|table|sort=32|in_page=1}}
+| {{Spirit Item|Backflipping Champion|emote|table|sort=33|in_page=1}}
+| {{Spirit Item|Bowing Medalist|emote|table|sort=34|in_page=1}}
+| {{Spirit Item|Cheerful Spectator|emote|table|sort=35|in_page=1}}
+| {{Spirit Item|Leaping Dancer|emote|table|sort=36|in_page=1}}
+| {{Spirit Item|Twirling Champion|emote|table|sort=37|in_page=1}}
+| {{Spirit Item|Confetti Cousin|emote|table|sort=38|in_page=1}}
+| {{Spirit Item|Boogie Kid|emote|table|sort=39|in_page=1}}
+| {{Spirit Item|Festival Spin Dancer|emote|table|sort=40|in_page=1}}
+| {{Spirit Item|Troupe Juggler|emote|table|sort=41|in_page=1}}
+| {{Spirit Item|Crab Walker|emote|table|sort=42|in_page=1}}
+| {{Spirit Item|Rallying Thrillseeker|emote|table|sort=43|in_page=1}}
+| {{Spirit Item|Spinning Mentor|emote|table|sort=44|in_page=1}}
+| {{Spirit Item|Dancing Performer|emote|table|sort=45|in_page=1}}
+| {{Spirit Item|Frightened Refugee|emote|table|sort=46|in_page=1}}
+| {{Spirit Item|Fainting Warrior|emote|table|sort=47|in_page=1}}
+| {{Spirit Item|Respectful Pianist|emote|table|sort=48|in_page=1}}
+| {{Spirit Item|Lookout Scout|emote|table|sort=49|in_page=1}}
+| {{Spirit Item|Saluting Captain|emote|table|sort=50|in_page=1}}
+| {{Spirit Item|Saluting Protector|emote|table|sort=51|in_page=1}}
+| {{Spirit Item|Greeting Shaman|emote|table|sort=52|in_page=1}}
+| {{Spirit Item|Pleaful Parent|emote|table|sort=53|in_page=1}}
+| {{Spirit Item|Scarecrow Farmer|emote|table|sort=54|in_page=1}}
+| {{Spirit Item|Prophet of Earth|emote|table|sort=55|in_page=1}}
+| {{Spirit Item|Prophet of Fire|emote|table|sort=56|in_page=1}}
+| {{Spirit Item|Marching Adventurer|emote|table|sort=57|in_page=1}}
+| {{Spirit Item|Levitating Adept|emote|table|sort=58|in_page=1}}
+| {{Spirit Item|Meditating Monastic|emote|table|sort=59|in_page=1}}
+| {{Spirit Item|Praying Acolyte|emote|table|sort=60|in_page=1}}
+| {{Spirit Item|Stretching Guru|emote|table|sort=61|in_page=1}}
+| {{Spirit Item|Shushing Light Scholar|emote|table|sort=62|in_page=1}}
+| {{Spirit Item|Sparkler Parent|emote|table|sort=63|in_page=1}}
+| {{Spirit Item|Thoughtful Director|emote|table|sort=64|in_page=1}}
+| {{Spirit Item|Snoozing Carpenter|emote|table|sort=65|in_page=1}}
+| {{Spirit Item|Prophet of Air|emote|table|sort=66|in_page=1}}
+| {{Spirit Item|Prophet of Water|emote|table|sort=67|in_page=1}}
+| {{Spirit Item|Daydream Forester|emote|table|sort=68|in_page=1}}
+| {{Spirit Item|Beckoning Ruler|emote|table|sort=69|in_page=1}}
+| {{Spirit Item|Gloating Narcissist|emote|table|sort=70|in_page=1}}
+| {{Spirit Item|Stretching Lamplighter|emote|table|sort=71|in_page=1}}
+| {{Spirit Item|Slouching Soldier|emote|table|sort=72|in_page=1}}
+| {{Spirit Item|Sneezing Geographer|emote|table|sort=73|in_page=1}}
+| {{Spirit Item|Star Collector|emote|table|sort=74|in_page=1}}
+| {{Spirit Item|Talented Builder|emote|table|sort=75|in_page=1}}
+| {{Spirit Item|Lively Navigator|emote|table|sort=76|in_page=1}}
+| {{Spirit Item|Ceasing Commodore|emote|table|sort=77|in_page=1}}
+| {{Spirit Item|Cackling Cannoneer|emote|table|sort=78|in_page=1}}
+| {{Spirit Item|Bumbling Boatswain|emote|table|sort=79|in_page=1}}
+| {{Spirit Item|Anxious Angler|emote|table|sort=80|in_page=1}}
+| {{Spirit Item|Mellow Musician|emote|table|sort=81|in_page=1}}
+| {{Spirit Item|Forgetful Storyteller|emote|table|sort=82|in_page=1}}
+| {{Spirit Item|Running Wayfarer|emote|table|sort=83|in_page=1}}
+| {{Spirit Item|Mindful Miner|emote|table|sort=84|in_page=1}}
+| {{Spirit Item|Warrior of Love|emote|table|sort=85|in_page=1}}
+| {{Spirit Item|Seed of Hope|emote|table|sort=86|in_page=1}}
+| {{Spirit Item|AURORA Guide|emote_k|table|sort=87|in_page=1}}
+| {{Spirit Item|AURORA Guide|emote_c|table|sort=88|in_page=1}}
+| {{Spirit Item|AURORA Guide|emote_s|table|sort=89|in_page=1}}
+| {{Spirit Item|Pleading Child|emote_s|table|sort=90|in_page=1}}
+| {{Spirit Item|Tiptoeing Tea-Brewer|emote_s|table|sort=91|in_page=1}}
+| {{Spirit Item|Bereft Veteran|emote_s|table|sort=92|in_page=1}}
+| {{Spirit Item|Oddball Outcast|emote|table|sort=93|in_page=1}}
+| {{Spirit Item|Tumbling Troublemaker|emote|table|sort=94|in_page=1}}
+| {{Spirit Item|Melancholy Mope|emote|table|sort=95|in_page=1}}
+| {{Spirit Item|Overactive Overachiever|emote|table|sort=96|in_page=1}}
+| {{Spirit Item|Jolly Geologist|emote|table|sort=97|in_page=1}}
+| {{Spirit Item|Ascetic Monk|emote|table|sort=98|in_page=1}}
+| {{Spirit Item|AURORA Guide|emote_e|table|sort=99|in_page=1}}
+| {{Spirit Item|Herb Gatherer|emote|table|sort=100|in_page=1}}
+| {{Spirit Item|Hunter|emote|table|sort=101|in_page=1}}
+| {{Spirit Item|Princess|emote|table|sort=102|in_page=1}}
+| {{Spirit Item|The Moomin Storybook|emote|table|sort=103|in_page=1}}
+| {{Spirit Item|Radiance Leaping Dancer|emote|table|sort=104|in_page=1}}
+| {{Spirit Item|Radiance Greeting Shaman|emote|table|sort=105|in_page=1}}
+| {{Spirit Item|Radiance Provoking Performer|emote|table|sort=106|in_page=1}}
+| {{Spirit Item|Blue Bird Guide|emote|table|sort=107|in_page=1}}
+| {{Spirit Item|Royal Hairtousle Teen|emote|table|sort=108|in_page=1}}
+|h2=Stances
+|h2
+| {{Icon|Stance basic stand.png|table|sort=1|label=Base Stance|in_page=1}}
+| {{Spirit Item|Courageous Soldier|emote|table|sort=2|in_page=1}}
+| {{Spirit Item|Confident Sightseer|emote|table|sort=3|in_page=1}}
+| {{Spirit Item|Stealthy Survivor|emote|table|sort=4|in_page=1}}
+| {{Spirit Item|Proud Victor|emote|table|sort=5|in_page=1}}
+| {{Spirit Item|Polite Scholar|emote|table|sort=6|in_page=1}}
+| {{Spirit Item|Sassy Drifter|emote|table|sort=7|in_page=1}}
+| {{Spirit Item|Laidback Pioneer|emote|table|sort=8|in_page=1}}
+| {{Spirit Item|Wise Grandparent|emote|table|sort=9|in_page=1}}
+| {{Spirit Item|Timid Bookworm|emote|table|sort=10|in_page=1}}
+| {{Spirit Item|Tinkering Chimesmith|emote|table|sort=11|in_page=1}}
+| {{Spirit Item|Wounded Warrior|emote|table|sort=12|in_page=1}}
+| {{Spirit Item|Blue Bird Guide|emote_s|table|sort=13|in_page=1}}
+| {{Spirit Item|Scarred Sentry|emote|table|sort=14|in_page=1}}
+|h3=Calls
+|h3
+| {{Icon|Voice basic call.png|table|sort=1|label=Base Call|in_page=1}}
+| {{Spirit Item|Bird Whisperer|emote|table|sort=2|in_page=1}}
+| {{Spirit Item|Whale Whisperer|emote|table|sort=3|in_page=1}}
+| {{Spirit Item|Manta Whisperer|emote|table|sort=4|in_page=1}}
+| {{Spirit Item|Memory Whisperer|emote|table|sort=5|in_page=1}}
+| {{Spirit Item|Crab Whisperer|emote|table|sort=6|in_page=1}}
+| {{Spirit Item|Jelly Whisperer|emote|table|sort=7|in_page=1}}
+| {{Spirit Item|Light Whisperer|emote|table|sort=8|in_page=1}}
+| {{Spirit Item|Nightbird Whisperer|emote|table|sort=9|in_page=1}}
+| {{Spirit Item|Blue Bird Guide|emote_c|table|sort=10|in_page=1}}
+| {{Spirit Item|Stern Shepherd|emote|table|sort=11|in_page=1}}
+|h4=Friend Actions
+|h4
+| {{Icon|Icon_high_five.png|table|sort=1|label=High Five Action|in_page=1}}
+| {{Icon|Icon_hug.png|table|sort=2|label=Hug Action|in_page=1}}
+| {{Icon|Icon_fist_bump.png|table|sort=3|label=Fist Bump Action|in_page=1}}
+| {{Spirit Item|Doublefive Light Catcher|emote|table|sort=4|in_page=1}}
+| {{Spirit Item|Hairtousle Teen|emote|table|sort=5|in_page=1}}
+| {{Spirit Item|Piggyback Lightseeker|emote|table|sort=6|in_page=1}}
+| {{Spirit Item|Playfighting Herbalist|emote|table|sort=7|in_page=1}}
+| {{Spirit Item|Bearhug Hermit|emote|table|sort=8|in_page=1}}
+| {{Spirit Item|Frantic Stagehand|emote|table|sort=9|in_page=1}}
+| {{Spirit Item|Modest Dancer|emote|table|sort=10|in_page=1}}
+| {{Spirit Item|Reassuring Ranger|emote|table|sort=11|in_page=1}}
+| {{Spirit Item|Feudal Lord|emote|table|sort=12|in_page=1}}
+| {{Spirit Item|Duets Guide|emote|table|sort=13|in_page=1}}
+}}
+'''Expressions''' (also known as '''Emotes''') are [[Collectibles|collectible]] gestures, animations, and actions that are used to express yourself to others. Most Expressions can be [[#Upgrading Expressions|upgraded]] to include visual effects and different animations.
+
+All Expressions are acquired from [[Spirits]]; both [[Regular Spirits]] and [[Seasonal Spirits]]. There are several varieties of Expression depending upon how you use them:
+* [[#Emotes|Emotes]] is used here specifically for the most common type of Expression, that allows you to perform an animation or action.
+* [[#Stances|Stances]] determine the basic posture used by your character when standing, kneeling, sitting, or lying down.
+* [[#Calls|Calls]] (or Voices) determine the sound made when you honk or [[Deep Call]]
+* [[Making Friends|Friend Actions]] are animations that you can do interactively with friends. Note that although these Actions are acquired the same way as all other Expressions, none of them are accessed through the [[Expression Menu]].
+
+<gallery>Expressions-Stances-Calls-Printable-chart.jpg|Expressions Printable chart</gallery>
+
+== Expression Menu ==
+Expressions are accessed through the [[Expression Menu]]. Some non-Expressions are also listed in this menu, all of which are detailed elsewhere:
+* {{Icon|Icon_flame.png|inline_text|link=Flame}} accesses your flame (Candle), to ignite Candles/Darkness, or to illuminate dark areas.
+* {{Icon|Icon_home.png|inline_text|link=Home Action}} lets you teleport [[Home]]
+* Prop icon: If you have a [[Prop]] equipped, its icon appears next to the Home icon, allowing you to equip it.
+* {{Icon|Request guide.png|inline_text|link=Request Guide}}: allows new players to ask experienced players for help finding [[Spirits]].
+* {{Icon|Emote-basic sit.png|inline_text|link=Sit}}: cycles between standing, kneeling, sitting, and lying down.
+
+In addition, the third tab in the Expression Menu lists {{Icon|5CandlesSpell.png|inline_text|link=Blessings}}.
+
+== Upgrading Expressions ==
+Most Emotes (not Stances or Voices) in the menu are upgradable, with typically 4 total Levels (3 upgrades). Expression upgrades are purchased through the Friendship Trees of the Spirits who taught you the Level 1 Expression.
+
+Once you have purchased an upgrade, a number of dots will appear above the Expression in your menu. Tap the Expression icon once to perform the basic action. Tap and hold it until the second dot highlights, then let go, to perform the upgrade. Hold even longer before letting go to perform the third, fourth, etc., once you have purchased them.
+
+==Emotes==
+The order in which Expressions are shown in the Expression Menu is somewhat idiosyncratic. The Regular Spirit Expressions are grouped together by Realm in the standard Realm order. The newer Seasonal Spirit Expressions are listed at the end. But the earlier Seasons are interspersed semi-randomly between the Regular Spirits, in an apparently fixed order. The order is definitely not influenced by the order in which you learn the Spirits.
+
+Any Expressions that you have not yet learned are omitted from the menu; the only exception is Regular Spirit Expressions granted by Spirits on your current map that appear dimmed-out in the menu. Therefore, your menu will be shorter than the provided list, but the icons you have learned will be in this same order.
+
+The levels column indicates the total number of available Levels for each Expression, where 4 is typical (original, Level 1 Expression, plus three upgrades).
+{| class="article-table sortable"
+|-
+! Expression
+! Icon
+! Levels
+! Season
+! Location
+|- id="Sit"
+| [[Sit]]
+| {{Icon|Emote-basic sit.png|table|link=Sit|sort=1}}
+| 1
+|
+|data-sort-value="1" | Base
+|- id="Point"
+| [[{{Icon Name|Pointing Candlemaker|emote_name}}]]
+| {{Emote|Pointing Candlemaker|table|sort=2}}
+| 4
+|
+|data-sort-value="10"| [[Isle of Dawn]]
+|- id="Come"
+| [[{{Icon Name|Ushering Stargazer|emote_name}}]]
+| {{Emote|Ushering Stargazer|table|sort=3}}
+| 4
+|
+|data-sort-value="10"| [[Isle of Dawn]]
+|- id="No Thanks"
+| [[{{Icon Name|Rejecting Voyager|emote_name}}]]
+| {{Emote|Rejecting Voyager|table|sort=4}}
+| 4
+|
+|data-sort-value="10"| [[Isle of Dawn]]
+|- id="Welcome"
+| [[{{Icon Name|Troupe Greeter|emote_name}}]]
+| {{Emote|Troupe Greeter|table|sort=5}}
+| 4
+| {{Season Icon|Rhythm|table}}
+|data-sort-value="10"| [[Isle of Dawn]]
+|- id="Nod"
+| [[{{Icon Name|Nodding Muralist|emote_name}}]]
+| {{Emote|Nodding Muralist|table|sort=6}}
+| 4
+| {{Season Icon|Enchantment|table}}
+|data-sort-value="57" | [[Forgotten Ark]]
+|- id="Scold"
+| [[{{Icon Name|Scolding Student|emote_name}}]]
+| {{Emote|Scolding Student|table|sort=7}}
+| 4
+| {{Season Icon|Assembly|table}}
+|data-sort-value="31" | [[Forest Clearing]]
+|- id="Butterfly"
+| [[{{Icon Name|Butterfly Charmer|emote_name}}]]
+| {{Emote|Butterfly Charmer|table|sort=8}}
+| 4
+|
+|data-sort-value="21"| [[Butterfly Fields]]
+|- id="Clap"
+| [[{{Icon Name|Applauding Bellmaker|emote_name}}]]
+| {{Emote|Applauding Bellmaker|table|sort=9}}
+| 4
+|
+|data-sort-value="22"| [[Prairie Villages]]
+|- id="Wave"
+| [[{{Icon Name|Waving Bellmaker|emote_name}}]]
+| {{Emote|Waving Bellmaker|table|sort=10}}
+| 6
+|
+|data-sort-value="22"| [[Prairie Villages]]
+|- id="Laugh"
+| [[{{Icon Name|Laughing Light Catcher|emote_name}}]]
+| {{Emote|Laughing Light Catcher|table|sort=11}}
+| 4
+|
+|data-sort-value="22"| [[Prairie Villages]]
+|- id="Yawn"
+| [[{{Icon Name|Slumbering Shipwright|emote_name}}]]
+| {{Emote|Slumbering Shipwright|table|sort=12}}
+| 4
+|
+|data-sort-value="22"| [[Prairie Villages]]
+|- id="Wipe Brow"
+| [[{{Icon Name|Exhausted Dock Worker|emote_name}}]]
+| {{Emote|Exhausted Dock Worker|table|sort=13}}
+| 4
+|
+|data-sort-value="24"| [[Prairie Caves]]
+|- id="Teamwork"
+| [[{{Icon Name|Ceremonial Worshiper|emote_name}}]]
+| {{Emote|Ceremonial Worshiper|table|sort=14}}
+| 1
+|
+|data-sort-value="25"| [[Eight Player Puzzle]]
+|- id="Blow Kiss"
+| [[{{Icon Name|Admiring Actor|emote_name}}]]
+| {{Emote|Admiring Actor|table|sort=15}}
+| 4
+| {{Season Icon|Rhythm|table}}
+|data-sort-value="33" | [[Forest Boneyard]]
+|- id="Grateful"
+| [[{{Icon Name|Grateful Shell Collector|emote_name}}]]
+| {{Emote|Grateful Shell Collector|table|sort=16}}
+| 4
+| {{Season Icon|Sanctuary|table}}
+|data-sort-value="27"| [[Sanctuary Islands]]
+|- id="Belly Scratch"
+| [[{{Icon Name|Chill Sunbather|emote_name}}]]
+| {{Emote|Chill Sunbather|table|sort=17}}
+| 4
+| {{Season Icon|Sanctuary|table}}
+|data-sort-value="27"| [[Sanctuary Islands]]
+|- id="Chuckle"
+| [[{{Icon Name|Chuckling Scout|emote_name}}]]
+| {{Emote|Chuckling Scout|table|sort=18}}
+| 4
+| {{Season Icon|Assembly|table}}
+|data-sort-value="33" | [[Forest Boneyard]]
+|- id="Shiver"
+| [[{{Icon Name|Shivering Trailblazer|emote_name}}]]
+| {{Emote|Shivering Trailblazer|table|sort=19}}
+| 4
+|
+|data-sort-value="31" | [[Forest Clearing]]
+|- id="Hide and Seek"
+| [[{{Icon Name|Hide'n'Seek Pioneer|emote_name}}]]
+| {{Emote|Hide'n'Seek Pioneer|table|sort=20}}
+| 1
+|
+|data-sort-value="32" | [[Forest's Brook]]
+|- id="Angry"
+| [[{{Icon Name|Pouty Porter|emote_name}}]]
+| {{Emote|Pouty Porter|table|sort=21}}
+| 4
+|
+|data-sort-value="32" | [[Forest's Brook]]
+|- id="Shy"
+| [[{{Icon Name|Blushing Prospector|emote_name}}]]
+| {{Emote|Blushing Prospector|table|sort=22}}
+| 4
+|
+|data-sort-value="32" | [[Forest's Brook]]
+|- id="Shocked"
+| [[{{Icon Name|Dismayed Hunter|emote_name}}]]
+| {{Emote|Dismayed Hunter|table|sort=23}}
+| 4
+|
+|data-sort-value="33" | [[Forest Boneyard]]
+|- id="Apologize"
+| [[{{Icon Name|Apologetic Lumberjack|emote_name}}]]
+| {{Emote|Apologetic Lumberjack|table|sort=24}}
+| 4
+|
+|data-sort-value="33" | [[Forest Boneyard]]
+|- id="Crying"
+| [[{{Icon Name|Tearful Light Miner|emote_name}}]]
+| {{Emote|Tearful Light Miner|table|sort=25}}
+| 6
+|
+|data-sort-value="33" | [[Forest Boneyard]]
+|- id="Kabuki"
+| [[{{Icon Name|Provoking Performer|emote_name}}]]
+| {{Emote|Provoking Performer|table|sort=26}}
+| 4
+| {{Season Icon|Gratitude|table}}
+|data-sort-value="32" | [[Forest's Brook]]
+|- id="Shrug"
+| [[{{Icon Name|Indifferent Alchemist|emote_name}}]]
+| {{Emote|Indifferent Alchemist|table|sort=27}}
+| 4
+| {{Season Icon|Enchantment|table}}
+|data-sort-value="57" | [[Forgotten Ark]]
+|- id="Grumpy"
+| [[{{Icon Name|Hiking Grouch|emote_name}}]]
+| {{Emote|Hiking Grouch|table|sort=28}}
+| 4
+| {{Season Icon|Sanctuary|table}}
+|data-sort-value="27"| [[Sanctuary Islands]]
+|- id="Peek"
+| [[{{Icon Name|Peeking Postman|emote_name}}]]
+| {{Emote|Peeking Postman|table|sort=29}}
+| 4
+| {{Season Icon|Dreams|table}}
+|data-sort-value="46" | [[Village of Dreams]]
+|- id="Eww"
+| [[{{Icon Name|Scaredy Cadet|emote_name}}]]
+| {{Emote|Scaredy Cadet|table|sort=30}}
+| 4
+| {{Season Icon|Assembly|table}}
+|data-sort-value="32" | [[Forest's Brook]]
+|- id="Facepalm"
+| [[{{Icon Name|Baffled Botanist|emote_name}}]]
+| {{Emote|Baffled Botanist|table|sort=31}}
+| 4
+| {{Season Icon|Assembly|table}}
+|data-sort-value="31" | [[Forest Clearing]]
+|- id="Handstand"
+| [[{{Icon Name|Handstanding Thrillseeker|emote_name}}]]
+| {{Emote|Handstanding Thrillseeker|table|sort=32}}
+| 4
+|
+|data-sort-value="45" | [[Citadel]]
+|- id="Backflip"
+| [[{{Icon Name|Backflipping Champion|emote_name}}]]
+| {{Emote|Backflipping Champion|table|sort=33}}
+| 4
+|
+|data-sort-value="45" | [[Citadel]]
+|- id="Bow"
+| [[{{Icon Name|Bowing Medalist|emote_name}}]]
+| {{Emote|Bowing Medalist|table|sort=34}}
+| 4
+|
+|data-sort-value="43" | [[Coliseum]]
+|- id="Cheer"
+| [[{{Icon Name|Cheerful Spectator|emote_name}}]]
+| {{Emote|Cheerful Spectator|table|sort=35}}
+| 4
+|
+|data-sort-value="43" | [[Coliseum]]
+|- id="Leap"
+| [[{{Icon Name|Leaping Dancer|emote_name}}]]
+| {{Emote|Leaping Dancer|table|sort=36}}
+| 4
+| {{Season Icon|Gratitude|table}}
+|data-sort-value="41" | [[Ice Rink]]
+|- id="Triple Axel"
+| [[{{Icon Name|Twirling Champion|emote_name}}]]
+| {{Emote|Twirling Champion|table|sort=37}}
+| 4
+| {{Season Icon|Lightseekers|table}}
+|data-sort-value="41" | [[Ice Rink]]
+|- id="Confetti"
+| [[{{Icon Name|Confetti Cousin|emote_name}}]]
+| {{Emote|Confetti Cousin|table|sort=38}}
+| 4
+| {{Season Icon|Belonging|table}}
+|data-sort-value="21"| [[Butterfly Fields]]
+|- id="Boogie Dance"
+| [[{{Icon Name|Boogie Kid|emote_name}}]]
+| {{Emote|Boogie Kid|table|sort=39}}
+| 4
+| {{Season Icon|Belonging|table}}
+|data-sort-value="10"| [[Isle of Dawn]]
+|- id="Spin Dance"
+| [[{{Icon Name|Festival Spin Dancer|emote_name}}]]
+| {{Emote|Festival Spin Dancer|table|sort=40}}
+| 4
+| {{Season Icon|Rhythm|table}}
+|data-sort-value="26"| [[Bird Nest]]
+|- id="Juggle"
+| [[{{Icon Name|Troupe Juggler|emote_name}}]]
+| {{Emote|Troupe Juggler|table|sort=41}}
+| 4
+| {{Season Icon|Rhythm|table}}
+|data-sort-value="41" | [[Ice Rink]]
+|- id="Crab Walk"
+| [[{{Icon Name|Crab Walker|emote_name}}]]
+| {{Emote|Crab Walker|table|sort=42}}
+| 4
+| {{Season Icon|Enchantment|table}}
+|data-sort-value="57" | [[Forgotten Ark]]
+|- id="Rally Cheer"
+| [[{{Icon Name|Rallying Thrillseeker|emote_name}}]]
+| {{Emote|Rallying Thrillseeker|table|sort=43}}
+| 4
+| {{Season Icon|Sanctuary|table}}
+|data-sort-value="27"| [[Sanctuary Islands]]
+|- id="Spin Trick"
+| [[{{Icon Name|Spinning Mentor|emote_name}}]]
+| {{Emote|Spinning Mentor|table|sort=44}}
+| 4
+| {{Season Icon|Dreams|table}}
+|data-sort-value="46" | [[Village of Dreams]]
+|- id="Show Dance"
+| [[{{Icon Name|Dancing Performer|emote_name}}]]
+| {{Emote|Dancing Performer|table|sort=45}}
+| 4
+| {{Season Icon|Dreams|table}}
+|data-sort-value="46" | [[Village of Dreams]]
+|- id="Duck"
+| [[{{Icon Name|Frightened Refugee|emote_name}}]]
+| {{Emote|Frightened Refugee|table|sort=46}}
+| 4
+|
+|data-sort-value="51" | [[Broken Temple]]
+|- id="Faint"
+| [[{{Icon Name|Fainting Warrior|emote_name}}]]
+| {{Emote|Fainting Warrior|table|sort=47}}
+| 4
+|
+|data-sort-value="51" | [[Broken Temple]]
+|- id="Respect"
+| [[{{Icon Name|Respectful Pianist|emote_name}}]]
+| {{Emote|Respectful Pianist|table|sort=48}}
+| 4
+| {{Season Icon|Rhythm|table}}
+|data-sort-value="53" | [[Graveyard]]
+|- id="Look Around"
+| [[{{Icon Name|Lookout Scout|emote_name}}]]
+| {{Emote|Lookout Scout|table|sort=49}}
+| 4
+|
+|data-sort-value="55" | [[Battlefield]]
+|- id="Salute"
+| [[{{Icon Name|Saluting Captain|emote_name}}]]
+| {{Emote|Saluting Captain|table|sort=50}}
+| 4
+|
+|data-sort-value="54" | [[Crab Fields]]
+|- id="Acknowledge"
+| [[{{Icon Name|Saluting Protector|emote_name}}]]
+| {{Emote|Saluting Protector|table|sort=51}}
+| 4
+| {{Season Icon|Gratitude|table}}
+|data-sort-value="52" | [[First Krill Area]]
+|- id="Kung Fu"
+| [[{{Icon Name|Greeting Shaman|emote_name}}]]
+| {{Emote|Greeting Shaman|table|sort=52}}
+| 4
+| {{Season Icon|Gratitude|table}}
+|data-sort-value="63" | [[Fourth Floor Vault]]
+|- id="Don't Go!"
+| [[{{Icon Name|Pleaful Parent|emote_name}}]]
+| {{Emote|Pleaful Parent|table|sort=53}}
+| 4
+| {{Season Icon|Belonging|table}}
+|data-sort-value="53" | [[Graveyard]]
+|- id="Boo"
+| [[{{Icon Name|Scarecrow Farmer|emote_name}}]]
+| {{Emote|Scarecrow Farmer|table|sort=54}}
+| 4
+| {{Season Icon|Enchantment|table}}
+|data-sort-value="57" | [[Forgotten Ark]]
+|- id="Dust Off"
+| [[{{Icon Name|Prophet of Earth|emote_name}}]]
+| {{Emote|Prophet of Earth|table|sort=55}}
+| 4
+| {{Season Icon|Prophecy|table}}
+|data-sort-value="13" | [[Cave of Prophecies]]
+|- id="Chest Pound"
+| [[{{Icon Name|Prophet of Fire|emote_name}}]]
+| {{Emote|Prophet of Fire|table|sort=56}}
+| 4
+| {{Season Icon|Prophecy|table}}
+|data-sort-value="13" | [[Cave of Prophecies]]
+|- id="Marching"
+| [[{{Icon Name|Marching Adventurer|emote_name}}]]
+| {{Emote|Marching Adventurer|table|sort=57}}
+| 4
+| {{Season Icon|Assembly|table}}
+|data-sort-value="32" | [[Forest's Brook]]
+|- id="Telekinesis"
+| [[{{Icon Name|Levitating Adept|emote_name}}]]
+| {{Emote|Levitating Adept|table|sort=58}}
+| 4
+|
+|data-sort-value="61" | [[Second Floor Vault]]
+|- id="Float"
+| [[{{Icon Name|Meditating Monastic|emote_name}}]]
+| {{Emote|Meditating Monastic|table|sort=59}}
+| 4
+|
+|data-sort-value="63" | [[Fourth Floor Vault]]
+|- id="Pray"
+| [[{{Icon Name|Praying Acolyte|emote_name}}]]
+| {{Emote|Praying Acolyte|table|sort=60}}
+| 4
+|
+|data-sort-value="60" | [[First Floor Vault]]
+|- id="Yoga"
+| [[{{Icon Name|Stretching Guru|emote_name}}]]
+| {{Emote|Stretching Guru|table|sort=61}}
+| 4
+| {{Season Icon|Gratitude|table}}
+|data-sort-value="24"| [[Prairie Caves]]
+|- id="Shush"
+| [[{{Icon Name|Shushing Light Scholar|emote_name}}]]
+| {{Emote|Shushing Light Scholar|table|sort=62}}
+| 4
+| {{Season Icon|Lightseekers|table}}
+|data-sort-value="63" | [[Fourth Floor Vault]]
+|- id="Sparkler"
+| [[{{Icon Name|Sparkler Parent|emote_name}}]]
+| {{Emote|Sparkler Parent|table|sort=63}}
+| 4
+| {{Season Icon|Belonging|table}}
+|data-sort-value="44" | [[Valley Temple]]
+|- id="Thinking"
+| [[{{Icon Name|Thoughtful Director|emote_name}}]]
+| {{Emote|Thoughtful Director|table|sort=64}}
+| 4
+| {{Season Icon|Rhythm|table}}
+|data-sort-value="60" | [[First Floor Vault]]
+|- id="Doze"
+| [[{{Icon Name|Snoozing Carpenter|emote_name}}]]
+| {{Emote|Snoozing Carpenter|table|sort=65}}
+| 4
+| {{Season Icon|Enchantment|table}}
+|data-sort-value="57" | [[Forgotten Ark]]
+|- id="Balance"
+| [[{{Icon Name|Prophet of Air|emote_name}}]]
+| {{Emote|Prophet of Air|table|sort=66}}
+| 4
+| {{Season Icon|Prophecy|table}}
+|data-sort-value="13" | [[Cave of Prophecies]]
+|- id="Deep Breath"
+| [[{{Icon Name|Prophet of Water|emote_name}}]]
+| {{Emote|Prophet of Water|table|sort=67}}
+| 4
+| {{Season Icon|Prophecy|table}}
+|data-sort-value="13" | [[Cave of Prophecies]]
+|- id="Bubbles"
+| [[{{Icon Name|Daydream Forester|emote_name}}]]
+| {{Emote|Daydream Forester|table|sort=68}}
+| 4
+| {{Season Icon|Assembly|table}}
+|data-sort-value="33" | [[Forest Boneyard]]
+|- id="Beckon"
+| [[{{Icon Name|Beckoning Ruler|emote_name}}]]
+| {{Emote|Beckoning Ruler|table|sort=69}}
+| 4
+| {{Season Icon|The Little Prince|table}}
+|data-sort-value="68" | [[Starlight Desert]]
+|- id="Gloat"
+| [[{{Icon Name|Gloating Narcissist|emote_name}}]]
+| {{Emote|Gloating Narcissist|table|sort=70}}
+| 4
+| {{Season Icon|The Little Prince|table}}
+|data-sort-value="68" | [[Starlight Desert]]
+|- id="Stretch"
+| [[{{Icon Name|Stretching Lamplighter|emote_name}}]]
+| {{Emote|Stretching Lamplighter|table|sort=71}}
+| 4
+| {{Season Icon|The Little Prince|table}}
+|data-sort-value="68" | [[Starlight Desert]]
+|- id="Slouch"
+| [[{{Icon Name|Slouching Soldier|emote_name}}]]
+| {{Emote|Slouching Soldier|table|sort=72}}
+| 4
+| {{Season Icon|The Little Prince|table}}
+|data-sort-value="68" | [[Starlight Desert]]
+|- id="Sneeze"
+| [[{{Icon Name|Sneezing Geographer|emote_name}}]]
+| {{Emote|Sneezing Geographer|table|sort=73}}
+| 4
+| {{Season Icon|The Little Prince|table}}
+|data-sort-value="68" | [[Starlight Desert]]
+|- id="Hand-Rub"
+| [[{{Icon Name|Star Collector|emote_name}}]]
+| {{Emote|Star Collector|table|sort=74}}
+| 4
+| {{Season Icon|The Little Prince|table}}
+|data-sort-value="68" | [[Starlight Desert]]
+|- id="Voilà"
+| [[{{Icon Name|Talented Builder|emote_name}}]]
+| {{Emote|Talented Builder|table|sort=75}}
+| 4
+| {{Season Icon|Flight|table}}
+|data-sort-value="38" | [[Wind Paths]]
+|- id="Navigate"
+| [[{{Icon Name|Lively Navigator|emote_name}}]]
+| {{Emote|Lively Navigator|table|sort=76}}
+| 4
+| {{Season Icon|Flight|table}}
+|data-sort-value="38" | [[Wind Paths]]
+|- id="Calm Down"
+| [[{{Icon Name|Ceasing Commodore|emote_name}}]]
+| {{Emote|Ceasing Commodore|table|sort=77}}
+| 4
+| {{Season Icon|Abyss|table}}
+|data-sort-value="58" | [[Treasure Reef]]
+|- id="Evil Laugh"
+| [[{{Icon Name|Cackling Cannoneer|emote_name}}]]
+| {{Emote|Cackling Cannoneer|table|sort=78}}
+| 4
+| {{Season Icon|Abyss|table}}
+|data-sort-value="58" | [[Treasure Reef]]
+|- id="Ouch"
+| [[{{Icon Name|Bumbling Boatswain|emote_name}}]]
+| {{Emote|Bumbling Boatswain|table|sort=79}}
+| 4
+| {{Season Icon|Abyss|table}}
+|data-sort-value="58" | [[Treasure Reef]]
+|- id="Anxious"
+| [[{{Icon Name|Anxious Angler|emote_name}}]]
+| {{Emote|Anxious Angler|table|sort=80}}
+| 4
+| {{Season Icon|Abyss|table}}
+|data-sort-value="58" | [[Treasure Reef]]
+|- id="Headbob"
+| [[{{Icon Name|Mellow Musician|emote_name}}]]
+| {{Emote|Mellow Musician|table|sort=81}}
+| 4
+| {{Season Icon|Performance|table}}
+|data-sort-value="48" | [[Village of Dreams]]
+|- id="Awww"
+| [[{{Icon Name|Forgetful Storyteller|emote_name}}]]
+| {{Emote|Forgetful Storyteller|table|sort=82}}
+| 4
+| {{Season Icon|Performance|table}}
+|data-sort-value="48" | [[Village of Dreams]]
+|- id="Waving Light"
+| [[{{Icon Name|Running Wayfarer|emote_name}}]]
+| {{Emote|Running Wayfarer|table|sort=83}}
+| 4
+| {{Season Icon|AURORA|table}}
+| data-sort-value="43" | [[Coliseum]]
+|- id="Raise the Roof"
+| [[{{Icon Name|Mindful Miner|emote_name}}]]
+| {{Emote|Mindful Miner|table|sort=84}}
+| 4
+| {{Season Icon|AURORA|table}}
+| data-sort-value="43" | [[Coliseum]]
+|- id="Twirl"
+| [[Warrior of Love#Expression|{{Icon Name|Warrior of Love|emote_name}}]]
+| {{Emote|Warrior of Love|table|sort=85}}
+| 4
+| {{Season Icon|AURORA|table}}
+| data-sort-value="43" | [[Coliseum]]
+|- id="Rhythmic Clap"
+| [[{{Icon Name|Seed of Hope|emote_name}}]]
+| {{Emote|Seed of Hope|table|sort=86}}
+| 4
+| {{Season Icon|AURORA|table}}
+| data-sort-value="43" | [[Coliseum]]
+|- id="Conduct"
+| [[{{Icon Name|AURORA Guide|emote_k_name}}]]
+| {{Spirit Item|AURORA Guide|emote_k|table|sort=87|link=AURORA Guide#Expression}}
+| 4
+| {{Season Icon|AURORA|table}}
+| data-sort-value="43" | [[Coliseum]]
+|- id="Silent Clap"
+| [[{{Icon Name|AURORA Guide|emote_c_name}}]]
+| {{Spirit Item|AURORA Guide|emote_c|table|sort=88|link=AURORA Guide#Expression}}
+| 4
+| {{Season Icon|AURORA|table}}
+| data-sort-value="43" | [[Coliseum]]
+|- id="Skipping"
+| [[{{Icon Name|AURORA Guide|emote_s_name}}]]
+| {{Spirit Item|AURORA Guide|emote_s|table|sort=89|link=AURORA Guide#Expression}}
+| 4
+| {{Season Icon|AURORA|table}}
+| data-sort-value="43" | [[Coliseum]]
+|- id="Pleading"
+| [[{{Icon Name|Pleading Child|emote_name}}]]
+| {{Emote|Pleading Child|table|sort=90}}
+| 4
+| {{Season Icon|Remembrance|table}}
+| data-sort-value="48" | [[Repository of Refuge]]
+|- id="Tiptoeing"
+| [[{{Icon Name|Tiptoeing Tea-Brewer|emote_name}}]]
+| {{Emote|Tiptoeing Tea-Brewer|table|sort=91}}
+| 4
+| {{Season Icon|Remembrance|table}}
+| data-sort-value="48" | [[Repository of Refuge]]
+|- id="Grieving"
+| [[{{Icon Name|Bereft Veteran|emote_name}}]]
+| {{Emote|Bereft Veteran|table|sort=92}}
+| 4
+| {{Season Icon|Remembrance|table}}
+| data-sort-value="48" | [[Repository of Refuge]]
+|- id="Hacky Sack"
+| [[{{Icon Name|Oddball Outcast|emote_name}}]]
+| {{Emote|Oddball Outcast|table|sort=93}}
+| 4
+| {{Season Icon|Passage|table}}
+| data-sort-value="10" | [[Isle of Dawn]]
+|- id="Somersault"
+| [[{{Icon Name|Tumbling Troublemaker|emote_name}}]]
+| {{Emote|Tumbling Troublemaker|table|sort=94}}
+| 4
+| {{Season Icon|Passage|table}}
+| data-sort-value="10" | [[Isle of Dawn]]
+|- id="Moping"
+| [[{{Icon Name|Melancholy Mope|emote_name}}]]
+| {{Emote|Melancholy Mope|table|sort=95}}
+| 4
+| {{Season Icon|Passage|table}}
+| data-sort-value="10" | [[Isle of Dawn]]
+|- id="Pull-up"
+| [[{{Icon Name|Overactive Overachiever|emote_name}}]]
+| {{Emote|Overactive Overachiever|table|sort=96}}
+| 4
+| {{Season Icon|Passage|table}}
+| data-sort-value="10" | [[Isle of Dawn]]
+|- id="Jolly Dance"
+| [[{{Icon Name|Jolly Geologist|emote_name}}]]
+| {{Emote|Jolly Geologist|table|sort=98}}
+| 4
+| {{Season Icon|Moments|table}}
+| data-sort-value="27" | [[Prairie Peaks]]
+|- id="Blindfold Balance Pose"
+| [[{{Icon Name|Ascetic Monk|emote_name}}]]
+| {{Emote|Ascetic Monk|table|sort=97}}
+| 4
+| {{Season Icon|Moments|table}}
+| data-sort-value="27" | [[Prairie Peaks]]
+|- id="Cure for Me Dance"
+| [[AURORA Encore Concerts#Cure for Me Expression|Cure for Me Dance]]
+| {{Spirit Item|AURORA Guide|emote_e|table|sort=99}}
+| 2
+| {{Days Icon|AURORA|table|link=AURORA Encore Concerts}}
+| data-sort-value="43" | [[Coliseum]]
+|- id="Whistle"
+| [[{{Icon Name|Herb Gatherer|emote_name}}]]
+| {{Emote|Herb Gatherer|table|sort=100}}
+| 4
+| {{Season Icon|Nine-Colored Deer|table}}
+| data-sort-value="100" | [[Season of the Nine-Colored Deer#Crescent Oasis|Crescent Oasis]]
+|- id="Flex"
+| [[{{Icon Name|Hunter|emote_name}}]]
+| {{Emote|Hunter|table|sort=101}}
+| 4
+| {{Season Icon|Nine-Colored Deer|table}}
+| data-sort-value="100" | [[Season of the Nine-Colored Deer#Crescent Oasis|Crescent Oasis]]
+|- id="Float Spin"
+| [[{{Icon Name|Princess|emote_name}}]]
+| {{Emote|Princess|table|sort=102}}
+| 4
+| {{Season Icon|Nine-Colored Deer|table}}
+| data-sort-value="100" | [[Season of the Nine-Colored Deer#Crescent Oasis|Crescent Oasis]]
+|- id="Read"
+| [[{{Icon Name|The Moomin Storybook|emote_name}}]]
+| {{Spirit Item|The Moomin Storybook|emote|table|sort=103|link=The Moomin Storybook#Expression}}
+| 4
+|{{Season Icon|Moomin|table}}
+| data-sort-value="100" | [[Moominvalley]]
+|- id="Cartwheel"
+| [[{{Icon Name|Radiance Leaping Dancer|emote_name}}]]
+| {{Emote|Radiance Leaping Dancer|table|sort=104}}
+| 4
+|{{Season Icon|Radiance|table}}
+| data-sort-value="801" | [[Aviary Village]]
+|- id="Heart Gesture"
+| [[{{Icon Name|Radiance Greeting Shaman|emote_name}}]]
+| {{Emote|Radiance Greeting Shaman|table|sort=105}}
+| 4
+|{{Season Icon|Radiance|table}}
+| data-sort-value="801" | [[Aviary Village]]
+|- id="Hype Dance"
+| [[{{Icon Name|Radiance Provoking Performer|emote_name}}]]
+| {{Emote|Radiance Provoking Performer|table|sort=106}}
+| 4
+|{{Season Icon|Radiance|table}}
+| data-sort-value="801" | [[Aviary Village]]
+
+
+|- id="Cough"
+| [[{{Icon Name|Blue Bird Guide|emote_name}}]]
+| {{Emote|Blue Bird Guide|table|sort=107}}
+| 4
+|{{Season Icon|Blue Bird|table}}
+| data-sort-value="305" | [[Season of the Blue Bird#Blue Bird Theater|Blue Bird Theater]]
+|- id="Surprised"
+| [[{{Icon Name|Royal Hairtousle Teen|emote_name}}]]
+| {{Emote|Royal Hairtousle Teen|table|sort=108}}
+| 4
+|{{Season Icon|Blue Bird|table}}
+| data-sort-value="305" | [[Season of the Blue Bird#Blue Bird Theater|Blue Bird Theater]]
+|}
+
+== Stances ==
+A '''Stance''' is a player's displayed standing posture when not doing an Expression. Each Stance offers variations of sitting and lying down. To view these variations, select a Stance and then tap on the {{Icon|Emote-basic sit.png|inline_text|link=Sit}} icon. Tap twice for an additional sitting posture, three times for lying down, and four times for a full cycle.
+{| class="article-table sortable"
+|-
+! Expression
+! Icon
+! Season
+! Location
+|- id="Base Stance"
+| Base
+| {{Icon|Stance basic stand.png|table|sort=1}}
+|
+|
+|- id="Courageous Stance"
+| [[{{Icon_Name|Courageous Soldier|emote_name}}]]
+| {{Emote|Courageous Soldier|table|sort=2}}
+|
+|data-sort-value="52" | [[First Krill Area]]
+|- id="Confident Stance"
+| [[{{Icon_Name|Confident Sightseer|emote_name}}]]
+| {{Emote|Confident Sightseer|table|sort=3}}
+|
+|data-sort-value="41" | [[Ice Rink]]
+|- id="Sneaky Stance"
+| [[{{Icon_Name|Stealthy Survivor|emote_name}}]]
+| {{Emote|Stealthy Survivor|table|sort=4}}
+|
+|data-sort-value="53" | [[Graveyard]]
+|- id="Proud Stance"
+| [[{{Icon_Name|Proud Victor|emote_name}}]]
+| {{Emote|Proud Victor|table|sort=5}}
+|
+|data-sort-value="43" | [[Coliseum]]
+|- id="Polite Stance"
+| [[{{Icon_Name|Polite Scholar|emote_name}}]]
+| {{Emote|Polite Scholar|table|sort=6}}
+|
+|data-sort-value="62" | [[Third Floor Vault]]
+|- id="Sassy Stance"
+| [[{{Icon_Name|Sassy Drifter|emote_name}}]]
+| {{Emote|Sassy Drifter|table|sort=7}}
+| {{Season Icon|Gratitude|table}}
+|data-sort-value="10"| [[Isle of Dawn]]
+|- id="Laidback Stance"
+| [[{{Icon_Name|Laidback Pioneer|emote_name}}]]
+| {{Emote|Laidback Pioneer|table|sort=8}}
+| {{Season Icon|Lightseekers|table}}
+|data-sort-value="32" | [[Forest's Brook]]
+|- id="Wise Stance"
+| [[{{Icon_Name|Wise Grandparent|emote_name}}]]
+| {{Emote|Wise Grandparent|table|sort=9}}
+| {{Season Icon|Belonging|table}}
+|data-sort-value="67" | [[Vault Archives]]
+|- id="Timid Stance"
+| [[{{Icon_Name|Timid Bookworm|emote_name}}]]
+| {{Emote|Timid Bookworm|table|sort=10}}
+| {{Season Icon|Sanctuary|table}}
+|data-sort-value="27"| [[Sanctuary Islands]]
+|- id="Tinker Stance"
+| [[{{Icon_Name|Tinkering Chimesmith|emote_name}}]]
+| {{Emote|Tinkering Chimesmith|table|sort=11}}
+| {{Season Icon|Flight|table}}
+|data-sort-value="38" | [[Wind Paths]]
+|- id="Injured Stance"
+| [[{{Icon_Name|Wounded Warrior|emote_name}}]]
+| {{Emote|Wounded Warrior|table|sort=12}}
+| {{Season Icon|Remembrance|table}}
+|data-sort-value="38" | [[Repository of Refuge]]
+|- id="Despondent Stance"
+| [[{{Icon_Name|Blue Bird Guide|emote_s_name}}]]
+| {{Spirit Item|Blue Bird Guide|emote_s|table|sort=13}}
+| {{Season Icon|Blue Bird|table}}
+|data-sort-value="38" | [[Season of the Blue Bird#Blue Bird Theater|Blue Bird Theater]]
+|- id="Sentry Stance"
+| [[Scarred_Sentry#Stance|Sentry Stance]]
+| {{Emote|Scarred Sentry|table|sort=14}}
+| {{Season Icon|Two embers - Part 1|table}}
+|data-sort-value="38" | [[Season_of_The_Two_Embers_-_Part_1#The_Last_City|The Last City]]
+|}
+
+===Base Stance<span id="Default Stance"></span>===
+{{#tag:gallery
+|Emote-basic sit.png
+Default-stance-emote.gif {{!}} Base Stance
+Base-Stance-Standing.png {{!}} Base Stance (Standing)
+Base-Stance-Kneeling.png {{!}} Base Stance (Kneeling)
+Base-Stance-Sitting.png {{!}} Base Stance (Sitting)
+Base-Stance-Lying-Down.png {{!}} Base Stance (Lying down)
+|heights=160px|captionalign=center|spacing=small
+}}
+
+*Standing will make your avatar stand up straight with their arms hanging down at their sides and their right foot taking a small step forward.
+*Kneeling will make your avatar kneel down, sitting on their lower legs, with their hands laying over each other in their lap.
+*Sitting will make your avatar sit on the ground with their legs stretched outwards and with their hands loosely laying over their lap.
+*Lying Down will make your avatar lie on their back with their face upwards, their arms laying at their sides and their left leg stretched out, while the other is propped up with their foot on the ground.
+
+== Calls ==
+'''Calls''' (also known as '''voices''') are the sounds made by the player when you tap on yourself (honk) or [[Deep Call]].
+{| class="article-table sortable"
+|-
+! Expression
+! Icon
+! Season
+! Location
+|- id="Base Call"
+| Base
+| {{Icon|Voice basic call.png|table|sort=1}}
+|
+|
+|- id="Bird Call"
+| [[{{Icon_Name|Bird Whisperer|emote_name}}]]
+| {{Emote|Bird Whisperer|table|sort=2}}
+|
+|data-sort-value="26"| [[Bird Nest]]
+|- id="Whale Call"
+| [[{{Icon_Name|Whale Whisperer|emote_name}}]]
+| {{Emote|Whale Whisperer|table|sort=3}}
+|
+|data-sort-value="33" | [[Forest Boneyard]]
+|- id="Manta Call"
+| [[{{Icon_Name|Manta Whisperer|emote_name}}]]
+| {{Emote|Manta Whisperer|table|sort=4}}
+|
+|data-sort-value="45" | [[Citadel]]
+|- id="Cosmic Manta Call"
+| [[{{Icon_Name|Memory Whisperer|emote_name}}]]
+| {{Emote|Memory Whisperer|table|sort=5}}
+|
+|data-sort-value="63" | [[Fourth Floor Vault]]
+|- id="Crab Call"
+| [[{{Icon_Name|Crab Whisperer|emote_name}}]]
+| {{Emote|Crab Whisperer|table|sort=6}}
+| {{Season Icon|Lightseekers|table}}
+|data-sort-value="54" | [[Crab Fields]]
+|- id="Jellyfish Call"
+| [[{{Icon_Name|Jelly Whisperer|emote_name}}]]
+| {{Emote|Jelly Whisperer|table|sort=7}}
+| {{Season Icon|Sanctuary|table}}
+|data-sort-value="27"| [[Sanctuary Islands]]
+|- id="Baby Manta Call"
+| [[{{Icon_Name|Light Whisperer|emote_name}}]]
+| {{Emote|Light Whisperer|table|sort=8}}
+| {{Season Icon|Flight|table}}
+|data-sort-value="38" | [[Wind Paths]]
+|- id="Nightbird Call"
+| [[{{Icon_Name|Nightbird Whisperer|emote_name}}]]
+| {{Emote|Nightbird Whisperer|table|sort=9}}
+| {{Season Icon|Moments|table}}
+|data-sort-value="40" | [[Prairie Peaks]]
+|- id="Kizuna AI Call"
+| [[Kizuna AI#AI Love Sky Keychain|Kizuna AI Call]]
+| {{Icon|Kizuna-AI-Call.png|table|sort=20}}
+| {{Icon|AI love Sky Keychain.png | table }}
+|data-sort-value="100" | [[Kizuna AI#AI Love Sky Keychain|AI Love Sky Keychain]]
+|- id="Journey Call"
+| [[Sky for PlayStation#Journey Pack|Journey Call]]
+| {{Icon|Voice basic call.png |table|sort=25}}
+| {{Icon|Journey-Pack-Mask-icon-Morybel-0146.png| table }}
+|data-sort-value="150" | [[Sky for PlayStation#Journey Pack|Journey Pack]]
+|- id="Bell Call"
+| [[The Moomin Storybook#Bell Call|Bell Call]]
+| {{Icon|Voice basic call.png |table|sort=30}}
+| {{Icon|Sense-of-Self-Neck-Accessory-icon.png| table }}
+|data-sort-value="200" | [[Moominvalley]]
+|- id="Blue Bird Call"
+| [[Blue Bird Guide#Call|Blue Bird Call]]
+| {{Spirit Item|Blue Bird Guide|emote_c|table|sort=}}
+| {{Season Icon|Blue Bird|table}}
+|data-sort-value="38" | [[Season of the Blue Bird#Blue Bird Theater|Blue Bird Theater]]
+|- id="Manatee Call"
+| [[Stern_Shepherd#Call|Manatee Call]]
+| {{Emote|Stern Shepherd|table|sort=}}
+| {{Season Icon|Two embers - Part 1|table}}
+|data-sort-value="38" | [[Season_of_The_Two_Embers_-_Part_1#The_Last_City|The Last City]]
+|- id="Manatee Call - STAR Version"
+| [[That Sky Shop/Wave 16#Manatee Plush Keychain Charm|Manatee Call - STAR Version]] 
+| {{Icon|Manatee-Keychain-Call-icon-STAR.png |table|sort=20}}
+| {{Icon|Manatee-Plush-Keychain-Charm.png| table }}
+|data-sort-value="100" | [[That Sky Shop/Wave 16#Manatee Plush Keychain Charm|Manatee Plush Keychain Charm]]
+|}
+===Base Call<span id="Default Call"></span>===
+[[File:Voice basic call.png|x170px|left]]
+[[File:Default-call-emote.mp4|300px]]
+
+== Friend Actions ==
+Friend Actions are Expressions that are performed interactively with [[Making Friends|friends]]. They are activated from the [[Friendship Menu]], and therefore do not appear in the [[Expression Menu]] with all the other Expressions. The first three Friend Actions are base actions that are not associated with any Spirits. The remaining ones are learned from [[Seasonal Spirits]] by reliving memories, just like all other Expressions.
+
+{| class="article-table sortable"
+|-
+! Expression
+! Icon
+! Season
+! Location
+|- id="High Five Action"
+| [[High Five Action]]
+| {{Icon|Icon_high_five.png|link=High Five Action|table|sort=1}}
+|
+|data-sort-value="1" | Base
+|- id="Hug Action"
+| [[Hug Action]]
+| {{Icon|Icon_hug.png|link=Hug Action|table|sort=2}}
+|
+|data-sort-value="1" | Base
+|- id="Fist Bump Action"
+| [[Fist Bump Action]]
+| {{Icon|Icon_fist_bump.png|link=Fist Bump Action|table|sort=3}}
+|
+|data-sort-value="1" | Base
+|- id="Double-Five Action"
+| [[Double-Five Action]]
+| {{Emote|Doublefive Light Catcher|table|sort=4}}
+| {{Season Icon|Lightseekers|table}}
+|data-sort-value="26"| [[Bird Nest]]
+|- id="Hair Tousle Action"
+| [[Hair Tousle Action]]
+| {{Emote|Hairtousle Teen|table|sort=5}}
+| {{Season Icon|Belonging|table}}
+|data-sort-value="35"| [[Underground Caverns]]
+|- id="Piggyback Action"
+| [[Piggyback Action]]
+| {{Emote|Piggyback Lightseeker|table|sort=6}}
+| {{Season Icon|Lightseekers|table}}
+|data-sort-value="10"| [[Isle of Dawn]]
+|- id="Play Fight Action"
+| [[Play Fight Action]]
+| {{Emote|Playfighting Herbalist|table|sort=7}}
+| {{Season Icon|Enchantment|table}}
+|data-sort-value="57" | [[Forgotten Ark]]
+|- id="Bearhug Action"
+| [[Bearhug Action]]
+| {{Emote|Bearhug Hermit|table|sort=8}}
+| {{Season Icon|Dreams|table}}
+|data-sort-value="46" | [[Village of Dreams]]
+|- id="Handshake Action"
+| [[Handshake Action]]
+| {{Emote|Frantic Stagehand|table|sort=9}}
+| {{Season Icon|Performance|table}}
+|data-sort-value="48" | [[Village Theater]]
+|- id="Duet Dance Action"
+| [[Duet Dance Action]]
+| {{Emote|Modest Dancer|table|sort=10}}
+| {{Season Icon|Performance|table}}
+|data-sort-value="48" | [[Village Theater]]
+|- id="Side Hug Action"
+| [[Side Hug Action]]
+| {{Emote|Reassuring Ranger|table|sort=11}}
+| {{Season Icon|Moments|table}}
+|data-sort-value="48" | [[Prairie Peaks]]
+|- id="Cradle Carry Action"
+| [[Cradle Carry Action]]
+| {{Emote|Feudal Lord|table|sort=12}}
+| {{Season Icon|Nine-Colored Deer|table}}
+| data-sort-value="100" | [[Season of the Nine-Colored Deer#Crescent Oasis|Crescent Oasis]]
+|- id="Duet Bow Action"
+| [[Duet Bow Action]]
+| {{Emote|Duets Guide|table|sort=13}}
+| {{Season Icon|Duets|table}}
+| data-sort-value="5" | [[Season of Duets#Concert Hall|Concert Hall]]
+|}
+
+==Trivia==
+*The sound effects during five particular [[#Emotes|Expressions]] ({{Emote|Laughing Light Catcher|inline_text}}, {{Emote|Slumbering Shipwright|inline_text}}, {{Emote|Chuckling Scout|inline_text}}, {{Emote|Sneezing Geographer|inline_text}}, and {{Emote|Cackling Cannoneer|inline_text}}) are different when heard from unlit (gray) and extinguished players. This difference extends to all Levels of the Expression.
+*The sound of the [[#Calls|Call]] heard from unlit (gray) and extinguished players is completely unique.
+*The {{Spirit Item|AURORA Guide|emote_e|inline_text}} is the only Expression where it's possible to obtain the Level 2 [[Expressions#Upgrading Expressions|upgrade]] without obtaining the Level 1 version.
+*Levels 1 and 2 of the Herb Gatherer's {{Emote|Herb Gatherer|inline_text}} Expression and all levels of the Crab Walker's {{Emote|Crab Walker|inline_text}} Expression are the only two Expressions to feature sound effect variations when used, with four unique whistles and [[Dark Crab]] sounds possible respectively.
+
+{{Navigation Box}}
+
+[[ru:Выражения]]
+[[fr:Expressions]]
+[[de:Ausdrücke]]
+[[pt-br:Expressões]]
+[[ja:感情表現]]
+
+[[Category:Expressions]]
+[[Category:Collectibles]]

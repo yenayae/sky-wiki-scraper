@@ -1,0 +1,879 @@
+[[File:Sky-Closet-Pants-Morybel-0146.png|thumb|left|x200px|Icon used for the Outfit Shrine]]
+
+'''Outfits''' (including '''Pants''' and '''Leggings''') are [[Cosmetics]] that cover the player's body under their [[Cape]]. In situations where the player does not have a Cape (e.g., in the [[Season of Prophecy#The Trials|Trials]]), the entire Outfit is visible. The current Outfit is selected in the left-most [[Outfit Shrine]], where they are listed in the first and third tab (the The Moomin Storybook Outfit {{Icon|Moomin-Invisible-Outfit-icon.png}} and Talented Builder Outfit {{Icon|Icon season of flight pants 2 talented builder.png}} icons).
+
+Originally, only the player's legs were affected by the choice of Outfit, which is why most of the [[Regular Spirits]]' offerings are depicted as only pants or leggings.  However, since then multiple [[Seasonal Spirits]] and [[Special Events]] have introduced Outfits that also alter the player's top.
+{{clear}}
+== Base Outfit ==
+This is the default Outfit worn by the player at the start of the game. It is a beige half-sleeve top with a pair of matching shorts.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Default|outfit}} {{!}} The Outfit icon
+{{Icon Name|Default|outfit_real}} {{!}} The Outfit
+{{Icon Name|Default|outfit_back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+{{clear}}
+
+==outfits Without Shoes Display ==
+<section begin="Display" />{{Cosmetics Tabber
+| {{Spirit Item| Default | Outfit | tab | link= }}
+| {{Spirit Item| Default | Outfit_real | closet_display | link=Outfits#Base Outfit}}
+| {{Spirit Item| Hide'n'Seek Pioneer | Outfit | tab | link= }}
+| {{Spirit Item| Hide'n'Seek Pioneer | Outfit_real | closet_display }}
+| {{Spirit Item| Shivering Trailblazer | outfit | tab | link= }}
+| {{Spirit Item| Shivering Trailblazer | outfit_real | closet_display }}
+| {{Spirit Item| Polite Scholar | outfit | tab | link= }}
+| {{Spirit Item| Polite Scholar | outfit_real | closet_display }}
+| {{Spirit Item| Pointing Candlemaker | outfit | tab | link= }}
+| {{Spirit Item| Pointing Candlemaker | outfit_real | closet_display }}
+| {{Spirit Item| Confident Sightseer | outfit | tab | link= }}
+| {{Spirit Item| Confident Sightseer | outfit_real | closet_display }}
+| {{Spirit Item| Memory Whisperer | outfit | tab | link= }}
+| {{Spirit Item| Memory Whisperer | outfit_real | closet_display }}
+| {{Spirit Item| Ushering Stargazer | outfit | tab | link= }}
+| {{Spirit Item| Ushering Stargazer | outfit_real | closet_display }}
+| {{Spirit Item| Butterfly Charmer | Outfit | tab | link= }}
+| {{Spirit Item| Butterfly Charmer | outfit_real | closet_display }}
+| {{Spirit Item| Peeking Postman | Outfit | tab | link= }}
+| {{Spirit Item| Peeking Postman | Outfit_real | closet_display }}
+| {{Spirit Item| Chuckling Scout | Outfit | tab | link= }}
+| {{Spirit Item| Chuckling Scout | Outfit_real | closet_display }}
+| {{Spirit Item| Gloating Narcissist | Outfit | tab | link= }}
+| {{Spirit Item| Gloating Narcissist | Outfit_real | closet_display }}
+| {{Spirit Item| Ancient Light | Outfit | tab | link= }}
+| {{Spirit Item| Ancient Light | Outfit_real | closet_display }}
+| {{Spirit Item| Mindful Miner | Outfit | tab | link= }}
+| {{Spirit Item| Mindful Miner | Outfit_real | closet_display }}
+| {{Spirit Item| AURORA Guide | outfit_i | tab | link= |  label=AURORA Runaway Outfit }}
+| {{Spirit Item| AURORA Guide | outfit_i_real | closet_display | link=Season of AURORA#Runaway Outfit | label=AURORA Runaway Outfit }}
+| {{Spirit Item| AURORA Guide | outfit_t | tab | link= | label=To The Love Outfit }}
+| {{Spirit Item| AURORA Guide | outfit_t_real | closet_display | link=AURORA_Concert#To_The_Love_Outfit | label=To The Love Outfit }}
+| {{Spirit Item| AURORA Guide | outfit_u | tab | link= }}
+| {{Spirit Item| AURORA Guide | outfit_u_real | closet_display | link=AURORA_Guide#AURORA_Ultimate_Outfit }}
+| {{Spirit Item| AURORA Guide | outfit | tab | link= | label=AURORA Cure for Me Outfit }}
+| {{Spirit Item| AURORA Guide | outfit_real | closet_display | label=AURORA Cure for Me Outfit }}
+| {{Spirit Item| Pleading Child | outfit | tab | link= }}
+| {{Spirit Item| Pleading Child | outfit_real | closet_display }}
+| {{Spirit Item | Ascetic Monk | outfit | tab | link= }}
+| {{Spirit Item | Ascetic Monk | outfit_real | closet_display }}
+| {{Spirit Item | Nightbird Whisperer | outfit | tab | link= }}
+| {{Spirit Item | Nightbird Whisperer | outfit_real | closet_display }}
+| {{Spirit Item | Memory of a Lost Village | outfit | tab | link= }}
+| {{Spirit Item | Memory of a Lost Village | outfit_real | closet_display }}
+| {{Spirit Item| Spirit of Mural | outfit_u | tab | link= | label=Nine-Colored Deer Ultimate Outfit }}
+| {{Spirit Item| Spirit of Mural | outfit_u_real | closet_display | link=Spirit_of_Mural#Nine-Colored_Deer_Ultimate_Outfit | label=Nine-Colored Deer Ultimate Outfit }}
+| {{Spirit Item | Herb Gatherer | outfit | tab | link= }}
+| {{Spirit Item | Herb Gatherer | outfit_real | closet_display }}
+| {{Spirit Item | Princess | outfit | tab | link= }}
+| {{Spirit Item | Princess | outfit_real | closet_display }}
+| {{Spirit Item| The Pianist's Beginnings | outfit | tab | link= }}
+| {{Spirit Item| The Pianist's Beginnings | outfit_real | closet_display }}
+| {{Spirit Item| The Pianist's Flourishing | outfit | tab | link= }}
+| {{Spirit Item| The Pianist's Flourishing | outfit_real | closet_display }}
+| {{Spirit Item| The Cellist's Beginnings | outfit | tab | link= }}
+| {{Spirit Item| The Cellist's Beginnings | outfit_real | closet_display }}
+| {{Spirit Item| The Cellist's Flourishing | outfit | tab | link= }}
+| {{Spirit Item| The Cellist's Flourishing | outfit_real | closet_display }}
+| {{Spirit Item| Inspiration of Inclusion | outfit | tab | link= }}
+| {{Spirit Item| Inspiration of Inclusion | outfit_real | closet_display }}
+| {{Spirit Item| Moomin Guide | outfit_i | tab | link= | label=The Moomin Storybook Outfit }}
+| {{Spirit Item| Moomin Guide | outfit_i_real | closet_display | label=The Moomin Storybook Outfit }}
+| {{Spirit Item| Moomin Guide | outfit_u | tab | link= }}
+| {{Spirit Item| Moomin Guide | outfit_u_real | closet_display | link=The_Moomin_Storybook#Moomin_Ultimate_Outfit }}
+| {{Spirit Item| Radiance Provoking Performer | outfit | tab | link= }}
+| {{Spirit Item| Radiance Provoking Performer | outfit_real | closet_display }}
+| {{Spirit Item| Radiance Leaping Dancer | outfit | tab | link= }}
+| {{Spirit Item| Radiance Leaping Dancer | outfit_real | closet_display }}
+| {{Spirit Item| Radiance Greeting Shaman | outfit | tab | link= }}
+| {{Spirit Item| Radiance Greeting Shaman | outfit_real | closet_display }}
+| {{Spirit Item| Woodcutting Pleaful Parent | outfit | tab | link= }}
+| {{Spirit Item| Woodcutting Pleaful Parent | outfit_real | closet_display }}
+| {{Spirit Item| Stern Shepherd | outfit | tab | link= }}
+| {{Spirit Item| Stern Shepherd | outfit_real | closet_display }}
+| {{Spirit Item| Resourceful Recluse | outfit | tab | link= }}
+| {{Spirit Item| Resourceful Recluse | outfit_real | closet_display }}
+| {{Spirit Item| Scarred Sentry | outfit | tab | link= }}
+| {{Spirit Item| Scarred Sentry | outfit_real | closet_display }}
+| {{Spirit Item| Tender Toymaker | outfit | tab | link= }}
+| {{Spirit Item| Tender Toymaker | outfit_real | closet_display }}
+| {{Days Item| Ocean Waves Outfit | icon | tab | link= }}
+| {{Days Item| Ocean Waves Outfit | real | closet_display }}
+| {{Days Item| Rainbow Trousers | icon | tab | link= }}
+| {{Days Item| Rainbow Trousers | real | closet_display | link=Days_of_Color/2022#Rainbow_Trousers}}
+| {{Days Item| SkyFest Outfit | icon | tab | link= }}
+| {{Days Item| SkyFest Outfit | real | closet_display | link=Sky_Anniversary/2024#SkyFest_5th_Anniversary_T-shirt}}
+| {{Days Item| Tournament Tunic | icon | tab | link= }}
+| {{Days Item| Tournament Tunic | real | closet_display }}
+| {{Days Item| Treasure Seeker's Bounty outfit | icon | tab | link= }}
+| {{Days Item| Treasure Seeker's Bounty outfit | real | closet_display | link=Days_of_Treasure#Treasure_Seeker's_Bounty}}
+| {{Days Item| Sunlight Beach Shorts | icon | tab | link= }}
+| {{Days Item| Sunlight Beach Shorts | real | closet_display }}
+| {{Days Item| Sunlight Dress | icon | tab | link= }}
+| {{Days Item| Sunlight Dress | real | closet_display | link=Days_of_Sunlight#Sunlight_Bonnet_Bundle}}
+| {{Days Item| Moonlight Frock | icon | tab | link= }}
+| {{Days Item| Moonlight Frock | real | closet_display | link=Days_of_Moonlight#Moonlight_Frock_and_Updo}}
+| {{Days Item| Style Wide-Leg Jeans | icon | tab | link= }}
+| {{Days Item| Style Wide-Leg Jeans | real | closet_display }}
+| {{Days Item| Style Dress | icon | tab | link= }}
+| {{Days Item| Style Dress | real | closet_display }}
+| {{Days Item| Style Dapper Suit | icon | tab | link= }}
+| {{Days Item| Style Dapper Suit | real | closet_display }}
+| {{Days Item| Mischief Witch Jumper | icon | tab | link= }}
+| {{Days Item| Mischief Witch Jumper | real | closet_display }}
+| {{Days Item| Mischief Goth Garment | icon | tab | link= }}
+| {{Days Item| Mischief Goth Garment | real | closet_display }}
+| {{Days Item| Wonderland Primrose Pinafore Dress | icon | tab | link= }}
+| {{Days Item| Wonderland Primrose Pinafore Dress | real | closet_display | link=Days_of_Feast#Wonderland_Primrose_Pinafore_Set}}
+| {{Days Item| Fortune Snake Pants | icon | tab | link= }}
+| {{Days Item| Fortune Snake Pants | real | closet_display | link=Days_of_Fortune#Fortune_Snake_Outfit}}
+| {{Days Item| Anniversary Gown | icon | tab | link= }}
+| {{Days Item| Anniversary Gown | real | closet_display | link=Sky_Anniversary#Anniversary_Gown_Ensemble}}
+}}<section end="Display" />
+
+==Outfits With Shoes Display ==
+<section begin="Display" />{{Cosmetics Tabber
+| {{Spirit Item| Boogie Kid | Outfit | tab | link= }}
+| {{Spirit Item| Boogie Kid | Outfit_real | closet_display }}
+| {{Spirit Item| Troupe Greeter | Outfit | tab | link= }}
+| {{Spirit Item| Troupe Greeter | Outfit_real | closet_display }}
+| {{Spirit Item| Troupe Juggler | Outfit | tab | link= }}
+| {{Spirit Item| Troupe Juggler | Outfit_real | closet_display }}
+| {{Spirit Item| Festival Spin Dancer | Outfit | tab | link= }}
+| {{Spirit Item| Festival Spin Dancer | Outfit_real | closet_display }}
+| {{Spirit Item| Admiring Actor | Outfit | tab | link= }}
+| {{Spirit Item| Admiring Actor | Outfit_real | closet_display }}
+| {{Spirit Item| Jelly Whisperer | Outfit | tab | link= }}
+| {{Spirit Item| Jelly Whisperer | Outfit_real | closet_display }}
+| {{Spirit Item| Rallying Thrillseeker | Outfit | tab | link= }}
+| {{Spirit Item| Rallying Thrillseeker | Outfit_real | closet_display }}
+| {{Spirit Item| Prophet of Fire | Outfit | tab | link= }}
+| {{Spirit Item| Prophet of Fire | Outfit_real | closet_display }}
+| {{Spirit Item| Bearhug Hermit | Outfit | tab | link= }}
+| {{Spirit Item| Bearhug Hermit | Outfit_real | closet_display }}
+| {{Spirit Item| Little Prince | outfit_i | tab | link= }}
+| {{Spirit Item| Little Prince | outfit_i_real | closet_display | link=Season of The Little Prince#Additional Cosmetics }}
+| {{Spirit Item| The Rose | outfit_u | tab | link= }}
+| {{Spirit Item| The Rose | outfit_u_real | closet_display | link=The_Rose#Little_Prince_Ultimate_Outfit }}
+| {{Spirit Item| Flight Guide | outfit_u | tab | link= }}
+| {{Spirit Item| Flight Guide | outfit_u_real | closet_display | link=Flight_Guide#Flight_Ultimate_Outfit}}
+| {{Spirit Item| Talented Builder | Outfit | tab | link= }}
+| {{Spirit Item| Talented Builder | Outfit_real | closet_display }}
+| {{Spirit Item| Tinkering Chimesmith | Outfit | tab | link= }}
+| {{Spirit Item| Tinkering Chimesmith | Outfit_real | closet_display }}
+| {{Spirit Item| Light Whisperer | Outfit | tab | link= }}
+| {{Spirit Item| Light Whisperer | Outfit_real | closet_display }}
+| {{Spirit Item| Anxious Angler | Outfit | tab | link= }}
+| {{Spirit Item| Anxious Angler | Outfit_real | closet_display }}
+| {{Spirit Item| Modest Dancer | Outfit | tab | link= }}
+| {{Spirit Item| Modest Dancer | Outfit_real | closet_display }}
+| {{Spirit Item| Frantic Stagehand | Outfit | tab | link= }}
+| {{Spirit Item| Frantic Stagehand | Outfit_real | closet_display }}
+| {{Spirit Item| Forgetful Storyteller | Outfit | tab | link= }}
+| {{Spirit Item| Forgetful Storyteller | Outfit_real | closet_display }}
+| {{Spirit Item | Wounded Warrior | outfit | tab | link= }}
+| {{Spirit Item | Wounded Warrior | outfit_real | closet_display }}
+| {{Spirit Item | Tiptoeing Tea-Brewer | outfit | tab | link= }}
+| {{Spirit Item | Tiptoeing Tea-Brewer | outfit_real | closet_display }}
+| {{Spirit Item | Melancholy Mope | outfit | tab | link= }}
+| {{Spirit Item | Melancholy Mope | outfit_real | closet_display }}
+| {{Spirit Item | Oddball Outcast | outfit | tab | link= }}
+| {{Spirit Item | Oddball Outcast | outfit_real | closet_display }}
+| {{Spirit Item | Hunter | outfit | tab | link= }}
+| {{Spirit Item | Hunter | outfit_real | closet_display }}
+| {{Spirit Item| Nesting Guide | outfit_u | tab | link= }}
+| {{Spirit Item| Nesting Guide | outfit_u_real | closet_display | link=Nesting_Guide#Nesting_Ultimate_Outfit }}
+| {{Spirit Item| Moomin Guide | outfit_s | tab | link= | label=Roving Snufkin Robe}}
+| {{Spirit Item| Moomin Guide | outfit_s_real | closet_display | link=Season of Moomin#Roving Snufkin Robe | label=Roving Snufkin Robe }}
+| {{Spirit Item | Costumed confetti Cousin | outfit | tab | link= }}
+| {{Spirit Item | Costumed confetti Cousin | outfit_real | closet_display }}
+| {{Spirit Item | Royal Hairtousle Teen | outfit | tab | link= }}
+| {{Spirit Item | Royal Hairtousle Teen | outfit_real | closet_display }}
+| {{Days Item| Smock | icon | tab | link= }}
+| {{Days Item| Smock | real | closet_display }}
+| {{Days Item| Dragon Vestment | icon | tab | link= }}
+| {{Days Item| Dragon Vestment | real | closet_display }}
+| {{Days Item| Bloom Gardening Tunic | icon | tab | link= }}
+| {{Days Item| Bloom Gardening Tunic | real | closet_display }}
+| {{Days Item| Dark Rainbow Tunic | icon | tab | link= }}
+| {{Days Item| Dark Rainbow Tunic | real | closet_display | link=Days_of_Color/2023#Dark_Rainbow_Tunic }}
+| {{Days Item| Rainbow Smock | icon | tab | link= }}
+| {{Days Item| Rainbow Smock | real | closet_display | link=Days_of_Color/2025#Rainbow_Smock}}
+| {{Days Item| Marching Band Outfit | icon | tab | link= }}
+| {{Days Item| Marching Band Outfit | real | closet_display | link=Days_of_Music#Marching_Band_Outfit}}
+| {{Days Item| Anniversary Suit | icon | tab | link= }}
+| {{Days Item| Anniversary Suit | real | closet_display }}}}<section end="Display" />
+
+== Available outfits ==
+This table lists all the Outfits that have ever been available in Sky; only a small subset of them are [[#Availability Legend|available]] for purchase at any given time.  The default order is icon order, as used in the in-game [[Outfit Shrine]]. The table sort order can be changed by clicking on the header of any column. The [[Shoes]] column lists which Outfits are possible to wear in combination with Shoes.<ref name="outfit recategorization">With the goal of making it easier to select shoes for certain outfits, in Patch {{v|0.28.0}} a new tab in the outfits closet was created for for onesies, i.e. outfits where shoes are a set part of the ensemble.</ref> The Dye column lists whether the Outfit can be dyed or not.
+{| class="article-table sortable"
+! class="unsortable" | Image
+! Icon
+! [[#Availability Legend|Avail.]]
+! Source
+! Cost
+! Shoes
+! [[Dyes|Dye]]
+|- id="Base"
+| style="text-align: center;"| {{Spirit Item| Default | outfit_real | table | link=Outfits#Base Outfit }}
+| {{Spirit Item| Default | outfit | table | link=Outfits#Base Outfit | sort=0 }}
+| {{Avail Summary | permanent | source=Base }}
+| {{Cost | free }}
+| Yes
+| No
+|- id="Hide'n'Seek Pioneer"
+| style="text-align: center;"| {{Spirit Item| Hide'n'Seek Pioneer | outfit_real | table }}
+| {{Spirit Item| Hide'n'Seek Pioneer | outfit | table | sort=5 }}
+| {{Avail Summary | regular | spirit=Hide'n'Seek Pioneer | realm=Hidden Forest }}
+| {{Cost | 15 H }}
+| Yes
+| No
+|- id="Shivering Trailblazer"
+| style="text-align: center;"| {{Spirit Item| Shivering Trailblazer | outfit_real | table }}
+| {{Spirit Item| Shivering Trailblazer | outfit | table | sort=4 }}
+| {{Avail Summary | regular | spirit=Shivering Trailblazer | realm=Hidden Forest }}
+| {{Cost | 2 H }}
+| Yes
+| No
+|- id="Polite Scholar"
+| style="text-align: center;"| {{Spirit Item| Polite Scholar | outfit_real | table }}
+| {{Spirit Item| Polite Scholar | outfit | table | sort=7 }}
+| {{Avail Summary | regular | spirit=Polite Scholar | realm=Vault of Knowledge }}
+| {{Cost | 2 H }}
+| Yes
+| No
+|- id="Pointing Candlemaker"
+| style="text-align: center;"| {{Spirit Item| Pointing Candlemaker | outfit_real | table }}
+| {{Spirit Item| Pointing Candlemaker | Outfit | table | sort=1 }}
+| {{Avail Summary | regular | spirit=Pointing Candlemaker | realm=Isle of Dawn }}
+| {{Cost | 4 H }}
+| Yes
+| No
+|- id="Confident Sightseer"
+| style="text-align: center;"| {{Spirit Item| Confident Sightseer | outfit_real | table }}
+| {{Spirit Item| Confident Sightseer | outfit | table | sort=6 }}
+| {{Avail Summary | regular | spirit=Confident Sightseer | realm=Valley of Triumph }}
+| {{Cost | 5 H }}
+| Yes
+| No
+|- id="Memory Whisperer"
+| style="text-align: center;"| {{Spirit Item| Memory Whisperer | outfit_real | table }}
+| {{Spirit Item| Memory Whisperer | outfit | table | sort=8 }}
+| {{Avail Summary | regular | spirit=Memory Whisperer | realm=Vault of Knowledge }}
+| {{Cost | 3 H }}
+| Yes
+| No
+|- id="Ushering Stargazer"
+| style="text-align: center;"| {{Spirit Item| Ushering Stargazer | outfit_real | table }}
+| {{Spirit Item| Ushering Stargazer | Outfit | table | sort=2 }}
+| {{Avail Summary | regular | spirit=Ushering Stargazer | realm=Isle of Dawn }}
+| {{Cost | 4 H }}
+| Yes
+| No
+|- id="Butterfly Charmer"
+| style="text-align: center;"| {{Spirit Item| Butterfly Charmer | outfit_real | table }}
+| {{Spirit Item| Butterfly Charmer | Outfit | table | sort=3 }}
+| {{Avail Summary | regular | spirit=Butterfly Charmer | realm=Daylight Prairie }}
+| {{Cost | 4 H }}
+| Yes
+| No
+|- id="Peeking Postman"
+| style="text-align: center;"| {{Spirit Item| Peeking Postman | outfit_real | table }}
+| {{Spirit Item| Peeking Postman | Outfit | table | sort=23 }}
+| {{Avail Summary | season | spirit=Peeking Postman | season=Dreams }}
+| {{Cost | 70 C }}
+| Yes
+| Yes
+|- id="Chuckling Scout"
+| style="text-align: center;"| {{Spirit Item| Chuckling Scout | outfit_real | table }}
+| {{Spirit Item| Chuckling Scout | Outfit | table | sort=25 }}
+| {{Avail Summary | season | spirit=Chuckling Scout | season=Assembly }}
+| {{Cost | 46 C }}
+| Yes
+| Yes
+|- id="Gloating Narcissist"
+| style="text-align: center;"| {{Spirit Item| Gloating Narcissist | outfit_real | table }}
+| {{Spirit Item| Gloating Narcissist | Outfit | table | sort=26 }}
+| {{Avail Summary | season | spirit=Gloating Narcissist | season=The Little Prince }}
+| {{Cost | 65 C }}
+| Yes
+| No
+|- id="Ancient Light"
+| style="text-align: center;"| {{Spirit Item| Ancient Light | outfit_real | table | label=Ancient Light }}
+| {{Spirit Item| Ancient Light | Outfit | table | sort=37 | label=Ancient Light }}
+| {{Avail Summary | season | spirit=Ancient Light | season=Shattering }}
+| {{Cost | 75 C }}
+| Yes
+| No
+|- id="Mindful Miner"
+| style="text-align: center;"| {{Spirit Item| Mindful Miner | outfit_real | table }}
+| {{Spirit Item| Mindful Miner | Outfit | table | sort=38 }}
+| {{Avail Summary | season | spirit=Mindful Miner | season=AURORA }}
+| {{Cost | 55 C }}
+| Yes
+| No
+|- id="AURORA Ultimate Outfit"
+| style="text-align: center;"| {{Spirit Item| AURORA Guide | outfit_u_real | table | label=AURORA Ultimate Outfit | link=AURORA_Guide#AURORA_Ultimate_Outfit }}
+| {{Spirit Item| AURORA Guide | outfit_u | table | sort=39 | label=AURORA Ultimate Outfit | link=AURORA_Guide#AURORA_Ultimate_Outfit }}
+| {{Avail Summary | ultimate | season=AURORA }}
+| {{Cost | N/A }}
+| Yes
+| No
+|- id="AURORA Cure for Me Outfit"
+| style="text-align: center;"| {{Spirit Item| AURORA Guide | outfit_real | table | label=AURORA Cure for Me Outfit }}
+| {{Spirit Item| AURORA Guide | outfit | table | sort=40 | label=AURORA Cure for Me Outfit }}
+| {{Avail Summary | limited | spirit=AURORA Guide | season=AURORA }}
+| {{Cost | 200 C }}
+| Yes
+| No
+|- id="AURORA Runaway Outfit"
+| style="text-align: center;"| {{Spirit Item| AURORA Guide | outfit_i_real | table | label=AURORA Runaway Outfit | link=Season of AURORA#Runaway Outfit}}
+| {{Spirit Item| AURORA Guide | outfit_i | table | sort=41 | label=AURORA Runaway Outfit | link=Season of AURORA#Runaway Outfit}}
+| {{Avail Summary | l | season=AURORA }}
+| {{Cost | $9.99 }}
+| Yes
+| No
+|- id="To The Love Outfit"
+| style="text-align: center;"| {{Spirit Item| AURORA Guide | outfit_t_real | table | label=To The Love Outfit | link=Season of AURORA#To The Love Outfit}}
+| {{Spirit Item| AURORA Guide | outfit_t | table | sort=42 | label=To The Love Outfit | link=Season of AURORA#To The Love Outfit}}
+| {{Avail Summary | l | season=AURORA }}
+| {{Cost | $9.99 }}
+| Yes
+| No
+|- id="Pleading Child"
+| style="text-align: center;"| {{Spirit Item| Pleading Child | outfit_real | table }}
+| {{Spirit Item| Pleading Child | outfit | table | sort=43 }}
+| {{Avail Summary | season | spirit=Pleading Child | season=Remembrance }}
+| {{Cost | 40 C }}
+| Yes
+| Yes
+|- id="Ascetic Monk"
+| style="text-align: center;"| {{Spirit Item| Ascetic Monk | outfit_real | table }}
+| {{Spirit Item| Ascetic Monk | outfit | table | sort=49 }}
+| {{Avail Summary | season | spirit=Ascetic Monk | season=Moments }}
+| {{Cost | ? }}
+| Yes
+| Yes
+|- id="Nightbird Whisperer"
+| style="text-align: center;"| {{Spirit Item| Nightbird Whisperer | outfit_real | table }}
+| {{Spirit Item| Nightbird Whisperer | outfit | table | sort=48 }}
+| {{Avail Summary | season | spirit=Nightbird Whisperer | season=Moments }}
+| {{Cost | ? }}
+| Yes
+| Yes
+|- id="Memory of a Lost Village"
+| style="text-align: center;"| {{Spirit Item| Memory of a Lost Village | outfit_real | table }}
+| {{Spirit Item| Memory of a Lost Village | outfit | table | sort=50 }}
+| {{Avail Summary | season | spirit=Memory of a Lost Village | season=Revival }}
+| {{Cost | ? }}
+| Yes
+| No
+|- id="Nine-Colored Deer Ultimate Outfit"
+| style="text-align: center;"| {{Spirit Item| Spirit of Mural | outfit_u_real | table | label=Nine-Colored Deer Ultimate Outfit | link=Spirit_of_Mural#Nine-Colored_Deer_Ultimate_Outfit }}
+| {{Spirit Item| Spirit of Mural | outfit_u | table | sort=51 | label=Nine-Colored Deer Ultimate Outfit | link=Spirit_of_Mural#Nine-Colored_Deer_Ultimate_Outfit }}
+| {{Avail Summary | ultimate | season=Nine-Colored Deer }}
+| {{Cost | N/A }}
+| Yes
+| No
+|- id="Herb Gatherer"
+| style="text-align: center;"| {{Spirit Item| Herb Gatherer | outfit_real | table }}
+| {{Spirit Item| Herb Gatherer | outfit | table | sort=52 }}
+| {{Avail Summary | season | spirit=Herb Gatherer | season=Nine-Colored Deer }}
+| {{Cost | unknown }}
+| Yes
+| No
+|- id="Princess"
+| style="text-align: center;"| {{Spirit Item| Princess | outfit_real | table }}
+| {{Spirit Item| Princess | outfit | table | sort=53 }}
+| {{Avail Summary | season | spirit=Princess | season=Nine-Colored Deer }}
+| {{Cost | unknown }}
+| Yes
+| No
+|- id="The Pianist's Beginnings"
+| style="text-align: center;"| {{Spirit Item| The Pianist's Beginnings | outfit_real | table }}
+| {{Spirit Item| The Pianist's Beginnings | outfit | table | sort=56 }}
+| {{Avail Summary | season | spirit=The Pianist's Beginnings | season=Duets }}
+| {{Cost | unknown }}
+| Yes
+| Yes
+|- id="The Pianist's Flourishing"
+| style="text-align: center;"| {{Spirit Item| The Pianist's Flourishing | outfit_real | table }}
+| {{Spirit Item| The Pianist's Flourishing | outfit | table | sort=57 }}
+| {{Avail Summary | season | spirit=The Pianist's Flourishing | season=Duets }}
+| {{Cost | unknown }}
+| Yes
+| Yes
+|- id="The Cellist's Beginnings"
+| style="text-align: center;"| {{Spirit Item| The Cellist's Beginnings | outfit_real | table }}
+| {{Spirit Item| The Cellist's Beginnings | outfit | table | sort=58 }}
+| {{Avail Summary | season | spirit=The Cellist's Beginnings | season=Duets }}
+| {{Cost | unknown }}
+| Yes
+| Yes
+|- id="The Cellist's Flourishing"
+| style="text-align: center;"| {{Spirit Item| The Cellist's Flourishing | outfit_real | table }}
+| {{Spirit Item| The Cellist's Flourishing | outfit | table | sort=59 }}
+| {{Avail Summary | season | spirit=The Cellist's Flourishing | season=Duets }}
+| {{Cost | unknown }}
+| Yes
+| Yes
+|- id="Inspiration of Inclusion"
+| style="text-align: center;"| {{Spirit Item| Inspiration of Inclusion | outfit_real | table }}
+| {{Spirit Item| Inspiration of Inclusion | outfit | table | sort=60 }}
+| {{Avail Summary | season | spirit=Inspiration of Inclusion | season=Moomin }}
+| {{Cost | ? }}
+| Yes
+| No
+|- id="Roving Snufkin Robe"
+| style="text-align: center;"| {{Spirit Item| Moomin Guide | outfit_s_real | table | label=Roving Snufkin Robe | link=Season of Moomin#Roving Snufkin Robe }}
+| {{Spirit Item| Moomin Guide | outfit_s | table | sort=61 | label=Roving Snufkin Robe | link=Season of Moomin#Roving Snufkin Robe }}
+| {{Avail Summary | limited | season=Moomin }}
+| {{Cost | $9.99 }}<ref name="roving\_snufkin\_set">The $9.99 cost of the Roving Snufkin Robe Set includes 2 cosmetics (an Outfit and a Neck Accessory).</ref>
+| No
+| No
+|- id="The Moomin Storybook Outfit"
+| style="text-align: center;"| {{Spirit Item| Moomin Guide | outfit_i_real | table | label=The Moomin Storybook Outfit }}
+| {{Spirit Item| Moomin Guide | outfit_i | table | sort=62 | label=The Moomin Storybook Outfit }}
+| {{Avail Summary | permanent | spirit=Moomin Guide | season=Moomin }}
+| {{Cost | 190 C }}
+| Yes
+| No
+|- id="Moomin Ultimate Outfit"
+| style="text-align: center;"| {{Spirit Item| Moomin Guide | outfit_u_real | table | link=The_Moomin_Storybook#Moomin_Ultimate_Outfit }}
+| {{Spirit Item| Moomin Guide | outfit_u | table | sort=63 | link=The_Moomin_Storybook#Moomin_Ultimate_Outfit }}
+| {{Avail Summary | ultimate | season=Moomin }}
+| {{Cost | N/A}}
+| Yes
+| No
+|- id="Radiance Provoking Performer"
+| style="text-align: center;"| {{Spirit Item| Radiance Provoking Performer | outfit_real | table }}
+| {{Spirit Item| Radiance Provoking Performer | outfit | table | sort=64 }}
+| {{Avail Summary | season | spirit=Radiance Provoking Performer | season=Radiance }}
+| {{Cost | ? | season=Radiance }}
+| Yes
+| Yes
+|- id="Radiance Leaping Dancer"
+| style="text-align: center;"| {{Spirit Item| Radiance Leaping Dancer | outfit_real | table }}
+| {{Spirit Item| Radiance Leaping Dancer | outfit | table | sort=65 }}
+| {{Avail Summary | season | spirit=Leaping Dancer | season=Radiance }}
+| {{Cost | ? }}
+| Yes
+| Yes
+|- id="Radiance Greeting Shaman"
+| style="text-align: center;"| {{Spirit Item| Radiance Greeting Shaman | outfit_real | table }}
+| {{Spirit Item| Radiance Greeting Shaman | outfit | table | sort=66 }}
+| {{Avail Summary | season | spirit=Radiance Greeting Shaman | season=Radiance }}
+| {{Cost | ? }}
+| Yes
+| Yes
+|- id="Woodcutting Pleaful Parent"
+| style="text-align: center;"| {{Spirit Item| Woodcutting Pleaful Parent | outfit_real | table }}
+| {{Spirit Item| Woodcutting Pleaful Parent | outfit | table | sort=57 }}
+| {{Avail Summary | season | spirit=Woodcutting Pleaful Parent | season=Blue bird }}
+| {{Cost | ? | season=blue bird }}
+| Yes
+| Yes
+|- id="Stern Shepherd"
+| style="text-align: center;"| {{Spirit Item| Stern Shepherd | outfit_real | table }}
+| {{Spirit Item| Stern Shepherd | outfit | table | sort=57 }}
+| {{Avail Summary | season | spirit=Stern Shepherd | season=Two Embers - Part 1 }}
+| {{Cost | ? }}
+| Yes
+| Yes
+|- id="Resourceful Recluse"
+| style="text-align: center;"| {{Spirit Item| Resourceful Recluse | outfit_real | table }}
+| {{Spirit Item| Resourceful Recluse | outfit | table | sort=57 }}
+| {{Avail Summary | season | spirit=Resourceful Recluse | season=Two Embers - Part 1 }}
+| {{Cost | ? }}
+| Yes
+| Yes
+|- id="Scarred Sentry"
+| style="text-align: center;"| {{Spirit Item| Scarred Sentry | outfit_real | table }}
+| {{Spirit Item| Scarred Sentry | outfit | table | sort=57 }}
+| {{Avail Summary | season | spirit=Scarred Sentry | season=Two Embers - Part 1 }}
+| {{Cost | ? }}
+| Yes
+| Yes
+|- id="Tender Toymaker"
+| style="text-align: center;"| {{Spirit Item| Tender Toymaker | outfit_real | table }}
+| {{Spirit Item| Tender Toymaker | outfit | table | sort=57 }}
+| {{Avail Summary | season | spirit=Tender Toymaker | season=Two Embers - Part 1 }}
+| {{Cost | ? }}
+| Yes
+| Yes
+|- id="Ocean Waves Outfit"
+| style="text-align: center;"| {{Days Item| Ocean Waves Outfit | real | table }}
+| {{Days Item| Ocean Waves Outfit | icon | table | sort=539 }}
+| {{Avail Summary | days | days=nature }}
+| {{Cost | ? | event=nature }}
+| Yes
+| Yes
+|- id="Rainbow Trousers"
+| style="text-align: center;"| {{Days Item| Rainbow Trousers | real | table | link=Days_of_Color/2022#Rainbow_Trousers }}
+| {{Days Item| Rainbow Trousers | icon | table | sort=540 | link=Days_of_Color/2022#Rainbow_Trousers }}
+| {{Avail Summary | days | days=Rainbow }}
+| {{Cost | 95 C }}
+| Yes
+| Yes
+|- id="SkyFest 5th Anniversary T-shirt"
+| style="text-align: center;"| {{Days Item| SkyFest Outfit | real | table | link=Sky_Anniversary/2024#SkyFest_5th_Anniversary_T-shirt }}
+| {{Days Item| SkyFest Outfit | icon | table | sort=550 | link=Sky_Anniversary/2024#SkyFest_5th_Anniversary_T-shirt }}
+| {{Avail Summary | limited | days=Sky | limited=Sky Anniversary 2024}}
+| {{Cost | N/A }}
+| Yes
+| No
+|- id="Tournament Tunic"
+| style="text-align: center;"| {{Days Item| Tournament Tunic | real | table }}
+| {{Days Item| Tournament Tunic | icon | table | sort=560 }}
+| {{Avail Summary | days | days=Tournament }}
+| {{Cost | 9.99 USD }}
+| Yes
+| Yes
+|- id="Treasure Seeker's Bounty outfit"
+| style="text-align: center;"| {{Days Item| Treasure Seeker's Bounty outfit | real | table | link=Days_of_Treasure#Treasure_Seeker's_Bounty }}
+| {{Days Item| Treasure Seeker's Bounty outfit | icon | table | sort=560 | link=Days_of_Treasure#Treasure_Seeker's_Bounty }}
+| {{Avail Summary | days | days=Treasure }}
+| {{Cost | 14.99 USD }}<ref name="Treasure Seeker's Bounty">The $14.99 cost of the Treasure Seeker's Bounty includes 2 cosmetics (an Outfit and Mask).</ref>
+| Yes
+| Yes
+|- id="Sunlight Beach Shorts"
+| style="text-align: center;"| {{Days Item| Sunlight Beach Shorts | real | table }}
+| {{Days Item| Sunlight Beach Shorts | icon | table | sort=570 }}
+| {{Avail Summary | days | days=Sunlight }}
+| {{Cost | 70 C | event=Sunlight }}
+| Yes
+| Yes
+|- id="Sunlight Dress"
+| style="text-align: center;"| {{Days Item| Sunlight Dress | real | table | link=Days_of_Sunlight#Sunlight_Bonnet_Bundle }}
+| {{Days Item| Sunlight Dress | icon | table | sort=570 | link=Days_of_Sunlight#Sunlight_Bonnet_Bundle }}
+| {{Avail Summary | days | days=Sunlight }}
+| {{Cost | 14.99 USD | event=Sunlight }}<ref name="Sunlight\_Bonnet\_Bundle">The $14.99 cost of the Sunlight Bonnet Bundle includes 2 cosmetics (an Outfit and Hair Accessory).</ref>
+| Yes
+| Yes
+|- id="Moonlight Frock"
+| style="text-align: center;"| {{Days Item| Moonlight Frock | real | table | link=Days_of_Moonlight#Moonlight_Frock_and_Updo }}
+| {{Days Item| Moonlight Frock | icon | table | sort=580 | link=Days_of_Moonlight#Moonlight_Frock_and_Updo }}
+| {{Avail Summary | days | days=Moonlight }}
+| {{Cost| 14.99 USD }}<ref name="moonlight\_frock\_and\_updo">The $14.99 cost of the Moonlight Frock and Updo includes 2 cosmetics (an Outfit and Hair).</ref>
+| Yes
+| Yes
+|- id="Style Wide-Leg Jeans"
+| style="text-align: center;"| {{Days Item| Style Wide-Leg Jeans | real | table }}
+| {{Days Item| Style Wide-Leg Jeans | icon | table | sort=590 }}
+| {{Avail Summary | days | days=Style }}
+| {{Cost| 9.99 USD }}
+| Yes
+| Yes
+|- id="Style Dress"
+| style="text-align: center;"| {{Days Item| Style Dress | real | table }}
+| {{Days Item| Style Dress | icon | table | sort=591 }}
+| {{Avail Summary | days | days=Style }}
+| {{Cost| ? | event=Style }}
+| Yes
+| Yes
+|- id="Style Dapper Suit"
+| style="text-align: center;"| {{Days Item| Style Dapper Suit | real | table }}
+| {{Days Item| Style Dapper Suit | icon | table | sort=592 }}
+| {{Avail Summary | days | days=Style }}
+| {{Cost| 14.99 USD }}<ref name="Style Dapper Suit">The $14.99 cost of the Style Dapper Trio includes 3 cosmetics (an Outfit, a Face Accessory, and a Neck Accessory).</ref>
+| Yes
+| Yes
+|- id="Mischief Witch Jumper"
+| style="text-align: center;"| {{Days Item| Mischief Witch Jumper | real | table }}
+| {{Days Item| Mischief Witch Jumper | icon | table | sort=600 }}
+| {{Avail Summary | days | days=Mischief }}
+| {{Cost| 9.99 USD }} <ref name="witch\_jumper\_pack">The $9.99 cost of the Mischief Witch Jumper includes 2 cosmetics (an Outfit and Shoes).</ref>
+| Yes
+| Yes
+|- id="Mischief Goth Garment"
+| style="text-align: center;"| {{Days Item| Mischief Goth Garment | real | table }}
+| {{Days Item| Mischief Goth Garment | icon | table | sort=601 }}
+| {{Avail Summary | days | days=Mischief }}
+| {{Cost| 58 C }}
+| Yes
+| Yes
+|- id="Wonderland Primrose Pinafore Dress"
+| style="text-align: center;"| {{Days Item| Wonderland Primrose Pinafore Dress | real | table | link=Days_of_Feast#Wonderland_Primrose_Pinafore_Set }}
+| {{Days Item| Wonderland Primrose Pinafore Dress | icon | table | sort=601 | link=Days_of_Feast#Wonderland_Primrose_Pinafore_Set }}
+| {{Avail Summary | limited | days=Feast }}
+| {{Cost| 11.99 USD }}<ref name="Wonderland\_Primrose\_Pinafore\_Set">The $11.99 cost of the Wonderland Primrose Pinafore Set includes 2 cosmetics (an Outfit and Hair Accessory).</ref>
+| Yes
+| No
+|- id="Fortune Snake Pants"
+| style="text-align: center;"| {{Days Item| Fortune Snake Pants | real | table | link=Days_of_Fortune#Fortune_Snake_Outfit }}
+| {{Days Item| Fortune Snake Pants | icon | table | sort= | link=Days_of_Fortune#Fortune_Snake_Outfit }}
+| {{Avail Summary | days | days=fortune }}
+| {{Cost| ? | event=fortune}}
+| Yes
+| Yes
+|- id="Anniversary Gown"
+| style="text-align: center;"| {{Days Item| Anniversary Gown | real | table | link=Sky_Anniversary#Anniversary_Gown_Ensemble }}
+| {{Days Item| Anniversary Gown | icon | table | sort=600 | link=Sky_Anniversary#Anniversary_Gown_Ensemble }}
+| {{Avail Summary | days | days=Sky }}
+| {{Cost| 9.99 USD }} <ref name="Anniversary\_Gown\_Ensemble">The $9.99 cost of the Anniversary Gown Ensemble includes 2 cosmetics (an Outfit and Shoes).</ref>
+| Yes
+| Yes
+|- id="Boogie Kid"
+| style="text-align: center;"| {{Spirit Item| Boogie Kid | outfit_real | table }}
+| {{Spirit Item| Boogie Kid | Outfit | table | sort=15 }}
+| {{Avail Summary | season | spirit=Boogie Kid | season=Belonging }}
+| {{Cost | 60 C }}
+| No
+| Yes
+|- id="Troupe Greeter"
+| style="text-align: center;"| {{Spirit Item| Troupe Greeter | outfit_real | table }}
+| {{Spirit Item| Troupe Greeter | Outfit | table | sort=16 }}
+| {{Avail Summary | season | spirit=Troupe Greeter | season=Rhythm }}
+| {{Cost | 70 C }}
+| No
+| Yes
+|- id="Troupe Juggler"
+| style="text-align: center;"| {{Spirit Item| Troupe Juggler | outfit_real | table }}
+| {{Spirit Item| Troupe Juggler | Outfit | table | sort=19 }}
+| {{Avail Summary | season | spirit=Troupe Juggler | season=Rhythm }}
+| {{Cost | 75 C }}
+| No
+| Yes
+|- id="Festival Spin Dancer"
+| style="text-align: center;"| {{Spirit Item| Festival Spin Dancer | outfit_real | table }}
+| {{Spirit Item| Festival Spin Dancer | Outfit | table | sort=17 }}
+| {{Avail Summary | season | spirit=Festival Spin Dancer | season=Rhythm }}
+| {{Cost | 65 C }}
+| No
+| Yes
+|- id="Admiring Actor"
+| style="text-align: center;"| {{Spirit Item| Admiring Actor | outfit_real | table }}
+| {{Spirit Item| Admiring Actor | Outfit | table | sort=18 }}
+| {{Avail Summary | season | spirit=Admiring Actor | season=Rhythm }}
+| {{Cost | 65 C }}
+| No
+| Yes
+|- id="Jelly Whisperer"
+| style="text-align: center;"| {{Spirit Item| Jelly Whisperer | outfit_real | table }}
+| {{Spirit Item| Jelly Whisperer | Outfit | table | sort=21 }}
+| {{Avail Summary | season | spirit=Jelly Whisperer | season=Sanctuary }}
+| {{Cost | 65 C }}
+| No
+| Yes
+|- id="Rallying Thrillseeker"
+| style="text-align: center;"| {{Spirit Item| Rallying Thrillseeker | outfit_real | table }}
+| {{Spirit Item| Rallying Thrillseeker | Outfit | table | sort=20 }}
+| {{Avail Summary | season | spirit=Rallying Thrillseeker | season=Sanctuary }}
+| {{Cost | 70 C }}
+| No
+| No
+|- id="Prophet of Fire"
+| style="text-align: center;"| {{Spirit Item| Prophet of Fire | outfit_real | table }}
+| {{Spirit Item| Prophet of Fire | Outfit | table | sort=22 }}
+| {{Avail Summary | season | spirit=Prophet of Fire | season=Prophecy }}
+| {{Cost | 75 C }}
+| No
+| Yes
+|- id="Bearhug Hermit"
+| style="text-align: center;"| {{Spirit Item| Bearhug Hermit | outfit_real | table }}
+| {{Spirit Item| Bearhug Hermit | Outfit | table | sort=24 }}
+| {{Avail Summary | season | spirit=Bearhug Hermit | season=Dreams }}
+| {{Cost | 70 C }}
+| No
+| Yes
+|- id="Little Prince Outfit"
+| style="text-align: center;"| {{Spirit Item| The Rose | outfit_i_real | table | label=Little Prince Outfit }}
+| {{Spirit Item| The Rose | outfit_i | table | sort=27 | label=Little Prince Outfit }}
+| {{Avail Summary | limited | spirit=The Rose | season=The Little Prince }}
+| {{Cost | 200 C }}
+| No
+| No
+|- id="The Little Prince Ultimate Outfit"
+| style="text-align: center;"| {{Spirit Item| The Rose | outfit_u_real | table | link=The_Rose#Little_Prince_Ultimate_Outfit }}
+| {{Spirit Item| The Rose | outfit_u | table | sort=28 | link=The_Rose#Little_Prince_Ultimate_Outfit }}
+| {{Avail Summary | ultimate | season=The Little Prince }}
+| {{Cost | N/A }}
+| No
+| No
+|- id="Flight Ultimate Outfit"
+| style="text-align: center;"| {{Spirit Item| Flight Guide | outfit_u_real | table | link=Flight_Guide#Flight_Ultimate_Outfit }}
+| {{Spirit Item| Flight Guide | outfit_u | table | sort=32 | link=Flight_Guide#Flight_Ultimate_Outfit }}
+| {{Avail Summary | ultimate | season=Flight }}
+| {{Cost | N/A }}
+| No
+| Yes
+|- id="Talented Builder"
+| style="text-align: center;"| {{Spirit Item| Talented Builder | outfit_real | table }}
+| {{Spirit Item| Talented Builder | Outfit | table | sort=31 }}
+| {{Avail Summary | season | spirit=Talented Builder | season=Flight }}
+| {{Cost | 70 C }}
+| No
+| Yes
+|- id="Tinkering Chimesmith"
+| style="text-align: center;"| {{Spirit Item| Tinkering Chimesmith | outfit_real | table }}
+| {{Spirit Item| Tinkering Chimesmith | Outfit | table | sort=30 }}
+| {{Avail Summary | season | spirit=Tinkering Chimesmith | season=Flight }}
+| {{Cost | 70 C }}
+| No
+| Yes
+|- id="Light Whisperer"
+| style="text-align: center;"| {{Spirit Item| Light Whisperer | outfit_real | table }}
+| {{Spirit Item| Light Whisperer | Outfit | table | sort=29 }}
+| {{Avail Summary | season | spirit=Light Whisperer | season=Flight }}
+| {{Cost | 65 C }}
+| No
+| Yes
+|- id="Anxious Angler"
+| style="text-align: center;"| {{Spirit Item| Anxious Angler | outfit_real | table }}
+| {{Spirit Item| Anxious Angler | Outfit | table | sort=33 }}
+| {{Avail Summary | season | spirit=Anxious Angler | season=Abyss }}
+| {{Cost | 65 C }}
+| No
+| Yes
+|- id="Modest Dancer"
+| style="text-align: center;"| {{Spirit Item| Modest Dancer | outfit_real | table }}
+| {{Spirit Item| Modest Dancer | Outfit | table | sort=35 }}
+| {{Avail Summary | season | spirit=Modest Dancer | season=Performance }}
+| {{Cost | 70 C }}
+| No
+| Yes
+|- id="Frantic Stagehand"
+| style="text-align: center;"| {{Spirit Item| Frantic Stagehand | outfit_real | table }}
+| {{Spirit Item| Frantic Stagehand | Outfit | table | sort=34 }}
+| {{Avail Summary | season | spirit=Frantic Stagehand | season=Performance }}
+| {{Cost | 70 C }}
+| No
+| Yes
+|- id="Forgetful Storyteller"
+| style="text-align: center;"| {{Spirit Item| Forgetful Storyteller | outfit_real | table }}
+| {{Spirit Item| Forgetful Storyteller | Outfit | table | sort=36 }}
+| {{Avail Summary | season | spirit=Forgetful Storyteller | season=Performance }}
+| {{Cost |  70 C }}
+| No
+| Yes
+|- id="Wounded Warrior"
+| style="text-align: center;"| {{Spirit Item| Wounded Warrior | outfit_real | table }}
+| {{Spirit Item | Wounded Warrior | outfit | table | sort=45 }}
+| {{Avail Summary | season | spirit=Wounded Warrior | season=Remembrance }}
+| {{Cost| 60 C }}
+| No
+| Yes
+|- id="Tiptoeing Tea-Brewer"
+| style="text-align: center;"| {{Spirit Item| Tiptoeing Tea-Brewer | outfit_real | table }}
+| {{Spirit Item | Tiptoeing Tea-Brewer | outfit | table | sort=44 }}
+| {{Avail Summary | season | spirit=Tiptoeing Tea-Brewer | season=Remembrance }}
+| {{Cost | 55 C }}
+| No
+| Yes
+|- id="Melancholy Mope"
+| style="text-align: center;"| {{Spirit Item| Melancholy Mope | outfit_real | table }}
+| {{Spirit Item | Melancholy Mope | outfit | table | sort=47 }}
+| {{Avail Summary | season | spirit=Melancholy Mope | season=Passage }}
+| {{Cost | unknown }}
+| No
+| Yes
+|- id="Oddball Outcast"
+| style="text-align: center;"| {{Spirit Item| Oddball Outcast | outfit_real | table }}
+| {{Spirit Item | Oddball Outcast | outfit | table | sort=46 }}
+| {{Avail Summary | season | spirit=Oddball Outcast | season=Passage }}
+| {{Cost | 65 C }}
+| No
+| Yes
+|- id="Hunter"
+| style="text-align: center;"| {{Spirit Item| Hunter | outfit_real | table }}
+| {{Spirit Item| Hunter | outfit | table | sort=54 }}
+| {{Avail Summary | season | spirit=Hunter | season=Nine-Colored Deer }}
+| {{Cost | unknown }}
+| No
+| No
+|- id="Nesting Ultimate Outfit"
+| style="text-align: center;"| {{Spirit Item| Nesting Guide | outfit_u_real | table | link=Nesting_Guide#Nesting_Ultimate_Outfit }}
+| {{Spirit Item| Nesting Guide | outfit_u | table | sort=55 | link=Nesting_Guide#Nesting_Ultimate_Outfit }}
+| {{Avail Summary | ultimate | season=Nesting }}
+| {{Cost | N/A }}
+| No
+| Yes
+|- id="Costumed confetti Cousin"
+| style="text-align: center;"| {{Spirit Item| Costumed confetti Cousin | outfit_real | table }}
+| {{Spirit Item| Costumed confetti Cousin | outfit | table | sort=56 }}
+| {{Avail Summary | season | spirit=Costumed confetti Cousin | season=Blue bird }}
+| {{Cost | ? }}
+| No
+| Yes
+|- id="Royal Hairtousle Teen"
+| style="text-align: center;"| {{Spirit Item| Royal Hairtousle Teen | outfit_real | table }}
+| {{Spirit Item| Royal Hairtousle Teen | outfit | table | sort=57 }}
+| {{Avail Summary | season | spirit=Royal Hairtousle Teen | season=Blue bird }}
+| {{Cost | ? }}
+| No
+| Yes
+|- id="Days of Fortune Muralist's Smock"
+| style="text-align: center;"| {{Days Item| Smock | real | table }}
+| {{Days Item| Smock | icon | table | sort=500 }}
+| {{Avail Summary | days | days=Fortune }}
+| {{Cost| 9.99 USD }}
+| No
+| Yes
+|- id="Days of Fortune Dragon Vestment"
+| style="text-align: center;"| {{Days Item| Dragon Vestment | real | table }}
+| {{Days Item| Dragon Vestment | icon | table | sort=501 }}
+| {{Avail Summary | days | days=Fortune }}
+| {{Cost| 9.99 USD }}
+| No
+| Yes
+|- id="Bloom Gardening Tunic"
+| style="text-align: center;"| {{Days Item| Bloom Gardening Tunic | real | table }}
+| {{Days Item| Bloom Gardening Tunic | icon | table | sort=520 }}
+| {{Avail Summary | days | days=Bloom }}
+| {{Cost| 9.99 USD }}
+| No
+| Yes
+|- id="Dark Rainbow Tunic"
+| style="text-align: center;"| {{Days Item| Dark Rainbow Tunic | real | table | link=Days_of_Color/2023#Dark_Rainbow_Tunic }}
+| {{Days Item| Dark Rainbow Tunic | icon | table | sort=541 | link=Days_of_Color/2023#Dark_Rainbow_Tunic }}
+| {{Avail Summary | days | days=Rainbow }}
+| {{Cost | 14.99 USD }}
+| No
+| Yes
+|- id="Rainbow Smock"
+| style="text-align: center;"| {{Days Item| Rainbow Smock | real | table | link=Days_of_Color/2025#Rainbow_Smock }}
+| {{Days Item| Rainbow Smock | icon | table | sort=541 | link=Days_of_Color/2025#Rainbow_Smock }}
+| {{Avail Summary | days | days=Color }}
+| {{Cost | ? | event=Color }}
+| No
+| Yes
+|- id="Marching Band Outfit"
+| style="text-align: center;"| {{Days Item| Marching Band Outfit | real | table | link=Days_of_Music#Marching_Band_Outfit }}
+| {{Days Item| Marching Band Outfit | icon | table | sort=601 | link=Days_of_Music#Marching_Band_Outfit }}
+| {{Avail Summary | days | days=Music }}
+| {{Cost| 9.99 USD }}
+| No
+| Yes
+|- id="Anniversary Suit"
+| style="text-align: center;"| {{Days Item| Anniversary Suit | real | table | link=Days_of_Moonlight#Moonlight_Bunny_Slippers }}
+| {{Days Item| Anniversary Suit | icon | table | sort=601 }}
+| {{Avail Summary | days | days=Sky }}
+| {{Cost| ? | event=Sky }}
+| No
+| Yes
+|}
+{{Avail Legend
+| regular
+| permanent
+| s+
+| u+
+| t*
+| r*
+| d*
+| l*
+| days
+| season
+| ultimate
+| limited
+}}
+
+==References==
+<references />
+
+[[fr:Tenues]]
+[[de:Hosen]]
+[[pt-br:Trajes]]
+[[ja:アウトフィット]]
+[[zh:服飾]]
+
+[[Category:Cosmetics]]

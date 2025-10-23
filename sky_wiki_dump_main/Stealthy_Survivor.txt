@@ -1,0 +1,109 @@
+{{Spirit Infobox
+|type      = Regular
+|emote_type= Stance
+|image     = <gallery>
+Wasteland-Spirit-Stealthy-Survivor.png|Standard
+Wasteland-Spirit-Stealthy-Survivor-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Hair|infobox}}{{Spirit Item||Cape|infobox}}{{Spirit Item||Tier 2 Cape|infobox}}
+|realm     = Golden Wasteland
+|location  = Graveyard
+}}
+<section begin="Summary" />The '''Stealthy Survivor''' is a [[Regular Spirit]] in the [[Golden Wasteland]] who offers the {{Emote|Stealthy Survivor|inline_text}}. The Stealthy Survivor is found in the [[Graveyard]], in a tunnel to the left of the largest cave structure. The collectibles [[Stealthy Survivor#Friendship Tree|offered]] by this Spirit are a {{Spirit Item|Stealthy Survivor|Hair|inline_text}} and two tiers ({{Spirit Item|Stealthy Survivor|Cape}} {{Spirit Item|Stealthy Survivor|Tier 2 Cape}}) of a [[#Cape|Cape]].<section end="Summary" /><br>
+<br>
+[[File:Stealthy-Survivor-Guide-777-Ed.png|320x320px|thumb|none|Image Guide by 777.Ed]]
+
+==Memory==
+<div>{{#ev:youtube|XqgBAzIfIsk||inline|Video Guide by Jadyne Senpai}}
+<br>
+The Stealthy Survivor can be found in the [[Graveyard]], in a tunnel to the left of the largest cave structure. This Spirit is a [[Standard Memory|standard memory]] quest with 4 memory fragments and an unlimited overall [[Timed Memory|time limit]]. Beware the [[Dark Dragon]] that patrols nearby, as it occasionally crosses the path of the Spirit's memory.
+
+As their memory unfolds, the Stealthy Survivor cautiously traverses the dangerous landscape, watching their surroundings closely as they head into the large structure.
+
+At the end of the memory, an alerted Dark Dragon passes its gaze over the entrance of the structure. The Stealthy Survivor flattens themself in a crouch against the wall of the structure, hiding as they wait for the Dark Dragon's beam of red light to leave.<br>
+<br>
+[[File:04 GW Spirit - Stealthy Survivor.jpg|200px|thumb|none|Relive the Stealthy Survivor's memory]]
+</div>
+{{Clear}}
+
+== <span id="Expression">Stance</span>==
+The Stealthy Survivor offers the {{Emote|Stealthy Survivor|inline_text}}, which will give your avatar a sneaky look, with their arms held out and torso crouched low to the ground. The Stance will affect your avatar's position when standing, kneeling, sitting, and lying down. 
+
+This Stance is popular amongst players in combination with the [[Chibi Mask]], as it helps position your avatar closer to the ground for the popular "[[Chibi Fall]]" glitch.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Emote}}
+Stealthy-Survivor-sneaky-stance-emote.gif {{!}} {{Icon Name||emote_name}}
+Stealthy-Survivor-Stance-Standing.png {{!}} {{Icon Name||emote_name}} (Standing)
+Stealthy-Survivor-Stance-Kneeling.png {{!}} {{Icon Name||emote_name}} (Kneeling)
+Stealthy-Survivor-Stance-Sitting.png {{!}} {{Icon Name||emote_name}} (Sitting)
+Stealthy-Survivor-Stance-Lying-Down.png {{!}} {{Icon Name||emote_name}} (Lying down)
+|heights=160px|captionalign=center|spacing=small
+}}
+
+*Standing will make your avatar bend both knees with their legs held apart, torso hunched forward with both arms raised loosely at their sides.
+*Kneeling will make your avatar sit with both legs folded close to their body, arms wrapped around their knees, with their Cape covering their body.
+*Sitting will make your avatar sit hunched forward with both legs folded and leaning sideways, hands clasped together and resting on their knee.
+*Lying down will make your avatar lay on their left side, limbs curled close to their torso with their head bent towards their knees.
+
+==Cosmetics==
+===Hair===
+The [[Hair]] offered by this Spirit is long, pulled-back locs, costing {{Cost|5 H}}. It is permanently available to all players after unlocking the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair}} {{!}} The Hair icon
+Stealthy-Survivor-Hair-front.png {{!}} The Hair front
+{{Icon Name||Hair|real}} {{!}} The Hair side
+{{Icon Name||Hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Cape ===
+The Stealthy Survivor offers two standard-style black [[Capes]]; a Tier 1 and a [[Tier 2 Cape|Tier 2]] version, costing {{Heart|50}} and {{Heart|150}} respectively. Both are permanently available to all players after unlocking the Friendship Tree's fourth node and second [[Wing Buff]] respectively.
+
+The Tier 2 Cape (and the second Wing Buff that unlocks it) are not needed to complete the Golden Wasteland [[Constellation]]. These were both added to the Friendship Tree in Patch {{v|0.18.0}} on June 28, 2022.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape}} {{!}} The Tier 1 Cape icon
+{{Icon Name||Cape|front}} {{!}} The Tier 1 Cape front
+{{Icon Name||Cape|interior}} {{!}} The Tier 1 Cape interior
+{{Icon Name||Cape|back}} {{!}} The Tier 1 Cape back
+|widths=125|captionalign=center|spacing=small
+}}
+
+{{#tag:gallery
+|{{Icon Name||Tier 2 Cape}} {{!}} The Tier 2 Cape icon
+{{Icon Name||Tier 2 Cape|front}} {{!}} The Tier 2 Cape front
+{{Icon Name||Tier 2 Cape|interior}} {{!}} The Tier 2 Cape interior
+{{Icon Name||Tier 2 Cape|real}} {{!}} The Tier 2 Cape back
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Friendship Tree==
+{{Friendship Tree Info | regular}}
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Stealthy Survivor
+|image  = Wasteland-Spirit-Stealthy-Survivor.png
+
+|nodeC7 = tier_2_cape 150 H BONUS
+|nodeC6 = wing 12 AC BONUS
+|nodeC5 = cape 50 H
+|nodeC4 = spell5
+|nodeC3 = wing 4 AC
+|nodeL2 = heart
+|nodeC2 = spell1
+|nodeL1 = hair 5 H
+|nodeC1 = emote
+}}<section end="Friendship Tree" />
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+File:Emote Loc-Crouch Stance.png
+</gallery>
+
+==References==
+<references />
+
+[[de:Schleichende Überlebende]]
+[[fr:Survivante Furtive]]
+[[pt-br:Sobrevivente Furtiva]]

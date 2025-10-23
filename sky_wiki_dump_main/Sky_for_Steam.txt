@@ -1,0 +1,196 @@
+This page contains information gathered regarding Sky on the Steam platform. Please use this page as an Steam-specific elaboration of the content already found on the Wiki. Check out the [[Getting Started]] page as well as other pages on this Wiki for the general gameplay of Sky. The gameplay is the same on all devices; some menu options and game save information are the only ones that are going to be different.
+
+On May 17, 2023, thatgamecompany made an announcement for the upcoming of Sky: Children of the Light on the [https://store.steampowered.com/app/2325290/Sky_Children_of_the_Light/ Steam platform]. Early Access released on April 10, 2024<ref name="PC_Release_Date">https://www.thatskygame.com/news/get-ready-for-sky-early-access-on-steam/</ref>. Sky: Children of the Light Demo was available on the Steam store for a limited time where players could play on the same version as players on other platforms but in-game purchases were not available. 
+
+More information can be found here: https://store.steampowered.com/app/2325290/Sky_Children_of_the_Light/
+
+{{DevicesNav}}
+
+==Official Download and Streaming Sources==
+The game is available for download from the [https://store.steampowered.com/app/2325290/Sky_Children_of_the_Light/ Steam store], subject to your region. Downloading ''Sky: Children of the Light'' from Steam is only available to players on Windows and Steam Deck.
+
+Sky is also available through the cloud gaming service [https://www.nvidia.com/en-us/geforce-now/games/ GeForce Now] ([https://fixupx.com/thatgamecompany/status/1910761426450370741 announcement here])<ref>https://blogs.nvidia.com/blog/geforce-now-thursday-april-2025/</ref>. Because GeForce Now runs the Steam version, players must have Steam [[#Linking_your_Game|linked]] to play on existing accounts. They can also purchase the Steam-exclusive [[#Companion_Cube|Companion Cube]].
+
+Any other sources for download are '''against the Sky TOS.'''<br>
+<small>Note: Players on mac0S with M1 chip or later can download Sky from the App Store, more information can be found in [[Sky for iOS and macOS]]. </small>
+
+== Requirements for downloading Sky ==
+Similar to Android devices, there is no definite qualifications or system requirements that make a certain Windows device compatible with Sky, as there are thousands of different brands, devices and models. Generally speaking, the guidelines posted below display '''the minimum required and recommended specs stated in the Steam website:'''
+{| class="wikitable" style="text-align:center; float:left; margin-right:10%;"
+|+'''Minimum'''
+|'''OS'''
+|Windows 10 64-bit, build 1903+ (10.0.18362)
+|-
+|'''Processor'''
+|Intel i5-6400 or AMD FX 8310
+|-
+|'''Memory'''
+|8 GB RAM
+|-
+|'''Graphics'''
+|Nvidia GeForce GTX 1030 or AMD Radeon RX 560
+|-
+|'''Network'''
+|Broadband Internet connection
+|-
+|'''Storage'''
+|3 GB Available space
+|-
+|'''Additional Notes'''
+|Vulkan 1.2 Driver. GPU must have at least 2048 MB of VRAM.
+|}
+
+{| class="wikitable" style="text-align:center; float:left;"
+|+'''Recommended'''
+|'''OS'''
+|Windows 10 64-bit, build 1903+ (10.0.18362)
+|-
+|'''Processor'''
+|Intel i5-8400 or AMD Ryzen 5 1600
+|-
+|'''Memory'''
+|8 GB RAM
+|-
+|'''Graphics'''
+|Nvidia GeForce GTX 1060 or AMD Radeon RX 580
+|-
+|'''Network'''
+|Broadband Internet connection
+|-
+|'''Storage'''
+|3 GB Available space
+|-
+|'''Additional Notes'''
+|Vulkan 1.3 Driver. GPU must have at least 2048 MB of VRAM.
+|}
+{{Clear}}
+
+==Controls on Steam==
+Below are the controls and what each button does in normal gameplay. There are also button prompts within menus. Players can also remap the controls by going to Settings->Controls->Customize. 
+{{#tag:gallery
+|PC-Keyboard-Layout.png {{!}} PC Keyboard Layout
+|widths=350|spacing=small|captionalign=center
+}}
+
+==Linking your Game==
+To protect your Sky account, it is important to link it to any account service provider listed below:
+*Game Center (Apple platform exclusive) • Permanently Bound
+*Google • Permanently Bound
+*Facebook
+*Apple ID (Apple platform exclusive)
+*Nintendo • Permanently Bound After Buying an [[IAP]] <ref name="Nintendo Linking Helpshift Article">https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/faq/811-how-do-i-link-my-mobile-sky-account-to-my-nintendo-switch-account/</ref>
+*Huawei ID
+*PlayStation® Network • Permanently Bound
+*Steam • Permanently Bound After Buying an [[IAP]]
+*Twitch
+
+'''On Steam, you will not be able to link to above accounts if it was not done before on a mobile device. Subsequently you can only link to the above from a mobile device such as [[Sky for iOS and macOS|iOS]] or [[Sky for Android|Android]]. '''
+
+Linking account will allow players to recover their accounts themselves upon re-installs or when switching devices. Keeping record of your Sky ID - Sky 'Settings -> 'Account' -> 'Account Info' - will also be a way to recover account progress. However, this requires the help of a TGC Support representative, which may take a certain number of business days. TGC will also ask players for their Sky ID if a giveaway is won. Keep in mind to keep your Sky ID safe from everybody, it acts as the key into your account. If you are contacted by TGC, ensure it is from official sources.
+
+You may link more than one account service to your Sky account at a same time. You may also link your account service to a Live Sky account and Beta Sky account at the same time, since Live account and Beta account are separated and run independently (progress is not carried). However, each account service can only be linked to one Live Sky account. For example, you may link your account to Google and Facebook account at the same time, but you cannot link another Sky account to the same Google account.
+
+<gallery hideaddbutton="true" widths="150" mode="nolines">
+File:Link providers.png|Account service providers
+File:Game center.png|Game Center
+File:Google.png|Google Account
+File:FacebookLinking.png|Facebook Account
+File:Apple id link.png|Apple ID
+File:Nintendo linking.png|Nintendo Account
+File:Huawei linking.jpg|HUAWEI ID
+File:Playstation linking.jpeg|PlayStation™ Network
+File:Steam Linking.png|Steam Account
+File:Twitch Linking.png|Twitch Account
+</gallery>
+
+===Accidentally creating a new Sky Account===
+If you have accidentally created a new Sky Account via Steam or you have accidentally linked the wrong Steam account, follow the steps below to fix this. Ensure your original Sky account is linked with an external account (e.g Google, Apple, etc.) before starting this process!
+
+# Grab your mobile device (ensure Sky is updated)
+# Open Sky
+# Log in with the problematic Steam account by tapping the ‘Sign In Method’ at the bottom
+# Go to the top right-hand corner in-game and tap the cog wheel for options
+# Tap Account and link it to another account (e.g. Gmail) that is not associated with your original Sky account
+# In the same Account window, tap Steam to unlink it and confirm
+# Restart Sky
+# Tap ‘Sign In Method’ at the bottom
+# Log in with a method that your original Sky account is linked to
+# Go to the top right-hand corner in-game and tap the cog wheel for options
+# Tap Account and link your Steam account
+
+==In-App Purchases & Cosmetics==
+The Shop on every platform have the same base prices. Independent of your OS, there will also be regional differences in pricing, though the base pricing set by TGC is, again, the same. Unlike the Nintendo Switch, candle packs bought on the Steam version will be under the same count as other devices. In addition any cosmetics will be shared among the linked devices - For example if the Steam Sky account has the Companion Cube, so will the linked iPhone Sky account.
+
+===Companion Cube===
+{{#ev:youtube|https://www.youtube.com/watch?v=BeNTmYr0dd0||right|Companion Cube Announcement||start=56&end=60&loop=1}}
+Players on the Steam version of Sky have the option to purchase an exclusive 'Companion Cube' prop for {{Cost|50 C}} from the permanent event store in [[Aviary Village]]. This can only be purchased on the Steam version of Sky. The Companion Cube is a plushie that you can hug and toss around for other players to squeeze. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]] as well. The cube is a reference to the game: [https://store.steampowered.com/app/400/Portal/ Portal] by [https://en.wikipedia.org/wiki/Valve_Corporation Valve] where it appears. Valve also hosts the digital PC game store, [https://store.steampowered.com/about/ Steam], which is where Sky released into Early Access on.<br> 
+<small>Note: Since the Companion Cube is obtained using in-game currency {{Cost|C}}, it '''cannot be gifted''' to other players.</small>
+<gallery widths="125" spacing="small" hideaddbutton="true" mode="nolines">
+Companion-Cube-Aviary-Silverfeelin.png|Companion Cubes in the Aviary Event Store
+Companion-Cube-icon.png|Companion Cube
+Companion-Cube-Plushie-Owl.png|Companion Cube
+</gallery>
+
+==Moments Camera Controls==
+[[File:Moments-Guide-Prop-Camera.png|75px|right|Moments Guide Prop Camera]]
+Two new [[Moments Guide|Camera Props]] were added during [[Season of Moments]] where players on all platforms can take in-game screenshots without game UI or labels. 
+*Players can equip the camera from the Prop section of an [[Outfit Shrine]].
+*Press E to open the expression menu and select the <span id="Camera Icon">{{Icon|Moments-Guide-Prop-Camera-icon-Credit-Morybel.png|link=}} camera icon.
+*Press R to <span id="Open">{{Icon|Camera-hold-Ray.png|link=}} open the camera.
+[[File:PC-camera-UI.png|350px]]
+
+==Steam Achievements==
+{{MessageBox
+|header     = To Be Announced
+|text       = Steam Achievements have not been released yet.
+|image      = LookoutScout-1.png
+|imagelink  = 
+|imagewidth = 50px
+}}
+
+==Steam Wishlist Extravaganza==
+*'''[CLEARED 07/05/2023] 100,000 Wishlists: Special Edition Desktop Backgrounds'''
+**High quality Sky backgrounds, handmade and delivered fresh from the Art Team.
+<gallery widths="300" spacing="small" captionalign="center">
+File:2023SkyDesktopWindpaths4K.jpg
+File:2023SkyDesktopForest4K.jpg
+File:2023SkyDesktopEden4K.jpg
+File:2023SkyDesktopAbyss4K.jpg
+</gallery>
+*'''[CLEARED 07/27/2023] 200,000 Wishlists: Sneak Peek Concept Art''' 
+**The TGC Art Team will share some of their latest concept art from their brainstorming work for upcoming content. It’s all stuff in early stages so will likely change a lot before ever making it to the live version of Sky, but it’s great for hypothesizing, taking OC inspiration, or wondering just what kind of shenanigans TGC gets up to before something is ready for beta.
+** TGC will share one piece of concept art a week, for four weeks.
+<gallery widths="300" spacing="small" captionalign="center">
+Steam-wishlist-concept-art-1.jpg|#1
+Steam-wishlist-concept-art-2.jpg|#2
+Steam-wishlist-concept-art-3.jpg|#3
+Steam-wishlist-concept-art-4.jpg|#4
+</gallery> 
+*'''[CLEARED 09/05/2023] 250,000 Wishlists: Traveling Spirit Community Vote'''
+**TGC will run a huge poll for players to choose a Spirit to return as a Traveling Spirit. Vote for your favorite, and the winning Spirit will be the second one to visit after Sky's PC launch.
+**[https://docs.google.com/forms/d/e/1FAIpQLScRWTSVX_vH-Z6kxRJWpfgb2P_0frjOjeMGbDXa_ChXsZ3Ttg/viewform '''Vote for your Spirit here'''.] Voting will remain open until '''Monday, October 16, 2023 10:00 PDT (UTC-7)'''.
+<gallery widths="300" spacing="small" captionalign="center">
+Steam Wishlist Community Vote Result-Dancing Performer.png|Traveling Spirit Community Vote Result: [[Dancing Performer]]
+</gallery>
+*'''[CLEARED 09/13/2023] 300,000: Double Hearts and Candles'''
+**TGC will add to Steam launch celebrations by holding a special Double Hearts and Double Candles event in Sky during the first week of PC launch.
+The full information can be found here: https://www.thatskygame.com/news/countdown-to-pc-launch-the-steam-wishlist-extravaganza/
+
+==Trivia== 
+*Players had an opportunity to try out a version of Sky on PC during August 23-27, 2023 at gamescom ahead of Sky’s official PC launch.<ref> https://www.thatskygame.com/news/new-sky-milestones-for-gamescom-2023/ </ref>
+*Sky participated in the Steam Next Fest from October 9-16, 2023. During this window, all PC players could play a demo version of Sky via Steam. The main difference between the demo version of Sky available during Next Fest and the full version is that in-game purchases were not available. Otherwise, PC players were able to play the Next Fest version of Sky the same as players on mobile, Switch, and PlayStation with crossplay enabled. For more information please visit: https://www.thatskygame.com/news/sky-pc-comes-to-steam-next-fest/.
+<gallery widths="125" spacing="small" captionalign="center">
+File:Sky Next Fest Demo Promo Image.png
+Sky Next Fest Promo Image.jpg
+</gallery>
+
+==Video Gallery==
+{{#ev:youtube|Olopq7D9htc||inline|Preview video by TGC}}
+{{#ev:youtube|feOR2GZxs2s||inline|Official Steam Launch Trailer}}
+{{#ev:youtube|rLOesNZTtqo||inline|PC Launch Cinematic Trailer}}
+
+==References==
+<references />
+
+[[pt-br:Sky para Steam]]
+[[fr:Sky pour Steam]]

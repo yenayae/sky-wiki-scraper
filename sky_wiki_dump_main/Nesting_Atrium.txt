@@ -1,0 +1,93 @@
+{{Spirit Infobox
+|type      = Non
+|emote_type= None
+|image     = Nesting-Atrium-Shop.png
+|cosmetics = {{Spirit Item|Nesting Atrium|Hair|infobox}}
+|props	   = {{Spirit Item|Nesting Atrium|prop_h|link=Nesting Atrium#Hanging Lamp|infobox}}{{Spirit Item|Nesting Atrium|prop_b|link=Nesting Atrium#Branch|infobox}}{{Spirit Item|Nesting Atrium|prop_f|link=Nesting Atrium#Floor Light|infobox}}
+|season    = Nesting
+|realm     = Aviary Village
+|location  = [[Nesting Workshop]]
+|ts        = None
+}}
+<section begin="Summary" />The '''Nesting Atrium''' is a [[Ancestors#Seasonal Entities|Seasonal Shop]] from the [[Season of Nesting]]. The Nesting Atrium was found within the [[Nesting Workshop]] in [[Aviary Village]], marked outside by a sign with Nesting's emblem. Unlike typical [[Seasonal Spirits]], there is no need to first relive a [[Spirit Memories|spirit memory]] to access this Shop and it does not offer an [[Expression]]. The collectibles offered by this Shop are a {{Spirit Item|Nesting Atrium|Hair|inline_text}}, a {{Spirit Item|Nesting Atrium|prop_h|inline_text|link=Nesting Atrium#Hanging Lamp|label=Hanging Lamp Prop}}, a {{Spirit Item|Nesting Atrium|prop_b|inline_text|link=Nesting Atrium#Branch|label=Branch Prop}}, and a {{Spirit Item|Nesting Atrium|prop_f|inline_text|link=Nesting Atrium#Floor Light|label=Floor Light Prop}}.<section end="Summary" />
+
+==Cosmetics==
+===<span id="Hair">Hair</span>===
+The [[Hair]] offered by this Shop is short with sideswept bangs and two longer sections, tied with gold bands, that hang down on each side of the head. It was offered to all players for {{Cost|24 SC|season=Nesting}} during the Season, from the Friendship Tree's third node ({{Cost|60 SC|season=Nesting}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Atrium|Hair}} {{!}} The Hair icon
+{{Icon Name|Nesting Atrium|Hair|real}} {{!}} The Hair front
+{{Icon Name|Nesting Atrium|Hair|side}} {{!}} The Hair side 
+{{Icon Name|Nesting Atrium|Hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Prop">Props</span>===
+This Seasonal Shop offers a total of three [[Props]]: a [[#Hanging Lamp|Hanging Lamp]], a [[#Branch|Branch]], and a [[#Floor Light|Floor Light]].
+
+====Hanging Lamp====
+The [[Prop]] offered by this Shop is a light in a shallow lamp shade made of pale wood, suspended from a thin pole. It is a placeable Prop that can be used to decorate [[Shared Spaces]] and functions as a light source. Once placed, the player can interact with the item to switch the light off and on. When carried on its owner's back, it appears in its original form. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|36 SC|season=Nesting}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Atrium|prop_h|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Atrium|prop_h|real}} {{!}} The Prop
+{{Icon Name|Nesting Atrium|prop_h|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Branch====
+The [[Prop]] offered by this Shop is a pale branch that is decorated with multiple small lights and suspended from two thin poles. It is a placeable Prop that can be used to decorate [[Shared Spaces]] and functions as a light source. Once placed, the player can interact with the item to switch the light off and on. When carried on its owner's back, it appears in its original form. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|88 SC|season=Nesting}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Atrium|prop_b|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Atrium|prop_b|real}} {{!}} The Prop
+{{Icon Name|Nesting Atrium|prop_b|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Floor Light====
+The [[Prop]] offered by this Shop is a light inside a brazier made of pale wood. It is a placeable Prop that can be used to decorate [[Shared Spaces]] and functions as a light source. When carried on its owner's back, it appears in its original form. It was offered to all players for {{Cost|16 SC|season=Nesting}} during the Season, from the Friendship Tree's first node ({{Cost|16 SC|season=Nesting}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nesting Atrium|prop_f|icon}} {{!}} The Prop icon
+{{Icon Name|Nesting Atrium|prop_f|real}} {{!}} The Prop
+{{Icon Name|Nesting Atrium|prop_f|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Season Friendship Tree ==
+{{Friendship Tree Info | season| season=Nesting}}<section begin="Season Friendship Tree" />
+{{Friendship Tree
+|spirit = Nesting Atrium
+|image  = Nesting-Atrium-Shop.png
+|type   = season
+|season = Nesting
+
+|nodeC5 = season_heart 3 SC SP
+
+|nodeL4 = prop_b SP
+|  linkL4 = Nesting Atrium#Branch
+|nodeC4 = spellx 28 SC
+
+|nodeL3 = spellx SP
+|nodeC3 = hair 24 SC
+
+|nodeL2 = prop_h SP
+|  linkL2 = Nesting Atrium#Hanging Lamp
+|nodeC2 = spellx 20 SC
+
+|nodeL1 = spellx SP
+|nodeC1 = prop_f 16 SC
+|  linkC1 = Nesting Atrium#Floor Light
+}}<section end="Season Friendship Tree" />
+
+==References==
+<references />
+
+[[fr:Atrium de la Nidification]]
+[[pt-br:Átrio do Ninho]]
+[[ja:巣づくりの吹き抜け]]
+[[de:Nest-Aula]]
+
+[[Category:Season of Nesting]]

@@ -1,0 +1,304 @@
+{{SkyEvent
+| image = Days-of-Sky-2023-promo-image.jpg
+| previousevent = [[Sky Anniversary/2022|2022]]
+| nextevent = [[Sky Anniversary/2024|2024]]
+| date = July 17 to July 30, 2023
+| years = {{#lst:Sky Anniversary|Anniversary Years}}
+}}
+Sky turns 4 this year, and for the occasion TGC is throwing a big dance party in the Office! From '''July 17, 2023 at 00:00 PDT (UTC-7)''' until '''July 30, 2023 at 23:59 PDT (UTC-7)''', head to the rooftop to watch some [[Spirits]] perform periodically, bust out your best moves on a shiny new dance floor, and try your hand at a new "sequencer" feature that allows you to record and playback loops of music from a variety of instruments.
+
+A crew of special Spirits will make an entrance on stage in the area, too—catch several performances every hour, with a different lineup each day. Near the Jam Station, players will recognize the percussion, the sound of the Roland TR-909 drums<ref>[https://x.com/thatskygame/status/1683915176959942657 Commentary by lead audio designer Ritsu Mizutani]</ref>, available at the Anniversary Jam Station exclusively during this event!
+
+{{#ev:youtube|IFPNQbimx7g||inline|4th Anniversary Trailer}}
+
+=== Office Performance Schedule===
+Every hour starting at reset, there will be several performances by Spirits on the rooftop stage in the area, with a different lineup each day.
+{| class="article-table mw-collapsible mw-collapsed"
+|-
+!'''Days in July'''
+!'''Time & Event (Repeats every hour)'''
+|-
+|Daily
+|
+*xx:30 - Happy Birthday Song
+* xx:40 - Dance Party
+|-
+|17, 21, 25
+|
+* xx:00 - Skidmore Solo Performance with Jenova, Kyle, and Yoshi joining in for Encore
+*xx:10 - Jenova Piano Solo
+*xx:20 - Blood Moon Summoning Ritual with Atlas
+|-
+|18, 22, 26
+|
+*xx:00 - Creature Summoning with Julian
+*xx:10 - Mini Mode Cosplay with Nicolas
+*xx:20 - Running Around with Ktjn
+|-
+|19, 23, 27 
+|
+*xx:00 - Trio Performance from Skidmore, Vince, and Dylan
+*xx:10 - Through the Eyes of a Child with Yoshi, Ktjn, and Skidmore
+*xx:20 - Floating Giant Objects from Sam
+|-
+|20, 24, 28
+|
+*xx:00 - Hardcore Parkour/Fall Guys but Sky with Luke
+* xx:10 - Chase the Light with Morgan
+* xx:20 - The Fantastic Four Performance
+|}
+
+===Ticket Locations ===
+[[File:Skys-4th-Anniversary-TicketRotation-by-AztroMens.png|thumb|274x274px|Ticket Rotations by AztroMens]]
+A total of {{Cost|9 T|event=sky}} cupcake-shaped Tickets were available each day, with an additional {{Cost|2 T|event=sky}} available from a pizza slice-shaped Ticket exclusively on weekends:
+*{{Cost|4 T|event=sky}} hidden throughout the [[Secret Area]] (see locations below)
+*{{Cost|5 T|event=sky}} from the 4 cupcakes that appeared on the stage during the hourly performances: 
+** 1 at '''00:00''' (worth {{Cost|1 T|event=sky}})
+**1 at '''00:10''' (worth {{Cost|1 T|event=sky}})
+**1 at '''00:20''' (worth {{Cost|1 T|event=sky}})
+**1 at '''00:30''' (worth {{Cost|2 T|event=sky}})
+*Weekends (Friday - Sunday):  
+**{{Cost|2 T|event=sky}} from the pizza slice inside the office building's kitchen
+<gallery widths="125" spacing="small" captionalign="center">
+Sky-Anniversary-Cupcake-Ticket.png|A Sky Anniversary cupcake Ticket
+Sky-Anniversary-Pizza-Ticket.png|A Sky Anniversary pizza Ticket
+</gallery>
+{{Collapse
+|float= left
+|label= All Exact Ticket Locations
+|content=<u>'''Locations:'''</u>
+<u>'''Rotation A:'''</u>
+* {{Cost|1 T|event=sky}}Behind the stage, on top of the sunken window
+* {{Cost|1 T|event=sky}}To the left of the dance floor, on a picnic table
+* {{Cost|1 T|event=sky}}The front of the building, on the left staircase landing
+* {{Cost|1 T|event=sky}}Inside the building, in the meeting room
+<u>'''Rotation B:'''</u>
+* {{Cost|1 T|event=sky}}Behind the stage, on the left side
+* {{Cost|1 T|event=sky}}Inside the building, on the recording room's tea table
+* {{Cost|1 T|event=sky}}The front of the building, on the balcony above the main entrance 
+* {{Cost|1 T|event=sky}}Inside the building, in the floating pizza hallway 
+<u>'''Rotation C:'''</u>
+* {{Cost|1 T|event=sky}}To the right of the stage, on top of the speaker
+* {{Cost|1 T|event=sky}}To the right of the dance floor, on the sofa's tea table
+* {{Cost|1 T|event=sky}}The front of the building, at the Shrine next to the main door 
+* {{Cost|1 T|event=sky}}Inside the building, on the kitchen table }}<br>
+<br>
+Exclusively on weekends (Friday - Sunday), players could also buy up to 7 additional Tickets (costing {{Cost|2 AC}} each) from the Mini Spell Shop on the table next to the Anniversary Guide in the event area.
+
+{| class="article-table mw-collapsible mw-collapsed" style="float:right; text-align:center;"
+! colspan="4" |Ticket Rotations and Bonus Pizza Locations
+|-
+!Date
+!Rotation
+!Bonus Pizza Locations
+!Daily Total
+|-
+|July 17, 2023
+|A
+|None
+|{{Cost|{{#vardefineecho:D1|9}} T|event=sky}}
+|-
+| July 18, 2023
+|B
+|None
+|{{Cost|{{#vardefineecho:D2|9}} T|event=sky}}
+|-
+| July 19, 2023
+|C
+|None
+|{{Cost|{{#vardefineecho:D3|9}} T|event=sky}}
+|-
+|July 20, 2023
+|A
+|None
+|{{Cost|{{#vardefineecho:D4|9}} T|event=sky}}
+|-
+|July 21, 2023
+|B
+|1 pizza slice next to the refrigerator in the kitchen
+|{{Cost|{{#vardefineecho:D5|11}} T|event=sky}}
+|-
+|July 22, 2023
+|C
+|1 pizza slice on the second couch in the studio
+|{{Cost|{{#vardefineecho:D6|11}} T|event=sky}}
+|-
+| July 23, 2023 
+|A
+| 1 pizza slice next to the refrigerator in the kitchen
+|{{Cost|{{#vardefineecho:D7|11}} T|event=sky}}
+|-
+|July 24, 2023
+|B
+|None
+|{{Cost|{{#vardefineecho:D8|9}} T|event=sky}}
+|-
+|July 25, 2023
+|C
+|None
+|{{Cost|{{#vardefineecho:D9|9}} T|event=sky}}
+|-
+|July 26, 2023
+|A
+|None
+|{{Cost|{{#vardefineecho:D10|9}} T|event=sky}}
+|-
+|July 27, 2023
+|B
+|None
+|{{Cost|{{#vardefineecho:D11|9}} T|event=sky}}
+|-
+|July 28, 2023
+|C
+|1 pizza slice on the second couch in the studio
+|{{Cost|{{#vardefineecho:D12|11}} T|event=sky}}
+|-
+|July 29, 2023
+|A
+|1 pizza slice on the kitchen counter
+|{{Cost|{{#vardefineecho:D13|11}} T|event=sky}}
+|-
+|July 30, 2023
+|B
+|1 pizza slice on the second couch in the studio
+|{{Cost|{{#vardefineecho:D14|11}} T|event=sky}}
+|-
+! colspan="3" style="text-align:center;" |Total so far
+! style="text-align:center;" |{{Cost|{{#expr: ({{#var:D1}} + {{#var:D2}} + {{#var:D3}} + {{#var:D4}} + {{#var:D5}} + {{#var:D6}} + {{#var:D7}} + {{#var:D8}} + {{#var:D9}} + {{#var:D10}} + {{#var:D11}} + {{#var:D12}} + {{#var:D13}} + {{#var:D14}}) }} T|event=sky}}
+|}
+{{Friendship Tree
+|label  = Anniversary Guide
+|event = Sky Anniversary
+|image = Sky-Anniversary-Staff-2023.png
+
+|nodeC5 = {{Icon Name|Anniversary Confetti Launcher|icon}} 20 H
+|  labelC5 = {{Icon Name|Anniversary Confetti Launcher|name}}
+|  linkC5  = Sky Anniversary#{{Icon Name|Anniversary Confetti Launcher|name}}
+
+|nodeL4 = {{Icon Name|Anniversary Balloons|icon}} 30 C
+|  labelL4 = {{Icon Name|Anniversary Balloons|name}}
+|  linkL4  = Sky Anniversary#{{Icon Name|Anniversary Balloons|name}}
+|nodeC4 = Days_of_Sky_-_Medium_cake-spell-icon-Morybel-0146.png 4 C
+|  labelC4 = Medium Cake Spell
+|  linkC4  = Sky Anniversary#Birthday Cake Spells
+
+|nodeL3 = {{Icon Name|Anniversary Light Fence|icon}} 20 C
+|  labelL3 = {{Icon Name|Anniversary Light Fence|name}}
+|  linkL3  = Sky Anniversary#{{Icon Name|Anniversary Light Fence|name}}
+|nodeC3 = Days_of_Sky_-_Medium_cake-spell-icon-Morybel-0146.png 4 C
+|  labelC3 = Medium Cake Spell
+|  linkC3  = Sky Anniversary#Birthday Cake Spells
+|nodeR3 = {{Icon Name|Anniversary Party Lights|icon}} 46 T
+|  labelR3 = {{Icon Name|Anniversary Party Lights|name}}
+|  linkR3 = Sky Anniversary#{{Icon Name|Anniversary Party Lights|name}}
+
+|nodeL2 = {{Icon Name|Anniversary Birthday Flag|icon}} 20 C
+|  labelL2 = {{Icon Name|Anniversary Birthday Flag|name}}
+|  linkL2 = Anniversary#{{Icon Name|Anniversary Birthday Flag|name}}
+|nodeC2 = Days_of_Sky_-_Small_cake-spell-icon-Morybel-0146.png 2 C
+|  labelC2 = Small Cake Spell
+|  linkC2  = Sky Anniversary#Birthday Cake Spells
+|nodeR2 = {{Icon Name|Anniversary Sonorous Seashell|icon}} 46 T
+|  labelR2 = {{Icon Name|Anniversary Sonorous Seashell|name}}
+|  linkR2 = Sky Anniversary#{{Icon Name|Anniversary Sonorous Seashell|name}}
+
+|nodeR1 = {{Icon Name|4th Anniversary Hat|icon}} 8 T
+|  labelR1 = {{Icon Name|4th Anniversary Hat|name}}
+|  linkR1 = Sky Anniversary#{{Icon Name|4th Anniversary Hat|name}}
+|nodeL1 = musicE2 10 H
+|nodeC1 = Icon_warp.png  
+|  labelC1 = Teleport to the Office
+}}
+
+{{Clear}}
+
+===2023 New Cosmetics and Props===
+====Anniversary Plush====
+::'''"Squishes, bounces, and squeaks, oh my! Cuddle your very own little Oreo."'''
+The Anniversary Plush is a stuffed animal shaped like [[Oreo]] that you can hug and toss around for other players to squeeze as well. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]]. This Prop was introduced in 2023 for {{Cost|09.99 USD|refnote}} from the [[Premium Candle Shop]].
+{{#tag:gallery
+|{{Icon Name|Anniversary Plush|iap}} {{!}} {{Icon Name|Anniversary Plush|name}} IAP
+{{Icon Name|Anniversary Plush|icon}} {{!}} {{Icon Name|Anniversary Plush|name}} icon
+{{Icon Name|Anniversary Plush|real}} {{!}} {{Icon Name|Anniversary Plush|name}}
+Sky-Anniversary-Oreo-prop-on-your-back.png {{!}} {{Icon Name|Anniversary Plush|name}} on your back
+Sky-Anniversary-Oreo-prop-in-your-arms.png {{!}} Hugging the {{Icon Name|Anniversary Plush|name}}
+{{Icon Name|Anniversary Plush|spell}} {{!}} {{Icon Name|Anniversary Plush|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====4th Anniversary Hat====
+The 4th Anniversary Hat is a light blue jester's hat with four points. This [[Hair Accessory]] was introduced in 2023 for {{Cost|8 T|event=sky}} from the Anniversary Guide. It was only available during Sky's 2023 Anniversary.
+{{#tag:gallery
+|{{Icon Name|4th Anniversary Hat|icon}} {{!}} {{Icon Name|4th Anniversary Hat|name}} icon
+{{Icon Name|4th Anniversary Hat|real}} {{!}} {{Icon Name|4th Anniversary Hat|name}}
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Anniversary Sonorous Seashell====
+The Anniversary Sonorous Seashell is a white conch with multicolor triangles decorating the top. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]]. When activated, the mouth glows while playing the musical theme used during the Dance Party performance for the Sky Anniversary. This Prop was introduced in 2023 for {{Cost|46 T|event=sky}} from the Anniversary Guide.
+{{#tag:gallery
+|{{Icon Name|Anniversary Musical Shell Prop|icon}} {{!}} {{Icon Name|Anniversary Musical Shell Prop|name}} icon
+{{Icon Name|Anniversary Musical Shell Prop|real}} {{!}} {{Icon Name|Anniversary Musical Shell Prop|name}}
+Sky Anniversary Sonorous Seashell Prop on back.png {{!}} {{Icon Name|Anniversary Musical Shell Prop|name}} on your back
+{{Icon Name|Anniversary Musical Shell Prop|spell}} {{!}} {{Icon Name|Anniversary Musical Shell Prop|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+{{#ev:youtube|B0qYyMiPft8||inline|Item Showcase}}
+
+====Anniversary Party Lights====
+The Anniversary Party Lights is a square gray projector. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]]. When activated, it rises off the ground to project a colorful spotlight accompanied by spinning disco lights. This Prop was introduced in 2023 for {{Cost|46 T|event=sky}} from the Anniversary Guide.
+{{#tag:gallery
+|{{Icon Name|Anniversary Disco Light|icon}} {{!}} {{Icon Name|Anniversary Disco Light|name}} icon
+{{Icon Name|Anniversary Disco Light|real}} {{!}} {{Icon Name|Anniversary Disco Light|name}}
+Sky-Anniversary-Disco-Light-Prop-on-back.png {{!}} {{Icon Name|Anniversary Disco Light|name}} on your back
+{{Icon Name|Anniversary Disco Light|spell}} {{!}} {{Icon Name|Anniversary Disco Light|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+===New Spells===
+====Balloon Spell Shop====
+For the occasion, a Balloon [[Spell]] shop offers players a variety of funny Spell [[Hair Accessories]] made of balloons. These Spells were introduced in 2023 for:   
+*{{Cost|2 T|event=sky}} or {{Cost|4 C|event=sky}} for Spells from the Spell shop next to the drink stand.
+*{{Cost|1 T|event=sky}} for an instant buff from the Spirit at the drink stand
+<gallery widths="125" spacing="small" captionalign="center">
+Sky-Anniversary-Hair-Accessory-Balloon-icon-Morybel-0146.png|Balloon Spell shop icon
+Sky-Anniversary-Hair-accessory-Balloon-Krill-icon-Morybel-0146.png|Krill Hat Spell icon
+Sky-Anniversary-Balloon-Krill-Spell.png|Krill Hat Spell
+
+Sky-Anniversary-Hair-Accessory-Balloon-Crab-icon-Morybel-0146.png|Crab Hat Spell icon
+Sky-Anniversary-Balloon-Crab-Spell.png|Crab Hat Spell
+
+Sky-Anniversary-Hair-Accessory-Balloon-Crown-icon-Morybel-0146.png|Crown Hat Spell icon
+Sky-Anniversary-Balloon-Crown-Spell.png|Crown Hat Spell
+
+Sky-Anniversary-Hair-Accessory-Balloon-Jellyfish-icon-Morybel-0146.png|Jellyfish Hat Spell icon
+Sky-Anniversary-Balloon-Jellyfish-Spell.png|Jellyfish Hat Spell
+
+Sky-Anniversary-Hair-accessory-Balloon-Manta-icon-Morybel-0146.png|Manta Hat Spell icon
+Sky-Anniversary-Balloon-Manta-Spell.png|Manta Hat Spell
+</gallery>
+====Confetti Collar Spell====
+The Confetti Collar Spell is a blue fringe collar with white accents. This [[Neck Accessory]] Spell was introduced in 2023 for {{Cost|4 C|event=sky}} from the Spell shop in the Secret Area.
+
+<gallery widths="125" spacing="small" captionalign="center">
+Sky-Anniversary-Confetti-Collar-Spell-credit-Morybel.png|Confetti Collar Spell icon
+Sky-Anniversary-Confetti-Collar.png|Confetti Collar Spell
+</gallery>
+
+==Trivia==
+* There was a spell version of the [[#4th Anniversary Hat|4th Anniversary Hat]] in [[Sky Beta|Beta]].
+{{#tag:gallery
+|{{Icon Name|4th Anniversary Hat|spell}} {{!}} {{Icon Name|4th Anniversary Hat|name}} Spell icon (available in beta only)
+|widths=125|spacing=small|captionalign=center
+}}
+{{Clear}}
+
+==References==
+'''More information about Sky Anniversary 2023 can be found on [https://www.thatskygame.com/news/boogie-down-for-sky-s-4th-birthday ThatSkyGame's Website].'''
+<references />
+
+{{#lst:Sky Anniversary|Anniversary Navbox}}
+
+[[ja:Skyアニバーサリー/2023]]
+[[pt-br:Aniversário do Sky/2023]]
+[[ru:Годовщина Sky/2023]]

@@ -1,0 +1,19 @@
+{{Disambiguation}}
+'''Candle''' has several different meanings in Sky
+
+'''[[Currency]]''': The candles shown in the top left corner of the player interface are currency
+* '''[[Candle (Currency)]]''' ({{Candle}}): White candles are the most common currency used in sky.
+* '''[[Season Candle]]''': Season candles (yellow candles) are season-specific currency.
+* '''[[Ascended Candle]]''' ({{Ascended Candle}}): Special hard-to-get candles that are used to buy [[Wing Buffs]].
+
+'''[[Pieces of Light]] Sources''': Candles found placed throughout the realms of sky are sources of pieces of light.
+* '''Red Candles''': these are the most common source of pieces of light.
+* '''White Candles''': White candles are generally used to activate items in-game (e.g., chat benches, temple altars, etc.).  Most white candles do ''not''  provide pieces of light, but there are exceptions.
+* '''[[Treasure Candles]]''': Large clusters of red candles that provide 50 pieces of light (even though the clusters contain less than 50 candles)
+
+'''Player [[Flame]]''': When the player takes out their flame, they start carrying a candle that provides light and burns darkness.
+* '''Default flame''': The standard [[Flame]] is a red candle; the same candle is also used with the {{Emote|High Candle|inline_text}} expression, just held up higher.
+* '''White candle''': The player's flame becomes a white candle when purchasing items (e.g., when it represents [[Currency]]).  In particular, it is white when unlocking nodes in the [[Friendship Menu]].  If the transaction is not completed, the player continues to carry a white candle.  This candle is slightly brighter than the default red candle, and also has fewer side-effects on nearby friends.  Therefore, players who are being led (especially ones using piggyback) commonly have a white candle out to help recharge the leader.
+
+[[de:Kerze]]
+[[pt-br:Velas]]

@@ -1,0 +1,169 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Abyss-Spirit-Bumbling-Boatswain.png|Standard
+Abyss-Spirit-Bumbling-Boatswain-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Mask|infobox}}{{Spirit Item||Hairpiece|infobox}}{{Spirit Item||Cape|infobox}}
+|music     = {{Music Sheet|27}}
+|season    = Abyss
+|location  = Treasure Reef
+|ts        = August 18, 2025 (SV#10)<br>October 10, 2024 (#124)
+}}
+<section begin="Summary" />The '''Bumbling Boatswain''' is a [[Seasonal Spirit]] from the [[Season of Abyss]] who offers the {{Emote|Bumbling Boatswain|inline_text}} Expression. The Bumbling Boatswain is found in [[Treasure Reef]], next to the ladder leading up to the [[Abyss Guide]]'s ship. The collectibles [[Bumbling Boatswain#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Bumbling Boatswain|Mask|inline_text}}, a {{Spirit Item|Bumbling Boatswain|Hairpiece|inline_text}}, a {{Spirit Item|Bumbling Boatswain|Cape|inline_text}}, and {{Music Sheet|27|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:BumblingBoatswain_EN.png|thumb|320px|none|TGC's Promo image]]
+
+==Memory==
+<div>{{#ev:youtube|UP3-NnTg-ws||inline|Video Guide}}
+
+The Bumbling Boatswain can be found very near the [[Abyss Guide]]'s ship in [[Treasure Reef]] in [[Golden Wasteland]], where a ladder is placed like a bridge between the ship and the land. This Spirit has a [[Standard Memory|standard memory]] with 7 memory fragments and an unlimited overall [[Timed Memory|time limit]].<br>
+<br>
+As their memory unfolds, the Bumbling Boatswain, accompanied by the [[Abyss Guide]], can be seen going scavenging for resources that might help them do repairs on the ship. They find some wooden boards near a broken boat and take them back to the ship. Back on the ship, the Bumbling Boatswain promptly walks into a stick from a canopy tent before the Abyss Guide can warn them, making the planks they've collected fall onto their head. They rub their head in pain while the Abyss Guide reaches out to them, concerned.
+
+At the end of the memory, the Bumbling Boatswain rubs their head in pain while the Abyss Guide concernedly reaches towards them.<br>
+<br>
+[[File:04 GW Seasonal Spirit - Bumbling Boatswain.png|200px|thumb|none|Relive the Bumbling Boatswain's memory]]
+</div>
+{{Clear}}
+
+==Expression==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Bumbling-Boatswain-ouch-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Bumbling-Boatswain-ouch-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Bumbling-Boatswain-ouch-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Bumbling-Boatswain-ouch-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar rub their lowered head with their right hand, looking up every now and then, while drum and trombone sound effects play at the beginning of the Expression. Every time your avatar looks up, a small squeaking sound plays. Your avatar will continue rubbing their head until you move; when you do, your avatar will let their hand fall and quickly shake their head.
+*Level 2 makes the same motion as Level 1, with a big, orange exclamation mark flickering above your avatar's head during the beginning of the Expression, and orange circular ripples coming from the right hand as they rub their head.
+*Level 3 will make your avatar bend down and hold their chest with both hands, before breathing heavily, holding their chest in pain with their left hand, and supporting themselves on their right knee with their right hand, occasionally looking up and reaching forward with their left hand, while drum and descending trombone sound effects play at the beginning of the Expression. Your avatar will continue these actions until you move; when you do, your avatar will straighten up, their hand still on their chest, and take one last heavy breath.
+*Level 4 makes the same motion as Level 3, with orange circular ripples quickly coming from your avatar's back.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+==Cosmetics==
+===Mask===
+The [[Mask]] offered by this Spirit is a gray extinguished version of the [[Masks#Base Mask|Base Mask]] with a pale scar stretching across the entire face and a mid-length beard, costing {{Cost| 40 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|8 SC|season=Abyss}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Hairpiece">Hair Accessory</span>===
+The [[Hair Accessory]] offered by this Spirit is a big, fluffy, brown hat shaped like an acorn cap, costing {{Cost| 35 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's sixth node ({{Cost|80 SC|season=Abyss}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hairpiece|icon}} {{!}} The Hair Accessory icon
+{{Icon Name||Hairpiece|real}} {{!}} The Hair Accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Cape===
+The [[Cape]] offered by this Spirit is a dark blue overcoat with wide sleeves, a beige interior, and beige accent lines in the front, each line adorned with a turquoise square-shaped stone button, costing {{Cost| 70 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fifth node ({{Cost|56 SC|season=Abyss}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||Cape|interior}} {{!}} The Cape interior
+{{Icon Name||Cape|back}} {{!}} The Cape back
+{{Icon Name||Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Music Sheet==
+The Bumbling Boatswain offers {{Music Sheet|27}} [[Music Sheet]] #27, costing {{Cost| 15 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's third node ({{Cost|30 SC|season=Abyss}} total). It is a song in the key of F Major.<br>
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guide
+|content=
+{{#ev:youtube|RjRAu2LK5wM||inline|Music Sheet Video Guide by Ikejiji}}
+}}
+
+==Traveling Spirit==
+{{Friendship Tree Info
+| traveling
+| ts_dates=*October 10, 2024 (#124)
+| rs_dates= *August 18, 2025 (SV#10)
+}}
+<section begin='TS Friendship Tree' />{{Friendship Tree
+|spirit = Bumbling Boatswain
+|image  = Abyss-Spirit-Bumbling-Boatswain.png
+|season = Abyss
+
+|nodeC6 = Cape 70 C
+|nodeL5 = Hairpiece 35 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeR4 = music27 15 C
+|nodeC3 = wing
+|nodeL2 = Mask 40 C
+|nodeC2 = spellx 5 C
+|nodeR2 = Heart 3 C
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end='TS Friendship Tree' />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+No hints were given before the [[Bumbling Boatswain]]'s first appearance.
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Abyss}}
+<section begin='Season Friendship Tree' />{{Friendship Tree
+|spirit = Bumbling Boatswain
+|image  = Abyss-Spirit-Bumbling-Boatswain.png
+|type   = season
+|season = Abyss
+
+|nodeC7 = season_heart 3 SC AP
+|nodeL6 = spellx AP
+|nodeC6 = Hairpiece 24 SC
+|nodeL5 = Cape AP
+|nodeC5 = spellx 20 SC
+|nodeL4 = emote4 AP
+|nodeC4 = emote3 16 SC
+|nodeL3 = spell5 AP
+|nodeC3 = music27 12 SC
+|nodeL2 = Mask AP
+|nodeC2 = spellx 8 SC
+|nodeL1 = emote2 AP
+|nodeC1 = emote
+}}<section end='Season Friendship Tree' />
+
+==Unique Daily Quests==
+{{#section-h:Quests/Daily Quest Spirits|{{PAGENAME}}}}
+
+==Personality==
+On February 9 2022, TGC officially announced <ref name="Personality Tweet">https://twitter.com/thatskygame/status/1491577695888711683</ref> and introduced {{PAGENAME}} with the following personality traits: 
+
+*🛠️ On hand to repair anything on the ship
+*⚡ Loves to improve and tinker with things
+*💥 Has accidentally hit their thumb with a hammer too many times to count
+*🐚 Hobby: Collecting shells—just in case they’re useful
+
+==Trivia==
+*In [[Sky Beta|Beta]], the Bumbling Boatswain was first introduced as the Stumbling Shipwright.
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Season of abyss bumbling boatswain emote.jpg
+</gallery>
+
+==References==
+<references />
+
+[[de:Stümperhafter Schiffsjunge]]
+[[pt-br:Contramestre Trapalhão]]
+[[ru:Нерадивый боцман]]
+[[ja:おっちょこちょいな水夫長]]
+[[fr:Maître d'équipage maladroit]]

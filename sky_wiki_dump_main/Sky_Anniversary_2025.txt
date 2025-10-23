@@ -1,0 +1,694 @@
+{{SkyEvent
+| image = Days-of-Sky-2024-promo-image.jpg
+| previousevent = [[Sky Anniversary/2024|2024]]
+| nextevent = 
+| date = July 7 to August 17, 2025
+| years = {{#lst:Sky Anniversary|Anniversary Years}}
+}}
+{{#ev:youtube|4HglWHSuZn0||right|6th Anniversary Trailer}}
+It’s time for Sky’s 6th birthday, and this year’s celebration is so big it won’t fit in just the [[Update:Live 0.29.5 (325756 Android, Huawei, iOS, PlayStation, Steam, Switch)|0.29.5]] update! The first part of this six-week long event began on '''Monday, July 7, 2025, at 00:00 PDT (UTC-7)''' and continued until '''Sunday, August 17, 2025, at 23:59 PDT (UTC-7)''', lasting '''42''' days. For the duration of the event, the Anniversary Guide stood at [[Home]] and [[Aviary Village]], offering to teleport players to the anniversary version of the Aviary.
+
+A new passageway in the Aviary Village leads to an abandoned cinema. Help to restore it during the first part of the event, and find some delightful surprises along the way.
+
+The Anniversary party featured weekly quests that granted weekly [[Currency#Event Tickets|event currency]]. In other words, complete the weekly quest once it’s released, and it would reward a week’s batch of Event Tickets, instead of getting several per day for multiple days in a row. There’s more than cinema quests, of course—explore [[Aviary Village]] for new activities and returning favorites. Not to mention, the [[Secret Area]] accessible from the [[Vault of Knowledge]] was open to everyone too!
+
+Birthday hats for each year up to last year and the [[Sky Anniversary/2024#SkyFest 5th Anniversary T-shirt|SkyFest 5th Anniversary T-shirt]] are exclusive to the year they celebrate, but other birthday items from past years were back! Items introduced for Event Tickets last year could be unlocked this year with [[Currency|in-game currency]] such as Candles, Hearts, and Ascended Candles. Free trial [[Spells]] were available for all items (with the exception of the TGC Wireframe Cape).
+
+===Sky Cinema===
+{{Quote|For those who aspire to share their light and lift our hearts with their stories.}}
+The Sky Cinema is a reimagined version of the SkyFest Cinema, which was originally accessible through the Eye of Eden gate, and hosted the Developer Talk stage during SkyFest. Now, the entrance to the Developer Talk stage can be found to the left of the [[Aviary Village#Aviary Village Archway Café Counter|Aviary Village Archway Café Counter]]. To gain access, players must {{Icon|Icon flame.png}} light the three lanterns in front of the entrance to activate the mechanism, before using the {{Emote|Levitating Adept|inline_text}} Expression to clear the rocks blocking the entryway.
+
+During the second week of the event, players could restore the Sky Cinema by lighting the movie posters and using {{Emote|Pouty Porter|inline_text}} to reactivate the archways' lights. The six posters are inspired by iconic real-world films: My Neighbor Totoro, The Lion King, Jaws, Star Wars, Forrest Gump, and Jurassic Park. The restored Cinema features an [[Cosmetics#Outfit_Shrines|Outfit Shrine]] where players can change their cosmetics.
+
+In the room leading to the outdoor Cinema, two Guide Spirits stood, offering [[Premium Candle Shop|IAP]] and in-game currency items, respectively. Additionally, the nearby popcorn machine offers a [[Sky Anniversary#Anniversary Cinema Set|Cinema Popcorn Bucket]] Spell for {{Cost|2 C}}, limited to two Spells per day.<br>
+<br>
+<gallery widths="175" spacing="small" captionalign="center">
+Sky-Anniversary-Cinema-entrance.JPG|The Sky Anniversary Cinema entrance, before being cleared
+Sky-Anniversary-Cinema-Forest-Gump-poster.JPG|''Forrest Gump'' inspired poster
+Sky-Anniversary-Cinema-Jawas-poster.JPG|''Jaws'' inspired poster
+Sky-Anniversary-Cinema-Jurassic-Park-poster.JPG|''Jurassic Park'' inspired poster
+Sky-Anniversary-Cinema-Lion-king-poster.JPG|''The Lion King'' inspired poster
+Sky-Anniversary-Cinema-Star-wars-poster.JPG|''Star Wars'' inspired poster
+Sky-Anniversary-Cinema-Totoro-poster.JPG|''My Neighbor Totoro'' inspired poster
+Sky-Anniversary-Cinema-Sky-The-Two-Embers-Part-One-poster.png|''[[Sky: The Two Embers|Sky: The Two Embers: Part One]]''
+</gallery>
+
+===Anniversary Activities===
+During Sky's 6th Anniversary, there were eight activities which rotated daily; they repeated every eight days in the following order, starting on '''Monday, July 7, 2025''': Oreo's Playground, Ball Game, Art of Sky Gallery, Micro Mode, Sky Tower, Pool Party, TGC Office, History of Sky Gallery.
+
+{| class="article-table mw-collapsible mw-collapsed"
+|-
+! style="text-align:center" colspan="7" | Activities by date
+|-
+! Date
+! Activity
+|-
+| July 7, 15, 23, 31 & Aug 7,  15
+| Oreo's Playground
+|-
+| July 8, 16, 24 & Aug 1, 8, 16
+| Ball Game
+|-
+| July 9, 17, 25 & Aug 2, 9, 17
+| Art of Sky Gallery
+|-
+| July 10, 18, 26 & Aug 3, 10
+| Micro Mode
+|-
+| July 11, 19, 27 & Aug 3,  11
+| Sky Tower
+|-
+| July 12, 20, 28 & Aug 4, 12
+| Pool Party
+|-
+| July 13, 21, 29 & Aug 5, 13
+| TGC Office
+|-
+| July 14, 22, 30 & Aug 6, 14
+| History of Sky Gallery
+|}
+
+====Oreo's Playground====
+Oreo’s Playground takes place in a version of [[Aviary Village]] filled with playful [[Oreo]] dogs during the occasion. Players could collect scattered [[Pieces of Light]] from small Oreos on the ground, [[Friendship Menu#Chat|Chat]] atop a large Oreo’s head, soar through the sky on flying Oreos, and be launched into the air by the joyful bark of a giant Oreo’s face.<br>
+<br>
+{{#ev:youtube|K2ZyEf5rGRs|300|left|Oreo's Playground Video Walkthrough}}
+<gallery widths="175" spacing="small" captionalign="center">
+Sky-Anniversary-Oreo-playground-at-night.JPG
+Sky-Anniversary-Oreo-playground-large-face.JPG
+</gallery>
+{{Clear}}
+====Ball Game====
+Based on a mini-game from the [[AURORA Encore Concerts]] – The Great Spheres, the Ball Game has been reimagined for players to enjoy in the [[Aviary]], tucked behind the broken Bell Tower. As players score goals, [[Pieces of Light]] become collectible within the giant goal structures.<br>
+<br>
+{{#ev:youtube|Ai2kH20Zdow|300|left|Ball Game Video Walkthrough}}
+<!--<gallery widths="175" spacing="small" captionalign="center"></gallery>-->
+{{Clear}}
+====Art of Sky Gallery====
+The Art of Sky Gallery transports players to a wireframe version of the [[Hidden Forest]]; a raw, untextured space that reveals the realm in its early design stages. There, players could explore concept art from across the kingdom and experience the evolving emotional tone of the game’s world. Pieces of light could be collected with every lantern lit.
+<!--<gallery widths="175" spacing="small" captionalign="center"></gallery>-->
+{{Clear}}
+====Micro Mode====
+In Micro Mode, Skykids were reduced to a tiny size, making the world around them feel enormous.  Players could collect scattered mini gift bags on the ground for extra light, turning exploration into a toy-like adventure. Tiny mode was also active in the shops.  
+<!--<gallery widths="175" spacing="small" captionalign="center"></gallery>-->
+====Sky Tower====
+Sky Tower is a chaotic climbing game where players scale an unstable mountain made of randomly stacked floating props and game components, while being capeless. The goal is to jump from one item to the other and maintain balance to reach the top without falling. Players could gather pieces of light falling from the top of the Tower.<br>
+<br>
+{{#ev:youtube|n_qOk97Lffw|300|left|Sky Tower Video Walkthrough}}
+<gallery widths="175" spacing="small" captionalign="center">
+Sky-Anniversary-Sky-Tower.jpeg|Overview of the Sky Tower
+</gallery>
+{{Clear}}
+====Pool Party====
+The Pool Party floods part of [[Aviary Village]], turning it into a large pool park. Players could collect light from a giant eel and clams scattered across the seabed. Entrances and the areas near the Constellation Table and Anniversary Guide are protected by a bubble where players can move as usual. The Pool Party area features a large floating tube, a few floating props that can be used, {{Days Item|Sunlight Surfboard|icon|label=Surfboards|inline_text}}, and beach balls for a fun game with friends.<br>
+<br>
+{{#ev:youtube|Nfkb02haoaI|300|left|Pool Party Video Walkthrough}}
+{{Clear}}
+====TGC Office====
+The Office was open to everyone as part of the celebrations to rediscover last year’s events, featuring hourly birthday sing‑alongs and dance parties on the rooftop, along with special Spirit performances such as Skidmore’s solos and ensemble encores, creature‑summoning rituals, parkour showcases, cosplay segments, and more. 
+<!--<gallery widths="175" spacing="small" captionalign="center"></gallery>-->
+{{Clear}}
+====History of Sky Gallery====
+The History of Sky Gallery takes players to a wireframe version of the Isle of Dawn, showcasing the realm in its earliest design phase. Within this untextured space, players can explore the origins of TGC, discover behind-the-scenes insights, celebrate the team’s achievements, and learn about the game's recognitions earned along the journey. Pieces of light were gathered with each lantern lit.
+<!--<gallery widths="175" spacing="small" captionalign="center"></gallery>-->
+
+===Ticket Locations===
+[[File:Days-of-Sky-Star-Ticket.png|125px|thumb|A Days of Sky Star Ticket]]
+
+A total of {{Cost|30 T|event=Skyfest}} star-shaped Tickets were available to collect in the [[#Sky Cinema|Sky Cinema]] hallway every week, in return for completing a weekly Cinema Quest.
+In addition, 15 one-time Event Tickets shaped like Stars were hidden throughout [[Aviary Village]], each granting {{Cost|2 T|event=SkyFest}}. (See Ticket locations below) <small>The first Ticket batch appeared with Patch {{v|0.29.5}}, and the remaining ones during {{v|0.30.0}}.</small>
+<gallery widths="300px" captionalign="center" position="left">
+File:Sky-Anniversary-2025-Ticket-Locations.png|Ticket locations by Kion_Anzu
+</gallery>
+Players could also buy additional Tickets (costing {{Cost|2 AC}} or {{Cost|6 C}} each) from the mini [[Spell Shops]] at the [[Aviary Village]] and Sky Cinema, or from the Anniversary Gift Box in the [[Secret Area]].<br>
+<br>
+{{Collapse
+|float= left
+|label= All Exact Ticket Locations
+|content=<u>'''Locations:'''</u>
+*Back of the village
+**{{Cost|1 T|event=Skyfest}} near the back of the village, in front of the [[Aviary Village#Tranquil Garden|Tranquil Garden]] entrance
+**{{Cost|1 T|event=Skyfest}} on the hill above the [[Aviary Village#Harmony Hall|Harmony Hall]] building, in front of the windows
+**{{Cost|1 T|event=Skyfest}} to the right of the entrance to the [[Aviary Village#Harmony Hall|Harmony Hall]] building
+**{{Cost|1 T|event=Skyfest}} in front of the Sky Cinema, by the [[Aviary Village#Outfit Workshop|Outfit Workshop]]
+**{{Cost|1 T|event=Skyfest}} in front of the [[Aviary Village#Dye Workshop|Dye Workshop]] entrance
+**{{Cost|1 T|event=Skyfest}} on the hill above the [[Aviary Village#Dye Workshop|Dye Workshop]], near some large pots
+
+*Central Plaza
+**{{Cost|1 T|event=Skyfest}} left of the [[Aviary Village#Hair Salon|Hair Salon]], on the path by a blue banner
+**{{Cost|1 T|event=Skyfest}} to the left of the [[Aviary Village#Aviary Event Store|Aviary Event Store]]
+**{{Cost|1 T|event=Skyfest}} at the center of the bridge that leads to the [[Aviary Village#Aviary Village Nests|Nest]]
+**{{Cost|1 T|event=Skyfest}} between the belltower and the [[Aviary Village#Aviary Village Nests|Nest]], on the ledge by the columned hallway
+**{{Cost|1 T|event=Skyfest}} to the left of the crumbling belltower by the entrance, next to the river on the raised ledge by the clouds
+
+*Front entrance
+**{{Cost|1 T|event=Skyfest}} to the right of the stairs at the entrance, on top of the small belltower
+**{{Cost|1 T|event=Skyfest}} to the right of the stairs at the entrance, next to the stone railing
+**{{Cost|1 T|event=Skyfest}} in the crumbling belltower by the entrance, on the second ledge up and towards the right side
+**{{Cost|1 T|event=Skyfest}} in the crumbling belltower by the entrance, on the second ledge up and in front of the second bell from the left
+}}
+{{Friendship Tree
+|label  = Anniversary Guide
+|event = Skyfest
+|image = Sky-Anniversary-Guide-2025.png
+
+|nodeC8 = {{Icon Name|Anniversary Party Lights|icon}} 33 H
+|  labelC8 = {{Icon Name|Anniversary Party Lights|name}}
+|  linkC8 = Sky Anniversary/2023#{{Icon Name|Anniversary Party Lights|name}}
+
+|nodeL7 = {{Icon Name|Anniversary Balloons|icon}} 30 C
+|  label7 = {{Icon Name|Anniversary Balloons|name}}
+|  linkL7  = Sky Anniversary/2022#{{Icon Name|Anniversary Balloons|name}}
+|nodeC7 = Days_of_Sky_-_Medium_cake-spell-icon-Morybel-0146.png 4 C
+|  labelC7 = Medium Cake Spell
+|  linkC7  = Sky Anniversary/2021#Birthday Cake Spells
+|nodeR7 = {{Icon Name|Anniversary Confetti Launcher|icon}} 20 H
+|  labelR7 = {{Icon Name|Anniversary Confetti Launcher|name}}
+|  linkR7  = Sky Anniversary/2022#{{Icon Name|Anniversary Confetti Launcher|name}}
+
+|nodeR6 = {{Icon Name|Anniversary Light Fence|icon}} 20 C
+|  labelR6 = {{Icon Name|Anniversary Light Fence|name}}
+|  linkR6  = Sky Anniversary/2022#{{Icon Name|Anniversary Light Fence|name}}
+|nodeC6 = Days_of_Sky_-_Medium_cake-spell-icon-Morybel-0146.png 4 C
+|  labelC6 = Medium Cake Spell
+|  linkC6  = Sky Anniversary/2021#Birthday Cake Spells
+|nodeL6 = {{Icon Name|Anniversary Sonorous Seashell|icon}} 33 AC
+|  labelL6 = {{Icon Name|Anniversary Sonorous Seashell|name}}
+|  linkL6 = Sky Anniversary/2023#{{Icon Name|Anniversary Sonorous Seashell|name}}
+
+|nodeL5 = musicE2 10 H
+|nodeC5 = Days_of_Sky_-_Medium_cake-spell-icon-Morybel-0146.png 4 C
+|  labelC5 = Medium Cake Spell
+|  linkC5  = Sky Anniversary/2021#Birthday Cake Spells
+|nodeR5 = {{Icon Name|Anniversary Birthday Flag|icon}} 20 C
+|  labelR5 = {{Icon Name|Anniversary Birthday Flag|name}}
+|  linkR5  = Sky Anniversary/2021#{{Icon Name|Anniversary Birthday Flag|name}}
+
+|nodeR4 = {{Icon Name|Star Jar|icon}} 35 C
+|  labelR4 = {{Icon Name|Star Jar|name}}
+|  linkR4 = Sky Anniversary/2024#{{Icon Name|Star Jar|name}}
+|nodeL4 = {{Icon Name|Jenova Fan|icon}} 21 C
+|  labelL4 = {{Icon Name|Jenova Fan|name}}
+|  linkL4 = Sky Anniversary/2024#{{Icon Name|Jenova Fan|name}}
+|nodeC4 = Days_of_Sky_-_Small_cake-spell-icon-Morybel-0146.png 2 C
+|  labelC4 = Small Cake Spell
+|  linkC4  = Sky Anniversary/2021#Birthday Cake Spells
+
+|nodeL3 = {{Icon Name|Anniversary Suit|icon}} 66 T
+|  labelL3 = {{Icon Name|Anniversary Suit|name}}
+|  linkL3  = Sky Anniversary#{{Icon Name|Anniversary Suit|name}}
+|nodeC3 = Days_of_Sky_-_Small_cake-spell-icon-Morybel-0146.png 2 C
+|  labelC3 = Small Cake Spell
+|  linkC3  = Sky Anniversary/2021#Birthday Cake Spells
+|nodeR3 = {{Icon Name|Sky Balloon prop|icon}} 16 T
+|  labelR3 = {{Icon Name|Sky Balloon prop|name}}
+|  linkR3  = Sky Anniversary#{{Icon Name|Sky Balloon prop|name}}
+
+|nodeL2 = {{Icon Name|6th Anniversary Hat|icon}} 16 T
+|  labelL2 = {{Icon Name|6th Anniversary Hat|name}}
+|  linkL2 = Sky Anniversary#{{Icon Name|6th Anniversary Hat|name}}
+|nodeC2 = Days_of_Sky_-_Small_cake-spell-icon-Morybel-0146.png 2 C
+|  labelC2 = Cake Spell
+|  linkC2  = Sky Anniversary/2021#Birthday Cake Spells
+|nodeR2 =  {{Icon Name|Anniversary Blue Carpet|icon}} 26 T
+|  labelR2 = {{Icon Name|Anniversary Blue Carpet|name}}
+|  linkR2  = Sky Anniversary#{{Icon Name|Anniversary Blue Carpet|name}}
+
+|nodeR1 = {{Icon Name|Anniversary Movie Seats|icon}} 36 T
+|  labelR1 = {{Icon Name|Anniversary Movie Seats|name}}
+|  linkR1 = Sky Anniversary#{{Icon Name|Anniversary Movie Seats|name}}
+|nodeL1 = {{Icon Name|Anniversary Clapboard|icon}} 32 T
+|  labelL1 = {{Icon Name|Anniversary Clapboard|name}}
+|  linkL1 = Sky Anniversary#{{Icon Name|Anniversary Clapboard|name}}
+|nodeC1 = Days_of_Sky_-_Small_cake-spell-icon-Morybel-0146.png 2 C
+|  labelC1 = Cake Spell
+|  linkC1  = Sky Anniversary/2021#Birthday Cake Spells
+}}
+
+===<big>All Available Collectibles in 2025</big>===
+{| class="article-table"
+|+
+!Name!!Icon!!Type !!Cost !!Location!!Spell!!Spell Cost & Locations
+|-
+! colspan="7" style="text-align:center;" |From the 2025 Sky Anniversary Event
+|-
+|[[Sky Anniversary#{{Icon Name|TGC Wireframe Cape|name}}|{{Icon Name|TGC Wireframe Cape|name}}]]
+|{{Days Item|TGC Wireframe Cape||table}}
+|[[Cape]]
+|{{Cost|19.99 USD|refnote}}
+|<small>From the [[Office]] Guide</small>
+|
+|
+|-
+| rowspan="2" |[[Sky Anniversary#Anniversary Cinema Set|Anniversary Cinema Set]]
+|{{Days Item|Cinema 3D Glasses||table}}
+|[[Face Accessory]]
+| rowspan="2" |{{Cost|4.99 USD|ref}}
+| rowspan="2" |<small>[[Premium Candle Shop]]</small>
+|{{Days Item|Cinema 3D Glasses|spell|table}}<small>x3</small>
+|<small>Anniversary Gift Box at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]] for free</small>
+|-
+|{{Days Item|Anniversary popcorn prop||table}}
+|[[Prop]]
+|{{Days Item|Anniversary popcorn prop|spell|table}}<small>x3 and x1</small>
+||<small>Anniversary Gift Box at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]] for free, and from the popcorn machine at the Sky Cinema for {{Cost|2 C}}</small>
+|-
+|[[Sky Anniversary#{{Icon Name|Anniversary Clapboard|name}}|{{Icon Name|Anniversary Clapboard|name}}]]
+|{{Days Item|Anniversary Clapboard||table}}
+|[[Prop]]
+|{{Cost|32 T|event=Skyfest}}
+|<small>Anniversary Guide at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]]</small>
+||{{Days Item|Anniversary Clapboard|spell|table}}<small>x3</small>
+|<small>Anniversary Gift Box at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]] for free</small>
+|-
+|[[Sky Anniversary#{{Icon Name|6th Anniversary Hat|name}}|{{Icon Name|6th Anniversary Hat|name}}]]
+|{{Days Item|6th Anniversary Hat||table}}
+|[[Head Accessory]]
+|{{Cost|16 T|event=Skyfest}}
+|<small>Anniversary Guide at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]]</small>
+||{{Days Item|6th Anniversary Hat|spell|table}}<small>x3</small>
+|<small>Anniversary Gift Box at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]] for free</small>
+|-
+|[[Sky Anniversary#{{Icon Name|Anniversary Movie Seats|name}}|{{Icon Name|Anniversary Movie Seats|name}}]]
+|{{Days Item|Anniversary Movie Seats||table}}
+|[[Prop]]
+|{{Cost|36 T|event=Skyfest}}
+|<small>Anniversary Guide at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]]</small>
+|{{Days Item|Anniversary Movie Seats|spell|table}}<small>x3</small>
+|<small>Anniversary Gift Box at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]] for free</small>
+|-
+|[[Sky Anniversary#{{Icon Name|Balloon Arch Prop|name}}|{{Icon Name|Balloon Arch Prop|name}}]]
+|{{Days Item|Balloon Arch Prop||table}}
+|[[Prop]]
+|{{Cost|20 C}}
+|<small>Anniversary Gift Box at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]]</small>
+|
+|
+|-
+|[[Sky Anniversary#{{Icon Name|Anniversary Suit|name}}|{{Icon Name|Anniversary Suit|name}}]]
+|{{Days Item|Anniversary Suit||table}}
+|[[Outfit]]
+|{{Cost|66 T|event=SkyFest}}
+|<small>Anniversary Guide at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]]</small>
+|{{Days Item|Anniversary Suit|spell|table}}<small>x3</small>
+|<small>Anniversary Gift Box at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]] for free</small>
+|-
+|[[Sky Anniversary#{{Icon Name|Anniversary Blue Carpet|name}}|{{Icon Name|Anniversary Blue Carpet|name}}]]
+|{{Days Item|Anniversary Blue Carpet||table}}
+|[[Prop]]
+|{{Cost|26 T|event=SkyFest}}
+|<small>Anniversary Guide at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]]</small>
+|
+|
+|-
+|[[Sky Anniversary#{{Icon Name|Sky Balloon Prop|name}}|{{Icon Name|Sky Balloon Prop|name}}]]
+|{{Days Item|Sky Balloon Prop||table}}
+|[[Prop]]
+|{{Cost|16 T|event=SkyFest}}
+|<small>Anniversary Guide at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]]</small>
+|
+|
+|-
+| rowspan="2" |[[Sky Anniversary#Anniversary Gown Ensemble|Anniversary Gown Ensemble]]
+|{{Days Item|Anniversary Gown Dress||table}}
+|[[Outfit]]
+| rowspan="2" |{{Cost|9.99 USD|ref}}
+| rowspan="2" |<small>[[Premium Candle Shop]]</small>
+|{{Days Item|Anniversary Gown Dress|spell|table}}<small>x3</small>
+|<small>Anniversary Gift Box at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]] for free</small>
+|-
+|{{Days Item|Anniversary Slippers||table}}
+|[[Shoes]]
+|{{Days Item|Anniversary Slippers|spell|table}}<small>x3</small>
+||<small>Anniversary Gift Box at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]] for free</small>
+|-
+|[[Sky Anniversary#{{Icon Name|Anniversary Tuxedo Cape|name}}|{{Icon Name|Anniversary Tuxedo Cape|name}}]]
+|{{Days Item|Anniversary Tuxedo Cape||table}}
+|[[Cape]]
+|{{Cost|14.99 USD|refnote}}
+|<small>[[Premium Candle Shop]]</small>
+|{{Days Item|Anniversary Tuxedo Cape|spell|table}}<small>x3</small>
+||<small>Anniversary Gift Box at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]] for free</small>
+|-
+|[[Blessings (Spells)#Shared Space Spell|Shared Space Spell]]
+|
+|[[Spell]]
+|{{Cost|1 AC}}
+|
+|{{Icon|Shared Space Spell Icon Credit Ed.png|table|label=Shared Space Spell}}<small>x1</small>
+|<small>Anniversary Gift Box at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]]</small>
+|-
+|[[Blessings (Spells)#Shared Memory Spell|Shared Memory Spell]]
+|
+|[[Spell]]
+|{{Cost|2 C}}
+|
+|{{Icon|Shared-memory-spell-Morybel-0146.png|table|label=Shared Memory Spell}}<small>x1</small>
+|<small>Anniversary Gift Box at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]]</small>
+|-
+|[[Blessings (Spells)#Random Dye Blessing|Random Dye Spell]]
+|
+|[[Dyes]]
+|{{Cost|10 T|event=Skyfest}}
+|
+|{{Icon|Random-dye-icon-spell.png|table|label=Random Dye Blessing}}<small>x1</small>
+|<small>Anniversary Gift Box at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]]</small>
+|-
+! colspan="7" style="text-align:center;" |From the 2024 SkyFest Event
+|-
+|[[Sky Anniversary/2024#{{Icon Name|SkyFest Oreo Headband|name}}|{{Icon Name|SkyFest Oreo Headband|name}}]]
+|{{Days Item|SkyFest Oreo Headband||table}}
+|[[Hair Accessory]]
+|{{Cost|4.99 USD|refnote}}
+|<small>Anniversary NPC at the [[#Sky Cinema|Sky Cinema]] and [[Secret Area]]</small>
+|{{Days Item|SkyFest Oreo Headband|spell|table}}<small>x3</small>
+|<small>Anniversary Gift Box at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]] for free</small>
+|-
+|[[Sky Anniversary/2024#{{Icon Name|Star Jar|name}}|{{Icon Name|Star Jar|name}}]]
+|{{Days Item|Star Jar||table}}
+|[[Prop]]
+|{{Cost|35 C}}
+|<small>Anniversary Guide at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]]</small>
+|{{Days Item|Star Jar|spell|table}}<small>x3</small>
+|<small>Anniversary Gift Box at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]] for free</small>
+|-
+|[[Sky Anniversary/2024#{{Icon Name|Jenova Fan|name}}|{{Icon Name|Jenova Fan|name}}]]
+|{{Days Item|Jenova Fan||table}}
+|[[Prop]]
+|{{Cost|21 C}}
+|<small>Anniversary Guide at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]]</small>
+|{{Days Item|Jenova Fan|spell|table}}<small>x3</small>
+|<small>Anniversary Gift Box at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]] for free</small>
+|-
+! colspan="7" style="text-align:center;" |From the 2023 Sky Anniversary Event
+|-
+|[[Sky Anniversary/2023#{{Icon Name|Sky Anniversary Oreo Plush|name}}|{{Icon Name|Sky Anniversary Oreo Plush|name}}]]
+|{{Days Item|Sky Anniversary Oreo Plush||table}}
+|[[Prop]]
+|{{Cost|9.99 USD|refnote}}
+|<small>Anniversary NPC at the [[#Sky Cinema|Sky Cinema]] and [[Secret Area]]</small>
+|{{Days Item|Sky Anniversary Oreo Plush|spell|table}}<small>x3</small>
+|<small>Anniversary Gift Box at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]] for free</small>
+|-
+|[[Sky Anniversary/2023#{{Icon Name|Sky Anniversary Musical Shell Prop|name}}|{{Icon Name|Sky Anniversary Musical Shell Prop|name}}]]
+|{{Days Item|Sky Anniversary Musical Shell Prop||table}}
+|[[Prop]]
+|{{Cost|33 AC}}
+|<small>Anniversary Guide at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]]</small>
+|{{Days Item|Sky Anniversary Musical Shell Prop|spell|table}}<small>x3</small>
+|<small>Anniversary Gift Box at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]] for free</small>
+|-
+|[[Sky Anniversary/2023#{{Icon Name|Sky Anniversary Disco Light Prop|name}}|{{Icon Name|Sky Anniversary Disco Light Prop|name}}]]
+|{{Days Item|Sky Anniversary Disco Light Prop||table}}
+|[[Prop]]
+|{{Cost|33 H}}
+|<small>Anniversary Guide at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]]</small>
+|{{Days Item|Sky Anniversary Disco Light Prop|spell|table}}<small>x3</small>
+|<small>Anniversary Gift Box at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]] for free</small>
+|-
+|[[Sky Anniversary/2023#Confetti Collar Spell|Confetti Collar Spell]]
+|
+|[[Spell]]
+|{{Cost|4 C}}
+|
+|{{Icon|Sky-Anniversary-Confetti-Collar-Spell-credit-Morybel.png|table|label=Confetti Collar Spell|in_page=1}}<small>x2</small>
+|<small>Anniversary Gift Box at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]]</small>
+|-
+|[[Sky Anniversary/2023#Balloon Spell Shop|Balloon Krill Hat Spell]]
+|
+|[[Spell]]
+|<small>Free and Random</small> 
+<small>for {{Cost|4 C}}</small>
+|
+|{{Icon|Sky-Anniversary-Hair-accessory-Balloon-Krill-icon-Morybel-0146.png|table|label=Balloon Krill Hat Spell|in_page=1}}<small>x3 and x1</small>
+|<small>Anniversary Gift Box at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]]</small>
+|-
+|[[Sky Anniversary/2023#Balloon Spell Shop|Balloon Manta Hat Spell]]
+|
+|[[Spell]]
+|<small>Free and Random</small> 
+<small>for {{Cost|4 C}}</small>
+|
+|{{Icon|Sky-Anniversary-Hair-accessory-Balloon-Manta-icon-Morybel-0146.png|table|label=Balloon Manta Hat Spell|in_page=1}}<small>x3 and x1</small>
+|<small>Anniversary Gift Box at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]]</small>
+|-
+|[[Sky Anniversary/2023#Balloon Spell Shop|Balloon Jellyfish Hat Spell]]
+|
+|[[Spell]]
+|<small>Free and Random</small> 
+<small>for {{Cost|4 C}}</small>
+|
+|{{Icon|Sky-Anniversary-Hair-Accessory-Balloon-Jellyfish-icon-Morybel-0146.png|table|label=Balloon Jellyfish Hat Spell|in_page=1}}<small>x3 and x1</small>
+|<small>Anniversary Gift Box at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]]</small>
+|-
+|[[Sky Anniversary/2023#Balloon Spell Shop|Balloon Crab Hat Spell]]
+|
+|[[Spell]]
+|<small>Free and Random</small> 
+<small>for {{Cost|4 C}}</small>
+|
+|{{Icon|Sky-Anniversary-Hair-Accessory-Balloon-Crab-icon-Morybel-0146.png|table|label=Balloon Crab Hat Spell|in_page=1}}<small>x3 and x1</small>
+|<small>Anniversary Gift Box at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]]</small>
+|-
+|[[Sky Anniversary/2023#Balloon Spell Shop|Balloon Crown Hat Spell]]
+|
+|[[Spell]]
+|<small>Free and Random</small> 
+<small>for {{Cost|4 C}}</small>
+|
+|{{Icon|Sky-Anniversary-Hair-Accessory-Balloon-Crown-icon-Morybel-0146.png|table|label=Balloon Crown Hat Spell|in_page=1}}<small>x3 and x1</small>
+|<small>Anniversary Gift Box at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]]</small>
+|-
+! colspan="7" style="text-align:center;" |From the 2022 Sky Anniversary Event
+|-
+|[[Sky Anniversary/2022#{{Icon Name|Anniversary Light Fence|name}}|{{Icon Name|Anniversary Light Fence|name}}]]
+|{{Days Item|Anniversary Light Fence||table}}
+|[[Prop]]
+|{{Cost| 20 C}}
+|<small>Anniversary Guide at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]]</small>
+|
+|
+|-
+|[[Sky Anniversary/2022#{{Icon Name|Anniversary Balloons|name}}|{{Icon Name|Anniversary Balloons|name}}]]
+|{{Days Item|Anniversary Balloons||table}}
+|[[Prop]]
+|{{Cost| 30 C}}
+|<small>Anniversary Guide at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]]</small>
+|
+|
+|-
+|[[Sky Anniversary/2022#{{Icon Name|Anniversary Confetti Launcher|name}}|{{Icon Name|Anniversary Confetti Launcher|name}}]]
+|{{Days Item|Anniversary Confetti Launcher||table}}
+|[[Prop]]
+|{{Cost| 20 H}}
+|<small>Anniversary Guide at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]]</small>
+|
+|
+|-
+|[[Sky Anniversary/2022#Happy Birthday Music Sheet|Happy Birthday Music Sheet]]
+|{{Music Sheet|E2}}
+|[[Music Sheet]]
+|{{Cost| 10 H }}
+|<small>Anniversary Guide at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]]</small>
+|
+|
+|-
+|[[Sky Anniversary/2022#TGC Guitar Pack|TGC Guitar Pack]] + {{Cost|115 C}}
+|{{Days Item|Blue Electric Guitar||table}}
+|[[Instrument]]
+|{{Cost | 29.99 USD | refnote}}
+|<small>From the [[Office]] Guide</small>
+|{{Days Item|Blue Electric Guitar|spell|table}}<small>x3</small>
+|<small>Anniversary Gift Box at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]] for free</small>
+|-
+! colspan="7" style="text-align:center;" |From the 2021 Sky Anniversary Event
+|-
+|[[Sky Anniversary/2021#{{Icon Name|Anniversary Birthday Flag|name}}|{{Icon Name|Anniversary Birthday Flag|name}}]]
+|{{Days Item|Anniversary Birthday Flag||table}}
+|[[Prop]]
+|{{Cost| 20 C}}
+|<small>Anniversary Guide at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]]</small>
+|
+|
+|-
+|[[Sky Anniversary/2021#Birthday Cake Spells|Small Birthday Cake Spell]]
+|
+|[[Spell]]
+|<small>Random for {{Cost|3 C}}</small>
+|
+|{{Icon|Days_of_Sky_-_Small_cake.png|table|label=Small Birthday Cake Spell|in_page=1}}<small>x1</small>
+|<small>Anniversary Guide and Anniversary Gift Box at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]]</small>
+|-
+|[[Sky Anniversary/2021#Birthday Cake Spells|Medium Birthday Cake Spell]]
+|
+|[[Spell]]
+|<small>Random for {{Cost|3 C}}</small>
+|
+|{{Icon|Days_of_Sky_-_Medium_cake.png|table|label=Medium Birthday Cake Spell|in_page=1}}<small>x1</small>
+|<small>Anniversary Guide and Anniversary Gift Box at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]]</small>
+|-
+|[[Sky Anniversary/2021#Birthday Cake Spells|Large Birthday Cake Spell]]
+|
+|[[Spell]]
+|<small>Random for {{Cost|3 C}}</small>
+|
+|{{Icon|Days_of_Sky_-_Large_cake.png|table|label=Large Birthday Cake Spell|in_page=1}}<small>x1</small>
+|<small>Anniversary Gift Box at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]]</small>
+|}
+
+===2025 New Cosmetics and Props===
+====TGC Wireframe Cape====
+::'''''"Commemorating magical moments in the world of Sky thanks to you. Allows revisiting the festive transformation of Aviary Village, History of Sky gallery, Art of Sky gallery, and Developer Talk stage."'''''
+<section begin="TGC Wireframe Cape" />The TGC Wireframe Cape allows the owner and anyone they're holding hands with to permanently access the Sky Anniversary version of [[Aviary Village]], though not the [[Secret Area]] and Cinema programming. While there are no visual changes to the [[Sky Anniversary/2024#SkyFest Wireframe Cape|SkyFest Wireframe Cape]] itself—aside from the absence of the scarf, new events tied to the Sky Anniversary will be added over time, increasing the Cape's value and appeal. Players who purchased the 2024 Cape will automatically gain access to all 2025 activities and scheduled content associated with it (and so forth), making it a lasting and evolving cosmetic tied to ongoing celebrations. The option to revisit the Anniversary festivities is enabled in the [[Expression Menu]]; simply open the [[Menus_and_Controls#Emote_Submenu|Emote Submenu]] with the item equipped and select the {{Days Item|TGC Wireframe Cape|icon}} Cape's icon to be teleported to the area.  The History of Sky and Art of Sky galleries available from the Isle of Dawn and Hidden Forest portals will be available 24/7 when using the Cape. 
+
+This [[Cape]] was introduced in 2025 and is available for {{Cost|19.99 USD|refnote}}  from the Spirit in the corridor at the [[Secret Area|Office]]. Unlike the SkyFest Wireframe Cape, which was only available in 2024, '''this item remained available after Sky Anniversary ended.'''<ref>"TGC Wireframe Cape: [...] Scheduled to remain available after Sky Anniversary ends." - {{v|0.29.5}} Patch Notes</ref><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|TGC Wireframe Cape|iap}} {{!}} {{Icon Name|TGC Wireframe Cape|name}} IAP
+{{Icon Name|TGC Wireframe Cape|icon}} {{!}} {{Icon Name|TGC Wireframe Cape|name}} icon
+{{Icon Name|TGC Wireframe Cape|front}} {{!}} {{Icon Name|TGC Wireframe Cape|name}} front
+{{Icon Name|TGC Wireframe Cape|interior}} {{!}} {{Icon Name|TGC Wireframe Cape|name}} interior
+{{Icon Name|TGC Wireframe Cape|real}} {{!}} {{Icon Name|TGC Wireframe Cape|name}} back
+{{Icon Name|TGC Wireframe Cape|exterior}} {{!}} {{Icon Name|TGC Wireframe Cape|name}} exterior
+|widths=125|spacing=small|captionalign=center
+}}<section end="TGC Wireframe Cape" />
+
+====Anniversary Cinema Set====
+::'''''"Every moment feels blockbuster-worthy with these retro red- and blue-tinted 3D glasses and popcorn bucket."'''''
+The Anniversary Cinema Set contains two items: the Cinema 3D Glasses and the Cinema Popcorn Bucket. The Cinema 3D Glasses are a [[Face Accessory]]—a pair of white vintage 3D glasses with one red lens and one blue lens, resembling the early models used in classic film and entertainment.  
+
+The Cinema Popcorn Bucket [[Prop]] is a classic rectangle popcorn bag filled with popcorn. The sides have vertical blue and white stripes that continue to the inside. The front and back are a plain blue with a white four-pointed star in the middle. When equipped, the player holds it in front of them, and when used, the player brings a handful of popcorn to their face in a playful eating animation. It cannot be placed and therefore cannot be used in [[Shared Spaces]]. 
+
+This set was introduced in 2025 and was available for {{Cost|4.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Anniversary 3D Glasses|IAP}} {{!}} {{Icon Name|Anniversary 3D Glasses|name}} 
+{{Icon Name|Anniversary popcorn prop|icon}} {{!}} {{Icon Name|Anniversary popcorn prop|name}} icon
+{{Icon Name|Anniversary popcorn prop|real}} {{!}} {{Icon Name|Anniversary popcorn prop|name}} 
+{{Icon Name|Anniversary popcorn prop|back}} {{!}} {{Icon Name|Anniversary popcorn prop|name}} on a player's back
+{{Icon Name|Anniversary popcorn prop|held}} {{!}} Holding the {{Icon Name|Anniversary popcorn prop|name}}
+{{Icon Name|Anniversary popcorn prop|spell}} {{!}} {{Icon Name|Anniversary popcorn prop|name}} Spell icon
+{{Icon Name|Anniversary 3D Glasses}} {{!}} {{Icon Name|Anniversary 3D Glasses|name}} icon
+{{Icon Name|Anniversary 3D Glasses|real}} {{!}} {{Icon Name|Anniversary 3D Glasses|name}}
+{{Icon Name|Anniversary 3D Glasses|spell}} {{!}} {{Icon Name|Anniversary 3D Glasses|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Anniversary Clapboard====  
+The Anniversary Clapboard is a worn black and white clapperboard, with a white four-pointed star against a blue background in the middle. When equipped, the player holds the open clapboard to the side, and when used, the player shuts the clapboard recreating the iconic “clap” movement at the start of recording. It cannot be placed and therefore cannot be used in [[Shared Spaces]]. This [[Prop]] was introduced in 2025 and was available for {{Cost|32 T|event=Skyfest}} from the Anniversary Guide at the [[Aviary Village]], [[Secret Area]], or Sky Cinema for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Anniversary Clapboard|icon}} {{!}} {{Icon Name|Anniversary Clapboard|name}} icon
+{{Icon Name|Anniversary Clapboard|real}} {{!}} {{Icon Name|Anniversary Clapboard|name}}
+{{Icon Name|Anniversary Clapboard|back}} {{!}} {{Icon Name|Anniversary Clapboard|name}} on a player's back
+{{Icon Name|Anniversary Clapboard|held}} {{!}} Holding the {{Icon Name|Anniversary Clapboard|name}}
+{{Icon Name|Anniversary Clapboard|spell}} {{!}} {{Icon Name|Anniversary Clapboard|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====6th Anniversary Hat====
+The 6th Anniversary Birthday Hat is a blue and white crown with dark blue linen inside. The crown is topped with a white star and the base is trimmed with a white, fluffy band. This [[Hair Accessory]] was introduced in 2025 and was available for {{Cost|16 T|event=Skyfest}} from the Anniversary Guide at the [[Aviary Village]], [[Secret Area]], or Sky Cinema for the duration of the event. In keeping with tradition, the number of stars on the hat is representative of the anniversary year, hence there are 6 on this year's hat. <small>(Since this is a numbered item for a specific birthday year, it is not scheduled to return in future years.)<ref>"Anniversary hats are available only the year of the anniversary that they celebrate." - {{v|0.29.5}} Patch Notes</ref></small><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|6th Anniversary Hat|icon}} {{!}} {{Icon Name|6th Anniversary Hat|name}} icon
+{{Icon Name|6th Anniversary Hat|real}} {{!}} {{Icon Name|6th Anniversary Hat|name}}
+{{Icon Name|6th Anniversary Hat|spell}} {{!}} {{Icon Name|6th Anniversary Hat|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Anniversary Movie Seats====
+The Anniversary Movie Seats are a pair of two seats with blue seat cushions, blue backrest cushions, and stone armrests on each side. It is a placeable Prop that can be used to decorate [[Shared Spaces]], and functions as a two-player [[Chat]] item. They appear as one seat on their owner's back when carried. This [[Prop]] was introduced in 2025 and was available for {{Cost|36 T|event=Skyfest}} from the Anniversary Guide at the [[Aviary Village]], [[Secret Area]], or Sky Cinema for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Anniversary Movie Seats|icon}} {{!}} {{Icon Name|Anniversary Movie Seats|name}} icon
+{{Icon Name|Anniversary Movie Seats|real}} {{!}} {{Icon Name|Anniversary Movie Seats|name}}
+{{Icon Name|Anniversary Movie Seats|back}} {{!}} {{Icon Name|Anniversary Movie Seats|name}} on a player's back
+{{Icon Name|Anniversary Movie Seats|using}} {{!}} Using the {{Icon Name|Anniversary Movie Seats|name}}
+{{Icon Name|Anniversary Movie Seats|spell}} {{!}} {{Icon Name|Anniversary Movie Seats|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Anniversary Suit====
+The Anniversary Suit consists of a low-cut white vest over a cream shirt, pleated slacks, black shoes, and a black, butterfly-shaped bow tie. This [[Outfit]] was introduced in 2025 on '''July 21, 2025''' and was available for {{Cost|66 T|event=Skyfest}} from the Anniversary Guide at the [[Aviary Village]], [[Secret Area]], or Sky Cinema for the duration of the event.<br><br>
+{{#tag:gallery
+|{{Icon Name|Anniversary Suit|icon}} {{!}} {{Icon Name|Anniversary Suit|name}} icon
+{{Icon Name|Anniversary Suit|real}} {{!}} {{Icon Name|Anniversary Suit|name}} front
+{{Icon Name|Anniversary Suit|spell}} {{!}} {{Icon Name|Anniversary Suit|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Anniversary Blue Carpet====
+The Anniversary Blue Carpet is a long rectangular blue mat featuring a white zig-zag star constellation pattern. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. When carried on its owner's back, it appears as a blue bag with a gray drawstring and rolled-up fabric poking out from the top flap. This [[Prop]] was introduced in 2025 on '''July 21, 2025''' and was available for {{Cost|26 T|event=Skyfest}} from the Anniversary Guide at the [[Aviary Village]], [[Secret Area]], or Sky Cinema for the duration of the event.<br><br>
+{{#tag:gallery
+|{{Icon Name|Anniversary Blue Carpet|icon}} {{!}} {{Icon Name|Anniversary Blue Carpet|name}} icon
+{{Icon Name|Anniversary Blue Carpet|real}} {{!}} {{Icon Name|Anniversary Blue Carpet|name}}
+<!--{{Icon Name|Anniversary Blue Carpet|back}} {{!}} {{Icon Name|Anniversary Blue Carpet|name}} on a player's back-->
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Sky Balloon Prop====
+The Sky Balloon Prop is three golden balloons that spell out "Sky" in the same shape as the game's logo. They are all connected to a small golden balloon weight. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. This [[Prop]] was introduced in 2025 on '''July 21, 2025''' and was available for {{Cost|16 T|event=Skyfest}} from the Anniversary Guide at the [[Aviary Village]], [[Secret Area]], or Sky Cinema for the duration of the event.<br><br>
+{{#tag:gallery
+|{{Icon Name|Sky Balloon prop|icon}} {{!}} {{Icon Name|Sky Balloon prop|name}} icon
+{{Icon Name|Sky Balloon prop|real}} {{!}} {{Icon Name|Sky Balloon prop|name}}
+<!--{{Icon Name|Sky Balloon prop|back}} {{!}} {{Icon Name|Sky Balloon prop|name}} on a player's back-->
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Balloon Arch Prop====
+The Balloon Arch Prop is an arch made of white, light blue, and dark blue balloons, arranged in a semi-circle. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. This [[Prop]] was introduced in 2025 on '''July 21, 2025''' and was available for {{Cost|20 C}} from the Anniversary Gift Box at [[Aviary]], the [[#Sky Cinema|Sky Cinema]], and [[Secret Area]] for the duration of the event.<br><br>
+{{#tag:gallery
+|{{Icon Name|Balloon Arch prop|icon}} {{!}} {{Icon Name|Balloon Arch prop|name}} icon
+{{Icon Name|Balloon Arch prop|real}} {{!}} {{Icon Name|Balloon Arch prop|name}}
+<!--{{Icon Name|Balloon Arch prop|back}} {{!}} {{Icon Name|Balloon Arch prop|name}} on a player's back-->
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Anniversary Gown Ensemble====
+::'''''"Become blue carpet ready with this elegant dress and these butterfly-adorned slippers."'''''
+
+The Anniversary Gown Ensemble contains two items: the Anniversary Gown and the Anniversary Slippers. 
+The Anniversary Gown [[Outfit]] is a strapless, Manta-themed, white and yellow dress with a short necklace and elbow-length gloves. It has a round silhouette and a small star in the center of the bodice. The Anniversary Slippers are a pair of white doll shoes, each decorated with a yellow butterfly at the heel.<br><br><!-- Descriptions from Oz-->{{Dye_Details
+|area1=a gradient strongest at the bottom of the skirt
+|cost1=2
+}}<br>
+
+This ensemble was introduced in 2025 and became available on '''Aug 11, 2025''' for {{Cost|9.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br><br>
+{{#tag:gallery
+|{{Icon Name|Anniversary Gown Dress|IAP}} {{!}} {{Icon Name|Anniversary Gown Dress|name}} 
+{{Icon Name|Anniversary Gown|icon}} {{!}} {{Icon Name|Anniversary Gown|name}} icon
+{{Icon Name|Anniversary Gown|real}} {{!}} {{Icon Name|Anniversary Gown|name}} 
+{{Icon Name|Anniversary Gown|spell}} {{!}} {{Icon Name|Anniversary Gown|name}} Spell icon
+{{Icon Name|Anniversary Slippers}} {{!}} {{Icon Name|Anniversary Slippers|name}} icon
+{{Icon Name|Anniversary Slippers|real}} {{!}} {{Icon Name|Anniversary Slippers|name}}
+{{Icon Name|Anniversary Slippers|spell}} {{!}} {{Icon Name|Anniversary Slippers|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Anniversary Tuxedo Cape====
+::'''''"A sophisiticated addition to any blue carpet ensemble."'''''
+
+The Anniversary Tuxedo Cape is cream with wide, black peak lapels and interior. The front is short, while the back is long and split into two rounded ends, like a tailcoat. The left lapel is decorated with a gold and green flower corsage.<br><br>
+{{Dye_Details
+|area1=the interior
+|cost1=3
+|area2=the topmost flower of the corsage
+|cost2=1
+}}
+This [[Cape]] was introduced in 2025 and became available on '''Aug 11, 2025''' for {{Cost|14.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br><br>
+{{#tag:gallery
+|{{Icon Name|Anniversary Tuxedo Cape|iap}} {{!}} {{Icon Name|Anniversary Tuxedo Cape|name}} IAP
+{{Icon Name|Anniversary Tuxedo Cape|icon}} {{!}} {{Icon Name|Anniversary Tuxedo Cape|name}} icon
+{{Icon Name|Anniversary Tuxedo Cape|front}} {{!}} {{Icon Name|Anniversary Tuxedo Cape|name}} front
+{{Icon Name|Anniversary Tuxedo Cape|interior}} {{!}} {{Icon Name|Anniversary Tuxedo Cape|name}} interior
+{{Icon Name|Anniversary Tuxedo Cape|real}} {{!}} {{Icon Name|Anniversary Tuxedo Cape|name}} back
+{{Icon Name|Anniversary Tuxedo Cape|exterior}} {{!}} {{Icon Name|Anniversary Tuxedo Cape|name}} exterior
+{{Icon Name|Anniversary Tuxedo Cape|spell}} {{!}} {{Icon Name|Anniversary Tuxedo Cape|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+{{Clear}}
+
+==References==
+'''More information about Sky Anniversary 2025 can be found on [https://www.thatskygame.com/news/sky-s-6th-anniversary-a-celebration-of-creativity-/ ThatSkyGame's Website].'''
+<references />
+
+{{#lst:Sky Anniversary|Anniversary Navbox}}

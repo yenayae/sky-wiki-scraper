@@ -1,0 +1,103 @@
+{{Season|title = Winter 2018 (Beta, Limited Live)|image = Winter18_Group.png|spirits = 6|nextSeason = [[Season of Gratitude (Spring 2019)]]}}
+: '''''Note: This page is from [[Sky: Light Awaits]], the BETA and LIMITED LIVE version of the game prior to iOS Global Release of Sky: Children of the Light. It will remain here for archival purposes, but please see the new [[Season of Rhythm]] page for the actual Global Live version of this season, which began January 2020.'''''
+
+The first season introduced during the game's limited live release was the unnamed Seasonal Event during '''Winter 2018'''. This Season began on December 20, 2018 and ended January 27, 2019. Five Seasonal Spirits were introduced: Aviary Curtsy, Prairie Dance, Forest Blowing Kisses, Vault Thinking, and Mountains Juggle. As it was the first ever structured Season in the game, it went through a number of tweaks and changes as various ideas and arrangements were introduced, tested, removed, and changed.
+* The "Juggling" expression was brand new to the game and only ever appeared in the cave at the Ice Rink in Mountains (Valley of Triumph)
+*The "Curtsy/Welcome" expression was moved from Vault of Knowledge to Aviary. The expression had long been a grayed-out, unavailable expression on the fourth level of Vault of Knowledge before it finally became an actual Expression during this Season.
+*The "Dance" and "Blowing Kisses" expressions were originally in Valley of Triumph: Dance in the Ice Rink, and Blowing Kisses in the Stadium.  
+* The "Thinking" expression was also an already-existing expression in the game, and it initially remained in its same location in Weeping Forest, so that there were two Seasonal Spirits in Forest. However, its Spirit Shop was not viewable at [[Home]]. It was then removed from the game for a while, to return later in the Season in its new home in Vault of Knowledge
+*The "Respect" expression was also new to the game, and at first appeared grayed out (and non-existent) in the first area of Wasteland. It was speculated that the expression would eventually become the sixth Seasonal Spirit, which it eventually did, and moved to its new location in the lower swamp area of Wasteland.
+
+=== Patch Update 0.4.5 ===
+On the release of Patch {{v|l0.4.5}} on Jan 12, 2019, a new system of staggered releases of seasonal spirits was implemented.
+* Four of the Seasonal Spirits remained unchanged, both in location and in Home maps
+* The Respect Expression was added to Wasteland. However, it was disabled for another day or two, with the Expression not collectible and the Spirit Shop not accessible at Home. Instead, there was a countdown of "one day to go" on release. Due to a bug, some players were able to collect Respect earlier than its release. On January 13 this Expression was made available in both Home and in Wasteland.
+* The Thinking Expression was moved completely and was grayed out (to a new player) in Vault. Players who already had the Expression still had it, but players who did not have it could not access it until its re-release eight days after the update, on January 20.
+* The Adventure Pass was updated with the number of days remaining. There were fifteen days left on the day of update 0.4.5's release, which brought the Winter Season to a close at the end of January on January 27, 2019.
+
+== Seasonal Expressions ==
+{{#tag:gallery
+|{{Icon Name|Troupe Greeter|emote}} {{!}} {{Icon Name|Troupe Greeter|emote_name}}
+{{Icon Name|Festival Spin Dancer|emote}} {{!}} {{Icon Name|Festival Spin Dancer|emote_name}}
+{{Icon Name|Admiring Actor|emote}} {{!}} {{Icon Name|Admiring Actor|emote_name}}
+{{Icon Name|Troupe Juggler|emote}} {{!}} {{Icon Name|Troupe Juggler|emote_name}}
+{{Icon Name|Respectful Pianist|emote}} {{!}} {{Icon Name|Respectful Pianist|emote_name}}
+{{Icon Name|Thoughtful Director|emote}} {{!}} {{Icon Name|Thoughtful Director|emote_name}}
+|widths=75|spacing=small|captionalign=center}}
+
+===Aviary: Curtsy ===
+<gallery widths="125" columns="2" spacing="small">
+Winter18-Emote_Map-Curtsy.png
+Winter18-Outfit Curtsy.png
+</gallery>
+
+=== Prairie: Dance ===
+<gallery widths="125" columns="2" spacing="small">
+Winter18-Emote Map Dance.png
+Winter18-Outfit Dance.png
+</gallery>
+
+=== Forest: Blowing Kisses ===
+<gallery widths="125" columns="2" spacing="small">
+Winter18-Emote Map blowing kisses.png
+Winter18-Outfit Blowing Kisses.png
+</gallery>
+
+=== Mountains: Juggle  ===
+<gallery widths="125" columns="2" spacing="small">
+Winter18-Emote Map Juggle.png
+Winter18-Outift Juggle.png
+</gallery>
+
+=== Wasteland: Respect ===
+<gallery widths="125" columns="2" spacing="small">
+Winter18-Emote Map Respect.png
+Winter18-Outfit Respect.png
+</gallery>
+
+=== Vault: Thinking ===
+<gallery widths="125" columns="2" spacing="small">
+Winter18-Emote Map Thinking.png
+Winter18-Outfit Thinking.png
+</gallery>
+
+== Cosmetics and Expressions ==
+[[File:Sky- Children of the Light- Winter Cosmetics and Emotes (limited availability)|none|thumb|330x330px]]
+
+== Season's End ==
+[[File:Sky- Light Awaits (Beta 0.4.6) Winter Season End Scene|none|thumb|330x330px]]
+
+== Gallery ==
+<gallery widths="125" spacing="small" captionalign="center">
+Winter-Season-Curtsy-promo-image-2.png
+Winter-Season-Prairie-promo-image.png
+Winter-Season-Forest-promo-image.png
+Winter-Season-Mountains-promo-image.png
+Winter-Season-Wasteland-promo-image.png
+Winter-Season-Vault-promo-image.png
+Winter18-Aviary Curtsy.png
+Winter18-Prairie Dance.png
+Winter18-Forest blow kisses.png
+Winter18-Valley Juggle.png
+Winter18-Wasteland Respect.png
+Winter18-Vault Thinking.png
+Winter18-Season's End Winter.png
+Winter-Season-Ice-Rink-promo-image.png
+Winter-Season-Promo-Seasonal-Candle.png
+Winter-Season-Promo-Seasonal-Candle-2.png
+Winter-Season-Promo-Spirits.png
+Winter-Season-Curtsy-promo-image.png
+Winter-Season-Promo-Holiday.png
+SkyChildrenAP1Assets001.png|Winter Sky children from the Sky Launch Press Kit
+UISeasonPassPromo.png
+</gallery>
+
+==Navigation==
+{{Navigation Box}}
+{{Seasonal Navbox}}
+
+[[pt-br:Inverno de 2018]]
+[[fr:Hiver 2018]]
+
+[[Category:Seasons]]
+[[Category:Sky: Light Awaits]]

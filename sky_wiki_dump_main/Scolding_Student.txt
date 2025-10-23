@@ -1,0 +1,154 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Assembly-Spirit-Scolding-Student.png|Standard
+Assembly-Spirit-Scolding-Student-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Mask|infobox}}{{Spirit Item||Hair|infobox}}{{Spirit Item||Cape|infobox}}
+|season    = Assembly
+|realm     = Hidden Forest
+|location  = Forest Clearing
+|ts        = December 5, 2024 (#128)<br>August 18, 2022 (#68)
+}}
+<section begin="Summary" />The '''Scolding Student''' is a [[Seasonal Spirit]] from the [[Season of Assembly]] who offers the {{Emote|Scolding Student|inline_text}} Expression. The Scolding Student is found in the third area of the [[Forest Clearing]] in [[Hidden Forest]], to the left of the exit gate, below the first treehouse steps. The collectibles [[#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Scolding Student|Mask|inline_text}}, a {{Spirit Item|Scolding Student|Hair|inline_text}}, and a {{Spirit Item|Scolding Student|Cape|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Scolding-Studing-TS-Promo-image.jpg|thumb|320px|none|TGC's Promo image]]
+
+==Memory==
+<div>{{#ev:youtube|PmGCb1-bD_E||inline|Video Guide}}
+
+The Scolding Student can be found in the third area of the [[Forest Clearing]] in [[Hidden Forest]], to the left of the exit gate, below the first treehouse steps. This Spirit has a [[Standard Memory|standard memory]] with 5 memory fragments and a 15-minute overall [[Timed Memory|time limit]].<br>
+<br>
+Players should be wary of the rain; it is advised to bring a friend to recharge or an umbrella if you have one. As with any spirits under the rain, it will expire if left too long under the rain, so be sure to collect the memory in time before it fades away.<br>
+<br>
+As their memory unfolds, the Baffled Botanist can be seen hiding behind the treehouse and looking at the Scolding Student, who seems to be examining different natural things around the threehouse. 
+
+At the end of the memory the Baffled Botanist can be seen kneeling in front of a lantern with their back to the Student. The Student scolds them but the Botanist stands up, turns around, and gives the light to the Student. The Scolding Student seems moved by the offering.<br>
+<br>
+[[File:02 HF Seasonal Spirit - Scolding Student.png|200px|left|thumb|Reliving the Scolding Student's memory]]
+</div>
+{{Clear}}
+
+==Expression==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Scolding-Student-scold-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Scolding-Student-scold-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Scolding-Student-scold-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Scolding-Student-scold-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+* Level 1 will make your avatar lean a bit forward and bend their head to the side, before raising their right arm and moving it in a scolding motion, while a tinking sound effect in rhythm with the arm's motion plays, the last note being in a higher pitch than the others.
+* Level 2 makes the same motion as Level 1, with a light-blue trail of light following the movement of your avatar's raised hand.
+* Level 3 will make your avatar abruptly stand up straight, putting their feet together and their hands on their hips before leaning forward and raising their right arm to make a scolding movement. At the end, they resume their position from the beginning and relax. During the Expression, a tinking sound effect plays in rhythm with the avatar's movements.
+* Level 4 makes the same motion as Level 3, with a light-blue trail of light following your avatar's hands.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+==Cosmetics==
+===Mask===
+The [[Mask]] offered by this Spirit is a round stone-grey mask with a small yellow triangle centered above the eyes, costing {{Cost|24 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's second node ({{Cost|10 SC|season=Assembly}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Hair===
+The [[Hair]] offered by this Spirit consists out of two three-strand braids that lay in the front, curtain bangs, and a green ribbon that is tied in a bow on top of the head and intertwines into the braids, costing {{Cost|50 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fourth node ({{Cost|44 SC|season=Assembly}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Cape===
+The [[Cape]] offered by this Spirit is a green and shaped like big droplets, bordered by a yellow edge, costing {{Cost|70 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fifth node ({{Cost|64 SC|season=Assembly}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||Cape|interior}} {{!}} The Cape interior
+{{Icon Name||Cape|back}} {{!}} The Cape back
+<!--{{Icon Name||Cape|exterior}} {{!}} The Cape exterior-->
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Traveling Spirit==
+{{Friendship Tree Info | traveling | ts_dates=* December 5, 2024 (#128)
+*August 18, 2022 (#68) <ref name="Android TS #68 Bug">On Android devices only, the TS arrived with a tree with a branch that had the Hair right above the Level 3 Expression and a branch to the right of the Level 3 Expression containing the 5-candle Blessing and Cape.</ref>}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Scolding Student
+|image  = Scolding Student Sprite.png
+|season = Assembly
+
+|nodeC6 = Cape 70 C
+|nodeL5 = Hair 50 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Mask 24 C
+|nodeC2 = spell5
+|nodeR2 = Heart 3 C
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+The hints given before the [[Scolding Student]]'s first appearance were: 
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=First Visit Hints
+|content=<div>
+*Has a mathematical way of thinking
+*Is disappointed in you for any plants you've accidentally killed
+*Dreams of making a grand discovery
+*Is starting to need glasses
+*[ikô] Doesn't like when their pizza rolls are ''slightly'' undercooked
+</div>
+}}
+
+==Season Friendship Tree==
+{{Friendship Tree Info | season | season=Assembly}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Scolding Student
+|image  = Scolding Student Sprite.png
+|type   = season
+|season = Assembly
+
+|nodeC6 = season_heart 3 SC AP
+|nodeL5 = Cape AP
+|nodeC5 = spell5 20 SC
+|nodeL4 = spell5 AP
+|nodeC4 = Hair 18 SC
+|nodeL3 = emote4 AP
+|nodeC3 = emote3 16 SC
+|nodeL2 = spell5 AP
+|nodeC2 = Mask 10 SC
+|nodeL1 = emote2 AP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Image Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+season of assembly shoot scolding expression.png
+season of assembly shoot group scolding.png
+</gallery>
+==Video Gallery==
+{{#ev:youtube|vRy9eyVQTX0||inline|Video Guide by Tara}}
+
+==References==
+<references />
+
+[[de:Schimpfende Schülerin]]
+[[pt-br:Estudante Esbravejante]]
+[[fr:Étudiante Moralisatrice]]
+[[ru:Ворчливая студентка]]
+[[ja:したり顔の生徒]]

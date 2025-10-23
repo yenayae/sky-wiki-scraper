@@ -1,0 +1,58 @@
+{{Spirit Infobox
+|type      = Regular
+|emote_type= Emote
+|image     = <gallery>
+Prairie-Spirit-Ceremonial-Worshiper.png|Standard
+Prairie-Spirit-Ceremonial-Worshiper-Gold.png|Ascended
+</gallery>
+|realm     = Daylight Prairie
+|location  = Eight Player Puzzle
+}}
+<section begin="Summary" />The '''Ceremonial Worshiper''' is a [[Regular Spirit]] in [[Daylight Prairie]] who offers the {{Emote|Ceremonial Worshiper|inline_text}} Expression. The Ceremonial Worshiper is found after the [[Eight Player Puzzle]] is completed, behind a two-player door requiring the {{Emote|Butterfly Charmer|inline_text}} Expression and a [[Spirit Gate]] requiring six Spirits from Daylight Prairie. This Spirit does not [[Ceremonial Worshiper#Friendship Tree|offer]] any collectibles.<section end="Summary" /><br>
+<br>
+[[File:Ceremonial-Worshiper-Guide-777-Ed.png|320x320px|thumb|none|Image Guide by 777.Ed]]
+
+== Memory ==
+<div>{{#ev:youtube|https://www.youtube.com/watch?v=QyxnF3E58Xg|||Video Guide by Tara||start=1070&end=1271&loop=1}}
+<br>
+The Ceremonial Worshiper can be found after the [[Eight Player Puzzle]] is completed, behind a two-player door requiring the {{Emote|Butterfly Charmer|inline_text}} Expression and a [[Spirit Gate]] requiring six Spirits from Daylight Prairie. This Spirit does not have a conventional [[Spirit Memories|memory]] quest; there is no kneeling figure that needs to be lit up.
+
+Instead, a cutscene (where the Ceremonial Worshiper and another Spirit are shown reaching towards the sky) is triggered once the [[Eight Player Puzzle]]'s elevated platform rises to a special area, after all eight golden disks are lit at the same time, and the red candles surrounding the raised platform are lit. All players in the area are then automatically granted the [[#Expression|Teamwork]] Expression.<br>
+<br>
+[[File:01 DP Spirit - Ceremonial Worshipper.png|200px|thumb|none|Relive the Ceremonial Worshiper's memory]]
+</div>
+{{Clear}}
+
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has only 1 Level with no upgrades. 
+
+This Expression provides more light than your normal [[Flame|Candle]], making it more effective at illuminating dark areas. It can also be used on typical Flame-activated doors - any time that your Flame has to activate a vertical line leading to an elevated diamond, the Teamwork Expression is better at reaching all the way up.<br>
+<br>
+[[File:{{Icon Name||emote}}|170px|left]]
+<gallery heights="125" captionalign="center">
+Ceremonial-Worshiper-teamwork-emote-level-1.gif|{{Icon Name||emote_name}}
+</gallery>
+
+*Teamwork will make your avatar take out their [[Flame|Candle]] and raise it above their head with both hands. If multiple players use this to touch their Candles together, it will create a camera flare effect (the same one seen around [[Children of Light]]) accompanied by a sound effect.
+
+== Friendship Tree ==
+{{Friendship Tree Info | regular}}
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Ceremonial Worshiper
+|image  = Prairie-Spirit-Ceremonial-Worshiper.png
+
+|nodeC4 = spell5
+|nodeC3 = wing 1 AC
+|nodeL2 = heart
+|nodeC2 = spell1
+|nodeC1 = emote
+}}<section end="Friendship Tree" />
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+new teamwork.png
+</gallery>
+
+[[de:Zeremonieller Verehrer]]
+[[pt-br:Adorador Cerimonial]]
+[[fr:Adorateur de cérémonie]]

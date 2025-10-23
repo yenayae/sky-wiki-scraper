@@ -1,0 +1,310 @@
+This page contains all '''Known Issues '''in Sky, including visual and audio problems, issues with gameplay and movement, and any other bugs or glitches encountered by players.
+
+Thatgamecompany does have a list of Known Issues available on the Support FAQ accessed through the Settings menu in Sky (also found on the [https://thatgamecompany.helpshift.com/a/sky-children-of-the-light/?s=known-issues-events Known Issues & Events] page on the TGC website for Sky). Here the developers list prominent and known bugs that will be resolved in the next update. Due to the frequency of game updates the issues on this page may have already been resolved by the time one reads this, or may otherwise not apply.
+
+This current page is an extension of TGC's Known Issues page and also serves to list all previous and fixed issues. It can be used as a reference for players to be aware of bugs in the game and to report them for the community as well. Newer issues will be player—reported and may only appear here.
+
+To find out if glitches and issues may have been addressed in patch updates, if not stated here, see the page [[Version History]] for all game update history.
+
+== Active Issues==
+Sometimes, it will be appropriate to categorize issues by geographic location, such as when they only show up in one room (e.g. Isle of Dawn, Vault of Knowledge). Other times, such as when a glitch affects a creature or graphic used elsewhere in the game, it will be more appropriate to categorize issues by game elements (e.g. Dark Dragons, Visual Effects). 
+
+===Device Specific Issues ===
+====Android ====
+Some active known issues on [[Android Information|Android]] platform are:
+
+* Text rendering issues experienced on some Android devices.
+* Some Android players may see a visual bug that renders their Sky kids hair as black instead of white. 
+
+====Playstation====
+Some active known issues on [[Sky for PlayStation|PlayStation]] platform are:
+
+* PlayStation friends list being empty despite having friends who have already played Sky - There is no fix for it as of May 2023, a workaround for it is friending using candles by joining a mutual friend or one of the players have to get sky on mobile to scan qr. 
+* Crashes when joining AURORA concert.
+* Wing Master and Skykid Sundae trophies do not unlock properly.
+
+* Getting "Successfully Unlinked" message when attempting to link Playstation Account to a Sky account on mobile - Might be fixed by logging on to Sky with Google account and linking PlayStation. 
+
+
+===[[Isle of Dawn]]===
+====Rainbow Bridge====
+<gallery columns="dynamic" widths="240" spacing="small" captionalign="center">
+RainbowBridge.jpeg
+RAINBOWgathering.jpeg|A gathering atop the Rainbow Bridge
+</gallery>
+A well-known “hangout” spot, also known as an [[OOB]]. The Rainbow Bridge is the nickname given by players for the large, thin multicolored block that appears about two-thirds of the way up into the clouds on the right side of the temple in Isle of Dawn. While most likely an unintentional glitch, the bridge is now fairly popular among players who are willing to take the arduous climb to reach it.
+
+This glitch is not a problem issue, and has in fact led to Rainbow Bridge becoming a place for players to meet and have fun.
+
+It was patched and removed in a [[Version History|patch update]] in January 2020 but then returned in the following January 30, 2020 patch update ({{v|0.8.1}}).
+
+====Isle of Dawn Temple====
+<gallery columns="dynamic" widths="240" spacing="small" captionalign="center">
+Dawntempleglitch1.JPG
+Dawntempleglitch2.JPG
+Dawntempleglitch3.JPG
+</gallery>
+It is possible for players to fly all the way around the temple area in Isle of Dawn, revealing a cut-away temple that players are able to interact with. It is unknown if this is a glitch or intentional, however it is different from interacting with any of the other temples, which require you to go through them in order to continue from the level, whereas here players are able to skip the temple and fly on to the next Realm.
+
+Players can fly around underneath the temple, and can see and hear other players inside, however the doors are shut and players cannot get inside to watch the cutscene without going through the front doors to the temple. Players often find themselves around the back of the temple after flying down from Rainbow Bridge.
+
+===[[Hidden Forest]]===
+====Darkness in Sunny Forest====
+<gallery columns="dynamic" widths="240" spacing="small" captionalign="center">
+Sunnydarknessglitch1.JPG
+Sunnydarknessglitch2.JPG
+</gallery>
+Since the changes made to Sunny Forest in patch update {{v|0.7.0}} some of the patches of darkness in the area have been moved around. One of these patches now seems to be stuck beneath the grass, and while the flame icon appears, prompting players to burn it to collect wax, only some of it will burn.
+
+====Second Bridge Not Rising====
+<gallery columns="dynamic" widths="240" spacing="small" captionalign="center">
+Second Bridge Not Rising .jpeg
+</gallery>
+An issue currently exists that occasionally causes the second bridge piece in the Broken Bridge area of the Hidden Forest not to rise after the pedestal is lit. However, the candles at the end of the bridge can still be lit and the rain will stop. This issue affects all players on the server but does not make the level unplayable. This issue has not been fixed.
+
+===[[Vault of Knowledge]]===
+
+==== Repository of Refuge ====
+From the [https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/faq/1112-known-issues-patch-0-21-0/ 0.21.0] update, players start at the top of the Repository of Refuge after viewing the Remembrance spirits quest cinematics.
+
+====Elder Cosmic Manta====
+<gallery columns="dynamic" widths="240" spacing="small" captionalign="center">
+Cosmicmantaglitch.JPG
+</gallery>
+If the player flies far out into the edges of Level 5 of Vault of Knowledge, or flies out during the cutscene upon entering the level, there is a glitch which affects the large Elder Cosmic Manta that appears in the level. The Manta's body is compromised and it appears to fold into itself as it moves, and when the player flies towards it it disappears entirely, making it impossible to complete the lantern task. Other players however may not see the glitch and can still complete the task.
+
+===Visual Effects (Chrome, Neon, Darkening)===
+<gallery widths="240" spacing="small" captionalign="center">
+Chrome1.JPG|Chrome bug at Daylight Prairie
+Chrome2.JPG|Chrome bug at Home Space
+</gallery>
+Oftentimes, bugs will appear that do not affect general "playability" but can interfere with a visual effect or cosmetic on the player's body. These issues can be quickly resolved by reloading the game.
+
+====Chrome / Metal Surfaces====
+<gallery columns="dynamic" widths="240" spacing="small" captionalign="center">
+Isle of Dawn-ChromeGlitch.jpeg|Chrome bug at Isle of Dawn
+</gallery>
+Among the most famous and, ironically, most-beloved is the oft-encountered “Chrome" or "Metal" bug, which renders all hard, rocky surfaces in the game with a slick, shiny metal texture. This seems to vanish upon restarting the game. Other small cosmetic bugs include temporarily seeing a neon, highly-saturated sheen on players' bodies, and a bug that darkens certain wearable accessories.
+
+====Different Pattern / Coloring in Clouds====
+<gallery widths="240" spacing="small" captionalign="center">
+Suha's Picture of clouds.jpg|Coloured clouds
+Distracting picture of clouds.jpg|Clouds with pattern
+</gallery>
+From the {{v|0.9.5}} update, some players have reported that they have seen clouds that are visually distracting, such as clouds that have holes in the middle, or clouds that have different coloring. Similar to the Whale Bone Issue, This occurs in Forest, and it seems to be left behind, unresolved. While there are only few players reporting to see this constantly, this issue seems to be distracting the visuals and the gameplay itself.
+
+===[[Dark Dragons]]===
+====Frozen Dark Dragons====
+<gallery widths="240" columns="2" spacing="small">
+Upperswampglitch.JPG|Dark Dragon stuck in the water in Upper Swamp
+Battlefielddragonglitch.JPG|Dragon stuck inside the gate in the Battlefield
+</gallery>
+Occasionally, Dragons will get stuck when emerging, which has been reported happening in the Upper Swamp and Battlefield areas of [[Golden Wasteland]]. If the player enters the Upper Swamp and walks far enough forwards to activate the Dark Dragon and then walks back to the entrance, when they walk forward again the Dragon may be stuck in the space where it appeared. The Dragon will not search the area and may be half-submerged in the water, but it will begin to move once a player is close enough to it. A similar thing happens when the Dark Dragons are activated near the end of Golden Wasteland in the Battlefield area, where it is possible for a Dragon to get stuck near the exit gate. It isn't known exactly why this glitch happens; however, it could be caused by players standing in certain areas when the Dragons emerge.
+
+====Glitchy Dragons====
+Sometimes, Dark Dragon's bodies can glitch out and shake or merge, similarly to the Elder Cosmic Manta above.
+
+===[[Spirits]]===
+====Spirits Unable to be Collected====
+Since the beginning of the [[Season of Rhythm]] there have been reoccurring issues when players try to collect Spirits, especially those needed to complete Daily Quests. For one of the Spirits (Hands on Hips Stance in Valley of Triumph) this issue has been ongoing since September 2019. Players will often find that they "chase" the Spirit to a certain point where the Spirit characters stop appearing and instead they are stuck with the floating orb of the Spirit, unable to be fully collected. The timer in the bottom left corner of the screen stays stuck at halfway or three-quarters of the way collected and can't be completed.
+
+Sometimes, as with the Valley Spirit, the Spirit (if already previously collected by the player) can't be "set off" or lit by a flame to be chased again for a Daily Quest.
+
+This problem has happened with several Spirits:
+*Butterfly Catcher in Daylight Prairie
+*Tearful Light Miner in Hidden Forest
+*Confident Sightseer in Valley of Triumph
+*Troupe Juggler in Valley of Triumph
+*Admiring Actor in Hidden Forest
+TGC is aware of these issues and have temporarily fixed some of the Spirits but they are still current issues. The only solution currently is to reset the realm/level and try again later, where the Spirit may be able to properly complete its course and be collected. Sometimes a player is collecting the Spirit for the first time, which usually means that any other players involved can collect it the whole way through, although sometimes it is still broken.
+
+====Circle of light====
+[[File:Circle of Light.jpg|thumb|A picture of the circle of light|alt=|240x240px]]
+
+The circle of light has appeared for previous spirits such as:
+
+*Pleaful Parent in Golden Wasteland
+* Laidback Pioneer in Hidden Forest
+* Chill Sunbather in Daylight Prairie
+
+When caught, the light slows down the player's movements and acts as if it's a valid "carry quest" even though it is not.  It prevents the player from holding hands with their friends, and separates friends when initially caught.  To get rid of the light, the player has to either fly high, pass the circle of light to another player, or exit through a gate and re-enter the area.
+
+===Other Issues===
+
+====Locked Dailies ====
+Players might experience a connection issue with their dailies where they appear as "locked" and have a "?" symbol. When dailies are locked they can't be completed or claimed. This can be fixed by restarting the game and tapping on the "!" at the home shrine again.
+
+====Teleportation====
+On some occasions, using the follow feature by tapping on another player or holding the hand of a friend can enable the player to “teleport” to a previously unreachable part of the game. Examples include, but are not limited to, teleporting through the ceiling of the Eight Player Puzzle by following a player already in the upper area; traveling through locked doors by holding the hand of a friend on the other side of the door through the door; and descending through the ”floor” of an upper level in Vault by following and holding the hand of a friend below the player. This can also occur when using the "Warp" feature.
+
+This glitch is not a problematic issue, and can in fact prove very useful when players are helping each other through Realms.
+
+====Shrill/High Pitched Calls====
+A current glitch exists that causes the Jellyfish and Manta calls to occasionally sound very high pitched to everyone in the realm, apart from the player making the call. This issue was previously addressed but seems to be back since the Season of Sanctuary has begun.
+
+====Spells ====
+Some amounts are not displayed when players view their spell inventory.
+
+==Resolved Issues==
+
+==== Nintendo Switch ====
+* Some switch players have experienced bugged shards since the {{v|0.20.0}} update, where they experience difference in location of darkness, shard fragments, light fragments and different memory compared to players on other platforms (iOS, Android and PlayStation). This was fixed with October 12 2023 patch ({{v|0.23.0}}).
+* Docked switch players are unable to cancel spells. - A workaround for it is canceling it on handheld mode. This was fixed with October 12, 2023 patch ({{v|0.23.0}}) which added a button to the spells tab in the emote menu that allows players to cancel an active spell.
+
+====Playstation====
+* Option to cancel an active spell missing for players on PlayStation. This was fixed with October 12, 2023 patch ({{v|0.23.0}}) which added a button to the spells tab in the emote menu that allows players to cancel an active spell.
+
+===[[Isle of Dawn]]===
+====Temple Light ====
+'''NOTE: This issue appears to have been fixed as of the September 27, 2019 patch ({{v|0.6.1}}).'''
+
+<gallery widths="240" columns="2" spacing="small">
+Isleglitch1.JPG
+Isleglitch2.JPG
+</gallery>
+A new issue which emerged following the {{v|0.6.0}} update patch on September 22, 2019. Every so often the light emanating from the Temple in Isle of Dawn would swell out in a black circle instead of being soft white light. This issue was addressed and fixed following an update.
+
+===[[Daylight Prairie]]===
+
+====Broken Sunny Forest Door====
+[[File:Forestcaveglitch.JPG|none|thumb|240px]]
+
+'''NOTE: This issue appears to have been fixed as of the November 22, 2019 patch ({{v|0.7.1}}).'''
+
+An issue arose with the exit of the Sunny Forest following the terrain changes and addition of a new area in the {{v|0.7.0}} update. When players exited Sunny Forest and entered the area with the Broken Bridge, the exit behind them would disappear and players found themselves without a way to get back into Sunny Forest. The lack of an exit/entrance was also apparent when trying to enter Sunny Forest from the Broken Bridge area, as the doorway was not there and instead it was a cave full of empty walls. This issue was quickly fixed in the following update.
+
+====Butterfly Spirit ====
+'''NOTE: This issue appears to have been fixed as of the July 31, 2019 patch ({{v|0.5.7}} aka 138952). This section will temporarily remain in case any remnant issues persist and for record keeping. '''
+
+The Butterfly Spirit in Fields at the entrance to the Fairy Dome could not be accessed/is invisible. However, if the player chose to enter the Fields area from a different area (the Nest area had worked for the author), the Butterfly spirit and its spirit quest would reappear for a limited time.
+
+====Dark Wardrobe Icons====
+[[File:Dark wardrobe icosn.jpeg|none|thumb|220x220px]]
+Since the 0.10.5 update, the wardrobe icons at the beginning of Prairie have appeared dark. This has been fixed with the October 2, 2020 patch update ({{v|0.11.0}}).
+
+====Dark Birds====
+[[File:Dark birds-.jpeg|none|thumb|220x220px]]
+Since the {{v|0.10.5}} update, the birds at the jump off point for Prairie were dark. This has been fixed with the October 2, 2020 patch update ({{v|0.11.0}}).
+
+===[[Hidden Forest]]===
+
+====Disappearing Ground in Sunny Forest====
+'''NOTE: This issue appears to have been fixed as of the December 12, 2019 patch ({{v|0.7.5}})'''
+
+If players entered Sunny Forest through the entrance near the Broken Bridges area, especially if they had previously just left Sunny Forest then quickly entered back into it via that entrance (often leaving to burn the darkness near the entrance before returning to Sunny Forest) there was an issue where the ground would disappear and players would fall through it and down to the clouds below the level.
+
+If players were quick enough and had enough wing power then they could fly/clip back through above the ground and it would appear again, however if players kept falling and were stuck below the level then they needed to leave and go to Home Space and try again.
+
+====Hollow Tree [[Child of Light]]====
+'''NOTE: This issue appears to have been fixed as of the December 12, 2019 patch ({{v|0.7.5}})'''
+
+Since patch update {{v|0.7.0}} there was been an issue with the Children of Light inside the hollow tree not appearing. Instead the inside of the hollow tree was not as deep as usual and was empty. It was likely that this glitch was connected to the changes made to the Realm inside Sunny Forest.
+
+====Disappearing Shrine====
+'''NOTE: This issue appears to have been fixed as of the October 27, 2019 patch ({{v|0.6.5}}).'''
+
+The Shrine/Elder Stone remaining hidden in the Temple area of Hidden Forest was an issue which arose following the removal of candles from the Shrine in patch update {{v|0.6.0}}. After lighting the rotating panel the Shrine is supposed to rise up from a hole in the ground, which lets players then kneel in front of it in order to progress to the next area - Forest's End. Instead, however, the Shrine did not appear and there didn't appear to be a way to open the doors to the next Realm. If players kneeled in the space where the Shrine was supposed to rise then the ground still glowed and players could continue on to the cut-scene and the doors opened to the Forest's End, however the Shrine remaining stuck under the ground was not supposed to happen. This issue was fixed in a following update.
+
+===[[Valley of Triumph]]===
+====Ice Rink Expression Daily Quest ====
+'''NOTE: This issue appears to have been fixed as of the October 27, 2019 patch ({{v|0.6.5}}).'''
+
+There was a problem encountered at the Ice Rink in Valley of Triumph where the Hands on Hips Stance Spirit did not appear when players needed to find it for a Daily Quest. TGC were aware of the problem and started working on fixing it, however as an alternative method, players could go to the ice rink, then teleport home (using the menu), wait a few seconds, and go back to Valley. Players spawned back at the Ice Rink, and kept doing this until the Spirit appeared. This issue was fixed in the following update, and as an addition all Spirits were improved following the {{v|0.7.0}} update where all Spirits became visible to players even if they had already found them, making them easier to locate for Daily Quests.
+
+====Ice Rink Spirit (Gratitude)====
+'''NOTE: This issue appears to have been fixed as of the July 31, 2019 patch ({{v|0.5.7}} aka 138952). '''
+
+The seasonal (Season of Gratitude) Ice Rink spirit (accessed via constellation gate) in Valley of Triumph was also missing, along with its spirit quest. As with the Butterfly Catcher spirit, reentering the Ice Rink from a different (side) area seemed to fix the problem and allowed players to access the spirit.
+
+====Premature Race End (since the September 22, 2019 {{v|0.6.0}} patch)====
+Another new issue which emerged following the {{v|0.6.0}} update patch on September 22, 2019. At the end of Valley of Triumph, when making the final journey down the sand dunes to the temple to end the level, players may find themselves suddenly in the cut-scene receiving a white candle in the Coliseum at the end of the race. Alternately, a spirit-like light appears on the left side of the track and if the player travels through it there is a fade-out as though a cut-scene will begin, then the level continues as normal. If the user goes back and goes through it again they will end the level prematurely and see the cut-scene of entering the Coliseum area and collecting their candle.
+
+====Spirit Body in Coliseum====
+At the end of the Coliseum, instead of a blue light, there will be a model of a burnable Spirit body. Despite this, it is impossible to actually burn it, since there is no prompt.
+
+
+===[[Vault of Knowledge]]===
+
+====Whale Bones====
+'''NOTE: This issue appears to have been fixed as of the December 12, 2019 patch ({{v|0.7.5}})'''
+<gallery widths="240" columns="2" spacing="small">
+Vaultbonesglitch1.JPG
+Vaultbonesglitch2.JPG
+</gallery>
+As of update {{v|0.7.1}} there have been a couple of visual/texture bugs with the Whale bones in the Vault of Knowledge.
+
+====Expression Drop====
+'''NOTE: This issue appears to have been fixed as of the September 28, 2021 patch ({{v|0.15.0}})'''
+<gallery columns="dynamic" widths="240" spacing="small" captionalign="center">
+Vaultglitch2.JPG|Player landing in Level 1 after using Butterfly Catcher emote
+Vaultglitch1.JPG|Player standing in Level 1 showing Butterfly Catcher emote
+</gallery>
+A recent issue (as of September 18, 2019) is a glitch that happens when using certain expressions in the Vault of Knowledge. Any expressions that require the player to move for it to stop allows this glitch to happen. Doing this in Level 2, 3 or 4 (it works until the floor rises in Level 4) causes the player to sink through the gravity field, and if used repeatedly sends the player down to the first level where they can land and can even walk around in the entrance to the room.
+
+If floating down from Level 2 the first level is not active and other players in the area cannot be seen, it is instead a frozen version of the room with a faint orange glow. When floating down from Level 3 the floors below are still empty but interactive and the player can collect light from candles on Level 1 and can read candles at the candle message spot on Level 2. When floating down from Level 4 the floors below are frozen and empty, and at the bottom is a blue room with the faint outline of the first level. The player will naturally rise back up to their level if unmoved, but can also get stuck "falling" in a lying down position.
+
+Aside from the player occasionally becoming stuck, this is not a problem issue, and can be fun for players to use with friends, and to return to either four-player doorways, which players sink into and can walk inside.
+
+====Telekinesis Emote Room====
+'''NOTE: This issue appears to have been fixed as of the January 13, 2022 patch ({{v|0.16.0}})'''[[File:Vaultlevel2glitch.JPEG|240x240px]]
+
+In Level 2 of Vault of Knowledge, it is possible to glitch through the entrance to the room containing the Telekinesis Expression without having four players activate and open the door. If a player jumps up against the left side of the door, they will occasionally "slip" inside without the door having slid open. Inside the room is interactive, however the door is still shut from the inside and appears as a solid wall. It is often difficult to leave the room in this state, and it is helpful to have a friend on the other side who you can hold hands with in order to be pulled out.
+
+===[[Eye of Eden]] (note: page contains spoilers for end of game)===
+====Inescapable Cavern ====
+'''NOTE: This issue appears to have been fixed as of the August 10, 2021 patch ({{v|0.14.5}})'''
+<gallery widths="300" columns="2" spacing="small">
+Edenglitch.JPG|The main area of the cavern, lit by fireworks
+Edenglitch2.JPG|The small dead end hole in the cavern, lit by fireworks
+</gallery>
+In the first area of Eye of Eden there is a gap in the steps upwards which is notoriously hard to jump over. Sometimes players may find themselves falling down this gap and glitching through the stones into a small cavern which is impossible to leave. The cavern contains walls on all sides which players are unable to scale due to the winds of Eden pushing against them and stopping them from taking flight. One side is a high wall with a small gap visible at the top, and the other side ends in a small cubic hole which is a dead end. Falling into this area can be frustrating for players as the only way out is to return Home and start the Realm again.
+
+As of update {{v|0.7.1}}, this is still an ongoing issue.
+
+===Candles===
+====Stuck Wax====
+'''NOTE: This issue appears to have been fixed as of the September 22, 2019 patch ({{v|0.6.0}}).'''
+
+Sometimes candle flames from large candle deposits seem ”stuck” on the candle and do not travel towards the player‘s body, and it may take a while for candle wax to register on the player’s candle bar (top left corner of screen). The player should usually find that they can reclaim the "stuck" flames on a second run-through of the Realm.
+
+As of the {{v|0.6.0}} update, candle deposits can be collected from further away from the candles than before, instead of the user having to go very close to them, and deposits do not seem to get stuck as they did previously.
+
+'''Seasonal Candle Bar (Gratitude)'''
+
+There was a small issue involving candles, where seasonal candles obtained from completing quests may not have immediately registered in the player’s candle count when 2 or more candles were obtained from the Quest Master at one time. However, these candles had been obtained and did show up eventually.
+
+This issue has not resurfaced in the seasonal event after Season of Gratitude and is considered fixed.
+
+===[[Dark Crabs]]===
+
+====Flipping Crabs====
+'''NOTE: This issue appears to have been fixed as of the September 22, 2019 patch ({{v|0.6.0}}).'''
+
+While the method of deactivating (flipping over) Dark Crabs in the game involves holding on the player to release a deep call, in virtually all circumstances, this often did not work immediately or at all. This was particularly annoying when attempting to flip over multiple crabs (such as in Wasteland), and the players would often find themselves faced with only partial flipping, slow response, or no reaction at all.
+
+As of the {{v|0.6.0}} update crabs now flip much more often, even if still somewhat belated. Crabs in a wide radius will be flipped from the call, not only the closest two or three. This feature is now much more useful.
+
+===[[Dark Dragons]]===
+
+====Expression Glitching====
+'''NOTE: This issue appears to have been fixed as of the March 16, 2021 patch ({{v|0.13.0}})'''
+
+Apparently, some players have reported that using certain Expressions repeatedly (spamming) under the path of a Dark Dragon will prevent it from attacking. It is said that spamming an Expression three times and then continuing to "spam" it until the Dragon moves on can impede its attack. This glitch is similar to some of the cheats used to avoid taking damage from a Dark Dragon attack, such as placing a table beneath a Dragon, or pressing the "Home" button in the Expressions menu without choosing an option.
+
+===[[Spirits]]===
+
+====Lingering Seasonal Spirits====
+'''NOTE: This issue appears to have been fixed as of the December 21, 2020 patch ({{v|0.12.1}})'''
+
+<gallery widths="194" spacing="small">
+Lingery Rhythm Spirit Forest.jpeg|Lingering Rhythm Spirit
+Lingering lightseekers spirit.jpeg|Lingering Lightseeker Spirit
+</gallery>
+Occasionally, Spirits from past Seasons can be unintentionally activated by players standing in the spot where the Spirit used to be. The activated Spirit appears gray and is unable to be collected as it disappears when the player advances towards the goal no matter how slowly the player moves.
+
+{{Navigation Box}}
+
+
+[[fr:Problèmes connus]]
+[[pt-br:Problemas Conhecidos]]
+[[Category:Archive]]

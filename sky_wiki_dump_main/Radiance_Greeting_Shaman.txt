@@ -1,0 +1,167 @@
+{{Distinguish|Greeting Shaman}}
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Radiance-Greeting-Shaman-spirit-cutout-original.png|Original
+Radiance-Greeting-Shaman-spirit-cutout.png|Dyed
+</gallery>
+|cosmetics = {{Spirit Item|Radiance Greeting Shaman|Outfit|infobox}}{{Spirit Item|Radiance Greeting Shaman|Hair|infobox}}{{Spirit Item|Radiance Greeting Shaman|Hairpiece|infobox}}
+|season    = Radiance
+|realm     = Aviary Village
+|location  = [[Aviary_Village#Dye_Workshop|Dye Workshop]]
+|ts        = None
+}}
+
+<section begin="Summary" />The Radiance Greeting Shaman is a [[Seasonal Spirit]] from the [[Season of Radiance]] who offers the {{Emote|Radiance Greeting Shaman|inline_text}} Expression. The Radiance Greeting Shaman was found in the [[Aviary Village]], to the left of the Village Plaza's [[Constellation Table]]. The collectibles [[#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Radiance Greeting Shaman|Outfit|inline_text}}, a {{Spirit Item|Radiance Greeting Shaman|Hair|inline_text}}, and a {{Spirit Item|Radiance Greeting Shaman|Hairpiece|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Radiance-Greeting-Shaman-Introduction-image.png|none|thumb|300x300px|TGC's Promo image]]
+
+==<span id="Expression">Expression</span>==
+This Spirit offers the {{Emote|Radiance Greeting Shaman|inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name|Radiance Greeting Shaman|emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Radiance-Greeting-Shaman-heart-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Radiance-Greeting-Shaman-heart-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Radiance-Greeting-Shaman-heart-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Radiance-Greeting-Shaman-heart-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery> 
+
+*Level 1 will make your avatar tilt their head sideways and hold up their hands beside it in a heart shape, before moving them in front of their chest in the same gesture while a small red heart appears inside them.
+*Level 2 makes the same motion as Level 1, with a thin trail of light following the hands' motion, a small red heart appearing inside the hand shape throughout the entire Expression and multiple small red hearts flying up from the hands during the first half of the Expression.
+*Level 3 will make your avatar raise their hand before their face and draw a big heart-half with each hand in the air, which becomes visible by the pink trail following the hands' motion.
+*Level 4 makes the same motion as Level 3, with an additional thin trail of light following the hands' motion and a smaller, pink flickering heart appearing in the center of the drawn one.
+
+<!--As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Heart|4}}, {{Heart|3}}, and {{Heart|6}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.-->
+
+==Cosmetics==
+===<span id="Outfit">Outfit</span>===
+The [[Outfit]] offered by this Spirit is a beige robe-like garment. This Outfit features a boxy fit with pale triangular lines running down the closure and sleeves. The front is slightly asymmetrical, and two cinching knots hang from the waist. A pair of matching loose trousers complete this Outfit.<br>
+It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's seventh node ({{Cost|120 SC|season=Radiance}} total).<br>
+<br>
+{{Dye Details
+|area1=the robes (does not include sleeves, collar, or pants)
+|area2=sleeves' lines and waist cords
+|cost1=3
+|cost2=2
+}}<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Radiance Greeting Shaman|Outfit}} {{!}} The Outfit icon
+{{Icon Name|Radiance Greeting Shaman|Outfit|real}} {{!}} The Outfit front
+{{Icon Name|Radiance Greeting Shaman|Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Hair">Hair</span>===
+The [[Hair]] offered by this Spirit is a pale blue zigzag pattern with triangles, printed on a shaved head. It can be paired with [[Head Accessories]] and [[Hair Accessories]]. It was offered to all players for {{Cost|24 SC|season=Radiance}} during the Season, from the Friendship Tree's sixth node ({{Cost|92 SC|season=Radiance}} total).
+
+''The entire cosmetic is dyable as one section.''<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Radiance Greeting Shaman|hair|icon}} {{!}} The Hair icon
+{{Icon Name|Radiance Greeting Shaman|hair|real}} {{!}} The Hair front
+{{Icon Name|Radiance Greeting Shaman|hair|back}} {{!}} The Hair back
+|widths=125|spacing=small|captionalign=center|mode=nolines
+}}
+
+===<span id="Hair Accessory">Hair Accessory</span>===
+The [[Hair Accessory]] offered by this Spirit is two tied ribbons with a golden gem that sits on the side of the head. It was offered to all players for {{Cost|14 SC|season=Radiance}} during the Season, from the Friendship Tree's second node ({{Cost|14 SC|season=Radiance}} total).<br>
+<br>
+{{Dye Details
+|area1=the main parts of the ribbon
+|cost1=2
+}}<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Radiance Greeting Shaman|hairpiece|icon}} {{!}} The Hair Accessory icon
+{{Icon Name|Radiance Greeting Shaman|hairpiece|real}} {{!}} The Hair Accessory
+|widths=125|spacing=small|captionalign=center|mode=nolines
+}}
+
+<!--   ONLY APPLICABLE ONCE SPIRIT HAS BECOME A TRAVELING SPIRIT 
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling
+|ts_dates=*June 19, 2019 (#01)
+*June 19, 2020 (#02)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = SPIRITNNAME
+|image = 
+|season = season
+
+|nodeC6 = Outfit 60 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Mask 30 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+The hints given before the Radiance Greeting Shaman's first appearance were: 
+{{Collapse
+|label=First Visit Hints
+|content=<div>
+*  [ hints can be on the official Sky Discord which are posted a few days before the traveling spirit by staff of thatgamecompany. ]
+</div>
+}}-->
+==Season Friendship Tree==
+{{Friendship Tree Info | season| season=Radiance}} <section begin="Season Friendship Tree" />
+{{Friendship Tree
+|spirit = Radiance Greeting Shaman
+|image  = Radiance-Greeting-Shaman-spirit-cutout-original.png
+|type   = season
+|season = Radiance
+
+|nodeC8 = season_heart 3 SC SP
+
+|nodeL7 = outfit SP
+|nodeC7 = purple-dye-container-icon.png 28 SC
+|nodeR7 = 
+
+|nodeL6 = Cyan-dye-container-icon.png SP
+|nodeC6 = hair 24 SC
+|nodeR6 = 
+
+|nodeL5 = Black-dye-container-icon.png SP
+|nodeC5 = Purple-dye-container-icon.png 20 SC
+|nodeR5 =
+
+|nodeL4 = emote4 SP
+|nodeC4 = emote3 18 SC
+|nodeR4 =
+
+|nodeL3 = Cyan-dye-container-icon.png SP
+|nodeC3 = Blue-dye-container-icon.png 16 SC
+|nodeR3 =
+
+|nodeL2 = Blue-dye-container-icon.png SP
+|nodeC2 = hairpiece 14 SC
+|nodeR2 =
+
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+|nodeR1 =
+}}<section end="Season Friendship Tree" />
+
+==Personality==
+On February 13, 2025, TGC officially announced and introduced the Radiance Greeting Shaman with the following personality traits<ref>[https://archive.md/oRB8D https://x.com/thatskygame/status/1890204451098751318]</ref>:
+
+*✨Finds at least 1 thing to be surprised by every day
+*🕯️Thinks tradition sparks the greatest creativity
+*💪Exercises for exactly 41 minutes before breakfast
+*🎨Dyes their outfits more somber colors. Well, the outside of their outfits anyway
+
+==References==
+<references />
+
+[[fr:Shaman saluant de l'Éclat]]
+[[ja:光に染まる礼を尽くす祈祷師]]
+[[pt-br:Xamã Acolhedor do Resplendor]]
+[[zh:彩染拳禮武僧]]

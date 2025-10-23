@@ -1,0 +1,203 @@
+This page contains information gathered regarding Sky on the '''Android and HarmonyOS''' platform. 
+
+Please use this page as an Android-specific elaboration of the content already found on the Wiki. Check out the [[Getting Started]] page as well as other pages on this Wiki for the general gameplay of Sky. The gameplay is the same on all devices; some menu options and game save information are the only ones that are going to be different.
+
+''Android/HarmonyOS users: Please feel free to update this page as needed, either with additional content or by elaborating a content that is already here.''
+
+{{DevicesNav}}
+
+==TGC Official Android download app==
+You can only download the app from Google Play Store (Non-Huawei devices) or Huawei App Gallery (Huawei devices). '''DO NOT install third party APK packages into your Android device by yourself, they may contain malicious code which harms your devices, or be obsolete.'''
+
+[[File:Google_Play_Store_icon.png|20px]] [https://play.google.com/store/apps/details?id=com.tgc.sky.android Sky: Children of the Light on Google Play Store]
+
+[https://appgallery.huawei.com/app/C105091411 Sky: Children of the Light on Huawei App Gallery]
+
+==TGC Official help links==
+
+*[https://thatgamecompany.helpshift.com/a/sky-children-of-the-light/?l=en&s=my-account&f=how-do-i-save-my-progress Saving Progress on Android]
+*[https://thatgamecompany.helpshift.com/a/sky-children-of-the-light/?s=news-events&f=can-i-play-sky-on-my-android-device&l=en Playing Sky on Android (requirements/devices)]
+*The #android-questions channel on the [https://discordapp.com/invite/thatskygame official Sky Discord server]
+
+==Requirements for downloading Sky==
+Unlike Apple devices (iPhone, iPad or Mac) or console-based devices (Nintendo Switch or PlayStation), there is no definite qualifications or system requirements that make a certain Android device compatible with Sky, as there are thousands of different brands, devices and models. Generally speaking, the guidelines posted below display '''the minimum required specs stated in [https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/faq/569-can-i-play-on-my-android-device/?p=android&s=patch-notes&f=patch-notes---may-17-2022---0-17-5-191024&l=en Sky Helpdesk website]:'''
+* Android version 8.0 (Oreo) or higher, recommended 9.0 (Pie) or higher for best performance.
+* ARM-based processor with 64-bit architecture
+*Adreno-based  (Qualcomm Snapdragon) or Mali-based graphics (Samsung Exynos, HiSilicon Kirin, MediaTek Dimensity)
+* At least 1.5GB RAM
+* OpenGL ES 3.1 Extension Pack
+* Vulkan Version 1.0.3 or higher
+* Vulkan Level 0 or higher
+*5GB to 6GB of storage or more to download and install, but the game should only take up about 1GB of space when it is complete
+*The phone must pass Google Certification Test Suite, or it won't be compatible.
+
+If your device meets the minimum specs but struggles to do so, you may encounter the following message:
+<code>"This device currently doesn't meet the minimum specifications to provide a smooth experience."</code>
+
+
+Note that the specs listed above do not guarantee your device will be compatible. It will depend on how powerful your GPU processor is. '''In some situation, you cannot find Sky in the Google Play Store or Huawei App Gallery through search, or the game indicates that your device is not compatible:'''
+
+* Your Android device is using a 32-bit ARM processor, or x86-based (Intel/AMD) processor
+* Your Android device is using a 64-bit ARM processor with 32-bit Android operating systems
+* Your Android device does not fulfill the requirements of OpenGL ES and Vulkan version and level
+* Your current location is in Mainland China.
+* Your Google Play/Huawei account region is Mainland China (check the currency shown for any paid app: if it is CN¥/RMB then you’re using a Mainland China account).
+*Your Android device has an unlocked bootloader or has rooted, causing CTS (Certification Test Suite) from Google, to fail. Or the CTS broke during a certain OEM update (Well known issue from Xiaomi devices that haven't unlocked bootloader or rooted). The update that broke CTS can be reverted by rolling back the update from the version the problem didn't happen in the first place.
+
+TGC are still optimizing performance for compatible lower-end devices, but if your device is not already compatible, it is unlikely it will become compatible later on.''' Furthermore, Huawei devices are required to download Sky from Huawei App Gallery, as Google Services are not available for Huawei devices released since May 2019.''' Any attempt to circumvent these restrictions breaks the [https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/faq/460-eula-terms-of-service/ EULA/Terms of Service], and will likely not provide an enjoyable experience anyway. 
+
+Some Android devices with powerful graphic processor have the ability to support 60fps mode, included but not limited to:
+
+* Snapdragon 835 (Adreno 540) or later 8-series flagship Snapdragon processor
+* Snapdragon 765 (Adreno 620) or later 7-series high-end Snapdragon processor
+* Exynos, Kirin or Dimensity with Mali-G76 or Mali-G77 graphics (*depends on the graphic core [or MC] count)
+
+==Updates on Android==
+There is a known issue with Google Play sometimes showing devices as not compatible even though they really are. Give the following steps a shot:
+* Force close all applications
+* Pull down the notification bar on your Android device and hit the gear-shaped settings icon, or find “Settings” in the application tray.
+* Navigate to Apps, or App Manager.
+* Scroll down and find Google Play Store.
+* Tap Clear Cache and Clear Data.
+* Repeat steps for Google Play Games and Google Play Services
+* Power your device completely down (do not hit the Restart button)
+* Launch Google Play Store and try reinstalling/updating Sky
+* If it still shows up incompatible, close the Store again and wait a little while before checking back
+TGC are still waiting to hear back from Google as to why this is happening for some devices, and have made no changes to compatible devices.
+
+==Linking your Game==
+To access account linking, click the gear icon in the top right corner, and then the check mark.<gallery>
+File:Android Settings.jpg|The gear button next to the friend button
+File:Checkmark-Ray.png|the account button
+</gallery>To protect your Sky account, it is important to link it to any account service provider listed below:
+*Google • Permanently Bound
+*Facebook
+*Nintendo • Permanently Bound After Buying an [[IAP]] <ref name="Nintendo Linking Helpshift Article">https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/faq/811-how-do-i-link-my-mobile-sky-account-to-my-nintendo-switch-account/</ref>
+*Huawei ID
+*PlayStation® Network • Permanently Bound
+*Steam • Permanently Bound After Buying an [[IAP]]
+*Twitch
+
+To link or unlink an account, tap the desired account services button, then tap "Link" or "Unlink". Keep in mind the above with <nowiki>'</nowiki>'''Permanently Bound'''<nowiki>'</nowiki> can never be unlinked, Sky progress will be linked to that account forever - unless the Sky account is completely deleted. A pop-up screen may be prompted to you to login your account credentials based on your chosen account service. Lastly, your Sky account will be linked to/unlinked from the account service.
+
+You may link more than one account service to your Sky account at a same time. You may also link your account service to a Live Sky account and Beta Sky account at the same time, since Live account and Beta account are separated and run independently (progress is not carried). However, each account service can only be linked to one Live Sky account. For example, you may link your account to Google and Facebook account at the same time, but you cannot link another Sky account to the same Google account.
+
+Linking account will allow players to recover their accounts themselves upon re-installs or when switching devices. Keeping record of your Sky ID - Sky 'Settings -> 'Account' -> 'Account Info' - will also be a way to recover account progress. However, this requires the help of a TGC Support representative, which may take a certain number of business days. TGC will also ask players for their Sky ID if a giveaway is won. Keep in mind to keep your Sky ID safe from everybody, it acts as the key into your account. If you are contacted by TGC, ensure it is from official sources.
+
+<gallery hideaddbutton="true" widths="150" mode="nolines">
+File:Andriod LinkProviders 2024.jpg|Account service providers
+File:Google.png|Google Account
+File:FacebookLinking.png|Facebook Account
+File:Nintendo linking.png|Nintendo Account
+File:Huawei linking.jpg|HUAWEI ID
+File:Playstation linking.jpeg|PlayStation™ Network
+File:Steam Linking.png|Steam Account
+File:Twitch Linking.png|Twitch Account
+</gallery>
+
+===Google Play Accounts===
+<gallery mode="nolines">
+2.0 andrid.jpg|Play Games
+2.1 android.jpg
+2.2 android.jpg
+</gallery>People will be familiar with Google Play, but there are some funky settings in there if you want more than one account/log out etc. In the second picture above, you can hit the top right and go into Settings (shown in the next image). This last image shows the default settings, but if you want to have multiple people on the same device, it may be worth turning off the "Automatically sign in to supported games" and "Sign in to games with this account" settings. Thus is so that you can more easily switch accounts in-game.
+
+== Handling multiple accounts by a same player ==
+Some players might handling more than one account, in the purpose of self-gain. However, this behavior is strongly discouraged by TGC because it is considered self-botting. Based on a quote taken from thatgamecompany's support page ([https://thatgamecompany.helpshift.com/a/sky-children-of-the-light/?s=my-account&f=can-i-create-multiple-sky-accounts&l=en Can I create multiple accounts?]):
+
+"For the protection of your progress and data we encourage you not to do this. We do not advise the creation of multiple Sky accounts for use by a single person. Doing this can cause errors on each of the accounts that may be difficult or impossible to fix by yourself or the TGC team."
+
+==Video Recording==
+There is only two methods that records audio in-game without using the external speaker (Samsung's game tools and Android 10 on some OEM OS/Android 11 built in screen recorder), and no option to record without controls overlay like iOS can.  The three below methods are presented in this order: Avoid, Recommended and Best. 
+
+=== In-Game Video Record Button===
+Touching your screen on the lower right end will bring two buttons; a video button and a photo button. The video button will launch the Google Play video player, which has options to use the front camera along with audio recording, which unfortunately uses the external mic. If you have game sounds coming out, it will likely get distorted.   
+
+This method also record your video with the Google Play buttons "on the screen". Avoid this option if you have the ability to use another tool.  
+<gallery widths="200" spacing="small" mode="nolines">
+File:Android Ui.jpg|In-game video recorder in lower right corner
+File:Android recording ui.jpg|The Ui for recording on android
+</gallery>
+
+===Android 11 built in screen record===
+Android 11 comes with a built in screen record option, that will give you the same result as Google game tool if you are not interested in activating it (see below). You can choose it via quick settings drop down and add it as a tile. When you select the tile, you will be presented with a pop up to choose which audio source to record from: Device Audio, Microphone, or both. You also have the option to record touch input in this menu also.  This is a better method than the above and recommended over the first.  
+<gallery widths="200" spacing="small" mode="nolines">
+Android11sr.png|Quick Tile
+Android11sr2.png|The three audio source options
+</gallery>
+
+===Samsung's game tools===
+[[File:Samsung Game Launcher icon.png|thumb|100x100px|<small>Game Launcher icon</small>]]
+Game Tools is a function built into the Operating System of Samsung Phones and Tablets running Android OS 7 and higher. It is designed to let you record and share screenshots.  Because it's a screen recorder it also records the game overlay (cape meter, flashing candle or menu when opened). The sound with this built in video recorder is very good compared to the In-Game video recorder provided by Sky.  This function '''will not show the recorder buttons''', for that reason, this function is by far the best to use when recording videos with Android.  However, any activities made by your phone will show on the screen (phone calls, notifications, etc.. ); but can be stopped by using the "No alerts" and "Block during game" settings.       
+
+The "'''No alerts'''" setting prevents notifications from other apps, and the "'''Block during game'''" setting disables hardware buttons for recent and back. To access Game tool, while your game is opened, slide your finger from the bottom of your screen (or from left to right if your phone is sideway), and at the bottom left of the menu, you will see the small Google Game tool icon. Click the icon to open the Google Game tool.  Select video from the option; you will be presented with a pop up to choose which audio source to record from: Device Audio, Microphone, or both.   
+
+To activate Samsung Game tool, slide down on your screen and access your Settings by clicking the cog icon.  You will find the Game Launcher in the Advanced features.   
+<gallery widths="200" spacing="small" mode="nolines">
+File:Google play tool 1.png|The Samsung Game Tool in the quick lower menu
+File:Google play tool 2.png|The options in the Samsung Game tool
+File:Android11sr2.png|The three audio source options
+File:Block during game option .png|Options from Game Tools to Block during game
+</gallery>
+==Shop/Payments==
+<gallery mode="nolines">
+4.1 Android.jpg|4.1
+4.2 Android.jpg|4.2
+</gallery>The Shop on both Android and iOS have the same base prices. However, Android devices may not display the exact correct price – as Google may have excluded certain taxes and fees. Thus, always make sure you have slightly more than the amount displayed in the Shop before making purchases. Independent of your OS, there will also be regional differences in pricing, though the base pricing set by TGC is, again, the same.
+
+All in-app purchases, such as cosmetics, candles, and gift seasonal passes, will be linked to your Google Play account instead of the Sky account itself. ''' Therefore, do not make any in-app purchases for different Sky accounts under the same Google Play Account'''.
+
+If the "Restore Purchase" button is pressed on any Sky account linked to a Google Play account that has previously been used for in-app purchases (IAPs), some items and currencies from other Sky accounts associated with the same Google Play account may be transferred to the current Sky account. This is not intended and can cause errors on each of the accounts that may be difficult or impossible to fix by yourself or the TGC team.
+
+==How-To and FAQ from Official Sky Discord==
+Below you will find useful questions and answers taken from the pins in the #android-questions channel of the official Discord Server – sometimes supplemented by Wiki editors. The official server is one of the main ways to interact with the Sky community - as well as the staff of TGC. All of these questions were posted by Ktjn, who is a Community Manager and TGC developer.
+
+===How do I transfer my progress from iOS to Android?===
+You will need to link your Sky account to a Google or Facebook account (Game Center is not available on Android devices). Follow these steps:
+*Open Sky on your iOS device:
+*Tap the cog icon in the top right corner to open the Main Menu
+*Tap Account
+* Sign into Google/Facebook
+*Link account to Google/Facebook
+* Open Sky on your Android device, it will launch a fresh game/account:
+**Open the Main Menu
+**Tap Account
+**Sign into Google/Facebook
+**Tap Link Account, a prompt will ask if you want to Recover Sky Account. Select Abandon
+**Your saved progress will load
+===The game keeps crashing===
+Check #known-issues (Official Discord) or ask around to see if this is happening to other players. If not, it could be that your device is running out of memory (RAM). Try closing any background applications and restarting the game. This can occur on lower-end devices due to multiple applications running at the same time.
+===Audio and additional Realms are failing to download===
+Please make sure you have enough storage on your device. The game itself is under 1GB but can take up to 3GB to download and install all files. Thus, it will de-download non-active Realms to save space when you are playing another one. Try clearing cache+data, powering your device completely down, restarting and reinstalling the game from Google Play Store or Google Play Games. Be sure to link your account before uninstalling to save your progress.
+
+'''<nowiki>*</nowiki>Update: Additional Realms and Audio are no longer to be downloaded as those are bundled into the game when you first downloaded it from Google Play Store.'''
+===Is there crossplay between iOS and Android?===
+Yes! You can matchmake with players on both platforms. The only time this is not possible is if you and your friend are playing on different versions, so make sure you've both updated to the latest version (this will happen for friend on the same platform as well).
+=== Something is wrong with my account, help!===
+Please reach out to Customer Support in-game. If you cannot access the game, you can use the [https://thatgamecompany.helpshift.com/a/sky-children-of-the-light/ web form here]. TGC do not have the tools to assist with account issues in Discord at this time.
+===I tested Sky Android on Beta, will my progress transfer?===
+No, Beta is a completely separate app that will continue to run alongside the Live version of the game after Global release for Android. Progress from either version is non-transferable to the other. See the [[Sky Beta]] page for more info on the Beta tester program
+===Why does Android video recording show the UI when iOS doesn't?===
+Due to some hardware differences between iOS and Android devices TGC is currently unable to replicate this feature exactly on Android. Video capture is through Google Play Games.
+===Why do Android players not have the headphones when playing external music?===
+Another software difference between iOS and Android. External audio isn't detected in the same way. TGC is still working on this one for a future update.
+
+===Can I use a Controller to play Sky? ===
+Not all brands will work. For example, Steelseries Nimbus will not work due to incorrect button mappings (Steelseries Stratus XL, which is marketed as an Android controller, should work however). Compatibility also depends on your Android OS version and brand of your device. You should do research into which controllers will work correctly for your OS and device, but looking for Android compatible controllers is a good start. PS4 and Xbox One controller support is generally pretty good on Android 9+. There is native controller support in Android 10. <span class="spinner-2enMB9 loading-2bJK5L"><span class="inner-1gJC7_ pulsingEllipsis-3YiXRF"><span class="pulsingEllipsisItem-32hhWL"></span><span class="pulsingEllipsisItem-32hhWL"></span><span class="pulsingEllipsisItem-32hhWL"></span></span></span>
+
+==Videos==
+{{#ev:youtube|kN0RudjvonU|}}
+{{Clear}}
+
+==External Links==
+[https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/section/115-connection-performance/ Official Support] - Collection of TGC Helpshift articles about Connection and Performance 
+
+==References==
+<references />
+
+[[fr:Sky pour Android]]
+[[de:Android Information]]
+[[pt-br:Sky para Android]]
+[[zh:Android版Sky光·遇]]
+
+[[Category:Page Maintenance/New Device]]

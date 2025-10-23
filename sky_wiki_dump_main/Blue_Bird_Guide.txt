@@ -1,0 +1,203 @@
+{{Help|beta}}
+{{Distinguish|Belonging Guide}}
+{{Guide Infobox
+|image     = Blue-Bird-Ultimate-Guide.png
+|type      = Seasonal
+|ultimates = {{Spirit Item|Blue Bird Guide|facepiece_u|infobox|link=#Blue_Bird_Ultimate_Face_Accessory}}{{Spirit Item|Blue Bird Guide|cape_u|infobox|link=#Blue_Bird_Ultimate_Cape}}
+|emote = {{Spirit Item|Blue Bird Guide|emote|infobox|link=#Expression}}{{Spirit Item|Blue Bird Guide|emote_s|infobox|link=#Stance}}{{Spirit Item|Blue Bird Guide|emote_c|infobox|link=#Call}}
+|props     = {{Spirit Item|Blue Bird Guide|prop_a|infobox|link=#Prop}}
+|season    = the Blue Bird
+|location  = Hidden Forest
+}}
+<section begin="Summary" />The '''Blue Bird Guide''' is a Seasonal Guide (also known as Quest Giver) from the [[Season of the Blue Bird]] who offers Quests and [[Blue Bird Guide#Ultimate Gifts|cosmetics]]. The Blue Bird Guide is found at the Blue Bird Theater in the [[Hidden Forest#Elevated Clearing|Elevated Clearing]]. The Ultimate Guide offers a {{Spirit Item|Blue Bird Guide|necklace_u|inline_text}}, a {{Spirit Item|Blue Bird Guide|facepiece_u|inline_text}}, and a {{Spirit Item|Blue Bird Guide|cape_u|inline_text}} for [[Season Pass]] holders.
+
+This Ultimate Guide also provides four new collectibles in their Quest Tree, permanently available to all players: the {{Spirit Item|Blue Bird Guide|prop_a|label=Tree Perch Prop|inline_text}}, the {{Spirit Item|Blue Bird Guide|emote|inline_text}} Expression, the {{Spirit Item|Blue Bird Guide|emote_s|inline_text}}, and the {{Spirit Item|Blue Bird Guide|emote_c|inline_text}}.<br><br>
+<section end="Summary" />
+[[File:Despondent-Boogie-Kid-Promo-art.png|none|thumb|300x300px|TGC's Promo image]]
+
+==<span id="Ultimate Pendant"><span id="Blue Bird Ultimate Pendant">Seasonal Pendant</span></span>==
+The Blue Bird Ultimate [[Necklaces|Pendant]] is the usual silver pendant featuring the Season's emblem attached to a necklace. It was a [[Season Pass]] exclusive item during the Season, available for free from the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Blue Bird Guide|Necklace_u|icon}} {{!}} Blue Bird Ultimate Pendant icon
+{{Icon Name|Blue Bird Guide|Necklace_u|real}} {{!}} Blue Bird Ultimate Pendant
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Ultimate Gifts==
+The Season of the Blue Bird Guide offers 2 Ultimate Gifts, available to be purchased by [[Season Pass]] holders with [[Currency#Season Hearts|Seasonal Hearts]] during the Season of the Blue Bird only.
+
+===<span id="Ultimate Facepiece">Blue Bird Ultimate Face Accessory</span>===
+The Blue Bird Ultimate [[Face Accessory]] is a floating pair of wing-like shapes on the sides of the head, with a central diamond over the forehead. The entire piece is a translucent, glowing cyan. It was a [[Season Pass]] exclusive item during the Season, available for {{Cost|2 SH|season=Blue Bird}} after unlocking the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Blue Bird Guide|facepiece_u}} {{!}} Blue Bird Ultimate Face Accessory icon
+{{Icon Name|Blue Bird Guide|facepiece_u|real}} {{!}} Blue Bird Ultimate Face Accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Ultimate Cape">Blue Bird Ultimate Cape</span>===
+The Blue Bird Ultimate [[Cape]] is white with a brilliant blue feathered interior. It has wide shoulders decorated with silvery blue feathers and feather-shaped tassels. The Cape has a silvery-blue fringe. The interior's feathers transition from a blue to a bright cyan. This Cape has a special feather trail when the wearer flaps. It was a [[Season Pass]] exclusive item during the Season, available for {{Cost|3 SH|season=Blue Bird}} after unlocking the Friendship Tree's second node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Blue Bird Guide|Cape_u}} {{!}} Blue Bird Ultimate Cape icon
+{{Icon Name|Blue Bird Guide|Cape_u|front}} {{!}} Blue Bird Ultimate Cape front
+{{Icon Name|Blue Bird Guide|Cape_u|interior}} {{!}} Blue Bird Ultimate Cape interior
+{{Icon Name|Blue Bird Guide|Cape_u|back}} {{!}} Blue Bird Ultimate Cape back
+{{Icon Name|Blue Bird Guide|Cape_u|exterior}} {{!}} Blue Bird Ultimate Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Additional Collectibles==
+Upon completing Quests from the Season of the Blue Bird, additional collectibles are available to be collected for {{Cost|C}} [[Currency#Candles|regular Candles]] or {{Cost|H}} [[Currency#Hearts|Hearts]] through the Blue Bird Guide's [[#Quest Tree|Quest Tree]]. '''All items remained permanently available in the Ultimate Guide's Quest Tree after the Season ended.'''
+
+===Prop===
+The [[Prop]] offered by the Blue Bird Guide is a small tree with a few leaves and a horizontally bent branch that is wrapped with a piece of blue fabric, costing {{Cost|18 H}}. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. Up to two players can {{Icon|Emote-basic sit.png}} Sit on the branch and [[chat]]. When carried on its owner's back, it appears as a branch with a few green leaves, that is wrapped with a blue piece of fabric. It is '''permanently available''' to all players after completing [[Season of the Blue Bird#Quest #6|Quest #6]] of the Season of the Blue Bird, after unlocking the Quest Tree's eighth node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Blue Bird Guide|prop_a|icon}} {{!}} The Prop icon
+{{Icon Name|Blue Bird Guide|prop_a|real}} {{!}} The Prop
+{{Icon Name|Blue Bird Guide|prop_a_using}} {{!}} Using the Prop
+{{Icon Name|Blue Bird Guide|prop_a|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+{{Clear}}
+
+===<span id="Cough Expression">Expression<span/>===
+This Ultimate Guide offers the {{Emote|Blue Bird Guide|inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name|Blue Bird Guide|emote}}|x170px|left]]<!--
+<gallery heights="125" captionalign="center">
+Blue-Bird-Guide-cough-emote-level-1.gif|{{Icon Name|Moomin Guide|emote_name}} Level 1
+Blue-Bird-Guide-cough-emote-level-2.gif|{{Icon Name|Moomin Guide|emote_name}} Level 2
+Blue-Bird-Guide-cough-emote-level-3.gif|{{Icon Name|Moomin Guide|emote_name}} Level 3
+Blue-Bird-Guide-cough-emote-level-4.gif|{{Icon Name|Moomin Guide|emote_name}} Level 4
+</gallery>
+-->
+*Level 1 will make your avatar cough thrice, during which they raise their fist in front of their face, while high squeaking sounds play. Then they will knock on their chest a few times and shake out their head, while bongo sound effects play. 
+*Level 2 makes the same motion as Level 1, with a cloud of steam coming from the avatar's face as they cough.
+*Level 3 will make your avatar cough hard thrice as they hold one arm across their body, while high-pitched sound effects play. With each cough they slouch more forward - once they've stopped, they'll hold the other hand on their head before slowly standing up straight again.
+*Level 4 makes the same motion as Level 3, with clouds of steam coming from the avatar's face as they cough, and glowing orange circles quickly rippling outwards from their head.
+
+Level 1 and 2 can be unlocked in the Blue Bird Guide's [[#Quest Tree|Quest Tree]] after completing the [[Season of the Blue Bird#Quest #1|first Quest]] - Level 1 is free and Level 2 costs 3 {{Cost|Heart}}. Level 3 and 4 can be unlocked after completing the [[Season of the Blue Bird#Quest #2|second Quest]] - Level 3 is free and Level 4 costs 5 {{Cost|Heart}}. 
+{{Clear}}
+
+===<span id="Despondent Stance">Stance</span>===
+This Ultimate Guide offers the {{Spirit Item|Blue Bird Guide|emote_s|inline_text}}, which gives the player's avatar a downcast, hopeless look. The Stance affects the avatar's position when standing, kneeling, sitting, or lying down.
+
+The Stance is available for purchase from the Blue Bird Guide's [[#Quest Tree|Quest Tree]] after completing the [[Season of the Blue Bird#Quest #4|fourth Quest]] from the Season of the Blue Bird, costing 3 {{Cost|Heart}}.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||emote_s}}
+Blue-Bird-Guide-Despondent-stance-emote.gif {{!}} {{Icon Name||emote_s_name}}
+Blue-Bird-Guide-Stance-up.png {{!}} {{Icon Name||emote_s_name}} (Standing)
+Blue-Bird-Guide-Stance-kneeling.png {{!}} {{Icon Name||emote_s_name}} (Kneeling)
+Blue-Bird-Guide-Stance-sitting.png {{!}} {{Icon Name||emote_s_name}} (Sitting)
+Blue-Bird-Guide-Stance-laying-down.png {{!}} {{Icon Name||emote_s_name}} (Lying down)
+|heights=170px|captionalign=center|spacing=small
+}}
+
+*Standing will make your avatar stand with slouched shoulders and their head dropped.
+*Kneeling will make your avatar sit on their feet with a slouched posture and their head dropped; their hands lay on top of their knees.
+*Sitting will make your avatar sit on the ground with raised knees, upon which they have their arms stacked on top of another, while their head rests on them, the gaze directed inwards towards their body.
+*Lying down will make your avatar lay on their back with slightly bent knees and head tilted to the side. One hand touches the forehead, the other is laid on their chest.
+{{Clear}}
+
+===<span id="Blue Bird Call">Call</span>===
+This Ultimate Guide offers the {{Spirit Item|Blue Bird Guide|emote_c|inline_text}}, which modifies the player's voice to an echoing bird's call. The Call is available for purchase from the Blue Bird Guide's [[#Quest Tree|Quest Tree]] after completing the [[Season of the Blue Bird#Quest #6|final Quest]] from the Season of the Blue Bird, costing 3 {{Cost|Heart}}.<br>
+
+[[File:{{Icon Name|Blue Bird Guide|emote_c}}|x170px|left]]
+<br>{{#ev:youtube|BGbXT2H-Ug8|300px||Video of Blue Bird Call}}
+{{Clear}}
+
+==Friendship Tree==
+The Blue Bird Guide's Friendship Tree was available to the right of the Quest Tree during the Season of the Blue Bird only. '''Now that the Season is over, these cosmetics are no longer available.'''
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Blue Bird Guide
+|image  = Blue-Bird-Ultimate-Guide.png
+|type   = season
+|season = Blue Bird
+
+|nodeC3 = cape_u 3 SH AP
+|  linkC3 = Blue Bird Guide#Blue Bird Ultimate Cape
+
+|nodeC2 = facepiece_u 2 SH AP
+|  linkC2 = Blue Bird Guide#Blue Bird Ultimate Face Accessory
+
+|nodeC1 = necklace AP
+|  linkC1 = Blue Bird Guide#Seasonal Pendant
+}}<section end="Friendship Tree" />
+
+==Quest Tree==
+The Blue Bird Guide's Quest Tree is available for all players to complete Quests from the [[Season of the Blue Bird]]. Once certain Quests have been completed, a Heart is available to be collected for free.<!--(Post-Season (if applies):) Since the end of the Season, players completing these Quests for the first time have to pay 3 {{Candle}} to obtain these Hearts.-->
+<section begin="Quest Tree" />{{Friendship Tree
+|spirit = Blue Bird Guide
+|image  = Blue-Bird-Ultimate-Guide.png
+
+|type   = season
+|season = Blue Bird
+
+|nodeC9 = prop_a 18 H
+|  linkC9 = Blue Bird Guide#Prop
+|  labelC9 = Additional Prop
+
+|nodeL8 = emote_c 3 H
+|  linkL8 = Blue Bird Guide#Call
+|nodeC8 = quest
+|  linkC8 = Season of the Blue Bird#Quest #6
+|  labelC8 = Quest 6
+
+|nodeL7 = Heart free
+|nodeC7 = quest
+|  linkC7 = Season of the Blue Bird#Quest #5
+|  labelC7 = Quest 5
+
+|nodeL6 = emote_s 3 h
+|  linkL6 = Blue Bird Guide#Stance
+|nodeC6 = quest
+|  linkC6 = Season of the Blue Bird#Quest #4
+|  labelC6 = Quest 4
+
+|nodeL5 = Heart free
+|nodeC5 = quest
+|  linkC5 = Season of the Blue Bird#Quest #3
+|  labelC5 = Quest 3
+
+|nodeL4 = emote4 5 h
+|  linkL4 = Blue Bird Guide#Expression
+|nodeC4 = emote3
+|  linkC4 = Blue Bird Guide#Expression
+
+|nodeL3 = Heart free
+|nodeC3 = quest
+|  linkC3 = Season of the Blue Bird#Quest #2
+|  labelC3 = Quest 2
+
+|nodeL2 = emote2 3 h
+|  linkL2 = Blue Bird Guide#Expression
+|nodeC2 = emote1
+|  linkC2 = Blue Bird Guide#Expression
+
+|nodeL1 = Heart free
+|nodeC1 = quest
+|  linkC1 = Season of the Blue Bird#Quest #1
+|  labelC1 = Quest 1
+}}<section end="Quest Tree" />
+
+==Personality==
+On May 7, 2025, TGC officially announced and introduced the Blue Bird Guide with the following personality traits<ref>[https://archive.ph/6XeC1 https://x.com/thatskygame/status/1920273073556652186]</ref>:
+
+*✋Will step in to be the arbiter of family arguments, if things really get out of hand
+*❄️Favorite time of year is winter
+*😋Always makes enough for leftovers
+*🤝Believes the best way to teach someone is to have them do it on their own
+
+==References==
+<references/>
+
+{{DEFAULTSORT:the Blue Bird, Season of}}
+
+[[fr:Guide de l'Oiseau Bleu]]
+[[pt-br:Guia do Pássaro Azul]]
+[[ja:青い鳥の案内人]]

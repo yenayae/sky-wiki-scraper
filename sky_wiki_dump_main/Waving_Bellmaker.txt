@@ -1,0 +1,105 @@
+{{Spirit Infobox
+|type     = Regular
+|emote_type= Emote
+|image    = <gallery>
+Prairie-Spirit-Waving-Bellmaker.png|Standard
+Prairie-Spirit-Waving-Bellmaker-Gold.png|Ascended
+</gallery>
+|cosmetics= {{Spirit Item||Mask|infobox}}{{Spirit Item||Hair|infobox}}
+|realm    = Daylight Prairie
+|location = Prairie Villages
+}}
+<section begin="Summary" />The '''Waving Bellmaker''' is a [[Regular Spirit]] in [[Daylight Prairie]] who offers the {{Emote|Waving Bellmaker|inline_text}} Expression.  The Waving Bellmaker is found in [[Prairie Villages]] on the larger middle island, at the bottom of the path leading to its bell tower. The collectibles [[Waving Bellmaker#Friendship Tree|offered]] by this Spirit are a {{Spirit Item|Waving Bellmaker|Mask|inline_text}} and a {{Spirit Item|Waving Bellmaker|Hair|inline_text}}. <section end="Summary" /><br>
+<br>
+[[File:Waving-Bellmaker-Guide-777-Ed.png|320x320px|thumb|none|Image Guide by 777.Ed]]
+
+== Memory ==
+<div>
+{{#ev:youtube|f4PG-FV55jM||inline|Video Guide}}
+<br>
+The Waving Bellmaker can be found in [[Prairie Villages]] on the larger middle island, at the bottom of the path leading to its bell tower. This Spirit is a [[Standard Memory|standard memory]] quest with 2 memory fragments and an unlimited overall [[Timed Memory|time limit]].
+
+As their memory unfolds, the Waving Bellmaker is seen jauntily walking along the path towards the bell tower. The Spirit pauses at the base of the structure to peer up at the bell while shading their eyes from the sun with one hand.
+
+At the end of the memory, the Waving Bellmaker climbs the bell tower to clean the very top of the bell with a rag. At some point, a flying boat, heavily laden with jars and headed towards the Prairie Temple, passes by. The Spirit onboard waves to the Waving Bellmaker which prompts them to return the gesture, clinging to the bell to avoid falling as they stand.<br>
+<br>
+[[File:01 DP Spirit - Waving Bellmaker.png|200px|thumb|none|Relive the Waving Bellmaker's memory]]
+{{Clear}}
+
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 6 Levels. It is one of only two Expressions to have 6 Levels instead of the usual 4 (the other being {{Emote|Tearful Light Miner|inline_text}}). 
+
+Levels 5 and 6 (and the second [[Wing Buff]] that unlocks them) are not needed to complete Daylight Prairie's [[Constellation]].<br>
+<br>
+[[File:{{Icon Name||emote}}|170px|left]]
+<gallery heights="125" captionalign="center">
+Waving-Bellmaker-wave-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Waving-Bellmaker-wave-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Waving-Bellmaker-wave-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Waving-Bellmaker-wave-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+Waving-Bellmaker-wave-emote-level-5.gif|{{Icon Name||emote_name}} Level 5
+Waving-Bellmaker-wave-emote-level-6.gif|{{Icon Name||emote_name}} Level 6
+</gallery>
+
+*Level 1 will make your avatar raise their right hand next to their head, palm facing forward, and wave it side to side.
+*Level 2 makes the same motion as Level 1 with white particles of light coming from the waving hand.
+*Level 3 will make your avatar raise their right hand above their head, palm facing forward, and briefly wave it from side to side.
+*Level 4 makes the same motion as Level 3 with green particles of light coming from the waving hand.
+*Level 5 will make your avatar hop in place and raise both arms above their head, palms facing forward, and enthusiastically wave them side to side.
+*Level 6 makes the same motion as Level 5 with large white sparkles falling from above your avatar's head.
+
+The prices of the five Expression upgrades are {{Cost|1 C}}, {{Cost|2 C}}, {{Cost|2 C}}, {{Cost|3 C}}, and {{Cost|3 C}}. Levels 3 and 4 are only available after unlocking the Spirit's first [[Wing Buff]], with Levels 5 and 6 only available after unlocking the second.
+
+== Cosmetics==
+=== Mask ===
+The [[Mask]] offered by this Spirit is a white mouth veil, costing {{Cost|5 H}}. It is permanently available to all players after unlocking the Spirit's first [[Wing Buff]] and the Friendship Tree's fifth node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask}} {{!}} The Mask icon
+{{Icon Name||Mask_real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Hair ===
+The [[Hair]] offered by this Spirit is a small tuft of hair on top of a shaved head, costing {{Cost|2 H}}. It is permanently available to all players after unlocking the Friendship Tree's second node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair}} {{!}} The Hair icon
+{{Icon Name||Hair_real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Friendship Tree ==
+{{Friendship Tree Info | regular}}
+
+This Spirit's Friendship Tree contains two [[Wing Buff]]s to unlock. The second one unlocks the ability to upgrade the [[Expression]] two more times, for a total of five upgrades. Only the Waving Bellmaker and the {{Spirit|Tearful Light Miner|inline_text}} have two Wing Buffs and five Expression upgrades.
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Waving Bellmaker
+|image  = Prairie-Spirit-Waving-Bellmaker.png
+
+|nodeC8 = emote6 3 C BONUS
+|nodeC7 = emote5 3 C BONUS
+|nodeC6 = wing 6 AC BONUS
+|nodeL5 = mask 5 H
+|nodeC5 = spell5
+|nodeL4 = emote4 2 C
+|nodeC4 = emote3 2 C
+|nodeC3 = wing 2 AC
+|nodeL2 = hair 2 H
+|nodeC2 = spell1
+|nodeR2 = heart
+|nodeL1 = emote2 1 C
+|nodeC1 = emote
+}}<section end="Friendship Tree" />
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+File:Emote Loc-Wave.png
+</gallery>
+
+==References==
+<references />
+
+[[de:Winkender Glockenmacher]]
+[[fr:Fabriquant de cloches saluant]]
+[[pt-br:Sineiro que Acena]]

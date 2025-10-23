@@ -1,0 +1,106 @@
+{{Spirit Infobox
+|type      = Regular
+|emote_type= Emote
+|image     = <gallery>
+Forest-Spirit-Blushing-Prospector.png|Standard
+Forest-Spirit-Blushing-Prospector-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Hair|infobox}}
+|instruments = {{Spirit Item||Instrument|infobox}}
+|realm     = Hidden Forest
+|location  = Forest's Brook
+}}
+<section begin="Summary" />The '''Blushing Prospector''' is a [[Regular Spirit]] in [[Hidden Forest]] who offers the {{Emote|Blushing Prospector|inline_text}} Expression. The Blushing Prospector is found beneath a pavilion in [[Forest's Brook]], along the left-hand wall near the entrance from [[Forest Clearing]]. The collectibles [[Blushing Prospector#Friendship Tree|offered]] by this Spirit are a {{Spirit Item|Blushing Prospector|Hair|inline_text}} and a {{Spirit Item|Blushing Prospector|Instrument|inline_text}} Instrument.<section end="Summary" /><br>
+<br>
+[[File:Blushing-Prospector-Guide-777-Ed.png|320x320px|thumb|none|Image Guide by 777.Ed]]
+
+==Memory==
+<div>{{#ev:youtube|https://www.youtube.com/watch?v=5DNs9K-zeeI|||Video Guide by Tara||start=344&end=438&loop=1}}
+<br>
+The Blushing Prospector can be found beneath a pavilion in [[Forest's Brook]], along the left-hand wall near the entrance from [[Forest Clearing]]. This Spirit is a [[Standard Memory|standard memory]] quest with 5 memory fragments and an unlimited overall [[Timed Memory|time limit]]. The final memory fragment is the only one not [[Spirit Health|sheltered]] from the [[Flora,_Minerals_and_Elements_of_Sky#Rain|rain]].
+
+As their memory unfolds, a Spirit is seen carrying an umbrella and approaching a tunnel that the Blushing Prospector stands within. The Spirit offers their umbrella as a shield for the relentless rain, which the Blushing Prospector hesitantly accepts. The pair walk further down the tunnel together until they reach the exit on the other side, where they wave farewell as they go their separate ways. Umbrella in hand, the Blushing Prospector moves toward the ruins of a building to continue on with their day.
+
+At the end of the memory, the Blushing Prospector fidgets bashfully, touched by the other Spirit's kindness.<br>
+<br>
+[[File:02 HF Spirit - Blushing Prospector.png|200px|thumb|none|Relive the Blushing Prospector's memory]]
+</div>
+{{Clear}}
+
+==Expression==
+This Spirit offers the {{Emote|Blushing Prospector|inline_text}} (or '''Blush''') [[Expression]], which has 4 Levels.<br>
+<br>
+[[File:{{Icon Name||Emote}}|170px|left]]
+<gallery heights="125" captionalign="center">
+Blushing-Prospector-shy-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Blushing-Prospector-shy-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Blushing-Prospector-shy-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Blushing-Prospector-shy-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+* Level 1 will make your avatar look down and to the side with their arms and legs crossed, twisting shyly in place.
+* Level 2 makes the same motion as Level 1 with a pink blush on your avatar's cheeks.
+* Level 3 will make your avatar look down with their arms held together behind their back, and shyly twist their right leg in place before gently kicking the ground.
+* Level 4 makes the same motion as Level 3 with a pink blush on your avatar's cheeks and dust clouds that appear from the kicking foot.
+
+The prices of the three Expression upgrades are {{Cost|3 C}}, {{Cost|4 C}}, and {{Cost|4 C}}. Levels 3 and 4 are only available after unlocking the Spirit's [[Wing Buff]].
+
+==Cosmetics==
+===Hair===
+The [[Hair]] offered by this Spirit is a pair of braided pigtails tied with a silver and blue band and tidy bangs, costing {{Cost|3 H}}. It is permanently available to all players after unlocking the Friendship Tree's second node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair}} {{!}} The Hair icon
+Blushing-Prospector-Hair-front.png {{!}} The Hair front
+{{Icon Name||Hair|real}} {{!}} The Hair side
+{{Icon Name||Hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Instrument===
+The [[Instrument]] offered by this Spirit is a brown, double-headed drum shaped like an hourglass, costing {{Cost|5 H}}. It is permanently available to all players after unlocking the Spirit's [[Wing Buff]] and the Friendship Tree's fifth node. It is played while sitting down.
+
+The Drum plays the [[Music Sheet Parts|percussion part]] on Music Sheets. As with all percussion Instruments, it offers only 8 sounds, all of which are unpitched sounds that do not correspond to different musical notes. Five sounds are for the actual drum sounds; three are for secondary sounds made by hitting, rubbing or slapping the side of the Drum (or its metal part - triangle sound).
+
+In [[Harmony Hall]], the Drum can be found in the left-hand room, in a corner to the left of the fireplace, with the other percussion Instruments.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Instrument}} {{!}} The Instrument icon
+{{Icon Name||instrument|real}} {{!}} The Instrument
+{{Icon Name||instrument|back}} {{!}} The Instrument on a player's back
+{{Icon Name||instrument|held}} {{!}} Playing the Instrument
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Friendship Tree==
+{{Friendship Tree Info | regular}}
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Blushing Prospector
+|image  = Forest-Spirit-Blushing-Prospector.png
+
+|nodeC6 = instrument 5 H
+|nodeC5 = spell5
+|nodeL4 = emote4 4 C
+|nodeC4 = emote3 4 C
+|nodeC3 = wing 1 AC
+|nodeL2 = hair 3 H
+|nodeC2 = spell1
+|nodeR2 = heart
+|nodeL1 = emote2 3 C
+|nodeC1 = emote
+}}<section end="Friendship Tree" />
+
+==Unique Daily Quests==
+{{#section-h:Quests/Daily Quest Spirits|{{PAGENAME}}}}
+
+==Trivia==
+*The Blushing Prospector Hair is featured in a piece of merch from thatskyshop, in the form of [[That Sky Shop/Wave 6#thatskykid|thatskykid]]. It has a STAR feature which allows you to meet thatskykid for a limited duration.
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Emote Loc-Shy.png
+</gallery>
+
+[[de:Errötende Goldsucherin]]
+[[pt-br:Garimpeira Ruborizada]]
+[[fr:Prospectrice rougissante]]

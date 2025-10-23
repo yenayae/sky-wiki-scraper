@@ -1,0 +1,207 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Prophecy-Spirit-Prophet-of-Earth.png|Standard
+Prophecy-Spirit-Prophet-of-Earth-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Mask|infobox}}{{Spirit Item||Hair|infobox}}{{Spirit Item||Cape|infobox}}
+|props     = {{Spirit Item||Prop|infobox}}
+|music     = {{Music Sheet|16}}
+|season    = Prophecy
+|realm     = Isle of Dawn
+|location  = Cave of Prophecies
+|ts        = July 31, 2025 (#145)<br>August 29, 2024<ref name="TS121_extended"/> (#121)<br>May 15, 2023 (SV#2)<br>February 3, 2022 (#54)
+}}
+<section begin="Summary" />The '''Prophet of Earth''' is a [[Seasonal Spirit]] from the [[Season of Prophecy]] who offers the {{Emote|Prophet of Earth|inline_text}} Expression. The Prophet of Earth is found in the [[Cave of Prophecies]], near the entrance to the [[Season_of_Prophecy#The_Trial_of_Earth|Trial of Earth]].  The collectibles [[#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Prophet of Earth|Mask|inline_text}}, a {{Spirit Item|Prophet of Earth|Hair|inline_text}}, a {{Spirit Item|Prophet of Earth|Cape|inline_text}}, an {{Spirit Item|Prophet of Earth|Prop|label=Earth Sticker Prop|inline_text}}, and {{Music Sheet|16|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Prophet-of-Earth-promo-image.jpg|thumb|320px|none|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|fS9lZNwF_jg||inline|Video Guide}}
+
+The Prophet of Earth can be found in the [[Cave of Prophecies]], near the entrance to the [[Season_of_Prophecy#The_Trial_of_Earth|Trial of Earth]]. This Spirit has a [[Standard Memory|standard memory]] with 8 memory fragments and a 5-minute overall [[Timed Memory|time limit]]. 
+
+As their memory unfolds, the Prophet of Earth can be seen educating a younger pair of Spirits about the history of the Cave. The Prophet of Earth first greets the young Spirits before directing them to a seating area at the center of the Cave of Prophecies. Together, they sit with a larger group of Spirits listening intently to the lessons being provided by all four of the [[Season_of_Prophecy#All_Prophecy_Friendship_Trees|Prophets]]. The group then splits up as the Prophet of Earth takes their students aside, leading them towards the entrance of the [[Season_of_Prophecy#The_Trial_of_Earth|Trial of Earth]] to continue the lesson. All three Spirits stretch their muscles before starting to climb the steep terrain - only for the clumsiest student to slip and nearly fall before the others could catch them.
+
+At the end of the memory, the Prophet of Earth teaches the younger Spirits about resilience by decisively brushing a hand over both shoulders.<br>
+<br>
+[[File:00 ID Seasonal Spirit - Prophet of Earth.png|200px|thumb|none|Relive the Prophet of Earth's memory]]
+</div>
+{{Clear}}
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.<br>
+<br>
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Prophet-of-Earth-dust-off-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Prophet-of-Earth-dust-off-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Prophet-of-Earth-dust-off-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Prophet-of-Earth-dust-off-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar brush their hand twice over the left shoulder and once over the right, while tambourine sound effects play.
+*Level 2 makes the same motion as Level 1, with small dust clouds appearing from the brushing motions.
+*Level 3 will make your avatar raise both their arms up in front of them and brush off the right one, then the left, as well as their lap, before tilting their neck from side to side as if to crack it, and hop up once, while more elaborate tambourine sound effects play.
+*Level 4 makes the same motion as Level 3, with a shower of white light particles falling as your avatar brushes off their arms, and large dark dust clouds forming around their body as they brush off their lap.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+== Cosmetics ==
+=== Mask ===
+The [[Mask]] offered by this Spirit is a stone spider mask with yellow markings and many small glowing eyes, costing {{Cost|44 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fifth node ({{Cost|76 SC|season=Prophecy}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask front
+{{Icon Name||Mask|side}} {{!}} The Mask side
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Hair ===
+The [[Hair]] offered by this Spirit is a double side bun hairstyle, tied with blue hairbands, costing {{Cost|44 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's second node ({{Cost|12 SC|season=Prophecy}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair front
+{{Icon Name||Hair|side}} {{!}} The Hair side
+{{Icon Name||Hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Cape ===
+The [[Cape]] offered by this Spirit is a webbed purple cape with indigo accents and grey decorations around the trim, costing {{Cost|75 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fifth node ({{Cost|76 SC|season=Prophecy}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||Cape|interior}} {{!}} The Cape interior
+{{Icon Name||Cape|back}} {{!}} The Cape back
+{{Icon Name||Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Prop ===
+The [[Prop]] offered by this Spirit is a wall painting of the earth element symbol, i.e., a small decoration that appears on the targeted surface, costing {{Cost|15 C}} from the Traveling Spirit. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. The Prop appears as a backpack on its owner's back when carried.
+
+This item was not available during the [[Season of Prophecy]]. Instead, it was first introduced during the Prophet of Earth's first (official) visit as a [[#Traveling Spirit|Traveling Spirit]] on February 3, 2022.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Prop|icon}} {{!}} The Prop icon
+{{Icon Name||Prop|real}} {{!}} The Prop
+{{Icon Name||Prop|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Music Sheet ==
+The Prophet of Earth offers the {{Music Sheet|16}} [[Music Sheet]] #16, costing {{Cost|15 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fourth node ({{Cost|49 SC|season=Prophecy}} total). It is a song in the key of E Major.<br>
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guide
+|content=
+{{#ev:youtube|sqxj7N8Ljcw||inline|Music Sheet Video Guide by thatskyfox (Fox Band)}}
+}}
+
+== Traveling Spirit ==
+[[File:Traveling_Spirit_54.jpg|200px|right|thumb]]
+{{Friendship Tree Info | traveling
+|ts_dates=*July 31, 2025 (#145)
+*August 29, 2024<ref name="TS121_extended">The August 29 visit will last until [https://discord.com/channels/575762611111592007/575768778789617674/1279225263334490142 the end of Thursday, September 5 (instead of Sunday, September 1)] due to server errors.</ref> (#121)
+*February 3, 2022 (With a new [[#Prop|Prop]]) (#54)
+*''January 6, 2022 (Error)''<ref name="Error visit">The Spirit's appearance on this date was caused by a bug and was only available for a short period of time. The correct, officially announced visit happened four weeks later.</ref>
+|rs_dates=*May 15, 2023 (SV#2) - The Friendship Tree returned with only one [[Blessing]] above the Level 3 Expression, instead of the original two Blessings.
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Prophet of Earth
+|season = Prophecy
+|image  = Prophecy-Spirit-Prophet-of-Earth.png
+
+|nodeC6 = Mask 44 C
+|nodeL5 = Cape 75 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeR4 = music16 15 C
+|nodeC3 = wing
+|nodeL2 = Hair 44 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+|nodeR1 = Prop 15 C NEW
+}}<section end="TS Friendship Tree" />
+
+=== Hints ===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+The hints given before the [[Prophet of Earth]]'s first appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=First Visit Hints
+|content=<div>
+* Hates things getting dusty
+* Is going to tell you, maimai, to clean your room and make your bed
+* Has no driver's license
+* Is a terrible card game player
+* Likes playing practical jokes on people
+* Is afraid of birds
+* Surprisingly knows how to surf
+* DOES know how to use a spoon
+* Is not a baker 
+* Keeps their space very neat and tidy
+* Likes reading stories that have hidden twists and turns
+* Is the best knitter in their group
+* Also hates sand. Its course, rough, and irritating. And it gets everywhere.
+* Likes LARPing 
+* Plays a Cleric in their DnD group sessions
+* Enjoys tending to their gardens
+* Always wakes up with the sun
+* Is a Virgo sun, Libra moon
+</div>
+}}
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Prophecy}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Prophet of Earth
+|type   = season
+|season = Prophecy
+|image  = Prophecy-Spirit-Prophet-of-Earth.png
+
+|nodeC6 = season_heart 3 SC AP
+|nodeL5 = Mask AP
+|nodeC5 = Cape 27 SC
+|nodeL4 = spell5 AP
+|nodeC4 = music16 21 SC
+|nodeL3 = emote4 AP
+|nodeC3 = emote3 16 SC
+|nodeL2 = spell5 AP
+|nodeC2 = Hair 12 SC
+|nodeL1 = emote2 AP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Trivia==
+* Each [[Season_of_Prophecy#All_Prophecy_Friendship_Trees|Prophet]] is inspired by an animal, and represented by an element of nature. The Prophet of Earth is inspired by a spider, with a tarantula mask and webbed cape. The "Dust Off" Expression may also be based on how spiders brush their legs to clean the bristly hairs that help them gip and climb.
+
+==Image Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Prophet of Earth promo image (mid Season).png
+Season of prophecy brush off emote 1.png
+Season of prophecy group brush off emote 1.png
+Earth dust off.png
+Prophecy-Prophet of Earth.png
+</gallery>
+
+==Video Gallery==
+{{#ev:youtube|F9MHavec2FE||inline|Video Guide by Tara}}
+
+==References==
+<references/>
+
+[[de:Prophet der Erde]]
+[[fr:Prophète de la Terre]]
+[[pt-br:Profeta da Terra]]
+[[ru:Пророк земли]]
+[[ja:地の預言者]]

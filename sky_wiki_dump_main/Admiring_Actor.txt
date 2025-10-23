@@ -1,0 +1,230 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Rhythm-Spirit-Admiring-Actor.png|Standard
+Rhythm-Spirit-Admiring-Actor-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Outfit|infobox}}{{Spirit Item||Mask|infobox}}
+|music     = {{Music Sheet|6}}
+|season    = Rhythm
+|realm     = Hidden Forest
+|location  = Boneyard
+|ts        = October 9, 2025 (#150)<br>June 8, 2023 (#89)<br>June 24, 2021 (#38)<br/>October 15, 2020 (#20)
+}}
+<section begin="Summary" />The '''Admiring Actor''' is a [[Seasonal Spirit]] from the [[Season of Rhythm]] who offers the {{Emote|Admiring Actor|inline_text}} Expression. The Admiring Actor is found in the [[Forest Boneyard]] under the first pavilion of the broken bridge. The collectibles [[Admiring Actor#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Admiring Actor|Outfit|inline_text}}, a {{Spirit Item|Admiring Actor|Mask|inline_text}}, and the {{Music Sheet|6|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Admiring-actor-promo-image.jpg|none|thumb|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|udNx0801Js4||inline|Video Guide}}
+
+The Admiring Actor can be found in the [[Boneyard]] in Hidden Forest, under the first bridge gazebo with an occasional Dark Plant under it. This Spirit has a [[Carry Spirit Memory|carry spirit memory]] with 3 memory fragments and a 6-minute overall [[Timed Memory|time limit]]. 
+
+As their memory unfolds, the Admiring Actor can be seen wading through the flooded ground of the Boneyard, seeming to scan the surroundings as they look for something. 
+
+Throughout the memory, players will have to make their way through polluted water and rain, endangering the health of the light and the memory fragments. Players can either hurry from fragment to fragment and let the light recharge under shelter before continuing, or completely activate the bridge (including the Jellyfish) before starting the Spirit's memory, as this will stop the polluted rain.
+
+At the end of the memory, the Admiring Actor brings their hands to their mouth and outstretches them, blowing a kiss towards the player.<br>
+<br>
+[[File:02 HF Seasonal Spirit - Admiring Actor.png|200px|left|thumb|Relive the Admiring Actor's memory]]
+</div>
+{{Clear}}
+
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Admiring-Actor-blow-kiss-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Admiring-Actor-blow-kiss-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Admiring-Actor-blow-kiss-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Admiring-Actor-blow-kiss-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar squat slightly before standing up tall to blow a kiss with both hands, while a whimsical popping sound effect plays.
+*Level 2 makes the same motion as Level 1, with a light-pink large heart appearing between the avatar's hands as they blow a kiss.
+*Level 3 will make your avatar blow one kiss to their left with just their left hand, and another to their right with just their right hand while whimsical popping sound effects play.
+*Level 4 makes the same motion as Level 3 with two large hearts appearing first to the left and then to the right, in the same order that your avatar blows kisses.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+== Cosmetics==
+=== Outfit ===
+The [[Outfit]] offered by this Spirit consists out of a light-blue wrap top with mid-length sleeves, black high-waisted pants, and fitted dark-blue boots with golden details, costing {{Cost|65 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fourth node ({{Cost|42 SC|season=Rhythm}} total).<br>{{Dye_Details
+|area1=the boots
+|cost1=3
+|area2=the top
+|cost2=2
+}}
+<br>
+{{#tag:gallery
+|{{Icon Name||Outfit|icon}} {{!}} The Outfit icon
+{{Icon Name||Outfit|real}} {{!}} The Outfit front
+{{Icon Name||Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Mask ===
+The [[Mask]] offered by this Spirit is horizontal and in the shape similar to a bird, with a long orange beak and accents, costing {{Cost|42 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|42 SC|season=Rhythm}} total).<br>{{Dye_Details}}
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask front
+{{Icon Name||Mask|side}} {{!}} The Mask side
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Music Sheet ==
+The Admiring Actor offers the {{Music Sheet|6}} [[Music Sheet]] #6, costing {{Cost|15 C}} from the Traveling  Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|12 SC|season=Rhythm}} total). It is a song in the key of C Major.<br>
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guide
+|content=
+{{#ev:youtube|HMDI7kqYn20||inline|Music Sheet Video Guide by Ikejiji}}
+}}
+
+== Traveling Spirit ==
+[[File:SoR Forest TS placeholder.png|200px|right|thumb]]
+{{Friendship Tree Info
+|traveling
+|ts_dates=*October 9, 2025 (#150)
+*June 8, 2023 (#89)<ref name="free_wing_buff">At the time of the Admiring Actor's second Traveling Spirit visit, there was an ongoing bug preventing some players from collecting Ascended Candles. As a result, the Wing Buff's price was temporarily changed to zero Ascended Candles. The zero cost Wing Buff also appeared during their third visit. The Friendship Tree shows the Wing Buff price as 2 Ascended Candles because that was the intended price and will presumably be the price charged on any future visits.</ref>
+*June 24, 2021 (#38)<ref name="free_wing_buff" />
+*October 15, 2020 (#20)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Admiring Actor
+|season = Rhythm
+|image  = Rhythm-Spirit-Admiring-Actor.png
+
+|nodeC6 = Mask 42 C
+|nodeL5 = Outfit 65 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+  |noteC3 = <ref name="free_wing_buff">At the time of the Admiring Actor's second Traveling Spirit visit, there was an ongoing bug preventing some players from collecting Ascended Candles. As a result, the Wing Buff's price was temporarily changed to zero Ascended Candles. The zero cost Wing Buff also appeared during their third visit. The Friendship Tree shows the Wing Buff price as 2 Ascended Candles because that was the intended price and will presumably be the price charged on any future visits.</ref>
+|nodeL2 = music6 15 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+The hints given before the [[Admiring Actor]]'s first appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=First Visit Hints
+|content=<div>
+* Will have some fingers
+* Will also probably have some shoes too
+* May even have some EYES
+* Will be wanting to become friends with many Skykids!
+* Is NOT going to be aeri in a spirit disguise
+* Is toooooootally not a krill
+* Is definitely not a stack of crabs in a coat
+* Will be traveling from a galaxy far far away
+* Prices will need at least one candle
+</div>
+}}
+
+The hints given before the [[Admiring Actor]]'s second appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Second Visit Hints
+|content=<div>
+* Loves receiving flowers 
+* Doesn't like taking long walks
+* Is bad at directions
+* Would like dogs if they ever met one
+* Will be in Sky:COTL 
+* Is in a secret club
+* Hates getting caught in traffic
+* Gets startled easily
+* Wishes they were even taller
+* Dislikes being alone
+* Knows multiple languages
+* Always packs trail mix
+* Hates exercising, don't be like them folks
+* Can wink with both eyes
+* Likes the color blue
+* Likes sugary cereals
+* Hates getting wet
+* Likes lofi music
+* Prefers overcast skies
+* Does ceramics as a hobby
+* Is great at improv
+* Is bad at card games
+* Prefers designer clothing
+* Always loses at rock paper scissors
+* Likes shiny objects
+* Likes alliteration 
+* Burns their cooking
+* Enjoys writing
+* Has a bug collection
+* Seems to rarely sleep
+</div>
+}}
+
+The hints given before the [[Admiring Actor]]'s third appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Third Visit Hints
+|content=<div>
+* Was short as a child
+* Has never worked in retail
+* Would visit Zora's domain in Hyrule first
+* Is perceptive to others emotions
+* Takes their coffee with 4 shots of espresso
+* Lies about sleeping
+</div>
+}}
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Rhythm }}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Admiring Actor
+|type   = season
+|season = Rhythm
+|image  = Rhythm-Spirit-Admiring-Actor.png
+
+|nodeC5 = season_heart 3 SC SP
+|nodeL4 = Mask SP
+|nodeC4 = Outfit 16 SC
+|nodeL3 = emote4 SP
+|nodeC3 = emote3 14 SC
+|nodeL2 = music6 SP
+|nodeC2 = spell5 12 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Unique Daily Quests==
+{{#section-h:Quests/Daily Quest Spirits|{{PAGENAME}}}}
+
+==Trivia==
+*The Admiring Actor Mask is featured in a piece of merch from thatskyshop, in the form of the [[That Sky Shop/Wave 2#Rhythm Actor Mask Pin|Rhythm Actor Mask Pin]]. It has a STAR feature which allows you to wear a Rhythm Actor Mask with the friends that you're holding hands with for a limited duration.
+
+==Image Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Blow kisses .jpg
+Rhythm beta group blow kisses 2.jpeg
+Rhythm beta group blow kisses.jpeg
+Rhythm spirit blow kisses map.png
+</gallery>
+
+==Video Gallery==
+{{#ev:youtube|tK1wNwYVlzE|150|inline|Video Guide by Tara}}
+==References==
+<references/>
+
+[[de:Begeisterter Künstler]]
+[[pt-br:Ator Admirado]]
+[[ru:Восхищённый актёр]]
+[[fr:Acteur admiratif]]
+[[ja:うっとりするような旅役者]]

@@ -1,0 +1,114 @@
+{{Spirit Infobox
+|type      = Regular
+|emote_type= Emote
+|image     = <gallery>
+Forest-Spirit-Pouty-Porter.png|Standard
+Forest-Spirit-Pouty-Porter-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Hair|infobox}}{{Spirit Item||Cape|infobox}}{{Spirit Item||Tier 2 Cape|infobox}}
+|realm     = Hidden Forest
+|location  = Forest's Brook
+}}
+<section begin="Summary" />The '''Pouty Porter''' is a [[Regular Spirit]] in the [[Hidden Forest]] who offers the {{Emote|Pouty Porter|inline_text}} Expression. The Pouty Porter is found at the far end of [[Forest's Brook]], in the entrance of a tunnel to the left of the bridge. The collectibles [[Pouty Porter#Friendship Tree|offered]] by this Spirit are a {{Spirit Item|Pouty Porter|Hair|inline_text}} and two tiers ({{Spirit Item|Pouty Porter|Cape}} {{Spirit Item|Pouty Porter|Tier 2 Cape}}) of a [[Pouty Porter#Cape|Cape]].<section end="Summary" /><br>
+<br>
+[[File:Pouty-Porter-Guide-777-Ed.png|320x320px|thumb|none|Image Guide by 777.Ed]]
+
+== Memory ==
+<div>{{#ev:youtube|https://www.youtube.com/watch?v=5DNs9K-zeeI|||Video Guide by Tara||start=555&end=636&loop=1}}
+<br>
+The Pouty Porter can be found at the far end of [[Forest's Brook]], in the entrance of a tunnel to the left of the bridge. This Spirit is a [[Standard Memory|standard memory]] quest with 4 memory fragments and an unlimited overall [[Timed Memory|time limit]]. All of the memory fragments are [[Spirit Health|sheltered]] from the [[Flora,_Minerals_and_Elements_of_Sky#Rain|rain]].
+
+As their memory unfolds, the Pouty Porter is seen picking up a heavy ball and laboriously carrying it through the tunnel, carefully navigating over obstacles along the way. Eventually, they arrive at the opening on the other side.
+
+At the end of the memory, the Spirit bends over to try picking up another heavy object. When they fail, the Pouty Porter angrily stomps their foot before crossing both arms over their chest and turning away.<br>
+<br>
+[[File:02 HF Spirit - Pouty Porter.png|200px|thumb|none|Relive the Pouty Porter's memory]]
+</div>
+{{Clear}}
+
+==Expression==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels. 
+
+This Expression is required to open the tunnel leading from [[Elevated Clearing]] to the [[Underground Caverns|Underground Cavern]]. It is also used in [[Sanctuary Islands]] to play the bells on the restored Bell Tower.<br>
+<br>
+[[File:{{Icon Name||Emote}}|170px|left]]
+<gallery heights="125" captionalign="center">
+Pouty-Porter-angry-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Pouty-Porter-angry-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Pouty-Porter-angry-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Pouty-Porter-angry-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar stomp their left foot while angrily bringing down their clenched fists to their sides.
+*Level 2 makes the same motion as Level 1 with sparkles following your avatar's hands and a pink popped vein symbol by their head.
+*Level 3 will make your avatar first stomp their left foot and then stomp the right foot, while angrily bringing down their clenched fists to their sides both times.
+*Level 4 makes the same motion as Level 3 with sparkles following your avatar's hands and a red popped vein symbol by their head.
+
+The prices of the three Expression upgrades are {{Cost|1 C}}, {{Cost|2 C}}, and {{Cost|2 C}}. Levels 3 and 4 are only available after unlocking the Spirit's first [[Wing Buff]].
+
+==Cosmetics==
+===Hair===
+The [[Hair]] offered by this Spirit is a medium length of hair on the left side of a shaved head, costing {{Cost|3 H}}. It is permanently available to all players after unlocking the Friendship Tree's second node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair front
+{{Icon Name||Hair|side}} {{!}} The Hair side
+{{Icon Name||Hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Cape===
+The Pouty Porter offers two standard-style teal [[Capes]]; a Tier 1 and a [[Tier 2 Cape|Tier 2]] version, costing {{Heart|20}} and {{Heart|60}} respectively. Both are permanently available to all players after unlocking the Friendship Tree's fifth node and second [[Wing Buff]] respectively.
+
+The Tier 2 Cape (and the second Wing Buff that unlocks it) are not needed to complete the Hidden Forest [[Constellation]]. These were both added to the Friendship Tree in Patch {{v|0.12.0}} on December 15, 2020.
+
+Note that while the Capes' color is very similar to the special [[Beta Cape]] and [[Founder's Pack|Founder's Cape]], the Pouty Porter's Capes do not grant the wearer any ability to open Cape-locked [[Constellation Gate]]s.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape}} {{!}} The Tier 1 Cape icon
+{{Icon Name||Cape|front}} {{!}} The Tier 1 Cape front
+{{Icon Name||Cape|interior}} {{!}} The Tier 1 Cape interior
+{{Icon Name||Cape|back}} {{!}} The Tier 1 Cape back
+|widths=125|captionalign=center|spacing=small
+}}
+
+{{#tag:gallery
+|{{Icon Name||Tier 2 Cape}} {{!}} The Tier 2 Cape icon
+{{Icon Name||Tier 2 Cape|front}} {{!}} The Tier 2 Cape front
+{{Icon Name||Tier 2 Cape|interior}} {{!}} The Tier 2 Cape interior
+{{Icon Name||Tier 2 Cape|real}} {{!}} The Tier 2 Cape back
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Friendship Tree==
+{{Friendship Tree Info | regular}}
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Pouty Porter
+|image  = Forest-Spirit-Pouty-Porter.png
+
+|nodeC8 = tier_2_cape 60 H BONUS
+|nodeC7 = wing 6 AC BONUS
+|nodeC6 = cape 20 H
+|nodeC5 = spell5
+|nodeL4 = emote4 4 C
+|nodeC4 = emote3 4 C
+|nodeC3 = wing 2 AC
+|nodeL2 = hair 3 H
+|nodeC2 = spell1
+|nodeR2 = heart
+|nodeL1 = emote2 3 C
+|nodeC1 = emote
+}}<section end="Friendship Tree" />
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Emote Loc-Angry.png
+</gallery>
+
+==References==
+<references />
+
+[[de:Mürrischer Gepäckträger]]
+[[pt-br:Porteiro Mal-Humorado]]
+[[fr:Porteur boudeur]]

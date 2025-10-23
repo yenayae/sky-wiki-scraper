@@ -1,0 +1,269 @@
+{{Help|beta}}
+{{Season
+| title = Season of Radiance
+| image = SoRadiance-Promo-image.png
+| start = January 20, 2025
+| end = April 6, 2025
+| spirits = 3
+| previousSeason = [[Season of Moomin]]
+| nextSeason = [[Season of the Blue Bird]]
+| constellation = Season-of-Radiance-Constellation.png
+| symbol = Season-of-Radiance-icon.png
+}}
+The '''Season of Radiance''' was the twenty-fourth Seasonal Event in the Live version of Sky since the global release, following [[Season of Moomin]]. It began on '''Monday, January 20, 2025 at 00:00 PST (UTC -8)''' and ended on '''Sunday, April 6, 2025 at 23:59 PDT (UTC -7)''', lasting '''77''' days.<br>
+A Spirit's Reflection reveals colorful possibilities!<br>
+<br>
+{{#ev:youtube|vsWdtQ-Z8WQ||inline|Season of Radiance Trailer}}
+
+==Welcome==
+<center class="title-text-welcome">[https://www.thatskygame.com/news/a-world-of-color-awaits-in-season-of-radiance Welcome to the Season of Radiance!]</center>{{Quote|<br>'''''The Light in Sky bursts into a spectrum of color when  Season of Radiance arrives!'''''}}
+<!--This season is .... LONGER DESCRIPTION HERE.-->
+
+<small>Note that Season of Radiance can be enjoyed by all players who have progressed to at least the '''third''' quest from the [[Hopeful Steward]].</small>
+
+==Dye Workshop==
+The Season of Radiance further expanded upon [[Aviary Village]] by introducing the [[Dye Workshop]]. The Dye Workshop is located above the Hair Salon, and there players can find the Radiance Guide and the station to recolor their cosmetics. Over the course of Season of Radiance, eight different base colors became available to gather from special [[Flora,_Minerals_and_Elements_of_Sky#Darkness|Dark Plants]] in the realms—some colors will be more common than others.
+
+==Cosmetic Dye Feature==
+{{Main|Dyes}}
+Dyeing, a feature introduced in the Season of Radiance, lets players find and craft dyes to change the coloration of select in-game [[Cosmetics]]. With each new [[#Spirit Memory Quests|Season Quest]], new colored [[Flora, Minerals and Elements of Sky#Dark Plants|Dark Plants]] are added throughout the Realms.  Burning those Plants releases correspondingly-colored [[Butterflies]]. Use the {{Emote|Butterfly Charmer|inline_text}} Expression to fill dye containers with colored light, much like Candles and [[Pieces of Light]]. This new feature is a permanent addition to the kingdom of Sky.
+
+Only some cosmetics are dyeable; each of those can either have 1 or 2 dyeable sections. When dressing in an [[Outfit Shrine]], players can select either the original or one of their dyed versions of the cosmetic. <!--For a list of dyeable cosmetics, as well as their sections, see: [TODO].-->
+
+There are 8 basic dye colors: red, yellow, green, cyan, blue, purple, black, and white. When dyeing, players can combine a base color and optional tint color, bringing the number of actual colors from 8 to 72.
+
+Colors can vary based on the lighting of a player's location. The dyeing station's lighting can be adjusted for previewing dyes under different lighting, by pulling the switch to its left. There are a total of 5 options: workshop lighting (the default lighting), [[Daylight Prairie]], [[Valley of Triumph]], [[Golden Wasteland]], and [[Vault of Knowledge]]. 
+
+The Dyes can be viewed in the {{Icon|Pouch-icon.png}} Inventory/Blessing Submenu of the [[Menus and Controls#Expression Menu|Wing Menu]]. <!--Reaction on comment bellow its still there I believe it's not a bug anymore.
+
+!!This may be a bug and not be displayed, so please check this at the start of Live.!!--><br>
+<br>
+<gallery widths="75px" spacing="small" captionalign="center"  >
+File:Red-dye-container-icon-spell.png|Red dye
+File:yellow-dye-container-icon-spell.png|Yellow dye
+File:Green-dye-container-icon-spell.png|Green dye
+File:Cyan-dye-container-icon-spell.png|Cyan dye
+File:Blue-dye-container-icon-spell.png|Blue dye
+File:Purple-dye-container-icon-spell.png|Purple dye
+File:Black-dye-container-icon-spell.png|Black dye
+File:White-dye-container-icon-spell.png|White dye
+</gallery>
+
+==Daily Quests & Seasonal Candles==
+===Daily Quests===
+Collect Seasonal Candles throughout the Season to trade with the new Spirits for their cosmetics. A total of 6 Seasonal Candles are available to gather, as follows:
+*Each day the location of the [[Daily Quests]] change, indicated through the cutscene played when checking in with the Return Shrine Statue at [[Home]] or [[Aviary Village]] - where the camera will pan out from the day's chosen Realm portal. Players will earn one Seasonal Candle per Quest completed. Complete your Quests and claim your reward at the Return Shrine Statue. (4 Candles)
+*Players may also collect an extra Candle by collecting the 4 Seasonal bunches <small>(more information on the "Seasonal bunches locations" below).</small> (1 Candle)
+*Players who have the [[Season Pass]] can claim a Seasonal Candle from the Return Shrine Statue at [[Home]] or the [[Aviary Village#Friendship Constellation Statue|Friendship Constellation Statue]] at Aviary Village as a free daily bonus. (1 Candle)
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" >
+File:SoRadiance-Seasonal-candles.jpg|Radiance Seasonal Candles
+File:SoRadiance-Season-Pass-1.png|Season Pass - page 1
+File:SoRadiance-Season-Pass-2.png|Season Pass - page 2
+File:SoRadiance-Season-Pass-3.png|Season Pass - page 3
+</gallery>
+===Seasonal Candle Bunches Locations===
+The Seasonal Candle bunches are found towards the beginning of each [[Realm]], one Realm a day according to the [[Daily Quests]]' location.<br>
+<gallery spacing="small" captionalign="center">
+Daylight-Prairie-Seasonal-Candles-locations-Pattern-B.png|Prairie Rotation 1 & 2
+Hidden-Forest-Seasonal-Candles-locations-Pattern-B.png|Forest Rotation 1 & 2
+Valley-of-Triump-Seasonal-Candles-locations-Pattern-B.png|Valley Rotation 1 & 2
+Golden-Wasteland-Seasonal-candles-Locations-Pattern-B.png|Wasteland Rotation 1 & 2
+Vault-of-knowledge-Seasonal-candles-Locations-Pattern-B.png|Vault Rotation 1 & 2
+</gallery>
+
+==Child of Light Locations<span id="Winged Light Locations"></span>==
+No [[Children of Light]] were added to the Season of Radiance. 
+
+==Spirit Memory Quests==
+The Quests from the Season of Radiance do not introduce new Spirits, instead unlocking new [[Dyes#Collecting_Colored_Light/Dyes|Colored Darkness Plants]] that will spawn throughout the [[Realms]]. The [[Radiance Greeting Shaman]], the [[Radiance Provoking Performer]], and the [[Radiance Leaping Dancer]] each visit the Radiance Guide for help jazzing up their undyed clothes. After starting each Quest, players can use the introduced colors to customize their own cosmetics.
+
+===<span id="Quest 1">Quest #1</span>===
+In the first Quest, the Radiance Guide is cleaning the dyebath when they spot the player and call them over. A Spirit, the [[Radiance Leaping Dancer]], enters the shop in a white Outfit and matching gold-trimmed Cape; both new cosmetics introduced by the Season. The Radiance Guide invites them to look into the dyebath. In their reflection, the Leaping Dancer envisions their Cape in red and yellow colors.
+
+{{Quote|<br>'''Colored Light''' may be trapped in certain dark plants.<br>The plant's '''Colored Light''' has transferred to this butterfly...<br>Beckon it to share some '''Colored Light''' with you?<br>You returned '''Red Light''' to the '''Dye Workshop'''!<br>The spirits still require one more color...<br>Bring back '''Yellow Light from the new dark plants in '''Daylight Prairie'''.}}
+Following the Radiance Guide into the back room, the player sits at a meditation circle and is introduced to how to obtain dyes. A red-tinted Darkness Plant appears, and upon burning it the player is prompted to use the {{Emote|Butterfly Charmer|inline_text}} Expression to beckon to the Butterfly and collect its colored light. A container along the wall is revealed as the red dye pot. The player is then sent to [[Daylight Prairie]] to find and fetch yellow dye.
+
+{{Quote|<br>Deliver this '''Colored Light''' to the '''Radiance Guide''' at the '''Dye Workshop''' in '''Aviary Village'''.}}
+Once gathered, the Radiance Guide works the two colors into the dyebath and the Leaping Dancer's Cape, Outfit, and Shoes are dyed red and yellow, much to their appreciation.
+
+{{Quote|<br>You may now use the workshop to '''dye cosmetics'''.}}
+With the completion of this Quest, players can now use the Dye Station to color their cosmetics.<br>
+<br>
+{{#ev:youtube|S2tBiPeyF1g|300px||Quest 1 Video Guide}}
+
+===<span id="Quest 2">Quest #2</span>===
+The [[Radiance Leaping Dancer]], in their new red and yellow Cape, returns with a friend! The [[Radiance Provoking Performer]] envisions their colored cosmetic green and cyan, and the Radiance Guide happily obliges. The player is once again recruited to help. Returning to the downstairs room, a green Darkness Plant sprouts — the player is prompted to burn the it, beckon to the Butterfly, and unlock the new dye color. The player is told that "Some types of [[Dyes#Collecting_Colored_Light/Dyes|Colored Light]] appear less frequently".
+
+The Radiance Guide sends the player to release and bring back cyan light from [[Hidden Forest]].
+
+Once the player comes back with the new dye, the Radiance Guide mixes the retrieved green and cyan light into the dyebath. The Radiance Provoking Performer stands before the dyebath to color their Cosmetics. The two Spirits thank the Radiance Guide and exit the workshop.
+<br>
+<br>
+{{#ev:youtube|3LC9C_3lG5Y|300px||Quest 2 Video Guide}}
+
+===<span id="Quest 3">Quest #3</span>===
+The [[Radiance Greeting Shaman]] is accompanied by the [[Radiance Leaping Dancer]] and [[Radiance Provoking Performer]] to ask the [[Radiance Guide]] for help dyeing their accessories. Upon gazing into the dyebath, they picture their cosmetics dyed blue and purple. The player goes downstairs and collects blue colored light from a Darkness Plant.
+
+The player is then sent to bring back purple colored light from the new darkness plants in the [[Golden Wasteland]]. Upon returning, the Radiance Guide helps dye the Radiance Greeting Shaman's cosmetics. The three spirits happily parade out the door.
+<br>
+<br>
+{{#ev:youtube|tKJ6DG_EVuA|300px||Quest 3 Video Guide}}
+
+===<span id="Quest 4">Quest #4</span>===
+The [[Radiance Greeting Shaman]], [[Radiance Leaping Dancer]], and [[Radiance Provoking Performer]] return to the Dye Workshop and sneak up on the [[Radiance Guide]]. They encourage the Radiance Guide to dye their own Mask and Cape. Looking into the dyebath, they realize they want a black and white look!
+
+The player is sent to fetch rare white and black colored light from elsewhere in the Realms. Some recommended areas are [[Prairie Peaks]] and [[Eye of Eden]]. After collecting at least one butterfly of each color, they can deliver the dye back to the Dye Workshop. The Radiance Guide thanks the player and the three Radiance spirits.
+<br>
+<br>
+{{#ev:youtube|Myc68S27FZI|300px||Quest 4 Video Guide}}
+
+===<span id="Quest 5">Quest #5</span>===
+The player stands in the Dye Workshop, when they're surprised by the [[Radiance Guide]], [[Radiance Greeting Shaman]], [[Radiance Leaping Dancer]], and [[Radiance Provoking Performer]] marching in. The Dye Workshop glows with all the dye colors that the player has collected, and the spirits thank the player again. They then invite the player to customize their cosmetics as well!
+
+The player is prompted to use the Dye Station to "create a style for themself and the spirits". The spirits will match dye colors with the player (if the spirit's cosmetic in the corresponding slot, eg: mask, is dyeable). This change is not permanent and can be reverted by removing the dye in the closet.
+*[[Radiance Guide]]: mask, cape.
+*[[Radiance Greeting Shaman]]: outfit, cape, shoes.
+*[[Radiance Leaping Dancer]]: outfit, cape, shoes.
+*[[Radiance Provoking Performer]]: hair, outfit, shoes.
+
+The spirits love the player's new look! The player leads them, in slow motion, out into [[Aviary Village]]. They all show off their new styles to cheers from the admiring audience. Later, a line forms at the Dye Workshop's entrance, the other spirits each excited to dye their cosmetics as well!
+<br>
+<br>
+{{#ev:youtube|QtGlM2C9rM8|300px||Quest 5 Video Guide}}
+
+==Spirits & Cosmetics==
+During the season, all of the ''Season of Radiance'' Spirits could be found in [[Aviary Village]]. There are 3 new Expressions to gather - 3 Spirits overall. 
+{{#tag:gallery
+|{{Icon Name|Radiance Leaping Dancer|emote}} {{!}} {{Icon Name|Radiance Leaping Dancer|emote_name}}
+{{Icon Name|Radiance Provoking Performer|emote}} {{!}} {{Icon Name|Radiance Provoking Performer|emote_name}}
+{{Icon Name|Radiance Greeting Shaman|emote}} {{!}} {{Icon Name|Radiance Greeting Shaman|emote_name}}
+|widths=100|spacing=small|captionalign=center|mode=nolines}}
+===All Radiance Friendship Trees===
+{{Mobile Tabber
+|tab1 = {{Season Icon|Radiance|tab}}
+|c1   = {{#lst:Radiance Guide|Friendship Tree}}
+|tab2 = {{Icon|Quest-icon.png|link=Quests|tab}}
+|c2   = {{#lst:Radiance Guide|Quest Tree}}
+|tab3 = {{Emote|Radiance Leaping Dancer|tab}}
+|c3   = {{#lst:Radiance Leaping Dancer|Season Friendship Tree}}
+|tab4 = {{Emote|Radiance Provoking Performer|tab}}
+|c4   = {{#lst:Radiance Provoking Performer|Season Friendship Tree}}
+|tab5 = {{Emote|Radiance Greeting Shaman|tab}}
+|c5   = {{#lst:Radiance Greeting Shaman|Season Friendship Tree}}
+}}
+
+===[[Radiance Leaping Dancer]]===
+{{#lst:Radiance Leaping Dancer|Summary}}
+{{#tag:gallery
+|{{Icon Name|Radiance Leaping Dancer|outfit|real}} {{!}} The Outfit
+{{Icon Name|Radiance Leaping Dancer|shoes|real}} {{!}} The Shoes
+{{Icon Name|Radiance Leaping Dancer|hair|real}} {{!}} The Hair
+{{Icon Name|Radiance Leaping Dancer|cape|real}} {{!}} The Cape
+{{Icon Name|Radiance Leaping Dancer|prop|real}} {{!}} The Prop
+|widths=125|spacing=small|captionalign=center|mode=nolines}}
+
+===[[Radiance Provoking Performer]]===
+{{#lst:Radiance Provoking Performer|Summary}}
+{{#tag:gallery
+|{{Icon Name|Radiance Provoking Performer|outfit|real}} {{!}} The Outfit
+{{Icon Name|Radiance Provoking Performer|shoes|real}} {{!}} The Shoes
+{{Icon Name|Radiance Provoking Performer|headpiece|real}} {{!}} The Head accessory
+{{Icon Name|Radiance Provoking Performer|cape|real}} {{!}} The Cape
+{{Icon Name|Radiance Provoking Performer|instrument|real}} {{!}} The Instrument
+|widths=125|spacing=small|captionalign=center|mode=nolines}}
+
+===[[Radiance Greeting Shaman]]===
+{{#lst:Radiance Greeting Shaman|Summary}}
+{{#tag:gallery
+|{{Icon Name|Radiance Greeting Shaman|outfit|real}} {{!}} The Outfit
+{{Icon Name|Radiance Greeting Shaman|hair|real}} {{!}} The Hair
+{{Icon Name|Radiance Greeting Shaman|hairpiece|real}} {{!}} The Hair Accessory
+|widths=125|spacing=small|captionalign=center|mode=nolines}}
+
+===[[Radiance Guide]]===
+{{#lst:Radiance Guide|Summary}}
+{{#tag:gallery
+|{{Icon Name|Radiance Guide|necklace_u|real}} {{!}} Radiance Ultimate Pendant
+{{Icon Name|Radiance Guide|cape_u|real}} {{!}} Radiance Ultimate Cape
+{{Icon Name|Radiance Guide|Mask_u|real}} {{!}}Radiance Ultimate Mask 
+|widths=125|spacing=small|captionalign=center|mode=nolines}}
+
+====Additional Cosmetics====
+Upon completing the fifth Quest from the Season of Radiance, one additional cosmetic, [[Radiance_Guide#Cape|a Cape]], is available to purchase for {{Heart}} [[Currency#Hearts|Hearts]] through the Radiance Guide's Quest Tree. '''This item will remain permanently available from the Season Guide after the Season ends.'''
+
+{{#tag:gallery
+|{{Icon Name|Radiance Guide|cape_a|real}} {{!}} Additional Cape
+|widths=125|spacing=small|captionalign=center|mode=nolines}}
+
+==Price Charts==
+Use the [[Seasonal Events/Calculator|Event Calculator]] to verify the status of your Candle count.
+{| class="article-table"
+! Spirits
+! colspan="7" | Candle Cost
+! Total Seasonal Candles
+|-
+|Radiance Leaping Dancer
+|{{#vardefineecho:A1|12}}
+|{{#vardefineecho:A2|16}}
+|{{#vardefineecho:A3|20}}
+|{{#vardefineecho:A4|24}}
+|{{#vardefineecho:A5|28}}
+|{{#vardefineecho:A6|32}}
+|3*
+|{{Cost| {{#vardefineecho:Asum| {{#expr: {{#var:A1}} + {{#var:A2}} + {{#var:A3}} + {{#var:A4}} + {{#var:A5}} + {{#var:A6}} + 3 }} }} SC|season=Radiance}}
+|-
+|Radiance Provoking Performer
+|{{#vardefineecho:B1|10}}
+|{{#vardefineecho:B2|14}}
+|{{#vardefineecho:B3|18}}
+|{{#vardefineecho:B4|24}}
+|{{#vardefineecho:B5|32}}
+|{{#vardefineecho:B6|38}}
+|3*
+|{{Cost| {{#vardefineecho:Bsum| {{#expr: {{#var:B1}} + {{#var:B2}} + {{#var:B3}} + {{#var:B4}} + {{#var:B5}} + {{#var:B6}} + 3 }} }} SC|season=Radiance}}
+|-
+|Radiance Greeting Shaman
+|{{#vardefineecho:C1|14}}
+|{{#vardefineecho:C2|16}}
+|{{#vardefineecho:C3|18}}
+|{{#vardefineecho:C4|20}}
+|{{#vardefineecho:C5|24}}
+|{{#vardefineecho:C6|28}}
+|3*
+|{{Cost| {{#vardefineecho:Csum| {{#expr: {{#var:C1}} + {{#var:C2}} + {{#var:C3}} + {{#var:C4}} + {{#var:C5}} + {{#var:C6}} + 3 }} }} SC|season=Radiance}}
+|-
+! colspan="8" | Total for Season
+! {{Cost| {{#expr: {{#var:Asum}} + {{#var:Bsum}} + {{#var:Csum}} }} SC|season=Radiance}}
+|}<small>''* Only available with [[Season Pass]] (Seasonal Hearts) (subtract when calculating without)''</small>
+
+==Trivia==
+* The Season of Radiance is the fourth Season to take place in [[Aviary Village]], following [[Season of Revival]], [[Season of Nesting]], and [[Season of Duets]].
+* The Season of Radiance is the first Season to have 3 [[Seasonal Spirits]].
+* The Season of Radiance is the first Season where Seasonal Spirits from past Seasons return. According to the Patch Notes, "These [[Season of Gratitude]] Spirits come back to share in Sky kids’ discoveries, and this time, they’re bringing three new expressions, not to mention a variety of capes, outfits, instruments and more—and just about everything can be dyed!"
+
+==Video Gallery==
+<div float: left;><span class="fb-video" data-href="https://www.facebook.com/thatskygame/videos/1142466887298755/" data-height="175" data-show-text="false" ></span><br><small>Season of Radiance Teaser</small></div>
+{{Clear}}
+
+==Image Gallery==
+<gallery widths="175" spacing="small" captionalign="center">
+SoRadiance-Teaser-image.png
+SoRadiance-Promo-image-heart.png
+SoRadiance-Color-Plants-Promo-image.png
+SoRadiance-Dye-Workshop-Fireworks-Promo-image.png
+SoRadiance-Dye-Workshop-Spirits-Promo-image.png
+</gallery>
+
+==References==
+<references />
+
+{{Seasonal Navbox}}
+
+[[ja:光に染まる季節]]
+[[pt-br:Temporada do Resplendor]]
+[[de:Saison des Leuchtens]]
+[[fr:Saison de l'Éclat]]
+[[zh:彩染季]]
+
+[[Category:Seasons]]
+{{DEFAULTSORT:Radiance, Season of}}

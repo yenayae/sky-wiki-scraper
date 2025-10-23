@@ -1,0 +1,29 @@
+This page contains all the [[Cosmetics]] in the order that they appear in the Outfit Shrines and categorized as: [[Outfits]], [[Shoes]], [[Masks]], [[Face Accessories]], [[Necklaces]], [[Hair]], [[Hair Accessories]], [[Head Accessories]], [[Capes]], and [[Props]].  
+
+'''To know more about Cosmetics and the Outfit Shrines, please visit the [[Cosmetics]] page.  '''
+
+{{#invoke:Mobile Tabber|tabber|
+|tab1    = {{Icon | Scroll-Left.png | tab | label=See more | link=Outfit Shrine}}
+|c1      = <br>[[Outfit Shrine|Continue here]] to see [[Outfits]], [[Shoes]], [[Masks]], [[Face Accessories]], [[Necklaces]], [[Hair]], [[Hair Accessories]], and [[Head Accessories]].<br><br><br><br><br><br><br><br><br><br>
+<!-- CAPE -->
+|tab2    = {{Icon| Cape-category-Ray.png | tab | label=Capes }}
+|c2      = <br>{{#lst:Capes|Display}}
+<!-- INSTRUMENT -->
+|tab3    = {{Spirit Item| Laughing Light Catcher | instrument | tab | label=Instruments | link=Instruments }}
+|c3      = <br>{{#lst:Props|Instrument Display}}
+<!-- LARGE PROP -->
+|tab4    = {{Icon| Bookcase-icon.png | tab | label=Large Props | link=Props }}
+|c4      = <br>{{#lst:Props|Large Prop Display}}
+<!-- SMALL PROP -->
+|tab5    = {{Icon| Teacup-icon.png | tab | label=Small Props | link=Props}}
+|c5      = <br>{{#lst:Props|Small Prop Display}}
+}}
+
+==References==
+<references />
+
+[[pt-br:Altar de Trajes/2]]
+[[fr:Sanctuaire des Tenues/Plus]]
+
+[[Category:Cosmetics]]
+[[Category:Menus]]

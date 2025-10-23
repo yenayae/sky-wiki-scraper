@@ -1,0 +1,138 @@
+[[File:Chevron-levels-overall.png|thumb|250px|Chevron Levels 3, 2, and 1]]
+'''Daily Light''' is a new candle-forging system implemented in the [[Update:Live 0.13.0 (163755)| 0.13.0 update]], aiming to reduce the time spent farming [[Pieces of Light]]. The new system allows players to collect a typical number of candles each day more quickly while keeping the maximum obtainable amount of candles roughly the same as before. Under this system, players can have a more organic experience within the game and have more time spending with friends, without feeling rushed to grind and collect wax, in a hurry. Making Sky a more relaxing game.
+<gallery widths="200">
+File:Chevron Guide 1 by lovecry.png|All about Chevrons (Part 1)
+</gallery> <!-- File:Chevron Guide 2 by lovecry.png|All about Chevrons (Part 2) -->
+
+
+
+==Changes to Candle Meter==
+[[File:Daily-light-reduced-chevron.gif|thumb|Chevron Reducing Animation]]
+The candle meter in the interface will change as you play Sky, animating and changing colors to indicate progress through the candle-forge levels. The player will begin the day with three Chevrons, the up-pointing V-shaped marks, over the top-right corner of the candle meter. Every time a candle worth of Light are collected, an animation of a chevron shortens in width appears, indicating the number of candles worth of Light collected has increased. '''The number of chevrons will be reduced by one when 5, 10, and 15 candles worth of Light are collected.''' When 20 candles worth of Light are collected, the candle meter will turn gray.
+
+[[File:Daily Light Refresh.gif|thumb|Daily Light Refresh Animation]]
+At reset each day, the player's Sky child will be "fully refreshed" and the number of Chevrons over the candle meter will reset to three. When the player logs in after reset, a clock icon appears over the candle meter signifying the Daily Light refresh. The percentage of the candle meter filled at the start of the day can be used to determine when the chevrons will be deducted. Since how much a piece of Light is worth correlates with how much more the candle meter is filled when one is collected, the chevrons will be deducted each time this percentage of candle meter is reached.
+
+==Wax Conversion Rates==
+
+Previously, it took 150 [[Pieces of Light]] to forge one white candle. Under the Daily Light system, the player will initially be able to forge candles very quickly, only needing 94 waxes to forge a candle from scratch. When the number of chevrons reduces, the waxes will worth less and the amount needed to forge subsequent candles will increase. The following table shows the number of Pieces of Light required to forge a candle at every chevron level:
+<!--
+    Table instructions:
+    Only edit the values with comments next to them.
+    The rightmost column should automatically update.
+-->
+{| class="wikitable" 
+|-
+! Chevron Level
+! Regular Icon
+! Ready Icon
+! Candle Count
+! Waxes Required<br>(per Candle)
+! Cumulative Total
+|-
+| rowspan="5" | Level 3
+| rowspan="5" | [[File:Chevron level 3.png|frameless|51x51px]]
+| rowspan="5" | [[File:Chevron level 3_ready.png|frameless|51x51px]]
+| 1st
+| rowspan="5" | {{#vardefineecho:lvl3|94}} <!-- Chevron Level 3 amount -->
+| {{#vardefineecho:sum| {{#var:lvl3}} }}
+|-
+| 2nd
+| {{#vardefineecho:sum| {{#expr: {{#var:sum}}+{{#var:lvl3}} }} }}
+|-
+| 3rd
+| {{#vardefineecho:sum| {{#expr: {{#var:sum}}+{{#var:lvl3}} }} }}
+|-
+| 4th
+| {{#vardefineecho:sum| {{#expr: {{#var:sum}}+{{#var:lvl3}} }} }}
+|-
+| 5th
+| {{#vardefineecho:sum| {{#expr: {{#var:sum}}+{{#var:lvl3}} }} }}
+|-
+| rowspan="5" | Level 2
+| rowspan="5" | [[File:Chevron level 2.png|frameless|51x51px]]
+| rowspan="5" | [[File:Chevron level 2_ready.png|frameless|51x51px]]
+| 6th
+| rowspan="5" | {{#vardefineecho:lvl2|139}} <!-- Chevron Level 2 amount -->
+| {{#vardefineecho:sum| {{#expr: {{#var:sum}}+{{#var:lvl2}} }} }}
+|-
+| 7th
+| {{#vardefineecho:sum| {{#expr: {{#var:sum}}+{{#var:lvl2}} }} }}
+|-
+| 8th
+| {{#vardefineecho:sum| {{#expr: {{#var:sum}}+{{#var:lvl2}} }} }}
+|-
+| 9th
+| {{#vardefineecho:sum| {{#expr: {{#var:sum}}+{{#var:lvl2}} }} }}
+|-
+| 10th
+| {{#vardefineecho:sum| {{#expr: {{#var:sum}}+{{#var:lvl2}} }} }}
+|-
+| rowspan="5" | Level 1
+| rowspan="5" | [[File:Chevron level 1.png|frameless|51x51px]]
+| rowspan="5" | [[File:Chevron level 1_ready.png|frameless|51x51px]]
+| 11th
+| rowspan="5" | {{#vardefineecho:lvl1|178}} <!-- Chevron Level 1 amount -->
+| {{#vardefineecho:sum| {{#expr: {{#var:sum}}+{{#var:lvl1}} }} }}
+|-
+| 12th
+| {{#vardefineecho:sum| {{#expr: {{#var:sum}}+{{#var:lvl1}} }} }}
+|-
+| 13th
+| {{#vardefineecho:sum| {{#expr: {{#var:sum}}+{{#var:lvl1}} }} }}
+|-
+| 14th
+| {{#vardefineecho:sum| {{#expr: {{#var:sum}}+{{#var:lvl1}} }} }}
+|-
+| 15th
+| {{#vardefineecho:sum| {{#expr: {{#var:sum}}+{{#var:lvl1}} }} }}
+|-
+| rowspan="5" | Level 0
+| rowspan="5" | [[File:Chevron level 0.png|frameless|51x51px]]
+| rowspan="5" | [[File:Chevron level 0_ready.png|frameless|51x51px]]
+| 16th
+| rowspan="2" | {{#vardefineecho:lvlA|213}} <!-- Chevron Level 0's first and second candle amount -->
+| {{#vardefineecho:sum| {{#expr: {{#var:sum}}+{{#var:lvlA}} }} }}
+|-
+| 17th
+| {{#vardefineecho:sum| {{#expr: {{#var:sum}}+{{#var:lvlA}} }} }}
+|-
+| 18th
+| {{#vardefineecho:lvlB|238}} <!-- Chevron Level 0's third candle amount -->
+| {{#vardefineecho:sum| {{#expr: {{#var:sum}}+{{#var:lvlB}} }} }}
+|-
+| 19th
+| {{#vardefineecho:lvlC|488}} <!-- Chevron Level 0's fourth candle amount -->
+| {{#vardefineecho:sum| {{#expr: {{#var:sum}}+{{#var:lvlC}} }} }}
+|-
+| 20th
+| {{#vardefineecho:lvlD|988}} <!-- Chevron Level 0's fifth candle amount -->
+| {{#vardefineecho:sum| {{#expr: {{#var:sum}}+{{#var:lvlD}} }} }}
+|-
+| rowspan="3" | Gray
+| rowspan="3" | [[File:Chevron gray.png|frameless|51x51px]]
+| rowspan="3" | [[File:Chevron gray_ready.png|frameless|51x51px]]
+| 21st
+| approx. 2000
+| ≈{{#expr: {{#var:sum}} + 2000 }}
+|-
+| 22nd
+| approx. 4000
+| ≈{{#expr: {{#var:sum}} + 6000 }}
+|-
+| colspan="3" | and so on...
+|}
+
+==References==
+*[https://www.thatskygame.com/news/system-preview-daily-light System Preview: Daily Light]
+*[https://thatgamecompany.helpshift.com/a/sky-children-of-the-light/?p=all&s=gameplay-features&f=what-is-daily-light-and-how-does-it-work What is Daily Light, and how does it work?]
+*[https://www.youtube.com/watch?v=ys6LSbisEc4 Developer Update: Daily Light]
+*
+
+
+
+[[fr:Lumière Quotidienne]]
+[[pt-br:Luz Diária]]
+[[de:Tägliches Licht]]
+
+[[Category:Daily Content]]

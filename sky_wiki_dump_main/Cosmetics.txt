@@ -1,0 +1,175 @@
+[[File:Spirit-tips-3-Express-yourself.jpg|thumb|300px]]
+'''Cosmetics''' are wearable items that can be [[collectibles|collected]] by the player in Sky. They are the most common type of collectible. Obtaining cosmetics is not necessary to advance in the game, but it is the primary way to customize the player's appearance.
+
+A complete side-by-side view of the cosmetic icons to their in-game visuals can be found in [[Outfit Shrine]]s.
+The cosmetics specifically from Regular Spirits are summarized at [[Regular Spirits/Cosmetics]].''
+
+==Types of Cosmetics==
+There are ten different types of cosmetics. At most, one item of each type can be worn at any time. Each of the following pages list all of the items of each type that have ever been made available to players in Sky.
+{| class="article-table"
+| rowspan="3" style="text-align:center;" |[[File:Sky-Closet-Pants-Morybel-0146.png|x100px|link=Outfits]]
+| {{Icon| Moomin-Invisible-Outfit-icon.png | tab | label=Outfits }}
+| 
+*[[Outfits]]: includes all pants and leggings that can be worn with [[Shoes]].
+|-
+| {{Spirit Item| Chuckling Scout | footwear | table | label=Shoes | link=Shoes }}
+|
+*[[Shoes]]: all footwear.
+|-
+| {{Spirit Item| Talented Builder | outfit | table | label=Outfits | link=Outfits }}
+|
+*[[Outfits]]: includes all pants, leggings and onesies that can't be worn with [[Shoes]].
+|-
+| rowspan="3" style="text-align:center;" |[[File:Sky-Closet-Masks-Morybel-0146.png|x100px|link=Masks]]
+| {{Icon| Icon_mask_default.png | table | label=Masks | link=Masks }}
+|
+*[[Masks]]: includes all face coverings.
+|-
+| {{Icon| Mimi-4117 07 chill sunbather mask.png | tab | label=Face Accessories }}
+|
+*[[Face Accessories]]: extra items worn on the face.
+|-
+| {{Spirit Item| Comfort of Kindness | neckpiece | table | label=Necklaces | link=Necklaces }}
+|
+*[[Necklaces]]: all items worn around the neck, including [[Seasonal Events|Seasonal]] pendants.
+|-
+| rowspan="3" style="text-align:center;" |[[File:Sky-Closet-Hairstyles-Morybel-0146.png|x100px|link=Hair]]
+| {{Icon| Icon_hair_default.png | table | label=Hair | link=Hair }}
+|
+*[[Hair]]: all hairstyles and most hats.
+|-
+| {{Icon| Icon hair summer hat headpiece.png | table | label=Hair Accessories | link=Hair Accessories }}
+|
+*[[Hair Accessories]]: extra items worn on top of hair.
+|-
+| {{Icon| Icon hair dreams hermit horns.png | table | label=Head Accessories | link=Head Accessories }}
+|
+*[[Head Accessories]]: extra items worn on the head.
+|-
+| style="text-align:center;" |[[File:Sky-Closet-Capes-Morybel-0146.png|x100px|link=Capes]]
+| {{Icon| Cape-category-Ray.png | table | label=Capes | link=Capes }}
+|
+*[[Capes]]: the most visible clothing and representation of the player's ability to fly.
+|-
+|
+| colspan="2"|The following Props category is split into three different tabs, but only one can be equipped at a time:
+|-
+| rowspan="3" style="text-align:center;" |[[File:Sky-Closet-accessories-Morybel-0146.png|x100px|link=Props]]
+| {{Spirit Item| Laughing Light Catcher | Instrument | table | label=Instruments | link=Instruments }}
+|
+*[[Props|Held Props]]: all items carried on the player's back that can be held, including [[Instruments]].
+|-
+| {{Spirit Item| Assembly Guide | prop_b | table | label=Large Props | link=Props }}
+|
+*[[Props|Large Placeable Props]]: all other "large" items carried on the player's back that can be placed or used in [[Shared Spaces]].
+|-
+| {{Icon| Teacup-icon.png | table | label=Small Props | link=Props }}
+|
+*[[Props|Small Placeable Props]]: all other "small" items carried on the player's back that can be placed or used in [[Shared Spaces]].
+|}
+
+==Outfit Shrines==
+Outfit Shrines are where players select which cosmetics to wear and can preview some of the available cosmetics. There are five closets, each providing access to one or two types of cosmetics, as listed above under [[#Types of Cosmetics|Types of Cosmetics]].
+
+When in the closet, a menu is shown listing icons within that cosmetics type.  Three types of icon are possible:
+* White icons: items that have been purchased and can currently choose to wear.
+* Dim icons: items that can be previewed, but not worn.  If one of these icons are selected, the player will see themselves wearing the item, but only as long as they stay in the closet.  When the player leaves, it will be replaced by the previously-selected purchased item.
+** All of the items available from [[Regular Spirits]] and from the current [[Seasonal Events|Season]] are visible as dim icons. When the icon is selected, the player will be told where to find the corresponding spirit.
+* Star icons ({{Icon|Four-point-star-Ray.png|link=}}): a handful of other unpurchased items -- in particular [[Elder Hair]] and some [[Special Events|Special Event]] cosmetics -- are represented by placeholder star icons in the closet menu. It is not possible to preview these items or obtain more information about them within the closet. 
+
+Note that many unpurchased items do not appear at all in the closets.  In particular, unowned cosmetics from past [[Seasonal Spirits]] (including any current [[Traveling Spirit]]) do not appear and therefore cannot be previewed.
+
+=== Outfit Shrine Locations===
+In total there are 14 locations where Outfit Shrines can be found:
+* [[Home]]
+* [[Aviary Village]]
+* Aviary Village [[Concert Hall]]
+* Aviary Village [[Sky_Anniversary#Sky_Cinema|Cinema]]
+* [[Daylight Prairie]] social area
+* [[Hidden Forest]] social area
+* [[Valley of Triumph]] social area
+* [[Golden Wasteland]] social area
+* [[Eye of Eden]] social area
+* [[Eye of Eden#Ascent and Orbit|Orbit]]
+* [[Village Theater]], behind the stage
+* [[Valley of Triumph#Coliseum|Coliseum]] 
+* [[Golden Wasteland#Nintendo Switch Area|Nintendo Area]]
+* [[Secret Area|Office]], on the second floor
+[[Isle of Dawn]] is the only Realm without an Outfit Shrine.
+
+<gallery widths="250" captionalign="center" spacing="small">
+Home Outfit Shrine.png|Home Outfit Shrine
+Aviary Outfit Shrine.png|Aviary Village Outfit Shrine
+Aviary-Concert-Hall-Outfit-Shrine.png|Aviary Concert Hall Outfit Shrine
+Prairie Outfit Shrine.png|Daylight Prairie Outfit Shrine
+Forest Outfit Shrine.png|Hidden Forest Outfit Shrine
+Valley Outfit Shrine.png|Valley of Triumph Outfit Shrine
+Wasteland Outfit Shrine.png|Golden Wasteland Outfit Shrine
+Eden Outfit Shrine.png|Eye of Eden Outfit Shrine
+Orbit Outfit Shrine.png|Orbit Outfit Shrine
+Theater Outfit Shrine.png|Village Theater Outfit Shrine
+Coliseum Outfit Shrine day.png|Coliseum Outfit Shrine
+Coliseum Outfit Shrine night.png|Coliseum Outfit Shrine during Concert
+Nintendo Outfit Shrine.png|Nintendo Area Outfit Shrine
+Office Outfit Shrine.png|Office Outfit Shrine
+</gallery>
+
+In addition, a [[Props]] Outfit Shrine (but not the other four closets) can be found in [[Harmony Hall]], and another in the Cackling Crab, during the [[Days of Mischief]]. Similar to them, a [[Capes|Cape]] Outfit Shrine can be found in the [[Daylight Prairie|Eight Player Puzzle Area]].
+<gallery widths="200" captionalign="center" spacing="small">
+Harmony Hall Outfit Shrine.png|Harmony Hall Outfit Shrine
+Cackling Crab Outfit Shrine.png|Cackling Crab Outfit Shrine
+Eight Player Puzzle Area Outfit Shrine.png|Eight Player Puzzle Area Outfit Shrine
+</gallery>
+
+When a player has a new cosmetic that they haven't collected from the Outfit Shrine, that section of the shrine will glow.
+
+[[File:Home Outfit Shrine Lit.png|thumb|none|500px|Sections glowing when you have new items]]
+
+==Obtaining Cosmetics==
+The sources of cosmetics include: 
+*[[Friendship Tree (Regular)|Friendship Tree]]s of [[Regular Spirits]].  The primary source of cosmetics, especially for new players.
+*[[Friendship Tree (Seasonal)|Friendship Tree]]s of [[Seasonal Spirits]] during their seasons.
+**New [[Seasonal Events|Seasons]] are released a few times a year, each of which adds brand new, themed collectibles to the game.
+*[[Friendship Tree (Traveling)|Friendship Tree]]s of [[Traveling Spirits]] to collect collectibles from past Seasons.
+*[[Special Events]]: "Days of" events are recurring celebrations that happen roughly once per year. Each one has a few themed collectible items.
+
+<gallery widths="200" spacing="small">
+Outfit-tips-1-Free-the-spirits.jpg
+Outfit-tips-2-Offer-them-hearts.jpg
+Outfit-tips-3-Dress-up-at-the-outfit-shrine.jpg
+Outfit-tips-4-Be-adventurous.jpg
+Outfit-tips-5-Check-back-regularly.jpg
+Outfit-tips-6-Perform-together.jpg
+</gallery>
+
+==Printable Charts ==
+<gallery widths="100px">
+Printable-Cosmetics-from-events-english-Morybel-0146.jpg
+Printable-Seasonal-Cosmetics-english-Page-1-Morybel-0146.jpg
+Printable-Seasonal-Cosmetics-english-Page-2-Morybel-0146.jpg
+</gallery>
+
+==Videos==
+<gallery widths="200" spacing="small" captionalign="center" hideaddbutton="true" mode="nolines">
+File:Sky- Children of the Light- Cosmetics and Instruments (Non-Seasonal)
+File:Spirit Constellations and Unlocking Ultimate Rewards
+</gallery>
+
+==Trivia==  
+*Certain cosmetics can be seen on some Spirits but are otherwise unobtainable currently. Some include;
+** The giant pot on the backs of the Rejecting Voyager, Elder of the Prairie, Troupe Greeter from the Season of Rhythm, and one of the [[Secret Area|Secret Area]]'s Spirits. The pots may carry butterflies that maybe presumed to recharge the player or give a boost.
+**The spear that the Cat Spirit from the [[Secret Area]] was previously seen carrying on their back, along with the one the Elder of the Wasteland wields.
+**The unique mask the [[Lightseekers Guide]] wears. 
+***It was [[NetEase/Cosmetics|exclusively obtainable]] by players in NetEase version who went to [[Eye of Eden]] twice in 2019 or as a giveaway prize for said players on Android in 2020.
+**The small hammer the Slumbering Shipwright and The Elder of The Forest always holds.
+**The tall segment of the masks that the Polite Scholar, Meditating Monastic, Levitating Adept, Shushing Light Scholar, Wise Grandparent, and Elder of The Vault have.
+
+{{Navigation Box}}
+[[de:Kosmetika]]
+[[fr:Cosmétiques]]
+[[pt-br:Cosméticos]]
+[[ru:Наряды]]
+[[ja:ドレスアップアイテム]]
+
+[[Category:Collectibles]]
+[[Category:Cosmetics]]

@@ -1,0 +1,102 @@
+{{Location
+|image      = Forgotten Ark.jpg
+|realm      = Golden Wasteland
+|access     = [[Broken Temple]], [[Wind Paths]]
+|season     = Enchantment
+|seasonal_spirits  = {{Spirit Group|Enchantment|format=infobox}}
+|children_of_light = 2 {{Icon|Map-Shrine-flashing-Star-WL-indicator.png|link=Children of Light#{{{title|{{PAGENAME}}}}}}}
+|pieces_of_light   = 109 {{Cost|L}}
+}}
+<section begin="Quote" />{{Quote|<br>'''''What was covered in the sand?'''''|Forgotten Ark Opening}}<section end="Quote" /> <!-- What was covered in the sand? -->
+<section begin="Summary" />'''The Forgotten Ark''' is a seasonal area added to the [[Golden Wasteland]], introduced along with the [[Season of Enchantment]] in Patch {{v|0.9.0}}. All the quests, spirits, and activities can be found in this area. To enter The Forgotten Ark, after landing in the [[Broken Temple]] area, explore the right-hand side of the map. There you will find a pier and a boat. Sit and meditate on the boat, and it will take you to the new area. {{Wind Pathway|3}}, within the clouds to the right of the ark. In The Forgotten Ark, find colored lights to revitalize the area and the spirits. <section end="Summary"/>
+__TOC__
+{{Clear}}
+==Overview==
+{{Quote|<br>'''''An enchanted pearl in the Golden Wasteland.'''''|Restored Forgotten Ark Opening}}
+The Forgotten Ark is an expansive dune-filled area with a collapsed ark buried in the sands, commanding intrigue and awe from those who behold it. The area, before any quests, begins with the ship entirely stripped of color, with a green fog enveloping the area. As the quests are completed, life is brought to the area, with water getting introduced and the scenery becoming more vibrant. The entrance holds a [[Dark Dragons|Dark Dragon]]. While the dragon's path steers clear of where the player will likely ever be, it is still able to catch sight of them if the player approaches its view. In the center of the area is the Ark, with a farming cave far behind it. There are 6 Seasonal Spirits to find and relive, with the [[Enchantment Guide]] being in the Ark.
+
+===Child of Light Locations===
+There are a total of [[Children of Light#Forgotten Ark|2 Children of Light]] in the area.
+{{#lst:Children of Light|ForgottenArk Children}}
+
+===Spirits in the Forgotten Ark===
+In the Forgotten Ark, there are 6 [[Seasonal Spirits]] ({{Emote|Nodding Muralist}}[[Nodding Muralist]],{{Emote|Indifferent Alchemist}}[[Indifferent Alchemist]],{{Emote|Crab Walker}}[[Crab Walker]],{{Emote|Scarecrow Farmer}}[[Scarecrow Farmer]],{{Emote|Snoozing Carpenter}}[[Snoozing Carpenter]],{{Emote|Playfighting Herbalist}}[[Playfighting Herbalist]]).
+<section begin="SpiritTabber" />{{Mobile Tabber 
+|tab1 = {{Emote|Nodding Muralist|tab}}
+|c1   = <div> {{#ev:youtube|PLP7r3UoIwo|400|right}} {{#lst:Nodding Muralist|Summary}} {{#lst:Nodding Muralist|TS Friendship Tree}} </div>
+|type1= seasonal
+
+|tab2 = {{Emote|Indifferent Alchemist|tab}}
+|c2   = <div> {{#ev:youtube|XpMexGi-YO4|400|right}} {{#lst:Indifferent Alchemist|Summary}} {{#lst:Indifferent Alchemist|TS Friendship Tree}} </div>
+|type2= seasonal
+
+|tab3 = {{Emote|Crab Walker|tab}}
+|c3   = <div> {{#ev:youtube|xhrGhAAAPXc|400|right}} {{#lst:Crab Walker|Summary}} {{#lst:Crab Walker|TS Friendship Tree}} </div>
+|type3= seasonal
+
+|tab4 = {{Emote|Scarecrow Farmer|tab}}
+|c4   = <div> {{#ev:youtube|CuQdKjxaNN4|400|right}} {{#lst:Scarecrow Farmer|Summary}} {{#lst:Scarecrow Farmer|TS Friendship Tree}} </div>
+|type4= seasonal
+
+|tab5 = {{Emote|Snoozing Carpenter|tab}}
+|c5   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Snoozing Carpenter|Summary}} {{#lst:Snoozing Carpenter|TS Friendship Tree}} </div>
+|type5= seasonal
+
+|tab6 = {{Emote|Playfighting Herbalist|tab}}
+|c6   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Playfighting Herbalist|Summary}} {{#lst:Playfighting Herbalist|TS Friendship Tree}} </div>
+|type6= seasonal
+}}<section end="SpiritTabber" />
+
+==Activities==
+===Enchantment Quests===
+<div style="float:right">{{Mobile Tabber|textonly=1
+|tab1 = 1
+|c1   = <div> {{#ev:youtube|lD_Z080b2EU|300|right}} </div>
+|tab2 = 2
+|c2   = <div> {{#ev:youtube|WPotQHMUuYw|300|right}} </div>
+|tab3 = 3
+|c3   = <div> {{#ev:youtube|ZAToCW7tpuo|300|right}} </div>
+|tab4 = 4
+|c4   = <div> {{#ev:youtube|mzUVM4sqroI|300|right}} </div>
+|tab5 = 5
+|c5   = <div> {{#ev:youtube|ZfaJrpCWctM|300|right}} </div>
+|tab6 = 6
+|c6   = <div> {{#ev:youtube|m92rALQldBM|300|right}} </div>
+}}</div>
+In The Forgotten Ark, Seasonal Quests from the [[Season of Enchantment]] are available to do. Each task requires players to retrieve a specially-colored light for a Spirit. A colored light can be find in one of the realms (after being unlocked by talking to the Guide). Use the Spirit's hints to find the colored lights and recover the sandy dunes of the Wasteland.
+{{Clear}}
+
+==Gallery==
+<gallery widths="100" spacing="small">
+enchantment watching boo - spite.jpeg
+enchantment watching crab walk - spite.jpeg
+enchantment watching nod spirit - marie.jpg
+enchantment watching play fight - ase.jpeg
+enchantment watching shrug spirit - ase.jpeg
+enchantment watching sleepy spirit 2 - ase.jpeg
+enchantment watching all the spirits perform - spite.jpeg
+enchantment nice flight - spite.jpeg
+enchantment moon peaking out - ase.jpeg
+enchantment group boo spirit - ase.jpeg
+enchantment group crab - marie.jpg
+enchantment group head nod - marie.jpg
+enchantment group nod spirit - ase.jpeg
+enchantment group shrug spirit - ase.jpeg
+enchantment group sleepy spirit - ase.jpeg
+enchantment group symbols - ase.jpeg
+enchantment group symbols Maelstrom.jpg
+</gallery>
+
+==Trivia==
+*The Forgotten Ark was used as the [[Days of Bloom#March 2023|Days of Bloom 2023]] event space, with a week of rain restoring the polluted sands back to life. 
+*The Forgotten Ark is featured in a piece of merch from thatskyshop, in the form of the [[That Sky Shop/Wave 5#Forgitten Ark Pin|Forgotten Ark Pin]]. It has a STAR feature which allows you and the friends you are holding hands with to teleport to the Forgotten Ark.
+
+{{RealmsNav}}
+
+[[fr:L'Arche Oubliée]]
+[[de:Vergessene Arche]]
+[[pt-br:Arca Esquecida]]
+[[ja:忘れられた方舟]]
+
+{{DEFAULTSORT:Forgotten Ark, The}}
+[[Category:Golden Wasteland]]

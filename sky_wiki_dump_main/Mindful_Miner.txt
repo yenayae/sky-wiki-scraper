@@ -1,0 +1,140 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Aurora-Spirit-Mindful-Miner.png|Standard
+AURORA-Spirit-Mindful-Miner-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Outfit|infobox}}{{Spirit Item||Mask|infobox}}{{Spirit Item||Hair|infobox}}{{Spirit Item||Cape|infobox}}
+|music     = 
+|season    = AURORA
+|realm     = Valley of Triumph
+|location  = Coliseum
+|ts        = June 9, 2025 (SV#9)<br>February 27, 2025 (#134)
+}}<section begin="Summary" />The Mindful Miner is a [[Seasonal Spirit]] from the [[Season of AURORA]] who offers the {{Emote|Mindful Miner|inline_text}} Expression. The Mindful Miner is found standing on the left side of the [[Coliseum]] in [[Valley of Triumph]], by the [[AURORA Guide]]. The collectibles [[#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Mindful Miner|Outfit|inline_text}}, a {{Spirit Item|Mindful Miner|Mask|inline_text}}, a {{Spirit Item|Mindful Miner|Hair|inline_text}}, and a {{Spirit Item|Mindful Miner|Cape|inline_text}}. Players can view their memories by completing the [[Season of AURORA#Quest #2|second Quest]] at the beginning of the [[Hidden Forest#Underground Cavern|Underground Cavern]], next to the [[Hairtousle Teen]] Spirit, just before the butterfly jars.<section end="Summary" /><br>
+<br>
+[[File:Mindful-Miner-promo-image.jpg|thumb|320px|none|TGC's Promo image]]
+{{Quote|<br>You burrowed down, surrounded yourself in stone. <br> You closed your eyes to blindly drive out Light that stood in the way.<br>But still the colors of compassion sought you when you trembled in darkness,<br> and finally you learned to see the Light that reaches to us all.}}
+
+==<span id="Expression">Expression</span>==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|x170px]]
+<gallery heights="125" captionalign="center">
+Mindful-Miner-Raise-the-Roof-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Mindful-Miner-Raise-the-Roof-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Mindful-Miner-Raise-the-Roof-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Mindful-Miner-Raise-the-Roof-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar start to rhythmically and gently move their body up and down, before raising their arms and pushing them up and down, looking around a bit every now and then, while rhythmic hi-hat and ride drum sounds sounds play. This action is continued for as long as you don't move your avatar.
+*Level 2 makes the same motion as Level 1, but with white light orbs moving up and down beside each of the avatar's sides, in rhythm with their motion.
+*Level 3 will make your avatar stand with their legs spread in a 90 degree angle, raising their arms above their head before rhythmically pushing their body and arms up and down, stretching out each leg once in a while, while rhythmic drum sounds play. This action is continued for as long as you don't move your avatar.
+*Level 4 makes the same motion as Level 3, but with big white sparkles dancing up and down above your avatar, in rhythm with their motion.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+==Cosmetics==
+===<span id="Outfit">Outfit</span>===
+The [[Outfit]] offered by this Spirit consists of a plain white sleevesless top, white balloon pants with yellow accents, a yellow belt and a fringe sash around it, as well as yellow bands around the upper arms and a white band around the neck, costing {{Cost|55 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fifth node ({{Cost|80 SC|season=Aurora}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Outfit|icon}} {{!}} The Outfit icon
+{{Icon Name||Outfit|real}} {{!}} The Outfit front
+{{Icon Name||Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Mask">Mask</span>===
+The [[Mask]] offered by this Spirit is bare-faced with one leaf-shaped and one stem-shaped green line under each eye, costing {{Cost|35 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|10 SC|season=Aurora}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Hair">Hair</span>===
+The [[Hair]] offered by this Spirit is made of wavy and curly hair shaped into a voluminous mohawk-like hairstyle with braids going up the scalp sides and two small three-strand braids hanging down at the front sides, costing {{Cost|40 C}} from the Traveling Spirit. It was available to all players during the Season after unlocking the Friendship Tree's third node ({{Cost|52 SC|season=Aurora}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair<!-- front
+{{Icon Name||Hair_side}} {{!}} The Hair side
+{{Icon Name||Hair_back}} {{!}} The Hair back-->
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Cape">Cape</span>===
+The [[Cape]] offered by this Spirit consists of a collared, flat, rectangle-shaped vibrant green cape with golden accents and white feathered shoulder embellishments, costing {{Cost|75 C}} from the Traveling Spirit. It was available to all players during the Season after unlocking the Friendship Tree's sixth node ({{Cost|112 SC|season=Aurora}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||Cape|interior}} {{!}} The Cape interior
+{{Icon Name||Cape|back}} {{!}} The Cape back
+{{Icon Name||Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Traveling Spirit==
+{{Friendship Tree Info 
+| traveling
+| ts_dates = *February 27, 2025 (#134)
+| rs_dates= *June 9, 2025 (SV#9)
+}}
+<section begin='TS Friendship Tree' />{{Friendship Tree
+|spirit = Mindful Miner
+|season = AURORA
+|image  = Aurora-Spirit-Mindful-Miner.png
+
+|nodeC6 = cape 75 C
+|nodeL5 = outfit 55 C
+|nodeC5 = spellx 5 C
+|nodeR4 = hair 40 C
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = mask 35 C
+|nodeC2 = spellx 5 C
+|nodeR2 = heart 3 C
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end='TS Friendship Tree' />
+
+==Season Friendship Tree ==
+{{Friendship Tree Info | season| season=AURORA}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Mindful Miner
+|image  = SoAurora-Mindful-Miner-spirit-cutout.png
+|type   = season
+|season = AURORA
+
+|nodeC7 = season_heart 3 SC SP
+|nodeL6 = spellx SP
+|nodeC6 = cape 32 SC
+|nodeL5 = outfit SP
+|nodeC5 = spellx 28 SC
+|nodeL4 = spellx SP
+|nodeC4 = Hair 24 SC
+|nodeL3 = emote4 SP
+|nodeC3 = emote3 18 SC
+|nodeL2 = Mask SP
+|nodeC2 = spellx 10 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+== Trivia ==
+*The Mindful Miner is the only Spirit from the Season of AURORA not named after their respective song (which would be  “All Is Soft Inside”, AURORA’s fourth song on her album “Infections Of A Different Kind - Step 1”.)
+
+==References==
+<references />
+
+[[fr:Mineur attentif]]
+[[pt-br:Mineradora Consciente]]
+[[ru:Внимательная шахтёрка]]
+[[ja:覚醒の採掘者]]
+[[zh:謹慎礦工]]
+
+[[Category:Season of AURORA]]

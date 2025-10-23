@@ -1,0 +1,97 @@
+{{Spirit Infobox
+|type      = Regular
+|emote_type= Emote
+|image     = <gallery>
+Isle-Spirit-Ushering-Stargazer.png|Standard
+Isle-Spirit-Ushering-Stargazer-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Outfit|infobox}}{{Spirit Item||Hair|infobox}}
+|realm     = Isle of Dawn
+|location  = [[Isle_of_Dawn#Sand_Dunes|Sand Dunes]]
+}}
+<section begin="Summary"/>The '''Ushering Stargazer''' (formerly '''Ushering Migrant'''<ref name="Spirit name change">In Patch {{v|0.11.4}}, both the [[Pointing Candlemaker]] and [[Ushering Stargazer]] Spirits were renamed to better reflect their updated memory stories.</ref>) is a [[Regular Spirit]] in [[Isle of Dawn]] who offers the {{Emote|Ushering Stargazer|inline_text}} Expression. The Ushering Stargazer is found by the [[Isle of Dawn#Sand Dunes|Sand Dunes]], behind a stone pillar between the [[Passage Stone]] and the ramp leading to the Isle Temple.<ref name="original_location">The Ushering Stargazer was moved in Patch {{v|0.28.5}}. The spirit was originally located behind the main ramp that leads to the temple.</ref> The collectibles [[Pointing Candlemaker#Friendship Tree|offered]] by this Spirit are an {{Spirit Item|Ushering Stargazer|Outfit|inline_text}} and a {{Spirit Item|Ushering Stargazer|Hair|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Ushering-Stargazer-Guide-777-Ed.png|320x320px|thumb|none|Image Guide by 777.Ed]]
+
+== Memory ==
+<div>
+{{#ev:youtube|rWbhLtvOfUY||inline|Video Guide}}
+<br>
+The Ushering Stargazer can be found by the [[Isle of Dawn#Sand Dunes|Sand Dunes]], behind a stone pillar between the [[Passage Stone]] and the large ramp with a [[Children of Light#Sand Dunes|Child of Light]] leading to the Isle of Dawn Temple. This Spirit is a [[Standard Memory|standard memory]] quest with 6 memory fragments and an unlimited overall [[Timed Memory|time limit]].
+
+As their memory unfolds, the Ushering Stargazer is seen traveling across the land together with another Spirit. The Ushering Stargazer spots a falling star streaking across the sky and rushes ahead while their friend lags behind. What lands is not a star but a small child - curled up and unconscious. Concerned, the Ushering Stargazer urges their slow companion to hurry up and come closer.
+
+At the end of the memory, the two Spirits stand over the fallen child who begins to stir. The Ushering Stargazer and their friend give each other an uncertain glance, wondering what to do with their discovery.<br>
+<br>
+[[File:00 ID Spirit - Ushering Stargazer.png|200px|thumb|none|Relive the Ushering Stargazer's memory]]
+</div>
+{{Clear}}
+
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.<br>
+<br>
+[[File:{{Icon Name||Emote}}|170px|left]]
+<gallery heights="125" captionalign="center">
+Ushering-Stargazer-come-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Ushering-Stargazer-come-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Ushering-Stargazer-come-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Ushering-Stargazer-come-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar turn to face backwards and raise their right arm to wave their hand in circles. This action is continued for as long as you don't move your character.
+*Level 2 makes the same motion as Level 1 with a white line following the waving hand, emphasizing the gesture.
+*Level 3 will make your avatar jump into a 270° spin and wave their right hand over their head to point backwards. This action is continued for as long as you don't move your character.
+*Level 4 makes the same motion as Level 3 with a green line and sparks of light following the waving hand, emphasizing the gesture.
+
+The prices of the three Expression upgrades are {{Cost|1 C}}, {{Cost|2 C}}, and {{Cost|2 C}}. Levels 3 and 4 are only available after unlocking the Spirit's [[Wing Buff]].
+
+==Cosmetics==
+===Outfit===
+The [[Outfit]] offered by this Spirit is a beige half-sleeve top with matching loose pants, costing {{Cost|4 H}}. It is permanently available to all players after unlocking the Spirit's [[Wing Buff]] and the Friendship Tree's fourth node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Outfit}} {{!}} The Outfit icon
+{{Icon Name||Outfit|Real}} {{!}} The Outfit front
+{{Icon Name||Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Hair===
+The [[Hair]] offered by this Spirit is a simple ponytail tied back with a blue band, available to be collected for free. It is permanently available to all players after unlocking the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair}} {{!}} The Hair icon
+{{Icon Name||Hair|Real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Friendship Tree==
+{{Friendship Tree Info | regular}}
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Ushering Stargazer
+|image  = Isle-Spirit-Ushering-Stargazer.png
+
+|nodeC5 = spell5
+|nodeL4 = emote4 2 C
+|nodeC4 = emote3 2 C
+|nodeR4 = Outfit 4 H
+|nodeC3 = wing 1 AC
+|nodeL2 = heart
+|nodeC2 = spell1
+|nodeL1 = emote2 1 C
+|nodeC1 = emote
+|nodeR1 = hair free
+}}<section end="Friendship Tree" />
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+File:Emote Loc-This Way.png
+</gallery>
+
+==References==
+<references />
+
+[[de:Geleitende Sternenguckerin]]
+[[fr:Guide astronome]]
+[[pt-br:Astrólogo Convidativo]]
+[[ja:先導する星読み]]

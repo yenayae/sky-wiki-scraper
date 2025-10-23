@@ -1,0 +1,338 @@
+{{Help|beta}}
+{{Season
+| title = Season of the Blue Bird
+| image = Blue-Bird-Promo-Art.png
+| start = April 21, 2025
+| end = July 6, 2025
+| spirits = 5
+| previousSeason = [[Season of Radiance]]
+| nextSeason = [[Season of The Two Embers - Part 1]]
+| constellation = <gallery>
+Season-of-Blue-Bird-Constellation.png|Vector
+Blue_Bird_Constellation.png|Screenshot
+</gallery>
+| symbol = Season-of-Blue-Bird-icon.png
+}}
+
+The '''Season of the Blue Bird''' was the twenty-fifth Seasonal Event in the Live version of Sky since the global release, following [[Season of Radiance]].  It began on '''April 21, 2025 at 00:00 PDT (UTC -7)''' and ended on '''July 6, 2025 at 23:59 PDT (UTC -7)''', lasting '''77''' days. It is inspired by Maurice Maeterlinck’s play, [[wp:The Blue Bird (play)|The Blue Bird]]. The season was in many ways a reprise of the [[Season of Belonging]], with the respective Spirits and guide returning with a new form.
+
+The Blue Bird must be nearby… 🪶<br><br>
+{{#ev:youtube|OKyNfedODYg||inline|Season of the Blue Bird Trailer}}
+
+==Welcome==
+<center class="title-text-welcome">[https://www.thatskygame.com/news/chasing-the-blue-bird-a-new-season-in-sky Welcome to the Season of the Blue Bird!]</center>{{Quote|<br>In the Elevated Clearing of the Hidden Forest...<br>...a child is stricken with a '''powerful''' and '''enduring sadness'''.<br>The child's grandparent knows for an ancient legend...<br>...about a '''Blue Bird''' that can bring '''true joy''' and heal all sorrow.<br>You must help them find the '''Blue Bird'''!}}
+
+
+What does it take to heal a heart? A quiet sadness has settled over a young child. Heart heavy, no one seems to know how to lift the weight. But a wise grandparent remembers a story—an ancient legend of the Blue Bird, a creature said to hold the power to heal sorrow. 
+
+In this Season, beloved [[#Spirits & Cosmetics|Spirits]] returned to share more of their story—one inspired by Maurice Maeterlinck’s timeless play, [https://en.wikipedia.org/wiki/The_Blue_Bird_(play) The Blue Bird], about the search for happiness and the chance to mend what is broken. Join them as they search for the Blue Bird to lift a weight from the heart of a young child, and as you complete [[Season of the Blue Bird#Spirit Memory Quests|Seasonal Quests]], you’ll gradually discover the true nature of this creature. As you piece together the family’s stories, you’ll begin to understand that the Blue Bird is more than a fleeting symbol of hope—it’s a reflection of something far more profound.
+
+As you spend time with this group of Spirits, they’ll teach you new [[#Spirits & Cosmetics|Expressions]], and each offers a range of items reflecting the story of the Season—[[Capes]], [[Outfits]], [[Hair|Hairstyles]], [[Shoes]], and more, plus two Ultimate Gifts!
+
+==Blue Bird Theater==
+{{Main|Blue Bird Theater}}
+[[File:Blue_Bird_Theatre_Entrance_Elevanted_Clearing.jpg|thumb|right|Meditation Circle in the Elevated Clearing]]
+{{#lst:Blue Bird Theater|Summary}}
+{{Clear}}
+
+==Child of Light Locations<span id="Winged Light Locations"></span>==
+One (1) [[Child of Light]] has been added to the new [[Blue Bird Theater]] area.<br>
+{{#lst:Children of Light|BlueBirdTheater Children}}
+{{Clear}}
+
+==Daily Quests & Seasonal Candles==
+===Daily Quests===
+Collect Seasonal Candles throughout the Season to trade with the new Spirits for their cosmetics. A total of 6 Seasonal Candles were available to gather, as follows:
+*Each day the location of the [[Daily Quests]] changed, indicated through the Realm Portal that the Guide can be found next to. Players could earn one Seasonal Candle per Quest completed. Complete your Quests and claim your reward at the Return Shrine Statue. (4 Candles)
+*Players could also collect an extra Candle by collecting the 4 Seasonal bunches <small>(more information on the "Seasonal bunches locations" below).</small> (1 Candle)
+*Players who had the [[Season Pass]] could claim a Seasonal Candle from the Return Shrine Statue at [[Home]] or the [[Aviary Village#Friendship Constellation Statue|Friendship Constellation Statue]] at Aviary Village as a free daily bonus. (1 Candle)
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" >
+File:SoBlue-Bird-Seasonal-candles.jpg|Season of the Blue Bird Seasonal Candles
+File:Blue-Bird-Season-Pass-1.png|Season Pass - page 1
+File:Blue-Bird-Season-Pass-2.png|Season Pass - page 2
+File:Blue-Bird-Season-Pass-3.png|Season Pass - page 3
+</gallery>
+
+===Seasonal Candle Bunches Locations===
+The Seasonal Candle bunches were found towards the beginning of each [[Realm]], one Realm a day according to the [[Daily Quests]]' location.
+<!-- Specify Pattern-A or Pattern-B -->
+<gallery spacing="small" captionalign="center">
+Daylight-Prairie-Seasonal-Candles-locations-Pattern-B.png|Prairie Rotation 1 & 2
+Hidden-Forest-Seasonal-Candles-locations-Pattern-B.png|Forest Rotation 1 & 2
+Valley-of-Triump-Seasonal-Candles-locations-Pattern-B.png|Valley Rotation 1 & 2
+Golden-Wasteland-Seasonal-candles-Locations-Pattern-B.png|Wasteland Rotation 1 & 2
+Vault-of-knowledge-Seasonal-candles-Locations-Pattern-B.png|Vault Rotation 1 & 2
+</gallery>
+
+==Spirit Memory Quests==
+The Quests from the Season of the Blue Bird take the player on a journey alongside the child’s family—each of them having seen the Blue Bird before—or so they thought. Each [[#Spirits & Cosmetics|Spirit]] takes the player to places where they once searched for meaning, believing the Bird might hold the answers they sought. Each step of this journey is an invitation—to look closer, to listen deeper, and to discover that perhaps, the greatest treasures are the ones we least expect. 
+
+===<span id="Quest 1">Quest #1</span>===
+::'''Act I - The Palace'''
+The Quest starts with a wide shot of the stage, the Despondent Boogie Kid in the center.
+{{Quote|<br>To heal this child's sorrow, you must find the '''Blue Bird'''.}}
+
+The [[Royal Hairtousle Teen]] steps forward, recalling:{{Quote|I know of a bird, blue like sapphires...<br>...whose call rings out at lavish feasts.}}
+[[File:Blue_bird_feather_cutout.png|thumb|75px|A feather]]
+Upon using the meditation circle, the player is brought to the [[Citadel]] at night. Decorated floating platforms are filled with candles that do not provide wax. The Royal Hairtousle Teen stands before an empty table. 
+
+The player is prompted to pick up feathers that the elusive Blue Bird has scattered around the area. With each feather, candles are added to the table and a new Spirit joins the feast. Upon collecting all six feathers, the Blue Bird descends into the Citadel, and the player is prompted to "Catch the Blue Bird to reveal its true nature." 
+
+Upon catching the Bird, it falls to the table in a cloud of smoke, and all the candles in the area dissolve. The guests are displeased and leave, and as the lights in the area flick off, the Royal Hairtousle Teen slumps dejectedly. 
+A meditation circle brings the player back to the stage, where the Royal Hairtousle Teen says:
+{{Quote|A bird was found, and its feathers were blue...<br>...but it disappeared like candle smoke.}}
+
+With the completion of this Quest, Level 1 and 2 of the {{Emote|Blue Bird|inline_text}} Expression can now be collected from the Blue Bird Guide's Quest Tree.
+<!-- Description text by Ozotronic--><br>
+<br>
+{{#ev:youtube|YaHBIShxDfk|300px||Quest 1 Video Guide}}
+
+===<span id="Quest 2">Quest #2</span>===
+::'''Act II — The Land of Memory'''
+The Nostalgic Sparkler Parent steps into the spotlight next. {{Quote|"I know of a bird, blue like my mother's eyes...<br>...whose call echoes in our precious memories."}}
+Their meditation circle takes the player to the [[Vault Archives]], decorated with new floating platforms. The Nostalgic Sparkler Parent kneels in front of three tombstones, as a blue feather drops onto a platform above. The player is prompted to pick up the feathers. With each, a memory unfolds:
+* the Nostalgic Sparkler Parent as a child, their grandparents building them a swing — "Beloved grandchild, we made this swing for you on our favorite tree."
+* being pushed on the swing during a picnic — "Look how high you can go now!"
+* grown now and revisiting the tree with their parent — "My child, it's wonderful to return here with you after all this time."
+The player must take the hand of one Spirit per memory and bring them back for a heartfelt reunion with the Nostalgic Sparkler Parent. After bringing back all Spirits, the Bird appears; the player must chase it through the Archives. Upon catching it, the Nostalgic Sparkler Parent's parent and grandparents' Spirits fade and return to their stones. The Nostalgic Sparkler Parent sinks to their knees. 
+
+Back on-stage, the Nostalgic Sparkler Parent says: 
+{{Quote|A bird was found, and its feathers were blue...<br>...but the tighter we held, the faster it faded.}}
+
+With the completion of this Quest, Level 3 and 4 of the {{Emote|Blue Bird|inline_text}} Expression can now be collected from the Blue Bird Guide's Quest Tree.
+<!-- Description text by Ozotronic--><br>
+<br>
+{{#ev:youtube|3wDNX28Tulg|300px||Quest 2 Video Guide}}
+
+===<span id="Quest 3">Quest #3</span>===
+::'''Act III — Before the Curtain'''
+The [[Costumed Confetti Cousin]] steps forward, recalling:{{Quote|I know of a bird, blue like indigo cloth...<br>...whose call trills wherever crowds flock in admiration.}}
+They bring the player to the stage in the [[Starlight Desert]]. A blue feather drops onto the stage, and the Costumed Confetti Cousin wonders if the Blue Bird wants the player to perform something with them, and that they must dress for a performance. 
+
+More feathers can be found on floating platforms at the rim of the theater. Picking each up allows the player to change their Cape, Mask, Hair, and Outfit by picking between two provided options; the Costumed Confetti Cousin will wear the same items. Then, the two take to the stage. The player tries to follow along with the performance through quick time events, performing several Expressions: {{Emote|Bowing Medalist|inline_text}}, {{Emote|Troupe Juggler|inline_text}}, {{Emote|Backflipping Champion|inline_text}}, and {{Emote|Spinning Mentor|inline_text}}.
+
+The Blue Bird then flies into the theater. Upon catching it, the smoke covers the Costumed Confetti Cousin and removes their costume, turning them back to the default appearance of the player except with a red hair bow. They run to one of the mirrors and gasp, upset, and slump to their knees before a now-empty theater. The player brings them back to the Seasonal Area's stage. {{Quote|A bird was found, and its feathers were blue...<br>...but it unwound from itself like loose thread.}} <!-- Description text by Ozotronic-->
+{{Collapse
+|label=Cosmetics featured in this Quest
+|content=Capes: {{Spirit Item|Thoughtful Director|cape|label=Thoughtful Director|inline_text}}, {{Days Item| Spooky Bat Cape|icon|inline_text}}<br>Masks: {{Spirit Item|Prophecy Guide|mask_u|label=Prophecy Guide Ultimate|inline_text}}, {{Spirit Item|Dreams Guide|mask_u|label=Dreams Guide Ultimate|inline_text}}<br>Hairs: {{Spirit Item|Festival Spin Dancer|hair|label=Festival Spin Dancer|inline_text}}, {{Spirit Item|Rhythm Guide|hair_u|label=Rhythm Guide Ultimate|inline_text}}<br>Outfits: {{Spirit Item|Prophet of Fire|outfit|label=Prophet of Fire|inline_text}}, {{Days Item|Dazzling Dress|icon|inline_text}}
+}}
+
+{{#ev:youtube|pvv6Zf928xg|300px||Quest 3 Video Guide}}
+
+===<span id="Quest 4">Quest #4</span>===
+::'''Act IV — The Forest'''
+The [[Woodcutting Pleaful Parent]] says: {{Quote|I know of a bird, blue like a pristine river...<br>...whose call reflects the peaceful harmony of the forest.}}
+They bring the player to the [[Forest's Brook]]. {{Quote|This peaceful forest is home to many colorful birds.<br>I'm sure we can find the blue bird here!}} With each feather collected, a shining bird appears and circles the player.
+
+Upon collecting the last feather, the Woodcutting Pleaful Parent joins the player on the bridge. The Blue Bird's call rings from the entrance to [[Boneyard]]. Upon arriving in Boneyard, the Blue Bird soars past. Large axes can be seen embedded in many broken trees.
+
+Upon catching the Blue Bird, the smoke forms a great shining bird atop the tree trunk with the nest. The Bird witnesses the destruction on the forest around it, and the axe on the Woodcutting Pleaful Parent's back, and vanishes.
+
+The Woodcutting Pleaful Parent gazes at the axe in their hands. Returning to the stage:
+{{Quote|A bird was found, and its feathers were blue...<br>...but it scattered in the wind and left only silence.}}
+
+With the completion of this Quest, the {{Spirit Item|Blue Bird Guide|emote_s|inline_text}} can now be collected from the Blue Bird Guide's Quest Tree.<br>
+<br>
+{{#ev:youtube|tbYznmEJSx8|300px||Quest 4 Video Guide}}
+
+===<span id="Quest 5">Quest #5</span>===
+{{Spoilers}}
+::'''Act V — The Kingdom of the Future'''
+The [[Divining Wise Grandparent]] steps forward: {{Quote|I know of a bird, blue like the stars...<br>...whose call trumpets where great destinies are born.}}
+They bring the player to [[Orbit]], where shining, capeless Children of Light walk towards the Portal of Rebirth. The player also has no Cape and is therefore unable to fly. {{Quote|These children know their destinies and are off to be born.<br>Others need help from the blue bird to speak their destiny out loud.}} Each blue feather rests in front of a Child.
+
+The Divining Wise Grandparent asks each: {{Quote|Tell me your destiny, Child.}}
+* "I'm going to be a gardener and make beautiful things grow!"
+* "When I am born, I will invent machines that heal the sick!"
+* "I'm going to sing songs that give hope to those who have none!"
+After they proclaim their destinies, the player brings each Child to the path towards the Portal.
+
+After guiding the last Child, the Blue Bird appears in the distance. Once the player has caught up to it, they temporarily regain the ability to fly until the Bird has been caught, though their Cape will not reappear.
+
+Upon catching the Blue Bird, the area shakes and the Bird soars through the Portal. Returning to the stage:
+{{Quote|A bird was found, and its feathers were blue...<br>...but like a destiny, it was not meant to be merely held.}}
+{{#ev:youtube|hDwDQW7HbvU|300px||Quest 5 Video Guide}}
+
+===<span id="Quest 6">Quest #6</span>===
+::'''Act VI - The Awakening'''
+The [[Blue Bird Guide]] sits next to the [[Despondent Boogie Kid]], weeping under the tree. One after one, several spotlights around the area turn on, each revealing the family's Spirits beaneath them. The Guide's attention is drawn to the Blue Bird, which rests on the tree and chirps around. As the player flies up to them, the Blue Bird takes off, flying towards a gigantic candle in the distance. The player must fly after the Bird and catch it, which will cause the [[Royal Hairtousle Teen]] to reveal themselves under the candle. The player is promted to {{Icon|Hold-hand-filled-icon.png}} take their hand. {{Quote|''Who do you treasure more than wealth?''}} 
+
+The player, now hand in hand with the Spirit, must repeat this process four more times, with:
+* The [[Nostalgic Sparkler Parent]], sitting on a swing under a tree—"What do you remember that propels you forward?"
+* The [[Costumed Confetti Cousin]], standing between gigantic mirrors—"When you look in the mirror, which self do you see?"
+* The [[Woodcutting Pleaful Parent]], sitting on a gigantic tree stump—"Why do we disrupt pur own harmony?"
+* The [[Divining Wise Grandparent]], standing idly alone—"How long will you wait before you pursue your destiny?"
+
+After taking the Grandparent's hand, the five Spirits gather around the player in a circle and kneel down, holding each other's hands. The player ascends like in a [[Winged Light#Leveling Up Capes|wing upgrade]], now wearing the {{Spirit Item|Blue Bird Guide|facepiece_u|inline_text}} and {{Spirit Item|Blue Bird Guide|cape_u|inline_text}}. Now united, the player and the Spirits take off as the Blue Bird, flying to destroy the memories that they held onto for so long. After each memory has been shattered, the group lands next to the tree.
+
+Now in the [[Elevated Clearing]], the child stands up and hugs the Blue Bird Guide, as the rest of their family gathers around them. The Spirits and the player kneel before each other, bowing with gratitude. A meditation circle takes the player back to the [[Blue Bird Theater]], where the child and Guide bow to them and open their arms to present the Season's Spirits, which bow one after the other before ascending into the dark, starry sky.
+
+Again in the Elevated Clearing, the child sits on the little tree, dangling their feet. The Blue Bird comes soaring by, flying into the clouds. The child looks after it before turning to directly face the screen, asking:
+{{Quote|''Where is your Blue Bird?''}}
+
+{{#ev:youtube|BUSc4RL5WQU|300px||Quest 6 Video Guide}}
+
+==Spirits & Cosmetics==
+All of the ''Season of the Blue Bird'' Spirits can be found in the Blue Bird Theater. There are 2 new Expressions, 1 new Stance and 1 new Call to gather - 2 Emotes, 1 Stance, 1 Call, 5 Spirits overall. One Expression and the Stance are found in the [[Blue Bird Guide]]'s Quest Tree, upon completing the [[#Quest #1|first Quest]], [[#Quest #4|fourth Quest]] and [[#Quest #6|sixth Quest]], respectively.
+{{#tag:gallery
+|{{Icon Name|Royal Hairtousle Teen|emote}} {{!}} {{Icon Name|Royal Hairtousle Teen|emote_name}}
+{{Icon Name|Blue Bird Guide|emote}} {{!}} {{Icon Name|Blue Bird Guide|emote_name}}
+{{Icon Name|Blue Bird Guide|emote_s}} {{!}} {{Icon Name|Blue Bird Guide|emote_s_name}}
+{{Icon Name|Blue Bird Guide|emote_c}} {{!}} {{Icon Name|Blue Bird Guide|emote_c_name}}
+|widths=100|spacing=small|captionalign=center|mode=nolines}}
+
+===All Season of the Blue Bird Friendship Trees===
+{{Mobile Tabber
+|tab1 = {{Season Icon|Season of the Blue Bird|tab}}
+|c1   = {{#lst:Blue Bird Guide|Friendship Tree}}
+|tab2 = {{Icon|Quest-icon.png|link=Quests|tab}}
+|c2   = {{#lst:Blue Bird Guide|Quest Tree}}
+|tab3 = {{Emote|Divining Wise Grandparent|tab}}
+|c3   = {{#lst:Divining Wise Grandparent|Season Friendship Tree}}
+|tab4 = {{Emote|Costumed Confetti Cousin|tab}}
+|c4   = {{#lst:Costumed Confetti Cousin|Season Friendship Tree}}
+|tab5 = {{Emote|Royal Hairtousle Teen|tab}}
+|c5   = {{#lst:Royal Hairtousle Teen|Season Friendship Tree}}
+|tab6 = {{Emote|Nostalgic Sparkler Parent|tab}}
+|c6   = {{#lst:Nostalgic Sparkler Parent|Season Friendship Tree}}
+|tab7 = {{Emote|Woodcutting Pleaful Parent|tab}}
+|c7   = {{#lst:Woodcutting Pleaful Parent|Season Friendship Tree}}
+}}
+
+===[[Divining Wise Grandparent]]===
+{{#lst:Divining Wise Grandparent|Summary}}
+{{#tag:gallery
+|{{Icon Name|Divining Wise Grandparent|facepiece|real}} {{!}} The Face Accessory
+{{Icon Name|Divining Wise Grandparent|cape|real}} {{!}} The Cape
+|widths=125|spacing=small|captionalign=center|mode=nolines}}
+
+===[[Costumed Confetti Cousin]]===
+{{#lst:Costumed Confetti Cousin|Summary}}
+{{#tag:gallery
+|{{Icon Name|Costumed Confetti Cousin|hairpiece|real}} {{!}} The Hair Accessory
+{{Icon Name|Costumed Confetti Cousin|mask|real}} {{!}} The Mask
+{{Icon Name|Costumed Confetti Cousin|outfit|real}} {{!}} The Outfit
+{{Icon Name|Costumed Confetti Cousin|hair|real}} {{!}} The Hair
+|widths=125|spacing=small|captionalign=center|mode=nolines}}
+
+===[[Royal Hairtousle Teen]]===
+{{#lst:Royal Hairtousle Teen|Summary}}
+{{#tag:gallery
+|{{Icon Name|Royal Hairtousle Teen|headpiece|real}} {{!}} The Head Accessory
+{{Icon Name|Royal Hairtousle Teen|outfit|real}} {{!}} The Outfit
+{{Icon Name|Royal Hairtousle Teen|cape|real}} {{!}} The Cape
+|widths=125|spacing=small|captionalign=center|mode=nolines}}
+
+===[[Nostalgic Sparkler Parent]]===
+{{#lst:Nostalgic Sparkler Parent|Summary}}
+{{#tag:gallery
+|{{Icon Name|Nostalgic Sparkler Parent|hairpiece|real}} {{!}} The Hair Accessory
+{{Icon Name|Nostalgic Sparkler Parent|cape|real}} {{!}} The Cape
+|widths=125|spacing=small|captionalign=center|mode=nolines}}
+
+===[[Woodcutting Pleaful Parent]]===
+{{#lst:Woodcutting Pleaful Parent|Summary}}
+{{#tag:gallery
+|{{Icon Name|Woodcutting Pleaful Parent|shoes|real}} {{!}} The Shoes
+{{Icon Name|Woodcutting Pleaful Parent|outfit|real}} {{!}} The Outfit
+|widths=125|spacing=small|captionalign=center|mode=nolines}}
+
+===[[Blue Bird Guide|Blue Bird Guide]]===
+{{#lst:Blue Bird Guide|Summary}}
+{{#tag:gallery
+|{{Icon Name|Blue Bird Guide|necklace_u|real}} {{!}} Blue Bird Ultimate Necklace
+{{Icon Name|Blue Bird Guide|facepiece_u|real}} {{!}} Blue Bird Ultimate Face Accessory
+{{Icon Name|Blue Bird Guide|cape_u|real}} {{!}} Blue Bird Ultimate Cape
+|widths=125|spacing=small|captionalign=center|mode=nolines}}
+
+====Additional Cosmetics====
+Upon completing the [[#Quest #6|sixth Quest]] from the Season of the Blue Bird, one additional cosmetic is available to purchase for {{Cost|H}} [[Currency#Hearts|Hearts]] through the Blue Bird Guide's [[Blue Bird Guide#Quest Tree|Quest Tree]]. '''This item is permanently available.'''
+{{#tag:gallery
+|{{Icon Name|Blue Bird Guide|prop_a|icon}} {{!}} Additional Prop icon
+{{Icon Name|Blue Bird Guide|prop_a|real}} {{!}} Additional Prop
+|widths=125|spacing=small|captionalign=center|mode=nolines}}
+
+==Price Charts==
+Use the [[Seasonal Events/Calculator|Event Calculator]] to verify the status of your Candle count.
+{| class="article-table"
+! Spirits
+! colspan="6" | Candle Cost
+! Total Seasonal Candles
+|-
+|Divining Wise Grandparent
+|{{#vardefineecho:A1|7 }}
+|{{#vardefineecho:A2|14 }}
+|{{#vardefineecho:A3|17 }}
+|{{#vardefineecho:A4|21 }}
+|{{#vardefineecho:A5|  }}
+|3*
+|{{Cost| {{#vardefineecho:Asum| {{#expr: {{#var:A1}} + {{#var:A2}} + {{#var:A3}} + {{#var:A4}} + {{#var:A5}} + 3 }} }} SC|season=Blue Bird}}
+|-
+|Costumed Confetti Cousin
+|{{#vardefineecho:B1|12  }}
+|{{#vardefineecho:B2|15  }}
+|{{#vardefineecho:B3|19  }}
+|{{#vardefineecho:B4|23  }}
+|{{#vardefineecho:B5|25  }}
+|3*
+|{{Cost| {{#vardefineecho:Bsum| {{#expr: {{#var:B1}} + {{#var:B2}} + {{#var:B3}} + {{#var:B4}} + {{#var:B5}} + 3 }} }} SC|season=Blue Bird}}
+|-
+|Royal Hairtousle Teen
+|{{#vardefineecho:C1|12  }}
+|{{#vardefineecho:C2|17  }}
+|{{#vardefineecho:C3|25  }}
+|{{#vardefineecho:C4|29  }}
+|{{#vardefineecho:C5|  }}
+|3*
+|{{Cost| {{#vardefineecho:Csum| {{#expr: {{#var:C1}} + {{#var:C2}} + {{#var:C3}} + {{#var:C4}} + {{#var:C5}} + 3 }} }} SC|season=Blue Bird}}
+|-
+|Nostalgic Sparkler Parent
+|{{#vardefineecho:D1|9 }}
+|{{#vardefineecho:D2|13  }}
+|{{#vardefineecho:D3|20  }}
+|{{#vardefineecho:D4|23  }}
+|{{#vardefineecho:D5|  }}
+|3*
+|{{Cost| {{#vardefineecho:Dsum| {{#expr: {{#var:D1}} + {{#var:D2}} + {{#var:D3}} + {{#var:D4}} + {{#var:D5}} + 3 }} }} SC|season=Blue Bird}}
+|-
+|Woodcutting Pleaful Parent
+|{{#vardefineecho:D1|12  }}
+|{{#vardefineecho:D2|15  }}
+|{{#vardefineecho:D3|18  }}
+|{{#vardefineecho:D4|23  }}
+|{{#vardefineecho:D5|  }}
+|3*
+|{{Cost| {{#vardefineecho:Esum| {{#expr: {{#var:D1}} + {{#var:D2}} + {{#var:D3}} + {{#var:D4}} + {{#var:D5}} + 3 }} }} SC|season=Blue Bird}}
+|-
+! colspan="7" | Total for Season
+! {{Cost| {{#expr: {{#var:Asum}} + {{#var:Bsum}} + {{#var:Csum}} + {{#var:Dsum}} + {{#var:Esum}} }} SC|season=Blue Bird}}
+|}<small>''* Only available with [[Season Pass]] (Seasonal Hearts) (subtract when calculating without)''</small>
+
+==Image Gallery==
+<gallery widths="175" spacing="small" captionalign="center">
+SoBlue-Bird-Teaser-image.png
+TGC-Blue-Bird-Promo-image-1.png
+TGC-Blue-Bird-Promo-image-2.png
+TGC-Blue-Bird-Promo-image-3.png
+TGC-Blue-Bird-Promo-image-4.png
+</gallery>
+
+==Video Gallery==
+{{#ev:youtube|D_9guKmcsuE|300|inline|Season of the Blue Bird Teaser}}
+{{Clear}}
+
+==Trivia==
+* Walking through the Portal in [[#Quest #5|Quest #5]] restarts the Quest.
+
+==References==
+<references />
+
+{{Seasonal Navbox}}
+
+[[pt-br:Temporada do Pássaro Azul]]
+[[fr:Saison de l'Oiseau Bleu]]
+[[ja:青い鳥の季節]]
+[[zh:青羽季]]
+
+[[Category:Seasons]]
+{{DEFAULTSORT:the Blue Bird, Season of}}

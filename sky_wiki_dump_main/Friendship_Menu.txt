@@ -1,0 +1,463 @@
+[[File:Friendship-Tree-by-Clement.png|thumb|382x382px|Full description of the friendship tree by @Clement#3397 - Click to open full image]]
+Tapping directly on a nearby friend or acquaintance (someone you've only touched candles with) opens the Friendship Menu. From this menu, you can invest a single candle to promote an acquaintance into a friend, unlocking the Friendship Tree, and then you can unlock various two-person expressions and abilities with that friend.
+
+==Friendship Tree==
+When an ability is unlocked, both players will initially see a flashing red dot in the Friendship Menu indicating the new ability. Tapping the new ability in the menu will perform the action, or in the case of Warp, provides a brief description of the ability. To fully unlock all abilities within a Friendship tree, including promoting that friend from acquaintance, {{Cost|364 C}} and {{Cost|26 AC}} are required. This total does not include the Heart gift.
+<div style="float:left;">{{Friendship Tree
+|label = Acquaintance Friendship Tree
+
+|nodeC3 = Four-point-star-Ray.png
+
+|nodeL2 = Four-point-star-Ray.png
+|nodeC2 = Four-point-star-Ray.png
+|nodeR2 = Four-point-star-Ray.png
+|  linkR2 = Friendship_Menu#Report Player
+|  labelR2 = Report Player
+|  vertR2  = 1
+
+|nodeL1 = Four-point-star-Ray.png
+|nodeC1 = Add-friend.png 1 C
+|nodeR1 = Four-point-star-Ray.png
+}}</div>
+
+<div style="float:left;">{{Friendship Tree
+|label = Unlocked Friendship Tree
+
+|nodeC19 = Duets-Guide-Action-icon.png 34 C
+|  linkC19 = Friendship_Menu#Duet Bow
+|  labelC19 = Duet Bow
+|  noteC19 =Lv2<br>{{Season Icon|Duets}}
+|nodeC18 = Duets-Guide-Action-icon.png 32 C
+|  linkC18 = Friendship_Menu#Duet Bow
+|  labelC18 = Duet Bow
+
+|nodeL17 = Feudal-Lord-Action-icon.png 30 C
+|  linkL17 = Friendship_Menu#Cradle Carry
+|  labelL17 = Cradle Carry
+|  noteL17 =Lv2<br>{{Season Icon|Nine-Colored Deer}}
+|nodeC17 = Feudal-Lord-Action-icon.png 28 C
+|  linkC17 = Friendship_Menu#Cradle Carry
+|  labelC17 = Cradle Carry
+
+|nodeL16 = Reassuring-Ranger-Action-icon-Credit-Morybel.png 26 C
+|  linkL16 = Friendship_Menu#Side Hug 
+|  labelL16 = Side Hug 
+|  noteL16 = Lv2<br>{{Season Icon|Moments}}
+|nodeC16 = Reassuring-Ranger-Action-icon-Credit-Morybel.png 24 C
+|  linkC16 = Friendship_Menu#Side Hug 
+|  labelC16 = Side Hug 
+
+|nodeL15 = Morybel-0146-SOPerformance-Modest-Dancer-emote-icon.png 22 C
+|  linkL15 = Friendship_Menu#Duet Dance
+|  labelL15 = Duet Dance
+|  noteL15 = Lv2<br>{{Season Icon|Performance}}
+|nodeC15 = Morybel-0146-SOPerformance-Modest-Dancer-emote-icon.png 20 C
+|  linkC15 = Friendship_Menu#Duet Dance
+|  labelC15 = Duet Dance
+
+|nodeL14 = SoPerformance_-_Frantic_Stagehand-emote-icon-Morybel-0146.png 18 C
+|  linkL14 = Friendship_Menu#Handshake
+|  labelL14 = Handshake
+|  noteL14 = Lv2<br>{{Season Icon|Performance}}
+|nodeC14 = SoPerformance_-_Frantic_Stagehand-emote-icon-Morybel-0146.png 16 C
+|  linkC14 = Friendship_Menu#Handshake
+|  labelC14 = Handshake
+
+|nodeC13 = Winglight.png 10 AC
+|  noteC13 = Lv3
+|  linkC13 = Friendship_Menu#Extended Two-Player Abilities
+|  labelC13 = Unlock
+
+|nodeL12 = Season_of_Dreams_-_Bearhug_hermit.png 14 C
+|  linkL12 = Friendship_Menu#Bearhug
+|  labelL12 = Bearhug
+|  noteL12 = Lv2<br>{{Season Icon|Dreams}}
+|nodeC12 = Season_of_Dreams_-_Bearhug_hermit.png 12 C
+|  linkC12 = Friendship_Menu#Bearhug
+|  labelC12 = Bearhug
+
+|nodeL11 = Play_fight_lvl_2_white_on_black.png 10 C
+|  linkL11 = Friendship_Menu#Play Fight
+|  labelL11 = Play Fight
+|  noteL11 = Lv2<br>{{Season Icon|Enchantment}}
+|nodeC11 = Play_fight_lvl_2_white_on_black.png 8 C
+|  linkC11 = Friendship_Menu#Play Fight
+|  labelC11 = Play Fight
+
+|nodeL10 = Mimi-4117_03_piggyback_lightseeker_emote.png 8 C
+|  linkL10 = Friendship_Menu#Piggyback
+|  labelL10 = Piggyback
+|  noteL10 = Lv2<br>{{Season Icon|Lightseekers}}
+|nodeC10 = Mimi-4117_03_piggyback_lightseeker_emote.png 6 C
+|  linkC10 = Friendship_Menu#Piggyback
+|  labelC10 = Piggyback
+|nodeR10 = Gift-5-hearts.png 14 C
+|  linkR10 = Friendship_Menu#Fortune Gift Envelope
+|  labelR10 = Fortune Gift Envelope
+|  noteR10 = <ref>Only available during [[Days of Fortune]].</ref>
+
+|nodeC9 = Winglight.png 5 AC
+|  noteC9 = Lv2
+|  linkC9 = Friendship_Menu#Extended Two-Player Abilities
+|  labelC9 = Unlock
+|nodeR9 = Icon_mute_chat.png
+|  linkR9 = Friendship_Menu#Warp
+|  labelR9 = Block Warp
+|  vertR9 = 1
+
+|nodeL8 = Hair_tousle.png 8 C
+|  linkL8 = Friendship_Menu#Hair Tousle
+|  labelL8 = Hair Tousle
+|  noteL8 = Lv2<br>{{Season Icon|Belonging}}
+|nodeC8 = Hair_tousle.png 6 C
+|  linkC8 = Friendship_Menu#Hair Tousle
+|  labelC8 = Hair Tousle
+|nodeR8 = Icon_warp.png 10 AC
+|  linkR8 = Friendship_Menu#Warp
+|  labelR8 = Warp
+
+|nodeL7 = Double_high_five.png 4 C
+|  linkL7 = Friendship_Menu#Double-five
+|  labelL7 = Double-five
+|  noteL7 = Lv2<br>{{Season Icon|Lightseekers}}
+|nodeC7 = Double_high_five.png 3 C
+|  linkC7 = Friendship_Menu#Double-five
+|  labelC7 = Double-five
+
+|nodeL6 = Icon_fist_bump.png 4 C
+|  linkL6 = Friendship_Menu#Fist Bump
+|  labelL6 = Fist Bump
+|  noteL6 = Lv2
+|nodeC6 = Icon_fist_bump.png 3 C
+|  linkC6 = Friendship_Menu#Fist Bump
+|  labelC6 = Fist Bump
+|nodeR6 = Gift-iap.png
+|  linkR6 = Friendship_Menu#Gift IAPs
+|  labelR6 = Gift IAPs
+
+|nodeC5 = Winglight.png 1 AC
+|  linkC5 = Friendship_Menu#Extended Two-Player Abilities
+|  labelC5 = Unlock
+|nodeR5 = Icon_mute_chat.png
+|  linkR5 = Friendship_Menu#Muting a friend's chat
+|  labelR5 = Mute Chat
+|  vertR5 = 1
+
+|nodeL4 = Icon_hug.png 4 C
+|  linkL4 = Friendship_Menu#Hug
+|  labelL4 = Hug
+|  noteL4 = Lv2
+|nodeC4 = Icon_hug.png 2 C
+|  linkC4 = Friendship_Menu#Hug
+|  labelC4 = Hug
+|nodeR4 = Icon_chat.png 3 C
+|  linkR4 = Friendship_Menu#Chat
+|  labelR4 = Chat
+
+|nodeL3 = Icon_high_five.png 4 C
+|  linkL3 = Friendship_Menu#High Five
+|  labelL3 = High Five
+|  noteL3 = Lv2
+|nodeC3 = Icon_high_five.png 1 C
+|  linkC3 = Friendship_Menu#High Five
+|  labelC3 = High Five
+|nodeR3 = Icon_gift.png 3 C
+|  linkR3 = Friendship_Menu#Heart Gift
+|  labelR3 = Heart Gift
+
+|nodeL2 = Adventure-pass-icon-generic.png
+|  linkL2 = Friendship_Menu#Gift Season Pass
+|  labelL2 = Gift Season Pass
+|nodeC2 = Icon_handhold.png
+|  linkC2 = Friendship_Menu#Holding Hands
+|  labelC2 = Holding Hands
+|nodeR2 = Report_player.png
+|  linkR2 = Friendship_Menu#Report Player
+|  labelR2 = Report Player
+|  vertR2  = 1
+
+|nodeL1 = Favorite_friend.png
+|  linkL1 = Friendship_Menu#Favorite/Unfavorite a Friend
+|  labelL1 = Favorite
+|nodeC1 = Edit_friend_name.png
+|  linkC1 = Friendship_Menu#Name/Pencil (Editor)
+|  labelC1 = Rename Friend
+|nodeR1 = Block_player.png
+|  linkR1 = Friendship_Menu#Block Player
+|  labelR1 = Block Player
+}}</div>
+{{Clear}}
+
+==Check PSN Username==
+[[File:PS-Username.png|left|frameless|80x80px]]
+While playing on PlayStation, there is an additional button at the bottom right corner of the Friendship Tree Menu. If another player is also on PlayStation, it will show the PS icon. Selecting it shows their PlayStation Network's Online ID. 
+{{Clear}}
+==Basics Abilities==
+===Follow Another Player===
+[[File:Follow-icon.png|thumb|85x85px]][[File:Icon follow.png|left|80x80px|alt=|frameless]]
+This icon, although similar in appearance to Teleport, is not the same when it appears above a friend's head. It also sometimes appears as a triangular down arrow (see picture to the right). Once you tap on a friend, this icon appears above their head which causes you to Follow Player. After doing so, it changes to the Holding Hands icon (see below), but with two light-colored hands. This causes you to passively take their hand. Holding hands in this way means that the other player will lead you, which is useful to spare your friend opening the Friendship Menu to offer their hand and then wait for you to accept. 
+{{Clear}}
+
+===Name/Pencil (Editor)===
+[[File:Edit friend name.png|left|frameless|80x80px]]
+Tapping on this icon in the Friendship tree allows you to name or rename friends.
+
+When you initiate friendship, and the other player accepts, the Pencil icon is displayed on-screen for both players prompting the players to name each other. The friend naming options are to either select a random game-generated name or to create a custom name. It’s best to name a new friend right away to avoid confusion with other players. Names can be up to 16 characters long - including spaces and special characters.
+
+A new friend will not know the random or custom name a player has designated unless the friends chat about it later. Some players who unlock Chat may ask for a real name to update the original name. Players have no obligation to reveal real names and can politely decline by saying something like "I prefer that you use a random name for me." This is an acceptable and honored practice. If a player pressures another player for a real name and/or location, please contact Support and report/block them if appropriate.
+
+===Block Player===
+[[File:Block player.png|left|80x80px|alt=|frameless]]
+[[File:Block-friendship-action.gif|thumb]]
+The circle with a slash through it is for blocking a player. Tapping this will limit some, but not all, actions between you and that player. This is further explained on the [[Constellation Table#Blocking a Friend|Constellation Table]] page.
+{{Clear}}
+
+===Report Player===
+[[File:Darkened four-pointed star icon.png|thumb|80x80px]][[File:Report player.png|left|80x80px|alt=|frameless]]
+Above the "Block Player" icon is a darkened, four-pointed star icon. Tapping this allows you to report the friend if they are behaving in an inappropriate manner. '''''It is also possible to report a stranger by tapping this button, once you touched Candles to see their appearance. While both "Report" and "Block" nodes will appear gray with a stranger, if you tap on either of them you will get the normal "block" or "report" prompts. You can't actually block a stranger, but you can report them.''''' [https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/faq/547-how-can-i-report-inappropriate-activity-or-behavior/ Click here for more information.]
+{{Clear}}
+
+===Favorite/Unfavorite a Friend ===
+[[File:Favorite friend.png|left|80x80px|alt=|frameless]]
+The little Star next to the friend's name is the toggle for favorite/un-favorite the friend. Favoriting a friend gives them priority placement in your Friend Constellation in Home Space. In other words, they will be placed in the 'Crown' constellation, the first constellation you will see when opening the friend menu. If a player has too many favorites for all of them to fit into the main Constellation some friends may disappear. It's advised you limit your total favorites to the spots available in the main Constellation due to this.
+{{Clear}}
+===Holding Hands===
+[[File:Icon handhold.png|left|80x80px|alt=|frameless]]
+[[File:Hold-hands-friendship-emote.gif|thumb]]
+This icon that looks like two hands is the first two-player action available in the Friendship tree and is immediately available once you have become friends with another player. Holding hands seems like a simple concept, but there are hidden challenges, especially when forming groups of players. It doesn't take long to master the nuances of hand-holding, but may take some practice. 
+
+*Tapping the Hold Hands menu icon offers a hand to that friend. A non-menu Hold Hands icon appears to that friend. If that friend taps on the Hold Hands icon offered, the two players hold hands
+*The inviting friend will be the leader and the accepting friend will be the follower. This is the method to use to lead another player to a location, fly around, explore the current Realm, or to lead a group
+*Confusion about which player is leading is normal for new players. The player who initiates a Hand Hold invitation is the leader. The player that accepts is the follower
+* After making a new friend, the Hold Hands icon is displayed with a red flashing dot indicating it’s a new item to tap, ''but it is not required that it be tapped to activate it''
+*Practicing the steps below will help players understand why they may not want to be the leader when new to the game or immediately upon making a new friend 
+**Other players connected to the leader have very limited independent movement. Follower players can play instruments and perform some emotes. The follower will walk, skip, fly and ski with the leader
+**When the leader performs an emote, all the following players connected will also perform the emote. This can be quite fun when connected to a leader who has advanced Expression upgrades because the followers get to experience those as if they had been already collected
+*To take someone's hand so that the other player leads but has not offered their hand, or there is difficulty connecting in a group, use the Follow icon in the menu bar (explained above). Tap the friend, tap the Follow icon, and then tap the Hold Hands icon. The player tapping on the Follow icon becomes the follower, and the friend the follower connects and holds hands with is the leader. It's the opposite action of the Hold Hands action
+* Hold Hands does not work with a friend who already has other players attached to each of their hands. To connect to a group of three or more, a player must make friends with a player at the end of the hand-holding chain. There ''is'' a workaround described in the Warping to a Friend section.
+* When you hold a player's hand, you can help them by pulling out your Flame (by using the icon in the expression menu) to give light to your friend. It allows you and your friend to stay forever in a polluted area or forest rain without losing light.
+
+===Gift Season Pass===
+[[File:Adventure-pass-icon-generic.png|left|frameless|80x80px]]
+Tapping on this icon will allow the player to use a [[Seasonal_Events#Gift_Season_Pass|Gift Season Pass]] to gift a Season Pass to a friend. Once your friend accepts, they will unlock the Season Pass and all of its benefits. This ability will only be available after you've been friends with them for at least three days.
+
+[https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/faq/654-how-do-i-gift-the-season-pass/ Click here for more information.]
+{{Clear}}
+
+==Unlockable Two-Player Abilities==
+There are several abilities and expressions that require players to become friends. Either friend can unlock as many as they like at the respective candle price. As such, unlocking one is commonly seen as a gift among friends. Once unlocked by either friend, that action becomes free to use between those friends as often as either friend wishes. The one exception is the Heart Gift, which is an actual gift purchased with candles for a friend and not a two-person expression (see below).
+
+Using a Friend Action '''other than''' Holding Hands, {{Icon Name|Modest Dancer|emote_name}} and {{Icon Name|Duets Guide|emote_name}} can instantly recharge the Cape Energy of both friends. Note, that there are some places where it is not possible to recharge. Recharge Cape Energy by Friend Action has the following characteristics:
+*If used on a ground where there is no [[Flora,_Minerals_and_Elements_of_Sky#Rain|Rain]] falls, both Energies are instantly filled.
+*The place where the Rain falls in [[Hidden Forest]] will not be recharged by any Friend Action.
+*It cannot be recharged while immersed in [[Flora,_Minerals_and_Elements_of_Sky#Polluted_Water|Polluted Water]] in [[Golden Wasteland]], but is instantly filled only the player whose feet leave the water while using [[#Piggyback|Piggyback]], [[#Bearhug|Bearhug]] etc.
+
+===High Five===
+[[File:Icon high five.png|left|80x80px|alt=|frameless]]
+High Five is commonly used to congratulate a friend on getting an Expression, to say "Nice job!" or "We did it!" or simply as a greeting. It is customary to unlock this ability in response to another player unlocking the Friendship Tree. This also unlocks the option to send/receive a Heart Gift, making it equally beneficial response for both friends.
+
+High Five is necessary to open before any other Friend Actions can be unlocked.
+
+There is also an upgrade to High Five that costs additional candles and adds some sparkle to the regular High Five action.
+<gallery heights="125" captionalign="center">
+High-five-friendship-emote-level-1.gif|High Five Level 1
+High-five-friendship-emote-level-2.gif|High Five Level 2
+</gallery>
+{{Clear}}
+===Heart Gift===
+[[File:Icon gift.png|left|80x80px|alt=|frameless]]
+Use this icon to give a gift of one Heart to a friend. The High Five ability is required to be unlocked before this becomes available. It is also possible to send Hearts to a friend through the Friend Constellation in Home Space. Either method requires three Candles.
+{{Clear}}
+===Hug===
+[[File:Icon hug.png|left|80x80px|alt=|frameless]]
+This ability lets players Hug friends. Some friends Hug as a greeting or to give reassurance. There is also an upgrade to Hug that costs additional Candles and adds some warmth to the regular Hug action. Both High Five and Hug (but not their upgrades) are necessary to open before Chat can be unlocked or for the friendship can be Ascended.
+<gallery heights="125" captionalign="center">
+Hug-friendship-emote-level-1.gif|Hug Level 1
+Hug-friendship-emote-level-2.gif|Hug Level 2
+</gallery>
+{{Clear}}
+===Chat===
+[[File:Icon chat.png|left|80x80px|alt=|frameless]]
+Chat is an optional feature that can be unlocked via the Friendship Menu. This ability allows text chat with a friend without the need for Chat Benches or Tables. You will only see chat text of friends with whom you have the Chat ability unlocked unless players are seated at one of the several Chat Benches scattered throughout the game. Another chat method is to sit at a Chat Table, such as the one behind the door on the second floor of the [[Vault of Knowledge]], or the kind that can be summoned from either a one-time-use spell or the Chair accessory, which is a particularly expensive item to unlock. Tapping the Chat icon on a friend does ''not'' mean that your text is visible only to that friend. It merely opens the chatbox. Chat text is visible to all players who are in the area and have opened chat. It will appear as ”......” to those who do not have chat open.
+{{Clear}}
+===Muting a friend's chat===
+[[File:Icon mute chat.png|left|80x80px|alt=|frameless]]The icon above the Chat icon is to mute or unmute that friend's chat. (The icon looks like it is behind the clouds and unavailable, but it is available to everyone.) If the icon (and the chat icon) are gray, chat is muted for that friend. This is something to check if you feel a friend whom you have chat with is ignoring you. It is very easy to accidentally tap this icon, mute a friend's chat, and not even realize it. Muting a friend's chat means that you can be talking to them, they can see your text, but you cannot see their response. It doesn't even show "..." You just don't see anything. The Mute Chat function affects only the friend who you've muted.
+For players who do not wish to, it's not required to accept a Chat Gift or to sit at a Chat Bench/Table. Most players can communicate well enough with Expression and actions, which is how the game was originally designed. Language can often be a barrier to chat, so most players will understand if you do not wish to chat with them, and there are plenty of Expressions to collect through the game that can be used in lieu of text chat.
+
+If a friend offers the Chat ability as a gift or wants to sit at a Chat Bench/Table, you may politely refuse the gift by using the Bow emote, the No Thanks emote, or, if possible, give them a Hug.
+{{Clear}}
+
+==Extended Two-Player Abilities==
+[[File:Winglight.png|left|80x80px|alt=|frameless]]
+Exchange of an Ascended Candle is required to open additional features in the Friendship Menu. Ascended Candles are acquired after a trip through the final Realm of the game. Only one friend needed to give the other an Ascended Candle for the options to be unlocked. '''''Please note, while this icon in the Friendship Menu looks identical to the [[Wing Buffs|Wing Buff]] icon in the Spirit Shops, it is NOT a Wing Buff.'''''
+
+===Fist Bump ===
+[[File:Icon fist bump.png|left|80x80px|alt=|frameless]]
+This ability was available in the earliest version of the beta, and taken out soon after. Many of the most veteran beta testers and live players will be happy to see its return. Like most Friend abilities, the upgraded version is entirely optional and does not affect access to the rest of the tree.
+<gallery heights="125" captionalign="center">
+First-Bump-friendship-emote-level-1.gif|Fist Bump Level 1
+First-Bump-friendship-emote-level-2.gif|Fist Bump Level 2
+</gallery>
+{{Clear}}
+
+===Gift IAPs===
+[[File:Gift-iap.png|left|80x80px|alt=|frameless]]
+Starting November 16 2021, all players who have unlocked the <u>Fist bump</u> with their friends will now be able to give or receive IAPs, directly from the friendship menu. This ability will only be available after you've been friends with them for at least three days.
+{{Clear}}
+[[File:Gift-box-icon.png|left|80x80px|alt=|frameless]]
+The shop items are determined by where your friend is standing. In order to gift IAPs from a specific NPC, your friend must be standing next to the NPC. This switch in shop items when standing near an NPC is signified by the icon of the giftbox with shopping cart changing to just a giftbox.
+
+[https://www.thatskygame.com/news/an-update-to-gifting Click here for more information.]
+{{Clear}}
+===Double-five===
+[[File:Double high five.png|left|80x80px|alt=|frameless]]
+Allows you to unlock a Double High Five (also known as Double-five or a High Ten) with a friend.
+
+The Level 2 of this Action is available though [[Doublefive Light Catcher]] from the Season of Lightseekers, and previously required the Season Pass to unlock it. As of the Version {{v|0.8.0}}, it will also appear as a [[Traveling Spirits|Traveling Spirit]]. Those who missed the Season (or who did not purchase the Season Pass) can still acquire it though this method.
+<gallery heights="125" captionalign="center">
+Doublefive-Light-Catcher-double-five-emote-level-1.gif|Double Five Level 1
+Doublefive-Light-Catcher-double-five-emote-level-2.gif|Double Five Level 2
+</gallery>
+{{Clear}}
+
+===Hair Tousle===
+[[File:Hair tousle.png|left|80x80px|alt=|frameless]]
+This ability was added to the Friendship Menu in November 2019, just prior to the [[Season of Belonging]].
+
+The Upgraded version of this ability can be learned through a [[Hairtousle Teen]] from the Season of Belonging and previously required the Season Pass to unlock it. As of the Update {{v|0.8.0}}, it will also appear as a [[Traveling Spirits|Traveling Spirit.]] Those who missed the Season (or who did not purchase the Season Pass) can still acquire it through this method.
+<gallery heights="125" captionalign="center">
+Hairtousle-Teen-hairtousle-emote-level-1.gif|Hair Tousle Level 1
+Hairtousle-Teen-hairtousle-emote-level-2.gif|Hair Tousle Level 2
+</gallery>
+{{Clear}}
+===Warp===
+[[File:Icon warp.png|left|80x80px|alt=|frameless]]
+[[File:Warp-friendship-emote.gif|thumb]]
+The Warp action sits just below the second level of Ascended Friendship, and costs ten Ascended Candles to unlock, for a total of eleven Ascended candles to unlock this action.
+
+Some players use the terms "Teleport" and "Warp" interchangeably in Sky, so it's helpful to understand the difference. Teleport is used to be transported to a friend in a different Realm; while Warp is used to reach a friend within the same Realm.
+
+From Home players teleport to a friend by tapping the friend’s Star in a Friend Constellation (to open the Friend Star Menu) and then tapping the Teleport icon. Teleport is a free-to-use action, and does not need to be unlocked once the Friendship is established.
+
+Unlike Teleport, Warp can only be done while friends are in the same Realm. Warping results in holding hands with the friend, or joining the group to which the friend belongs. It needs to be unlocked between friends, and cannot be done randomly or with strangers.
+
+In general, Warp is a shortcut to join a friend who is in a distant or hard-to-reach place in the same map.
+[[File:Warptomirian.png|How the Warp icon appears in-game|thumb|180x180px]]
+Warp can also be used strategically in certain more difficult parts of the game, such as the [[Golden Wasteland]] or within the [[Eye of Eden]]. Since the Eye of Eden cannot be teleported into, Warp has a great advantage in that level, especially for players with limited wing energy. Another popular use is to first Teleport to a friend from Home, which transports the player to the same realm as the friend, and then Warping to the friend to quickly hold hands (and potentially avoid a long flight to reach them). Due to changes made to the Call feature, players may need to Deep Call (holding down the Call until it happens automatically) to see an Eye-icon. The Eye-icon will turn into a Warp option when tapped.
+
+Warp can also be useful to join a group of players if you are unable to make friends with the players on the ends of a large group. If you have the Warp ability with someone in a group, tap on that person to select them, and then tap the Warp icon. There needs to be some distance between the friends to Warp successfully. This method will attach the player to the end of the friend hand-holding chain even if the player at the end is a dark silhouette. This is the only way to hold hands with a player who is not yet a friend.
+
+To summarize:
+
+* Warp by tapping on a friend (or a friend's name) and then on the Warp icon on the game screen, not the Warp icon in the Friendship Menu. The icon in the menu indicates whether you have Warp ability with that friend.
+*Warping can be done while in the air or on the ground.
+*Some distance is needed from a friend before Warp will work. If the Warp ability does not appear after tapping on a friend (and instead displays the normal Friend Menu), move away a bit further and try again. When Warp is available to use, a Warp icon will appear on or near the friend's physical location on the screen.
+{{Clear}}
+
+=== Block Warp===
+[[File:Icon mute chat.png|left|80x80px|alt=|frameless]]
+Blocking friends from teleporting and warping to you is done from the “Block Warp” function and it will prevent Friends from using the Warp and Teleport ability to travel to you within the same realm or from Home respectively. This option is available above the Warp function.
+{{Clear}}
+
+===Piggyback===
+[[File:Mimi-4117_03_piggyback_lightseeker_emote.png|left|80x80px|alt=|frameless]]
+This ability was added to the Friendship Menu prior to the [[Season of Lightseekers]]. It is possible to stack people on top of each other – up to 8 players in total.
+
+The Upgraded version of this Action can be learned through [[Piggyback Lightseeker]] from the Season of Lightseekers and previously required the Season Pass to unlock it. As of the Update {{v|0.8.0}}, it will also appear as a [[Traveling Spirits|Traveling Spirit.]] Those who missed the Season (or who did not purchase the Season Pass) can still acquire it through this method.
+<gallery heights="125" captionalign="center">
+Piggyback-Lightseeker-piggyback-emote-level-1.gif|Piggyback Level 1
+Piggyback-Lightseeker-piggyback-emote-level-2.gif|Piggyback Level 2
+</gallery>
+{{Clear}}
+
+=== Fortune Gift Envelope===
+[[File:Gift-5-hearts.png|left|80x80px|alt=|frameless]]
+This ability is only available during [[Days of Fortune]], and allows players to gift a friend 5 [[Currency#Hearts|Hearts]] for {{Cost|14 C}}with whom a player has the {{Emote|Piggyback Lightseeker|inline_text}} unlocked. The Fortune Gift Envelope can be given once a day per person, like regular Heart gifts, and can be given in addition to regular Heart gifts, meaning players can send a maximum of 6 Hearts per day per friend.
+{{Clear}}
+
+===Play Fight===
+[[File:Play fight lvl 2 white on black.png|left|80x80px|alt=|frameless]]
+This ability was added to the Friendship Menu in April 2020, just prior to the [[Season of Enchantment]].
+
+The Upgraded version of this ability can be learned through [[Playfighting Herbalist]] from the Season of Enchantment and the Season Pass is required to unlock (Lvl 2). It will also appear later as a Traveling Spirit, so those who missed the Season (or who did not purchase the Season Pass) can still acquire it.
+<gallery heights="125" captionalign="center">
+Playfighting-Herbalist-play-fight-emote-level-1.gif|Play Fight Level 1
+Playfighting-Herbalist-play-fight-emote-level-2.gif|Play Fight Level 2
+</gallery>
+{{Clear}}
+
+===Bearhug===
+[[File:Season of Dreams - Bearhug hermit.png|left|frameless|80x80px]]
+This ability was added to the Friendship Menu around January 4, 2021 with the [[Season of Dreams]]. 
+
+The upgraded version of this ability can be learned through [[Bearhug Hermit]] from the Season of Dreams, and the Season Pass is required to unlock (Lvl 2). It will also appear later as a Traveling Spirit, so those who missed the Season (or who did not purchase the Season Pass) can still acquire it.
+<gallery heights="125" captionalign="center">
+Bearhug-Hermit-bearhug-emote-level-1.gif|Bearhug Level 1
+Bearhug-Hermit-bearhug-emote-level-2.gif|Bearhug Level 2
+</gallery>
+{{Clear}}
+
+===Handshake===
+[[File:SoPerformance - Frantic Stagehand-emote-icon-Morybel-0146.png|left|frameless|80x80px]]
+This ability was added to the Friendship Menu around April 11, 2022 with the [[Season of Performance]]. 
+
+The upgraded version of this ability can be learned through the [[Frantic Stagehand]] from the Season of Performance, and the Season Pass is required to unlock (Lvl 2). It will also appear later as a Traveling Spirit, so those who missed the Season (or who did not purchase the Season Pass) can still acquire it.
+<gallery heights="125" captionalign="center">
+Frantic-Stagehand-handshake-emote-level-1.gif|Handshake Level 1
+Frantic-Stagehand-handshake-emote-level-2.gif|Handshake Level 2
+</gallery>
+{{Clear}}
+
+===Duet Dance===
+[[File:Morybel-0146-SOPerformance-Modest-Dancer-emote-icon.png|left|frameless|80x80px]]
+This ability was added to the Friendship Menu around April 11, 2022 with the [[Season of Performance]]. 
+
+The upgraded version of this ability can be learned through the [[Modest Dancer]] from the Season of Performance, and the Season Pass is required to unlock (Lvl 2). It will also appear later as a Traveling Spirit, so those who missed the Season (or who did not purchase the Season Pass) can still acquire it.
+<gallery heights="125" captionalign="center">
+Modest-Dancer-duet-dance-emote-level-1.gif|Duet Dance Level 1
+Modest-Dancer-duet-dance-emote-level-2.gif|Duet Dance Level 2
+</gallery>
+{{Clear}}
+
+===Side Hug===
+[[File:Reassuring-Ranger-Action-icon-Credit-Morybel.png|left|frameless|80x80px]]
+This ability was added to the Friendship Menu around July 17, 2023 with the [[Season of Moments]]. 
+
+The upgraded version of this ability can be learned through the [[Reassuring Ranger]] from the Season of Moments, and the Season Pass is required to unlock (Lvl 2). It will also appear later as a Traveling Spirit, so those who missed the Season (or who did not purchase the Season Pass) can still acquire it.
+<gallery heights="125" captionalign="center">
+Reassuring-Ranger-side-hug-emote-level-1.gif|Side Hug Level 1
+Reassuring-Ranger-side-hug-emote-level-2.gif|Side Hug Level 2
+</gallery>
+{{Clear}}
+
+===Cradle Carry===
+[[File:Feudal-Lord-Action-icon.png|left|frameless|80x80px]]
+This ability was added to the Friendship Menu around January 15, 2024 with the [[Season of the Nine-Colored Deer]]. 
+
+The upgraded version of this ability can be learned through the [[Feudal Lord]] from the Season of the Nine-Colored Deer, and the Season Pass is required to unlock (Lvl 2). It will also appear later as a Traveling Spirit, so those who missed the Season (or who did not purchase the Season Pass) can still acquire it.
+<gallery heights="125" captionalign="center">
+Feudal-Lord-cradle-carry-emote-level-1.gif|Cradle Carry Level 1
+Feudal-Lord-cradle-carry-emote-level-2.gif|Cradle Carry Level 2
+</gallery>
+{{Clear}}
+
+===Duet Bow===
+[[File:Duets-Guide-Action-icon.png|left|frameless|80x80px]]
+This ability was added to the Friendship Menu around July 15, 2024 with the [[Season of Duets]]. 
+
+The upgraded version of this ability can be learned through the [[Duets Guide]] from the Season of Duets, and the Season Pass is '''not''' required to unlock (Lvl 2). It is permanently available to all players after completing the [[Season of Duets#Quest #4|fourth Seasonal Quest]] from the Season of Duets.<br>
+<gallery heights="125" captionalign="center">
+Duets-Guide-duet-bow-emote-level-1.gif|{{Icon Name|Duets Guide|emote_name}} Level 1
+Duets-Guide-duet-bow-emote-level-2.gif|{{Icon Name|Duets Guide|emote_name}} Level 2
+</gallery>
+{{Clear}}
+==References==
+<references />
+
+[[fr:Menu Amitié]]
+[[pt-br:Menu de Amizade]]
+[[de:Freundschafts-Menü]]
+[[ja:フレンドメニュー]]
+
+[[Category:Social Features]]
+[[Category:Menus]]

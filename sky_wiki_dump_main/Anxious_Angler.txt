@@ -1,0 +1,200 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = 
+<gallery>
+Abyss-Spirit-Anxious-Angler.png|Standard
+Abyss-Spirit-Anxious-Angler-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Outfit|infobox}}{{Spirit Item||Mask|infobox}}{{Spirit Item||Hair|infobox}}{{Spirit Item||Cape|infobox}}
+|season    = Abyss
+|location  = Treasure Reef
+|ts        = August 18, 2025 (SV#10)<br>January 18, 2024 (#105)
+}}
+<section begin="Summary" />The '''Anxious Angler''' is a [[Seasonal Spirit]] from the [[Season of Abyss]] who offers the {{Emote|Anxious Angler|inline_text}} Expression. The Anxious Angler is found in the [[Treasure Reef]], on the far-left islands, on the opposite side of the lagoon past the [[Abyss Guide]]'s ship. The collectibles [[#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Anxious Angler|Outfit|inline_text}}, a {{Spirit Item|Anxious Angler|Mask|inline_text}}, a {{Spirit Item|Anxious Angler|Hair|inline_text}}, and a {{Spirit Item|Anxious Angler|Cape|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Anxious-angler-spirit-reveal.png|thumb|320px|none|TGC's Promo image]]
+
+==Memory==
+<div>
+{{#ev:youtube|IKxE68krE7g||inline|Video Guide}}
+<div>
+The Anxious Angler can be found in the [[Treasure Reef]], on the far-left islands, on the opposite side of the lagoon past the [[Abyss Guide]]'s ship. This Spirit has a [[Standard Memory|standard memory]] with 6 memory fragments and an unlimited overall [[Timed Memory|time limit]].
+
+As their memory unfolds, the Anxious Angler, accompanied by the [[Abyss Guide]], can be seen going out fishing along the rocks. The Anxious Angler tosses a net into the water and comes up with a decent haul of fish while the Abyss Guide watches closely with a bucket in hand. The Anxious Angler then rushes ahead, leaving the Abyss Guide behind as they stretch out an arm, as if to say, "Wait up!" Now alone and vulnerable, the Anxious Angler tenses up as they realize that something sinister has drawn near - a [[Krill|Dark Dragon]], cruising along in the shallows behind them.
+
+At the end of the memory, the Anxious Angler tenses up further, fearfully glancing over their shoulder as they anticipate the worst... but they go unnoticed by the Dark Dragon, and they heave a gusty sigh of relief.<br>
+<br>
+[[File:04 GW Seasonal Spirit - Anxious Angler.png|200px|thumb|none|Relive the Anxious Angler's memory]]
+{{Clear}}
+
+==Expression==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.<br>
+<br>
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center" >
+Anxious-Angler-anxious-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Anxious-Angler-anxious-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Anxious-Angler-anxious-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Anxious-Angler-anxious-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar hunch their shoulders, loosely raising their hands to hold them close to their torso, before slowly looking over their right shoulder for a few seconds, then heave a sigh of relief while a wooden tapping sound effect plays.
+*Level 2 makes the same motion as Level 1, with three white dots appearing in your avatar's line of vision and a small breath cloud appearing as they sigh.
+*Level 3 will make your avatar raise their hands close to their body, slightly bend their knees, and slowly look over their left shoulder, before physically flinching. Immediately afterwards, they stand up straight, holding one hand over their mouth with the other arm crossed over their body while looking around, their head moving in a fast, choppy motion. At last, they relax. During this Level, a rattling sound builds up, comes to a halt with a sudden drum sound, and is then followed by a few dull guitar notes.
+*Level 4 makes the same motion as Level 3, with three larger, blue glowing dots appearing in your avatar's line of vision before small blue sparkles, representing nerves or sweat, rain from their side.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+==Cosmetics==
+===Outfit===
+The [[Outfit]] offered by this Spirit includes a long-sleeve, off-white tunic with brown accents and a high neck with a "v"-shaped slit, dark gray pants, and dark brown boots, costing {{Cost|65 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's sixth node ({{Cost|100 SC|season=Abyss}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Outfit|icon}} {{!}} The Outfit icon
+{{Icon Name||Outfit|real}} {{!}} The Outfit front
+{{Icon Name||Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Mask===
+The [[Mask]] offered by this Spirit is dark gray and resembles a dull, extinguished version of the [[Masks#Base_Mask|Base Mask]] that features a long, light gray scar across the lower half of the face, costing {{Cost|35 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|8 SC|season=Abyss}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Hair===
+The [[Hair]] offered by this Spirit consists out of a brown angler hat, a simple braid in the back, and short, choppy bangs, costing {{Cost|45 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's third node ({{Cost|22 SC|season=Abyss}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|front}} {{!}} The Hair front
+{{Icon Name||Hair|real}} {{!}} The Hair side
+{{Icon Name||Hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Cape===
+The [[Cape]] offered by this Spirit is a short, dark-gray shawl with a fringed edge and a small golden ornament attached to the front, filled with a turquoise crystal, costing {{Cost|70 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fifth node ({{Cost|62 SC|season=Abyss}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||Cape|interior}} {{!}} The Cape interior
+{{Icon Name||Cape|back}} {{!}} The Cape back
+{{Icon Name||Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Traveling Spirit==
+{{Friendship Tree Info|traveling
+|ts_dates=*January 18, 2024 (#105)
+|rs_dates= *August 18, 2025 (SV#10)
+}}
+<section begin='TS Friendship Tree' />{{Friendship Tree
+|spirit = Anxious Angler
+|image  = Abyss-Spirit-Anxious-Angler.png
+|season = Abyss
+
+|nodeC6 = Outfit 65 C
+|nodeL5 = Cape 70 C
+|nodeC5 = spellx 5 C
+|nodeR4 = Mask 35 C
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeC2 = spell5
+|nodeL2 = Hair 45 C
+|nodeR2 = Heart 3 C
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end='TS Friendship Tree' />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+No hints were given before the [[Anxious Angler]]'s first appearance.
+
+==Season Friendship Tree==
+{{Friendship Tree Info | season | season=Abyss}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Anxious Angler
+|image  = Abyss-Spirit-Anxious-Angler.png
+|type   = season
+|season = Abyss
+
+|nodeC7 = season_heart 3 SC SP
+|nodeL6 = spellx SP
+|nodeC6 = Outfit 38 SC
+|nodeL5 = Cape SP
+|nodeC5 = spellx 22 SC
+|nodeL4 = emote4 SP
+|nodeC4 = emote3 18 SC
+|nodeL3 = spellx SP
+|nodeC3 = Hair 14 SC
+|nodeL2 = Mask SP
+|nodeC2 = spell5 8 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Unique Daily Quests==
+{{#section-h:Quests/Daily Quest Spirits|{{PAGENAME}}}}
+
+==Personality==
+On February 16, 2022, TGC officially announced <ref name="Personality Tweet">https://twitter.com/thatskygame/status/1494069967293231105</ref> and introduced {{PAGENAME}} with the following personality traits:  
+
+* '''{{PAGENAME}}, always proudly ensuring everyone has enough to eat.'''
+*💪 Able to untangle their biggest net in 1.7 minutes
+*💢 Can’t stand being in large crowds
+*🎵 Knows more sea shanties than any other crew member
+*🧠 Loves logic puzzles
+
+==In Other Languages==
+{{Help|lang}}
+{{Other Languages|title=Anxious Angler
+|fr            = Pêcheuse angoissée
+|fr_meaning    = Anguished Fisherwoman
+|ja            = 繊細な漁師
+|ja_rom        = Sensaina Ryōshi
+|ja_meaning    = Delicate Fisher
+|id            = Pemancing Cemas
+|id_meaning    = Worried Angler
+|de            = Ängstliche Anglerin
+|de_meaning    = Anxious Angler
+|de_gg         = f
+|vi            = Ngư Dân Lo Lắng
+|vi_meaning    = Worried Fisher
+|es            = Pescador ansioso
+|es_meaning    = Anxious Fisherman 
+|it            = Pescatrice ansiosa
+|it_meaning    = Anxious Fisherwoman 
+|pt            = Pescadora Ansiosa
+|pt_meaning    = Anxious Fisherwoman
+|pt_gg         = f
+|ru            = Беспокойная рыбачка
+|ru_rom        = Bespokoynaya rybachka
+|ru_meaning    = Restless Fisherwoman
+|ru_gg         = f
+|zh_tw         = 焦慮的垂釣者
+|zh_tw_rom     = Jiāolǜ de Chuídiào Zhě
+|zh_tw_meaning = Anxious Angler
+}}
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Anxious-Angler-first-visit-promo-image.png
+Season of abyss anxious angler emote.jpg
+</gallery>
+
+==References==
+<references />
+
+[[pt-br:Pescadora Ansiosa]]
+[[de:Besorgte Anglerin]]
+[[ru:Беспокойная рыбачка]]
+[[ja:繊細な漁師]]
+[[fr:Pêcheuse Angoissée]]

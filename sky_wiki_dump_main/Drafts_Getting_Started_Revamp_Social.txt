@@ -1,0 +1,106 @@
+{{Getting Started Nav|5}}
+Sky tends to be a welcoming, relaxed space. '''Still, as with all online spaces, follow general netiquette, especially when chatting.'''
+{{mbox
+|header     = <big><br>'''Stay safe online!'''</big>
+|text       = <big>Determine your personal internet boundaries and what you want out of Sky, and protect your privacy.<br>Stay kind; respect other players and their uniqueness. 🌟<br><br></big>
+|image      = Exclamation-mark-Ray.png
+|imagewidth = 50px
+|type       = important
+}}
+
+==What are those other skykids?==
+Sky is a live multiplayer game. This means each of the grey skykids you run across in-game are other players, not NPCs!
+[[File:Unknown_player.png|right|thumb]]
+They will initially appear as grey silhouettes.
+If you and another player touch candles, they will become visible to you. Players often exchange bows after lighting each other. By tapping the candle interaction above a stranger's head, you bring out your candle and walk towards them. Visible non-friends are called "acquaintances". Note that acquaintanceships are not saved when you load into a new area; you will have to re-light their candle.
+{{Tip|Please note that some skykids prefer not to be lit at all and may dodge your candle.}}
+
+Other people can hear your honks and see the emotes you do!
+{{Tip|Skykids sitting/sleeping with little Zzz's means that they have been AFK (away from keyboard) for at least 2 minutes.}}
+
+==How do I communicate without chat?==
+You can use your honk and expressions to communicate with people! This sometimes lead to ambiguous and context-specific meaning. Still, here are some common things people might be saying:
+
+* Spam honk = "over here!" Typically the player needs some help with a multi-player door or a tricky darkness plant, or is trying to alert an AFK player. You might've also missed a quest objective!
+* Communal honking = excitement/celebration, idle fun.
+{{Tip|If they're spam honking, they might want you specifically to do something. If not, try honking back, for fun or as acknowledgement.|What do I do if someone is honking AT me?}}
+* {{Emote|Bowing Medalist|inline_text}} = thank you, hello, goodbye.
+* {{Emote|Admiring Actor|inline_text}}/{{Emote|Confetti Cousin|inline_text}} = celebration, thank you.
+* Repeated deep calls = while it also means "over here!" it might just be a skid trying to flip a lot of crabs, or charge others' light faster. When at a multi-player door, they might also be trying to server merge.
+{{Tip|TGC has said that deep calling doesn't actually increase your chances of getting a server merge<ref>https://www.reddit.com/r/SkyGame/comments/ktjzkp/i_just_wanted_to_share_some_answers_i_got_from/</ref>, but it remains a common belief.}}
+
+Most emotes are relatively straight-forward. Some common ones are: wave, no, angry stomp. Note that sometimes, people will use continuous emotes or emote spam just for fun! Feel free to join in with them. These are often the only way you will communicate with people, unless you friend each other, or lead someone to a chat bench.
+
+==Chat==
+Chat is an optional part of the game, available through: a chat bench or prop, or unlocking chat with friends.
+
+===Auto-Translation===
+There is a machine translator available in all chats by selecting the chat message and clicking the icon {{Icon|Translate-Ray.png}}. It can also translate the titles and comments in Shared Memories and Spaces. Please keep in mind it is only so accurate!
+
+===Chat Filters===
+Sky has some chat filters that prevent you and others from talking about ???.
+Chat filters will attempt to block any chat containing violent language, sexual topics, verbal abuse, identity hate, profanity, drug use, threats against others, spam, link sharing, personal identifiable information, or any other chat that does not abide by our Community Rules & Guidelines.<ref>https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/faq/631-how-does-the-chat-filter-work/</ref>
+
+==Adding Friends==
+If you click on an acquaintance, a menu will open to the side (the [[Friendship Menu]]). From here, you can send a friend request through the {{Icon|Add-friend.png}} add friend icon for 1 candle. If someone sends you a friend request, a popup will appear.
+Adding friends is an optional part of the game. Still, there are a number of benefits to adding friends, such as select Daily Quests. Many "solo players" add friends for the in-game benefits but prefer to not socialise!
+* See [[Constellation_Table]] for other friend-related interactions, especially for when they are offline or in another area.
+
+===Friend Codes/QR===
+For skykids you meet outside the game, you can add them as friends without spending candles.
+
+Please keep in mind that:
+* Sky chat filters will not let you send codes in-game.
+* Chat will be automatically unlocked with friends added through this method.
+You can find the {{Icon|Friends-Ray.png}} friend menu either right next to the gear menu, or in Settings-->Friends. Then, select "One-time Friend Invite" to create a code/QR code that you can share with your friend.
+* See [[Making Friends]] for more.
+
+===Usernames===
+Players do not choose their own names in the game. When you [[Making Friends|make friends]] with someone, you can either choose a name for them or let the game assign a random name. After unlocking chat, other players often ask you what you actually want to be called and change your name to that. You can edit the name at any time either by tapping the {{Icon|Edit_friend_name.png}} pencil icon in their Friendship Menu.
+* For details, see [[Friendship_Menu#Name/Pencil_(Editor)]].
+
+===Friendship Tree===
+Upon adding a friend, you can also unlock nodes in their friendship menu, much like a spirit. The nodes give you two-player actions and abilities (like holding hands and high fiving).
+* See [[Friendship Menu]] for all unlockables.
+
+==Friend Constellation/Managing Friends==
+[[File:Aviary_Village_Friendship_Constellation_Statue.png|right|thumb|Aviary Friendship Statue]]
+You can access your friends even when you're not next to them through your Friend Constellation. You can find the friend constellation either through the Friendship Statue close to where you spawn in, or above your Realm Constellations through the Constellation Table.
+[[File:Friendship-constellation-Favorites.png|right|thumb|Example Friend Constellation]]
+[[File:Wax_blessing.png|right|thumb|Friendship Menu]]
+By selecting a friend through the Friend Constellation, you'll find a variety of actions:
+*{{Icon|Light-someone-Ray.png}} Send a heart fragment
+*{{Icon|Delete-image-Ray.png}} Unfriend
+*{{Icon|Report_player.png}} Report
+*{{Icon|Block_player.png}} Block
+*
+
+{{Clear}}
+==Sky-Specific Etiquette==
+As Sky uses a lot of bloom, please avoid spamming flashes (ex: from fireworks or deep honking) in enclosed spaces, like the 8-Player elevator or the Ancestor's Table (also known as "Granny's table").
+
+==Shared Memories/Shared Spaces==
+<gallery size=small>
+Shared_Memory_Crystal.png|Shared Memory Crystal
+Shared_Space_Spell_Placed_Down.png|Shared Space Lantern
+</gallery>
+These are Shared Memories and Spaces left by other skykids for you to enjoy!
+* See [[Shared_Memories]] or [[Shared_Spaces]] for more details.
+
+==Requesting A Guide==
+Through your Expressions Menu, you can click {{Icon|Request_guide.png}} "Request a Guide". By enabling this, other players can take your hand and lead you to any spirits in the area you haven't relived yet!
+* See [[Menus_and_Controls#Request_Guide]] for more details.
+
+==Misc Safety==
+'''Abide by normal internet safety!'''
+Do not feel pressured to give out any personal information, or gift a friend hearts or in-app purchases.
+
+===Blocking & Reporting===
+{{Icon|Block_player.png}} Blocking, {{Icon|Report_player.png}} reporting, and {{Icon|Icon_mute_chat.png}} muting friends is accessible through the friendship menu.
+* See [[Constellation_Table#Block_a_Friend]] and [[Friendship_Menu#Muting_a_friend's_chat]] for more details.
+
+You can also report or hide a Shared Memory or Shared Space by entering it and selecting the three dots.
+
+==Outside Of The Game==
+Check out the official Sky Discord: https://discord.com/invite/thatskygame.
+There is also an official and unofficial subreddit.

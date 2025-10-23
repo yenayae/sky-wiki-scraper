@@ -1,0 +1,91 @@
+{{Spirit Infobox
+|type      = Regular
+|emote_type= Emote
+|image     = <gallery>
+Prairie-Spirit-Applauding-Bellmaker.png|Standard
+Prairie-Spirit-Applauding-Bellmaker-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Hair|infobox}}
+|realm     = Daylight Prairie
+|location  = Prairie Villages
+}}
+<section begin="Summary" />The '''Applauding Bellmaker''' is a [[Regular Spirit]] in [[Daylight Prairie]] who offers the {{Emote|Applauding Bellmaker|inline_text}} Expression. The Applauding Bellmaker is found in [[Prairie Villages]] on the left-hand island, in a cave behind a two-player door. The only collectible [[Applauding Bellmaker#Friendship Tree|offered]] by this Spirit is a {{Spirit Item|Applauding Bellmaker|Hair|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Applauding-Bellmaker-Guide-777-Ed.png|320x320px|thumb|none|Image Guide by 777.Ed]]
+
+== Memory ==
+<div>
+{{#ev:youtube|ODMA1Q9155o|350px|inline|Video Guide}}
+<br>
+The Applauding Bellmaker can be found in [[Prairie Villages]] on the left-hand island, in a cave behind a two-player door that also houses a [[Children_of_Light#Villages_(3)|Child of Light]]. This is likely to be the first multi-person door encountered by new players. To open it, two players must each hold their [[Flame]] to one of the flame icons on the door. If you are alone, you can request help from another player by [[Deep Call|Deep Calling]] or explore the rest of the area while you wait for others to appear. This Spirit is a [[Standard Memory|standard memory]] quest with 5 memory fragments<ref>Memory fragment count provided by {{Userlinks|FeatheredFlight}}.</ref> and an unlimited overall [[Timed Memory|time limit]].
+
+As their memory unfolds, the Applauding Bellmaker is seen carrying a large bell with the help of another Spirit. Together, they make their way out of the cave and up the hill, pausing to take a rest partway through the climb. Continuing onward, the Spirits reach the bell tower at the peak of the island.
+
+At the end of the memory, the Applauding Bellmaker's companion climbs the bell tower to install the new bell. Now working once again, the bell begins to spin and ring out, causing the Applauding Bellmaker to clap in congratulation of a job well done.<br>
+<br>
+[[File:01 DP Spirit - Applauding Bellmaker.png|200px|thumb|none|Relive the Applauding Bellmaker's memory]]
+</div>
+{{Clear}}
+
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} (or '''Applause''') [[Expression]], which has 4 Levels.<br>
+<br>
+[[File:{{Icon Name||emote}}|170px|left]]
+<gallery heights="125" captionalign="center">
+Applauding-Bellmaker-clap-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Applauding-Bellmaker-clap-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Applauding-Bellmaker-clap-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Applauding-Bellmaker-clap-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar raise both hands to chest level and clap them together at a moderate pace. This action is continued for as long as you don't move your character.
+*Level 2 makes the same motion as Level 1 with white starburst effects appearing from your avatar's clapping hands.
+*Level 3 will make your avatar raise both hands to chest level and clap them together with exaggerated movements at a slow pace. This action is continued for as long as you don't move your character.
+*Level 4 makes the same motion as Level 3 with purple starburst effects appearing from your avatar's clapping hands.
+
+The prices of the three Expression upgrades are {{Cost|1 C}}, {{Cost|3 C}}, and {{Cost|3 C}}. Levels 3 and 4 are only available after unlocking the Spirit's [[Wing Buff]].
+{{Clear}}
+
+== Cosmetics ==
+=== Hair ===
+The [[Hair]] offered by this Spirit is a pair of short, horizontal pigtails tied with a silver and blue band, costing {{Cost|3 H}}. It is permanently available to all players after unlocking the Friendship Tree's second node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair}} {{!}} The Hair icon
+{{Icon Name||Hair|Real}} {{!}} The Hair front
+{{Icon Name||Hair|side}} {{!}} The Hair side
+{{Icon Name||Hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Friendship Tree ==
+{{Friendship Tree Info | regular}}
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Applauding Bellmaker
+|image  = Prairie-Spirit-Applauding-Bellmaker.png
+
+|nodeC5 = spell5
+|nodeL4 = emote4 3 C
+|nodeC4 = emote3 3 C
+|nodeC3 = wing 1 AC
+|nodeL2 = hair 3 H
+|nodeC2 = spell1
+|nodeR2 = heart
+|nodeL1 = emote2 1 C
+|nodeC1 = emote
+}}<section end="Friendship Tree" />
+
+==Unique Daily Quests==
+{{#section-h:Quests/Daily Quest Spirits|{{PAGENAME}}}}
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+File:Emote_Loc-Applaud.png
+</gallery>
+
+==References==
+<references/>
+
+[[de:Applaudierende Glockenmacherin]]
+[[pt-br:Sineira que Aplaude]]
+[[fr:Fabricante de cloches applaudissant]]

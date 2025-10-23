@@ -1,0 +1,164 @@
+{{Guide Infobox
+|image     = Sanctuary-Guide-Spirit.png
+|ultimates = {{Spirit Item||cape_u|link=#Sanctuary Ultimate Cape|infobox}}{{Spirit Item||instrument_u|link=#Sanctuary Ultimate Instrument|infobox}}
+|season    = Sanctuary
+|realm     = Daylight Prairie
+|location  = Sanctuary Islands
+}}
+<section begin="Summary" />The '''Sanctuary Guide''' is a Seasonal Guide (also known as Quest Giver) from the [[Season of Sanctuary]] who offers Quests and [[#Ultimate Gifts|cosmetics]]. The Sanctuary Guide is found on the left side of the [[Sanctuary Islands]], next to the large bells monument. The Ultimate Guide offered a {{Spirit Item||necklace_u|link=Sanctuary Guide#Sanctuary Ultimate Pendant|inline_text}}, a {{Spirit Item||cape_u|link=Sanctuary Guide#Sanctuary Ultimate Cape|inline_text}}, and a {{Spirit Item||instrument_u|link=Sanctuary Guide#Sanctuary Ultimate Instrument|inline_text}} for [[Season Pass]] holders.<section end="Summary" />
+
+==<span id="Ultimate Pendant"><span id="Sanctuary Ultimate Pendant">Seasonal Pendant</span></span>==
+The Sanctuary Seasonal [[Necklaces|Pendant]] is the usual gold pendant featuring the Season's emblem attached to a necklace. It was a [[Season Pass]] exclusive item during the Season, available for free from the [[#Friendship Tree|Friendship Tree]]'s first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||necklace_u}} {{!}} Sanctuary Ultimate Pendant icon
+{{Icon Name||necklace_u_real}} {{!}} Sanctuary Ultimate Pendant
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Ultimate Gifts==
+The Season of Sanctuary Guide offered 2 Ultimate Gifts, available to be purchased by [[Season Pass]] holders with [[Currency#Season Hearts|Seasonal Hearts]] during the Season of Sanctuary only.
+
+===<span id="Ultimate Cape">Sanctuary Ultimate Cape</span>===
+The Sanctuary Ultimate [[Cape]] is white with yellow accents curving along the top and bottom hems, overall resembling the shape of a [[Mantas|Manta]]. It was a [[Season Pass]] exclusive item, available to purchase for {{Season Heart|3|season=Sanctuary}} Seasonal Hearts after unlocking the [[#Friendship Tree|Friendship Tree]]'s second node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||cape_u|icon}} {{!}} Sanctuary Ultimate Cape icon
+{{Icon Name||cape_u_front}} {{!}} Sanctuary Ultimate Cape front
+{{Icon Name||cape_u_interior}} {{!}} Sanctuary Ultimate Cape interior
+{{Icon Name||cape_u_real}} {{!}} Sanctuary Ultimate Cape back
+{{Icon Name||cape_u_exterior}} {{!}} Sanctuary Ultimate Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Ultimate Instrument">Sanctuary Ultimate Instrument</span>===
+The Sanctuary Ultimate [[Instrument]] is a metallic blue handpan with white accents. It was a [[Season Pass]] exclusive item during the Season, available to purchase for {{Season Heart|3|season=Sanctuary}} Seasonal Hearts, after unlocking the [[#Friendship Tree|Friendship Tree]]'s first node. When playing the Sanctuary Handpan, the player is sitting in a cross-legged position.
+
+{{#lst:Harmony_Hall|handpan_notes}}
+Since the end of the [[Season of Sanctuary|Season]], the Sanctuary Handpan is not for available for purchase anymore, nor is it to be found in [[Harmony Hall]]. However, a variant, the [[Triumph Handpan]] was introduced with [[Harmony Hall]]. The sound is similar, but the Triumph Handpan has a less rich and more hollow sound than the Sanctuary version. The visuals are also different.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||instrument_u}} {{!}} Sanctuary Ultimate Instrument icon
+{{Icon Name||instrument_u_real}} {{!}} Sanctuary Ultimate Instrument
+season of sanctuary ultimate instrument on back v2.png {{!}} Sanctuary Ultimate Instrument on a player's back
+season of sanctuary ultimate instrument v2.png {{!}} Playing the Sanctuary Ultimate Instrument
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Friendship Tree==
+The Sanctuary Guide Friendship Tree was available to the right of the Quest Tree during the [[Season of Sanctuary]]. '''Now that the Season is over, those cosmetics are no longer available.'''
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Sanctuary Guide
+|season = Sanctuary
+|image  = Sanctuary-Guide-Spirit.png
+
+|nodeC3 = cape_u 3 SH AP
+|  linkC3 = Sanctuary Guide#Sanctuary Ultimate Cape
+|  labelC3 = Sanctuary Ultimate Cape
+
+|nodeC2 = instrument_u 3 SH AP
+|  linkC2 = Sanctuary Guide#Sanctuary Ultimate Instrument
+|  labelC2 = Sanctuary Ultimate Instrument
+
+|nodeC1 = necklace_u AP
+|  linkC1 = Sanctuary Guide#Sanctuary Ultimate Pendant
+|  labelC1 = Sanctuary Seasonal Pendant
+}}<section end="Friendship Tree" />
+
+==Quest Tree==
+The Sanctuary Guide Quest Tree is available for all players to complete Quests from the Sanctuary Guide. During the [[Season of Sanctuary]], the [[Currency#Hearts|Hearts]] awarded for completing each Quest were free. Since the end of the Season, players completing the Quests for the first time have to pay {{Candle|3}} to obtain these Hearts. 
+<section begin="Quest Tree" />{{Mobile Tabber
+|tab1 = Post-Season
+|c1   = {{Friendship Tree
+|spirit = Sanctuary Guide
+|image  = Sanctuary-Guide-Spirit.png
+
+|nodeC7 = Icon_hug.png
+|  linkC7 = Hug Action
+
+|nodeL6 = heart
+|  noteL6 = <ref name="quest_heart"/>
+|nodeC6 = quest
+|  linkC6 = Season_of_Sanctuary#Quest_6
+|  label6 = Quest 6
+
+|nodeL5 = heart
+|  noteL5 = <ref name="quest_heart"/>
+|nodeC5 = quest
+|  linkC5 = Season_of_Sanctuary#Quest_5
+|  label5 = Quest 5
+
+|nodeL4 = heart
+|  noteL4 = <ref name="quest_heart"/>
+|nodeC4 = quest
+|  linkC4 = Season_of_Sanctuary#Quest_4
+|  label4 = Quest 4
+
+|nodeL3 = heart
+|  noteL3 = <ref name="quest_heart"/>
+|nodeC3 = quest
+|  linkC3 = Season_of_Sanctuary#Quest_3
+|  label3 = Quest 3
+
+|nodeL2 = heart
+|  noteL2 = <ref name="quest_heart"/>
+|nodeC2 = quest
+|  linkC2 = Season_of_Sanctuary#Quest_2
+|  label2 = Quest 2
+
+|nodeL1 = heart
+|  noteL1 = <ref name="quest_heart">During the Season of Sanctuary, the Hearts available from the Sanctuary Guide after completing each Quest were free.</ref>
+|nodeC1 = quest
+|  linkC1 = Season_of_Sanctuary#Quest_1
+|  label1 = Quest 1
+}}
+
+|tab2 = Mid-Season
+|c2   = {{Friendship Tree
+|spirit = Sanctuary Guide
+|type   = season
+|season = Sanctuary
+|image  = Sanctuary-Guide-Spirit.png
+
+|nodeC7 = heart free
+
+|nodeC6 = quest
+|  linkC6 = Season_of_Sanctuary#Quest_6
+|  label6 = Quest 6
+
+|nodeL5 = heart free
+|nodeC5 = quest
+|  linkC5 = Season_of_Sanctuary#Quest_5
+|  label5 = Quest 5
+
+|nodeL4 = heart free
+|nodeC4 = quest
+|  linkC4 = Season_of_Sanctuary#Quest_4
+|  label4 = Quest 4
+
+|nodeL3 = heart free
+|nodeC3 = quest
+|  linkC3 = Season_of_Sanctuary#Quest_3
+|  label3 = Quest 3
+
+|nodeL2 = heart free
+|nodeC2 = quest
+|  linkC2 = Season_of_Sanctuary#Quest_2
+|  label2 = Quest 2
+
+|nodeL1 = heart free
+|nodeC1 = quest
+|  linkC1 = Season_of_Sanctuary#Quest_1
+|  label1 = Quest 1
+}}
+}}<section end="Quest Tree" />
+
+==References==
+<references />
+
+[[de:Zufluchts-Helfer]]
+[[fr:Guide du Sanctuaire]]
+[[pt-br:Guia do Santuário]]
+[[ja:楽園の案内人]]
+
+[[Category:Season of Sanctuary]]

@@ -1,0 +1,251 @@
+Dyeing is a feature introduced in the [[Season of Radiance]] which allows players to customize their cosmetics with vibrant colors. From a new type of Dark Plant sprouting in the kingdom, collect different colors of Colored Light to forge into Dyes. Use these to add bold reds, greens, yellows, and more to your look, or mix them for specific hues.
+
+Many of the pre-existing [[capes]], [[Outfits|pants]], [[masks]], and [[shoes]] are dyeable! Play around with the endless color combinations and assemble your personalized look. A list of all currently-dyeable cosmetics can be found at [[All Dyeable Cosmetics]] page.
+
+==Dyeing Cosmetics==
+[[File:Dyeing-Cosmetics-UI.png|thumb|300px|Dyeing Interface]] 
+All dyeable currently-equipped cosmetics will appear in the dyeing interface. Players can preview dye options for cosmetics they do not own, but they cannot unlock dyes for them. Attempting to enter the Dye Workshop with an applied cosmetic spell will disable the spell while the player is in the workshop area. Select a cosmetic's icon to begin dyeing it. Up to '''two''' different dyed versions of an item can be saved to wear as “Outfit Styles,” in addition to the original version.
+
+Each dyeable cosmetic has either 1 or 2 "dyeable areas/sections". The appearance of these dyeable areas varies from item to item, (for example): solid fill, gradients, cape undersides, and gems/ornaments.
+The Gallery below showcases different types of dyeing using {{Cost|D|color=red}}:
+<gallery widths="200">
+Dyed-Interior-Base-Game-Brown-Cape.png|Brown Cape with Dyed Underside
+Dyed-Gradient-Wounded-Warrior-Cape-Back.png|[[Wounded Warrior]] Cape with Gradient Dye
+Dyed-Gem-Cat-Cape.png|[[Days of Mischief|Cat Cape]] with the Gem Dyed
+</gallery>
+
+Select a dyeable area to pick its color. You must select a "base color", but can mix in an optional "tint color" for the perfect shade. When choosing colors, bear in mind that the "base color" adds a stronger pigment than the "tint color", so the color result will depend mainly on the selected "base color". The original color of the dyeable area may affect the final outcome.
+{{Clear}}
+<gallery widths="75px" spacing="small" captionalign="center"  >
+File:Red-dye-container-icon-spell.png|Red dye
+File:yellow-dye-container-icon-spell.png|Yellow dye
+File:Green-dye-container-icon-spell.png|Green dye
+File:Cyan-dye-container-icon-spell.png|Cyan dye
+File:Blue-dye-container-icon-spell.png|Blue dye
+File:Purple-dye-container-icon-spell.png|Purple dye
+File:Black-dye-container-icon-spell.png|Black dye
+File:White-dye-container-icon-spell.png|White dye
+</gallery>
+<gallery widths="250px" spacing="small" captionalign="center"  >
+Color-mixing-guide.png|Color mixing guide
+Color-mixing-ui.jpg|Color mixing interface, with red base and yellow tint
+</gallery>
+{{#ev:youtube|9EfcrRSvWXE||inline|[[Radiance Guide]] Ultimate Mask Dye Combinations Showcase}}
+
+Each dyeable area will cost 1-4 jars of dye to color, roughly based on the size of the area. This cost applies to both the base and tint colors, so the cost of using a mixed color will be ''double'' using one of the basic colors. For '''dyeable sections and costs''' for cosmetics, please visit [[All Dyeable Cosmetics]].
+
+====Example of Cape Dyeing====
+The [[Radiance Leaping Dancer]] Cape pictured below has two "block"-type dyeable sections: the mantle, ribbons, and central cape tail (first dyeable area) , and the two side tails (second dyeable area).
+<gallery widths="250px" spacing="small" captionalign="center"  >
+Undyed-radiance-leaping-cape-cutout.png|Undyed Cape
+Section1-radiance-leaping-cape-cutout.png|Dyeable Area 1 Dyed Red {{Cost|D|color=red}}
+Section2-radiance-leaping-cape-cutout.png|Area 2 Dyed Cyan {{Cost|D|color=cyan}}
+Dyed-radiance-leaping-cape-cutout.png|Both Dyed
+</gallery>
+
+====Cosmetic Dyeing Guides====
+<gallery>
+File:Outfit Dyeing Guide part 1.png|Outfit Dyeing part 1
+File:Outfit Dyeing Guide part 2.png|Outfit Dyeing part 2
+File:Outfit Dyeing Guide part 3.png|Outfit Dyeing part 3
+File:Mask Dyeing Guide part 1.png|Mask Dyeing part 1
+File:Mask Dyeing Guide part 2.png|Mask Dyeing part 2
+File:Accs Dyeing Guide Shoes & Face.png|Shoes, Face Accessories, and Necklaces
+File:Hair Dyeing Guide part 1.png|Hair Dyeing Part 1
+File:Hair Dyeing Guide part 2.png|Hair Dyeing Part 2
+File:Accs Dyeing Guide Hair & Head.png|Hair Accessories and Head Accessories
+File:Cape Dyeing Guide part 1.png|Cape Dyeing part 1
+File:Cape Dyeing Guide part 2.png|Cape Dyeing part 2
+File:Cape Dyeing Guide part 3.png|Cape Dyeing part 3
+</gallery>
+
+==Dyed Cosmetics in the Outfit Shrine==
+Cosmetics with a droplet in their icon are dyeable. The droplet appears empty {{Icon|Undyed-Droplet-icon.png|link=}} if the cosmetic has no dyed version, and full {{Icon|Dyed-Droplet-icon.png|link=}}  if it has at least one. Each cosmetic can have up to 2 dyed versions saved at a time; attempting to save a third version will ask the player to replace one of the older ones. As of this moment, there’s no option to edit or delete dyed versions and replacing them won’t compensate for the used dyes, so dye wisely!
+
+==Collecting Colored Light==
+Colored dark plants sprout in random locations throughout the Realms and reset every hour. Sometimes they may be grown in with ordinary darkness plants, which will grant wax{{Icon|Piece-of-light.png|link=Pieces of Light}}.
+
+There are different sizes of colored darkness plants: tiny/small, medium, and large.
+<gallery widths="200px" spacing="small" captionalign="center"  >
+Tiny-colored-darkness.jpg|Tiny colored darkness plant
+Medium-colored-darkness.jpg|Medium colored darkness
+Large-colored-darkness.png|Large colored darkness
+</gallery>
+
+If the colored darkness plant has vines, players must deal with those first, by burning them, though they burn faster from the tip. Prior to {{v|0.30.5}}, [[Glossary of Terms#Deep Call|deep calling]] also made vines recede. The center of the darkness plant will then unfurl and can be burned to release butterflies carrying Colored Light. All colored darkness can be burnt by a single player — no matter the number of vines, as the vines will not grow back fully once burnt to a certain point.
+
+Use the {{Emote|Butterfly Charmer|inline_text}} Expression or [[Glossary of Terms#Deep Call|deep call]] to gather the butterflies and collect their Colored Light. The player will glow the collected dye color for a moment, and then the butterflies will fly away.
+* If two or a group of players are connected to each other, either by holding hands or using a carry action such as the {{Emote|Piggyback Lightseeker|inline_text}}, it is enough that only one player calls or beckon the butterflies for all players to receive Colored Light.
+* If a plant appears darkened, it will not give any Colored Light as it was already collected by the player in a previous rotation.
+* Approximately 40 butterflies worth of colored light are needed to fill one jar of dye.
+
+===Daily Limit===
+Players can only get a limited amount of colored light per day:
+* {{Cost|D|color=red}}red — 4 jars
+* {{Cost|D|color=yellow}}yellow — 3 jars
+* {{Cost|D|color=green}}green — 4 jars
+* {{Cost|D|color=cyan}}cyan — 3 jars
+* {{Cost|D|color=blue}}blue — 4 jars
+* {{Cost|D|color=purple}}purple — 3 jars
+* {{Cost|D|color=white}}white — 1 jar
+* {{Cost|D|color=black}}black — 1 jar
+Once a player has collected the daily max, butterflies of that color will yield 0 colored light. Similar to [[Pieces of Light]], this limit resets every day at 00:00 midnight Pacific Time (PST/PDT).
+
+Once a player has 99 or more jars of a color in their {{Icon|Pouch-icon.png}}inventory, butterflies of that color will also yield 0 colored light. Buying a spell of that dye color is the only way to exceed the 99 jar limit.
+
+===Schedule and Rotations===
+Colored dark plants will emit dark particles at xx:58. For players close to an unburned plant, they will be notified to "Work quickly, this plant will soon withdraw". At xx:59 all colored dark plants and colored butterflies will vanish. New colored dark plants will grow in new locations at xx:00. New colored plants might grow back at the same location or a different location, there is currently '''no set rotation''' for [[#Locations|locations]] and their [[#Collecting Colored Light and Dyes|size]] at each location.
+
+===Locations===
+{{WIP}}
+Certain colors can be found in specific Realms and areas:
+* [[Daylight Prairie]]: {{Cost|D|color=red}}{{Cost|D|color=yellow}}{{Cost|D|color=white}} red, yellow, and white.
+** Areas: [[Daylight_Prairie#Prairie_Caves|Caves]], [[Prairie Peaks]], [[Daylight_Prairie#Prairie_Village|Village]], [[Daylight_Prairie#Prairie_Temple|Temple (exterior only)]], [[Daylight_Prairie#Bird_Nest|Birds Nest]], and [[Sanctuary Islands]].
+* [[Hidden Forest]]: {{Cost|D|color=green}}{{Cost|D|color=cyan}}{{Cost|D|color=white}} green, cyan, and white.
+** Areas: [[Hidden Forest#Social Space|Social Space]], [[Forest Clearing]], [[Forest's Brook]], [[Elevated Clearing]], [[Underground Caverns]], [[Boneyard|Boneyard/Temple (exterior only)]].
+* [[Valley of Triumph]]: {{Cost|D|color=red}}{{Cost|D|color=yellow}}{{Cost|D|color=green}}{{Cost|D|color=cyan}}{{Cost|D|color=white}} red, yellow, green, cyan, and white.
+** Areas: [[Valley_of_Triumph#Citadel|Citadel]], [[Valley_of_Triumph#Valley_Temple|Temple]].
+* [[Golden Wasteland]]: {{Cost|D|color=blue}}{{Cost|D|color=purple}}{{Cost|D|color=black}} blue, purple, and black.
+** Areas: [[Golden_Wasteland#Broken_Temple|Broken Temple]], [[Golden_Wasteland#Graveyard_Entrance|First Krill Area/Graveyard Entrance]], [[Golden_Wasteland#Graveyard|Graveyard]], [[Golden_Wasteland#Crab_Fields|Shipwreck/Crab Fields]], [[Golden_Wasteland#Battlefield|Battlefield]], [[Treasure Reef]], and [[The Forgotten Ark]].
+* [[Vault of Knowledge]]: {{Cost|D|color=blue}}{{Cost|D|color=purple}}{{Cost|D|color=black}} blue, purple, and black.
+**Area(s): [[The Archives]].
+* [[Eye of Eden]]: {{Cost|D|color=red}}{{Cost|D|color=black}} red and black.
+**Areas [⚠️ EDEN SPOILERS!]: [[Eye_of_Eden#Section_1:_Wind_and_Rocks|Section 1]], [[Eye of Eden#Section 2: Dark Dragons and the Battlefield|Section 2]].
+* [[The Wind Paths]]: {{Cost|D|color=red}}{{Cost|D|color=yellow}}{{Cost|D|color=green}}{{Cost|D|color=cyan}}{{Cost|D|color=blue}}{{Cost|D|color=purple}}{{Cost|D|color=white}}{{Cost|D|color=black}} all.
+Other areas are not known to grow colored darkness.
+
+====Maps====
+<big>'''<u>DISCLAIMER</u>:'''</big> More specific information on colored darkness plants' rotations are still currently being explored. '''The map markers show common locations where plants have been found in the past.'''
+
+The plants may be in the general area of the marker, instead of at that specific location. The plants will not be present every hour. If they are, they may not be the same size or color as in the image.
+<!--{{Mobile Tabber
+|tab1 = [[File:Prairie-Villages-Map-Icon.png|frameless|51x51px|link=Prairie]]
+|c1   = {{Map:Dye Plants - Daylight Prairie Villages}}
+|tab2 = [[File:Prairie-Temple-Map-Icon.png|frameless|51x51px|link=Prairie]]
+|c2   = {{Map:Dye Plants - Daylight Prairie Temple}}
+|tab3 = [[File:Prairie-Birds-Nest-Map-Icon.png|frameless|51x51px|link=Prairie]]
+|c3   = {{Map:Dye Plants - Daylight Prairie Bird's Nest}}
+|tab4 = [[File:Prairie-Peaks-Map-Icon.png|frameless|51x51px|link=Prairie]]
+|c4   = {{Map:Dye Plants - Daylight Prairie Peaks}}
+}}
+
+commenting out for now in lieu of syuan's maps-->
+{{Mobile Tabber
+|tab1 = [[File:Constellation-prairie-icon-Ray.png|frameless|51x51px|link=Prairie]]Daylight Prairie
+|c1   =
+<gallery>
+SYUAN_dyeplant_map_prairie_caves_outside.png|Caves (outside)
+SYUAN_dyeplant_map_prairie_caves_inside.png|Caves (inside)
+SYUAN dyeplant map prairie villages.png|Village
+SYUAN_dyeplant_map_prairie_temple.png|Temple (exterior)
+SYUAN_dyeplant_map_prairie_birds_nest.png|Birds Nest
+SYUAN_dyeplant_map_prairie_santuary.png|Sanctuary
+SYUAN_dyeplant_map_prairie_peaks.png|Prairie Peaks
+</gallery>
+|tab2 = [[File:Constellation-forest-icon-Ray.png|frameless|51x51px|link=Forest]]Hidden Forest
+|c2   =
+<gallery>
+SYUAN_dyeplant_map_forest_social_area.png|Social Area
+SYUAN_dyeplant_map_forest_clearing_first.png|Forest Clearing (first area with large wall)
+SYUAN_dyeplant_map_forest_clearing_second_courtyard_boats.png|Forest Clearing (courtyard and boats)
+SYUAN_dyeplant_map_forest_clearing_third_tree_hollows.png|Forest Clearing area (tree hollows and treehouse)
+SYUAN_dyeplant_map_forest_brook_main.png|Forest Brook
+SYUAN_dyeplant_map_forest_brook_bridge.png|Forest Brook (by Boneyard entrance)
+SYUAN_dyeplant_map_forest_elevated_clearing_steps.png|Elevated Clearing (by Brook entrance)
+SYUAN_dyeplant_map_forest_elevated_clearing_center.png|Elevated Clearing (by Ancestor's Table)
+SYUAN_dyeplant_map_forest_elevated_clearing_grassless.png|Elevated Clearing (by Boneyard entrance)
+SYUAN_dyeplant_map_forest_cavern_entrance.png|Underground Caverns (entrance)
+SYUAN_dyeplant_map_forest_cavern_main.png|Underground Caverns
+SYUAN_dyeplant_map_forest_cavern_top.png|Underground Caverns (near the top)
+SYUAN_dyeplant_map_forest_boneyard_entrance.png|Boneyard (by Brook entrance)
+SYUAN_dyeplant_map_forest_boneyard_fork.png|Boneyard (by the fork)
+SYUAN_dyeplant_map_forest_boneyard_bridges.png|Boneyard (by temple)
+</gallery>
+|tab3 = [[File:11_Flight.png|frameless|51x51px|link=The_Wind_Paths]]Wind Paths
+|c3   =
+<gallery>
+SYUAN_dyeplant_map_windpath_big_islands.png|Main Islands
+SYUAN_dyeplant_map_windpath_entrances.png|Tunnels to Other Realms
+</gallery>
+|tab4 = [[File:Constellation-valley-icon-Ray.png|frameless|51x51px|link=Valley]]Valley of Triumph
+|c4   =
+<gallery>
+SYUAN_dyeplant_map_valley_citadel.png|Citadel
+SYUAN_dyeplant_map_valley_temple.png|Temple
+</gallery>
+|tab5 = [[File:Constellation-wasteland-icon-Ray.png|frameless|51x51px|link=Wasteland]]Golden Wasteland
+|c5   =
+<gallery>
+SYUAN_dyeplant_map_wasteland_broken_temple.png|Broken Temple
+SYUAN_dyeplant_map_wasteland_first_krill.png|First Krill Area
+SYUAN_dyeplant_map_wasteland_first_krill_exit_hallway.png|First Krill Area (by Graveyard)
+SYUAN_dyeplant_map_wasteland_graveyard.png|Graveyard
+SYUAN_dyeplant_map_wasteland_crab_fields.png|Crab Fields
+SYUAN_dyeplant_map_wasteland_battlefield_dunes.png|Battlefield (by Graveyard entrance)
+SYUAN_dyeplant_map_wasteland_battlefield_center.png|Battlefield
+SYUAN_dyeplant_map_wasteland_battlefield_temple.png|Battlefield (by temple)
+SYUAN_dyeplant_map_wasteland_treasure_reef.png|Treasure Reef
+SYUAN_dyeplant_map_wasteland_forgotten_ark.png|Forgotten Ark
+</gallery>
+|tab6 = [[File:Constellation-vault-icon-Ray.png|frameless|51x51px|link=Vault]]Vault of Knowledge
+|c6   =
+<gallery>
+SYUAN_dyeplant_map_vault_archives.png|The Archives
+</gallery>
+|tab7 = [[File:Eden-backdrop-icon.png|frameless|51x51px|link=Eden]]Eye of Eden
+|c7   =
+<gallery>
+SYUAN_dyeplant_map_eden_section1.png|Section 1, Wind and Rocks
+SYUAN_dyeplant_map_eden_section2.png|Section 2, Dark Dragons
+</gallery>
+}}
+
+====[[Daylight Prairie]]====
+Colored Darkness plants can be found in the following areas:
+<gallery widths="200" spacing="small">
+Dye-Plant-Prairie-Village-Left-Island-1.png|Prairie Village Left Island
+Dye-Plant-Prairie-Village-Middle-Island-1.png|Prairie Village Middle Island
+Dye-Plant-Prairie-Village-Right-Island-1.png|Prairie Village Right Island
+Dye-Plant-Prairie-Village-Right-Island-1-closeup.png|Prairie Village Right Island
+Dye-Plant-Prairie-Village-Right-Island-2.png|Prairie Village Right Island
+Dye-Plant-Prairie-Temple-Koi-Pond-1.png|Prairie Temple by the Koi Pond
+Dye-Plant-Prairie-Caves-1.png|Prairie Caves
+Dye-Plant-Prairie-Caves-1-closeup.png|Prairie Caves Closeup
+Dye-Plant-Prairie-Caves-2.png|Prairie Caves
+Dye-Plant-Prairie-Caves-3.png|Prairie Caves
+Dye-Plant-Prairie-Caves-4.png|Prairie Caves
+Dye-Plant-Prairie-Caves-5.png|Prairie Caves
+Dye-Plant-Prairie-Caves-6.png|Prairie Caves
+Dye-Plant-Prairie-Birds-Nest-1.png|Birds Nest
+Dye-Plant-Prairie-Birds-Nest-2.png|Birds Nest
+Dye-Plant-Prairie-Birds-Nest-3.png|Birds Nest
+Dye-Plant-Prairie-Birds-Nest-4.png|Birds Nest
+Dye-Plant-Prairie-Birds-Nest-5.png|Birds Nest
+Dye-Plant-Prairie-Sanctuary-Geyser-1.png|Geyser
+Dye-Plant-Prairie-Sanctuary-Iselet-1.png|Sanctuary Islet near Turtle Island
+Dye-Plant-Prairie-Peaks-Left-Side-1.png|Prairie Peaks to the Left of the River
+Dye-Plant-Prairie-Peaks-Near-Waterfall-1.png|Prairie Peaks to the Right of the River
+Dye-Plant-Prairie-Peaks-Right-Side-1.png|Prairie Peaks near the waterfall
+Dye-Plant-Prairie-Peaks-Near-Waterfall-1-closeup.png|Prairie Peaks near the waterfall Closeup
+</gallery>
+{{Clear}}
+===Exchanging Dyes===
+In the upper floor of the [[Season_of_Radiance#Dye_Workshop|Aviary Dye Workshop]], players can trade in jars of Dye for other colors and candles. Every [[Timing_System#Schedule_of_Events_in_Sky|weekly reset]], six listings will refresh:
+* 1 jar of black dye,
+* 1 jar of white dye,
+* 1 candle,
+* and three other random colors.
+Each listing will cost 3 or 4 of a single, random color of dye, but never black or white. The black, white, and candle cost {{Dye|3}}, and the random colors are {{Dye|4}}. Each can only be purchased once weekly.
+
+==Trivia==
+*Cosmetics spells will be disabled when going into the Dye Workshop. An “×” will appear on the timer display, but the spell's timer continues to count down.
+*In Patch 0.28.0 only the [[Outfits]], [[Masks]], and [[Capes]] categories had dyeable cosmetics. Some cosmetics in the [[Face Accessories]], [[Necklaces]], [[Hair Accessories]] and [[Head Accessories]] categories became dyeable only in Patch 0.28.5.
+*Some cosmetics are not dyeable—for example, [[hair]] color, Season [[Necklaces|pendants]], collaboration items, and so on.
+
+==References==
+Please visit the [https://www.thatskygame.com/news/a-world-of-color-awaits-in-season-of-radiance News Blog], [https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/faq/1374-patch-notes---january-16-2025---0-28-0-308028-android-huawei-ios-playstation-steam-switch/ Patch Notes], and [https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/faq/1375-what-is-dyeing-and-the-dye-workshop-how-can-i-change-the-color-of-my-items/ FAQ Page on Dyeing] for more information.
+
+[[ja:光染め]]
+[[pt-br:Tintas]]
+[[fr:Teintures]]
+[[de:Farben]]

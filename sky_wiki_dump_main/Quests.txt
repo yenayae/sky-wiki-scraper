@@ -1,0 +1,1257 @@
+[[File:Return Shrine Statue (Quests).jpg|thumb|182x182px|The Return Shrine Statue]]
+<!--TBA: image of the Quest Spirits at the Cafe-->
+'''Daily Quests''' are the set of four tasks assigned to players each day that offer a reward of [[Currency]] when completed. There are two methods for accessing Quests after a reset: by interacting with the Return Shrine Statue in [[Home]], or by visiting the [[Ancestors]] waiting at the [[Aviary_Village#Aviary_Village_Archway_Cafe_Counter|Aviary Village Archway Cafe Counter]]. Once a Quest has been completed, returning to interact with the Return Shrine Statue or the archway counter Ancestors again will reward players with one [[Currency#Candles|Candle]] per completed Quest. Each of the visiting archway counter Ancestors will leave once their associated Quest is completed, and when all four have been completed, sit down to receive a [[Pieces of Light|Light]]-filled treat. The Cafe Manager will then clean up, turn off the lights, and leave for the day. The Daily Quests and their associate Spirits are being tracked on the [[Quests/Daily Quest Spirits]] page.
+
+Pressing the upper-left corner of the screen (iOS and Android), the left arrow on the D-Pad (PlayStation and Switch), or the Shift key (PC) will toggle a menu showing the Daily Quests.
+
+The daily list of Quests will always be made up of five different categories:
+
+* Friend Actions/Interactions
+* Gameplay Actions
+* Visit a Meditation Shrine
+* Find the Light
+* Relive a Spirit's memories
+
+Each day the location of the Daily Quests change, cycling through almost every [[Realm]] in turn, typically following directly after the day's chosen [[Treasure Candles|Daily Treasure Candle]] Realm.<!--indicated through the cutscene played when checking in with the Return Shrine Statue - where the camera will pan out from the day's chosen Realm portal--> Neither [[Isle of Dawn]] nor the [[Eye of Eden]] will have Quests. During [[Seasonal Events]], Quests are nearly identical to those given off-Season, though they will reward the player with [[Currency#Season_Candles|Season Candles]] instead.
+
+Some Quests can only be done in a specific area within the Realm in question. These include Meditation Quests, or Quests such as to rescue a Manta from Darkness. For these types of Quests, players can use a [[Map Shrine]], where their locations within the Realms will be marked with yellow icons. Most of the time, all Quests for the day can be completed within the daily Realm, but there is no requirement that this should be the case.
+
+Most of the following graphics were made by '''Clement''' from the '''[https://discord.com/invite/uA8ms26 Sky CotL: Infographics Database]'''.
+
+==Realm Quests==
+=== [[Daylight Prairie]] ===
+These Quests will only be given and can only be completed in Daylight Prairie. For additional Quests that are not Realm-specific, please scroll down to [[#General Quests|General Quests]].
+
+{| class="article-table"
+! Quest
+! Visual Guide
+! Video Guide
+|-
+! colspan=3 style="text-align:center;"| Meditation Quests <span id="Prairie Mediation Quests"></span>
+|-
+| {{Icon|Quest-icon.png}} Meditate in Prairie's butterfly field
+| style="text-align:center;"| [[File:01 DP Quest - Meditate at butterfly fields.png|frameless|x56px]]
+| 
+|-
+| {{Icon|Quest-icon.png}} Meditate at Prairie's cave shrine
+| style="text-align:center;"| [[File:01 DP Quest - Meditate at cave shrine.png|frameless|x56px]]
+| [https://youtu.be/Pc8wrPEPcus Video Guide]
+|-
+| {{Icon|Quest-icon.png}} Meditate at Prairie's bird nest shrine
+| style="text-align:center;"| [[File:01 DP Quest - Meditate at Bird Nest.png|frameless|x56px]]
+| [https://youtu.be/OXLBHrmCTmU Video Guide]
+|-
+| {{Icon|Quest-icon.png}} Meditate at the Sanctuary Islands
+| style="text-align:center;"| [[File:01 DP Quest - Meditate at Sanctuary Islands.png|frameless|x56px]]
+| [https://youtu.be/xyR4vlI1FxU Video Guide]
+|-
+| {{Icon|Quest-icon.png}} Meditate at Prairie's faerie ring
+| style="text-align:center;"| [[File:01 DP Quest - Meditate at Faerie Ring.png|frameless|x56px]]
+| 
+|-
+| {{Icon|Quest-icon.png}} Meditate by Prairie's koi pond
+| style="text-align:center;"| [[File:01 DP Quest - Meditate at Koi Pond.png|frameless|x56px]]
+| [https://youtu.be/2oH89Ygc1Ao Video Guide]
+|-
+! colspan=3 style="text-align:center;"| General Quests <span id="Prairie General Quests"></span>
+|-
+| {{Icon|Quest-icon.png}} Catch the light in Daylight Prairie
+| style="text-align:center;"| [[File:01 DP Quest - Catch the light.png|frameless|x56px]]
+| [https://youtu.be/ik6eeSghJ-w Video Guide]
+|-
+| {{Icon|Quest-icon.png}} Collect {{Icon|Green-light-icon.png}} [[Green Light]]
+| style="text-align:center;"| [[File:02 DP Quest - Collect Green Light.png|frameless|x56px]]
+| [https://youtu.be/mzUVM4sqroI Video Guide]
+|-
+| {{Icon|Quest-icon.png}} Visit the [[Days of Nature|polluted geyser]] in Sanctuary Islands
+| style="text-align:center;"| [[File:01 DP Quest - Visit the Polluted Geyser.jpg|frameless|x56px]]
+| [https://youtu.be/jYhL0Cjxn-w Video Guide]
+|-
+| {{Icon|Quest-player-icon.png}} Admire the [[Days of Bloom|sapling]] in Daylight Prairie for a short while
+| style="text-align:center;"| [[File:01 DP Quest - Admire the sapling.jpg|frameless|x56px]]
+| [https://youtu.be/c7g4_wYYEmg?t=131 Video Guide]
+|-
+| {{Icon|Quest-icon.png}} Find the candles at the end of the [[Days of Color|rainbow]] in the Daylight Prairie
+| style="text-align:center;"| [[File:01 DP Quest - Find the candles at the end of the rainbow.png|frameless|x56px]]
+| [https://youtu.be/fCtpCZFJLmE Video Guide]
+|-
+| {{Icon|Quest-icon.png}} Visit the [[Additional_Light_Sources#Cozy_Hideout|cozy hideout]] in Prairie Caves
+| style="text-align:center;"| [[File:01 DP Quest - Visit the Cozy Hideout.png|frameless|x56px]]
+|
+|-
+| {{Icon|Quest-icon.png}} Rid the [[Days of Nature|Sanctuary Vortex]] of Darkness
+| style="text-align:center;"| [[File:01 DP Quest - Rid the Sanctuary Vortex of Darkness.png|frameless|x56px]]
+|
+|}
+
+====Prairie Spirit Memory Quests====
+The icon to the left of the Quest text indicates the [[Spirits|Spirit]] it wants you to relive.
+
+{| class="article-table"
+! Quest
+! Spirit
+! Visual Guide
+! Video Guide
+|-
+| {{Icon|Icon flame.png}} Relive a Spirit's memories in Daylight Prairie
+| Any Spirit in Prairie
+| style="text-align:center;"| [[File:Relive A Spirits Memory.png|frameless|x56px]]
+| 
+|-
+! colspan=4 style="text-align:center;"| Regular Spirit Quests <span id="Prairie Regular Spirit Quests"></span>
+|-
+| {{Spirit|Butterfly Charmer}} Relive Butterfly Charmer's memory from Daylight Prairie
+| [[Butterfly Charmer]]
+| style="text-align:center;"| [[File:01 DP Spirit - Butterfly Charmer.png|frameless|x56px]]
+| [https://youtu.be/-L_Q3jFZj18 Video Guide]
+|-
+| {{Spirit|Waving Bellmaker}} Relive Waving Bellmaker's memory from Daylight Prairie
+| [[Waving Bellmaker]]
+| style="text-align:center;"| [[File:01 DP Spirit - Waving Bellmaker.png|frameless|x56px]]
+| [https://youtu.be/zKJvf3ESVrE Video Guide]
+|-
+| {{Spirit|Laughing Light Catcher}} Relive Laughing Light Catcher's memory from Daylight Prairie
+| [[Laughing Light Catcher]]
+| style="text-align:center;"| [[File:01 DP Spirit - Laughing Light Catcher.png|frameless|x56px]]
+| [https://youtu.be/QyxnF3E58Xg?t=931 Video Guide]
+|-
+| {{Spirit|Slumbering Shipwright}} Relive Slumbering Shipwright's memory from Daylight Prairie
+| [[Slumbering Shipwright]]
+| style="text-align:center;"| [[File:01 DP Spirit- Slumbering Shipwright.png|frameless|x56px]]
+| [https://youtu.be/QyxnF3E58Xg?t=799 Video Guide]
+|-
+| {{Spirit|Applauding Bellmaker}} Relive Applauding Bellmaker's memory from Daylight Prairie
+| [[Applauding Bellmaker]]
+| style="text-align:center;"| [[File:01 DP Spirit - Applauding Bellmaker.png|frameless|x56px]]
+| [https://youtu.be/QyxnF3E58Xg Video Guide]
+|-
+| {{Spirit|Bird Whisperer}} Relive Bird Whisperer's memory from Daylight Prairie
+| [[Bird Whisperer]]
+| style="text-align:center;"| [[File:01 DP Spirit - Bird Whisperer.png|frameless|x56px]]
+| [https://youtu.be/QyxnF3E58Xg?t=1501 Video Guide]
+|-
+| {{Spirit|Exhausted Dock Worker}} Relive Exhausted Dock Worker's memory from Daylight Prairie
+| [[Exhausted Dock Worker]]
+| style="text-align:center;"| [[File:01 DP Spirit - Exhausted Dock Worker.png|frameless|x56px]]
+| [https://youtu.be/QyxnF3E58Xg?t=1706 Video Guide]
+|-
+! colspan=4 style="text-align:center;"| Seasonal Spirit Quests <span id="Prairie Seasonal Spirit Quests"></span>
+|-
+| {{Spirit|Stretching Guru}} Relive Stretching Guru's memory from Daylight Prairie
+| [[Stretching Guru]]
+| style="text-align:center;"| [[File:01 DP Spirit - Stretching Guru.png|frameless|x56px]]
+| [https://www.youtube.com/watch?v=_Atgn5k2kBY Video Guide]
+|-
+| {{Spirit|Doublefive Light Catcher}} Relive Doublefive Light Catcher's memory from Daylight Prairie
+| [[Doublefive Light Catcher]]
+| style="text-align:center;"| [[File:01 DP Spirit - Doublefive Light Catcher.png|frameless|x56px]]
+| [https://www.youtube.com/watch?v=nQUnUlwujMc Video Guide]
+|-
+| {{Spirit|Confetti Cousin}} Relive Confetti Cousin's memory from Daylight Prairie
+| [[Confetti Cousin]]
+| style="text-align:center;"| [[File:01 DP Spirit - Confetti Cousin.png|frameless|x56px]]
+| [https://www.youtube.com/watch?v=bBjri4XwR2c Video Guide]
+|-
+| {{Spirit|Festival Spin Dancer}} Relive Festival Spin Dancer's memory from Daylight Prairie
+| [[Festival Spin Dancer]]
+| style="text-align:center;"| [[File:01 DP Spirit - Festive Spin Dancer.png|frameless|x56px]]
+| [https://youtu.be/eTI_5rJNQqg Video Guide]
+|-
+| {{Spirit|Timid Bookworm}} Relive Timid Bookworm's memory from Daylight Prairie
+| [[Timid Bookworm]]
+| style="text-align:center;"| [[File:01 DP Spirit - Timid Bookworm.png|frameless|x56px]]
+| [https://youtu.be/GTnvyuwFNE0 Video Guide]
+|-
+| {{Spirit|Grateful Shell Collector}} Relive Grateful Shell Collector's memory from Daylight Prairie
+| [[Grateful Shell Collector]]
+| style="text-align:center;"| [[File:01 DP Spirit - Grateful Shell Collector.png|frameless|x56px]]
+| [https://youtu.be/fMZdaF0WRC8 Video Guide]
+|-
+| {{Spirit|Jelly Whisperer}} Relive Jelly Whisperer's memory from Daylight Prairie
+| [[Jelly Whisperer]]
+| style="text-align:center;"| [[File:01 DP Spirit - Jelly Whisperer.png|frameless|x56px]]
+| [https://youtu.be/svKLM5uXQpg Video Guide]
+|-
+| {{Spirit|Hiking Grouch}} Relive Hiking Grouch's memory from Daylight Prairie
+| [[Hiking Grouch]]
+| style="text-align:center;"| [[File:01 DP Spirit - Hiking Grouch.png|frameless|x56px]]
+| [https://youtu.be/-VughqeQXCM Video Guide]
+|-
+| {{Spirit|Rallying Thrillseeker}} Relive Rallying Thrillseeker's memory from Daylight Prairie
+| [[Rallying Thrillseeker]]
+| style="text-align:center;"| [[File:01 DP Spirit - Rallying Thrillseeker.png|frameless|x56px]]
+| [https://youtu.be/vqDrzq5MZ9k Video Guide]
+|-
+| {{Spirit|Chill Sunbather}} Relive Chill Sunbather's memory from Daylight Prairie
+| [[Chill Sunbather]]
+| style="text-align:center;"| [[File:01 DP Seasonal Spirit - Chill Sunbather.png|frameless|x56px]]
+| [https://youtu.be/197tor-WWVo Video Guide]
+|}
+
+===[[Hidden Forest]]===
+These Quests will only be given and can only be completed in Hidden Forest. For additional Quests that are not Realm-specific, please scroll down to [[#General Quests|General Quests]].
+{| class="article-table"
+! Quest
+! Visual Guide
+! Video Guide
+|-
+! colspan=3 style="text-align:center;"| Meditation Quests <span id="Forest Mediation Quests"></span>
+|-
+| {{Icon|Quest-icon.png}} Meditate at Forest's clearing
+| style="text-align:center;"| [[File:02 HF Quest - Meditate at Forest Clearing.png|frameless|x56px]]
+| [https://youtu.be/jwLefLIZLi8 Video Guide]
+|-
+| {{Icon|Quest-icon.png}} Meditate above the Forest's brook
+| style="text-align:center;"| [[File:02 HF Quest - Meditate at Forest Brook.png|frameless|x56px]]
+| [https://youtu.be/Yb5DSLxVn44 Video Guide]
+|-
+| {{Icon|Quest-icon.png}} Meditate in Forest's boneyard
+| style="text-align:center;"| [[File:02 HF Quest - Meditate at Boneyard.png|frameless|x56px]]
+| [https://youtu.be/B8E7gWkP9aQ Video Guide]
+|-
+| {{Icon|Quest-icon.png}} Meditate at Forest's end
+| style="text-align:center;"| [[File:02 HF Quest - Meditate at Forest End.png|frameless|x56px]]
+| 
+|-
+| {{Icon|Quest-icon.png}} Meditate at Forest's elevated clearing
+| style="text-align:center;"| [[File:02 HF Quest - Meditate at Elevated Clearing.png|frameless|x56px]]
+| [https://youtu.be/9KgxsVvkr-M Video Guide]
+|-
+! colspan=3 style="text-align:center;"| General Quests <span id="Forest General Quests"></span>
+|-
+| {{Icon|Quest-icon.png}} Catch the light in Hidden Forest
+| style="text-align:center;"| [[File:02 HF Quest - Catch the light.png|frameless|x56px]]
+| [https://youtu.be/uCUHCMRM1Oo Video Guide]
+|-
+| {{Icon|Quest-icon.png}} Collect {{Icon|Orange-light-icon.png}} [[Orange Light]]
+| style="text-align:center;"| [[File:02 HF Quest - Collect Orange Light.png|frameless|x56px]]
+| [https://youtu.be/m92rALQldBM Video Guide]
+|-
+| {{Icon|Quest-star-icon.png}} Rescue a [[Mantas|Manta]] from [[Flora,_Minerals_and_Elements_of_Sky#Darkness|Darkness]]
+| style="text-align:center;"| [[File:02 HF Quest - Rescue a Manta.png|frameless|x56px]]
+| [https://youtu.be/23gUb_G0mGI Video Guide]
+|-
+| {{Icon|Quest-icon.png}} Recharge your light from a [[Flora,_Minerals_and_Elements_of_Sky#Light_Bloom|light bloom]]
+| style="text-align:center;"| [[File:02 HF Quest - Recharge from a Light Bloom.png|frameless|x56px]]
+| [https://youtu.be/yc6vJuqHko0 Video Guide]
+|-
+| {{Icon|Quest-player-icon.png}} Admire the [[Days of Bloom|sapling]] in Hidden Forest for a short while
+| style="text-align:center;"| [[File:02 HF Quest - Admire the sapling.png|frameless|x56px]]
+| [https://youtu.be/c7g4_wYYEmg?t=152 Video Guide]
+|-
+| {{Icon|Quest-icon.png}} Find the candles at the end of the [[Days of Color|rainbow]] in the Hidden Forest
+| style="text-align:center;"| [[File:02 HF Quest - Find the candles at the end of the rainbow.png|frameless|x56px]]
+| [https://youtu.be/otI3wuLQKis Video Guide]
+|-
+| {{Icon|Quest-icon.png}} Visit the [[Additional_Light_Sources#Grandma's_Dinner_Event|Ancestor's Table of Belonging]] in Forest's Elevated Clearing
+| style="text-align:center;"| [[File:02 HF Quest - Visit the Ancestors Table.png|frameless|x56px]]
+| 
+|}
+
+====Forest Spirit Memory Quests====
+The icon to the left of the Quest text indicates the [[Spirits|Spirit]] it wants you to relive.
+
+{| class="article-table"
+! Quest
+! Spirit
+! Visual Guide
+! Video Guide
+|-
+| {{Icon|Icon flame.png}} Relive a Spirit's memories in Hidden Forest
+| Any Spirit in Forest
+| style="text-align:center;"| [[File:Relive A Spirits Memory.png|frameless|x56px]]
+| 
+|-
+! colspan=4 style="text-align:center;"| Regular Spirit Quests <span id="Forest Regular Spirit Quests"></span>
+|-
+| {{Spirit|Shivering Trailblazer}} Relive Shivering Trailblazer's memory from Hidden Forest
+| [[Shivering Trailblazer]]
+| style="text-align:center;"| [[File:02 HF Spirit - Shivering Trailblazer.png|frameless|x56px]]
+| [https://youtu.be/XN1u4PxlGrs Video Guide]
+|-
+| {{Spirit|Blushing Prospector}} Relive Blushing Prospector's memory from Hidden Forest
+| [[Blushing Prospector]]
+| style="text-align:center;"| [[File:02 HF Spirit - Blushing Prospector.png|frameless|x56px]]
+| [https://youtu.be/5DNs9K-zeeI?t=344 Video Guide]
+|-
+| {{Spirit|Hide'n'Seek Pioneer}} Relive Hide'n'Seek Pioneer's memory from Hidden Forest
+| [[Hide'n'Seek Pioneer]]
+| style="text-align:center;"| [[File:02 HF Spirit - Hide-n-Seek Pioneer.png|frameless|x56px]]
+| [https://youtu.be/5DNs9K-zeeI?t=646 Video Guide]
+|-
+| {{Spirit|Pouty Porter}} Relive Pouty Porter's memory from Hidden Forest
+| [[Pouty Porter]]
+| style="text-align:center;"| [[File:02 HF Spirit - Pouty Porter.png|frameless|x56px]]
+| [https://youtu.be/5DNs9K-zeeI?t=555 Video Guide]
+|-
+| {{Spirit|Apologetic Lumberjack}} Relive Apologetic Lumberjack's memory from Hidden Forest
+| [[Apologetic Lumberjack]]
+| style="text-align:center;"| [[File:02 HF Spirit - Apologetic Lumberjack.png|frameless|x56px]]
+| [https://youtu.be/5DNs9K-zeeI?t=936 Video Guide]
+|-
+| {{Spirit|Dismayed Hunter}} Relive Dismayed Hunter's memory from Hidden Forest
+| [[Dismayed Hunter]]
+| style="text-align:center;"| [[File:02 HF Spirit - Dismayed Hunter.png|frameless|x56px]]
+| [https://youtu.be/5DNs9K-zeeI?t=825 Video Guide]
+|-
+| {{Spirit|Whale Whisperer}} Relive Whale Whisperer's memory from Hidden Forest
+| [[Whale Whisperer]]
+| style="text-align:center;"| [[File:02 HF Spirit - Whale Whisperer.png|frameless|x56px]]
+| [https://youtu.be/5DNs9K-zeeI?t=1108 Video Guide]
+|-
+| {{Spirit|Tearful Light Miner}} Relive Tearful Light Miner's memory from Hidden Forest
+| [[Tearful Light Miner]]
+| style="text-align:center;"| [[File:02 HF Spirit - Tearful Light Miner.png|frameless|x56px]]
+| [https://youtu.be/-qlPyROfiew Video Guide]
+|-
+! colspan=4 style="text-align:center;"| Seasonal Spirit Quests <span id="Forest Seasonal Spirit Quests"></span>
+|-
+| {{Spirit|Provoking Performer}} Relive Provoking Performer's memory from Hidden Forest
+| [[Provoking Performer]]
+| style="text-align:center;"| [[File:02 HF Seasonal Spirit - Provoking Performer.png|frameless|x56px]]
+| [https://youtu.be/Plpl2MGoZYo Video Guide]
+|-
+| {{Spirit|Laidback Pioneer}} Relive Laidback Pioneer's memory from Hidden Forest
+| [[Laidback Pioneer]]
+| style="text-align:center;"| [[File:02 HF Seasonal Spirit - Laidback Pioneer.png|frameless|x56px]]
+| [https://youtu.be/rlMGDjpznZo Video Guide]
+|-
+| {{Spirit|Hairtousle Teen}} Relive Hairtousle Teen's memory from Hidden Forest
+| [[Hairtousle Teen]]
+| style="text-align:center;"| [[File:02 HF Seasonal Spirit - Hairtousle Teen.png|frameless|x56px]]
+| [https://www.youtube.com/watch?v=6TlBquksQa0 Video Guide]
+|-
+| {{Spirit|Admiring Actor}} Relive Admiring Actor's memory from Hidden Forest
+| [[Admiring Actor]]
+| style="text-align:center;"| [[File:02 HF Seasonal Spirit - Admiring Actor.png|frameless|x56px]]
+| [https://youtu.be/FpCci6gc0Kg Video Guide]
+|-
+| {{Spirit|Scolding Student}} Relive Scolding Student's memory from Hidden Forest
+| [[Scolding Student]]
+| style="text-align:center;"| [[File:02 HF Seasonal Spirit - Scolding Student.png|frameless|x56px]]
+| [https://youtu.be/vRy9eyVQTX0 Video Guide]
+|-
+| {{Spirit|Daydream Forester}} Relive Daydream Forester's memory from Hidden Forest
+| [[Daydream Forester]]
+| style="text-align:center;"| [[File:02 HF Seasonal Spirit - Daydreaming Forester.png|frameless|x56px]]
+| [https://youtu.be/douhHwsYmJw Video Guide]
+|-
+| {{Spirit|Marching Adventurer}} Relive Marching Adventurer's memory from Hidden Forest
+| [[Marching Adventurer]]
+| style="text-align:center;"| [[File:02 HF Seasonal Spirit - Marching Adventurer.png|frameless|x56px]]
+| [https://youtu.be/FIX2wsGwMRk Video Guide]
+|-
+| {{Spirit|Chuckling Scout}} Relive Chuckling Scout's memory from Hidden Forest
+| [[Chuckling Scout]]
+| style="text-align:center;"| [[File:02 HF Seasonal Spirit - Chuckling Scout.png|frameless|x56px]]
+| [https://youtu.be/W5gAsEBSNas Video Guide]
+|-
+| {{Spirit|Baffled Botanist}} Relive Baffled Botanist's memory from Hidden Forest
+| [[Baffled Botanist]]
+| style="text-align:center;"| [[File:02 HF Seasonal Spirit - Baffled Botanist.png|frameless|x56px]]
+| [https://youtu.be/ESYM7mzrZv8 Video Guide]
+|-
+| {{Spirit|Scaredy Cadet}} Relive Scaredy Cadet's memory from Hidden Forest
+| [[Scaredy Cadet]]
+| style="text-align:center;"| [[File:02 HF Seasonal Spirit - Scaredy Cadet.png|frameless|x56px]]
+| [https://youtu.be/ygMPERry2xs Video Guide]
+<!--|-
+| {{Spirit|Light Whisperer}} Relive Light Whisperer's memory from Hidden Forest
+| [[Light Whisperer]]
+| style="text-align:center;"| [[File:02 HF Seasonal Spirit - Light Whisperer.jpg|frameless|x56px]]
+|
+|-
+| {{Spirit|Talented Builder}} Relive Talented Builder's memory from Hidden Forest
+| [[Talented Builder]]
+| style="text-align:center;"| [[File:02 HF Seasonal Spirit - Talented Builder.jpg|frameless|x56px]]
+|
+|-
+| {{Spirit|Tinkering Chimesmith}} Relive Tinkering Chimesmith's memory from Hidden Forest
+| [[Tinkering Chimesmith]]
+| style="text-align:center;"| [[File:02 HF Seasonal Spirit - Tinkering Chimesmith.jpg|frameless|x56px]]
+|
+|-
+| {{Spirit|Lively Navigator}} Relive Lively Navigator's memory from Hidden Forest
+| [[Lively Navigator]]
+| style="text-align:center;"| [[File:02 HF Seasonal Spirit - Lively Navigator.jpg|frameless|x56px]]
+|
+| --->
+|}
+
+===[[Valley of Triumph]]===
+These Quests will only be given and can only be completed in Valley of Triumph. For additional Quests that are not Realm-specific, please scroll down to [[#General Quests|General Quests]].
+{| class="article-table"
+! Quest
+! Visual Guide
+! Video Guide
+|-
+! colspan=3 style="text-align:center;"| Meditation Quests <span id="Valley Mediation Quests"></span>
+|-
+|{{Icon|Quest-icon.png}} Meditate by Valley's ice rink
+| style="text-align:center;"| [[File:03 VT Quest - Meditate at ice rink.png|frameless|x56px]]
+|
+|-
+| {{Icon|Quest-icon.png}} Meditate high above the Valley's citadel
+| style="text-align:center;"| [[File:03 VT Quest - Meditate at Citadel.png|frameless|x56px]]
+| [https://youtu.be/IfzG26KFFEw Video Guide]
+|-
+| {{Icon|Quest-icon.png}} Meditate above Valley's citadel arch
+| style="text-align:center;"| [[File:03 VT Quest - Meditate at Citadel Arch.png|frameless|x56px]]
+| [https://youtu.be/mjRDf1J5sZ8 Video Guide]
+|-
+| {{Icon|Quest-icon.png}} Meditate at the end of the race
+| style="text-align:center;"| [[File:03 VT Quest - Meditate at race end by rat-bones.png|frameless|x56px]]
+|-
+! colspan=3 style="text-align:center;"| General Quests <span id="Valley General Quests"></span>
+|-
+| {{Icon|Quest-icon.png}} Catch the light in Valley of Triumph
+| style="text-align:center;"| [[File:03 VT Quest - Catch the Light.png|frameless|x56px]]
+| [https://youtu.be/tXf-oZ6F5CU Video Guide]
+|-
+| {{Icon|Quest-icon.png}} Collect {{Icon|Blue-light-icon.png}} [[Blue Light]]
+| style="text-align:center;"| [[File:03 VT Quest - Collect Blue Light.png|frameless|x56px]]
+| [https://youtu.be/WPotQHMUuYw Video Guide]
+|-
+| {{Icon|Quest-player-icon.png}} Admire the [[Days of Bloom|sapling]] in Valley of Triumph for a short while
+| style="text-align:center;"| [[File:03 VT Quest - Admire the sapling.png|frameless|x56px]]
+| [https://youtu.be/c7g4_wYYEmg?t=152 Video Guide]
+|-
+| {{Icon|Quest-icon.png}} Find the candles at the end of the [[Days of Color|rainbow]] in the Valley of Triumph
+| style="text-align:center;"| [[File:03 VT Quest - Find the candles at the end of the rainbow.png|frameless|x56px]]
+| [https://youtu.be/nAQKhaiwhjc Video Guide]
+|-
+| {{Icon|Quest-player-icon.png}} Visit the [[Additional_Light_Sources#Hot_Spring|Hotspring]] in the Village of Dreams
+| style="text-align:center;"| [[File:03 VT Quest - Visit the Hotspring.png|frameless|x56px]]
+| 
+|-
+| {{Icon|Quest-icon.png}} [[Modest Dancer]] needs help with something in Village of Dreams
+| style="text-align:center;"| [[File:03 VT Quest - Modest Dancer needs help with something in Village of Dreams by AL.png|frameless|x56px]] <!-- book delivery -->
+|<!-- [ Video Guide] -->
+|-
+| {{Icon|Quest-icon.png}} [[Modest Dancer]] needs help with something in Village of Dreams
+| style="text-align:center;"| [[File:03 VT Quest - Modest Dancer needs help with something in Village of Dreams (Routine) by AL.png|frameless|x56px]] <!-- photograph Modest's routine -->
+| [https://youtu.be/QG4LXuOi_A Video Guide]
+|-
+| {{Icon|Quest-icon.png}} [[Frantic Stagehand]] needs help with something in Village Theater
+| style="text-align:center;"| [[File:03 VT Quest - Frantic Stagehand needs help with something in Village Theater by AL.png|frameless|x56px]] <!-- flip bench -->
+| [https://youtu.be/vnPwBwIPWvw Video Guide]
+|-
+| {{Icon|Quest-icon.png}} [[Frantic Stagehand]] needs help with something in Village Theater
+| style="text-align:center;"| [[File:03 VT Quest - Frantic Stagehand needs help with something in Village Theater (Teamwork) by AL.png|frameless|x56px]] <!-- flip bench with Mellow's help -->
+| [https://youtu.be/JvgK2OF1wCI Video Guide]
+|-
+| {{Icon|Quest-icon.png}} [[Mellow Musician]] needs help with something in Village Theater
+| style="text-align:center;"| [[File:03 VT Quest - Mellow Musician needs help with something in Village Theater by AL.png|frameless|x56px]]
+| [https://youtu.be/RvWiQaOQ_cs Video Guide]
+|-
+| {{Icon|Quest-icon.png}} [[Forgetful Storyteller]] needs help with something in Village of Dreams
+| style="text-align:center;"| [[File:03 VT Quest - Forgetful Storyteller needs help with something in Village of Dreams by AL.png|frameless|x56px]]<!-- finding the lost book -->
+| [https://youtu.be/A5xJtrT2GKY Video Guide]
+|-
+| {{Icon|Quest-icon.png}} [[Forgetful Storyteller]] needs help with something in Village of Dreams
+|<!-- style="text-align:center;"| [[File:03 VT Quest - Forgetful Storyteller needs help with something in Village of Dreams (Flowers) by AL.png|frameless|x56px]] --> <!-- flower delivery -->
+| [https://youtu.be/L8D86EHaBH0 Video Guide]
+|-
+| {{Icon|Quest-icon.png}} [[Forgetful Storyteller]] needs help recalling a story in Village of Dreams
+|<!-- style="text-align:center;"| [[File:|frameless|x56px]] --> <!-- fallen gondola photo -->
+| [https://youtu.be/SBInROxwJhI Video Guide]
+|-
+| {{Icon|Quest-icon.png}} [[Forgetful Storyteller]] needs help recalling a story in Village of Dreams
+| style="text-align:center;"| [[File:03 VT Quest - Forgetful Storyteller needs help recalling a story in Village of Dreams by AL.png|frameless|x56px]] <!-- skater photo -->
+| [https://youtu.be/B1j22PJR9UA Video Guide]
+|-
+| {{Icon|Quest-icon.png}} [[Forgetful Storyteller]] needs help recalling a story in Village of Dreams
+| style="text-align:center;"| [[File:03 VT Quest - Forgetful Storyteller needs help recalling a story in Village of Dreams (Mountain) by AL.png|frameless|x56px]] <!-- mountain passageway photo -->
+| [https://youtu.be/V9JTJe_pYYk Video Guide]
+|-
+! colspan=3 style="text-align:center;"| Skater Quests from [[Season of Dreams]] <span id="Valley Skater Quests"></span>
+|-
+| {{Icon|Quest-star-icon.png}} Practice with the skater in the Village of Dreams
+| style="text-align:center;"| [[File:03 VT Quest - Practice with the Skater.jpg|frameless|x56px]]
+| [https://youtu.be/Qcc1irnw4e4 Video Guide]
+|-
+| {{Icon|Quest-star-icon.png}} Race down the slopes with the skater in the Village of Dreams
+| style="text-align:center;"| [[File:03 VT Quest - Race down the Slopes.jpg|frameless|x56px]]
+| [https://youtu.be/7vB2SQ2t5dQ?t=222 Video Guide]
+|-
+| {{Icon|Quest-star-icon.png}} Race down the mountain with the skater in the Hermit Valley
+| style="text-align:center;"| [[File:03 VT Quest - Race down the Mountain.jpg|frameless|x56px]]
+| [https://youtu.be/7vB2SQ2t5dQ?t=565 Video Guide]
+|-
+| {{Icon|Quest-star-icon.png}} Rehearse for a performance with the skater in the Coliseum
+| style="text-align:center;"| [[File:03 VT Quest - Rehearse for a Performance.jpg|frameless|x56px]]
+| [https://youtu.be/7vB2SQ2t5dQ?t=968 Video Guide]
+|}
+
+====Valley Spirit Memory Quests====
+The icon to the left of the Quest text indicates the [[Spirits|Spirit]] it wants you to relive.
+
+{| class="article-table"
+! Quest
+! Spirit
+! Visual Guide
+! Video Guide
+|-
+| {{Icon|Icon flame.png}} Relive a Spirit's memories in Valley of Triumph
+| Any Spirit in Valley
+| style="text-align:center;"| [[File:Relive A Spirits Memory.png|frameless|x56px]]
+| 
+|-
+! colspan=4 style="text-align:center;"| Regular Spirit Quests <span id="Valley Regular Spirit Quests"></span>
+|-
+| {{Spirit|Confident Sightseer}} Relive Confident Sightseer's memory from Valley of Triumph
+| [[Confident Sightseer]]
+| style="text-align:center;"| [[File:03 VT Spirit - Confident Sightseer.jpg|frameless|x56px]]
+| [https://youtu.be/DwhjSpV-BAw Video Guide]
+|-
+| {{Spirit|Handstanding Thrillseeker}} Relive Handstanding Thrillseeker's memory from Valley of Triumph
+| [[Handstanding Thrillseeker]]
+| style="text-align:center;"| [[File:03 VT Spirit - Handstanding Thrillseeker.png|frameless|x56px]]
+| [https://youtu.be/-sVP-uZXkaI?t=689 Video Guide]
+|-
+| {{Spirit|Manta Whisperer}} Relive Manta Whisperer's memory from Valley of Triumph
+| [[Manta Whisperer]]
+| style="text-align:center;"| [[File:03 VT Spirit - Manta Whisperer.jpg|frameless|x56px]]
+| 
+|-
+| {{Spirit|Backflipping Champion}} Relive Backflipping Champion's memory from Valley of Triumph
+| [[Backflipping Champion]]
+| style="text-align:center;"| [[File:03 VT Spirit - Backflipping Champion.jpg|frameless|x56px]]
+| [https://youtu.be/VrC9HR4wA7A Video Guide]
+|-
+| {{Spirit|Cheerful Spectator}} Relive Cheerful Spectator's memory from Valley of Triumph
+| [[Cheerful Spectator]]
+| style="text-align:center;"| [[File:03 VT Spirit - Cheerful Spectator.png|frameless|x56px]]
+| [https://youtu.be/-sVP-uZXkaI?t=1487 Video Guide]
+|-
+| {{Spirit|Bowing Medalist}} Relive Bowing Medalist's memory from Valley of Triumph
+| [[Bowing Medalist]]
+| style="text-align:center;"| [[File:03 VT Spirit - Bowing Medalist.jpg|frameless|x56px]]
+| [https://youtu.be/2cSlZT8mbvA Video Guide]
+|-
+| {{Spirit|Proud Victor}} Relive Proud Victor's memory from Valley of Triumph
+| [[Proud Victor]]
+| style="text-align:center;"| [[File:03 VT Spirit - Proud Victor.jpg|frameless|x56px]]
+| [https://youtu.be/Sd5uNpaQrVU Video Guide]
+|-
+! colspan=4 style="text-align:center;"| Seasonal Spirit Quests <span id="Valley Seasonal Spirit Quests"></span>
+|-
+| {{Spirit|Leaping Dancer}} Relive Leaping Dancer's memory from Valley of Triumph
+| [[Leaping Dancer]]
+| style="text-align:center;"| [[File:03 VT Seasonal Spirit - Leaping Dancer.jpg|frameless|x56px]]
+| [https://www.youtube.com/watch?v=VTh2Qi8BQOM Video Guide]
+|-
+| {{Spirit|Twirling Champion}} Relive Twirling Champion's memory from Valley of Triumph
+| [[Twirling Champion]]
+| style="text-align:center;"| [[File:03 VT Seasonal Spirit - Twirling Champion.jpg|frameless|x56px]]
+| [https://www.youtube.com/watch?v=crKnfLTGvvM Video Guide]
+|-
+| {{Spirit|Sparkler Parent}} Relive Sparkler Parent's memory from Valley of Triumph
+| [[Sparkler Parent]]
+| style="text-align:center;"| [[File:03 VT Seasonal Spirit - Sparkler Parent.jpg|frameless|x56px]]
+| [https://www.youtube.com/watch?v=rUjIYqEcG7M Video Guide]
+|-
+| {{Spirit|Troupe Juggler}} Relive Troupe Juggler's memory from Valley of Triumph
+| [[Troupe Juggler]]
+| style="text-align:center;"| [[File:03 VT Seasonal Spirit - Troupe Juggler.jpg|frameless|x56px]]
+| [https://youtu.be/Z7NwT-3zZVs Video Guide]
+|-
+| {{Spirit|Spinning Mentor}} Relive Spinning Mentor's memory from Valley of Triumph
+| [[Spinning Mentor]]
+| style="text-align:center;"| [[File:03 VT Seasonal Spirit - Spinning Mentor.jpg|frameless|x56px]]
+| [https://youtu.be/IfbDJSE9U8c Video Guide]
+|-
+| {{Spirit|Bearhug Hermit}} Relive Bearhug Hermit's memory from Valley of Triumph
+| [[Bearhug Hermit]]
+| style="text-align:center;"| [[File:03 VT Seasonal Spirit - Bearhug Hermit.jpg|frameless|x56px]]
+| [https://youtu.be/98WLZSrH9fY Video Guide]
+|-
+| {{Spirit|Peeking Postman}} Relive Peeking Postman's memory from Valley of Triumph
+| [[Peeking Postman]]
+| style="text-align:center;"| [[File:03 VT Seasonal Spirit - Peeking Postman.png|frameless|x56px]]
+| [https://youtu.be/x7GGq7Ef_cQ Video Guide]
+|-
+| {{Spirit|Dancing Performer}} Relive Dancing Performer's memory from Valley of Triumph
+| [[Dancing Performer]]
+| style="text-align:center;"| [[File:03 VT Seasonal Spirit - Dancing Performer.jpg|frameless|x56px]]
+| [https://youtu.be/oe6sjjiJrjw Video Guide]
+|}
+
+===[[Golden Wasteland]]===
+These Quests will only be given and can only be completed in Golden Wasteland. For additional Quests that are not Realm-specific, please scroll down to [[#General Quests|General Quests]].
+{| class="article-table"
+! Quest
+! Visual Guide
+! Video Guide
+|-
+! colspan=3 style="text-align:center;"| Meditation Quests <span id="Wasteland Mediation Quests"></span>
+|-
+| {{Icon|Quest-icon.png}} Meditate in the Broken Temple
+| style="text-align:center;"| [[File:04 GW Quest - Meditate at Broken Temple.png|frameless|x56px]]
+| [https://youtu.be/XsjosT33GBA Video Guide]
+|-
+| {{Icon|Quest-icon.png}} Meditate in the Graveyard
+| style="text-align:center;"| [[File:04 GW Quest - Meditate at Graveyard.png|frameless|x56px]]
+| [https://youtu.be/5nZ0WZqshXE Video Guide]
+|-
+| {{Icon|Quest-icon.png}} Meditate on the battlefield
+| style="text-align:center;"| [[File:04 GW Quest - Meditate at Battlefield.png|frameless|x56px]]
+| [https://youtu.be/M5gtIczRupY Video Guide]
+|-
+| {{Icon|Quest-icon.png}} Meditate on the boat (Shipwreck)
+| style="text-align:center;"| [[File:04 GW Quest - Meditate at Boat.png|frameless|x56px]]
+| [https://youtu.be/xLKpr4vyibs Video Guide]
+|-
+| {{Icon|Quest-icon.png}} Meditate in the Forgotten Ark
+| style="text-align:center;"| [[File:04 GW Quest - Meditate at Forgotten Ark.png|frameless|x56px]]
+|-
+! colspan=3 style="text-align:center;"| General Quests <span id="Wasteland General Quests"></span>
+|-
+| {{Icon|Quest-icon.png}} Catch the light in Golden Wasteland
+| style="text-align:center;"| [[File:04 GW Quest - Catch the light.png|frameless|x56px]]
+| [https://youtu.be/Bj6YBPoGFQE Video Guide]
+|-
+| {{Icon|Quest-icon.png}} Collect {{Icon|Red-light-icon.png}} [[Red Light]]
+| style="text-align:center;"| [[File:04 GW Quest - Collect Red Light.png|frameless|x56px]]
+| [https://youtu.be/lD_Z080b2EU Video Guide]
+|-
+| {{Icon|Quest-player-icon.png}} Admire the [[Days of Bloom|sapling]] in Golden Wasteland for a short while
+| style="text-align:center;"| [[File:04 GW Quest - Admire the sapling.png|frameless|x56px]]
+| [https://youtu.be/c7g4_wYYEmg&t=209s Video Guide]
+|-
+| {{Icon|Quest-icon.png}} Find the candles at the end of the [[Days of Color|rainbow]] in the Golden Wasteland (Forgotten Ark)
+| style="text-align:center;"| [[File:04 GW Quest - Find the candles at the end of the rainbow.png|frameless|x56px]]
+| [https://youtu.be/rVcwi1pH-YA Video Guide]
+|-
+| {{Icon|Quest-player-icon.png}} Visit the [[Additional_Light_Sources#Crab_Barbecue|bonfire]] at the Wasteland's Graveyard
+| style="text-align:center;"| [[File:04 GW Quest - Visit the Bonfire.png|frameless|x56px]]
+|
+|-
+| {{Icon|Quest-icon.png}} [[Cackling Cannoneer]] needs help with something in Treasure Reef
+| style="text-align:center;"| [[File:04 GW Quest - Cackling Cannoneer needs help with something in Treasure Reef by AL.png|frameless|x56px]] <!-- gathering nets -->
+| [https://youtu.be/WJovZEhUHAc Video Guide]
+|}
+
+====Wasteland Spirit Memory Quests====
+The icon to the left of the Quest text indicates the [[Spirits|Spirit]] it wants you to relive.
+
+{| class="article-table"
+! Quest
+! Spirit
+! Visual Guide
+! Video Guide
+|-
+| {{Icon|Icon flame.png}} Relive a Spirit's memories in Golden Wasteland
+| Any Spirit in Wasteland
+| style="text-align:center;"| [[File:Relive A Spirits Memory.png|frameless|x56px]]
+| 
+|-
+! colspan=4 style="text-align:center;"| Regular Spirit Quests <span id="Wasteland Regular Spirit Quests"></span>
+|-
+| {{Spirit|Fainting Warrior}} Relive Fainting Warrior's memory from Golden Wasteland
+| [[Fainting Warrior]]
+| style="text-align:center;"| [[File:04 GW Spirit - Fainting Warrior.jpg|frameless|x56px]]
+| [https://youtu.be/X0dj10tnvpQ?t=154 Video Guide]
+|-
+| {{Spirit|Frightened Refugee}} Relive Frightened Refugee's memory from Golden Wasteland
+| [[Frightened Refugee]]
+| style="text-align:center;"| [[File:04 GW Spirit - Frightened Refugee.jpg|frameless|x56px]]
+| [https://youtu.be/jAW8PTC5qT8 Video Guide]
+|-
+| {{Spirit|Courageous Soldier}} Relive Courageous Soldier's memory from Golden Wasteland
+| [[Courageous Soldier]]
+| style="text-align:center;"| [[File:04 GW Spirit - Courageous Soldier.jpg|frameless|x56px]]
+| [https://youtu.be/6fEGZrXCijQ Video Guide]
+|-
+| {{Spirit|Stealthy Survivor}} Relive Stealthy Survivor's memory from Golden Wasteland
+| [[Stealthy Survivor]]
+| style="text-align:center;"| [[File:04 GW Spirit - Stealthy Survivor.jpg|frameless|x56px]]
+| [https://m.youtube.com/watch?v=XqgBAzIfIsk&t=19s Video Guide]
+|-
+| {{Spirit|Saluting Captain}} Relive Saluting Captain's memory from Golden Wasteland
+| [[Saluting Captain]]
+| style="text-align:center;"| [[File:04 GW Spirit - Saluting Captain.jpg|frameless|x56px]]
+| [https://youtu.be/X0dj10tnvpQ?t=665 Video Guide]
+|-
+| {{Spirit|Lookout Scout}} Relive Lookout Scout's memory from Golden Wasteland
+| [[Lookout Scout]]
+| style="text-align:center;"| [[File:04 GW Spirit - Lookout Scout.jpg|frameless|x56px]]
+| [https://youtu.be/X0dj10tnvpQ?t=1105 Video Guide]
+|-
+! colspan=4 style="text-align:center;"| Seasonal Spirit Quests <span id="Wasteland Seasonal Spirit Quests"></span>
+|-
+| {{Spirit|Saluting Protector}} Relive Saluting Protector's memory from Golden Wasteland
+| [[Saluting Protector]]
+| style="text-align:center;"| [[File:04 GW Seasonal Spirit - Saluting Protector.jpg|frameless|x56px]]
+| [https://www.youtube.com/watch?v=7mYtsn5_ff4 Video Guide]
+|-
+| {{Spirit|Crab Whisperer}} Relive Crab Whisperer's memory from Golden Wasteland
+| [[Crab Whisperer]]
+| style="text-align:center;"| [[File:04 GW Seasonal Spirit - Crab Whisperer.jpg|frameless|x56px]]
+| [https://www.youtube.com/watch?v=5iqo_BiP1j0 Video Guide]
+|-
+| {{Spirit|Pleaful Parent}} Relive Pleaful Parent's memory from Golden Wasteland
+| [[Pleaful Parent]]
+| style="text-align:center;"| [[File:04 GW Seasonal Spirit - Pleaful Parent.jpg|frameless|x56px]]
+| [https://youtu.be/GjUfabmBwvE Video Guide]
+|-
+| {{Spirit|Respectful Pianist}} Relive Respectful Pianist's memory from Golden Wasteland
+| [[Respectful Pianist]]
+| style="text-align:center;"| [[File:04 GW Seasonal Spirit - Respectful Pianist.jpg|frameless|x56px]]
+| [https://youtu.be/A5rrM_cZWI0 Video Guide]
+|-
+| {{Spirit|Crab Walker}} Relive Crab Walker's memory from Golden Wasteland
+| [[Crab Walker]]
+| style="text-align:center;"| [[File:04 GW Seasonal Spirit - Crab Walker.jpg|frameless|x56px]]
+| [https://youtu.be/xhrGhAAAPXc Video Guide]
+|-
+| {{Spirit|Snoozing Carpenter}} Relive Snoozing Carpenter's memory from Golden Wasteland
+| [[Snoozing Carpenter]]
+| style="text-align:center;"| [[File:04 GW Seasonal Spirit - Snoozing Carpenter.jpg|frameless|x56px]]
+| [https://youtu.be/3ap3tbxOdFM Video Guide]
+|-
+| {{Spirit|Scarecrow Farmer}} Relive Scarecrow Farmer's memory from Golden Wasteland
+| [[Scarecrow Farmer]]
+| style="text-align:center;"| [[File:04 GW Seasonal Spirit - Scarecrow Farmer.jpg|frameless|x56px]]
+| [https://youtu.be/il37sBlojXU Video Guide]
+|-
+| {{Spirit|Nodding Muralist}} Relive Nodding Muralist's memory from Golden Wasteland
+| [[Nodding Muralist]]
+| style="text-align:center;"| [[File:04 GW Seasonal Spirit - Nodding Muralist.jpg|frameless|x56px]]
+| [https://youtu.be/PLP7r3UoIwo Video Guide]
+|-
+| {{Spirit|Indifferent Alchemist}} Relive Indifferent Alchemist's memory from Golden Wasteland
+| [[Indifferent Alchemist]]
+| style="text-align:center;"| [[File:04 GW Seasonal Spirit - Indifferent Alchemist.jpg|frameless|x56px]]
+| [https://youtu.be/XpMexGi-YO4 Video Guide]
+|-
+| {{Spirit|Playfighting Herbalist}} Relive Playfighting Herbalist's memory from Golden Wasteland
+| [[Playfighting Herbalist]]
+| style="text-align:center;"| [[File:04 GW Seasonal Spirit - Playfighting Herbalist.jpg|frameless|x56px]]
+| [https://youtu.be/2C7nqLsQKDU Video Guide]
+<!--|-
+| {{Spirit|Anxious Angler}} Relive Anxious Angler's memory from Golden Wasteland
+| [[Anxious Angler]]
+| style="text-align:center;"| [[File:04 GW Seasonal Spirit - Anxious Angler.png|frameless|x56px]]
+|
+|-
+| {{Spirit|Bumbling Boatswain}} Relive Bumbling Boatswain's memory from Golden Wasteland
+| [[Bumbling Boatswain]]
+| style="text-align:center;"| [[File:04 GW Seasonal Spirit - Bumbling Boatswain.png|frameless|x56px]]
+|
+|-
+| {{Spirit|Cackling Cannoneer}} Relive Cackling Cannoneer's memory from Golden Wasteland
+| [[Cackling Cannoneer]]
+| style="text-align:center;"| [[File:04 GW Seasonal Spirit - Cackling Cannoneer.png|frameless|x56px]]
+|
+|-
+| {{Spirit|Ceasing Commodore}} Relive Ceasing Commodore's memory from Golden Wasteland
+| [[Ceasing Commodore]]
+| style="text-align:center;"| [[File:04 GW Seasonal Spirit - Ceasing Commodore.png|frameless|x56px]]
+|
+| -->
+|}
+
+===[[Vault of Knowledge]]===
+These Quests will only be given and can only be completed in Vault of Knowledge. For additional Quests that are not Realm-specific, please scroll down to [[#General Quests|General Quests]].
+
+Note: floors are numbered in the American way: 1st floor = ground floor or entry floor
+{| class="article-table"
+! Quest
+! Visual Guide
+! Video Guide
+|-
+! colspan=3 style="text-align:center;"| Meditation Quests <span id="Vault Mediation Quests"></span>
+|-
+| {{Icon|Quest-icon.png}} Meditate at Vault's summit
+| style="text-align:center;"| [[File:05 VK Quest - Meditate at summit.png|frameless|x56px]]
+| [https://youtu.be/3cw9-gsh_EI Video Guide]
+|-
+| {{Icon|Quest-icon.png}} Meditate at Vault's second floor
+| style="text-align:center;"| [[File:05 VK Quest - Meditate at second floor.png|frameless|x56px]]
+| [https://youtu.be/CiRzC_9vxqM Video Guide]
+|-
+| {{Icon|Quest-icon.png}} Meditate at the Vault's entrance
+| style="text-align:center;"| [[File:05 VK Quest - Meditate at entrance.png|frameless|x56px]]
+| [https://youtu.be/B6XNxtCWca4 Video Guide]
+|-
+! colspan=3 style="text-align:center;"| General Quests <span id="Vault General Quests"></span>
+|-
+| {{Icon|Quest-icon.png}} Catch the light in the Vault of Knowledge
+| style="text-align:center;"| [[File:05 VK Quest - Catch the light.png|frameless|x56px]]
+| [https://youtu.be/GIbVemllsZ0 Video Guide]
+|-
+| {{Icon|Quest-icon.png}} Collect {{Icon|Purple-light-icon.png}} [[Purple Light]]
+| style="text-align:center;"| [[File:05 VK Quest - Collect Purple Light.jpg|frameless|x56px]]
+| [https://youtu.be/ZfaJrpCWctM Video Guide]
+|-
+| {{Icon|Quest-player-icon.png}} Admire the [[Days of Bloom|sapling]] in Vault of Knowledge for a short while
+| style="text-align:center;"| [[File:05 VK Quest - Admire the sapling.png|frameless|x56px]]
+| [https://youtu.be/_HYCAJeQgJc Video Guide]
+|-
+| {{Icon|Quest-icon.png}} Find the candles at the end of the [[Days of Color|rainbow]] in the Vault of Knowledge
+| style="text-align:center;"| [[File:05 VK Quest - Find the candles at the end of the rainbow.png|frameless|x56px]]
+| [https://youtu.be/oiUQPs3E7GE Video Guide]
+|
+|}
+
+====Vault Spirit Memory Quests====
+The icon to the left of the Quest text indicates the [[Spirits|Spirit]] it wants you to relive.
+
+{| class="article-table"
+! Quest
+! Spirit
+! Visual Guide
+! Video Guide
+|-
+| {{Icon|Icon flame.png}} Relive a Spirit's memories in Vault of Knowledge
+| Any Spirit in Vault
+| style="text-align:center;"| [[File:Relive A Spirits Memory.png|frameless|x56px]]
+| 
+|-
+! colspan=4 style="text-align:center;"| Regular Spirit Quests <span id="Vault Regular Spirit Quests"></span>
+|-
+| {{Spirit|Polite Scholar}} Relive Polite Scholar's memory from Vault of Knowledge
+| [[Polite Scholar]]
+| style="text-align:center;"| [[File:05 VK Spirit - Polite Scholar.jpg|frameless|x56px]]
+| [https://youtu.be/Dqb5TXHNe2Y Video Guide]
+|-
+| {{Spirit|Levitating Adept}} Relive Levitating Adept's memory from Vault of Knowledge
+| [[Levitating Adept]]
+| style="text-align:center;"| [[File:05 VK Spirit - Levitating Adept.jpg|frameless|x56px]]
+| [https://youtu.be/bvv34rDB9h8 Video Guide]
+|-
+| {{Spirit|Praying Acolyte}} Relive Praying Acolyte's memory from Vault of Knowledge
+| [[Praying Acolyte]]
+| style="text-align:center;"| [[File:05 VK Spirit - Praying Acolyte.jpg|frameless|x56px]]
+| [https://youtu.be/dIgC51kuNKM?t=65 Video Guide]
+|-
+| {{Spirit|Memory Whisperer}} Relive Memory Whisperer's memory from Vault of Knowledge
+| [[Memory Whisperer]]
+| style="text-align:center;"| [[File:05 VK Spirit - Memory Whisperer.jpg|frameless|x56px]]
+| [https://youtu.be/dIgC51kuNKM?t=916 Video Guide]
+|-
+| {{Spirit|Meditating Monastic}} Relive Meditating Monastic's memory from Vault of Knowledge
+| [[Meditating Monastic]]
+| style="text-align:center;"| [[File:05 VK Spirit - Meditating Monastic.jpg|frameless|x56px]]
+| [https://youtu.be/dIgC51kuNKM?t=957 Video Guide]
+|-
+! colspan=4 style="text-align:center;"| Seasonal Spirit Quests <span id="Vault Seasonal Spirit Quests"></span>
+|-
+| {{Spirit|Greeting Shaman}} Relive Greeting Shaman's memory from Vault of Knowledge
+| [[Greeting Shaman]]
+| style="text-align:center;"| [[File:05 VK Seasonal Spirit - Greeting Shaman.jpg|frameless|x56px]]
+| [https://www.youtube.com/watch?v=do0FvgzMOPI Video Guide]
+|-
+| {{Spirit|Shushing Light Scholar}} Relive Shushing Light Scholar's memory from Vault of Knowledge
+| [[Shushing Light Scholar]]
+| style="text-align:center;"| [[File:05 VK Seasonal Spirit - Shushing Light Scholar.jpg|frameless|x56px]]
+| [https://youtu.be/09QH7xH003Q Video Guide]
+|-
+| {{Spirit|Wise Grandparent}} Relive Wise Grandparent's memory from Vault of Knowledge
+| [[Wise Grandparent]]
+| style="text-align:center;"| [[File:05 VK Seasonal Spirit - Wise Grandparent.jpg|frameless|x56px]]
+| [https://www.youtube.com/watch?v=0ZOM7_hfv9c Video Guide]
+|-
+| {{Spirit|Thoughtful Director}} Relive Thoughtful Director's memory from Vault of Knowledge
+| [[Thoughtful Director]]
+| style="text-align:center;"| [[File:05 VK Seasonal Spirit - Thoughtful Director.jpg|frameless|x56px]]
+| [https://youtu.be/h5SzQI60xz0 Video Guide]
+<!--|-
+| {{Spirit|Beckoning Ruler}} Relive Beckoning Ruler's memory from Vault of Knowledge
+| [[Beckoning Ruler]]
+| style="text-align:center;"| [[File:05 VK Seasonal Spirit - Beckoning Ruler.jpg|frameless|x56px]]
+| [https://youtu.be/k-gGWR9dhvw Video Guide]
+|-
+| {{Spirit|Gloating Narcissist}} Relive Gloating Narcissist's memory from Vault of Knowledge
+| [[Gloating Narcissist]]
+| style="text-align:center;"| [[File:05 VK Seasonal Spirit - Gloating Narcissist.jpg|frameless|x56px]]
+| [https://youtu.be/5-k7ChF81Q8 Video Guide]
+|-
+| {{Spirit|Stretching Lamplighter}} Relive Stretching Lamplighter's memory from Vault of Knowledge
+| [[Stretching Lamplighter]]
+| style="text-align:center;"| [[File:05 VK Seasonal Spirit - Stretching Lamplighter.jpg|frameless|x56px]]
+| [https://youtu.be/lUNfBOpnDIk Video Guide]
+|-
+| {{Spirit|Slouching Soldier}} Relive Slouching Soldier's memory from Vault of Knowledge
+| [[Slouching Soldier]]
+| style="text-align:center;"| [[File:05 VK Seasonal Spirit - Slouching Soldier.jpg|frameless|x56px]]
+| [https://youtu.be/_1qdnIb1y94 Video Guide]
+|-
+| {{Spirit|Sneezing Geographer}} Relive Sneezing Geographer's memory from Vault of Knowledge
+| [[Sneezing Geographer]]
+| style="text-align:center;"| [[File:05 VK Seasonal Spirit - Sneezing Geographer.jpg|frameless|x56px]]
+| [https://youtu.be/zR55gSf77vs Video Guide]
+|-
+| {{Spirit|Star Collector}} Relive Star Collector's memory from Vault of Knowledge
+| [[Star Collector]]
+| style="text-align:center;"| [[File:05 VK Seasonal Spirit - Star Collector.jpg|frameless|x56px]]
+| [https://youtu.be/UcGjJNQoyG4 Video Guide]
+| -->
+|}
+
+==General Quests==
+These Quests can appear in the Daily Quests for any Realm, and can be completed anywhere, even at [[Home]] and in the [[Eye of Eden]].
+{| class="article-table"
+! Quest
+! Notes
+! Visual Guide
+! Video Guide
+|-
+! colspan=4 style="text-align:center;" | Hold hand(s)
+|-
+| {{Icon|Quest-player-icon.png}} [[Friendship_Menu#Holding_Hands|Hold the hand]] of a friend
+| Can be also completed by doing [[Season of Performance|Performance]] Quest 4, or [[Season of Remembrance|Remembrance]] Quest 5.
+| style="text-align:center;"| [[File:06 Social Quest - Hold the hand of a friend.png|frameless|x56px]]
+| [https://youtu.be/tUWABu3t5Ic Video Guide]
+|-
+| {{Icon|Quest-player-icon.png}} [[Friendship_Menu#Holding_Hands|Hold hands]] in a group of 4 players
+| Players can be a mix of friends and strangers.
+| style="text-align:center;"| [[File:06 Social Quest - Hold hands in a group.jpg|frameless|x56px]]
+| [https://youtu.be/VexNzS7Vg-8 Video Guide]
+|-
+! colspan=4 style="text-align:center;" | Expressions
+|-
+| {{Icon|Quest-player-icon.png}} [[Bowing_Medalist#Expression|Bow]] at a player
+| Can be any friends or strangers. Must be near the player and not be holding hands while bowing.
+| style="text-align:center;"| [[File:06 Social Quest - Bow to at a player.png|frameless|x56px]]
+| [https://youtu.be/tUWABu3t5Ic Video Guide]
+|-
+| {{Icon|Quest-player-icon.png}} [[Friendship_Menu#Follow_Another_Player|Follow]] a Friend
+| 
+|style="text-align:center;"| [[File:06 Social Quest - Follow a friend.png|frameless|x56px]]
+| 
+|-
+| {{Icon|Quest-player-icon.png}} [[Friendship_Menu#High_Five|High-Five]] a Friend
+| Can be completed by high-fiving a [[Ancestors#Guides|Guide]], [[Spirits|Spirit]], or a friend. Both the default High-Five and [[Doublefive_Light_Catcher#Expression|Double-Five]] are acceptable.
+| style="text-align:center;"| [[File:06 Social Quest - High-Five a friend.png|frameless|x56px]]
+| [https://youtu.be/WfvksJzaNKo Video Guide]
+|-
+| {{Icon|Quest-player-icon.png}} [[Waving_Bellmaker#Expression|Wave]] to a Friend
+| Must be near the friend and not holding hands while waving.
+| style="text-align:center;"| [[File:06 Social Quest - Wave to a friend.png|frameless|x56px]]
+| [https://youtu.be/g-Ts_WZY4VM Video Guide]
+|-
+| {{Icon|Quest-player-icon.png}} [[Friendship_Menu#Hug|Hug]] a Friend
+| Can be completed by hugging a [[Ancestors#Guides|Guide]], [[Additional_Light_Sources#Grandma's_Dinner_Event|Grandma]], a [[Spirits|Spirit]] admiring a Sapling, or a friend.
+| style="text-align:center;"| [[File:06 Social Quest - Hug a friend.png|frameless|x56px]]
+|
+|-
+| {{Icon|Quest-player-icon.png}} Use an [[Expression]] near a friend
+| Must be facing the friend.
+| style="text-align:center;"| [[File:06 Social Quest - Use an expression.jpg|frameless|x56px]]
+| [https://youtu.be/ZJGdxGuSQ8o Video Guide]
+|-
+| {{Icon|Quest-player-icon.png}} Use [[Expression|expressions]] with players
+| Must be facing any player.
+| style="text-align:center;"| 
+| 
+|-
+! colspan=4 style="text-align:center;" | Other Friendly Interactions
+|-
+| {{Icon|Quest-icon.png}} Make a new acquaintance
+| [[Making_Friends|Touch Candles]] with another player that you have not met before.
+| style="text-align:center;"| [[File:06 Social Quest - Make a new acquaintance.png|frameless|x56px]]
+| [https://youtu.be/8dxeUcmyc0o Video Guide]
+|-
+| {{Icon|Quest-player-icon.png}} Sit at a bench with a stranger
+| Chairs, bonfires, and other [[Props]] will '''not''' complete this Quest.
+| style="text-align:center;"| [[File:06 Social Quest - Sit on a bench.png|frameless|x56px]]
+| [https://youtu.be/dPGWTwv8kHo Video Guide]
+|-
+| {{Icon|Quest-player-icon.png}} Open a 2-player door
+|
+| 
+| [https://youtu.be/JGQT0nGjFZg Video Guide]
+|-
+| {{Icon|Quest-icon.png}} Recharge someone's light
+| The co-partner's light needs to be empty. Alternatively, you can stand at the [[Constellation Table]] at Home and wait until someone enters [[Home]].  This will automatically complete the Quest.
+| 
+| [https://youtu.be/hcQFxBTJHCk Video Guide]
+|-
+| {{Icon|Quest-player-icon.png}} Send a [[Currency#Gifts_from_Friends|gift]] to a friend
+| Spend 3 [[Currency#Candles|Candles]] to send a [[Currency#Hearts|Heart]] to a friend. Both ways, either by your [[Constellation_Table|Constellation]] or direct sending, are acceptable.
+| style="text-align:center;"| [[File:06 Social Quest - Send a gift.jpg|frameless|x56px]]
+| [https://youtu.be/DDmy1AUZ1II Video Guide]
+|-
+! colspan=4 style="text-align:center;" | Candles and Darkness
+|-
+| {{Icon|Quest-star-icon.png}} Forge a [[Currency#Candles|candle]]
+| Any type of Candles are acceptable.
+| 
+| [https://youtu.be/mLhjvx19zzA Video Guide]
+|-
+| {{Icon|Quest-star-icon.png}} Light 20 [[Pieces_of_Light#Light_Sources|candles]]
+| Any type of Candles count toward the progression.
+| 
+| [https://youtu.be/nwzGt7akrz4 Video Guide]
+|-
+| {{Icon|Quest-star-icon.png}} Melt 10 [[Flora,_Minerals_and_Elements_of_Sky#Darkness|Darkness]]
+| Can be completed by burning Darkness from [[Shard Eruptions]]. Reliving Spirit's memory counts toward the progression.
+| 
+| [https://youtu.be/dTzxKKFnKSU Video Guide]
+|-
+| {{Icon|Quest-star-icon.png}} Collect 30 [[Pieces_of_Light|pieces of light]]
+| Light from either [[Pieces_of_Light#Light_Sources|Candles]] or [[Flora,_Minerals_and_Elements_of_Sky#Darkness|Darkness]] are acceptable.
+| 
+| [https://youtu.be/6_UgFcvJv98 Video Guide]
+|-
+! colspan=4 style="text-align:center;" | Miscellaneous Interactions
+|-
+| {{Icon|Quest-star-icon.png}} Pick up a [[Dark Crabs|Crab]]
+| Using a Deep Call flips over Crabs, which can then be picked up by tapping on the {{Icon|Grab-Ray.png}} hand icon. Both hostile and passive Crabs count toward the progression.
+|
+| [https://youtu.be/Xn5jM2jMH94 Video Guide]
+|-
+| {{Icon|Quest-star-icon.png}} Knock over 5 Dark Creature [[Dark Crabs|Crabs]]
+| Long press to use a Deep Call to flip over 5 Crabs. Both hostile and passive Crabs count toward the progression.
+| style="text-align:center;"| [[File:04 GW Quest - Knock over crabs.png|frameless|x56px]]
+| [https://youtu.be/xQDu0svYnu0 Video Guide]
+|-
+| {{Icon|Quest-star-icon.png}} Face the [[Dark Dragons|Dark Dragon]]
+| Stand inside a Dark Dragon's field of vision and let it spot you.
+| style="text-align:center;"| [[File:04 GW Quest - Face the Dark Dragon.gif|frameless|x56px]]
+| [https://youtu.be/I2ZX-Y9zP8M Video Guide]
+|-
+| {{Icon|Quest-icon.png}} Recharge your light from a [[jellyfish]]
+| Any Jellyfish including the Royal Jellyfish, count toward the progression.
+| style="text-align:center;"| [[File:02 HF Quest - Recharge from a jellyfish.png|frameless|x56px]]
+| [https://youtu.be/yHLgmEjdnzA Video Guide]
+|-
+| {{Icon|Quest-star-icon.png}} Ride with a [[Mantas|Manta]]
+| It can be completed by riding on the back of most Manta in each Realms, as long as they are able to ride on their backs, with a few exceptions<ref>Small a Manta that remain above the [[Repository of Refuge]], [[Mantas#Spirit_Mantas|Spirit Mantas]] on the fourth and fifth floors of the [[Vault of Knowledge]], Mantas that appear as a result of quests, activities, events (including the Elder Manta available during [[Days of Nature#2025|Days of Nature 2025]]), and items can be ridden but not used to complete quests.</ref>.
+| style="text-align:center;"| [[File:01 DP Quest - Ride a manta in Prairie.png|frameless|x56px|]]
+| 
+|-
+| {{Icon|Icon_flame.png}} Meet a [[Spirits|Spirit]] in (a given [[Realm]]) (deprecated)<ref name="Meet a Spirit Quest">This Quest is no longer available, it has been fixed in Patch {{v|0.16.0}}.</ref>
+| Visit any of the Spirits in the entry area of the given Realm
+| 
+| [https://youtu.be/XCzYthoJdWA Video Guide]
+|-
+| {{Icon|Icon_flame.png}} Relive a [[Spirits|Spirit]]'s memories in (a given [[Realm]])
+| Choose any Spirit in the given Realm and relive them fully until completion.
+| style="text-align:center;"| [[File:Relive A Spirits Memory.png|frameless|x56px]]
+| 
+|}
+
+==Seasonal and Special Event Quests==
+{| class="article-table"
+! Event
+! Quests
+! Visual Guide
+! Video Guide
+|-
+| rowspan="6" |[[Season of Enchantment]]
+| {{Icon|Quest-icon.png}} Collect cyan light in [[Isle of Dawn]]
+| style="text-align:center;"| [[File:00 ID Quest - Collect Cyan Light.png|frameless|x56px]]
+| [https://youtu.be/_G78MGSqH28?t=283 Video Guide]
+|-
+| {{Icon|Quest-icon.png}} Collect green light in [[Daylight Prairie]]
+| style="text-align:center;"| [[File:02 DP Quest - Collect Green Light.png|frameless|x56px]]
+| [https://youtu.be/mzUVM4sqroI Video Guide]
+|-
+| {{Icon|Quest-icon.png}} Collect orange light in [[Hidden Forest]]
+| style="text-align:center;"| [[File:02 HF Quest - Collect Orange Light.png|frameless|x56px]]
+| [https://youtu.be/m92rALQldBM Video Guide]
+|-
+| {{Icon|Quest-icon.png}} Collect blue light in [[Valley of Triumph]]
+| style="text-align:center;"| [[File:03 VT Quest - Collect Blue Light.png|frameless|x56px]]
+| [https://youtu.be/WPotQHMUuYw Video Guide]
+|-
+| {{Icon|Quest-icon.png}} Collect red light in [[Golden Wasteland]]
+| style="text-align:center;"| [[File:04 GW Quest - Collect Red Light.png|frameless|x56px]]
+| [https://youtu.be/lD_Z080b2EU Video Guide]
+|-
+| {{Icon|Quest-icon.png}} Collect purple light in [[Vault of Knowledge]]
+| style="text-align:center;"| [[File:05 VK Quest - Collect Purple Light.jpg|frameless|x56px]]
+| [https://youtu.be/ZfaJrpCWctM Video Guide]
+|-
+| rowspan="4" |[[Season of Assembly]]
+| {{Icon|Icon_prop_bookcase.png}} Complete the bookshelf scavenger hunt
+| style="text-align:center;"| [[File:02 HF Quest - Bookshelf scavenger hunt.png|frameless|x56px]]
+| [https://youtu.be/SZcdqqLAqqA Video Guide]
+|-
+| {{Icon|Icon_prop_assembly_torch.png}} Complete the torch scavenger hunt
+| style="text-align:center;"| [[File:02 HF Quest - Torch scavenger hunt.png|frameless|x56px]]
+| [https://youtu.be/-P4MA_oXlcs Video Guide]
+|-
+| {{Icon|Icon_prop_assembly_lamp.png}} Complete the spotlight scavenger hunt
+| style="text-align:center;"| [[File:02 HF Quest - Spotlight scavenger hunt.png|frameless|x56px]]
+| [https://youtu.be/e0p8e5Ckkts Video Guide]
+|-
+| {{Icon|Icon_prop_assembly_hoop.png}} Complete the hoop scavenger hunt
+| style="text-align:center;"| [[File:02 HF Quest - Hoop scavenger hunt.png|frameless|x56px]]
+| [https://youtu.be/GHZz4GpOmcE Video Guide]
+|-
+| [[Season of Shattering]]
+| {{Icon|Quest-icon.png}} Visit a [[Shard Eruptions#Schedule|shard of darkness]] fallen to the [[Realms|Kingdom of Sky]]
+| style="text-align:center;"| 
+| 
+|-
+| rowspan="4" |[[Season of Moments]]
+| {{Icon|Camera-Ray.png}} Take a selfie with [[Hiking Grouch]] in Prairie Peaks
+| 
+| 
+|-
+| {{Icon|Camera-Ray.png}} Take a selfie with [[Crab Whisperer]] in Prairie Peaks
+|
+|
+|-
+| {{Icon|Camera-Ray.png}} Take a selfie with [[Cackling Cannoneer]] in Prairie Peaks
+|
+|
+|-
+| {{Icon|Camera-Ray.png}} Take a selfie with [[Troupe Greeter]] in Prairie Peaks
+|
+|
+|-
+| rowspan="5" |[[Days of Bloom]]
+| {{Icon|Quest-player-icon.png}} Admire the sapling in [[Daylight Prairie]] for a short while
+| style="text-align:center;"| [[File:01 DP Quest - Admire the sapling.jpg|frameless|x56px]]
+| [https://youtu.be/c7g4_wYYEmg&t=132s Video Guide]
+|-
+| {{Icon|Quest-player-icon.png}} Admire the sapling in [[Hidden Forest]] for a short while
+| style="text-align:center;"| [[File:02 HF Quest - Admire the sapling.png|frameless|x56px]]
+| [https://youtu.be/c7g4_wYYEmg&t=157s Video Guide]
+|-
+| {{Icon|Quest-player-icon.png}} Admire the sapling in [[Valley of Triumph]] for a short while
+| style="text-align:center;"| [[File:03 VT Quest - Admire the sapling.png|frameless|x56px]]
+| [https://youtu.be/c7g4_wYYEmg&t=49s Video Guide]
+|-
+| {{Icon|Quest-player-icon.png}} Admire the sapling in [[Golden Wasteland]] for a short while
+| style="text-align:center;"| [[File:04 GW Quest - Admire the sapling.png|frameless|x56px]]
+| [https://youtu.be/c7g4_wYYEmg&t=209s Video Guide]
+|-
+| {{Icon|Quest-player-icon.png}} Admire the sapling in [[Vault of Knowledge]] for a short while
+| style="text-align:center;"| [[File:05 VK Quest - Admire the sapling.png|frameless|x56px]]
+| [https://youtu.be/_HYCAJeQgJc Video Guide]
+|- id="Days of Color"
+| rowspan="10" |[[Days of Color]]
+| {{Icon|Quest-icon.png}} Find the candles at the end of the rainbow in the [[Daylight Prairie]]
+| style="text-align:center;"| [[File:01 DP Quest - Find the candles at the end of the rainbow.png|frameless|x56px]]
+| [https://youtu.be/fCtpCZFJLmE Video Guide]
+|-
+| {{Icon|Quest-icon.png}} Find the candles at the end of the rainbow in the [[Hidden Forest]]
+| style="text-align:center;"| [[File:02 HF Quest - Find the candles at the end of the rainbow.png|frameless|x56px]]
+| [https://youtu.be/otI3wuLQKis Video Guide]
+|-
+| {{Icon|Quest-icon.png}} Find the candles at the end of the rainbow in the [[Valley of Triumph]]
+| style="text-align:center;"| [[File:03 VT Quest - Find the candles at the end of the rainbow.png|frameless|x56px]]
+| [https://youtu.be/nAQKhaiwhjc Video Guide]
+|-
+| {{Icon|Quest-icon.png}} Find the candles at the end of the rainbow in the [[Golden Wasteland]] (Forgotten Ark)
+| style="text-align:center;"| [[File:04 GW Quest - Find the candles at the end of the rainbow.png|frameless|x56px]]
+| [https://youtu.be/rVcwi1pH-YA Video Guide]
+|-
+| {{Icon|Quest-icon.png}} Find the candles at the end of the rainbow in the [[Vault of Knowledge]]
+| style="text-align:center;"| [[File:05 VK Quest - Find the candles at the end of the rainbow.png|frameless|x56px]]
+| [https://youtu.be/oiUQPs3E7GE Video Guide]
+|-
+| {{Icon|Quest-player-icon.png}} Admire the rainbow in [[Sanctuary Islands]] for a short while
+| style="text-align:center;"| [[File:01 DP Quest - Admire the rainbow in Sanctuary.png|frameless|x56px]]
+| 
+|-
+| {{Icon|Quest-player-icon.png}} Admire the rainbow in the [[Wind Paths]] for a short while
+| style="text-align:center;"| [[File:02 HF Quest - Admire the rainbow in Wind Paths.png|frameless|x56px]]
+| 
+|-
+| {{Icon|Quest-player-icon.png}} Admire the rainbow in [[Hermit Valley]] for a short while
+| style="text-align:center;"| [[File:03 VT Quest - Admire the rainbow in Hermit.png|frameless|x56px]]
+| 
+|-
+| {{Icon|Quest-player-icon.png}} Admire the rainbow in [[Treasure Reef]] for a short while
+| style="text-align:center;"| [[File:04 GW Quest - Admire the rainbow in Reef.png|frameless|x56px]]
+| 
+|-
+| {{Icon|Quest-player-icon.png}} Admire the rainbow in [[Starlight Desert]] for a short while
+| style="text-align:center;"| [[File:05 VK Quest - Admire the rainbow in Desert.png|frameless|x56px]]
+| 
+|-
+| [[Sky Anniversary]]
+| {{Icon|Quest-icon.png}} Meditate at the anniversary celebration
+| 
+| [https://youtu.be/PVybZ6BWAE4 Video Guide]
+|-
+| rowspan="7" |[[Days of Style]]
+| {{Icon|Quest-star-icon.png}} Change your [[Hair|hairstyle]]
+|
+| [https://youtu.be/JRqduT3PKoU Video Guide]
+|-
+| {{Icon|Quest-star-icon.png}} Change your [[Neck Accessory|necklace]]
+| 
+| [https://youtu.be/MxjrtvSYbdY Video Guide]
+|-
+| {{Icon|Quest-star-icon.png}} Change your [[Prop|prop]]
+| 
+| [https://youtu.be/ritSJYOtNtg Video Guide]
+|-
+| {{Icon|Quest-star-icon.png}} Change your [[Mask|mask]]
+| 
+| [https://youtu.be/jb1X2aLLMt4 Video Guide]
+|-
+| {{Icon|Quest-star-icon.png}} Change your [[Outfit|pants]]
+| 
+| [https://youtu.be/CwhW-7eDE0E Video Guide]
+|-
+| {{Icon|Quest-star-icon.png}} View a [[#Shared Memories|Shared Memory]] at a style runway shrine
+| 
+| [https://youtu.be/HTkSXRWBIPE Video Guide]
+|-
+| {{Icon|Quest-star-icon.png}} Record a [[#Shared Memories|Shared Memory]] at a style runway shrine
+| 
+| [https://youtu.be/QzoyF79bvpc Video Guide]
+|-
+| rowspan="6" | [[Sky × Cinnamoroll Pop-Up Cafe]]
+| {{Icon|Quest-icon.png}} Meet Cinnamoroll on a hill in [[Aviary Village]].
+| style="text-align:center;"| [[File:Sky-×-Cinnamoroll-Pop-Up-Cafe-Quest-1-mimi4117-sam6917.png|frameless|x56px]]
+| 
+|-
+| {{Icon|Quest-icon.png}} Smell flowers with Cinnamoroll in [[Aviary Village]].
+| style="text-align:center;"| [[File:Sky-×-Cinnamoroll-Pop-Up-Cafe-Quest-2-mimi4117-sam6917.png|frameless|x56px]]
+| 
+|-
+| {{Icon|Quest-icon.png}} Find Cinnamoroll peeking around [[Aviary Village]].
+| style="text-align:center;"| [[File:Sky-×-Cinnamoroll-Pop-Up-Cafe-Quest-3-mimi4117-sam6917.png|frameless|x56px]]
+| 
+|-
+| {{Icon|Quest-icon.png}} Wake up Cinnamoroll in [[Aviary Village]].
+| style="text-align:center;"| [[File:Sky-×-Cinnamoroll-Pop-Up-Cafe-Quest-4-mimi4117-sam6917.png|frameless|x56px]]
+| 
+|-
+| {{Icon|Quest-icon.png}} Fly up to the tower with Cinnamoroll in [[Aviary Village]].
+| style="text-align:center;"| [[File:Sky-×-Cinnamoroll-Pop-Up-Cafe-Quest-5-mimi4117-sam6917.png|frameless|x56px]]
+|
+|-
+| {{Icon|Quest-icon.png}} Splash in the water with Cinnamoroll in [[Aviary Village]].
+| style="text-align:center;"| [[File:Sky-×-Cinnamoroll-Pop-Up-Cafe-Quest-6-mimi4117-sam6917.png|frameless|x56px]]
+|
+|-
+| [[Tournament of Triumph]]
+| {{Icon|Quest-star-icon.png}} Play any [[Tournament of Triumph#The Games|Tournament sport]]
+|
+| [https://www.youtube.com/watch?v=f_CZ24gXpCk&list=PLl2dLrx-duQgedEYgPBHeLmbCV-ZooBo5 Video Guide]
+|}
+
+==Trivia==
+*In Patch {{v|0.15.0}} that arrived September 2021, access to Daily Quests was moved from the [[Ancestors#Guides|Quest Giver]] to the Return Shrine Statue at Home. In the much later Patch {{v|0.23.5}} from December 2023, Daily Quests were briefly changed to be exclusively accessed from the Return Shrine Statue at Aviary Village, before Patch {{v|0.23.6}} returned them back to Home a few days later.
+*When Patch {{v|0.15.0}} changed access to Daily Quests, a particular spirit similar to Sleepy Traveler who had been teaching the Daily Quests at the home during the Off-Season (the Daily Quest Giver), left the home. Since patch {{v|0.26.5}} the Spirit at the counter in [[Aviary Village]] is considered to be this Quest Giver.
+*The Quest to meditate at the Forest Brook Shrine was previously called "Meditate at Forest's hollow tree."
+*The Quest to meditate on the First Floor of Vault was previously called "Meditate with the Spirit Mantas."
+*For the [[Season of Enchantment]], the "catch the light" Quests were replaced by the colored light Quests that are originally given by the Quest Giver in [[Forgotten Ark]]. After the Season ended, not only did the old light Quests return, but the colored light Quests stayed.
+*In Patch {{v|0.27.0|0.27.0}} that arrived October 2024, "Ride a Manta in Daylight Prairie" was changed to "Ride with a Manta".
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center" >
+Off-Season Daily Quest Giver.png|Off-Season Quest Giver at Home
+Updates to Daily Quests.png|Counter in Aviary Village
+</gallery>
+
+==References==
+<references />
+
+[[pt-br:Missões]]
+[[fr:Quêtes]]
+[[ja:デイリークエスト]]
+[[de:Quests]]
+
+[[Category:Daily Content]]

@@ -1,0 +1,80 @@
+{{Location
+|image= Void-of-Shattering-Area.png
+|realm= The Void of Shattering
+|access= [[The Void of Shattering|The Void of Shattering (Guide)]]
+|season= [[Season of Shattering]]
+|seasonal_spirits= {{Spirit Group|Shattering|format=infobox}}
+|children_of_light=0
+|pieces_of_light=0
+|map=
+|mapcaption=
+}}
+
+::<section begin="Disambiguation Disclaimer" />''This is a page on the Seasonal area. For the Seasonal Guide, see [[The Void of Shattering]].''<section end="Disambiguation Disclaimer" />
+
+{{Quote|<br>'''Approach points of memory here... and find items that pay homage to the creatures of Sky.'''|On the Void of Shattering<ref name="Shattering_Quote">https://www.thatskygame.com/news/shards-of-the-past-arrive-in-season-of-shattering</ref>}}
+<section begin="Summary" />The '''Void of Shattering''' is a special Seasonal area added to the Kingdom of ''Sky'', introduced along with the [[Season of Shattering]] in Patch {{v|0.18.0}}. All of the Season's [[Seasonal Entities|Entities]] can be found in the area. To enter the Void of Shattering, teleport with [[The Void of Shattering|The Void of Shattering (Guide)]] at [[Home]] or the [[Aviary_Village#Aviary_Event_Store|Aviary Event Shop]]. Note that unlike other Seasonal areas, the Void of Shattering was only available during the Season, or during special events like [[Returning Spirits]].<section end="Summary" />
+
+The times the Void of Shattering has been accessible post-Season are:
+*[[Returning_Spirits#September_16,_2024|September 2024 Special Visit]].
+
+==Overview==
+The Void of Shattering is a moment locked in time.<ref name="Shattering_Quote"/> The area is a vast expanse of mirrored floor, surrounded by darkness except for a cold light from above. Twin structures, the [[#Ancient Light Structure|Ancient Light]] and [[#Ancient Darkness Structure|Ancient Darkness]], tower above the grey horizon. Each structure is made of an untextured dark grey material. [[The Void of Shattering|The Void of Shattering (Guide)]] can be found here, alongside a Return Shrine to [[Home]]. This central area is ringed by a gently swirling fog.
+
+The Void of Shattering is very similar to the six [[Season_of_Shattering#Spirit_Memory_Quests|Ancient Memory]] voids.
+
+===Ancient Light Structure===
+[[File:Void-of-Shattering-Ancient-Light.png|thumb|x150px|The Ancient Light Structure]]
+{{Main|Ancient Light}}
+
+The structure on the left is the Ancient Light, which depicts several [[Creatures#Light_Creatures|Mantas, Jellyfish, and Butterflies]] soaring upwards together. Its twin [[#Spirits in the Void of Shattering|Friendship Trees]] burn with a golden glare visible from afar. The "Jellyfish" Tree is at floor level, while the "Manta" Tree can be found on the wing of a Manta above. The trees' cosmetics are themed after its corresponding light creature.
+{{Clear}}
+
+===Ancient Darkness Structure===
+[[File:Void-of-Shattering-Ancient-Darkness.png|thumb|x150px|The Ancient Darkness Structure]]
+{{Main|Ancient Darkness}}
+
+The structure on the right is the Ancient Darkness which depicts a [[Dark Dragon]] coiled around lilypad-like [[Darkness Plants]], with a second emerging from the ground nearby. Its twin [[#Spirits in the Void of Shattering|Friendship Trees]] blaze with a blue-purple smoke. The "Darkness Plant" Tree is nestled in the curve of the first Dark Dragon's tail to the left, while the "Dark Dragon" Tree sits by the head of the second Dark Dragon to the right. The items offered by each tree are themed after its corresponding darkness creature.
+{{Clear}}
+
+===Spirits in the Void of Shattering===
+The Void of Shattering holds 2 [[Seasonal Entities]] ({{Spirit|Ancient Light|Inline_text}}, {{Spirit|Ancient Darkness|Inline_text}}), each of which contains 2 [[Seasonal Spirits#Friendship Trees|Friendship Trees]].
+<section begin="SpiritTabber" />{{Mobile Tabber
+|tab1 = Ancient Light (Jellyfish)
+|c1   = {{#lst:Ancient Light|overview}}<br>{{#lst:Ancient Light|Jellyfish TS Tree}}
+|tab2 = Ancient Light (Manta)
+|c2   = {{#lst:Ancient Light|overview}}<br>{{#lst:Ancient Light|Manta TS Tree}}
+|tab3 = Ancient Darkness (Plant)
+|c3   = {{#lst:Ancient Darkness|overview}}<br>{{#lst:Ancient Darkness|Darkness Plant TS Tree}}
+|tab4 = Ancient Darkness (Dragon)
+|c4   = {{#lst:Ancient Darkness|overview}}<br>{{#lst:Ancient Darkness|Dragon TS Tree}}
+}}<section end="SpiritTabber" />
+
+==Trivia==
+*Similar to the six [[Season_of_Shattering#Spirit_Memory_Quests|Ancient Memory]] voids,
+**there is no wind wall preventing players from flying out into the distance.
+**the mirrored floor recharges the player's [[Capes#Cape Energy|Cape Energy]].
+**the Return Shrine always teleports players to [[Home]], even when their default 'Home' is set to [[Aviary Village]].
+* [[The Void of Shattering|The Void of Shattering (Guide)'s]] particles emanate away from the player, and (on mobile) disperse upon tap, similar to those of the [[Remembrance_Guide#Remembrance_Ultimate_Prop|Manta Lantern Prop]] and [[Star_Collector#Prop|Star Lamp Prop]].
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center" hideaddbutton="true" mode="nolines">
+The_void_of_Shattering.jpg|The Void of Shattering
+Void-of-Shattering-Ancient-Light.png|Ancient Light Structure
+Void-of-Shattering-Ancient-Light-GIF.gif|Ancient Light Particle Effect
+Void-of-Shattering-Ancient-Darkness.png|Ancient Darkness Structure
+Void-of-Shattering-Ancient-Darkness-GIF.gif|Ancient Darkness Particle Effect
+Void-of-Shattering-Return-Shrine.png|The Return Shrine
+</gallery>
+
+==References==
+<references />
+
+{{RealmsNav}}
+
+[[pt-br:O Vazio Despedaçado (Localização)]]
+[[fr:Le Néant de l'Éclatement (Emplacement)]]
+
+[[Category:Season of Shattering]]
+[[Category:Locations]]
+[[Category:Voids]]

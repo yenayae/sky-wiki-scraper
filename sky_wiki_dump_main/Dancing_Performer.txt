@@ -1,0 +1,170 @@
+{{Distinguish|Provoking Performer}}
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Dreams-Spirit-Dancing-Performer.png|Standard
+Dreams-Spirit-Dancing-Performer-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Mask|infobox}}{{Spirit Item||Hair|infobox}}{{Spirit Item||Cape|infobox}}
+|instruments = {{Spirit Item||Instrument|infobox}}
+|season    = Dreams
+|realm     = Valley of Triumph
+|location  = Village of Dreams
+|ts        = April 25, 2024 (#112)
+}}
+<section begin="Summary" />The '''Dancing Performer''' is a [[Seasonal Spirit]] from the [[Season of Dreams]] who offers the {{Emote|Dancing Performer|inline_text}} Expression. The Dancing Performer is found in the [[Village of Dreams]], on the left when entering from [[Valley of Triumph#Social Space|Valley's Social Space]], under a canopy in an alley between two buildings. The collectibles [[Dancing Performer#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Dancing Performer|Mask|inline_text}}, a {{Spirit Item|Dancing Performer|Hair|inline_text}}, a {{Spirit Item|Dancing Performer|Cape|inline_text}}, and the {{Spirit Item|Dancing Performer|Instrument|label=Lute Instrument|inline_text}}.<section end="Summary" />
+
+== Memory ==
+<div>{{#ev:youtube|s2PCYNqPFBo||inline|Video Guide}}
+
+The Dancing Performer can be found in the [[Village of Dreams]], at the end of the slope when entering from [[Valley of Triumph#Social Space|Valley's Social Space]], between the second- and third-to-last buildings on the left, under a canopy. This Spirit has a [[Standard Memory|standard memory]] with 6 memory fragments and a 15-minute overall [[Timed Memory|time limit]].
+
+As their memory unfolds, the Dancing Performer can be seen carrying their [[#Instrument|Lute]] and a jar, making their way down to the nearby ice rink. Once at the bottom of the slope, they find the little Skater sitting in the snow by the rink with their head dropped. Seeing this, the Dancing Performer puts down the jar and pulls out their Lute to play a little tune, capturing the little Skater's attention and lifting their sad mood. With their confidence regained, they join the Dancing Performer to dance on the ice rink as the older Spirit continues to strum an upbeat song.
+
+At the end of the memory, the Dancing Performer demonstrates a dance with sweeping motions to the applause of the little Skater, teaching them some moves to copy and learn for their final performance at the [[Coliseum]].<br>
+<br>
+[[File:03 VT Seasonal Spirit - Dancing Performer.jpg|200px|thumb|none|Relive the Dancing Performer's memory]]
+</div>
+{{Clear}}
+
+==Expression==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.<br>
+<br>
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Dancing-Performer-show-dance-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Dancing-Performer-show-dance-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Dancing-Performer-show-dance-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Dancing-Performer-show-dance-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+* Level 1 will make your avatar straighten their arms at their sides, palms facing down, and begin to dance by crossing their left leg behind their right while each shoulder moves up and down. After uncrossing their legs, they repeat the movements in the reverse direction before finally finishing with a little kick of their left foot as their head tilts back while drum and snare notes play.
+* Level 2 makes the same motion as Level 1 with small bursts of white sparkles appearing from your avatar's head at various moments during the dance and from the final kick, in addition to a trail of white light following the motion of their hands.
+* Level 3 will make your avatar perform a dynamic dance by exaggeratedly stepping from side to side, hands swaying elegantly with the motion, before kicking up their left leg, smoothly bending down, and finally taking on an elegant pose with their hands in the air, turned to the side, and their left leg slightly crossed behind the other, while percussion notes play.
+* Level 4 makes the same motion as Level 3 with small bursts of sparkles appearing at varying moments during the dance and a sparkling trail of white light following the motion of your avatar's hands.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+==Cosmetics==
+===Mask===
+The [[Mask]] offered by this Spirit is red with yellow and black accents and shaped like the head of a red-crowned crane, with a small beak as well as a full beard, costing {{Cost|48 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|49 SC|season=Dreams}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Hair===
+The [[Hair]] offered by this Spirit includes a black wide-brimmed hat with a chinstrap and yellow accents, sitting on top of tied up hair, costing {{Cost|45 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|12 SC|season=Dreams}} total). Note that this item is considered a Hair, not a [[Hair Accessory]], and as such it can not be worn over other Hairstyles.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair front
+{{Icon Name||Hair|side}} {{!}} The Hair side
+{{Icon Name||Hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Cape ===
+The [[Cape]] offered by this Spirit is a yellow overcoat with wide sleeves, black lining around the sleeves' trim and the coat's bottom edge, as well as faint zig-zag marks around the bottom hems, costing {{Cost|75 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fifth node ({{Cost|76 SC|season=Dreams}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||cape|icon}} {{!}} The Cape icon
+{{Icon Name||cape|front}} {{!}} The Cape front
+{{Icon Name||cape|interior}} {{!}} The Cape interior
+{{Icon Name||cape|real}} {{!}} The Cape back
+{{Icon Name||cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Instrument===
+<!-- This instrument should NOT BE RENAMED to "Pipa". After a previous controversy, Lute was chosen as the preferred name. -->
+The [[Instrument]] offered by this Spirit is the '''Lute''', costing {{Cost|70 C}} from the Traveling Spirit. It has a brown body with a white-colored front, as well as black and yellow accents and four strings. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fifth node ({{Season Candle|76|season=Dreams}} total). The player is sitting while playing the Instrument, which plays 15 notes.
+
+The Lute plays the [[Music Sheet Parts|melody part]] on Music Sheets. Its [[Instrument Pitch|pitch]] is one octave below the standard {{Spirit Item|Cheerful Spectator|Instrument|inline_text}} (in C major, it covers C<sub>3</sub> to C<sub>5</sub>).
+
+In [[Harmony Hall]], the Lute can be found in the left room with all the other stringed Instruments. It is the third Instrument from the left.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Instrument|icon}} {{!}} The Instrument icon
+{{Icon Name||Instrument|real}} {{!}} The Instrument
+{{Icon Name||Instrument|held}} {{!}} Playing the Instrument 
+{{Icon Name||Instrument|back}} {{!}} The Instrument on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Traveling Spirit==
+{{Friendship Tree Info | traveling
+|ts_dates=*April 25, 2024 (#112)}}
+
+After winning the Traveling Spirit Community Vote during the [[Sky for Steam#Steam Wishlist Extravaganza|Steam Wishlist Extravaganza]], {{PAGENAME}} was the second Traveling Spirit to visit after Sky's PC launch on April 10, 2024<ref name="PC_Release_Date">https://www.thatskygame.com/news/get-ready-for-sky-early-access-on-steam/</ref>. 
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Dancing Performer
+|season = Dreams
+|image  = Dreams-Spirit-Dancing-Performer.png
+|nodeC6 = Cape 75 C
+|nodeL5 = Instrument 70 C
+|nodeC5 = spell5
+|nodeR4 = Mask 48 C
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Hair 45 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future.
+</noinclude>
+No hints were given before the [[Dancing Performer]]'s first appearance. 
+
+==Season Friendship Tree==
+{{Friendship Tree Info | season | season=Dreams}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Dancing Performer
+|type   = season
+|season = Dreams
+|image  = Dreams-Spirit-Dancing-Performer.png
+
+|nodeC6 = season_heart 3 SC SP
+|nodeL5 = Instrument SP
+|nodeC5 = Cape 27 SC
+|nodeL4 = Mask SP
+|nodeC4 = spell5 21 SC
+|nodeL3 = emote4 SP
+|nodeC3 = emote3 16 SC
+|nodeL2 = Hair SP
+|nodeC2 = spell5 12 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Trivia==
+*During [[Sky Beta|Beta]] testing, the Dancing Performer wore [[Admiring Actor#Outfit|Admiring Actor's]] Outfit from the [[Season of Rhythm]]. However, they wear the usual default Spirit Outfit in the Live version.
+*The Dancing Performer won the [[Traveling Spirit]] Community Vote during the [[Sky for Steam#Steam Wishlist Extravaganza|Steam Wishlist Extravaganza]], marking this as the first time players voted for a [[Ancestors|Spirit's]] return. 
+
+==Image Gallery==
+<gallery widths="125" spacing="small" orientation="landscape" captionalign="center">
+Season of dreams dancing performer emote.JPG
+season of dreams dancing performer emote 1.png
+season of dreams dancing emote group 1.png
+season of dreams dance emote twilight stadium.JPG
+Season of dreams dancing performer map.PNG
+Steam Wishlist Community Vote Result-Dancing Performer.png|Traveling Spirit Community Vote Winner
+</gallery>
+==Video Gallery==
+{{#ev:youtube|oe6sjjiJrjw|175|inline|Video Guide by Tara}}
+
+==References==
+<references />
+
+[[de:Tänzer]]
+[[pt-br:Dançarino]]
+[[ja:舞い踊る表現者]]
+[[ru:Учитель танцев]]
+[[fr:Interprète de danse]]

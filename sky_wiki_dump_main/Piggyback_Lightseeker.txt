@@ -1,0 +1,192 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Action
+|image     = <gallery>
+Lightseeker-Spirit-Piggyback-Lightseeker.png|Standard
+Lightseeker-Spirit-Piggyback-Lightseeker-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Mask|infobox}}{{Spirit Item||Hair|infobox}}{{Spirit Item||Cape|infobox}}
+|season    = Lightseekers
+|realm     = Isle of Dawn
+|location  = Isle of Dawn
+|ts        = February 13, 2025 (#133)<br>February 2, 2023 (#80)<br/>March 4, 2021 (#30)<br/>April 16, 2020 (#7)
+}}
+<section begin="Summary" />The '''Piggyback Lightseeker''' is a [[Seasonal Spirit]] from the [[Season of Lightseekers]] who offers the {{Emote|Piggyback Lightseeker|inline_text}}. The Piggyback Lightseeker is found in a semi-hidden cave on the left side of [[Isle of Dawn]], behind a [[Constellation Gate]] that requires players to have relived the memory of three [[Hidden Forest]] Spirits. The collectibles [[#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Piggyback Lightseeker|Mask|inline_text}}, a {{Spirit Item|Piggyback Lightseeker|Hair|inline_text}}, and a {{Spirit Item|Piggyback Lightseeker|Cape|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Piggyback-Lightseeker-promo-image.jpg|none|thumb|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|aWLxwkk87kc||inline|Video Guide}}
+
+The Piggyback Lightseeker can be found in a semi-hidden cave on the left side of [[Isle of Dawn]]. In the side of a large dune facing the shore, a tunnel with a Constellation Gate can be found, requiring players to have relived the memory of three [[Hidden Forest]] Spirits to enter. This Spirit has a [[Carry Spirit Memory|carry spirit memory]] with 6 memory fragments and a 6-minute overall [[Timed Memory|time limit]]. 
+
+In order to collect the last two fragments, players have to pass a flooded area, which can be overcome by slowly swimming alongside a wall, carrying the light alongside it.
+
+As their memory unfolds, the Piggyback Lightseeker can be seen making their way through the cave, guiding the [[Rejecting Voyager]] and another Spirit to bring each an orb to an offering vessel.
+
+At the end of the memory, the Piggyback Lightseeker motions the player to jump on their back.<br>
+<br>
+[[File:02 Season of Lightseekers - Piggyback Lightseeker.png|200px|thumb|none|Relive the Piggyback Lightseeker's memory]]
+</div>
+{{Clear}}
+
+==<span id="Expression">Friend Action</span>==
+''Note: While this Spirit can be found in Isle, the upgrade to the "Piggyback" Friend Action will not be available for those who missed the Season or those who did not purchase the [[Season Pass]] until the Spirit returns as a Traveling Spirit.''
+
+This Spirit offers the {{Emote||inline_text}}, which has 2 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Piggyback-Lightseeker-piggyback-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Piggyback-Lightseeker-piggyback-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+</gallery>
+
+*Level 1 will make your avatar motion up to your friend with their arm, inviting them to jump on their back, while a whistling sound plays. Your friend will hop on your avatar's shoulders and support themselves by holding their  head with both hands.
+* Level 2 makes the same motion as Level 1, with your friend's avatar spreading out their arms to either side once they've hopped on.
+
+Like any [[Friendship Menu#Extended Two-Player Abilities|Extended Two-Player Abilities]], this ability can be upgraded by opening your friend's Friendship Menu. To reach the 8th node before the ability, it will cost you {{Cost|15 C}} and {{Cost|6 AC}}. (See [[Friendship Menu]] to view the entire Friendship Tree). Unlocking the Level 1 ability will cost you {{Cost|6 C}}. After unlocking Level 1, it will cost you {{Cost|8 C}} more to upgrade to the Level 2.
+
+As a Traveling Spirit, the prices of the Friend Action upgrade was {{Cost|8 H}}. During the Season, Level 1 was free, but Level 2 was only available to [[Season Pass]] holders.
+
+==Cosmetics==
+===Mask===
+The [[Mask]] offered by this Spirit is round and plain beige, with one blue line and a dot at the outer end under each eye, costing {{Cost|24 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's second node ({{Cost|16 SC|season=Lightseekers}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Hair===
+The [[Hair]] offered by this Spirit is a high bun secured with a long grey hairpin, and two small hair strands, which are brushed outwards to each side, costing {{Cost|26 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fourth node ({{Cost|54 SC|season=Lightseekers}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair front
+{{Icon Name||Hair|side}} {{!}} The Hair side
+{{Icon Name||Hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Cape===
+::''Not to be confused with {{Spirit Item|Shushing Light Scholar|Cape|Inline_text|label=Shushing Light Scholar Cape}}.''
+The [[Cape]] offered by this Spirit is blue with a rounded trim and has big petal-like shapes and purple accents between them and the bottom hem, which is decorated with evenly spaced out, small purple orbs, costing {{Cost|60 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|54 SC|season=Lightseekers}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||Cape|interior}} {{!}} The Cape interior
+{{Icon Name||Cape|back}} {{!}} The Cape back
+{{Icon Name||Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Traveling Spirit==
+[[File:Traveling lightseekers isle.png|200px|right|thumb]]
+{{Friendship Tree Info | traveling
+|ts_dates=*February 13, 2025 (#133)
+*February 2, 2023 (#80)
+*March 4, 2021 (#30)
+*April 16, 2020 (#7)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Piggyback Lightseeker
+|season = Lightseekers
+|image  = Lightseeker-Spirit-Piggyback-Lightseeker.png
+
+|nodeC5 = Cape 60 C
+|nodeL4 = emote2 8 H
+|nodeC4 = spell5
+|nodeR4 = Hair 26 C
+|nodeC3 = wing
+|nodeL2 = Mask 24 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeC1 = emote
+}}
+<section end="TS Friendship Tree" />
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+No hints were given before the [[Piggyback Lightseeker]]'s first appearance.
+
+The hints given before the [[Piggyback Lightseeker]]'s second appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Second Visit Hints
+|content=<div>
+* Is allergic to pollen
+* Despite their allergies, loves taking care of butterflies as a hobby
+* Is the best at making sand sculptures
+* Is the best at playing patty cake
+* Might even have some arms too
+* Wishes they knew how to ski
+* Has never had pizza
+* Calls everyone their BFF
+* The moth you just friended
+* Likes to swim
+* Their favorite weather is blue skies
+* Plays jigsaw puzzles in their spare time
+* Will NOT have popcorn for sale
+* Will also not be selling their prized rock collection
+* Is a natural born surfer, cowabunga everyone!
+* Is an extrovert
+* Makes hot cocoa for their friends
+</div>
+}}
+
+The hints given before the [[Piggyback Lightseeker]]'s third appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Third Visit Hints
+|content=<div>
+* Will never leave you behind
+* Knows 71 different rock facts
+* Hums their own dramatic theme song (of their own making)
+* Seeks out adventure!
+* Likes to stash their treasures in their own secret spot
+* Enjoys swimming
+* Has never had spaghetti
+* Doesn't like dressing flashy
+* Is in denial about their pollen allergies
+* Is stronger than they appear
+* Always points out cool looking rocks
+* [wes] Is a mystery
+</div>
+}}
+
+==Season Friendship Tree==
+{{Friendship Tree Info | season | season=Lightseekers}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Piggyback Lightseeker
+|type   = season
+|season = Lightseekers
+|image  = Lightseeker-Spirit-Piggyback-Lightseeker.png
+
+|nodeC5 = Cape AP
+|nodeC4 = Hair 20 SC
+|nodeL3 = emote2 AP
+|nodeC3 = spell5 18 SC
+|nodeL2 = spell5 AP
+|nodeC2 = Mask 16 SC
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Image Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+lightseekers isle emote.GIF
+IMG 8890.jpg
+lightseekers isle FULL2.jpg
+</gallery>
+
+==Video Gallery==
+{{#ev:youtube|IxWMt-YbklE|175|inline|Video Guide by Tara}}
+
+==References==
+<references />
+[[de:Huckepack-Lichtsucher]]
+[[pt-br:Buscadora da Luz de Carona]]
+[[ru:Искатель света на закорках]]
+[[fr:Chercheuse de lumière à califourchon]]
+[[ja:おんぶする光探究者]]

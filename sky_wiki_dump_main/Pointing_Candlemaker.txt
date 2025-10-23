@@ -1,0 +1,98 @@
+{{Spirit Infobox
+|type     = Regular
+|emote_type= Emote
+|image    = <gallery>
+Isle-Spirit-Pointing-Candlemaker.png|Standard
+Isle-Spirit-Pointing-Candlemaker-Gold.png|Ascended
+</gallery>
+|cosmetics= {{Spirit Item||Outfit|infobox}}{{Spirit Item||Hair|infobox}}
+|realm    = Isle of Dawn
+|location = [[Isle of Dawn#Sand Dunes|Sand Dunes]]
+}}
+<section begin="Summary"/>The '''Pointing Candlemaker''' (formerly '''Pointing Pilgrim'''<ref name="Spirit name change">In Patch {{v|0.11.4}}, both the [[Pointing Candlemaker]] and [[Ushering Stargazer]] Spirits were renamed to better reflect their updated memory stories.</ref>) is a [[Regular Spirit]] in [[Isle of Dawn]] who offers the {{Emote|Pointing Candlemaker|inline_text}} Expression. The Pointing Candlemaker is found by the [[Isle of Dawn#Sand Dunes|Sand Dunes]], just outside the caves to the left of the large ramp that leads to the Temple. The collectibles [[Pointing Candlemaker#Friendship Tree|offered]] by this Spirit are an {{Spirit Item|Pointing Candlemaker|Outfit|inline_text}} and a {{Spirit Item|Pointing Candlemaker|Hair|inline_text}}. <section end="Summary" /><br>
+<br>
+[[File:Pointing-Candlemaker-Guide-777-Ed.png|320x320px|thumb|none|Image Guide by 777.Ed]]
+
+== Memory ==
+<div>
+{{#ev:youtube|ZSUPxHA9hD0||inline|Video Guide}}
+<br>
+The Pointing Candlemaker can be found by the [[Isle of Dawn#Sand Dunes|Sand Dunes]], just outside the caves to the left of the large ramp with the [[Spirit Gate]] at its base. They are the first Regular Spirit for nearly all players because it is effectively required as part of completing the initial tutorial. This Spirit is a [[Standard Memory|standard memory]] quest with 4 memory fragments and an unlimited overall [[Timed Memory|time limit]].
+
+As their memory unfolds, the Pointing Candlemaker is seen teaching two other Spirits about what candles are, how they are made, and what they are used for. After showing them the second cave [[Murals|Mural]] that depicts [[Isle of Dawn]] and its [[Elders|Elder]], the Pointing Candlemaker invites them to a boat waiting outside the cave.
+
+At the end of the memory, the two Spirits have boarded the boat filled with jars and candles. The shorter Spirit raises both arms in excitement while the other Spirit claps, and the Pointing Candlemaker points towards their next destination: the [[Isle Temple]].<br>
+<br>
+[[File:00 ID Spirit - Pointing Candlemaker.png|200px|thumb|none|Relive the Pointing Candlemaker's memory]]
+</div>
+{{Clear}}
+
+==Expression==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.<br>
+<br>
+[[File:{{Icon Name||Emote}}|170px|left]]
+<gallery heights="125" captionalign="center">
+Pointing-Candlemaker-point-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Pointing-Candlemaker-point-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Pointing-Candlemaker-point-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Pointing-Candlemaker-point-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar take a large step with their left foot and extend their right arm forward. This action is continued for as long as you don't move your character.
+*Level 2 makes the same motion as Level 1 with a white line following the pointing gesture and sparkles at the end, emphasizing the point.
+*Level 3 will make your avatar excitedly run in place until they burst into position, by taking a step with their right foot and extending their right arm forward, then periodically glancing back over their shoulder. This action is continued for as long as you don't move your character.
+*Level 4 makes the same motion as Level 3 with a green line following the pointing gesture and sparkles at the end, emphasizing the point.
+
+The prices of the three Expression upgrades are {{Cost|1 C}}, {{Cost|2 C}}, and {{Cost|2 C}}. Levels 3 and 4 are only available after unlocking the Spirit's [[Wing Buff]].
+
+==Cosmetics==
+===Outfit===
+The [[Outfit]] offered by this Spirit is a beige half-sleeve top with matching leggings, costing {{Cost|4 H}}. It is permanently available to all players after unlocking the Spirit's [[Wing Buff]] and the Friendship Tree's fourth node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Outfit}} {{!}} The Outfit icon
+{{Icon Name||Outfit|Real}} {{!}} The Outfit front
+{{Icon Name||Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Hair===
+The [[Hair]] offered by this Spirit is a short, simple hairstyle with a cowlick, available to be collected for free. It is permanently available to all players after unlocking the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair}} {{!}} The Hair icon
+{{Icon Name||Hair|Real}} {{!}} The Hair front
+{{Icon Name||Hair|side}} {{!}} The Hair side
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Friendship Tree==
+{{Friendship Tree Info | regular}}
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Pointing Candlemaker
+|image  = Isle-Spirit-Pointing-Candlemaker.png
+
+|nodeC5 = spell5
+|nodeL4 = emote4 2 C
+|nodeC4 = emote3 2 C
+|nodeR4 = Outfit 4 H
+|nodeC3 = wing 1 AC
+|nodeL2 = heart
+|nodeC2 = spell1
+|nodeL1 = emote2 1 C
+|nodeC1 = emote
+|nodeR1 = hair free
+}}<section end="Friendship Tree" />
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+File:Emote Loc-Point.png
+</gallery>
+
+==References==
+<references />
+
+[[de:Deutender Kerzenmacher]]
+[[fr:Cirier pointant]]
+[[pt-br:Candeeiro Denotante]]
+[[ja:指差すキャンドル職人]]

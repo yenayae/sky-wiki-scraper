@@ -1,0 +1,429 @@
+
+This page contains descriptions of the controls in Sky: Children of the Light.
+==Flight and Movement Controls: iOS and Android==
+===Control Schemes===
+There are two main options for control modes in the Gear Menu, and three minor ways to adjust them:
+* One Handed
+** All flight, movement, and camera control can be done with one hand
+** Camera is moved by dragging two fingers on the screen
+** Jumping is done by flicking in the direction you wish to go in
+** All other movement is with one finger
+* Two Handed
+** This mode allows for the device to be used in a controller-esque way
+** The right side of the screen is used to move the camera
+** The left side of the screen is used to move the player 
+** Jumping is done by pressing the right side button, hold down to use Cape Energy and rise
+* Flip Sides (Two Handed, but reversing the sides)
+** This simply flips the above so that movement is on the left, and camera is on the right
+* Invert Flight
+** This inverts your flight controls
+* Invert Camera
+** This inverts your camera movements
+===Flight Control===
+Flight controls were an ongoing experiment throughout the beta period. When the global launch occurred, TGC settled on a control system that includes a button that allows for two options for control: open wing and closed wing.
+
+<gallery captionalign="center" bordercolor="transparent" widths="185" hideaddbutton="true" mode="nolines">
+Icon open wing mode.png|Open Wing Mode
+Icon closed wing mode.png|Closed Wing Mode
+</gallery>'''Open Wing''' mode allows for more flight control in the air when covering long horizontal distances. In this mode, diving, rising, flipping, and turning can be done at will. Pressing and holding on the screen uses Cape Energy to boost speed and/or increase the player's altitude. Air streams or [[Creatures in Sky|Light Creatures]] can also be used to help get to places that are hard to reach. It is also possible to perform sharper turns midair through very rapid flicks in either direction. See [[Advanced Flying]] for more information on flight.
+
+Open Wing Mode is automatically activated when flying over clouds, with Light Creatures such as Birds and Mantas, or during a very rapid takeoff. In Open Wing mode, "contrails" can be seen coming from your hands.
+
+'''Closed Wing''' mode allows for more landing and movement control when working in a smaller space or are trying to land in a particular spot. It is very similar to ground control with the D-Pad; basically dragging the character through the air. If the finger is lifted from the screen while in this mode, the character will stop or slow forward momentum, allowing for the ability to land in a precise spot. This flight mode can only be activated while above solid ground. 
+
+The '''Wing Mode icon''' appears on the screen once in the air. In one-handed mode it will appear on whatever side the player pressed to rise into the air. In two-handed mode, it will appear above the jump button. 
+<gallery captionalign="center" widths="300" hideaddbutton="true" mode="nolines">
+
+File:Wing-mode-Closed-Wing.jpg|Flying in Closed Wing mode (tap the icon to change to Open Wing)
+File:Wing-mode-Opened-Wing.jpg|Flying in Open Wing Mode (tap the icon to change to Closed Wing)
+
+</gallery>
+
+[https://thatgamecompany.helpshift.com/a/sky-children-of-the-light/?s=controls-navigation&l=en TGC's Notes] regarding flying controls can also be used for additional information.
+
+===D-Pad===
+[[File:Controls-dpad.png|thumb|128x128px]]
+The D-Pad is activated by pressing and holding anywhere on the screen (or the "movement" side of your screen, in two-handed mode) away from the player. It is used in both flight and ground movement. On the ground it allows for walking and running. In Closed Wing flight mode, it allows for the ability to gracefully move and land the character where you want to. In Open Wing mode it will simply guide the direction.
+
+===Stepping Hoop===
+[[File:Controls hula hoop.png|thumb|127x127px]]
+Stepping Hoop is used on the ground to make small steps or movements. Activate it by pressing and holding on your avatar, and then dragging in the desired direction. This allows for the ability to take single, controlled steps, or to turn around in place.[[File:Sky Children of the Light (0.4.10 Beta) Tutorial - Control Schemes and Flight Modes|thumb|335 px|none]]
+
+==Start Menu==
+Upon opening the game and passing the TGC splash screen will lead to the Start menu. On the left is displayed the [[Message of the Day]], amount of days left in a season (if applicable), along with the ThatSkyGame's 4 prominant social media accounts. At the centre displays the start button, and below the button is an account service switcher, allowing the user to switch accounts.
+
+==Friend Menu==
+See the following pages for an explanation of the two Friend Menus:
+*[[Friendship Menu]]: Tapping on a nearby friend in the same area
+*[[Constellation Table]]: Tapping on a Friend Star in the [[Home]] Friend Constellation
+
+==Expression Menu==
+[[File:Cape_meter.png|thumb|75px|Wing Meter Icon]]The '''Expression Menu''' (also known as '''Wing Menu''') is accessed by tapping on the Wing Meter icon at the center top of the screen.  It allows for selecting [[Expressions]], from within three tabs, each accessed by clicking the appropriate icon at the very top of the menu:
+* {{Icon|PointingCandlemaker-1.png|link=}} is the [[#Emote Submenu|Emote Submenu]] listing some actions, plus any emotes that have been unlocked (or are available from nearby Regular Spirits or Seasonal Guide).
+* {{Icon|ConfidentSightseer-1.png|link=}} is Stances/Call Submenu, lists any [[Stances]] and [[Calls]] (Voices) that have been unlocked (or are available from nearby Regular Spirits or Seasonal Guide).
+* {{Icon|5CandlesSpell.png|link=}} is the [[Blessings#Blessing Menu|Blessing Submenu]], listing the Spells, Potions, and Scrolls that have been purchased.
+
+Most of the icons available in the Expression Menu are detailed at [[Expressions]].
+
+The Wing Meter icon may have a red dot, which is a general signal for a newly-available feature.  There are many possible reasons for it; in general it means the  red dot should be clicked, and then look for a red dot somewhere within the Menu.
+
+===Emote Submenu===
+[[File:Unavailable-Emotes-displayed-in-Expression-Menu.png|thumb|right|Unavailable emotes]]
+Most of this tab contains a list of standard emotes, including all those that have been unlocked in bright white, plus dimmed-out icons for undiscovered emotes available from [[Regular Spirits]] or [[Seasonal Guide]] on the current map.  The meanings of all these standard emotes are provided at [[Expressions]]. However, the top part of the tab provides a few other options, detailed here.
+
+At the top of this menu are up to six recently-used emotes (although this section may be missing when the game has just been reloaded). These are quick-access duplicates of icons that appear further down the page, with a superimposed clock symbol. They work the same way as the original icon. The recently-used emotes are automatically populated by the game.  There is no way to customize them.
+
+The third row of the menu (typically -- unless the recently-used emotes have not yet been populated) contains several actions:
+* <span id="Flame">{{Icon|Icon_flame.png|link=}} '''Flame'''</span>. Pull out a flame (red candle). This ability is acquired during the [[Aviary Village]]'s tutorial. Normally, it does not need to be accessed via the menu; it is easier to use the flame icons that appear anywhere in the environment whenever your flame is needed. However, the menu icon can be useful in several situations:
+** In dark areas to allow for illumination (although {{Emote|Ceremonial Worshiper|inline_text}} can be brighter).
+** If help is needed opening a door that requires light (again, {{Emote|Ceremonial Worshiper|inline_text}} might work better)
+** When flying with a friend, having a flame out can help recharge the friend's cape.
+* <span id="Home">{{Icon|Icon_home.png|link=}} '''Home'''</span> allows the player to teleport to Realm Portals ([[Home]] or [[Aviary Village]] depending on the starting point you set).  There is a couple second delay while you kneel; to cancel it, start moving and the player will automatically stand up and cancel the teleport.  Also, [[Creatures#Dark_Crabs|Dark Crabs]] can attack the player during this interval and cancel the teleport.
+* '''Prop''' icon: If a [[prop]] is equipped, that prop's icon appears next to the Home icon, allowing for it to be equipped. If the player is not carrying a prop, this icon is omitted.
+* <span id="Request Guide">{{Icon|Request guide.png|link=}} '''Request Guide'''</span> allows new players to ask experienced players for help finding [[Spirits]]. If all spirits on the map have been found, this feature will not be allowed. Nearby players will see a {{Icon|Hold-hand-filled-icon.png|link=}} hand-holding icon over your head, allowing them to take the player's hand, even without requiring lighting or becoming friends. The guide can use a [[Deep Call]] to be shown all the spirits that are known to the guide but unknown to the player, including [[Seasonal Spirits]] as well as [[Regular Spirits]]. 
+
+One more special icon appears at the start of the fourth row:
+* <span id="Sit">{{Icon|Emote-basic sit.png|link=}} '''Sit'''</span> is a default "emote" that is automatically available to all players from the start of the game.  It cycles the player from a standing pose (default) to kneeling, then sitting, then lying down. The player remains non-standing indefinitely -- until the icon is clicked again, or until the player starts moving, which automatically makes you stand up. The exact pose when kneeling, sitting, or lying down is controlled by the selected [[Stance]].
+
+===Emote Favorites Wheel===
+[[File:Default-fav-wheel.png|thumb|right|The favorites wheel (mobile)]]
+The '''Emote Favorites wheel''' (also known as the '''"Expressions Wheel"''') allows players to save up to 8 expressions for quick access. It appears as a circle, with subdivisions ("slots"), and a small circular button in the center.
+
+The favorites wheel is unlocked after starting the [[Vault of Knowledge]]<ref>https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/faq/1348-how-do-i-favorite-emotes-in-sky/</ref>. A one-time tutorial introducing the feature is accessible through the main emote submenu.<br>
+<br>
+See platform specific controls for accessing the favorites wheel:<ref>[[Update:Live_0.26.5_(280889_Android,_Huawei,_iOS,_PlayStation,_Steam,_Switch)#New_Feature:_Favoriting_Emotes|0.26.5 patch notes]]</ref>
+{{Mobile Tabber
+|tab1 = Mobile
+|c1   =
+[[File:Slowed-open-fav-wheel.gif|thumb|right|Pressing and holding, half speed]] <br>
+'''To open:''' press and hold the {{Icon|Cape_meter.png|link=}} wing meter until a pale blue outline encircles the icon.<br>''The favorites wheel will not open during cutscenes.''
+
+'''To use:''' select (tap) any non-empty slot to use its expression.
+
+'''To close:''' press elsewhere on the screen, or the x to the upper-right corner of the wheel.
+<br>
+|tab2 = Keyboard
+|c2   = <br>
+'''To open:''' hold Z or the middle mouse button.<br>''The favorites wheel will not open during cutscenes.''
+
+'''To use:''' select (click) any non-empty slot to use its expression.
+
+'''To close:''' release Z or the middle mouse button.
+<br>
+|tab3 = Controller
+|c3   = <br>
+'''To open:''' press L2.<br>''The favorites wheel will not open during cutscenes.''
+
+'''To use:''' select (move the R joystick in the direction of) any non-empty slot to use its expression.
+
+'''To close:''' press B/circle.
+<br>
+|tab4 = Switch
+|c4   = <br>
+'''To open:''' press ZL.<br>''The favorites wheel will not open during cutscenes.''
+
+'''To use:''' select (move the R joystick in the direction of) any non-empty slot to use its expression.
+
+'''To close:''' press B.
+<br>
+}}
+<hr/>
+
+====Customizing the Favorites Wheel====
+The favorites wheel, by default, contains the following expressions: {{Icon|Icon_flame.png|link=}} flame in the topmost slot, {{Icon|Emote-basic sit.png|link=}} sit in the rightmost, and {{Icon|Icon_home.png|link=}} home at the bottom.
+
+Nearly every icon from the expressions submenu can be saved in the wheel, including [[emotes]], [[stances]], [[calls]], [[spells]], [[props]], cosmetic abilities and Chat Messages<ref>Chat Messages was added in patch {{v|0.27.5}}</ref>.
+*When saving an expression, players must select a specific level.
+*The following items from the expressions menu cannot be saved: {{Icon|Request guide.png|link=}} Request a Guide and {{Icon|Question-mark-Ray.png|link=}} Expressions Help.
+
+From the favorites wheel, see platform-specific controls:
+{{Mobile Tabber
+|tab1 = Mobile
+|c1   = <br>
+[[File:Wheel-edit-1.PNG|right|thumb]]
+'''To enter editing mode:''' tap the {{Icon|Edit_friend_name.png|link=}} pencil icon at the center of the wheel.<br>''The expressions submenu will open automatically upon entering editing mode.''
+
+'''To exit editing mode:''' press the small checkmark in the central button.
+
+'''Adding or replacing favorites:'''
+<gallery spacing="small" captionalign="center" hideaddbutton="true" mode="nolines">
+Wheel-edit-2.PNG
+Wheel-edit-3.PNG
+Wheel-edit-4.PNG
+</gallery>
+#Select the expression from the expressions submenu. The selected expression should then appear in the center button.
+#Select a slot on the wheel to place it in. The slot does not need to be empty. To cancel, tap the central button.
+
+'''Removing favorites:'''
+<gallery spacing="small" captionalign="center" hideaddbutton="true" mode="nolines">
+Wheel-delete-1.PNG
+Wheel-delete-2.PNG
+Wheel-edit-4.PNG
+</gallery>
+#Select a slot.
+#Press the small x that appears next to the slot.
+<br>
+|tab2 = Keyboard
+|c2   = <br>
+'''To enter editing mode:''' press E.<br>''The expressions submenu will open automatically upon entering editing mode.''
+
+'''To exit editing mode:''' press Esc, or click elsewhere on the screen.
+
+'''Adding or replacing favorites:'''
+#Select the expression from the expressions submenu. The selected expression should then appear in the center button.
+#Click a slot on the wheel to place it in. The slot does not need to be empty. To cancel, click the central button.
+'''Removing favorites:''' select a slot, then click the small x that appears next to the slot.
+<br>
+|tab3 = Controller
+|c3   = <br>
+'''To enter editing mode:''' press Y/triangle.<br>''The expressions submenu will open automatically upon entering editing mode.''
+
+'''To exit editing mode:''' press B/circle.
+
+'''Adding or replacing favorites:'''
+#Select a slot, then press A/x.
+#Select the expression from the expressions menu.
+'''Removing favorites:''' select a slot, then press X/square.
+<br>
+|tab4 = Switch
+|c4   = <br>
+'''To enter editing mode:''' press X.<br>''The expressions submenu will open automatically upon entering editing mode.''
+
+'''To exit editing mode:''' press B.
+
+'''Adding or replacing favorites:'''
+#Select a slot, then press A.
+#Select the expression from the expressions menu.
+'''Removing favorites:''' select a slot, then press Y.
+<br>
+}}
+<hr/>
+*Players cannot save a duplicate [[Expressions#Emote|emote]] but it is possible to save different levels of the same [[Expressions#Upgrading Expressions|expression]].
+*An expression cannot be moved to a different slot without finding it again through the submenu.
+*Expressions that cannot be used will be greyed out, such as those connected to a cosmetic or prop that is not currently equipped.
+
+== Hidden Icons and Menus (iOS and Android) ==
+[[File:Menus.png|thumb|400x400px]]
+There are a number of icons that are somewhat hidden and are not explained in the tutorial of the game.
+
+Tapping on each of the four corners of the screen will display an icon as follows:
+* <span id="Candle">{{Icon|Regular-candle-icon-Morybel-0146.png|link=}} Currency Inventory (top left)
+** How many Candles, Hearts and other [[Currency|Currencies]] have been collected.
+* <span id="Wing Menu">{{Icon|Cape meter.png|link=}} Wing Menu (top middle)
+** The number of Winged Light/Wing Buffs that have been currently collected (number will appear under to the Wing Meter).
+* <span id="Gear">{{Icon|Settings-gear-Ray.png|link=}} Gear Menu and <span id="Friend">{{Icon|Friends-Ray.png|link=}} Friend (top right)
+** Opens the in-game settings menu (see below)
+* <span id="Photo">{{Icon|Camera-Ray.png|link=}} Photo and <span id="Video">{{Icon|Video-Ray.png|link=}} Video Capture (bottom right)
+** Using these rather than the device's screen capture or screen record eliminates all of the chat, buttons, and menus UI from recordings and pictures (iOS and android). This allows for high quality and clean pictures in-game.
+** The video capture has a maximum capture time of around four minutes.
+** Pictures are stored in the Photos app as long as Sky has been granted permission to access photos. '''If you are not seeing your screen captures in the Photos app, go to your device settings, scroll down to "Sky," tap on "Photos" and make sure that "Add Photos Only" is selected.'''
+* <span id="Gear">{{Icon|Icon chat.png|link=}}Chat (bottom left)
+** Opens a chat field so that messages can be typed. The chat messages will only be read by others sitting at a Chat Object, unless the chat feature has been unlocked by a friend.
+
+==Gear Menu==
+The in-game settings is found by tapping the top, right, corner of your device's screen which will display a Gear icon. Tap the <span id="Gear">{{Icon|Settings-gear-Ray.png|link=}} Gear icon and the above menu will appear.[[File:Gear-menu-2021.jpg|thumb|700px|alt=|none]] The menu screenshot shown above is the August 2024 version. Gear Menu icons, left to right:
+*<span id="Home">{{Icon|Icon_home.png|link=}}'''Home''': Tap to go back to Home Space (not available if you are already in Home)
+*<span id="Shop">{{Icon|Icon shop.png|link=}}'''Shop''': In-App Purchases
+*<span id="Friends">{{Icon|Friends-Ray.png|link=}}'''Friends''': Players can create a QR-code or Sky Code to become friends with someone from outside the game.
+*<span id="Sky Codes">{{Icon|QR-code-invite-Ray.png|link=}}'''Sky Codes''':If you have a QR from a friend, use this icon to scan it, or if you have a Sky Code from a friend press on the "Type" open to type it in. 
+*<span id="Account">{{Icon|Checkmark-Ray.png|link=}}'''Account''': Players can link their account to Game Center, Google, Facebook, Apple ID, Nintendo Account, HUAWEI ID and PlayStation Network here. It is highly recommended that players link their account to preserve their progress in case of re-installs or switching devices. This is also where players can find their Sky ID as well as delete their account. TGC support can help recover lost accounts using Sky IDs.
+*<span id="Inbox">{{Icon|Inbox-Ray.png|link=}}'''Inbox:''' Messages sent by TGC
+*<span id="News">{{Icon|News-icon.png|link=}}'''News:''' Recent News Blogs and Patch Notes
+*<span id="Graphics">{{Icon|Graphics-Ray.png|link=}}'''Graphics''': Settings to chose Resolution, Motion Blur, Fade to Black only and HDR. This setting can help to preserve the device’s battery charge, and may also help to keep the device cooler during longer gameplay. Choose the setting that works best for you
+**Non-60 fps-capable devices:
+*** <span id="No bars">{{Icon|Graphics-low-resolution-Ray.png|link=}} No bars: Energy Saving Mode (20 fps)
+*** <span id="One bar">{{Icon|Graphics-default-mode-Ray.png|link=}} One bars: Default Mode (30 fps)
+*** <span id="Two bars">{{Icon|Graphics-high-performance-Ray.png|link=}} Two bars: Boosted Def Mode (30 fps)
+*** <span id="Three bars">{{Icon|Graphics-high-def-Ray.png|link=}} Three bars: inaccessible
+**60 fps-capable devices:
+*** <span id="No bars">{{Icon|Graphics-low-resolution-Ray.png|link=}} No bars: Energy Saving Mode (Low Resolution)
+*** <span id="One bar">{{Icon|Graphics-default-mode-Ray.png|link=}} One bars: Default Mode (30 fps)
+*** <span id="Two bars">{{Icon|Graphics-high-performance-Ray.png|link=}} Two bars: High Performance Mode (60 fps)
+*** <span id="Three bars">{{Icon|Graphics-high-def-Ray.png|link=}} Three bars: High Definition Mode (30 fps, boosted graphics) or (30 fps, native resolution - exclusive to Apple devices with M1 chip or later)
+**Motion Blur
+**Fade to Black Only
+**Skip All Skippable Cutscenes
+**HDR
+***Brightness
+***UI Brightness
+*<span id="Audio">{{Icon|Headphones-Ray.png|link=}} '''Audio''': Ability to adjust Music, Sound Effects and Instruments 
+**Music
+**Sound Effects
+**Instruments
+*<span id="Aspect"> {{Icon|Fullscreen-aspect-Ray.png|link=}}'''Aspect''' (not pictured): tablet only
+**Toggles between <span id="Fullscreen"> {{Icon|Fullscreen-aspect-Ray.png|link=}} full-screen and <span id="Letterbox"> {{Icon| Letterbox-aspect-Ray.png|link=}} letterbox (black edges along top and bottom) on a tablet
+*<span id="Control"> {{Icon|Controller-icon.png|link=}}'''Control''': Options are:
+**Touch Settings
+***One Handed mode
+****Invert Camera
+****Invert Flight
+***Two Handed mode
+****Flip Sides
+****Invert Camera
+****Invert Flight
+***Enable Vibration
+**Controller Settings
+***Invert Camera
+***Invert Flight
+**Instrument Settings: When to see other players' notes:
+***Free play mode
+***Joined sheet music sessions
+*<span id="STAR"> {{Icon|Icon-STAR.png|link=}}'''STAR''': Ability to bind Sky STAR products - See "[https://www.thatskyshop.com/pages/whatisstar What is STAR]" for more information.
+*<span id="Merch">{{Icon|Merch-Ray.png|link=}}'''Merch''': Links to [https://www.thatskyshop.com/ That Sky Shop].
+*<span id="Social">{{Icon|Share-Ray.png|link=}}'''Social''': Links to TGC social media accounts.
+*<span id="Support">{{Icon|Support-Ray.png|link=}}'''Support''': Opens TGC support website with Patch Notes, FAQ and a chat bubble on the top right corner to contact support in-game.
+
+Help can also be found on [https://thatgamecompany.helpshift.com/a/sky-children-of-the-light/?p=all/ TGC's website].
+
+[[File:Sky Children of the Light (0.4.10 Beta) Tutorial - Menus|thumb|335px|none]]
+
+==Using a Controller with Sky==
+[[File:Controller setup.jpg|Guide made by @PlagueDoctorJed|none|thumb|424x424px]]
+===iOS/macOS===
+Controllers for MFi (made for iPhone/iPad) certified controllers will work on all Apple devices. For iOS devices that run on iOS 13 or iPadOS 13 and later, or Mac devices with Apple silicon that run on macOS 11 Big Sur and later, DualShock 4 and some Xbox controllers also work with Sky.
+
+'''Xbox controllers''':
+*Make sure its serial number is 1708 (found inside where the battery is supposed to go or on the packaging that comes with the controller)
+*Make sure it supports Bluetooth (not all wireless controllers do)
+*If you happen to own the Xbox One S console, then your controller that comes with it will work with iOS 13 or iPadOS 13
+*Should you buy it outside the console, it’s the controller that’s named “Xbox wireless controller." It retails for $59. Again, make sure the serial number is correct.
+
+'''PS4 controllers''': PS4 controllers are easier to pair with iOS 13 or iPadOS 13 or macOS 11 Big Sur (Mac devices with Apple silicon) and above, as all wireless ''Bluetooth'' controllers will work! Namely the PS4 DualShock controller line. This line of controllers (excluding limited versions) retails for $59.
+
+'''Nintendo Controllers''': With the release of iOS 16 and iPadOS 16, iPhones and iPads now include support for pairing Nintendo Switch Joy-Con and Pro controllers.
+
+'''MFi controllers''': These controllers are meant for an iOS device or an iPadOS device and phones/tablets in general. As long as it’s not too old it will be supported! One example of such a controller is the SteelSeries Nimbus. This retails for about $60 ''or less.''
+
+'''Keep in mind that for all other controllers beside MFi ones your device needs to be running iOS 13 or iPadOS 13 or macOS 11 Big Sur (Mac computers with Apple silicon). More extensive controller support is only on that software.'''
+
+===Android===
+Controller support is available on some Android devices. However, not all brands will work. For example, Steelseries Nimbus will not work due to incorrect button mappings (However Steelseries Stratus XL, which is marketed as an Android controller should work).
+
+Compatibility also depends on Android OS version and device brand. Players should research which controllers work correctly for their OS and device, but looking for Android compatible controllers is a good start.
+
+PS4 and Xbox One controller support is generally good on Android 9+. Further, there is native controller support in Android 10.
+
+''Knock-off controllers are not recommended as they are not from an original “source”. They aren't guaranteed to work and players also run the risk of device issues if they do decide to try.''
+
+===Connecting the Controller===
+Make sure the controller is not connected to a console. The controller will automatically connect to a console as it is the preferred device. Trying to pair your controller to your tablet/phone while it is connected to your console will not work! This goes for both PS4 and Xbox.
+
+If you only own the controller it’s simple; just pair it and you’re good to go!
+
+[[File:Sky- Children of the Light- Using a Controller with Sky|none|thumb|330x330px]]
+
+===Playing Musical Instruments with a Controller or Keyboard===
+<section begin="controller_music" />
+It is possible to play [[Music|musical]] notes on Sky's [[instruments]] while using a game controller (e.g. Xbox, PlayStation, MFi controller) or a keyboard (exclusive to iPad, Mac with M1 chip and later and Steam). The default button layout is designed such that the buttons/directions alternates between left and right hand side when playing the notes in order.
+
+PlayStation, Nintendo Switch and Steam users can modify the visual layout of their musical notes to best fit their playing style. Each layout assigns different notes to different buttons.
+
+Legend: D = D-pad; L = Left stick; R = Right stick
+{| class="article-table"
+|+Layout (PlayStation Buttons)
+|L2
+|R2
+|D▼
+|&times;
+|D◀
+|-
+|□
+|D▲
+|△
+|D▶
+|○
+|-
+|L1
+|R1
+|L◀
+|R◀
+|L▶
+|}
+
+{| class="article-table"
+|+Layout (Mac and Steam Keyboard)
+|Y
+|U 
+|I
+|O
+|P
+|-
+|H
+|J 
+|K
+| L
+|: ;
+|-
+|N
+|M
+|< ,
+|> .
+|? /
+|}
+
+{| class="article-table"
+|+Layout for 8 Notes (Mac and Steam Keyboard)
+|Y
+|U 
+|I
+|O
+|-
+|P
+|H
+|J 
+|K
+|}
+{| class="article-table"
+|+Layout for 4 Notes (Mac and Steam Keyboard)
+|Y
+|U 
+|-
+|I
+|O
+|}
+
+====PlayStation Controller Music Note Layouts====
+<gallery>
+File:Dualshock 4 Music Layout A.png|alt=C1: Left joystick down. D1: Left joystick left. E1: Directional down. F1: Directional left. G1: Left bumper 1. A1: Directional up. B1: Left bumper 2. C2: Right joystick down. D2: Right joystick right. E2: Right joystick up. F2: X button. G2: Circle button. A2: Triangle button. B2: Right bumper 1. C3: Right bumper 2.
+File:Dualshock 4 Music Layout B.png|alt=C1: Left joystick down. D1: Left joystick up. E1: Right joystick down. F1: Right joystick up. G1: Directional down. A1: X button. B1: Directional left. C2: Square button. D2: Directional up. E2: Triangle button. F2: Directional right. G2: Circle button. A2: Left bumper 1. B2: Right bumper 1. C3: Right bumper 2.
+File:Dualshock 4 Music Layout C.png|alt=C1: Left bumper 2. D1: Right bumper 2. E1: Directional down. F1: X button. G1: Directional left. A1: Square button. B1: Directional up. C2: Triangle button. D2: Directional right. E2: Circle button. F2: Left bumper 1. G2: Right bumper 1. A2: Left joystick left. B2: Right joystick left. C3: Right joystick right.
+File:Dualshock 4 Music Layout 8 notes.png|alt=Note 1: Directional up. 2: Triangle. 3: Directional left. 4: Square. 5: Directional down. 6: X. 7: L2. 8: R2.
+</gallery>
+
+====Nintendo Switch Controller Music Note Layouts====
+<gallery>
+File:Nintendo Switch Controller Music Layout A.png|alt=C1: ZL bumper. D1: ZR bumper. E1: Directional down. F1: B button. G1: Directional left. A1: Y button. B1: Directional up. C2: X button. D2: Directional right. E2: A button. F2: L bumper. G2: R bumper. A2: Left joystick left. B2: Right joystick left. C3: Left joystick right.
+File:Nintendo Switch Controller Music Layout B.png|alt=C1: Directional down. D1: Directional left. E1: Directional up. F1: Left joystick down. G1: Left joystick left. A1: Left bumper. B1: ZL bumper. C2: Right joystick down. D2: Right joystick right. E2: Right joystick up. F2: B button. G2: A button. A2: X button. B2: R bumper. C3: ZR bumper.
+</gallery>
+<section end="controller_music" />
+
+==Keyboard==
+Below are the controls and what each button does in normal gameplay for players on Mac and Steam. There are also button prompts within menus. Players on Steam can also remap the controls by going to Settings->Controls->Customize.
+[[File:PC-Keyboard-Layout.png|Keyboard Layout|none|thumb|500px]]
+* WASD = Move
+* Space = Jump / Fly
+* Mouse = Look
+* Scroll Wheel = Zoom
+* F / Left Mouse Button = Activate
+* E = Express
+* X = Item Ability
+* Alt = Show Cursor
+* Q / Right Mouse Button = Call
+* Tab = Flight Toggle
+* Esc = Menu
+* Z / Middle Mouse Button = Controller Map
+* R = Currency
+* Shift = Show Quests
+* C = Chat Log
+* Enter = Chat
+{{Navigation Box}}
+[[ru:Меню и управления]]
+[[de:Menü und Bedienung]]
+[[fr:Menus et contrôles]]
+[[pt-br:Menus e Controles]]
+
+
+
+[[Category:Videos]]
+[[Category:Basic Guides]]
+[[Category:Menus]]

@@ -1,0 +1,90 @@
+{{Spirit Infobox
+|type      = Non
+|emote_type= None
+|image     = Sense-of-Self-Shop.png
+|cosmetics = <!--
+-->{{Spirit Item|Sense of Self|Shoes|infobox}}<!--
+-->{{Spirit Item|Sense of Self|Neckpiece|infobox}}<!--
+-->{{Spirit Item|Sense of Self|Hairpiece|infobox}}
+|music     = {{Music Sheet|42}}
+|season    = Moomin
+|realm     = Vault of Knowledge
+|location  = [[Moominvalley Glade]]
+|ts        = None
+}}
+<section begin="Summary" />The '''Sense of Self''' is a [[Ancestors#Seasonal Entities|Seasonal Shop]] from the [[Season of Moomin]]. The Sense of Self is found on a grassy mound to the right in [[Moominvalley Glade]]. Unlike typical [[Seasonal Spirits]], there is no need to first relive a [[Spirit Memories|Spirit memory]] to access this Shop and it does not offer an [[Expression]]. The collectibles offered by this Shop are {{Spirit Item|Sense of Self|Shoes|inline_text}}, a {{Spirit Item|Sense of Self|Neckpiece|inline_text}}, a {{Spirit Item|Sense of Self|Hairpiece|inline_text}}, and {{Music Sheet|42|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Comfort-of-Kindness-and-Sense-of-Self-Shops.png|thumb|320px|none|The Comfort of Kindness and Sense of Self]]
+
+==Cosmetics==
+===<span id="Shoes">Shoes</span>===
+The [[Shoes]] offered by this Shop are orange and covered by white leg warmers decorated with a small diamond near the hem<!--, costing {{Cost| ??? C}} from the Traveling Spirit-->. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|30 SC|season=Moomin}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Sense of Self|Shoes|icon}} {{!}} The Shoes icon
+{{Icon Name|Sense of Self|Shoes|real}} {{!}} The Shoes
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines
+}}
+
+===<span id="Necklace">Neck Accessory</span>===
+The [[Neck Accessory]] offered by this Shop is a small silver bell attached to an orange ribbon that wraps around the player's neck<!--, costing {{Cost| ??? C}} from the Traveling Spirit-->. When equipped, this item adds a gentle bell jingling sound effect to the player's movements. It was offered to all players for {{Cost|24 SC|season=Moomin}} during the Season, from the Friendship Tree's third node. For information about the [[Bell Call]], please visit [[Bell Call|here]].<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Sense of Self|Neckpiece|icon}} {{!}} The Neck Accessory icon
+{{Icon Name|Sense of Self|Neckpiece|real}} {{!}} The Neck Accessory
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines
+}}
+
+===<span id="Hair Accessory">Hair Accessory</span>===
+The [[Hair Accessory]] offered by this Shop is a yellow bow tied to the back of the player's head<!--, costing {{Cost| ??? C}} from the Traveling Spirit-->. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|82 SC|season=Moomin}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Sense of Self|Hairpiece|icon}} {{!}} The Hair Accessory icon
+{{Icon Name|Sense of Self|Hairpiece|real}} {{!}} The Hair Accessory
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines
+}}
+
+==<span id="Music">Music Sheet</span>==
+The Sense of Self offers {{Music Sheet|42}} [[Music Sheet]] #42<!--, costing {{Cost| ??? C}} from the Traveling Spirit-->. It was offered to all players for {{Cost|12 SC|season=Moomin}} during the Season, from the Friendship Tree's first node. It is a song in the key of C major.<br>
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guide
+|content=
+{{#ev:youtube|Wx0MYyiOjw4||inline|Music Sheet Video Guide by Ikejiji}}
+}}
+
+==Season Friendship Tree==
+{{Friendship Tree Info | season| season=Moomin}}<section begin="Season Friendship Tree" />
+{{Friendship Tree
+|spirit = Sense of Self
+|image  = Sense-of-Self-Shop.png
+|type   = season
+|season = Moomin
+
+|nodeC5 = season_heart 3 SC SP
+
+|nodeL4 = Hairpiece SP
+|nodeC4 = spellx 28 SC
+
+|nodeL3 = spellx SP
+|nodeC3 = Neckpiece 24 SC
+
+|nodeL2 = Shoes SP
+|nodeC2 = spellx 18 SC
+
+|nodeL1 = spellx SP
+|nodeC1 = music42 12 SC
+}}<section end="Season Friendship Tree" />
+
+==Trivia==
+*The Sense of Self is inspired by [https://www.moomin.com/en/characters/ninny-the-invisible-child/ Ninny] in Tove Jansson's [[wp:Moomins|''Moomins'']] series.
+*The {{Spirit Item|Sense of Self|Neckpiece|inline_text}} is one of the required cosmetics for the [[Bell Call]].
+
+==References==
+<references />
+
+[[pt-br:Senso de Identidade]]
+[[ja:自己の確立]]
+[[zh:自我的意識]]
+[[fr:Sens de soi]]

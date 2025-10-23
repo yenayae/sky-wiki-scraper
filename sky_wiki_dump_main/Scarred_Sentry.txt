@@ -1,0 +1,214 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type = Emote
+|image     = Scarred-Sentry-Spirit-cutout.png
+|cosmetics = <!--
+-->{{Spirit Item|Scarred Sentry|Outfit|infobox}}<!--
+-->{{Spirit Item|Scarred Sentry|Shoes|infobox}}<!--
+-->{{Spirit Item|Scarred Sentry|Hair_c|infobox}}<!--
+-->{{Spirit Item|Scarred Sentry|Hair_p|infobox}}<!--
+-->{{Spirit Item|Scarred Sentry|Cape|infobox}}
+|props     = <!--
+-->{{Spirit Item|Scarred Sentry|Prop_c|infobox}}<!--
+-->{{Spirit Item|Scarred Sentry|Prop_s|infobox}}
+|season    = The Two Embers - Part 1
+|realm     = Golden Wasteland
+|location  = [[The Last City]]
+|ts        = None
+}}
+<section begin="Summary" />The Scarred Sentry is a [[Seasonal Spirit]] from the [[Season of The Two Embers - Part 1]] who offers the {{Emote|Scarred Sentry|inline_text}}. The Scarred Sentry is found in [[The Last City]], before the Temple gates, at the back of the Marketplace. The collectibles [[#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Scarred Sentry|Outfit|inline_text}}, {{Spirit Item|Scarred Sentry|Shoes|inline_text}}, a {{Spirit Item|Scarred Sentry|Hair_c|inline_text}}, a {{Spirit Item|Scarred Sentry|Hair_p|inline_text}}, a {{Spirit Item|Scarred Sentry|Cape|inline_text}}, a {{Spirit Item|Scarred Sentry|Prop_c|label=Sentry Shield Prop|inline_text}}, and a {{Spirit Item|Scarred Sentry|Prop_s|label=Sentry Spear Prop|inline_text}}.<section end="Summary" /><br><br>
+[[File:Scarred_Sentry.png|none|thumb|320px|TGC's Promo image]]
+
+== Memory ==
+<!--<div>{{#ev:youtube|YoutubeID|200px|inline|Video Guide}}-->
+
+The [[Scarred Sentry]] can be found in [[The Last City]], before the large Temple gates, guarded by two sentries, at the back of the Marketplace. 
+
+Unlike other Spirits, the Scarred Sentry has no memory that can be relived, but rather a Seasonal Quest dedicated to them. With the Spirit traumatized from recent events and unable to move, players complete a series of tasks, helping the Spirit gain back their bravery and defend against instruders.
+
+Players can interact with the Scarred Sentry without completing any Quests. However, only if no Quest is active can they be interacted with, which can be done by starting a Quest from the [[Season of The Two Embers - Part 1]], teleporting Home, and then using the Return Shrine to go back to The Last City. Now no Quest will be active and the player can explore the area freely.
+
+==<span id="Expression">Stance</span>==
+This Spirit offers the {{Emote|Scarred Sentry|inline_text}}, which gives the player's avatar a braced look, as if getting ready to fight and defend. The Stance affects the avatar's position when standing, kneeling, sitting, or lying down.
+{{#tag:gallery
+|{{Icon Name||Emote}}
+<!--Scarred-Sentry-injured-stance-emote.gif {{!}} {{Icon Name||emote_name}} -->
+Scarred-Sentry-Stance-up.png {{!}} {{Icon Name||emote_name}} (Standing)
+Scarred-Sentry-Stance-kneeling.png {{!}} {{Icon Name||emote_name}} (Kneeling)
+Scarred-Sentry-Stance-sitting.png {{!}} {{Icon Name||emote_name}} (Sitting)
+Scarred-Sentry-Stance-laying-down.png {{!}} {{Icon Name||emote_name}} (Lying down)
+|heights=170px|captionalign=center|spacing=small
+}}
+
+*Standing will make your avatar ball their fists and step back into a fighting stance, right elbow pulled tightly back and left forearm held perpendicular to the ground.
+*Kneeling will make your avatar kneel up, and bring their left arm up into a high block.
+*Sitting will make your avatar sit with their feet on the floor and knees bent. Their arms will relax slightly.
+*Lying Down will make your avatar lie prone with one knee hiked up. Both arms are moved to cover their face as they peek from between their hands.
+
+==Cosmetics==
+===<span id="Outfit">Outfit</span>===
+The [[Outfit]] offered by this Spirit is a purple and green tunic with rolled-up sleeves, gloves, and a simple sword at the belt. The bottom edge of the tunic reveals a matching undershirt with a golden triangle-patterned trim. The Outfit's loose pants are cinched at the knee. It was available to all players during the Season from the Friendship Tree's fourth node ({{Cost|48 SC|season=Two Embers - Part 1}} total).<br><br>
+{{Dye_Details
+|area1=the tunic
+|cost1=3
+|area2=the sleeve edges and undershirt
+|cost2=2
+}}<br><br>
+{{#tag:gallery
+|{{Icon Name|Scarred Sentry|Outfit|icon}} {{!}} The Outfit icon
+{{Icon Name|Scarred Sentry|Outfit|real}} {{!}} The Outfit front
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Shoes">Shoes</span>===
+The [[Shoes]] offered by this Spirit are a pair of thick brown boots with criss-crossing straps. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|48 SC|season=Two Embers - Part 1}} total).<br><br>
+{{#tag:gallery
+|{{Icon Name|Scarred Sentry|Shoes|icon}} {{!}} The Shoes icon
+{{Icon Name|Scarred Sentry|Shoes|real}} {{!}} The Shoes
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Hair">Hairstyles</span>===
+This Spirit offers a total of two Hairstyles: a [[#Cracked Helmet|Cracked Helmet]] and a [[#Plummed Helmet|Plummed Helmet]].
+====Cracked Helmet====
+''Not to be confused with the [[#Plummed Helmet|Plummed Helmet]]''.
+
+The first [[Hair]] offered by this Spirit consists of a damaged helmet and a high bun. The helmet is black, and the silver rim around the nose- and cheek-guards is chipped. The bun is tied with a red band and leaves the hair's ends peeking out. It was available to all players from the Friendship Tree's second node ({{Cost|10 SC|season=Two Embers - Part 1}} total).<br><br>
+{{#tag:gallery
+|{{Icon Name|Scarred Sentry|hair_c|icon}} {{!}} The Hair icon
+{{Icon Name|Scarred Sentry|hair_c|real}} {{!}} The Hair 
+{{Icon Name|Scarred Sentry|hair_c|side}} {{!}} The Hair side
+{{Icon Name|Scarred Sentry|hair_c|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Plummed Helmet====
+''Not to be confused with the [[#Cracked Helmet|Cracked Helmet]]''.
+
+The second [[Hair]] offered by this Spirit consists of a round helmet and a high ponytail. The helmet is dark gray, with a mute silver rim around the protruding cheek-guards and v-shape between the eyes. The ponytail is tied high at the back and a bit feathered. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|10 SC|season=Two Embers - Part 1}} total).<br><br>
+{{#tag:gallery
+|{{Icon Name|Scarred Sentry|hair_p|icon}} {{!}} The Hair icon
+{{Icon Name|Scarred Sentry|hair_p|real}} {{!}} The Hair 
+{{Icon Name|Scarred Sentry|hair_p|side}} {{!}} The Hair side
+{{Icon Name|Scarred Sentry|hair_p|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Cape">Cape</span>===
+The [[Cape]] offered by this Spirit is a long, burgundy cape over wide neck armor. The armor piece is pale brown with silver outlines and an emblem at the chest. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's third node ({{Cost|26 SC|season=Two Embers - Part 1}} total).<br><br>
+{{Dye_Details
+|area1=the interior & a gradient strongest at the bottom of the Cape
+|cost1=4
+}}<br><br>
+{{#tag:gallery
+|{{Icon Name|Scarred Sentry|Cape|icon}} {{!}} The Cape icon
+{{Icon Name|Scarred Sentry|Cape|front}} {{!}} The Cape front
+{{Icon Name|Scarred Sentry|Cape|interior}} {{!}} The Cape interior
+{{Icon Name|Scarred Sentry|Cape|real}} {{!}} The Cape back
+{{Icon Name|Scarred Sentry|Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Prop">Props</span>===
+This Spirit offers a total of two Props: a [[#Sentry Shield|Sentry Shield]] and a [[#Sentry Spear Prop|Sentry Spear]].
+====Sentry Shield====
+The first [[Prop]] offered by this Spirit is a worn, dark green shield with silver edges. The center is decorated with a silver emblem: a four-pointed star with a wide top arm, surrounded by four diamonds. When equipped, the shield is held with one arm at the side—upon selecting its {{Spirit Item|Scarred Sentry|prop_c|icon}} icon at the bottom of the screen, the avatar jumps and holds up the shield in front of them. It cannot be placed and therefore cannot be used in [[Shared Spaces]]. When carried on its owner's back, the Prop appears in its original form. It was available to all players during the Season from the Friendship Tree's fifth node ({{Cost|76 SC|season=Two Embers - Part 1}} total).<br><br>
+{{#tag:gallery
+|{{Icon Name|Scarred Sentry|prop_c|icon}} {{!}} The Prop icon
+{{Icon Name|Scarred Sentry|prop_c|real}} {{!}} The Prop
+{{Icon Name|Scarred Sentry|prop_c|held}} {{!}} Using the Prop
+{{Icon Name|Scarred Sentry|prop_c|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Sentry Spear====
+The second [[Prop]] offered by this Spirit is a wide-bladed spear with a glowing diamond in the center. The shaft has two cord-wrapped grips. When equipped, the spear is held with one arm at the side—upon selecting its {{Spirit Item|Scarred Sentry|prop_s|icon}} icon at the bottom of the screen, the avatar performs a spin trick with it. It cannot be placed and therefore cannot be used in [[Shared Spaces]]. When carried on its owner's back, the Prop appears in its original form. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's sixth node ({{Cost|110 SC|season=Two Embers - Part 1}} total).<br><br>
+{{#tag:gallery
+|{{Icon Name|Scarred Sentry|prop_s|icon}} {{!}} The Prop icon
+{{Icon Name|Scarred Sentry|prop_s|real}} {{!}} The Prop
+{{Icon Name|Scarred Sentry|prop_s|held}} {{!}} Using the Prop
+{{Icon Name|Scarred Sentry|prop_s|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+<!--   ONLY APPLICABLE ONCE SPIRIT HAS BECOME A TRAVELING SPIRIT 
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling
+|ts_dates=*June 19, 2019 (#01)
+*June 19, 2020 (#02)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = SPIRITNNAME
+|image = Scarred-Sentry-Spirit-cutout.png
+|season = season
+
+|nodeC7 = season_heart 3 SC SP
+
+|nodeL6 = prop_s SP
+|nodeC6 = White-dye-container-icon.png 34 SC
+
+|nodeL5 = Random-dye-icon.png SP
+|nodeC5 = prop_c 28 SC
+
+|nodeL4 = shoes SP
+|nodeC4 = outfit 22 SC
+
+|nodeL3 = cape SP
+|nodeC3 = Purple-dye-container-icon.png 16 SC
+
+|nodeL2 = hair SP
+|nodeC2 = hair 10 SC
+
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+The hints given before the Scarred Sentry's first appearance were: 
+{{Collapse
+|label=First Visit Hints
+|content=<div>
+*  [ hints can be on the official Sky Discord which are posted a few days before the traveling spirit by staff of thatgamecompany. ]
+</div>
+}}
+-->
+
+==Season Friendship Tree ==
+{{Friendship Tree Info | season| season=Two Embers Part 1}} <section begin="Season Friendship Tree" />
+{{Friendship Tree
+|spirit = Scarred Sentry
+|image  = Scarred-Sentry-Spirit-cutout.png
+|type   = season
+|season = Two Embers Part 1
+
+|nodeC7 = season_heart 3 SC SP
+
+|nodeL6 = prop_s SP
+|nodeC6 = White-dye-container-icon.png 34 SC
+
+|nodeL5 = Random-dye-icon.png SP
+|nodeC5 = prop_c 28 SC
+
+|nodeL4 = shoes SP
+|nodeC4 = outfit 22 SC
+
+|nodeL3 = cape SP
+|nodeC3 = Purple-dye-container-icon.png 16 SC
+
+|nodeL2 = hair_p SP
+|nodeC2 = hair_c 10 SC
+
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Personality==
+On August 11, 2025, TGC officially announced and introduced the Scarred Sentry with the following personality traits:
+*🥁Will joke to change the conversation if it reminds them of certain topics
+*🔨Even now, still daydreams about being a carpenter
+*🦜Saves a little bit of their rations each day to feed to the birds
+*🤭Is strict only when they really have to be
+
+==References==
+<references />
+[[fr:Sentinelle marquée]]
+[[ja:手負いの巡回兵]]
+[[pt-br:Sentinela Marcado]]

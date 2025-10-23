@@ -1,0 +1,75 @@
+{{WIP
+|pagetype = elder
+|placedby =
+|comment  =
+}}
+{{Spirit Infobox
+|type       = Elder
+|image      = Elder-Spirit-Vault.png
+|emote_type = none
+|cosmetics  = {{Spirit Item||Hair|infobox|label=Vault Elder Hair}}<!--{{Spirit Item||Hair|infobox|label=Vault Elder Mask}}{{Spirit Item||Cape|infobox|label=Vault Elder Cape}}-->
+|realm      = Vault of Knowledge
+|location   = Vault Summit
+|related    = {{Spirit Group|elder|infobox|exclude={{PAGENAME}}}}
+}}
+
+The '''Elder of the Vault''' (also known as '''Vault Elder''') can be found at the [[Summit Vault|Summit]] of the [[Vault of Knowledge]]. Relive the Elder's memory to activate all the Spirits that you previously found in the [[Vault of Knowledge]] and open the way to [[Eye of Eden]]. 
+
+==Memory==
+<div>
+{{#ev:youtube|XOPpzw2g8lY||inline|Vault Elder Cutscene}}
+The kneeling Elder with the octahedron looks up towards the child (you). They make beckoning gesture and the child approaches with flame in hand. The Elder picks up the octahedron and brings it up to their face with their eyes closed briefly. They hold out the octahedron to the child and nod, signaling for the child to do the same. The child complies and the flame enters the octahedron. The Elder hands the child the dimly glowing octahedron. Looking up, the child releases the octahedron as it floats up into the darkness.
+
+Against the starry background, the camera pans down towards an dim octahedron. It fills up with light. Each of the realm's constellations radiate out and transform into beautiful murals, depicting each Elder's story. 
+
+After the final Vault constellation mural is revealed, all the Elders appear standing in line (from left to right: Forest, Wasteland, Vault, Prairie, Isle, and Valley). The Vault Elder lowers their arms and the murals fade away behind them.
+
+One at a time, all of them but the Vault Elder slowly kneel before you. The camera pans up towards a constellation in the shape of a crown. It transforms into a kneeling royal holding a floating orb in front of a castle and pillars.
+</div>
+{{Clear}}
+
+==Cosmetics==
+===<span id="Hair">Ultimate Hair</span>===
+The Ultimate [[Hair]] costs {{Cost|5 AC}} and is only available once you have completed the Vault of Knowledge [[Constellation]]. It is a smooth, fitted, hood-like hairstyle that is rounded at the bottom and goes over the shoulders, only leaving a hole for the face.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} Ultimate Hair icon
+{{Icon Name||Hair|real}} {{!}} Ultimate Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+<!--===<span id="Mask">Ultimate Shield Mask</span>===
+The Ultimate Shield Mask costs {{Cost|300 AC}}.
+
+[[File:Elder-Mask-Icon-Vault-Morybel-0146.png|x125px]]
+[[File:<>.png|x125px]]
+
+===<span id="Cape">Ultimate Cape</span>===
+The Ultimate Cape costs {{Cost|999 H}}.
+
+[[File:Elder-Cape-Icon-Vault-Morybel-0146.png|x125px]]
+[[File:<>.png|x125px]]
+-->
+
+==Friendship Tree==
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Vault Elder
+<!--|image = Vault Elder asc.jpg-->
+
+<!--|nodeL2 = Elder-Mask-Icon-Vault-Morybel-0146.png 300 AC
+|nodeC2 = Question-mark-Ray.png 999 H-->
+|nodeC1 = hair 5 AC
+}}<section end="Friendship Tree" />
+
+==Trivia==
+*The Elder of the Vault is featured in a piece of merch from thatskyshop, in the form of the [[That Sky Shop/Wave 10#Elder of the Vault Pin|Elder of the Vault Pin]]. It has a STAR feature which allows you and the friends holding your hand to teleport to the Elder Temple in the Vault of the Knowledge.
+
+==Gallery==
+<gallery widths="200">
+File:Vault Elder asc.jpg
+Elder-Spirit-Vault-face-down.png
+</gallery>
+
+[[fr:Ancien de la Chambre Forte]]
+[[pt-br:Anciã do Relicário]]
+[[de:Ältester des Tresors]]

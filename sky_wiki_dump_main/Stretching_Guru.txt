@@ -1,0 +1,164 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = Gratitude-Spirit-Stretching-Guru.png
+|cosmetics = {{Spirit Item||Hair|infobox}}{{Spirit Item||Cape|infobox}}
+|season    = Gratitude
+|realm     = Daylight Prairie
+|location  = Prairie Caves
+|ts        = April 10, 2025 (#137)<br/>March 17, 2022 (#57)<br/>April 30, 2020 (#8)
+}}
+<section begin="Summary" />The '''Stretching Guru''' is a [[Seasonal Spirit]] from the [[Season of Gratitude]] who offers the {{Emote|Stretching Guru|inline_text}} Expression. The Stretching Guru is found in the large central cavern of the [[Prairie Caves]], on a stepped hill to the player's left when entering from the [[Butterfly Fields]]. The collectibles [[#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Stretching Guru|Hair|inline_text}} and a {{Spirit Item|Stretching Guru|Cape|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Stretching-Guru-promo-image.jpg|thumb|320px|none|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|_Atgn5k2kBY|200px|inline|Video Guide}}
+
+The Stretching Guru can be found in the large central cavern of the [[Prairie Caves]], on a stepped hill to the player's left when entering from the [[Butterfly Fields]]. This Spirit has a [[Carry Spirit Memory|carry spirit memory]] with 6 memory fragments and an unlimited overall [[Timed Memory|time limit]]. 
+
+Note that certain memory fragments require flying and carrying the light into the air to advance. 
+
+As their memory unfolds, the Stretching Guru can be seen moving across the cave and up the stepped slope on the other side, dancing and striking poses. The memory ends outside the tunnel leading to the [[Social Light|Cozy Hideout]].
+
+At the end of the memory, the Stretching Guru lowers their head before stretching their arms upwards, making their hands meet at the top.<br>
+<br>
+[[File:01 DP Spirit - Stretching Guru.png|200px|thumb|none|Relive the Stretching Guru's memory]]
+</div>
+{{Clear}}
+
+==Expression==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Stretching-Guru-yoga-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Stretching-Guru-yoga-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Stretching-Guru-yoga-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Stretching-Guru-yoga-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar lower their head before stretching their arms out above their head and touch their hands together, while instrumental notes play.
+*Level 2 makes the same motion as Level 1, with a white ring of light encircling each of your avatar's hands.
+*Level 3 will make your avatar perform the same motion as in Level 1 but at a quicker pace, before letting their upper body fall down, hands still joined together, and stand up straight again with their arms swinging up with the motion, while instrumental notes play.
+*Level 4 makes the same motion as Level 3, with a white ring of light encircling each of your avatar's hands during the first half of the Expression.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+==Cosmetics==
+===Hair===
+The [[Hair]] offered by this Spirit is a wide, orange, cone-shaped hat with a yellow tip, sitting on tied-up hair, costing {{Cost|26 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's second node ({{Cost|6 SC|season=Gratitude}} total). Note that this item is considered a Hair, not a [[Hair Accessory]], and as such it can not be worn over other Hairstyles.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Cape===
+The [[Cape]] offered by this Spirit is orange with yellow details, a big rounded trim, and a fluffy brown fur interior that goes over the bottom edge and includes a V-shaped neckpiece, costing {{Cost|65 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|24 SC|season=Gratitude}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||Cape|interior}} {{!}} The Cape interior
+{{Icon Name||Cape|back}} {{!}} The Cape back
+<!--{{Icon Name||Cape|exterior}} {{!}} The Cape exterior-->
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Traveling Spirit==
+[[File:Gratitude Prairie.png|200px|right|thumb]]
+{{Friendship Tree Info | traveling
+|ts_dates=*April 10, 2025 (#137)
+*March 17, 2022 (#57)
+*April 30, 2020 (#8)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Stretching Guru
+|season = Gratitude
+|image  = Gratitude-Spirit-Stretching-Guru.png
+
+|nodeC6 = Cape 65 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Hair 26 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}
+<section end="TS Friendship Tree" />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+No hints were given before the [[Stretching Guru]]'s first appearance.
+
+The hints given before the [[Stretching Guru]]'s second appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Second Visit Hints
+|content=<div>
+* Their favorite holiday is Halloween 
+* Has thought about starting an aquarium 
+* Is reminding you to have some vitamin C
+* Enjoys some light hiking
+* Dislikes all candy sweets, except for 1
+* Has unsettling dreams
+* Is really into health food
+* Their favorite flavor is citrus
+* Had great skin
+* Enjoys weekend brunches with Water Prophet
+* Is not a good swimmer
+* Enjoys relaxing by a warm fire
+* Considers rainbows lucky
+* Only recently learned some outdoor skills
+* Has never played a video game
+* Was inspired to visit you all because of recent stories their friend shared
+* Likes spicy foods best
+* Is working on their rock climbing skills
+* Has never had a french fry
+* Used to be a pro-skateboarder
+* Really likes candy corn
+* Likes directing traffic?
+* Watches you as you fly by️
+* Virgo sun, Taurus moon
+</div>
+}}
+
+==Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Gratitude}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Stretching Guru
+|image  = Gratitude-Spirit-Stretching-Guru.png
+|type   = season
+|season = Gratitude
+
+|nodeC5 = Cape 5 H SP
+|nodeC4 = spell5 10 SC
+|nodeL3 = emote4 SP
+|nodeC3 = emote3 8 SC
+|nodeL2 = spell5 SP
+|nodeC2 = Hair 6 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Sog_prairie.jpg
+Gratitude Prairie Emote.jpg
+SoG Prairie Map2.png
+</gallery>
+
+==References==
+<references />
+
+[[de:Sich dehnender Guru]]
+[[fr:Gourou en étirement]]
+[[pt-br:Guru Alongando]]
+[[ru:Растягивающийся гуру]]
+[[ja:屈伸する導師]]

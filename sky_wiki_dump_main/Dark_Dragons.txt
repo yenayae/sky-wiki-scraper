@@ -1,0 +1,85 @@
+{{Creature Infobox
+|title    = Dark Dragons
+|type     = dark
+|image    = Clean-krill-angled.png
+}}
+<section begin="Summary" />'''Dark Dragons''', also known as “'''Krill'''” by the community, are first encountered by the player in Golden Wasteland's [[First Krill Area]]. They are large, black, floating Dark Creatures with several pairs of legs and one glowing blue eye which searches the terrain with its searchlight. <section end="Summary" />
+
+[[File:Dark-Dragon-silhouette.png|none|thumb|400x400px|A Dark Dragon silhouette]]
+==Locations==
+Dark Dragons are predominantly in Golden Wasteland, but they are also found in other areas and during certain events.  
+
+'''<u>Permanent Dark Dragons:</u>'''   
+
+*One lurks at the entrance of [[graveyard]]
+*Four occupy the [[Graveyard]] area
+*One patrols the [[Shipwreck]] to the right of the Graveyard
+*Three emerge in the [[Battlefield]] after the player activates the cutscene at the Wasteland temple's entrance
+*One is located at the [[Forgotten Ark]] guarding the entrance
+*Five can be found in the Abyss in the [[Season of Abyss|Treasure Reef]]
+*Two of them patrol the pipes area in [[Eye of Eden]]
+*One patrols nearby Storm Lock Hallway
+
+'''<u>Dark Dragons during events:</u>''' 
+*One emerges after burning dark plants from the toilet during certain events in the [[Secret Area]] (harmless)
+*Two patrol the rooftop of the office in the Secret Area during [[Days of Mischief]]
+*Three fly in the blood moon sky in the [[The Cackling Crab|Cackling Crab]], 
+*Another flies in and out giving you a ride during [[Days of Mischief]] (harmless)
+
+==Getting attacked by Dark Dragons==
+The luminescent blue eye turns red when a player, or a Creature of Light, enters its field of vision. When the light becomes red, the Dark Dragon(s) will target and follow the player(s) that triggered it and charge towards its target after a delay of about five seconds. From the time that the Dark Dragon spots its target to the time it hits the target is eight seconds. The light first turns red, then begins flashing rapidly.  
+
+[[File:Dark-Dragon-ready-to-hit.png|none|thumb|250px|A poised Dark Dragon]]
+
+==Avoiding a Dark Dragon's attack==
+Dark Dragons follow a set route around the area, which may prove helpful in predicting the movements of the Creature. To avoid the impending attack, players may take some actions:    
+*Hide behind objects that hinder the Dragon's field of vision, such as columns, walls, rocks, etc. The Dragon will remain in the area for a while, to determine if the Sky Kid reappears after being noticed, thus it is advised to remain hidden for a while to ensure the Dragon has returned to its path before continuing.
+*Wearing an [[Elders|Elder's]] face accessory to avoid one (1) attack from Dark Dragons.
+* Using a [[Blessings (Spells)#Dark Dragon Repellant Spell|Dark Dragon Repellant Spell]] to avoid multiple attack from Dark Dragons within 60 seconds.
+*Turning sharply in mid-air while flying, as the Dark Dragon begins its attack, however this requires a great deal of skill and timing.
+*Evade a mid-charge Dragon. They seem to have some sort of "lock-in timeout", in which if you manage to stay so far from a krill that it stops targeting after a certain amount of time and flies straight forward after, the krill can miss its target.
+
+''Note: If someone is spotted by a Dragon and heads towards where another player is standing, the Creature will inflict damage to both. The same is true if players are holding hands when spotted by a Dark Dragon.''
+
+==Losing Winged Light by a Dark Dragon ==
+An attack by a Dark Dragon causes the player to lose several Winged Light, normally between one to three – though it could be as high as six at a time. The number of lost winged light depends on the Cape levels owned by the player; the more your cape is developed, the more Winged Light you will lose.  The Winged Light will be knocked out of the player and land in the form of an orange Wing icon with a white light column. The player may attempt to recollect them, but they will eventually disappear after 14 seconds. Any player nearby may collect the scattered Winged Light for the one affected. 
+
+Since the [[Version History|0.18.0]] update, the new damage system makes you crawl after taking enough damage affecting the collection of wings even more.  
+
+Winged Light that are not retrieved will transform back into [[Children of Light]] and can be found back again randomly at their respective location in the Realm, meaning that there is no method of knowing its exact position or Realm.
+
+==Bugs and glitches ==
+Their unpredictable behavior, sometimes caused by in-game bugs, makes this Creature extremely annoying, and even scarier. It can dive underground mid-charge and reappear in hard to predict spots, sometimes hitting players it didn’t target. Rarely, it may also detect and react to players flying overhead, resulting in a sudden twisting contortion as the Dark Dragon snaps its attention toward the airborne player.
+
+If a player hides just as the Dragon starts charging, it may fly upward instead of forward, allowing it to spot players hiding below. Even then, it’s still possible to dodge using normal evasion techniques.
+
+When you enter the First Krill Area, a manta is supposed to be destroyed by a Dark Dragon and after that the Dark Dragon will go on its normal route. 
+
+==Community naming ==
+The community commonly refers to Dark Dragons as "krills" or "shrimps" because of their look and the way they move. The term "krill" is also used as a verb; players might say "I got krilled" when they’re attacked by one.
+
+== Variants==
+There are no variations of Dark Dragons; they are all large, black and glides above the ground.   However during certain events they will act or have different features.   
+* During [[Sky Anniversary]], Dark Dragons wear birthday hats (up until 2024 only).  
+* During [[Days of Mischief]] none of the Dragons in the [[The Cackling Crab|Cackling Crab]] attack you and one of them can be ridden.   
+<gallery widths="250" spacing="small" captionalign="center" >
+A-Krill-with-a-birthday-hat.png|A Krill with a birthday hat
+A-Krill-with-a-birthday-hat-poised.png|A poised Krill with a birthday hat
+</gallery>
+
+==Gallery==
+<gallery widths="152" spacing="small" captionalign="center" hideaddbutton="true">
+File:Black dragon.jpg|Side view of a Dark Dragon.
+Creature dark dragon.png|Neutral Dragon
+Creature dark dragon red.png|Dragon poised to attack
+File:Krill cackling cackling crab.jpg
+</gallery>
+
+==Trivia==
+* Dark Dragons are depicted in several merch items from [[That Sky Shop]]. To know more about That Sky Shop products, visit their website: https://thatskyshop.com
+
+[[Category:Creatures]]
+
+[[fr:Dragons Sombres]]
+[[pt-br:Dragões Sombrios]]
+[[de:Dunkeldrachen]]

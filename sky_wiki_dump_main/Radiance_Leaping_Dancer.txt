@@ -1,0 +1,196 @@
+{{Distinguish|Leaping Dancer}}
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Radiance-Leaping-Dancer-spirit-cutout-undyed.png|Original
+Radiance-Leaping-Dancer-spirit-cutout.png|Dyed
+</gallery>
+|cosmetics = {{Spirit Item|Radiance Leaping Dancer|Outfit|infobox}}{{Spirit Item|Radiance Leaping Dancer|Shoes|infobox}}{{Spirit Item|Radiance Leaping Dancer|Hair|infobox}}{{Spirit Item|Radiance Leaping Dancer|Cape|infobox}}
+|props     = {{Spirit Item|Radiance Leaping Dancer|Prop|infobox}}
+|season    = Radiance
+|realm     = Aviary Village
+|location  = [[Aviary_Village#Dye_Workshop|Dye Workshop]]
+|ts        = None
+}}
+<section begin="Summary" />The Radiance Leaping Dancer is a [[Seasonal Spirit]] from the [[Season of Radiance]]  who offers the {{Emote|Radiance Leaping Dancer|inline_text}} Expression. The Radiance Leaping Dancer was found in the [[Aviary Village]], to the left of the Village Plaza's [[Constellation Table]]. The collectibles [[#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Radiance Leaping Dancer|Outfit|inline_text}}, {{Spirit Item|Radiance Leaping Dancer|Shoes|inline_text}}, a {{Spirit Item|Radiance Leaping Dancer|Hair|inline_text}}, a {{Spirit Item|Radiance Leaping Dancer|Cape|inline_text}}, and a {{Spirit Item|Radiance Leaping Dancer|Prop|label=Curtain Wall Prop|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Radiance-Leaping-Dancer-Introduction-image.png|none|thumb|300x300px|TGC's Promo image]]
+
+==<span id="Expression">Expression</span>==
+This Spirit offers the {{Emote|Radiance Leaping Dancer|inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Radiance-Leaping-Dancer-cartwheel-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Radiance-Leaping-Dancer-cartwheel-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Radiance-Leaping-Dancer-cartwheel-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Radiance-Leaping-Dancer-cartwheel-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+*Level 1 will make your avatar crouch slightly, shift one leg before the other and slightly lift their hands at their sides, while a tinkling sound effect plays. This Expression will temporarily replace your basic walk and can be cancelled by flying up once. When moved, your avatar will raise their arms and leap sideways towards the ground to gain momentum and perform one cartwheel after another. A playful descending tone plays during each cartwheel.
+*Level 2 makes the same motion as Level 1, with white dust clouds appearing where the feet hit the ground after each completed cartwheel.
+*Level 3 will make your avatar lift their arms straight into the air and put one pointed foot forward, while several tinkling sound effects play. This Expression will temporarily replace your basic walk and can be cancelled by flying up once. When moved, your avatar will leap forward to stand on their hands, gain momentum and perform one cartwheel after another. The same playful descending tone as in Level 1 plays during each cartwheel.
+*Level 4 makes the same motion as Level 3, with colorful trails of light following the motion of the feet and hands, resulting in a colorful trail of big circles. The right foot and hand have a yellow trail which fades to green, the left hand has a white trail which is only turquoise at the base and turns completely pink, and the left foot has a fully red trail.
+
+<!--As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Heart|4}}, {{Heart|3}}, and {{Heart|6}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.-->
+
+==Cosmetics==
+===<span id="Outfit">Outfit</span>===
+The [[Outfit]] offered by this Spirit is an off-white tunic, with draping beige sleeves and pants underneath. The pants cinch just above the ankle. A sash with golden diamond-shaped ornaments is looped loosely from the tunic's waistbelt, and features similar pale accents to the sleeves. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fifth node ({{Cost|72 SC|season=Radiance}} total).<br>
+<br>
+{{Dye Details
+|area1=sleeves and pants
+|cost1=3
+|area2=the accents on the sash and sleeves, and the tunic's trim
+|cost2=2
+}}<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Radiance Leaping Dancer|Outfit}} {{!}} The Outfit icon
+{{Icon Name|Radiance Leaping Dancer|Outfit|real}} {{!}} The Outfit front
+{{Icon Name|Radiance Leaping Dancer|Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Shoes">Shoes</span>===
+The [[Shoes]] offered by this Spirit are a pair of high boots with a decorative strip running the entire height of the boots to the toe. The uncolored version of this cosmetic is dark brown on the height of the boot with paler tan decorations. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's seventh node ({{Cost|132 SC|season=Radiance}} total).<br>
+<br>
+{{Dye Details
+|area1= the center line, and the bottom part of the shoe to the ankle
+|cost1=1
+}}<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Radiance Leaping Dancer|Shoes|icon}} {{!}} The Shoes icon
+{{Icon Name|Radiance Leaping Dancer|Shoes|real}} {{!}} The Shoes
+|widths=125|spacing=small|captionalign=center|mode=nolines
+}}
+
+===<span id="Hair">Hair</span>===
+The [[Hair]] offered by this Spirit is a short-cropped bob hairstyle with stylized choppy bangs. It was offered to all players for {{Cost|12 SC|season=Radiance}} during the Season, from the Friendship Tree's second node ({{Cost|12 SC|season=Radiance}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Radiance Leaping Dancer|hair|icon}} {{!}} The Hair icon
+{{Icon Name|Radiance Leaping Dancer|hair|real}} {{!}} The Hair front
+{{Icon Name|Radiance Leaping Dancer|hair|side}} {{!}} The Hair side
+{{Icon Name|Radiance Leaping Dancer|hair|back}} {{!}} The Hair back
+|widths=125|spacing=small|captionalign=center|mode=nolines
+}}
+
+===<span id="Cape">Cape</span>===
+The [[Cape]] offered by this Spirit is a beige, gold-rimmed mantle that splits into three kite-shaped tails, both with pale diamond-shaped patterns. Two floating ribbons attach at the mantle and loop around the arms. The ribbons and cape sections are tipped with a gold diamond ornament each. The uncolored version of this Cape is beige, with a paler cream for the two outer tails, and off-white for the ribbons. It was offered to all players for {{Cost|28 SC|season=Radiance}} during the Season, from the Friendship Tree's sixth node ({{Cost|100 SC|season=Radiance}} total).<br>
+<br>
+{{Dye Details
+|area1=the mantle, ribbons, and central cape tail
+|area2=the two side tails
+|cost1=4
+|cost2=2
+}}<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Radiance Leaping Dancer|Cape|icon}} {{!}} The Cape icon
+{{Icon Name|Radiance Leaping Dancer|Cape|front}} {{!}} The Cape front
+{{Icon Name|Radiance Leaping Dancer|Cape|interior}} {{!}} The Cape interior
+{{Icon Name|Radiance Leaping Dancer|Cape|real}} {{!}} The Cape back
+{{Icon Name|Radiance Leaping Dancer|Cape|exterior}} {{!}} The Cape exterior
+|widths=125|spacing=small|captionalign=center|mode=nolines
+}}
+
+===<span id="Prop">Prop</span>===
+The [[Prop]] offered by this Spirit is a large red curtain attached with red string between two wooden poles, and with a yellow triangular ribbon, decorated with white ornaments, hanging on both sides. When carried on a player's back, the Prop appears as two poles wrapped with the red curtain and tied together with the ribbon. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's third node ({{Cost|28 SC|season=Radiance}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Radiance Leaping Dancer|Prop|icon}} {{!}} The Prop icon
+{{Icon Name|Radiance Leaping Dancer|Prop|real}} {{!}} The Prop
+Radiance-Leaping-Dancer-prop-back.png {{!}} The Prop back
+{{Icon Name|Radiance Leaping Dancer|Prop|back}} {{!}} The Prop on a player's back
+|widths=125|spacing=small|captionalign=center|mode=nolines
+}}
+
+<!--   ONLY APPLICABLE ONCE SPIRIT HAS BECOME A TRAVELING SPIRIT 
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling
+|ts_dates=*June 19, 2019 (#01)
+*June 19, 2020 (#02)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = SPIRITNNAME
+|image = 
+|season = season
+
+|nodeC6 = Outfit 60 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Mask 30 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+The hints given before the Radiance Leaping Dancer's first appearance were: 
+{{Collapse
+|label=First Visit Hints
+|content=<div>
+*  [ hints can be on the official Sky Discord which are posted a few days before the traveling spirit by staff of thatgamecompany. ]
+</div>
+}}
+-->
+==Season Friendship Tree==
+{{Friendship Tree Info | season| season=Radiance}} <section begin="Season Friendship Tree" />
+{{Friendship Tree
+|spirit = Radiance Leaping Dancer
+|image  = Radiance-Leaping-Dancer-spirit-cutout-undyed.png
+|type   = season
+|season = Radiance
+
+|nodeC8 = season_heart 3 SC SP
+
+|nodeL7 = shoes SP
+|nodeC7 = Yellow-dye-container-icon.png 32 SC
+|nodeR7 = 
+
+|nodeL6 = Yellow-dye-container-icon.png SP
+|nodeC6 = cape 28 SC
+|nodeR6 = 
+
+|nodeL5 = outfit SP
+|nodeC5 = Red-dye-container-icon.png 24 SC
+|nodeR5 =
+
+|nodeL4 = emote4 SP
+|nodeC4 = emote3 20 SC
+|nodeR4 =
+
+|nodeL3 = prop SP
+|nodeC3 = Red-dye-container-icon.png 16 SC
+|nodeR3 =
+
+|nodeL2 = Red-dye-container-icon.png SP
+|nodeC2 = hair 12 SC
+|nodeR2 =
+
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+|nodeR1 =
+}}<section end="Season Friendship Tree" />
+
+==Personality==
+On February 13, 2025, TGC officially announced and introduced the Radiance Leaping Dancer with the following personality traits<ref>[https://archive.md/gdAYJ https://x.com/thatskygame/status/1890204445339972024]</ref>:
+
+*❄️Loves bright outfit colors to contrast better with snow
+*🏆Has a hard time saying no when they’re challenged to a contest
+*👣Left alone for 30 seconds, they’ll start practicing dance moves
+*🕟Tends to forget their project in the dye pool, for hours
+
+==References==
+<references />
+
+[[fr:Danseur bondissant de l'Éclat]]
+[[ja:光に染まる飛び跳ねる舞踏家]]
+[[pt-br:Dançarino Saltitante do Resplendor]]
+[[fr:Danseur bondissant de l'Éclat]]
+[[zh:彩染跳躍舞者]]

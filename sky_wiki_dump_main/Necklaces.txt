@@ -1,0 +1,475 @@
+[[File:Sky-Closet-Masks-Morybel-0146.png|thumb|left|x200px|Icon used for the Mask Outfit Shrine]]
+'''Necklaces''' (including '''Pendants''' and '''Neck Accessories''') is the general term used in Sky for all [[Cosmetics]] that are worn on the player's neck or shoulders. Most of the Necklaces are [[Seasonal Events|Season]] Pendants, given automatically to any players who purchase that Season's [[Season Pass]].
+
+Necklaces share the second [[Outfit Shrine]] from the left with [[Masks]], where they are listed in the third tab (the bowtie {{Spirit Item|Comfort of Kindness|neckpiece}} icon). One Necklace, one Mask, and one [[Face Accessory]] can be worn simultaneously but all three can be worn individually as well.
+{{clear}}
+
+== Display ==
+<section begin="Display" />{{Cosmetics Tabber
+| {{Spirit Item| Gratitude | necklace_u | tab | link= }}
+| {{Spirit Item| Gratitude | necklace_u_real | closet_display | link=Gratitude_Guide#Seasonal_Pendant }}
+| {{Spirit Item| Lightseekers | necklace_u | tab | link= }}
+| {{Spirit Item| Lightseekers | necklace_u_real | closet_display | link=Lightseeker_Guide#Seasonal_Pendant }}
+| {{Spirit Item| Belonging | necklace_u | tab | link= }}
+| {{Spirit Item| Belonging | necklace_u_real | closet_display | link=Belonging_Guide#Seasonal_Pendant }}
+| {{Spirit Item| Rhythm | necklace_u | tab | link= }}
+| {{Spirit Item| Rhythm | necklace_u_real | closet_display | link=Rhythm_Guide#Seasonal_Pendant }}
+| {{Spirit Item| Enchantment Guide | necklace_u | tab | link= }}
+| {{Spirit Item| Enchantment Guide | necklace_u_real | closet_display | link=Enchantment_Guide#Seasonal_Pendant }}
+| {{Spirit Item| Sanctuary Guide | necklace_u | tab | link= }}
+| {{Spirit Item| Sanctuary Guide | necklace_u_real | closet_display | link=Sanctuary_Guide#Seasonal_Pendant }}
+| {{Spirit Item| Prophecy Guide | necklace_u | tab | link= }}
+| {{Spirit Item| Prophecy Guide | necklace_u_real | closet_display | link=Prophecy_Guide#Seasonal_Pendant  }}
+| {{Spirit Item| Dreams Guide | necklace_u | tab | link= }}
+| {{Spirit Item| Dreams Guide | necklace_u_real | closet_display | link=Dreams_Guide#Seasonal_Pendant }}
+| {{Spirit Item| Assembly Guide | necklace_u | tab | link= }}
+| {{Spirit Item| Assembly Guide | necklace_u_real | closet_display | link=Assembly_Guide#Seasonal_Pendant  }}
+| {{Spirit Item| The Rose | necklace_u | tab | link= }}
+| {{Spirit Item| The Rose | necklace_u_real | closet_display | link=The_Rose#Seasonal_Pendant  }}
+| {{Spirit Item| Flight Guide | necklace_u | tab | link= }}
+| {{Spirit Item| Flight Guide | necklace_u_real | closet_display | link=Flight_Guide#Seasonal_Pendant  }}
+| {{Spirit Item| Abyss Guide | necklace_u | tab | link= }}
+| {{Spirit Item| Abyss Guide | necklace_u_real | closet_display | link=Abyss_Guide#Seasonal_Pendant  }}
+| {{Spirit Item| Performance Guide | necklace_u | tab | link= }}
+| {{Spirit Item| Performance Guide | necklace_u_real | closet_display | link=Performance_Guide#Seasonal_Pendant  }}
+| {{Spirit Item| Shattering Guide | Necklace_u | tab | link= }}
+| {{Spirit Item| Shattering Guide | necklace_u_real | closet_display | link=Shattering_Guide#Seasonal_Pendant  }}
+| {{Spirit Item| AURORA Guide | Necklace_u | tab | link= }}
+| {{Spirit Item| AURORA Guide | necklace_u_real | closet_display | link=AURORA_Guide#Seasonal_Pendant  }}
+| {{Spirit Item| Remembrance Guide | Necklace_u | tab | link= }}
+| {{Spirit Item| Remembrance Guide | necklace_u_real | closet_display | link=Remembrance_Guide#Seasonal_Pendant  }}
+| {{Spirit Item| Passage Guide | Necklace_u | tab | link= }}
+| {{Spirit Item| Passage Guide | necklace_u_real | closet_display | link=Passage_Guide#Seasonal_Pendant  }}
+| {{Spirit Item| Moments Guide | Necklace_u | tab | link= }}
+| {{Spirit Item| Moments Guide | necklace_u_real | closet_display | link=Moments_Guide#Seasonal_Pendant  }}
+| {{Spirit Item| Hopeful Steward | Necklace_u | tab | link= }}
+| {{Spirit Item| Hopeful Steward | necklace_u_real | closet_display | link=Hopeful_Steward#Seasonal_Pendant  }}
+| {{Spirit Item| Spirit of Mural | Necklace_u | tab | label=Nine-Colored Deer Ultimate Pendant | link= }}
+| {{Spirit Item| Spirit of Mural | necklace_u_real | closet_display | link=Spirit_of_Mural#Seasonal_Pendant  | label=Nine-Colored Deer Ultimate Pendant }}
+| {{Spirit Item| Nesting Guide | Necklace_u | tab | link= }}
+| {{Spirit Item| Nesting Guide | necklace_u_real | closet_display | link=Nesting_Guide#Seasonal_Pendant  }}
+| {{Spirit Item| Duets Guide | Necklace_u | tab | link= }}
+| {{Spirit Item| Duets Guide | necklace_u_real | closet_display | link=Duets_Guide#Seasonal_Pendant  }}
+| {{Spirit Item| Moomin Guide | Necklace_u | tab | link= }}
+| {{Spirit Item| Moomin Guide | necklace_u_real | closet_display | link=Moomin_Guide#Seasonal_Pendant  }}
+| {{Spirit Item| Radiance Guide | Necklace_u | tab | link= }}
+| {{Spirit Item| Radiance Guide | necklace_u_real | closet_display | link=Radiance_Guide#Seasonal_Pendant  }}
+| {{Spirit Item| Blue Bird Guide | Necklace_u | tab | link= }}
+| {{Spirit Item| Blue Bird Guide | necklace_u_real | closet_display | link=Blue_Bird_Guide#Seasonal_Pendant  }}
+| {{Spirit Item| Vault Elder's Lantern | Necklace_u | tab | link= }}
+| {{Spirit Item| Vault Elder's Lantern | necklace_u_real | closet_display | link=Vault_Elder%27s_Lantern#Seasonal_Pendant  }}
+| {{Spirit Item| Hiking Grouch | Neckpiece | tab | link= }}
+| {{Spirit Item| Hiking Grouch | Neckpiece_real | closet_display }}
+| {{Spirit Item| Star Collector | Neckpiece | tab | link= }}
+| {{Spirit Item| Star Collector | Neckpiece_real | closet_display }}
+| {{Spirit Item| Talented Builder | Neckpiece | tab | link= }}
+| {{Spirit Item| Talented Builder | Neckpiece_real | closet_display }}
+| {{Spirit Item| Ancient Darkness | Neckpiece | tab | link= }}
+| {{Spirit Item| Ancient Darkness | Neckpiece_real | closet_display }}
+| {{Icon| Crab-Accessory-icon-STAR.png | tab | link= | label=Crab Plush Pin Keychain - Classic }}
+| {{Icon| Starpin-Crab-Plush-Classic.png | closet_display | link=That Sky Shop/Wave 8#Crab Plush Pin Keychain | label=Crab Plush Pin Keychain - Classic }}
+| {{Icon| Crab-Accessory-Special-I-icon-STAR.png | tab | link= | label=Crab Plush Pin Keychain - Special Edition I }}
+| {{Icon| Starpin-Crab-Plush-Special-Edition-I.png | closet_display | link=That Sky Shop/Wave 8#Crab Plush Pin Keychain | label=Crab Plush Pin Keychain - Special Edition I }}
+| {{Spirit Item| Pleading Child | Neckpiece | tab | link= }}
+| {{Spirit Item| Pleading Child | Neckpiece_real | closet_display }}
+| {{Spirit Item| Remembrance Guide | neckpiece_u | tab | link= }}
+| {{Spirit Item| Remembrance Guide | neckpiece_u_real | closet_display | link=Remembrance_Guide#Remembrance_Ultimate_Neck_Accessory }}
+| {{Spirit Item| Oddball Outcast | Neckpiece | tab | link= }}
+| {{Spirit Item| Oddball Outcast | Neckpiece_real | closet_display }}
+| {{Spirit Item| Sense of Self | Neckpiece | tab | link= }}
+| {{Spirit Item| Sense of Self | Neckpiece_real | closet_display }}
+| {{Spirit Item| Moomin Guide | Neckpiece_h | tab | link= | label=Hattifattener Shoulder Buddy }}
+| {{Spirit Item| Moomin Guide | Neckpiece_h_real | closet_display | label=Hattifattener Shoulder Buddy | link=Season of Moomin#Hattifattener Shoulder Buddy }}
+| {{Spirit Item| Comfort of Kindness | Neckpiece | tab | link= }}
+| {{Spirit Item| Comfort of Kindness | Neckpiece_real | closet_display }}
+| {{Spirit Item| Moomin Guide | Neckpiece_s | tab | link= | label=Roving Snufkin Scarf }}
+| {{Spirit Item| Moomin Guide | Neckpiece_s_real | closet_display | label=Roving Snufkin Scarf | link=Season of Moomin#Roving Snufkin Scarf }}
+| {{Spirit Item| Inspiration of Inclusion | Neckpiece | tab | link= }}
+| {{Spirit Item| Inspiration of Inclusion | Neckpiece_real | closet_display }}
+| {{Days Item| Days of Love Classy Cravat | icon | tab | link= }}
+| {{Days Item| Days of Love Classy Cravat | real | closet_display }}
+| {{Days Item| Ocean Necklace | icon | tab | link= }}
+| {{Days Item| Ocean Necklace | real | closet_display }}
+| {{Days Item| Nature Turtle Accessory | icon | tab | link= }}
+| {{Days Item| Nature Turtle Accessory | real | closet_display }}
+| {{Days Item| Ocean Blue Scarf | icon | tab | link= }}
+| {{Days Item| Ocean Blue Scarf | real | closet_display }}
+| {{Days Item| Jelly Shoulder Buddy | icon | tab | link= }}
+| {{Days Item| Jelly Shoulder Buddy | real | closet_display }}
+| {{Days Item| Style Dapper Necktie | icon | tab | link= }}
+| {{Days Item| Style Dapper Necktie | real | closet_display }}
+| {{Days Item| Feast Necktie | icon | tab | link= }}
+| {{Days Item| Feast Necktie | real | closet_display }}
+| {{Days Item| Winter Feast Scarf | icon | tab | link= }}
+| {{Days Item| Winter Feast Scarf | real | closet_display }}
+| {{Icon| Feast-Scarf-icon-STAR.png | tab | link= | label=Winter Feast Scarf}}
+| {{Icon| Transparent-Winter-Feast-Scarf.png | closet_display | link=That Sky Shop/Wave 8#Winter Feast Scarf | label=Winter Feast Scarf}}
+| {{Days Item| Cinnamoroll Bowtie | icon | tab | link= }}
+| {{Days Item| Cinnamoroll Bowtie | real | closet_display }}
+| {{Spirit Item| Moomin Guide | Neckpiece_m | tab | link= | label=Moomintroll Tail }}
+| {{Spirit Item| Moomin Guide | neckpiece_m_real | closet_display | label=Moomintroll Tail | link=Season of Moomin#Moomintroll Tail }}
+| {{Spirit Item| Vault Elder's Lantern | Neckpiece_s | tab | link= | label=Manatee Tail }}
+| {{Spirit Item| Vault Elder's Lantern | neckpiece_s_real | closet_display | label=Manatee Tail | link=Season_of_The_Two_Embers_-_Part_1#Spirited_Manatee_Ensemble }}
+| {{Spirit Item| Vault Elder's Lantern | Neckpiece_v | tab | link= | label=Krill Tail }}
+| {{Spirit Item| Vault Elder's Lantern | neckpiece_v_real | closet_display | label=Krill Tail | link=Season_of_The_Two_Embers_-_Part_1#Vestige_of_Dark_Dragons }}
+| {{Days Item| Moonlight Tufted Tail Accessory | icon | tab | link= }}
+| {{Days Item| Moonlight Tufted Tail Accessory | real | closet_display }}
+}}<section end="Display" />
+
+== Available Necklaces ==
+This table lists all the Necklaces that have ever been available in Sky; only a small subset of them are [[#Availability Legend|available]] for purchase at any given time. The default order is icon order, as used in the in-game [[Outfit Shrine]]. The table sort order can be changed by clicking on the header of any column. The Dye column lists whether the Necklaces can be dyed or not.
+
+{| class="article-table sortable"
+! class="unsortable" | Image
+! Icon
+! [[#Availability Legend|Avail.]]
+! Source
+! Cost
+! [[Dyes|Dye]]
+|- id="Gratitude Ultimate Pendant"
+| style="text-align: center;"| {{Spirit Item| Gratitude Guide | necklace_u_real | table | link=Gratitude_Guide#Seasonal_Pendant }}
+| {{Spirit Item| Gratitude | necklace_u | table | sort=1 | link=Gratitude_Guide#Seasonal_Pendant }}
+| {{Avail Summary | ultimate | season=Gratitude }}
+| {{Cost | N/A }}
+| No
+|- id="Lightseekers Ultimate Pendant"
+| style="text-align: center;"| {{Spirit Item| Lightseekers Guide | necklace_u_real | table | link=Lightseekers_Guide#Seasonal_Pendant }}
+| {{Spirit Item| Lightseekers | necklace_u | table | sort=2 | link=Lightseekers_Guide#Seasonal_Pendant }}
+| {{Avail Summary | ultimate | season=Lightseekers }}
+| {{Cost | N/A }}
+| No
+|- id="Belonging Ultimate Pendant"
+| style="text-align: center;"| {{Spirit Item| Belonging Guide | necklace_u_real | table | link=Belonging _Guide#Seasonal_Pendant }}
+| {{Spirit Item| Belonging | necklace_u | table | sort=3 | link=Belonging _Guide#Seasonal_Pendant }}
+| {{Avail Summary | ultimate | season=Belonging }}
+| {{Cost | N/A }}
+| No
+|- id="Rhythm Ultimate Pendant"
+| style="text-align: center;"| {{Spirit Item| Rhythm Guide | necklace_u_real | table | link=Rhythm_Guide#Seasonal_Pendant }}
+| {{Spirit Item| Rhythm | necklace_u | table | sort=4 | link=Rhythm_Guide#Seasonal_Pendant }}
+| {{Avail Summary | ultimate | season=Rhythm }}
+| {{Cost | N/A }}
+| No
+|- id="Enchantment Ultimate Pendant"
+| style="text-align: center;"| {{Spirit Item| Enchantment Guide | necklace_u_real | table | link=Enchantment_Guide#Seasonal_Pendant }}
+| {{Spirit Item| Enchantment Guide | necklace_u | table | sort=5 | link=Enchantment_Guide#Seasonal_Pendant }}
+| {{Avail Summary | ultimate | season=Enchantment }}
+| {{Cost | N/A }}
+| No
+|- id="Sanctuary Ultimate Pendant"
+| style="text-align: center;"| {{Spirit Item| Sanctuary Guide | necklace_u_real | table | link=Sanctuary_Guide#Seasonal_Pendant }}
+| {{Spirit Item| Sanctuary Guide | necklace_u | table | sort=6 | link=Sanctuary_Guide#Seasonal_Pendant | label=Sanctuary Ultimate Pendant }}
+| {{Avail Summary | ultimate | season=Sanctuary }}
+| {{Cost | N/A }}
+| No
+|- id="Prophecy Ultimate Pendant"
+| style="text-align: center;"| {{Spirit Item| Prophecy Guide | necklace_u_real | table | link=Prophecy_Guide#Seasonal_Pendant }}
+| {{Spirit Item| Prophecy Guide | necklace_u | table | sort=8 | link=Prophecy_Guide#Seasonal_Pendant }}
+| {{Avail Summary | ultimate | season=Prophecy }}
+| {{Cost | N/A }}
+| No
+|- id="Dreams Ultimate Pendant"
+| style="text-align: center;"| {{Spirit Item| Dreams Guide | necklace_u_real | table | link=Dreams_Guide#Seasonal_Pendant }}
+| {{Spirit Item| Dreams Guide | necklace_u | table | sort=9 | link=Dreams_Guide#Seasonal_Pendant }}
+| {{Avail Summary | ultimate | season=Dreams }}
+| {{Cost | N/A }}
+| No
+|- id="Assembly Ultimate Pendant"
+| style="text-align: center;"| {{Spirit Item| Assembly Guide | necklace_u_real | table | link=Assembly_Guide#Seasonal_Pendant }}
+| {{Spirit Item| Assembly Guide | necklace_u | table | sort=10 | link=Assembly_Guide#Seasonal_Pendant }}
+| {{Avail Summary | ultimate | season=Assembly }}
+| {{Cost | N/A }}
+| No
+|- id="The Little Prince Ultimate Pendant"
+| style="text-align: center;"| {{Spirit Item| The Rose | necklace_u_real | table | link=The_Rose#Seasonal_Pendant }}
+| {{Spirit Item| The Rose | necklace_u | table | sort=11 | link=The_Rose#Seasonal_Pendant }}
+| {{Avail Summary | ultimate | season=The Little Prince }}
+| {{Cost | N/A }}
+| No
+|- id="Flight Ultimate Pendant"
+| style="text-align: center;"| {{Spirit Item| Flight Guide | necklace_u_real | table | link=Flight_Guide#Seasonal_Pendant }}
+| {{Spirit Item| Flight Guide | necklace_u | table | sort=13 | link=Flight_Guide#Seasonal_Pendant }}
+| {{Avail Summary | ultimate | season=Flight }}
+| {{Cost | N/A }}
+| No
+|- id="Abyss Ultimate Pendant"
+| style="text-align: center;"| {{Spirit Item| Abyss Guide | necklace_u_real | table | link=Abyss_Guide#Seasonal_Pendant }}
+| {{Spirit Item| Abyss Guide | necklace_u | table | sort=15 | link=Abyss_Guide#Seasonal_Pendant }}
+| {{Avail Summary | ultimate | season=Abyss }}
+| {{Cost | N/A }}
+| No
+|- id="Performance Ultimate Pendant"
+| style="text-align: center;"| {{Spirit Item| Performance Guide | necklace_u_real | table | link=Performance_Guide#Seasonal_Pendant }}
+| {{Spirit Item| Performance Guide | necklace_u | table | sort=16 | link=Performance_Guide#Seasonal_Pendant }}
+| {{Avail Summary | ultimate | season=Performance }}
+| {{Cost | N/A }}
+| No
+|- id="Shattering Ultimate Pendant"
+| style="text-align: center;"| {{Spirit Item| Shattering Guide | necklace_u_real | table | link=Shattering_Guide#Seasonal_Pendant }}
+| {{Spirit Item| Shattering Guide | Necklace_u | table | sort=17 | link=Shattering_Guide#Seasonal_Pendant }}
+| {{Avail Summary | ultimate | season=Shattering }}
+| {{Cost | N/A }}
+| No
+|- id="Aurora Ultimate Pendant"
+| style="text-align: center;"| {{Spirit Item| AURORA Guide | necklace_u_real | table | link=AURORA_Guide#Seasonal_Pendant }}
+| {{Spirit Item| AURORA Guide | Necklace_u | table | sort=19 | link=AURORA_Guide#Seasonal_Pendant }}
+| {{Avail Summary | ultimate | season=AURORA }}
+| {{Cost | N/A }}
+| No
+|- id="Remembrance Ultimate Pendant"
+| style="text-align: center;"| {{Spirit Item| Remembrance Guide | necklace_u_real | table | link=Remembrance_Guide#Seasonal_Pendant }}
+| {{Spirit Item| Remembrance Guide | Necklace_u | table | sort=20 | link=Remembrance_Guide#Seasonal_Pendant }}
+| {{Avail Summary | ultimate | season=Remembrance }}
+| {{Cost | N/A }}
+| No
+|- id="Passage Ultimate Pendant"
+| style="text-align: center;"| {{Spirit Item| Passage Guide | necklace_u_real | table | link=Passage_Guide#Seasonal_Pendant }}
+| {{Spirit Item| Passage Guide | Necklace_u | table | sort=23 | link=Passage_Guide#Seasonal_Pendant }}
+| {{Avail Summary | ultimate | season=Passage }}
+| {{Cost | N/A }}
+| No
+|- id="Moments Ultimate Pendant"
+| style="text-align: center;"| {{Spirit Item| Moments Guide | necklace_u_real | table | link=Moments_Guide#Seasonal_Pendant }}
+| {{Spirit Item| Moments Guide | Necklace_u | table | sort=25 | link=Moments_Guide#Seasonal_Pendant }}
+| {{Avail Summary | ultimate | season=Moments }}
+| {{Cost | N/A }}
+| No
+|- id="Revival Ultimate Pendant"
+| style="text-align: center;"| {{Spirit Item| Hopeful Steward | necklace_u_real | table | link=Hopeful_Steward#Seasonal_Pendant }}
+| {{Spirit Item | Hopeful Steward | necklace_u | table | sort=26 | link=Hopeful_Steward#Seasonal_Pendant }}
+| {{Avail Summary | ultimate | spirit=Hopeful Steward | season=Revival}}
+| {{Cost | N/A }}
+| No
+|- id="Nine-Colored Deer Ultimate Pendant"
+| style="text-align: center;"| {{Spirit Item| Spirit of Mural | necklace_u_real | table | link=Spirit_of_Mural#Seasonal_Pendant | label=Nine-Colored Deer Ultimate Pendant }}
+| {{Spirit Item | Spirit of Mural | necklace_u | table | sort=27 | link=Spirit_of_Mural#Seasonal_Pendant | label=Nine-Colored Deer Ultimate Pendant }}
+| {{Avail Summary | ultimate | spirit=Spirit of Mural | season=Nine-Colored Deer}}
+| {{Cost | N/A }}
+| No
+|- id="Nesting Ultimate Pendant"
+| style="text-align: center;"| {{Spirit Item| Nesting Guide | necklace_u_real | table | link=Nesting_Guide#Seasonal_Pendant }}
+| {{Spirit Item| Nesting Guide | Necklace_u | table | sort=28 | link=Nesting_Guide#Seasonal_Pendant }}
+| {{Avail Summary | ultimate | season=Nesting }}
+| {{Cost | N/A }}
+| No
+|- id="Duets Ultimate Pendant"
+| style="text-align: center;"| {{Spirit Item| Duets Guide | necklace_u_real | table | link=Duets_Guide#Seasonal_Pendant }}
+| {{Spirit Item| Duets Guide | Necklace_u | table | sort=29 | link=Duets_Guide#Seasonal_Pendant }}
+| {{Avail Summary | ultimate | season=Duets }}
+| {{Cost | N/A }}
+| No
+|- id="Moomin Ultimate Pendant"
+| style="text-align: center;"| {{Spirit Item| Moomin Guide | necklace_u_real | table | link=Moomin_Guide#Seasonal_Pendant }}
+| {{Spirit Item| Moomin Guide | Necklace_u | table | sort=30 | link=Moomin_Guide#Seasonal_Pendant }}
+| {{Avail Summary | ultimate | season=Moomin }}
+| {{Cost | N/A }}
+| No
+|- id="Radiance Ultimate Pendant"
+| style="text-align: center;"| {{Spirit Item| Radiance Guide | necklace_u_real | table | link=Radiance_Guide#Seasonal_Pendant }}
+| {{Spirit Item| Radiance Guide | Necklace_u | table | sort=31 | link=Radiance_Guide#Seasonal_Pendant }}
+| {{Avail Summary | ultimate | season=Radiance }}
+| {{Cost | N/A }}
+| No
+|- id="Blue Bird Ultimate Pendant"
+| style="text-align: center;"| {{Spirit Item| Blue Bird Guide | necklace_u_real | table | link=Blue Bird_Guide#Seasonal_Pendant }}
+| {{Spirit Item| Blue Bird Guide | Necklace_u | table | sort=32 | link=Blue_Bird_Guide#Seasonal_Pendant }}
+| {{Avail Summary | ultimate | season=Blue Bird }}
+| {{Cost | N/A }}
+| No
+|- id="Two Embers - Part 1 Pendant"
+| style="text-align: center;"| {{Spirit Item| Vault Elder's Lantern | necklace_u_real | table | link=Vault_Elder%27s_Lantern#Seasonal_Pendant }}
+| {{Spirit Item| Vault Elder's Lantern | Necklace_u | table | sort=32 | link=Vault_Elder%27s_Lantern#Seasonal_Pendant }}
+| {{Avail Summary | ultimate | season=Two Embers - Part 1 }}
+| {{Cost | N/A }}
+| No
+|- id="Hiking Grouch"
+| style="text-align: center;"| {{Spirit Item| Hiking Grouch | neckpiece_real | table }}
+| {{Spirit Item| Hiking Grouch | Neckpiece | table | sort=7  }}
+| {{Avail Summary | season | spirit=Hiking Grouch | season=Sanctuary }}
+| {{Cost | 50 C }}
+| No
+|- id="Star Collector"
+| style="text-align: center;"| {{Spirit Item| Star Collector | neckpiece_real | table }}
+| {{Spirit Item| Star Collector | Neckpiece | table | sort=12 }}
+| {{Avail Summary | season | spirit=Star Collector | season=The Little Prince }}
+| {{Cost | 40 C }}
+| No
+|- id="Talented Builder"
+| style="text-align: center;"| {{Spirit Item| Talented Builder | neckpiece_real | table }}
+| {{Spirit Item| Talented Builder | Neckpiece | table | sort=14 }}
+| {{Avail Summary | season | spirit=Talented Builder | season=Flight }}
+| {{Cost | 40 C }}
+| No
+|- id="Ancient Darkness"
+| style="text-align: center;"| {{Spirit Item| Ancient Darkness | neckpiece_real | table }}
+| {{Spirit Item| Ancient Darkness | Neckpiece | table | sort=18 }}
+| {{Avail Summary | season | spirit=Ancient Darkness | season=Shattering }}
+| {{Cost | 70 C }}
+| No
+|- id="Crab Plush Pin Keychain - Classic"
+| style="text-align: center;" | {{Icon| Starpin-Crab-Plush-Classic.png | link=That Sky Shop/Wave 8#Crab Plush Pin Keychain | label=Crab Plush Pin Keychain - Classic | table }}
+| {{Icon| Crab-Accessory-icon-STAR.png | table | sort=500 | link=That Sky Shop/Wave 8#Crab Plush Pin Keychain | label=Crab Plush Pin Keychain - Classic }}
+| {{Avail Summary | IAP | source={{Icon| That-sky-shop-logo.png | table | link=That Sky Shop/Wave 8#Crab Plush Pin Keychain}} }}
+| {{Cost | 25 USD }}
+| N/A
+|- id="Crab Plush Pin Keychain - Special Edition I"
+| style="text-align: center;" | {{Icon| Starpin-Crab-Plush-Special-Edition-I.png | link=That Sky Shop/Wave 8#Crab Plush Pin Keychain | label=Crab Plush Pin Keychain - Special Edition I | table }}
+| {{Icon| Crab-Accessory-Special-I-icon-STAR.png | table | sort=501 | link=That Sky Shop/Wave 8#Crab Plush Pin Keychain | label=Crab Plush Pin Keychain - Special Edition I }}
+| {{Avail Summary | IAP | source={{Icon| That-sky-shop-logo.png | table | link=That Sky Shop/Wave 8#Crab Plush Pin Keychain}} }}
+| {{Cost | 25 USD }}
+| N/A
+|- id="Pleading Child"
+| style="text-align: center;"| {{Spirit Item| Pleading Child | neckpiece_real | table }}
+| {{Spirit Item| Pleading Child | Neckpiece | table | sort=21 }}
+| {{Avail Summary | season | spirit=Pleading Child | season=Remembrance }}
+| {{Cost | 50 C }}
+| Yes
+|- id="Remembrance Guide"
+| style="text-align: center;"| {{Spirit Item| Remembrance Guide | neckpiece_u_real | table | link=Remembrance_Guide#Remembrance_Ultimate_Neck_Accessory }}
+| {{Spirit Item| Remembrance Guide | neckpiece_u | table | sort=22 | link=Remembrance_Guide#Remembrance_Ultimate_Neck_Accessory }}
+| {{Avail Summary | ultimate | spirit=Remembrance Guide | season=Remembrance }}
+| {{Cost | N/A }}
+| Yes
+|- id="Oddball Outcast"
+| style="text-align: center;"| {{Spirit Item| Oddball Outcast | neckpiece_real | table }}
+| {{Spirit Item| Oddball Outcast | Neckpiece | table | sort=24 }}
+| {{Avail Summary | season | spirit=Oddball Outcast | season=Passage }}
+| {{Cost | 65 C }}
+| No
+|- id="Sense of Self"
+| style="text-align: center;"| {{Spirit Item| Sense of Self | neckpiece_real | table }}
+| {{Spirit Item| Sense of Self | Neckpiece | table | sort=31 }}
+| {{Avail Summary | season | spirit=Sense of Self | season=Moomin }}
+| {{Cost | ? }}
+| No
+|- id="Hattifattener Shoulder Buddy"
+| style="text-align: center;"| {{Spirit Item| Moomin Guide | Neckpiece_h_real | table | label=Hattifattener Shoulder Buddy | link=Season of Moomin#Hattifattener Shoulder Buddy }}
+| {{Spirit Item| Moomin Guide | Neckpiece_h | table | sort=32 | label=Hattifattener Shoulder Buddy | link=Season of Moomin#Hattifattener Shoulder Buddy}}
+| {{Avail Summary | limited | season=Moomin }}
+| {{Cost| 2.99 USD }}
+| No
+|- id="Comfort of Kindness"
+| style="text-align: center;"| {{Spirit Item| Comfort of Kindness | neckpiece_real | table }}
+| {{Spirit Item| Comfort of Kindness | Neckpiece | table | sort=33 }}
+| {{Avail Summary | season | spirit=Comfort of Kindness | season=Moomin }}
+| {{Cost | ? }}
+| No
+|- id="Roving Snufkin Scarf"
+| style="text-align: center;"| {{Spirit Item| Moomin Guide | Neckpiece_s_real | table | label=Roving Snufkin Scarf | link=Season of Moomin#Roving Snufkin Scarf }}
+| {{Spirit Item| Moomin Guide | Neckpiece_s | table | sort=34 | label=Roving Snufkin Scarf | link=Season of Moomin#Roving Snufkin Scarf }}
+| {{Avail Summary | limited | season=Moomin }}
+| {{Cost| 9.99 USD }}<ref name="roving_snufkin_set">The $9.99 cost of the Roving Snufkin Robe Set includes 2 cosmetics (an Outfit and a Neck Accessory).</ref>
+| No
+|- id="Inspiration of Inclusion"
+| style="text-align: center;"| {{Spirit Item| Inspiration of Inclusion | neckpiece_real | table }}
+| {{Spirit Item| Inspiration of Inclusion | Neckpiece | table | sort=35 }}
+| {{Avail Summary | season | spirit=Inspiration of Inclusion | season=Moomin }}
+| {{Cost | ? }}
+| No
+|- id="Days of Love Classy Cravat"
+| style="text-align: center;"| {{Days Item| Classy Cravat | real | table }}
+| {{Days Item| Classy Cravat | icon | table | sort=300 }}
+| {{Avail Summary | days | days=Love }}
+| {{Cost| 4.99 USD }}
+| No
+|- id="Ocean Necklace"
+| style="text-align: center;"| {{Days Item| Ocean Necklace | real | table }}
+| {{Days Item| Ocean Necklace | icon | table | sort=320 }}
+| {{Avail Summary | days | days=Nature }}
+| {{Cost| 1.99 USD }}
+| Yes
+|- id="Nature Turtle Pack"
+| style="text-align: center;"| {{Days Item| Nature Turtle Accessory | real | link=Days of Nature#Nature Turtle Pack | label=Nature Turtle Accessory| table }}
+| {{Days Item| Nature Turtle Accessory | icon | table | sort=321 | link=Days of Nature#Nature Turtle Pack | label=Nature Turtle Accessory }}
+| {{Avail Summary | days | days=Nature }}
+| {{Cost| 19.99 USD }}
+| No
+|- id="Ocean Blue Scarf"
+| style="text-align: center;"| {{Days Item| Ocean Blue Scarf | real | table }}
+| {{Days Item| Ocean Blue Scarf | icon | table | sort=322 }}
+| {{Avail Summary | days | days=Nature }}
+| {{Cost| 14 H }}
+| Yes
+|- id="Jelly Shoulder Buddy"
+| style="text-align: center;"| {{Days Item| Jelly Shoulder Buddy | real | table }}
+| {{Days Item| Jelly Shoulder Buddy | icon | table | sort=340 }}
+| {{Avail Summary | days | days=Sunlight }}
+| {{Cost| 2.99 USD }}
+| No
+|- id="Style Dapper Necktie"
+| style="text-align: center;"| {{Days Item| Style Dapper Necktie | real | table }}
+| {{Days Item| Style Dapper Necktie| icon | table | sort=350 }}
+| {{Avail Summary | days | days=Style }}
+| {{Cost| 14.99 USD }}<ref name="Style Dapper Necktie">The $14.99 cost of the Style Dapper Trio includes 3 cosmetics (an Outfit, a Face Accessory, and a Neck Accessory).</ref>
+| No
+|- id="Feast Necktie"
+| style="text-align: center;"| {{Days Item| Feast Necktie | real | table }}
+| {{Days Item| Feast Necktie | icon | table | sort=360 }}
+| {{Avail Summary | days | days=Feast }}
+| {{Cost| 15 H }}
+| No
+|- id="Days of Feast Scarf"
+| style="text-align: center;"| {{Days Item| Winter Feast Scarf | real | table }}
+| {{Days Item| Winter Feast Scarf | icon | table | sort=361 }}
+| {{Avail Summary | days | days=Feast }}
+| {{Cost| 50 C }}
+| Yes
+|- id="Transparent Winter Feast Scarf"
+| style="text-align: center;" | {{Icon| Transparent-Winter-Feast-Scarf.png | link=That Sky Shop/Wave 8#Winter Feast Scarf | label=Transparent Winter Feast Scarf | table }}
+| {{Icon| Feast-Scarf-icon-STAR.png | table | sort=502 | link=That Sky Shop/Wave 8#Winter Feast Scarf | label=Transparent Winter Feast Scarf }}
+| {{Avail Summary | IAP | source={{Icon| That-sky-shop-logo.png | table | link=That Sky Shop/Wave 8#Winter Feast Scarf}} }}
+| {{Cost | 125 USD }}
+| N/A
+|- id="Cinnamoroll Pop-Up Cafe Bowtie"
+| style="text-align: center;"| {{Days Item| Cinnamoroll Bowtie | real | table }}
+| {{Days Item| Cinnamoroll Bowtie | icon | table | sort=450 }}
+| {{Avail Summary | limited | days=Cinnamoroll }}
+| {{Cost| 14.99 USD }}<ref name="Bowtie and Cloud Cape Pack">The $14.99 cost of the Cinnamoroll Pop-Up Cafe Bowtie and Cloud Cape Pack includes 2 cosmetics (a Cape and a Neck Accessory).</ref>
+| No
+|- id="Moomintroll Tail"
+| style="text-align: center;"| {{Spirit Item| Moomin Guide | Neckpiece_m_real | table | label=Moomintroll Tail | link=Season of Moomin#Moomintroll Tail }}
+| {{Spirit Item| Moomin Guide | Neckpiece_m | table | sort=36 | label=Moomintroll Tail | link=Season of Moomin#Moomintroll Tail }}
+| {{Avail Summary | limited | season=Moomin }}
+| {{Cost| 11.99 USD }}<ref name="Moomintroll_Accessory_Pack">The $11.99 cost of the Moomintroll Accessory Set includes 2 cosmetics (a Hair Accessory and a Neck Accessory).</ref>
+| No
+|- id="Manatee Tail"
+| style="text-align; center;"| {{Spirit Item| Vault Elder's Lantern | neckpiece_s_real | table | link=Season_of_The_Two_Embers_-_Part_1#Spirited_Manatee_Ensemble }}
+| {{Spirit Item| Vault Elder's Lantern | neckpiece_s | table | sort=26 | link=Season_of_The_Two_Embers_-_Part_1#Spirited_Manatee_Ensemble }}
+| {{Avail Summary | limited | season=Two Embers - Part 1 }}
+| {{Cost | 9.99 USD }}<ref name="Spirited Manatee Ensemble">The $9.99 cost of the Spirited Manatee Ensemble includes 2 cosmetics (a Necklace and a Head Accessory).</ref>
+| No
+|- id="Krill Tail"
+| style="text-align; center;"| {{Spirit Item| Vault Elder's Lantern | neckpiece_v_real | table | link=Season_of_The_Two_Embers_-_Part_1#Vestige_of_Dark_Dragons }}
+| {{Spirit Item| Vault Elder's Lantern | neckpiece_v | table | sort=26 | link=Season_of_The_Two_Embers_-_Part_1#Vestige_of_Dark_Dragons }}
+| {{Avail Summary | limited | season=Two Embers - Part 1 }}
+| {{Cost | 11.99 USD }}<ref name="Vestige of Dark Dragons">The $11.99 cost of the Vestige of Dark Dragons includes 2 cosmetics (a Necklace and a Head Accessory).</ref>
+| No
+|- id="Moonlight Tufted Tail Accessory"
+| style="text-align: center;"| {{Days Item| Moonlight Tufted Tail Accessory | real | table }}
+| {{Days Item| Moonlight Tufted Tail Accessory | icon | table | sort=360 }}
+| {{Avail Summary | days | days=Moonlight }}
+| {{Cost| 42 T | event=Moonlight}}
+| No
+|}
+{{ Avail Legend
+| p
+| s+
+| u+
+| t*
+| r*
+| d*
+| days
+| season
+| ultimate
+}}
+
+== Notes ==
+* Before Patch [[Version History|0.18.0]], Necklaces were listed in the [[Props]] Outfit Shrine.
+<references />
+
+[[fr:Colliers]]
+[[de:Halsketten]]
+[[pt-br:Colares]]
+[[ja:ネックレス]]
+
+[[Category:Cosmetics]]

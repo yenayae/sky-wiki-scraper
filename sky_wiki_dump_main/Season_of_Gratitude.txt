@@ -1,0 +1,187 @@
+{{Season
+| image = Gratitude square promo.png
+| start = July 19, 2019
+| end = September 2, 2019
+| spirits = 6
+| nextSeason = [[Season of Lightseekers]]
+| constellation = <gallery>
+Season-of-Gratitude-Constellation.png|Vector
+SoG2 Constellation.png|Screenshot
+</gallery>
+| symbol = 1_Gratitude.png
+}}
+The '''Season of Gratitude''' was the first season introduced to the Global Live version of the game on '''Friday, July 19, 2019 at 12:00 PDT (UTC -7)'''. It ended on '''Monday, September 2, 2019 at 12:00 PDT (UTC -7)''', lasting a total of '''45''' days. It was mostly a repeat of the [[Sky: Light Awaits|Light Awaits (Closed Beta)]] version of the [[Season of Gratitude (Spring 2019)|Spring Season of Gratitude]], with one additional Expression and some movement of the previous cosmetic items.
+
+Seasonal Expressions were not intended to return to the game, so they were specialized Expressions particular to the Season's theme. The Season of Gratitude was introduced by TGC [https://www.youtube.com/watch?v=ew8GcHpGCLA in a livestream on Facebook] just prior to the first release of the season in April 2019 in beta.
+[[File:SkyChildrenAP2Assets001.png|none|thumb|220x220px|Sky children in Season of Gratitude Cosmetics, from Press Kit]]
+==Welcome==
+<center class="title-text-welcome">Welcome to the Season of Gratitude!</center>
+Six spirits have arrived in the lands of Sky bearing exotic gifts. Find them across the six realms of Sky and experience the memories of the Gratitude Spirits. Unlock unique cosmetics and expressions to use with friends.
+==Daily Quests & Seasonal Candles==
+===Daily Quests===
+Collect Seasonal Candles throughout the Season to trade with the new spirits for their cosmetics. A total of 4 seasonal candles was available to gather, as follows:
+*Each day the Auspicious Visitor stood next to a Realm's portal, indicating where the day's daily quests could be completed. Players would earn one seasonal candle per quest completed. 
+*There were 2 quests for free-to-play players.  Players with the Adventure pass would get 4 daily quests (the two last quests were locked for non pass owners).  Players would claim their rewards by talking to the Auspicious Visitor (4 candles) at Home. 
+*Players could collect an extra candle by collecting the 4 seasonal bunches found in the realm the Auspicious Visitor was standing next to. <small>(more information on the "Seasonal bunches locations" below).</small> (1 candle)
+*Players who had the [[Adventure Pass]] could claim a Seasonal Candle at Home as a free daily bonus. (1 candle)
+*Players with the Adventure Pass got 20 bonus seasonal candles.
+<gallery widths="200" spacing="small" captionalign="center" hideaddbutton="true" mode="nolines">
+SoG AP1.png|Gratitude Adventure Pass Page 1
+SoG AP2.png|Gratitude Adventure Pass Page 2
+SoG_Season_Candles.png|A bunch of Seasonal Gratitude Candles
+</gallery>
+===Seasonal Candle Bunches Locations===
+During the season, the Seasonal Candle bunches where found where the Seasonal Spirits were located.  
+*[[Isle of Dawn]]: 4 in the sand dunes (with the Sassy Drifter spirit) 
+*[[Daylight Prairie]]: 4 in Prairie's cave (with the Stretching Guru spirit)
+*[[Hidden Forest]]: 4 around [[Forest's Brook]] area (with the Provoking Performer spirit) 
+*[[Valley of Triumph]]: 4 around the [[Ice Rink]] area (with the Leaping Dancer spirit)
+*[[Golden Wasteland]]: 4 in the [[First Krill Area]], area (with the Saluting Protector spirit) 
+*[[Vault of Knowledge]]: 4 around the [[Fourth Floor Vault]] area (with the Greeting Shaman) 
+==Spirits and Cosmetics==
+All of the ''Season of Gratitude'' Spirits can be found scattered around the 6 realms of Sky. There were 5 Expressions and 1 Stance to gather - overall, 6 spirits.
+{{#tag:gallery
+|{{Icon Name|Sassy Drifter|emote}} {{!}} {{Icon Name|Sassy Drifter|emote_name}}
+{{Icon Name|Stretching Guru|emote}} {{!}} {{Icon Name|Stretching Guru|emote_name}}
+{{Icon Name|Provoking Performer|emote}} {{!}} {{Icon Name|Provoking Performer|emote_name}}
+{{Icon Name|Leaping Dancer|emote}} {{!}} {{Icon Name|Leaping Dancer|emote_name}}
+{{Icon Name|Saluting Protector|emote}} {{!}} {{Icon Name|Saluting Protector|emote_name}}
+{{Icon Name|Greeting Shaman|emote}} {{!}} {{Icon Name|Greeting Shaman|emote_name}}
+|widths=65|heights=100|spacing=small|captionalign=center|mode=nolines}}
+
+===All Gratitude Friendship Trees===
+{{Mobile Tabber
+|tab1 = {{Emote|Sassy Drifter|tab}}
+|c1   = {{#lst:Sassy Drifter|Season Friendship Tree}}
+|tab2 = {{Emote|Stretching Guru|tab}}
+|c2   = {{#lst:Stretching Guru|Season Friendship Tree}}
+|tab3 = {{Emote|Provoking Performer|tab}}
+|c3   = {{#lst:Provoking Performer|Season Friendship Tree}}
+|tab4 = {{Emote|Leaping Dancer|tab}}
+|c4   = {{#lst:Leaping Dancer|Season Friendship Tree}}
+|tab5 = {{Emote|Saluting Protector|tab}}
+|c5   = {{#lst:Saluting Protector|Season Friendship Tree}}
+|tab6 = {{Emote|Greeting Shaman|tab}}
+|c6   = {{#lst:Greeting Shaman|Season Friendship Tree}}
+}}
+===[[Sassy Drifter]]===
+{{#lst:Sassy Drifter|Summary}}
+{{#tag:gallery
+|{{Icon Name|Sassy Drifter|hair|real}} {{!}} Hair
+{{Icon Name|Sassy Drifter|mask|real}} {{!}} Mask
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+===[[Stretching Guru]]===
+{{#lst:Stretching Guru|Summary}}
+{{#tag:gallery
+|{{Icon Name|Stretching Guru|hair|real}} {{!}} Hair
+{{Icon Name|Stretching Guru|cape|real}} {{!}} Cape
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+===[[Provoking Performer]]===
+{{#lst:Provoking Performer|Summary}}
+{{#tag:gallery
+|{{Icon Name|Provoking Performer|hair|real}} {{!}} Hair
+{{Icon Name|Provoking Performer|mask|real}} {{!}} Mask
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+===[[Leaping Dancer]]===
+{{#lst:Leaping Dancer|Summary}}
+{{#tag:gallery
+|{{Icon Name|Leaping Dancer|mask|real}} {{!}} Mask
+{{Icon Name|Leaping Dancer|instrument|real}} {{!}} {{Icon Name|Leaping Dancer|inst_name}}
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+===[[Saluting Protector]]===
+{{#lst:Saluting Protector|Summary}}
+{{#tag:gallery
+|{{Icon Name|Saluting Protector|mask|real}} {{!}} Mask
+{{Icon Name|Saluting Protector|cape|real}} {{!}} Cape
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+===[[Greeting Shaman]]===
+{{#lst:Greeting Shaman|Summary}}
+{{#tag:gallery
+|{{Icon Name|Greeting Shaman|mask|real}} {{!}} Mask
+{{Icon Name|Greeting Shaman|instrument|real}} {{!}} {{Icon Name|Greeting Shaman|inst_name}}
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+==[[Gratitude Guide]]==
+{{#lst:Gratitude Guide|Summary}}
+{{#tag:gallery
+|{{Icon Name|Gratitude Guide|necklace_u|real}} {{!}} Gratitude Ultimate Pendant
+{{Icon Name|Gratitude Guide|mask_u|real}} {{!}} Gratitude Ultimate Deer Mask
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+== Price Chart==
+Below are the Seasonal Candle and Heart prices of each of the Spirits for the Season of Gratitude as they were available during the Season. This in no way correlates to the prices the Traveling Spirit have today.
+{| class="article-table"
+! Spirits
+! colspan="3" | Seasonal Candle
+! Heart
+! style="text-align: center|Total
+|-
+|[[Sassy Drifter]] 
+|{{#vardefineecho:A1| 6 }}
+|{{#vardefineecho:A2| 8 }}
+|{{#vardefineecho:A3| }}
+|style="text-align: center|0
+|{{Cost| {{#vardefineecho:Asum| {{#expr: {{#var:A1}} + {{#var:A2}} + {{#var:A3}} + 0 }} }} SC|season=Gratitude}} + {{Cost|0 H}}
+|-
+|[[Stretching Guru]]
+|{{#vardefineecho:B1| 6  }}
+|{{#vardefineecho:B2| 8  }}
+|{{#vardefineecho:B3| 10 }}
+|style="text-align: center|5
+|{{Cost| {{#vardefineecho:Bsum| {{#expr: {{#var:B1}} + {{#var:B2}} + {{#var:B3}} + 0 }} }} SC|season=Gratitude}} + {{Cost|5 H}}
+|-
+|[[Provoking Performer]]
+|{{#vardefineecho:C1| 10 }}
+|{{#vardefineecho:C2| 12 }}
+|{{#vardefineecho:C3| 14 }}
+|style="text-align: center|5
+|{{Cost| {{#vardefineecho:Csum| {{#expr: {{#var:C1}} + {{#var:C2}} + {{#var:C3}} + 0 }} }} SC|season=Gratitude}} + {{Cost|5 H}}
+|-
+|[[Leaping Dancer]] 
+|{{#vardefineecho:D1| 12 }}
+|{{#vardefineecho:D2| 14 }}
+|{{#vardefineecho:D3| 16 }}
+|style="text-align: center|5
+|{{Cost| {{#vardefineecho:Dsum| {{#expr: {{#var:D1}} + {{#var:D2}} + {{#var:D3}} + 0 }} }} SC|season=Gratitude}} + {{Cost|5 H}}
+|-
+|[[Saluting Protector]] 
+|{{#vardefineecho:E1| 16 }}
+|{{#vardefineecho:E2| 18 }}
+|{{#vardefineecho:E3| 20 }}
+|style="text-align: center|5
+|{{Cost| {{#vardefineecho:Esum| {{#expr: {{#var:E1}} + {{#var:E2}} + {{#var:E3}} + 0 }} }} SC|season=Gratitude}} + {{Cost|5 H}}
+|-
+|[[Greeting Shaman]]
+|{{#vardefineecho:F1| 18 }}
+|{{#vardefineecho:F2| 20 }}
+|{{#vardefineecho:F3| 22 }}
+|style="text-align: center|5
+|{{Cost| {{#vardefineecho:Fsum| {{#expr: {{#var:F1}} + {{#var:F2}} + {{#var:F3}} + 0 }} }} SC|season=Gratitude}} + {{Cost|5 H}}
+|-
+! colspan="5" | Total for Season
+! {{Cost| {{#expr: {{#var:Asum}} + {{#var:Bsum}} + {{#var:Csum}} + {{#var:Dsum}} + {{#var:Esum}} + {{#var:Fsum}} }} SC|season=Gratitude}} + {{Cost|25 H}}
+|}
+
+== Trivia ==
+* In January 2020, thatgamecompany added a new pack to the Store called [[Premium Candle Shop#Gratitude Fur Cape Pack|Gratitude Fur Cape Pack]]. The contents were similar to the Winter Musician Pack in that it contained two cosmetics and two music sheets from the Season of Gratitude that ran from July 19 to September 2, 2019. This pack cost $19.99 USD. The cosmetics were the white fur cape and bird mask from the Saluting Protector Spirit. This was later taken down when the [[Season of Rhythm]] was concluded.
+* The 'White Fur Cape' from Saluting Protector was red during the Closed Beta of Sky. (Sky: Light Awaits)
+* With the "Leap" expression, it is possible to leap over a crab while it is charging at you, as the character's hitbox will move along with the expression movement.
+* The Season of Gratitude is depicted in several merch items from [[That Sky Shop]]. To know more about That Sky Shop products, visit their website: https://thatskyshop.com
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+SoGratitude-playing-music-with-friends.png
+SoGratitude-masks-promo-art.png
+</gallery>
+
+==References== 
+<references /> 
+{{Seasonal Navbox}} 
+{{Navigation Box}}
+[[de:Saison der Dankbarkeit (Sommer 2019)]]
+[[fr:Saison de la Gratitude]]
+[[pt-br:Temporada da Gratidão]]
+[[ru:Сезон благодарности]]
+[[ja:感謝の季節]]
+
+{{DEFAULTSORT:Gratitude, Season of}}

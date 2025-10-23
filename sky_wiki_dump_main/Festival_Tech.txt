@@ -1,0 +1,80 @@
+{{#ev:youtube|taM4LnTrU9s||right|TGC Developers on Festival Tech}}
+Festival Tech is a large scale match-making feature. It allows large groups of players to gather beyond the usual limit of 8 people per session, so that hundreds or even thousands of people can experience the same things together. First introduced with the [[AURORA Concert]], then used in [[Days of Bloom|Days of Bloom 2023]] and [[Days of Color|Days of Color 2023]], Festival Tech allows players to interact with each other and Sky in unimaginable ways, through transforming into wildlife or completing tasks together.
+
+Festival Tech is only utilised in specific spots with specific events, with a maximum of 4000 total players per instance. Players have the ability to express through the {{icon|Festival-tech-emote-Ray.png|inline}} expressive emojis: {{icon|FT-light.png|inline}}Waving Lights, {{icon|FT-Heart.png|inline}}Heart, {{icon|FT-happy.png|inline}}Happy, and {{icon|FT-sad.png|inline}}Cry with the respective expression. A basic out-of-server player is alike to a skykid but much simpler.
+[[File:Basic-outOfServer.png||left|thumb|126x126px|Black-cape variant of the basic out-of-server player]]
+{{Clear}}
+
+== Instances of Festival Tech ==
+===Season of AURORA===
+{{#ev:youtube|lzUg5ffOyOo|300|right|Full Concert}}
+On December 8, 2022 the first live instance of Festival Tech occurred. The feature was used as a concert, bringing 4000+ players to listen to six of AURORA's songs as they go through a Musical Journey. For the majority of the performances, players were transformed into Sky wildlife as they travel through various landscapes, with AURORA music in the background. However in the finale, players are themselves as they fly around the collisium with AURORA.
+{{clear}}
+
+===Days of Bloom 2023===
+<!-- {{#ev:youtube|  waiting for permission  |300|right|Bloom Daydream Sequence}} -->
+From March 27 to April 6, 2023, the desert of [[The Forgotten Ark]] turns into an oasis, inviting players to daydream and become [[Butterfly|butterflies]] to fly through the Forgotten Ark every few hours. During this, pieces of light would appear which could be collected by the player as butterflies.
+{{clear}}
+
+===Days of Color 2023===
+<!-- {{#ev:youtube|  not sure?  |300|right|not sure?}} -->
+From  June 1 to June 14, 2023, the secretive area high above [[Daylight Prairie]] was expanded specially for [[Days of Color]]. The spacious scenery allowed dozens, even hundreds of players to gather together using the festival tech featured in Season of Passage quests and the Season of AURORA concert.
+{{clear}}
+
+===Season of Passage===
+<div style="float:right">{{Mobile Tabber| 
+|tab1 = 2
+|c1   = <div> {{#ev:youtube|xLNv6QYTvP4|300|right}} </div>
+
+|tab2 = 3
+|c2   = <div> {{#ev:youtube|nKb4ZlBLLYE|300|right}} </div>
+
+|tab3 = 4
+|c3   = <div> {{#ev:youtube|aXshB3wWGZ0|300|right}} </div>
+
+|tab4 = 5
+|c4   = <div> {{#ev:youtube|ska7iT_PZgs|300|right}} </div>
+}}</div>
+While all quests can be completed independently, from the second quest onwards the rituals are held with Festival Tech, with each player's effort contributing to the greater goal (and earn a bit of extra light along the way). These rituals begin at set intervals several times per hour (every 15 minutes - x:00, x:15, x:30, x:45), to allow a greater amount of initiates to participate together. These quests can be begun in the [[Passage Stone]] from the [[Passage Guide]] and later replayed in their set locations. Each ritual had a different genre, from collaboration to competitions.
+
+Unique from all previous Festival Tech events, Season of Passage quests holds less than 4000 maximum players - to avoid crowding and overstimulation in such small spaces from quests, as well as change the basic out-of-server model to a more fluffy, ghost like version with the respective masks of each quest, for example, the Boar-like figures of the 3rd quest.
+<gallery hideaddbutton="true" widths="126" mode="nolines">
+File:Season-of-Passage-player-serow.png
+File:Season-of-Passage-players-boar.png
+File:Passage-out-of-server-monkey-player.png
+File:Passage-out-of-server-racoon-player.png
+</gallery>
+{{clear}}
+
+===[[Sky Anniversary|Sky's 4th Anniversary]]===
+{{#ev:youtube|IFPNQbimx7g|300|right}}
+From July 17th until July 30th, Festival Tech in enabled throughout the entire [[Secret Area]] and players can enjoy a party on the roof on the Office.
+{{clear}}
+
+===Days of Mischief 2023===
+<!-- {{#ev:youtube|  not sure?  |300|right|not sure?}} -->
+The Cackling Crab transformed each week of the 3-week event, as Spirits moved around and even learned to play tricks of their own. In the third week of the event, players may notice more crabs than usual while they're in the crab pit. Don’t be too alarmed though—these are your fellow players from across other servers, all players transformed together into festive, crustaceous glory. Maybe it’s not so bad being a crab after all.
+{{clear}}
+
+===Season of Revival ([[Project Aviary]])===
+{{#ev:youtube|_TW3_orxFx4|300|right}}
+{{#lst:Project Aviary|Summary}}
+
+{{#ev:youtube|U_QkxjsTHvQ|300|right}}
+Currently, the only use Project Aviary has utilized Festival Tech for was [[Aviary's Firework Festival]] which took place from Monday, November 27, 2023 at 00:00 PST (UTC-8) until Sunday, December 17, 2023 at 23:59 PST (UTC-8). The festival introduced [[Aviary’s Firework Festival#The Finale|Aviary's Firework Finale]] which takes place on the first day of every month and has Festival Tech active.
+{{clear}}
+
+===Days of Fortune 2024===
+<!-- {{#ev:youtube|  not sure?  |300|right|not sure?}} -->
+From January 29 to February 14, 2024, the [[Valley of Triumph]] social space was the center of festivities for the Year of the Dragon. The Dragon Train Costume Spell was temporarily available from the platform next to the Auspicious Visitor which temporarily replaced the player's Cape with a costume of a dragon train section (colored either white or black) for 5 hours. Another familiar presence would show up at the start of every hour, too: a felicitous flying dragon appeared, bringing the best beats in Sky, some pyrotechnic Light, and a friendly race for Spirits and Sky Kids. At the countdown, join players from across the game servers with Festival Tech to race towards the Ice Rink alongside the felicitous dragon. Revel in twilight hues as night falls across the area for 10 minutes—the perfect backdrop for a party’s worth of fireworks and Light that the dragon will share.
+{{clear}}
+
+==Trivia== 
+* As per the Developer Update, the feature was named Festival Tech to promote a sense of connection and unity that real festivals provide
+
+
+[[pt-br:Tecnologia de Festival]]
+[[de:Festival-Technik]]
+
+<references />
+[[Category:Social Features]]

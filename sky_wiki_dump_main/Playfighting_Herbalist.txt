@@ -1,0 +1,211 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Action
+|image     = <gallery>
+Enchantment-Spirit-Playfighting-Herbalist.png|Standard
+Enchantment-Spirit-Playfighting-Herbalist-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Mask|infobox}}{{Spirit Item||Hair|infobox}}{{Spirit Item||Cape|infobox}}
+|props     = {{Spirit Item||Prop|infobox}}
+|music     = {{Music Sheet|13}}
+|season    = Enchantment
+|location  = Forgotten Ark 
+|ts        = October 12, 2023 (#98)<br>October 28, 2021 (#47)
+}}
+<section begin="Summary" />The '''Playfighting Herbalist''' is a [[Seasonal Spirit]] from the [[Season of Enchantment]] who offers the {{Emote|Playfighting Herbalist|inline_text}}. The Playfighting Herbalist is found past the [[Forgotten Ark]], in a set of ruins on the left side of the map. The collectibles [[#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Playfighting Herbalist|Mask|inline_text}}, a {{Spirit Item|Playfighting Herbalist|Hair|inline_text}}, a {{Spirit Item|Playfighting Herbalist|Cape|inline_text}}, a {{Spirit Item|Playfighting Herbalist|Prop|label=Light Orb Prop|inline_text}}, and the {{Music Sheet|13|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Playfighting-Herbalist-promo-image.jpg|thumb|320px|none|TGC's Promo image]]
+
+==Memory==
+<div>{{#ev:youtube|2C7nqLsQKDU||inline|Video Guide by Tara}}
+
+The Playfighting Herbalist can be found past the [[Forgotten Ark]], in a set of ruins overgrown with [[Darkness|Darkness Plants]] on the left side of the map. This Spirit has a [[Carry Spirit Memory|carry spirit memory]] with 6 memory fragments and a 15-minute overall [[Timed Memory|time limit]]. 
+
+As their memory unfolds, the Playfighting Herbalist and their friend, the [[Scarecrow Farmer]], can be seen collecting mushrooms growing among the ruins of a boat.
+
+At the end of the memory, the Scarecrow Farmer sneaks up on the Playfighting Herbalist and scares them as a prank. The frightened Spirit drops their gathered mushrooms into the [[Flora,_Minerals_and_Elements_of_Sky#Polluted_Water|Polluted Water]] below, rendering them inedible. The Playfighting Herbalist slowly turns around and playfully ‘attacks’ the Farmer in retaliation, as the Scarecrow Farmer crouches down, arms thrown up, in an attempt to shield themselves from their friend’s ‘attack.'<br>
+<br>
+[[File:04 GW Seasonal Spirit - Playfighting Herbalist.jpg|200px|thumb|none|Relive the Playfighting Herbalist's memory]]
+</div>
+{{Clear}}
+
+== <span id="Expression">Friend Action</span> ==
+''Note: While this Spirit can be found in Forgotten Ark, the upgrade to the "Play Fight" Friend Action will not be available for those who missed the Season or those who did not purchase the [[Season Pass]] until the Spirit returns as a Traveling Spirit.''
+
+This Spirit offers the {{Emote||inline_text}}, which has 2 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Playfighting-Herbalist-play-fight-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Playfighting-Herbalist-play-fight-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+</gallery>
+
+*Level 1 will make your avatar crouch down with their hands held at the ready before standing back up to playfully hit your friend on their back, as they turn away from your avatar's hands to accept the blows, while a crashing percussion sound effect plays.
+*Level 2 will make your avatar crouch down with their hands held at the ready before standing back up to playfully hit your friend at a more rapid pace, as they turn to the side and hold up an arm in attempt to fend off the blows, while a more dramatic percussion sound effect plays.
+
+Like any [[Friendship Menu#Extended Two-Player Abilities|Extended Two-Player Abilities]], this ability can be upgraded by opening your friend's Friendship Menu. Unlocking the Level 1 ability will cost you {{Cost|8 C}}. After unlocking Level 1, it will cost you {{Cost|10 C}} more to upgrade to the Level 2. (See [[Friendship Menu]] to view the entire Friendship Tree.)
+
+As a Traveling Spirit, the price of the Friend Action upgrade was {{Cost|10 H}}. During the Season, Level 1 was free, but Level 2 was only available to [[Season Pass]] holders.
+
+== Cosmetics ==
+=== Mask ===
+The [[Mask]] offered by this Spirit includes a version of the [[Masks#Base Mask|Base Mask]] but with a shiny golden square replacing the glowing hole on the forehead, and an orange mouth veil with a fringe, costing {{Cost|30 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's second node ({{Cost|14 SC|season=Enchantment}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Hair ===
+The [[Hair]] offered by this Spirit is a pair of thick pigtails with purple hair ties and a wide purple forehead band with gold accents, costing {{Cost|42 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|48 SC|season=Enchantment}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair front
+{{Icon Name||Hair|side}} {{!}} The Hair side
+{{Icon Name||Hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Cape ===
+The [[Cape]] offered by this Spirit is a magenta with a short, asymmetrical orange layer and a string of tassels layered on top, costing {{Cost|70 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fifth node ({{Cost|68 SC|season=Enchantment}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||Cape|interior}} {{!}} The Cape interior
+{{Icon Name||Cape|real}} {{!}} The Cape back
+{{Icon Name||Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Prop ===
+The [[Prop]] offered by this Spirit is a glowing, floating, yellow orb, costing {{Cost|20 C}} from the Traveling Spirit. It is a placeable Prop that can be used to decorate [[Shared Spaces]] and provides a small bit of illumination. It appears as a backpack on its owner's back when carried.
+
+This item was not available during the [[Season of Enchantment]]. Instead, it was added to the Playfighting Herbalist's Friendship Tree during their first visit as a [[Traveling Spirit]] on October 28, 2021.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Prop|icon}} {{!}} The Prop icon
+{{Icon Name||Prop|real}} {{!}} The Prop
+{{Icon Name||Prop|held}} {{!}} The Prop from a wider distance
+{{Icon Name||Prop|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Music Sheet ==
+The Playfighting Herbalist offers the {{Music Sheet|13}} [[Music Sheet]] #13, costing {{Cost|15 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fourth node ({{Cost|48 SC|season=Enchantment}} total). It is a song in the key of E♭ Major.<br>
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guide
+|content=
+<br>
+{{#ev:youtube|ZNo9wXohMu8||inline|Music Sheet Video Guide by thatskyfox (Fox Band)}}&nbsp;&nbsp;
+{{#ev:youtube|EOTl37Dp3tI||inline|Music Sheet Video Guide by Wolf-Girl-Galaxy Flower}}
+}}
+{{Clear}}
+
+== Traveling Spirit ==
+[[File:Playfight herbalist-TS.jpeg|200px|right|thumb]]
+{{Friendship Tree Info | traveling
+|ts_dates=*October 12, 2023 (#98)
+*October 28, 2021 (With a new [[#Prop|Prop]]) (#47)
+}}<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Playfighting Herbalist
+|season = Enchantment
+|image  = Enchantment-Spirit-Playfighting-Herbalist.png
+
+|nodeC6 = Cape 70 C
+|nodeL5 = Hair 42 C
+|nodeC5 = spell5
+|nodeR5 = Prop 20 C NEW
+|nodeL4 = emote2 10 H
+|nodeC4 = spell5
+|nodeR4 = music13 15 C
+|nodeC3 = wing
+|nodeL2 = Mask 30 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+The hints given before the [[Playfighting Herbalist]]'s first appearance were: 
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=First Visit Hints
+|content=<div>
+* Makes the best soups, specifically minestrone
+* Has never gotten food poisoning
+* Is afraid of storms
+* Has a best friend 
+* Doesn't like crabs 
+* Their favorite time of day is the golden hour
+* Is not a good baker
+* Likes hiking
+* Likes citrus flavors
+* Gets headaches often
+* Doesn't use social media
+* Tends to lose track of their items
+* Is not afraid of heights
+* Gets frizzy hair
+</div>
+}}
+
+The hints given before the [[Playfighting Herbalist]]'s second appearance were: 
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Second Visit Hints
+|content=<div>
+* Ranks vegetables by taste
+* Doesn't think puns are funny
+* Is great at finding lost objects
+* Enjoys taking care of their friends
+* has never tried gummi candy
+* Has a hard time making friends, but they try!
+* Makes a funny-sounding squeak when startled
+</div>
+}}
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Enchantment}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Playfighting Herbalist
+|type   = season
+|season = Enchantment
+|image  = Enchantment-Spirit-Playfighting-Herbalist.png
+
+|nodeC6 = season_heart 3 SC AP
+|nodeL5 = spell5 AP
+|nodeC5 = Cape 20 SC
+|nodeL4 = Hair AP
+|nodeC4 = music13 18 SC
+|nodeL3 = emote2 AP
+|nodeC3 = spell5 16 SC
+|nodeL2 = spell5 AP
+|nodeC2 = Mask 14 SC
+|nodeL1 = spell5 AP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Trivia==
+* The Play Fight Action is featured in a piece of merch from thatskyshop, in the form of the [[That Sky Shop/Wave 5#Enchantment Play Fight Pins|Enchantment Play Fight Pins]]. It has a STAR feature which allows you to offer a play-fight to your friend regardless of your Friendship Level.
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Playfighting Herbalist Promo image (second visit).png
+play fight spirit.png
+enchantment watching play fight - ase.jpeg
+play fight spirit map.png
+</gallery>
+
+==References==
+<references/>
+
+[[de:Spielkämpfender Kräutersammler]]
+[[pt-br:Herbalista Lutadora]]
+[[ru:Дурачащийся травник]]
+[[fr:Herboriste combattant]]

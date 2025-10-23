@@ -1,0 +1,341 @@
+{{Season
+| title = Season of Duets
+| image = SoDuets-Guide-and-Cellist-together-promo-image.png
+| start = July 15, 2024
+| end = September 29, 2024
+| spirits = 6
+| previousSeason = [[Season of Nesting]]
+| nextSeason = [[Season of Moomin]]
+| constellation = Duets-Constellation.png
+| symbol = Season-of-Duets-icon.png
+}}
+
+The '''Season of Duets''' was the twenty-second Seasonal Event in the Live version of ''Sky'' since the global release, following [[Season of Nesting]]. It began on '''Monday, July 15, 2024 at 00:00 PDT (UTC -7)''' and ended on '''Sunday, September 29, 2024 at 23:59 PDT (UTC -7)''', lasting '''77''' days.
+
+Join the Season of Duets to enter the story of two [[Spirits]] who were once connected through their music.<br>
+<br>
+{{#ev:youtube|sbBdJQC4MLc||inline|Season of Duets Trailer}}
+
+==Welcome==
+<center class="title-text-welcome">[https://www.thatskygame.com/news/connect-through-meaningful-harmonies-in-season-of-duets/ Welcome to the Season of Duets!]</center>{{Quote|<br>'''''The Aviary Village concert hall awaits you 🎼'''''}}
+
+Even the simplest of melodies can create connections between [[Spirits]], you, and your fellow [[Sky Children|Children of the Light]]. Discover ways to bring meaningful musical experiences to life in the Season of Duets and enter the story of two [[Spirits]] who were once connected through their music.
+
+The [[Duets Guide]] awaits you in a new area in [[Aviary Village]] called the [[Concert Hall]]. Take to the stage here with your [[Instrument]] of choice, and you can share your favorite songs with friends in an area made especially for your music to shine. Special display stands in a backstage room offer new Seasonal cosmetics, with items including colorful [[Outfits]], Instruments, and musical [[Props]] tied to the Season's story.
+
+The Duets Guide also brings several items in their Friendship Tree: [[Season Pass]] holders have the chance to unlock three Ultimate Gifts, and an additional [[Mask]] can be unlocked for regular [[Currency#Candles|Candles]] even after the Season ends. As the Season progresses, you’ll meet a second Spirit and unlock a brand new [[Duets Guide#Friend Action|Expression]] that you can use with friends. 
+
+A special song will be woven through the Quests and memories that you experience along the way—complete these [[#Spirit Memory Quests|Seasonal Quests]] to discover the special meaning this holds and dive into ''Sky''’s music feature. Pick up an Instrument, take to the skies, and let your music soar!
+
+<!-- double check progress requirement -->
+<small>Note that Season of Duets can be enjoyed by all players who have progressed through at least Hidden Forest.</small>
+
+==Concert Hall==
+[[File:Aviary-Village-Concert-Hall-Entrance.png|thumb|right|300px|Concert Hall Entrance in Aviary Village]]
+{{Main|Concert Hall}}
+<br>
+The Season of Duets further expanded upon [[Aviary Village]] by bringing a brand-new concert hall with a stage that once hosted some of the [[Realm]]’s most beloved musicians. The Concert Hall is a Seasonal Area introduced along with the Season of Duets in Patch [[Update:Live_0.26.0_(272243_Android,_Huawei,_iOS,_PlayStation,_Steam)_(272595_Switch)|0.26.0]]. All the [[#Spirit Memory Quests|Quests]], [[Spirits]], and activities can be found in the area. To enter the Concert Hall, head to Aviary Village and ride the boat through a passageway in the water to the right of the [[Aviary Village#Spell Shop|Spell Shop]]. In this area you, too, may discover ways that music brings meaningful moments to life!
+{{Clear}}
+
+==Daily Quests & Seasonal Candles==
+===Daily Quests===
+Collect [[Seasonal Events#Season Candles|Seasonal Candles]] throughout the Season to trade with the new Spirits for their cosmetics. A total of 6 Seasonal Candles were available to gather, as follows:
+
+*Each day the location of the [[Daily Quests]] change, rotating through [[Daylight Prairie]] to [[Vault of Knowledge]] in order. Players could earn one Seasonal Candle per Quest completed. Complete your Quests and claim your reward at the Return Shrine Statue at [[Home]] or [[Aviary Village]]. (4 Candles)
+*Players could also collect an extra Candle by collecting the 4 Seasonal bunches <small>(more information on the "Seasonal bunches locations" below).</small> (1 Candle)
+*Players who had the [[Season Pass]] could claim a Seasonal Candle from the Return Shrine Statue at [[Home]] or the [[Aviary Village#Friendship Constellation Statue|Friendship Constellation Statue]] at Aviary Village as a free daily bonus. (1 Candle)
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape" >
+File:SoDuets-Seasonal-candles.jpg|Duets Seasonal Candles
+File:SoDuets-Season-Pass-1.png|Season Pass - page 1
+File:SoDuets-Season-Pass-2.png|Season Pass - page 2
+File:SoDuets-Season-Pass-3.png|Season Pass - page 3
+</gallery>
+
+===Seasonal Candle Bunches Locations===
+The Seasonal Candle bunches were found towards the beginning of each [[Realm]], one Realm a day according to the [[Daily Quests]]' location.<br>
+<br>
+<gallery spacing="small" captionalign="center">
+Daylight-Prairie-Seasonal-Candles-locations-Pattern-B.png|Prairie Rotation 1 & 2
+Hidden-Forest-Seasonal-Candles-locations-Pattern-B.png|Forest Rotation 1 & 2
+Valley-of-Triump-Seasonal-Candles-locations-Pattern-B.png|Valley Rotation 1 & 2
+Golden-Wasteland-Seasonal-candles-Locations-Pattern-B.png|Wasteland Rotation 1 & 2
+Vault-of-knowledge-Seasonal-candles-Locations-Pattern-B.png|Vault Rotation 1 & 2
+</gallery>
+
+==Child of Light Locations<span id="Winged Light Locations"></span>==
+No [[Children of Light]] were added to the Season of Duets.
+
+==Spirit Memory Quests==
+The Quests from the Season of Duets are different from other Seasons in that only a single new [[Spirit]] is introduced, but each Quest alters the visual appearance of the [[Concert Hall]] and weaves a tale of two musicians as you help the [[Duets Guide]] restore the stage. <!-- which quests can and cannot be replayed -->
+
+The Duets Guide first appears as a statue shrouded in [[Darkness]] near the entrance to the Concert Hall that the player must light. Once they are awakened, speak to the startled Spirit to begin learning a special song connected to their story.
+
+===<span id="Quest 1">Quest #1</span>===
+In the first Quest, the [[Duets Guide]] seeks the player's help in opening the music door blocking the entrance to the [[Concert Hall]]. After spending a few moments contemplating the large door, the Spirit pulls out a [[Harp]] and plucks a few notes which causes one half of the engravings to light up - but much to their disappointment, this fails to open the door.
+
+Pick up the {{Instrument|Fledgling Harp|icon}} Harp behind the Duets Guide to begin learning the music that will help them open the door. First is a short practice session to familiarize you with playing an [[Instrument]]. Using the cues that highlight upcoming notes, press each indicated note with good timing. After successfully completing the practice round, the Duets Guide and the player position themselves in front of the musical door, ready to play the whole song.
+
+Once again, the player must press each of the indicated notes with good timing. This version of the song requires a faster reaction time to successfully hit each note. Should you fail to successfully hit enough notes by the end of the song, the player must try again from the top.
+
+After successfully completing the song, the engravings on both sides of the door fully light up and reveal a hidden symbol resembling the Season of Duet's emblem. It then swings open to reveal the passageway beyond, where the water continues to flow through a winding path lit by braziers. Use the {{Emote|Sit|link=Menus and Controls#Sit|label=Sit|inline_text}} Expression prompt to board the boat with the Spirit and ride it into the Concert Hall proper. Once it docks and the Duets Guide exits the boat, the Quest is completed.
+
+Next, speak with the Duets Guide standing on the left side of the Concert Hall. They look upon the [[Darkness|Darkness Plants]] and [[Dark Crabs]] that have infested stage with dismay, upset by what has become of what used to be a stunning venue. Note that these Darkness Plants '''cannot be burned''' until the player makes further Quest progression.<br>
+<br>
+{{#ev:youtube|UrMBVmXywAw|300px||Quest 1 Video Guide}}
+<gallery widths="125" spacing="small" captionalign="center">
+SoDuets-Quest-1-Spirit-Husk.png
+SoDuets-Quest-1-Equip-Harp.png
+SoDuets-Quest-1-Harp-Practice.png
+SoDuets-Quest-1-Music-Door-Opens.png
+SoDuets-Quest-1-Boat-Ride.png
+</gallery>
+
+===<span id="Quest 2">Quest #2</span>===
+In the second Quest, the [[Duets Guide]] seeks the player's help in restoring the [[Concert Hall]]. The grand venue has fallen into disrepair in their absence and become overrun with [[Darkness|Darkness Plants]], [[Dark Crabs]], and cobwebs that must be cleared away. As the first step, the player is tasked with cleaning up the webs and lighting the candles at the tables facing the stage.
+
+Use your [[Flame]] to burn away the webs and light the candle on four of the tables in the Concert Hall. ''(Honking will reveal a blue star that indicates their locations.)'' Once done, the Duets Guide will direct the player's attention to the large circular structure in the ceiling above the stage. It is another musical door that requires teamwork to open, just like in the [[#Quest #1|first Quest]].
+
+The player will then automatically equip the [[Harp]] to begin playing the same song featured in the previous Quest. Using the cues that highlight upcoming notes, press each indicated note with good timing. Should you fail to successfully hit enough notes by the end of the song, the player must try again from the top. After successfully completing the song, the door opens and fills the Concert Hall with light, scaring away the Dark Crabs that infested the stage.
+
+The next task is to burn away the Darkness covering the stage, revealing a broken [[Cello]] and a [[Grand Piano]]. Once all the Darkness has been burned, the Duets Guide invites the player to {{Emote|Sit|link=Menus and Controls#Sit|label=Sit|inline_text}} at the Grand Piano to learn the rest of their song. At the end of the song, the power of the music has restored the tattered poster hanging behind the stage - and fully revitalized the venue. Lights flicker to life throughout the entire Concert Hall with reflections of rippling water appearing on the stage. As the scene draws to a close, the Quest is completed.
+
+Next, speak with the Duets Guide standing by the Grand Piano on the stage. The Spirit gazes upon the restored poster that depicts two musicians playing a duet, staring longingly at the figure playing the Cello. As they wonder about their missing companion, a statue shrouded in Darkness is revealed in a newly unlocked area behind the backstage hallway where the [[#Spirits & Cosmetics|Seasonal cosmetics]] can be found. Note that this statue '''cannot be lit''' until the player makes further Quest progression.<br>
+<br>
+{{#ev:youtube|m2YRUVuwqik|300px||Quest 2 Video Guide}}<!--
+<gallery widths="125" spacing="small" captionalign="center">
+<Quest screenshots>
+</gallery>-->
+
+===<span id="Quest 3">Quest #3</span>===
+In the third Quest, the [[Duets Guide]] seeks the player's help with restoring the mysterious husk that was revealed after completing the previous Quest. The camera slowly rotates around the Duets Guide as they play a heartfelt song on the stage's [[Grand Piano]] before cutting back to the kneeling statue shrouded in [[Darkness]]. Use your [[Flame]] to light this husk in the curtained-off area behind the backstage hallway where the [[#Spirits & Cosmetics|Seasonal cosmetics]] can be found. ''(Honking will reveal a blue star that indicates its location.)''
+
+Once done, the player is transported to a dark void, occupied only by the memory of a Grand Piano. {{Emote|Sit|link=Menus and Controls#Sit|label=Sit|inline_text}} at the Grand Piano to begin playing the song that the Duets Guide taught you previously. As the player successfully hits the notes, a cloud of blue particles swirl together and combine in a burst of golden light, revealing a young Spirit that strongly resembles the Duets Guide's missing Cellist. Use your Flame once again to begin reliving this Spirit's [[Standard Memory|memory]].<!-- with X memory fragments and a X-minute overall [[Timed Memory|time limit]]-->
+
+As their memory unfolds, child versions of the Cellist and Duets Guide can be seen listening to a conch-shaped music player and enjoying each other's company. As time passes, the pair learn how to play music of their own, soon gaining enough experience to perform for a group of [[Season of Abyss#Spirits and Cosmetics|Abyss Spirits]]. The two musicians continue to grow and travel by boat to expand their horizons, eventually arriving at [[Aviary Village]] to perform for even larger crowds and bring joy to the many Spirits that call Aviary their home.
+
+With the help of the [[Hopeful Steward]] and the [[Rhythm Guide]], the Cellist and Duets Guide proceed to set up the [[Concert Hall]] as a musical venue for both the audience and performers to enjoy. Sadly, a great tragedy awaits this grand stage. A [[Shard_Eruptions|Shard]] crashes directly into the Concert Hall, destroying the stage, damaging their instruments, and unleashing a hoard of [[Dark Crabs]] upon the frightened attendees. The two musicians end up separated during the chaos, leaving the Cellist distraught and alone among the wreckage—ultimately leading to their transformation into a stone husk. As the scene draws to a close, the Quest is completed.
+
+Next, speak with the Duets Guide standing by the Grand Piano on the stage. The Spirit gazes upon the broken [[Cello]] laying on the ground nearby, turning away and shaking their head with distress at the memory of the unfortunate event that tore them apart from the Cellist. With the completion of this Quest, the {{Spirit Item|Duets Guide|emote|link=Duets Guide#Friend Action|inline_text}} can now be collected from their [[Duets Guide#Quest Tree|Quest Tree]].<br>
+<br>
+{{#ev:youtube|4MlPAoxl90Q|300px||Quest 3 Video Guide}}<!--
+<gallery widths="125" spacing="small" captionalign="center">
+<Quest screenshots>
+</gallery>-->
+
+===<span id="Quest 4">Quest #4</span>===
+In the fourth Quest, the camera focuses on the husk containing the Cellist that still lingers in the [[Concert Hall]]'s backstage hallway. It's finally time to free the Spirit for good and reunite them with the [[Duets Guide]]. Use your [[Flame]] to light the husk where it waits in the curtained-off area behind the backstage hallway where the [[#Spirits & Cosmetics|Seasonal cosmetics]] can be found. Once done, the player is transported to a dark void containing the Cellist, standing alone and looking forlorn. Approach the Spirit and {{Icon|Icon handhold.png|link=Friendship Menu#Holding Hands|label=Hold Hands}} [[Friendship Menu#Holding Hands|take their hand]] to begin reliving yet another [[Standard Memory|memory]] from their past.<!-- with X memory fragments and a X-minute overall [[Timed Memory|time limit]]-->
+
+As their memory unfolds, the Cellist and Duets Guide can be seen sitting back-to-back on the ground, staring solemnly at the [[Darkness Plants]] that have infested their beloved Concert Hall and instruments. The pair then investigates the aftermath of the destruction seen in the previous Quest, stumbling across furniture in various states of disarray with both Darkness and [[Dark Crabs]] taking root everywhere they look.
+
+Brokenhearted, the Cellst and Duets Guide sit close together on a bench and mourn the destruction of the musical sanctuary they built together. As time passes, however, the two Spirits begin to drift apart. A rift in their relationship has formed as a result of the tragic event, with both the Duets Guide and Cellist eventually walking away from each other. Afterwards, the memory of the conch-shaped music player that brought the pair together as children appears. The Cellist lets go of the player's hand to kneel in front of it and cry, overcome by sadness over their lost connection. 
+
+As they wipe away their tears and hunch forward miserably, the memory of a [[Cello]] appears nearby. Interact with the Cello to begin learning a new part of the Duets Guide and Cellist's song. Using the cues that highlight upcoming notes, press each indicated note with good timing. Notes that must be held for several seconds are highlighted with a circle. As the player successfully hits the notes, the Cellist slowly straightens up and stands to face the player, hands clasped over their chest as they listen to the music.
+
+After successfully completing the song, the Cellist walks up to the player and takes the Cello for themself to begin playing the same song, the camera slowly rotating around them before a burst of teal light appears over their body. The scene then fades back to the Concert Hall to reveal the same burst of light appearing from the Cellist's husk - before it vanishes in a burst of sparkles, leaving behind a fully restored Cellist. 
+
+Take their hand once again to reunite the Spirit with the Duets Guide standing on the Concert Hall's stage. Together once again, the pair greet each other with a lingering hug. The Duets Guide then gestures towards the restored Cello leaning against the [[Grand Piano]] nearby. The stunned Cellist raises their hands up to their face, and as the scene draws to a close, the Quest is completed.
+
+Next, speak with the Duets Guide standing hand-in-hand with the Cellist on the stage. The musicians look up at the poster hanging on the wall behind the stage, grateful to once again be in each other's company. With the completion of this Quest, Level 2 of the {{Spirit Item|Duets Guide|emote|link=Duets Guide#Friend Action|inline_text}} can now be collected from their [[Duets Guide#Quest Tree|Quest Tree]] and additional cosmetics can now be purchased with {{Candle}} [[Currency#Candles|regular Candles]] from the [[Compassionate Cellist]].<br>
+<br>
+{{#ev:youtube|79QrQf5PH5I|300px||Quest 4 Video Guide}}<!--
+<gallery widths="125" spacing="small" captionalign="center">
+<Quest screenshots>
+</gallery>-->
+
+===<span id="Quest 5">Quest #5</span>===
+In the fifth and final Quest, the [[Duets Guide]] and [[Compassionate Cellist]] seek the player's help with performing together one more time. Return to [[Aviary Village]] and gather other [[Spirits]] to watch the performance while the musical duo warm up on stage. The player must find and interact with all five Spirits from [[Season of Abyss]] that are scattered across Aviary Village. ''(Honking will reveal a blue star that indicates their locations.)''
+
+Once all of five Spirits have been gathered together and you're ready to begin the performance, guide them back to the [[Concert Hall]] by heading towards the boat sitting in the water to the right of the [[Aviary Village#Spell Shop|Spell Shop]]. There, the Abyss Spirits seat themselves at the tables facing the stage and wait patiently for the show to start. In the dressing room behind the stage, the Duets Guide and Compassionate Cellist nod to each other with determination, dressed in full formal attire for their grand performance.
+
+Before the duo take the stage, however, the player must perform a musical prelude to initiate the concert. After {{Emote|Bowing Medalist|inline_text|label=Bowing}} to the audience, the player will automatically equip the [[Harp]] and begin playing the song taught by the Duets Guide throughout the previous Quests. Using the cues that highlight upcoming notes, press each indicated note with good timing. As the player successfully hits the notes, the Spirits in the crowd clap, and the Duets Guide and Compassionate Cellist enter the scene from backstage to take center stage.
+
+After completing the song, the reunited duo begin playing a fuller rendition of the same song on their [[Grand Piano]] and [[Cello]], the camera slowly panning across the stage and the emotional Abyss Spirits in the crowd. Partway through the song, an additional set of stage lights turn on, and the musician pair invite the player to perform alongside them for one last magical concert. Once again, the player will automatically equip the Harp to begin playing as a trio, resulting in an emotional finale that ends with an enthusiastically cheering crowd.
+
+The Duets Guide and Compassionate Cellist then link hands and perform a {{Spirit Item|Duets Guide|emote|link=Duets Guide#Friend Action|label=Duet Bow|inline_text}}, the scene briefly fading back to the memory from their childhood with both young Spirits holding up the musical conch and listening to its song that first united them all those years ago. As the scene draws to a close, the Quest is completed.
+
+Next, speak with the Duets Guide standing hand-in-hand with the Cellist in the curtained-off dressing room behind the backstage hallway where the [[#Spirits & Cosmetics|Seasonal cosmetics]] can be found. Both Spirits offer their deep gratitude for the player's help, to which the player bows back in response. The camera then focuses on the poster of a musical conch on the wall behind the pair, the melody from their childhood briefly playing once again.<br>
+<br>
+{{#ev:youtube|2g660HfdDjo|300px||Quest 5 Video Guide}}<!--
+<gallery widths="125" spacing="small" captionalign="center">
+<Quest screenshots>
+</gallery>-->
+
+==Spirits & Cosmetics==
+All of the ''Season of Duets'' Shops could be found in the Concert Hall, available after the [[#Quest #1|first Seasonal Quest]] is completed. Being a bit different from usual Seasons, there is only 1 new [[Seasonal Spirits|Spirit]] to gather once enough Seasonal Quest progress has been made, with the majority of the cosmetics instead sold from a Shop located in a hallway behind the stage, available after the [[#Quest #1|first Seasonal Quest]] is completed. There is only 1 new Expression to gather - 1 Friend Action - that's found in the [[Duets Guide]]'s Quest Tree. 
+{{#tag:gallery
+|{{Icon Name|Duets Guide|emote}} {{!}} {{Icon Name|Duets Guide|emote_name}}
+|widths=100|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===All Duets Friendship Trees===
+{{Mobile Tabber
+|tab1 = {{Season Icon|Duets|tab}}
+|c1   = {{#lst:Duets Guide|Friendship Tree}}
+|tab2 = {{Icon|Quest-icon.png|link=Quests|tab}}
+|c2   = {{#lst:Duets Guide|Quest Tree}}
+|tab3 = {{Emote|The Cellist's Beginnings|tab}}
+|c3   = {{#lst:The Cellist's Beginnings|Season Friendship Tree}}
+|tab4 = {{Emote|The Pianist's Beginnings|tab}}
+|c4   = {{#lst:The Pianist's Beginnings|Season Friendship Tree}}
+|tab5 = {{Emote|The Musicians' Legacy|tab}}
+|c5   = {{#lst:The Musicians' Legacy|Season Friendship Tree}}
+|tab6 = {{Emote|The Cellist's Flourishing|tab}}
+|c6   = {{#lst:The Cellist's Flourishing|Season Friendship Tree}}
+|tab7 = {{Emote|The Pianist's Flourishing|tab}}
+|c7   = {{#lst:The Pianist's Flourishing|Season Friendship Tree}}
+|line8 = 1
+|tab8 = {{Spirit Item|Compassionate Cellist|instrument|tab}}
+|c8   = All items remain permanently available to all players who have completed the [[Season of Duets#Quest #4|fourth Seasonal Quest]] from the Season of Duets and cost regular [[Currency]].<br>{{#lst:Compassionate Cellist|Friendship Tree}}
+}}
+
+===[[The Cellist's Beginnings]]===
+{{#lst:The Cellist's Beginnings|Summary}}
+{{#tag:gallery
+|{{Icon Name|The Cellist's Beginnings|outfit|real}} {{!}} The Outfit
+{{Icon Name|The Cellist's Beginnings|hair|real}} {{!}} The Hair
+{{Icon Name|The Cellist's Beginnings|prop|real}} {{!}} The {{Icon Name|The Cellist's Beginnings|prop_name}} Prop
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===[[The Pianist's Beginnings]]===
+{{#lst:The Pianist's Beginnings|Summary}}
+{{#tag:gallery
+|{{Icon Name|The Pianist's Beginnings|outfit|real}} {{!}} The Outfit
+{{Icon Name|The Pianist's Beginnings|hair|real}} {{!}} The Hair
+{{Icon Name|The Pianist's Beginnings|prop_r|real}} {{!}} The {{Icon Name|The Pianist's Beginnings|prop_r_name}} Prop
+{{Icon Name|The Pianist's Beginnings|prop_p|real}} {{!}} The {{Icon Name|The Pianist's Beginnings|prop_p_name}} Prop
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===[[The Musicians' Legacy]]===
+{{#lst:The Musicians' Legacy|Summary}}
+{{#tag:gallery
+|{{Icon Name|The Musicians' Legacy|instrument_c|real}} {{!}} The {{Icon Name|The Musicians' Legacy|inst_c_name}} Instrument
+{{Icon Name|The Musicians' Legacy|instrument_p_real}} {{!}} The {{Icon Name|The Musicians' Legacy|inst_p_name}} Instrument
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===[[The Cellist's Flourishing]]===
+{{#lst:The Cellist's Flourishing|Summary}}
+{{#tag:gallery
+|{{Icon Name|The Cellist's Flourishing|outfit|real}} {{!}} The Outfit
+{{Icon Name|The Cellist's Flourishing|cape|real}} {{!}} The Cape
+{{Icon Name|The Cellist's Flourishing|prop_r|real}} {{!}} The {{Icon Name|The Cellist's Flourishing|prop_r_name}} Prop
+{{Icon Name|The Cellist's Flourishing|prop_p|real}} {{!}} The {{Icon Name|The Cellist's Flourishing|prop_p_name}} Prop
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===[[The Pianist's Flourishing]]===
+{{#lst:The Pianist's Flourishing|Summary}}
+{{#tag:gallery
+|{{Icon Name|The Pianist's Flourishing|outfit|real}} {{!}} The Outfit
+{{Icon Name|The Pianist's Flourishing|shoes|real}} {{!}} The Shoes
+{{Icon Name|The Pianist's Flourishing|prop|real}} {{!}} The {{Icon Name|The Pianist's Flourishing|prop_name}} Prop
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===[[Duets Guide]]===
+{{#lst:Duets Guide|Summary}}
+{{#tag:gallery
+|{{Icon Name|Duets Guide|necklace_u|real}} {{!}} Duets Ultimate Pendant
+{{Icon Name|Duets Guide|cape_u|real}} {{!}} Duets Ultimate Cape
+{{Icon Name|Duets Guide|instrument_u|real}} {{!}} Duets Ultimate Instrument
+{{Icon Name|Duets Guide|prop_u|real}} {{!}} Duets Ultimate Prop
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+====Additional Cosmetics====
+Upon completing Quests from the Season of Duets, one additional cosmetic is available to purchase for {{Candle}} [[Currency#Candles|regular Candles]] through the Duets Guide's [[Duets Guide#Quest Tree|Quest Tree]]. '''This item will remain permanently available from the Season Guide after the Season ends.''' 
+{{#tag:gallery
+|{{Icon Name|Duets Guide|mask|real}} {{!}} Additional Mask
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===[[Compassionate Cellist]]===
+{{#lst:Compassionate Cellist|Summary}}<br>
+These two additional cosmetics are available to purchase for {{Candle}} [[Currency#Candles|regular Candles]] through the [[Compassionate Cellist]]'s [[Compassionate Cellist#Friendship Tree|Friendship Tree]]. '''These items will remain permanently available from the Season Guide and Compassionate Cellist after the Season ends.''' 
+{{#tag:gallery
+|{{Icon Name|Compassionate Cellist|Facepiece|real}} {{!}} Additional Face Accessory
+{{Icon Name|Compassionate Cellist|Instrument|real}} {{!}} Additional Instrument
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+==Price Charts==
+Use the [[Seasonal Events/Calculator|Event Calculator]] to verify the status of your Candle count.
+{| class="article-table"
+! Spirits
+! colspan="6" | Candle Cost
+! Total Seasonal Candles
+|-
+|The Cellist's Beginnings
+|{{#vardefineecho:A1| 20 }}
+|{{#vardefineecho:A2| 26 }}
+|{{#vardefineecho:A3| 32 }}
+|{{#vardefineecho:A4|  }}
+|{{#vardefineecho:A5|  }}
+|3*
+|{{Cost| {{#vardefineecho:Asum| {{#expr: {{#var:A1}} + {{#var:A2}} + {{#var:A3}} + {{#var:A4}} + {{#var:A5}} + 3 }} }} SC|season=Duets}}
+|-
+|The Pianist's Beginnings
+|{{#vardefineecho:B1| 14 }}
+|{{#vardefineecho:B2| 20 }}
+|{{#vardefineecho:B3| 24 }}
+|{{#vardefineecho:B4| 30 }}
+|{{#vardefineecho:B5|  }}
+|3*
+|{{Cost| {{#vardefineecho:Bsum| {{#expr: {{#var:B1}} + {{#var:B2}} + {{#var:B3}} + {{#var:B4}} + {{#var:B5}} + 3 }} }} SC|season=Duets}}
+|-
+|The Musicians' Legacy
+|{{#vardefineecho:C1| 14 }}
+|{{#vardefineecho:C2| 24 }}
+|{{#vardefineecho:C3| 34 }}
+|{{#vardefineecho:C4|  }}
+|{{#vardefineecho:C5|  }}
+|3*
+|{{Cost| {{#vardefineecho:Csum| {{#expr: {{#var:C1}} + {{#var:C2}} + {{#var:C3}} + {{#var:C4}} + {{#var:C5}} + 3 }} }} SC|season=Duets}}
+|-
+|The Cellist's Flourishing
+|{{#vardefineecho:D1| 16 }}
+|{{#vardefineecho:D2| 18 }}
+|{{#vardefineecho:D3| 22 }}
+|{{#vardefineecho:D4| 24 }}
+|{{#vardefineecho:D5|  }}
+|3*
+|{{Cost| {{#vardefineecho:Dsum| {{#expr: {{#var:D1}} + {{#var:D2}} + {{#var:D3}} + {{#var:D4}} + {{#var:D5}} + 3 }} }} SC|season=Duets}}
+|-
+|The Pianist's Flourishing
+|{{#vardefineecho:E1| 12 }}
+|{{#vardefineecho:E2| 22 }}
+|{{#vardefineecho:E3| 26 }}
+|{{#vardefineecho:E4|  }}
+|{{#vardefineecho:E5|  }}
+|3*
+|{{Cost| {{#vardefineecho:Esum| {{#expr: {{#var:E1}} + {{#var:E2}} + {{#var:E3}} + {{#var:E4}} + {{#var:E5}} + 3 }} }} SC|season=Duets}}
+|-
+! colspan="7" | Total for Season
+! {{Cost| {{#expr: {{#var:Asum}} + {{#var:Bsum}} + {{#var:Csum}} + {{#var:Dsum}} + {{#var:Esum}} }} SC|season=Duets}}
+|}<small>''* Only available with [[Season Pass]] (Seasonal Hearts) (subtract when calculating without)''</small>
+
+==Trivia==
+*The Season of Duets is the third Season to take place in [[Aviary Village]], following [[Season of Revival]] and [[Season of Nesting]].
+*The Season of Duets is the fourth Season to have Seasonal Entities instead of [[Seasonal Spirits]].
+*In Beta, the initial season name was "Season of Duet".
+*Season of Duets is the first season with a spirit released by Seasonal Quests.
+*The Season of Duets is the first season to have 5 [[Seasonal Entities]].
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center" >
+SoDuets-Teaser-image.png
+SoDuets-Promo-image.png
+SoDuets-boat-promo-image.png
+SoDuets-backstage-promo-image.png
+SoDuets-music-with-friends-promo-image.png
+SoDuets-Concert-Hall-promo-image.png
+SoDuets-Guide-promo-image.png
+SoDuets-Compassionate-Cellist-promo-image.png
+</gallery>
+
+==References==
+<references />
+
+{{Seasonal Navbox}}
+
+[[de:Saison der Duette]]
+[[fr:Saison des Duos]]
+[[ja:重なる音色の季節]]
+[[pt-br:Temporada de Duetos]]
+[[zh-hant:二重奏季]]
+
+{{DEFAULTSORT:Duets, Season of}}
+[[Category:Voids]]

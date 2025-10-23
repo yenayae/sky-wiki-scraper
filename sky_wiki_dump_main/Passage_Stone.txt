@@ -1,0 +1,83 @@
+{{Location
+|image      = The-Passage-Stone-in-Isle-of-Dawn.jpg
+|realm      = Isle of Dawn
+|access     = [[Isle of Dawn#Sand Dunes|Sand Dunes]]
+|season     = Passage
+|seasonal_spirits  = {{Spirit Group|Passage|format=infobox}}
+|children_of_light = 4<ref>These four Children of Light are shared with the daytime [[Children of Light#Sand Dunes|Isle of Dawn's Children of Light]].</ref>
+|pieces_of_light   = 189<ref>These pieces of light are shared with the main daytime instance of [[Isle of Dawn]] (Sand Dunes, Butterfly Cave, & Temple). </ref>
+|map=
+|mapcaption=
+}}
+<section begin="Quote" />{{Quote|<br>'''''A place of learning and cooperation.'''''|Passage Stone Opening}}<section end="Quote" />
+
+<section begin="Summary" />The '''Passage Stone''' is the stone ramp in the middle of sand dunes in [[Isle of Dawn]]. Updated with the [[Season of Passage]] in Patch {{v|0.21.0}} with the addition of a campfire - where the actual area is found. All the quests, spirits, and activities can be found in this area. To enter the Passage Stone, head to the middle of [[Isle of Dawn]], where a bonfire with a meditation circle allows you to rest until ''nightfall''. To unlock the meditation circle, the account would have had to progressed through at least [[Hidden Forest]]. Experience the memories of four young Spirits, and share in the passages that brought them together as they navigate their way towards community.<section end="Summary" />
+__TOC__
+{{Clear}}
+==Overview==
+After resting, you will wake in Isle of Dawn except in the night. The area remains the same as the daytime version, except there are stars in the sky and a camping equipment set up around the muraled monument. There are four Seasonal Spirits to find within the Passage Stone area - whom are unlocked after completing [[Season of Passage#Quest #1|Quest #1]] - which upon reliving will give you their unique [[Expressions]].
+
+The [[Passage Guide]] stands on the left of the main campfire, embarking you on six quests. Each quest a rite that challenges initiates to build towards a goal. Every quest utilises the [[Festival Tech]] feature, allowing players to match-make with other players to do the quest together.
+
+===Child of Light Locations===
+There are are no ''new'' Children of Light within the Passage Stone nightfall area as it uses the same map as daytime [[Children of Light#Sand Dunes|Sand Dunes]]'s main area.
+
+===Spirits in the Passage Stone===
+In the Passage Stone, there are 4 [[Seasonal Spirits]] ({{Spirit|Oddball Outcast|Inline_text}}, {{Spirit|Tumbling Troublemaker|Inline_text}}, {{Spirit|Melancholy Mope|Inline_text}}, {{Spirit|Overactive Overachiever|Inline_text}})
+
+<section begin="SpiritTabber" />{{Mobile Tabber 
+|tab1 = {{Emote|Oddball Outcast|tab}}
+|c1   = <div> {{#ev:youtube| Ev1SkZRrwV0 |400|right}} {{#lst:Oddball Outcast|Summary}} {{#if: {{#lst:Oddball Outcast|TS Friendship Tree}} | {{#lst:Oddball Outcast|TS Friendship Tree}} | {{#lst:Oddball Outcast|Season Friendship Tree}} }} </div>
+|type1= seasonal
+
+|tab2 = {{Emote|Tumbling Troublemaker|tab}}
+|c2   = <div> {{#ev:youtube| LQAdsM3l6vg |400|right}} {{#lst:Tumbling Troublemaker|Summary}} {{#if: {{#lst:Tumbling Troublemaker|TS Friendship Tree}} | {{#lst:Tumbling Troublemaker|TS Friendship Tree}} | {{#lst:Tumbling Troublemaker|Season Friendship Tree}} }} </div>
+|type2= seasonal
+
+|tab3 = {{Emote|Melancholy Mope|tab}}
+|c3   = <div> {{#ev:youtube| dj5NMRkGBoo |400|right}} {{#lst:Melancholy Mope|Summary}} {{#if: {{#lst:Melancholy Mope|TS Friendship Tree}} | {{#lst:Melancholy Mope|TS Friendship Tree}} | {{#lst:Melancholy Mope|Season Friendship Tree}} }} </div>
+|type3= seasonal
+
+|tab4 = {{Emote|Overactive Overachiever|tab}}
+|c4   = <div> {{#ev:youtube| JJGW3koPH3Y |400|right}} {{#lst:Overactive Overachiever|Summary}} {{#if: {{#lst:Overactive Overachiever|TS Friendship Tree}} | {{#lst:Overactive Overachiever|TS Friendship Tree}} | {{#lst:Overactive Overachiever|Season Friendship Tree}} }} </div>
+|type4= seasonal
+}}<section end="SpiritTabber" />
+
+==Activities==
+===Passage Quests===
+<div style="float:right">{{Mobile Tabber| 
+|tab1 = 1
+|c1   = <div> {{#ev:youtube|5glJpVDvBAI|300|right}} </div>
+
+|tab2 = 2
+|c2   = <div> {{#ev:youtube|xLNv6QYTvP4|300|right}} </div>
+
+|tab3 = 3
+|c3   = <div> {{#ev:youtube|nKb4ZlBLLYE|300|right}} </div>
+
+|tab4 = 4
+|c4   = <div> {{#ev:youtube|aXshB3wWGZ0|300|right}} </div>
+
+|tab5 = 5
+|c5   = <div> {{#ev:youtube|ska7iT_PZgs|300|right}} </div>
+}}</div>
+The Passage Stone area holds the [[Season of Passage]]'s Seasonal Quests, rituals utilising [[Festival Tech]] to bring players together to build towards a goal without anyone being left behind. There are a total of 5 Quests, which are described in detail in the [[Season_of_Passage#Spirit_Memory_Quests|Season's page]]. These rituals begin at set intervals several times per hour (every 15 minutes - x:00, x:15, x:30, x:45), to allow a greater amount of initiates to participate together. These quests can be begun in the [[Passage Stone]] from the [[Passage Guide]] and later replayed in their set locations. Each ritual had a different genre, from collaboration to competitions.
+{{clear}}
+==Trivia==
+*The Passage Stone came out April 17, 2023
+<references />
+
+==Changelog==
+{{Scrollbox
+|text=<div>
+{{v|0.21.0}}
+* With [[Season of Passage]], the Passage Stone with six Seasonal Spirits was introduced. In addition to a revamp of the centre stone in the [[Sand Dunes]]</div>
+}}
+
+{{GameLevelsNav}}
+
+[[pt-br:Pedra da Passagem]]
+[[ja:ならいの大岩]]
+[[fr:Pierre d'Initiation]]
+
+[[Category:Isle of Dawn]]

@@ -1,0 +1,130 @@
+{{Location
+|image      = Starlight Desert Header.png
+|realm      = Vault of Knowledge
+|access     = [[Vault of Knowledge#Collaboration|Collaboration]], [[Wind Paths]]
+|season     = The Little Prince
+|seasonal_spirits  = {{Spirit Group|The Little Prince|format=infobox}}
+|children_of_light = 3 {{Icon|Map-Shrine-flashing-Star-WL-indicator.png|link=Children of Light#{{{title|{{PAGENAME}}}}}}}
+|pieces_of_light   = 140 {{Cost|L}}
+}}
+<section begin="Quote" />{{Quote|<br>'''''Where dreamlike worlds collide.'''''|Starlight Desert Opening}}<section end="Quote" />
+<section begin="Summary" />The '''Starlight Desert''' is a Seasonal area added to [[Vault of Knowledge]], introduced along with the [[Season of The Little Prince]] in Patch {{v|0.14.0}}. All the quests, spirits, and activities can be found in this area. To enter the Starlight Desert, head to the [[Vault of Knowledge#Collaboration Room|Collaboration Room]] in the Vault of Knowledge - left from where the player spawns once heading into the Vault portal - and sit in the alcove with the {{Season Icon|Little Prince|inline_text|label=Little Prince}} mural. A Spirit Gate requiring 1 Regular Spirit from Vault will be required to enter. {{Wind Pathway|3}}, in the clouds behind the rose aviary. <section end="Summary" />
+__TOC__
+{{Clear}}
+==Overview==
+The Starlight Desert is a vast expanse of shimmering sand dune bathed in a perpetual twilight, where the stars above cast a gentle glow upon the landscape. All around the area will be familiar scenes from the titular story of Antoine de Saint-Exupéry's [[wp:The Little Prince|The Little Prince]] (French: ''Le Petit Prince''); a subjectless king, a narcissist actor, a shameful drunkard, a greedy businessman, a burdened lamplighter, and a speculating geographer. Explore and discover the various ironies and beauties of the Starlight Desert.
+
+In the center of the dunes stands [[The Rose]] - acting as The Little Prince Guide. All around the Rose is 6 Seasonal Spirits, modeled after the characters above, to relive and receive their unique [[Expressions]]. Additionally there is a [[Map Shrine]] in the Garden area. This area holds 2 sub-areas, the Jellyfish Cove and Windy Dunes.
+
+===Child of Light Locations===
+Three (3) [[Children of Light]] have been added to the new [[Starlight Desert]] area.<br>
+{{#lst:Children of Light|StarlightDesert Children}}
+
+===Spirits in the Starlight Desert===
+The Starlight Desert holds 6 [[Seasonal Spirits]] ({{Emote|Beckoning Ruler}}[[Beckoning Ruler]], {{Emote|Gloating Narcissist}}[[Gloating Narcissist]], {{Emote|Stretching Lamplighter}}[[Stretching Lamplighter]], {{Emote|Slouching Soldier}}[[Slouching Soldier]], {{Emote|Sneezing Geographer}}[[Sneezing Geographer]], {{Emote|Star Collector}}[[Star Collector]]).
+<section begin="SpiritTabber" />{{Mobile Tabber 
+|tab1 = {{Emote|Beckoning Ruler|tab}}
+|c1   = <div> {{#ev:youtube|k-gGWR9dhvw|400|right}} {{#lst:Beckoning Ruler|Summary}} {{#lst:Beckoning Ruler|TS Friendship Tree}} </div>
+|type1= seasonal
+
+|tab2 = {{Emote|Gloating Narcissist|tab}}
+|c2   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Gloating Narcissist|Summary}} {{#lst:Gloating Narcissist|TS Friendship Tree}} </div>
+|type2= seasonal
+
+|tab3 = {{Emote|Stretching Lamplighter|tab}}
+|c3   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Stretching Lamplighter|Summary}} {{#lst:Stretching Lamplighter|TS Friendship Tree}} </div>
+|type3= seasonal
+
+|tab4 = {{Emote|Slouching Soldier|tab}}
+|c4   = <div> {{#ev:youtube|_1qdnIb1y94|400|right}} {{#lst:Slouching Soldier|Summary}} {{#lst:Slouching Soldier|TS Friendship Tree}} </div>
+|type4= seasonal
+
+|tab5 = {{Emote|Sneezing Geographer|tab}}
+|c5   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Sneezing Geographer|Summary}} {{#lst:Sneezing Geographer|TS Friendship Tree}} </div>
+|type5= seasonal
+
+|tab6 = {{Emote|Star Collector|tab}}
+|c6   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Star Collector|Summary}} {{#lst:Star Collector|TS Friendship Tree}} </div>
+|type6= seasonal
+}}<section end="SpiritTabber" />
+
+==Giant Jar==
+[[File:Giant-Jar-Interior-Little-Prince.png|thumb|right|300px|Interior of the Giant Jar]]
+The Giant Jar is a big, overturned jar, located near the entrance to the Starlight Desert and the entrance to The Windy Dunes. The inside of the jar is relatively small and is scattered with a multitude of jars and other debris. The [[Slouching Soldier]] also resides inside the jar among the rubble.
+{{Clear}}
+==Jellyfish Cove==
+[[File:Starlight-Desert-Jellyfish-Cove.png|thumb|right|300px|Jellyfish Cove in the Starlight Desert]]
+The Jellyfish Cove is located near the Garden and rose aviary in the Starlight Desert, hidden within the clouds. The cove is a hidden sanctuary with a shipwreck abundant with [[Jellyfish]]. Compared to other areas of the game, the gravity is also much weaker, allowing the player to jump much higher and glide much further. Within the shipwreck is the [[Star Collector]], available to be relived.
+{{Clear}}
+==The Land of Tears==
+[[File:Vault-Starlight-Desert-Land-of-Tears.png|thumb|right|300px|The Land of Tears]]
+The Land of Tears is located towards the Eden Mountain in the Starlight Desert. Fly above the clouds and land on the dunes and keep walking towards the mountain. Do not fly as the winds are extremely strong and will push you back. The transition is only unlocked after opening [[Season of The Little Prince#Quest #6|Little Prince Quest #6]].
+{{Clear}}
+===Sky Memorial ===
+[[File:Starlight-Desert-Memorial.png|thumb|right|300px|Sky Memorial in The Land of Tears]]
+<section begin="Memorial Quote" />{{Quote|<br/>'''''In loving memory of Don Heim and all the loved ones we've lost.'''''|Memorial Opening}}<section end="Memorial Quote" />
+<section begin="Memorial" />
+A monument was added to the Land of Tears area of the Starlight Desert in honor of a late TGC employee in Patch {{v|0.21.0}}, and others in-team to whom TGC has had to say goodbye to. It also serves as a spot for those to place a message for your lost beloved ones. While in the area, the OST "[[Original Sound Track#Volume 3|Attachments]]" from the 3rd Sky OST Volume by Vincent Diamante will play in the background. 
+::''“In one of the stars I shall be living. In one of them I shall be laughing. And so, it will be as if all the stars will be laughing when you look at the sky at night.”'' <section end="Memorial" />
+{{Clear}}
+==Activities==
+===The Little Prince Quests===
+<div style="float:right">{{Mobile Tabber|textonly=1
+|tab1 = 1
+|c1   = <div> {{#ev:youtube|9PXcLV_bwHI|300|right}} </div>
+|tab2 = 2
+|c2   = <div> {{#ev:youtube|Xp4vtmIxULU|300|right}} </div>
+|tab3 = 3
+|c3   = <div> {{#ev:youtube|wWzMIep6OeA|300|right}} </div>
+|tab4 = 4
+|c4   = <div> {{#ev:youtube|QaohP6heJwA|300|right}} </div>
+|tab5 = 5
+|c5   = <div> {{#ev:youtube|BfUIYewIs48|300|right}} </div>
+|tab6 = 6
+|c6   = <div> {{#ev:youtube|4Y8D2j_c6lg|300|right}} </div>
+|tab8 = 7
+|c7   = <div> {{#ev:youtube|dNlTuQGZ8-E|300|right}} </div>
+}}</div>
+In the Starlight Desert players are able to do Seasonal Quests from [[Season of The Little Prince]]. Follow the adventures of the Little Prince as he travels through the realms of Sky. Play hide'n'seek, tour around the area, and play songs. Follow his adventures while discovering [[The Rose]]'s reflections.
+{{Clear}}
+
+==Gallery==
+<gallery widths="115" spacing="small" captionalign="center" hideaddbutton="true" mode="nolines">
+File:SOTLP photos beckoning emote.jpeg
+File:SOTLP photos group beckoning.png
+File:SOTLP photos narcissist emote.png
+File:SOTLP photos group narcissist.jpeg
+File:SOTLP photos shrewd emote.png
+File:SOTLP photos group shrewd.png
+File:SOTLP photos slouching emote.png
+File:SOTLP photos group slouching.jpeg
+File:SOTLP photos sneeze emote.png
+File:SOTLP photos group sneeze.png
+File:SOTLP photos stretch emote.png
+File:SOTLP photos group stretch.png
+File:SOTLP photos group stretching.jpeg
+File:SOTLP photos the group 1.jpeg
+File:SOTLP photos group looks at eden.jpeg
+File:SOTLP photos group in flight.jpeg
+File:SOTLP photos group 2.jpeg
+File:SOTLP photos rose garden.jpeg
+File:SOTLP photos rose garden 2.JPG
+File:SOTLP photos toward the mountain.jpeg
+File:SOTLP photos at campfire.jpeg
+File:SOTLP photos asleep at campfire.jpeg
+</gallery>
+
+==Trivia==
+*The tunnel entrance after entering the [[Spirit Gate]] leading to the Starlight Desert shares a striking resemblance to the Pink Desert in [https://journey.fandom.com/wiki/Journey_Wiki Journey], a game also developed by thatgamecompany.
+*The entrance to the Starlight Desert previously connected directly to the [[Vault of Knowledge#Social Space|Vault Social Space]], but with Update {{v|0.23.5}}, the entrance was moved into the newly added [[Vault of Knowledge#Collaboration Room|Collaboration Room]]. 
+*The Jellyfish Cove was used as the [[Days of Love#February 2024|Days of Love 2024]] event space, adding a new dock and small islets to the area.
+*The Starlight Desert is featured in a piece of merch from thatskyshop, in the form of the [[That Sky Shop/Wave 10#Starlight Desert Pin|Starlight Desert Pin]]. It has a STAR feature which allows you and the friends holding your hand to teleport to the Rose Garden in the Starlight Desert.
+
+{{GameLevelsNav}}
+
+[[fr:Désert Stellaire]]
+[[pt-br:Deserto da Luz Estelar]]
+[[de:Sternenlichtwüste]]
+[[ja:星月夜の砂漠]]
+
+[[Category:Vault of Knowledge]]

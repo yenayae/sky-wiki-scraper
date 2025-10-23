@@ -1,0 +1,235 @@
+There are several '''Currencies''' in Sky that can be used to unlock a variety of items, such as [[Cosmetics]], [[Spells]], [[Expressions#Upgrading Expressions|Expression upgrades]], and more. The game currently has six types available:
+* [[#Candles|Candles]]
+* [[#Hearts|Hearts]]
+* [[#Season Candles|Season Candles]]
+* [[#Season Hearts|Season Hearts]]
+* [[#Ascended Candles|Ascended Candles]]
+* [[#Event Tickets|Event Tickets]]
+
+== Candles ==
+''[[File:White_candles_info.jpg|thumb|In-game info]]'''''Candles''', or '''White Candles''' (not to be confused with the Red Candles scattered around Realms), are the oldest Currency in the game. Furthermore, they are the most common and versatile type of Candle.
+
+These Candles can be used to purchase both [[Expression]] upgrades, [[Blessings (Spells)|Blessings]], and [[Special Events|Special Event Cosmetics]] from Spirits. They may also be used to buy returning [[Seasonal Events|Seasonal Cosmetics]] via [[Traveling Spirits]].
+
+Candles are also required for almost all social interactions in the game. For example, making friends with other players generally requires the exchange of one Candle by either party. Additional Friend Actions, such as High Five, Hug, and Piggyback, require the use of more Candles. For more information, visit the [[Making Friends]] page.
+
+====Candle Runs====
+[[File:Light_red_candles.png|left|thumb|136x136px|Lighting Red Candles]]
+
+Players will frequently travel through the Realms collecting [[Pieces of Light]] on a daily basis. This is known as Candle Running or Candle Farming. When players light Red Candles, burn [[Darkness]], or spend time in [[Additional_Light_Sources|Social Light Areas]], Pieces of Light (also known as Wax) will start filling up the Candle meter in the upper left corner of the screen. Once the Candle meter fills to the top, a blinking red dot appears. Tapping on it allows you to forge a Candle, which is added to your inventory. Any excess Light is transferred to the progress of the next Candle; you will not lose any Candles if you do not forge them right away.
+
+For more information on locations, visit the [[Interactive Maps]] page or the [[Pieces of Light]] page.<br>
+<br>
+[[File:Bonus Candles realm.png|right|thumb|136x136px|Realm Portal with Bonus Candles]]
+
+'''Treasure Candles '''(also known as Bonus Candles, Candle Clusters, Candle Cakes, etc.) are large clumps of Red Candles that reward players with a sizeable amount of Light when lit. Every day there are four bonus Treasure Candles scattered throughout a specific Realm, indicated by the two Red Candles in front of the chosen Realm portal at [[Home]]. These Treasure Candles rotate between several specific sets of locations in each Realm, and finding all four will give the player 200 Pieces of Light in total. There are also several permanent Treasure Candles: 15 in [[Isle]], 3 in [[Prairie]], 2 in [[Forest]], 3 in [[Valley]], and 9 in [[Vault]].
+
+For more information on locations, visit the [[Treasure Candles]] page.
+
+====Daily Quests====
+Candles can also be collected by completing [[Quests|Daily Quests]] between Seasons. The Quests change every day and are accessed by selecting the buttons over the Return Shrine Statue at Home or the Daily Quest Spirits at [[Aviary Village]]. If you have forgotten the specifics of a Quest, you may tap the upper left corner of your screen on a mobile device, the left arrow button on a controller, or the Shift key on PC. The icons of the Quests of the day will appear white while unfinished and turn yellow when completed. To receive your reward of 1 White Candle per Quest, simply select the buttons over the Return Shrine at Home or the Daily Quest Spirits at Aviary Village again.<br>
+<br> 
+As for Quests '''during''' a Season, each Quest rewards 1 [[#Season Candles|Season Candle]] instead.
+
+====Candle Packs====
+Candle Packs containing different numbers of Candles are always available to purchase using real money from the [[Premium Candle Shop]]. Additionally, White Candles are often bundled with other In-App Purchases (IAPs).
+
+==Hearts==
+''[[File:Heart_info.jpg|thumb|In-game info]]''
+'''Hearts''' are the Currency used for almost all of the game's [[Cosmetics]] available through [[Regular Spirits]] in the Realm Constellations. Generally speaking, items from the Constellations of the later Realms will be more expensive than items from earlier ones. They are also used to purchase [[Expressions#Upgrading Expressions|Expression upgrades]] from [[Traveling Spirits]] and certain Cosmetics from [[Special Events]] or [[Seasonal Events]].
+
+Hearts can be collected in a multitude of ways:
+
+*Receiving them from friends as gifts
+*Collecting Gifts of Light your friends have sent you (60 light gifts make up 1 Heart)
+*Purchasing them yourself from Spirits
+*Completing [[Seasonal Events|Seasonal Quests]]
+*Converting unspent [[#Season Hearts|Season Hearts]] at the end of the Season
+*Other players spending 3 candles to send you a Heart through one of your [[Message Candle Spots|Message Candles]], [[Blessings (Spells)|Message Boats]], [[Shared Spaces]], or [[Shared Memories Candles|Shared Memories]]
+*Meditating at the two Meditative Stones (one in Forest Social Space, the other in Orbit)
+
+'''Collecting Hearts in order to unlock Cosmetics can be slow-going. It's important not only to be patient, but also to be generous with others.''' 
+<br>
+
+====Gifts from Friends====
+Gifting a Heart to a friend is done by selecting the {{Icon|Gift-heart.png}} Gift icon in the Friend Menu, which requires spending 3 Candles {{Cost| C}}. The Gift icon can be accessed both at the [[Constellation_Table#Friendship_Constellations|Friend Constellation]] at [[Home]] or [[Aviary Village]], and by selecting a friend in the game. To gift a Heart, players '''must first unlock {{Icon|Icon_high_five.png|inline_text|label=High Five|link=Friendship Menu#High Five}}''' with that friend. This requirement applies to both in-person gifting and gifting via the friend's Star in the Friendship Constellation. For more detailed information, visit the [[Making Friends]] page.
+
+To gift Hearts to friends, players must reach the first area of the [[Valley of Triumph]], but there is no such requirement to receive a Heart.
+
+Only one Heart can be gifted to a specific friend per day, encouraging players to gift Hearts to a variety of people rather than gifting the same friend repeatedly. If a player has received a Heart through the [[Constellation Table]], it will be visible in their Friend Constellation. They can collect it by selecting the friend's Star and selecting the Heart Envelope {{Icon|Gift-heart-sent-icon.png}} in the menu.
+
+Collecting Gifts of Light (Heart fragments) sent by friends in the Friendship Constellation will also allow players to collect Hearts. Players must receive '''60 Heart fragments''' of these Gifts of Light to completely fill the Heart meter on the upper left side of the screen.
+
+The limit for the amount of hearts you can send one person per day is '''two'''. The first is through the friendship menu/friend constellation and the second is through shared memories or spaces. During certain events like [[Days of Fortune]] you can send up to '''six''' per day. Five through the friendship menu/friend constellation and one through shared memories or spaces.
+
+====Spirit Shops and Seasonal Quests ====
+A limited number of Hearts can be purchased from [[Ancestor Spirits]] and [[Ancestors#Guides|Season Guides]]. These Hearts always cost 3 Candles each, and never reset, meaning each Heart can only be bought once.
+
+{{Cost|37 H}} total can be purchased from [[Regular Spirits]], one per Spirit. Each Heart is available after unlocking the first node (a [[Spell]] costing 1 Candle) in the Spirit's Friendship Tree.
+
+Each [[Seasonal Spirit]] from the current Season has one [[#Season Hearts|Season Heart]] that can be purchased for 3 [[#Season Candles|Season Candles]] (see [[#Season Hearts|Season Hearts]] for details). This Season Heart is converted to a regular Heart if it is not used before the end of the Season.
+
+When Seasonal Spirits from past Seasons return as [[Traveling Spirits]], there is always one Heart in their Friendship Tree. The Heart can be purchased for 3 Candles, after unlocking the first node (a Spell costing 5 Candles).  However, you can only buy a Heart from a Spirit once -- if you bought the Spirit's Season Heart during their Season, or if you bought their Heart during a previous visit, you cannot purchase it again.
+
+In addition, {{Cost|92 H}} total are currently available for purchase from the various Season Guides (also known as Quest Givers).  Typically, each time a Quest is completed, it unlocks one Heart. These Hearts are free if the Quests are completed during that Guide's Season. After the Season ends, each Heart costs 3 Candles (and can only be purchased once, only if you did not get the free in-Season Heart). Note that the [[Season of Enchantment]] was the first Season to have Quests and a Season Guide who remained present in game after the end of the Season, meaning no Hearts are available from the previous four Seasons.
+
+{| class="article-table sortable"
+|+Hearts Sold by Season Guides
+|-
+!Guide
+!Hearts
+!Location
+!Season
+|-
+|[[Enchantment Guide]]||{{#vardefineecho:G1|6}}||[[Forgotten Ark]]|| {{Season Icon|Enchantment|Inline_text}}
+|-
+|[[Sanctuary Guide]]||{{#vardefineecho:G2|6}}||[[Sanctuary Islands]]|| {{Season Icon|Sanctuary|Inline_text}}
+|-
+|[[Prophecy Guide]]||{{#vardefineecho:G3|4}}||[[Cave of Prophecies]]||{{Season Icon|Prophecy|Inline_text}}
+|-
+|[[Dreams Guide]]||{{#vardefineecho:G4|5}}||[[Village of Dreams]]||{{Season Icon|Dreams|Inline_text}}
+|-
+|[[Assembly Guide]]||{{#vardefineecho:G5|3}}||[[Treehouse]]|| {{Season Icon|Assembly|Inline_text}}
+|-
+|[[The Rose]]||{{#vardefineecho:G6|7}}||[[Starlight Desert]]||{{Season Icon|The Little Prince|Inline_text}}
+|-
+|[[Flight Guide]]||{{#vardefineecho:G7|5}}||[[Wind Paths]]||{{Season Icon|Flight|Inline_text}}
+|-
+|[[Abyss Guide]]||{{#vardefineecho:G8|5}}||[[Treasure Reef]]||{{Season Icon|Abyss|Inline_text}}
+|-
+|[[Performance Guide]]||{{#vardefineecho:G9|4}}|| [[Village Theater]]||{{Season Icon|Performance|Inline_text}}
+|-
+|[[The Void of Shattering]]||{{#vardefineecho:G10|6}}|| [[The Void of Shattering]]||{{Season Icon|Shattering|Inline_text}}
+|-
+|[[AURORA Guide]]||{{#vardefineecho:G11|1}}|| [[Coliseum]]||{{Season Icon|AURORA|Inline_text}}
+|-
+|[[Remembrance Guide]]||{{#vardefineecho:G12|4}}|| [[Repository of Refuge]]||{{Season Icon|Remembrance|Inline_text}}
+|-
+|[[Passage Guide]]||{{#vardefineecho:G13|4}}|| [[Passage Stone]]||{{Season Icon|Passage|Inline_text}}
+|-
+|[[Moments Guide]]||{{#vardefineecho:G14|5}}|| [[Prairie Peaks]]||{{Season Icon|Moments|Inline_text}}
+|-
+|[[Hopeful Steward]]||{{#vardefineecho:G15|7}}|| [[Aviary Village]]||{{Season Icon|Revival|Inline_text}}
+|-
+|[[Spirit of Mural]]||{{#vardefineecho:G16|3}}|| [[Crescent Oasis]]||{{Season Icon|Nine-Colored Deer|Inline_text}}
+|-
+|[[Nesting Guide]]||{{#vardefineecho:G17|5}}|| [[Nesting Workshop]]||{{Season Icon|Nesting|Inline_text}}
+|-
+|[[Duets Guide]]||{{#vardefineecho:G18|2}}|| [[Concert Hall]]||{{Season Icon|Duets|Inline_text}}
+|-
+|[[The Moomin Storybook]]||{{#vardefineecho:G19|2}}|| [[Moominvalley Glade]]||{{Season Icon|Moomin|Inline_text}}
+|-
+|[[Radiance Guide]]||{{#vardefineecho:G20|4}}|| [[Dye Workshop]]||{{Season Icon|Radiance|Inline_text}}
+|-
+|[[Blue Bird Guide]]||{{#vardefineecho:G21|4}}|| [[Blue Bird#Blue Bird Theater|Blue Bird Theater]] ||{{Season Icon|Blue Bird|Inline_text}}
+|-
+|[[Vault Elder's Lantern]]||{{#vardefineecho:G22|5}}|| [[Sky_Anniversary#Sky_Cinema|Sky Cinema]] and [[Season_of_The_Two_Embers_-_Part_1#The_Last_City|The Last City]] ||{{Season Icon|Two Embers - Part 1|Inline_text}}
+|-
+!Total
+!{{#expr: ({{#var:G1}} + {{#var:G2}} + {{#var:G3}} + {{#var:G4}} + {{#var:G5}} + {{#var:G6}} + {{#var:G7}} + {{#var:G8}} + {{#var:G9}} + {{#var:G10}} + {{#var:G11}} + {{#var:G12}} + {{#var:G13}} + {{#var:G14}} + {{#var:G15}} + {{#var:G16}} + {{#var:G17}} + {{#var:G18}} + {{#var:G19}} + {{#var:G20}} + {{#var:G21}} + {{#var:G22}} ) }}
+!
+!
+|}
+
+====Messages, Shared Spaces, and Shared Memories ====
+{{WIP
+|comment=<br>Please visit their respective pages for up-to-date information.
+}}
+Players can leave text messages around the Realms through [[Message Candle Spots|Message Shrines]] or [[Blessings (Spells)|Message Boats]].
+
+Players can also create [[Shared Spaces]] and [[Shared Memories Candles|Shared Memories]]. Shared Spaces can be created at Shared Space Shrines or by using [[Blessings (Spells)#Shared Space Spells|Shared Space Spells]], Shared Memories can be created with [[Blessings (Spells)#Shared Memory Spells|Shared Memory Spells]] or by using Shared Memory Shrines.
+
+Each of these shared player creations last 7 days and they require 1 "like" from either a friend you unlocked chat with or a follower to become publicly visible. Other players, friends as well as strangers, can send a Heart through a creation which will cost them 3 Candles. They cannot send multiple Hearts to the same creation on different days or multiple Hearts to the same creator on the same day through different creations. Each creator can only receive 1 Heart per player per day for any creation.The creator of a Message, Shared Space, or Shared Memory can receive multiple Hearts sent by multiple players for a creation they’ve made.<br>
+<br>
+[[File:Hartaftergettinglikes.jpg|thumb|Heart earned from a Player Creation at the Return Shrine]]
+Hearts received through player creations can be collected from the [[Aviary_Village#Friendship_Constellation_Statue|Constellation Statue]] at Aviary Village or the Return Shrine at [[Home]].
+
+For more information on Message Shrines, Messages, Shared Spaces, and Shared Memories, see [https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/faq/521-what-are-message-shrines-message-candles-message-boats-shared-spaces-candles-and-shared-memories/?s=adventure-pass&f=what-are-meditation-shrines-and-message-candles&p=all this] support page. {{Clear}}
+
+==== Meditative Stones ====
+Two Hearts are available for each account at the two Meditative Stones, one in Forest Social Space, and the other one in Orbit. They have a symbol of many stars on them. Meditating at each Stone will prompt you to rate and review Sky on the App Store or the Google Play Store. Either completing the rating and review or clicking “Cancel” brings you back to the game and gives you the one Heart. On platforms like Nintendo Switch, the prompt will be skipped altogether and you will immediately receive the Heart. Note that these two Hearts are both one-time items for each account, and you cannot get additional Hearts by meditating at these Stones again.{{Clear}}
+
+==Season Candles==
+''[[File:Seasonal_candles_info.jpg|thumb|In-game info]]''
+
+'''Season Candles''' are only available during an ongoing [[Seasonal Events|Seasonal Event]] and are used exclusively to purchase new Seasonal Cosmetics and Expression upgrades from the [[Seasonal Spirits]] for the current Season.
+
+It is possible for non-[[Season Pass]] holders to gather 5 Season Candles per day by collecting Season Candle Bunches (see more [[#Season Candle Bunches|below]]) and completing [[Daily Quests]]. Season Pass holders will receive one additional Season Candle from the [[Aviary_Village#Friendship_Constellation_Statue|Friendship Constellation Statue]] at Aviary Village or the Return Shrine at [[Home]], for a total of 6 per day. During a [[Double Currency Events|Double Season Candle Event]], all players can forge an additional Season Candle each day. Read more on the Season Pass and Seasons in [[Seasonal Events]].
+
+'''Season Candles do not carry over from one Season to another''' - instead, at the end of a Season, each leftover Season Candle is converted to a White Candle.
+
+====Season Candle Bunches====
+''[[File:Enchantment_candles.JPG|thumb|100px|Season Candle Bunch from the Season of Enchantment]]''
+
+There are four Season Candle Bunches sprinkled throughout the Social Space and first area of a chosen [[Realm]] every day (indicated through the Daily Quests), which when collected combine to form a single Season Candle. (During a [[Double Currency Events|Double Season Candle Event]], eight Season Candle Bunches can be found, allowing you to forge 2 Season Candles.) You can see the icon of the ongoing Season both in the uncollected Pieces of Light and on the sides of the Candles in the Season Candle Bunch.
+
+Season candle bunches do not spawn in areas with a [[Dark Dragon]] when they are in [[Golden Wasteland]].
+
+====Daily Quests====
+During a Season, the [[Quests|Daily Quests]] given by the Return Shrine at [[Home]] or the Daily Quest Spirits at [[Aviary Village]] will reward players with Season Candles instead of [[#Candles|White Candles]]. If you have forgotten the specifics of a Quest, you may tap the upper left corner of your screen on a mobile device, the left arrow button on a controller, or the Shift key on PC. The icons of the Quests of the day will appear white while unfinished and turn yellow when completed. To receive your reward of 1 Season Candle per Quest, simply select the buttons over the Return Shrine at Home or the Daily Quest Spirits at Aviary Village again.
+
+It is possible to complete all Daily Quests safely, but for more dangerous Daily Quests (e.g., "Face the Dark Dragon"), you may want to bring a friend with you to help recharge you or collect your fallen [[Winged Light]] in case something goes wrong.
+
+====Season Candle Packs====
+During the Season, Season Candle Packs containing 15 Season Candles are available to buy using real money from the [[Premium Candle Shop]]. Season Candles may also be bundled with other In-App Purchases (IAPs).
+
+Additionally, players that purchase a Season Pass, or are gifted one by other player, will automatically receive 30 Season Candles.
+
+==Season Hearts==
+''[[File:Seasonal_heart_info.jpg|thumb|In-game info]]''
+
+'''Season Hearts''' are a rare Currency in the game that are '''only available to Season Pass holders during an ongoing [[Seasonal Events|Seasonal Event]].'''
+
+1 Season Heart is available from each of the current Season's [[Seasonal Spirits|Spirits]] (not the Season Guide), at a cost of 3 Season Candles. It can only be purchased after unlocking every item in the Seasonal Spirit's Friendship Tree and is only available to players that own the [[Season Pass]]. 
+
+The only purpose of Season Hearts is to purchase the Season's Ultimate Gifts. Each Season, the total cost of all the Ultimate Gifts exactly matches the total number of available Season Hearts. '''Season Hearts do not carry over from one Season to another''' - instead, any unspent Season Hearts are automatically converted into regular [[#Hearts|Hearts]] at the end of the Season (similar to [[#Season Candles|Season Candles]]).
+
+Note that when a Seasonal Spirit returns as a [[Traveling Spirit]], the Season Heart counts as that Spirit's 1 allowed Heart purchase. Therefore, the Heart in a Traveling Spirit's Friendship Tree will not be available to players who collected the Spirit's Season Heart during the Season. (Note that Season Hearts were not implemented during the first two Seasons - [[Season of Gratitude (Summer 2019)|Gratitude]] and [[Season of Lightseekers|Lightseekers]] - and as a result, Season Pass holders from these two Seasons have been able to buy 1 regular Heart from the relevant Traveling Spirits).
+
+==Event Tickets<span id="Event Currency"></span>==
+''[[File:Event Currency Info.png|thumb|300x300px|In-game info]]''
+'''Event Tickets'''<ref>Previously called Event Currency, the official name was changed in patch {{v|0.28.0}}. </ref> are a rare Currency in the game that are '''only available during an ongoing [[Special Events|Special Event]].''' 
+
+During an event, its specific Currency can be found scattered around the main area where the event takes place, or in some cases, can be collected alongside the event’s themed [[Quests|Daily Quests]] or activities. Players may also exchange [[#Candles|Candles]] or [[#Ascended Candles|Ascended Candles]] from [[Spell Shops]] to purchase additional Event Tickets. The total number of Event Tickets available to collect each day varies from one event to another.
+
+Of special note is that this Currency '''varies in appearance''' to fit the theme of its event, such as resembling treble clefs during [[Days of Music]] (pictured below). Once collected in the players inventory, it'll appear as a ticket with a symbol on it that's related to its specific event.
+
+TGC are also experimenting with an Event Tickets Light system which started with [[Days of Style]] 2024, allowing players to earn Event Tickets gradually, just like Candles and other currencies in the game. Similarly, Event Tickets Light appears as larger orbs of Light with the event currency icons inside, which players can earn by participating in activities in the main areas where the events take place. Once the Event Tickets meter is full, they can forge a Ticket by tapping on it.
+
+<gallery widths="160px" captionalign="center">
+Event_currency_sample.png|Event Tickets appearance example from the TGC website
+Days-of-Style-Event-Currency-Light.png|Days of Style Event Tickets Light
+Days-of-Mischief-Event-Currency-Light.png|Days of Mischief Event Tickets Light
+Event-Ticket-Light-close-up.png|Event Tickets Light with ticket symbol
+Event-Ticket-Light-close-up-GIF.gif|Event Tickets Light effect
+</gallery>
+<br>
+Event Tickets are used to purchase certain [[Cosmetics]] and [[Spells]] for the ongoing event from an Event Guide Spirit or Spell Shop. '''Event Tickets do not carry over from one event to another''' and, unlike other Currencies in game, '''do not convert to another Currency at the end of the event''' - leftover Event Tickets will simply disappear from the player's inventory once the event ends. 
+
+More information can be found on [https://www.thatskygame.com/news/new-feature-coming-in-0-21-5-event-currency/ ThatSkyGame's Website].<br> 
+<br>
+
+==Ascended Candles==
+''[[File:Ascended_candles_info.jpg|thumb|In-game info]]''
+
+'''Ascended Candles''' (also known as Prestige Candles) are collected only upon completion of a strong [[Shard Eruptions|Shard Eruption]] or the [[Eye of Eden|Eye of Eden (Spoiler Warning!)]], the last Realm of the game. ''It is recommended you play through this level wholly before accessing detailed information on how to acquire Ascended Candles in Eden.''<br>
+<br>
+{{Spoilers}}
+
+Ascended Candles are used to purchase [[Wing Buffs]] from both [[Regular Spirits]] and [[Traveling Spirits]], which increase your Cape Power in the same way as collecting [[Children of Light]]. These two [[Collectibles]] stack together, allowing experienced players to acquire even greater Cape Power - up to a maximum total of 12 [[Winged_Light#Leveling_Up_Capes|Wedges]]. For more information, visit the [[Winged Light]] page.
+
+Purchasing Wing Buffs from a Spirit's Friendship Tree also opens the ability to purchase previously inaccessible [[Cosmetics]]. Furthermore, Ascended Candles can be used to open up more of the [[Friendship Menu]] with friends and unlock high-level Friend Actions such as [[Friendship_Menu#Warp|Warp]]. They can also be used to buy [[#Event Tickets|Event Tickets]] and certain [[Spells]] from various [[Spell Shops]], and to purchase Ultimate Gifts from the [[Constellations|Realm Constellations]].
+
+Players will earn one quarter (0.25) of an Ascended Candle for each Statue given a Winged Light in the final section of the Eye of Eden, with a total of 15.75 Ascended Candles possible to collect each week. For more detailed information, visit the [[Eden|Eye of Eden (Spoiler Warning!)]] page.
+
+Players can also earn between 1 to 3.5 Ascended Candles by completing a Strong Eruption (not to be confused with a Regular Eruption, which instead provides [[Pieces of Light]]). For more detailed information, visit the [[Shard Eruptions]] page.
+
+{{Navigation Box}}
+[[ru:Игровая валюта]]
+[[fr:Devises]]
+[[de:Währung]]
+[[pt-br:Moedas]]
+[[ja:ゲーム内通貨]]
+
+[[Category:Currency]]
+[[Category:Basic Guides]]

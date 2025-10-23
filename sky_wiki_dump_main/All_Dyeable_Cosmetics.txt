@@ -1,0 +1,68 @@
+This page contains all the dyeable [[Cosmetics]] in the order that they appear in the Outfit Shrines and categorized as: [[Outfits]], [[Shoes]], [[Masks]],and [[Capes]]. 
+
+Each dyeable cosmetic can have up to '''2''' sections. To dye each section, it will cost between 1-4{{Cost|D}} jars of dye '''if using <u>only</u> a "base" color'''. Adding an optional "tint" color will cost an <u>additional</u> 1-4{{Cost|D}} jars of the selected tint color (however much dyeing the base color costs).
+
+This means that ''if'' using a tint, dyeing a single section could cost up to {{Cost|8 D}}.
+
+For example, a cosmetic's section costs {{Cost|3 D}}:
+* Using a red base = {{Dye|3|color=red}}
+* Using a red base and yellow tint = {{Dye|3|color=red}} + {{Dye|3|color=yellow}}; {{Cost|6 D}} in total.
+
+'''In the tables below, this is represented by "[cost without tint]{{Cost|D}} ''or'' [cost with tint]{{Cost|D}}".'''
+
+
+'''To know more about Dyeing Cosmetics, please visit the [[Dyes]] page.''' <br>
+'''To know more about Cosmetics and the Outfit Shrines, please visit the [[Cosmetics]] page.'''
+
+{{#invoke:Mobile Tabber|tabber|
+<!-- OUTFITS -->
+|tab1    = {{Icon| Icon_pants_default.png | tab | label=Outfits }}
+|c1      = <br>{{#lst:All Dyeable Cosmetics/All Dyeable Outfits|Table}}
+<!-- SHOES -->
+|tab2    = {{Icon| Chuckling-Scout-shoes-icon-Credit-Morybel.png | tab | label=Shoes }}
+|c2      = <br>{{#lst:All Dyeable Cosmetics/All Dyeable Shoes|Table}}
+<!-- MASKS -->
+|tab3    = {{Icon| Icon_mask_default.png | tab | label=Masks }}
+|c3      = <br>{{#lst:All Dyeable Cosmetics/All Dyeable Masks|Table}}
+<!-- FACE ACCESSORY-->
+|tab4    = {{Icon| Mimi-4117 07 chill sunbather mask.png | tab | label=Face Accessories }}
+|c4      = <br>{{#lst:All Dyeable Cosmetics/All Dyeable Face Accessories|Table}}
+<!-- NECKLACE --> 
+|tab5    = {{Icon| Comfort-of-Kindness-Neck-Accessory-icon.png | tab | label=Necklaces }}
+|c5      = <br>{{#lst:All Dyeable Cosmetics/All Dyeable Necklaces|Table}}
+<!-- HAIR --> 
+|tab6    = {{Icon| Icon_hair_default.png | tab | label=Hair }}
+|c6      = <br>{{#lst:All Dyeable Cosmetics/All Dyeable Hair|Table}}
+<!-- HAIR ACCESSORY -->
+|tab7    = {{Icon| Icon hair summer hat headpiece.png | tab | label=Hair Accessories | link=Hair Accessories }}
+|c7      = <br>{{#lst:All Dyeable Cosmetics/All Dyeable Hair Accessories|Table}}
+<!-- HEAD ACCESSORY -->
+|tab8    = {{Spirit Item| Bearhug Hermit | Headpiece | tab | label=Head Accessories | link=Head Accessories }}
+|c8      = <br>{{#lst:All Dyeable Cosmetics/All Dyeable Head Accessories|Table}}
+<!-- CAPE -->
+|tab9    = {{Icon| Cape-category-Ray.png | tab | label=Capes }}
+|c9      = <br>{{#lst:All Dyeable Cosmetics/All Dyeable Capes|Table}}
+}}
+
+====Cosmetic Dyeing Guides====
+<gallery>
+File:Outfit Dyeing Guide part 1.png|Outfit Dyeing part 1
+File:Outfit Dyeing Guide part 2.png|Outfit Dyeing part 2
+File:Outfit Dyeing Guide part 3.png|Outfit Dyeing part 3
+File:Mask Dyeing Guide part 1.png|Mask Dyeing part 1
+File:Mask Dyeing Guide part 2.png|Mask Dyeing part 2
+File:Accs Dyeing Guide Shoes & Face.png|Shoes, Face Accessories, and Necklaces
+File:Hair Dyeing Guide part 1.png|Hair Dyeing Part 1
+File:Hair Dyeing Guide part 2.png|Hair Dyeing Part 2
+File:Accs Dyeing Guide Hair & Head.png|Hair Accessories and Head Accessories
+File:Cape Dyeing Guide part 1.png|Cape Dyeing part 1
+File:Cape Dyeing Guide part 2.png|Cape Dyeing part 2
+File:Cape Dyeing Guide part 3.png|Cape Dyeing part 3
+</gallery>
+
+[[ja:染色価格表]]
+[[pt-br:Todos os Cosméticos Tingíveis]]
+[[de:Alle färbbaren Kosmetika]]
+[[fr:Tous les Cosmétiques Teintables]]
+
+<references />

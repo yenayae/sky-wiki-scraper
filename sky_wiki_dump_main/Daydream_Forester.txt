@@ -1,0 +1,175 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Assembly-Spirit-Daydream-Forester.png|Standard
+Assembly-Spirit-Daydream-Forester-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Mask|infobox}}{{Spirit Item||Hair|infobox}}
+|music     = {{Music Sheet|20}}
+|season    = Assembly
+|realm     = Hidden Forest
+|location  = Boneyard
+|ts        = March 14, 2024 (#109)<br>April 28, 2022 (#60)
+}}
+<section begin="Summary" />The '''Daydream Forester''' is a [[Seasonal Spirit]] from the [[Season of Assembly]] who offers the {{Emote|Daydream Forester|inline_text}} Expression. The Daydream Forester is found in the [[Hidden Forest]]'s [[Boneyard]], behind a treehouse on the player's immediate right when entering from [[Forest's Brook]]. The collectibles [[Daydream Forester#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Daydream Forester|Mask|inline_text}}, a {{Spirit Item|Daydream Forester|Hair|inline_text}}, and the {{Music Sheet|20|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Daydream-Forester-promo-image.jpg|thumb|320px|none|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|vu54MOz-zjY||inline|Video Guide}}
+
+The Daydream Forester can be found in the [[Boneyard]], positioned around the perimeter of a small treehouse on the player's immediate right if entering from the [[Forest's Brook]]. This Spirit has a [[Standard Memory|standard memory]] with 6 memory fragments and a 15-minute overall [[Timed Memory|time limit]]. 
+
+Note that most of the memory fragments are exposed to [[Spirit Health|polluted rain]], so be sure to collect them quickly.
+
+As their memory unfolds, the Daydream Forester can be seen trailing behind the [[Chuckling Scout]], who is gathering sticks. Daydream Forester follows the Chuckling Scout across the small stream and blows bubbles during their walk. The Forester then follows a particularly large bubble towards the edge of a small cliff at the edge of the area, not noticing the drop-off in front of them. Chuckling Scout leaps after the Daydream Forester and grabs them by the ankle to prevent them from walking off the edge of the cliff. The two Spirits recover under a nearby tree.
+
+At the end of the memory, the two Spirits trek back to the smaller treehouse together. The Daydream Forester is distracted by another large bubble and the Chuckling Scout giggles at the sight.<br>
+<br>
+[[File:02 HF Seasonal Spirit - Daydreaming Forester.png|200px|left|thumb|Relive the Daydream Forester's memory]]
+</div>
+{{Clear}}
+
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Daydream-Forester-bubbles-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Daydream-Forester-bubbles-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Daydream-Forester-bubbles-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Daydream-Forester-bubbles-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar look around absentmindedly before holding their right hand up to their face to blow small blue bubbles, while gentle chime and bubbling sound effects play.
+*Level 2 makes the same motion as Level 1, with extra purple bubbles popping up alongside the blue bubbles.
+*Level 3 will make your avatar lean forward to blow a single large bubble, and then leap up and try to pop the bubble before waiting for it to drift closer to the ground. Once the bubble is just above your avatar's head, they will pop the bubble. During this Expression, a second bubble sound effect plays and a quiet popping noise can be heard when the character pops the bubble.
+*Level 4 makes the same motion as Level 3, with sparkles raining down from the bubble.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+== Cosmetics==
+=== Mask ===
+The [[Mask]] offered by this Spirit is round and dark gray, with a thick yellow line under the eyes, costing {{Cost|24 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's second node ({{Cost|5 SC|season=Assembly}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Hair ===
+The [[Hair]] offered by this Spirit features a crown of small yellow flowers with green leaves placed on top of long, voluminous hair with side-swooped bangs and a loose braid in the back, costing {{Cost|44 C}} <ref name="Hair Price Drop">The Daydream Forester's [[Daydream Forester#Hair|Hair]] price decreased from {{Cost|60 C}} to {{Cost|44 C}} during their second visit as a Traveling Spirit.</ref> from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fifth node ({{Cost|50 SC|season=Assembly}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair front
+{{Icon Name||Hair|side}} {{!}} The Hair side
+{{Icon Name||Hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Music Sheet ==
+The Daydream Forester offers the {{Music Sheet|20}} [[Music Sheet]] #20, costing {{Cost|15 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fourth node ({{Cost|30 SC|season=Assembly}} total). It is a song in the key of B Major.<br>
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guide
+|content=
+{{#ev:youtube|_zuwCum8kd0||inline|Music Sheet Video Guide by 大萝北子}}
+}}
+
+== Traveling Spirit ==
+[[File:SOAssembly-Daydream-forester-TS.png|200px|right|thumb]]
+{{Friendship Tree Info | traveling
+|ts_dates=*March 14, 2024 (#109) <ref name="Hair Price Drop"></ref>
+*April 28, 2022 (#60)
+}}<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Daydream Forester
+|image  = Assembly-Spirit-Daydream-Forester.png
+|season = Assembly
+
+|nodeC6 = Hair 44 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeR4 = music20 15 C
+|nodeC3 = wing
+|nodeL2 = Mask 24 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+The hints given before the [[Daydream Forester]]'s first appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=First Visit Hints
+|content=<div>
+* Loves to decorate
+* Wishes they had superpowers
+* Enjoys bird-watching
+* Is interested in aviation
+* Is near-sighted
+* Can identify many natural species
+* Has a fantasy world they've been creating since they were young
+* Is fearless
+* Often makes up new words
+* Will always join in on any crazy idea
+* Likes to swim
+* Enjoys lofi music
+* Always has snacks on hand
+* Doesn't know how to drive
+* Avoids problems by sleeping
+* Collects cool rocks
+* Will excitedly tell you all about their favorite plant
+* Will try and make you feel at home
+* Is the best partner for an adventure
+* Is not very strong
+* Is a master at artistic crafts
+</div>}}
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Assembly}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Daydream Forester
+|image  = Assembly-Spirit-Daydream-Forester.png
+|type   = season
+|season = Assembly
+
+|nodeC6 = season_heart 3 SC SP
+|nodeL5 = Hair SP
+|nodeC5 = spell5 20 SC
+|nodeL4 = spell5 SP
+|nodeC4 = music20 15 SC
+|nodeL3 = emote4 SP
+|nodeC3 = emote3 10 SC
+|nodeL2 = spell5 SP
+|nodeC2 = Mask 5 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Trivia==
+* The Daydream Forester could be seen sitting by a campfire with the [[Chuckling Scout]] during the [[Spring Camping]] Event in 2024.
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Bubble emote.jpg
+season of assembly shoot daydream expression.png
+season of assembly shoot group daydream.png
+</gallery>
+
+==References==
+<references/>
+
+[[de:Tagträumender Förster]]
+[[pt-br:Silvicultor Sonhador]]
+[[ja:夢見がちな森の民]]
+[[ru:Мечтательный лесовичок]]
+[[fr:Forestier rêveur]]

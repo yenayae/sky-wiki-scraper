@@ -1,0 +1,511 @@
+This page is a supplement to the main [[Pieces of Light]] page and focuses on sources of Light that have variability, are only for a limited time for a Holiday Event, or involve randomness, such as the Small Clams in [[Treasure Reef]] or the Flower Bouquets in [[Village Theater]].
+
+In addition to the standard Candles and Darkness Plants, players can collect Light from '''Social Light''' areas or events and limited-time additions during [[Special Events]]. '''Social Light''' areas and events help players collect Light without having to do Candle run routes.
+
+== Light Sources ==
+These are some Light sources, each with an estimate of how many Pieces of Light they give:
+<gallery widths="150" captionalign="center" hideaddbutton="true" mode="nolines">
+Abyss-Clams.png|75px|'''Small Clams'''<br>5 to 15 Pieces of Light
+Grandma-s-dinner-light-source.png|75px|'''Grandma's Bun'''<br>9 Pieces of Light
+Small-Flower-bouquet.png|75px|'''Small Flower Bouquet'''<br>3 to 5 Pieces of Light<br>Color does not affect count
+Large-flower-bouquet.png|75px|'''Large Flower Bouquet'''<br>7 to 10 Pieces of Light
+Spiky-ball-small.png|75px|'''Small Spiky Ball'''<br>5 Pieces of Light
+Spiky-ball-medium.png|75px|'''Medium Spiky Ball'''<br>10 Pieces of Light
+Large-Spiky-Ball.png|75px|'''Large Spiky Ball'''<br>15 Pieces of Light
+Blue-orb-light.png|75px|'''Underwater Light'''<br>Varies by quantity
+</gallery>
+
+==Total Additional Light Count==
+<section begin="Summary Tables" />
+{| class="article-table" style="float:left;"
+|+[[Additional Light Sources|Additional Sources of Light]]
+!Source
+!Pieces of Light
+|-
+| Grandma's Dinner
+| rowspan="2" | {{formatnum|{{#vardefineecho:grandmaNturtle|1000}}}}{{Cost|L}}<ref name="linked-light">The Light limit of [[#Grandma's Dinner Event|Grandma's Dinner]] and the [[#Sunset Sanctuary Turtle|Sanctuary Turtle's trail]] is linked. For example, if the player collects 400 Pieces of Light from one source, they can only receive 600 more from the other(s).</ref>
+|-
+| Sunset Sanctuary Turtle (Trail)
+|-
+| Sunset Sanctuary Turtle (Plant & Big Clam)
+| {{#vardefineecho:turtle|151}}{{Cost|L}}
+|-
+| Geyser
+| {{formatnum|{{#vardefineecho:geyser|1000}}}}{{Cost|L}}
+|-
+| Abyss Blue Eel
+| {{#vardefineecho:eel|500}}{{Cost|L}}
+|-
+| Prairie's Cozy Hideout
+| {{#vardefineecho:cozyhideout|250}}{{Cost|L}}
+|-
+| Forest Brook Campfire
+| {{#vardefineecho:brookcampfire|250}}{{Cost|L}}
+|-
+| The Wind Path's Cloud Tunnel
+| {{#vardefineecho:cloudtunnel|250}}{{Cost|L}}
+|-
+| Valley Temple Maze Campfire
+| {{#vardefineecho:mazecampfire|250}}{{Cost|L}}
+|-
+| Wasteland Crab Barbecue
+| {{#vardefineecho:crabbbq|250}}{{Cost|L}}
+|-
+| Passage of Reliance
+| {{#vardefineecho:reliance|112}}{{Cost|L}}
+|- 
+| Passage of Assistance
+| {{#vardefineecho:assistance|180}}{{Cost|L}}
+|-
+| Passage of Coordination
+| {{#vardefineecho:coordination|128}}{{Cost|L}}
+|- 
+| Passage of Alignment
+| {{#vardefineecho:alignment|200}}{{Cost|L}}
+|-
+! TOTAL{{#vardefine:sum|{{#expr:{{#var:grandmaNturtle}}+{{#var:turtle}}+{{#var:geyser}}+{{#var:eel}}+{{#var:skater}}+{{#var:cozyhideout}}+{{#var:brookcampfire}}+{{#var:cloudtunnel}}+{{#var:mazecampfire}}+{{#var:crabbbq}}+{{#var:reliance}}+{{#var:assistance}}+{{#var:coordination}}+{{#var:alignment}} }} }}
+! {{formatnum|{{#var:sum}}}}{{Cost|L}}
+|}
+
+{| class="article-table" style="float:left;"
+|+Inconsistent Sources of Light
+!Source
+!Amount
+|-
+| Sunset Sanctuary Turtle (Clams)
+| Approx. 159-337{{Cost|L}}
+|-
+| Treasure Reef Small Clams
+| Approx. 159-245{{Cost|L}}
+|-
+| Village Theater Bouquets
+| Approx. 21-44{{Cost|L}}
+|-
+| Dreams Skater
+| {{#vardefineecho:skater|400}}{{Cost|L}}
+|-
+| Yeti Race
+| Between 150 to {{#vardefineecho:yetirace|300}}{{Cost|L}}
+|-
+| Regular Eruptions
+| {{Cost|200 L}}
+|-
+| Rainbow Quest
+| {{Cost|50 L}}
+|-
+| Catching a Jellyfish while fishing
+| {{Cost|5 L}}
+|-
+<!--!TOTAL
+!-->
+|}
+<section end="Summary Tables" />
+{{Clear}}
+
+==Randomized Light Sources==
+=== <span id="Treasure Reef">Treasure Reef</span>===
+On average, Treasure Reef will spawn approximately 24 Small Clams, but the amount can range from 21 to 27 Small Clams. The average decreases to approximately 23 when taking into account that some days 1-2 Small Clams can spawn in unreachable areas, such as behind the wind wall in Zone I. The location of the Clams dictate the amount of Light that they provide, resulting in an average of approximately 207 Pieces of Light for collecting all the reachable Small Clams. However, the amount from any day can range from 159 to 245 Pieces of Light.
+
+[[File:wax-wasteland-treasure-reef-small-clam-zones.png|thumb|400px|Small Clam Zones]]
+<br>
+There are 10 zones (going clockwise) that the Small Clams randomly spawn in:
+*Zone A) At the start of the area, after dismounting the boat, in front of the archway
+*Zone B) The outer waters of the [[Anxious Angler]] island
+*Zone C1) The inner waters of the Anxious Angler island to the edge of the [[Abyss Guide]]'s boat
+*Zone C2) Underneath [[Abyss Guide]]'s boat
+*Zone D) The immediate surrounding waters of the [[Cackling Cannoneer]]
+*Zone E) At the far shore of the large left island and the waters surrounding the tallest tower
+*Zone F) The surrounding waters of sunken gazebo and the stone arches
+*Zone G) The waters to the right of the sunken pointed building to the large right island, around the two underwater rock structures with no oxygen plants
+*Zone H) The green rock structure in the middle of the water with oxygen plants
+*Zone I) The outer waters of the large right island (and sometimes behind the wind wall)
+
+{| class="wikitable" style="text-align:center;"
+!Zones!!Avg # of Small Clams!!Range!!Amount of Light/Clam!!Avg Amount of Light
+|-
+| A  || 1.00 || 1   || 7{{Cost|L}}  || 7.00{{Cost|L}}
+|-
+| B  || 2.00 || 2   || 10{{Cost|L}} || 20.00{{Cost|L}}
+|-
+| C1 || 1.82 || 1-2 || 15{{Cost|L}} || 27.30{{Cost|L}}
+|-
+| C2 || 1.00 || 1   || 10{{Cost|L}} || 10.00{{Cost|L}}
+|-
+| D  || 3.50 || 1-4 || 7{{Cost|L}}  || 24.50{{Cost|L}}
+|-
+| E  || 4.29 || 2-5 || 5{{Cost|L}}  || 21.45{{Cost|L}}
+|-
+| F  || 1.86 || 1-2 || 10{{Cost|L}} || 18.60{{Cost|L}}
+|-
+| G  || 2.64 || 1-3 || 15{{Cost|L}} || 39.60{{Cost|L}}
+|-
+| H  || 4.14 || 2-5 || 6{{Cost|L}}  || 24.84{{Cost|L}}
+|-
+| I (all)           || 1.68 || 1-2 || 15{{Cost|L}} || 25.20{{Cost|L}}
+|-
+| I (w/o wind wall) || 0.96 || 0-2 || 15{{Cost|L}} || 14.40{{Cost|L}}
+|}
+
+This data was initially collected by {{Userlinks|Ray808080}} and {{Userlinks|Morybel}} over the course of 2 weeks (July 27 to August 9, 2022) and was expanded upon with Piece of Light per Clam information (March 18 to 31, 2024) by lonelyste on Discord with the help of galerowfylery on Discord.
+
+===<span id="Village Theater">Village Theater</span>===
+{{Verify}}
+[[File:Wax-valley-village-theater-bouquets-right.png|thumb|249x249px|Right side]]
+[[File:Wax-valley-village-theater-bouquets-left.png|thumb|249x249px|Left side]]
+<section begin="Theater Summary"/>
+These are only available after finishing the [[Season_of_Performance#Act_V:_Finale_Act|final quest]] of the [[Season of Performance]].
+
+There are 6 to 10 Bouquets around the stage every day (3 to 5 on each side). The Bouquets have at least 28 rotations that, with the number of different types of Flower Bouquets, as well as the number of Pieces of Light, can be different every day. The same type of Bouquets could grant different numbers of Pieces of Light.
+
+* 3 to 5 Pieces of Light from a Small Bouquet (the color of the Small Bouquets does not matter)
+* 7 to 10 Pieces of Light from a Large Bouquet (there can be days where no Large Bouquet spawns)
+
+The Bouquets grant 21 to 44 Pieces of Light every day (due to the rotations). <section end="Theater Summary"/>
+{{Clear}}
+
+== Repeatable Passage Quests ==
+The [[Season of Passage]] Quests are available every 15 minutes at xx:00, xx:15, xx:30, and xx:45.
+
+===Passage of Reliance===
+[[File:Wax-forest-brook-passage-reliance.png|thumb|249x249px|Passage of Reliance]]
+'''Maximum:''' 112 Pieces of Light
+
+The Passage of Reliance is located at the Mask in [[Forest's Brook]]. There are 56 pieces of debris that give 2 Pieces of Light each. You can redo the quest in order to collect previously missed debris. 
+{{Clear}}
+
+===Passage of Assistance===
+[[File:Wax-prairie-caves-passage-assistance.png|thumb|249x249px|Passage of Assistance]]
+'''Maximum:''' ~180 Pieces of Light
+
+The Passage of Assistance is located at the Mask in [[Prairie Caves]]. There are some masks that add to the orange progress meter (reward masks) and those that do not (empty masks). There are approximately 11 reward masks that give 8 Pieces of Light each and approximately 12 empty masks that give 0 Pieces of Light each. At the end of the quest, an additional 4 Pieces of Light are rewarded per mask regardless of type. It is unknown if there is a full completion bonus. You can redo the quest in order to collect previously missed Light.
+{{Clear}}
+
+===Passage of Coordination===
+[[File:Wax-prairie-butterfly-fields-passage-coordination.png|thumb|249x249px|Passage of Coordination]]
+'''Maximum:''' ~128 Pieces of Light
+
+The Passage of Coordination is located at the Mask in [[Butterfly Fields]]. There are 16 masks that give 8 Pieces of Light each. It is unknown if there is a full completion bonus. You can redo the quest in order to collect previously missed Light. 
+{{Clear}}
+
+===Passage of Alignment===
+[[File:Wax-forest-tree-tunnels-passage-alignment.png|thumb|249x249px|Passage of Alignment]]
+'''Maximum:''' 200 Pieces of Light
+
+The Passage of Alignment is located at the Mask in the [[Tree Tunnels]]. There are 9 checkpoints which give the following Pieces of Light respectively: 4, 4, 12, 16, 20, 24, 30, 30, and 30. An additional 30 Pieces of Light are rewarded during the final cutscene for competing the full trail. You can redo the quest in order to collect previously missed Light.
+{{Clear}}
+
+==Social Light Areas==
+These are currently accessible Social Light areas that are always available.
+
+===Cozy Hideout===
+<section begin="Cozy Hideout Summary" />
+[[File:wax-social-light-cozy-hideout.jpg|thumb|249x249px|Cozy Hideout]]
+The Cozy Hideout is located in Prairie Caves, up the staircase and beyond the room at the end of a tunnel. The campfire spawns colorful orbs that players can burn to collect Pieces of Light. <section end="Cozy Hideout Summary" />
+{{Clear}}
+
+===<span id="Brook Campfire">Campfire in Forest's Brook</span>===
+<section begin="Brook Campfire Summary" />
+[[File:wax-social-light-forest-brook.jpg|thumb|249x249px|Campfire in Forest's Brook]]
+The campfire in Forest Brook (on the right side of the area and elevated) spawns colorful orbs that players can burn to collect Pieces of Light. <section end="Brook Campfire Summary" />
+{{Clear}}
+
+===<span id="Cloud Tunnel">Cloud Tunnel in Wind Paths in Forest</span>===
+<section begin="Forest Windpath Tunnel Summary" />
+[[File:wax-social-light-wind-paths-clouds.jpg|thumb|249x249px|Cloud Tunnels in Wind Paths]]
+Gliding in the cloud tunnel in the Wind Paths, the player can slowly collect Pieces of Light. <section end="Forest Windpath Tunnel Summary" />
+{{Clear}}
+
+===<span id="Maze Campfire">Maze Campfire in Valley Temple</span>===
+<section begin="Maze Campfire Summary" />
+[[File:wax-social-light-valley-temple-maze.png|thumb|249x249px|Inside Valley Temple Maze]]
+The campfire inside the Valley Temple's maze's main room that contains two staircases along the walls and four doorways spawns colorful orbs that players can burn to collect Pieces of Light. <section end="Maze Campfire Summary" />
+{{Clear}}
+
+===Crab Barbecue===
+<section begin="Crab Barbecue Summary" />
+[[File:wax-social-light-crab-bbq.jpg|thumb|249x249px|Crab Barbecue]]
+The firepit in the Wasteland Graveyard slowly spawns colorful orbs that players can burn to collect Pieces of Light. This rotating spit of roasting Crabs was added to Wasteland's Graveyard during the [[Season of Belonging]] on November 18, 2019. This firepit is home to the [[Pleaful Parent]] Spirit. The skewer of Crabs was later replaced by a large pot in Patch {{v|0.19.5}}. There's an interact prompt to release the Crabs from the pot; when released, these Crabs are friendly towards the player. <section end="Crab Barbecue Summary" />
+{{Clear}}
+<gallery widths="250px" spacing="small">
+Crab-barbecue-pot-update.jpg|Crab pot after update
+Crab-barbecue-pot-update-released-crabs.jpg|Crabs after being helped
+</gallery>
+
+===Abyss Blue Eel===
+<section begin="Abyss Eel Summary" />
+[[File:Abyss-blue-eel.png|thumb|249x249px|Blue Eel]]
+'''Light limit:''' ~500 Pieces of Light
+
+The Blue Eel swimming in Treasure Reef in Golden Wasteland emits a trail of blue Light for players to collect. <section end="Abyss Eel Summary" />
+{{Clear}}
+
+==Social Light Timed Events==
+
+===Shared Limit===
+Currently, the Sanctuary Turtle Light trail and the Grandma's Dinner events have a shared limit of 1,000 Pieces of Light.
+
+===Social Light Schedule===
+The easiest way to remember when the three Social Light events (Geyser, Grandma's Dinner, and Sunset Turtle) is to know what hour daily reset is in your timezone. 
+
+For example, if you're in PST/PDT, daily reset is at midnight, 0:00, which has an even hour number. Social Light events always repeat every 2 hours, so events happen for you on even-numbered hours. 
+
+If your reset does not happen on an even number, then it must occur on an odd hour number. So, events will happen on odd-numbered hours.
+{| class="wikitable" style="text-align:center; float:left; margin-right:10%;"
+|+'''EVEN Hour Schedule'''
+|-
+! style="min-width: 125px;" |'''Geyser'''
+! style="min-width: 125px;" |'''Grandma's Dinner'''
+! style="min-width: 125px;" |'''Sunset Turtle'''
+|-
+|0:00||0:30||0:45
+|-
+|2:00||2:30||2:45
+|- 
+|4:00||4:30||4:45
+|- 
+| colspan="3" style="text-align: center;" | etc.
+|}
+
+{| class="wikitable" style="text-align:center; float:left;"
+|+'''ODD Hour Schedule'''
+|-
+! style="min-width: 125px;" |'''Geyser'''
+! style="min-width: 125px;" |'''Grandma's Dinner'''
+! style="min-width: 125px;" |'''Sunset Turtle'''
+|-
+|3:00||3:30||3:45
+|-
+|5:00||5:30||5:45
+|- 
+|7:00||7:30||7:45
+|- 
+| colspan="3" style="text-align: center;" |etc.
+|}
+{{Clear}}
+=== Sky Clock ===
+Alternatively you can use this live tool, which calculates all scheduled times in Sky based on your time zone.
+
+<small>Credits and permission from Chris Stead.</small> 
+[[File:Sky-clock-app.png|302x302px|link=https://sky-clock.netlify.app/|alt=|none|Sky clock by Chris Stead|thumb]]
+
+===Grandma's Dinner Event===
+<section begin="Grandma's Dinner Summary" />
+[[File:wax-social-light-grandma-dinner.jpg|thumb|249x249px|Grandma's Dinner]]
+'''Event limit:''' 1,000 Pieces of Light
+
+The Grandma Spirit, who is the [[Season of Belonging]] Guide, periodically holds a timed event at the Ancestor’s Table of Belonging in the Elevated Clearing of Hidden Forest.
+
+Like the Geyser, this event repeats every '''two hours''' and lasts for 15 minutes. The Spirit appears at 00:30 PST/PDT, waits 5 minutes, and then proceeds to "serve dinner" for '''10 minutes'''. Every minute, 6 white balls (that give 9 Pieces of Light each) appear on the table, and give Pieces of Light when burned. At the end of the event players can hug Grandma before she leaves.
+
+Players can get a maximum of 540 Pieces of Light from a single event. After reaching the 1,000 shared limit, melting the white balls won't give Light to the player.<section end="Grandma's Dinner Summary" />
+{{Clear}}
+
+===<span id="Geyser Event">Polluted Geyser</span>===
+[[File:Wax-prairie-sanctuary-days-of-nature-2021.jpg|thumb|249x249px|Geyser]]
+'''Event limit:''' ~1,000 Pieces of Light (was previously ~2000 before patch {{v|0.15.5}} added the new Social Light areas)
+
+<section begin="Polluted Geyser Summary" />The Polluted Geyser is a Social Light area added during [[Days_of_Nature#April_2021|Days of Nature 2021]] in the [[Sanctuary Islands]] to raise awareness of pollution in oceans. It is located on a geyser at the sea level between two caves. The Polluted Geyser erupts Darkness spiky balls that give Pieces of Light when burned. <section end="Polluted Geyser Summary" />
+
+The first eruption starts at reset at 00:00 PST/PDT, then repeats every '''two hours''', and lasts 15 minutes. The start is signified by the seashell in the center of the Geyser floating up and unclogging the Geyser. During the first 5 minutes, the five vents around the geyser blow out steam. Each cycle of the vents represents 1 minute passing. Then, for 10 minutes, the Geyser fills up and Darkness spiky balls erupt from the Geyser every minute (for a total of 11 eruptions). Once it erupts, the Geyser drains until it fills up for the next eruption.
+
+There are 3 sizes for the Darkness spiky balls: small (5), medium (10), and large (15). Each give a different amount of Light. There are some Darkness Plants growing around the Geyser that appear in a cutscene, which gives 11 Pieces of Light and can only be collected once. 
+
+The total amount received per event is random and varies from ~240 to ~350 Pieces of Light. After reaching the 1,000 limit, melting the spiky balls won't give Light to the player.
+{{Clear}}
+
+===Sunset Sanctuary Turtle===
+<section begin="Sunset Turtle Summary" />
+[[File:wax-social-light-prairie-sanctuary-turtle.png|thumb|249x249px|Sanctuary Turtle in Underwater Ravine]]
+'''Event limit:''' ~1,000 Pieces of Light (Light trail)
+
+The Sanctuary Turtle and Sunset event was added during [[Days of Nature]] 2022, and is located in the [[Sanctuary Islands]] in [[Daylight Prairie]]. The Turtle is always present, however at specific times Darkness and Light orbs can appear around the Turtle. <section end="Sunset Turtle Summary" />
+
+The Sunset event starts at 00:50 PST/PDT, repeats every '''two hours''', and lasts for 10 minutes. There are several sources of Light that appear only during this period, in and around the deep underwater ravine. Five minutes before Sunset, a large Darkness Plant grows on the Turtle's shell, which rewards 51 Pieces of Light once burned. This source can only be collected once per day.
+
+While swimming around during sunset, the Turtle also regularly generates individual green Light orbs. This Light trail has a limit of 1,000 and is linked to [[#Grandma's Dinner Events|Grandma's Dinner event]] limit.
+
+Multiple Clams also appear during sunset, providing an even larger source of Light. Each Clam can only be collected once per day, but there is no other daily limit preventing this source from being collected.
+
+The single largest Clam is on the island beach, which appears in a cutscene after the Darkness Plant on the Turtle's back has been burnt away. It releases 100 Pieces of Light.
+
+Approximately 7 to 12 additional Clams can be found underwater. The locations and sizes (small or medium) are different each day. They can be found at the bottom of the ravine, around the broken boat, in between the ravine and the beach where the Large Clam is located, and on the far side of the ravine. Small Clams release ~10 Pieces of Light, and Medium Clams release 25-30 Pieces of Light. 
+
+In total, on average ~224.6 Pieces of Light can be collected from these smaller Clams each day, ranging from 159 to 337 Pieces of Light. This is in addition to the 151 Light earned from burning the Darkness Plant on the Turtle and the Large Clam that spawns on the beach afterwards.
+{{Clear}}
+
+===Dreams Skater===
+<section begin="Dreams Skater Summary" />
+[[File:wax-social-light-valley-village-dreams-skater.png|thumb|249x249px|Dreams Skater in Village of Dreams]]
+'''Event limit:''' ~400 Pieces of Light
+
+The Dreams Skater event was added in Patch {{v|0.19.5}} during [[Days of Feast]] 2022, and is located at the ice rink with the skater statue in the [[Village of Dreams]]. After completing all [[Season of Dreams]] Quests, the Dreams Skater periodically appears to practice their best moves on the rink.
+
+On Friday through Sunday, the first event starts at 01:00 PST/PDT, repeats every '''two hours''', and lasts 15 minutes. While skating around the frozen lake, Pieces of Light gently float down behind the practicing Spirit.
+
+Players get around ~140 Pieces of Light per event. <section end="Dreams Skater Summary" />
+
+==Inconsistent Light Sources==
+===Regular Eruptions===
+{{#lst:Shard Eruptions|Regular Eruptions}}
+
+Information about today's shard can be found on the [[Shard_Eruptions#Today's Shard|Shard Eruptions]] page.
+{{Clear}}
+
+===Fishing for Jellyfish===
+<section begin="Dreams Jellyfish Summary" />
+[[File:wax-valley-village-fishing-hole.png|thumb|249x249px|Fishing Hole in Village of Dreams]]
+In the Village of Dreams, there are fishing holes in the first frozen lake. If you patiently wait, reeling in miscellaneous objects, eventually one of them will be a [[Jellyfish]]. It will give you 5 Pieces of Light. Fishing for Crabs and Jellyfish both have a timer of one second; the other items have a timer of four seconds. However, only Jellyfish give the reward.<section end="Dreams Jellyfish Summary" />
+{{Clear}}
+
+===Yeti Race===
+In the Hermit Valley, players are able to compete in a race found atop the Hermit's cave. The amount of Light rewarded at the end is based on the amount of light fragments collected throughout the race. In order to begin the race, a minimum of two players are required to sit on top of the start posts on top the cave.
+
+In the first part of the race (from the Hermit Valley to the transition into the Village of Dreams) there is no time limit. However from the Village of Dreams and downwards a timer of 120 seconds begins. A minimum of 150 Pieces of Light (only one fragment collected) and a maximum of 300 Pieces of Light (every fragment collected) can be earned depending on the amount of fragments collected. The amount collected is shared between all participants so it is recommended to work together to collect every fragment to earn the maximum reward. This race can only be done once per day.
+
+===Finding Candles At End of Rainbow Daily Quest===
+The [[Quests|Daily Quest]] can include the "Find the candles at the end of the rainbow in the daily quest realm" (introduced from [[Days of Color|Days of Rainbow]] 2021). These can grant players an extra Treasure Candle for that day.
+
+===Completing Daily Quest during Non-seasonal Events===
+During the period after an old Seasonal Event ends and before a new Seasonal Event starts, players can complete Daily Quests to obtain a maximum of 4 regular Candles every day. These regular Candles ignore the Daily Light system, meaning you can get 20 + 4 Candles a day.
+
+==Event Light Sources==
+During certain events, there are additional sources of Light.
+
+===Double Treasure Candle Event===
+Four additional Treasure Candles are either scattered across the same Realm as the Daily Treasure Candles or in another Realm.
+<!--===Light Sources===
+<gallery widths="150" captionalign="center" hideaddbutton="true" mode="nolines">
+Question-mark-Ray.png|'''Fireworks'''<br>
+Question-mark-Ray.png|'''Shells'''<br>
+</gallery>-->
+
+===[[Days of Fortune]]=== 
+*During Days of Fortune 2021, a stone dragon showed up every hour at Home and dropped colorful balls containing Light.
+*During Days of Fortune 2022, the dragon showed up every other hour and dropped rockets that launched fireworks into the air, which turn into the Pieces of Light that would drift down.
+*During Days of Fortune 2023, the dragon returned every hour, dropping rockets that could be launched as fireworks. At the start of every hour, a fireworks show that provided Light was displayed at the pier along with a performance from the [[Season of Enchantment|Enchantment]] Spirits and [[Gratitude Guide]]. Reliving specific a Spirit's memory every day also provided a bonus gift of Light. The full list can be found on the [[Days of Fortune]] page.<!-- Add Days of Fortune 2024 -->
+<gallery widths="250" captionalign="center">
+File:Days-of-fortune-2022-dragon.jpg|Dragon at Home
+File:Days-of-fortune-2022-dragon-fireworks.jpg|Fireworks
+</gallery>
+
+===[[Days of Love]] ===
+*In 2022, during Days of Fortune, a pier was added to Home. The rainbow Light that was created by the fireworks show at this event did not count when collected. However, during the following Days of Love event, the pier generated pieces of Light which counted when collected. 
+*In 2023, this pier returned and also did not generate collectable Light.
+*In 2024, pink social light fell at the new sand bar area that was added to [[Jellyfish Cove]]
+<!-- Add photo of Home -->
+
+===[[Days of Bloom]]===
+* During Days of Bloom 2021, the Bloom Tree at Home dropped 1 Light petal about every 7 minutes.
+* During Days of Bloom 2022, a large Wisteria tree in the Hidden Forest Social Space spawned purple Light that could be collected whenever the tree was blooming.
+* During Days of Bloom 2023, both the Bloom Tree at Home and the large Wisteria Tree in the Hidden Forest Social Space returned. Both emitted Pieces of Light. Days of Bloom 2023 also introduced two additional Light sources: the grass in the [[Forgotten Ark]] and the glowing orb emitting petals, although this only emitted Light when you were in butterfly form. During Phase 3, every 2 hours starting at reset, there were 30 minute long butterfly gathering sessions. These Light sources along with the two trees at Home and Forest had a shared limit of 1000 Pieces of Light.
+<gallery widths="250" captionalign="center">
+File:Days of Bloom Tree.JPG|Bloom Tree 2021
+File:Days-of-bloom-tree-2022.png|Bloom Tree 2022
+File:Glowing-orb-emitting-petals-with-wax.jpg|Light from glowing orb when in butterfly form
+File:Grass-emiting-wax.jpg|Grass in the Forgotten Ark emitting Light during Days of Bloom
+</gallery>
+
+=== [[Days of Color]] <span id="Days of Rainbow"></span>=== 
+*During Days of Rainbow 2021, an extra Treasure Candle was found at the end of the rainbow in the Quest-hosting Realm every day.
+*During Days of Rainbow 2022, in addition to the rainbow Quest, a double rainbow at Home slowly spawned different-colored Pieces of Light. They briefly changed your trail into the corresponding color.
+*During Days of Color 2023, in addition to the double rainbow at Home, after solving the new eight player puzzle, a beam (that spawned colorful Pieces of Light) was generated, which lifted you up to an area with a circular rainbow and a floating island with a Treasure Candle.
+<gallery widths="250" captionalign="center">
+File:Days of Colour beam wax.jpg|Colorful Pieces of Light from beam
+File:Days Of Colour 2023 CandleCake.jpg|Treasure Candle
+File:Rainbow Wax.jpg|Pieces of Light from the double rainbow at Home
+</gallery>
+
+===[[Sky Anniversary]]===
+* During Sky Anniversary 2022, a large birthday cake was added to the celebration at the [[Secret Area|Office]] rooftop, giving about 111 Light (with about 40 Lights visually).
+* During Sky Anniversary 2023, a table with a birthday cake served 2 slices of cake every minute, giving a maximum of approximately 600 Pieces of Light. The dance floor also occasionally spawned some blue Light, giving a maximum of approximately 800 Pieces of Light.
+* During Skyfest 2024, the occasional blue light on the dance floor gave a maximum of 900 wax. The cake table still gave 600 wax.
+<gallery widths="250" captionalign="center">
+Days-of-Sky-large-birthday-office-rooftop.jpg|2022 Anniversary Office Cake
+Sky Anniversary 2023 Office Cake Table.jpg|2023 Anniversary Office Cake
+Sky-anniversary-office-dance-floor-light.jpg|2023 Anniversary Dance Floor Lights
+</gallery>
+{{Clear}}
+
+===[[Tournament of Triumph]]===
+* After completing the Collection Game for the first time that day, the player is rewarded with 8 Pieces of Light.
+* After completing the Racing Game for the first time that day, the player is rewarded with 8 Pieces of Light.
+<gallery widths="250" captionalign="center">
+Wax-Tournament-Collection-Game.png|Reward after finishing Collection Game
+Wax-Tournament-Racing-Game.png|Reward after finishing Racing Game
+</gallery>
+
+===[[Lazy Days]] <span id="Days of Summer"></span>===
+Formerly known as "Days of Summer".
+The campfire at Home created Pieces of Light and, every once in a while, seashells that contained Light spawned. Small shells gave 4 Light, medium size shells gave 12 Light, and large shells gave 82 Light.
+[[File:Home-during-Lazy-Days.jpg|right|thumb|300x300px|Home during Lazy Days]]
+<gallery widths="150" captionalign="center">
+File:Yellow-seashell.png|75px|'''Yellow Seashell'''<br>4 to 82 Pieces of Light
+File:Pink-seashell.png|75px|'''Pink Seashell'''<br>4 to 82 Pieces of Light
+File:Blue-seashell.png|75px|'''Blue Seashell'''<br>4 to 82 Pieces of Light
+</gallery><!-- Add photo of Home -->
+
+===[[Days of Sunlight]] ===
+The [[Elevated Clearing]] was transformed in 2023. The sandy edge of the lake would occasionally spawn blue and yellow balls containing Light.
+
+===[[Days of Moonlight]]===
+During Days of Moonlight 2025, the chat table next to the riddle lanterns spawns 3 buns worth 20 light each, about once per minute. Over the course of about 16 minutes you can collect a max of 1,000 light there per day. 
+
+===[[Days of Style]] ===
+After recording a Runway memory, the Style Guide would gift some Light for your help.
+
+{{Clear}}
+===[[Days of Mischief]]===
+[[File:The-Cackling-Crab-Cauldron-and-light.jpg|right|thumb|300x300px|The Cauldron at The Cackling Crab]]
+* During Days of Mischief 2021, [[The Cackling Crab]] had a large bubbling cauldron give players green Lights to collect. 
+* During Days of Mischief 2022, the same cauldron provided green Pieces of Light. The room with the Krill Cat Shrine has some red candles.
+* During Days of Mischief 2023, the same cauldron provided green Pieces of Light. The room with the Krill Cat Shrine has some red candles. There are also 3 [[Treasure Candles]] hidden throughout the area: on a ledge past the cobweb-filled path above some flooded tombstones, next to the Mischief Staff stuck behind bars in the new underground lair, and above the flooded section of the maze. 
+{{Clear}}
+
+=== [[Days of Feast]]===
+The ice rink and the igloo-shaped shelter at Home emitted Pieces of Light.
+<!-- Add photo of Home -->
+
+==Obsolete Light Sources==
+===Completed Memories from Regular Spirits===
+A completed memory will cause one Piece of Light to appear above the first memory fragment. However, it does not get counted when collected.
+
+===Harmony Hall===
+During the Harmony Hall grand opening event, Pieces of Light drop to the floor around the first floor. This no longer exists since the grand opening event is over.
+{{Clear}}
+
+=== Hot Spring===
+[[File:Wax-social-light-valley-dreams-hot-spring.jpg|thumb|249x249px|Hot Spring]]
+'''Light limit:''' ~400 Pieces of Light
+
+The Hotspring in the Village of Dreams was modified on November 18, 2021. All Candles were removed and now Pieces of Light slowly fall inside the Hotspring area. In Patch {{v|0.20.0}}, the Hotspring Social Light was reverted back to a Treasure Candle.
+{{Clear}}
+
+===<span id="Vault Island">Floating Island on the Fourth Floor of Vault</span>===
+[[File:wax-social-light-vault-floor-4.jpg|thumb|249x249px|Fourth Floor of Vault]]
+One of the floating islands on the Fourth Floor of Vault (at the bottom of the platforms that lead up to a Treasure Candle) slowly spawned Pieces of Light. In Patch {{v|0.20.0}}, the Floating Island Social Light was converted to a Treasure Candle.
+{{Clear}}
+
+===[[Sky × Cinnamoroll Pop-Up Cafe]]===
+[[File:Wax-social-light-cinnamoroll pop-up cafe.jpeg|thumb|249x249px|Freshly baked cinnamon rolls]]
+'''Event limit:''' 800 Pieces of Light
+
+During the Cinnamoroll Pop-Up Cafe event, the newly added cafe in [[Aviary Village]] periodically held a timed event where [[Tiptoeing Tea-Brewer]] baked cinnamon rolls in the big wood-fired oven behind the counter.
+
+This event repeated at the start of '''every hour''' and lasted 15 minutes. The first 4 rolls popped out of the oven at 00:00 PST/PDT, and then repeatedly every minute for the next '''15 minutes'''. When a roll was burned, it gave 10 Pieces of Light.
+
+Players got a maximum of 600 Pieces of Light for a single event. After reaching the 800 limit, burning the rolls wouldn't give Light to the player. This no longer exists since the Sky × Cinnamoroll Pop-Up Cafe event is over. Instead, a single cinnamon roll can be ordered at the café once per day, either inside or, after all daily quests are done, outside. It gives 50 pieces of wax when picked up.
+{{Clear}}
+
+==Trivia==
+* While Grandma waits before [[#Grandma's Dinner Event|Grandma's Dinner Event]], she wanders around the room, occasionally walking towards the entrance and performing the {{Emote|Look Around|inline_text}} Expression. During the Event, Grandma can be seen performing random Expressions, such as {{Emote|Laugh|inline_text}}, {{Emote|No Thanks|inline_text}}, {{Emote|Boogie Dance|inline_text}}, etc.)
+
+==References==
+<references />
+
+[[de:Zusätzliche Lichtquellen]]
+[[pt-br:Fontes de Luz Adicionais]]
+[[fr:Sources de Lumière Additionnelles]]
+
+[[Category:Daily Content]]
+[[Category:Advanced Guides]]
+[[Category:Currency]]

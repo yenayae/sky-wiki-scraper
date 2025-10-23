@@ -1,0 +1,109 @@
+[[File:Fan-made-sky-tools.png|thumb]]
+This page summarizes various fan-made ''Sky'' tools, including websites, apps and others. '''Please note that none of the services here are affiliated with thatgamecompany (TGC) or ''Sky''.'''
+
+'''Note:''' Feel free to add others if your tool isn't here, or contact a [[Help:Admins and Moderators|Sky Wiki Admin]]. If you are the author of any of the services listed here and would like it removed, please also contact an Admin. Tools must follow thatgamecompany's [https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/faq/697-can-i-create-a-supplemental-app-or-service-for-sky/ Terms of Service for supplemental apps and services], which includes not being sold or having sold items or services.
+{{Clear}}
+==General==
+===Sky Wiki===
+[[File:Site-logo.png|260px|thumb]]
+:: <small>''Want to add another language? Visit [[Help:Translating the Sky Wiki]] page.''</small>
+'''Sky Wiki''' is a fan-created website with information on everything related to the world of ''Sky'', including [[collectibles]] databases, tutorials and various useful resources. It is available in several languages, listed below.
+*English: [[Sky: Children of the Light Wiki|sky-children-of-the-light.fandom.com]]
+*German: [[:de:|sky-kinder-des-lichts.fandom.com/de]]
+*Spanish: [[:es:|sky-ninosdelaluz.fandom.com/es]]
+*French: [[:fr:|sky-enfants-de-la-lumiere.fandom.com/fr]]
+*Indonesian: [[:id:|sky-children-of-the-light.fandom.com/id]]
+*Japanese: [[:ja:|sky-children-of-the-light.fandom.com/ja]]
+*Korean: [[:ko:|sky-cotl.fandom.com/ko]]
+*Brazilian Portuguese: [[:pt-br:|sky-filhos-da-luz.fandom.com/pt-br]]
+*Russian: [[:ru:|sky-children-of-the-light.fandom.com/ru]]
+*Mandarin (Chinese): [[:zh:|https://sky-children-of-the-light.fandom.com/zh]]
+{{Clear}}
+
+===Sky Planner===
+[[File:Sky-planner-by-Silverfeelin.png|260px|thumb|Sky Planner by Silverfeelin]]
+{{Icon|Sky-planner-app-icon.png|link=https://sky-planner.com sky-planner.com}} [https://sky-planner.com sky-planner.com] — Created by {{Userlinks|Silverfeelin}}
+
+'''Sky Planner''' is a fan-made website with a number of useful features for tracking player progress in ''Sky''. They mainly include the tracking of [[Cosmetics]] and [[Winged Lights]] collected, as well as [[Season]] and [[Special Event]] calculators, an interactive world map, a list of [[Ancestors]] and a tool for creating outfit requests for [https://discordapp.com/invite/thatskygame Sky official Discord server].
+{{Clear}}
+
+===Sky Tracker===
+[[File:Sky-Tracker-app.png|260px|thumb|Sky Tracker by Videogamerkm]]
+[https://github.com/Videogamerkm/Sky_Tracker github.com/Videogamerkm/Sky_Tracker] — Created by [https://github.com/Videogamerkm Videogamerkm]
+
+'''Sky Tracker''' is a lightweight, offline fan-made application with a number of useful features for tracking player progress in ''Sky''. They include saving and loading options, tabs to track and calculate purchases in Spirit Friendship Trees, tracking of player progress in [[Regular Spirits]] and [[Seasonal Spirits]] Friendship Trees, past and ongoing [[Seasons]] and [[Special Events]], [[Winged Lights]], and a help tab for [[Shard Eruptions|Shards]].
+{{Clear}}
+
+==Dates and Times==
+===Sky Clock===
+[[File:Sky-clock-app.png|260px|thumb|Sky Clock by Chris Stead]]
+{{Icon|Sky-clock-app-icon.png|link=https://sky-clock.netlify.app/}} [https://sky-clock.netlify.app sky-clock.netlify.app] — Created by [https://github.com/cmstead Chris Stead]
+
+'''Sky Clock''' is a fan-made website with a live clock for local time, ''Sky'' mean time and timed in-game events. They include daily reset, [[Additional_Light_Sources#Grandma's_Dinner_Event|Grandma's Dinner]], [[Additional_Light_Sources#Polluted_Geyser|Polluted Geyser]], [[Additional_Light_Sources#Sunset_Sanctuary_Turtle|Sunset Sanctuary Turtle]], [[AURORA Concert]], and others.
+{{Clear}}
+
+===Sky Shards===
+[[File:Sky-shards-app.png|260px|thumb|Sky Shards by Plutoy]]
+{{Icon|Sky-shards-app-icon.png|link=https://sky-shards.pages.dev/}} [https://sky-shards.pages.dev/ sky-shards.pages.dev] — Created by Plutoy
+
+'''Sky Shards''' is a fan-made website with a live countdown to upcoming [[Shard Eruptions]] and other information. They include the times, location, rewards, and visual guides to the location and rewards.
+{{Clear}}
+
+===Sky Event Calendar Fan Made===
+[[File:Sky-Event-Calendar-Fan-Made-site.png|260px|thumb|Sky Event Calendar Fan Made by alvenoir on Discord]]
+{{Icon|Sky-Event-Calendar-Fan-Made-site-icon.png|link=https://skydreamers.notion.site/Sky-Event-Calendar-FM-ec6e6134924048859b2a8410b0a8b20d}} [https://skydreamers.notion.site/Sky-Event-Calendar-FM-ec6e6134924048859b2a8410b0a8b20d skydreamers.notion.site/Sky-Event-Calendar-FM] — Created by alvenoir on Discord
+
+'''Sky Event Calendar Fan Made''' is a fan-made website with dates and information on current and ongoing [[Special Events]]. It includes different types of views and options for sorting and filtering Events.
+{{Clear}}
+
+==Calculators==
+===Sky Season Calculator===
+[[File:Sky-season-calculator-app.png|260px|thumb|Sky Season Calculator by Stoat]]
+{{Icon|Sky-season-event-calculator-site-icon.png|link=https://sky-season-calculator.netlify.app/}} [https://sky-season-calculator.netlify.app/ sky-season-calculator.netlify.app] — Created by Stoat
+
+'''Sky Season Calculator''' is a fan-made website with a [[Currency#Seasonal Candles|Seasonal Candle]] calculator for the current [[Season]]. It includes options that can be checked to make the calculation of the player's progress more accurate.
+{{Clear}}
+
+===Sky Event Calculator===
+[[File:Sky-event-calculator-app.png|260px|thumb|Sky Event Calculator by Stoat]]
+{{Icon|Sky-season-event-calculator-site-icon.png|link=https://sky-event-calculator.netlify.app/}} [https://sky-event-calculator.netlify.app/ sky-event-calculator.netlify.app] — Created by Stoat
+
+'''Sky Event Calculator''' is a fan-made website with a [[Currency#Event Currency|Event Currency]] calculator for the current [[Special Events|Event]]. It includes options that can be checked to make the calculation of the player's progress more accurate.
+{{Clear}}
+
+===Spreadsheet Sky TS Calculator===
+[[File:Sky-TS-Calculator-spreadsheet.png|260px|thumb|Spreadsheet Sky TS Calculator by ln.cookie on Discord]]
+{{Icon|Sky-TS-Calculator-spreadsheet-icon.png|link=https://onedrive.live.com/embed?resid=661D2AE20F71B63A!10977&authkey=!AI76Lza5kz3tWuw&em=2&wdAllowInteractivity=False&AllowTyping=True&ActiveCell=%27Sky%20COTL%20-%20TS%20Visits%27!D5&wdHideGridlines=True&wdHideHeaders=True&wdInConfigurator=True&wdInConfigurator=True}} [https://onedrive.live.com/embed?resid=661D2AE20F71B63A!10977&authkey=!AI76Lza5kz3tWuw&em=2&wdAllowInteractivity=False&AllowTyping=True&ActiveCell=%27Sky%20COTL%20-%20TS%20Visits%27!D5&wdHideGridlines=True&wdHideHeaders=True&wdInConfigurator=True&wdInConfigurator=True Spreadsheet link] — Created by ln.cookie on Discord
+
+'''Spreadsheet Sky TS Calculator''' is a fan-made spreadsheet that displays [[Traveling Spirits]] visits during a given period and has a calculator for the player's [[Winged Light]] and [[Winged Light#Wing Buffs|Wing Buff]] progress. It allows the player to see the maximum number of Winged Lights they have, displaying the total maximum number in the game by default.
+{{Clear}}
+
+==Spreadsheet Trackers==
+===Spreadsheet Sky:CotL Constellations Checklist===
+[[File:Sky-CotL-Constellations-Checklist-spreadsheet.png|260px|thumb|Spreadsheet Sky:CotL Constellations Checklist by Rubombee]]
+[https://docs.google.com/spreadsheets/d/1haVhjip-Oi24KsxvwnR3BToXvZEStwlaFmDHv0wdAcE Spreadsheet link] — Created by Rubombee
+
+'''Spreadsheet Sky:CotL Constellations Checklist''' is a fan-made spreadsheet that tracks the player's progress in [[Regular Spirit]] Friendship Trees in each [[Realms|Realm]], and has a calculator for the maximum number of [[Winged Lights]] the player has.
+{{Clear}}
+
+==Music==
+{{#lst:Sky Music Guide|Music-Tools}}
+
+==Miscellaneous==
+===Sky Measuring Guide===
+[[File:Sky-Measuring-Guide-app.png|260px|thumb|Sky Measuring Guide by NathanWolf]]
+{{Icon|Sky-Measuring-Guide-app-icon.png|link=https://skykidheight.com}} [https://skykidheight.com skykidheight.com] — Created by [https://github.com/NathanWolf NathanWolf]
+
+'''Sky Measuring Guide''' is a fan-made website that has a step-by-step guide to measuring the size of the player's avatar using a particular lantern as a reference. It includes an option to upload your screenshot and check the size of the avatar and compare it with other sizes.
+{{Clear}}
+
+===Sky TS Hints===
+[[File:Sky-TS-Hints-app.png|260px|thumb|Sky TS Hints by Koame]]
+[https://sites.google.com/view/skyhints sites.google.com/view/skyhints] — Created by Koame on Discord
+
+'''Sky TS Hints''' is a fan-made website that lists the [[Traveling_Spirits#Hints|text hints]] from [[Traveling Spirits]] visits. It is divided into pages for each [[Season]].
+
+[[pt-br:Ferramentas de Sky Feitas por Fãs]]
+[[ja:ファン・メイド Sky ツール]]
+
+[[Category:Community Projects]]

@@ -1,0 +1,211 @@
+{{Guide Infobox
+|image     = Moments-Ultimate-Guide.png
+|type      = Seasonal
+|ultimates = {{Spirit Item|Moments Guide|facepiece_u|link=#Moments Ultimate Face Accessory|infobox}}{{Spirit Item|Moments Guide|hairpiece_u|link=#Moments Ultimate Hair Accessory|infobox}}{{Spirit Item|Moments Guide|prop_u|link=#Moments Ultimate Prop|infobox}}
+|cosmetics = 
+|props     = {{Spirit Item|Moments Guide|prop|infobox}}
+|season    = Moments
+|realm     = Daylight Prairie
+|location  = Prairie Peaks
+}}
+<section begin="Summary" />The '''Moments Guide''' is a Seasonal Guide (also known as Quest Giver) from the [[Season of Moments]] who offers Quests and [[Moments Guide#Ultimate Gifts|cosmetics]]. The Moments Guide is found near the entrance of [[Prairie Peaks]], to the left of the area's [[Map_Shrines#Daylight_Prairie|Map Shrine]]. The Ultimate Guide offered a {{Spirit Item|Moments Guide|necklace_u|link=#Moments Ultimate Pendant|inline_text}}, a {{Spirit Item|Moments Guide|facepiece_u|link=#Moments Ultimate Face Accessory|inline_text}}, a {{Spirit Item|Moments Guide|hairpiece_u|link=#Moments Ultimate Hair Accessory|inline_text}}, and a {{Spirit Item|Moments Guide|prop_u|link=#Moments Ultimate Prop|inline_text}} for [[Season Pass]] holders. This Ultimate Guide also provides a new cosmetic in their Quest Tree, permanently available to all players: a {{Spirit Item|Moments Guide|prop|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Moments-Guide-Promo-art.jpg|none|thumb|320x320px|TGC's promo image]]
+
+==<span id="Ultimate Pendant"><span id="Moments Ultimate Pendant">Seasonal Pendant</span></span>==
+The Moments Ultimate [[Necklaces|Pendant]] is the usual gold pendant featuring the Season's emblem attached to a necklace. It was a [[Season Pass]] exclusive item during the Season, available for free from the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||neckpiece_u|icon}} {{!}} Moments Ultimate Pendant icon
+{{Icon Name||necklace_u_real}} {{!}} Moments Ultimate Pendant
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Ultimate Gifts==
+The Season of Moments Guide offered 3 Ultimate Gifts, available to be purchased by [[Season Pass]] holders with [[Currency#Season_Hearts|Seasonal Hearts]] during the Season of Moments only.
+
+===<span id="Ultimate Face Accessory">Moments Ultimate Face Accessory</span>===
+The Moments Ultimate [[Face Accessory]] is a pair of glasses with thick black frames and no lenses. It was a [[Season Pass]] exclusive item during the Season, available for {{Cost|1 SH|season=Moments}} after unlocking the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||facepiece_u|icon}} {{!}} Moments Ultimate Face Accessory icon
+{{Icon Name||facepiece_u|real}} {{!}} Moments Ultimate Face Accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Ultimate Hair Accessory">Moments Ultimate Hair Accessory</span>===
+The Moments Ultimate [[Hair Accessory]] is a brown cowboy hat with a leather band and the Season's emblem on the left side. It was a [[Season Pass]] exclusive item during the Season, available for {{Cost|2 SH|season=Moments}} after unlocking the Friendship Tree's third node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||hairpiece_u|icon}} {{!}} Moments Ultimate Hair Accessory icon
+{{Icon Name||hairpiece_u|real}} {{!}} Moments Ultimate Hair Accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Ultimate Prop">Moments Ultimate Prop</span>===
+The Moments Ultimate [[Prop]] is a boxy white camera marked with the Season's emblem on the front. It was a [[Season Pass]] exclusive item during the Season, available for {{Cost|1 SH|season=Moments}} after unlocking the Friendship Tree's second node. 
+
+Once equipped, this Prop grants the player options to fine-tune their shots like a real camera would, providing more control over photos compared to regular screenshots. The UI of the Ultimate Camera has an additional decorative flourish, and taking a photo causes a sparkling flash effect visible only to other players. Note that both the Ultimate Camera and the regular [[#Camera Prop|Camera]] work the same.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||prop_u|icon}} {{!}} Moments Ultimate Prop icon
+{{Icon Name||prop_u|real}} {{!}} Moments Ultimate Prop
+Moments-Guide-Prop-Ultimate-Camera-holding.png {{!}} Holding the Moments Ultimate Prop
+Moments-Guide-Prop-Ultimate-Camera-on-your-back.png {{!}} Moments Ultimate Prop on your back
+Moments-Camera-Sparkles.gif {{!}} Ultimate Camera flash effect 
+Moments-Ultimate-Camera-UI-PC.png {{!}} Special Ultimate Camera UI
+|widths=125|captionalign=center|spacing=small
+}}
+
+
+==Additional Cosmetics==
+Upon starting Quests from the Season of Moments, an additional camera is available to collect for free through the [[Moments Guide#Quest Tree|Moments Guide]]'s Quest Tree. '''This item remained in the Ultimate Guide's Tree after the Season ended.'''
+
+===Camera Prop===
+The Camera [[Prop]] is a boxy gray camera. It is permanently available to all players for {{Cost|Free}} from the [[Moments Guide#Quest Tree|Quest Tree]]'s first node.
+
+Once equipped, this Prop grants the player options to fine-tune their shots like a real camera would, providing more control over photos compared to regular screenshots. Note that both the [[Moments Guide#Ultimate Prop|Ultimate Camera]] and the regular Camera work the same.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||prop|icon}} {{!}} The Camera Prop icon
+{{Icon Name||prop|real}} {{!}} The Camera Prop
+Moments-Guide-Prop-Camera-holding.png {{!}} Holding the Camera Prop
+Moments-Guide-Prop-Camera-on-your-back.png {{!}} The Camera Prop on your back
+Moments-Camera-UI-PC.png {{!}} Camera UI
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Friendship Tree ==
+The Moments Guide's Friendship Tree was available to the right of the Quest Tree during the Season of Moments only. '''Now that the Season is over, these cosmetics are no longer available.'''
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Moments Guide
+|image  = Moments-Ultimate-Guide.png
+|type   = season
+|season = Moments
+
+|nodeC4 = hairpiece_u 2 SH AP
+|  linkC4 = Moments Guide#Moments Ultimate Hair Accessory
+
+|nodeC3 = prop_u 1 SH AP
+|  linkC3 = Moments Guide#Moments Ultimate Prop
+
+|nodeC2 = facepiece_u 1 SH AP
+|  linkC2 = Moments Guide#Moments Ultimate Face Accessory
+
+|nodeC1 = necklace AP
+|  linkC1 = Moments Guide#Moments Ultimate Pendant
+}}
+<section end="Friendship Tree" />
+
+==Quest Tree==
+The Moments Guide Quest Tree is available for all players to complete Quests from the [[Season of Moments]]. Once you complete a Quest, a [[Currency#Hearts|Heart]] is available to be collected for free.
+<section begin="Quest Tree" />{{Mobile Tabber
+|tab1 = Post-season
+|c1   = {{Friendship Tree
+|spirit = Moments Guide
+|image  = Moments-Ultimate-Guide.png
+
+|nodeC8 = Heart
+|  noteC8 = <ref name="quest_heart"/>
+|nodeC7 = quest
+|  linkC7 = Season of Moments#Quest #5
+|  labelC7 = Quest 5
+
+|nodeL6 = Heart
+|  noteL6 = <ref name="quest_heart"/>
+|nodeC6 = quest
+|  linkC6 = Season of Moments#Quest #4
+|  labelC6 = Quest 4
+
+|nodeL5 = Heart
+|  noteL5 = <ref name="quest_heart"/>
+|nodeC5 = quest
+|  linkC5 = Season of Moments#Quest #3
+|  labelC5 = Quest 3
+
+|nodeC4 = Icon_high_five.png
+|  linkC4 = High Five Action
+|  labelC4 = High Five Action
+
+|nodeL3 = Heart
+|  noteL3 = <ref name="quest_heart"/>
+|nodeC3 = quest
+|  linkC3 = Season of Moments#Quest #2
+|  labelC3 = Quest 2
+
+|nodeL2 = Heart
+|  noteL2 = <ref name="quest_heart">During the Season of Moments, Revival and Nine-Colored Deer, the Hearts available from Moments Guide after completing each Quest were free.</ref>
+|nodeC2 = quest
+|  linkC2 = Season of Moments#Quest #1
+|  labelC2 = Quest 1
+
+|nodeL1 = Icon_warp.png 
+|  labelL1 = Teleport to Prairie Peaks|Prairie Peaks
+|nodeC1 = prop
+|  linkC1 = Moments Guide#Camera Prop
+|  labelC1 = Camera Prop
+}}
+
+|tab2 = Mid-season
+|c2   = {{Friendship Tree
+|spirit = Moments Guide
+|image  = Moments-Ultimate-Guide.png
+|type   = season
+|season = Moments
+
+|nodeC8 = Heart free
+|nodeC7 = quest
+|  linkC7 = Season of Moments#Quest #5
+|  labelC7 = Quest 5
+
+|nodeL6 = Heart free
+|nodeC6 = quest
+|  linkC6 = Season of Moments#Quest #4
+|  labelC6 = Quest 4
+
+|nodeL5 = Heart free
+|nodeC5 = quest
+|  linkC5 = Season of Moments#Quest #3
+|  labelC5 = Quest 3
+
+|nodeC4 = Icon_high_five.png
+|  linkC4 = High Five Action
+|  labelC4 = High Five Action
+
+|nodeL3 = Heart free
+|nodeC3 = quest
+|  linkC3 = Season of Moments#Quest #2
+|  labelC3 = Quest 2
+
+|nodeL2 = Heart free
+|nodeC2 = quest
+|  linkC2 = Season of Moments#Quest #1
+|  labelC2 = Quest 1
+
+|nodeL1 = Icon_warp.png
+|  labelL1 = Teleport to Prairie Peaks
+|nodeC1 = prop
+|  linkC1 = Moments Guide#Camera Prop
+|  labelC1 = Camera Prop
+}}
+}}<section end="Quest Tree" />
+
+==Personality==
+On July 11, 2023, TGC officially announced and introduced the Moments Guide with the following personality traits:
+
+*🌄 Once waited 8 hours to capture sunlight hitting a peak just the right way
+*🏕️ Can pack for a camping trip in 10 min.
+*📷 Rooms in their house are photogenic from any angle
+*🔥 Won’t admit they still need special tools to make a fire
+
+==Trivia==
+* The Moments Guide is believed to be inspired by the American landscape photographer [https://en.wikipedia.org/wiki/Ansel_Adams Ansel Adams] by the community. This is due to the appearance of the Guide and also because during [[Sky Beta|Beta]] testing for the [[Season of Moments]], the prompt for one of the Quests was, "Would you like to help Ansel to take a photo?"
+*The Moments Guide can also be found in the Aviary Village's [[Aviary Village#Hair Accessories Shop|Hair Accessories Shop]] but cannot be interacted with.
+
+==References==
+<references />
+
+[[pt-br:Guia dos Momentos]]
+[[fr:Guide des Instants]]
+[[de:Momente-Helfer]]
+[[ja:瞬きの案内人]]

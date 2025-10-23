@@ -1,0 +1,34 @@
+{{Creature Infobox
+|title    = Whales
+|type     = light
+|image    = Face-view-Whale-Underground-Forest.png
+}}<section begin="Summary" />The '''Whale''' is a large, fish-like creature, which resembles an arowana. It is unclear whether the Whale is a fish or a mammal in the world of Sky. However, it only replicates Earth's Whales in size and not in appearance. <section end="Summary" />
+
+[[File:Side-view-Whale-Underground-Forest.png|none|thumb|300px|Side view of the whale at the Underground Forest]]
+
+== Locations ==
+Whales can only be found in very specific locations; [[Underground Caverns]] below the Sunny Forest, in the cloud-covered space between the [[Valley of Triumph]] and [[Golden Wasteland]], and also in the final area of [[Eye of Eden|Eye of Eden (page will contain spoilers)]]. Whale also appears in "Warrior" in [[AURORA Concert]]. Players cannot directly interact with Whales as they tend to feature in cutscenes or appear some distance away from where players spawn. Some players have been able to approach the Whale in Hidden Forest by [[Out of Bounds|OOBing]] under the Underground Caverns.
+
+==Remains==
+Whales, along with Mantas, are the only creatures whose remains are seen in Sky; their bones can be found in the [[Boneyard]] area of Hidden Forest. What remains is a large skeleton overgrown with dark plants. Burning away these dark plants will unlock the [[Whale Call]] for everyone in the area. The bones of what appears to be a Whale can also be found suspended in the air on the [[Fifth Floor Vault]] (though it's possible that it is instead the skeleton of a very large manta).
+
+==Gallery==
+<gallery widths="220" spacing="small" captionalign="center" hideaddbutton="true">
+Whalepic1.JPG|Whale in the Underground Caverns
+File:ForestWhaleCloseup.jpg|A close-up
+Whalepic2.JPG|Whale in between Valley and Wasteland
+C8007DBF-55DB-41CD-9816-CD410E52EB28.jpeg|Profile shot of a Whale
+File:EdenWhaleOne.jpg|A whale in Eden
+File:EdenWhaleTwo.jpg
+File:SOShattering-Winged-Light-whale-void.jpg|Whales in an ancient memory from Season of Shattering
+File:WhaleinWarrior.jpg|Whale in AURORA Concert
+</gallery>
+
+==Trivia==
+**[https://discord.com/channels/575762611111592007/575827782144098304/744058999586160670 Ash's statement on Discord] says that the whale is nicknamed within the development team as "tuna king".
+
+[[Category:Creatures]]
+
+[[fr:Baleines]]
+[[pt-br:Baleias]]
+[[ja:鯨]]

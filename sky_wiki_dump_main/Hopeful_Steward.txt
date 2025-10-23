@@ -1,0 +1,255 @@
+{{Guide Infobox
+|image     = <gallery>
+Hopeful-Steward-Revival-Guide.png|Standard
+Hopeful-Steward-Revival-Guide-Ults.png|After Quest #7
+</gallery>
+|type      = Seasonal
+|ultimates = {{Spirit Item|Hopeful Steward|hair_u|link=#Revival Ultimate Hair|infobox}}{{Spirit Item|Hopeful Steward|cape_u|link=#Revival Ultimate Cape|infobox}}
+|cosmetics = {{Spirit Item|Hopeful Steward|hair|infobox}}
+|season    = Revival
+|location  = Aviary Village
+}}
+<section begin="Summary" />The '''Hopeful Steward''' is a Seasonal Guide (also known as Quest Giver) from the [[Season of Revival]] who offers Quests and [[Hopeful Steward#Ultimate Gifts|cosmetics]]. The Hopeful Steward is found at the entrance of [[Aviary Village]]. The Ultimate Guide offered a {{Spirit Item|Hopeful Steward|necklace_u|link=#Revival Ultimate Pendant|inline_text}}, a {{Spirit Item|Hopeful Steward|hair_u|link=Hopeful Steward#Revival Ultimate Hair|inline_text}}, and a {{Spirit Item|Hopeful Steward|cape_u|link=Hopeful Steward#Revival Ultimate Cape|inline_text}} for [[Season Pass]] holders. This Ultimate Guide also provided a new cosmetic in their Quest Tree, permanently available to all players: a {{Spirit Item|Hopeful Steward|hair|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Revival-Guide-Promo-art.jpeg|none|thumb|300px|TGC's Promo image]]
+
+==<span id="Ultimate Pendant"><span id="Revival Ultimate Pendant">Seasonal Pendant</span></span>==
+The Revival Ultimate [[Necklaces|Pendant]] is the usual gold pendant featuring the Season's emblem attached to a necklace. It was a [[Season Pass]] exclusive item during the Season, available for free from the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||necklace_u|icon}} {{!}} Revival Ultimate Pendant icon
+{{Icon Name||necklace_u|real}} {{!}} Revival Ultimate Pendant
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Ultimate Gifts==
+The Hopeful Steward offered 2 Ultimate Gifts, available to be purchased by [[Season Pass]] holders with [[Currency#Season_Hearts|Seasonal Hearts]] during the Season of Revival only.
+
+=== <span id="Ultimate Hair">Revival Ultimate Hair</span>===
+The Revival Ultimate [[Hair]] is a shaggy wolf cut with colorful fabric strips attached. It was a [[Season Pass]] exclusive item during the Season, available for {{Cost|2 SH|season=Revival}} after unlocking the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||hair_u|icon}} {{!}} Revival Ultimate Hair icon
+{{Icon Name||hair_u_real}} {{!}} Revival Ultimate Hair front
+{{Icon Name||hair_u_side}} {{!}} Revival Ultimate Hair side
+{{Icon Name||hair_u_back}} {{!}} Revival Ultimate Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== <span id="Ultimate Cape">Revival Ultimate Cape</span>===
+The Revival Ultimate [[Cape]] is a long scarf made of several colorful fabric strips tied together. It was a [[Season Pass]] exclusive item during the Season, available for {{Cost|2 SH|season=Revival}} after unlocking the Friendship Tree's second node. While flying, it creates a rainbow light effect each time the player spends Cape energy.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||cape_u|icon}} {{!}} Revival Ultimate Cape icon
+{{Icon Name||cape_u_front}} {{!}} Revival Ultimate Cape front
+{{Icon Name||cape_u_interior}} {{!}} Revival Ultimate Cape interior
+{{Icon Name||cape_u_real}} {{!}} Revival Ultimate Cape back
+{{Icon Name||cape_u_exterior}} {{!}} Revival Ultimate Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Additional Cosmetics ==
+Upon completing [[Season of Revival#Quest #7|Quest #7]] of the Season of Revival, one additional cosmetic is available to collect for regular Candles through the Hopeful Steward's [[Hopeful Steward#Quest Tree|Quest Tree]]. '''This item remained in the Ultimate Guide's Quest Tree after the Season ended.'''
+
+===Hair===
+The [[Hair]] offered by Hopeful Steward is a shaggy wolf cut, resembling the [[Hopeful Steward#Revival Ultimate Hair|Revival Ultimate Hair]] without the colorful fabric strips, costing {{Cost|46 C}}. It is permanently available to all players after completing [[Season of Revival#Quest 7|Quest #7]] of the Season of Revival, from the Quest Tree's eighth node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||hair|icon}} {{!}} The Hair icon
+{{Icon Name||hair_real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Friendship Tree==
+The Hopeful Steward Guide's Friendship Tree was available to the right of the Quest Tree during the Season of Revival only. '''Now that the Season is over, these cosmetics are no longer available.'''
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Hopeful Steward
+|image  = Hopeful-Steward-Revival-Guide.png
+|type   = season
+|season = Revival
+
+|nodeC3 = cape_u 2 SH AP
+|  linkC3 = Hopeful Steward#Revival Ultimate Cape
+
+|nodeC2 = hair_u 2 SH AP
+|  linkC2 = Hopeful Steward#Revival Ultimate Hair
+
+|nodeC1 = necklace AP
+|  linkC1 = Hopeful Steward#Revival Ultimate Pendant
+}}<section end="Friendship Tree" />
+
+==Quest Tree==
+The Hopeful Steward Quest Tree is available for all players to complete Quests from the [[Season of Revival]]. Once you complete a Quest, a [[Currency#Hearts|Heart]] is available to be collected for free during the Season of Revival only. 
+<section begin="Quest Tree" />{{Mobile Tabber
+|tab1 = Post-Season
+|c1   = {{Friendship Tree
+|spirit = Hopeful Steward
+|image  = Hopeful-Steward-Revival-Guide.png
+
+|nodeC8 = hair 46 C 
+
+|nodeR7 = quest
+|  linkR7 = Season of Revival#Quest #9
+|  labelR7 = Quest 9
+|nodeL7 = quest 
+|  linkL7 = Season of Revival#Quest #8
+|  labelL7 = Quest 8
+|nodeC7 = quest 
+|  linkC7 = Season of Revival#Quest #7
+|  labelC7 = Quest 7
+
+|nodeL6 = Heart
+|  noteL6 = <ref name="quest_heart">During the Season of Revival and the following Season, the Hearts available from the Hopeful Steward after completing each Quest were free.</ref>
+|nodeC6 = quest
+|  linkC6 = Season of Revival#Quest #6
+|  labelC6 = Quest 6
+
+|nodeL5 = Heart
+|  noteL5 = <ref name="quest_heart"/>
+|nodeC5 = quest
+|  linkC5 = Season of Revival#Quest #5
+|  labelC5 = Quest 5
+
+|nodeL4 = Heart
+|  noteL4 = <ref name="quest_heart"/>
+|nodeC4 = quest
+|  linkC4 = Season of Revival#Quest #4
+|  labelC4 = Quest 4
+
+|nodeR3 = Icon_hug.png
+|  linkR3 = Friendship_Menu#Hug
+|  labelR3 = Hug
+|nodeL3 = Heart
+|  noteL3 = <ref name="quest_heart"/>
+|nodeC3 = quest
+|  linkC3 = Season of Revival#Quest #3
+|  labelC3 = Quest 3
+
+|nodeL2 = Heart
+|  noteL2 = <ref name="quest_heart"/>
+|nodeC2 = quest
+|  linkC2 = Season of Revival#Quest #2
+|  labelC2 = Quest 2
+
+|nodeL1 = Heart
+|  noteL1 = <ref name="quest_heart"/>
+|nodeC1 = quest
+|  linkC1 = Season of Revival#Quest #1
+|  labelC1 = Quest 1
+}}
+
+|tab2 = Mid-Season
+|c2   = {{Friendship Tree
+|spirit = Hopeful Steward
+|image  = Hopeful-Steward-Revival-Guide.png
+|type   = season
+|season = Revival
+
+|nodeC8 = hair 46 C 
+
+|nodeR7 = quest
+|  linkR7 = Season of Revival#Quest #9
+|  labelR7 = Quest 9
+|nodeL7 = quest 
+|  linkL7 = Season of Revival#Quest #8
+|  labelL7 = Quest 8
+|nodeC7 = quest 
+|  linkC7 = Season of Revival#Quest #7
+|  labelC7 = Quest 7
+
+|nodeL6 = Heart free
+|nodeC6 = quest
+|  linkC6 = Season of Revival#Quest #6
+|  labelC6 = Quest 6
+
+|nodeL5 = Heart free
+|nodeC5 = quest
+|  linkC5 = Season of Revival#Quest #5
+|  labelC5 = Quest 5
+
+|nodeR4 = Icon_hug.png
+|  linkR4 = Friendship_Menu#Hug
+|  labelR4 = Hug
+|nodeL4 = Heart free
+|nodeC4 = quest
+|  linkC4 = Season of Revival#Quest #4
+|  labelC4 = Quest 4
+
+|nodeL3 = Heart free
+|nodeC3 = quest
+|  linkC3 = Season of Revival#Quest #3
+|  labelC3 = Quest 3
+
+|nodeL2 = Heart free
+|nodeC2 = quest
+|  linkC2 = Season of Revival#Quest #2
+|  labelC2 = Quest 2
+
+|nodeL1 = Heart free
+|nodeC1 = quest
+|  linkC1 = Season of Revival#Quest #1
+|  labelC1 = Quest 1
+}}
+}}<section end="Quest Tree" />
+
+==Personality==
+On October 14, 2023, TGC officially announced and introduced the Hopeful Steward with the following personality traits:
+
+*👀 Patient and wise beyond their years.
+*💪 Stubborn and strong-willed, doesn't back down easily
+*🧠 Had to be resourceful, and got by on very little
+*🥰 Beneath their guarded exterior lies a caring and warm heart
+
+==Trivia==
+* The Hopeful Steward is the fourth [[Ancestors#Guides|Seasonal Guide]], after [[the Rose]], [[the Void of Shattering]], and [[AURORA Guide|AURORA]] to have a unique name that differs from the standard "(Season name) Guide" format.
+** Additionally, the Hopeful Steward is the first Seasonal Guide to be ''introduced'' with a traditional Spirit name. The [[Gratitude Guide|Auspicious Visitor]] and [[Enchantment Guide|Enchanted Pyrotechnician]] were only given this trait after they'd been initially introduced with the standard "(Season name) Guide" format.
+* The option to Hug the Hopeful Steward after completing Quest #3 wasn't available initially and was instead added towards the end of the Season in Patch {{v|0.23.5}}.
+*Prior to the {{v|0.25.0}} Update, the second Seasonal Quest involved unlocking the [[Blessings_(Spells)#Message_Boat_Spell|Message Boat Spells]] inside the [[Aviary Village#Spell Shop|Spell Shop]] in Aviary Village. This Quest was then removed from the [[Hopeful Steward]]'s Quest Tree, reducing the total number of Revival Quests from ten to nine, while also changing the numbered order of the subsequent Quests.
+
+==In Other Languages==
+{{Help|lang}}
+{{Other Languages|title=Hopeful Steward
+|fr            = Coordinateur optimiste
+|fr_meaning    = Optimistic Coordinator
+|fr_gg         = m
+|ja            = 希望の番人
+|ja_rom        = Kibō-no Ban'nin
+|ja_meaning    = Guard of Hope
+|id            = Pelayan yang Penuh Harapan
+|id_meaning    = Hopeful Servant <!-- Machine Translated -->
+|de            = Hoffnungsvoller Verwalter
+|de_meaning    = Hopeful Administrator
+|de_gg         = m
+|vi            = Quản Gia Hy Vọng
+|vi_meaning    = Butler of Hope <!-- Machine Translated -->
+|ko            = 희망적인 집사
+|ko_rom        = Huimangjeog-in Jibsa
+|ko_meaning    = Hopeful Butler
+|es            = Administrador optimista
+|es_meaning    = Optimistic Administrator
+|es_gg         = m
+|it            = Assistente speranzoso
+|it_meaning    = Hopeful Assistant
+|it_gg         = m
+|pt            = Gestor Otimista
+|pt_meaning    = Optimistic Manager
+|pt_gg         = m
+|ru            = Неунывающий смотритель
+|ru_meaning    = Resilient Caretaker <!-- Machine Translated -->
+|zh_cn         = 满怀希望的守护者
+|zh_cn_rom     = Mǎnhuái Xīwàng de Shǒuhù Zhě
+|zh_cn_meaning = Hopeful Guardian
+|zh_tw         = 滿懷希望的守護者
+|zh_tw_rom     = Mǎnhuái Xīwàng de Shǒuhù Zhě
+|zh_tw_meaning = Hopeful Guardian
+}}
+
+==References==
+<references />
+
+[[fr:Coordinateur optimiste]]
+[[pt-br:Gestor Otimista]]
+[[zh:滿懷希望的守護者]]
+[[ja:希望の番人]]
+
+[[Category:Aviary Village]]

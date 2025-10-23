@@ -1,0 +1,275 @@
+__FORCETOC__
+{{SkyEvent
+|image= Aviary’s-Firework-Festival-promo-image.png
+|date=November 27 to December 17, 2023
+}}
+Quest by Quest, Sky Kids are making [[Aviary Village]] a new space for Spirits and players alike to gather. Now that it’s beginning to thrive, it’s time to celebrate that achievement with a bang! '''Aviary's Firework Festival''' began '''Monday, November 27, 2023 at 00:00 PST (UTC-8)''' and continued until '''Sunday, December 17, 2023 at 23:59 PST (UTC-8)''', lasting '''21''' days.
+
+Brilliant lights, dazzling colors, and thrilling music combine to mark the first chapter of Aviary Village’s new life, and the special role that Sky Kids have played to make it flourish. The event will come in two phases, with two weeks of preparation and one week of [[Aviary’s Firework Festival#The Finale|showtime]]:
+
+* Phase One: From '''November 27''' through '''December 11''', players collect Tickets and help the Enchanted Pyrotechnician gather materials to use in the festival. (''Players must complete Season of Revival's [[Season of Revival#Quest #3|3rd Quest]]<ref name="Revival Quest changes">Prior to the {{v|0.25.0}} Update, the [[Season of Revival]]'s 3rd and 7th Quest were labeled as the 4th and 8th Quest. At this time, the second Seasonal Quest involved unlocking the [[Blessings_(Spells)#Message_Boat_Spell|Message Boat Spells]] inside the Enchantment Guide's [[Aviary Village#Spell Shop|Spell Shop]] in Aviary Village. This Quest was then removed from the [[Hopeful Steward]]'s Quest Tree, reducing the total number of Revival Quests from ten to nine, while also changing the numbered order of the subsequent Quests.</ref> to participate.'')
+* Phase Two: From '''December 12''' through '''December 17''', the [[Hopeful Steward]] will call the village Spirits together for the fireworks show every '''four hours''', starting at '''00:00 PST (UTC-8)'''. (''Players must complete Season of Revival's [[Season of Revival#Quest #7|7th Quest]]<ref name="Revival Quest changes" /> to participate.'')
+<br>
+{{#ev:youtube|U_QkxjsTHvQ||inline|Aviary’s Firework Festival Trailer}}
+<br>
+During this event, two special starter bundles are added as permanent [[Premium Candle Shop|IAPs]] and the Enchanted Pyrotechnician Spirit offers two cosmetics from their Friendship Tree. In addition, free [[Spells]] to try all of these items can also be collected from the [[Spell Shops#Sleepy%20Traveler's%20Boat|Sleepy Traveler's boat]] at [[Home]].
+
+''Note: The fireworks rocket Tickets and IGC (in-game currency) cosmetics will only be available during Phase One of the event. Aviary’s Firework Festival is not currently planned to return, but the Festival Scepter and Festival Earrings will be brought back in the future in a different format.''
+
+<gallery widths="200px">
+Aviary-Firework-Festival-2023-Enchanted-Pyrotechnician-mimi4117-sam6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & mimi4117
+Aviary-Firework-Festival-2023-IAP-mimi4117-sam6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & mimi4117
+Aviary-Firework-Festival-2023-Tickets-mimi4117-sam6917.jpg|Infographic by [https://www.instagram.com/_sam_inthesky/ @_sam_inthesky] on IG and & mimi4117
+</gallery>
+==Ticket Locations==
+[[File:Aviary-Fireworks-festival-Ticket.png|125px|thumb|An Aviary's Firework Festival fireworks rocket Ticket]]
+A total of {{Cost|5 T|event=fireworks}} fireworks rocket-shaped Tickets were available each day:
+*{{Cost|4 T|event=fireworks}} hidden throughout Aviary Village: 
+** {{Cost|1 T|event=fireworks}} On the hill above the left-hand shops, by the Butterfly jars
+** {{Cost|1 T|event=fireworks}} On the hill above the right-hand shops, behind the Enchanted Pyrotechnician
+** {{Cost|1 T|event=fireworks}} In the small pond to the right of the Enchanted Pyrotechnician
+** {{Cost|1 T|event=fireworks}} In the crumbling tower by the entrance, on the second ledge up
+*{{Cost|1 T|event=fireworks}} for helping the Enchanted Pyrotechnician in a Realm of ''Sky'' (check in with them at Aviary Village to find out where to go)
+
+Players could also buy additional Tickets (costing {{Cost|2 AC}} or {{Cost|6 C}} each) from the [[Spell Shops#Sleepy Traveler's Boat|Sleepy Traveler's boat]] at Home.
+
+{| class="article-table mw-collapsible" style="float:right; text-align:center;"
+! colspan="4" | '''Ticket Rotations'''
+|-
+! '''Date'''
+! '''Realm of the Activity
+! '''Daily Total'''
+|-
+| November 27, 2023
+| [[Isle]]
+| {{Cost|{{#vardefineecho:D1|5}} T|event=fireworks}}
+|-
+| November 28, 2023
+| [[Prairie]]
+| {{Cost|{{#vardefineecho:D2|5}} T|event=fireworks}}
+|-
+| November 29, 2023
+| [[Forest]]
+| {{Cost|{{#vardefineecho:D3|5}} T|event=fireworks}}
+|-
+| November 30, 2023
+| [[Valley]]
+| {{Cost|{{#vardefineecho:D4|5}} T|event=fireworks}}
+|-
+| December 1, 2023
+| [[Wasteland]]
+| {{Cost|{{#vardefineecho:D5|5}} T|event=fireworks}}
+|-
+| December 2, 2023
+|[[Vault]]
+| {{Cost|{{#vardefineecho:D6|5}} T|event=fireworks}}
+|-
+| December 3, 2023
+|[[Eye of Eden]]
+| {{Cost|{{#vardefineecho:D7|5}} T|event=fireworks}}
+|-
+| December 4, 2023
+|[[Prairie]]
+| {{Cost|{{#vardefineecho:D8|5}} T|event=fireworks}}
+|-
+| December 5, 2023
+|[[Forest]]
+| {{Cost|{{#vardefineecho:D9|5}} T|event=fireworks}}
+|-
+| December 6, 2023
+|[[Valley]]
+| {{Cost|{{#vardefineecho:D10|5}} T|event=fireworks}}
+|-
+| December 7, 2023
+|[[Wasteland]]
+| {{Cost|{{#vardefineecho:D11|5}} T|event=fireworks}}
+|-
+| December 8, 2023
+|[[Vault]]
+| {{Cost|{{#vardefineecho:D12|5}} T|event=fireworks}}
+|-
+| December 9, 2023
+|[[Eye of Eden]]
+| {{Cost|{{#vardefineecho:D13|5}} T|event=fireworks}}
+|-
+| December 10, 2023
+|[[Prairie]]
+| {{Cost|{{#vardefineecho:D14|5}} T|event=fireworks}}
+|-
+| December 11, 2023
+|[[Forest]]
+| {{Cost|{{#vardefineecho:D15|5}} T|event=fireworks}}
+|-
+! colspan="2" style="text-align:center;" | '''Total so far'''
+! style="text-align:center;" | '''{{Cost|{{#expr: ({{#var:D1}} + {{#var:D2}} + {{#var:D3}} + {{#var:D4}} + {{#var:D5}} + {{#var:D6}} + {{#var:D7}} + {{#var:D8}} + {{#var:D9}} + {{#var:D10}} + {{#var:D11}} + {{#var:D12}} + {{#var:D13}} + {{#var:D14}} + {{#var:D15}} ) }} T|event=fireworks}}'''
+|}
+
+{{Friendship Tree
+|label = Enchanted Pyrotechnician
+|event = fireworks
+|image = Enchanted-Pyrotechnician-spirit.png
+
+|nodeL2 = 
+|  labelL2 = 
+|  linkL2 = 
+|nodeC2 = {{Icon Name|Festival Scepter|icon}} 36 T
+|  labelC2 = {{Icon Name|Festival Scepter|name}}
+|  linkC2  = Aviary’s_Firework_Festival#{{Icon Name|Festival Scepter|name}}
+|nodeR2 = 
+|  labelR2 = 
+|  linkR2 = 
+
+|nodeL1 = {{Icon Name|Festival Earrings|icon}} 15 T
+|  labelL1 = {{Icon Name|Festival Earrings|name}}
+|  linkL1  = Aviary’s_Firework_Festival#{{Icon Name|Festival Earrings|name}}
+|nodeC1 = Spellx 5 C
+|  labelC1 = Spell
+|  linkC1  = Spells
+}}
+{{Clear}}
+
+===<big>All Available Collectibles</big>===
+{| class="article-table"
+|+'''<big>Aviary’s Firework Festival Collectibles</big>'''
+!'''Name'''
+!'''Icon'''
+!'''Type'''
+!'''Cost'''
+!'''Location'''
+!'''Spell'''
+!'''Spell Cost & Locations'''
+|-
+| rowspan="2" |[[Aviary’s Firework Festival#Moth Appreciation Pack|Moth Appreciation Pack]]
+| {{Days Item|Moth Cape||table}}
+| [[Cape]]
+| rowspan="2" |{{Cost| 9.99 USD|refnote}}
+| rowspan="2" | <small>Aviary Event Store</small>
+| {{Days Item|Moth Cape|spell|table}}x2
+| rowspan="2" | <small>Sleepy Traveler's boat at Home for free</small>
+|-
+| {{Days Item|Moth Antennae||table}}
+| [[Hair Accessory]]
+| {{Days Item|Moth Antennae|spell|table}}x2
+|-
+| rowspan="2" |[[Aviary’s Firework Festival#Sparrow Appreciation Pack|Sparrow Appreciation Pack]]
+| {{Days Item|Sparrow Cape||table}}
+| [[Cape]]
+| rowspan="2" |{{Cost| 9.99 USD|refnote}}
+| rowspan="2" | <small>Aviary Event Store</small>
+| {{Days Item|Sparrow Cape|spell|table}}x2
+| rowspan="2" | <small>Sleepy Traveler's boat at Home for free</small>
+|-
+| {{Days Item|Sparrow Mask||table}}
+| [[Mask]]
+| {{Days Item|Sparrow Mask|spell|table}}x2
+|-
+| [[Aviary’s Firework Festival#{{Icon Name|Festival Earrings|name}}|{{Icon Name|Festival Earrings|name}}]]
+| {{Days Item|Festival Earrings||table}}
+| [[Head Accessory]]
+| {{Cost|15 T|event=fireworks}}
+| <small>Enchanted Pyrotechnician</small>
+| {{Days Item|Festival Earrings|spell|table}}x2
+| <small>Sleepy Traveler's boat at Home for free</small>
+|-
+| [[Aviary’s Firework Festival#{{Icon Name|Festival Scepter|name}}|{{Icon Name|Festival Scepter|name}}]]
+| {{Days Item|Festival Scepter||table}}
+| [[Prop]]
+| {{Cost|36 T|event=fireworks}}
+| <small>Enchanted Pyrotechnician</small>
+| {{Days Item|Festival Scepter|spell|table}}x2
+| <small>Sleepy Traveler's boat at Home for free</small>
+|}
+
+
+===New Cosmetics and Props===
+====<span id="Moth Cape"> </span>Moth Appreciation Pack<span id="Moth Antennae"> </span>====
+::'''''"An elevated take on a beloved term for new adventurers. Choose Moths over Sparrows, who flutter with an attentive grace."'''''
+
+The Moth Appreciation Pack contains two cosmetics: the Moth Cape and Moth Antennae. The Moth Cape is a pair of brown wings that resemble a moth's with a furry collar. The Moth Antennae is a pair of transparent brown feathered antennae. This [[Cape]] and [[Hair Accessory]] were introduced in 2023 and are available for {{Cost|9.99 USD|refnote}} from the permanent event store in [[Aviary Village]]. 
+
+This special starter bundle is a tribute to the players who have made Aviary Village and the ''Sky'' community itself vibrant and welcoming. Although this pack first appeared as part of Aviary's Firework Festival event, it will remain permanently available in the game.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Moth Cape|iap}} {{!}} Moth Appreciation Pack IAP
+{{Icon Name|Moth Cape|icon}} {{!}} {{Icon Name|Moth Cape|name}} icon
+{{Icon Name|Moth Cape|front}} {{!}} {{Icon Name|Moth Cape|name}} front
+{{Icon Name|Moth Cape|interior}} {{!}} {{Icon Name|Moth Cape|name}} interior
+{{Icon Name|Moth Cape|real}} {{!}} {{Icon Name|Moth Cape|name}} back
+{{Icon Name|Moth Cape|exterior}} {{!}} {{Icon Name|Moth Cape|name}} exterior
+{{Icon Name|Moth Cape|spell}} {{!}} {{Icon Name|Moth Cape|name}} Spell icon 
+{{Icon Name|Moth Antennae|icon}} {{!}} {{Icon Name|Moth Antennae|name}} icon
+{{Icon Name|Moth Antennae|real}} {{!}} {{Icon Name|Moth Antennae|name}}
+{{Icon Name|Moth Antennae|spell}} {{!}} {{Icon Name|Moth Antennae|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+====<span id="Sparrow Cape"> </span>Sparrow Appreciation Pack<span id="Sparrow Mask"> </span>====
+::'''''"Fashioned after an endearing term for those whose journey has just begun. Pick Sparrows over Moths, who energetically embrace new experiences."'''''
+
+The Sparrow Appreciation Pack contains two cosmetics: the Sparrow Cape and Sparrow Mask. The Sparrow Cape is a pair of brown wings and tail that resemble a sparrow's with a feathery collar. The Sparrow Mask is pale brown with darker markings on the forehead, cheeks, and eyes that resemble the facial markings of a sparrow. This [[Cape]] and [[Mask]] were introduced in 2023 and are available for {{Cost|9.99 USD|refnote}} from the permanent event store in [[Aviary Village]]. 
+
+This special starter bundle is a tribute to the players who have made Aviary Village and the ''Sky'' community itself vibrant and welcoming. Although this pack first appeared as part of Aviary's Firework Festival event, it will remain permanently available in the game.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Sparrow Cape|iap}} {{!}} Sparrow Appreciation Pack IAP
+{{Icon Name|Sparrow Cape|icon}} {{!}} {{Icon Name|Sparrow Cape|name}} icon
+{{Icon Name|Sparrow Cape|front}} {{!}} {{Icon Name|Sparrow Cape|name}} front
+{{Icon Name|Sparrow Cape|interior}} {{!}} {{Icon Name|Sparrow Cape|name}} interior
+{{Icon Name|Sparrow Cape|real}} {{!}} {{Icon Name|Sparrow Cape|name}} back
+{{Icon Name|Sparrow Cape|exterior}} {{!}} {{Icon Name|Sparrow Cape|name}} exterior
+{{Icon Name|Sparrow Cape|spell}} {{!}} {{Icon Name|Sparrow Cape|name}} Spell icon
+{{Icon Name|Sparrow Mask|icon}} {{!}} {{Icon Name|Sparrow Mask|name}} icon
+{{Icon Name|Sparrow Mask|real}} {{!}} {{Icon Name|Sparrow Mask|name}}
+{{Icon Name|Sparrow Mask|spell}} {{!}} {{Icon Name|Sparrow Mask|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Festival Scepter====
+The Festival Scepter is a short gray staff with a starburst-shaped tip. It is a non-placeable [[Prop]] that can be held. When activated, it shoots off a colorful firework with a bang, similar to the [[Saluting_Captain#Prop|Fireworks Staff]] and [[Days_of_Love#Days_of_Love_Serendipitous_Scepter|Serendipitous Scepter]]. After 5 shots, there is a 10 second cooldown before it can be activated again. This Prop was introduced in 2023 and was available for {{Cost|36 T|event=fireworks}} from the Enchanted Pyrotechnician for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Festival Scepter|icon}} {{!}} {{Icon Name|Festival Scepter|name}} icon
+{{Icon Name|Festival Scepter|real}} {{!}} {{Icon Name|Festival Scepter|name}}
+Festival-Scepter-prop-in-hand.png {{!}} Holding the {{Icon Name|Festival Scepter|name}}
+Festival-Scepter-prop-on-back.png {{!}} {{Icon Name|Festival Scepter|name}} on a player's back
+{{Icon Name|Festival Scepter|spell}} {{!}} {{Icon Name|Festival Scepter|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Festival Earrings====
+The Festival Earrings are a pair of long, yellow pendants with pale inner markings, somewhat resembling the sparkling trail of a firework. This [[Head Accessory]] was introduced in 2023 and was available for {{Cost|15 T|event=fireworks}} from the Enchanted Pyrotechnician for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Festival Earrings|icon}} {{!}} {{Icon Name|Festival Earrings|name}} icon
+{{Icon Name|Festival Earrings|real}} {{!}} {{Icon Name|Festival Earrings|name}} 
+{{Icon Name|Festival Earrings|spell}} {{!}} {{Icon Name|Festival Earrings|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+==The Finale==
+[[File:Aviary-Festival-Meditation-Circle.jpg|thumb|250px|The Festival meditation circle]]
+Every '''four hours''' in [[Aviary Village]], starting '''December 12, 2023 at 00:00 PST (UTC-8)''' and ending '''December 17, 2023 at 20:00 PST (UTC-8)''', the [[Hopeful Steward]] and the Enchanted Pyrotechnian will call everyone together for the Firework Festival Finale. Sit at the meditation circle that appears by the large, floating staff near the Realm portals to join in the celebration. The Finale is around 10 minutes long and [[Festival Tech]] is enabled for the duration of the show, allowing players to enjoy the spectacle alongside a crowd. During the show, each shop is blocked off by a Spirit Gate requiring '''one (1)''' Spirit from the [[Isle of Dawn]]. 
+
+The show begins with the Hopeful Steward running down the street of the village, drawing out the various Seasonal Guides that have taken up residence within Aviary to stand outside their respective shops. The Hopeful Steward then leads the [[Enchantment Guide]], the [[Dreams Guide]], the [[Abyss Guide]], and the [[Performance Guide]] to walk back towards the Realm portals, once by one, where they all stand together and begin shooting off a dazzling array of fireworks. 
+
+There are plenty of spots on the hills and ridges to settle in with friends and watch colors and lights splash across the sky or be part of the show itself, soaring through the air as the display is set off. Players can also ignite the racks of unused fireworks on either side of the [[Realm]] portals for an extra splash of color.
+
+Towards the conclusion of the show, the Hopeful Steward will take a large staff in hand to shoot off the last few huge bursts of fireworks that draw in any nearby players to toss them into the air. Once finished, the four Guides and the Hopeful Steward will sit together and admire the restored village beneath the beautiful night sky.
+
+While Aviary’s Firework Festival is not currently planned to return, going forward in 2024 the '''Firework Finale''' itself will come back on the '''first day of each month''' on the same four-hour rotation — just in case you want to celebrate a little festival magic again with friends.
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Aviary's-Firework-Festival-2023-Pyrotechnician-promo-image.png
+Aviary's-Firework-Festival-Ticket-promo-image.png
+</gallery>
+
+==References==
+'''More information about Aviary’s Firework Festival can be found on [https://www.thatskygame.com/news/a-special-celebration-aviary-s-firework-festival ThatSkyGame's Website].'''
+<references />
+
+[[pt-br:Festival de Fogos de Artifício do Aviário]]
+[[de:Volieren-Feuerwerksfest]]
+[[ja:花鳥花火大会]]
+
+[[Category:Events]]
+[[Category:Non-Recurring Events]]

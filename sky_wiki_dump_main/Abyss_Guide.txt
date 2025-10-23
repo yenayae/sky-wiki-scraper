@@ -1,0 +1,181 @@
+{{Guide Infobox
+|image     = SOAbyss-Abyss-Guide.png
+|ultimates = {{Spirit Item||mask_u|link=#Abyss Ultimate Mask|infobox}}{{Spirit Item||headpiece_u|link=#Abyss Ultimate Head Accessory|infobox}}{{Spirit Item||cape_u|link=#Abyss Ultimate Cape|infobox}}
+|cosmetics = {{Spirit Item||mask|link=#Mask|infobox}}
+|season    = Abyss
+|location  = Treasure Reef
+}}
+<section begin="Summary"/>The '''{{PAGENAME}}''' is a Seasonal Guide (also known as Quest Giver) from the [[Season of Abyss]] who offers quests and [[Abyss Guide#Ultimate Gifts|cosmetics]]. The Abyss Guide is found standing on the boat in the [[Treasure Reef]]. The Ultimate Guide offered an {{Spirit Item|Abyss Guide|necklace_u|link=#Abyss Ultimate Pendant|inline_text}}, an {{Spirit Item|Abyss Guide|mask_u|link=#Abyss Ultimate Mask|inline_text}}, an {{Spirit Item|Abyss Guide|headpiece_u|link=#Abyss Ultimate Head Accessory|inline_text}}, and an {{Spirit Item|Abyss Guide|cape_u|link=#Abyss Ultimate Cape|inline_text}} for [[Season Pass]] holders. This Ultimate Guide also provided a new cosmetic in their Quest Tree, permanently available to all players: a {{Spirit Item|Abyss Guide|mask|link=#Mask|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:SOAbyss-Ultimate-guide-Spirit-reveal.jpg|alt=|none|thumb|320x320px|TGC's Promo image]]
+
+==<span id="Ultimate Pendant"><span id="Abyss Ultimate Pendant">Seasonal Pendant</span></span>==
+The Abyss Ultimate [[Necklaces|Pendant]] is the usual gold pendant featuring the Season's emblem attached to a necklace. It was a [[Season Pass]] exclusive item during the Season, available for free from the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||necklace_u|icon}} {{!}} Abyss Ultimate Pendant icon
+{{Icon Name||necklace_u_real}} {{!}} Abyss Ultimate Pendant
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Ultimate Gifts==
+The Season of Abyss Guide offered 3 Ultimate Gifts, available to be purchased by [[Season Pass]] holders with [[Currency#Season Hearts|Seasonal Hearts]] during the Season of Abyss only.
+
+=== Abyss Ultimate Mask===
+The Abyss Ultimate [[Mask]] is a beige mask that covers the bottom half of the player's face. At the top, it is decorated with small dark-brown triangles. The mask is hollow from the inside with a horizonal round-edged cylindrical shape, topped with a light turquoise stone in the middle. It was a [[Season Pass]] exclusive item during the Season, available for {{Cost|1 SH|season=Abyss}} after unlocking the Friendship Tree's third node.
+
+The mask gives you 15 more seconds of breathing when [[Season of Abyss#Dive_Mechanic|diving]].<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||mask_u|icon}} {{!}} Abyss Ultimate Mask icon
+{{Icon Name||mask_u_real}} {{!}} Abyss Ultimate Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Abyss Ultimate Head Accessory===
+The Abyss Ultimate [[Head Accessory]] is a small braid on the right side of the players head, adorned with a bronzed hair ring with a turquoise rhombus-shaped stone in the middle. It was a [[Season Pass]] exclusive item during the Season, available for {{Cost|1 SH|season=Abyss}} after unlocking the Friendship Tree's first node. <br>
+<br>
+{{#tag:gallery
+|{{Icon Name||headpiece_u|icon}} {{!}} Abyss Ultimate Head Accessory icon
+{{Icon Name||headpiece_u_real}} {{!}} Abyss Ultimate Head Accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Abyss Ultimate Cape===
+The Abyss Ultimate [[Cape]] is a red cape with a light- and dark-brown zig-zag border at the bottom and top hem. In the front, the two cape sides at the top are connected with bronzed rings and a cape chain, the chain itself being a turquoise color. It was a [[Season Pass]] exclusive item during the Season, available for {{Cost|2 SH|season=Abyss}} after unlocking the Friendship Tree's second node. <br>
+<br>
+{{#tag:gallery
+|{{Icon Name||cape_u|icon}} {{!}} Abyss Ultimate Cape icon
+{{Icon Name||cape_u_front}} {{!}} Abyss Ultimate Cape front
+{{Icon Name||cape_u_interior}} {{!}} Abyss Ultimate Cape interior
+{{Icon Name||cape_u|back}} {{!}} Abyss Ultimate Cape back
+Abyss-Ultimate-Cape-back-exterior.png {{!}} Abyss Ultimate Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Additional Cosmetics==
+Upon completing the Quest #5 of the Season of Abyss, one additional item is available to collect for regular candles through the Abyss Guide's [[Abyss Guide#Quest Tree|Quest Tree]]. '''This item remained in the Ultimate Guide's Quest Tree after the Season ended.'''<ref name="o2mask">[https://thatgamecompany.helpshift.com/a/sky-children-of-the-light/?p=all&l=en&s=patch-notes&f=patch-notes---february-24-2022---0-16-5-185312-ios-android-185258-switch#:~:text=Since%20this%20is%20available%20from%20the%20Abyss%20Guide%2C%20it%20will%20remain%20available%20in%20the%20game%20after%20the%20Season%20ends%2C%20and%20it%20can%20be%20unlocked%20with%20regular%20Candles. Patch Notes - February 24, 2022 - 0.16.5 (185312 iOS & Android) (185258 Switch)]</ref>
+===Mask===
+The [[Mask]] offered by the Abyss Guide consists out of a dark-grey [[Masks#Base Mask|Base Mask]], with a brown mask overneath that covers the bottom half of the face and is adorned with light-grey triangles along the top and a turquoise stone in the middle, costing {{Cost|48 C}}. The Mask offers players an additional 15 seconds of oxygen when underwater. It is permanently available to all players after completing Quest #5 of the Season of Abyss, from the Quest Tree's sixth node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||mask|icon}} {{!}} The Abyss Oxygen Mask icon
+{{Icon Name||mask|real}} {{!}} The Abyss Oxygen Mask
+|widths=125|cpationalign=center|spacing=small
+}}
+
+==Friendship Tree==
+The {{PAGENAME}} Friendship Tree was available to the right of the Quest Tree during the Season of Abyss. '''Now that the Season is over, these cosmetics are no longer available.'''
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Abyss Guide
+|image  = SOAbyss-Abyss-Guide.png
+|type   = season
+|season = Abyss
+
+|nodeC4 = mask_u 1 SH AP
+|  linkC4 = Abyss Guide#Abyss Ultimate Mask
+
+|nodeC3 = cape_u 2 SH AP
+|  linkC3 = Abyss Guide#Abyss Ultimate Cape
+
+|nodeC2 = headpiece_u 1 SH AP
+|  linkC2 = Abyss Guide#Abyss Ultimate Head Accessory 
+
+|nodeC1 = necklace_u AP
+|  linkC1 = Abyss Guide#Abyss Ultimate Pendant
+}}<section end="Friendship Tree" />
+
+==Quest Tree==
+The Abyss Guide Quest Tree is available for all players to complete Quests from the [[Season of Abyss]]. Since the end of the Season, players completing the Quests for the first time have to pay {{Candle|3}} to obtain these Hearts.
+<section begin="Quest Tree" />{{Mobile Tabber
+|tab1 = Post-season
+|c1   = {{Friendship Tree
+|spirit = Abyss Guide
+|image  = SOAbyss-Abyss-Guide.png
+
+|nodeC6 = Mask 48 C
+|  linkC6 = Abyss Guide#Mask
+
+|nodeL5 = heart
+|  noteL5 = <ref name="quest_heart"/>
+|nodeC5 = quest
+|  linkC5 = Season_of_Abyss#Quest_#5
+|  labelC5 = Quest 5
+
+|nodeL4 = heart
+|  noteL4 = <ref name="quest_heart"/>
+|nodeC4 = quest
+|  linkC4 = Season_of_Abyss#Quest_#4
+|  labelC4 = Quest 4
+
+|nodeL3 = heart
+|  noteL3 = <ref name="quest_heart"/>
+|nodeC3 = quest
+|  linkC3 = Season_of_Abyss#Quest_#3
+|  labelC3 = Quest 3
+
+|nodeL2 = heart
+|  noteL2 = <ref name="quest_heart"/>
+|nodeC2 = quest
+|  linkC2 = Season_of_Abyss#Quest_#2
+|  labelC2 = Quest 2
+
+|nodeL1 = heart
+|  noteL1 = <ref name="quest_heart">During the Season of Abyss, the hearts available from the Abyss Guide after completing each quest were free.</ref>
+|nodeC1 = quest
+|  linkC1 = Season_of_Abyss#Quest_#1
+|  labelC1 = Quest 1
+}}
+
+|tab2 = Mid-season
+|c2   ={{Friendship Tree
+|spirit = Abyss Guide
+|type   = season
+|season = Abyss
+|image  = SOAbyss-Abyss-Guide.png
+
+|nodeC6 = Mask 48 C
+|  linkC6 = Abyss Guide#Mask
+
+|nodeL5 = heart free
+|nodeC5 = quest
+|  linkC5 = Season_of_Abyss#Quest_#5
+|  labelC5 = Quest 5
+
+|nodeL4 = heart free
+|nodeC4 = quest
+|  linkC4 = Season_of_Abyss#Quest_#4
+|  labelC4 = Quest 4
+
+|nodeL3 = heart free
+|nodeC3 = quest
+|  linkC3 = Season_of_Abyss#Quest_#3
+|  labelC3 = Quest 3
+
+|nodeL2 = heart free
+|nodeC2 = quest
+|  linkC2 = Season_of_Abyss#Quest_#2
+|  labelC2 = Quest 2
+
+|nodeL1 = heart free
+|nodeC1 = quest
+|  linkC1 = Season_of_Abyss#Quest_#1
+|  labelC1 = Quest 1
+}}
+}}<section end="Quest Tree" />
+
+==Personality==
+On March 9 2022, TGC officially announced <ref name="Personality Tweet">https://twitter.com/thatskygame/status/1501660399053295618</ref> and introduced {{PAGENAME}} with the following personality traits:
+* '''Meet the youngest member of the Season of Abyss crew: the {{PAGENAME}}!'''
+*🔸Soaks in everything they can as the deckhand
+*🔸Awed by how many more stars can be seen at sea
+*🔸Hopes nobody notices when they mix up nautical terms
+*🔸Unsure how to ask why the Angler's so anxious
+
+==References==
+<references />
+
+[[de:Tiefseehelfer]]
+[[pt-br:Guia do Abismo]]
+[[ja:深淵の案内人]]
+[[fr:Guide des Abysses]]

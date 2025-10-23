@@ -1,0 +1,158 @@
+{{Help|beta}}
+{{Distinguish|Hairtousle Teen}}
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = Royal-Hairtousle-Teen-cutout.png
+|cosmetics = {{Spirit Item|Royal Hairtousle Teen|Outfit|infobox}} {{Spirit Item|Royal Hairtousle Teen|Headpiece|infobox}} {{Spirit Item|Royal Hairtousle Teen|Cape|infobox}} 
+|props     = 
+|music     = 
+|season    = the Blue Bird
+|realm     = Hidden Forest
+|location  = Blue Bird Theater
+|ts        = None
+}}
+<section begin="Summary" />The Royal Hairtousle Teen is a [[Seasonal Spirit]] from the [[Season of the Blue Bird]] who offers the {{Emote|Royal Hairtousle Teen|inline_text}} Expression. The Royal Hairtousle Teen is found at the Blue Bird Theater in the Elevated Clearing from [[Hidden Forest]]. The collectibles [[#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Royal Hairtousle Teen|Outfit|inline_text}}, a {{Spirit Item|Royal Hairtousle Teen|Headpiece|inline_text}}, and a {{Spirit Item|Royal Hairtousle Teen|Cape|inline_text}}. 
+<section end="Summary" /><br>
+<br>
+[[File:Royal-Hairtousle-Teen-Promo-art.png|none|thumb|320px|TGC's Promo image]]
+
+==<span id="Expression">Expression</span>==
+This Spirit offers the {{Emote|Royal Hairtousle Teen|inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name|Royal Hairtousle Teen|emote}}|x170px|left]]
+<!--<gallery heights="125" captionalign="center">
+Royal-Hairtousle-Teen-emote-level-1.gif|{{Icon Name|Royal Hairtousle Teen|emote_name}} Level 1
+Royal-Hairtousle-Teen-emote-level-2.gif|{{Icon Name|Royal Hairtousle Teen|emote_name}} Level 2
+Royal-Hairtousle-Teen-emote-level-3.gif|{{Icon Name|Royal Hairtousle Teen|emote_name}} Level 3
+Royal-Hairtousle-Teen-emote-level-4.gif|{{Icon Name|Royal Hairtousle Teen|emote_name}} Level 4
+</gallery>-->
+*Level 1 will make your avatar lean forward, lift both hands to their face and rapidly blink several times, while a row of ascending tones plays. They will then continue to look to one side, then the other, before resuming their previous stance. This action is continued for as long as you don't move your avatar.
+*Level 2 makes the same motion as Level 1 with a white halo of light surrounding the player's head.
+*Level 3 will make your avatar rapidly blink several times before rubbing their eyes, shaking their head and looking forward, while sound effects accompany the blinking and rubbing motions. This action is continued for as long as you don't move your avatar.
+*Level 4 makes the same motion as Level 3 with first a glowing exclamation mark, then a question mark, flickering above the player's head as they blink and look up, and golden sparkles flying away from their eyes as they rub them.
+
+<!--As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Heart|4}}, {{Heart|3}}, and {{Heart|6}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.-->
+{{Clear}}
+
+==Cosmetics==
+===<span id="Outfit">Outfit</span>===
+The [[Outfit]] offered by this Spirit is a dark blue tailcoat over a high-collared shirt and loose trousers. The coat has white outlines and rolled-up sleeves. It also features a white V-shaped line from the shoulders to the chest. The shirt and pants are white, tucked into boots with a similar V-shaped pattern at the front. It was available to all players for {{Cost|25 SC|season=Blue Bird}} during the Season, from the Friendship Tree's fourth node ({{Cost|54 SC|season=Blue Bird}} total). <!-- Thanks Oz (ozotronic for item description--><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Royal Hairtousle Teen|Outfit|icon}} {{!}} The Outfit icon
+{{Icon Name|Royal Hairtousle Teen|Outfit|real}} {{!}} The Outfit front
+{{Icon Name|Royal Hairtousle Teen|Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Head accessory">Head Accessory</span>===
+The [[Head Accessory]] offered by this Spirit is a pair of red earmuffs with silver wing-shaped pieces attached around them. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|12 SC|season=Blue Bird}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Royal Hairtousle Teen|Headpiece|icon}} {{!}} The Head Accessory icon
+{{Icon Name|Royal Hairtousle Teen|Headpiece|real}} {{!}} The Head Accessory
+{{Icon Name|Royal Hairtousle Teen|Headpiece|side}} {{!}} The Head Accessory side
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Cape">Cape</span>===
+The [[Cape]] offered by this Spirit is a red, pleated off-shoulder Cape with a silver bird-shaped piece snaked around the collar. Silvery lines with diamond decorations run from the bird head around to a wing-shaped fastener on the other shoulder. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fifth node ({{Cost|83 SC|season=Blue Bird}} total). <!--  Thanks Oz (ozotronic for item description--><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Royal Hairtousle Teen|Cape|icon}} {{!}} The Cape icon
+{{Icon Name|Royal Hairtousle Teen|Cape|front}} {{!}} The Cape front
+{{Icon Name|Royal Hairtousle Teen|Cape|interior}} {{!}} The Cape interior
+{{Icon Name|Royal Hairtousle Teen|Cape|back}} {{!}} The Cape back
+{{Icon Name|Royal Hairtousle Teen|Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+<!--   ONLY APPLICABLE ONCE SPIRIT HAS BECOME A TRAVELING SPIRIT 
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling
+|ts_dates=*June 19, 2019 (#01)
+*June 19, 2020 (#02)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Royal Hairtousle Teen
+|image = Royal-Hairtousle-Teen-cutout.png
+|season = season
+
+
+|nodeC6 = Outfit 60 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Mask 30 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+
+===Hints===
+The hints given before the Royal Hairtousle Teen's first appearance were: 
+{{Collapse
+|label=First Visit Hints
+|content=<div>
+*  [ hints can be on the official Sky Discord which are posted a few days before the traveling spirit by staff of thatgamecompany. ]
+</div>
+}}
+-->
+<!--   USE VARIABLES TO CONSTRUCT FRIENDSHIP TREE
+Cosmetics: Outfit Cape Hair Hairpiece Headpiece Facepiece Mask Necklace Outfit Shoes Instrument Prop 
+Expressions; emote emote1 emote2 emote3 emote4 
+Cost: SP for Season Pass, SC for Season Candles, C for Candle, H for Heart, free for Free
+Other: spell5 spellx heart season_heart #Quest #1 
+-->
+==Season Friendship Tree ==
+{{Friendship Tree Info | season| season=the Blue Bird}} <section begin="Season Friendship Tree" />
+{{Friendship Tree
+|spirit = Royal Hairtousle Teen
+|image  = Royal-Hairtousle-Teen-cutout.png
+|type   = season
+|season = the Blue Bird
+
+|nodeL6 = 
+|nodeC6 = season_heart 3 SC SP
+|nodeR6 = 
+
+|nodeL5 = cape SP
+|nodeC5 = White-dye-container-icon.png 29 SC
+|nodeR5 =
+
+|nodeL4 = spellx SP
+|nodeC4 = outfit 25 SC
+|nodeR4 =
+
+|nodeL3 = emote4 SP
+|nodeC3 = emote3 17 SC
+|nodeR3 =
+
+|nodeL2 = headpiece SP
+|nodeC2 = spellx 12 SC
+|nodeR2 =
+
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+|nodeR1 =
+}}<section end="Season Friendship Tree" />
+
+==Personality==
+On May 7, 2025, TGC officially announced and introduced the Royal Hairtousle Teen with the following personality traits<ref>[https://archive.ph/bn7rw https://x.com/thatskygame/status/1920273054472548501]</ref>:
+
+*👗They absolutely dress to impress
+*🕯️Learned to count by playing with their candle collection
+*🎁Sometimes goes overboard when getting gifts for someone
+*🙅Refuses to own anything second-hand
+
+==References==
+<references />
+
+{{DEFAULTSORT:the Blue Bird, Season of}}
+
+[[pt-br:Adolescente Desgrenhado Real]]
+[[fr:Adolescent ébouriffé royal]]
+[[ja:高貴なぽんぽんする若者]]

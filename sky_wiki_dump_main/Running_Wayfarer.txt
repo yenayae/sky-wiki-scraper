@@ -1,0 +1,134 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Aurora-Spirit-Running-Wayfairer.png|Standard
+AURORA-Spirit-Running-Wayfarer-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Mask|infobox}}{{Spirit Item||Hair|infobox}}{{Spirit Item||Cape|infobox}}
+|music     = {{Music Sheet|36}}
+|season    = AURORA
+|realm     = Valley of Triumph
+|location  = Coliseum
+|ts        = June 9, 2025 (SV#9)
+}}<section begin="Summary" />The Running Wayfarer is a [[Seasonal Spirit]] from the [[Season of AURORA]] who offers the {{Emote|Running Wayfarer|inline_text}} Expression. The Running Wayfarer is found standing on the left side of the [[Coliseum]] in [[Valley of Triumph]], by the [[AURORA Guide]]. The collectibles [[#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Running Wayfarer|Mask|inline_text}}, a {{Spirit Item|Running Wayfarer|Hair|inline_text}}, a {{Spirit Item|Running Wayfarer|Cape|inline_text}}, and the {{Music Sheet|36|inline_text}}. Players can view their memory by completing the [[Season of AURORA#Quest #1|first Quest]] at the Isle of Dawn, right before the entrance of the tunnel in the hill at the very beginning.<section end="Summary" /><br>
+<br>
+[[File:Running-Wayfarer-promo-image.jpg|thumb|320px|none|TGC's Promo image]]
+{{Quote|<br>Here you stand with memories tossed by ocean waves, <br> cut on stones along a path that promised a place to mend.<br>And here you stand with your offering: <br>Memories of a heart that was wounded but never abandoned <br>its longing for the light of a new horizon.}}
+<br>
+==<span id="Expression">Expression</span>==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|x170px]]
+<gallery heights="125" captionalign="center">
+Running-Wayfarer-Waving-Light-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Running-Wayfarer-Waving-Light-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Running-Wayfarer-Waving-Light-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Running-Wayfarer-Waving-Light-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar hold their hand up in front of their face, summoning a blue, glowing light ball with a hollow sound effect, before holding their arm up in the air, slowly swaying from side to side. This action is continued for as long as you don't move your avatar.
+*Level 2 makes the same motion as Level 1, with golden sparkles following the avatar's hand, and the color of the light ball subtly changing to different colors.
+*Level 3 will make your avatar hop up a bit before waving their arm and hips rhythmically from side to side, at a quicker pace than Level 1 and 2, while holding a light ball in their waving hand that appears the same as the one in Level 1. During the Expression, a rhythmic jingle bell sound plays. This action is continued for as long as you don't move your avatar.
+*Level 4 makes the same motion as Level 3, with white starburst effects coming from the waving hand and small golden sparkles following the motion of the other hand.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+==Cosmetics==
+===<span id="Mask">Mask</span>===
+The [[Mask]] offered by this Spirit is bare-faced with blue droplet shapes around each eye, costing {{Cost|35 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's second node ({{Cost|12 SC|season=Aurora}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Hair">Hair</span>===
+The [[Hair]] offered by this Spirit is a short, smooth hairstyle with a blue gradient on the back of the head, two thin strands of hair in the front that are decorated with a blue crystal each at the top, and a curled bang tipped with a blue gradient, costing {{Cost|40 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's third node ({{Cost|28 SC|season=Aurora}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Cape">Cape</span>===
+The [[Cape]] offered by this Spirit is slim and blue with an upright, wavy, ruffled collar, and white, feathered shoulder embellishments, costing {{Cost|75 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's sixth node ({{Cost|102 SC|season=Aurora}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||Cape|interior}} {{!}} The Cape interior
+{{Icon Name||Cape|back}} {{!}} The Cape back
+{{Icon Name||Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+==<span id="Music">Music Sheet</span>==
+The Running Wayfarer offers the {{Music Sheet|36}} [[Music Sheet]] #36, costing {{Cost|15 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fifth node ({{Cost|72 SC|season=Aurora}} total). It is a song in the key of C Major. This Music Sheet is an instrumental of “Runaway” from the same song by AURORA.<br>
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guide
+|content=
+{{#ev:youtube|9WRf-1g6DcU||inline|Music Sheet Video Guide by Ikejiji}}
+}}
+
+==Traveling Spirit==
+{{Friendship Tree Info
+| traveling
+| rs_dates= *June 9, 2025 (SV#9)
+}}
+<section begin='TS Friendship Tree' />{{Friendship Tree
+|spirit = Running Wayfarer
+|season = AURORA
+|image  = Aurora-Spirit-Running-Wayfairer.png
+
+|nodeC6 = Cape 75 C
+|nodeL5 = music36 15 C
+|nodeC5 = spellx 5 C
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeR4 = Hair 40 C
+|nodeC3 = wing
+|nodeL2 = Mask 35 C
+|nodeC2 = spellx 5 C
+|nodeR2 = heart 3 C
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end='TS Friendship Tree' />
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=AURORA}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Running Wayfarer
+|image  = SoAurora-Running-Wayfairer-spirit-cutout.png
+|type   = season
+|season = AURORA
+
+|nodeC7 = season_heart 3 SC SP
+|nodeL6 = spellx SP
+|nodeC6 = cape 30 SC
+|nodeL5 = music36 SP
+|nodeC5 = spellx 24 SC
+|nodeL4 = emote4 SP
+|nodeC4 = emote3 20 SC
+|nodeL3 = Hair SP
+|nodeC3 = spellx 16 SC
+|nodeL2 = spellx SP
+|nodeC2 = Mask 12 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+== Trivia ==
+* The Running Wayfarer is named after AURORA’s sleeper hit “''Runaway''”, which is also the song that plays during the Spirit’s Quest and in Music Sheet #36.
+
+==References==
+<references />
+
+[[fr:Voyageur fugueur]]
+[[pt-br:Viajante de Corrida]]
+[[ru:Бегущая путница]]
+[[ja:駆けゆく旅人]]

@@ -1,0 +1,165 @@
+{{SkyEvent
+| image = Days-of-Sky-2022-promo-image.jpg
+| previousevent = [[Sky Anniversary/2021|2021]]
+| nextevent = [[Sky Anniversary/2023|2023]]
+| date = July 13 to July 19, 2022
+| years = {{#lst:Sky Anniversary|Anniversary Years}}
+}}
+The Sky Anniversary celebration returned for a third edition, and for the occasion the [[Secret Area]] awaited everyone for the party. The event began '''July 18, 2022 at 00:00 PDT (UTC-7)''' and ended '''August 3, 2022 at 23:59 PDT (UTC-7)'''. <ref name="2022_extended">Sky Anniversary 2022 was originally scheduled to end on July 31, but the end date was [https://discord.com/channels/575762611111592007/575768778789617674/1000213305635385524 extended to August 3] to accommodate users impacted by the DDoS server issues.</ref>
+
+Just like previous years, the Office's interior was decorated to suit the occasion. The Anniversary Guide at the entrance of the Office was full of new [[cosmetics]], [[Props]], and Birthday Cake Spells.           
+
+On the rooftop, there was a large stage with multiple chat picnic tables, an ice cream cart full of Spells, and Spirit guests everywhere - making this location the best place to gather with your friends or showcase your talents on stage.  Every hour, starting at reset at '''00:00:00 PST/PDT''', mini events took place:          
+
+* 8 additional Spirits appeared on the stage to perform "Happy Birthday" while the Spirit guests gathered around to applaud them.
+*An invisible wall appeared around the stage and a tiny spell transformed every Sky kid inside for about 2 minutes.
+*A Spirit performed magic, making different creatures appear on stage.
+*The big cannon shot confetti, filling the entire roof when players used it.
+*And many more....
+<gallery>
+Days-of-Sky-2022-Spirits-Shop-Morybel-0146.png
+Days-of-Sky-2022-celebration1.jpg
+Days-of-Sky-2022-celebration2.jpg
+Days-of-Sky-2022-celebration3.jpg
+Days-of-Sky-2022-celebration4.jpg
+Days-of-Sky-2022-celebration5.jpg
+</gallery>
+
+<span class="fb-video" data-href="https://www.facebook.com/thatskygame/videos/1036695240346711/" data-width="300" data-show-text="false"></span>
+
+Most of the collectibles were available from the Anniversary Guide, found at the entrance of the Office. The one exception was the Electric Blue Guitar from the [[Sky Anniversary#TGC Guitar Pack|TGC Guitar Pack]], which is sold by the NPC who sells the [[Founder's Pack]].
+{{Friendship Tree
+|label  = Anniversary Guide
+
+|nodeC4 = {{Icon Name|Anniversary Confetti Launcher|icon}} 20 H
+|  labelC4 = {{Icon Name|Anniversary Confetti Launcher|name}}
+|  linkC4  = Sky Anniversary#{{Icon Name|Anniversary Confetti Launcher|name}}
+
+|nodeC3 = Days_of_Sky_-_Medium_cake-spell-icon-Morybel-0146.png 4 C
+|  labelC3 = Medium Cake Spell
+|  linkC3  = Sky Anniversary#Birthday Cake Spells
+
+|nodeL2 = {{Icon Name|Anniversary Balloons|icon}} 30 C
+|  labelL2 = {{Icon Name|Anniversary Balloons|name}}
+|  linkL2  = Sky Anniversary#{{Icon Name|Anniversary Balloons|name}}
+|nodeC2 = Days_of_Sky_-_Small_cake-spell-icon-Morybel-0146.png 2 C
+|  labelC2 = Small Cake Spell
+|  linkC2  = Sky Anniversary#Birthday Cake Spells
+|nodeR2 = {{Icon Name|Anniversary Light Fence|icon}} 20 C
+|  labelR2 = {{Icon Name|Anniversary Light Fence|name}}
+|  linkR2  = Sky Anniversary#{{Icon Name|Anniversary Light Fence|name}}
+
+|nodeL1 = musicE2 10 H
+|nodeR1 = {{Icon Name|Anniversary Birthday Flag|icon}} 20 C
+|  labelR1 = {{Icon Name|Anniversary Birthday Flag|name}}
+|  linkR1  = Sky Anniversary#{{Icon Name|Anniversary Birthday Flag|name}}
+|nodeC1 = {{Icon Name|3rd Birthday Hat|icon}} 3 H
+|  labelC1 = {{Icon Name|3rd Birthday Hat|name}}
+|  linkC1  = Sky Anniversary#{{Icon Name|3rd Birthday Hat|name}}
+}}
+
+===Office Performance Schedule===
+Every hour starting at reset, there will be several performances by Spirits on the rooftop stage in the area.
+{| class="article-table mw-collapsible mw-collapsed"
+!'''Time (PDT, UTC-7)'''
+!'''Event'''
+|-
+|
+*2:00 AM/PM
+* 5:00 AM/PM
+* 8:00 AM/PM
+*11:00 AM/PM
+| Birthday Song with All Staff
+|-
+|12:00 AM/PM
+| Music Jam Session with Skidmore
+|-
+|1:00 AM/PM
+|Piano Solo with Jenova
+|-
+|3:00 AM/PM 
+|Belly Pat Dance and Red Moon with Atlas
+|-
+|4:00 AM/PM
+|Sky Creature Summoning with Julian
+|-
+| 6:00 AM/PM 
+|Tiny and Huge with Nicolas
+|-
+|7:00 AM/PM
+|Feel the Speed with Samantha 
+|-
+|9:00 AM/PM
+|Dance Session with Dylan
+|-
+|10:00 AM/PM
+|Witch Prank with Yoshi
+|}
+
+===2022 New Cosmetics and Props===
+==== TGC Guitar Pack<span id="Blue Electric Guitar"></span>====
+<section begin="TGC Guitar Pack" />The Blue Electric Guitar in the TGC Guitar Pack is a v-shaped guitar with three white sparkles decorating the body. It is bundled with {{Cost|115 C}}. This [[Instrument]] was introduced in 2022 for {{Cost|29.99 USD|refnote}} and can be purchased from the same NPC who offers the [[Founder's Pack]], on the first floor of the Office. Although this instrument first appeared as part of the Sky Anniversary event, it will remain '''permanently available''' in the game.  <small>More information can be found on [https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/faq/921-what-is-the-tgc-guitar-pack/ TGC's helpshift website].</small>
+{{#tag:gallery
+|{{Icon Name|Blue Electric Guitar|IAP}} {{!}} TGC Guitar Pack IAP
+{{Icon Name|Blue Electric Guitar|icon}} {{!}} {{Icon Name|Blue Electric Guitar|name}} icon
+{{Icon Name|Blue Electric Guitar|real}} {{!}} {{Icon Name|Blue Electric Guitar|name}}
+Days-of-Sky-2022-blue-electric-guitar-office.png {{!}} {{Icon Name|Blue Electric Guitar|name}} on your back
+Days-of-Sky-2022-instrument-blue-electric-guitar-playing.png {{!}} Playing the {{Icon Name|Blue Electric Guitar|name}}
+{{Icon Name|Blue Electric Guitar|spell}} {{!}} {{Icon Name|Blue Electric Guitar|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}<section end="TGC Guitar Pack" />
+
+====3rd Birthday Hat====
+The 3rd Birthday Hat is a light blue crown with three points. This [[Hair Accessory]] was introduced in 2022 for {{Cost|3 H}} from the Anniversary Guide. It was only available during Sky's 2022 Anniversary.
+{{#tag:gallery
+|{{Icon Name|3rd Birthday Hat|icon}} {{!}} {{Icon Name|3rd Birthday Hat|name}} icon
+{{Icon Name|3rd Birthday Hat|real}} {{!}} {{Icon Name|3rd Birthday Hat|name}}
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Anniversary Light Fence====
+The Anniversary Light Fence is a low arch made of round lights. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]] and serve as a source of light. This Prop was introduced in 2022 for {{Cost|20 C}} from the Anniversary Guide.
+{{#tag:gallery
+|{{Icon Name|Anniversary Light Fence|icon}} {{!}} {{Icon Name|Anniversary Light Fence|name}} icon
+{{Icon Name|Anniversary Light Fence|real}} {{!}} {{Icon Name|Anniversary Light Fence|name}}
+Days-of-Sky-2022-decorative-prop-on-back.png {{!}} {{Icon Name|Anniversary Light Fence|name}} on your back
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Anniversary Balloons====
+The Anniversary Balloons are a bundle of blue balloons tied together on a string. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. This Prop was introduced in 2022 for {{Cost|30 C}} from the Anniversary Guide.
+{{#tag:gallery
+|{{Icon Name|Anniversary Balloons|icon}} {{!}} {{Icon Name|Anniversary Balloons|name}} icon
+{{Icon Name|Anniversary Balloons|real}} {{!}} {{Icon Name|Anniversary Balloons|name}}
+Backpack for props.png {{!}} {{Icon Name|Anniversary Balloons|name}} on your back
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Anniversary Confetti Launcher====
+The Anniversary Confetti Launcher is a small white cannon with gold accents. It is a placeable [[Prop]] that can be used to decorate [[Shared Spaces]]. When activated, the cannon shoots out colorful confetti. This Prop was introduced in 2022 for {{Cost|20 H}} from the Anniversary Guide.
+{{#tag:gallery
+|{{Icon Name|Anniversary Confetti Launcher|icon}} {{!}} {{Icon Name|Anniversary Confetti Launcher|name}} icon
+{{Icon Name|Anniversary Confetti Launcher|real}} {{!}} {{Icon Name|Anniversary Confetti Launcher|name}}
+File:Days-of-Sky-2022-confetti-launcher-on-back.png {{!}} {{Icon Name|Anniversary Confetti Launcher|name}} on your back
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Happy Birthday Music Sheet<span id="Music Sheet"></span>====
+Music Sheet {{Music Sheet|E2}} allows you to play "Happy Birthday". This [[Music Sheet]] was introduced in 2022 for {{Cost|3 H}} from the Anniversary Guide. It is a song in the key of G Major.<br>
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guide
+|content=
+{{#ev:youtube|4WSRGVXI8iw||inline|Music Sheet Video Guide by Ikejiji}}
+}}
+
+==References==
+'''More information about Sky Anniversary 2022 can be found on [https://www.thatskygame.com/news/skys-3rd-birthday-youre-invited ThatSkyGame's Website].'''
+<references />
+
+{{#lst:Sky Anniversary|Anniversary Navbox}}
+
+[[ja:Skyアニバーサリー/2022]]
+[[pt-br:Aniversário do Sky/2022]]
+[[ru:Годовщина Sky/2022]]

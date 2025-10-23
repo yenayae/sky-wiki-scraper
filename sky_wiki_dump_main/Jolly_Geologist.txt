@@ -1,0 +1,148 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Moments-Spirit-Jolly-Geologist.png|Standard
+Moments-Spirit-Jolly-Geologist-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Facepiece|infobox}}{{Spirit Item||Hair|infobox}}
+|props	   = {{Spirit Item||Prop|infobox}}
+|music     = {{Music Sheet|37}}
+|season    = Moments
+|realm     = Daylight Prairie
+|location  = Prairie Peaks
+|ts        = July 17, 2025 (#144)
+}}
+<section begin="Summary" />The '''Jolly Geologist''' is a [[Seasonal Spirit]] from the [[Season of Moments]] who offers the {{Emote|Jolly Geologist|inline_text}} Expression. The Jolly Geologist is found in the [[Prairie Peaks]], in a cave located at the far right of the area. The collectibles [[#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Jolly Geologist|Facepiece|inline_text}}, a {{Spirit Item|Jolly Geologist|Hair|inline_text}}, a {{Spirit Item|Jolly Geologist|Prop|label=Crystal Jar Prop|inline_text}}, and the {{Music Sheet|37|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Jolly Geologist Promo art.png|thumb|320px|none|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|PSttOiSBiys|thumb|inline|Video Guide}}
+
+The Jolly Geologist can be found in the [[Prairie Peaks]], in a cave located at the far right of the area. Follow a little path leading to a cave at the base of a mountain, where the Spirit is located inside its entrance. This Spirit has a [[Standard Memory|standard memory]] with 7 memory fragments and a 15-minute overall [[Timed Memory|time limit]]. 
+
+As their memory unfolds, the Jolly Geologist can be seen walking through the cave, collecting luminescent minerals dotted throughout its cavities. Wandering further into the cave, the Spirit spots light coming from an underground water source. Curious, the Jolly Geologist jumps into the water to investigate and swims through a tunnel leading to a large cavern. Awaiting inside is a huge structure of minerals that illuminates the surroundings in a dazzling display of natural beauty.
+
+At the end of the memory, the Jolly Geologist cannot contain their joy and does a jaunty victory dance, celebrating their greatest find.
+</div>
+
+==<span id="Expression">Expression</span>==
+This Spirit offers the {{Emote|Jolly Geologist|inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name|Jolly Geologist|emote}}|x170px]]
+<gallery heights="125" captionalign="center">
+Jolly-Geologist-Jolly-Dance-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Jolly-Geologist-Jolly-Dance-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Jolly-Geologist-Jolly-Dance-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Jolly-Geologist-Jolly-Dance-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar hunch their back and bring their elbows outwards, before doing a little dance by jumping in the air, both arms bending and legs kicking from one side to the other white a jaunty castanet sound effect plays. This action is continued for as long as you don't move your avatar.
+*Level 2 makes the same motion as Level 1, with glowing blue sparkles coming out of your avatar's handsevery second kick, and glowing golden sparkles coming out of their feet with every jump.
+*Level 3 will make your avatar jump up, before imitating a rope wrangling movement with one hand while looking around, legs kicking from one side to the other in a rhythmic movement, while a castanet and banjo melody plays. This action is continued for as long as you don't move your avatar. When doing so, your avatar will finish off by jumping and twirling in the air once.
+*Level 4 makes the same motion as Level 3, with glowing orange sparkles bursting from your avatar's lifted hand, as well as a trail of smoke swirling up from the hand's motion.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+==Cosmetics==
+===<span id="Necklace">Face Accessory</span>===
+The [[Face Accessory]] offered by this Spirit is the bottom half of a gray skull jaw, costing {{Cost|42 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's second node ({{Cost|8 SC|season=Moments}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Facepiece|icon}} {{!}} The Face Accessory icon
+{{Icon Name||Facepiece|real}} {{!}} The Face Accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Hair">Hair</span>===
+The [[Hair]] offered by this Spirit is a gray, skull-shaped helmet with a blue gem embedded in the forehead and blue drapes on the sides, costing {{Cost|48 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|8 SC|season=Moments}} total). Note that this item is considered a Hair, not a [[Hair Accessory]], and as such it can not be worn over other Hairstyles.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Prop">Prop</span>===
+The [[Prop]] offered by this Spirit is a square gray jar filled with long, blue crystals, costing {{Cost|36 C}} from the Traveling Spirit. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fifth node ({{Cost|90 SC|season=Moments}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Prop|icon}} {{!}} The Prop icon
+{{Icon Name||Prop|real}} {{!}} The Prop
+{{Icon Name||Prop|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+==<span id="Music">Music Sheet</span>==
+The Jolly Geologist offers the {{Music Sheet|37}} [[Music Sheet]] #37, costing {{Cost|15 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fifth node ({{Cost|90 SC|season=Moments}} total). It is a song in the key of D Major.<br>
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guide
+|content=
+{{#ev:youtube|AxAYOpPu-n0||inline|Music Sheet Video Guide by Ikejiji}}
+}}
+{{Clear}}
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling
+|ts_dates=*July 17, 2025 (#144)}}<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Jolly Geologist
+|image = Moments-Spirit-Jolly-Geologist.png
+|season = season
+
+|nodeC6 = Hair 48 C
+|nodeL5 = Facepiece 42 C
+|nodeR5 = music37 15 C
+|nodeC5 = spellx 5 C
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Prop 36 C
+|nodeC2 = spellx 5 C
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+==Season Friendship Tree ==
+{{Friendship Tree Info | season| season=Moments}} <section begin="Season Friendship Tree" />
+{{Friendship Tree
+|spirit = Jolly Geologist
+|image  = Moments-Spirit-Jolly-Geologist.png
+|type   = season
+|season = Moments
+
+|nodeC6 = season_heart 3 SC SP
+|nodeL5 = prop SP
+|nodeC5 = music37 34 SC
+|nodeL4 = spellx SP
+|nodeC4 = spellx 28 SC
+|nodeL3 = emote4 SP
+|nodeC3 = emote3 20 SC
+|nodeL2 = hair SP
+|nodeC2 = facepiece 8 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote Free
+}}<section end="Season Friendship Tree" />
+
+==Unique Daily Quests==
+{{#section-h:Quests/Daily Quest Spirits|{{PAGENAME}}}}
+
+==Personality==
+On July 14, 2023, TGC officially announced and introduced the Jolly Geologist with the following personality traits:
+
+*🥾 Has planned this Prairie Peaks trip for YEARS
+*🪨 Gives names and personalities to their favorite rocks
+*🗣️ Hobby: Using local sayings wherever they travel
+*🚫 Dislikes skipping stones on water—what a waste of a perfectly good stone!
+
+==References==
+<references />
+
+[[pt-br:Geóloga Divertida]]
+[[fr:Géologue joyeuse]]
+[[de:Fröhliche Geologin]]
+[[ja:上機嫌な地質学者]]
+
+[[Category:Season of Moments]]

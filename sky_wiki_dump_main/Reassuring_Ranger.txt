@@ -1,0 +1,157 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Action
+|image     = Moments-Spirit-Reassuring-Ranger.png
+|cosmetics = {{Spirit Item||Mask|infobox}}{{Spirit Item||Facepiece|infobox}}{{Spirit Item||Hairpiece|infobox}}{{Spirit Item||Cape|infobox}}
+|props	   = 
+|music     = 
+|season    = Moments
+|realm     = Daylight Prairie
+|location  = Prairie Peaks
+|ts        = None
+}}
+<section begin="Summary" />The '''Reassuring Ranger''' is a [[Seasonal Spirit]] from the [[Season of Moments]] who offers the {{Emote|Reassuring Ranger|inline_text}} Expression. The Reassuring Ranger is found in the [[Prairie Peaks]] right next to the [[Moments Guide]], hidden behind the raised platform where the area's [[Map_Shrines#Daylight_Prairie|Map Shrine]] is located. The collectibles [[#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Reassuring Ranger|Mask|inline_text}}, a {{Spirit Item|Reassuring Ranger|Facepiece|inline_text}}, a {{Spirit Item|Reassuring Ranger|Hairpiece|inline_text}}, and a {{Spirit Item|Reassuring Ranger|Cape|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Reassuring-Ranger-Promo-art.jpg|thumb|320px|none|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|MN1DV_iu7EQ|thumb|inline|Video Guide}}
+
+The Reassuring Ranger can be found in the [[Prairie Peaks]] right next to the [[Moments Guide]], hidden behind the raised platform where the area's [[Map_Shrines#Daylight_Prairie|Map Shrine]] is located. This Spirit has a [[Standard Memory|standard memory]] with 7 memory fragments and a 15-minute overall [[Timed Memory|time limit]].
+
+As their memory unfolds, the Moments Guide and the Reassuring Ranger can be seen climbing the nearby hills. As they ascend, they reach a steep section and the Moments Guide stays behind, completely frozen by fear. The Reassuring Ranger goes back to reassure their companion and together they finally reach their destination. Side by side, they pause to catch their breath, gazing out at the awe-inspiring beauty that unfolds before their eyes. The Prairie Peaks lay below them, a tapestry of vibrant greens and earthen tones.
+
+At the end of the memory, the Reassuring Ranger holds the Moments Guide by their shoulders, quietly admiring the beauty of the Prairie Peaks, side by side.
+</div>
+
+==<span id="Expression">Friend Action</span>==
+''Note: While this Spirit can be found in Prairie Peaks, the upgrade to the "Side Hug" Friend Action will not be available for those who missed the Season or those who did not purchase the [[Season Pass]] until the Spirit returns as a Traveling Spirit.''
+
+This Spirit offers the {{Emote|Reassuring Ranger|inline_text}}, which has 2 Levels.
+
+[[File:{{Icon Name|Reassuring Ranger|emote}}|x170px]]
+<gallery heights="125" captionalign="center">
+Reassuring-Ranger-side-hug-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Reassuring-Ranger-side-hug-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+</gallery>
+
+*Level 1 will make your avatar turn to your friend and extend their right arm for a side hug. Upon accepting, your avatar will hug your friend while facing the same direction by extending one arm over each other's shoulder, while two high-pitched wind chime notes play.
+*Level 2 will make your avatar turn to your friend, tilt their head to the side, and open up both arms to each side for a hug. Upon accepting, your avatar will hug your friend from the side while both look forward, pulling them over to themselves with one arm, the impact of the pull making your friend support themselves on your avatar's shoulder with their other arm that isn't hugging your avatar, while wind chime notes play.
+
+Like any [[Friendship Menu#Extended%20Two-Player%20Abilities|Extended Two-Player Abilities]], this ability can be upgraded by opening your friend's Friendship Menu. Unlocking the Level 1 ability will cost you {{Cost|24 C}}. After unlocking Level 1, it will cost you {{Cost|26 C}} more to upgrade to the Level 2. (See [[Friendship Menu]] to view the entire Friendship Tree.)
+<!--
+As a Traveling Spirit, the price of the Friend Action upgrade was {{Cost|?}}. During the Season, Level 1 was free, but Level 2 was only available to [[Season Pass]] holders. -->
+
+==Cosmetics==
+===<span id="Mask">Mask</span>===
+The [[Mask]] offered by this Spirit is black with a protruding nose, angled eyes, and orange outlines above the eyes and below the jaw that resemble facial hair.<!-- costing {{Cost|?}} from the Traveling Spirit. --> It was available to all players during the Season from the Friendship Tree's third node ({{Cost|42 SC|season=Moments}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Face accessory">Face Accessory</span>===
+The [[Face Accessory]] offered by this Spirit is a yellow wheat stalk or stem, placed on the lower half of the face of the holder.<!-- costing {{Cost|?}} from the Traveling Spirit. --> It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|16 SC|season=Moments}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Facepiece|icon}} {{!}} The Face Accessory icon
+{{Icon Name||Facepiece|real}} {{!}} The Face Accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Hair accessory">Hair Accessory</span>===
+The [[Hair Accessory]] offered by this Spirit is a tan triangle-shaped cowboy hat with a lighter hatband with brown triangle ornaments.<!-- costing {{Cost|?}} from the Traveling Spirit. --> It was available to all players during the Season from the Friendship Tree's fifth node ({{Cost|108 SC|season=Moments}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hairpiece|icon}} {{!}} The Hair Accessory icon
+{{Icon Name||Hairpiece|real}} {{!}} The Hair Accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Cape">Cape</span>===
+The [[Cape]] offered by this Spirit is beige and colored orange near the tattered trim, with a blue line and triangle shapes above it, that is shaped like a long asymmetrical poncho, with a blue piece of fabric and a smaller, orange one above it tied in the front.<!-- costing {{Cost|?}} from the Traveling Spirit. --> It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|72 SC|season=Moments}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||Cape|interior}} {{!}} The Cape interior
+{{Icon Name||Cape|back}} {{!}} The Cape back
+{{Icon Name||Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling }} <!--   ONLY APPLICABLE ONCE SPIRIT HAS BECOME A TRAVELING SPIRIT 
+|ts_dates=
+}}<section begin="TS Friendship Tree" /> 
+{{Friendship Tree
+|spirit = Reassuring Ranger
+|image = Moments-Spirit-Reassuring-Ranger.png
+|season = Moments
+
+|nodeC5 = Cape ? C
+|nodeR4 = Hairpiece ? C
+|nodeL4 = Mask ? C
+|nodeC4 = spell5
+|nodeC3 = wing
+|nodeR2 = heart
+|nodeL2 = Facepiece ? C
+|nodeC2 = spell5
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+The hints given before the [[Reassuring Ranger]]'s first appearance were: 
+{{Collapse
+|label=First Visit Hints
+|content=<div>
+*  [ hints can be on the official Sky Discord which are posted a few days before the Traveling Spirit by staff of thatgamecompany. ]
+</div>
+}} -->
+
+==Season Friendship Tree ==
+{{Friendship Tree Info | season| season=Moments}} <section begin="Season Friendship Tree" />
+{{Friendship Tree
+|spirit = Reassuring Ranger
+|image  = Moments-Spirit-Reassuring-Ranger.png
+|type   = season
+|season = Moments
+
+|nodeC6 = season_heart 3 SC SP
+|nodeL5 = spellx SP
+|nodeC5 = Hairpiece 36 SC
+|nodeL4 = Cape SP
+|nodeC4 = spellx 30 SC
+|nodeL3 = spellx SP
+|nodeC3 = Mask 26 SC
+|nodeL2 = Facepiece SP
+|nodeC2 = spellx 16 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Unique Daily Quests==
+{{#section-h:Quests/Daily Quest Spirits|{{PAGENAME}}}}
+
+==Personality==
+On July 11, 2023, TGC officially announced and introduced the Reassuring Ranger with the following personality traits:
+
+*🗺️ Prefers to memorize maps (it’s less to carry)
+*⛰️ Has shared all their favorite spots in Prairie Peaks—except for one
+*⛷️ Likes summer best, but wants to try skiing
+*🧦 Always brings extra socks
+
+==Trivia==
+*The {{Spirit Item|Ceasing Commodore|Hair|inline_text}} worn by the Reassuring Ranger is offered by the {{Spirit|Ceasing Commodore|inline_text}}.
+* The Side Hug Friend Action is featured in a piece of merch from thatskyshop, in the form of the [[That Sky Shop/Wave 12#Moments Side Hug Keychain|Moments Side Hug Keychain]]. It has a STAR feature which allows you to offer Side Hug to your friend or acquaintance, regardless of your friendship level.
+
+==References==
+<references />
+
+[[pt-br:Guarda-Florestal Tranquilizador]]
+[[fr:Garde-forestier rassurant]]
+[[de:Ermutigender Ranger]]
+
+[[Category:Season of Moments]]

@@ -1,0 +1,122 @@
+{{Location
+|image      = Flight wind paths 0 wind paths overview.png
+|realm      = Hidden Forest
+|access     = [[Aviary Village]], [[Forest Clearing]], [[Underground Caverns]], [[Hermit Valley]], [[Cave of Prophecies]], [[Sanctuary Islands]], [[Forgotten Ark]], [[Starlight Desert]]
+|season     = Flight
+|seasonal_spirits  = 4
+|children_of_light = 1
+|pieces_of_light   = 
+|map        = Hidden_Forest_-_Wind_Paths_Cloud_Map_by_sky_solsuga.jpg
+|mapcaption = Map of The Wind Paths by @sky_solsuga
+}}
+<section begin="Quote" />{{Quote|<br>'''''Abandoned paths of the ancient kingdom.'''''|The Wind Paths Opening}}<section end="Quote" /> <!-- alt: Chimes guide creatures to clear passage through the realms. -->
+<section begin="Summary" />'''The Wind Paths''' is a seasonal area added to [[Hidden Forest]], introduced along with the [[Season of Flight]] in [[Version History#0.15.0|Patch 0.15.0]]. All the quests, spirits, and activities can be found in this area. The entrance to The Wind Paths is through a pathway in the clouds, up and to the right of Hidden Forest Social Space with a Spirit Gate requiring one Regular Spirit from [[Vault]] to have been relived. The Wind Paths serves as a connection to multiple areas of Sky, as well as reconnecting with Light Creatures.<section end="Summary" />
+__TOC__
+
+==Overview==
+{{Quote|<br>'''''Chimes guide creatures to clear passage through the realms.'''''|Restored Wind Paths Opening}}
+
+
+<section begin="Overview" />The Wind Paths is a spacious area abundant with clouds. The [[Flight Guide]] stands on the main island in the center. Surrounding the Guide are 4 Seasonal Spirits, which upon reliving, will give players their unique [[Expressions]]. Additionally, there is a [https://sky-children-of-the-light.fandom.com/wiki/Map_Shrines?file=Flight-area-map-shrine.jpg#Daylight_Prairie Map Shrine] to be found on the higher island to the left of the main island.
+
+The Wind Paths has two sections: the floating islands and the cloud tunnel. Initially, only the floating islands are accessible to the player. Completing the quest given by the [[Flight Guide]] will unlock the three sections of the cloud tunnel. It will give players direct access to cloud tunnels that lead to [[Cave of Prophecies]], [[Sanctuary Islands]], [[Underground Caverns]], [[Hermit Valley]], [[Forgotten Ark]], and [[Starlight Desert]]. Players can also unlock one more cloud tunnel located behind the main island leading to [[Aviary Village]] upon the completion of the [[Season of Revival#Quest #9|ninth seasonal Quest]] from [[Season of Revival]].<section end="Overview" />
+
+===Child of Light Locations===
+There is only 1 [[Children_of_Light#The_Wind_Paths_(1)|Children of Light]] in this area to collect.<br>
+<br>
+{{#lst:Children of Light|WindPath Children}}
+
+===Spirits in the Wind Paths===
+In the Wind Paths, there are 4 [[Seasonal Spirits]] ({{Emote|Lively Navigator}}[[Lively Navigator]], {{Emote|Light Whisperer}}[[Light Whisperer]],{{Emote|Tinkering Chimesmith}}[[Tinkering Chimesmith]],{{Emote|Talented Builder}}[[Talented Builder]]).
+<section begin="SpiritTabber" />{{Mobile Tabber 
+|tab1 = {{Emote|Lively Navigator|tab}}
+|c1   = <div> {{#ev:youtube|LU0TuA35_l4|400|right}} <br>{{#lst:Lively Navigator|Summary}} {{#lst:Lively Navigator|TS Friendship Tree}}</div>
+|type1= seasonal
+
+|tab2 = {{Emote|Light Whisperer|tab}}
+|c2   = <div> {{#ev:youtube|Kam3kuo2UPU|400|right}} <br>{{#lst:Light Whisperer|Summary}} {{#lst:Light Whisperer|TS Friendship Tree}}</div>
+|type2= seasonal
+
+|tab3 = {{Emote|Tinkering Chimesmith|tab}}
+|c3   = <div> {{#ev:youtube|ddTD2kkI5f8|400|right}} <br>{{#lst:Tinkering Chimesmith|Summary}} {{#lst:Tinkering Chimesmith|TS Friendship Tree}}</div>
+|type3= seasonal
+
+|tab4 = {{Emote|Talented Builder|tab}}
+|c4   = <div> {{#ev:youtube|euxd4kP-Keo|400|right}} <br>{{#lst:Talented Builder|Summary}} {{#lst:Talented Builder|TS Friendship Tree}}</div>
+|type4= seasonal
+}}<section end="SpiritTabber" />
+
+==Activities==
+===Flight Quests===
+<div style="float:right">{{Mobile Tabber|textonly=1
+|tab1 = 1
+|c1   = <div> {{#ev:youtube|SJatJLGpeJM|300|right}} </div>
+|tab2 = 2
+|c2   = <div> {{#ev:youtube|Y6RinkNMa70|300|right}} </div>
+|tab3 = 3
+|c3   = <div> {{#ev:youtube|E2q25M2eKwU|300|right}} </div>
+|tab4 = 4
+|c4   = <div> {{#ev:youtube|qm7fJyGbg8s|300|right}} </div>
+|tab5 = 5
+|c5   = <div> {{#ev:youtube|bNY0QrwIeGY|300|right}} </div>
+}}</div>
+In the Wind Paths, players are able to do Seasonal Quests from [[Season of Flight]], uncovering insight into the lives of the creatures who fly beside them and uncover a feature that carries them from an ancient crossroads to the winds woven throughout the world of Sky. Each quest unlocking the cloud tunnel area further and further.
+*Quest 1:  Underground Caverns, Hidden Forest
+*Quest 2:  Prophecy Cave, Isle of Dawn - Hermit Valley, Valley of Triumph
+*Quest 3:  Sanctuary Islands, Daylight Prairie - Forgotten Ark, Golden Wasteland - Starlight Desert, Vault of Knowledge
+
+Players will have to complete the [[Season of Revival#Quest #9|ninth Quest]] from the [[Season of Revival]] to unlock the cloud tunnel into Aviary Village. 
+{{clear}}
+
+===Social Light===
+<span id="Cloud Tunnel"></span>
+{{Mobile Tabber|textonly=1
+|tab1 = Cloud Tunnel
+|c1   = <div>
+{{#lst:Additional Light Sources|Forest Windpath Tunnel Summary}} [[Additional_Light_Sources#Cloud Tunnel|For more information, see here]]. </div>
+}}
+
+===Easter Eggs===
+<span id="Friendly Flight Bird"></span>
+<span id="Flight Airplane"></span>
+{{Mobile Tabber|textonly=1
+|tab1 = Friendly Flight Bird
+|c1   = <div>[[File:SOF Friendly Easter egg allubys.png|thumb|200px]]
+In [[#The Wind Paths|The Wind Paths]] area, there is a bird that follows you throughout the area. To trigger it, [[Season_of_Flight#Quest_#4|Flight's Quest #4]] must be completed. Once done, call on the second pole from the cave on the far right of the main island and a bird will fly to you from the distance. They continue following the player until they leave the area.</div>
+
+|tab2 = Flight Airplane
+|c2   = <div>[[File:SOF Airplane Easteregg lovecry.png|thumb|200px]]
+There is an airplane in the sky of the [[#The Wind Paths|The Wind Paths]]. To find it, enter the cloud tunnels area and fly to the very end with an island with a bundle of candles. Looking up from here, there is a cloud opening. Fly towards it until the scene turns green. Keep flying up in hover mode until you reach the top. Finally, look around until you see a black airplane flying around where you can sit on.</div>
+}}
+{{Clear}}
+
+==Video Guide==
+[[File:Season of Flight Winged Light.png|330px|link=https://youtu.be/EE5q9NWsdfk]]
+
+==Gallery==
+<gallery>
+File:Flight wind paths 0 wind paths overview.png|The main Island
+File:Flight wind paths 6 forest underground caverns.png|Exit to the Underground Caverns in Forest
+File:Flight wind paths 5 valley-hermit valley entry.png|Exit to Hermit Valley
+File:Flight wind paths 1 isle prophecy cave.png|Exit to the Cave of Prophecy
+File:Flight wind paths 2 prairie sanctuary islands.png|Exit to Sanctuary Island
+File:Flight wind paths 4 wasteland forgotten ark.png|Exit to the Forgotten Ark
+File:Flight wind paths 3 vault starlight desert.png|Exit to Starlight Desert
+File:Flight wind paths 7 aviary village.png|Exit to Aviary Village
+</gallery>
+
+==Trivia==
+*The wing recovery speed in the Wind Paths is so fast that players essentially have double their wing count (for example, players with eight flaps can flap 16 times instead, while constantly holding down the jump button).
+*The first quest was released on October 4, 2021, giving access to the Underground Caverns tunnel.
+*The second quest was released on October 18, 2021, giving access to both the Cave of Prophecies and Hermit Valley tunnels.
+*The third quest was released on November 1, 2021, giving access to the Sanctuary Islands, Starlight Desert, and Forgotten Ark tunnels.
+*The fourth quest was released on November 15, 2021, giving access to the speedy wind tunnel.
+*The fifth quest was released on November 29, 2021, giving access to the manta ferry.
+*The ninth quest for Season of Revival was released on December 18, 2023, giving access to Aviary Village.
+{{RealmsNav}}
+
+[[fr:Les Chemins de Vent]]
+[[pt-br:As Trilhas do Vento]]
+[[ja:風の街道]]
+
+[[Category:Hidden Forest]]

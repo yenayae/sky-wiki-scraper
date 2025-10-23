@@ -1,0 +1,179 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Enchantment-Spirit-Indifferent-Alchemist.png|Standard
+Enchantment-Spirit-Indifferent-Alchemist-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Mask|infobox}}{{Spirit Item||Hair|infobox}}{{Spirit Item||Cape|infobox}}
+|season    = Enchantment
+|location  = Forgotten Ark
+|ts        = March 4, 2024 (SV#5)<br>September 1, 2022 (#69)<br>October 29, 2020 (#21)
+}}
+<section begin="Summary" />The '''Indifferent Alchemist''' is a [[Seasonal Spirit]] from the [[Season of Enchantment]] who offers the {{Emote|Indifferent Alchemist|inline_text}} Expression. The Indifferent Alchemist is found far past the [[Forgotten Ark]], on the hills behind the polluted pond. The collectibles [[Indifferent Alchemist#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Indifferent Alchemist|Mask|inline_text}}, a {{Spirit Item|Indifferent Alchemist|Hair|inline_text}}, and a {{Spirit Item|Indifferent Alchemist|Cape|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Indifferent-Alchemist-promo-image.jpg|thumb|320px|none|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|XpMexGi-YO4||inline|Video Guide}}
+
+The Indifferent Alchemist can be found far past the [[Forgotten Ark]], on the hills behind the polluted pond where the [[Red Light]] is collected. This Spirit has a [[Carry Spirit Memory|carry spirit memory]] with 6 memory fragments and a 12-minute overall [[Timed Memory|time limit]]. 
+
+As their memory unfolds, the Indifferent Alchemist can be seen climbing over the hill and crawling to a cave entrance below. They sprint through the cave until they reach to what seemed like a dead end in the cave. 
+
+At the end of the memory, the Alchemist procures a blue light and tosses it into the air. The blue light circles around the room until it settles down on the sand in the center. The Alchemist then shrugs as the blue light doesn't seem to do anything else.<br>
+<br>
+[[File:04 GW Seasonal Spirit - Indifferent Alchemist.jpg|200px|thumb|none|Relive the Indifferent Alchemist's memory]]
+</div>
+{{Clear}}
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Indifferent-Alchemist-shrug-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Indifferent-Alchemist-shrug-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Indifferent-Alchemist-shrug-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Indifferent-Alchemist-shrug-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar hold their hands up and to the side in a shrug pose, shaking their head in confusion, while a saxophone like sound effect plays.
+*Level 2 makes the same motion as Level 1, with trails of white sparkles following the avatar's hands, as well as a big glowing question mark appearing over the avatar's head.
+*Level 3 will make your avatar raise their arms, palms facing up, and turn from one side to another, their confusion being emphasized with notes of an oboe, before facing forward, still shrugging, while a whistle flute sound effect plays.
+*Level 4 makes the same motion as Level 3, with trails of white sparkles following the avatar's hands, and a big, glowing, flickering exclamation mark appearing over the avatar's head with each turn, as well as a big glowing question mark on the final shrug.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+== Cosmetics==
+=== Mask ===
+The [[Mask]] offered by this Spirit includes a version of the [[Masks#Base Mask|Base Mask]] but with a shiny golden square replacing the glowing hole on the forehead, as well as a long wavy beard, tied at the end with a brown band, costing {{Cost|42 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|14 SC|season=Enchantment}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Hair ===
+The [[Hair]] offered by this Spirit consists of a purple turban with golden accents, as well as long wavy hair hanging down the back, costing {{Cost|42 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fourth node ({{Cost|48 SC|season=Enchantment}} total). Note that this item is considered a Hair, not a [[Hair Accessory]], and as such it can not be worn over other Hairstyles.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair front
+{{Icon Name||Hair|side}} {{!}} The Hair side
+{{Icon Name||Hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Cape ===
+The [[Cape]] offered by this Spirit has two layers, the upper, shorter one having a slightly lighter purple tone and a yellow fringe trim, as well as yellow tassels hanging from a string of the same color, and the lower layer being a slightly darker shade of purple, using the trim of the [[Capes#Base Cape|Base Cape]], costing {{Cost|70 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fifth node ({{Cost|68 SC|season=Enchantment}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||Cape|interior}} {{!}} The Cape interior
+{{Icon Name||Cape|back}} {{!}} The Cape back
+{{Icon Name||Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Traveling Spirit ==
+[[File:SoE shrug TS info.PNG|200px|right|thumb]]
+{{Friendship Tree Info | traveling
+|ts_dates=*September 1, 2022 (#69)
+*October 29, 2020 (#21)
+|rs_dates=*March 4, 2024 (SV#5)
+}}<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Indifferent Alchemist
+|season = Enchantment
+|image  = Enchantment-Spirit-Indifferent-Alchemist.png
+
+|nodeC6 = Cape 70 C
+|nodeL5 = Hair 42 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Mask 42 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+The hints given before the [[Indifferent Alchemist]]'s first appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=First Visit Hints
+|content=<div>
+* Is going to be standing in Home
+* Will have a head, and even a body too
+* Will not be a krill in disguise
+* [ktjn] Is sneep snorp
+</div>}}
+
+The hints given before the [[Indifferent Alchemist]]'s second appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Second Visit Hints
+|content=<div>
+* Likes to experiment with recipes
+* Is really good at styling peoples hair
+* Has multiple cups of tea a day
+* Doesn't like the taste of fish
+* Is a sometimes forgetful teacher
+* Always welcomes a visitor to their home
+* Sometimes forgets to eat
+* Is rapidly approaching your location
+* Enjoys a good natured prank
+* Wakes up before dawn
+* Is working on their artistic skills
+* Is reminding you to hydrate!
+* Likes to discuss philosophically about life and the universe
+* Doesn't understand modern memes
+* Would fall for "updog"
+* [Wes] Is the friends we made along the way
+</div>}}
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Enchantment}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Indifferent Alchemist
+|type   = season
+|season = Enchantment
+|image   = Enchantment-Spirit-Indifferent-Alchemist.png
+
+|nodeC6 = season_heart 3 SC SP
+|nodeL5 = Cape SP
+|nodeC5 = spell5 20 SC
+|nodeL4 = spell5 SP
+|nodeC4 = Hair 18 SC
+|nodeL3 = emote4 SP
+|nodeC3 = emote3 16 SC
+|nodeL2 = mask SP
+|nodeC2 = spell5 14 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Trivia==
+*The Indifferent Alchemist Cape is featured in a piece of merch from thatskyshop, in the form of the [[That Sky Shop/Wave 5#Enchantment Alchemist Cape Pin|Enchantment Alchemist Cape Pin]]. It has a STAR feature which allows you and the friends holding your hand to wear the Cape for a limited duration.
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Shrug expression .jpg
+Shrug spirit.png
+enchantment watching shrug spirit - ase.jpeg
+enchantment group shrug spirit - ase.jpeg
+Shrug spirit map.png
+</gallery>
+
+==References==
+<references/>
+[[de:Gleichgültiger Alchemist]]
+[[fr:Alchimiste Indifférent]]
+[[pt-br:Alquimista Indiferente]]
+[[ru:Безразличный алхимик]]

@@ -1,0 +1,486 @@
+This page summarizes all the '''[[Cosmetics]]''' available from '''[[Regular Spirits]]'''; [[Music Sheets]] are also included.  More details on all items (including costs and the full Friendship Tree) are provided on the individual Spirit articles, which can be accessed by clicking on any of the icons below.
+
+The "Base" row lists the base Cosmetics (those that are available as soon as you start playing the game), plus the Base [[Stances|Stance]] and [[Calls|Call]]. The Capes available from Starter Packs are also included. 
+
+Clicking the header of each icon column will sort the icons to match the order used in the Cosmetics closets (or for [[Expressions]], to match the order used in the [[Expression Menu]]).
+
+{| class="article-table sortable"
+|-
+! rowspan=2 | Spirit
+! rowspan=2 | Realm
+! rowspan=2 | Expr.
+! {{Icon|Sky-Closet-Pants-Morybel-0146.png|link=Outfits}}
+! {{Icon|Sky-Closet-Masks-Morybel-0146.png|link=Masks}}
+! {{Icon|Sky-Closet-Masks-Morybel-0146.png|link=Face Accessories}}
+! {{Icon|Sky-Closet-Hairstyles-Morybel-0146.png|link=Hair}}
+! {{Icon|Sky-Closet-Capes-Morybel-0146.png|link=Capes}}
+! {{Icon|Sky-Closet-accessories-Morybel-0146.png|link=Props}}
+! {{Icon|MusicSheet.png|link=Music Sheet}}
+|-
+! Outfit
+! Mask
+! Face Acc.
+! Hair
+! Cape
+! Prop
+! M.S.
+|-
+! Base
+|
+|data-sort-value="100" | {{Icon| Stance basic stand.png | table }}{{Icon| Voice basic call.png | table }}
+|data-sort-value="0"   | {{Icon| Icon_pants_default.png | table }}
+|data-sort-value="0"   | {{Icon| Icon_mask_default.png | table }}
+|data-sort-value="999" |
+|data-sort-value="0"   | {{Icon| Icon_hair_default.png | table }}{{Icon| Base-Hair-2-Ray.png | table }}{{Icon| Base-Hair-3-Ray.png | table }}
+|data-sort-value="0"   | {{Icon| Icon_cape_brown-Morybel-0146.png | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|-
+! [[Starter Pack]] (Mobile)
+| [[Premium Candle Shop|IAP]]
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="3"   | {{Icon| Icon_cape_orange-Morybel-0146.png | table | link=Starter Pack }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|-
+! [[Nintendo Pack|Starter Pack]] (Nintendo)
+| [[Premium Candle Shop|IAP]]
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="43"  | {{Icon| Icon_hair_Nintendo_elf.png | link=Nintendo_Pack | table }}
+|data-sort-value="32"  | {{Icon| Icon_cape_nintendo_red-Morybel-0146.png | link=Nintendo_Pack | table }}{{Icon| Icon_cape_nintendo_blue-Morybel-0146.png | link=Nintendo_Pack | table }}
+|data-sort-value="17"   | {{Instrument| Vessel Flute | table }}
+|data-sort-value="999" |
+|-
+! [[Journey Pack]]
+| [[Premium Candle Shop|IAP]]
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="80" | {{Icon| Journey-Pack-Mask-icon-Morybel-0146.png | link=Journey Pack | table }}
+|data-sort-value="999" |
+|data-sort-value="105" | {{Icon| Journey-Pack-Hairstyle-icon-Morybel-0146.png | link=Journey Pack | table }}
+|data-sort-value="33" | {{Icon| Journey-Pack-Cape-Icon-Morybel-0146.png | link=Journey Pack | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|-
+! [[Pointing Candlemaker]]
+| [[Isle]]
+|data-sort-value="2"   | {{Emote | Pointing Candlemaker | table }}
+|data-sort-value="5"   | {{Spirit Item | Pointing Candlemaker | Outfit | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="1"   | {{Spirit Item | Pointing Candlemaker | Hair | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|-
+! [[Ushering Stargazer]]
+| [[Isle]]
+|data-sort-value="3"   | {{Emote | Ushering Stargazer | table }}
+|data-sort-value="6"   | {{Spirit Item | Ushering Stargazer| Outfit | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="2"   | {{Spirit Item | Ushering Stargazer | Hair | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|-
+! [[Rejecting Voyager]]
+| [[Isle]]
+|data-sort-value="4"   | {{Emote | Rejecting Voyager | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="0"   | {{Spirit Item | Rejecting Voyager | facepiece | table }}
+|data-sort-value="3"   | {{Spirit Item | Rejecting Voyager | Hair | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|-
+! [[Butterfly Charmer]]
+| [[Prairie]]
+|data-sort-value="8"   | {{Emote | Butterfly Charmer | table }}
+|data-sort-value="4"   | {{Spirit Item | Butterfly Charmer | Outfit | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="4"   | {{Spirit Item | Butterfly Charmer | Cape | table }}{{Spirit Item | Butterfly Charmer | Tier 2 Cape | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|-
+! [[Applauding Bellmaker]]
+| [[Prairie]]
+|data-sort-value="9"   | {{Emote | Applauding Bellmaker | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="6"   | {{Spirit Item | Applauding Bellmaker | Hair | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|-
+! [[Waving Bellmaker]]
+| [[Prairie]]
+|data-sort-value="10"  | {{Emote | Waving Bellmaker | table }}
+|data-sort-value="999" |
+|data-sort-value="2"   | {{Spirit Item | Waving Bellmaker | Mask | table }}
+|data-sort-value="999" |
+|data-sort-value="4"   | {{Spirit Item | Waving Bellmaker | Hair | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|-
+! [[Laughing Light Catcher]]
+| [[Prairie]]
+|data-sort-value="11"  | {{Emote | Laughing Light Catcher | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="21"  | {{Spirit Item | Laughing Light Catcher | Hair | table }}
+|data-sort-value="999" |
+|data-sort-value="0"   | {{Spirit Item | Laughing Light Catcher | Instrument | table }}
+|data-sort-value="999" |
+|-
+! [[Slumbering Shipwright]]
+| [[Prairie]]
+|data-sort-value="12"  | {{Emote | Slumbering Shipwright | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="5"   | {{Spirit Item | Slumbering Shipwright | Hair | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|-
+! [[Exhausted Dock Worker]]
+| [[Prairie]]
+|data-sort-value="13"  | {{Emote | Exhausted Dock Worker | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="1"   | {{Spirit Item | Exhausted Dock Worker | facepiece | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|-
+! [[Ceremonial Worshiper]]
+| [[Prairie]]
+|data-sort-value="14"  | {{Emote | Ceremonial Worshiper | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|-
+! [[Bird Whisperer]]
+| [[Prairie]]
+|data-sort-value="202" | {{Emote | Bird Whisperer | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="22"  | {{Spirit Item | Bird Whisperer | Hair | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="1"   | {{Music Sheet | Bird Whisperer | table }}
+|-
+! [[Shivering Trailblazer]]
+| [[Forest]]
+|data-sort-value="19"  | {{Emote | Shivering Trailblazer | table }}
+|data-sort-value="1"   | {{Spirit Item | Shivering Trailblazer | Outfit | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="23"  | {{Spirit Item | Shivering Trailblazer | Hair | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|-
+! [[Hide'n'Seek Pioneer]]
+| [[Forest]]
+|data-sort-value="20"  | {{Emote | Hide'n'Seek Pioneer | table }}
+|data-sort-value="8"   | {{Spirit Item | Hide'n'Seek Pioneer | Outfit | table }}
+|data-sort-value="1"   | {{Spirit Item | Hide'n'Seek Pioneer | Mask | table }}
+|data-sort-value="999" |
+|data-sort-value="9"   | {{Spirit Item | Hide'n'Seek Pioneer | Hair | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|-
+! [[Pouty Porter]]
+| [[Forest]]
+|data-sort-value="21"  | {{Emote | Pouty Porter | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="10"  | {{Spirit Item | Pouty Porter | Hair | table }}
+|data-sort-value="7"   | {{Spirit Item | Pouty Porter | Cape | table }}{{Spirit Item | Pouty Porter | Tier_2_cape | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|-
+! [[Blushing Prospector]]
+| [[Forest]]
+|data-sort-value="22"  | {{Emote | Blushing Prospector | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="11"  | {{Spirit Item | Blushing Prospector | Hair | table }}
+|data-sort-value="999" |
+|data-sort-value="18"   | {{Spirit Item | Blushing Prospector | Instrument | table }}
+|data-sort-value="999" |
+|-
+! [[Dismayed Hunter]]
+| [[Forest]]
+|data-sort-value="23"  | {{Emote | Dismayed Hunter | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="24"  | {{Spirit Item | Dismayed Hunter | Hair | table }}
+|data-sort-value="9"   | {{Spirit Item | Dismayed Hunter | Cape | table }}{{Spirit Item | Dismayed Hunter | Tier_2_cape | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|-
+! [[Apologetic Lumberjack]]
+| [[Forest]]
+|data-sort-value="24"  | {{Emote | Apologetic Lumberjack | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="2"   | {{Spirit Item | Apologetic Lumberjack | facepiece | table }}
+|data-sort-value="8"   | {{Spirit Item | Apologetic Lumberjack | Hair | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|-
+! [[Tearful Light Miner]]
+| [[Forest]]
+|data-sort-value="25"  | {{Emote | Tearful Light Miner | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="7"   | {{Spirit Item | Tearful Light Miner | Hair | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|-
+! [[Whale Whisperer]]
+| [[Forest]]
+|data-sort-value="203" | {{Emote | Whale Whisperer | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="2"   | {{Music Sheet | Whale Whisperer | table }}
+|-
+! [[Handstanding Thrillseeker]]
+| [[Valley]]
+|data-sort-value="32"  | {{Emote | Handstanding Thrillseeker | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="10"  | {{Spirit Item | Handstanding Thrillseeker | Cape | table }}{{Spirit Item | Handstanding Thrillseeker | Tier_2_cape | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|-
+! [[Backflipping Champion]]
+| [[Valley]]
+|data-sort-value="33"  | {{Emote | Backflipping Champion | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="4"   | {{Spirit Item | Backflipping Champion | facepiece | table }}
+|data-sort-value="26"  | {{Spirit Item | Backflipping Champion | Hair | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|-
+! [[Bowing Medalist]]
+| [[Valley]]
+|data-sort-value="34"  | {{Emote | Bowing Medalist | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="3"   | {{Spirit Item | Bowing Medalist | facepiece | table }}
+|data-sort-value="25"  | {{Spirit Item | Bowing Medalist | Hair | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|-
+! [[Cheerful Spectator]]
+| [[Valley]]
+|data-sort-value="35"  | {{Emote | Cheerful Spectator | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="27"  | {{Spirit Item | Cheerful Spectator | Hair | table }}
+|data-sort-value="999" |
+|data-sort-value="9"   | {{Spirit Item | Cheerful Spectator | Instrument | table }}
+|data-sort-value="999" |
+|-
+! [[Confident Sightseer]]
+| [[Valley]]
+|data-sort-value="103" | {{Emote | Confident Sightseer | table }}
+|data-sort-value="7"   | {{Spirit Item | Confident Sightseer | Outfit | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="12"  | {{Spirit Item | Confident Sightseer | Hair | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|-
+! [[Proud Victor]]
+| [[Valley]]
+|data-sort-value="105" | {{Emote | Proud Victor | table }}
+|data-sort-value="999" |
+|data-sort-value="81"  | {{Spirit Item | Proud Victor | Mask | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="5"   | {{Spirit Item | Proud Victor | Cape | table }}{{Spirit Item | Proud Victor | Tier_2_cape | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|-
+! [[Manta Whisperer]]
+| [[Valley]]
+|data-sort-value="204" | {{Emote | Manta Whisperer | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="3"   | {{Music Sheet | Manta Whisperer | table }}
+|-
+! [[Frightened Refugee]]
+| [[Wasteland|Waste&shy;land]]
+|data-sort-value="46"  | {{Emote | Frightened Refugee | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="13"  | {{Spirit Item | Frightened Refugee | Hair | table }}
+|data-sort-value="999" |
+|data-sort-value="2"   | {{Spirit Item | Frightened Refugee | Instrument | table }}
+|data-sort-value="999" |
+|-
+! [[Fainting Warrior]]
+| [[Wasteland|Waste&shy;land]]
+|data-sort-value="47"  | {{Emote | Fainting Warrior | table }}
+|data-sort-value="999" |
+|data-sort-value="74"  | {{Spirit Item | Fainting Warrior | Mask | table }}
+|data-sort-value="999" |
+|data-sort-value="15"  | {{Spirit Item | Fainting Warrior | Hair | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|-
+! [[Lookout Scout]]
+| [[Wasteland|Waste&shy;land]]
+|data-sort-value="49"  | {{Emote | Lookout Scout | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="5"   | {{Spirit Item | Lookout Scout | facepiece | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="13"   | {{Spirit Item | Lookout Scout | Instrument | table }}
+|data-sort-value="999" |
+|-
+! [[Saluting Captain]]
+| [[Wasteland|Waste&shy;land]]
+|data-sort-value="50"  | {{Emote | Saluting Captain | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="17"  | {{Spirit Item | Saluting Captain | Hair | table }}
+|data-sort-value="999" |
+|data-sort-value="24"   | {{Spirit Item | Saluting Captain | Prop | table }}
+|data-sort-value="999" |
+|-
+! [[Courageous Soldier]]
+| [[Wasteland|Waste&shy;land]]
+|data-sort-value="102" | {{Emote | Courageous Soldier | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="14"  | {{Spirit Item | Courageous Soldier | Hair | table }}
+|data-sort-value="6"   | {{Spirit Item | Courageous Soldier | Cape | table }}{{Spirit Item | Courageous Soldier | Tier_2_cape | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|-
+! [[Stealthy Survivor]]
+| [[Wasteland|Waste&shy;land]]
+|data-sort-value="104" | {{Emote | Stealthy Survivor | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="16"  | {{Spirit Item | Stealthy Survivor | Hair | table }}
+|data-sort-value="11"  | {{Spirit Item | Stealthy Survivor | Cape | table }}{{Spirit Item | Stealthy Survivor | Tier_2_cape | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|-
+! [[Levitating Adept]]
+| [[Vault]]
+|data-sort-value="58"  | {{Emote | Levitating Adept | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="6"   | {{Spirit Item | Levitating Adept | facepiece | table }}
+|data-sort-value="18"  | {{Spirit Item | Levitating Adept | Hair | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|-
+! [[Meditating Monastic]]
+| [[Vault]]
+|data-sort-value="59"  | {{Emote | Meditating Monastic | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="19"  | {{Spirit Item | Meditating Monastic | Hair | table }}
+|data-sort-value="999" |
+|data-sort-value="100" | {{Spirit Item | Meditating Monastic | Prop | table }}
+|data-sort-value="999" |
+|-
+! [[Praying Acolyte]]
+| [[Vault]]
+|data-sort-value="60"  | {{Emote | Praying Acolyte | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="20"  | {{Spirit Item | Praying Acolyte | Hair | table }}
+|data-sort-value="8"   | {{Spirit Item | Praying Acolyte | Cape | table }}{{Spirit Item | Praying Acolyte | Tier_2_cape | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|-
+! [[Polite Scholar]]
+| [[Vault]]
+|data-sort-value="106" | {{Emote | Polite Scholar | table }}
+|data-sort-value="2"   | {{Spirit Item | Polite Scholar | Outfit | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="106" | {{Spirit Item | Polite Scholar | Hair | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|-
+! [[Memory Whisperer]]
+| [[Vault]]
+|data-sort-value="205" | {{Emote | Memory Whisperer | table }}
+|data-sort-value="3"   | {{Spirit Item | Memory Whisperer | Outfit | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="999" |
+|data-sort-value="12"  | {{Spirit Item | Memory Whisperer | Cape | table }}{{Spirit Item | Memory Whisperer | Tier_2_cape | table }}
+|data-sort-value="999" |
+|data-sort-value="999" |
+|}
+
+[[de:Reguläre Geister/Kosmetika]]
+[[pt-br:Espíritos Regulares/Cosméticos]]
+[[ja:恒常精霊/ドレスアップアイテム]]
+[[fr:Esprits Réguliers/Cosmétiques]]
+
+[[Category:Regular Spirits]]
+[[Category:Cosmetics]]

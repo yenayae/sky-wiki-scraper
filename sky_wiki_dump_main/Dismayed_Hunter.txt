@@ -1,0 +1,113 @@
+{{Spirit Infobox
+|type      = Regular
+|emote_type= Emote
+|image     = <gallery>
+Forest-Spirit-Dismayed-Hunter.png|Standard
+Forest-Spirit-Dismayed-Hunter-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Hair|infobox}}{{Spirit Item||Cape|infobox}}{{Spirit Item||Tier 2 Cape|infobox}}
+|realm     = Hidden Forest
+|location  = Boneyard
+}}
+<section begin="Summary" />The '''Dismayed Hunter''' is a [[Regular Spirit]] in [[Hidden Forest]] who offers the {{Emote|Dismayed Hunter|inline_text}} Expression. The Dismayed Hunter is found in [[Boneyard]], under a ledge to the right after entering the area from [[Forest's Brook]]. (Early [[Sky Beta|Beta]] testers know this area as [[Tree Tunnels|"Tree Tunnels".]]) The collectibles [[Dismayed Hunter#Friendship Tree|offered]] by this Spirit are a {{Spirit Item|Dismayed Hunter|Hair|inline_text}} and two tiers ({{Spirit Item|Dismayed Hunter|Cape}} {{Spirit Item|Dismayed Hunter|Tier 2 Cape}}) of a [[Dismayed Hunter#Cape|Cape]].<section end="Summary" /><br>
+<br>
+[[File:Dismayed-Hunter-Guide-777-Ed.png|320x320px|thumb|none|Image Guide by 777.Ed]]
+
+==Memory==
+<div>{{#ev:youtube|https://www.youtube.com/watch?v=5DNs9K-zeeI|||Video Guide by Tara||start=825&end=903&loop=1}}
+<br>
+The Dismayed Hunter can be found in [[Boneyard]], under a ledge to the right after entering the area from [[Forest's Brook]]. (Early [[Sky Beta|Beta]] testers know this area as [[Tree Tunnels|"Tree Tunnels".]]) This Spirit is a [[Standard Memory|standard memory]] quest with 4 memory fragments and an unlimited overall [[Timed Memory|time limit]]. All of the memory fragments are [[Spirit Health|sheltered]] from the [[Flora,_Minerals_and_Elements_of_Sky#Rain|rain]].
+
+As their memory unfolds, the Dismayed Hunter is seen stalking through the hollow tree tunnels with a bow in hand, seemingly in an attempt to hunt. The Spirit then pauses to take aim at an unseen entity but ends up losing sight of their prey.
+
+At the end of the memory, the Dismayed Hunter stands at the end of the tree tunnels and clutches their head as they glance around, distraught by their failed hunting attempt.<br>
+<br>
+[[File:02 HF Spirit - Dismayed Hunter.png|200px|thumb|none|Relive the Dismayed Hunter's memory]]
+</div>
+{{Clear}}
+
+==Expression==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.<br>
+<br>
+[[File:{{Icon Name||Emote}}|170px|left]]
+<gallery heights="125" captionalign="center">
+Dismayed-Hunter-shocked-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Dismayed-Hunter-shocked-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Dismayed-Hunter-shocked-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Dismayed-Hunter-shocked-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+* Level 1 will make your avatar raise both hands to their head and glace around in a distressed manner.
+* Level 2 makes the same motion as Level 1 with a blue glow around your avatar's head.
+* Level 3 will make your avatar lean back, cover their mouth with both hands, and step back with shock.
+* Level 4 makes the same motion as Level 3 with sparkles following your avatar's hands and an exclamation mark above their head.
+
+The prices of the three Expression upgrades are {{Cost|3 C}}, {{Cost|5 C}}, and {{Cost|5 C}}. Levels 3 and 4 are only available after unlocking the Spirit's first [[Wing Buff]].
+
+==Cosmetics==
+===Hair===
+The [[Hair]] offered by this Spirit is a pair of fluffy pigtails, costing {{Heart|5}}. It is permanently available to all players after unlocking the Friendship Tree's second node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair front
+{{Icon Name||Hair|side}} {{!}} The Hair side
+{{Icon Name||Hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Cape===
+The Dismayed Hunter offers two standard-style purple [[Capes]]; a Tier 1 and a [[Tier 2 Cape|Tier 2]] version, costing {{Cost|30 H}} and {{Cost|90 H}} respectively. Both are permanently available to all players after unlocking the Friendship Tree's fifth node and second [[Wing Buff]] respectively.
+
+The Tier 2 Cape (and the second Wing Buff that unlocks it) are not needed to complete the Hidden Forest [[Constellation]]. These were both added to the Friendship Tree in Patch {{v|0.13.0}} on March 16, 2021.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape}} {{!}} The Tier 1 Cape icon
+{{Icon Name||Cape|front}} {{!}} The Tier 1 Cape front
+{{Icon Name||cape|interior}} {{!}} The Tier 1 Cape interior
+{{Icon Name||cape|back}} {{!}} The Tier 1 Cape back
+|widths=125|captionalign=center|spacing=small
+}}
+
+{{#tag:gallery
+|{{Icon Name||Tier 2 Cape}} {{!}} The Tier 2 Cape icon
+{{Icon Name||Tier 2 Cape|front}} {{!}} The Tier 2 Cape front
+{{Icon Name||Tier 2 Cape|interior}} {{!}} The Tier 2 Cape interior
+{{Icon Name||Tier 2 Cape|real}} {{!}} The Tier 2 Cape back
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Friendship Tree==
+{{Friendship Tree Info | regular}}
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Dismayed Hunter
+|image  = Forest-Spirit-Dismayed-Hunter.png
+
+|nodeC8 = tier_2_cape 90 H BONUS
+|nodeC7 = wing 9 AC BONUS
+|nodeC6 = cape 30 H
+|nodeC5 = spell5
+|nodeL4 = emote4 5 C
+|nodeC4 = emote3 5 C
+|nodeC3 = wing 3 AC
+|nodeL2 = hair 5 H
+|nodeC2 = spell1
+|nodeR2 = heart
+|nodeL1 = emote2 3 C
+|nodeC1 = emote
+}}<section end="Friendship Tree" />
+
+==Unique Daily Quests==
+{{#section-h:Quests/Daily Quest Spirits|{{PAGENAME}}}}
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Emote Loc-Hands to head.png
+</gallery>
+
+==References==
+<references />
+
+[[de:Bestürzte Jägerin]]
+[[pt-br:Caçadora Desmaiada]]
+[[fr:Chasseuse consternée]]

@@ -1,0 +1,61 @@
+{{Location
+|image      = Forest Treehouse1.png
+|realm      = Hidden Forest
+|access     = [[Forest Clearing]], [[Forest's Brook]], [[Tree Tunnels]]
+|season     = Assembly
+|seasonal_spirits  = 0
+|children_of_light = 2 {{Icon|Map-Shrine-flashing-Star-WL-indicator.png|link=Children of Light#{{{title|{{PAGENAME}}}}}}}
+|pieces_of_light   = 55 {{Cost|L}}
+}}
+<section begin="Quote" />{{Quote|<br>'''''A secret hideaway in the making.'''''|The Treehouse Opening}}<section end="Quote" />
+
+<section begin="Summary" />'''The Treehouse''' is a Seasonal area added to [[Hidden Forest]], introduced along with the [[Season of Assembly]] in [[Version History#0.13.0|Patch 0.13.0]]. All the Quests, Spirits, and activities are not found in this area. To enter The Treehouse, dive down from the Social Space until a gate on the right side of the tunnel is seen. This entrance is blocked by a Spirit Gate requiring 1 Regular [[Valley]] Spirit. The activities are usually found nearby the three smaller treehouses in Forest Clearing, Forest's Brook, and Tree Tunnels. Each of these treehouses are connected with The Treehouse area through passages which are unlocked through doing Quests given by the [[Assembly Guide]]. There are 6 Seasonal Spirits spread through each mini treehouse, which upon completing, will give you their unique [[Expression]].<section end="Summary" />
+
+__TOC__
+{{Clear}}
+==Overview==
+{{Quote|<br>'''''A home away from home.'''''|Restored Treehouse Opening}}
+<section begin="Overview" />The Treehouse is a large broken tree with echoes of nostalgia. A [https://sky-children-of-the-light.fandom.com/wiki/Map_Shrines?file=Forest-Main-Treehouse-Map-Shrine.jpg Map Shrine] can be found utop the tree. The quickest way to enter The Treehouse from the spawn point in [[Hidden Forest]] is through a gate to the right side of the cloud tunnel, which requires one [[Valley of Triumph]] spirit to open. The other entrances are:
+
+*A tunnel by the treehouse in the [[Forest Clearing]], to the left just before the entrance to the river (requires First Seasonal Quest to be completed).
+*A tunnel inside the treehouse in the [[Forest's Brook]], to the left and on an elevation above the [[Blushing Prospector]] (requires Second Seasonal Quest to be completed).
+* A tunnel by the treehouse in the Tree Tunnels/[[Boneyard]], on the upper elevation to the right of the entrance via [[Forest's Brook]] (requires Third Seasonal Quest to be completed).
+
+The [[Assembly Guide]], located within the tree, will embark you on 6 quests - each one is tied to a respective Seasonal Spirit and a respective Prop. Once you complete the quest, that Prop will be added as an element to the Treehouse area and available to buy from the Guide. Completing all 6 Assembly Quests transforms the area into a cozy and harmonious space decorated with swings, scattered floating hoops and a Shared Space as spirits roam the area.<section end="Overview" />
+===Child of Light Locations===
+There are 2 Children of Light in The Treehouse area:
+{{#lst:Children of Light|Treehouse Children}}
+
+==Activities==
+===Assembly Quests===
+<div style="float:right">{{Mobile Tabber|textonly=1
+|tab1 = 1
+|c1   = <div> {{#ev:youtube|SZcdqqLAqqA|300|right}} </div>
+|tab2 = 2
+|c2   = <div> {{#ev:youtube|-P4MA_oXlcs|300|right}} </div>
+|tab3 = 3
+|c3   = <div> {{#ev:youtube|TkoVd5LOzwE|300|right}} </div>
+|tab4 = 4
+|c4   = <div> {{#ev:youtube|e0p8e5Ckkts|300|right}} </div>
+|tab5 = 5
+|c5   = <div> {{#ev:youtube|tPnY0a_U6Mc|300|right}} </div>
+|tab6 = 6
+|c6   = <div> {{#ev:youtube|GHZz4GpOmcE|300|right}} </div>
+}}</div>
+In the Treehouse, Seasonal Quests from [[Season of Assembly]] are available to complete, a series of scavenger hunts to gather the perfect items to improve the Treehouse. There are 6 total quests to do, being able to complete solo and aren’t timed and increasing in difficulty as more aid and collaboration is required. Players must gather fragments of various props to assemble them back in the mini treehouses. Each quest will further decorate the Treehouse area. The quests can be begun from the Treehouse area, however the location will be in other mini treehouses of the [[Hidden Forest]], and can be replayed in the respective treehouses.
+{{Clear}}
+
+===Shared Space===
+Within the Treehouse after the [[Season of Assembly#Quest #6|Assembly Quest #6]] has been completed, a Shared Space found behind the treehouse can be found to decorate with [[Props]]. You can have up to 16 props available at a time on your Shared Space, but can be much less depending on the "load" of the props as determined by how much the top bar fills up. Once a prop is in use, it will stay where you left it as long as you don't move it or remove it. The items are sorted by how much "load” they use in a Shared Space, listed from left to right.
+
+== Trivia ==
+
+* The Treehouse is a unique Seasonal area as none of the spirits from [[Season of Assembly]] can be found within the area. Instead, all six Seasonal spirits can be found at the three smaller treehouses scattered across the [[Hidden Forest]]. There are two seasonal spirits per treehouse. 
+
+{{RealmsNav}}
+
+[[fr:La Cabane dans les Arbres]]
+[[pt-br:Casa da Árvore]]
+[[ja:ツリーハウス]]
+
+[[Category:Hidden Forest]]

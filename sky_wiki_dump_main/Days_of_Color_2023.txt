@@ -1,0 +1,365 @@
+{{SkyEvent
+| image = Days-of-Color-2023.jpg
+| previousevent = [[Days of Color/2022|2022]]
+| nextevent = [[Days of Color/2024|2024]]
+| date = June 1 to June 14, 2023
+| years = {{#lst:Days of Color|Color Years}}
+}}
+Starting with this year, Days of Rainbow was '''renamed''' to "Days of Color". The most colorful time of Sky’s year began on '''Thursday, June 1, 2023 at 00:00 PDT (UTC-7)''' and ran until  '''Wednesday, June 14, 2023 at 23:59 PDT (UTC-7)''', lasting '''14''' days. The Days of Color Guide arrived in [[Home]] for the duration of the event, and offered to teleport players to where the main festivities were held: the [[Eight-Player Puzzle Area|secretive area]] high above Daylight Prairie, expanded specially for the occasion.
+
+Once in the event area, players with the corresponding [[Cape]] color could charge the eight colorful platforms (which became available one by one each day of the event). From the eighth day onward, all of the platforms could be charged with the aid of other players. For help with Cape colors, use the [[Capes#Available Capes|Available Capes table on the Capes page]]. Once all of them were charged, a cutscene would play showing that the center of the puzzle has activated, forming a large stream of light which propelled players to the floating islands above, along with making the beams generate colorful wax.
+
+===Ticket Locations===
+[[File:Days-of-Color-bubble-ticket.png|125px|thumb|A Days of Color bubble Ticket]]
+[[File:DaysOfColorTicketsRotations-by-Ely.jpg|thumb|200x200px|2023 Ticket Locations by Ely]]
+Beginning with this event, a new currency was introduced in the form of "Event Currency", which are used to purchase event-exclusive items. (''For more detailed information, see the [[Currency#Event Currency|Currency]] page.'') The total number of bubble-shaped Tickets available each day varied:
+
+*Every day:
+**{{Cost|4 T|event=color}} hidden throughout the [[Eight-Player Puzzle Area]] in Daylight Prairie (see visual guide)
+**{{Cost|4 T|event=color}} from completing the rainbow puzzle in the event area, by activating all the available color bridges
+
+*Days with a [[Quests#Days of Color|Rainbow Daily Quest]]:
+**{{Cost|4 T|event=color}} at the end of the Daily Quest rainbow
+
+*Weekends (Friday - Sunday):
+**{{Cost|2 T|event=color}} next to the [[Timing System#In-Game Clocks|Rainbow Clock]] in Hidden Forest
+
+Exclusively on weekends (Friday - Sunday), players could also buy up to 7 additional Tickets (costing {{Cost|2 AC|event=color}} each) from the Color Gift Box next to the Color Guides in the event area.{{Clear|right}}
+
+{| class="article-table mw-collapsible mw-collapsed" style="float:right; text-align:center;"
+! style="text-align:center" colspan="4" | Ticket Rotations and Bonus Bubble Locations
+|-
+! Date
+! Rotation
+! style="text-align:center"| Bonus Bubble Locations
+! Daily Total
+|-
+| 
+| 
+| 
+| {{Cost|{{#vardefineecho:D0|8}} T|event=color}}<ref>Bonus Ticket added to total on June 6, 2023. The total number of Event Currency intended to be available during the event was affected by a bug. To offset that bug, TGC added 8 Event Currency to the inventory of all players who logged in during Days of Color. </ref>
+|-
+| June 1, 2023
+| A
+| None
+| {{Cost|{{#vardefineecho:D1|8}} T|event=color}}
+|-
+| June 2, 2023
+| B
+| Rainbow Clock ([[Forest's Brook]])
+| {{Cost|{{#vardefineecho:D2|10}} T|event=color}}
+|-
+| June 3, 2023
+| C
+| Rainbow Clock ([[Forest's Brook]])<br>Daily Quest Rainbow ([[Prairie Caves]])
+| {{Cost|{{#vardefineecho:D3|14}} T|event=color}}
+|-
+| June 4, 2023
+| A
+| Rainbow Clock ([[Forest's Brook]])<br>Daily Quest Rainbow ([[Forest Clearing]])
+| {{Cost|{{#vardefineecho:D4|14}} T|event=color}}
+|-
+| June 5, 2023
+| B
+| None
+| {{Cost|{{#vardefineecho:D5|8}} T|event=color}}
+|-
+| June 6, 2023
+| C
+| None
+| {{Cost|{{#vardefineecho:D6|8}} T|event=color}}
+|-
+| June 7, 2023
+| A
+| None
+| {{Cost|{{#vardefineecho:D7|8}} T|event=color}}
+|-
+| June 8, 2023
+| B
+| Daily Quest Rainbow ([[Prairie Caves]])
+| {{Cost|{{#vardefineecho:D8|12}} T|event=color}}
+|-
+| June 9, 2023
+| C
+| Rainbow Clock ([[Forest's Brook]])<br>Daily Quest Rainbow ([[Forest Clearing]])
+| {{Cost|{{#vardefineecho:D9|14}} T|event=color}}
+|-
+| June 10, 2023
+| A
+| Rainbow Clock ([[Forest's Brook]])
+| {{Cost|{{#vardefineecho:D10|10}} T|event=color}}
+|-
+| June 11, 2023
+| B
+| Rainbow Clock ([[Forest's Brook]])
+| {{Cost|{{#vardefineecho:D11|10}} T|event=color}}
+|-
+| June 12, 2023
+| C
+| None
+| {{Cost|{{#vardefineecho:D12|8}} T|event=color}}
+|-
+| June 13, 2023
+| A
+| Daily Quest Rainbow ([[Sanctuary Islands]])
+| {{Cost|{{#vardefineecho:D13|12}} T|event=color}}
+|-
+| June 14, 2023
+| B
+| Daily Quest Rainbow ([[Forest Clearing]])
+| {{Cost|{{#vardefineecho:D14|12}} T|event=color}}
+|-
+! colspan="3" style="text-align:center;" | Total so far
+! style="text-align:center;" | {{Cost|{{#expr: ({{#var:D0}} +{{#var:D1}} + {{#var:D2}} + {{#var:D3}} + {{#var:D4}} + {{#var:D5}} + {{#var:D6}} + {{#var:D7}} + {{#var:D8}} + {{#var:D9}} + {{#var:D10}} + {{#var:D11}} + {{#var:D12}} + {{#var:D13}} + {{#var:D14}}) }} T|event=color}}
+|}
+{{Friendship Tree
+|label   = Days of Color Guide
+|event = Days of color
+|image = Days-of-color-Guide-2023.png
+
+|nodeC4 = {{Icon Name|Dark Rainbow Cape|icon}} 104 T
+|  labelC4 = {{Icon Name|Dark Rainbow Cape|name}}
+|  linkC4  = Days of Color/2023#{{Icon Name|Dark Rainbow Cape|name}}
+
+|nodeL3 = {{Icon Name|Rainbow Cape|icon}} 175 C
+|  labelL3 = {{Icon Name|Rainbow Cape|name}}
+|  linkL3 = Days of Color/2021#{{Icon Name|Rainbow Cape|name}}
+|nodeC3 = trail_spell 5 C
+|nodeR3 = {{Icon Name|Rainbow Trousers|icon}} 95 C
+|  labelR3 = {{Icon Name|Rainbow Trousers|name}}
+|  linkR3 = Days of Color/2022#{{Icon Name|Rainbow Trousers|name}}
+
+|nodeL2 = {{Icon Name|Rainbow Braid|icon}} 20 H
+|  labelL2 = {{Icon Name|Rainbow Braid|name}}
+|  linkL2 = Days of Color/2021#{{Icon Name|Rainbow Braid|name}}
+|nodeC2 = trail_spell 5 C
+
+|nodeC1 = Icon_warp.png
+|  labelC1 = Teleport to Eight-Player Puzzle Area
+|  linkC1  = Eight-Player Puzzle Area
+}}{{Clear}}
+
+===Cape Color Categorization===
+<!-- image of the color puzzle -->
+Across the two weeks of the event, players can participate in a puzzle involving [[Cape]] colors in the [[Eight-Player Puzzle Area]]. Fully charge the bridges of light surrounding the elevator platform by wearing a Cape that matches their color and standing next to their representative [[Spirits]]. Players can use the nearby Cape [[Cosmetics#Outfit Shrines|Outfit Shrine]] to quickly change their equipped Cape or take a dip in the area's special geyser to receive a random Cape [[Spell]].
+
+The table below<ref name="Color data credit">The information in this table was gathered with the help of {{Userlinks|99rene}}, {{Userlinks|Ghostingskies}}, {{Userlinks|KaiStar1012}}, {{Userlinks|M30WZ the robot}}, {{Userlinks|Morybel}}, {{Userlinks|Owishy}}, {{Userlinks|Raiiiiiiiiiiiin}}, {{Userlinks|Ray808080}}, and {{Userlinks|Rubikium}}.</ref> lists all the Capes available at the time of the event and which color they activate for the rainbow puzzle.
+
+{| class="article-table mw-collapsible mw-collapsed" style="width: 100%"
+! style="text-align:center" colspan="3" | '''All Capes and Color Categories'''
+|-
+! Color
+! Num
+! style="text-align:center;" | Capes
+|-
+| Red 
+| 13
+| {{Spirit Item| Proud Victor | cape | table }}<!--
+-->{{Spirit Item| Proud Victor | tier_2_cape | table | label=Proud Victor Tier 2 Cape }}<!--
+-->{{Spirit Item| Confetti Cousin | Cape | table }}<!--
+-->{{Spirit Item| Peeking Postman | Cape | table }}<!--
+-->{{Spirit Item| Spinning Mentor | Cape | table }}<!--
+-->{{Spirit Item| Dreams Guide | cape_u | table }}<!--
+-->{{Spirit Item| Abyss Guide | cape_u | table }}<!--
+-->{{Spirit Item| Mellow Musician | Cape | table }}<!--
+-->{{Spirit Item| Feudal Lord | Cape | table }}<!--
+-->{{Days Item| Days of Fortune Cape | | table }}<!--
+-->{{Days Item| Mischief Crabula Cloak | | table }}<!--
+-->{{Days Item| Santa Cape | | table }}<!--
+-->{{Icon| Icon_cape_nintendo_red-Morybel-0146.png | table | link=Nintendo Pack | label=Red Switch Cape }}
+|-
+| Orange 
+| 11
+| {{Spirit Item| Base | Cape | table | link=Capes#Base Cape | label=Base Cape }}<!--
+-->{{Spirit Item| Stretching Guru | Cape | table }}<!--
+-->{{Spirit Item| Chill Sunbather | Cape | table }}<!--
+-->{{Spirit Item| Ceasing Commodore | Cape | table }}<!--
+-->{{Spirit Item| Forgetful Storyteller | Cape | table }}<!--
+-->{{Spirit Item| AURORA | cape_g | table | link=AURORA Concert#Giving In Cape | label=Giving In Cape }}<!--
+-->{{Days Item| Fortune Fish Cape | | table }}<!--
+-->{{Days Item| Red Bloom Cape | | table }}<!--
+-->{{Days Item| Withered Cape | | table }}<!--
+-->{{Days Item| Sparrow Cape | | table }}<!--
+-->{{Icon| Journey-Pack-Cape-Icon-Morybel-0146.png | table | link=Journey Pack | label=Journey Cape }}
+|-
+| Yellow 
+| 23
+| {{Icon| Icon_cape_orange-Morybel-0146.png | table | link=Starter Pack| label=Starter Cape }}<!--
+-->{{Spirit Item| Butterfly Charmer | Cape | table }}<!--
+-->{{Spirit Item| Butterfly Charmer | Tier_2_Cape | table | label=Butterfly Charmer Tier 2 Cape }}<!--
+-->{{Spirit Item| Snoozing Carpenter | Cape | table }}<!--
+-->{{Spirit Item| Playfighting Herbalist | Cape | table }}<!--
+-->{{Spirit Item| Timid Bookworm | cape | table }}<!--
+-->{{Spirit Item| Dancing Performer | Cape | table }}<!--
+-->{{Spirit Item| Assembly Guide | cape_u | table  }}<!--
+-->{{Spirit Item| Little Prince | cape_s | table | link=Season of The Little Prince#Little Prince Scarf Cape | label=Little Prince Scarf Cape }}<!--
+-->{{Spirit Item| Lively Navigator | Cape | table }}<!--
+-->{{Spirit Item| Seed of Hope | cape | table }}<!--
+-->{{Spirit Item| AURORA | cape_w | table | link=AURORA Concert#Wings of AURORA | label=Wings of AURORA }}<!--
+-->{{Spirit Item| Wounded Warrior | cape | table }}<!--
+-->{{Spirit Item| Tiptoeing Tea-Brewer | cape | table }}<!--
+-->{{Spirit Item| Tumbling Troublemaker | cape | table }}<!--
+-->{{Spirit Item| Reassuring Ranger | cape | table }}<!--
+-->{{Spirit Item| Echo of an Abandoned Refuge | cape | table }}<!--
+-->{{Spirit Item| Hopeful Steward | cape_u | table }}<!--
+-->{{Spirit Item| Spirit of Mural | cape_u | table }}<!--
+-->{{Spirit Item| Princess | cape | table }}<!--
+-->{{Spirit Item| Hunter | cape | table }}<!--
+-->{{Days Item| Yellow Towel Cape | | table }}<!--
+-->{{Days Item| Moth Cape | | table }}
+|-
+| Green 
+| 9
+| {{Spirit Item| Courageous Soldier | cape | table }}<!--
+-->{{Spirit Item| Courageous Soldier | tier_2_cape | table | label=Courageous Soldier Tier 2 Cape }}<!--
+-->{{Spirit Item| Scolding Student | Cape | table }}<!--
+-->{{Spirit Item| Little Prince | cape_a | table | link=Season of The Little Prince#Little Prince Asteroid Jacket | label=Little Prince Asteroid Jacket }}<!--
+-->{{Spirit Item| Cackling Cannoneer | Cape | table }}<!--
+-->{{Spirit Item| Mindful Miner | cape | table }}<!--
+-->{{Spirit Item| Bereft Veteran | cape | table }}<!--
+-->{{Days Item| Bloom Arum Petal Cape | | table }}<!--
+-->{{Days Item| Earth Cape | | table }}
+|-
+| Teal 
+| 13
+| {{Icon| Beta-cape-Morybel-0146.png | table | link=Beta Cape| label=Beta Cape }}<!--
+-->{{Icon| Icon_cape_tgc_b-Morybel-0146.png | table | link=Founder's Pack | label=Founder's Cape }}<!--
+-->{{Spirit Item| Pouty Porter | cape | table }}<!--
+-->{{Spirit Item| Pouty Porter | tier_2_cape | table | label=Pouty Porter Tier 2 Cape }}<!--
+-->{{Spirit Item| Ancient Darkness | Cape | table  }}<!--
+-->{{Spirit Item| Warrior of Love | cape | table }}<!--
+-->{{Spirit Item| AURORA Guide | cape_u | table }}<!--
+-->{{Spirit Item| Nesting Loft | cape | table }}<!--
+-->{{Days Item| Ocean Cape | | table }}<!--
+-->{{Days Item| Nature School Cape | | table }}<!--
+-->{{Days Item| Sunlight Blue Beach Towel Cape | | table }}<!--
+-->{{Days Item| Snowflake Cape | | table }}<!--
+-->{{Icon| Icon_cape_nintendo_blue-Morybel-0146.png | table | link=Nintendo Pack | label=Blue Switch Cape }}
+|-
+| Blue 
+| 25
+| {{Spirit Item| Praying Acolyte | cape | table }}<!--
+-->{{Spirit Item| Praying Acolyte | tier_2_cape | table | label=Praying Acolyte Tier 2 Cape }}<!--
+-->{{Spirit Item| Crab Whisperer | Cape | table }}<!--
+-->{{Spirit Item| Piggyback Lightseeker | Cape | table }}<!--
+-->{{Spirit Item| Shushing Light Scholar | Cape | table }}<!--
+-->{{Spirit Item| Pleaful Parent | Cape | table }}<!--
+-->{{Spirit Item| Prophet of Water | Cape | table }}<!--
+-->{{Spirit Item| Star Collector | Cape | table }}<!--
+-->{{Spirit Item| Slouching Soldier | Cape | table }}<!--
+-->{{Spirit Item| Stretching Lamplighter | Cape | table }}<!--
+-->{{Spirit Item| Sneezing Geographer | Cape | table }}<!--
+-->{{Spirit Item| Light Whisperer | Cape | table }}<!--
+-->{{Spirit Item| Anxious Angler | Cape | table }}<!--
+-->{{Spirit Item| Bumbling Boatswain | Cape | table }}<!--
+-->{{Spirit Item| Performance Guide | cape_u | table }}<!--
+-->{{Spirit Item| Shattering Guide | Cape_k | table | label=Krill Ultimate Cape}}<!--
+-->{{Spirit Item| Running Wayfarer | cape | table }}<!--
+-->{{Spirit Item| Overactive Overachiever | cape | table }}<!--
+-->{{Spirit Item| Vestige of a Deserted Oasis | cape | table }}<!--
+-->{{Spirit Item| Memory of a Lost Village | cape | table }}<!--
+-->{{Spirit Item| Spirit of Mural | cape_r | table | label=Radiance of the Nine-Colored Deer | link=Season of the Nine-Colored Deer#Radiance of the Nine-Colored Deer }}<!--
+-->{{Days Item| Dragon Stole | | table }}<!--
+-->{{Days Item| Nature Wave Cape | | table }}<!--
+
+-->{{Days Item| Cat Cape | | table }}<!--
+-->{{Days Item| Meteor Mantle | | table}}
+|-
+| Purple 
+| 9
+| {{Spirit Item| Dismayed Hunter | cape | table }}<!--
+-->{{Spirit Item| Dismayed Hunter | tier_2_cape | table | label=Dismayed Hunter Tier 2 Cape }}<!--
+-->{{Spirit Item| Troupe Juggler | Cape | table }}<!--
+-->{{Spirit Item| Crab Walker | Cape | table }}<!--
+-->{{Spirit Item| Indifferent Alchemist | Cape | table }}<!--
+-->{{Spirit Item| Prophet of Air | Cape | table }}<!--
+-->{{Spirit Item| Prophet of Earth | Cape | table }}<!--
+-->{{Spirit Item| Remnant of a Forgotten Haven | cape | table }}<!--
+-->{{Days Item| Purple Bloom Cape | | table }}
+|-
+| Pink 
+| 6
+| {{Spirit Item| Handstanding Thrillseeker | cape | table }}<!--
+-->{{Spirit Item| Handstanding Thrillseeker | tier_2_cape | table | label=Handstanding Thrillseeker Tier 2 Cape }}<!--
+-->{{Spirit Item| Grateful Shell Collector | Cape | table }}<!--
+-->{{Spirit Item| Passage Guide | cape_u | table }}<!--
+-->{{Days Item| Pink Bloom Cape | | table }}<!--
+-->{{Days Item| Sunlight Pink Beach Towel Cape | | table }}
+|-
+| None 
+| 20
+| {{Spirit Item| Stealthy Survivor | cape | table }}<!--
+-->{{Spirit Item| Memory Whisperer | cape | table }}<!--
+-->{{Spirit Item| Stealthy Survivor | tier_2_cape | table | label=Stealthy Survivor Tier 2 Cape }}<!--
+-->{{Spirit Item| Memory Whisperer | tier_2_cape | table | label=Memory Whisperer Tier 2 Cape }}<!--
+-->{{Spirit Item| Thoughtful Director | Cape | table }}<!--
+-->{{Spirit Item| Saluting Protector | Cape | table }}<!--
+-->{{Spirit Item| Wise Grandparent | Cape | table }}<!--
+-->{{Spirit Item| Sanctuary Guide | cape_u | table }}<!--
+-->{{Spirit Item| Ancient Light | Cape_m | table | label=Ancient Light (Manta) Cape }}<!--
+-->{{Spirit Item| Ancient Light | Cape_j | table | label=Ancient Light (Jellyfish) Cape }}<!--
+-->{{Spirit Item| Shattering Guide | cape_m | table | label=Manta Ultimate Cape }}<!--
+-->{{Days Item| Nature Turtle Cape | | table }}<!--
+-->{{Days Item| Spooky Bat Cape | | table }}<!--
+-->{{Days Item| Mischief Web Cape | | table }}<!--
+-->{{Days Item| Mischief Gossamer Cape | | table }}<!--
+-->{{Days Item| Winter Ancestor Cape | | table }}<!--
+-->{{Days Item| Cozy Hermit Cape | | table }}<!--
+-->{{Days Item| Winter Quilted Cape | | table }}<!--
+-->{{Days Item| Cinnamoroll Cloud Cape | | table }}<!--
+-->{{Days Item| Kizuna AI Cape | | table }}
+|-
+| All 
+| 2
+| {{Days Item| Dark Rainbow Cape | | table }}<!--
+-->{{Days Item| Rainbow Cape | | table }}
+|}
+
+
+===2023 New Cosmetics and Props ===
+====Dark Rainbow Tunic ====
+::'''''"The colors still shine brightly within."'''''
+The Dark Rainbow Tunic is a black top with elbow-length sleeves and matching wide, baggy pants, featuring a wrap belt and collar with vibrant rainbow stripes. This [[Outfit]] was introduced in 2023 and was available for {{Cost|14.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Dark Rainbow Tunic|iap}} {{!}} {{Icon Name|Dark Rainbow Tunic|name}} IAP
+{{Icon Name|Dark Rainbow Tunic|icon}} {{!}} {{Icon Name|Dark Rainbow Tunic|name}} icon
+{{Icon Name|Dark Rainbow Tunic|real}} {{!}} {{Icon Name|Dark Rainbow Tunic|name}} front
+{{Icon Name|Dark Rainbow Tunic|back}} {{!}} {{Icon Name|Dark Rainbow Tunic|name}} back
+{{Icon Name|Dark Rainbow Tunic|spell}} {{!}} {{Icon Name|Dark Rainbow Tunic|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+====Dark Rainbow Pack<span id="Dark Rainbow Earrings"></span>====
+::'''''"What awaits on the dark side of the rainbow?"'''''
+The Dark Rainbow Pack contains two items: the Dark Rainbow Earrings and {{Cost|40 C}}. The Dark Rainbow Earrings are a pair of long pendants with a blue to orange gradient, one of which features a small red crystal hanging below it. This [[Head Accessory]] was introduced in 2023 and was available for {{Cost|9.99 USD|refnote}} from the [[Premium Candle Shop]] for the duration of the event.<br>
+<br> 
+{{#tag:gallery
+|{{Icon Name|Dark Rainbow Earrings|iap}} {{!}} {{Icon Name|Dark Rainbow Earrings|name}} IAP
+{{Icon Name|Dark Rainbow Earrings|icon}} {{!}} {{Icon Name|Dark Rainbow Earrings|name}} icon
+{{Icon Name|Dark Rainbow Earrings|real}} {{!}} {{Icon Name|Dark Rainbow Earrings|name}}
+{{Icon Name|Dark Rainbow Earrings|spell}} {{!}} {{Icon Name|Dark Rainbow Earrings|name}} Spell icon
+|widths=125|captionalign=center|spacing=small
+}}
+
+====Dark Rainbow Cape====
+The Dark Rainbow Cape has a black exterior with a vibrant rainbow stripe interior, featuring a small triangle with matching stripes on the bottom edge of the back. This [[Cape]] was introduced in 2023 for {{Cost|104 T|event=color}} from the Days of Color Guide at [[Home]] and the [[Eight-Player Puzzle Area]] for the duration of the event.<br>  
+<br>
+{{#tag:gallery
+|{{Icon Name|Dark Rainbow Cape|icon}} {{!}} {{Icon Name|Dark Rainbow Cape|name}} icon
+{{Icon Name|Dark Rainbow Cape|front}} {{!}} {{Icon Name|Dark Rainbow Cape|name}} front
+{{Icon Name|Dark Rainbow Cape|interior}} {{!}} {{Icon Name|Dark Rainbow Cape|name}} interior
+{{Icon Name|Dark Rainbow Cape|real}} {{!}} {{Icon Name|Dark Rainbow Cape|name}} back
+{{Icon Name|Dark Rainbow Cape|exterior}} {{!}} {{Icon Name|Dark Rainbow Cape|name}} exterior
+{{Icon Name|Dark Rainbow Cape|spell}} {{!}} {{Icon Name|Dark Rainbow Cape|name}} Spell icon
+|widths=125|spacing=small|captionalign=center
+}}
+
+==References==
+<br>'''More information about Days of Color 2023 can be found on [https://www.thatskygame.com/news/build-something-beautiful-together-during-days-of-color/ ThatSkyGame's Website].'''
+<references />
+
+{{#lst:Days of Color|Color Navbox}}
+
+[[fr:Jours des Couleurs 2023]]
+[[ja:彩なす日々/2023]]

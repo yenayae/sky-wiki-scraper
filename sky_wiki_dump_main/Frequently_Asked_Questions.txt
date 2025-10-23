@@ -1,0 +1,181 @@
+
+A collection of the most frequently asked questions.
+
+In addition to this list, please visit the [https://thatgamecompany.helpshift.com/a/sky-test-gold/ FAQ at TGC's website]. Also, please refer to the #questions-and-help channel on the official Discord server ([https://discord.com/invite/thatskygame discord.gg/thatskygame]).
+
+In each subsection of the page you'll find links to relevant pages here on the wiki. 
+
+==General Gameplay==
+
+=== Why can't I see people's chat? Why do I just see "........"? ===
+* See the [[Making Friends]] page for an in-depth explanation of chat. In brief, chat is an action that you unlock with a friend. Unless you are at a chat bench or chat table, you will not see chat text for any player that you have not unlocked it with. Instead, you will see a series of dots. Becoming friends through a link or QR code will automatically unlock chat for free. Otherwise, chat may be unlocked for three candles after unlocking the 'hug' emote with your friends.
+
+=== How do I make friends? ===
+* See [[Making Friends]]. You can make friends with another player if you tap on them (mobile) or press the star button over their head (other platforms) and then offer them a candle, or if they offer you a candle. 
+===Some players have Headphones on. How does that work?===
+*In the iOS version of Sky, players who are listening to any outside audio (Spotify, Apple Music and such) while playing will have Headphones in-game. This will mute the in-game music but not other SFX. As of yet, this feature has not been implemented in the Android version of the game. 
+
+=== How are some players so small or tall? How do I change the size of my character? ===
+* There are three ways to change your height in Sky:
+** There are two spells ('''the Shrink spell''' and '''the Grow spell''') that you can collect by purchasing [[Blessings]] in the Ancestor Spirit Shops. While blessings are given randomly, the Shrink spell will make your character baby/Chibi sized for 10 minutes, and the Grow spell will make your character the tallest height for 10 minutes. The Shrink spell can be acquired through both 1-Candle Blessings and 5-Candle Blessings, but the Grow spell must be bought from the Spell Shop in Forgotten Ark or from the boat at home. 
+** There is a mask ('''the Chibi mask''') that you can purchase from the Spirit Shop of the Hide-and-Seek Pioneer from Hidden Forest. The Chibi Mask costs 20 hearts. For as long as you are wearing this mask, you have the effect of a Shrink potion indefinitely. The mask has the same effect on all players, no matter the character’s height under it. It cannot be stacked with other masks, however. 
+** The last and most versatile way to affect the height of the Player's Avatar is the '''Permanent Resize spell''' - which will '''randomly''' cause your character to become''' taller or shorter'''. To change height again, the player will need to use another Resize spell. However, the next spell will also be random. So far, there are 13 possible heights achievable using the resize spell, but it is not possible to reach Chibi height this way. The spell can be bought in the [[The Forgotten Ark|Forgotten Ark]] spell shop or acquire randomly when purchasing a [[Blessings (Spells)|5-candle Blessing]] or can be sometimes bought from the Sleepy Traveller's boat. 
+
+=== How do I "follow" another player? ===
+* You will only be able to follow players with whom you have made friends. When you are in the air, your friends will have a down arrow over them. Touch the arrow to begin following them.
+
+=== How do I meditate? Where is the "meditate" emote? ===
+* Meditating is simply sitting when you are prompted to, as you do at the end of every Realm to watch the cutscene that opens the door to the next level. For the daily quests, you have to find the specific Shrine indicated by the Questgiver in Home. See [[Message Candle Spots]] for a guide. There is a glowing circle of light with a "sit" prompt. This quest is completed by leaving a message at the shrine, like with candle spots.
+
+=== What are these force fields that are keeping me out of certain areas, and what do I need to do to get through them? ===
+* The Spirit Gates (force fields) are barriers that preclude you from entering certain areas before you have found enough Spirits (collected enough Expressions). There is a Constellation outlined on the Spirit Gate that shows you what Realm you need to collect the Emotes from. Furthermore, it also shows how many you need in order to gain entry. Some of the Spirit Gates require Expressions from more than one area, and some of them require Spirits from a Realm after the current one. This encourages exploration and also rewards players who return to previously visited Realms. See the page on [[Barriers]] for more information. 
+
+=== How do I rescue a Manta from Darkness? ===
+* Mantas are one of the light [[Creatures in Sky]] – the white ray-like flying creatures seen in the skies of Prairie and Valley. The only way to complete the quest of "Saving a Manta from Darkness" lies in the Boneyard of Hidden Forest. Below the small Temple entrance into the last area, and off to the right side (below the exit from Sunny Forest) there are Mantas covered in Darkness plants. Burning away this Darkness will complete the Quest. However, other players may get to them before you. Thus, players may need to go home and return several times. For a video guide, see [[Quests]].
+
+=== When I try to go to Eye of Eden it says I am not strong enough. What does that mean? ===
+* To enter Eden, players must have acquired at least 20 Winged Light through either Wing Buffs or Children of Light. Though, it is recommended that players bring at least 50-60 Winged Light. See the [[Eye of Eden]] (Spoiler Warning!) page for detailed information. ''Note: this page will contain spoilers for the end of the game. ''
+
+=== Do you have to spend real money to play this game? ===
+* No, you do not have to spend money to play the game. You do have to spend money if you want to collect every item available during an ongoing Season, since about half are exclusive to Season Pass holders. However, long-term ”free” players can collect those through Traveling Spirits without spending any money. It will be slow going, but it can be done. 
+
+==Expressions and Spirits==
+
+* [[Spirits and Elders (Completing Constellations)|Spirits and Elders]]
+
+* [[Expressions]]
+=== How do I get Expressions? ===
+* Expressions are acquired after reliving a Spirit’s memory. You can find Spirits throughout the Realms of the game. You may see other players using an Expression that you can’t find. These are past Seasonal Expressions. These can be acquired at any time by a player who has progressed through Eye of Eden, but the upgraded levels are only accessible through [[Traveling Spirits]]. 
+
+=== How do I get the "hug" Expression? ===
+* Hug is a Friend Action "purchased" with two candles between individual friends. See [[Making Friends]].
+
+=== Where is the Spirit’s Temple? How do I visit it? ===
+* The Spirit's Temple refers to the temple at the end of every Realm, where you watch the cutscene in order to open the doorway to the next area. If you are having trouble accessing a Spirit Shop, and are getting the message to "visit the temple," make sure you visited the temple in the Realm where that Expression was found and sat through the cutscene. ''Note: This must be done every time a new Expression from that Realm is unlocked. ''
+===How do the Ancestor Spirit Shops work?===
+* The Spirit Shops allows players to purchase Cosmetics, Blessings, Expression upgrades and Wing Buffs. To purchase one item, the player will need to unlock the different nodes leading to it. Thus, it's necessary to buy several items before the uppermost nodes can be purchased. 
+
+=== Can I lose Expressions (or upgrades to Expressions) in Wasteland or Eden? ===
+* No. This was a previous feature in Beta (prior to Global Launch) that is no longer implemented.
+===Are there spirits that haven’t been implemented yet? I’m pretty sure I got all the spirits in game, but some of my constellations are missing up to two stars.===
+* All of the Ancestor Spirits available are indicated on the [[Expressions]] page and the individual [[Realm]] pages. There are currently some blank stars in the constellations. Perhaps they will be filled in one day. If you have not collected all of the Spirits from a Realm, you'll see a message "#/# Spirits collected" when viewing the Constellation in Home. Otherwise, you'll see your completion percentage, which indicates how many items you have bought in that Constellation.
+
+=== I collected all the Spirits in the game but when I go Home and look at the constellations and tap on the question mark it says, "You must collect the whole constellation first." What gives? ===
+* In order to complete a Constellation, you must not only find every Ancestor Spirit but also purchase every item within their Spirit Shops. This will mean a lot of heart-collecting and trips to Eden for Ascended Candles in order to unlock everything. This does not include Spirits’ second wing buffs or anything above them (such as the Tier 2 capes). The individual costs of Cosmetics and every Collectible in a Spirit Shop can be found on the [[Cosmetics]] page or the individual [[Realm]] pages respectively.
+==Collectibles==
+
+*[[Collectibles]]
+*[[Currency]]
+*[[Cosmetics]]
+*[[Winged Light]]
+*[[Wing Buffs]]
+=== What are Spirits, Elders, and Children of Light? ===
+* Spirits (also called Ancestors or Ancestor Spirits) offer the Expressions that you find throughout the game. From their Spirit Shops you can purchase Cosmetics, Expression Upgrades and Blessings.
+* Elders are featured in the ending cutscene of each Realm. These are the cutscenes that you watch in order to complete the area and open the door to the next. Each Elder's hairstyle is available to collect by completing the entire constellation for that Realm. 
+* Children of Light are the golden, glowing children scattered throughout the Realms that give you Winged Light, which increases your Cape Power.
+
+=== How do I get cosmetics? ===
+* You can buy cosmetics with in-game currency in a Spirit Shop. There are also in-app purchases that will reward you with new Cosmetics. 
+
+===Where can I find a specific cosmetic that I’m looking for?===
+* Find and relive the memories of the Ancestor Spirits. Each Spirit you release has a Shop where you can purchase Cosmetics. See the [[Collectibles]] page for more details about where to find every cosmetic in the game. You can also visit the page for each individual [[Realms|Realm]].
+
+=== How do I get the hair and masks of the Elders? ===
+* You have to complete the entire Constellation to unlock the Elders’ cosmetics. They can be purchased with Ascended Candles in Orbit. See the [[Constellations]] page.
+
+=== Do Blessings purchased from Spirits have a cooldown? Or are they single-use? ===
+* All spells are single-use-only, and there are a limited number of them available to buy. They are also randomly given, so one person may acquire 13 glow spells and another acquire 13 anti-gravity spells from the same Spirits. Blessings can also be purchased via Traveling Spirits, Seasonal Spirits, or Spell Shops. 
+
+=== What is the fastest way to collect Candles? ===
+* Buying candles with in-app purchases is the fastest way to get a large amount. Other than that, collecting them in the Realms is the only way. There is a daily Realm, indicated by red candles on either side of the portal, that contains special large clumps of Candles (see [[Treasure Candles]]). Be sure to find those every day. Treasure Candles can also be found scattered around the realms even when it is not their Treasure Candle day.
+
+=== What is the fastest way to collect Hearts? ===
+* There is one heart available to purchase with candles in each Spirit Shop, including Traveling Spirits. After that, the most effective way is to be gifted them by friends, and the best way to be gifted is to give. Some people make arrangements with friends to exchange daily hearts. Be careful that you are not taking advantage of others in doing this, though. Hearts can also be accumulated by collecting 60 daily Gifts of Light from friends or by receiving 50 likes on a message at a Shrine, Shared Memory spell, Shared Space, or message boat.
+===What do the Cape Wedges mean, and how do they work?===
+*The Cape Wedges are a measure of your flight power and current charge level. One wedge represents one flap of your wings. Cape Wedges are also visible on players’ backs as small diamonds, which will grow dark when you lose light.
+
+=== If I get attacked and lose Winged Light (or Cape Wedges), can I get them back? ===
+* Yes. You will need to collect the lost Children of Light from the locations where you originally found them. Unfortunately, there is no indicator for exactly which Children of Light you will need to revisit. If they are in an area where you have visited the Map Shrine, however, a yellow star will appear in that area on the map. 
+
+=== How do I get Wing Buffs? ===
+* You purchase Wing Buffs with Ascended Candles from the Spirit Shops. Ascended Candles are rewards for completing the Eye of Eden. The Wing Buff looks like a padlock with wings, and is below the "cloudy" area of every Spirit Shop. Purchasing this Wing Buff clears away the clouds and opens access to the rest of the Cosmetic items in the Spirit Shop. In friendship trees, although the symbol is exactly the same as Wing Buffs', they work differently.
+
+=== How much does it cost to complete the Constellations? ===
+* Completion costs by realm:
+** Isle: 42 Candles, 12 Hearts, 3 Ascended Candles
+** Prairie: 122 Candles, 39 Hearts, 13 Ascended Candles
+** Forest: 145 Candles, 108 Hearts, 16 Ascended Candles
+** Valley: 107 Candles, 124 Hearts, 15 Ascended Candles
+** Wasteland: 111 Candles, 142 Hearts, 14 Ascended Candles
+** Vault: 104 Candles, 155 Hearts, 14 Ascended Candles
+** Elders: 0 Candles, 0 Hearts, 35 Ascended Candles
+* Total Cost: 631 Candles, 580 Hearts, 110 Ascended Candles
+
+== Seasons and the Season Pass ==
+* [[Seasonal Events]]
+
+* [[Cosmetics#Seasonal Cosmetics|Cosmetics (Seasonal Section)]]
+
+=== Do seasonal items (Collectibles and Expressions) disappear after a Season? ===
+* Yes and no. The Seasonal Spirits in the world can still be relived by players that have progressed through Eye of Eden, but you can no longer access their Spirit Trees. The constellation also disappears from Home Space. However, the Expressions themselves do not disappear from your Expression Menu, nor do the upgrades or any of the Cosmetic items or Blessings that you've purchased. Seasonal Candles left over from the Season are converted into regular candles. It is possible for players who missed out on the Season to collect Seasonal Cosmetics and Expression upgrades through Traveling Spirits. For more information on those, see [[Traveling Spirits]].
+
+=== What happens to Seasonal Candles/Hearts when the Season ends? ===
+* They are converted back to standard candles with a 1:1 ratio. The same goes for  Seasonal Hearts: they are converted to standard Hearts. Thus, you cannot save Seasonal Candles for the next Season. They are a limited time currency.
+
+=== Do I have to buy the Season Pass for every season?  ===
+* Yes, if you wish to have access to the cosmetics for every season. The Season Pass that you buy for yourself is for the current season only and is not reusable. 
+
+=== Do Season Passes that I buy for a friend need to be used in the current season? Do they expire? ===
+* No and no. Gift Season Passes (those you buy for a friend) do NOT expire and can be used in future seasons. However, just like normal Season Passes, they can only be used once. 
+
+== Game Settings and Technical Questions ==
+
+*[[Menus and Controls]]
+*[[Sky for Android]]
+*[[Sky for iOS and macOS]]
+*[[Sky for Nintendo Switch]]
+*[[Sky for PlayStation]]
+*[[Sky for Steam]]
+
+=== How do I change my username? ===
+* You do not actually have a username in Sky. Your name is not visible to any other player in the game. The only way another person will know your name is if you tell them. When a person becomes your friend, they have the option of naming you whatever they like.
+* The only username you may see is the username you use for Game Center or Google Play. That username can be changed on your device, but it is never seen by players in the game. How to change the username on your device is beyond the scope of this Wiki.
+
+=== How do I back up or restore the game? ===
+* There are eight ways to restore your game:
+* '''1) Save your Sky ID as a recovery code.''' This can be found either in the in-game settings menu, or in your own device settings. Note: you should save your Sky ID for other reasons than just for recovering your account. For example, TGC will ask for your Sky ID if you win a contest so they can send your account your rewards directly.
+* '''2) Link your game to a Google account.''' This is done in the settings menu in-game. To unlink your account, or change the one used, players will need to contact support.
+* '''3) Link your game to Game Center (iOS).''' On iOS, you will need to sign in to Game Center on your device (in settings) and then link Sky to Game Center.
+*'''4) Link your game to Apple ID account (iOS)'''. On iOS or Mac with M1 chip or later, you will need to sign in to your Apple ID. This is a standalone linking aside from Game Center.
+* '''5) Link your game to a Facebook account.''' This is done in the settings menu in-game. To unlink your account, or change the one used, press the unlink button.
+*'''6) Link your game to Huawei ID.''' This is done in the settings menu in-game. To unlink your account, or change the one used, press the unlink button.
+*'''7) Link your game to a Nintendo Account.''' See above. 
+*'''8) Link your game to a PlayStation Network Account.''' See above. 
+
+=== Can I play on different devices with the same Game Center account? ===
+* Yes, you can play on any mobile device (iPhone, iPad) or on a Mac with M1 chip or later. As long as you are using Game Center on your primary device, you can log in to Game Center on any other device with your Apple ID, and your progress in Sky will be there. However, each device will need to download the music and progress each time you switch, which can potentially be time consuming.
+
+=== Can I play on Mac devices? ===
+
+* You may play Sky with full keyboard support on any Mac device with M1 chip or later. However, Sky is not a native Mac app. Instead, it is derived from the iOS app with Mac Catalyst support.
+
+=== I got a new device, but it does not have my original Apple ID on it now. How do I download the game again? ===
+* If you are playing on the Live version of Sky, you may save your account and progress through a Google account or use your Sky ID code (found in the settings in-game). In the beta version, however, you can't. Since you redeemed your beta invitation code on the original Apple ID, it's linked to that Apple ID. You would have to request another code from TGC. If you explain the situation, they may help you get back in.
+
+=== How do I report a bug? ===
+* To report a bug, players may contact support either in-game or through TGC's official channels. The in-game support can be found in the settings menu. When tapped, it will lead players to helpful articles and topics. After reading an article, players may initiate support contact. If the game is inaccessible, players can contact support via the [https://thatgamecompany.helpshift.com/a/sky-children-of-the-light/?l=en thatgamecompany website]. Furthermore, players can report bugs via the official Discord Server, which is linked at the very top of this page.
+
+==Areas Outside the Realms==
+
+=== How do I get to the Secret Area? ===
+* Please visit the [[Secret Area]] page. This area is only accessible at certain times.
+
+===What does OOB mean? ===
+*See the [[Out of Bounds|OOB]] page. OOB is an acronym for Out of Bounds, which refers to areas outside of the intended boundaries of the game. These are accessed though different glitches and tricks and can provide some of the most beautiful views available. 
+
+{{Navigation Box}}
+
+[[Category:FAQ]]
+
+[[fr:Foire aux questions (FAQ)]]
+[[pt-br:Perguntas Frequentes]]

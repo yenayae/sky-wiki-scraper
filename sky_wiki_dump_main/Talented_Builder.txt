@@ -1,0 +1,183 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Flight-Spirit-Talented-Builder.png|Standard
+Flight-Spirit-Talented-Builder-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Outfit|infobox}}{{Spirit Item||Neckpiece|infobox}}{{Spirit Item||Hair|infobox}}
+|music     = {{Music Sheet|25}}
+|season    = Flight
+|realm     = Hidden Forest
+|location  = Wind Paths
+|ts        =  November 23, 2023 (#101)
+}}
+<section begin="Summary" />The '''Talented Builder''' is a [[Seasonal Spirit]] from the [[Season of Flight]] who offers the {{Emote|Talented Builder|inline_text}} Expression. The Talented Builder is found in the [[Wind Paths]], on the lower of a pair of floating islands to the right of the main island when coming from the area's main entrance. The collectibles [[#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Talented Builder|Outfit|inline_text}}, a {{Spirit Item|Talented Builder|Neckpiece|inline_text}}, a {{Spirit Item|Talented Builder|Hair|inline_text}}, and the {{Music Sheet|25|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Ap12 builder-spiritreveal.png|thumb|320px|none|TGC's Promo image]]
+
+==Memory==
+<div>{{#ev:youtube|euxd4kP-Keo||inline|Video Guide}}
+
+The Talented Builder can be found in the [[Wind Paths]], on the lower of a pair of floating islands to the right of the main island when coming from the area's main entrance. They are located next to the bottom of a set of stairs on their island. This Spirit has a [[Standard Memory|standard memory]] with 9 memory fragments and a 15-minute overall [[Timed Memory|time limit]].
+
+As their memory unfolds, the Talented Builder can be seen hard at work building a boat figurehead in their workshop. Once finished, they cheerfully carry the object over to a [[Mantas|Manta]]-driven boat to travel towards the main island, where they arrive to find another Spirit waiting by a larger boat docked for repairs. The Talented Builder then climbs up onto the boat and affixes the figurehead onto the boat’s bow before presenting their finished work to the other Spirit, which cheerfully throws their arms into the air.
+
+At the end of the memory, the Talented Builder steps back from their repairs, dusts off their hands, and gestures towards the boat as they present it to the other Spirit. The Spirit responds by thanking them, clasping their hands gratefully and bowing their head.<br>
+<br>
+[[File:02 HF Seasonal Spirit - Talented Builder.jpg|200px|thumb|none|Relive the Talented Builder's memory]]
+</div>
+{{Clear}}
+
+==Expression==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Talented-Builder-voila-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Talented-Builder-voila-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Talented-Builder-voila-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Talented-Builder-voila-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+* Level 1 will make your avatar brush off their hands a few times before raising both arms to gesture towards the right, head periodically tilting to the side and forward, while a strumming sound effect plays. This action is continued for as long as you don't move your avatar.
+* Level 2 makes the same motion as Level 1, with lots of dust clouds flying around your avatar as they brush off their hands, golden glowing sparkles shortly bursting from their hands as they move their arms to the right, and a few white starburst effects briefly flying around their hands after they've stopped moving their arms.
+* Level 3 will make your avatar briefly look around to face the left, before kneeling down on one knee and first opening both arms up, then bringing  them closer together up and in front of them, head periodically tilting to the side and forward and arms moving closer together and away again, while an extended strumming sound effect plays. This action is continued for as long as you don't move your avatar.
+* Level 4 makes the same motion as Level 3, with small, golden, glowing sparkles bursting from your avatar's hands as they go to kneel down, a sudden burst of big white light particles coming from their hands after they've just knelt down and open up their arms, and the same sparkles as in the beginning of the Expression flying around their hands once, after they've stopped moving around.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+== Cosmetics ==
+=== Outfit ===
+The [[Outfit]] offered by this Spirit is a blue, long-sleeved, wrapped tunic with white accents, a blue belt, and furry sleeve cuffs, off-white balloon pants with a "V"-shaped, yellow line rounding the legs towards the bottom, followed by a blue color filling out the rest, and blue fur-trimmed boots, costing {{Cost|70 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fifth node ({{Cost|72 SC|season=Flight}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Outfit|icon}} {{!}} The Outfit icon
+{{Icon Name||Outfit|real}} {{!}} The Outfit front
+{{Icon Name||Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Neck Accessory <span id="Necklace"></span>===
+The [[Neck Accessory]] offered by this Spirit is a fluffy white neck ruff, costing {{Cost|40 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's third node ({{Cost|26 SC|season=Flight}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Neckpiece|icon}} {{!}} The Neck Accessory icon
+{{Icon Name||Neckpiece|real}} {{!}} The Neck Accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Hair ===
+The [[Hair]] offered by this Spirit is a tall blue trapper hat with a white inner fur lining and a pair of yellow and blue feathers sticking out the top, costing {{Cost|45 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's sixth node ({{Cost|98 SC|season=Flight}} total). Note that this item is considered a Hair, not a [[Hair Accessory]], and as such it can not be worn over other Hairstyles.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair front
+{{Icon Name||Hair|side}} {{!}} The Hair side
+{{Icon Name||Hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Music Sheet ==
+The Talented Builder offers the {{Music Sheet|25}} [[Music Sheet]] #25, costing {{Cost|15 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|10 SC|season=Flight}} total). It is a song in the key of F Major.<br>
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guide
+|content=
+{{#ev:youtube|Z1TRIKXTLEQ||inline|Music Sheet Video Guide by Ikejiji}}
+}}
+{{Clear}}
+
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling
+|ts_dates=*November 23, 2023 (#101)
+}}<section begin='TS Friendship Tree' />{{Friendship Tree
+|spirit = Talented Builder
+|image  = Flight-Spirit-Talented-Builder.png
+|season = Flight
+
+|nodeC6 = Hair 45 C
+|nodeL5 = Outfit 70 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeR4 = music25
+|nodeC3 = wing
+|nodeL2 = Neckpiece 40 C
+|nodeC2 = spell5
+|nodeR2 = Heart 3 C
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end='TS Friendship Tree' />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+The hints given before the [[Talented Builder]]'s first appearance were: 
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=First Visit Hints
+|content=<div>
+* Hums when they’re focused
+* Sometimes finds it hard to speak
+* Incredibly loyal to people they believe in
+* Gets stressed if their work isn’t coming out right
+* Always there when you need someone
+* Shows they care in actions, not words
+* Was tall as a child
+* Enjoys windy weather
+* [ikô] Is usually the parent of the friend group
+</div>
+}}
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Flight}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Talented Builder
+|image  = Flight-Spirit-Talented-Builder.png
+|type   = season
+|season = Flight
+
+|nodeC7 = season_heart 3 SC SP
+|nodeL6 = trail_spell SP
+|nodeC6 = Hair 26 SC
+|nodeL5 = Outfit SP
+|nodeC5 = trail_spell 24 SC
+|nodeL4 = emote4 SP
+|nodeC4 = emote3 22 SC
+|nodeL3 = spell5 SP
+|nodeC3 = Neckpiece 16 SC
+|nodeL2 = music25 SP
+|nodeC2 = spell5 10 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Unique Daily Quests==
+{{#section-h:Quests/Daily Quest Spirits|{{PAGENAME}}}}
+
+== Personality ==
+On September 28, 2021, TGC officially announced <ref name="Personality Tweet">https://twitter.com/thatskygame/status/1443010134578323457</ref> and introduced the Talented Builder with the following personality traits:
+*⚒️ Mason and master of all things stone on the Islands
+*🪨 Reliable, easygoing, and a hard worker
+*⚓️ Comes from a long line of skilled shipwrights
+*🤗 Great at cheering up others
+
+==Trivia==
+*The Talented Builder, being the TS#101 on November 23, 2023, was the first [[#Traveling Spirit|Traveling Spirit]] to be available in both the [[Home]] and the [[Aviary Village]] simultaneously.
+*The Music Sheet is a faster-paced variant of {{Music Sheet|22}} Music Sheet #22 (and was actually the [[Sky Beta|Beta]] version of Music Sheet #22).
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Talented-Builder-first-visit-promo-image.png
+Season of flight spirit map1 talented builder.png
+</gallery>
+
+== References ==
+<references />
+
+[[fr:Bâtisseur talentueux]]
+[[de:Talentierter Baumeister]]
+[[pt-br:Construtor Engenhoso]]
+[[ru:Талантливый строитель]]

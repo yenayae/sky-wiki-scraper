@@ -1,0 +1,116 @@
+{{Guide Infobox
+|image     = Gratitude-Guide-Spirit.png
+|ultimates = {{Spirit Item||mask_u|link=#Gratitude Ultimate Mask|infobox}}
+|season    = Gratitude
+|location  = Home
+}}
+<section begin="Summary" />The '''Gratitude Guide''' is a Seasonal Guide from the [[Season of Gratitude]] who offered [[Gratitude Guide#Ultimate Gifts|cosmetics]] and no Quests. The Gratitude Guide was only found at [[Home]] during the Season and is longer present in the game. The Ultimate Guide offered a {{Spirit Item||necklace_u|link=Gratitude Guide#Seasonal Pendant|inline_text}} and a {{Spirit Item|Gratitude Guide|mask_u|link=Gratitude Guide#Gratitude Ultimate Mask|inline_text}} for [[Season Pass]] holders.<section end="Summary" /><br>
+<br>
+[[File:SoG Sky Home.png|none|thumb|TGC's Promo image]]
+
+==<span id="Ultimate Pendant"><span id="Gratitude Ultimate Pendant">Seasonal Pendant</span></span>==
+The Gratitude Ultimate [[Neck Accessory|Pendant]] is the usual gold pendant featuring the Season's emblem attached to a necklace. It was a [[Season Pass]] exclusive item during the Season, available for free with the purchase of the Season Pass.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||necklace_u}} {{!}} Gratitude Ultimate Pendant icon
+{{Icon Name||necklace_u_real}} {{!}} Gratitude Ultimate Pendant
+|widths=125px|spacing=small|captionalign=center
+}}
+
+==Ultimate Gifts==
+The Gratitude Guide offered one Ultimate Gift, available for free by [[Season Pass]] holders after completing all [[Season of Gratitude#Spirits and Cosmetics|Seasonal Spirits]] during the Season of Gratitude only.
+
+===<span id="Ultimate Mask">Gratitude Ultimate Mask</span>===
+The Gratitude Ultimate [[Mask]] is white with an orange-yellow forehead and resembles the face of a deer<ref>Patch {{v|0.9.3}} specifically refers to the mask as a "Deer mask".</ref>, with a pair of tall, curved horns, floppy ears, and a long snout. It also features a pair of long red earrings dangling low beneath each ear. It was a [[Season Pass]] exclusive item during the Season, available for free from the Seasonal [[Constellation]] after completing all [[Season of Gratitude#Spirits and Cosmetics|Seasonal Spirits]].<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||mask_u}} {{!}} Gratitude Ultimate Mask icon
+{{Icon Name||mask_u_real}}  {{!}} Gratitude Ultimate Mask front
+Gratitude-Ultimate-Mask-side.png {{!}} Gratitude Ultimate Mask side
+|widths=125px|spacing=small|captionalign=center
+}}
+
+==Friendship Tree==
+Unlike later Ultimate Guides, the Gratitude Guide did not have a Friendship Tree. Instead, the [[#Ultimate Mask|Ultimate Gift]] was obtained by clicking the flag in the middle of the Seasonal Constellation after completing all [[Season of Gratitude#Spirits and Cosmetics|Seasonal Spirits]]. '''Now that the Season is over, their cosmetics are no longer available.'''
+
+==Quest Tree==
+Unlike later Ultimate Guides, the Gratitude Guide did not have a Quest Tree since there were no Seasonal Quests.
+
+==Trivia==
+*The Gratitude Guide made appearances as an Event Guide called the '''Auspicious Visitor''' to offer event cosmetics during [[Days of Love]] in 2022 and 2023, and [[Days of Fortune]] in 2022, 2023, and 2024. 
+*Being the final ultimate reward for the first sky season ever, the Gratitude Ultimate Mask is considered one of the rarest items in the game.
+
+==In Other Languages==
+{{Other Languages|title=Gratitude Guide
+|fr            = Guide de la gratitude
+|fr_meaning    = Guide of Gratitude
+|ja            = 感謝の案内人
+|ja_rom        = Kansha-no An'nainin
+|ja_meaning    = Guide of Gratitude
+|id            = Pemandu Rasa Syukur
+|id_meaning    = Gratitude Guide
+|de            = Dankbarkeits-Helfer
+|de_meaning    = Gratitude Helper
+|vi            = Chỉ Dẫn Tri Ân
+|vi_meaning    = Gratitude Instructions
+|ko            = 감사의 안내자
+|ko_rom        = Gamsaui Annaeja
+|ko_meaning    = Guide to Gratitude
+|es            = Guía de la Gratitud
+|es_meaning    = Guide of Gratitude
+|it            = Guida della Gratitudine
+|it_meaning    = Guide of Gratitude
+|pt            = Guia da gratidão
+|pt_meaning    = Guide of Gratitude
+|ru            = Проводник (благодарность)
+|ru_rom        = Provodnik (blagodarnost')
+|ru_meaning    = Guide (Gratitude)
+|ru_gg         = m
+|zh_cn         = 感恩向导
+|zh_cn_rom     = Gǎn'ēn Xiàngdǎo
+|zh_cn_meaning = Gratitude Guide
+|zh_tw         = 感恩嚮導
+|zh_tw_rom     = Gǎn'ēn Xiàngdǎo
+|zh_tw_meaning = Gratitude Guide
+}}
+
+{{Other Languages
+|title         = Auspicious Visitor
+|fr            = Visiteur de bon augure
+|fr_meaning    = Auspicious Visitor
+|fr_gg         = m
+|de            = Glückverheißender Besucher
+|de_meaning    = Auspicious Visitor
+|it            = Ospite propizio
+|it_meaning    = Auspicious Guest
+|id            = Tamu Pembawa Keberuntungan
+|id_meaning    = Guests Bringing Good Luck
+|ja            = 幸運を祈る旅人
+|ja_rom        = Kō'un-wo Inoru Tabibito
+|ja_meaning    = Traveler Who Prays for Fortune
+|ko            = 상서로운 손님
+|ko_rom        = Sangseoloun Sonnim
+|ko_meaning    = Auspicious Guest
+|zh_cn         = 吉祥访客
+|zh_cn_rom     = Jíxiáng Fǎngkè
+|zh_cn_meaning = Auspicious Visitor
+|zh_tw         = 幸運訪客
+|zh_tw_rom     = Xìngyùn Fǎngkè
+|zh_tw_meaning = Lucky Visitor
+|pt            = Visitante Auspicioso
+|pt_meaning    = Auspicious Visitor
+|ru            = Дары приносящий
+|ru_rom        = Dary prinosyashchiy
+|ru_meaning    = Bringer of Gifts
+|ru_gg         = m
+|es            = Visitante de buen augurio
+|es_meaning    = Visitor of Good Omens
+|vi            = Vị Khách Tốt Lành
+|vi_meaning    = Good Guest
+}}
+
+[[pt-br:Guia da Gratidão]]
+[[de:Dankbarkeits-Helfer]]
+[[fr:Guide de la Gratitude]]
+
+[[Category:Season of Gratitude]]

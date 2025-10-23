@@ -1,0 +1,89 @@
+{{Spirit Infobox
+|type      = Regular
+|emote_type= Call
+|image     = <gallery>
+Prairie-Spirit-Bird-Whisperer.png|Standard
+Prairie-Spirit-Bird-Whisperer-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Hair|infobox}}
+|music     = {{Music Sheet|1}}
+|realm     = Daylight Prairie
+|location  = Bird Nest
+}}
+<section begin="Summary" />The '''Bird Whisperer''' is a [[Regular Spirit]] in [[Daylight Prairie]] who offers the {{Emote|Bird Whisperer|inline_text}}. The Bird Whisperer is found in the [[Bird Nest]], on the right-hand floating island with a hole through it, at the base of the ruined tower. The collectibles [[Bird Whisperer#Friendship Tree|offered]] by this Spirit are a {{Spirit Item|Bird Whisperer|Hair|inline_text}} and {{Music Sheet|1|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Bird-Whisperer-Guide-777-Ed.png|320x320px|thumb|none|Image Guide by 777.Ed]]
+
+== Memory ==
+<div>
+{{#ev:youtube|dMDOQfWCFEg|350px|inline|Video Guide}}
+<br>
+The Bird Whisperer can be found in the [[Bird Nest]], on the right-hand floating island with a hole through it, at the base of the ruined tower. This Spirit is a [[Standard Memory|standard memory]] quest with 4 memory fragments and an unlimited overall [[Timed Memory|time limit]].
+
+As their memory unfolds, the Bird Whisperer is seen carefully ascending the tower, winding around the ruined building to reach the very top. Following them can be a little tricky since any platforms to land on are quite small. The player can either make use of guided movement by walking in the direction of the desired platform and letting the game jump for them, or by expending some Cape Energy to fly directly to the memory fragments.
+
+At the end of the memory, the {{PAGENAME}} perches on top of the tower, admiring the many [[Birds]] flying past. The Spirit sprinkles food around them and whistles (not the same sound as the [[#Call|Bird Call]] given by them) which attracts a single Bird. It lands to peck around a little bit before chirping and flying away.<br>
+<br>
+[[File:01 DP Spirit - Bird Whisperer.png|200px|thumb|none|Relive the Bird Whisperer's memory]]
+</div>
+{{Clear}}
+
+== <span id="Expression">Call</span> ==
+The {{PAGENAME}} does not offer an [[Expression]], but instead offers a [[Call]]. The {{Emote||inline_text}} modifies the player's voice to a cheerful honk.<br>
+<br>
+[[File:{{Icon Name||emote}}|x170px|left]]
+[[File:Bird-Whisperer-bird-call-emote.mp4|300px]]
+{{Clear}}
+
+== Cosmetics==
+=== Hair ===
+The [[Hair]] offered by this Spirit is a lopsided ponytail tied on top of the head with a silver and blue band, costing {{Cost|5 H}}. It is permanently available to all players after unlocking the Spirit's [[Wing Buff]] and the Friendship Tree's fourth node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair}} {{!}} The Hair icon
+{{Icon Name||Hair|Real}} {{!}} The Hair
+{{Icon Name||Hair|side}} {{!}} The Hair side
+{{Icon Name||Hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Music Sheet==
+The Bird Whisperer offers the {{Music Sheet|1}} [[Music Sheet]] #1, costing {{Cost|1 H}}. It is permanently available to all players after unlocking the Friendship Tree's first node. It is a very fast-paced Music Sheet in the key of C Major.
+
+Prior to Patch {{v|0.15.5}}, this was identified as Music Sheet #3. The pre-0.15.5 Music Sheet #1 is now labeled Music Sheet #4.<br>
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guide
+|content=
+{{#ev:youtube|kYsRad9SGx8||inline|Music Sheet Video Guide by thatskyfox (Fox Band)}}
+}}
+{{Clear}}
+
+== Friendship Tree ==
+{{Friendship Tree Info | regular}}
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Bird Whisperer
+|image  = Prairie-Spirit-Bird-Whisperer.png
+
+|nodeC5 = hair 5 H
+|nodeC4 = spell5
+|nodeC3 = wing 2 AC
+|nodeL2 = heart
+|nodeC2 = spell1
+|nodeL1 = music1 1 H
+|nodeC1 = emote
+}}<section end="Friendship Tree" />
+
+==Trivia==
+*The [[Music Sheet Parts|percussion part]] of the Bird Whisperer's [[#Music Sheet|Music Sheet]] was the weekly Music Challenge during [[Harmony Hall]]'s opening week.
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Emote Loc-Bird Call.png
+</gallery>
+
+[[de:Vogelsprecher]]
+[[pt-br:Comunicador de Aves]]
+[[ja:鳥の語り部]]
+[[fr:Orateur d'oiseaux]]

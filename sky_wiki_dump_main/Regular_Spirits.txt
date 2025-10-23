@@ -1,0 +1,626 @@
+[[File:Gameplay-tips-2-Free-the-spirits.jpg|thumb|300px]]
+'''Regular Spirits''' are central to the Sky storyline: the game objective is to [[#Finding Spirits|find]] lost [[spirits]] and return them to the stars. There are 37 [[#All Regular Spirits|regular spirits]] in all. Reliving [[#Spirit Memories|spirit memories]] and [[#Friendship Trees|befriending]] them unlocks [[expressions]], [[cosmetics]] and other [[collectibles]]. Regular spirits also reveal new map areas, by allowing [[Constellation Gate]]s to be opened or by teaching you expressions needed to open special doors or puzzles.
+<!--The following note is a temporary addition added after this page was reorganized on June 18, 2022. Once the community has become familiar with the new organization, it should be possible to remove this note-->
+
+'''''NOTE:''' The list of all regular spirit friendship trees that was previously found here has been moved to a subpage, [[Regular Spirits/Friendship Trees]]. Alternatively, if you want a summary list of all regular spirits, see [[#All Regular Spirits]] below; or [[Regular Spirits/Cosmetics]] for a summary of all cosmetics.''
+
+== Overview ==
+{{quote|A long time has passed. Now we call to you.<br/>
+Go forth, child. Return our spirits to the stars.
+|Isle of Dawn Tutorial}}
+{{quote|Spirits once lit the skies and connected our realms...<br/>
+...in temples, our elders would usher them skyward.<br/>
+But now...their light is lost.<br/>
+Awaken the spirits still lost in this realm to proceed.
+|Isle of Dawn Tutorial}}
+
+All the spirits encountered by players early in the game are regular spirits, but other spirits ([[Seasonal Spirits]]) also exist, as well as other types of [[Ancestors]]. All ancestors are semi-translucent adult characters (i.e., much taller than Sky kids); regular spirits specifically are the ancestors who you find kneeling or sitting, and all new regular spirits are highlighted in blue, with a blue lens flare effect. (Other highlight colors indicate other types of spirits). After you have unlocked a spirit, they can still be found at their original location, but will no longer be highlighted.
+
+Regular spirits are closely tied to the [[Realms|realm]] where they appear. Each regular spirit is represented by a star in the realm's [[Constellation]], and helps to unlock any [[Constellation Gate]]s for the realm. To complete each constellation you must find all the regular spirits in the realm, and then purchase their upgrades and cosmetics.
+
+<gallery widths="200" spacing="small">
+File:Spirit-Tips-1-Find-all-the-spirits.jpg
+File:Spirit-tips-2-Bring-them-light.jpg
+File:Spirit-tips-3-Express-yourself.jpg
+File:Spirit-tips-4-Ascend-your-friendship.jpg
+File:Spirit-tips-5-Enhance-your-expression.jpg
+File:Spirit-tips-6-Cast-a-spell.jpg
+File:Spirit-tips-7-Fill-the-constellation.jpg
+</gallery>
+== Finding Spirits ==
+The first spirits you find are very obvious and are meant to be easily found. However, other spirits are hidden (e.g., behind objects, in caves), and some are in restricted-access areas (in particular behind [[Constellation Gate]]s). It is impossible to find all the spirits your first time through the game; players are expected to return repeatedly to each area and gradually discover more features.
+
+There are two ways to know whether you are missing regular spirits in an area. First, the [[constellation]] for the realm tells you how many spirits you have found, e.g. "Spirits: 4/8". If the constellation shows "Completion: xx%" that means you have found all the spirits.
+
+Second, any undiscovered spirits on the current map show up as grayed-out [[expressions]] in the [[Expression Menu]] -- either in the list of emotes on the first tab of the menu, or in the second tab, with the [[Stances]] and [[Calls]]. These hints are specific to the current map (the subsection of the current realm), so they are more specific than the constellation spirit progress.
+
+All spirits can be discovered and unlocked by solo players. However, cooperation is encouraged in Sky, and in this case there is a built-in "[[Request Guide]]" feature designed to get help finding spirits. Selecting Request Guide will cause a {{Icon|Icon handhold.png}} to appear over your head; any other player (not only your [[Making Friends|friends]] can choose to take your hand and lead you. Anyone acting as a guide can [[Deep Call]] to see all the spirits (regular and seasonal) in the current area known to the guide but not known to the other player.
+
+Technically, you do not have to save any spirits (relive any spirit memories) to travel through most realms. The only required spirit is [[Pointing Candlemaker]] in the tutorial; you cannot complete the tutorial and progress past [[Isle of Dawn]] without that one spirit. In all other realms, it is possible to ignore all the spirits, and still visit the realm's temple, awaken the elder, and be allowed through to the next realm. However, reaching the temple is not the same as completing a realm -- most areas in the game are inaccessible until you have saved spirits, and spirits are how you obtain all the expressions, cosmetics, and other collectibles.
+
+== Spirit Memories ==
+To awaken a spirit, you must restore its light and relive its memories. In other words, you need to click on the {{Icon|Icon_flame.png|link=Flame|inline_text}} icon that appears over the spirit and follow the spirit's spark. The spark will fly through a series of snapshots, called memory fragments, that tell you a story about the spirit's life. 
+
+Progress on the spirit memory is provided by the expression icon at the edge of the screen. Each completed memory fragment fills a colored segment of the icon's circle. After you have seen all the memory fragments and the icon is fully colored, you will be standing near a statue-like husk. Lighting up the husk releases the spark so it can fly to the realm's temple. Finally, an icon of the spirit's expression appears; clicking on it allows you to learn the expression.
+
+If you lose track of where you need to go, you can use a [[Deep Call]], which will light up the spirit's spark with a star.
+
+Once you have started reliving a spirit's memory, you must complete it before starting any other memories or quests. This is true even if you accidentally join a memory -- i.e., if a spark flies past while another player is reliving a memory. Unwanted memories can be very annoying, because your camera is forced to follow the spark each time it flies to a new memory fragment. There is no easy way to abort a memory. One option is to leave the map. Some memories (but typically not regular spirit memories) have a [[Timed Memory|timer]] or [[Spirit Health|dangers]] that will terminate a memory.
+
+Reliving the spirit's memory is the critical first step in interacting with a regular spirit. You immediately gain the ability to use the base level of the spirit's [[Expressions|expression]]. The spirit is also immediately counted as far as any [[Constellation Gate]]s. 
+
+However, to fully unlock the spirit you need go the realm's temple. If a spirit appears in the realm's constellation with a red dot, and you are told to 'Find this spirit" when you click on the spirit, it means you did not go to the temple after reliving the memory. Also, it is impossible to revisit the spirit (live the memory again) at this stage: an orb always appears in place of the spirit (even if you leave the area and return).
+
+When you enter the realm's temple, you will see blue sparks for each new spirit. You are told to "awaken the Temple [[Elder]] by restoring the altar's light," meaning you need to light the white candles. A meditation circle will appear and all the new spirits will kneel around the circle. Meditating ([[sit]]ting) triggers the Elder's cutscene allowing all new spirits to finish ascending to the stars. This unlocks the spirits' [[#Friendship Trees|Friendship Tree]], and also adds them to your progress in that realm's constellation.
+
+After this, if you return to the spirit's location, you will find them sitting/kneeling there again. You are free to repeat the spirit's memory as many times as you like, although there is no need to -- ''except'' if required by a daily [[quests|quest]].
+
+== Friendship Trees ==
+[[File:A-locked-spirit-shop.png|thumb|A locked Friendship Tree]]'''Friendship Trees''' (also called '''Spirit Trees''' or '''Spirit Shops''') are where you can "grow your friendship" with a spirit and be "rewarded" with [[collectibles|collectible]] items. In practice, this means purchasing items shown in the friendship tree using candles ({{Candle}}), hearts ({{Heart}}), and ascended candles ({{Ascended Candle}}). Regular spirit friendship trees are the primary source of [[Expression]] upgrades, [[cosmetics]], [[Music Sheets|music sheets]], [[blessings]], and [[Wing Buffs|wing buffs]].
+
+The Friendship Tree for each spirit in the game is shown on that spirit's individual article (see links below in [[#All Regular Spirits|All Regular Spirits]]). In addition, a separate page is available that provides all the [[Regular Spirits/Friendship Trees|Regular Spirit Friendship Trees]] in one place.
+
+The Friendship Tree is only available after you have [[#Spirit Memories|relived the spirit's memory]] ''and'' been to the realm's temple to finish returning the spirit to the stars. At that point, the friendship tree for any regular spirit can be accessed in several different ways:
+* Opening the constellation in the appropriate realm temple, after lighting the elder's altar and meditating.
+* Visiting the spirit's gravestone, found in that realm's social space.
+* Using the [[Constellation Table]] at [[Home]]. All realm constellations can be accessed here.
+* Using the Constellation Table at the end of the [[Eye of Eden]]; this table works the same way as the one at home.
+
+The items in the spirit shops are displayed in a tree-type layout, where items at the bottom of the tree are prerequisites for the other items. Purchasing an item unlocks that node, allowing you to see all other items connected to it. You need to progressively purchase all the central items (the trunk of the tree) to reveal everything available in the friendship tree.
+
+<div style="float:right">{{Friendship Tree
+|label=Generic Regular Spirit
+
+|nodeC6 = Question-mark-Ray.png ? H
+| labelC6 = Cosmetics
+|nodeC5 = spell5
+|nodeL4 = Icon_flame.png
+| costL4 = ? C
+| noteL4 = Lv4
+| linkL4 = Expressions
+| labelL4 = Lv4 Emote
+|nodeC4 = Icon_flame.png
+| costC4 = ? C
+| noteC4 = Lv3 
+| linkC4 = Expressions
+| labelC4 = Lv3 Emote
+|nodeC3 = wing ? AC
+|nodeL2 = Question-mark-Ray.png ? H
+| labelL2 = Cosmetics
+|nodeC2 = spell1
+|nodeR2 = heart
+|nodeL1 = Icon_flame.png ? C
+| noteL1 = Lv2
+| linkL1 = Expressions
+| labelL1 = Lv2 Emote
+|nodeC1 = Icon_flame.png
+| linkC1 = Expressions
+| labelC1 = Emote
+|total=
+}}</div>
+The Generic Regular Spirit tree demonstrates the standard structure shared by all Regular Spirits.
+* {{Icon|Icon_flame.png|link=}} is used in this demonstration to represent the spirit's expression and its upgrades. Some regular spirits do not have any expression upgrades, in which case the 'Lv2', 'Lv3', and 'Lv4' nodes will not appear.
+** Regular spirit expression upgrades are always purchased with {{Candle||inline_text}}s.
+* {{Icon|Question-mark-Ray.png|link=}} represents [[cosmetics]] (or possibly [[Music Sheets]]) sold by the spirit, and where they are typically found in the tree. 
+** Regular spirit cosmetics are always purchased with {{Candle|Heart|inline_text}}s. These items can all be tried on ahead of time in the appropriate [[Outfit Shrine]].
+** Music Sheets are always purchased with Candles.
+* {{Heart}} Every spirit in the game sells one [[Heart]], always at a cost of {{Candle|3}}. For regular spirits, the heart is always at the tree's second level and is unlocked by a 1-candle blessing.
+** This Heart ''never'' resets. You can only ever purchase one heart per spirit, so in total 37 hearts are available from regular spirits.
+* {{Icon|1CandleSpell.png|link=1 Candle Blessing}} and {{Icon|5CandlesSpell.png|link=5 Candle Blessing}} are [[Blessings]] that always cost {{Candle|1}} and {{Candle|5}} respectively. Purchasing a blessing grants you a randomly determined spell. The {{Candle|1}} blessing chooses a spell from [[1 Candle Blessing|a relatively short list]]; the {{Candle|5}} blessing has a [[5 Candle Blessing|longer list]] that includes more powerful spells and potions. There is no way to predict what spell or potion you will receive: different players will receive different spells from the same spirit, and different players will receive spells in a different order.
+** These blessings ''never'' reset.
+* {{Icon|Winglight.png|link=Wing Buff}} is a [[Wing Buff]], purchased with Ascended Candles. All regular spirits (and traveling spirits) sell at least one wing buff.
+** All tree details above the wing buff are obscured by a stylized cloud until the wing buff is purchased.
+** Some regular spirits have a second, "Tier 2" wing buff added to the top of the tree. The Tier 2 Wing Buff unlocks supplementary items that have been added to the game since its initial release (most commonly, a [[Tier 2 Cape]]). All Tier 2 items are expensive and do ''not'' need to be purchased as part of completing the realm's [[constellation]] (nor does the second wing buff). New Tier 2 items are periodically being added to the game.
+
+== All Regular Spirits ==
+All 37 Regular Spirits in the game are listed in the following table. Other summaries of the regular spirits are also available on separate pages that contain many images and may be slow to load:
+* [[Regular Spirits/Cosmetics|Cosmetics]] has all Cosmetics provided by regular spirits 
+* [[Regular Spirits/Friendship Trees|Friendship Trees]] with the full Friendship Tree of every regular spirit.
+
+In the following table, '''Type''' specifies the [[expression]] type (Emote, Stance, or Call). All emotes have 4 total levels (3 upgrades), unless indicated otherwise:
+* "Emote(6)" indicates an emote that has 6 total levels (where levels 5/6 are Tier 2 purchases that are not necessary for realm constellation completion)
+* "Emote(1)" indicates an emote that only has 1 level (no upgrades)
+
+The numbers provide the total number of candles, hearts, and ascended candles to purchase all the spirit's items. The first three columns are the costs to buy all standard items -- all items that are necessary to complete each realm's [[constellation]]. The last three columns are the costs of any "Tier 2" (T2) items -- the second wing buff and any items above that wing buff.
+
+{| class="article-table sortable"
+|-
+! Spirit
+! Realm
+! Expr.
+! Type
+! {{Candle}}
+! {{Heart}}
+! {{Ascended Candle}}
+! {{Candle}}<sup>T2</sup>
+! {{Heart}}<sup>T2</sup>
+! {{Ascended Candle}}<sup>T2</sup>
+|- id="Pointing Candlemaker"
+! [[Pointing Candlemaker]]
+| [[Isle of Dawn|Isle]]
+| {{Emote|Pointing Candlemaker|table}}
+| Emote
+| {{Candle|14}}
+| {{Heart|4}}
+| {{Ascended Candle|1}}
+|
+|
+|
+|- id="Rejecting Voyager"
+! [[Rejecting Voyager]]
+| [[Isle of Dawn|Isle]]
+| {{Emote|Rejecting Voyager|table}}
+| Emote
+| {{Candle|14}}
+| {{Heart|4}}
+| {{Ascended Candle|1}}
+|
+|
+|
+|- id="Ushering Stargazer"
+! [[Ushering Stargazer]]
+| [[Isle of Dawn|Isle]]
+| {{Emote|Ushering Stargazer|table}}
+| Emote
+| {{Candle|14}}
+| {{Heart|4}}
+| {{Ascended Candle|1}}
+|
+|
+|
+|- class="no-sort"
+! Subtotal
+! [[Isle of Dawn|Isle]]
+!
+!
+! {{Candle|42}}
+! {{Heart|12}}
+! {{Ascended Candle|3}}
+!
+!
+!
+|- id="Applauding Bellmaker"
+! [[Applauding Bellmaker]]
+| [[Daylight Prairie|Prairie]]
+| {{Emote|Applauding Bellmaker|table}}
+| Emote
+| {{Candle|16}}
+| {{Heart|3}}
+| {{Ascended Candle|1}}
+|
+|
+|
+|- id="Bird Whisperer"
+! [[Bird Whisperer]]
+| [[Daylight Prairie|Prairie]]
+| {{Emote|Bird Whisperer|table}}
+| Call
+| {{Candle|9}}
+| {{Heart|6}}
+| {{Ascended Candle|2}}
+|
+|
+|
+|- id="Butterfly Charmer"
+! [[Butterfly Charmer]]
+| [[Daylight Prairie|Prairie]]
+| {{Emote|Butterfly Charmer|table}}
+| Emote
+| {{Candle|14}}
+| {{Heart|7}}
+| {{Ascended Candle|1}}
+|
+| {{Heart|+9}}
+| {{Ascended Candle|+3}}
+|- id="Ceremonial Worshiper"
+! [[Ceremonial Worshiper]]
+| [[Daylight Prairie|Prairie]]
+| {{Emote|Ceremonial Worshiper|table}}
+| Emote(1)
+| {{Candle|9}}
+|
+| {{Ascended Candle|1}}
+|
+|
+|
+|- id="Exhausted Dock Worker"
+! [[Exhausted Dock Worker]]
+| [[Daylight Prairie|Prairie]]
+| {{Emote|Exhausted Dock Worker|table}}
+| Emote
+| {{Candle|20}}
+| {{Heart|3}}
+| {{Ascended Candle|1}}
+|
+|
+|
+|- id="Laughing Light Catcher"
+! [[Laughing Light Catcher]]
+| [[Daylight Prairie|Prairie]]
+| {{Emote|Laughing Light Catcher|table}}
+| Emote
+| {{Candle|20}}
+| {{Heart|10}}
+| {{Ascended Candle|2}}
+|
+|
+|
+|- id="Slumbering Shipwright"
+! [[Slumbering Shipwright]]
+| [[Daylight Prairie|Prairie]]
+| {{Emote|Slumbering Shipwright|table}}
+| Emote
+| {{Candle|14}}
+| {{Heart|3}}
+| {{Ascended Candle|1}}
+|
+|
+|
+|- id="Waving Bellmaker"
+! [[Waving Bellmaker]]
+| [[Daylight Prairie|Prairie]]
+| {{Emote|Waving Bellmaker|table}}
+| Emote(6)
+| {{Candle|14}}
+| {{Heart|7}}
+| {{Ascended Candle|2}}
+| {{Candle|+6}}
+|
+| {{Ascended Candle|+6}}
+|- class="no-sort"
+! Subtotal
+! [[Daylight Prairie|Prairie]]
+!
+!
+! {{Candle|116}}
+! {{Heart|39}}
+! {{Ascended Candle|11}}
+! {{Candle|+6}}
+! {{Heart|+9}}
+! {{Ascended Candle|+9}}
+|- id="Apologetic Lumberjack"
+! [[Apologetic Lumberjack]]
+| [[Hidden Forest|Forest]]
+| {{Emote|Apologetic Lumberjack|table}}
+| Emote
+| {{Candle|18}}
+| {{Heart|8}}
+| {{Ascended Candle|1}}
+|
+|
+|
+|- id="Blushing Prospector"
+! [[Blushing Prospector]]
+| [[Hidden Forest|Forest]]
+| {{Emote|Blushing Prospector|table}}
+| Emote
+| {{Candle|20}}
+| {{Heart|8}}
+| {{Ascended Candle|1}}
+|
+|
+|
+|- id="Dismayed Hunter"
+! [[Dismayed Hunter]]
+| [[Hidden Forest|Forest]]
+| {{Emote|Dismayed Hunter|table}}
+| Emote
+| {{Candle|22}}
+| {{Heart|35}}
+| {{Ascended Candle|3}}
+|
+| {{Heart|+90}}
+| {{Ascended Candle|+9}}
+|- id="Hide'n'Seek Pioneer"
+! [[Hide'n'Seek Pioneer]]
+| [[Hidden Forest|Forest]]
+| {{Emote|Hide'n'Seek Pioneer|table}}
+| Emote(1)
+| {{Candle|9}}
+| {{Heart|22}}
+| {{Ascended Candle|3}}
+|
+| {{Heart|+15}}
+| {{Ascended Candle|+6}}
+|- id="Pouty Porter"
+! [[Pouty Porter]]
+| [[Hidden Forest|Forest]]
+| {{Emote|Pouty Porter|table}}
+| Emote
+| {{Candle|20}}
+| {{Heart|23}}
+| {{Ascended Candle|2}}
+|
+| {{Heart|+60}}
+| {{Ascended Candle|+6}}
+|- id="Shivering Trailblazer"
+! [[Shivering Trailblazer]]
+| [[Hidden Forest|Forest]]
+| {{Emote|Shivering Trailblazer|table}}
+| Emote
+| {{Candle|17}}
+| {{Heart|7}}
+| {{Ascended Candle|2}}
+|
+|
+|
+|- id="Tearful Light Miner"
+! [[Tearful Light Miner]]
+| [[Hidden Forest|Forest]]
+| {{Emote|Tearful Light Miner|table}}
+| Emote(6)
+| {{Candle|20}}
+| {{Heart|3}}
+| {{Ascended Candle|1}}
+| {{Candle|+10}}
+|
+| {{Ascended Candle|+3}}
+|- id="Whale Whisperer"
+! [[Whale Whisperer]]
+| [[Hidden Forest|Forest]]
+| {{Emote|Whale Whisperer|table}}
+| Call
+| {{Candle|9}}
+| {{Heart|2}}
+| {{Ascended Candle|1}}
+|
+|
+|
+|- class="no-sort"
+! Subtotal
+! [[Hidden Forest|Forest]]
+!
+!
+! {{Candle|135}}
+! {{Heart|108}}
+! {{Ascended Candle|14}}
+! {{Candle|+10}}
+! {{Heart|+165}}
+! {{Ascended Candle|+24}}
+|- id="Backflipping Champion"
+! [[Backflipping Champion]]
+| [[Valley of Triumph|Valley]]
+| {{Emote|Backflipping Champion|table}}
+| Emote
+| {{Candle|20}}
+| {{Heart|10}}
+| {{Ascended Candle|2}}
+|
+|
+|
+|- id="Bowing Medalist"
+! [[Bowing Medalist]]
+| [[Valley of Triumph|Valley]]
+| {{Emote|Bowing Medalist|table}}
+| Emote
+| {{Candle|20}}
+| {{Heart|10}}
+| {{Ascended Candle|2}}
+|
+|
+|
+|- id="Cheerful Spectator"
+! [[Cheerful Spectator]]
+| [[Valley of Triumph|Valley]]
+| {{Emote|Cheerful Spectator|table}}
+| Emote
+| {{Candle|20}}
+| {{Heart|15}}
+| {{Ascended Candle|2}}
+|
+|
+|
+|- id="Confident Sightseer"
+! [[Confident Sightseer]]
+| [[Valley of Triumph|Valley]]
+| {{Emote|Confident Sightseer|table}}
+| Stance
+| {{Candle|9}}
+| {{Heart|7}}
+| {{Ascended Candle|2}}
+|
+|
+|
+|- id="Handstanding Thrillseeker"
+! [[Handstanding Thrillseeker]]
+| [[Valley of Triumph|Valley]]
+| {{Emote|Handstanding Thrillseeker|table}}
+| Emote
+| {{Candle|20}}
+| {{Heart|40}}
+| {{Ascended Candle|3}}
+|
+| {{Heart|+120}}
+| {{Ascended Candle|+9}}
+|- id="Manta Whisperer"
+! [[Manta Whisperer]]
+| [[Valley of Triumph|Valley]]
+| {{Emote|Manta Whisperer|table}}
+| Call
+| {{Candle|9}}
+| {{Heart|3}}
+| {{Ascended Candle|1}}
+|
+|
+|
+|- id="Proud Victor"
+! [[Proud Victor]]
+| [[Valley of Triumph|Valley]]
+| {{Emote|Proud Victor|table}}
+| Stance
+| {{Candle|9}}
+| {{Heart|40}}
+| {{Ascended Candle|3}}
+|
+| {{Heart|+30}}
+| {{Ascended Candle|+9}}
+|- class="no-sort"
+! Subtotal
+! [[Valley of Triumph|Valley]]
+!
+!
+! {{Candle|107}}
+! {{Heart|125}}
+! {{Ascended Candle|15}}
+!
+! {{Heart|+150}}
+! {{Ascended Candle|+18}}
+|- id="Courageous Soldier"
+! [[Courageous Soldier]]
+| [[Golden Wasteland|Waste&shy;land]]
+| {{Emote|Courageous Soldier|table}}
+| Stance
+| {{Candle|9}}
+| {{Heart|19}}
+| {{Ascended Candle|2}}
+|
+| {{Heart|+45}}
+| {{Ascended Candle|+6}}
+|- id="Fainting Warrior"
+! [[Fainting Warrior]]
+| [[Golden Wasteland|Waste&shy;land]]
+| {{Emote|Fainting Warrior|table}}
+| Emote
+| {{Candle|23}}
+| {{Heart|20}}
+| {{Ascended Candle|2}}
+|
+|
+|
+|- id="Frightened Refugee"
+! [[Frightened Refugee]]
+| [[Golden Wasteland|Waste&shy;land]]
+| {{Emote|Frightened Refugee|table}}
+| Emote
+| {{Candle|23}}
+| {{Heart|8}}
+| {{Ascended Candle|1}}
+|
+|
+|
+|- id="Lookout Scout"
+! [[Lookout Scout]]
+| [[Golden Wasteland|Waste&shy;land]]
+| {{Emote|Lookout Scout|table}}
+| Emote
+| {{Candle|24}}
+| {{Heart|15}}
+| {{Ascended Candle|2}}
+|
+|
+|
+|- id="Saluting Captain"
+! [[Saluting Captain]]
+| [[Golden Wasteland|Waste&shy;land]]
+| {{Emote|Saluting Captain|table}}
+| Emote
+| {{Candle|23}}
+| {{Heart|25}}
+| {{Ascended Candle|3}}
+|
+|
+|
+|- id="Stealthy Survivor"
+! [[Stealthy Survivor]]
+| [[Golden Wasteland|Waste&shy;land]]
+| {{Emote|Stealthy Survivor|table}}
+| Stance
+| {{Candle|9}}
+| {{Heart|55}}
+| {{Ascended Candle|4}}
+| 
+| {{Heart|+150}}
+| {{Ascended Candle|+12}}
+|- class="no-sort"
+! Subtotal
+! [[Golden Wasteland|Waste&shy;land]]
+!
+!
+! {{Candle|111}}
+! {{Heart|142}}
+! {{Ascended Candle|14}}
+!
+! {{Heart|+195}}
+! {{Ascended Candle|+18}}
+|- id="Levitating Adept"
+! [[Levitating Adept]]
+| [[Vault of Knowledge|Vault]]
+| {{Emote|Levitating Adept|table}}
+| Emote
+| {{Candle|26}}
+| {{Heart|15}}
+| {{Ascended Candle|2}}
+|
+|
+|
+|- id="Meditating Monastic"
+! [[Meditating Monastic]]
+| [[Vault of Knowledge|Vault]]
+| {{Emote|Meditating Monastic|table}}
+| Emote
+| {{Candle|36}}
+| {{Heart|40}}
+| {{Ascended Candle|3}}
+|
+|
+|
+|- id="Memory Whisperer"
+! [[Memory Whisperer]]
+| [[Vault of Knowledge|Vault]]
+| {{Emote|Memory Whisperer|table}}
+| Call
+| {{Candle|9}}
+| {{Heart|53}}
+| {{Ascended Candle|4}}
+|
+| {{Heart|+150}}
+| {{Ascended Candle|+12}}
+|- id="Polite Scholar"
+! [[Polite Scholar]]
+| [[Vault of Knowledge|Vault]]
+| {{Emote|Polite Scholar|table}}
+| Stance
+| {{Candle|9}}
+| {{Heart|17}}
+| {{Ascended Candle|2}}
+|
+|
+|
+|- id="Praying Acolyte"
+! [[Praying Acolyte]]
+| [[Vault of Knowledge|Vault]]
+| {{Emote|Praying Acolyte|table}}
+| Emote
+| {{Candle|24}}
+| {{Heart|30}}
+| {{Ascended Candle|3}}
+|
+| {{Heart|+75}}
+| {{Ascended Candle|+9}}
+|- class="no-sort"
+! Subtotal
+! [[Vault of Knowledge|Vault]]
+!
+!
+! {{Candle|104}}
+! {{Heart|155}}
+! {{Ascended Candle|14}}
+!
+! {{Heart|+225}}
+! {{Ascended Candle|+21}}
+|- class="no-sort"
+! Total
+!
+!
+!
+! {{Candle|615}}
+! {{Heart|581}}
+! {{Ascended Candle|71}}
+! {{Candle|+16}}
+! {{Heart|+744}}
+! {{Ascended Candle|+90}}
+|}
+[[Category:Regular Spirits]]
+
+[[fr:Esprits Réguliers]]
+[[pt-br:Espíritos Regulares]]

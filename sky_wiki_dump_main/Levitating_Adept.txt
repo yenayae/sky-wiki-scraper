@@ -1,0 +1,99 @@
+{{Spirit Infobox
+|type      = Regular
+|emote_type= Emote
+|image     = <gallery>
+Vault-Spirit-Levitating-Adept.png|Standard
+Vault-Spirit-Levitating-Adept-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Facepiece|infobox}}{{Spirit Item||Hair|infobox}}
+|realm     = Vault of Knowledge
+|location  = Second Floor Vault
+}}
+<section begin="Summary" />The '''Levitating Adept''' is a [[Regular Spirit]] in the [[Vault of Knowledge]] who offers the {{Emote|Levitating Adept|inline_text}} Expression. The Levitating Adept is found on the [[Second Floor Vault|Second Floor of Vault]], behind the four-player door that must be lifted. The collectibles [[Levitating Adept#Friendship Tree|offered]] by this Spirit are a {{Spirit Item|Levitating Adept|Facepiece|inline_text}} and a {{Spirit Item|Levitating Adept|Hair|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Levitating-Adept-Guide-777-Ed.png|320x320px|thumb|none|Image Guide by 777.Ed]]
+
+== Memory ==
+<div>{{#ev:youtube|bvv34rDB9h8||inline|Video Guide by Tara}}
+<br>
+The Levitating Adept can be found on the [[Second Floor Vault|Second Floor of Vault]], behind the four-player door that must be lifted, hiding behind a column in the back left corner of the room. This Spirit is a [[Standard Memory|standard memory]] quest with 3 memory fragments and an unlimited overall [[Timed Memory|time limit]].
+
+As their memory unfolds, the Levitating Adept guides two Spirits around the room, pointing to the various lanterns on the floor-to-ceiling shelves. The Levitating Adept then climbs up a ladder to retrieve a lantern while the other two watch, and the trio proceed to carry the lantern into the center of the room.
+
+At the end of the memory, the Levitating Adept joins two other Spirits attempting to lift a lantern with [[wikipedia:Telekinesis|telekinesis]]. While the other two struggle, the Levitating Adept succeeds, lifting the lantern into the air with ease.<br>
+<br>
+[[File:05 VK Spirit - Levitating Adept.jpg|200px|thumb|none|Relive the Levitating Adept's memory]]
+</div>
+{{Clear}}
+
+==Expression==
+{{Distinguish|type=emote|Float|Blindfold Balance Pose|Float Spin}}
+This Spirit offers the {{Emote|Levitating Adept|inline_text}} [[Expression]], which has 4 Levels.
+
+''Unlocking this Expression is a prerequisite to learning the {{Emote|Praying Acolyte|inline_text}} Expression from [[Praying Acolyte]].''<br>
+<br>
+[[File:{{Icon Name||Emote}}|125px|left]]
+<gallery heights="125" captionalign="center">
+Levitating-Adept-telekinesis-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Levitating-Adept-telekinesis-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Levitating-Adept-telekinesis-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Levitating-Adept-telekinesis-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar step forward with their right foot and extend their right arm out, placing their left hand on the side of their head. This action is continued for as long as you don't move your character.
+*Level 2 makes the same motion as Level 1 with an outline of a small purple sphere appearing in front of your avatar's right hand.
+*Level 3 will make your avatar lean down and thrust their left hand forward dramatically. This action is continued for as long as you don't move your character.
+*Level 4 will make the same motion as Level 3 with purple waves radiating from your avatar's extended left hand.
+
+The prices of the three Expression upgrades are {{Cost|5 C}}, {{Cost|5 C}}, and {{Cost|7 C}}. Levels 3 and 4 are only available after unlocking the Spirit's [[Wing Buff]].
+
+==Cosmetics==
+===<span id="Mask">Face Accessory</span>===
+The [[Face Accessory]]<ref name="Mask recategorized">This item was recategorized from a [[Mask]] to a [[Face Accessory]] as a result of the [[Outfit Shrine|Closet]] category expansion in Patch {{v|0.22.0}}.</ref> offered by this Spirit is a silver head guard in the shape of a tall rectangle (closely resembling the [[Elder of the Vault]]'s Face Accessory), costing {{Cost|10 H}}. It is permanently available to all players after unlocking the Spirit's [[Wing Buff]] and the Friendship Tree’s fifth node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||facepiece}} {{!}} The Face Accessory icon
+{{Icon Name||facepiece|real}} {{!}} The Face Accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Hair===
+The [[Hair]] offered by this Spirit is a simple long and straight cut with messy bangs, costing {{Cost|5 H}}. It is permanently available to all players after unlocking the Friendship Tree’s second node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||hair}} {{!}} The Hair icon
+{{Icon Name||hair|real}} {{!}} The Hair front
+{{Icon Name||hair|side}} {{!}} The Hair side
+{{Icon Name||hair|back}} {{!}} The Hair back
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Friendship Tree==
+{{Friendship Tree Info | regular}}
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Levitating Adept
+|image  = Vault-Spirit-Levitating-Adept.png
+
+|nodeC6 = facepiece 10 H
+|nodeC5 = spell5
+|nodeL4 = emote4 7 C
+|nodeC4 = emote3 5 C
+|nodeC3 = wing 2 AC
+|nodeL2 = hair 5 H
+|nodeC2 = spell1
+|nodeR2 = heart
+|nodeL1 = emote2 5 C
+|nodeC1 = emote
+}}<section end="Friendship Tree" />
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Emote Loc-Telekinesis.png
+</gallery>
+
+==References==
+<references />
+
+[[de:Schwebende Forscherin]]
+[[pt-br:Adepta Levitante]]
+[[fr:Adepte lévitante]]

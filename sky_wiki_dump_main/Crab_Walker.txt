@@ -1,0 +1,158 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Enchantment-Spirit-Crab-Walker.png|Standard
+Enchantment-Spirit-Crab-Walker-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Hair|infobox}}{{Spirit Item||Cape|infobox}}
+|season    = Enchantment
+|location  = Forgotten Ark
+|ts        = January 16, 2025 (#131)<br>March 16, 2023 (#83)<br>February 18, 2021 (#29)
+}}
+<section begin="Summary" />The '''Crab Walker''' is a [[Seasonal Spirit]] from the [[Season of Enchantment]] who offers the {{Emote|Crab Walker|inline_text}} Expression. The Crab Walker is found in the [[Forgotten Ark]], at the entrance of the [[Dark Crab]] infested caves to the right of the Ark. The collectibles [[Crab Walker#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Crab Walker|Hair|inline_text}} and a {{Spirit Item|Crab Walker|Cape|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Crab-Walker-promo-image.jpg|none|thumb|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|xhrGhAAAPXc||inline|Video Guide}}
+
+The Crab Walker can be found in the [[Forgotten Ark]], at the entrance of the [[Dark Crab]] infested caves to the right of the Ark. This Spirit has a [[Collection Memory|collection memory]] with 6 memory fragments and a 15-minute overall [[Timed Memory|time limit]].
+
+As their memory unfolds, the Crab Walker can be seen moving throughout the cave tunnels and goofing around with the Crabs that inhabit it, occasionally doing funny poses to imitate the Dark Creatures.
+
+At the end of the memory, the Crab Walker is surrounded by several sleeping Crabs, with a single one awake and scuttling across the cave floor. The Crab Walker playfully imitates its movements, puffing up their Cape and squatting down while shuffling from side to side. The bustling Crab suddenly attacks the Crab Walker, which jumps up in fear and runs away.<br>
+<br>
+[[File:04 GW Seasonal Spirit - Crab Walker.jpg|200px|thumb|none|Relive the Crab Walker's memory]]
+</div>
+{{Clear}}
+
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.<br>
+<br>
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Crab-Walker-crab-walk-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Crab-Walker-crab-walk-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Crab-Walker-crab-walk-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Crab-Walker-crab-walk-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar puff up their Cape, squat down, put their hands behind their back, and imitate a [[Dark Crab|Crab]] walking side to side. This action is continued for as long as you don't move your avatar.
+*Level 2 makes the same motion as Level 1 with a big, triple golden halo around your avatar's head.
+*Level 3 will make your avatar briefly perform the same motion as in Level 1 but at a quicker pace, then flip over onto their back, arms and legs waving helplessly in the air, imitating a stunned Crab. This action is continued for as long as you don't move your avatar. Exiting this Expression will make your avatar rock forward and struggle to stand, before rocking backwards to flip right-side up and land on their feet.
+*Level 4 makes the same motion as Level 3, with a glowing halo around your avatar's head while they're upright, and golden light particles flowing around their body while flailing on their back.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+==Cosmetics==
+===Hair===
+The [[Hair]] offered by this Spirit is a headwear that consists out of tied up hair, a broad purple band around the head with yellow embroidery, and a purple piece of fabric laid around the sides, top, and back of the head, secured with a thin yellow band, costing {{Cost|42 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's second node ({{Cost|12 SC|season=Enchantment}} total). Note that this item is considered a Hair, not a [[Hair Accessory]], and as such it can not be worn over other Hairstyles.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Cape===
+The [[Cape]] offered by this Spirit has a warm, light purple color with a broad, dark purple band around the trim, which is embroidered with yellow thread, costing {{Cost|60 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|42 SC|season=Enchantment}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||Cape|interior}} {{!}} The Cape interior
+{{Icon Name||Cape|real}} {{!}} The Cape back
+<!--{{Icon Name||Cape|exterior}} {{!}} The Cape exterior-->
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Traveling Spirit==
+[[File:SoE crab walk TS info.PNG|200px|right|thumb]]
+{{Friendship Tree Info | traveling
+|ts_dates=*January 16, 2025 (#131)
+*March 16, 2023 (#83)
+*February 18, 2021 (#29)
+*''Error: February 4, 2021.'' The Spirit's appearance on this date was caused by a bug and was only available for a short period of time. The correct, officially announced visit happened two weeks later.
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Crab Walker
+|season = Enchantment
+|image  = Enchantment-Spirit-Crab-Walker.png
+
+|nodeC6 = Cape 60 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Hair 42 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints ===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+No hints given before the [[Crab Walker]]'s first appearance. 
+
+The hints given before the [[Crab Walker]]'s second appearance were: 
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=Second Visit Hints
+|content=<div>
+* Would cosplay
+* Tries not to be late to the party
+* Isn't always sure whats going on
+* Thinks they're sneakier than they actually are
+* Loves it when it rains 
+* Tries to communicate with animals
+* Doesn't get claustrophobic
+* Likes to make people laugh
+* Isn't afraid to get silly!
+* [tio] What if I innocently go crab-walk outside and forget to post the TS until like 5pm?
+* [tio] No hints really, just want to see some chaos... Where's that tea cup?
+* [ikô] I also don't have anything, maybe sassy will some once again bwahahahahaha
+</div>
+}}
+
+==Season Friendship Tree==
+{{Friendship Tree Info | season | season=Enchantment}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Crab Walker
+|type   = season
+|season = Enchantment
+|image  = Enchantment-Spirit-Crab-Walker.png
+
+|nodeC5 = season_heart 3 SC AP
+|nodeL4 = Cape AP
+|nodeC4 = spell5 16 SC
+|nodeL3 = emote4 AP
+|nodeC3 = emote3 14 SC
+|nodeL2 = spell5 AP
+|nodeC2 = Hair 12 SC
+|nodeL1 = emote2 AP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Trivia==
+*The {{Emote|Crab Walker|inline_text}} [[Expression]] is one of only two Expressions (the other being the {{Emote|Herb Gatherer|inline_text}} Expression) to feature sound effect variations when used, with four unique [[Dark Crab]] sounds possible with all Levels.
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Crab walk expression .jpg
+Crab walk spirit.png
+enchantment watching crab walk - spite.jpeg
+enchantment group crab - marie.jpg
+Traveling Spirit ForgottenArk crab walk.png
+Crab walk spirit map.png
+</gallery>
+
+==References==
+<references />
+
+[[de:Krabbenläufer]]
+[[pt-br:Caranguejo Andarilho]]
+[[ru:Крабоход]]
+[[fr:Marcheur de crabe]]

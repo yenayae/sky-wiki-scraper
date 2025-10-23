@@ -1,0 +1,293 @@
+This page details the '''Version History''' of [[Sky: Light Awaits]], with the official release information for updates and patches. This page contains full patch notes posted by thatgamecompany on the official Sky: Light Awaits Helpshift for archive purposes.
+
+{{VersionHistoryNav}}
+{{Tocright}}
+==<span id="0.4.95">0.4.95 - June 8, 2020</span>==
+Sixth and final quest to [[Season of Enchantment]], beginning of [[Days of Rainbow]], double seasonal light and disabling of the Chat Table prop collision. Bug fixes, improvement and other changes. Sky: Light Awaits officially sunsets with this update. {{v|l0.4.95|Read the full patch notes here.}}
+
+== <span id="0.4.94">0.4.94 - May 19, 2020</span> ==
+Hotfix to address bugs introduced with Patches 0.9.2 and 0.9.3. {{v|l0.4.94|Read the full patch notes here.}}
+
+==<span id="0.4.93">0.4.93 - May 16, 2020</span>==
+This is a small hotfix update. App store patch notes are unchanged. {{v|l0.4.93|Read the full patch notes here.}}
+
+==<span id="0.4.92">0.4.92 - May 14, 2020</span>==
+New quests for [[Season of Enchantment]] every Monday, Upcoming [[Days of Healing]] - COVID Relief Pack and Double Heart Event. Many change and bug fixes. {{v|l0.4.92|Read the full patch notes here.}}
+
+==<span id="0.4.91">0.4.91 - April 13, 2020</span>==
+This update includes bug fixes and updates in preparation for the upcoming [[Season of Enchantment]] and end of Days of Spring. {{v|l0.4.91|Read the full patch notes here.}}
+
+==<span id="0.4.90">0.4.90 - April 7, 2020</span>==
+This update includes bug fixes and preparations for the upcoming Season. Pre-order the [[Season of Enchantment]] Adventure Pass and upcoming of the double candle event Days of Spring and the [[Days of Nature]]. {{v|l0.4.90|Read the full patch notes here.}}
+
+==<span id="0.4.85">0.4.85 - March 27, 2020</span>==
+The [[Season of Rhythm]] is ending on Sunday April 5 at 23:59 PDT. This hotfix addresses various fixes and improvements. {{v|l0.4.85|Read the full patch notes here.}}
+
+==<span id="0.4.84">0.4.84 - March 10, 2020</span>==
+The [[Season of Rhythm]] marches on. This Patch includes various fixes and changes. Gratitude Fur Cape Pack will be retiring when the season concludes. {{v|l0.4.84|Read the full patch notes here.}}
+
+==<span id="0.4.83">0.4.83 - February 13, 2020</span>==
+This hotfix is primarily focused on addressing issues with the in-game Shop that were introduced in the previous patch. {{v|l0.4.83|Read the full patch notes here.}}
+
+==<span id="0.4.82">0.4.82 - February 10, 2020</span>==
+The [[Season of Rhythm]] continues, and we have a new update with special content to celebrate our [[Days of Love]] event. This patch introduce various fixes and improvements. {{v|l0.4.82|Read the full patch notes here.}}
+
+==<span id="0.4.81">0.4.81 - January 30, 2020</span>==
+This hotfix introduce correction to various bugs and issues. Reverted a previously patched out-of-bounds area in Isle of Dawn that was a fan favorite. Rainbow bridge has been added again after being fixed in a previous patch update. Players can once again venture out-of-bounds from the Valley of Triumph temple. {{v|l0.4.81|Read the full patch notes here.}}
+
+==<span id="0.4.80">0.4.80 - January 23, 2020</span>==
+Welcome to the [[Season of Rhythm]]! Winter is here and so is a troupe of performing spirits featuring new attire, expressions, and instruments to unlock. This patch update comes many new and highly-anticipated items to collect, spirits to find, and additional fixes and polish. Celebrating the Lunar New Year with a Fireworks show on Friday January 24 and a Double Heart event. Beginning Friday January 31 at 12:00 PST (UTC-8) and every other weekend thereafter (biweekly) Traveling Spirits from a previous season will appear in Home for a short time. Changes to Adventure passe gifting. {{v|l0.4.80|Read the full patch notes here.}}
+
+==<span id="0.4.76">0.4.76 - December 21, 2019</span>==
+The [[Season of Belonging]] continues! This update includes the following fixes and improvements for both iOS and Android. {{v|l0.4.76|Read the full patch notes here.}}
+
+==<span id="0.4.75">0.4.75 - December 12, 2019</span>==
+The [[Season of Belonging]] continues! This update includes Winter Holidays, a double candle event and some general updates and bug fixes. {{v|l0.4.75|Read the full patch notes here.}}
+
+==<span id="0.4.71">0.4.71 - November 22, 2019</span>==
+[[Sky for Android]] entered Limited Live in Singapore for Android 9 and 10 and includes bug fixes. {{v|l0.4.71|Read the full patch notes here.}}
+
+==<span id="0.4.70">0.4.70 - November 16, 2019</span>==
+Welcome to the [[Season of Belonging]]! A family is scattered across the world and needs your help to reunite them with each other. This update also includes bugs and fixes. {{v|l0.4.70|Read the full patch notes here.}}
+
+==<span id="0.4.65">0.4.65 - October 27, 2019</span>==
+This update includes many bug fixes and quality of life improvements. {{v|l0.4.65|Read the full patch notes here.}}
+
+==<span id="0.4.61">0.4.61 - September 27, 2019</span>==
+This update includes many bug fixes and quality of life improvements. {{v|l0.4.61|Read the full patch notes here.}}
+
+==<span id="0.4.60">0.4.60 - September 22, 2019</span>==
+The [[Season of Lightseekers]] is about to begin! Lighting a friend’s star in the constellation now sends a partial heart instead of candle and a secret new area to discover with others over time. Contain also many bugs and fix in preparation for the Season of Lightseekers. {{v|l0.4.60|Read the full patch notes here.}}
+
+==<span id="0.4.18">0.4.18 - August 29, 2019</span>==
+This patch include interim bug fix patch in preparation of the incoming new Seasonal event. {{v|l0.4.18|Read the full patch notes here.}}
+
+==<span id="0.4.17">0.4.17 - August 2, 2019</span>==
+This includes bug fixes and performance improvements to name a few things.  {{v|l0.4.17|Read the full patch notes here.}}
+
+==<span id="0.4.16">0.4.16 - July 18, 2019</span>==
+This update is primarily focused on bug fixes and quality of life improvements reported by our loyal players! This was the first major patch update after Sky: Children of the Light was released on iOS. {{v|l0.4.16|Read the full patch notes here.}}
+
+==<span id="0.4.15">0.4.15 - July 16, 2019</span>==
+*Welcome to Sky!
+
+*Sky: Light Awaits fully merges with Sky: Children of the Light
+===Additional Notes===
+This update was when Sky: Children of the Light became available to download on iOS.
+
+==<span id="0.4.14">0.4.14 - July 4, 2019</span>==
+*Updated screenshots and preview
+
+==<span id="0.4.13">0.4.13 - July 2, 2019</span>==
+*Updated localizations
+
+==<span id="0.4.10">0.4.10 - July 12, 2019</span>==
+This update introduces Treasure Candles, changes to the Eye of Eden, and various other improvements. {{v|l0.4.10|Read the full patch notes here.}}
+
+==<span id="0.4.12">0.4.12 - June 20, 2019</span>==
+*Updated to latest stable version
+
+*Updated localizations to latest versions
+
+==<span id="0.4.9">0.4.9 - June 19, 2019</span>==
+This update includes visual improvements to the story, a revamp of the layout and pricing of Spirit Friendship menus, changes to the Flight controls, adds Social Hub areas to each realm, and various other improvements. {{v|l0.4.9|Read the full patch notes here.}}
+
+==<span id="0.4.11">0.4.11 - June 11, 2019</span>==
+*Updated screenshots and preview
+
+==<span id="0.4.8">0.4.8 - May 14, 2019</span>==
+This update includes bug fixes for the Krill with more accurate targeting so they are more challenging, added ambient sound effects to Home based on the time of day, and various other improvements. {{v|l0.4.8|Read the full patch notes here.}}
+
+==<span id="0.4.7">0.4.7 - April 17, 2019</span>==
+This update is Sky: Light Awaits' biggest update with major changes to every level, changes to other major aspects of the game, the introduction of Season of Gratitude, and various other improvements. {{v|l0.4.7|Read the full patch notes here.}}
+
+==<span id="0.4.6">0.4.6 - January 20, 2019</span>==
+This update includes the Winter 2018 Finale for Adventure Pass holders, minor economy balance updates for cosmetics, consumables, constellations, and various other improvements. {{v|l0.4.6|Read the full patch notes here.}}
+
+==<span id="0.4.5">0.4.5 - January 14, 2019</span>==
+This update includes the addition of a chat bubble with three ellipses so friends can see other friends typing, separated the 8 player chat bench in Aviary into 4 2-player private chat benches, and minor bug fixes and improvements. {{v|l0.4.5|Read the full patch notes here.}}
+
+==<span id="0.4.4">0.4.4 - December 20, 2018</span>==
+*Minor quality of life improvements
+
+==<span id="0.4.3">0.4.3 - December 19, 2018</span>==
+This update adds new features in-game with their feature descriptions in the in-game FAQ menu, an update to Wing Blessings, a rework to the Adventure Pass system, and various other improvements. {{v|l0.4.3|Read the full patch notes here.}}
+
+==<span id="0.4.2">0.4.2 - December 15, 2018</span>==
+This update includes an economy rebalance, major overhauls and additions across every aspect of the entire game, and various other improvements. {{v|l0.4.2|Read the full patch notes here.}}
+
+==<span id="0.3.21">0.3.21 - October 10, 2018</span>==
+*Performance optimizations and general fixes
+
+==<span id="0.3.20">0.3.20 - October 4, 2018</span>==
+This hotfix adds support for iPhone XR, XS, XS Max, and various other improvements. {{v|l0.3.20|Read the full patch notes here.}}
+
+==<span id="0.3.19">0.3.19 - September 23, 2018</span>==
+General Fixes:
+*Daily Quest rewards are now functioning properly
+
+==<span id="0.3.18">0.3.18 - September 12, 2018</span>==
+*Fixed the outfit shop crash for players who have bought the orange cape
+
+==<span id="0.3.17">0.3.17 - September 9, 2018</span>==
+*Minor tutorial improvement
+
+==<span id="0.3.16">0.3.16 - August 16, 2018</span>==
+This update introduces Constellation Maps, introduces Darkness plants to Forest & Wasteland, and various other improvements. {{v|l0.3.16|Read the full patch notes here.}}
+
+==<span id="0.3.15">0.3.15 - July 28, 2018</span>==
+This hotfix adds statues across all the realms which hold a special secret, performance optimizations, and changes the visibility of Message Candles. {{v|l0.3.15|Read the full patch notes here.}}
+
+==<span id="0.3.14">0.3.14 - July 13, 2018</span>==
+
+*Minor usability fixes in tutorial
+*Bug fixes
+
+==<span id="0.3.13">0.3.13 - July 2, 2018</span>==
+This update adds quality of life improvements, visual improvements, changes the location of where Daily Quests can be found, revamps Storm so it is only available on weekends and can only be completed once a week, and various other improvements. {{v|l0.3.13|Read the full patch notes here.}}
+
+==<span id="0.3.12">0.3.12 - June 10, 2018</span>==
+This update adds new Daily Quests, a new NPC in Aviary, updates the Terms of Service, texture fixes, and various other improvements. {{v|l0.3.12|Read the full patch notes here.}}
+
+==<span id="0.3.11">0.3.11 - June 2, 2018</span>==
+This update includes major changes to The Aviary, introduction of Rainbow Candles and Rainbow Hearts as a new currency, Darkstone tweaks, updates to Message Candles, and various other improvements. {{v|l0.3.11|Read the full patch notes here.}}
+
+==<span id="0.3.10">0.3.10 - May 25, 2018</span>==
+
+* New Age Gate
+* Privacy Policy and Terms of Service updates
+
+==<span id="0.3.9">0.3.9 - April 24, 2018</span>==
+Overview
+
+A darkness grows on the horizon in the world of Sky. Travelers beware, for loss is the only way through the Storm, and those that face it rarely leave as the same person who entered.
+
+New
+
+* Minor bug fixes
+
+==<span id="0.3.8">0.3.8 - April 19, 2018</span>==
+This hotfix includes cape level up character animations, difficulty tuning for the Eye of Eden, control improvements, and various other improvements. {{v|l0.3.8|Read the full patch notes here.}}
+
+==<span id="0.3.7">0.3.7 - April 11, 2018</span>==
+
+* Control improvements
+* Bug Fixes
+
+==<span id="0.3.6">0.3.6 - April 5, 2018</span>==
+A darkness grows on the horizon in the world of Sky. Travelers beware, for loss is the only way through the Storm, and those that face it rarely leave as the same person who entered.
+
+New
+
+* Eye of Eden checkpoint fix.
+* Orbit animation fix.
+
+==<span id="0.3.5">0.3.5 - April 4, 2018==
+<span style="font-size: 20px;">'''- Beta -'''</span>
+
+This update adds the Eye of Eden into the game, adds the Rebirth System, and various other improvements. {{v|l0.3.5|Read the full patch notes here.}}
+
+=== Additional Notes===
+This update was when Sky: Light Awaits launched and came out of Early Beta.
+
+==<span id="0.3.4">0.3.4 - March 26, 2018</span>==
+<span style="font-size: 20px;">'''- Beta -'''</span>
+
+This update contains mostly bug fixes and tutorial funnel updates based on feedback from the prior version. {{v|l0.3.4|Read the full patch notes here.}}
+
+==<span id="0.3.3">0.3.3 - March 19, 2018</span> ==
+<span style="font-size: 20px;">'''- Beta -'''</span>
+
+This update contains mostly bug fixes based on feedback from the prior version. {{v|l0.3.3|Read the full patch notes here.}}
+
+== <span id="0.3.2">0.3.2 - March 12, 2018</span>==
+<span style="font-size: 20px;">'''- Beta -'''</span>
+
+This update contains mostly bug fixes based on feedback from the prior version. {{v|l0.3.2|Read the full patch notes here.}}
+
+==<span id="0.3.1">0.3.1 - March 6, 2018</span>==
+<span style="font-size: 20px;">'''- Beta -'''</span>
+
+In this update, changes to how and where collectables are attained, changes to the Friend Level system, and various other improvements were made. {{v|l0.3.1|Read the full patch notes here.}}
+
+==<span id="0.3.0">0.3.0 - February 26, 2018</span>==
+<span style="font-size: 20px;">'''- Beta -'''</span>
+
+Updates: 
+
+#) Improvements to Home based on the community feedback.
+#) Experimenting Day area with more collaboration requirement.
+#) Shortened the first Home space visit from the Isle of Dawn
+#) Various bug fixes.
+
+==<span id="0.2.9">0.2.9 - February 20, 2018</span>==
+<span style="font-size: 20px;">'''- Beta -'''</span>
+
+Minor bug fixes to intro and analytics system.
+
+==<span id="0.2.8">0.2.8 - February 19, 2018</span>==
+<span style="font-size: 20px;">'''- Beta -'''</span>
+
+This update adds the Shores of Manna and the Forbidden Vault, Dark Creatures now remove Emotes when they attack players, Invite Friend feature has been reactivated, and various other improvements. {{v|l0.2.8|Read the full patch notes here.}}
+
+==<span id="0.2.7">0.2.7 - February 12, 2018</span>==
+<span style="font-size: 20px;">'''- Beta -'''</span>
+
+Fixed the camera clipping issue. Improvements to the initial island area and Home area.
+
+==<span id="0.2.6">0.2.6 - February 10, 2018</span>==
+<span style="font-size: 20px;">'''- Beta -'''</span>
+
+This hotfix removes the amount of people you can have friended (Friend limit), updates the tutorial in Dawn, Candle Space, and Day, and various other improvements. {{v|l0.2.6|Read the full patch notes here.}}
+
+==<span id="0.2.5">0.2.5 - February 1, 2018</span>==
+<span style="font-size: 20px;">'''- Beta -'''</span>
+
+This Hotfix includes IAP pricing adjustments, graphical improvements, and various other improvements. {{v|l0.2.5|Read the full patch notes here.}}
+
+==<span id="0.2.4">0.2.4 - January 30, 2018</span> ==
+<span style="font-size: 20px;">'''- Beta -'''</span>
+
+This Hotfix adds the quick-screenshot feature by double-clicking the bottom, righthand corner, additional animations, and various other improvements. {{v|l0.2.4|Read the full patch notes here.}}
+
+==<span id="0.2.3">0.2.3 - January 29, 2018</span>==
+<span style="font-size: 20px;">'''- Beta -'''</span>
+
+This Hotfix adds the Teleport to Friend ability, a new hairstyle in Sunset, and various other improvements. {{v|l0.2.3|Read the full patch notes here.}}
+
+==<span id="0.2.2">0.2.2 - January 10, 2018</span>==
+<span style="font-size: 20px;">'''- Beta -'''</span>
+
+This hotfix adds a Starter Pack to the store, improves stores and closets, and various other improvements. {{v|l0.2.2|Read the full patch notes here.}}
+
+==<span id="0.2.1">0.2.1 - January 3, 2018</span>==
+<span style="font-size: 20px;">'''- Beta -'''</span>
+
+Critical Bug Fixes:
+
+#) Fixed the bug during level switch when players are holding hands.
+#) Fixed the crash bug when a player unlocked a large amount of secrets and outfits.
+
+==<span id="0.2.0">0.2.0 - December 28, 2017</span>==
+<span style="font-size: 20px;">'''- Beta -'''</span> 
+
+*Fixed minor bugs.
+
+==<span id="0.1.9">0.1.9  - December 19, 2017</span>==
+<span style="font-size: 20px;">'''- Beta -'''
+
+Just a little housecleaning: 
+
+- Fixed a few minor bugs
+
+==<span id="0.1.8">0.1.8 - December 19, 2017</span>==
+<span style="font-size: 20px;">'''- Beta -'''</span>
+
+This update was when Sky: Light Awaits came out of Closed Alpha testing and opened invites to the Closed Beta testing.
+
+{{PatchNav/Limited}}
+[[Category:Patch Notes]]
+
+[[pt-br:Histórico de Versões/Limitado]]
+[[fr:Historique des Versions/Limité]]
+[[Category:Sky: Light Awaits]]

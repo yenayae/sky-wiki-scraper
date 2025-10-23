@@ -1,0 +1,40 @@
+'''Player Creations''' refer to any player-made content in-game such as [[Message Candle Spots|Message Candles]], [[Blessings (Spells)#Message_Boat_Spell|Message Boats]], [[Shared Memories Candles|Shared Memories]], or [[Shared Spaces]]. Each Player Creation requires at least one 'like' from a friend or follower before the creation becomes visible to other players. Players who view a Player Creation can send the creator a [[Currency#Hearts|Heart]] {{Cost|H}} for three candles {{Cost|C}} once they've liked the creation. You don't have to be friends with a player to send them a heart, and you can send them a heart through the creation in addition to gifting them a regular heart every day. 
+
+==[[Message Shrines|Message Candles]]==
+{{#lst:Message Shrines|Message Candles}}
+
+==[[Blessings (Spells)#Message Boat Spell|Message Boats]]==
+{{#lst:Blessings (Spells)|Message Boats}}
+
+In addition to Message Boats, Message Lanterns, Message Cranes, & Message Gondolas were later added during Days of Fortune 2021, Days of Love 2022 & 2024 to match the theme of their respective events. 
+
+===[[Blessings (Spells)#Message Crane Spell|Message Cranes]]===
+{{#lst:Blessings (Spells)|Message Cranes}}
+
+===[[Blessings (Spells)#Message Lantern Spell|Message Lanterns]]===
+{{#lst:Blessings (Spells)|Message Lanterns}}
+
+===[[Blessings (Spells)#Message Gondola Spell|Message Gondolas]]===
+{{#lst:Blessings (Spells)|Message Gondolas}}
+
+==[[Shared Memories]]==
+{{#lst:Shared Memories Candles|Summary}}
+
+{{#lst:Shared Memories Candles|Shared Memories}}
+
+== [[Shared Spaces]]==
+{{#lst:Shared Spaces|Summary}}
+
+{{#lst:Shared Spaces|Shared Spaces}}
+===[[Shared Spaces#Shared Space Spells|Shared Space Spells]]===
+{{#lst:Shared Spaces|Shared Space Spell}}
+
+==Trivia==
+As of Patch {{v|0.25.0}}, players can no longer 'passively' receive a heart {{Cost|H}} from earning 'likes'. Previously, players could earn one heart after receiving enough likes on a Player Creation. Each type of creation could only earn one heart per cooldown. For example, a Player could only earn one heart from any Shared Space in 4 days.
+
+==References==
+<references />
+
+[[pt-br:Criações de Jogadores]]
+
+[[Category:Social Features]]

@@ -1,0 +1,263 @@
+{{Season
+| title = Season of Passage
+| image = SoPassage-Promo-image-wide.png
+| start = April 17, 2023
+| end = July 2, 2023
+| spirits = 4
+| previousSeason = [[Season of Remembrance]]
+| nextSeason = [[Season of Moments]]
+| constellation = Passage-Spirit-Constellation.png
+| symbol = 17_SOPassage_logo.png
+}}
+The '''Season of Passage''' was the seventeenth Seasonal Event in the Live version of ''Sky'' since the global release, following [[Season of Remembrance]]. It began  '''April 17, 2023 at 00:00 PDT (UTC -7)''' and ended '''23:59 July 2, 2023 at 23:59 PDT (UTC -7)''',<ref name="passage-extended">The Season's end date had been extended from June 25 to July 2, probably as a response to the frequent crashing that iOS players experienced in Patch {{v|0.21.5}}.</ref> lasting '''77''' days. 
+
+Venture into the twilight and meet four young Spirits in [[Isle of Dawn]]. Experience their memories as each one learned to navigate the route towards their community.<br>
+<br>
+{{#ev:youtube|-K_rhoYk1zQ||inline|Season of Passage Trailer}}
+
+==Welcome==
+<center class="title-text-welcome">[https://www.thatskygame.com/news/new-pathways-beckon-in-season-of-passage Welcome to the Season of Passage!]</center>
+{{Quote|<br>'''''A new adventure begins at nightfall!'''''}}
+
+Follow the path of a community that once made its way through the Realms. Take part in the Seasonal Quests, each one a rite that challenges initiates to build towards a goal without anyone being left behind. These Quests begin after sunset, each held in a different part of the various Realms.
+
+==Passage Stone==
+{{Main|Passage Stone}}
+[[File:The-Passage-Stone-in-Isle-of-Dawn.jpg|thumb|right|300px|The Passage Stone]]
+{{Quote|<br>'''A place of learning and cooperation.'''|Passage Stone Opening}}
+{{#lst:Isle of Dawn/Passage Stone|Summary}}
+
+==Daily Quests & Seasonal Candles==
+===Daily Quests===
+Collect Seasonal Candles throughout the Season to trade with the new Spirits for their [[Season_of_Passage#All_Passage_Friendship_Trees|cosmetics]]. A total of 6 Seasonal Candles were available to gather, as follows:
+* Each day the [[Passage Guide]] stood next to a Realm's portal, indicating where the day's four [[Quests|Daily Quests]] could be completed. Players would earn one Seasonal Candle per Quest completed. Complete your Quests and claim your reward at the Return Shrine Statue at [[Home]]. (4 Candles)
+* Players could also collect an extra Candle by collecting the 4 Seasonal bunches <small>(more information on the "Seasonal bunches locations" below).</small> (1 Candle)
+* Players who had the [[Season Pass]] could claim a Seasonal Candle at Home as a free daily bonus. (1 Candle)
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape">
+File:Passage-Seasonal-candles.jpg|Passage Seasonal Candles
+File:Passage-Season-Pass-1.png|Season Pass - page 1
+File:Passage-Season-Pass-2.png|Season Pass - page 2
+File:Passage-Season-Pass-3.png|Season Pass - page 3
+</gallery>
+===Seasonal Candle Bunches Locations===
+<noinclude>The Seasonal Candle bunches were found towards the beginning of each Realm, one Realm a day according to the [[Passage Guide|Ultimate Guide]]'s location.<br>
+<br>
+<gallery spacing="small" captionalign="center">
+Daylight-Prairie-Seasonal-Candles-locations-Pattern-A.png|Prairie Rotation 1 & 2
+Hidden-Forest-Seasonal-Candles-locations-Pattern-A.png|Forest Rotation 1 & 2
+Valley-of-Triump-Seasonal-Candles-locations-Pattern-A.png|Valley Rotation 1 & 2
+Golden-Wasteland-Seasonal-candles-Locations-Pattern-A.png|Wasteland Rotation 1 & 2
+Vault-of-knowledge-Seasonal-candles-Locations-Pattern-A.png|Vault Rotation 1 & 2
+</gallery></noinclude>
+
+==Child of Light Locations<span id="Winged Light Locations"></span>==
+No [[Children of Light]] were added to the Season of Passage.
+
+==Spirit Memory Quests==
+The Season of Passage featured a new Quest format featuring [[Festival Tech]]. In addition, each Seasonal Quest brings players to different areas throughout the Realms at night, giving a fresh perspective to old locations.
+
+All the Quests can be completed independently but, starting with the [[#Quest 2|second Quest]] onwards, they are held with larger groups of Sky Kids, with each player’s effort contributing to the greater goal (and opportunities to earn a bit of extra [[Pieces of Light|Light]] along the way). 
+
+These larger group Quests begin at set intervals, several times per hour ('''every 15 minutes''' at '''xx:00''', '''xx:15''', '''xx:30''', '''xx:45'''), to allow initiates to participate together. Head to the location where the Quests begin ahead of time and gather with your group during the countdown to each ritual. If you meditate to join the Quest outside of the start time, you’ll be in the Quest area "waiting room" during the countdown until it eventually starts.    
+
+Players not in the same server with you will look different during the Quests, taking the shape of fluffy white creatures wearing Masks, as pictured below.<br> 
+<br>
+<gallery spacing="small" captionalign="center"  widths="125">
+Season-of-Passage-player-serow.png|During the Passage of Reliance's Quest
+Season-of-Passage-players-boar.png|During the Passage of Assistance's Quest
+Passage-out-of-server-monkey-player.png|During the Passage of Coordination's Quest
+Passage-out-of-server-racoon-player.png|During the Passage of Alignment's Quest
+</gallery>
+
+===Quest #1<span id="Quest 1"></span>===
+In the first Quest, the [[Passage Guide]] seeks your help as the unruly adolescent [[#Spirits and Cosmetics|Spirits]] are late to prepare the landscape for the evening Passages. The Passage Guide summons the first sacred Mask in [[Isle of Dawn]], above the cave containing a [[Children_of_Light#Isle_of_Dawn_(9)|Child of Light]], for you to find and complete the preparations on their behalf.
+
+Initiate the lessons of Passage by sitting at the meditation spot that appears after lighting the Mask. Five tiny fire cauldrons will float above your head that must be delivered to specific locations across the sand dunes. (''Honking will reveal a blue star that indicates their locations.'') You will be prompted to use the {{Emote|Stretching Guru|inline_text}} [[Expression]] to place down the cauldron, each of which must then be lit. Once all five have been placed and lit, the Quest is completed. The particles of light originating from the cauldrons are drawn towards the [[Passage Stone]], swirling around it in a mesmerizing nighttime display reminiscent of thousands of fireflies. 
+
+Next, speak to the Passage Guide at the Passage Stone, where the reluctant adolescent Spirits have been summoned by the cauldrons' flames. The Passage Guide recalls the sacred Mask with the appearance of a '''Bear''' and mounts it on the side of the Passage Stone, where four empty markings suggest more Quests to come. Below it, a [[Murals|Mural]] is added that depicts the summoning of the four young Spirits.
+
+With the completion of this Quest, [[Festival Tech]] is permanently activated for the Passage Stone, allowing players to explore the desert at nightfall alongside a crowd.<br>
+<br>
+{{#ev:youtube|5glJpVDvBAI|300px||Quest 1 by Nastymold}}
+
+===Quest #2<span id="Quest 2"></span>===
+[[File:Wax-forest-brook-passage-reliance.png|thumb|249x249px|Passage of Reliance Mask location]]
+In the second Quest, the [[Passage Guide]] has crafted a Mask to teach the '''Passage of Reliance'''. The Passage Guide summons the second sacred Mask in [[Forest's Brook]], at the base of a tree near the entrance from [[Forest Clearing]], and sends you along with the adolescent Spirits to find and complete its Passage.
+
+Initiate the Passage of Reliance by sitting at the meditation spot that appears after lighting the Mask. Once the Quest begins at its [[#Spirit Memory Quests|set intervals]] of every 15 minutes, you are instructed to clean up debris that careless prospectors have discarded throughout Forest's Brook. "The darkness of the forest will overcome you if you wander too far," so make sure to stay within the safety of the Mask's light as it moves through the forest. Picking up the debris along the path will reward you with [[Pieces of Light]], some of which require the help of other players to collect - however, only a single piece of debris is needed to complete the Quest. 
+
+Once finished, speak to the Passage Guide at the [[Passage Stone]], where the Spirits have climbed on top to gather after having honored the wisdom of Reliance. The Passage Guide recalls the sacred Mask with the appearance of a '''Serow''' and mounts it on the side of the Passage Stone, next to the previous one. Below it, a [[Murals|Mural]] is added that depicts the trek through the littered forest. With the completion of this Quest, the [[Overactive Overachiever]] will now wear the [[Passage Guide#Serow Mask|Serow Mask]] while resting at the Passage Stone and during subsequent cutscenes.<br>
+<br>
+{{#ev:youtube|xLNv6QYTvP4|300px||Quest 2 by Nastymold}}
+
+===Quest #3<span id="Quest 3"></span>===
+[[File:Wax-prairie-caves-passage-assistance.png|thumb|249x249px|Passage of Assistance Mask location]]
+In the third Quest, the [[Passage Guide]] has crafted a Mask to teach the '''Passage of Assistance'''. The Passage Guide summons the third sacred Mask in [[Prairie Caves]], at the strip of land between the two ponds within its center, and sends you along with the adolescent Spirits to find and complete its Passage.
+
+Initiate the Passage of Assistance by sitting at the meditation spot that appears after lighting the Mask. Once the Quest begins at its [[#Spirit Memory Quests|set intervals]] of every 15 minutes, you are instructed to group up with others to gather as many masks as you can before they spin away. To collect the sparkling blue masks that appear throughout the area, you must stand near one for several seconds while your avatar automatically uses the {{Emote|Levitating Adept|inline_text}} [[Expression]]. The speed at which they are collected will increase with the number of players standing near the mask, and each one that is gathered will reward you with [[Pieces of Light]] - however, only a single mask is needed to complete the Quest. When the timer runs out and the Quest ends, the swirling orb of masks at the center of Prairie Caves will explode and leave behind even more Light for the player to collect.
+
+Once finished, speak to the Passage Guide at the [[Passage Stone]], where the Spirits have climbed on top to gather after having honored the wisdom of Assistance. The Passage Guide recalls the sacred Mask with the appearance of a '''Boar''' and mounts it on the side of the Passage Stone, next to the previous two. Below it, a [[Murals|Mural]] is added that depicts the chase within the eclipsed cave. With the completion of this Quest, the [[Melancholy Mope]] will now wear the [[Passage Guide#Boar Mask|Boar Mask]] while resting at the Passage Stone and during subsequent cutscenes.<br>
+<br>
+{{#ev:youtube|nKb4ZlBLLYE|300px||Quest 3 by Nastymold}}
+
+===Quest #4<span id="Quest 4"></span>===
+[[File:Wax-prairie-butterfly-fields-passage-coordination.png|thumb|249x249px|Passage of Coordination Mask location]]
+In the fourth Quest, the [[Passage Guide]] has crafted a Mask to teach the '''Passage of Coordination'''. The Passage Guide summons the fourth sacred Mask in [[Butterfly Fields]], on the side of the cave hiding a [[Children_of_Light#Butterfly_Fields_(3)|Child of Light]], and sends you along with the adolescent Spirits to find and complete its Passage.
+
+Initiate the Passage of Coordination by sitting at the meditation spot that appears after lighting the Mask. Once the Quest begins at its [[#Spirit Memory Quests|set intervals]] of every 15 minutes, you are instructed to push the lights to awaken the dormant masks around the fields. Your avatar will automatically use the {{Emote|Levitating Adept|inline_text}} [[Expression]] when you stand near a large yellow orb and push it away. The closer to the center of the orb you stand, the faster it will be pushed. Each mask that is awakened by pushing a light orb into it will reward you with [[Pieces of Light]], with the paired masks rewarding larger quantities - however, only a single mask needs to be awakened to complete the Quest.
+
+Once finished, speak to the Passage Guide at the [[Passage Stone]], where the Spirits have climbed on top to gather after having honored the wisdom of Coordination. The Passage Guide recalls the sacred Mask with the appearance of a '''Monkey''' and mounts it on the side of the Passage Stone, next to the previous three. Below it, a [[Murals|Mural]] is added that depicts the awakening of the masks within the fields.
+
+The Passage Guide stands back to admire the Murals with three of their pupils before the [[Tumbling Troublemaker]] rolls into the scene - and crashes right into their teacher's legs. Unimpressed with their antics, the Passage Guide sends the young Spirit away. With the completion of this Quest, the [[Oddball Outcast]] will now wear the [[Passage Guide#Monkey Mask|Monkey Mask]] while resting at the Passage Stone and during subsequent cutscenes.<br>
+<br>
+{{#ev:youtube|aXshB3wWGZ0|300px||Quest 4 by Nastymold}}
+
+===Quest #5<span id="Quest 5"></span>===
+[[File:Wax-forest-tree-tunnels-passage-alignment.png|thumb|249x249px|Passage of Alignment Mask location]]
+In the fifth and final Quest, the [[Passage Guide]] has crafted a Mask to teach the '''Passage of Alignment'''. The Passage Guide summons the fifth sacred Mask in [[Tree Tunnels]], at the base of a tree near the entrance from [[Forest's Brook]], and sends you along with the adolescent Spirits to find and complete its Passage.
+
+Initiate the Passage of Alignment by sitting at the meditation spot that appears after lighting the Mask. Once the Quest begins at its [[#Spirit Memory Quests|set intervals]] of every 15 minutes, you are instructed to reestablish the Light Stream's path through the forest flora. Your avatar will automatically use the {{Emote|Stretching Guru|inline_text}} [[Expression]] when you are near the blue Light Stream, and in order to guide its path forward, you must coordinate with other players to form a line towards the fire cauldrons along the path. (''Honking will reveal a blue star that indicates their locations.'') The speed at which the Light Stream moves will increase with the number of players lined up, and each fire cauldron that is reached will reward you with [[Pieces of Light]] - however, only a single cauldron is needed to complete the Quest.
+
+Once finished, speak to the Passage Guide at the [[Passage Stone]], where the Spirits have climbed on top to gather after having honored the wisdom of Alignment, and the [[Tumbling Troublemaker]]'s mischief has been forgiven. The Passage Guide recalls the sacred Mask with the appearance of a '''Racoon''' and mounts it on the side of the Passage Stone, next to the previous four. Below it, a [[Murals|Mural]] is added that depicts the procession through the forest. With all the Passages completed, the five sacred Masks rearrange themselves to form a circle, and additional details are added to the Mural. Lastly, the Tumbling Troublemaker will wear the [[Passage Guide#Raccoon Mask|Raccoon Mask]] during the final cutscene where the Spirits offer their thanks and a final farewell.<br>
+<br>
+{{#ev:youtube|ska7iT_PZgs|300px||Quest 5 by Nastymold}}
+
+==Spirits and Cosmetics==
+All of the ''Season of Passage'' Spirits can be found in Isle of Dawn. There were 4 new Expressions to gather, with 4 Spirits overall.
+{{#tag:gallery
+|{{Icon Name|Oddball Outcast|emote}} {{!}} {{Icon Name|Oddball Outcast|emote_name}}
+{{Icon Name|Tumbling Troublemaker|emote}} {{!}} {{Icon Name|Tumbling Troublemaker|emote_name}}
+{{Icon Name|Melancholy Mope|emote}} {{!}} {{Icon Name|Melancholy Mope|emote_name}}
+{{Icon Name|Overactive Overachiever|emote}} {{!}} {{Icon Name|Overactive Overachiever|emote_name}}
+|widths=100|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+===All Passage Friendship Trees===
+{{Mobile Tabber
+|tab1 = {{Season Icon|Passage|tab}}
+|c1   = {{#lst:Passage Guide|Friendship Tree}}
+|tab2 = {{Icon|Quest-icon.png|link=Quests|tab}}
+|c2   = {{#lst:Passage Guide|Quest Tree}}
+|tab3 = {{Emote|Oddball Outcast|tab}}
+|c3   = {{#lst:Oddball Outcast|Season Friendship Tree}}
+|tab4 = {{Emote|Tumbling Troublemaker|tab}}
+|c4   = {{#lst:Tumbling Troublemaker|Season Friendship Tree}}
+|tab5 = {{Emote|Melancholy Mope|tab}}
+|c5   = {{#lst:Melancholy Mope|Season Friendship Tree}}
+|tab6 = {{Emote|Overactive Overachiever|tab}}
+|c6   = {{#lst:Overactive Overachiever|Season Friendship Tree}}
+}}
+
+===[[Oddball Outcast]]===
+{{#lst:Oddball Outcast|Summary}}
+{{#tag:gallery
+|{{Icon Name|Oddball Outcast|hair|real}} {{!}} The Hair
+{{Icon Name|Oddball Outcast|neckpiece|real}} {{!}} The Neck Accessory
+{{Icon Name|Oddball Outcast|outfit|real}} {{!}} The Outfit
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===[[Tumbling Troublemaker]] ===
+{{#lst:Tumbling Troublemaker|Summary}}
+{{#tag:gallery
+|{{Icon Name|Tumbling Troublemaker|hair|real}} {{!}} The Hair
+{{Icon Name|Tumbling Troublemaker|headpiece|real}} {{!}} The Face Accessory
+{{Icon Name|Tumbling Troublemaker|cape|real}} {{!}} The Cape
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===[[Melancholy Mope]]===
+{{#lst:Melancholy Mope|Summary}}
+{{#tag:gallery
+|{{Icon Name|Melancholy Mope|hair|real}} {{!}} The Hair
+{{Icon Name|Melancholy Mope|headpiece|real}} {{!}} The Hair Accessory
+{{Icon Name|Melancholy Mope|outfit|real}} {{!}} The Outfit
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+=== [[Overactive Overachiever]]===
+{{#lst:Overactive Overachiever|Summary}}
+{{#tag:gallery
+|{{Icon Name|Overactive Overachiever|hair|real}} {{!}} The Hair
+{{Icon Name|Overactive Overachiever|cape|real}} {{!}} The Cape
+{{Icon Name|Overactive Overachiever|instrument|real}} {{!}} The {{Icon Name|Overactive Overachiever|inst_name}}
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===[[Passage Guide]]===
+{{#lst:Passage Guide|Summary}}
+{{#tag:gallery
+|{{Icon Name|Passage Guide|necklace_u|real}} {{!}} Passage Ultimate Pendant
+{{Icon Name|Passage Guide|mask_u|real}} {{!}} Passage Ultimate Mask
+{{Icon Name|Passage Guide|cape_u|real}} {{!}} Passage Ultimate Cape
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+===Additional Cosmetics===
+Upon completing Quests from the Season of Passage, additional cosmetics are available to collect for regular Candles through the Passage Guide's Friendship Tree. '''These items remained in the Ultimate Guide's Quest Tree after the Season ended.'''
+{{#tag:gallery
+|{{Icon Name|Passage Guide|mask_s|real}} {{!}} The {{Icon Name|Passage Guide|mask_s_name}}
+{{Icon Name|Passage Guide|mask_b|real}} {{!}} The {{Icon Name|Passage Guide|mask_b_name}}
+{{Icon Name|Passage Guide|mask_m|real}} {{!}} The {{Icon Name|Passage Guide|mask_m_name}}
+{{Icon Name|Passage Guide|mask_r|real}} {{!}} The {{Icon Name|Passage Guide|mask_r_name}}
+{{Icon Name|Passage Guide|prop_h|real}} {{!}} The {{Icon Name|Passage Guide|prop_h_name}}
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+
+==Price Charts==
+Use the [[Seasonal Events/Calculator|Event Calculator]] to verify the status of your Candle count.
+{| class="article-table"
+! Spirits
+! colspan="6" | Candle Cost
+! Total Seasonal Candles
+|-
+|[[Oddball Outcast]]
+|{{#vardefineecho:A1| 14 }} 
+|{{#vardefineecho:A2| 18 }}
+|{{#vardefineecho:A3| 24 }}
+|{{#vardefineecho:A4| 32 }}
+|{{#vardefineecho:A5|  }}
+|3*
+|{{Cost| {{#vardefineecho:Asum| {{#expr: {{#var:A1}} + {{#var:A2}} + {{#var:A3}} + {{#var:A4}} + {{#var:A5}} + 3 }} }} SC|season=Passage}}
+|-
+|[[Tumbling Troublemaker]]
+|{{#vardefineecho:B1| 8 }}
+|{{#vardefineecho:B2| 18 }}
+|{{#vardefineecho:B3| 28 }}
+|{{#vardefineecho:B4| 32 }}
+|{{#vardefineecho:B5|  }}
+|3*
+|{{Cost| {{#vardefineecho:Bsum| {{#expr: {{#var:B1}} + {{#var:B2}} + {{#var:B3}} + {{#var:B4}} + {{#var:B5}} + 3 }} }} SC|season=Passage}}
+|-
+|[[Melancholy Mope]]
+|{{#vardefineecho:C1| 6 }}
+|{{#vardefineecho:C2| 18 }}
+|{{#vardefineecho:C3| 26 }}
+|{{#vardefineecho:C4| 28 }}
+|{{#vardefineecho:C5|  }}
+|3*
+|{{Cost| {{#vardefineecho:Csum| {{#expr: {{#var:C1}} + {{#var:C2}} + {{#var:C3}} + {{#var:C4}} + {{#var:C5}} + 3 }} }} SC|season=Passage}}
+|-
+|[[Overactive Overachiever]]
+|{{#vardefineecho:D1| 14 }}
+|{{#vardefineecho:D2| 22 }}
+|{{#vardefineecho:D3| 30 }}
+|{{#vardefineecho:D4| 32 }}
+|{{#vardefineecho:D5|  }}
+|3*
+|{{Cost| {{#vardefineecho:Dsum| {{#expr: {{#var:D1}} + {{#var:D2}} + {{#var:D3}} + {{#var:D4}} + {{#var:D5}} + 3 }} }} SC|season=Passage}}
+|-
+! colspan="7" |'''Total for Season'''
+!'''{{Cost| {{#expr: {{#var:Asum}} + {{#var:Bsum}} + {{#var:Csum}} + {{#var:Dsum}} }} SC|season=Passage}}'''
+|}<small>''* Only available with [[Season Pass]] (Seasonal Hearts) (subtract when calculating without)''</small>
+
+==Trivia==
+* Each spirit wears something that aligns with their mask.
+** The Passage Guide wears a thick coat made of fur that makes them resemble a bear.
+** The Overactive Overachiever wears a grey fur cape similar to the fur of a serow.
+** The Oddball Outcast's shoulder fur resembles those of certain monkeys like baboons.
+** The Melancholy Mope wears earrings that resemble a boar's tusks.
+** The Tumbling Troublemaker bears the tail of a raccoon.
+
+==References==
+<references />
+
+{{Seasonal Navbox}}
+[[de:Saison des Übergangs]]
+[[fr:Saison de l'Initiation]]
+[[pt-br:Temporada da Passagem]]
+[[ja:ならいの季節]]
+
+{{DEFAULTSORT:Passage, Season of}}

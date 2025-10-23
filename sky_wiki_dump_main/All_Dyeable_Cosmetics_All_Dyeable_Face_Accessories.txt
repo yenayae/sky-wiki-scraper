@@ -1,0 +1,50 @@
+<section begin="Table" />
+{| class="article-table sortable"
+! class="unsortable" |Image
+! class="unsortable" |Icon
+![[#Availability Legend|Avail.]]
+!Source
+!Price
+!# of<br>Sections
+!Dye Cost
+|- id="Moments Ultimate Face Accessory"
+| style="text-align: center;"| {{Spirit Item| Moments Guide | facepiece_u_real | table | label=Moments Ultimate Face Accessory | link=Moments Guide#Ultimate Glasses }}
+| {{Spirit Item| Moments Guide | facepiece_u | table | sort=23 | label=Moments Ultimate Mask | link=Moments Guide#Ultimate Glasses }}
+| {{Avail Summary | ultimate | season=Moments }}
+| {{Cost | N/A }}
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Mischief Star Sticker"
+| style="text-align: center;"| {{Days Item| Mischief Star Sticker | real | table }}
+| {{Days Item| Mischief Star Sticker | icon | table }}
+| {{Avail Summary | days | days=Mischief }}
+| {{Cost| ? }}
+| 1
+| 1 or 2 {{Cost | D}}
+|- id="Feast Goggles"
+| style="text-align: center;"| {{Days Item| Feast Goggles | real | table | sort=13 }}
+| {{Days Item| Feast Goggles | icon | table | sort=707 }}
+| {{Avail Summary | days | days=Feast }}
+| {{Cost| 60 C }}
+| 2
+| 1 or 2 {{Cost | D}}<hr>1 or 2 {{Cost | D}}
+|}
+<section end="Table" />
+{{Avail Legend
+| regular 
+| permanent 
+| s+ 
+| u+ 
+| t* 
+| r*
+| d*
+| l*
+| days 
+| season 
+| ultimate 
+| limited 
+| conditional 
+}}
+
+[[ja:染色価格表/フェイスアクセサリー染料価格表]]
+[[fr:Tous les Cosmétiques Teintables/Tous les Accessoires Faciaux Teintables]]

@@ -1,0 +1,134 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Aurora-Spirit-Seed-of-Hope.png|Standard
+AURORA-Spirit-Seed-of-Hope-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Mask|infobox}}{{Spirit Item||Hair|infobox}}{{Spirit Item||Cape|infobox}}
+|music     = {{Music Sheet|33}}
+|season    = AURORA
+|realm     = Valley of Triumph
+|location  = Coliseum
+|ts        = June 9, 2025 (SV#9)
+}}<section begin="Summary" />The Seed of Hope is a [[Seasonal Spirit]] from the [[Season of AURORA]] who offers the {{Emote|Seed of Hope|inline_text}} Expression. The Seed of Hope is found standing on the left side of the [[Coliseum]] in [[Valley of Triumph]], by the [[AURORA Guide]]. The collectibles [[#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Seed of Hope|mask|inline_text}}, a {{Spirit Item|Seed of Hope|hair|inline_text}}, a {{Spirit Item|Seed of Hope|cape|inline_text}} and the {{Music Sheet|33|inline_text}}. Players can view their memories by completing the [[Season of AURORA#Quest #4|fourth Quest]] inside the broken temple in the Battlefield of the Golden Wasteland.<section end="Summary" /><br>
+<br>
+[[File:Seed-of-Hope-promo-image.jpg|thumb|320px|none|TGC's Promo image]]
+{{Quote|<br>The poisoned soils of that field tore away all you knew, save one truth. <br> You held fast to it, risking the only thing you had left.<br>Because even the deepest shadows would not stop you from reaching to save what light you could. }}
+<br>
+==<span id="Expression">Expression</span>==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|x170px]]
+<gallery heights="125" captionalign="center">
+Seed-of-Hope-Rhythmic-Clap-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Seed-of-Hope-Rhythmic-Clap-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Seed-of-Hope-Rhythmic-Clap-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Seed-of-Hope-Rhythmic-Clap-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar rhythmically clap their hands together in front of their chest, letting their arms fall back down after each clap while subtly moving their body with the rhythm. This action is continued for as long as you don't move your avatar.
+*Level 2 makes the same motion as Level 1, with white sparkles and an invisible circle with a glowing white edge appearing and fading with each clap.
+*Level 3 will make your avatar lift their hands above their head before rhythmically clapping them together while stepping from side to side. This action is continued for as long as you don't move your avatar.
+*Level 4 makes the same motion as Level 3, with orange-glowing white sparks and a layered, glowing white ring appearing and fading with each clap.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+==Cosmetics==
+===<span id="Mask">Mask</span>===
+The [[Mask]] offered by this Spirit is bare-faced with two straight, red lines under and next to each eye, costing {{Cost|35 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|8 SC|season=Aurora}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Hair">Hair</span>===
+The [[Hair]] offered by this Spirit is a medium-length, brushed-back, mohawk-like hairstyle that is divided in the middle, with two hair strands in the front, held by wide red hair bands, costing {{Cost|40 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fifth node ({{Cost|56 SC|season=Aurora}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Cape">Cape</span>===
+The [[Cape]] offered by this Spirit is a flat yellow cape with feathered shoulder embellishments, costing {{Cost|75 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's sixth node ({{Cost|82 SC|season=Aurora}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||Cape|interior}} {{!}} The Cape interior
+{{Icon Name||Cape|back}} {{!}} The Cape back
+{{Icon Name||Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+==<span id="Music">Music Sheet</span>==
+The Seed of Hope offers the {{Music Sheet|33}} [[Music Sheet]] #33, costing {{Cost|15 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's third node ({{Cost|20 SC|season=Aurora}} total). It is a song in the key of E♭ major. This Music Sheet is an instrumental of “The Seed” by AURORA.<br>
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guide
+|content=
+{{#ev:youtube|kJJwxzZLr1s||inline|Music Sheet Video Guide by Ikejiji}}
+}}
+
+==Traveling Spirit==
+{{Friendship Tree Info
+| traveling
+| rs_dates= *June 9, 2025 (SV#9)
+}}
+<section begin='TS Friendship Tree' />{{Friendship Tree
+|spirit = Seed of Hope
+|season = AURORA
+|image  = Aurora-Spirit-Seed-of-Hope.png
+
+|nodeC6 = Cape 75 C
+|nodeL5 = music33 15 C
+|nodeC5 = spellx 5 C
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeR4 = Hair 40 C
+|nodeC3 = wing
+|nodeL2 = Mask 35 C
+|nodeC2 = spellx 5 C
+|nodeR2 = heart 3 C
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end='TS Friendship Tree' />
+
+==Season Friendship Tree==
+{{Friendship Tree Info | season | season=AURORA}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Seed of Hope
+|image  = Aurora-Spirit-Seed-of-Hope.png
+|type   = season
+|season = AURORA
+
+|nodeC7 = season_heart 3 SC SP
+|nodeL6 = cape SP
+|nodeC6 = spellx 26 SC
+|nodeL5 = spellx SP
+|nodeC5 = hair 20 SC
+|nodeL4 = emote4 SP
+|nodeC4 = emote3 16 SC
+|nodeL3 = spellx SP
+|nodeC3 = music33 12 SC
+|nodeL2 = mask SP
+|nodeC2 = spellx 8 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+== Trivia ==
+* The Seed of Hope is named after AURORA’s single “''The Seed''”, which is also the song that plays during the Spirit’s Quest and in the Music Sheet #33.
+
+==References==
+<references />
+
+[[fr:Graine d espoir]]
+[[pt-br:Semente de Esperança]]
+[[ru:Зёрнышко надежды]]
+[[ja:希望の君]]

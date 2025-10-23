@@ -1,0 +1,225 @@
+{{Distinguish|Saluting Captain}}
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Gratitude-Spirit-Saluting-Protector.png|Standard
+Gratitude-Spirit-Saluting-Protector-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Mask|infobox}}{{Spirit Item||Cape|infobox}}
+|music     = {{Music Sheet|8}}
+|season    = Gratitude
+|location  = First Krill Area
+|ts        = November 21, 2024 (#127) <br>January 20, 2022 (#53)
+}}
+<section begin="Summary" />The '''Saluting Protector''' is a [[Seasonal Spirit]] from the [[Season of Gratitude]] who offers the {{Emote|Saluting Protector|inline_text}} Expression. The Saluting Protector is found in Golden Wasteland's [[First Krill Area]], on the left under the collapsed bell structure. The collectibles [[#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Saluting Protector|Mask|inline_text}}, a {{Spirit Item|Saluting Protector|Cape|inline_text}}, and the {{Music Sheet|8|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Saluting-Protector-promo-image.jpg|none|thumb|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|5VM8mJZVJ-A||inline|Video Guide}}
+
+The Saluting Protector can be found in Golden Wasteland’s Graveyard Entrance, aka [[First Krill Area]], under the collapsed bell structure to the player’s left if they enter from the [[Broken Temple]]. This Spirit has a [[Carry Spirit Memory|carry spirit memory]] with 6 memory fragments and an unlimited overall [[Timed Memory|time limit]].
+
+This memory can be difficult to relive due to the [[Dark Dragons|Dark Dragon]] patrolling the small area in a circle. Patience is key to successfully reliving this Spirit memory, and it is encouraged to use the unlimited time limit to the player's advantage. Bringing a few friends along would be a good idea, as they can help recharge the player's Cape and can collect their lost Winged Light if they do get hit by the Dark Dragon.
+
+Alternatively, there is a minor bug that can be used to make reliving this Spirit's memory significantly easier, especially for solo players. When re-entering the Spirit's area from any entrance into the [[Golden Wasteland|Crab Fields]], the Dark Dragon defending the First Krill Area will often fail to spawn in, removing the primary threat of the area and greatly speeding up the process of reliving the Spirit's memory.
+
+As their memory unfolds, the Saluting Protector can be seen dancing on top of the ruined bell structures to the left, right, and middle sides of the central structure. They continue up the ruins, and continues to dance until they reach a smaller area at the top of the ruins, to the player's left. Finally, they pose at the center of the area at the top of a gently sloped ramp, their feet close together and their hands posed in front of their stomach.
+
+At the end of the memory, the Saluting Protector commends the player for making the long trek across the ruins. They raise their left hand to their forehead and quickly move their hand forwards in a dismissive, but respectful, saluting gesture.<br>
+<br>
+[[File:04 GW Seasonal Spirit - Saluting Protector.jpg|200px|thumb|none|Relive the Saluting Protector's memory]]
+</div>
+{{Clear}}
+
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]] (also known as '''Dismiss'''), which has 4 Levels.<br>
+<br>
+[[File:{{Icon Name||emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Saluting-Protector-acknowledge-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Saluting-Protector-acknowledge-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Saluting-Protector-acknowledge-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Saluting-Protector-acknowledge-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar bring their left hand up against their forehead briefly before sharply bringing it forward, while a drumroll and xylophone riff play.
+*Level 2 makes the same motion as Level 1, with a burst of small sparkles radiating from your avatar's left hand.
+*Level 3 will make your avatar stomp their left foot before repeating the same motion as seen in Level 1, while a similar drumroll and xylophone riff plays, with the rhythm being repeated a second time.
+*Level 4 makes the same motion as Level 3, with a burst of small sparkles radiating from your avatar's left hand.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+== Cosmetics==
+=== Mask ===
+The [[Mask]] offered by this Spirit is a long, orange-colored head of a creature with a horn at the top, a pointy snout, golden teeth, and yellow details, costing {{Cost|42 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's fourth node ({{Cost|54 SC|season=Gratitude}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+===Cape===
+The [[Cape]] offered by this Spirit is made of white fur and in a similar shape to that of a maple leaf, with a fluffy piece around the neck, a beige<ref>There was a time when the lining color was orange due to a bug.</ref> interior, and an orange band with yellow triangles on each shoulder, costing {{Cost|75 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fourth node ({{Cost|54 SC|season=Gratitude}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||Cape|interior}} {{!}} The Cape interior
+{{Icon Name||Cape|back}} {{!}} The Cape back
+{{Icon Name||Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Music Sheet==
+The Saluting Protector offers the {{Music Sheet|8}} [[Music Sheet]] #8, costing {{Cost|15 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's second node ({{Cost|16 SC|season=Gratitude}} total). It is in the key of E♭ Major.<br>
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guides
+|content=
+{{#ev:youtube|9kfD3ymAGnw||inline|Music Sheet Video Guide by CactusFlowerSky}}
+{{#ev:youtube|dCpi2HNBqiU||inline|Music Sheet Video Guide by CactusFlowerSky}}
+}}
+
+== Traveling Spirit ==
+[[File:Traveling Spirit Price Chart - Spirit 53.webp|200px|right|thumb]]
+{{Friendship Tree Info | traveling
+|ts_dates=*November 21, 2024 (#127)
+*''Extended Visit: December 9,2024.'' Saluting Protector returned for an additional three days after the visit on November 21, 2024 as a part of the adjustments to help make up for the Daily Light Refresh Bug. More information regarding the adjustments can be found [[Inbox:12-6-2024|here]].
+*January 20, 2022 (#53)
+* ''Error: May 28, 2020.'' Saluting Protector's appearance on this date was caused by a bug and was only available for client apps with an older patch. The first correct, officially announced visit happened 602 days later.
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Saluting Protector
+|season = Gratitude
+|image  = Gratitude-Spirit-Saluting-Protector.png
+
+|nodeC6 = Mask 42 C
+|nodeL5 = Cape 75 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = music8 15 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+<noinclude>Due to changes in the way [[Traveling Spirits#Hints|Traveling Spirits]] are revealed, Spirits are no longer expected to receive text hints for the foreseeable future. Below are the hints that were provided when this Spirit visited during the period when text hints were given out.
+</noinclude>
+The hints given before the [[Saluting Protector]]'s first appearance were:
+{{Collapse
+|id=mw-customcollapsible-TSHint
+|label=First Visit Hints
+|content=<div>
+* Loves the thrill of the chase
+* Often gets lost, but rolls with it
+* Likes relaxing by the sea
+* Is working on their balance
+* Never plans things out in advance
+* Is a really good dodgeball player
+* Is a surprisingly good dancer
+* Always makes sure to stay warm
+* Likes challenging others
+* Likes seafood
+* Trusts in their elders
+* Runs a travel blog as a hobby
+* Is passionate about discovering history
+* Is free-spirited, they don't enjoy being tied down
+* Is an aspiring acrobat
+* Is always full of energy
+* Doesn't like wide open spaces
+* Is always up for a challenge
+* Is always polite towards others
+* Is passionate about ballet
+* Lives in a tiny house
+* Is soft and warm like mashed potatoes
+* Is really good at hide and seek
+* Is a Aries sun, Sagittarius moon
+</div>
+}}
+
+== Season Friendship Tree ==
+{{Friendship Tree Info | season | season=Gratitude}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Saluting Protector
+|type   = season
+|season = Gratitude
+|image  = Gratitude-Spirit-Saluting-Protector.png
+
+|nodeC5 = Mask 5 H SP
+|nodeC4 = Cape 20 SC
+|nodeL3 = emote4 SP
+|nodeC3 = emote3 18 SC
+|nodeL2 = spell5 SP
+|nodeC2 = music8 16 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Trivia==
+* The Saluting Protector's 'White Fur Cape' was red in the Closed Beta game [[Sky: Light Awaits]].
+* The song from the Music Sheet is the theme of the [[Forest's Brook]] area, and is available as ''Waltzing in the Rain'' on the game's [[Original Sound Track]].
+
+==In Other Languages==
+{{Other Languages|title=Saluting Protector
+|fr            = Protecteur saluant
+|fr_meaning    = Saluting Protector
+|fr_gg         = m
+|ja            = 敬礼する守護者
+|ja_rom        = Keirei-suru Shugosha
+|ja_meaning    = Saluting Guardian
+|id            = Menghormati Pelindung
+|id_meaning    = Respectful Protector
+|de            = Grüßender Beschützer
+|de_meaning    = Greeting Protector
+|de_gg         = m
+|vi            = Hộ Vệ Cúi Chào
+|vi_meaning    = Guardians Bow
+|ko            = 경례하는 수호자
+|ko_rom        = Gyeonglyehaneun Suhoja
+|ko_meaning    = Saluting Guardian
+|es            = Protector que saluda
+|es_meaning    = Protector Who Salutes
+|es_gg         = m
+|it            = Protettore sull'attenti
+|it_meaning    = Protector Standing at Attention
+|it_gg         = m
+|pt            = Protetor saudoso
+|pt_meaning    = Nostalgic Protector
+|pt_gg         = m
+|ru            = Салютующий защитник
+|ru_rom        = Salyutuyushchiy zashchitnik
+|ru_meaning    = Saluting Defender
+|ru_gg         = m
+|zh_cn         = 敬礼护卫
+|zh_cn_rom     = Jìnglǐ Hùwèi
+|zh_cn_meaning = Saluting Guard
+|zh_tw         = 敬禮護衛
+|zh_tw_rom     = Jìnglǐ Hùwèi
+|zh_tw_meaning = Saluting Guard
+}}
+
+==Image Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Sog wasteland.jpg
+Gratitude Wasteland Emote.jpg
+SoG Wland Map2.png
+</gallery>
+
+==Video Gallery==
+{{#ev:youtube|7mYtsn5_ff4|175|inline|Video Guide by Tara}}
+
+==References==
+<references/>
+[[de:Grüßender Beschützer]]
+[[fr:Protecteur Saluant]]
+[[pt-br:Protetor Saudoso]]
+[[ru:Салютующий защитник]]
+[[ja:敬礼する守護者]]

@@ -1,0 +1,98 @@
+{{Spirit Infobox
+|type      = Regular
+|emote_type= Emote
+|image     = <gallery>
+Wasteland-Spirit-Frightened-Refugee.png|Standard
+Wasteland-Spirit-Frightened-Refugee-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Hair|infobox}}
+|instruments = {{Spirit Item||Instrument|infobox}}
+|realm     = Golden Wasteland
+|location  = Broken Temple
+}}
+<section begin="Summary" />The '''Frightened Refugee''' is a [[Regular Spirit]] in the [[Golden Wasteland]] who offers the {{Emote|Frightened Refugee|inline_text}} Expression. The Frightened Refugee is found on an elevated platform near a pit of [[Dark Crabs]], partway through [[Broken Temple]]. The collectibles [[Frightened Refugee#Friendship Tree|offered]] by this Spirit are a {{Spirit Item|Frightened Refugee|Hair|inline_text}} and a {{Spirit Item|Frightened Refugee|Instrument|inline_text}} Instrument.<section end="Summary" /><br>
+<br>
+[[File:Frightened-Refugee-Guide-777-Ed.png|320x320px|thumb|none|Image Guide by 777.Ed]]
+
+== Memory ==
+<div>{{#ev:youtube|jAW8PTC5qT8||inline|Video Guide by Tara}}
+<br>
+The Frightened Refugee can be found on an elevated platform near a pit of [[Dark Crabs]], partway through [[Broken Temple]]. This Spirit is a [[Standard Memory|standard memory]] quest with 4 memory fragments and an unlimited overall [[Timed Memory|time limit]].
+
+As their memory unfolds, the Frightened Refuge runs across the wreckage of the platform, fleeing from an unseen danger and taking shelter within the crooked building nearby.
+
+At the end of the memory, the Frightened Refuge glances nervously at their surroundings. Suddenly, the entire building shakes with a loud rumbling noise, causing the Spirit to duck down in terror.<br>
+<br>
+[[File:04 GW Spirit - Frightened Refugee.jpg|200px|thumb|none|Relive the Frightened Refugee's memory]]
+</div>
+{{Clear}}
+
+== Expression ==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.<br>
+<br>
+[[File:{{Icon Name||Emote}}|170px|left]]
+<gallery heights="125" captionalign="center">
+Frightened-Refugee-duck-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Frightened-Refugee-duck-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Frightened-Refugee-duck-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Frightened-Refugee-duck-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+* Level 1 will make your avatar jump with surprise, arms and legs extended, before cowering on their knees with their hands over their head. This action is continued for as long as you don't move your character.
+* Level 2 makes the same motion as Level 1 with a flashing exclamation point above your avatar's head.
+* Level 3 will make your avatar jump with surprise, limbs held close to their body, before cowering on their knees with their Cape covering their head. This action is continued for as long as you don't move your character.
+* Level 4 makes the same motion as Level 3 with sparkles appearing from your avatar's body and three flashing exclamation points above their head.
+
+The prices of the three Expression upgrades are {{Cost|4 C}}, {{Cost|5 C}}, and {{Cost|5 C}}. Levels 3 and 4 are only available after unlocking the Spirit's [[Wing Buff]].
+
+== Cosmetics ==
+=== Hair ===
+The [[Hair]] offered by this Spirit is a puffy ponytail with a blue hair tie, costing {{Cost|3 H}}. It is permanently available to all players after unlocking the Friendship Tree's second node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Instrument ===
+The [[Instrument]] offered by this Spirit is a round, wooden hand-held bass harp, costing {{Cost|5 H}}. It is a four-string Instrument that plays 15 notes and is played standing up. 
+
+The Contrabass plays the [[Music Sheet Parts|bass part]] on Music Sheets. Its [[Instrument Pitch|pitch]] is three octaves below the standard [[Piano]] (in C Major, it covers C<sub>1</sub> to C<sub>3</sub>).
+
+In [[Harmony Hall]], this Instrument can be found in the left-hand room, on the same wall as the guitars, sitting on the floor in front of the {{Instrument|Harp|inline_text}}.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Instrument}} {{!}} The Instrument icon
+{{Icon Name||Instrument|real}} {{!}} The Instrument
+{{Icon Name||Instrument|back}} {{!}} The Instrument on a player's back
+{{Icon Name||Instrument|held}} {{!}} Playing the Instrument
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Friendship Tree ==
+{{Friendship Tree Info | regular}}
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Frightened Refugee
+|image  = Wasteland-Spirit-Frightened-Refugee.png
+
+|nodeC6 = instrument 5 H
+|nodeC5 = spell5
+|nodeL4 = emote4 5 C
+|nodeC4 = emote3 5 C
+|nodeC3 = wing 1 AC
+|nodeL2 = hair 3 H
+|nodeC2 = spell1
+|nodeR2 = heart
+|nodeL1 = emote2 4 C
+|nodeC1 = emote
+}}<section end="Friendship Tree" />
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Emote Loc-Scared.png
+</gallery>
+
+[[de:Ängstliche Flüchtlingsfrau]]
+[[pt-br:Refugiada Assustada]]
+[[fr:Réfugiée effrayée]]

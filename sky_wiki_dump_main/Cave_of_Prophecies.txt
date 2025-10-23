@@ -1,0 +1,168 @@
+{{Location
+|image      = Isle CaveOfProphecies1.jpg
+|realm      = Isle of Dawn
+|access     = [[Isle of Dawn#Sand Dunes|Sand Dunes]], [[The Wind Paths]]
+|season     = Prophecy
+|seasonal_spirits  = {{Spirit Group|Prophecy|format=infobox}}
+|children_of_light = 4 {{Icon|Map-Shrine-flashing-Star-WL-indicator.png|link=Children of Light#{{{title|{{PAGENAME}}}}}}}
+|pieces_of_light   = 679 {{Cost|L}}
+}}
+<section begin="Quote" />{{Quote|<br>'''''Beware the ancient trials.'''''|Cave of Prophecies Opening}}<section end="Quote" />
+
+<section begin="Summary" />The '''Cave of Prophecies''' is a seasonal area added to [[Isle of Dawn]], introduced along with the [[Season of Prophecy]] in Patch {{v|0.11.0}}. All the quests, spirits, and activities can be found in this area. To enter the Cave of Prophecies, head to the top right edge of [[Isle of Dawn]], where an opening in the clouds will begin your adventure. There is a Spirit Gate that requires 2 Regular Spirits from the [[Hidden Forest]] relived. {{Wind Pathway|2}}, found in the cloud cove above the cave. The Cave of Prophecies will guide you on a journey to unravel ''Sky''<nowiki>'</nowiki>s long forgotten past. <section end="Summary" />
+
+__TOC__
+{{Clear}}
+==Overview==
+Upon entering, you will be met with narrow passageway, in which you will have to traverse through and see the ancient murals of the magical powers. Going through the passage will lead you to the main part of the Cave, where you will first see the [[Prophecy Guide]]. In the areas surrounding the Guide, there will be 4 Seasonal Spirits, which upon completing, will give you their unique [[Expression]]. 
+
+The [[Prophecy Guide]] will embark you on four quests - four trials tied to each respective Spirit. Each trial will have its own challenge, each depending on its element; Water, Earth, Air and Fire. 
+
+===Child of Light Locations===
+There are a total of '''four (4)''' [[Children of Light#Caves_of_Prophecies|Children of Light]] in the area, one at the end of each of the four trials.
+{{#lst:Children of Light|CoProphecies Children}}
+
+===Map Shrine Locations===
+In the Cave of Prophecies and it's Trials, there are 5 Map Shrines to find.
+<gallery spacing="small">
+File:Isle-Prophecy-Cave-Map-Shrine.jpg|5. In main room of Cave of Prophecy
+File:Isle-Prophecy-Water-Trial-Map-Shrine.jpg|6. In Water Trial
+File:Isle-Prophecy-Earth-Trial-Map-Shrine.jpg|7. In Earth Trial (The last stretch before the altar)
+File:Isle-Prophecy-Trial-Air-Map-Shrine.jpg|8. In Air Trial
+File:Isle-Prophecy-Trial-Fire-Map-Shrine.jpg|9. In Fire Trial (before the exit door of the 3rd level)
+</gallery>
+
+===Spirits in the Cave of Prophecies===
+The Cave of Prophecies holds 4 [[Seasonal Spirits]] ({{Spirit|Prophet of Water|Inline_text}}, {{Spirit|Prophet of Earth|Inline_text}},{{Spirit|Prophet of Air|Inline_text}},{{Spirit|Prophet of Fire|Inline_text}}).
+
+<section begin="SpiritTabber" />{{Mobile Tabber
+|tab1 = {{Emote|Prophet of Water|tab}}
+|c1   = <div> {{#ev:youtube|6t-gksA_AjE|400|right}} {{#lst:Prophet of Water|Summary}} {{#lst:Prophet of Water|TS Friendship Tree}} </div>
+|type1=seasonal
+
+|tab2 = {{Emote|Prophet of Earth|tab}}
+|c2   = <div> {{#ev:youtube|fS9lZNwF_jg|400|right}} {{#lst:Prophet of Earth|Summary}} {{#lst:Prophet of Earth|TS Friendship Tree}} </div>
+|type2= seasonal
+
+|tab3 = {{Emote|Prophet of Air|tab}}
+|c3   = <div> {{#ev:youtube|686khkYa93w|400|right}} {{#lst:Prophet of Air|Summary}} {{#lst:Prophet of Air|TS Friendship Tree}} </div>
+|type3= seasonal
+
+|tab4  = {{Emote|Prophet of Fire|tab}}
+|c4    = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Prophet of Fire|Summary}} {{#lst:Prophet of Fire|TS Friendship Tree}} </div>
+|type4= seasonal
+}}<section end="SpiritTabber" />
+
+==The Trials==
+The Trials will test your skills in the game - without any items, spells, or even your own cape! The completion of one of these trials will unlock a special cutscene, that will decorate the Caves with colorful lore-filled [[murals]] and introduce features of the trial's element in the main Cave. 
+
+At the end of each trial, the player can meditate at an altar, which will grant you a temporary power to reach a [[Children of Light|Child of Light]]. 
+
+<span id="Trial of Water"></span> <span id="Trial of Earth"></span> <span id="Trial of Air"></span> <span id="Trial of Fire"></span>
+{{Mobile Tabber|textonly=1
+|tab1 = Trial of Water
+|c1   =<div>
+[[File:TOW.jpg|thumb|right|250px|Trial of Water]]
+{{Quote|<br>'''''Time divides each contender.'''''|Trial of Water Opening}}
+The Trial of Water will test your patience, as you are tasked with reaching the glowing mountain at the end of the map. However, a challenge appears as you have to reach it while avoiding the rising waters, otherwise you'll lose your light and start over from your latest checkpoint. In order to escape the rising waters, you will have to light up lanterns on the ground which will elevate the land and protect you, or climb onto elevated pieces of land. At the end of the trial, the altar grants you the power to run on water, giving you access to difficult-to-reach candles and the [[Children of Light|Child of Light]].
+
+Completing this Trial will award you with the ''Wisdom of Patience''. This Trial summons waterfalls in the [[Prophet of Water]]'s corner, raises a moat of water around the [[Prophecy Guide]], and creates murals scattered across the walls.</div>
+
+|tab2 = Trial of Earth
+|c2   =<div>
+[[File:Prophecy Screen 5.png|thumb|right|250px|Trial of Earth]]
+{{Quote|<br>'''''Tenacity reveals the way home.'''''|Trial of Earth Opening}}
+The Trial of Earth will test your resilience. You are tasked with reaching the shining tower in the middle of the map. To do so, you will have to navigate a maze, which can prove difficult as you will have to jump between rotating rocks to light up lanterns, which will unblock passageways that will allow you to proceed through. Failing a jump will lead to you falling to the void, and you will be put back at a checkpoint. At the last section of the trial at the center of the map, you will be challenged with jumping across multiple pieces of rotating rocks, floating over a large pit. With the correct timing and jumps, you will reach the other side and process up to the altar. It grants you the power to call forth rocks to help you reach the central tower, giving you access to the [[Children of Light|Child of Light]].
+
+Completing this Trial will award you with the ''Wisdom of Resilience''. This Trial raises floating islands with chat benches on them, and creates some more murals on the walls.</div>
+
+|tab3 = Trial of Air
+|c3   =<div>
+[[File:SoPtAir.jpg|thumb|right|250px|Trial of Air]]
+{{Quote|<br>'''''Master the harmony of heights.'''''|Trial of Air Opening}}
+The Trial of Air will test your balance. To complete this trial, you are given the task of climbing up a number of floating platforms to reach the top. On some of these platforms, you may candles arranged in the shape of an arrow, which when lit, will cause you to fly in the direction that the arrow points. The player needs to be careful of the wind currents, as it may cause your avatar to slide off of the platforms. When you reach the altar, it grants you the power to fly up to the central floating platform, giving you access to the [[Children of Light|Child of Light]].
+
+Completing this trial will grant you the ''Wisdom of Balance''. This Trial summons wafts of air that can lift up the player which also makes the main cave windy, and summons a mural on the walls.
+{{Clear}}</div>
+
+|tab4 = Trial of Fire
+|c4   =<div>
+[[File:SoPfireTrial.jpg|thumb|right|250px|Trial of Fire]]
+{{Quote|<br>'''''Only the brave will attain the light.'''''|Trial of Fire Opening}}
+The Trial of Fire will test your courage. To complete this trial, you will have to maneuver through a maze that is shrouded in darkness. However, being in the darkness for too long (approximately more than 5 seconds) will drain your player's light and will make you return to a previous checkpoint. In order to overcome this, you can light the candles found on the floor to not only recharge your avatar, but also form a trail, which you can follow to find the way out. There are 3 floors in total, each offering its own challenge to the player. On the second and third floor, the player will encounter [[Creatures#Dark_Shadows|Dark Shadows]], creatures that can immediately drain a player's light. After walking through the third floor's exit, you will reach the altar. It grants you the power to walk through the darkness unharmed and the power to destroy the Dark Shadows, giving you access to the [[Children of Light|Child of Light]] across the dark room.
+
+Completing this trial will award you the ''Wisdom of Courage'' and one Winged Light. This Trial lights up lamps that can quickly recharge the player's light and creates the final mural painting on ceiling of the Caves. Standing on the 4 lanterns on the floating islands in a specific order will play bonus cutscenes, adding a golden figure to the [[murals]].</div>
+}}
+
+== Activities==
+===Prophecy Quests===
+<div style="float:right">{{Mobile Tabber|textonly=1
+|tab1 = 1
+|c1   = <div> {{#ev:youtube|8Gr5k-iyxsQ|300|right}} </div>
+|tab2 = 2
+|c2   = <div> {{#ev:youtube|9Z0TgBuXlio|300|right}} </div>
+|tab3 = 3
+|c3   = <div> {{#ev:youtube|bjZ8LGzEl3M|300|right}} </div>
+|tab4 = 4
+|c4   = <div> {{#ev:youtube|lfTcD7I7HAc|300|right}} </div>
+}}</div>
+In the Cave of Prophecies players are able to do Seasonal Quests from [[Season of Prophecy]], a series of trials challenging the player to obtain wisdoms. There are 4 quests, with 4 respective Trials which impose challenges onto the player as can be read above. Each trial decorates the Cave of Prophecies, and can be replayed multiple times.
+{{Clear}}
+
+==Gallery==
+<gallery widths="225" spacing="small" captionalign="center" hideaddbutton="true" mode="nolines">
+Prophecy Trial of Water - Avo.jpg|Trial of Water Map
+SPOILER Season of Prophecy - Trial 1 Trial of Water Full.png|Trial of Water Guide
+SPOILER Trial of Earth.jpg|Trial of Earth Map
+SPOILER Season of Prophecy - Trial 2 Trial of Earth Full.png|Trial of Earth Guide
+AirTrialGuide_Clement.png|Trial of Air Guide 
+SoPfireTrialMap.jpg|Trial of Fire Map
+SoPfireTrialGuide.jpeg|Trial of Fire Guide
+</gallery>
+
+==Trivia ==
+*The Trial of Water came out on October 5, 2020.
+* The Trial of Earth came out on October 12, 2020.
+*The Trial of Air came out on October 26, 2020.
+*The Trial of Fire came out on November 9, 2020.
+*If you listen carefully at the end of the [[Spirit Gate]] to the Cave of Prophecies, you can hear the sound of the [[Prophecy Drum]].
+*The Cave of Prophecies is featured in a piece of merch from thatskyshop, in the form of the [[That Sky Shop/Wave 11#Cave of Prophecies Pin|Cave of Prophecies Pin]]. It has a STAR feature which allows you and the friends holding your hand to teleport to the Cave of Prophecies in the Isle of Dawn.
+
+==Change History==
+{{Scrollbox
+|height=400px 
+|text= <div>
+{{v|0.11.0}}
+* With [[Season of Prophecy]], Cave of Prophecies with four Seasonal Spirits introduced. In addition with an entrance to the north west of the map.
+{{v|0.11.1}}
+* Fix of music timing in the main Cave of Prophecies
+{{v|0.11.2}}
+* Improved textures on murals in Cave of Prophecies
+* Visual improvements to the center obelisk in Cave of Prophecies
+* Fixed issue causing brand new players to get stuck in Cave of Prophecies if shepherded by another player before completing Daylight Prairie
+{{v|0.11.4}}
+* Reduced brightness after completing the of Fire Trial before returning back to the main cave
+----
+{{v|0.13.0}}
+* Addition of [[Treasure Candles]] and regular candles throughout Prophecy areas with introduction of [[Daily Light]]
+----
+{{v|0.14.0}}
+* Past Seasonal spirits now [[Seasonal_Spirits#Finding_Seasonal_Spirits|permanently available to relive]]
+----
+{{v|0.15.5}}
+* Fix of a bug that caused clouds to cover areas inside the Prophecy Cave
+----
+{{v|0.19.0}}
+* Addition of [[Map Shrines]] throughout Isle
+</div>}}
+{{clear}}
+
+==References==
+<references />
+
+{{GameLevelsNav}}
+
+[[de:Höhle der Prophezeiungen]]
+[[pt-br:Caverna das Profecias]]
+[[ja:預言者の石窟]]
+[[fr:Grotte des Prophéties]]

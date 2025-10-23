@@ -1,0 +1,99 @@
+{{Spirit Infobox
+|type      = Regular
+|emote_type= Emote
+|image     = <gallery>
+Isle-Spirit-Rejecting-Voyager.png|Standard
+Isle-Spirit-Rejecting-Voyager-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Facepiece|infobox}}{{Spirit Item||Hair|infobox}}
+|realm     = Isle of Dawn
+|location  = [[Isle of Dawn#Temple|Isle Temple]]
+}}
+<section begin="Summary" />The '''Rejecting Voyager''' is a [[Regular Spirit]] in [[Isle of Dawn]] who offers the {{Emote|Rejecting Voyager|inline_text}} Expression. The Rejecting Voyager is found in front of a cave, left of the [[Isle of Dawn#Temple|Isle's Temple]] entrance.<ref>The Rejecting Voyager was moved in Patch {{v|0.28.5}}. The Spirit was originally located behind a now-removed Spirit Gate in the cave left of the Temple.</ref> The collectibles [[Rejecting Voyager#Friendship Tree|offered]] by this Spirit are a {{Spirit Item|Rejecting Voyager|Facepiece|inline_text}} and a {{Spirit Item|Rejecting Voyager|Hair|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Rejecting-Voyager-Guide-777-Ed.png|320x320px|thumb|none|Image Guide by 777.Ed]]
+
+== Memory ==
+<div>
+{{#ev:youtube|FW3r7r_JaDM||inline|Video Guide}}
+<br>
+The Rejecting Voyager can be found in front of a cave, left of the [[Isle of Dawn#Temple|Isle's Temple]] entrance. This Spirit is a [[Standard Memory|standard memory]] quest with 3 memory fragments and an unlimited overall [[Timed Memory|time limit]].
+
+As their memory unfolds, the Rejecting Voyager is seen guiding another Spirit carrying a pickaxe further down the tunnel. The pickaxe wielding Spirit pauses to point at a blank section of the wall, to which the Rejecting Voyager denies by crossing their arms in an "X". The pair moves on to another section of wall that features a [[Murals|Mural]] of the [[Elder of the Isle]] surrounded by flying [[Creatures]].
+
+At the end of the memory, the Rejecting Voyager gestures towards the Mural and confirms it to also be off limits to the Spirit with a pickaxe, firmly shaking their head and waving both arms in a negative motion.<br>
+<br>
+[[File:00 ID Spirit - Rejecting Voyager.png|200px|thumb|none|Relive the Rejecting Voyager's memory]]
+</div>
+{{Clear}}
+
+== Expression==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.<br>
+<br>
+[[File:{{Icon Name||Emote}}|170px|left]]
+<gallery heights="125" captionalign="center">
+Rejecting-Voyager-no-thanks-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Rejecting-Voyager-no-thanks-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Rejecting-Voyager-no-thanks-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Rejecting-Voyager-no-thanks-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar lean back slightly and raise both arms to form an "X", waving them side to side while shaking their head.
+*Level 2 makes the same motion as Level 1 with a pale red "X" over their head.
+*Level 3 will make your avatar turn to the side and face backwards while raising an arm perpendicular with a pushing motion.
+*Level 4 makes the same motion as Level 3 with a red "X" over their head.
+
+The prices of the three Expression upgrades are {{Cost|1 C}}, {{Cost|2 C}}, and {{Cost|2 C}}. Levels 3 and 4 are only available after unlocking the Spirit's [[Wing Buff]].
+
+==Cosmetics==
+=== <span id="Mask">Face Accessory</span> ===
+The [[Face Accessory]]<ref name="Mask recategorized">This item was recategorized from a [[Mask]] to a [[Face Accessory]] as a result of the [[Outfit Shrine|Closet]] category expansion in Patch {{v|0.22.0}}.</ref> offered by this Spirit is a silver horizontal head guard (closely resembling the [[Elder of the Isle]]'s Face Accessory), costing {{Cost|3 H}}. It is permanently available to all players after unlocking the Spirit's [[Wing Buff]] and the Friendship Tree's fourth node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||facepiece}} {{!}} The Face Accessory icon
+{{Icon Name||facepiece|Real}} {{!}} The Face Accessory
+|widths=125|captionalign=center|spacing=small
+}}
+
+=== Hair ===
+The [[Hair]] offered by this Spirit is a short length of hair on a shaved head, costing {{Cost|1 H}}. It is permanently available to all players after unlocking the Friendship Tree's second node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair}} {{!}} The Hair icon
+{{Icon Name||Hair|Real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Friendship Tree ==
+{{Friendship Tree Info | regular}}
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Rejecting Voyager
+|image  = Isle-Spirit-Rejecting-Voyager.png
+
+|nodeC5 = spell5
+|nodeL4 = emote4 2 C
+|nodeC4 = emote3 2 C
+|nodeR4 = facepiece 3 H
+|nodeC3 = wing 1 AC
+|nodeL2 = hair 1 H
+|nodeC2 = spell1
+|nodeR2 = heart
+|nodeL1 = emote2 1 C
+|nodeC1 = emote
+}}<section end="Friendship Tree" />
+
+==Trivia==
+*[[Darkness|Darkness Plants]] covering the two ground entrances to the [[Tearful Light Miner]]'s cave, Darkness Plants on the [[Whale Whisperer]] covering the skeleton of the [[Boneyard]], and in the Rejecting Voyager's cave Darkness Plants in [[Isle of Dawn]] are Darknesses that cannot be burned by players with not enough [[Winged Lights]]. If a player try to burn Darkness Plants with less than 3 wedges for Whale Whisperer, less than 2 for Rejecting Voyager, and less than 1 for Tearful Light Miner, will receive a message that says, "You need more {{Icon|Four-point-star-Ray.png|link=}} to melt this."
+
+==Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Emote Loc-No.png
+</gallery>
+
+==References==
+<references />
+
+[[de:Ablehnender Reisender]]
+[[fr:Voyageur refusant]]
+[[pt-br:Viajante em Negação]]
+[[ja:固辞する航行者]]

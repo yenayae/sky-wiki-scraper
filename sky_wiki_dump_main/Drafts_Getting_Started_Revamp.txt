@@ -1,0 +1,61 @@
+===Welcome To Sky!===
+Welcome to the game! Now that you have joined the tutorial character, the Hopeful Steward, in returning light to Aviary Village and ventured into the first realm, what's next? '''This is an informal guide covering the basics. Links after each section will lead to more thorough information.'''
+
+An atmospheric and delightful game. Adventure through breathtaking realms to collect, explore, and play alongside other real-time players. There's a lot to find in the skies!
+
+Compared to previous games from thatgamecompany (TCG) like ''Flow'', ''Flower'', or ''Journey'', ''Sky: Children of the Light'' has more content and complexity, as well as live-service updates and events.
+Your early days may be confusing! Take your time. You can learn about each aspect of the game at your own pace.
+
+For a super-condensed version of this guide: see "Moth Quickstart". 
+{{Tip|"[[Glossary_of_Terms#Moth]]" refers to new players, as the default brown cape looks like the insect.}}
+For questions, refer to the [[FAQ]]. For common terminology, see [[Glossary of Terms]]. See [[Sky_Children_of_the_Light_Wiki:Featured_Blogs]] for miscellaneous further reading, created by other members of the Fandom Wiki community.
+
+If you have suggestions to improve this page are welcome!
+
+
+===NAVIGATION===
+To prevent pages from getting too long, this Getting Started Guide has been split into four specific topics: the Basics, 100%-ing, Events, and Interacting. Click a topic to go to its subpage. To see a curated set of this information specifically for newcomers, keep reading.
+{{Getting Started Nav|1}}
+
+===Tutorial Recap===
+
+
+
+====Tips and Help====
+ How can I find spirits and/or winged light, aside from looking for walkthroughs?
+Un-relived spirits and children of light are often visible from a distance due to their perihelion glare [TODO add image]. As a rule of thumb, if something is shiny, try investigating! Try unlocking all Map Shrines to see if you've missed any.
+For spirits, you can also Request A Guide.
+ Where do I go?
+Short call to show a star overlaid over your screen.
+4-pointed blue star = where to go next in reliving a spirit memory.
+A beacon with a star icon with four extra dots = the way to the realm's temple. [TODO add picture]
+Otherwise, the Sky Wiki has a collection of detailed fan-made maps to help you navigate.
+* See [Interactive_Maps].
+ AAAAH! Dark creatures!!!
+Check out [[Dark_Crabs#Abilities]].
+Check out [[Dark_Dragons#Getting_attacked_by_Dark_Dragons]] or external sources for "krill-dodging" techniques.
+Take your time!!
+ I just ran out of light, did I die? I lost winged light and it vanished, is it gone forever?!
+No, to both.
+There are two stages to having "no light left" — flame and star (as per the shape of the icon that depletes). If you are hit by a dark creature, you may skip over the flame stage.
+Upon depleting all of your wedges, you can no longer fly (your wing meter will flash red), and an alert will show up at the bottom of your screen to find the nearest light source [TODO add pic]. Honk for help! An icon shows up to other people in your realm area above a player who has run out of light.
+When you deplete all of your star meter, you will become grey and cannot run [TODO add pic]. Any more lost light will result in winged light popping out. Collect it over where it drops to recover it. However, this will not restore your light and you still need to find a light source. If you can't get to it in time and it vanishes, you simply need to go re-find it in the realms. If you lose all your light, you spawn in a room with one winged light to collect before being brought back to Home.
+If this happens often, try finding more winged light, accompany other skids to light each other, or leaving at least one flap as a buffer! Also, if you need to cross a large body of polluted water/rain, often the most light-conserving way is to hop/wade through it as flying will expend more wedges.
+* See [[Winged_Light#Losing_Winged_Light]].
+ The area just magically changed but I didn't do anything?
+The game will occasionally "server merge", where they move players into other servers. You may have been moved into a server with some Darkness Plants already burnt, etc. You will never be server merged with less things unlocked (this does not apply when moving between areas).
+You may also have been playing at "reset", which happens at midnight PT (TCG headquarters!) [click here for what that is in your local time! https://dateful.com/convert/pst-pdt-pacific-time?t=12am] every day. After reset, all wax you've collected from the realms will be restored, and you can go get them again.
+
+===Non-Storyline Mechanics===
+This section covers activities, events, and collectibles outside the regular spirits, map shrines, and winged light of the main storyline.
+
+====Tips and Help====
+ What is [this thing]?
+A lot of things are remnants of previous seasons! Try looking up the general area in the Wiki; it might be listed in there. Otherwise, ask folks! You can ask people in-game, on the Fandom Wiki discussion, on Reddit, or on the official Discord!
+For commonly encountered items, refer to "What the honk is that???"
+ Who is this spirit?
+Try checking [[Spirits]] for a full catalogue!
+ What is that cosmetic?
+Try checking the [[Outfit Shrine]] and skimming through the icons!
+ Woah! I see players who are tall/short, how do I get like that?
+Use height alteration spell or chibi mask

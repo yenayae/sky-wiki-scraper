@@ -1,0 +1,115 @@
+{{Help|beta}}
+{{Distinguish|Sparkler Parent}}
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= none
+|image     = Nostalgic-Sparkler-Parent-cutout.png
+|cosmetics = {{Spirit Item|Nostalgic Sparkler Parent|Hairpiece|infobox}} {{Spirit Item|Nostalgic Sparkler Parent|Cape|infobox}} 
+|season    = the Blue Bird
+|realm     = Hidden Forest
+|location  = Blue Bird Theater
+|ts        = None
+}}
+<section begin="Summary" />The Nostalgic Sparkler Parent is a [[Seasonal Spirit]] from the [[Season of the Blue Bird]]. The Nostalgic Sparkler Parent is found at the Blue Bird Theater in the Elevated Clearing from [[Hidden Forest]]. The collectibles [[#Traveling Spirit|offered]] by this Spirit are 
+a {{Spirit Item|Nostalgic Sparkler Parent|Hairpiece|inline_text}} and a {{Spirit Item|Nostalgic Sparkler Parent|Cape|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Nostalgic-Sparkler-Parent-Promo-art.png|none|thumb|320px|TGC's Promo image]]
+
+==Cosmetics==
+===<span id="Hair accessory">Hair Accessory</span>===
+The [[Hair Accessory]] offered by this Spirit consists of two silver feather-like pieces attached to the side of the head. At the bottom they merge into a curl, from which hangs a large, dark blue diamond. The diamond glows when other Sky kids are nearby, or when someone nearby uses a friendship interaction expression. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's first node ({{Cost|9 SC|season=Blue Bird}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Nostalgic Sparkler Parent|Hairpiece|icon}} {{!}} The Hair Accessory icon
+{{Icon Name|Nostalgic Sparkler Parent|Hairpiece|real}} {{!}} The Hair Accessory
+|widths=125|captionalign=center|spacing=small
+}}
+{{#ev:youtube|IzElgAS_nbU||inline|Item Showcase}}
+{{Clear}}
+
+===<span id="Cape">Cape</span>===
+The [[Cape]] offered by this Spirit is round and gray-blue. It has a high collar with silver lining, which curls along the back of the Cape. At the bottom back, it fades into black with sparkles - the interior is black as well. It was available to all players for {{Cost|20 SC|season=Blue Bird}} during the Season, from the Friendship Tree's third node ({{Cost|42 SC|season=Blue Bird}} total).<br><br>
+{{#tag:gallery
+|{{Icon Name|Nostalgic Sparkler Parent|Cape|icon}} {{!}} The Cape icon
+{{Icon Name|Nostalgic Sparkler Parent|Cape|front}} {{!}} The Cape front
+{{Icon Name|Nostalgic Sparkler Parent|Cape|interior}} {{!}} The Cape interior
+{{Icon Name|Nostalgic Sparkler Parent|Cape|back}} {{!}} The Cape back
+{{Icon Name|Nostalgic Sparkler Parent|Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+<!--   ONLY APPLICABLE ONCE SPIRIT HAS BECOME A TRAVELING SPIRIT 
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling
+|ts_dates=*June 19, 2019 (#01)
+*June 19, 2020 (#02)
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Nostalgic Sparkler Parent
+|image = Nostalgic-Sparkler-Parent-cutout.png
+|season = season
+
+|nodeC6 = Outfit 60 C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Mask 30 C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+-->
+<!--   USE VARIABLES TO CONSTRUCT FRIENDSHIP TREE
+Cosmetics: Outfit Cape Hair Hairpiece Headpiece Facepiece Mask Necklace Outfit Shoes Instrument Prop 
+Expressions; emote emote1 emote2 emote3 emote4 
+Cost: SP for Season Pass, SC for Season Candles, C for Candle, H for Heart, free for Free
+Other: spell5 spellx heart season_heart #Quest #1 
+-->
+==Season Friendship Tree ==
+{{Friendship Tree Info | season| season=the Blue Bird}} <section begin="Season Friendship Tree" />
+{{Friendship Tree
+|spirit = Nostalgic Sparkler Parent
+|image  = Nostalgic-Sparkler-Parent-cutout.png
+|type   = season
+|season = Season of the Blue Bird
+
+|nodeL5 = 
+|nodeC5 = season_heart 3 SC SP
+|nodeR5 =
+
+|nodeL4 = Random-dye-icon.png SP
+|nodeC4 = Random-dye-icon.png 23 SC
+|nodeR4 =
+
+|nodeL3 = Random-dye-icon.png SP
+|nodeC3 = cape 20 SC
+|nodeR3 =
+
+|nodeL2 = Cyan-dye-container-icon.png SP
+|nodeC2 = Purple-dye-container-icon.png 13 SC
+|nodeR2 =
+
+|nodeL1 = hairpiece SP
+|nodeC1 = Random-dye-icon.png 9 SC
+|nodeR1 =
+}}<section end="Season Friendship Tree" />
+
+==Personality==
+On May 7, 2025, TGC officially announced and introduced the Nostalgic Sparkler Parent with the following personality traits<ref>[https://archive.ph/TC6MD https://x.com/thatskygame/status/1920273057941217728]</ref>:
+
+*📝Has kept a daily journal for years (no peeking!)
+*✍️Loves letter writing, and keeps every letter they’ve ever received
+*🎉Knows all the traditional customs for every single holiday
+*📖Avid book-reader, especially biographies
+
+==References==
+<references />
+
+{{DEFAULTSORT:the Blue Bird, Season of}}
+
+[[fr:Parente étincelante nostalgique]]
+[[pt-br:Mãe Cintilante Nostálgica]]
+[[ja:懐かしむ煌きを放つ親]]

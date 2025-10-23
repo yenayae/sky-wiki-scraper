@@ -1,0 +1,85 @@
+There are several beneficial and hazardous environmental elements in Sky. They can either aid the player in reaching distance area that are difficult to reach alone, recharge player's wings and oxygen level, or they can impede the player by taking away their Light.
+
+==Neutral Elements==
+===Crystals===
+'''Crystals''' are only found in the [[Prairie Peaks]]. They naturally appear in clusters scattered throughout the area, and have a black core with a turquoise tip. Crystals can be found on land, as well as underwater. One large crystal structure can be found at the back of the Prairie Peaks, inside a cave that can be accessed through an underwater tunnel.
+
+When players come near crystals, they start to glow and sparkle. Crystals outside glow in varying colors at once, while crystals inside tend to have a white and turquoise glow. Crystals neither recharge nor drain the players' Light.<br>
+<br>
+<gallery spacing="small" captionalign="center">
+Prairie-Peaks-Crystals-In-Cave.jpg|A cluster of Crystals
+Prairie-Peaks-Crystals-When-Player-Is-Near.jpg|A cluster of Crystals while a player is near
+Prairie-Peaks-Glowing-Crystals-Outside.jpg|A cluster of Crystals glowing outside
+Prairie-Peaks-Large-Crystal-Structure.jpg|The large Crystal structure
+</gallery>
+
+==Light Elements==
+===Light Bloom===
+'''Light Blooms''' are found in [[Hidden Forest]], [[Treasure Reef]], and [[Prairie Peaks]]. They are similar in design and functionality to the Jellyfish. As Light Creatures, they replenish Cape Energy and act as safe havens from the rain which perpetually depletes players' Light. When positioned in an upward-leading structure, they are often used as "ladders" to reach elevated gazebos or higher ground (which can prove useful for retrieving Winged Light from above). Dead Light Bloom turns opaque and becomes the same color as the trees. 
+
+Landing on a Light Bloom with low Cape Power will instantly recharge your power back by 1 and keeps it no lower than that amount as long as you're on the Light Bloom. They also act as a rain shield, protecting players underneath, such as while reliving the [[Laidback Pioneer]] Spirit.
+<gallery widths="200" spacing="small" captionalign="center" hideaddbutton="true">
+Fungi.jpg|Light Blooms growing from a tree
+Fungus.jpg|Light Bloom providing cover from the rain
+</gallery>
+
+===Underwater Light Bloom===
+In [[Treasure Reef]], in addition to creatures that recharge, you'll find aquatic plants that have the ability to recharge players' oxygen levels. Approaching those plants, they will begin to glow and players will quickly regain full oxygen levels. They can be found in shallow waters and at the deeper level of the abyss and in the river in [[Prairie Peaks]].
+<gallery widths="200" spacing="small" captionalign="center" hideaddbutton="true">
+File:SOAbyss-recharging-plants.jpg|Aquatic recharging plants in [[Treasure Reef]]
+</gallery>
+
+==Dark Elements ==
+===Darkness ===
+'''Darkness''' (also referred to as "Darkness Plants") are plants that can be found mostly in the [[Golden Wasteland]], but have been introduced in [[Daylight Prairie]] and [[Hidden Forest]]. Even though Darkness Plants are technically Dark elements, they do not negatively impact Sky Children directly. In fact, burning<ref>They say "melt" in the game.</ref> them completely will drop [[Pieces of Light|wax]], increasing a player's candle count and recharging the player's Cape Energy.
+
+However, Darkness does trap other Light Creatures, such as [[Mantas]] in the [[Hidden Forest]] and [[Butterflies]] in general. Most notably, during one of the Season of Flight Quests, Darkness trapped [[birds]] and blocked [[The Wind Paths]] tunnels and the area turns into a dark green Wasteland-toned area. 
+
+Spirits are surrounded by Darkness Plants, which must be burned before reliving their memory. Darkness Plants are otherwise occasionally present in some Spirit Memories, such as the [[Tearful Light Miner]], the [[Slumbering Shipwright]], and the [[Piggyback Lightseeker]]. They also serve as solid footing to bring a Spirit Memory to its destination, such as the [[Respectful Pianist]].
+
+[[Darkness|Darkness Plants]] covering the two ground entrances to the [[Tearful Light Miner]]'s cave, Darkness Plants on the [[Whale Whisperer]] covering the skeleton of the [[Boneyard]], and in the Rejecting Voyager's cave Darkness Plants in [[Isle of Dawn]] are Darknesses that cannot be burned by players with not enough [[Winged Lights]]. If a player try to burn Darkness Plants with less than 3 wedges for Whale Whisperer, less than 2 for Rejecting Voyager, and less than 1 for Tearful Light Miner, will receive a message that says, "You need more {{Icon|Four-point-star-Ray.png|link=}} to melt this."
+<gallery widths="200" spacing="small" captionalign="center" hideaddbutton="true">
+File:Darkness-in-quests.jpg|Darkness in the [[Tearful Light Miner]] memory
+File:Darkness-staircase-in-wasteland.jpg|Darkness steps that help during the [[Respectful Pianist]]'s memory
+File:Manta-trapped-in-darkness-plants.jpg|Trapped manta
+File:Tearful-in-darkness-plants.jpg|[[Tearful Light Miner]] before reliving memory
+</gallery>
+
+====Red Darkness Plants====
+These plants can only be found during the [[Season of the Nine-Colored Deer#Quest #1|first seasonal Quest]] for [[Season of the Nine-Colored Deer]], in The Valley located in the [[Crescent Oasis]]. Unlike normal Darkness Plants, if Sky Children come into close proximity of these plants, they will deplete the player's light and eventually extinguish them. Similar to the [[Dark Crabs#Red Shattering Crabs|Shattering Crabs]], there is nothing the player can do to counteract this darkness, other than moving away from the plants. Darkness plants near the [[Shard Eruptions|Shards]] are also red, but they don't drain Cape Energy.
+<gallery widths="200" spacing="small" captionalign="center" hideaddbutton="true">
+File:Red-Darkness-Plants-Crescent-Oasis-Vault.png|Red Darkness Plants in the Crescent Oasis
+File:Effect-of-Red-Darkness-Plants.png|Red Darkness Plants draining Light from a Player
+</gallery>
+
+===Rain===
+Exposure to the rain in the [[Hidden Forest]] will deplete your Cape Power, extinguish your Light, and makes you lose Winged Light. Water on the ground is harmless. Players are able to get cover from the rain with an Umbrella and by standing under structures or trees. The rain with the same characteristics appears in [[Season of Moments]]' fourth quest.
+
+===Polluted Water===
+'''Polluted Water''' (also referred to as "Dark Water," or "Poisoned Water") is primarily found in the [[Golden Wasteland]], but is also found in the Geyser from [[Sanctuary Islands]], a few spots in [[Starlight Desert]], and in [[Eye of Eden]]. Its color ranges from green, brown, or black. Polluted Water drains the player's energy and will eventually make you lose Winged Lights. Touching in water with your hands by using an [[Expression]], such as the one from [[Handstanding Thrillseeker]], seems to stop the negative effects. 
+
+===Chilly Water===
+This type of water is found in the Trial of Water in the [[Cave of Prophecies]]. Most clear water is harmless to Sky Children but the water found in this trial extinguish a player's Light and respawn them to the last checkpoint. Getting to the end of the trial will grant the player a blessing which in turn allows them to walk on the water, making them immune to the effect of the chilly water. 
+
+===Red Dark Stones===
+'''Red Dark Stones''' were previously found exclusively in the Dark Dragons and the Battlefield part of [[Eye of Eden]], but now also appear during [[Season of Shattering#Shard Eruption Events|Strong Shard Eruptions]]. When approaching a Red Dark Stone, they will start shaking and begin absorbing your Cape Power. Their sizes range from small, medium, to large, but their hazardous range is beyond their physical size.   
+
+Upon touching them, large stones will deal damage and knock the player back. In conjunction with the strong winds in [[Eye of Eden]], the rocks can knock back players long distances.
+<gallery widths="200" spacing="small" captionalign="center" hideaddbutton="true">
+Red-dark-stones.jpg|A field of Dark Stones
+Energy-drained-by-red-dark-stone.jpg|Cape Energy drained by Dark Stones
+</gallery>
+
+== TriVia ==
+
+* Despite their name suggesting that they are flowers, Light Blooms appear to be a type of fungus.
+
+== References==
+<references />
+
+{{Navigation Box}}
+
+[[fr:Fleurs, Minéraux et Éléments de Sky]]
+[[de:Flora, Mineralien und Elemente von Sky]]
+[[pt-br:Flora, Minerais e Elementos de Sky]]
+[[Category:Lore]]

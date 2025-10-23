@@ -1,0 +1,258 @@
+{{Season
+| title = Season of Remembrance
+| image = SoRemembrance-Promo-image-wide.png
+| start = January 16, 2023
+| end = April 2, 2023
+| spirits = 4
+| previousSeason = [[Season of AURORA]]
+| nextSeason = [[Season of Passage]]
+| constellation = SoRemembrance-Spirits-Constellation.png
+| symbol = 16_SORemembrance_logo.png
+}}
+The '''Season of Remembrance''' is the sixteenth seasonal event in the live version of Sky since the global release, following '''[[Season of AURORA]]'''. It began on ''' January 16, 2023, at 00:00 PST (UTC -8)''' and ended on '''23:59 April 2, 2023, PDT (UTC -7)''' lasting 77 days.
+
+Journey alongside Spirits who lived through eras of turmoil to press on and rebuild together.<br>
+<br>
+{{#ev:youtube|7TyMb1sPgzk||inline|Season of Remembrance Trailer}}
+
+==Welcome==
+<center class="title-text-welcome">[https://www.thatskygame.com/news/links-to-the-past-in-season-of-remembrance Welcome to the Season of Remembrance!]</center>{{Quote|<br>'''''Beneath the Vault of Knowledge, the door to a lost Repository has opened.'''''}}
+This season is about diving deeper into Sky's lore. Season of Remembrance returns to more intimate storytelling within the Vault of Knowledge, where four new Spirits have found shelter from the upheaval disrupting their lives in the kingdom they had known.
+
+<small>Note that Season of Remembrance can be enjoyed by all players who have progressed through at least Vault of Knowledge.</small>
+
+== Repository of Refuge==
+{{Quote|<br>'''''Where the past meets the present.'''''|Repository of Refuge Opening}}
+The [[Repository of Refuge]] is a new area that has been added to the Vault of Knowledge, accessible from the first floor, through an underground passage next to the Sapling. One spirit from the Vault of Knowledge is needed to enter. As you descend the steps, you enter an old repository that once served as an archive. The broken tower is surrounded by many floating platforms in an endless night where a lone manta invites players to take a ride in the starry night.<br>
+<br>
+[[File:Repository-of-Refuge.jpg|none|thumb|330x330px|Repository of Refuge]]
+
+==Daily Quests & Seasonal Candles==
+===Daily Quests===
+Collect Seasonal Candles throughout the Season to trade with the new spirits for their cosmetics. A total of 6 seasonal candles are available to gather, as follows: 
+
+*Each day the Remembrance guide stands next to a Realm's portal, indicating where the day's four daily quests may be completed. Players will earn one seasonal candle per quest completed. Complete your quests and claim your reward at the meditation shrine at home. (4 candles)
+*Players may also collect an extra candle by collecting the 4 seasonal bunches <small>(more information on the "Seasonal bunches locations" below).</small> (1 candle)
+*Players who have the [[Season Pass]] can claim a Seasonal Candle at Home as a free daily bonus. (1 candle)
+<gallery widths="125" spacing="small" captionalign="center" orientation="landscape">
+File:SoRemembrance-Seasonal-candles.jpg|Season of Remembrance seasonal candles
+File:SoRemembrance-Season-Pass-1.png|Season pass - page 1
+File:SoRemembrance-Season-Pass-2.png|Season pass - page 2
+File:SoRemembrance-Season-Pass-3.png|Season pass - page 3
+</gallery>
+===Seasonal Candle Bunches Locations ===
+The Seasonal Candle bunches are found towards the beginning of each realm, one realm a day.<br>
+<br>
+<gallery spacing="small" captionalign="center">
+Daylight-Prairie-Seasonal-Candles-locations-Pattern-B.png|Prairie Rotation 1 & 2
+Hidden-Forest-Seasonal-Candles-locations-Pattern-B.png|Forest Rotation 1 & 2
+Valley-of-Triump-Seasonal-Candles-locations-Pattern-B.png|Valley Rotation 1 & 2
+Golden-Wasteland-Seasonal-candles-Locations-Pattern-B.png|Wasteland Rotation 1 & 2
+Vault-of-knowledge-Seasonal-candles-Locations-Pattern-B.png|Vault Rotation 1 & 2
+</gallery>
+
+==Child of Light Locations ==
+One (1) Children of Light has been added to the Season of Remembrance. It is visible from inside the Repository, but accessible from outside through a locked cell. The [[Winged Light]] can be collected without entering the cell but can also be reached through a small window above the cell.
+<gallery>
+File:Repository-of-Refugee-WL1.jpg|Repository of Refuge Winged Light
+File:Repository-of-Refugee-WL1-closeup.jpg|Repository of Refuge Winged Light closeup
+</gallery>
+
+==Spirit Memory Quests==
+The quests for Season of Remembrance are completed doing a series of requests made by Spirits, using [[Props]] from [[Shared Spaces]]. Each spirit are missing or requesting items and players need to figure out which props satisfies them or search the area for pieces of [[props]].
+===Quest #1<span id="Quest 1"></span>===
+The Bereft Veteran longs for something that is gone. The Remembrance Guide thinks and goes to a wall full of Memory lanterns, but the ones that would bring them peace are lost. Retrieve the lost memory lanterns to help them. A meditation circle is activated and you are invited to sit and gather all the pieces of the lantern ''' spread across the Repository of Refuge's main room'''. Once you have all the pieces, go back to the Remembrance Guide to complete the quest.
+
+The Remembrance Guide activates the Shared Space diamond with the now complete lantern that you just brought them.
+
+===Quest #2<span id="Quest 2"></span>===
+The [[Bereft Veteran]] is sad, their shelter is missing a few items. Go to the Shared Space shrine (the large luminescent diamond) and start designing a space that eases this Spirit's sorrow. Once you are in "design" mode, go to the Bereft Veteran and start using the "Featured" props to bring them peace. Every time you put down an object, the Bereft Veteran nods in approval or denies in disapproval. Continue until they are completely satisfied. 
+
+Once you finally found what pleases them, save your Shared spaces to complete the quest. Return to the Remembrance Guide to complete the quest and fulfilled a wish of this Ancestor Spirit.
+
+A memory of the Bereft Veteran shows them remembering their late son as they fade away in nostalgia.<br>
+<br>
+{{#ev:youtube|8shKpNcCAqo|300px||Quest 1 & 2 by nastymold}}
+
+===Quest #3<span id="Quest 3"></span>===
+The [[Tiptoeing Tea-Brewer]] regrets the past. The Remembrance Guide thinks and goes to a wall full of Memory lanterns, but the ones that would bring them peace are lost. A meditation circle is activated and you are invited to sit and gather all the pieces of the Memory books spread across the '''first level of the Vault of Knowledge'''. Once you have all the pieces, go back to the Remembrance Guide to complete the quest.
+
+The Remembrance Guide activates the Shared Space diamond with the now complete lantern that you just brought them.
+
+===Quest #4<span id="Quest 4"></span>===
+The Tiptoeing Tea-Brewer longs for what they have lost. Go to the Shared Space shrine (the large luminescent diamond) and start designing a space that eases this Spirit's sorrow. Once you are in "design" mode, go to the Tiptoeing Tea-Brewer and start using the "Featured" props to bring them peace. Every time you put down an object, the Tiptoeing Tea-Brewer nods in approval or denies in disapproval. Continue until they are completely satisfied.
+
+Once you finally found what pleases them, save your Shared spaces to complete the quest. Return to the Remembrance Guide to complete the quest and fulfilled a wish of this Ancestor Spirit.
+
+A memory of the Tiptoeing Tea-Brewer shows them remembering their late loved one as they fade away in nostalgia.<br>
+<br>
+{{#ev:youtube|Rh3iMgU8ibk|300px||Quest 3 & 4 by nastymold}}
+
+===Quest #5<span id="Quest 5"></span>===
+The [[Wounded Warrior]] is stricken with grief. Retrieve the lost memory lanterns to help them. From a lower chamber, accessible from stairs, we can see them grieving, their back turned away. The Remembrance Guide thinks and goes to a wall full of Memory lanterns, but the ones that would bring them peace are lost. Retrieve the lost memory lanterns to help them. A meditation circle is activated and you are invited to sit and gather all the pieces of the lantern spread across the '''second level of the Vault of Knowledge.''' Once you gathered all the pieces, go back to the Remembrance Guide to complete the quest.
+
+The Remembrance Guide activates the Shared Space diamond with the now complete lantern that you just brought them.
+
+===Quest #6<span id="Quest 6"></span>===
+The [[Wounded Warrior]] longs for what they have lost. Visit the Shared Space shrine (the large luminescent diamond) and start designing a space that eases this Spirit's sorrow. Once you are in "design" mode, go to the Wounded Warrior and start using the "Featured" props to bring them peace. Every time you put down an object, the Wounded Warrior nods in approval or denies in disapproval. Continue until they are completely satisfied.
+
+Once you finally found what pleases them, save your Shared spaces to complete the quest. Return to the Remembrance Guide to complete the quest and fulfilled a wish of this Ancestor Spirit.
+
+A memory of the [[Wounded Warrior]] shows them remembering their late friend. As they stagger towards the illusion, it fades away in nostalgia.<br>
+<br>
+{{#ev:youtube|sSZe3Q_U5Ws|300px||Quest 5 & 6 by nastymold}}
+
+=== Quest #7<span id="Quest 7"></span>===
+The [[Pleading Child]] yearns for security. Retrieve the lost memory lanterns to help them. The Remembrance Guide thinks and goes to a wall full of Memory lanterns, but the ones that would bring them peace are lost. Find the lost memory lanterns to help them. A meditation circle is activated and you are invited to sit and gather all the pieces of the lantern spread across the '''first level of the Vault of Knowledge.''' Once you gathered all the pieces, go back to the Remembrance Guide to complete the quest.
+
+The Remembrance Guide activates the Shared Space diamond with the now complete lantern that you just brought them.
+
+=== Quest #8<span id="Quest 8"></span>===
+The [[Pleading Child]] longs for what they have lost. Visit the Shared Space shrine (the large luminescent diamond) and start designing a space that eases this Spirit's sorrow. Once you are in "design" mode, go to the Pleading Child and start using the "Featured" props to bring them peace. Every time you put down and object, the Pleading Child nods in approval or denies in disapproval. Continue until they are completely satisfied.
+
+Once you finally found what pleases them, save your Shared spaces to complete the quest. Return to the Remembrance Guide to complete the quest and fulfilled a wish of this Ancestor Spirit.
+
+A memory of the [[Pleading Child]] shows them remembering the family member they lost. As they step towards the illusion, it fades away in nostalgia.<br>
+<br>
+{{#ev:youtube|F9J_u-ubxxs|300px||Quest 7 & 8 by nastymold}}
+
+===Quest #9<span id="Quest 9"></span>===
+The Remembrance Guide is gathering the spirits. Find them and bring them to the center of the Repository. 
+
+The Remembrance Guide walks to the center of the Repository and starts looking for the spirits. One by one we see them at their shelter, alone and sad. The Guide then whistles and waves their arms, requesting the other spirits join them, but no one comes.
+
+You are then tasked to find all four spirits and bring them to the Remembrance Guide. Sit in the meditation circle and gather all the pieces (spirits). Grab their hand by clicking the series of emotes offered by them. (''Take notice of the item they each possess as you will need them later''). Return to the Remembrance Guide with all four spirits once you gathered them all. 
+
+You have helped the Remembrance Guide and brought the spirits together. 
+
+=== Quest #10<span id="Quest 10"></span>===
+The spirits are finally all together! Visit the Shared Space Shrine to help them by building a joyful space for them.
+
+Get closer to each spirit and an icon will appear. Click the icon to "speak" to the spirit and follow them. One by one they walk to a near spot and you are invited to place their favorite item near them.
+
+*The [[#Bereft Veteran|Bereft Veteran]] requires the {{Spirit Item|Remembrance Guide|prop_c|inline_text}}
+*The [[#Pleading Child|Pleading Child]] requires both the {{Spirit Item|Remembrance Guide|prop_q|inline_text}} and the {{Spirit Item|Remembrance Guide|prop_m|inline_text}}
+*The [[#Tiptoeing Tea-Brewer|Tiptoeing Tea-Brewer]] requires the {{Spirit Item|Remembrance Guide|prop_k|inline_text}}
+*The [[#Wounded Warrior|Wounded Warrior]] requires the {{Spirit Item|Remembrance Guide|prop_p|inline_text}}
+
+Once a spirit is satisfied, they demonstrate their gratitude with a multitude of hearts coming from them. Publish your Shared Space to finish the quest. You have brought joy to the spirits. 
+
+The final scene demonstrates all the spirits reunited as a new family, their presence bringing joy to each other and a bright future ahead of them despite the tragic events in their lives. In the starry night, a family of mantas fly away together, finally reunited.<br>
+<br>
+{{#ev:youtube|92p13nfcmtE|300px||Quest 9 & 10 by nastymold}}
+
+==Spirits & Cosmetics==
+All of the ''Season of Remembrance'' Spirits can be found in the Repository of Refuge. There are 3 new Expressions and one Posture to gather, four spirits overall. 
+{{#tag:gallery
+|{{Icon Name|Bereft Veteran|emote}} {{!}} {{Icon Name|Bereft Veteran|emote_name}}
+{{Icon Name|Pleading Child|emote}} {{!}} {{Icon Name|Pleading Child|emote_name}}
+{{Icon Name|Tiptoeing Tea-Brewer|emote}} {{!}} {{Icon Name|Tiptoeing Tea-Brewer|emote_name}}
+{{Icon Name|Wounded Warrior|emote}} {{!}} {{Icon Name|Wounded Warrior|emote_name}}
+|widths=100|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+===All Remembrance Friendship Trees===
+Hearts are free during the season, but are available for {{Cost|3 C}} after the season ends.
+{{Mobile Tabber
+|tab1 = {{Season Icon|Remembrance|tab}}
+|c1   = {{#lst:Remembrance Guide|Friendship Tree}}
+|tab2 = {{Icon|Quest-icon.png|link=Quests|tab}}
+|c2   = {{#lst:Remembrance Guide|Quest Tree}}
+|tab3 = {{Emote|Bereft Veteran|tab}}
+|c3   = {{#lst:Bereft Veteran|Season Friendship Tree}}
+|tab4 = {{Emote|Pleading Child|tab}}
+|c4   = {{#lst:Pleading Child|Season Friendship Tree}}
+|tab5 = {{Emote|Tiptoeing Tea-Brewer|tab}}
+|c5   = {{#lst:Tiptoeing Tea-Brewer|Season Friendship Tree}}
+|tab6 = {{Emote|Wounded Warrior|tab}}
+|c6   = {{#lst:Wounded Warrior|Season Friendship Tree}}
+}}
+===[[Bereft Veteran]]===
+{{#lst:Bereft Veteran|Summary}}
+{{#tag:gallery
+|{{Icon Name|Bereft Veteran|mask|real}} {{!}} Mask
+{{Icon Name|Bereft Veteran|hair|real}} {{!}} Hair
+{{Icon Name|Bereft Veteran|cape|real}} {{!}} Cape
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+===[[Pleading Child]]===
+{{#lst:Pleading Child|Summary}}
+{{#tag:gallery
+|{{Icon Name|Pleading Child|hair|real}} {{!}} Hair
+{{Icon Name|Pleading Child|neckpiece|real}} {{!}} Neck Accessory
+{{Icon Name|Pleading Child|outfit|real}} {{!}} Outfit
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+===[[Tiptoeing Tea-Brewer]]===
+{{#lst:Tiptoeing Tea-Brewer|Summary}}
+{{#tag:gallery
+|{{Icon Name|Tiptoeing Tea-Brewer|hair|real}} {{!}} Hair
+{{Icon Name|Tiptoeing Tea-Brewer|cape|real}} {{!}} Cape
+{{Icon Name|Tiptoeing Tea-Brewer|outfit|real}} {{!}} Outfit
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+===[[Wounded Warrior]]===
+{{#lst:Wounded Warrior|Summary}}
+{{#tag:gallery
+|{{Icon Name|Wounded Warrior|mask|real}} {{!}} Mask
+{{Icon Name|Wounded Warrior|cape|real}} {{!}} Cape
+{{Icon Name|Wounded Warrior|outfit|real}} {{!}} Outfit
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+===[[Remembrance Guide]]===
+{{#lst:Remembrance Guide|Summary}}
+{{#tag:gallery
+|{{Icon Name|Remembrance Guide|necklace_u|real}} {{!}} Remembrance Ultimate Pendant
+{{Icon Name|Remembrance Guide|neckpiece_u|real}} {{!}} Remembrance Ultimate Neck Accessory
+{{Icon Name|Remembrance Guide|prop_u|real}} {{!}} {{Icon Name|Remembrance Guide|prop_u_name}}
+|widths=125|spacing=small|captionalign=center|hideaddbutton=true|mode=nolines}}
+==Price Charts==
+Use the [[Seasonal Events/Calculator|Event Calculator]] to verify the status of your candle count.
+{| class="article-table"
+! Spirits 
+! colspan="5" | Candle Cost
+! Total Seasonal Candles
+|-
+|Pleading Child
+|{{#vardefineecho:A1| 16 }}
+|{{#vardefineecho:A2| 20 }}
+|{{#vardefineecho:A3| 26 }}
+|{{#vardefineecho:A4| 36 }}
+|3*
+|{{Cost| {{#vardefineecho:Asum| {{#expr: {{#var:A1}} + {{#var:A2}} + {{#var:A3}} + {{#var:A4}} + 3 }} }} SC|season=Remembrance}}
+|-
+|Tiptoeing Tea-Brewer
+|{{#vardefineecho:B1| 14 }}
+|{{#vardefineecho:B2| 24 }}
+|{{#vardefineecho:B3| 34 }}
+|{{#vardefineecho:B4| 38 }}
+|3*
+|{{Cost| {{#vardefineecho:Bsum| {{#expr: {{#var:B1}} + {{#var:B2}} + {{#var:B3}} + {{#var:B4}} + 3 }} }} SC|season=Remembrance}}
+|-
+|Bereft Veteran
+|{{#vardefineecho:C1| 6 }}
+|{{#vardefineecho:C2| 18 }}
+|{{#vardefineecho:C3| 30 }}
+|{{#vardefineecho:C4| 34 }}
+|3*
+|{{Cost| {{#vardefineecho:Csum| {{#expr: {{#var:C1}} + {{#var:C2}} + {{#var:C3}} + {{#var:C4}} + 3 }} }} SC|season=Remembrance}}
+|-
+|Wounded Warrior
+|{{#vardefineecho:D1| 14 }}
+|{{#vardefineecho:D2| 30 }}
+|{{#vardefineecho:D3| 36 }}
+|{{#vardefineecho:D4|  }}
+|3*
+|{{Cost| {{#vardefineecho:Dsum| {{#expr: {{#var:D1}} + {{#var:D2}} + {{#var:D3}} + {{#var:D4}} + 3 }} }} SC|season=Remembrance}}
+|-
+! colspan="6" | Total for Season
+! {{Cost| {{#expr: {{#var:Asum}} + {{#var:Bsum}} + {{#var:Csum}} + {{#var:Dsum}} }} SC|season=Remembrance}}
+|}<small>''* Only available with [[Season Pass]] (Seasonal Hearts) (subtract when calculating without)''</small>
+
+==Video Gallery==
+{{#ev:youtube|3q98kf3SyM4||inline|Season of Remembrance Teaser Trailer}}
+
+==References==
+<references />
+{{Seasonal Navbox}}
+[[de:Saison des Gedenkens]]
+[[fr:Saison du Souvenir]]
+[[pt-br:Temporada da Recordação]]
+[[ru:Сезон памяти]]
+[[ja:追慕の季節]]
+
+{{DEFAULTSORT:Remembrance, Season of}}

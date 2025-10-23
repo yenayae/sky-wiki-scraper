@@ -1,0 +1,113 @@
+{{WIP|pagetype = spirit}}
+{{Guide Infobox
+|image     = Migration-Ultimate-Guide.png
+|type      = Seasonal
+|ultimates = {{Spirit Item|Migration Guide|outfit_u|infobox}}<!--
+-->{{Spirit Item|Migration Guide|shoes_u|infobox}}<!--
+-->{{Spirit Item|Migration Guide|facepiece_u|infobox}}
+<!--|props     = {{Spirit Item|Migration Guide|prop_u|infobox}}-->
+|season    = Migration
+|realm     = Isle
+|location  = [[Sand Dunes]]
+}}
+<section begin="Summary" />The '''Migration Guide''' is a Seasonal Guide (also known as Quest Giver) from the [[Season of Migration]] who offers Quests and [[Migration Guide#Ultimate Gifts|cosmetics]]. The Migration Guide is found on the left side of [[Isle of Dawn]], at the Migration camp after the large hill at the start of the Realm. The Ultimate Guide offers a {{Spirit Item|Migration Guide|necklace_u|inline_text}}, a {{Spirit Item|Migration Guide|outfit_u|inline_text}}, {{Spirit Item|Migration Guide|shoes_u|inline_text}}, and a {{Spirit Item|Migration Guide|facepiece_u|inline_text}} for [[Season Pass]] holders. <!--This Ultimate Guide also provides a new Prop in their Quest Tree, available to all players: a {{Spirit Item|Migration Guide|prop_u|inline_text}}.--><section end="Summary" /><br>
+<br>
+[[File:Migration-Ultimate-Guide-TGC-promo-image.png|none|thumb|300x300px|TGC's Promo image]]
+
+==<span id="Ultimate Pendant"><span id="Migration Ultimate Pendant">Seasonal Pendant</span></span>==
+The Migration Ultimate [[Necklaces|Pendant]] is the usual gold pendant featuring the Season's emblem attached to a necklace. It is a [[Season Pass]] exclusive item during the Season, available for free from the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Migration Guide|Necklace_u|icon}} {{!}} Migration Ultimate Pendant icon
+{{Icon Name|Migration Guide|Necklace_u|real}} {{!}} Migration Ultimate Pendant
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Ultimate Gifts==
+The Season of Migration offers 3 Ultimate Gifts, available to be purchased by [[Season Pass]] holders with [[Currency#Season Hearts|Seasonal Hearts]] during the Season of Migration only.
+
+===<span id="Ultimate Outfit">Migration Ultimate Outfit</span>===
+The [[Outfit]] offered by this Spirit is a short-sleeved top with high, bulky collar, and a pair of shorts with leggings underneath. The top and shorts are teal and fur-lined. A blue, orange-red, and yellow cloth is tied around the waist, securing an additional fringed white piece. Golden bands decorate the lower legs. <!--description by Ozotronic-->It is a [[Season Pass]] exclusive item during the Season, available to be purchased with {{Cost|2 SH|season=Migration}}.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Migration Guide|Outfit_u}} {{!}} Migration Ultimate Outfit icon
+{{Icon Name|Migration Guide|Outfit_u|front}} {{!}} Migration Ultimate Outfit front
+{{Icon Name|Migration Guide|Outfit_u|back}} {{!}} Migration Ultimate Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Ultimate Shoes">Migration Ultimate Shoes</span>===
+The [[Shoes]] offered by this Spirit are thick fur-lined boots with a deep tongue. <!--description by Ozotronic-->It is a [[Season Pass]] exclusive item during the Season, available to be purchased with {{Cost|1 SH|season=Migration}}.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Migration Guide|shoes_u}} {{!}} Migration Ultimate Shoes icon
+{{Icon Name|Migration Guide|shoes_u|real}} {{!}} Migration Ultimate Shoes
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Ultimate Face accessory">Migration Ultimate Face Accessory</span>===
+The [[Face Accessory]] offered by this Spirit is a wooden headpiece shaped like the snout of the Antlered Manatee. Two large antlers are secured to this with colorful strips of fabric. From the sides of the accessory are two pointed ribbons, one blue and one orange, hung from golden diamonds. <!--description by Ozotronic-->It is a [[Season Pass]] exclusive item during the Season, available to be purchased with {{Cost|2 SH|season=Migration}}.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Migration Guide|Facepiece_u}} {{!}} Migration Ultimate Face Accessory icon
+{{Icon Name|Migration Guide|Facepiece_u|real}} {{!}} Migration Ultimate Face Accessory 
+{{Icon Name|Migration Guide|Facepiece_u|front}} {{!}} Migration Ultimate Face Accessory lit
+|widths=125|captionalign=center|spacing=small
+}}
+
+<!--
+==Additional Cosmetics==
+Upon completing quests of the Migration, additional cosmetics are available to be collected for {{Candle}} [[Currency#Candles|regular candles]]<!--or {{Heart}} [[Currency#Hearts|hearts]]--> <!--through the Migration Guide's [[#Quest Tree|Quest Tree]]. '''All items remain in the Ultimate Guide's Quest Tree after the Season ends.'''-->
+<!--
+===Additional item 1===-->
+<!--The '''Additional item 1''' is available to be purchased for {{Cost|x C}} after completing the x Quest<!--[[Season of Migration#Quest #x|x Quest]].--> <!--DESCRIBE THE ADDITIONAL ITEM.<br>
+
+<br>
+{{#tag:gallery
+|{{Icon Name|Migration Guide|type_icon}} {{!}} Additional Item 1 icon
+{{Icon Name|Migration Guide|type_real}} {{!}} Additional Item 1
+|widths=125|captionalign=center|spacing=small
+}}-->
+
+==Friendship Tree==
+The Migration Guide's Friendship Tree is available to the right of the Quest Tree during the Season of Migration only. <!--(Post-Season:) Now that the Season is over, these cosmetics are no longer available.--><br><br>
+{{Mbox
+|type=moderate
+|header=New Friendship Tree System
+|image=Reassuring-Ranger-Action-icon-Credit-Morybel.png
+|text=With the Season of Migration, TGC introduced a [https://www.thatskygame.com/news/the-season-of-migration-is-upon-us new Friendship Tree system]; instead of unlocking items through a single linear path, players can now spend time with Spirits to build Friendship. '''A template to display this new system on the Spirit pages is in the works and will be added soon.''' Thank you for your patience!
+}}
+
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Migration Guide
+|image  = Migration-Ultimate-Guide.png
+|type   = season
+|season = Season of Migration
+|friendship_update = 1
+
+|nodeL3 = face_accessory_u 2 SH SP
+
+|nodeL2 = outfit_u 2 SH SP
+
+|nodeL1 = shoes_u 1 SH SP
+|nodeC1 = necklace_u SP
+}}<section end="Friendship Tree" />
+
+==Quest Tree==
+The Migration Guide's Quest Tree is available for all players to complete quests from the [[Season of Migration]]. Once you complete a quest, a heart is available to be collected for free during the Season of Migration.<!--(Post-Season (if applies):) Since the end of the Season, players completing these Quests for the first time have to pay 3 {{Candle}} to obtain these Hearts.--><br><br>
+{{Mbox
+|type=moderate
+|header=New Friendship Tree System
+|image=Reassuring-Ranger-Action-icon-Credit-Morybel.png
+|text=With the Season of Migration, TGC introduced a [https://www.thatskygame.com/news/the-season-of-migration-is-upon-us new Friendship Tree system]; instead of unlocking items through a single linear path, players can now spend time with Spirits to build Friendship. '''A template to display this new system on the Spirit pages is in the works and will be added soon.''' Thank you for your patience!
+}}
+
+==Personality==
+On October 19, 2025, TGC officially announced and introduced the Migration Guide with the following personality traits:
+
+*🪢 Mastered tying complex knots to repair torn fences
+*🧵 Is a skilled tailor
+*🌄 Likes to end the day with a swim as the sun sets
+*🛶 Secretly took the Migrating Bellmaker’s boat for a joy ride
+==References==
+<references />

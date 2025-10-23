@@ -1,0 +1,159 @@
+{{SkyEvent
+| image = Days-of-Sky-2024-promo-image.jpg
+| previousevent = [[Days of Color]]
+| nextevent = [[Days of Sunlight]]
+| date = July 12 to 26, 2024
+}}
+'''Sky Anniversary''' (also known as '''Days of Sky''') is an annual event celebrating the game's anniversary that happens around mid-July for two weeks in July. The [[Secret Area]] is open to everybody during this event, featuring extra decorations and an Anniversary Guide at the entrance. As part of the celebrations, numbered [[collectibles]] that are tied to their specific anniversary year are available to collect—and just like a birthday, they'll only come once!<ref name="Numbered items">"As you may know from past events, numbered items for specific birthday years are only available for their given year. After all, you can’t turn five twice!" - {{v|0.26.0}} Patch Notes</ref>
+
+Special activities added to the [[Secret Area]] during this event include:
+*Small, ark-like boats which players can activate and ride, spreading confetti in the Office space.
+*Players can do the [[Boogie_Kid#Expression|Boogie Dance]] on a piece of floating pizza.
+*The [[Dark Crabs|Crabs]] wear party hats.
+
+<div class="event-calendar"> 
+<div class="mainpage-block">
+{{Header|2024}}
+<center>'''July 12 to July 26'''</center>
+<center>[[File:Days-of-Sky-2024-promo-image.jpg|none|thumb|275px|link=to be added]]</center>
+</div>
+<div class="mainpage-block">
+{{Header|2023}}
+<center>'''July 17 to July 30'''</center>
+<center>[[File:Days-of-Sky-2023-promo-image.jpg|none|thumb|275px|link=to be added]]</center>
+</div>
+<div class="mainpage-block">
+{{Header|2022}}
+<center>'''July 18 to August 3'''</center>
+<center>[[File:Days-of-Sky-2022-promo-image.jpg|none|thumb|275px|link=to be added]]</center>
+</div>
+<div class="mainpage-block">
+{{Header|2021}}
+<center>'''July 12 to July 25'''</center>
+<center>[[File:Days-of-Sky-2021-promo-image.jpg|none|thumb|275px|link=to be added]]</center>
+</div>
+<div class="mainpage-block">
+{{Header|2020}}
+<center>'''July 13 to July 19'''</center>
+<center>[[File:Days-of-Sky-2020-promo-image.jpg|none|thumb|275px|link=to be added]]</center>
+</div>
+</div>
+{{Clear}}
+
+==[[SkyFest July 2024]]==
+This year, ''Sky'' turns 5! And in case you haven't heard, TGC is throwing an extra special party for the occasion. ''Sky'''s 5th Anniversary was called '''SkyFest''', beginning '''Friday, July 12, 2024 at 17:00 PDT (UTC-7)''' and continuing until '''Friday, July 26, 2024 at 23:59 PDT (UTC-7)''', lasting '''15''' days. It featured the first-ever simultaneous in-game and in-person [[Sky Assembly]] event for everyone to be a part of. For the duration of the event, the Anniversary Guide appeared in [[Home]] and [[Aviary Village]]. In addition, the [[Secret Area]] in the Vault of Knowledge was open to everyone through a friendly NPC at the gate, with an additional entrance available through the [[Aviary Village#Aviary Event Store|Aviary Event Store]].
+
+===2024 New Cosmetics and Props===
+{{#tag:gallery
+|{{Icon Name|SkyFest Wireframe Cape|real}} {{!}} {{Icon Name|SkyFest Wireframe Cape|name}}
+{{Icon Name|SkyFest Oreo Headband|real}} {{!}} {{Icon Name|SkyFest Oreo Headband|name}}
+{{Icon Name|5th Anniversary Hat|real}} {{!}} {{Icon Name|5th Anniversary Hat|name}}
+{{Icon Name|Star Jar|real}} {{!}} {{Icon Name|Star Jar|name}}
+{{Icon Name|SkyFest Outfit|real}} {{!}} {{Icon Name|SkyFest Outfit|name}}
+|widths=125|spacing=small|captionalign=center
+}}
+
+==[[July 2023]]==
+Sky turns 4 this year, and for the occasion TGC is throwing a big dance party in the Office! From '''July 17, 2023 at 00:00 PDT (UTC-7)''' until '''July 30, 2023 at 23:59 PDT (UTC-7)''', head to the rooftop to watch some [[Spirits]] perform periodically, bust out your best moves on a shiny new dance floor, and try your hand at a new "sequencer" feature that allows you to record and playback loops of music from a variety of instruments.
+
+===2023 New Cosmetics, Props and Spells===
+{{#tag:gallery
+|{{Icon Name|Anniversary Plush|real}} {{!}} {{Icon Name|Anniversary Plush|name}}
+{{Icon Name|SkyFest Oreo Headband|real}} {{!}} {{Icon Name|SkyFest Oreo Headband|name}}
+{{Icon Name|4th Anniversary Hat|real}} {{!}} {{Icon Name|4th Anniversary Hat|name}}
+{{Icon Name|Anniversary Musical Shell Prop|real}} {{!}} {{Icon Name|Anniversary Musical Shell Prop|name}}
+{{Icon Name|Anniversary Disco Light|real}} {{!}} {{Icon Name|Anniversary Disco Light|name}}
+Sky-Anniversary-Balloon-Krill-Spell.png {{!}} Krill Hat Spell
+Sky-Anniversary-Balloon-Crab-Spell.png{{!}}Crab Hat Spell
+Sky-Anniversary-Balloon-Crown-Spell.png{{!}}Crown Hat Spell
+Sky-Anniversary-Balloon-Jellyfish-Spell.png{{!}}Jellyfish Hat Spell
+Sky-Anniversary-Balloon-Manta-Spell.png{{!}}Manta Hat Spell
+Sky-Anniversary-Confetti-Collar.png{{!}}Confetti Collar Spell
+|widths=125|spacing=small|captionalign=center
+}}
+
+==[[July 2022]]==
+The Sky Anniversary celebration returned for a third edition, and for the occasion the [[Secret Area]] awaited everyone for the party. The event began '''July 18, 2022 at 00:00 PDT (UTC-7)''' and ended '''August 3, 2022 at 23:59 PDT (UTC-7)'''. <ref name="2022_extended">Sky Anniversary 2022 was originally scheduled to end on July 31, but the end date was [https://discord.com/channels/575762611111592007/575768778789617674/1000213305635385524 extended to August 3] to accommodate users impacted by the DDoS server issues.</ref>
+===2022 New Cosmetics, Props and Music Sheet===
+{{#tag:gallery
+|{{Icon Name|Blue Electric Guitar|real}} {{!}} {{Icon Name|Blue Electric Guitar|name}}
+{{Icon Name|3rd Birthday Hat|real}} {{!}} {{Icon Name|3rd Birthday Hat|name}}
+{{Icon Name|Anniversary Light Fence|real}} {{!}} {{Icon Name|Anniversary Light Fence|name}}
+{{Icon Name|Anniversary Balloons|real}} {{!}} {{Icon Name|Anniversary Balloons|name}}
+{{Icon Name|Anniversary Confetti Launcher|real}} {{!}} {{Icon Name|Anniversary Confetti Launcher|name}}
+Music Sheet Icon {{!}} Happy Birthday Music Sheet
+|widths=125|spacing=small|captionalign=center
+}}
+
+==[[July 2021]]==
+The Sky Second Anniversary celebration began '''July 12, 2021 at 00:00 PDT (UTC-7)''' and concluded '''July 25, 2021 at 23:59 PDT (UTC-7)''', lasting '''14''' days.
+===2021 New Cosmetics, Props and Spells===
+{{#tag:gallery
+|{{Icon Name|2nd Birthday Hat|real}} {{!}} {{Icon Name|2nd Birthday Hat|name}}
+{{Icon Name|Anniversary Birthday Flag|real}} {{!}} {{Icon Name|Anniversary Birthday Flag|name}}
+AllCakes.jpg {{!}} All Cake Spells together
+|widths=125|spacing=small|captionalign=center
+}}
+
+==[[July 2020]]==
+The first Sky Anniversary celebration started on '''July 13, 2020 at 00:00 PDT (UTC-7)''' (coinciding with the start of [[Season of Sanctuary]]) and ended on '''July 19, 2020 at 23:59 PDT (UTC-7)''', lasting '''7''' days.
+===2020 New Cosmetics===
+{{#tag:gallery
+|{{Icon Name|1 Year Anniversary Hat|real}} {{!}} {{Icon Name|1 Year Anniversary Hat|name}}
+|widths=125|spacing=small|captionalign=center
+}}
+
+== Gallery==
+<gallery widths="125" spacing="small" captionalign="center">
+Sky-anniversary-office-stage-background-manta.jpg|Office Stage with Manta background
+Sky-anniversary-office-stage-background-crab.jpg|Office Stage with Crab background
+Sky-anniversary-office-stage-background-krill.jpg|Office Stage with Krill background
+Sky-anniversary-office-dance-floor.jpg|Office Dance Floor
+Sky-anniversary-office-sequencer.jpg|Office Sequencer
+Sky-anniversary-office-juice-stand.jpg|Office Juice Stand with Balloon Hat Spells
+Sky-anniversary-office-floating-objects-1.jpg|Office Floating Objects
+Sky-anniversary-office-floating-objects-2.jpg|Office Floating Objects
+Sky-anniversary-office-floating-objects-3.jpg|Office Floating Objects
+Sky-anniversary-office-obstacle-course-start.jpg|Office Obstacle Course (Start)
+Sky-anniversary-office-obstacle-course-middle.jpg|Office Obstacle Course (Middle)
+Sky-anniversary-office-obstacle-course-end.jpg|Office Obstacle Course (End)
+DoSky-2024-Aviary-Gathering-promo-image.png|2024 Promo image
+DoSky-2024-Oreo-promo-image.png|2024 Promo image
+DoSky-2024-Livestream-promo-image.png|2024 Promo image
+DoSky-2024-Dancefloor-promo-image.png|2024 Promo image
+DoSky-2024-Ticket-promo-image.png|2024 Promo image
+DoSky-2024-Dark-Dragon-Cutout-promo-image.png|2024 Promo image
+Days-of-Sky-2024-promo-image.jpg|2024 Promo image
+Skyfest-fireworks-01.jpg|SkyFest Fireworks
+Skyfest-fireworks-02.jpg|SkyFest Fireworks
+Skyfest-fireworks-03.jpg|SkyFest Fireworks
+Skyfest-fireworks-04.jpg|SkyFest Fireworks
+Skyfest-fireworks-05.jpg|SkyFest Fireworks
+Skyfest-fireworks-06.jpg|SkyFest Fireworks
+Skyfest-fireworks-07.jpg|SkyFest Fireworks
+Skyfest-fireworks-08.jpg|SkyFest Fireworks
+Skyfest-fireworks-09.jpg|SkyFest Fireworks
+Skyfest-fireworks-10.jpg|SkyFest Fireworks
+Days-of-Sky-2023-promo-image.jpg|2023 Promo image
+Days-of-Sky-2022-promo-image.jpg|2022 Promo image
+Days-of-Sky-2021-promo-image.jpg|2021 Promo image
+Days-of-Sky-2020-promo-image.jpg|2020 Promo image
+</gallery>
+
+==References==
+'''More information about Skyfest 2024 can be found on [https://www.thatskygame.com/news/skyfest-2024-an-anniversary-celebration-like-no-other/ ThatSkyGame's Website].'''
+<br>'''More information about Sky Anniversary 2023 can be found on [https://www.thatskygame.com/news/boogie-down-for-sky-s-4th-birthday ThatSkyGame's Website].'''
+<br>'''More information about Sky Anniversary 2022 can be found on [https://www.thatskygame.com/news/skys-3rd-birthday-youre-invited ThatSkyGame's Website].'''
+<br>'''More information about Sky Anniversary 2021 can be found on [https://www.thatskygame.com/news/happy-2nd-anniversary-sky ThatSkyGame's Website].'''
+<br>'''More information about Sky Anniversary 2020 can be found on [https://www.thatskygame.com/news/sky-hits-20-million-downloads-ahead-of-first-anniversary ThatSkyGame's Website].'''
+<references />
+{{Holiday Navbox}}
+[[fr:Anniversaire de Sky]]
+[[es:Días del Sky]]
+[[de:Tage von Sky]]
+[[pt-br:Aniversário do Sky]]
+[[ja:Skyアニバーサリー]]
+[[zh:Sky週年慶]]
+
+[[Category:Events]]
+[[Category:Recurring Events]]

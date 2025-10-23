@@ -1,0 +1,142 @@
+{{Spirit Infobox
+|type      = Seasonal
+|emote_type= Emote
+|image     = <gallery>
+Aurora-Spirit-Warrior-of-Love.png|Standard
+Aurora-Spirit-Warrior-of-Love-Gold.png|Ascended
+</gallery>
+|cosmetics = {{Spirit Item||Mask|infobox}}{{Spirit Item||Hair|infobox}}{{Spirit Item||Cape|infobox}}
+|music     = {{Music Sheet|35}}
+|season    = AURORA
+|realm     = Valley of Triumph
+|location  = Coliseum
+|ts        = June 9, 2025 (SV#9)<br>November 7, 2024 (#126)
+}}<section begin="Summary" />The Warrior of Love is a [[Seasonal Spirit]] from the [[Season of AURORA]] who offers the {{Emote|Warrior of Love|inline_text}} Expression. The Warrior of Love is found standing on the left side of the [[Coliseum]] in [[Valley of Triumph]], by the [[AURORA Guide]]. The collectibles [[#Traveling Spirit|offered]] by this Spirit are a {{Spirit Item|Warrior of Love|Mask|inline_text}}, a {{Spirit Item|Warrior of Love|Hair|inline_text}}, a {{Spirit Item|Warrior of Love|Cape|inline_text}}, and the {{Music Sheet|35|inline_text}}. Players can view their memories by completing the [[Season of AURORA#Quest #3|third Quest]] at the beginning of the [[Valley_of_Triumph#Citadel|Citadel in the Valley of Triumph]], next to the [[Manta Whisperer]] Spirit.<section end="Summary" /><br>
+<br>
+[[File:Warrior-of-Love-promo-image.png|thumb|320px|none|TGC's Promo image]]
+{{Quote|<br>You knew your quiet insistence was a strength,<br>but how long did you give all your courage to others?<br>Finally you gave it to yourself,<br>and it carried you as high as you ever hoped,<br>held fast on the bonds of kindness.}}
+<br>
+==<span id="Expression">Expression</span>==
+{{Distinguish|type=emote|Triple Axel|Float Spin}}
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.
+
+[[File:{{Icon Name||emote}}|x170px]]
+<gallery heights="125" captionalign="center">
+Warrior-of-Love-Twirl-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Warrior-of-Love-Twirl-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Warrior-of-Love-Twirl-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Warrior-of-Love-Twirl-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar twirl around, pulling their arms out elegantly with the motion, before stopping softly and gently flicking up their hands while bright harp notes play.
+*Level 2 makes the same motion as Level 1, with golden sparks following the hands in a trail and a small burst of rose-colored sparks at the end.
+*Level 3 will make your avatar take a small step back and twirl around several times, moving their arms freely and gracefully, before striking a final pose, while layered bright harp notes play, ended with a small "bing!".
+*Level 4 makes the same motion as Level 3, with golden sparkles following the hands in a trail and a few white orbs circling the avatar's body in rhythm with their motion.
+
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.
+
+==Cosmetics==
+===<span id="Mask">Mask</span>===
+The [[Mask]] offered by this Spirit is bare-faced with two long, white, wavy lines under each eye and two small curved lines at the outer corner of each eye, costing {{Cost|35 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's second node ({{Cost|6 SC|season=Aurora}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Mask|icon}} {{!}} The Mask icon
+{{Icon Name||Mask|real}} {{!}} The Mask
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Hair">Hair</span>===
+The [[Hair]] offered by this Spirit includes a large, loose braid on the back that ends with a golden ring, fluffy upturned bangs, and two strands of hair that have smaller golden rings tied in the middle, costing {{Cost|40 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's third node ({{Cost|18 SC|season=Aurora}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Cape">Cape</span>===
+The [[Cape]] offered by this Spirit is a light-blue scarf with a golden ring tied to its end and white feathered shoulder embellishments, costing {{Cost|75 C}} from the Traveling Spirit. It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's sixth node ({{Cost|92 SC|season=Aurora}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Cape|icon}} {{!}} The Cape icon
+{{Icon Name||Cape|front}} {{!}} The Cape front
+{{Icon Name||Cape|interior}} {{!}} The Cape interior
+{{Icon Name||Cape|back}} {{!}} The Cape back
+{{Icon Name||Cape|exterior}} {{!}} The Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+==<span id="Music">Music Sheet</span>==
+The Warrior of Love offers the {{Music Sheet|35}} [[Music Sheet]] #35, costing {{Cost|15 C}} from the Traveling Spirit. It was available to all players during the Season from the Friendship Tree's fifth node ({{Cost|68 SC|season=Aurora}} total). It is a song in the key of Eb Major. This Music Sheet is an instrumental version of the song "''Warrior''" by AURORA.<br>
+<br>
+{{Collapse
+|state=closed
+|label=Music Sheet Video Guide
+|content=
+{{#ev:youtube|DaENocYzDUk||inline|Music Sheet Video Guide by Ikejiji}}
+}}
+
+== Traveling Spirit ==
+{{Friendship Tree Info
+| traveling
+| ts_dates= *November 7, 2024 (#126)
+| rs_dates= *June 9, 2025 (SV#9)
+}}
+<section begin='TS Friendship Tree' />{{Friendship Tree
+|spirit = Warrior of Love
+|image  = Aurora-Spirit-Warrior-of-Love.png
+|season = AURORA
+
+|nodeC6 = Cape 75 C
+|nodeL5 = music35 15 C
+|nodeC5 = spellx 5 C
+|nodeR4 = Hair 40 C
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Mask 35 C
+|nodeC2 = spellx 5 C
+|nodeR2 = heart 3 C
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end='TS Friendship Tree' />
+<!-- 
+
+===Hints===
+The hints given before the {{PAGENAME}}'s appearance were: 
+-->
+
+==Season Friendship Tree==
+{{Friendship Tree Info | season | season=AURORA}}
+<section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Warrior of Love
+|image  = Aurora-Spirit-Warrior-of-Love.png
+|type   = season
+|season = AURORA
+
+|nodeC7 = season_heart 3 SC SP
+|nodeL6 = cape SP
+|nodeC6 = spellx 30 SC
+|nodeL5 = spellx SP
+|nodeC5 = music35 24 SC
+|nodeL4 = emote4 SP
+|nodeC4 = emote3 20 SC
+|nodeL3 = Hair SP
+|nodeC3 = spellx 12 SC
+|nodeL2 = spellx SP
+|nodeC2 = Mask 6 SC
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Trivia==
+*The Warrior of Love is named after the song “''Warrior''” by AURORA, the eighth track in her album “''All My Demons Greeting Me as a Friend''”, which is also the song that plays during the Spirit's Quest and in Music Sheet #35.
+*When the Warrior of Love's {{Emote||inline_text}} [[Expression]] is used in the presence of [[butterflies]], they will gather around the player's avatar and turn around with them.
+
+==References==
+<references/>
+
+[[fr:Guerrier de l'amour]]
+[[pt-br:Guerreira do Amor]]
+[[ru:Защитница любви]]
+[[ja:慈愛の戦士]]

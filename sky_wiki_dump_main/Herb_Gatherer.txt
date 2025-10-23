@@ -1,0 +1,155 @@
+{{Spirit Infobox
+|title     = Herb Gatherer
+|type      = Seasonal
+|emote_type= Emote
+|image     = Nine-Colored-Deer-Herb-Gatherer.png
+|cosmetics = {{Spirit Item|Herb Gatherer|Outfit|infobox}}{{Spirit Item|Herb Gatherer|Hair|infobox}}
+|props	   = {{Spirit Item|Herb Gatherer|Prop|infobox}}
+|music     =
+|season    = Nine-Colored Deer
+|realm     = Vault of Knowledge
+|location  = [[Crescent Oasis]]
+|ts        = None
+}}
+<section begin="Summary" />The '''Herb Gatherer''' is a [[Seasonal Spirit]] from the [[Season of the Nine-Colored Deer]] who offers the {{Emote|Herb Gatherer|inline_text}} Expression. The Herb Gatherer is found within the village in the [[Crescent Oasis]], in front of the bridge that spans across the river outside of the Royal Palace. The collectibles [[Herb Gatherer#Traveling Spirit|offered]] by this Spirit are an {{Spirit Item|Herb Gatherer|Outfit|inline_text}}, a {{Spirit Item|Herb Gatherer|Hair|inline_text}}, and an {{Spirit Item|Herb Gatherer|Prop|label=Herb Jar Prop|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:Hunter Herb Gatherer Promo art.png|none|thumb|320px|TGC's Promo image]]
+
+== Memory ==
+<div>{{#ev:youtube|giM6BNMD3_o|200px|inline|Video Guide}}
+
+The Herb Gatherer can be found within the village in the [[Crescent Oasis]], in front of the bridge that spans across the river outside of the Royal Palace. This Spirit has a [[Standard Memory|standard memory]] with 7 memory fragments and a 10-minute overall [[Timed Memory|time limit]].
+
+As their memory unfolds, the Herb Gatherer can be seen kneeling on a blanket that displays various herbs, selling their wares to the residents of the village. A passing Spirit stops to make a purchase but is soon called away by their companions. The distracted shopper drops one of their purchased herbs as they hurry away, prompting the Herb Gatherer to chase after them to return it, grabbing their attention with a whistle. With all their herbs accounted for, the shopper continues heading towards a gathering crowd, followed by a curious Herb Gatherer. 
+
+At the end of the memory, the Herb Gatherer observes what has drawn a crowd - the [[Feudal Lord]] has posted a notice calling for the capture of the Nine-Colored Deer for all to see.
+</div>
+{{Clear}}
+
+==<span id="Expression">Expression</span>==
+This Spirit offers the {{Emote||inline_text}} [[Expression]], which has 4 Levels.<br>
+<br>
+[[File:{{Icon Name|Herb Gatherer|emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Herb-Gatherer-whistle-emote-level-1.gif|{{Icon Name||emote_name}} Level 1
+Herb-Gatherer-whistle-emote-level-2.gif|{{Icon Name||emote_name}} Level 2
+Herb-Gatherer-whistle-emote-level-3.gif|{{Icon Name||emote_name}} Level 3
+Herb-Gatherer-whistle-emote-level-4.gif|{{Icon Name||emote_name}} Level 4
+</gallery>
+
+*Level 1 will make your avatar wind back before stepping forward with their left foot, right foot lifting up as their left hand is raised to their lips to whistle while one of four short whistle sound effects plays.
+*Level 2 makes the same motion as Level 1 with a line of large sparkles leading to a pulsing blue halo in front of your avatar as they whistle.
+*Level 3 will make your avatar wind back with both hands raised to their lips and then bend forward to whistle, Cape flaring out behind them, before glancing around with their right hand shading their eyes while a short whistle sound effect plays.
+*Level 4 makes the same motion as Level 3 with a larger pulsing yellow halo appears in front of your avatar during the whistle and white dots expressing your cone of vision following the head movements.
+<!--
+As a Traveling Spirit, the prices of the three Expression upgrades were the standard {{Cost|4 H}}, {{Cost|3 H}}, and {{Cost|6 H}}. During the Season, Levels 2 and 4 were free, but were only available to [[Season Pass]] holders.-->
+
+==Cosmetics==
+===<span id="Outfit">Outfit</span>===
+The [[Outfit]] offered by this Spirit is a pair of loose beige pants and two cross body sashes - one black and one white - tucked into a black waistband.<!--, costing {{Cost|?? C}} from the Traveling Spirit.--> It was a [[Season Pass]] exclusive item during the Season, available after unlocking the Friendship Tree's second node ({{Cost|16 SC|season=Nine-Colored Deer}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Outfit|icon}} {{!}} The Outfit icon
+{{Icon Name||Outfit|real}} {{!}} The Outfit front
+{{Icon Name||Outfit|back}} {{!}} The Outfit back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Hair">Hair</span>===
+The [[Hair]] offered by this Spirit is a beige turban with a loose strip hanging in the back.<!--, costing {{Cost|?? C}} from the Traveling Spirit.--> It was available to all players during the Season from the Friendship Tree's third node ({{Cost|42 SC|season=Nine-Colored Deer}} total). Note that this item is considered a Hair, not a [[Hair Accessory]], and as such it cannot be worn over other Hairstyles.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||Hair|icon}} {{!}} The Hair icon
+{{Icon Name||Hair|real}} {{!}} The Hair
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Prop">Prop</span>===
+The [[Prop]] offered by this Spirit is a small, gray pot with a light blue cloth wrapped around the neck.<!--, costing {{Cost|?? C}} from the Traveling Spirit.--> It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. It was available to all players during the Season from the Friendship Tree's fifth node ({{Cost|108 SC|season=Nine-Colored Deer}} total).<br>
+<br>
+{{#tag:gallery
+|{{Icon Name||prop|icon}} {{!}} The Prop icon
+{{Icon Name||prop|real}} {{!}} The Prop
+{{Icon Name||prop|back}} {{!}} The Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+== Traveling Spirit ==
+{{Friendship Tree Info | traveling}}<!--
+|ts_dates=*DATE (# )
+}}
+<section begin="TS Friendship Tree" />{{Friendship Tree
+|spirit = Herb Gatherer
+|image = Nine-Colored-Deer-Herb-Gatherer.png
+|season= Nine-Colored Deer
+
+|nodeL6 = Prop ? C
+|nodeC6 = Outfit ? C
+|nodeC5 = spell5
+|nodeL4 = emote4 6 H
+|nodeC4 = emote3 3 H
+|nodeC3 = wing
+|nodeL2 = Hair ? C
+|nodeC2 = spell5
+|nodeR2 = heart
+|nodeL1 = emote2 4 H
+|nodeC1 = emote
+}}<section end="TS Friendship Tree" />
+
+===Hints===
+The hints given before the Herb Gatherer's first appearance were: 
+{{Collapse
+|label=First Visit Hints
+|content=<div>
+*  [ hints can be on the official Sky Discord which are posted a few days before the Traveling Spirit by staff of thatgamecompany. ]
+</div>
+}} -->
+
+==Season Friendship Tree ==
+{{Friendship Tree Info | season| season=the Nine-Colored Deer}} <section begin="Season Friendship Tree" />{{Friendship Tree
+|spirit = Herb Gatherer
+|image  = Nine-Colored-Deer-Herb-Gatherer.png
+|type   = season
+|season = Nine-Colored Deer
+
+|nodeC6 = season_heart 3 SC SP
+
+|nodeL5 = spellx SP
+|nodeC5 = prop 36 SC
+
+|nodeL4 = emote4 SP
+|nodeC4 = emote3 30 SC
+
+|nodeL3 = spellx SP
+|nodeC3 = hair 26 SC
+
+|nodeL2 = outfit SP
+|nodeC2 = spellx 16 SC
+
+|nodeL1 = emote2 SP
+|nodeC1 = emote
+}}<section end="Season Friendship Tree" />
+
+==Personality==
+On January 12, 2024, TGC officially announced and introduced the Herb Gatherer with the following personality traits:
+
+* 🌿 Tends to take other people’s suggestions
+* 🌿 Won’t share where they find the best herbs, not even with their friends
+* 🌿 Is a little bored with the daily routine, if they’re being honest
+* 🌿 Gets resentful when they feel overlooked
+
+==Trivia==
+*Levels 1 and 2 of the Herb Gatherer's {{Emote|Herb Gatherer|inline_text}} is one of only two [[Expressions]] (the other being {{Emote|Crab Walker|inline_text}}) to feature sound effect variations when used, with four unique whistle sounds possible.
+
+* The Herb Gatherer is referred to as "he" in Seasonal Quests. During the third Quest in the [[Season of the Nine-Colored Deer]], the narration reads, "but the villager knew that he could be rewarded."
+**The Herb Gatherer is one of the few characters to be referred to with gendered pronouns. ''This is not indicative of a Spirit's canonical gender.'' See [[Ancestors#Gender|here for more information]].
+
+==References==
+<references />
+
+[[pt-br:Coletor de Ervas]]
+[[de:Kräutersammler]]
+[[ja:薬草採集人]]
+[[fr:Cueilleur d'Herbes]]
+
+[[Category:Season of the Nine-Colored Deer]]

@@ -1,0 +1,81 @@
+{{Location
+|image      = VillageofDreams.png
+|realm      = Valley of Triumph
+|access     = [[Valley Social Space]], [[Coliseum]], [[Hermit Valley]], [[Village Theater]], [[Harmony Hall]]
+|season     = Dreams
+|seasonal_spirits  = {{Spirit Group|Dreams|format=infobox}}
+|children_of_light = 5 {{Icon|Map-Shrine-flashing-Star-WL-indicator.png|link=Children of Light#{{{title|{{PAGENAME}}}}}}}
+|pieces_of_light   = 100 {{Cost|L}}
+}}
+<section begin="Quote" />{{Quote|<br>'''''A new spark inspires a humble community.'''''|Village of Dreams Opening}}<section end="Quote" />
+<section begin="Summary"/>The '''Village of Dreams''' is a winter-themed seasonal area in [[Valley of Triumph]], added during the [[Season of Dreams]] in Patch {{v|0.12.0|}}. To visit this area, enter through a tunnel found in [[Valley of Triumph#Social Space and Slide|Valley's Social Space]], or through a gate located in the [[Coliseum]]. Both entry points are blocked by a Spirit Gate requiring 1 [[Golden Wasteland]] Spirit. In the Village of Dreams, follow the tale of a young skater who aspires to perform for the kingdom’s coliseum. <section end="Summary"/>
+__TOC__
+{{Clear}}
+==Overview==
+<section begin="Village Overview"/>
+The Village of Dreams is a cozy, snow-covered village nestled below the towering [[Coliseum]]. The area features many houses in the familiar Valley architecture with various tents scattered around. In the center of the area is a statue of a skater surrounded by an ice rink. Overlooking the entire area is the slopes, holding Gondolas which can transport the player up and down the slopes (after completion of [[Season of Dreams#Quest #2|Quest #2]]). It also holds the entrance to the [[Hermit Valley]] - however entry is impossible through flying due to the extreme winds. Therefore the Gondolas leading up to the Valley must be activated (via starting [[Season of Dreams#Quest #3|Quest #3]]). Additionally, the entrance to the [[Village Theater]] is found near the Social Space entrance, in the right side of the small neighborhood.
+
+Near the Social Space entrance stands the [[Dreams Guide]], who leads the player through six quests - on a tale showing the inspirational journey of a young spirit. In the area surrounding the Guide are 4 Seasonal Spirits, which upon completing, will give you their unique [[Expression]].<section end="Village Overview"/>
+
+===Child of Light Locations===
+There are a total of [[Children of Light#Village of Dreams|3 Children of Light]] scattered around the Village of Dreams.
+{{#lst:Children of Light|VoDreams Children}}
+
+===Spirits in the Village of Dreams===
+In the Village of Dreams, there are 4 [[Seasonal Spirits]] ({{Emote|Spinning Mentor}}[[Spinning Mentor]],{{Emote|Dancing Performer}}[[Dancing Performer]],{{Emote|Peeking Postman}}[[Peeking Postman]],{{Emote|Bearhug Hermit}}[[Bearhug Hermit]]).
+<section begin="SpiritTabber"/>{{Mobile Tabber 
+|tab1 = {{Emote|Spinning Mentor|tab}}
+|c1   = <div> {{#ev:youtube|Ia829Fl65yk|400|right}} {{#lst:Spinning Mentor|Summary}} {{#lst:Spinning Mentor|TS Friendship Tree}} </div>
+|type1= seasonal
+
+|tab2 = {{Emote|Dancing Performer|tab}}
+|c2   = <div> {{#ev:youtube|s2PCYNqPFBo|400|right}} {{#lst:Dancing Performer|Summary}} {{#lst:Dancing Performer|TS Friendship Tree}} </div>
+|type2= seasonal
+
+|tab3 = {{Emote|Peeking Postman|tab}}
+|c3   = <div> <!--{{#ev:youtube|  |400|right}}--> {{#lst:Peeking Postman|Summary}} {{#lst:Peeking Postman|TS Friendship Tree}} </div>
+|type3= seasonal
+
+|tab4 = {{Emote|Bearhug Hermit|tab}}
+|c4   = <div> {{#ev:youtube|98WLZSrH9fY|400|right}} {{#lst:Bearhug Hermit|Summary}} {{#lst:Bearhug Hermit|TS Friendship Tree}} </div>
+|type4= seasonal
+}}<section end="SpiritTabber"/>
+
+==Activities==
+===Dreams Quests===
+<div style="float:right">{{Mobile Tabber|textonly=1
+|tab1 = 1
+|c1   = <div> {{#ev:youtube|nDWbOHIqB0E|300|right}} </div>
+|tab2 = 2
+|c2   = <div> {{#ev:youtube|lHnG3HZNlm8|300|right}} </div>
+|tab3 = 3
+|c3   = <div> {{#ev:youtube|6HmF28pPvfU|300|right}} </div>
+|tab4 = 4
+|c4   = <div> {{#ev:youtube|SdtvSDNyM-k|300|right}} </div>
+|tab5 = 5
+|c5   = <div> {{#ev:youtube|G47QSIf6csg|300|right}} </div>}}</div>
+In the Village of Dreams, Seasonal Quests from [[Season of Dreams]] are available to do, a series of quests each challenging you and the young skater with unique tasks that will test your performance skills. There are 5 quests, each challenge unlocking areas or expanding the young skater's routine. Players must gather memory fragments or requests from the Spirits to help the young skater improve their skills until she can perform in the [[Coliseum]]. 
+{{Clear}}
+
+===Points of Interest===
+{{Mobile Tabber
+|tab1 = Hotspring
+|c1   = <div> [[File:Valley-HotSpring1.png|thumb|300x300px]]
+The Hotspring, a once-social-light area, now is a secluded area holding one [[Treasure Candle]]. A sanctuary nestled amidst the snowy village, it can be found in the [[Valley of Triumph#Village of Dreams]], on the mountain near the [[Dreams Guide]]. From the entrance from the Social Area, fly forwards towards [[Children_of_Light#Village_of_Dreams_(3)|Valley's Wing Light #12]] and keep flying up. There will be a hidden spot within the mountain with steam, where the Hot Spring is. This location can occasionally be featured in a [[Quests#General_Quests_in_Valley|Daily Quest]]; {{Icon|Quest-icon.png}} Visit the Hotsprings in the Village of Dreams</div>
+
+|tab2 = Dreams Skater
+|c2   = <div>
+{{#lst:Additional Light Sources|Dreams Skater Summary}}[[Additional_Light_Sources#Dreams Skater|For more information, see here]]. </div>
+
+|tab3 = Harmony Hall
+|c3   = <div> [[File:Harmony Hall - The main room.jpg|thumb|300x300px]]
+{{#lst:Harmony Hall|Summary 2}} <br><br> {{#lst:Harmony Hall|Summary}} </div>
+}}
+
+{{RealmsNav}}
+
+[[fr:Village des Rêves]]
+[[pt-br:Aldeia dos Sonhos]]
+[[ja:夢見の町]]
+
+[[Category:Valley of Triumph]]

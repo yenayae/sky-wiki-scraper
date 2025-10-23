@@ -1,0 +1,167 @@
+{{Guide Infobox
+|image     = Duets-Ultimate-Guide.png
+|type      = Seasonal
+|ultimates =
+{{Spirit Item|Duets Guide|cape_u|infobox|link=#Duets_Ultimate_Cape}}
+{{Spirit Item|Duets Guide|instrument_u|infobox|link=#Duets_Ultimate_Instrument}}
+{{Spirit Item|Duets Guide|prop_u|infobox|link=#Duets_Ultimate_Prop}}
+|cosmetics = {{Spirit Item|Duets Guide|mask|infobox|link=#Mask}}
+|emote     = {{Spirit Item|Duets Guide|emote|infobox|link=#Friend_Action}}
+|season    = Duets
+|location  = [[Concert Hall]]
+|realm     = Aviary Village
+}}
+<section begin="Summary" />The '''Duets Guide''' is a Seasonal Guide (also known as Quest Giver) from the [[Season of Duets]] who offers Quests and [[Duets Guide#Ultimate Gifts|cosmetics]]. The Duets Guide is found within the [[Concert Hall]] in [[Aviary Village]]. The Ultimate Guide offered a {{Spirit Item|Duets Guide|necklace_u|inline_text|link=Duets Guide#Seasonal Pendant}}, a {{Spirit Item|Duets Guide|cape_u|inline_text|link=Duets Guide#Duets Ultimate Cape}}, a {{Spirit Item|Duets Guide|instrument_u|inline_text|link=Duets Guide#Duets Ultimate Instrument}}, and a {{Spirit Item|Duets Guide|prop_u|inline_text|link=Duets Guide#Duets Ultimate Prop}} for [[Season Pass]] holders. This Ultimate Guide also provides a cosmetic and [[Expression]] in their Quest Tree, permanently available to all players: a {{Spirit Item|Duets Guide|mask|inline_text}} and the {{Spirit Item|Duets Guide|emote|link=Duets Guide#Friend Action|inline_text}}.<section end="Summary" /><br>
+<br>
+[[File:SoDuets-Guide-promo-image.png|none|thumb|300x300px|TGC's Promo image]]
+
+==<span id="Ultimate Pendant">Seasonal Pendant</span>==
+The Duets Ultimate [[Necklaces|Pendant]] is the usual gold pendant featuring the Season's emblem attached to a necklace. It was a [[Season Pass]] exclusive item during the Season, available for free from the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Duets Guide|Necklace_u|icon}} {{!}} Duets Ultimate Pendant icon
+{{Icon Name|Duets Guide|Necklace_u|real}} {{!}} Duets Ultimate Pendant
+|widths=125|captionalign=center|spacing=small
+}}
+
+==Ultimate Gifts==
+The Season of Duets Guide offered 3 Ultimate Gifts, available to be purchased by [[Season Pass]] holders with [[Currency#Season Hearts|Seasonal Hearts]] during the Season of Duets only.
+
+===<span id="Ultimate Cape">Duets Ultimate Cape</span>===
+The Duets Ultimate [[Cape]] is a vibrant blue and resembles a tailcoat, shaped like a whale's tail fin with a white and gold squarely cut-away front. It was a [[Season Pass]] exclusive item, available to be purchased for {{Cost|2 SH|season=Duets}} after unlocking the Friendship Tree's second node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Duets Guide|Cape_u}} {{!}} Duets Ultimate Cape icon
+{{Icon Name|Duets Guide|Cape_u|front}} {{!}} Duets Ultimate Cape front
+{{Icon Name|Duets Guide|Cape_u|interior}} {{!}} Duets Ultimate Cape interior
+{{Icon Name|Duets Guide|Cape_u|back}} {{!}} Duets Ultimate Cape back
+{{Icon Name|Duets Guide|Cape_u|exterior}} {{!}} Duets Ultimate Cape exterior
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Ultimate Instrument">Duets Ultimate Instrument</span>===
+::''Not to be confused with {{Spirit Item|The Musicians' Legacy|instrument_p|inline_text|label=The Musicians' Legacy Grand Piano}}''
+The Duets Ultimate [[Instrument]] is a light blue and purple grand piano with gold accents, featuring a gradient fish scale design on both sides and the {{Season Icon|Duets|inline_text}} emblem above the keyboard. Unlike most other Instruments, this item also functions as a placeable [[Prop]] that can be used to decorate [[Shared Spaces]]. It was a [[Season Pass]] exclusive item, available to be purchased for {{Cost|2 SH|season=Duets}} after unlocking the Friendship Tree's third node. The player must place down the item and sit on the bench to begin playing the Instrument, which plays 15 notes.
+<!--
+The Deuts Grand Piano plays the [[Music Sheet Parts|??? part]] on Music Sheets. Its [[Instrument Pitch|pitch]] is ??? octave above/below the standard [[Piano]] (in C major, it covers ??? to ???).--><br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Duets Guide|instrument_u|icon}} {{!}} Duets Ultimate Instrument icon
+{{Icon Name|Duets Guide|instrument_u|real}} {{!}} Duets Ultimate Instrument
+{{Icon Name|Duets Guide|instrument_u|back}} {{!}} Duets Ultimate Instrument on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Ultimate Prop">Duets Ultimate Prop</span>===
+The Duets Ultimate [[Prop]] is a blue rectangular poster that depicts the Duets Guide and their Cellist companion playing the piano and cello together. It is a placeable Prop that can be used to decorate [[Shared Spaces]]. This item is purely cosmetic and does not offer any functionality. It was a [[Season Pass]] exclusive item, available to be purchased for {{Cost|1 SH|season=Duets}} after unlocking the Friendship Tree's first node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Duets Guide|Prop_u|icon}} {{!}} Duets Ultimate Prop icon
+{{Icon Name|Duets Guide|Prop_u|real}} {{!}} Duets Ultimate Prop
+{{Icon Name|Duets Guide|Prop_u|back}} {{!}} Duets Ultimate Prop on a player's back
+|widths=125|captionalign=center|spacing=small
+}}
+
+
+==Additional Collectibles==
+Upon completing <!--the [[Season of Duets#Quest 1|first]], [[Season of Duets#Quest 3|third]], and [[Season of Duets#Quest 4|fourth]] --> Quests from the Season of Duets, two additional collectibles are available to purchase for {{Candle}} [[Currency#Candles|regular Candles]] or {{Heart}} [[Currency#Hearts|Hearts]] through the Duets Guide's [[#Quest Tree|Quest Tree]]. '''All items will remain permanently available in the Ultimate Guide's Quest Tree after the Season ends.'''
+
+===<span id="Mask">Mask</span>===
+The [[Mask]] offered by the Duets Guide is white and resembles a seahorse, with a long, narrow snout and curled bronze horns. It is permanently available to all players for {{Cost|65 C}} after completing [[Season of Duets#Quest 1|Quest #1]] of the Season of Duets, from the Quest Tree's second node.<br>
+<br>
+{{#tag:gallery
+|{{Icon Name|Duets Guide|Mask|icon}} {{!}} The Mask icon
+{{Icon Name|Duets Guide|Mask|real}} {{!}} The Mask front
+{{Icon Name|Duets Guide|Mask|side}} {{!}} The Mask side
+|widths=125|captionalign=center|spacing=small
+}}
+
+===<span id="Expression">Friend Action</span>===
+This Spirit offers the {{Emote|Duets Guide|inline_text}}, which has 2 Levels.<br>
+<br>
+[[File:{{Icon Name|Duets Guide|emote}}|x170px|left]]
+<gallery heights="125" captionalign="center">
+Duets-Guide-duet-bow-emote-level-1.gif|{{Icon Name|Duets Guide|emote_name}} Level 1
+Duets-Guide-duet-bow-emote-level-2.gif|{{Icon Name|Duets Guide|emote_name}} Level 2
+</gallery>
+
+*Level 1 will make your avatar reach out to take your friend's hand, then raise your arms into the air while standing side-by-side before taking a bow together. After both players straighten up, your avatar will gesture towards your friend as they clasp their hands near their chest, with both players turning to look at each other and straight ahead several times.
+*Level 2 makes the same motion as Level 1, but with more exaggerated movements, both players crossing one leg behind the other as they take a bow together. After both players straighten up, your friend will gesture towards your avatar as they puff out their chest and raise their arms horizontally, with both players turning to briefly look at each other.
+
+Like any [[Friendship Menu#Extended Two-Player Abilities|Extended Two-Player Abilities]], this ability can be upgraded by opening your friend's Friendship Menu. Unlocking the Level 1 ability will cost you {{Cost|32 C}}. After unlocking Level 1, it will cost you {{Cost|34 C}} more to upgrade to Level 2. (See [[Friendship Menu]] to view the entire Friendship Tree.)
+
+==Friendship Tree==
+The Duets Guide's Friendship Tree was available to the right of the Quest Tree during the Season of Duets only. '''Now that the Season is over, these cosmetics are no longer available.'''
+<section begin="Friendship Tree" />{{Friendship Tree
+|spirit = Duets Guide
+|image  = Duets-Ultimate-Guide.png
+|type   = season
+|season = Duets
+
+|nodeC4 = instrument_u 2 SH AP
+|  linkC4 = Duets Guide#Duets Ultimate Instrument
+
+|nodeC3 = cape_u 2 SH AP
+|  linkC3 = Duets Guide#Duets Ultimate Cape
+
+|nodeC2 = prop_u 1 SH AP
+|  linkC2 = Duets Guide#Duets Ultimate Prop
+
+|nodeC1 = necklace AP
+|  linkC1 = Duets Guide#Seasonal Pendant
+}}<section end="Friendship Tree" />
+
+==Quest Tree==
+The Duets Guide's Quest Tree is available for all players to complete Quests from the [[Season of Duets]]. Once you complete a Quest, a [[Currency#Hearts|Heart]] is available to be collected for free.<!--(Post-Season (if applies):) Since the end of the Season, players completing these Quests for the first time have to pay 3 {{Candle}} to obtain these Hearts.-->
+<section begin="Quest Tree" />{{Friendship Tree
+|spirit = Duets Guide
+|image  = Duets-Ultimate-Guide.png
+
+|type   = season
+|season = Duets
+
+|nodeC7 = heart free
+
+|nodeC6 = quest
+|  linkC6 = Season of Duets#Quest #5
+|  labelC6 = Quest 5
+
+|nodeL5 = emote2 8 H
+|nodeC5 = quest
+|  linkC5 = Season of Duets#Quest #4
+|  labelC5 = Quest 4
+
+|nodeL4 = emote free
+|nodeC4 = quest
+|  linkC4 = Season of Duets#Quest #3
+|  labelC4 = Quest 3
+
+|nodeL3 = heart free
+|nodeC3 =  quest
+|  linkC3 = Season of Duets#Quest #2
+|  labelC3 = Quest 2
+
+|nodeL2 = mask 65 C
+|nodeC2 = quest
+|  linkC2 = Season of Duets#Quest #1
+|  labelC2 = Quest 1
+
+|nodeC1 = Icon_warp.png
+|  labelC1 = Teleport to the Concert Hall
+|  linkC1  = Concert Hall
+}}<section end="Quest Tree" />
+
+==Personality==
+On August 16, 2024, TGC officially announced and introduced the Duets Guide with the following personality traits<ref>https://x.com/thatskygame/status/1824597037205405898</ref>:
+
+*🪙 Taught lessons for a while to help earn money
+*🔍 Has learned to tell when someone's exaggerating
+*😵‍💫 Completely blanked in their 1st recital, had to restart their song twice
+*🎹 Teaching themselves how to play piano while sitting backwards
+
+==References==
+<references/>
+
+[[pt-br:Guia de Duetos]]
+[[ja:音色の案内人]]
+[[fr:Guide des Duos]]

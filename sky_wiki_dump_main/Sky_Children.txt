@@ -1,0 +1,63 @@
+{{Creature Infobox
+|title    = Sky Children
+|type     = light
+|image    = A-Sky-Children.png
+}}
+
+<section begin="Summary" />'''Sky Children''' (also referred to as ''Descendants'', ''Sky Kids'', ''Avatars'', ''Children of the Light''<ref>App Store and Google Play app description</ref> and, for new players, ''Moths'' or ''Sparrows''<ref>The Japanese community's name for new players.</ref>) are the titular playable characters in Sky: Children of the Light, and the first living being that can be seen in the game.<section end="Summary" />
+
+They can wear [[Cosmetics]], use [[Props]], carry a candle to light or burn things, express themselves with [[Expressions]], and most notably have the unique ability to fly and/or glide using their [[Capes|Wings/Capes]].
+<gallery widths="220" captionalign="center">
+File:Children-of-light-living-entities-in-game.jpg|Two Sky Kids looking at the Village in Daylight Prairie
+</gallery>
+{{clear}}
+===Appearance===
+Sky Children are humanoids with white hair and mitten-like hands. Their eyes always appear to be shut when their face is exposed, but seem to glow when wearing most masks. They have no visible nose, although some masks, like the masks from Season of Performance showcase a small raised lump that looks like a nose.
+
+Their skin color depends on the outfit they are wearing; it can either be black, dark indigo, brown or light beige. Their skin appears to fade into a lighter color from their lower legs to the tips of their feet. There is a light gemstone in their chests; if they pull out a candle, the gemstone disappears. They appear barefoot when wearing most pants, and their feet have no toes.
+
+These are the Cosmetics worn by the player at the start of the game.
+
+<gallery widths="100">
+Icon_pants_default.png
+Legs01-Default.png|Default Pants
+Icon_mask_default.png
+Mask01-no_mask.png|Default Mask
+Icon_cape_brown-Morybel-0146.png
+Cape-Brown Default.png|Default Cape
+Icon_hair_default.png
+Hair02-Default.png|Default Hair
+</gallery>
+===Size===
+[[File:Sky Height FAQ (new).png|alt=|thumb|290x290px|Height FAQ: Height is a spectrum. There are 4000 different heights in Sky.]]
+Sky Children sizes vary. With spells, players can be tiny-size kids that are almost as small as a candle on the ground, to as tall as or taller than most stone lanterns throughout the game, this includes huge Sky Kids that are twice the size of a normal one. With no spells, the difference between the tallest and shortest possible heights is just over one head-height.
+
+{{Clear}}
+There are two contributing factors to a player's size: their '''height value''', and '''scale'''<ref>https://note.com/batochanman_jr/n/nb6fdd1a8cf9e</ref>.
+*"Height value" refers to a number between -2.000 and +2.000. This determines a player's vertical height only; their proportions will change because the character's width will remain the same.
+** The [[Hide%27n%27Seek_Pioneer#Mask|Hide n' Seek Pioneer's Mask ("chibi mask")]] makes a player's height value below -2.000.
+** Using a [[Blessings_(Spells)#Resize_Potions|Resize Potion]] changes a player's height value indefinitely.
+** The [[Blessings_(Spells)#Shrink_Spell|Shrink Spell]] and [[Blessings_(Spells)#Grow_Spell|Grow Spell]] temporarily make a player's height value below -2.000 and above +2.000, respectively.
+*"Scale" refers to a number close to 1.000, randomly selected at account creation. This scales both the player's height and width, so their proportions remain the same.
+**The [[Blessings_(Spells)#Tiny_Spell|Tiny Spell]] and [[Blessings_(Spells)#Huge_Spell|Huge Spell]] temporarily decrease/increase a player's scale, respectively. The resulting size will be smaller/larger than the sizes achievable by Shrink/Grow spells.
+**There is no way to permanently change a player's scale.
+Multiplying these two numbers results in a player's final, in-game size. This means that based on a player's scale, they may be unable to achieve some of the sizes on the lower/higher ends of the spectrum without Spells.
+*A tool for measuring a Sky Child's height can be found here: https://skykidheight.com/.
+
+Smaller Sky Kids have the same movement speed as taller Sky kids but move their feet faster while running to compensate for their smaller strides. Their walking stance shifts from a medium pace to a fast pace, where their heads are lowered and they run with arms stretched behind.
+
+===Abilities===
+Sky Children have the ability to express themselves with a variety of [[Expressions]] and [[Expressions#Calls|Calls]]. They can also walk, run, jump, swim, and fly. When standing, kneeling, sitting and lying down, Sky Children can be viewed in different positions when combined with [[Expressions#Stances|Stances]].
+
+When using their call (also referred to as ''honking''), Sky Kids can find the path that lays ahead of them in the [[Realms]] to progress through the game. Calling can also help to locate [[Making Friends|Friends]], other players (when light has been exchanged), spirit memory fragments or certain quest progression locations through different star-shaped indicators. When another Sky Child is near a calling player, their cape energy can be replenished by differing amounts, depending on the intensity and proximity of the call.
+
+=== Cosmetics ===
+Players can get all kinds of accessories and outfits with game currency or real currency, from Ultimate Gifts and sometimes for free (like the camera from the [[Season of Moments]], which every player got for free). There are billions of possible combinations, so it's very rare that two Sky Children will look perfectly alike.
+
+==References==
+<references />
+[[Category:Creatures]]
+[[Category:Lore]]
+
+[[pt-br:Crianças de Sky]]
+[[fr:Enfants du Ciel]]
