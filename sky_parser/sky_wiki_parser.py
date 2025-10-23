@@ -275,7 +275,9 @@ def normalize_price(price_str):
         'H': 'hearts',
         'C': 'candles', 
         'AC': 'ascended_candles',
-        'SC': 'seasonal_candles'
+        'SC': 'seasonal_candles',
+        'SH': 'seasonal_hearts',
+        'EH': 'event_tickets',
     }
     
     return {

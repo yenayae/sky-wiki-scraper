@@ -20,7 +20,7 @@
                 "item_type": "mask_u",
                 "price": {
                   "amount": 1,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -33,7 +33,7 @@
                 "item_type": "cape_u",
                 "price": {
                   "amount": 2,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -46,7 +46,7 @@
                 "item_type": "headpiece_u",
                 "price": {
                   "amount": 1,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -3139,7 +3139,7 @@
                 "item_type": "cape_u",
                 "price": {
                   "amount": 2,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -3152,7 +3152,7 @@
                 "item_type": "instrument_u",
                 "price": {
                   "amount": 2,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -3165,7 +3165,7 @@
                 "item_type": "hair_u",
                 "price": {
                   "amount": 1,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -3178,7 +3178,7 @@
                 "item_type": "mask_u",
                 "price": {
                   "amount": 1,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -4807,7 +4807,7 @@
                 "item_type": "prop_u",
                 "price": {
                   "amount": 6,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -5454,7 +5454,7 @@
                 "item_type": "cape_u",
                 "price": {
                   "amount": 3,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -5467,7 +5467,7 @@
                 "item_type": "facepiece_u",
                 "price": {
                   "amount": 2,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -15084,7 +15084,7 @@
                 "item_type": "cape_u",
                 "price": {
                   "amount": 2,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -15097,7 +15097,7 @@
                 "item_type": "mask_u",
                 "price": {
                   "amount": 2,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -15154,7 +15154,7 @@
                 "item_type": "instrument_u",
                 "price": {
                   "amount": 2,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -15167,7 +15167,7 @@
                 "item_type": "cape_u",
                 "price": {
                   "amount": 2,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -15180,7 +15180,7 @@
                 "item_type": "prop_u",
                 "price": {
                   "amount": 1,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -16161,7 +16161,7 @@
                 "item_type": "hair_u",
                 "price": {
                   "amount": 4,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -16174,7 +16174,7 @@
                 "item_type": "headpiece_u",
                 "price": {
                   "amount": 2,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -17596,7 +17596,7 @@
                 "item_type": "outfit_u",
                 "price": {
                   "amount": 2,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -17609,7 +17609,7 @@
                 "item_type": "Hairpiece_u",
                 "price": {
                   "amount": 2,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -21977,7 +21977,7 @@
                 "item_type": "cape_u",
                 "price": {
                   "amount": 2,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -21990,7 +21990,7 @@
                 "item_type": "hair_u",
                 "price": {
                   "amount": 2,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -30296,7 +30296,7 @@
                 "item_type": "face_accessory_u",
                 "price": {
                   "amount": 2,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -30309,7 +30309,7 @@
                 "item_type": "outfit_u",
                 "price": {
                   "amount": 2,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -30322,7 +30322,7 @@
                 "item_type": "shoes_u",
                 "price": {
                   "amount": 1,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -31257,7 +31257,7 @@
                 "item_type": "hairpiece_u",
                 "price": {
                   "amount": 2,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -31270,7 +31270,7 @@
                 "item_type": "prop_u",
                 "price": {
                   "amount": 1,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -31283,7 +31283,7 @@
                 "item_type": "facepiece_u",
                 "price": {
                   "amount": 1,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -31556,7 +31556,7 @@
                 "item_type": "prop_u",
                 "price": {
                   "amount": 2,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -31569,7 +31569,7 @@
                 "item_type": "outfit_u",
                 "price": {
                   "amount": 2,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -34015,7 +34015,7 @@
                 "item_type": "cape_u",
                 "price": {
                   "amount": 2,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -34028,7 +34028,7 @@
                 "item_type": "mask_u",
                 "price": {
                   "amount": 2,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -34589,7 +34589,7 @@
                 "item_type": "hair_u",
                 "price": {
                   "amount": 1,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -34602,7 +34602,7 @@
                 "item_type": "cape_u",
                 "price": {
                   "amount": 2,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -34615,7 +34615,7 @@
                 "item_type": "mask_u",
                 "price": {
                   "amount": 1,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -37851,7 +37851,7 @@
                 "item_type": "mask_u",
                 "price": {
                   "amount": 2,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -37864,7 +37864,7 @@
                 "item_type": "instrument_u",
                 "price": {
                   "amount": 2,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -41089,7 +41089,7 @@
                 "item_type": "mask_u",
                 "price": {
                   "amount": 2,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -41102,7 +41102,7 @@
                 "item_type": "cape_u",
                 "price": {
                   "amount": 1,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -43172,7 +43172,7 @@
                 "item_type": "prop_u",
                 "price": {
                   "amount": 2,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -43185,7 +43185,7 @@
                 "item_type": "neckpiece_u",
                 "price": {
                   "amount": 2,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -44242,7 +44242,7 @@
                 "item_type": "hair_u",
                 "price": {
                   "amount": 4,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -44255,7 +44255,7 @@
                 "item_type": "mask_u",
                 "price": {
                   "amount": 2,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -45818,7 +45818,7 @@
                 "item_type": "cape_u",
                 "price": {
                   "amount": 3,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -45831,7 +45831,7 @@
                 "item_type": "instrument_u",
                 "price": {
                   "amount": 3,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -52330,7 +52330,7 @@
                 "item_type": "cape_u",
                 "price": {
                   "amount": 2,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -52343,7 +52343,7 @@
                 "item_type": "outfit_u",
                 "price": {
                   "amount": 1,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -52356,7 +52356,7 @@
                 "item_type": "hair_u",
                 "price": {
                   "amount": 1,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -56100,7 +56100,7 @@
                 "item_type": "outfit_u",
                 "price": {
                   "amount": 2,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -56113,7 +56113,7 @@
                 "item_type": "prop_m",
                 "price": {
                   "amount": 1,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -56126,7 +56126,7 @@
                 "item_type": "prop_u",
                 "price": {
                   "amount": 1,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -57162,7 +57162,7 @@
                 "item_type": "prop_u",
                 "price": {
                   "amount": 2,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -57175,7 +57175,7 @@
                 "item_type": "outfit_u",
                 "price": {
                   "amount": 2,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -57188,7 +57188,7 @@
                 "item_type": "hair_u",
                 "price": {
                   "amount": 2,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -57255,7 +57255,7 @@
                 "item_type": "cape_k",
                 "price": {
                   "amount": 2,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -57268,7 +57268,7 @@
                 "item_type": "cape_m",
                 "price": {
                   "amount": 2,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -61066,7 +61066,7 @@
                 "item_type": "cape_u",
                 "price": {
                   "amount": 2,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
@@ -61079,7 +61079,7 @@
                 "item_type": "hairpiece_u",
                 "price": {
                   "amount": 2,
-                  "currency": "SH",
+                  "currency": "seasonal_hearts",
                   "currency_code": "SH",
                   "is_placeholder": false
                 },
