@@ -1,0 +1,190 @@
+-- <nowiki>
+-- Names and icons for all 'Days of' events
+local data = {
+    fortune = {
+        name       = "Days of Fortune",
+        short_name = "Fortune",
+        icon       = "Days-of-Fortune-event-symbol-777-Ed.png",
+        sort       = 1,
+        t_icon     = "Fortune-ticket.png",
+    },
+    love = {
+        name       = "Days of Love",
+        short_name = "Love",
+        icon       = "Days-of-Love-event-symbol.png",
+        sort       = 2,
+        t_icon     = "Love-ticket.png",
+    },
+    bloom = {
+        name       = "Days of Bloom",
+        short_name = "Bloom",
+        icon       = "Days-of-Bloom-event-symbol.png",
+        sort       = 3,
+        t_icon     = "Bloom-ticket.png",
+    },
+    nature = {
+        name       = "Days of Nature",
+        short_name = "Nature",
+        icon       = "Days-of-Nature-event-symbol.png",
+        sort       = 4,
+        t_icon     = "Days-of-Nature-ticket-icon.png",
+    },
+    rainbow = {
+        name       = "Days of Rainbow",
+        short_name = "Rainbow",
+        alt_name   = { "Color", "Days of Color" },
+        icon       = "Day-of-Color-event-symbol-Ray.png",
+        sort       = 5,
+        t_icon     = "Color-ticket-Ray.png",
+    },
+    music = {
+    	name       = "Days of Music",
+    	short_name = "Music",
+    	icon       = "Day-of-Music-event-symbol-Ray.png",
+    	sort       = 6,
+    	t_icon     = "music-ticket-Ray.png",
+    },
+    sky = {
+        name       = "Sky Anniversary",
+        short_name = "Sky",
+        alt_name   = { "Anniversary" },
+        icon       = "Sky-Anniversary-event-symbol-Ray.png",
+        sort       = 7,
+        t_icon     = "Anniversary-ticket-Ray.png",
+    },
+    skyfest = {
+        name       = "Sky Fest",
+        short_name = "Skyfest",
+        alt_name   = { "Sky 5th Anniversary" },
+        icon       = "Sky-fest-event-symbol.png",
+        sort       = 7,
+        t_icon     = "SkyFest-ticket-Ray.png",
+    },
+    sunlight = {
+    	name       = "Days of Sunlight",
+        short_name = "Sunlight",
+        icon       = "Days-of-Sunlight-event-symbol-Ray.png",
+        sort       = 8,
+        t_icon     = "Sunlight-ticket-Ray.png",
+    },
+    -- To be confirmed if Moonlight is reoccuring or not
+    moonlight = {
+    	name       = "Days of Moonlight",
+        short_name = "Moonlight",
+        icon       = "Moonlight-event-symbol.png",
+        sort       = 8.2,
+        t_icon     = "Moonlight-ticket-icon.png",
+    },
+    style = {
+    	name       = "Days of Style",
+        short_name = "Style",
+        icon       = "Days-of-Style-event-symbol-Ray.png",
+        sort       = 8.5,
+        t_icon     = "Style-ticket-Ray.png",
+    },
+    lazy = {
+    	name       = "Lazy Days",
+        short_name = "Lazy",
+        icon       = "Icon_prop_days_of_summer_lantern.png",
+        sort       = 9,
+        t_icon     = "",
+    },
+    summer = {
+        name       = "Days of Summer",
+        short_name = "Summer",
+        icon       = "Icon_prop_summer_umbrella.png",
+        sort       = 10,
+        t_icon     = "",
+    },
+    summer_lights = {
+        name       = "Days of Summer Lights",
+        short_name = "Summer Lights",
+        icon       = "Icon_prop_days_of_summer_lantern.png",
+        sort       = 11,
+        t_icon     = "",
+    },
+    mischief = {
+        name       = "Days of Mischief",
+        short_name = "Mischief",
+        icon       = "Days-of-Mischief-event-symbol-Ray.png",
+        sort       = 12,
+        t_icon     = "Days-of-Mischief-event-symbol.png",
+    },
+    feast = {
+        name       = "Days of Feast",
+        short_name = "Feast",
+        icon       = "Days-of-Feast-event-symbol-Ray.png",
+        sort       = 13,
+        t_icon     = "Feast-ticket-Ray.png",
+    },
+    treasure = {
+        name       = "Days of Treasure",
+        short_name = "Treasure",
+        icon       = "Treasure-ticket-icon.png",
+        sort       = 14,
+        t_icon     = "Days-of-Treasure-Ticket.png",
+    },
+    
+    -- Non-reoccurring
+    kizuna_ai = {
+    	name       = "Kizuna AI",
+    	short_name = "Kizuna",
+    	icon       = "Kizuna-AI-Hair-Accessory-Icon.png ",
+    	sort       = 31,
+    },
+    healing = {
+    	name       = "Days of Healing",
+    	short_name = "Healing",
+    	icon       = "Icon hair event healing poppy.png",
+    	sort       = 30,
+    },
+    aurora_encore = {
+    	name       = "AURORA Encore Concerts",
+    	short_name = "AURORA",
+    	icon       = "AURORA-event-symbol-Ray.png",
+    	sort       = 32,
+    	t_icon     = "Aurora-ticket-Ray.png",
+    },
+    firework_festival = {
+    	name       = "Aviary's Firework Festival",
+    	short_name = "Fireworks",
+    	icon       = "Firework-Festival-event-symbol-Ray.png",
+    	sort       = 33,
+    	t_icon     = "Firework-festival-ticket-Ray.png",
+    },
+    spring_camping = {
+    	name       = "Spring Camping",
+    	short_name = "Camping",
+    	icon       = "Shared-space-map-icon-Ray.png",
+    	sort       = 34,
+    },
+    cinnamoroll = {
+    	name       = "Sky × Cinnamoroll Pop-Up Cafe",
+    	short_name = "Cinnamoroll",
+    	icon       = "Cinnamoroll-event-symbol.png",
+    	sort       = 35,
+    	t_icon     = "Cinnamoroll-ticket-icon.png",
+    },
+    tournament = {
+    	name       = "Tournament of Triumph",
+    	short_name = "Tournament",
+    	icon       = "Tournament-event-symbol.png",
+    	sort       = 36,
+    	t_icon     = "Tournament-ticket-icon.png",
+    },
+    the_little_prince_encore = {
+    	name       = "The Little Prince Encore",
+    	short_name = "TLP",
+    	icon       = "The-Little-Prince-Encore-event-symbol.png",
+    	sort       = 37,
+    },
+    workshop_show_and_tell = {
+    	name       = "Workshop Show & Tell",
+    	short_name = "Workshop",
+    	icon       = "Workshop-Show-&-Tell-event-symbol.png",
+    	sort       = 38,
+    }
+}
+local stdData = require('Module:stdData')
+-- Process data, including merging in language-specific overrides
+return stdData.processData(data, 'Days')
