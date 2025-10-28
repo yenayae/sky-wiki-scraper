@@ -1,0 +1,18 @@
+10/28/2025
+- foundout that the editors just post up the data onthe wiki
+
+days_item_data
+- cosmetics table oriented
+- can insert into sources/spirits?
+
+seasons_data
+- sources/spirits table oriented
+- have to parse for cosmetics
+
+spirit_data
+- sources/spirits table oriented
+- has relevant cosmetics linked
+
+spirit_item_data
+- cosmetic tyeps table (essentially)
+
