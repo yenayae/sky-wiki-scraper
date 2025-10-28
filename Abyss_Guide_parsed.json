@@ -1,0 +1,132 @@
+{
+  "image": "SOAbyss-Abyss-Guide.png",
+  "season": "Abyss",
+  "location": "Treasure Reef",
+  "_source_file": "Abyss_Guide.txt",
+  "_type": "guide",
+  "name": "Abyss_Guide",
+  "summary": "The is a Seasonal Guide (also known as Quest Giver) from the Season of Abyss who offers quests and cosmetics. The Abyss Guide is found standing on the boat in the Treasure Reef. The Ultimate Guide offered an necklace_u, an mask_u, an headpiece_u, and an cape_u for Season Pass holders. This Ultimate Guide also provided a new cosmetic in their Quest Tree, permanently available to all players: a mask.",
+  "sections": {
+    "Ultimate Gifts": {
+      "Abyss Ultimate Mask": {
+        "cosmeticType": "Abyss Ultimate Mask",
+        "description": "The Abyss Ultimate Mask is a beige mask that covers the bottom half of the player's face. At the top, it is decorated with small dark-brown triangles. The mask is hollow from the inside with a horizonal round-edged cylindrical shape, topped with a light turquoise stone in the middle. It was a Season Pass exclusive item during the Season, available for after unlocking the Friendship Tree's third node. The mask gives you 15 more seconds of breathing when diving.",
+        "galleryFiles": [
+          "mask_u (icon)"
+        ],
+        "costs": [
+          {
+            "amount": 1,
+            "currency": "seasonal_hearts",
+            "currency_code": "SH",
+            "is_placeholder": false
+          }
+        ]
+      },
+      "Abyss Ultimate Head Accessory": {
+        "cosmeticType": "Abyss Ultimate Head Accessory",
+        "description": "The Abyss Ultimate Head Accessory is a small braid on the right side of the players head, adorned with a bronzed hair ring with a turquoise rhombus-shaped stone in the middle. It was a Season Pass exclusive item during the Season, available for after unlocking the Friendship Tree's first node.",
+        "galleryFiles": [
+          "headpiece_u (icon)"
+        ],
+        "costs": [
+          {
+            "amount": 1,
+            "currency": "seasonal_hearts",
+            "currency_code": "SH",
+            "is_placeholder": false
+          }
+        ]
+      },
+      "Abyss Ultimate Cape": {
+        "cosmeticType": "Abyss Ultimate Cape",
+        "description": "The Abyss Ultimate Cape is a red cape with a light- and dark-brown zig-zag border at the bottom and top hem. In the front, the two cape sides at the top are connected with bronzed rings and a cape chain, the chain itself being a turquoise color. It was a Season Pass exclusive item during the Season, available for after unlocking the Friendship Tree's second node.",
+        "galleryFiles": [
+          "cape_u (icon)",
+          "cape_u (back)"
+        ],
+        "costs": [
+          {
+            "amount": 2,
+            "currency": "seasonal_hearts",
+            "currency_code": "SH",
+            "is_placeholder": false
+          }
+        ]
+      }
+    },
+    "Friendship Tree": {
+      "trees": [
+        {
+          "name": "Friendship Tree",
+          "nodes": {
+            "nodeC4": {
+              "id": "nodeC4",
+              "level": 4,
+              "position": "center",
+              "item_type": "mask_u",
+              "price": {
+                "amount": 1,
+                "currency": "seasonal_hearts",
+                "currency_code": "SH",
+                "is_placeholder": false
+              },
+              "raw_content": "mask_u 1 SH AP"
+            },
+            "nodeC3": {
+              "id": "nodeC3",
+              "level": 3,
+              "position": "center",
+              "item_type": "cape_u",
+              "price": {
+                "amount": 2,
+                "currency": "seasonal_hearts",
+                "currency_code": "SH",
+                "is_placeholder": false
+              },
+              "raw_content": "cape_u 2 SH AP"
+            },
+            "nodeC2": {
+              "id": "nodeC2",
+              "level": 2,
+              "position": "center",
+              "item_type": "headpiece_u",
+              "price": {
+                "amount": 1,
+                "currency": "seasonal_hearts",
+                "currency_code": "SH",
+                "is_placeholder": false
+              },
+              "raw_content": "headpiece_u 1 SH AP"
+            },
+            "nodeC1": {
+              "id": "nodeC1",
+              "level": 1,
+              "position": "center",
+              "item_type": "necklace_u",
+              "price": null,
+              "raw_content": "necklace_u AP"
+            }
+          },
+          "levels": {
+            "1": [
+              "nodeC1"
+            ],
+            "2": [
+              "nodeC2"
+            ],
+            "3": [
+              "nodeC3"
+            ],
+            "4": [
+              "nodeC4"
+            ]
+          },
+          "metadata": {}
+        }
+      ],
+      "description": "The Friendship Tree was available to the right of the Quest Tree during the Season of Abyss. Now that the Season is over, these cosmetics are no longer available.",
+      "raw": "The {{PAGENAME}} Friendship Tree was available to the right of the Quest Tree during the Season of Abyss. '''Now that the Season is over, these cosmetics are no longer available.'''\n<section begin=\"Friendship Tree\" />{{Friendship Tree\n|spirit = Abyss Guide\n|image  = SOAbyss-Abyss-Guide.png\n|type   = season\n|season = Abyss\n\n|nodeC4 = mask_u 1 SH AP\n|  linkC4 = Abyss Guide#Abyss Ultimate Mask\n\n|nodeC3 = cape_u 2 SH AP\n|  linkC3 = Abyss Guide#Abyss Ultimate Cape\n\n|nodeC2 = headpiece_u 1 SH AP\n|  linkC2 = Abyss Guide#Abyss Ultimate Head Accessory \n\n|nodeC1 = necklace_u AP\n|  linkC1 = Abyss Guide#Abyss Ultimate Pendant\n}}<section end=\"Friendship Tree\" />"
+    }
+  }
+}

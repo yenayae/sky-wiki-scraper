@@ -239,6 +239,9 @@ def parse_cosmetics_section(text):
 
     return cosmetics
 
+def parse_ultimate_gifts_section(text):
+    # Reuse cosmetics parser since structure is similar
+    return parse_cosmetics_section(text)
 
 
 
@@ -488,6 +491,8 @@ def parse_file(filepath):
             sections_data["Expression"] = parse_expression_section(content)
         elif title_clean == "cosmetics":
             sections_data["Cosmetics"] = parse_cosmetics_section(content)
+        elif title_clean == "ultimate gifts":
+            sections_data["Ultimate Gifts"] = parse_ultimate_gifts_section(content)
         elif title_clean == "friendship tree":
             sections_data["Friendship Tree"] = parse_friendship_tree_section(content)
         elif title_clean == "traveling spirit":
