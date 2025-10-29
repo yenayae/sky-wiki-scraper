@@ -998,6 +998,6 @@ local data = {
 	},
 	
 }
-local stdData = require('Module:stdData')
--- Process data, including merging in language-specific overrides
-return stdData.processData(data, 'Cosmetics')
+-- local stdData = require('Module:stdData')
+-- -- Process data, including merging in language-specific overrides
+-- return stdData.processData(data, 'Cosmetics')

@@ -3444,6 +3444,6 @@ local data = {
 	-- }
 }
 
-local stdData = require('Module:stdData')
--- Process data, including merging in language-specific overrides
-return stdData.processData(data, 'Season Item')
+-- local stdData = require('Module:stdData')
+-- -- Process data, including merging in language-specific overrides
+-- return stdData.processData(data, 'Season Item')

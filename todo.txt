@@ -16,3 +16,21 @@ spirit_data
 spirit_item_data
 - cosmetic tyeps table (essentially)
 
+all cosmetics:
+- season_cosmetics_data.lua
+- cosmetics_data.lua
+
+list of module files:
+
+- cosmetics_data
+- days_item_data
+- season_cosmetics_data
+
+
+- days_data
+- dyes_data
+- emotes_data
+- locations
+- seasons_data
+- spirit_data ==> source
+- spirit_item_data ==> item_type field
